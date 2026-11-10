@@ -12,7 +12,7 @@ Zakon o izmjenama Zakona o financiranju jedinica lokalne i područne (regionalne
 | čl. 6 | [clanak-006.md](clanak-006.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2012-634` (tags `zakon-2012-634/<day>`; `python tools/on.py <day> zakon-2012-634`).
+Act id: `zakon-2012-634` (tags `zakon-2012-634/<day>`; `python registry/tools/on.py <day> zakon-2012-634`).
 
 ## Decisions made by hand
 

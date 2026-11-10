@@ -20,7 +20,7 @@ Uredba o izmjenama i dopuni Uredbe o Uredu zastupnika Republike Hrvatske pred Eu
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2018-1667` (tags `uredba-2018-1667/<day>`; `python tools/on.py <day> uredba-2018-1667`).
+Act id: `uredba-2018-1667` (tags `uredba-2018-1667/<day>`; `python registry/tools/on.py <day> uredba-2018-1667`).
 
 ## Decisions made by hand
 

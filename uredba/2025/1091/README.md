@@ -21,7 +21,7 @@ Uredba o institucionalnom okviru sustava za suzbijanje nepravilnosti i prijevara
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2025-1091` (tags `uredba-2025-1091/<day>`; `python tools/on.py <day> uredba-2025-1091`).
+Act id: `uredba-2025-1091` (tags `uredba-2025-1091/<day>`; `python registry/tools/on.py <day> uredba-2025-1091`).
 
 ## Decisions made by hand
 

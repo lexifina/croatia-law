@@ -5,7 +5,7 @@ Uredba o visini trošarine na cigarete, sitno rezani duhan za savijanje cigareta
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `uredba-2018-2067` (tags `uredba-2018-2067/<day>`; `python tools/on.py <day> uredba-2018-2067`).
+Act id: `uredba-2018-2067` (tags `uredba-2018-2067/<day>`; `python registry/tools/on.py <day> uredba-2018-2067`).
 
 ## Decisions made by hand
 

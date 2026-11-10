@@ -10,7 +10,7 @@ Uredba o izmjenama Uredbe o unutarnjem ustrojstvu ureda državne uprave u župan
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2012-1249` (tags `uredba-2012-1249/<day>`; `python tools/on.py <day> uredba-2012-1249`).
+Act id: `uredba-2012-1249` (tags `uredba-2012-1249/<day>`; `python registry/tools/on.py <day> uredba-2012-1249`).
 
 ## Decisions made by hand
 

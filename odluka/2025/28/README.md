@@ -10,7 +10,7 @@ Odluka o izmjeni Odluke o naknadi za razvoj trgovačkog društva Komunalno druš
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2025-28` (tags `odluka-2025-28/<day>`; `python tools/on.py <day> odluka-2025-28`).
+Act id: `odluka-2025-28` (tags `odluka-2025-28/<day>`; `python registry/tools/on.py <day> odluka-2025-28`).
 
 ## Decisions made by hand
 

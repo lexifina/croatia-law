@@ -8,7 +8,7 @@ Odluka o katastarskoj izmjeri na području Općine Cista Provo za dio katastarsk
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2024-906` (tags `odluka-2024-906/<day>`; `python tools/on.py <day> odluka-2024-906`).
+Act id: `odluka-2024-906` (tags `odluka-2024-906/<day>`; `python registry/tools/on.py <day> odluka-2024-906`).
 
 ## Decisions made by hand
 

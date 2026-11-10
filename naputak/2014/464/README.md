@@ -9,7 +9,7 @@ Naputak o načinu i uvjetima primjene "Offset programa" · 1 versions, from 2014
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `naputak-2014-464` (tags `naputak-2014-464/<day>`; `python tools/on.py <day> naputak-2014-464`).
+Act id: `naputak-2014-464` (tags `naputak-2014-464/<day>`; `python registry/tools/on.py <day> naputak-2014-464`).
 
 ## Status
 

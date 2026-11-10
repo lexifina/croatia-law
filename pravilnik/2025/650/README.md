@@ -34,7 +34,7 @@ Pravilnik o provedbi mjere I.21. »Zamjena motora ribarskih plovila« · 1 versi
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2025-650` (tags `pravilnik-2025-650/<day>`; `python tools/on.py <day> pravilnik-2025-650`).
+Act id: `pravilnik-2025-650` (tags `pravilnik-2025-650/<day>`; `python registry/tools/on.py <day> pravilnik-2025-650`).
 
 ## Decisions made by hand
 

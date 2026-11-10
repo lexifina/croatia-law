@@ -17,7 +17,7 @@ Odluka o lokalnim porezima Općine Višnjan · 1 versions, from 2023-01-21 (late
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2023-95` (tags `odluka-2023-95/<day>`; `python tools/on.py <day> odluka-2023-95`).
+Act id: `odluka-2023-95` (tags `odluka-2023-95/<day>`; `python registry/tools/on.py <day> odluka-2023-95`).
 
 ## Status
 

@@ -19,7 +19,7 @@ Zakon o izmjenama i dopunama Zakona o vodama · 1 versions, from 2011-11-24 (lat
 | čl. 13 | [clanak-013.md](clanak-013.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2011-2612` (tags `zakon-2011-2612/<day>`; `python tools/on.py <day> zakon-2011-2612`).
+Act id: `zakon-2011-2612` (tags `zakon-2011-2612/<day>`; `python registry/tools/on.py <day> zakon-2011-2612`).
 
 ## Decisions made by hand
 

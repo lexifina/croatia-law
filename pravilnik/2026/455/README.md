@@ -28,7 +28,7 @@ Pravilnik o ribolovnim mogućnostima i ribolovu igluna (Xiphias gladius) · 1 ve
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2026-455` (tags `pravilnik-2026-455/<day>`; `python tools/on.py <day> pravilnik-2026-455`).
+Act id: `pravilnik-2026-455` (tags `pravilnik-2026-455/<day>`; `python registry/tools/on.py <day> pravilnik-2026-455`).
 
 ## Decisions made by hand
 

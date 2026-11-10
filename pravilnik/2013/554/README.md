@@ -14,7 +14,7 @@ Pravilnik o postupku homologacije motora s kompresijskim paljenjem i motora na p
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2013-554` (tags `pravilnik-2013-554/<day>`; `python tools/on.py <day> pravilnik-2013-554`).
+Act id: `pravilnik-2013-554` (tags `pravilnik-2013-554/<day>`; `python registry/tools/on.py <day> pravilnik-2013-554`).
 
 ## Decisions made by hand
 

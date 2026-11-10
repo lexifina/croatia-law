@@ -8,7 +8,7 @@ Odluka o osnivanju Nacionalnog vijeća za digitalnu ekonomiju · 1 versions, fro
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2015-1196` (tags `odluka-2015-1196/<day>`; `python tools/on.py <day> odluka-2015-1196`).
+Act id: `odluka-2015-1196` (tags `odluka-2015-1196/<day>`; `python registry/tools/on.py <day> odluka-2015-1196`).
 
 ## Status
 

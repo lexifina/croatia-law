@@ -65,7 +65,7 @@ Pravilnik o farmakovigilanciji · 1 versions, from 2013-07-02 (latest in force: 
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2013-1797` (tags `pravilnik-2013-1797/<day>`; `python tools/on.py <day> pravilnik-2013-1797`).
+Act id: `pravilnik-2013-1797` (tags `pravilnik-2013-1797/<day>`; `python registry/tools/on.py <day> pravilnik-2013-1797`).
 
 ## Status
 

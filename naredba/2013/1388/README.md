@@ -12,7 +12,7 @@ Naredba o izmjenama i dopunama Naredbe o broju povlastica za gospodarski ribolov
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `naredba-2013-1388` (tags `naredba-2013-1388/<day>`; `python tools/on.py <day> naredba-2013-1388`).
+Act id: `naredba-2013-1388` (tags `naredba-2013-1388/<day>`; `python registry/tools/on.py <day> naredba-2013-1388`).
 
 ## Decisions made by hand
 

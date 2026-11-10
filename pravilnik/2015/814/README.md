@@ -14,7 +14,7 @@ Pravilnik o načinu vođenja evidencije o obavljenim inspekcijskim pregledima mj
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2015-814` (tags `pravilnik-2015-814/<day>`; `python tools/on.py <day> pravilnik-2015-814`).
+Act id: `pravilnik-2015-814` (tags `pravilnik-2015-814/<day>`; `python registry/tools/on.py <day> pravilnik-2015-814`).
 
 ## Status
 

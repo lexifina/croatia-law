@@ -20,7 +20,7 @@ Pravilnik o planu oporavka, kriterijima značajnosti i pokazateljima trenda koji
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2019-1623` (tags `pravilnik-2019-1623/<day>`; `python tools/on.py <day> pravilnik-2019-1623`).
+Act id: `pravilnik-2019-1623` (tags `pravilnik-2019-1623/<day>`; `python registry/tools/on.py <day> pravilnik-2019-1623`).
 
 ## Status
 

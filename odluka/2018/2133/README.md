@@ -14,7 +14,7 @@ Odluka o izmjenama i dopunama Odluke o klasifikaciji izloženosti u rizične sku
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2018-2133` (tags `odluka-2018-2133/<day>`; `python tools/on.py <day> odluka-2018-2133`).
+Act id: `odluka-2018-2133` (tags `odluka-2018-2133/<day>`; `python registry/tools/on.py <day> odluka-2018-2133`).
 
 ## Decisions made by hand
 

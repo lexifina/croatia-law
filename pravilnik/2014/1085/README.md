@@ -34,7 +34,7 @@ Pravilnik o minimalnim uvjetima prostora, opreme i broja potrebnih stručnih i d
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2014-1085` (tags `pravilnik-2014-1085/<day>`; `python tools/on.py <day> pravilnik-2014-1085`).
+Act id: `pravilnik-2014-1085` (tags `pravilnik-2014-1085/<day>`; `python registry/tools/on.py <day> pravilnik-2014-1085`).
 
 ## Decisions made by hand
 

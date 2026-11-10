@@ -7,7 +7,7 @@ Odluka Agencije za elektoničke medije klasa: 612-12/11-01/0100, urbroj: 567-02-
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 
-Act id: `odluka-2011-2551` (tags `odluka-2011-2551/<day>`; `python tools/on.py <day> odluka-2011-2551`).
+Act id: `odluka-2011-2551` (tags `odluka-2011-2551/<day>`; `python registry/tools/on.py <day> odluka-2011-2551`).
 
 ## Decisions made by hand
 

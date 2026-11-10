@@ -5,7 +5,7 @@ Odluka o uvođenju nužne mjere posebne organizacije ustanova socijalne skrbi i 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `odluka-2020-809` (tags `odluka-2020-809/<day>`; `python tools/on.py <day> odluka-2020-809`).
+Act id: `odluka-2020-809` (tags `odluka-2020-809/<day>`; `python registry/tools/on.py <day> odluka-2020-809`).
 
 ## Decisions made by hand
 

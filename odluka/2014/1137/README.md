@@ -9,7 +9,7 @@ Odluka o izmjeni i dopunama Odluke o raspoređivanju sredstava za rad politički
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2014-1137` (tags `odluka-2014-1137/<day>`; `python tools/on.py <day> odluka-2014-1137`).
+Act id: `odluka-2014-1137` (tags `odluka-2014-1137/<day>`; `python registry/tools/on.py <day> odluka-2014-1137`).
 
 ## Status
 

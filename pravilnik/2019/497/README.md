@@ -5,7 +5,7 @@ Pravilnik o informacijskom sustavu u sportu · 2 versions, from 2019-03-21 (late
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `pravilnik-2019-497` (tags `pravilnik-2019-497/<day>`; `python tools/on.py <day> pravilnik-2019-497`).
+Act id: `pravilnik-2019-497` (tags `pravilnik-2019-497/<day>`; `python registry/tools/on.py <day> pravilnik-2019-497`).
 
 ## Decisions made by hand
 

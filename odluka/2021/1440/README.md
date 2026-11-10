@@ -13,7 +13,7 @@ Odluka o dopuštenoj visini tehnološkog manjka, kala, rastepa, kvara i loma u p
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2021-1440` (tags `odluka-2021-1440/<day>`; `python tools/on.py <day> odluka-2021-1440`).
+Act id: `odluka-2021-1440` (tags `odluka-2021-1440/<day>`; `python registry/tools/on.py <day> odluka-2021-1440`).
 
 ## Decisions made by hand
 

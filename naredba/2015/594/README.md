@@ -17,7 +17,7 @@ Naredba o visini naknade za tehnički pregled i baždarenje čamaca za javne nam
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `naredba-2015-594` (tags `naredba-2015-594/<day>`; `python tools/on.py <day> naredba-2015-594`).
+Act id: `naredba-2015-594` (tags `naredba-2015-594/<day>`; `python registry/tools/on.py <day> naredba-2015-594`).
 
 ## Status
 

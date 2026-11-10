@@ -19,7 +19,7 @@ Pravilnik o potpori pri opskrbi redovnih polaznika odgojno-obrazovnih ustanova m
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2013-2616` (tags `pravilnik-2013-2616/<day>`; `python tools/on.py <day> pravilnik-2013-2616`).
+Act id: `pravilnik-2013-2616` (tags `pravilnik-2013-2616/<day>`; `python registry/tools/on.py <day> pravilnik-2013-2616`).
 
 ## Status
 

@@ -8,7 +8,7 @@ Odluka o izradi Smjernica za rad nadzornih i revizijskih odbora u pravnim osobam
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2021-936` (tags `odluka-2021-936/<day>`; `python tools/on.py <day> odluka-2021-936`).
+Act id: `odluka-2021-936` (tags `odluka-2021-936/<day>`; `python registry/tools/on.py <day> odluka-2021-936`).
 
 ## Decisions made by hand
 

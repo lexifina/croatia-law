@@ -26,7 +26,7 @@ Odluka o redu prvenstva korištenja voda u Istarskoj županiji iz tijela površi
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2012-2152` (tags `odluka-2012-2152/<day>`; `python tools/on.py <day> odluka-2012-2152`).
+Act id: `odluka-2012-2152` (tags `odluka-2012-2152/<day>`; `python registry/tools/on.py <day> odluka-2012-2152`).
 
 ## Decisions made by hand
 

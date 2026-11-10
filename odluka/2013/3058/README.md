@@ -12,7 +12,7 @@ Odluka o naknadi za superviziju kreditnih institucija za 2014. godinu · 1 versi
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2013-3058` (tags `odluka-2013-3058/<day>`; `python tools/on.py <day> odluka-2013-3058`).
+Act id: `odluka-2013-3058` (tags `odluka-2013-3058/<day>`; `python registry/tools/on.py <day> odluka-2013-3058`).
 
 ## Decisions made by hand
 

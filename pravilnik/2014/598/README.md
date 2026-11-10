@@ -31,7 +31,7 @@ Pravilnik o dodacima na plaću djelatnih vojnih osoba · 1 versions, from 2014-0
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2014-598` (tags `pravilnik-2014-598/<day>`; `python tools/on.py <day> pravilnik-2014-598`).
+Act id: `pravilnik-2014-598` (tags `pravilnik-2014-598/<day>`; `python registry/tools/on.py <day> pravilnik-2014-598`).
 
 ## Status
 

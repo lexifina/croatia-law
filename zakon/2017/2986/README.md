@@ -30,7 +30,7 @@ Zakon o izmjenama i dopunama Zakona o socijalnoj skrbi · 1 versions, from 2017-
 | čl. 24 | [clanak-024.md](clanak-024.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2017-2986` (tags `zakon-2017-2986/<day>`; `python tools/on.py <day> zakon-2017-2986`).
+Act id: `zakon-2017-2986` (tags `zakon-2017-2986/<day>`; `python registry/tools/on.py <day> zakon-2017-2986`).
 
 ## Decisions made by hand
 

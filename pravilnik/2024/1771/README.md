@@ -10,7 +10,7 @@ Pravilnik o izmjenama Pravilnika o ribolovnim mogućnostima i raspodjeli državn
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2024-1771` (tags `pravilnik-2024-1771/<day>`; `python tools/on.py <day> pravilnik-2024-1771`).
+Act id: `pravilnik-2024-1771` (tags `pravilnik-2024-1771/<day>`; `python registry/tools/on.py <day> pravilnik-2024-1771`).
 
 ## Decisions made by hand
 

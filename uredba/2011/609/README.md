@@ -52,7 +52,7 @@ Uredba o načelima za unutarnje ustrojstvo tijela državne uprave · 1 versions,
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2011-609` (tags `uredba-2011-609/<day>`; `python tools/on.py <day> uredba-2011-609`).
+Act id: `uredba-2011-609` (tags `uredba-2011-609/<day>`; `python registry/tools/on.py <day> uredba-2011-609`).
 
 ## Status
 

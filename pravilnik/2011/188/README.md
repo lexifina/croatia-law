@@ -12,7 +12,7 @@ Pravilnik o dokumentaciji koja se prilaže zahtjevu za autorizaciju · 1 version
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2011-188` (tags `pravilnik-2011-188/<day>`; `python tools/on.py <day> pravilnik-2011-188`).
+Act id: `pravilnik-2011-188` (tags `pravilnik-2011-188/<day>`; `python registry/tools/on.py <day> pravilnik-2011-188`).
 
 ## Decisions made by hand
 

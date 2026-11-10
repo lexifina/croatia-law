@@ -10,7 +10,7 @@ Zakon o izmjeni i dopuni Zakona o nacionalnom centru za vanjsko vrednovanje obra
 | čl. 4 | [clanak-004.md](clanak-004.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2025-547` (tags `zakon-2025-547/<day>`; `python tools/on.py <day> zakon-2025-547`).
+Act id: `zakon-2025-547` (tags `zakon-2025-547/<day>`; `python registry/tools/on.py <day> zakon-2025-547`).
 
 ## Decisions made by hand
 

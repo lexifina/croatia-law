@@ -9,7 +9,7 @@ Odluka o kriterijima raspodjele Državne kvote i trajne individualne kvote u 201
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2013-402` (tags `odluka-2013-402/<day>`; `python tools/on.py <day> odluka-2013-402`).
+Act id: `odluka-2013-402` (tags `odluka-2013-402/<day>`; `python registry/tools/on.py <day> odluka-2013-402`).
 
 ## Status
 

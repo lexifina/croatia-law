@@ -10,7 +10,7 @@ Pravilnik o izmjeni Pravilnika o načinu ostvarivanja prava na slobodan izbor do
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2015-346` (tags `pravilnik-2015-346/<day>`; `python tools/on.py <day> pravilnik-2015-346`).
+Act id: `pravilnik-2015-346` (tags `pravilnik-2015-346/<day>`; `python registry/tools/on.py <day> pravilnik-2015-346`).
 
 ## Status
 

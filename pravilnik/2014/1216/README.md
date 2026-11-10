@@ -37,7 +37,7 @@ Pravilnik o Registru objekata leasinga · 1 versions, from 2014-05-31 (latest in
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2014-1216` (tags `pravilnik-2014-1216/<day>`; `python tools/on.py <day> pravilnik-2014-1216`).
+Act id: `pravilnik-2014-1216` (tags `pravilnik-2014-1216/<day>`; `python registry/tools/on.py <day> pravilnik-2014-1216`).
 
 ## Status
 

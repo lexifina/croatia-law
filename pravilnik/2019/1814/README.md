@@ -45,7 +45,7 @@ Pravilnik o osiguranju kvalitete krvi i krvnih pripravaka u zdravstvenim ustanov
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2019-1814` (tags `pravilnik-2019-1814/<day>`; `python tools/on.py <day> pravilnik-2019-1814`).
+Act id: `pravilnik-2019-1814` (tags `pravilnik-2019-1814/<day>`; `python registry/tools/on.py <day> pravilnik-2019-1814`).
 
 ## Decisions made by hand
 

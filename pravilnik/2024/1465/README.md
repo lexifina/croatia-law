@@ -51,7 +51,7 @@ Pravilnik o polaganju stručnog ispita iz rudarstva · 1 versions, from 2024-07-
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2024-1465` (tags `pravilnik-2024-1465/<day>`; `python tools/on.py <day> pravilnik-2024-1465`).
+Act id: `pravilnik-2024-1465` (tags `pravilnik-2024-1465/<day>`; `python registry/tools/on.py <day> pravilnik-2024-1465`).
 
 ## Decisions made by hand
 

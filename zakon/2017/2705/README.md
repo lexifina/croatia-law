@@ -16,7 +16,7 @@ Zakon o prestanku važenja Zakona o Fondu za naknadu oduzete imovine · 1 versio
 | čl. 10 | [clanak-010.md](clanak-010.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2017-2705` (tags `zakon-2017-2705/<day>`; `python tools/on.py <day> zakon-2017-2705`).
+Act id: `zakon-2017-2705` (tags `zakon-2017-2705/<day>`; `python registry/tools/on.py <day> zakon-2017-2705`).
 
 ## Decisions made by hand
 

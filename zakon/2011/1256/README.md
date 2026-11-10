@@ -9,7 +9,7 @@ Zakon o izmjeni i dopunama Zakona o Uredu za suzbijanje korupcije i organizirano
 | čl. 3 | [clanak-003.md](clanak-003.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2011-1256` (tags `zakon-2011-1256/<day>`; `python tools/on.py <day> zakon-2011-1256`).
+Act id: `zakon-2011-1256` (tags `zakon-2011-1256/<day>`; `python registry/tools/on.py <day> zakon-2011-1256`).
 
 ## Decisions made by hand
 

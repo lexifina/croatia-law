@@ -18,7 +18,7 @@ Uredba o radnim mjestima policijskih službenika kojima se staž osiguranja rač
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2013-2764` (tags `uredba-2013-2764/<day>`; `python tools/on.py <day> uredba-2013-2764`).
+Act id: `uredba-2013-2764` (tags `uredba-2013-2764/<day>`; `python registry/tools/on.py <day> uredba-2013-2764`).
 
 ## Status
 

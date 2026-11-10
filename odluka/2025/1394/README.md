@@ -8,7 +8,7 @@ Odluka o davanju suglasnosti na Odluku o izmjeni Statuta Hrvatske matice iseljen
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2025-1394` (tags `odluka-2025-1394/<day>`; `python tools/on.py <day> odluka-2025-1394`).
+Act id: `odluka-2025-1394` (tags `odluka-2025-1394/<day>`; `python registry/tools/on.py <day> odluka-2025-1394`).
 
 ## Decisions made by hand
 

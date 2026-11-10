@@ -14,7 +14,7 @@ Zakon o izmjenama Zakona o plaćama sudaca i drugih pravosudnih dužnosnik · 1 
 | čl. 8 | [clanak-008.md](clanak-008.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2014-2756` (tags `zakon-2014-2756/<day>`; `python tools/on.py <day> zakon-2014-2756`).
+Act id: `zakon-2014-2756` (tags `zakon-2014-2756/<day>`; `python registry/tools/on.py <day> zakon-2014-2756`).
 
 ## Decisions made by hand
 

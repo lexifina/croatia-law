@@ -36,7 +36,7 @@ Pravilnik o načinu rada i postupanja po predstavkama i pritužbama, vođenju Ev
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2012-1446` (tags `pravilnik-2012-1446/<day>`; `python tools/on.py <day> pravilnik-2012-1446`).
+Act id: `pravilnik-2012-1446` (tags `pravilnik-2012-1446/<day>`; `python registry/tools/on.py <day> pravilnik-2012-1446`).
 
 ## Status
 

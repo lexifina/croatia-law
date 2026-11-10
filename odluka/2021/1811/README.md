@@ -8,7 +8,7 @@ Odluka o nužnoj epidemiološkoj mjeri obveznog posjedovanja EU digitalne COVID 
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2021-1811` (tags `odluka-2021-1811/<day>`; `python tools/on.py <day> odluka-2021-1811`).
+Act id: `odluka-2021-1811` (tags `odluka-2021-1811/<day>`; `python registry/tools/on.py <day> odluka-2021-1811`).
 
 ## Decisions made by hand
 

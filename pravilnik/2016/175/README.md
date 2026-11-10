@@ -9,7 +9,7 @@ Pravilnik o prestanku važenja Pravilnika o pomoći Europskoj komisiji i suradnj
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2016-175` (tags `pravilnik-2016-175/<day>`; `python tools/on.py <day> pravilnik-2016-175`).
+Act id: `pravilnik-2016-175` (tags `pravilnik-2016-175/<day>`; `python registry/tools/on.py <day> pravilnik-2016-175`).
 
 ## Decisions made by hand
 

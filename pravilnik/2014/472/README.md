@@ -85,7 +85,7 @@ Pravilnik o provedbi programa izravne potpore i pojedinih mjera državne potpore
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2014-472` (tags `pravilnik-2014-472/<day>`; `python tools/on.py <day> pravilnik-2014-472`).
+Act id: `pravilnik-2014-472` (tags `pravilnik-2014-472/<day>`; `python registry/tools/on.py <day> pravilnik-2014-472`).
 
 ## Status
 

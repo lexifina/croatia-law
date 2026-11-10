@@ -41,7 +41,7 @@ Zakon o izmjenama i dopunama Zakona o policijskim poslovima i ovlastima · 1 ver
 | čl. 35 | [clanak-035.md](clanak-035.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2014-1845` (tags `zakon-2014-1845/<day>`; `python tools/on.py <day> zakon-2014-1845`).
+Act id: `zakon-2014-1845` (tags `zakon-2014-1845/<day>`; `python registry/tools/on.py <day> zakon-2014-1845`).
 
 ## Decisions made by hand
 

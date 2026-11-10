@@ -8,7 +8,7 @@ Odluka o izmjeni i dopuni Odluke o odvijanju i načinu organizacije javnog prome
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2020-1134` (tags `odluka-2020-1134/<day>`; `python tools/on.py <day> odluka-2020-1134`).
+Act id: `odluka-2020-1134` (tags `odluka-2020-1134/<day>`; `python registry/tools/on.py <day> odluka-2020-1134`).
 
 ## Decisions made by hand
 

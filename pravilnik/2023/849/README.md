@@ -28,7 +28,7 @@ Pravilnik o provedbi mjere I.9. »Privremeni prestanak ribolovnih aktivnosti« p
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2023-849` (tags `pravilnik-2023-849/<day>`; `python tools/on.py <day> pravilnik-2023-849`).
+Act id: `pravilnik-2023-849` (tags `pravilnik-2023-849/<day>`; `python registry/tools/on.py <day> pravilnik-2023-849`).
 
 ## Decisions made by hand
 

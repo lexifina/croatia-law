@@ -9,7 +9,7 @@ Pravilnik o izmjenama i dopunama Pravilnika o službenoj iskaznici i znački ins
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2019-2439` (tags `pravilnik-2019-2439/<day>`; `python tools/on.py <day> pravilnik-2019-2439`).
+Act id: `pravilnik-2019-2439` (tags `pravilnik-2019-2439/<day>`; `python registry/tools/on.py <day> pravilnik-2019-2439`).
 
 ## Decisions made by hand
 

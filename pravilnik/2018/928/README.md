@@ -9,7 +9,7 @@ Pravilnik o izmjenama i dopunama Pravilnika o uvjetima za obavljanje funkcije č
 | čl. 3 | [clanak-003.md](clanak-003.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `pravilnik-2018-928` (tags `pravilnik-2018-928/<day>`; `python tools/on.py <day> pravilnik-2018-928`).
+Act id: `pravilnik-2018-928` (tags `pravilnik-2018-928/<day>`; `python registry/tools/on.py <day> pravilnik-2018-928`).
 
 ## Decisions made by hand
 

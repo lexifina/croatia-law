@@ -9,7 +9,7 @@ Pravilnik o dopunama Pravilnika o prostornom i vremenskom ograničenju obavljanj
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2016-2596` (tags `pravilnik-2016-2596/<day>`; `python tools/on.py <day> pravilnik-2016-2596`).
+Act id: `pravilnik-2016-2596` (tags `pravilnik-2016-2596/<day>`; `python registry/tools/on.py <day> pravilnik-2016-2596`).
 
 ## Decisions made by hand
 

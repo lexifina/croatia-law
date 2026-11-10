@@ -49,7 +49,7 @@ Zakon o izmjenama i dopunama Zakona o radnom vremenu, obveznim odmorima mobilnih
 | čl. 43 | [clanak-043.md](clanak-043.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2022-2375` (tags `zakon-2022-2375/<day>`; `python tools/on.py <day> zakon-2022-2375`).
+Act id: `zakon-2022-2375` (tags `zakon-2022-2375/<day>`; `python registry/tools/on.py <day> zakon-2022-2375`).
 
 ## Decisions made by hand
 

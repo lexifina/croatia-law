@@ -27,7 +27,7 @@ Zakon o izmjenama i dopunama Zakona o društveno poticanoj stanogradnji · 1 ver
 | čl. 21 | [clanak-021.md](clanak-021.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2012-1966` (tags `zakon-2012-1966/<day>`; `python tools/on.py <day> zakon-2012-1966`).
+Act id: `zakon-2012-1966` (tags `zakon-2012-1966/<day>`; `python registry/tools/on.py <day> zakon-2012-1966`).
 
 ## Status
 

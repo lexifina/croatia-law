@@ -8,7 +8,7 @@ Odluka o sanaciji Specijalne bolnice za medicinsku rehabilitaciju Varaždinske T
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2013-922` (tags `odluka-2013-922/<day>`; `python tools/on.py <day> odluka-2013-922`).
+Act id: `odluka-2013-922` (tags `odluka-2013-922/<day>`; `python registry/tools/on.py <day> odluka-2013-922`).
 
 ## Status
 

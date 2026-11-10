@@ -35,7 +35,7 @@ Zakon o izmjenama i dopunama Zakona o trgovini · 1 versions, from 2014-03-06 (l
 | čl. 29 | [clanak-029.md](clanak-029.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2014-508` (tags `zakon-2014-508/<day>`; `python tools/on.py <day> zakon-2014-508`).
+Act id: `zakon-2014-508` (tags `zakon-2014-508/<day>`; `python registry/tools/on.py <day> zakon-2014-508`).
 
 ## Decisions made by hand
 

@@ -11,7 +11,7 @@ Pravilnik o izmjeni Pravilnika o financijskom izvještavanju u proračunskom ra�
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2021-677` (tags `pravilnik-2021-677/<day>`; `python tools/on.py <day> pravilnik-2021-677`).
+Act id: `pravilnik-2021-677` (tags `pravilnik-2021-677/<day>`; `python registry/tools/on.py <day> pravilnik-2021-677`).
 
 ## Decisions made by hand
 

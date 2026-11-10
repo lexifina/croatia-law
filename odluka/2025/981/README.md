@@ -5,7 +5,7 @@ Odluka o minimalnim novčanim iznosima potrebnim za mjesečno uzdržavanje djete
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `odluka-2025-981` (tags `odluka-2025-981/<day>`; `python tools/on.py <day> odluka-2025-981`).
+Act id: `odluka-2025-981` (tags `odluka-2025-981/<day>`; `python registry/tools/on.py <day> odluka-2025-981`).
 
 ## Decisions made by hand
 

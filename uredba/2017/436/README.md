@@ -10,7 +10,7 @@ Uredba o izmjenama Uredbe o institucionalnom okviru sustava za suzbijanje neprav
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2017-436` (tags `uredba-2017-436/<day>`; `python tools/on.py <day> uredba-2017-436`).
+Act id: `uredba-2017-436` (tags `uredba-2017-436/<day>`; `python registry/tools/on.py <day> uredba-2017-436`).
 
 ## Decisions made by hand
 

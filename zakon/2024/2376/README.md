@@ -24,7 +24,7 @@ Zakon o izmjenama i dopunama Zakona o komunalnom gospodarstvu · 1 versions, fro
 | čl. 18 | [clanak-018.md](clanak-018.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2024-2376` (tags `zakon-2024-2376/<day>`; `python tools/on.py <day> zakon-2024-2376`).
+Act id: `zakon-2024-2376` (tags `zakon-2024-2376/<day>`; `python registry/tools/on.py <day> zakon-2024-2376`).
 
 ## Decisions made by hand
 

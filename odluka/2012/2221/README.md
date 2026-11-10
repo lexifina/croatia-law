@@ -9,7 +9,7 @@ Odluka o aktualnoj vrijednosti mirovine od 1. srpnja 2012. · 1 versions, from 2
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2012-2221` (tags `odluka-2012-2221/<day>`; `python tools/on.py <day> odluka-2012-2221`).
+Act id: `odluka-2012-2221` (tags `odluka-2012-2221/<day>`; `python registry/tools/on.py <day> odluka-2012-2221`).
 
 ## Decisions made by hand
 

@@ -9,7 +9,7 @@ Zakon o izmjeni Zakona o postupanju i uvjetima gradnje radi poticanja ulaganja ¬
 | ƒçl. 3 | [clanak-003.md](clanak-003.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2013-1524` (tags `zakon-2013-1524/<day>`; `python tools/on.py <day> zakon-2013-1524`).
+Act id: `zakon-2013-1524` (tags `zakon-2013-1524/<day>`; `python registry/tools/on.py <day> zakon-2013-1524`).
 
 ## Decisions made by hand
 

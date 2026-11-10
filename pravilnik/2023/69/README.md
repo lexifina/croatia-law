@@ -15,7 +15,7 @@ Pravilnik o naknadama za poslove biljnog zdravstva · 1 versions, from 2023-01-1
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2023-69` (tags `pravilnik-2023-69/<day>`; `python tools/on.py <day> pravilnik-2023-69`).
+Act id: `pravilnik-2023-69` (tags `pravilnik-2023-69/<day>`; `python registry/tools/on.py <day> pravilnik-2023-69`).
 
 ## Decisions made by hand
 

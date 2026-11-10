@@ -19,7 +19,7 @@ Pravilnik o obrascima za prikupljanje humanitarne pomoći · 1 versions, from 20
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2015-2281` (tags `pravilnik-2015-2281/<day>`; `python tools/on.py <day> pravilnik-2015-2281`).
+Act id: `pravilnik-2015-2281` (tags `pravilnik-2015-2281/<day>`; `python registry/tools/on.py <day> pravilnik-2015-2281`).
 
 ## Status
 

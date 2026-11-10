@@ -8,7 +8,7 @@ Odluka o davanju prethodne suglasnosti na izmjene Statuta Hrvatske agencije za o
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2012-1090` (tags `odluka-2012-1090/<day>`; `python tools/on.py <day> odluka-2012-1090`).
+Act id: `odluka-2012-1090` (tags `odluka-2012-1090/<day>`; `python registry/tools/on.py <day> odluka-2012-1090`).
 
 ## Decisions made by hand
 

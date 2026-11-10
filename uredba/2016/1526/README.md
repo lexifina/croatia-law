@@ -5,7 +5,7 @@ Uredba o osnivanju prava građenja na šumama i šumskom zemljištu u vlasništv
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `uredba-2016-1526` (tags `uredba-2016-1526/<day>`; `python tools/on.py <day> uredba-2016-1526`).
+Act id: `uredba-2016-1526` (tags `uredba-2016-1526/<day>`; `python registry/tools/on.py <day> uredba-2016-1526`).
 
 ## Decisions made by hand
 

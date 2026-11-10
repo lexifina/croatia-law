@@ -9,7 +9,7 @@ Pravilnik o dopuni Pravilnika o fiskalizaciji u prometu gotovinom · 1 versions,
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2021-4` (tags `pravilnik-2021-4/<day>`; `python tools/on.py <day> pravilnik-2021-4`).
+Act id: `pravilnik-2021-4` (tags `pravilnik-2021-4/<day>`; `python registry/tools/on.py <day> pravilnik-2021-4`).
 
 ## Decisions made by hand
 

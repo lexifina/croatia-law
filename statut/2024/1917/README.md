@@ -53,7 +53,7 @@ Statut Hrvatske komore edukacijskih rehabilitatora · 1 versions, from 2024-10-1
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `statut-2024-1917` (tags `statut-2024-1917/<day>`; `python tools/on.py <day> statut-2024-1917`).
+Act id: `statut-2024-1917` (tags `statut-2024-1917/<day>`; `python registry/tools/on.py <day> statut-2024-1917`).
 
 ## Decisions made by hand
 

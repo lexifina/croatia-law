@@ -7,7 +7,7 @@ Odluka Agencije za elektroničke medije klasa: 612-12/10-02/0046, urbroj: 567-06
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 
-Act id: `odluka-2020-1411` (tags `odluka-2020-1411/<day>`; `python tools/on.py <day> odluka-2020-1411`).
+Act id: `odluka-2020-1411` (tags `odluka-2020-1411/<day>`; `python registry/tools/on.py <day> odluka-2020-1411`).
 
 ## Decisions made by hand
 

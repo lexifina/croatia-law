@@ -12,7 +12,7 @@ Zakon o izmjenama i dopuni Zakona o zaštiti od buke · 1 versions, from 2016-05
 | čl. 6 | [clanak-006.md](clanak-006.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2016-1065` (tags `zakon-2016-1065/<day>`; `python tools/on.py <day> zakon-2016-1065`).
+Act id: `zakon-2016-1065` (tags `zakon-2016-1065/<day>`; `python registry/tools/on.py <day> zakon-2016-1065`).
 
 ## Decisions made by hand
 

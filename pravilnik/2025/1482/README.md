@@ -19,7 +19,7 @@ Pravilnik o provedbi Programa potpore za sufinanciranje troškova proizvodnje hr
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2025-1482` (tags `pravilnik-2025-1482/<day>`; `python tools/on.py <day> pravilnik-2025-1482`).
+Act id: `pravilnik-2025-1482` (tags `pravilnik-2025-1482/<day>`; `python registry/tools/on.py <day> pravilnik-2025-1482`).
 
 ## Decisions made by hand
 

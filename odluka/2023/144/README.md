@@ -8,7 +8,7 @@ Odluka o katastarskoj izmjeri na području Grada Petrinje za dijelove katastarsk
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2023-144` (tags `odluka-2023-144/<day>`; `python tools/on.py <day> odluka-2023-144`).
+Act id: `odluka-2023-144` (tags `odluka-2023-144/<day>`; `python registry/tools/on.py <day> odluka-2023-144`).
 
 ## Decisions made by hand
 

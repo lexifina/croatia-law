@@ -9,7 +9,7 @@ Naputak o izmjeni Naputka o načinu provođenja mjera propisnih Naredbom o prove
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `naputak-2011-2251` (tags `naputak-2011-2251/<day>`; `python tools/on.py <day> naputak-2011-2251`).
+Act id: `naputak-2011-2251` (tags `naputak-2011-2251/<day>`; `python registry/tools/on.py <day> naputak-2011-2251`).
 
 ## Decisions made by hand
 

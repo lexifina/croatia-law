@@ -9,7 +9,7 @@ Odluka o donošenju Plana i programa mjera zdravstvene zaštite 2020. - 2022. ·
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2020-2753` (tags `odluka-2020-2753/<day>`; `python tools/on.py <day> odluka-2020-2753`).
+Act id: `odluka-2020-2753` (tags `odluka-2020-2753/<day>`; `python registry/tools/on.py <day> odluka-2020-2753`).
 
 ## Decisions made by hand
 

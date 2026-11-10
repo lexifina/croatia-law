@@ -19,7 +19,7 @@ Pravilnik o tehničkim i drugim uvjetima koje moraju ispunjavati pravne osobe ov
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2011-2348` (tags `pravilnik-2011-2348/<day>`; `python tools/on.py <day> pravilnik-2011-2348`).
+Act id: `pravilnik-2011-2348` (tags `pravilnik-2011-2348/<day>`; `python registry/tools/on.py <day> pravilnik-2011-2348`).
 
 ## Decisions made by hand
 

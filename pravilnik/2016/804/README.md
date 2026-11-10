@@ -38,7 +38,7 @@ Pravilnik o elektromagnetskoj kompatibilnosti · 1 versions, from 2016-04-20 (la
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2016-804` (tags `pravilnik-2016-804/<day>`; `python tools/on.py <day> pravilnik-2016-804`).
+Act id: `pravilnik-2016-804` (tags `pravilnik-2016-804/<day>`; `python registry/tools/on.py <day> pravilnik-2016-804`).
 
 ## Status
 

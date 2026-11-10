@@ -24,7 +24,7 @@ Pravilnik o načinu i uvjetima obavljanja poslova privatne zaštite na javnim po
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2012-929` (tags `pravilnik-2012-929/<day>`; `python tools/on.py <day> pravilnik-2012-929`).
+Act id: `pravilnik-2012-929` (tags `pravilnik-2012-929/<day>`; `python registry/tools/on.py <day> pravilnik-2012-929`).
 
 ## Status
 

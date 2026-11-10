@@ -5,7 +5,7 @@ Odluka o utvrđivanju Dodatne liste ortopedskih i drugih pomagala Hrvatskog zavo
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `odluka-2025-1835` (tags `odluka-2025-1835/<day>`; `python tools/on.py <day> odluka-2025-1835`).
+Act id: `odluka-2025-1835` (tags `odluka-2025-1835/<day>`; `python registry/tools/on.py <day> odluka-2025-1835`).
 
 ## Decisions made by hand
 

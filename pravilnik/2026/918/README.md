@@ -12,7 +12,7 @@ Pravilnik o izmjenama i dopuni Pravilnika o prijenosu upravljanja AIF-om · 1 ve
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2026-918` (tags `pravilnik-2026-918/<day>`; `python tools/on.py <day> pravilnik-2026-918`).
+Act id: `pravilnik-2026-918` (tags `pravilnik-2026-918/<day>`; `python registry/tools/on.py <day> pravilnik-2026-918`).
 
 ## Decisions made by hand
 

@@ -8,7 +8,7 @@ Odluka o davanju suglasnosti na davanje u potkoncesiju dijela pomorskog dobra u 
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2021-162` (tags `odluka-2021-162/<day>`; `python tools/on.py <day> odluka-2021-162`).
+Act id: `odluka-2021-162` (tags `odluka-2021-162/<day>`; `python registry/tools/on.py <day> odluka-2021-162`).
 
 ## Decisions made by hand
 

@@ -15,7 +15,7 @@ Pravilnik o izdavanju suglasnosti za stjecanje kvalificiranog udjela u leasing d
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2014-394` (tags `pravilnik-2014-394/<day>`; `python tools/on.py <day> pravilnik-2014-394`).
+Act id: `pravilnik-2014-394` (tags `pravilnik-2014-394/<day>`; `python registry/tools/on.py <day> pravilnik-2014-394`).
 
 ## Status
 

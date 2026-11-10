@@ -8,7 +8,7 @@ Odluka o određivanju središnjih tijela za provedbu Uredbe (EU) br. 2016/1191 E
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2018-1401` (tags `odluka-2018-1401/<day>`; `python tools/on.py <day> odluka-2018-1401`).
+Act id: `odluka-2018-1401` (tags `odluka-2018-1401/<day>`; `python registry/tools/on.py <day> odluka-2018-1401`).
 
 ## Decisions made by hand
 

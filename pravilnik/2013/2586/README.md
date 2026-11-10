@@ -32,7 +32,7 @@ Pravilnik o uvjetima i načinu ostvarivanja prava na pokriće troškova prehrane
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2013-2586` (tags `pravilnik-2013-2586/<day>`; `python tools/on.py <day> pravilnik-2013-2586`).
+Act id: `pravilnik-2013-2586` (tags `pravilnik-2013-2586/<day>`; `python registry/tools/on.py <day> pravilnik-2013-2586`).
 
 ## Status
 

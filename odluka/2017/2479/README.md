@@ -16,7 +16,7 @@ Odluka o dodatnim kriterijima za procjenu kreditne sposobnosti potrošača te pr
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2017-2479` (tags `odluka-2017-2479/<day>`; `python tools/on.py <day> odluka-2017-2479`).
+Act id: `odluka-2017-2479` (tags `odluka-2017-2479/<day>`; `python registry/tools/on.py <day> odluka-2017-2479`).
 
 ## Status
 

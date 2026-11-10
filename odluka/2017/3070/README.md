@@ -10,7 +10,7 @@ Odluka o izmjenama Odluke o porezima Grada Vinkovaca · 1 versions, from 2018-01
 | čl. 4 | [clanak-004.md](clanak-004.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `odluka-2017-3070` (tags `odluka-2017-3070/<day>`; `python tools/on.py <day> odluka-2017-3070`).
+Act id: `odluka-2017-3070` (tags `odluka-2017-3070/<day>`; `python registry/tools/on.py <day> odluka-2017-3070`).
 
 ## Decisions made by hand
 

@@ -25,7 +25,7 @@ Pravilnik o uvjetima, kriterijima i načinu dodjele potpore u okviru mjere IV.3.
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2022-2039` (tags `pravilnik-2022-2039/<day>`; `python tools/on.py <day> pravilnik-2022-2039`).
+Act id: `pravilnik-2022-2039` (tags `pravilnik-2022-2039/<day>`; `python registry/tools/on.py <day> pravilnik-2022-2039`).
 
 ## Status
 

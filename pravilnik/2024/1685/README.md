@@ -10,7 +10,7 @@ Pravilnik o izmjenama i dopuni Pravilnika o provedbi Programa potpore za izostan
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2024-1685` (tags `pravilnik-2024-1685/<day>`; `python tools/on.py <day> pravilnik-2024-1685`).
+Act id: `pravilnik-2024-1685` (tags `pravilnik-2024-1685/<day>`; `python registry/tools/on.py <day> pravilnik-2024-1685`).
 
 ## Decisions made by hand
 

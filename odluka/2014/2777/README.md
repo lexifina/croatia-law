@@ -9,7 +9,7 @@ Odluka o davanju suglasnosti na Financijski plan Centra za restrukturiranje i pr
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2014-2777` (tags `odluka-2014-2777/<day>`; `python tools/on.py <day> odluka-2014-2777`).
+Act id: `odluka-2014-2777` (tags `odluka-2014-2777/<day>`; `python registry/tools/on.py <day> odluka-2014-2777`).
 
 ## Decisions made by hand
 

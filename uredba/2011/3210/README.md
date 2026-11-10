@@ -9,7 +9,7 @@ Uredba o dopuni Zakona o Hrvatskoj agenciji za nadzor financijskih usluga · 1 v
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2011-3210` (tags `uredba-2011-3210/<day>`; `python tools/on.py <day> uredba-2011-3210`).
+Act id: `uredba-2011-3210` (tags `uredba-2011-3210/<day>`; `python registry/tools/on.py <day> uredba-2011-3210`).
 
 ## Decisions made by hand
 

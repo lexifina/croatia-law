@@ -12,7 +12,7 @@ Zakon o izmjenama i dopuni Zakona o plaćama u lokalnoj i područnoj (regionalno
 | čl. 6 | [clanak-006.md](clanak-006.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2023-205` (tags `zakon-2023-205/<day>`; `python tools/on.py <day> zakon-2023-205`).
+Act id: `zakon-2023-205` (tags `zakon-2023-205/<day>`; `python registry/tools/on.py <day> zakon-2023-205`).
 
 ## Decisions made by hand
 

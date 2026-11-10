@@ -12,7 +12,7 @@ Odluka o izmjeni Odluke o osnivanju Povjerenstva za gospodarske osnove · 1 vers
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2013-841` (tags `odluka-2013-841/<day>`; `python tools/on.py <day> odluka-2013-841`).
+Act id: `odluka-2013-841` (tags `odluka-2013-841/<day>`; `python registry/tools/on.py <day> odluka-2013-841`).
 
 ## Decisions made by hand
 

@@ -31,7 +31,7 @@ Uredba o načinu trgovanja emisijskim jedinicama stakleničkih plinova · 1 vers
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2012-1616` (tags `uredba-2012-1616/<day>`; `python tools/on.py <day> uredba-2012-1616`).
+Act id: `uredba-2012-1616` (tags `uredba-2012-1616/<day>`; `python registry/tools/on.py <day> uredba-2012-1616`).
 
 ## Status
 

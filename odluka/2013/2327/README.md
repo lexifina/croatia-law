@@ -10,7 +10,7 @@ Odluka o izmjeni Odluke o utvrđivanju popisa posebno skupih lijekova utvrđenih
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2013-2327` (tags `odluka-2013-2327/<day>`; `python tools/on.py <day> odluka-2013-2327`).
+Act id: `odluka-2013-2327` (tags `odluka-2013-2327/<day>`; `python registry/tools/on.py <day> odluka-2013-2327`).
 
 ## Decisions made by hand
 

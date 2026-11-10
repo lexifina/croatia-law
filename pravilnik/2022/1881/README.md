@@ -22,7 +22,7 @@ Pravilnik o načinu rada i postupanja po pritužbama u sustavu socijalne skrbi �
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2022-1881` (tags `pravilnik-2022-1881/<day>`; `python tools/on.py <day> pravilnik-2022-1881`).
+Act id: `pravilnik-2022-1881` (tags `pravilnik-2022-1881/<day>`; `python registry/tools/on.py <day> pravilnik-2022-1881`).
 
 ## Decisions made by hand
 

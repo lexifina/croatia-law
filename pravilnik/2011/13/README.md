@@ -21,7 +21,7 @@ Pravilnik o izmjenama Pravilnika o pravima, uvjetima i načinu ostvarivanja prav
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2011-13` (tags `pravilnik-2011-13/<day>`; `python tools/on.py <day> pravilnik-2011-13`).
+Act id: `pravilnik-2011-13` (tags `pravilnik-2011-13/<day>`; `python registry/tools/on.py <day> pravilnik-2011-13`).
 
 ## Status
 

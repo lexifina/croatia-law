@@ -10,7 +10,7 @@ Odluka o visini poreznih stopa poreza na dohodak Grada Supetra · 1 versions, fr
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2023-1989` (tags `odluka-2023-1989/<day>`; `python tools/on.py <day> odluka-2023-1989`).
+Act id: `odluka-2023-1989` (tags `odluka-2023-1989/<day>`; `python registry/tools/on.py <day> odluka-2023-1989`).
 
 ## Decisions made by hand
 

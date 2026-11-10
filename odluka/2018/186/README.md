@@ -9,7 +9,7 @@ Odluka o minimalnim financijskim standardima, kriterijima i mjerilima za decentr
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2018-186` (tags `odluka-2018-186/<day>`; `python tools/on.py <day> odluka-2018-186`).
+Act id: `odluka-2018-186` (tags `odluka-2018-186/<day>`; `python registry/tools/on.py <day> odluka-2018-186`).
 
 ## Decisions made by hand
 

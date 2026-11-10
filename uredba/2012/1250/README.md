@@ -9,7 +9,7 @@ Uredba o izmjeni Uredbe o osnivanju Agencije za prostore ugrožene eksplozivnom 
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2012-1250` (tags `uredba-2012-1250/<day>`; `python tools/on.py <day> uredba-2012-1250`).
+Act id: `uredba-2012-1250` (tags `uredba-2012-1250/<day>`; `python registry/tools/on.py <day> uredba-2012-1250`).
 
 ## Decisions made by hand
 

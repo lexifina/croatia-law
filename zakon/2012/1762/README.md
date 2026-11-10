@@ -16,7 +16,7 @@ Zakon o izmjenama i dopunama Zakona o mirovinskom osiguranju · 1 versions, from
 | čl. 10 | [clanak-010.md](clanak-010.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2012-1762` (tags `zakon-2012-1762/<day>`; `python tools/on.py <day> zakon-2012-1762`).
+Act id: `zakon-2012-1762` (tags `zakon-2012-1762/<day>`; `python registry/tools/on.py <day> zakon-2012-1762`).
 
 ## Decisions made by hand
 

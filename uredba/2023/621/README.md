@@ -5,7 +5,7 @@ Uredba o Tarifi sudskih pristojbi · 2 versions, from 2023-04-08 (latest in forc
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `uredba-2023-621` (tags `uredba-2023-621/<day>`; `python tools/on.py <day> uredba-2023-621`).
+Act id: `uredba-2023-621` (tags `uredba-2023-621/<day>`; `python registry/tools/on.py <day> uredba-2023-621`).
 
 ## Decisions made by hand
 

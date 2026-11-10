@@ -8,7 +8,7 @@ Odluka o osnivanju Nacionalnog povjerenstva za gospodarenje smeđim medvjedom (U
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2020-53` (tags `odluka-2020-53/<day>`; `python tools/on.py <day> odluka-2020-53`).
+Act id: `odluka-2020-53` (tags `odluka-2020-53/<day>`; `python registry/tools/on.py <day> odluka-2020-53`).
 
 ## Status
 

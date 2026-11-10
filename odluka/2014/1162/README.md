@@ -9,7 +9,7 @@ Odluka o upisu učenika u I. razred srednje škole u školskoj godini 2014./2015
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2014-1162` (tags `odluka-2014-1162/<day>`; `python tools/on.py <day> odluka-2014-1162`).
+Act id: `odluka-2014-1162` (tags `odluka-2014-1162/<day>`; `python registry/tools/on.py <day> odluka-2014-1162`).
 
 ## Status
 

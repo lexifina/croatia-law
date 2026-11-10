@@ -14,7 +14,7 @@ Pravilnik o dodatnim organizacijskim zahtjevima društva za upravljanje alternat
 | čl. 8 | [clanak-008.md](clanak-008.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `pravilnik-2013-3367` (tags `pravilnik-2013-3367/<day>`; `python tools/on.py <day> pravilnik-2013-3367`).
+Act id: `pravilnik-2013-3367` (tags `pravilnik-2013-3367/<day>`; `python registry/tools/on.py <day> pravilnik-2013-3367`).
 
 ## Status
 

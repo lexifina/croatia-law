@@ -5,7 +5,7 @@ Odluka o postupcima namire za sporedne sustave · 2 versions, from 2017-11-13 (l
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `odluka-2017-2563` (tags `odluka-2017-2563/<day>`; `python tools/on.py <day> odluka-2017-2563`).
+Act id: `odluka-2017-2563` (tags `odluka-2017-2563/<day>`; `python registry/tools/on.py <day> odluka-2017-2563`).
 
 ## Decisions made by hand
 

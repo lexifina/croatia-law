@@ -8,7 +8,7 @@ Odluka o prestanku koncesije za osnivanje Podunavske slobodne zone Vukovar · 1 
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2021-2011` (tags `odluka-2021-2011/<day>`; `python tools/on.py <day> odluka-2021-2011`).
+Act id: `odluka-2021-2011` (tags `odluka-2021-2011/<day>`; `python registry/tools/on.py <day> odluka-2021-2011`).
 
 ## Decisions made by hand
 

@@ -15,7 +15,7 @@ Uredba o naknadi štete po osnovi otuđenja mineralne sirovine · 1 versions, fr
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2024-763` (tags `uredba-2024-763/<day>`; `python tools/on.py <day> uredba-2024-763`).
+Act id: `uredba-2024-763` (tags `uredba-2024-763/<day>`; `python registry/tools/on.py <day> uredba-2024-763`).
 
 ## Status
 

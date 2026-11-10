@@ -8,7 +8,7 @@ Odluka o obustavi plaćanja spomeničke rente · 1 versions, from 2020-03-20 (la
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2020-804` (tags `odluka-2020-804/<day>`; `python tools/on.py <day> odluka-2020-804`).
+Act id: `odluka-2020-804` (tags `odluka-2020-804/<day>`; `python registry/tools/on.py <day> odluka-2020-804`).
 
 ## Status
 

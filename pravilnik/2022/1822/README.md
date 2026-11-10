@@ -19,7 +19,7 @@ Pravilnik o provedbi Programa potpore proizvođačima sjemenskog kukuruza zbog o
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2022-1822` (tags `pravilnik-2022-1822/<day>`; `python tools/on.py <day> pravilnik-2022-1822`).
+Act id: `pravilnik-2022-1822` (tags `pravilnik-2022-1822/<day>`; `python registry/tools/on.py <day> pravilnik-2022-1822`).
 
 ## Status
 

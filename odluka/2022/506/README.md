@@ -9,7 +9,7 @@ Odluka o usvajanju izmjena i dopune Programa dodjele državnih potpora sektoru m
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2022-506` (tags `odluka-2022-506/<day>`; `python tools/on.py <day> odluka-2022-506`).
+Act id: `odluka-2022-506` (tags `odluka-2022-506/<day>`; `python registry/tools/on.py <day> odluka-2022-506`).
 
 ## Decisions made by hand
 

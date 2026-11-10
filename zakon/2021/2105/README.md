@@ -12,7 +12,7 @@ Zakon o izmjenama i dopunama Zakona o izvršavanju Državnog proračuna Republik
 | čl. 6 | [clanak-006.md](clanak-006.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2021-2105` (tags `zakon-2021-2105/<day>`; `python tools/on.py <day> zakon-2021-2105`).
+Act id: `zakon-2021-2105` (tags `zakon-2021-2105/<day>`; `python registry/tools/on.py <day> zakon-2021-2105`).
 
 ## Decisions made by hand
 

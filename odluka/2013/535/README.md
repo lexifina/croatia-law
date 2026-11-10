@@ -32,7 +32,7 @@ Odluka o općinskim porezima Općine Žakanje · 1 versions, from 2013-03-19 (la
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2013-535` (tags `odluka-2013-535/<day>`; `python tools/on.py <day> odluka-2013-535`).
+Act id: `odluka-2013-535` (tags `odluka-2013-535/<day>`; `python registry/tools/on.py <day> odluka-2013-535`).
 
 ## Status
 

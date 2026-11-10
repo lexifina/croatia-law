@@ -55,7 +55,7 @@ Pravilnik o policijskim časnicima za vezu · 1 versions, from 2012-10-06 (lates
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2012-2355` (tags `pravilnik-2012-2355/<day>`; `python tools/on.py <day> pravilnik-2012-2355`).
+Act id: `pravilnik-2012-2355` (tags `pravilnik-2012-2355/<day>`; `python registry/tools/on.py <day> pravilnik-2012-2355`).
 
 ## Status
 

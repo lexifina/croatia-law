@@ -39,7 +39,7 @@ Odluka o porezima Grada Pazina · 1 versions, from 2014-02-01 (latest in force: 
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2014-56` (tags `odluka-2014-56/<day>`; `python tools/on.py <day> odluka-2014-56`).
+Act id: `odluka-2014-56` (tags `odluka-2014-56/<day>`; `python registry/tools/on.py <day> odluka-2014-56`).
 
 ## Status
 

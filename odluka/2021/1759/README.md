@@ -8,7 +8,7 @@ Odluka o izmjeni Odluke o osnivanju Lučke uprave Rijeka · 1 versions, from 202
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2021-1759` (tags `odluka-2021-1759/<day>`; `python tools/on.py <day> odluka-2021-1759`).
+Act id: `odluka-2021-1759` (tags `odluka-2021-1759/<day>`; `python registry/tools/on.py <day> odluka-2021-1759`).
 
 ## Decisions made by hand
 

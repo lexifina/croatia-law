@@ -8,7 +8,7 @@ Odluka o izmjeni Odluke o načinu obračuna, naplate i plaćanja kamata i naknad
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2016-2152` (tags `odluka-2016-2152/<day>`; `python tools/on.py <day> odluka-2016-2152`).
+Act id: `odluka-2016-2152` (tags `odluka-2016-2152/<day>`; `python registry/tools/on.py <day> odluka-2016-2152`).
 
 ## Decisions made by hand
 

@@ -28,7 +28,7 @@ Uredba o Uredu zastupnika Republike Hrvatske pred Europskim sudom za ljudska pra
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2012-503` (tags `uredba-2012-503/<day>`; `python tools/on.py <day> uredba-2012-503`).
+Act id: `uredba-2012-503` (tags `uredba-2012-503/<day>`; `python registry/tools/on.py <day> uredba-2012-503`).
 
 ## Status
 

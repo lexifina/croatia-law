@@ -9,7 +9,7 @@ Pravilnik o izmjeni Pravilnika o provedbi Programa potpore za očuvanje proizvod
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2024-1770` (tags `pravilnik-2024-1770/<day>`; `python tools/on.py <day> pravilnik-2024-1770`).
+Act id: `pravilnik-2024-1770` (tags `pravilnik-2024-1770/<day>`; `python registry/tools/on.py <day> pravilnik-2024-1770`).
 
 ## Decisions made by hand
 

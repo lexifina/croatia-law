@@ -15,7 +15,7 @@ Odluka o prirezu porezu na dohodak Općine Đurmanec · 1 versions, from 2014-12
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2014-2898` (tags `odluka-2014-2898/<day>`; `python tools/on.py <day> odluka-2014-2898`).
+Act id: `odluka-2014-2898` (tags `odluka-2014-2898/<day>`; `python registry/tools/on.py <day> odluka-2014-2898`).
 
 ## Status
 

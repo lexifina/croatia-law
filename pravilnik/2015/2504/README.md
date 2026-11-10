@@ -23,7 +23,7 @@ Pravilnik o obrazovnom programu i ispitu za stjecanje zvanja ovlaštenog upravit
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2015-2504` (tags `pravilnik-2015-2504/<day>`; `python tools/on.py <day> pravilnik-2015-2504`).
+Act id: `pravilnik-2015-2504` (tags `pravilnik-2015-2504/<day>`; `python registry/tools/on.py <day> pravilnik-2015-2504`).
 
 ## Status
 

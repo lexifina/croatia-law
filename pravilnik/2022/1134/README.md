@@ -21,7 +21,7 @@ Pravilnik o uvjetnom otpustu uz elektronički nadzor · 1 versions, from 2022-07
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2022-1134` (tags `pravilnik-2022-1134/<day>`; `python tools/on.py <day> pravilnik-2022-1134`).
+Act id: `pravilnik-2022-1134` (tags `pravilnik-2022-1134/<day>`; `python registry/tools/on.py <day> pravilnik-2022-1134`).
 
 ## Decisions made by hand
 

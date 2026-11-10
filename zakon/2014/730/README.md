@@ -14,7 +14,7 @@ Zakon o izmjenama i dopuni Zakona o međunarodnim mjerama ograničavanja · 1 ve
 | čl. 8 | [clanak-008.md](clanak-008.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2014-730` (tags `zakon-2014-730/<day>`; `python tools/on.py <day> zakon-2014-730`).
+Act id: `zakon-2014-730` (tags `zakon-2014-730/<day>`; `python registry/tools/on.py <day> zakon-2014-730`).
 
 ## Decisions made by hand
 

@@ -8,7 +8,7 @@ Odluka o izmjenama i dopunama Odluke o osnivanju Nacionalnog koordinacijskog odb
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2020-95` (tags `odluka-2020-95/<day>`; `python tools/on.py <day> odluka-2020-95`).
+Act id: `odluka-2020-95` (tags `odluka-2020-95/<day>`; `python registry/tools/on.py <day> odluka-2020-95`).
 
 ## Decisions made by hand
 

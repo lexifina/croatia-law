@@ -44,7 +44,7 @@ Zakon o probaciji · 1 versions, from 2013-01-01 (latest in force: 2013-01-01) �
 | čl. 38 | [clanak-038.md](clanak-038.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2012-3029` (tags `zakon-2012-3029/<day>`; `python tools/on.py <day> zakon-2012-3029`).
+Act id: `zakon-2012-3029` (tags `zakon-2012-3029/<day>`; `python registry/tools/on.py <day> zakon-2012-3029`).
 
 ## Status
 

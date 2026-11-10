@@ -10,7 +10,7 @@ Naredba o izmjeni i dopuni Naredbe o mjerama kontrole za suzbijanje afričke svi
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `naredba-2026-1160` (tags `naredba-2026-1160/<day>`; `python tools/on.py <day> naredba-2026-1160`).
+Act id: `naredba-2026-1160` (tags `naredba-2026-1160/<day>`; `python registry/tools/on.py <day> naredba-2026-1160`).
 
 ## Status
 

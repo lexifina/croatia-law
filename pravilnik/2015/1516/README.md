@@ -14,7 +14,7 @@ Pravilnik o uvjetima i postupku za ostvarivanje prava na korištenje kopnenih vo
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2015-1516` (tags `pravilnik-2015-1516/<day>`; `python tools/on.py <day> pravilnik-2015-1516`).
+Act id: `pravilnik-2015-1516` (tags `pravilnik-2015-1516/<day>`; `python registry/tools/on.py <day> pravilnik-2015-1516`).
 
 ## Status
 

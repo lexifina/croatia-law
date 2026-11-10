@@ -15,7 +15,7 @@ Pravilnik o povlasticama za obavljanje gospodarskog ribolova na moru u državnom
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2019-717` (tags `pravilnik-2019-717/<day>`; `python tools/on.py <day> pravilnik-2019-717`).
+Act id: `pravilnik-2019-717` (tags `pravilnik-2019-717/<day>`; `python registry/tools/on.py <day> pravilnik-2019-717`).
 
 ## Decisions made by hand
 

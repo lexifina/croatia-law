@@ -9,7 +9,7 @@ Pravilnik o izmjenama Pravilnika o sadržaju i načinu vođenja evidencije i dok
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2026-535` (tags `pravilnik-2026-535/<day>`; `python tools/on.py <day> pravilnik-2026-535`).
+Act id: `pravilnik-2026-535` (tags `pravilnik-2026-535/<day>`; `python registry/tools/on.py <day> pravilnik-2026-535`).
 
 ## Decisions made by hand
 

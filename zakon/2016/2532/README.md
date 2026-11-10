@@ -28,7 +28,7 @@ Zakon o izmjenama i dopunama Zakona o fiskalizaciji u prometu gotovinom · 1 ver
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 
-Act id: `zakon-2016-2532` (tags `zakon-2016-2532/<day>`; `python tools/on.py <day> zakon-2016-2532`).
+Act id: `zakon-2016-2532` (tags `zakon-2016-2532/<day>`; `python registry/tools/on.py <day> zakon-2016-2532`).
 
 ## Decisions made by hand
 

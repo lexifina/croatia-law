@@ -20,7 +20,7 @@ Zakon o izmjenama Zakona o statusu prognanika i izbjeglica (NN br. 51A) · 1 ver
 | čl. 14 | [clanak-014.md](clanak-014.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2013-1049` (tags `zakon-2013-1049/<day>`; `python tools/on.py <day> zakon-2013-1049`).
+Act id: `zakon-2013-1049` (tags `zakon-2013-1049/<day>`; `python registry/tools/on.py <day> zakon-2013-1049`).
 
 ## Decisions made by hand
 

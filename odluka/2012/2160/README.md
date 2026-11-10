@@ -11,7 +11,7 @@ Odluka o izradi izmjene i dopune Strategije prostornog uređenja Republike Hrvat
 | čl. 5 | [clanak-005.md](clanak-005.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `odluka-2012-2160` (tags `odluka-2012-2160/<day>`; `python tools/on.py <day> odluka-2012-2160`).
+Act id: `odluka-2012-2160` (tags `odluka-2012-2160/<day>`; `python registry/tools/on.py <day> odluka-2012-2160`).
 
 ## Decisions made by hand
 

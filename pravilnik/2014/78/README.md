@@ -29,7 +29,7 @@ Pravilnik o početku, završetku i rasporedu radnog vremena zdravstvenih ustanov
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2014-78` (tags `pravilnik-2014-78/<day>`; `python tools/on.py <day> pravilnik-2014-78`).
+Act id: `pravilnik-2014-78` (tags `pravilnik-2014-78/<day>`; `python registry/tools/on.py <day> pravilnik-2014-78`).
 
 ## Status
 

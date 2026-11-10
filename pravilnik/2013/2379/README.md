@@ -35,7 +35,7 @@ Pravilnik o trajnom zbrinjavanju plinova u geološkim strukturama · 1 versions,
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2013-2379` (tags `pravilnik-2013-2379/<day>`; `python tools/on.py <day> pravilnik-2013-2379`).
+Act id: `pravilnik-2013-2379` (tags `pravilnik-2013-2379/<day>`; `python registry/tools/on.py <day> pravilnik-2013-2379`).
 
 ## Status
 

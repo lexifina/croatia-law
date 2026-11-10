@@ -8,7 +8,7 @@ Odluka o ukidanju nužne mjere zabrane napuštanja mjesta prebivališta i stalno
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2020-999` (tags `odluka-2020-999/<day>`; `python tools/on.py <day> odluka-2020-999`).
+Act id: `odluka-2020-999` (tags `odluka-2020-999/<day>`; `python registry/tools/on.py <day> odluka-2020-999`).
 
 ## Status
 

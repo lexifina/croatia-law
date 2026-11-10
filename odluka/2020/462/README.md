@@ -19,7 +19,7 @@ Odluka o Uredu predsjednika Republike Hrvatske · 1 versions, from 2020-02-20 (l
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2020-462` (tags `odluka-2020-462/<day>`; `python tools/on.py <day> odluka-2020-462`).
+Act id: `odluka-2020-462` (tags `odluka-2020-462/<day>`; `python registry/tools/on.py <day> odluka-2020-462`).
 
 ## Status
 

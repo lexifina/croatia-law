@@ -16,7 +16,7 @@ Pravilnik o prihvatljivosti izdataka u okviru Europskoga socijalnog fonda · 1 v
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2014-2783` (tags `pravilnik-2014-2783/<day>`; `python tools/on.py <day> pravilnik-2014-2783`).
+Act id: `pravilnik-2014-2783` (tags `pravilnik-2014-2783/<day>`; `python registry/tools/on.py <day> pravilnik-2014-2783`).
 
 ## Status
 

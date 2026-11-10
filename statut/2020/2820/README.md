@@ -77,7 +77,7 @@ Statut Turističke zajednice Karlovačke županije · 1 versions, from 2021-01-0
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `statut-2020-2820` (tags `statut-2020-2820/<day>`; `python tools/on.py <day> statut-2020-2820`).
+Act id: `statut-2020-2820` (tags `statut-2020-2820/<day>`; `python registry/tools/on.py <day> statut-2020-2820`).
 
 ## Decisions made by hand
 

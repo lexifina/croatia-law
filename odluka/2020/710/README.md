@@ -8,7 +8,7 @@ Odluka o organizaciji rada tijela državne uprave za vrijeme trajanja epidemije 
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2020-710` (tags `odluka-2020-710/<day>`; `python tools/on.py <day> odluka-2020-710`).
+Act id: `odluka-2020-710` (tags `odluka-2020-710/<day>`; `python registry/tools/on.py <day> odluka-2020-710`).
 
 ## Status
 

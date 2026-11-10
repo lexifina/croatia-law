@@ -68,7 +68,7 @@ Zakon o izmjenama i dopunama Zakona o prostornom uređenju · 1 versions, from 2
 | čl. 62 | [clanak-062.md](clanak-062.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2017-1494` (tags `zakon-2017-1494/<day>`; `python tools/on.py <day> zakon-2017-1494`).
+Act id: `zakon-2017-1494` (tags `zakon-2017-1494/<day>`; `python registry/tools/on.py <day> zakon-2017-1494`).
 
 ## Decisions made by hand
 

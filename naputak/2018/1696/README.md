@@ -17,7 +17,7 @@ Naputak o način u korištenja Jedinstvenog registra poduzetničke infrastruktur
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `naputak-2018-1696` (tags `naputak-2018-1696/<day>`; `python tools/on.py <day> naputak-2018-1696`).
+Act id: `naputak-2018-1696` (tags `naputak-2018-1696/<day>`; `python registry/tools/on.py <day> naputak-2018-1696`).
 
 ## Status
 

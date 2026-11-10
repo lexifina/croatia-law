@@ -8,7 +8,7 @@ Odluka o financiranju drugih obrazovnih materijala za učenike osnovnih škola u
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2025-1545` (tags `odluka-2025-1545/<day>`; `python tools/on.py <day> odluka-2025-1545`).
+Act id: `odluka-2025-1545` (tags `odluka-2025-1545/<day>`; `python registry/tools/on.py <day> odluka-2025-1545`).
 
 ## Decisions made by hand
 

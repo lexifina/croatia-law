@@ -61,7 +61,7 @@ Zakon o izvršavanju Državnog proračuna Republike Hrvatske za 2018. godinu · 
 | čl. 55 | [clanak-055.md](clanak-055.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2017-2819` (tags `zakon-2017-2819/<day>`; `python tools/on.py <day> zakon-2017-2819`).
+Act id: `zakon-2017-2819` (tags `zakon-2017-2819/<day>`; `python registry/tools/on.py <day> zakon-2017-2819`).
 
 ## Status
 

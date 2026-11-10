@@ -5,7 +5,7 @@ Pravilnik o Mreži za ruralni razvoj · 2 versions, from 2015-09-03 (latest in f
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `pravilnik-2015-1788` (tags `pravilnik-2015-1788/<day>`; `python tools/on.py <day> pravilnik-2015-1788`).
+Act id: `pravilnik-2015-1788` (tags `pravilnik-2015-1788/<day>`; `python registry/tools/on.py <day> pravilnik-2015-1788`).
 
 ## Decisions made by hand
 

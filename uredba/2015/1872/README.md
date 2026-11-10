@@ -16,7 +16,7 @@ Uredba o gospodarenju otpadnom ambalažom · 1 versions, from 2015-09-19 (latest
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2015-1872` (tags `uredba-2015-1872/<day>`; `python tools/on.py <day> uredba-2015-1872`).
+Act id: `uredba-2015-1872` (tags `uredba-2015-1872/<day>`; `python registry/tools/on.py <day> uredba-2015-1872`).
 
 ## Status
 

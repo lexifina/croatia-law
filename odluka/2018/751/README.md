@@ -8,7 +8,7 @@ Odluka o visini naknade za stanovanje · 1 versions, from 2018-05-01 (latest in 
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2018-751` (tags `odluka-2018-751/<day>`; `python tools/on.py <day> odluka-2018-751`).
+Act id: `odluka-2018-751` (tags `odluka-2018-751/<day>`; `python registry/tools/on.py <day> odluka-2018-751`).
 
 ## Status
 

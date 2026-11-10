@@ -15,7 +15,7 @@ Odluka kojom se utvrđuju uvjeti i način preuzimanja podataka o dohocima i prim
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2017-480` (tags `odluka-2017-480/<day>`; `python tools/on.py <day> odluka-2017-480`).
+Act id: `odluka-2017-480` (tags `odluka-2017-480/<day>`; `python registry/tools/on.py <day> odluka-2017-480`).
 
 ## Status
 

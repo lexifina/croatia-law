@@ -47,7 +47,7 @@ Zakon o izmjenama i dopunama Zakona o Državnom sudbenom vijeću · 1 versions, 
 | čl. 41 | [clanak-041.md](clanak-041.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2018-1363` (tags `zakon-2018-1363/<day>`; `python tools/on.py <day> zakon-2018-1363`).
+Act id: `zakon-2018-1363` (tags `zakon-2018-1363/<day>`; `python registry/tools/on.py <day> zakon-2018-1363`).
 
 ## Decisions made by hand
 

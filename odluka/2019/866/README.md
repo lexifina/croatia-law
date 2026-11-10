@@ -8,7 +8,7 @@ Odluka o autorizaciji plovila za ribolov igluna (Xiphias gladius) u 2019. godini
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2019-866` (tags `odluka-2019-866/<day>`; `python tools/on.py <day> odluka-2019-866`).
+Act id: `odluka-2019-866` (tags `odluka-2019-866/<day>`; `python registry/tools/on.py <day> odluka-2019-866`).
 
 ## Decisions made by hand
 

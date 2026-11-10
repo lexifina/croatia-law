@@ -8,7 +8,7 @@ Odluka o otpisu potraživanja za stanove, poslovne prostore i garaže u vlasniš
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2017-2955` (tags `odluka-2017-2955/<day>`; `python tools/on.py <day> odluka-2017-2955`).
+Act id: `odluka-2017-2955` (tags `odluka-2017-2955/<day>`; `python registry/tools/on.py <day> odluka-2017-2955`).
 
 ## Decisions made by hand
 

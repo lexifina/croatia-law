@@ -14,7 +14,7 @@ Pravilnik o načinu pokopa te obrascu suglasnosti za pokop posmrtnih ostataka mr
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2019-1748` (tags `pravilnik-2019-1748/<day>`; `python tools/on.py <day> pravilnik-2019-1748`).
+Act id: `pravilnik-2019-1748` (tags `pravilnik-2019-1748/<day>`; `python registry/tools/on.py <day> pravilnik-2019-1748`).
 
 ## Decisions made by hand
 

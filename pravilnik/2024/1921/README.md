@@ -11,7 +11,7 @@ Pravilnik o izmjenama i dopunama Pravilnika o obavljanju gospodarskog ribolova n
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2024-1921` (tags `pravilnik-2024-1921/<day>`; `python tools/on.py <day> pravilnik-2024-1921`).
+Act id: `pravilnik-2024-1921` (tags `pravilnik-2024-1921/<day>`; `python registry/tools/on.py <day> pravilnik-2024-1921`).
 
 ## Decisions made by hand
 

@@ -8,7 +8,7 @@ Odluka o odgodi plaćanja zakupnine, naknade za dugogodišnji zakup, naknade za 
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2020-675` (tags `odluka-2020-675/<day>`; `python tools/on.py <day> odluka-2020-675`).
+Act id: `odluka-2020-675` (tags `odluka-2020-675/<day>`; `python registry/tools/on.py <day> odluka-2020-675`).
 
 ## Decisions made by hand
 

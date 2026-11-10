@@ -11,7 +11,7 @@ Odluka o izmjeni i dopuni Odluke o porezima Grada Zlatara · 1 versions, from 20
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2022-2110` (tags `odluka-2022-2110/<day>`; `python tools/on.py <day> odluka-2022-2110`).
+Act id: `odluka-2022-2110` (tags `odluka-2022-2110/<day>`; `python registry/tools/on.py <day> odluka-2022-2110`).
 
 ## Decisions made by hand
 

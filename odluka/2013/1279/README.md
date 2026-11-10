@@ -8,7 +8,7 @@ Odluka o obvezi rada ureda državne uprave radi provedbe drugog kruga glasovanja
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2013-1279` (tags `odluka-2013-1279/<day>`; `python tools/on.py <day> odluka-2013-1279`).
+Act id: `odluka-2013-1279` (tags `odluka-2013-1279/<day>`; `python registry/tools/on.py <day> odluka-2013-1279`).
 
 ## Decisions made by hand
 

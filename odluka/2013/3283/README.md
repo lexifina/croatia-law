@@ -120,7 +120,7 @@ Odluka o osnovama za sklapanje ugovora o provođenju zdravstvene zaštite iz obv
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2013-3283` (tags `odluka-2013-3283/<day>`; `python tools/on.py <day> odluka-2013-3283`).
+Act id: `odluka-2013-3283` (tags `odluka-2013-3283/<day>`; `python registry/tools/on.py <day> odluka-2013-3283`).
 
 ## Status
 

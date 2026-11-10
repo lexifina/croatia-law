@@ -9,7 +9,7 @@ Pravilnik o stavljanju izvan snage Pravilnika o razvrstavanju, označavanju, obi
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2015-1166` (tags `pravilnik-2015-1166/<day>`; `python tools/on.py <day> pravilnik-2015-1166`).
+Act id: `pravilnik-2015-1166` (tags `pravilnik-2015-1166/<day>`; `python registry/tools/on.py <day> pravilnik-2015-1166`).
 
 ## Decisions made by hand
 

@@ -51,7 +51,7 @@ Zakon o izmjenama i dopunama Zakona o prijevozu u linijskom i povremenom obalnom
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 
-Act id: `zakon-2016-1448` (tags `zakon-2016-1448/<day>`; `python tools/on.py <day> zakon-2016-1448`).
+Act id: `zakon-2016-1448` (tags `zakon-2016-1448/<day>`; `python registry/tools/on.py <day> zakon-2016-1448`).
 
 ## Decisions made by hand
 

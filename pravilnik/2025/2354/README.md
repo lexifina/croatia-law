@@ -47,7 +47,7 @@ Pravilnik o tržišnim standardima i utvrđivanju pravila o kontrolama usklađen
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2025-2354` (tags `pravilnik-2025-2354/<day>`; `python tools/on.py <day> pravilnik-2025-2354`).
+Act id: `pravilnik-2025-2354` (tags `pravilnik-2025-2354/<day>`; `python registry/tools/on.py <day> pravilnik-2025-2354`).
 
 ## Decisions made by hand
 

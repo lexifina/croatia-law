@@ -21,7 +21,7 @@ Pravilnik o pristupu stručnom usavršavanju u Pravosudnoj akademiji · 1 versio
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2020-618` (tags `pravilnik-2020-618/<day>`; `python tools/on.py <day> pravilnik-2020-618`).
+Act id: `pravilnik-2020-618` (tags `pravilnik-2020-618/<day>`; `python registry/tools/on.py <day> pravilnik-2020-618`).
 
 ## Decisions made by hand
 

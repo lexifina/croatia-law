@@ -9,7 +9,7 @@ Odluka o izmjeni Odluke o prirezu porezu na dohodak Općine Preseka · 1 version
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2014-2901` (tags `odluka-2014-2901/<day>`; `python tools/on.py <day> odluka-2014-2901`).
+Act id: `odluka-2014-2901` (tags `odluka-2014-2901/<day>`; `python registry/tools/on.py <day> odluka-2014-2901`).
 
 ## Decisions made by hand
 

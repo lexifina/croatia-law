@@ -35,7 +35,7 @@ Uredba o unutarnjem ustrojstvu Središnjeg državnog ureda za središnju javnu n
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2020-1830` (tags `uredba-2020-1830/<day>`; `python tools/on.py <day> uredba-2020-1830`).
+Act id: `uredba-2020-1830` (tags `uredba-2020-1830/<day>`; `python registry/tools/on.py <day> uredba-2020-1830`).
 
 ## Status
 

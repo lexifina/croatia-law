@@ -8,7 +8,7 @@ Odluka o osnivanju Nacionalnog povjerenstva za olakšice · 1 versions, from 201
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2011-1939` (tags `odluka-2011-1939/<day>`; `python tools/on.py <day> odluka-2011-1939`).
+Act id: `odluka-2011-1939` (tags `odluka-2011-1939/<day>`; `python registry/tools/on.py <day> odluka-2011-1939`).
 
 ## Status
 

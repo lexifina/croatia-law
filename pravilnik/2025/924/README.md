@@ -23,7 +23,7 @@ Pravilnik o odgoju i obrazovanju darovite djece i učenika · 1 versions, from 2
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2025-924` (tags `pravilnik-2025-924/<day>`; `python tools/on.py <day> pravilnik-2025-924`).
+Act id: `pravilnik-2025-924` (tags `pravilnik-2025-924/<day>`; `python registry/tools/on.py <day> pravilnik-2025-924`).
 
 ## Decisions made by hand
 

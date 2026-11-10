@@ -8,7 +8,7 @@ Odluka o prestanku važenja Odluke o osnivanju Povjerenstva na nadzor nad proved
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2012-2467` (tags `odluka-2012-2467/<day>`; `python tools/on.py <day> odluka-2012-2467`).
+Act id: `odluka-2012-2467` (tags `odluka-2012-2467/<day>`; `python registry/tools/on.py <day> odluka-2012-2467`).
 
 ## Decisions made by hand
 

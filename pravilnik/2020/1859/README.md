@@ -13,7 +13,7 @@ Pravilnik o izmjenama i dopunama Pravilnika o strukturi i sadržaju godišnjih i
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2020-1859` (tags `pravilnik-2020-1859/<day>`; `python tools/on.py <day> pravilnik-2020-1859`).
+Act id: `pravilnik-2020-1859` (tags `pravilnik-2020-1859/<day>`; `python registry/tools/on.py <day> pravilnik-2020-1859`).
 
 ## Decisions made by hand
 

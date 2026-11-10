@@ -41,7 +41,7 @@ Zakon o izmjenama i dopunama Zakona o tržištu plina · 1 versions, from 2017-0
 | čl. 35 | [clanak-035.md](clanak-035.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2017-367` (tags `zakon-2017-367/<day>`; `python tools/on.py <day> zakon-2017-367`).
+Act id: `zakon-2017-367` (tags `zakon-2017-367/<day>`; `python registry/tools/on.py <day> zakon-2017-367`).
 
 ## Decisions made by hand
 

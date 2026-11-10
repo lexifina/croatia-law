@@ -15,7 +15,7 @@ Pravilnik o izmjenama i dopunama Pravilnika o načinu vođenja evidencija i izda
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2011-1974` (tags `pravilnik-2011-1974/<day>`; `python tools/on.py <day> pravilnik-2011-1974`).
+Act id: `pravilnik-2011-1974` (tags `pravilnik-2011-1974/<day>`; `python registry/tools/on.py <day> pravilnik-2011-1974`).
 
 ## Decisions made by hand
 

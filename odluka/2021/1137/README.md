@@ -8,7 +8,7 @@ Odluka o osnivanju Konzulata Republike Hrvatske u Republici Singapuru, sa sjedi≈
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2021-1137` (tags `odluka-2021-1137/<day>`; `python tools/on.py <day> odluka-2021-1137`).
+Act id: `odluka-2021-1137` (tags `odluka-2021-1137/<day>`; `python registry/tools/on.py <day> odluka-2021-1137`).
 
 ## Decisions made by hand
 

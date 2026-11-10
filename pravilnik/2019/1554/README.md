@@ -22,7 +22,7 @@ Pravilnik o organizaciji i načinu obavljanja djelatnosti sanitetskog prijevoza 
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2019-1554` (tags `pravilnik-2019-1554/<day>`; `python tools/on.py <day> pravilnik-2019-1554`).
+Act id: `pravilnik-2019-1554` (tags `pravilnik-2019-1554/<day>`; `python registry/tools/on.py <day> pravilnik-2019-1554`).
 
 ## Status
 

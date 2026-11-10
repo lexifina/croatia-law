@@ -15,7 +15,7 @@ Uredba o izmjenama Zakona o udžbenicima za osnovnu i srednju školu · 1 versio
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2013-2274` (tags `uredba-2013-2274/<day>`; `python tools/on.py <day> uredba-2013-2274`).
+Act id: `uredba-2013-2274` (tags `uredba-2013-2274/<day>`; `python registry/tools/on.py <day> uredba-2013-2274`).
 
 ## Decisions made by hand
 

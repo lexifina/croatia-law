@@ -8,7 +8,7 @@ Odluka o prestanku važenja Odluke o osnivanju Vijeća mladih Predsjednice Repub
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2020-461` (tags `odluka-2020-461/<day>`; `python tools/on.py <day> odluka-2020-461`).
+Act id: `odluka-2020-461` (tags `odluka-2020-461/<day>`; `python registry/tools/on.py <day> odluka-2020-461`).
 
 ## Decisions made by hand
 

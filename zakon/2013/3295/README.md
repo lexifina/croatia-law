@@ -39,7 +39,7 @@ Zakon o izmjenama i dopunama Zakona o sudskim pristojbama · 1 versions, from 20
 | čl. 33 | [clanak-033.md](clanak-033.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2013-3295` (tags `zakon-2013-3295/<day>`; `python tools/on.py <day> zakon-2013-3295`).
+Act id: `zakon-2013-3295` (tags `zakon-2013-3295/<day>`; `python registry/tools/on.py <day> zakon-2013-3295`).
 
 ## Decisions made by hand
 

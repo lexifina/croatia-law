@@ -8,7 +8,7 @@ Odluka o davanju odobrenja Sveučilištu Sjever i Sveučilištu Josipa Jurja Str
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2025-330` (tags `odluka-2025-330/<day>`; `python tools/on.py <day> odluka-2025-330`).
+Act id: `odluka-2025-330` (tags `odluka-2025-330/<day>`; `python registry/tools/on.py <day> odluka-2025-330`).
 
 ## Decisions made by hand
 

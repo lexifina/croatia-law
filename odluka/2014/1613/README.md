@@ -8,7 +8,7 @@ Odluka o postavljanju Anice Djamić za izvanrednu i opunomoćenu veleposlanicu R
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2014-1613` (tags `odluka-2014-1613/<day>`; `python tools/on.py <day> odluka-2014-1613`).
+Act id: `odluka-2014-1613` (tags `odluka-2014-1613/<day>`; `python registry/tools/on.py <day> odluka-2014-1613`).
 
 ## Decisions made by hand
 

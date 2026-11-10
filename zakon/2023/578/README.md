@@ -10,7 +10,7 @@ Zakon o izmjenama Zakona o porezu na dodanu vrijednost · 1 versions, from 2023-
 | čl. 4 | [clanak-004.md](clanak-004.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2023-578` (tags `zakon-2023-578/<day>`; `python tools/on.py <day> zakon-2023-578`).
+Act id: `zakon-2023-578` (tags `zakon-2023-578/<day>`; `python registry/tools/on.py <day> zakon-2023-578`).
 
 ## Decisions made by hand
 

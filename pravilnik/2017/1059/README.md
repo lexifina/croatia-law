@@ -48,7 +48,7 @@ Pravilnik o zaštiti i korištenju arhivskoga i registraturnoga gradiva Ministar
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2017-1059` (tags `pravilnik-2017-1059/<day>`; `python tools/on.py <day> pravilnik-2017-1059`).
+Act id: `pravilnik-2017-1059` (tags `pravilnik-2017-1059/<day>`; `python registry/tools/on.py <day> pravilnik-2017-1059`).
 
 ## Decisions made by hand
 

@@ -8,7 +8,7 @@ Odluka o razvrstavanju javnih cesta · 1 versions, from 2022-04-09 (latest in fo
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2022-510` (tags `odluka-2022-510/<day>`; `python tools/on.py <day> odluka-2022-510`).
+Act id: `odluka-2022-510` (tags `odluka-2022-510/<day>`; `python registry/tools/on.py <day> odluka-2022-510`).
 
 ## Status
 

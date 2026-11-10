@@ -9,7 +9,7 @@ Pravilnik o dopunama Pravilnika o odgodi ili oslobađanju od plaćanja turistič
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2020-1964` (tags `pravilnik-2020-1964/<day>`; `python tools/on.py <day> pravilnik-2020-1964`).
+Act id: `pravilnik-2020-1964` (tags `pravilnik-2020-1964/<day>`; `python registry/tools/on.py <day> pravilnik-2020-1964`).
 
 ## Decisions made by hand
 

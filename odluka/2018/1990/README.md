@@ -5,7 +5,7 @@ Odluka o ustrojavanju službeničkih sudova i Višeg službeničkog suda · 2 ve
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `odluka-2018-1990` (tags `odluka-2018-1990/<day>`; `python tools/on.py <day> odluka-2018-1990`).
+Act id: `odluka-2018-1990` (tags `odluka-2018-1990/<day>`; `python registry/tools/on.py <day> odluka-2018-1990`).
 
 ## Decisions made by hand
 

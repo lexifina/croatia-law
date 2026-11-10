@@ -10,7 +10,7 @@ Pravilnik o izmjenama i dopuni Pravilnika o uvjetima za ostvarivanje prava na mi
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2026-916` (tags `pravilnik-2026-916/<day>`; `python tools/on.py <day> pravilnik-2026-916`).
+Act id: `pravilnik-2026-916` (tags `pravilnik-2026-916/<day>`; `python registry/tools/on.py <day> pravilnik-2026-916`).
 
 ## Decisions made by hand
 

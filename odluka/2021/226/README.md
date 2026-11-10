@@ -9,7 +9,7 @@ Odluka o usklađenju sredstava jamstvenog pologa za 2021. godinu · 1 versions, 
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2021-226` (tags `odluka-2021-226/<day>`; `python tools/on.py <day> odluka-2021-226`).
+Act id: `odluka-2021-226` (tags `odluka-2021-226/<day>`; `python registry/tools/on.py <day> odluka-2021-226`).
 
 ## Decisions made by hand
 

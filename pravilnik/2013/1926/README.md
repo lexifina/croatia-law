@@ -160,7 +160,7 @@ Pravilnik o kontinuiranoj plovidbenosti i održavanju vojnih zrakoplova · 1 ver
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2013-1926` (tags `pravilnik-2013-1926/<day>`; `python tools/on.py <day> pravilnik-2013-1926`).
+Act id: `pravilnik-2013-1926` (tags `pravilnik-2013-1926/<day>`; `python registry/tools/on.py <day> pravilnik-2013-1926`).
 
 ## Status
 

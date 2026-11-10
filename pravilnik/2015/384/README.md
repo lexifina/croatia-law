@@ -11,7 +11,7 @@ Pravilnik o provedbi Uredbe (EU) br. 1007/2011 Europskog parlamenta i Vijeća o 
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2015-384` (tags `pravilnik-2015-384/<day>`; `python tools/on.py <day> pravilnik-2015-384`).
+Act id: `pravilnik-2015-384` (tags `pravilnik-2015-384/<day>`; `python registry/tools/on.py <day> pravilnik-2015-384`).
 
 ## Status
 

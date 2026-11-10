@@ -15,7 +15,7 @@ Pravilnik o vrstama i visini naknada Financijskoj agenciji za usluge javne objav
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2011-2542` (tags `pravilnik-2011-2542/<day>`; `python tools/on.py <day> pravilnik-2011-2542`).
+Act id: `pravilnik-2011-2542` (tags `pravilnik-2011-2542/<day>`; `python registry/tools/on.py <day> pravilnik-2011-2542`).
 
 ## Status
 

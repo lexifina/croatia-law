@@ -8,7 +8,7 @@ Odluka o utvrđivanju interesa Republike Hrvatske za izgradnju ZIP LINE 2 građe
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2016-1531` (tags `odluka-2016-1531/<day>`; `python tools/on.py <day> odluka-2016-1531`).
+Act id: `odluka-2016-1531` (tags `odluka-2016-1531/<day>`; `python registry/tools/on.py <day> odluka-2016-1531`).
 
 ## Decisions made by hand
 

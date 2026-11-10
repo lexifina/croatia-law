@@ -25,7 +25,7 @@ Zakon o izmjenama i dopunama Zakona o državnoj izmjeri i katastru nekretnina ·
 | čl. 19 | [clanak-019.md](clanak-019.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2016-2624` (tags `zakon-2016-2624/<day>`; `python tools/on.py <day> zakon-2016-2624`).
+Act id: `zakon-2016-2624` (tags `zakon-2016-2624/<day>`; `python registry/tools/on.py <day> zakon-2016-2624`).
 
 ## Status
 

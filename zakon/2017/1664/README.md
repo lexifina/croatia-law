@@ -9,7 +9,7 @@ Zakon o izmjeni Zakona o Uredu za suzbijanje korupcije i organiziranog kriminali
 | čl. 3 | [clanak-003.md](clanak-003.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2017-1664` (tags `zakon-2017-1664/<day>`; `python tools/on.py <day> zakon-2017-1664`).
+Act id: `zakon-2017-1664` (tags `zakon-2017-1664/<day>`; `python registry/tools/on.py <day> zakon-2017-1664`).
 
 ## Decisions made by hand
 

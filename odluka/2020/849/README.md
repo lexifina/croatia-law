@@ -10,7 +10,7 @@ Odluka o izmjeni Odluke o utvrđivanju Osnovne liste ortopedskih i drugih pomaga
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2020-849` (tags `odluka-2020-849/<day>`; `python tools/on.py <day> odluka-2020-849`).
+Act id: `odluka-2020-849` (tags `odluka-2020-849/<day>`; `python registry/tools/on.py <day> odluka-2020-849`).
 
 ## Decisions made by hand
 

@@ -38,7 +38,7 @@ Pravilnik o mjerilima za stavljanje lijekova na osnovnu i dopunsku listu lijekov
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2013-1803` (tags `pravilnik-2013-1803/<day>`; `python tools/on.py <day> pravilnik-2013-1803`).
+Act id: `pravilnik-2013-1803` (tags `pravilnik-2013-1803/<day>`; `python registry/tools/on.py <day> pravilnik-2013-1803`).
 
 ## Status
 

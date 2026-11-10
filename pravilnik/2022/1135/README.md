@@ -28,7 +28,7 @@ Pravilnik o standardima smještaja i prehrane zatvorenika · 1 versions, from 20
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2022-1135` (tags `pravilnik-2022-1135/<day>`; `python tools/on.py <day> pravilnik-2022-1135`).
+Act id: `pravilnik-2022-1135` (tags `pravilnik-2022-1135/<day>`; `python registry/tools/on.py <day> pravilnik-2022-1135`).
 
 ## Decisions made by hand
 

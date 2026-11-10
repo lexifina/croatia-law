@@ -27,7 +27,7 @@ Uredba o postupku, načinu i uvjetima za dobivanje koncesije na turističkom zem
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2011-241` (tags `uredba-2011-241/<day>`; `python tools/on.py <day> uredba-2011-241`).
+Act id: `uredba-2011-241` (tags `uredba-2011-241/<day>`; `python registry/tools/on.py <day> uredba-2011-241`).
 
 ## Status
 

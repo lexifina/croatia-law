@@ -8,7 +8,7 @@ Odluka o izmjeni Odluke o osnivanju Savjeta za Slavoniju, Baranju i Srijem · 1 
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2020-1904` (tags `odluka-2020-1904/<day>`; `python tools/on.py <day> odluka-2020-1904`).
+Act id: `odluka-2020-1904` (tags `odluka-2020-1904/<day>`; `python registry/tools/on.py <day> odluka-2020-1904`).
 
 ## Decisions made by hand
 

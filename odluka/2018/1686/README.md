@@ -8,7 +8,7 @@ Odluka o izmjenama i dopunama Odluke o donošenju Mreže osnovnih i srednjih šk
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2018-1686` (tags `odluka-2018-1686/<day>`; `python tools/on.py <day> odluka-2018-1686`).
+Act id: `odluka-2018-1686` (tags `odluka-2018-1686/<day>`; `python registry/tools/on.py <day> odluka-2018-1686`).
 
 ## Decisions made by hand
 

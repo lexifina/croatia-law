@@ -12,7 +12,7 @@ Odluka o izmjeni i dopuni Odluke o načinu oblikovanja maloprodajnih cijena lije
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2016-1819` (tags `odluka-2016-1819/<day>`; `python tools/on.py <day> odluka-2016-1819`).
+Act id: `odluka-2016-1819` (tags `odluka-2016-1819/<day>`; `python registry/tools/on.py <day> odluka-2016-1819`).
 
 ## Decisions made by hand
 

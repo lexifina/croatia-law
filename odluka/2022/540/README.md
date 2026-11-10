@@ -8,7 +8,7 @@ Odluka o prestanku važenja Odluke o načinu organizacije javnog prijevoza putni
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2022-540` (tags `odluka-2022-540/<day>`; `python tools/on.py <day> odluka-2022-540`).
+Act id: `odluka-2022-540` (tags `odluka-2022-540/<day>`; `python registry/tools/on.py <day> odluka-2022-540`).
 
 ## Decisions made by hand
 

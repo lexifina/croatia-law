@@ -36,7 +36,7 @@ Pravilnik o načinu izdavanja i oduzimanja suglasnosti pravnim osobama za obavlj
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2013-2062` (tags `pravilnik-2013-2062/<day>`; `python tools/on.py <day> pravilnik-2013-2062`).
+Act id: `pravilnik-2013-2062` (tags `pravilnik-2013-2062/<day>`; `python registry/tools/on.py <day> pravilnik-2013-2062`).
 
 ## Decisions made by hand
 

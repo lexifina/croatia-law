@@ -8,7 +8,7 @@ Odluka o visini naknade za sklapanje braka u službenim i izvan službenih prost
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2012-1257` (tags `odluka-2012-1257/<day>`; `python tools/on.py <day> odluka-2012-1257`).
+Act id: `odluka-2012-1257` (tags `odluka-2012-1257/<day>`; `python registry/tools/on.py <day> odluka-2012-1257`).
 
 ## Status
 

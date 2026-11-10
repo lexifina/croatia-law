@@ -15,7 +15,7 @@ Uredba o izmjenama i dopunama Uredbe o osnivanju Imunološkog zavoda · 1 versio
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2023-1111` (tags `uredba-2023-1111/<day>`; `python tools/on.py <day> uredba-2023-1111`).
+Act id: `uredba-2023-1111` (tags `uredba-2023-1111/<day>`; `python registry/tools/on.py <day> uredba-2023-1111`).
 
 ## Decisions made by hand
 

@@ -11,7 +11,7 @@ Pravilnik o dopuni Pravilnika o uvjetima i načinu ostvarivanja prava iz obvezno
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2015-234` (tags `pravilnik-2015-234/<day>`; `python tools/on.py <day> pravilnik-2015-234`).
+Act id: `pravilnik-2015-234` (tags `pravilnik-2015-234/<day>`; `python registry/tools/on.py <day> pravilnik-2015-234`).
 
 ## Decisions made by hand
 

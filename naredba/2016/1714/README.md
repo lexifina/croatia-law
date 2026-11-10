@@ -10,7 +10,7 @@ Naredba o dopunama Naredbe o mjerama zaštite životinja od zaraznih i nametnič
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `naredba-2016-1714` (tags `naredba-2016-1714/<day>`; `python tools/on.py <day> naredba-2016-1714`).
+Act id: `naredba-2016-1714` (tags `naredba-2016-1714/<day>`; `python registry/tools/on.py <day> naredba-2016-1714`).
 
 ## Decisions made by hand
 

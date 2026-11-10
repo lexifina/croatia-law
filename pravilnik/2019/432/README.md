@@ -34,7 +34,7 @@ Pravilnik o statusnim promjenama AIF-ova bez pravne osobnosti te uvjetima za pro
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2019-432` (tags `pravilnik-2019-432/<day>`; `python tools/on.py <day> pravilnik-2019-432`).
+Act id: `pravilnik-2019-432` (tags `pravilnik-2019-432/<day>`; `python registry/tools/on.py <day> pravilnik-2019-432`).
 
 ## Decisions made by hand
 

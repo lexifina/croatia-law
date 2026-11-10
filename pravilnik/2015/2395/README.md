@@ -18,7 +18,7 @@ Pravilnik o načinu vođenja popisa turista te o obliku i sadržaju obrasca prij
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2015-2395` (tags `pravilnik-2015-2395/<day>`; `python tools/on.py <day> pravilnik-2015-2395`).
+Act id: `pravilnik-2015-2395` (tags `pravilnik-2015-2395/<day>`; `python registry/tools/on.py <day> pravilnik-2015-2395`).
 
 ## Decisions made by hand
 

@@ -13,7 +13,7 @@ Uredba o načinu izračuna i visini sredstava za uzdržavanje stranca u Republic
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2012-1248` (tags `uredba-2012-1248/<day>`; `python tools/on.py <day> uredba-2012-1248`).
+Act id: `uredba-2012-1248` (tags `uredba-2012-1248/<day>`; `python registry/tools/on.py <day> uredba-2012-1248`).
 
 ## Status
 

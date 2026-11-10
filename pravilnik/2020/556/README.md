@@ -9,7 +9,7 @@ Pravilnik o dopuni Pravilnika o načinu i postupku izbora doktora specijalista m
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2020-556` (tags `pravilnik-2020-556/<day>`; `python tools/on.py <day> pravilnik-2020-556`).
+Act id: `pravilnik-2020-556` (tags `pravilnik-2020-556/<day>`; `python registry/tools/on.py <day> pravilnik-2020-556`).
 
 ## Decisions made by hand
 

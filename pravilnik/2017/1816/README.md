@@ -45,7 +45,7 @@ Pravilnik o provedbi mjere 5, tipa operacije 5.2.1. Obnova poljoprivrednog zemlj
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2017-1816` (tags `pravilnik-2017-1816/<day>`; `python tools/on.py <day> pravilnik-2017-1816`).
+Act id: `pravilnik-2017-1816` (tags `pravilnik-2017-1816/<day>`; `python registry/tools/on.py <day> pravilnik-2017-1816`).
 
 ## Status
 

@@ -11,7 +11,7 @@ Odluka o izmjenama Odluke o porezima Grada Svetog Ivana Zeline · 1 versions, fr
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2020-2717` (tags `odluka-2020-2717/<day>`; `python tools/on.py <day> odluka-2020-2717`).
+Act id: `odluka-2020-2717` (tags `odluka-2020-2717/<day>`; `python registry/tools/on.py <day> odluka-2020-2717`).
 
 ## Decisions made by hand
 

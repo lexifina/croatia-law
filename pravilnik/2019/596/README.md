@@ -23,7 +23,7 @@ Pravilnik o uvjetima koje moraju ispunjavati ovlašteni laboratoriji za potrebe 
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2019-596` (tags `pravilnik-2019-596/<day>`; `python tools/on.py <day> pravilnik-2019-596`).
+Act id: `pravilnik-2019-596` (tags `pravilnik-2019-596/<day>`; `python registry/tools/on.py <day> pravilnik-2019-596`).
 
 ## Decisions made by hand
 

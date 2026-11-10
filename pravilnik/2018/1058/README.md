@@ -16,7 +16,7 @@ Pravilnik o postupku prijenosa kapitaliziranih sredstava doprinosa za mirovinsko
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2018-1058` (tags `pravilnik-2018-1058/<day>`; `python tools/on.py <day> pravilnik-2018-1058`).
+Act id: `pravilnik-2018-1058` (tags `pravilnik-2018-1058/<day>`; `python registry/tools/on.py <day> pravilnik-2018-1058`).
 
 ## Decisions made by hand
 

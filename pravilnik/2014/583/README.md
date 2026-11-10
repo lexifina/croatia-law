@@ -21,7 +21,7 @@ Pravilnik o uvjetima i mjerilima za davanje ovlaštenja za kontrolu projekata ·
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2014-583` (tags `pravilnik-2014-583/<day>`; `python tools/on.py <day> pravilnik-2014-583`).
+Act id: `pravilnik-2014-583` (tags `pravilnik-2014-583/<day>`; `python registry/tools/on.py <day> pravilnik-2014-583`).
 
 ## Status
 

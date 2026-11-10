@@ -11,7 +11,7 @@ Pravilnik o dodatnim poslovima koje može obavljati društvo za posredovanje u o
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2013-2209` (tags `pravilnik-2013-2209/<day>`; `python tools/on.py <day> pravilnik-2013-2209`).
+Act id: `pravilnik-2013-2209` (tags `pravilnik-2013-2209/<day>`; `python registry/tools/on.py <day> pravilnik-2013-2209`).
 
 ## Status
 

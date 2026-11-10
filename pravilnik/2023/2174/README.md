@@ -18,7 +18,7 @@ Pravilnik o vizualnom identitetu, posebnim oznakama vozila i evidentiranju prola
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2023-2174` (tags `pravilnik-2023-2174/<day>`; `python tools/on.py <day> pravilnik-2023-2174`).
+Act id: `pravilnik-2023-2174` (tags `pravilnik-2023-2174/<day>`; `python registry/tools/on.py <day> pravilnik-2023-2174`).
 
 ## Decisions made by hand
 

@@ -13,7 +13,7 @@ Pravilnik o obliku i sadržaju periodičnih statističkih izvještaja distribute
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2025-1263` (tags `pravilnik-2025-1263/<day>`; `python tools/on.py <day> pravilnik-2025-1263`).
+Act id: `pravilnik-2025-1263` (tags `pravilnik-2025-1263/<day>`; `python registry/tools/on.py <day> pravilnik-2025-1263`).
 
 ## Decisions made by hand
 

@@ -9,7 +9,7 @@ Pravilnik o izmjeni Pravilnika o provedbi izravne potpore poljoprivredi i IAKS m
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2023-850` (tags `pravilnik-2023-850/<day>`; `python tools/on.py <day> pravilnik-2023-850`).
+Act id: `pravilnik-2023-850` (tags `pravilnik-2023-850/<day>`; `python registry/tools/on.py <day> pravilnik-2023-850`).
 
 ## Decisions made by hand
 

@@ -16,7 +16,7 @@ Pravilnik o izmjenama i dopunama Pravilnika o davanju odobrenja za obavljanje po
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2014-838` (tags `pravilnik-2014-838/<day>`; `python tools/on.py <day> pravilnik-2014-838`).
+Act id: `pravilnik-2014-838` (tags `pravilnik-2014-838/<day>`; `python registry/tools/on.py <day> pravilnik-2014-838`).
 
 ## Decisions made by hand
 

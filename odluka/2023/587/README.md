@@ -8,7 +8,7 @@ Odluka o davanju suglasnosti na Odluku Županijske skupštine Splitsko-dalmatins
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2023-587` (tags `odluka-2023-587/<day>`; `python tools/on.py <day> odluka-2023-587`).
+Act id: `odluka-2023-587` (tags `odluka-2023-587/<day>`; `python registry/tools/on.py <day> odluka-2023-587`).
 
 ## Decisions made by hand
 

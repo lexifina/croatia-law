@@ -35,7 +35,7 @@ Uredba o dobrovoljnom sudjelovanju organizacija u sustavu za ekološko upravljan
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2020-2488` (tags `uredba-2020-2488/<day>`; `python tools/on.py <day> uredba-2020-2488`).
+Act id: `uredba-2020-2488` (tags `uredba-2020-2488/<day>`; `python registry/tools/on.py <day> uredba-2020-2488`).
 
 ## Decisions made by hand
 

@@ -10,7 +10,7 @@ Pravilnik o izmjenama Pravilnika o rasporedu sredstava za održavanje, rekonstru
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2017-2768` (tags `pravilnik-2017-2768/<day>`; `python tools/on.py <day> pravilnik-2017-2768`).
+Act id: `pravilnik-2017-2768` (tags `pravilnik-2017-2768/<day>`; `python registry/tools/on.py <day> pravilnik-2017-2768`).
 
 ## Decisions made by hand
 

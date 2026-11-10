@@ -30,7 +30,7 @@ Pravilnik o mjerilima za rad službenika u zemljišnoknjižnim odjelima · 1 ver
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2022-1905` (tags `pravilnik-2022-1905/<day>`; `python tools/on.py <day> pravilnik-2022-1905`).
+Act id: `pravilnik-2022-1905` (tags `pravilnik-2022-1905/<day>`; `python registry/tools/on.py <day> pravilnik-2022-1905`).
 
 ## Decisions made by hand
 

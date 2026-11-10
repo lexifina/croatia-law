@@ -14,7 +14,7 @@ Statut o izmjenama i dopunama Statuta Nacionalnog centra za vanjsko vrednovanje 
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `statut-2023-1287` (tags `statut-2023-1287/<day>`; `python tools/on.py <day> statut-2023-1287`).
+Act id: `statut-2023-1287` (tags `statut-2023-1287/<day>`; `python registry/tools/on.py <day> statut-2023-1287`).
 
 ## Decisions made by hand
 

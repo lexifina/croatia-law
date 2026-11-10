@@ -8,7 +8,7 @@ Odluka o izmjeni Odluke o davanju koncesije za osnivanje Slobodne zone Kukuljano
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2020-1550` (tags `odluka-2020-1550/<day>`; `python tools/on.py <day> odluka-2020-1550`).
+Act id: `odluka-2020-1550` (tags `odluka-2020-1550/<day>`; `python registry/tools/on.py <day> odluka-2020-1550`).
 
 ## Decisions made by hand
 

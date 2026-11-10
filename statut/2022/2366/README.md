@@ -182,7 +182,7 @@ Statut Hrvatske odvjetničke komore · 1 versions, from 2022-12-30 (latest in fo
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `statut-2022-2366` (tags `statut-2022-2366/<day>`; `python tools/on.py <day> statut-2022-2366`).
+Act id: `statut-2022-2366` (tags `statut-2022-2366/<day>`; `python registry/tools/on.py <day> statut-2022-2366`).
 
 ## Status
 

@@ -43,7 +43,7 @@ Zakon o izmjenama i dopunama Zakona o volonterstvu · 1 versions, from 2021-07-3
 | čl. 37 | [clanak-037.md](clanak-037.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2021-1558` (tags `zakon-2021-1558/<day>`; `python tools/on.py <day> zakon-2021-1558`).
+Act id: `zakon-2021-1558` (tags `zakon-2021-1558/<day>`; `python registry/tools/on.py <day> zakon-2021-1558`).
 
 ## Decisions made by hand
 

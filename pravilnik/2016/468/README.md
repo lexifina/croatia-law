@@ -5,7 +5,7 @@ Pravilnik o izmjenama i dopunama Pravilnika o posebnim uvjetima i tehničkim zah
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `pravilnik-2016-468` (tags `pravilnik-2016-468/<day>`; `python tools/on.py <day> pravilnik-2016-468`).
+Act id: `pravilnik-2016-468` (tags `pravilnik-2016-468/<day>`; `python registry/tools/on.py <day> pravilnik-2016-468`).
 
 ## Decisions made by hand
 

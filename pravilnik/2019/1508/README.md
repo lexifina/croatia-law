@@ -25,7 +25,7 @@ Pravilnik o ustrojstvu, djelokrugu i načinu rada Otočnog vijeća · 1 versions
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2019-1508` (tags `pravilnik-2019-1508/<day>`; `python tools/on.py <day> pravilnik-2019-1508`).
+Act id: `pravilnik-2019-1508` (tags `pravilnik-2019-1508/<day>`; `python registry/tools/on.py <day> pravilnik-2019-1508`).
 
 ## Status
 

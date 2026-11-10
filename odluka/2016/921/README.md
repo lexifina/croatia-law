@@ -8,7 +8,7 @@ Odluka o obustavi postupka sanacije Kliničke bolnice "Merkur" · 1 versions, fr
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2016-921` (tags `odluka-2016-921/<day>`; `python tools/on.py <day> odluka-2016-921`).
+Act id: `odluka-2016-921` (tags `odluka-2016-921/<day>`; `python registry/tools/on.py <day> odluka-2016-921`).
 
 ## Decisions made by hand
 

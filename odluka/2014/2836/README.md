@@ -8,7 +8,7 @@ Odluka o dopuni Odluke o pomoći poljoprivrednim proizvođačima na područjima 
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2014-2836` (tags `odluka-2014-2836/<day>`; `python tools/on.py <day> odluka-2014-2836`).
+Act id: `odluka-2014-2836` (tags `odluka-2014-2836/<day>`; `python registry/tools/on.py <day> odluka-2014-2836`).
 
 ## Decisions made by hand
 

@@ -12,7 +12,7 @@ Pravilnik o dokumentaciji za izdavanje poslova ili funkcija društva za osiguran
 | čl. 6 | [clanak-006.md](clanak-006.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `pravilnik-2016-96` (tags `pravilnik-2016-96/<day>`; `python tools/on.py <day> pravilnik-2016-96`).
+Act id: `pravilnik-2016-96` (tags `pravilnik-2016-96/<day>`; `python registry/tools/on.py <day> pravilnik-2016-96`).
 
 ## Status
 

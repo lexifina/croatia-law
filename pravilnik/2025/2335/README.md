@@ -29,7 +29,7 @@ Pravilnik o planovima oporavka investicijskih društava · 1 versions, from 2026
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2025-2335` (tags `pravilnik-2025-2335/<day>`; `python tools/on.py <day> pravilnik-2025-2335`).
+Act id: `pravilnik-2025-2335` (tags `pravilnik-2025-2335/<day>`; `python registry/tools/on.py <day> pravilnik-2025-2335`).
 
 ## Decisions made by hand
 

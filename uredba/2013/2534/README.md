@@ -14,7 +14,7 @@ Uredba o izmjenama i dopunama Uredbe o osnivanju Veleučilišta u Rijeci · 1 ve
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2013-2534` (tags `uredba-2013-2534/<day>`; `python tools/on.py <day> uredba-2013-2534`).
+Act id: `uredba-2013-2534` (tags `uredba-2013-2534/<day>`; `python registry/tools/on.py <day> uredba-2013-2534`).
 
 ## Decisions made by hand
 

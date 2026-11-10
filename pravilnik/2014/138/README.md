@@ -15,7 +15,7 @@ Pravilnik o visini pristojbi za veterinarski pregled pošiljaka iz trećih zemal
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2014-138` (tags `pravilnik-2014-138/<day>`; `python tools/on.py <day> pravilnik-2014-138`).
+Act id: `pravilnik-2014-138` (tags `pravilnik-2014-138/<day>`; `python registry/tools/on.py <day> pravilnik-2014-138`).
 
 ## Status
 

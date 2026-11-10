@@ -12,7 +12,7 @@ Zakon o izmjenama i dopuni Zakona o područjima i sjedištima sudova · 1 versio
 | čl. 6 | [clanak-006.md](clanak-006.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2022-223` (tags `zakon-2022-223/<day>`; `python tools/on.py <day> zakon-2022-223`).
+Act id: `zakon-2022-223` (tags `zakon-2022-223/<day>`; `python registry/tools/on.py <day> zakon-2022-223`).
 
 ## Decisions made by hand
 

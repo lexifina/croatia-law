@@ -8,7 +8,7 @@ Odluka o izmjeni Odluke o ustrojavanju Službeničkog suda za državne službeni
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2015-591` (tags `odluka-2015-591/<day>`; `python tools/on.py <day> odluka-2015-591`).
+Act id: `odluka-2015-591` (tags `odluka-2015-591/<day>`; `python registry/tools/on.py <day> odluka-2015-591`).
 
 ## Decisions made by hand
 

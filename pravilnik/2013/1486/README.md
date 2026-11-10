@@ -17,7 +17,7 @@ Pravilnik o posebnim uvjetima i tehničkim zahtjevima za Europsku elektroničku 
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2013-1486` (tags `pravilnik-2013-1486/<day>`; `python tools/on.py <day> pravilnik-2013-1486`).
+Act id: `pravilnik-2013-1486` (tags `pravilnik-2013-1486/<day>`; `python registry/tools/on.py <day> pravilnik-2013-1486`).
 
 ## Status
 

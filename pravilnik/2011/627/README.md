@@ -30,7 +30,7 @@ Pravilnik o uvjetima i načinu izdavanja, produžavanja i obnavljanja dozvola i 
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2011-627` (tags `pravilnik-2011-627/<day>`; `python tools/on.py <day> pravilnik-2011-627`).
+Act id: `pravilnik-2011-627` (tags `pravilnik-2011-627/<day>`; `python registry/tools/on.py <day> pravilnik-2011-627`).
 
 ## Decisions made by hand
 

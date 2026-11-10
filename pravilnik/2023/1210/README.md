@@ -28,7 +28,7 @@ Pravilnik o opsegu i sadržaju podataka te načinu vođenja e-Kartona · 1 versi
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2023-1210` (tags `pravilnik-2023-1210/<day>`; `python tools/on.py <day> pravilnik-2023-1210`).
+Act id: `pravilnik-2023-1210` (tags `pravilnik-2023-1210/<day>`; `python registry/tools/on.py <day> pravilnik-2023-1210`).
 
 ## Decisions made by hand
 

@@ -13,7 +13,7 @@ Pravilnik o izmjenama i dopunama Pravilnika o vinskom i voćnom octu · 1 versio
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2011-555` (tags `pravilnik-2011-555/<day>`; `python tools/on.py <day> pravilnik-2011-555`).
+Act id: `pravilnik-2011-555` (tags `pravilnik-2011-555/<day>`; `python registry/tools/on.py <day> pravilnik-2011-555`).
 
 ## Decisions made by hand
 

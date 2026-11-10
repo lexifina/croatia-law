@@ -23,7 +23,7 @@ Pravilnik o stalnom stručnom usavršavanju ovlaštenih revizora · 1 versions, 
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2018-2038` (tags `pravilnik-2018-2038/<day>`; `python tools/on.py <day> pravilnik-2018-2038`).
+Act id: `pravilnik-2018-2038` (tags `pravilnik-2018-2038/<day>`; `python registry/tools/on.py <day> pravilnik-2018-2038`).
 
 ## Status
 

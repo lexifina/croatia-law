@@ -17,7 +17,7 @@ Pravilnik o načinu privremenog oduzimanja i čuvanja virtualne imovine · 1 ver
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2026-1107` (tags `pravilnik-2026-1107/<day>`; `python tools/on.py <day> pravilnik-2026-1107`).
+Act id: `pravilnik-2026-1107` (tags `pravilnik-2026-1107/<day>`; `python registry/tools/on.py <day> pravilnik-2026-1107`).
 
 ## Decisions made by hand
 

@@ -8,7 +8,7 @@ Odluka o izmjeni Odluke o osnivanju Međuresorne radne skupine za osiguravanje u
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2016-890` (tags `odluka-2016-890/<day>`; `python tools/on.py <day> odluka-2016-890`).
+Act id: `odluka-2016-890` (tags `odluka-2016-890/<day>`; `python registry/tools/on.py <day> odluka-2016-890`).
 
 ## Decisions made by hand
 

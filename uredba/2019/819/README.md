@@ -11,7 +11,7 @@ Uredba o dopuni Uredbe o unutarnjem ustrojstvu Središnjeg državnog ureda za š
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2019-819` (tags `uredba-2019-819/<day>`; `python tools/on.py <day> uredba-2019-819`).
+Act id: `uredba-2019-819` (tags `uredba-2019-819/<day>`; `python registry/tools/on.py <day> uredba-2019-819`).
 
 ## Decisions made by hand
 

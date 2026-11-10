@@ -9,7 +9,7 @@ Zakon o izmjenama Zakona o predmetima opće uporabe · 1 versions, from 2014-04-
 | čl. 3 | [clanak-003.md](clanak-003.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2014-875` (tags `zakon-2014-875/<day>`; `python tools/on.py <day> zakon-2014-875`).
+Act id: `zakon-2014-875` (tags `zakon-2014-875/<day>`; `python registry/tools/on.py <day> zakon-2014-875`).
 
 ## Decisions made by hand
 

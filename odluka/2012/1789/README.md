@@ -8,7 +8,7 @@ Odluka o davanju suglasnosti na Statut Agencije za investicije i konkurentnost Â
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2012-1789` (tags `odluka-2012-1789/<day>`; `python tools/on.py <day> odluka-2012-1789`).
+Act id: `odluka-2012-1789` (tags `odluka-2012-1789/<day>`; `python registry/tools/on.py <day> odluka-2012-1789`).
 
 ## Status
 

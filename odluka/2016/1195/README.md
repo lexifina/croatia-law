@@ -27,7 +27,7 @@ Odluka o pravilima rada Hrvatskog sustava velikih plaćanja · 1 versions, from 
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2016-1195` (tags `odluka-2016-1195/<day>`; `python tools/on.py <day> odluka-2016-1195`).
+Act id: `odluka-2016-1195` (tags `odluka-2016-1195/<day>`; `python registry/tools/on.py <day> odluka-2016-1195`).
 
 ## Status
 

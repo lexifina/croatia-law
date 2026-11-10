@@ -12,7 +12,7 @@ Odluka o II. izmjenama Odluke o Općinskim porezima Općine Lukač · 1 versions
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2018-90` (tags `odluka-2018-90/<day>`; `python tools/on.py <day> odluka-2018-90`).
+Act id: `odluka-2018-90` (tags `odluka-2018-90/<day>`; `python registry/tools/on.py <day> odluka-2018-90`).
 
 ## Decisions made by hand
 

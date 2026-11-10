@@ -9,7 +9,7 @@ Odluka u povodu zahtjeva za raspisivanje državnog referenduma Građanske inicij
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2014-2582` (tags `odluka-2014-2582/<day>`; `python tools/on.py <day> odluka-2014-2582`).
+Act id: `odluka-2014-2582` (tags `odluka-2014-2582/<day>`; `python registry/tools/on.py <day> odluka-2014-2582`).
 
 ## Decisions made by hand
 

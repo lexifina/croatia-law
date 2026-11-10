@@ -8,7 +8,7 @@ Naredba o izmjenama Naredbe o mjerama za sprječavanje pojave i ranog otkrivanja
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `naredba-2019-1995` (tags `naredba-2019-1995/<day>`; `python tools/on.py <day> naredba-2019-1995`).
+Act id: `naredba-2019-1995` (tags `naredba-2019-1995/<day>`; `python registry/tools/on.py <day> naredba-2019-1995`).
 
 ## Decisions made by hand
 

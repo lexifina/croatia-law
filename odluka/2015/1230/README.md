@@ -8,7 +8,7 @@ Odluka o osnivanju Vijeće za gospodarska pitanja Predsjednice Republike Hrvatsk
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2015-1230` (tags `odluka-2015-1230/<day>`; `python tools/on.py <day> odluka-2015-1230`).
+Act id: `odluka-2015-1230` (tags `odluka-2015-1230/<day>`; `python registry/tools/on.py <day> odluka-2015-1230`).
 
 ## Status
 

@@ -8,7 +8,7 @@ Odluka o postavljanju Petra Uzorinca za generalnog konzula Republike Hrvatske u 
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2013-593` (tags `odluka-2013-593/<day>`; `python tools/on.py <day> odluka-2013-593`).
+Act id: `odluka-2013-593` (tags `odluka-2013-593/<day>`; `python registry/tools/on.py <day> odluka-2013-593`).
 
 ## Decisions made by hand
 

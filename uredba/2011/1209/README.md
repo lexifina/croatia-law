@@ -21,7 +21,7 @@ Uredba o sadržaju, načinu prikupljanja i obrade, te mjerama zaštite podataka 
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2011-1209` (tags `uredba-2011-1209/<day>`; `python tools/on.py <day> uredba-2011-1209`).
+Act id: `uredba-2011-1209` (tags `uredba-2011-1209/<day>`; `python registry/tools/on.py <day> uredba-2011-1209`).
 
 ## Status
 

@@ -16,7 +16,7 @@ Uredba o područjima matičnih ureda · 1 versions, from 2024-01-01 (latest in f
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2023-1439` (tags `uredba-2023-1439/<day>`; `python tools/on.py <day> uredba-2023-1439`).
+Act id: `uredba-2023-1439` (tags `uredba-2023-1439/<day>`; `python registry/tools/on.py <day> uredba-2023-1439`).
 
 ## Decisions made by hand
 

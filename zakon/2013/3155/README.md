@@ -9,7 +9,7 @@ Zakon o izmjeni i dopuni Zakona o željeznici · 1 versions, from 2014-01-01 (la
 | čl. 3 | [clanak-003.md](clanak-003.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2013-3155` (tags `zakon-2013-3155/<day>`; `python tools/on.py <day> zakon-2013-3155`).
+Act id: `zakon-2013-3155` (tags `zakon-2013-3155/<day>`; `python registry/tools/on.py <day> zakon-2013-3155`).
 
 ## Decisions made by hand
 

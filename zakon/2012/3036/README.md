@@ -26,7 +26,7 @@ Zakon o izmjenama i dopunama Zakona o upravnim sporovima · 1 versions, from 201
 | čl. 20 | [clanak-020.md](clanak-020.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2012-3036` (tags `zakon-2012-3036/<day>`; `python tools/on.py <day> zakon-2012-3036`).
+Act id: `zakon-2012-3036` (tags `zakon-2012-3036/<day>`; `python registry/tools/on.py <day> zakon-2012-3036`).
 
 ## Decisions made by hand
 

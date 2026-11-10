@@ -5,7 +5,7 @@ Odluka o naknadi za organiziranje tržišta plina · 2 versions, from 2016-04-01
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `odluka-2016-652` (tags `odluka-2016-652/<day>`; `python tools/on.py <day> odluka-2016-652`).
+Act id: `odluka-2016-652` (tags `odluka-2016-652/<day>`; `python registry/tools/on.py <day> odluka-2016-652`).
 
 ## Decisions made by hand
 

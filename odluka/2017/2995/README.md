@@ -9,7 +9,7 @@ Odluka o izmjenama Odluke o visini naknada za tehnički pregled i druge poslove 
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2017-2995` (tags `odluka-2017-2995/<day>`; `python tools/on.py <day> odluka-2017-2995`).
+Act id: `odluka-2017-2995` (tags `odluka-2017-2995/<day>`; `python registry/tools/on.py <day> odluka-2017-2995`).
 
 ## Decisions made by hand
 

@@ -8,7 +8,7 @@ Odluka o katastarskoj izmjeri na području Općine Voćin za dio katastarske op�
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2023-138` (tags `odluka-2023-138/<day>`; `python tools/on.py <day> odluka-2023-138`).
+Act id: `odluka-2023-138` (tags `odluka-2023-138/<day>`; `python registry/tools/on.py <day> odluka-2023-138`).
 
 ## Decisions made by hand
 

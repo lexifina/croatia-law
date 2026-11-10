@@ -13,7 +13,7 @@ Pravilnik o dopunama Pravilnika o uvjetima i postupku izdavanja dopuštenja za s
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2012-1681` (tags `pravilnik-2012-1681/<day>`; `python tools/on.py <day> pravilnik-2012-1681`).
+Act id: `pravilnik-2012-1681` (tags `pravilnik-2012-1681/<day>`; `python registry/tools/on.py <day> pravilnik-2012-1681`).
 
 ## Decisions made by hand
 

@@ -8,7 +8,7 @@ Odluka o uvjetima i visini naknada i nagrade predsjednika i članova Državnoodv
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2019-1242` (tags `odluka-2019-1242/<day>`; `python tools/on.py <day> odluka-2019-1242`).
+Act id: `odluka-2019-1242` (tags `odluka-2019-1242/<day>`; `python registry/tools/on.py <day> odluka-2019-1242`).
 
 ## Decisions made by hand
 

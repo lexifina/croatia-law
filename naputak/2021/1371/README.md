@@ -9,7 +9,7 @@ Naputak o izmjeni i dopuni Naputka o načinu isplate beskamatnog zajma jedinicam
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `naputak-2021-1371` (tags `naputak-2021-1371/<day>`; `python tools/on.py <day> naputak-2021-1371`).
+Act id: `naputak-2021-1371` (tags `naputak-2021-1371/<day>`; `python registry/tools/on.py <day> naputak-2021-1371`).
 
 ## Decisions made by hand
 

@@ -8,7 +8,7 @@ Odluka o izmjeni i dopuni Odluke o osnivanju Povjerenstva za praćenje provedbe 
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2025-1460` (tags `odluka-2025-1460/<day>`; `python tools/on.py <day> odluka-2025-1460`).
+Act id: `odluka-2025-1460` (tags `odluka-2025-1460/<day>`; `python registry/tools/on.py <day> odluka-2025-1460`).
 
 ## Decisions made by hand
 

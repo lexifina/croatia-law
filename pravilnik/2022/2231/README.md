@@ -16,7 +16,7 @@ Pravilnik o podnošenju Hrvatskoj agenciji za nadzor financijskih usluga prituž
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2022-2231` (tags `pravilnik-2022-2231/<day>`; `python tools/on.py <day> pravilnik-2022-2231`).
+Act id: `pravilnik-2022-2231` (tags `pravilnik-2022-2231/<day>`; `python registry/tools/on.py <day> pravilnik-2022-2231`).
 
 ## Decisions made by hand
 

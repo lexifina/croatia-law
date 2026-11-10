@@ -46,7 +46,7 @@ Statut Nezavisne stranke Samo Tim · 1 versions, from 2025-01-18 (latest in forc
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `statut-2025-571` (tags `statut-2025-571/<day>`; `python tools/on.py <day> statut-2025-571`).
+Act id: `statut-2025-571` (tags `statut-2025-571/<day>`; `python registry/tools/on.py <day> statut-2025-571`).
 
 ## Decisions made by hand
 

@@ -10,7 +10,7 @@ Pravilnik o izmjenama i dopunama Pravilnika o najmanjem broju članova posade za
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2015-2030` (tags `pravilnik-2015-2030/<day>`; `python tools/on.py <day> pravilnik-2015-2030`).
+Act id: `pravilnik-2015-2030` (tags `pravilnik-2015-2030/<day>`; `python registry/tools/on.py <day> pravilnik-2015-2030`).
 
 ## Decisions made by hand
 

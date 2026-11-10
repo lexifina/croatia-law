@@ -9,7 +9,7 @@ Zakon o izmjeni Zakona o porezu na dodanu vrijednost · 1 versions, from 2025-03
 | čl. 3 | [clanak-003.md](clanak-003.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2025-673` (tags `zakon-2025-673/<day>`; `python tools/on.py <day> zakon-2025-673`).
+Act id: `zakon-2025-673` (tags `zakon-2025-673/<day>`; `python registry/tools/on.py <day> zakon-2025-673`).
 
 ## Decisions made by hand
 

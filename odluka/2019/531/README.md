@@ -5,7 +5,7 @@ Odluka o Popisu izvornih i ugroženih pasmina domaćih životinja · 2 versions,
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `odluka-2019-531` (tags `odluka-2019-531/<day>`; `python tools/on.py <day> odluka-2019-531`).
+Act id: `odluka-2019-531` (tags `odluka-2019-531/<day>`; `python registry/tools/on.py <day> odluka-2019-531`).
 
 ## Decisions made by hand
 

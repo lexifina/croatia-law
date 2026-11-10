@@ -11,7 +11,7 @@ Pravilnik o izmjeni Pravilnika o financijskim i dodatnim izvještajima te kontno
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2017-3053` (tags `pravilnik-2017-3053/<day>`; `python tools/on.py <day> pravilnik-2017-3053`).
+Act id: `pravilnik-2017-3053` (tags `pravilnik-2017-3053/<day>`; `python registry/tools/on.py <day> pravilnik-2017-3053`).
 
 ## Decisions made by hand
 

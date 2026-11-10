@@ -18,7 +18,7 @@ Odluka o financiranju Hrvatske gospodarske komore · 1 versions, from 2014-12-31
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2014-2983` (tags `odluka-2014-2983/<day>`; `python tools/on.py <day> odluka-2014-2983`).
+Act id: `odluka-2014-2983` (tags `odluka-2014-2983/<day>`; `python registry/tools/on.py <day> odluka-2014-2983`).
 
 ## Status
 

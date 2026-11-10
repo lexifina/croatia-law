@@ -8,7 +8,7 @@ Odluka o katastarskoj izmjeri na području Općine Sveti Juraj na Bregu i Općin
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2023-126` (tags `odluka-2023-126/<day>`; `python tools/on.py <day> odluka-2023-126`).
+Act id: `odluka-2023-126` (tags `odluka-2023-126/<day>`; `python registry/tools/on.py <day> odluka-2023-126`).
 
 ## Decisions made by hand
 

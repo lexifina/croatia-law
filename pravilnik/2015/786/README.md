@@ -10,7 +10,7 @@ Pravilnik o izmjenama Pravilnika o boravku i radu visokokvalificiranih državlja
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2015-786` (tags `pravilnik-2015-786/<day>`; `python tools/on.py <day> pravilnik-2015-786`).
+Act id: `pravilnik-2015-786` (tags `pravilnik-2015-786/<day>`; `python registry/tools/on.py <day> pravilnik-2015-786`).
 
 ## Decisions made by hand
 

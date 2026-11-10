@@ -5,7 +5,7 @@ Odluka o utvrđivanju Popisa posebno skupih lijekova utvrđenih Odlukom o utvrđ
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `odluka-2015-1037` (tags `odluka-2015-1037/<day>`; `python tools/on.py <day> odluka-2015-1037`).
+Act id: `odluka-2015-1037` (tags `odluka-2015-1037/<day>`; `python registry/tools/on.py <day> odluka-2015-1037`).
 
 ## Decisions made by hand
 

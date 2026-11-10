@@ -35,7 +35,7 @@ Pravilnik o izmjenama i dopunama Pravilnika o načinu i postupku provedbe prodaj
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2019-25` (tags `pravilnik-2019-25/<day>`; `python tools/on.py <day> pravilnik-2019-25`).
+Act id: `pravilnik-2019-25` (tags `pravilnik-2019-25/<day>`; `python registry/tools/on.py <day> pravilnik-2019-25`).
 
 ## Decisions made by hand
 

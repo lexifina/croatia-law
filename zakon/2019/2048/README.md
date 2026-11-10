@@ -16,7 +16,7 @@ Zakon o izmjenama Zakona o mirovinskom osiguranju · 1 versions, from 2020-01-01
 | čl. 10 | [clanak-010.md](clanak-010.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2019-2048` (tags `zakon-2019-2048/<day>`; `python tools/on.py <day> zakon-2019-2048`).
+Act id: `zakon-2019-2048` (tags `zakon-2019-2048/<day>`; `python registry/tools/on.py <day> zakon-2019-2048`).
 
 ## Decisions made by hand
 

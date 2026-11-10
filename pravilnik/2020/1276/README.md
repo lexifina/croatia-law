@@ -9,7 +9,7 @@ Pravilnik o lovostaju jegulje (Anguilla anguilla) u 2020. godini · 1 versions, 
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2020-1276` (tags `pravilnik-2020-1276/<day>`; `python tools/on.py <day> pravilnik-2020-1276`).
+Act id: `pravilnik-2020-1276` (tags `pravilnik-2020-1276/<day>`; `python registry/tools/on.py <day> pravilnik-2020-1276`).
 
 ## Decisions made by hand
 

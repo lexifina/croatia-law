@@ -23,7 +23,7 @@ Zakon o izmjenama Zakona o upravnoj inspekciji · 1 versions, from 2020-01-01 (l
 | čl. 17 | [clanak-017.md](clanak-017.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2019-1938` (tags `zakon-2019-1938/<day>`; `python tools/on.py <day> zakon-2019-1938`).
+Act id: `zakon-2019-1938` (tags `zakon-2019-1938/<day>`; `python registry/tools/on.py <day> zakon-2019-1938`).
 
 ## Decisions made by hand
 

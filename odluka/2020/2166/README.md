@@ -5,7 +5,7 @@ Odluka o uvođenju nužne epidemiološke mjere za područje Karlovačke županij
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `odluka-2020-2166` (tags `odluka-2020-2166/<day>`; `python tools/on.py <day> odluka-2020-2166`).
+Act id: `odluka-2020-2166` (tags `odluka-2020-2166/<day>`; `python registry/tools/on.py <day> odluka-2020-2166`).
 
 ## Decisions made by hand
 

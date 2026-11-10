@@ -14,7 +14,7 @@ Pravilnik o strukturi i sadržaju godišnjih financijskih izvještaja investicij
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2022-2316` (tags `pravilnik-2022-2316/<day>`; `python tools/on.py <day> pravilnik-2022-2316`).
+Act id: `pravilnik-2022-2316` (tags `pravilnik-2022-2316/<day>`; `python registry/tools/on.py <day> pravilnik-2022-2316`).
 
 ## Decisions made by hand
 

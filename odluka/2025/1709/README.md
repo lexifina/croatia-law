@@ -8,7 +8,7 @@ Odluka o visini naknade predsjednicima, potpredsjednicima i članovima izbornih 
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2025-1709` (tags `odluka-2025-1709/<day>`; `python tools/on.py <day> odluka-2025-1709`).
+Act id: `odluka-2025-1709` (tags `odluka-2025-1709/<day>`; `python registry/tools/on.py <day> odluka-2025-1709`).
 
 ## Decisions made by hand
 

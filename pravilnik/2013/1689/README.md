@@ -67,7 +67,7 @@ Pravilnik o uvjetima u pogledu prostora, stručnih radnika, medicinsko-tehničke
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2013-1689` (tags `pravilnik-2013-1689/<day>`; `python tools/on.py <day> pravilnik-2013-1689`).
+Act id: `pravilnik-2013-1689` (tags `pravilnik-2013-1689/<day>`; `python registry/tools/on.py <day> pravilnik-2013-1689`).
 
 ## Status
 

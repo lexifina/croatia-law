@@ -16,7 +16,7 @@ Pravilnik o obliku i sadržaju dodatnih podataka za statističke i druge potrebe
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2026-850` (tags `pravilnik-2026-850/<day>`; `python tools/on.py <day> pravilnik-2026-850`).
+Act id: `pravilnik-2026-850` (tags `pravilnik-2026-850/<day>`; `python registry/tools/on.py <day> pravilnik-2026-850`).
 
 ## Decisions made by hand
 

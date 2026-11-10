@@ -8,7 +8,7 @@ Odluka o privremenoj zabrani prelaska preko graničnih prijelaza Republike Hrvat
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2020-714` (tags `odluka-2020-714/<day>`; `python tools/on.py <day> odluka-2020-714`).
+Act id: `odluka-2020-714` (tags `odluka-2020-714/<day>`; `python registry/tools/on.py <day> odluka-2020-714`).
 
 ## Status
 

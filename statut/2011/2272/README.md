@@ -45,7 +45,7 @@ Statut Mladih Hrvatske · 1 versions, from 2011-07-08 (latest in force: 2011-07-
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `statut-2011-2272` (tags `statut-2011-2272/<day>`; `python tools/on.py <day> statut-2011-2272`).
+Act id: `statut-2011-2272` (tags `statut-2011-2272/<day>`; `python registry/tools/on.py <day> statut-2011-2272`).
 
 ## Decisions made by hand
 

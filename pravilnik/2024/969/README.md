@@ -32,7 +32,7 @@ Pravilnik o sadržaju i načinu vođenja evidencije o radnicima zaposlenim kod p
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2024-969` (tags `pravilnik-2024-969/<day>`; `python tools/on.py <day> pravilnik-2024-969`).
+Act id: `pravilnik-2024-969` (tags `pravilnik-2024-969/<day>`; `python registry/tools/on.py <day> pravilnik-2024-969`).
 
 ## Decisions made by hand
 

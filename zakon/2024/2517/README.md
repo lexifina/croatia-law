@@ -46,7 +46,7 @@ Zakon o izmjenama i dopunama Zakona o poljoprivredi · 1 versions, from 2025-01-
 | čl. 40 | [clanak-040.md](clanak-040.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2024-2517` (tags `zakon-2024-2517/<day>`; `python tools/on.py <day> zakon-2024-2517`).
+Act id: `zakon-2024-2517` (tags `zakon-2024-2517/<day>`; `python registry/tools/on.py <day> zakon-2024-2517`).
 
 ## Decisions made by hand
 

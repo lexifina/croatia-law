@@ -16,7 +16,7 @@ Uredba o izmjenama Uredbe o kakvoći biogoriva · 1 versions, from 2011-03-29 (l
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2011-746` (tags `uredba-2011-746/<day>`; `python tools/on.py <day> uredba-2011-746`).
+Act id: `uredba-2011-746` (tags `uredba-2011-746/<day>`; `python registry/tools/on.py <day> uredba-2011-746`).
 
 ## Decisions made by hand
 

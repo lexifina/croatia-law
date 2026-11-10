@@ -16,7 +16,7 @@ Uredba o visini naknade i načinu financiranja jedinice lokalne i područne (reg
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2025-2300` (tags `uredba-2025-2300/<day>`; `python tools/on.py <day> uredba-2025-2300`).
+Act id: `uredba-2025-2300` (tags `uredba-2025-2300/<day>`; `python registry/tools/on.py <day> uredba-2025-2300`).
 
 ## Status
 

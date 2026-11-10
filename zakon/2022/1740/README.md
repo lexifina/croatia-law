@@ -32,7 +32,7 @@ Zakon o izmjenama i dopunama Zakona o javnoj nabavi · 1 versions, from 2022-10-
 | čl. 26 | [clanak-026.md](clanak-026.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2022-1740` (tags `zakon-2022-1740/<day>`; `python tools/on.py <day> zakon-2022-1740`).
+Act id: `zakon-2022-1740` (tags `zakon-2022-1740/<day>`; `python registry/tools/on.py <day> zakon-2022-1740`).
 
 ## Decisions made by hand
 

@@ -8,7 +8,7 @@ Odluka o izmjeni i dopuni Odluke o obveznoj pričuvi · 1 versions, from 2011-03
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2011-663` (tags `odluka-2011-663/<day>`; `python tools/on.py <day> odluka-2011-663`).
+Act id: `odluka-2011-663` (tags `odluka-2011-663/<day>`; `python registry/tools/on.py <day> odluka-2011-663`).
 
 ## Decisions made by hand
 

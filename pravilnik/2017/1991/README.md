@@ -9,7 +9,7 @@ Pravilnik o izmjenama Pravilnika o registru zadužnica i bjanko zadužnica · 1 
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2017-1991` (tags `pravilnik-2017-1991/<day>`; `python tools/on.py <day> pravilnik-2017-1991`).
+Act id: `pravilnik-2017-1991` (tags `pravilnik-2017-1991/<day>`; `python registry/tools/on.py <day> pravilnik-2017-1991`).
 
 ## Decisions made by hand
 

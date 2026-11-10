@@ -9,7 +9,7 @@ Pravilnik o izmjeni Pravilnika o obradi biometrijskih podataka · 1 versions, fr
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2025-945` (tags `pravilnik-2025-945/<day>`; `python tools/on.py <day> pravilnik-2025-945`).
+Act id: `pravilnik-2025-945` (tags `pravilnik-2025-945/<day>`; `python registry/tools/on.py <day> pravilnik-2025-945`).
 
 ## Decisions made by hand
 

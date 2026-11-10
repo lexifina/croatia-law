@@ -9,7 +9,7 @@ Uredba o izmjeni Uredbe o naknadi za istraživanje i eksploataciju ugljikovodika
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2014-1343` (tags `uredba-2014-1343/<day>`; `python tools/on.py <day> uredba-2014-1343`).
+Act id: `uredba-2014-1343` (tags `uredba-2014-1343/<day>`; `python registry/tools/on.py <day> uredba-2014-1343`).
 
 ## Decisions made by hand
 

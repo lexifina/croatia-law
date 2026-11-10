@@ -8,7 +8,7 @@ Odluka o davanju suglasnosti na Odluku Županijske skupštine Dubrovačko-neretv
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2020-1212` (tags `odluka-2020-1212/<day>`; `python tools/on.py <day> odluka-2020-1212`).
+Act id: `odluka-2020-1212` (tags `odluka-2020-1212/<day>`; `python registry/tools/on.py <day> odluka-2020-1212`).
 
 ## Decisions made by hand
 

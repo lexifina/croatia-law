@@ -9,7 +9,7 @@ Odluka o davanju suglasnosti na Financijski plan Hrvatskih cesta za 2021. godinu
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2020-2582` (tags `odluka-2020-2582/<day>`; `python tools/on.py <day> odluka-2020-2582`).
+Act id: `odluka-2020-2582` (tags `odluka-2020-2582/<day>`; `python registry/tools/on.py <day> odluka-2020-2582`).
 
 ## Decisions made by hand
 

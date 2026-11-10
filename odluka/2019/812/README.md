@@ -5,7 +5,7 @@ Odluka o visini naknade za upravljanje i raspolaganje dionicama i udjelima kojim
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `odluka-2019-812` (tags `odluka-2019-812/<day>`; `python tools/on.py <day> odluka-2019-812`).
+Act id: `odluka-2019-812` (tags `odluka-2019-812/<day>`; `python registry/tools/on.py <day> odluka-2019-812`).
 
 ## Decisions made by hand
 

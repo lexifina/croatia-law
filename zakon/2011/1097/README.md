@@ -17,7 +17,7 @@ Zakon o izmjenama Zakona o obveznom zdravstvenom osiguranju · 1 versions, from 
 | čl. 11 | [clanak-011.md](clanak-011.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2011-1097` (tags `zakon-2011-1097/<day>`; `python tools/on.py <day> zakon-2011-1097`).
+Act id: `zakon-2011-1097` (tags `zakon-2011-1097/<day>`; `python registry/tools/on.py <day> zakon-2011-1097`).
 
 ## Decisions made by hand
 

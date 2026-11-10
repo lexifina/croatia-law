@@ -19,7 +19,7 @@ Odluka o općinskim porezima Općine Sveti Lovreč · 1 versions, from 2020-01-0
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2019-2447` (tags `odluka-2019-2447/<day>`; `python tools/on.py <day> odluka-2019-2447`).
+Act id: `odluka-2019-2447` (tags `odluka-2019-2447/<day>`; `python registry/tools/on.py <day> odluka-2019-2447`).
 
 ## Decisions made by hand
 

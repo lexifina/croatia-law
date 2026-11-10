@@ -51,7 +51,7 @@ Pravilnik o provedbi mjere M08 "Potpora za ulaganja u razvoj šumskih područja 
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2016-1170` (tags `pravilnik-2016-1170/<day>`; `python tools/on.py <day> pravilnik-2016-1170`).
+Act id: `pravilnik-2016-1170` (tags `pravilnik-2016-1170/<day>`; `python registry/tools/on.py <day> pravilnik-2016-1170`).
 
 ## Status
 

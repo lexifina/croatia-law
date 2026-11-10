@@ -8,7 +8,7 @@ Odluka o donošenju Programa održivog društvenog i gospodarskog razvoja potpom
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2022-287` (tags `odluka-2022-287/<day>`; `python tools/on.py <day> odluka-2022-287`).
+Act id: `odluka-2022-287` (tags `odluka-2022-287/<day>`; `python registry/tools/on.py <day> odluka-2022-287`).
 
 ## Decisions made by hand
 

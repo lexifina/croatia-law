@@ -11,7 +11,7 @@ Odluka o gradskim porezima Grada Vinkovaca · 1 versions, from 2022-01-01 (lates
 | čl. 5 | [clanak-005.md](clanak-005.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `odluka-2021-2041` (tags `odluka-2021-2041/<day>`; `python tools/on.py <day> odluka-2021-2041`).
+Act id: `odluka-2021-2041` (tags `odluka-2021-2041/<day>`; `python registry/tools/on.py <day> odluka-2021-2041`).
 
 ## Decisions made by hand
 

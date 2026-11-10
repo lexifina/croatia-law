@@ -18,7 +18,7 @@ Uredba o mjerama racionalizacije radi ubrzanja realizacije transeuropske prometn
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2024-2218` (tags `uredba-2024-2218/<day>`; `python tools/on.py <day> uredba-2024-2218`).
+Act id: `uredba-2024-2218` (tags `uredba-2024-2218/<day>`; `python registry/tools/on.py <day> uredba-2024-2218`).
 
 ## Decisions made by hand
 

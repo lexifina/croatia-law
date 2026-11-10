@@ -9,7 +9,7 @@ Pravilnik o izmjenama i dopunama Pravilnika o standardima i normativima prava na
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2013-393` (tags `pravilnik-2013-393/<day>`; `python tools/on.py <day> pravilnik-2013-393`).
+Act id: `pravilnik-2013-393` (tags `pravilnik-2013-393/<day>`; `python registry/tools/on.py <day> pravilnik-2013-393`).
 
 ## Decisions made by hand
 

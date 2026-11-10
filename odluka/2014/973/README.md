@@ -10,7 +10,7 @@ Odluka o izmjeni Odluke o jednokratnoj novčanoj pomoći i naknadi putnih i seli
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2014-973` (tags `odluka-2014-973/<day>`; `python tools/on.py <day> odluka-2014-973`).
+Act id: `odluka-2014-973` (tags `odluka-2014-973/<day>`; `python registry/tools/on.py <day> odluka-2014-973`).
 
 ## Decisions made by hand
 

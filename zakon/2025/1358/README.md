@@ -15,7 +15,7 @@ Zakon o izmjenama i dopunama Zakona o odvjetništvu · 1 versions, from 2025-07-
 | čl. 9 | [clanak-009.md](clanak-009.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2025-1358` (tags `zakon-2025-1358/<day>`; `python tools/on.py <day> zakon-2025-1358`).
+Act id: `zakon-2025-1358` (tags `zakon-2025-1358/<day>`; `python registry/tools/on.py <day> zakon-2025-1358`).
 
 ## Decisions made by hand
 

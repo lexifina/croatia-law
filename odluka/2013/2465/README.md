@@ -8,7 +8,7 @@ Odluka o osnivanju Hrvatskog IPPC foruma · 1 versions, from 2013-09-19 (latest 
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2013-2465` (tags `odluka-2013-2465/<day>`; `python tools/on.py <day> odluka-2013-2465`).
+Act id: `odluka-2013-2465` (tags `odluka-2013-2465/<day>`; `python registry/tools/on.py <day> odluka-2013-2465`).
 
 ## Decisions made by hand
 

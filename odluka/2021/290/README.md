@@ -8,7 +8,7 @@ Odluka o dopuni Odluke o uvođenju nužnih epidemioloških mjera za područje Kr
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2021-290` (tags `odluka-2021-290/<day>`; `python tools/on.py <day> odluka-2021-290`).
+Act id: `odluka-2021-290` (tags `odluka-2021-290/<day>`; `python registry/tools/on.py <day> odluka-2021-290`).
 
 ## Decisions made by hand
 

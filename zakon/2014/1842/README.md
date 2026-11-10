@@ -37,7 +37,7 @@ Zakon o izmjenama i dopunama Zakona o sigurnosti prometa na cestama · 1 version
 | čl. 31 | [clanak-031.md](clanak-031.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2014-1842` (tags `zakon-2014-1842/<day>`; `python tools/on.py <day> zakon-2014-1842`).
+Act id: `zakon-2014-1842` (tags `zakon-2014-1842/<day>`; `python registry/tools/on.py <day> zakon-2014-1842`).
 
 ## Decisions made by hand
 

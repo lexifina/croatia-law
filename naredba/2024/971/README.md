@@ -9,7 +9,7 @@ Naredba o izmjenama Naredbe o mjerama za sprječavanje pojave i širenja influen
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `naredba-2024-971` (tags `naredba-2024-971/<day>`; `python tools/on.py <day> naredba-2024-971`).
+Act id: `naredba-2024-971` (tags `naredba-2024-971/<day>`; `python registry/tools/on.py <day> naredba-2024-971`).
 
 ## Decisions made by hand
 

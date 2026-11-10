@@ -38,7 +38,7 @@ Zakon o izmjenama i dopunama Zakona o građevnim proizvodima · 1 versions, from
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 
-Act id: `zakon-2013-406` (tags `zakon-2013-406/<day>`; `python tools/on.py <day> zakon-2013-406`).
+Act id: `zakon-2013-406` (tags `zakon-2013-406/<day>`; `python registry/tools/on.py <day> zakon-2013-406`).
 
 ## Decisions made by hand
 

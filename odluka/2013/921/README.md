@@ -8,7 +8,7 @@ Odluka o sanaciji Specijalne bolnice za kronične bolesti Novi Marof · 1 versio
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2013-921` (tags `odluka-2013-921/<day>`; `python tools/on.py <day> odluka-2013-921`).
+Act id: `odluka-2013-921` (tags `odluka-2013-921/<day>`; `python registry/tools/on.py <day> odluka-2013-921`).
 
 ## Decisions made by hand
 

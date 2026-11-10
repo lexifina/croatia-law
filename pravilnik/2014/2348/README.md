@@ -23,7 +23,7 @@ Pravilnik o uvjetima za davanje dozvole specijaliziranim prodavaonicama za prome
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2014-2348` (tags `pravilnik-2014-2348/<day>`; `python tools/on.py <day> pravilnik-2014-2348`).
+Act id: `pravilnik-2014-2348` (tags `pravilnik-2014-2348/<day>`; `python registry/tools/on.py <day> pravilnik-2014-2348`).
 
 ## Status
 

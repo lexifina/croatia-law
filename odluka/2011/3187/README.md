@@ -8,7 +8,7 @@ Odluka o visini komorskog doprinosa · 1 versions, from 2011-12-16 (latest in fo
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2011-3187` (tags `odluka-2011-3187/<day>`; `python tools/on.py <day> odluka-2011-3187`).
+Act id: `odluka-2011-3187` (tags `odluka-2011-3187/<day>`; `python registry/tools/on.py <day> odluka-2011-3187`).
 
 ## Decisions made by hand
 

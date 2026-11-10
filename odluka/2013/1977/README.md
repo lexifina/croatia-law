@@ -8,7 +8,7 @@ Odluka o davanju koncesije za osnivanje Slobodne zone Luke Rijeka - Škrljevo ·
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2013-1977` (tags `odluka-2013-1977/<day>`; `python tools/on.py <day> odluka-2013-1977`).
+Act id: `odluka-2013-1977` (tags `odluka-2013-1977/<day>`; `python registry/tools/on.py <day> odluka-2013-1977`).
 
 ## Status
 

@@ -8,7 +8,7 @@ Odluka o izmjeni Odluke o isticanju dodatne cijene kao mjera izravne kontrole ci
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2026-1309` (tags `odluka-2026-1309/<day>`; `python tools/on.py <day> odluka-2026-1309`).
+Act id: `odluka-2026-1309` (tags `odluka-2026-1309/<day>`; `python registry/tools/on.py <day> odluka-2026-1309`).
 
 ## Decisions made by hand
 

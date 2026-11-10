@@ -12,7 +12,7 @@ Odluka o utvrđivanju Popisa pojedinačnih zanimanja prema Nacionalnoj klasifika
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2023-568` (tags `odluka-2023-568/<day>`; `python tools/on.py <day> odluka-2023-568`).
+Act id: `odluka-2023-568` (tags `odluka-2023-568/<day>`; `python registry/tools/on.py <day> odluka-2023-568`).
 
 ## Status
 

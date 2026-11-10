@@ -8,7 +8,7 @@ Odluka o osnivanju Vijeća za urbani razvoj · 1 versions, from 2026-05-21 (late
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2026-661` (tags `odluka-2026-661/<day>`; `python tools/on.py <day> odluka-2026-661`).
+Act id: `odluka-2026-661` (tags `odluka-2026-661/<day>`; `python registry/tools/on.py <day> odluka-2026-661`).
 
 ## Decisions made by hand
 

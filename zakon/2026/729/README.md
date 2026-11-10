@@ -15,7 +15,7 @@ Zakon o izmjenama i dopunama Zakona o trgovini · 1 versions, from 2026-06-17 (l
 | čl. 9 | [clanak-009.md](clanak-009.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2026-729` (tags `zakon-2026-729/<day>`; `python tools/on.py <day> zakon-2026-729`).
+Act id: `zakon-2026-729` (tags `zakon-2026-729/<day>`; `python registry/tools/on.py <day> zakon-2026-729`).
 
 ## Decisions made by hand
 

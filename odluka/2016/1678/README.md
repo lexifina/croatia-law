@@ -9,7 +9,7 @@ Odluka o zabrani novog zapošljavanja službenika i namještenika u javnim služ
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2016-1678` (tags `odluka-2016-1678/<day>`; `python tools/on.py <day> odluka-2016-1678`).
+Act id: `odluka-2016-1678` (tags `odluka-2016-1678/<day>`; `python registry/tools/on.py <day> odluka-2016-1678`).
 
 ## Status
 

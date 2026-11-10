@@ -12,7 +12,7 @@ Pravilnik o izmjeni i dopunama Pravilnika o Hrvatskom upisniku oporuka · 1 vers
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2019-1809` (tags `pravilnik-2019-1809/<day>`; `python tools/on.py <day> pravilnik-2019-1809`).
+Act id: `pravilnik-2019-1809` (tags `pravilnik-2019-1809/<day>`; `python registry/tools/on.py <day> pravilnik-2019-1809`).
 
 ## Decisions made by hand
 

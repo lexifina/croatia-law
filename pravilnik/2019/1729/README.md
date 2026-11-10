@@ -12,7 +12,7 @@ Pravilnik o izmjenama i dopunama Pravilnika o priznavanju organizacija proizvođ
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2019-1729` (tags `pravilnik-2019-1729/<day>`; `python tools/on.py <day> pravilnik-2019-1729`).
+Act id: `pravilnik-2019-1729` (tags `pravilnik-2019-1729/<day>`; `python registry/tools/on.py <day> pravilnik-2019-1729`).
 
 ## Status
 

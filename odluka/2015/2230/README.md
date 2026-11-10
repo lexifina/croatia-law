@@ -8,7 +8,7 @@ Odluka o osnivanju Konzulata Republike Hrvatske u Republici Kazahstanu, sa sjedi
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2015-2230` (tags `odluka-2015-2230/<day>`; `python tools/on.py <day> odluka-2015-2230`).
+Act id: `odluka-2015-2230` (tags `odluka-2015-2230/<day>`; `python registry/tools/on.py <day> odluka-2015-2230`).
 
 ## Decisions made by hand
 

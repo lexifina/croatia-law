@@ -13,7 +13,7 @@ Pravilnik o izmjenama i dopunama Pravilnika o provedbi mjere 103 "Ulaganja u pre
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2012-1596` (tags `pravilnik-2012-1596/<day>`; `python tools/on.py <day> pravilnik-2012-1596`).
+Act id: `pravilnik-2012-1596` (tags `pravilnik-2012-1596/<day>`; `python registry/tools/on.py <day> pravilnik-2012-1596`).
 
 ## Decisions made by hand
 

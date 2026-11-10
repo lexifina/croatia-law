@@ -9,7 +9,7 @@ Odluka o davanju suglasnosti na Izmjene i dopune financijskog plana HŽ Putničk
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2022-1975` (tags `odluka-2022-1975/<day>`; `python tools/on.py <day> odluka-2022-1975`).
+Act id: `odluka-2022-1975` (tags `odluka-2022-1975/<day>`; `python registry/tools/on.py <day> odluka-2022-1975`).
 
 ## Decisions made by hand
 

@@ -11,7 +11,7 @@ Odluka o izmjenama i dopunama Statuta Hrvatskog centra za zadružno poduzetništ
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2017-1476` (tags `odluka-2017-1476/<day>`; `python tools/on.py <day> odluka-2017-1476`).
+Act id: `odluka-2017-1476` (tags `odluka-2017-1476/<day>`; `python registry/tools/on.py <day> odluka-2017-1476`).
 
 ## Decisions made by hand
 

@@ -9,7 +9,7 @@ Odluka o kriterijima i mjerilima za utvrđivanje bilančnih prava za financiranj
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2011-622` (tags `odluka-2011-622/<day>`; `python tools/on.py <day> odluka-2011-622`).
+Act id: `odluka-2011-622` (tags `odluka-2011-622/<day>`; `python registry/tools/on.py <day> odluka-2011-622`).
 
 ## Status
 

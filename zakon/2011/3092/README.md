@@ -8,7 +8,7 @@ Zakon o izmjeni Zakona o javnim ovršiteljima · 1 versions, from 2011-12-22 (la
 | čl. 2 | [clanak-002.md](clanak-002.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2011-3092` (tags `zakon-2011-3092/<day>`; `python tools/on.py <day> zakon-2011-3092`).
+Act id: `zakon-2011-3092` (tags `zakon-2011-3092/<day>`; `python registry/tools/on.py <day> zakon-2011-3092`).
 
 ## Decisions made by hand
 

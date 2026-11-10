@@ -24,7 +24,7 @@ Zakon o izmjenama i dopunama Zakona o sigurnosti i interoperabilnosti Å¾eljezniÄ
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 
-Act id: `zakon-2015-2126` (tags `zakon-2015-2126/<day>`; `python tools/on.py <day> zakon-2015-2126`).
+Act id: `zakon-2015-2126` (tags `zakon-2015-2126/<day>`; `python registry/tools/on.py <day> zakon-2015-2126`).
 
 ## Decisions made by hand
 

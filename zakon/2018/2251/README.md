@@ -9,7 +9,7 @@ Zakon o izmjenama Zakona o higijeni hrane i mikrobiološkim kriterijima za hranu
 | čl. 3 | [clanak-003.md](clanak-003.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2018-2251` (tags `zakon-2018-2251/<day>`; `python tools/on.py <day> zakon-2018-2251`).
+Act id: `zakon-2018-2251` (tags `zakon-2018-2251/<day>`; `python registry/tools/on.py <day> zakon-2018-2251`).
 
 ## Decisions made by hand
 

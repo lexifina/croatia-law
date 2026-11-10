@@ -20,7 +20,7 @@ Pravilnik o načinu oglašavanja i isticanja naziva privatne prakse psihoterapeu
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2021-77` (tags `pravilnik-2021-77/<day>`; `python tools/on.py <day> pravilnik-2021-77`).
+Act id: `pravilnik-2021-77` (tags `pravilnik-2021-77/<day>`; `python registry/tools/on.py <day> pravilnik-2021-77`).
 
 ## Decisions made by hand
 

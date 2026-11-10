@@ -8,7 +8,7 @@ Pravilnik o izmjeni Pravilnika o povlastici za obavljanje gospodarskog ribolova 
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2013-599` (tags `pravilnik-2013-599/<day>`; `python tools/on.py <day> pravilnik-2013-599`).
+Act id: `pravilnik-2013-599` (tags `pravilnik-2013-599/<day>`; `python registry/tools/on.py <day> pravilnik-2013-599`).
 
 ## Decisions made by hand
 

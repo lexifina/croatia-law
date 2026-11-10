@@ -14,7 +14,7 @@ Odluka o izmjenama i dopunama Odluke o kontnom planu za kreditne institucije · 
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2019-472` (tags `odluka-2019-472/<day>`; `python tools/on.py <day> odluka-2019-472`).
+Act id: `odluka-2019-472` (tags `odluka-2019-472/<day>`; `python registry/tools/on.py <day> odluka-2019-472`).
 
 ## Decisions made by hand
 

@@ -5,7 +5,7 @@ Odluka o osnivanju Nacionalnog povjerenstva za upravljanje zračnim prostorom ·
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `odluka-2017-2958` (tags `odluka-2017-2958/<day>`; `python tools/on.py <day> odluka-2017-2958`).
+Act id: `odluka-2017-2958` (tags `odluka-2017-2958/<day>`; `python registry/tools/on.py <day> odluka-2017-2958`).
 
 ## Decisions made by hand
 

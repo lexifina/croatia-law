@@ -8,7 +8,7 @@ Odluka o prestanku koncesije pomorskog dobra u svrhu izgradnje i gospodarskog ko
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2020-537` (tags `odluka-2020-537/<day>`; `python tools/on.py <day> odluka-2020-537`).
+Act id: `odluka-2020-537` (tags `odluka-2020-537/<day>`; `python registry/tools/on.py <day> odluka-2020-537`).
 
 ## Decisions made by hand
 

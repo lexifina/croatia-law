@@ -18,7 +18,7 @@ Pravilnik o izmjenama Pravilnika o strukturi i sadržaju godišnjih i polugodiš
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2026-811` (tags `pravilnik-2026-811/<day>`; `python tools/on.py <day> pravilnik-2026-811`).
+Act id: `pravilnik-2026-811` (tags `pravilnik-2026-811/<day>`; `python registry/tools/on.py <day> pravilnik-2026-811`).
 
 ## Decisions made by hand
 

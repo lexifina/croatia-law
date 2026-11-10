@@ -18,7 +18,7 @@ Uredba o Uredu za razminiranje · 1 versions, from 2012-02-22 (latest in force: 
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2012-560` (tags `uredba-2012-560/<day>`; `python tools/on.py <day> uredba-2012-560`).
+Act id: `uredba-2012-560` (tags `uredba-2012-560/<day>`; `python registry/tools/on.py <day> uredba-2012-560`).
 
 ## Status
 

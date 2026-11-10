@@ -9,7 +9,7 @@ Pravilnik o dopuni Pravilnika o uvjetima za obavljanje pomorske kabotaže u Repu
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2017-1232` (tags `pravilnik-2017-1232/<day>`; `python tools/on.py <day> pravilnik-2017-1232`).
+Act id: `pravilnik-2017-1232` (tags `pravilnik-2017-1232/<day>`; `python registry/tools/on.py <day> pravilnik-2017-1232`).
 
 ## Decisions made by hand
 

@@ -13,7 +13,7 @@ Pravilnik o potvrdi prijave ili evidencije kaznenog djela · 1 versions, from 20
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2013-2817` (tags `pravilnik-2013-2817/<day>`; `python tools/on.py <day> pravilnik-2013-2817`).
+Act id: `pravilnik-2013-2817` (tags `pravilnik-2013-2817/<day>`; `python registry/tools/on.py <day> pravilnik-2013-2817`).
 
 ## Decisions made by hand
 

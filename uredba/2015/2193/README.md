@@ -13,7 +13,7 @@ Uredba o izmjeni i dopunama Uredbe o jediničnim naknadama, korektivnim koeficij
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2015-2193` (tags `uredba-2015-2193/<day>`; `python tools/on.py <day> uredba-2015-2193`).
+Act id: `uredba-2015-2193` (tags `uredba-2015-2193/<day>`; `python registry/tools/on.py <day> uredba-2015-2193`).
 
 ## Decisions made by hand
 

@@ -8,7 +8,7 @@ Odluka o osnovnim obilježjima prigodnoga optjecajnog kovanog novca od 25 kuna "
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2016-1858` (tags `odluka-2016-1858/<day>`; `python tools/on.py <day> odluka-2016-1858`).
+Act id: `odluka-2016-1858` (tags `odluka-2016-1858/<day>`; `python registry/tools/on.py <day> odluka-2016-1858`).
 
 ## Decisions made by hand
 

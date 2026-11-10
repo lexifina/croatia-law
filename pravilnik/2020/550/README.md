@@ -21,7 +21,7 @@ Pravilnik o načinu vođenja Evidencije o osobama nestalim u Domovinskom ratu i 
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2020-550` (tags `pravilnik-2020-550/<day>`; `python tools/on.py <day> pravilnik-2020-550`).
+Act id: `pravilnik-2020-550` (tags `pravilnik-2020-550/<day>`; `python registry/tools/on.py <day> pravilnik-2020-550`).
 
 ## Decisions made by hand
 

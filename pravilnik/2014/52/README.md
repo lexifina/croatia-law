@@ -26,7 +26,7 @@ Pravilnik o aktivnom traženju posla i raspoloživosti za rad · 1 versions, fro
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2014-52` (tags `pravilnik-2014-52/<day>`; `python tools/on.py <day> pravilnik-2014-52`).
+Act id: `pravilnik-2014-52` (tags `pravilnik-2014-52/<day>`; `python registry/tools/on.py <day> pravilnik-2014-52`).
 
 ## Status
 

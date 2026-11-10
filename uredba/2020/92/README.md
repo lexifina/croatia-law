@@ -5,7 +5,7 @@ Uredba o unutarnjem ustrojstvu Ministarstva hrvatskih branitelja · 2 versions, 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `uredba-2020-92` (tags `uredba-2020-92/<day>`; `python tools/on.py <day> uredba-2020-92`).
+Act id: `uredba-2020-92` (tags `uredba-2020-92/<day>`; `python registry/tools/on.py <day> uredba-2020-92`).
 
 ## Decisions made by hand
 

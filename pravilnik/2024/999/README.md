@@ -32,7 +32,7 @@ Pravilnik o stavljanju na tržište reprodukcijskog sadnog materijala povrća i 
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2024-999` (tags `pravilnik-2024-999/<day>`; `python tools/on.py <day> pravilnik-2024-999`).
+Act id: `pravilnik-2024-999` (tags `pravilnik-2024-999/<day>`; `python registry/tools/on.py <day> pravilnik-2024-999`).
 
 ## Status
 

@@ -25,7 +25,7 @@ Pravilnik o malom obalnom ribolovu · 1 versions, from 2015-01-31 (latest in for
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2015-191` (tags `pravilnik-2015-191/<day>`; `python tools/on.py <day> pravilnik-2015-191`).
+Act id: `pravilnik-2015-191` (tags `pravilnik-2015-191/<day>`; `python registry/tools/on.py <day> pravilnik-2015-191`).
 
 ## Status
 

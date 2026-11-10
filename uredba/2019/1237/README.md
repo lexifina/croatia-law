@@ -5,7 +5,7 @@ Uredba o Uredu za zakonodavstvo · 2 versions, from 2019-07-06 (latest in force:
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `uredba-2019-1237` (tags `uredba-2019-1237/<day>`; `python tools/on.py <day> uredba-2019-1237`).
+Act id: `uredba-2019-1237` (tags `uredba-2019-1237/<day>`; `python registry/tools/on.py <day> uredba-2019-1237`).
 
 ## Decisions made by hand
 

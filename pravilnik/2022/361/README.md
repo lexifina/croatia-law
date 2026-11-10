@@ -17,7 +17,7 @@ Pravilnik o registraciji pružatelja usluge EENC u Republici Hrvatskoj · 1 vers
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2022-361` (tags `pravilnik-2022-361/<day>`; `python tools/on.py <day> pravilnik-2022-361`).
+Act id: `pravilnik-2022-361` (tags `pravilnik-2022-361/<day>`; `python registry/tools/on.py <day> pravilnik-2022-361`).
 
 ## Status
 

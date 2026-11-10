@@ -9,7 +9,7 @@ Odluka o izmjeni Odluke o kamatnim stopama na novčana sredstva subjekata javnog
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2023-801` (tags `odluka-2023-801/<day>`; `python tools/on.py <day> odluka-2023-801`).
+Act id: `odluka-2023-801` (tags `odluka-2023-801/<day>`; `python registry/tools/on.py <day> odluka-2023-801`).
 
 ## Decisions made by hand
 

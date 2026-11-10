@@ -21,7 +21,7 @@ Uredba o opsegu i sadržaju odgovornosti te ovlastima tijela nadležnih za uprav
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2014-1662` (tags `uredba-2014-1662/<day>`; `python tools/on.py <day> uredba-2014-1662`).
+Act id: `uredba-2014-1662` (tags `uredba-2014-1662/<day>`; `python registry/tools/on.py <day> uredba-2014-1662`).
 
 ## Status
 

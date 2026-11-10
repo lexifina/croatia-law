@@ -8,7 +8,7 @@ Zakon o izmjeni Zakona o željeznici · 1 versions, from 2021-02-27 (latest in f
 | čl. 2 | [clanak-002.md](clanak-002.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2021-441` (tags `zakon-2021-441/<day>`; `python tools/on.py <day> zakon-2021-441`).
+Act id: `zakon-2021-441` (tags `zakon-2021-441/<day>`; `python registry/tools/on.py <day> zakon-2021-441`).
 
 ## Decisions made by hand
 

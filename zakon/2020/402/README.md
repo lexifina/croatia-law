@@ -115,7 +115,7 @@ Zakon o izmjenama i dopunama Zakona o tržištu kapitala · 1 versions, from 202
 | čl. 109 | [clanak-109.md](clanak-109.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2020-402` (tags `zakon-2020-402/<day>`; `python tools/on.py <day> zakon-2020-402`).
+Act id: `zakon-2020-402` (tags `zakon-2020-402/<day>`; `python registry/tools/on.py <day> zakon-2020-402`).
 
 ## Decisions made by hand
 

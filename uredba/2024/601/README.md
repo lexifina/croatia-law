@@ -15,7 +15,7 @@ Uredba o kriterijima za bodovanje prijava za stambeno zbrinjavanje · 1 versions
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2024-601` (tags `uredba-2024-601/<day>`; `python tools/on.py <day> uredba-2024-601`).
+Act id: `uredba-2024-601` (tags `uredba-2024-601/<day>`; `python registry/tools/on.py <day> uredba-2024-601`).
 
 ## Status
 

@@ -26,7 +26,7 @@ Uredba o vrijednosti iznosa za utvrđivanje naknade za pružanje sekundarne prav
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2016-1842` (tags `uredba-2016-1842/<day>`; `python tools/on.py <day> uredba-2016-1842`).
+Act id: `uredba-2016-1842` (tags `uredba-2016-1842/<day>`; `python registry/tools/on.py <day> uredba-2016-1842`).
 
 ## Decisions made by hand
 

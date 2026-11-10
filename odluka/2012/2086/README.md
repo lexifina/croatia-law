@@ -8,7 +8,7 @@ Odluka o davanju suglasnosti Ministarstvu zdravlja, za angažiranje fizičke ili
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2012-2086` (tags `odluka-2012-2086/<day>`; `python tools/on.py <day> odluka-2012-2086`).
+Act id: `odluka-2012-2086` (tags `odluka-2012-2086/<day>`; `python registry/tools/on.py <day> odluka-2012-2086`).
 
 ## Decisions made by hand
 

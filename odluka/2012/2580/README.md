@@ -10,7 +10,7 @@ Odluka o izmjenama i dopunama Odluke o utvrđivanju Osnovne liste lijekova Hrvat
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2012-2580` (tags `odluka-2012-2580/<day>`; `python tools/on.py <day> odluka-2012-2580`).
+Act id: `odluka-2012-2580` (tags `odluka-2012-2580/<day>`; `python registry/tools/on.py <day> odluka-2012-2580`).
 
 ## Status
 

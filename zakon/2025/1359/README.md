@@ -22,7 +22,7 @@ Zakon o izmjenama i dopunama Zakona o ograničavanju uporabe duhanskih i srodnih
 | čl. 16 | [clanak-016.md](clanak-016.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2025-1359` (tags `zakon-2025-1359/<day>`; `python tools/on.py <day> zakon-2025-1359`).
+Act id: `zakon-2025-1359` (tags `zakon-2025-1359/<day>`; `python registry/tools/on.py <day> zakon-2025-1359`).
 
 ## Decisions made by hand
 

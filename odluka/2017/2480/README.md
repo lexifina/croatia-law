@@ -21,7 +21,7 @@ Odluka o potrebnim znanjima i stručnosti osoblja kreditnih institucija i kredit
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2017-2480` (tags `odluka-2017-2480/<day>`; `python tools/on.py <day> odluka-2017-2480`).
+Act id: `odluka-2017-2480` (tags `odluka-2017-2480/<day>`; `python registry/tools/on.py <day> odluka-2017-2480`).
 
 ## Status
 

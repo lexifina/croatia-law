@@ -80,7 +80,7 @@ Pravilnik o mesnim proizvodima · 1 versions, from 2012-12-07 (latest in force: 
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2012-2801` (tags `pravilnik-2012-2801/<day>`; `python tools/on.py <day> pravilnik-2012-2801`).
+Act id: `pravilnik-2012-2801` (tags `pravilnik-2012-2801/<day>`; `python registry/tools/on.py <day> pravilnik-2012-2801`).
 
 ## Status
 

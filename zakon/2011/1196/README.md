@@ -38,7 +38,7 @@ Zakon i izmjenama i dopunama Zakona o prostornom uređenju i gradnji · 1 versio
 | čl. 32 | [clanak-032.md](clanak-032.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2011-1196` (tags `zakon-2011-1196/<day>`; `python tools/on.py <day> zakon-2011-1196`).
+Act id: `zakon-2011-1196` (tags `zakon-2011-1196/<day>`; `python registry/tools/on.py <day> zakon-2011-1196`).
 
 ## Decisions made by hand
 

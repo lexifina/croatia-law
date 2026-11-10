@@ -8,7 +8,7 @@ Odluka o davanju suglasnosti na Odluku Županijske skupštine Šibensko-kninske 
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2015-1835` (tags `odluka-2015-1835/<day>`; `python tools/on.py <day> odluka-2015-1835`).
+Act id: `odluka-2015-1835` (tags `odluka-2015-1835/<day>`; `python registry/tools/on.py <day> odluka-2015-1835`).
 
 ## Decisions made by hand
 

@@ -14,7 +14,7 @@ Pravilnik o obveznom sadržaju, rokovima i obliku obveznih izvješća o radu inv
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2012-3000` (tags `pravilnik-2012-3000/<day>`; `python tools/on.py <day> pravilnik-2012-3000`).
+Act id: `pravilnik-2012-3000` (tags `pravilnik-2012-3000/<day>`; `python registry/tools/on.py <day> pravilnik-2012-3000`).
 
 ## Decisions made by hand
 

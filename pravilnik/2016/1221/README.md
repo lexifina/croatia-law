@@ -28,7 +28,7 @@ Pravilnik o metodologiji za izradu analize rizika poslovanja kritičnih infrastr
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2016-1221` (tags `pravilnik-2016-1221/<day>`; `python tools/on.py <day> pravilnik-2016-1221`).
+Act id: `pravilnik-2016-1221` (tags `pravilnik-2016-1221/<day>`; `python registry/tools/on.py <day> pravilnik-2016-1221`).
 
 ## Status
 

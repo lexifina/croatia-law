@@ -7,7 +7,7 @@ Odluka Agencije za elektroničke medije klasa: UP/I-612-12/19-02/0003, urbroj: 5
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 
-Act id: `odluka-2019-1799` (tags `odluka-2019-1799/<day>`; `python tools/on.py <day> odluka-2019-1799`).
+Act id: `odluka-2019-1799` (tags `odluka-2019-1799/<day>`; `python registry/tools/on.py <day> odluka-2019-1799`).
 
 ## Decisions made by hand
 

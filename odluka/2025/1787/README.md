@@ -8,7 +8,7 @@ Odluka o određivanju visine naknade za vođenje jedinstvenog računovodstva oso
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2025-1787` (tags `odluka-2025-1787/<day>`; `python tools/on.py <day> odluka-2025-1787`).
+Act id: `odluka-2025-1787` (tags `odluka-2025-1787/<day>`; `python registry/tools/on.py <day> odluka-2025-1787`).
 
 ## Status
 

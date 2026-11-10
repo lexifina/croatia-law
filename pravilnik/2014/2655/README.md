@@ -21,7 +21,7 @@ Pravilnik o izmjenama i dopunama Pravilnika o obavljanju poslova depozitara UCIT
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2014-2655` (tags `pravilnik-2014-2655/<day>`; `python tools/on.py <day> pravilnik-2014-2655`).
+Act id: `pravilnik-2014-2655` (tags `pravilnik-2014-2655/<day>`; `python registry/tools/on.py <day> pravilnik-2014-2655`).
 
 ## Decisions made by hand
 

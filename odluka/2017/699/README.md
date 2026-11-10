@@ -8,7 +8,7 @@ Odluka o izmjeni Odluke o određivanju tijela odgovornog za koordinaciju postupk
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2017-699` (tags `odluka-2017-699/<day>`; `python tools/on.py <day> odluka-2017-699`).
+Act id: `odluka-2017-699` (tags `odluka-2017-699/<day>`; `python registry/tools/on.py <day> odluka-2017-699`).
 
 ## Decisions made by hand
 

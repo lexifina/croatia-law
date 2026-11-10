@@ -14,7 +14,7 @@ Pravilnik o načinu prijavljivanja i prikupljanja podataka o postojećim mjerama
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2013-279` (tags `pravilnik-2013-279/<day>`; `python tools/on.py <day> pravilnik-2013-279`).
+Act id: `pravilnik-2013-279` (tags `pravilnik-2013-279/<day>`; `python registry/tools/on.py <day> pravilnik-2013-279`).
 
 ## Status
 

@@ -11,7 +11,7 @@ Zakon o izmjenama Zakona o elektroničkim komunikacijama · 1 versions, from 201
 | čl. 5 | [clanak-005.md](clanak-005.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2012-2824` (tags `zakon-2012-2824/<day>`; `python tools/on.py <day> zakon-2012-2824`).
+Act id: `zakon-2012-2824` (tags `zakon-2012-2824/<day>`; `python registry/tools/on.py <day> zakon-2012-2824`).
 
 ## Decisions made by hand
 

@@ -8,7 +8,7 @@ Odluka o iznimnom prestanku primjene pojedinih nužnih epidemioloških mjera za 
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2021-13` (tags `odluka-2021-13/<day>`; `python tools/on.py <day> odluka-2021-13`).
+Act id: `odluka-2021-13` (tags `odluka-2021-13/<day>`; `python registry/tools/on.py <day> odluka-2021-13`).
 
 ## Decisions made by hand
 

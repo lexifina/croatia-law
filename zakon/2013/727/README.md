@@ -12,7 +12,7 @@ Zakon o izmjenama i dopunama Zakona o ustrojstvu i djelokrugu ministarstava i dr
 | čl. 6 | [clanak-006.md](clanak-006.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2013-727` (tags `zakon-2013-727/<day>`; `python tools/on.py <day> zakon-2013-727`).
+Act id: `zakon-2013-727` (tags `zakon-2013-727/<day>`; `python registry/tools/on.py <day> zakon-2013-727`).
 
 ## Decisions made by hand
 

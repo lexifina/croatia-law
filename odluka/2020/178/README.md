@@ -8,7 +8,7 @@ Odluka o otvaranju novosagrađenih stalnih željezničko-cestovnih prijelaza · 
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2020-178` (tags `odluka-2020-178/<day>`; `python tools/on.py <day> odluka-2020-178`).
+Act id: `odluka-2020-178` (tags `odluka-2020-178/<day>`; `python registry/tools/on.py <day> odluka-2020-178`).
 
 ## Decisions made by hand
 

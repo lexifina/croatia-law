@@ -50,7 +50,7 @@ Statut Hrvatske psihološke komore · 1 versions, from 2021-03-09 (latest in for
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `statut-2021-496` (tags `statut-2021-496/<day>`; `python tools/on.py <day> statut-2021-496`).
+Act id: `statut-2021-496` (tags `statut-2021-496/<day>`; `python registry/tools/on.py <day> statut-2021-496`).
 
 ## Status
 

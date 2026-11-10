@@ -19,7 +19,7 @@ Odluka o provođenju nadzora i izricanju nadzornih mjera u vezi s pružanjem usl
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2024-312` (tags `odluka-2024-312/<day>`; `python tools/on.py <day> odluka-2024-312`).
+Act id: `odluka-2024-312` (tags `odluka-2024-312/<day>`; `python registry/tools/on.py <day> odluka-2024-312`).
 
 ## Decisions made by hand
 

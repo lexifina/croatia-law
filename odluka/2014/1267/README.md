@@ -14,7 +14,7 @@ Odluka o posebnom standardu i mjerilima njegove primjene u provođenju specifič
 | čl. 8 | [clanak-008.md](clanak-008.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `odluka-2014-1267` (tags `odluka-2014-1267/<day>`; `python tools/on.py <day> odluka-2014-1267`).
+Act id: `odluka-2014-1267` (tags `odluka-2014-1267/<day>`; `python registry/tools/on.py <day> odluka-2014-1267`).
 
 ## Decisions made by hand
 

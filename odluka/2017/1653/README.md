@@ -17,7 +17,7 @@ Odluka o gradskim porezima Grada Solina · 1 versions, from 2017-08-01 (latest i
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2017-1653` (tags `odluka-2017-1653/<day>`; `python tools/on.py <day> odluka-2017-1653`).
+Act id: `odluka-2017-1653` (tags `odluka-2017-1653/<day>`; `python registry/tools/on.py <day> odluka-2017-1653`).
 
 ## Decisions made by hand
 

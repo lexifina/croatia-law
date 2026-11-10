@@ -53,7 +53,7 @@ Odluka o klasifikaciji plasmana i izvanbilančnih obveza kreditnih institucija (
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2014-777` (tags `odluka-2014-777/<day>`; `python tools/on.py <day> odluka-2014-777`).
+Act id: `odluka-2014-777` (tags `odluka-2014-777/<day>`; `python registry/tools/on.py <day> odluka-2014-777`).
 
 ## Status
 

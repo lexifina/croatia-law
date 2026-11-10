@@ -35,7 +35,7 @@ Pravilnik o prenosivosti broja · 1 versions, from 2012-09-13 (latest in force: 
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2012-2224` (tags `pravilnik-2012-2224/<day>`; `python tools/on.py <day> pravilnik-2012-2224`).
+Act id: `pravilnik-2012-2224` (tags `pravilnik-2012-2224/<day>`; `python registry/tools/on.py <day> pravilnik-2012-2224`).
 
 ## Status
 

@@ -30,7 +30,7 @@ Zakon o izmjenama i dopunama Zakona o predškolskom odgoju i naobrazbi · 1 vers
 | čl. 24 | [clanak-024.md](clanak-024.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2013-2130` (tags `zakon-2013-2130/<day>`; `python tools/on.py <day> zakon-2013-2130`).
+Act id: `zakon-2013-2130` (tags `zakon-2013-2130/<day>`; `python registry/tools/on.py <day> zakon-2013-2130`).
 
 ## Decisions made by hand
 

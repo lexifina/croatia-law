@@ -20,7 +20,7 @@ Odluka o naknadi za razvoj javne odvodnje društva Odvodnja Samobor d.o.o., Samo
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2022-1073` (tags `odluka-2022-1073/<day>`; `python tools/on.py <day> odluka-2022-1073`).
+Act id: `odluka-2022-1073` (tags `odluka-2022-1073/<day>`; `python registry/tools/on.py <day> odluka-2022-1073`).
 
 ## Status
 

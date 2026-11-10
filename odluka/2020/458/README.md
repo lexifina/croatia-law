@@ -8,7 +8,7 @@ Odluka o prestanku važenja Odluke o osnivanju Radne skupine Predsjednice Republ
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2020-458` (tags `odluka-2020-458/<day>`; `python tools/on.py <day> odluka-2020-458`).
+Act id: `odluka-2020-458` (tags `odluka-2020-458/<day>`; `python registry/tools/on.py <day> odluka-2020-458`).
 
 ## Decisions made by hand
 

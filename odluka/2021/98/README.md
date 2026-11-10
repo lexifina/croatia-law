@@ -9,7 +9,7 @@ Odluka o usvajanju izmjena i dopuna Programa dodjele državnih potpora sektoru m
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2021-98` (tags `odluka-2021-98/<day>`; `python tools/on.py <day> odluka-2021-98`).
+Act id: `odluka-2021-98` (tags `odluka-2021-98/<day>`; `python registry/tools/on.py <day> odluka-2021-98`).
 
 ## Decisions made by hand
 

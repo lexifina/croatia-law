@@ -56,7 +56,7 @@ Pravilnik o provedbi mjere 3 »Sustavi kvalitete za poljoprivredne i prehrambene
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2018-1274` (tags `pravilnik-2018-1274/<day>`; `python tools/on.py <day> pravilnik-2018-1274`).
+Act id: `pravilnik-2018-1274` (tags `pravilnik-2018-1274/<day>`; `python registry/tools/on.py <day> pravilnik-2018-1274`).
 
 ## Decisions made by hand
 

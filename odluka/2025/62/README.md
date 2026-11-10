@@ -8,7 +8,7 @@ Odluka o izmjenama Odluke o iznosima sufinanciranja, mjerilima i kriterijima za 
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2025-62` (tags `odluka-2025-62/<day>`; `python tools/on.py <day> odluka-2025-62`).
+Act id: `odluka-2025-62` (tags `odluka-2025-62/<day>`; `python registry/tools/on.py <day> odluka-2025-62`).
 
 ## Decisions made by hand
 

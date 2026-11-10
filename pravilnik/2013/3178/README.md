@@ -31,7 +31,7 @@ Pravilnik o Fondu za poticanje pluralizma i raznovrsnosti elektroničnih medija 
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2013-3178` (tags `pravilnik-2013-3178/<day>`; `python tools/on.py <day> pravilnik-2013-3178`).
+Act id: `pravilnik-2013-3178` (tags `pravilnik-2013-3178/<day>`; `python registry/tools/on.py <day> pravilnik-2013-3178`).
 
 ## Status
 

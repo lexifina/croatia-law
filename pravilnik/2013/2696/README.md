@@ -12,7 +12,7 @@ Pravilnik o izmjenama i dopunama Pravilnika o žigu · 1 versions, from 2013-10-
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2013-2696` (tags `pravilnik-2013-2696/<day>`; `python tools/on.py <day> pravilnik-2013-2696`).
+Act id: `pravilnik-2013-2696` (tags `pravilnik-2013-2696/<day>`; `python registry/tools/on.py <day> pravilnik-2013-2696`).
 
 ## Decisions made by hand
 

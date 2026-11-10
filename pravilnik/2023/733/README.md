@@ -16,7 +16,7 @@ Pravilnik o doradi sjemena s poljoprivrednog gospodarstva · 1 versions, from 20
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2023-733` (tags `pravilnik-2023-733/<day>`; `python tools/on.py <day> pravilnik-2023-733`).
+Act id: `pravilnik-2023-733` (tags `pravilnik-2023-733/<day>`; `python registry/tools/on.py <day> pravilnik-2023-733`).
 
 ## Decisions made by hand
 

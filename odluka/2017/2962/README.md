@@ -8,7 +8,7 @@ Odluka o davanju odobrenja općinama Legrad, Sveta Marija i Orehovica za sudjelo
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2017-2962` (tags `odluka-2017-2962/<day>`; `python tools/on.py <day> odluka-2017-2962`).
+Act id: `odluka-2017-2962` (tags `odluka-2017-2962/<day>`; `python registry/tools/on.py <day> odluka-2017-2962`).
 
 ## Decisions made by hand
 

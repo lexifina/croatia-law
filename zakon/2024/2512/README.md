@@ -49,7 +49,7 @@ Zakon o izmjenama i dopunama Zakona o osiguranju · 1 versions, from 2025-01-01 
 | čl. 43 | [clanak-043.md](clanak-043.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2024-2512` (tags `zakon-2024-2512/<day>`; `python tools/on.py <day> zakon-2024-2512`).
+Act id: `zakon-2024-2512` (tags `zakon-2024-2512/<day>`; `python registry/tools/on.py <day> zakon-2024-2512`).
 
 ## Decisions made by hand
 

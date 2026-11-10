@@ -8,7 +8,7 @@ Odluka o postavljanju generalnog konzula Republike Hrvatske u Saveznoj Republici
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2018-1585` (tags `odluka-2018-1585/<day>`; `python tools/on.py <day> odluka-2018-1585`).
+Act id: `odluka-2018-1585` (tags `odluka-2018-1585/<day>`; `python registry/tools/on.py <day> odluka-2018-1585`).
 
 ## Decisions made by hand
 

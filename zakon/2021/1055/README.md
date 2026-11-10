@@ -36,7 +36,7 @@ Zakon o izmjenama i dopunama Zakona o biogorivima za prijevoz · 1 versions, fro
 | čl. 30 | [clanak-030.md](clanak-030.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2021-1055` (tags `zakon-2021-1055/<day>`; `python tools/on.py <day> zakon-2021-1055`).
+Act id: `zakon-2021-1055` (tags `zakon-2021-1055/<day>`; `python registry/tools/on.py <day> zakon-2021-1055`).
 
 ## Decisions made by hand
 

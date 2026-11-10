@@ -12,7 +12,7 @@ Uredba o izmjenama Uredbe o Uredu za ravnopravnost spolova · 1 versions, from 2
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2025-1672` (tags `uredba-2025-1672/<day>`; `python tools/on.py <day> uredba-2025-1672`).
+Act id: `uredba-2025-1672` (tags `uredba-2025-1672/<day>`; `python registry/tools/on.py <day> uredba-2025-1672`).
 
 ## Decisions made by hand
 

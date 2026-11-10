@@ -9,7 +9,7 @@ Naredba o prestanku važenja Naredbe o mjerama sprječavanja pojave i ranog otkr
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `naredba-2025-1875` (tags `naredba-2025-1875/<day>`; `python tools/on.py <day> naredba-2025-1875`).
+Act id: `naredba-2025-1875` (tags `naredba-2025-1875/<day>`; `python registry/tools/on.py <day> naredba-2025-1875`).
 
 ## Decisions made by hand
 

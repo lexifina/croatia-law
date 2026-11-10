@@ -18,7 +18,7 @@ Pravilnik o godišnjim, polugodišnjim i drugim izvještajima dobrovoljnog mirov
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2016-1057` (tags `pravilnik-2016-1057/<day>`; `python tools/on.py <day> pravilnik-2016-1057`).
+Act id: `pravilnik-2016-1057` (tags `pravilnik-2016-1057/<day>`; `python registry/tools/on.py <day> pravilnik-2016-1057`).
 
 ## Status
 

@@ -8,7 +8,7 @@ Odluka o stavljanju izvan uporabe dječjih igrališta i otvorenih sportskih igra
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2020-729` (tags `odluka-2020-729/<day>`; `python tools/on.py <day> odluka-2020-729`).
+Act id: `odluka-2020-729` (tags `odluka-2020-729/<day>`; `python registry/tools/on.py <day> odluka-2020-729`).
 
 ## Status
 

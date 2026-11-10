@@ -44,7 +44,7 @@ Pravilnik o priređivanju zabavnih igara i tehnički uvjeti ispravnosti automata
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2023-1395` (tags `pravilnik-2023-1395/<day>`; `python tools/on.py <day> pravilnik-2023-1395`).
+Act id: `pravilnik-2023-1395` (tags `pravilnik-2023-1395/<day>`; `python registry/tools/on.py <day> pravilnik-2023-1395`).
 
 ## Decisions made by hand
 

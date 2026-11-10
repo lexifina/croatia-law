@@ -22,7 +22,7 @@ Pravilnik o registrima ovlaštenih osoba za obavljanje poslova zastupanja u osig
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2016-461` (tags `pravilnik-2016-461/<day>`; `python tools/on.py <day> pravilnik-2016-461`).
+Act id: `pravilnik-2016-461` (tags `pravilnik-2016-461/<day>`; `python registry/tools/on.py <day> pravilnik-2016-461`).
 
 ## Status
 

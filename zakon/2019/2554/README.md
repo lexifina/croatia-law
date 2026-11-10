@@ -140,7 +140,7 @@ Zakon o klimatskim promjenama i zaštiti ozonskog sloja · 1 versions, from 2020
 | čl. 134 | [clanak-134.md](clanak-134.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2019-2554` (tags `zakon-2019-2554/<day>`; `python tools/on.py <day> zakon-2019-2554`).
+Act id: `zakon-2019-2554` (tags `zakon-2019-2554/<day>`; `python registry/tools/on.py <day> zakon-2019-2554`).
 
 ## Status
 

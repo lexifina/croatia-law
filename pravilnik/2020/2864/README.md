@@ -21,7 +21,7 @@ Pravilnik o izmjenama i dopunama Pravilnika o padobranstvu · 1 versions, from 2
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2020-2864` (tags `pravilnik-2020-2864/<day>`; `python tools/on.py <day> pravilnik-2020-2864`).
+Act id: `pravilnik-2020-2864` (tags `pravilnik-2020-2864/<day>`; `python registry/tools/on.py <day> pravilnik-2020-2864`).
 
 ## Decisions made by hand
 

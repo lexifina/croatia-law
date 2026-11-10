@@ -8,7 +8,7 @@ Odluka o raspisivanju prijevremenih izbora za općinskog načelnika Općine Suho
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2022-1570` (tags `odluka-2022-1570/<day>`; `python tools/on.py <day> odluka-2022-1570`).
+Act id: `odluka-2022-1570` (tags `odluka-2022-1570/<day>`; `python registry/tools/on.py <day> odluka-2022-1570`).
 
 ## Decisions made by hand
 

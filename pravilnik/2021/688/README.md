@@ -11,7 +11,7 @@ Pravilnik o izmjenama Pravilnika o uvjetima za davanje proizvodne dozvole, zahtj
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2021-688` (tags `pravilnik-2021-688/<day>`; `python tools/on.py <day> pravilnik-2021-688`).
+Act id: `pravilnik-2021-688` (tags `pravilnik-2021-688/<day>`; `python registry/tools/on.py <day> pravilnik-2021-688`).
 
 ## Decisions made by hand
 

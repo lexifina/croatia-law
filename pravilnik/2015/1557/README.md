@@ -33,7 +33,7 @@ Pravilnik o priznavanju i potporama za početak rada proizvođačkih organizacij
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2015-1557` (tags `pravilnik-2015-1557/<day>`; `python tools/on.py <day> pravilnik-2015-1557`).
+Act id: `pravilnik-2015-1557` (tags `pravilnik-2015-1557/<day>`; `python registry/tools/on.py <day> pravilnik-2015-1557`).
 
 ## Status
 

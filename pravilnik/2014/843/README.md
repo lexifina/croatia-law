@@ -40,7 +40,7 @@ Pravilnik o razvrstavanju i označivanju goveđih trupova i mesa koje potječe o
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2014-843` (tags `pravilnik-2014-843/<day>`; `python tools/on.py <day> pravilnik-2014-843`).
+Act id: `pravilnik-2014-843` (tags `pravilnik-2014-843/<day>`; `python registry/tools/on.py <day> pravilnik-2014-843`).
 
 ## Status
 

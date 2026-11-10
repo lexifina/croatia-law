@@ -34,7 +34,7 @@ Pravilnik o osiguranju sljedivosti tkiva od darivatelja do primatelja, načinu p
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2017-306` (tags `pravilnik-2017-306/<day>`; `python tools/on.py <day> pravilnik-2017-306`).
+Act id: `pravilnik-2017-306` (tags `pravilnik-2017-306/<day>`; `python registry/tools/on.py <day> pravilnik-2017-306`).
 
 ## Decisions made by hand
 

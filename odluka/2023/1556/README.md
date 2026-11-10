@@ -9,7 +9,7 @@ Odluka o donošenju izmjena i dopuna Nastavnog plana i okvirnog programa za podr
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2023-1556` (tags `odluka-2023-1556/<day>`; `python tools/on.py <day> odluka-2023-1556`).
+Act id: `odluka-2023-1556` (tags `odluka-2023-1556/<day>`; `python registry/tools/on.py <day> odluka-2023-1556`).
 
 ## Decisions made by hand
 

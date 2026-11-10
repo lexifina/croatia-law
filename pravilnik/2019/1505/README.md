@@ -13,7 +13,7 @@ Pravilnik o najnižem i najvišem iznosu turističke pristojbe · 1 versions, fr
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2019-1505` (tags `pravilnik-2019-1505/<day>`; `python tools/on.py <day> pravilnik-2019-1505`).
+Act id: `pravilnik-2019-1505` (tags `pravilnik-2019-1505/<day>`; `python registry/tools/on.py <day> pravilnik-2019-1505`).
 
 ## Decisions made by hand
 

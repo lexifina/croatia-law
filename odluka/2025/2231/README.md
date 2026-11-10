@@ -9,7 +9,7 @@ Izmjene i dopune Odluke o visini poreznih stopa godiÅ¡njeg poreza na dohodak OpÄ
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2025-2231` (tags `odluka-2025-2231/<day>`; `python tools/on.py <day> odluka-2025-2231`).
+Act id: `odluka-2025-2231` (tags `odluka-2025-2231/<day>`; `python registry/tools/on.py <day> odluka-2025-2231`).
 
 ## Decisions made by hand
 

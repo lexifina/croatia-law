@@ -5,7 +5,7 @@ Zakon o komasaciji poljoprivrednog zemljišta · 2 versions, from 2015-05-20 (la
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `zakon-2015-994` (tags `zakon-2015-994/<day>`; `python tools/on.py <day> zakon-2015-994`).
+Act id: `zakon-2015-994` (tags `zakon-2015-994/<day>`; `python registry/tools/on.py <day> zakon-2015-994`).
 
 ## Decisions made by hand
 

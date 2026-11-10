@@ -12,7 +12,7 @@ Uredba o izmjeni Uredbe o osnivanju Državne škole za javnu upravu · 1 version
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2012-2432` (tags `uredba-2012-2432/<day>`; `python tools/on.py <day> uredba-2012-2432`).
+Act id: `uredba-2012-2432` (tags `uredba-2012-2432/<day>`; `python registry/tools/on.py <day> uredba-2012-2432`).
 
 ## Decisions made by hand
 

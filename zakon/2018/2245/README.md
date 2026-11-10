@@ -13,7 +13,7 @@ Zakon o izmjenama i dopuni Zakona o održivoj uporabi pesticida · 1 versions, f
 | čl. 7 | [clanak-007.md](clanak-007.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2018-2245` (tags `zakon-2018-2245/<day>`; `python tools/on.py <day> zakon-2018-2245`).
+Act id: `zakon-2018-2245` (tags `zakon-2018-2245/<day>`; `python registry/tools/on.py <day> zakon-2018-2245`).
 
 ## Decisions made by hand
 

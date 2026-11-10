@@ -42,7 +42,7 @@ Pravilnik o izmjenama i dopunama Pravilnika o provedbi izravne potpore poljopriv
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2021-1062` (tags `pravilnik-2021-1062/<day>`; `python tools/on.py <day> pravilnik-2021-1062`).
+Act id: `pravilnik-2021-1062` (tags `pravilnik-2021-1062/<day>`; `python registry/tools/on.py <day> pravilnik-2021-1062`).
 
 ## Decisions made by hand
 

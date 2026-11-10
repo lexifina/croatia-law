@@ -18,7 +18,7 @@ Pravilnik o načinu prikupljanja podataka o postupcima koji se odnose na restruk
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2022-496` (tags `pravilnik-2022-496/<day>`; `python tools/on.py <day> pravilnik-2022-496`).
+Act id: `pravilnik-2022-496` (tags `pravilnik-2022-496/<day>`; `python registry/tools/on.py <day> pravilnik-2022-496`).
 
 ## Decisions made by hand
 

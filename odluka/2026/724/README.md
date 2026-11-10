@@ -16,7 +16,7 @@ Odluka o početku i završetku nastavne godine, broju radnih dana i trajanju odm
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2026-724` (tags `odluka-2026-724/<day>`; `python tools/on.py <day> odluka-2026-724`).
+Act id: `odluka-2026-724` (tags `odluka-2026-724/<day>`; `python registry/tools/on.py <day> odluka-2026-724`).
 
 ## Status
 

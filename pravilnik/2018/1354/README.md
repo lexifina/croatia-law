@@ -38,7 +38,7 @@ Pravilnik o zdravstvenim uvjetima izloženih radnika i osoba koje se obučavaju 
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2018-1354` (tags `pravilnik-2018-1354/<day>`; `python tools/on.py <day> pravilnik-2018-1354`).
+Act id: `pravilnik-2018-1354` (tags `pravilnik-2018-1354/<day>`; `python registry/tools/on.py <day> pravilnik-2018-1354`).
 
 ## Status
 

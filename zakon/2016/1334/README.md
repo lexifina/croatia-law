@@ -10,7 +10,7 @@ Zakon o izmjenama Zakona o službi u Oružanim snagama Republike Hrvatske · 1 v
 | čl. 4 | [clanak-004.md](clanak-004.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2016-1334` (tags `zakon-2016-1334/<day>`; `python tools/on.py <day> zakon-2016-1334`).
+Act id: `zakon-2016-1334` (tags `zakon-2016-1334/<day>`; `python registry/tools/on.py <day> zakon-2016-1334`).
 
 ## Decisions made by hand
 

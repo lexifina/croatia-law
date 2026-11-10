@@ -23,7 +23,7 @@ Pravilnik o dozvoljenim ulaganjima i ograničenjima ulaganja imovine za pokriće
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2014-1952` (tags `pravilnik-2014-1952/<day>`; `python tools/on.py <day> pravilnik-2014-1952`).
+Act id: `pravilnik-2014-1952` (tags `pravilnik-2014-1952/<day>`; `python registry/tools/on.py <day> pravilnik-2014-1952`).
 
 ## Status
 

@@ -5,7 +5,7 @@ Odluka o indikativnim iznosima tarifnih stavki za transport plina · 2 versions,
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `odluka-2017-3049` (tags `odluka-2017-3049/<day>`; `python tools/on.py <day> odluka-2017-3049`).
+Act id: `odluka-2017-3049` (tags `odluka-2017-3049/<day>`; `python registry/tools/on.py <day> odluka-2017-3049`).
 
 ## Decisions made by hand
 

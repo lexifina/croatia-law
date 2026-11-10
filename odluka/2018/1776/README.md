@@ -8,7 +8,7 @@ Odluka o raspodjeli kvote preostale nakon sezone ribolova plivaricom tunolovkom 
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2018-1776` (tags `odluka-2018-1776/<day>`; `python tools/on.py <day> odluka-2018-1776`).
+Act id: `odluka-2018-1776` (tags `odluka-2018-1776/<day>`; `python registry/tools/on.py <day> odluka-2018-1776`).
 
 ## Decisions made by hand
 

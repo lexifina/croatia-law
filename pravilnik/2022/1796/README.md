@@ -11,7 +11,7 @@ Pravilnik o dopunama Pravilnika o ribolovnim mogućnostima i raspodjeli Državne
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2022-1796` (tags `pravilnik-2022-1796/<day>`; `python tools/on.py <day> pravilnik-2022-1796`).
+Act id: `pravilnik-2022-1796` (tags `pravilnik-2022-1796/<day>`; `python registry/tools/on.py <day> pravilnik-2022-1796`).
 
 ## Decisions made by hand
 

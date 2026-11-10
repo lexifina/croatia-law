@@ -8,7 +8,7 @@ Odluka o postavljanju počasnog konzula Republike Hrvatske u Kanadi, sa sjedišt
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2019-2053` (tags `odluka-2019-2053/<day>`; `python tools/on.py <day> odluka-2019-2053`).
+Act id: `odluka-2019-2053` (tags `odluka-2019-2053/<day>`; `python registry/tools/on.py <day> odluka-2019-2053`).
 
 ## Decisions made by hand
 

@@ -8,7 +8,7 @@ Odluka o osnivanju Savjeta za razvoj civilnoga društva · 1 versions, from 2021
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2021-282` (tags `odluka-2021-282/<day>`; `python tools/on.py <day> odluka-2021-282`).
+Act id: `odluka-2021-282` (tags `odluka-2021-282/<day>`; `python registry/tools/on.py <day> odluka-2021-282`).
 
 ## Status
 

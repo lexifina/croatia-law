@@ -25,7 +25,7 @@ Pravilnik o kriterijima za procjenu uvjeta za članstvo u upravi i nadzornom odb
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2020-2614` (tags `pravilnik-2020-2614/<day>`; `python tools/on.py <day> pravilnik-2020-2614`).
+Act id: `pravilnik-2020-2614` (tags `pravilnik-2020-2614/<day>`; `python registry/tools/on.py <day> pravilnik-2020-2614`).
 
 ## Status
 

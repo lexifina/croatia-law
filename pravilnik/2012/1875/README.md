@@ -13,7 +13,7 @@ Pravilnik o izmjenama i dopunama Pravilnika o uvjetima i načinu održavanja red
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2012-1875` (tags `pravilnik-2012-1875/<day>`; `python tools/on.py <day> pravilnik-2012-1875`).
+Act id: `pravilnik-2012-1875` (tags `pravilnik-2012-1875/<day>`; `python registry/tools/on.py <day> pravilnik-2012-1875`).
 
 ## Decisions made by hand
 

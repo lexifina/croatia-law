@@ -35,7 +35,7 @@ Uredba o unutarnjem ustrojstvu Središnjeg državnog ureda za demografiju i mlad
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2023-1027` (tags `uredba-2023-1027/<day>`; `python tools/on.py <day> uredba-2023-1027`).
+Act id: `uredba-2023-1027` (tags `uredba-2023-1027/<day>`; `python registry/tools/on.py <day> uredba-2023-1027`).
 
 ## Decisions made by hand
 

@@ -54,7 +54,7 @@ Zakon o izmjenama i dopunama Obiteljskog zakona · 1 versions, from 2023-12-31 (
 | čl. 48 | [clanak-048.md](clanak-048.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2023-2385` (tags `zakon-2023-2385/<day>`; `python tools/on.py <day> zakon-2023-2385`).
+Act id: `zakon-2023-2385` (tags `zakon-2023-2385/<day>`; `python registry/tools/on.py <day> zakon-2023-2385`).
 
 ## Decisions made by hand
 

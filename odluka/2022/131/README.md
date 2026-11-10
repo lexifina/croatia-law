@@ -8,7 +8,7 @@ Odluka o izmjeni Odluke o nužnim epidemiološkim mjerama kojima se ograničavaj
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2022-131` (tags `odluka-2022-131/<day>`; `python tools/on.py <day> odluka-2022-131`).
+Act id: `odluka-2022-131` (tags `odluka-2022-131/<day>`; `python registry/tools/on.py <day> odluka-2022-131`).
 
 ## Decisions made by hand
 

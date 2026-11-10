@@ -9,7 +9,7 @@ Pravilnik o dopuni Pravilnika o uvjetima za unutarnji ustroj kliničkih zdravstv
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2015-1535` (tags `pravilnik-2015-1535/<day>`; `python tools/on.py <day> pravilnik-2015-1535`).
+Act id: `pravilnik-2015-1535` (tags `pravilnik-2015-1535/<day>`; `python registry/tools/on.py <day> pravilnik-2015-1535`).
 
 ## Decisions made by hand
 

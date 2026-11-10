@@ -11,7 +11,7 @@ Naredba o mjerama za sprječavanje pojave i širenja influence ptica na područj
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `naredba-2017-615` (tags `naredba-2017-615/<day>`; `python tools/on.py <day> naredba-2017-615`).
+Act id: `naredba-2017-615` (tags `naredba-2017-615/<day>`; `python registry/tools/on.py <day> naredba-2017-615`).
 
 ## Status
 

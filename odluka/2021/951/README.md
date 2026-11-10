@@ -8,7 +8,7 @@ Odluka o izmjenama Odluke o nužnim epidemiološkim mjerama kojima se ograničav
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2021-951` (tags `odluka-2021-951/<day>`; `python tools/on.py <day> odluka-2021-951`).
+Act id: `odluka-2021-951` (tags `odluka-2021-951/<day>`; `python registry/tools/on.py <day> odluka-2021-951`).
 
 ## Decisions made by hand
 

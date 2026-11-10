@@ -8,7 +8,7 @@ Naputak o izmjeni Naputka o načinu provođenja mjera kontrole zdravlja životin
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `naputak-2012-2709` (tags `naputak-2012-2709/<day>`; `python tools/on.py <day> naputak-2012-2709`).
+Act id: `naputak-2012-2709` (tags `naputak-2012-2709/<day>`; `python registry/tools/on.py <day> naputak-2012-2709`).
 
 ## Decisions made by hand
 

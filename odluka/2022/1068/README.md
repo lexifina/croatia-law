@@ -15,7 +15,7 @@ Odluka o prikupljanju granularnih podataka o kreditima i kreditnom riziku i poda
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2022-1068` (tags `odluka-2022-1068/<day>`; `python tools/on.py <day> odluka-2022-1068`).
+Act id: `odluka-2022-1068` (tags `odluka-2022-1068/<day>`; `python registry/tools/on.py <day> odluka-2022-1068`).
 
 ## Status
 

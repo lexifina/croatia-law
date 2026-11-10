@@ -25,7 +25,7 @@ Pravilnik o izmjenama i dopunama Pravilnika o provedbi mjere I.9. »Privremeni p
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2024-1783` (tags `pravilnik-2024-1783/<day>`; `python tools/on.py <day> pravilnik-2024-1783`).
+Act id: `pravilnik-2024-1783` (tags `pravilnik-2024-1783/<day>`; `python registry/tools/on.py <day> pravilnik-2024-1783`).
 
 ## Decisions made by hand
 

@@ -10,7 +10,7 @@ Pravilnik o izmjenama i dopuni Pravilnika o organizacijskim zahtjevima za mirovi
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2026-914` (tags `pravilnik-2026-914/<day>`; `python tools/on.py <day> pravilnik-2026-914`).
+Act id: `pravilnik-2026-914` (tags `pravilnik-2026-914/<day>`; `python registry/tools/on.py <day> pravilnik-2026-914`).
 
 ## Decisions made by hand
 

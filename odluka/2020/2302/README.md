@@ -26,7 +26,7 @@ Odluka o eksternalizaciji · 1 versions, from 2020-11-05 (latest in force: 2020-
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2020-2302` (tags `odluka-2020-2302/<day>`; `python tools/on.py <day> odluka-2020-2302`).
+Act id: `odluka-2020-2302` (tags `odluka-2020-2302/<day>`; `python registry/tools/on.py <day> odluka-2020-2302`).
 
 ## Status
 

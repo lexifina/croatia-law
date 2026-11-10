@@ -8,7 +8,7 @@ Odluka o izmjenama Odluke o dodjeli koncesije za zahvaćanje voda za potrebe jav
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2011-2591` (tags `odluka-2011-2591/<day>`; `python tools/on.py <day> odluka-2011-2591`).
+Act id: `odluka-2011-2591` (tags `odluka-2011-2591/<day>`; `python registry/tools/on.py <day> odluka-2011-2591`).
 
 ## Decisions made by hand
 

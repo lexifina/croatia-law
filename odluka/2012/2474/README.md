@@ -8,7 +8,7 @@ Odluka o izmjenama Odluke o davanju koncesije za osnivanje Slobodne zone Zagreb 
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2012-2474` (tags `odluka-2012-2474/<day>`; `python tools/on.py <day> odluka-2012-2474`).
+Act id: `odluka-2012-2474` (tags `odluka-2012-2474/<day>`; `python registry/tools/on.py <day> odluka-2012-2474`).
 
 ## Status
 

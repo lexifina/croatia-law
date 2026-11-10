@@ -8,7 +8,7 @@ Odluka o postavljanju Philipa J. Berquista za počasnog konzula Republike Hrvats
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2013-304` (tags `odluka-2013-304/<day>`; `python tools/on.py <day> odluka-2013-304`).
+Act id: `odluka-2013-304` (tags `odluka-2013-304/<day>`; `python registry/tools/on.py <day> odluka-2013-304`).
 
 ## Decisions made by hand
 

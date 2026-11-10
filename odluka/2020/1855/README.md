@@ -10,7 +10,7 @@ Odluka o najnižoj mirovini za jednu godinu mirovinskog staža od 1. srpnja 2020
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2020-1855` (tags `odluka-2020-1855/<day>`; `python tools/on.py <day> odluka-2020-1855`).
+Act id: `odluka-2020-1855` (tags `odluka-2020-1855/<day>`; `python registry/tools/on.py <day> odluka-2020-1855`).
 
 ## Decisions made by hand
 

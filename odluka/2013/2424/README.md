@@ -10,7 +10,7 @@ Odluka o aktualnoj vrijednosti mirovine od 1. srpnja 2013. · 1 versions, from 2
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2013-2424` (tags `odluka-2013-2424/<day>`; `python tools/on.py <day> odluka-2013-2424`).
+Act id: `odluka-2013-2424` (tags `odluka-2013-2424/<day>`; `python registry/tools/on.py <day> odluka-2013-2424`).
 
 ## Decisions made by hand
 

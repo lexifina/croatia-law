@@ -8,7 +8,7 @@ Odluka o uvođenju nužnih epidemioloških mjera za područje Sisačko-moslavač
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2020-1884` (tags `odluka-2020-1884/<day>`; `python tools/on.py <day> odluka-2020-1884`).
+Act id: `odluka-2020-1884` (tags `odluka-2020-1884/<day>`; `python registry/tools/on.py <day> odluka-2020-1884`).
 
 ## Status
 

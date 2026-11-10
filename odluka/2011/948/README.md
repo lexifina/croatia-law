@@ -8,7 +8,7 @@ Odluka o izmjenama Odluke o osnivanju Povjerenstva za praćenje provedbe mjera z
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2011-948` (tags `odluka-2011-948/<day>`; `python tools/on.py <day> odluka-2011-948`).
+Act id: `odluka-2011-948` (tags `odluka-2011-948/<day>`; `python registry/tools/on.py <day> odluka-2011-948`).
 
 ## Decisions made by hand
 

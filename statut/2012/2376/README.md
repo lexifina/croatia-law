@@ -75,7 +75,7 @@ Statut Hrvatskoga zavoda za zapošljavanje · 1 versions, from 2012-10-03 (lates
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `statut-2012-2376` (tags `statut-2012-2376/<day>`; `python tools/on.py <day> statut-2012-2376`).
+Act id: `statut-2012-2376` (tags `statut-2012-2376/<day>`; `python registry/tools/on.py <day> statut-2012-2376`).
 
 ## Status
 

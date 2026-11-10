@@ -21,7 +21,7 @@ Pravilnik o izdavanju odobrenja za rad UAIF-a i malog UAIF-a te stjecanju kvalif
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2015-566` (tags `pravilnik-2015-566/<day>`; `python tools/on.py <day> pravilnik-2015-566`).
+Act id: `pravilnik-2015-566` (tags `pravilnik-2015-566/<day>`; `python registry/tools/on.py <day> pravilnik-2015-566`).
 
 ## Status
 

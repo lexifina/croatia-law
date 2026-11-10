@@ -33,7 +33,7 @@ Pravilnik o ustrojstvu, djelokrugu i načinu rada matičnih povjerenstava · 1 v
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2023-2397` (tags `pravilnik-2023-2397/<day>`; `python tools/on.py <day> pravilnik-2023-2397`).
+Act id: `pravilnik-2023-2397` (tags `pravilnik-2023-2397/<day>`; `python registry/tools/on.py <day> pravilnik-2023-2397`).
 
 ## Decisions made by hand
 

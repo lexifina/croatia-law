@@ -29,7 +29,7 @@ Pravilnik o izmjenama i dopunama Pravilnika o porezu na dohodak · 1 versions, f
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2013-3355` (tags `pravilnik-2013-3355/<day>`; `python tools/on.py <day> pravilnik-2013-3355`).
+Act id: `pravilnik-2013-3355` (tags `pravilnik-2013-3355/<day>`; `python registry/tools/on.py <day> pravilnik-2013-3355`).
 
 ## Decisions made by hand
 

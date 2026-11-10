@@ -45,7 +45,7 @@ Zakon o fiskalizaciji u prometu gotovinom · 1 versions, from 2013-01-01 (latest
 | čl. 39 | [clanak-039.md](clanak-039.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2012-2822` (tags `zakon-2012-2822/<day>`; `python tools/on.py <day> zakon-2012-2822`).
+Act id: `zakon-2012-2822` (tags `zakon-2012-2822/<day>`; `python registry/tools/on.py <day> zakon-2012-2822`).
 
 ## Status
 

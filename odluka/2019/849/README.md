@@ -10,7 +10,7 @@ Odluka o uzajamnom priznavanju mjere makrobonitetne politike iz Preporuke Europs
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2019-849` (tags `odluka-2019-849/<day>`; `python tools/on.py <day> odluka-2019-849`).
+Act id: `odluka-2019-849` (tags `odluka-2019-849/<day>`; `python registry/tools/on.py <day> odluka-2019-849`).
 
 ## Status
 

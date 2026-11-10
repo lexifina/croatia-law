@@ -21,7 +21,7 @@ Pravilnik o sadržaju, metodama i načinu provedbe psihološkoga testiranja · 1
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2016-287` (tags `pravilnik-2016-287/<day>`; `python tools/on.py <day> pravilnik-2016-287`).
+Act id: `pravilnik-2016-287` (tags `pravilnik-2016-287/<day>`; `python registry/tools/on.py <day> pravilnik-2016-287`).
 
 ## Status
 

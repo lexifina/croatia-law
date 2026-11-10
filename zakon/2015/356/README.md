@@ -11,7 +11,7 @@ Zakon o izmjenama i dopuni Zakona o područjima posebne državne skrbi · 1 vers
 | čl. 5 | [clanak-005.md](clanak-005.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2015-356` (tags `zakon-2015-356/<day>`; `python tools/on.py <day> zakon-2015-356`).
+Act id: `zakon-2015-356` (tags `zakon-2015-356/<day>`; `python registry/tools/on.py <day> zakon-2015-356`).
 
 ## Decisions made by hand
 

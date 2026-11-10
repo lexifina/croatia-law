@@ -20,7 +20,7 @@ Pravilnik o izmjenama i dopunama Pravilnika o postupanju prema strancima · 1 ve
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2016-1379` (tags `pravilnik-2016-1379/<day>`; `python tools/on.py <day> pravilnik-2016-1379`).
+Act id: `pravilnik-2016-1379` (tags `pravilnik-2016-1379/<day>`; `python registry/tools/on.py <day> pravilnik-2016-1379`).
 
 ## Decisions made by hand
 

@@ -42,7 +42,7 @@ Pravilnik o minimalnim tehničkim uvjetima za početak rada veteranskih centara 
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2018-2391` (tags `pravilnik-2018-2391/<day>`; `python tools/on.py <day> pravilnik-2018-2391`).
+Act id: `pravilnik-2018-2391` (tags `pravilnik-2018-2391/<day>`; `python registry/tools/on.py <day> pravilnik-2018-2391`).
 
 ## Decisions made by hand
 

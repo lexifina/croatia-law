@@ -29,7 +29,7 @@ Uredba o kriterijima, mjerilima i postupku davanja u zakup nekretnina u vlasniš
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2026-514` (tags `uredba-2026-514/<day>`; `python tools/on.py <day> uredba-2026-514`).
+Act id: `uredba-2026-514` (tags `uredba-2026-514/<day>`; `python registry/tools/on.py <day> uredba-2026-514`).
 
 ## Decisions made by hand
 

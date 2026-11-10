@@ -21,7 +21,7 @@ Pravilnik o načinu izvršavanja sigurnosne mjere obveznog psihijatrijskog lije�
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2013-3177` (tags `pravilnik-2013-3177/<day>`; `python tools/on.py <day> pravilnik-2013-3177`).
+Act id: `pravilnik-2013-3177` (tags `pravilnik-2013-3177/<day>`; `python registry/tools/on.py <day> pravilnik-2013-3177`).
 
 ## Decisions made by hand
 

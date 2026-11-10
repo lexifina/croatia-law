@@ -8,7 +8,7 @@ Odluka o raspisivanju izbora za Predsjednika Republike Hrvatske · 1 versions, f
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2014-2596` (tags `odluka-2014-2596/<day>`; `python tools/on.py <day> odluka-2014-2596`).
+Act id: `odluka-2014-2596` (tags `odluka-2014-2596/<day>`; `python registry/tools/on.py <day> odluka-2014-2596`).
 
 ## Status
 

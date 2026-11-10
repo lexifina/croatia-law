@@ -5,7 +5,7 @@ Odluka o utvrđivanju ovlaštenih zdravstvenih ustanova u kojima se obavlja stru
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `odluka-2020-725` (tags `odluka-2020-725/<day>`; `python tools/on.py <day> odluka-2020-725`).
+Act id: `odluka-2020-725` (tags `odluka-2020-725/<day>`; `python registry/tools/on.py <day> odluka-2020-725`).
 
 ## Decisions made by hand
 

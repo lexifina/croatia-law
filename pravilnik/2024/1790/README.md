@@ -42,7 +42,7 @@ Pravilnik o provedbi mjere III.3. Â»Provedba i upravljanje LRSR - provedba LRSRÂ
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2024-1790` (tags `pravilnik-2024-1790/<day>`; `python tools/on.py <day> pravilnik-2024-1790`).
+Act id: `pravilnik-2024-1790` (tags `pravilnik-2024-1790/<day>`; `python registry/tools/on.py <day> pravilnik-2024-1790`).
 
 ## Decisions made by hand
 

@@ -23,7 +23,7 @@ Uredba o mjerilima razvoja elektroničke komunikacijske infrastrukture i druge p
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2025-578` (tags `uredba-2025-578/<day>`; `python tools/on.py <day> uredba-2025-578`).
+Act id: `uredba-2025-578` (tags `uredba-2025-578/<day>`; `python registry/tools/on.py <day> uredba-2025-578`).
 
 ## Decisions made by hand
 

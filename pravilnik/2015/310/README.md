@@ -18,7 +18,7 @@ Pravilnik o sadržaju ugovora o faktoringu · 1 versions, from 2015-02-19 (lates
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2015-310` (tags `pravilnik-2015-310/<day>`; `python tools/on.py <day> pravilnik-2015-310`).
+Act id: `pravilnik-2015-310` (tags `pravilnik-2015-310/<day>`; `python registry/tools/on.py <day> pravilnik-2015-310`).
 
 ## Decisions made by hand
 

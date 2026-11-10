@@ -13,7 +13,7 @@ Odluka o posebnom standardu i mjerilima njegove primjene u provođenju specifič
 | čl. 7 | [clanak-007.md](clanak-007.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `odluka-2012-2712` (tags `odluka-2012-2712/<day>`; `python tools/on.py <day> odluka-2012-2712`).
+Act id: `odluka-2012-2712` (tags `odluka-2012-2712/<day>`; `python registry/tools/on.py <day> odluka-2012-2712`).
 
 ## Status
 

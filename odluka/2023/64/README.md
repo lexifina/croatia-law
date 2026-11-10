@@ -8,7 +8,7 @@ Odluka o zatvaranju Konzulata Republike Hrvatske u Saveznoj Republici Brazilu, s
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2023-64` (tags `odluka-2023-64/<day>`; `python tools/on.py <day> odluka-2023-64`).
+Act id: `odluka-2023-64` (tags `odluka-2023-64/<day>`; `python registry/tools/on.py <day> odluka-2023-64`).
 
 ## Decisions made by hand
 

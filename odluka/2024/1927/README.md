@@ -8,7 +8,7 @@ Odluka o prodajnim objektima koji obavljaju djelatnost trgovine na malo za odreÄ
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2024-1927` (tags `odluka-2024-1927/<day>`; `python tools/on.py <day> odluka-2024-1927`).
+Act id: `odluka-2024-1927` (tags `odluka-2024-1927/<day>`; `python registry/tools/on.py <day> odluka-2024-1927`).
 
 ## Decisions made by hand
 

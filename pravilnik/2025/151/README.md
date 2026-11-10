@@ -13,7 +13,7 @@ Pravilnik o izmjenama i dopunama Pravilnika o porezu na dobit · 1 versions, fro
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2025-151` (tags `pravilnik-2025-151/<day>`; `python tools/on.py <day> pravilnik-2025-151`).
+Act id: `pravilnik-2025-151` (tags `pravilnik-2025-151/<day>`; `python registry/tools/on.py <day> pravilnik-2025-151`).
 
 ## Decisions made by hand
 

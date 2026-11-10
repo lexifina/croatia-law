@@ -57,7 +57,7 @@ Zakon o izmjenama i dopunama Zakona o otvorenim investicijskim fondovima s javno
 | čl. 51 | [clanak-051.md](clanak-051.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2014-2686` (tags `zakon-2014-2686/<day>`; `python tools/on.py <day> zakon-2014-2686`).
+Act id: `zakon-2014-2686` (tags `zakon-2014-2686/<day>`; `python registry/tools/on.py <day> zakon-2014-2686`).
 
 ## Decisions made by hand
 

@@ -8,7 +8,7 @@ Odluka o davanju suglasnosti na Odluku o izmjenama i dopunama Statuta Hrvatske m
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2026-153` (tags `odluka-2026-153/<day>`; `python tools/on.py <day> odluka-2026-153`).
+Act id: `odluka-2026-153` (tags `odluka-2026-153/<day>`; `python registry/tools/on.py <day> odluka-2026-153`).
 
 ## Decisions made by hand
 

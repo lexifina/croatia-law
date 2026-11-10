@@ -9,7 +9,7 @@ Odluka o donošenju Smjernica politike državnih potpora za razdoblje 2024. - 20
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2024-59` (tags `odluka-2024-59/<day>`; `python tools/on.py <day> odluka-2024-59`).
+Act id: `odluka-2024-59` (tags `odluka-2024-59/<day>`; `python registry/tools/on.py <day> odluka-2024-59`).
 
 ## Decisions made by hand
 

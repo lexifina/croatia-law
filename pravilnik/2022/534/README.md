@@ -46,7 +46,7 @@ Pravilnik o dozvolama za obavljanje energetskih djelatnosti i vođenju registra 
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2022-534` (tags `pravilnik-2022-534/<day>`; `python tools/on.py <day> pravilnik-2022-534`).
+Act id: `pravilnik-2022-534` (tags `pravilnik-2022-534/<day>`; `python registry/tools/on.py <day> pravilnik-2022-534`).
 
 ## Decisions made by hand
 

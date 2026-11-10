@@ -19,7 +19,7 @@ Zakon o izmjenama i dopunama Zakona o zahtjevima za pristupačnost proizvoda i u
 | čl. 13 | [clanak-013.md](clanak-013.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2026-1371` (tags `zakon-2026-1371/<day>`; `python tools/on.py <day> zakon-2026-1371`).
+Act id: `zakon-2026-1371` (tags `zakon-2026-1371/<day>`; `python registry/tools/on.py <day> zakon-2026-1371`).
 
 ## Decisions made by hand
 

@@ -9,7 +9,7 @@ Naputak za izradu godišnjeg izvješća o sustavu unutarnjih financijskih kontro
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `naputak-2011-45` (tags `naputak-2011-45/<day>`; `python tools/on.py <day> naputak-2011-45`).
+Act id: `naputak-2011-45` (tags `naputak-2011-45/<day>`; `python registry/tools/on.py <day> naputak-2011-45`).
 
 ## Status
 

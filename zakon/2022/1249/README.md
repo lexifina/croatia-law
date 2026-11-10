@@ -22,7 +22,7 @@ Zakon o izmjenama i dopunama Zakona o biljnom zdravstvu · 1 versions, from 2022
 | čl. 16 | [clanak-016.md](clanak-016.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2022-1249` (tags `zakon-2022-1249/<day>`; `python tools/on.py <day> zakon-2022-1249`).
+Act id: `zakon-2022-1249` (tags `zakon-2022-1249/<day>`; `python registry/tools/on.py <day> zakon-2022-1249`).
 
 ## Decisions made by hand
 

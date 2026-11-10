@@ -9,7 +9,7 @@ Odluka o Nacionalnoj klasifikaciji djelatnosti 2025. - NKD 2025. · 1 versions, 
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2024-800` (tags `odluka-2024-800/<day>`; `python tools/on.py <day> odluka-2024-800`).
+Act id: `odluka-2024-800` (tags `odluka-2024-800/<day>`; `python registry/tools/on.py <day> odluka-2024-800`).
 
 ## Status
 

@@ -16,7 +16,7 @@ Uredba o privremenoj izvanrednoj pomoći poljoprivrednicima u sektoru stočarstv
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2016-1139` (tags `uredba-2016-1139/<day>`; `python tools/on.py <day> uredba-2016-1139`).
+Act id: `uredba-2016-1139` (tags `uredba-2016-1139/<day>`; `python registry/tools/on.py <day> uredba-2016-1139`).
 
 ## Decisions made by hand
 

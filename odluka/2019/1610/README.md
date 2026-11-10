@@ -8,7 +8,7 @@ Odluka o katastarskoj izmjeri na podruÄju Grada Karlovca za dio katastarske opÄ
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2019-1610` (tags `odluka-2019-1610/<day>`; `python tools/on.py <day> odluka-2019-1610`).
+Act id: `odluka-2019-1610` (tags `odluka-2019-1610/<day>`; `python registry/tools/on.py <day> odluka-2019-1610`).
 
 ## Decisions made by hand
 

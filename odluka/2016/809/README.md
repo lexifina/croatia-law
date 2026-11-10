@@ -15,7 +15,7 @@ Odluka o dopuštenoj visini tehnoloških manjkova u procesima proizvodnje, prera
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2016-809` (tags `odluka-2016-809/<day>`; `python tools/on.py <day> odluka-2016-809`).
+Act id: `odluka-2016-809` (tags `odluka-2016-809/<day>`; `python registry/tools/on.py <day> odluka-2016-809`).
 
 ## Status
 

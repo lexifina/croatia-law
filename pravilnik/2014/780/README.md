@@ -16,7 +16,7 @@ Pravilnik o izmjenama i dopunama Pravilnika o zahtjevima zajedničkih zrakoplovn
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2014-780` (tags `pravilnik-2014-780/<day>`; `python tools/on.py <day> pravilnik-2014-780`).
+Act id: `pravilnik-2014-780` (tags `pravilnik-2014-780/<day>`; `python registry/tools/on.py <day> pravilnik-2014-780`).
 
 ## Decisions made by hand
 

@@ -9,7 +9,7 @@ Odluka o kriterijima i mjerilima za utvrđivanje bilančnih prava za financiranj
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2019-34` (tags `odluka-2019-34/<day>`; `python tools/on.py <day> odluka-2019-34`).
+Act id: `odluka-2019-34` (tags `odluka-2019-34/<day>`; `python registry/tools/on.py <day> odluka-2019-34`).
 
 ## Decisions made by hand
 

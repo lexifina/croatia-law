@@ -58,7 +58,7 @@ Zakon o izmjenama i dopunama Zakona o azilu · 1 versions, from 2013-12-10 (late
 | čl. 52 | [clanak-052.md](clanak-052.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2013-3067` (tags `zakon-2013-3067/<day>`; `python tools/on.py <day> zakon-2013-3067`).
+Act id: `zakon-2013-3067` (tags `zakon-2013-3067/<day>`; `python registry/tools/on.py <day> zakon-2013-3067`).
 
 ## Decisions made by hand
 

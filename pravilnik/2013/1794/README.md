@@ -10,7 +10,7 @@ Pravilnik o dopunama Pravilnika o uvjetima koje mora ispunjavati brod i brodar z
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2013-1794` (tags `pravilnik-2013-1794/<day>`; `python tools/on.py <day> pravilnik-2013-1794`).
+Act id: `pravilnik-2013-1794` (tags `pravilnik-2013-1794/<day>`; `python registry/tools/on.py <day> pravilnik-2013-1794`).
 
 ## Decisions made by hand
 

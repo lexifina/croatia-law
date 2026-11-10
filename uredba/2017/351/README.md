@@ -16,7 +16,7 @@ Uredba o izmjenama i dopunama Uredbe o tijelima u sustavima upravljanja i kontro
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2017-351` (tags `uredba-2017-351/<day>`; `python tools/on.py <day> uredba-2017-351`).
+Act id: `uredba-2017-351` (tags `uredba-2017-351/<day>`; `python registry/tools/on.py <day> uredba-2017-351`).
 
 ## Status
 

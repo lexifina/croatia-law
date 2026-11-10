@@ -13,7 +13,7 @@ Pravilnik o sadržaju i načinu vođenja registra zrakoplovnog osoblja · 1 vers
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2012-2682` (tags `pravilnik-2012-2682/<day>`; `python tools/on.py <day> pravilnik-2012-2682`).
+Act id: `pravilnik-2012-2682` (tags `pravilnik-2012-2682/<day>`; `python registry/tools/on.py <day> pravilnik-2012-2682`).
 
 ## Status
 

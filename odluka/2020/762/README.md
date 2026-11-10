@@ -8,7 +8,7 @@ Odluka o namjeni korištenja sredstava i odgodi plaćanja novčane naknade zbog 
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2020-762` (tags `odluka-2020-762/<day>`; `python tools/on.py <day> odluka-2020-762`).
+Act id: `odluka-2020-762` (tags `odluka-2020-762/<day>`; `python registry/tools/on.py <day> odluka-2020-762`).
 
 ## Decisions made by hand
 

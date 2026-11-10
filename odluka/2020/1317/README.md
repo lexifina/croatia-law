@@ -8,7 +8,7 @@ Odluka o izmjeni Odluke o kriterijima i načinu financiranja troškova javnog pr
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2020-1317` (tags `odluka-2020-1317/<day>`; `python tools/on.py <day> odluka-2020-1317`).
+Act id: `odluka-2020-1317` (tags `odluka-2020-1317/<day>`; `python registry/tools/on.py <day> odluka-2020-1317`).
 
 ## Decisions made by hand
 

@@ -58,7 +58,7 @@ Uredba o izmjenama i dopunama Uredbe o unutarnjem ustrojstvu Ministarstva vanjsk
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2012-1413` (tags `uredba-2012-1413/<day>`; `python tools/on.py <day> uredba-2012-1413`).
+Act id: `uredba-2012-1413` (tags `uredba-2012-1413/<day>`; `python registry/tools/on.py <day> uredba-2012-1413`).
 
 ## Decisions made by hand
 

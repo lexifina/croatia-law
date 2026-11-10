@@ -9,7 +9,7 @@ Pravilnik o dopuni Pravilnika o kriterijima za razvrstavanje naselja u turistič
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2015-84` (tags `pravilnik-2015-84/<day>`; `python tools/on.py <day> pravilnik-2015-84`).
+Act id: `pravilnik-2015-84` (tags `pravilnik-2015-84/<day>`; `python registry/tools/on.py <day> pravilnik-2015-84`).
 
 ## Decisions made by hand
 

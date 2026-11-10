@@ -19,7 +19,7 @@ Uredba o postupcima koji prethode sklapanju pravnih poslova u svrhu stjecanja pr
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2023-469` (tags `uredba-2023-469/<day>`; `python tools/on.py <day> uredba-2023-469`).
+Act id: `uredba-2023-469` (tags `uredba-2023-469/<day>`; `python registry/tools/on.py <day> uredba-2023-469`).
 
 ## Decisions made by hand
 

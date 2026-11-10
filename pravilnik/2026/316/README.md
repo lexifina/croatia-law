@@ -26,7 +26,7 @@ Pravilnik o zdravstvenim pregledima sportaša · 1 versions, from 2026-03-26 (la
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2026-316` (tags `pravilnik-2026-316/<day>`; `python tools/on.py <day> pravilnik-2026-316`).
+Act id: `pravilnik-2026-316` (tags `pravilnik-2026-316/<day>`; `python registry/tools/on.py <day> pravilnik-2026-316`).
 
 ## Decisions made by hand
 

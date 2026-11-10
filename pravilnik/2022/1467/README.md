@@ -42,7 +42,7 @@ Pravilnik o stavljanju na tržište sjemena repa · 1 versions, from 2022-09-08 
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2022-1467` (tags `pravilnik-2022-1467/<day>`; `python tools/on.py <day> pravilnik-2022-1467`).
+Act id: `pravilnik-2022-1467` (tags `pravilnik-2022-1467/<day>`; `python registry/tools/on.py <day> pravilnik-2022-1467`).
 
 ## Decisions made by hand
 

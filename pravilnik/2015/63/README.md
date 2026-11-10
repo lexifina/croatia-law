@@ -32,7 +32,7 @@ Pravilnik o uvjetima, kriterijima i načinu dodjele potpore u okviru mjere 1.2. 
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2015-63` (tags `pravilnik-2015-63/<day>`; `python tools/on.py <day> pravilnik-2015-63`).
+Act id: `pravilnik-2015-63` (tags `pravilnik-2015-63/<day>`; `python registry/tools/on.py <day> pravilnik-2015-63`).
 
 ## Status
 

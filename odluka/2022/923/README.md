@@ -9,7 +9,7 @@ Odluka o usvajanju Izmjena i dopuna Programa dodjele državnih potpora sektoru m
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2022-923` (tags `odluka-2022-923/<day>`; `python tools/on.py <day> odluka-2022-923`).
+Act id: `odluka-2022-923` (tags `odluka-2022-923/<day>`; `python registry/tools/on.py <day> odluka-2022-923`).
 
 ## Decisions made by hand
 

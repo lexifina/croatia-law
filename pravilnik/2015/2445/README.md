@@ -50,7 +50,7 @@ Pravilnik o stručnom ispitu osoba koje obavljaju poslove graditeljstva i prosto
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2015-2445` (tags `pravilnik-2015-2445/<day>`; `python tools/on.py <day> pravilnik-2015-2445`).
+Act id: `pravilnik-2015-2445` (tags `pravilnik-2015-2445/<day>`; `python registry/tools/on.py <day> pravilnik-2015-2445`).
 
 ## Decisions made by hand
 

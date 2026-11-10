@@ -9,7 +9,7 @@ Pravilnik o izmjeni Pravilnika o uvjetima i naÄinu ostvarivanja prava na pokriÄ
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2026-1349` (tags `pravilnik-2026-1349/<day>`; `python tools/on.py <day> pravilnik-2026-1349`).
+Act id: `pravilnik-2026-1349` (tags `pravilnik-2026-1349/<day>`; `python registry/tools/on.py <day> pravilnik-2026-1349`).
 
 ## Decisions made by hand
 

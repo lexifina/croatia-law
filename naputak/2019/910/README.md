@@ -13,7 +13,7 @@ Naputak o načinu uporabe, vraćanja i obnavljanja udžbenika i drugih obrazovni
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `naputak-2019-910` (tags `naputak-2019-910/<day>`; `python tools/on.py <day> naputak-2019-910`).
+Act id: `naputak-2019-910` (tags `naputak-2019-910/<day>`; `python registry/tools/on.py <day> naputak-2019-910`).
 
 ## Decisions made by hand
 

@@ -8,7 +8,7 @@ Odluka o proširenju primjene Dodatka I. o izmjenama i dopunama Kolektivnoga ugo
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2015-2525` (tags `odluka-2015-2525/<day>`; `python tools/on.py <day> odluka-2015-2525`).
+Act id: `odluka-2015-2525` (tags `odluka-2015-2525/<day>`; `python registry/tools/on.py <day> odluka-2015-2525`).
 
 ## Decisions made by hand
 

@@ -8,7 +8,7 @@ Odluka o provedbi Provedbene uredbe Komisije (EU) 2020/402 od 14. ožujka 2020. 
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2020-793` (tags `odluka-2020-793/<day>`; `python tools/on.py <day> odluka-2020-793`).
+Act id: `odluka-2020-793` (tags `odluka-2020-793/<day>`; `python registry/tools/on.py <day> odluka-2020-793`).
 
 ## Decisions made by hand
 

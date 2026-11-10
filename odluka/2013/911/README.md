@@ -12,7 +12,7 @@ Odluka o utvrđivanju Osnovne liste lijekova Hrvatskog zavoda za zdravstveno osi
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2013-911` (tags `odluka-2013-911/<day>`; `python tools/on.py <day> odluka-2013-911`).
+Act id: `odluka-2013-911` (tags `odluka-2013-911/<day>`; `python registry/tools/on.py <day> odluka-2013-911`).
 
 ## Status
 

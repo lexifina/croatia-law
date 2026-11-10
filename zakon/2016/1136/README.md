@@ -13,7 +13,7 @@ Zakon o izmjenama i dopunama Zakona o konačnosti namire u platnim sustavima i s
 | čl. 7 | [clanak-007.md](clanak-007.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2016-1136` (tags `zakon-2016-1136/<day>`; `python tools/on.py <day> zakon-2016-1136`).
+Act id: `zakon-2016-1136` (tags `zakon-2016-1136/<day>`; `python registry/tools/on.py <day> zakon-2016-1136`).
 
 ## Decisions made by hand
 

@@ -5,7 +5,7 @@ Pravilnik o postupku izbora i načinu rada udruga registriranih za obavljanje dj
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `pravilnik-2015-1478` (tags `pravilnik-2015-1478/<day>`; `python tools/on.py <day> pravilnik-2015-1478`).
+Act id: `pravilnik-2015-1478` (tags `pravilnik-2015-1478/<day>`; `python registry/tools/on.py <day> pravilnik-2015-1478`).
 
 ## Decisions made by hand
 

@@ -21,7 +21,7 @@ Pravilnik o automatskoj razmjeni informacija u području poreza · 1 versions, f
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2014-2972` (tags `pravilnik-2014-2972/<day>`; `python tools/on.py <day> pravilnik-2014-2972`).
+Act id: `pravilnik-2014-2972` (tags `pravilnik-2014-2972/<day>`; `python registry/tools/on.py <day> pravilnik-2014-2972`).
 
 ## Status
 

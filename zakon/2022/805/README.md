@@ -36,7 +36,7 @@ Zakon o izmjenama i dopunama Zakona o predškolskom odgoju i obrazovanju · 1 ve
 | čl. 30 | [clanak-030.md](clanak-030.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2022-805` (tags `zakon-2022-805/<day>`; `python tools/on.py <day> zakon-2022-805`).
+Act id: `zakon-2022-805` (tags `zakon-2022-805/<day>`; `python registry/tools/on.py <day> zakon-2022-805`).
 
 ## Decisions made by hand
 

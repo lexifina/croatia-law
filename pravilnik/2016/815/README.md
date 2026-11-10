@@ -10,7 +10,7 @@ Pravilnik o dopunama Pravilnika o obavljanju inspekcijskog nadzora sigurnosti pl
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2016-815` (tags `pravilnik-2016-815/<day>`; `python tools/on.py <day> pravilnik-2016-815`).
+Act id: `pravilnik-2016-815` (tags `pravilnik-2016-815/<day>`; `python registry/tools/on.py <day> pravilnik-2016-815`).
 
 ## Decisions made by hand
 

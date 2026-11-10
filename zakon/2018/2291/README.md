@@ -42,7 +42,7 @@ Zakon o izmjenama i dopunama Zakona o energetskoj učinkovitosti · 1 versions, 
 | čl. 36 | [clanak-036.md](clanak-036.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2018-2291` (tags `zakon-2018-2291/<day>`; `python tools/on.py <day> zakon-2018-2291`).
+Act id: `zakon-2018-2291` (tags `zakon-2018-2291/<day>`; `python registry/tools/on.py <day> zakon-2018-2291`).
 
 ## Decisions made by hand
 

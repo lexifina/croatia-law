@@ -30,7 +30,7 @@ Uredba o klasifikaciji radnih mjesta policijskih službenika · 1 versions, from
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2022-67` (tags `uredba-2022-67/<day>`; `python tools/on.py <day> uredba-2022-67`).
+Act id: `uredba-2022-67` (tags `uredba-2022-67/<day>`; `python registry/tools/on.py <day> uredba-2022-67`).
 
 ## Status
 

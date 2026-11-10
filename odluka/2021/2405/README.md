@@ -14,7 +14,7 @@ Odluka o I. izmjenama i dopunama Odluke o lokalnim porezima Grada Delnica · 1 v
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2021-2405` (tags `odluka-2021-2405/<day>`; `python tools/on.py <day> odluka-2021-2405`).
+Act id: `odluka-2021-2405` (tags `odluka-2021-2405/<day>`; `python registry/tools/on.py <day> odluka-2021-2405`).
 
 ## Decisions made by hand
 

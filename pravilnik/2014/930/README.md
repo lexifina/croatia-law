@@ -20,7 +20,7 @@ Pravilnik o sadržaju i obveznim prostornim pokazateljima izvješća o stanju u 
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2014-930` (tags `pravilnik-2014-930/<day>`; `python tools/on.py <day> pravilnik-2014-930`).
+Act id: `pravilnik-2014-930` (tags `pravilnik-2014-930/<day>`; `python registry/tools/on.py <day> pravilnik-2014-930`).
 
 ## Status
 

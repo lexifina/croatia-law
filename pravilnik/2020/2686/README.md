@@ -20,7 +20,7 @@ Pravilnik o ribičkim dozvolama u slatkovodnom ribarstvu · 1 versions, from 202
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2020-2686` (tags `pravilnik-2020-2686/<day>`; `python tools/on.py <day> pravilnik-2020-2686`).
+Act id: `pravilnik-2020-2686` (tags `pravilnik-2020-2686/<day>`; `python registry/tools/on.py <day> pravilnik-2020-2686`).
 
 ## Decisions made by hand
 

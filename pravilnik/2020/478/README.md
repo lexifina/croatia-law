@@ -9,7 +9,7 @@ Pravilnik o izmjeni Pravilnika o dobroj praksi u prometu lijekova, davanju dozvo
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2020-478` (tags `pravilnik-2020-478/<day>`; `python tools/on.py <day> pravilnik-2020-478`).
+Act id: `pravilnik-2020-478` (tags `pravilnik-2020-478/<day>`; `python registry/tools/on.py <day> pravilnik-2020-478`).
 
 ## Decisions made by hand
 

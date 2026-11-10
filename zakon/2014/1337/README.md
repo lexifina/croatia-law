@@ -43,7 +43,7 @@ Zakon o izmjenama i dopunama Zakona o hidrografskoj djelatnosti · 1 versions, f
 | čl. 37 | [clanak-037.md](clanak-037.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2014-1337` (tags `zakon-2014-1337/<day>`; `python tools/on.py <day> zakon-2014-1337`).
+Act id: `zakon-2014-1337` (tags `zakon-2014-1337/<day>`; `python registry/tools/on.py <day> zakon-2014-1337`).
 
 ## Decisions made by hand
 

@@ -10,7 +10,7 @@ Odluka o izmjenama i dopunama Odluke o kupoprodaji plasmana kreditnih institucij
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2018-470` (tags `odluka-2018-470/<day>`; `python tools/on.py <day> odluka-2018-470`).
+Act id: `odluka-2018-470` (tags `odluka-2018-470/<day>`; `python registry/tools/on.py <day> odluka-2018-470`).
 
 ## Decisions made by hand
 

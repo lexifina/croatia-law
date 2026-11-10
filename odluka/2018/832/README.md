@@ -8,7 +8,7 @@ Odluka o osnivanju Nacionalnog vijeća za uvođenje eura kao službene valute u 
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2018-832` (tags `odluka-2018-832/<day>`; `python tools/on.py <day> odluka-2018-832`).
+Act id: `odluka-2018-832` (tags `odluka-2018-832/<day>`; `python registry/tools/on.py <day> odluka-2018-832`).
 
 ## Status
 

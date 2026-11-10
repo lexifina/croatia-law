@@ -10,7 +10,7 @@ Pravilnik o izmjenama Pravilnika o načinu izvješćivanja, obliku i sadržaju t
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2023-765` (tags `pravilnik-2023-765/<day>`; `python tools/on.py <day> pravilnik-2023-765`).
+Act id: `pravilnik-2023-765` (tags `pravilnik-2023-765/<day>`; `python registry/tools/on.py <day> pravilnik-2023-765`).
 
 ## Decisions made by hand
 

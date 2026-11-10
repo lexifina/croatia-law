@@ -22,7 +22,7 @@ Uredba o standardima i uvjetima koje moraju ispunjavati granični prijelazi za u
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2014-1082` (tags `uredba-2014-1082/<day>`; `python tools/on.py <day> uredba-2014-1082`).
+Act id: `uredba-2014-1082` (tags `uredba-2014-1082/<day>`; `python registry/tools/on.py <day> uredba-2014-1082`).
 
 ## Status
 

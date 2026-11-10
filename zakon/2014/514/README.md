@@ -18,7 +18,7 @@ Zakon o izmjenama Zakona o građevnim proizvodima · 1 versions, from 2014-03-06
 | čl. 12 | [clanak-012.md](clanak-012.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2014-514` (tags `zakon-2014-514/<day>`; `python tools/on.py <day> zakon-2014-514`).
+Act id: `zakon-2014-514` (tags `zakon-2014-514/<day>`; `python registry/tools/on.py <day> zakon-2014-514`).
 
 ## Decisions made by hand
 

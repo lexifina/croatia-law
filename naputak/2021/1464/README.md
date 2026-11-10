@@ -23,7 +23,7 @@ Naputak o pravilima i metodama zaštite pri diseminaciji službenih statistički
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `naputak-2021-1464` (tags `naputak-2021-1464/<day>`; `python tools/on.py <day> naputak-2021-1464`).
+Act id: `naputak-2021-1464` (tags `naputak-2021-1464/<day>`; `python registry/tools/on.py <day> naputak-2021-1464`).
 
 ## Decisions made by hand
 

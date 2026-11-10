@@ -14,7 +14,7 @@ Odluka o prirezu porezu na dohodak Grada Gospića · 1 versions, from 2012-04-21
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2012-1080` (tags `odluka-2012-1080/<day>`; `python tools/on.py <day> odluka-2012-1080`).
+Act id: `odluka-2012-1080` (tags `odluka-2012-1080/<day>`; `python registry/tools/on.py <day> odluka-2012-1080`).
 
 ## Status
 

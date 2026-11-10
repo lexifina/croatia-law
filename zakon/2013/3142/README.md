@@ -15,7 +15,7 @@ Zakon o izmjenama Zakona o područjima posebne državne skrbi · 1 versions, fro
 | čl. 9 | [clanak-009.md](clanak-009.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2013-3142` (tags `zakon-2013-3142/<day>`; `python tools/on.py <day> zakon-2013-3142`).
+Act id: `zakon-2013-3142` (tags `zakon-2013-3142/<day>`; `python registry/tools/on.py <day> zakon-2013-3142`).
 
 ## Decisions made by hand
 

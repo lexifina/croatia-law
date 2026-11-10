@@ -64,7 +64,7 @@ Pravilnik o pomorskim knjižicama i odobrenjima za ukrcavanje, te postupcima i n
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2016-2453` (tags `pravilnik-2016-2453/<day>`; `python tools/on.py <day> pravilnik-2016-2453`).
+Act id: `pravilnik-2016-2453` (tags `pravilnik-2016-2453/<day>`; `python registry/tools/on.py <day> pravilnik-2016-2453`).
 
 ## Status
 

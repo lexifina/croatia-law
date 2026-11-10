@@ -10,7 +10,7 @@ Uredba o dopunama Uredbe o uvjetima davanja koncesija za gospodarsko korištenje
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2012-1142` (tags `uredba-2012-1142/<day>`; `python tools/on.py <day> uredba-2012-1142`).
+Act id: `uredba-2012-1142` (tags `uredba-2012-1142/<day>`; `python registry/tools/on.py <day> uredba-2012-1142`).
 
 ## Decisions made by hand
 

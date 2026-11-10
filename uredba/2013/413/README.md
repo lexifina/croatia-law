@@ -10,7 +10,7 @@ Uredba o izmjeni Uredbe o nazivima radnih mjesta i koeficijentima složenosti po
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2013-413` (tags `uredba-2013-413/<day>`; `python tools/on.py <day> uredba-2013-413`).
+Act id: `uredba-2013-413` (tags `uredba-2013-413/<day>`; `python registry/tools/on.py <day> uredba-2013-413`).
 
 ## Decisions made by hand
 

@@ -18,7 +18,7 @@ Pravilnik o provođenju tajnog nadzora prema Zakonu o otvorenim investicijskim f
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2026-807` (tags `pravilnik-2026-807/<day>`; `python tools/on.py <day> pravilnik-2026-807`).
+Act id: `pravilnik-2026-807` (tags `pravilnik-2026-807/<day>`; `python registry/tools/on.py <day> pravilnik-2026-807`).
 
 ## Decisions made by hand
 

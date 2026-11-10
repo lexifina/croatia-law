@@ -8,7 +8,7 @@ Odluka o osnivanju Konzulata Republike Hrvatske u Republici Filipinima, sa sjedi
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2025-903` (tags `odluka-2025-903/<day>`; `python tools/on.py <day> odluka-2025-903`).
+Act id: `odluka-2025-903` (tags `odluka-2025-903/<day>`; `python registry/tools/on.py <day> odluka-2025-903`).
 
 ## Decisions made by hand
 

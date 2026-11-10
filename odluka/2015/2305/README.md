@@ -10,7 +10,7 @@ Odluka o izmjenama Odluke o gradskim porezima i o prirezu poreza na dohodak Grad
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2015-2305` (tags `odluka-2015-2305/<day>`; `python tools/on.py <day> odluka-2015-2305`).
+Act id: `odluka-2015-2305` (tags `odluka-2015-2305/<day>`; `python registry/tools/on.py <day> odluka-2015-2305`).
 
 ## Decisions made by hand
 

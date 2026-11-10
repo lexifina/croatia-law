@@ -9,7 +9,7 @@ Odluka kojom se potvrđuje da sustav TARGET2-HR udovoljava uvjetima iz Zakona o 
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2016-75` (tags `odluka-2016-75/<day>`; `python tools/on.py <day> odluka-2016-75`).
+Act id: `odluka-2016-75` (tags `odluka-2016-75/<day>`; `python registry/tools/on.py <day> odluka-2016-75`).
 
 ## Decisions made by hand
 

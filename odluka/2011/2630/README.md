@@ -8,7 +8,7 @@ Odluka o iznosu naknade za financiranje rada Hrvatske agencije za obvezne zalihe
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2011-2630` (tags `odluka-2011-2630/<day>`; `python tools/on.py <day> odluka-2011-2630`).
+Act id: `odluka-2011-2630` (tags `odluka-2011-2630/<day>`; `python registry/tools/on.py <day> odluka-2011-2630`).
 
 ## Decisions made by hand
 

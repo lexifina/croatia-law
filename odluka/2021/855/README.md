@@ -9,7 +9,7 @@ Odluka o naknadi za razvoj javne odvodnje na području Općine Sukošan · 1 ver
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2021-855` (tags `odluka-2021-855/<day>`; `python tools/on.py <day> odluka-2021-855`).
+Act id: `odluka-2021-855` (tags `odluka-2021-855/<day>`; `python registry/tools/on.py <day> odluka-2021-855`).
 
 ## Status
 

@@ -8,7 +8,7 @@ Odluka o katastarskoj izmjeri na području Grada Gline za dijelove katastarskih 
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2023-143` (tags `odluka-2023-143/<day>`; `python tools/on.py <day> odluka-2023-143`).
+Act id: `odluka-2023-143` (tags `odluka-2023-143/<day>`; `python registry/tools/on.py <day> odluka-2023-143`).
 
 ## Decisions made by hand
 

@@ -12,7 +12,7 @@ Uredba o izmjenama i dopunama Uredbe o određivanju građevina, drugih zahvata u
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2021-648` (tags `uredba-2021-648/<day>`; `python tools/on.py <day> uredba-2021-648`).
+Act id: `uredba-2021-648` (tags `uredba-2021-648/<day>`; `python registry/tools/on.py <day> uredba-2021-648`).
 
 ## Decisions made by hand
 

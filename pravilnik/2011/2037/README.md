@@ -9,7 +9,7 @@ Pravilnik o izmjeni Pravilnika o utvrđivanju naknada za prenesena i ograničena
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2011-2037` (tags `pravilnik-2011-2037/<day>`; `python tools/on.py <day> pravilnik-2011-2037`).
+Act id: `pravilnik-2011-2037` (tags `pravilnik-2011-2037/<day>`; `python registry/tools/on.py <day> pravilnik-2011-2037`).
 
 ## Decisions made by hand
 

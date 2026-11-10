@@ -11,7 +11,7 @@ Pravilnik o izmjenama i dopuni Pravilnika o načinu i uvjetima sklapanja ugovora
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2019-1050` (tags `pravilnik-2019-1050/<day>`; `python tools/on.py <day> pravilnik-2019-1050`).
+Act id: `pravilnik-2019-1050` (tags `pravilnik-2019-1050/<day>`; `python registry/tools/on.py <day> pravilnik-2019-1050`).
 
 ## Decisions made by hand
 

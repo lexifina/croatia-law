@@ -9,7 +9,7 @@ Odluka o davanju suglasnosti na Financijski plan Autoceste Rijeka - Zagreb za 20
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2019-2342` (tags `odluka-2019-2342/<day>`; `python tools/on.py <day> odluka-2019-2342`).
+Act id: `odluka-2019-2342` (tags `odluka-2019-2342/<day>`; `python registry/tools/on.py <day> odluka-2019-2342`).
 
 ## Decisions made by hand
 

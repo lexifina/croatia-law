@@ -12,7 +12,7 @@ Pravilnik o izmjenama i dopunama Pravilnika o mjerama kontrole newcastleske bole
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2018-1474` (tags `pravilnik-2018-1474/<day>`; `python tools/on.py <day> pravilnik-2018-1474`).
+Act id: `pravilnik-2018-1474` (tags `pravilnik-2018-1474/<day>`; `python registry/tools/on.py <day> pravilnik-2018-1474`).
 
 ## Decisions made by hand
 

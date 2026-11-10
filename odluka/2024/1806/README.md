@@ -8,7 +8,7 @@ Odluka o isplati jednokratnog novčanog primanja hrvatskim braniteljima iz Domov
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2024-1806` (tags `odluka-2024-1806/<day>`; `python tools/on.py <day> odluka-2024-1806`).
+Act id: `odluka-2024-1806` (tags `odluka-2024-1806/<day>`; `python registry/tools/on.py <day> odluka-2024-1806`).
 
 ## Status
 

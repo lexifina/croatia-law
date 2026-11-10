@@ -9,7 +9,7 @@ Zakon o izmjenama Zakona o transparentnosti tokova javnih sredstava · 1 version
 | čl. 3 | [clanak-003.md](clanak-003.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2014-876` (tags `zakon-2014-876/<day>`; `python tools/on.py <day> zakon-2014-876`).
+Act id: `zakon-2014-876` (tags `zakon-2014-876/<day>`; `python registry/tools/on.py <day> zakon-2014-876`).
 
 ## Decisions made by hand
 

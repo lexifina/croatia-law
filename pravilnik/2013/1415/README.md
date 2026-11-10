@@ -13,7 +13,7 @@ Pravilnik o izvršavanju rada za opće dobro u prekršajnom postupku · 1 versio
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2013-1415` (tags `pravilnik-2013-1415/<day>`; `python tools/on.py <day> pravilnik-2013-1415`).
+Act id: `pravilnik-2013-1415` (tags `pravilnik-2013-1415/<day>`; `python registry/tools/on.py <day> pravilnik-2013-1415`).
 
 ## Decisions made by hand
 

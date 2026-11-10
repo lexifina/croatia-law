@@ -8,7 +8,7 @@ Odluka o izmjenama i dopunama Odluke o rasporedu radnog vremena · 1 versions, f
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2026-286` (tags `odluka-2026-286/<day>`; `python tools/on.py <day> odluka-2026-286`).
+Act id: `odluka-2026-286` (tags `odluka-2026-286/<day>`; `python registry/tools/on.py <day> odluka-2026-286`).
 
 ## Decisions made by hand
 

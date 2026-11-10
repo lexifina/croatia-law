@@ -9,7 +9,7 @@ Odluka o oduzimanju koncesija na pomorskom dobru u svrhu gospodarskog korištenj
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2015-1420` (tags `odluka-2015-1420/<day>`; `python tools/on.py <day> odluka-2015-1420`).
+Act id: `odluka-2015-1420` (tags `odluka-2015-1420/<day>`; `python registry/tools/on.py <day> odluka-2015-1420`).
 
 ## Decisions made by hand
 

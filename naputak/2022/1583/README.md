@@ -11,7 +11,7 @@ Naputak o sadržaju, obliku i načinu izvješćivanja o ostvarenim prihodima pru
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `naputak-2022-1583` (tags `naputak-2022-1583/<day>`; `python tools/on.py <day> naputak-2022-1583`).
+Act id: `naputak-2022-1583` (tags `naputak-2022-1583/<day>`; `python registry/tools/on.py <day> naputak-2022-1583`).
 
 ## Decisions made by hand
 

@@ -8,7 +8,7 @@ Odluka o visini naknade za osnivanje prava služnosti i prava građenja na javno
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2011-1148` (tags `odluka-2011-1148/<day>`; `python tools/on.py <day> odluka-2011-1148`).
+Act id: `odluka-2011-1148` (tags `odluka-2011-1148/<day>`; `python registry/tools/on.py <day> odluka-2011-1148`).
 
 ## Status
 

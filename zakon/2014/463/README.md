@@ -11,7 +11,7 @@ Zakon o izmjenama Zakona o kazalištima · 1 versions, from 2014-02-26 (latest i
 | čl. 5 | [clanak-005.md](clanak-005.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2014-463` (tags `zakon-2014-463/<day>`; `python tools/on.py <day> zakon-2014-463`).
+Act id: `zakon-2014-463` (tags `zakon-2014-463/<day>`; `python registry/tools/on.py <day> zakon-2014-463`).
 
 ## Decisions made by hand
 

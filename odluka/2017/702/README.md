@@ -55,7 +55,7 @@ Odluka o primicima radnika · 1 versions, from 2017-04-13 (latest in force: 2017
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2017-702` (tags `odluka-2017-702/<day>`; `python tools/on.py <day> odluka-2017-702`).
+Act id: `odluka-2017-702` (tags `odluka-2017-702/<day>`; `python registry/tools/on.py <day> odluka-2017-702`).
 
 ## Status
 

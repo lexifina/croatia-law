@@ -11,7 +11,7 @@ Zakon o izmjenama i dopunama Kaznenog zakona · 1 versions, from 2023-10-12 (lat
 | čl. 5 | [clanak-005.md](clanak-005.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2023-1618` (tags `zakon-2023-1618/<day>`; `python tools/on.py <day> zakon-2023-1618`).
+Act id: `zakon-2023-1618` (tags `zakon-2023-1618/<day>`; `python registry/tools/on.py <day> zakon-2023-1618`).
 
 ## Decisions made by hand
 

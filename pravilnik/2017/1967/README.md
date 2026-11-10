@@ -5,7 +5,7 @@ Pravilnik o praćenju kvalitete zraka · 2 versions, from 2017-08-19 (latest in 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `pravilnik-2017-1967` (tags `pravilnik-2017-1967/<day>`; `python tools/on.py <day> pravilnik-2017-1967`).
+Act id: `pravilnik-2017-1967` (tags `pravilnik-2017-1967/<day>`; `python registry/tools/on.py <day> pravilnik-2017-1967`).
 
 ## Decisions made by hand
 

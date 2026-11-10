@@ -9,7 +9,7 @@ Pravilnik o izmjenama Pravilnika o uvjetima kojima moraju udovoljavati veterinar
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2011-3179` (tags `pravilnik-2011-3179/<day>`; `python tools/on.py <day> pravilnik-2011-3179`).
+Act id: `pravilnik-2011-3179` (tags `pravilnik-2011-3179/<day>`; `python registry/tools/on.py <day> pravilnik-2011-3179`).
 
 ## Decisions made by hand
 

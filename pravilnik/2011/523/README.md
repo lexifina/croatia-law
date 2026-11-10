@@ -9,7 +9,7 @@ Pravilnik o izmjeni Pravilnika o stavljanju na tržište i korištenju hrane za 
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2011-523` (tags `pravilnik-2011-523/<day>`; `python tools/on.py <day> pravilnik-2011-523`).
+Act id: `pravilnik-2011-523` (tags `pravilnik-2011-523/<day>`; `python registry/tools/on.py <day> pravilnik-2011-523`).
 
 ## Decisions made by hand
 

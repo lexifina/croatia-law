@@ -8,7 +8,7 @@ Odluka o donošenju Nacionalnog plana zamjene hrvatske kune eurom · 1 versions,
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2020-2832` (tags `odluka-2020-2832/<day>`; `python tools/on.py <day> odluka-2020-2832`).
+Act id: `odluka-2020-2832` (tags `odluka-2020-2832/<day>`; `python registry/tools/on.py <day> odluka-2020-2832`).
 
 ## Decisions made by hand
 

@@ -23,7 +23,7 @@ Pravilnik o djelokrugu rada tajnika te administrativno-tehničkim i pomoćnim po
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2011-35` (tags `pravilnik-2011-35/<day>`; `python tools/on.py <day> pravilnik-2011-35`).
+Act id: `pravilnik-2011-35` (tags `pravilnik-2011-35/<day>`; `python registry/tools/on.py <day> pravilnik-2011-35`).
 
 ## Status
 

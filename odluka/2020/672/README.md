@@ -8,7 +8,7 @@ Odluka o iznimnim mjerama kontrole cijena za određene proizvode · 1 versions, 
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2020-672` (tags `odluka-2020-672/<day>`; `python tools/on.py <day> odluka-2020-672`).
+Act id: `odluka-2020-672` (tags `odluka-2020-672/<day>`; `python registry/tools/on.py <day> odluka-2020-672`).
 
 ## Status
 

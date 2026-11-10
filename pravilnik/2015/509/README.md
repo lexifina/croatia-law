@@ -9,7 +9,7 @@ Pravilnik o stavljanju izvan snage Pravilnika o sadržaju i načinu davanja potv
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2015-509` (tags `pravilnik-2015-509/<day>`; `python tools/on.py <day> pravilnik-2015-509`).
+Act id: `pravilnik-2015-509` (tags `pravilnik-2015-509/<day>`; `python registry/tools/on.py <day> pravilnik-2015-509`).
 
 ## Decisions made by hand
 

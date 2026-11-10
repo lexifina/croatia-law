@@ -8,7 +8,7 @@ Odluka o osnivanju Povjerenstva za upravljanje sigurnošću u zračnom prometu �
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2011-857` (tags `odluka-2011-857/<day>`; `python tools/on.py <day> odluka-2011-857`).
+Act id: `odluka-2011-857` (tags `odluka-2011-857/<day>`; `python registry/tools/on.py <day> odluka-2011-857`).
 
 ## Status
 

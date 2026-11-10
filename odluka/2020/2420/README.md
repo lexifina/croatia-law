@@ -8,7 +8,7 @@ Odluka o izmjeni Odluke o utvrđivanju Popisa posebno skupih lijekova utvrđenih
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2020-2420` (tags `odluka-2020-2420/<day>`; `python tools/on.py <day> odluka-2020-2420`).
+Act id: `odluka-2020-2420` (tags `odluka-2020-2420/<day>`; `python registry/tools/on.py <day> odluka-2020-2420`).
 
 ## Decisions made by hand
 

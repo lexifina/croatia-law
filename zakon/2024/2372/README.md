@@ -12,7 +12,7 @@ Zakon o izmjenama i dopuni Zakona o računovodstvu · 1 versions, from 2024-12-1
 | čl. 6 | [clanak-006.md](clanak-006.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2024-2372` (tags `zakon-2024-2372/<day>`; `python tools/on.py <day> zakon-2024-2372`).
+Act id: `zakon-2024-2372` (tags `zakon-2024-2372/<day>`; `python registry/tools/on.py <day> zakon-2024-2372`).
 
 ## Decisions made by hand
 

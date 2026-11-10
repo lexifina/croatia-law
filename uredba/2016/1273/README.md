@@ -13,7 +13,7 @@ Uredba o preuzimanju Direktive 2014/54/EU o mjerama za lakše ostvarivanje prava
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2016-1273` (tags `uredba-2016-1273/<day>`; `python tools/on.py <day> uredba-2016-1273`).
+Act id: `uredba-2016-1273` (tags `uredba-2016-1273/<day>`; `python registry/tools/on.py <day> uredba-2016-1273`).
 
 ## Decisions made by hand
 

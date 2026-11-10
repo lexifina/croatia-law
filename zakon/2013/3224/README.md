@@ -10,7 +10,7 @@ Zakon o izmjenama Zakona o poštanskim uslugama · 1 versions, from 2013-12-19 (
 | čl. 4 | [clanak-004.md](clanak-004.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2013-3224` (tags `zakon-2013-3224/<day>`; `python tools/on.py <day> zakon-2013-3224`).
+Act id: `zakon-2013-3224` (tags `zakon-2013-3224/<day>`; `python registry/tools/on.py <day> zakon-2013-3224`).
 
 ## Decisions made by hand
 

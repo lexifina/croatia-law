@@ -8,7 +8,7 @@ Odluka o dopuni Odluke o posebnom standardu i mjerilima njegove primjene u provo
 | čl. 2 | [clanak-002.md](clanak-002.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `odluka-2013-715` (tags `odluka-2013-715/<day>`; `python tools/on.py <day> odluka-2013-715`).
+Act id: `odluka-2013-715` (tags `odluka-2013-715/<day>`; `python registry/tools/on.py <day> odluka-2013-715`).
 
 ## Decisions made by hand
 

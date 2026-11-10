@@ -9,7 +9,7 @@ Pravilnik o ukidanju Pravilnika o mjeriteljskim zahtjevima za mjerila mase - vag
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2017-852` (tags `pravilnik-2017-852/<day>`; `python tools/on.py <day> pravilnik-2017-852`).
+Act id: `pravilnik-2017-852` (tags `pravilnik-2017-852/<day>`; `python registry/tools/on.py <day> pravilnik-2017-852`).
 
 ## Decisions made by hand
 

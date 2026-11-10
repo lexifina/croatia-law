@@ -9,7 +9,7 @@ Pravilnik o stavljanju izvan snage Pravilnika o tehničkim uvjetima za elektroni
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2017-2691` (tags `pravilnik-2017-2691/<day>`; `python tools/on.py <day> pravilnik-2017-2691`).
+Act id: `pravilnik-2017-2691` (tags `pravilnik-2017-2691/<day>`; `python registry/tools/on.py <day> pravilnik-2017-2691`).
 
 ## Decisions made by hand
 

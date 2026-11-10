@@ -8,7 +8,7 @@ Odluka o uvođenju posebne sigurnosne mjere obveznog testiranja dužnosnika, dr�
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2021-2087` (tags `odluka-2021-2087/<day>`; `python tools/on.py <day> odluka-2021-2087`).
+Act id: `odluka-2021-2087` (tags `odluka-2021-2087/<day>`; `python registry/tools/on.py <day> odluka-2021-2087`).
 
 ## Status
 

@@ -8,7 +8,7 @@ Odluka o prestanku važenja Odluke o prikupljanju podataka o ostvarenim platnim 
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2016-245` (tags `odluka-2016-245/<day>`; `python tools/on.py <day> odluka-2016-245`).
+Act id: `odluka-2016-245` (tags `odluka-2016-245/<day>`; `python registry/tools/on.py <day> odluka-2016-245`).
 
 ## Decisions made by hand
 

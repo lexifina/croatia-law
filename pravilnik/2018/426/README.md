@@ -46,7 +46,7 @@ Pravilnik o provedbi tipa operacije 6.1.1. »Potpora mladim poljoprivrednicima«
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2018-426` (tags `pravilnik-2018-426/<day>`; `python tools/on.py <day> pravilnik-2018-426`).
+Act id: `pravilnik-2018-426` (tags `pravilnik-2018-426/<day>`; `python registry/tools/on.py <day> pravilnik-2018-426`).
 
 ## Status
 

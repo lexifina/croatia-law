@@ -5,7 +5,7 @@ Pravilnik o sastavu i načinu rada Komisije za procjenu potrebe korisnika za usl
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `pravilnik-2023-1434` (tags `pravilnik-2023-1434/<day>`; `python tools/on.py <day> pravilnik-2023-1434`).
+Act id: `pravilnik-2023-1434` (tags `pravilnik-2023-1434/<day>`; `python registry/tools/on.py <day> pravilnik-2023-1434`).
 
 ## Decisions made by hand
 

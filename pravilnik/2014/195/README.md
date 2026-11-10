@@ -14,7 +14,7 @@ Pravilnik o stjecanju privilegije za obavljanje radiotelefonske komunikacije · 
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2014-195` (tags `pravilnik-2014-195/<day>`; `python tools/on.py <day> pravilnik-2014-195`).
+Act id: `pravilnik-2014-195` (tags `pravilnik-2014-195/<day>`; `python registry/tools/on.py <day> pravilnik-2014-195`).
 
 ## Decisions made by hand
 

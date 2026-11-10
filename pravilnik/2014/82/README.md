@@ -64,7 +64,7 @@ Pravilnik o zvanjima i stručnim ispitima pomoraca u Hrvatskoj ratnoj mornarici 
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2014-82` (tags `pravilnik-2014-82/<day>`; `python tools/on.py <day> pravilnik-2014-82`).
+Act id: `pravilnik-2014-82` (tags `pravilnik-2014-82/<day>`; `python registry/tools/on.py <day> pravilnik-2014-82`).
 
 ## Decisions made by hand
 

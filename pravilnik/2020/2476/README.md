@@ -9,7 +9,7 @@ Pravilnik o izmjenama Pravilnika o Školskoj shemi voća i povrća te mlijeka i 
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2020-2476` (tags `pravilnik-2020-2476/<day>`; `python tools/on.py <day> pravilnik-2020-2476`).
+Act id: `pravilnik-2020-2476` (tags `pravilnik-2020-2476/<day>`; `python registry/tools/on.py <day> pravilnik-2020-2476`).
 
 ## Decisions made by hand
 

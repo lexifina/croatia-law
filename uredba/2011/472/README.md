@@ -12,7 +12,7 @@ Uredba o dopunama Uredbe o nazivima radnih mjesta i koeficijentima sliženosti p
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2011-472` (tags `uredba-2011-472/<day>`; `python tools/on.py <day> uredba-2011-472`).
+Act id: `uredba-2011-472` (tags `uredba-2011-472/<day>`; `python registry/tools/on.py <day> uredba-2011-472`).
 
 ## Decisions made by hand
 

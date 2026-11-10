@@ -11,7 +11,7 @@ Zakon o izmjenama Zakona o energiji · 1 versions, from 2014-02-06 (latest in fo
 | čl. 5 | [clanak-005.md](clanak-005.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2014-296` (tags `zakon-2014-296/<day>`; `python tools/on.py <day> zakon-2014-296`).
+Act id: `zakon-2014-296` (tags `zakon-2014-296/<day>`; `python registry/tools/on.py <day> zakon-2014-296`).
 
 ## Decisions made by hand
 

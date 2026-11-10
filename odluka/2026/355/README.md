@@ -16,7 +16,7 @@ Odluka o izmjenama Odluke o upravljanju kolateralom u kreditnim operacijama Euro
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2026-355` (tags `odluka-2026-355/<day>`; `python tools/on.py <day> odluka-2026-355`).
+Act id: `odluka-2026-355` (tags `odluka-2026-355/<day>`; `python registry/tools/on.py <day> odluka-2026-355`).
 
 ## Decisions made by hand
 

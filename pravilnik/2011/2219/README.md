@@ -34,7 +34,7 @@ Pravilnik o načinu i obliku vođenja registra objekata leasinga · 1 versions, 
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2011-2219` (tags `pravilnik-2011-2219/<day>`; `python tools/on.py <day> pravilnik-2011-2219`).
+Act id: `pravilnik-2011-2219` (tags `pravilnik-2011-2219/<day>`; `python registry/tools/on.py <day> pravilnik-2011-2219`).
 
 ## Decisions made by hand
 

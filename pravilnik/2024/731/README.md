@@ -23,7 +23,7 @@ Pravilnik o izmjenama i dopunama Pravilnika o načinu ostvarivanja prava na jedn
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2024-731` (tags `pravilnik-2024-731/<day>`; `python tools/on.py <day> pravilnik-2024-731`).
+Act id: `pravilnik-2024-731` (tags `pravilnik-2024-731/<day>`; `python registry/tools/on.py <day> pravilnik-2024-731`).
 
 ## Decisions made by hand
 

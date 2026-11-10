@@ -9,7 +9,7 @@ Odluka o izmjeni i dopuni Odluke o visini tarifnih stavki u Tarifnom sustavu za 
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2012-2199` (tags `odluka-2012-2199/<day>`; `python tools/on.py <day> odluka-2012-2199`).
+Act id: `odluka-2012-2199` (tags `odluka-2012-2199/<day>`; `python registry/tools/on.py <day> odluka-2012-2199`).
 
 ## Decisions made by hand
 

@@ -8,7 +8,7 @@ Odluka o katastarskoj izmjeri na području Grada Ploča za dijelove k.o. Pasiči
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2022-1576` (tags `odluka-2022-1576/<day>`; `python tools/on.py <day> odluka-2022-1576`).
+Act id: `odluka-2022-1576` (tags `odluka-2022-1576/<day>`; `python registry/tools/on.py <day> odluka-2022-1576`).
 
 ## Decisions made by hand
 

@@ -9,7 +9,7 @@ Uredba o prestanku važenja Uredbe o utvrđivanju najviših maloprodajnih cijena
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2021-2211` (tags `uredba-2021-2211/<day>`; `python tools/on.py <day> uredba-2021-2211`).
+Act id: `uredba-2021-2211` (tags `uredba-2021-2211/<day>`; `python registry/tools/on.py <day> uredba-2021-2211`).
 
 ## Status
 

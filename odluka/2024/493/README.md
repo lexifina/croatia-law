@@ -8,7 +8,7 @@ Odluka o isplati jednokratnog novƒçanog primanja korisnicima mirovine radi ubla≈
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2024-493` (tags `odluka-2024-493/<day>`; `python tools/on.py <day> odluka-2024-493`).
+Act id: `odluka-2024-493` (tags `odluka-2024-493/<day>`; `python registry/tools/on.py <day> odluka-2024-493`).
 
 ## Status
 

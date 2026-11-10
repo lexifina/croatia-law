@@ -8,7 +8,7 @@ Zakon o dopuni Zakona o mjerama naplate poreznog duga uzrokovanoga gospodarskom 
 | čl. 2 | [clanak-002.md](clanak-002.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2012-1838` (tags `zakon-2012-1838/<day>`; `python tools/on.py <day> zakon-2012-1838`).
+Act id: `zakon-2012-1838` (tags `zakon-2012-1838/<day>`; `python registry/tools/on.py <day> zakon-2012-1838`).
 
 ## Decisions made by hand
 

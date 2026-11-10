@@ -8,7 +8,7 @@ Odluka o dopuni Odluke o privremenoj zabrani prelaska preko graničnih prijelaza
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2020-1280` (tags `odluka-2020-1280/<day>`; `python tools/on.py <day> odluka-2020-1280`).
+Act id: `odluka-2020-1280` (tags `odluka-2020-1280/<day>`; `python registry/tools/on.py <day> odluka-2020-1280`).
 
 ## Status
 

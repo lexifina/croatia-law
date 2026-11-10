@@ -15,7 +15,7 @@ Zakon o izmjenama i dopuni Zakona o Hrvatskoj agenciji za nadzor financijskih us
 | čl. 9 | [clanak-009.md](clanak-009.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2012-333` (tags `zakon-2012-333/<day>`; `python tools/on.py <day> zakon-2012-333`).
+Act id: `zakon-2012-333` (tags `zakon-2012-333/<day>`; `python registry/tools/on.py <day> zakon-2012-333`).
 
 ## Decisions made by hand
 

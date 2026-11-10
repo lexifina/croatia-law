@@ -8,7 +8,7 @@ Odluka o uvođenju nužnih epidemioloških mjera za područje Općine Vrbnik · 
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2020-2478` (tags `odluka-2020-2478/<day>`; `python tools/on.py <day> odluka-2020-2478`).
+Act id: `odluka-2020-2478` (tags `odluka-2020-2478/<day>`; `python registry/tools/on.py <day> odluka-2020-2478`).
 
 ## Decisions made by hand
 

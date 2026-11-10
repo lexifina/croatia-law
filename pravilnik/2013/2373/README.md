@@ -10,7 +10,7 @@ Pravilnik o izmjenama Pravilnika o načinu izračuna kapitala, jamstvenog kapita
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2013-2373` (tags `pravilnik-2013-2373/<day>`; `python tools/on.py <day> pravilnik-2013-2373`).
+Act id: `pravilnik-2013-2373` (tags `pravilnik-2013-2373/<day>`; `python registry/tools/on.py <day> pravilnik-2013-2373`).
 
 ## Decisions made by hand
 

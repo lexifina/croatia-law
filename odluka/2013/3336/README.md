@@ -8,7 +8,7 @@ Odluka o otkazivanju Kolektivnog ugovora za zaposlenike u srednjoškolskim ustan
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2013-3336` (tags `odluka-2013-3336/<day>`; `python tools/on.py <day> odluka-2013-3336`).
+Act id: `odluka-2013-3336` (tags `odluka-2013-3336/<day>`; `python registry/tools/on.py <day> odluka-2013-3336`).
 
 ## Decisions made by hand
 

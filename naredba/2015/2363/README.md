@@ -13,7 +13,7 @@ Naredba o visini naknade za obrasce, isprave i knjige koje izdaju Ministarstvo i
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `naredba-2015-2363` (tags `naredba-2015-2363/<day>`; `python tools/on.py <day> naredba-2015-2363`).
+Act id: `naredba-2015-2363` (tags `naredba-2015-2363/<day>`; `python registry/tools/on.py <day> naredba-2015-2363`).
 
 ## Status
 

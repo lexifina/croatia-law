@@ -10,7 +10,7 @@ Odluka o visini poreznih stopa poreza na dohodak Općine Gračišće · 1 versio
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2023-1913` (tags `odluka-2023-1913/<day>`; `python tools/on.py <day> odluka-2023-1913`).
+Act id: `odluka-2023-1913` (tags `odluka-2023-1913/<day>`; `python registry/tools/on.py <day> odluka-2023-1913`).
 
 ## Decisions made by hand
 

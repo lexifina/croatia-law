@@ -9,7 +9,7 @@ Odluka o davanju suglasnosti na Financijski plan Hrvatskih cesta za 2017. godinu
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2016-2601` (tags `odluka-2016-2601/<day>`; `python tools/on.py <day> odluka-2016-2601`).
+Act id: `odluka-2016-2601` (tags `odluka-2016-2601/<day>`; `python registry/tools/on.py <day> odluka-2016-2601`).
 
 ## Decisions made by hand
 

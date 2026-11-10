@@ -9,7 +9,7 @@ Pravilnik o izmjeni Pravilnika o radu u sustavu eSpis · 1 versions, from 2020-0
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2020-824` (tags `pravilnik-2020-824/<day>`; `python tools/on.py <day> pravilnik-2020-824`).
+Act id: `pravilnik-2020-824` (tags `pravilnik-2020-824/<day>`; `python registry/tools/on.py <day> pravilnik-2020-824`).
 
 ## Decisions made by hand
 

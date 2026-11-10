@@ -8,7 +8,7 @@ Odluka o otvaranju računa za donacije financijskih sredstava u akciji »Pomoć 
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2020-2844` (tags `odluka-2020-2844/<day>`; `python tools/on.py <day> odluka-2020-2844`).
+Act id: `odluka-2020-2844` (tags `odluka-2020-2844/<day>`; `python registry/tools/on.py <day> odluka-2020-2844`).
 
 ## Decisions made by hand
 

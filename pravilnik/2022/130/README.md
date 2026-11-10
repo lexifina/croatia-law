@@ -25,7 +25,7 @@ Pravilnik o posebnim uvjetima koje moraju ispunjavati zaposleni u turističkim z
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2022-130` (tags `pravilnik-2022-130/<day>`; `python tools/on.py <day> pravilnik-2022-130`).
+Act id: `pravilnik-2022-130` (tags `pravilnik-2022-130/<day>`; `python registry/tools/on.py <day> pravilnik-2022-130`).
 
 ## Decisions made by hand
 

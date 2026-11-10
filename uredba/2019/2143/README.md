@@ -12,7 +12,7 @@ Uredba o izmjenama i dopuni Uredbe o tehničkim standardima zaštite okoliša za
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2019-2143` (tags `uredba-2019-2143/<day>`; `python tools/on.py <day> uredba-2019-2143`).
+Act id: `uredba-2019-2143` (tags `uredba-2019-2143/<day>`; `python registry/tools/on.py <day> uredba-2019-2143`).
 
 ## Decisions made by hand
 

@@ -19,7 +19,7 @@ Zakon o izmjenama i dopunama Kaznenog zakona · 1 versions, from 2017-10-20 (lat
 | čl. 13 | [clanak-013.md](clanak-013.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2017-2322` (tags `zakon-2017-2322/<day>`; `python tools/on.py <day> zakon-2017-2322`).
+Act id: `zakon-2017-2322` (tags `zakon-2017-2322/<day>`; `python registry/tools/on.py <day> zakon-2017-2322`).
 
 ## Decisions made by hand
 

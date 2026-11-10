@@ -8,7 +8,7 @@ Odluka o izmjeni Odluke o uvođenju posebne sigurnosne mjere koju su zdravstvene
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2021-1897` (tags `odluka-2021-1897/<day>`; `python tools/on.py <day> odluka-2021-1897`).
+Act id: `odluka-2021-1897` (tags `odluka-2021-1897/<day>`; `python registry/tools/on.py <day> odluka-2021-1897`).
 
 ## Decisions made by hand
 

@@ -18,7 +18,7 @@ Odluka o naknadi za razvoj trgovačkog društva Istarski vodovod d.o.o., Buzet �
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2024-1208` (tags `odluka-2024-1208/<day>`; `python tools/on.py <day> odluka-2024-1208`).
+Act id: `odluka-2024-1208` (tags `odluka-2024-1208/<day>`; `python registry/tools/on.py <day> odluka-2024-1208`).
 
 ## Decisions made by hand
 

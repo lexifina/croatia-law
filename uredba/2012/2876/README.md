@@ -15,7 +15,7 @@ Uredba o Carinskoj tarifi za 2013. godinu · 1 versions, from 2013-01-01 (latest
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2012-2876` (tags `uredba-2012-2876/<day>`; `python tools/on.py <day> uredba-2012-2876`).
+Act id: `uredba-2012-2876` (tags `uredba-2012-2876/<day>`; `python registry/tools/on.py <day> uredba-2012-2876`).
 
 ## Status
 

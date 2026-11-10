@@ -9,7 +9,7 @@ Odluka o davanju suglasnosti na Privremeni financijski plan Fonda za zaštitu ok
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2015-2118` (tags `odluka-2015-2118/<day>`; `python tools/on.py <day> odluka-2015-2118`).
+Act id: `odluka-2015-2118` (tags `odluka-2015-2118/<day>`; `python registry/tools/on.py <day> odluka-2015-2118`).
 
 ## Decisions made by hand
 

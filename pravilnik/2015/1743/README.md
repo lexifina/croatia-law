@@ -27,7 +27,7 @@ Pravilnik o postupku izbora predstavnika radnika iz Republike Hrvatske u pregova
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2015-1743` (tags `pravilnik-2015-1743/<day>`; `python tools/on.py <day> pravilnik-2015-1743`).
+Act id: `pravilnik-2015-1743` (tags `pravilnik-2015-1743/<day>`; `python registry/tools/on.py <day> pravilnik-2015-1743`).
 
 ## Status
 

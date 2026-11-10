@@ -14,7 +14,7 @@ Pravilnik o izmjenama Pravilnika o obveznom oznaÄavanju i registraciji goveda Â
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2012-933` (tags `pravilnik-2012-933/<day>`; `python tools/on.py <day> pravilnik-2012-933`).
+Act id: `pravilnik-2012-933` (tags `pravilnik-2012-933/<day>`; `python registry/tools/on.py <day> pravilnik-2012-933`).
 
 ## Decisions made by hand
 

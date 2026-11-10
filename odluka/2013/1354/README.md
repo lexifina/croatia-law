@@ -8,7 +8,7 @@ Odluka o osnivanju Privremenog ureda Republike Hrvatske u Republici Litvi, sa sj
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2013-1354` (tags `odluka-2013-1354/<day>`; `python tools/on.py <day> odluka-2013-1354`).
+Act id: `odluka-2013-1354` (tags `odluka-2013-1354/<day>`; `python registry/tools/on.py <day> odluka-2013-1354`).
 
 ## Decisions made by hand
 

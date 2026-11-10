@@ -8,7 +8,7 @@ Odluka o pokretanju postupka za određivanje sjedišta Ureda predsjednice Republ
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2015-738` (tags `odluka-2015-738/<day>`; `python tools/on.py <day> odluka-2015-738`).
+Act id: `odluka-2015-738` (tags `odluka-2015-738/<day>`; `python registry/tools/on.py <day> odluka-2015-738`).
 
 ## Decisions made by hand
 

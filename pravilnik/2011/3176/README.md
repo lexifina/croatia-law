@@ -21,7 +21,7 @@ Pravilnik o registraciji primarnih proizvođača hrane za životinje · 1 versio
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2011-3176` (tags `pravilnik-2011-3176/<day>`; `python tools/on.py <day> pravilnik-2011-3176`).
+Act id: `pravilnik-2011-3176` (tags `pravilnik-2011-3176/<day>`; `python registry/tools/on.py <day> pravilnik-2011-3176`).
 
 ## Status
 

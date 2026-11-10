@@ -8,7 +8,7 @@ Odluka o izmjeni Odluke o izmjenama naknada u sustavima gospodarenja otpadnim vo
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2020-1150` (tags `odluka-2020-1150/<day>`; `python tools/on.py <day> odluka-2020-1150`).
+Act id: `odluka-2020-1150` (tags `odluka-2020-1150/<day>`; `python registry/tools/on.py <day> odluka-2020-1150`).
 
 ## Decisions made by hand
 

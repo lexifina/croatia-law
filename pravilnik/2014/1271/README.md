@@ -17,7 +17,7 @@ Pravilnik o podacima koje su izdavatelji čiji su vrijednosni papiri uvršteni n
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2014-1271` (tags `pravilnik-2014-1271/<day>`; `python tools/on.py <day> pravilnik-2014-1271`).
+Act id: `pravilnik-2014-1271` (tags `pravilnik-2014-1271/<day>`; `python registry/tools/on.py <day> pravilnik-2014-1271`).
 
 ## Status
 

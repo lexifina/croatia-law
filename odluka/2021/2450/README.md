@@ -8,7 +8,7 @@ Odluka o iznosu državnih poticajnih sredstava za stambenu štednju prikupljenu 
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2021-2450` (tags `odluka-2021-2450/<day>`; `python tools/on.py <day> odluka-2021-2450`).
+Act id: `odluka-2021-2450` (tags `odluka-2021-2450/<day>`; `python registry/tools/on.py <day> odluka-2021-2450`).
 
 ## Decisions made by hand
 

@@ -5,7 +5,7 @@ Pravilnik o načinu rada Odbora za standarde financijskog izvještavanja · 2 ve
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `pravilnik-2016-4` (tags `pravilnik-2016-4/<day>`; `python tools/on.py <day> pravilnik-2016-4`).
+Act id: `pravilnik-2016-4` (tags `pravilnik-2016-4/<day>`; `python registry/tools/on.py <day> pravilnik-2016-4`).
 
 ## Decisions made by hand
 

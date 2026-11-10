@@ -33,7 +33,7 @@ Pravilnik o provedbi mjere IV.4. »Prerada proizvoda ribarstva i akvakulture« �
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2023-1834` (tags `pravilnik-2023-1834/<day>`; `python tools/on.py <day> pravilnik-2023-1834`).
+Act id: `pravilnik-2023-1834` (tags `pravilnik-2023-1834/<day>`; `python registry/tools/on.py <day> pravilnik-2023-1834`).
 
 ## Status
 

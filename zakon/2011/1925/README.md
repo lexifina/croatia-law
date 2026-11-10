@@ -14,7 +14,7 @@ Zakon o izmjenama i dopunama Zakona o prikupljanju podataka po osiguranicima o d
 | čl. 8 | [clanak-008.md](clanak-008.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2011-1925` (tags `zakon-2011-1925/<day>`; `python tools/on.py <day> zakon-2011-1925`).
+Act id: `zakon-2011-1925` (tags `zakon-2011-1925/<day>`; `python registry/tools/on.py <day> zakon-2011-1925`).
 
 ## Decisions made by hand
 

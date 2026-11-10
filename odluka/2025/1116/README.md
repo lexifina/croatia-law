@@ -8,7 +8,7 @@ Odluku o donošenju Politike otvorenih podataka · 1 versions, from 2025-05-27 (
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2025-1116` (tags `odluka-2025-1116/<day>`; `python tools/on.py <day> odluka-2025-1116`).
+Act id: `odluka-2025-1116` (tags `odluka-2025-1116/<day>`; `python registry/tools/on.py <day> odluka-2025-1116`).
 
 ## Decisions made by hand
 

@@ -13,7 +13,7 @@ Uredba o izmjenama Uredbe o osnivanju Javne ustanove »Park prirode Lonjsko polj
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2025-997` (tags `uredba-2025-997/<day>`; `python tools/on.py <day> uredba-2025-997`).
+Act id: `uredba-2025-997` (tags `uredba-2025-997/<day>`; `python registry/tools/on.py <day> uredba-2025-997`).
 
 ## Decisions made by hand
 

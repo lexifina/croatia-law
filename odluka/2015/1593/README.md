@@ -8,7 +8,7 @@ Odluka o pokretanju projekta konsolidacije upravljanja postojećim radiokomunika
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2015-1593` (tags `odluka-2015-1593/<day>`; `python tools/on.py <day> odluka-2015-1593`).
+Act id: `odluka-2015-1593` (tags `odluka-2015-1593/<day>`; `python registry/tools/on.py <day> odluka-2015-1593`).
 
 ## Decisions made by hand
 

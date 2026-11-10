@@ -8,7 +8,7 @@ Zakon o prestanku važenja Zakona o javnoovršiteljskim pristojbama · 1 version
 | čl. 2 | [clanak-002.md](clanak-002.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2012-2424` (tags `zakon-2012-2424/<day>`; `python tools/on.py <day> zakon-2012-2424`).
+Act id: `zakon-2012-2424` (tags `zakon-2012-2424/<day>`; `python registry/tools/on.py <day> zakon-2012-2424`).
 
 ## Decisions made by hand
 

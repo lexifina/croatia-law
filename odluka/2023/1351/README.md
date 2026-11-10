@@ -8,7 +8,7 @@ Odluka o isplati dodatka na plaću državnim službenicima i namještenicima u p
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2023-1351` (tags `odluka-2023-1351/<day>`; `python tools/on.py <day> odluka-2023-1351`).
+Act id: `odluka-2023-1351` (tags `odluka-2023-1351/<day>`; `python registry/tools/on.py <day> odluka-2023-1351`).
 
 ## Decisions made by hand
 

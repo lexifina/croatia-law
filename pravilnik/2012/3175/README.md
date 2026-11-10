@@ -11,7 +11,7 @@ Pravilnik o izmjenama i dopunama Pravilnika o standardima i normativima prava na
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2012-3175` (tags `pravilnik-2012-3175/<day>`; `python tools/on.py <day> pravilnik-2012-3175`).
+Act id: `pravilnik-2012-3175` (tags `pravilnik-2012-3175/<day>`; `python registry/tools/on.py <day> pravilnik-2012-3175`).
 
 ## Decisions made by hand
 

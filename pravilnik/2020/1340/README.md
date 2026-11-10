@@ -13,7 +13,7 @@ Pravilnik o izmjeni i dopunama Pravilnika o provedbi Programa potpore za proizvo
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2020-1340` (tags `pravilnik-2020-1340/<day>`; `python tools/on.py <day> pravilnik-2020-1340`).
+Act id: `pravilnik-2020-1340` (tags `pravilnik-2020-1340/<day>`; `python registry/tools/on.py <day> pravilnik-2020-1340`).
 
 ## Decisions made by hand
 

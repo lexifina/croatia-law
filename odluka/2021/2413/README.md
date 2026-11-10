@@ -5,7 +5,7 @@ Odluka o cjeniku nestandardnih usluga operatora sustava skladišta plina · 2 ve
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `odluka-2021-2413` (tags `odluka-2021-2413/<day>`; `python tools/on.py <day> odluka-2021-2413`).
+Act id: `odluka-2021-2413` (tags `odluka-2021-2413/<day>`; `python registry/tools/on.py <day> odluka-2021-2413`).
 
 ## Decisions made by hand
 

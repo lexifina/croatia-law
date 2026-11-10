@@ -9,7 +9,7 @@ Odluka o donošenju standarda kvalifikacije za stjecanje kvalifikacije ekonomist
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2017-2038` (tags `odluka-2017-2038/<day>`; `python tools/on.py <day> odluka-2017-2038`).
+Act id: `odluka-2017-2038` (tags `odluka-2017-2038/<day>`; `python registry/tools/on.py <day> odluka-2017-2038`).
 
 ## Decisions made by hand
 

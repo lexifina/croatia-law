@@ -24,7 +24,7 @@ Uredba o izmjenama i dopunama Zakona o financijskom poslovanju i predstečajnoj 
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2013-2444` (tags `uredba-2013-2444/<day>`; `python tools/on.py <day> uredba-2013-2444`).
+Act id: `uredba-2013-2444` (tags `uredba-2013-2444/<day>`; `python registry/tools/on.py <day> uredba-2013-2444`).
 
 ## Decisions made by hand
 

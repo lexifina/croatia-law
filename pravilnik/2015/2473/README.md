@@ -186,7 +186,7 @@ Pravilnik o trošarinama · 1 versions, from 2015-12-10 (latest in force: 2015-1
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2015-2473` (tags `pravilnik-2015-2473/<day>`; `python tools/on.py <day> pravilnik-2015-2473`).
+Act id: `pravilnik-2015-2473` (tags `pravilnik-2015-2473/<day>`; `python registry/tools/on.py <day> pravilnik-2015-2473`).
 
 ## Status
 

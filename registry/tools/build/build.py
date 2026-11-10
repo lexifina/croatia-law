@@ -666,7 +666,7 @@ def tables(c: dict, log: list[dict]) -> dict[str, str]:
                 '| Provision | File | Changes | Last changed |', '| --- | --- | ---: | --- |']
         for k in sorted(units):
             rows.append(f'| {units[k]["label"]} | [{k}.md]({k}.md) | {counts.get(k, 0)} | {last.get(k, "")} |')
-        rows += ['', f'Act id: `{a["slug"]}` (tags `{a["slug"]}/<day>`; `python tools/on.py <day> {a["slug"]}`).']
+        rows += ['', f'Act id: `{a["slug"]}` (tags `{a["slug"]}/<day>`; `python {os.environ.get("GITLAW_DOCS_PREFIX", "")}tools/on.py <day> {a["slug"]}`).']
         # 2026-11-10: a label the country's parser sets ("amended, not consolidated", "repealed, not consolidated",
         # "cited later, not consolidated") and the acts behind it, as in data/acts.json. Acts without one: unchanged.
         if a.get('label'):

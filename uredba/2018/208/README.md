@@ -136,7 +136,7 @@ Uredba o unutarnjem ustrojstvu Ministarstva zaštite okoliša i energetike · 1 
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2018-208` (tags `uredba-2018-208/<day>`; `python tools/on.py <day> uredba-2018-208`).
+Act id: `uredba-2018-208` (tags `uredba-2018-208/<day>`; `python registry/tools/on.py <day> uredba-2018-208`).
 
 ## Status
 

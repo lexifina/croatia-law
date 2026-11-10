@@ -16,7 +16,7 @@ Zakon o izmjenama i dopunama Zakona o trošarinama · 1 versions, from 2012-10-1
 | čl. 10 | [clanak-010.md](clanak-010.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2012-2393` (tags `zakon-2012-2393/<day>`; `python tools/on.py <day> zakon-2012-2393`).
+Act id: `zakon-2012-2393` (tags `zakon-2012-2393/<day>`; `python registry/tools/on.py <day> zakon-2012-2393`).
 
 ## Status
 

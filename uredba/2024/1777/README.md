@@ -19,7 +19,7 @@ Uredba o procjeni ekološkog rizika i rizika invazivnosti stranih vrsta · 1 ver
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2024-1777` (tags `uredba-2024-1777/<day>`; `python tools/on.py <day> uredba-2024-1777`).
+Act id: `uredba-2024-1777` (tags `uredba-2024-1777/<day>`; `python registry/tools/on.py <day> uredba-2024-1777`).
 
 ## Decisions made by hand
 

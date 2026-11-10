@@ -24,7 +24,7 @@ Pravilnik o provedbi Programa potpore uzgajivačima stoke zbog posljedica izbija
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2025-2078` (tags `pravilnik-2025-2078/<day>`; `python tools/on.py <day> pravilnik-2025-2078`).
+Act id: `pravilnik-2025-2078` (tags `pravilnik-2025-2078/<day>`; `python registry/tools/on.py <day> pravilnik-2025-2078`).
 
 ## Decisions made by hand
 

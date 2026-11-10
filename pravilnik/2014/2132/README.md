@@ -11,7 +11,7 @@ Pravilnik o izmjenama Pravilnika o tehničkim pregledima vozila · 1 versions, f
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2014-2132` (tags `pravilnik-2014-2132/<day>`; `python tools/on.py <day> pravilnik-2014-2132`).
+Act id: `pravilnik-2014-2132` (tags `pravilnik-2014-2132/<day>`; `python registry/tools/on.py <day> pravilnik-2014-2132`).
 
 ## Decisions made by hand
 

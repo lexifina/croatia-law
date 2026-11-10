@@ -51,7 +51,7 @@ Pravilnik o pravima, uvjetima i načinu korištenja prekogranične zdravstvene z
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2013-3360` (tags `pravilnik-2013-3360/<day>`; `python tools/on.py <day> pravilnik-2013-3360`).
+Act id: `pravilnik-2013-3360` (tags `pravilnik-2013-3360/<day>`; `python registry/tools/on.py <day> pravilnik-2013-3360`).
 
 ## Status
 

@@ -21,7 +21,7 @@ Pravilnik o stručnom obrazovanju vježbenika u pravosudnim tijelima · 1 versio
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2020-823` (tags `pravilnik-2020-823/<day>`; `python tools/on.py <day> pravilnik-2020-823`).
+Act id: `pravilnik-2020-823` (tags `pravilnik-2020-823/<day>`; `python registry/tools/on.py <day> pravilnik-2020-823`).
 
 ## Decisions made by hand
 

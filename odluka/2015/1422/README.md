@@ -5,7 +5,7 @@ Odluka o osnivanju Savjeta za suzbijanje korupcije · 2 versions, from 2015-07-0
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `odluka-2015-1422` (tags `odluka-2015-1422/<day>`; `python tools/on.py <day> odluka-2015-1422`).
+Act id: `odluka-2015-1422` (tags `odluka-2015-1422/<day>`; `python registry/tools/on.py <day> odluka-2015-1422`).
 
 ## Decisions made by hand
 

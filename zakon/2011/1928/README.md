@@ -14,7 +14,7 @@ Zakon o izmjenama i dopunama Zakona o kreditnim unijama · 1 versions, from 2011
 | čl. 8 | [clanak-008.md](clanak-008.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2011-1928` (tags `zakon-2011-1928/<day>`; `python tools/on.py <day> zakon-2011-1928`).
+Act id: `zakon-2011-1928` (tags `zakon-2011-1928/<day>`; `python registry/tools/on.py <day> zakon-2011-1928`).
 
 ## Decisions made by hand
 

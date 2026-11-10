@@ -8,7 +8,7 @@ Odluka o izmjeni Odluke o načinu održavanja pogreba i posljednjih ispraćaja �
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2020-1265` (tags `odluka-2020-1265/<day>`; `python tools/on.py <day> odluka-2020-1265`).
+Act id: `odluka-2020-1265` (tags `odluka-2020-1265/<day>`; `python registry/tools/on.py <day> odluka-2020-1265`).
 
 ## Decisions made by hand
 

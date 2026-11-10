@@ -21,7 +21,7 @@ Pravilnik o načinu vođenja i sadržaju Upisnika i evidencije o prometu pokretn
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2025-747` (tags `pravilnik-2025-747/<day>`; `python tools/on.py <day> pravilnik-2025-747`).
+Act id: `pravilnik-2025-747` (tags `pravilnik-2025-747/<day>`; `python registry/tools/on.py <day> pravilnik-2025-747`).
 
 ## Decisions made by hand
 

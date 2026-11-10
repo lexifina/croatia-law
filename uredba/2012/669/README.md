@@ -118,7 +118,7 @@ Uredba o unutarnjem ustrojstvu Ministarstva regionalnog razvoja i fondova Europs
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2012-669` (tags `uredba-2012-669/<day>`; `python tools/on.py <day> uredba-2012-669`).
+Act id: `uredba-2012-669` (tags `uredba-2012-669/<day>`; `python registry/tools/on.py <day> uredba-2012-669`).
 
 ## Status
 

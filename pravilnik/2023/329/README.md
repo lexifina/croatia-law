@@ -26,7 +26,7 @@ Pravilnik o evidencijama u arhivima · 1 versions, from 2023-02-25 (latest in fo
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2023-329` (tags `pravilnik-2023-329/<day>`; `python tools/on.py <day> pravilnik-2023-329`).
+Act id: `pravilnik-2023-329` (tags `pravilnik-2023-329/<day>`; `python registry/tools/on.py <day> pravilnik-2023-329`).
 
 ## Decisions made by hand
 

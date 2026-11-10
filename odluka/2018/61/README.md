@@ -8,7 +8,7 @@ Odluka o izmjeni Odluke o utvrđivanju popisa trgovačkih društava i drugih pra
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2018-61` (tags `odluka-2018-61/<day>`; `python tools/on.py <day> odluka-2018-61`).
+Act id: `odluka-2018-61` (tags `odluka-2018-61/<day>`; `python registry/tools/on.py <day> odluka-2018-61`).
 
 ## Decisions made by hand
 

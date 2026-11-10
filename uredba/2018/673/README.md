@@ -5,7 +5,7 @@ Uredba o na훾inu izra훾una i visini sredstava za uzdr탑avanje dr탑avljanina tre�
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `uredba-2018-673` (tags `uredba-2018-673/<day>`; `python tools/on.py <day> uredba-2018-673`).
+Act id: `uredba-2018-673` (tags `uredba-2018-673/<day>`; `python registry/tools/on.py <day> uredba-2018-673`).
 
 ## Decisions made by hand
 

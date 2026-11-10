@@ -8,7 +8,7 @@ Odluka o cjeniku nestandardnih usluga operatora transportnog sustava · 1 versio
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2025-2307` (tags `odluka-2025-2307/<day>`; `python tools/on.py <day> odluka-2025-2307`).
+Act id: `odluka-2025-2307` (tags `odluka-2025-2307/<day>`; `python registry/tools/on.py <day> odluka-2025-2307`).
 
 ## Decisions made by hand
 

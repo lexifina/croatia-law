@@ -11,7 +11,7 @@ Uredba o izmjeni Zakona o stambenoj štednji i državnom poticanju stambene šte
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2014-2822` (tags `uredba-2014-2822/<day>`; `python tools/on.py <day> uredba-2014-2822`).
+Act id: `uredba-2014-2822` (tags `uredba-2014-2822/<day>`; `python registry/tools/on.py <day> uredba-2014-2822`).
 
 ## Status
 

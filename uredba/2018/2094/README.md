@@ -11,7 +11,7 @@ Uredba o prestanku važenja Uredbe o osnivanju Agencije za regionalni razvoj Rep
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2018-2094` (tags `uredba-2018-2094/<day>`; `python tools/on.py <day> uredba-2018-2094`).
+Act id: `uredba-2018-2094` (tags `uredba-2018-2094/<day>`; `python registry/tools/on.py <day> uredba-2018-2094`).
 
 ## Decisions made by hand
 

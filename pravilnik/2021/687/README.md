@@ -13,7 +13,7 @@ Pravilnik o izmjenama Pravilnika o davanju odobrenja za stavljanje lijeka u prom
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2021-687` (tags `pravilnik-2021-687/<day>`; `python tools/on.py <day> pravilnik-2021-687`).
+Act id: `pravilnik-2021-687` (tags `pravilnik-2021-687/<day>`; `python registry/tools/on.py <day> pravilnik-2021-687`).
 
 ## Decisions made by hand
 

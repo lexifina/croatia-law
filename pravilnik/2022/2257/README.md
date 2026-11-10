@@ -15,7 +15,7 @@ Pravilnik o provedbi Programa potpore poljoprivrednim proizvođačima za ublaža
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2022-2257` (tags `pravilnik-2022-2257/<day>`; `python tools/on.py <day> pravilnik-2022-2257`).
+Act id: `pravilnik-2022-2257` (tags `pravilnik-2022-2257/<day>`; `python registry/tools/on.py <day> pravilnik-2022-2257`).
 
 ## Decisions made by hand
 

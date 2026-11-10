@@ -15,7 +15,7 @@ Pravilnik o detaljnim pravilima i kriterijima poštivanja osobne okolnosti spola
 | čl. 9 | [clanak-009.md](clanak-009.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `pravilnik-2016-261` (tags `pravilnik-2016-261/<day>`; `python tools/on.py <day> pravilnik-2016-261`).
+Act id: `pravilnik-2016-261` (tags `pravilnik-2016-261/<day>`; `python registry/tools/on.py <day> pravilnik-2016-261`).
 
 ## Decisions made by hand
 

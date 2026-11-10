@@ -9,7 +9,7 @@ Uredba o izmjeni Uredbe o Hrvatskom viznom informacijskom sustavu · 1 versions,
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2017-2403` (tags `uredba-2017-2403/<day>`; `python tools/on.py <day> uredba-2017-2403`).
+Act id: `uredba-2017-2403` (tags `uredba-2017-2403/<day>`; `python registry/tools/on.py <day> uredba-2017-2403`).
 
 ## Decisions made by hand
 

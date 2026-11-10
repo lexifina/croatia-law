@@ -23,7 +23,7 @@ Pravilnik o obavljanju poslova faktoringa faktoring društava iz drugih država 
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2015-1141` (tags `pravilnik-2015-1141/<day>`; `python tools/on.py <day> pravilnik-2015-1141`).
+Act id: `pravilnik-2015-1141` (tags `pravilnik-2015-1141/<day>`; `python registry/tools/on.py <day> pravilnik-2015-1141`).
 
 ## Status
 

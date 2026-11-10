@@ -5,7 +5,7 @@ Pravilnik o uvjetima za stjecanje i provjeru stručnih znanja potrebnih za obavl
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `pravilnik-2020-1344` (tags `pravilnik-2020-1344/<day>`; `python tools/on.py <day> pravilnik-2020-1344`).
+Act id: `pravilnik-2020-1344` (tags `pravilnik-2020-1344/<day>`; `python registry/tools/on.py <day> pravilnik-2020-1344`).
 
 ## Decisions made by hand
 

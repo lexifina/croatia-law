@@ -8,7 +8,7 @@ Odluka o sudjelovanju Republike Hrvatske u sedmom povećanju upisanog kapitala R
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2023-1357` (tags `odluka-2023-1357/<day>`; `python tools/on.py <day> odluka-2023-1357`).
+Act id: `odluka-2023-1357` (tags `odluka-2023-1357/<day>`; `python registry/tools/on.py <day> odluka-2023-1357`).
 
 ## Decisions made by hand
 

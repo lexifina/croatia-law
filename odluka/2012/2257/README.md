@@ -14,7 +14,7 @@ Odluka o prirezu poreza na dohodak Općine Čepin · 1 versions, from 2012-09-20
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2012-2257` (tags `odluka-2012-2257/<day>`; `python tools/on.py <day> odluka-2012-2257`).
+Act id: `odluka-2012-2257` (tags `odluka-2012-2257/<day>`; `python registry/tools/on.py <day> odluka-2012-2257`).
 
 ## Status
 

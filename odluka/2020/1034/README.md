@@ -8,7 +8,7 @@ Odluka o rasporedu sredstava koja se u Državnom proračunu Republike Hrvatske o
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2020-1034` (tags `odluka-2020-1034/<day>`; `python tools/on.py <day> odluka-2020-1034`).
+Act id: `odluka-2020-1034` (tags `odluka-2020-1034/<day>`; `python registry/tools/on.py <day> odluka-2020-1034`).
 
 ## Decisions made by hand
 

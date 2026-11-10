@@ -22,7 +22,7 @@ Zakon o izmjenama i dopunama Zakona o obveznim i stvarnopravnim odnosima u zrač
 | čl. 16 | [clanak-016.md](clanak-016.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2013-2128` (tags `zakon-2013-2128/<day>`; `python tools/on.py <day> zakon-2013-2128`).
+Act id: `zakon-2013-2128` (tags `zakon-2013-2128/<day>`; `python registry/tools/on.py <day> zakon-2013-2128`).
 
 ## Decisions made by hand
 

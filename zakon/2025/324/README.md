@@ -11,7 +11,7 @@ Zakon o izmjenama Zakona o institucionalnom okviru za korištenje fondova Europs
 | čl. 5 | [clanak-005.md](clanak-005.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2025-324` (tags `zakon-2025-324/<day>`; `python tools/on.py <day> zakon-2025-324`).
+Act id: `zakon-2025-324` (tags `zakon-2025-324/<day>`; `python registry/tools/on.py <day> zakon-2025-324`).
 
 ## Decisions made by hand
 

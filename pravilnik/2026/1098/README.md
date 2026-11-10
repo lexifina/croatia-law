@@ -34,7 +34,7 @@ Pravilnik o funkciji usklađenosti u pravnim osobama u vlasništvu Republike Hrv
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2026-1098` (tags `pravilnik-2026-1098/<day>`; `python tools/on.py <day> pravilnik-2026-1098`).
+Act id: `pravilnik-2026-1098` (tags `pravilnik-2026-1098/<day>`; `python registry/tools/on.py <day> pravilnik-2026-1098`).
 
 ## Decisions made by hand
 

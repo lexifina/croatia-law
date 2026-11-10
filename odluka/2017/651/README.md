@@ -8,7 +8,7 @@ Odluka o katastarskoj izmjeri na području Općine Lekenik za dio katastarske op
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2017-651` (tags `odluka-2017-651/<day>`; `python tools/on.py <day> odluka-2017-651`).
+Act id: `odluka-2017-651` (tags `odluka-2017-651/<day>`; `python registry/tools/on.py <day> odluka-2017-651`).
 
 ## Decisions made by hand
 

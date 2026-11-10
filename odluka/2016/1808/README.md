@@ -10,7 +10,7 @@ Odluka o najnižoj mirovini za jednu godinu mirovinskog staža od 1. srpnja 2016
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2016-1808` (tags `odluka-2016-1808/<day>`; `python tools/on.py <day> odluka-2016-1808`).
+Act id: `odluka-2016-1808` (tags `odluka-2016-1808/<day>`; `python registry/tools/on.py <day> odluka-2016-1808`).
 
 ## Decisions made by hand
 

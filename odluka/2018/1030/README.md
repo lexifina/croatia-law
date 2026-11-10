@@ -24,7 +24,7 @@ Odluka o lokalnim porezima Općine Vižinada - Visinada · 1 versions, from 2018
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2018-1030` (tags `odluka-2018-1030/<day>`; `python tools/on.py <day> odluka-2018-1030`).
+Act id: `odluka-2018-1030` (tags `odluka-2018-1030/<day>`; `python registry/tools/on.py <day> odluka-2018-1030`).
 
 ## Decisions made by hand
 

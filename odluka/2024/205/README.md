@@ -26,7 +26,7 @@ Odluka o odobrenju za rad pružatelju usluge servisiranja kredita · 1 versions,
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2024-205` (tags `odluka-2024-205/<day>`; `python tools/on.py <day> odluka-2024-205`).
+Act id: `odluka-2024-205` (tags `odluka-2024-205/<day>`; `python registry/tools/on.py <day> odluka-2024-205`).
 
 ## Decisions made by hand
 

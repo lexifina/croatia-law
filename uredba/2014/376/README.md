@@ -20,7 +20,7 @@ Uredba o izmjenama i dopunama Uredbe o uspostavi sustava jamstva podrijetla elek
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2014-376` (tags `uredba-2014-376/<day>`; `python tools/on.py <day> uredba-2014-376`).
+Act id: `uredba-2014-376` (tags `uredba-2014-376/<day>`; `python registry/tools/on.py <day> uredba-2014-376`).
 
 ## Decisions made by hand
 

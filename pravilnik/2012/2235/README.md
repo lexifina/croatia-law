@@ -9,7 +9,7 @@ Pravilnik o izmjenama Pravilnika o popisu pošiljaka koje podliježu veterinarsk
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2012-2235` (tags `pravilnik-2012-2235/<day>`; `python tools/on.py <day> pravilnik-2012-2235`).
+Act id: `pravilnik-2012-2235` (tags `pravilnik-2012-2235/<day>`; `python registry/tools/on.py <day> pravilnik-2012-2235`).
 
 ## Decisions made by hand
 

@@ -5,7 +5,7 @@ Uredba o visini trošarine na alkohol i alkoholna pića · 2 versions, from 2020
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `uredba-2020-716` (tags `uredba-2020-716/<day>`; `python tools/on.py <day> uredba-2020-716`).
+Act id: `uredba-2020-716` (tags `uredba-2020-716/<day>`; `python registry/tools/on.py <day> uredba-2020-716`).
 
 ## Decisions made by hand
 

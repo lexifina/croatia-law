@@ -53,7 +53,7 @@ Zakon o izmjenama i dopunama Zakona o obveznim mirovinskim fondovima · 1 versio
 | čl. 47 | [clanak-047.md](clanak-047.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2018-1308` (tags `zakon-2018-1308/<day>`; `python tools/on.py <day> zakon-2018-1308`).
+Act id: `zakon-2018-1308` (tags `zakon-2018-1308/<day>`; `python registry/tools/on.py <day> zakon-2018-1308`).
 
 ## Decisions made by hand
 

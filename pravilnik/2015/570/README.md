@@ -15,7 +15,7 @@ Pravilnik o izmjenama i dopunama Pravilnika o načinu raspodjele i obračunu tro
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2015-570` (tags `pravilnik-2015-570/<day>`; `python tools/on.py <day> pravilnik-2015-570`).
+Act id: `pravilnik-2015-570` (tags `pravilnik-2015-570/<day>`; `python registry/tools/on.py <day> pravilnik-2015-570`).
 
 ## Decisions made by hand
 

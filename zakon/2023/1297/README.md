@@ -30,7 +30,7 @@ Zakon o izmjenama i dopunama Zakona o rudarstvu · 1 versions, from 2023-07-29 (
 | čl. 24 | [clanak-024.md](clanak-024.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2023-1297` (tags `zakon-2023-1297/<day>`; `python tools/on.py <day> zakon-2023-1297`).
+Act id: `zakon-2023-1297` (tags `zakon-2023-1297/<day>`; `python registry/tools/on.py <day> zakon-2023-1297`).
 
 ## Decisions made by hand
 

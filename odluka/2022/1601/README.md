@@ -8,7 +8,7 @@ Odluka o cjeniku nestandardnih usluga opskrbljivača plinom u obvezi javne uslug
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2022-1601` (tags `odluka-2022-1601/<day>`; `python tools/on.py <day> odluka-2022-1601`).
+Act id: `odluka-2022-1601` (tags `odluka-2022-1601/<day>`; `python registry/tools/on.py <day> odluka-2022-1601`).
 
 ## Decisions made by hand
 

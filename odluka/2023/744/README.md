@@ -8,7 +8,7 @@ Odluka o zatvaranju Konzulata Republike Hrvatske u Japanu, sa sjedištem u Osaki
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2023-744` (tags `odluka-2023-744/<day>`; `python tools/on.py <day> odluka-2023-744`).
+Act id: `odluka-2023-744` (tags `odluka-2023-744/<day>`; `python registry/tools/on.py <day> odluka-2023-744`).
 
 ## Decisions made by hand
 

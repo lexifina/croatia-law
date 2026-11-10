@@ -22,7 +22,7 @@ Pravilnik o provedbi Mjere 4. iz Programa državne potpore sektoru stočarstva z
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2024-802` (tags `pravilnik-2024-802/<day>`; `python tools/on.py <day> pravilnik-2024-802`).
+Act id: `pravilnik-2024-802` (tags `pravilnik-2024-802/<day>`; `python registry/tools/on.py <day> pravilnik-2024-802`).
 
 ## Decisions made by hand
 

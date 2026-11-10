@@ -35,7 +35,7 @@ Odluka o procjeni primjerenosti predsjednika uprave, člana uprave, predsjednika
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2026-363` (tags `odluka-2026-363/<day>`; `python tools/on.py <day> odluka-2026-363`).
+Act id: `odluka-2026-363` (tags `odluka-2026-363/<day>`; `python registry/tools/on.py <day> odluka-2026-363`).
 
 ## Decisions made by hand
 

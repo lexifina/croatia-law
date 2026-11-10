@@ -8,7 +8,7 @@ Odluka o postavljanju generalnog konzula Republike Hrvatske u Bosni i Hercegovin
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2015-2002` (tags `odluka-2015-2002/<day>`; `python tools/on.py <day> odluka-2015-2002`).
+Act id: `odluka-2015-2002` (tags `odluka-2015-2002/<day>`; `python registry/tools/on.py <day> odluka-2015-2002`).
 
 ## Decisions made by hand
 

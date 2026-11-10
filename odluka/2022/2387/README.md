@@ -8,7 +8,7 @@ Odluka o isplati jednokratnog novčanog primanja korisnicima doplatka za djecu r
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2022-2387` (tags `odluka-2022-2387/<day>`; `python tools/on.py <day> odluka-2022-2387`).
+Act id: `odluka-2022-2387` (tags `odluka-2022-2387/<day>`; `python registry/tools/on.py <day> odluka-2022-2387`).
 
 ## Status
 

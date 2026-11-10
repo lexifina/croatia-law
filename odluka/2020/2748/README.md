@@ -17,7 +17,7 @@ Odluka o gradskim porezima Grada Novog Vinodolskog · 1 versions, from 2021-01-0
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2020-2748` (tags `odluka-2020-2748/<day>`; `python tools/on.py <day> odluka-2020-2748`).
+Act id: `odluka-2020-2748` (tags `odluka-2020-2748/<day>`; `python registry/tools/on.py <day> odluka-2020-2748`).
 
 ## Status
 

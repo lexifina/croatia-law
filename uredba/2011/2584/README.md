@@ -11,7 +11,7 @@ Uredba o utvrđivanju radnih mjesta u Ministarstvu unutarnjih poslova koja se po
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2011-2584` (tags `uredba-2011-2584/<day>`; `python tools/on.py <day> uredba-2011-2584`).
+Act id: `uredba-2011-2584` (tags `uredba-2011-2584/<day>`; `python registry/tools/on.py <day> uredba-2011-2584`).
 
 ## Status
 

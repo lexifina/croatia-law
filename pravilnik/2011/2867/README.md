@@ -20,7 +20,7 @@ Pravilnik o pivu · 1 versions, from 2011-12-17 (latest in force: 2011-12-17) ·
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2011-2867` (tags `pravilnik-2011-2867/<day>`; `python tools/on.py <day> pravilnik-2011-2867`).
+Act id: `pravilnik-2011-2867` (tags `pravilnik-2011-2867/<day>`; `python registry/tools/on.py <day> pravilnik-2011-2867`).
 
 ## Status
 

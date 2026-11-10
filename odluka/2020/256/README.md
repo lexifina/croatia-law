@@ -18,7 +18,7 @@ Odluka o izmjenama i dopunama Odluke o statističkom i nadzornom izvješćivanju
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2020-256` (tags `odluka-2020-256/<day>`; `python tools/on.py <day> odluka-2020-256`).
+Act id: `odluka-2020-256` (tags `odluka-2020-256/<day>`; `python registry/tools/on.py <day> odluka-2020-256`).
 
 ## Decisions made by hand
 

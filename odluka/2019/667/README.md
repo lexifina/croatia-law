@@ -8,7 +8,7 @@ Odluka o raspisivanju izbora za članove vijeća nacionalnih manjina u jedinicam
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2019-667` (tags `odluka-2019-667/<day>`; `python tools/on.py <day> odluka-2019-667`).
+Act id: `odluka-2019-667` (tags `odluka-2019-667/<day>`; `python registry/tools/on.py <day> odluka-2019-667`).
 
 ## Status
 

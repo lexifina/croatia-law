@@ -24,7 +24,7 @@ Pravilnik o stručnosti i primjerenosti distributera osiguranja i distributera r
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2019-348` (tags `pravilnik-2019-348/<day>`; `python tools/on.py <day> pravilnik-2019-348`).
+Act id: `pravilnik-2019-348` (tags `pravilnik-2019-348/<day>`; `python registry/tools/on.py <day> pravilnik-2019-348`).
 
 ## Status
 

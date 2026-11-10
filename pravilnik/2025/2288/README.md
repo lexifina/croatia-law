@@ -10,7 +10,7 @@ Pravilnik o izmjenama Pravilnika o nadzornim izvještajima i informacijama o pit
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2025-2288` (tags `pravilnik-2025-2288/<day>`; `python tools/on.py <day> pravilnik-2025-2288`).
+Act id: `pravilnik-2025-2288` (tags `pravilnik-2025-2288/<day>`; `python registry/tools/on.py <day> pravilnik-2025-2288`).
 
 ## Decisions made by hand
 

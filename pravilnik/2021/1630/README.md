@@ -24,7 +24,7 @@ Pravilnik o resekuritizaciji, objavi informacija o privatnim sekuritizacijama i 
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2021-1630` (tags `pravilnik-2021-1630/<day>`; `python tools/on.py <day> pravilnik-2021-1630`).
+Act id: `pravilnik-2021-1630` (tags `pravilnik-2021-1630/<day>`; `python registry/tools/on.py <day> pravilnik-2021-1630`).
 
 ## Decisions made by hand
 

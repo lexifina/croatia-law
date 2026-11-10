@@ -8,7 +8,7 @@ Odluka o osnivanju Nacionalnog povjerenstva za gospodarenje dabrom (Castor fiber
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2020-52` (tags `odluka-2020-52/<day>`; `python tools/on.py <day> odluka-2020-52`).
+Act id: `odluka-2020-52` (tags `odluka-2020-52/<day>`; `python registry/tools/on.py <day> odluka-2020-52`).
 
 ## Status
 

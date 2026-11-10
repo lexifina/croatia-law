@@ -5,7 +5,7 @@ Pravilnik o plaćanju naknada za obavljanje poslova Hrvatske regulatorne agencij
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `pravilnik-2017-740` (tags `pravilnik-2017-740/<day>`; `python tools/on.py <day> pravilnik-2017-740`).
+Act id: `pravilnik-2017-740` (tags `pravilnik-2017-740/<day>`; `python registry/tools/on.py <day> pravilnik-2017-740`).
 
 ## Decisions made by hand
 

@@ -16,7 +16,7 @@ Pravilnik o utvrđivanju visine naknade za pružanje usluge statističke obrade 
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2024-2195` (tags `pravilnik-2024-2195/<day>`; `python tools/on.py <day> pravilnik-2024-2195`).
+Act id: `pravilnik-2024-2195` (tags `pravilnik-2024-2195/<day>`; `python registry/tools/on.py <day> pravilnik-2024-2195`).
 
 ## Decisions made by hand
 

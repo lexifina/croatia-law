@@ -8,7 +8,7 @@ Odluka o izmjeni i dopunama Odluke o transakcijskim računima · 1 versions, fro
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2021-2353` (tags `odluka-2021-2353/<day>`; `python tools/on.py <day> odluka-2021-2353`).
+Act id: `odluka-2021-2353` (tags `odluka-2021-2353/<day>`; `python registry/tools/on.py <day> odluka-2021-2353`).
 
 ## Decisions made by hand
 

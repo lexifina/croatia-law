@@ -12,7 +12,7 @@ Uredba o izmjenama i dopunama Uredbe o određivanju građevina, drugih zahvata u
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2022-1097` (tags `uredba-2022-1097/<day>`; `python tools/on.py <day> uredba-2022-1097`).
+Act id: `uredba-2022-1097` (tags `uredba-2022-1097/<day>`; `python registry/tools/on.py <day> uredba-2022-1097`).
 
 ## Decisions made by hand
 

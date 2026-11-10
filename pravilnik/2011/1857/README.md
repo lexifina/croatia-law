@@ -9,7 +9,7 @@ Pravilnik o izmjenama i dopunama Pravilnika o uvjetima i načinu ostvarivanja pr
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2011-1857` (tags `pravilnik-2011-1857/<day>`; `python tools/on.py <day> pravilnik-2011-1857`).
+Act id: `pravilnik-2011-1857` (tags `pravilnik-2011-1857/<day>`; `python registry/tools/on.py <day> pravilnik-2011-1857`).
 
 ## Decisions made by hand
 

@@ -5,7 +5,7 @@ Pravilnik o načinu rada i postupanja po pritužbama te radu povjerenstava za ra
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `pravilnik-2015-1515` (tags `pravilnik-2015-1515/<day>`; `python tools/on.py <day> pravilnik-2015-1515`).
+Act id: `pravilnik-2015-1515` (tags `pravilnik-2015-1515/<day>`; `python registry/tools/on.py <day> pravilnik-2015-1515`).
 
 ## Decisions made by hand
 

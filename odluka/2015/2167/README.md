@@ -8,7 +8,7 @@ Odluka o izmjeni Odluke o pokretanju Projekta objedinjavanja informacijskog sust
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2015-2167` (tags `odluka-2015-2167/<day>`; `python tools/on.py <day> odluka-2015-2167`).
+Act id: `odluka-2015-2167` (tags `odluka-2015-2167/<day>`; `python registry/tools/on.py <day> odluka-2015-2167`).
 
 ## Decisions made by hand
 

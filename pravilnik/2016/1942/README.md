@@ -8,7 +8,7 @@ Pravilnik o izmjeni i dopuni Pravilnika o dokumentaciji za izdvajanje poslova il
 | čl. 2 | [clanak-002.md](clanak-002.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `pravilnik-2016-1942` (tags `pravilnik-2016-1942/<day>`; `python tools/on.py <day> pravilnik-2016-1942`).
+Act id: `pravilnik-2016-1942` (tags `pravilnik-2016-1942/<day>`; `python registry/tools/on.py <day> pravilnik-2016-1942`).
 
 ## Decisions made by hand
 

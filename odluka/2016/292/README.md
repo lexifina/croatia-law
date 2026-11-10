@@ -9,7 +9,7 @@ Odluka o izmjeni Odluke o izgledu, obliku, sadržaju i načinu korištenja iskaz
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2016-292` (tags `odluka-2016-292/<day>`; `python tools/on.py <day> odluka-2016-292`).
+Act id: `odluka-2016-292` (tags `odluka-2016-292/<day>`; `python registry/tools/on.py <day> odluka-2016-292`).
 
 ## Decisions made by hand
 

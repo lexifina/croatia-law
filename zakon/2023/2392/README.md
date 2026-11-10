@@ -86,7 +86,7 @@ Zakon o izmjenama i dopunama Zakona o obveznim mirovinskim fondovima · 1 versio
 | čl. 80 | [clanak-080.md](clanak-080.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2023-2392` (tags `zakon-2023-2392/<day>`; `python tools/on.py <day> zakon-2023-2392`).
+Act id: `zakon-2023-2392` (tags `zakon-2023-2392/<day>`; `python registry/tools/on.py <day> zakon-2023-2392`).
 
 ## Decisions made by hand
 

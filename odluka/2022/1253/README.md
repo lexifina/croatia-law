@@ -15,7 +15,7 @@ Odluka o izvješćivanju o novčanom tržištu · 1 versions, from 2023-01-02 (l
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2022-1253` (tags `odluka-2022-1253/<day>`; `python tools/on.py <day> odluka-2022-1253`).
+Act id: `odluka-2022-1253` (tags `odluka-2022-1253/<day>`; `python registry/tools/on.py <day> odluka-2022-1253`).
 
 ## Decisions made by hand
 

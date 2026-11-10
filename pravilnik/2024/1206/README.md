@@ -36,7 +36,7 @@ Pravilnik o izmjenama i dopunama Pravilnika o organizacijskim zahtjevima za miro
 | čl. 30 | [clanak-030.md](clanak-030.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `pravilnik-2024-1206` (tags `pravilnik-2024-1206/<day>`; `python tools/on.py <day> pravilnik-2024-1206`).
+Act id: `pravilnik-2024-1206` (tags `pravilnik-2024-1206/<day>`; `python registry/tools/on.py <day> pravilnik-2024-1206`).
 
 ## Decisions made by hand
 

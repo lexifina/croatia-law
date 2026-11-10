@@ -8,7 +8,7 @@ Odluka o osnivanju Ekonomskog savjeta predsjednika Republike Hrvatske · 1 versi
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2020-2552` (tags `odluka-2020-2552/<day>`; `python tools/on.py <day> odluka-2020-2552`).
+Act id: `odluka-2020-2552` (tags `odluka-2020-2552/<day>`; `python registry/tools/on.py <day> odluka-2020-2552`).
 
 ## Decisions made by hand
 

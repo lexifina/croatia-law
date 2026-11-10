@@ -10,7 +10,7 @@ Uredba o izmjenama i dopuni Uredbe o osnivanju Središnje agencije za financiran
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2013-1153` (tags `uredba-2013-1153/<day>`; `python tools/on.py <day> uredba-2013-1153`).
+Act id: `uredba-2013-1153` (tags `uredba-2013-1153/<day>`; `python registry/tools/on.py <day> uredba-2013-1153`).
 
 ## Decisions made by hand
 

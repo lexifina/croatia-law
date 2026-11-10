@@ -9,7 +9,7 @@ Odluka o usklađenju sredstava jamstvenog pologa za 2016. godinu · 1 versions, 
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2017-340` (tags `odluka-2017-340/<day>`; `python tools/on.py <day> odluka-2017-340`).
+Act id: `odluka-2017-340` (tags `odluka-2017-340/<day>`; `python registry/tools/on.py <day> odluka-2017-340`).
 
 ## Decisions made by hand
 

@@ -8,7 +8,7 @@ Odluka o izmjeni Odluke o visini naknade predsjednicima, potpredsjednicima i čl
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2013-1447` (tags `odluka-2013-1447/<day>`; `python tools/on.py <day> odluka-2013-1447`).
+Act id: `odluka-2013-1447` (tags `odluka-2013-1447/<day>`; `python registry/tools/on.py <day> odluka-2013-1447`).
 
 ## Decisions made by hand
 

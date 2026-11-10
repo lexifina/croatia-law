@@ -95,7 +95,7 @@ Zakon o izmjenama i dopunama Zakona o zemljišnim knjigama · 1 versions, from 2
 | čl. 89 | [clanak-089.md](clanak-089.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2013-1117` (tags `zakon-2013-1117/<day>`; `python tools/on.py <day> zakon-2013-1117`).
+Act id: `zakon-2013-1117` (tags `zakon-2013-1117/<day>`; `python registry/tools/on.py <day> zakon-2013-1117`).
 
 ## Status
 

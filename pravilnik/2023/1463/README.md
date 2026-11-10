@@ -5,7 +5,7 @@ Pravilnik o institucijama za medijaciju · 2 versions, from 2023-09-07 (latest i
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `pravilnik-2023-1463` (tags `pravilnik-2023-1463/<day>`; `python tools/on.py <day> pravilnik-2023-1463`).
+Act id: `pravilnik-2023-1463` (tags `pravilnik-2023-1463/<day>`; `python registry/tools/on.py <day> pravilnik-2023-1463`).
 
 ## Decisions made by hand
 

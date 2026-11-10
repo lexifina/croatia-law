@@ -9,7 +9,7 @@ Odluka o iznosu tarifnih stavki za distribuciju plina · 1 versions, from 2018-0
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2017-2886` (tags `odluka-2017-2886/<day>`; `python tools/on.py <day> odluka-2017-2886`).
+Act id: `odluka-2017-2886` (tags `odluka-2017-2886/<day>`; `python registry/tools/on.py <day> odluka-2017-2886`).
 
 ## Status
 

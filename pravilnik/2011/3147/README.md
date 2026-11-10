@@ -10,7 +10,7 @@ Pravilnik o izmjenama i dopunama Pravilnika o pomoćnim tvarima u procesu proizv
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2011-3147` (tags `pravilnik-2011-3147/<day>`; `python tools/on.py <day> pravilnik-2011-3147`).
+Act id: `pravilnik-2011-3147` (tags `pravilnik-2011-3147/<day>`; `python registry/tools/on.py <day> pravilnik-2011-3147`).
 
 ## Decisions made by hand
 

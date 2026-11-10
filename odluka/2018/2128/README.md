@@ -8,7 +8,7 @@ Odluka o izmjenama Odluke o osnivanju Nacionalnog vijeća za kibernetičku sigur
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2018-2128` (tags `odluka-2018-2128/<day>`; `python tools/on.py <day> odluka-2018-2128`).
+Act id: `odluka-2018-2128` (tags `odluka-2018-2128/<day>`; `python registry/tools/on.py <day> odluka-2018-2128`).
 
 ## Decisions made by hand
 

@@ -35,7 +35,7 @@ Pravilnik o uvjetima i načinu stjecanja, izdavanja, obnavljanja i podržavanja 
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2011-1813` (tags `pravilnik-2011-1813/<day>`; `python tools/on.py <day> pravilnik-2011-1813`).
+Act id: `pravilnik-2011-1813` (tags `pravilnik-2011-1813/<day>`; `python registry/tools/on.py <day> pravilnik-2011-1813`).
 
 ## Decisions made by hand
 

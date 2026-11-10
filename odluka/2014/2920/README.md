@@ -9,7 +9,7 @@ Odluka o Programu učenja hrvatskoga jezika, povijesti i kulture za azilante i s
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2014-2920` (tags `odluka-2014-2920/<day>`; `python tools/on.py <day> odluka-2014-2920`).
+Act id: `odluka-2014-2920` (tags `odluka-2014-2920/<day>`; `python registry/tools/on.py <day> odluka-2014-2920`).
 
 ## Status
 

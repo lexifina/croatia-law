@@ -8,7 +8,7 @@ Odluka o načinu provođenja međunarodnih mjera ograničavanja raspolaganja imo
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2011-1651` (tags `odluka-2011-1651/<day>`; `python tools/on.py <day> odluka-2011-1651`).
+Act id: `odluka-2011-1651` (tags `odluka-2011-1651/<day>`; `python registry/tools/on.py <day> odluka-2011-1651`).
 
 ## Status
 

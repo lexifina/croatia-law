@@ -9,7 +9,7 @@ Pravilnik o izmjeni Pravilnika o izvještavanju o značajnim promjenama i izvje�
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2020-319` (tags `pravilnik-2020-319/<day>`; `python tools/on.py <day> pravilnik-2020-319`).
+Act id: `pravilnik-2020-319` (tags `pravilnik-2020-319/<day>`; `python registry/tools/on.py <day> pravilnik-2020-319`).
 
 ## Decisions made by hand
 

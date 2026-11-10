@@ -5,7 +5,7 @@ Pravilnik o načinu provedbe stručne procjene u ovlaštenoj zdravstvenoj ustano
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `pravilnik-2018-558` (tags `pravilnik-2018-558/<day>`; `python tools/on.py <day> pravilnik-2018-558`).
+Act id: `pravilnik-2018-558` (tags `pravilnik-2018-558/<day>`; `python registry/tools/on.py <day> pravilnik-2018-558`).
 
 ## Decisions made by hand
 

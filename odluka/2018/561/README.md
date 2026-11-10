@@ -9,7 +9,7 @@ Odluka o indikativnim iznosima tarifnih stavki za prihvat i otpremu ukapljenog p
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2018-561` (tags `odluka-2018-561/<day>`; `python tools/on.py <day> odluka-2018-561`).
+Act id: `odluka-2018-561` (tags `odluka-2018-561/<day>`; `python registry/tools/on.py <day> odluka-2018-561`).
 
 ## Status
 

@@ -8,7 +8,7 @@ Odluka o lokalnim porezima Općine Stari Mikanovci · 1 versions, from 2024-01-0
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2023-2348` (tags `odluka-2023-2348/<day>`; `python tools/on.py <day> odluka-2023-2348`).
+Act id: `odluka-2023-2348` (tags `odluka-2023-2348/<day>`; `python registry/tools/on.py <day> odluka-2023-2348`).
 
 ## Decisions made by hand
 

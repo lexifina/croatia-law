@@ -9,7 +9,7 @@ Naredba o popisu zemalja iz kojih je dozvoljen uvoz određenih proizvoda od mesa
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `naredba-2012-808` (tags `naredba-2012-808/<day>`; `python tools/on.py <day> naredba-2012-808`).
+Act id: `naredba-2012-808` (tags `naredba-2012-808/<day>`; `python registry/tools/on.py <day> naredba-2012-808`).
 
 ## Status
 

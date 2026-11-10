@@ -15,7 +15,7 @@ Pravilnik o izmjenama i dopunama Pravilnika o stečaju i sanaciji središnjeg de
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2024-1142` (tags `pravilnik-2024-1142/<day>`; `python tools/on.py <day> pravilnik-2024-1142`).
+Act id: `pravilnik-2024-1142` (tags `pravilnik-2024-1142/<day>`; `python registry/tools/on.py <day> pravilnik-2024-1142`).
 
 ## Decisions made by hand
 

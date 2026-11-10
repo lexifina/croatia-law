@@ -5,7 +5,7 @@ Pravilnik o obavljanju djelatnosti u svezi sa zapošljavanjem · 2 versions, fro
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `pravilnik-2019-591` (tags `pravilnik-2019-591/<day>`; `python tools/on.py <day> pravilnik-2019-591`).
+Act id: `pravilnik-2019-591` (tags `pravilnik-2019-591/<day>`; `python registry/tools/on.py <day> pravilnik-2019-591`).
 
 ## Decisions made by hand
 

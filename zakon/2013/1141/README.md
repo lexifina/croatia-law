@@ -151,7 +151,7 @@ Zakon o izmjenama i dopunama Pomorskog zakonika · 1 versions, from 2013-05-18 (
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 
-Act id: `zakon-2013-1141` (tags `zakon-2013-1141/<day>`; `python tools/on.py <day> zakon-2013-1141`).
+Act id: `zakon-2013-1141` (tags `zakon-2013-1141/<day>`; `python registry/tools/on.py <day> zakon-2013-1141`).
 
 ## Decisions made by hand
 

@@ -9,7 +9,7 @@ Pravilnik o prestanku važenja Pravilnika o mjeriteljskim zahtjevima za medicins
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2012-1585` (tags `pravilnik-2012-1585/<day>`; `python tools/on.py <day> pravilnik-2012-1585`).
+Act id: `pravilnik-2012-1585` (tags `pravilnik-2012-1585/<day>`; `python registry/tools/on.py <day> pravilnik-2012-1585`).
 
 ## Decisions made by hand
 

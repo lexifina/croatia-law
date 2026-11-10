@@ -9,7 +9,7 @@ Uredba o dopuni Uredbe o nazivima radnih mjesta i koeficijentima složenosti pos
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2023-2367` (tags `uredba-2023-2367/<day>`; `python tools/on.py <day> uredba-2023-2367`).
+Act id: `uredba-2023-2367` (tags `uredba-2023-2367/<day>`; `python registry/tools/on.py <day> uredba-2023-2367`).
 
 ## Decisions made by hand
 

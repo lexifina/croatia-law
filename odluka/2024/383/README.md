@@ -8,7 +8,7 @@ Odluka o izmjeni Odluke o postavljanju počasnog konzula Republike Hrvatske u Re
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2024-383` (tags `odluka-2024-383/<day>`; `python tools/on.py <day> odluka-2024-383`).
+Act id: `odluka-2024-383` (tags `odluka-2024-383/<day>`; `python registry/tools/on.py <day> odluka-2024-383`).
 
 ## Decisions made by hand
 

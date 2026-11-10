@@ -198,7 +198,7 @@ Uredba o unutarnjem ustrojstvu Ministarstva gospodarstva · 1 versions, from 202
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2024-1212` (tags `uredba-2024-1212/<day>`; `python tools/on.py <day> uredba-2024-1212`).
+Act id: `uredba-2024-1212` (tags `uredba-2024-1212/<day>`; `python registry/tools/on.py <day> uredba-2024-1212`).
 
 ## Decisions made by hand
 

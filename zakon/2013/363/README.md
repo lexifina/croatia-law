@@ -12,7 +12,7 @@ Zakon o izmjenama i dopunama Zakona o obvezama i pravima državnih dužnosnika �
 | čl. 6 | [clanak-006.md](clanak-006.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2013-363` (tags `zakon-2013-363/<day>`; `python tools/on.py <day> zakon-2013-363`).
+Act id: `zakon-2013-363` (tags `zakon-2013-363/<day>`; `python registry/tools/on.py <day> zakon-2013-363`).
 
 ## Decisions made by hand
 

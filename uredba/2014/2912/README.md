@@ -11,7 +11,7 @@ Uredba o izmjenama Uredbe o nazivima radnih mjesta i koeficijentima složenosti 
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2014-2912` (tags `uredba-2014-2912/<day>`; `python tools/on.py <day> uredba-2014-2912`).
+Act id: `uredba-2014-2912` (tags `uredba-2014-2912/<day>`; `python registry/tools/on.py <day> uredba-2014-2912`).
 
 ## Decisions made by hand
 

@@ -23,7 +23,7 @@ Pravilnik o standardnim operativnim postupcima · 1 versions, from 2022-04-16 (l
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2022-552` (tags `pravilnik-2022-552/<day>`; `python tools/on.py <day> pravilnik-2022-552`).
+Act id: `pravilnik-2022-552` (tags `pravilnik-2022-552/<day>`; `python registry/tools/on.py <day> pravilnik-2022-552`).
 
 ## Decisions made by hand
 

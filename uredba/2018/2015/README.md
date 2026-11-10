@@ -5,7 +5,7 @@ Uredba o uvjetima i načinima upravljanja privremeno oduzetom imovinom u kazneno
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `uredba-2018-2015` (tags `uredba-2018-2015/<day>`; `python tools/on.py <day> uredba-2018-2015`).
+Act id: `uredba-2018-2015` (tags `uredba-2018-2015/<day>`; `python registry/tools/on.py <day> uredba-2018-2015`).
 
 ## Decisions made by hand
 

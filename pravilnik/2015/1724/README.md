@@ -9,7 +9,7 @@ Pravilnik o prestanku važenja Pravilnika o mjerama za sprječavanje unošenja i
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2015-1724` (tags `pravilnik-2015-1724/<day>`; `python tools/on.py <day> pravilnik-2015-1724`).
+Act id: `pravilnik-2015-1724` (tags `pravilnik-2015-1724/<day>`; `python registry/tools/on.py <day> pravilnik-2015-1724`).
 
 ## Decisions made by hand
 

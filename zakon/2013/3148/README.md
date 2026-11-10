@@ -22,7 +22,7 @@ Zakon o izmjenama i dopunama Zakona o sudovima za mladež · 1 versions, from 20
 | čl. 16 | [clanak-016.md](clanak-016.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2013-3148` (tags `zakon-2013-3148/<day>`; `python tools/on.py <day> zakon-2013-3148`).
+Act id: `zakon-2013-3148` (tags `zakon-2013-3148/<day>`; `python registry/tools/on.py <day> zakon-2013-3148`).
 
 ## Decisions made by hand
 

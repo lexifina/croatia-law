@@ -8,7 +8,7 @@ Pravilnik o dopuni Pravilnika o poslovima na kojima se ne smije zaposliti malolj
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2013-1214` (tags `pravilnik-2013-1214/<day>`; `python tools/on.py <day> pravilnik-2013-1214`).
+Act id: `pravilnik-2013-1214` (tags `pravilnik-2013-1214/<day>`; `python registry/tools/on.py <day> pravilnik-2013-1214`).
 
 ## Decisions made by hand
 

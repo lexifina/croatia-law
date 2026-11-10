@@ -9,7 +9,7 @@ Odluka o izmjeni Odluke o pravilima rada Hrvatskog sustava velikih plaćanja · 
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2021-1089` (tags `odluka-2021-1089/<day>`; `python tools/on.py <day> odluka-2021-1089`).
+Act id: `odluka-2021-1089` (tags `odluka-2021-1089/<day>`; `python registry/tools/on.py <day> odluka-2021-1089`).
 
 ## Decisions made by hand
 

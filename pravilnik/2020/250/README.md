@@ -12,7 +12,7 @@ Pravilnik o manje složenim radovima · 1 versions, from 2020-02-13 (latest in f
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2020-250` (tags `pravilnik-2020-250/<day>`; `python tools/on.py <day> pravilnik-2020-250`).
+Act id: `pravilnik-2020-250` (tags `pravilnik-2020-250/<day>`; `python registry/tools/on.py <day> pravilnik-2020-250`).
 
 ## Decisions made by hand
 

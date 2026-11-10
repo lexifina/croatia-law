@@ -142,7 +142,7 @@ Zakon o izmjenama i dopunama Zakona o kreditnim institucijama · 1 versions, fro
 | čl. 136 | [clanak-136.md](clanak-136.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2020-2828` (tags `zakon-2020-2828/<day>`; `python tools/on.py <day> zakon-2020-2828`).
+Act id: `zakon-2020-2828` (tags `zakon-2020-2828/<day>`; `python registry/tools/on.py <day> zakon-2020-2828`).
 
 ## Decisions made by hand
 

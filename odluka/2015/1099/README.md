@@ -8,7 +8,7 @@ Odluka o davanju prethodne suglasnosti na Prijedlog izmjena Statuta Središnjeg 
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2015-1099` (tags `odluka-2015-1099/<day>`; `python tools/on.py <day> odluka-2015-1099`).
+Act id: `odluka-2015-1099` (tags `odluka-2015-1099/<day>`; `python registry/tools/on.py <day> odluka-2015-1099`).
 
 ## Decisions made by hand
 

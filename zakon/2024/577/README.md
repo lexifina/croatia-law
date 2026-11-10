@@ -14,7 +14,7 @@ Zakon o izmjenama i dopuni Zakona o financiranju vodnoga gospodarstva · 1 versi
 | čl. 8 | [clanak-008.md](clanak-008.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2024-577` (tags `zakon-2024-577/<day>`; `python tools/on.py <day> zakon-2024-577`).
+Act id: `zakon-2024-577` (tags `zakon-2024-577/<day>`; `python registry/tools/on.py <day> zakon-2024-577`).
 
 ## Decisions made by hand
 

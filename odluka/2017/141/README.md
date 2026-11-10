@@ -8,7 +8,7 @@ Odluka o kriterijima za određivanje stupnjeva tajnosti podataka Vlade Republike
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2017-141` (tags `odluka-2017-141/<day>`; `python tools/on.py <day> odluka-2017-141`).
+Act id: `odluka-2017-141` (tags `odluka-2017-141/<day>`; `python registry/tools/on.py <day> odluka-2017-141`).
 
 ## Decisions made by hand
 

@@ -9,7 +9,7 @@ Odluka o donošenju Nacionalne strategije za provedbu programa mlijeka u školam
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2016-1669` (tags `odluka-2016-1669/<day>`; `python tools/on.py <day> odluka-2016-1669`).
+Act id: `odluka-2016-1669` (tags `odluka-2016-1669/<day>`; `python registry/tools/on.py <day> odluka-2016-1669`).
 
 ## Decisions made by hand
 

@@ -22,7 +22,7 @@ Pravilnik o izmjenama i dopunama Pravilnika o uvjetima, kriterijima i načinu do
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2019-1812` (tags `pravilnik-2019-1812/<day>`; `python tools/on.py <day> pravilnik-2019-1812`).
+Act id: `pravilnik-2019-1812` (tags `pravilnik-2019-1812/<day>`; `python registry/tools/on.py <day> pravilnik-2019-1812`).
 
 ## Decisions made by hand
 

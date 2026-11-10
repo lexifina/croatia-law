@@ -9,7 +9,7 @@ Statut o izmjeni Statuta Hrvatske komore inženjera tehnologije prometa i transp
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `statut-2012-612` (tags `statut-2012-612/<day>`; `python tools/on.py <day> statut-2012-612`).
+Act id: `statut-2012-612` (tags `statut-2012-612/<day>`; `python registry/tools/on.py <day> statut-2012-612`).
 
 ## Decisions made by hand
 

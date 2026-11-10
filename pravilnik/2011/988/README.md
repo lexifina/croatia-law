@@ -17,7 +17,7 @@ Pravilnik o uvjetima zdravlja životinja i javnog zdravlja te veterinarskom cert
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2011-988` (tags `pravilnik-2011-988/<day>`; `python tools/on.py <day> pravilnik-2011-988`).
+Act id: `pravilnik-2011-988` (tags `pravilnik-2011-988/<day>`; `python registry/tools/on.py <day> pravilnik-2011-988`).
 
 ## Status
 

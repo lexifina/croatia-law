@@ -197,7 +197,7 @@ Zakon o poljoprivredi · 1 versions, from 2015-03-18 (latest in force: 2015-03-1
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 
-Act id: `zakon-2015-612` (tags `zakon-2015-612/<day>`; `python tools/on.py <day> zakon-2015-612`).
+Act id: `zakon-2015-612` (tags `zakon-2015-612/<day>`; `python registry/tools/on.py <day> zakon-2015-612`).
 
 ## Status
 

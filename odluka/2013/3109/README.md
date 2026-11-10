@@ -9,7 +9,7 @@ Odluka o davanju suglasnosti na Izmjene i dopune Financijskog plana Agencije za 
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2013-3109` (tags `odluka-2013-3109/<day>`; `python tools/on.py <day> odluka-2013-3109`).
+Act id: `odluka-2013-3109` (tags `odluka-2013-3109/<day>`; `python registry/tools/on.py <day> odluka-2013-3109`).
 
 ## Decisions made by hand
 

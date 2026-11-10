@@ -11,7 +11,7 @@ Pravilnik o izmjenama Pravilnika o uvjetima i postupku izbora učitelja za rad u
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2026-682` (tags `pravilnik-2026-682/<day>`; `python tools/on.py <day> pravilnik-2026-682`).
+Act id: `pravilnik-2026-682` (tags `pravilnik-2026-682/<day>`; `python registry/tools/on.py <day> pravilnik-2026-682`).
 
 ## Decisions made by hand
 

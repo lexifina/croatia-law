@@ -25,7 +25,7 @@ Pravilnik o upisniku pružatelja medijskih usluga, elektroničkih publikacija i 
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2013-2907` (tags `pravilnik-2013-2907/<day>`; `python tools/on.py <day> pravilnik-2013-2907`).
+Act id: `pravilnik-2013-2907` (tags `pravilnik-2013-2907/<day>`; `python registry/tools/on.py <day> pravilnik-2013-2907`).
 
 ## Status
 

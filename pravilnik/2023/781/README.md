@@ -13,7 +13,7 @@ Pravilnik o izmjenama i dopunama Pravilnika o stručnosti i primjerenosti distri
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2023-781` (tags `pravilnik-2023-781/<day>`; `python tools/on.py <day> pravilnik-2023-781`).
+Act id: `pravilnik-2023-781` (tags `pravilnik-2023-781/<day>`; `python registry/tools/on.py <day> pravilnik-2023-781`).
 
 ## Decisions made by hand
 

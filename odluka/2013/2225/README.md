@@ -8,7 +8,7 @@ Odluka o prestanku važenja Odluke o osnivanju Radne skupine za praćenje Akcijs
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2013-2225` (tags `odluka-2013-2225/<day>`; `python tools/on.py <day> odluka-2013-2225`).
+Act id: `odluka-2013-2225` (tags `odluka-2013-2225/<day>`; `python registry/tools/on.py <day> odluka-2013-2225`).
 
 ## Decisions made by hand
 

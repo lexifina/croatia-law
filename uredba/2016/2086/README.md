@@ -15,7 +15,7 @@ Uredba o izmjenama Uredbe o Glavnom tajništvu Vlade Republike Hrvatske · 1 ver
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2016-2086` (tags `uredba-2016-2086/<day>`; `python tools/on.py <day> uredba-2016-2086`).
+Act id: `uredba-2016-2086` (tags `uredba-2016-2086/<day>`; `python registry/tools/on.py <day> uredba-2016-2086`).
 
 ## Decisions made by hand
 

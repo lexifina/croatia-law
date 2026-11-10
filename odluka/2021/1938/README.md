@@ -9,7 +9,7 @@ Odluka o izmjeni Odluke o naknadi za razvoj na području Međimurske županije �
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2021-1938` (tags `odluka-2021-1938/<day>`; `python tools/on.py <day> odluka-2021-1938`).
+Act id: `odluka-2021-1938` (tags `odluka-2021-1938/<day>`; `python registry/tools/on.py <day> odluka-2021-1938`).
 
 ## Decisions made by hand
 

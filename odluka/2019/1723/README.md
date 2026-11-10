@@ -8,7 +8,7 @@ Odluka o osnivanju Povjerenstva Vlade Republike Hrvatske za ispunjavanje obveza 
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2019-1723` (tags `odluka-2019-1723/<day>`; `python tools/on.py <day> odluka-2019-1723`).
+Act id: `odluka-2019-1723` (tags `odluka-2019-1723/<day>`; `python registry/tools/on.py <day> odluka-2019-1723`).
 
 ## Status
 

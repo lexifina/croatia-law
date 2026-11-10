@@ -16,7 +16,7 @@ Pravilnik o izmjenama Pravilnika o načinu i postupku provedbe prodaje nekretnin
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2023-194` (tags `pravilnik-2023-194/<day>`; `python tools/on.py <day> pravilnik-2023-194`).
+Act id: `pravilnik-2023-194` (tags `pravilnik-2023-194/<day>`; `python registry/tools/on.py <day> pravilnik-2023-194`).
 
 ## Decisions made by hand
 

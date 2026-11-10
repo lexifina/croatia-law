@@ -18,7 +18,7 @@ Odluka o naknadi za razvoj trgovačkog društva Komunalac d.o.o., Županja · 1 
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2023-288` (tags `odluka-2023-288/<day>`; `python tools/on.py <day> odluka-2023-288`).
+Act id: `odluka-2023-288` (tags `odluka-2023-288/<day>`; `python registry/tools/on.py <day> odluka-2023-288`).
 
 ## Decisions made by hand
 

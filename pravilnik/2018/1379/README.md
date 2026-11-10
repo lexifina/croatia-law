@@ -47,7 +47,7 @@ Pravilnik o tajnosti podataka obrane · 1 versions, from 2018-08-02 (latest in f
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2018-1379` (tags `pravilnik-2018-1379/<day>`; `python tools/on.py <day> pravilnik-2018-1379`).
+Act id: `pravilnik-2018-1379` (tags `pravilnik-2018-1379/<day>`; `python registry/tools/on.py <day> pravilnik-2018-1379`).
 
 ## Status
 

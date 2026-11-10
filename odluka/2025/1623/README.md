@@ -8,7 +8,7 @@ Odluka o katastarskoj izmjeri na području Grada Trilja za dio katastarske opći
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2025-1623` (tags `odluka-2025-1623/<day>`; `python tools/on.py <day> odluka-2025-1623`).
+Act id: `odluka-2025-1623` (tags `odluka-2025-1623/<day>`; `python registry/tools/on.py <day> odluka-2025-1623`).
 
 ## Decisions made by hand
 

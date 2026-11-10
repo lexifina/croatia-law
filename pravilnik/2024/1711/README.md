@@ -35,7 +35,7 @@ Pravilnik o obveznom sadržaju idejnog projekta · 1 versions, from 2024-08-17 (
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2024-1711` (tags `pravilnik-2024-1711/<day>`; `python tools/on.py <day> pravilnik-2024-1711`).
+Act id: `pravilnik-2024-1711` (tags `pravilnik-2024-1711/<day>`; `python registry/tools/on.py <day> pravilnik-2024-1711`).
 
 ## Status
 

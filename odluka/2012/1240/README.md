@@ -8,7 +8,7 @@ Odluka o dopuni Odluke o visini otpremnine za državne službenike i namješteni
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2012-1240` (tags `odluka-2012-1240/<day>`; `python tools/on.py <day> odluka-2012-1240`).
+Act id: `odluka-2012-1240` (tags `odluka-2012-1240/<day>`; `python registry/tools/on.py <day> odluka-2012-1240`).
 
 ## Decisions made by hand
 

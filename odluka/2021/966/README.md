@@ -8,7 +8,7 @@ Odluka o postavljanju počasnog konzula Republike Hrvatske u Talijanskoj Republi
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2021-966` (tags `odluka-2021-966/<day>`; `python tools/on.py <day> odluka-2021-966`).
+Act id: `odluka-2021-966` (tags `odluka-2021-966/<day>`; `python registry/tools/on.py <day> odluka-2021-966`).
 
 ## Decisions made by hand
 

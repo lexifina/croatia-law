@@ -16,7 +16,7 @@ Uredba o izmjenama i dopunama Uredbe o otklanjanju poremećaja na domaćem trži
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2023-1530` (tags `uredba-2023-1530/<day>`; `python tools/on.py <day> uredba-2023-1530`).
+Act id: `uredba-2023-1530` (tags `uredba-2023-1530/<day>`; `python registry/tools/on.py <day> uredba-2023-1530`).
 
 ## Decisions made by hand
 

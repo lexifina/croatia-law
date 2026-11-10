@@ -54,7 +54,7 @@ Odluka o uvjetima za otvaranje i funkcioniranje PM računa u sustavu TARGET2-HR 
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2015-2563` (tags `odluka-2015-2563/<day>`; `python tools/on.py <day> odluka-2015-2563`).
+Act id: `odluka-2015-2563` (tags `odluka-2015-2563/<day>`; `python registry/tools/on.py <day> odluka-2015-2563`).
 
 ## Status
 

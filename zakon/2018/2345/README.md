@@ -81,7 +81,7 @@ Zakon o izmjenama i dopunama Zakona o zaštiti okoliša · 1 versions, from 2019
 | čl. 75 | [clanak-075.md](clanak-075.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2018-2345` (tags `zakon-2018-2345/<day>`; `python tools/on.py <day> zakon-2018-2345`).
+Act id: `zakon-2018-2345` (tags `zakon-2018-2345/<day>`; `python registry/tools/on.py <day> zakon-2018-2345`).
 
 ## Decisions made by hand
 

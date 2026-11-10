@@ -5,7 +5,7 @@ Pravilnik o uvjetima i načinu ostvarivanja prava na državnu stipendiju za pose
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `pravilnik-2019-1579` (tags `pravilnik-2019-1579/<day>`; `python tools/on.py <day> pravilnik-2019-1579`).
+Act id: `pravilnik-2019-1579` (tags `pravilnik-2019-1579/<day>`; `python registry/tools/on.py <day> pravilnik-2019-1579`).
 
 ## Decisions made by hand
 

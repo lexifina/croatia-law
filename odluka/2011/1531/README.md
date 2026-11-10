@@ -8,7 +8,7 @@ Odluka o dopuni Odluke o osnivanju Lučke uprave Split · 1 versions, from 2011-
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2011-1531` (tags `odluka-2011-1531/<day>`; `python tools/on.py <day> odluka-2011-1531`).
+Act id: `odluka-2011-1531` (tags `odluka-2011-1531/<day>`; `python registry/tools/on.py <day> odluka-2011-1531`).
 
 ## Decisions made by hand
 

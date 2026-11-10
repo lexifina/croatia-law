@@ -8,7 +8,7 @@ Odluka o privremenoj obustavi javnog prometa · 1 versions, from 2020-03-21 (lat
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2020-733` (tags `odluka-2020-733/<day>`; `python tools/on.py <day> odluka-2020-733`).
+Act id: `odluka-2020-733` (tags `odluka-2020-733/<day>`; `python registry/tools/on.py <day> odluka-2020-733`).
 
 ## Status
 

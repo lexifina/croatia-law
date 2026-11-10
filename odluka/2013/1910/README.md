@@ -9,7 +9,7 @@ Odluka o dopuni Odluke o uvjetima za ocjenu nastavne i stručne djelatnosti u po
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2013-1910` (tags `odluka-2013-1910/<day>`; `python tools/on.py <day> odluka-2013-1910`).
+Act id: `odluka-2013-1910` (tags `odluka-2013-1910/<day>`; `python registry/tools/on.py <day> odluka-2013-1910`).
 
 ## Decisions made by hand
 

@@ -11,7 +11,7 @@ Uredba o izmjenama Uredbe o visini naknade za korištenje voda · 1 versions, fr
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2023-2508` (tags `uredba-2023-2508/<day>`; `python tools/on.py <day> uredba-2023-2508`).
+Act id: `uredba-2023-2508` (tags `uredba-2023-2508/<day>`; `python registry/tools/on.py <day> uredba-2023-2508`).
 
 ## Status
 

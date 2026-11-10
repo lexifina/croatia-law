@@ -29,7 +29,7 @@ Zakon o izmjenama i dopunama Zakona o patentu · 1 versions, from 2013-06-29 (la
 | čl. 23 | [clanak-023.md](clanak-023.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2013-1530` (tags `zakon-2013-1530/<day>`; `python tools/on.py <day> zakon-2013-1530`).
+Act id: `zakon-2013-1530` (tags `zakon-2013-1530/<day>`; `python registry/tools/on.py <day> zakon-2013-1530`).
 
 ## Decisions made by hand
 

@@ -8,7 +8,7 @@ Odluka o donošenju Nacionalnog programa sigurnosti u zračnom prometu · 1 vers
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2022-2077` (tags `odluka-2022-2077/<day>`; `python tools/on.py <day> odluka-2022-2077`).
+Act id: `odluka-2022-2077` (tags `odluka-2022-2077/<day>`; `python registry/tools/on.py <day> odluka-2022-2077`).
 
 ## Decisions made by hand
 

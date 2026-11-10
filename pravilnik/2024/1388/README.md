@@ -16,7 +16,7 @@ Pravilnik odnosu policijskih zvanja prema činovima pripadnika Oružanih snaga R
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2024-1388` (tags `pravilnik-2024-1388/<day>`; `python tools/on.py <day> pravilnik-2024-1388`).
+Act id: `pravilnik-2024-1388` (tags `pravilnik-2024-1388/<day>`; `python registry/tools/on.py <day> pravilnik-2024-1388`).
 
 ## Decisions made by hand
 

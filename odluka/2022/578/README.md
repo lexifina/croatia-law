@@ -8,7 +8,7 @@ Odluka o puštanju na tržište obveznih zaliha nafte i naftnih derivata · 1 ve
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2022-578` (tags `odluka-2022-578/<day>`; `python tools/on.py <day> odluka-2022-578`).
+Act id: `odluka-2022-578` (tags `odluka-2022-578/<day>`; `python registry/tools/on.py <day> odluka-2022-578`).
 
 ## Status
 

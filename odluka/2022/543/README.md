@@ -8,7 +8,7 @@ Odluka o prestanku važenja Odluke o radnom vremenu i načinu rada u djelatnosti
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2022-543` (tags `odluka-2022-543/<day>`; `python tools/on.py <day> odluka-2022-543`).
+Act id: `odluka-2022-543` (tags `odluka-2022-543/<day>`; `python registry/tools/on.py <day> odluka-2022-543`).
 
 ## Decisions made by hand
 

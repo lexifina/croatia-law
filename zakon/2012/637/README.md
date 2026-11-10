@@ -9,7 +9,7 @@ Zakon o dopuni Stečajnog zakona · 1 versions, from 2012-03-07 (latest in force
 | čl. 3 | [clanak-003.md](clanak-003.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2012-637` (tags `zakon-2012-637/<day>`; `python tools/on.py <day> zakon-2012-637`).
+Act id: `zakon-2012-637` (tags `zakon-2012-637/<day>`; `python registry/tools/on.py <day> zakon-2012-637`).
 
 ## Decisions made by hand
 

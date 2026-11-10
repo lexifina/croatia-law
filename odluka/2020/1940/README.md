@@ -15,7 +15,7 @@ Odluka o obračunu i naplati naknade za razvoj sustava javne vodoopskrbe i odvod
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2020-1940` (tags `odluka-2020-1940/<day>`; `python tools/on.py <day> odluka-2020-1940`).
+Act id: `odluka-2020-1940` (tags `odluka-2020-1940/<day>`; `python registry/tools/on.py <day> odluka-2020-1940`).
 
 ## Status
 

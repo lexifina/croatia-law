@@ -9,7 +9,7 @@ Odluka o izmjeni Odluke o pojedinim oblicima zdravstvene zaštite iz obveznog zd
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2016-1919` (tags `odluka-2016-1919/<day>`; `python tools/on.py <day> odluka-2016-1919`).
+Act id: `odluka-2016-1919` (tags `odluka-2016-1919/<day>`; `python registry/tools/on.py <day> odluka-2016-1919`).
 
 ## Decisions made by hand
 

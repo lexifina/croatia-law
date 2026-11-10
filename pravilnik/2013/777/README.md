@@ -20,7 +20,7 @@ Pravilnik o izmjenama i dopunama Pravilnika o dodacima prehrani · 1 versions, f
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2013-777` (tags `pravilnik-2013-777/<day>`; `python tools/on.py <day> pravilnik-2013-777`).
+Act id: `pravilnik-2013-777` (tags `pravilnik-2013-777/<day>`; `python registry/tools/on.py <day> pravilnik-2013-777`).
 
 ## Decisions made by hand
 

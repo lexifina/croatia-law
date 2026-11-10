@@ -9,7 +9,7 @@ Naredba o dopuni Naredbe o mjerama kontrole za suzbijanje afričke svinjske kuge
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `naredba-2024-1857` (tags `naredba-2024-1857/<day>`; `python tools/on.py <day> naredba-2024-1857`).
+Act id: `naredba-2024-1857` (tags `naredba-2024-1857/<day>`; `python registry/tools/on.py <day> naredba-2024-1857`).
 
 ## Decisions made by hand
 

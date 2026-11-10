@@ -36,7 +36,7 @@ Pravilnik o sadržaju, izgledu i načinu vođenja upisnika u djelatnosti privatn
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2021-430` (tags `pravilnik-2021-430/<day>`; `python tools/on.py <day> pravilnik-2021-430`).
+Act id: `pravilnik-2021-430` (tags `pravilnik-2021-430/<day>`; `python registry/tools/on.py <day> pravilnik-2021-430`).
 
 ## Decisions made by hand
 

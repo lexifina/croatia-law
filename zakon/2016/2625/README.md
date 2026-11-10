@@ -9,7 +9,7 @@ Zakon o dopuni Zakona o poticanju razvoja malog gospodarstva · 1 versions, from
 | čl. 3 | [clanak-003.md](clanak-003.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2016-2625` (tags `zakon-2016-2625/<day>`; `python tools/on.py <day> zakon-2016-2625`).
+Act id: `zakon-2016-2625` (tags `zakon-2016-2625/<day>`; `python registry/tools/on.py <day> zakon-2016-2625`).
 
 ## Decisions made by hand
 

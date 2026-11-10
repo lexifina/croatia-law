@@ -24,7 +24,7 @@ Pravilnik o tehničkim i sigurnosnim standardima u javnom linijskom i međunarod
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2023-812` (tags `pravilnik-2023-812/<day>`; `python tools/on.py <day> pravilnik-2023-812`).
+Act id: `pravilnik-2023-812` (tags `pravilnik-2023-812/<day>`; `python registry/tools/on.py <day> pravilnik-2023-812`).
 
 ## Status
 

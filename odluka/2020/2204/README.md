@@ -8,7 +8,7 @@ Odluka o ograničavanju društvenih okupljanja · 1 versions, from 2020-10-12 (l
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2020-2204` (tags `odluka-2020-2204/<day>`; `python tools/on.py <day> odluka-2020-2204`).
+Act id: `odluka-2020-2204` (tags `odluka-2020-2204/<day>`; `python registry/tools/on.py <day> odluka-2020-2204`).
 
 ## Status
 

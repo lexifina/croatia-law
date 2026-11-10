@@ -16,7 +16,7 @@ Zakon o izmjenama i dopunama Zakona o zaštiti od nasilja u obitelji · 1 versio
 | čl. 10 | [clanak-010.md](clanak-010.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2024-571` (tags `zakon-2024-571/<day>`; `python tools/on.py <day> zakon-2024-571`).
+Act id: `zakon-2024-571` (tags `zakon-2024-571/<day>`; `python registry/tools/on.py <day> zakon-2024-571`).
 
 ## Decisions made by hand
 

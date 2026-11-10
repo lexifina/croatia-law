@@ -8,7 +8,7 @@ Odluka o dopuni Odluke o visini, načinu i rokovima uplate sredstava trgovačkih
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2017-3025` (tags `odluka-2017-3025/<day>`; `python tools/on.py <day> odluka-2017-3025`).
+Act id: `odluka-2017-3025` (tags `odluka-2017-3025/<day>`; `python registry/tools/on.py <day> odluka-2017-3025`).
 
 ## Decisions made by hand
 

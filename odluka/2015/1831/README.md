@@ -8,7 +8,7 @@ Odluka o izmjeni naknade u sustavu gospodarenja otpadnim uljima · 1 versions, f
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2015-1831` (tags `odluka-2015-1831/<day>`; `python tools/on.py <day> odluka-2015-1831`).
+Act id: `odluka-2015-1831` (tags `odluka-2015-1831/<day>`; `python registry/tools/on.py <day> odluka-2015-1831`).
 
 ## Status
 

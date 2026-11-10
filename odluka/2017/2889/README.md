@@ -5,7 +5,7 @@ Odluka o indikativnim iznosima tarifnih stavki za prihvat i otpremu ukapljenog p
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `odluka-2017-2889` (tags `odluka-2017-2889/<day>`; `python tools/on.py <day> odluka-2017-2889`).
+Act id: `odluka-2017-2889` (tags `odluka-2017-2889/<day>`; `python registry/tools/on.py <day> odluka-2017-2889`).
 
 ## Decisions made by hand
 

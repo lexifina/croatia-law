@@ -30,7 +30,7 @@ Pravilnik o obradi biometrijskih podataka · 1 versions, from 2020-11-17 (latest
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2020-2372` (tags `pravilnik-2020-2372/<day>`; `python tools/on.py <day> pravilnik-2020-2372`).
+Act id: `pravilnik-2020-2372` (tags `pravilnik-2020-2372/<day>`; `python registry/tools/on.py <day> pravilnik-2020-2372`).
 
 ## Status
 

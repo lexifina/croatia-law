@@ -25,7 +25,7 @@ Pravilnik o provedbi Programa školski medni dan s hrvatskih pčelinjaka · 1 ve
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2022-1150` (tags `pravilnik-2022-1150/<day>`; `python tools/on.py <day> pravilnik-2022-1150`).
+Act id: `pravilnik-2022-1150` (tags `pravilnik-2022-1150/<day>`; `python registry/tools/on.py <day> pravilnik-2022-1150`).
 
 ## Decisions made by hand
 

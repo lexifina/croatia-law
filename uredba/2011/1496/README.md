@@ -11,7 +11,7 @@ Uredba o izmjenama i dopuni Uredbe o opsegu i sadržaju odgovornosti te ovlastim
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2011-1496` (tags `uredba-2011-1496/<day>`; `python tools/on.py <day> uredba-2011-1496`).
+Act id: `uredba-2011-1496` (tags `uredba-2011-1496/<day>`; `python registry/tools/on.py <day> uredba-2011-1496`).
 
 ## Decisions made by hand
 

@@ -9,7 +9,7 @@ Odluka o aktualnoj vrijednosti mirovine od 1. siječnja 2023. · 1 versions, fro
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2023-463` (tags `odluka-2023-463/<day>`; `python tools/on.py <day> odluka-2023-463`).
+Act id: `odluka-2023-463` (tags `odluka-2023-463/<day>`; `python registry/tools/on.py <day> odluka-2023-463`).
 
 ## Decisions made by hand
 

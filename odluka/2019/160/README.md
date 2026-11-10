@@ -9,7 +9,7 @@ Odluka o donošenju kurikuluma za nastavni predmet Sociologije za gimnazije u Re
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2019-160` (tags `odluka-2019-160/<day>`; `python tools/on.py <day> odluka-2019-160`).
+Act id: `odluka-2019-160` (tags `odluka-2019-160/<day>`; `python registry/tools/on.py <day> odluka-2019-160`).
 
 ## Status
 

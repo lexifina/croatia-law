@@ -20,7 +20,7 @@ Pravilnik o odori službenika pravosudne policije · 1 versions, from 2022-06-29
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2022-1055` (tags `pravilnik-2022-1055/<day>`; `python tools/on.py <day> pravilnik-2022-1055`).
+Act id: `pravilnik-2022-1055` (tags `pravilnik-2022-1055/<day>`; `python registry/tools/on.py <day> pravilnik-2022-1055`).
 
 ## Status
 

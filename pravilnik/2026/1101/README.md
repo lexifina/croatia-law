@@ -23,7 +23,7 @@ Pravilnik o registru medijatora · 1 versions, from 2026-08-18 (latest in force:
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2026-1101` (tags `pravilnik-2026-1101/<day>`; `python tools/on.py <day> pravilnik-2026-1101`).
+Act id: `pravilnik-2026-1101` (tags `pravilnik-2026-1101/<day>`; `python registry/tools/on.py <day> pravilnik-2026-1101`).
 
 ## Decisions made by hand
 

@@ -16,7 +16,7 @@ Zakon o izmjenama i dopunama Općeg poreznog zakona · 1 versions, from 2016-05-
 | čl. 10 | [clanak-010.md](clanak-010.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2016-1137` (tags `zakon-2016-1137/<day>`; `python tools/on.py <day> zakon-2016-1137`).
+Act id: `zakon-2016-1137` (tags `zakon-2016-1137/<day>`; `python registry/tools/on.py <day> zakon-2016-1137`).
 
 ## Decisions made by hand
 

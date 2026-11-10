@@ -9,7 +9,7 @@ Naputak za postupanje u primjeni odredbe članka 51. stavka 3. Zakona o poljopri
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `naputak-2017-1205` (tags `naputak-2017-1205/<day>`; `python tools/on.py <day> naputak-2017-1205`).
+Act id: `naputak-2017-1205` (tags `naputak-2017-1205/<day>`; `python registry/tools/on.py <day> naputak-2017-1205`).
 
 ## Status
 

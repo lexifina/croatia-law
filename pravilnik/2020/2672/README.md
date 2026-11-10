@@ -20,7 +20,7 @@ Pravilnik o provedbi Provedbene uredbe Komisije (EU) 2017/373 o utvrđivanju zaj
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2020-2672` (tags `pravilnik-2020-2672/<day>`; `python tools/on.py <day> pravilnik-2020-2672`).
+Act id: `pravilnik-2020-2672` (tags `pravilnik-2020-2672/<day>`; `python registry/tools/on.py <day> pravilnik-2020-2672`).
 
 ## Status
 

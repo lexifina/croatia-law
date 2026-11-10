@@ -22,7 +22,7 @@ Pravilnik o zaštiti radnika od izloženosti vibracijama na radu · 1 versions, 
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2023-2097` (tags `pravilnik-2023-2097/<day>`; `python tools/on.py <day> pravilnik-2023-2097`).
+Act id: `pravilnik-2023-2097` (tags `pravilnik-2023-2097/<day>`; `python registry/tools/on.py <day> pravilnik-2023-2097`).
 
 ## Decisions made by hand
 

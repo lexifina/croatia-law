@@ -42,7 +42,7 @@ Pravilnik o načinu i postupku provedbe ovrhe na novčanim sredstvima · 1 versi
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2013-88` (tags `pravilnik-2013-88/<day>`; `python tools/on.py <day> pravilnik-2013-88`).
+Act id: `pravilnik-2013-88` (tags `pravilnik-2013-88/<day>`; `python registry/tools/on.py <day> pravilnik-2013-88`).
 
 ## Status
 

@@ -10,7 +10,7 @@ Pravilnik o izmjenama i dopuni Pravilnika o načinu ostvarivanja prava na prilag
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2022-1138` (tags `pravilnik-2022-1138/<day>`; `python tools/on.py <day> pravilnik-2022-1138`).
+Act id: `pravilnik-2022-1138` (tags `pravilnik-2022-1138/<day>`; `python registry/tools/on.py <day> pravilnik-2022-1138`).
 
 ## Decisions made by hand
 

@@ -14,7 +14,7 @@ Uredba o izmjenama i dopuni Uredbe o osnivanju Veleučilišta u Slavonskom Brodu
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2013-2535` (tags `uredba-2013-2535/<day>`; `python tools/on.py <day> uredba-2013-2535`).
+Act id: `uredba-2013-2535` (tags `uredba-2013-2535/<day>`; `python registry/tools/on.py <day> uredba-2013-2535`).
 
 ## Decisions made by hand
 

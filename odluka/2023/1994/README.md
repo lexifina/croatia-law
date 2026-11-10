@@ -9,7 +9,7 @@ Odluka o stavljanju izvan snage Odluke o uvođenju prireza porezu na dohodak u O
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2023-1994` (tags `odluka-2023-1994/<day>`; `python tools/on.py <day> odluka-2023-1994`).
+Act id: `odluka-2023-1994` (tags `odluka-2023-1994/<day>`; `python registry/tools/on.py <day> odluka-2023-1994`).
 
 ## Decisions made by hand
 

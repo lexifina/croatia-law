@@ -11,7 +11,7 @@ Pravilnik o izmjenama Pravilnika o provedbenim mjerama za određene proizvode na
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2012-1850` (tags `pravilnik-2012-1850/<day>`; `python tools/on.py <day> pravilnik-2012-1850`).
+Act id: `pravilnik-2012-1850` (tags `pravilnik-2012-1850/<day>`; `python registry/tools/on.py <day> pravilnik-2012-1850`).
 
 ## Decisions made by hand
 

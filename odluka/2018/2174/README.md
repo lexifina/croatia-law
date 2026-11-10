@@ -8,7 +8,7 @@ Odluka o utvrđivanju interesa Republike Hrvatske za izgradnju Osnovne škole Dr
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2018-2174` (tags `odluka-2018-2174/<day>`; `python tools/on.py <day> odluka-2018-2174`).
+Act id: `odluka-2018-2174` (tags `odluka-2018-2174/<day>`; `python registry/tools/on.py <day> odluka-2018-2174`).
 
 ## Decisions made by hand
 

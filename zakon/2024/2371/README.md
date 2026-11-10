@@ -29,7 +29,7 @@ Zakon o izmjenama i dopunama Zakona o sanaciji kreditnih institucija i investici
 | čl. 23 | [clanak-023.md](clanak-023.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2024-2371` (tags `zakon-2024-2371/<day>`; `python tools/on.py <day> zakon-2024-2371`).
+Act id: `zakon-2024-2371` (tags `zakon-2024-2371/<day>`; `python registry/tools/on.py <day> zakon-2024-2371`).
 
 ## Decisions made by hand
 

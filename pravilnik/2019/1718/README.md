@@ -8,7 +8,7 @@ Pravilnik o izmjenama i dopunama Pravilnika o troškovima i naknadama koji se mo
 | čl. 2 | [clanak-002.md](clanak-002.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `pravilnik-2019-1718` (tags `pravilnik-2019-1718/<day>`; `python tools/on.py <day> pravilnik-2019-1718`).
+Act id: `pravilnik-2019-1718` (tags `pravilnik-2019-1718/<day>`; `python registry/tools/on.py <day> pravilnik-2019-1718`).
 
 ## Decisions made by hand
 

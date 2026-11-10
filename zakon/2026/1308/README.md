@@ -60,7 +60,7 @@ Zakon o izmjenama i dopunama Zakona o visokom obrazovanju i znanstvenoj djelatno
 | čl. 54 | [clanak-054.md](clanak-054.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2026-1308` (tags `zakon-2026-1308/<day>`; `python tools/on.py <day> zakon-2026-1308`).
+Act id: `zakon-2026-1308` (tags `zakon-2026-1308/<day>`; `python registry/tools/on.py <day> zakon-2026-1308`).
 
 ## Decisions made by hand
 

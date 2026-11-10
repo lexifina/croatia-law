@@ -9,7 +9,7 @@ Odluka o ukidanju Odluke o uzajamnom priznavanju mjere makrobonitetne politike i
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2021-615` (tags `odluka-2021-615/<day>`; `python tools/on.py <day> odluka-2021-615`).
+Act id: `odluka-2021-615` (tags `odluka-2021-615/<day>`; `python registry/tools/on.py <day> odluka-2021-615`).
 
 ## Decisions made by hand
 

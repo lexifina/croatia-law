@@ -8,7 +8,7 @@ Odluka kojom se utvrđuje Lista izmiritelja Centra za mirenje pri Hrvatskoj komo
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2016-108` (tags `odluka-2016-108/<day>`; `python tools/on.py <day> odluka-2016-108`).
+Act id: `odluka-2016-108` (tags `odluka-2016-108/<day>`; `python registry/tools/on.py <day> odluka-2016-108`).
 
 ## Status
 

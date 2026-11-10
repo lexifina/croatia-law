@@ -8,7 +8,7 @@ Odluka o raspisivanju izbora za predstavnike nacionalnih manjina u jedinicama lo
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2023-630` (tags `odluka-2023-630/<day>`; `python tools/on.py <day> odluka-2023-630`).
+Act id: `odluka-2023-630` (tags `odluka-2023-630/<day>`; `python registry/tools/on.py <day> odluka-2023-630`).
 
 ## Decisions made by hand
 

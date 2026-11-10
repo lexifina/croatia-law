@@ -13,7 +13,7 @@ Uredba o izmjeni i dopunama Uredbe o unutarnjem ustrojstvu Ministarstva kulture 
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2021-275` (tags `uredba-2021-275/<day>`; `python tools/on.py <day> uredba-2021-275`).
+Act id: `uredba-2021-275` (tags `uredba-2021-275/<day>`; `python registry/tools/on.py <day> uredba-2021-275`).
 
 ## Decisions made by hand
 

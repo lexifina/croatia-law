@@ -12,7 +12,7 @@ Zakon o izmjenama i dopuni Zakona o osnivanju Agencije za investicije i konkuren
 | čl. 6 | [clanak-006.md](clanak-006.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2014-2861` (tags `zakon-2014-2861/<day>`; `python tools/on.py <day> zakon-2014-2861`).
+Act id: `zakon-2014-2861` (tags `zakon-2014-2861/<day>`; `python registry/tools/on.py <day> zakon-2014-2861`).
 
 ## Decisions made by hand
 

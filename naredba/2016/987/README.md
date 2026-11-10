@@ -9,7 +9,7 @@ Naredba o vremenu otvorenosti aerodroma · 1 versions, from 2016-04-20 (latest i
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `naredba-2016-987` (tags `naredba-2016-987/<day>`; `python tools/on.py <day> naredba-2016-987`).
+Act id: `naredba-2016-987` (tags `naredba-2016-987/<day>`; `python registry/tools/on.py <day> naredba-2016-987`).
 
 ## Status
 

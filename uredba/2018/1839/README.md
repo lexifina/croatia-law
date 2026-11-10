@@ -5,7 +5,7 @@ Uredba o darovanju nekretnina u vlasništvu Republike Hrvatske · 2 versions, fr
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `uredba-2018-1839` (tags `uredba-2018-1839/<day>`; `python tools/on.py <day> uredba-2018-1839`).
+Act id: `uredba-2018-1839` (tags `uredba-2018-1839/<day>`; `python registry/tools/on.py <day> uredba-2018-1839`).
 
 ## Decisions made by hand
 

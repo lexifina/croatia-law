@@ -9,7 +9,7 @@ Pravilnik o izmjeni Pravilnika o mjerilima za izračun naknade za korištenje ce
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2011-929` (tags `pravilnik-2011-929/<day>`; `python tools/on.py <day> pravilnik-2011-929`).
+Act id: `pravilnik-2011-929` (tags `pravilnik-2011-929/<day>`; `python registry/tools/on.py <day> pravilnik-2011-929`).
 
 ## Decisions made by hand
 

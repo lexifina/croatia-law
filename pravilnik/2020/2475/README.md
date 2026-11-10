@@ -31,7 +31,7 @@ Pravilnik o uvjetima, kriterijima i načinu dodjele potpore u okviru mjere I.9. 
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2020-2475` (tags `pravilnik-2020-2475/<day>`; `python tools/on.py <day> pravilnik-2020-2475`).
+Act id: `pravilnik-2020-2475` (tags `pravilnik-2020-2475/<day>`; `python registry/tools/on.py <day> pravilnik-2020-2475`).
 
 ## Decisions made by hand
 

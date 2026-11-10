@@ -10,7 +10,7 @@ Odluka o izmjeni odluke o naknadi za razvoj · 1 versions, from 2026-10-03 (late
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2026-1300` (tags `odluka-2026-1300/<day>`; `python tools/on.py <day> odluka-2026-1300`).
+Act id: `odluka-2026-1300` (tags `odluka-2026-1300/<day>`; `python registry/tools/on.py <day> odluka-2026-1300`).
 
 ## Decisions made by hand
 

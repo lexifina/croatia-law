@@ -70,7 +70,7 @@ Zakon o izmjenama i dopunama Zakona o prostornom uređenju · 1 versions, from 2
 | čl. 64 | [clanak-064.md](clanak-064.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2023-1101` (tags `zakon-2023-1101/<day>`; `python tools/on.py <day> zakon-2023-1101`).
+Act id: `zakon-2023-1101` (tags `zakon-2023-1101/<day>`; `python registry/tools/on.py <day> zakon-2023-1101`).
 
 ## Decisions made by hand
 

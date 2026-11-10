@@ -19,7 +19,7 @@ Pravilnik o nacionalnoj mreži institucija u području sigurnosti hrane i hrane 
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2025-583` (tags `pravilnik-2025-583/<day>`; `python tools/on.py <day> pravilnik-2025-583`).
+Act id: `pravilnik-2025-583` (tags `pravilnik-2025-583/<day>`; `python registry/tools/on.py <day> pravilnik-2025-583`).
 
 ## Decisions made by hand
 

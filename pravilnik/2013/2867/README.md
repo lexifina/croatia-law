@@ -36,7 +36,7 @@ Pravilnik o sadržaju i postupku obavijesti o namjeri davanja koncesija za obavl
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2013-2867` (tags `pravilnik-2013-2867/<day>`; `python tools/on.py <day> pravilnik-2013-2867`).
+Act id: `pravilnik-2013-2867` (tags `pravilnik-2013-2867/<day>`; `python registry/tools/on.py <day> pravilnik-2013-2867`).
 
 ## Status
 

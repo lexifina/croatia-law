@@ -8,7 +8,7 @@ Odluka o pokretanju projekta e-Poslovanje · 1 versions, from 2018-06-07 (latest
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2018-1034` (tags `odluka-2018-1034/<day>`; `python tools/on.py <day> odluka-2018-1034`).
+Act id: `odluka-2018-1034` (tags `odluka-2018-1034/<day>`; `python registry/tools/on.py <day> odluka-2018-1034`).
 
 ## Decisions made by hand
 

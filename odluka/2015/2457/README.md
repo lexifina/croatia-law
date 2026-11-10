@@ -17,7 +17,7 @@ Odluka o financiranju Hrvatske gospodarske komore · 1 versions, from 2015-11-27
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2015-2457` (tags `odluka-2015-2457/<day>`; `python tools/on.py <day> odluka-2015-2457`).
+Act id: `odluka-2015-2457` (tags `odluka-2015-2457/<day>`; `python registry/tools/on.py <day> odluka-2015-2457`).
 
 ## Status
 

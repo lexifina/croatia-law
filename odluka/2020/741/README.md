@@ -8,7 +8,7 @@ Odluka o mjeri obustave rada tržnica i svih objekata u sastavu tržnica u kojim
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2020-741` (tags `odluka-2020-741/<day>`; `python tools/on.py <day> odluka-2020-741`).
+Act id: `odluka-2020-741` (tags `odluka-2020-741/<day>`; `python registry/tools/on.py <day> odluka-2020-741`).
 
 ## Status
 

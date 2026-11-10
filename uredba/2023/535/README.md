@@ -13,7 +13,7 @@ Uredba o izmjenama Uredbe o mjesečnom iznosu naknade za ugroženog kupca energe
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2023-535` (tags `uredba-2023-535/<day>`; `python tools/on.py <day> uredba-2023-535`).
+Act id: `uredba-2023-535` (tags `uredba-2023-535/<day>`; `python registry/tools/on.py <day> uredba-2023-535`).
 
 ## Decisions made by hand
 

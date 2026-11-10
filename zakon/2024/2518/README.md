@@ -13,7 +13,7 @@ Zakon o izmjenama i dopunama Zakona o vanjskim poslovima · 1 versions, from 202
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 
-Act id: `zakon-2024-2518` (tags `zakon-2024-2518/<day>`; `python tools/on.py <day> zakon-2024-2518`).
+Act id: `zakon-2024-2518` (tags `zakon-2024-2518/<day>`; `python registry/tools/on.py <day> zakon-2024-2518`).
 
 ## Decisions made by hand
 

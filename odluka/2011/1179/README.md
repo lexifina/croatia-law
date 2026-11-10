@@ -8,7 +8,7 @@ Odluka o rasporedu sredstava osiguranih u Državnom proračunu Republike Hrvatsk
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2011-1179` (tags `odluka-2011-1179/<day>`; `python tools/on.py <day> odluka-2011-1179`).
+Act id: `odluka-2011-1179` (tags `odluka-2011-1179/<day>`; `python registry/tools/on.py <day> odluka-2011-1179`).
 
 ## Decisions made by hand
 

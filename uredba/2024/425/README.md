@@ -62,7 +62,7 @@ Uredba o Nacionalnom planu traganja i spašavanja osoba u pogibelji na moru · 1
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2024-425` (tags `uredba-2024-425/<day>`; `python tools/on.py <day> uredba-2024-425`).
+Act id: `uredba-2024-425` (tags `uredba-2024-425/<day>`; `python registry/tools/on.py <day> uredba-2024-425`).
 
 ## Decisions made by hand
 

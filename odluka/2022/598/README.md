@@ -15,7 +15,7 @@ Odluka o postupku i načinu obavljanja nadzora kreditnih unija te sastavljanju i
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2022-598` (tags `odluka-2022-598/<day>`; `python tools/on.py <day> odluka-2022-598`).
+Act id: `odluka-2022-598` (tags `odluka-2022-598/<day>`; `python registry/tools/on.py <day> odluka-2022-598`).
 
 ## Status
 

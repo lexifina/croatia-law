@@ -10,7 +10,7 @@ Pravilnik o dopunama Pravilnika o jakim alkoholnim pićima · 1 versions, from 2
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2012-2566` (tags `pravilnik-2012-2566/<day>`; `python tools/on.py <day> pravilnik-2012-2566`).
+Act id: `pravilnik-2012-2566` (tags `pravilnik-2012-2566/<day>`; `python registry/tools/on.py <day> pravilnik-2012-2566`).
 
 ## Decisions made by hand
 

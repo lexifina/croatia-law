@@ -22,7 +22,7 @@ Zakon o izmjenama i dopunama Prekršajnog zakona · 1 versions, from 2014-01-01 
 | čl. 16 | [clanak-016.md](clanak-016.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2013-3294` (tags `zakon-2013-3294/<day>`; `python tools/on.py <day> zakon-2013-3294`).
+Act id: `zakon-2013-3294` (tags `zakon-2013-3294/<day>`; `python registry/tools/on.py <day> zakon-2013-3294`).
 
 ## Decisions made by hand
 

@@ -8,7 +8,7 @@ Odluka o donošenju Programa mjera zaštite i upravljanja morskim okolišem i ob
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2017-2237` (tags `odluka-2017-2237/<day>`; `python tools/on.py <day> odluka-2017-2237`).
+Act id: `odluka-2017-2237` (tags `odluka-2017-2237/<day>`; `python registry/tools/on.py <day> odluka-2017-2237`).
 
 ## Decisions made by hand
 

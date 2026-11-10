@@ -22,7 +22,7 @@ Naputak o utvrđivanju popisa izvanproračunskih korisnika iz skupine II. - obve
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `naputak-2024-1999` (tags `naputak-2024-1999/<day>`; `python tools/on.py <day> naputak-2024-1999`).
+Act id: `naputak-2024-1999` (tags `naputak-2024-1999/<day>`; `python registry/tools/on.py <day> naputak-2024-1999`).
 
 ## Decisions made by hand
 

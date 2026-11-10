@@ -42,7 +42,7 @@ Uredba o kvaliteti tekućih naftnih goriva · 1 versions, from 2013-09-12 (lates
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2013-2458` (tags `uredba-2013-2458/<day>`; `python tools/on.py <day> uredba-2013-2458`).
+Act id: `uredba-2013-2458` (tags `uredba-2013-2458/<day>`; `python registry/tools/on.py <day> uredba-2013-2458`).
 
 ## Status
 

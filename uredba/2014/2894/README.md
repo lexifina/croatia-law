@@ -83,7 +83,7 @@ Uredba o metodologiji vještačenja · 1 versions, from 2015-01-01 (latest in fo
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2014-2894` (tags `uredba-2014-2894/<day>`; `python tools/on.py <day> uredba-2014-2894`).
+Act id: `uredba-2014-2894` (tags `uredba-2014-2894/<day>`; `python registry/tools/on.py <day> uredba-2014-2894`).
 
 ## Status
 

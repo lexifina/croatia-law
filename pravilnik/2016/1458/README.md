@@ -12,7 +12,7 @@ Pravilnik o izmjenama i dopunama Pravilnika o uvjetima za uzgoj konoplje, način
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2016-1458` (tags `pravilnik-2016-1458/<day>`; `python tools/on.py <day> pravilnik-2016-1458`).
+Act id: `pravilnik-2016-1458` (tags `pravilnik-2016-1458/<day>`; `python registry/tools/on.py <day> pravilnik-2016-1458`).
 
 ## Decisions made by hand
 

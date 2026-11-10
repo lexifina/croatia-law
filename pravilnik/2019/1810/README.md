@@ -67,7 +67,7 @@ Pravilnik o provedbi mjera Programa ruralnog razvoja Republike Hrvatske za razdo
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2019-1810` (tags `pravilnik-2019-1810/<day>`; `python tools/on.py <day> pravilnik-2019-1810`).
+Act id: `pravilnik-2019-1810` (tags `pravilnik-2019-1810/<day>`; `python registry/tools/on.py <day> pravilnik-2019-1810`).
 
 ## Status
 

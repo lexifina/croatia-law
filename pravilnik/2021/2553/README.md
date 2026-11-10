@@ -23,7 +23,7 @@ Pravilnik o načinu stjecanja te provjere znanja o zaštiti od opasnih kemikalij
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2021-2553` (tags `pravilnik-2021-2553/<day>`; `python tools/on.py <day> pravilnik-2021-2553`).
+Act id: `pravilnik-2021-2553` (tags `pravilnik-2021-2553/<day>`; `python registry/tools/on.py <day> pravilnik-2021-2553`).
 
 ## Decisions made by hand
 

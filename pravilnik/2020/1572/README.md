@@ -18,7 +18,7 @@ Pravilnik o prijavljivanju mogućih ili stvarnih kršenja Uredbe (EU) 2015/2365 
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2020-1572` (tags `pravilnik-2020-1572/<day>`; `python tools/on.py <day> pravilnik-2020-1572`).
+Act id: `pravilnik-2020-1572` (tags `pravilnik-2020-1572/<day>`; `python registry/tools/on.py <day> pravilnik-2020-1572`).
 
 ## Decisions made by hand
 

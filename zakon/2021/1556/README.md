@@ -82,7 +82,7 @@ Zakon o izmjenama i dopunama Zakona o hrvatskim braniteljima iz Domovinskog rata
 | čl. 76 | [clanak-076.md](clanak-076.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2021-1556` (tags `zakon-2021-1556/<day>`; `python tools/on.py <day> zakon-2021-1556`).
+Act id: `zakon-2021-1556` (tags `zakon-2021-1556/<day>`; `python registry/tools/on.py <day> zakon-2021-1556`).
 
 ## Decisions made by hand
 

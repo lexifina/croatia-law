@@ -11,7 +11,7 @@ Odluka o izmjeni Odluke o lokalnim porezima Općine Lastovo · 1 versions, from 
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2023-2279` (tags `odluka-2023-2279/<day>`; `python tools/on.py <day> odluka-2023-2279`).
+Act id: `odluka-2023-2279` (tags `odluka-2023-2279/<day>`; `python registry/tools/on.py <day> odluka-2023-2279`).
 
 ## Decisions made by hand
 

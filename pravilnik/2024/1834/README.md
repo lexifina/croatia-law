@@ -43,7 +43,7 @@ Pravilnik o revizorskom ispitu, posebnom ispitu i ispitu osposobljenosti · 1 ve
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2024-1834` (tags `pravilnik-2024-1834/<day>`; `python tools/on.py <day> pravilnik-2024-1834`).
+Act id: `pravilnik-2024-1834` (tags `pravilnik-2024-1834/<day>`; `python registry/tools/on.py <day> pravilnik-2024-1834`).
 
 ## Decisions made by hand
 

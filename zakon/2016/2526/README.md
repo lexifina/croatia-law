@@ -38,7 +38,7 @@ Zakon o izmjenama i dopunama Zakona o porezu na dodanu vrijednost · 1 versions,
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 
-Act id: `zakon-2016-2526` (tags `zakon-2016-2526/<day>`; `python tools/on.py <day> zakon-2016-2526`).
+Act id: `zakon-2016-2526` (tags `zakon-2016-2526/<day>`; `python registry/tools/on.py <day> zakon-2016-2526`).
 
 ## Decisions made by hand
 

@@ -13,7 +13,7 @@ Odluka o naknadi za razvoj sustava javne odvodnje trgovačkog društva »Odvodnj
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2021-2527` (tags `odluka-2021-2527/<day>`; `python tools/on.py <day> odluka-2021-2527`).
+Act id: `odluka-2021-2527` (tags `odluka-2021-2527/<day>`; `python registry/tools/on.py <day> odluka-2021-2527`).
 
 ## Decisions made by hand
 

@@ -25,7 +25,7 @@ Odluka o izmjenama i dopunama Odluke o izvještajima za potrebe supervizije kred
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2023-462` (tags `odluka-2023-462/<day>`; `python tools/on.py <day> odluka-2023-462`).
+Act id: `odluka-2023-462` (tags `odluka-2023-462/<day>`; `python registry/tools/on.py <day> odluka-2023-462`).
 
 ## Decisions made by hand
 

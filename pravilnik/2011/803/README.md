@@ -8,7 +8,7 @@ Pravilnik o dopunama Pravilnika o stjecanju statusa povlaštenog proizvođača e
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2011-803` (tags `pravilnik-2011-803/<day>`; `python tools/on.py <day> pravilnik-2011-803`).
+Act id: `pravilnik-2011-803` (tags `pravilnik-2011-803/<day>`; `python registry/tools/on.py <day> pravilnik-2011-803`).
 
 ## Decisions made by hand
 

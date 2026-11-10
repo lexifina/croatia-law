@@ -9,7 +9,7 @@ Odluka o donošenju Programa stjecanja pedagoških kompetencija za strukovne uč
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2016-180` (tags `odluka-2016-180/<day>`; `python tools/on.py <day> odluka-2016-180`).
+Act id: `odluka-2016-180` (tags `odluka-2016-180/<day>`; `python registry/tools/on.py <day> odluka-2016-180`).
 
 ## Decisions made by hand
 

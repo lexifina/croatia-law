@@ -16,7 +16,7 @@ Pravilnik o vrsti i načinu stjecanja kompetencija ravnatelja i zamjenika ravnat
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2026-854` (tags `pravilnik-2026-854/<day>`; `python tools/on.py <day> pravilnik-2026-854`).
+Act id: `pravilnik-2026-854` (tags `pravilnik-2026-854/<day>`; `python registry/tools/on.py <day> pravilnik-2026-854`).
 
 ## Decisions made by hand
 

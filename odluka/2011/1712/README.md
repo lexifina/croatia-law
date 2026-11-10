@@ -9,7 +9,7 @@ Odluka o provođenju međunarodnih mjera ograničavanja utvrđenih Odlukom Vije�
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2011-1712` (tags `odluka-2011-1712/<day>`; `python tools/on.py <day> odluka-2011-1712`).
+Act id: `odluka-2011-1712` (tags `odluka-2011-1712/<day>`; `python registry/tools/on.py <day> odluka-2011-1712`).
 
 ## Status
 

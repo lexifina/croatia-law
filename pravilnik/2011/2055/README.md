@@ -27,7 +27,7 @@ Pravilnik o provedbi mjera strukturne politike u ribarstvu kroz potporu razvoju 
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2011-2055` (tags `pravilnik-2011-2055/<day>`; `python tools/on.py <day> pravilnik-2011-2055`).
+Act id: `pravilnik-2011-2055` (tags `pravilnik-2011-2055/<day>`; `python registry/tools/on.py <day> pravilnik-2011-2055`).
 
 ## Decisions made by hand
 

@@ -12,7 +12,7 @@ Zakon o izmjenama Zakona o javno-privatnom partnerstvu · 1 versions, from 2011-
 | čl. 6 | [clanak-006.md](clanak-006.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2011-1195` (tags `zakon-2011-1195/<day>`; `python tools/on.py <day> zakon-2011-1195`).
+Act id: `zakon-2011-1195` (tags `zakon-2011-1195/<day>`; `python registry/tools/on.py <day> zakon-2011-1195`).
 
 ## Decisions made by hand
 

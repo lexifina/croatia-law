@@ -10,7 +10,7 @@ Uredba o izmjeni Uredbe o unutarnjem ustrojstvu Državnog inspektorata · 1 vers
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2020-2308` (tags `uredba-2020-2308/<day>`; `python tools/on.py <day> uredba-2020-2308`).
+Act id: `uredba-2020-2308` (tags `uredba-2020-2308/<day>`; `python registry/tools/on.py <day> uredba-2020-2308`).
 
 ## Decisions made by hand
 

@@ -11,7 +11,7 @@ Pravilnik o izmjenama Pravilnika o postupku izbora radničkog vijeća · 1 versi
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2017-1192` (tags `pravilnik-2017-1192/<day>`; `python tools/on.py <day> pravilnik-2017-1192`).
+Act id: `pravilnik-2017-1192` (tags `pravilnik-2017-1192/<day>`; `python registry/tools/on.py <day> pravilnik-2017-1192`).
 
 ## Decisions made by hand
 

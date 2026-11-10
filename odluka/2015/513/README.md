@@ -11,7 +11,7 @@ Odluka o izmjenama Statuta Hrvatskog zavoda za mirovinsko osiguranje · 1 versio
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2015-513` (tags `odluka-2015-513/<day>`; `python tools/on.py <day> odluka-2015-513`).
+Act id: `odluka-2015-513` (tags `odluka-2015-513/<day>`; `python registry/tools/on.py <day> odluka-2015-513`).
 
 ## Decisions made by hand
 

@@ -9,7 +9,7 @@ Pravilnik o izmjeni Pravilnika o porezu na dodanu vrijednost · 1 versions, from
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2024-701` (tags `pravilnik-2024-701/<day>`; `python tools/on.py <day> pravilnik-2024-701`).
+Act id: `pravilnik-2024-701` (tags `pravilnik-2024-701/<day>`; `python registry/tools/on.py <day> pravilnik-2024-701`).
 
 ## Decisions made by hand
 

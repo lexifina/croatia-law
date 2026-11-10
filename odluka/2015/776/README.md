@@ -17,7 +17,7 @@ Odluka o izmjeni i dopuni Odluke o troškovima u postupcima arbitraže · 1 vers
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2015-776` (tags `odluka-2015-776/<day>`; `python tools/on.py <day> odluka-2015-776`).
+Act id: `odluka-2015-776` (tags `odluka-2015-776/<day>`; `python registry/tools/on.py <day> odluka-2015-776`).
 
 ## Decisions made by hand
 

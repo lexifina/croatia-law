@@ -14,7 +14,7 @@ Pravilnik o izmjenama i dopunama Pravilnika o postupku homologacije motornih voz
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2012-811` (tags `pravilnik-2012-811/<day>`; `python tools/on.py <day> pravilnik-2012-811`).
+Act id: `pravilnik-2012-811` (tags `pravilnik-2012-811/<day>`; `python registry/tools/on.py <day> pravilnik-2012-811`).
 
 ## Decisions made by hand
 

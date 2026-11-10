@@ -12,7 +12,7 @@ Pravilnik o izmjenama i dopunama Pravilnika o izdavanju memorijskih kartica · 1
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2015-331` (tags `pravilnik-2015-331/<day>`; `python tools/on.py <day> pravilnik-2015-331`).
+Act id: `pravilnik-2015-331` (tags `pravilnik-2015-331/<day>`; `python registry/tools/on.py <day> pravilnik-2015-331`).
 
 ## Decisions made by hand
 

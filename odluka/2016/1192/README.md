@@ -8,7 +8,7 @@ Odluka o izdavanju numizmatičkih kompleta kovanog novca Republike Hrvatske, kun
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2016-1192` (tags `odluka-2016-1192/<day>`; `python tools/on.py <day> odluka-2016-1192`).
+Act id: `odluka-2016-1192` (tags `odluka-2016-1192/<day>`; `python registry/tools/on.py <day> odluka-2016-1192`).
 
 ## Decisions made by hand
 

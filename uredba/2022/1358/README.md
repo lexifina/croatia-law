@@ -8,7 +8,7 @@ Uredba o dopuni Uredbe o graničnim prijelazima Republike Hrvatske · 1 versions
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2022-1358` (tags `uredba-2022-1358/<day>`; `python tools/on.py <day> uredba-2022-1358`).
+Act id: `uredba-2022-1358` (tags `uredba-2022-1358/<day>`; `python registry/tools/on.py <day> uredba-2022-1358`).
 
 ## Decisions made by hand
 

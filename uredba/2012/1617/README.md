@@ -24,7 +24,7 @@ Uredba o ugovaranju i provedbi energetske usluge u javnom sektoru · 1 versions,
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2012-1617` (tags `uredba-2012-1617/<day>`; `python tools/on.py <day> uredba-2012-1617`).
+Act id: `uredba-2012-1617` (tags `uredba-2012-1617/<day>`; `python registry/tools/on.py <day> uredba-2012-1617`).
 
 ## Status
 

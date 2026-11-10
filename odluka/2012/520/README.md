@@ -8,7 +8,7 @@ Odluka o određivanju uvjeta za kandidate za članove nadzornih, odnosno upravni
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2012-520` (tags `odluka-2012-520/<day>`; `python tools/on.py <day> odluka-2012-520`).
+Act id: `odluka-2012-520` (tags `odluka-2012-520/<day>`; `python registry/tools/on.py <day> odluka-2012-520`).
 
 ## Status
 

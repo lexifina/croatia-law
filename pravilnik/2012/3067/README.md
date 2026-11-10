@@ -9,7 +9,7 @@ Pravilnik o izmjenama Pravilnika o gospodarenju otpadnim električnim i elektron
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2012-3067` (tags `pravilnik-2012-3067/<day>`; `python tools/on.py <day> pravilnik-2012-3067`).
+Act id: `pravilnik-2012-3067` (tags `pravilnik-2012-3067/<day>`; `python registry/tools/on.py <day> pravilnik-2012-3067`).
 
 ## Decisions made by hand
 

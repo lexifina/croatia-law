@@ -20,7 +20,7 @@ Pravilnik o izmjenama i dopunama Pravilnika o utvrđivanju sukladnosti traktora 
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2019-42` (tags `pravilnik-2019-42/<day>`; `python tools/on.py <day> pravilnik-2019-42`).
+Act id: `pravilnik-2019-42` (tags `pravilnik-2019-42/<day>`; `python registry/tools/on.py <day> pravilnik-2019-42`).
 
 ## Decisions made by hand
 

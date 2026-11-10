@@ -26,7 +26,7 @@ Pravilnik o obavljanju djelatnosti u svezi sa zapošljavanjem · 1 versions, fro
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2025-1464` (tags `pravilnik-2025-1464/<day>`; `python tools/on.py <day> pravilnik-2025-1464`).
+Act id: `pravilnik-2025-1464` (tags `pravilnik-2025-1464/<day>`; `python registry/tools/on.py <day> pravilnik-2025-1464`).
 
 ## Decisions made by hand
 

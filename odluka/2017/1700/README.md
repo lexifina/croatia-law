@@ -9,7 +9,7 @@ Odluka o donošenju standarda zanimanja za stjecanje kvalifikacije tehničar za 
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2017-1700` (tags `odluka-2017-1700/<day>`; `python tools/on.py <day> odluka-2017-1700`).
+Act id: `odluka-2017-1700` (tags `odluka-2017-1700/<day>`; `python registry/tools/on.py <day> odluka-2017-1700`).
 
 ## Decisions made by hand
 

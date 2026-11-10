@@ -9,7 +9,7 @@ Odluka o minimalno potrebnim deviznim potraživanjima · 1 versions, from 2016-1
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2016-2150` (tags `odluka-2016-2150/<day>`; `python tools/on.py <day> odluka-2016-2150`).
+Act id: `odluka-2016-2150` (tags `odluka-2016-2150/<day>`; `python registry/tools/on.py <day> odluka-2016-2150`).
 
 ## Status
 

@@ -8,7 +8,7 @@ Odluka o određivanju središnjeg tijela u skladu s Delegiranom uredbom Komisije
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2019-1775` (tags `odluka-2019-1775/<day>`; `python tools/on.py <day> odluka-2019-1775`).
+Act id: `odluka-2019-1775` (tags `odluka-2019-1775/<day>`; `python registry/tools/on.py <day> odluka-2019-1775`).
 
 ## Decisions made by hand
 

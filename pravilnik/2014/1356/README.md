@@ -19,7 +19,7 @@ Pravilnik o ulaganjima društva za dokup mirovine · 1 versions, from 2014-06-21
 | čl. 13 | [clanak-013.md](clanak-013.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `pravilnik-2014-1356` (tags `pravilnik-2014-1356/<day>`; `python tools/on.py <day> pravilnik-2014-1356`).
+Act id: `pravilnik-2014-1356` (tags `pravilnik-2014-1356/<day>`; `python registry/tools/on.py <day> pravilnik-2014-1356`).
 
 ## Decisions made by hand
 

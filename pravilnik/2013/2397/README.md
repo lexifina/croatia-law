@@ -9,7 +9,7 @@ Pravilnik o prestanku važenja Pravilnika o smanjenju prevalencije Salmonella En
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2013-2397` (tags `pravilnik-2013-2397/<day>`; `python tools/on.py <day> pravilnik-2013-2397`).
+Act id: `pravilnik-2013-2397` (tags `pravilnik-2013-2397/<day>`; `python registry/tools/on.py <day> pravilnik-2013-2397`).
 
 ## Decisions made by hand
 

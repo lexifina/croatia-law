@@ -10,7 +10,7 @@ Pravilnik o izmjenama i dopunama Pravilnika o postupku naknade štete članovima
 | čl. 4 | [clanak-004.md](clanak-004.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `pravilnik-2017-856` (tags `pravilnik-2017-856/<day>`; `python tools/on.py <day> pravilnik-2017-856`).
+Act id: `pravilnik-2017-856` (tags `pravilnik-2017-856/<day>`; `python registry/tools/on.py <day> pravilnik-2017-856`).
 
 ## Decisions made by hand
 

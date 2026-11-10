@@ -21,7 +21,7 @@ Odluka o općinskim porezima Općine Blato · 1 versions, from 2023-01-01 (lates
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2022-2327` (tags `odluka-2022-2327/<day>`; `python tools/on.py <day> odluka-2022-2327`).
+Act id: `odluka-2022-2327` (tags `odluka-2022-2327/<day>`; `python registry/tools/on.py <day> odluka-2022-2327`).
 
 ## Decisions made by hand
 

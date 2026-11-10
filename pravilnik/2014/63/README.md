@@ -13,7 +13,7 @@ Pravilnik o izmjenama i dopunama Pravilnika o očevidniku deponiranog šljunka i
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2014-63` (tags `pravilnik-2014-63/<day>`; `python tools/on.py <day> pravilnik-2014-63`).
+Act id: `pravilnik-2014-63` (tags `pravilnik-2014-63/<day>`; `python registry/tools/on.py <day> pravilnik-2014-63`).
 
 ## Decisions made by hand
 

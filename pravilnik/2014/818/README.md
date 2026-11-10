@@ -18,7 +18,7 @@ Pravilnik o obrascu zahtjeva za izdavanje međunarodne uvozne potvrde, potvrde o
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2014-818` (tags `pravilnik-2014-818/<day>`; `python tools/on.py <day> pravilnik-2014-818`).
+Act id: `pravilnik-2014-818` (tags `pravilnik-2014-818/<day>`; `python registry/tools/on.py <day> pravilnik-2014-818`).
 
 ## Status
 

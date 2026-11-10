@@ -8,7 +8,7 @@ Odluka o izmjenama Odluke o sigurnosnoj mjeri privremene zabrane ulaska u Republ
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2021-2324` (tags `odluka-2021-2324/<day>`; `python tools/on.py <day> odluka-2021-2324`).
+Act id: `odluka-2021-2324` (tags `odluka-2021-2324/<day>`; `python registry/tools/on.py <day> odluka-2021-2324`).
 
 ## Decisions made by hand
 

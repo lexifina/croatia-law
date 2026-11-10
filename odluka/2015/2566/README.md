@@ -28,7 +28,7 @@ Odluka o postupcima namire za sporedne sustave · 1 versions, from 2016-02-01 (l
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2015-2566` (tags `odluka-2015-2566/<day>`; `python tools/on.py <day> odluka-2015-2566`).
+Act id: `odluka-2015-2566` (tags `odluka-2015-2566/<day>`; `python registry/tools/on.py <day> odluka-2015-2566`).
 
 ## Status
 

@@ -8,7 +8,7 @@ Zakon o dopuni Kaznenog zakona · 1 versions, from 2011-06-02 (latest in force: 
 | čl. 2 | [clanak-002.md](clanak-002.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2011-1259` (tags `zakon-2011-1259/<day>`; `python tools/on.py <day> zakon-2011-1259`).
+Act id: `zakon-2011-1259` (tags `zakon-2011-1259/<day>`; `python registry/tools/on.py <day> zakon-2011-1259`).
 
 ## Decisions made by hand
 

@@ -13,7 +13,7 @@ Uredba o izmjenama i dopuni Uredbe o osnivanju Državne škole za javnu upravu �
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2015-1371` (tags `uredba-2015-1371/<day>`; `python tools/on.py <day> uredba-2015-1371`).
+Act id: `uredba-2015-1371` (tags `uredba-2015-1371/<day>`; `python registry/tools/on.py <day> uredba-2015-1371`).
 
 ## Decisions made by hand
 

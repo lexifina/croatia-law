@@ -38,7 +38,7 @@ Uredba o načinu i uvjetima za obavljanje sigurnosnih istraga pomorskih nesreća
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2015-2310` (tags `uredba-2015-2310/<day>`; `python tools/on.py <day> uredba-2015-2310`).
+Act id: `uredba-2015-2310` (tags `uredba-2015-2310/<day>`; `python registry/tools/on.py <day> uredba-2015-2310`).
 
 ## Decisions made by hand
 

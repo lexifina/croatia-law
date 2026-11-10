@@ -17,7 +17,7 @@ Pravilnik o vođenju evidencije snimanja · 1 versions, from 2022-03-05 (latest 
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2022-300` (tags `pravilnik-2022-300/<day>`; `python tools/on.py <day> pravilnik-2022-300`).
+Act id: `pravilnik-2022-300` (tags `pravilnik-2022-300/<day>`; `python registry/tools/on.py <day> pravilnik-2022-300`).
 
 ## Decisions made by hand
 

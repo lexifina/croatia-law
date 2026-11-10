@@ -30,7 +30,7 @@ Pravilnik o mjerilima za stavljanje medicinskih proizvoda na osnovnu i dodatnu l
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2019-95` (tags `pravilnik-2019-95/<day>`; `python tools/on.py <day> pravilnik-2019-95`).
+Act id: `pravilnik-2019-95` (tags `pravilnik-2019-95/<day>`; `python registry/tools/on.py <day> pravilnik-2019-95`).
 
 ## Status
 

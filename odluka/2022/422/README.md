@@ -8,7 +8,7 @@ Odluka o prestanku važenja Odluke o načinu korištenja dječjih igrališta i o
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2022-422` (tags `odluka-2022-422/<day>`; `python tools/on.py <day> odluka-2022-422`).
+Act id: `odluka-2022-422` (tags `odluka-2022-422/<day>`; `python registry/tools/on.py <day> odluka-2022-422`).
 
 ## Decisions made by hand
 

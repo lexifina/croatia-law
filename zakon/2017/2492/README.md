@@ -41,7 +41,7 @@ Zakon o izmjenama i dopunama Zakona o zemljišnim knjigama · 1 versions, from 2
 | čl. 35 | [clanak-035.md](clanak-035.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2017-2492` (tags `zakon-2017-2492/<day>`; `python tools/on.py <day> zakon-2017-2492`).
+Act id: `zakon-2017-2492` (tags `zakon-2017-2492/<day>`; `python registry/tools/on.py <day> zakon-2017-2492`).
 
 ## Decisions made by hand
 

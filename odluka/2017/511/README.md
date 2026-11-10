@@ -9,7 +9,7 @@ Odluka o izmjeni Odluke o uvjetima i načinu na koji ovlašteni mjenjači obavlj
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2017-511` (tags `odluka-2017-511/<day>`; `python tools/on.py <day> odluka-2017-511`).
+Act id: `odluka-2017-511` (tags `odluka-2017-511/<day>`; `python registry/tools/on.py <day> odluka-2017-511`).
 
 ## Decisions made by hand
 

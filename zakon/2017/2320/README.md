@@ -5,7 +5,7 @@ Zakon o prekograničnoj provedbi odluka o novčanoj kazni u području upućivanj
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `zakon-2017-2320` (tags `zakon-2017-2320/<day>`; `python tools/on.py <day> zakon-2017-2320`).
+Act id: `zakon-2017-2320` (tags `zakon-2017-2320/<day>`; `python registry/tools/on.py <day> zakon-2017-2320`).
 
 ## Decisions made by hand
 

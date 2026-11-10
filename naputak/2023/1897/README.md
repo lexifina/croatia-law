@@ -18,7 +18,7 @@ Naputak o Očevidniku kazališta · 1 versions, from 2023-11-28 (latest in force
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `naputak-2023-1897` (tags `naputak-2023-1897/<day>`; `python tools/on.py <day> naputak-2023-1897`).
+Act id: `naputak-2023-1897` (tags `naputak-2023-1897/<day>`; `python registry/tools/on.py <day> naputak-2023-1897`).
 
 ## Decisions made by hand
 

@@ -5,7 +5,7 @@ Odluka o općinskim porezima Općine Trnovec Bartolovečki · 2 versions, from 2
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `odluka-2019-2148` (tags `odluka-2019-2148/<day>`; `python tools/on.py <day> odluka-2019-2148`).
+Act id: `odluka-2019-2148` (tags `odluka-2019-2148/<day>`; `python registry/tools/on.py <day> odluka-2019-2148`).
 
 ## Decisions made by hand
 

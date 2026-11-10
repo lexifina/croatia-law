@@ -10,7 +10,7 @@ Zakon o izmjenama Obiteljskog zakona · 1 versions, from 2020-01-01 (latest in f
 | čl. 4 | [clanak-004.md](clanak-004.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2019-1944` (tags `zakon-2019-1944/<day>`; `python tools/on.py <day> zakon-2019-1944`).
+Act id: `zakon-2019-1944` (tags `zakon-2019-1944/<day>`; `python registry/tools/on.py <day> zakon-2019-1944`).
 
 ## Decisions made by hand
 

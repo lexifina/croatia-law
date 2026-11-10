@@ -43,7 +43,7 @@ Pravilnik o posebnim uvjetima za obavljanje djelatnosti uzimanja uzoraka i ispit
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2011-427` (tags `pravilnik-2011-427/<day>`; `python tools/on.py <day> pravilnik-2011-427`).
+Act id: `pravilnik-2011-427` (tags `pravilnik-2011-427/<day>`; `python registry/tools/on.py <day> pravilnik-2011-427`).
 
 ## Status
 

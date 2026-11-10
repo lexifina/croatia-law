@@ -8,7 +8,7 @@ Odluka o postavljanju Miroslava Pape za stalnog predstavnika Republike Hrvatske 
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2013-1944` (tags `odluka-2013-1944/<day>`; `python tools/on.py <day> odluka-2013-1944`).
+Act id: `odluka-2013-1944` (tags `odluka-2013-1944/<day>`; `python registry/tools/on.py <day> odluka-2013-1944`).
 
 ## Decisions made by hand
 

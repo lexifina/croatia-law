@@ -5,7 +5,7 @@ Uredba o dopuni Zakona o tržištu toplinske energije · 2 versions, from 2018-0
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `uredba-2018-1552` (tags `uredba-2018-1552/<day>`; `python tools/on.py <day> uredba-2018-1552`).
+Act id: `uredba-2018-1552` (tags `uredba-2018-1552/<day>`; `python registry/tools/on.py <day> uredba-2018-1552`).
 
 ## Decisions made by hand
 

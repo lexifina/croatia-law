@@ -8,7 +8,7 @@ Odluka o osnivanju Međuresornog povjerenstva za zaštitu djece bez pratnje · 1
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2022-20` (tags `odluka-2022-20/<day>`; `python tools/on.py <day> odluka-2022-20`).
+Act id: `odluka-2022-20` (tags `odluka-2022-20/<day>`; `python registry/tools/on.py <day> odluka-2022-20`).
 
 ## Status
 

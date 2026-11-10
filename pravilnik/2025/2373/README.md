@@ -34,7 +34,7 @@ Pravilnik o izračunu, visini i naplati naknada koje se plaćaju Hrvatskoj agenc
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2025-2373` (tags `pravilnik-2025-2373/<day>`; `python tools/on.py <day> pravilnik-2025-2373`).
+Act id: `pravilnik-2025-2373` (tags `pravilnik-2025-2373/<day>`; `python registry/tools/on.py <day> pravilnik-2025-2373`).
 
 ## Status
 

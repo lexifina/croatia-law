@@ -9,7 +9,7 @@ Odluka o donošenju Smjernica politike državnih potpora za razdoblje 2015. - 20
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2014-2762` (tags `odluka-2014-2762/<day>`; `python tools/on.py <day> odluka-2014-2762`).
+Act id: `odluka-2014-2762` (tags `odluka-2014-2762/<day>`; `python registry/tools/on.py <day> odluka-2014-2762`).
 
 ## Decisions made by hand
 

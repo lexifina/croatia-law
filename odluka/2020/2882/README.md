@@ -9,7 +9,7 @@ Odluka o najvišoj naknadi za pokrivanje troškova mirovinskog osiguravajućeg d
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2020-2882` (tags `odluka-2020-2882/<day>`; `python tools/on.py <day> odluka-2020-2882`).
+Act id: `odluka-2020-2882` (tags `odluka-2020-2882/<day>`; `python registry/tools/on.py <day> odluka-2020-2882`).
 
 ## Decisions made by hand
 

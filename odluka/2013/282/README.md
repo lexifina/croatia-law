@@ -8,7 +8,7 @@ Odluka o osnivanju Konzulata Republike Hrvatske u Ruskoj Federaciji, sa sjedišt
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2013-282` (tags `odluka-2013-282/<day>`; `python tools/on.py <day> odluka-2013-282`).
+Act id: `odluka-2013-282` (tags `odluka-2013-282/<day>`; `python registry/tools/on.py <day> odluka-2013-282`).
 
 ## Decisions made by hand
 

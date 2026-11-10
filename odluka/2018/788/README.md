@@ -8,7 +8,7 @@ Odluka o postavljanju počasnog konzula Republike Hrvatske u Mađarskoj, sa sjed
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2018-788` (tags `odluka-2018-788/<day>`; `python tools/on.py <day> odluka-2018-788`).
+Act id: `odluka-2018-788` (tags `odluka-2018-788/<day>`; `python registry/tools/on.py <day> odluka-2018-788`).
 
 ## Decisions made by hand
 

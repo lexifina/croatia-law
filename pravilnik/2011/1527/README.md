@@ -9,7 +9,7 @@ Pravilnik o ukidanju Pravilnika o obustavi trgovanja dionicama na burzama u Repu
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2011-1527` (tags `pravilnik-2011-1527/<day>`; `python tools/on.py <day> pravilnik-2011-1527`).
+Act id: `pravilnik-2011-1527` (tags `pravilnik-2011-1527/<day>`; `python registry/tools/on.py <day> pravilnik-2011-1527`).
 
 ## Decisions made by hand
 

@@ -50,7 +50,7 @@ Zakon o izmjenama i dopunama Zakona o odgoju i obrazovanju u osnovnoj i srednjoj
 | čl. 44 | [clanak-044.md](clanak-044.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2014-2864` (tags `zakon-2014-2864/<day>`; `python tools/on.py <day> zakon-2014-2864`).
+Act id: `zakon-2014-2864` (tags `zakon-2014-2864/<day>`; `python registry/tools/on.py <day> zakon-2014-2864`).
 
 ## Decisions made by hand
 

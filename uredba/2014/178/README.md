@@ -12,7 +12,7 @@ Uredba o izmjenama i dopunama Uredbe o visini naknade za korištenje voda · 1 v
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2014-178` (tags `uredba-2014-178/<day>`; `python tools/on.py <day> uredba-2014-178`).
+Act id: `uredba-2014-178` (tags `uredba-2014-178/<day>`; `python registry/tools/on.py <day> uredba-2014-178`).
 
 ## Decisions made by hand
 

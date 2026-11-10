@@ -24,7 +24,7 @@ Odluka o dokumentaciji koja se prilaže zahtjevu za izdavanje odobrenja za raspo
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2026-694` (tags `odluka-2026-694/<day>`; `python tools/on.py <day> odluka-2026-694`).
+Act id: `odluka-2026-694` (tags `odluka-2026-694/<day>`; `python registry/tools/on.py <day> odluka-2026-694`).
 
 ## Decisions made by hand
 

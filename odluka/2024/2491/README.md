@@ -15,7 +15,7 @@ Odluka o Klasifikaciji proizvoda po djelatnostima Republike Hrvatske 2025. - KPD
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2024-2491` (tags `odluka-2024-2491/<day>`; `python tools/on.py <day> odluka-2024-2491`).
+Act id: `odluka-2024-2491` (tags `odluka-2024-2491/<day>`; `python registry/tools/on.py <day> odluka-2024-2491`).
 
 ## Status
 

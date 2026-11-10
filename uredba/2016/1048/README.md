@@ -13,7 +13,7 @@ Uredba o izmjenama Uredbe o organizacijskim i tehničkim standardima za poveziva
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2016-1048` (tags `uredba-2016-1048/<day>`; `python tools/on.py <day> uredba-2016-1048`).
+Act id: `uredba-2016-1048` (tags `uredba-2016-1048/<day>`; `python registry/tools/on.py <day> uredba-2016-1048`).
 
 ## Decisions made by hand
 

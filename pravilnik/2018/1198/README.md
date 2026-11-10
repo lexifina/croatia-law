@@ -25,7 +25,7 @@ Pravilnik o uvjetima, kriterijima i načinu dodjele državne potpore za štete o
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2018-1198` (tags `pravilnik-2018-1198/<day>`; `python tools/on.py <day> pravilnik-2018-1198`).
+Act id: `pravilnik-2018-1198` (tags `pravilnik-2018-1198/<day>`; `python registry/tools/on.py <day> pravilnik-2018-1198`).
 
 ## Decisions made by hand
 

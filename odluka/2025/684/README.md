@@ -8,7 +8,7 @@ Odluka o upisu ulovnih ribarskih plovila udičarskim alatima u Registar ulovnih 
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2025-684` (tags `odluka-2025-684/<day>`; `python tools/on.py <day> odluka-2025-684`).
+Act id: `odluka-2025-684` (tags `odluka-2025-684/<day>`; `python registry/tools/on.py <day> odluka-2025-684`).
 
 ## Decisions made by hand
 

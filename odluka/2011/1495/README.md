@@ -12,7 +12,7 @@ Odluka o prirezu poreza na dohodak Općine Breznički Hum · 1 versions, from 20
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2011-1495` (tags `odluka-2011-1495/<day>`; `python tools/on.py <day> odluka-2011-1495`).
+Act id: `odluka-2011-1495` (tags `odluka-2011-1495/<day>`; `python registry/tools/on.py <day> odluka-2011-1495`).
 
 ## Decisions made by hand
 

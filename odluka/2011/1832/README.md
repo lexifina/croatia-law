@@ -15,7 +15,7 @@ Odluka o kriterijima i uvjetima za preuzimanje oglasa objavljenih od strane Hrva
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2011-1832` (tags `odluka-2011-1832/<day>`; `python tools/on.py <day> odluka-2011-1832`).
+Act id: `odluka-2011-1832` (tags `odluka-2011-1832/<day>`; `python registry/tools/on.py <day> odluka-2011-1832`).
 
 ## Status
 

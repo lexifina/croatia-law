@@ -10,7 +10,7 @@ Odluka o osnovicama za utvrđivanje vrijednosnog boda prema osobnom činu, ustro
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2013-771` (tags `odluka-2013-771/<day>`; `python tools/on.py <day> odluka-2013-771`).
+Act id: `odluka-2013-771` (tags `odluka-2013-771/<day>`; `python registry/tools/on.py <day> odluka-2013-771`).
 
 ## Decisions made by hand
 

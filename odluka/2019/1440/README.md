@@ -9,7 +9,7 @@ Odluka o izmjenama i dopunama Odluke o utvrđivanju Osnovne liste lijekova Hrvat
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2019-1440` (tags `odluka-2019-1440/<day>`; `python tools/on.py <day> odluka-2019-1440`).
+Act id: `odluka-2019-1440` (tags `odluka-2019-1440/<day>`; `python registry/tools/on.py <day> odluka-2019-1440`).
 
 ## Status
 

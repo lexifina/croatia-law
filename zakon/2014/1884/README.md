@@ -54,7 +54,7 @@ Zakon o izmjenama i dopunama Zakona o šumama · 1 versions, from 2014-08-08 (la
 | čl. 48 | [clanak-048.md](clanak-048.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2014-1884` (tags `zakon-2014-1884/<day>`; `python tools/on.py <day> zakon-2014-1884`).
+Act id: `zakon-2014-1884` (tags `zakon-2014-1884/<day>`; `python registry/tools/on.py <day> zakon-2014-1884`).
 
 ## Decisions made by hand
 

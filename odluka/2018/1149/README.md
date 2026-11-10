@@ -8,7 +8,7 @@ Odluka o izdavanju i prodaji prigodnoga srebrnoga kovanog novca »Dubrovnik« ·
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2018-1149` (tags `odluka-2018-1149/<day>`; `python tools/on.py <day> odluka-2018-1149`).
+Act id: `odluka-2018-1149` (tags `odluka-2018-1149/<day>`; `python registry/tools/on.py <day> odluka-2018-1149`).
 
 ## Decisions made by hand
 

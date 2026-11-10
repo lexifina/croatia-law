@@ -66,7 +66,7 @@ Pravilnik o izdavanju vodopravnih akata · 1 versions, from 2020-01-30 (latest i
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2020-171` (tags `pravilnik-2020-171/<day>`; `python tools/on.py <day> pravilnik-2020-171`).
+Act id: `pravilnik-2020-171` (tags `pravilnik-2020-171/<day>`; `python registry/tools/on.py <day> pravilnik-2020-171`).
 
 ## Status
 

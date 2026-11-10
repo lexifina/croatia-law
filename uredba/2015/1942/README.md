@@ -19,7 +19,7 @@ Uredba o dražbi određenih drvnih sortimenata · 1 versions, from 2015-09-26 (l
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2015-1942` (tags `uredba-2015-1942/<day>`; `python tools/on.py <day> uredba-2015-1942`).
+Act id: `uredba-2015-1942` (tags `uredba-2015-1942/<day>`; `python registry/tools/on.py <day> uredba-2015-1942`).
 
 ## Decisions made by hand
 

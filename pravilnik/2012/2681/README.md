@@ -27,7 +27,7 @@ Pravilnik o uvjetima koje moraju ispunjavati pravne osobe koje pružaju usluge u
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2012-2681` (tags `pravilnik-2012-2681/<day>`; `python tools/on.py <day> pravilnik-2012-2681`).
+Act id: `pravilnik-2012-2681` (tags `pravilnik-2012-2681/<day>`; `python registry/tools/on.py <day> pravilnik-2012-2681`).
 
 ## Status
 

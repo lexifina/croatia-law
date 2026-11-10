@@ -14,7 +14,7 @@ Zakon o izmjenama Zakona o postupanju s nezakonito izgrađenim zgradama · 1 ver
 | čl. 8 | [clanak-008.md](clanak-008.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2019-280` (tags `zakon-2019-280/<day>`; `python tools/on.py <day> zakon-2019-280`).
+Act id: `zakon-2019-280` (tags `zakon-2019-280/<day>`; `python registry/tools/on.py <day> zakon-2019-280`).
 
 ## Decisions made by hand
 

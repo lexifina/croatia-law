@@ -19,7 +19,7 @@ Pravilnik o provedbi Programa potpore sjetve certificiranog sjemena strnih žita
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2025-1874` (tags `pravilnik-2025-1874/<day>`; `python tools/on.py <day> pravilnik-2025-1874`).
+Act id: `pravilnik-2025-1874` (tags `pravilnik-2025-1874/<day>`; `python registry/tools/on.py <day> pravilnik-2025-1874`).
 
 ## Decisions made by hand
 

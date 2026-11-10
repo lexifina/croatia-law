@@ -9,7 +9,7 @@ Zakon o dopunama Zakona o lokalnim izborima · 1 versions, from 2016-12-31 (late
 | čl. 3 | [clanak-003.md](clanak-003.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2016-2629` (tags `zakon-2016-2629/<day>`; `python tools/on.py <day> zakon-2016-2629`).
+Act id: `zakon-2016-2629` (tags `zakon-2016-2629/<day>`; `python registry/tools/on.py <day> zakon-2016-2629`).
 
 ## Decisions made by hand
 

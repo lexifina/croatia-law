@@ -8,7 +8,7 @@ Odluka o izmjeni Odluke o uvođenju nužnih epidemioloških mjera za područje P
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2020-2747` (tags `odluka-2020-2747/<day>`; `python tools/on.py <day> odluka-2020-2747`).
+Act id: `odluka-2020-2747` (tags `odluka-2020-2747/<day>`; `python registry/tools/on.py <day> odluka-2020-2747`).
 
 ## Decisions made by hand
 

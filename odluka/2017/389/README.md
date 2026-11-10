@@ -8,7 +8,7 @@ Odluka o kriterijima za upis ulovnih ribarskih plovila udičarskim alatima u reg
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2017-389` (tags `odluka-2017-389/<day>`; `python tools/on.py <day> odluka-2017-389`).
+Act id: `odluka-2017-389` (tags `odluka-2017-389/<day>`; `python registry/tools/on.py <day> odluka-2017-389`).
 
 ## Status
 

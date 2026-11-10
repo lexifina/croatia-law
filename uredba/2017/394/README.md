@@ -75,7 +75,7 @@ Uredba o unutarnjem ustrojstvu Ministarstva kulture · 1 versions, from 2017-03-
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2017-394` (tags `uredba-2017-394/<day>`; `python tools/on.py <day> uredba-2017-394`).
+Act id: `uredba-2017-394` (tags `uredba-2017-394/<day>`; `python registry/tools/on.py <day> uredba-2017-394`).
 
 ## Status
 

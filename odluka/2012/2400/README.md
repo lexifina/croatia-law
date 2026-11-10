@@ -8,7 +8,7 @@ Odluka o izmjenama Odluke o minimalnim financijskim standardima za decentralizir
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2012-2400` (tags `odluka-2012-2400/<day>`; `python tools/on.py <day> odluka-2012-2400`).
+Act id: `odluka-2012-2400` (tags `odluka-2012-2400/<day>`; `python registry/tools/on.py <day> odluka-2012-2400`).
 
 ## Decisions made by hand
 

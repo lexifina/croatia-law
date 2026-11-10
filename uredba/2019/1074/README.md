@@ -5,7 +5,7 @@ Uredba o Uredu za opće poslove Hrvatskoga sabora i Vlade Republike Hrvatske · 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `uredba-2019-1074` (tags `uredba-2019-1074/<day>`; `python tools/on.py <day> uredba-2019-1074`).
+Act id: `uredba-2019-1074` (tags `uredba-2019-1074/<day>`; `python registry/tools/on.py <day> uredba-2019-1074`).
 
 ## Decisions made by hand
 

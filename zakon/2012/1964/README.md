@@ -41,7 +41,7 @@ Zakon o sportskoj inspekciji · 1 versions, from 2012-08-04 (latest in force: 20
 | čl. 35 | [clanak-035.md](clanak-035.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2012-1964` (tags `zakon-2012-1964/<day>`; `python tools/on.py <day> zakon-2012-1964`).
+Act id: `zakon-2012-1964` (tags `zakon-2012-1964/<day>`; `python registry/tools/on.py <day> zakon-2012-1964`).
 
 ## Status
 

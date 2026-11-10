@@ -11,7 +11,7 @@ Zakon o izmjenama Ovršnog zakona · 1 versions, from 2012-06-28 (latest in forc
 | čl. 5 | [clanak-005.md](clanak-005.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2012-1639` (tags `zakon-2012-1639/<day>`; `python tools/on.py <day> zakon-2012-1639`).
+Act id: `zakon-2012-1639` (tags `zakon-2012-1639/<day>`; `python registry/tools/on.py <day> zakon-2012-1639`).
 
 ## Decisions made by hand
 

@@ -11,7 +11,7 @@ Izmjene Statuta Hrvatske komore socijalnih pedagoga · 1 versions, from 2023-12-
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `statut-2023-1997` (tags `statut-2023-1997/<day>`; `python tools/on.py <day> statut-2023-1997`).
+Act id: `statut-2023-1997` (tags `statut-2023-1997/<day>`; `python registry/tools/on.py <day> statut-2023-1997`).
 
 ## Decisions made by hand
 

@@ -30,7 +30,7 @@ Pravilnik o sakupljanju zavičajnih divljih vrsta · 1 versions, from 2017-11-30
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2017-2663` (tags `pravilnik-2017-2663/<day>`; `python tools/on.py <day> pravilnik-2017-2663`).
+Act id: `pravilnik-2017-2663` (tags `pravilnik-2017-2663/<day>`; `python registry/tools/on.py <day> pravilnik-2017-2663`).
 
 ## Decisions made by hand
 

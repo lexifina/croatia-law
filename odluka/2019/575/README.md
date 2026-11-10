@@ -5,7 +5,7 @@ Odluka o donošenju Dugoročne strategije za poticanje ulaganja u obnovu naciona
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `odluka-2019-575` (tags `odluka-2019-575/<day>`; `python tools/on.py <day> odluka-2019-575`).
+Act id: `odluka-2019-575` (tags `odluka-2019-575/<day>`; `python registry/tools/on.py <day> odluka-2019-575`).
 
 ## Decisions made by hand
 

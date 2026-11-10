@@ -5,7 +5,7 @@ Pravilnik o izlaganju na javni uvid elaborata katastarske izmjere i tehničke re
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `pravilnik-2018-1759` (tags `pravilnik-2018-1759/<day>`; `python tools/on.py <day> pravilnik-2018-1759`).
+Act id: `pravilnik-2018-1759` (tags `pravilnik-2018-1759/<day>`; `python registry/tools/on.py <day> pravilnik-2018-1759`).
 
 ## Decisions made by hand
 

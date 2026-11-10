@@ -12,7 +12,7 @@ Pravilnik o izmjenama Pravilnika o načinu podnošenja prijave investicijskog pr
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2019-175` (tags `pravilnik-2019-175/<day>`; `python tools/on.py <day> pravilnik-2019-175`).
+Act id: `pravilnik-2019-175` (tags `pravilnik-2019-175/<day>`; `python registry/tools/on.py <day> pravilnik-2019-175`).
 
 ## Decisions made by hand
 

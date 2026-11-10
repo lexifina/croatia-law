@@ -10,7 +10,7 @@ Naputak o financijskom jamstvu · 1 versions, from 2021-05-29 (latest in force: 
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `naputak-2021-1106` (tags `naputak-2021-1106/<day>`; `python tools/on.py <day> naputak-2021-1106`).
+Act id: `naputak-2021-1106` (tags `naputak-2021-1106/<day>`; `python registry/tools/on.py <day> naputak-2021-1106`).
 
 ## Decisions made by hand
 

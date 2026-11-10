@@ -24,7 +24,7 @@ Zakon o izmjenama i dopuni Zakona o ugostiteljskoj djelatnosti · 1 versions, fr
 | čl. 18 | [clanak-018.md](clanak-018.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2020-888` (tags `zakon-2020-888/<day>`; `python tools/on.py <day> zakon-2020-888`).
+Act id: `zakon-2020-888` (tags `zakon-2020-888/<day>`; `python registry/tools/on.py <day> zakon-2020-888`).
 
 ## Decisions made by hand
 

@@ -37,7 +37,7 @@ Statut Damir Bajs Nezavisna lista · 1 versions, from 2017-03-03 (latest in forc
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `statut-2017-980` (tags `statut-2017-980/<day>`; `python tools/on.py <day> statut-2017-980`).
+Act id: `statut-2017-980` (tags `statut-2017-980/<day>`; `python registry/tools/on.py <day> statut-2017-980`).
 
 ## Decisions made by hand
 

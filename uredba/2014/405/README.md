@@ -21,7 +21,7 @@ Uredba o dražbi određenih drvnih sortimenata · 1 versions, from 2014-02-27 (l
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2014-405` (tags `uredba-2014-405/<day>`; `python tools/on.py <day> uredba-2014-405`).
+Act id: `uredba-2014-405` (tags `uredba-2014-405/<day>`; `python registry/tools/on.py <day> uredba-2014-405`).
 
 ## Status
 

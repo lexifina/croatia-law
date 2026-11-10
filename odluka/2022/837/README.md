@@ -8,7 +8,7 @@ Odluka o proširenju primjene Kolektivnoga ugovora ugostiteljstva · 1 versions,
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2022-837` (tags `odluka-2022-837/<day>`; `python tools/on.py <day> odluka-2022-837`).
+Act id: `odluka-2022-837` (tags `odluka-2022-837/<day>`; `python registry/tools/on.py <day> odluka-2022-837`).
 
 ## Status
 

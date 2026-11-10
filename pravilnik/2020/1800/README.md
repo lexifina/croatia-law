@@ -32,7 +32,7 @@ Pravilnik o normativima i standardima u pogledu prostora, opreme i djelatnika Vo
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2020-1800` (tags `pravilnik-2020-1800/<day>`; `python tools/on.py <day> pravilnik-2020-1800`).
+Act id: `pravilnik-2020-1800` (tags `pravilnik-2020-1800/<day>`; `python registry/tools/on.py <day> pravilnik-2020-1800`).
 
 ## Decisions made by hand
 

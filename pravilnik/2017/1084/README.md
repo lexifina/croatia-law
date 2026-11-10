@@ -49,7 +49,7 @@ Pravilnik o provedbi mjere 4 »Ulaganja u fizičku imovinu«, podmjere 4.2 »Pot
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2017-1084` (tags `pravilnik-2017-1084/<day>`; `python tools/on.py <day> pravilnik-2017-1084`).
+Act id: `pravilnik-2017-1084` (tags `pravilnik-2017-1084/<day>`; `python registry/tools/on.py <day> pravilnik-2017-1084`).
 
 ## Status
 

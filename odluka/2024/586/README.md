@@ -8,7 +8,7 @@ Odluka o proširenju primjene Kolektivnog ugovora za djelatnosti drvne i papirne
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2024-586` (tags `odluka-2024-586/<day>`; `python tools/on.py <day> odluka-2024-586`).
+Act id: `odluka-2024-586` (tags `odluka-2024-586/<day>`; `python registry/tools/on.py <day> odluka-2024-586`).
 
 ## Decisions made by hand
 

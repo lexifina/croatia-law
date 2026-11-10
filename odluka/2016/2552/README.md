@@ -8,7 +8,7 @@ Odluka o izboru triju članova Otočnog vijeća · 1 versions, from 2016-12-09 (
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2016-2552` (tags `odluka-2016-2552/<day>`; `python tools/on.py <day> odluka-2016-2552`).
+Act id: `odluka-2016-2552` (tags `odluka-2016-2552/<day>`; `python registry/tools/on.py <day> odluka-2016-2552`).
 
 ## Decisions made by hand
 

@@ -40,7 +40,7 @@ Uredba o općim pravilima za unutarnje ustrojstvo tijela državne uprave · 1 ve
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2019-1466` (tags `uredba-2019-1466/<day>`; `python tools/on.py <day> uredba-2019-1466`).
+Act id: `uredba-2019-1466` (tags `uredba-2019-1466/<day>`; `python registry/tools/on.py <day> uredba-2019-1466`).
 
 ## Status
 

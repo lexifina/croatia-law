@@ -8,7 +8,7 @@ Odluka o sanaciji Opće bolnice "Dr. Tomislav Bardek" Koprivnica · 1 versions, 
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2013-934` (tags `odluka-2013-934/<day>`; `python tools/on.py <day> odluka-2013-934`).
+Act id: `odluka-2013-934` (tags `odluka-2013-934/<day>`; `python registry/tools/on.py <day> odluka-2013-934`).
 
 ## Status
 

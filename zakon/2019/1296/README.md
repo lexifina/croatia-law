@@ -34,7 +34,7 @@ Zakon o izmjenama i dopunama Zakona o policiji · 1 versions, from 2019-07-18 (l
 | čl. 28 | [clanak-028.md](clanak-028.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2019-1296` (tags `zakon-2019-1296/<day>`; `python tools/on.py <day> zakon-2019-1296`).
+Act id: `zakon-2019-1296` (tags `zakon-2019-1296/<day>`; `python registry/tools/on.py <day> zakon-2019-1296`).
 
 ## Decisions made by hand
 

@@ -13,7 +13,7 @@ Zakon o izmjenama Zakona o uvozu hrane i hrane za životinje iz trećih zemalja 
 | čl. 7 | [clanak-007.md](clanak-007.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2018-2208` (tags `zakon-2018-2208/<day>`; `python tools/on.py <day> zakon-2018-2208`).
+Act id: `zakon-2018-2208` (tags `zakon-2018-2208/<day>`; `python registry/tools/on.py <day> zakon-2018-2208`).
 
 ## Decisions made by hand
 

@@ -8,7 +8,7 @@ Odluka o dodjeli Državne nagrade za humanitarni rad u 2019. godini · 1 version
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2019-2433` (tags `odluka-2019-2433/<day>`; `python tools/on.py <day> odluka-2019-2433`).
+Act id: `odluka-2019-2433` (tags `odluka-2019-2433/<day>`; `python registry/tools/on.py <day> odluka-2019-2433`).
 
 ## Decisions made by hand
 

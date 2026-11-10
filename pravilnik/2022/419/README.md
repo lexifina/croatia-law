@@ -9,7 +9,7 @@ Pravilnik o izmjeni Pravilnika o visini dodatka na plaÄ‡u sudaca privremeno upuÄ
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2022-419` (tags `pravilnik-2022-419/<day>`; `python tools/on.py <day> pravilnik-2022-419`).
+Act id: `pravilnik-2022-419` (tags `pravilnik-2022-419/<day>`; `python registry/tools/on.py <day> pravilnik-2022-419`).
 
 ## Decisions made by hand
 

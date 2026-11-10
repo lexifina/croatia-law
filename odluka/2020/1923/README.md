@@ -8,7 +8,7 @@ Odluka o uvođenju nužnih epidemioloških mjera za područje Virovitičko-podra
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2020-1923` (tags `odluka-2020-1923/<day>`; `python tools/on.py <day> odluka-2020-1923`).
+Act id: `odluka-2020-1923` (tags `odluka-2020-1923/<day>`; `python registry/tools/on.py <day> odluka-2020-1923`).
 
 ## Status
 

@@ -9,7 +9,7 @@ Pravilnik o izmjeni Pravilnika o načinu isplate novčanih primanja i drugih tro
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2011-711` (tags `pravilnik-2011-711/<day>`; `python tools/on.py <day> pravilnik-2011-711`).
+Act id: `pravilnik-2011-711` (tags `pravilnik-2011-711/<day>`; `python registry/tools/on.py <day> pravilnik-2011-711`).
 
 ## Decisions made by hand
 

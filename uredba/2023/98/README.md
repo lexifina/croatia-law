@@ -31,7 +31,7 @@ Uredba o posebnim uvjetima koje moraju ispunjavati ovlaštena tijela za obavljan
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2023-98` (tags `uredba-2023-98/<day>`; `python tools/on.py <day> uredba-2023-98`).
+Act id: `uredba-2023-98` (tags `uredba-2023-98/<day>`; `python registry/tools/on.py <day> uredba-2023-98`).
 
 ## Decisions made by hand
 

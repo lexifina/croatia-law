@@ -9,7 +9,7 @@ Pravilnik o izmjeni Pravilnika o sadržaju te načinu i rokovima dostave redovit
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2017-1758` (tags `pravilnik-2017-1758/<day>`; `python tools/on.py <day> pravilnik-2017-1758`).
+Act id: `pravilnik-2017-1758` (tags `pravilnik-2017-1758/<day>`; `python registry/tools/on.py <day> pravilnik-2017-1758`).
 
 ## Decisions made by hand
 

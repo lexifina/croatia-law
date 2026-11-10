@@ -14,7 +14,7 @@ Zakon o izmjenama i dopunama Zakona o kazalištima · 1 versions, from 2013-10-0
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 
-Act id: `zakon-2013-2592` (tags `zakon-2013-2592/<day>`; `python tools/on.py <day> zakon-2013-2592`).
+Act id: `zakon-2013-2592` (tags `zakon-2013-2592/<day>`; `python registry/tools/on.py <day> zakon-2013-2592`).
 
 ## Decisions made by hand
 

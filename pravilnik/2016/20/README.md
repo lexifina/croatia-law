@@ -24,7 +24,7 @@ Pravilnik o radnom vremenu, odmorima i dopustima radnika na pomorskim ribarskim 
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2016-20` (tags `pravilnik-2016-20/<day>`; `python tools/on.py <day> pravilnik-2016-20`).
+Act id: `pravilnik-2016-20` (tags `pravilnik-2016-20/<day>`; `python registry/tools/on.py <day> pravilnik-2016-20`).
 
 ## Status
 

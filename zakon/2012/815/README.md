@@ -14,7 +14,7 @@ Zakon o izmjenama i dopunama Zakona o državnim službenicima · 1 versions, fro
 | čl. 8 | [clanak-008.md](clanak-008.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2012-815` (tags `zakon-2012-815/<day>`; `python tools/on.py <day> zakon-2012-815`).
+Act id: `zakon-2012-815` (tags `zakon-2012-815/<day>`; `python registry/tools/on.py <day> zakon-2012-815`).
 
 ## Decisions made by hand
 

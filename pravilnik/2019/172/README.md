@@ -14,7 +14,7 @@ Pravilnik o uvjetima i postupku za stjecanje prava na korištenje kopnenih voda 
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2019-172` (tags `pravilnik-2019-172/<day>`; `python tools/on.py <day> pravilnik-2019-172`).
+Act id: `pravilnik-2019-172` (tags `pravilnik-2019-172/<day>`; `python registry/tools/on.py <day> pravilnik-2019-172`).
 
 ## Decisions made by hand
 

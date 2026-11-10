@@ -35,7 +35,7 @@ Zakon o poticanju ulaganja · 1 versions, from 2015-10-03 (latest in force: 2015
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 
-Act id: `zakon-2015-1971` (tags `zakon-2015-1971/<day>`; `python tools/on.py <day> zakon-2015-1971`).
+Act id: `zakon-2015-1971` (tags `zakon-2015-1971/<day>`; `python registry/tools/on.py <day> zakon-2015-1971`).
 
 ## Status
 

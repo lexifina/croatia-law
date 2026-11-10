@@ -66,7 +66,7 @@ Pravilnik o izmjenama i dopunama Pravilnika o geodetskom projektu · 1 versions,
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2014-1060` (tags `pravilnik-2014-1060/<day>`; `python tools/on.py <day> pravilnik-2014-1060`).
+Act id: `pravilnik-2014-1060` (tags `pravilnik-2014-1060/<day>`; `python registry/tools/on.py <day> pravilnik-2014-1060`).
 
 ## Decisions made by hand
 

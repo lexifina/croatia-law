@@ -11,7 +11,7 @@ Pravilnik o izmjenama Pravilnika o načinu vođenja očevidnika i spisa predmeta
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2026-1037` (tags `pravilnik-2026-1037/<day>`; `python tools/on.py <day> pravilnik-2026-1037`).
+Act id: `pravilnik-2026-1037` (tags `pravilnik-2026-1037/<day>`; `python registry/tools/on.py <day> pravilnik-2026-1037`).
 
 ## Decisions made by hand
 

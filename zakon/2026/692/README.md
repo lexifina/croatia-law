@@ -76,7 +76,7 @@ Zakon o izmjenama i dopunama Zakona o strancima · 1 versions, from 2026-06-04 (
 | čl. 70 | [clanak-070.md](clanak-070.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2026-692` (tags `zakon-2026-692/<day>`; `python tools/on.py <day> zakon-2026-692`).
+Act id: `zakon-2026-692` (tags `zakon-2026-692/<day>`; `python registry/tools/on.py <day> zakon-2026-692`).
 
 ## Decisions made by hand
 

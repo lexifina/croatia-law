@@ -90,7 +90,7 @@ Zakon o izmjenama i dopunama Zakona o strancima · 1 versions, from 2013-06-27 (
 | čl. 84 | [clanak-084.md](clanak-084.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2013-1475` (tags `zakon-2013-1475/<day>`; `python tools/on.py <day> zakon-2013-1475`).
+Act id: `zakon-2013-1475` (tags `zakon-2013-1475/<day>`; `python registry/tools/on.py <day> zakon-2013-1475`).
 
 ## Decisions made by hand
 

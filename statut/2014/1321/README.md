@@ -49,7 +49,7 @@ Statut Hrvatske agencije za obvezne zalihe nafte i naftnih derivata · 1 version
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `statut-2014-1321` (tags `statut-2014-1321/<day>`; `python tools/on.py <day> statut-2014-1321`).
+Act id: `statut-2014-1321` (tags `statut-2014-1321/<day>`; `python registry/tools/on.py <day> statut-2014-1321`).
 
 ## Decisions made by hand
 

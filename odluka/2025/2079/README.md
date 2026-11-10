@@ -8,7 +8,7 @@ Odluka o autorizaciji plovila za ribolov jegulje (Anguilla anguilla) · 1 versio
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2025-2079` (tags `odluka-2025-2079/<day>`; `python tools/on.py <day> odluka-2025-2079`).
+Act id: `odluka-2025-2079` (tags `odluka-2025-2079/<day>`; `python registry/tools/on.py <day> odluka-2025-2079`).
 
 ## Decisions made by hand
 

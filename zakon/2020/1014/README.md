@@ -15,7 +15,7 @@ Zakon o izmjenama Zakona o Nacionalnoj infrastrukturi prostornih podataka · 1 v
 | čl. 9 | [clanak-009.md](clanak-009.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2020-1014` (tags `zakon-2020-1014/<day>`; `python tools/on.py <day> zakon-2020-1014`).
+Act id: `zakon-2020-1014` (tags `zakon-2020-1014/<day>`; `python registry/tools/on.py <day> zakon-2020-1014`).
 
 ## Decisions made by hand
 

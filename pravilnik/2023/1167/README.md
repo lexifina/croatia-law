@@ -22,7 +22,7 @@ Pravilnik o uvjetima i načinu ostvarivanja prava studenata na državnu stipendi
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2023-1167` (tags `pravilnik-2023-1167/<day>`; `python tools/on.py <day> pravilnik-2023-1167`).
+Act id: `pravilnik-2023-1167` (tags `pravilnik-2023-1167/<day>`; `python registry/tools/on.py <day> pravilnik-2023-1167`).
 
 ## Status
 

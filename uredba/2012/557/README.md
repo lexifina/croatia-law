@@ -65,7 +65,7 @@ Uredba o unutarnjem ustrojstvu Ministarstva socijalne politike i mladih · 1 ver
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2012-557` (tags `uredba-2012-557/<day>`; `python tools/on.py <day> uredba-2012-557`).
+Act id: `uredba-2012-557` (tags `uredba-2012-557/<day>`; `python registry/tools/on.py <day> uredba-2012-557`).
 
 ## Status
 

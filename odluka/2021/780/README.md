@@ -8,7 +8,7 @@ Odluka o raspisivanju izbora za članove predstavničkih tijela jedinica lokalne
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2021-780` (tags `odluka-2021-780/<day>`; `python tools/on.py <day> odluka-2021-780`).
+Act id: `odluka-2021-780` (tags `odluka-2021-780/<day>`; `python registry/tools/on.py <day> odluka-2021-780`).
 
 ## Status
 

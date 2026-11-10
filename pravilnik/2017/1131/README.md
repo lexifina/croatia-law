@@ -5,7 +5,7 @@ Pravilnik o nositeljima, sadržaju i postupcima izrade planskih dokumenata u civ
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `pravilnik-2017-1131` (tags `pravilnik-2017-1131/<day>`; `python tools/on.py <day> pravilnik-2017-1131`).
+Act id: `pravilnik-2017-1131` (tags `pravilnik-2017-1131/<day>`; `python registry/tools/on.py <day> pravilnik-2017-1131`).
 
 ## Decisions made by hand
 

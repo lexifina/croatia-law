@@ -23,7 +23,7 @@ Uredba o postupku i uvjetima ostvarivanja prava u provedbi Programa pomoći Vlad
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2014-886` (tags `uredba-2014-886/<day>`; `python tools/on.py <day> uredba-2014-886`).
+Act id: `uredba-2014-886` (tags `uredba-2014-886/<day>`; `python registry/tools/on.py <day> uredba-2014-886`).
 
 ## Status
 

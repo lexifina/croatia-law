@@ -8,7 +8,7 @@ Odluka o donošenju Državnog plana djelovanja civilne zaštite · 1 versions, f
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2023-1538` (tags `odluka-2023-1538/<day>`; `python tools/on.py <day> odluka-2023-1538`).
+Act id: `odluka-2023-1538` (tags `odluka-2023-1538/<day>`; `python registry/tools/on.py <day> odluka-2023-1538`).
 
 ## Decisions made by hand
 

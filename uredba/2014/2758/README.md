@@ -13,7 +13,7 @@ Uredba o izmjenama Uredbe o jediničnim naknadama, korektivnim koeficijentima i 
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2014-2758` (tags `uredba-2014-2758/<day>`; `python tools/on.py <day> uredba-2014-2758`).
+Act id: `uredba-2014-2758` (tags `uredba-2014-2758/<day>`; `python registry/tools/on.py <day> uredba-2014-2758`).
 
 ## Decisions made by hand
 

@@ -8,7 +8,7 @@ Odluka o izmjeni Odluke o autorizaciji plovila za ribolov jegulje (Anguilla angu
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2024-728` (tags `odluka-2024-728/<day>`; `python tools/on.py <day> odluka-2024-728`).
+Act id: `odluka-2024-728` (tags `odluka-2024-728/<day>`; `python registry/tools/on.py <day> odluka-2024-728`).
 
 ## Decisions made by hand
 

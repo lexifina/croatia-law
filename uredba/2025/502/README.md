@@ -31,7 +31,7 @@ Uredba o osnivanju Lučke uprave Rijeka · 1 versions, from 2025-03-11 (latest i
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2025-502` (tags `uredba-2025-502/<day>`; `python tools/on.py <day> uredba-2025-502`).
+Act id: `uredba-2025-502` (tags `uredba-2025-502/<day>`; `python registry/tools/on.py <day> uredba-2025-502`).
 
 ## Decisions made by hand
 

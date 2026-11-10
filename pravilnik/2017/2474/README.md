@@ -13,7 +13,7 @@ Pravilnik o visini naknade za rad Vijeća stručnjaka za naknade u području aut
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2017-2474` (tags `pravilnik-2017-2474/<day>`; `python tools/on.py <day> pravilnik-2017-2474`).
+Act id: `pravilnik-2017-2474` (tags `pravilnik-2017-2474/<day>`; `python registry/tools/on.py <day> pravilnik-2017-2474`).
 
 ## Status
 

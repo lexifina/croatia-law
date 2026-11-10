@@ -40,7 +40,7 @@ Statut političke stranke Dina Dogan - Nezavisna lista · 1 versions, from 2024-
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `statut-2026-887` (tags `statut-2026-887/<day>`; `python tools/on.py <day> statut-2026-887`).
+Act id: `statut-2026-887` (tags `statut-2026-887/<day>`; `python registry/tools/on.py <day> statut-2026-887`).
 
 ## Status
 

@@ -54,7 +54,7 @@ Zakon o izmjenama i dopunama Zakona o alternativnim investicijskim fondovima · 
 | čl. 48 | [clanak-048.md](clanak-048.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2023-1300` (tags `zakon-2023-1300/<day>`; `python tools/on.py <day> zakon-2023-1300`).
+Act id: `zakon-2023-1300` (tags `zakon-2023-1300/<day>`; `python registry/tools/on.py <day> zakon-2023-1300`).
 
 ## Decisions made by hand
 

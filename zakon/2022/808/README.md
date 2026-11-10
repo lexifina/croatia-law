@@ -33,7 +33,7 @@ Zakon o izmjenama i dopunama Zakona o zaštiti zraka · 1 versions, from 2022-05
 | čl. 27 | [clanak-027.md](clanak-027.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2022-808` (tags `zakon-2022-808/<day>`; `python tools/on.py <day> zakon-2022-808`).
+Act id: `zakon-2022-808` (tags `zakon-2022-808/<day>`; `python registry/tools/on.py <day> zakon-2022-808`).
 
 ## Decisions made by hand
 

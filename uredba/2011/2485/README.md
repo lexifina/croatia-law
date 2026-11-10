@@ -13,7 +13,7 @@ Uredba o izmjenama Uredbe o Uredu za zakonodavstvo · 1 versions, from 2011-11-0
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2011-2485` (tags `uredba-2011-2485/<day>`; `python tools/on.py <day> uredba-2011-2485`).
+Act id: `uredba-2011-2485` (tags `uredba-2011-2485/<day>`; `python registry/tools/on.py <day> uredba-2011-2485`).
 
 ## Decisions made by hand
 

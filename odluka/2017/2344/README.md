@@ -8,7 +8,7 @@ Odluka o osnivanju Istražnog povjerenstva za utvrđivanje činjenica u vezi oko
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2017-2344` (tags `odluka-2017-2344/<day>`; `python tools/on.py <day> odluka-2017-2344`).
+Act id: `odluka-2017-2344` (tags `odluka-2017-2344/<day>`; `python registry/tools/on.py <day> odluka-2017-2344`).
 
 ## Decisions made by hand
 

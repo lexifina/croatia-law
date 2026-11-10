@@ -8,7 +8,7 @@ Odluka o vrednovanju programa međunarodne vojne izobrazbe · 1 versions, from 2
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2013-2862` (tags `odluka-2013-2862/<day>`; `python tools/on.py <day> odluka-2013-2862`).
+Act id: `odluka-2013-2862` (tags `odluka-2013-2862/<day>`; `python registry/tools/on.py <day> odluka-2013-2862`).
 
 ## Status
 

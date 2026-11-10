@@ -13,7 +13,7 @@ Uredba o izmjeni i dopunama Uredbe o unutarnjem ustrojstvu Ministarstva vanjskih
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2014-1555` (tags `uredba-2014-1555/<day>`; `python tools/on.py <day> uredba-2014-1555`).
+Act id: `uredba-2014-1555` (tags `uredba-2014-1555/<day>`; `python registry/tools/on.py <day> uredba-2014-1555`).
 
 ## Decisions made by hand
 

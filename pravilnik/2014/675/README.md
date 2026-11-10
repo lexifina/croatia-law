@@ -19,7 +19,7 @@ Pravilnik o naknadama troÅ¡kova zbog posebnih uvjeta rada sudaca privremeno upuÄ
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2014-675` (tags `pravilnik-2014-675/<day>`; `python tools/on.py <day> pravilnik-2014-675`).
+Act id: `pravilnik-2014-675` (tags `pravilnik-2014-675/<day>`; `python registry/tools/on.py <day> pravilnik-2014-675`).
 
 ## Status
 

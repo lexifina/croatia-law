@@ -15,7 +15,7 @@ Odluka o izdavanju i prodaji prigodnoga zlatnoga kovanog novca od 5 kuna iz seri
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2022-749` (tags `odluka-2022-749/<day>`; `python tools/on.py <day> odluka-2022-749`).
+Act id: `odluka-2022-749` (tags `odluka-2022-749/<day>`; `python registry/tools/on.py <day> odluka-2022-749`).
 
 ## Decisions made by hand
 

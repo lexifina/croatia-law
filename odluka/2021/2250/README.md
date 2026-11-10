@@ -8,7 +8,7 @@ Odluka o dodjeli Državne nagrade za humanitarni rad u 2021. godini · 1 version
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2021-2250` (tags `odluka-2021-2250/<day>`; `python tools/on.py <day> odluka-2021-2250`).
+Act id: `odluka-2021-2250` (tags `odluka-2021-2250/<day>`; `python registry/tools/on.py <day> odluka-2021-2250`).
 
 ## Decisions made by hand
 

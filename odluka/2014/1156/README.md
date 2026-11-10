@@ -8,7 +8,7 @@ Odluka o puštanju u optjecaj prigodne optjecajne novčanice od 20 kuna izdanje 
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2014-1156` (tags `odluka-2014-1156/<day>`; `python tools/on.py <day> odluka-2014-1156`).
+Act id: `odluka-2014-1156` (tags `odluka-2014-1156/<day>`; `python registry/tools/on.py <day> odluka-2014-1156`).
 
 ## Decisions made by hand
 

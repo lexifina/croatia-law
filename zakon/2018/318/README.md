@@ -23,7 +23,7 @@ Zakon o izmjenama i dopunama Zakona o obveznom zdravstvenom osiguranju i zdravst
 | čl. 17 | [clanak-017.md](clanak-017.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2018-318` (tags `zakon-2018-318/<day>`; `python tools/on.py <day> zakon-2018-318`).
+Act id: `zakon-2018-318` (tags `zakon-2018-318/<day>`; `python registry/tools/on.py <day> zakon-2018-318`).
 
 ## Decisions made by hand
 

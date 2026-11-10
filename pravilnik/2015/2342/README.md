@@ -26,7 +26,7 @@ Pravilnik o izdavanju Europske profesionalne kartice · 1 versions, from 2016-01
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2015-2342` (tags `pravilnik-2015-2342/<day>`; `python tools/on.py <day> pravilnik-2015-2342`).
+Act id: `pravilnik-2015-2342` (tags `pravilnik-2015-2342/<day>`; `python registry/tools/on.py <day> pravilnik-2015-2342`).
 
 ## Status
 

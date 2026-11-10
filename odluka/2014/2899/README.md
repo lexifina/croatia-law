@@ -9,7 +9,7 @@ Odluka o izmjenama Odluke o prirezu porezu na dohodak Grada Duge Rese · 1 versi
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2014-2899` (tags `odluka-2014-2899/<day>`; `python tools/on.py <day> odluka-2014-2899`).
+Act id: `odluka-2014-2899` (tags `odluka-2014-2899/<day>`; `python registry/tools/on.py <day> odluka-2014-2899`).
 
 ## Decisions made by hand
 

@@ -25,7 +25,7 @@ Odluka o prethodnoj suglasnosti za stjecanje kvalificiranog udjela u kreditnoj i
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2026-1377` (tags `odluka-2026-1377/<day>`; `python tools/on.py <day> odluka-2026-1377`).
+Act id: `odluka-2026-1377` (tags `odluka-2026-1377/<day>`; `python registry/tools/on.py <day> odluka-2026-1377`).
 
 ## Decisions made by hand
 

@@ -11,7 +11,7 @@ Pravilnik o izmjenama i dopunama Pravilnika o zaštiti radnika od izloženosti o
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2021-10` (tags `pravilnik-2021-10/<day>`; `python tools/on.py <day> pravilnik-2021-10`).
+Act id: `pravilnik-2021-10` (tags `pravilnik-2021-10/<day>`; `python registry/tools/on.py <day> pravilnik-2021-10`).
 
 ## Decisions made by hand
 

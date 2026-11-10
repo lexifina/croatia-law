@@ -115,7 +115,7 @@ Zakon o izmjenama i dopunama Zakona o mirovinskim osiguravajućim društvima · 
 | čl. 109 | [clanak-109.md](clanak-109.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2023-2394` (tags `zakon-2023-2394/<day>`; `python tools/on.py <day> zakon-2023-2394`).
+Act id: `zakon-2023-2394` (tags `zakon-2023-2394/<day>`; `python registry/tools/on.py <day> zakon-2023-2394`).
 
 ## Decisions made by hand
 

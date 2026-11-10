@@ -14,7 +14,7 @@ Pravilnik o izmjenama Pravilnika o sigurnosti igračaka · 1 versions, from 2019
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2019-1151` (tags `pravilnik-2019-1151/<day>`; `python tools/on.py <day> pravilnik-2019-1151`).
+Act id: `pravilnik-2019-1151` (tags `pravilnik-2019-1151/<day>`; `python registry/tools/on.py <day> pravilnik-2019-1151`).
 
 ## Decisions made by hand
 

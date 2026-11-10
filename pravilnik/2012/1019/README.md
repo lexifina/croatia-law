@@ -9,7 +9,7 @@ Pravilnik o izmjenama Pravilnika o pravima, uvjetima i načinu ostvarivanja prav
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2012-1019` (tags `pravilnik-2012-1019/<day>`; `python tools/on.py <day> pravilnik-2012-1019`).
+Act id: `pravilnik-2012-1019` (tags `pravilnik-2012-1019/<day>`; `python registry/tools/on.py <day> pravilnik-2012-1019`).
 
 ## Status
 

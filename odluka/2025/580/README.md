@@ -8,7 +8,7 @@ Odluka o osnivanju Nacionalnog vijeća za održivi razvoj · 1 versions, from 20
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2025-580` (tags `odluka-2025-580/<day>`; `python tools/on.py <day> odluka-2025-580`).
+Act id: `odluka-2025-580` (tags `odluka-2025-580/<day>`; `python registry/tools/on.py <day> odluka-2025-580`).
 
 ## Decisions made by hand
 

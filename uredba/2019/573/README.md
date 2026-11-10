@@ -18,7 +18,7 @@ Uredba o masovnoj procjeni vrijednosti nekretnina · 1 versions, from 2019-03-30
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2019-573` (tags `uredba-2019-573/<day>`; `python tools/on.py <day> uredba-2019-573`).
+Act id: `uredba-2019-573` (tags `uredba-2019-573/<day>`; `python registry/tools/on.py <day> uredba-2019-573`).
 
 ## Status
 

@@ -8,7 +8,7 @@ Odluka o isplati jednokratnog novčanog primanja korisnicima doplatka za djecu r
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2023-543` (tags `odluka-2023-543/<day>`; `python tools/on.py <day> odluka-2023-543`).
+Act id: `odluka-2023-543` (tags `odluka-2023-543/<day>`; `python registry/tools/on.py <day> odluka-2023-543`).
 
 ## Status
 

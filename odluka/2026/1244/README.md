@@ -9,7 +9,7 @@ Odluka o usvajanju Izmjene Programa Mikro zajmovi za rast i uključenost · 1 ve
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2026-1244` (tags `odluka-2026-1244/<day>`; `python tools/on.py <day> odluka-2026-1244`).
+Act id: `odluka-2026-1244` (tags `odluka-2026-1244/<day>`; `python registry/tools/on.py <day> odluka-2026-1244`).
 
 ## Decisions made by hand
 

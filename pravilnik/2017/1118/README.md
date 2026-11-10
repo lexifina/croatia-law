@@ -5,7 +5,7 @@ Pravilnik o ustroju i načinu rada područnih vijeća i matičnih odbora · 2 ve
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `pravilnik-2017-1118` (tags `pravilnik-2017-1118/<day>`; `python tools/on.py <day> pravilnik-2017-1118`).
+Act id: `pravilnik-2017-1118` (tags `pravilnik-2017-1118/<day>`; `python registry/tools/on.py <day> pravilnik-2017-1118`).
 
 ## Decisions made by hand
 

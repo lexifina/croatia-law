@@ -8,7 +8,7 @@ Odluka o izmjenama i dopuni Odluke o prodaji stanova u vlasništvu Republike Hrv
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2024-607` (tags `odluka-2024-607/<day>`; `python tools/on.py <day> odluka-2024-607`).
+Act id: `odluka-2024-607` (tags `odluka-2024-607/<day>`; `python registry/tools/on.py <day> odluka-2024-607`).
 
 ## Decisions made by hand
 

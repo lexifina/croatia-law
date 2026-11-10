@@ -8,7 +8,7 @@ Odluka o kriterijima za upis ribarskih plovila u registar ICCAT-a (ICCAT record 
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2011-1170` (tags `odluka-2011-1170/<day>`; `python tools/on.py <day> odluka-2011-1170`).
+Act id: `odluka-2011-1170` (tags `odluka-2011-1170/<day>`; `python registry/tools/on.py <day> odluka-2011-1170`).
 
 ## Decisions made by hand
 

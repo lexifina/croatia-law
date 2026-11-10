@@ -8,7 +8,7 @@ Odluka o katastarskoj izmjeri na području Općine Proložac za k.o. Postranje �
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2022-1577` (tags `odluka-2022-1577/<day>`; `python tools/on.py <day> odluka-2022-1577`).
+Act id: `odluka-2022-1577` (tags `odluka-2022-1577/<day>`; `python registry/tools/on.py <day> odluka-2022-1577`).
 
 ## Decisions made by hand
 

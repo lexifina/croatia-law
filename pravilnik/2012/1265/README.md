@@ -10,7 +10,7 @@ Pravilnik o dopuni Pravilnika o načinu i postupku izbora doktora specijaliste m
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2012-1265` (tags `pravilnik-2012-1265/<day>`; `python tools/on.py <day> pravilnik-2012-1265`).
+Act id: `pravilnik-2012-1265` (tags `pravilnik-2012-1265/<day>`; `python registry/tools/on.py <day> pravilnik-2012-1265`).
 
 ## Decisions made by hand
 

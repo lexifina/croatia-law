@@ -26,7 +26,7 @@ Pravilnik o stručnom osposobljavanju izvršnih radnika željezničkog sustava �
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2017-2064` (tags `pravilnik-2017-2064/<day>`; `python tools/on.py <day> pravilnik-2017-2064`).
+Act id: `pravilnik-2017-2064` (tags `pravilnik-2017-2064/<day>`; `python registry/tools/on.py <day> pravilnik-2017-2064`).
 
 ## Decisions made by hand
 

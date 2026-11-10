@@ -10,7 +10,7 @@ Pravilnik o izmjeni Pravilnika o programu osposobljavanja za agenta posredovanja
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2022-1133` (tags `pravilnik-2022-1133/<day>`; `python tools/on.py <day> pravilnik-2022-1133`).
+Act id: `pravilnik-2022-1133` (tags `pravilnik-2022-1133/<day>`; `python registry/tools/on.py <day> pravilnik-2022-1133`).
 
 ## Decisions made by hand
 

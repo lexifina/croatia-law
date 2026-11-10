@@ -14,7 +14,7 @@ Pravilnik o načinu prijavljivanja i izvještavanja o državnim potporama poljop
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2011-1625` (tags `pravilnik-2011-1625/<day>`; `python tools/on.py <day> pravilnik-2011-1625`).
+Act id: `pravilnik-2011-1625` (tags `pravilnik-2011-1625/<day>`; `python registry/tools/on.py <day> pravilnik-2011-1625`).
 
 ## Status
 

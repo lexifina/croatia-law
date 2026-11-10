@@ -19,7 +19,7 @@ Pravilnik o registru prijevoznika i evidenciji posrednika u cestovnom prijevozu 
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2014-1053` (tags `pravilnik-2014-1053/<day>`; `python tools/on.py <day> pravilnik-2014-1053`).
+Act id: `pravilnik-2014-1053` (tags `pravilnik-2014-1053/<day>`; `python registry/tools/on.py <day> pravilnik-2014-1053`).
 
 ## Decisions made by hand
 

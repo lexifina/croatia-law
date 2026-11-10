@@ -8,7 +8,7 @@ Odluka o ribolovnim mogućnostima i kriterijima raspodjele državne kvote i traj
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2017-181` (tags `odluka-2017-181/<day>`; `python tools/on.py <day> odluka-2017-181`).
+Act id: `odluka-2017-181` (tags `odluka-2017-181/<day>`; `python registry/tools/on.py <day> odluka-2017-181`).
 
 ## Status
 

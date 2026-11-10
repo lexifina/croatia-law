@@ -12,7 +12,7 @@ Pravilnik o farmakološki djelatnim tvarima i njihovoj klasifikaciji u odnosu na
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2011-441` (tags `pravilnik-2011-441/<day>`; `python tools/on.py <day> pravilnik-2011-441`).
+Act id: `pravilnik-2011-441` (tags `pravilnik-2011-441/<day>`; `python registry/tools/on.py <day> pravilnik-2011-441`).
 
 ## Status
 

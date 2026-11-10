@@ -12,7 +12,7 @@ Pravilnik o izmjenama i dopunama Pravilnika o sudu časti pri Hrvatskoj gospodar
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2015-1429` (tags `pravilnik-2015-1429/<day>`; `python tools/on.py <day> pravilnik-2015-1429`).
+Act id: `pravilnik-2015-1429` (tags `pravilnik-2015-1429/<day>`; `python registry/tools/on.py <day> pravilnik-2015-1429`).
 
 ## Decisions made by hand
 

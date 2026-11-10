@@ -8,7 +8,7 @@ Odluka o izmjenama Odluke o davanju suglasnosti Lučkoj upravi Rijeka za osnivan
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2025-19` (tags `odluka-2025-19/<day>`; `python tools/on.py <day> odluka-2025-19`).
+Act id: `odluka-2025-19` (tags `odluka-2025-19/<day>`; `python registry/tools/on.py <day> odluka-2025-19`).
 
 ## Decisions made by hand
 

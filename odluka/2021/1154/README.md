@@ -15,7 +15,7 @@ Odluka o osnovnim obilježjima prigodnoga optjecajnoga kovanog novca od 25 kuna 
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2021-1154` (tags `odluka-2021-1154/<day>`; `python tools/on.py <day> odluka-2021-1154`).
+Act id: `odluka-2021-1154` (tags `odluka-2021-1154/<day>`; `python registry/tools/on.py <day> odluka-2021-1154`).
 
 ## Decisions made by hand
 

@@ -8,7 +8,7 @@ Odluka o prodaji stanova u vlasništvu Republike Hrvatske na području hrvatskog
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2011-1228` (tags `odluka-2011-1228/<day>`; `python tools/on.py <day> odluka-2011-1228`).
+Act id: `odluka-2011-1228` (tags `odluka-2011-1228/<day>`; `python registry/tools/on.py <day> odluka-2011-1228`).
 
 ## Status
 

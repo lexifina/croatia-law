@@ -39,7 +39,7 @@ Statut Agencije za elektroničke medije · 1 versions, from 2022-07-30 (latest i
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `statut-2022-1322` (tags `statut-2022-1322/<day>`; `python tools/on.py <day> statut-2022-1322`).
+Act id: `statut-2022-1322` (tags `statut-2022-1322/<day>`; `python registry/tools/on.py <day> statut-2022-1322`).
 
 ## Decisions made by hand
 

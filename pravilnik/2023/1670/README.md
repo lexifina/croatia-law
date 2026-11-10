@@ -30,7 +30,7 @@ Pravilnik o postupku i mjerilima za izradu projekta komasacije, procjeni te mjer
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2023-1670` (tags `pravilnik-2023-1670/<day>`; `python tools/on.py <day> pravilnik-2023-1670`).
+Act id: `pravilnik-2023-1670` (tags `pravilnik-2023-1670/<day>`; `python registry/tools/on.py <day> pravilnik-2023-1670`).
 
 ## Decisions made by hand
 

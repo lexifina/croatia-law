@@ -8,7 +8,7 @@ Odluka o izmjenama Odluke o isplati jednokratnog novčanog primanja korisnicima 
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2022-686` (tags `odluka-2022-686/<day>`; `python tools/on.py <day> odluka-2022-686`).
+Act id: `odluka-2022-686` (tags `odluka-2022-686/<day>`; `python registry/tools/on.py <day> odluka-2022-686`).
 
 ## Decisions made by hand
 

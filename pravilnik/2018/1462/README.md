@@ -22,7 +22,7 @@ Pravilnik o Registru Središnjeg registra osiguranika · 1 versions, from 2018-0
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2018-1462` (tags `pravilnik-2018-1462/<day>`; `python tools/on.py <day> pravilnik-2018-1462`).
+Act id: `pravilnik-2018-1462` (tags `pravilnik-2018-1462/<day>`; `python registry/tools/on.py <day> pravilnik-2018-1462`).
 
 ## Decisions made by hand
 

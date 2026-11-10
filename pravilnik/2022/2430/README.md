@@ -37,7 +37,7 @@ Pravilnik o plaćanju naknada za obavljanje poslova Hrvatske regulatorne agencij
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2022-2430` (tags `pravilnik-2022-2430/<day>`; `python tools/on.py <day> pravilnik-2022-2430`).
+Act id: `pravilnik-2022-2430` (tags `pravilnik-2022-2430/<day>`; `python registry/tools/on.py <day> pravilnik-2022-2430`).
 
 ## Status
 

@@ -18,7 +18,7 @@ Odluka o sustavu unutarnjih kontrola · 1 versions, from 2015-01-10 (latest in f
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2015-21` (tags `odluka-2015-21/<day>`; `python tools/on.py <day> odluka-2015-21`).
+Act id: `odluka-2015-21` (tags `odluka-2015-21/<day>`; `python registry/tools/on.py <day> odluka-2015-21`).
 
 ## Status
 

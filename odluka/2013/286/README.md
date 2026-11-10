@@ -8,7 +8,7 @@ Odluka o postavljanju prof. dr. sc. Damira Grubiše za izvanrednog i opunomoćen
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2013-286` (tags `odluka-2013-286/<day>`; `python tools/on.py <day> odluka-2013-286`).
+Act id: `odluka-2013-286` (tags `odluka-2013-286/<day>`; `python registry/tools/on.py <day> odluka-2013-286`).
 
 ## Decisions made by hand
 

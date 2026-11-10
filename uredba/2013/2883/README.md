@@ -25,7 +25,7 @@ Uredba o uvjetima za utvrđivanje i gubitak statusa izbjeglice, prognanika odnos
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2013-2883` (tags `uredba-2013-2883/<day>`; `python tools/on.py <day> uredba-2013-2883`).
+Act id: `uredba-2013-2883` (tags `uredba-2013-2883/<day>`; `python registry/tools/on.py <day> uredba-2013-2883`).
 
 ## Decisions made by hand
 

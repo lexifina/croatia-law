@@ -56,7 +56,7 @@ Pravilnik o provedbi Mjere 07 "Temeljne usluge i obnova sela u ruralnim područj
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2016-1694` (tags `pravilnik-2016-1694/<day>`; `python tools/on.py <day> pravilnik-2016-1694`).
+Act id: `pravilnik-2016-1694` (tags `pravilnik-2016-1694/<day>`; `python registry/tools/on.py <day> pravilnik-2016-1694`).
 
 ## Status
 

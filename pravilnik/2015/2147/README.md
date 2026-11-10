@@ -48,7 +48,7 @@ Pravilnik o baterijama i akumulatorima i otpadnim baterijama i akumulatorima · 
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2015-2147` (tags `pravilnik-2015-2147/<day>`; `python tools/on.py <day> pravilnik-2015-2147`).
+Act id: `pravilnik-2015-2147` (tags `pravilnik-2015-2147/<day>`; `python registry/tools/on.py <day> pravilnik-2015-2147`).
 
 ## Status
 

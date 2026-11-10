@@ -13,7 +13,7 @@ Odluka o gradskim porezima Grada Valpova · 1 versions, from 2024-01-01 (latest 
 | čl. 7 | [clanak-007.md](clanak-007.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `odluka-2023-2079` (tags `odluka-2023-2079/<day>`; `python tools/on.py <day> odluka-2023-2079`).
+Act id: `odluka-2023-2079` (tags `odluka-2023-2079/<day>`; `python registry/tools/on.py <day> odluka-2023-2079`).
 
 ## Decisions made by hand
 

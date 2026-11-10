@@ -9,7 +9,7 @@ Odluka o davanju suglasnosti na Izmjene i dopune financijskog plana Fonda za za≈
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2016-2448` (tags `odluka-2016-2448/<day>`; `python tools/on.py <day> odluka-2016-2448`).
+Act id: `odluka-2016-2448` (tags `odluka-2016-2448/<day>`; `python registry/tools/on.py <day> odluka-2016-2448`).
 
 ## Decisions made by hand
 

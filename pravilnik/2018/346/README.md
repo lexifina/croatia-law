@@ -18,7 +18,7 @@ Pravilnik o načinu isplate novčanih primanja i drugih troškova · 1 versions,
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2018-346` (tags `pravilnik-2018-346/<day>`; `python tools/on.py <day> pravilnik-2018-346`).
+Act id: `pravilnik-2018-346` (tags `pravilnik-2018-346/<day>`; `python registry/tools/on.py <day> pravilnik-2018-346`).
 
 ## Decisions made by hand
 

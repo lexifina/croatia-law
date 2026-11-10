@@ -55,7 +55,7 @@ Pravilnik o oblikovanju i utvrđivanju načina, postupaka i drugih uvjeta za sig
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2016-1388` (tags `pravilnik-2016-1388/<day>`; `python tools/on.py <day> pravilnik-2016-1388`).
+Act id: `pravilnik-2016-1388` (tags `pravilnik-2016-1388/<day>`; `python registry/tools/on.py <day> pravilnik-2016-1388`).
 
 ## Status
 

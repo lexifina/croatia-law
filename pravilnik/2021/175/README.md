@@ -18,7 +18,7 @@ Pravilnik o posebnom dodatnom obrazovanju za rad s djecom i adolescentima · 1 v
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2021-175` (tags `pravilnik-2021-175/<day>`; `python tools/on.py <day> pravilnik-2021-175`).
+Act id: `pravilnik-2021-175` (tags `pravilnik-2021-175/<day>`; `python registry/tools/on.py <day> pravilnik-2021-175`).
 
 ## Decisions made by hand
 

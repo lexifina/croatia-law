@@ -28,7 +28,7 @@ Pravilnik o načinu nagrađivanja za dostavljene informacije i dokumentaciju o o
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2020-1068` (tags `pravilnik-2020-1068/<day>`; `python tools/on.py <day> pravilnik-2020-1068`).
+Act id: `pravilnik-2020-1068` (tags `pravilnik-2020-1068/<day>`; `python registry/tools/on.py <day> pravilnik-2020-1068`).
 
 ## Decisions made by hand
 

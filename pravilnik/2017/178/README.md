@@ -10,7 +10,7 @@ Pravilnik o izmjeni Pravilnika o ocjenjivanju djelatnih vojnih osoba · 1 versio
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2017-178` (tags `pravilnik-2017-178/<day>`; `python tools/on.py <day> pravilnik-2017-178`).
+Act id: `pravilnik-2017-178` (tags `pravilnik-2017-178/<day>`; `python registry/tools/on.py <day> pravilnik-2017-178`).
 
 ## Decisions made by hand
 

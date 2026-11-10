@@ -17,7 +17,7 @@ Zakon o izmjenama Zakona o istraživanju i eksploataciji ugljikovodika · 1 vers
 | čl. 11 | [clanak-011.md](clanak-011.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2014-295` (tags `zakon-2014-295/<day>`; `python tools/on.py <day> zakon-2014-295`).
+Act id: `zakon-2014-295` (tags `zakon-2014-295/<day>`; `python registry/tools/on.py <day> zakon-2014-295`).
 
 ## Decisions made by hand
 

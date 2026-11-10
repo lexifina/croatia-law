@@ -18,7 +18,7 @@ Uredba o mjerama društveno odgovornog priređivanja igara na sreću · 1 versio
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2025-1855` (tags `uredba-2025-1855/<day>`; `python tools/on.py <day> uredba-2025-1855`).
+Act id: `uredba-2025-1855` (tags `uredba-2025-1855/<day>`; `python registry/tools/on.py <day> uredba-2025-1855`).
 
 ## Decisions made by hand
 

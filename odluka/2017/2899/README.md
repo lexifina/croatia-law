@@ -8,7 +8,7 @@ Odluka o postavljanju izvanrednog i opunomoćenog veleposlanika Republike Hrvats
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2017-2899` (tags `odluka-2017-2899/<day>`; `python tools/on.py <day> odluka-2017-2899`).
+Act id: `odluka-2017-2899` (tags `odluka-2017-2899/<day>`; `python registry/tools/on.py <day> odluka-2017-2899`).
 
 ## Decisions made by hand
 

@@ -8,7 +8,7 @@ Odluka o davanju suglasnosti na prijenos koncesije pomorskog dobra u svrhu gospo
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2019-238` (tags `odluka-2019-238/<day>`; `python tools/on.py <day> odluka-2019-238`).
+Act id: `odluka-2019-238` (tags `odluka-2019-238/<day>`; `python registry/tools/on.py <day> odluka-2019-238`).
 
 ## Decisions made by hand
 

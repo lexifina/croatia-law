@@ -9,7 +9,7 @@ Uredba o izmjeni Uredbe o kriterijima za utvrđivanje korisnika i načinu raspod
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2014-1890` (tags `uredba-2014-1890/<day>`; `python tools/on.py <day> uredba-2014-1890`).
+Act id: `uredba-2014-1890` (tags `uredba-2014-1890/<day>`; `python registry/tools/on.py <day> uredba-2014-1890`).
 
 ## Decisions made by hand
 

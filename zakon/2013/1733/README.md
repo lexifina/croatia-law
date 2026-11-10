@@ -149,7 +149,7 @@ Zakon o sigurnosti i interoperabilnosti željezničkog sustava · 1 versions, fr
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 
-Act id: `zakon-2013-1733` (tags `zakon-2013-1733/<day>`; `python tools/on.py <day> zakon-2013-1733`).
+Act id: `zakon-2013-1733` (tags `zakon-2013-1733/<day>`; `python registry/tools/on.py <day> zakon-2013-1733`).
 
 ## Status
 

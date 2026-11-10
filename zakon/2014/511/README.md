@@ -23,7 +23,7 @@ Zakon o izmjenama i dopunama Zakona o pružanju usluga u turizmu · 1 versions, 
 | čl. 17 | [clanak-017.md](clanak-017.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2014-511` (tags `zakon-2014-511/<day>`; `python tools/on.py <day> zakon-2014-511`).
+Act id: `zakon-2014-511` (tags `zakon-2014-511/<day>`; `python registry/tools/on.py <day> zakon-2014-511`).
 
 ## Decisions made by hand
 

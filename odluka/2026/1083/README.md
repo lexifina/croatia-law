@@ -8,7 +8,7 @@ Odluka o postavljanju poÄasne konzulice Republike Hrvatske u Sjedinjenim AmeriÄ
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2026-1083` (tags `odluka-2026-1083/<day>`; `python tools/on.py <day> odluka-2026-1083`).
+Act id: `odluka-2026-1083` (tags `odluka-2026-1083/<day>`; `python registry/tools/on.py <day> odluka-2026-1083`).
 
 ## Decisions made by hand
 

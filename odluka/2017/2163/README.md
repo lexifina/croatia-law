@@ -8,7 +8,7 @@ Odluka o sudjelovanju Republike Hrvatske u 18-oj nadopuni sredstava Međunarodno
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2017-2163` (tags `odluka-2017-2163/<day>`; `python tools/on.py <day> odluka-2017-2163`).
+Act id: `odluka-2017-2163` (tags `odluka-2017-2163/<day>`; `python registry/tools/on.py <day> odluka-2017-2163`).
 
 ## Decisions made by hand
 

@@ -16,7 +16,7 @@ Uredba o izmjenama Uredbe o unutarnjem ustrojstvu Ministarstva rada i mirovinsko
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2012-3090` (tags `uredba-2012-3090/<day>`; `python tools/on.py <day> uredba-2012-3090`).
+Act id: `uredba-2012-3090` (tags `uredba-2012-3090/<day>`; `python registry/tools/on.py <day> uredba-2012-3090`).
 
 ## Decisions made by hand
 

@@ -8,7 +8,7 @@ Odluka o sudjelovanju Hrvatske radiotelevizije u provedbi nastavnog programa i i
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2020-649` (tags `odluka-2020-649/<day>`; `python tools/on.py <day> odluka-2020-649`).
+Act id: `odluka-2020-649` (tags `odluka-2020-649/<day>`; `python registry/tools/on.py <day> odluka-2020-649`).
 
 ## Decisions made by hand
 

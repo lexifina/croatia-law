@@ -8,7 +8,7 @@ Odluka o katastarskoj izmjeri na području Općine Lokvičići za dio katastarsk
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2024-938` (tags `odluka-2024-938/<day>`; `python tools/on.py <day> odluka-2024-938`).
+Act id: `odluka-2024-938` (tags `odluka-2024-938/<day>`; `python registry/tools/on.py <day> odluka-2024-938`).
 
 ## Decisions made by hand
 

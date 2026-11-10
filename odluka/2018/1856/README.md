@@ -8,7 +8,7 @@ Odluka o osnivanju Konzulata Republike Hrvatske u Ukrajini, sa sjedištem u Ivan
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2018-1856` (tags `odluka-2018-1856/<day>`; `python tools/on.py <day> odluka-2018-1856`).
+Act id: `odluka-2018-1856` (tags `odluka-2018-1856/<day>`; `python registry/tools/on.py <day> odluka-2018-1856`).
 
 ## Decisions made by hand
 

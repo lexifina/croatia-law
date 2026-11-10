@@ -13,7 +13,7 @@ Uredba o nadoknadi dijela troška dizelskog goriva koje se koristi kao pogonsko 
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2024-488` (tags `uredba-2024-488/<day>`; `python tools/on.py <day> uredba-2024-488`).
+Act id: `uredba-2024-488` (tags `uredba-2024-488/<day>`; `python registry/tools/on.py <day> uredba-2024-488`).
 
 ## Decisions made by hand
 

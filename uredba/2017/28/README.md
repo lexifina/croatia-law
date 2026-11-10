@@ -11,7 +11,7 @@ Uredba o izmjenama Uredbe o poslovima i posebnim uvjetima rada u državnoj služ
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2017-28` (tags `uredba-2017-28/<day>`; `python tools/on.py <day> uredba-2017-28`).
+Act id: `uredba-2017-28` (tags `uredba-2017-28/<day>`; `python registry/tools/on.py <day> uredba-2017-28`).
 
 ## Decisions made by hand
 

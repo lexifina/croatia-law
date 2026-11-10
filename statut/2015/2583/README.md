@@ -78,7 +78,7 @@ Statut Hrvatske komore inženjera elektrotehnike · 1 versions, from 2015-12-31 
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `statut-2015-2583` (tags `statut-2015-2583/<day>`; `python tools/on.py <day> statut-2015-2583`).
+Act id: `statut-2015-2583` (tags `statut-2015-2583/<day>`; `python registry/tools/on.py <day> statut-2015-2583`).
 
 ## Status
 

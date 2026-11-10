@@ -16,7 +16,7 @@ Pravilnik o načinu obračuna i isplate jednokratnog novčanog primanja iz sreds
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2015-2370` (tags `pravilnik-2015-2370/<day>`; `python tools/on.py <day> pravilnik-2015-2370`).
+Act id: `pravilnik-2015-2370` (tags `pravilnik-2015-2370/<day>`; `python registry/tools/on.py <day> pravilnik-2015-2370`).
 
 ## Decisions made by hand
 

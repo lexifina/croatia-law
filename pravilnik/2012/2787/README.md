@@ -19,7 +19,7 @@ Pravilnik o naplati godišnje naknade za uporabu javnih cesta što se plaća pri
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2012-2787` (tags `pravilnik-2012-2787/<day>`; `python tools/on.py <day> pravilnik-2012-2787`).
+Act id: `pravilnik-2012-2787` (tags `pravilnik-2012-2787/<day>`; `python registry/tools/on.py <day> pravilnik-2012-2787`).
 
 ## Decisions made by hand
 

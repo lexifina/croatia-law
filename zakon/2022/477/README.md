@@ -12,7 +12,7 @@ Zakon o izmjenama i dopuni Zakona o državnoj izmjeri i katastru nekretnina · 1
 | čl. 6 | [clanak-006.md](clanak-006.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2022-477` (tags `zakon-2022-477/<day>`; `python tools/on.py <day> zakon-2022-477`).
+Act id: `zakon-2022-477` (tags `zakon-2022-477/<day>`; `python registry/tools/on.py <day> zakon-2022-477`).
 
 ## Decisions made by hand
 

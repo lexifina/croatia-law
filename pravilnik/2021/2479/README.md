@@ -11,7 +11,7 @@ Pravilnik o izmjenama Pravilnika o izvještavanju o značajnim promjenama i izvj
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2021-2479` (tags `pravilnik-2021-2479/<day>`; `python tools/on.py <day> pravilnik-2021-2479`).
+Act id: `pravilnik-2021-2479` (tags `pravilnik-2021-2479/<day>`; `python registry/tools/on.py <day> pravilnik-2021-2479`).
 
 ## Decisions made by hand
 

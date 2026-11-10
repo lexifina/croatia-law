@@ -8,7 +8,7 @@ Odluka o izmjenama i dopunama Odluke o nazivima i uvjetima za radna mjesta, posl
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2020-1510` (tags `odluka-2020-1510/<day>`; `python tools/on.py <day> odluka-2020-1510`).
+Act id: `odluka-2020-1510` (tags `odluka-2020-1510/<day>`; `python registry/tools/on.py <day> odluka-2020-1510`).
 
 ## Decisions made by hand
 

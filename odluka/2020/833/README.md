@@ -8,7 +8,7 @@ Odluka o izmjeni i dopuni Odluke o zabrani napuštanja mjesta prebivališta i st
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2020-833` (tags `odluka-2020-833/<day>`; `python tools/on.py <day> odluka-2020-833`).
+Act id: `odluka-2020-833` (tags `odluka-2020-833/<day>`; `python registry/tools/on.py <day> odluka-2020-833`).
 
 ## Decisions made by hand
 

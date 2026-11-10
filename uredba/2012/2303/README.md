@@ -15,7 +15,7 @@ Uredba o izmjenama Uredbe o Hrvatskoj poljoprivrednoj agenciji · 1 versions, fr
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2012-2303` (tags `uredba-2012-2303/<day>`; `python tools/on.py <day> uredba-2012-2303`).
+Act id: `uredba-2012-2303` (tags `uredba-2012-2303/<day>`; `python registry/tools/on.py <day> uredba-2012-2303`).
 
 ## Decisions made by hand
 

@@ -26,7 +26,7 @@ Pravilnik o izmjenama i dopunama Pravilnika o porezu na dohodak · 1 versions, f
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2023-7` (tags `pravilnik-2023-7/<day>`; `python tools/on.py <day> pravilnik-2023-7`).
+Act id: `pravilnik-2023-7` (tags `pravilnik-2023-7/<day>`; `python registry/tools/on.py <day> pravilnik-2023-7`).
 
 ## Decisions made by hand
 

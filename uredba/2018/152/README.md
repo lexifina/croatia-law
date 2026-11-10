@@ -28,7 +28,7 @@ Uredba o izmjenama i dopunama Uredbe o okolišnoj dozvoli · 1 versions, from 20
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2018-152` (tags `uredba-2018-152/<day>`; `python tools/on.py <day> uredba-2018-152`).
+Act id: `uredba-2018-152` (tags `uredba-2018-152/<day>`; `python registry/tools/on.py <day> uredba-2018-152`).
 
 ## Decisions made by hand
 

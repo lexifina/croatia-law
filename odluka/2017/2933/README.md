@@ -9,7 +9,7 @@ Odluka o najvišem postotku naknade depozitaru za 2018. godinu · 1 versions, fr
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2017-2933` (tags `odluka-2017-2933/<day>`; `python tools/on.py <day> odluka-2017-2933`).
+Act id: `odluka-2017-2933` (tags `odluka-2017-2933/<day>`; `python registry/tools/on.py <day> odluka-2017-2933`).
 
 ## Decisions made by hand
 

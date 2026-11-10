@@ -9,7 +9,7 @@ Odluka o donošenju Plana upravljanja imovinom u vlasništvu Republike Hrvatske 
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2014-2673` (tags `odluka-2014-2673/<day>`; `python tools/on.py <day> odluka-2014-2673`).
+Act id: `odluka-2014-2673` (tags `odluka-2014-2673/<day>`; `python registry/tools/on.py <day> odluka-2014-2673`).
 
 ## Decisions made by hand
 

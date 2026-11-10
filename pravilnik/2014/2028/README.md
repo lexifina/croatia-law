@@ -39,7 +39,7 @@ Pravilnik o načinu rada i odlučivanja Povjerenstva za odlučivanje o sukobu in
 | čl. 33 | [clanak-033.md](clanak-033.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `pravilnik-2014-2028` (tags `pravilnik-2014-2028/<day>`; `python tools/on.py <day> pravilnik-2014-2028`).
+Act id: `pravilnik-2014-2028` (tags `pravilnik-2014-2028/<day>`; `python registry/tools/on.py <day> pravilnik-2014-2028`).
 
 ## Decisions made by hand
 

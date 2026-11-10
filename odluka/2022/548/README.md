@@ -8,7 +8,7 @@ Odluka o prestanku važenja Odluke o nužnoj mjeri pojačane kontrole provođenj
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2022-548` (tags `odluka-2022-548/<day>`; `python tools/on.py <day> odluka-2022-548`).
+Act id: `odluka-2022-548` (tags `odluka-2022-548/<day>`; `python registry/tools/on.py <day> odluka-2022-548`).
 
 ## Decisions made by hand
 

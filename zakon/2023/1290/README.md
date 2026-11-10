@@ -28,7 +28,7 @@ Zakon o izmjenama i dopunama Zakona o računovodstvu · 1 versions, from 2023-07
 | čl. 22 | [clanak-022.md](clanak-022.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2023-1290` (tags `zakon-2023-1290/<day>`; `python tools/on.py <day> zakon-2023-1290`).
+Act id: `zakon-2023-1290` (tags `zakon-2023-1290/<day>`; `python registry/tools/on.py <day> zakon-2023-1290`).
 
 ## Decisions made by hand
 

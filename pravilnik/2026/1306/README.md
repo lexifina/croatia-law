@@ -15,7 +15,7 @@ Pravilnik o registraciji pružatelja usluge Europske elektroničke naplate cesta
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2026-1306` (tags `pravilnik-2026-1306/<day>`; `python tools/on.py <day> pravilnik-2026-1306`).
+Act id: `pravilnik-2026-1306` (tags `pravilnik-2026-1306/<day>`; `python registry/tools/on.py <day> pravilnik-2026-1306`).
 
 ## Decisions made by hand
 

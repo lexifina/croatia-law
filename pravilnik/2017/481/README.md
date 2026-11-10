@@ -9,7 +9,7 @@ Pravilnik o izmjeni Pravilnika o vrsti i sadržaju projekata za javne ceste · 1
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2017-481` (tags `pravilnik-2017-481/<day>`; `python tools/on.py <day> pravilnik-2017-481`).
+Act id: `pravilnik-2017-481` (tags `pravilnik-2017-481/<day>`; `python registry/tools/on.py <day> pravilnik-2017-481`).
 
 ## Decisions made by hand
 

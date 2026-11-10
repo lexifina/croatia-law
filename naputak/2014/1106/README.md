@@ -20,7 +20,7 @@ Naputak o načinu pečaćenja kada se rješenje inspektora rada izvršava peča�
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `naputak-2014-1106` (tags `naputak-2014-1106/<day>`; `python tools/on.py <day> naputak-2014-1106`).
+Act id: `naputak-2014-1106` (tags `naputak-2014-1106/<day>`; `python registry/tools/on.py <day> naputak-2014-1106`).
 
 ## Status
 

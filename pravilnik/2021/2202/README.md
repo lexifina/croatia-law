@@ -21,7 +21,7 @@ Pravilnik o provedbi Programa potpore primarnim poljoprivrednim proizvođačima 
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2021-2202` (tags `pravilnik-2021-2202/<day>`; `python tools/on.py <day> pravilnik-2021-2202`).
+Act id: `pravilnik-2021-2202` (tags `pravilnik-2021-2202/<day>`; `python registry/tools/on.py <day> pravilnik-2021-2202`).
 
 ## Decisions made by hand
 

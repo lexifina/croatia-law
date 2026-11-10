@@ -8,7 +8,7 @@ Odluka o uvjetima i kriterijima koje pri javnoj nabavi moraju zadovoljiti poljop
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2020-859` (tags `odluka-2020-859/<day>`; `python tools/on.py <day> odluka-2020-859`).
+Act id: `odluka-2020-859` (tags `odluka-2020-859/<day>`; `python registry/tools/on.py <day> odluka-2020-859`).
 
 ## Decisions made by hand
 

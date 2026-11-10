@@ -9,7 +9,7 @@ Odluka o II. izmjeni Odluke o naknadi za razvoj na području Međimurske župani
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2022-17` (tags `odluka-2022-17/<day>`; `python tools/on.py <day> odluka-2022-17`).
+Act id: `odluka-2022-17` (tags `odluka-2022-17/<day>`; `python registry/tools/on.py <day> odluka-2022-17`).
 
 ## Decisions made by hand
 

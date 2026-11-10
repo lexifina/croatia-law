@@ -12,7 +12,7 @@ Zakon o izmjenama i dopuni Zakona o Vladi Republike Hrvatske · 1 versions, from
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 
-Act id: `zakon-2016-1970` (tags `zakon-2016-1970/<day>`; `python tools/on.py <day> zakon-2016-1970`).
+Act id: `zakon-2016-1970` (tags `zakon-2016-1970/<day>`; `python registry/tools/on.py <day> zakon-2016-1970`).
 
 ## Decisions made by hand
 

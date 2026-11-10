@@ -9,7 +9,7 @@ Pravilnik o prestanku važenja Pravilnika o biosigurnosnim mjerama za smanjenje 
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2015-985` (tags `pravilnik-2015-985/<day>`; `python tools/on.py <day> pravilnik-2015-985`).
+Act id: `pravilnik-2015-985` (tags `pravilnik-2015-985/<day>`; `python registry/tools/on.py <day> pravilnik-2015-985`).
 
 ## Decisions made by hand
 

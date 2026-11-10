@@ -11,7 +11,7 @@ Odluka o izmjenama i dopunama Odluke o TIPS usluzi za sporedne sustave koji nami
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2022-2065` (tags `odluka-2022-2065/<day>`; `python tools/on.py <day> odluka-2022-2065`).
+Act id: `odluka-2022-2065` (tags `odluka-2022-2065/<day>`; `python registry/tools/on.py <day> odluka-2022-2065`).
 
 ## Decisions made by hand
 

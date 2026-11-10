@@ -25,7 +25,7 @@ Pravilnik o postupku i načinu polaganja naučničkog ispita · 1 versions, from
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2021-974` (tags `pravilnik-2021-974/<day>`; `python tools/on.py <day> pravilnik-2021-974`).
+Act id: `pravilnik-2021-974` (tags `pravilnik-2021-974/<day>`; `python registry/tools/on.py <day> pravilnik-2021-974`).
 
 ## Status
 

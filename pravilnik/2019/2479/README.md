@@ -5,7 +5,7 @@ Pravilnik o troškovima koji se mogu plaćati iz imovine dobrovoljnog mirovinsko
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `pravilnik-2019-2479` (tags `pravilnik-2019-2479/<day>`; `python tools/on.py <day> pravilnik-2019-2479`).
+Act id: `pravilnik-2019-2479` (tags `pravilnik-2019-2479/<day>`; `python registry/tools/on.py <day> pravilnik-2019-2479`).
 
 ## Decisions made by hand
 

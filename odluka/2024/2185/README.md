@@ -8,7 +8,7 @@ Odluka o zatvaranju za promet postojećeg pješačkog prijelaza · 1 versions, f
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2024-2185` (tags `odluka-2024-2185/<day>`; `python tools/on.py <day> odluka-2024-2185`).
+Act id: `odluka-2024-2185` (tags `odluka-2024-2185/<day>`; `python registry/tools/on.py <day> odluka-2024-2185`).
 
 ## Status
 

@@ -30,7 +30,7 @@ Pravilnik o ljekovitoj hrani za životinje · 1 versions, from 2011-11-03 (lates
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2011-2360` (tags `pravilnik-2011-2360/<day>`; `python tools/on.py <day> pravilnik-2011-2360`).
+Act id: `pravilnik-2011-2360` (tags `pravilnik-2011-2360/<day>`; `python registry/tools/on.py <day> pravilnik-2011-2360`).
 
 ## Decisions made by hand
 

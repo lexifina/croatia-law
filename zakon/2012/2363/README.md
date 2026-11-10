@@ -9,7 +9,7 @@ Zakon o dopunama Zakona o kreditnim institucijama · 1 versions, from 2012-10-01
 | čl. 3 | [clanak-003.md](clanak-003.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2012-2363` (tags `zakon-2012-2363/<day>`; `python tools/on.py <day> zakon-2012-2363`).
+Act id: `zakon-2012-2363` (tags `zakon-2012-2363/<day>`; `python registry/tools/on.py <day> zakon-2012-2363`).
 
 ## Decisions made by hand
 

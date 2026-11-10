@@ -34,7 +34,7 @@ Odluka o upravljanju likvidnosnim rizikom · 1 versions, from 2014-02-22 (latest
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2014-390` (tags `odluka-2014-390/<day>`; `python tools/on.py <day> odluka-2014-390`).
+Act id: `odluka-2014-390` (tags `odluka-2014-390/<day>`; `python registry/tools/on.py <day> odluka-2014-390`).
 
 ## Status
 

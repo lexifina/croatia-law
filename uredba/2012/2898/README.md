@@ -19,7 +19,7 @@ Uredba o kupoprodaji poslovnog prostora u vlasništvu Republike Hrvatske · 1 ve
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2012-2898` (tags `uredba-2012-2898/<day>`; `python tools/on.py <day> uredba-2012-2898`).
+Act id: `uredba-2012-2898` (tags `uredba-2012-2898/<day>`; `python registry/tools/on.py <day> uredba-2012-2898`).
 
 ## Status
 

@@ -22,7 +22,7 @@ Odluka o uvjetima i načinu na koji ovlašteni mjenjači obavljaju mjenjačke po
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2016-612` (tags `odluka-2016-612/<day>`; `python tools/on.py <day> odluka-2016-612`).
+Act id: `odluka-2016-612` (tags `odluka-2016-612/<day>`; `python registry/tools/on.py <day> odluka-2016-612`).
 
 ## Status
 

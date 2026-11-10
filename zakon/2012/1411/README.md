@@ -8,7 +8,7 @@ Zakon o dopuni Zakona o podjeli trgovačkog društva HŽ-Hrvatske željeznice d.
 | čl. 2 | [clanak-002.md](clanak-002.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2012-1411` (tags `zakon-2012-1411/<day>`; `python tools/on.py <day> zakon-2012-1411`).
+Act id: `zakon-2012-1411` (tags `zakon-2012-1411/<day>`; `python registry/tools/on.py <day> zakon-2012-1411`).
 
 ## Decisions made by hand
 

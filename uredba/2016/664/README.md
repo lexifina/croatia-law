@@ -10,7 +10,7 @@ Uredba o izmjeni Uredbe o osnivanju Središnje agencije za financiranje i ugovar
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2016-664` (tags `uredba-2016-664/<day>`; `python tools/on.py <day> uredba-2016-664`).
+Act id: `uredba-2016-664` (tags `uredba-2016-664/<day>`; `python registry/tools/on.py <day> uredba-2016-664`).
 
 ## Decisions made by hand
 

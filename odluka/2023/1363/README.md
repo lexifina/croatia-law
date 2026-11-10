@@ -7,7 +7,7 @@ Odluka o poništenju dijela Obavijesti o namjeri davanja koncesije za obavljanje
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 
-Act id: `odluka-2023-1363` (tags `odluka-2023-1363/<day>`; `python tools/on.py <day> odluka-2023-1363`).
+Act id: `odluka-2023-1363` (tags `odluka-2023-1363/<day>`; `python registry/tools/on.py <day> odluka-2023-1363`).
 
 ## Decisions made by hand
 

@@ -14,7 +14,7 @@ Uredba o izmjenama i dopunama Uredbe o osnivanju Zdravstvenog veleučilišta · 
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2013-2530` (tags `uredba-2013-2530/<day>`; `python tools/on.py <day> uredba-2013-2530`).
+Act id: `uredba-2013-2530` (tags `uredba-2013-2530/<day>`; `python registry/tools/on.py <day> uredba-2013-2530`).
 
 ## Decisions made by hand
 

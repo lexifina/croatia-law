@@ -8,7 +8,7 @@ Odluka u povodu Zahtjeva za raspisivanje državnog referenduma Građanske inicij
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2022-557` (tags `odluka-2022-557/<day>`; `python tools/on.py <day> odluka-2022-557`).
+Act id: `odluka-2022-557` (tags `odluka-2022-557/<day>`; `python registry/tools/on.py <day> odluka-2022-557`).
 
 ## Decisions made by hand
 

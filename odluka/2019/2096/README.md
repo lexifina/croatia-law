@@ -15,7 +15,7 @@ Odluka o obračunu i naplati naknade za razvoj sustava javne odvodnje broj: 221-
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2019-2096` (tags `odluka-2019-2096/<day>`; `python tools/on.py <day> odluka-2019-2096`).
+Act id: `odluka-2019-2096` (tags `odluka-2019-2096/<day>`; `python registry/tools/on.py <day> odluka-2019-2096`).
 
 ## Status
 

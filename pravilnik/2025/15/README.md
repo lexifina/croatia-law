@@ -19,7 +19,7 @@ Pravilnik o postupku priznavanja stručnih kvalifikacija i uvjetima za privremen
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2025-15` (tags `pravilnik-2025-15/<day>`; `python tools/on.py <day> pravilnik-2025-15`).
+Act id: `pravilnik-2025-15` (tags `pravilnik-2025-15/<day>`; `python registry/tools/on.py <day> pravilnik-2025-15`).
 
 ## Decisions made by hand
 

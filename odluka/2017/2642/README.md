@@ -9,7 +9,7 @@ Odluka o davanju suglasnosti na Izmjene i dopune Financijskog plana Hrvatskog za
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2017-2642` (tags `odluka-2017-2642/<day>`; `python tools/on.py <day> odluka-2017-2642`).
+Act id: `odluka-2017-2642` (tags `odluka-2017-2642/<day>`; `python registry/tools/on.py <day> odluka-2017-2642`).
 
 ## Decisions made by hand
 

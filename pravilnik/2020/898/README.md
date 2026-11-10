@@ -9,7 +9,7 @@ Pravilnik o dopuni Pravilnika o načinima, postupcima i elementima vrednovanja u
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2020-898` (tags `pravilnik-2020-898/<day>`; `python tools/on.py <day> pravilnik-2020-898`).
+Act id: `pravilnik-2020-898` (tags `pravilnik-2020-898/<day>`; `python registry/tools/on.py <day> pravilnik-2020-898`).
 
 ## Decisions made by hand
 

@@ -5,7 +5,7 @@ Zakon o osiguranju depozita · 2 versions, from 2015-07-25 (latest in force: 202
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `zakon-2015-1568` (tags `zakon-2015-1568/<day>`; `python tools/on.py <day> zakon-2015-1568`).
+Act id: `zakon-2015-1568` (tags `zakon-2015-1568/<day>`; `python registry/tools/on.py <day> zakon-2015-1568`).
 
 ## Decisions made by hand
 

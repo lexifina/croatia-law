@@ -9,7 +9,7 @@ Pravilnik o prestanku važenja Pravilnika o unutarnjem ustrojstvu i načinu rada
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2020-55` (tags `pravilnik-2020-55/<day>`; `python tools/on.py <day> pravilnik-2020-55`).
+Act id: `pravilnik-2020-55` (tags `pravilnik-2020-55/<day>`; `python registry/tools/on.py <day> pravilnik-2020-55`).
 
 ## Decisions made by hand
 

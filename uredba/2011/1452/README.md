@@ -10,7 +10,7 @@ Uredba o izmjenama Uredbe o načinu izračuna iznosa pomoći izravnanja za decen
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2011-1452` (tags `uredba-2011-1452/<day>`; `python tools/on.py <day> uredba-2011-1452`).
+Act id: `uredba-2011-1452` (tags `uredba-2011-1452/<day>`; `python registry/tools/on.py <day> uredba-2011-1452`).
 
 ## Decisions made by hand
 

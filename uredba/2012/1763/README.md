@@ -42,7 +42,7 @@ Uredba o kriterijima, mjerilima i postupku za odgodu plaćanja, obročnu otplatu
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2012-1763` (tags `uredba-2012-1763/<day>`; `python tools/on.py <day> uredba-2012-1763`).
+Act id: `uredba-2012-1763` (tags `uredba-2012-1763/<day>`; `python registry/tools/on.py <day> uredba-2012-1763`).
 
 ## Status
 

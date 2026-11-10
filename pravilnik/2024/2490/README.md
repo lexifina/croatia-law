@@ -22,7 +22,7 @@ Pravilnik o uvjetima za sudjelovanje kopitara na natjecanjima te prikupljanju po
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2024-2490` (tags `pravilnik-2024-2490/<day>`; `python tools/on.py <day> pravilnik-2024-2490`).
+Act id: `pravilnik-2024-2490` (tags `pravilnik-2024-2490/<day>`; `python registry/tools/on.py <day> pravilnik-2024-2490`).
 
 ## Decisions made by hand
 

@@ -9,7 +9,7 @@ Pravilnik o dopuni Pravilnika o obavljanju gospodarskog ribolova na moru obalnim
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2021-590` (tags `pravilnik-2021-590/<day>`; `python tools/on.py <day> pravilnik-2021-590`).
+Act id: `pravilnik-2021-590` (tags `pravilnik-2021-590/<day>`; `python registry/tools/on.py <day> pravilnik-2021-590`).
 
 ## Decisions made by hand
 

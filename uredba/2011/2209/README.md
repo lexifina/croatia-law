@@ -29,7 +29,7 @@ Uredba o unutarnjem ustrojstvu Ministarstva kulture · 1 versions, from 2011-10-
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2011-2209` (tags `uredba-2011-2209/<day>`; `python tools/on.py <day> uredba-2011-2209`).
+Act id: `uredba-2011-2209` (tags `uredba-2011-2209/<day>`; `python registry/tools/on.py <day> uredba-2011-2209`).
 
 ## Status
 

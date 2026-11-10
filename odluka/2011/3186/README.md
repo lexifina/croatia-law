@@ -9,7 +9,7 @@ Odluke o izmjeni Odluke o standardima i normativima prava na zdravstvenu zaštit
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2011-3186` (tags `odluka-2011-3186/<day>`; `python tools/on.py <day> odluka-2011-3186`).
+Act id: `odluka-2011-3186` (tags `odluka-2011-3186/<day>`; `python registry/tools/on.py <day> odluka-2011-3186`).
 
 ## Status
 

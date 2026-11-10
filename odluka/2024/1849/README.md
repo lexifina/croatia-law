@@ -9,7 +9,7 @@ Odluka o izmjeni Odluke o dokumentaciji koja se prilaže zahtjevu za izdavanje o
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2024-1849` (tags `odluka-2024-1849/<day>`; `python tools/on.py <day> odluka-2024-1849`).
+Act id: `odluka-2024-1849` (tags `odluka-2024-1849/<day>`; `python registry/tools/on.py <day> odluka-2024-1849`).
 
 ## Decisions made by hand
 

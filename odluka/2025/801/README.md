@@ -8,7 +8,7 @@ Odluka o izmjeni Odluke o osnivanju Nacionalnog povjerenstva za gospodarenje dab
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2025-801` (tags `odluka-2025-801/<day>`; `python tools/on.py <day> odluka-2025-801`).
+Act id: `odluka-2025-801` (tags `odluka-2025-801/<day>`; `python registry/tools/on.py <day> odluka-2025-801`).
 
 ## Decisions made by hand
 

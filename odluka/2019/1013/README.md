@@ -28,7 +28,7 @@ Odluka o općinskim porezima Općine Štefanje · 1 versions, from 2020-01-01 (l
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2019-1013` (tags `odluka-2019-1013/<day>`; `python tools/on.py <day> odluka-2019-1013`).
+Act id: `odluka-2019-1013` (tags `odluka-2019-1013/<day>`; `python registry/tools/on.py <day> odluka-2019-1013`).
 
 ## Decisions made by hand
 

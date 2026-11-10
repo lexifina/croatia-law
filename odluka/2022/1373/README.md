@@ -9,7 +9,7 @@ Odluka o ukidanju Odluke o uzajamnom priznavanju mjere makrobonitetne politike i
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2022-1373` (tags `odluka-2022-1373/<day>`; `python tools/on.py <day> odluka-2022-1373`).
+Act id: `odluka-2022-1373` (tags `odluka-2022-1373/<day>`; `python registry/tools/on.py <day> odluka-2022-1373`).
 
 ## Decisions made by hand
 

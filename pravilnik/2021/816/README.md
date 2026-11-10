@@ -48,7 +48,7 @@ Pravilnik o akreditaciji agencije za plaćanja u poljoprivredi, ribarstvu i rura
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2021-816` (tags `pravilnik-2021-816/<day>`; `python tools/on.py <day> pravilnik-2021-816`).
+Act id: `pravilnik-2021-816` (tags `pravilnik-2021-816/<day>`; `python registry/tools/on.py <day> pravilnik-2021-816`).
 
 ## Status
 

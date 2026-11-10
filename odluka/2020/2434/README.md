@@ -15,7 +15,7 @@ Odluka o porezima Općine Pirovac · 1 versions, from 2021-01-01 (latest in forc
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2020-2434` (tags `odluka-2020-2434/<day>`; `python tools/on.py <day> odluka-2020-2434`).
+Act id: `odluka-2020-2434` (tags `odluka-2020-2434/<day>`; `python registry/tools/on.py <day> odluka-2020-2434`).
 
 ## Decisions made by hand
 

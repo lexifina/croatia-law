@@ -9,7 +9,7 @@ Pravilnik o izmjenama i dopunama Pravilnika o uvjetima i načinu dodjeljivanja s
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2012-1078` (tags `pravilnik-2012-1078/<day>`; `python tools/on.py <day> pravilnik-2012-1078`).
+Act id: `pravilnik-2012-1078` (tags `pravilnik-2012-1078/<day>`; `python registry/tools/on.py <day> pravilnik-2012-1078`).
 
 ## Decisions made by hand
 

@@ -8,7 +8,7 @@ Odluka o potvrđivanju Izmjena i dopuna Statuta Zavoda za vještačenje, profesi
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2015-1197` (tags `odluka-2015-1197/<day>`; `python tools/on.py <day> odluka-2015-1197`).
+Act id: `odluka-2015-1197` (tags `odluka-2015-1197/<day>`; `python registry/tools/on.py <day> odluka-2015-1197`).
 
 ## Decisions made by hand
 

@@ -19,7 +19,7 @@ Odluka o naknadi za razvoj društva Krakom - Vodoopskrba i odvodnja d.o.o., Krap
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2022-1144` (tags `odluka-2022-1144/<day>`; `python tools/on.py <day> odluka-2022-1144`).
+Act id: `odluka-2022-1144` (tags `odluka-2022-1144/<day>`; `python registry/tools/on.py <day> odluka-2022-1144`).
 
 ## Status
 

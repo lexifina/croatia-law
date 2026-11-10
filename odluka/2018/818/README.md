@@ -9,7 +9,7 @@ Odluka izmjenama i dopunama Odluke o utvrđivanju Osnovne liste lijekova Hrvatsk
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2018-818` (tags `odluka-2018-818/<day>`; `python tools/on.py <day> odluka-2018-818`).
+Act id: `odluka-2018-818` (tags `odluka-2018-818/<day>`; `python registry/tools/on.py <day> odluka-2018-818`).
 
 ## Status
 

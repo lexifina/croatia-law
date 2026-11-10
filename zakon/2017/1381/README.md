@@ -59,7 +59,7 @@ Zakon o izmjenama i dopunama Zakona o zaštiti zraka · 1 versions, from 2017-06
 | čl. 53 | [clanak-053.md](clanak-053.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2017-1381` (tags `zakon-2017-1381/<day>`; `python tools/on.py <day> zakon-2017-1381`).
+Act id: `zakon-2017-1381` (tags `zakon-2017-1381/<day>`; `python registry/tools/on.py <day> zakon-2017-1381`).
 
 ## Decisions made by hand
 

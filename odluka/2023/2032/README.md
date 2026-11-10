@@ -21,7 +21,7 @@ Odluka o gradskim porezima Grada Belišća · 1 versions, from 2024-01-01 (lates
 | čl. 15 | [clanak-015.md](clanak-015.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `odluka-2023-2032` (tags `odluka-2023-2032/<day>`; `python tools/on.py <day> odluka-2023-2032`).
+Act id: `odluka-2023-2032` (tags `odluka-2023-2032/<day>`; `python registry/tools/on.py <day> odluka-2023-2032`).
 
 ## Decisions made by hand
 

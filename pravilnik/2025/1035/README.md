@@ -19,7 +19,7 @@ Pravilnik o provedbi Programa potpore male vrijednosti poljoprivrednicima za pro
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2025-1035` (tags `pravilnik-2025-1035/<day>`; `python tools/on.py <day> pravilnik-2025-1035`).
+Act id: `pravilnik-2025-1035` (tags `pravilnik-2025-1035/<day>`; `python registry/tools/on.py <day> pravilnik-2025-1035`).
 
 ## Decisions made by hand
 

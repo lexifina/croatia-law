@@ -67,7 +67,7 @@ Statut Hrvatske turističke zajednice · 1 versions, from 2021-01-21 (latest in 
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `statut-2021-69` (tags `statut-2021-69/<day>`; `python tools/on.py <day> statut-2021-69`).
+Act id: `statut-2021-69` (tags `statut-2021-69/<day>`; `python registry/tools/on.py <day> statut-2021-69`).
 
 ## Decisions made by hand
 

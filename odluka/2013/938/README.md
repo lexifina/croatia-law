@@ -8,7 +8,7 @@ Odluka o sanaciji Opće županijske bolnice Našice · 1 versions, from 2013-05-
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2013-938` (tags `odluka-2013-938/<day>`; `python tools/on.py <day> odluka-2013-938`).
+Act id: `odluka-2013-938` (tags `odluka-2013-938/<day>`; `python registry/tools/on.py <day> odluka-2013-938`).
 
 ## Status
 

@@ -8,7 +8,7 @@ Odluka o obavljanju poslova odnosa s javnošću · 1 versions, from 2012-07-19 (
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2012-1913` (tags `odluka-2012-1913/<day>`; `python tools/on.py <day> odluka-2012-1913`).
+Act id: `odluka-2012-1913` (tags `odluka-2012-1913/<day>`; `python registry/tools/on.py <day> odluka-2012-1913`).
 
 ## Status
 

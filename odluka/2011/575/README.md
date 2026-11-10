@@ -8,7 +8,7 @@ Odluka o izmjeni i dopuni Odluke o iznosu naknade za financiranje rada Hrvatske 
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2011-575` (tags `odluka-2011-575/<day>`; `python tools/on.py <day> odluka-2011-575`).
+Act id: `odluka-2011-575` (tags `odluka-2011-575/<day>`; `python registry/tools/on.py <day> odluka-2011-575`).
 
 ## Decisions made by hand
 

@@ -19,7 +19,7 @@ Odluka o izmjenama i dopunama Odluke o objavljivanju Međunarodnih standarda fin
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2013-1376` (tags `odluka-2013-1376/<day>`; `python tools/on.py <day> odluka-2013-1376`).
+Act id: `odluka-2013-1376` (tags `odluka-2013-1376/<day>`; `python registry/tools/on.py <day> odluka-2013-1376`).
 
 ## Decisions made by hand
 

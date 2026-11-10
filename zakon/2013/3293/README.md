@@ -14,7 +14,7 @@ Zakon o izmjeni i dopunama Zakona o smanjenju mirovina određenih, odnosno ostva
 | čl. 8 | [clanak-008.md](clanak-008.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2013-3293` (tags `zakon-2013-3293/<day>`; `python tools/on.py <day> zakon-2013-3293`).
+Act id: `zakon-2013-3293` (tags `zakon-2013-3293/<day>`; `python registry/tools/on.py <day> zakon-2013-3293`).
 
 ## Decisions made by hand
 

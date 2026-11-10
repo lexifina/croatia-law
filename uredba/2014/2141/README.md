@@ -37,7 +37,7 @@ Uredba o izradi i provedbi dokumenata Strategije upravljanja morskim okolišem i
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2014-2141` (tags `uredba-2014-2141/<day>`; `python tools/on.py <day> uredba-2014-2141`).
+Act id: `uredba-2014-2141` (tags `uredba-2014-2141/<day>`; `python registry/tools/on.py <day> uredba-2014-2141`).
 
 ## Status
 

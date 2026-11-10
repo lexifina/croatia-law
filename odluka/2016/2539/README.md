@@ -8,7 +8,7 @@ Odluka o naknadi za rad u komasacijskom povjerenstvu županije, Grada Zagreba i 
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2016-2539` (tags `odluka-2016-2539/<day>`; `python tools/on.py <day> odluka-2016-2539`).
+Act id: `odluka-2016-2539` (tags `odluka-2016-2539/<day>`; `python registry/tools/on.py <day> odluka-2016-2539`).
 
 ## Decisions made by hand
 

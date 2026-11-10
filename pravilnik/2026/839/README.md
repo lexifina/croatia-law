@@ -9,7 +9,7 @@ Pravilnik o prestanku važenja Pravilnika o ispravama koje se koriste za potrebe
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2026-839` (tags `pravilnik-2026-839/<day>`; `python tools/on.py <day> pravilnik-2026-839`).
+Act id: `pravilnik-2026-839` (tags `pravilnik-2026-839/<day>`; `python registry/tools/on.py <day> pravilnik-2026-839`).
 
 ## Decisions made by hand
 

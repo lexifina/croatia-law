@@ -8,7 +8,7 @@ Odluka o iznosu tarifnih stavki za zajamčenu opskrbu električnom energijom · 
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2023-938` (tags `odluka-2023-938/<day>`; `python tools/on.py <day> odluka-2023-938`).
+Act id: `odluka-2023-938` (tags `odluka-2023-938/<day>`; `python registry/tools/on.py <day> odluka-2023-938`).
 
 ## Status
 

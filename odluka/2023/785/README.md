@@ -9,7 +9,7 @@ Odluka o izmjenama i dopunama Statuta Hrvatskoga Crvenog križa · 1 versions, f
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2023-785` (tags `odluka-2023-785/<day>`; `python tools/on.py <day> odluka-2023-785`).
+Act id: `odluka-2023-785` (tags `odluka-2023-785/<day>`; `python registry/tools/on.py <day> odluka-2023-785`).
 
 ## Status
 

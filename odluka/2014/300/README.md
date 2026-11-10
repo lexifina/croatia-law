@@ -9,7 +9,7 @@ Odluka o dopuni Odluke o osnivanju Lučke uprave Rijeka · 1 versions, from 2014
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2014-300` (tags `odluka-2014-300/<day>`; `python tools/on.py <day> odluka-2014-300`).
+Act id: `odluka-2014-300` (tags `odluka-2014-300/<day>`; `python registry/tools/on.py <day> odluka-2014-300`).
 
 ## Decisions made by hand
 

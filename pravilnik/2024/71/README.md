@@ -23,7 +23,7 @@ Pravilnik o darovanju građevnog materijala · 1 versions, from 2024-01-13 (late
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2024-71` (tags `pravilnik-2024-71/<day>`; `python tools/on.py <day> pravilnik-2024-71`).
+Act id: `pravilnik-2024-71` (tags `pravilnik-2024-71/<day>`; `python registry/tools/on.py <day> pravilnik-2024-71`).
 
 ## Status
 

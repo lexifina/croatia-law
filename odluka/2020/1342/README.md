@@ -8,7 +8,7 @@ Odluka o stavljanju izvan snage Odluke o nužnoj mjeri pojačane kontrole provo�
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2020-1342` (tags `odluka-2020-1342/<day>`; `python tools/on.py <day> odluka-2020-1342`).
+Act id: `odluka-2020-1342` (tags `odluka-2020-1342/<day>`; `python registry/tools/on.py <day> odluka-2020-1342`).
 
 ## Decisions made by hand
 

@@ -27,7 +27,7 @@ Pravilnik o psihosocijalnoj zaštiti, mjerilima i načinu postupanja u pružanju
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2023-1467` (tags `pravilnik-2023-1467/<day>`; `python tools/on.py <day> pravilnik-2023-1467`).
+Act id: `pravilnik-2023-1467` (tags `pravilnik-2023-1467/<day>`; `python registry/tools/on.py <day> pravilnik-2023-1467`).
 
 ## Decisions made by hand
 

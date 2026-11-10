@@ -9,7 +9,7 @@ Odluka o usvajanju Izmjena Programa »ESIF mikro i mali zajmovi« i »ESIF jamst
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2020-718` (tags `odluka-2020-718/<day>`; `python tools/on.py <day> odluka-2020-718`).
+Act id: `odluka-2020-718` (tags `odluka-2020-718/<day>`; `python registry/tools/on.py <day> odluka-2020-718`).
 
 ## Decisions made by hand
 

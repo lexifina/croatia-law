@@ -10,7 +10,7 @@ Pravilnik o izmjenama i dopunama Pravilnika o strukturi, sadržaju, načinu i ro
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2022-615` (tags `pravilnik-2022-615/<day>`; `python tools/on.py <day> pravilnik-2022-615`).
+Act id: `pravilnik-2022-615` (tags `pravilnik-2022-615/<day>`; `python registry/tools/on.py <day> pravilnik-2022-615`).
 
 ## Decisions made by hand
 

@@ -10,7 +10,7 @@ Odluka o izmjenama i dopuni Odluke o utvrđivanju Osnovne liste lijekova Hrvatsk
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2014-2064` (tags `odluka-2014-2064/<day>`; `python tools/on.py <day> odluka-2014-2064`).
+Act id: `odluka-2014-2064` (tags `odluka-2014-2064/<day>`; `python registry/tools/on.py <day> odluka-2014-2064`).
 
 ## Decisions made by hand
 

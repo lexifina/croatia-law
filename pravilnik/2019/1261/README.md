@@ -14,7 +14,7 @@ Pravilnik o naknadama za dežurstva sudaca, državnih odvjetnika i zamjenika dr�
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2019-1261` (tags `pravilnik-2019-1261/<day>`; `python tools/on.py <day> pravilnik-2019-1261`).
+Act id: `pravilnik-2019-1261` (tags `pravilnik-2019-1261/<day>`; `python registry/tools/on.py <day> pravilnik-2019-1261`).
 
 ## Status
 

@@ -23,7 +23,7 @@ Zakon o izmjenama i dopunama Zakona o tržištu plina · 1 versions, from 2014-0
 | čl. 17 | [clanak-017.md](clanak-017.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2014-299` (tags `zakon-2014-299/<day>`; `python tools/on.py <day> zakon-2014-299`).
+Act id: `zakon-2014-299` (tags `zakon-2014-299/<day>`; `python registry/tools/on.py <day> zakon-2014-299`).
 
 ## Decisions made by hand
 

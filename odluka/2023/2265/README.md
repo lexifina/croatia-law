@@ -5,7 +5,7 @@ Odluka o lokalnim porezima Općine Darda · 2 versions, from 2024-01-01 (latest 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `odluka-2023-2265` (tags `odluka-2023-2265/<day>`; `python tools/on.py <day> odluka-2023-2265`).
+Act id: `odluka-2023-2265` (tags `odluka-2023-2265/<day>`; `python registry/tools/on.py <day> odluka-2023-2265`).
 
 ## Decisions made by hand
 

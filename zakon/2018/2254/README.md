@@ -12,7 +12,7 @@ Zakon o izmjenama i dopuni Zakona o provedbi Uredbe (EZ) br. 1272/2008 Europskog
 | čl. 6 | [clanak-006.md](clanak-006.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2018-2254` (tags `zakon-2018-2254/<day>`; `python tools/on.py <day> zakon-2018-2254`).
+Act id: `zakon-2018-2254` (tags `zakon-2018-2254/<day>`; `python registry/tools/on.py <day> zakon-2018-2254`).
 
 ## Decisions made by hand
 

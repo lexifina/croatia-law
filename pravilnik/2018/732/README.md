@@ -14,7 +14,7 @@ Pravilnik o stjecanju statusa specijalista iz uže specijalizacije · 1 versions
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2018-732` (tags `pravilnik-2018-732/<day>`; `python tools/on.py <day> pravilnik-2018-732`).
+Act id: `pravilnik-2018-732` (tags `pravilnik-2018-732/<day>`; `python registry/tools/on.py <day> pravilnik-2018-732`).
 
 ## Decisions made by hand
 

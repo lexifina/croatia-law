@@ -9,7 +9,7 @@ Odluka o davanju suglasnosti na Izmjene i dopune financijskog plana Fonda za za≈
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2020-2395` (tags `odluka-2020-2395/<day>`; `python tools/on.py <day> odluka-2020-2395`).
+Act id: `odluka-2020-2395` (tags `odluka-2020-2395/<day>`; `python registry/tools/on.py <day> odluka-2020-2395`).
 
 ## Decisions made by hand
 

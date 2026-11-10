@@ -8,7 +8,7 @@ Odluka o sudjelovanju Republike Hrvatske u 20. nadopuni sredstava Međunarodnog 
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2022-1437` (tags `odluka-2022-1437/<day>`; `python tools/on.py <day> odluka-2022-1437`).
+Act id: `odluka-2022-1437` (tags `odluka-2022-1437/<day>`; `python registry/tools/on.py <day> odluka-2022-1437`).
 
 ## Decisions made by hand
 

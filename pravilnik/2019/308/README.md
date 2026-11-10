@@ -9,7 +9,7 @@ Pravilnik o izmjenama i dopunama Pravilnika o ortopedskim i drugim pomagalima ·
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2019-308` (tags `pravilnik-2019-308/<day>`; `python tools/on.py <day> pravilnik-2019-308`).
+Act id: `pravilnik-2019-308` (tags `pravilnik-2019-308/<day>`; `python registry/tools/on.py <day> pravilnik-2019-308`).
 
 ## Decisions made by hand
 

@@ -13,7 +13,7 @@ Pravilnik o mjeriteljskim i tehničkim zahtjevima za infracrvene termometre za m
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2011-105` (tags `pravilnik-2011-105/<day>`; `python tools/on.py <day> pravilnik-2011-105`).
+Act id: `pravilnik-2011-105` (tags `pravilnik-2011-105/<day>`; `python registry/tools/on.py <day> pravilnik-2011-105`).
 
 ## Status
 

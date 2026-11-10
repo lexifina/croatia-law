@@ -17,7 +17,7 @@ Uredba o Popisu robe vojne namjene, obrambenih proizvoda i nevojnih ubojnih sred
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2023-1016` (tags `uredba-2023-1016/<day>`; `python tools/on.py <day> uredba-2023-1016`).
+Act id: `uredba-2023-1016` (tags `uredba-2023-1016/<day>`; `python registry/tools/on.py <day> uredba-2023-1016`).
 
 ## Status
 

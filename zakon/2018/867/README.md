@@ -119,7 +119,7 @@ Zakon o izmjenama i dopunama Zakona o vodama · 1 versions, from 2018-05-26 (lat
 | čl. 113 | [clanak-113.md](clanak-113.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2018-867` (tags `zakon-2018-867/<day>`; `python tools/on.py <day> zakon-2018-867`).
+Act id: `zakon-2018-867` (tags `zakon-2018-867/<day>`; `python registry/tools/on.py <day> zakon-2018-867`).
 
 ## Decisions made by hand
 

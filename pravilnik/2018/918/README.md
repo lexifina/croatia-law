@@ -66,7 +66,7 @@ Pravilnik o provedbi mjere 7 »Temeljne usluge i obnova sela u ruralnim područj
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2018-918` (tags `pravilnik-2018-918/<day>`; `python tools/on.py <day> pravilnik-2018-918`).
+Act id: `pravilnik-2018-918` (tags `pravilnik-2018-918/<day>`; `python registry/tools/on.py <day> pravilnik-2018-918`).
 
 ## Status
 

@@ -9,7 +9,7 @@ Pravilnik o izmjeni Pravilnika o troškovima i naknadama koje naplaćuje društv
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2025-1958` (tags `pravilnik-2025-1958/<day>`; `python tools/on.py <day> pravilnik-2025-1958`).
+Act id: `pravilnik-2025-1958` (tags `pravilnik-2025-1958/<day>`; `python registry/tools/on.py <day> pravilnik-2025-1958`).
 
 ## Decisions made by hand
 

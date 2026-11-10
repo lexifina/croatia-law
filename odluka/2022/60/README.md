@@ -8,7 +8,7 @@ Odluka o izmjeni Odluke o stopi doprinosa i iznosu članarine Hrvatskoj revizors
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2022-60` (tags `odluka-2022-60/<day>`; `python tools/on.py <day> odluka-2022-60`).
+Act id: `odluka-2022-60` (tags `odluka-2022-60/<day>`; `python registry/tools/on.py <day> odluka-2022-60`).
 
 ## Decisions made by hand
 

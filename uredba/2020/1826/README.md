@@ -78,7 +78,7 @@ Uredba o unutarnjem ustrojstvu Ministarstva hrvatskih branitelja · 1 versions, 
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2020-1826` (tags `uredba-2020-1826/<day>`; `python tools/on.py <day> uredba-2020-1826`).
+Act id: `uredba-2020-1826` (tags `uredba-2020-1826/<day>`; `python registry/tools/on.py <day> uredba-2020-1826`).
 
 ## Status
 

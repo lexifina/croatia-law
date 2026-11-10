@@ -62,7 +62,7 @@ Pravilnik o metodologiji za izradu procjena ugroženosti i planova zaštite i sp
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2014-534` (tags `pravilnik-2014-534/<day>`; `python tools/on.py <day> pravilnik-2014-534`).
+Act id: `pravilnik-2014-534` (tags `pravilnik-2014-534/<day>`; `python registry/tools/on.py <day> pravilnik-2014-534`).
 
 ## Status
 

@@ -15,7 +15,7 @@ Uredba o najvišem iznosu naknade za priključenje građevina i drugih nekretnin
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2011-2147` (tags `uredba-2011-2147/<day>`; `python tools/on.py <day> uredba-2011-2147`).
+Act id: `uredba-2011-2147` (tags `uredba-2011-2147/<day>`; `python registry/tools/on.py <day> uredba-2011-2147`).
 
 ## Decisions made by hand
 

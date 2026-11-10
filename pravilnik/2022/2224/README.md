@@ -13,7 +13,7 @@ Pravilnik o izmjenama i dopunama Pravilnika o postupku naknade štete članovima
 | čl. 7 | [clanak-007.md](clanak-007.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `pravilnik-2022-2224` (tags `pravilnik-2022-2224/<day>`; `python tools/on.py <day> pravilnik-2022-2224`).
+Act id: `pravilnik-2022-2224` (tags `pravilnik-2022-2224/<day>`; `python registry/tools/on.py <day> pravilnik-2022-2224`).
 
 ## Decisions made by hand
 

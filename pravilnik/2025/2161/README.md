@@ -13,7 +13,7 @@ Pravilnik o izmjenama i dopuni Pravilnika o sadržaju i strukturi izvještaja iz
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2025-2161` (tags `pravilnik-2025-2161/<day>`; `python tools/on.py <day> pravilnik-2025-2161`).
+Act id: `pravilnik-2025-2161` (tags `pravilnik-2025-2161/<day>`; `python registry/tools/on.py <day> pravilnik-2025-2161`).
 
 ## Decisions made by hand
 

@@ -9,7 +9,7 @@ Odluka o donošenju dopuna Nastavnog plana i okvirnog programa za područje ZDRA
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2025-35` (tags `odluka-2025-35/<day>`; `python tools/on.py <day> odluka-2025-35`).
+Act id: `odluka-2025-35` (tags `odluka-2025-35/<day>`; `python registry/tools/on.py <day> odluka-2025-35`).
 
 ## Decisions made by hand
 

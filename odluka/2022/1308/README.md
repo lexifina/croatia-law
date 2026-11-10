@@ -8,7 +8,7 @@ Odluka o izmjeni Odluke o dodjeli beskamatnog zajma jedinicama lokalne i područ
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2022-1308` (tags `odluka-2022-1308/<day>`; `python tools/on.py <day> odluka-2022-1308`).
+Act id: `odluka-2022-1308` (tags `odluka-2022-1308/<day>`; `python registry/tools/on.py <day> odluka-2022-1308`).
 
 ## Decisions made by hand
 

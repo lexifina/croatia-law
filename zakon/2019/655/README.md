@@ -10,7 +10,7 @@ Zakon o izmjenama Zakona o informiranju potrošača o hrani · 1 versions, from 
 | čl. 4 | [clanak-004.md](clanak-004.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2019-655` (tags `zakon-2019-655/<day>`; `python tools/on.py <day> zakon-2019-655`).
+Act id: `zakon-2019-655` (tags `zakon-2019-655/<day>`; `python registry/tools/on.py <day> zakon-2019-655`).
 
 ## Decisions made by hand
 

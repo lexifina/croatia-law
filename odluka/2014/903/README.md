@@ -8,7 +8,7 @@ Odluka o postavljanju mr. sc. Zvonimira Frke Petešića za izvanrednog i opunomo
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2014-903` (tags `odluka-2014-903/<day>`; `python tools/on.py <day> odluka-2014-903`).
+Act id: `odluka-2014-903` (tags `odluka-2014-903/<day>`; `python registry/tools/on.py <day> odluka-2014-903`).
 
 ## Decisions made by hand
 

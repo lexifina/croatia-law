@@ -24,7 +24,7 @@ Pravilnik o izmjenama i dopunama Pravilnika o provedbi mjere 301 "Poboljšanje i
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2013-2287` (tags `pravilnik-2013-2287/<day>`; `python tools/on.py <day> pravilnik-2013-2287`).
+Act id: `pravilnik-2013-2287` (tags `pravilnik-2013-2287/<day>`; `python registry/tools/on.py <day> pravilnik-2013-2287`).
 
 ## Decisions made by hand
 

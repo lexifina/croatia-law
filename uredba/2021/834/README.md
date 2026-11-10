@@ -16,7 +16,7 @@ Uredba o postupku sklapanja ugovora o javnim uslugama · 1 versions, from 2021-0
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2021-834` (tags `uredba-2021-834/<day>`; `python tools/on.py <day> uredba-2021-834`).
+Act id: `uredba-2021-834` (tags `uredba-2021-834/<day>`; `python registry/tools/on.py <day> uredba-2021-834`).
 
 ## Status
 

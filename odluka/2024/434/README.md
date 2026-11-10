@@ -8,7 +8,7 @@ Odluka o nastavku potpore projektima od strateškog značaja za Hrvate izvan Rep
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2024-434` (tags `odluka-2024-434/<day>`; `python tools/on.py <day> odluka-2024-434`).
+Act id: `odluka-2024-434` (tags `odluka-2024-434/<day>`; `python registry/tools/on.py <day> odluka-2024-434`).
 
 ## Status
 

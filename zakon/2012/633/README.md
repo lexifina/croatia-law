@@ -16,7 +16,7 @@ Zakon o izmjenama i dopunama Zakona o posebnoj mjeri naplate poreznog duga uzrok
 | čl. 10 | [clanak-010.md](clanak-010.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2012-633` (tags `zakon-2012-633/<day>`; `python tools/on.py <day> zakon-2012-633`).
+Act id: `zakon-2012-633` (tags `zakon-2012-633/<day>`; `python registry/tools/on.py <day> zakon-2012-633`).
 
 ## Decisions made by hand
 

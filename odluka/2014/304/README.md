@@ -29,7 +29,7 @@ Odluka o procjeni primjerenosti predsjednika uprave, člana uprave i člana nadz
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2014-304` (tags `odluka-2014-304/<day>`; `python tools/on.py <day> odluka-2014-304`).
+Act id: `odluka-2014-304` (tags `odluka-2014-304/<day>`; `python registry/tools/on.py <day> odluka-2014-304`).
 
 ## Status
 

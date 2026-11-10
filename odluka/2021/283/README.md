@@ -8,7 +8,7 @@ Odluka o izmjenama Odluke o osnivanju Povjerenstva Vlade Republike Hrvatske za o
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2021-283` (tags `odluka-2021-283/<day>`; `python tools/on.py <day> odluka-2021-283`).
+Act id: `odluka-2021-283` (tags `odluka-2021-283/<day>`; `python registry/tools/on.py <day> odluka-2021-283`).
 
 ## Decisions made by hand
 

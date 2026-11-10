@@ -16,7 +16,7 @@ Pravilnik o dostavi prijedloga državnih potpora i podataka o državnim potporam
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2013-2237` (tags `pravilnik-2013-2237/<day>`; `python tools/on.py <day> pravilnik-2013-2237`).
+Act id: `pravilnik-2013-2237` (tags `pravilnik-2013-2237/<day>`; `python registry/tools/on.py <day> pravilnik-2013-2237`).
 
 ## Status
 

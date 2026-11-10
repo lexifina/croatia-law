@@ -18,7 +18,7 @@ Odluka o regulatornom kapitalu institucija za platni promet · 1 versions, from 
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2019-2548` (tags `odluka-2019-2548/<day>`; `python tools/on.py <day> odluka-2019-2548`).
+Act id: `odluka-2019-2548` (tags `odluka-2019-2548/<day>`; `python registry/tools/on.py <day> odluka-2019-2548`).
 
 ## Status
 

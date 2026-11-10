@@ -5,7 +5,7 @@ Uredba o unutarnjem ustrojstvu Ministarstva prostornoga uređenja, graditeljstva
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `uredba-2023-472` (tags `uredba-2023-472/<day>`; `python tools/on.py <day> uredba-2023-472`).
+Act id: `uredba-2023-472` (tags `uredba-2023-472/<day>`; `python registry/tools/on.py <day> uredba-2023-472`).
 
 ## Decisions made by hand
 

@@ -10,7 +10,7 @@ Odluka o prestanku važenja Odluke o prirezu porezu na dohodak Općine Đurmanec
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2017-393` (tags `odluka-2017-393/<day>`; `python tools/on.py <day> odluka-2017-393`).
+Act id: `odluka-2017-393` (tags `odluka-2017-393/<day>`; `python registry/tools/on.py <day> odluka-2017-393`).
 
 ## Decisions made by hand
 

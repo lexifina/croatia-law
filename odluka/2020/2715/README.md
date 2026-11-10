@@ -5,7 +5,7 @@ Odluka o gradskim porezima Grada Kutine · 2 versions, from 2021-01-01 (latest i
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `odluka-2020-2715` (tags `odluka-2020-2715/<day>`; `python tools/on.py <day> odluka-2020-2715`).
+Act id: `odluka-2020-2715` (tags `odluka-2020-2715/<day>`; `python registry/tools/on.py <day> odluka-2020-2715`).
 
 ## Decisions made by hand
 

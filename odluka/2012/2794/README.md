@@ -8,7 +8,7 @@ Odluka o dodjeli Državne nagrade za volontiranje u 2012. godini · 1 versions, 
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2012-2794` (tags `odluka-2012-2794/<day>`; `python tools/on.py <day> odluka-2012-2794`).
+Act id: `odluka-2012-2794` (tags `odluka-2012-2794/<day>`; `python registry/tools/on.py <day> odluka-2012-2794`).
 
 ## Decisions made by hand
 

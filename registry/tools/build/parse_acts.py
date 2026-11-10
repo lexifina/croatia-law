@@ -487,9 +487,11 @@ def main():
                                r"potpredsjedni\w*|predsjedni\w*|član\w*|suca|sudaca|sutkinj\w*|zamjeni\w*|ravnatelj\w*)\b|"
                                r"\bo\s+izboru\s+(?:\w+\s+){0,2}(?:suca|sudaca|članova|člana)\b", re.I)
     excluded = set()
+    excluded_rows = []
     if a.exclude and Path(a.exclude).exists():
         for z in json.loads(Path(a.exclude).read_text(encoding="utf-8")):
             excluded.add(z["url"].rstrip("/"))
+            excluded_rows.append(z)
     # The cache holds page readings only: it stays valid while the code above main() (the page reading) is unchanged.
     source = Path(__file__).read_text(encoding="utf-8")
     code = hashlib.sha256(source[:source.index("\ndef main(")].encode("utf-8")).hexdigest()
@@ -913,7 +915,7 @@ def main():
                 if year_read(r["year"]):
                     li = listed_incoming(h)
                     ev = evidence(h, r, kind, title, counts, None, li)
-                    excluded_ev.append({"url": eli_of(r), "slug": slug, "title": title,
+                    excluded_ev.append({"url": eli_of(r), "slug": slug, "title": title, "complete": True,
                                         **(marks_of(ev) if ev else {"label": None})})
                 continue
             try:
@@ -1239,6 +1241,29 @@ def main():
         tmp.write_bytes(gzip.compress(json.dumps(cache, ensure_ascii=False).encode("utf-8"), 3))
         tmp.replace(a.cache)
     if a.excluded_report:
+        # Laws of the other layer from years the read has not reached (not in the index yet): the changes known so far,
+        # from the documents read (their ELI links to the law, and titles naming it). Incomplete ("complete": false),
+        # but a change found is a change.
+        seen_ex = {x["url"].rstrip("/") for x in excluded_ev}
+        todo = {eli_url(z["url"]): z for z in excluded_rows if eli_url(z["url"]) not in seen_ex}
+        found: dict[str, list] = defaultdict(list)
+        for h, f in facts.items():
+            for prop, target in f["links"]:
+                z = todo.get(eli_url(target))
+                if z and prop in HOW and index[h]["date"] >= z.get("published", ""):
+                    found[eli_url(target)].append((HOW[prop], h, eli_of(index[h])))
+        for u, z in todo.items():
+            k, s = subj(z["title"])
+            if k:
+                for d, x in titles_named.get((k, s), []):
+                    if d >= z.get("published", ""):
+                        found[u].append((title_how(x), x, eli_of(index[x])))
+            ev = [e for e in found.get(u, []) if not (k == "zakon" and KINDS.get(index[e[1]].get("kind", "")) not in
+                                                         (None, "zakon") and not re.search(r"Ustavnog\s+suda", index[e[1]]["title"]))]
+            ev = [("amend" if how == "repeal" and re.search(r"Ustavnog\s+suda", index[src]["title"]) else how, src, url)
+                  for how, src, url in ev]
+            excluded_ev.append({"url": u, "slug": z.get("slug"), "title": z["title"], "complete": False,
+                                **(marks_of(ev) if ev else {"label": None})})
         Path(a.excluded_report).write_text(json.dumps(sorted(excluded_ev, key=lambda x: x["slug"]), ensure_ascii=False,
                                                       indent=0) + "\n", encoding="utf-8", newline="\n")
     if a.report:

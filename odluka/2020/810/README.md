@@ -8,7 +8,7 @@ Odluka o uvođenju izvanrednog međugradskog prometa · 1 versions, from 2020-03
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2020-810` (tags `odluka-2020-810/<day>`; `python tools/on.py <day> odluka-2020-810`).
+Act id: `odluka-2020-810` (tags `odluka-2020-810/<day>`; `python registry/tools/on.py <day> odluka-2020-810`).
 
 ## Decisions made by hand
 

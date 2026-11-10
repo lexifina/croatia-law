@@ -8,7 +8,7 @@ Zakon o izmjeni Zakona o zaštiti i očuvanju kulturnih dobara · 1 versions, fr
 | čl. 2 | [clanak-002.md](clanak-002.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2025-2252` (tags `zakon-2025-2252/<day>`; `python tools/on.py <day> zakon-2025-2252`).
+Act id: `zakon-2025-2252` (tags `zakon-2025-2252/<day>`; `python registry/tools/on.py <day> zakon-2025-2252`).
 
 ## Decisions made by hand
 

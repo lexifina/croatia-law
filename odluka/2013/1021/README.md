@@ -8,7 +8,7 @@ Odluka o osnivanju Nacionalnog odbora za borbu protiv nasilja u sportu · 1 vers
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2013-1021` (tags `odluka-2013-1021/<day>`; `python tools/on.py <day> odluka-2013-1021`).
+Act id: `odluka-2013-1021` (tags `odluka-2013-1021/<day>`; `python registry/tools/on.py <day> odluka-2013-1021`).
 
 ## Status
 

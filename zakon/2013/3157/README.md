@@ -53,7 +53,7 @@ Zakon o izmjenama i dopunama Zakona o zaštiti vojnih i civilnih invalida rata �
 | čl. 47 | [clanak-047.md](clanak-047.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2013-3157` (tags `zakon-2013-3157/<day>`; `python tools/on.py <day> zakon-2013-3157`).
+Act id: `zakon-2013-3157` (tags `zakon-2013-3157/<day>`; `python registry/tools/on.py <day> zakon-2013-3157`).
 
 ## Decisions made by hand
 

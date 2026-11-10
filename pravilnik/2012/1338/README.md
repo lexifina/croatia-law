@@ -11,7 +11,7 @@ Pravilnik o izmjeni Pravilnika o povlastici za obavljanje gospodarskog ribolova 
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2012-1338` (tags `pravilnik-2012-1338/<day>`; `python tools/on.py <day> pravilnik-2012-1338`).
+Act id: `pravilnik-2012-1338` (tags `pravilnik-2012-1338/<day>`; `python registry/tools/on.py <day> pravilnik-2012-1338`).
 
 ## Decisions made by hand
 

@@ -10,7 +10,7 @@ Pravilnik o izmjeni i dopuni Pravilnika o malom obalnom ribolovu · 1 versions, 
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2015-411` (tags `pravilnik-2015-411/<day>`; `python tools/on.py <day> pravilnik-2015-411`).
+Act id: `pravilnik-2015-411` (tags `pravilnik-2015-411/<day>`; `python registry/tools/on.py <day> pravilnik-2015-411`).
 
 ## Decisions made by hand
 

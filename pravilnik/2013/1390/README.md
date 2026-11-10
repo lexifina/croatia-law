@@ -19,7 +19,7 @@ Pravilnik o načinu rada Državnog registra o medicinski pomognutoj oplodnji i d
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2013-1390` (tags `pravilnik-2013-1390/<day>`; `python tools/on.py <day> pravilnik-2013-1390`).
+Act id: `pravilnik-2013-1390` (tags `pravilnik-2013-1390/<day>`; `python registry/tools/on.py <day> pravilnik-2013-1390`).
 
 ## Decisions made by hand
 

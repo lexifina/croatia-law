@@ -11,7 +11,7 @@ Uredba o izmjenama Zakona o odgoju i obrazovanju u osnovnoj i srednjoj školi ·
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2012-76` (tags `uredba-2012-76/<day>`; `python tools/on.py <day> uredba-2012-76`).
+Act id: `uredba-2012-76` (tags `uredba-2012-76/<day>`; `python registry/tools/on.py <day> uredba-2012-76`).
 
 ## Decisions made by hand
 

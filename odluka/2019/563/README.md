@@ -9,7 +9,7 @@ Odluka o aktualnoj vrijednosti mirovine od 1. siječnja 2019. · 1 versions, fro
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2019-563` (tags `odluka-2019-563/<day>`; `python tools/on.py <day> odluka-2019-563`).
+Act id: `odluka-2019-563` (tags `odluka-2019-563/<day>`; `python registry/tools/on.py <day> odluka-2019-563`).
 
 ## Decisions made by hand
 

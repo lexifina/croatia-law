@@ -8,7 +8,7 @@ Odluka o katastarskoj izmjeri na području Općine Bibinje za dio katastarske op
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2017-2712` (tags `odluka-2017-2712/<day>`; `python tools/on.py <day> odluka-2017-2712`).
+Act id: `odluka-2017-2712` (tags `odluka-2017-2712/<day>`; `python registry/tools/on.py <day> odluka-2017-2712`).
 
 ## Decisions made by hand
 

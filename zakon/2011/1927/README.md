@@ -28,7 +28,7 @@ Zakon o izmjenama i dopunama Zakona o odgoju i obrazovanju u osnovnoj i srednjoj
 | čl. 22 | [clanak-022.md](clanak-022.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2011-1927` (tags `zakon-2011-1927/<day>`; `python tools/on.py <day> zakon-2011-1927`).
+Act id: `zakon-2011-1927` (tags `zakon-2011-1927/<day>`; `python registry/tools/on.py <day> zakon-2011-1927`).
 
 ## Decisions made by hand
 

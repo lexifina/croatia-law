@@ -12,7 +12,7 @@ Pravilnik o izmjenama i dopuni Pravilnika o uvjetima i načinu rada ovlaštenih 
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2026-296` (tags `pravilnik-2026-296/<day>`; `python tools/on.py <day> pravilnik-2026-296`).
+Act id: `pravilnik-2026-296` (tags `pravilnik-2026-296/<day>`; `python registry/tools/on.py <day> pravilnik-2026-296`).
 
 ## Decisions made by hand
 

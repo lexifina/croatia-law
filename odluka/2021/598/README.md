@@ -10,7 +10,7 @@ Odluka o izmjeni i dopuni Odluke o lokalnim porezima Grada Labina · 1 versions,
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2021-598` (tags `odluka-2021-598/<day>`; `python tools/on.py <day> odluka-2021-598`).
+Act id: `odluka-2021-598` (tags `odluka-2021-598/<day>`; `python registry/tools/on.py <day> odluka-2021-598`).
 
 ## Decisions made by hand
 

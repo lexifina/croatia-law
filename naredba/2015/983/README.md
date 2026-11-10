@@ -19,7 +19,7 @@ Naredba o visini naknade za pregled i baždarenje čamaca koje provode lučke ka
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `naredba-2015-983` (tags `naredba-2015-983/<day>`; `python tools/on.py <day> naredba-2015-983`).
+Act id: `naredba-2015-983` (tags `naredba-2015-983/<day>`; `python registry/tools/on.py <day> naredba-2015-983`).
 
 ## Status
 

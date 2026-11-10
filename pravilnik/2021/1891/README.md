@@ -32,7 +32,7 @@ Pravilnik o izmjenama i dopunama Pravilnika o uvjetima nuklearne sigurnosti za d
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2021-1891` (tags `pravilnik-2021-1891/<day>`; `python tools/on.py <day> pravilnik-2021-1891`).
+Act id: `pravilnik-2021-1891` (tags `pravilnik-2021-1891/<day>`; `python registry/tools/on.py <day> pravilnik-2021-1891`).
 
 ## Decisions made by hand
 

@@ -13,7 +13,7 @@ Pravilnik o izmjenama i dopunama Pravilnika o proračunskom računovodstvu i Ra�
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2015-2198` (tags `pravilnik-2015-2198/<day>`; `python tools/on.py <day> pravilnik-2015-2198`).
+Act id: `pravilnik-2015-2198` (tags `pravilnik-2015-2198/<day>`; `python registry/tools/on.py <day> pravilnik-2015-2198`).
 
 ## Decisions made by hand
 

@@ -125,7 +125,7 @@ Zakon o izmjenama i dopunama Zakona o prostornom uređenju i gradnji · 1 versio
 | čl. 119 | [clanak-119.md](clanak-119.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2011-1923` (tags `zakon-2011-1923/<day>`; `python tools/on.py <day> zakon-2011-1923`).
+Act id: `zakon-2011-1923` (tags `zakon-2011-1923/<day>`; `python registry/tools/on.py <day> zakon-2011-1923`).
 
 ## Decisions made by hand
 

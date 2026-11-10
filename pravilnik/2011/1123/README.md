@@ -10,7 +10,7 @@ Pravilnik o izmjenama i dopunama Pravilnika o postupku stručnog nadzora i nadzo
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2011-1123` (tags `pravilnik-2011-1123/<day>`; `python tools/on.py <day> pravilnik-2011-1123`).
+Act id: `pravilnik-2011-1123` (tags `pravilnik-2011-1123/<day>`; `python registry/tools/on.py <day> pravilnik-2011-1123`).
 
 ## Decisions made by hand
 

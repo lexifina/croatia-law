@@ -11,7 +11,7 @@ Pravilnik o izmjenama i dopunama Pravilnika o načinu izračuna pokazatelja likv
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2012-1022` (tags `pravilnik-2012-1022/<day>`; `python tools/on.py <day> pravilnik-2012-1022`).
+Act id: `pravilnik-2012-1022` (tags `pravilnik-2012-1022/<day>`; `python registry/tools/on.py <day> pravilnik-2012-1022`).
 
 ## Decisions made by hand
 

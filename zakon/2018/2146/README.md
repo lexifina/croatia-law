@@ -10,7 +10,7 @@ Zakon o izmjenama Zakona o drvenastim kulturama kratkih ophodnji · 1 versions, 
 | čl. 4 | [clanak-004.md](clanak-004.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2018-2146` (tags `zakon-2018-2146/<day>`; `python tools/on.py <day> zakon-2018-2146`).
+Act id: `zakon-2018-2146` (tags `zakon-2018-2146/<day>`; `python registry/tools/on.py <day> zakon-2018-2146`).
 
 ## Decisions made by hand
 

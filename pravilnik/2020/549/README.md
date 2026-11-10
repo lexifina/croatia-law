@@ -14,7 +14,7 @@ Pravilnik o izmjenama Pravilnika o pomoćnicima u nastavi i stručnim komunikaci
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2020-549` (tags `pravilnik-2020-549/<day>`; `python tools/on.py <day> pravilnik-2020-549`).
+Act id: `pravilnik-2020-549` (tags `pravilnik-2020-549/<day>`; `python registry/tools/on.py <day> pravilnik-2020-549`).
 
 ## Decisions made by hand
 

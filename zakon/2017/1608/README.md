@@ -24,7 +24,7 @@ Zakon o izmjenama i dopunama Zakona o izvlaštenju i određivanju naknade · 1 v
 | čl. 18 | [clanak-018.md](clanak-018.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2017-1608` (tags `zakon-2017-1608/<day>`; `python tools/on.py <day> zakon-2017-1608`).
+Act id: `zakon-2017-1608` (tags `zakon-2017-1608/<day>`; `python registry/tools/on.py <day> zakon-2017-1608`).
 
 ## Decisions made by hand
 

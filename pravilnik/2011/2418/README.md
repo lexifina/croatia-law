@@ -18,7 +18,7 @@ Pravilnik o načinu prikupljanja medicinske dokumentacije o promjeni spola · 1 
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2011-2418` (tags `pravilnik-2011-2418/<day>`; `python tools/on.py <day> pravilnik-2011-2418`).
+Act id: `pravilnik-2011-2418` (tags `pravilnik-2011-2418/<day>`; `python registry/tools/on.py <day> pravilnik-2011-2418`).
 
 ## Status
 

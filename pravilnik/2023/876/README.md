@@ -9,7 +9,7 @@ Pravilnik o dopuni Pravilnika o Gospodarskom programu korištenja poljoprivredno
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2023-876` (tags `pravilnik-2023-876/<day>`; `python tools/on.py <day> pravilnik-2023-876`).
+Act id: `pravilnik-2023-876` (tags `pravilnik-2023-876/<day>`; `python registry/tools/on.py <day> pravilnik-2023-876`).
 
 ## Decisions made by hand
 

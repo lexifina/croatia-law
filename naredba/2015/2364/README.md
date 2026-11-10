@@ -8,7 +8,7 @@ Naredba o izmjeni i dopuni Naredbe o razvrstaju luka otvorenih za javni promet n
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `naredba-2015-2364` (tags `naredba-2015-2364/<day>`; `python tools/on.py <day> naredba-2015-2364`).
+Act id: `naredba-2015-2364` (tags `naredba-2015-2364/<day>`; `python registry/tools/on.py <day> naredba-2015-2364`).
 
 ## Decisions made by hand
 

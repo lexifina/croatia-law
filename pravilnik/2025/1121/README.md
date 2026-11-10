@@ -13,7 +13,7 @@ Pravilnik o izmjeni i dopunama Pravilnika o Središnjoj lovnoj evidenciji · 1 v
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2025-1121` (tags `pravilnik-2025-1121/<day>`; `python tools/on.py <day> pravilnik-2025-1121`).
+Act id: `pravilnik-2025-1121` (tags `pravilnik-2025-1121/<day>`; `python registry/tools/on.py <day> pravilnik-2025-1121`).
 
 ## Decisions made by hand
 

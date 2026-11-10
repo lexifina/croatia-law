@@ -14,7 +14,7 @@ Pravilnik o uvjetima priznavanja uzgojnih organizacija koje vode ili uspostavlja
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2012-1724` (tags `pravilnik-2012-1724/<day>`; `python tools/on.py <day> pravilnik-2012-1724`).
+Act id: `pravilnik-2012-1724` (tags `pravilnik-2012-1724/<day>`; `python registry/tools/on.py <day> pravilnik-2012-1724`).
 
 ## Status
 

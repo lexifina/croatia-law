@@ -13,7 +13,7 @@ Naputak o isplati sredstava beskamatnog zajma jedinicama lokalne i područne (re
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `naputak-2020-2467` (tags `naputak-2020-2467/<day>`; `python tools/on.py <day> naputak-2020-2467`).
+Act id: `naputak-2020-2467` (tags `naputak-2020-2467/<day>`; `python registry/tools/on.py <day> naputak-2020-2467`).
 
 ## Status
 

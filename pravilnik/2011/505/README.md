@@ -18,7 +18,7 @@ Pravilnik o postupku homologacije traktora za poljoprivredu i šumarstvo s obzir
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2011-505` (tags `pravilnik-2011-505/<day>`; `python tools/on.py <day> pravilnik-2011-505`).
+Act id: `pravilnik-2011-505` (tags `pravilnik-2011-505/<day>`; `python registry/tools/on.py <day> pravilnik-2011-505`).
 
 ## Decisions made by hand
 

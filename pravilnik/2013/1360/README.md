@@ -9,7 +9,7 @@ Pravilnik o izmjenama i dopuni Pravilnika o jednostavnim građevinama i radovima
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2013-1360` (tags `pravilnik-2013-1360/<day>`; `python tools/on.py <day> pravilnik-2013-1360`).
+Act id: `pravilnik-2013-1360` (tags `pravilnik-2013-1360/<day>`; `python registry/tools/on.py <day> pravilnik-2013-1360`).
 
 ## Decisions made by hand
 

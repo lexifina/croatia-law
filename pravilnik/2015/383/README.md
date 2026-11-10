@@ -46,7 +46,7 @@ Pravilnik o ugovornoj pričuvi · 1 versions, from 2015-02-26 (latest in force: 
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2015-383` (tags `pravilnik-2015-383/<day>`; `python tools/on.py <day> pravilnik-2015-383`).
+Act id: `pravilnik-2015-383` (tags `pravilnik-2015-383/<day>`; `python registry/tools/on.py <day> pravilnik-2015-383`).
 
 ## Status
 

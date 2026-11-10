@@ -25,7 +25,7 @@ Pravilnik o izmjenama i dopunama Pravilnika o stavljanju na tržište sjemena re
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2017-560` (tags `pravilnik-2017-560/<day>`; `python tools/on.py <day> pravilnik-2017-560`).
+Act id: `pravilnik-2017-560` (tags `pravilnik-2017-560/<day>`; `python registry/tools/on.py <day> pravilnik-2017-560`).
 
 ## Decisions made by hand
 

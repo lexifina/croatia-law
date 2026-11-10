@@ -26,7 +26,7 @@ Zakon o izmjenama i dopunama Zakona o ustrojstvu i djelokrugu tijela državne up
 | čl. 20 | [clanak-020.md](clanak-020.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2024-982` (tags `zakon-2024-982/<day>`; `python tools/on.py <day> zakon-2024-982`).
+Act id: `zakon-2024-982` (tags `zakon-2024-982/<day>`; `python registry/tools/on.py <day> zakon-2024-982`).
 
 ## Decisions made by hand
 

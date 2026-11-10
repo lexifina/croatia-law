@@ -11,7 +11,7 @@ Zakon o izmjenama i dopuni Zakona o izvlaštenju · 1 versions, from 2012-03-21 
 | čl. 5 | [clanak-005.md](clanak-005.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2012-817` (tags `zakon-2012-817/<day>`; `python tools/on.py <day> zakon-2012-817`).
+Act id: `zakon-2012-817` (tags `zakon-2012-817/<day>`; `python registry/tools/on.py <day> zakon-2012-817`).
 
 ## Decisions made by hand
 

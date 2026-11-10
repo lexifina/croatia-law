@@ -8,7 +8,7 @@ Odluka o graničnim prijelazima preko kojih će se odvijati tranzitni promet ter
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2020-727` (tags `odluka-2020-727/<day>`; `python tools/on.py <day> odluka-2020-727`).
+Act id: `odluka-2020-727` (tags `odluka-2020-727/<day>`; `python registry/tools/on.py <day> odluka-2020-727`).
 
 ## Status
 

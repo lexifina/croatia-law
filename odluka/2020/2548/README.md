@@ -16,7 +16,7 @@ Odluka o porezima Grada Kraljevice · 1 versions, from 2021-01-01 (latest in for
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2020-2548` (tags `odluka-2020-2548/<day>`; `python tools/on.py <day> odluka-2020-2548`).
+Act id: `odluka-2020-2548` (tags `odluka-2020-2548/<day>`; `python registry/tools/on.py <day> odluka-2020-2548`).
 
 ## Decisions made by hand
 

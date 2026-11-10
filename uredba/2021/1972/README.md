@@ -12,7 +12,7 @@ Uredba o izmjenama i dopuni Uredbe o mjerama zaštite od ionizirajućeg zračenj
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2021-1972` (tags `uredba-2021-1972/<day>`; `python tools/on.py <day> uredba-2021-1972`).
+Act id: `uredba-2021-1972` (tags `uredba-2021-1972/<day>`; `python registry/tools/on.py <day> uredba-2021-1972`).
 
 ## Decisions made by hand
 

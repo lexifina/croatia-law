@@ -42,7 +42,7 @@ Uredba o metodologiji i postupku provedbe instrumenata politike boljih propisa Â
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2024-303` (tags `uredba-2024-303/<day>`; `python tools/on.py <day> uredba-2024-303`).
+Act id: `uredba-2024-303` (tags `uredba-2024-303/<day>`; `python registry/tools/on.py <day> uredba-2024-303`).
 
 ## Decisions made by hand
 

@@ -8,7 +8,7 @@ Odluka o izmjenama Odluke o koncesiji pomorskog dobra u svrhu gospodarskog kori≈
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2011-369` (tags `odluka-2011-369/<day>`; `python tools/on.py <day> odluka-2011-369`).
+Act id: `odluka-2011-369` (tags `odluka-2011-369/<day>`; `python registry/tools/on.py <day> odluka-2011-369`).
 
 ## Decisions made by hand
 

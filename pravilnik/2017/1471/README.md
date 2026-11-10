@@ -18,7 +18,7 @@ Pravilnik o parametrima kvalitete i kvalitativnim klasama pšenice u otkupu pše
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2017-1471` (tags `pravilnik-2017-1471/<day>`; `python tools/on.py <day> pravilnik-2017-1471`).
+Act id: `pravilnik-2017-1471` (tags `pravilnik-2017-1471/<day>`; `python registry/tools/on.py <day> pravilnik-2017-1471`).
 
 ## Decisions made by hand
 

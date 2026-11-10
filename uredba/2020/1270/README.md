@@ -13,7 +13,7 @@ Uredba o dopunama Zakona o odgoju i obrazovanju u osnovnoj i srednjoj školi · 
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2020-1270` (tags `uredba-2020-1270/<day>`; `python tools/on.py <day> uredba-2020-1270`).
+Act id: `uredba-2020-1270` (tags `uredba-2020-1270/<day>`; `python registry/tools/on.py <day> uredba-2020-1270`).
 
 ## Decisions made by hand
 

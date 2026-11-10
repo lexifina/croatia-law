@@ -23,7 +23,7 @@ Pravilnik o načinu provođenja mjera zaštite radi sprječavanja nastanka ozlje
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2013-1874` (tags `pravilnik-2013-1874/<day>`; `python tools/on.py <day> pravilnik-2013-1874`).
+Act id: `pravilnik-2013-1874` (tags `pravilnik-2013-1874/<day>`; `python registry/tools/on.py <day> pravilnik-2013-1874`).
 
 ## Status
 

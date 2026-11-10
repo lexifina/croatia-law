@@ -9,7 +9,7 @@ Pravilnik o dopuni Pravilnika o visini pristojbi i naknada za službene kontrole
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2018-1897` (tags `pravilnik-2018-1897/<day>`; `python tools/on.py <day> pravilnik-2018-1897`).
+Act id: `pravilnik-2018-1897` (tags `pravilnik-2018-1897/<day>`; `python registry/tools/on.py <day> pravilnik-2018-1897`).
 
 ## Decisions made by hand
 

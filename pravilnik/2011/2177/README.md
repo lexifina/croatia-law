@@ -10,7 +10,7 @@ Pravilnik o dopuni Pravilnika o pristupu stručnom usavršavanju · 1 versions, 
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2011-2177` (tags `pravilnik-2011-2177/<day>`; `python tools/on.py <day> pravilnik-2011-2177`).
+Act id: `pravilnik-2011-2177` (tags `pravilnik-2011-2177/<day>`; `python registry/tools/on.py <day> pravilnik-2011-2177`).
 
 ## Decisions made by hand
 

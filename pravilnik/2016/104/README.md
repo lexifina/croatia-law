@@ -21,7 +21,7 @@ Pravilnik o uvjetima za stjecanje i provjeru stručnih znanja potrebnih za obavl
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2016-104` (tags `pravilnik-2016-104/<day>`; `python tools/on.py <day> pravilnik-2016-104`).
+Act id: `pravilnik-2016-104` (tags `pravilnik-2016-104/<day>`; `python registry/tools/on.py <day> pravilnik-2016-104`).
 
 ## Status
 

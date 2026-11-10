@@ -9,7 +9,7 @@ Pravilnik o izmjeni Pravilnika o pivu · 1 versions, from 2013-12-05 (latest in 
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2013-3021` (tags `pravilnik-2013-3021/<day>`; `python tools/on.py <day> pravilnik-2013-3021`).
+Act id: `pravilnik-2013-3021` (tags `pravilnik-2013-3021/<day>`; `python registry/tools/on.py <day> pravilnik-2013-3021`).
 
 ## Decisions made by hand
 

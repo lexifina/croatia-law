@@ -100,7 +100,7 @@ Zakon o sustavu državne uprave · 1 versions, from 2011-12-22 (latest in force:
 | čl. 94 | [clanak-094.md](clanak-094.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2011-3086` (tags `zakon-2011-3086/<day>`; `python tools/on.py <day> zakon-2011-3086`).
+Act id: `zakon-2011-3086` (tags `zakon-2011-3086/<day>`; `python registry/tools/on.py <day> zakon-2011-3086`).
 
 ## Status
 

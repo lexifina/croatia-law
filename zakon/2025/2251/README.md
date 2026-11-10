@@ -21,7 +21,7 @@ Zakon o izmjenama i dopunama Zakona o mjerama ograničavanja · 1 versions, from
 | čl. 15 | [clanak-015.md](clanak-015.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2025-2251` (tags `zakon-2025-2251/<day>`; `python tools/on.py <day> zakon-2025-2251`).
+Act id: `zakon-2025-2251` (tags `zakon-2025-2251/<day>`; `python registry/tools/on.py <day> zakon-2025-2251`).
 
 ## Decisions made by hand
 

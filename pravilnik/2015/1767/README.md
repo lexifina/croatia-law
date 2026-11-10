@@ -14,7 +14,7 @@ Pravilnik o sigurnosti i zaštiti zdravlja na radu trudne radnice, radnice koja 
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2015-1767` (tags `pravilnik-2015-1767/<day>`; `python tools/on.py <day> pravilnik-2015-1767`).
+Act id: `pravilnik-2015-1767` (tags `pravilnik-2015-1767/<day>`; `python registry/tools/on.py <day> pravilnik-2015-1767`).
 
 ## Decisions made by hand
 

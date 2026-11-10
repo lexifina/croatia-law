@@ -21,7 +21,7 @@ Uredba o izmjenama i dopunama Uredbe o unutarnjem ustrojstvu Ministarstva poduze
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2013-326` (tags `uredba-2013-326/<day>`; `python tools/on.py <day> uredba-2013-326`).
+Act id: `uredba-2013-326` (tags `uredba-2013-326/<day>`; `python registry/tools/on.py <day> uredba-2013-326`).
 
 ## Decisions made by hand
 

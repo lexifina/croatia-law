@@ -8,7 +8,7 @@ Odluka o osnivanju Veleposlanstva Republike Hrvatske u Republici Kazahstanu, sa 
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2015-1335` (tags `odluka-2015-1335/<day>`; `python tools/on.py <day> odluka-2015-1335`).
+Act id: `odluka-2015-1335` (tags `odluka-2015-1335/<day>`; `python registry/tools/on.py <day> odluka-2015-1335`).
 
 ## Decisions made by hand
 

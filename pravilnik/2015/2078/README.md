@@ -9,7 +9,7 @@ Pravilnik o dopuni Pravilnika o mjerama prilagodbe zahtjevima propisa o hrani ž
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2015-2078` (tags `pravilnik-2015-2078/<day>`; `python tools/on.py <day> pravilnik-2015-2078`).
+Act id: `pravilnik-2015-2078` (tags `pravilnik-2015-2078/<day>`; `python registry/tools/on.py <day> pravilnik-2015-2078`).
 
 ## Decisions made by hand
 

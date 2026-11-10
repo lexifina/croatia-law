@@ -14,7 +14,7 @@ Odluka kojom se utvrđuju uvjeti i način preuzimanja podataka o dohocima i prim
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2019-1051` (tags `odluka-2019-1051/<day>`; `python tools/on.py <day> odluka-2019-1051`).
+Act id: `odluka-2019-1051` (tags `odluka-2019-1051/<day>`; `python registry/tools/on.py <day> odluka-2019-1051`).
 
 ## Status
 

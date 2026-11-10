@@ -8,7 +8,7 @@ Odluka o privremenom uređivanju rada i ograničavanju radnog vremena ugostitelj
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2020-2206` (tags `odluka-2020-2206/<day>`; `python tools/on.py <day> odluka-2020-2206`).
+Act id: `odluka-2020-2206` (tags `odluka-2020-2206/<day>`; `python registry/tools/on.py <day> odluka-2020-2206`).
 
 ## Status
 

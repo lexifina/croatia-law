@@ -19,7 +19,7 @@ Pravilnik o uvjetima i načinu upisa u Upisnik dobavljača šumskog reprodukcijs
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2011-68` (tags `pravilnik-2011-68/<day>`; `python tools/on.py <day> pravilnik-2011-68`).
+Act id: `pravilnik-2011-68` (tags `pravilnik-2011-68/<day>`; `python registry/tools/on.py <day> pravilnik-2011-68`).
 
 ## Status
 

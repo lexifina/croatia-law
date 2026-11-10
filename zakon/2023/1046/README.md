@@ -16,7 +16,7 @@ Zakon o izmjenama i dopunama Zakona o izvršavanju državnog proračuna Republik
 | čl. 10 | [clanak-010.md](clanak-010.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2023-1046` (tags `zakon-2023-1046/<day>`; `python tools/on.py <day> zakon-2023-1046`).
+Act id: `zakon-2023-1046` (tags `zakon-2023-1046/<day>`; `python registry/tools/on.py <day> zakon-2023-1046`).
 
 ## Decisions made by hand
 

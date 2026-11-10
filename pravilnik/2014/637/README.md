@@ -20,7 +20,7 @@ Pravilnik o obrascu službene iskaznice i izgledu znaka inspektora u gospodarstv
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2014-637` (tags `pravilnik-2014-637/<day>`; `python tools/on.py <day> pravilnik-2014-637`).
+Act id: `pravilnik-2014-637` (tags `pravilnik-2014-637/<day>`; `python registry/tools/on.py <day> pravilnik-2014-637`).
 
 ## Status
 

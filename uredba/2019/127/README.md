@@ -14,7 +14,7 @@ Uredba o financijskoj strukturi omotnice za program izravnih plaćanja u 2018. g
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2019-127` (tags `uredba-2019-127/<day>`; `python tools/on.py <day> uredba-2019-127`).
+Act id: `uredba-2019-127` (tags `uredba-2019-127/<day>`; `python registry/tools/on.py <day> uredba-2019-127`).
 
 ## Decisions made by hand
 

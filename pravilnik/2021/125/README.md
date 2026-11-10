@@ -9,7 +9,7 @@ Pravilnik o dopuni Pravilnika o utvrđivanju cijene putovnice i putnog lista · 
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2021-125` (tags `pravilnik-2021-125/<day>`; `python tools/on.py <day> pravilnik-2021-125`).
+Act id: `pravilnik-2021-125` (tags `pravilnik-2021-125/<day>`; `python registry/tools/on.py <day> pravilnik-2021-125`).
 
 ## Decisions made by hand
 

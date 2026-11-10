@@ -14,7 +14,7 @@ Odluka o primjeni zaštitnog sloja za strukturni sistemski rizik · 1 versions, 
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2014-1154` (tags `odluka-2014-1154/<day>`; `python tools/on.py <day> odluka-2014-1154`).
+Act id: `odluka-2014-1154` (tags `odluka-2014-1154/<day>`; `python registry/tools/on.py <day> odluka-2014-1154`).
 
 ## Status
 

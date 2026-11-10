@@ -23,7 +23,7 @@ Odluka o politikama i praksama primitaka povezanima s pružanjem bankovnih proiz
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2018-2071` (tags `odluka-2018-2071/<day>`; `python tools/on.py <day> odluka-2018-2071`).
+Act id: `odluka-2018-2071` (tags `odluka-2018-2071/<day>`; `python registry/tools/on.py <day> odluka-2018-2071`).
 
 ## Status
 

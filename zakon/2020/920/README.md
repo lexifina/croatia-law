@@ -17,7 +17,7 @@ Zakon o izmjenama i dopunama Zakona o provedbi ovrhe na novčanim sredstvima · 
 | čl. 11 | [clanak-011.md](clanak-011.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2020-920` (tags `zakon-2020-920/<day>`; `python tools/on.py <day> zakon-2020-920`).
+Act id: `zakon-2020-920` (tags `zakon-2020-920/<day>`; `python registry/tools/on.py <day> zakon-2020-920`).
 
 ## Decisions made by hand
 

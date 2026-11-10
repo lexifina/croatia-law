@@ -9,7 +9,7 @@ Pravilnik o izmjenama i dopunama Pravilnika o vrsti i visini nakanda i adminsitr
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2012-1637` (tags `pravilnik-2012-1637/<day>`; `python tools/on.py <day> pravilnik-2012-1637`).
+Act id: `pravilnik-2012-1637` (tags `pravilnik-2012-1637/<day>`; `python registry/tools/on.py <day> pravilnik-2012-1637`).
 
 ## Decisions made by hand
 

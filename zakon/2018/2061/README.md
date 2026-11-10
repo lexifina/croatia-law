@@ -16,7 +16,7 @@ Zakon o izmjenama i dopunama Zakona o porezu na dobit · 1 versions, from 2018-1
 | čl. 10 | [clanak-010.md](clanak-010.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2018-2061` (tags `zakon-2018-2061/<day>`; `python tools/on.py <day> zakon-2018-2061`).
+Act id: `zakon-2018-2061` (tags `zakon-2018-2061/<day>`; `python registry/tools/on.py <day> zakon-2018-2061`).
 
 ## Status
 

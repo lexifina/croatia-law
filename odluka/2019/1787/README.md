@@ -8,7 +8,7 @@ Odluka o visini otpremnine za državne službenike i namještenike ureda državn
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2019-1787` (tags `odluka-2019-1787/<day>`; `python tools/on.py <day> odluka-2019-1787`).
+Act id: `odluka-2019-1787` (tags `odluka-2019-1787/<day>`; `python registry/tools/on.py <day> odluka-2019-1787`).
 
 ## Decisions made by hand
 

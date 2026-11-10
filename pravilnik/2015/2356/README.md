@@ -26,7 +26,7 @@ Pravilnik o Središnjem katalogu službenih dokumenata Republike Hrvatske · 1 v
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2015-2356` (tags `pravilnik-2015-2356/<day>`; `python tools/on.py <day> pravilnik-2015-2356`).
+Act id: `pravilnik-2015-2356` (tags `pravilnik-2015-2356/<day>`; `python registry/tools/on.py <day> pravilnik-2015-2356`).
 
 ## Status
 

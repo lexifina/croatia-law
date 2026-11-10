@@ -34,7 +34,7 @@ Zakon o izmjenama i dopunama Zakona o doprinosima · 1 versions, from 2023-12-01
 | čl. 28 | [clanak-028.md](clanak-028.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2023-1611` (tags `zakon-2023-1611/<day>`; `python tools/on.py <day> zakon-2023-1611`).
+Act id: `zakon-2023-1611` (tags `zakon-2023-1611/<day>`; `python registry/tools/on.py <day> zakon-2023-1611`).
 
 ## Decisions made by hand
 

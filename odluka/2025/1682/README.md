@@ -10,7 +10,7 @@ Odluka o najnižoj mirovini za jednu godinu mirovinskog staža od 1. srpnja 2025
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2025-1682` (tags `odluka-2025-1682/<day>`; `python tools/on.py <day> odluka-2025-1682`).
+Act id: `odluka-2025-1682` (tags `odluka-2025-1682/<day>`; `python registry/tools/on.py <day> odluka-2025-1682`).
 
 ## Decisions made by hand
 

@@ -8,7 +8,7 @@ Odluka o poništavanju Odluke o iznosu tarifnih stavki za transport plina · 1 v
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2020-2880` (tags `odluka-2020-2880/<day>`; `python tools/on.py <day> odluka-2020-2880`).
+Act id: `odluka-2020-2880` (tags `odluka-2020-2880/<day>`; `python registry/tools/on.py <day> odluka-2020-2880`).
 
 ## Status
 

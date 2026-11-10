@@ -9,7 +9,7 @@ Odluka o aktualnoj vrijednosti mirovine od 1. srpnja 2023. · 1 versions, from 2
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2023-1449` (tags `odluka-2023-1449/<day>`; `python tools/on.py <day> odluka-2023-1449`).
+Act id: `odluka-2023-1449` (tags `odluka-2023-1449/<day>`; `python registry/tools/on.py <day> odluka-2023-1449`).
 
 ## Decisions made by hand
 

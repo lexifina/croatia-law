@@ -15,7 +15,7 @@ Odluka o obvezama kreditnih institucija pri izdavanju pokrivenih obveznica · 1 
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2023-1283` (tags `odluka-2023-1283/<day>`; `python tools/on.py <day> odluka-2023-1283`).
+Act id: `odluka-2023-1283` (tags `odluka-2023-1283/<day>`; `python registry/tools/on.py <day> odluka-2023-1283`).
 
 ## Decisions made by hand
 

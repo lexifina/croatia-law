@@ -10,7 +10,7 @@ Pravilnik o izmjeni Pravilnika o vođenju evidencije o plaćenom porezu na premi
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2017-13` (tags `pravilnik-2017-13/<day>`; `python tools/on.py <day> pravilnik-2017-13`).
+Act id: `pravilnik-2017-13` (tags `pravilnik-2017-13/<day>`; `python registry/tools/on.py <day> pravilnik-2017-13`).
 
 ## Decisions made by hand
 

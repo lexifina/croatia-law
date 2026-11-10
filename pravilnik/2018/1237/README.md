@@ -103,7 +103,7 @@ Pravilnik o geodetskim elaboratima · 1 versions, from 2018-09-01 (latest in for
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2018-1237` (tags `pravilnik-2018-1237/<day>`; `python tools/on.py <day> pravilnik-2018-1237`).
+Act id: `pravilnik-2018-1237` (tags `pravilnik-2018-1237/<day>`; `python registry/tools/on.py <day> pravilnik-2018-1237`).
 
 ## Status
 

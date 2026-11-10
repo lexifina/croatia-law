@@ -9,7 +9,7 @@ Pravilnik o izmjenama Pravilnika o uvjetima, kriterijima i načinu dodjele potpo
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2020-1408` (tags `pravilnik-2020-1408/<day>`; `python tools/on.py <day> pravilnik-2020-1408`).
+Act id: `pravilnik-2020-1408` (tags `pravilnik-2020-1408/<day>`; `python registry/tools/on.py <day> pravilnik-2020-1408`).
 
 ## Decisions made by hand
 

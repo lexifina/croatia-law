@@ -9,7 +9,7 @@ Odluka o izmjenama i dopunama Odluke o obveznicama, jedinstvenoj osnovici, nači
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2015-1822` (tags `odluka-2015-1822/<day>`; `python tools/on.py <day> odluka-2015-1822`).
+Act id: `odluka-2015-1822` (tags `odluka-2015-1822/<day>`; `python registry/tools/on.py <day> odluka-2015-1822`).
 
 ## Decisions made by hand
 

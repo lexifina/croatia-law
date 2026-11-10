@@ -18,7 +18,7 @@ Odluka o financiranju Hrvatske gospodarske komore u 2012. godini · 1 versions, 
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2011-2875` (tags `odluka-2011-2875/<day>`; `python tools/on.py <day> odluka-2011-2875`).
+Act id: `odluka-2011-2875` (tags `odluka-2011-2875/<day>`; `python registry/tools/on.py <day> odluka-2011-2875`).
 
 ## Status
 

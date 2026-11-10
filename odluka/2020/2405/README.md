@@ -8,7 +8,7 @@ Odluka o davanju suglasnosti na davanje u potkoncesiju dijela pomorskog dobra u 
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2020-2405` (tags `odluka-2020-2405/<day>`; `python tools/on.py <day> odluka-2020-2405`).
+Act id: `odluka-2020-2405` (tags `odluka-2020-2405/<day>`; `python registry/tools/on.py <day> odluka-2020-2405`).
 
 ## Status
 

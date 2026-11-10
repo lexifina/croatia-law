@@ -8,7 +8,7 @@ Odluka o osnivanju Vijeća za djecu · 1 versions, from 2024-09-06 (latest in fo
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2024-1808` (tags `odluka-2024-1808/<day>`; `python tools/on.py <day> odluka-2024-1808`).
+Act id: `odluka-2024-1808` (tags `odluka-2024-1808/<day>`; `python registry/tools/on.py <day> odluka-2024-1808`).
 
 ## Decisions made by hand
 

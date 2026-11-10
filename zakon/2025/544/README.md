@@ -27,7 +27,7 @@ Zakon o izmjenama i dopunama Zakona o energetskoj učinkovitosti · 1 versions, 
 | čl. 21 | [clanak-021.md](clanak-021.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2025-544` (tags `zakon-2025-544/<day>`; `python tools/on.py <day> zakon-2025-544`).
+Act id: `zakon-2025-544` (tags `zakon-2025-544/<day>`; `python registry/tools/on.py <day> zakon-2025-544`).
 
 ## Decisions made by hand
 

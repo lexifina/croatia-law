@@ -17,7 +17,7 @@ Uredba o izmjenama i dopunama Uredbe o naknadama za posebne troškove i troškov
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2013-2142` (tags `uredba-2013-2142/<day>`; `python tools/on.py <day> uredba-2013-2142`).
+Act id: `uredba-2013-2142` (tags `uredba-2013-2142/<day>`; `python registry/tools/on.py <day> uredba-2013-2142`).
 
 ## Decisions made by hand
 

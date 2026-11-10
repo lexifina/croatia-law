@@ -8,7 +8,7 @@ Odluka o namjenskom višegodišnjem institucijskom financiranju znanstvene djela
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2013-1367` (tags `odluka-2013-1367/<day>`; `python tools/on.py <day> odluka-2013-1367`).
+Act id: `odluka-2013-1367` (tags `odluka-2013-1367/<day>`; `python registry/tools/on.py <day> odluka-2013-1367`).
 
 ## Decisions made by hand
 

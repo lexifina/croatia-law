@@ -13,7 +13,7 @@ Pravilnik o suradnji Obalne straže s tijelima nadležnima za morsko ribarstvo �
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2011-693` (tags `pravilnik-2011-693/<day>`; `python tools/on.py <day> pravilnik-2011-693`).
+Act id: `pravilnik-2011-693` (tags `pravilnik-2011-693/<day>`; `python registry/tools/on.py <day> pravilnik-2011-693`).
 
 ## Status
 

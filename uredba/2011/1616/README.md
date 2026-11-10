@@ -10,7 +10,7 @@ Uredba o izmjenama Uredbe o visini vodnoga doprinosa · 1 versions, from 2011-07
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2011-1616` (tags `uredba-2011-1616/<day>`; `python tools/on.py <day> uredba-2011-1616`).
+Act id: `uredba-2011-1616` (tags `uredba-2011-1616/<day>`; `python registry/tools/on.py <day> uredba-2011-1616`).
 
 ## Decisions made by hand
 

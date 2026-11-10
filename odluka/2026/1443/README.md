@@ -8,7 +8,7 @@ Odluka o donošenju Akcijskog plana za provedbu Nacionalnog plana upravljanja ž
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2026-1443` (tags `odluka-2026-1443/<day>`; `python tools/on.py <day> odluka-2026-1443`).
+Act id: `odluka-2026-1443` (tags `odluka-2026-1443/<day>`; `python registry/tools/on.py <day> odluka-2026-1443`).
 
 ## Decisions made by hand
 

@@ -22,7 +22,7 @@ Odluka o općinskim porezima Općine Babina Greda · 1 versions, from 2014-11-01
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2014-2379` (tags `odluka-2014-2379/<day>`; `python tools/on.py <day> odluka-2014-2379`).
+Act id: `odluka-2014-2379` (tags `odluka-2014-2379/<day>`; `python registry/tools/on.py <day> odluka-2014-2379`).
 
 ## Status
 

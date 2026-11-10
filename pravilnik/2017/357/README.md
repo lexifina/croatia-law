@@ -10,7 +10,7 @@ Pravilnik o izmjenama i dopunama Pravilnika o ulovu, uzgoju i prometu plavoperaj
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2017-357` (tags `pravilnik-2017-357/<day>`; `python tools/on.py <day> pravilnik-2017-357`).
+Act id: `pravilnik-2017-357` (tags `pravilnik-2017-357/<day>`; `python registry/tools/on.py <day> pravilnik-2017-357`).
 
 ## Decisions made by hand
 

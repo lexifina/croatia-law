@@ -11,7 +11,7 @@ Zakon o izmjenama i dopunama Zakona o šumskom reprodukcijskom materijalu · 1 v
 | čl. 5 | [clanak-005.md](clanak-005.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2011-1365` (tags `zakon-2011-1365/<day>`; `python tools/on.py <day> zakon-2011-1365`).
+Act id: `zakon-2011-1365` (tags `zakon-2011-1365/<day>`; `python registry/tools/on.py <day> zakon-2011-1365`).
 
 ## Decisions made by hand
 

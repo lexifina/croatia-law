@@ -8,7 +8,7 @@ Odluka o donošenju Strategije za procjenu ekonomskog učinka propisa na sektor 
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2023-821` (tags `odluka-2023-821/<day>`; `python tools/on.py <day> odluka-2023-821`).
+Act id: `odluka-2023-821` (tags `odluka-2023-821/<day>`; `python registry/tools/on.py <day> odluka-2023-821`).
 
 ## Decisions made by hand
 

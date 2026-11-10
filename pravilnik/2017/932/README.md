@@ -5,7 +5,7 @@ Pravilnik o postupku naknade Å¡tete ulagateljima UCITS fonda i/ili UCITS fondu Â
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `pravilnik-2017-932` (tags `pravilnik-2017-932/<day>`; `python tools/on.py <day> pravilnik-2017-932`).
+Act id: `pravilnik-2017-932` (tags `pravilnik-2017-932/<day>`; `python registry/tools/on.py <day> pravilnik-2017-932`).
 
 ## Decisions made by hand
 

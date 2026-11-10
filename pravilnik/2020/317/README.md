@@ -34,7 +34,7 @@ Pravilnik o sadržaju i načinu vođenja evidencije o državnoj granici · 1 ver
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2020-317` (tags `pravilnik-2020-317/<day>`; `python tools/on.py <day> pravilnik-2020-317`).
+Act id: `pravilnik-2020-317` (tags `pravilnik-2020-317/<day>`; `python registry/tools/on.py <day> pravilnik-2020-317`).
 
 ## Decisions made by hand
 

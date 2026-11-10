@@ -14,7 +14,7 @@ Odluka o prirezu porezu na dohodak Grada Pakraca · 1 versions, from 2014-04-01 
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2014-666` (tags `odluka-2014-666/<day>`; `python tools/on.py <day> odluka-2014-666`).
+Act id: `odluka-2014-666` (tags `odluka-2014-666/<day>`; `python registry/tools/on.py <day> odluka-2014-666`).
 
 ## Status
 

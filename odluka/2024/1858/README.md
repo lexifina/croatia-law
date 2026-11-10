@@ -10,7 +10,7 @@ Odluka o izmjenama Odluke o potrebnim znanjima i stručnosti osoblja kreditnih i
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2024-1858` (tags `odluka-2024-1858/<day>`; `python tools/on.py <day> odluka-2024-1858`).
+Act id: `odluka-2024-1858` (tags `odluka-2024-1858/<day>`; `python registry/tools/on.py <day> odluka-2024-1858`).
 
 ## Decisions made by hand
 

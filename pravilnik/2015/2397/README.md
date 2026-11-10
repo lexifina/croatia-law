@@ -15,7 +15,7 @@ Pravilnik o standardnim ponudama · 1 versions, from 2015-11-28 (latest in force
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2015-2397` (tags `pravilnik-2015-2397/<day>`; `python tools/on.py <day> pravilnik-2015-2397`).
+Act id: `pravilnik-2015-2397` (tags `pravilnik-2015-2397/<day>`; `python registry/tools/on.py <day> pravilnik-2015-2397`).
 
 ## Status
 

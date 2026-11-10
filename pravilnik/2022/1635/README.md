@@ -10,7 +10,7 @@ Pravilnik o izmjenama i dopunama Pravilnika o ograničavanju uporabe određenih 
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2022-1635` (tags `pravilnik-2022-1635/<day>`; `python tools/on.py <day> pravilnik-2022-1635`).
+Act id: `pravilnik-2022-1635` (tags `pravilnik-2022-1635/<day>`; `python registry/tools/on.py <day> pravilnik-2022-1635`).
 
 ## Decisions made by hand
 

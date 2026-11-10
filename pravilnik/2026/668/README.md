@@ -32,7 +32,7 @@ Pravilnik o stručnom ispitu za turističke vodiče · 1 versions, from 2026-05-
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2026-668` (tags `pravilnik-2026-668/<day>`; `python tools/on.py <day> pravilnik-2026-668`).
+Act id: `pravilnik-2026-668` (tags `pravilnik-2026-668/<day>`; `python registry/tools/on.py <day> pravilnik-2026-668`).
 
 ## Decisions made by hand
 

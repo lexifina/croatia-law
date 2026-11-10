@@ -10,7 +10,7 @@ Uredba o izmjenama i dopuni Uredbe o načinu izračuna i visini sredstava za uzd
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2026-10` (tags `uredba-2026-10/<day>`; `python tools/on.py <day> uredba-2026-10`).
+Act id: `uredba-2026-10` (tags `uredba-2026-10/<day>`; `python registry/tools/on.py <day> uredba-2026-10`).
 
 ## Decisions made by hand
 

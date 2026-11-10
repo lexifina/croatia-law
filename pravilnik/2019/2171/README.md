@@ -10,7 +10,7 @@ Pravilnik o izmjeni i dopuni Pravilnika o vrsti i načinu dostave podataka drža
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2019-2171` (tags `pravilnik-2019-2171/<day>`; `python tools/on.py <day> pravilnik-2019-2171`).
+Act id: `pravilnik-2019-2171` (tags `pravilnik-2019-2171/<day>`; `python registry/tools/on.py <day> pravilnik-2019-2171`).
 
 ## Decisions made by hand
 

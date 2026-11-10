@@ -11,7 +11,7 @@ Uredba o izmjenama i dopuni Uredbe o uvjetima za kupnju obiteljske kuće ili sta
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2013-42` (tags `uredba-2013-42/<day>`; `python tools/on.py <day> uredba-2013-42`).
+Act id: `uredba-2013-42` (tags `uredba-2013-42/<day>`; `python registry/tools/on.py <day> uredba-2013-42`).
 
 ## Decisions made by hand
 

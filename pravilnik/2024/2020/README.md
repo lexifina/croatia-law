@@ -12,7 +12,7 @@ Pravilnik o djelomičnoj jednokratnoj isplati korisniku starosne i prijevremene 
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2024-2020` (tags `pravilnik-2024-2020/<day>`; `python tools/on.py <day> pravilnik-2024-2020`).
+Act id: `pravilnik-2024-2020` (tags `pravilnik-2024-2020/<day>`; `python registry/tools/on.py <day> pravilnik-2024-2020`).
 
 ## Decisions made by hand
 

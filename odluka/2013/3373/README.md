@@ -24,7 +24,7 @@ Odluka o provedbi Uredbe (EU) br. 575/2013 u dijelu vrednovanja imovine i izvanb
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2013-3373` (tags `odluka-2013-3373/<day>`; `python tools/on.py <day> odluka-2013-3373`).
+Act id: `odluka-2013-3373` (tags `odluka-2013-3373/<day>`; `python registry/tools/on.py <day> odluka-2013-3373`).
 
 ## Status
 

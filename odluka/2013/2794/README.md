@@ -9,7 +9,7 @@ Odluka o izmjeni Odluke o posebnim standardima i mjerilima njihove primjene u pr
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2013-2794` (tags `odluka-2013-2794/<day>`; `python tools/on.py <day> odluka-2013-2794`).
+Act id: `odluka-2013-2794` (tags `odluka-2013-2794/<day>`; `python registry/tools/on.py <day> odluka-2013-2794`).
 
 ## Decisions made by hand
 

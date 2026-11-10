@@ -8,7 +8,7 @@ Odluka o naknadi za posebne oblike rada u službi · 1 versions, from 2023-09-14
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2023-1479` (tags `odluka-2023-1479/<day>`; `python tools/on.py <day> odluka-2023-1479`).
+Act id: `odluka-2023-1479` (tags `odluka-2023-1479/<day>`; `python registry/tools/on.py <day> odluka-2023-1479`).
 
 ## Decisions made by hand
 

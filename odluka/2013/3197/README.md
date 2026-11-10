@@ -11,7 +11,7 @@ Odluka o izmjenama i dopunama Odluke o visini naknade za polaganje vozačkog isp
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2013-3197` (tags `odluka-2013-3197/<day>`; `python tools/on.py <day> odluka-2013-3197`).
+Act id: `odluka-2013-3197` (tags `odluka-2013-3197/<day>`; `python registry/tools/on.py <day> odluka-2013-3197`).
 
 ## Decisions made by hand
 

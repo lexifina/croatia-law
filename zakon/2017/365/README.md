@@ -11,7 +11,7 @@ Zakon o prestanku važenja Zakona o potporama za očuvanje radnih mjesta · 1 ve
 | čl. 5 | [clanak-005.md](clanak-005.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2017-365` (tags `zakon-2017-365/<day>`; `python tools/on.py <day> zakon-2017-365`).
+Act id: `zakon-2017-365` (tags `zakon-2017-365/<day>`; `python registry/tools/on.py <day> zakon-2017-365`).
 
 ## Decisions made by hand
 

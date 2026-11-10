@@ -9,7 +9,7 @@ Odluka o utvrđivanju Liste izmiritelja Centra za mirenje Hrvatske komore inžen
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2019-1070` (tags `odluka-2019-1070/<day>`; `python tools/on.py <day> odluka-2019-1070`).
+Act id: `odluka-2019-1070` (tags `odluka-2019-1070/<day>`; `python registry/tools/on.py <day> odluka-2019-1070`).
 
 ## Status
 

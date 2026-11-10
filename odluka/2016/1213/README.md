@@ -8,7 +8,7 @@ Odluka o davanju određenih nekretnina u vlasništvu Republike Hrvatske na uprav
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2016-1213` (tags `odluka-2016-1213/<day>`; `python tools/on.py <day> odluka-2016-1213`).
+Act id: `odluka-2016-1213` (tags `odluka-2016-1213/<day>`; `python registry/tools/on.py <day> odluka-2016-1213`).
 
 ## Status
 

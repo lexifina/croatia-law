@@ -39,7 +39,7 @@ Uredba o graničnim prijelazima Republike Hrvatske · 1 versions, from 2013-07-0
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2013-1630` (tags `uredba-2013-1630/<day>`; `python tools/on.py <day> uredba-2013-1630`).
+Act id: `uredba-2013-1630` (tags `uredba-2013-1630/<day>`; `python registry/tools/on.py <day> uredba-2013-1630`).
 
 ## Status
 

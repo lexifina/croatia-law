@@ -8,7 +8,7 @@ Odluka o raspisivanju prijevremenih izbora za članove Gradskog vijeća Grada Sp
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2022-819` (tags `odluka-2022-819/<day>`; `python tools/on.py <day> odluka-2022-819`).
+Act id: `odluka-2022-819` (tags `odluka-2022-819/<day>`; `python registry/tools/on.py <day> odluka-2022-819`).
 
 ## Decisions made by hand
 

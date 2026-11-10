@@ -5,7 +5,7 @@ Odluka o kontroli provjere autentičnosti i prikladnosti gotovog novca eura · 2
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `odluka-2022-2028` (tags `odluka-2022-2028/<day>`; `python tools/on.py <day> odluka-2022-2028`).
+Act id: `odluka-2022-2028` (tags `odluka-2022-2028/<day>`; `python registry/tools/on.py <day> odluka-2022-2028`).
 
 ## Decisions made by hand
 

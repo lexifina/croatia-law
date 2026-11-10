@@ -16,7 +16,7 @@ Odluka o izdavanju zlatne numizmatičke kovanice i srebrnih numizmatičkih kovan
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2024-1412` (tags `odluka-2024-1412/<day>`; `python tools/on.py <day> odluka-2024-1412`).
+Act id: `odluka-2024-1412` (tags `odluka-2024-1412/<day>`; `python registry/tools/on.py <day> odluka-2024-1412`).
 
 ## Decisions made by hand
 

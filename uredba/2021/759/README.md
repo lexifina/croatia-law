@@ -19,7 +19,7 @@ Uredba o izmjenama i dopunama Uredbe o kriterijima, mjerilima i postupcima finan
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2021-759` (tags `uredba-2021-759/<day>`; `python tools/on.py <day> uredba-2021-759`).
+Act id: `uredba-2021-759` (tags `uredba-2021-759/<day>`; `python registry/tools/on.py <day> uredba-2021-759`).
 
 ## Decisions made by hand
 

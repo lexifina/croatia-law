@@ -8,7 +8,7 @@ Odluka o izmjeni Odluke o visini poreznih stopa godišnjeg poreza na dohodak na 
 | čl. 2 | [clanak-002.md](clanak-002.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `odluka-2024-2495` (tags `odluka-2024-2495/<day>`; `python tools/on.py <day> odluka-2024-2495`).
+Act id: `odluka-2024-2495` (tags `odluka-2024-2495/<day>`; `python registry/tools/on.py <day> odluka-2024-2495`).
 
 ## Decisions made by hand
 

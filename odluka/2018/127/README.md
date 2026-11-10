@@ -12,7 +12,7 @@ Odluka o izmjenama Odluke o lokalnim porezima Grada Siska · 1 versions, from 20
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2018-127` (tags `odluka-2018-127/<day>`; `python tools/on.py <day> odluka-2018-127`).
+Act id: `odluka-2018-127` (tags `odluka-2018-127/<day>`; `python registry/tools/on.py <day> odluka-2018-127`).
 
 ## Decisions made by hand
 

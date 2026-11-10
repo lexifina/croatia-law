@@ -43,7 +43,7 @@ Pravilnik o kliničkim ispitivanjima lijekova i dobroj kliničkoj praksi · 1 ve
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2015-534` (tags `pravilnik-2015-534/<day>`; `python tools/on.py <day> pravilnik-2015-534`).
+Act id: `pravilnik-2015-534` (tags `pravilnik-2015-534/<day>`; `python registry/tools/on.py <day> pravilnik-2015-534`).
 
 ## Status
 

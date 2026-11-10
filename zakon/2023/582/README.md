@@ -103,7 +103,7 @@ Zakon o izmjenama i dopunama Zakona o zdravstvenoj zaštiti · 1 versions, from 
 | čl. 97 | [clanak-097.md](clanak-097.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2023-582` (tags `zakon-2023-582/<day>`; `python tools/on.py <day> zakon-2023-582`).
+Act id: `zakon-2023-582` (tags `zakon-2023-582/<day>`; `python registry/tools/on.py <day> zakon-2023-582`).
 
 ## Decisions made by hand
 

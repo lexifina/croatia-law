@@ -15,7 +15,7 @@ Uredba o izmjeni i dopunama Zakona o tržištu kapitala · 1 versions, from 2018
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2017-3010` (tags `uredba-2017-3010/<day>`; `python tools/on.py <day> uredba-2017-3010`).
+Act id: `uredba-2017-3010` (tags `uredba-2017-3010/<day>`; `python registry/tools/on.py <day> uredba-2017-3010`).
 
 ## Status
 

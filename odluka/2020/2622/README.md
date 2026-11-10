@@ -13,7 +13,7 @@ Odluka o utvrđivanju Osnovne liste lijekova Hrvatskog zavoda za zdravstveno osi
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2020-2622` (tags `odluka-2020-2622/<day>`; `python tools/on.py <day> odluka-2020-2622`).
+Act id: `odluka-2020-2622` (tags `odluka-2020-2622/<day>`; `python registry/tools/on.py <day> odluka-2020-2622`).
 
 ## Status
 

@@ -27,7 +27,7 @@ Pravilnik o postupku za ostvarivanje prava na sredstva iz naknade za korištenje
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2015-455` (tags `pravilnik-2015-455/<day>`; `python tools/on.py <day> pravilnik-2015-455`).
+Act id: `pravilnik-2015-455` (tags `pravilnik-2015-455/<day>`; `python registry/tools/on.py <day> pravilnik-2015-455`).
 
 ## Status
 

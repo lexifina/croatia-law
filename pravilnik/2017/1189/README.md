@@ -5,7 +5,7 @@ Pravilnik o jednokratnoj novčanoj pomoći i naknadi putnih i selidbenih troško
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `pravilnik-2017-1189` (tags `pravilnik-2017-1189/<day>`; `python tools/on.py <day> pravilnik-2017-1189`).
+Act id: `pravilnik-2017-1189` (tags `pravilnik-2017-1189/<day>`; `python registry/tools/on.py <day> pravilnik-2017-1189`).
 
 ## Decisions made by hand
 

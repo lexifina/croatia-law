@@ -12,7 +12,7 @@ Pravilnik o izmjenama i dopunama Pravilnika o vrstama i visini naknada za obavlj
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2011-2491` (tags `pravilnik-2011-2491/<day>`; `python tools/on.py <day> pravilnik-2011-2491`).
+Act id: `pravilnik-2011-2491` (tags `pravilnik-2011-2491/<day>`; `python registry/tools/on.py <day> pravilnik-2011-2491`).
 
 ## Decisions made by hand
 

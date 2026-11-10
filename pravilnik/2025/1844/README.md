@@ -15,7 +15,7 @@ Pravilnik o obrascu i načinu vođenja očevidnika o obavljenim inspekcijskim pr
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2025-1844` (tags `pravilnik-2025-1844/<day>`; `python tools/on.py <day> pravilnik-2025-1844`).
+Act id: `pravilnik-2025-1844` (tags `pravilnik-2025-1844/<day>`; `python registry/tools/on.py <day> pravilnik-2025-1844`).
 
 ## Decisions made by hand
 

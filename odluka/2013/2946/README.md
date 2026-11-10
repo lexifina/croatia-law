@@ -8,7 +8,7 @@ Odluka o obvezi rada ureda državne uprave radi provedbe državnog referenduma �
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2013-2946` (tags `odluka-2013-2946/<day>`; `python tools/on.py <day> odluka-2013-2946`).
+Act id: `odluka-2013-2946` (tags `odluka-2013-2946/<day>`; `python registry/tools/on.py <day> odluka-2013-2946`).
 
 ## Decisions made by hand
 

@@ -19,7 +19,7 @@ Pravilnik o uvjetima i načinu ispitivanja elektrokemijskih sustava zaštite · 
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2017-792` (tags `pravilnik-2017-792/<day>`; `python tools/on.py <day> pravilnik-2017-792`).
+Act id: `pravilnik-2017-792` (tags `pravilnik-2017-792/<day>`; `python registry/tools/on.py <day> pravilnik-2017-792`).
 
 ## Decisions made by hand
 

@@ -20,7 +20,7 @@ Zakon o izmjenama i dopunama Zakona o zakladama · 1 versions, from 2023-01-01 (
 | čl. 14 | [clanak-014.md](clanak-014.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2022-2345` (tags `zakon-2022-2345/<day>`; `python tools/on.py <day> zakon-2022-2345`).
+Act id: `zakon-2022-2345` (tags `zakon-2022-2345/<day>`; `python registry/tools/on.py <day> zakon-2022-2345`).
 
 ## Decisions made by hand
 

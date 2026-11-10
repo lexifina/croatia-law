@@ -21,7 +21,7 @@ Pravilnik o višestrukoj sukladnosti · 1 versions, from 2015-03-21 (latest in f
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2015-671` (tags `pravilnik-2015-671/<day>`; `python tools/on.py <day> pravilnik-2015-671`).
+Act id: `pravilnik-2015-671` (tags `pravilnik-2015-671/<day>`; `python registry/tools/on.py <day> pravilnik-2015-671`).
 
 ## Status
 

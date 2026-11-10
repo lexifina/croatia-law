@@ -8,7 +8,7 @@ Odluka o osnivanju Generalnog konzulata Republike Hrvatske u Ujedinjenim Arapski
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2018-1685` (tags `odluka-2018-1685/<day>`; `python tools/on.py <day> odluka-2018-1685`).
+Act id: `odluka-2018-1685` (tags `odluka-2018-1685/<day>`; `python registry/tools/on.py <day> odluka-2018-1685`).
 
 ## Decisions made by hand
 

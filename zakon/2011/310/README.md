@@ -33,7 +33,7 @@ Zakon o mirenju · 1 versions, from 2011-02-17 (latest in force: 2011-02-17) · 
 | čl. 27 | [clanak-027.md](clanak-027.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2011-310` (tags `zakon-2011-310/<day>`; `python tools/on.py <day> zakon-2011-310`).
+Act id: `zakon-2011-310` (tags `zakon-2011-310/<day>`; `python registry/tools/on.py <day> zakon-2011-310`).
 
 ## Status
 

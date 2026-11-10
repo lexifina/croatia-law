@@ -22,7 +22,7 @@ Pravilnik o izmjenama i dopunama Pravilnika o provedbi mjere Restrukturiranje i 
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2023-259` (tags `pravilnik-2023-259/<day>`; `python tools/on.py <day> pravilnik-2023-259`).
+Act id: `pravilnik-2023-259` (tags `pravilnik-2023-259/<day>`; `python registry/tools/on.py <day> pravilnik-2023-259`).
 
 ## Decisions made by hand
 

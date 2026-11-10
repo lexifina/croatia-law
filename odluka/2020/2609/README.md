@@ -25,7 +25,7 @@ Odluka o općinskim porezima Općine Zlatar Bistrica · 1 versions, from 2021-01
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2020-2609` (tags `odluka-2020-2609/<day>`; `python tools/on.py <day> odluka-2020-2609`).
+Act id: `odluka-2020-2609` (tags `odluka-2020-2609/<day>`; `python registry/tools/on.py <day> odluka-2020-2609`).
 
 ## Status
 

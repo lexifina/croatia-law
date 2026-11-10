@@ -9,7 +9,7 @@ Odluka o donošenju Dopuna Mreže telemedicinskih centara · 1 versions, from 20
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2024-368` (tags `odluka-2024-368/<day>`; `python tools/on.py <day> odluka-2024-368`).
+Act id: `odluka-2024-368` (tags `odluka-2024-368/<day>`; `python registry/tools/on.py <day> odluka-2024-368`).
 
 ## Decisions made by hand
 

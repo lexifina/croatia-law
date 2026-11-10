@@ -8,7 +8,7 @@ Odluka Hrvatske agencije za poštu i elektroničke komunikacije, klasa: o23-01/1
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2011-444` (tags `odluka-2011-444/<day>`; `python tools/on.py <day> odluka-2011-444`).
+Act id: `odluka-2011-444` (tags `odluka-2011-444/<day>`; `python registry/tools/on.py <day> odluka-2011-444`).
 
 ## Decisions made by hand
 

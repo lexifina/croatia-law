@@ -68,7 +68,7 @@ Pravilnik o registraciji i označavanju vozila Ministarstva obrana i Oružanih s
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2014-2505` (tags `pravilnik-2014-2505/<day>`; `python tools/on.py <day> pravilnik-2014-2505`).
+Act id: `pravilnik-2014-2505` (tags `pravilnik-2014-2505/<day>`; `python registry/tools/on.py <day> pravilnik-2014-2505`).
 
 ## Status
 

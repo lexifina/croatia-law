@@ -9,7 +9,7 @@ Uredba o izmjeni Uredbe o gospodarenju otpadnim baterijama i akumulatorima · 1 
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2020-1142` (tags `uredba-2020-1142/<day>`; `python tools/on.py <day> uredba-2020-1142`).
+Act id: `uredba-2020-1142` (tags `uredba-2020-1142/<day>`; `python registry/tools/on.py <day> uredba-2020-1142`).
 
 ## Decisions made by hand
 

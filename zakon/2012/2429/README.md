@@ -10,7 +10,7 @@ Zakon o izmjeni i dopuni Zakona o doplatku za djecu · 1 versions, from 2013-01-
 | čl. 4 | [clanak-004.md](clanak-004.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2012-2429` (tags `zakon-2012-2429/<day>`; `python tools/on.py <day> zakon-2012-2429`).
+Act id: `zakon-2012-2429` (tags `zakon-2012-2429/<day>`; `python registry/tools/on.py <day> zakon-2012-2429`).
 
 ## Decisions made by hand
 

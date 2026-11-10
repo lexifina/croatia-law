@@ -8,7 +8,7 @@ Odluka o utvrđivanju interesa Republike Hrvatske za izgradnju školske sportske
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2025-834` (tags `odluka-2025-834/<day>`; `python tools/on.py <day> odluka-2025-834`).
+Act id: `odluka-2025-834` (tags `odluka-2025-834/<day>`; `python registry/tools/on.py <day> odluka-2025-834`).
 
 ## Decisions made by hand
 

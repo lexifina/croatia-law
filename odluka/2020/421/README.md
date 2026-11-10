@@ -5,7 +5,7 @@ Odluka o razvrstavanju javnih cesta · 2 versions, from 2020-02-22 (latest in fo
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `odluka-2020-421` (tags `odluka-2020-421/<day>`; `python tools/on.py <day> odluka-2020-421`).
+Act id: `odluka-2020-421` (tags `odluka-2020-421/<day>`; `python registry/tools/on.py <day> odluka-2020-421`).
 
 ## Decisions made by hand
 

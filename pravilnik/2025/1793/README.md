@@ -16,7 +16,7 @@ Pravilnik o autobusnim kolodvorima · 1 versions, from 2025-10-09 (latest in for
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2025-1793` (tags `pravilnik-2025-1793/<day>`; `python tools/on.py <day> pravilnik-2025-1793`).
+Act id: `pravilnik-2025-1793` (tags `pravilnik-2025-1793/<day>`; `python registry/tools/on.py <day> pravilnik-2025-1793`).
 
 ## Decisions made by hand
 

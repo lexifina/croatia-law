@@ -40,7 +40,7 @@ Pravilnik o provedbi Nacionalne strategije za provedbu školske sheme voća i po
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2021-1672` (tags `pravilnik-2021-1672/<day>`; `python tools/on.py <day> pravilnik-2021-1672`).
+Act id: `pravilnik-2021-1672` (tags `pravilnik-2021-1672/<day>`; `python registry/tools/on.py <day> pravilnik-2021-1672`).
 
 ## Status
 

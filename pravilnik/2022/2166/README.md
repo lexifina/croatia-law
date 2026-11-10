@@ -10,7 +10,7 @@ Pravilnik o izmjenama Pravilnika o kapitalu leasing-društva · 1 versions, from
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2022-2166` (tags `pravilnik-2022-2166/<day>`; `python tools/on.py <day> pravilnik-2022-2166`).
+Act id: `pravilnik-2022-2166` (tags `pravilnik-2022-2166/<day>`; `python registry/tools/on.py <day> pravilnik-2022-2166`).
 
 ## Decisions made by hand
 

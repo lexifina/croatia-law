@@ -21,7 +21,7 @@ Pravilnik o zaštiti na radu pri uporabi radne opreme · 1 versions, from 2017-0
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2017-421` (tags `pravilnik-2017-421/<day>`; `python tools/on.py <day> pravilnik-2017-421`).
+Act id: `pravilnik-2017-421` (tags `pravilnik-2017-421/<day>`; `python registry/tools/on.py <day> pravilnik-2017-421`).
 
 ## Decisions made by hand
 

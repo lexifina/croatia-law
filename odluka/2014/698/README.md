@@ -8,7 +8,7 @@ Odluka o izmjeni Odluke o osnivanju Hrvatskog povjerenstva za suradnju s Organiz
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2014-698` (tags `odluka-2014-698/<day>`; `python tools/on.py <day> odluka-2014-698`).
+Act id: `odluka-2014-698` (tags `odluka-2014-698/<day>`; `python registry/tools/on.py <day> odluka-2014-698`).
 
 ## Decisions made by hand
 

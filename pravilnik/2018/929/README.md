@@ -8,7 +8,7 @@ Pravilnik o izmjeni i dopuni Pravilnika o uvjetima za izdavanje odobrenja za rad
 | čl. 2 | [clanak-002.md](clanak-002.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `pravilnik-2018-929` (tags `pravilnik-2018-929/<day>`; `python tools/on.py <day> pravilnik-2018-929`).
+Act id: `pravilnik-2018-929` (tags `pravilnik-2018-929/<day>`; `python registry/tools/on.py <day> pravilnik-2018-929`).
 
 ## Decisions made by hand
 

@@ -5,7 +5,7 @@ Odluka o donošenju Programa mjera obnove zgrada oštećenih potresom na područ
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `odluka-2023-473` (tags `odluka-2023-473/<day>`; `python tools/on.py <day> odluka-2023-473`).
+Act id: `odluka-2023-473` (tags `odluka-2023-473/<day>`; `python registry/tools/on.py <day> odluka-2023-473`).
 
 ## Decisions made by hand
 

@@ -8,7 +8,7 @@ Odluka o sazivanju prvog zasjedanja Hrvatskoga sabora · 1 versions, from 2024-0
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2024-959` (tags `odluka-2024-959/<day>`; `python tools/on.py <day> odluka-2024-959`).
+Act id: `odluka-2024-959` (tags `odluka-2024-959/<day>`; `python registry/tools/on.py <day> odluka-2024-959`).
 
 ## Decisions made by hand
 

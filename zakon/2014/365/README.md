@@ -43,7 +43,7 @@ Zakon o izmjenama Zakona o obnovi ugrožene spomeničke cjeline Dubrovnika · 1 
 | čl. 37 | [clanak-037.md](clanak-037.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2014-365` (tags `zakon-2014-365/<day>`; `python tools/on.py <day> zakon-2014-365`).
+Act id: `zakon-2014-365` (tags `zakon-2014-365/<day>`; `python registry/tools/on.py <day> zakon-2014-365`).
 
 ## Decisions made by hand
 

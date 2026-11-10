@@ -195,7 +195,7 @@ Zakon o javnoj nabavi · 1 versions, from 2012-01-01 (latest in force: 2012-01-0
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 
-Act id: `zakon-2011-1919` (tags `zakon-2011-1919/<day>`; `python tools/on.py <day> zakon-2011-1919`).
+Act id: `zakon-2011-1919` (tags `zakon-2011-1919/<day>`; `python registry/tools/on.py <day> zakon-2011-1919`).
 
 ## Status
 

@@ -25,7 +25,7 @@ Pravilnik o prikupljanju statističkih podataka o akvakulturi · 1 versions, fro
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2021-2262` (tags `pravilnik-2021-2262/<day>`; `python tools/on.py <day> pravilnik-2021-2262`).
+Act id: `pravilnik-2021-2262` (tags `pravilnik-2021-2262/<day>`; `python registry/tools/on.py <day> pravilnik-2021-2262`).
 
 ## Status
 

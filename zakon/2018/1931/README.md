@@ -25,7 +25,7 @@ Zakon o izmjenama i dopunama Zakona o lijekovima · 1 versions, from 2018-11-22 
 | čl. 19 | [clanak-019.md](clanak-019.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2018-1931` (tags `zakon-2018-1931/<day>`; `python tools/on.py <day> zakon-2018-1931`).
+Act id: `zakon-2018-1931` (tags `zakon-2018-1931/<day>`; `python registry/tools/on.py <day> zakon-2018-1931`).
 
 ## Decisions made by hand
 

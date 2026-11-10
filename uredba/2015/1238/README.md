@@ -179,7 +179,7 @@ Uredba o unutarnjem ustrojstvu Ministarstva pomorstva, prometa i infrastrukture 
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2015-1238` (tags `uredba-2015-1238/<day>`; `python tools/on.py <day> uredba-2015-1238`).
+Act id: `uredba-2015-1238` (tags `uredba-2015-1238/<day>`; `python registry/tools/on.py <day> uredba-2015-1238`).
 
 ## Status
 

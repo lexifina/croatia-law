@@ -9,7 +9,7 @@ Odluka o donošenju Izmjena i dopuna Plana gospodarenja otpadom Republike Hrvats
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2025-1456` (tags `odluka-2025-1456/<day>`; `python tools/on.py <day> odluka-2025-1456`).
+Act id: `odluka-2025-1456` (tags `odluka-2025-1456/<day>`; `python registry/tools/on.py <day> odluka-2025-1456`).
 
 ## Decisions made by hand
 

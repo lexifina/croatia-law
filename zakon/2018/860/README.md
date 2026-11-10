@@ -47,7 +47,7 @@ Zakon o izmjenama i dopunama Zakona o strancima · 1 versions, from 2018-05-26 (
 | čl. 41 | [clanak-041.md](clanak-041.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2018-860` (tags `zakon-2018-860/<day>`; `python tools/on.py <day> zakon-2018-860`).
+Act id: `zakon-2018-860` (tags `zakon-2018-860/<day>`; `python registry/tools/on.py <day> zakon-2018-860`).
 
 ## Decisions made by hand
 

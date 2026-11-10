@@ -8,7 +8,7 @@ Odluka o osnivanju Inovacijskog vijeća za industriju Republike Hrvatske · 1 ve
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2017-2956` (tags `odluka-2017-2956/<day>`; `python tools/on.py <day> odluka-2017-2956`).
+Act id: `odluka-2017-2956` (tags `odluka-2017-2956/<day>`; `python registry/tools/on.py <day> odluka-2017-2956`).
 
 ## Status
 

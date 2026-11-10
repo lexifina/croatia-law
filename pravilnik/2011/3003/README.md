@@ -9,7 +9,7 @@ Pravilnik o izmjeni i dopuni Pravilnika o stručnom nadzoru nad radom medicinski
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2011-3003` (tags `pravilnik-2011-3003/<day>`; `python tools/on.py <day> pravilnik-2011-3003`).
+Act id: `pravilnik-2011-3003` (tags `pravilnik-2011-3003/<day>`; `python registry/tools/on.py <day> pravilnik-2011-3003`).
 
 ## Decisions made by hand
 

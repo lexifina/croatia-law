@@ -20,7 +20,7 @@ Zakon o provedbi Uredbe (EU) br. 98/2013 Europskog parlamenta i Vijeća od 15. s
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 
-Act id: `zakon-2016-1063` (tags `zakon-2016-1063/<day>`; `python tools/on.py <day> zakon-2016-1063`).
+Act id: `zakon-2016-1063` (tags `zakon-2016-1063/<day>`; `python registry/tools/on.py <day> zakon-2016-1063`).
 
 ## Status
 

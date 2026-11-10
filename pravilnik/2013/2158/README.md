@@ -27,7 +27,7 @@ Pravilnik o obliku, sadržaju i načinu vođenja registra osoba koje obavljaju d
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2013-2158` (tags `pravilnik-2013-2158/<day>`; `python tools/on.py <day> pravilnik-2013-2158`).
+Act id: `pravilnik-2013-2158` (tags `pravilnik-2013-2158/<day>`; `python registry/tools/on.py <day> pravilnik-2013-2158`).
 
 ## Decisions made by hand
 

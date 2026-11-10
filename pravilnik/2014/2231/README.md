@@ -11,7 +11,7 @@ Pravilnik o izmjeni i dopuni Pravilnika o obavljanju gospodarskog ribolova na mo
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2014-2231` (tags `pravilnik-2014-2231/<day>`; `python tools/on.py <day> pravilnik-2014-2231`).
+Act id: `pravilnik-2014-2231` (tags `pravilnik-2014-2231/<day>`; `python registry/tools/on.py <day> pravilnik-2014-2231`).
 
 ## Decisions made by hand
 

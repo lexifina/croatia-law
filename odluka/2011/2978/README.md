@@ -19,7 +19,7 @@ Odluka o stopi doprinosa i iznosu članarine Hrvatskoj revizorskoj komori · 1 v
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2011-2978` (tags `odluka-2011-2978/<day>`; `python tools/on.py <day> odluka-2011-2978`).
+Act id: `odluka-2011-2978` (tags `odluka-2011-2978/<day>`; `python registry/tools/on.py <day> odluka-2011-2978`).
 
 ## Status
 

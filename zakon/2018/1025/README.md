@@ -13,7 +13,7 @@ Zakon o izmjenama i dopuni Zakona o Nacionalnoj infrastrukturi prostornih podata
 | čl. 7 | [clanak-007.md](clanak-007.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2018-1025` (tags `zakon-2018-1025/<day>`; `python tools/on.py <day> zakon-2018-1025`).
+Act id: `zakon-2018-1025` (tags `zakon-2018-1025/<day>`; `python registry/tools/on.py <day> zakon-2018-1025`).
 
 ## Decisions made by hand
 

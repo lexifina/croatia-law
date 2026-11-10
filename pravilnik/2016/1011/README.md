@@ -20,7 +20,7 @@ Pravilnik o obliku i sadržaju financijskih i dodatnih izvještaja društva za o
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2016-1011` (tags `pravilnik-2016-1011/<day>`; `python tools/on.py <day> pravilnik-2016-1011`).
+Act id: `pravilnik-2016-1011` (tags `pravilnik-2016-1011/<day>`; `python registry/tools/on.py <day> pravilnik-2016-1011`).
 
 ## Status
 

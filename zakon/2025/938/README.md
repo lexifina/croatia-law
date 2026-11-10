@@ -15,7 +15,7 @@ Zakon o izmjenama i dopunama Zakona o društveno poticanoj stanogradnji · 1 ver
 | čl. 9 | [clanak-009.md](clanak-009.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2025-938` (tags `zakon-2025-938/<day>`; `python tools/on.py <day> zakon-2025-938`).
+Act id: `zakon-2025-938` (tags `zakon-2025-938/<day>`; `python registry/tools/on.py <day> zakon-2025-938`).
 
 ## Decisions made by hand
 

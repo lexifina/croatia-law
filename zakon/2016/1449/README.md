@@ -16,7 +16,7 @@ Zakon o izmjenama i dopunama Zakona o informiranju potrošača o hrani · 1 vers
 | čl. 10 | [clanak-010.md](clanak-010.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2016-1449` (tags `zakon-2016-1449/<day>`; `python tools/on.py <day> zakon-2016-1449`).
+Act id: `zakon-2016-1449` (tags `zakon-2016-1449/<day>`; `python registry/tools/on.py <day> zakon-2016-1449`).
 
 ## Decisions made by hand
 

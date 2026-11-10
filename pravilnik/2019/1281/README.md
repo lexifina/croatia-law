@@ -9,7 +9,7 @@ Pravilnik o stavljanju izvan snage Pravilnika o osnovama financiranja visoke nao
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2019-1281` (tags `pravilnik-2019-1281/<day>`; `python tools/on.py <day> pravilnik-2019-1281`).
+Act id: `pravilnik-2019-1281` (tags `pravilnik-2019-1281/<day>`; `python registry/tools/on.py <day> pravilnik-2019-1281`).
 
 ## Decisions made by hand
 

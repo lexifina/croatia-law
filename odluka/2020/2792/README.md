@@ -9,7 +9,7 @@ Odluka o najvišem postotku naknade depozitaru za 2021. godinu · 1 versions, fr
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2020-2792` (tags `odluka-2020-2792/<day>`; `python tools/on.py <day> odluka-2020-2792`).
+Act id: `odluka-2020-2792` (tags `odluka-2020-2792/<day>`; `python registry/tools/on.py <day> odluka-2020-2792`).
 
 ## Decisions made by hand
 

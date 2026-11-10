@@ -30,7 +30,7 @@ Pravilnik o određivanju visine stvarnih troškova uporabe podataka dokumentacij
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2018-1238` (tags `pravilnik-2018-1238/<day>`; `python tools/on.py <day> pravilnik-2018-1238`).
+Act id: `pravilnik-2018-1238` (tags `pravilnik-2018-1238/<day>`; `python registry/tools/on.py <day> pravilnik-2018-1238`).
 
 ## Status
 

@@ -10,7 +10,7 @@ Pravilnik o najmanjem iznosu pokrića odgovornosti za željezničke prijevoznike
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2019-1178` (tags `pravilnik-2019-1178/<day>`; `python tools/on.py <day> pravilnik-2019-1178`).
+Act id: `pravilnik-2019-1178` (tags `pravilnik-2019-1178/<day>`; `python registry/tools/on.py <day> pravilnik-2019-1178`).
 
 ## Decisions made by hand
 

@@ -10,7 +10,7 @@ Pravilnik o izmjenama Pravilnika o organizacijskim zahtjevima za Mirovinsko dru≈
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2026-913` (tags `pravilnik-2026-913/<day>`; `python tools/on.py <day> pravilnik-2026-913`).
+Act id: `pravilnik-2026-913` (tags `pravilnik-2026-913/<day>`; `python registry/tools/on.py <day> pravilnik-2026-913`).
 
 ## Decisions made by hand
 

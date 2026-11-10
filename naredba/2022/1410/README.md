@@ -5,7 +5,7 @@ Naredba o mjerama suzbijanja i sprječavanja pojave bedrenice na području Repub
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `naredba-2022-1410` (tags `naredba-2022-1410/<day>`; `python tools/on.py <day> naredba-2022-1410`).
+Act id: `naredba-2022-1410` (tags `naredba-2022-1410/<day>`; `python registry/tools/on.py <day> naredba-2022-1410`).
 
 ## Decisions made by hand
 

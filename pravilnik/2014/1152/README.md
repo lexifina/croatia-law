@@ -10,7 +10,7 @@ Pravilnik o izmjenama Pravilnika o javnim ispravama u obrazovanju odraslih · 1 
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2014-1152` (tags `pravilnik-2014-1152/<day>`; `python tools/on.py <day> pravilnik-2014-1152`).
+Act id: `pravilnik-2014-1152` (tags `pravilnik-2014-1152/<day>`; `python registry/tools/on.py <day> pravilnik-2014-1152`).
 
 ## Decisions made by hand
 

@@ -9,7 +9,7 @@ Pravilnik o stavljanju izvan snage Pravilnika o sadržaju i načinu vođenja Reg
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2013-2902` (tags `pravilnik-2013-2902/<day>`; `python tools/on.py <day> pravilnik-2013-2902`).
+Act id: `pravilnik-2013-2902` (tags `pravilnik-2013-2902/<day>`; `python registry/tools/on.py <day> pravilnik-2013-2902`).
 
 ## Decisions made by hand
 

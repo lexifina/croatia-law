@@ -18,7 +18,7 @@ Uredba o jedinstvenom sučelju za formalnosti u pomorskom prometu · 1 versions,
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2026-1316` (tags `uredba-2026-1316/<day>`; `python tools/on.py <day> uredba-2026-1316`).
+Act id: `uredba-2026-1316` (tags `uredba-2026-1316/<day>`; `python registry/tools/on.py <day> uredba-2026-1316`).
 
 ## Decisions made by hand
 

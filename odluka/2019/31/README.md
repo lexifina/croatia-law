@@ -9,7 +9,7 @@ Odluka o donošenju Smjernica politike državnih potpora za razdoblje 2019. - 20
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2019-31` (tags `odluka-2019-31/<day>`; `python tools/on.py <day> odluka-2019-31`).
+Act id: `odluka-2019-31` (tags `odluka-2019-31/<day>`; `python registry/tools/on.py <day> odluka-2019-31`).
 
 ## Decisions made by hand
 

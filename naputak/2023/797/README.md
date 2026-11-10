@@ -9,7 +9,7 @@ Naputak o izmjenama i dopunama Naputka o načinu uplaćivanja prihoda proračuna
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `naputak-2023-797` (tags `naputak-2023-797/<day>`; `python tools/on.py <day> naputak-2023-797`).
+Act id: `naputak-2023-797` (tags `naputak-2023-797/<day>`; `python registry/tools/on.py <day> naputak-2023-797`).
 
 ## Decisions made by hand
 

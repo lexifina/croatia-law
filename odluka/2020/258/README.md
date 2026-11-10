@@ -9,7 +9,7 @@ Odluka o usklađenju sredstava jamstvenog pologa za 2020. godinu · 1 versions, 
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2020-258` (tags `odluka-2020-258/<day>`; `python tools/on.py <day> odluka-2020-258`).
+Act id: `odluka-2020-258` (tags `odluka-2020-258/<day>`; `python registry/tools/on.py <day> odluka-2020-258`).
 
 ## Decisions made by hand
 

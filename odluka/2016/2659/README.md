@@ -5,7 +5,7 @@ Odluka o visini otpremnine za državne službenike i namještenike Ministarstva 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `odluka-2016-2659` (tags `odluka-2016-2659/<day>`; `python tools/on.py <day> odluka-2016-2659`).
+Act id: `odluka-2016-2659` (tags `odluka-2016-2659/<day>`; `python registry/tools/on.py <day> odluka-2016-2659`).
 
 ## Decisions made by hand
 

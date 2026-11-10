@@ -28,7 +28,7 @@ Pravilnik o izboru i načinu ostvarivanja prava osoba koje pružaju njegu i pomo
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2025-2368` (tags `pravilnik-2025-2368/<day>`; `python tools/on.py <day> pravilnik-2025-2368`).
+Act id: `pravilnik-2025-2368` (tags `pravilnik-2025-2368/<day>`; `python registry/tools/on.py <day> pravilnik-2025-2368`).
 
 ## Decisions made by hand
 

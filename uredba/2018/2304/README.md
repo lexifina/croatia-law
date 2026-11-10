@@ -11,7 +11,7 @@ Uredba o dopunama Uredbe o unutarnjem ustrojstvu Središnjeg državnog ureda za 
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2018-2304` (tags `uredba-2018-2304/<day>`; `python tools/on.py <day> uredba-2018-2304`).
+Act id: `uredba-2018-2304` (tags `uredba-2018-2304/<day>`; `python registry/tools/on.py <day> uredba-2018-2304`).
 
 ## Decisions made by hand
 

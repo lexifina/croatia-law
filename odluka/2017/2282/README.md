@@ -8,7 +8,7 @@ Odluka o katastarskoj izmjeri na području Grada Lipika za katastarsku općinu B
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2017-2282` (tags `odluka-2017-2282/<day>`; `python tools/on.py <day> odluka-2017-2282`).
+Act id: `odluka-2017-2282` (tags `odluka-2017-2282/<day>`; `python registry/tools/on.py <day> odluka-2017-2282`).
 
 ## Decisions made by hand
 

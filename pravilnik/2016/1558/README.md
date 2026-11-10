@@ -26,7 +26,7 @@ Pravilnik o izmjenama i dopunama Pravilnika o stavljanju na tržište sjemena ž
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2016-1558` (tags `pravilnik-2016-1558/<day>`; `python tools/on.py <day> pravilnik-2016-1558`).
+Act id: `pravilnik-2016-1558` (tags `pravilnik-2016-1558/<day>`; `python registry/tools/on.py <day> pravilnik-2016-1558`).
 
 ## Decisions made by hand
 

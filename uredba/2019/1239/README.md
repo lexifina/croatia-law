@@ -11,7 +11,7 @@ Uredba o izmjeni Uredbe o Uredu za udruge · 1 versions, from 2019-07-06 (latest
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2019-1239` (tags `uredba-2019-1239/<day>`; `python tools/on.py <day> uredba-2019-1239`).
+Act id: `uredba-2019-1239` (tags `uredba-2019-1239/<day>`; `python registry/tools/on.py <day> uredba-2019-1239`).
 
 ## Decisions made by hand
 

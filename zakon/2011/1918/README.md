@@ -41,7 +41,7 @@ Zakon o procjeni učinaka propisa · 1 versions, from 2012-01-01 (latest in forc
 | čl. 35 | [clanak-035.md](clanak-035.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2011-1918` (tags `zakon-2011-1918/<day>`; `python tools/on.py <day> zakon-2011-1918`).
+Act id: `zakon-2011-1918` (tags `zakon-2011-1918/<day>`; `python registry/tools/on.py <day> zakon-2011-1918`).
 
 ## Status
 

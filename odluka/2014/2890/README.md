@@ -11,7 +11,7 @@ Odluka o općinskim porezima Općine Konavle · 1 versions, from 2015-01-01 (lat
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2014-2890` (tags `odluka-2014-2890/<day>`; `python tools/on.py <day> odluka-2014-2890`).
+Act id: `odluka-2014-2890` (tags `odluka-2014-2890/<day>`; `python registry/tools/on.py <day> odluka-2014-2890`).
 
 ## Status
 

@@ -8,7 +8,7 @@ Odluka o izmjeni Odluke o obveznoj uporabi zimske opreme na zimskim dionicama ja
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2023-1960` (tags `odluka-2023-1960/<day>`; `python tools/on.py <day> odluka-2023-1960`).
+Act id: `odluka-2023-1960` (tags `odluka-2023-1960/<day>`; `python registry/tools/on.py <day> odluka-2023-1960`).
 
 ## Decisions made by hand
 

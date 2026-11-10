@@ -22,7 +22,7 @@ Pravilnik o rublju, odjeći, obući i posteljini za zatvorenike · 1 versions, f
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2022-997` (tags `pravilnik-2022-997/<day>`; `python tools/on.py <day> pravilnik-2022-997`).
+Act id: `pravilnik-2022-997` (tags `pravilnik-2022-997/<day>`; `python registry/tools/on.py <day> pravilnik-2022-997`).
 
 ## Decisions made by hand
 

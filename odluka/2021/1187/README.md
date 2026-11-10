@@ -19,7 +19,7 @@ Odluka o uvjetima za prijam učenika prvih razreda srednjih škola u učeničke 
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2021-1187` (tags `odluka-2021-1187/<day>`; `python tools/on.py <day> odluka-2021-1187`).
+Act id: `odluka-2021-1187` (tags `odluka-2021-1187/<day>`; `python registry/tools/on.py <day> odluka-2021-1187`).
 
 ## Decisions made by hand
 

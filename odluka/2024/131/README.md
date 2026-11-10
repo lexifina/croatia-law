@@ -8,7 +8,7 @@ Odluka o dopuni Odluke o koordinaciji aktivnosti unutar okvira za gospodarsko up
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2024-131` (tags `odluka-2024-131/<day>`; `python tools/on.py <day> odluka-2024-131`).
+Act id: `odluka-2024-131` (tags `odluka-2024-131/<day>`; `python registry/tools/on.py <day> odluka-2024-131`).
 
 ## Decisions made by hand
 

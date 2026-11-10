@@ -9,7 +9,7 @@ Pravilnik o dopuni Pravilnika o načinu utvrđivanja visine sredstava koje Repub
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2023-1237` (tags `pravilnik-2023-1237/<day>`; `python tools/on.py <day> pravilnik-2023-1237`).
+Act id: `pravilnik-2023-1237` (tags `pravilnik-2023-1237/<day>`; `python registry/tools/on.py <day> pravilnik-2023-1237`).
 
 ## Decisions made by hand
 

@@ -12,7 +12,7 @@ Pravilnik o iznosu i načinu isplate naknade za rad Povjerenstva za utvrđivanje
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2014-2736` (tags `pravilnik-2014-2736/<day>`; `python tools/on.py <day> pravilnik-2014-2736`).
+Act id: `pravilnik-2014-2736` (tags `pravilnik-2014-2736/<day>`; `python registry/tools/on.py <day> pravilnik-2014-2736`).
 
 ## Decisions made by hand
 

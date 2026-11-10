@@ -11,7 +11,7 @@ Naputak o izmjenama i dopunama Naputka o načinu uplaćivanja prihoda proračuna
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `naputak-2021-1372` (tags `naputak-2021-1372/<day>`; `python tools/on.py <day> naputak-2021-1372`).
+Act id: `naputak-2021-1372` (tags `naputak-2021-1372/<day>`; `python registry/tools/on.py <day> naputak-2021-1372`).
 
 ## Decisions made by hand
 

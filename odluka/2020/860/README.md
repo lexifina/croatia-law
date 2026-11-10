@@ -9,7 +9,7 @@ Odluka o usvajanju Izmjena i dopune Programa »Mikro i mali zajmovi za ruralni r
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2020-860` (tags `odluka-2020-860/<day>`; `python tools/on.py <day> odluka-2020-860`).
+Act id: `odluka-2020-860` (tags `odluka-2020-860/<day>`; `python registry/tools/on.py <day> odluka-2020-860`).
 
 ## Decisions made by hand
 

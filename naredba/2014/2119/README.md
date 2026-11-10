@@ -9,7 +9,7 @@ Naredba o izmjenama Naredbe o vremenu otvorenosti aerodroma · 1 versions, from 
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `naredba-2014-2119` (tags `naredba-2014-2119/<day>`; `python tools/on.py <day> naredba-2014-2119`).
+Act id: `naredba-2014-2119` (tags `naredba-2014-2119/<day>`; `python registry/tools/on.py <day> naredba-2014-2119`).
 
 ## Decisions made by hand
 

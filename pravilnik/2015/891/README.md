@@ -12,7 +12,7 @@ Pravilnik o obliku i načinu vođenja evidencije o izdanim rješenjima o odobren
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2015-891` (tags `pravilnik-2015-891/<day>`; `python tools/on.py <day> pravilnik-2015-891`).
+Act id: `pravilnik-2015-891` (tags `pravilnik-2015-891/<day>`; `python registry/tools/on.py <day> pravilnik-2015-891`).
 
 ## Decisions made by hand
 

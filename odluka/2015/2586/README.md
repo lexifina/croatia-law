@@ -9,7 +9,7 @@ Odluka o utvrđivanju Liste izmiritelja Centra za mirenje pri Hrvatskoj komori i
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2015-2586` (tags `odluka-2015-2586/<day>`; `python tools/on.py <day> odluka-2015-2586`).
+Act id: `odluka-2015-2586` (tags `odluka-2015-2586/<day>`; `python registry/tools/on.py <day> odluka-2015-2586`).
 
 ## Decisions made by hand
 

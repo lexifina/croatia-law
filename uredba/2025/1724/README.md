@@ -10,7 +10,7 @@ Uredba o izmjeni Uredbe o mjesečnom iznosu naknade za ugroženog kupca energena
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2025-1724` (tags `uredba-2025-1724/<day>`; `python tools/on.py <day> uredba-2025-1724`).
+Act id: `uredba-2025-1724` (tags `uredba-2025-1724/<day>`; `python registry/tools/on.py <day> uredba-2025-1724`).
 
 ## Decisions made by hand
 

@@ -7,7 +7,7 @@ Zakon o izmjenama i dopunama Zakona o nadzoru državne granice · 1 versions, fr
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 
-Act id: `zakon-2011-2610` (tags `zakon-2011-2610/<day>`; `python tools/on.py <day> zakon-2011-2610`).
+Act id: `zakon-2011-2610` (tags `zakon-2011-2610/<day>`; `python registry/tools/on.py <day> zakon-2011-2610`).
 
 ## Decisions made by hand
 

@@ -8,7 +8,7 @@ Zakon o izmjeni Zakona o javnim ovršiteljima · 1 versions, from 2012-06-28 (la
 | čl. 2 | [clanak-002.md](clanak-002.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2012-1640` (tags `zakon-2012-1640/<day>`; `python tools/on.py <day> zakon-2012-1640`).
+Act id: `zakon-2012-1640` (tags `zakon-2012-1640/<day>`; `python registry/tools/on.py <day> zakon-2012-1640`).
 
 ## Decisions made by hand
 

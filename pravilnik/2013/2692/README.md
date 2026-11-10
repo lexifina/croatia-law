@@ -42,7 +42,7 @@ Pravilnik o praćenju štetnih događaja vezano uz medicinske proizvode · 1 ver
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2013-2692` (tags `pravilnik-2013-2692/<day>`; `python tools/on.py <day> pravilnik-2013-2692`).
+Act id: `pravilnik-2013-2692` (tags `pravilnik-2013-2692/<day>`; `python registry/tools/on.py <day> pravilnik-2013-2692`).
 
 ## Decisions made by hand
 

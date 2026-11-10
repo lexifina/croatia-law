@@ -17,7 +17,7 @@ Pravilnik o obrascu i načinu vođenja očevidnika o obavljenim nadzorima prosvj
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2012-2702` (tags `pravilnik-2012-2702/<day>`; `python tools/on.py <day> pravilnik-2012-2702`).
+Act id: `pravilnik-2012-2702` (tags `pravilnik-2012-2702/<day>`; `python registry/tools/on.py <day> pravilnik-2012-2702`).
 
 ## Decisions made by hand
 

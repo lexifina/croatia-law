@@ -13,7 +13,7 @@ Zakon o izmjenama Zakona o postupanju i uvjetima gradnje radi poticanja ulaganja
 | čl. 7 | [clanak-007.md](clanak-007.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2012-2885` (tags `zakon-2012-2885/<day>`; `python tools/on.py <day> zakon-2012-2885`).
+Act id: `zakon-2012-2885` (tags `zakon-2012-2885/<day>`; `python registry/tools/on.py <day> zakon-2012-2885`).
 
 ## Decisions made by hand
 

@@ -165,7 +165,7 @@ Zakon o zaštiti zraka · 1 versions, from 2011-11-24 (latest in force: 2011-11-
 | čl. 159 | [clanak-159.md](clanak-159.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2011-2601` (tags `zakon-2011-2601/<day>`; `python tools/on.py <day> zakon-2011-2601`).
+Act id: `zakon-2011-2601` (tags `zakon-2011-2601/<day>`; `python registry/tools/on.py <day> zakon-2011-2601`).
 
 ## Status
 

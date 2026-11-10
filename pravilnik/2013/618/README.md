@@ -10,7 +10,7 @@ Pravilnik o mjerama za suzbijanje i iskorjenjivanje tuberkuloze goveda · 1 vers
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2013-618` (tags `pravilnik-2013-618/<day>`; `python tools/on.py <day> pravilnik-2013-618`).
+Act id: `pravilnik-2013-618` (tags `pravilnik-2013-618/<day>`; `python registry/tools/on.py <day> pravilnik-2013-618`).
 
 ## Status
 

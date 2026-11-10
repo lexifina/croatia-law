@@ -5,7 +5,7 @@ Uredba o naknadi štete po osnovi otuđenja mineralne sirovine · 2 versions, fr
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `uredba-2019-1044` (tags `uredba-2019-1044/<day>`; `python tools/on.py <day> uredba-2019-1044`).
+Act id: `uredba-2019-1044` (tags `uredba-2019-1044/<day>`; `python registry/tools/on.py <day> uredba-2019-1044`).
 
 ## Decisions made by hand
 

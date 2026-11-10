@@ -10,7 +10,7 @@ Pravilnik o visini nagrade odvjetniku određenom za branitelja po službenoj du�
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2012-2231` (tags `pravilnik-2012-2231/<day>`; `python tools/on.py <day> pravilnik-2012-2231`).
+Act id: `pravilnik-2012-2231` (tags `pravilnik-2012-2231/<day>`; `python registry/tools/on.py <day> pravilnik-2012-2231`).
 
 ## Status
 

@@ -5,7 +5,7 @@ Uredba o unutarnjem ustrojstvu Ministarstva vanjskih i europskih poslova · 2 ve
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `uredba-2020-1812` (tags `uredba-2020-1812/<day>`; `python tools/on.py <day> uredba-2020-1812`).
+Act id: `uredba-2020-1812` (tags `uredba-2020-1812/<day>`; `python registry/tools/on.py <day> uredba-2020-1812`).
 
 ## Decisions made by hand
 

@@ -9,7 +9,7 @@ Pravilnik o izmjeni Pravilnika o sufinanciranju projekata odobrenih u okviru pro
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2016-2423` (tags `pravilnik-2016-2423/<day>`; `python tools/on.py <day> pravilnik-2016-2423`).
+Act id: `pravilnik-2016-2423` (tags `pravilnik-2016-2423/<day>`; `python registry/tools/on.py <day> pravilnik-2016-2423`).
 
 ## Decisions made by hand
 

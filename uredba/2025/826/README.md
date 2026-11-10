@@ -58,7 +58,7 @@ Uredba o postupcima koji prethode sklapanju pravnih poslova raspolaganja nekretn
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2025-826` (tags `uredba-2025-826/<day>`; `python tools/on.py <day> uredba-2025-826`).
+Act id: `uredba-2025-826` (tags `uredba-2025-826/<day>`; `python registry/tools/on.py <day> uredba-2025-826`).
 
 ## Decisions made by hand
 

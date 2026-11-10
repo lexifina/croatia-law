@@ -96,7 +96,7 @@ Pravilnik o postupku procjene rizika od pranja novca i financiranja terorizma te
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2024-1865` (tags `pravilnik-2024-1865/<day>`; `python tools/on.py <day> pravilnik-2024-1865`).
+Act id: `pravilnik-2024-1865` (tags `pravilnik-2024-1865/<day>`; `python registry/tools/on.py <day> pravilnik-2024-1865`).
 
 ## Decisions made by hand
 

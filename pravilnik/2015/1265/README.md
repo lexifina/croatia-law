@@ -21,7 +21,7 @@ Pravilnik o sadržaju i načinu vođenja evidencije i dokumentacije te načinu i
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2015-1265` (tags `pravilnik-2015-1265/<day>`; `python tools/on.py <day> pravilnik-2015-1265`).
+Act id: `pravilnik-2015-1265` (tags `pravilnik-2015-1265/<day>`; `python registry/tools/on.py <day> pravilnik-2015-1265`).
 
 ## Status
 

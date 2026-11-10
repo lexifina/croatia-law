@@ -27,7 +27,7 @@ Pravilnik o izdavanju znanstvenog mišljenja i pružanju znanstvene i tehničke 
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2024-2541` (tags `pravilnik-2024-2541/<day>`; `python tools/on.py <day> pravilnik-2024-2541`).
+Act id: `pravilnik-2024-2541` (tags `pravilnik-2024-2541/<day>`; `python registry/tools/on.py <day> pravilnik-2024-2541`).
 
 ## Decisions made by hand
 

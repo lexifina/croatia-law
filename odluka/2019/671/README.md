@@ -8,7 +8,7 @@ Odluka o davanju suglasnosti na Odluku Skupštine Ličko-senjske županije o izm
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2019-671` (tags `odluka-2019-671/<day>`; `python tools/on.py <day> odluka-2019-671`).
+Act id: `odluka-2019-671` (tags `odluka-2019-671/<day>`; `python registry/tools/on.py <day> odluka-2019-671`).
 
 ## Decisions made by hand
 

@@ -73,7 +73,7 @@ Zakon o izmjenama i dopunama Zakona o alternativnim investicijskim fondovima · 
 | čl. 67 | [clanak-067.md](clanak-067.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2019-2527` (tags `zakon-2019-2527/<day>`; `python tools/on.py <day> zakon-2019-2527`).
+Act id: `zakon-2019-2527` (tags `zakon-2019-2527/<day>`; `python registry/tools/on.py <day> zakon-2019-2527`).
 
 ## Decisions made by hand
 

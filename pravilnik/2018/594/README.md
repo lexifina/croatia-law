@@ -9,7 +9,7 @@ Pravilnik o lovostaju trpova (Holothuroidea) · 1 versions, from 2018-03-29 (lat
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2018-594` (tags `pravilnik-2018-594/<day>`; `python tools/on.py <day> pravilnik-2018-594`).
+Act id: `pravilnik-2018-594` (tags `pravilnik-2018-594/<day>`; `python registry/tools/on.py <day> pravilnik-2018-594`).
 
 ## Status
 

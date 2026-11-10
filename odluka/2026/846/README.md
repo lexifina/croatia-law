@@ -8,7 +8,7 @@ Odluka o iznosu osnovice za određivanje prava iz Zakona o civilnim stradalnicim
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2026-846` (tags `odluka-2026-846/<day>`; `python tools/on.py <day> odluka-2026-846`).
+Act id: `odluka-2026-846` (tags `odluka-2026-846/<day>`; `python registry/tools/on.py <day> odluka-2026-846`).
 
 ## Decisions made by hand
 

@@ -10,7 +10,7 @@ Pravilnik o dopuni Pravilnika o izvještavanju Hrvatske agencije za nadzor finan
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2026-911` (tags `pravilnik-2026-911/<day>`; `python tools/on.py <day> pravilnik-2026-911`).
+Act id: `pravilnik-2026-911` (tags `pravilnik-2026-911/<day>`; `python registry/tools/on.py <day> pravilnik-2026-911`).
 
 ## Decisions made by hand
 

@@ -9,7 +9,7 @@ Odluka o trajnom ograničenju stavljanja na tržište, distribucije i prodaje ug
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2019-1510` (tags `odluka-2019-1510/<day>`; `python tools/on.py <day> odluka-2019-1510`).
+Act id: `odluka-2019-1510` (tags `odluka-2019-1510/<day>`; `python registry/tools/on.py <day> odluka-2019-1510`).
 
 ## Decisions made by hand
 

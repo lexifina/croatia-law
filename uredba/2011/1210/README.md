@@ -14,7 +14,7 @@ Uredba o izmjenama i dopuni Uredbe o Uredu za udruge · 1 versions, from 2011-05
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2011-1210` (tags `uredba-2011-1210/<day>`; `python tools/on.py <day> uredba-2011-1210`).
+Act id: `uredba-2011-1210` (tags `uredba-2011-1210/<day>`; `python registry/tools/on.py <day> uredba-2011-1210`).
 
 ## Decisions made by hand
 

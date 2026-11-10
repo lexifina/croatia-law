@@ -9,7 +9,7 @@ Odluka o smjernici 21.: Pojedinosti u vezi s ugovaranjem zakonske revizije s vi≈
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2026-57` (tags `odluka-2026-57/<day>`; `python tools/on.py <day> odluka-2026-57`).
+Act id: `odluka-2026-57` (tags `odluka-2026-57/<day>`; `python registry/tools/on.py <day> odluka-2026-57`).
 
 ## Decisions made by hand
 

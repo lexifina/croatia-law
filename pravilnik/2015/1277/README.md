@@ -107,7 +107,7 @@ Pravilnik o izmjenama i dopunama Pravilnika o minimalnim uvjetima za pružanje s
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2015-1277` (tags `pravilnik-2015-1277/<day>`; `python tools/on.py <day> pravilnik-2015-1277`).
+Act id: `pravilnik-2015-1277` (tags `pravilnik-2015-1277/<day>`; `python registry/tools/on.py <day> pravilnik-2015-1277`).
 
 ## Decisions made by hand
 

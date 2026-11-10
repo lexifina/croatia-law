@@ -24,7 +24,7 @@ Pravilnik o agrotehničkim mjerama · 1 versions, from 2019-03-14 (latest in for
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2019-452` (tags `pravilnik-2019-452/<day>`; `python tools/on.py <day> pravilnik-2019-452`).
+Act id: `pravilnik-2019-452` (tags `pravilnik-2019-452/<day>`; `python registry/tools/on.py <day> pravilnik-2019-452`).
 
 ## Status
 

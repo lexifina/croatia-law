@@ -8,7 +8,7 @@ Odluka o izmjeni Odluke o osnivanju Nacionalnog vijeÄ‡a za digitalnu ekonomiju Â
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2017-1928` (tags `odluka-2017-1928/<day>`; `python tools/on.py <day> odluka-2017-1928`).
+Act id: `odluka-2017-1928` (tags `odluka-2017-1928/<day>`; `python registry/tools/on.py <day> odluka-2017-1928`).
 
 ## Decisions made by hand
 

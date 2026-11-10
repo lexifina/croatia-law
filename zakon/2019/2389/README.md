@@ -14,7 +14,7 @@ Zakon o izmjenama i dopuni Zakona o posebnom porezu na kavu i bezalkoholna pića
 | čl. 8 | [clanak-008.md](clanak-008.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2019-2389` (tags `zakon-2019-2389/<day>`; `python tools/on.py <day> zakon-2019-2389`).
+Act id: `zakon-2019-2389` (tags `zakon-2019-2389/<day>`; `python registry/tools/on.py <day> zakon-2019-2389`).
 
 ## Decisions made by hand
 

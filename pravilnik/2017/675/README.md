@@ -91,7 +91,7 @@ Pravilnik o provedbi Općeg poreznog zakona · 1 versions, from 2017-04-04 (late
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2017-675` (tags `pravilnik-2017-675/<day>`; `python tools/on.py <day> pravilnik-2017-675`).
+Act id: `pravilnik-2017-675` (tags `pravilnik-2017-675/<day>`; `python registry/tools/on.py <day> pravilnik-2017-675`).
 
 ## Status
 

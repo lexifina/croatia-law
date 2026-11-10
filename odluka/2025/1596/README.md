@@ -8,7 +8,7 @@ Odluka o katastarskoj izmjeri na području Općine Brinje za dijelove katastarsk
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2025-1596` (tags `odluka-2025-1596/<day>`; `python tools/on.py <day> odluka-2025-1596`).
+Act id: `odluka-2025-1596` (tags `odluka-2025-1596/<day>`; `python registry/tools/on.py <day> odluka-2025-1596`).
 
 ## Decisions made by hand
 

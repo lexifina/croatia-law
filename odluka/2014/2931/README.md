@@ -9,7 +9,7 @@ Odluka o iznosu tarifnih stavki za javnu uslugu opskrbe plinom za 2015. godinu Â
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2014-2931` (tags `odluka-2014-2931/<day>`; `python tools/on.py <day> odluka-2014-2931`).
+Act id: `odluka-2014-2931` (tags `odluka-2014-2931/<day>`; `python registry/tools/on.py <day> odluka-2014-2931`).
 
 ## Status
 

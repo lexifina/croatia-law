@@ -5,7 +5,7 @@ Pravilnik o vrstama i visini naknada Financijskoj agenciji za uslugu javne objav
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `pravilnik-2016-5` (tags `pravilnik-2016-5/<day>`; `python tools/on.py <day> pravilnik-2016-5`).
+Act id: `pravilnik-2016-5` (tags `pravilnik-2016-5/<day>`; `python registry/tools/on.py <day> pravilnik-2016-5`).
 
 ## Decisions made by hand
 

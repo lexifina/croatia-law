@@ -8,7 +8,7 @@ Odluka o visini naknade troškova izborne promidžbe za izbor zastupnika u Hrvat
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2015-2104` (tags `odluka-2015-2104/<day>`; `python tools/on.py <day> odluka-2015-2104`).
+Act id: `odluka-2015-2104` (tags `odluka-2015-2104/<day>`; `python registry/tools/on.py <day> odluka-2015-2104`).
 
 ## Status
 

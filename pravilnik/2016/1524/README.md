@@ -19,7 +19,7 @@ Pravilnik o prijavljivanju stvarnih ili potencijalnih kršenja Uredbe (EU) br. 5
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2016-1524` (tags `pravilnik-2016-1524/<day>`; `python tools/on.py <day> pravilnik-2016-1524`).
+Act id: `pravilnik-2016-1524` (tags `pravilnik-2016-1524/<day>`; `python registry/tools/on.py <day> pravilnik-2016-1524`).
 
 ## Status
 

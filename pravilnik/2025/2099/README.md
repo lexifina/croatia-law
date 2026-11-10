@@ -59,7 +59,7 @@ Pravilnik o postupanju s oduzetom i ustupljenom robom · 1 versions, from 2025-1
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2025-2099` (tags `pravilnik-2025-2099/<day>`; `python tools/on.py <day> pravilnik-2025-2099`).
+Act id: `pravilnik-2025-2099` (tags `pravilnik-2025-2099/<day>`; `python registry/tools/on.py <day> pravilnik-2025-2099`).
 
 ## Decisions made by hand
 

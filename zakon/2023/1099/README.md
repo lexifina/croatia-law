@@ -39,7 +39,7 @@ Zakon o mirnom rješavanju sporova · 1 versions, from 2023-06-29 (latest in for
 | čl. 33 | [clanak-033.md](clanak-033.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2023-1099` (tags `zakon-2023-1099/<day>`; `python tools/on.py <day> zakon-2023-1099`).
+Act id: `zakon-2023-1099` (tags `zakon-2023-1099/<day>`; `python registry/tools/on.py <day> zakon-2023-1099`).
 
 ## Status
 

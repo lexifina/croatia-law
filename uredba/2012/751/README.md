@@ -36,7 +36,7 @@ Uredba o unutarnjem ustrojstvu Državnog ureda za središnju javnu nabavu · 1 v
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2012-751` (tags `uredba-2012-751/<day>`; `python tools/on.py <day> uredba-2012-751`).
+Act id: `uredba-2012-751` (tags `uredba-2012-751/<day>`; `python registry/tools/on.py <day> uredba-2012-751`).
 
 ## Status
 

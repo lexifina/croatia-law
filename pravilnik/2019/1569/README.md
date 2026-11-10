@@ -8,7 +8,7 @@ Pravilnik o stavljanju izvan snage Pravilnika o ograničavanju uporabe pojedinih
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2019-1569` (tags `pravilnik-2019-1569/<day>`; `python tools/on.py <day> pravilnik-2019-1569`).
+Act id: `pravilnik-2019-1569` (tags `pravilnik-2019-1569/<day>`; `python registry/tools/on.py <day> pravilnik-2019-1569`).
 
 ## Decisions made by hand
 

@@ -53,7 +53,7 @@ Zakon o izmjenama i dopunama Zakona o socijalnoj skrbi · 1 versions, from 2025-
 | čl. 47 | [clanak-047.md](clanak-047.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2025-800` (tags `zakon-2025-800/<day>`; `python tools/on.py <day> zakon-2025-800`).
+Act id: `zakon-2025-800` (tags `zakon-2025-800/<day>`; `python registry/tools/on.py <day> zakon-2025-800`).
 
 ## Decisions made by hand
 

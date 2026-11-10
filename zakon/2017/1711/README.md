@@ -44,7 +44,7 @@ Zakon o izmjenama i dopunama Zakona o elektroničkim komunikacijama · 1 version
 | čl. 38 | [clanak-038.md](clanak-038.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2017-1711` (tags `zakon-2017-1711/<day>`; `python tools/on.py <day> zakon-2017-1711`).
+Act id: `zakon-2017-1711` (tags `zakon-2017-1711/<day>`; `python registry/tools/on.py <day> zakon-2017-1711`).
 
 ## Decisions made by hand
 

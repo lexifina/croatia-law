@@ -13,7 +13,7 @@ Uredba o pripajanju Društvenog veleučilišta u Zagrebu Sveučilištu u Zagrebu
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2011-2253` (tags `uredba-2011-2253/<day>`; `python tools/on.py <day> uredba-2011-2253`).
+Act id: `uredba-2011-2253` (tags `uredba-2011-2253/<day>`; `python registry/tools/on.py <day> uredba-2011-2253`).
 
 ## Decisions made by hand
 

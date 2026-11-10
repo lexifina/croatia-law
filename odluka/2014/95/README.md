@@ -8,7 +8,7 @@ Odluka o utvrđivanju nadležnih tijela za upravljanje i kontrolu provedbe Opera
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2014-95` (tags `odluka-2014-95/<day>`; `python tools/on.py <day> odluka-2014-95`).
+Act id: `odluka-2014-95` (tags `odluka-2014-95/<day>`; `python registry/tools/on.py <day> odluka-2014-95`).
 
 ## Decisions made by hand
 

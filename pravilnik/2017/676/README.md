@@ -14,7 +14,7 @@ Pravilnik o utvrđivanju visine nagrada i naknada troškova zastupniku po služb
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2017-676` (tags `pravilnik-2017-676/<day>`; `python tools/on.py <day> pravilnik-2017-676`).
+Act id: `pravilnik-2017-676` (tags `pravilnik-2017-676/<day>`; `python registry/tools/on.py <day> pravilnik-2017-676`).
 
 ## Status
 

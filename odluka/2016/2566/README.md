@@ -8,7 +8,7 @@ Odluka kojom se utvrđuje lista miritelja Gospodarsko-socijalnog vijeća za kole
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2016-2566` (tags `odluka-2016-2566/<day>`; `python tools/on.py <day> odluka-2016-2566`).
+Act id: `odluka-2016-2566` (tags `odluka-2016-2566/<day>`; `python registry/tools/on.py <day> odluka-2016-2566`).
 
 ## Decisions made by hand
 

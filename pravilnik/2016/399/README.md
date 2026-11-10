@@ -9,7 +9,7 @@ Pravilnik o izmjeni Pravilnika o provedbi privremenih izvanrednih mjera potpore 
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2016-399` (tags `pravilnik-2016-399/<day>`; `python tools/on.py <day> pravilnik-2016-399`).
+Act id: `pravilnik-2016-399` (tags `pravilnik-2016-399/<day>`; `python registry/tools/on.py <day> pravilnik-2016-399`).
 
 ## Status
 

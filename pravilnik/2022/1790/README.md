@@ -20,7 +20,7 @@ Pravilnik o načinu isticanja maloprodajne cijene i cijene za jedinicu mjere pro
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2022-1790` (tags `pravilnik-2022-1790/<day>`; `python tools/on.py <day> pravilnik-2022-1790`).
+Act id: `pravilnik-2022-1790` (tags `pravilnik-2022-1790/<day>`; `python registry/tools/on.py <day> pravilnik-2022-1790`).
 
 ## Status
 

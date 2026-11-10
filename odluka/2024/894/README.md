@@ -8,7 +8,7 @@ Odluka o katastarskoj izmjeri na području Općine Lekenik za dio katastarske op
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2024-894` (tags `odluka-2024-894/<day>`; `python tools/on.py <day> odluka-2024-894`).
+Act id: `odluka-2024-894` (tags `odluka-2024-894/<day>`; `python registry/tools/on.py <day> odluka-2024-894`).
 
 ## Decisions made by hand
 

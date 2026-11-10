@@ -10,7 +10,7 @@ Pravilnik o izmjeni Pravilnika o ovlašćivanju službenih i referentnih laborat
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2011-130` (tags `pravilnik-2011-130/<day>`; `python tools/on.py <day> pravilnik-2011-130`).
+Act id: `pravilnik-2011-130` (tags `pravilnik-2011-130/<day>`; `python registry/tools/on.py <day> pravilnik-2011-130`).
 
 ## Decisions made by hand
 

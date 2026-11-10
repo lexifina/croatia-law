@@ -8,7 +8,7 @@ Odluka o prestanku važenja Odluke o osnivanju Vijeća za domovinsku sigurnost P
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2020-459` (tags `odluka-2020-459/<day>`; `python tools/on.py <day> odluka-2020-459`).
+Act id: `odluka-2020-459` (tags `odluka-2020-459/<day>`; `python registry/tools/on.py <day> odluka-2020-459`).
 
 ## Decisions made by hand
 

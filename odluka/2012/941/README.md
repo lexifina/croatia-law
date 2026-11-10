@@ -11,7 +11,7 @@ Odluka o osnovici za određivanje naknade zbog tjelesnog oštećenja i o usklađ
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2012-941` (tags `odluka-2012-941/<day>`; `python tools/on.py <day> odluka-2012-941`).
+Act id: `odluka-2012-941` (tags `odluka-2012-941/<day>`; `python registry/tools/on.py <day> odluka-2012-941`).
 
 ## Decisions made by hand
 

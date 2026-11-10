@@ -14,7 +14,7 @@ Odluka o izmjenama i dopunama Statuta stranke LiPO · 1 versions, from 2024-12-1
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2025-178` (tags `odluka-2025-178/<day>`; `python tools/on.py <day> odluka-2025-178`).
+Act id: `odluka-2025-178` (tags `odluka-2025-178/<day>`; `python registry/tools/on.py <day> odluka-2025-178`).
 
 ## Decisions made by hand
 

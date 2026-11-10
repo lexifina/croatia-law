@@ -85,7 +85,7 @@ Statut Hrvatske komore ovlaštenih inženjera geodezije · 1 versions, from 2018
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `statut-2018-2113` (tags `statut-2018-2113/<day>`; `python tools/on.py <day> statut-2018-2113`).
+Act id: `statut-2018-2113` (tags `statut-2018-2113/<day>`; `python registry/tools/on.py <day> statut-2018-2113`).
 
 ## Decisions made by hand
 

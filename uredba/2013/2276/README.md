@@ -9,7 +9,7 @@ Uredba o prestanku važenja Uredbe o Popisu robe vojne namjene i Popisu nevojnih
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2013-2276` (tags `uredba-2013-2276/<day>`; `python tools/on.py <day> uredba-2013-2276`).
+Act id: `uredba-2013-2276` (tags `uredba-2013-2276/<day>`; `python registry/tools/on.py <day> uredba-2013-2276`).
 
 ## Decisions made by hand
 

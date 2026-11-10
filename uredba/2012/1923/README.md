@@ -10,7 +10,7 @@ Uredba o izmjeni Uredbe o osnivanju Agencije za regionalni razvoj Republike Hrva
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2012-1923` (tags `uredba-2012-1923/<day>`; `python tools/on.py <day> uredba-2012-1923`).
+Act id: `uredba-2012-1923` (tags `uredba-2012-1923/<day>`; `python registry/tools/on.py <day> uredba-2012-1923`).
 
 ## Decisions made by hand
 

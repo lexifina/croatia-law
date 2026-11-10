@@ -9,7 +9,7 @@ Zakon o dopuni Zakona o mirovinskom osiguranju · 1 versions, from 2012-01-01 (l
 | čl. 3 | [clanak-003.md](clanak-003.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2011-2223` (tags `zakon-2011-2223/<day>`; `python tools/on.py <day> zakon-2011-2223`).
+Act id: `zakon-2011-2223` (tags `zakon-2011-2223/<day>`; `python registry/tools/on.py <day> zakon-2011-2223`).
 
 ## Decisions made by hand
 

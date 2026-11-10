@@ -9,7 +9,7 @@ Pravilnik o izmjenama Pravilnika o uvjetima za članstvo u upravi i nadzornom od
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2026-557` (tags `pravilnik-2026-557/<day>`; `python tools/on.py <day> pravilnik-2026-557`).
+Act id: `pravilnik-2026-557` (tags `pravilnik-2026-557/<day>`; `python registry/tools/on.py <day> pravilnik-2026-557`).
 
 ## Decisions made by hand
 

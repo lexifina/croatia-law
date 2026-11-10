@@ -22,7 +22,7 @@ Pravilnik o provedbi Programa potpore gospodarstvima zbog narušenog proizvodnog
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2023-1923` (tags `pravilnik-2023-1923/<day>`; `python tools/on.py <day> pravilnik-2023-1923`).
+Act id: `pravilnik-2023-1923` (tags `pravilnik-2023-1923/<day>`; `python registry/tools/on.py <day> pravilnik-2023-1923`).
 
 ## Status
 

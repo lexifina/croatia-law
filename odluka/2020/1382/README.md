@@ -8,7 +8,7 @@ Odluka o zatvaranju Konzulata Republike Hrvatske u Republici Azerbajdžanu, sa s
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2020-1382` (tags `odluka-2020-1382/<day>`; `python tools/on.py <day> odluka-2020-1382`).
+Act id: `odluka-2020-1382` (tags `odluka-2020-1382/<day>`; `python registry/tools/on.py <day> odluka-2020-1382`).
 
 ## Decisions made by hand
 

@@ -78,7 +78,7 @@ Statut Hrvatske komore poreznih savjetnika · 1 versions, from 2011-12-15 (lates
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `statut-2011-2952` (tags `statut-2011-2952/<day>`; `python tools/on.py <day> statut-2011-2952`).
+Act id: `statut-2011-2952` (tags `statut-2011-2952/<day>`; `python registry/tools/on.py <day> statut-2011-2952`).
 
 ## Status
 

@@ -11,7 +11,7 @@ Zakon o izmjenama i dopuni Zakona o porezu na dohodak · 1 versions, from 2011-1
 | čl. 5 | [clanak-005.md](clanak-005.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2011-2227` (tags `zakon-2011-2227/<day>`; `python tools/on.py <day> zakon-2011-2227`).
+Act id: `zakon-2011-2227` (tags `zakon-2011-2227/<day>`; `python registry/tools/on.py <day> zakon-2011-2227`).
 
 ## Decisions made by hand
 

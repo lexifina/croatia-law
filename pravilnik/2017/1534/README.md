@@ -50,7 +50,7 @@ Pravilnik o dokumentaciji o nabavi te ponudi u postupcima javne nabave · 1 vers
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2017-1534` (tags `pravilnik-2017-1534/<day>`; `python tools/on.py <day> pravilnik-2017-1534`).
+Act id: `pravilnik-2017-1534` (tags `pravilnik-2017-1534/<day>`; `python registry/tools/on.py <day> pravilnik-2017-1534`).
 
 ## Status
 

@@ -49,7 +49,7 @@ Zakon o izmjenama i dopunama Zakona o poljoprivrednom zemljištu · 1 versions, 
 | čl. 43 | [clanak-043.md](clanak-043.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2015-936` (tags `zakon-2015-936/<day>`; `python tools/on.py <day> zakon-2015-936`).
+Act id: `zakon-2015-936` (tags `zakon-2015-936/<day>`; `python registry/tools/on.py <day> zakon-2015-936`).
 
 ## Decisions made by hand
 

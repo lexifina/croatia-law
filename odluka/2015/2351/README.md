@@ -9,7 +9,7 @@ Odluka o donošenju nastavnog plana i programa izborne nastave iz nastavnog pred
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2015-2351` (tags `odluka-2015-2351/<day>`; `python tools/on.py <day> odluka-2015-2351`).
+Act id: `odluka-2015-2351` (tags `odluka-2015-2351/<day>`; `python registry/tools/on.py <day> odluka-2015-2351`).
 
 ## Status
 

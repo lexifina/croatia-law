@@ -72,7 +72,7 @@ Statut Hrvatske radiotelevizije · 1 versions, from 2011-05-20 (latest in force:
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `statut-2011-1248` (tags `statut-2011-1248/<day>`; `python tools/on.py <day> statut-2011-1248`).
+Act id: `statut-2011-1248` (tags `statut-2011-1248/<day>`; `python registry/tools/on.py <day> statut-2011-1248`).
 
 ## Status
 

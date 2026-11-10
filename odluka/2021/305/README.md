@@ -8,7 +8,7 @@ Odluka o uvođenju nužne epidemiološke mjere zabrane posjete korisnicima unuta
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2021-305` (tags `odluka-2021-305/<day>`; `python tools/on.py <day> odluka-2021-305`).
+Act id: `odluka-2021-305` (tags `odluka-2021-305/<day>`; `python registry/tools/on.py <day> odluka-2021-305`).
 
 ## Decisions made by hand
 

@@ -5,7 +5,7 @@ Odluka o nužnoj mjeri pojačane kontrole provođenja Upute za sprječavanje i s
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `odluka-2020-1885` (tags `odluka-2020-1885/<day>`; `python tools/on.py <day> odluka-2020-1885`).
+Act id: `odluka-2020-1885` (tags `odluka-2020-1885/<day>`; `python registry/tools/on.py <day> odluka-2020-1885`).
 
 ## Decisions made by hand
 

@@ -15,7 +15,7 @@ Odluka o dodatnim i izmijenjenim uvjetima za otvaranje i funkcioniranje PM raču
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2015-2565` (tags `odluka-2015-2565/<day>`; `python tools/on.py <day> odluka-2015-2565`).
+Act id: `odluka-2015-2565` (tags `odluka-2015-2565/<day>`; `python registry/tools/on.py <day> odluka-2015-2565`).
 
 ## Status
 

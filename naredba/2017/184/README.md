@@ -13,7 +13,7 @@ Naredba o visini naknade za isprave i knjige koje izdaju lučke kapetanije · 1 
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `naredba-2017-184` (tags `naredba-2017-184/<day>`; `python tools/on.py <day> naredba-2017-184`).
+Act id: `naredba-2017-184` (tags `naredba-2017-184/<day>`; `python registry/tools/on.py <day> naredba-2017-184`).
 
 ## Status
 

@@ -36,7 +36,7 @@ Pravilnik o izmjenama i dopunama Pravilnika o davanju odobrenja za stavljanje li
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2020-659` (tags `pravilnik-2020-659/<day>`; `python tools/on.py <day> pravilnik-2020-659`).
+Act id: `pravilnik-2020-659` (tags `pravilnik-2020-659/<day>`; `python registry/tools/on.py <day> pravilnik-2020-659`).
 
 ## Decisions made by hand
 

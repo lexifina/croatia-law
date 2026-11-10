@@ -19,7 +19,7 @@ Uredba o darovanju nekretnina u vlasništvu Republike Hrvatske · 1 versions, fr
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2011-2436` (tags `uredba-2011-2436/<day>`; `python tools/on.py <day> uredba-2011-2436`).
+Act id: `uredba-2011-2436` (tags `uredba-2011-2436/<day>`; `python registry/tools/on.py <day> uredba-2011-2436`).
 
 ## Status
 

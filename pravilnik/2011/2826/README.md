@@ -23,7 +23,7 @@ Pravilnik o stručnim ispitima u području zaštite od požara · 1 versions, fr
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2011-2826` (tags `pravilnik-2011-2826/<day>`; `python tools/on.py <day> pravilnik-2011-2826`).
+Act id: `pravilnik-2011-2826` (tags `pravilnik-2011-2826/<day>`; `python registry/tools/on.py <day> pravilnik-2011-2826`).
 
 ## Status
 

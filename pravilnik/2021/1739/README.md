@@ -13,7 +13,7 @@ Pravilnik o izgledu i sadržaju obrasca o prodaji ili pokušaju transakcije stre
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2021-1739` (tags `pravilnik-2021-1739/<day>`; `python tools/on.py <day> pravilnik-2021-1739`).
+Act id: `pravilnik-2021-1739` (tags `pravilnik-2021-1739/<day>`; `python registry/tools/on.py <day> pravilnik-2021-1739`).
 
 ## Decisions made by hand
 

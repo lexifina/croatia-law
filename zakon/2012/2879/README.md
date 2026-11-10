@@ -21,7 +21,7 @@ Zakon o izmjenama i dopunama Općeg poreznog zakona · 1 versions, from 2012-12-
 | čl. 15 | [clanak-015.md](clanak-015.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2012-2879` (tags `zakon-2012-2879/<day>`; `python tools/on.py <day> zakon-2012-2879`).
+Act id: `zakon-2012-2879` (tags `zakon-2012-2879/<day>`; `python registry/tools/on.py <day> zakon-2012-2879`).
 
 ## Decisions made by hand
 

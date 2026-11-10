@@ -14,7 +14,7 @@ Pravilnik o izmjenama i dopunama Pravilnika o reviziji u mirovinskom osiguravaju
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2025-2082` (tags `pravilnik-2025-2082/<day>`; `python tools/on.py <day> pravilnik-2025-2082`).
+Act id: `pravilnik-2025-2082` (tags `pravilnik-2025-2082/<day>`; `python registry/tools/on.py <day> pravilnik-2025-2082`).
 
 ## Decisions made by hand
 

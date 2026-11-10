@@ -5,7 +5,7 @@ Pravilnik o stručnom osposobljavanju za polaganje revizorskog ispita, revizorsk
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `pravilnik-2019-1139` (tags `pravilnik-2019-1139/<day>`; `python tools/on.py <day> pravilnik-2019-1139`).
+Act id: `pravilnik-2019-1139` (tags `pravilnik-2019-1139/<day>`; `python registry/tools/on.py <day> pravilnik-2019-1139`).
 
 ## Decisions made by hand
 

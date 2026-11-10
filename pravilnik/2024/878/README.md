@@ -13,7 +13,7 @@ Pravilnik o obliku i sadržaju dodatnih informacija potrebnih za provedbu nadzor
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2024-878` (tags `pravilnik-2024-878/<day>`; `python tools/on.py <day> pravilnik-2024-878`).
+Act id: `pravilnik-2024-878` (tags `pravilnik-2024-878/<day>`; `python registry/tools/on.py <day> pravilnik-2024-878`).
 
 ## Decisions made by hand
 

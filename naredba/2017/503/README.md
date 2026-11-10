@@ -18,7 +18,7 @@ Naredba o poduzimanju mjera za sprječavanje širenja i suzbijanje štetnog orga
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `naredba-2017-503` (tags `naredba-2017-503/<day>`; `python tools/on.py <day> naredba-2017-503`).
+Act id: `naredba-2017-503` (tags `naredba-2017-503/<day>`; `python registry/tools/on.py <day> naredba-2017-503`).
 
 ## Status
 

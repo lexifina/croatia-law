@@ -10,7 +10,7 @@ Uredba o izmjeni Uredbe o Agenciji za pravni promet i posredovanje nekretninama 
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2025-1840` (tags `uredba-2025-1840/<day>`; `python tools/on.py <day> uredba-2025-1840`).
+Act id: `uredba-2025-1840` (tags `uredba-2025-1840/<day>`; `python registry/tools/on.py <day> uredba-2025-1840`).
 
 ## Decisions made by hand
 

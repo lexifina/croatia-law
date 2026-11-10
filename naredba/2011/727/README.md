@@ -8,7 +8,7 @@ Naredba o razvrstaju luka otvorenih za javni promet na području Dubrovačko-ner
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `naredba-2011-727` (tags `naredba-2011-727/<day>`; `python tools/on.py <day> naredba-2011-727`).
+Act id: `naredba-2011-727` (tags `naredba-2011-727/<day>`; `python registry/tools/on.py <day> naredba-2011-727`).
 
 ## Status
 

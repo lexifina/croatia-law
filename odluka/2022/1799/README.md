@@ -8,7 +8,7 @@ Odluka o katastarskoj izmjeri na području Općine Mrkopalj za dijelove k.o. Sun
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2022-1799` (tags `odluka-2022-1799/<day>`; `python tools/on.py <day> odluka-2022-1799`).
+Act id: `odluka-2022-1799` (tags `odluka-2022-1799/<day>`; `python registry/tools/on.py <day> odluka-2022-1799`).
 
 ## Decisions made by hand
 

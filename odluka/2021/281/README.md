@@ -5,7 +5,7 @@ Odluka o osnivanju Vijeća za djecu · 2 versions, from 2021-02-11 (latest in fo
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `odluka-2021-281` (tags `odluka-2021-281/<day>`; `python tools/on.py <day> odluka-2021-281`).
+Act id: `odluka-2021-281` (tags `odluka-2021-281/<day>`; `python registry/tools/on.py <day> odluka-2021-281`).
 
 ## Decisions made by hand
 

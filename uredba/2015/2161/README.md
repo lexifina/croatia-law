@@ -13,7 +13,7 @@ Uredba o gospodarenju otpadnim vozilima · 1 versions, from 2015-10-24 (latest i
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2015-2161` (tags `uredba-2015-2161/<day>`; `python tools/on.py <day> uredba-2015-2161`).
+Act id: `uredba-2015-2161` (tags `uredba-2015-2161/<day>`; `python registry/tools/on.py <day> uredba-2015-2161`).
 
 ## Status
 

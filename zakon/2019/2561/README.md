@@ -20,7 +20,7 @@ Zakon o izmjenama Zakona o ustrojstvu i djelokrugu ministarstava i drugih sredi≈
 | ƒçl. 14 | [clanak-014.md](clanak-014.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2019-2561` (tags `zakon-2019-2561/<day>`; `python tools/on.py <day> zakon-2019-2561`).
+Act id: `zakon-2019-2561` (tags `zakon-2019-2561/<day>`; `python registry/tools/on.py <day> zakon-2019-2561`).
 
 ## Decisions made by hand
 

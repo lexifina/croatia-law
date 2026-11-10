@@ -28,7 +28,7 @@ Uredba o načinu trgovanja emisijskim jedinicama stakleničkih plinova · 1 vers
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2025-2388` (tags `uredba-2025-2388/<day>`; `python tools/on.py <day> uredba-2025-2388`).
+Act id: `uredba-2025-2388` (tags `uredba-2025-2388/<day>`; `python registry/tools/on.py <day> uredba-2025-2388`).
 
 ## Decisions made by hand
 

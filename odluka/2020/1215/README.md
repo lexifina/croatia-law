@@ -8,7 +8,7 @@ Odluka o izmjeni Odluke o osnivanju Lučke uprave Zadar · 1 versions, from 2020
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2020-1215` (tags `odluka-2020-1215/<day>`; `python tools/on.py <day> odluka-2020-1215`).
+Act id: `odluka-2020-1215` (tags `odluka-2020-1215/<day>`; `python registry/tools/on.py <day> odluka-2020-1215`).
 
 ## Decisions made by hand
 

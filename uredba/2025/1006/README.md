@@ -14,7 +14,7 @@ Uredba o izmjenama Uredbe o osnivanju Javne ustanove »Park prirode Učka« · 1
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2025-1006` (tags `uredba-2025-1006/<day>`; `python tools/on.py <day> uredba-2025-1006`).
+Act id: `uredba-2025-1006` (tags `uredba-2025-1006/<day>`; `python registry/tools/on.py <day> uredba-2025-1006`).
 
 ## Decisions made by hand
 

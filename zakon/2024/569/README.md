@@ -36,7 +36,7 @@ Zakon o izmjenama i dopunama Zakona o kaznenom postupku · 1 versions, from 2024
 | čl. 30 | [clanak-030.md](clanak-030.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2024-569` (tags `zakon-2024-569/<day>`; `python tools/on.py <day> zakon-2024-569`).
+Act id: `zakon-2024-569` (tags `zakon-2024-569/<day>`; `python registry/tools/on.py <day> zakon-2024-569`).
 
 ## Decisions made by hand
 

@@ -10,7 +10,7 @@ Zakon o izmjeni i dopunama Zakona o potrošačkom kreditiranju · 1 versions, fr
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 
-Act id: `zakon-2015-1973` (tags `zakon-2015-1973/<day>`; `python tools/on.py <day> zakon-2015-1973`).
+Act id: `zakon-2015-1973` (tags `zakon-2015-1973/<day>`; `python registry/tools/on.py <day> zakon-2015-1973`).
 
 ## Decisions made by hand
 

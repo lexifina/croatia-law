@@ -13,7 +13,7 @@ Pravilnik o uvjetima i postupku za odobrenje nastavka rada zdravstvenog radnika 
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2012-3160` (tags `pravilnik-2012-3160/<day>`; `python tools/on.py <day> pravilnik-2012-3160`).
+Act id: `pravilnik-2012-3160` (tags `pravilnik-2012-3160/<day>`; `python registry/tools/on.py <day> pravilnik-2012-3160`).
 
 ## Decisions made by hand
 

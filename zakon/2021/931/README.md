@@ -29,7 +29,7 @@ Zakon o izmjenama i dopunama Zakona o dentalnoj medicini · 1 versions, from 202
 | čl. 23 | [clanak-023.md](clanak-023.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2021-931` (tags `zakon-2021-931/<day>`; `python tools/on.py <day> zakon-2021-931`).
+Act id: `zakon-2021-931` (tags `zakon-2021-931/<day>`; `python registry/tools/on.py <day> zakon-2021-931`).
 
 ## Decisions made by hand
 

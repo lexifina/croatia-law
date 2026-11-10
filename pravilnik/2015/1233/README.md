@@ -11,7 +11,7 @@ Pravilnik o izmjenama i dopunama Pravilnika o rasporedu sredstava za financiranj
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2015-1233` (tags `pravilnik-2015-1233/<day>`; `python tools/on.py <day> pravilnik-2015-1233`).
+Act id: `pravilnik-2015-1233` (tags `pravilnik-2015-1233/<day>`; `python registry/tools/on.py <day> pravilnik-2015-1233`).
 
 ## Decisions made by hand
 

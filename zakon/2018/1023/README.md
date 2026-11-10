@@ -81,7 +81,7 @@ Zakon o upravljanju državnom imovinom · 1 versions, from 2018-06-14 (latest in
 | čl. 75 | [clanak-075.md](clanak-075.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2018-1023` (tags `zakon-2018-1023/<day>`; `python tools/on.py <day> zakon-2018-1023`).
+Act id: `zakon-2018-1023` (tags `zakon-2018-1023/<day>`; `python registry/tools/on.py <day> zakon-2018-1023`).
 
 ## Status
 

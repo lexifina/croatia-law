@@ -8,7 +8,7 @@ Odluka o izmjenama i dopuni Odluke o koncesiji pomorskog dobra u svrhu izgradnje
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2016-1900` (tags `odluka-2016-1900/<day>`; `python tools/on.py <day> odluka-2016-1900`).
+Act id: `odluka-2016-1900` (tags `odluka-2016-1900/<day>`; `python registry/tools/on.py <day> odluka-2016-1900`).
 
 ## Decisions made by hand
 

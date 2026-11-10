@@ -29,7 +29,7 @@ Pravilnik o postupku provjere rudarskih projekata · 1 versions, from 2013-12-21
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2013-3176` (tags `pravilnik-2013-3176/<day>`; `python tools/on.py <day> pravilnik-2013-3176`).
+Act id: `pravilnik-2013-3176` (tags `pravilnik-2013-3176/<day>`; `python registry/tools/on.py <day> pravilnik-2013-3176`).
 
 ## Status
 

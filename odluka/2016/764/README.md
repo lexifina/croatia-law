@@ -10,7 +10,7 @@ Odluka o osnovici za određivanje naknade zbog tjelesnog oštećenja i o usklađ
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2016-764` (tags `odluka-2016-764/<day>`; `python tools/on.py <day> odluka-2016-764`).
+Act id: `odluka-2016-764` (tags `odluka-2016-764/<day>`; `python registry/tools/on.py <day> odluka-2016-764`).
 
 ## Decisions made by hand
 

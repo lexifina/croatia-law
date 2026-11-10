@@ -8,7 +8,7 @@ Odluka o puštanju u optjecaj kovanog novca kuna i lipa s oznakom godine kovanja
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2016-1193` (tags `odluka-2016-1193/<day>`; `python tools/on.py <day> odluka-2016-1193`).
+Act id: `odluka-2016-1193` (tags `odluka-2016-1193/<day>`; `python registry/tools/on.py <day> odluka-2016-1193`).
 
 ## Decisions made by hand
 

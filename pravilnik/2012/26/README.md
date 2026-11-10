@@ -13,7 +13,7 @@ Pravilnik o izmjenama i dopunama Pravilnika o stručnom nadzoru nad radom stanic
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2012-26` (tags `pravilnik-2012-26/<day>`; `python tools/on.py <day> pravilnik-2012-26`).
+Act id: `pravilnik-2012-26` (tags `pravilnik-2012-26/<day>`; `python registry/tools/on.py <day> pravilnik-2012-26`).
 
 ## Decisions made by hand
 

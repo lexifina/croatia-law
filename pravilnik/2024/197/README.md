@@ -9,7 +9,7 @@ Pravilnik o izmjenama Pravilnika o stručnom osposobljavanju ovlaštenih osoba u
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2024-197` (tags `pravilnik-2024-197/<day>`; `python tools/on.py <day> pravilnik-2024-197`).
+Act id: `pravilnik-2024-197` (tags `pravilnik-2024-197/<day>`; `python registry/tools/on.py <day> pravilnik-2024-197`).
 
 ## Decisions made by hand
 

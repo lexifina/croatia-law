@@ -8,7 +8,7 @@ Zakon o izmjeni Zakona o upravljanju javnim ustanovama u kulturi · 1 versions, 
 | čl. 2 | [clanak-002.md](clanak-002.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2019-1949` (tags `zakon-2019-1949/<day>`; `python tools/on.py <day> zakon-2019-1949`).
+Act id: `zakon-2019-1949` (tags `zakon-2019-1949/<day>`; `python registry/tools/on.py <day> zakon-2019-1949`).
 
 ## Decisions made by hand
 

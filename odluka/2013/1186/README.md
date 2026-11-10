@@ -19,7 +19,7 @@ Odluka o prikupljanju podataka s ostvarenim platnim transakcijama s inozemstvom 
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2013-1186` (tags `odluka-2013-1186/<day>`; `python tools/on.py <day> odluka-2013-1186`).
+Act id: `odluka-2013-1186` (tags `odluka-2013-1186/<day>`; `python registry/tools/on.py <day> odluka-2013-1186`).
 
 ## Status
 

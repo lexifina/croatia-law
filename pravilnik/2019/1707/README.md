@@ -20,7 +20,7 @@ Pravilnik o sljedivosti za plavoperajnu tunu i igluna · 1 versions, from 2020-0
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2019-1707` (tags `pravilnik-2019-1707/<day>`; `python tools/on.py <day> pravilnik-2019-1707`).
+Act id: `pravilnik-2019-1707` (tags `pravilnik-2019-1707/<day>`; `python registry/tools/on.py <day> pravilnik-2019-1707`).
 
 ## Status
 

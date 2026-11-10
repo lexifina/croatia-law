@@ -12,7 +12,7 @@ Uredba o izmjenama i dopunama Uredbe o uspostavi sustava jamstva podrijetla elek
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2015-2101` (tags `uredba-2015-2101/<day>`; `python tools/on.py <day> uredba-2015-2101`).
+Act id: `uredba-2015-2101` (tags `uredba-2015-2101/<day>`; `python registry/tools/on.py <day> uredba-2015-2101`).
 
 ## Decisions made by hand
 

@@ -10,7 +10,7 @@ Pravilnik o izmjeni Pravilnika o ambalaži i ambalažnom otpadu · 1 versions, f
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2013-705` (tags `pravilnik-2013-705/<day>`; `python tools/on.py <day> pravilnik-2013-705`).
+Act id: `pravilnik-2013-705` (tags `pravilnik-2013-705/<day>`; `python registry/tools/on.py <day> pravilnik-2013-705`).
 
 ## Decisions made by hand
 

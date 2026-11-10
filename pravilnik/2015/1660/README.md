@@ -9,7 +9,7 @@ Pravilnik o izmjeni Pravilnika o načinu utvrđivanja uvjeta za ulazak i boravak
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2015-1660` (tags `pravilnik-2015-1660/<day>`; `python tools/on.py <day> pravilnik-2015-1660`).
+Act id: `pravilnik-2015-1660` (tags `pravilnik-2015-1660/<day>`; `python registry/tools/on.py <day> pravilnik-2015-1660`).
 
 ## Decisions made by hand
 

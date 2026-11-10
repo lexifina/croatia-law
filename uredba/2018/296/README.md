@@ -12,7 +12,7 @@ Uredba o preuzimanju Direktive 2012/29/EU Europskog parlamenta i Vijeća o uspos
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2018-296` (tags `uredba-2018-296/<day>`; `python tools/on.py <day> uredba-2018-296`).
+Act id: `uredba-2018-296` (tags `uredba-2018-296/<day>`; `python registry/tools/on.py <day> uredba-2018-296`).
 
 ## Decisions made by hand
 

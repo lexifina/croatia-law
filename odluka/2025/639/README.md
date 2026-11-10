@@ -8,7 +8,7 @@ Odluka o umanjenju plaće i dodataka na plaću zaposlenicima u sustavu osnovnog 
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2025-639` (tags `odluka-2025-639/<day>`; `python tools/on.py <day> odluka-2025-639`).
+Act id: `odluka-2025-639` (tags `odluka-2025-639/<day>`; `python registry/tools/on.py <day> odluka-2025-639`).
 
 ## Decisions made by hand
 

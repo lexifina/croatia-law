@@ -21,7 +21,7 @@ Pravilnik o stručnom usavršavanju osoba koje obavljaju poslove prostornog ure�
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2020-1100` (tags `pravilnik-2020-1100/<day>`; `python tools/on.py <day> pravilnik-2020-1100`).
+Act id: `pravilnik-2020-1100` (tags `pravilnik-2020-1100/<day>`; `python registry/tools/on.py <day> pravilnik-2020-1100`).
 
 ## Decisions made by hand
 

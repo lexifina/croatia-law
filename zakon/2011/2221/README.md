@@ -47,7 +47,7 @@ Zakon o zaštiti od svjetlosnog onečišćenja · 1 versions, from 2012-01-01 (l
 | čl. 41 | [clanak-041.md](clanak-041.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2011-2221` (tags `zakon-2011-2221/<day>`; `python tools/on.py <day> zakon-2011-2221`).
+Act id: `zakon-2011-2221` (tags `zakon-2011-2221/<day>`; `python registry/tools/on.py <day> zakon-2011-2221`).
 
 ## Status
 

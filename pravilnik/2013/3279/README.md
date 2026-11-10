@@ -25,7 +25,7 @@ Pravilnik o jedinstvenom registru računa · 1 versions, from 2014-02-03 (latest
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2013-3279` (tags `pravilnik-2013-3279/<day>`; `python tools/on.py <day> pravilnik-2013-3279`).
+Act id: `pravilnik-2013-3279` (tags `pravilnik-2013-3279/<day>`; `python registry/tools/on.py <day> pravilnik-2013-3279`).
 
 ## Status
 

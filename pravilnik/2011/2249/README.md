@@ -18,7 +18,7 @@ Pravilnik o načinu rada Nacionalne kontaktne točke za prijenos i analizu droga
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2011-2249` (tags `pravilnik-2011-2249/<day>`; `python tools/on.py <day> pravilnik-2011-2249`).
+Act id: `pravilnik-2011-2249` (tags `pravilnik-2011-2249/<day>`; `python registry/tools/on.py <day> pravilnik-2011-2249`).
 
 ## Decisions made by hand
 

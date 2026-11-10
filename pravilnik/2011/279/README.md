@@ -10,7 +10,7 @@ Pravilnik o izmjenama i dopuni Pravilnika o prometnim znakovima, signalizaciji i
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2011-279` (tags `pravilnik-2011-279/<day>`; `python tools/on.py <day> pravilnik-2011-279`).
+Act id: `pravilnik-2011-279` (tags `pravilnik-2011-279/<day>`; `python registry/tools/on.py <day> pravilnik-2011-279`).
 
 ## Decisions made by hand
 

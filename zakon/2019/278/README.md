@@ -11,7 +11,7 @@ Zakon o izmjenama i dopuni Zakona o provedbi Uredbe (EU) br. 511/2014 o mjerama 
 | čl. 5 | [clanak-005.md](clanak-005.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2019-278` (tags `zakon-2019-278/<day>`; `python tools/on.py <day> zakon-2019-278`).
+Act id: `zakon-2019-278` (tags `zakon-2019-278/<day>`; `python registry/tools/on.py <day> zakon-2019-278`).
 
 ## Decisions made by hand
 

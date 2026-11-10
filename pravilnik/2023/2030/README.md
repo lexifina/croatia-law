@@ -22,7 +22,7 @@ Pravilnik o izmjenama i dopunama Pravilnika o ispravama, dokumentima i podacima 
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2023-2030` (tags `pravilnik-2023-2030/<day>`; `python tools/on.py <day> pravilnik-2023-2030`).
+Act id: `pravilnik-2023-2030` (tags `pravilnik-2023-2030/<day>`; `python registry/tools/on.py <day> pravilnik-2023-2030`).
 
 ## Decisions made by hand
 

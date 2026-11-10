@@ -8,7 +8,7 @@ Odluka o iznosu osnovice za određivanje prava iz Zakona o hrvatskim braniteljim
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2026-845` (tags `odluka-2026-845/<day>`; `python tools/on.py <day> odluka-2026-845`).
+Act id: `odluka-2026-845` (tags `odluka-2026-845/<day>`; `python registry/tools/on.py <day> odluka-2026-845`).
 
 ## Decisions made by hand
 

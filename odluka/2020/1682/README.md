@@ -8,7 +8,7 @@ Odluka o izmjenama i dopuni Odluke o koordinaciji aktivnosti unutar okvira za go
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2020-1682` (tags `odluka-2020-1682/<day>`; `python tools/on.py <day> odluka-2020-1682`).
+Act id: `odluka-2020-1682` (tags `odluka-2020-1682/<day>`; `python registry/tools/on.py <day> odluka-2020-1682`).
 
 ## Decisions made by hand
 

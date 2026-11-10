@@ -10,7 +10,7 @@ Pravilnik o izmjenama Pravilnika o financijskom izvještavanju u proračunskom r
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2017-58` (tags `pravilnik-2017-58/<day>`; `python tools/on.py <day> pravilnik-2017-58`).
+Act id: `pravilnik-2017-58` (tags `pravilnik-2017-58/<day>`; `python registry/tools/on.py <day> pravilnik-2017-58`).
 
 ## Decisions made by hand
 

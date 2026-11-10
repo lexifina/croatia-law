@@ -18,7 +18,7 @@ Pravilnik o stručnom usavršavanju u Pravosudnoj akademiji · 1 versions, from 
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2018-329` (tags `pravilnik-2018-329/<day>`; `python tools/on.py <day> pravilnik-2018-329`).
+Act id: `pravilnik-2018-329` (tags `pravilnik-2018-329/<day>`; `python registry/tools/on.py <day> pravilnik-2018-329`).
 
 ## Status
 

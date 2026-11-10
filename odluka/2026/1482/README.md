@@ -8,7 +8,7 @@ Odluka o razvrstavanju javnih cesta · 1 versions, from 2026-11-07 (latest in fo
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2026-1482` (tags `odluka-2026-1482/<day>`; `python tools/on.py <day> odluka-2026-1482`).
+Act id: `odluka-2026-1482` (tags `odluka-2026-1482/<day>`; `python registry/tools/on.py <day> odluka-2026-1482`).
 
 ## Decisions made by hand
 

@@ -8,7 +8,7 @@ Odluka o postavljanju počasnog konzula Republike Hrvatske u Republici Čileu, s
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2021-1171` (tags `odluka-2021-1171/<day>`; `python tools/on.py <day> odluka-2021-1171`).
+Act id: `odluka-2021-1171` (tags `odluka-2021-1171/<day>`; `python registry/tools/on.py <day> odluka-2021-1171`).
 
 ## Decisions made by hand
 

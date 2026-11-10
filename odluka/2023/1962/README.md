@@ -10,7 +10,7 @@ Odluka o visini poreznih stopa poreza na dohodak Grada Bjelovara · 1 versions, 
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2023-1962` (tags `odluka-2023-1962/<day>`; `python tools/on.py <day> odluka-2023-1962`).
+Act id: `odluka-2023-1962` (tags `odluka-2023-1962/<day>`; `python registry/tools/on.py <day> odluka-2023-1962`).
 
 ## Status
 

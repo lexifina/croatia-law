@@ -9,7 +9,7 @@ Zakon o izmjeni Zakona o stambenoj štednji i državnom poticanju stambene šted
 | čl. 3 | [clanak-003.md](clanak-003.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2013-242` (tags `zakon-2013-242/<day>`; `python tools/on.py <day> zakon-2013-242`).
+Act id: `zakon-2013-242` (tags `zakon-2013-242/<day>`; `python registry/tools/on.py <day> zakon-2013-242`).
 
 ## Decisions made by hand
 

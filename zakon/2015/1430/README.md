@@ -38,7 +38,7 @@ Zakon o izmjenama i dopunama Zakona o obrani · 1 versions, from 2015-07-16 (lat
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 
-Act id: `zakon-2015-1430` (tags `zakon-2015-1430/<day>`; `python tools/on.py <day> zakon-2015-1430`).
+Act id: `zakon-2015-1430` (tags `zakon-2015-1430/<day>`; `python registry/tools/on.py <day> zakon-2015-1430`).
 
 ## Decisions made by hand
 

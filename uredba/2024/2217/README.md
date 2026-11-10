@@ -124,7 +124,7 @@ Uredba o kibernetičkoj sigurnosti · 1 versions, from 2024-11-30 (latest in for
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2024-2217` (tags `uredba-2024-2217/<day>`; `python tools/on.py <day> uredba-2024-2217`).
+Act id: `uredba-2024-2217` (tags `uredba-2024-2217/<day>`; `python registry/tools/on.py <day> uredba-2024-2217`).
 
 ## Decisions made by hand
 

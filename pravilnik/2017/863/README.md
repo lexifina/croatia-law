@@ -8,7 +8,7 @@ Pravilnik o izmjenama i dopunama Pravilnika o izdavanju odobrenja za rad te stje
 | čl. 2 | [clanak-002.md](clanak-002.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `pravilnik-2017-863` (tags `pravilnik-2017-863/<day>`; `python tools/on.py <day> pravilnik-2017-863`).
+Act id: `pravilnik-2017-863` (tags `pravilnik-2017-863/<day>`; `python registry/tools/on.py <day> pravilnik-2017-863`).
 
 ## Decisions made by hand
 

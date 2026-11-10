@@ -11,7 +11,7 @@ Uredba o izmjeni Uredbe o računovodstvu neprofitnih organizacija · 1 versions,
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2014-815` (tags `uredba-2014-815/<day>`; `python tools/on.py <day> uredba-2014-815`).
+Act id: `uredba-2014-815` (tags `uredba-2014-815/<day>`; `python registry/tools/on.py <day> uredba-2014-815`).
 
 ## Decisions made by hand
 

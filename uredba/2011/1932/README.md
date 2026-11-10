@@ -9,7 +9,7 @@ Uredba o izmjeni Zakona o tržištu plina · 1 versions, from 2011-08-03 (latest
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2011-1932` (tags `uredba-2011-1932/<day>`; `python tools/on.py <day> uredba-2011-1932`).
+Act id: `uredba-2011-1932` (tags `uredba-2011-1932/<day>`; `python registry/tools/on.py <day> uredba-2011-1932`).
 
 ## Decisions made by hand
 

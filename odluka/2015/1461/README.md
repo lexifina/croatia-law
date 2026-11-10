@@ -16,7 +16,7 @@ Odluka o izvješćivanju o planovima financiranja · 1 versions, from 2015-07-18
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2015-1461` (tags `odluka-2015-1461/<day>`; `python tools/on.py <day> odluka-2015-1461`).
+Act id: `odluka-2015-1461` (tags `odluka-2015-1461/<day>`; `python registry/tools/on.py <day> odluka-2015-1461`).
 
 ## Status
 

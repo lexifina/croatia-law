@@ -17,7 +17,7 @@ Pravilnik o oznakama ili znakovima koji određuju lot kojemu hrana pripada · 1 
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2025-1129` (tags `pravilnik-2025-1129/<day>`; `python tools/on.py <day> pravilnik-2025-1129`).
+Act id: `pravilnik-2025-1129` (tags `pravilnik-2025-1129/<day>`; `python registry/tools/on.py <day> pravilnik-2025-1129`).
 
 ## Decisions made by hand
 

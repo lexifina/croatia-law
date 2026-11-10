@@ -23,7 +23,7 @@ Odluka o porezima Općine Runovići · 1 versions, from 2018-01-13 (latest in fo
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2018-83` (tags `odluka-2018-83/<day>`; `python tools/on.py <day> odluka-2018-83`).
+Act id: `odluka-2018-83` (tags `odluka-2018-83/<day>`; `python registry/tools/on.py <day> odluka-2018-83`).
 
 ## Decisions made by hand
 

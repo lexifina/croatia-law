@@ -20,7 +20,7 @@ Pravilnik o obavljanju poslova zaštite na radu · 1 versions, from 2020-01-01 (
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2019-2542` (tags `pravilnik-2019-2542/<day>`; `python tools/on.py <day> pravilnik-2019-2542`).
+Act id: `pravilnik-2019-2542` (tags `pravilnik-2019-2542/<day>`; `python registry/tools/on.py <day> pravilnik-2019-2542`).
 
 ## Status
 

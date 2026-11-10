@@ -89,7 +89,7 @@ Zakon o izmjenama i dopunama Zakona o reviziji · 1 versions, from 2024-07-27 (l
 | čl. 83 | [clanak-083.md](clanak-083.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2024-1475` (tags `zakon-2024-1475/<day>`; `python tools/on.py <day> zakon-2024-1475`).
+Act id: `zakon-2024-1475` (tags `zakon-2024-1475/<day>`; `python registry/tools/on.py <day> zakon-2024-1475`).
 
 ## Decisions made by hand
 

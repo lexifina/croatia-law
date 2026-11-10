@@ -8,7 +8,7 @@ Odluka o osnivanju Radne skupine za pregovore o Višegodišnjem financijskom okv
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2018-993` (tags `odluka-2018-993/<day>`; `python tools/on.py <day> odluka-2018-993`).
+Act id: `odluka-2018-993` (tags `odluka-2018-993/<day>`; `python registry/tools/on.py <day> odluka-2018-993`).
 
 ## Decisions made by hand
 

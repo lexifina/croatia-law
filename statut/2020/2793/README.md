@@ -77,7 +77,7 @@ Statut Turističke zajednice Požeško-slavonske županije · 1 versions, from 2
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `statut-2020-2793` (tags `statut-2020-2793/<day>`; `python tools/on.py <day> statut-2020-2793`).
+Act id: `statut-2020-2793` (tags `statut-2020-2793/<day>`; `python registry/tools/on.py <day> statut-2020-2793`).
 
 ## Decisions made by hand
 

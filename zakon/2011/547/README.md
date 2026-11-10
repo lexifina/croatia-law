@@ -64,7 +64,7 @@ Zakon o sprječavanju sukoba interesa · 1 versions, from 2011-03-10 (latest in 
 | čl. 58 | [clanak-058.md](clanak-058.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2011-547` (tags `zakon-2011-547/<day>`; `python tools/on.py <day> zakon-2011-547`).
+Act id: `zakon-2011-547` (tags `zakon-2011-547/<day>`; `python registry/tools/on.py <day> zakon-2011-547`).
 
 ## Status
 

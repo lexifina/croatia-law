@@ -8,7 +8,7 @@ Odluka o obustavi postupka sanacije Opće županijske bolnice Vukovar i bolnice 
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2016-905` (tags `odluka-2016-905/<day>`; `python tools/on.py <day> odluka-2016-905`).
+Act id: `odluka-2016-905` (tags `odluka-2016-905/<day>`; `python registry/tools/on.py <day> odluka-2016-905`).
 
 ## Decisions made by hand
 

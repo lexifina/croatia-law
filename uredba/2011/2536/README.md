@@ -12,7 +12,7 @@ Uredba o izmjenama Tarife upravnih pristojbi iz Zakona o upravnim pristojbama ·
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2011-2536` (tags `uredba-2011-2536/<day>`; `python tools/on.py <day> uredba-2011-2536`).
+Act id: `uredba-2011-2536` (tags `uredba-2011-2536/<day>`; `python registry/tools/on.py <day> uredba-2011-2536`).
 
 ## Decisions made by hand
 

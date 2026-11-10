@@ -5,7 +5,7 @@ Odluka o porezima Grada Daruvara · 2 versions, from 2022-01-01 (latest in force
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `odluka-2021-744` (tags `odluka-2021-744/<day>`; `python tools/on.py <day> odluka-2021-744`).
+Act id: `odluka-2021-744` (tags `odluka-2021-744/<day>`; `python registry/tools/on.py <day> odluka-2021-744`).
 
 ## Decisions made by hand
 

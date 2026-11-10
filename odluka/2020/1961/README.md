@@ -8,7 +8,7 @@ Odluka o izmjeni Odluke o osnivanju Povjerenstva za praćenje provedbe Nacionaln
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2020-1961` (tags `odluka-2020-1961/<day>`; `python tools/on.py <day> odluka-2020-1961`).
+Act id: `odluka-2020-1961` (tags `odluka-2020-1961/<day>`; `python registry/tools/on.py <day> odluka-2020-1961`).
 
 ## Decisions made by hand
 

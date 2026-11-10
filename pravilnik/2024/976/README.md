@@ -16,7 +16,7 @@ Pravilnik o Registru ugovora o doživotnom i dosmrtnom uzdržavanju · 1 version
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2024-976` (tags `pravilnik-2024-976/<day>`; `python tools/on.py <day> pravilnik-2024-976`).
+Act id: `pravilnik-2024-976` (tags `pravilnik-2024-976/<day>`; `python registry/tools/on.py <day> pravilnik-2024-976`).
 
 ## Decisions made by hand
 

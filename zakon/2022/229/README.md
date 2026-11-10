@@ -10,7 +10,7 @@ Zakon o dopunama Zakona o Središnjem registru osiguranika · 1 versions, from 2
 | čl. 4 | [clanak-004.md](clanak-004.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2022-229` (tags `zakon-2022-229/<day>`; `python tools/on.py <day> zakon-2022-229`).
+Act id: `zakon-2022-229` (tags `zakon-2022-229/<day>`; `python registry/tools/on.py <day> zakon-2022-229`).
 
 ## Decisions made by hand
 

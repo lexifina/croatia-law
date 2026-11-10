@@ -16,7 +16,7 @@ Pravilnik o tehničkim i organizacijskim uvjetima za obavljanje poslova zastupan
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2016-103` (tags `pravilnik-2016-103/<day>`; `python tools/on.py <day> pravilnik-2016-103`).
+Act id: `pravilnik-2016-103` (tags `pravilnik-2016-103/<day>`; `python registry/tools/on.py <day> pravilnik-2016-103`).
 
 ## Status
 

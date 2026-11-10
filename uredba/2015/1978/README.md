@@ -13,7 +13,7 @@ Uredba o preuzimanju Direktive 2013/40/EU o napadima na informacijske sustave te
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2015-1978` (tags `uredba-2015-1978/<day>`; `python tools/on.py <day> uredba-2015-1978`).
+Act id: `uredba-2015-1978` (tags `uredba-2015-1978/<day>`; `python registry/tools/on.py <day> uredba-2015-1978`).
 
 ## Decisions made by hand
 

@@ -8,7 +8,7 @@ Odluka o davanju ovlasti Ministarstvu zdravstva za davanje suglasnosti zdravstve
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2026-175` (tags `odluka-2026-175/<day>`; `python tools/on.py <day> odluka-2026-175`).
+Act id: `odluka-2026-175` (tags `odluka-2026-175/<day>`; `python registry/tools/on.py <day> odluka-2026-175`).
 
 ## Decisions made by hand
 

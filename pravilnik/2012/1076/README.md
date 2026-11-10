@@ -13,7 +13,7 @@ Pravilnik o postupku, uvjetima i načinu izdavanja uvjerenja osobama koje iz zdr
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2012-1076` (tags `pravilnik-2012-1076/<day>`; `python tools/on.py <day> pravilnik-2012-1076`).
+Act id: `pravilnik-2012-1076` (tags `pravilnik-2012-1076/<day>`; `python registry/tools/on.py <day> pravilnik-2012-1076`).
 
 ## Decisions made by hand
 

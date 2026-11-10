@@ -12,7 +12,7 @@ Pravilnik o izmjenama i dopuni Pravilnika o provedbi Programa sufinanciranja usp
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2023-1643` (tags `pravilnik-2023-1643/<day>`; `python tools/on.py <day> pravilnik-2023-1643`).
+Act id: `pravilnik-2023-1643` (tags `pravilnik-2023-1643/<day>`; `python registry/tools/on.py <day> pravilnik-2023-1643`).
 
 ## Decisions made by hand
 

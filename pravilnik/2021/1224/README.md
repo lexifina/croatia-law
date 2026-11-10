@@ -15,7 +15,7 @@ Pravilnik o oslobođenju od plaćanja turističke pristojbe u 2021. godini · 1 
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2021-1224` (tags `pravilnik-2021-1224/<day>`; `python tools/on.py <day> pravilnik-2021-1224`).
+Act id: `pravilnik-2021-1224` (tags `pravilnik-2021-1224/<day>`; `python registry/tools/on.py <day> pravilnik-2021-1224`).
 
 ## Decisions made by hand
 

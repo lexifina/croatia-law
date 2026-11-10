@@ -13,7 +13,7 @@ Pravilnik o obrascu potvrde o smrti · 1 versions, from 2011-04-30 (latest in fo
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2011-1068` (tags `pravilnik-2011-1068/<day>`; `python tools/on.py <day> pravilnik-2011-1068`).
+Act id: `pravilnik-2011-1068` (tags `pravilnik-2011-1068/<day>`; `python registry/tools/on.py <day> pravilnik-2011-1068`).
 
 ## Status
 

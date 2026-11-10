@@ -17,7 +17,7 @@ Zakon o izmjenama i dopunama Zakona o financiranju jedinica lokalne i područne 
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 
-Act id: `zakon-2014-2754` (tags `zakon-2014-2754/<day>`; `python tools/on.py <day> zakon-2014-2754`).
+Act id: `zakon-2014-2754` (tags `zakon-2014-2754/<day>`; `python registry/tools/on.py <day> zakon-2014-2754`).
 
 ## Decisions made by hand
 

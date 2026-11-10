@@ -18,7 +18,7 @@ Pravilnik o izmjenama i dopunama Pravilnika o sudjelovanju pripadnika Oružanih 
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2011-387` (tags `pravilnik-2011-387/<day>`; `python tools/on.py <day> pravilnik-2011-387`).
+Act id: `pravilnik-2011-387` (tags `pravilnik-2011-387/<day>`; `python registry/tools/on.py <day> pravilnik-2011-387`).
 
 ## Decisions made by hand
 

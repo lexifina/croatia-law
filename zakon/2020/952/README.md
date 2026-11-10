@@ -10,7 +10,7 @@ Zakon o dopuni Zakona o provedbi ovrhe na novčanim sredstvima · 1 versions, fr
 | čl. 4 | [clanak-004.md](clanak-004.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2020-952` (tags `zakon-2020-952/<day>`; `python tools/on.py <day> zakon-2020-952`).
+Act id: `zakon-2020-952` (tags `zakon-2020-952/<day>`; `python registry/tools/on.py <day> zakon-2020-952`).
 
 ## Decisions made by hand
 

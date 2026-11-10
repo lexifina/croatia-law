@@ -10,7 +10,7 @@ Uredba o dopunama Uredbe o utvrđivanju najviših maloprodajnih cijena naftnih d
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2022-1038` (tags `uredba-2022-1038/<day>`; `python tools/on.py <day> uredba-2022-1038`).
+Act id: `uredba-2022-1038` (tags `uredba-2022-1038/<day>`; `python registry/tools/on.py <day> uredba-2022-1038`).
 
 ## Status
 

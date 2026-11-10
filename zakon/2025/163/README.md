@@ -18,7 +18,7 @@ Zakon o izmjenama i dopunama Zakona o drvenastim kulturama kratkih ophodnji · 1
 | čl. 12 | [clanak-012.md](clanak-012.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2025-163` (tags `zakon-2025-163/<day>`; `python tools/on.py <day> zakon-2025-163`).
+Act id: `zakon-2025-163` (tags `zakon-2025-163/<day>`; `python registry/tools/on.py <day> zakon-2025-163`).
 
 ## Decisions made by hand
 

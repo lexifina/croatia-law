@@ -14,7 +14,7 @@ Uredba o visini tro≈°arine na cigarete, sitno rezani duhan i ostali duhan za pu≈
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2016-2353` (tags `uredba-2016-2353/<day>`; `python tools/on.py <day> uredba-2016-2353`).
+Act id: `uredba-2016-2353` (tags `uredba-2016-2353/<day>`; `python registry/tools/on.py <day> uredba-2016-2353`).
 
 ## Status
 

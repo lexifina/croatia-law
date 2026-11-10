@@ -9,7 +9,7 @@ Odluka o dopuni Odluke o nastavnim planovima i programima za osnovne glazbene i 
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2018-382` (tags `odluka-2018-382/<day>`; `python tools/on.py <day> odluka-2018-382`).
+Act id: `odluka-2018-382` (tags `odluka-2018-382/<day>`; `python registry/tools/on.py <day> odluka-2018-382`).
 
 ## Decisions made by hand
 

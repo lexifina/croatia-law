@@ -5,7 +5,7 @@ Pravilnik o upućivanju policijskog službenika na rad u međunarodne organizaci
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `pravilnik-2015-1382` (tags `pravilnik-2015-1382/<day>`; `python tools/on.py <day> pravilnik-2015-1382`).
+Act id: `pravilnik-2015-1382` (tags `pravilnik-2015-1382/<day>`; `python registry/tools/on.py <day> pravilnik-2015-1382`).
 
 ## Decisions made by hand
 

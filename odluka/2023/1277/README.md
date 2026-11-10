@@ -8,7 +8,7 @@ Odluka o osnivanju Odbora za nagradu za promicanje prava djeteta · 1 versions, 
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2023-1277` (tags `odluka-2023-1277/<day>`; `python tools/on.py <day> odluka-2023-1277`).
+Act id: `odluka-2023-1277` (tags `odluka-2023-1277/<day>`; `python registry/tools/on.py <day> odluka-2023-1277`).
 
 ## Status
 

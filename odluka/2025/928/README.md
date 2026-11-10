@@ -8,7 +8,7 @@ Odluka o autorizaciji plovila za ribolov igluna (Xiphias gladius) u 2025. godini
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2025-928` (tags `odluka-2025-928/<day>`; `python tools/on.py <day> odluka-2025-928`).
+Act id: `odluka-2025-928` (tags `odluka-2025-928/<day>`; `python registry/tools/on.py <day> odluka-2025-928`).
 
 ## Decisions made by hand
 

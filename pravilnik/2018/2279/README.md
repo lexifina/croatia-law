@@ -12,7 +12,7 @@ Pravilnik o izmjeni Pravilnika o izvještavanju u neprofitnom računovodstvu i r
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2018-2279` (tags `pravilnik-2018-2279/<day>`; `python tools/on.py <day> pravilnik-2018-2279`).
+Act id: `pravilnik-2018-2279` (tags `pravilnik-2018-2279/<day>`; `python registry/tools/on.py <day> pravilnik-2018-2279`).
 
 ## Decisions made by hand
 

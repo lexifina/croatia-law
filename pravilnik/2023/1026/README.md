@@ -9,7 +9,7 @@ Pravilnik o dopuni Pravilnika o uvjetima i načinu obavljanja opremanja, prijeno
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2023-1026` (tags `pravilnik-2023-1026/<day>`; `python tools/on.py <day> pravilnik-2023-1026`).
+Act id: `pravilnik-2023-1026` (tags `pravilnik-2023-1026/<day>`; `python registry/tools/on.py <day> pravilnik-2023-1026`).
 
 ## Decisions made by hand
 

@@ -26,7 +26,7 @@ Zakon o izmjenama i dopunama Zakona o društveno poticanoj stanogradnji · 1 ver
 | čl. 20 | [clanak-020.md](clanak-020.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2015-543` (tags `zakon-2015-543/<day>`; `python tools/on.py <day> zakon-2015-543`).
+Act id: `zakon-2015-543` (tags `zakon-2015-543/<day>`; `python registry/tools/on.py <day> zakon-2015-543`).
 
 ## Decisions made by hand
 

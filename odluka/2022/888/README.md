@@ -9,7 +9,7 @@ Odluka Ustavnoga suda Republike Hrvatske broj: U-VIIR-2180/2022 od 16. svibnja 2
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2022-888` (tags `odluka-2022-888/<day>`; `python tools/on.py <day> odluka-2022-888`).
+Act id: `odluka-2022-888` (tags `odluka-2022-888/<day>`; `python registry/tools/on.py <day> odluka-2022-888`).
 
 ## Decisions made by hand
 

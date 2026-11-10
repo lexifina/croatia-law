@@ -17,7 +17,7 @@ Odluka o naknadi za razvoj trgovačkog društva Vode Jastrebarsko d.o.o. · 1 ve
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2022-1325` (tags `odluka-2022-1325/<day>`; `python tools/on.py <day> odluka-2022-1325`).
+Act id: `odluka-2022-1325` (tags `odluka-2022-1325/<day>`; `python registry/tools/on.py <day> odluka-2022-1325`).
 
 ## Status
 

@@ -29,7 +29,7 @@ Pravilnik o načinu i uvjetima sklapanja ugovora o kadetskoj službi i ugovora o
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2023-831` (tags `pravilnik-2023-831/<day>`; `python tools/on.py <day> pravilnik-2023-831`).
+Act id: `pravilnik-2023-831` (tags `pravilnik-2023-831/<day>`; `python registry/tools/on.py <day> pravilnik-2023-831`).
 
 ## Status
 

@@ -16,7 +16,7 @@ Odluka o obračunu i naplati naknade za razvoj sustava javne vodoopskrbe i javne
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2022-1218` (tags `odluka-2022-1218/<day>`; `python tools/on.py <day> odluka-2022-1218`).
+Act id: `odluka-2022-1218` (tags `odluka-2022-1218/<day>`; `python registry/tools/on.py <day> odluka-2022-1218`).
 
 ## Decisions made by hand
 

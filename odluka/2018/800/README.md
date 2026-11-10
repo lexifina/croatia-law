@@ -10,7 +10,7 @@ Odluka o uzajamnom priznavanju mjere makrobonitetne politike iz preporuke europs
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2018-800` (tags `odluka-2018-800/<day>`; `python tools/on.py <day> odluka-2018-800`).
+Act id: `odluka-2018-800` (tags `odluka-2018-800/<day>`; `python registry/tools/on.py <day> odluka-2018-800`).
 
 ## Status
 

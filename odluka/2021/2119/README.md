@@ -10,7 +10,7 @@ Odluka o izmjenama Odluke o lokalnim porezima Grada Velike Gorice · 1 versions,
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2021-2119` (tags `odluka-2021-2119/<day>`; `python tools/on.py <day> odluka-2021-2119`).
+Act id: `odluka-2021-2119` (tags `odluka-2021-2119/<day>`; `python registry/tools/on.py <day> odluka-2021-2119`).
 
 ## Decisions made by hand
 

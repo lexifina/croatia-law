@@ -9,7 +9,7 @@ Odluka o provođenju međunarodnih mjera utvrđenih rezolucijom Vijeća sigurnos
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2013-387` (tags `odluka-2013-387/<day>`; `python tools/on.py <day> odluka-2013-387`).
+Act id: `odluka-2013-387` (tags `odluka-2013-387/<day>`; `python registry/tools/on.py <day> odluka-2013-387`).
 
 ## Status
 

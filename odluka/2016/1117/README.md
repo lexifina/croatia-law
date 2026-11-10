@@ -8,7 +8,7 @@ Odluka o raspisivanju prijevremenih izbora za Gradsko vijeće Grada Vrgorca i gr
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2016-1117` (tags `odluka-2016-1117/<day>`; `python tools/on.py <day> odluka-2016-1117`).
+Act id: `odluka-2016-1117` (tags `odluka-2016-1117/<day>`; `python registry/tools/on.py <day> odluka-2016-1117`).
 
 ## Decisions made by hand
 

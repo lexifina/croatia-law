@@ -33,7 +33,7 @@ Odluka o lokalnim porezima Općine Erdut · 1 versions, from 2022-10-29 (latest 
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2022-1887` (tags `odluka-2022-1887/<day>`; `python tools/on.py <day> odluka-2022-1887`).
+Act id: `odluka-2022-1887` (tags `odluka-2022-1887/<day>`; `python registry/tools/on.py <day> odluka-2022-1887`).
 
 ## Status
 

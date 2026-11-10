@@ -29,7 +29,7 @@ Pravilnik o provedbi mjere III.3. » Provedba i upravljanje LRSR - tekući troš
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2024-790` (tags `pravilnik-2024-790/<day>`; `python tools/on.py <day> pravilnik-2024-790`).
+Act id: `pravilnik-2024-790` (tags `pravilnik-2024-790/<day>`; `python registry/tools/on.py <day> pravilnik-2024-790`).
 
 ## Decisions made by hand
 

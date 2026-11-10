@@ -8,7 +8,7 @@ Zakon o dopuni Zakona o provedbi Uredbe (EZ) br. 1107/2009 o stavljanju na trži
 | čl. 2 | [clanak-002.md](clanak-002.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2020-706` (tags `zakon-2020-706/<day>`; `python tools/on.py <day> zakon-2020-706`).
+Act id: `zakon-2020-706` (tags `zakon-2020-706/<day>`; `python registry/tools/on.py <day> zakon-2020-706`).
 
 ## Decisions made by hand
 

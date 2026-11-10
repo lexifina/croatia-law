@@ -9,7 +9,7 @@ Odluka o stavljanju izvan snage Odluke o prirezu porezu na dohodak Općine Lovin
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2023-2213` (tags `odluka-2023-2213/<day>`; `python tools/on.py <day> odluka-2023-2213`).
+Act id: `odluka-2023-2213` (tags `odluka-2023-2213/<day>`; `python registry/tools/on.py <day> odluka-2023-2213`).
 
 ## Decisions made by hand
 

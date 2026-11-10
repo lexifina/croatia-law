@@ -14,7 +14,7 @@ Uredba o izmjenama i dopunama Uredbe o nazivima radnih mjesta i koeficijentima s
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2021-1213` (tags `uredba-2021-1213/<day>`; `python tools/on.py <day> uredba-2021-1213`).
+Act id: `uredba-2021-1213` (tags `uredba-2021-1213/<day>`; `python registry/tools/on.py <day> uredba-2021-1213`).
 
 ## Decisions made by hand
 

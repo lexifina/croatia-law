@@ -22,7 +22,7 @@ Odluka o upravljanju kolateralom u kreditnim operacijama Eurosustava · 1 versio
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2025-1123` (tags `odluka-2025-1123/<day>`; `python tools/on.py <day> odluka-2025-1123`).
+Act id: `odluka-2025-1123` (tags `odluka-2025-1123/<day>`; `python registry/tools/on.py <day> odluka-2025-1123`).
 
 ## Status
 

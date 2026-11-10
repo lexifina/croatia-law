@@ -36,7 +36,7 @@ Uredba o izmjenama i dopunama Uredbe o unutarnjem ustrojstvu Ministarstva rada, 
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2022-434` (tags `uredba-2022-434/<day>`; `python tools/on.py <day> uredba-2022-434`).
+Act id: `uredba-2022-434` (tags `uredba-2022-434/<day>`; `python registry/tools/on.py <day> uredba-2022-434`).
 
 ## Decisions made by hand
 

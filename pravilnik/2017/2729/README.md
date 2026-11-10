@@ -15,7 +15,7 @@ Pravilnik o strukturi i sadržaju godišnjih financijskih izvještaja investicij
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2017-2729` (tags `pravilnik-2017-2729/<day>`; `python tools/on.py <day> pravilnik-2017-2729`).
+Act id: `pravilnik-2017-2729` (tags `pravilnik-2017-2729/<day>`; `python registry/tools/on.py <day> pravilnik-2017-2729`).
 
 ## Status
 

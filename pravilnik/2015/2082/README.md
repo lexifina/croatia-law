@@ -5,7 +5,7 @@ Pravilnik o sadrÅ¾aju i obliku obrazaca na kojima se podnose podnesci u predsteÄ
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `pravilnik-2015-2082` (tags `pravilnik-2015-2082/<day>`; `python tools/on.py <day> pravilnik-2015-2082`).
+Act id: `pravilnik-2015-2082` (tags `pravilnik-2015-2082/<day>`; `python registry/tools/on.py <day> pravilnik-2015-2082`).
 
 ## Decisions made by hand
 

@@ -9,7 +9,7 @@ Pravilnik o izmjeni Pravilnika o žigu · 1 versions, from 2023-11-16 (latest in
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2023-1866` (tags `pravilnik-2023-1866/<day>`; `python tools/on.py <day> pravilnik-2023-1866`).
+Act id: `pravilnik-2023-1866` (tags `pravilnik-2023-1866/<day>`; `python registry/tools/on.py <day> pravilnik-2023-1866`).
 
 ## Decisions made by hand
 

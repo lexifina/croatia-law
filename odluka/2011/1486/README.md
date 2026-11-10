@@ -8,7 +8,7 @@ Odluka o prodaji pijeska na slobodnom tržištu putem javnog nadmetanja · 1 ver
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2011-1486` (tags `odluka-2011-1486/<day>`; `python tools/on.py <day> odluka-2011-1486`).
+Act id: `odluka-2011-1486` (tags `odluka-2011-1486/<day>`; `python registry/tools/on.py <day> odluka-2011-1486`).
 
 ## Decisions made by hand
 

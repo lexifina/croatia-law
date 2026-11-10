@@ -8,7 +8,7 @@ Odluka o katastarskoj izmjeri na području Grada Garešnice za dio katastarske o
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2025-1588` (tags `odluka-2025-1588/<day>`; `python tools/on.py <day> odluka-2025-1588`).
+Act id: `odluka-2025-1588` (tags `odluka-2025-1588/<day>`; `python registry/tools/on.py <day> odluka-2025-1588`).
 
 ## Decisions made by hand
 

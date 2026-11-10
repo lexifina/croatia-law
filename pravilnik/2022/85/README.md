@@ -12,7 +12,7 @@ Pravilnik o izmjenama Pravilnika o raspolaganju kapacitetom uzgoja tuna i dozvol
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2022-85` (tags `pravilnik-2022-85/<day>`; `python tools/on.py <day> pravilnik-2022-85`).
+Act id: `pravilnik-2022-85` (tags `pravilnik-2022-85/<day>`; `python registry/tools/on.py <day> pravilnik-2022-85`).
 
 ## Decisions made by hand
 

@@ -13,7 +13,7 @@ Pravilnik o visini dodatka na plaću sudaca privremeno upućenih na rad u drugi 
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2014-676` (tags `pravilnik-2014-676/<day>`; `python tools/on.py <day> pravilnik-2014-676`).
+Act id: `pravilnik-2014-676` (tags `pravilnik-2014-676/<day>`; `python registry/tools/on.py <day> pravilnik-2014-676`).
 
 ## Status
 

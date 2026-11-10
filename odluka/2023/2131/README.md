@@ -10,7 +10,7 @@ Odluka o visini poreznih stopa poreza na dohodak na području Općine Sirač · 
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2023-2131` (tags `odluka-2023-2131/<day>`; `python tools/on.py <day> odluka-2023-2131`).
+Act id: `odluka-2023-2131` (tags `odluka-2023-2131/<day>`; `python registry/tools/on.py <day> odluka-2023-2131`).
 
 ## Decisions made by hand
 

@@ -14,7 +14,7 @@ Uredba o izmjenama Uredbe o osnivanju Javne ustanove »Park prirode Žumberak - 
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2025-1005` (tags `uredba-2025-1005/<day>`; `python tools/on.py <day> uredba-2025-1005`).
+Act id: `uredba-2025-1005` (tags `uredba-2025-1005/<day>`; `python registry/tools/on.py <day> uredba-2025-1005`).
 
 ## Decisions made by hand
 

@@ -11,7 +11,7 @@ Uredba o visinama trošarina na motorne benzine i plinsko ulje · 1 versions, fr
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2011-574` (tags `uredba-2011-574/<day>`; `python tools/on.py <day> uredba-2011-574`).
+Act id: `uredba-2011-574` (tags `uredba-2011-574/<day>`; `python registry/tools/on.py <day> uredba-2011-574`).
 
 ## Decisions made by hand
 

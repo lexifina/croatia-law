@@ -8,7 +8,7 @@ Odluka o donošenju Akcijskog plana za provedbu Nacionalnog plana za uključivan
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2023-1742` (tags `odluka-2023-1742/<day>`; `python tools/on.py <day> odluka-2023-1742`).
+Act id: `odluka-2023-1742` (tags `odluka-2023-1742/<day>`; `python registry/tools/on.py <day> odluka-2023-1742`).
 
 ## Decisions made by hand
 

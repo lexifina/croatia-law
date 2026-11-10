@@ -68,7 +68,7 @@ Odluka o izmjenama i dopunama Poslovnika Hrvatskoga sabora · 1 versions, from 2
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2012-1886` (tags `odluka-2012-1886/<day>`; `python tools/on.py <day> odluka-2012-1886`).
+Act id: `odluka-2012-1886` (tags `odluka-2012-1886/<day>`; `python registry/tools/on.py <day> odluka-2012-1886`).
 
 ## Status
 

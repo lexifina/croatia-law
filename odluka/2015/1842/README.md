@@ -8,7 +8,7 @@ Odluka o kriterijima i načinu financiranja troškova javnog prijevoza redovitih
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2015-1842` (tags `odluka-2015-1842/<day>`; `python tools/on.py <day> odluka-2015-1842`).
+Act id: `odluka-2015-1842` (tags `odluka-2015-1842/<day>`; `python registry/tools/on.py <day> odluka-2015-1842`).
 
 ## Decisions made by hand
 

@@ -55,7 +55,7 @@ Uredba o unutarnjem ustrojstvu Državnog zavoda za mjeriteljstvo · 1 versions, 
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2019-818` (tags `uredba-2019-818/<day>`; `python tools/on.py <day> uredba-2019-818`).
+Act id: `uredba-2019-818` (tags `uredba-2019-818/<day>`; `python registry/tools/on.py <day> uredba-2019-818`).
 
 ## Status
 

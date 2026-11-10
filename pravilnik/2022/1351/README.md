@@ -15,7 +15,7 @@ Pravilnik o izmjenama i dopunama Pravilnika o mjerama zaštite osobnih prava i d
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2022-1351` (tags `pravilnik-2022-1351/<day>`; `python tools/on.py <day> pravilnik-2022-1351`).
+Act id: `pravilnik-2022-1351` (tags `pravilnik-2022-1351/<day>`; `python registry/tools/on.py <day> pravilnik-2022-1351`).
 
 ## Decisions made by hand
 

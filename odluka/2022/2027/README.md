@@ -5,7 +5,7 @@ Odluka o obvezi dostavljanja izvješća o podacima poslovanja s gotovim novcem �
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `odluka-2022-2027` (tags `odluka-2022-2027/<day>`; `python tools/on.py <day> odluka-2022-2027`).
+Act id: `odluka-2022-2027` (tags `odluka-2022-2027/<day>`; `python registry/tools/on.py <day> odluka-2022-2027`).
 
 ## Decisions made by hand
 

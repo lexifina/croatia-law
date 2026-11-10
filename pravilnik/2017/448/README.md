@@ -10,7 +10,7 @@ Pravilnik o izmjenama Pravilnika o zaštićenim oznakama izvornosti, zaštićeni
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2017-448` (tags `pravilnik-2017-448/<day>`; `python tools/on.py <day> pravilnik-2017-448`).
+Act id: `pravilnik-2017-448` (tags `pravilnik-2017-448/<day>`; `python registry/tools/on.py <day> pravilnik-2017-448`).
 
 ## Decisions made by hand
 

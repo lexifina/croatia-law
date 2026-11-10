@@ -25,7 +25,7 @@ Pravilnik o načinu izrade i sadržaju Programa gospodarenja šumskim sjemenskim
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2011-67` (tags `pravilnik-2011-67/<day>`; `python tools/on.py <day> pravilnik-2011-67`).
+Act id: `pravilnik-2011-67` (tags `pravilnik-2011-67/<day>`; `python registry/tools/on.py <day> pravilnik-2011-67`).
 
 ## Decisions made by hand
 

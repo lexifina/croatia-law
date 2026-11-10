@@ -9,7 +9,7 @@ Odluka o izmjeni Odluke o ispravama i službenim obrascima čiji su sadržaj, ob
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2018-1872` (tags `odluka-2018-1872/<day>`; `python tools/on.py <day> odluka-2018-1872`).
+Act id: `odluka-2018-1872` (tags `odluka-2018-1872/<day>`; `python registry/tools/on.py <day> odluka-2018-1872`).
 
 ## Decisions made by hand
 

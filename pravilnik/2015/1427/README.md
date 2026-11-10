@@ -5,7 +5,7 @@ Pravilnik o stručnom osposobljavanju ovlaštenih osoba · 2 versions, from 2015
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `pravilnik-2015-1427` (tags `pravilnik-2015-1427/<day>`; `python tools/on.py <day> pravilnik-2015-1427`).
+Act id: `pravilnik-2015-1427` (tags `pravilnik-2015-1427/<day>`; `python registry/tools/on.py <day> pravilnik-2015-1427`).
 
 ## Decisions made by hand
 

@@ -16,7 +16,7 @@ Odluka o određivanju kriterija i relativnih pondera za odabir ekonomski najpovo
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2019-704` (tags `odluka-2019-704/<day>`; `python tools/on.py <day> odluka-2019-704`).
+Act id: `odluka-2019-704` (tags `odluka-2019-704/<day>`; `python registry/tools/on.py <day> odluka-2019-704`).
 
 ## Decisions made by hand
 

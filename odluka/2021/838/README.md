@@ -8,7 +8,7 @@ Odluka o izmjenama i dopuni Odluke o osnivanju Nacionalnog vijeća za održivi r
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2021-838` (tags `odluka-2021-838/<day>`; `python tools/on.py <day> odluka-2021-838`).
+Act id: `odluka-2021-838` (tags `odluka-2021-838/<day>`; `python registry/tools/on.py <day> odluka-2021-838`).
 
 ## Decisions made by hand
 

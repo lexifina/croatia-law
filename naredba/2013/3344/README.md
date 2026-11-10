@@ -22,7 +22,7 @@ Naredba o visini naknada koje plaćaju vlasnici pomorskih objekata u Republici H
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `naredba-2013-3344` (tags `naredba-2013-3344/<day>`; `python tools/on.py <day> naredba-2013-3344`).
+Act id: `naredba-2013-3344` (tags `naredba-2013-3344/<day>`; `python registry/tools/on.py <day> naredba-2013-3344`).
 
 ## Status
 

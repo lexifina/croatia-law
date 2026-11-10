@@ -8,7 +8,7 @@ Odluka o izboru potpredsjednika Hrvatskoga sabora · 1 versions, from 2026-10-21
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2026-1434` (tags `odluka-2026-1434/<day>`; `python tools/on.py <day> odluka-2026-1434`).
+Act id: `odluka-2026-1434` (tags `odluka-2026-1434/<day>`; `python registry/tools/on.py <day> odluka-2026-1434`).
 
 ## Decisions made by hand
 

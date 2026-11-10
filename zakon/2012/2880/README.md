@@ -20,7 +20,7 @@ Zakon o izmjenama i dopunama Zakona o platnom prometu · 1 versions, from 2012-1
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 
-Act id: `zakon-2012-2880` (tags `zakon-2012-2880/<day>`; `python tools/on.py <day> zakon-2012-2880`).
+Act id: `zakon-2012-2880` (tags `zakon-2012-2880/<day>`; `python registry/tools/on.py <day> zakon-2012-2880`).
 
 ## Decisions made by hand
 

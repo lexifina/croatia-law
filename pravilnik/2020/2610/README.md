@@ -19,7 +19,7 @@ Pravilnik o uvjetima za izdavanje odobrenja za stjecanje kvalificiranog udjela u
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2020-2610` (tags `pravilnik-2020-2610/<day>`; `python tools/on.py <day> pravilnik-2020-2610`).
+Act id: `pravilnik-2020-2610` (tags `pravilnik-2020-2610/<day>`; `python registry/tools/on.py <day> pravilnik-2020-2610`).
 
 ## Decisions made by hand
 

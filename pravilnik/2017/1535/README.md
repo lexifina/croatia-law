@@ -15,7 +15,7 @@ Pravilnik o nadzoru nad provedbom Zakona o javnoj nabavi · 1 versions, from 201
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2017-1535` (tags `pravilnik-2017-1535/<day>`; `python tools/on.py <day> pravilnik-2017-1535`).
+Act id: `pravilnik-2017-1535` (tags `pravilnik-2017-1535/<day>`; `python registry/tools/on.py <day> pravilnik-2017-1535`).
 
 ## Decisions made by hand
 

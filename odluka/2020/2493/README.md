@@ -8,7 +8,7 @@ Odluka o izmjeni Odluke o uvođenju nužnih epidemioloških mjera za područje B
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2020-2493` (tags `odluka-2020-2493/<day>`; `python tools/on.py <day> odluka-2020-2493`).
+Act id: `odluka-2020-2493` (tags `odluka-2020-2493/<day>`; `python registry/tools/on.py <day> odluka-2020-2493`).
 
 ## Decisions made by hand
 

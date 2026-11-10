@@ -8,7 +8,7 @@ Odluka o dodacima na osnovnu plaću u Ministarstvu obrane i Oružanim snagama Re
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2018-1799` (tags `odluka-2018-1799/<day>`; `python tools/on.py <day> odluka-2018-1799`).
+Act id: `odluka-2018-1799` (tags `odluka-2018-1799/<day>`; `python registry/tools/on.py <day> odluka-2018-1799`).
 
 ## Status
 

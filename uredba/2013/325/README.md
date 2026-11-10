@@ -9,7 +9,7 @@ Uredba o izmjeni Tarife Zakona o upravnim pristojbama · 1 versions, from 2013-0
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2013-325` (tags `uredba-2013-325/<day>`; `python tools/on.py <day> uredba-2013-325`).
+Act id: `uredba-2013-325` (tags `uredba-2013-325/<day>`; `python registry/tools/on.py <day> uredba-2013-325`).
 
 ## Decisions made by hand
 

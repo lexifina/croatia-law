@@ -5,7 +5,7 @@ Odluka o općinskim porezima Općine Hrašćina · 2 versions, from 2020-01-01 (
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `odluka-2019-2625` (tags `odluka-2019-2625/<day>`; `python tools/on.py <day> odluka-2019-2625`).
+Act id: `odluka-2019-2625` (tags `odluka-2019-2625/<day>`; `python registry/tools/on.py <day> odluka-2019-2625`).
 
 ## Decisions made by hand
 

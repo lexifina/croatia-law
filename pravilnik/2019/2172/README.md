@@ -23,7 +23,7 @@ Pravilnik o elektroničkom poslovanju korisnika i ovlaštenih korisnika sustava 
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2019-2172` (tags `pravilnik-2019-2172/<day>`; `python tools/on.py <day> pravilnik-2019-2172`).
+Act id: `pravilnik-2019-2172` (tags `pravilnik-2019-2172/<day>`; `python registry/tools/on.py <day> pravilnik-2019-2172`).
 
 ## Status
 

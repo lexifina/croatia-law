@@ -8,7 +8,7 @@ Odluka o upisu ulovnih ribarskih plovila udičarskim alatima u Registar ICCAT-a 
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2024-308` (tags `odluka-2024-308/<day>`; `python tools/on.py <day> odluka-2024-308`).
+Act id: `odluka-2024-308` (tags `odluka-2024-308/<day>`; `python registry/tools/on.py <day> odluka-2024-308`).
 
 ## Decisions made by hand
 

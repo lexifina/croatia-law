@@ -9,7 +9,7 @@ Odluka o usvajanju Izmjene Programa »Mikro i mali zajmovi za ruralni razvoj« �
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2022-1008` (tags `odluka-2022-1008/<day>`; `python tools/on.py <day> odluka-2022-1008`).
+Act id: `odluka-2022-1008` (tags `odluka-2022-1008/<day>`; `python registry/tools/on.py <day> odluka-2022-1008`).
 
 ## Decisions made by hand
 

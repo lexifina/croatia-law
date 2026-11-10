@@ -10,7 +10,7 @@ Zakon o dopuni Zakona o osnivanju Sveučilišta u Dubrovniku · 1 versions, from
 | čl. 4 | [clanak-004.md](clanak-004.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2011-1706` (tags `zakon-2011-1706/<day>`; `python tools/on.py <day> zakon-2011-1706`).
+Act id: `zakon-2011-1706` (tags `zakon-2011-1706/<day>`; `python registry/tools/on.py <day> zakon-2011-1706`).
 
 ## Decisions made by hand
 

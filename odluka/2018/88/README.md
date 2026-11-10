@@ -29,7 +29,7 @@ Odluka o lokalnim porezima Općine Motovun - Montona · 1 versions, from 2018-01
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2018-88` (tags `odluka-2018-88/<day>`; `python tools/on.py <day> odluka-2018-88`).
+Act id: `odluka-2018-88` (tags `odluka-2018-88/<day>`; `python registry/tools/on.py <day> odluka-2018-88`).
 
 ## Status
 

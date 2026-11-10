@@ -76,7 +76,7 @@ Zakon o humanitarnoj pomoći · 1 versions, from 2015-11-01 (latest in force: 20
 | čl. 70 | [clanak-070.md](clanak-070.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2015-1970` (tags `zakon-2015-1970/<day>`; `python tools/on.py <day> zakon-2015-1970`).
+Act id: `zakon-2015-1970` (tags `zakon-2015-1970/<day>`; `python registry/tools/on.py <day> zakon-2015-1970`).
 
 ## Status
 

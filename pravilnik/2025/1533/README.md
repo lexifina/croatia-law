@@ -16,7 +16,7 @@ Pravilnik o izmjenama i dopunama Pravilnika o načinu prikupljanja izvještaja, 
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2025-1533` (tags `pravilnik-2025-1533/<day>`; `python tools/on.py <day> pravilnik-2025-1533`).
+Act id: `pravilnik-2025-1533` (tags `pravilnik-2025-1533/<day>`; `python registry/tools/on.py <day> pravilnik-2025-1533`).
 
 ## Decisions made by hand
 

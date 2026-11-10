@@ -17,7 +17,7 @@ Pravilnik o statusnim promjenama mirovinskih društava koja upravljaju obveznim 
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2014-1124` (tags `pravilnik-2014-1124/<day>`; `python tools/on.py <day> pravilnik-2014-1124`).
+Act id: `pravilnik-2014-1124` (tags `pravilnik-2014-1124/<day>`; `python registry/tools/on.py <day> pravilnik-2014-1124`).
 
 ## Status
 

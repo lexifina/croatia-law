@@ -31,7 +31,7 @@ Zakon o izmjenama i dopunama Kaznenog zakona · 1 versions, from 2020-01-01 (lat
 | čl. 25 | [clanak-025.md](clanak-025.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2019-2529` (tags `zakon-2019-2529/<day>`; `python tools/on.py <day> zakon-2019-2529`).
+Act id: `zakon-2019-2529` (tags `zakon-2019-2529/<day>`; `python registry/tools/on.py <day> zakon-2019-2529`).
 
 ## Decisions made by hand
 

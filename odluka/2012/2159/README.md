@@ -12,7 +12,7 @@ Odluka o izradi Izmjene i dopune Programa prostornog uređenja Republike Hrvatsk
 | čl. 6 | [clanak-006.md](clanak-006.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `odluka-2012-2159` (tags `odluka-2012-2159/<day>`; `python tools/on.py <day> odluka-2012-2159`).
+Act id: `odluka-2012-2159` (tags `odluka-2012-2159/<day>`; `python registry/tools/on.py <day> odluka-2012-2159`).
 
 ## Decisions made by hand
 

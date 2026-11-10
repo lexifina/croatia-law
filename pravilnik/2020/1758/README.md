@@ -23,7 +23,7 @@ Pravilnik o provedbi mjera Programa potpore za sufinanciranje rada uzgojnih udru
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2020-1758` (tags `pravilnik-2020-1758/<day>`; `python tools/on.py <day> pravilnik-2020-1758`).
+Act id: `pravilnik-2020-1758` (tags `pravilnik-2020-1758/<day>`; `python registry/tools/on.py <day> pravilnik-2020-1758`).
 
 ## Decisions made by hand
 

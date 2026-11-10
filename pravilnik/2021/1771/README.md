@@ -9,7 +9,7 @@ Pravilnik o izmjeni i dopuni Pravilnika o vrednovanju lokacije za nuklearno post
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2021-1771` (tags `pravilnik-2021-1771/<day>`; `python tools/on.py <day> pravilnik-2021-1771`).
+Act id: `pravilnik-2021-1771` (tags `pravilnik-2021-1771/<day>`; `python registry/tools/on.py <day> pravilnik-2021-1771`).
 
 ## Decisions made by hand
 

@@ -9,7 +9,7 @@ Pravilnik o izmjeni Pravilnika o načinu obavljanja veterinarskih pregleda i kon
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2011-1122` (tags `pravilnik-2011-1122/<day>`; `python tools/on.py <day> pravilnik-2011-1122`).
+Act id: `pravilnik-2011-1122` (tags `pravilnik-2011-1122/<day>`; `python registry/tools/on.py <day> pravilnik-2011-1122`).
 
 ## Decisions made by hand
 

@@ -15,7 +15,7 @@ Pravilnik o izmjenama i dopunama Pravilnika o obliku i sadržaju financijskih i 
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2019-982` (tags `pravilnik-2019-982/<day>`; `python tools/on.py <day> pravilnik-2019-982`).
+Act id: `pravilnik-2019-982` (tags `pravilnik-2019-982/<day>`; `python registry/tools/on.py <day> pravilnik-2019-982`).
 
 ## Decisions made by hand
 

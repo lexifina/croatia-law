@@ -13,7 +13,7 @@ Odluka o izmjenama Odluke o početku i završetku nastavne godine, broju radnih 
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2024-1540` (tags `odluka-2024-1540/<day>`; `python tools/on.py <day> odluka-2024-1540`).
+Act id: `odluka-2024-1540` (tags `odluka-2024-1540/<day>`; `python registry/tools/on.py <day> odluka-2024-1540`).
 
 ## Decisions made by hand
 

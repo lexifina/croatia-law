@@ -10,7 +10,7 @@ Odluka o dopunama Odluke o standardima i normativima prava na zdravstvenu zašti
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2013-2252` (tags `odluka-2013-2252/<day>`; `python tools/on.py <day> odluka-2013-2252`).
+Act id: `odluka-2013-2252` (tags `odluka-2013-2252/<day>`; `python registry/tools/on.py <day> odluka-2013-2252`).
 
 ## Decisions made by hand
 

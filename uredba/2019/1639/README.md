@@ -23,7 +23,7 @@ Uredba o izmjenama i dopunama Uredbe o unutarnjem ustrojstvu Ministarstva vanjsk
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2019-1639` (tags `uredba-2019-1639/<day>`; `python tools/on.py <day> uredba-2019-1639`).
+Act id: `uredba-2019-1639` (tags `uredba-2019-1639/<day>`; `python registry/tools/on.py <day> uredba-2019-1639`).
 
 ## Decisions made by hand
 

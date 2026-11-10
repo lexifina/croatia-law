@@ -17,7 +17,7 @@ Odluka o kamatnim stopama, diskontnoj (eskontnoj) stopi i naknadama Hrvatske nar
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2017-2189` (tags `odluka-2017-2189/<day>`; `python tools/on.py <day> odluka-2017-2189`).
+Act id: `odluka-2017-2189` (tags `odluka-2017-2189/<day>`; `python registry/tools/on.py <day> odluka-2017-2189`).
 
 ## Status
 

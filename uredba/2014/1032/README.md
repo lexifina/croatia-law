@@ -12,7 +12,7 @@ Uredba o načinu povrata kupoprodajne cijene bez kamata hrvatskim braniteljima i
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2014-1032` (tags `uredba-2014-1032/<day>`; `python tools/on.py <day> uredba-2014-1032`).
+Act id: `uredba-2014-1032` (tags `uredba-2014-1032/<day>`; `python registry/tools/on.py <day> uredba-2014-1032`).
 
 ## Status
 

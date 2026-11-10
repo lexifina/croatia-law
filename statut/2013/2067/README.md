@@ -8,7 +8,7 @@ Statut Hrvatske komore patentnih zastupnika i zastupnika za žigove · 1 version
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `statut-2013-2067` (tags `statut-2013-2067/<day>`; `python tools/on.py <day> statut-2013-2067`).
+Act id: `statut-2013-2067` (tags `statut-2013-2067/<day>`; `python registry/tools/on.py <day> statut-2013-2067`).
 
 ## Status
 

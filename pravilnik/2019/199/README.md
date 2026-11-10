@@ -5,7 +5,7 @@ Pravilnik o djelomičnoj jednokratnoj isplati korisniku starosne i prijevremene 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `pravilnik-2019-199` (tags `pravilnik-2019-199/<day>`; `python tools/on.py <day> pravilnik-2019-199`).
+Act id: `pravilnik-2019-199` (tags `pravilnik-2019-199/<day>`; `python registry/tools/on.py <day> pravilnik-2019-199`).
 
 ## Decisions made by hand
 

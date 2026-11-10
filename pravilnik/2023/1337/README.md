@@ -15,7 +15,7 @@ Pravilnik o visini naknade za troÅ¡kove postupaka priznavanja i vrednovanja, naÄ
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2023-1337` (tags `pravilnik-2023-1337/<day>`; `python tools/on.py <day> pravilnik-2023-1337`).
+Act id: `pravilnik-2023-1337` (tags `pravilnik-2023-1337/<day>`; `python registry/tools/on.py <day> pravilnik-2023-1337`).
 
 ## Decisions made by hand
 

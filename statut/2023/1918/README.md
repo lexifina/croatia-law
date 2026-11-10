@@ -54,7 +54,7 @@ Statut stranke Hrvatsko bilo · 1 versions, from 2023-09-24 (latest in force: 20
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `statut-2023-1918` (tags `statut-2023-1918/<day>`; `python tools/on.py <day> statut-2023-1918`).
+Act id: `statut-2023-1918` (tags `statut-2023-1918/<day>`; `python registry/tools/on.py <day> statut-2023-1918`).
 
 ## Decisions made by hand
 

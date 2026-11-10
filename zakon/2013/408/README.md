@@ -8,7 +8,7 @@ Zakon o izmjeni Zakona o Hrvatskoj banci za obnovu i razvitak · 1 versions, fro
 | čl. 2 | [clanak-002.md](clanak-002.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2013-408` (tags `zakon-2013-408/<day>`; `python tools/on.py <day> zakon-2013-408`).
+Act id: `zakon-2013-408` (tags `zakon-2013-408/<day>`; `python registry/tools/on.py <day> zakon-2013-408`).
 
 ## Decisions made by hand
 

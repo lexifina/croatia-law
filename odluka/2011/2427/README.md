@@ -8,7 +8,7 @@ Odluka o preraspodjeli sredstava planiranih u Financijskom planu Fonda za zašti
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2011-2427` (tags `odluka-2011-2427/<day>`; `python tools/on.py <day> odluka-2011-2427`).
+Act id: `odluka-2011-2427` (tags `odluka-2011-2427/<day>`; `python registry/tools/on.py <day> odluka-2011-2427`).
 
 ## Decisions made by hand
 

@@ -49,7 +49,7 @@ Naredba o mjerama zaštite zdravlja životinja od zaraznih i nametničkih bolest
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `naredba-2019-92` (tags `naredba-2019-92/<day>`; `python tools/on.py <day> naredba-2019-92`).
+Act id: `naredba-2019-92` (tags `naredba-2019-92/<day>`; `python registry/tools/on.py <day> naredba-2019-92`).
 
 ## Status
 

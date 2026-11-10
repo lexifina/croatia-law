@@ -8,7 +8,7 @@ Odluka o uvjetima za izdavanje posebnog dijela potvrde o sigurnosti (Dio B) · 1
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2013-2773` (tags `odluka-2013-2773/<day>`; `python tools/on.py <day> odluka-2013-2773`).
+Act id: `odluka-2013-2773` (tags `odluka-2013-2773/<day>`; `python registry/tools/on.py <day> odluka-2013-2773`).
 
 ## Status
 

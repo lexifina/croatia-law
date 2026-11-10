@@ -10,7 +10,7 @@ Odluka o izmjenama Odluke o postupcima namire za sporedne sustave · 1 versions,
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2022-2064` (tags `odluka-2022-2064/<day>`; `python tools/on.py <day> odluka-2022-2064`).
+Act id: `odluka-2022-2064` (tags `odluka-2022-2064/<day>`; `python registry/tools/on.py <day> odluka-2022-2064`).
 
 ## Decisions made by hand
 

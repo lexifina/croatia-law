@@ -10,7 +10,7 @@ Odluka o izmjenama i dopunama Odluke o nadzornim izvještajima kreditnih institu
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2013-1329` (tags `odluka-2013-1329/<day>`; `python tools/on.py <day> odluka-2013-1329`).
+Act id: `odluka-2013-1329` (tags `odluka-2013-1329/<day>`; `python registry/tools/on.py <day> odluka-2013-1329`).
 
 ## Decisions made by hand
 

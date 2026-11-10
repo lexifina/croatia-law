@@ -12,7 +12,7 @@ Pravilnik o izmjenama i dopunama Pravilnika o informiranju potrošača o nepretp
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2020-1278` (tags `pravilnik-2020-1278/<day>`; `python tools/on.py <day> pravilnik-2020-1278`).
+Act id: `pravilnik-2020-1278` (tags `pravilnik-2020-1278/<day>`; `python registry/tools/on.py <day> pravilnik-2020-1278`).
 
 ## Decisions made by hand
 

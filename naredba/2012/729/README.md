@@ -8,7 +8,7 @@ Naredba o izmjeni Naredbe o zaštiti riba i drugih morskih organizama · 1 versi
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `naredba-2012-729` (tags `naredba-2012-729/<day>`; `python tools/on.py <day> naredba-2012-729`).
+Act id: `naredba-2012-729` (tags `naredba-2012-729/<day>`; `python registry/tools/on.py <day> naredba-2012-729`).
 
 ## Decisions made by hand
 

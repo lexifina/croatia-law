@@ -5,7 +5,7 @@ Odluka o rang-listi sudionika u malom obalnom ribolovu · 2 versions, from 2019-
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `odluka-2019-255` (tags `odluka-2019-255/<day>`; `python tools/on.py <day> odluka-2019-255`).
+Act id: `odluka-2019-255` (tags `odluka-2019-255/<day>`; `python registry/tools/on.py <day> odluka-2019-255`).
 
 ## Decisions made by hand
 

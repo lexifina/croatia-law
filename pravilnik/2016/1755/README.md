@@ -25,7 +25,7 @@ Pravilnik o termičkoj obradi otpada · 1 versions, from 2016-08-25 (latest in f
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2016-1755` (tags `pravilnik-2016-1755/<day>`; `python tools/on.py <day> pravilnik-2016-1755`).
+Act id: `pravilnik-2016-1755` (tags `pravilnik-2016-1755/<day>`; `python registry/tools/on.py <day> pravilnik-2016-1755`).
 
 ## Status
 

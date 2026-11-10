@@ -8,7 +8,7 @@ Odluka o sudjelovanju Republike Hrvatske u 21. nadopuni sredstava Međunarodnog 
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2025-1459` (tags `odluka-2025-1459/<day>`; `python tools/on.py <day> odluka-2025-1459`).
+Act id: `odluka-2025-1459` (tags `odluka-2025-1459/<day>`; `python registry/tools/on.py <day> odluka-2025-1459`).
 
 ## Decisions made by hand
 

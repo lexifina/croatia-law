@@ -17,7 +17,7 @@ Zakon o izmjenama i dopuni Zakona o obveznom zdravstvenom osiguranju · 1 versio
 | čl. 11 | [clanak-011.md](clanak-011.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2013-2944` (tags `zakon-2013-2944/<day>`; `python tools/on.py <day> zakon-2013-2944`).
+Act id: `zakon-2013-2944` (tags `zakon-2013-2944/<day>`; `python registry/tools/on.py <day> zakon-2013-2944`).
 
 ## Decisions made by hand
 

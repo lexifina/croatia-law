@@ -10,7 +10,7 @@ Odluka o visini poreznih stopa godišnjeg poreza na dohodak na području Grada V
 | čl. 4 | [clanak-004.md](clanak-004.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `odluka-2025-351` (tags `odluka-2025-351/<day>`; `python tools/on.py <day> odluka-2025-351`).
+Act id: `odluka-2025-351` (tags `odluka-2025-351/<day>`; `python registry/tools/on.py <day> odluka-2025-351`).
 
 ## Decisions made by hand
 

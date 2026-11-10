@@ -8,7 +8,7 @@ Odluka o dopunama Odluke o otpisu zakonskih zateznih kamata na potraživanja koj
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2018-995` (tags `odluka-2018-995/<day>`; `python tools/on.py <day> odluka-2018-995`).
+Act id: `odluka-2018-995` (tags `odluka-2018-995/<day>`; `python registry/tools/on.py <day> odluka-2018-995`).
 
 ## Decisions made by hand
 

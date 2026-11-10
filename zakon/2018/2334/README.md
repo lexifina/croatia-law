@@ -11,7 +11,7 @@ Zakon o prestanku važenja Zakona o poticanju zapošljavanja · 1 versions, from
 | čl. 5 | [clanak-005.md](clanak-005.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2018-2334` (tags `zakon-2018-2334/<day>`; `python tools/on.py <day> zakon-2018-2334`).
+Act id: `zakon-2018-2334` (tags `zakon-2018-2334/<day>`; `python registry/tools/on.py <day> zakon-2018-2334`).
 
 ## Decisions made by hand
 

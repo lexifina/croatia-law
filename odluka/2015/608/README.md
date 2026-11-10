@@ -10,7 +10,7 @@ Odluka o dopuni Odluke o utvrđivanju Popisa posebne skupih lijekova utvrđenih 
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2015-608` (tags `odluka-2015-608/<day>`; `python tools/on.py <day> odluka-2015-608`).
+Act id: `odluka-2015-608` (tags `odluka-2015-608/<day>`; `python registry/tools/on.py <day> odluka-2015-608`).
 
 ## Decisions made by hand
 

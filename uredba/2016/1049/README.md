@@ -12,7 +12,7 @@ Uredba o izmjenama i dopunama Uredbe o uspostavljanju javnog Registra za koordin
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2016-1049` (tags `uredba-2016-1049/<day>`; `python tools/on.py <day> uredba-2016-1049`).
+Act id: `uredba-2016-1049` (tags `uredba-2016-1049/<day>`; `python registry/tools/on.py <day> uredba-2016-1049`).
 
 ## Decisions made by hand
 

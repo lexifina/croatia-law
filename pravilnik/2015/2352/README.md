@@ -5,7 +5,7 @@ Pravilnik o obavljanju stručnih geodetskih poslova u komasaciji · 2 versions, 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `pravilnik-2015-2352` (tags `pravilnik-2015-2352/<day>`; `python tools/on.py <day> pravilnik-2015-2352`).
+Act id: `pravilnik-2015-2352` (tags `pravilnik-2015-2352/<day>`; `python registry/tools/on.py <day> pravilnik-2015-2352`).
 
 ## Decisions made by hand
 

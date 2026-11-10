@@ -8,7 +8,7 @@ Odluka o načinu održavanja pogreba i posljednjih ispraćaja · 1 versions, fro
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2020-731` (tags `odluka-2020-731/<day>`; `python tools/on.py <day> odluka-2020-731`).
+Act id: `odluka-2020-731` (tags `odluka-2020-731/<day>`; `python registry/tools/on.py <day> odluka-2020-731`).
 
 ## Status
 

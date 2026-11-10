@@ -8,7 +8,7 @@ Zakon o prestanku važenja Zakona o elektroničkoj ispravi · 1 versions, from 2
 | čl. 2 | [clanak-002.md](clanak-002.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2022-1935` (tags `zakon-2022-1935/<day>`; `python tools/on.py <day> zakon-2022-1935`).
+Act id: `zakon-2022-1935` (tags `zakon-2022-1935/<day>`; `python registry/tools/on.py <day> zakon-2022-1935`).
 
 ## Decisions made by hand
 

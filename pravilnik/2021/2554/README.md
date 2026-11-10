@@ -14,7 +14,7 @@ Pravilnik o izmjenama Pravilnika o skladištenju opasnih kemikalija koje djeluju
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2021-2554` (tags `pravilnik-2021-2554/<day>`; `python tools/on.py <day> pravilnik-2021-2554`).
+Act id: `pravilnik-2021-2554` (tags `pravilnik-2021-2554/<day>`; `python registry/tools/on.py <day> pravilnik-2021-2554`).
 
 ## Decisions made by hand
 

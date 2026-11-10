@@ -8,7 +8,7 @@ Odluka o izmjeni Odluke o financiranju najamnine za stambeno zbrinjavanje osoba 
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2021-1236` (tags `odluka-2021-1236/<day>`; `python tools/on.py <day> odluka-2021-1236`).
+Act id: `odluka-2021-1236` (tags `odluka-2021-1236/<day>`; `python registry/tools/on.py <day> odluka-2021-1236`).
 
 ## Decisions made by hand
 

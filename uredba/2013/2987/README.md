@@ -10,7 +10,7 @@ Uredba o dopunama Uredbe o plaćama policijskih službenika · 1 versions, from 
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2013-2987` (tags `uredba-2013-2987/<day>`; `python tools/on.py <day> uredba-2013-2987`).
+Act id: `uredba-2013-2987` (tags `uredba-2013-2987/<day>`; `python registry/tools/on.py <day> uredba-2013-2987`).
 
 ## Decisions made by hand
 

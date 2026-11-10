@@ -9,7 +9,7 @@ Odluka o izmjenama Odluke o osnovama za sklapanje ugovora o provoÄ‘enju specifiÄ
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2014-2982` (tags `odluka-2014-2982/<day>`; `python tools/on.py <day> odluka-2014-2982`).
+Act id: `odluka-2014-2982` (tags `odluka-2014-2982/<day>`; `python registry/tools/on.py <day> odluka-2014-2982`).
 
 ## Decisions made by hand
 

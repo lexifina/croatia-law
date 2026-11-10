@@ -16,7 +16,7 @@ Pravilnik o izmjenama i dopunama Pravilnika o uvjetima za obavljanje djelatnosti
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2021-2555` (tags `pravilnik-2021-2555/<day>`; `python tools/on.py <day> pravilnik-2021-2555`).
+Act id: `pravilnik-2021-2555` (tags `pravilnik-2021-2555/<day>`; `python registry/tools/on.py <day> pravilnik-2021-2555`).
 
 ## Decisions made by hand
 

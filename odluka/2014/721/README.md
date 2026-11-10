@@ -48,7 +48,7 @@ Odluka o porezima Općine Motovun-Montona · 1 versions, from 2014-04-01 (latest
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2014-721` (tags `odluka-2014-721/<day>`; `python tools/on.py <day> odluka-2014-721`).
+Act id: `odluka-2014-721` (tags `odluka-2014-721/<day>`; `python registry/tools/on.py <day> odluka-2014-721`).
 
 ## Status
 

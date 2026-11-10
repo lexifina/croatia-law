@@ -11,7 +11,7 @@ Pravilnik o stjecanju statusa specijalista laboratorijske imunologije · 1 versi
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2013-2245` (tags `pravilnik-2013-2245/<day>`; `python tools/on.py <day> pravilnik-2013-2245`).
+Act id: `pravilnik-2013-2245` (tags `pravilnik-2013-2245/<day>`; `python registry/tools/on.py <day> pravilnik-2013-2245`).
 
 ## Decisions made by hand
 

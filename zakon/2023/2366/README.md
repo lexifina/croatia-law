@@ -14,7 +14,7 @@ Zakon o izmjenama i dopunama Zakona o parničnom postupku · 1 versions, from 20
 | čl. 8 | [clanak-008.md](clanak-008.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2023-2366` (tags `zakon-2023-2366/<day>`; `python tools/on.py <day> zakon-2023-2366`).
+Act id: `zakon-2023-2366` (tags `zakon-2023-2366/<day>`; `python registry/tools/on.py <day> zakon-2023-2366`).
 
 ## Decisions made by hand
 

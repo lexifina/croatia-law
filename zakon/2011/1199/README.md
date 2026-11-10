@@ -13,7 +13,7 @@ Zakon o izmjenama Zakona o sjemenu, sadnom materijalu i priznavanju sorti poljop
 | čl. 7 | [clanak-007.md](clanak-007.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2011-1199` (tags `zakon-2011-1199/<day>`; `python tools/on.py <day> zakon-2011-1199`).
+Act id: `zakon-2011-1199` (tags `zakon-2011-1199/<day>`; `python registry/tools/on.py <day> zakon-2011-1199`).
 
 ## Decisions made by hand
 

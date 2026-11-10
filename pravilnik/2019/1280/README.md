@@ -5,7 +5,7 @@ Pravilnik o načinu revalorizacije zakupnine odnosno naknade za korištenje polj
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `pravilnik-2019-1280` (tags `pravilnik-2019-1280/<day>`; `python tools/on.py <day> pravilnik-2019-1280`).
+Act id: `pravilnik-2019-1280` (tags `pravilnik-2019-1280/<day>`; `python registry/tools/on.py <day> pravilnik-2019-1280`).
 
 ## Decisions made by hand
 

@@ -12,7 +12,7 @@ Pravilnik o izmjenama Pravilnika o zajedničkom upisniku školskih ustanova u el
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2020-816` (tags `pravilnik-2020-816/<day>`; `python tools/on.py <day> pravilnik-2020-816`).
+Act id: `pravilnik-2020-816` (tags `pravilnik-2020-816/<day>`; `python registry/tools/on.py <day> pravilnik-2020-816`).
 
 ## Decisions made by hand
 

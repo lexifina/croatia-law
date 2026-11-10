@@ -12,7 +12,7 @@ Pravilnik o obavljanju inspekcijskog nadzora zaštite od požara za potrebe Mini
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2012-1722` (tags `pravilnik-2012-1722/<day>`; `python tools/on.py <day> pravilnik-2012-1722`).
+Act id: `pravilnik-2012-1722` (tags `pravilnik-2012-1722/<day>`; `python registry/tools/on.py <day> pravilnik-2012-1722`).
 
 ## Decisions made by hand
 

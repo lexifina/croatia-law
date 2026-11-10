@@ -9,7 +9,7 @@ Odluka o davanju suglasnosti na Izmjene i dopune Financijskog plana HŽ Putničk
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2020-1173` (tags `odluka-2020-1173/<day>`; `python tools/on.py <day> odluka-2020-1173`).
+Act id: `odluka-2020-1173` (tags `odluka-2020-1173/<day>`; `python registry/tools/on.py <day> odluka-2020-1173`).
 
 ## Decisions made by hand
 

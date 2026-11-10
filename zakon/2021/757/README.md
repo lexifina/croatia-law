@@ -12,7 +12,7 @@ Zakon o izmjenama i dopunama Zakona o lokalnim izborima · 1 versions, from 2021
 | čl. 6 | [clanak-006.md](clanak-006.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2021-757` (tags `zakon-2021-757/<day>`; `python tools/on.py <day> zakon-2021-757`).
+Act id: `zakon-2021-757` (tags `zakon-2021-757/<day>`; `python registry/tools/on.py <day> zakon-2021-757`).
 
 ## Decisions made by hand
 

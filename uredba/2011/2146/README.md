@@ -28,7 +28,7 @@ Uredba o načinu raspolaganja prilikom zamjene, darovanja i osnivanja založnog 
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2011-2146` (tags `uredba-2011-2146/<day>`; `python tools/on.py <day> uredba-2011-2146`).
+Act id: `uredba-2011-2146` (tags `uredba-2011-2146/<day>`; `python registry/tools/on.py <day> uredba-2011-2146`).
 
 ## Decisions made by hand
 

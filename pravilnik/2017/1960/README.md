@@ -16,7 +16,7 @@ Pravilnik o označavanju vina oznakom sorte vinove loze · 1 versions, from 2017
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2017-1960` (tags `pravilnik-2017-1960/<day>`; `python tools/on.py <day> pravilnik-2017-1960`).
+Act id: `pravilnik-2017-1960` (tags `pravilnik-2017-1960/<day>`; `python registry/tools/on.py <day> pravilnik-2017-1960`).
 
 ## Status
 

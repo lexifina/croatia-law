@@ -17,7 +17,7 @@ Pravilnik o obliku i sadržaju zadužnice · 1 versions, from 2011-02-04 (latest
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2011-300` (tags `pravilnik-2011-300/<day>`; `python tools/on.py <day> pravilnik-2011-300`).
+Act id: `pravilnik-2011-300` (tags `pravilnik-2011-300/<day>`; `python registry/tools/on.py <day> pravilnik-2011-300`).
 
 ## Status
 

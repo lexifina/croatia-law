@@ -14,7 +14,7 @@ Pravilnik o izmjenama i dopunama Pravilnika o statusnim promjenama AIF-ova bez p
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2026-917` (tags `pravilnik-2026-917/<day>`; `python tools/on.py <day> pravilnik-2026-917`).
+Act id: `pravilnik-2026-917` (tags `pravilnik-2026-917/<day>`; `python registry/tools/on.py <day> pravilnik-2026-917`).
 
 ## Decisions made by hand
 

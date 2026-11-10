@@ -38,7 +38,7 @@ Pravilnik o praćenju kvalitete zraka · 1 versions, from 2020-07-02 (latest in 
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2020-1410` (tags `pravilnik-2020-1410/<day>`; `python tools/on.py <day> pravilnik-2020-1410`).
+Act id: `pravilnik-2020-1410` (tags `pravilnik-2020-1410/<day>`; `python registry/tools/on.py <day> pravilnik-2020-1410`).
 
 ## Decisions made by hand
 

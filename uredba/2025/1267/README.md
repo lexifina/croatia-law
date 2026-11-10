@@ -23,7 +23,7 @@ Uredba o kriterijima za klasifikaciju izdavatelja kao namjenskog izdavatelja za 
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2025-1267` (tags `uredba-2025-1267/<day>`; `python tools/on.py <day> uredba-2025-1267`).
+Act id: `uredba-2025-1267` (tags `uredba-2025-1267/<day>`; `python registry/tools/on.py <day> uredba-2025-1267`).
 
 ## Decisions made by hand
 

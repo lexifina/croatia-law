@@ -10,7 +10,7 @@ Uredba o izmjeni i dopuni Zakona o Popisu poljoprivrede 2020. · 1 versions, fro
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2020-1271` (tags `uredba-2020-1271/<day>`; `python tools/on.py <day> uredba-2020-1271`).
+Act id: `uredba-2020-1271` (tags `uredba-2020-1271/<day>`; `python registry/tools/on.py <day> uredba-2020-1271`).
 
 ## Decisions made by hand
 

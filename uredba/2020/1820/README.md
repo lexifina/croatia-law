@@ -5,7 +5,7 @@ Uredba o unutarnjem ustrojstvu Ministarstva turizma i sporta · 2 versions, from
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `uredba-2020-1820` (tags `uredba-2020-1820/<day>`; `python tools/on.py <day> uredba-2020-1820`).
+Act id: `uredba-2020-1820` (tags `uredba-2020-1820/<day>`; `python registry/tools/on.py <day> uredba-2020-1820`).
 
 ## Decisions made by hand
 

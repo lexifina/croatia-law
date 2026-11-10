@@ -8,7 +8,7 @@ Odluka o izmjenama Odluke o osnivanju Inovacijskog vijeća za industriju Republi
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2019-747` (tags `odluka-2019-747/<day>`; `python tools/on.py <day> odluka-2019-747`).
+Act id: `odluka-2019-747` (tags `odluka-2019-747/<day>`; `python registry/tools/on.py <day> odluka-2019-747`).
 
 ## Decisions made by hand
 

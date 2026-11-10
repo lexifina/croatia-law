@@ -45,7 +45,7 @@ Pravilnik o obavljanju univerzalne usluge · 1 versions, from 2013-04-16 (latest
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2013-781` (tags `pravilnik-2013-781/<day>`; `python tools/on.py <day> pravilnik-2013-781`).
+Act id: `pravilnik-2013-781` (tags `pravilnik-2013-781/<day>`; `python registry/tools/on.py <day> pravilnik-2013-781`).
 
 ## Status
 

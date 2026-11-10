@@ -8,7 +8,7 @@ Odluka o izmjenama Odluke o osnivanju Međuresorne radne skupine za osiguravanje
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2017-354` (tags `odluka-2017-354/<day>`; `python tools/on.py <day> odluka-2017-354`).
+Act id: `odluka-2017-354` (tags `odluka-2017-354/<day>`; `python registry/tools/on.py <day> odluka-2017-354`).
 
 ## Decisions made by hand
 

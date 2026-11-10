@@ -8,7 +8,7 @@ Odluka o pokretanju Projekta e-Građani · 1 versions, from 2013-04-25 (latest i
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2013-1058` (tags `odluka-2013-1058/<day>`; `python tools/on.py <day> odluka-2013-1058`).
+Act id: `odluka-2013-1058` (tags `odluka-2013-1058/<day>`; `python registry/tools/on.py <day> odluka-2013-1058`).
 
 ## Status
 

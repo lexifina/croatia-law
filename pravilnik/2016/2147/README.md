@@ -21,7 +21,7 @@ Pravilnik o odobravanju službenog mjesta · 1 versions, from 2016-11-10 (latest
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2016-2147` (tags `pravilnik-2016-2147/<day>`; `python tools/on.py <day> pravilnik-2016-2147`).
+Act id: `pravilnik-2016-2147` (tags `pravilnik-2016-2147/<day>`; `python registry/tools/on.py <day> pravilnik-2016-2147`).
 
 ## Decisions made by hand
 

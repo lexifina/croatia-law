@@ -11,7 +11,7 @@ Pravilnik o izmjenama Pravilnika o početnoj zakupnini poljoprivrednog zemljišt
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2015-1909` (tags `pravilnik-2015-1909/<day>`; `python tools/on.py <day> pravilnik-2015-1909`).
+Act id: `pravilnik-2015-1909` (tags `pravilnik-2015-1909/<day>`; `python registry/tools/on.py <day> pravilnik-2015-1909`).
 
 ## Decisions made by hand
 

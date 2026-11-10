@@ -9,7 +9,7 @@ Odluka o izmjeni Odluke o utvrđivanju cijene obrtnice · 1 versions, from 2016-
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2015-2547` (tags `odluka-2015-2547/<day>`; `python tools/on.py <day> odluka-2015-2547`).
+Act id: `odluka-2015-2547` (tags `odluka-2015-2547/<day>`; `python registry/tools/on.py <day> odluka-2015-2547`).
 
 ## Decisions made by hand
 

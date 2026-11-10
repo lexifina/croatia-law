@@ -5,7 +5,7 @@ Uredba o unutarnjem ustrojstvu Središnjeg državnog ureda za razvoj digitalnog 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `uredba-2020-1829` (tags `uredba-2020-1829/<day>`; `python tools/on.py <day> uredba-2020-1829`).
+Act id: `uredba-2020-1829` (tags `uredba-2020-1829/<day>`; `python registry/tools/on.py <day> uredba-2020-1829`).
 
 ## Decisions made by hand
 

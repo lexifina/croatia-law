@@ -9,7 +9,7 @@ Odluka o uvjetima za prijam učenika u učeničke domove u školskoj godini 2015
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2015-1140` (tags `odluka-2015-1140/<day>`; `python tools/on.py <day> odluka-2015-1140`).
+Act id: `odluka-2015-1140` (tags `odluka-2015-1140/<day>`; `python registry/tools/on.py <day> odluka-2015-1140`).
 
 ## Decisions made by hand
 

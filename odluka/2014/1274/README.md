@@ -8,7 +8,7 @@ Odluka o mjerilima za utvrđivanje visine naknade za rad i naknadama troškova �
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2014-1274` (tags `odluka-2014-1274/<day>`; `python tools/on.py <day> odluka-2014-1274`).
+Act id: `odluka-2014-1274` (tags `odluka-2014-1274/<day>`; `python registry/tools/on.py <day> odluka-2014-1274`).
 
 ## Decisions made by hand
 

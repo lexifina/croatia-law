@@ -8,7 +8,7 @@ Odluka Ministarstva znanosti i obrazovanja, klasa: 602-01/16-03/00226, urbroj: 5
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2017-2254` (tags `odluka-2017-2254/<day>`; `python tools/on.py <day> odluka-2017-2254`).
+Act id: `odluka-2017-2254` (tags `odluka-2017-2254/<day>`; `python registry/tools/on.py <day> odluka-2017-2254`).
 
 ## Decisions made by hand
 

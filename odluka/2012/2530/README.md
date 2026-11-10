@@ -9,7 +9,7 @@ Odluka o dopunama Odluke objavljivanju pravila o državnim potporama za poticanj
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2012-2530` (tags `odluka-2012-2530/<day>`; `python tools/on.py <day> odluka-2012-2530`).
+Act id: `odluka-2012-2530` (tags `odluka-2012-2530/<day>`; `python registry/tools/on.py <day> odluka-2012-2530`).
 
 ## Decisions made by hand
 

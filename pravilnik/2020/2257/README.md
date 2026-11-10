@@ -19,7 +19,7 @@ Pravilnik o godišnjem izvještavanju Hanfe o usklađenosti s odredbama Uredbe (
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2020-2257` (tags `pravilnik-2020-2257/<day>`; `python tools/on.py <day> pravilnik-2020-2257`).
+Act id: `pravilnik-2020-2257` (tags `pravilnik-2020-2257/<day>`; `python registry/tools/on.py <day> pravilnik-2020-2257`).
 
 ## Status
 

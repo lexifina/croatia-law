@@ -8,7 +8,7 @@ Odluka o katastarskoj izmjeri na području Općine Primorski Dolac za dijelove k
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2026-543` (tags `odluka-2026-543/<day>`; `python tools/on.py <day> odluka-2026-543`).
+Act id: `odluka-2026-543` (tags `odluka-2026-543/<day>`; `python registry/tools/on.py <day> odluka-2026-543`).
 
 ## Decisions made by hand
 

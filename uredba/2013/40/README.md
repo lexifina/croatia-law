@@ -22,7 +22,7 @@ Uredba o uvjetima, načinu i postupku raspolaganja tražbinama s naslova porezno
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2013-40` (tags `uredba-2013-40/<day>`; `python tools/on.py <day> uredba-2013-40`).
+Act id: `uredba-2013-40` (tags `uredba-2013-40/<day>`; `python registry/tools/on.py <day> uredba-2013-40`).
 
 ## Status
 

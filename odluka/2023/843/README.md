@@ -8,7 +8,7 @@ Odluka o financiranju najamnine za privremeno stambeno zbrinjavanje osoba čije 
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2023-843` (tags `odluka-2023-843/<day>`; `python tools/on.py <day> odluka-2023-843`).
+Act id: `odluka-2023-843` (tags `odluka-2023-843/<day>`; `python registry/tools/on.py <day> odluka-2023-843`).
 
 ## Status
 

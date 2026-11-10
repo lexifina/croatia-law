@@ -13,7 +13,7 @@ Pravilnik o izmjenama i dopunama Pravilnika o provedbi mjera Programa ruralnog r
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2023-225` (tags `pravilnik-2023-225/<day>`; `python tools/on.py <day> pravilnik-2023-225`).
+Act id: `pravilnik-2023-225` (tags `pravilnik-2023-225/<day>`; `python registry/tools/on.py <day> pravilnik-2023-225`).
 
 ## Decisions made by hand
 

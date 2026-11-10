@@ -8,7 +8,7 @@ Odluka o ispravci Odluke o dodjeli priznanja klasa: 061-01/20-01/11, urbroj: 71-
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2020-533` (tags `odluka-2020-533/<day>`; `python tools/on.py <day> odluka-2020-533`).
+Act id: `odluka-2020-533` (tags `odluka-2020-533/<day>`; `python registry/tools/on.py <day> odluka-2020-533`).
 
 ## Decisions made by hand
 

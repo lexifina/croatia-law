@@ -8,7 +8,7 @@ Odluka o otkazivanju Kolektivnog ugovora za znanost i visoko obrazovanje · 1 ve
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2013-3337` (tags `odluka-2013-3337/<day>`; `python tools/on.py <day> odluka-2013-3337`).
+Act id: `odluka-2013-3337` (tags `odluka-2013-3337/<day>`; `python registry/tools/on.py <day> odluka-2013-3337`).
 
 ## Decisions made by hand
 

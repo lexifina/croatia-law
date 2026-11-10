@@ -10,7 +10,7 @@ Pravilnik o izmjenama i dopunama Pravilnika o dokumentaciji o nabavi te ponudi u
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2025-1256` (tags `pravilnik-2025-1256/<day>`; `python tools/on.py <day> pravilnik-2025-1256`).
+Act id: `pravilnik-2025-1256` (tags `pravilnik-2025-1256/<day>`; `python registry/tools/on.py <day> pravilnik-2025-1256`).
 
 ## Decisions made by hand
 

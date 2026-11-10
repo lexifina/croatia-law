@@ -44,7 +44,7 @@ Pravilnik o polaganju pravosudnog ispita · 1 versions, from 2019-09-02 (latest 
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2019-1700` (tags `pravilnik-2019-1700/<day>`; `python tools/on.py <day> pravilnik-2019-1700`).
+Act id: `pravilnik-2019-1700` (tags `pravilnik-2019-1700/<day>`; `python registry/tools/on.py <day> pravilnik-2019-1700`).
 
 ## Status
 

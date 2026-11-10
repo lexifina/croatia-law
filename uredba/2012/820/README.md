@@ -22,7 +22,7 @@ Uredba o Uredu za udruge · 1 versions, from 2012-03-21 (latest in force: 2012-0
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2012-820` (tags `uredba-2012-820/<day>`; `python tools/on.py <day> uredba-2012-820`).
+Act id: `uredba-2012-820` (tags `uredba-2012-820/<day>`; `python registry/tools/on.py <day> uredba-2012-820`).
 
 ## Status
 

@@ -51,7 +51,7 @@ Zakon o izmjenama i dopunama Zakona o morskom ribarstvu · 1 versions, from 2019
 | čl. 45 | [clanak-045.md](clanak-045.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2019-282` (tags `zakon-2019-282/<day>`; `python tools/on.py <day> zakon-2019-282`).
+Act id: `zakon-2019-282` (tags `zakon-2019-282/<day>`; `python registry/tools/on.py <day> zakon-2019-282`).
 
 ## Decisions made by hand
 

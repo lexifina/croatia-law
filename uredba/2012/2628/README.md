@@ -19,7 +19,7 @@ Uredba o izmjenama i dopunama Uredbe o Uredu za opće poslove Hrvatskoga sabora 
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2012-2628` (tags `uredba-2012-2628/<day>`; `python tools/on.py <day> uredba-2012-2628`).
+Act id: `uredba-2012-2628` (tags `uredba-2012-2628/<day>`; `python registry/tools/on.py <day> uredba-2012-2628`).
 
 ## Decisions made by hand
 

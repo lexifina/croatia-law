@@ -9,7 +9,7 @@ Odluka o usvajanju Izmjene Programa » ESIF jamstva « Hrvatske agencije za malo
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2021-1785` (tags `odluka-2021-1785/<day>`; `python tools/on.py <day> odluka-2021-1785`).
+Act id: `odluka-2021-1785` (tags `odluka-2021-1785/<day>`; `python registry/tools/on.py <day> odluka-2021-1785`).
 
 ## Decisions made by hand
 

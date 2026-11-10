@@ -9,7 +9,7 @@ Odluka o sadržaju Izjave o interesima i nepristranosti · 1 versions, from 2022
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2022-1436` (tags `odluka-2022-1436/<day>`; `python tools/on.py <day> odluka-2022-1436`).
+Act id: `odluka-2022-1436` (tags `odluka-2022-1436/<day>`; `python registry/tools/on.py <day> odluka-2022-1436`).
 
 ## Decisions made by hand
 

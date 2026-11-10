@@ -18,7 +18,7 @@ Odluka o porezima Grada Buja - Buie · 1 versions, from 2020-01-01 (latest in fo
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2019-2580` (tags `odluka-2019-2580/<day>`; `python tools/on.py <day> odluka-2019-2580`).
+Act id: `odluka-2019-2580` (tags `odluka-2019-2580/<day>`; `python registry/tools/on.py <day> odluka-2019-2580`).
 
 ## Decisions made by hand
 

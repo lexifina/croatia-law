@@ -8,7 +8,7 @@ Odluka o izmjenama Odluke o rodovima, službama, strukama i njihovim specijalnos
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2013-1357` (tags `odluka-2013-1357/<day>`; `python tools/on.py <day> odluka-2013-1357`).
+Act id: `odluka-2013-1357` (tags `odluka-2013-1357/<day>`; `python registry/tools/on.py <day> odluka-2013-1357`).
 
 ## Decisions made by hand
 

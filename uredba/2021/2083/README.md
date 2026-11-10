@@ -10,7 +10,7 @@ Uredba o izmjenama Uredbe o utvrđivanju najviših maloprodajnih cijena naftnih 
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2021-2083` (tags `uredba-2021-2083/<day>`; `python tools/on.py <day> uredba-2021-2083`).
+Act id: `uredba-2021-2083` (tags `uredba-2021-2083/<day>`; `python registry/tools/on.py <day> uredba-2021-2083`).
 
 ## Status
 

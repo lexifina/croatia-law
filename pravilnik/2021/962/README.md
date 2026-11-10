@@ -40,7 +40,7 @@ Pravilnik o praćenju emisija onečišćujućih tvari u zrak iz nepokretnih izvo
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2021-962` (tags `pravilnik-2021-962/<day>`; `python tools/on.py <day> pravilnik-2021-962`).
+Act id: `pravilnik-2021-962` (tags `pravilnik-2021-962/<day>`; `python registry/tools/on.py <day> pravilnik-2021-962`).
 
 ## Decisions made by hand
 

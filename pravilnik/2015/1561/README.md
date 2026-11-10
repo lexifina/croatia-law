@@ -24,7 +24,7 @@ Pravilnik izmjenama i dopunama Pravilnika o izvođenju izleta, ekskurzija i drug
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2015-1561` (tags `pravilnik-2015-1561/<day>`; `python tools/on.py <day> pravilnik-2015-1561`).
+Act id: `pravilnik-2015-1561` (tags `pravilnik-2015-1561/<day>`; `python registry/tools/on.py <day> pravilnik-2015-1561`).
 
 ## Decisions made by hand
 

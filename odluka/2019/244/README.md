@@ -9,7 +9,7 @@ Odluka o izmjeni Odluke o minimalno potrebnim deviznim potraživanjima · 1 vers
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2019-244` (tags `odluka-2019-244/<day>`; `python tools/on.py <day> odluka-2019-244`).
+Act id: `odluka-2019-244` (tags `odluka-2019-244/<day>`; `python registry/tools/on.py <day> odluka-2019-244`).
 
 ## Decisions made by hand
 

@@ -9,7 +9,7 @@ Pravilnik o izmjenama Pravilnika o dokumentaciji potrebnoj za raspisivanje javno
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2014-846` (tags `pravilnik-2014-846/<day>`; `python tools/on.py <day> pravilnik-2014-846`).
+Act id: `pravilnik-2014-846` (tags `pravilnik-2014-846/<day>`; `python registry/tools/on.py <day> pravilnik-2014-846`).
 
 ## Decisions made by hand
 

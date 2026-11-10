@@ -21,7 +21,7 @@ Zakon o izmjenama i dopunama Zakona o uspostavi infrastrukture za alternativna g
 | čl. 15 | [clanak-015.md](clanak-015.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2022-909` (tags `zakon-2022-909/<day>`; `python tools/on.py <day> zakon-2022-909`).
+Act id: `zakon-2022-909` (tags `zakon-2022-909/<day>`; `python registry/tools/on.py <day> zakon-2022-909`).
 
 ## Decisions made by hand
 

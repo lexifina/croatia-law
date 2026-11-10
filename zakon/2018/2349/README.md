@@ -33,7 +33,7 @@ Zakon o izmjenama i dopuni Zakona o plovidbi i lukama unutarnjih voda · 1 versi
 | čl. 27 | [clanak-027.md](clanak-027.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2018-2349` (tags `zakon-2018-2349/<day>`; `python tools/on.py <day> zakon-2018-2349`).
+Act id: `zakon-2018-2349` (tags `zakon-2018-2349/<day>`; `python registry/tools/on.py <day> zakon-2018-2349`).
 
 ## Decisions made by hand
 

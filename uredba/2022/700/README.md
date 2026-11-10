@@ -5,7 +5,7 @@ Uredba o unutarnjem ustrojstvu Središnjeg državnog ureda za razvoj digitalnog 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `uredba-2022-700` (tags `uredba-2022-700/<day>`; `python tools/on.py <day> uredba-2022-700`).
+Act id: `uredba-2022-700` (tags `uredba-2022-700/<day>`; `python registry/tools/on.py <day> uredba-2022-700`).
 
 ## Decisions made by hand
 

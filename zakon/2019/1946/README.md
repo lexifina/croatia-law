@@ -9,7 +9,7 @@ Zakon o izmjeni Zakona o muzejima · 1 versions, from 2020-01-01 (latest in forc
 | čl. 3 | [clanak-003.md](clanak-003.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2019-1946` (tags `zakon-2019-1946/<day>`; `python tools/on.py <day> zakon-2019-1946`).
+Act id: `zakon-2019-1946` (tags `zakon-2019-1946/<day>`; `python registry/tools/on.py <day> zakon-2019-1946`).
 
 ## Decisions made by hand
 

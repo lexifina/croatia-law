@@ -10,7 +10,7 @@ Zakon o izmjenama i dopuni Zakona o socijalnoj skrbi · 1 versions, from 2016-06
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 
-Act id: `zakon-2016-1377` (tags `zakon-2016-1377/<day>`; `python tools/on.py <day> zakon-2016-1377`).
+Act id: `zakon-2016-1377` (tags `zakon-2016-1377/<day>`; `python registry/tools/on.py <day> zakon-2016-1377`).
 
 ## Decisions made by hand
 

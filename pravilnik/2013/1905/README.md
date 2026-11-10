@@ -18,7 +18,7 @@ Pravilnik o izmjenama i dopunama Pravilnika o adekvatnosti kapitala investicijsk
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2013-1905` (tags `pravilnik-2013-1905/<day>`; `python tools/on.py <day> pravilnik-2013-1905`).
+Act id: `pravilnik-2013-1905` (tags `pravilnik-2013-1905/<day>`; `python registry/tools/on.py <day> pravilnik-2013-1905`).
 
 ## Decisions made by hand
 

@@ -9,7 +9,7 @@ Pravilnik o dopunama Pravilnika o obavljanju gospodarskog ribolova na moru pridn
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2019-423` (tags `pravilnik-2019-423/<day>`; `python tools/on.py <day> pravilnik-2019-423`).
+Act id: `pravilnik-2019-423` (tags `pravilnik-2019-423/<day>`; `python registry/tools/on.py <day> pravilnik-2019-423`).
 
 ## Decisions made by hand
 

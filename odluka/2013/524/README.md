@@ -8,7 +8,7 @@ Odluka o stavljanju izvan snage Odluke o izmjeni Odluke o utvrđivanju plaće ra
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2013-524` (tags `odluka-2013-524/<day>`; `python tools/on.py <day> odluka-2013-524`).
+Act id: `odluka-2013-524` (tags `odluka-2013-524/<day>`; `python registry/tools/on.py <day> odluka-2013-524`).
 
 ## Decisions made by hand
 

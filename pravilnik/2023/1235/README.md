@@ -9,7 +9,7 @@ Pravilnik o dopuni Pravilnika o postupku i načinu polaganja naučničkog ispita
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2023-1235` (tags `pravilnik-2023-1235/<day>`; `python tools/on.py <day> pravilnik-2023-1235`).
+Act id: `pravilnik-2023-1235` (tags `pravilnik-2023-1235/<day>`; `python registry/tools/on.py <day> pravilnik-2023-1235`).
 
 ## Decisions made by hand
 

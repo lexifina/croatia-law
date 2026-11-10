@@ -31,7 +31,7 @@ Pravilnik o sadržaju, obliku i načinu registracije farmi · 1 versions, from 2
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2015-1854` (tags `pravilnik-2015-1854/<day>`; `python tools/on.py <day> pravilnik-2015-1854`).
+Act id: `pravilnik-2015-1854` (tags `pravilnik-2015-1854/<day>`; `python registry/tools/on.py <day> pravilnik-2015-1854`).
 
 ## Status
 

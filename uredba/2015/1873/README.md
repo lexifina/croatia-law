@@ -5,7 +5,7 @@ Uredba o pripajanju Agencije za regionalni razvoj Republike Hrvatske Središnjoj
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `uredba-2015-1873` (tags `uredba-2015-1873/<day>`; `python tools/on.py <day> uredba-2015-1873`).
+Act id: `uredba-2015-1873` (tags `uredba-2015-1873/<day>`; `python registry/tools/on.py <day> uredba-2015-1873`).
 
 ## Decisions made by hand
 

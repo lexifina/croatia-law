@@ -8,7 +8,7 @@ Odluka o donošenju Strategije za uvođenje eura kao službene valute u Republic
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2018-831` (tags `odluka-2018-831/<day>`; `python tools/on.py <day> odluka-2018-831`).
+Act id: `odluka-2018-831` (tags `odluka-2018-831/<day>`; `python registry/tools/on.py <day> odluka-2018-831`).
 
 ## Decisions made by hand
 

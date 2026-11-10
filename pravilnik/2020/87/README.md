@@ -9,7 +9,7 @@ Pravilnik o izmjenama Pravilnika o prihvatljivosti izdataka · 1 versions, from 
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2020-87` (tags `pravilnik-2020-87/<day>`; `python tools/on.py <day> pravilnik-2020-87`).
+Act id: `pravilnik-2020-87` (tags `pravilnik-2020-87/<day>`; `python registry/tools/on.py <day> pravilnik-2020-87`).
 
 ## Status
 

@@ -23,7 +23,7 @@ Pravilnik o cestarini · 1 versions, from 2013-11-05 (latest in force: 2013-11-0
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2013-2833` (tags `pravilnik-2013-2833/<day>`; `python tools/on.py <day> pravilnik-2013-2833`).
+Act id: `pravilnik-2013-2833` (tags `pravilnik-2013-2833/<day>`; `python registry/tools/on.py <day> pravilnik-2013-2833`).
 
 ## Status
 

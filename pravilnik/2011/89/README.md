@@ -21,7 +21,7 @@ Pravilnik o načinu provedbe zaštitne mjere obveznog liječenja od ovisnosti ·
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2011-89` (tags `pravilnik-2011-89/<day>`; `python tools/on.py <day> pravilnik-2011-89`).
+Act id: `pravilnik-2011-89` (tags `pravilnik-2011-89/<day>`; `python registry/tools/on.py <day> pravilnik-2011-89`).
 
 ## Status
 

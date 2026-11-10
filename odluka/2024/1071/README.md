@@ -8,7 +8,7 @@ Odluka o katastarskoj izmjeri na području Općine Semeljci za dio katastarske o
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2024-1071` (tags `odluka-2024-1071/<day>`; `python tools/on.py <day> odluka-2024-1071`).
+Act id: `odluka-2024-1071` (tags `odluka-2024-1071/<day>`; `python registry/tools/on.py <day> odluka-2024-1071`).
 
 ## Decisions made by hand
 

@@ -9,7 +9,7 @@ Odluka o naknadi za priključenje na plinski distribucijski ili transportni sust
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2022-1599` (tags `odluka-2022-1599/<day>`; `python tools/on.py <day> odluka-2022-1599`).
+Act id: `odluka-2022-1599` (tags `odluka-2022-1599/<day>`; `python registry/tools/on.py <day> odluka-2022-1599`).
 
 ## Status
 

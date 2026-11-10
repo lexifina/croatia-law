@@ -13,7 +13,7 @@ Pravilnik o izmjenama i dopunama Pravilnika o izdavanju odobrenja za rad i stjec
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2026-923` (tags `pravilnik-2026-923/<day>`; `python tools/on.py <day> pravilnik-2026-923`).
+Act id: `pravilnik-2026-923` (tags `pravilnik-2026-923/<day>`; `python registry/tools/on.py <day> pravilnik-2026-923`).
 
 ## Decisions made by hand
 

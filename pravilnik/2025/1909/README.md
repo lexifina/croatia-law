@@ -43,7 +43,7 @@ Pravilnik o općim uvjetima za isporuku toplinske energije · 1 versions, from 2
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2025-1909` (tags `pravilnik-2025-1909/<day>`; `python tools/on.py <day> pravilnik-2025-1909`).
+Act id: `pravilnik-2025-1909` (tags `pravilnik-2025-1909/<day>`; `python registry/tools/on.py <day> pravilnik-2025-1909`).
 
 ## Decisions made by hand
 

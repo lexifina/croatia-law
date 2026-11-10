@@ -9,7 +9,7 @@ Zakon o izmjenama Zakona o pravima iz mirovinskog osiguranja djelatnih vojnih os
 | čl. 3 | [clanak-003.md](clanak-003.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2012-2552` (tags `zakon-2012-2552/<day>`; `python tools/on.py <day> zakon-2012-2552`).
+Act id: `zakon-2012-2552` (tags `zakon-2012-2552/<day>`; `python registry/tools/on.py <day> zakon-2012-2552`).
 
 ## Decisions made by hand
 

@@ -12,7 +12,7 @@ Uredba o radnim mjestima ovlaštenih carinskih službenika kojima se staž osigu
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2012-1086` (tags `uredba-2012-1086/<day>`; `python tools/on.py <day> uredba-2012-1086`).
+Act id: `uredba-2012-1086` (tags `uredba-2012-1086/<day>`; `python registry/tools/on.py <day> uredba-2012-1086`).
 
 ## Status
 

@@ -8,7 +8,7 @@ Odluka o postavljanju Josipa Buljevića za generalnog konzula Republike Hrvatske
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2013-2169` (tags `odluka-2013-2169/<day>`; `python tools/on.py <day> odluka-2013-2169`).
+Act id: `odluka-2013-2169` (tags `odluka-2013-2169/<day>`; `python registry/tools/on.py <day> odluka-2013-2169`).
 
 ## Decisions made by hand
 

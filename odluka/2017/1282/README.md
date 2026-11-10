@@ -5,7 +5,7 @@ Odluka o osnivanju, sjedištu i području na kojima djeluju područni carinski u
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `odluka-2017-1282` (tags `odluka-2017-1282/<day>`; `python tools/on.py <day> odluka-2017-1282`).
+Act id: `odluka-2017-1282` (tags `odluka-2017-1282/<day>`; `python registry/tools/on.py <day> odluka-2017-1282`).
 
 ## Decisions made by hand
 

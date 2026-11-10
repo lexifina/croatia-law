@@ -8,7 +8,7 @@ Odluka o izmjeni i dopunama Odluke o osnivanju Radne skupine Predsjednice Republ
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2019-362` (tags `odluka-2019-362/<day>`; `python tools/on.py <day> odluka-2019-362`).
+Act id: `odluka-2019-362` (tags `odluka-2019-362/<day>`; `python registry/tools/on.py <day> odluka-2019-362`).
 
 ## Decisions made by hand
 

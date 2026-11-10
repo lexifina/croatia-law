@@ -21,7 +21,7 @@ Zakon o izmjenama Zakona o naknadi za imovinu oduzetu za vrijeme jugoslavenske k
 | čl. 15 | [clanak-015.md](clanak-015.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2019-1922` (tags `zakon-2019-1922/<day>`; `python tools/on.py <day> zakon-2019-1922`).
+Act id: `zakon-2019-1922` (tags `zakon-2019-1922/<day>`; `python registry/tools/on.py <day> zakon-2019-1922`).
 
 ## Decisions made by hand
 

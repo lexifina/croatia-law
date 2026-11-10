@@ -444,7 +444,7 @@ Uredba o unutarnjem ustrojstvu Ministarstva pravosuđa i uprave · 1 versions, f
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2020-1817` (tags `uredba-2020-1817/<day>`; `python tools/on.py <day> uredba-2020-1817`).
+Act id: `uredba-2020-1817` (tags `uredba-2020-1817/<day>`; `python registry/tools/on.py <day> uredba-2020-1817`).
 
 ## Status
 

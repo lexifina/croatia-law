@@ -12,7 +12,7 @@ Pravilnik o obavještavanju ulagatelja kod pripajanja UCITS fondova · 1 version
 | čl. 6 | [clanak-006.md](clanak-006.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `pravilnik-2013-1896` (tags `pravilnik-2013-1896/<day>`; `python tools/on.py <day> pravilnik-2013-1896`).
+Act id: `pravilnik-2013-1896` (tags `pravilnik-2013-1896/<day>`; `python registry/tools/on.py <day> pravilnik-2013-1896`).
 
 ## Status
 

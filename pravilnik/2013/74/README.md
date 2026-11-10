@@ -19,7 +19,7 @@ Pravilnik o zabrani uporabe stupica i unošenja krzna i proizvoda dobivenih od o
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2013-74` (tags `pravilnik-2013-74/<day>`; `python tools/on.py <day> pravilnik-2013-74`).
+Act id: `pravilnik-2013-74` (tags `pravilnik-2013-74/<day>`; `python registry/tools/on.py <day> pravilnik-2013-74`).
 
 ## Status
 

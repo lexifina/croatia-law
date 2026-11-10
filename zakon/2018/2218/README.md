@@ -23,7 +23,7 @@ Zakon o izmjenama i dopuni Zakona o prostornom uređenju · 1 versions, from 201
 | čl. 17 | [clanak-017.md](clanak-017.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2018-2218` (tags `zakon-2018-2218/<day>`; `python tools/on.py <day> zakon-2018-2218`).
+Act id: `zakon-2018-2218` (tags `zakon-2018-2218/<day>`; `python registry/tools/on.py <day> zakon-2018-2218`).
 
 ## Decisions made by hand
 

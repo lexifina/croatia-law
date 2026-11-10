@@ -8,7 +8,7 @@ Odluka o Povjerenstvu za istraživanje, uređenje i održavanje vojnih groblja, 
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2013-884` (tags `odluka-2013-884/<day>`; `python tools/on.py <day> odluka-2013-884`).
+Act id: `odluka-2013-884` (tags `odluka-2013-884/<day>`; `python registry/tools/on.py <day> odluka-2013-884`).
 
 ## Decisions made by hand
 

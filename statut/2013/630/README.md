@@ -116,7 +116,7 @@ Statut Hrvatske poljoprivredne komore · 1 versions, from 2013-03-22 (latest in 
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `statut-2013-630` (tags `statut-2013-630/<day>`; `python tools/on.py <day> statut-2013-630`).
+Act id: `statut-2013-630` (tags `statut-2013-630/<day>`; `python registry/tools/on.py <day> statut-2013-630`).
 
 ## Status
 

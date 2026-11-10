@@ -10,7 +10,7 @@ Pravilnik o dopunama Pravilnika o radu u sustavu eSpis · 1 versions, from 2021-
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2020-2860` (tags `pravilnik-2020-2860/<day>`; `python tools/on.py <day> pravilnik-2020-2860`).
+Act id: `pravilnik-2020-2860` (tags `pravilnik-2020-2860/<day>`; `python registry/tools/on.py <day> pravilnik-2020-2860`).
 
 ## Decisions made by hand
 

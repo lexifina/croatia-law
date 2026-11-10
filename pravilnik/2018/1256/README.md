@@ -41,7 +41,7 @@ Pravilnik o provedbi podmjere 4.4. Potpora za neproduktivna ulaganja povezana s 
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2018-1256` (tags `pravilnik-2018-1256/<day>`; `python tools/on.py <day> pravilnik-2018-1256`).
+Act id: `pravilnik-2018-1256` (tags `pravilnik-2018-1256/<day>`; `python registry/tools/on.py <day> pravilnik-2018-1256`).
 
 ## Status
 

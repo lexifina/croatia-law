@@ -18,7 +18,7 @@ Pravilnik o izmjenama Pravilnika o polaganju pravosudnog ispita · 1 versions, f
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2015-454` (tags `pravilnik-2015-454/<day>`; `python tools/on.py <day> pravilnik-2015-454`).
+Act id: `pravilnik-2015-454` (tags `pravilnik-2015-454/<day>`; `python registry/tools/on.py <day> pravilnik-2015-454`).
 
 ## Decisions made by hand
 

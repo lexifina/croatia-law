@@ -9,7 +9,7 @@ Uredba o dopuni Zakona o potpori poljoprivredi i ruralnom razvoju · 1 versions,
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2014-2069` (tags `uredba-2014-2069/<day>`; `python tools/on.py <day> uredba-2014-2069`).
+Act id: `uredba-2014-2069` (tags `uredba-2014-2069/<day>`; `python registry/tools/on.py <day> uredba-2014-2069`).
 
 ## Decisions made by hand
 

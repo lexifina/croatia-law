@@ -36,7 +36,7 @@ Pravilnik o uvjetima i načinu ostvarivanja statusa i prava žrtve seksualnog na
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2015-1888` (tags `pravilnik-2015-1888/<day>`; `python tools/on.py <day> pravilnik-2015-1888`).
+Act id: `pravilnik-2015-1888` (tags `pravilnik-2015-1888/<day>`; `python registry/tools/on.py <day> pravilnik-2015-1888`).
 
 ## Decisions made by hand
 

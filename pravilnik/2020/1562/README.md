@@ -12,7 +12,7 @@ Pravilnik o sadržaju godišnjeg izvješća o radu Hrvatske psihološke komore �
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2020-1562` (tags `pravilnik-2020-1562/<day>`; `python tools/on.py <day> pravilnik-2020-1562`).
+Act id: `pravilnik-2020-1562` (tags `pravilnik-2020-1562/<day>`; `python registry/tools/on.py <day> pravilnik-2020-1562`).
 
 ## Decisions made by hand
 

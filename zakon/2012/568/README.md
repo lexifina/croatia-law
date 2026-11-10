@@ -31,7 +31,7 @@ Zakon o izmjenama i dopunama Zakona o ustrojstvu i djelokrugu ministarstava i dr
 | čl. 25 | [clanak-025.md](clanak-025.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2012-568` (tags `zakon-2012-568/<day>`; `python tools/on.py <day> zakon-2012-568`).
+Act id: `zakon-2012-568` (tags `zakon-2012-568/<day>`; `python registry/tools/on.py <day> zakon-2012-568`).
 
 ## Decisions made by hand
 

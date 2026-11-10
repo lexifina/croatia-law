@@ -52,7 +52,7 @@ Pravilnik o vrstama alternativnih investicijskih fondova · 1 versions, from 201
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2019-598` (tags `pravilnik-2019-598/<day>`; `python tools/on.py <day> pravilnik-2019-598`).
+Act id: `pravilnik-2019-598` (tags `pravilnik-2019-598/<day>`; `python registry/tools/on.py <day> pravilnik-2019-598`).
 
 ## Status
 

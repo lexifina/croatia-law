@@ -17,7 +17,7 @@ Pravilnik o strukturi i sadržaju financijskog i statističkog izvještaja osoba
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2016-1010` (tags `pravilnik-2016-1010/<day>`; `python tools/on.py <day> pravilnik-2016-1010`).
+Act id: `pravilnik-2016-1010` (tags `pravilnik-2016-1010/<day>`; `python registry/tools/on.py <day> pravilnik-2016-1010`).
 
 ## Status
 

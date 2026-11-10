@@ -9,7 +9,7 @@ Odluka o proglašavanju ranog upozorenja vezano uz razinu kriznih stanja zaštit
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2022-623` (tags `odluka-2022-623/<day>`; `python tools/on.py <day> odluka-2022-623`).
+Act id: `odluka-2022-623` (tags `odluka-2022-623/<day>`; `python registry/tools/on.py <day> odluka-2022-623`).
 
 ## Decisions made by hand
 

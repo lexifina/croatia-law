@@ -9,7 +9,7 @@ Pravilnik o dopuni Pravilnika o izdvajanju poslovnih procesa leasing-društva ·
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2022-2163` (tags `pravilnik-2022-2163/<day>`; `python tools/on.py <day> pravilnik-2022-2163`).
+Act id: `pravilnik-2022-2163` (tags `pravilnik-2022-2163/<day>`; `python registry/tools/on.py <day> pravilnik-2022-2163`).
 
 ## Decisions made by hand
 

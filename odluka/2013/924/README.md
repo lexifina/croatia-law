@@ -8,7 +8,7 @@ Odluka o sanaciji Neuropsihijatrijske bolnice "Dr. Ivan Barbot" Popovača · 1 v
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2013-924` (tags `odluka-2013-924/<day>`; `python tools/on.py <day> odluka-2013-924`).
+Act id: `odluka-2013-924` (tags `odluka-2013-924/<day>`; `python registry/tools/on.py <day> odluka-2013-924`).
 
 ## Status
 

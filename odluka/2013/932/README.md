@@ -8,7 +8,7 @@ Odluka o sanaciji Opće bolnice Pula · 1 versions, from 2013-05-02 (latest in f
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2013-932` (tags `odluka-2013-932/<day>`; `python tools/on.py <day> odluka-2013-932`).
+Act id: `odluka-2013-932` (tags `odluka-2013-932/<day>`; `python registry/tools/on.py <day> odluka-2013-932`).
 
 ## Status
 

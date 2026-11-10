@@ -5,7 +5,7 @@ Pravilnik o uvjetima za nuđenje udjela UCITS fonda · 2 versions, from 2017-05-
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `pravilnik-2017-937` (tags `pravilnik-2017-937/<day>`; `python tools/on.py <day> pravilnik-2017-937`).
+Act id: `pravilnik-2017-937` (tags `pravilnik-2017-937/<day>`; `python registry/tools/on.py <day> pravilnik-2017-937`).
 
 ## Decisions made by hand
 

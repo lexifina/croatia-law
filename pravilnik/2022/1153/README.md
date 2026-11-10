@@ -11,7 +11,7 @@ Pravilnik o troškovima i naknadama koji se mogu plaćati izravno iz imovine AIF
 | čl. 5 | [clanak-005.md](clanak-005.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `pravilnik-2022-1153` (tags `pravilnik-2022-1153/<day>`; `python tools/on.py <day> pravilnik-2022-1153`).
+Act id: `pravilnik-2022-1153` (tags `pravilnik-2022-1153/<day>`; `python registry/tools/on.py <day> pravilnik-2022-1153`).
 
 ## Status
 

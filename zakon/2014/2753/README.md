@@ -29,7 +29,7 @@ Zakon o izmjenama i dopunama Zakona o područjima posebne državne skrbi · 1 ve
 | čl. 23 | [clanak-023.md](clanak-023.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2014-2753` (tags `zakon-2014-2753/<day>`; `python tools/on.py <day> zakon-2014-2753`).
+Act id: `zakon-2014-2753` (tags `zakon-2014-2753/<day>`; `python registry/tools/on.py <day> zakon-2014-2753`).
 
 ## Decisions made by hand
 

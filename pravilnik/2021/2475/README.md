@@ -11,7 +11,7 @@ Pravilnik o izvještavanju Hrvatske agencije za nadzor financijskih usluga o pri
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 
-Act id: `pravilnik-2021-2475` (tags `pravilnik-2021-2475/<day>`; `python tools/on.py <day> pravilnik-2021-2475`).
+Act id: `pravilnik-2021-2475` (tags `pravilnik-2021-2475/<day>`; `python registry/tools/on.py <day> pravilnik-2021-2475`).
 
 ## Status
 

@@ -21,7 +21,7 @@ Odluka o postupku odobravanja metodologije za određivanje stupnja rizičnosti k
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2021-1842` (tags `odluka-2021-1842/<day>`; `python tools/on.py <day> odluka-2021-1842`).
+Act id: `odluka-2021-1842` (tags `odluka-2021-1842/<day>`; `python registry/tools/on.py <day> odluka-2021-1842`).
 
 ## Decisions made by hand
 

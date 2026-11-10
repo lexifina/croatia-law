@@ -19,7 +19,7 @@ Odluka o lokalnim porezima Općine Žumberak · 1 versions, from 2023-01-01 (lat
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2022-2512` (tags `odluka-2022-2512/<day>`; `python tools/on.py <day> odluka-2022-2512`).
+Act id: `odluka-2022-2512` (tags `odluka-2022-2512/<day>`; `python registry/tools/on.py <day> odluka-2022-2512`).
 
 ## Status
 

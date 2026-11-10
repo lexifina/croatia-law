@@ -8,7 +8,7 @@ Odluka o preraspodjeli sredstava planiranih u Državnom proračunu Republike Hrv
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2025-2301` (tags `odluka-2025-2301/<day>`; `python tools/on.py <day> odluka-2025-2301`).
+Act id: `odluka-2025-2301` (tags `odluka-2025-2301/<day>`; `python registry/tools/on.py <day> odluka-2025-2301`).
 
 ## Decisions made by hand
 

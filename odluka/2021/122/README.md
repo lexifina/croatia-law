@@ -8,7 +8,7 @@ Odluka o raspoređivanju sredstava za rad političkih stranaka i nezavisnih zast
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2021-122` (tags `odluka-2021-122/<day>`; `python tools/on.py <day> odluka-2021-122`).
+Act id: `odluka-2021-122` (tags `odluka-2021-122/<day>`; `python registry/tools/on.py <day> odluka-2021-122`).
 
 ## Status
 

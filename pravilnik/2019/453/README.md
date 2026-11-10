@@ -13,7 +13,7 @@ Pravilnik o načinu vođenja evidencije o promjeni namjene poljoprivrednog zemlj
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2019-453` (tags `pravilnik-2019-453/<day>`; `python tools/on.py <day> pravilnik-2019-453`).
+Act id: `pravilnik-2019-453` (tags `pravilnik-2019-453/<day>`; `python registry/tools/on.py <day> pravilnik-2019-453`).
 
 ## Decisions made by hand
 

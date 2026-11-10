@@ -12,7 +12,7 @@ Uredba o utvrđivanju najviših maloprodajnih cijena naftnih derivata · 1 versi
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2022-177` (tags `uredba-2022-177/<day>`; `python tools/on.py <day> uredba-2022-177`).
+Act id: `uredba-2022-177` (tags `uredba-2022-177/<day>`; `python registry/tools/on.py <day> uredba-2022-177`).
 
 ## Status
 

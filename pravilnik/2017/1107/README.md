@@ -11,7 +11,7 @@ Pravilnik o izmjenama Pravilnika o medu · 1 versions, from 2017-05-25 (latest i
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2017-1107` (tags `pravilnik-2017-1107/<day>`; `python tools/on.py <day> pravilnik-2017-1107`).
+Act id: `pravilnik-2017-1107` (tags `pravilnik-2017-1107/<day>`; `python registry/tools/on.py <day> pravilnik-2017-1107`).
 
 ## Decisions made by hand
 

@@ -29,7 +29,7 @@ Zakon o izmjenama i dopunama Zakona o državnoj potpori za istraživačko-razvoj
 | čl. 23 | [clanak-023.md](clanak-023.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2024-2519` (tags `zakon-2024-2519/<day>`; `python tools/on.py <day> zakon-2024-2519`).
+Act id: `zakon-2024-2519` (tags `zakon-2024-2519/<day>`; `python registry/tools/on.py <day> zakon-2024-2519`).
 
 ## Decisions made by hand
 

@@ -5,7 +5,7 @@ Uredba o unutarnjem ustrojstvu Ministarstva gospodarstva i održivog razvoja · 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `uredba-2020-1816` (tags `uredba-2020-1816/<day>`; `python tools/on.py <day> uredba-2020-1816`).
+Act id: `uredba-2020-1816` (tags `uredba-2020-1816/<day>`; `python registry/tools/on.py <day> uredba-2020-1816`).
 
 ## Decisions made by hand
 

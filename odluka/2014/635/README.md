@@ -8,7 +8,7 @@ Odluka o raspisivanju izbora za članove u Europski parlament iz Republike Hrvat
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2014-635` (tags `odluka-2014-635/<day>`; `python tools/on.py <day> odluka-2014-635`).
+Act id: `odluka-2014-635` (tags `odluka-2014-635/<day>`; `python registry/tools/on.py <day> odluka-2014-635`).
 
 ## Status
 

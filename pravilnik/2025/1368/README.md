@@ -9,7 +9,7 @@ Pravilnik o prestanku važenja Pravilnika o monitoringu određenih tvari i njiho
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2025-1368` (tags `pravilnik-2025-1368/<day>`; `python tools/on.py <day> pravilnik-2025-1368`).
+Act id: `pravilnik-2025-1368` (tags `pravilnik-2025-1368/<day>`; `python registry/tools/on.py <day> pravilnik-2025-1368`).
 
 ## Decisions made by hand
 

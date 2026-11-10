@@ -39,7 +39,7 @@ Zakon o izmjenama i dopunama Zakona o državnom odvjetništvu · 1 versions, fro
 | čl. 33 | [clanak-033.md](clanak-033.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2025-2015` (tags `zakon-2025-2015/<day>`; `python tools/on.py <day> zakon-2025-2015`).
+Act id: `zakon-2025-2015` (tags `zakon-2025-2015/<day>`; `python registry/tools/on.py <day> zakon-2025-2015`).
 
 ## Decisions made by hand
 

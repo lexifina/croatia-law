@@ -24,7 +24,7 @@ Pravilnik o načinu vođenja evidencija i izdavanja potvrda o primitku dobrovolj
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2011-1118` (tags `pravilnik-2011-1118/<day>`; `python tools/on.py <day> pravilnik-2011-1118`).
+Act id: `pravilnik-2011-1118` (tags `pravilnik-2011-1118/<day>`; `python registry/tools/on.py <day> pravilnik-2011-1118`).
 
 ## Status
 

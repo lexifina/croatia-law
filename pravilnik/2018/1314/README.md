@@ -18,7 +18,7 @@ Pravilnik o izmjenama i dopunama Pravilnika o provedbi mjere 4 »Ulaganja u fizi
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2018-1314` (tags `pravilnik-2018-1314/<day>`; `python tools/on.py <day> pravilnik-2018-1314`).
+Act id: `pravilnik-2018-1314` (tags `pravilnik-2018-1314/<day>`; `python registry/tools/on.py <day> pravilnik-2018-1314`).
 
 ## Decisions made by hand
 

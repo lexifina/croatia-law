@@ -43,7 +43,7 @@ Zakon o izmjenama i dopunama Zakona o Hrvatskoj narodnoj banci · 1 versions, fr
 | čl. 37 | [clanak-037.md](clanak-037.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2020-949` (tags `zakon-2020-949/<day>`; `python tools/on.py <day> zakon-2020-949`).
+Act id: `zakon-2020-949` (tags `zakon-2020-949/<day>`; `python registry/tools/on.py <day> zakon-2020-949`).
 
 ## Decisions made by hand
 

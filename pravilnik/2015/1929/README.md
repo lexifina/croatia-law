@@ -8,7 +8,7 @@ Pravilnik o izmjeni i dopuni Pravilnika o stjecanju statusa povlaštenog proizvo
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2015-1929` (tags `pravilnik-2015-1929/<day>`; `python tools/on.py <day> pravilnik-2015-1929`).
+Act id: `pravilnik-2015-1929` (tags `pravilnik-2015-1929/<day>`; `python registry/tools/on.py <day> pravilnik-2015-1929`).
 
 ## Decisions made by hand
 

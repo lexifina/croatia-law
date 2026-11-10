@@ -9,7 +9,7 @@ Pravilnik o izmjeni i dopuni Pravilnika o zemljopisnim područjima uzgoja vinove
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2013-3345` (tags `pravilnik-2013-3345/<day>`; `python tools/on.py <day> pravilnik-2013-3345`).
+Act id: `pravilnik-2013-3345` (tags `pravilnik-2013-3345/<day>`; `python registry/tools/on.py <day> pravilnik-2013-3345`).
 
 ## Decisions made by hand
 

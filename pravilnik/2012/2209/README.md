@@ -9,7 +9,7 @@ Pravilnik o dopuni Pravilnika o priznatim organizacijama za nadzor, pregled i ce
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2012-2209` (tags `pravilnik-2012-2209/<day>`; `python tools/on.py <day> pravilnik-2012-2209`).
+Act id: `pravilnik-2012-2209` (tags `pravilnik-2012-2209/<day>`; `python registry/tools/on.py <day> pravilnik-2012-2209`).
 
 ## Decisions made by hand
 

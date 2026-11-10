@@ -10,7 +10,7 @@ Pravilnik o obrascu izvješća o provođenju programa i projekata · 1 versions,
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2022-1952` (tags `pravilnik-2022-1952/<day>`; `python tools/on.py <day> pravilnik-2022-1952`).
+Act id: `pravilnik-2022-1952` (tags `pravilnik-2022-1952/<day>`; `python registry/tools/on.py <day> pravilnik-2022-1952`).
 
 ## Decisions made by hand
 

@@ -8,7 +8,7 @@ Odluka o izmjeni Odluke o uvođenju nužne epidemiološke mjere zabrane posjeta 
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2021-63` (tags `odluka-2021-63/<day>`; `python tools/on.py <day> odluka-2021-63`).
+Act id: `odluka-2021-63` (tags `odluka-2021-63/<day>`; `python registry/tools/on.py <day> odluka-2021-63`).
 
 ## Decisions made by hand
 

@@ -5,7 +5,7 @@ Naputak o načinu provođenja mjera kontrole zdravlja životinja propisanih Nare
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `naputak-2017-390` (tags `naputak-2017-390/<day>`; `python tools/on.py <day> naputak-2017-390`).
+Act id: `naputak-2017-390` (tags `naputak-2017-390/<day>`; `python registry/tools/on.py <day> naputak-2017-390`).
 
 ## Decisions made by hand
 

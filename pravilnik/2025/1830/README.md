@@ -25,7 +25,7 @@ Pravilnik o izmjenama i dopunama Pravilnika o provedbi intervencije 78.01. Potpo
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2025-1830` (tags `pravilnik-2025-1830/<day>`; `python tools/on.py <day> pravilnik-2025-1830`).
+Act id: `pravilnik-2025-1830` (tags `pravilnik-2025-1830/<day>`; `python registry/tools/on.py <day> pravilnik-2025-1830`).
 
 ## Decisions made by hand
 

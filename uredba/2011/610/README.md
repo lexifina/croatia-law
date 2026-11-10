@@ -12,7 +12,7 @@ Uredba o izmjenama Uredbe o osnivanju Agencije za opremu pod tlakom · 1 version
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2011-610` (tags `uredba-2011-610/<day>`; `python tools/on.py <day> uredba-2011-610`).
+Act id: `uredba-2011-610` (tags `uredba-2011-610/<day>`; `python registry/tools/on.py <day> uredba-2011-610`).
 
 ## Decisions made by hand
 

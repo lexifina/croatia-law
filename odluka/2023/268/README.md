@@ -9,7 +9,7 @@ Odluka o izmjenama i dopunama Odluke o utvrđivanju Osnovne liste lijekova Hrvat
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2023-268` (tags `odluka-2023-268/<day>`; `python tools/on.py <day> odluka-2023-268`).
+Act id: `odluka-2023-268` (tags `odluka-2023-268/<day>`; `python registry/tools/on.py <day> odluka-2023-268`).
 
 ## Decisions made by hand
 

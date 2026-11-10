@@ -37,7 +37,7 @@ Pravilnik o vojnim specijalistima · 1 versions, from 2017-05-05 (latest in forc
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2017-887` (tags `pravilnik-2017-887/<day>`; `python tools/on.py <day> pravilnik-2017-887`).
+Act id: `pravilnik-2017-887` (tags `pravilnik-2017-887/<day>`; `python registry/tools/on.py <day> pravilnik-2017-887`).
 
 ## Decisions made by hand
 

@@ -16,7 +16,7 @@ Pravilnik o izmjenama i dopuni Pravilnika o ovlastima, obvezama i načinu rada l
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2022-918` (tags `pravilnik-2022-918/<day>`; `python tools/on.py <day> pravilnik-2022-918`).
+Act id: `pravilnik-2022-918` (tags `pravilnik-2022-918/<day>`; `python registry/tools/on.py <day> pravilnik-2022-918`).
 
 ## Decisions made by hand
 

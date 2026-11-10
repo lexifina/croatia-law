@@ -18,7 +18,7 @@ Pravilnik o izmjenama i dopunama Pravilnika o prenosivosti broja · 1 versions, 
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2019-2477` (tags `pravilnik-2019-2477/<day>`; `python tools/on.py <day> pravilnik-2019-2477`).
+Act id: `pravilnik-2019-2477` (tags `pravilnik-2019-2477/<day>`; `python registry/tools/on.py <day> pravilnik-2019-2477`).
 
 ## Decisions made by hand
 

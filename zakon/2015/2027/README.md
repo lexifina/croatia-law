@@ -14,7 +14,7 @@ Zakon o izmjenama i dopunama Zakona o izvršavanju Državnog proračuna Republik
 | čl. 8 | [clanak-008.md](clanak-008.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2015-2027` (tags `zakon-2015-2027/<day>`; `python tools/on.py <day> zakon-2015-2027`).
+Act id: `zakon-2015-2027` (tags `zakon-2015-2027/<day>`; `python registry/tools/on.py <day> zakon-2015-2027`).
 
 ## Decisions made by hand
 

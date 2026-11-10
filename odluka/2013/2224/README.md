@@ -8,7 +8,7 @@ Odluka o određivanju tijela u kojem će se osnovati Kontaktna točka za provedb
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2013-2224` (tags `odluka-2013-2224/<day>`; `python tools/on.py <day> odluka-2013-2224`).
+Act id: `odluka-2013-2224` (tags `odluka-2013-2224/<day>`; `python registry/tools/on.py <day> odluka-2013-2224`).
 
 ## Decisions made by hand
 

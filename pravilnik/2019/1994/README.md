@@ -45,7 +45,7 @@ Pravilnik o uvjetima kojima moraju udovoljavati skloništa za životinje · 1 ve
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2019-1994` (tags `pravilnik-2019-1994/<day>`; `python tools/on.py <day> pravilnik-2019-1994`).
+Act id: `pravilnik-2019-1994` (tags `pravilnik-2019-1994/<day>`; `python registry/tools/on.py <day> pravilnik-2019-1994`).
 
 ## Status
 

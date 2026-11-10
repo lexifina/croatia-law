@@ -8,7 +8,7 @@ Odluka o postavljanju mr. sc. Željka Vukosava za izvanrednog i opunomoćenog ve
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2016-1587` (tags `odluka-2016-1587/<day>`; `python tools/on.py <day> odluka-2016-1587`).
+Act id: `odluka-2016-1587` (tags `odluka-2016-1587/<day>`; `python registry/tools/on.py <day> odluka-2016-1587`).
 
 ## Decisions made by hand
 

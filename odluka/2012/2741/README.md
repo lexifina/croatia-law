@@ -8,7 +8,7 @@ Odluka o izmjeni Odluke o korekciji prodajnih cijena prigodnoga zlatnoga i srebr
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2012-2741` (tags `odluka-2012-2741/<day>`; `python tools/on.py <day> odluka-2012-2741`).
+Act id: `odluka-2012-2741` (tags `odluka-2012-2741/<day>`; `python registry/tools/on.py <day> odluka-2012-2741`).
 
 ## Status
 

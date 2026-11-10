@@ -12,7 +12,7 @@ Pravilnik o izmjenama i dopunama Pravilnika o uvjetima, kriterijima i načinu do
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2015-2444` (tags `pravilnik-2015-2444/<day>`; `python tools/on.py <day> pravilnik-2015-2444`).
+Act id: `pravilnik-2015-2444` (tags `pravilnik-2015-2444/<day>`; `python registry/tools/on.py <day> pravilnik-2015-2444`).
 
 ## Decisions made by hand
 

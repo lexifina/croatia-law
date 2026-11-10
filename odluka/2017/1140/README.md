@@ -8,7 +8,7 @@ Odluka o donošenju Strategije e-Hrvatska 2020, s Akcijskim planom za provedbu S
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2017-1140` (tags `odluka-2017-1140/<day>`; `python tools/on.py <day> odluka-2017-1140`).
+Act id: `odluka-2017-1140` (tags `odluka-2017-1140/<day>`; `python registry/tools/on.py <day> odluka-2017-1140`).
 
 ## Status
 

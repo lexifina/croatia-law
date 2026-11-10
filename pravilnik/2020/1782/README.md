@@ -9,7 +9,7 @@ Pravilnik o izmjeni Pravilnika o ribolovu plavoperajne tune (Thunnus thynnus) pl
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2020-1782` (tags `pravilnik-2020-1782/<day>`; `python tools/on.py <day> pravilnik-2020-1782`).
+Act id: `pravilnik-2020-1782` (tags `pravilnik-2020-1782/<day>`; `python registry/tools/on.py <day> pravilnik-2020-1782`).
 
 ## Decisions made by hand
 

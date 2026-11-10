@@ -11,7 +11,7 @@ Odluka o osnovici za određivanje naknade zbog tjelesnog oštećenja i o usklađ
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2013-770` (tags `odluka-2013-770/<day>`; `python tools/on.py <day> odluka-2013-770`).
+Act id: `odluka-2013-770` (tags `odluka-2013-770/<day>`; `python registry/tools/on.py <day> odluka-2013-770`).
 
 ## Decisions made by hand
 

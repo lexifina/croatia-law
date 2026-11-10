@@ -34,7 +34,7 @@ Uredba o izmjenama i dopunama Uredbe o unutarnjem ustrojstvu Ministarstva mora, 
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2017-2678` (tags `uredba-2017-2678/<day>`; `python tools/on.py <day> uredba-2017-2678`).
+Act id: `uredba-2017-2678` (tags `uredba-2017-2678/<day>`; `python registry/tools/on.py <day> uredba-2017-2678`).
 
 ## Decisions made by hand
 

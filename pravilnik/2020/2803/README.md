@@ -22,7 +22,7 @@ Pravilnik o oporavilištima za divlje životinje · 1 versions, from 2021-01-01 
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2020-2803` (tags `pravilnik-2020-2803/<day>`; `python tools/on.py <day> pravilnik-2020-2803`).
+Act id: `pravilnik-2020-2803` (tags `pravilnik-2020-2803/<day>`; `python registry/tools/on.py <day> pravilnik-2020-2803`).
 
 ## Decisions made by hand
 

@@ -5,7 +5,7 @@ Pravilnik o automatskoj razmjeni informacija u području poreza · 2 versions, f
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `pravilnik-2016-1646` (tags `pravilnik-2016-1646/<day>`; `python tools/on.py <day> pravilnik-2016-1646`).
+Act id: `pravilnik-2016-1646` (tags `pravilnik-2016-1646/<day>`; `python registry/tools/on.py <day> pravilnik-2016-1646`).
 
 ## Decisions made by hand
 

@@ -16,7 +16,7 @@ Pravilnik o sadržaju, obliku i načinu vođenja očevidnika veterinarskih inspe
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2013-32` (tags `pravilnik-2013-32/<day>`; `python tools/on.py <day> pravilnik-2013-32`).
+Act id: `pravilnik-2013-32` (tags `pravilnik-2013-32/<day>`; `python registry/tools/on.py <day> pravilnik-2013-32`).
 
 ## Decisions made by hand
 

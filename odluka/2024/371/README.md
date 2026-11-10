@@ -7,7 +7,7 @@ Odluka Agencije za elektroničke medije klasa: 612-12/20-02/0021, urbroj: 114-03
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 
-Act id: `odluka-2024-371` (tags `odluka-2024-371/<day>`; `python tools/on.py <day> odluka-2024-371`).
+Act id: `odluka-2024-371` (tags `odluka-2024-371/<day>`; `python registry/tools/on.py <day> odluka-2024-371`).
 
 ## Decisions made by hand
 

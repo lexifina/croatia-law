@@ -9,7 +9,7 @@ Odluka o prestanku važenja Odluke o kontnom planu za kreditne institucije · 1 
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2021-1743` (tags `odluka-2021-1743/<day>`; `python tools/on.py <day> odluka-2021-1743`).
+Act id: `odluka-2021-1743` (tags `odluka-2021-1743/<day>`; `python registry/tools/on.py <day> odluka-2021-1743`).
 
 ## Decisions made by hand
 

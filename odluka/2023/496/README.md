@@ -8,7 +8,7 @@ Odluka o raspisivanju prijevremenih izbora za članove Gradskog vijeća Grada Č
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2023-496` (tags `odluka-2023-496/<day>`; `python tools/on.py <day> odluka-2023-496`).
+Act id: `odluka-2023-496` (tags `odluka-2023-496/<day>`; `python registry/tools/on.py <day> odluka-2023-496`).
 
 ## Decisions made by hand
 

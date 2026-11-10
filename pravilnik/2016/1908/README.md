@@ -10,7 +10,7 @@ Pravilnik o izmjeni i dopuni Pravilnika o priznavanju i potporama za početak ra
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2016-1908` (tags `pravilnik-2016-1908/<day>`; `python tools/on.py <day> pravilnik-2016-1908`).
+Act id: `pravilnik-2016-1908` (tags `pravilnik-2016-1908/<day>`; `python registry/tools/on.py <day> pravilnik-2016-1908`).
 
 ## Decisions made by hand
 

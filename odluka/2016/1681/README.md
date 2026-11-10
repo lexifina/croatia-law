@@ -8,7 +8,7 @@ Odluka o prestanku važenja Odluke o osnivanju Stručnog povjerenstva za praćen
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2016-1681` (tags `odluka-2016-1681/<day>`; `python tools/on.py <day> odluka-2016-1681`).
+Act id: `odluka-2016-1681` (tags `odluka-2016-1681/<day>`; `python registry/tools/on.py <day> odluka-2016-1681`).
 
 ## Decisions made by hand
 

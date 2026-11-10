@@ -8,7 +8,7 @@ Odluka o davanju odobrenja Karlovačkoj županiji i HŽ Infrastrukturi d.o.o. za
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2022-913` (tags `odluka-2022-913/<day>`; `python tools/on.py <day> odluka-2022-913`).
+Act id: `odluka-2022-913` (tags `odluka-2022-913/<day>`; `python registry/tools/on.py <day> odluka-2022-913`).
 
 ## Decisions made by hand
 

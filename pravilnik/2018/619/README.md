@@ -15,7 +15,7 @@ Pravilnik o zaštiti i korištenju arhivskoga i registraturnoga gradiva ministar
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2018-619` (tags `pravilnik-2018-619/<day>`; `python tools/on.py <day> pravilnik-2018-619`).
+Act id: `pravilnik-2018-619` (tags `pravilnik-2018-619/<day>`; `python registry/tools/on.py <day> pravilnik-2018-619`).
 
 ## Decisions made by hand
 

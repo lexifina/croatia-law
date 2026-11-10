@@ -80,7 +80,7 @@ Pravilnik o postupku, kriterijima i rokovima za provedbu Nacionalnog programa pr
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2020-190` (tags `pravilnik-2020-190/<day>`; `python tools/on.py <day> pravilnik-2020-190`).
+Act id: `pravilnik-2020-190` (tags `pravilnik-2020-190/<day>`; `python registry/tools/on.py <day> pravilnik-2020-190`).
 
 ## Status
 

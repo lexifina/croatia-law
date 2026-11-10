@@ -50,7 +50,7 @@ Uredba o stambenom zbrinjavanju članova obitelji smrtno stradalih i nestalih hr
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2018-1159` (tags `uredba-2018-1159/<day>`; `python tools/on.py <day> uredba-2018-1159`).
+Act id: `uredba-2018-1159` (tags `uredba-2018-1159/<day>`; `python registry/tools/on.py <day> uredba-2018-1159`).
 
 ## Status
 

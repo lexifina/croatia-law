@@ -8,7 +8,7 @@ Odluka o dražbovatelju za obavljanje poslova dražbe emisijskih jedinica i izbo
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2012-2695` (tags `odluka-2012-2695/<day>`; `python tools/on.py <day> odluka-2012-2695`).
+Act id: `odluka-2012-2695` (tags `odluka-2012-2695/<day>`; `python registry/tools/on.py <day> odluka-2012-2695`).
 
 ## Status
 

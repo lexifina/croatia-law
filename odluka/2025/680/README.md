@@ -8,7 +8,7 @@ Odluka o načinu osiguranja, dinamici formiranja i zanavljanja obveznih zaliha n
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2025-680` (tags `odluka-2025-680/<day>`; `python tools/on.py <day> odluka-2025-680`).
+Act id: `odluka-2025-680` (tags `odluka-2025-680/<day>`; `python registry/tools/on.py <day> odluka-2025-680`).
 
 ## Decisions made by hand
 

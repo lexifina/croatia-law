@@ -20,7 +20,7 @@ Pravilnik o tehničkom pregledu rudarskih objekata i postrojenja · 1 versions, 
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2013-3043` (tags `pravilnik-2013-3043/<day>`; `python tools/on.py <day> pravilnik-2013-3043`).
+Act id: `pravilnik-2013-3043` (tags `pravilnik-2013-3043/<day>`; `python registry/tools/on.py <day> pravilnik-2013-3043`).
 
 ## Status
 

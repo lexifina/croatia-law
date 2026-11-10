@@ -8,7 +8,7 @@ Odluka o izmjenama Odluke o osnivanju Vijeća za državnu informacijsku infrastr
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2024-1779` (tags `odluka-2024-1779/<day>`; `python tools/on.py <day> odluka-2024-1779`).
+Act id: `odluka-2024-1779` (tags `odluka-2024-1779/<day>`; `python registry/tools/on.py <day> odluka-2024-1779`).
 
 ## Decisions made by hand
 

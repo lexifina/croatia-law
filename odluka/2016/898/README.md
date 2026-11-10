@@ -8,7 +8,7 @@ Odluka o obustavi postupka sanacije Doma zdravlja Gospić · 1 versions, from 20
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2016-898` (tags `odluka-2016-898/<day>`; `python tools/on.py <day> odluka-2016-898`).
+Act id: `odluka-2016-898` (tags `odluka-2016-898/<day>`; `python registry/tools/on.py <day> odluka-2016-898`).
 
 ## Decisions made by hand
 

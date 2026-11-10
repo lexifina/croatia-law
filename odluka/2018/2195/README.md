@@ -9,7 +9,7 @@ Odluka o davanju suglasnosti na Financijski plan Fonda za zaštitu okoliša i en
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2018-2195` (tags `odluka-2018-2195/<day>`; `python tools/on.py <day> odluka-2018-2195`).
+Act id: `odluka-2018-2195` (tags `odluka-2018-2195/<day>`; `python registry/tools/on.py <day> odluka-2018-2195`).
 
 ## Decisions made by hand
 

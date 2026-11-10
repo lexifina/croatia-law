@@ -8,7 +8,7 @@ Odluka o uspostavi i vođenju evidencije ulaganja u Republiku Hrvatsku · 1 vers
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2011-2248` (tags `odluka-2011-2248/<day>`; `python tools/on.py <day> odluka-2011-2248`).
+Act id: `odluka-2011-2248` (tags `odluka-2011-2248/<day>`; `python registry/tools/on.py <day> odluka-2011-2248`).
 
 ## Decisions made by hand
 

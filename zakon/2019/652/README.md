@@ -10,7 +10,7 @@ Zakon o izmjenama i dopuni Zakona o gnojivima i poboljšivačima tla · 1 versio
 | čl. 4 | [clanak-004.md](clanak-004.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2019-652` (tags `zakon-2019-652/<day>`; `python tools/on.py <day> zakon-2019-652`).
+Act id: `zakon-2019-652` (tags `zakon-2019-652/<day>`; `python registry/tools/on.py <day> zakon-2019-652`).
 
 ## Decisions made by hand
 

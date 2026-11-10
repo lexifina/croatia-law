@@ -203,7 +203,7 @@ Uredba o unutarnjem ustrojstvu ureda državne uprave u županijama · 1 versions
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2018-1665` (tags `uredba-2018-1665/<day>`; `python tools/on.py <day> uredba-2018-1665`).
+Act id: `uredba-2018-1665` (tags `uredba-2018-1665/<day>`; `python registry/tools/on.py <day> uredba-2018-1665`).
 
 ## Decisions made by hand
 

@@ -16,7 +16,7 @@ Odluka o izmjenama i dopunama Odluke o potrebnim znanjima i stručnosti osoblja 
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2019-460` (tags `odluka-2019-460/<day>`; `python tools/on.py <day> odluka-2019-460`).
+Act id: `odluka-2019-460` (tags `odluka-2019-460/<day>`; `python registry/tools/on.py <day> odluka-2019-460`).
 
 ## Decisions made by hand
 

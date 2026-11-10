@@ -22,7 +22,7 @@ Odluka o porezima Grada Trogira · 1 versions, from 2025-03-01 (latest in force:
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2025-350` (tags `odluka-2025-350/<day>`; `python tools/on.py <day> odluka-2025-350`).
+Act id: `odluka-2025-350` (tags `odluka-2025-350/<day>`; `python registry/tools/on.py <day> odluka-2025-350`).
 
 ## Decisions made by hand
 

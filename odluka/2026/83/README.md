@@ -5,7 +5,7 @@ Odluka o raspoređivanju sredstava za rad političkih stranaka i nezavisnih zast
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `odluka-2026-83` (tags `odluka-2026-83/<day>`; `python tools/on.py <day> odluka-2026-83`).
+Act id: `odluka-2026-83` (tags `odluka-2026-83/<day>`; `python registry/tools/on.py <day> odluka-2026-83`).
 
 ## Decisions made by hand
 

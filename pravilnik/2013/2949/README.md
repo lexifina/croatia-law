@@ -13,7 +13,7 @@ Pravilnik o izmjenama i dopunama Pravilnika o rasporedu sredstava za financiranj
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2013-2949` (tags `pravilnik-2013-2949/<day>`; `python tools/on.py <day> pravilnik-2013-2949`).
+Act id: `pravilnik-2013-2949` (tags `pravilnik-2013-2949/<day>`; `python registry/tools/on.py <day> pravilnik-2013-2949`).
 
 ## Decisions made by hand
 

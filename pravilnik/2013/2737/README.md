@@ -13,7 +13,7 @@ Pravilnik o izmjenama i dopunama Pravilnika o pogodnostima zatvorenika · 1 vers
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2013-2737` (tags `pravilnik-2013-2737/<day>`; `python tools/on.py <day> pravilnik-2013-2737`).
+Act id: `pravilnik-2013-2737` (tags `pravilnik-2013-2737/<day>`; `python registry/tools/on.py <day> pravilnik-2013-2737`).
 
 ## Decisions made by hand
 

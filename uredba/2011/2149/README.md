@@ -88,7 +88,7 @@ Uredba o unutarnjem ustrojstvu Državne uprave za zaštitu i spašavanje · 1 ve
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2011-2149` (tags `uredba-2011-2149/<day>`; `python tools/on.py <day> uredba-2011-2149`).
+Act id: `uredba-2011-2149` (tags `uredba-2011-2149/<day>`; `python registry/tools/on.py <day> uredba-2011-2149`).
 
 ## Status
 

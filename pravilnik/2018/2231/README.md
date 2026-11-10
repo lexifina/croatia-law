@@ -28,7 +28,7 @@ Pravilnik o utvrđivanju neto vrijednosti imovine AIF-a i cijene udjela AIF-a ·
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2018-2231` (tags `pravilnik-2018-2231/<day>`; `python tools/on.py <day> pravilnik-2018-2231`).
+Act id: `pravilnik-2018-2231` (tags `pravilnik-2018-2231/<day>`; `python registry/tools/on.py <day> pravilnik-2018-2231`).
 
 ## Status
 

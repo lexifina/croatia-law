@@ -10,7 +10,7 @@ Pravilnik o izmjenama i dopunama Pravilnika o provedbi intervencija u sektoru pÄ
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2025-916` (tags `pravilnik-2025-916/<day>`; `python tools/on.py <day> pravilnik-2025-916`).
+Act id: `pravilnik-2025-916` (tags `pravilnik-2025-916/<day>`; `python registry/tools/on.py <day> pravilnik-2025-916`).
 
 ## Decisions made by hand
 

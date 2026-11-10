@@ -5,7 +5,7 @@ Pravilnik o uvjetima i načinu ostvarivanja prava redovitih studenata na subvenc
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `pravilnik-2016-1493` (tags `pravilnik-2016-1493/<day>`; `python tools/on.py <day> pravilnik-2016-1493`).
+Act id: `pravilnik-2016-1493` (tags `pravilnik-2016-1493/<day>`; `python registry/tools/on.py <day> pravilnik-2016-1493`).
 
 ## Decisions made by hand
 

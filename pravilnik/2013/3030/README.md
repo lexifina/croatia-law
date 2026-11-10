@@ -18,7 +18,7 @@ Pravilnik o uvjetima za oslobađanje od plaćanja doprinosa za obvezno zdravstve
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2013-3030` (tags `pravilnik-2013-3030/<day>`; `python tools/on.py <day> pravilnik-2013-3030`).
+Act id: `pravilnik-2013-3030` (tags `pravilnik-2013-3030/<day>`; `python registry/tools/on.py <day> pravilnik-2013-3030`).
 
 ## Decisions made by hand
 

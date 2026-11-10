@@ -8,7 +8,7 @@ Odluka o davanju prethodne suglasnosti Ministarstvu mora, prometa i infrastruktu
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2017-2279` (tags `odluka-2017-2279/<day>`; `python tools/on.py <day> odluka-2017-2279`).
+Act id: `odluka-2017-2279` (tags `odluka-2017-2279/<day>`; `python registry/tools/on.py <day> odluka-2017-2279`).
 
 ## Decisions made by hand
 

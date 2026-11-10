@@ -8,7 +8,7 @@ Odluka o pokretanju postupka za ostvarivanjem članstva Republike Hrvatske u Int
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2015-1795` (tags `odluka-2015-1795/<day>`; `python tools/on.py <day> odluka-2015-1795`).
+Act id: `odluka-2015-1795` (tags `odluka-2015-1795/<day>`; `python registry/tools/on.py <day> odluka-2015-1795`).
 
 ## Decisions made by hand
 

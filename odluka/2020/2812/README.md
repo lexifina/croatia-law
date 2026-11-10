@@ -16,7 +16,7 @@ Odluka o izmjenama Odluke o porezima Grada Zaprešića · 1 versions, from 2021-
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2020-2812` (tags `odluka-2020-2812/<day>`; `python tools/on.py <day> odluka-2020-2812`).
+Act id: `odluka-2020-2812` (tags `odluka-2020-2812/<day>`; `python registry/tools/on.py <day> odluka-2020-2812`).
 
 ## Decisions made by hand
 

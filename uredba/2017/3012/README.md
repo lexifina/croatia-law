@@ -5,7 +5,7 @@ Uredba o dopunama Zakona o zdravstvenoj zaštiti · 2 versions, from 2017-12-29 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `uredba-2017-3012` (tags `uredba-2017-3012/<day>`; `python tools/on.py <day> uredba-2017-3012`).
+Act id: `uredba-2017-3012` (tags `uredba-2017-3012/<day>`; `python registry/tools/on.py <day> uredba-2017-3012`).
 
 ## Decisions made by hand
 

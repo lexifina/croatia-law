@@ -8,7 +8,7 @@ Odluka o davanju suglasnosti na Prijedlog dopune Statuta Centra za praćenje pos
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2012-2399` (tags `odluka-2012-2399/<day>`; `python tools/on.py <day> odluka-2012-2399`).
+Act id: `odluka-2012-2399` (tags `odluka-2012-2399/<day>`; `python registry/tools/on.py <day> odluka-2012-2399`).
 
 ## Decisions made by hand
 

@@ -8,7 +8,7 @@ Odluka o izboru potpredsjednika odbora za Hrvate izvan Republike Hrvatske Hrvats
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2017-1721` (tags `odluka-2017-1721/<day>`; `python tools/on.py <day> odluka-2017-1721`).
+Act id: `odluka-2017-1721` (tags `odluka-2017-1721/<day>`; `python registry/tools/on.py <day> odluka-2017-1721`).
 
 ## Decisions made by hand
 

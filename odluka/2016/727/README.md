@@ -11,7 +11,7 @@ Odluka o izmjeni i dopuni Odluke o opskrbi banaka gotovim novcem · 1 versions, 
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2016-727` (tags `odluka-2016-727/<day>`; `python tools/on.py <day> odluka-2016-727`).
+Act id: `odluka-2016-727` (tags `odluka-2016-727/<day>`; `python registry/tools/on.py <day> odluka-2016-727`).
 
 ## Decisions made by hand
 

@@ -28,7 +28,7 @@ Zakon o izmjenama i dopunama Zakona o udomiteljstvu · 1 versions, from 2022-02-
 | čl. 22 | [clanak-022.md](clanak-022.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2022-184` (tags `zakon-2022-184/<day>`; `python tools/on.py <day> zakon-2022-184`).
+Act id: `zakon-2022-184` (tags `zakon-2022-184/<day>`; `python registry/tools/on.py <day> zakon-2022-184`).
 
 ## Decisions made by hand
 

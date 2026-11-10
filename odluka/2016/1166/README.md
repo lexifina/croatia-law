@@ -9,7 +9,7 @@ Odluka o Listi sigurnih zemalja podrijetla u postupku odobrenja meÄ‘unarodne zaÅ
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2016-1166` (tags `odluka-2016-1166/<day>`; `python tools/on.py <day> odluka-2016-1166`).
+Act id: `odluka-2016-1166` (tags `odluka-2016-1166/<day>`; `python registry/tools/on.py <day> odluka-2016-1166`).
 
 ## Decisions made by hand
 

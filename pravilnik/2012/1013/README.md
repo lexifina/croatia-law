@@ -18,7 +18,7 @@ Pravilnik o vođenju matičnih knjiga i upisu uzgojno valjanih kopitara · 1 ver
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2012-1013` (tags `pravilnik-2012-1013/<day>`; `python tools/on.py <day> pravilnik-2012-1013`).
+Act id: `pravilnik-2012-1013` (tags `pravilnik-2012-1013/<day>`; `python registry/tools/on.py <day> pravilnik-2012-1013`).
 
 ## Status
 

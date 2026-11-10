@@ -14,7 +14,7 @@ Pravilnik o izmjenama i dopuni Pravilnika o pravima, uvjetima i načinu ostvariv
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2018-2394` (tags `pravilnik-2018-2394/<day>`; `python tools/on.py <day> pravilnik-2018-2394`).
+Act id: `pravilnik-2018-2394` (tags `pravilnik-2018-2394/<day>`; `python registry/tools/on.py <day> pravilnik-2018-2394`).
 
 ## Decisions made by hand
 

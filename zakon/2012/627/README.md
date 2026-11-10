@@ -56,7 +56,7 @@ Zakon o izvršavanju Državnog proračuna Republike Hrvatske za 2012. godinu · 
 | čl. 50 | [clanak-050.md](clanak-050.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2012-627` (tags `zakon-2012-627/<day>`; `python tools/on.py <day> zakon-2012-627`).
+Act id: `zakon-2012-627` (tags `zakon-2012-627/<day>`; `python registry/tools/on.py <day> zakon-2012-627`).
 
 ## Status
 

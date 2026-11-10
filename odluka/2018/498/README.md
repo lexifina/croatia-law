@@ -9,7 +9,7 @@ Odluka o faktoru osnovne mirovine od 1. siječnja 2018. · 1 versions, from 2018
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2018-498` (tags `odluka-2018-498/<day>`; `python tools/on.py <day> odluka-2018-498`).
+Act id: `odluka-2018-498` (tags `odluka-2018-498/<day>`; `python registry/tools/on.py <day> odluka-2018-498`).
 
 ## Decisions made by hand
 

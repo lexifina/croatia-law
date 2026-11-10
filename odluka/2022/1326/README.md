@@ -13,7 +13,7 @@ Odluka o naknadi za razvoj trgovačkog društva Vodovod Korenica d.o.o. · 1 ver
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2022-1326` (tags `odluka-2022-1326/<day>`; `python tools/on.py <day> odluka-2022-1326`).
+Act id: `odluka-2022-1326` (tags `odluka-2022-1326/<day>`; `python registry/tools/on.py <day> odluka-2022-1326`).
 
 ## Status
 

@@ -13,7 +13,7 @@ Zakon o izmjenama Zakona o žigu · 1 versions, from 2018-05-26 (latest in force
 | čl. 7 | [clanak-007.md](clanak-007.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2018-863` (tags `zakon-2018-863/<day>`; `python tools/on.py <day> zakon-2018-863`).
+Act id: `zakon-2018-863` (tags `zakon-2018-863/<day>`; `python registry/tools/on.py <day> zakon-2018-863`).
 
 ## Decisions made by hand
 

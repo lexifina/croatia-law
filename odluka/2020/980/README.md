@@ -8,7 +8,7 @@ Odluka klasa: 810-06/20-01/7, urbroj: 511-01-300-34 od 19. travnja 2020. · 1 ve
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2020-980` (tags `odluka-2020-980/<day>`; `python tools/on.py <day> odluka-2020-980`).
+Act id: `odluka-2020-980` (tags `odluka-2020-980/<day>`; `python registry/tools/on.py <day> odluka-2020-980`).
 
 ## Status
 

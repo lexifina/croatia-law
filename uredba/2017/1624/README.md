@@ -9,7 +9,7 @@ Uredba o prestanku važenja Uredbe o nadzoru nad provedbom Zakona o javnoj nabav
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2017-1624` (tags `uredba-2017-1624/<day>`; `python tools/on.py <day> uredba-2017-1624`).
+Act id: `uredba-2017-1624` (tags `uredba-2017-1624/<day>`; `python registry/tools/on.py <day> uredba-2017-1624`).
 
 ## Decisions made by hand
 

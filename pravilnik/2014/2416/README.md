@@ -62,7 +62,7 @@ Pravilnik o izmjenama i dopunama Pravilnika o načinu upisa u sudski registar ·
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2014-2416` (tags `pravilnik-2014-2416/<day>`; `python tools/on.py <day> pravilnik-2014-2416`).
+Act id: `pravilnik-2014-2416` (tags `pravilnik-2014-2416/<day>`; `python registry/tools/on.py <day> pravilnik-2014-2416`).
 
 ## Decisions made by hand
 

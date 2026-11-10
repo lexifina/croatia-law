@@ -25,7 +25,7 @@ Pravilnik o dodjeli potpore za sufinanciranje dijela troškova u ribarstvu u seg
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2015-192` (tags `pravilnik-2015-192/<day>`; `python tools/on.py <day> pravilnik-2015-192`).
+Act id: `pravilnik-2015-192` (tags `pravilnik-2015-192/<day>`; `python registry/tools/on.py <day> pravilnik-2015-192`).
 
 ## Status
 

@@ -9,7 +9,7 @@ Odluka o usklađenju sredstava jamstvenog pologa za 2012. godinu · 1 versions, 
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2013-257` (tags `odluka-2013-257/<day>`; `python tools/on.py <day> odluka-2013-257`).
+Act id: `odluka-2013-257` (tags `odluka-2013-257/<day>`; `python registry/tools/on.py <day> odluka-2013-257`).
 
 ## Decisions made by hand
 

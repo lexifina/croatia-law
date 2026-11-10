@@ -8,7 +8,7 @@ Odluka o izmjenama Akcijskog plana za provedbu Strategije e-Hrvatska 2020 · 1 v
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2019-894` (tags `odluka-2019-894/<day>`; `python tools/on.py <day> odluka-2019-894`).
+Act id: `odluka-2019-894` (tags `odluka-2019-894/<day>`; `python registry/tools/on.py <day> odluka-2019-894`).
 
 ## Decisions made by hand
 

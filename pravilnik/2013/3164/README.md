@@ -26,7 +26,7 @@ Pravilnik o utvrđivanju neto vrijednosti imovine AIF-a i cijene udjela AIF-a ·
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2013-3164` (tags `pravilnik-2013-3164/<day>`; `python tools/on.py <day> pravilnik-2013-3164`).
+Act id: `pravilnik-2013-3164` (tags `pravilnik-2013-3164/<day>`; `python registry/tools/on.py <day> pravilnik-2013-3164`).
 
 ## Status
 

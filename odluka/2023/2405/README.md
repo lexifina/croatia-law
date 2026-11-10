@@ -5,7 +5,7 @@ Odluka o visini poreznih stopa godišnjeg poreza na dohodak Grada Makarske · 2 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `odluka-2023-2405` (tags `odluka-2023-2405/<day>`; `python tools/on.py <day> odluka-2023-2405`).
+Act id: `odluka-2023-2405` (tags `odluka-2023-2405/<day>`; `python registry/tools/on.py <day> odluka-2023-2405`).
 
 ## Decisions made by hand
 

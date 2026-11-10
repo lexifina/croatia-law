@@ -8,7 +8,7 @@ Zakon o izmjeni Zakona o udrugama · 1 versions, from 2017-07-27 (latest in forc
 | čl. 2 | [clanak-002.md](clanak-002.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2017-1665` (tags `zakon-2017-1665/<day>`; `python tools/on.py <day> zakon-2017-1665`).
+Act id: `zakon-2017-1665` (tags `zakon-2017-1665/<day>`; `python registry/tools/on.py <day> zakon-2017-1665`).
 
 ## Decisions made by hand
 

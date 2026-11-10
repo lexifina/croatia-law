@@ -10,7 +10,7 @@ Uredba o izmjeni i dopuni Uredbe o otklanjanju poremećaja na domaćem tržištu
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2022-1549` (tags `uredba-2022-1549/<day>`; `python tools/on.py <day> uredba-2022-1549`).
+Act id: `uredba-2022-1549` (tags `uredba-2022-1549/<day>`; `python registry/tools/on.py <day> uredba-2022-1549`).
 
 ## Decisions made by hand
 

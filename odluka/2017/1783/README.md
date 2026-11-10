@@ -31,7 +31,7 @@ Odluka o općinskim porezima Općine Lukač · 1 versions, from 2017-08-01 (late
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2017-1783` (tags `odluka-2017-1783/<day>`; `python tools/on.py <day> odluka-2017-1783`).
+Act id: `odluka-2017-1783` (tags `odluka-2017-1783/<day>`; `python registry/tools/on.py <day> odluka-2017-1783`).
 
 ## Status
 

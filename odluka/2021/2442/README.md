@@ -8,7 +8,7 @@ Odluka o donošenju Nacionalnog plana razvoja otoka 2021. - 2027. i Akcijskog pl
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2021-2442` (tags `odluka-2021-2442/<day>`; `python tools/on.py <day> odluka-2021-2442`).
+Act id: `odluka-2021-2442` (tags `odluka-2021-2442/<day>`; `python registry/tools/on.py <day> odluka-2021-2442`).
 
 ## Decisions made by hand
 

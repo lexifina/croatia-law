@@ -8,7 +8,7 @@ Odluka o osnivanju Povjerenstva Vlade Republike Hrvatske za zatočene i nestale 
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2013-885` (tags `odluka-2013-885/<day>`; `python tools/on.py <day> odluka-2013-885`).
+Act id: `odluka-2013-885` (tags `odluka-2013-885/<day>`; `python registry/tools/on.py <day> odluka-2013-885`).
 
 ## Status
 

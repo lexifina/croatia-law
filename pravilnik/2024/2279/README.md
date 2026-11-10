@@ -15,7 +15,7 @@ Pravilnik o izmjenama i dopunama Pravilnika o priznavanju organizacija proizvođ
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2024-2279` (tags `pravilnik-2024-2279/<day>`; `python tools/on.py <day> pravilnik-2024-2279`).
+Act id: `pravilnik-2024-2279` (tags `pravilnik-2024-2279/<day>`; `python registry/tools/on.py <day> pravilnik-2024-2279`).
 
 ## Decisions made by hand
 

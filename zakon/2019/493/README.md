@@ -25,7 +25,7 @@ Zakon o izmjenama Zakona o ugostiteljskoj djelatnosti · 1 versions, from 2019-0
 | čl. 19 | [clanak-019.md](clanak-019.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2019-493` (tags `zakon-2019-493/<day>`; `python tools/on.py <day> zakon-2019-493`).
+Act id: `zakon-2019-493` (tags `zakon-2019-493/<day>`; `python registry/tools/on.py <day> zakon-2019-493`).
 
 ## Decisions made by hand
 

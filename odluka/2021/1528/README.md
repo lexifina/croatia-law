@@ -8,7 +8,7 @@ Odluka o produžetku financiranja u 2021. godini provedbe Programa energetske ob
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2021-1528` (tags `odluka-2021-1528/<day>`; `python tools/on.py <day> odluka-2021-1528`).
+Act id: `odluka-2021-1528` (tags `odluka-2021-1528/<day>`; `python registry/tools/on.py <day> odluka-2021-1528`).
 
 ## Decisions made by hand
 

@@ -20,7 +20,7 @@ Naredba o mjerama kontrole za suzbijanje afričke svinjske kuge u Republici Hrva
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `naredba-2025-2303` (tags `naredba-2025-2303/<day>`; `python tools/on.py <day> naredba-2025-2303`).
+Act id: `naredba-2025-2303` (tags `naredba-2025-2303/<day>`; `python registry/tools/on.py <day> naredba-2025-2303`).
 
 ## Status
 

@@ -19,7 +19,7 @@ Pravilnik o planu nabave, registru ugovora, prethodnom savjetovanju i analizi tr
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2017-2339` (tags `pravilnik-2017-2339/<day>`; `python tools/on.py <day> pravilnik-2017-2339`).
+Act id: `pravilnik-2017-2339` (tags `pravilnik-2017-2339/<day>`; `python registry/tools/on.py <day> pravilnik-2017-2339`).
 
 ## Status
 

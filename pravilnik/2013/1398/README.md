@@ -16,7 +16,7 @@ Pravilnik o minimalnim uvjetima u pogledu prostora, radnika i medicinsko-tehnič
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2013-1398` (tags `pravilnik-2013-1398/<day>`; `python tools/on.py <day> pravilnik-2013-1398`).
+Act id: `pravilnik-2013-1398` (tags `pravilnik-2013-1398/<day>`; `python registry/tools/on.py <day> pravilnik-2013-1398`).
 
 ## Decisions made by hand
 

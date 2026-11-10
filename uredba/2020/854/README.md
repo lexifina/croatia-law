@@ -9,7 +9,7 @@ Uredba o dopuni Uredbe o postupku, načinu i uvjetima za dobivanje koncesije na 
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2020-854` (tags `uredba-2020-854/<day>`; `python tools/on.py <day> uredba-2020-854`).
+Act id: `uredba-2020-854` (tags `uredba-2020-854/<day>`; `python registry/tools/on.py <day> uredba-2020-854`).
 
 ## Decisions made by hand
 

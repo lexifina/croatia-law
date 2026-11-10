@@ -62,7 +62,7 @@ Uredba o metodologijama vještačenja · 1 versions, from 2023-08-31 (latest in 
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2023-1430` (tags `uredba-2023-1430/<day>`; `python tools/on.py <day> uredba-2023-1430`).
+Act id: `uredba-2023-1430` (tags `uredba-2023-1430/<day>`; `python registry/tools/on.py <day> uredba-2023-1430`).
 
 ## Decisions made by hand
 

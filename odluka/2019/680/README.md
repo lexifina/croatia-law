@@ -25,7 +25,7 @@ Odluka o izmjenama i dopunama Odluke o osnovama za sklapanje ugovora o provođen
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2019-680` (tags `odluka-2019-680/<day>`; `python tools/on.py <day> odluka-2019-680`).
+Act id: `odluka-2019-680` (tags `odluka-2019-680/<day>`; `python registry/tools/on.py <day> odluka-2019-680`).
 
 ## Decisions made by hand
 

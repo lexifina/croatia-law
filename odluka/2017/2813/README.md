@@ -9,7 +9,7 @@ Odluka o davanju suglasnosti na Financijski plan Hrvatskih voda za 2018. godinu 
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2017-2813` (tags `odluka-2017-2813/<day>`; `python tools/on.py <day> odluka-2017-2813`).
+Act id: `odluka-2017-2813` (tags `odluka-2017-2813/<day>`; `python registry/tools/on.py <day> odluka-2017-2813`).
 
 ## Decisions made by hand
 

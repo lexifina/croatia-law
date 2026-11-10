@@ -5,7 +5,7 @@ Odluku o upravljanju likvidnosnim rizikom · 2 versions, from 2017-01-01 (latest
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `odluka-2016-2260` (tags `odluka-2016-2260/<day>`; `python tools/on.py <day> odluka-2016-2260`).
+Act id: `odluka-2016-2260` (tags `odluka-2016-2260/<day>`; `python registry/tools/on.py <day> odluka-2016-2260`).
 
 ## Decisions made by hand
 

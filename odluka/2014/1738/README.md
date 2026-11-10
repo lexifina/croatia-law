@@ -8,7 +8,7 @@ Odluka o izdavanju i prodaji prigodnoga zlatnoga i srebrnoga kovanog novca "Sinj
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2014-1738` (tags `odluka-2014-1738/<day>`; `python tools/on.py <day> odluka-2014-1738`).
+Act id: `odluka-2014-1738` (tags `odluka-2014-1738/<day>`; `python registry/tools/on.py <day> odluka-2014-1738`).
 
 ## Status
 

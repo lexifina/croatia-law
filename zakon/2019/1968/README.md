@@ -8,7 +8,7 @@ Zakon o izmjenama Zakona o hrvatskim braniteljima iz Domovinskog rata i članovi
 | čl. 2 | [clanak-002.md](clanak-002.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2019-1968` (tags `zakon-2019-1968/<day>`; `python tools/on.py <day> zakon-2019-1968`).
+Act id: `zakon-2019-1968` (tags `zakon-2019-1968/<day>`; `python registry/tools/on.py <day> zakon-2019-1968`).
 
 ## Decisions made by hand
 

@@ -8,7 +8,7 @@ Odluka o određivanju državnog tajnika koji upravlja Ministarstvom obrane · 1 
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2020-1176` (tags `odluka-2020-1176/<day>`; `python tools/on.py <day> odluka-2020-1176`).
+Act id: `odluka-2020-1176` (tags `odluka-2020-1176/<day>`; `python registry/tools/on.py <day> odluka-2020-1176`).
 
 ## Decisions made by hand
 

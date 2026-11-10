@@ -9,7 +9,7 @@ Pravilnik o izmjeni Pravilnika o načinu ostvarivanja prava na slobodan izbor do
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2013-1011` (tags `pravilnik-2013-1011/<day>`; `python tools/on.py <day> pravilnik-2013-1011`).
+Act id: `pravilnik-2013-1011` (tags `pravilnik-2013-1011/<day>`; `python registry/tools/on.py <day> pravilnik-2013-1011`).
 
 ## Status
 

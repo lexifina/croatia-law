@@ -17,7 +17,7 @@ Pravilnik o voćnim sokovima i njima sličnim proizvodima namijenjenim za konzum
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2013-941` (tags `pravilnik-2013-941/<day>`; `python tools/on.py <day> pravilnik-2013-941`).
+Act id: `pravilnik-2013-941` (tags `pravilnik-2013-941/<day>`; `python registry/tools/on.py <day> pravilnik-2013-941`).
 
 ## Status
 

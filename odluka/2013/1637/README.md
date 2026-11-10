@@ -8,7 +8,7 @@ Odluka o sadržaju odluke o rasporedu i načinu ispravljanja pogrešaka u odluci
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2013-1637` (tags `odluka-2013-1637/<day>`; `python tools/on.py <day> odluka-2013-1637`).
+Act id: `odluka-2013-1637` (tags `odluka-2013-1637/<day>`; `python registry/tools/on.py <day> odluka-2013-1637`).
 
 ## Decisions made by hand
 

@@ -10,7 +10,7 @@ Odluka o izmjenama i dopunama Odluke o standardima i normativima prava na zdravs
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2012-2576` (tags `odluka-2012-2576/<day>`; `python tools/on.py <day> odluka-2012-2576`).
+Act id: `odluka-2012-2576` (tags `odluka-2012-2576/<day>`; `python registry/tools/on.py <day> odluka-2012-2576`).
 
 ## Decisions made by hand
 

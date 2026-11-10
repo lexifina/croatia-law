@@ -12,7 +12,7 @@ Pravilnik o načinu davanja pristanka za uzimanje, čuvanje i pohranjivanje spol
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2013-1391` (tags `pravilnik-2013-1391/<day>`; `python tools/on.py <day> pravilnik-2013-1391`).
+Act id: `pravilnik-2013-1391` (tags `pravilnik-2013-1391/<day>`; `python registry/tools/on.py <day> pravilnik-2013-1391`).
 
 ## Decisions made by hand
 

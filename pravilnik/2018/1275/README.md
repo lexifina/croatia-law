@@ -18,7 +18,7 @@ Pravilnik o rekreacijskom ribolovu trofejnih primjeraka tune (Thunnus thynnus) Â
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2018-1275` (tags `pravilnik-2018-1275/<day>`; `python tools/on.py <day> pravilnik-2018-1275`).
+Act id: `pravilnik-2018-1275` (tags `pravilnik-2018-1275/<day>`; `python registry/tools/on.py <day> pravilnik-2018-1275`).
 
 ## Status
 

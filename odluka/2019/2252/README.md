@@ -8,7 +8,7 @@ Odluka o ribarskim plovilima autoriziranima za rad u Jabučkom džepu · 1 versi
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2019-2252` (tags `odluka-2019-2252/<day>`; `python tools/on.py <day> odluka-2019-2252`).
+Act id: `odluka-2019-2252` (tags `odluka-2019-2252/<day>`; `python registry/tools/on.py <day> odluka-2019-2252`).
 
 ## Status
 

@@ -73,7 +73,7 @@ Zakon o kvaliteti zdravstvene zaštite i socijalne skrbi · 1 versions, from 201
 | čl. 67 | [clanak-067.md](clanak-067.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2011-2472` (tags `zakon-2011-2472/<day>`; `python tools/on.py <day> zakon-2011-2472`).
+Act id: `zakon-2011-2472` (tags `zakon-2011-2472/<day>`; `python registry/tools/on.py <day> zakon-2011-2472`).
 
 ## Status
 

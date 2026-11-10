@@ -18,7 +18,7 @@ Pravilnik o načinu rada mentora u državnoj školi za pravosudne dužnosnike ·
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2020-204` (tags `pravilnik-2020-204/<day>`; `python tools/on.py <day> pravilnik-2020-204`).
+Act id: `pravilnik-2020-204` (tags `pravilnik-2020-204/<day>`; `python registry/tools/on.py <day> pravilnik-2020-204`).
 
 ## Status
 

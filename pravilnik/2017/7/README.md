@@ -17,7 +17,7 @@ Pravilnik o utvrÄ‘ivanju korektivnih koeficijenata i evidenciji o nekretninama Â
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2017-7` (tags `pravilnik-2017-7/<day>`; `python tools/on.py <day> pravilnik-2017-7`).
+Act id: `pravilnik-2017-7` (tags `pravilnik-2017-7/<day>`; `python registry/tools/on.py <day> pravilnik-2017-7`).
 
 ## Status
 

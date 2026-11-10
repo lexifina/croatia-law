@@ -33,7 +33,7 @@ Zakon o izmjenama i dopuni Zakona o postupanju s nezakonito izgrađenim zgradama
 | čl. 27 | [clanak-027.md](clanak-027.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2026-583` (tags `zakon-2026-583/<day>`; `python tools/on.py <day> zakon-2026-583`).
+Act id: `zakon-2026-583` (tags `zakon-2026-583/<day>`; `python registry/tools/on.py <day> zakon-2026-583`).
 
 ## Decisions made by hand
 

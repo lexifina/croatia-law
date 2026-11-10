@@ -71,7 +71,7 @@ Zakon o koncesijama · 1 versions, from 2012-12-28 (latest in force: 2012-12-28)
 | čl. 65 | [clanak-065.md](clanak-065.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2012-3027` (tags `zakon-2012-3027/<day>`; `python tools/on.py <day> zakon-2012-3027`).
+Act id: `zakon-2012-3027` (tags `zakon-2012-3027/<day>`; `python registry/tools/on.py <day> zakon-2012-3027`).
 
 ## Status
 

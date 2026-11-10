@@ -56,7 +56,7 @@ Pravilnik o organizacijskim zahtjevima za mirovinsko društvo za upravljanje obv
 | čl. 50 | [clanak-050.md](clanak-050.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `pravilnik-2024-2524` (tags `pravilnik-2024-2524/<day>`; `python tools/on.py <day> pravilnik-2024-2524`).
+Act id: `pravilnik-2024-2524` (tags `pravilnik-2024-2524/<day>`; `python registry/tools/on.py <day> pravilnik-2024-2524`).
 
 ## Status
 

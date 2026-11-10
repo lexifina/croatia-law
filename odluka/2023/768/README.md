@@ -18,7 +18,7 @@ Odluka o naknadi za razvoj trgovačkog društva Voda d.o.o., Orahovica · 1 vers
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2023-768` (tags `odluka-2023-768/<day>`; `python tools/on.py <day> odluka-2023-768`).
+Act id: `odluka-2023-768` (tags `odluka-2023-768/<day>`; `python registry/tools/on.py <day> odluka-2023-768`).
 
 ## Status
 

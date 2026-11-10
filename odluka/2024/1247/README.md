@@ -8,7 +8,7 @@ Odluka o osnivanju Konzulata Republike Hrvatske u Republici Paragvaju, sa sjedi≈
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2024-1247` (tags `odluka-2024-1247/<day>`; `python tools/on.py <day> odluka-2024-1247`).
+Act id: `odluka-2024-1247` (tags `odluka-2024-1247/<day>`; `python registry/tools/on.py <day> odluka-2024-1247`).
 
 ## Decisions made by hand
 

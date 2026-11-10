@@ -16,7 +16,7 @@ Pravilnik o visini godišnje naknade za uporabu javnih cesta što se plaća pri 
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2011-806` (tags `pravilnik-2011-806/<day>`; `python tools/on.py <day> pravilnik-2011-806`).
+Act id: `pravilnik-2011-806` (tags `pravilnik-2011-806/<day>`; `python registry/tools/on.py <day> pravilnik-2011-806`).
 
 ## Status
 

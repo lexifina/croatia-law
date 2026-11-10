@@ -12,7 +12,7 @@ Pravilnik o statističkim standardima osiguranja · 1 versions, from 2016-03-24 
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2016-655` (tags `pravilnik-2016-655/<day>`; `python tools/on.py <day> pravilnik-2016-655`).
+Act id: `pravilnik-2016-655` (tags `pravilnik-2016-655/<day>`; `python registry/tools/on.py <day> pravilnik-2016-655`).
 
 ## Status
 

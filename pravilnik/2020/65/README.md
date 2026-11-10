@@ -5,7 +5,7 @@ Pravilnik o visini naknade za izvršeni pregled i provjeru plovidbenosti zrakopl
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `pravilnik-2020-65` (tags `pravilnik-2020-65/<day>`; `python tools/on.py <day> pravilnik-2020-65`).
+Act id: `pravilnik-2020-65` (tags `pravilnik-2020-65/<day>`; `python registry/tools/on.py <day> pravilnik-2020-65`).
 
 ## Decisions made by hand
 

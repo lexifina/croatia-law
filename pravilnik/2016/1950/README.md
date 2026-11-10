@@ -10,7 +10,7 @@ Pravilnik o izmjeni i dopuni Pravilnika o sadržaju zahtjeva i dokumentaciji koj
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2016-1950` (tags `pravilnik-2016-1950/<day>`; `python tools/on.py <day> pravilnik-2016-1950`).
+Act id: `pravilnik-2016-1950` (tags `pravilnik-2016-1950/<day>`; `python registry/tools/on.py <day> pravilnik-2016-1950`).
 
 ## Decisions made by hand
 

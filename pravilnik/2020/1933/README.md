@@ -11,7 +11,7 @@ Pravilnik o izmjeni i dopunama Pravilnika o provedbi Općeg poreznog zakona · 1
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2020-1933` (tags `pravilnik-2020-1933/<day>`; `python tools/on.py <day> pravilnik-2020-1933`).
+Act id: `pravilnik-2020-1933` (tags `pravilnik-2020-1933/<day>`; `python registry/tools/on.py <day> pravilnik-2020-1933`).
 
 ## Decisions made by hand
 

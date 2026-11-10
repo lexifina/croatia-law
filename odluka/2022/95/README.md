@@ -8,7 +8,7 @@ Odluka o izmjenama i dopuni Odluke o uvođenju posebne sigurnosne mjere u djelat
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2022-95` (tags `odluka-2022-95/<day>`; `python tools/on.py <day> odluka-2022-95`).
+Act id: `odluka-2022-95` (tags `odluka-2022-95/<day>`; `python registry/tools/on.py <day> odluka-2022-95`).
 
 ## Decisions made by hand
 

@@ -30,7 +30,7 @@ Zakon o izmjenama i dopunama Zakona o sustavu unutarnjih kontrola u javnom sekto
 | čl. 24 | [clanak-024.md](clanak-024.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2025-1475` (tags `zakon-2025-1475/<day>`; `python tools/on.py <day> zakon-2025-1475`).
+Act id: `zakon-2025-1475` (tags `zakon-2025-1475/<day>`; `python registry/tools/on.py <day> zakon-2025-1475`).
 
 ## Decisions made by hand
 

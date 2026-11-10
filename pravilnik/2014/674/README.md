@@ -21,7 +21,7 @@ Pravilnik o naknadama za obavljanje službenih radnji izvan zgrade suda · 1 ver
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2014-674` (tags `pravilnik-2014-674/<day>`; `python tools/on.py <day> pravilnik-2014-674`).
+Act id: `pravilnik-2014-674` (tags `pravilnik-2014-674/<day>`; `python registry/tools/on.py <day> pravilnik-2014-674`).
 
 ## Status
 

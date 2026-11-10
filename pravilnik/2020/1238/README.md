@@ -14,7 +14,7 @@ Pravilnik o izmjenama Pravilnika o upisu sorti u sortnu listu · 1 versions, fro
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2020-1238` (tags `pravilnik-2020-1238/<day>`; `python tools/on.py <day> pravilnik-2020-1238`).
+Act id: `pravilnik-2020-1238` (tags `pravilnik-2020-1238/<day>`; `python registry/tools/on.py <day> pravilnik-2020-1238`).
 
 ## Status
 

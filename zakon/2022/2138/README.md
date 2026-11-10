@@ -9,7 +9,7 @@ Zakon o izmjeni i dopuni Zakona o državnim službenicima · 1 versions, from 20
 | čl. 3 | [clanak-003.md](clanak-003.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2022-2138` (tags `zakon-2022-2138/<day>`; `python tools/on.py <day> zakon-2022-2138`).
+Act id: `zakon-2022-2138` (tags `zakon-2022-2138/<day>`; `python registry/tools/on.py <day> zakon-2022-2138`).
 
 ## Decisions made by hand
 

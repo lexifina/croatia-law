@@ -15,7 +15,7 @@ Pravilnik o vrsti podataka i načinu izrade izvješća o potrošnji lijekova · 
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2014-2350` (tags `pravilnik-2014-2350/<day>`; `python tools/on.py <day> pravilnik-2014-2350`).
+Act id: `pravilnik-2014-2350` (tags `pravilnik-2014-2350/<day>`; `python registry/tools/on.py <day> pravilnik-2014-2350`).
 
 ## Decisions made by hand
 

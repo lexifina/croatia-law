@@ -12,7 +12,7 @@ Odluka o rasporedu sredstava za interventne zahvate po posebnom nalogu ministra 
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2014-2194` (tags `odluka-2014-2194/<day>`; `python tools/on.py <day> odluka-2014-2194`).
+Act id: `odluka-2014-2194` (tags `odluka-2014-2194/<day>`; `python registry/tools/on.py <day> odluka-2014-2194`).
 
 ## Decisions made by hand
 

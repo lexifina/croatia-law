@@ -14,7 +14,7 @@ Pravilnik o stjecanju i priznavanju ovlaštenja za prodaju dionica ili udjela u 
 | čl. 8 | [clanak-008.md](clanak-008.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `pravilnik-2013-809` (tags `pravilnik-2013-809/<day>`; `python tools/on.py <day> pravilnik-2013-809`).
+Act id: `pravilnik-2013-809` (tags `pravilnik-2013-809/<day>`; `python registry/tools/on.py <day> pravilnik-2013-809`).
 
 ## Decisions made by hand
 

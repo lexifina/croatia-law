@@ -7,7 +7,7 @@ Zakon o izmjenama i dopunama Stečajnog zakona · 1 versions, from 2024-03-14 (l
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 
-Act id: `zakon-2024-403` (tags `zakon-2024-403/<day>`; `python tools/on.py <day> zakon-2024-403`).
+Act id: `zakon-2024-403` (tags `zakon-2024-403/<day>`; `python registry/tools/on.py <day> zakon-2024-403`).
 
 ## Decisions made by hand
 

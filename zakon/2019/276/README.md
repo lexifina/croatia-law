@@ -59,7 +59,7 @@ Zakon o izmjenama Zakona o zaštiti prirode · 1 versions, from 2019-02-15 (late
 | čl. 53 | [clanak-053.md](clanak-053.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2019-276` (tags `zakon-2019-276/<day>`; `python tools/on.py <day> zakon-2019-276`).
+Act id: `zakon-2019-276` (tags `zakon-2019-276/<day>`; `python registry/tools/on.py <day> zakon-2019-276`).
 
 ## Decisions made by hand
 

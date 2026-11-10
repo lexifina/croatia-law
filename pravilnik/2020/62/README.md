@@ -25,7 +25,7 @@ Pravilnik o kriterijima za izdavanje energetskog odobrenja za proizvodna postroj
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2020-62` (tags `pravilnik-2020-62/<day>`; `python tools/on.py <day> pravilnik-2020-62`).
+Act id: `pravilnik-2020-62` (tags `pravilnik-2020-62/<day>`; `python registry/tools/on.py <day> pravilnik-2020-62`).
 
 ## Status
 

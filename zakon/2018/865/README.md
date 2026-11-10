@@ -11,7 +11,7 @@ Zakon o izmjenama Zakona o oznakama zemljopisnog podrijetla i oznakama izvornost
 | čl. 5 | [clanak-005.md](clanak-005.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2018-865` (tags `zakon-2018-865/<day>`; `python tools/on.py <day> zakon-2018-865`).
+Act id: `zakon-2018-865` (tags `zakon-2018-865/<day>`; `python registry/tools/on.py <day> zakon-2018-865`).
 
 ## Decisions made by hand
 

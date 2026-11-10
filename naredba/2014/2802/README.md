@@ -9,7 +9,7 @@ Naredba o izmjenama i dopunama Naredbe o načinu uplaćivanja prihoda proračuna
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `naredba-2014-2802` (tags `naredba-2014-2802/<day>`; `python tools/on.py <day> naredba-2014-2802`).
+Act id: `naredba-2014-2802` (tags `naredba-2014-2802/<day>`; `python registry/tools/on.py <day> naredba-2014-2802`).
 
 ## Decisions made by hand
 

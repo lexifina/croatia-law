@@ -12,7 +12,7 @@ Odluka o objavljivanju Hrvatskih standarda financijskog izvještavanja · 1 vers
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2015-1709` (tags `odluka-2015-1709/<day>`; `python tools/on.py <day> odluka-2015-1709`).
+Act id: `odluka-2015-1709` (tags `odluka-2015-1709/<day>`; `python registry/tools/on.py <day> odluka-2015-1709`).
 
 ## Status
 

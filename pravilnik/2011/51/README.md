@@ -15,7 +15,7 @@ Pravilnik o izmjenama i dopunama Pravilnika o akvakulturi · 1 versions, from 20
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2011-51` (tags `pravilnik-2011-51/<day>`; `python tools/on.py <day> pravilnik-2011-51`).
+Act id: `pravilnik-2011-51` (tags `pravilnik-2011-51/<day>`; `python registry/tools/on.py <day> pravilnik-2011-51`).
 
 ## Decisions made by hand
 

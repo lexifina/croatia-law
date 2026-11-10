@@ -11,7 +11,7 @@ Pravilnik o izmjenama Pravilnika o uvjetima kojima moraju udovoljavati poduzetni
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2019-2544` (tags `pravilnik-2019-2544/<day>`; `python tools/on.py <day> pravilnik-2019-2544`).
+Act id: `pravilnik-2019-2544` (tags `pravilnik-2019-2544/<day>`; `python registry/tools/on.py <day> pravilnik-2019-2544`).
 
 ## Decisions made by hand
 

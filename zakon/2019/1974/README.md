@@ -8,7 +8,7 @@ Zakon o izmjenama Zakona o obnovi · 1 versions, from 2020-01-01 (latest in forc
 | čl. 2 | [clanak-002.md](clanak-002.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2019-1974` (tags `zakon-2019-1974/<day>`; `python tools/on.py <day> zakon-2019-1974`).
+Act id: `zakon-2019-1974` (tags `zakon-2019-1974/<day>`; `python registry/tools/on.py <day> zakon-2019-1974`).
 
 ## Decisions made by hand
 

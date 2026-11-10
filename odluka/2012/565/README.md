@@ -19,7 +19,7 @@ Odluka o financiranju Hrvatske gospodarske komore u 2012. godini · 1 versions, 
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2012-565` (tags `odluka-2012-565/<day>`; `python tools/on.py <day> odluka-2012-565`).
+Act id: `odluka-2012-565` (tags `odluka-2012-565/<day>`; `python registry/tools/on.py <day> odluka-2012-565`).
 
 ## Decisions made by hand
 

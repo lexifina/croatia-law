@@ -8,7 +8,7 @@ Zakon o izmjeni Obiteljskog zakona · 1 versions, from 2011-06-11 (latest in for
 | čl. 2 | [clanak-002.md](clanak-002.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2011-1357` (tags `zakon-2011-1357/<day>`; `python tools/on.py <day> zakon-2011-1357`).
+Act id: `zakon-2011-1357` (tags `zakon-2011-1357/<day>`; `python registry/tools/on.py <day> zakon-2011-1357`).
 
 ## Decisions made by hand
 

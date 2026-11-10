@@ -9,7 +9,7 @@ Uredba o dopuni Zakona o plaćama sudaca i drugih pravosudnih dužnosnika · 1 v
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2011-3212` (tags `uredba-2011-3212/<day>`; `python tools/on.py <day> uredba-2011-3212`).
+Act id: `uredba-2011-3212` (tags `uredba-2011-3212/<day>`; `python registry/tools/on.py <day> uredba-2011-3212`).
 
 ## Decisions made by hand
 

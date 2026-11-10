@@ -5,7 +5,7 @@ Pravilnik o dostavi prijedloga državnih potpora, podataka o državnim potporama
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `pravilnik-2016-2661` (tags `pravilnik-2016-2661/<day>`; `python tools/on.py <day> pravilnik-2016-2661`).
+Act id: `pravilnik-2016-2661` (tags `pravilnik-2016-2661/<day>`; `python registry/tools/on.py <day> pravilnik-2016-2661`).
 
 ## Decisions made by hand
 

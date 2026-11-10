@@ -12,7 +12,7 @@ Pravilnik o sadržaju zahtjeva za izdavanje odobrenja za preuzimanje portfelja u
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2024-2019` (tags `pravilnik-2024-2019/<day>`; `python tools/on.py <day> pravilnik-2024-2019`).
+Act id: `pravilnik-2024-2019` (tags `pravilnik-2024-2019/<day>`; `python registry/tools/on.py <day> pravilnik-2024-2019`).
 
 ## Decisions made by hand
 

@@ -8,7 +8,7 @@ Odluka o visini naknade predsjednicima, potpredsjednicima i članovima izbornih 
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2016-603` (tags `odluka-2016-603/<day>`; `python tools/on.py <day> odluka-2016-603`).
+Act id: `odluka-2016-603` (tags `odluka-2016-603/<day>`; `python registry/tools/on.py <day> odluka-2016-603`).
 
 ## Decisions made by hand
 

@@ -9,7 +9,7 @@ Pravilnik o izmjenama Pravilnika o uvjetima i postupku izbora učitelja za rad u
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2015-1065` (tags `pravilnik-2015-1065/<day>`; `python tools/on.py <day> pravilnik-2015-1065`).
+Act id: `pravilnik-2015-1065` (tags `pravilnik-2015-1065/<day>`; `python registry/tools/on.py <day> pravilnik-2015-1065`).
 
 ## Decisions made by hand
 

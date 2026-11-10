@@ -21,7 +21,7 @@ Zakon o izmjenama i dopunama Zakona o fiskalnoj odgovornosti · 1 versions, from
 | čl. 15 | [clanak-015.md](clanak-015.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2014-366` (tags `zakon-2014-366/<day>`; `python tools/on.py <day> zakon-2014-366`).
+Act id: `zakon-2014-366` (tags `zakon-2014-366/<day>`; `python registry/tools/on.py <day> zakon-2014-366`).
 
 ## Decisions made by hand
 

@@ -9,7 +9,7 @@ Uredba o izmjeni Uredbe o načinima i uvjetima napredovanja državnih službenik
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2015-2053` (tags `uredba-2015-2053/<day>`; `python tools/on.py <day> uredba-2015-2053`).
+Act id: `uredba-2015-2053` (tags `uredba-2015-2053/<day>`; `python registry/tools/on.py <day> uredba-2015-2053`).
 
 ## Decisions made by hand
 

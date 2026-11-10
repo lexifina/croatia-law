@@ -10,7 +10,7 @@ Zakon o dopunama Zakona o turističkim zajednicama i promicanju hrvatskog turizm
 | čl. 4 | [clanak-004.md](clanak-004.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2020-885` (tags `zakon-2020-885/<day>`; `python tools/on.py <day> zakon-2020-885`).
+Act id: `zakon-2020-885` (tags `zakon-2020-885/<day>`; `python registry/tools/on.py <day> zakon-2020-885`).
 
 ## Decisions made by hand
 

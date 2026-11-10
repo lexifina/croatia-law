@@ -21,7 +21,7 @@ Pravilnik o revidentima iz zaštite od požara · 1 versions, from 2011-12-15 (l
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2011-2824` (tags `pravilnik-2011-2824/<day>`; `python tools/on.py <day> pravilnik-2011-2824`).
+Act id: `pravilnik-2011-2824` (tags `pravilnik-2011-2824/<day>`; `python registry/tools/on.py <day> pravilnik-2011-2824`).
 
 ## Decisions made by hand
 

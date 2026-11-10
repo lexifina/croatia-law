@@ -14,7 +14,7 @@ Pravilnik o mjeriteljskim zahtjevima za medicinske električne termometre za kon
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2012-1580` (tags `pravilnik-2012-1580/<day>`; `python tools/on.py <day> pravilnik-2012-1580`).
+Act id: `pravilnik-2012-1580` (tags `pravilnik-2012-1580/<day>`; `python registry/tools/on.py <day> pravilnik-2012-1580`).
 
 ## Decisions made by hand
 

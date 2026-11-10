@@ -13,7 +13,7 @@ Uredba o na훾inu izra훾una i visini sredstava za uzdr탑avanje dr탑avljanina tre�
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2021-273` (tags `uredba-2021-273/<day>`; `python tools/on.py <day> uredba-2021-273`).
+Act id: `uredba-2021-273` (tags `uredba-2021-273/<day>`; `python registry/tools/on.py <day> uredba-2021-273`).
 
 ## Status
 

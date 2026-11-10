@@ -13,7 +13,7 @@ Uredba o izmjenama Uredbe o unutarnjem ustrojstvu Ministarstva znanosti i obrazo
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2019-1651` (tags `uredba-2019-1651/<day>`; `python tools/on.py <day> uredba-2019-1651`).
+Act id: `uredba-2019-1651` (tags `uredba-2019-1651/<day>`; `python registry/tools/on.py <day> uredba-2019-1651`).
 
 ## Decisions made by hand
 

@@ -9,7 +9,7 @@ Odluka o izmjeni Odluke o utvrđivanju cijene obrtnice · 1 versions, from 2018-
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2018-121` (tags `odluka-2018-121/<day>`; `python tools/on.py <day> odluka-2018-121`).
+Act id: `odluka-2018-121` (tags `odluka-2018-121/<day>`; `python registry/tools/on.py <day> odluka-2018-121`).
 
 ## Decisions made by hand
 

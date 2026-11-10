@@ -10,7 +10,7 @@ Naredba o prestanku važenja Naredbe o poduzimanju mjera za sprječavanje širen
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `naredba-2026-684` (tags `naredba-2026-684/<day>`; `python tools/on.py <day> naredba-2026-684`).
+Act id: `naredba-2026-684` (tags `naredba-2026-684/<day>`; `python registry/tools/on.py <day> naredba-2026-684`).
 
 ## Decisions made by hand
 

@@ -8,7 +8,7 @@ Odluka o raspolaganju sredstvima Fonda za razvoj turizma · 1 versions, from 201
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2013-2606` (tags `odluka-2013-2606/<day>`; `python tools/on.py <day> odluka-2013-2606`).
+Act id: `odluka-2013-2606` (tags `odluka-2013-2606/<day>`; `python registry/tools/on.py <day> odluka-2013-2606`).
 
 ## Decisions made by hand
 

@@ -8,7 +8,7 @@ Odluka o davanju suglasnosti na Statut Agencije za opremu pod tlakom · 1 versio
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2012-2948` (tags `odluka-2012-2948/<day>`; `python tools/on.py <day> odluka-2012-2948`).
+Act id: `odluka-2012-2948` (tags `odluka-2012-2948/<day>`; `python registry/tools/on.py <day> odluka-2012-2948`).
 
 ## Decisions made by hand
 

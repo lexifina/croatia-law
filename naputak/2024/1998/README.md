@@ -18,7 +18,7 @@ Naputak o dodatnim podacima i operativnim izvještajima izvanproračunskih koris
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `naputak-2024-1998` (tags `naputak-2024-1998/<day>`; `python tools/on.py <day> naputak-2024-1998`).
+Act id: `naputak-2024-1998` (tags `naputak-2024-1998/<day>`; `python registry/tools/on.py <day> naputak-2024-1998`).
 
 ## Decisions made by hand
 

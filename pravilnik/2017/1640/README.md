@@ -21,7 +21,7 @@ Pravilnik o izmjenama Pravilnika o razvrstavanju i kategorizaciji objekata u koj
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2017-1640` (tags `pravilnik-2017-1640/<day>`; `python tools/on.py <day> pravilnik-2017-1640`).
+Act id: `pravilnik-2017-1640` (tags `pravilnik-2017-1640/<day>`; `python registry/tools/on.py <day> pravilnik-2017-1640`).
 
 ## Decisions made by hand
 

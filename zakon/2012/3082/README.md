@@ -12,7 +12,7 @@ Zakon o izmjenama i dopunama Zakona o Fondu za zaštitu okoliša i energetsku u�
 | čl. 6 | [clanak-006.md](clanak-006.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2012-3082` (tags `zakon-2012-3082/<day>`; `python tools/on.py <day> zakon-2012-3082`).
+Act id: `zakon-2012-3082` (tags `zakon-2012-3082/<day>`; `python registry/tools/on.py <day> zakon-2012-3082`).
 
 ## Decisions made by hand
 

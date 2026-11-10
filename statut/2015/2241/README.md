@@ -33,7 +33,7 @@ Statut političke stranke U ime obitelji - projekt Domovina · 1 versions, from 
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `statut-2015-2241` (tags `statut-2015-2241/<day>`; `python tools/on.py <day> statut-2015-2241`).
+Act id: `statut-2015-2241` (tags `statut-2015-2241/<day>`; `python registry/tools/on.py <day> statut-2015-2241`).
 
 ## Decisions made by hand
 

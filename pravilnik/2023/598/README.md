@@ -10,7 +10,7 @@ Pravilnik o dopuni Pravilnika o uporabi parkirališne karte za osobe s invalidit
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2023-598` (tags `pravilnik-2023-598/<day>`; `python tools/on.py <day> pravilnik-2023-598`).
+Act id: `pravilnik-2023-598` (tags `pravilnik-2023-598/<day>`; `python registry/tools/on.py <day> pravilnik-2023-598`).
 
 ## Decisions made by hand
 

@@ -12,7 +12,7 @@ Odluka o utvrđivanju popisa posebno skupih lijekova utvrđenih Odlukom o utvrđ
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2015-1480` (tags `odluka-2015-1480/<day>`; `python tools/on.py <day> odluka-2015-1480`).
+Act id: `odluka-2015-1480` (tags `odluka-2015-1480/<day>`; `python registry/tools/on.py <day> odluka-2015-1480`).
 
 ## Status
 

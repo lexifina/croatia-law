@@ -5,7 +5,7 @@ Odluka o iznosu tarifnih stavki za distribuciju plina za energetski subjekt HEP-
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `odluka-2020-1783` (tags `odluka-2020-1783/<day>`; `python tools/on.py <day> odluka-2020-1783`).
+Act id: `odluka-2020-1783` (tags `odluka-2020-1783/<day>`; `python registry/tools/on.py <day> odluka-2020-1783`).
 
 ## Decisions made by hand
 

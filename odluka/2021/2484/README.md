@@ -21,7 +21,7 @@ Odluka o naknadi za razvoj komunalnih vodnih građevina društva Vodovod d.o.o.,
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2021-2484` (tags `odluka-2021-2484/<day>`; `python tools/on.py <day> odluka-2021-2484`).
+Act id: `odluka-2021-2484` (tags `odluka-2021-2484/<day>`; `python registry/tools/on.py <day> odluka-2021-2484`).
 
 ## Status
 

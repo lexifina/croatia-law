@@ -5,7 +5,7 @@ Pravilnik o priređivanju zabavnih igara · 2 versions, from 2017-01-03 (latest 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `pravilnik-2017-8` (tags `pravilnik-2017-8/<day>`; `python tools/on.py <day> pravilnik-2017-8`).
+Act id: `pravilnik-2017-8` (tags `pravilnik-2017-8/<day>`; `python registry/tools/on.py <day> pravilnik-2017-8`).
 
 ## Decisions made by hand
 

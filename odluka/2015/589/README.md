@@ -8,7 +8,7 @@ Odluka o cijeni plina po kojoj je proizvođač prirodnog plina, prirodni plin pr
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2015-589` (tags `odluka-2015-589/<day>`; `python tools/on.py <day> odluka-2015-589`).
+Act id: `odluka-2015-589` (tags `odluka-2015-589/<day>`; `python registry/tools/on.py <day> odluka-2015-589`).
 
 ## Status
 

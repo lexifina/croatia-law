@@ -12,7 +12,7 @@ Uredba o izmjenama i dopuni Zakona o zdravstvenoj zaštiti · 1 versions, from 2
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2014-2908` (tags `uredba-2014-2908/<day>`; `python tools/on.py <day> uredba-2014-2908`).
+Act id: `uredba-2014-2908` (tags `uredba-2014-2908/<day>`; `python registry/tools/on.py <day> uredba-2014-2908`).
 
 ## Decisions made by hand
 

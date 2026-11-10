@@ -21,7 +21,7 @@ Pravilnik o načinu obračunavanja i plaćanja te izvješćivanja o prihodu obve
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2014-2569` (tags `pravilnik-2014-2569/<day>`; `python tools/on.py <day> pravilnik-2014-2569`).
+Act id: `pravilnik-2014-2569` (tags `pravilnik-2014-2569/<day>`; `python registry/tools/on.py <day> pravilnik-2014-2569`).
 
 ## Status
 

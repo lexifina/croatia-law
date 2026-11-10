@@ -33,7 +33,7 @@ Pravilnik o uvjetima kojima mora udovoljavati operator aerodroma za izdavanje te
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2013-774` (tags `pravilnik-2013-774/<day>`; `python tools/on.py <day> pravilnik-2013-774`).
+Act id: `pravilnik-2013-774` (tags `pravilnik-2013-774/<day>`; `python registry/tools/on.py <day> pravilnik-2013-774`).
 
 ## Status
 

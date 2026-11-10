@@ -8,7 +8,7 @@ Odluka o financiranju najamnine za stambeno zbrinjavanje osoba čije su nekretni
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2021-315` (tags `odluka-2021-315/<day>`; `python tools/on.py <day> odluka-2021-315`).
+Act id: `odluka-2021-315` (tags `odluka-2021-315/<day>`; `python registry/tools/on.py <day> odluka-2021-315`).
 
 ## Status
 

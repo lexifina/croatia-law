@@ -10,7 +10,7 @@ Uredba o udjelu u neto isporučenoj električnoj energiji povlaštenih proizvođ
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2023-2506` (tags `uredba-2023-2506/<day>`; `python tools/on.py <day> uredba-2023-2506`).
+Act id: `uredba-2023-2506` (tags `uredba-2023-2506/<day>`; `python registry/tools/on.py <day> uredba-2023-2506`).
 
 ## Decisions made by hand
 

@@ -19,7 +19,7 @@ Pravilnik o izmjenama i dopunama Pravilnika o vrstama pohvala i nagrada, uvjetim
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2017-1104` (tags `pravilnik-2017-1104/<day>`; `python tools/on.py <day> pravilnik-2017-1104`).
+Act id: `pravilnik-2017-1104` (tags `pravilnik-2017-1104/<day>`; `python registry/tools/on.py <day> pravilnik-2017-1104`).
 
 ## Decisions made by hand
 

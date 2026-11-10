@@ -8,7 +8,7 @@ Odluka o donošenju Programa razvoja kružnog gospodarenja prostorom i zgradama 
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2021-2443` (tags `odluka-2021-2443/<day>`; `python tools/on.py <day> odluka-2021-2443`).
+Act id: `odluka-2021-2443` (tags `odluka-2021-2443/<day>`; `python registry/tools/on.py <day> odluka-2021-2443`).
 
 ## Decisions made by hand
 

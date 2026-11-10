@@ -8,7 +8,7 @@ Odluka o davanju prethodne suglasnosti na Statut Hrvatske agencije za obvezne za
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2014-1165` (tags `odluka-2014-1165/<day>`; `python tools/on.py <day> odluka-2014-1165`).
+Act id: `odluka-2014-1165` (tags `odluka-2014-1165/<day>`; `python registry/tools/on.py <day> odluka-2014-1165`).
 
 ## Decisions made by hand
 

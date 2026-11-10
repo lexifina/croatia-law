@@ -5,7 +5,7 @@ Pravilnik o razini, odgovarajućem zvanju, uvjetima i načinu napredovanja stru�
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `pravilnik-2015-1276` (tags `pravilnik-2015-1276/<day>`; `python tools/on.py <day> pravilnik-2015-1276`).
+Act id: `pravilnik-2015-1276` (tags `pravilnik-2015-1276/<day>`; `python registry/tools/on.py <day> pravilnik-2015-1276`).
 
 ## Decisions made by hand
 

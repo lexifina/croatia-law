@@ -26,7 +26,7 @@ Naputak o otkrivanju, postupanju i izvješćivanju o nepravilnostima u upravljan
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `naputak-2012-1673` (tags `naputak-2012-1673/<day>`; `python tools/on.py <day> naputak-2012-1673`).
+Act id: `naputak-2012-1673` (tags `naputak-2012-1673/<day>`; `python registry/tools/on.py <day> naputak-2012-1673`).
 
 ## Status
 

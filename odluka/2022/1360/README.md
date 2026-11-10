@@ -8,7 +8,7 @@ Odluka o donošenju Akcijskog plana za razdoblje od 2022. do 2024. godine uz Str
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2022-1360` (tags `odluka-2022-1360/<day>`; `python tools/on.py <day> odluka-2022-1360`).
+Act id: `odluka-2022-1360` (tags `odluka-2022-1360/<day>`; `python registry/tools/on.py <day> odluka-2022-1360`).
 
 ## Decisions made by hand
 

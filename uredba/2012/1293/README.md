@@ -9,7 +9,7 @@ Uredba o izmjeni Uredbe o raspisivanju i provedbi javnog natječaja i internog o
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2012-1293` (tags `uredba-2012-1293/<day>`; `python tools/on.py <day> uredba-2012-1293`).
+Act id: `uredba-2012-1293` (tags `uredba-2012-1293/<day>`; `python registry/tools/on.py <day> uredba-2012-1293`).
 
 ## Decisions made by hand
 

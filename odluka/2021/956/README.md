@@ -8,7 +8,7 @@ Odluka o naknadi za razvoj za područje Grada Otoka (naselja: Otok i Komletinci)
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2021-956` (tags `odluka-2021-956/<day>`; `python tools/on.py <day> odluka-2021-956`).
+Act id: `odluka-2021-956` (tags `odluka-2021-956/<day>`; `python registry/tools/on.py <day> odluka-2021-956`).
 
 ## Decisions made by hand
 

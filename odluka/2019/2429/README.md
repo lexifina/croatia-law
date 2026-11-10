@@ -8,7 +8,7 @@ Odluka o ustrojavanju Službeničkog suda i Višeg službeničkog suda · 1 vers
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2019-2429` (tags `odluka-2019-2429/<day>`; `python tools/on.py <day> odluka-2019-2429`).
+Act id: `odluka-2019-2429` (tags `odluka-2019-2429/<day>`; `python registry/tools/on.py <day> odluka-2019-2429`).
 
 ## Decisions made by hand
 

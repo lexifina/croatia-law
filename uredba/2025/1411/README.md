@@ -66,7 +66,7 @@ Uredba o lukama i zimovnicima unutarnjih voda · 1 versions, from 2025-07-24 (la
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2025-1411` (tags `uredba-2025-1411/<day>`; `python tools/on.py <day> uredba-2025-1411`).
+Act id: `uredba-2025-1411` (tags `uredba-2025-1411/<day>`; `python registry/tools/on.py <day> uredba-2025-1411`).
 
 ## Decisions made by hand
 

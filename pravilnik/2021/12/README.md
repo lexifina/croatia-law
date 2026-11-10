@@ -10,7 +10,7 @@ Pravilnik o izmjenama Pravilnika o energetskom pregledu zgrade i energetskom cer
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2021-12` (tags `pravilnik-2021-12/<day>`; `python tools/on.py <day> pravilnik-2021-12`).
+Act id: `pravilnik-2021-12` (tags `pravilnik-2021-12/<day>`; `python registry/tools/on.py <day> pravilnik-2021-12`).
 
 ## Status
 

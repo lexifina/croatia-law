@@ -8,7 +8,7 @@ Odluka o davanju suglasnosti na Statut Hrvatskih voda · 1 versions, from 2011-0
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2011-1384` (tags `odluka-2011-1384/<day>`; `python tools/on.py <day> odluka-2011-1384`).
+Act id: `odluka-2011-1384` (tags `odluka-2011-1384/<day>`; `python registry/tools/on.py <day> odluka-2011-1384`).
 
 ## Decisions made by hand
 

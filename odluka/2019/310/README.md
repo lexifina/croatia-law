@@ -9,7 +9,7 @@ Odluka o izmjenama i dopunama Odluke o utvrđivanju Dopunske liste lijekova Hrva
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2019-310` (tags `odluka-2019-310/<day>`; `python tools/on.py <day> odluka-2019-310`).
+Act id: `odluka-2019-310` (tags `odluka-2019-310/<day>`; `python registry/tools/on.py <day> odluka-2019-310`).
 
 ## Decisions made by hand
 

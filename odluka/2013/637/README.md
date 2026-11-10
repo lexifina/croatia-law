@@ -8,7 +8,7 @@ Odluka o davanju suglasnosti na Odluku o izmjeni Odluke o utvrđivanju lučkog p
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2013-637` (tags `odluka-2013-637/<day>`; `python tools/on.py <day> odluka-2013-637`).
+Act id: `odluka-2013-637` (tags `odluka-2013-637/<day>`; `python registry/tools/on.py <day> odluka-2013-637`).
 
 ## Decisions made by hand
 

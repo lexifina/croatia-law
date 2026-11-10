@@ -10,7 +10,7 @@ Zakon o izmjeni i dopuni Zakona o porezu na dobit · 1 versions, from 2020-03-20
 | čl. 4 | [clanak-004.md](clanak-004.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2020-693` (tags `zakon-2020-693/<day>`; `python tools/on.py <day> zakon-2020-693`).
+Act id: `zakon-2020-693` (tags `zakon-2020-693/<day>`; `python registry/tools/on.py <day> zakon-2020-693`).
 
 ## Status
 

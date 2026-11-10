@@ -5,7 +5,7 @@ Pravilnik o Upisniku regionalnih koordinatora i lokalnih razvojnih agencija · 2
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `pravilnik-2015-2294` (tags `pravilnik-2015-2294/<day>`; `python tools/on.py <day> pravilnik-2015-2294`).
+Act id: `pravilnik-2015-2294` (tags `pravilnik-2015-2294/<day>`; `python registry/tools/on.py <day> pravilnik-2015-2294`).
 
 ## Decisions made by hand
 

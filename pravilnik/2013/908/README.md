@@ -9,7 +9,7 @@ Pravilnik o dopuni Pravilnika o kriterijima za određivanje namjene pojedinog di
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2013-908` (tags `pravilnik-2013-908/<day>`; `python tools/on.py <day> pravilnik-2013-908`).
+Act id: `pravilnik-2013-908` (tags `pravilnik-2013-908/<day>`; `python registry/tools/on.py <day> pravilnik-2013-908`).
 
 ## Decisions made by hand
 

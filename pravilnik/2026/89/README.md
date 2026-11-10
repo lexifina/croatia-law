@@ -10,7 +10,7 @@ Pravilnik o izmjeni Pravilnika o provedbi Općeg poreznog zakona · 1 versions, 
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2026-89` (tags `pravilnik-2026-89/<day>`; `python tools/on.py <day> pravilnik-2026-89`).
+Act id: `pravilnik-2026-89` (tags `pravilnik-2026-89/<day>`; `python registry/tools/on.py <day> pravilnik-2026-89`).
 
 ## Decisions made by hand
 

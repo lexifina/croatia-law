@@ -9,7 +9,7 @@ Odluka o izmjenama Odluke o utvrđivanju godišnje kvote dozvola za zapošljavan
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2018-1040` (tags `odluka-2018-1040/<day>`; `python tools/on.py <day> odluka-2018-1040`).
+Act id: `odluka-2018-1040` (tags `odluka-2018-1040/<day>`; `python registry/tools/on.py <day> odluka-2018-1040`).
 
 ## Decisions made by hand
 

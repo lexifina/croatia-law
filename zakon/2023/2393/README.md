@@ -54,7 +54,7 @@ Zakon o izmjenama i dopunama Zakona o dobrovoljnim mirovinskim fondovima · 1 ve
 | čl. 48 | [clanak-048.md](clanak-048.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2023-2393` (tags `zakon-2023-2393/<day>`; `python tools/on.py <day> zakon-2023-2393`).
+Act id: `zakon-2023-2393` (tags `zakon-2023-2393/<day>`; `python registry/tools/on.py <day> zakon-2023-2393`).
 
 ## Decisions made by hand
 

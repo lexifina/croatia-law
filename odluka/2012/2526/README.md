@@ -8,7 +8,7 @@ Odluka o osnivanju Povjerenstva za izbor kandidata Republike Hrvatske za suce i 
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2012-2526` (tags `odluka-2012-2526/<day>`; `python tools/on.py <day> odluka-2012-2526`).
+Act id: `odluka-2012-2526` (tags `odluka-2012-2526/<day>`; `python registry/tools/on.py <day> odluka-2012-2526`).
 
 ## Decisions made by hand
 

@@ -69,7 +69,7 @@ Statut Akcije bjelovarsko-bilogorske · 1 versions, from 2015-05-27 (latest in f
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `statut-2015-1159` (tags `statut-2015-1159/<day>`; `python tools/on.py <day> statut-2015-1159`).
+Act id: `statut-2015-1159` (tags `statut-2015-1159/<day>`; `python registry/tools/on.py <day> statut-2015-1159`).
 
 ## Decisions made by hand
 

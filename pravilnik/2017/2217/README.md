@@ -79,7 +79,7 @@ Pravilnik o provedbi podmjere 19.2. Â»Provedba operacija unutar CLLD strategijeÂ
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2017-2217` (tags `pravilnik-2017-2217/<day>`; `python tools/on.py <day> pravilnik-2017-2217`).
+Act id: `pravilnik-2017-2217` (tags `pravilnik-2017-2217/<day>`; `python registry/tools/on.py <day> pravilnik-2017-2217`).
 
 ## Status
 

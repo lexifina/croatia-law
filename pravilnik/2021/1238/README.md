@@ -8,7 +8,7 @@ Pravilnik o dopuni Pravilnika o ribolovnim mogućnostima u gospodarskom ribolovu
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2021-1238` (tags `pravilnik-2021-1238/<day>`; `python tools/on.py <day> pravilnik-2021-1238`).
+Act id: `pravilnik-2021-1238` (tags `pravilnik-2021-1238/<day>`; `python registry/tools/on.py <day> pravilnik-2021-1238`).
 
 ## Decisions made by hand
 

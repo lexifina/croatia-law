@@ -38,7 +38,7 @@ Uredba o osnivanju prava građenja i prava služnosti na nekretninama u vlasniš
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2014-175` (tags `uredba-2014-175/<day>`; `python tools/on.py <day> uredba-2014-175`).
+Act id: `uredba-2014-175` (tags `uredba-2014-175/<day>`; `python registry/tools/on.py <day> uredba-2014-175`).
 
 ## Status
 

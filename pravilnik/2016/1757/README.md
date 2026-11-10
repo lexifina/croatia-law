@@ -28,7 +28,7 @@ Pravilnik o vrsti i postupku dodjele nagrada i priznanja Državne uprave za zaš
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2016-1757` (tags `pravilnik-2016-1757/<day>`; `python tools/on.py <day> pravilnik-2016-1757`).
+Act id: `pravilnik-2016-1757` (tags `pravilnik-2016-1757/<day>`; `python registry/tools/on.py <day> pravilnik-2016-1757`).
 
 ## Status
 

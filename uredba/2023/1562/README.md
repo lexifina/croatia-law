@@ -14,7 +14,7 @@ Uredba o kriterijima i mjerilima za utvrđivanje iznosa sredstava za fiskalnu od
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2023-1562` (tags `uredba-2023-1562/<day>`; `python tools/on.py <day> uredba-2023-1562`).
+Act id: `uredba-2023-1562` (tags `uredba-2023-1562/<day>`; `python registry/tools/on.py <day> uredba-2023-1562`).
 
 ## Status
 

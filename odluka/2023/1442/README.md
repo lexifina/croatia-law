@@ -8,7 +8,7 @@ Odluka o donošenju Akcijskog plana održavanja i izgradnje šumskih prometnica 
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2023-1442` (tags `odluka-2023-1442/<day>`; `python tools/on.py <day> odluka-2023-1442`).
+Act id: `odluka-2023-1442` (tags `odluka-2023-1442/<day>`; `python registry/tools/on.py <day> odluka-2023-1442`).
 
 ## Decisions made by hand
 

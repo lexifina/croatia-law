@@ -8,7 +8,7 @@ Odluka o davanju suglasnosti na Odluku Županijske skupštine Primorsko-goranske
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2015-1834` (tags `odluka-2015-1834/<day>`; `python tools/on.py <day> odluka-2015-1834`).
+Act id: `odluka-2015-1834` (tags `odluka-2015-1834/<day>`; `python registry/tools/on.py <day> odluka-2015-1834`).
 
 ## Decisions made by hand
 

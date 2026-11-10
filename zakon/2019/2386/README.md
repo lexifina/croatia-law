@@ -15,7 +15,7 @@ Zakon o izmjenama i dopunama Općeg poreznog zakona · 1 versions, from 2020-01-
 | čl. 9 | [clanak-009.md](clanak-009.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2019-2386` (tags `zakon-2019-2386/<day>`; `python tools/on.py <day> zakon-2019-2386`).
+Act id: `zakon-2019-2386` (tags `zakon-2019-2386/<day>`; `python registry/tools/on.py <day> zakon-2019-2386`).
 
 ## Decisions made by hand
 

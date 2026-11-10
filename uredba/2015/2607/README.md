@@ -5,7 +5,7 @@ Uredba o mjesečnom iznosu naknade za ugroženog kupca energenata, načinu sudje
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `uredba-2015-2607` (tags `uredba-2015-2607/<day>`; `python tools/on.py <day> uredba-2015-2607`).
+Act id: `uredba-2015-2607` (tags `uredba-2015-2607/<day>`; `python registry/tools/on.py <day> uredba-2015-2607`).
 
 ## Decisions made by hand
 

@@ -5,7 +5,7 @@ Pravilnik o utvrđivanju neto vrijednosti imovine AIF-a i cijene udjela AIF-a ·
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `pravilnik-2017-2927` (tags `pravilnik-2017-2927/<day>`; `python tools/on.py <day> pravilnik-2017-2927`).
+Act id: `pravilnik-2017-2927` (tags `pravilnik-2017-2927/<day>`; `python registry/tools/on.py <day> pravilnik-2017-2927`).
 
 ## Decisions made by hand
 

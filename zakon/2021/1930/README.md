@@ -24,7 +24,7 @@ Zakon o izmjenama i dopuni Zakona o općem upravnom postupku · 1 versions, from
 | čl. 18 | [clanak-018.md](clanak-018.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2021-1930` (tags `zakon-2021-1930/<day>`; `python tools/on.py <day> zakon-2021-1930`).
+Act id: `zakon-2021-1930` (tags `zakon-2021-1930/<day>`; `python registry/tools/on.py <day> zakon-2021-1930`).
 
 ## Decisions made by hand
 

@@ -10,7 +10,7 @@ Pravilnik o izmjenama Pravilnika o davanju odobrenja za paralelni uvoz lijeka ·
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2021-692` (tags `pravilnik-2021-692/<day>`; `python tools/on.py <day> pravilnik-2021-692`).
+Act id: `pravilnik-2021-692` (tags `pravilnik-2021-692/<day>`; `python registry/tools/on.py <day> pravilnik-2021-692`).
 
 ## Decisions made by hand
 

@@ -8,7 +8,7 @@ Zakon o izmjeni Zakona o brdsko-planinskim područjima · 1 versions, from 2014-
 | čl. 2 | [clanak-002.md](clanak-002.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2013-3143` (tags `zakon-2013-3143/<day>`; `python tools/on.py <day> zakon-2013-3143`).
+Act id: `zakon-2013-3143` (tags `zakon-2013-3143/<day>`; `python registry/tools/on.py <day> zakon-2013-3143`).
 
 ## Decisions made by hand
 

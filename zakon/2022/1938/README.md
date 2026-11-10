@@ -44,7 +44,7 @@ Zakon o izmjenama i dopunama Zakona o zemljišnim knjigama · 1 versions, from 2
 | čl. 38 | [clanak-038.md](clanak-038.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2022-1938` (tags `zakon-2022-1938/<day>`; `python tools/on.py <day> zakon-2022-1938`).
+Act id: `zakon-2022-1938` (tags `zakon-2022-1938/<day>`; `python registry/tools/on.py <day> zakon-2022-1938`).
 
 ## Decisions made by hand
 

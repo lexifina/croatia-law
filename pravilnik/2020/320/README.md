@@ -9,7 +9,7 @@ Pravilnik o izmjeni Pravilnika o vrstama alternativnih investicijskih fondova ·
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2020-320` (tags `pravilnik-2020-320/<day>`; `python tools/on.py <day> pravilnik-2020-320`).
+Act id: `pravilnik-2020-320` (tags `pravilnik-2020-320/<day>`; `python registry/tools/on.py <day> pravilnik-2020-320`).
 
 ## Decisions made by hand
 

@@ -14,7 +14,7 @@ Pravilnik o izmjenama i dopunama Pravilnika o sadržaju i obliku ugovora o leasi
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2018-1703` (tags `pravilnik-2018-1703/<day>`; `python tools/on.py <day> pravilnik-2018-1703`).
+Act id: `pravilnik-2018-1703` (tags `pravilnik-2018-1703/<day>`; `python registry/tools/on.py <day> pravilnik-2018-1703`).
 
 ## Decisions made by hand
 

@@ -244,7 +244,7 @@ Zakon o strancima · 1 versions, from 2012-01-01 (latest in force: 2012-01-01) �
 | čl. 238 | [clanak-238.md](clanak-238.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2011-2600` (tags `zakon-2011-2600/<day>`; `python tools/on.py <day> zakon-2011-2600`).
+Act id: `zakon-2011-2600` (tags `zakon-2011-2600/<day>`; `python registry/tools/on.py <day> zakon-2011-2600`).
 
 ## Status
 

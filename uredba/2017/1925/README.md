@@ -10,7 +10,7 @@ Uredba o izmjenama Uredbe o osnivanju Državnog arhiva u Šibeniku · 1 versions
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2017-1925` (tags `uredba-2017-1925/<day>`; `python tools/on.py <day> uredba-2017-1925`).
+Act id: `uredba-2017-1925` (tags `uredba-2017-1925/<day>`; `python registry/tools/on.py <day> uredba-2017-1925`).
 
 ## Decisions made by hand
 

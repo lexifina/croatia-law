@@ -39,7 +39,7 @@ Zakon o izmjenama i dopunama Zakona o doprinosima · 1 versions, from 2017-01-01
 | čl. 33 | [clanak-033.md](clanak-033.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2016-2528` (tags `zakon-2016-2528/<day>`; `python tools/on.py <day> zakon-2016-2528`).
+Act id: `zakon-2016-2528` (tags `zakon-2016-2528/<day>`; `python registry/tools/on.py <day> zakon-2016-2528`).
 
 ## Decisions made by hand
 

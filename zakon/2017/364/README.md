@@ -22,7 +22,7 @@ Zakon o izmjenama i dopunama Zakona o poticanju zapošljavanja · 1 versions, fr
 | čl. 16 | [clanak-016.md](clanak-016.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2017-364` (tags `zakon-2017-364/<day>`; `python tools/on.py <day> zakon-2017-364`).
+Act id: `zakon-2017-364` (tags `zakon-2017-364/<day>`; `python registry/tools/on.py <day> zakon-2017-364`).
 
 ## Decisions made by hand
 

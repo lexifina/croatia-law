@@ -8,7 +8,7 @@ Naredba o dopuni Naredbe o razvrstaju luka otvorenih za javni promet na područj
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `naredba-2022-1151` (tags `naredba-2022-1151/<day>`; `python tools/on.py <day> naredba-2022-1151`).
+Act id: `naredba-2022-1151` (tags `naredba-2022-1151/<day>`; `python registry/tools/on.py <day> naredba-2022-1151`).
 
 ## Decisions made by hand
 

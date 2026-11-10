@@ -9,7 +9,7 @@ Odluka o dopunama Odluke o donošenju Mreže telemedicinskih centara · 1 versio
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2023-1671` (tags `odluka-2023-1671/<day>`; `python tools/on.py <day> odluka-2023-1671`).
+Act id: `odluka-2023-1671` (tags `odluka-2023-1671/<day>`; `python registry/tools/on.py <day> odluka-2023-1671`).
 
 ## Decisions made by hand
 

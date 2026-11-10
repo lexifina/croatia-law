@@ -5,7 +5,7 @@ Pravilnik o osnovici za izračun i način naplate naknade za upravljanje imovino
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `pravilnik-2019-2329` (tags `pravilnik-2019-2329/<day>`; `python tools/on.py <day> pravilnik-2019-2329`).
+Act id: `pravilnik-2019-2329` (tags `pravilnik-2019-2329/<day>`; `python registry/tools/on.py <day> pravilnik-2019-2329`).
 
 ## Decisions made by hand
 

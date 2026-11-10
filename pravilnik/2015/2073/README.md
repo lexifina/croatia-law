@@ -5,7 +5,7 @@ Pravilnik o pretpostavkama i načinu izbora stečajnoga upravitelja metodom slu�
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `pravilnik-2015-2073` (tags `pravilnik-2015-2073/<day>`; `python tools/on.py <day> pravilnik-2015-2073`).
+Act id: `pravilnik-2015-2073` (tags `pravilnik-2015-2073/<day>`; `python registry/tools/on.py <day> pravilnik-2015-2073`).
 
 ## Decisions made by hand
 

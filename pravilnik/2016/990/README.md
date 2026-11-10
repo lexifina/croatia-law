@@ -68,7 +68,7 @@ Pravilnik o uvjetima nuklearne sigurnosti za davanje suglasnosti za gradnju nukl
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2016-990` (tags `pravilnik-2016-990/<day>`; `python tools/on.py <day> pravilnik-2016-990`).
+Act id: `pravilnik-2016-990` (tags `pravilnik-2016-990/<day>`; `python registry/tools/on.py <day> pravilnik-2016-990`).
 
 ## Status
 

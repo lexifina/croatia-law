@@ -12,7 +12,7 @@ Zakon o izmjenama Zakona o tržištu nafte i naftnih derivata · 1 versions, fro
 | čl. 6 | [clanak-006.md](clanak-006.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2017-1768` (tags `zakon-2017-1768/<day>`; `python tools/on.py <day> zakon-2017-1768`).
+Act id: `zakon-2017-1768` (tags `zakon-2017-1768/<day>`; `python registry/tools/on.py <day> zakon-2017-1768`).
 
 ## Decisions made by hand
 

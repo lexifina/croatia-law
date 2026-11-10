@@ -24,7 +24,7 @@ Pravilnik o izmjenama i dopunama Pravilnika o uvjetima i načinu izdavanja potvr
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2024-2575` (tags `pravilnik-2024-2575/<day>`; `python tools/on.py <day> pravilnik-2024-2575`).
+Act id: `pravilnik-2024-2575` (tags `pravilnik-2024-2575/<day>`; `python registry/tools/on.py <day> pravilnik-2024-2575`).
 
 ## Decisions made by hand
 

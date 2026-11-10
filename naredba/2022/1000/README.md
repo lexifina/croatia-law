@@ -5,7 +5,7 @@ Naredba o mjerama za prihvat nekomercijalnog premještanja kućnih ljubimaca u p
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `naredba-2022-1000` (tags `naredba-2022-1000/<day>`; `python tools/on.py <day> naredba-2022-1000`).
+Act id: `naredba-2022-1000` (tags `naredba-2022-1000/<day>`; `python registry/tools/on.py <day> naredba-2022-1000`).
 
 ## Decisions made by hand
 

@@ -10,7 +10,7 @@ Uredba o izmjeni i dopuni Uredbe o tijelima u sustavu upravljanja i kontrole za 
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2026-786` (tags `uredba-2026-786/<day>`; `python tools/on.py <day> uredba-2026-786`).
+Act id: `uredba-2026-786` (tags `uredba-2026-786/<day>`; `python registry/tools/on.py <day> uredba-2026-786`).
 
 ## Decisions made by hand
 

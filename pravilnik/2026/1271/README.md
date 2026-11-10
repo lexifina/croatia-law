@@ -13,7 +13,7 @@ Pravilnik o sadržaju i obliku Europskog obrasca za informacije o popravku robe 
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2026-1271` (tags `pravilnik-2026-1271/<day>`; `python tools/on.py <day> pravilnik-2026-1271`).
+Act id: `pravilnik-2026-1271` (tags `pravilnik-2026-1271/<day>`; `python registry/tools/on.py <day> pravilnik-2026-1271`).
 
 ## Decisions made by hand
 

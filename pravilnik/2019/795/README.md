@@ -17,7 +17,7 @@ Pravilnik o visini naknada troškova za obavljanje usluga Hrvatske agencije za p
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2019-795` (tags `pravilnik-2019-795/<day>`; `python tools/on.py <day> pravilnik-2019-795`).
+Act id: `pravilnik-2019-795` (tags `pravilnik-2019-795/<day>`; `python registry/tools/on.py <day> pravilnik-2019-795`).
 
 ## Decisions made by hand
 

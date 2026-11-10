@@ -28,7 +28,7 @@ Zakon o izmjenama i dopunama Zakona o tržištu kapitala · 1 versions, from 201
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 
-Act id: `zakon-2015-354` (tags `zakon-2015-354/<day>`; `python tools/on.py <day> zakon-2015-354`).
+Act id: `zakon-2015-354` (tags `zakon-2015-354/<day>`; `python registry/tools/on.py <day> zakon-2015-354`).
 
 ## Decisions made by hand
 

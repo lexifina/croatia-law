@@ -8,7 +8,7 @@ Naredba o izmjeni Naredbe o razvrstaju luka otvorenih za javni promet na područ
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `naredba-2020-967` (tags `naredba-2020-967/<day>`; `python tools/on.py <day> naredba-2020-967`).
+Act id: `naredba-2020-967` (tags `naredba-2020-967/<day>`; `python registry/tools/on.py <day> naredba-2020-967`).
 
 ## Decisions made by hand
 

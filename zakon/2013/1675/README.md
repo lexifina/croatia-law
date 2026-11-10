@@ -29,7 +29,7 @@ Zakon o izmjenama i dopunama Zakona o ugostiteljskoj djelatnosti · 1 versions, 
 | čl. 23 | [clanak-023.md](clanak-023.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2013-1675` (tags `zakon-2013-1675/<day>`; `python tools/on.py <day> zakon-2013-1675`).
+Act id: `zakon-2013-1675` (tags `zakon-2013-1675/<day>`; `python registry/tools/on.py <day> zakon-2013-1675`).
 
 ## Decisions made by hand
 

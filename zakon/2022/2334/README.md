@@ -10,7 +10,7 @@ Zakon o izmjenama Zakona o financiranju jedinica lokalne i područne (regionalne
 | čl. 4 | [clanak-004.md](clanak-004.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2022-2334` (tags `zakon-2022-2334/<day>`; `python tools/on.py <day> zakon-2022-2334`).
+Act id: `zakon-2022-2334` (tags `zakon-2022-2334/<day>`; `python registry/tools/on.py <day> zakon-2022-2334`).
 
 ## Decisions made by hand
 

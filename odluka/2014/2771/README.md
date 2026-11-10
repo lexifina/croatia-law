@@ -16,7 +16,7 @@ Odluka o izmjenama Odluke o sadržaju i obliku isprave kojom se dokazuje status 
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2014-2771` (tags `odluka-2014-2771/<day>`; `python tools/on.py <day> odluka-2014-2771`).
+Act id: `odluka-2014-2771` (tags `odluka-2014-2771/<day>`; `python registry/tools/on.py <day> odluka-2014-2771`).
 
 ## Decisions made by hand
 

@@ -11,7 +11,7 @@ Pravilnik o izmjeni Pravilnika o registru vinograda, obveznim izjavama, prateći
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2014-2768` (tags `pravilnik-2014-2768/<day>`; `python tools/on.py <day> pravilnik-2014-2768`).
+Act id: `pravilnik-2014-2768` (tags `pravilnik-2014-2768/<day>`; `python registry/tools/on.py <day> pravilnik-2014-2768`).
 
 ## Decisions made by hand
 

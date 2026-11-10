@@ -8,7 +8,7 @@ Odluka o izmjeni Odluke o osnivanju Vijeća za domovinsku sigurnost Predsjednice
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2016-1112` (tags `odluka-2016-1112/<day>`; `python tools/on.py <day> odluka-2016-1112`).
+Act id: `odluka-2016-1112` (tags `odluka-2016-1112/<day>`; `python registry/tools/on.py <day> odluka-2016-1112`).
 
 ## Decisions made by hand
 

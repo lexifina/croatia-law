@@ -11,7 +11,7 @@ Naredba o izmjenama Naredbe o mjerama sprječavanja pojave i ranog otkrivanja sl
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `naredba-2025-1064` (tags `naredba-2025-1064/<day>`; `python tools/on.py <day> naredba-2025-1064`).
+Act id: `naredba-2025-1064` (tags `naredba-2025-1064/<day>`; `python registry/tools/on.py <day> naredba-2025-1064`).
 
 ## Decisions made by hand
 

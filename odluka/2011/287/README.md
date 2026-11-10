@@ -30,7 +30,7 @@ Odluka o registru institucija za platni promet i registrima institucija za elekt
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2011-287` (tags `odluka-2011-287/<day>`; `python tools/on.py <day> odluka-2011-287`).
+Act id: `odluka-2011-287` (tags `odluka-2011-287/<day>`; `python registry/tools/on.py <day> odluka-2011-287`).
 
 ## Status
 

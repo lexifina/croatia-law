@@ -17,7 +17,7 @@ Pravilnik o dostavi prijedloga državnih potpora, podataka o državnim potporama
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2017-2843` (tags `pravilnik-2017-2843/<day>`; `python tools/on.py <day> pravilnik-2017-2843`).
+Act id: `pravilnik-2017-2843` (tags `pravilnik-2017-2843/<day>`; `python registry/tools/on.py <day> pravilnik-2017-2843`).
 
 ## Decisions made by hand
 

@@ -5,7 +5,7 @@ Odluka o određivanju iznosa koncesijske naknade za elektroenergetsku infrastruk
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `odluka-2022-584` (tags `odluka-2022-584/<day>`; `python tools/on.py <day> odluka-2022-584`).
+Act id: `odluka-2022-584` (tags `odluka-2022-584/<day>`; `python registry/tools/on.py <day> odluka-2022-584`).
 
 ## Decisions made by hand
 

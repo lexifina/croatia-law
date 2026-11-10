@@ -8,7 +8,7 @@ Odluka o katastarskoj izmjeri na području Općine Novigrad za katastarsku opći
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2016-1465` (tags `odluka-2016-1465/<day>`; `python tools/on.py <day> odluka-2016-1465`).
+Act id: `odluka-2016-1465` (tags `odluka-2016-1465/<day>`; `python registry/tools/on.py <day> odluka-2016-1465`).
 
 ## Decisions made by hand
 

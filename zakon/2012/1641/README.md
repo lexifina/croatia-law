@@ -8,7 +8,7 @@ Zakon o izmjeni Zakona o upravljanju državnom imovinom · 1 versions, from 2012
 | čl. 2 | [clanak-002.md](clanak-002.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2012-1641` (tags `zakon-2012-1641/<day>`; `python tools/on.py <day> zakon-2012-1641`).
+Act id: `zakon-2012-1641` (tags `zakon-2012-1641/<day>`; `python registry/tools/on.py <day> zakon-2012-1641`).
 
 ## Decisions made by hand
 

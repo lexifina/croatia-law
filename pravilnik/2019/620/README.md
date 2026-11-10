@@ -9,7 +9,7 @@ Pravilnik o izmjeni Pravilnika o organiziranju, financiranju i donošenju progra
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2019-620` (tags `pravilnik-2019-620/<day>`; `python tools/on.py <day> pravilnik-2019-620`).
+Act id: `pravilnik-2019-620` (tags `pravilnik-2019-620/<day>`; `python registry/tools/on.py <day> pravilnik-2019-620`).
 
 ## Decisions made by hand
 

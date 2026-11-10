@@ -26,7 +26,7 @@ Pravilnik o načinu rada i postupanja po pritužbama · 1 versions, from 2021-02
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2021-302` (tags `pravilnik-2021-302/<day>`; `python tools/on.py <day> pravilnik-2021-302`).
+Act id: `pravilnik-2021-302` (tags `pravilnik-2021-302/<day>`; `python registry/tools/on.py <day> pravilnik-2021-302`).
 
 ## Status
 

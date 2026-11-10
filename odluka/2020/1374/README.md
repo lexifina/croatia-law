@@ -8,7 +8,7 @@ Odluka o načinu organizacije javnog prometa za vrijeme trajanja proglašene epi
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2020-1374` (tags `odluka-2020-1374/<day>`; `python tools/on.py <day> odluka-2020-1374`).
+Act id: `odluka-2020-1374` (tags `odluka-2020-1374/<day>`; `python registry/tools/on.py <day> odluka-2020-1374`).
 
 ## Status
 

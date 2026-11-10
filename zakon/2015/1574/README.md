@@ -12,7 +12,7 @@ Zakon o izmjenama i dopunama Zakona o sudovima · 1 versions, from 2015-09-01 (l
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 
-Act id: `zakon-2015-1574` (tags `zakon-2015-1574/<day>`; `python tools/on.py <day> zakon-2015-1574`).
+Act id: `zakon-2015-1574` (tags `zakon-2015-1574/<day>`; `python registry/tools/on.py <day> zakon-2015-1574`).
 
 ## Decisions made by hand
 

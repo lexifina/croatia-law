@@ -5,7 +5,7 @@ Pravilnik o podnošenju trošarinskih obrazaca i obrazaca posebnih poreza uporab
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `pravilnik-2017-225` (tags `pravilnik-2017-225/<day>`; `python tools/on.py <day> pravilnik-2017-225`).
+Act id: `pravilnik-2017-225` (tags `pravilnik-2017-225/<day>`; `python registry/tools/on.py <day> pravilnik-2017-225`).
 
 ## Decisions made by hand
 

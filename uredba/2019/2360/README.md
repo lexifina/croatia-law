@@ -12,7 +12,7 @@ Uredba o izmjenama i dopunama Uredbe o nazivima radnih mjesta i koeficijentima s
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2019-2360` (tags `uredba-2019-2360/<day>`; `python tools/on.py <day> uredba-2019-2360`).
+Act id: `uredba-2019-2360` (tags `uredba-2019-2360/<day>`; `python registry/tools/on.py <day> uredba-2019-2360`).
 
 ## Decisions made by hand
 

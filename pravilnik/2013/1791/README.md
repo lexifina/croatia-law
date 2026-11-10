@@ -29,7 +29,7 @@ Pravilnik o načinu i uvjetima primjene zahtjeva održivosti u proizvodnji i kor
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2013-1791` (tags `pravilnik-2013-1791/<day>`; `python tools/on.py <day> pravilnik-2013-1791`).
+Act id: `pravilnik-2013-1791` (tags `pravilnik-2013-1791/<day>`; `python registry/tools/on.py <day> pravilnik-2013-1791`).
 
 ## Status
 

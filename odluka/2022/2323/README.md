@@ -5,7 +5,7 @@ Odluka o porezima Grada Ogulina · 2 versions, from 2023-01-01 (latest in force:
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `odluka-2022-2323` (tags `odluka-2022-2323/<day>`; `python tools/on.py <day> odluka-2022-2323`).
+Act id: `odluka-2022-2323` (tags `odluka-2022-2323/<day>`; `python registry/tools/on.py <day> odluka-2022-2323`).
 
 ## Decisions made by hand
 

@@ -8,7 +8,7 @@ Odluka o postavljanju počasnog konzula Republike Hrvatske u Novom Zelandu, sa s
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2015-1334` (tags `odluka-2015-1334/<day>`; `python tools/on.py <day> odluka-2015-1334`).
+Act id: `odluka-2015-1334` (tags `odluka-2015-1334/<day>`; `python registry/tools/on.py <day> odluka-2015-1334`).
 
 ## Decisions made by hand
 

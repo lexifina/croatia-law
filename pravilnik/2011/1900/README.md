@@ -16,7 +16,7 @@ Pravilnik o dobrim poljoprivrednim i okolišnim uvjetima · 1 versions, from 201
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2011-1900` (tags `pravilnik-2011-1900/<day>`; `python tools/on.py <day> pravilnik-2011-1900`).
+Act id: `pravilnik-2011-1900` (tags `pravilnik-2011-1900/<day>`; `python registry/tools/on.py <day> pravilnik-2011-1900`).
 
 ## Status
 

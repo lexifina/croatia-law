@@ -5,7 +5,7 @@ Pravilnik o mjerilima za davanje odobrenja zdravstvenom radniku za sklapanje pos
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `pravilnik-2015-2175` (tags `pravilnik-2015-2175/<day>`; `python tools/on.py <day> pravilnik-2015-2175`).
+Act id: `pravilnik-2015-2175` (tags `pravilnik-2015-2175/<day>`; `python registry/tools/on.py <day> pravilnik-2015-2175`).
 
 ## Decisions made by hand
 

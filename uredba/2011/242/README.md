@@ -17,7 +17,7 @@ Uredba o načinu i postupku procjene vrijednosti turističkog zemljišta, odnosn
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2011-242` (tags `uredba-2011-242/<day>`; `python tools/on.py <day> uredba-2011-242`).
+Act id: `uredba-2011-242` (tags `uredba-2011-242/<day>`; `python registry/tools/on.py <day> uredba-2011-242`).
 
 ## Status
 

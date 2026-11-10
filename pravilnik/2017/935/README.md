@@ -26,7 +26,7 @@ Pravilnik o likvidaciji i prestanku UCITS fondova · 1 versions, from 2017-05-01
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2017-935` (tags `pravilnik-2017-935/<day>`; `python tools/on.py <day> pravilnik-2017-935`).
+Act id: `pravilnik-2017-935` (tags `pravilnik-2017-935/<day>`; `python registry/tools/on.py <day> pravilnik-2017-935`).
 
 ## Status
 

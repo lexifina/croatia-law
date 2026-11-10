@@ -14,7 +14,7 @@ Odluka o prirezu porezu na dohodak Grada Opuzena · 1 versions, from 2011-11-05 
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2011-2422` (tags `odluka-2011-2422/<day>`; `python tools/on.py <day> odluka-2011-2422`).
+Act id: `odluka-2011-2422` (tags `odluka-2011-2422/<day>`; `python registry/tools/on.py <day> odluka-2011-2422`).
 
 ## Decisions made by hand
 

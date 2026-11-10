@@ -36,7 +36,7 @@ Pravilnik o zdravstvenim pregledima vozača i kandidata za vozače · 1 versions
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2024-872` (tags `pravilnik-2024-872/<day>`; `python tools/on.py <day> pravilnik-2024-872`).
+Act id: `pravilnik-2024-872` (tags `pravilnik-2024-872/<day>`; `python registry/tools/on.py <day> pravilnik-2024-872`).
 
 ## Decisions made by hand
 

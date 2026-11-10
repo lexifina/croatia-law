@@ -8,7 +8,7 @@ Odluka o sanaciji Opće bolnice Zadar · 1 versions, from 2013-05-02 (latest in 
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2013-929` (tags `odluka-2013-929/<day>`; `python tools/on.py <day> odluka-2013-929`).
+Act id: `odluka-2013-929` (tags `odluka-2013-929/<day>`; `python registry/tools/on.py <day> odluka-2013-929`).
 
 ## Status
 

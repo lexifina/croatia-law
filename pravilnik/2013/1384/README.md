@@ -25,7 +25,7 @@ Pravilnik kojim se propisuju posebni uvjeti koji se primjenjuju pri uvozu kikiri
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2013-1384` (tags `pravilnik-2013-1384/<day>`; `python tools/on.py <day> pravilnik-2013-1384`).
+Act id: `pravilnik-2013-1384` (tags `pravilnik-2013-1384/<day>`; `python registry/tools/on.py <day> pravilnik-2013-1384`).
 
 ## Decisions made by hand
 

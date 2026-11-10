@@ -13,7 +13,7 @@ Odluka o prirezu porezu na dohodak Grada Kraljevice · 1 versions, from 2017-04-
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2017-563` (tags `odluka-2017-563/<day>`; `python tools/on.py <day> odluka-2017-563`).
+Act id: `odluka-2017-563` (tags `odluka-2017-563/<day>`; `python registry/tools/on.py <day> odluka-2017-563`).
 
 ## Status
 

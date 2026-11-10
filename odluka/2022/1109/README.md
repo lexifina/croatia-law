@@ -17,7 +17,7 @@ Odluka o naknadi za razvoj komunalnih vodnih građevina društva IVKOM-VODE d.o.
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2022-1109` (tags `odluka-2022-1109/<day>`; `python tools/on.py <day> odluka-2022-1109`).
+Act id: `odluka-2022-1109` (tags `odluka-2022-1109/<day>`; `python registry/tools/on.py <day> odluka-2022-1109`).
 
 ## Decisions made by hand
 

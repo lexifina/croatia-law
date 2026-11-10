@@ -8,7 +8,7 @@ Odluka o uvođenju nužnih epidemioloških mjera za područje Splitsko-dalmatins
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2020-1809` (tags `odluka-2020-1809/<day>`; `python tools/on.py <day> odluka-2020-1809`).
+Act id: `odluka-2020-1809` (tags `odluka-2020-1809/<day>`; `python registry/tools/on.py <day> odluka-2020-1809`).
 
 ## Status
 

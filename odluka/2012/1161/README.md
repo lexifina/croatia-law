@@ -7,7 +7,7 @@ Odluka o poništenju dijela Javnog natječaja broj 02/12 za davanje koncesije za
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 
-Act id: `odluka-2012-1161` (tags `odluka-2012-1161/<day>`; `python tools/on.py <day> odluka-2012-1161`).
+Act id: `odluka-2012-1161` (tags `odluka-2012-1161/<day>`; `python registry/tools/on.py <day> odluka-2012-1161`).
 
 ## Decisions made by hand
 

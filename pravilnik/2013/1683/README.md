@@ -9,7 +9,7 @@ Pravilnik o izmjenama Pravilnika o tržišnim standardima za voće i povrće · 
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2013-1683` (tags `pravilnik-2013-1683/<day>`; `python tools/on.py <day> pravilnik-2013-1683`).
+Act id: `pravilnik-2013-1683` (tags `pravilnik-2013-1683/<day>`; `python registry/tools/on.py <day> pravilnik-2013-1683`).
 
 ## Decisions made by hand
 

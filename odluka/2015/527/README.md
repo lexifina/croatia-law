@@ -8,7 +8,7 @@ Odluka o postavljanju počasne konzulice Republike Hrvatske u Republici Angoli, 
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2015-527` (tags `odluka-2015-527/<day>`; `python tools/on.py <day> odluka-2015-527`).
+Act id: `odluka-2015-527` (tags `odluka-2015-527/<day>`; `python registry/tools/on.py <day> odluka-2015-527`).
 
 ## Decisions made by hand
 

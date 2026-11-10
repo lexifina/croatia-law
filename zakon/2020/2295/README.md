@@ -9,7 +9,7 @@ Zakon o izmjenama Zakona o konačnosti namire u platnim sustavima i sustavima za
 | čl. 3 | [clanak-003.md](clanak-003.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2020-2295` (tags `zakon-2020-2295/<day>`; `python tools/on.py <day> zakon-2020-2295`).
+Act id: `zakon-2020-2295` (tags `zakon-2020-2295/<day>`; `python registry/tools/on.py <day> zakon-2020-2295`).
 
 ## Decisions made by hand
 

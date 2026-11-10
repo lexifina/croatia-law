@@ -36,7 +36,7 @@ Pravilnik o uvjetima i načinu ostvarivanja prava studenata u redovitom statusu 
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2023-1116` (tags `pravilnik-2023-1116/<day>`; `python tools/on.py <day> pravilnik-2023-1116`).
+Act id: `pravilnik-2023-1116` (tags `pravilnik-2023-1116/<day>`; `python registry/tools/on.py <day> pravilnik-2023-1116`).
 
 ## Status
 

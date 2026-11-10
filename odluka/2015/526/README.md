@@ -8,7 +8,7 @@ Odluka o osnivanju Konzulata Republike Hrvatske u Republici Angoli, sa sjedište
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2015-526` (tags `odluka-2015-526/<day>`; `python tools/on.py <day> odluka-2015-526`).
+Act id: `odluka-2015-526` (tags `odluka-2015-526/<day>`; `python registry/tools/on.py <day> odluka-2015-526`).
 
 ## Decisions made by hand
 

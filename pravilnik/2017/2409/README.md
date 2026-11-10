@@ -17,7 +17,7 @@ Pravilnik o obliku i sadržaju izjave o upućivanju radnika · 1 versions, from 
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2017-2409` (tags `pravilnik-2017-2409/<day>`; `python tools/on.py <day> pravilnik-2017-2409`).
+Act id: `pravilnik-2017-2409` (tags `pravilnik-2017-2409/<day>`; `python registry/tools/on.py <day> pravilnik-2017-2409`).
 
 ## Status
 

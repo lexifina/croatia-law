@@ -8,7 +8,7 @@ Odluka o provedbi Uredbe (EU) 2024/1183 o uspostavi europskog okvira za digitaln
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2025-1725` (tags `odluka-2025-1725/<day>`; `python tools/on.py <day> odluka-2025-1725`).
+Act id: `odluka-2025-1725` (tags `odluka-2025-1725/<day>`; `python registry/tools/on.py <day> odluka-2025-1725`).
 
 ## Decisions made by hand
 

@@ -18,7 +18,7 @@ Zakon o izmjenama i dopunama Zakona o zaštiti prijavitelja nepravilnosti · 1 v
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 
-Act id: `zakon-2025-2019` (tags `zakon-2025-2019/<day>`; `python tools/on.py <day> zakon-2025-2019`).
+Act id: `zakon-2025-2019` (tags `zakon-2025-2019/<day>`; `python registry/tools/on.py <day> zakon-2025-2019`).
 
 ## Decisions made by hand
 

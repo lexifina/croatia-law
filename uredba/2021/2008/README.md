@@ -9,7 +9,7 @@ Uredba o visini minimalne plaće za 2022. godinu · 1 versions, from 2022-01-01 
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2021-2008` (tags `uredba-2021-2008/<day>`; `python tools/on.py <day> uredba-2021-2008`).
+Act id: `uredba-2021-2008` (tags `uredba-2021-2008/<day>`; `python registry/tools/on.py <day> uredba-2021-2008`).
 
 ## Decisions made by hand
 

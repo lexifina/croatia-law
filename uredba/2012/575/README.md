@@ -9,7 +9,7 @@ Uredba o prestanku važenja Uredbe o osnivanju Ureda za socijalno partnerstvo u 
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2012-575` (tags `uredba-2012-575/<day>`; `python tools/on.py <day> uredba-2012-575`).
+Act id: `uredba-2012-575` (tags `uredba-2012-575/<day>`; `python registry/tools/on.py <day> uredba-2012-575`).
 
 ## Decisions made by hand
 

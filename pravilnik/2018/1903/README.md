@@ -11,7 +11,7 @@ Pravilnik o izmjenama i dopunama Pravilnika o ortopedskim i drugim pomagalima ·
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2018-1903` (tags `pravilnik-2018-1903/<day>`; `python tools/on.py <day> pravilnik-2018-1903`).
+Act id: `pravilnik-2018-1903` (tags `pravilnik-2018-1903/<day>`; `python registry/tools/on.py <day> pravilnik-2018-1903`).
 
 ## Status
 

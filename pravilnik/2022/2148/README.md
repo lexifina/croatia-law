@@ -16,7 +16,7 @@ Pravilnik o načinu raspolaganja sredstvima državnog proračuna i mjerilima suf
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2022-2148` (tags `pravilnik-2022-2148/<day>`; `python tools/on.py <day> pravilnik-2022-2148`).
+Act id: `pravilnik-2022-2148` (tags `pravilnik-2022-2148/<day>`; `python registry/tools/on.py <day> pravilnik-2022-2148`).
 
 ## Status
 

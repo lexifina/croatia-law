@@ -19,7 +19,7 @@ Zakon o izmjenama i dopunama Zakona o deviznom poslovanju · 1 versions, from 20
 | čl. 13 | [clanak-013.md](clanak-013.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2021-1056` (tags `zakon-2021-1056/<day>`; `python tools/on.py <day> zakon-2021-1056`).
+Act id: `zakon-2021-1056` (tags `zakon-2021-1056/<day>`; `python registry/tools/on.py <day> zakon-2021-1056`).
 
 ## Decisions made by hand
 

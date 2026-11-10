@@ -21,7 +21,7 @@ Zakon o izmjenama i dopunama Zakona o djelatnosti socijalnog rada · 1 versions,
 | čl. 15 | [clanak-015.md](clanak-015.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2022-186` (tags `zakon-2022-186/<day>`; `python tools/on.py <day> zakon-2022-186`).
+Act id: `zakon-2022-186` (tags `zakon-2022-186/<day>`; `python registry/tools/on.py <day> zakon-2022-186`).
 
 ## Decisions made by hand
 

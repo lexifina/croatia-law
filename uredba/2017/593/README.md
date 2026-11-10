@@ -33,7 +33,7 @@ Uredba o sastavu i strukturi postrojbi civilne zaštite · 1 versions, from 2017
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2017-593` (tags `uredba-2017-593/<day>`; `python tools/on.py <day> uredba-2017-593`).
+Act id: `uredba-2017-593` (tags `uredba-2017-593/<day>`; `python registry/tools/on.py <day> uredba-2017-593`).
 
 ## Decisions made by hand
 

@@ -8,7 +8,7 @@ Odluka o koordinaciji aktivnosti unutar okvira za gospodarsko upravljanje Europs
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2024-2220` (tags `odluka-2024-2220/<day>`; `python tools/on.py <day> odluka-2024-2220`).
+Act id: `odluka-2024-2220` (tags `odluka-2024-2220/<day>`; `python registry/tools/on.py <day> odluka-2024-2220`).
 
 ## Status
 

@@ -8,7 +8,7 @@ Odluka o katastarskoj izmjeri na području Općine Kali za katastarsku općinu K
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2017-1233` (tags `odluka-2017-1233/<day>`; `python tools/on.py <day> odluka-2017-1233`).
+Act id: `odluka-2017-1233` (tags `odluka-2017-1233/<day>`; `python registry/tools/on.py <day> odluka-2017-1233`).
 
 ## Decisions made by hand
 

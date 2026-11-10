@@ -13,7 +13,7 @@ Pravilnik o postupku i načinu osnivanja Majstorske škole · 2 versions, from 2
 | Naslov | [naslov.md](naslov.md) | 1 | 2027-01-01 |
 | Uvod | [uvod.md](uvod.md) | 1 | 2027-01-01 |
 
-Act id: `pravilnik-2023-87` (tags `pravilnik-2023-87/<day>`; `python tools/on.py <day> pravilnik-2023-87`).
+Act id: `pravilnik-2023-87` (tags `pravilnik-2023-87/<day>`; `python registry/tools/on.py <day> pravilnik-2023-87`).
 
 ## Decisions made by hand
 

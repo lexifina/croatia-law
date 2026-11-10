@@ -15,7 +15,7 @@ Zakon o dopunama Zakona o pravosudnoj suradnji u kaznenim stvarima s državama �
 | čl. 9 | [clanak-009.md](clanak-009.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2020-2727` (tags `zakon-2020-2727/<day>`; `python tools/on.py <day> zakon-2020-2727`).
+Act id: `zakon-2020-2727` (tags `zakon-2020-2727/<day>`; `python registry/tools/on.py <day> zakon-2020-2727`).
 
 ## Decisions made by hand
 

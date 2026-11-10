@@ -18,7 +18,7 @@ Pravilnik o izračunu prosječnog dnevnog neto uvoza, odnosno unosa, prosječne 
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2014-2481` (tags `pravilnik-2014-2481/<day>`; `python tools/on.py <day> pravilnik-2014-2481`).
+Act id: `pravilnik-2014-2481` (tags `pravilnik-2014-2481/<day>`; `python registry/tools/on.py <day> pravilnik-2014-2481`).
 
 ## Decisions made by hand
 

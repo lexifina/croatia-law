@@ -18,7 +18,7 @@ Odluka o izmjenama i dopunama Odluke o općinskim porezima Općine Štitar · 1 
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2023-1975` (tags `odluka-2023-1975/<day>`; `python tools/on.py <day> odluka-2023-1975`).
+Act id: `odluka-2023-1975` (tags `odluka-2023-1975/<day>`; `python registry/tools/on.py <day> odluka-2023-1975`).
 
 ## Decisions made by hand
 

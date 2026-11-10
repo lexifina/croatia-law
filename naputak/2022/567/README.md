@@ -22,7 +22,7 @@ Naputak o Jedinstvenom registru poduzetničke infrastrukture · 1 versions, from
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `naputak-2022-567` (tags `naputak-2022-567/<day>`; `python tools/on.py <day> naputak-2022-567`).
+Act id: `naputak-2022-567` (tags `naputak-2022-567/<day>`; `python registry/tools/on.py <day> naputak-2022-567`).
 
 ## Decisions made by hand
 

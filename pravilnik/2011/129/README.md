@@ -8,7 +8,7 @@ Pravilnik o izmjenama i dopunama Pravilnika o obliku i načinu vođenja odobrenj
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2011-129` (tags `pravilnik-2011-129/<day>`; `python tools/on.py <day> pravilnik-2011-129`).
+Act id: `pravilnik-2011-129` (tags `pravilnik-2011-129/<day>`; `python registry/tools/on.py <day> pravilnik-2011-129`).
 
 ## Decisions made by hand
 

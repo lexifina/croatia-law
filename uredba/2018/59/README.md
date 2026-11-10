@@ -9,7 +9,7 @@ Uredba o izmjeni Uredbe o radnim mjestima ovlaštenih carinskih službenika koji
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2018-59` (tags `uredba-2018-59/<day>`; `python tools/on.py <day> uredba-2018-59`).
+Act id: `uredba-2018-59` (tags `uredba-2018-59/<day>`; `python registry/tools/on.py <day> uredba-2018-59`).
 
 ## Decisions made by hand
 

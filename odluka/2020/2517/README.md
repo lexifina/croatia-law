@@ -17,7 +17,7 @@ Odluka o naknadi za razvoj društva Vodovod i odvodnja d.o.o. Benkovac · 1 vers
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2020-2517` (tags `odluka-2020-2517/<day>`; `python tools/on.py <day> odluka-2020-2517`).
+Act id: `odluka-2020-2517` (tags `odluka-2020-2517/<day>`; `python registry/tools/on.py <day> odluka-2020-2517`).
 
 ## Decisions made by hand
 

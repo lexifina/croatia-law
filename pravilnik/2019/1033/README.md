@@ -5,7 +5,7 @@ Pravilnik o načinu korištenja vlastitih prihoda ostvarenih od obavljanja osnov
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `pravilnik-2019-1033` (tags `pravilnik-2019-1033/<day>`; `python tools/on.py <day> pravilnik-2019-1033`).
+Act id: `pravilnik-2019-1033` (tags `pravilnik-2019-1033/<day>`; `python registry/tools/on.py <day> pravilnik-2019-1033`).
 
 ## Decisions made by hand
 

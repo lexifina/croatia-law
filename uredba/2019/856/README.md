@@ -9,7 +9,7 @@ Uredba o izmjeni Uredbe o visini vodnoga doprinosa · 1 versions, from 2019-04-2
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2019-856` (tags `uredba-2019-856/<day>`; `python tools/on.py <day> uredba-2019-856`).
+Act id: `uredba-2019-856` (tags `uredba-2019-856/<day>`; `python registry/tools/on.py <day> uredba-2019-856`).
 
 ## Decisions made by hand
 

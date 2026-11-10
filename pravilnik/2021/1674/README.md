@@ -9,7 +9,7 @@ Pravilnik o izmjeni Pravilnika o nacionalnom sustavu kvalitete poljoprivrednih i
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2021-1674` (tags `pravilnik-2021-1674/<day>`; `python tools/on.py <day> pravilnik-2021-1674`).
+Act id: `pravilnik-2021-1674` (tags `pravilnik-2021-1674/<day>`; `python registry/tools/on.py <day> pravilnik-2021-1674`).
 
 ## Decisions made by hand
 

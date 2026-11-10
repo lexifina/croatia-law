@@ -8,7 +8,7 @@ Odluka o obustavi postupka sanacije Opće bolnice Zadar · 1 versions, from 2016
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2016-915` (tags `odluka-2016-915/<day>`; `python tools/on.py <day> odluka-2016-915`).
+Act id: `odluka-2016-915` (tags `odluka-2016-915/<day>`; `python registry/tools/on.py <day> odluka-2016-915`).
 
 ## Decisions made by hand
 

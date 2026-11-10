@@ -19,7 +19,7 @@ Pravilnik o zaštiti na radu na privremenim gradilištima · 1 versions, from 20
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2018-917` (tags `pravilnik-2018-917/<day>`; `python tools/on.py <day> pravilnik-2018-917`).
+Act id: `pravilnik-2018-917` (tags `pravilnik-2018-917/<day>`; `python registry/tools/on.py <day> pravilnik-2018-917`).
 
 ## Status
 

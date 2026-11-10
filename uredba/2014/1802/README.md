@@ -10,7 +10,7 @@ Uredba o izmjeni Zakona o pružanju usluga u turizmu · 1 versions, from 2014-07
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2014-1802` (tags `uredba-2014-1802/<day>`; `python tools/on.py <day> uredba-2014-1802`).
+Act id: `uredba-2014-1802` (tags `uredba-2014-1802/<day>`; `python registry/tools/on.py <day> uredba-2014-1802`).
 
 ## Decisions made by hand
 

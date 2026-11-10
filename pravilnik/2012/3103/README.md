@@ -10,7 +10,7 @@ Pravilnik o dopuni Pravilnika o utvrđivanju staža osiguranja na temelju plaće
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2012-3103` (tags `pravilnik-2012-3103/<day>`; `python tools/on.py <day> pravilnik-2012-3103`).
+Act id: `pravilnik-2012-3103` (tags `pravilnik-2012-3103/<day>`; `python registry/tools/on.py <day> pravilnik-2012-3103`).
 
 ## Decisions made by hand
 

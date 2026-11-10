@@ -8,7 +8,7 @@ Odluka o pravilima za statutarnu certifikaciju pomorskih brodova, Dio 18. - SRED
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2012-3167` (tags `odluka-2012-3167/<day>`; `python tools/on.py <day> odluka-2012-3167`).
+Act id: `odluka-2012-3167` (tags `odluka-2012-3167/<day>`; `python registry/tools/on.py <day> odluka-2012-3167`).
 
 ## Status
 

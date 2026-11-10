@@ -16,7 +16,7 @@ Zakon o izmjenama i dopunama Zakona o osnivanju Agencije za ugljikovodike · 1 v
 | čl. 10 | [clanak-010.md](clanak-010.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2021-1561` (tags `zakon-2021-1561/<day>`; `python tools/on.py <day> zakon-2021-1561`).
+Act id: `zakon-2021-1561` (tags `zakon-2021-1561/<day>`; `python registry/tools/on.py <day> zakon-2021-1561`).
 
 ## Decisions made by hand
 

@@ -8,7 +8,7 @@ Zakon o dopuni Zakona o posredovanju pri zapošljavanju i pravima za vrijeme nez
 | čl. 2 | [clanak-002.md](clanak-002.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2012-2553` (tags `zakon-2012-2553/<day>`; `python tools/on.py <day> zakon-2012-2553`).
+Act id: `zakon-2012-2553` (tags `zakon-2012-2553/<day>`; `python registry/tools/on.py <day> zakon-2012-2553`).
 
 ## Decisions made by hand
 

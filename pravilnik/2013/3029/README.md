@@ -11,7 +11,7 @@ Pravilnik o izmjenama Pravilnika o parametrima sukladnosti i metodama analize vo
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2013-3029` (tags `pravilnik-2013-3029/<day>`; `python tools/on.py <day> pravilnik-2013-3029`).
+Act id: `pravilnik-2013-3029` (tags `pravilnik-2013-3029/<day>`; `python registry/tools/on.py <day> pravilnik-2013-3029`).
 
 ## Decisions made by hand
 

@@ -5,7 +5,7 @@ Pravilnik o provođenju javnog natječaja za prodaju poljoprivrednog zemljišta 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `pravilnik-2018-1800` (tags `pravilnik-2018-1800/<day>`; `python tools/on.py <day> pravilnik-2018-1800`).
+Act id: `pravilnik-2018-1800` (tags `pravilnik-2018-1800/<day>`; `python registry/tools/on.py <day> pravilnik-2018-1800`).
 
 ## Decisions made by hand
 

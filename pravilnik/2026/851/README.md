@@ -24,7 +24,7 @@ Pravilnik o stalnom stručnom usavršavanju ovlaštenih revizora · 1 versions, 
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2026-851` (tags `pravilnik-2026-851/<day>`; `python tools/on.py <day> pravilnik-2026-851`).
+Act id: `pravilnik-2026-851` (tags `pravilnik-2026-851/<day>`; `python registry/tools/on.py <day> pravilnik-2026-851`).
 
 ## Decisions made by hand
 

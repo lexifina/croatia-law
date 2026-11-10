@@ -9,7 +9,7 @@ Zakon o dopunama Zakona o biogorivima za prijevoz · 1 versions, from 2011-03-02
 | čl. 3 | [clanak-003.md](clanak-003.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2011-548` (tags `zakon-2011-548/<day>`; `python tools/on.py <day> zakon-2011-548`).
+Act id: `zakon-2011-548` (tags `zakon-2011-548/<day>`; `python registry/tools/on.py <day> zakon-2011-548`).
 
 ## Decisions made by hand
 

@@ -8,7 +8,7 @@ Odluka o oslobođenju od obveze plaćanja najamnine za korištenje stanova u vla
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2023-675` (tags `odluka-2023-675/<day>`; `python tools/on.py <day> odluka-2023-675`).
+Act id: `odluka-2023-675` (tags `odluka-2023-675/<day>`; `python registry/tools/on.py <day> odluka-2023-675`).
 
 ## Decisions made by hand
 

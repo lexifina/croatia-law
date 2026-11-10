@@ -9,7 +9,7 @@ Odluka o davanju suglasnosti na prijenos koncesije pomorskog dobra u svrhu gospo
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2013-2727` (tags `odluka-2013-2727/<day>`; `python tools/on.py <day> odluka-2013-2727`).
+Act id: `odluka-2013-2727` (tags `odluka-2013-2727/<day>`; `python registry/tools/on.py <day> odluka-2013-2727`).
 
 ## Status
 

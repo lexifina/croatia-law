@@ -13,7 +13,7 @@ Odluka o utvrđivanju Dodatne liste ortopedskih i drugih pomagala Hrvatskog zavo
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2020-850` (tags `odluka-2020-850/<day>`; `python tools/on.py <day> odluka-2020-850`).
+Act id: `odluka-2020-850` (tags `odluka-2020-850/<day>`; `python registry/tools/on.py <day> odluka-2020-850`).
 
 ## Status
 

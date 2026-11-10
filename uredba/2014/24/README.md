@@ -17,7 +17,7 @@ Uredba o određivanju zona i aglomeracija prema razinama onečišćenosti zraka 
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2014-24` (tags `uredba-2014-24/<day>`; `python tools/on.py <day> uredba-2014-24`).
+Act id: `uredba-2014-24` (tags `uredba-2014-24/<day>`; `python registry/tools/on.py <day> uredba-2014-24`).
 
 ## Decisions made by hand
 

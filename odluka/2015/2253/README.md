@@ -9,7 +9,7 @@ Odluka o izmjeni i dopuni Odluke o koncesiji pomorskog dobra u svrhu izgradnje i
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2015-2253` (tags `odluka-2015-2253/<day>`; `python tools/on.py <day> odluka-2015-2253`).
+Act id: `odluka-2015-2253` (tags `odluka-2015-2253/<day>`; `python registry/tools/on.py <day> odluka-2015-2253`).
 
 ## Decisions made by hand
 

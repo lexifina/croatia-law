@@ -27,7 +27,7 @@ Pravilnik o postupku i uvjetima ugošćavanja istraživača državljana trećih 
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2023-177` (tags `pravilnik-2023-177/<day>`; `python tools/on.py <day> pravilnik-2023-177`).
+Act id: `pravilnik-2023-177` (tags `pravilnik-2023-177/<day>`; `python registry/tools/on.py <day> pravilnik-2023-177`).
 
 ## Decisions made by hand
 

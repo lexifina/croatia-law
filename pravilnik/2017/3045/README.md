@@ -9,7 +9,7 @@ Pravilnik o izmjenama Pravilnika o obiteljskoj medijaciji · 1 versions, from 20
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2017-3045` (tags `pravilnik-2017-3045/<day>`; `python tools/on.py <day> pravilnik-2017-3045`).
+Act id: `pravilnik-2017-3045` (tags `pravilnik-2017-3045/<day>`; `python registry/tools/on.py <day> pravilnik-2017-3045`).
 
 ## Decisions made by hand
 

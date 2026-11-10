@@ -17,7 +17,7 @@ Pravilnik o kriterijima za izricanje pedagoških mjera · 1 versions, from 2015-
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2015-1818` (tags `pravilnik-2015-1818/<day>`; `python tools/on.py <day> pravilnik-2015-1818`).
+Act id: `pravilnik-2015-1818` (tags `pravilnik-2015-1818/<day>`; `python registry/tools/on.py <day> pravilnik-2015-1818`).
 
 ## Status
 

@@ -5,7 +5,7 @@ Uredba o visini trošarine na duhanske prerađevine i duhanske proizvode · 2 ve
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `uredba-2025-1291` (tags `uredba-2025-1291/<day>`; `python tools/on.py <day> uredba-2025-1291`).
+Act id: `uredba-2025-1291` (tags `uredba-2025-1291/<day>`; `python registry/tools/on.py <day> uredba-2025-1291`).
 
 ## Decisions made by hand
 

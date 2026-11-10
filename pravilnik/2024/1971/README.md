@@ -12,7 +12,7 @@ Pravilnik o načinu provođenja preventivne zdravstvene zaštite · 1 versions, 
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2024-1971` (tags `pravilnik-2024-1971/<day>`; `python tools/on.py <day> pravilnik-2024-1971`).
+Act id: `pravilnik-2024-1971` (tags `pravilnik-2024-1971/<day>`; `python registry/tools/on.py <day> pravilnik-2024-1971`).
 
 ## Decisions made by hand
 

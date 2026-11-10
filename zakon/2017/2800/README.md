@@ -40,7 +40,7 @@ Zakon o izmjenama i dopunama Zakona o lokalnoj i područnoj (regionalnoj) samoup
 | čl. 34 | [clanak-034.md](clanak-034.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2017-2800` (tags `zakon-2017-2800/<day>`; `python tools/on.py <day> zakon-2017-2800`).
+Act id: `zakon-2017-2800` (tags `zakon-2017-2800/<day>`; `python registry/tools/on.py <day> zakon-2017-2800`).
 
 ## Decisions made by hand
 

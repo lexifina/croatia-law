@@ -8,7 +8,7 @@ Odluka o nužnoj mjeri zabrane uplovljavanja putničkim brodovima na međunarodn
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2020-1197` (tags `odluka-2020-1197/<day>`; `python tools/on.py <day> odluka-2020-1197`).
+Act id: `odluka-2020-1197` (tags `odluka-2020-1197/<day>`; `python registry/tools/on.py <day> odluka-2020-1197`).
 
 ## Status
 

@@ -25,7 +25,7 @@ Pravilnik o postupku i ovlastima u ostvarivanju prava na zdravstvenu zaštitu i 
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2014-2896` (tags `pravilnik-2014-2896/<day>`; `python tools/on.py <day> pravilnik-2014-2896`).
+Act id: `pravilnik-2014-2896` (tags `pravilnik-2014-2896/<day>`; `python registry/tools/on.py <day> pravilnik-2014-2896`).
 
 ## Status
 

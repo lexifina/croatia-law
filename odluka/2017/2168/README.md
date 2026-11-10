@@ -8,7 +8,7 @@ Odluka o puštanju u optjecaj novčanice od 50 kuna s datumom izdanja 9. srpnja 
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2017-2168` (tags `odluka-2017-2168/<day>`; `python tools/on.py <day> odluka-2017-2168`).
+Act id: `odluka-2017-2168` (tags `odluka-2017-2168/<day>`; `python registry/tools/on.py <day> odluka-2017-2168`).
 
 ## Decisions made by hand
 

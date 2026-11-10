@@ -22,7 +22,7 @@ Pravilnik o uvjetima koje moraju ispunjavati uzgoji kućnih ljubimaca namijenjen
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2022-1121` (tags `pravilnik-2022-1121/<day>`; `python tools/on.py <day> pravilnik-2022-1121`).
+Act id: `pravilnik-2022-1121` (tags `pravilnik-2022-1121/<day>`; `python registry/tools/on.py <day> pravilnik-2022-1121`).
 
 ## Decisions made by hand
 

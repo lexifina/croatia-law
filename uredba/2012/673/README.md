@@ -58,7 +58,7 @@ Uredba o unutarnjem ustrojstvu Ministarstva branitelja · 1 versions, from 2012-
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2012-673` (tags `uredba-2012-673/<day>`; `python tools/on.py <day> uredba-2012-673`).
+Act id: `uredba-2012-673` (tags `uredba-2012-673/<day>`; `python registry/tools/on.py <day> uredba-2012-673`).
 
 ## Status
 

@@ -9,7 +9,7 @@ Pravilnik o prestanku va≈æenja Pravilnika o rokovima predaje financijskih izvje≈
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2022-269` (tags `pravilnik-2022-269/<day>`; `python tools/on.py <day> pravilnik-2022-269`).
+Act id: `pravilnik-2022-269` (tags `pravilnik-2022-269/<day>`; `python registry/tools/on.py <day> pravilnik-2022-269`).
 
 ## Decisions made by hand
 

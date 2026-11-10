@@ -8,7 +8,7 @@ Odluka o izmjeni Odluke o stambenog zbrinjavanju povratnika - bivših nositelja 
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2011-2799` (tags `odluka-2011-2799/<day>`; `python tools/on.py <day> odluka-2011-2799`).
+Act id: `odluka-2011-2799` (tags `odluka-2011-2799/<day>`; `python registry/tools/on.py <day> odluka-2011-2799`).
 
 ## Decisions made by hand
 

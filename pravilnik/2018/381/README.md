@@ -5,7 +5,7 @@ Pravilnik o načinu ostvarivanja porezne olakšice za obavljanje djelatnosti na 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `pravilnik-2018-381` (tags `pravilnik-2018-381/<day>`; `python tools/on.py <day> pravilnik-2018-381`).
+Act id: `pravilnik-2018-381` (tags `pravilnik-2018-381/<day>`; `python registry/tools/on.py <day> pravilnik-2018-381`).
 
 ## Decisions made by hand
 

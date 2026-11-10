@@ -11,7 +11,7 @@ Zakon o izmjenama Zakona o zaštiti na radu · 1 versions, from 2012-12-28 (late
 | čl. 5 | [clanak-005.md](clanak-005.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2012-3037` (tags `zakon-2012-3037/<day>`; `python tools/on.py <day> zakon-2012-3037`).
+Act id: `zakon-2012-3037` (tags `zakon-2012-3037/<day>`; `python registry/tools/on.py <day> zakon-2012-3037`).
 
 ## Status
 

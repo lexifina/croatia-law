@@ -42,7 +42,7 @@ Pravilnik o uvjetima distribucije i prodaje pesticida · 1 versions, from 2022-0
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2021-2390` (tags `pravilnik-2021-2390/<day>`; `python tools/on.py <day> pravilnik-2021-2390`).
+Act id: `pravilnik-2021-2390` (tags `pravilnik-2021-2390/<day>`; `python registry/tools/on.py <day> pravilnik-2021-2390`).
 
 ## Status
 

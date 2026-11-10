@@ -9,7 +9,7 @@ Odluka o dopuni Odluke o posebnim standardima i mjerilima njihove primjene u pro
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2014-444` (tags `odluka-2014-444/<day>`; `python tools/on.py <day> odluka-2014-444`).
+Act id: `odluka-2014-444` (tags `odluka-2014-444/<day>`; `python registry/tools/on.py <day> odluka-2014-444`).
 
 ## Decisions made by hand
 

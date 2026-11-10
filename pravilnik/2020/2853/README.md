@@ -20,7 +20,7 @@ Pravilnik o ustrojstvu i načinu vođenja zbirki s automatskom obradom podataka 
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2020-2853` (tags `pravilnik-2020-2853/<day>`; `python tools/on.py <day> pravilnik-2020-2853`).
+Act id: `pravilnik-2020-2853` (tags `pravilnik-2020-2853/<day>`; `python registry/tools/on.py <day> pravilnik-2020-2853`).
 
 ## Decisions made by hand
 

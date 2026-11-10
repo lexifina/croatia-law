@@ -10,7 +10,7 @@ Odluka o izmjeni i dopuni Odluke o nužnim uvjetima za ocjenu nastavne i znanstv
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2021-2082` (tags `odluka-2021-2082/<day>`; `python tools/on.py <day> odluka-2021-2082`).
+Act id: `odluka-2021-2082` (tags `odluka-2021-2082/<day>`; `python registry/tools/on.py <day> odluka-2021-2082`).
 
 ## Decisions made by hand
 

@@ -5,7 +5,7 @@ Pravilnik o cijeni osobnih iskaznica · 2 versions, from 2015-06-07 (latest in f
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `pravilnik-2015-1212` (tags `pravilnik-2015-1212/<day>`; `python tools/on.py <day> pravilnik-2015-1212`).
+Act id: `pravilnik-2015-1212` (tags `pravilnik-2015-1212/<day>`; `python registry/tools/on.py <day> pravilnik-2015-1212`).
 
 ## Decisions made by hand
 

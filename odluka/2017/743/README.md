@@ -25,7 +25,7 @@ Odluka o lokalnim porezima Grada Karlovca · 1 versions, from 2017-07-01 (latest
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2017-743` (tags `odluka-2017-743/<day>`; `python tools/on.py <day> odluka-2017-743`).
+Act id: `odluka-2017-743` (tags `odluka-2017-743/<day>`; `python registry/tools/on.py <day> odluka-2017-743`).
 
 ## Status
 

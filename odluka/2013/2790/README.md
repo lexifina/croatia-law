@@ -9,7 +9,7 @@ Odluka o određivanju demarkiranih područja u kojima se provode mjere iskorjenj
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2013-2790` (tags `odluka-2013-2790/<day>`; `python tools/on.py <day> odluka-2013-2790`).
+Act id: `odluka-2013-2790` (tags `odluka-2013-2790/<day>`; `python registry/tools/on.py <day> odluka-2013-2790`).
 
 ## Decisions made by hand
 

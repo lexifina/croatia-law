@@ -12,7 +12,7 @@ Pravilnik o izmjenama i dopunama Pravilnika o postupku u slučaju rođenja ili s
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2025-654` (tags `pravilnik-2025-654/<day>`; `python tools/on.py <day> pravilnik-2025-654`).
+Act id: `pravilnik-2025-654` (tags `pravilnik-2025-654/<day>`; `python registry/tools/on.py <day> pravilnik-2025-654`).
 
 ## Decisions made by hand
 

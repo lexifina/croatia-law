@@ -9,7 +9,7 @@ Pravilnik o izmjenama i dopunama Pravilnika o obavljanju poslova banke skrbnika 
 | čl. 3 | [clanak-003.md](clanak-003.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `pravilnik-2013-1469` (tags `pravilnik-2013-1469/<day>`; `python tools/on.py <day> pravilnik-2013-1469`).
+Act id: `pravilnik-2013-1469` (tags `pravilnik-2013-1469/<day>`; `python registry/tools/on.py <day> pravilnik-2013-1469`).
 
 ## Decisions made by hand
 

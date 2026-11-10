@@ -12,7 +12,7 @@ Naputak o novčanim kaznama koje izriču komunalni redari u provedbi Zakona o gr
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `naputak-2014-2345` (tags `naputak-2014-2345/<day>`; `python tools/on.py <day> naputak-2014-2345`).
+Act id: `naputak-2014-2345` (tags `naputak-2014-2345/<day>`; `python registry/tools/on.py <day> naputak-2014-2345`).
 
 ## Status
 

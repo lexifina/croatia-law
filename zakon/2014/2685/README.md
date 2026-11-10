@@ -20,7 +20,7 @@ Zakon o izmjenama i dopunama Zakona o porezu na promet nekretnina · 1 versions,
 | čl. 14 | [clanak-014.md](clanak-014.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2014-2685` (tags `zakon-2014-2685/<day>`; `python tools/on.py <day> zakon-2014-2685`).
+Act id: `zakon-2014-2685` (tags `zakon-2014-2685/<day>`; `python registry/tools/on.py <day> zakon-2014-2685`).
 
 ## Decisions made by hand
 

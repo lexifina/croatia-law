@@ -7,7 +7,7 @@ Odluka o raspisivanju izbora za članove Državnoodvjetničkog vijeća iz reda z
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 
-Act id: `odluka-2018-1967` (tags `odluka-2018-1967/<day>`; `python tools/on.py <day> odluka-2018-1967`).
+Act id: `odluka-2018-1967` (tags `odluka-2018-1967/<day>`; `python registry/tools/on.py <day> odluka-2018-1967`).
 
 ## Status
 

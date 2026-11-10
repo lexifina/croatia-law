@@ -8,7 +8,7 @@ Odluka o utvrđivanju uvjeta, načina i rokova redovitog poslovanja sustava STAR
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2018-2016` (tags `odluka-2018-2016/<day>`; `python tools/on.py <day> odluka-2018-2016`).
+Act id: `odluka-2018-2016` (tags `odluka-2018-2016/<day>`; `python registry/tools/on.py <day> odluka-2018-2016`).
 
 ## Decisions made by hand
 

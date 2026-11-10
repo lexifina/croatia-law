@@ -9,7 +9,7 @@ Pravilnik o izmjenama i dopunama Pravilnika o uvjetima i načinu polaganja, prim
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2014-750` (tags `pravilnik-2014-750/<day>`; `python tools/on.py <day> pravilnik-2014-750`).
+Act id: `pravilnik-2014-750` (tags `pravilnik-2014-750/<day>`; `python registry/tools/on.py <day> pravilnik-2014-750`).
 
 ## Decisions made by hand
 

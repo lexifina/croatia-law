@@ -8,7 +8,7 @@ Odluka o sufinanciranju međumjesnog javnog prijevoza za redovite učenike sredn
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2013-84` (tags `odluka-2013-84/<day>`; `python tools/on.py <day> odluka-2013-84`).
+Act id: `odluka-2013-84` (tags `odluka-2013-84/<day>`; `python registry/tools/on.py <day> odluka-2013-84`).
 
 ## Decisions made by hand
 

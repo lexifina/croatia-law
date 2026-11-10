@@ -31,7 +31,7 @@ Pravilnik o medijaciji · 1 versions, from 2024-05-14 (latest in force: 2024-05-
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2024-929` (tags `pravilnik-2024-929/<day>`; `python tools/on.py <day> pravilnik-2024-929`).
+Act id: `pravilnik-2024-929` (tags `pravilnik-2024-929/<day>`; `python registry/tools/on.py <day> pravilnik-2024-929`).
 
 ## Decisions made by hand
 

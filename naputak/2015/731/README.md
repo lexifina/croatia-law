@@ -5,7 +5,7 @@ Naputak o načinu provođenja mjera kontrole zdravlja životinja propisanih Nare
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `naputak-2015-731` (tags `naputak-2015-731/<day>`; `python tools/on.py <day> naputak-2015-731`).
+Act id: `naputak-2015-731` (tags `naputak-2015-731/<day>`; `python registry/tools/on.py <day> naputak-2015-731`).
 
 ## Decisions made by hand
 

@@ -12,7 +12,7 @@ Zakon o izmjenama i dopunama Zakona o državnom odvjetništvu · 1 versions, fro
 | čl. 6 | [clanak-006.md](clanak-006.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2011-1258` (tags `zakon-2011-1258/<day>`; `python tools/on.py <day> zakon-2011-1258`).
+Act id: `zakon-2011-1258` (tags `zakon-2011-1258/<day>`; `python registry/tools/on.py <day> zakon-2011-1258`).
 
 ## Decisions made by hand
 

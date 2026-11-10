@@ -5,7 +5,7 @@ Uredba o unutarnjem ustrojstvu Središnjeg državnog ureda za demografiju i mlad
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `uredba-2020-1828` (tags `uredba-2020-1828/<day>`; `python tools/on.py <day> uredba-2020-1828`).
+Act id: `uredba-2020-1828` (tags `uredba-2020-1828/<day>`; `python registry/tools/on.py <day> uredba-2020-1828`).
 
 ## Decisions made by hand
 

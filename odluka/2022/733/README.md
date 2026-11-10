@@ -8,7 +8,7 @@ Odluka o izmjeni Odluke o koordinaciji aktivnosti unutar okvira za gospodarsko u
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2022-733` (tags `odluka-2022-733/<day>`; `python tools/on.py <day> odluka-2022-733`).
+Act id: `odluka-2022-733` (tags `odluka-2022-733/<day>`; `python registry/tools/on.py <day> odluka-2022-733`).
 
 ## Decisions made by hand
 

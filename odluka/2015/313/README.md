@@ -11,7 +11,7 @@ Odluka o prirezu porezu na dohodak Općine Milna · 1 versions, from 2015-02-19 
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2015-313` (tags `odluka-2015-313/<day>`; `python tools/on.py <day> odluka-2015-313`).
+Act id: `odluka-2015-313` (tags `odluka-2015-313/<day>`; `python registry/tools/on.py <day> odluka-2015-313`).
 
 ## Decisions made by hand
 

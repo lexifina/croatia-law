@@ -14,7 +14,7 @@ Pravilnik o stručnoj službi za provedbu lovnogospodarskih planova · 1 version
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2019-2174` (tags `pravilnik-2019-2174/<day>`; `python tools/on.py <day> pravilnik-2019-2174`).
+Act id: `pravilnik-2019-2174` (tags `pravilnik-2019-2174/<day>`; `python registry/tools/on.py <day> pravilnik-2019-2174`).
 
 ## Decisions made by hand
 

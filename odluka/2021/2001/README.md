@@ -33,7 +33,7 @@ Odluka o izmjenama i dopunama Odluke o prikupljanju podataka o uvjetima kreditir
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2021-2001` (tags `odluka-2021-2001/<day>`; `python tools/on.py <day> odluka-2021-2001`).
+Act id: `odluka-2021-2001` (tags `odluka-2021-2001/<day>`; `python registry/tools/on.py <day> odluka-2021-2001`).
 
 ## Status
 

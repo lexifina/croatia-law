@@ -14,7 +14,7 @@ Pravilnik o izmjenama Pravilnika o vrstama i obilježjima imovine za pokriće te
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2013-2374` (tags `pravilnik-2013-2374/<day>`; `python tools/on.py <day> pravilnik-2013-2374`).
+Act id: `pravilnik-2013-2374` (tags `pravilnik-2013-2374/<day>`; `python registry/tools/on.py <day> pravilnik-2013-2374`).
 
 ## Decisions made by hand
 

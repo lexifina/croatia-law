@@ -17,7 +17,7 @@ Odluka o načinu provedbe supervizije kreditnih institucija · 1 versions, from 
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2026-693` (tags `odluka-2026-693/<day>`; `python tools/on.py <day> odluka-2026-693`).
+Act id: `odluka-2026-693` (tags `odluka-2026-693/<day>`; `python registry/tools/on.py <day> odluka-2026-693`).
 
 ## Decisions made by hand
 

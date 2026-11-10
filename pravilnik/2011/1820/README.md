@@ -15,7 +15,7 @@ Pravilnik o posebnim uvjetima za uvoz određene hrane i hrane za životinje podr
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2011-1820` (tags `pravilnik-2011-1820/<day>`; `python tools/on.py <day> pravilnik-2011-1820`).
+Act id: `pravilnik-2011-1820` (tags `pravilnik-2011-1820/<day>`; `python registry/tools/on.py <day> pravilnik-2011-1820`).
 
 ## Status
 

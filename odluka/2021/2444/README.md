@@ -8,7 +8,7 @@ Odluka o donošenju Programa energetske obnove višestambenih zgrada za razdoblj
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2021-2444` (tags `odluka-2021-2444/<day>`; `python tools/on.py <day> odluka-2021-2444`).
+Act id: `odluka-2021-2444` (tags `odluka-2021-2444/<day>`; `python registry/tools/on.py <day> odluka-2021-2444`).
 
 ## Decisions made by hand
 

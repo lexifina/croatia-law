@@ -17,7 +17,7 @@ Uredba o izmjenama i dopunama Uredbe o mehanizmima financiranja u okviru sustava
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2024-2379` (tags `uredba-2024-2379/<day>`; `python tools/on.py <day> uredba-2024-2379`).
+Act id: `uredba-2024-2379` (tags `uredba-2024-2379/<day>`; `python registry/tools/on.py <day> uredba-2024-2379`).
 
 ## Decisions made by hand
 

@@ -10,7 +10,7 @@ Odluka o faktoru osnovne mirovine od 1. siječnja 2016. · 1 versions, from 2016
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2016-767` (tags `odluka-2016-767/<day>`; `python tools/on.py <day> odluka-2016-767`).
+Act id: `odluka-2016-767` (tags `odluka-2016-767/<day>`; `python registry/tools/on.py <day> odluka-2016-767`).
 
 ## Decisions made by hand
 

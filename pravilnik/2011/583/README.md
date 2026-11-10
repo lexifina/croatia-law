@@ -20,7 +20,7 @@ Pravilnik o iskaznici i znački sanitarnog inspektora · 1 versions, from 2011-0
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2011-583` (tags `pravilnik-2011-583/<day>`; `python tools/on.py <day> pravilnik-2011-583`).
+Act id: `pravilnik-2011-583` (tags `pravilnik-2011-583/<day>`; `python registry/tools/on.py <day> pravilnik-2011-583`).
 
 ## Status
 

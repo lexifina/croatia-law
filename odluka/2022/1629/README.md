@@ -5,7 +5,7 @@ Odluka o primjerenom upravljanju informacijskim sustavom · 2 versions, from 202
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `odluka-2022-1629` (tags `odluka-2022-1629/<day>`; `python tools/on.py <day> odluka-2022-1629`).
+Act id: `odluka-2022-1629` (tags `odluka-2022-1629/<day>`; `python registry/tools/on.py <day> odluka-2022-1629`).
 
 ## Decisions made by hand
 

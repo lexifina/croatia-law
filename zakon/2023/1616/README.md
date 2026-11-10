@@ -16,7 +16,7 @@ Zakon o izmjenama i dopunama Zakona o administrativnoj suradnji u području pore
 | čl. 10 | [clanak-010.md](clanak-010.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2023-1616` (tags `zakon-2023-1616/<day>`; `python tools/on.py <day> zakon-2023-1616`).
+Act id: `zakon-2023-1616` (tags `zakon-2023-1616/<day>`; `python registry/tools/on.py <day> zakon-2023-1616`).
 
 ## Decisions made by hand
 

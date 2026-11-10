@@ -8,7 +8,7 @@ Odluka o koeficijentu korekcije za minimalni pristupni paket usluga u 2015. godi
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2014-2834` (tags `odluka-2014-2834/<day>`; `python tools/on.py <day> odluka-2014-2834`).
+Act id: `odluka-2014-2834` (tags `odluka-2014-2834/<day>`; `python registry/tools/on.py <day> odluka-2014-2834`).
 
 ## Decisions made by hand
 

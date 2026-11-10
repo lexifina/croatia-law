@@ -42,7 +42,7 @@ Zakon o izmjenama i dopunama Zakona o obrani · 1 versions, from 2025-11-13 (lat
 | čl. 36 | [clanak-036.md](clanak-036.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2025-2011` (tags `zakon-2025-2011/<day>`; `python tools/on.py <day> zakon-2025-2011`).
+Act id: `zakon-2025-2011` (tags `zakon-2025-2011/<day>`; `python registry/tools/on.py <day> zakon-2025-2011`).
 
 ## Decisions made by hand
 

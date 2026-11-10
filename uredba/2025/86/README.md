@@ -77,7 +77,7 @@ Uredba o unutarnjem ustrojstvu Ministarstva turizma i sporta · 1 versions, from
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2025-86` (tags `uredba-2025-86/<day>`; `python tools/on.py <day> uredba-2025-86`).
+Act id: `uredba-2025-86` (tags `uredba-2025-86/<day>`; `python registry/tools/on.py <day> uredba-2025-86`).
 
 ## Status
 

@@ -17,7 +17,7 @@ Uredba o tijelima u sustavima upravljanja i kontrole za provedbu programa kojima
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2014-2280` (tags `uredba-2014-2280/<day>`; `python tools/on.py <day> uredba-2014-2280`).
+Act id: `uredba-2014-2280` (tags `uredba-2014-2280/<day>`; `python registry/tools/on.py <day> uredba-2014-2280`).
 
 ## Status
 

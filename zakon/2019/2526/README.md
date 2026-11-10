@@ -96,7 +96,7 @@ Zakon o izmjenama i dopunama Zakona o otvorenim investicijskim fondovima s javno
 | čl. 90 | [clanak-090.md](clanak-090.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2019-2526` (tags `zakon-2019-2526/<day>`; `python tools/on.py <day> zakon-2019-2526`).
+Act id: `zakon-2019-2526` (tags `zakon-2019-2526/<day>`; `python registry/tools/on.py <day> zakon-2019-2526`).
 
 ## Decisions made by hand
 

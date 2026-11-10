@@ -13,7 +13,7 @@ Odluka o izmjenama Odluke o gradskim porezima Grada Ozlja · 1 versions, from 20
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2017-2937` (tags `odluka-2017-2937/<day>`; `python tools/on.py <day> odluka-2017-2937`).
+Act id: `odluka-2017-2937` (tags `odluka-2017-2937/<day>`; `python registry/tools/on.py <day> odluka-2017-2937`).
 
 ## Decisions made by hand
 

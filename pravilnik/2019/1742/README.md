@@ -13,7 +13,7 @@ Pravilnik o pokazateljima rizika za procjenu rizika od uporabe pesticida · 1 ve
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2019-1742` (tags `pravilnik-2019-1742/<day>`; `python tools/on.py <day> pravilnik-2019-1742`).
+Act id: `pravilnik-2019-1742` (tags `pravilnik-2019-1742/<day>`; `python registry/tools/on.py <day> pravilnik-2019-1742`).
 
 ## Decisions made by hand
 

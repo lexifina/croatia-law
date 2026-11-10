@@ -34,7 +34,7 @@ Uredba o odorama državnih službenika odjela osiguranja u kaznionicama, zatvori
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2011-1871` (tags `uredba-2011-1871/<day>`; `python tools/on.py <day> uredba-2011-1871`).
+Act id: `uredba-2011-1871` (tags `uredba-2011-1871/<day>`; `python registry/tools/on.py <day> uredba-2011-1871`).
 
 ## Status
 

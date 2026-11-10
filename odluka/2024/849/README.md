@@ -8,7 +8,7 @@ Odluka o donošenju Akcijskog programa Strategije upravljanja morskim okolišem 
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2024-849` (tags `odluka-2024-849/<day>`; `python tools/on.py <day> odluka-2024-849`).
+Act id: `odluka-2024-849` (tags `odluka-2024-849/<day>`; `python registry/tools/on.py <day> odluka-2024-849`).
 
 ## Decisions made by hand
 

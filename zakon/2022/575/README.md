@@ -12,7 +12,7 @@ Zakon o izmjenama Zakona o obveznom zdravstvenom osiguranju i zdravstvenoj zašt
 | čl. 6 | [clanak-006.md](clanak-006.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2022-575` (tags `zakon-2022-575/<day>`; `python tools/on.py <day> zakon-2022-575`).
+Act id: `zakon-2022-575` (tags `zakon-2022-575/<day>`; `python registry/tools/on.py <day> zakon-2022-575`).
 
 ## Decisions made by hand
 

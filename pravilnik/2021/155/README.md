@@ -10,7 +10,7 @@ Pravilnik o izmjenama i dopunama Pravilnika o načinu rada mentora u državnoj �
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2021-155` (tags `pravilnik-2021-155/<day>`; `python tools/on.py <day> pravilnik-2021-155`).
+Act id: `pravilnik-2021-155` (tags `pravilnik-2021-155/<day>`; `python registry/tools/on.py <day> pravilnik-2021-155`).
 
 ## Decisions made by hand
 

@@ -10,7 +10,7 @@ Pravilnik o izmjeni i dopuni Pravilnika o zdravstvenim pregledima vozača i kand
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2020-189` (tags `pravilnik-2020-189/<day>`; `python tools/on.py <day> pravilnik-2020-189`).
+Act id: `pravilnik-2020-189` (tags `pravilnik-2020-189/<day>`; `python registry/tools/on.py <day> pravilnik-2020-189`).
 
 ## Decisions made by hand
 

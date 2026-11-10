@@ -10,7 +10,7 @@ Odluka o visini poreznih stopa godišnjeg poreza na dohodak Općine Pitomača ·
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2023-1811` (tags `odluka-2023-1811/<day>`; `python tools/on.py <day> odluka-2023-1811`).
+Act id: `odluka-2023-1811` (tags `odluka-2023-1811/<day>`; `python registry/tools/on.py <day> odluka-2023-1811`).
 
 ## Decisions made by hand
 

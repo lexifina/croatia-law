@@ -9,7 +9,7 @@ Uredba o izmjeni i dopuni Zakona o obvezama i pravima državnih dužnosnika · 1
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2015-58` (tags `uredba-2015-58/<day>`; `python tools/on.py <day> uredba-2015-58`).
+Act id: `uredba-2015-58` (tags `uredba-2015-58/<day>`; `python registry/tools/on.py <day> uredba-2015-58`).
 
 ## Decisions made by hand
 

@@ -25,7 +25,7 @@ Pravilnik o pravilima i načinu raspodjele poslova i odgovornosti između razli�
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2012-2438` (tags `pravilnik-2012-2438/<day>`; `python tools/on.py <day> pravilnik-2012-2438`).
+Act id: `pravilnik-2012-2438` (tags `pravilnik-2012-2438/<day>`; `python registry/tools/on.py <day> pravilnik-2012-2438`).
 
 ## Decisions made by hand
 

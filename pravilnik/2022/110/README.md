@@ -9,7 +9,7 @@ Pravilnik o izmjeni Pravilnika o obrascu zahtjeva za izdavanje međunarodne uvoz
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2022-110` (tags `pravilnik-2022-110/<day>`; `python tools/on.py <day> pravilnik-2022-110`).
+Act id: `pravilnik-2022-110` (tags `pravilnik-2022-110/<day>`; `python registry/tools/on.py <day> pravilnik-2022-110`).
 
 ## Decisions made by hand
 

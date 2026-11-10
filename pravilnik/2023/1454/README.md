@@ -32,7 +32,7 @@ Pravilnik o provedbi mjere I.10. »Trajni prestanak ribolovnih aktivnosti« · 1
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2023-1454` (tags `pravilnik-2023-1454/<day>`; `python tools/on.py <day> pravilnik-2023-1454`).
+Act id: `pravilnik-2023-1454` (tags `pravilnik-2023-1454/<day>`; `python registry/tools/on.py <day> pravilnik-2023-1454`).
 
 ## Decisions made by hand
 

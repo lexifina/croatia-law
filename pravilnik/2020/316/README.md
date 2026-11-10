@@ -118,7 +118,7 @@ Pravilnik o načinu izvođenja osnovnih geodetskih radova · 1 versions, from 20
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2020-316` (tags `pravilnik-2020-316/<day>`; `python tools/on.py <day> pravilnik-2020-316`).
+Act id: `pravilnik-2020-316` (tags `pravilnik-2020-316/<day>`; `python registry/tools/on.py <day> pravilnik-2020-316`).
 
 ## Status
 

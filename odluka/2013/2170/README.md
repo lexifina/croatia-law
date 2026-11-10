@@ -8,7 +8,7 @@ Odluka o osnivanju Konzulata Republike Hrvatske u Gruziji, sa sjedištem u Tbili
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2013-2170` (tags `odluka-2013-2170/<day>`; `python tools/on.py <day> odluka-2013-2170`).
+Act id: `odluka-2013-2170` (tags `odluka-2013-2170/<day>`; `python registry/tools/on.py <day> odluka-2013-2170`).
 
 ## Decisions made by hand
 

@@ -11,7 +11,7 @@ Uredba o izmjenama Uredbe o visini naknade za zaštitu voda · 1 versions, from 
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2018-2303` (tags `uredba-2018-2303/<day>`; `python tools/on.py <day> uredba-2018-2303`).
+Act id: `uredba-2018-2303` (tags `uredba-2018-2303/<day>`; `python registry/tools/on.py <day> uredba-2018-2303`).
 
 ## Decisions made by hand
 

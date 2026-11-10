@@ -8,7 +8,7 @@ Odluka o određivanju tijela državne uprave i nositelja javnih ovlasti nadležn
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2014-179` (tags `odluka-2014-179/<day>`; `python tools/on.py <day> odluka-2014-179`).
+Act id: `odluka-2014-179` (tags `odluka-2014-179/<day>`; `python registry/tools/on.py <day> odluka-2014-179`).
 
 ## Decisions made by hand
 

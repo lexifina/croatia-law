@@ -8,7 +8,7 @@ Odluka o početku i završetku nastavne godine, broju radnih dana i trajanju odm
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2017-991` (tags `odluka-2017-991/<day>`; `python tools/on.py <day> odluka-2017-991`).
+Act id: `odluka-2017-991` (tags `odluka-2017-991/<day>`; `python registry/tools/on.py <day> odluka-2017-991`).
 
 ## Decisions made by hand
 

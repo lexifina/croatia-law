@@ -5,7 +5,7 @@ Naputak o novčanim kaznama koje izriču komunalni redari · 2 versions, from 20
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `naputak-2018-446` (tags `naputak-2018-446/<day>`; `python tools/on.py <day> naputak-2018-446`).
+Act id: `naputak-2018-446` (tags `naputak-2018-446/<day>`; `python registry/tools/on.py <day> naputak-2018-446`).
 
 ## Decisions made by hand
 

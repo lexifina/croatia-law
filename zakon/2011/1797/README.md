@@ -11,7 +11,7 @@ Zakon o dopunama Zakona o suzbijanju zlouporabe droge · 1 versions, from 2011-0
 | čl. 5 | [clanak-005.md](clanak-005.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2011-1797` (tags `zakon-2011-1797/<day>`; `python tools/on.py <day> zakon-2011-1797`).
+Act id: `zakon-2011-1797` (tags `zakon-2011-1797/<day>`; `python registry/tools/on.py <day> zakon-2011-1797`).
 
 ## Decisions made by hand
 

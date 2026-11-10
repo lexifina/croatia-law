@@ -21,7 +21,7 @@ Uredba o Tarifi za utvrđivanje vrijednosti iznosa naknade za pružanje primarne
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2011-745` (tags `uredba-2011-745/<day>`; `python tools/on.py <day> uredba-2011-745`).
+Act id: `uredba-2011-745` (tags `uredba-2011-745/<day>`; `python registry/tools/on.py <day> uredba-2011-745`).
 
 ## Decisions made by hand
 

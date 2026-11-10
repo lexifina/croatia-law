@@ -11,7 +11,7 @@ Pravilnik o izmjenama Pravilnika o utvrđivanju sukladnosti vozila na dva ili tr
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2023-46` (tags `pravilnik-2023-46/<day>`; `python tools/on.py <day> pravilnik-2023-46`).
+Act id: `pravilnik-2023-46` (tags `pravilnik-2023-46/<day>`; `python registry/tools/on.py <day> pravilnik-2023-46`).
 
 ## Decisions made by hand
 

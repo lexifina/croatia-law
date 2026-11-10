@@ -40,7 +40,7 @@ Pravilnik o radijskoj opremi · 1 versions, from 2016-06-13 (latest in force: 20
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2016-1322` (tags `pravilnik-2016-1322/<day>`; `python tools/on.py <day> pravilnik-2016-1322`).
+Act id: `pravilnik-2016-1322` (tags `pravilnik-2016-1322/<day>`; `python registry/tools/on.py <day> pravilnik-2016-1322`).
 
 ## Status
 

@@ -12,7 +12,7 @@ Odluka o naknadi za superviziju kreditnih institucija za 2019. godinu · 1 versi
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2019-925` (tags `odluka-2019-925/<day>`; `python tools/on.py <day> odluka-2019-925`).
+Act id: `odluka-2019-925` (tags `odluka-2019-925/<day>`; `python registry/tools/on.py <day> odluka-2019-925`).
 
 ## Decisions made by hand
 

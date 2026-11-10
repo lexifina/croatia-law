@@ -10,7 +10,7 @@ Pravilnik o izmjenama Pravilnika o obavljanju gospodarskog ribolova na moru ronj
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2022-692` (tags `pravilnik-2022-692/<day>`; `python tools/on.py <day> pravilnik-2022-692`).
+Act id: `pravilnik-2022-692` (tags `pravilnik-2022-692/<day>`; `python registry/tools/on.py <day> pravilnik-2022-692`).
 
 ## Decisions made by hand
 

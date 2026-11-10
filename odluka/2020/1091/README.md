@@ -8,7 +8,7 @@ Odluka klasa: 810-06/20-01/7, urbroj: 511-01-300-70 od 5. svibnja 2020. · 1 ver
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2020-1091` (tags `odluka-2020-1091/<day>`; `python tools/on.py <day> odluka-2020-1091`).
+Act id: `odluka-2020-1091` (tags `odluka-2020-1091/<day>`; `python registry/tools/on.py <day> odluka-2020-1091`).
 
 ## Status
 

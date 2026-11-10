@@ -9,7 +9,7 @@ Naputak o izmjeni Naputka o načinu izračuna naknade gospodarenja komunalnim ot
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `naputak-2011-2753` (tags `naputak-2011-2753/<day>`; `python tools/on.py <day> naputak-2011-2753`).
+Act id: `naputak-2011-2753` (tags `naputak-2011-2753/<day>`; `python registry/tools/on.py <day> naputak-2011-2753`).
 
 ## Decisions made by hand
 

@@ -20,7 +20,7 @@ Pravilnik o izmjenama i dopunama Pravilnika o radu u sustavu eSpis · 1 versions
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2021-1347` (tags `pravilnik-2021-1347/<day>`; `python tools/on.py <day> pravilnik-2021-1347`).
+Act id: `pravilnik-2021-1347` (tags `pravilnik-2021-1347/<day>`; `python registry/tools/on.py <day> pravilnik-2021-1347`).
 
 ## Decisions made by hand
 

@@ -199,7 +199,7 @@ Zakon o mirovinskom osiguranju · 1 versions, from 2014-01-01 (latest in force: 
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 
-Act id: `zakon-2013-3290` (tags `zakon-2013-3290/<day>`; `python tools/on.py <day> zakon-2013-3290`).
+Act id: `zakon-2013-3290` (tags `zakon-2013-3290/<day>`; `python registry/tools/on.py <day> zakon-2013-3290`).
 
 ## Status
 

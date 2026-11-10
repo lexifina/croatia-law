@@ -5,7 +5,7 @@ Odluka o zaštiti novčanih sredstava korisnika platnih usluga · 2 versions, fr
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `odluka-2018-1517` (tags `odluka-2018-1517/<day>`; `python tools/on.py <day> odluka-2018-1517`).
+Act id: `odluka-2018-1517` (tags `odluka-2018-1517/<day>`; `python registry/tools/on.py <day> odluka-2018-1517`).
 
 ## Decisions made by hand
 

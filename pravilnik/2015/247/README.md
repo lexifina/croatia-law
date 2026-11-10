@@ -29,7 +29,7 @@ Pravilnik o Programu dokumentacije koja prati plavoperajnu tunu (Thunnus thynnus
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2015-247` (tags `pravilnik-2015-247/<day>`; `python tools/on.py <day> pravilnik-2015-247`).
+Act id: `pravilnik-2015-247` (tags `pravilnik-2015-247/<day>`; `python registry/tools/on.py <day> pravilnik-2015-247`).
 
 ## Decisions made by hand
 

@@ -11,7 +11,7 @@ Uredba o izmjeni Uredbe o Uredu za ravnopravnost spolova · 1 versions, from 201
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2016-801` (tags `uredba-2016-801/<day>`; `python tools/on.py <day> uredba-2016-801`).
+Act id: `uredba-2016-801` (tags `uredba-2016-801/<day>`; `python registry/tools/on.py <day> uredba-2016-801`).
 
 ## Decisions made by hand
 

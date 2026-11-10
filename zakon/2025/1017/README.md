@@ -27,7 +27,7 @@ Zakon o izmjenama i dopunama Zakona o obnovljivim izvorima energije i visokouči
 | čl. 21 | [clanak-021.md](clanak-021.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2025-1017` (tags `zakon-2025-1017/<day>`; `python tools/on.py <day> zakon-2025-1017`).
+Act id: `zakon-2025-1017` (tags `zakon-2025-1017/<day>`; `python registry/tools/on.py <day> zakon-2025-1017`).
 
 ## Decisions made by hand
 

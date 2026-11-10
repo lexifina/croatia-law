@@ -8,7 +8,7 @@ Odluka o izmjeni i dopuni Odluke o privremenoj obustavi javnog prometa · 1 vers
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2020-1000` (tags `odluka-2020-1000/<day>`; `python tools/on.py <day> odluka-2020-1000`).
+Act id: `odluka-2020-1000` (tags `odluka-2020-1000/<day>`; `python registry/tools/on.py <day> odluka-2020-1000`).
 
 ## Decisions made by hand
 

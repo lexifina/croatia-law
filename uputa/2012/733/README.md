@@ -8,7 +8,7 @@ Uputa o načinu prikazivanja i provođenja zaštite vojnih i drugih objekata pos
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uputa-2012-733` (tags `uputa-2012-733/<day>`; `python tools/on.py <day> uputa-2012-733`).
+Act id: `uputa-2012-733` (tags `uputa-2012-733/<day>`; `python registry/tools/on.py <day> uputa-2012-733`).
 
 ## Decisions made by hand
 

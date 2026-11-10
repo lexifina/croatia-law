@@ -12,7 +12,7 @@ Uredba o izmjenama i dopuni Uredbe o izradi i provedbi dokumenata Strategije upr
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2017-828` (tags `uredba-2017-828/<day>`; `python tools/on.py <day> uredba-2017-828`).
+Act id: `uredba-2017-828` (tags `uredba-2017-828/<day>`; `python registry/tools/on.py <day> uredba-2017-828`).
 
 ## Decisions made by hand
 

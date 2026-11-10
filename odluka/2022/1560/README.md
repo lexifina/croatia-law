@@ -8,7 +8,7 @@ Odluka o katastarskoj izmjeri na području Općine Bedekovčina za k.o. Komor ·
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2022-1560` (tags `odluka-2022-1560/<day>`; `python tools/on.py <day> odluka-2022-1560`).
+Act id: `odluka-2022-1560` (tags `odluka-2022-1560/<day>`; `python registry/tools/on.py <day> odluka-2022-1560`).
 
 ## Decisions made by hand
 

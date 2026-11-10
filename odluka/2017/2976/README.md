@@ -5,7 +5,7 @@ Odluka o izmjenama Odluke o lokalnim porezima Grada Iloka · 2 versions, from 20
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `odluka-2017-2976` (tags `odluka-2017-2976/<day>`; `python tools/on.py <day> odluka-2017-2976`).
+Act id: `odluka-2017-2976` (tags `odluka-2017-2976/<day>`; `python registry/tools/on.py <day> odluka-2017-2976`).
 
 ## Decisions made by hand
 

@@ -10,7 +10,7 @@ Uredba o izmjeni Uredbe o vrijednosti koeficijenata složenosti poslova radnih m
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2013-414` (tags `uredba-2013-414/<day>`; `python tools/on.py <day> uredba-2013-414`).
+Act id: `uredba-2013-414` (tags `uredba-2013-414/<day>`; `python registry/tools/on.py <day> uredba-2013-414`).
 
 ## Decisions made by hand
 

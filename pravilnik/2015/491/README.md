@@ -10,7 +10,7 @@ Pravilnik o dopunama Pravilnika o stručnom ispitu te upotpunjavanju i usavršav
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2015-491` (tags `pravilnik-2015-491/<day>`; `python tools/on.py <day> pravilnik-2015-491`).
+Act id: `pravilnik-2015-491` (tags `pravilnik-2015-491/<day>`; `python registry/tools/on.py <day> pravilnik-2015-491`).
 
 ## Decisions made by hand
 

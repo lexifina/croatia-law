@@ -11,7 +11,7 @@ Pravilnik o izmjenama Pravilnika o provedbi Programa potpore primarnim poljopriv
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2021-434` (tags `pravilnik-2021-434/<day>`; `python tools/on.py <day> pravilnik-2021-434`).
+Act id: `pravilnik-2021-434` (tags `pravilnik-2021-434/<day>`; `python registry/tools/on.py <day> pravilnik-2021-434`).
 
 ## Decisions made by hand
 

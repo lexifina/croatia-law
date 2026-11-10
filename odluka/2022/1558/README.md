@@ -8,7 +8,7 @@ Odluka o katastarskoj izmjeri na području Grada Samobora za k.o. Rakovica · 1 
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2022-1558` (tags `odluka-2022-1558/<day>`; `python tools/on.py <day> odluka-2022-1558`).
+Act id: `odluka-2022-1558` (tags `odluka-2022-1558/<day>`; `python registry/tools/on.py <day> odluka-2022-1558`).
 
 ## Decisions made by hand
 

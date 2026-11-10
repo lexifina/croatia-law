@@ -46,7 +46,7 @@ Zakon o izmjenama i dopunama Zakona o obrtu · 1 versions, from 2020-01-01 (late
 | čl. 40 | [clanak-040.md](clanak-040.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2019-2560` (tags `zakon-2019-2560/<day>`; `python tools/on.py <day> zakon-2019-2560`).
+Act id: `zakon-2019-2560` (tags `zakon-2019-2560/<day>`; `python registry/tools/on.py <day> zakon-2019-2560`).
 
 ## Status
 

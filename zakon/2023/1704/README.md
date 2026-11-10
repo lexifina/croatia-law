@@ -13,7 +13,7 @@ Zakon o izmjenama i dopuni Zakona o provedbi Uredbe (EU) br. 648/2012 Europskog 
 | čl. 7 | [clanak-007.md](clanak-007.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2023-1704` (tags `zakon-2023-1704/<day>`; `python tools/on.py <day> zakon-2023-1704`).
+Act id: `zakon-2023-1704` (tags `zakon-2023-1704/<day>`; `python registry/tools/on.py <day> zakon-2023-1704`).
 
 ## Decisions made by hand
 

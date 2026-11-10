@@ -12,7 +12,7 @@ Državni proračun Republike Hrvatske za 2013. godinu i projekcije za 2014. i 20
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2012-2938` (tags `odluka-2012-2938/<day>`; `python tools/on.py <day> odluka-2012-2938`).
+Act id: `odluka-2012-2938` (tags `odluka-2012-2938/<day>`; `python registry/tools/on.py <day> odluka-2012-2938`).
 
 ## Status
 

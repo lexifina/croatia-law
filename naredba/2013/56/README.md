@@ -9,7 +9,7 @@ Naredba o mjerama zaštite životinja od zaraznih i nametničkih bolesti i njiho
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `naredba-2013-56` (tags `naredba-2013-56/<day>`; `python tools/on.py <day> naredba-2013-56`).
+Act id: `naredba-2013-56` (tags `naredba-2013-56/<day>`; `python registry/tools/on.py <day> naredba-2013-56`).
 
 ## Status
 

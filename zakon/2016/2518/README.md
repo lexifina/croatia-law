@@ -11,7 +11,7 @@ Zakon o ovlasti Vlade Republike Hrvatske da uredbama uređuje pojedina pitanja i
 | čl. 5 | [clanak-005.md](clanak-005.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2016-2518` (tags `zakon-2016-2518/<day>`; `python tools/on.py <day> zakon-2016-2518`).
+Act id: `zakon-2016-2518` (tags `zakon-2016-2518/<day>`; `python registry/tools/on.py <day> zakon-2016-2518`).
 
 ## Status
 

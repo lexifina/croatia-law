@@ -9,7 +9,7 @@ Pravilnik o izmjeni i dopuni Pravilnika o popisu jedinica Financijske agencije i
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2022-714` (tags `pravilnik-2022-714/<day>`; `python tools/on.py <day> pravilnik-2022-714`).
+Act id: `pravilnik-2022-714` (tags `pravilnik-2022-714/<day>`; `python registry/tools/on.py <day> pravilnik-2022-714`).
 
 ## Decisions made by hand
 

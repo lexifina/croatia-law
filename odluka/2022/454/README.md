@@ -8,7 +8,7 @@ Odluka o donošenju Nacionalnog plana razvoja pravosudnog sustava za razdoblje o
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2022-454` (tags `odluka-2022-454/<day>`; `python tools/on.py <day> odluka-2022-454`).
+Act id: `odluka-2022-454` (tags `odluka-2022-454/<day>`; `python registry/tools/on.py <day> odluka-2022-454`).
 
 ## Decisions made by hand
 

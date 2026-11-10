@@ -18,7 +18,7 @@ Pravilnik o glavnim i napajajućim UCITS fondovima · 1 versions, from 2013-07-0
 | čl. 12 | [clanak-012.md](clanak-012.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `pravilnik-2013-1894` (tags `pravilnik-2013-1894/<day>`; `python tools/on.py <day> pravilnik-2013-1894`).
+Act id: `pravilnik-2013-1894` (tags `pravilnik-2013-1894/<day>`; `python registry/tools/on.py <day> pravilnik-2013-1894`).
 
 ## Status
 

@@ -71,7 +71,7 @@ Zakon o izmjenama i dopunama Stečajnog zakona · 1 versions, from 2012-12-11 (l
 | čl. 65 | [clanak-065.md](clanak-065.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2012-2825` (tags `zakon-2012-2825/<day>`; `python tools/on.py <day> zakon-2012-2825`).
+Act id: `zakon-2012-2825` (tags `zakon-2012-2825/<day>`; `python registry/tools/on.py <day> zakon-2012-2825`).
 
 ## Decisions made by hand
 

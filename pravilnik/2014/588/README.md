@@ -29,7 +29,7 @@ Pravilnik o uvjetima za članstvo u upravi burze i postupku izdavanja suglasnost
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2014-588` (tags `pravilnik-2014-588/<day>`; `python tools/on.py <day> pravilnik-2014-588`).
+Act id: `pravilnik-2014-588` (tags `pravilnik-2014-588/<day>`; `python registry/tools/on.py <day> pravilnik-2014-588`).
 
 ## Decisions made by hand
 

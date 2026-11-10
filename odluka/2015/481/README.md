@@ -9,7 +9,7 @@ Odluka o izmjeni Odluke o utvrđivanju Liste dionica i poslovnih udjela u trgova
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2015-481` (tags `odluka-2015-481/<day>`; `python tools/on.py <day> odluka-2015-481`).
+Act id: `odluka-2015-481` (tags `odluka-2015-481/<day>`; `python registry/tools/on.py <day> odluka-2015-481`).
 
 ## Decisions made by hand
 

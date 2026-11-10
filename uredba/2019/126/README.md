@@ -5,7 +5,7 @@ Uredba o Uredu za ljudska prava i prava nacionalnih manjina · 2 versions, from 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `uredba-2019-126` (tags `uredba-2019-126/<day>`; `python tools/on.py <day> uredba-2019-126`).
+Act id: `uredba-2019-126` (tags `uredba-2019-126/<day>`; `python registry/tools/on.py <day> uredba-2019-126`).
 
 ## Decisions made by hand
 

@@ -5,7 +5,7 @@ Odluka o osnivanju Vijeća za demografsku revitalizaciju Republike Hrvatske · 2
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `odluka-2020-2731` (tags `odluka-2020-2731/<day>`; `python tools/on.py <day> odluka-2020-2731`).
+Act id: `odluka-2020-2731` (tags `odluka-2020-2731/<day>`; `python registry/tools/on.py <day> odluka-2020-2731`).
 
 ## Decisions made by hand
 

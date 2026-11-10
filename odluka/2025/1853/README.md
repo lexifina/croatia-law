@@ -7,7 +7,7 @@ Odluka Agencije za elektroničke medije klasa: UP/I-614-03/25-02/07, urbroj: 114
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 
-Act id: `odluka-2025-1853` (tags `odluka-2025-1853/<day>`; `python tools/on.py <day> odluka-2025-1853`).
+Act id: `odluka-2025-1853` (tags `odluka-2025-1853/<day>`; `python registry/tools/on.py <day> odluka-2025-1853`).
 
 ## Decisions made by hand
 

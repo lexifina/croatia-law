@@ -18,7 +18,7 @@ Zakon o izmjenama i dopunama Zakona o porezu na dodanu vrijednost · 1 versions,
 | čl. 12 | [clanak-012.md](clanak-012.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2025-2262` (tags `zakon-2025-2262/<day>`; `python tools/on.py <day> zakon-2025-2262`).
+Act id: `zakon-2025-2262` (tags `zakon-2025-2262/<day>`; `python registry/tools/on.py <day> zakon-2025-2262`).
 
 ## Decisions made by hand
 

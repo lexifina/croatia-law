@@ -24,7 +24,7 @@ Odluka o načinu i postupku vođenja razdvojenog računovodstva energetskih subj
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2013-2335` (tags `odluka-2013-2335/<day>`; `python tools/on.py <day> odluka-2013-2335`).
+Act id: `odluka-2013-2335` (tags `odluka-2013-2335/<day>`; `python registry/tools/on.py <day> odluka-2013-2335`).
 
 ## Status
 

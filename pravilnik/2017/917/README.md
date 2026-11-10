@@ -11,7 +11,7 @@ Pravilnik o izmjenama i dopunama Pravilnika o likvidaciji i prestanku AIF-ova ·
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2017-917` (tags `pravilnik-2017-917/<day>`; `python tools/on.py <day> pravilnik-2017-917`).
+Act id: `pravilnik-2017-917` (tags `pravilnik-2017-917/<day>`; `python registry/tools/on.py <day> pravilnik-2017-917`).
 
 ## Decisions made by hand
 

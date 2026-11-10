@@ -20,7 +20,7 @@ Zakon o izmjenama i dopunama Zakona o građevnim proizvodima · 1 versions, from
 | čl. 14 | [clanak-014.md](clanak-014.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2020-2296` (tags `zakon-2020-2296/<day>`; `python tools/on.py <day> zakon-2020-2296`).
+Act id: `zakon-2020-2296` (tags `zakon-2020-2296/<day>`; `python registry/tools/on.py <day> zakon-2020-2296`).
 
 ## Decisions made by hand
 

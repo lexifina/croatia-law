@@ -11,7 +11,7 @@ Uredba o izmjenama i dopuni Uredbe o područjima, sjedištima, vrstama i kategor
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2017-293` (tags `uredba-2017-293/<day>`; `python tools/on.py <day> uredba-2017-293`).
+Act id: `uredba-2017-293` (tags `uredba-2017-293/<day>`; `python registry/tools/on.py <day> uredba-2017-293`).
 
 ## Decisions made by hand
 

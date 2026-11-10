@@ -15,7 +15,7 @@ Uredba o izmjenama i dopunama Uredbe o gospodarenju otpadnom ambalažom · 1 ver
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2020-93` (tags `uredba-2020-93/<day>`; `python tools/on.py <day> uredba-2020-93`).
+Act id: `uredba-2020-93` (tags `uredba-2020-93/<day>`; `python registry/tools/on.py <day> uredba-2020-93`).
 
 ## Status
 

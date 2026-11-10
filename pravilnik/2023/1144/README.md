@@ -17,7 +17,7 @@ Pravilnik o privremenim zabranama u slučaju prijedloga za otvaranje stečajnog 
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2023-1144` (tags `pravilnik-2023-1144/<day>`; `python tools/on.py <day> pravilnik-2023-1144`).
+Act id: `pravilnik-2023-1144` (tags `pravilnik-2023-1144/<day>`; `python registry/tools/on.py <day> pravilnik-2023-1144`).
 
 ## Status
 

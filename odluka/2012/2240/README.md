@@ -8,7 +8,7 @@ Odluka o osnivanju Koordinacijskog povjerenstva za pripremu programskih dokumena
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2012-2240` (tags `odluka-2012-2240/<day>`; `python tools/on.py <day> odluka-2012-2240`).
+Act id: `odluka-2012-2240` (tags `odluka-2012-2240/<day>`; `python registry/tools/on.py <day> odluka-2012-2240`).
 
 ## Status
 

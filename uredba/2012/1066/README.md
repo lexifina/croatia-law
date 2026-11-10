@@ -55,7 +55,7 @@ Uredba o unutarnjem ustrojstvu Državnog zavoda za mjeriteljstvo · 1 versions, 
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2012-1066` (tags `uredba-2012-1066/<day>`; `python tools/on.py <day> uredba-2012-1066`).
+Act id: `uredba-2012-1066` (tags `uredba-2012-1066/<day>`; `python registry/tools/on.py <day> uredba-2012-1066`).
 
 ## Status
 

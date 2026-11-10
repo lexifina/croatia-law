@@ -11,7 +11,7 @@ Uredba o izmjenama i dopuni Uredbe o kriterijima za stjecanje statusa ugroženih
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2022-374` (tags `uredba-2022-374/<day>`; `python tools/on.py <day> uredba-2022-374`).
+Act id: `uredba-2022-374` (tags `uredba-2022-374/<day>`; `python registry/tools/on.py <day> uredba-2022-374`).
 
 ## Decisions made by hand
 

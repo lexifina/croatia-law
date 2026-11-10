@@ -8,7 +8,7 @@ Odluka o sudjelovanju Republike Hrvatske u općem povećanju kapitala Međunarod
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2020-2592` (tags `odluka-2020-2592/<day>`; `python tools/on.py <day> odluka-2020-2592`).
+Act id: `odluka-2020-2592` (tags `odluka-2020-2592/<day>`; `python registry/tools/on.py <day> odluka-2020-2592`).
 
 ## Decisions made by hand
 

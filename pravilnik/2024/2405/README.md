@@ -13,7 +13,7 @@ Pravilnik o redovitim izvješćima i sadržaju obavijesti o jediničnim iznosima
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2024-2405` (tags `pravilnik-2024-2405/<day>`; `python tools/on.py <day> pravilnik-2024-2405`).
+Act id: `pravilnik-2024-2405` (tags `pravilnik-2024-2405/<day>`; `python registry/tools/on.py <day> pravilnik-2024-2405`).
 
 ## Decisions made by hand
 

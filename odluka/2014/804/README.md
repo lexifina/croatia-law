@@ -8,7 +8,7 @@ Odluka o visini naknade za rad predsjednika i članova Drugostupanjske zdravstve
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2014-804` (tags `odluka-2014-804/<day>`; `python tools/on.py <day> odluka-2014-804`).
+Act id: `odluka-2014-804` (tags `odluka-2014-804/<day>`; `python registry/tools/on.py <day> odluka-2014-804`).
 
 ## Decisions made by hand
 

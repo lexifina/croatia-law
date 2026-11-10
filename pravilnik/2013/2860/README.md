@@ -30,7 +30,7 @@ Pravilnik o uvjetima i postupku ostvarivanja naknade troškova prijevoza · 1 ve
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2013-2860` (tags `pravilnik-2013-2860/<day>`; `python tools/on.py <day> pravilnik-2013-2860`).
+Act id: `pravilnik-2013-2860` (tags `pravilnik-2013-2860/<day>`; `python registry/tools/on.py <day> pravilnik-2013-2860`).
 
 ## Status
 

@@ -29,7 +29,7 @@ Pravilnik o ovlaštenjima za poslove zaštite na radu · 1 versions, from 2019-0
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2019-975` (tags `pravilnik-2019-975/<day>`; `python tools/on.py <day> pravilnik-2019-975`).
+Act id: `pravilnik-2019-975` (tags `pravilnik-2019-975/<day>`; `python registry/tools/on.py <day> pravilnik-2019-975`).
 
 ## Status
 

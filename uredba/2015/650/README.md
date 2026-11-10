@@ -9,7 +9,7 @@ Uredba o izmjenama i dopunama Uredbe o klasifikaciji radnih mjesta policijskih s
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2015-650` (tags `uredba-2015-650/<day>`; `python tools/on.py <day> uredba-2015-650`).
+Act id: `uredba-2015-650` (tags `uredba-2015-650/<day>`; `python registry/tools/on.py <day> uredba-2015-650`).
 
 ## Decisions made by hand
 

@@ -8,7 +8,7 @@ Odluka o uvođenju naplate cestarine za uporabu tunela Sveti Ilija · 1 versions
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2013-792` (tags `odluka-2013-792/<day>`; `python tools/on.py <day> odluka-2013-792`).
+Act id: `odluka-2013-792` (tags `odluka-2013-792/<day>`; `python registry/tools/on.py <day> odluka-2013-792`).
 
 ## Status
 

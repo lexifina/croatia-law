@@ -12,7 +12,7 @@ Pravilnik o izmjenama i dopunama Pravilnika o polugodišnjem i godišnjem izvje�
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2020-10` (tags `pravilnik-2020-10/<day>`; `python tools/on.py <day> pravilnik-2020-10`).
+Act id: `pravilnik-2020-10` (tags `pravilnik-2020-10/<day>`; `python registry/tools/on.py <day> pravilnik-2020-10`).
 
 ## Decisions made by hand
 

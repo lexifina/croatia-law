@@ -13,7 +13,7 @@ Pravilnik o izmjenama i dopunama Pravilnika o načinu utvrđivanju uvjeta za ula
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2015-788` (tags `pravilnik-2015-788/<day>`; `python tools/on.py <day> pravilnik-2015-788`).
+Act id: `pravilnik-2015-788` (tags `pravilnik-2015-788/<day>`; `python registry/tools/on.py <day> pravilnik-2015-788`).
 
 ## Decisions made by hand
 

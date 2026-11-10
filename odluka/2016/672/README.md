@@ -8,7 +8,7 @@ Odluka o oduzimanju prava priređivanja igara na sreću na automatima trgovačko
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2016-672` (tags `odluka-2016-672/<day>`; `python tools/on.py <day> odluka-2016-672`).
+Act id: `odluka-2016-672` (tags `odluka-2016-672/<day>`; `python registry/tools/on.py <day> odluka-2016-672`).
 
 ## Decisions made by hand
 

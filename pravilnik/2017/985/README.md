@@ -5,7 +5,7 @@ Pravilnik o uvjetima i načinu ostvarivanja prava na državnu stipendiju na teme
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `pravilnik-2017-985` (tags `pravilnik-2017-985/<day>`; `python tools/on.py <day> pravilnik-2017-985`).
+Act id: `pravilnik-2017-985` (tags `pravilnik-2017-985/<day>`; `python registry/tools/on.py <day> pravilnik-2017-985`).
 
 ## Decisions made by hand
 

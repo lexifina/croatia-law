@@ -9,7 +9,7 @@ Zakon o izmjenama Zakona o državnim službenicima · 1 versions, from 2020-01-0
 | čl. 3 | [clanak-003.md](clanak-003.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2019-1934` (tags `zakon-2019-1934/<day>`; `python tools/on.py <day> zakon-2019-1934`).
+Act id: `zakon-2019-1934` (tags `zakon-2019-1934/<day>`; `python registry/tools/on.py <day> zakon-2019-1934`).
 
 ## Decisions made by hand
 

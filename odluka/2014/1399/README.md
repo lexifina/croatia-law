@@ -9,7 +9,7 @@ Odluka o izmjeni Odluke o osnovama za sklapanje ugovora o provođenju zdravstven
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2014-1399` (tags `odluka-2014-1399/<day>`; `python tools/on.py <day> odluka-2014-1399`).
+Act id: `odluka-2014-1399` (tags `odluka-2014-1399/<day>`; `python registry/tools/on.py <day> odluka-2014-1399`).
 
 ## Decisions made by hand
 

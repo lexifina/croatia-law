@@ -56,7 +56,7 @@ Pravilnik o mjerilima za stavljanje lijekova na listu lijekova Hrvatskog zavoda 
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2019-706` (tags `pravilnik-2019-706/<day>`; `python tools/on.py <day> pravilnik-2019-706`).
+Act id: `pravilnik-2019-706` (tags `pravilnik-2019-706/<day>`; `python registry/tools/on.py <day> pravilnik-2019-706`).
 
 ## Status
 

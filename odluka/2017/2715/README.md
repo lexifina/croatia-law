@@ -8,7 +8,7 @@ Odluka o izmjeni Odluke o nazivima i uvjetima za radna mjesta, poslovima koji se
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2017-2715` (tags `odluka-2017-2715/<day>`; `python tools/on.py <day> odluka-2017-2715`).
+Act id: `odluka-2017-2715` (tags `odluka-2017-2715/<day>`; `python registry/tools/on.py <day> odluka-2017-2715`).
 
 ## Decisions made by hand
 

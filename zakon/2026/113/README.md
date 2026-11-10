@@ -14,7 +14,7 @@ Zakon o izmjenama i dopunama Zakona o provedbi Uredbe (EU) 2017/852 Europskog pa
 | čl. 8 | [clanak-008.md](clanak-008.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2026-113` (tags `zakon-2026-113/<day>`; `python tools/on.py <day> zakon-2026-113`).
+Act id: `zakon-2026-113` (tags `zakon-2026-113/<day>`; `python registry/tools/on.py <day> zakon-2026-113`).
 
 ## Decisions made by hand
 

@@ -28,7 +28,7 @@ Odluka o gradskim porezima Grada Jastrebarskog · 1 versions, from 2018-01-01 (l
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2017-2806` (tags `odluka-2017-2806/<day>`; `python tools/on.py <day> odluka-2017-2806`).
+Act id: `odluka-2017-2806` (tags `odluka-2017-2806/<day>`; `python registry/tools/on.py <day> odluka-2017-2806`).
 
 ## Decisions made by hand
 

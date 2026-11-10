@@ -10,7 +10,7 @@ Zakon o izmjenama Zakona o Državnoj komisiji za kontrolu postupaka javne nabave
 | čl. 4 | [clanak-004.md](clanak-004.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2014-1393` (tags `zakon-2014-1393/<day>`; `python tools/on.py <day> zakon-2014-1393`).
+Act id: `zakon-2014-1393` (tags `zakon-2014-1393/<day>`; `python registry/tools/on.py <day> zakon-2014-1393`).
 
 ## Decisions made by hand
 

@@ -57,7 +57,7 @@ Zakon o izmjenama i dopunama Zakona o cestama · 1 versions, from 2013-05-15 (la
 | čl. 51 | [clanak-051.md](clanak-051.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2013-1083` (tags `zakon-2013-1083/<day>`; `python tools/on.py <day> zakon-2013-1083`).
+Act id: `zakon-2013-1083` (tags `zakon-2013-1083/<day>`; `python registry/tools/on.py <day> zakon-2013-1083`).
 
 ## Decisions made by hand
 

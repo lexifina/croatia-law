@@ -23,7 +23,7 @@ Pravilnik o normativima i standardima za turističku ambulantu · 1 versions, fr
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2024-74` (tags `pravilnik-2024-74/<day>`; `python tools/on.py <day> pravilnik-2024-74`).
+Act id: `pravilnik-2024-74` (tags `pravilnik-2024-74/<day>`; `python registry/tools/on.py <day> pravilnik-2024-74`).
 
 ## Decisions made by hand
 

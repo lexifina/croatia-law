@@ -9,7 +9,7 @@ Odluka o osnivanju Konzulata Republike Hrvatske u Novom Zelandu, sa sjedištem u
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2015-1331` (tags `odluka-2015-1331/<day>`; `python tools/on.py <day> odluka-2015-1331`).
+Act id: `odluka-2015-1331` (tags `odluka-2015-1331/<day>`; `python registry/tools/on.py <day> odluka-2015-1331`).
 
 ## Decisions made by hand
 

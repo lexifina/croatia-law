@@ -9,7 +9,7 @@ Pravilnik o izmjeni Pravilnika o izboru i utvrđivanju javnih potreba u kulturi 
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2013-2061` (tags `pravilnik-2013-2061/<day>`; `python tools/on.py <day> pravilnik-2013-2061`).
+Act id: `pravilnik-2013-2061` (tags `pravilnik-2013-2061/<day>`; `python registry/tools/on.py <day> pravilnik-2013-2061`).
 
 ## Decisions made by hand
 

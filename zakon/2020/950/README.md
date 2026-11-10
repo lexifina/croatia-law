@@ -85,7 +85,7 @@ Zakon o izmjenama i dopunama Zakona o kreditnim institucijama · 1 versions, fro
 | čl. 79 | [clanak-079.md](clanak-079.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2020-950` (tags `zakon-2020-950/<day>`; `python tools/on.py <day> zakon-2020-950`).
+Act id: `zakon-2020-950` (tags `zakon-2020-950/<day>`; `python registry/tools/on.py <day> zakon-2020-950`).
 
 ## Decisions made by hand
 

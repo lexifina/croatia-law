@@ -12,7 +12,7 @@ Pravilnik o uvjetima kojima moraju udovoljavati klaonice · 1 versions, from 201
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2015-1126` (tags `pravilnik-2015-1126/<day>`; `python tools/on.py <day> pravilnik-2015-1126`).
+Act id: `pravilnik-2015-1126` (tags `pravilnik-2015-1126/<day>`; `python registry/tools/on.py <day> pravilnik-2015-1126`).
 
 ## Decisions made by hand
 

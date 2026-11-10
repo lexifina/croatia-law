@@ -11,7 +11,7 @@ Odluka o zajamčenom prinosu obveznih mirovinskih fondova za 2017. godinu · 1 v
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2018-202` (tags `odluka-2018-202/<day>`; `python tools/on.py <day> odluka-2018-202`).
+Act id: `odluka-2018-202` (tags `odluka-2018-202/<day>`; `python registry/tools/on.py <day> odluka-2018-202`).
 
 ## Decisions made by hand
 

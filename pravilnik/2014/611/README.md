@@ -74,7 +74,7 @@ Pravilnik o uvjetima i načinu upotrebe sportsko rekreativnih zrakoplova · 1 ve
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2014-611` (tags `pravilnik-2014-611/<day>`; `python tools/on.py <day> pravilnik-2014-611`).
+Act id: `pravilnik-2014-611` (tags `pravilnik-2014-611/<day>`; `python registry/tools/on.py <day> pravilnik-2014-611`).
 
 ## Status
 

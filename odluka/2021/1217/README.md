@@ -10,7 +10,7 @@ Odluka o izmjeni Odluke o opskrbi banaka gotovim novcem · 1 versions, from 2021
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2021-1217` (tags `odluka-2021-1217/<day>`; `python tools/on.py <day> odluka-2021-1217`).
+Act id: `odluka-2021-1217` (tags `odluka-2021-1217/<day>`; `python registry/tools/on.py <day> odluka-2021-1217`).
 
 ## Decisions made by hand
 

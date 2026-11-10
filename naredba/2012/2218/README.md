@@ -8,7 +8,7 @@ Naredba o izmjenama Naredbe o mjerama zaštite životinja od zaraznih i nametni�
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `naredba-2012-2218` (tags `naredba-2012-2218/<day>`; `python tools/on.py <day> naredba-2012-2218`).
+Act id: `naredba-2012-2218` (tags `naredba-2012-2218/<day>`; `python registry/tools/on.py <day> naredba-2012-2218`).
 
 ## Decisions made by hand
 

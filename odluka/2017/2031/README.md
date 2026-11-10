@@ -9,7 +9,7 @@ Odluka o donošenju standarda zanimanja za stjecanje kvalifikacije drvodjeljski 
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2017-2031` (tags `odluka-2017-2031/<day>`; `python tools/on.py <day> odluka-2017-2031`).
+Act id: `odluka-2017-2031` (tags `odluka-2017-2031/<day>`; `python registry/tools/on.py <day> odluka-2017-2031`).
 
 ## Decisions made by hand
 

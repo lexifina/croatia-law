@@ -40,7 +40,7 @@ Zakon o izmjenama i dopunama Prekršajnog zakona · 1 versions, from 2019-01-01 
 | čl. 34 | [clanak-034.md](clanak-034.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2018-2354` (tags `zakon-2018-2354/<day>`; `python tools/on.py <day> zakon-2018-2354`).
+Act id: `zakon-2018-2354` (tags `zakon-2018-2354/<day>`; `python registry/tools/on.py <day> zakon-2018-2354`).
 
 ## Decisions made by hand
 

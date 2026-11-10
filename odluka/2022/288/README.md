@@ -8,7 +8,7 @@ Odluka o davanju suglasnosti na Odluku Županijske skupštine Dubrovačko-neretv
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2022-288` (tags `odluka-2022-288/<day>`; `python tools/on.py <day> odluka-2022-288`).
+Act id: `odluka-2022-288` (tags `odluka-2022-288/<day>`; `python registry/tools/on.py <day> odluka-2022-288`).
 
 ## Decisions made by hand
 

@@ -29,7 +29,7 @@ Naputak za vođenje registra životnog partnerstva · 1 versions, from 2021-07-2
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `naputak-2021-1505` (tags `naputak-2021-1505/<day>`; `python tools/on.py <day> naputak-2021-1505`).
+Act id: `naputak-2021-1505` (tags `naputak-2021-1505/<day>`; `python registry/tools/on.py <day> naputak-2021-1505`).
 
 ## Decisions made by hand
 

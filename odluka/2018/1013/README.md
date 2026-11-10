@@ -8,7 +8,7 @@ Odluka o izdavanju numizmatičkih kompleta optjecajnoga kovanog novca Republike 
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2018-1013` (tags `odluka-2018-1013/<day>`; `python tools/on.py <day> odluka-2018-1013`).
+Act id: `odluka-2018-1013` (tags `odluka-2018-1013/<day>`; `python registry/tools/on.py <day> odluka-2018-1013`).
 
 ## Decisions made by hand
 

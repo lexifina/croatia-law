@@ -22,7 +22,7 @@ Pravilnik o sufinanciranju projekata odobrenih u okviru programa za kulturu Euro
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2012-1953` (tags `pravilnik-2012-1953/<day>`; `python tools/on.py <day> pravilnik-2012-1953`).
+Act id: `pravilnik-2012-1953` (tags `pravilnik-2012-1953/<day>`; `python registry/tools/on.py <day> pravilnik-2012-1953`).
 
 ## Status
 

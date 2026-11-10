@@ -5,7 +5,7 @@ Pravilnik o tehničkim zahtjevima za drvne ploče · 2 versions, from 2015-06-04
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `pravilnik-2015-1125` (tags `pravilnik-2015-1125/<day>`; `python tools/on.py <day> pravilnik-2015-1125`).
+Act id: `pravilnik-2015-1125` (tags `pravilnik-2015-1125/<day>`; `python registry/tools/on.py <day> pravilnik-2015-1125`).
 
 ## Decisions made by hand
 

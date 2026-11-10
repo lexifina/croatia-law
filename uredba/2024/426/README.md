@@ -10,7 +10,7 @@ Uredba o izmjeni Uredbe o kriterijima za stjecanje statusa ugroženih kupaca ene
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2024-426` (tags `uredba-2024-426/<day>`; `python tools/on.py <day> uredba-2024-426`).
+Act id: `uredba-2024-426` (tags `uredba-2024-426/<day>`; `python registry/tools/on.py <day> uredba-2024-426`).
 
 ## Decisions made by hand
 

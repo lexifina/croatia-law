@@ -16,7 +16,7 @@ Uredba o izmjeni i dopunama Uredbe o plaćama, dodacima i naknadama u službi va
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2023-1470` (tags `uredba-2023-1470/<day>`; `python tools/on.py <day> uredba-2023-1470`).
+Act id: `uredba-2023-1470` (tags `uredba-2023-1470/<day>`; `python registry/tools/on.py <day> uredba-2023-1470`).
 
 ## Decisions made by hand
 

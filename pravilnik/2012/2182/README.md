@@ -9,7 +9,7 @@ Pravilnik o izmjeni Pravilnika o uvjetima za određivanje područja na kojem će
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2012-2182` (tags `pravilnik-2012-2182/<day>`; `python tools/on.py <day> pravilnik-2012-2182`).
+Act id: `pravilnik-2012-2182` (tags `pravilnik-2012-2182/<day>`; `python registry/tools/on.py <day> pravilnik-2012-2182`).
 
 ## Decisions made by hand
 

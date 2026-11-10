@@ -11,7 +11,7 @@ Zakon o izmjeni i dopuni Zakona o primjeni Statuta Međunarodnog kaznenog suda i
 | čl. 5 | [clanak-005.md](clanak-005.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2011-2503` (tags `zakon-2011-2503/<day>`; `python tools/on.py <day> zakon-2011-2503`).
+Act id: `zakon-2011-2503` (tags `zakon-2011-2503/<day>`; `python registry/tools/on.py <day> zakon-2011-2503`).
 
 ## Decisions made by hand
 

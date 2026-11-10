@@ -18,7 +18,7 @@ Odluka o porezima Općine Stara Gradiška · 1 versions, from 2023-01-01 (latest
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2023-150` (tags `odluka-2023-150/<day>`; `python tools/on.py <day> odluka-2023-150`).
+Act id: `odluka-2023-150` (tags `odluka-2023-150/<day>`; `python registry/tools/on.py <day> odluka-2023-150`).
 
 ## Decisions made by hand
 

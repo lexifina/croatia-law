@@ -9,7 +9,7 @@ Odluka o izmjenama i dopuni Odluke o osnovama za sklapanje ugovora o provođenju
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2020-2876` (tags `odluka-2020-2876/<day>`; `python tools/on.py <day> odluka-2020-2876`).
+Act id: `odluka-2020-2876` (tags `odluka-2020-2876/<day>`; `python registry/tools/on.py <day> odluka-2020-2876`).
 
 ## Decisions made by hand
 

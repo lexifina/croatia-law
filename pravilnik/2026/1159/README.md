@@ -36,7 +36,7 @@ Pravilnik o provedbi državne potpore za trajni prestanak ribolovnih aktivnosti 
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2026-1159` (tags `pravilnik-2026-1159/<day>`; `python tools/on.py <day> pravilnik-2026-1159`).
+Act id: `pravilnik-2026-1159` (tags `pravilnik-2026-1159/<day>`; `python registry/tools/on.py <day> pravilnik-2026-1159`).
 
 ## Decisions made by hand
 

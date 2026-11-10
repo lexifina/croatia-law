@@ -5,7 +5,7 @@ Pravilnik o postupanju s oduzetom i ustupljenom robom · 2 versions, from 2016-1
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `pravilnik-2016-2148` (tags `pravilnik-2016-2148/<day>`; `python tools/on.py <day> pravilnik-2016-2148`).
+Act id: `pravilnik-2016-2148` (tags `pravilnik-2016-2148/<day>`; `python registry/tools/on.py <day> pravilnik-2016-2148`).
 
 ## Decisions made by hand
 

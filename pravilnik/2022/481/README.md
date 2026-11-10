@@ -13,7 +13,7 @@ Pravilnik o izmjenama i dopunama Pravilnika o polaganju državnog ispita · 1 ve
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2022-481` (tags `pravilnik-2022-481/<day>`; `python tools/on.py <day> pravilnik-2022-481`).
+Act id: `pravilnik-2022-481` (tags `pravilnik-2022-481/<day>`; `python registry/tools/on.py <day> pravilnik-2022-481`).
 
 ## Decisions made by hand
 

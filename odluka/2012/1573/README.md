@@ -8,7 +8,7 @@ Odluka o odabiru najpovoljnijeg ponuditelja za stjecanje koncesije za gospodarsk
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2012-1573` (tags `odluka-2012-1573/<day>`; `python tools/on.py <day> odluka-2012-1573`).
+Act id: `odluka-2012-1573` (tags `odluka-2012-1573/<day>`; `python registry/tools/on.py <day> odluka-2012-1573`).
 
 ## Decisions made by hand
 

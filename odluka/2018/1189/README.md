@@ -8,7 +8,7 @@ Odluka o uspostavljanju sustava upravljanja i kontrole korištenja Financijskog 
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2018-1189` (tags `odluka-2018-1189/<day>`; `python tools/on.py <day> odluka-2018-1189`).
+Act id: `odluka-2018-1189` (tags `odluka-2018-1189/<day>`; `python registry/tools/on.py <day> odluka-2018-1189`).
 
 ## Decisions made by hand
 

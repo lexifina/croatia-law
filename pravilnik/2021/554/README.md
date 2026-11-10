@@ -8,7 +8,7 @@ Pravilnik o izmjenama i dopunama Pravilnika o dozvoljenim ulaganjima i dodatnim 
 | čl. 2 | [clanak-002.md](clanak-002.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `pravilnik-2021-554` (tags `pravilnik-2021-554/<day>`; `python tools/on.py <day> pravilnik-2021-554`).
+Act id: `pravilnik-2021-554` (tags `pravilnik-2021-554/<day>`; `python registry/tools/on.py <day> pravilnik-2021-554`).
 
 ## Decisions made by hand
 

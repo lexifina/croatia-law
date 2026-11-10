@@ -267,7 +267,7 @@ Zakon o izmjenama i dopunama Zakona o kaznenom postupku · 1 versions, from 2013
 | čl. 261 | [clanak-261.md](clanak-261.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2013-3090` (tags `zakon-2013-3090/<day>`; `python tools/on.py <day> zakon-2013-3090`).
+Act id: `zakon-2013-3090` (tags `zakon-2013-3090/<day>`; `python registry/tools/on.py <day> zakon-2013-3090`).
 
 ## Decisions made by hand
 

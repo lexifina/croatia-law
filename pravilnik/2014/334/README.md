@@ -19,7 +19,7 @@ Pravilnik o tehničkim i mjeriteljskim zahtjevima za ovlašćivanje servisa za p
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2014-334` (tags `pravilnik-2014-334/<day>`; `python tools/on.py <day> pravilnik-2014-334`).
+Act id: `pravilnik-2014-334` (tags `pravilnik-2014-334/<day>`; `python registry/tools/on.py <day> pravilnik-2014-334`).
 
 ## Decisions made by hand
 

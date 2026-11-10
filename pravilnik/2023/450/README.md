@@ -15,7 +15,7 @@ Pravilnik o sadržaju, načinu vođenja i uvjetima korištenja evidencije o osob
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2023-450` (tags `pravilnik-2023-450/<day>`; `python tools/on.py <day> pravilnik-2023-450`).
+Act id: `pravilnik-2023-450` (tags `pravilnik-2023-450/<day>`; `python registry/tools/on.py <day> pravilnik-2023-450`).
 
 ## Decisions made by hand
 

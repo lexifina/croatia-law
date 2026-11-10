@@ -24,7 +24,7 @@ Uredba o osnivanju Centra za profesionalnu rehabilitaciju »Zagreb« · 1 versio
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2019-189` (tags `uredba-2019-189/<day>`; `python tools/on.py <day> uredba-2019-189`).
+Act id: `uredba-2019-189` (tags `uredba-2019-189/<day>`; `python registry/tools/on.py <day> uredba-2019-189`).
 
 ## Decisions made by hand
 

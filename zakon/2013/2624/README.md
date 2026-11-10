@@ -16,7 +16,7 @@ Zakon o provedbi Uredbe Europske unije o europskim fondovima poduzetničkog kapi
 | čl. 10 | [clanak-010.md](clanak-010.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2013-2624` (tags `zakon-2013-2624/<day>`; `python tools/on.py <day> zakon-2013-2624`).
+Act id: `zakon-2013-2624` (tags `zakon-2013-2624/<day>`; `python registry/tools/on.py <day> zakon-2013-2624`).
 
 ## Status
 

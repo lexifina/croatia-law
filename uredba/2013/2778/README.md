@@ -20,7 +20,7 @@ Uredba o naknadi za poticanje proizvodnje električne energije iz obnovljivih iz
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2013-2778` (tags `uredba-2013-2778/<day>`; `python tools/on.py <day> uredba-2013-2778`).
+Act id: `uredba-2013-2778` (tags `uredba-2013-2778/<day>`; `python registry/tools/on.py <day> uredba-2013-2778`).
 
 ## Status
 

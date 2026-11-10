@@ -17,7 +17,7 @@ Pravilnik o stranim jezicima u oružanim snagama Republike Hrvatske · 1 version
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2014-166` (tags `pravilnik-2014-166/<day>`; `python tools/on.py <day> pravilnik-2014-166`).
+Act id: `pravilnik-2014-166` (tags `pravilnik-2014-166/<day>`; `python registry/tools/on.py <day> pravilnik-2014-166`).
 
 ## Status
 

@@ -14,7 +14,7 @@ Zakon o izmjenama i dopunama Zakona o Nacionalnom preventivnom mehanizmu za spre
 | čl. 8 | [clanak-008.md](clanak-008.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2015-682` (tags `zakon-2015-682/<day>`; `python tools/on.py <day> zakon-2015-682`).
+Act id: `zakon-2015-682` (tags `zakon-2015-682/<day>`; `python registry/tools/on.py <day> zakon-2015-682`).
 
 ## Decisions made by hand
 

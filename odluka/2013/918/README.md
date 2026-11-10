@@ -8,7 +8,7 @@ Odluka o sanaciji Opće bolnice "Dr. Josip Benčević" Slavonski Brod · 1 versi
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2013-918` (tags `odluka-2013-918/<day>`; `python tools/on.py <day> odluka-2013-918`).
+Act id: `odluka-2013-918` (tags `odluka-2013-918/<day>`; `python registry/tools/on.py <day> odluka-2013-918`).
 
 ## Status
 

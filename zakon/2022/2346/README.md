@@ -25,7 +25,7 @@ Zakon o izmjenama i dopunama Zakona o udrugama · 1 versions, from 2023-01-01 (l
 | čl. 19 | [clanak-019.md](clanak-019.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2022-2346` (tags `zakon-2022-2346/<day>`; `python tools/on.py <day> zakon-2022-2346`).
+Act id: `zakon-2022-2346` (tags `zakon-2022-2346/<day>`; `python registry/tools/on.py <day> zakon-2022-2346`).
 
 ## Decisions made by hand
 

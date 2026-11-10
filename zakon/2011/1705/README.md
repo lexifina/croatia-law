@@ -57,7 +57,7 @@ Zakon o izmjenama i dopunama Zakona o kaznenom postupku · 1 versions, from 2011
 | čl. 51 | [clanak-051.md](clanak-051.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2011-1705` (tags `zakon-2011-1705/<day>`; `python tools/on.py <day> zakon-2011-1705`).
+Act id: `zakon-2011-1705` (tags `zakon-2011-1705/<day>`; `python registry/tools/on.py <day> zakon-2011-1705`).
 
 ## Decisions made by hand
 

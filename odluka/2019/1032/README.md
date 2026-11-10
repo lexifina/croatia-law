@@ -8,7 +8,7 @@ Odluka o izmjenama Odluke o naknadi za posebne oblike rada u službi · 1 versio
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2019-1032` (tags `odluka-2019-1032/<day>`; `python tools/on.py <day> odluka-2019-1032`).
+Act id: `odluka-2019-1032` (tags `odluka-2019-1032/<day>`; `python registry/tools/on.py <day> odluka-2019-1032`).
 
 ## Decisions made by hand
 

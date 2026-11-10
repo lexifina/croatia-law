@@ -10,7 +10,7 @@ Pravilnik o izmjenama Pravilnika o upisu u Upisnik trgovaca voćem i povrćem ·
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2017-496` (tags `pravilnik-2017-496/<day>`; `python tools/on.py <day> pravilnik-2017-496`).
+Act id: `pravilnik-2017-496` (tags `pravilnik-2017-496/<day>`; `python registry/tools/on.py <day> pravilnik-2017-496`).
 
 ## Decisions made by hand
 

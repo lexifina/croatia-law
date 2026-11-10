@@ -55,7 +55,7 @@ Statut Centra za regionalne aktivnosti Programa prioritetnih akcija - Priority A
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `statut-2015-2019` (tags `statut-2015-2019/<day>`; `python tools/on.py <day> statut-2015-2019`).
+Act id: `statut-2015-2019` (tags `statut-2015-2019/<day>`; `python registry/tools/on.py <day> statut-2015-2019`).
 
 ## Decisions made by hand
 

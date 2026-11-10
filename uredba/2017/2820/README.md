@@ -46,7 +46,7 @@ Uredba o mjerilima za plaće i drugim materijalnim pravima diplomatskih osoba Mi
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2017-2820` (tags `uredba-2017-2820/<day>`; `python tools/on.py <day> uredba-2017-2820`).
+Act id: `uredba-2017-2820` (tags `uredba-2017-2820/<day>`; `python registry/tools/on.py <day> uredba-2017-2820`).
 
 ## Status
 

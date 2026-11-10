@@ -9,7 +9,7 @@ Naredba o izmjeni Naredbe o popisu zemalja, njihovih područja ili dijelova iz k
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `naredba-2012-2158` (tags `naredba-2012-2158/<day>`; `python tools/on.py <day> naredba-2012-2158`).
+Act id: `naredba-2012-2158` (tags `naredba-2012-2158/<day>`; `python registry/tools/on.py <day> naredba-2012-2158`).
 
 ## Decisions made by hand
 

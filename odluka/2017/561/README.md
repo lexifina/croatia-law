@@ -9,7 +9,7 @@ Odluka o prestanku važenja Statističkih standarda za godišnje istraživanje o
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2017-561` (tags `odluka-2017-561/<day>`; `python tools/on.py <day> odluka-2017-561`).
+Act id: `odluka-2017-561` (tags `odluka-2017-561/<day>`; `python registry/tools/on.py <day> odluka-2017-561`).
 
 ## Decisions made by hand
 

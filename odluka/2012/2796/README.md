@@ -9,7 +9,7 @@ Odluka o sadržaju i obliku u kojem se potrošaču daju informacije prije ugovar
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2012-2796` (tags `odluka-2012-2796/<day>`; `python tools/on.py <day> odluka-2012-2796`).
+Act id: `odluka-2012-2796` (tags `odluka-2012-2796/<day>`; `python registry/tools/on.py <day> odluka-2012-2796`).
 
 ## Status
 

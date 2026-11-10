@@ -9,7 +9,7 @@ Pravilnik o izmjeni Pravilnika o kontroli kakvoće soje, suncokreta i uljane rep
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2011-1657` (tags `pravilnik-2011-1657/<day>`; `python tools/on.py <day> pravilnik-2011-1657`).
+Act id: `pravilnik-2011-1657` (tags `pravilnik-2011-1657/<day>`; `python registry/tools/on.py <day> pravilnik-2011-1657`).
 
 ## Decisions made by hand
 

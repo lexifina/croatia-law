@@ -53,7 +53,7 @@ Pravilnik o uvjetima i načinu prijevoza opasnih roba zrakom · 1 versions, from
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2019-442` (tags `pravilnik-2019-442/<day>`; `python tools/on.py <day> pravilnik-2019-442`).
+Act id: `pravilnik-2019-442` (tags `pravilnik-2019-442/<day>`; `python registry/tools/on.py <day> pravilnik-2019-442`).
 
 ## Status
 

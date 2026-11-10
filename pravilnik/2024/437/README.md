@@ -27,7 +27,7 @@ Pravilnik o naknadama i troškovima za usluge i postupke koje provodi Hrvatska a
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2024-437` (tags `pravilnik-2024-437/<day>`; `python tools/on.py <day> pravilnik-2024-437`).
+Act id: `pravilnik-2024-437` (tags `pravilnik-2024-437/<day>`; `python registry/tools/on.py <day> pravilnik-2024-437`).
 
 ## Decisions made by hand
 

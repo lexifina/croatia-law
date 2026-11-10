@@ -8,7 +8,7 @@ Odluka o izmjeni Odluke o proglašenju »Međunarodnog dana sjećanja na romske 
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2017-711` (tags `odluka-2017-711/<day>`; `python tools/on.py <day> odluka-2017-711`).
+Act id: `odluka-2017-711` (tags `odluka-2017-711/<day>`; `python registry/tools/on.py <day> odluka-2017-711`).
 
 ## Decisions made by hand
 

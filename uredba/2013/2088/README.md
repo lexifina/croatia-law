@@ -13,7 +13,7 @@ Uredba o visini trošarina na motorne benzine, plinsko ulje i kerozin · 1 versi
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2013-2088` (tags `uredba-2013-2088/<day>`; `python tools/on.py <day> uredba-2013-2088`).
+Act id: `uredba-2013-2088` (tags `uredba-2013-2088/<day>`; `python registry/tools/on.py <day> uredba-2013-2088`).
 
 ## Status
 

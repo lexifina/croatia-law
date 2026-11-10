@@ -12,7 +12,7 @@ Pravilnik o izmjenama Pravilnika o izobrazbi · 1 versions, from 2018-03-24 (lat
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2018-575` (tags `pravilnik-2018-575/<day>`; `python tools/on.py <day> pravilnik-2018-575`).
+Act id: `pravilnik-2018-575` (tags `pravilnik-2018-575/<day>`; `python registry/tools/on.py <day> pravilnik-2018-575`).
 
 ## Decisions made by hand
 

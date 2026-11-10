@@ -50,7 +50,7 @@ Statut Hrvatske komore socijalnih radnika · 1 versions, from 2021-09-18 (latest
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `statut-2021-1793` (tags `statut-2021-1793/<day>`; `python tools/on.py <day> statut-2021-1793`).
+Act id: `statut-2021-1793` (tags `statut-2021-1793/<day>`; `python registry/tools/on.py <day> statut-2021-1793`).
 
 ## Decisions made by hand
 

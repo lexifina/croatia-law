@@ -8,7 +8,7 @@ Odluka o osnivanju Konzulata Republike Hrvatske u Sjedinjenim Američkim Država
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2022-250` (tags `odluka-2022-250/<day>`; `python tools/on.py <day> odluka-2022-250`).
+Act id: `odluka-2022-250` (tags `odluka-2022-250/<day>`; `python registry/tools/on.py <day> odluka-2022-250`).
 
 ## Decisions made by hand
 

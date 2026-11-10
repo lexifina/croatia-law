@@ -8,7 +8,7 @@ Odluka o davanju prethodne suglasnosti na Prijedlog dopuna Statuta Središnjeg r
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2017-1172` (tags `odluka-2017-1172/<day>`; `python tools/on.py <day> odluka-2017-1172`).
+Act id: `odluka-2017-1172` (tags `odluka-2017-1172/<day>`; `python registry/tools/on.py <day> odluka-2017-1172`).
 
 ## Decisions made by hand
 

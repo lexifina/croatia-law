@@ -12,7 +12,7 @@ Odluka o izmjenama Odluke o porezima Grada Požege · 1 versions, from 2024-01-0
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2023-2407` (tags `odluka-2023-2407/<day>`; `python tools/on.py <day> odluka-2023-2407`).
+Act id: `odluka-2023-2407` (tags `odluka-2023-2407/<day>`; `python registry/tools/on.py <day> odluka-2023-2407`).
 
 ## Decisions made by hand
 

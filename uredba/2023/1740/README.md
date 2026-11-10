@@ -9,7 +9,7 @@ Uredba o visini minimalne plaće za 2024. godinu · 1 versions, from 2024-01-01 
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2023-1740` (tags `uredba-2023-1740/<day>`; `python tools/on.py <day> uredba-2023-1740`).
+Act id: `uredba-2023-1740` (tags `uredba-2023-1740/<day>`; `python registry/tools/on.py <day> uredba-2023-1740`).
 
 ## Decisions made by hand
 

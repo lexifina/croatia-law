@@ -14,7 +14,7 @@ Pravilnik o obliku, sadržaju i načinu vođenja knjige gostiju i popisa gostiju
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2015-2613` (tags `pravilnik-2015-2613/<day>`; `python tools/on.py <day> pravilnik-2015-2613`).
+Act id: `pravilnik-2015-2613` (tags `pravilnik-2015-2613/<day>`; `python registry/tools/on.py <day> pravilnik-2015-2613`).
 
 ## Status
 

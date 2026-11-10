@@ -9,7 +9,7 @@ Pravilnik o izmjenama Pravilnika o izgledu, sadržaju i načinu vođenja zapisni
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2012-2129` (tags `pravilnik-2012-2129/<day>`; `python tools/on.py <day> pravilnik-2012-2129`).
+Act id: `pravilnik-2012-2129` (tags `pravilnik-2012-2129/<day>`; `python registry/tools/on.py <day> pravilnik-2012-2129`).
 
 ## Decisions made by hand
 

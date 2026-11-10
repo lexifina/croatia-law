@@ -9,7 +9,7 @@ Pravilnik o izmjeni Pravilnika o mjerilima i načinu za određivanje cijena lije
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2015-1643` (tags `pravilnik-2015-1643/<day>`; `python tools/on.py <day> pravilnik-2015-1643`).
+Act id: `pravilnik-2015-1643` (tags `pravilnik-2015-1643/<day>`; `python registry/tools/on.py <day> pravilnik-2015-1643`).
 
 ## Decisions made by hand
 

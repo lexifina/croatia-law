@@ -5,7 +5,7 @@ Uredba o jedinstvenom sučelju za formalnosti u pomorskom prometu · 2 versions,
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `uredba-2015-2245` (tags `uredba-2015-2245/<day>`; `python tools/on.py <day> uredba-2015-2245`).
+Act id: `uredba-2015-2245` (tags `uredba-2015-2245/<day>`; `python registry/tools/on.py <day> uredba-2015-2245`).
 
 ## Decisions made by hand
 

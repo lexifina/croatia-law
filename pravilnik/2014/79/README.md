@@ -13,7 +13,7 @@ Pravilnik o mjerilima za davanje odobrenja zdravstvenom radniku za sklapanje pos
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2014-79` (tags `pravilnik-2014-79/<day>`; `python tools/on.py <day> pravilnik-2014-79`).
+Act id: `pravilnik-2014-79` (tags `pravilnik-2014-79/<day>`; `python registry/tools/on.py <day> pravilnik-2014-79`).
 
 ## Status
 

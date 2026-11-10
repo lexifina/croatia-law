@@ -30,7 +30,7 @@ Pravilnik o izmjenama i dopunama Pravilnika o ortopedskim i drugim pomagalima ·
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2020-1525` (tags `pravilnik-2020-1525/<day>`; `python tools/on.py <day> pravilnik-2020-1525`).
+Act id: `pravilnik-2020-1525` (tags `pravilnik-2020-1525/<day>`; `python registry/tools/on.py <day> pravilnik-2020-1525`).
 
 ## Decisions made by hand
 

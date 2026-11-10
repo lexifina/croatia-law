@@ -18,7 +18,7 @@ Zakon o izmjenama i dopunama Zakona o industrijskom dizajnu · 1 versions, from 
 | čl. 12 | [clanak-012.md](clanak-012.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2011-1100` (tags `zakon-2011-1100/<day>`; `python tools/on.py <day> zakon-2011-1100`).
+Act id: `zakon-2011-1100` (tags `zakon-2011-1100/<day>`; `python registry/tools/on.py <day> zakon-2011-1100`).
 
 ## Decisions made by hand
 

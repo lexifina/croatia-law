@@ -36,7 +36,7 @@ Zakon o izmjenama i dopunama Zakona o veterinarsko-medicinskim proizvodima · 1 
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 
-Act id: `zakon-2015-276` (tags `zakon-2015-276/<day>`; `python tools/on.py <day> zakon-2015-276`).
+Act id: `zakon-2015-276` (tags `zakon-2015-276/<day>`; `python registry/tools/on.py <day> zakon-2015-276`).
 
 ## Decisions made by hand
 

@@ -8,7 +8,7 @@ Odluka o prestanku važenja Odluke o koncesiji na pomorskom dobru u svrhu izgrad
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2013-490` (tags `odluka-2013-490/<day>`; `python tools/on.py <day> odluka-2013-490`).
+Act id: `odluka-2013-490` (tags `odluka-2013-490/<day>`; `python registry/tools/on.py <day> odluka-2013-490`).
 
 ## Decisions made by hand
 

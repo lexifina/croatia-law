@@ -8,7 +8,7 @@ Odluka o određivanju tijela i osoba ovlaštenih za pokretanje postupka za zašt
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2022-1569` (tags `odluka-2022-1569/<day>`; `python tools/on.py <day> odluka-2022-1569`).
+Act id: `odluka-2022-1569` (tags `odluka-2022-1569/<day>`; `python registry/tools/on.py <day> odluka-2022-1569`).
 
 ## Decisions made by hand
 

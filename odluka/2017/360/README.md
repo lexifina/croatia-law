@@ -9,7 +9,7 @@ Odluka o prestanku važenja Metodoloških osnova za prikupljanje podataka o cije
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2017-360` (tags `odluka-2017-360/<day>`; `python tools/on.py <day> odluka-2017-360`).
+Act id: `odluka-2017-360` (tags `odluka-2017-360/<day>`; `python registry/tools/on.py <day> odluka-2017-360`).
 
 ## Decisions made by hand
 

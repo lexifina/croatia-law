@@ -8,7 +8,7 @@ Odluka o iznosu tarifnih stavki za zajamčenu opskrbu električnom energijom · 
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2024-2209` (tags `odluka-2024-2209/<day>`; `python tools/on.py <day> odluka-2024-2209`).
+Act id: `odluka-2024-2209` (tags `odluka-2024-2209/<day>`; `python registry/tools/on.py <day> odluka-2024-2209`).
 
 ## Status
 

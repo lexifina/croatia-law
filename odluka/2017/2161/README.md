@@ -5,7 +5,7 @@ Odluka o osnivanju Vijeća za genetski modificirane organizme · 2 versions, fro
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `odluka-2017-2161` (tags `odluka-2017-2161/<day>`; `python tools/on.py <day> odluka-2017-2161`).
+Act id: `odluka-2017-2161` (tags `odluka-2017-2161/<day>`; `python registry/tools/on.py <day> odluka-2017-2161`).
 
 ## Decisions made by hand
 

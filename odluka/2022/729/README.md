@@ -8,7 +8,7 @@ Odluka o donošenju Nacionalnog plana za prava djece u Republici Hrvatskoj za ra
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2022-729` (tags `odluka-2022-729/<day>`; `python tools/on.py <day> odluka-2022-729`).
+Act id: `odluka-2022-729` (tags `odluka-2022-729/<day>`; `python registry/tools/on.py <day> odluka-2022-729`).
 
 ## Decisions made by hand
 

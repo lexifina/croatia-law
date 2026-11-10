@@ -11,7 +11,7 @@ Pravilnik o izmjenama Pravilnika o naknadama troškova zbog posebnih uvjeta rada
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2022-2416` (tags `pravilnik-2022-2416/<day>`; `python tools/on.py <day> pravilnik-2022-2416`).
+Act id: `pravilnik-2022-2416` (tags `pravilnik-2022-2416/<day>`; `python registry/tools/on.py <day> pravilnik-2022-2416`).
 
 ## Decisions made by hand
 

@@ -8,7 +8,7 @@ Odluka o donošenju Nacionalnog plana razvoja akvakulture za razdoblje do 2027. 
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2022-1998` (tags `odluka-2022-1998/<day>`; `python tools/on.py <day> odluka-2022-1998`).
+Act id: `odluka-2022-1998` (tags `odluka-2022-1998/<day>`; `python registry/tools/on.py <day> odluka-2022-1998`).
 
 ## Decisions made by hand
 

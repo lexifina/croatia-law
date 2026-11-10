@@ -9,7 +9,7 @@ Odluka o izmjenama i dopuni Odluke o davanju koncesije na pomorsko dobro u svrhu
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2015-1246` (tags `odluka-2015-1246/<day>`; `python tools/on.py <day> odluka-2015-1246`).
+Act id: `odluka-2015-1246` (tags `odluka-2015-1246/<day>`; `python registry/tools/on.py <day> odluka-2015-1246`).
 
 ## Decisions made by hand
 

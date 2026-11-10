@@ -5,7 +5,7 @@ Pravilnik o pretpostavkama i načinu izbora povjerenika metodom slučajnoga odab
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `pravilnik-2016-91` (tags `pravilnik-2016-91/<day>`; `python tools/on.py <day> pravilnik-2016-91`).
+Act id: `pravilnik-2016-91` (tags `pravilnik-2016-91/<day>`; `python registry/tools/on.py <day> pravilnik-2016-91`).
 
 ## Decisions made by hand
 

@@ -8,7 +8,7 @@ Odluka o prestanku važenja Odluke o osnivanju Ureda predsjednice Republike Hrva
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2025-871` (tags `odluka-2025-871/<day>`; `python tools/on.py <day> odluka-2025-871`).
+Act id: `odluka-2025-871` (tags `odluka-2025-871/<day>`; `python registry/tools/on.py <day> odluka-2025-871`).
 
 ## Decisions made by hand
 

@@ -73,7 +73,7 @@ Zakon o izmjenama i dopunama Zakona o radu · 1 versions, from 2023-01-01 (lates
 | čl. 67 | [clanak-067.md](clanak-067.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2022-2343` (tags `zakon-2022-2343/<day>`; `python tools/on.py <day> zakon-2022-2343`).
+Act id: `zakon-2022-2343` (tags `zakon-2022-2343/<day>`; `python registry/tools/on.py <day> zakon-2022-2343`).
 
 ## Decisions made by hand
 

@@ -16,7 +16,7 @@ Zakon o izmjenama i dopunama Zakona o ugostiteljskoj djelatnosti · 1 versions, 
 | čl. 10 | [clanak-010.md](clanak-010.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2012-1228` (tags `zakon-2012-1228/<day>`; `python tools/on.py <day> zakon-2012-1228`).
+Act id: `zakon-2012-1228` (tags `zakon-2012-1228/<day>`; `python registry/tools/on.py <day> zakon-2012-1228`).
 
 ## Decisions made by hand
 

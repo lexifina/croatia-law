@@ -14,7 +14,7 @@ Naputak o podacima koje sadrži izvješće o događaju koji je prouzročio smrt 
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `naputak-2012-1984` (tags `naputak-2012-1984/<day>`; `python tools/on.py <day> naputak-2012-1984`).
+Act id: `naputak-2012-1984` (tags `naputak-2012-1984/<day>`; `python registry/tools/on.py <day> naputak-2012-1984`).
 
 ## Status
 

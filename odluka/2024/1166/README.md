@@ -8,7 +8,7 @@ Odluka o izboru predsjednice, potpredsjednika i članova Odbora za turizam Hrvat
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2024-1166` (tags `odluka-2024-1166/<day>`; `python tools/on.py <day> odluka-2024-1166`).
+Act id: `odluka-2024-1166` (tags `odluka-2024-1166/<day>`; `python registry/tools/on.py <day> odluka-2024-1166`).
 
 ## Decisions made by hand
 

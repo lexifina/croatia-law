@@ -15,7 +15,7 @@ Odluka o izmjenama i dopuni Odluke o osnovama za sklapanje ugovora o provođenju
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2025-2187` (tags `odluka-2025-2187/<day>`; `python tools/on.py <day> odluka-2025-2187`).
+Act id: `odluka-2025-2187` (tags `odluka-2025-2187/<day>`; `python registry/tools/on.py <day> odluka-2025-2187`).
 
 ## Status
 

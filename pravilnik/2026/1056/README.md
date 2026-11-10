@@ -22,7 +22,7 @@ Pravilnik o izmjenama i dopunama Pravilnika o radu u sustavu eSpis · 1 versions
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2026-1056` (tags `pravilnik-2026-1056/<day>`; `python tools/on.py <day> pravilnik-2026-1056`).
+Act id: `pravilnik-2026-1056` (tags `pravilnik-2026-1056/<day>`; `python registry/tools/on.py <day> pravilnik-2026-1056`).
 
 ## Decisions made by hand
 

@@ -31,7 +31,7 @@ Zakon o izmjenama i dopunama Zakona o strukovnom obrazovanju · 1 versions, from
 | čl. 25 | [clanak-025.md](clanak-025.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2022-1024` (tags `zakon-2022-1024/<day>`; `python tools/on.py <day> zakon-2022-1024`).
+Act id: `zakon-2022-1024` (tags `zakon-2022-1024/<day>`; `python registry/tools/on.py <day> zakon-2022-1024`).
 
 ## Decisions made by hand
 

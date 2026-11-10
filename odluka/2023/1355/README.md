@@ -9,7 +9,7 @@ Odluka o raspodjeli sredstava za financiranje obrazovnih, znanstvenih, kulturnih
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2023-1355` (tags `odluka-2023-1355/<day>`; `python tools/on.py <day> odluka-2023-1355`).
+Act id: `odluka-2023-1355` (tags `odluka-2023-1355/<day>`; `python registry/tools/on.py <day> odluka-2023-1355`).
 
 ## Decisions made by hand
 

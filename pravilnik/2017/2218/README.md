@@ -9,7 +9,7 @@ Pravilnik o izmjeni Pravilnika o cestarini · 1 versions, from 2017-10-05 (lates
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2017-2218` (tags `pravilnik-2017-2218/<day>`; `python tools/on.py <day> pravilnik-2017-2218`).
+Act id: `pravilnik-2017-2218` (tags `pravilnik-2017-2218/<day>`; `python registry/tools/on.py <day> pravilnik-2017-2218`).
 
 ## Decisions made by hand
 

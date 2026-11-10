@@ -13,7 +13,7 @@ Uredba o izmjenama Uredbe o osnivanju Javne ustanove »Park prirode Biokovo« ·
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2025-1001` (tags `uredba-2025-1001/<day>`; `python tools/on.py <day> uredba-2025-1001`).
+Act id: `uredba-2025-1001` (tags `uredba-2025-1001/<day>`; `python registry/tools/on.py <day> uredba-2025-1001`).
 
 ## Decisions made by hand
 

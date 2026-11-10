@@ -5,7 +5,7 @@ Uredba o dopuni Zakona o energiji · 2 versions, from 2015-09-05 (latest in forc
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `uredba-2015-1825` (tags `uredba-2015-1825/<day>`; `python tools/on.py <day> uredba-2015-1825`).
+Act id: `uredba-2015-1825` (tags `uredba-2015-1825/<day>`; `python registry/tools/on.py <day> uredba-2015-1825`).
 
 ## Decisions made by hand
 

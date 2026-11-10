@@ -5,7 +5,7 @@ Odluka o osnivanju Nacionalnog koordinacijskog odbora za europske strukturne i i
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `odluka-2015-1592` (tags `odluka-2015-1592/<day>`; `python tools/on.py <day> odluka-2015-1592`).
+Act id: `odluka-2015-1592` (tags `odluka-2015-1592/<day>`; `python registry/tools/on.py <day> odluka-2015-1592`).
 
 ## Decisions made by hand
 

@@ -5,7 +5,7 @@ Odluka o potvrđivanju Konačne liste vlasnika špekulativnih zaliha šećera ·
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `odluka-2015-720` (tags `odluka-2015-720/<day>`; `python tools/on.py <day> odluka-2015-720`).
+Act id: `odluka-2015-720` (tags `odluka-2015-720/<day>`; `python registry/tools/on.py <day> odluka-2015-720`).
 
 ## Decisions made by hand
 

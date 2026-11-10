@@ -42,7 +42,7 @@ Pravilnik o izmjenama i dopunama Pravilnika o provedbi intervencija iz sektora v
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2025-26` (tags `pravilnik-2025-26/<day>`; `python tools/on.py <day> pravilnik-2025-26`).
+Act id: `pravilnik-2025-26` (tags `pravilnik-2025-26/<day>`; `python registry/tools/on.py <day> pravilnik-2025-26`).
 
 ## Status
 

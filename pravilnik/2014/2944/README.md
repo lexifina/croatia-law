@@ -19,7 +19,7 @@ Pravilnik o vrstama i visini naknada za obavljanje poslova provedbe prodaje nekr
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2014-2944` (tags `pravilnik-2014-2944/<day>`; `python tools/on.py <day> pravilnik-2014-2944`).
+Act id: `pravilnik-2014-2944` (tags `pravilnik-2014-2944/<day>`; `python registry/tools/on.py <day> pravilnik-2014-2944`).
 
 ## Status
 

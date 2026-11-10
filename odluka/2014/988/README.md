@@ -8,7 +8,7 @@ Odluka o osnovnim obilježjima prigodne optjecajne novčanice od 20 kuna izdanje
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2014-988` (tags `odluka-2014-988/<day>`; `python tools/on.py <day> odluka-2014-988`).
+Act id: `odluka-2014-988` (tags `odluka-2014-988/<day>`; `python registry/tools/on.py <day> odluka-2014-988`).
 
 ## Decisions made by hand
 

@@ -5,7 +5,7 @@ Pravilnik o vrsti i visini naknada Hrvatske agencije za nadzor financijskih uslu
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `pravilnik-2019-538` (tags `pravilnik-2019-538/<day>`; `python tools/on.py <day> pravilnik-2019-538`).
+Act id: `pravilnik-2019-538` (tags `pravilnik-2019-538/<day>`; `python registry/tools/on.py <day> pravilnik-2019-538`).
 
 ## Decisions made by hand
 

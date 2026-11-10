@@ -40,7 +40,7 @@ Zakon o izmjenama i dopunama Zakona o upravnim sporovima · 1 versions, from 201
 | čl. 34 | [clanak-034.md](clanak-034.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2014-2858` (tags `zakon-2014-2858/<day>`; `python tools/on.py <day> zakon-2014-2858`).
+Act id: `zakon-2014-2858` (tags `zakon-2014-2858/<day>`; `python registry/tools/on.py <day> zakon-2014-2858`).
 
 ## Decisions made by hand
 

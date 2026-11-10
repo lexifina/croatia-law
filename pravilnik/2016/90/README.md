@@ -16,7 +16,7 @@ Pravilnik o obliku, sadržaju i načinu vođenja Očevidnika savjetovališta i p
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2016-90` (tags `pravilnik-2016-90/<day>`; `python tools/on.py <day> pravilnik-2016-90`).
+Act id: `pravilnik-2016-90` (tags `pravilnik-2016-90/<day>`; `python registry/tools/on.py <day> pravilnik-2016-90`).
 
 ## Decisions made by hand
 

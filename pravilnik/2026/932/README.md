@@ -15,7 +15,7 @@ Pravilnik o izmjenama i dopunama Pravilnika o stručnom nadzoru uzgoja drvenasti
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2026-932` (tags `pravilnik-2026-932/<day>`; `python tools/on.py <day> pravilnik-2026-932`).
+Act id: `pravilnik-2026-932` (tags `pravilnik-2026-932/<day>`; `python registry/tools/on.py <day> pravilnik-2026-932`).
 
 ## Decisions made by hand
 

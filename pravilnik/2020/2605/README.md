@@ -30,7 +30,7 @@ Pravilnik o utvrđivanju sastava sirovog mlijeka · 1 versions, from 2020-12-17 
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2020-2605` (tags `pravilnik-2020-2605/<day>`; `python tools/on.py <day> pravilnik-2020-2605`).
+Act id: `pravilnik-2020-2605` (tags `pravilnik-2020-2605/<day>`; `python registry/tools/on.py <day> pravilnik-2020-2605`).
 
 ## Decisions made by hand
 

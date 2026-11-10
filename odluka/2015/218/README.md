@@ -8,7 +8,7 @@ Odluka o izmjeni Odluke o koncesiji u svrhu gospodarskog korištenja pomorskog d
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2015-218` (tags `odluka-2015-218/<day>`; `python tools/on.py <day> odluka-2015-218`).
+Act id: `odluka-2015-218` (tags `odluka-2015-218/<day>`; `python registry/tools/on.py <day> odluka-2015-218`).
 
 ## Decisions made by hand
 

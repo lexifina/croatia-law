@@ -8,7 +8,7 @@ Odluka o subvencioniranju dijela krajnje cijene opskrbe plinom za krajnje kupce 
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2023-538` (tags `odluka-2023-538/<day>`; `python tools/on.py <day> odluka-2023-538`).
+Act id: `odluka-2023-538` (tags `odluka-2023-538/<day>`; `python registry/tools/on.py <day> odluka-2023-538`).
 
 ## Decisions made by hand
 

@@ -9,7 +9,7 @@ Odluka o prestanku važenja Odluke o uvođenju prireza porezu na dohodak Grada N
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2023-2182` (tags `odluka-2023-2182/<day>`; `python tools/on.py <day> odluka-2023-2182`).
+Act id: `odluka-2023-2182` (tags `odluka-2023-2182/<day>`; `python registry/tools/on.py <day> odluka-2023-2182`).
 
 ## Decisions made by hand
 

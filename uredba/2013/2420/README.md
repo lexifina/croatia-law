@@ -13,7 +13,7 @@ Uredba o visini troÅ¡arine na motorne benzine, plinsko ulje i kerozin za pogon Â
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2013-2420` (tags `uredba-2013-2420/<day>`; `python tools/on.py <day> uredba-2013-2420`).
+Act id: `uredba-2013-2420` (tags `uredba-2013-2420/<day>`; `python registry/tools/on.py <day> uredba-2013-2420`).
 
 ## Status
 

@@ -269,7 +269,7 @@ Uredba o izmjenama i dopunama Uredbe o unutarnjem ustrojstvu Ministarstva unutar
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2022-71` (tags `uredba-2022-71/<day>`; `python tools/on.py <day> uredba-2022-71`).
+Act id: `uredba-2022-71` (tags `uredba-2022-71/<day>`; `python registry/tools/on.py <day> uredba-2022-71`).
 
 ## Decisions made by hand
 

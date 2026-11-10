@@ -9,7 +9,7 @@ Pravilnik o izmjenama Pravilnika o polaganju stručnog ispita, obuci i usavršav
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2019-1725` (tags `pravilnik-2019-1725/<day>`; `python tools/on.py <day> pravilnik-2019-1725`).
+Act id: `pravilnik-2019-1725` (tags `pravilnik-2019-1725/<day>`; `python registry/tools/on.py <day> pravilnik-2019-1725`).
 
 ## Decisions made by hand
 

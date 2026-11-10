@@ -49,7 +49,7 @@ Pravilnik o učestalosti, sadržaju, opsegu i načinu izvođenja povremenih sigu
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2017-2186` (tags `pravilnik-2017-2186/<day>`; `python tools/on.py <day> pravilnik-2017-2186`).
+Act id: `pravilnik-2017-2186` (tags `pravilnik-2017-2186/<day>`; `python registry/tools/on.py <day> pravilnik-2017-2186`).
 
 ## Status
 

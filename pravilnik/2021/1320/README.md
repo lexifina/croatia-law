@@ -9,7 +9,7 @@ Pravilnik o izmjenama i dopunama Pravilnika o načinu rada Povjerenstva za polag
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2021-1320` (tags `pravilnik-2021-1320/<day>`; `python tools/on.py <day> pravilnik-2021-1320`).
+Act id: `pravilnik-2021-1320` (tags `pravilnik-2021-1320/<day>`; `python registry/tools/on.py <day> pravilnik-2021-1320`).
 
 ## Decisions made by hand
 

@@ -77,7 +77,7 @@ Statut Turističke zajednice Bjelovarsko-bilogorske županije · 1 versions, fro
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `statut-2020-2483` (tags `statut-2020-2483/<day>`; `python tools/on.py <day> statut-2020-2483`).
+Act id: `statut-2020-2483` (tags `statut-2020-2483/<day>`; `python registry/tools/on.py <day> statut-2020-2483`).
 
 ## Decisions made by hand
 

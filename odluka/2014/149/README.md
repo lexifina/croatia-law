@@ -8,7 +8,7 @@ Odluka o izmjenama i dopunama Odluke o preporukama za poticanje alternativnog i 
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2014-149` (tags `odluka-2014-149/<day>`; `python tools/on.py <day> odluka-2014-149`).
+Act id: `odluka-2014-149` (tags `odluka-2014-149/<day>`; `python registry/tools/on.py <day> odluka-2014-149`).
 
 ## Decisions made by hand
 

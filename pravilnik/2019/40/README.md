@@ -9,7 +9,7 @@ Pravilnik o izmjeni Pravilnika o uvjetima i načinu obavljanja poslova nadzora n
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2019-40` (tags `pravilnik-2019-40/<day>`; `python tools/on.py <day> pravilnik-2019-40`).
+Act id: `pravilnik-2019-40` (tags `pravilnik-2019-40/<day>`; `python registry/tools/on.py <day> pravilnik-2019-40`).
 
 ## Decisions made by hand
 

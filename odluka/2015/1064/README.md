@@ -9,7 +9,7 @@ Odluka o najvišem iznosu naknade za koncesiju za obavljanje javne zdravstvene s
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2015-1064` (tags `odluka-2015-1064/<day>`; `python tools/on.py <day> odluka-2015-1064`).
+Act id: `odluka-2015-1064` (tags `odluka-2015-1064/<day>`; `python registry/tools/on.py <day> odluka-2015-1064`).
 
 ## Decisions made by hand
 

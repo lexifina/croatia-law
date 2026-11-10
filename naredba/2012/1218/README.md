@@ -8,7 +8,7 @@ Naredba o uklanjanju strane svojte iz prirode iz otočnih ekosustava Republike H
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `naredba-2012-1218` (tags `naredba-2012-1218/<day>`; `python tools/on.py <day> naredba-2012-1218`).
+Act id: `naredba-2012-1218` (tags `naredba-2012-1218/<day>`; `python registry/tools/on.py <day> naredba-2012-1218`).
 
 ## Decisions made by hand
 

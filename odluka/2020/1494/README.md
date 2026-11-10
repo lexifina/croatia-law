@@ -8,7 +8,7 @@ Odluka o izmjeni i dopuni Odluke o nužnoj mjeri zabrane uplovljavanja putnički
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2020-1494` (tags `odluka-2020-1494/<day>`; `python tools/on.py <day> odluka-2020-1494`).
+Act id: `odluka-2020-1494` (tags `odluka-2020-1494/<day>`; `python registry/tools/on.py <day> odluka-2020-1494`).
 
 ## Decisions made by hand
 

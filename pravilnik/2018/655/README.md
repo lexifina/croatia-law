@@ -5,7 +5,7 @@ Pravilnik o upravljanju carinskim kvotama · 2 versions, from 2018-04-19 (latest
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `pravilnik-2018-655` (tags `pravilnik-2018-655/<day>`; `python tools/on.py <day> pravilnik-2018-655`).
+Act id: `pravilnik-2018-655` (tags `pravilnik-2018-655/<day>`; `python registry/tools/on.py <day> pravilnik-2018-655`).
 
 ## Decisions made by hand
 

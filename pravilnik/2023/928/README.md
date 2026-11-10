@@ -14,7 +14,7 @@ Pravilnik o određivanju ulaznih točaka za nekomercijalno premještanje kućnih
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2023-928` (tags `pravilnik-2023-928/<day>`; `python tools/on.py <day> pravilnik-2023-928`).
+Act id: `pravilnik-2023-928` (tags `pravilnik-2023-928/<day>`; `python registry/tools/on.py <day> pravilnik-2023-928`).
 
 ## Status
 

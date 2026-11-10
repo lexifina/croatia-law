@@ -8,7 +8,7 @@ Odluka o dopuni Odluke o popisu izvornih i ugroženih pasmina domaćih životinj
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2023-659` (tags `odluka-2023-659/<day>`; `python tools/on.py <day> odluka-2023-659`).
+Act id: `odluka-2023-659` (tags `odluka-2023-659/<day>`; `python registry/tools/on.py <day> odluka-2023-659`).
 
 ## Decisions made by hand
 

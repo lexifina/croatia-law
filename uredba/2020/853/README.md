@@ -10,7 +10,7 @@ Uredba o dopunama Uredbe o načinu, postupku i uvjetima procjene vrijednosti i p
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2020-853` (tags `uredba-2020-853/<day>`; `python tools/on.py <day> uredba-2020-853`).
+Act id: `uredba-2020-853` (tags `uredba-2020-853/<day>`; `python registry/tools/on.py <day> uredba-2020-853`).
 
 ## Decisions made by hand
 

@@ -17,7 +17,7 @@ Uredba o ugovaranju i provedbi energetske usluge u javnom sektoru · 1 versions,
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2015-212` (tags `uredba-2015-212/<day>`; `python tools/on.py <day> uredba-2015-212`).
+Act id: `uredba-2015-212` (tags `uredba-2015-212/<day>`; `python registry/tools/on.py <day> uredba-2015-212`).
 
 ## Status
 

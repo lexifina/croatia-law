@@ -12,7 +12,7 @@ Pravilnik o izmjenama i dopunama Pravilnika o sadržaju i načinu vođenja regis
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2022-406` (tags `pravilnik-2022-406/<day>`; `python tools/on.py <day> pravilnik-2022-406`).
+Act id: `pravilnik-2022-406` (tags `pravilnik-2022-406/<day>`; `python registry/tools/on.py <day> pravilnik-2022-406`).
 
 ## Decisions made by hand
 

@@ -8,7 +8,7 @@ Odluka o visini naknade za poticanje proizvodnje biogoriva u 2012. godini · 1 v
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2011-2629` (tags `odluka-2011-2629/<day>`; `python tools/on.py <day> odluka-2011-2629`).
+Act id: `odluka-2011-2629` (tags `odluka-2011-2629/<day>`; `python registry/tools/on.py <day> odluka-2011-2629`).
 
 ## Decisions made by hand
 

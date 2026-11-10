@@ -13,7 +13,7 @@ Pravilnik o izmjenama i dopuni Pravilnika o provedbi mjere III.1. »Pripremna po
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2023-1925` (tags `pravilnik-2023-1925/<day>`; `python tools/on.py <day> pravilnik-2023-1925`).
+Act id: `pravilnik-2023-1925` (tags `pravilnik-2023-1925/<day>`; `python registry/tools/on.py <day> pravilnik-2023-1925`).
 
 ## Decisions made by hand
 

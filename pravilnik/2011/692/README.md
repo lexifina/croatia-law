@@ -8,7 +8,7 @@ Pravilnik o izmjenama i dopunama Pravilnika o postupanju s primanjima i naknadam
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2011-692` (tags `pravilnik-2011-692/<day>`; `python tools/on.py <day> pravilnik-2011-692`).
+Act id: `pravilnik-2011-692` (tags `pravilnik-2011-692/<day>`; `python registry/tools/on.py <day> pravilnik-2011-692`).
 
 ## Decisions made by hand
 

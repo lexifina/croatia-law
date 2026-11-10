@@ -8,7 +8,7 @@ Odluka o izmjenama Odluke o polaganju novčanog depozita kod Hrvatske narodne ba
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2016-2665` (tags `odluka-2016-2665/<day>`; `python tools/on.py <day> odluka-2016-2665`).
+Act id: `odluka-2016-2665` (tags `odluka-2016-2665/<day>`; `python registry/tools/on.py <day> odluka-2016-2665`).
 
 ## Decisions made by hand
 

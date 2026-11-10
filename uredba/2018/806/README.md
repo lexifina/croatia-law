@@ -5,7 +5,7 @@ Uredba o načinu ustrojavanja, sadržaju i vođenju Središnjeg elektroničkog r
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `uredba-2018-806` (tags `uredba-2018-806/<day>`; `python tools/on.py <day> uredba-2018-806`).
+Act id: `uredba-2018-806` (tags `uredba-2018-806/<day>`; `python registry/tools/on.py <day> uredba-2018-806`).
 
 ## Decisions made by hand
 

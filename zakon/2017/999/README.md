@@ -13,7 +13,7 @@ Zakon o izmjenama i dopunama Zakona o pravima i dužnostima zastupnika u Hrvatsk
 | čl. 7 | [clanak-007.md](clanak-007.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2017-999` (tags `zakon-2017-999/<day>`; `python tools/on.py <day> zakon-2017-999`).
+Act id: `zakon-2017-999` (tags `zakon-2017-999/<day>`; `python registry/tools/on.py <day> zakon-2017-999`).
 
 ## Decisions made by hand
 

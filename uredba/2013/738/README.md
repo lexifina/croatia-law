@@ -37,7 +37,7 @@ Uredba o postupcima službenog obavješćivanja u području norma, tehničkih pr
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2013-738` (tags `uredba-2013-738/<day>`; `python tools/on.py <day> uredba-2013-738`).
+Act id: `uredba-2013-738` (tags `uredba-2013-738/<day>`; `python registry/tools/on.py <day> uredba-2013-738`).
 
 ## Status
 

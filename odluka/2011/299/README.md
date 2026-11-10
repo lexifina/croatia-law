@@ -8,7 +8,7 @@ Odluka o sudjelovanju Republike Hrvatske u općem povećanju kapitala Inter-amer
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2011-299` (tags `odluka-2011-299/<day>`; `python tools/on.py <day> odluka-2011-299`).
+Act id: `odluka-2011-299` (tags `odluka-2011-299/<day>`; `python registry/tools/on.py <day> odluka-2011-299`).
 
 ## Decisions made by hand
 

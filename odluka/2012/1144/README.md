@@ -8,7 +8,7 @@ Odluka o naknadi troškova postupka pred Povjerenstvom Vlade Republike Hrvatske 
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2012-1144` (tags `odluka-2012-1144/<day>`; `python tools/on.py <day> odluka-2012-1144`).
+Act id: `odluka-2012-1144` (tags `odluka-2012-1144/<day>`; `python registry/tools/on.py <day> odluka-2012-1144`).
 
 ## Decisions made by hand
 

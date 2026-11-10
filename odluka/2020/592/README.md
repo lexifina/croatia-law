@@ -20,7 +20,7 @@ Odluka o porezima Općine Vidovec · 1 versions, from 2020-01-01 (latest in forc
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2020-592` (tags `odluka-2020-592/<day>`; `python tools/on.py <day> odluka-2020-592`).
+Act id: `odluka-2020-592` (tags `odluka-2020-592/<day>`; `python registry/tools/on.py <day> odluka-2020-592`).
 
 ## Status
 

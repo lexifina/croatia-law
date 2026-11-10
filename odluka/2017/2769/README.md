@@ -9,7 +9,7 @@ Odluka o dopuni Odluke o donošenju Nastavnoga plana i programa za srednje glazb
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2017-2769` (tags `odluka-2017-2769/<day>`; `python tools/on.py <day> odluka-2017-2769`).
+Act id: `odluka-2017-2769` (tags `odluka-2017-2769/<day>`; `python registry/tools/on.py <day> odluka-2017-2769`).
 
 ## Decisions made by hand
 

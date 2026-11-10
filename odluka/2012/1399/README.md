@@ -9,7 +9,7 @@ Odluka o provedbi programa nacionalnih promatrača i ICCAT programa regionalnih 
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2012-1399` (tags `odluka-2012-1399/<day>`; `python tools/on.py <day> odluka-2012-1399`).
+Act id: `odluka-2012-1399` (tags `odluka-2012-1399/<day>`; `python registry/tools/on.py <day> odluka-2012-1399`).
 
 ## Decisions made by hand
 

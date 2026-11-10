@@ -12,7 +12,7 @@ Zakon o izmjenama i dopunama Zakona o izdavanju pokrivenih obveznica i javnom na
 | čl. 6 | [clanak-006.md](clanak-006.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2025-2258` (tags `zakon-2025-2258/<day>`; `python tools/on.py <day> zakon-2025-2258`).
+Act id: `zakon-2025-2258` (tags `zakon-2025-2258/<day>`; `python registry/tools/on.py <day> zakon-2025-2258`).
 
 ## Decisions made by hand
 

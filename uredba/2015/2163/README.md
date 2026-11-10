@@ -12,7 +12,7 @@ Uredba o izmjenama i dopuni Uredbe o nazivima radnih mjesta i koeficijentima slo
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2015-2163` (tags `uredba-2015-2163/<day>`; `python tools/on.py <day> uredba-2015-2163`).
+Act id: `uredba-2015-2163` (tags `uredba-2015-2163/<day>`; `python registry/tools/on.py <day> uredba-2015-2163`).
 
 ## Status
 

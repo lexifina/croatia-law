@@ -11,7 +11,7 @@ Zakon o izmjenama Zakona o odgoju i obrazovanju u osnovnoj i srednjoj školi · 
 | čl. 5 | [clanak-005.md](clanak-005.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2012-442` (tags `zakon-2012-442/<day>`; `python tools/on.py <day> zakon-2012-442`).
+Act id: `zakon-2012-442` (tags `zakon-2012-442/<day>`; `python registry/tools/on.py <day> zakon-2012-442`).
 
 ## Decisions made by hand
 

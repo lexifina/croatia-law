@@ -16,7 +16,7 @@ Pravilnik o izmjenama i dopunama Pravilnika o zahtjevima za izvođenje operacija
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2016-1770` (tags `pravilnik-2016-1770/<day>`; `python tools/on.py <day> pravilnik-2016-1770`).
+Act id: `pravilnik-2016-1770` (tags `pravilnik-2016-1770/<day>`; `python registry/tools/on.py <day> pravilnik-2016-1770`).
 
 ## Decisions made by hand
 

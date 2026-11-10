@@ -66,7 +66,7 @@ Pravilnik o utvrđivanju zdravstvenih, psihičkih, tjelesnih i sigurnosnih uvjet
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2014-252` (tags `pravilnik-2014-252/<day>`; `python tools/on.py <day> pravilnik-2014-252`).
+Act id: `pravilnik-2014-252` (tags `pravilnik-2014-252/<day>`; `python registry/tools/on.py <day> pravilnik-2014-252`).
 
 ## Status
 

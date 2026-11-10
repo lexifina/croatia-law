@@ -14,7 +14,7 @@ Uredba o izmjenama i dopuni Uredbe o unutarnjem ustrojstvu Ministarstva zaštite
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2019-1652` (tags `uredba-2019-1652/<day>`; `python tools/on.py <day> uredba-2019-1652`).
+Act id: `uredba-2019-1652` (tags `uredba-2019-1652/<day>`; `python registry/tools/on.py <day> uredba-2019-1652`).
 
 ## Decisions made by hand
 

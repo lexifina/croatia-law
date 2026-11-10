@@ -8,7 +8,7 @@ Odluka o prestanku važenja Odluke o osnivanju Nacionalnog povjerenstva za suzbi
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2012-2469` (tags `odluka-2012-2469/<day>`; `python tools/on.py <day> odluka-2012-2469`).
+Act id: `odluka-2012-2469` (tags `odluka-2012-2469/<day>`; `python registry/tools/on.py <day> odluka-2012-2469`).
 
 ## Decisions made by hand
 

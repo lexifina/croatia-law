@@ -53,7 +53,7 @@ Pravilnik o organizacijskim zahtjevima za društva za upravljanje UCITS fondovim
 | čl. 47 | [clanak-047.md](clanak-047.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `pravilnik-2017-936` (tags `pravilnik-2017-936/<day>`; `python tools/on.py <day> pravilnik-2017-936`).
+Act id: `pravilnik-2017-936` (tags `pravilnik-2017-936/<day>`; `python registry/tools/on.py <day> pravilnik-2017-936`).
 
 ## Status
 

@@ -9,7 +9,7 @@ Odluka o dopuni Odluke o dopuštenoj visini tehnološkog manjka, kala, kvara, ra
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2011-2880` (tags `odluka-2011-2880/<day>`; `python tools/on.py <day> odluka-2011-2880`).
+Act id: `odluka-2011-2880` (tags `odluka-2011-2880/<day>`; `python registry/tools/on.py <day> odluka-2011-2880`).
 
 ## Decisions made by hand
 

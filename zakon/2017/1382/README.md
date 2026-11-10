@@ -30,7 +30,7 @@ Zakon o izmjenama i dopunama Zakona o državnim službenicima · 1 versions, fro
 | čl. 24 | [clanak-024.md](clanak-024.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2017-1382` (tags `zakon-2017-1382/<day>`; `python tools/on.py <day> zakon-2017-1382`).
+Act id: `zakon-2017-1382` (tags `zakon-2017-1382/<day>`; `python registry/tools/on.py <day> zakon-2017-1382`).
 
 ## Decisions made by hand
 

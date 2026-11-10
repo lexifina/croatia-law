@@ -17,7 +17,7 @@ Naredba o poduzimanju mjera za sprječavanje širenja i suzbijanje crne štitast
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `naredba-2022-1083` (tags `naredba-2022-1083/<day>`; `python tools/on.py <day> naredba-2022-1083`).
+Act id: `naredba-2022-1083` (tags `naredba-2022-1083/<day>`; `python registry/tools/on.py <day> naredba-2022-1083`).
 
 ## Decisions made by hand
 

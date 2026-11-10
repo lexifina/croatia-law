@@ -25,7 +25,7 @@ Pravilnik o provedbi Programa potpore primarnim poljoprivrednim proizvođačima 
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2020-1066` (tags `pravilnik-2020-1066/<day>`; `python tools/on.py <day> pravilnik-2020-1066`).
+Act id: `pravilnik-2020-1066` (tags `pravilnik-2020-1066/<day>`; `python registry/tools/on.py <day> pravilnik-2020-1066`).
 
 ## Status
 

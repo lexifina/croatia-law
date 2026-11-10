@@ -9,7 +9,7 @@ Uredba o izmjeni Uredbe o nazivima radnih mjesta i koeficijentima složenosti po
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2011-2849` (tags `uredba-2011-2849/<day>`; `python tools/on.py <day> uredba-2011-2849`).
+Act id: `uredba-2011-2849` (tags `uredba-2011-2849/<day>`; `python registry/tools/on.py <day> uredba-2011-2849`).
 
 ## Status
 

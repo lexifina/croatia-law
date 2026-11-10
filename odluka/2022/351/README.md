@@ -8,7 +8,7 @@ Odluka o visini opskrbnine za potrebe korisnika · 1 versions, from 2022-03-05 (
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2022-351` (tags `odluka-2022-351/<day>`; `python tools/on.py <day> odluka-2022-351`).
+Act id: `odluka-2022-351` (tags `odluka-2022-351/<day>`; `python registry/tools/on.py <day> odluka-2022-351`).
 
 ## Decisions made by hand
 

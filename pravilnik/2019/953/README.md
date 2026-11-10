@@ -21,7 +21,7 @@ Pravilnik o postupku i načinu izdavanja dopuštenja za obavljanje podvodnih akt
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2019-953` (tags `pravilnik-2019-953/<day>`; `python tools/on.py <day> pravilnik-2019-953`).
+Act id: `pravilnik-2019-953` (tags `pravilnik-2019-953/<day>`; `python registry/tools/on.py <day> pravilnik-2019-953`).
 
 ## Status
 

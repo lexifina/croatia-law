@@ -55,7 +55,7 @@ Uredba o unutarnjem ustrojstvu Državnog zavoda za intelektualno vlasništvo · 
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2012-2522` (tags `uredba-2012-2522/<day>`; `python tools/on.py <day> uredba-2012-2522`).
+Act id: `uredba-2012-2522` (tags `uredba-2012-2522/<day>`; `python registry/tools/on.py <day> uredba-2012-2522`).
 
 ## Status
 

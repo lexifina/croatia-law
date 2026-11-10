@@ -22,7 +22,7 @@ Pravilnik o sadržaju i trajanju obrazovnog programa, uvjetima za pristup ispitu
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2014-1981` (tags `pravilnik-2014-1981/<day>`; `python tools/on.py <day> pravilnik-2014-1981`).
+Act id: `pravilnik-2014-1981` (tags `pravilnik-2014-1981/<day>`; `python registry/tools/on.py <day> pravilnik-2014-1981`).
 
 ## Status
 

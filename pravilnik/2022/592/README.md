@@ -19,7 +19,7 @@ Pravilnik o ovlaštenju strojovođa · 1 versions, from 2022-04-28 (latest in fo
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2022-592` (tags `pravilnik-2022-592/<day>`; `python tools/on.py <day> pravilnik-2022-592`).
+Act id: `pravilnik-2022-592` (tags `pravilnik-2022-592/<day>`; `python registry/tools/on.py <day> pravilnik-2022-592`).
 
 ## Decisions made by hand
 

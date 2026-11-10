@@ -15,7 +15,7 @@ Odluka o osnovnim obilježjima i puštanju u optjecaj prigodnoga optjecajnoga ko
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2022-1255` (tags `odluka-2022-1255/<day>`; `python tools/on.py <day> odluka-2022-1255`).
+Act id: `odluka-2022-1255` (tags `odluka-2022-1255/<day>`; `python registry/tools/on.py <day> odluka-2022-1255`).
 
 ## Decisions made by hand
 

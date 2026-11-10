@@ -41,7 +41,7 @@ Zakon o izmjenama i dopunama Zakona o pravima hrvatskih branitelja iz Domovinsko
 | čl. 35 | [clanak-035.md](clanak-035.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2011-1194` (tags `zakon-2011-1194/<day>`; `python tools/on.py <day> zakon-2011-1194`).
+Act id: `zakon-2011-1194` (tags `zakon-2011-1194/<day>`; `python registry/tools/on.py <day> zakon-2011-1194`).
 
 ## Status
 

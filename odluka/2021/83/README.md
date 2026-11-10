@@ -11,7 +11,7 @@ Odluka o privremenom ograničenju raspodjela · 1 versions, from 2021-01-16 (lat
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2021-83` (tags `odluka-2021-83/<day>`; `python tools/on.py <day> odluka-2021-83`).
+Act id: `odluka-2021-83` (tags `odluka-2021-83/<day>`; `python registry/tools/on.py <day> odluka-2021-83`).
 
 ## Status
 

@@ -44,7 +44,7 @@ UREDBA O SPRJEČAVANJU VELIKIH NESREĆA KOJE UKLJUČUJU OPASNE TVARI · 1 versio
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2014-813` (tags `uredba-2014-813/<day>`; `python tools/on.py <day> uredba-2014-813`).
+Act id: `uredba-2014-813` (tags `uredba-2014-813/<day>`; `python registry/tools/on.py <day> uredba-2014-813`).
 
 ## Status
 

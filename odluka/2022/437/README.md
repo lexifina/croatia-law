@@ -5,7 +5,7 @@ Odluka o iznosu tarifnih stavki za skladištenje plina · 2 versions, from 2022-
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `odluka-2022-437` (tags `odluka-2022-437/<day>`; `python tools/on.py <day> odluka-2022-437`).
+Act id: `odluka-2022-437` (tags `odluka-2022-437/<day>`; `python registry/tools/on.py <day> odluka-2022-437`).
 
 ## Decisions made by hand
 

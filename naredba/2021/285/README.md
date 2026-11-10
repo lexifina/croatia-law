@@ -13,7 +13,7 @@ Naredba o mjesečnoj osnovici za obračun doprinosa za obvezna osiguranja člana
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `naredba-2021-285` (tags `naredba-2021-285/<day>`; `python tools/on.py <day> naredba-2021-285`).
+Act id: `naredba-2021-285` (tags `naredba-2021-285/<day>`; `python registry/tools/on.py <day> naredba-2021-285`).
 
 ## Status
 

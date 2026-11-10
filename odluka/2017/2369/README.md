@@ -13,7 +13,7 @@ Odluka o osnivanju Povjerenstva za gospodarske osnove · 1 versions, from 2017-1
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2017-2369` (tags `odluka-2017-2369/<day>`; `python tools/on.py <day> odluka-2017-2369`).
+Act id: `odluka-2017-2369` (tags `odluka-2017-2369/<day>`; `python registry/tools/on.py <day> odluka-2017-2369`).
 
 ## Decisions made by hand
 

@@ -12,7 +12,7 @@ Uredba o izmjenama Zakona o zdravstvenoj zaštiti · 1 versions, from 2020-12-31
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2020-2842` (tags `uredba-2020-2842/<day>`; `python tools/on.py <day> uredba-2020-2842`).
+Act id: `uredba-2020-2842` (tags `uredba-2020-2842/<day>`; `python registry/tools/on.py <day> uredba-2020-2842`).
 
 ## Decisions made by hand
 

@@ -9,7 +9,7 @@ Pravilnik o izmjenama Pravilnika o minimalno tehničko-tehnološkim uvjetima za 
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2011-3146` (tags `pravilnik-2011-3146/<day>`; `python tools/on.py <day> pravilnik-2011-3146`).
+Act id: `pravilnik-2011-3146` (tags `pravilnik-2011-3146/<day>`; `python registry/tools/on.py <day> pravilnik-2011-3146`).
 
 ## Decisions made by hand
 

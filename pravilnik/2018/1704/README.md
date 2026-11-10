@@ -8,7 +8,7 @@ Pravilnik o izmjenama i dopunama Pravilnika o postupanju središnjeg registra os
 | čl. 2 | [clanak-002.md](clanak-002.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `pravilnik-2018-1704` (tags `pravilnik-2018-1704/<day>`; `python tools/on.py <day> pravilnik-2018-1704`).
+Act id: `pravilnik-2018-1704` (tags `pravilnik-2018-1704/<day>`; `python registry/tools/on.py <day> pravilnik-2018-1704`).
 
 ## Decisions made by hand
 

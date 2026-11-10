@@ -32,7 +32,7 @@ Pravilnik o izmjenama i dopunama Pravilnika o porezu na dodanu vrijednost · 1 v
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2019-16` (tags `pravilnik-2019-16/<day>`; `python tools/on.py <day> pravilnik-2019-16`).
+Act id: `pravilnik-2019-16` (tags `pravilnik-2019-16/<day>`; `python registry/tools/on.py <day> pravilnik-2019-16`).
 
 ## Decisions made by hand
 

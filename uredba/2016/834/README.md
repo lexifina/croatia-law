@@ -11,7 +11,7 @@ Uredba o izmjenama i dopuni Uredbe o upravljanju i vođenju poslova lučkih upra
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2016-834` (tags `uredba-2016-834/<day>`; `python tools/on.py <day> uredba-2016-834`).
+Act id: `uredba-2016-834` (tags `uredba-2016-834/<day>`; `python registry/tools/on.py <day> uredba-2016-834`).
 
 ## Decisions made by hand
 

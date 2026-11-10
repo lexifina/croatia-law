@@ -9,7 +9,7 @@ Odluka o donoÅ¡enju Nacionalne strategije za prevenciju i suzbijanje terorizma Â
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2015-2105` (tags `odluka-2015-2105/<day>`; `python tools/on.py <day> odluka-2015-2105`).
+Act id: `odluka-2015-2105` (tags `odluka-2015-2105/<day>`; `python registry/tools/on.py <day> odluka-2015-2105`).
 
 ## Decisions made by hand
 

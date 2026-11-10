@@ -21,7 +21,7 @@ Odluka o uvjetima i načinu provedbe sanacijskog nadzora i nalaganju sanacijskih
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2021-1085` (tags `odluka-2021-1085/<day>`; `python tools/on.py <day> odluka-2021-1085`).
+Act id: `odluka-2021-1085` (tags `odluka-2021-1085/<day>`; `python registry/tools/on.py <day> odluka-2021-1085`).
 
 ## Decisions made by hand
 

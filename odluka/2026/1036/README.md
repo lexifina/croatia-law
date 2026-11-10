@@ -8,7 +8,7 @@ Odluka o izmjeni Odluke o donošenju kurikula općeobrazovnih predmeta za srednj
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2026-1036` (tags `odluka-2026-1036/<day>`; `python tools/on.py <day> odluka-2026-1036`).
+Act id: `odluka-2026-1036` (tags `odluka-2026-1036/<day>`; `python registry/tools/on.py <day> odluka-2026-1036`).
 
 ## Decisions made by hand
 

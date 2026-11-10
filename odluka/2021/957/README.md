@@ -8,7 +8,7 @@ Odluka o naknadi za razvoj za područje Općine Cerna (naselja: Cerna i Šiškov
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2021-957` (tags `odluka-2021-957/<day>`; `python tools/on.py <day> odluka-2021-957`).
+Act id: `odluka-2021-957` (tags `odluka-2021-957/<day>`; `python registry/tools/on.py <day> odluka-2021-957`).
 
 ## Decisions made by hand
 

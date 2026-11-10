@@ -9,7 +9,7 @@ Naredba o izmjenama i dopunama Naredbe o iznosima osnovica za obračun doprinosa
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `naredba-2013-614` (tags `naredba-2013-614/<day>`; `python tools/on.py <day> naredba-2013-614`).
+Act id: `naredba-2013-614` (tags `naredba-2013-614/<day>`; `python registry/tools/on.py <day> naredba-2013-614`).
 
 ## Decisions made by hand
 

@@ -8,7 +8,7 @@ Odluka o prestanku važenja Odluke o osnivanju Vijeća za gospodarska pitanja Pr
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2020-460` (tags `odluka-2020-460/<day>`; `python tools/on.py <day> odluka-2020-460`).
+Act id: `odluka-2020-460` (tags `odluka-2020-460/<day>`; `python registry/tools/on.py <day> odluka-2020-460`).
 
 ## Decisions made by hand
 

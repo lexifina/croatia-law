@@ -9,7 +9,7 @@ Odluka o objavi prijevoda okvira revizijskih standarda Međunarodne organizacije
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2014-2490` (tags `odluka-2014-2490/<day>`; `python tools/on.py <day> odluka-2014-2490`).
+Act id: `odluka-2014-2490` (tags `odluka-2014-2490/<day>`; `python registry/tools/on.py <day> odluka-2014-2490`).
 
 ## Status
 

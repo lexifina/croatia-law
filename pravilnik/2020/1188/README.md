@@ -5,7 +5,7 @@ Pravilnik o registru geografskih imena · 2 versions, from 2020-05-28 (latest in
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `pravilnik-2020-1188` (tags `pravilnik-2020-1188/<day>`; `python tools/on.py <day> pravilnik-2020-1188`).
+Act id: `pravilnik-2020-1188` (tags `pravilnik-2020-1188/<day>`; `python registry/tools/on.py <day> pravilnik-2020-1188`).
 
 ## Decisions made by hand
 

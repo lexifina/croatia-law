@@ -8,7 +8,7 @@ Zakon o dopuni Zakona o javnobilježničkim pristojbama · 1 versions, from 2012
 | čl. 2 | [clanak-002.md](clanak-002.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2012-2426` (tags `zakon-2012-2426/<day>`; `python tools/on.py <day> zakon-2012-2426`).
+Act id: `zakon-2012-2426` (tags `zakon-2012-2426/<day>`; `python registry/tools/on.py <day> zakon-2012-2426`).
 
 ## Decisions made by hand
 

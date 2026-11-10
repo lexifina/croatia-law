@@ -10,7 +10,7 @@ Pravilnik o izmjenama Pravilnika o registru vinograda, obveznim izjavama, prateÄ
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2017-2884` (tags `pravilnik-2017-2884/<day>`; `python tools/on.py <day> pravilnik-2017-2884`).
+Act id: `pravilnik-2017-2884` (tags `pravilnik-2017-2884/<day>`; `python registry/tools/on.py <day> pravilnik-2017-2884`).
 
 ## Decisions made by hand
 

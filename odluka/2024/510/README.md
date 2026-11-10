@@ -9,7 +9,7 @@ Odluka o usvajanju Programa EFRR zajmova Hrvatske agencije za malo gospodarstvo,
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2024-510` (tags `odluka-2024-510/<day>`; `python tools/on.py <day> odluka-2024-510`).
+Act id: `odluka-2024-510` (tags `odluka-2024-510/<day>`; `python registry/tools/on.py <day> odluka-2024-510`).
 
 ## Decisions made by hand
 

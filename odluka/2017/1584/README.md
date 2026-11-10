@@ -24,7 +24,7 @@ Odluka o lokalnim porezima Grada Siska · 1 versions, from 2017-07-01 (latest in
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2017-1584` (tags `odluka-2017-1584/<day>`; `python tools/on.py <day> odluka-2017-1584`).
+Act id: `odluka-2017-1584` (tags `odluka-2017-1584/<day>`; `python registry/tools/on.py <day> odluka-2017-1584`).
 
 ## Status
 

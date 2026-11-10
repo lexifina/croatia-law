@@ -10,7 +10,7 @@ Uredba o dopunama Uredbe o određivanju građevina, drugih zahvata u prostoru i 
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2023-1017` (tags `uredba-2023-1017/<day>`; `python tools/on.py <day> uredba-2023-1017`).
+Act id: `uredba-2023-1017` (tags `uredba-2023-1017/<day>`; `python registry/tools/on.py <day> uredba-2023-1017`).
 
 ## Decisions made by hand
 

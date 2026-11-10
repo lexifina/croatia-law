@@ -9,7 +9,7 @@ Odluka o provedbi Odluke br. 445/2014/EU Europskog parlamenta i Vijeća o uspost
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2015-1945` (tags `odluka-2015-1945/<day>`; `python tools/on.py <day> odluka-2015-1945`).
+Act id: `odluka-2015-1945` (tags `odluka-2015-1945/<day>`; `python registry/tools/on.py <day> odluka-2015-1945`).
 
 ## Decisions made by hand
 

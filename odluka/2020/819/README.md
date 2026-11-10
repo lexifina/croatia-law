@@ -8,7 +8,7 @@ Odluka o iznimnoj obustavi mjere ograničenja rada prodavaonica u kojima se prod
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2020-819` (tags `odluka-2020-819/<day>`; `python tools/on.py <day> odluka-2020-819`).
+Act id: `odluka-2020-819` (tags `odluka-2020-819/<day>`; `python registry/tools/on.py <day> odluka-2020-819`).
 
 ## Status
 

@@ -5,7 +5,7 @@ Uredba o izmjeni Zakona o službi u Oružanim snagama Republike Hrvatske · 2 ve
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `uredba-2023-2504` (tags `uredba-2023-2504/<day>`; `python tools/on.py <day> uredba-2023-2504`).
+Act id: `uredba-2023-2504` (tags `uredba-2023-2504/<day>`; `python registry/tools/on.py <day> uredba-2023-2504`).
 
 ## Decisions made by hand
 

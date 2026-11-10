@@ -19,7 +19,7 @@ Zakon o izmjenama i dopunama Zakona o mirovinskim osiguravajućim društvima · 
 | čl. 13 | [clanak-013.md](clanak-013.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2026-118` (tags `zakon-2026-118/<day>`; `python tools/on.py <day> zakon-2026-118`).
+Act id: `zakon-2026-118` (tags `zakon-2026-118/<day>`; `python registry/tools/on.py <day> zakon-2026-118`).
 
 ## Decisions made by hand
 

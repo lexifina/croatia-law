@@ -8,7 +8,7 @@ Odluka o pokretanju postupka za ustrojavanje posebnih studijskih programa za pot
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2013-2018` (tags `odluka-2013-2018/<day>`; `python tools/on.py <day> odluka-2013-2018`).
+Act id: `odluka-2013-2018` (tags `odluka-2013-2018/<day>`; `python registry/tools/on.py <day> odluka-2013-2018`).
 
 ## Decisions made by hand
 

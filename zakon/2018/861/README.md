@@ -15,7 +15,7 @@ Zakon o prestanku važenja Zakona o Centru za praćenje poslovanja energetskog s
 | čl. 9 | [clanak-009.md](clanak-009.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2018-861` (tags `zakon-2018-861/<day>`; `python tools/on.py <day> zakon-2018-861`).
+Act id: `zakon-2018-861` (tags `zakon-2018-861/<day>`; `python registry/tools/on.py <day> zakon-2018-861`).
 
 ## Decisions made by hand
 

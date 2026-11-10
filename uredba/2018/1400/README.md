@@ -10,7 +10,7 @@ Uredba o izmjenama i dopuni Uredbe o određivanju tijela za provedbu Uredbe (EZ-
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2018-1400` (tags `uredba-2018-1400/<day>`; `python tools/on.py <day> uredba-2018-1400`).
+Act id: `uredba-2018-1400` (tags `uredba-2018-1400/<day>`; `python registry/tools/on.py <day> uredba-2018-1400`).
 
 ## Decisions made by hand
 

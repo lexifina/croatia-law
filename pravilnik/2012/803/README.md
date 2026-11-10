@@ -23,7 +23,7 @@ Pravilnik o provedbi mjere potpore dohotku poljoprivrednih gospodarstava · 1 ve
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2012-803` (tags `pravilnik-2012-803/<day>`; `python tools/on.py <day> pravilnik-2012-803`).
+Act id: `pravilnik-2012-803` (tags `pravilnik-2012-803/<day>`; `python registry/tools/on.py <day> pravilnik-2012-803`).
 
 ## Decisions made by hand
 

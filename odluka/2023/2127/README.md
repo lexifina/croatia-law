@@ -10,7 +10,7 @@ Odluka o visini poreznih stopa poreza na dohodak u Općini Oprtalj - Portole · 
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2023-2127` (tags `odluka-2023-2127/<day>`; `python tools/on.py <day> odluka-2023-2127`).
+Act id: `odluka-2023-2127` (tags `odluka-2023-2127/<day>`; `python registry/tools/on.py <day> odluka-2023-2127`).
 
 ## Decisions made by hand
 

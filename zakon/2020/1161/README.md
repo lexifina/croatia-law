@@ -12,7 +12,7 @@ Zakon o izmjenama i dopunama Zakona o obveznim mirovinskim fondovima · 1 versio
 | čl. 6 | [clanak-006.md](clanak-006.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2020-1161` (tags `zakon-2020-1161/<day>`; `python tools/on.py <day> zakon-2020-1161`).
+Act id: `zakon-2020-1161` (tags `zakon-2020-1161/<day>`; `python registry/tools/on.py <day> zakon-2020-1161`).
 
 ## Decisions made by hand
 

@@ -88,7 +88,7 @@ Uredba o unutarnjem ustrojstvu Ministarstva zdravstva · 1 versions, from 2025-0
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2025-227` (tags `uredba-2025-227/<day>`; `python tools/on.py <day> uredba-2025-227`).
+Act id: `uredba-2025-227` (tags `uredba-2025-227/<day>`; `python registry/tools/on.py <day> uredba-2025-227`).
 
 ## Decisions made by hand
 

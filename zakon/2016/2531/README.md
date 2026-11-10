@@ -30,7 +30,7 @@ Zakon o izmjenama i dopunama Zakona o carinskoj službi · 1 versions, from 2016
 | čl. 24 | [clanak-024.md](clanak-024.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2016-2531` (tags `zakon-2016-2531/<day>`; `python tools/on.py <day> zakon-2016-2531`).
+Act id: `zakon-2016-2531` (tags `zakon-2016-2531/<day>`; `python registry/tools/on.py <day> zakon-2016-2531`).
 
 ## Decisions made by hand
 

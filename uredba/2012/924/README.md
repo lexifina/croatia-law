@@ -22,7 +22,7 @@ Uredba o Uredu za suzbijanje zlouporabe droga · 1 versions, from 2012-03-28 (la
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2012-924` (tags `uredba-2012-924/<day>`; `python tools/on.py <day> uredba-2012-924`).
+Act id: `uredba-2012-924` (tags `uredba-2012-924/<day>`; `python registry/tools/on.py <day> uredba-2012-924`).
 
 ## Status
 

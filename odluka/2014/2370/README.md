@@ -8,7 +8,7 @@ Odluka o postavljanju Hrvoja Petrušića za generalnog konzula Republike Hrvatsk
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2014-2370` (tags `odluka-2014-2370/<day>`; `python tools/on.py <day> odluka-2014-2370`).
+Act id: `odluka-2014-2370` (tags `odluka-2014-2370/<day>`; `python registry/tools/on.py <day> odluka-2014-2370`).
 
 ## Decisions made by hand
 

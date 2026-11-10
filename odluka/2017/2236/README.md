@@ -8,7 +8,7 @@ Odluka o donošenju Strategije socijalne skrbi za starije osobe u Republici Hrva
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2017-2236` (tags `odluka-2017-2236/<day>`; `python tools/on.py <day> odluka-2017-2236`).
+Act id: `odluka-2017-2236` (tags `odluka-2017-2236/<day>`; `python registry/tools/on.py <day> odluka-2017-2236`).
 
 ## Decisions made by hand
 

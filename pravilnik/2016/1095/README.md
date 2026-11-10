@@ -43,7 +43,7 @@ Pravilnik o službenim pomorskim navigacijskim kartama i publikacijama, njihovom
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2016-1095` (tags `pravilnik-2016-1095/<day>`; `python tools/on.py <day> pravilnik-2016-1095`).
+Act id: `pravilnik-2016-1095` (tags `pravilnik-2016-1095/<day>`; `python registry/tools/on.py <day> pravilnik-2016-1095`).
 
 ## Decisions made by hand
 

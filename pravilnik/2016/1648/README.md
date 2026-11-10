@@ -40,7 +40,7 @@ Pravilnik o načinu, uvjetima i ovlastima za obavljanje upravne istrage pomorske
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2016-1648` (tags `pravilnik-2016-1648/<day>`; `python tools/on.py <day> pravilnik-2016-1648`).
+Act id: `pravilnik-2016-1648` (tags `pravilnik-2016-1648/<day>`; `python registry/tools/on.py <day> pravilnik-2016-1648`).
 
 ## Decisions made by hand
 

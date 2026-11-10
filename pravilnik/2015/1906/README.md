@@ -5,7 +5,7 @@ Pravilnik o načinu stjecanja statusa ovlaštene osobe obalne straže · 2 versi
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `pravilnik-2015-1906` (tags `pravilnik-2015-1906/<day>`; `python tools/on.py <day> pravilnik-2015-1906`).
+Act id: `pravilnik-2015-1906` (tags `pravilnik-2015-1906/<day>`; `python registry/tools/on.py <day> pravilnik-2015-1906`).
 
 ## Decisions made by hand
 

@@ -14,7 +14,7 @@ Uredba o ljetnom računanju vremena u 2022., 2023., 2024., 2025. i 2026. godini 
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2022-127` (tags `uredba-2022-127/<day>`; `python tools/on.py <day> uredba-2022-127`).
+Act id: `uredba-2022-127` (tags `uredba-2022-127/<day>`; `python registry/tools/on.py <day> uredba-2022-127`).
 
 ## Decisions made by hand
 

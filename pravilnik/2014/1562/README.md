@@ -10,7 +10,7 @@ Pravilnik o izmjenama Pravilnika o strukturi i sadržaju godišnjih i polugodiš
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2014-1562` (tags `pravilnik-2014-1562/<day>`; `python tools/on.py <day> pravilnik-2014-1562`).
+Act id: `pravilnik-2014-1562` (tags `pravilnik-2014-1562/<day>`; `python registry/tools/on.py <day> pravilnik-2014-1562`).
 
 ## Decisions made by hand
 

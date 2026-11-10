@@ -17,7 +17,7 @@ Pravilnik o izmjenama Pravilnika o provedbi postupka akreditacije regionalnih ko
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2019-258` (tags `pravilnik-2019-258/<day>`; `python tools/on.py <day> pravilnik-2019-258`).
+Act id: `pravilnik-2019-258` (tags `pravilnik-2019-258/<day>`; `python registry/tools/on.py <day> pravilnik-2019-258`).
 
 ## Decisions made by hand
 

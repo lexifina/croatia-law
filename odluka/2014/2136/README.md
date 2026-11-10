@@ -11,7 +11,7 @@ Odluka o određivanju cijene izrade studenske iskaznice sa standardnim grafički
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2014-2136` (tags `odluka-2014-2136/<day>`; `python tools/on.py <day> odluka-2014-2136`).
+Act id: `odluka-2014-2136` (tags `odluka-2014-2136/<day>`; `python registry/tools/on.py <day> odluka-2014-2136`).
 
 ## Decisions made by hand
 

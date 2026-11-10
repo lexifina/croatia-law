@@ -5,7 +5,7 @@ Uredba o udjelu u neto isporučenoj električnoj energiji povlaštenih proizvođ
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `uredba-2021-2534` (tags `uredba-2021-2534/<day>`; `python tools/on.py <day> uredba-2021-2534`).
+Act id: `uredba-2021-2534` (tags `uredba-2021-2534/<day>`; `python registry/tools/on.py <day> uredba-2021-2534`).
 
 ## Decisions made by hand
 

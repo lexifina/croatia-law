@@ -38,7 +38,7 @@ Odluka o izmjenama i dopunama Odluke o osnovama za sklapanje ugovora o provođen
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2018-2395` (tags `odluka-2018-2395/<day>`; `python tools/on.py <day> odluka-2018-2395`).
+Act id: `odluka-2018-2395` (tags `odluka-2018-2395/<day>`; `python registry/tools/on.py <day> odluka-2018-2395`).
 
 ## Decisions made by hand
 

@@ -10,7 +10,7 @@ Naredba o dopunama i izmjenama Naredbe o provedbi i financiranju mjera sprječav
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `naredba-2025-1534` (tags `naredba-2025-1534/<day>`; `python tools/on.py <day> naredba-2025-1534`).
+Act id: `naredba-2025-1534` (tags `naredba-2025-1534/<day>`; `python registry/tools/on.py <day> naredba-2025-1534`).
 
 ## Decisions made by hand
 

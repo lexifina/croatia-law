@@ -8,7 +8,7 @@ Odluka o izmjeni Odluke o uvođenju nužne epidemiološke mjere za Vukovarsko-sr
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2020-1753` (tags `odluka-2020-1753/<day>`; `python tools/on.py <day> odluka-2020-1753`).
+Act id: `odluka-2020-1753` (tags `odluka-2020-1753/<day>`; `python registry/tools/on.py <day> odluka-2020-1753`).
 
 ## Decisions made by hand
 

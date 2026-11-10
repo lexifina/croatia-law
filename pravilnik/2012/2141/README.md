@@ -24,7 +24,7 @@ Pravilnik o načinu djelovanja Zapovjedništva civilne zaštite Republike Hrvats
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2012-2141` (tags `pravilnik-2012-2141/<day>`; `python tools/on.py <day> pravilnik-2012-2141`).
+Act id: `pravilnik-2012-2141` (tags `pravilnik-2012-2141/<day>`; `python registry/tools/on.py <day> pravilnik-2012-2141`).
 
 ## Decisions made by hand
 

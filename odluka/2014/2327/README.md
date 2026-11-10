@@ -9,7 +9,7 @@ Odluka o izmjenama Odluke o obveznoj pričuvi · 1 versions, from 2014-11-12 (la
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2014-2327` (tags `odluka-2014-2327/<day>`; `python tools/on.py <day> odluka-2014-2327`).
+Act id: `odluka-2014-2327` (tags `odluka-2014-2327/<day>`; `python registry/tools/on.py <day> odluka-2014-2327`).
 
 ## Decisions made by hand
 

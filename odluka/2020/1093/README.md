@@ -8,7 +8,7 @@ Odluka o osiguranju novčane pomoći za privremenu i nužnu zaštitu i popravak 
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2020-1093` (tags `odluka-2020-1093/<day>`; `python tools/on.py <day> odluka-2020-1093`).
+Act id: `odluka-2020-1093` (tags `odluka-2020-1093/<day>`; `python registry/tools/on.py <day> odluka-2020-1093`).
 
 ## Status
 

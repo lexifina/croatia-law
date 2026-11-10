@@ -11,7 +11,7 @@ Pravilnik o izmjenama i dopuni Pravilnika o športskom i rekreacijskom ribolovu 
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2021-1613` (tags `pravilnik-2021-1613/<day>`; `python tools/on.py <day> pravilnik-2021-1613`).
+Act id: `pravilnik-2021-1613` (tags `pravilnik-2021-1613/<day>`; `python registry/tools/on.py <day> pravilnik-2021-1613`).
 
 ## Decisions made by hand
 

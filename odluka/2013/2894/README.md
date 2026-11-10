@@ -10,7 +10,7 @@ Odluka o popisu postupaka liječenja koji se provode u okviru planirane prekogra
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2013-2894` (tags `odluka-2013-2894/<day>`; `python tools/on.py <day> odluka-2013-2894`).
+Act id: `odluka-2013-2894` (tags `odluka-2013-2894/<day>`; `python registry/tools/on.py <day> odluka-2013-2894`).
 
 ## Decisions made by hand
 

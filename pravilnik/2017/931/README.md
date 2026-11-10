@@ -18,7 +18,7 @@ Pravilnik o sadržaju i načinu vođenja registra društava za upravljanje UCITS
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 
-Act id: `pravilnik-2017-931` (tags `pravilnik-2017-931/<day>`; `python tools/on.py <day> pravilnik-2017-931`).
+Act id: `pravilnik-2017-931` (tags `pravilnik-2017-931/<day>`; `python registry/tools/on.py <day> pravilnik-2017-931`).
 
 ## Status
 

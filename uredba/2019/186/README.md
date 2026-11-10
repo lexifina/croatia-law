@@ -24,7 +24,7 @@ Uredba o osnivanju Centra za profesionalnu rehabilitaciju Osijek · 1 versions, 
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2019-186` (tags `uredba-2019-186/<day>`; `python tools/on.py <day> uredba-2019-186`).
+Act id: `uredba-2019-186` (tags `uredba-2019-186/<day>`; `python registry/tools/on.py <day> uredba-2019-186`).
 
 ## Decisions made by hand
 

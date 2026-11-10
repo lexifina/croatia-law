@@ -5,7 +5,7 @@ Odluka o lokalnim porezima Općine Unešić · 2 versions, from 2023-01-01 (late
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `odluka-2022-2365` (tags `odluka-2022-2365/<day>`; `python tools/on.py <day> odluka-2022-2365`).
+Act id: `odluka-2022-2365` (tags `odluka-2022-2365/<day>`; `python registry/tools/on.py <day> odluka-2022-2365`).
 
 ## Decisions made by hand
 

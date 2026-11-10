@@ -23,7 +23,7 @@ Pravilnik o izmjenama i dopunama Pravilnika o uvjetima za obavljanje djelatnosti
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2017-2166` (tags `pravilnik-2017-2166/<day>`; `python tools/on.py <day> pravilnik-2017-2166`).
+Act id: `pravilnik-2017-2166` (tags `pravilnik-2017-2166/<day>`; `python registry/tools/on.py <day> pravilnik-2017-2166`).
 
 ## Decisions made by hand
 

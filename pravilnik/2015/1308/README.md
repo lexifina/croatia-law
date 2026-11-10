@@ -5,7 +5,7 @@ Pravilnik o načinu i uvjetima za podnošenje zahtjeva za raspisivanje javnog po
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `pravilnik-2015-1308` (tags `pravilnik-2015-1308/<day>`; `python tools/on.py <day> pravilnik-2015-1308`).
+Act id: `pravilnik-2015-1308` (tags `pravilnik-2015-1308/<day>`; `python registry/tools/on.py <day> pravilnik-2015-1308`).
 
 ## Decisions made by hand
 

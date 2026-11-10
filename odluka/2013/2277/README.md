@@ -9,7 +9,7 @@ Odluka o donošenju Popisa robe vojne namjene, obrambenih proizvoda i nevojnih u
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2013-2277` (tags `odluka-2013-2277/<day>`; `python tools/on.py <day> odluka-2013-2277`).
+Act id: `odluka-2013-2277` (tags `odluka-2013-2277/<day>`; `python registry/tools/on.py <day> odluka-2013-2277`).
 
 ## Status
 

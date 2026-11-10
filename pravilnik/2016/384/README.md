@@ -5,7 +5,7 @@ Pravilnik o izdavanju svjedodžbe aerodroma i odobrenja za uporabu aerodroma · 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `pravilnik-2016-384` (tags `pravilnik-2016-384/<day>`; `python tools/on.py <day> pravilnik-2016-384`).
+Act id: `pravilnik-2016-384` (tags `pravilnik-2016-384/<day>`; `python registry/tools/on.py <day> pravilnik-2016-384`).
 
 ## Decisions made by hand
 

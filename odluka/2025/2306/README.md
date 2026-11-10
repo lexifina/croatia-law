@@ -8,7 +8,7 @@ Odluka o cjeniku nestandardnih usluga operatora terminala za ukapljeni prirodni 
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2025-2306` (tags `odluka-2025-2306/<day>`; `python tools/on.py <day> odluka-2025-2306`).
+Act id: `odluka-2025-2306` (tags `odluka-2025-2306/<day>`; `python registry/tools/on.py <day> odluka-2025-2306`).
 
 ## Decisions made by hand
 

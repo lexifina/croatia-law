@@ -16,7 +16,7 @@ Pravilnik o načinu utvrđivanja ispunjenosti uvjeta za otpis duga · 1 versions
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2023-102` (tags `pravilnik-2023-102/<day>`; `python tools/on.py <day> pravilnik-2023-102`).
+Act id: `pravilnik-2023-102` (tags `pravilnik-2023-102/<day>`; `python registry/tools/on.py <day> pravilnik-2023-102`).
 
 ## Decisions made by hand
 

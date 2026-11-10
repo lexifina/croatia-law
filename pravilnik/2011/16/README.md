@@ -12,7 +12,7 @@ Pravilnik o izmjenama Pravilnika o uvjetima i načinu ostvarivanja prava na orto
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2011-16` (tags `pravilnik-2011-16/<day>`; `python tools/on.py <day> pravilnik-2011-16`).
+Act id: `pravilnik-2011-16` (tags `pravilnik-2011-16/<day>`; `python registry/tools/on.py <day> pravilnik-2011-16`).
 
 ## Decisions made by hand
 

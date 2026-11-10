@@ -39,7 +39,7 @@ Pravilnik o plaćanju naknade za obavljanje poslova Hrvatske agencije za poštu 
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2012-2936` (tags `pravilnik-2012-2936/<day>`; `python tools/on.py <day> pravilnik-2012-2936`).
+Act id: `pravilnik-2012-2936` (tags `pravilnik-2012-2936/<day>`; `python registry/tools/on.py <day> pravilnik-2012-2936`).
 
 ## Status
 

@@ -11,7 +11,7 @@ Odluka o izmjenama Odluke o gradskim porezima i prirezu porezu na dohodak Grada 
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2018-194` (tags `odluka-2018-194/<day>`; `python tools/on.py <day> odluka-2018-194`).
+Act id: `odluka-2018-194` (tags `odluka-2018-194/<day>`; `python registry/tools/on.py <day> odluka-2018-194`).
 
 ## Decisions made by hand
 

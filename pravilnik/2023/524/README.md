@@ -5,7 +5,7 @@ Pravilnik o vrednovanju imovine mirovinskog osiguravajućeg društva · 2 versio
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `pravilnik-2023-524` (tags `pravilnik-2023-524/<day>`; `python tools/on.py <day> pravilnik-2023-524`).
+Act id: `pravilnik-2023-524` (tags `pravilnik-2023-524/<day>`; `python registry/tools/on.py <day> pravilnik-2023-524`).
 
 ## Decisions made by hand
 

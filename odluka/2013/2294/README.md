@@ -9,7 +9,7 @@ Odluka o iznosu tarifnih stavki u Tarifnom sustavu za usluge energetskih djelatn
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2013-2294` (tags `odluka-2013-2294/<day>`; `python tools/on.py <day> odluka-2013-2294`).
+Act id: `odluka-2013-2294` (tags `odluka-2013-2294/<day>`; `python registry/tools/on.py <day> odluka-2013-2294`).
 
 ## Decisions made by hand
 

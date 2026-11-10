@@ -18,7 +18,7 @@ Odluka o naknadi za razvoj društva Vode Vrbovsko d.o.o. za vodoopskrbu i odvodn
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2022-1113` (tags `odluka-2022-1113/<day>`; `python tools/on.py <day> odluka-2022-1113`).
+Act id: `odluka-2022-1113` (tags `odluka-2022-1113/<day>`; `python registry/tools/on.py <day> odluka-2022-1113`).
 
 ## Decisions made by hand
 

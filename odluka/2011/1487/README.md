@@ -9,7 +9,7 @@ Odluka o dopunama Odluka o objavljivanju pravila o potporama za usavršavanje ·
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2011-1487` (tags `odluka-2011-1487/<day>`; `python tools/on.py <day> odluka-2011-1487`).
+Act id: `odluka-2011-1487` (tags `odluka-2011-1487/<day>`; `python registry/tools/on.py <day> odluka-2011-1487`).
 
 ## Decisions made by hand
 

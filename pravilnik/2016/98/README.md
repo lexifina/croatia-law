@@ -14,7 +14,7 @@ Pravilnik o uvjetima za obavljanje ključne funkcije u društvu za osiguranje/dr
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2016-98` (tags `pravilnik-2016-98/<day>`; `python tools/on.py <day> pravilnik-2016-98`).
+Act id: `pravilnik-2016-98` (tags `pravilnik-2016-98/<day>`; `python registry/tools/on.py <day> pravilnik-2016-98`).
 
 ## Status
 

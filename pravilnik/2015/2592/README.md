@@ -5,7 +5,7 @@ Pravilnik o jedinstvenom europskom broju za hitne službe 112 · 2 versions, fro
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `pravilnik-2015-2592` (tags `pravilnik-2015-2592/<day>`; `python tools/on.py <day> pravilnik-2015-2592`).
+Act id: `pravilnik-2015-2592` (tags `pravilnik-2015-2592/<day>`; `python registry/tools/on.py <day> pravilnik-2015-2592`).
 
 ## Decisions made by hand
 

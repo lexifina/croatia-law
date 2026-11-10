@@ -9,7 +9,7 @@ Pravilnik o izmjeni Pravilnika o provođenju obveznog označavanja i registracij
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2011-2079` (tags `pravilnik-2011-2079/<day>`; `python tools/on.py <day> pravilnik-2011-2079`).
+Act id: `pravilnik-2011-2079` (tags `pravilnik-2011-2079/<day>`; `python registry/tools/on.py <day> pravilnik-2011-2079`).
 
 ## Decisions made by hand
 

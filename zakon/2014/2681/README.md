@@ -38,7 +38,7 @@ Zakon o izmjenama i dopunama Zakona o porezu na dohodak · 1 versions, from 2015
 | čl. 32 | [clanak-032.md](clanak-032.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2014-2681` (tags `zakon-2014-2681/<day>`; `python tools/on.py <day> zakon-2014-2681`).
+Act id: `zakon-2014-2681` (tags `zakon-2014-2681/<day>`; `python registry/tools/on.py <day> zakon-2014-2681`).
 
 ## Decisions made by hand
 

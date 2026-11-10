@@ -12,7 +12,7 @@ Zakon o izmjeni i dopunama Zakona o prijevozu u linijskom i povremenom obalnom p
 | čl. 6 | [clanak-006.md](clanak-006.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2011-318` (tags `zakon-2011-318/<day>`; `python tools/on.py <day> zakon-2011-318`).
+Act id: `zakon-2011-318` (tags `zakon-2011-318/<day>`; `python registry/tools/on.py <day> zakon-2011-318`).
 
 ## Decisions made by hand
 

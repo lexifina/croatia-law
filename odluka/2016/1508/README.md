@@ -9,7 +9,7 @@ Odluka o izmjenama Odluke o izvješćivanju o stanju određenih potraživanja i 
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2016-1508` (tags `odluka-2016-1508/<day>`; `python tools/on.py <day> odluka-2016-1508`).
+Act id: `odluka-2016-1508` (tags `odluka-2016-1508/<day>`; `python registry/tools/on.py <day> odluka-2016-1508`).
 
 ## Decisions made by hand
 

@@ -9,7 +9,7 @@ Zakon o izmjeni Zakona o porezu na dodanu vrijednost · 1 versions, from 2024-04
 | čl. 3 | [clanak-003.md](clanak-003.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2024-539` (tags `zakon-2024-539/<day>`; `python tools/on.py <day> zakon-2024-539`).
+Act id: `zakon-2024-539` (tags `zakon-2024-539/<day>`; `python registry/tools/on.py <day> zakon-2024-539`).
 
 ## Decisions made by hand
 

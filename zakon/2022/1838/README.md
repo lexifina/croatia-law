@@ -8,7 +8,7 @@ Zakon o dopuni Zakona o zdravstvenoj zaštiti · 1 versions, from 2022-10-15 (la
 | čl. 2 | [clanak-002.md](clanak-002.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2022-1838` (tags `zakon-2022-1838/<day>`; `python tools/on.py <day> zakon-2022-1838`).
+Act id: `zakon-2022-1838` (tags `zakon-2022-1838/<day>`; `python registry/tools/on.py <day> zakon-2022-1838`).
 
 ## Decisions made by hand
 

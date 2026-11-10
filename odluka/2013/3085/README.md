@@ -8,7 +8,7 @@ Odluka o dodjeli Državne nagrade za volontiranje u 2013. godini · 1 versions, 
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2013-3085` (tags `odluka-2013-3085/<day>`; `python tools/on.py <day> odluka-2013-3085`).
+Act id: `odluka-2013-3085` (tags `odluka-2013-3085/<day>`; `python registry/tools/on.py <day> odluka-2013-3085`).
 
 ## Decisions made by hand
 

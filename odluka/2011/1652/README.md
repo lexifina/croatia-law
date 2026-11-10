@@ -8,7 +8,7 @@ Odluka o načinu vođenja Zbirke podataka o međunarodnim mjerama ograničavanja
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2011-1652` (tags `odluka-2011-1652/<day>`; `python tools/on.py <day> odluka-2011-1652`).
+Act id: `odluka-2011-1652` (tags `odluka-2011-1652/<day>`; `python registry/tools/on.py <day> odluka-2011-1652`).
 
 ## Status
 

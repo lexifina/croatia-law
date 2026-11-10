@@ -10,7 +10,7 @@ Odluka o izmjeni i dopuni Odluke o stopi protucikličkoga zaštitnog sloja kapit
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2023-1192` (tags `odluka-2023-1192/<day>`; `python tools/on.py <day> odluka-2023-1192`).
+Act id: `odluka-2023-1192` (tags `odluka-2023-1192/<day>`; `python registry/tools/on.py <day> odluka-2023-1192`).
 
 ## Decisions made by hand
 

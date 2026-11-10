@@ -12,7 +12,7 @@ Pravilnik o izmjenama i dopunama Pravilnika o vođenju matične evidencije Hrvat
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2015-2386` (tags `pravilnik-2015-2386/<day>`; `python tools/on.py <day> pravilnik-2015-2386`).
+Act id: `pravilnik-2015-2386` (tags `pravilnik-2015-2386/<day>`; `python registry/tools/on.py <day> pravilnik-2015-2386`).
 
 ## Decisions made by hand
 

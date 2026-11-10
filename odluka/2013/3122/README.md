@@ -8,7 +8,7 @@ Odluka o visini udjela iz prihoda od trošarina koji se izdvaja za proizvodnju b
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2013-3122` (tags `odluka-2013-3122/<day>`; `python tools/on.py <day> odluka-2013-3122`).
+Act id: `odluka-2013-3122` (tags `odluka-2013-3122/<day>`; `python registry/tools/on.py <day> odluka-2013-3122`).
 
 ## Decisions made by hand
 

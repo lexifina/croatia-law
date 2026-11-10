@@ -12,7 +12,7 @@ Pravilnik o izmjenama i dopunama Pravilnika o kriterijima za izricanje pedagošk
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2026-257` (tags `pravilnik-2026-257/<day>`; `python tools/on.py <day> pravilnik-2026-257`).
+Act id: `pravilnik-2026-257` (tags `pravilnik-2026-257/<day>`; `python registry/tools/on.py <day> pravilnik-2026-257`).
 
 ## Decisions made by hand
 

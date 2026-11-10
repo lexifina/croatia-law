@@ -21,7 +21,7 @@ Pravilnik o potvrdi i naknadi za pravo puta · 1 versions, from 2012-01-04 (late
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2011-3151` (tags `pravilnik-2011-3151/<day>`; `python tools/on.py <day> pravilnik-2011-3151`).
+Act id: `pravilnik-2011-3151` (tags `pravilnik-2011-3151/<day>`; `python registry/tools/on.py <day> pravilnik-2011-3151`).
 
 ## Status
 
@@ -29,7 +29,6 @@ Act id: `pravilnik-2011-3151` (tags `pravilnik-2011-3151/<day>`; `python tools/o
 
 Amended or repealed by:
 
-- [Pravilnik o izmjenama i dopunama Pravilnika o potvrdi i naknadi za pravo puta (NN 151/2014)](https://narodne-novine.nn.hr/eli/sluzbeni/2014/151/2847)
 - [Pravilnik o izmjenama i dopunama Pravilnika o potvrdi i naknadi za pravo puta (NN 95/2017)](https://narodne-novine.nn.hr/eli/sluzbeni/2017/95/2201)
 
 Cited by:

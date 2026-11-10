@@ -12,7 +12,7 @@ Odluka o visini stope prireza porezu na dohodak Općine Stara Gradiška · 1 ver
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2017-824` (tags `odluka-2017-824/<day>`; `python tools/on.py <day> odluka-2017-824`).
+Act id: `odluka-2017-824` (tags `odluka-2017-824/<day>`; `python registry/tools/on.py <day> odluka-2017-824`).
 
 ## Decisions made by hand
 

@@ -8,7 +8,7 @@ Zakon o izmjeni i dopuni Zakona o sprječavanju pranja novca i financiranju tero
 | čl. 2 | [clanak-002.md](clanak-002.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2012-632` (tags `zakon-2012-632/<day>`; `python tools/on.py <day> zakon-2012-632`).
+Act id: `zakon-2012-632` (tags `zakon-2012-632/<day>`; `python registry/tools/on.py <day> zakon-2012-632`).
 
 ## Decisions made by hand
 

@@ -17,7 +17,7 @@ Pravilnik o izmjenama i dopunama Pravilnika o izračunu, visini i naplati naknad
 | čl. 11 | [clanak-011.md](clanak-011.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `pravilnik-2014-720` (tags `pravilnik-2014-720/<day>`; `python tools/on.py <day> pravilnik-2014-720`).
+Act id: `pravilnik-2014-720` (tags `pravilnik-2014-720/<day>`; `python registry/tools/on.py <day> pravilnik-2014-720`).
 
 ## Decisions made by hand
 

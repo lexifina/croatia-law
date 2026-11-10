@@ -8,7 +8,7 @@ Odluka o izmjenama Odluke o uvođenju nužnih epidemioloških mjera za područje
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2021-1018` (tags `odluka-2021-1018/<day>`; `python tools/on.py <day> odluka-2021-1018`).
+Act id: `odluka-2021-1018` (tags `odluka-2021-1018/<day>`; `python registry/tools/on.py <day> odluka-2021-1018`).
 
 ## Decisions made by hand
 

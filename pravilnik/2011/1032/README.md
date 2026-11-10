@@ -19,7 +19,7 @@ Pravilnik o evidenciji privremeno oduzete imovine u postupku oduzimanja imovinsk
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2011-1032` (tags `pravilnik-2011-1032/<day>`; `python tools/on.py <day> pravilnik-2011-1032`).
+Act id: `pravilnik-2011-1032` (tags `pravilnik-2011-1032/<day>`; `python registry/tools/on.py <day> pravilnik-2011-1032`).
 
 ## Status
 

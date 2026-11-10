@@ -9,7 +9,7 @@ Odluka o uspostavi, sadržaju i korištenju Zbirke podataka o mjerama ograničav
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2024-242` (tags `odluka-2024-242/<day>`; `python tools/on.py <day> odluka-2024-242`).
+Act id: `odluka-2024-242` (tags `odluka-2024-242/<day>`; `python registry/tools/on.py <day> odluka-2024-242`).
 
 ## Decisions made by hand
 

@@ -11,7 +11,7 @@ Odluka o najnižoj mirovini za jednu godinu mirovinskog staža od 1. srpnja 2013
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2013-2425` (tags `odluka-2013-2425/<day>`; `python tools/on.py <day> odluka-2013-2425`).
+Act id: `odluka-2013-2425` (tags `odluka-2013-2425/<day>`; `python registry/tools/on.py <day> odluka-2013-2425`).
 
 ## Decisions made by hand
 

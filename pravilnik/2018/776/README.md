@@ -53,7 +53,7 @@ Pravilnik o praćenju stanja radioaktivnosti u okolišu · 1 versions, from 2018
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2018-776` (tags `pravilnik-2018-776/<day>`; `python tools/on.py <day> pravilnik-2018-776`).
+Act id: `pravilnik-2018-776` (tags `pravilnik-2018-776/<day>`; `python registry/tools/on.py <day> pravilnik-2018-776`).
 
 ## Status
 

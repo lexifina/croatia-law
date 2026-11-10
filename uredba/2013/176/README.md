@@ -11,7 +11,7 @@ Uredba o izmjeni Uredbe o određivanju lučkog područja luke Osijek · 1 versio
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2013-176` (tags `uredba-2013-176/<day>`; `python tools/on.py <day> uredba-2013-176`).
+Act id: `uredba-2013-176` (tags `uredba-2013-176/<day>`; `python registry/tools/on.py <day> uredba-2013-176`).
 
 ## Decisions made by hand
 

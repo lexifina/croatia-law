@@ -9,7 +9,7 @@ Zakon o izmjeni Zakona o šumama · 1 versions, from 2012-02-28 (latest in force
 | čl. 3 | [clanak-003.md](clanak-003.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2012-638` (tags `zakon-2012-638/<day>`; `python tools/on.py <day> zakon-2012-638`).
+Act id: `zakon-2012-638` (tags `zakon-2012-638/<day>`; `python registry/tools/on.py <day> zakon-2012-638`).
 
 ## Decisions made by hand
 

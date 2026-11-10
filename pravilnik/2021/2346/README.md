@@ -27,7 +27,7 @@ Pravilnik o elektroničkoj komunikaciji · 1 versions, from 2022-01-01 (latest i
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2021-2346` (tags `pravilnik-2021-2346/<day>`; `python tools/on.py <day> pravilnik-2021-2346`).
+Act id: `pravilnik-2021-2346` (tags `pravilnik-2021-2346/<day>`; `python registry/tools/on.py <day> pravilnik-2021-2346`).
 
 ## Status
 

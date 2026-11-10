@@ -24,7 +24,7 @@ Pravilnik o dozvoljenim ulaganjima i ograničenjima ulaganja UCITS fonda · 1 ve
 | čl. 18 | [clanak-018.md](clanak-018.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `pravilnik-2013-1893` (tags `pravilnik-2013-1893/<day>`; `python tools/on.py <day> pravilnik-2013-1893`).
+Act id: `pravilnik-2013-1893` (tags `pravilnik-2013-1893/<day>`; `python registry/tools/on.py <day> pravilnik-2013-1893`).
 
 ## Status
 

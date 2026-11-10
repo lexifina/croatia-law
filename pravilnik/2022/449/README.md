@@ -11,7 +11,7 @@ Pravilnik o izmjenama i dopuni Pravilnika o sadržaju prijave i tehničke dokume
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2022-449` (tags `pravilnik-2022-449/<day>`; `python tools/on.py <day> pravilnik-2022-449`).
+Act id: `pravilnik-2022-449` (tags `pravilnik-2022-449/<day>`; `python registry/tools/on.py <day> pravilnik-2022-449`).
 
 ## Decisions made by hand
 

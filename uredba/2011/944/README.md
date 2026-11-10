@@ -12,7 +12,7 @@ Uredba o izmjenama Uredbe o Uredu za ljudska prava · 1 versions, from 2011-04-0
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2011-944` (tags `uredba-2011-944/<day>`; `python tools/on.py <day> uredba-2011-944`).
+Act id: `uredba-2011-944` (tags `uredba-2011-944/<day>`; `python registry/tools/on.py <day> uredba-2011-944`).
 
 ## Decisions made by hand
 

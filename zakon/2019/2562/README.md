@@ -62,7 +62,7 @@ Zakon o izmjenama i dopunama Zakona o ustanovama · 1 versions, from 2020-01-01 
 | čl. 56 | [clanak-056.md](clanak-056.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2019-2562` (tags `zakon-2019-2562/<day>`; `python tools/on.py <day> zakon-2019-2562`).
+Act id: `zakon-2019-2562` (tags `zakon-2019-2562/<day>`; `python registry/tools/on.py <day> zakon-2019-2562`).
 
 ## Decisions made by hand
 

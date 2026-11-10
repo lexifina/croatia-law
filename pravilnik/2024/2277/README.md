@@ -25,7 +25,7 @@ Pravilnik o izmjenama i dopunama Pravilnika o gospodarenju otpadom · 1 versions
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2024-2277` (tags `pravilnik-2024-2277/<day>`; `python tools/on.py <day> pravilnik-2024-2277`).
+Act id: `pravilnik-2024-2277` (tags `pravilnik-2024-2277/<day>`; `python registry/tools/on.py <day> pravilnik-2024-2277`).
 
 ## Decisions made by hand
 

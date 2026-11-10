@@ -9,7 +9,7 @@ Uredba o izmjeni Uredbe o osnivanju Središnje agencije za financiranje i ugovar
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2022-1147` (tags `uredba-2022-1147/<day>`; `python tools/on.py <day> uredba-2022-1147`).
+Act id: `uredba-2022-1147` (tags `uredba-2022-1147/<day>`; `python registry/tools/on.py <day> uredba-2022-1147`).
 
 ## Decisions made by hand
 

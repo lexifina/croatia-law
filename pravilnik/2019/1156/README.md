@@ -13,7 +13,7 @@ Pravilnik o izmjenama i dopunama Pravilnika o reviziji u društvu za osiguranje 
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2019-1156` (tags `pravilnik-2019-1156/<day>`; `python tools/on.py <day> pravilnik-2019-1156`).
+Act id: `pravilnik-2019-1156` (tags `pravilnik-2019-1156/<day>`; `python registry/tools/on.py <day> pravilnik-2019-1156`).
 
 ## Decisions made by hand
 

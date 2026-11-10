@@ -8,7 +8,7 @@ Odluka o prestanku važenja Odluke o uvođenju nužnih epidemioloških mjera za 
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2021-1216` (tags `odluka-2021-1216/<day>`; `python tools/on.py <day> odluka-2021-1216`).
+Act id: `odluka-2021-1216` (tags `odluka-2021-1216/<day>`; `python registry/tools/on.py <day> odluka-2021-1216`).
 
 ## Decisions made by hand
 

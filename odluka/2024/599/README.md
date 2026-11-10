@@ -10,7 +10,7 @@ Odluka o izmjenama i dopunama Odluke o naknadi za razvoj komunalnih vodnih građ
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2024-599` (tags `odluka-2024-599/<day>`; `python tools/on.py <day> odluka-2024-599`).
+Act id: `odluka-2024-599` (tags `odluka-2024-599/<day>`; `python registry/tools/on.py <day> odluka-2024-599`).
 
 ## Status
 

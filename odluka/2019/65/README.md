@@ -8,7 +8,7 @@ Odluka o redoslijedu i dinamici zatvaranja odlagališta · 1 versions, from 2018
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2019-65` (tags `odluka-2019-65/<day>`; `python tools/on.py <day> odluka-2019-65`).
+Act id: `odluka-2019-65` (tags `odluka-2019-65/<day>`; `python registry/tools/on.py <day> odluka-2019-65`).
 
 ## Status
 

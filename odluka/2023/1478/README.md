@@ -8,7 +8,7 @@ Odluka o visini naknade za stanovanje · 1 versions, from 2023-09-14 (latest in 
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2023-1478` (tags `odluka-2023-1478/<day>`; `python tools/on.py <day> odluka-2023-1478`).
+Act id: `odluka-2023-1478` (tags `odluka-2023-1478/<day>`; `python registry/tools/on.py <day> odluka-2023-1478`).
 
 ## Decisions made by hand
 

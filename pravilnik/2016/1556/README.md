@@ -9,7 +9,7 @@ Pravilnik o dopuni Pravilnika o sigurnosnim znakovima · 1 versions, from 2016-0
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2016-1556` (tags `pravilnik-2016-1556/<day>`; `python tools/on.py <day> pravilnik-2016-1556`).
+Act id: `pravilnik-2016-1556` (tags `pravilnik-2016-1556/<day>`; `python registry/tools/on.py <day> pravilnik-2016-1556`).
 
 ## Decisions made by hand
 

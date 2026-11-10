@@ -15,7 +15,7 @@ Pravilnik o ribolovnim mogućnostima i raspodjeli državne kvote u 2020. godini 
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2020-153` (tags `pravilnik-2020-153/<day>`; `python tools/on.py <day> pravilnik-2020-153`).
+Act id: `pravilnik-2020-153` (tags `pravilnik-2020-153/<day>`; `python registry/tools/on.py <day> pravilnik-2020-153`).
 
 ## Status
 

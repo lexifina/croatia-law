@@ -11,7 +11,7 @@ Pravilnik o izmjenama i dopunama Pravilnika o uvjetima i mjerilima za davanje ov
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2014-1315` (tags `pravilnik-2014-1315/<day>`; `python tools/on.py <day> pravilnik-2014-1315`).
+Act id: `pravilnik-2014-1315` (tags `pravilnik-2014-1315/<day>`; `python registry/tools/on.py <day> pravilnik-2014-1315`).
 
 ## Decisions made by hand
 

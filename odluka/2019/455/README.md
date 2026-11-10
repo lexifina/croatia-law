@@ -8,7 +8,7 @@ Odluka o upisu ulovnih ribarskih plovila udičarskim alatima u registar ICCAT-a 
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2019-455` (tags `odluka-2019-455/<day>`; `python tools/on.py <day> odluka-2019-455`).
+Act id: `odluka-2019-455` (tags `odluka-2019-455/<day>`; `python registry/tools/on.py <day> odluka-2019-455`).
 
 ## Decisions made by hand
 

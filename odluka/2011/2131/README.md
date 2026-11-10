@@ -9,7 +9,7 @@ Odluka o izmjeni i dopunama Odluke o Uredu predsjednika Republike Hrvatske · 1 
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2011-2131` (tags `odluka-2011-2131/<day>`; `python tools/on.py <day> odluka-2011-2131`).
+Act id: `odluka-2011-2131` (tags `odluka-2011-2131/<day>`; `python registry/tools/on.py <day> odluka-2011-2131`).
 
 ## Decisions made by hand
 

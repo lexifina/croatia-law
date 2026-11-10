@@ -9,7 +9,7 @@ Pravilnik o izmjeni i dopuni Pravilnika o uređivanju šuma · 1 versions, from 
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2020-678` (tags `pravilnik-2020-678/<day>`; `python tools/on.py <day> pravilnik-2020-678`).
+Act id: `pravilnik-2020-678` (tags `pravilnik-2020-678/<day>`; `python registry/tools/on.py <day> pravilnik-2020-678`).
 
 ## Decisions made by hand
 

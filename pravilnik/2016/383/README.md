@@ -11,7 +11,7 @@ Pravilnik o provedbi Uredbe (EZ) br. 1222/2009 Europskog parlamenta i Vijeća od
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2016-383` (tags `pravilnik-2016-383/<day>`; `python tools/on.py <day> pravilnik-2016-383`).
+Act id: `pravilnik-2016-383` (tags `pravilnik-2016-383/<day>`; `python registry/tools/on.py <day> pravilnik-2016-383`).
 
 ## Status
 

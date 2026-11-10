@@ -126,7 +126,7 @@ Uredba o unutarnjem ustrojstvu Ministarstva vanjskih i eruopskih poslova · 1 ve
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2012-281` (tags `uredba-2012-281/<day>`; `python tools/on.py <day> uredba-2012-281`).
+Act id: `uredba-2012-281` (tags `uredba-2012-281/<day>`; `python registry/tools/on.py <day> uredba-2012-281`).
 
 ## Decisions made by hand
 

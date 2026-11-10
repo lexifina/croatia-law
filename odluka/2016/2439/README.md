@@ -8,7 +8,7 @@ Odluka Hrvatske obrtničke komore broj: 2-206-5706/28-11-2016 od 10. studenoga 2
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2016-2439` (tags `odluka-2016-2439/<day>`; `python tools/on.py <day> odluka-2016-2439`).
+Act id: `odluka-2016-2439` (tags `odluka-2016-2439/<day>`; `python registry/tools/on.py <day> odluka-2016-2439`).
 
 ## Decisions made by hand
 

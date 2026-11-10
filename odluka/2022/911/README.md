@@ -8,7 +8,7 @@ Odluka o osiguranju nabave dijela energenata u cilju pouzdane i sigurne opskrbe 
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2022-911` (tags `odluka-2022-911/<day>`; `python tools/on.py <day> odluka-2022-911`).
+Act id: `odluka-2022-911` (tags `odluka-2022-911/<day>`; `python registry/tools/on.py <day> odluka-2022-911`).
 
 ## Decisions made by hand
 

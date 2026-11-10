@@ -35,7 +35,7 @@ Pravilnik o zdravstvenim pregledima vozača i kandidata za vozače · 1 versions
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2015-2577` (tags `pravilnik-2015-2577/<day>`; `python tools/on.py <day> pravilnik-2015-2577`).
+Act id: `pravilnik-2015-2577` (tags `pravilnik-2015-2577/<day>`; `python registry/tools/on.py <day> pravilnik-2015-2577`).
 
 ## Status
 

@@ -9,7 +9,7 @@ Odluka o donošenju Programa obrazovanja za stjecanje cjelovite kvalifikacije da
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2026-6` (tags `odluka-2026-6/<day>`; `python tools/on.py <day> odluka-2026-6`).
+Act id: `odluka-2026-6` (tags `odluka-2026-6/<day>`; `python registry/tools/on.py <day> odluka-2026-6`).
 
 ## Decisions made by hand
 

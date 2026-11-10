@@ -10,7 +10,7 @@ Pravilnik o izmjenama Pravilnika o kontroli poljoprivrednoga reprodukcijskog mat
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2017-545` (tags `pravilnik-2017-545/<day>`; `python tools/on.py <day> pravilnik-2017-545`).
+Act id: `pravilnik-2017-545` (tags `pravilnik-2017-545/<day>`; `python registry/tools/on.py <day> pravilnik-2017-545`).
 
 ## Decisions made by hand
 

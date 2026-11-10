@@ -12,7 +12,7 @@ Uredba o izmjenama i dopuni Uredbe o popisu robe vojne namjene, obrambenih proiz
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2019-1240` (tags `uredba-2019-1240/<day>`; `python tools/on.py <day> uredba-2019-1240`).
+Act id: `uredba-2019-1240` (tags `uredba-2019-1240/<day>`; `python registry/tools/on.py <day> uredba-2019-1240`).
 
 ## Decisions made by hand
 

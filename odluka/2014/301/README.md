@@ -8,7 +8,7 @@ Odluka o stavljanju izvan snage Odluke o izmjenama Odluke o davanju koncesije za
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2014-301` (tags `odluka-2014-301/<day>`; `python tools/on.py <day> odluka-2014-301`).
+Act id: `odluka-2014-301` (tags `odluka-2014-301/<day>`; `python registry/tools/on.py <day> odluka-2014-301`).
 
 ## Decisions made by hand
 

@@ -24,7 +24,7 @@ Zakon o izmjenama i dopuni Zakona o kemikalijama · 1 versions, from 2020-04-04 
 | čl. 18 | [clanak-018.md](clanak-018.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2020-780` (tags `zakon-2020-780/<day>`; `python tools/on.py <day> zakon-2020-780`).
+Act id: `zakon-2020-780` (tags `zakon-2020-780/<day>`; `python registry/tools/on.py <day> zakon-2020-780`).
 
 ## Decisions made by hand
 

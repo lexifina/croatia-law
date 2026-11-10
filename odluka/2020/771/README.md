@@ -15,7 +15,7 @@ Odluka o prikupljanju podataka o uvjetima kreditiranja potrošača · 1 versions
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2020-771` (tags `odluka-2020-771/<day>`; `python tools/on.py <day> odluka-2020-771`).
+Act id: `odluka-2020-771` (tags `odluka-2020-771/<day>`; `python registry/tools/on.py <day> odluka-2020-771`).
 
 ## Status
 

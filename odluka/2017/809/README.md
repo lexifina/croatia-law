@@ -8,7 +8,7 @@ Odluka o raspisivanju izbora za zamjenike općinskih načelnika, gradonačelnika
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2017-809` (tags `odluka-2017-809/<day>`; `python tools/on.py <day> odluka-2017-809`).
+Act id: `odluka-2017-809` (tags `odluka-2017-809/<day>`; `python registry/tools/on.py <day> odluka-2017-809`).
 
 ## Status
 

@@ -18,7 +18,7 @@ Pravilnik o izgledu i načinu nošenja odobre službenika za nadzor zaštitarske
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2011-992` (tags `pravilnik-2011-992/<day>`; `python tools/on.py <day> pravilnik-2011-992`).
+Act id: `pravilnik-2011-992` (tags `pravilnik-2011-992/<day>`; `python registry/tools/on.py <day> pravilnik-2011-992`).
 
 ## Decisions made by hand
 

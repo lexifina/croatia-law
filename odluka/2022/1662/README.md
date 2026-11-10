@@ -8,7 +8,7 @@ Odluka o izmjeni Odluke o davanju koncesije za osnivanje Slobodne zone Zagreb ·
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2022-1662` (tags `odluka-2022-1662/<day>`; `python tools/on.py <day> odluka-2022-1662`).
+Act id: `odluka-2022-1662` (tags `odluka-2022-1662/<day>`; `python registry/tools/on.py <day> odluka-2022-1662`).
 
 ## Decisions made by hand
 

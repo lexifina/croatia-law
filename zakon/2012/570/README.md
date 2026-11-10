@@ -24,7 +24,7 @@ Zakon o izmjenama i dopunama Zakona o porezu na dohodak · 1 versions, from 2012
 | čl. 18 | [clanak-018.md](clanak-018.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2012-570` (tags `zakon-2012-570/<day>`; `python tools/on.py <day> zakon-2012-570`).
+Act id: `zakon-2012-570` (tags `zakon-2012-570/<day>`; `python registry/tools/on.py <day> zakon-2012-570`).
 
 ## Decisions made by hand
 

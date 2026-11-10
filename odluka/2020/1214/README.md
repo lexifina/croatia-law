@@ -8,7 +8,7 @@ Odluka o provedbi privremene izvanredne mjere pomoći za proizvođače tovne jun
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2020-1214` (tags `odluka-2020-1214/<day>`; `python tools/on.py <day> odluka-2020-1214`).
+Act id: `odluka-2020-1214` (tags `odluka-2020-1214/<day>`; `python registry/tools/on.py <day> odluka-2020-1214`).
 
 ## Decisions made by hand
 

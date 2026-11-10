@@ -20,7 +20,7 @@ Pravilnik o organizacijskim zahtjevima mirovinskog osiguravajućeg društva · 1
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2024-2408` (tags `pravilnik-2024-2408/<day>`; `python tools/on.py <day> pravilnik-2024-2408`).
+Act id: `pravilnik-2024-2408` (tags `pravilnik-2024-2408/<day>`; `python registry/tools/on.py <day> pravilnik-2024-2408`).
 
 ## Decisions made by hand
 

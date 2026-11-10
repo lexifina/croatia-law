@@ -11,7 +11,7 @@ Uredba o dopunama Uredbe o kriterijima i načinu obračuna i plaćanja nagrade p
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2019-190` (tags `uredba-2019-190/<day>`; `python tools/on.py <day> uredba-2019-190`).
+Act id: `uredba-2019-190` (tags `uredba-2019-190/<day>`; `python registry/tools/on.py <day> uredba-2019-190`).
 
 ## Decisions made by hand
 

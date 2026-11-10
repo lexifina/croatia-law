@@ -9,7 +9,7 @@ Uredba o izmjeni Uredbe o nazivima radnih mjesta i koeficijentima složenosti po
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2018-1160` (tags `uredba-2018-1160/<day>`; `python tools/on.py <day> uredba-2018-1160`).
+Act id: `uredba-2018-1160` (tags `uredba-2018-1160/<day>`; `python registry/tools/on.py <day> uredba-2018-1160`).
 
 ## Decisions made by hand
 

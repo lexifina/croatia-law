@@ -8,7 +8,7 @@ Odluka o raspoređivanju sredstava za rad političkih stranaka i nezavisnih zast
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2023-1198` (tags `odluka-2023-1198/<day>`; `python tools/on.py <day> odluka-2023-1198`).
+Act id: `odluka-2023-1198` (tags `odluka-2023-1198/<day>`; `python registry/tools/on.py <day> odluka-2023-1198`).
 
 ## Status
 

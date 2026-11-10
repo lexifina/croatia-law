@@ -37,7 +37,7 @@ Odluka o lokalnim porezima Grada Pula - Pola · 1 versions, from 2017-07-01 (lat
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2017-1374` (tags `odluka-2017-1374/<day>`; `python tools/on.py <day> odluka-2017-1374`).
+Act id: `odluka-2017-1374` (tags `odluka-2017-1374/<day>`; `python registry/tools/on.py <day> odluka-2017-1374`).
 
 ## Status
 

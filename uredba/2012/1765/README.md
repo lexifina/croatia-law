@@ -9,7 +9,7 @@ Uredba o izmjeni Uredbe o visini trošarine na motorni benzin i plinsko ulje · 
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2012-1765` (tags `uredba-2012-1765/<day>`; `python tools/on.py <day> uredba-2012-1765`).
+Act id: `uredba-2012-1765` (tags `uredba-2012-1765/<day>`; `python registry/tools/on.py <day> uredba-2012-1765`).
 
 ## Decisions made by hand
 

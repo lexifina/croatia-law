@@ -8,7 +8,7 @@ Odluka o povjeravanju mandata za sastavljanje Vlade Republike Hrvatske · 1 vers
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2024-960` (tags `odluka-2024-960/<day>`; `python tools/on.py <day> odluka-2024-960`).
+Act id: `odluka-2024-960` (tags `odluka-2024-960/<day>`; `python registry/tools/on.py <day> odluka-2024-960`).
 
 ## Decisions made by hand
 

@@ -21,7 +21,7 @@ Uredba o visini naknade za korištenje voda · 1 versions, from 2026-01-01 (late
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2025-2390` (tags `uredba-2025-2390/<day>`; `python tools/on.py <day> uredba-2025-2390`).
+Act id: `uredba-2025-2390` (tags `uredba-2025-2390/<day>`; `python registry/tools/on.py <day> uredba-2025-2390`).
 
 ## Decisions made by hand
 

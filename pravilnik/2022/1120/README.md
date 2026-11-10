@@ -32,7 +32,7 @@ Pravilnik o proizvodnji, označivanju, zaštićenim oznakama, stavljanju u prome
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2022-1120` (tags `pravilnik-2022-1120/<day>`; `python tools/on.py <day> pravilnik-2022-1120`).
+Act id: `pravilnik-2022-1120` (tags `pravilnik-2022-1120/<day>`; `python registry/tools/on.py <day> pravilnik-2022-1120`).
 
 ## Status
 

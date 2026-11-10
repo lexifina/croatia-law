@@ -131,7 +131,7 @@ Zakon o izmjenama i dopunama Zakona i elektroničkim komunikacijama · 1 version
 | čl. 125 | [clanak-125.md](clanak-125.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2011-1929` (tags `zakon-2011-1929/<day>`; `python tools/on.py <day> zakon-2011-1929`).
+Act id: `zakon-2011-1929` (tags `zakon-2011-1929/<day>`; `python registry/tools/on.py <day> zakon-2011-1929`).
 
 ## Decisions made by hand
 

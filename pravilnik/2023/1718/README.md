@@ -19,7 +19,7 @@ Pravilnik o spaljivanju i suspaljivanju otpada · 1 versions, from 2023-11-02 (l
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2023-1718` (tags `pravilnik-2023-1718/<day>`; `python tools/on.py <day> pravilnik-2023-1718`).
+Act id: `pravilnik-2023-1718` (tags `pravilnik-2023-1718/<day>`; `python registry/tools/on.py <day> pravilnik-2023-1718`).
 
 ## Decisions made by hand
 

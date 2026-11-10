@@ -20,7 +20,7 @@ Pravilnik o mjerilima i načinu korištenja nenamjenskih donacija i vlastitih pr
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2023-1713` (tags `pravilnik-2023-1713/<day>`; `python tools/on.py <day> pravilnik-2023-1713`).
+Act id: `pravilnik-2023-1713` (tags `pravilnik-2023-1713/<day>`; `python registry/tools/on.py <day> pravilnik-2023-1713`).
 
 ## Decisions made by hand
 

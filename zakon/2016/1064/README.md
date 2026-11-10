@@ -10,7 +10,7 @@ Zakon o izmjeni Zakona o faktoringu · 1 versions, from 2016-05-10 (latest in fo
 | čl. 4 | [clanak-004.md](clanak-004.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2016-1064` (tags `zakon-2016-1064/<day>`; `python tools/on.py <day> zakon-2016-1064`).
+Act id: `zakon-2016-1064` (tags `zakon-2016-1064/<day>`; `python registry/tools/on.py <day> zakon-2016-1064`).
 
 ## Decisions made by hand
 

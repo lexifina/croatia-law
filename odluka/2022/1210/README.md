@@ -18,7 +18,7 @@ Odluka o naknadi za razvoj trgovačkog društva Komunalno poduzeće d.o.o., Knin
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2022-1210` (tags `odluka-2022-1210/<day>`; `python tools/on.py <day> odluka-2022-1210`).
+Act id: `odluka-2022-1210` (tags `odluka-2022-1210/<day>`; `python registry/tools/on.py <day> odluka-2022-1210`).
 
 ## Decisions made by hand
 

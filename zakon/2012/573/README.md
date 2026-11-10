@@ -10,7 +10,7 @@ Zakon o izmjenama i dopunama Zakona o obveznom zdravstvenom osiguranju · 1 vers
 | čl. 4 | [clanak-004.md](clanak-004.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2012-573` (tags `zakon-2012-573/<day>`; `python tools/on.py <day> zakon-2012-573`).
+Act id: `zakon-2012-573` (tags `zakon-2012-573/<day>`; `python registry/tools/on.py <day> zakon-2012-573`).
 
 ## Decisions made by hand
 

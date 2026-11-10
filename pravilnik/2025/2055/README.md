@@ -20,7 +20,7 @@ Pravilnik o provedbi Programa kompenzacijske mjere potpore depopuliranim područ
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2025-2055` (tags `pravilnik-2025-2055/<day>`; `python tools/on.py <day> pravilnik-2025-2055`).
+Act id: `pravilnik-2025-2055` (tags `pravilnik-2025-2055/<day>`; `python registry/tools/on.py <day> pravilnik-2025-2055`).
 
 ## Decisions made by hand
 

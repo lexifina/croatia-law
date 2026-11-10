@@ -23,7 +23,7 @@ Pravilnik o državnim potporama poljoprivredi i ruralnom razvoju · 1 versions, 
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2013-2286` (tags `pravilnik-2013-2286/<day>`; `python tools/on.py <day> pravilnik-2013-2286`).
+Act id: `pravilnik-2013-2286` (tags `pravilnik-2013-2286/<day>`; `python registry/tools/on.py <day> pravilnik-2013-2286`).
 
 ## Decisions made by hand
 

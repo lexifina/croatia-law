@@ -19,7 +19,7 @@ Zakon o naknadi za pružanje usluga u pokretnim elektroničkim komunikacijskim m
 | čl. 13 | [clanak-013.md](clanak-013.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2012-339` (tags `zakon-2012-339/<day>`; `python tools/on.py <day> zakon-2012-339`).
+Act id: `zakon-2012-339` (tags `zakon-2012-339/<day>`; `python registry/tools/on.py <day> zakon-2012-339`).
 
 ## Status
 

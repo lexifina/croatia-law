@@ -17,7 +17,7 @@ Pravilnik o postupku službenog nadzora nad proizvodnjom poljoprivrednog reprodu
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2024-1920` (tags `pravilnik-2024-1920/<day>`; `python tools/on.py <day> pravilnik-2024-1920`).
+Act id: `pravilnik-2024-1920` (tags `pravilnik-2024-1920/<day>`; `python registry/tools/on.py <day> pravilnik-2024-1920`).
 
 ## Decisions made by hand
 

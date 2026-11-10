@@ -14,7 +14,7 @@ Pravilnik o izmjenama i dopunama Pravilnika o oznakama zemljopisnog podrijetla i
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2011-1457` (tags `pravilnik-2011-1457/<day>`; `python tools/on.py <day> pravilnik-2011-1457`).
+Act id: `pravilnik-2011-1457` (tags `pravilnik-2011-1457/<day>`; `python registry/tools/on.py <day> pravilnik-2011-1457`).
 
 ## Decisions made by hand
 

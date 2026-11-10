@@ -24,7 +24,7 @@ Pravilnik o vođenju Registra lobista · 1 versions, from 2024-10-24 (latest in 
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 
-Act id: `pravilnik-2024-2068` (tags `pravilnik-2024-2068/<day>`; `python tools/on.py <day> pravilnik-2024-2068`).
+Act id: `pravilnik-2024-2068` (tags `pravilnik-2024-2068/<day>`; `python registry/tools/on.py <day> pravilnik-2024-2068`).
 
 ## Decisions made by hand
 

@@ -155,7 +155,7 @@ Uredba o unutarnjem ustrojstvu Ministarstva vanjskih i europskih poslova · 1 ve
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2017-458` (tags `uredba-2017-458/<day>`; `python tools/on.py <day> uredba-2017-458`).
+Act id: `uredba-2017-458` (tags `uredba-2017-458/<day>`; `python registry/tools/on.py <day> uredba-2017-458`).
 
 ## Status
 

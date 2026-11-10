@@ -169,7 +169,7 @@ Uredba o unutarnjem ustrojstvu Ministarstva rada, mirovinskoga sustava, obitelji
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2020-1822` (tags `uredba-2020-1822/<day>`; `python tools/on.py <day> uredba-2020-1822`).
+Act id: `uredba-2020-1822` (tags `uredba-2020-1822/<day>`; `python registry/tools/on.py <day> uredba-2020-1822`).
 
 ## Status
 

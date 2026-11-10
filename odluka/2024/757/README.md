@@ -10,7 +10,7 @@ Odluka o izmjeni i dopuni Odluke o dopuštenoj visini tehnoloških manjkova u pr
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2024-757` (tags `odluka-2024-757/<day>`; `python tools/on.py <day> odluka-2024-757`).
+Act id: `odluka-2024-757` (tags `odluka-2024-757/<day>`; `python registry/tools/on.py <day> odluka-2024-757`).
 
 ## Decisions made by hand
 

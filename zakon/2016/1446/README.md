@@ -23,7 +23,7 @@ Zakon o izmjenama i dopunama Zakona o inspekcijama u gospodarstvu · 1 versions,
 | čl. 17 | [clanak-017.md](clanak-017.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2016-1446` (tags `zakon-2016-1446/<day>`; `python tools/on.py <day> zakon-2016-1446`).
+Act id: `zakon-2016-1446` (tags `zakon-2016-1446/<day>`; `python registry/tools/on.py <day> zakon-2016-1446`).
 
 ## Decisions made by hand
 

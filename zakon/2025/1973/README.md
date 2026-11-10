@@ -9,7 +9,7 @@ Zakon o izmjeni i dopuni Zakona o izvršavanju Državnog proračuna Republike Hr
 | čl. 3 | [clanak-003.md](clanak-003.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2025-1973` (tags `zakon-2025-1973/<day>`; `python tools/on.py <day> zakon-2025-1973`).
+Act id: `zakon-2025-1973` (tags `zakon-2025-1973/<day>`; `python registry/tools/on.py <day> zakon-2025-1973`).
 
 ## Decisions made by hand
 

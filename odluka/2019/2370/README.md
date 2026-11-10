@@ -22,7 +22,7 @@ Odluka o naknadi za razvoj · 1 versions, from 2020-01-01 (latest in force: 2020
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2019-2370` (tags `odluka-2019-2370/<day>`; `python tools/on.py <day> odluka-2019-2370`).
+Act id: `odluka-2019-2370` (tags `odluka-2019-2370/<day>`; `python registry/tools/on.py <day> odluka-2019-2370`).
 
 ## Status
 

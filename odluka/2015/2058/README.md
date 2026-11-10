@@ -8,7 +8,7 @@ Odluka o utvrđivanju interesa Republike Hrvatske za izgradnju građevine javne 
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2015-2058` (tags `odluka-2015-2058/<day>`; `python tools/on.py <day> odluka-2015-2058`).
+Act id: `odluka-2015-2058` (tags `odluka-2015-2058/<day>`; `python registry/tools/on.py <day> odluka-2015-2058`).
 
 ## Decisions made by hand
 

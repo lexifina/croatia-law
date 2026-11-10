@@ -5,7 +5,7 @@ Zakon o Hrvatskoj poljoprivredno-šumarskoj savjetodavnoj službi · 2 versions,
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `zakon-2018-312` (tags `zakon-2018-312/<day>`; `python tools/on.py <day> zakon-2018-312`).
+Act id: `zakon-2018-312` (tags `zakon-2018-312/<day>`; `python registry/tools/on.py <day> zakon-2018-312`).
 
 ## Decisions made by hand
 

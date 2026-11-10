@@ -20,7 +20,7 @@ Pravilnik o standardima i normativima za izvođenje programa obrazovanja odrasli
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2023-258` (tags `pravilnik-2023-258/<day>`; `python tools/on.py <day> pravilnik-2023-258`).
+Act id: `pravilnik-2023-258` (tags `pravilnik-2023-258/<day>`; `python registry/tools/on.py <day> pravilnik-2023-258`).
 
 ## Status
 

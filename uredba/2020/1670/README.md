@@ -18,7 +18,7 @@ Uredba o Uredu potpredsjednika Vlade Republike Hrvatske · 1 versions, from 2020
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2020-1670` (tags `uredba-2020-1670/<day>`; `python tools/on.py <day> uredba-2020-1670`).
+Act id: `uredba-2020-1670` (tags `uredba-2020-1670/<day>`; `python registry/tools/on.py <day> uredba-2020-1670`).
 
 ## Status
 

@@ -9,7 +9,7 @@ Uredba o visini minimalne plaće za 2021. godinu · 1 versions, from 2021-01-01 
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2020-2307` (tags `uredba-2020-2307/<day>`; `python tools/on.py <day> uredba-2020-2307`).
+Act id: `uredba-2020-2307` (tags `uredba-2020-2307/<day>`; `python registry/tools/on.py <day> uredba-2020-2307`).
 
 ## Decisions made by hand
 

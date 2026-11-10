@@ -16,7 +16,7 @@ Pravilnik o uvjetima koje mora ispunjavati pravna osoba za obavljanje poslova is
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2013-247` (tags `pravilnik-2013-247/<day>`; `python tools/on.py <day> pravilnik-2013-247`).
+Act id: `pravilnik-2013-247` (tags `pravilnik-2013-247/<day>`; `python registry/tools/on.py <day> pravilnik-2013-247`).
 
 ## Status
 

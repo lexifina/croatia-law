@@ -5,7 +5,7 @@ Pravilnik o sadržaju izvješća o obavljenim uslugama ili aktivnostima organiza
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `pravilnik-2018-220` (tags `pravilnik-2018-220/<day>`; `python tools/on.py <day> pravilnik-2018-220`).
+Act id: `pravilnik-2018-220` (tags `pravilnik-2018-220/<day>`; `python registry/tools/on.py <day> pravilnik-2018-220`).
 
 ## Decisions made by hand
 

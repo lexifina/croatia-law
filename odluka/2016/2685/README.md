@@ -5,7 +5,7 @@ Odluka o naknadi za priključenje na plinski distribucijski ili transportni sust
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `odluka-2016-2685` (tags `odluka-2016-2685/<day>`; `python tools/on.py <day> odluka-2016-2685`).
+Act id: `odluka-2016-2685` (tags `odluka-2016-2685/<day>`; `python registry/tools/on.py <day> odluka-2016-2685`).
 
 ## Decisions made by hand
 

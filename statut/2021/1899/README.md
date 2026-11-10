@@ -11,7 +11,7 @@ Izmjene Statuta Hrvatskog zavoda za zdravstveno osiguranje · 1 versions, from 2
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `statut-2021-1899` (tags `statut-2021-1899/<day>`; `python tools/on.py <day> statut-2021-1899`).
+Act id: `statut-2021-1899` (tags `statut-2021-1899/<day>`; `python registry/tools/on.py <day> statut-2021-1899`).
 
 ## Decisions made by hand
 

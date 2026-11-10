@@ -8,7 +8,7 @@ Odluka o subvencioniranju dijela krajnje cijene opskrbe plinom za krajnje kupce 
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2024-494` (tags `odluka-2024-494/<day>`; `python tools/on.py <day> odluka-2024-494`).
+Act id: `odluka-2024-494` (tags `odluka-2024-494/<day>`; `python registry/tools/on.py <day> odluka-2024-494`).
 
 ## Status
 

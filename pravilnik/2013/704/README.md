@@ -9,7 +9,7 @@ Pravilnik o izmjenama Pravilnika o proglašavanju turističkih općina i gradova
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2013-704` (tags `pravilnik-2013-704/<day>`; `python tools/on.py <day> pravilnik-2013-704`).
+Act id: `pravilnik-2013-704` (tags `pravilnik-2013-704/<day>`; `python registry/tools/on.py <day> pravilnik-2013-704`).
 
 ## Decisions made by hand
 

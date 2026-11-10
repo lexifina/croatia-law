@@ -9,7 +9,7 @@ Pravilnik o izmjenama Pravilnika o izvještavanju o neuspjelim namirama i o inte
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2022-2172` (tags `pravilnik-2022-2172/<day>`; `python tools/on.py <day> pravilnik-2022-2172`).
+Act id: `pravilnik-2022-2172` (tags `pravilnik-2022-2172/<day>`; `python registry/tools/on.py <day> pravilnik-2022-2172`).
 
 ## Decisions made by hand
 

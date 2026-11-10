@@ -9,7 +9,7 @@ Zakon o izmjenama Zakona o uskladištenju i skladišnici za žitarice i industri
 | čl. 3 | [clanak-003.md](clanak-003.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2019-650` (tags `zakon-2019-650/<day>`; `python tools/on.py <day> zakon-2019-650`).
+Act id: `zakon-2019-650` (tags `zakon-2019-650/<day>`; `python registry/tools/on.py <day> zakon-2019-650`).
 
 ## Decisions made by hand
 

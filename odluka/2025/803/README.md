@@ -8,7 +8,7 @@ Odluka o izmjeni Odluke o osnivanju Nacionalnog povjerenstva za gospodarenje sme
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2025-803` (tags `odluka-2025-803/<day>`; `python tools/on.py <day> odluka-2025-803`).
+Act id: `odluka-2025-803` (tags `odluka-2025-803/<day>`; `python registry/tools/on.py <day> odluka-2025-803`).
 
 ## Decisions made by hand
 

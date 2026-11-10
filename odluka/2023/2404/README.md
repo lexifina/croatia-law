@@ -9,7 +9,7 @@ Odluka o stavljanju izvan snage Odluke o prirezu porezu na dohodak Grada Križev
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2023-2404` (tags `odluka-2023-2404/<day>`; `python tools/on.py <day> odluka-2023-2404`).
+Act id: `odluka-2023-2404` (tags `odluka-2023-2404/<day>`; `python registry/tools/on.py <day> odluka-2023-2404`).
 
 ## Decisions made by hand
 

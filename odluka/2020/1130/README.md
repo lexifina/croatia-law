@@ -8,7 +8,7 @@ Odluka o uvođenju nužne epidemiološke mjere za otok Brač na području Splits
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2020-1130` (tags `odluka-2020-1130/<day>`; `python tools/on.py <day> odluka-2020-1130`).
+Act id: `odluka-2020-1130` (tags `odluka-2020-1130/<day>`; `python registry/tools/on.py <day> odluka-2020-1130`).
 
 ## Decisions made by hand
 

@@ -12,7 +12,7 @@ Uredba o izmjenama i dopuni Uredbe o određivanju štićenih osoba, objekata i p
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2016-256` (tags `uredba-2016-256/<day>`; `python tools/on.py <day> uredba-2016-256`).
+Act id: `uredba-2016-256` (tags `uredba-2016-256/<day>`; `python registry/tools/on.py <day> uredba-2016-256`).
 
 ## Decisions made by hand
 

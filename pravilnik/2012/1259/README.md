@@ -9,7 +9,7 @@ Pravilnik o dopuni Pravilnika o posebnim uvjetima za uvoz hrane i hrane za živo
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2012-1259` (tags `pravilnik-2012-1259/<day>`; `python tools/on.py <day> pravilnik-2012-1259`).
+Act id: `pravilnik-2012-1259` (tags `pravilnik-2012-1259/<day>`; `python registry/tools/on.py <day> pravilnik-2012-1259`).
 
 ## Decisions made by hand
 

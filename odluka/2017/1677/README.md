@@ -8,7 +8,7 @@ Odluka o davanju suglasnosti za sklapanje i provođenje pravnih poslova u okviru
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2017-1677` (tags `odluka-2017-1677/<day>`; `python tools/on.py <day> odluka-2017-1677`).
+Act id: `odluka-2017-1677` (tags `odluka-2017-1677/<day>`; `python registry/tools/on.py <day> odluka-2017-1677`).
 
 ## Decisions made by hand
 

@@ -35,7 +35,7 @@ Pravilnik o izmjenama i dopunama Pravilnika o provedbi intervencija za potporu u
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2024-134` (tags `pravilnik-2024-134/<day>`; `python tools/on.py <day> pravilnik-2024-134`).
+Act id: `pravilnik-2024-134` (tags `pravilnik-2024-134/<day>`; `python registry/tools/on.py <day> pravilnik-2024-134`).
 
 ## Decisions made by hand
 

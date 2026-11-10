@@ -8,7 +8,7 @@ Odluka o izmjeni Odluke o davanju Lučkoj upravi Splitsko-dalmatinske županije 
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2022-1841` (tags `odluka-2022-1841/<day>`; `python tools/on.py <day> odluka-2022-1841`).
+Act id: `odluka-2022-1841` (tags `odluka-2022-1841/<day>`; `python registry/tools/on.py <day> odluka-2022-1841`).
 
 ## Decisions made by hand
 

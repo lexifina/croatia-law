@@ -8,7 +8,7 @@ Odluka o katastarskoj izmjeri na području Grada Vrlike za dijelove katastarskih
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2023-139` (tags `odluka-2023-139/<day>`; `python tools/on.py <day> odluka-2023-139`).
+Act id: `odluka-2023-139` (tags `odluka-2023-139/<day>`; `python registry/tools/on.py <day> odluka-2023-139`).
 
 ## Decisions made by hand
 

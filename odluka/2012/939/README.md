@@ -9,7 +9,7 @@ Odluka o aktualnoj vrijednosti mirovine od 1. siječnja 2012. · 1 versions, fro
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2012-939` (tags `odluka-2012-939/<day>`; `python tools/on.py <day> odluka-2012-939`).
+Act id: `odluka-2012-939` (tags `odluka-2012-939/<day>`; `python registry/tools/on.py <day> odluka-2012-939`).
 
 ## Decisions made by hand
 

@@ -8,7 +8,7 @@ Odluka o izmjeni Odluke o osnivanju Lučke uprave Ploče · 1 versions, from 201
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2017-698` (tags `odluka-2017-698/<day>`; `python tools/on.py <day> odluka-2017-698`).
+Act id: `odluka-2017-698` (tags `odluka-2017-698/<day>`; `python registry/tools/on.py <day> odluka-2017-698`).
 
 ## Decisions made by hand
 

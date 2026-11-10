@@ -39,7 +39,7 @@ Naputak o načinu zaštite povjerljivih statističkih podataka u Državnom zavod
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `naputak-2021-1463` (tags `naputak-2021-1463/<day>`; `python tools/on.py <day> naputak-2021-1463`).
+Act id: `naputak-2021-1463` (tags `naputak-2021-1463/<day>`; `python registry/tools/on.py <day> naputak-2021-1463`).
 
 ## Decisions made by hand
 

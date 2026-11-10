@@ -49,7 +49,7 @@ Pravilnik o opremi i zaštitnim sustavima namijenjenim za uporabu u potencijalno
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2016-943` (tags `pravilnik-2016-943/<day>`; `python tools/on.py <day> pravilnik-2016-943`).
+Act id: `pravilnik-2016-943` (tags `pravilnik-2016-943/<day>`; `python registry/tools/on.py <day> pravilnik-2016-943`).
 
 ## Status
 

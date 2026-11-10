@@ -10,7 +10,7 @@ Pravilnik o izmjeni Pravilnika o osobnom identifikacijskom broju · 1 versions, 
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2021-858` (tags `pravilnik-2021-858/<day>`; `python tools/on.py <day> pravilnik-2021-858`).
+Act id: `pravilnik-2021-858` (tags `pravilnik-2021-858/<day>`; `python registry/tools/on.py <day> pravilnik-2021-858`).
 
 ## Decisions made by hand
 

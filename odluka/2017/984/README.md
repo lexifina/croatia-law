@@ -8,7 +8,7 @@ Odluka o izmjeni Odluke o osnivanju Nacionalnog vijeća za zaštitu na radu · 1
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2017-984` (tags `odluka-2017-984/<day>`; `python tools/on.py <day> odluka-2017-984`).
+Act id: `odluka-2017-984` (tags `odluka-2017-984/<day>`; `python registry/tools/on.py <day> odluka-2017-984`).
 
 ## Decisions made by hand
 

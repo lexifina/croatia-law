@@ -8,7 +8,7 @@ Odluka o katastarskoj izmjeri na području Općine Poličnik za katastarsku opć
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2016-1015` (tags `odluka-2016-1015/<day>`; `python tools/on.py <day> odluka-2016-1015`).
+Act id: `odluka-2016-1015` (tags `odluka-2016-1015/<day>`; `python registry/tools/on.py <day> odluka-2016-1015`).
 
 ## Decisions made by hand
 

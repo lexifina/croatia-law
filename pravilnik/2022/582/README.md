@@ -12,7 +12,7 @@ Pravilnik o izmjenama i dopunama Pravilnika o tehničkim uvjetima za provedbu Za
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2022-582` (tags `pravilnik-2022-582/<day>`; `python tools/on.py <day> pravilnik-2022-582`).
+Act id: `pravilnik-2022-582` (tags `pravilnik-2022-582/<day>`; `python registry/tools/on.py <day> pravilnik-2022-582`).
 
 ## Decisions made by hand
 

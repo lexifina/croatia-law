@@ -21,7 +21,7 @@ Pravilnik o postupku odobravanja udžbenika, dodataka udžbeniku i pripadajućih
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2013-2340` (tags `pravilnik-2013-2340/<day>`; `python tools/on.py <day> pravilnik-2013-2340`).
+Act id: `pravilnik-2013-2340` (tags `pravilnik-2013-2340/<day>`; `python registry/tools/on.py <day> pravilnik-2013-2340`).
 
 ## Status
 

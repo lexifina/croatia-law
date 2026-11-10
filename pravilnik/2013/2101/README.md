@@ -13,7 +13,7 @@ Pravilnik o naÄinu i obliku prikupljanja podataka o tokovima javnih sredstava Â
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2013-2101` (tags `pravilnik-2013-2101/<day>`; `python tools/on.py <day> pravilnik-2013-2101`).
+Act id: `pravilnik-2013-2101` (tags `pravilnik-2013-2101/<day>`; `python registry/tools/on.py <day> pravilnik-2013-2101`).
 
 ## Decisions made by hand
 

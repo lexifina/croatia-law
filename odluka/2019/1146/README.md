@@ -9,7 +9,7 @@ Odluka o izmjenama i dopuni Odluke o utvrđivanju godišnje kvote dozvola za zap
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2019-1146` (tags `odluka-2019-1146/<day>`; `python tools/on.py <day> odluka-2019-1146`).
+Act id: `odluka-2019-1146` (tags `odluka-2019-1146/<day>`; `python registry/tools/on.py <day> odluka-2019-1146`).
 
 ## Decisions made by hand
 

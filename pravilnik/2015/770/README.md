@@ -9,7 +9,7 @@ Pravilnik o izmjeni Pravilnika o sportskom i rekreacijskom ribolovu na moru · 1
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2015-770` (tags `pravilnik-2015-770/<day>`; `python tools/on.py <day> pravilnik-2015-770`).
+Act id: `pravilnik-2015-770` (tags `pravilnik-2015-770/<day>`; `python registry/tools/on.py <day> pravilnik-2015-770`).
 
 ## Decisions made by hand
 

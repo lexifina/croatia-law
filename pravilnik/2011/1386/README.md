@@ -22,7 +22,7 @@ Pravilnik o načinu prijave bolesti životinja · 1 versions, from 2011-06-14 (l
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2011-1386` (tags `pravilnik-2011-1386/<day>`; `python tools/on.py <day> pravilnik-2011-1386`).
+Act id: `pravilnik-2011-1386` (tags `pravilnik-2011-1386/<day>`; `python registry/tools/on.py <day> pravilnik-2011-1386`).
 
 ## Status
 

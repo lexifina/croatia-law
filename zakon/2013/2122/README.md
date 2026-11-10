@@ -73,7 +73,7 @@ Zakon o istraživanju i eksploataciji ugljikovodika · 1 versions, from 2013-07-
 | čl. 67 | [clanak-067.md](clanak-067.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2013-2122` (tags `zakon-2013-2122/<day>`; `python tools/on.py <day> zakon-2013-2122`).
+Act id: `zakon-2013-2122` (tags `zakon-2013-2122/<day>`; `python registry/tools/on.py <day> zakon-2013-2122`).
 
 ## Status
 

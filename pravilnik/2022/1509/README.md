@@ -55,7 +55,7 @@ Pravilnik o stručnoj osposobljenosti osoba koje sudjeluju u prijevozu opasnih t
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2022-1509` (tags `pravilnik-2022-1509/<day>`; `python tools/on.py <day> pravilnik-2022-1509`).
+Act id: `pravilnik-2022-1509` (tags `pravilnik-2022-1509/<day>`; `python registry/tools/on.py <day> pravilnik-2022-1509`).
 
 ## Decisions made by hand
 

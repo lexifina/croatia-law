@@ -11,7 +11,7 @@ Uredba o izmjeni i dopuni Uredbe o nazivima radnih mjesta i koeficijentima slož
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2014-692` (tags `uredba-2014-692/<day>`; `python tools/on.py <day> uredba-2014-692`).
+Act id: `uredba-2014-692` (tags `uredba-2014-692/<day>`; `python registry/tools/on.py <day> uredba-2014-692`).
 
 ## Status
 

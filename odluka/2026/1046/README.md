@@ -9,7 +9,7 @@ Odluka o donošenju Godišnjeg plana upravljanja nekretninama i pokretninama u v
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2026-1046` (tags `odluka-2026-1046/<day>`; `python tools/on.py <day> odluka-2026-1046`).
+Act id: `odluka-2026-1046` (tags `odluka-2026-1046/<day>`; `python registry/tools/on.py <day> odluka-2026-1046`).
 
 ## Decisions made by hand
 

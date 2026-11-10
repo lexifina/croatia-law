@@ -56,7 +56,7 @@ Uredba o izmjenama i dopunama Zakona o mirovinskom osiguranju · 1 versions, fro
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2014-2821` (tags `uredba-2014-2821/<day>`; `python tools/on.py <day> uredba-2014-2821`).
+Act id: `uredba-2014-2821` (tags `uredba-2014-2821/<day>`; `python registry/tools/on.py <day> uredba-2014-2821`).
 
 ## Status
 

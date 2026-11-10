@@ -8,7 +8,7 @@ Odluka o nastavku korištenja dijela prostora Nacionalne i sveučilišne knjižn
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2026-31` (tags `odluka-2026-31/<day>`; `python tools/on.py <day> odluka-2026-31`).
+Act id: `odluka-2026-31` (tags `odluka-2026-31/<day>`; `python registry/tools/on.py <day> odluka-2026-31`).
 
 ## Decisions made by hand
 

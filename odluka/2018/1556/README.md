@@ -8,7 +8,7 @@ Odluka o utvrđivanju interesa Republike Hrvatske za izgradnju dječjeg vrtića 
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2018-1556` (tags `odluka-2018-1556/<day>`; `python tools/on.py <day> odluka-2018-1556`).
+Act id: `odluka-2018-1556` (tags `odluka-2018-1556/<day>`; `python registry/tools/on.py <day> odluka-2018-1556`).
 
 ## Decisions made by hand
 

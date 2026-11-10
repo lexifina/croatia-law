@@ -9,7 +9,7 @@ Odluka o poticanju izvansudskog rješavanja građanskih i trgovačkih sporova u 
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2016-1568` (tags `odluka-2016-1568/<day>`; `python tools/on.py <day> odluka-2016-1568`).
+Act id: `odluka-2016-1568` (tags `odluka-2016-1568/<day>`; `python registry/tools/on.py <day> odluka-2016-1568`).
 
 ## Decisions made by hand
 

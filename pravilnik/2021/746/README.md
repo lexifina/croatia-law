@@ -26,7 +26,7 @@ Pravilnik o uvjetima, kriterijima i načinu dodjele državne potpore za štete n
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2021-746` (tags `pravilnik-2021-746/<day>`; `python tools/on.py <day> pravilnik-2021-746`).
+Act id: `pravilnik-2021-746` (tags `pravilnik-2021-746/<day>`; `python registry/tools/on.py <day> pravilnik-2021-746`).
 
 ## Status
 

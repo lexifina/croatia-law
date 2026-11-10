@@ -21,7 +21,7 @@ Zakon o izmjenama i dopunama Zakona o poreznoj upravi · 1 versions, from 2025-0
 | čl. 15 | [clanak-015.md](clanak-015.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2024-2507` (tags `zakon-2024-2507/<day>`; `python tools/on.py <day> zakon-2024-2507`).
+Act id: `zakon-2024-2507` (tags `zakon-2024-2507/<day>`; `python registry/tools/on.py <day> zakon-2024-2507`).
 
 ## Decisions made by hand
 

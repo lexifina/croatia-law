@@ -85,7 +85,7 @@ Pravilnik o načinu vođenja evidencije vojnih obveznika i izvršavanju vojne ob
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2014-2179` (tags `pravilnik-2014-2179/<day>`; `python tools/on.py <day> pravilnik-2014-2179`).
+Act id: `pravilnik-2014-2179` (tags `pravilnik-2014-2179/<day>`; `python registry/tools/on.py <day> pravilnik-2014-2179`).
 
 ## Status
 

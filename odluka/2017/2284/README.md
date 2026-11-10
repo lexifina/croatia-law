@@ -10,7 +10,7 @@ Odluka o izmjeni Odluke o prirezu na porez na dohodak Grada Splita · 1 versions
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2017-2284` (tags `odluka-2017-2284/<day>`; `python tools/on.py <day> odluka-2017-2284`).
+Act id: `odluka-2017-2284` (tags `odluka-2017-2284/<day>`; `python registry/tools/on.py <day> odluka-2017-2284`).
 
 ## Status
 

@@ -10,7 +10,7 @@ Pravilnik o izmjenama Pravilnika o posebnom režimu upravljanja ribolovom u dije
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2022-691` (tags `pravilnik-2022-691/<day>`; `python tools/on.py <day> pravilnik-2022-691`).
+Act id: `pravilnik-2022-691` (tags `pravilnik-2022-691/<day>`; `python registry/tools/on.py <day> pravilnik-2022-691`).
 
 ## Decisions made by hand
 

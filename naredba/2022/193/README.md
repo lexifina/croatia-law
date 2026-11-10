@@ -11,7 +11,7 @@ Naredba o izmjenama i dopuni Naredbe o smanjenju brojnog stanja pojedine vrste d
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `naredba-2022-193` (tags `naredba-2022-193/<day>`; `python tools/on.py <day> naredba-2022-193`).
+Act id: `naredba-2022-193` (tags `naredba-2022-193/<day>`; `python registry/tools/on.py <day> naredba-2022-193`).
 
 ## Decisions made by hand
 

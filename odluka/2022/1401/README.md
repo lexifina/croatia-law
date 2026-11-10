@@ -18,7 +18,7 @@ Odluka o naknadi za razvoj trgovačkog društva Vodovod d.o.o. Zadar · 1 versio
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2022-1401` (tags `odluka-2022-1401/<day>`; `python tools/on.py <day> odluka-2022-1401`).
+Act id: `odluka-2022-1401` (tags `odluka-2022-1401/<day>`; `python registry/tools/on.py <day> odluka-2022-1401`).
 
 ## Status
 

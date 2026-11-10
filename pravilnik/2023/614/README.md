@@ -22,7 +22,7 @@ Pravilnik o sadržaju i korištenju informacijskih sustava u visokom obrazovanju
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2023-614` (tags `pravilnik-2023-614/<day>`; `python tools/on.py <day> pravilnik-2023-614`).
+Act id: `pravilnik-2023-614` (tags `pravilnik-2023-614/<day>`; `python registry/tools/on.py <day> pravilnik-2023-614`).
 
 ## Decisions made by hand
 

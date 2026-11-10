@@ -8,7 +8,7 @@ Odluka o osnivanju Konzulata Republike Hrvatske u Saveznoj Demokratskoj Republic
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2011-2576` (tags `odluka-2011-2576/<day>`; `python tools/on.py <day> odluka-2011-2576`).
+Act id: `odluka-2011-2576` (tags `odluka-2011-2576/<day>`; `python registry/tools/on.py <day> odluka-2011-2576`).
 
 ## Decisions made by hand
 

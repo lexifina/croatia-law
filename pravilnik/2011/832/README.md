@@ -10,7 +10,7 @@ Pravilnik o izmjenama i dopunama Pravilnika o kriterijima za uplatu i korištenj
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2011-832` (tags `pravilnik-2011-832/<day>`; `python tools/on.py <day> pravilnik-2011-832`).
+Act id: `pravilnik-2011-832` (tags `pravilnik-2011-832/<day>`; `python registry/tools/on.py <day> pravilnik-2011-832`).
 
 ## Decisions made by hand
 

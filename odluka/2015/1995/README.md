@@ -8,7 +8,7 @@ Odluka o zatvaranju Ureda Republike Hrvatske u Republici Litvi, sa sjedištem u 
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2015-1995` (tags `odluka-2015-1995/<day>`; `python tools/on.py <day> odluka-2015-1995`).
+Act id: `odluka-2015-1995` (tags `odluka-2015-1995/<day>`; `python registry/tools/on.py <day> odluka-2015-1995`).
 
 ## Decisions made by hand
 

@@ -8,7 +8,7 @@ Odluka o prestanku koncesije za osnivanje Slobodne zone Varaždin d.o.o. · 1 ve
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2016-2693` (tags `odluka-2016-2693/<day>`; `python tools/on.py <day> odluka-2016-2693`).
+Act id: `odluka-2016-2693` (tags `odluka-2016-2693/<day>`; `python registry/tools/on.py <day> odluka-2016-2693`).
 
 ## Decisions made by hand
 

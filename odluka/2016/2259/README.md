@@ -15,7 +15,7 @@ Odluku o provedbi Uredbe (EU) br. 575/2013 i delegirane Uredbe Komisije (EU) br.
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2016-2259` (tags `odluka-2016-2259/<day>`; `python tools/on.py <day> odluka-2016-2259`).
+Act id: `odluka-2016-2259` (tags `odluka-2016-2259/<day>`; `python registry/tools/on.py <day> odluka-2016-2259`).
 
 ## Status
 

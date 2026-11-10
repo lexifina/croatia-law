@@ -9,7 +9,7 @@ Zakon o izmjenama Zakona o ograničavanju uporabe duhanskih i srodnih proizvoda 
 | čl. 3 | [clanak-003.md](clanak-003.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2018-2200` (tags `zakon-2018-2200/<day>`; `python tools/on.py <day> zakon-2018-2200`).
+Act id: `zakon-2018-2200` (tags `zakon-2018-2200/<day>`; `python registry/tools/on.py <day> zakon-2018-2200`).
 
 ## Decisions made by hand
 

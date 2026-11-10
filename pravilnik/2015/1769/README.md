@@ -9,7 +9,7 @@ Pravilnik o izmjeni Pravilnika o određivanju područja s prirodnim ili ostalim 
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2015-1769` (tags `pravilnik-2015-1769/<day>`; `python tools/on.py <day> pravilnik-2015-1769`).
+Act id: `pravilnik-2015-1769` (tags `pravilnik-2015-1769/<day>`; `python registry/tools/on.py <day> pravilnik-2015-1769`).
 
 ## Decisions made by hand
 

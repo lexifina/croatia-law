@@ -8,7 +8,7 @@ Odluka o postavljanju Kreše Glavača za izvanrednog i opunomoćenog veleposlani
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2016-1724` (tags `odluka-2016-1724/<day>`; `python tools/on.py <day> odluka-2016-1724`).
+Act id: `odluka-2016-1724` (tags `odluka-2016-1724/<day>`; `python registry/tools/on.py <day> odluka-2016-1724`).
 
 ## Decisions made by hand
 

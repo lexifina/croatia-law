@@ -16,7 +16,7 @@ Uredba o izmjenama Uredbe o emisijskim kvotama za određene onečišćujuće tva
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2017-435` (tags `uredba-2017-435/<day>`; `python tools/on.py <day> uredba-2017-435`).
+Act id: `uredba-2017-435` (tags `uredba-2017-435/<day>`; `python registry/tools/on.py <day> uredba-2017-435`).
 
 ## Decisions made by hand
 

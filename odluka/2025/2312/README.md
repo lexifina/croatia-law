@@ -19,7 +19,7 @@ Odluka o naknadi za razvoj trgovačkog društva Ličke vode d.o.o. za vodoopskrb
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2025-2312` (tags `odluka-2025-2312/<day>`; `python tools/on.py <day> odluka-2025-2312`).
+Act id: `odluka-2025-2312` (tags `odluka-2025-2312/<day>`; `python registry/tools/on.py <day> odluka-2025-2312`).
 
 ## Decisions made by hand
 

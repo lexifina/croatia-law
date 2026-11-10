@@ -36,7 +36,7 @@ Pravilnik o unutarnjoj reviziji u javnom sektoru · 1 versions, from 2016-05-12 
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2016-1092` (tags `pravilnik-2016-1092/<day>`; `python tools/on.py <day> pravilnik-2016-1092`).
+Act id: `pravilnik-2016-1092` (tags `pravilnik-2016-1092/<day>`; `python registry/tools/on.py <day> pravilnik-2016-1092`).
 
 ## Status
 

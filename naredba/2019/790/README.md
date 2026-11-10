@@ -9,7 +9,7 @@ Naredbu o lovostaju jegulje (Anguilla anguilla) u 2019. godini · 1 versions, fr
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `naredba-2019-790` (tags `naredba-2019-790/<day>`; `python tools/on.py <day> naredba-2019-790`).
+Act id: `naredba-2019-790` (tags `naredba-2019-790/<day>`; `python registry/tools/on.py <day> naredba-2019-790`).
 
 ## Decisions made by hand
 

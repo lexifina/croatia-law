@@ -9,7 +9,7 @@ Pravilnik o izmjenama i dopunama Pravilnika o izdavanju odobrenja za nuđenje ud
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2017-923` (tags `pravilnik-2017-923/<day>`; `python tools/on.py <day> pravilnik-2017-923`).
+Act id: `pravilnik-2017-923` (tags `pravilnik-2017-923/<day>`; `python registry/tools/on.py <day> pravilnik-2017-923`).
 
 ## Decisions made by hand
 

@@ -26,7 +26,7 @@ Zakon o izmjenama i dopunama Zakona o porezu na dodanu vrijednost · 1 versions,
 | čl. 20 | [clanak-020.md](clanak-020.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2023-1614` (tags `zakon-2023-1614/<day>`; `python tools/on.py <day> zakon-2023-1614`).
+Act id: `zakon-2023-1614` (tags `zakon-2023-1614/<day>`; `python registry/tools/on.py <day> zakon-2023-1614`).
 
 ## Decisions made by hand
 

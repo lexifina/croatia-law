@@ -14,7 +14,7 @@ Zakon o izmjenama i dopuni Zakona o prisilnoj likvidaciji kreditnih institucija 
 | čl. 8 | [clanak-008.md](clanak-008.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2024-401` (tags `zakon-2024-401/<day>`; `python tools/on.py <day> zakon-2024-401`).
+Act id: `zakon-2024-401` (tags `zakon-2024-401/<day>`; `python registry/tools/on.py <day> zakon-2024-401`).
 
 ## Decisions made by hand
 

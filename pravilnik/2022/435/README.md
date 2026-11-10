@@ -18,7 +18,7 @@ Pravilnik o izmjenama i dopunama Pravilnika o zdravstvenim uvjetima izloženih r
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2022-435` (tags `pravilnik-2022-435/<day>`; `python tools/on.py <day> pravilnik-2022-435`).
+Act id: `pravilnik-2022-435` (tags `pravilnik-2022-435/<day>`; `python registry/tools/on.py <day> pravilnik-2022-435`).
 
 ## Decisions made by hand
 

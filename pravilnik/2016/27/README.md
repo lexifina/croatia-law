@@ -41,7 +41,7 @@ Pravilnik o utvrđivanju uvjeta zdravstvene sposobnosti članova posade plovila 
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2016-27` (tags `pravilnik-2016-27/<day>`; `python tools/on.py <day> pravilnik-2016-27`).
+Act id: `pravilnik-2016-27` (tags `pravilnik-2016-27/<day>`; `python registry/tools/on.py <day> pravilnik-2016-27`).
 
 ## Decisions made by hand
 

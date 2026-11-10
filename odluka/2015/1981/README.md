@@ -8,7 +8,7 @@ Odluka o ukidanju dozvole za istraživanje i eksploataciju ugljikovodika na Jadr
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2015-1981` (tags `odluka-2015-1981/<day>`; `python tools/on.py <day> odluka-2015-1981`).
+Act id: `odluka-2015-1981` (tags `odluka-2015-1981/<day>`; `python registry/tools/on.py <day> odluka-2015-1981`).
 
 ## Decisions made by hand
 

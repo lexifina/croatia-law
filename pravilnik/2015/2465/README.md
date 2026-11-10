@@ -18,7 +18,7 @@ Pravilnik o izdavanju suglasnosti za obavljanje stručnih poslova prostornog ure
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2015-2465` (tags `pravilnik-2015-2465/<day>`; `python tools/on.py <day> pravilnik-2015-2465`).
+Act id: `pravilnik-2015-2465` (tags `pravilnik-2015-2465/<day>`; `python registry/tools/on.py <day> pravilnik-2015-2465`).
 
 ## Status
 

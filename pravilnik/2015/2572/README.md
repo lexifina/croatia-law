@@ -9,7 +9,7 @@ Pravilnik o izmjenama Pravilnika o paušalom oporezivanju samostalnih djelatnost
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2015-2572` (tags `pravilnik-2015-2572/<day>`; `python tools/on.py <day> pravilnik-2015-2572`).
+Act id: `pravilnik-2015-2572` (tags `pravilnik-2015-2572/<day>`; `python registry/tools/on.py <day> pravilnik-2015-2572`).
 
 ## Decisions made by hand
 

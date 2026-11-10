@@ -20,7 +20,7 @@ Pravilnik o sadržaju, uvjetima korištenja, opsegu podataka i naknadi troškova
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2016-3` (tags `pravilnik-2016-3/<day>`; `python tools/on.py <day> pravilnik-2016-3`).
+Act id: `pravilnik-2016-3` (tags `pravilnik-2016-3/<day>`; `python registry/tools/on.py <day> pravilnik-2016-3`).
 
 ## Status
 

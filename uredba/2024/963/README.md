@@ -15,7 +15,7 @@ Uredba o izmjenama i dopunama Uredbe o troÅ¡kovima ponovne uporabe informacija Â
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2024-963` (tags `uredba-2024-963/<day>`; `python tools/on.py <day> uredba-2024-963`).
+Act id: `uredba-2024-963` (tags `uredba-2024-963/<day>`; `python registry/tools/on.py <day> uredba-2024-963`).
 
 ## Decisions made by hand
 

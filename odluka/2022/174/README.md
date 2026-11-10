@@ -9,7 +9,7 @@ Odluka o dopuni Odluke o utvrđivanju Popisa posebno skupih lijekova · 1 versio
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2022-174` (tags `odluka-2022-174/<day>`; `python tools/on.py <day> odluka-2022-174`).
+Act id: `odluka-2022-174` (tags `odluka-2022-174/<day>`; `python registry/tools/on.py <day> odluka-2022-174`).
 
 ## Decisions made by hand
 

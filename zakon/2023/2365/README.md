@@ -33,7 +33,7 @@ Zakon o izmjenama i dopunama Zakona o obveznim odnosima · 1 versions, from 2023
 | čl. 27 | [clanak-027.md](clanak-027.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2023-2365` (tags `zakon-2023-2365/<day>`; `python tools/on.py <day> zakon-2023-2365`).
+Act id: `zakon-2023-2365` (tags `zakon-2023-2365/<day>`; `python registry/tools/on.py <day> zakon-2023-2365`).
 
 ## Decisions made by hand
 

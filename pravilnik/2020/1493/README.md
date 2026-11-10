@@ -16,7 +16,7 @@ Pravilnik o sadržaju, obliku i načinu dostave društveno-gospodarskih podataka
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2020-1493` (tags `pravilnik-2020-1493/<day>`; `python tools/on.py <day> pravilnik-2020-1493`).
+Act id: `pravilnik-2020-1493` (tags `pravilnik-2020-1493/<day>`; `python registry/tools/on.py <day> pravilnik-2020-1493`).
 
 ## Decisions made by hand
 

@@ -15,7 +15,7 @@ Odluka o dodatnim i izmijenjenim uvjetima za otvaranje i funkcioniranje PM raču
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2018-2006` (tags `odluka-2018-2006/<day>`; `python tools/on.py <day> odluka-2018-2006`).
+Act id: `odluka-2018-2006` (tags `odluka-2018-2006/<day>`; `python registry/tools/on.py <day> odluka-2018-2006`).
 
 ## Status
 

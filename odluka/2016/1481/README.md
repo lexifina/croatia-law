@@ -8,7 +8,7 @@ Odluka o raspuštanju Hrvatskoga sabora · 1 versions, from 2016-07-15 (latest i
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2016-1481` (tags `odluka-2016-1481/<day>`; `python tools/on.py <day> odluka-2016-1481`).
+Act id: `odluka-2016-1481` (tags `odluka-2016-1481/<day>`; `python registry/tools/on.py <day> odluka-2016-1481`).
 
 ## Status
 

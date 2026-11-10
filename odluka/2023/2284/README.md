@@ -10,7 +10,7 @@ Odluka o visini poreznih stopa poreza na dohodak Općine Podcrkavlje · 1 versio
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2023-2284` (tags `odluka-2023-2284/<day>`; `python tools/on.py <day> odluka-2023-2284`).
+Act id: `odluka-2023-2284` (tags `odluka-2023-2284/<day>`; `python registry/tools/on.py <day> odluka-2023-2284`).
 
 ## Decisions made by hand
 

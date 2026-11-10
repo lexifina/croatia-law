@@ -8,7 +8,7 @@ Odluka o iznimnoj obustavi nužne mjere obveznog korištenja maski za lice ili m
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2020-2234` (tags `odluka-2020-2234/<day>`; `python tools/on.py <day> odluka-2020-2234`).
+Act id: `odluka-2020-2234` (tags `odluka-2020-2234/<day>`; `python registry/tools/on.py <day> odluka-2020-2234`).
 
 ## Decisions made by hand
 

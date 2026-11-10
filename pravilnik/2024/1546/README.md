@@ -37,7 +37,7 @@ Pravilnik o uvjetima i načinu dodjeljivanja sredstava Fonda za zaštitu okoliš
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2024-1546` (tags `pravilnik-2024-1546/<day>`; `python tools/on.py <day> pravilnik-2024-1546`).
+Act id: `pravilnik-2024-1546` (tags `pravilnik-2024-1546/<day>`; `python registry/tools/on.py <day> pravilnik-2024-1546`).
 
 ## Decisions made by hand
 

@@ -5,7 +5,7 @@ Pravilnik o pružanju zemaljskih usluga · 2 versions, from 2015-06-11 (latest i
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `pravilnik-2015-1187` (tags `pravilnik-2015-1187/<day>`; `python tools/on.py <day> pravilnik-2015-1187`).
+Act id: `pravilnik-2015-1187` (tags `pravilnik-2015-1187/<day>`; `python registry/tools/on.py <day> pravilnik-2015-1187`).
 
 ## Decisions made by hand
 

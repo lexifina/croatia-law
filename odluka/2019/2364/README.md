@@ -12,7 +12,7 @@ Odluka o dodjeli sredstava županijskim upravama za ceste za održavanje, rekons
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2019-2364` (tags `odluka-2019-2364/<day>`; `python tools/on.py <day> odluka-2019-2364`).
+Act id: `odluka-2019-2364` (tags `odluka-2019-2364/<day>`; `python registry/tools/on.py <day> odluka-2019-2364`).
 
 ## Decisions made by hand
 

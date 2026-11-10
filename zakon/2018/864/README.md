@@ -14,7 +14,7 @@ Zakon o izmjenama Zakona o industrijskom dizajnu · 1 versions, from 2018-05-26 
 | čl. 8 | [clanak-008.md](clanak-008.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2018-864` (tags `zakon-2018-864/<day>`; `python tools/on.py <day> zakon-2018-864`).
+Act id: `zakon-2018-864` (tags `zakon-2018-864/<day>`; `python registry/tools/on.py <day> zakon-2018-864`).
 
 ## Decisions made by hand
 

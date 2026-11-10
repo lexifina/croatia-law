@@ -5,7 +5,7 @@ Odluka o uvođenju nužne epidemiološke mjere ograničenja svadbenih svečanost
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `odluka-2020-1803` (tags `odluka-2020-1803/<day>`; `python tools/on.py <day> odluka-2020-1803`).
+Act id: `odluka-2020-1803` (tags `odluka-2020-1803/<day>`; `python registry/tools/on.py <day> odluka-2020-1803`).
 
 ## Decisions made by hand
 

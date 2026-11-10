@@ -9,7 +9,7 @@ Pravilnik o dopuni Pravilnika o načinu obavljanja poslova interne revizije fakt
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2022-2160` (tags `pravilnik-2022-2160/<day>`; `python tools/on.py <day> pravilnik-2022-2160`).
+Act id: `pravilnik-2022-2160` (tags `pravilnik-2022-2160/<day>`; `python registry/tools/on.py <day> pravilnik-2022-2160`).
 
 ## Decisions made by hand
 

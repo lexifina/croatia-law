@@ -18,7 +18,7 @@ Uredba o uvjetima za obavljanje trgovine na veliko i trgovine s trećim zemljama
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2014-887` (tags `uredba-2014-887/<day>`; `python tools/on.py <day> uredba-2014-887`).
+Act id: `uredba-2014-887` (tags `uredba-2014-887/<day>`; `python registry/tools/on.py <day> uredba-2014-887`).
 
 ## Status
 

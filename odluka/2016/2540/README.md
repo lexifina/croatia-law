@@ -8,7 +8,7 @@ Odluka o oduzimanju prava priređivanja igara na sreću na automatima trgovačko
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2016-2540` (tags `odluka-2016-2540/<day>`; `python tools/on.py <day> odluka-2016-2540`).
+Act id: `odluka-2016-2540` (tags `odluka-2016-2540/<day>`; `python registry/tools/on.py <day> odluka-2016-2540`).
 
 ## Decisions made by hand
 

@@ -15,7 +15,7 @@ Uredba o kvotama za poticanje proizvodnje električne energije iz obnovljivih iz
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2020-1141` (tags `uredba-2020-1141/<day>`; `python tools/on.py <day> uredba-2020-1141`).
+Act id: `uredba-2020-1141` (tags `uredba-2020-1141/<day>`; `python registry/tools/on.py <day> uredba-2020-1141`).
 
 ## Decisions made by hand
 

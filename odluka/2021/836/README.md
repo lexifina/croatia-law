@@ -8,7 +8,7 @@ Odluka o naknadi jedinicama lokalne samouprave na potpomognutim područjima koju
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2021-836` (tags `odluka-2021-836/<day>`; `python tools/on.py <day> odluka-2021-836`).
+Act id: `odluka-2021-836` (tags `odluka-2021-836/<day>`; `python registry/tools/on.py <day> odluka-2021-836`).
 
 ## Decisions made by hand
 

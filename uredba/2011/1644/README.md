@@ -21,7 +21,7 @@ Uredba o skupnom izuzeću sporazuma u sektoru prometa · 1 versions, from 2011-0
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2011-1644` (tags `uredba-2011-1644/<day>`; `python tools/on.py <day> uredba-2011-1644`).
+Act id: `uredba-2011-1644` (tags `uredba-2011-1644/<day>`; `python registry/tools/on.py <day> uredba-2011-1644`).
 
 ## Status
 

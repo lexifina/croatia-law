@@ -14,7 +14,7 @@ Odluka o prirezu poreza na dohodak na području Grada Slatine · 1 versions, fro
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2011-1016` (tags `odluka-2011-1016/<day>`; `python tools/on.py <day> odluka-2011-1016`).
+Act id: `odluka-2011-1016` (tags `odluka-2011-1016/<day>`; `python registry/tools/on.py <day> odluka-2011-1016`).
 
 ## Decisions made by hand
 

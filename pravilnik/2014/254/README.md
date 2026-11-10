@@ -23,7 +23,7 @@ Pravilnik o načinu osnivanja, zadaćama, djelokrugu i načinu rada školskih sp
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2014-254` (tags `pravilnik-2014-254/<day>`; `python tools/on.py <day> pravilnik-2014-254`).
+Act id: `pravilnik-2014-254` (tags `pravilnik-2014-254/<day>`; `python registry/tools/on.py <day> pravilnik-2014-254`).
 
 ## Status
 

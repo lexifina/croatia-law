@@ -5,7 +5,7 @@ Pravilnik o vođenju evidencija, kontroli obračuna i isplata ostvarenih prava t
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `pravilnik-2018-429` (tags `pravilnik-2018-429/<day>`; `python tools/on.py <day> pravilnik-2018-429`).
+Act id: `pravilnik-2018-429` (tags `pravilnik-2018-429/<day>`; `python registry/tools/on.py <day> pravilnik-2018-429`).
 
 ## Decisions made by hand
 

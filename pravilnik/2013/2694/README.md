@@ -23,7 +23,7 @@ Pravilnik o parametrima sukladnosti i metodama analize vode za ljudsku potrošnj
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2013-2694` (tags `pravilnik-2013-2694/<day>`; `python tools/on.py <day> pravilnik-2013-2694`).
+Act id: `pravilnik-2013-2694` (tags `pravilnik-2013-2694/<day>`; `python registry/tools/on.py <day> pravilnik-2013-2694`).
 
 ## Status
 

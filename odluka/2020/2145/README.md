@@ -8,7 +8,7 @@ Odluka o uvođenju nužnih epidemioloških mjera za područje Grada Popovače ·
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2020-2145` (tags `odluka-2020-2145/<day>`; `python tools/on.py <day> odluka-2020-2145`).
+Act id: `odluka-2020-2145` (tags `odluka-2020-2145/<day>`; `python registry/tools/on.py <day> odluka-2020-2145`).
 
 ## Decisions made by hand
 

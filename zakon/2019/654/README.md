@@ -9,7 +9,7 @@ Zakon o izmjenama Zakona o provedbi Uredbe (EZ) br. 1107/2009 o stavljanju na tr
 | čl. 3 | [clanak-003.md](clanak-003.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2019-654` (tags `zakon-2019-654/<day>`; `python tools/on.py <day> zakon-2019-654`).
+Act id: `zakon-2019-654` (tags `zakon-2019-654/<day>`; `python registry/tools/on.py <day> zakon-2019-654`).
 
 ## Decisions made by hand
 

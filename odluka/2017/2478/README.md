@@ -13,7 +13,7 @@ Odluku o obavješćivanju o prekograničnom pružanju usluga kreditnog posrednik
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2017-2478` (tags `odluka-2017-2478/<day>`; `python tools/on.py <day> odluka-2017-2478`).
+Act id: `odluka-2017-2478` (tags `odluka-2017-2478/<day>`; `python registry/tools/on.py <day> odluka-2017-2478`).
 
 ## Status
 

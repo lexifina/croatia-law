@@ -9,7 +9,7 @@ Odluka o davanju suglasnosti na Privremeni financijski plan Agencije za upravlja
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2011-2623` (tags `odluka-2011-2623/<day>`; `python tools/on.py <day> odluka-2011-2623`).
+Act id: `odluka-2011-2623` (tags `odluka-2011-2623/<day>`; `python registry/tools/on.py <day> odluka-2011-2623`).
 
 ## Decisions made by hand
 

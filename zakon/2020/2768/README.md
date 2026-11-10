@@ -27,7 +27,7 @@ Zakon o izmjenama i dopunama Zakona o osobnoj iskaznici · 1 versions, from 2021
 | čl. 21 | [clanak-021.md](clanak-021.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2020-2768` (tags `zakon-2020-2768/<day>`; `python tools/on.py <day> zakon-2020-2768`).
+Act id: `zakon-2020-2768` (tags `zakon-2020-2768/<day>`; `python registry/tools/on.py <day> zakon-2020-2768`).
 
 ## Decisions made by hand
 

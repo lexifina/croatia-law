@@ -13,7 +13,7 @@ Zakon o izmjenama Zakona o biljnom zdravstvu · 1 versions, from 2019-01-01 (lat
 | čl. 7 | [clanak-007.md](clanak-007.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2018-2246` (tags `zakon-2018-2246/<day>`; `python tools/on.py <day> zakon-2018-2246`).
+Act id: `zakon-2018-2246` (tags `zakon-2018-2246/<day>`; `python registry/tools/on.py <day> zakon-2018-2246`).
 
 ## Decisions made by hand
 

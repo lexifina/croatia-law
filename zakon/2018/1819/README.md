@@ -44,7 +44,7 @@ Zakon o izmjenama i dopunama Zakona o zaštiti na radu · 1 versions, from 2018-
 | čl. 38 | [clanak-038.md](clanak-038.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2018-1819` (tags `zakon-2018-1819/<day>`; `python tools/on.py <day> zakon-2018-1819`).
+Act id: `zakon-2018-1819` (tags `zakon-2018-1819/<day>`; `python registry/tools/on.py <day> zakon-2018-1819`).
 
 ## Status
 

@@ -10,7 +10,7 @@ Pravilnik o izmjeni Pravilnika o načinu propisivanja i izdavanja lijekova na re
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2014-1561` (tags `pravilnik-2014-1561/<day>`; `python tools/on.py <day> pravilnik-2014-1561`).
+Act id: `pravilnik-2014-1561` (tags `pravilnik-2014-1561/<day>`; `python registry/tools/on.py <day> pravilnik-2014-1561`).
 
 ## Decisions made by hand
 

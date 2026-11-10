@@ -8,7 +8,7 @@ Odluka o financiranju prve faze projekta plutajućeg terminala za ukapljeni prir
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2019-239` (tags `odluka-2019-239/<day>`; `python tools/on.py <day> odluka-2019-239`).
+Act id: `odluka-2019-239` (tags `odluka-2019-239/<day>`; `python registry/tools/on.py <day> odluka-2019-239`).
 
 ## Decisions made by hand
 

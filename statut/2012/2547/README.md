@@ -93,7 +93,7 @@ Statut Hrvatskog zavoda za mirovinsko osiguranje · 1 versions, from 2012-10-24 
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `statut-2012-2547` (tags `statut-2012-2547/<day>`; `python tools/on.py <day> statut-2012-2547`).
+Act id: `statut-2012-2547` (tags `statut-2012-2547/<day>`; `python registry/tools/on.py <day> statut-2012-2547`).
 
 ## Status
 

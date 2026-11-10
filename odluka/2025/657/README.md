@@ -19,7 +19,7 @@ Odluka o kriterijima kreditiranja potrošača · 1 versions, from 2025-07-01 (la
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2025-657` (tags `odluka-2025-657/<day>`; `python tools/on.py <day> odluka-2025-657`).
+Act id: `odluka-2025-657` (tags `odluka-2025-657/<day>`; `python registry/tools/on.py <day> odluka-2025-657`).
 
 ## Status
 

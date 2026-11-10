@@ -25,7 +25,7 @@ Pravilnik o uvjetima, kriterijima i načinu dodjele državne potpore u okviru pr
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2017-2021` (tags `pravilnik-2017-2021/<day>`; `python tools/on.py <day> pravilnik-2017-2021`).
+Act id: `pravilnik-2017-2021` (tags `pravilnik-2017-2021/<day>`; `python registry/tools/on.py <day> pravilnik-2017-2021`).
 
 ## Status
 

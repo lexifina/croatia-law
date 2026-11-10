@@ -38,7 +38,7 @@ Pravilnik o financijskom izvještavanju u proračunskom računovodstvu · 1 vers
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2011-721` (tags `pravilnik-2011-721/<day>`; `python tools/on.py <day> pravilnik-2011-721`).
+Act id: `pravilnik-2011-721` (tags `pravilnik-2011-721/<day>`; `python registry/tools/on.py <day> pravilnik-2011-721`).
 
 ## Status
 

@@ -8,7 +8,7 @@ Odluka o upisu obveznih blagajničkih zapisa Hrvatske narodne banke · 1 version
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2013-3059` (tags `odluka-2013-3059/<day>`; `python tools/on.py <day> odluka-2013-3059`).
+Act id: `odluka-2013-3059` (tags `odluka-2013-3059/<day>`; `python registry/tools/on.py <day> odluka-2013-3059`).
 
 ## Status
 

@@ -25,7 +25,7 @@ Pravilnik o poticanju ulaganja u proizvodnju audiovizualnih djela · 1 versions,
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2015-66` (tags `pravilnik-2015-66/<day>`; `python tools/on.py <day> pravilnik-2015-66`).
+Act id: `pravilnik-2015-66` (tags `pravilnik-2015-66/<day>`; `python registry/tools/on.py <day> pravilnik-2015-66`).
 
 ## Status
 

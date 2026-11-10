@@ -10,7 +10,7 @@ Uredba o izmjeni i dopuni Uredbe o postupku, načinu polaganja i Programu struč
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2014-26` (tags `uredba-2014-26/<day>`; `python tools/on.py <day> uredba-2014-26`).
+Act id: `uredba-2014-26` (tags `uredba-2014-26/<day>`; `python registry/tools/on.py <day> uredba-2014-26`).
 
 ## Decisions made by hand
 

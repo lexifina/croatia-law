@@ -13,7 +13,7 @@ Pravilnik o izmjenama i dopunama Pravilnika o profesionalnoj rehabilitaciji i ce
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2015-47` (tags `pravilnik-2015-47/<day>`; `python tools/on.py <day> pravilnik-2015-47`).
+Act id: `pravilnik-2015-47` (tags `pravilnik-2015-47/<day>`; `python registry/tools/on.py <day> pravilnik-2015-47`).
 
 ## Decisions made by hand
 

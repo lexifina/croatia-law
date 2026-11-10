@@ -41,7 +41,7 @@ Zakon o izmjenama i dopunama Zakona o tržištu toplinske energije · 1 versions
 | čl. 35 | [clanak-035.md](clanak-035.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2025-858` (tags `zakon-2025-858/<day>`; `python tools/on.py <day> zakon-2025-858`).
+Act id: `zakon-2025-858` (tags `zakon-2025-858/<day>`; `python registry/tools/on.py <day> zakon-2025-858`).
 
 ## Decisions made by hand
 

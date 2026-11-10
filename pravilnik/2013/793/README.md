@@ -16,7 +16,7 @@ Pravilnik o izmjenama i dopunama Pravilnika o izobrazbi i stručnom ispitu za za
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2013-793` (tags `pravilnik-2013-793/<day>`; `python tools/on.py <day> pravilnik-2013-793`).
+Act id: `pravilnik-2013-793` (tags `pravilnik-2013-793/<day>`; `python registry/tools/on.py <day> pravilnik-2013-793`).
 
 ## Decisions made by hand
 

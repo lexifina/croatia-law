@@ -24,7 +24,7 @@ Zakon o izmjenama i dopunama Zakona o Državnom sudbenom vijeću · 1 versions, 
 | čl. 18 | [clanak-018.md](clanak-018.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2026-902` (tags `zakon-2026-902/<day>`; `python tools/on.py <day> zakon-2026-902`).
+Act id: `zakon-2026-902` (tags `zakon-2026-902/<day>`; `python registry/tools/on.py <day> zakon-2026-902`).
 
 ## Decisions made by hand
 

@@ -10,7 +10,7 @@ Izmjene i dopune Statuta Turističke zajednice Varaždinske županije · 1 versi
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `statut-2018-2188` (tags `statut-2018-2188/<day>`; `python tools/on.py <day> statut-2018-2188`).
+Act id: `statut-2018-2188` (tags `statut-2018-2188/<day>`; `python registry/tools/on.py <day> statut-2018-2188`).
 
 ## Status
 

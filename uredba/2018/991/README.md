@@ -5,7 +5,7 @@ Uredba o načinu i kriterijima za davanje u zakup šumskog zemljišta u vlasniš
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `uredba-2018-991` (tags `uredba-2018-991/<day>`; `python tools/on.py <day> uredba-2018-991`).
+Act id: `uredba-2018-991` (tags `uredba-2018-991/<day>`; `python registry/tools/on.py <day> uredba-2018-991`).
 
 ## Decisions made by hand
 

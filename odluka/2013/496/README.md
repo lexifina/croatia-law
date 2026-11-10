@@ -9,7 +9,7 @@ Odluka o minimalnim financijskim sredstvima za decentralizirano financiranje red
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2013-496` (tags `odluka-2013-496/<day>`; `python tools/on.py <day> odluka-2013-496`).
+Act id: `odluka-2013-496` (tags `odluka-2013-496/<day>`; `python registry/tools/on.py <day> odluka-2013-496`).
 
 ## Decisions made by hand
 

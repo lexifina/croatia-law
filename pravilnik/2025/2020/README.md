@@ -17,7 +17,7 @@ Pravilnik o izmjenama i dopunama Pravilnika o zvanjima i svjedodžbama o osposob
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2025-2020` (tags `pravilnik-2025-2020/<day>`; `python tools/on.py <day> pravilnik-2025-2020`).
+Act id: `pravilnik-2025-2020` (tags `pravilnik-2025-2020/<day>`; `python registry/tools/on.py <day> pravilnik-2025-2020`).
 
 ## Decisions made by hand
 

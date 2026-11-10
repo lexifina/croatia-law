@@ -43,7 +43,7 @@ Pravilnik o doznaci stabala, obilježavanju drvnih sortimenata, popratnici i šu
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2015-332` (tags `pravilnik-2015-332/<day>`; `python tools/on.py <day> pravilnik-2015-332`).
+Act id: `pravilnik-2015-332` (tags `pravilnik-2015-332/<day>`; `python registry/tools/on.py <day> pravilnik-2015-332`).
 
 ## Status
 

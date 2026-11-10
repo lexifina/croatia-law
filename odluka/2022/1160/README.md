@@ -18,7 +18,7 @@ Odluka o naknadi za razvoj trgovačkog društva KOMUNALIJE VODOVOD d.o.o. za vod
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2022-1160` (tags `odluka-2022-1160/<day>`; `python tools/on.py <day> odluka-2022-1160`).
+Act id: `odluka-2022-1160` (tags `odluka-2022-1160/<day>`; `python registry/tools/on.py <day> odluka-2022-1160`).
 
 ## Decisions made by hand
 

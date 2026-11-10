@@ -17,7 +17,7 @@ Odluka o izmjenama i dopunama Odluke o uvjetima za otvaranje i funkcioniranje T2
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2021-2062` (tags `odluka-2021-2062/<day>`; `python tools/on.py <day> odluka-2021-2062`).
+Act id: `odluka-2021-2062` (tags `odluka-2021-2062/<day>`; `python registry/tools/on.py <day> odluka-2021-2062`).
 
 ## Decisions made by hand
 

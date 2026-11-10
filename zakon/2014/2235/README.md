@@ -17,7 +17,7 @@ Zakon o izmjenama i dopuni Zakona o Gradu Zagrebu · 1 versions, from 2015-01-01
 | čl. 11 | [clanak-011.md](clanak-011.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2014-2235` (tags `zakon-2014-2235/<day>`; `python tools/on.py <day> zakon-2014-2235`).
+Act id: `zakon-2014-2235` (tags `zakon-2014-2235/<day>`; `python registry/tools/on.py <day> zakon-2014-2235`).
 
 ## Decisions made by hand
 

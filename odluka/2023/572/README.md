@@ -8,7 +8,7 @@ Odluka o iznosu tarifnih stavki za zajamčenu opskrbu plinom za krajnje kupce ko
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2023-572` (tags `odluka-2023-572/<day>`; `python tools/on.py <day> odluka-2023-572`).
+Act id: `odluka-2023-572` (tags `odluka-2023-572/<day>`; `python registry/tools/on.py <day> odluka-2023-572`).
 
 ## Decisions made by hand
 

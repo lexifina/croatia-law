@@ -68,7 +68,7 @@ Pravilnik o osiguranju pristupačnosti građevina osobama s invaliditetom i sman
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2013-1615` (tags `pravilnik-2013-1615/<day>`; `python tools/on.py <day> pravilnik-2013-1615`).
+Act id: `pravilnik-2013-1615` (tags `pravilnik-2013-1615/<day>`; `python registry/tools/on.py <day> pravilnik-2013-1615`).
 
 ## Status
 

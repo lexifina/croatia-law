@@ -22,7 +22,7 @@ Odluka o lokalnim porezima Općine Udbina · 1 versions, from 2023-01-01 (latest
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2022-1929` (tags `odluka-2022-1929/<day>`; `python tools/on.py <day> odluka-2022-1929`).
+Act id: `odluka-2022-1929` (tags `odluka-2022-1929/<day>`; `python registry/tools/on.py <day> odluka-2022-1929`).
 
 ## Decisions made by hand
 

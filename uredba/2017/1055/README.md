@@ -163,7 +163,7 @@ Uredba o unutarnjem ustrojstvu Ministarstva regionalnoga razvoja i fondova Europ
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2017-1055` (tags `uredba-2017-1055/<day>`; `python tools/on.py <day> uredba-2017-1055`).
+Act id: `uredba-2017-1055` (tags `uredba-2017-1055/<day>`; `python registry/tools/on.py <day> uredba-2017-1055`).
 
 ## Status
 

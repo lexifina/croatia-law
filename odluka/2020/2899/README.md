@@ -8,7 +8,7 @@ Odluka o preraspodjeli sredstava planiranih u Državnom proračunu Republike Hrv
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2020-2899` (tags `odluka-2020-2899/<day>`; `python tools/on.py <day> odluka-2020-2899`).
+Act id: `odluka-2020-2899` (tags `odluka-2020-2899/<day>`; `python registry/tools/on.py <day> odluka-2020-2899`).
 
 ## Decisions made by hand
 

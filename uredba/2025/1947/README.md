@@ -188,7 +188,7 @@ Uredba o unutarnjem ustrojstvu Ministarstva regionalnoga razvoja i fondova Europ
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2025-1947` (tags `uredba-2025-1947/<day>`; `python tools/on.py <day> uredba-2025-1947`).
+Act id: `uredba-2025-1947` (tags `uredba-2025-1947/<day>`; `python registry/tools/on.py <day> uredba-2025-1947`).
 
 ## Decisions made by hand
 

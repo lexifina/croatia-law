@@ -35,7 +35,7 @@ Statut političke stranke Istarski demokrati - Democratici istriani - ID - DI ·
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `statut-2025-958` (tags `statut-2025-958/<day>`; `python tools/on.py <day> statut-2025-958`).
+Act id: `statut-2025-958` (tags `statut-2025-958/<day>`; `python registry/tools/on.py <day> statut-2025-958`).
 
 ## Decisions made by hand
 

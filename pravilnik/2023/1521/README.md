@@ -16,7 +16,7 @@ Pravilnik o visini nagrade i naknade troškova javnog bilježnika kao povjerenik
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2023-1521` (tags `pravilnik-2023-1521/<day>`; `python tools/on.py <day> pravilnik-2023-1521`).
+Act id: `pravilnik-2023-1521` (tags `pravilnik-2023-1521/<day>`; `python registry/tools/on.py <day> pravilnik-2023-1521`).
 
 ## Decisions made by hand
 

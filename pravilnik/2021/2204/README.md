@@ -39,7 +39,7 @@ Pravilnik o načinu provedbe stručnog nadzora građenja, uvjetima i načinu vo�
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2021-2204` (tags `pravilnik-2021-2204/<day>`; `python tools/on.py <day> pravilnik-2021-2204`).
+Act id: `pravilnik-2021-2204` (tags `pravilnik-2021-2204/<day>`; `python registry/tools/on.py <day> pravilnik-2021-2204`).
 
 ## Status
 

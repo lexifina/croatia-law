@@ -11,7 +11,7 @@ Uredba o izmjenama Zakona o boravišnoj pristojbi · 1 versions, from 2014-01-01
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2013-3308` (tags `uredba-2013-3308/<day>`; `python tools/on.py <day> uredba-2013-3308`).
+Act id: `uredba-2013-3308` (tags `uredba-2013-3308/<day>`; `python registry/tools/on.py <day> uredba-2013-3308`).
 
 ## Decisions made by hand
 

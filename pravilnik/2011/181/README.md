@@ -17,7 +17,7 @@ Pravilnik o nagradama i naknadi troškova javnih bilježnika u ovršnom postupku
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2011-181` (tags `pravilnik-2011-181/<day>`; `python tools/on.py <day> pravilnik-2011-181`).
+Act id: `pravilnik-2011-181` (tags `pravilnik-2011-181/<day>`; `python registry/tools/on.py <day> pravilnik-2011-181`).
 
 ## Status
 

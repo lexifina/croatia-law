@@ -26,7 +26,7 @@ Uredba o jediničnim naknadama, korektivnim koeficijentima i pobližim kriteriji
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2014-2168` (tags `uredba-2014-2168/<day>`; `python tools/on.py <day> uredba-2014-2168`).
+Act id: `uredba-2014-2168` (tags `uredba-2014-2168/<day>`; `python registry/tools/on.py <day> uredba-2014-2168`).
 
 ## Status
 

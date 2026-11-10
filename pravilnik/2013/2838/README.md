@@ -19,7 +19,7 @@ Pravilnik o izmjenama Pravilnika o obliku, sadržaju i načinu vođenja Registra
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2013-2838` (tags `pravilnik-2013-2838/<day>`; `python tools/on.py <day> pravilnik-2013-2838`).
+Act id: `pravilnik-2013-2838` (tags `pravilnik-2013-2838/<day>`; `python registry/tools/on.py <day> pravilnik-2013-2838`).
 
 ## Decisions made by hand
 

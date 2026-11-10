@@ -20,7 +20,7 @@ Pravilnik o načinu i provođenju te ocjenjivanju pisanog ispita i usmenog razgo
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2013-3007` (tags `pravilnik-2013-3007/<day>`; `python tools/on.py <day> pravilnik-2013-3007`).
+Act id: `pravilnik-2013-3007` (tags `pravilnik-2013-3007/<day>`; `python registry/tools/on.py <day> pravilnik-2013-3007`).
 
 ## Status
 

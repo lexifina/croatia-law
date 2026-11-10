@@ -11,7 +11,7 @@ Pravilnik o izmjenama i dopunama Pravilnika o ograničavanju uporabe određenih 
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2023-295` (tags `pravilnik-2023-295/<day>`; `python tools/on.py <day> pravilnik-2023-295`).
+Act id: `pravilnik-2023-295` (tags `pravilnik-2023-295/<day>`; `python registry/tools/on.py <day> pravilnik-2023-295`).
 
 ## Decisions made by hand
 

@@ -57,7 +57,7 @@ Pravilnik o utvrđivanju zdravstvene sposobnosti za vojnu službu · 1 versions,
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2014-779` (tags `pravilnik-2014-779/<day>`; `python tools/on.py <day> pravilnik-2014-779`).
+Act id: `pravilnik-2014-779` (tags `pravilnik-2014-779/<day>`; `python registry/tools/on.py <day> pravilnik-2014-779`).
 
 ## Status
 

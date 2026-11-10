@@ -9,7 +9,7 @@ Pravilnik o izmjeni Pravilnika o obvezama Hrvatske agencije za osiguranje depozi
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2024-143` (tags `pravilnik-2024-143/<day>`; `python tools/on.py <day> pravilnik-2024-143`).
+Act id: `pravilnik-2024-143` (tags `pravilnik-2024-143/<day>`; `python registry/tools/on.py <day> pravilnik-2024-143`).
 
 ## Decisions made by hand
 

@@ -50,7 +50,7 @@ Pravilnik o načinu vođenja i podacima koji se unose u upisnike pomorskih objek
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2015-2358` (tags `pravilnik-2015-2358/<day>`; `python tools/on.py <day> pravilnik-2015-2358`).
+Act id: `pravilnik-2015-2358` (tags `pravilnik-2015-2358/<day>`; `python registry/tools/on.py <day> pravilnik-2015-2358`).
 
 ## Status
 

@@ -10,7 +10,7 @@ Odluka o visini poreznih stopa godišnjeg poreza na dohodak na području Grada D
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2023-2062` (tags `odluka-2023-2062/<day>`; `python tools/on.py <day> odluka-2023-2062`).
+Act id: `odluka-2023-2062` (tags `odluka-2023-2062/<day>`; `python registry/tools/on.py <day> odluka-2023-2062`).
 
 ## Decisions made by hand
 

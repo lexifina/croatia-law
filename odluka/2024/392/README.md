@@ -10,7 +10,7 @@ Odluka o osnovici za određivanje naknade zbog tjelesnog oštećenja i o usklađ
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2024-392` (tags `odluka-2024-392/<day>`; `python tools/on.py <day> odluka-2024-392`).
+Act id: `odluka-2024-392` (tags `odluka-2024-392/<day>`; `python registry/tools/on.py <day> odluka-2024-392`).
 
 ## Decisions made by hand
 

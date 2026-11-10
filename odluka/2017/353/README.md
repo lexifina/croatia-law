@@ -8,7 +8,7 @@ Odluka o osnivanju Nacionalnog koordinacijskog odbora za europske strukturne i i
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2017-353` (tags `odluka-2017-353/<day>`; `python tools/on.py <day> odluka-2017-353`).
+Act id: `odluka-2017-353` (tags `odluka-2017-353/<day>`; `python registry/tools/on.py <day> odluka-2017-353`).
 
 ## Status
 

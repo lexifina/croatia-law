@@ -15,7 +15,7 @@ Odluka o naknadi za nadzor izdavatelja tokena vezanih uz imovinu i tokena e-novc
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2025-2080` (tags `odluka-2025-2080/<day>`; `python tools/on.py <day> odluka-2025-2080`).
+Act id: `odluka-2025-2080` (tags `odluka-2025-2080/<day>`; `python registry/tools/on.py <day> odluka-2025-2080`).
 
 ## Decisions made by hand
 

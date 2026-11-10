@@ -16,7 +16,7 @@ Zakon o izmjenama Zakona o obveznim odnosima · 1 versions, from 2018-04-05 (lat
 | čl. 10 | [clanak-010.md](clanak-010.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2018-586` (tags `zakon-2018-586/<day>`; `python tools/on.py <day> zakon-2018-586`).
+Act id: `zakon-2018-586` (tags `zakon-2018-586/<day>`; `python registry/tools/on.py <day> zakon-2018-586`).
 
 ## Decisions made by hand
 

@@ -34,7 +34,7 @@ Zakon o izmjenama i dopunama Zakona o održivom gospodarenju otpadom · 1 versio
 | čl. 28 | [clanak-028.md](clanak-028.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2017-1767` (tags `zakon-2017-1767/<day>`; `python tools/on.py <day> zakon-2017-1767`).
+Act id: `zakon-2017-1767` (tags `zakon-2017-1767/<day>`; `python registry/tools/on.py <day> zakon-2017-1767`).
 
 ## Decisions made by hand
 

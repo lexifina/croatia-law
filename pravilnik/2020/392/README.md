@@ -10,7 +10,7 @@ Pravilnik o izmjenama Pravilnika o evidencijskoj oznaci humanitarne akcije · 1 
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2020-392` (tags `pravilnik-2020-392/<day>`; `python tools/on.py <day> pravilnik-2020-392`).
+Act id: `pravilnik-2020-392` (tags `pravilnik-2020-392/<day>`; `python registry/tools/on.py <day> pravilnik-2020-392`).
 
 ## Decisions made by hand
 

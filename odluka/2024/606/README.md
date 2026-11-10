@@ -8,7 +8,7 @@ Odluka o davanju prethodne suglasnosti na Statut Hrvatske regulatorne agencije z
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2024-606` (tags `odluka-2024-606/<day>`; `python tools/on.py <day> odluka-2024-606`).
+Act id: `odluka-2024-606` (tags `odluka-2024-606/<day>`; `python registry/tools/on.py <day> odluka-2024-606`).
 
 ## Decisions made by hand
 

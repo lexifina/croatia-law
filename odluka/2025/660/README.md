@@ -7,7 +7,7 @@ Odluka Agencije za elektroničke medije klasa: 612-12/22-02/0002, urbroj: 114-03
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 
-Act id: `odluka-2025-660` (tags `odluka-2025-660/<day>`; `python tools/on.py <day> odluka-2025-660`).
+Act id: `odluka-2025-660` (tags `odluka-2025-660/<day>`; `python registry/tools/on.py <day> odluka-2025-660`).
 
 ## Decisions made by hand
 

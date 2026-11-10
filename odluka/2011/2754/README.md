@@ -8,7 +8,7 @@ Odluka o dodjeli Državne nagrade za volontiranje u 2011. godini · 1 versions, 
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2011-2754` (tags `odluka-2011-2754/<day>`; `python tools/on.py <day> odluka-2011-2754`).
+Act id: `odluka-2011-2754` (tags `odluka-2011-2754/<day>`; `python registry/tools/on.py <day> odluka-2011-2754`).
 
 ## Decisions made by hand
 

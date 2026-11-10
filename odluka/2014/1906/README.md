@@ -8,7 +8,7 @@ Odluka o davanju prethodne suglasnosti Ministarstvu poduzetništva i obrta za an
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2014-1906` (tags `odluka-2014-1906/<day>`; `python tools/on.py <day> odluka-2014-1906`).
+Act id: `odluka-2014-1906` (tags `odluka-2014-1906/<day>`; `python registry/tools/on.py <day> odluka-2014-1906`).
 
 ## Decisions made by hand
 

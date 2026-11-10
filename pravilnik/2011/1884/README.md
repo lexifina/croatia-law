@@ -9,7 +9,7 @@ Pravilnik o izmjenama Pravilnika o izobrazbi i stručnom ispitu djelatnika u hum
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2011-1884` (tags `pravilnik-2011-1884/<day>`; `python tools/on.py <day> pravilnik-2011-1884`).
+Act id: `pravilnik-2011-1884` (tags `pravilnik-2011-1884/<day>`; `python registry/tools/on.py <day> pravilnik-2011-1884`).
 
 ## Decisions made by hand
 

@@ -9,7 +9,7 @@ Pravilnik o izmjeni Pravilnika o energetskom pregledu zgrade i energetskom certi
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2017-1905` (tags `pravilnik-2017-1905/<day>`; `python tools/on.py <day> pravilnik-2017-1905`).
+Act id: `pravilnik-2017-1905` (tags `pravilnik-2017-1905/<day>`; `python registry/tools/on.py <day> pravilnik-2017-1905`).
 
 ## Decisions made by hand
 

@@ -10,7 +10,7 @@ Odluka o visini poreznih stopa poreza na dohodak u Općini Vrsi · 1 versions, f
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2023-2146` (tags `odluka-2023-2146/<day>`; `python tools/on.py <day> odluka-2023-2146`).
+Act id: `odluka-2023-2146` (tags `odluka-2023-2146/<day>`; `python registry/tools/on.py <day> odluka-2023-2146`).
 
 ## Decisions made by hand
 

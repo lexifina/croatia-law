@@ -8,7 +8,7 @@ Odluka o izmjenama i dopuni Odluke o osnivanju Nacionalnog vijeća za digitalnu 
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2024-1780` (tags `odluka-2024-1780/<day>`; `python tools/on.py <day> odluka-2024-1780`).
+Act id: `odluka-2024-1780` (tags `odluka-2024-1780/<day>`; `python registry/tools/on.py <day> odluka-2024-1780`).
 
 ## Decisions made by hand
 

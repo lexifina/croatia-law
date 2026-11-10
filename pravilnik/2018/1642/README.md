@@ -30,7 +30,7 @@ Pravilnik o uvjetima, kriterijima i načinu dodjele potpore u okviru mjere I.9. 
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2018-1642` (tags `pravilnik-2018-1642/<day>`; `python tools/on.py <day> pravilnik-2018-1642`).
+Act id: `pravilnik-2018-1642` (tags `pravilnik-2018-1642/<day>`; `python registry/tools/on.py <day> pravilnik-2018-1642`).
 
 ## Decisions made by hand
 

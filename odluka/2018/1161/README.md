@@ -9,7 +9,7 @@ Odluka o usvajanju Programa »Mikro i mali zajmovi za ruralni razvoj« · 1 vers
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2018-1161` (tags `odluka-2018-1161/<day>`; `python tools/on.py <day> odluka-2018-1161`).
+Act id: `odluka-2018-1161` (tags `odluka-2018-1161/<day>`; `python registry/tools/on.py <day> odluka-2018-1161`).
 
 ## Status
 

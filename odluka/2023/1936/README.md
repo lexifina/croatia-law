@@ -8,7 +8,7 @@ Odluka o postavljanju počasnog konzula Republike Hrvatske u Australiji, sa sjed
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2023-1936` (tags `odluka-2023-1936/<day>`; `python tools/on.py <day> odluka-2023-1936`).
+Act id: `odluka-2023-1936` (tags `odluka-2023-1936/<day>`; `python registry/tools/on.py <day> odluka-2023-1936`).
 
 ## Decisions made by hand
 

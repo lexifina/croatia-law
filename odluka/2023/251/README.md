@@ -8,7 +8,7 @@ Odluka o izmjenama i dopuni Odluke o financiranju najamnine za stambeno zbrinjav
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2023-251` (tags `odluka-2023-251/<day>`; `python tools/on.py <day> odluka-2023-251`).
+Act id: `odluka-2023-251` (tags `odluka-2023-251/<day>`; `python registry/tools/on.py <day> odluka-2023-251`).
 
 ## Decisions made by hand
 

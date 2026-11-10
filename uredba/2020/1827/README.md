@@ -81,7 +81,7 @@ Uredba o unutarnjem ustrojstvu Ministarstva zdravstva · 1 versions, from 2020-0
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2020-1827` (tags `uredba-2020-1827/<day>`; `python tools/on.py <day> uredba-2020-1827`).
+Act id: `uredba-2020-1827` (tags `uredba-2020-1827/<day>`; `python registry/tools/on.py <day> uredba-2020-1827`).
 
 ## Status
 

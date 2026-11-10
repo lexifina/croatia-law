@@ -15,7 +15,7 @@ Izmjene i dopuna Statuta Hrvatske komore socijalnih pedagoga · 1 versions, from
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `statut-2026-1299` (tags `statut-2026-1299/<day>`; `python tools/on.py <day> statut-2026-1299`).
+Act id: `statut-2026-1299` (tags `statut-2026-1299/<day>`; `python registry/tools/on.py <day> statut-2026-1299`).
 
 ## Decisions made by hand
 

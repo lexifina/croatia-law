@@ -25,7 +25,7 @@ Pravilnik o izračunu, visini i naplati naknada koje se plaćaju Hrvatskoj agenc
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2020-2881` (tags `pravilnik-2020-2881/<day>`; `python tools/on.py <day> pravilnik-2020-2881`).
+Act id: `pravilnik-2020-2881` (tags `pravilnik-2020-2881/<day>`; `python registry/tools/on.py <day> pravilnik-2020-2881`).
 
 ## Decisions made by hand
 

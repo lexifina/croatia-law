@@ -11,7 +11,7 @@ Pravilnik o izmjenama Pravilnika o plaćanju naknada za pravo uporabe adresa, br
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2018-1926` (tags `pravilnik-2018-1926/<day>`; `python tools/on.py <day> pravilnik-2018-1926`).
+Act id: `pravilnik-2018-1926` (tags `pravilnik-2018-1926/<day>`; `python registry/tools/on.py <day> pravilnik-2018-1926`).
 
 ## Decisions made by hand
 

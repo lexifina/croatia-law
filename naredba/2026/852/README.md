@@ -21,7 +21,7 @@ Naredba o mjerama kontrole i sprječavanja kuge malih preživača u Republici Hr
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `naredba-2026-852` (tags `naredba-2026-852/<day>`; `python tools/on.py <day> naredba-2026-852`).
+Act id: `naredba-2026-852` (tags `naredba-2026-852/<day>`; `python registry/tools/on.py <day> naredba-2026-852`).
 
 ## Decisions made by hand
 

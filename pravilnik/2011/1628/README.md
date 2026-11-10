@@ -22,7 +22,7 @@ Pravilnik o organiziranju, financiranju i donošenju programa festivala Varaždi
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2011-1628` (tags `pravilnik-2011-1628/<day>`; `python tools/on.py <day> pravilnik-2011-1628`).
+Act id: `pravilnik-2011-1628` (tags `pravilnik-2011-1628/<day>`; `python registry/tools/on.py <day> pravilnik-2011-1628`).
 
 ## Decisions made by hand
 

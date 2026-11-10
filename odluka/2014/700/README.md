@@ -8,7 +8,7 @@ Odluka o izmjenama i dopuni Odluke o osnivanju Povjerenstva za praćenje provedb
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2014-700` (tags `odluka-2014-700/<day>`; `python tools/on.py <day> odluka-2014-700`).
+Act id: `odluka-2014-700` (tags `odluka-2014-700/<day>`; `python registry/tools/on.py <day> odluka-2014-700`).
 
 ## Decisions made by hand
 

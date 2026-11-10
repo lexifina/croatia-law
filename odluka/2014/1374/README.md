@@ -8,7 +8,7 @@ Odluka Ministarstva znanosti, obrazovanja i sporta klasa: 602-01/14-03/00085, ur
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2014-1374` (tags `odluka-2014-1374/<day>`; `python tools/on.py <day> odluka-2014-1374`).
+Act id: `odluka-2014-1374` (tags `odluka-2014-1374/<day>`; `python registry/tools/on.py <day> odluka-2014-1374`).
 
 ## Decisions made by hand
 

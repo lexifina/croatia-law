@@ -37,7 +37,7 @@ Statut Željko Lacković - Nezavisne liste · 1 versions, from 2017-06-21 (lates
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `statut-2017-2632` (tags `statut-2017-2632/<day>`; `python tools/on.py <day> statut-2017-2632`).
+Act id: `statut-2017-2632` (tags `statut-2017-2632/<day>`; `python registry/tools/on.py <day> statut-2017-2632`).
 
 ## Status
 

@@ -12,7 +12,7 @@ Uredba o dopunama Uredbe o kvaliteti tekućih naftnih goriva · 1 versions, from
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2015-1098` (tags `uredba-2015-1098/<day>`; `python tools/on.py <day> uredba-2015-1098`).
+Act id: `uredba-2015-1098` (tags `uredba-2015-1098/<day>`; `python registry/tools/on.py <day> uredba-2015-1098`).
 
 ## Decisions made by hand
 

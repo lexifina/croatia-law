@@ -5,7 +5,7 @@ Uredba o unutarnjem ustrojstvu Ministarstva zdravstva · 2 versions, from 2019-1
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `uredba-2019-1854` (tags `uredba-2019-1854/<day>`; `python tools/on.py <day> uredba-2019-1854`).
+Act id: `uredba-2019-1854` (tags `uredba-2019-1854/<day>`; `python registry/tools/on.py <day> uredba-2019-1854`).
 
 ## Decisions made by hand
 

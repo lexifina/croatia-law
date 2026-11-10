@@ -10,7 +10,7 @@ Odluka o određivanju referentnog laboratorija za virološke pretrage na slinavk
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2011-1688` (tags `odluka-2011-1688/<day>`; `python tools/on.py <day> odluka-2011-1688`).
+Act id: `odluka-2011-1688` (tags `odluka-2011-1688/<day>`; `python registry/tools/on.py <day> odluka-2011-1688`).
 
 ## Decisions made by hand
 

@@ -11,7 +11,7 @@ Uredba o izmjenama Uredbe o nazivima radnih mjesta i koeficijentima složenosti 
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2012-1475` (tags `uredba-2012-1475/<day>`; `python tools/on.py <day> uredba-2012-1475`).
+Act id: `uredba-2012-1475` (tags `uredba-2012-1475/<day>`; `python registry/tools/on.py <day> uredba-2012-1475`).
 
 ## Decisions made by hand
 

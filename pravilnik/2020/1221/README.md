@@ -5,7 +5,7 @@ Pravilnik o načinu korištenja vaučera za neizvršene ugovore o putovanju u pa
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `pravilnik-2020-1221` (tags `pravilnik-2020-1221/<day>`; `python tools/on.py <day> pravilnik-2020-1221`).
+Act id: `pravilnik-2020-1221` (tags `pravilnik-2020-1221/<day>`; `python registry/tools/on.py <day> pravilnik-2020-1221`).
 
 ## Decisions made by hand
 

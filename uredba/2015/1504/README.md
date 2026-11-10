@@ -22,7 +22,7 @@ Uredba o izmjenama i dopunama Uredbe o standardu kakvoće vode · 1 versions, fr
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2015-1504` (tags `uredba-2015-1504/<day>`; `python tools/on.py <day> uredba-2015-1504`).
+Act id: `uredba-2015-1504` (tags `uredba-2015-1504/<day>`; `python registry/tools/on.py <day> uredba-2015-1504`).
 
 ## Decisions made by hand
 

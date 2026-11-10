@@ -8,7 +8,7 @@ Odluka o izmjenama Odluke o davanju određenih nekretnina u vlasništvu Republik
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2019-2245` (tags `odluka-2019-2245/<day>`; `python tools/on.py <day> odluka-2019-2245`).
+Act id: `odluka-2019-2245` (tags `odluka-2019-2245/<day>`; `python registry/tools/on.py <day> odluka-2019-2245`).
 
 ## Decisions made by hand
 

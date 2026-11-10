@@ -9,7 +9,7 @@ Odluka o određivanju demarkiranih područja u kojima se provode mjere sprječav
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2016-585` (tags `odluka-2016-585/<day>`; `python tools/on.py <day> odluka-2016-585`).
+Act id: `odluka-2016-585` (tags `odluka-2016-585/<day>`; `python registry/tools/on.py <day> odluka-2016-585`).
 
 ## Status
 

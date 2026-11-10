@@ -16,7 +16,7 @@ Pravilnik o izmjenama i dopunama Pravilnika o najmu stambenih jedinica · 1 vers
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2026-1111` (tags `pravilnik-2026-1111/<day>`; `python tools/on.py <day> pravilnik-2026-1111`).
+Act id: `pravilnik-2026-1111` (tags `pravilnik-2026-1111/<day>`; `python registry/tools/on.py <day> pravilnik-2026-1111`).
 
 ## Decisions made by hand
 

@@ -14,7 +14,7 @@ Pravilnik o izmjenama i dopunama Pravilnika o ustroju i načinu rada matičnih p
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2012-546` (tags `pravilnik-2012-546/<day>`; `python tools/on.py <day> pravilnik-2012-546`).
+Act id: `pravilnik-2012-546` (tags `pravilnik-2012-546/<day>`; `python registry/tools/on.py <day> pravilnik-2012-546`).
 
 ## Status
 

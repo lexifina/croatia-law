@@ -16,7 +16,7 @@ Zakon o provedbi Uredbe Europske unije o europskim fondovima socijalnog poduzetn
 | čl. 10 | [clanak-010.md](clanak-010.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2013-2625` (tags `zakon-2013-2625/<day>`; `python tools/on.py <day> zakon-2013-2625`).
+Act id: `zakon-2013-2625` (tags `zakon-2013-2625/<day>`; `python registry/tools/on.py <day> zakon-2013-2625`).
 
 ## Status
 

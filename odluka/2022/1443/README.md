@@ -12,7 +12,7 @@ Odluka o sadržaju obavijesti o bitnim elementima preračunavanja · 1 versions,
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2022-1443` (tags `odluka-2022-1443/<day>`; `python tools/on.py <day> odluka-2022-1443`).
+Act id: `odluka-2022-1443` (tags `odluka-2022-1443/<day>`; `python registry/tools/on.py <day> odluka-2022-1443`).
 
 ## Decisions made by hand
 

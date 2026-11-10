@@ -5,7 +5,7 @@ Pravilnik o Državnoj nagradi za humanitarni rad · 2 versions, from 2015-11-03 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `pravilnik-2015-2284` (tags `pravilnik-2015-2284/<day>`; `python tools/on.py <day> pravilnik-2015-2284`).
+Act id: `pravilnik-2015-2284` (tags `pravilnik-2015-2284/<day>`; `python registry/tools/on.py <day> pravilnik-2015-2284`).
 
 ## Decisions made by hand
 

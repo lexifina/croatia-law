@@ -8,7 +8,7 @@ Odluka o preraspodjeli sredstava planiranih u Državnom proračunu Republike Hrv
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2024-2484` (tags `odluka-2024-2484/<day>`; `python tools/on.py <day> odluka-2024-2484`).
+Act id: `odluka-2024-2484` (tags `odluka-2024-2484/<day>`; `python registry/tools/on.py <day> odluka-2024-2484`).
 
 ## Decisions made by hand
 

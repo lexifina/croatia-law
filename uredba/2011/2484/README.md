@@ -32,7 +32,7 @@ Uredba o nadležnosti, postupku i uvjetima za ostvarivanje prava na usluge među
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2011-2484` (tags `uredba-2011-2484/<day>`; `python tools/on.py <day> uredba-2011-2484`).
+Act id: `uredba-2011-2484` (tags `uredba-2011-2484/<day>`; `python registry/tools/on.py <day> uredba-2011-2484`).
 
 ## Decisions made by hand
 

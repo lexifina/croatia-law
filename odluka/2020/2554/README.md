@@ -8,7 +8,7 @@ Odluka o davanju prethodne suglasnosti na usuglašeni Konačni prijedlog ugovora
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2020-2554` (tags `odluka-2020-2554/<day>`; `python tools/on.py <day> odluka-2020-2554`).
+Act id: `odluka-2020-2554` (tags `odluka-2020-2554/<day>`; `python registry/tools/on.py <day> odluka-2020-2554`).
 
 ## Decisions made by hand
 

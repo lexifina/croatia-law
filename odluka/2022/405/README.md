@@ -18,7 +18,7 @@ Odluka o izmjenama i dopunama Odluke o prikupljanju podataka o uvjetima kreditir
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2022-405` (tags `odluka-2022-405/<day>`; `python tools/on.py <day> odluka-2022-405`).
+Act id: `odluka-2022-405` (tags `odluka-2022-405/<day>`; `python registry/tools/on.py <day> odluka-2022-405`).
 
 ## Decisions made by hand
 

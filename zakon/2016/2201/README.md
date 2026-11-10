@@ -11,7 +11,7 @@ Zakon o izmjenama Zakona o sustavu državne uprave · 1 versions, from 2016-11-1
 | čl. 5 | [clanak-005.md](clanak-005.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2016-2201` (tags `zakon-2016-2201/<day>`; `python tools/on.py <day> zakon-2016-2201`).
+Act id: `zakon-2016-2201` (tags `zakon-2016-2201/<day>`; `python registry/tools/on.py <day> zakon-2016-2201`).
 
 ## Decisions made by hand
 

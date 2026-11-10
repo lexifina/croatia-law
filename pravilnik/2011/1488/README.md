@@ -14,7 +14,7 @@ Pravilnik o izmjenama i dopuni Pravilnika o uvjetima i načinu korištenja godi�
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2011-1488` (tags `pravilnik-2011-1488/<day>`; `python tools/on.py <day> pravilnik-2011-1488`).
+Act id: `pravilnik-2011-1488` (tags `pravilnik-2011-1488/<day>`; `python registry/tools/on.py <day> pravilnik-2011-1488`).
 
 ## Decisions made by hand
 

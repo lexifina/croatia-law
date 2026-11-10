@@ -13,7 +13,7 @@ Odluka o izmjenama i dopunama Odluke o upravljanju likvidnosnim rizikom · 1 ver
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2013-1236` (tags `odluka-2013-1236/<day>`; `python tools/on.py <day> odluka-2013-1236`).
+Act id: `odluka-2013-1236` (tags `odluka-2013-1236/<day>`; `python registry/tools/on.py <day> odluka-2013-1236`).
 
 ## Decisions made by hand
 

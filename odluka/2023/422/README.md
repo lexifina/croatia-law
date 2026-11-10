@@ -8,7 +8,7 @@ Odluka o utvrÄ‘ivanju interesa Republike Hrvatske za dogradnju i adaptaciju djeÄ
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2023-422` (tags `odluka-2023-422/<day>`; `python tools/on.py <day> odluka-2023-422`).
+Act id: `odluka-2023-422` (tags `odluka-2023-422/<day>`; `python registry/tools/on.py <day> odluka-2023-422`).
 
 ## Decisions made by hand
 

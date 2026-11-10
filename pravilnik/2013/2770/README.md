@@ -48,7 +48,7 @@ Pravilnik o provedbi mjere Investicija u vinarije i marketing vina iz Nacionalno
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2013-2770` (tags `pravilnik-2013-2770/<day>`; `python tools/on.py <day> pravilnik-2013-2770`).
+Act id: `pravilnik-2013-2770` (tags `pravilnik-2013-2770/<day>`; `python registry/tools/on.py <day> pravilnik-2013-2770`).
 
 ## Status
 

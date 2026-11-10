@@ -8,7 +8,7 @@ Odluka o prestanku važenja Odluke o nastavnom planu i programu te organizaciji 
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2013-2980` (tags `odluka-2013-2980/<day>`; `python tools/on.py <day> odluka-2013-2980`).
+Act id: `odluka-2013-2980` (tags `odluka-2013-2980/<day>`; `python registry/tools/on.py <day> odluka-2013-2980`).
 
 ## Decisions made by hand
 

@@ -195,7 +195,7 @@ Zakon o održivom gospodarenju otpadom · 1 versions, from 2013-07-23 (latest in
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 
-Act id: `zakon-2013-2123` (tags `zakon-2013-2123/<day>`; `python tools/on.py <day> zakon-2013-2123`).
+Act id: `zakon-2013-2123` (tags `zakon-2013-2123/<day>`; `python registry/tools/on.py <day> zakon-2013-2123`).
 
 ## Status
 

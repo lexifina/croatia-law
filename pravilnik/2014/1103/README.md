@@ -16,7 +16,7 @@ Pravilnik o službenoj odori inspektora rada · 1 versions, from 2014-05-22 (lat
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2014-1103` (tags `pravilnik-2014-1103/<day>`; `python tools/on.py <day> pravilnik-2014-1103`).
+Act id: `pravilnik-2014-1103` (tags `pravilnik-2014-1103/<day>`; `python registry/tools/on.py <day> pravilnik-2014-1103`).
 
 ## Decisions made by hand
 

@@ -23,7 +23,7 @@ Zakon o izmjenama Zakona o zadrugama · 1 versions, from 2019-01-01 (latest in f
 | čl. 17 | [clanak-017.md](clanak-017.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2018-2213` (tags `zakon-2018-2213/<day>`; `python tools/on.py <day> zakon-2018-2213`).
+Act id: `zakon-2018-2213` (tags `zakon-2018-2213/<day>`; `python registry/tools/on.py <day> zakon-2018-2213`).
 
 ## Decisions made by hand
 

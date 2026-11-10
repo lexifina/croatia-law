@@ -14,7 +14,7 @@ Zakon o izmjenama Zakona o pružanju usluga u turizmu · 1 versions, from 2019-0
 | čl. 8 | [clanak-008.md](clanak-008.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2019-494` (tags `zakon-2019-494/<day>`; `python tools/on.py <day> zakon-2019-494`).
+Act id: `zakon-2019-494` (tags `zakon-2019-494/<day>`; `python registry/tools/on.py <day> zakon-2019-494`).
 
 ## Decisions made by hand
 

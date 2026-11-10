@@ -14,7 +14,7 @@ Zakon o izmjenama i dopunama Zakona o administrativnoj suradnji u području pore
 | čl. 8 | [clanak-008.md](clanak-008.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2017-2989` (tags `zakon-2017-2989/<day>`; `python tools/on.py <day> zakon-2017-2989`).
+Act id: `zakon-2017-2989` (tags `zakon-2017-2989/<day>`; `python registry/tools/on.py <day> zakon-2017-2989`).
 
 ## Decisions made by hand
 

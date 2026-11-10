@@ -8,7 +8,7 @@ Odluka o izmjeni i dopuni Odluke o smještaju zastupnika Hrvatskoga sabora u Zag
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2016-1207` (tags `odluka-2016-1207/<day>`; `python tools/on.py <day> odluka-2016-1207`).
+Act id: `odluka-2016-1207` (tags `odluka-2016-1207/<day>`; `python registry/tools/on.py <day> odluka-2016-1207`).
 
 ## Decisions made by hand
 

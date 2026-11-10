@@ -20,7 +20,7 @@ Uredba o naknadi za koncesiju za eksploataciju mineralnih sirovina · 1 versions
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2014-538` (tags `uredba-2014-538/<day>`; `python tools/on.py <day> uredba-2014-538`).
+Act id: `uredba-2014-538` (tags `uredba-2014-538/<day>`; `python registry/tools/on.py <day> uredba-2014-538`).
 
 ## Status
 

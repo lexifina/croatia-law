@@ -27,7 +27,7 @@ Pravilnik o uvjetima i kriterijima dodjeljivanja sredstava Fonda za sufinanciran
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2015-1580` (tags `pravilnik-2015-1580/<day>`; `python tools/on.py <day> pravilnik-2015-1580`).
+Act id: `pravilnik-2015-1580` (tags `pravilnik-2015-1580/<day>`; `python registry/tools/on.py <day> pravilnik-2015-1580`).
 
 ## Status
 

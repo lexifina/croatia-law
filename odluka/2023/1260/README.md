@@ -11,7 +11,7 @@ Odluka o II. izmjenama i dopunama Odluke o porezima Grada Vrbovca · 1 versions,
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2023-1260` (tags `odluka-2023-1260/<day>`; `python tools/on.py <day> odluka-2023-1260`).
+Act id: `odluka-2023-1260` (tags `odluka-2023-1260/<day>`; `python registry/tools/on.py <day> odluka-2023-1260`).
 
 ## Status
 

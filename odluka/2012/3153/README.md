@@ -9,7 +9,7 @@ Odluka o donošenju Strategije procjene učinaka propisa za razdoblje od 2013. d
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2012-3153` (tags `odluka-2012-3153/<day>`; `python tools/on.py <day> odluka-2012-3153`).
+Act id: `odluka-2012-3153` (tags `odluka-2012-3153/<day>`; `python registry/tools/on.py <day> odluka-2012-3153`).
 
 ## Decisions made by hand
 

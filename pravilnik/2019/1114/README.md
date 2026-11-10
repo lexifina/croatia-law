@@ -19,7 +19,7 @@ Pravilnik o priznavanju inozemnih stručnih kvalifikacija turističkog vodiča i
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2019-1114` (tags `pravilnik-2019-1114/<day>`; `python tools/on.py <day> pravilnik-2019-1114`).
+Act id: `pravilnik-2019-1114` (tags `pravilnik-2019-1114/<day>`; `python registry/tools/on.py <day> pravilnik-2019-1114`).
 
 ## Status
 

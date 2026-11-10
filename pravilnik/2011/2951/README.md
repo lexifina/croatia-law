@@ -20,7 +20,7 @@ Pravilnik o izmjenama i dopunama Pravilnika o sadržaju i obliku svjedodžbi i d
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2011-2951` (tags `pravilnik-2011-2951/<day>`; `python tools/on.py <day> pravilnik-2011-2951`).
+Act id: `pravilnik-2011-2951` (tags `pravilnik-2011-2951/<day>`; `python registry/tools/on.py <day> pravilnik-2011-2951`).
 
 ## Decisions made by hand
 

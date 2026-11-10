@@ -5,7 +5,7 @@ Uredba o unutarnjem ustrojstvu Državnog zavoda za statistiku · 2 versions, fro
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `uredba-2019-1573` (tags `uredba-2019-1573/<day>`; `python tools/on.py <day> uredba-2019-1573`).
+Act id: `uredba-2019-1573` (tags `uredba-2019-1573/<day>`; `python registry/tools/on.py <day> uredba-2019-1573`).
 
 ## Decisions made by hand
 

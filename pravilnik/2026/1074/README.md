@@ -25,7 +25,7 @@ Pravilnik o planu nabave, registru ugovora i pripremi postupka javne nabave · 1
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2026-1074` (tags `pravilnik-2026-1074/<day>`; `python tools/on.py <day> pravilnik-2026-1074`).
+Act id: `pravilnik-2026-1074` (tags `pravilnik-2026-1074/<day>`; `python registry/tools/on.py <day> pravilnik-2026-1074`).
 
 ## Decisions made by hand
 

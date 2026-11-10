@@ -12,7 +12,7 @@ Zakon o izmjenama Zakona o Gradu Zagrebu · 1 versions, from 2020-01-01 (latest 
 | čl. 6 | [clanak-006.md](clanak-006.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2019-1936` (tags `zakon-2019-1936/<day>`; `python tools/on.py <day> zakon-2019-1936`).
+Act id: `zakon-2019-1936` (tags `zakon-2019-1936/<day>`; `python registry/tools/on.py <day> zakon-2019-1936`).
 
 ## Decisions made by hand
 

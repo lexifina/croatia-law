@@ -20,7 +20,7 @@ Pravilnik o Očevidniku producenata · 1 versions, from 2022-01-13 (latest in fo
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2022-13` (tags `pravilnik-2022-13/<day>`; `python tools/on.py <day> pravilnik-2022-13`).
+Act id: `pravilnik-2022-13` (tags `pravilnik-2022-13/<day>`; `python registry/tools/on.py <day> pravilnik-2022-13`).
 
 ## Decisions made by hand
 

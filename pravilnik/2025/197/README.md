@@ -36,7 +36,7 @@ Pravilnik o provedbi Provedbene uredbe Komisije (EU) 2019/317 o utvrđivanju pro
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2025-197` (tags `pravilnik-2025-197/<day>`; `python tools/on.py <day> pravilnik-2025-197`).
+Act id: `pravilnik-2025-197` (tags `pravilnik-2025-197/<day>`; `python registry/tools/on.py <day> pravilnik-2025-197`).
 
 ## Decisions made by hand
 

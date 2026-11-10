@@ -45,7 +45,7 @@ Zakon o izmjenama i dopunama Zakona o kreditnim institucijama · 1 versions, fro
 | čl. 39 | [clanak-039.md](clanak-039.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2024-2370` (tags `zakon-2024-2370/<day>`; `python tools/on.py <day> zakon-2024-2370`).
+Act id: `zakon-2024-2370` (tags `zakon-2024-2370/<day>`; `python registry/tools/on.py <day> zakon-2024-2370`).
 
 ## Decisions made by hand
 

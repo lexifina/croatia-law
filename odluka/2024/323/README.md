@@ -11,7 +11,7 @@ Odluka o izmjenama Odluke o dodatnim kriterijima za procjenu kreditne sposobnost
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2024-323` (tags `odluka-2024-323/<day>`; `python tools/on.py <day> odluka-2024-323`).
+Act id: `odluka-2024-323` (tags `odluka-2024-323/<day>`; `python registry/tools/on.py <day> odluka-2024-323`).
 
 ## Decisions made by hand
 

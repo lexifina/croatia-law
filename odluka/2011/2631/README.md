@@ -8,7 +8,7 @@ Odluka o osnivanju Povjerenstva za rješavanje o žalbama prema Zakonu o obešte
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2011-2631` (tags `odluka-2011-2631/<day>`; `python tools/on.py <day> odluka-2011-2631`).
+Act id: `odluka-2011-2631` (tags `odluka-2011-2631/<day>`; `python registry/tools/on.py <day> odluka-2011-2631`).
 
 ## Decisions made by hand
 

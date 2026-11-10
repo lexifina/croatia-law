@@ -10,7 +10,7 @@ Odluka o visini poreznih stopa poreza na dohodak Grada Gline · 1 versions, from
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2023-2064` (tags `odluka-2023-2064/<day>`; `python tools/on.py <day> odluka-2023-2064`).
+Act id: `odluka-2023-2064` (tags `odluka-2023-2064/<day>`; `python registry/tools/on.py <day> odluka-2023-2064`).
 
 ## Decisions made by hand
 

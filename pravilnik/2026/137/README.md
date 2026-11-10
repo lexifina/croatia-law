@@ -57,7 +57,7 @@ Pravilnik o postupku i uvjetima upućivanja službenika Ministarstva financija, 
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2026-137` (tags `pravilnik-2026-137/<day>`; `python tools/on.py <day> pravilnik-2026-137`).
+Act id: `pravilnik-2026-137` (tags `pravilnik-2026-137/<day>`; `python registry/tools/on.py <day> pravilnik-2026-137`).
 
 ## Decisions made by hand
 

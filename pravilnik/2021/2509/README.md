@@ -11,7 +11,7 @@ Pravilnik o izmjenama Pravilnika o farmakovigilanciji · 1 versions, from 2022-0
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2021-2509` (tags `pravilnik-2021-2509/<day>`; `python tools/on.py <day> pravilnik-2021-2509`).
+Act id: `pravilnik-2021-2509` (tags `pravilnik-2021-2509/<day>`; `python registry/tools/on.py <day> pravilnik-2021-2509`).
 
 ## Decisions made by hand
 

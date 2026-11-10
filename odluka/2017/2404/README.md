@@ -5,7 +5,7 @@ Odluka o osnivanju Vijeća za djecu · 2 versions, from 2017-10-26 (latest in fo
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `odluka-2017-2404` (tags `odluka-2017-2404/<day>`; `python tools/on.py <day> odluka-2017-2404`).
+Act id: `odluka-2017-2404` (tags `odluka-2017-2404/<day>`; `python registry/tools/on.py <day> odluka-2017-2404`).
 
 ## Decisions made by hand
 

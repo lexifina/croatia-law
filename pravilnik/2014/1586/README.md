@@ -30,7 +30,7 @@ Pravilnik o načinu prijavljivanja i odjavljivanja te stjecanju statusa osiguran
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2014-1586` (tags `pravilnik-2014-1586/<day>`; `python tools/on.py <day> pravilnik-2014-1586`).
+Act id: `pravilnik-2014-1586` (tags `pravilnik-2014-1586/<day>`; `python registry/tools/on.py <day> pravilnik-2014-1586`).
 
 ## Status
 

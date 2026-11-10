@@ -18,7 +18,7 @@ Odluku o izdavanju i prodaji prigodnoga zlatnoga i srebrnoga kovanog novca »350
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2020-1912` (tags `odluka-2020-1912/<day>`; `python tools/on.py <day> odluka-2020-1912`).
+Act id: `odluka-2020-1912` (tags `odluka-2020-1912/<day>`; `python registry/tools/on.py <day> odluka-2020-1912`).
 
 ## Decisions made by hand
 

@@ -12,7 +12,7 @@ Uredba o izmjenama Uredbe o unutarnjem ustrojstvu Ministarstva obrane · 1 versi
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2019-1641` (tags `uredba-2019-1641/<day>`; `python tools/on.py <day> uredba-2019-1641`).
+Act id: `uredba-2019-1641` (tags `uredba-2019-1641/<day>`; `python registry/tools/on.py <day> uredba-2019-1641`).
 
 ## Decisions made by hand
 

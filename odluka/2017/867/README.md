@@ -8,7 +8,7 @@ Izmjene Statuta Hrvatske komore ovlaštenih inženjera geodezije · 1 versions, 
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2017-867` (tags `odluka-2017-867/<day>`; `python tools/on.py <day> odluka-2017-867`).
+Act id: `odluka-2017-867` (tags `odluka-2017-867/<day>`; `python registry/tools/on.py <day> odluka-2017-867`).
 
 ## Decisions made by hand
 

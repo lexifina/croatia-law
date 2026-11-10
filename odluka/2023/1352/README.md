@@ -8,7 +8,7 @@ Odluka o sufinanciranju troškova režija za korisnike privremenog stambenog zbr
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2023-1352` (tags `odluka-2023-1352/<day>`; `python tools/on.py <day> odluka-2023-1352`).
+Act id: `odluka-2023-1352` (tags `odluka-2023-1352/<day>`; `python registry/tools/on.py <day> odluka-2023-1352`).
 
 ## Decisions made by hand
 

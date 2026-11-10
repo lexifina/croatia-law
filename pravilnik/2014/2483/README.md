@@ -66,7 +66,7 @@ Pravilnik o uvjetima zdravlja životinja koji se primjenjuju na životinje akvak
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2014-2483` (tags `pravilnik-2014-2483/<day>`; `python tools/on.py <day> pravilnik-2014-2483`).
+Act id: `pravilnik-2014-2483` (tags `pravilnik-2014-2483/<day>`; `python registry/tools/on.py <day> pravilnik-2014-2483`).
 
 ## Status
 

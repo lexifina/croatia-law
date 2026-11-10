@@ -8,7 +8,7 @@ Odluka o davanju naknadne suglasnosti na Statut o izmjenama i dopunama Statuta H
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2025-986` (tags `odluka-2025-986/<day>`; `python tools/on.py <day> odluka-2025-986`).
+Act id: `odluka-2025-986` (tags `odluka-2025-986/<day>`; `python registry/tools/on.py <day> odluka-2025-986`).
 
 ## Decisions made by hand
 

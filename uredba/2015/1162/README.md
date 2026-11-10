@@ -34,7 +34,7 @@ Uredba o izmjenama i dopunama Uredbe o unutarnjem ustrojstvu Ministarstva rada i
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2015-1162` (tags `uredba-2015-1162/<day>`; `python tools/on.py <day> uredba-2015-1162`).
+Act id: `uredba-2015-1162` (tags `uredba-2015-1162/<day>`; `python registry/tools/on.py <day> uredba-2015-1162`).
 
 ## Decisions made by hand
 

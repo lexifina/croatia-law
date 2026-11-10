@@ -20,7 +20,7 @@ Zakon o izmjenama i dopunama Zakona o osiguranju potraživanja radnika u slučaj
 | čl. 14 | [clanak-014.md](clanak-014.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2013-1669` (tags `zakon-2013-1669/<day>`; `python tools/on.py <day> zakon-2013-1669`).
+Act id: `zakon-2013-1669` (tags `zakon-2013-1669/<day>`; `python registry/tools/on.py <day> zakon-2013-1669`).
 
 ## Decisions made by hand
 

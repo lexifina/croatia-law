@@ -9,7 +9,7 @@ Uredba o prestanku važenja Uredbe o određivanju osoba ovlaštenih za pokretanj
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2014-2022` (tags `uredba-2014-2022/<day>`; `python tools/on.py <day> uredba-2014-2022`).
+Act id: `uredba-2014-2022` (tags `uredba-2014-2022/<day>`; `python registry/tools/on.py <day> uredba-2014-2022`).
 
 ## Decisions made by hand
 

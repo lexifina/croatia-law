@@ -13,7 +13,7 @@ Uredba o izmjenama Uredbe o unutarnjem ustrojstvu Ministarstva pomorstva, promet
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2012-925` (tags `uredba-2012-925/<day>`; `python tools/on.py <day> uredba-2012-925`).
+Act id: `uredba-2012-925` (tags `uredba-2012-925/<day>`; `python registry/tools/on.py <day> uredba-2012-925`).
 
 ## Decisions made by hand
 

@@ -34,7 +34,7 @@ Uredba o određivanju štićenih osoba, objekata i prostora te provođenju njiho
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2013-881` (tags `uredba-2013-881/<day>`; `python tools/on.py <day> uredba-2013-881`).
+Act id: `uredba-2013-881` (tags `uredba-2013-881/<day>`; `python registry/tools/on.py <day> uredba-2013-881`).
 
 ## Status
 

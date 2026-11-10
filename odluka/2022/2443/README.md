@@ -13,7 +13,7 @@ Odluka o izmjeni i dopuni Odluke o naknadi za razvoj sustava javne odvodnje trgo
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2022-2443` (tags `odluka-2022-2443/<day>`; `python tools/on.py <day> odluka-2022-2443`).
+Act id: `odluka-2022-2443` (tags `odluka-2022-2443/<day>`; `python registry/tools/on.py <day> odluka-2022-2443`).
 
 ## Decisions made by hand
 

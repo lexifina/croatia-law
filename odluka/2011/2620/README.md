@@ -9,7 +9,7 @@ Odluka o davanju suglasnosti na Privremeni financijski plan Hrvatskih cesta za p
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2011-2620` (tags `odluka-2011-2620/<day>`; `python tools/on.py <day> odluka-2011-2620`).
+Act id: `odluka-2011-2620` (tags `odluka-2011-2620/<day>`; `python registry/tools/on.py <day> odluka-2011-2620`).
 
 ## Decisions made by hand
 

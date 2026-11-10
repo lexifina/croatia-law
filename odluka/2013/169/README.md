@@ -8,7 +8,7 @@ Odluka o dopuni i izmjeni Odluke o mjerilima za utvrđivanje primanja i naknadam
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2013-169` (tags `odluka-2013-169/<day>`; `python tools/on.py <day> odluka-2013-169`).
+Act id: `odluka-2013-169` (tags `odluka-2013-169/<day>`; `python registry/tools/on.py <day> odluka-2013-169`).
 
 ## Decisions made by hand
 

@@ -47,7 +47,7 @@ Zakon o izmjenama i dopunama Zakona o odnosima Republike Hrvatske s Hrvatima izv
 | čl. 41 | [clanak-041.md](clanak-041.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2025-1360` (tags `zakon-2025-1360/<day>`; `python tools/on.py <day> zakon-2025-1360`).
+Act id: `zakon-2025-1360` (tags `zakon-2025-1360/<day>`; `python registry/tools/on.py <day> zakon-2025-1360`).
 
 ## Decisions made by hand
 

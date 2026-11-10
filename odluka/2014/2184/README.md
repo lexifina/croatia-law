@@ -7,7 +7,7 @@ Odluka Vijeća za elektroničke medije klasa: 612-12/14-02/0008, urbroj: 567-06/
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 
-Act id: `odluka-2014-2184` (tags `odluka-2014-2184/<day>`; `python tools/on.py <day> odluka-2014-2184`).
+Act id: `odluka-2014-2184` (tags `odluka-2014-2184/<day>`; `python registry/tools/on.py <day> odluka-2014-2184`).
 
 ## Decisions made by hand
 

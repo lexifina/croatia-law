@@ -9,7 +9,7 @@ Pravilnik o dopuni Pravilnika o ribolovnim mogućnostima i raspodjeli Državne k
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2020-1515` (tags `pravilnik-2020-1515/<day>`; `python tools/on.py <day> pravilnik-2020-1515`).
+Act id: `pravilnik-2020-1515` (tags `pravilnik-2020-1515/<day>`; `python registry/tools/on.py <day> pravilnik-2020-1515`).
 
 ## Decisions made by hand
 

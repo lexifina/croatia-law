@@ -5,7 +5,7 @@ Pravilnik o postupku i uvjetima ugošćavanja istraživača državljana trećih 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `pravilnik-2018-2219` (tags `pravilnik-2018-2219/<day>`; `python tools/on.py <day> pravilnik-2018-2219`).
+Act id: `pravilnik-2018-2219` (tags `pravilnik-2018-2219/<day>`; `python registry/tools/on.py <day> pravilnik-2018-2219`).
 
 ## Decisions made by hand
 

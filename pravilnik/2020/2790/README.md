@@ -5,7 +5,7 @@ Pravilnik o plaćanju naknada za obavljanje poslova Hrvatske regulatorne agencij
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `pravilnik-2020-2790` (tags `pravilnik-2020-2790/<day>`; `python tools/on.py <day> pravilnik-2020-2790`).
+Act id: `pravilnik-2020-2790` (tags `pravilnik-2020-2790/<day>`; `python registry/tools/on.py <day> pravilnik-2020-2790`).
 
 ## Decisions made by hand
 

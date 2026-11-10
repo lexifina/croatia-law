@@ -8,7 +8,7 @@ Odluka o trajnoj zabrani stavljanja na tržište, distribucije i prodaje binarni
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2019-1509` (tags `odluka-2019-1509/<day>`; `python tools/on.py <day> odluka-2019-1509`).
+Act id: `odluka-2019-1509` (tags `odluka-2019-1509/<day>`; `python registry/tools/on.py <day> odluka-2019-1509`).
 
 ## Decisions made by hand
 

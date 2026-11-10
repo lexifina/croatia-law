@@ -28,7 +28,7 @@ Naredba o iznosima osnovica za obračun doprinosa za obvezna osiguranja za 2022.
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `naredba-2021-2155` (tags `naredba-2021-2155/<day>`; `python tools/on.py <day> naredba-2021-2155`).
+Act id: `naredba-2021-2155` (tags `naredba-2021-2155/<day>`; `python registry/tools/on.py <day> naredba-2021-2155`).
 
 ## Decisions made by hand
 

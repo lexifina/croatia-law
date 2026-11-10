@@ -14,7 +14,7 @@ Pravilnik o obavještavanju klijenata pružatelja financijskih usluga o uvođenj
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2022-1400` (tags `pravilnik-2022-1400/<day>`; `python tools/on.py <day> pravilnik-2022-1400`).
+Act id: `pravilnik-2022-1400` (tags `pravilnik-2022-1400/<day>`; `python registry/tools/on.py <day> pravilnik-2022-1400`).
 
 ## Decisions made by hand
 

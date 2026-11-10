@@ -26,7 +26,7 @@ Uredba o Vijeću za vodne usluge · 1 versions, from 2024-10-01 (latest in force
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2024-1870` (tags `uredba-2024-1870/<day>`; `python tools/on.py <day> uredba-2024-1870`).
+Act id: `uredba-2024-1870` (tags `uredba-2024-1870/<day>`; `python registry/tools/on.py <day> uredba-2024-1870`).
 
 ## Decisions made by hand
 

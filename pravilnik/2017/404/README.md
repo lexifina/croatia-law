@@ -5,7 +5,7 @@ Pravilnik o stranim vrstama koje se mogu stavljati na tržište te invazivnim st
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `pravilnik-2017-404` (tags `pravilnik-2017-404/<day>`; `python tools/on.py <day> pravilnik-2017-404`).
+Act id: `pravilnik-2017-404` (tags `pravilnik-2017-404/<day>`; `python registry/tools/on.py <day> pravilnik-2017-404`).
 
 ## Decisions made by hand
 

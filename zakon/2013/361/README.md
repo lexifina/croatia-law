@@ -42,7 +42,7 @@ Zakon o izmjenama i dopunama Zakona o volonterstvu · 1 versions, from 2013-03-0
 | čl. 36 | [clanak-036.md](clanak-036.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2013-361` (tags `zakon-2013-361/<day>`; `python tools/on.py <day> zakon-2013-361`).
+Act id: `zakon-2013-361` (tags `zakon-2013-361/<day>`; `python registry/tools/on.py <day> zakon-2013-361`).
 
 ## Decisions made by hand
 

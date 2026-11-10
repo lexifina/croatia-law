@@ -9,7 +9,7 @@ Pravilnik o plovidbi na unutarnjim vodama · 1 versions, from 2016-01-01 (latest
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2015-2594` (tags `pravilnik-2015-2594/<day>`; `python tools/on.py <day> pravilnik-2015-2594`).
+Act id: `pravilnik-2015-2594` (tags `pravilnik-2015-2594/<day>`; `python registry/tools/on.py <day> pravilnik-2015-2594`).
 
 ## Status
 

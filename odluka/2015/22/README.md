@@ -60,7 +60,7 @@ Odluka o upravljanju rizicima · 1 versions, from 2015-01-10 (latest in force: 2
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2015-22` (tags `odluka-2015-22/<day>`; `python tools/on.py <day> odluka-2015-22`).
+Act id: `odluka-2015-22` (tags `odluka-2015-22/<day>`; `python registry/tools/on.py <day> odluka-2015-22`).
 
 ## Status
 

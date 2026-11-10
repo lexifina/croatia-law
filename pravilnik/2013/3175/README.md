@@ -31,7 +31,7 @@ Pravilnik o postupku ocjene dokumentacije o rezervama mineralnih sirovina · 1 v
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2013-3175` (tags `pravilnik-2013-3175/<day>`; `python tools/on.py <day> pravilnik-2013-3175`).
+Act id: `pravilnik-2013-3175` (tags `pravilnik-2013-3175/<day>`; `python registry/tools/on.py <day> pravilnik-2013-3175`).
 
 ## Status
 

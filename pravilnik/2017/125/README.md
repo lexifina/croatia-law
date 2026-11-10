@@ -9,7 +9,7 @@ Pravilnik o izmjeni Pravilnika o kriterijima za izricanje pedagoških mjera · 1
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2017-125` (tags `pravilnik-2017-125/<day>`; `python tools/on.py <day> pravilnik-2017-125`).
+Act id: `pravilnik-2017-125` (tags `pravilnik-2017-125/<day>`; `python registry/tools/on.py <day> pravilnik-2017-125`).
 
 ## Decisions made by hand
 

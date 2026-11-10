@@ -8,7 +8,7 @@ Odluka o upisu ulovnih ribarskih plovila koja obavljaju ribolov plivaricom tunol
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2019-978` (tags `odluka-2019-978/<day>`; `python tools/on.py <day> odluka-2019-978`).
+Act id: `odluka-2019-978` (tags `odluka-2019-978/<day>`; `python registry/tools/on.py <day> odluka-2019-978`).
 
 ## Decisions made by hand
 

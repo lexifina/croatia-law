@@ -14,7 +14,7 @@ Uredba o izmjenama i dopunama Zakona o računovodstvu · 1 versions, from 2016-0
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2015-2511` (tags `uredba-2015-2511/<day>`; `python tools/on.py <day> uredba-2015-2511`).
+Act id: `uredba-2015-2511` (tags `uredba-2015-2511/<day>`; `python registry/tools/on.py <day> uredba-2015-2511`).
 
 ## Decisions made by hand
 

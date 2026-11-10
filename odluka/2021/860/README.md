@@ -8,7 +8,7 @@ Odluka o uvođenju nužne epidemiološke mjere za područje Krapinsko-zagorske �
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2021-860` (tags `odluka-2021-860/<day>`; `python tools/on.py <day> odluka-2021-860`).
+Act id: `odluka-2021-860` (tags `odluka-2021-860/<day>`; `python registry/tools/on.py <day> odluka-2021-860`).
 
 ## Decisions made by hand
 

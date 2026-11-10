@@ -9,7 +9,7 @@ Odluka o standardu prehrane bolesnika u bolnicama · 1 versions, from 2015-06-06
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2015-1153` (tags `odluka-2015-1153/<day>`; `python tools/on.py <day> odluka-2015-1153`).
+Act id: `odluka-2015-1153` (tags `odluka-2015-1153/<day>`; `python registry/tools/on.py <day> odluka-2015-1153`).
 
 ## Decisions made by hand
 

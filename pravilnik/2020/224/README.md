@@ -107,7 +107,7 @@ Pravilnik o vođenju upisnika brodova, najvišoj dopuštenoj starosti i tehničk
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2020-224` (tags `pravilnik-2020-224/<day>`; `python tools/on.py <day> pravilnik-2020-224`).
+Act id: `pravilnik-2020-224` (tags `pravilnik-2020-224/<day>`; `python registry/tools/on.py <day> pravilnik-2020-224`).
 
 ## Status
 

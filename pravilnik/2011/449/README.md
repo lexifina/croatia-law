@@ -10,7 +10,7 @@ Pravilnik o izmjenama i dopunama Pravilnika o informativnom prospektu zatvorenog
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2011-449` (tags `pravilnik-2011-449/<day>`; `python tools/on.py <day> pravilnik-2011-449`).
+Act id: `pravilnik-2011-449` (tags `pravilnik-2011-449/<day>`; `python registry/tools/on.py <day> pravilnik-2011-449`).
 
 ## Decisions made by hand
 

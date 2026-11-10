@@ -8,7 +8,7 @@ Odluka o izmjenama Odluke uvođenju nužnih epidemioloških mjera za područje Z
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2020-2291` (tags `odluka-2020-2291/<day>`; `python tools/on.py <day> odluka-2020-2291`).
+Act id: `odluka-2020-2291` (tags `odluka-2020-2291/<day>`; `python registry/tools/on.py <day> odluka-2020-2291`).
 
 ## Decisions made by hand
 

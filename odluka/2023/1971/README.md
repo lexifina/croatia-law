@@ -16,7 +16,7 @@ Odluka o općinskim porezima Općine Jasenovac · 1 versions, from 2024-01-01 (l
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2023-1971` (tags `odluka-2023-1971/<day>`; `python tools/on.py <day> odluka-2023-1971`).
+Act id: `odluka-2023-1971` (tags `odluka-2023-1971/<day>`; `python registry/tools/on.py <day> odluka-2023-1971`).
 
 ## Decisions made by hand
 

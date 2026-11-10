@@ -14,7 +14,7 @@ Odluka o načinu primjene pojednostavljenih obveza iz područja sanacije na kred
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2021-1086` (tags `odluka-2021-1086/<day>`; `python tools/on.py <day> odluka-2021-1086`).
+Act id: `odluka-2021-1086` (tags `odluka-2021-1086/<day>`; `python registry/tools/on.py <day> odluka-2021-1086`).
 
 ## Status
 

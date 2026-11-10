@@ -5,7 +5,7 @@ Pravilnik o obrascu i načinu vođenja očevidnika o obavljenim inspekcijskim pr
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `pravilnik-2022-864` (tags `pravilnik-2022-864/<day>`; `python tools/on.py <day> pravilnik-2022-864`).
+Act id: `pravilnik-2022-864` (tags `pravilnik-2022-864/<day>`; `python registry/tools/on.py <day> pravilnik-2022-864`).
 
 ## Decisions made by hand
 

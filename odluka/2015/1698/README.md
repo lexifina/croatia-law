@@ -21,7 +21,7 @@ Odluka o izmjenama i dopunama Odluke o sadržaju i obliku isprave kojom se dokaz
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2015-1698` (tags `odluka-2015-1698/<day>`; `python tools/on.py <day> odluka-2015-1698`).
+Act id: `odluka-2015-1698` (tags `odluka-2015-1698/<day>`; `python registry/tools/on.py <day> odluka-2015-1698`).
 
 ## Decisions made by hand
 

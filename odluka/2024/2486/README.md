@@ -9,7 +9,7 @@ Odluka o objavi kamatne stope na zajmove između povezanih osoba · 1 versions, 
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2024-2486` (tags `odluka-2024-2486/<day>`; `python tools/on.py <day> odluka-2024-2486`).
+Act id: `odluka-2024-2486` (tags `odluka-2024-2486/<day>`; `python registry/tools/on.py <day> odluka-2024-2486`).
 
 ## Status
 

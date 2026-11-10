@@ -14,7 +14,7 @@ Pravilnik o postupanju Hanfe u vezi naknada za usluge uređenog tržišta · 1 v
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2019-506` (tags `pravilnik-2019-506/<day>`; `python tools/on.py <day> pravilnik-2019-506`).
+Act id: `pravilnik-2019-506` (tags `pravilnik-2019-506/<day>`; `python registry/tools/on.py <day> pravilnik-2019-506`).
 
 ## Status
 

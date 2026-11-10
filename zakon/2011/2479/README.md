@@ -43,7 +43,7 @@ Zakon o izmjenama i dopunama Zakona o državnoj potpori poljoprivredi i ruralnom
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 
-Act id: `zakon-2011-2479` (tags `zakon-2011-2479/<day>`; `python tools/on.py <day> zakon-2011-2479`).
+Act id: `zakon-2011-2479` (tags `zakon-2011-2479/<day>`; `python registry/tools/on.py <day> zakon-2011-2479`).
 
 ## Decisions made by hand
 

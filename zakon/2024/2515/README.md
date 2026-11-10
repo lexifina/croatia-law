@@ -13,7 +13,7 @@ Zakon o izmjenama i dopunama Zakona o minimalnoj plaći · 1 versions, from 2025
 | čl. 7 | [clanak-007.md](clanak-007.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2024-2515` (tags `zakon-2024-2515/<day>`; `python tools/on.py <day> zakon-2024-2515`).
+Act id: `zakon-2024-2515` (tags `zakon-2024-2515/<day>`; `python registry/tools/on.py <day> zakon-2024-2515`).
 
 ## Decisions made by hand
 

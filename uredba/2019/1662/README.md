@@ -16,7 +16,7 @@ Uredba o izmjenama Uredbe o unutarnjem ustrojstvu Državnog zavoda za mjeriteljs
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2019-1662` (tags `uredba-2019-1662/<day>`; `python tools/on.py <day> uredba-2019-1662`).
+Act id: `uredba-2019-1662` (tags `uredba-2019-1662/<day>`; `python registry/tools/on.py <day> uredba-2019-1662`).
 
 ## Decisions made by hand
 

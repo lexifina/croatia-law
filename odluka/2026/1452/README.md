@@ -8,7 +8,7 @@ Odluka o postavljanju počasne konzulice Republike Hrvatske u Republici Malti, s
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2026-1452` (tags `odluka-2026-1452/<day>`; `python tools/on.py <day> odluka-2026-1452`).
+Act id: `odluka-2026-1452` (tags `odluka-2026-1452/<day>`; `python registry/tools/on.py <day> odluka-2026-1452`).
 
 ## Decisions made by hand
 

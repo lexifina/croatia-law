@@ -15,7 +15,7 @@ Pravilnik o izmjenama i dopunama Pravilnika o zaštitnim radionicama i integrati
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2015-46` (tags `pravilnik-2015-46/<day>`; `python tools/on.py <day> pravilnik-2015-46`).
+Act id: `pravilnik-2015-46` (tags `pravilnik-2015-46/<day>`; `python registry/tools/on.py <day> pravilnik-2015-46`).
 
 ## Decisions made by hand
 

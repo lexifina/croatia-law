@@ -18,7 +18,7 @@ Uredba o pružanju iznimne potpore za prilagodbu proizvođačima mlijeka · 1 ve
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2017-539` (tags `uredba-2017-539/<day>`; `python tools/on.py <day> uredba-2017-539`).
+Act id: `uredba-2017-539` (tags `uredba-2017-539/<day>`; `python registry/tools/on.py <day> uredba-2017-539`).
 
 ## Decisions made by hand
 

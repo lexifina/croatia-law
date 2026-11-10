@@ -26,7 +26,7 @@ Odluka o izmjenama Odluke o osnovama za sklapanje ugovora o provođenju zdravstv
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2025-1679` (tags `odluka-2025-1679/<day>`; `python tools/on.py <day> odluka-2025-1679`).
+Act id: `odluka-2025-1679` (tags `odluka-2025-1679/<day>`; `python registry/tools/on.py <day> odluka-2025-1679`).
 
 ## Decisions made by hand
 

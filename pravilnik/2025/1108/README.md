@@ -16,7 +16,7 @@ Pravilnik o provedbi Programa potpore za poljoprivredne sektore pogođene nepovo
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2025-1108` (tags `pravilnik-2025-1108/<day>`; `python tools/on.py <day> pravilnik-2025-1108`).
+Act id: `pravilnik-2025-1108` (tags `pravilnik-2025-1108/<day>`; `python registry/tools/on.py <day> pravilnik-2025-1108`).
 
 ## Decisions made by hand
 

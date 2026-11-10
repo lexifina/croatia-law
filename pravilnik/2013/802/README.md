@@ -9,7 +9,7 @@ Pravilnik o izmjeni Pravilnika o informiranju potrošača o hrani · 1 versions,
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2013-802` (tags `pravilnik-2013-802/<day>`; `python tools/on.py <day> pravilnik-2013-802`).
+Act id: `pravilnik-2013-802` (tags `pravilnik-2013-802/<day>`; `python registry/tools/on.py <day> pravilnik-2013-802`).
 
 ## Decisions made by hand
 

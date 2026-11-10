@@ -5,7 +5,7 @@ Odluka o porezima Grada Trogira · 2 versions, from 2024-01-01 (latest in force:
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `odluka-2023-2255` (tags `odluka-2023-2255/<day>`; `python tools/on.py <day> odluka-2023-2255`).
+Act id: `odluka-2023-2255` (tags `odluka-2023-2255/<day>`; `python registry/tools/on.py <day> odluka-2023-2255`).
 
 ## Decisions made by hand
 

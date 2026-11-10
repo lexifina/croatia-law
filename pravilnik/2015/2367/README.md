@@ -17,7 +17,7 @@ Pravilnik o izmjenama i dopunama Pravilnika o kliničkim ispitivanjima lijekova 
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2015-2367` (tags `pravilnik-2015-2367/<day>`; `python tools/on.py <day> pravilnik-2015-2367`).
+Act id: `pravilnik-2015-2367` (tags `pravilnik-2015-2367/<day>`; `python registry/tools/on.py <day> pravilnik-2015-2367`).
 
 ## Decisions made by hand
 

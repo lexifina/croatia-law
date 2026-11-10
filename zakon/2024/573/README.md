@@ -20,7 +20,7 @@ Zakon o izmjenama i dopunama Zakona o arhivskom gradivu i arhivima · 1 versions
 | čl. 14 | [clanak-014.md](clanak-014.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2024-573` (tags `zakon-2024-573/<day>`; `python tools/on.py <day> zakon-2024-573`).
+Act id: `zakon-2024-573` (tags `zakon-2024-573/<day>`; `python registry/tools/on.py <day> zakon-2024-573`).
 
 ## Decisions made by hand
 

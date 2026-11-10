@@ -8,7 +8,7 @@ Odluka o prestanku važenja Odluke o osnivanju Povjerenstva za obilježavanje Eu
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2012-2462` (tags `odluka-2012-2462/<day>`; `python tools/on.py <day> odluka-2012-2462`).
+Act id: `odluka-2012-2462` (tags `odluka-2012-2462/<day>`; `python registry/tools/on.py <day> odluka-2012-2462`).
 
 ## Decisions made by hand
 

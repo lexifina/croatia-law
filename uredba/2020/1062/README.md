@@ -49,7 +49,7 @@ Uredba o osiguranju izvoza · 1 versions, from 2020-05-01 (latest in force: 2020
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2020-1062` (tags `uredba-2020-1062/<day>`; `python tools/on.py <day> uredba-2020-1062`).
+Act id: `uredba-2020-1062` (tags `uredba-2020-1062/<day>`; `python registry/tools/on.py <day> uredba-2020-1062`).
 
 ## Status
 

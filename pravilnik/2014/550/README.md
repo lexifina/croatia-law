@@ -15,7 +15,7 @@ Pravilnik o određivanju privremenih graničnih prijelaza · 1 versions, from 20
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2014-550` (tags `pravilnik-2014-550/<day>`; `python tools/on.py <day> pravilnik-2014-550`).
+Act id: `pravilnik-2014-550` (tags `pravilnik-2014-550/<day>`; `python registry/tools/on.py <day> pravilnik-2014-550`).
 
 ## Status
 

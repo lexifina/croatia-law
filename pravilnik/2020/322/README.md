@@ -15,7 +15,7 @@ Pravilnik o izmjenama Pravilnika o dozvoljenim ulaganjima i dodatnim ograničenj
 | čl. 9 | [clanak-009.md](clanak-009.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `pravilnik-2020-322` (tags `pravilnik-2020-322/<day>`; `python tools/on.py <day> pravilnik-2020-322`).
+Act id: `pravilnik-2020-322` (tags `pravilnik-2020-322/<day>`; `python registry/tools/on.py <day> pravilnik-2020-322`).
 
 ## Decisions made by hand
 

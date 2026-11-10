@@ -27,7 +27,7 @@ Zakon o izmjenama i dopuni Zakona o Hrvatskoj zakladi za znanost · 1 versions, 
 | čl. 21 | [clanak-021.md](clanak-021.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2012-1841` (tags `zakon-2012-1841/<day>`; `python tools/on.py <day> zakon-2012-1841`).
+Act id: `zakon-2012-1841` (tags `zakon-2012-1841/<day>`; `python registry/tools/on.py <day> zakon-2012-1841`).
 
 ## Decisions made by hand
 

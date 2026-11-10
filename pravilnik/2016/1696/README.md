@@ -5,7 +5,7 @@ Pravilnik o minimalnim uvjetima u pogledu prostora, radnika i medicinsko-tehnič
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `pravilnik-2016-1696` (tags `pravilnik-2016-1696/<day>`; `python tools/on.py <day> pravilnik-2016-1696`).
+Act id: `pravilnik-2016-1696` (tags `pravilnik-2016-1696/<day>`; `python registry/tools/on.py <day> pravilnik-2016-1696`).
 
 ## Decisions made by hand
 

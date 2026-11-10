@@ -9,7 +9,7 @@ Odluka o usvajanju Programa Nacionalni zajmovi za investicije i obrtna sredstva 
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2025-1657` (tags `odluka-2025-1657/<day>`; `python tools/on.py <day> odluka-2025-1657`).
+Act id: `odluka-2025-1657` (tags `odluka-2025-1657/<day>`; `python registry/tools/on.py <day> odluka-2025-1657`).
 
 ## Decisions made by hand
 

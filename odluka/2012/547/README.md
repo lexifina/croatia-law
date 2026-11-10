@@ -17,7 +17,7 @@ Odluka o uvjetima za ocjenu nastavne i stručne djelatnosti u postupku izbora u 
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2012-547` (tags `odluka-2012-547/<day>`; `python tools/on.py <day> odluka-2012-547`).
+Act id: `odluka-2012-547` (tags `odluka-2012-547/<day>`; `python registry/tools/on.py <day> odluka-2012-547`).
 
 ## Status
 

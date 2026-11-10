@@ -9,7 +9,7 @@ Pravilnik o lovostaju jegulje (Anguilla anguilla) u 2022. godini · 1 versions, 
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2022-866` (tags `pravilnik-2022-866/<day>`; `python tools/on.py <day> pravilnik-2022-866`).
+Act id: `pravilnik-2022-866` (tags `pravilnik-2022-866/<day>`; `python registry/tools/on.py <day> pravilnik-2022-866`).
 
 ## Status
 

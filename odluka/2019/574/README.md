@@ -8,7 +8,7 @@ Odluka o osnivanju Hrvatskog povjerenstva za suradnju s Organizacijom Ujedinjeni
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2019-574` (tags `odluka-2019-574/<day>`; `python tools/on.py <day> odluka-2019-574`).
+Act id: `odluka-2019-574` (tags `odluka-2019-574/<day>`; `python registry/tools/on.py <day> odluka-2019-574`).
 
 ## Decisions made by hand
 

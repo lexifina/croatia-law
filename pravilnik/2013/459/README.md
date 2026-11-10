@@ -21,7 +21,7 @@ Pravilnik o sadržaju obrazaca i načinu vođenja zbirke podataka o prebivališt
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2013-459` (tags `pravilnik-2013-459/<day>`; `python tools/on.py <day> pravilnik-2013-459`).
+Act id: `pravilnik-2013-459` (tags `pravilnik-2013-459/<day>`; `python registry/tools/on.py <day> pravilnik-2013-459`).
 
 ## Status
 

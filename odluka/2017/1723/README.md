@@ -8,7 +8,7 @@ Odluku o izboru potpredsjednika Odbora za prostorno uređenje i graditeljstvo Hr
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2017-1723` (tags `odluka-2017-1723/<day>`; `python tools/on.py <day> odluka-2017-1723`).
+Act id: `odluka-2017-1723` (tags `odluka-2017-1723/<day>`; `python registry/tools/on.py <day> odluka-2017-1723`).
 
 ## Decisions made by hand
 

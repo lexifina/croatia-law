@@ -19,7 +19,7 @@ Pravilnik o visini naknada u skladu s Älankom 74. Uredbe (EZ) br. 1107/2009 i Ä
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2024-1318` (tags `pravilnik-2024-1318/<day>`; `python tools/on.py <day> pravilnik-2024-1318`).
+Act id: `pravilnik-2024-1318` (tags `pravilnik-2024-1318/<day>`; `python registry/tools/on.py <day> pravilnik-2024-1318`).
 
 ## Decisions made by hand
 

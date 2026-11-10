@@ -9,7 +9,7 @@ Pravilnik o izmjeni Pravilnika o dentalnoj zdravstvenoj zaštiti iz obveznog zdr
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2013-2111` (tags `pravilnik-2013-2111/<day>`; `python tools/on.py <day> pravilnik-2013-2111`).
+Act id: `pravilnik-2013-2111` (tags `pravilnik-2013-2111/<day>`; `python registry/tools/on.py <day> pravilnik-2013-2111`).
 
 ## Decisions made by hand
 

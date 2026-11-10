@@ -16,7 +16,7 @@ Pravilnik o izmjenama i dopunama Pravilnika o utvrđivanju neto vrijednosti imov
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2022-2502` (tags `pravilnik-2022-2502/<day>`; `python tools/on.py <day> pravilnik-2022-2502`).
+Act id: `pravilnik-2022-2502` (tags `pravilnik-2022-2502/<day>`; `python registry/tools/on.py <day> pravilnik-2022-2502`).
 
 ## Decisions made by hand
 

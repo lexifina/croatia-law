@@ -84,7 +84,7 @@ Statut Turističke zajednice Vukovarsko-srijemske županije · 1 versions, from 
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `statut-2011-817` (tags `statut-2011-817/<day>`; `python tools/on.py <day> statut-2011-817`).
+Act id: `statut-2011-817` (tags `statut-2011-817/<day>`; `python registry/tools/on.py <day> statut-2011-817`).
 
 ## Status
 

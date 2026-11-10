@@ -31,7 +31,7 @@ Pravilnik o uvjetima i načinu ostvarivanja prava na državnu stipendiju na teme
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2023-1636` (tags `pravilnik-2023-1636/<day>`; `python tools/on.py <day> pravilnik-2023-1636`).
+Act id: `pravilnik-2023-1636` (tags `pravilnik-2023-1636/<day>`; `python registry/tools/on.py <day> pravilnik-2023-1636`).
 
 ## Status
 

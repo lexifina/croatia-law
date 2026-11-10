@@ -30,7 +30,7 @@ Pravilnik o uvjetima za dobivanje dopuštenja za obavljanje poslova na zaštiti 
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2025-1462` (tags `pravilnik-2025-1462/<day>`; `python tools/on.py <day> pravilnik-2025-1462`).
+Act id: `pravilnik-2025-1462` (tags `pravilnik-2025-1462/<day>`; `python registry/tools/on.py <day> pravilnik-2025-1462`).
 
 ## Decisions made by hand
 

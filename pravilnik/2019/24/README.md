@@ -13,7 +13,7 @@ Pravilnik o izmjenama i dopunama Pravilnika o utvrđivanju lista povjerenika u p
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2019-24` (tags `pravilnik-2019-24/<day>`; `python tools/on.py <day> pravilnik-2019-24`).
+Act id: `pravilnik-2019-24` (tags `pravilnik-2019-24/<day>`; `python registry/tools/on.py <day> pravilnik-2019-24`).
 
 ## Decisions made by hand
 

@@ -8,7 +8,7 @@ Odluka o provedbi privremene izvanredne mjere pomoći malim mljekarama s problem
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2020-858` (tags `odluka-2020-858/<day>`; `python tools/on.py <day> odluka-2020-858`).
+Act id: `odluka-2020-858` (tags `odluka-2020-858/<day>`; `python registry/tools/on.py <day> odluka-2020-858`).
 
 ## Decisions made by hand
 

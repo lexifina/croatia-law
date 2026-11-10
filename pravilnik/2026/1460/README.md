@@ -20,7 +20,7 @@ Pravilnik o provedbi Programa potpore za oƒçuvanje proizvodnje mlijeka na podruƒ
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2026-1460` (tags `pravilnik-2026-1460/<day>`; `python tools/on.py <day> pravilnik-2026-1460`).
+Act id: `pravilnik-2026-1460` (tags `pravilnik-2026-1460/<day>`; `python registry/tools/on.py <day> pravilnik-2026-1460`).
 
 ## Decisions made by hand
 

@@ -17,7 +17,7 @@ Uredba o izmjenama Uredbe o unutarnjem ustrojstvu Središnjeg državnog ureda za
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2018-1188` (tags `uredba-2018-1188/<day>`; `python tools/on.py <day> uredba-2018-1188`).
+Act id: `uredba-2018-1188` (tags `uredba-2018-1188/<day>`; `python registry/tools/on.py <day> uredba-2018-1188`).
 
 ## Decisions made by hand
 

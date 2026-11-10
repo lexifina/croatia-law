@@ -8,7 +8,7 @@ Odluka o izmjeni Odluke o donošenju kurikuluma za međupredmetnu temu Zdravlje 
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2019-443` (tags `odluka-2019-443/<day>`; `python tools/on.py <day> odluka-2019-443`).
+Act id: `odluka-2019-443` (tags `odluka-2019-443/<day>`; `python registry/tools/on.py <day> odluka-2019-443`).
 
 ## Decisions made by hand
 

@@ -24,7 +24,7 @@ Pravilnik o kodifikaciji naoružanja i vojne opreme · 1 versions, from 2020-12-
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2020-2682` (tags `pravilnik-2020-2682/<day>`; `python tools/on.py <day> pravilnik-2020-2682`).
+Act id: `pravilnik-2020-2682` (tags `pravilnik-2020-2682/<day>`; `python registry/tools/on.py <day> pravilnik-2020-2682`).
 
 ## Status
 

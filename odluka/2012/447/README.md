@@ -8,7 +8,7 @@ Odluka o raspisivanju prijevremenih izbora za općinskog načelnika i zamjenika 
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2012-447` (tags `odluka-2012-447/<day>`; `python tools/on.py <day> odluka-2012-447`).
+Act id: `odluka-2012-447` (tags `odluka-2012-447/<day>`; `python registry/tools/on.py <day> odluka-2012-447`).
 
 ## Decisions made by hand
 

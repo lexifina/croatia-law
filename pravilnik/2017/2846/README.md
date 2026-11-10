@@ -9,7 +9,7 @@ Pravilnik o izmjeni Pravilnika o izgledu, sadržaju i načinu vođenja zapisnika
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2017-2846` (tags `pravilnik-2017-2846/<day>`; `python tools/on.py <day> pravilnik-2017-2846`).
+Act id: `pravilnik-2017-2846` (tags `pravilnik-2017-2846/<day>`; `python registry/tools/on.py <day> pravilnik-2017-2846`).
 
 ## Decisions made by hand
 

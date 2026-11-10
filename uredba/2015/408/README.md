@@ -20,7 +20,7 @@ Uredba o izmjenama i dopunama Uredbe o sastavljanju i predaji Izjave o fiskalnoj
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2015-408` (tags `uredba-2015-408/<day>`; `python tools/on.py <day> uredba-2015-408`).
+Act id: `uredba-2015-408` (tags `uredba-2015-408/<day>`; `python registry/tools/on.py <day> uredba-2015-408`).
 
 ## Decisions made by hand
 

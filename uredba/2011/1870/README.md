@@ -70,7 +70,7 @@ Uredba o izgledu odora policijskih sluÅ¾benika Ministarstva unutarnjih poslova Â
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2011-1870` (tags `uredba-2011-1870/<day>`; `python tools/on.py <day> uredba-2011-1870`).
+Act id: `uredba-2011-1870` (tags `uredba-2011-1870/<day>`; `python registry/tools/on.py <day> uredba-2011-1870`).
 
 ## Status
 

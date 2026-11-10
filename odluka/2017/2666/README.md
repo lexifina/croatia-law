@@ -30,7 +30,7 @@ Odluku o klasifikaciji izloženosti u rizične skupine i načinu utvrđivanja kr
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2017-2666` (tags `odluka-2017-2666/<day>`; `python tools/on.py <day> odluka-2017-2666`).
+Act id: `odluka-2017-2666` (tags `odluka-2017-2666/<day>`; `python registry/tools/on.py <day> odluka-2017-2666`).
 
 ## Status
 

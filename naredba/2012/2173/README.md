@@ -9,7 +9,7 @@ Naredba o zabrani uvoza u Republiku Hrvatsku i provoza preko područja Republike
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `naredba-2012-2173` (tags `naredba-2012-2173/<day>`; `python tools/on.py <day> naredba-2012-2173`).
+Act id: `naredba-2012-2173` (tags `naredba-2012-2173/<day>`; `python registry/tools/on.py <day> naredba-2012-2173`).
 
 ## Status
 

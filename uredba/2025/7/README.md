@@ -21,7 +21,7 @@ Uredba o mogućnosti fleksibilnog radnog vremena i rada s nepunim radnim vremeno
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2025-7` (tags `uredba-2025-7/<day>`; `python tools/on.py <day> uredba-2025-7`).
+Act id: `uredba-2025-7` (tags `uredba-2025-7/<day>`; `python registry/tools/on.py <day> uredba-2025-7`).
 
 ## Decisions made by hand
 

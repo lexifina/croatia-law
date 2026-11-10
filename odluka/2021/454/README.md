@@ -8,7 +8,7 @@ Odluka o donošenju Nacionalnog programa za suzbijanje neprijavljenoga rada u Re
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2021-454` (tags `odluka-2021-454/<day>`; `python tools/on.py <day> odluka-2021-454`).
+Act id: `odluka-2021-454` (tags `odluka-2021-454/<day>`; `python registry/tools/on.py <day> odluka-2021-454`).
 
 ## Decisions made by hand
 

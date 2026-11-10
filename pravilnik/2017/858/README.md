@@ -8,7 +8,7 @@ Pravilnik o izmjenama i dopunama Pravilnika o statusnim promjenama mirovinskih d
 | čl. 2 | [clanak-002.md](clanak-002.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `pravilnik-2017-858` (tags `pravilnik-2017-858/<day>`; `python tools/on.py <day> pravilnik-2017-858`).
+Act id: `pravilnik-2017-858` (tags `pravilnik-2017-858/<day>`; `python registry/tools/on.py <day> pravilnik-2017-858`).
 
 ## Decisions made by hand
 

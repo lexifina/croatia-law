@@ -64,7 +64,7 @@ Uredba o nazivima radnih mjesta i koeficijentima složenosti poslova u javnim sl
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2013-411` (tags `uredba-2013-411/<day>`; `python tools/on.py <day> uredba-2013-411`).
+Act id: `uredba-2013-411` (tags `uredba-2013-411/<day>`; `python registry/tools/on.py <day> uredba-2013-411`).
 
 ## Status
 

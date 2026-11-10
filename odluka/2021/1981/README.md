@@ -11,7 +11,7 @@ Odluka o II. izmjenama Odluke o gradskim porezima Grada Belog Manastira · 1 ver
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2021-1981` (tags `odluka-2021-1981/<day>`; `python tools/on.py <day> odluka-2021-1981`).
+Act id: `odluka-2021-1981` (tags `odluka-2021-1981/<day>`; `python registry/tools/on.py <day> odluka-2021-1981`).
 
 ## Decisions made by hand
 

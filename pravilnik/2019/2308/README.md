@@ -43,7 +43,7 @@ Pravilnik o provedbi mjera Nacionalnog pčelarskog programa za razdoblje od 2020
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2019-2308` (tags `pravilnik-2019-2308/<day>`; `python tools/on.py <day> pravilnik-2019-2308`).
+Act id: `pravilnik-2019-2308` (tags `pravilnik-2019-2308/<day>`; `python registry/tools/on.py <day> pravilnik-2019-2308`).
 
 ## Status
 

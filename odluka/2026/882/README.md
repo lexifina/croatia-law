@@ -9,7 +9,7 @@ Odluka o visini, načinu i rokovima uplate sredstava pravnih osoba u vlasništvu
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2026-882` (tags `odluka-2026-882/<day>`; `python tools/on.py <day> odluka-2026-882`).
+Act id: `odluka-2026-882` (tags `odluka-2026-882/<day>`; `python registry/tools/on.py <day> odluka-2026-882`).
 
 ## Decisions made by hand
 

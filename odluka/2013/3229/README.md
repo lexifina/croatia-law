@@ -9,7 +9,7 @@ Odluka o usvajanju jamstvenih programa Hrvatske agencije za malo gospodarstvo i 
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2013-3229` (tags `odluka-2013-3229/<day>`; `python tools/on.py <day> odluka-2013-3229`).
+Act id: `odluka-2013-3229` (tags `odluka-2013-3229/<day>`; `python registry/tools/on.py <day> odluka-2013-3229`).
 
 ## Status
 

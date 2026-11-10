@@ -8,7 +8,7 @@ Odluka o davanju odobrenja Međimurskoj županiji za sudjelovanje u Europskoj gr
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2018-1871` (tags `odluka-2018-1871/<day>`; `python tools/on.py <day> odluka-2018-1871`).
+Act id: `odluka-2018-1871` (tags `odluka-2018-1871/<day>`; `python registry/tools/on.py <day> odluka-2018-1871`).
 
 ## Decisions made by hand
 

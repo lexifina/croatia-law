@@ -9,7 +9,7 @@ Odluka o davanju suglasnosti na Financijski plan Hrvatskih voda za 2013. godinu 
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2012-2939` (tags `odluka-2012-2939/<day>`; `python tools/on.py <day> odluka-2012-2939`).
+Act id: `odluka-2012-2939` (tags `odluka-2012-2939/<day>`; `python registry/tools/on.py <day> odluka-2012-2939`).
 
 ## Decisions made by hand
 

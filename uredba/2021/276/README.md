@@ -13,7 +13,7 @@ Uredba o izmjeni i dopunama Uredbe o unutarnjem ustrojstvu Ministarstva zdravstv
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2021-276` (tags `uredba-2021-276/<day>`; `python tools/on.py <day> uredba-2021-276`).
+Act id: `uredba-2021-276` (tags `uredba-2021-276/<day>`; `python registry/tools/on.py <day> uredba-2021-276`).
 
 ## Decisions made by hand
 

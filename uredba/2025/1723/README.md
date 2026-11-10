@@ -16,7 +16,7 @@ Uredba o izmjenama Uredbe o otklanjanju poremećaja na domaćem tržištu energi
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2025-1723` (tags `uredba-2025-1723/<day>`; `python tools/on.py <day> uredba-2025-1723`).
+Act id: `uredba-2025-1723` (tags `uredba-2025-1723/<day>`; `python registry/tools/on.py <day> uredba-2025-1723`).
 
 ## Status
 

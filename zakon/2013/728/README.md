@@ -68,7 +68,7 @@ Zakon o izmjenama i dopunama Prekršajnog zakona · 1 versions, from 2013-06-01 
 | čl. 62 | [clanak-062.md](clanak-062.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2013-728` (tags `zakon-2013-728/<day>`; `python tools/on.py <day> zakon-2013-728`).
+Act id: `zakon-2013-728` (tags `zakon-2013-728/<day>`; `python registry/tools/on.py <day> zakon-2013-728`).
 
 ## Decisions made by hand
 

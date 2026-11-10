@@ -15,7 +15,7 @@ Pravilnik o sadržaju, obliku i načinu vođenja evidencije o obavljenim nadzori
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2024-745` (tags `pravilnik-2024-745/<day>`; `python tools/on.py <day> pravilnik-2024-745`).
+Act id: `pravilnik-2024-745` (tags `pravilnik-2024-745/<day>`; `python registry/tools/on.py <day> pravilnik-2024-745`).
 
 ## Decisions made by hand
 

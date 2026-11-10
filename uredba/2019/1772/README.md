@@ -9,7 +9,7 @@ Uredba o izmjeni Uredbe o raspisivanju i provedbi javnog natječaja i internog o
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2019-1772` (tags `uredba-2019-1772/<day>`; `python tools/on.py <day> uredba-2019-1772`).
+Act id: `uredba-2019-1772` (tags `uredba-2019-1772/<day>`; `python registry/tools/on.py <day> uredba-2019-1772`).
 
 ## Decisions made by hand
 

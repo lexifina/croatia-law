@@ -45,7 +45,7 @@ Zakon o izmjenama i dopunama Zakona o sigurnosti pri odobalnom istraživanju i e
 | čl. 39 | [clanak-039.md](clanak-039.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2020-1015` (tags `zakon-2020-1015/<day>`; `python tools/on.py <day> zakon-2020-1015`).
+Act id: `zakon-2020-1015` (tags `zakon-2020-1015/<day>`; `python registry/tools/on.py <day> zakon-2020-1015`).
 
 ## Decisions made by hand
 

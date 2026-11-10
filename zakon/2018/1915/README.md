@@ -14,7 +14,7 @@ Zakon o prestanku važenja Zakona o Fondu za stipendiranje hrvatskih branitelja 
 | čl. 8 | [clanak-008.md](clanak-008.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2018-1915` (tags `zakon-2018-1915/<day>`; `python tools/on.py <day> zakon-2018-1915`).
+Act id: `zakon-2018-1915` (tags `zakon-2018-1915/<day>`; `python registry/tools/on.py <day> zakon-2018-1915`).
 
 ## Decisions made by hand
 

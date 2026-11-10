@@ -15,7 +15,7 @@ Pravilnik o izmjenama Pravilnika o vrstama pohvala i nagrada, uvjetima i postupk
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2011-951` (tags `pravilnik-2011-951/<day>`; `python tools/on.py <day> pravilnik-2011-951`).
+Act id: `pravilnik-2011-951` (tags `pravilnik-2011-951/<day>`; `python registry/tools/on.py <day> pravilnik-2011-951`).
 
 ## Decisions made by hand
 

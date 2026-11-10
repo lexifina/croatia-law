@@ -8,7 +8,7 @@ Odluka o najvišoj naknadi za pokrivanje troškova Mirovinskog osiguravajućeg d
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2011-231` (tags `odluka-2011-231/<day>`; `python tools/on.py <day> odluka-2011-231`).
+Act id: `odluka-2011-231` (tags `odluka-2011-231/<day>`; `python registry/tools/on.py <day> odluka-2011-231`).
 
 ## Decisions made by hand
 

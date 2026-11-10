@@ -10,7 +10,7 @@ Odluka o visini poreznih stopa godišnjeg poreza na dohodak Općine Gradac · 1 
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2023-2042` (tags `odluka-2023-2042/<day>`; `python tools/on.py <day> odluka-2023-2042`).
+Act id: `odluka-2023-2042` (tags `odluka-2023-2042/<day>`; `python registry/tools/on.py <day> odluka-2023-2042`).
 
 ## Decisions made by hand
 

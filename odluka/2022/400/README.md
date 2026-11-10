@@ -8,7 +8,7 @@ Odluka o sudjelovanju Oružanih snaga Republike Hrvatske u aktivnosti u sklopu p
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2022-400` (tags `odluka-2022-400/<day>`; `python tools/on.py <day> odluka-2022-400`).
+Act id: `odluka-2022-400` (tags `odluka-2022-400/<day>`; `python registry/tools/on.py <day> odluka-2022-400`).
 
 ## Decisions made by hand
 

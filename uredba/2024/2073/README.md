@@ -53,7 +53,7 @@ Uredba o postupku zapošljavanja u državnoj službi · 1 versions, from 2024-10
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2024-2073` (tags `uredba-2024-2073/<day>`; `python tools/on.py <day> uredba-2024-2073`).
+Act id: `uredba-2024-2073` (tags `uredba-2024-2073/<day>`; `python registry/tools/on.py <day> uredba-2024-2073`).
 
 ## Status
 

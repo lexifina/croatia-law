@@ -48,7 +48,7 @@ Pravilnik o provedbi intervencija u sektoru pčelarstva unutar Strateškog plana
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2023-393` (tags `pravilnik-2023-393/<day>`; `python tools/on.py <day> pravilnik-2023-393`).
+Act id: `pravilnik-2023-393` (tags `pravilnik-2023-393/<day>`; `python registry/tools/on.py <day> pravilnik-2023-393`).
 
 ## Status
 

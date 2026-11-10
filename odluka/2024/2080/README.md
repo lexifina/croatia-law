@@ -11,7 +11,7 @@ Izmjene i dopune Državnog proračuna Republike Hrvatske za 2024. godinu i proje
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2024-2080` (tags `odluka-2024-2080/<day>`; `python tools/on.py <day> odluka-2024-2080`).
+Act id: `odluka-2024-2080` (tags `odluka-2024-2080/<day>`; `python registry/tools/on.py <day> odluka-2024-2080`).
 
 ## Decisions made by hand
 

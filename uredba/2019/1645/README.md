@@ -12,7 +12,7 @@ Uredba o izmjenama Uredbe o unutarnjem ustrojstvu Ministarstva graditeljstva i p
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2019-1645` (tags `uredba-2019-1645/<day>`; `python tools/on.py <day> uredba-2019-1645`).
+Act id: `uredba-2019-1645` (tags `uredba-2019-1645/<day>`; `python registry/tools/on.py <day> uredba-2019-1645`).
 
 ## Decisions made by hand
 

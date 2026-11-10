@@ -20,7 +20,7 @@ Uredba o tijelima u sustavu upravljanja i kontrole korištenja Europskog socijal
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2022-1430` (tags `uredba-2022-1430/<day>`; `python tools/on.py <day> uredba-2022-1430`).
+Act id: `uredba-2022-1430` (tags `uredba-2022-1430/<day>`; `python registry/tools/on.py <day> uredba-2022-1430`).
 
 ## Decisions made by hand
 

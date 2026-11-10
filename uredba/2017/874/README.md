@@ -5,7 +5,7 @@ Uredba o unutarnjem ustrojstvu Ministarstva zaštite okoliša i energetike · 2 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `uredba-2017-874` (tags `uredba-2017-874/<day>`; `python tools/on.py <day> uredba-2017-874`).
+Act id: `uredba-2017-874` (tags `uredba-2017-874/<day>`; `python registry/tools/on.py <day> uredba-2017-874`).
 
 ## Decisions made by hand
 

@@ -18,7 +18,7 @@ Pravilnik o izmjenama i dopunama Pravilnika o držanju pčela i katastru pčelin
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2014-1245` (tags `pravilnik-2014-1245/<day>`; `python tools/on.py <day> pravilnik-2014-1245`).
+Act id: `pravilnik-2014-1245` (tags `pravilnik-2014-1245/<day>`; `python registry/tools/on.py <day> pravilnik-2014-1245`).
 
 ## Decisions made by hand
 

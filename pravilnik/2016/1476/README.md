@@ -13,7 +13,7 @@ Pravilnik o izmjenama i dopunama Pravilnika o primjeni odredaba Zakona o leasing
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2016-1476` (tags `pravilnik-2016-1476/<day>`; `python tools/on.py <day> pravilnik-2016-1476`).
+Act id: `pravilnik-2016-1476` (tags `pravilnik-2016-1476/<day>`; `python registry/tools/on.py <day> pravilnik-2016-1476`).
 
 ## Decisions made by hand
 

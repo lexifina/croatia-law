@@ -16,7 +16,7 @@ Pravilnik o izmjenama i dopunama Pravilnika o osposobljavanju kandidata za vozaÄ
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2020-1918` (tags `pravilnik-2020-1918/<day>`; `python tools/on.py <day> pravilnik-2020-1918`).
+Act id: `pravilnik-2020-1918` (tags `pravilnik-2020-1918/<day>`; `python registry/tools/on.py <day> pravilnik-2020-1918`).
 
 ## Decisions made by hand
 

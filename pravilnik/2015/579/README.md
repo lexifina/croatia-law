@@ -10,7 +10,7 @@ Pravilnik o izmjeni i dopuni Pravilnika o graničnim vrijednostima emisija otpad
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2015-579` (tags `pravilnik-2015-579/<day>`; `python tools/on.py <day> pravilnik-2015-579`).
+Act id: `pravilnik-2015-579` (tags `pravilnik-2015-579/<day>`; `python registry/tools/on.py <day> pravilnik-2015-579`).
 
 ## Decisions made by hand
 

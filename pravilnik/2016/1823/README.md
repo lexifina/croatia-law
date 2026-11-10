@@ -5,7 +5,7 @@ Pravilnik o žitaricama i proizvodima od žitarica · 2 versions, from 2016-09-1
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `pravilnik-2016-1823` (tags `pravilnik-2016-1823/<day>`; `python tools/on.py <day> pravilnik-2016-1823`).
+Act id: `pravilnik-2016-1823` (tags `pravilnik-2016-1823/<day>`; `python registry/tools/on.py <day> pravilnik-2016-1823`).
 
 ## Decisions made by hand
 

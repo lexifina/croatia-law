@@ -24,7 +24,7 @@ Pravilnik o uvjetima za članstvo u upravi i nadzornom odboru UAIF-a te u nadzor
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2013-2370` (tags `pravilnik-2013-2370/<day>`; `python tools/on.py <day> pravilnik-2013-2370`).
+Act id: `pravilnik-2013-2370` (tags `pravilnik-2013-2370/<day>`; `python registry/tools/on.py <day> pravilnik-2013-2370`).
 
 ## Status
 

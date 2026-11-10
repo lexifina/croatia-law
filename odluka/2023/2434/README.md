@@ -10,7 +10,7 @@ Odluka o visini poreznih stopa poreza na dohodak u Općini Brtonigla - Vertenegl
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2023-2434` (tags `odluka-2023-2434/<day>`; `python tools/on.py <day> odluka-2023-2434`).
+Act id: `odluka-2023-2434` (tags `odluka-2023-2434/<day>`; `python registry/tools/on.py <day> odluka-2023-2434`).
 
 ## Decisions made by hand
 

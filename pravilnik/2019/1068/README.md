@@ -8,7 +8,7 @@ Pravilnik o izmjenama i dopunama Pravilnika o postupanju Središnjeg registra os
 | čl. 2 | [clanak-002.md](clanak-002.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `pravilnik-2019-1068` (tags `pravilnik-2019-1068/<day>`; `python tools/on.py <day> pravilnik-2019-1068`).
+Act id: `pravilnik-2019-1068` (tags `pravilnik-2019-1068/<day>`; `python registry/tools/on.py <day> pravilnik-2019-1068`).
 
 ## Decisions made by hand
 

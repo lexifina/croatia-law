@@ -10,7 +10,7 @@ Pravilnik o izmjeni i dopuni Pravilnika o sigurnosti igračaka · 1 versions, fr
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2022-2129` (tags `pravilnik-2022-2129/<day>`; `python tools/on.py <day> pravilnik-2022-2129`).
+Act id: `pravilnik-2022-2129` (tags `pravilnik-2022-2129/<day>`; `python registry/tools/on.py <day> pravilnik-2022-2129`).
 
 ## Decisions made by hand
 

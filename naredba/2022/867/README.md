@@ -10,7 +10,7 @@ Naredba o zabrani uporabe didušikovog monoksida (N2O) · 1 versions, from 2022-
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `naredba-2022-867` (tags `naredba-2022-867/<day>`; `python tools/on.py <day> naredba-2022-867`).
+Act id: `naredba-2022-867` (tags `naredba-2022-867/<day>`; `python registry/tools/on.py <day> naredba-2022-867`).
 
 ## Status
 

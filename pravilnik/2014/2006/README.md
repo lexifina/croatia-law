@@ -27,7 +27,7 @@ Pravilnik o dozvoljenim ulaganjima i dodatnim ograničenjima ulaganja obveznog m
 | čl. 21 | [clanak-021.md](clanak-021.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `pravilnik-2014-2006` (tags `pravilnik-2014-2006/<day>`; `python tools/on.py <day> pravilnik-2014-2006`).
+Act id: `pravilnik-2014-2006` (tags `pravilnik-2014-2006/<day>`; `python registry/tools/on.py <day> pravilnik-2014-2006`).
 
 ## Status
 

@@ -57,7 +57,7 @@ Pravilnik o postupku procjene rizika od pranja novca i financiranja terorizma te
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2019-2121` (tags `pravilnik-2019-2121/<day>`; `python tools/on.py <day> pravilnik-2019-2121`).
+Act id: `pravilnik-2019-2121` (tags `pravilnik-2019-2121/<day>`; `python registry/tools/on.py <day> pravilnik-2019-2121`).
 
 ## Status
 

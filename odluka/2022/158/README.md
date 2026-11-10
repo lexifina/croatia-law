@@ -8,7 +8,7 @@ Odluka o materijalnim i nematerijalnim pravima, drugim naknadama te visini osnov
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2022-158` (tags `odluka-2022-158/<day>`; `python tools/on.py <day> odluka-2022-158`).
+Act id: `odluka-2022-158` (tags `odluka-2022-158/<day>`; `python registry/tools/on.py <day> odluka-2022-158`).
 
 ## Decisions made by hand
 

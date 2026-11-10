@@ -9,7 +9,7 @@ Odluka o izmjeni Odluke o izdavanju dozvole za istraživanje i eksploataciju ugl
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2016-1537` (tags `odluka-2016-1537/<day>`; `python tools/on.py <day> odluka-2016-1537`).
+Act id: `odluka-2016-1537` (tags `odluka-2016-1537/<day>`; `python registry/tools/on.py <day> odluka-2016-1537`).
 
 ## Decisions made by hand
 

@@ -8,7 +8,7 @@ Odluka o davanju suglasnosti na Odluku Županijskog poglavarstva Šibensko-knins
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2020-2904` (tags `odluka-2020-2904/<day>`; `python tools/on.py <day> odluka-2020-2904`).
+Act id: `odluka-2020-2904` (tags `odluka-2020-2904/<day>`; `python registry/tools/on.py <day> odluka-2020-2904`).
 
 ## Decisions made by hand
 

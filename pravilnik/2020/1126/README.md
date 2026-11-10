@@ -12,7 +12,7 @@ Pravilnik o izmjeni i dopunama Pravilnika o pripravničkom stažu i polaganju st
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2020-1126` (tags `pravilnik-2020-1126/<day>`; `python tools/on.py <day> pravilnik-2020-1126`).
+Act id: `pravilnik-2020-1126` (tags `pravilnik-2020-1126/<day>`; `python registry/tools/on.py <day> pravilnik-2020-1126`).
 
 ## Decisions made by hand
 

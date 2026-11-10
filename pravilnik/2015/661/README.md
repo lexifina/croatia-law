@@ -19,7 +19,7 @@ Pravilnik o sadržaju obračuna plaće, naknade plaće ili otpremnine · 1 versi
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2015-661` (tags `pravilnik-2015-661/<day>`; `python tools/on.py <day> pravilnik-2015-661`).
+Act id: `pravilnik-2015-661` (tags `pravilnik-2015-661/<day>`; `python registry/tools/on.py <day> pravilnik-2015-661`).
 
 ## Status
 

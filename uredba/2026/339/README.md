@@ -9,7 +9,7 @@ Uredba o dopuni Uredbe o jediničnoj naknadi za odlaganje otpada · 1 versions, 
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2026-339` (tags `uredba-2026-339/<day>`; `python tools/on.py <day> uredba-2026-339`).
+Act id: `uredba-2026-339` (tags `uredba-2026-339/<day>`; `python registry/tools/on.py <day> uredba-2026-339`).
 
 ## Decisions made by hand
 

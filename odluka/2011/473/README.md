@@ -8,7 +8,7 @@ Odluka o izmjeni Odluke o dodjeli sredstava za rje≈°avanje stambenih potreba dr≈
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2011-473` (tags `odluka-2011-473/<day>`; `python tools/on.py <day> odluka-2011-473`).
+Act id: `odluka-2011-473` (tags `odluka-2011-473/<day>`; `python registry/tools/on.py <day> odluka-2011-473`).
 
 ## Decisions made by hand
 

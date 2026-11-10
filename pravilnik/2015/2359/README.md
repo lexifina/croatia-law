@@ -27,7 +27,7 @@ Pravilnik o načinu, uvjetima i postupku određivanja, označavanja i vođenja e
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2015-2359` (tags `pravilnik-2015-2359/<day>`; `python tools/on.py <day> pravilnik-2015-2359`).
+Act id: `pravilnik-2015-2359` (tags `pravilnik-2015-2359/<day>`; `python registry/tools/on.py <day> pravilnik-2015-2359`).
 
 ## Status
 

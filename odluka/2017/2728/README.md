@@ -8,7 +8,7 @@ Odluka o katastarskoj izmjeri na području Općine Lišane Ostrovičke za dio ka
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2017-2728` (tags `odluka-2017-2728/<day>`; `python tools/on.py <day> odluka-2017-2728`).
+Act id: `odluka-2017-2728` (tags `odluka-2017-2728/<day>`; `python registry/tools/on.py <day> odluka-2017-2728`).
 
 ## Decisions made by hand
 

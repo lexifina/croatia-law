@@ -31,7 +31,7 @@ Pravilnik o provedbi Školske sheme · 1 versions, from 2017-05-27 (latest in fo
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2017-1143` (tags `pravilnik-2017-1143/<day>`; `python tools/on.py <day> pravilnik-2017-1143`).
+Act id: `pravilnik-2017-1143` (tags `pravilnik-2017-1143/<day>`; `python registry/tools/on.py <day> pravilnik-2017-1143`).
 
 ## Status
 

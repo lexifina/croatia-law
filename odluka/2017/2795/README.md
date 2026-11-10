@@ -24,7 +24,7 @@ Odluka o lokalnim porezima Općine Medulin · 1 versions, from 2017-12-16 (lates
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2017-2795` (tags `odluka-2017-2795/<day>`; `python tools/on.py <day> odluka-2017-2795`).
+Act id: `odluka-2017-2795` (tags `odluka-2017-2795/<day>`; `python registry/tools/on.py <day> odluka-2017-2795`).
 
 ## Status
 

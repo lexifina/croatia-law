@@ -16,7 +16,7 @@ Zakon o izmjenama Zakona o ustrojstvu i djelokrugu tijela državne uprave · 1 v
 | čl. 10 | [clanak-010.md](clanak-010.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2023-351` (tags `zakon-2023-351/<day>`; `python tools/on.py <day> zakon-2023-351`).
+Act id: `zakon-2023-351` (tags `zakon-2023-351/<day>`; `python registry/tools/on.py <day> zakon-2023-351`).
 
 ## Decisions made by hand
 

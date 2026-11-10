@@ -19,7 +19,7 @@ Pravilnik o načinu izvješćivanja te o načinu vođenja evidencije i rokovima 
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2013-1393` (tags `pravilnik-2013-1393/<day>`; `python tools/on.py <day> pravilnik-2013-1393`).
+Act id: `pravilnik-2013-1393` (tags `pravilnik-2013-1393/<day>`; `python registry/tools/on.py <day> pravilnik-2013-1393`).
 
 ## Decisions made by hand
 

@@ -8,7 +8,7 @@ Odluka o izmjenama Odluke o autorizaciji plovila za sakupljanje crvenog koralja 
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2022-696` (tags `odluka-2022-696/<day>`; `python tools/on.py <day> odluka-2022-696`).
+Act id: `odluka-2022-696` (tags `odluka-2022-696/<day>`; `python registry/tools/on.py <day> odluka-2022-696`).
 
 ## Decisions made by hand
 

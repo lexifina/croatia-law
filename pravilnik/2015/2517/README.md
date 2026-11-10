@@ -10,7 +10,7 @@ Pravilnik o izmjenama i dopunama Pravilnika o povlastici za obavljanje gospodars
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2015-2517` (tags `pravilnik-2015-2517/<day>`; `python tools/on.py <day> pravilnik-2015-2517`).
+Act id: `pravilnik-2015-2517` (tags `pravilnik-2015-2517/<day>`; `python registry/tools/on.py <day> pravilnik-2015-2517`).
 
 ## Decisions made by hand
 

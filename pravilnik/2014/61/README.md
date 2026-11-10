@@ -21,7 +21,7 @@ Pravilnik o visini naknada u skladu s Älankom 74. Uredbe (EZ) br. 1107/2009 i Ä
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2014-61` (tags `pravilnik-2014-61/<day>`; `python tools/on.py <day> pravilnik-2014-61`).
+Act id: `pravilnik-2014-61` (tags `pravilnik-2014-61/<day>`; `python registry/tools/on.py <day> pravilnik-2014-61`).
 
 ## Status
 

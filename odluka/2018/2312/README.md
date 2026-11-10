@@ -8,7 +8,7 @@ Odluka o izmjeni i dopuni Odluke o visini, načinu i rokovima uplate sredstava t
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2018-2312` (tags `odluka-2018-2312/<day>`; `python tools/on.py <day> odluka-2018-2312`).
+Act id: `odluka-2018-2312` (tags `odluka-2018-2312/<day>`; `python registry/tools/on.py <day> odluka-2018-2312`).
 
 ## Decisions made by hand
 

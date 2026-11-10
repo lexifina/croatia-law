@@ -43,7 +43,7 @@ Pravilnik o provedbi podmjere 10.2 »Potpora za očuvanje, održivo korištenje 
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2018-359` (tags `pravilnik-2018-359/<day>`; `python tools/on.py <day> pravilnik-2018-359`).
+Act id: `pravilnik-2018-359` (tags `pravilnik-2018-359/<day>`; `python registry/tools/on.py <day> pravilnik-2018-359`).
 
 ## Decisions made by hand
 

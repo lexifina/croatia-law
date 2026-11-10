@@ -19,7 +19,7 @@ Naputak o načinu rada Agencije za pravni promet i posredovanje nekretninama u p
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `naputak-2011-916` (tags `naputak-2011-916/<day>`; `python tools/on.py <day> naputak-2011-916`).
+Act id: `naputak-2011-916` (tags `naputak-2011-916/<day>`; `python registry/tools/on.py <day> naputak-2011-916`).
 
 ## Decisions made by hand
 

@@ -10,7 +10,7 @@ Pravilnik o dopuni Pravilnika o popisu predviđenih namjena korištenja hrane za
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2012-1597` (tags `pravilnik-2012-1597/<day>`; `python tools/on.py <day> pravilnik-2012-1597`).
+Act id: `pravilnik-2012-1597` (tags `pravilnik-2012-1597/<day>`; `python registry/tools/on.py <day> pravilnik-2012-1597`).
 
 ## Decisions made by hand
 

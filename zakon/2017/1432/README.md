@@ -42,7 +42,7 @@ Zakon o izmjenama i dopunama Zakona o autorskom pravu i srodnim pravima · 1 ver
 | čl. 36 | [clanak-036.md](clanak-036.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2017-1432` (tags `zakon-2017-1432/<day>`; `python tools/on.py <day> zakon-2017-1432`).
+Act id: `zakon-2017-1432` (tags `zakon-2017-1432/<day>`; `python registry/tools/on.py <day> zakon-2017-1432`).
 
 ## Decisions made by hand
 

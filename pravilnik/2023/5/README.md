@@ -9,7 +9,7 @@ Pravilnik o izmjeni Pravilnika o određivanju privremenih graničnih prijelaza �
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2023-5` (tags `pravilnik-2023-5/<day>`; `python tools/on.py <day> pravilnik-2023-5`).
+Act id: `pravilnik-2023-5` (tags `pravilnik-2023-5/<day>`; `python registry/tools/on.py <day> pravilnik-2023-5`).
 
 ## Decisions made by hand
 

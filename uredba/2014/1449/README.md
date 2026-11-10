@@ -36,7 +36,7 @@ Uredba o dobrovoljnom sudjelovanju organizacija u sustavu za ekološko upravljan
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2014-1449` (tags `uredba-2014-1449/<day>`; `python tools/on.py <day> uredba-2014-1449`).
+Act id: `uredba-2014-1449` (tags `uredba-2014-1449/<day>`; `python registry/tools/on.py <day> uredba-2014-1449`).
 
 ## Status
 

@@ -39,7 +39,7 @@ Uredba o Registru državne imovine · 1 versions, from 2011-05-26 (latest in for
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2011-1207` (tags `uredba-2011-1207/<day>`; `python tools/on.py <day> uredba-2011-1207`).
+Act id: `uredba-2011-1207` (tags `uredba-2011-1207/<day>`; `python registry/tools/on.py <day> uredba-2011-1207`).
 
 ## Status
 

@@ -9,7 +9,7 @@ Pravilnik o dopuni Pravilnika o tržišnim standardima za voće i povrće · 1 v
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2011-3219` (tags `pravilnik-2011-3219/<day>`; `python tools/on.py <day> pravilnik-2011-3219`).
+Act id: `pravilnik-2011-3219` (tags `pravilnik-2011-3219/<day>`; `python registry/tools/on.py <day> pravilnik-2011-3219`).
 
 ## Decisions made by hand
 

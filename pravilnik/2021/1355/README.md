@@ -5,7 +5,7 @@ Pravilnik o sadržaju Akcijskog programa zaštite voda od onečišćenja uzrokov
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `pravilnik-2021-1355` (tags `pravilnik-2021-1355/<day>`; `python tools/on.py <day> pravilnik-2021-1355`).
+Act id: `pravilnik-2021-1355` (tags `pravilnik-2021-1355/<day>`; `python registry/tools/on.py <day> pravilnik-2021-1355`).
 
 ## Decisions made by hand
 

@@ -8,7 +8,7 @@ Odluka o katastarskoj izmjeri na području Općine Orebić za dio katastarske op
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2025-1594` (tags `odluka-2025-1594/<day>`; `python tools/on.py <day> odluka-2025-1594`).
+Act id: `odluka-2025-1594` (tags `odluka-2025-1594/<day>`; `python registry/tools/on.py <day> odluka-2025-1594`).
 
 ## Decisions made by hand
 

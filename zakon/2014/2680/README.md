@@ -48,7 +48,7 @@ Zakon o izmjenama i dopunama Zakona o doprinosima · 1 versions, from 2015-01-01
 | čl. 42 | [clanak-042.md](clanak-042.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2014-2680` (tags `zakon-2014-2680/<day>`; `python tools/on.py <day> zakon-2014-2680`).
+Act id: `zakon-2014-2680` (tags `zakon-2014-2680/<day>`; `python registry/tools/on.py <day> zakon-2014-2680`).
 
 ## Decisions made by hand
 

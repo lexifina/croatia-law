@@ -9,7 +9,7 @@ Izmjene i dopune Statuta Hrvatske javnobilježničke komore · 1 versions, from 
 | čl. 3 | [clanak-003.md](clanak-003.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `statut-2020-527` (tags `statut-2020-527/<day>`; `python tools/on.py <day> statut-2020-527`).
+Act id: `statut-2020-527` (tags `statut-2020-527/<day>`; `python registry/tools/on.py <day> statut-2020-527`).
 
 ## Decisions made by hand
 

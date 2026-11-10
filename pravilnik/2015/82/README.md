@@ -5,7 +5,7 @@ Pravilnik o načinu isplate novčanih primanja i drugih troškova · 2 versions,
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `pravilnik-2015-82` (tags `pravilnik-2015-82/<day>`; `python tools/on.py <day> pravilnik-2015-82`).
+Act id: `pravilnik-2015-82` (tags `pravilnik-2015-82/<day>`; `python registry/tools/on.py <day> pravilnik-2015-82`).
 
 ## Decisions made by hand
 

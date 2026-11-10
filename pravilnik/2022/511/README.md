@@ -19,7 +19,7 @@ Pravilnik o vođenju Evidencije o braniteljskim socijalno-radnim zadrugama i nji
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2022-511` (tags `pravilnik-2022-511/<day>`; `python tools/on.py <day> pravilnik-2022-511`).
+Act id: `pravilnik-2022-511` (tags `pravilnik-2022-511/<day>`; `python registry/tools/on.py <day> pravilnik-2022-511`).
 
 ## Decisions made by hand
 

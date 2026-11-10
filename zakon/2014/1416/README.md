@@ -13,7 +13,7 @@ Zakon o izmjenama i dopunama Zakona o područjima posebne državne skrbi · 1 ve
 | čl. 7 | [clanak-007.md](clanak-007.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2014-1416` (tags `zakon-2014-1416/<day>`; `python tools/on.py <day> zakon-2014-1416`).
+Act id: `zakon-2014-1416` (tags `zakon-2014-1416/<day>`; `python registry/tools/on.py <day> zakon-2014-1416`).
 
 ## Decisions made by hand
 

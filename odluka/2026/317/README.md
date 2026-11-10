@@ -12,7 +12,7 @@ Odluka o informatičkim rješenjima za dostavu izvještaja za potrebe planiranja
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2026-317` (tags `odluka-2026-317/<day>`; `python tools/on.py <day> odluka-2026-317`).
+Act id: `odluka-2026-317` (tags `odluka-2026-317/<day>`; `python registry/tools/on.py <day> odluka-2026-317`).
 
 ## Decisions made by hand
 

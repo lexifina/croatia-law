@@ -16,7 +16,7 @@ Pravilnik o odobrenim nacionalnim mjerama određenih država članica Europske u
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2011-2035` (tags `pravilnik-2011-2035/<day>`; `python tools/on.py <day> pravilnik-2011-2035`).
+Act id: `pravilnik-2011-2035` (tags `pravilnik-2011-2035/<day>`; `python registry/tools/on.py <day> pravilnik-2011-2035`).
 
 ## Status
 

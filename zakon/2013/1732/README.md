@@ -125,7 +125,7 @@ Zakon o prijevozu u cestovnom prometu · 1 versions, from 2013-07-01 (latest in 
 | čl. 119 | [clanak-119.md](clanak-119.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2013-1732` (tags `zakon-2013-1732/<day>`; `python tools/on.py <day> zakon-2013-1732`).
+Act id: `zakon-2013-1732` (tags `zakon-2013-1732/<day>`; `python registry/tools/on.py <day> zakon-2013-1732`).
 
 ## Status
 

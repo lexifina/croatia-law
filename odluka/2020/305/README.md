@@ -8,7 +8,7 @@ Odluka o donošenju Akcijskog plana za prevenciju nasilja u školama 2020. - 202
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2020-305` (tags `odluka-2020-305/<day>`; `python tools/on.py <day> odluka-2020-305`).
+Act id: `odluka-2020-305` (tags `odluka-2020-305/<day>`; `python registry/tools/on.py <day> odluka-2020-305`).
 
 ## Decisions made by hand
 

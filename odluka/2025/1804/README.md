@@ -8,7 +8,7 @@ Odluka o iznosu tarifnih stavki za distribuciju toplinske energije za centralne 
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2025-1804` (tags `odluka-2025-1804/<day>`; `python tools/on.py <day> odluka-2025-1804`).
+Act id: `odluka-2025-1804` (tags `odluka-2025-1804/<day>`; `python registry/tools/on.py <day> odluka-2025-1804`).
 
 ## Status
 

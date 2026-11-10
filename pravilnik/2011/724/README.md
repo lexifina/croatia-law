@@ -16,7 +16,7 @@ Pravilnik o utvrđivanju zahtjeva za primjenu protokola za prijenos poruka o let
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2011-724` (tags `pravilnik-2011-724/<day>`; `python tools/on.py <day> pravilnik-2011-724`).
+Act id: `pravilnik-2011-724` (tags `pravilnik-2011-724/<day>`; `python registry/tools/on.py <day> pravilnik-2011-724`).
 
 ## Status
 

@@ -5,7 +5,7 @@ Pravilnik o ustrojstvu i načinu vođenja zbirki s automatskom obradom podataka 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `pravilnik-2015-851` (tags `pravilnik-2015-851/<day>`; `python tools/on.py <day> pravilnik-2015-851`).
+Act id: `pravilnik-2015-851` (tags `pravilnik-2015-851/<day>`; `python registry/tools/on.py <day> pravilnik-2015-851`).
 
 ## Decisions made by hand
 

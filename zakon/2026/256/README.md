@@ -19,7 +19,7 @@ Zakon o izmjenama i dopuni Zakona o predškolskom odgoju i obrazovanju · 1 vers
 | čl. 13 | [clanak-013.md](clanak-013.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2026-256` (tags `zakon-2026-256/<day>`; `python tools/on.py <day> zakon-2026-256`).
+Act id: `zakon-2026-256` (tags `zakon-2026-256/<day>`; `python registry/tools/on.py <day> zakon-2026-256`).
 
 ## Decisions made by hand
 

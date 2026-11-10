@@ -192,7 +192,7 @@ Uredba o izmjenama i dopunama Uredbe o unutarnjem ustrojstvu Ministarstva poljop
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2023-1476` (tags `uredba-2023-1476/<day>`; `python tools/on.py <day> uredba-2023-1476`).
+Act id: `uredba-2023-1476` (tags `uredba-2023-1476/<day>`; `python registry/tools/on.py <day> uredba-2023-1476`).
 
 ## Decisions made by hand
 

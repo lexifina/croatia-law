@@ -9,7 +9,7 @@ Odluka o donošenju Mreže osnovnih i srednjih škola, učeničkih domova i prog
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2011-1515` (tags `odluka-2011-1515/<day>`; `python tools/on.py <day> odluka-2011-1515`).
+Act id: `odluka-2011-1515` (tags `odluka-2011-1515/<day>`; `python registry/tools/on.py <day> odluka-2011-1515`).
 
 ## Status
 

@@ -5,7 +5,7 @@ Pravilnik o uvjetima i načinu ostvarivanja prava redovitih studenata na državn
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `pravilnik-2022-1553` (tags `pravilnik-2022-1553/<day>`; `python tools/on.py <day> pravilnik-2022-1553`).
+Act id: `pravilnik-2022-1553` (tags `pravilnik-2022-1553/<day>`; `python registry/tools/on.py <day> pravilnik-2022-1553`).
 
 ## Decisions made by hand
 

@@ -5,7 +5,7 @@ Pravilnik o polaganju stručnog ispita iz rudarstva · 2 versions, from 2022-11-
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `pravilnik-2022-1944` (tags `pravilnik-2022-1944/<day>`; `python tools/on.py <day> pravilnik-2022-1944`).
+Act id: `pravilnik-2022-1944` (tags `pravilnik-2022-1944/<day>`; `python registry/tools/on.py <day> pravilnik-2022-1944`).
 
 ## Decisions made by hand
 

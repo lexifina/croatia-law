@@ -37,7 +37,7 @@ Pravilnik o registru geografskih imena · 1 versions, from 2025-08-02 (latest in
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2025-1500` (tags `pravilnik-2025-1500/<day>`; `python tools/on.py <day> pravilnik-2025-1500`).
+Act id: `pravilnik-2025-1500` (tags `pravilnik-2025-1500/<day>`; `python registry/tools/on.py <day> pravilnik-2025-1500`).
 
 ## Decisions made by hand
 

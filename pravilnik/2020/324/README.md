@@ -16,7 +16,7 @@ Pravilnik o izmjenama i dopunama Pravilnika o uvjetima za obavljanje funkcije č
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2020-324` (tags `pravilnik-2020-324/<day>`; `python tools/on.py <day> pravilnik-2020-324`).
+Act id: `pravilnik-2020-324` (tags `pravilnik-2020-324/<day>`; `python registry/tools/on.py <day> pravilnik-2020-324`).
 
 ## Decisions made by hand
 

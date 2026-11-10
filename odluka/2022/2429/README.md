@@ -13,7 +13,7 @@ Odluka o postupanju sa sumnjivim stranim gotovim novcem · 1 versions, from 2023
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2022-2429` (tags `odluka-2022-2429/<day>`; `python tools/on.py <day> odluka-2022-2429`).
+Act id: `odluka-2022-2429` (tags `odluka-2022-2429/<day>`; `python registry/tools/on.py <day> odluka-2022-2429`).
 
 ## Decisions made by hand
 

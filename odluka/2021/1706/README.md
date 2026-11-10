@@ -9,7 +9,7 @@ Odluka o aktualnoj vrijednosti mirovine od 1. srpnja 2021. · 1 versions, from 2
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2021-1706` (tags `odluka-2021-1706/<day>`; `python tools/on.py <day> odluka-2021-1706`).
+Act id: `odluka-2021-1706` (tags `odluka-2021-1706/<day>`; `python registry/tools/on.py <day> odluka-2021-1706`).
 
 ## Decisions made by hand
 

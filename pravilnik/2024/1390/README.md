@@ -14,7 +14,7 @@ Pravilnik o načinu obračunavanja i isplati novčane naknade za vrijeme korišt
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2024-1390` (tags `pravilnik-2024-1390/<day>`; `python tools/on.py <day> pravilnik-2024-1390`).
+Act id: `pravilnik-2024-1390` (tags `pravilnik-2024-1390/<day>`; `python registry/tools/on.py <day> pravilnik-2024-1390`).
 
 ## Decisions made by hand
 

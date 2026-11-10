@@ -10,7 +10,7 @@ Pravilnik o izmjenama Pravilnika o službenoj iskaznici i znački državnih vodo
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2012-3018` (tags `pravilnik-2012-3018/<day>`; `python tools/on.py <day> pravilnik-2012-3018`).
+Act id: `pravilnik-2012-3018` (tags `pravilnik-2012-3018/<day>`; `python registry/tools/on.py <day> pravilnik-2012-3018`).
 
 ## Decisions made by hand
 

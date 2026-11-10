@@ -8,7 +8,7 @@ Odluka o naknadi za razvoj društva Vinkovački vodovod i kanalizacija d.o.o. za
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2022-198` (tags `odluka-2022-198/<day>`; `python tools/on.py <day> odluka-2022-198`).
+Act id: `odluka-2022-198` (tags `odluka-2022-198/<day>`; `python registry/tools/on.py <day> odluka-2022-198`).
 
 ## Decisions made by hand
 

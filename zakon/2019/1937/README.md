@@ -11,7 +11,7 @@ Zakon o izmjenama Zakona o lokalnim izborima · 1 versions, from 2020-01-01 (lat
 | čl. 5 | [clanak-005.md](clanak-005.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2019-1937` (tags `zakon-2019-1937/<day>`; `python tools/on.py <day> zakon-2019-1937`).
+Act id: `zakon-2019-1937` (tags `zakon-2019-1937/<day>`; `python registry/tools/on.py <day> zakon-2019-1937`).
 
 ## Decisions made by hand
 

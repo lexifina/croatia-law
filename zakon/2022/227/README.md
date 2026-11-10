@@ -20,7 +20,7 @@ Zakon o izmjenama i dopunama Zakona o Fondu za financiranje razgradnje i zbrinja
 | čl. 14 | [clanak-014.md](clanak-014.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2022-227` (tags `zakon-2022-227/<day>`; `python tools/on.py <day> zakon-2022-227`).
+Act id: `zakon-2022-227` (tags `zakon-2022-227/<day>`; `python registry/tools/on.py <day> zakon-2022-227`).
 
 ## Decisions made by hand
 

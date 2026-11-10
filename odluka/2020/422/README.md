@@ -8,7 +8,7 @@ Odluka o objavi okvira profesionalnih načela, standarda i smjernica Međunarodn
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2020-422` (tags `odluka-2020-422/<day>`; `python tools/on.py <day> odluka-2020-422`).
+Act id: `odluka-2020-422` (tags `odluka-2020-422/<day>`; `python registry/tools/on.py <day> odluka-2020-422`).
 
 ## Status
 

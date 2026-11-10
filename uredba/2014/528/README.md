@@ -19,7 +19,7 @@ Uredba o kriterijima za bodovanje zahtjeva za stambeno zbrinjavanje · 1 version
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2014-528` (tags `uredba-2014-528/<day>`; `python tools/on.py <day> uredba-2014-528`).
+Act id: `uredba-2014-528` (tags `uredba-2014-528/<day>`; `python registry/tools/on.py <day> uredba-2014-528`).
 
 ## Status
 

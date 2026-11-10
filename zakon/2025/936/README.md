@@ -8,7 +8,7 @@ Zakon o dopuni Zakona o blagdanima, spomendanima i neradnim danima u Republici H
 | čl. 2 | [clanak-002.md](clanak-002.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2025-936` (tags `zakon-2025-936/<day>`; `python tools/on.py <day> zakon-2025-936`).
+Act id: `zakon-2025-936` (tags `zakon-2025-936/<day>`; `python registry/tools/on.py <day> zakon-2025-936`).
 
 ## Decisions made by hand
 

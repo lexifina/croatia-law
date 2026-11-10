@@ -9,7 +9,7 @@ Pravilnik o izmjenama i dopunama Pravilnika o uvjetima za nuđenje udjela AIF-a 
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2017-922` (tags `pravilnik-2017-922/<day>`; `python tools/on.py <day> pravilnik-2017-922`).
+Act id: `pravilnik-2017-922` (tags `pravilnik-2017-922/<day>`; `python registry/tools/on.py <day> pravilnik-2017-922`).
 
 ## Decisions made by hand
 

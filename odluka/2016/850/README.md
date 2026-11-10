@@ -14,7 +14,7 @@ Odluka o izmjenama i dopunama Odluke o upravljanju likvidnosnim rizikom · 1 ver
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2016-850` (tags `odluka-2016-850/<day>`; `python tools/on.py <day> odluka-2016-850`).
+Act id: `odluka-2016-850` (tags `odluka-2016-850/<day>`; `python registry/tools/on.py <day> odluka-2016-850`).
 
 ## Decisions made by hand
 

@@ -5,7 +5,7 @@ Pravilnik o sadržaju i tehničkim elementima projektne dokumentacije obnove, pr
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `pravilnik-2020-2429` (tags `pravilnik-2020-2429/<day>`; `python tools/on.py <day> pravilnik-2020-2429`).
+Act id: `pravilnik-2020-2429` (tags `pravilnik-2020-2429/<day>`; `python registry/tools/on.py <day> pravilnik-2020-2429`).
 
 ## Decisions made by hand
 

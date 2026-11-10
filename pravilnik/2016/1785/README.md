@@ -26,7 +26,7 @@ Pravilnik o uvjetima kojima mora udovoljavati osoba koja upravlja zrakoplovima n
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2016-1785` (tags `pravilnik-2016-1785/<day>`; `python tools/on.py <day> pravilnik-2016-1785`).
+Act id: `pravilnik-2016-1785` (tags `pravilnik-2016-1785/<day>`; `python registry/tools/on.py <day> pravilnik-2016-1785`).
 
 ## Status
 

@@ -8,7 +8,7 @@ Odluka o izmjeni i dopuni Odluke o nužnoj epidemiološkoj mjeri obveznog koriš
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2021-2514` (tags `odluka-2021-2514/<day>`; `python tools/on.py <day> odluka-2021-2514`).
+Act id: `odluka-2021-2514` (tags `odluka-2021-2514/<day>`; `python registry/tools/on.py <day> odluka-2021-2514`).
 
 ## Decisions made by hand
 

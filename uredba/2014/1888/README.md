@@ -13,7 +13,7 @@ Uredba o izmjenama i dopunama Uredbe o nazivima radnih mjesta i koeficijentima s
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2014-1888` (tags `uredba-2014-1888/<day>`; `python tools/on.py <day> uredba-2014-1888`).
+Act id: `uredba-2014-1888` (tags `uredba-2014-1888/<day>`; `python registry/tools/on.py <day> uredba-2014-1888`).
 
 ## Decisions made by hand
 

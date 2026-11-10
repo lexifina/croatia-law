@@ -14,7 +14,7 @@ Zakon o izmjenama i dopunama Zakona o sudskom registru · 1 versions, from 2014-
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 
-Act id: `zakon-2014-1878` (tags `zakon-2014-1878/<day>`; `python tools/on.py <day> zakon-2014-1878`).
+Act id: `zakon-2014-1878` (tags `zakon-2014-1878/<day>`; `python registry/tools/on.py <day> zakon-2014-1878`).
 
 ## Decisions made by hand
 

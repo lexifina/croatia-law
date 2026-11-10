@@ -29,7 +29,7 @@ Pravilnik o sokolarstvu · 1 versions, from 2026-10-01 (latest in force: 2026-10
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2026-1287` (tags `pravilnik-2026-1287/<day>`; `python tools/on.py <day> pravilnik-2026-1287`).
+Act id: `pravilnik-2026-1287` (tags `pravilnik-2026-1287/<day>`; `python registry/tools/on.py <day> pravilnik-2026-1287`).
 
 ## Decisions made by hand
 

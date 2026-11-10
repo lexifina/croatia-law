@@ -17,7 +17,7 @@ Pravilnik o smjernicama za izradu procjena rizika od katastrofa i velikih nesreÄ
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2016-1617` (tags `pravilnik-2016-1617/<day>`; `python tools/on.py <day> pravilnik-2016-1617`).
+Act id: `pravilnik-2016-1617` (tags `pravilnik-2016-1617/<day>`; `python registry/tools/on.py <day> pravilnik-2016-1617`).
 
 ## Decisions made by hand
 

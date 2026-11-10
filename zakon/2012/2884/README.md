@@ -14,7 +14,7 @@ Zakon o izmjenama i dopunama Zakona o potpori poljoprivredi i ruralnom razvoju Â
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 
-Act id: `zakon-2012-2884` (tags `zakon-2012-2884/<day>`; `python tools/on.py <day> zakon-2012-2884`).
+Act id: `zakon-2012-2884` (tags `zakon-2012-2884/<day>`; `python registry/tools/on.py <day> zakon-2012-2884`).
 
 ## Decisions made by hand
 

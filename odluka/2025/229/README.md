@@ -9,7 +9,7 @@ Odluka o izmjenama i dopuni Odluke o sustavu upravljanja i praćenju provedbe ak
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2025-229` (tags `odluka-2025-229/<day>`; `python tools/on.py <day> odluka-2025-229`).
+Act id: `odluka-2025-229` (tags `odluka-2025-229/<day>`; `python registry/tools/on.py <day> odluka-2025-229`).
 
 ## Decisions made by hand
 

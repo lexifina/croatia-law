@@ -10,7 +10,7 @@ Uredba o izmjeni Uredbe o ekološkoj mreži i nadležnostima javnih ustanova za 
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2025-1185` (tags `uredba-2025-1185/<day>`; `python tools/on.py <day> uredba-2025-1185`).
+Act id: `uredba-2025-1185` (tags `uredba-2025-1185/<day>`; `python registry/tools/on.py <day> uredba-2025-1185`).
 
 ## Status
 

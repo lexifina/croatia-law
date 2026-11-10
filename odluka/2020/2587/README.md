@@ -9,7 +9,7 @@ Odluka o davanju suglasnosti na Financijski plan Hrvatskih autocesta za 2021. go
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2020-2587` (tags `odluka-2020-2587/<day>`; `python tools/on.py <day> odluka-2020-2587`).
+Act id: `odluka-2020-2587` (tags `odluka-2020-2587/<day>`; `python registry/tools/on.py <day> odluka-2020-2587`).
 
 ## Decisions made by hand
 

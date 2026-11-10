@@ -33,7 +33,7 @@ Uredba o smjernicama za izradu akata strateškog planiranja od nacionalnog znač
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2023-622` (tags `uredba-2023-622/<day>`; `python tools/on.py <day> uredba-2023-622`).
+Act id: `uredba-2023-622` (tags `uredba-2023-622/<day>`; `python registry/tools/on.py <day> uredba-2023-622`).
 
 ## Decisions made by hand
 

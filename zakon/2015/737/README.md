@@ -25,7 +25,7 @@ Zakon o izmjenama i dopunama Zakona o radnom vremenu, obveznim odmorima mobilnih
 | čl. 19 | [clanak-019.md](clanak-019.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2015-737` (tags `zakon-2015-737/<day>`; `python tools/on.py <day> zakon-2015-737`).
+Act id: `zakon-2015-737` (tags `zakon-2015-737/<day>`; `python registry/tools/on.py <day> zakon-2015-737`).
 
 ## Decisions made by hand
 

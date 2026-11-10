@@ -8,7 +8,7 @@ Odluka o izmjeni Odluke o koncesiji pomorskog dobra u svrhu izgradnje i gospodar
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2017-1803` (tags `odluka-2017-1803/<day>`; `python tools/on.py <day> odluka-2017-1803`).
+Act id: `odluka-2017-1803` (tags `odluka-2017-1803/<day>`; `python registry/tools/on.py <day> odluka-2017-1803`).
 
 ## Decisions made by hand
 

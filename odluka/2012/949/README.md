@@ -9,7 +9,7 @@ Odluka o izmjenama Odluke o Nadzornim izvještajima kreditnih institucija · 1 v
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2012-949` (tags `odluka-2012-949/<day>`; `python tools/on.py <day> odluka-2012-949`).
+Act id: `odluka-2012-949` (tags `odluka-2012-949/<day>`; `python registry/tools/on.py <day> odluka-2012-949`).
 
 ## Decisions made by hand
 

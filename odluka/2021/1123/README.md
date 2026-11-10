@@ -7,7 +7,7 @@ Odluka Agencije za elektroničke medije klasa: UP/I-61212/21-02/0002, urbroj: 56
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 
-Act id: `odluka-2021-1123` (tags `odluka-2021-1123/<day>`; `python tools/on.py <day> odluka-2021-1123`).
+Act id: `odluka-2021-1123` (tags `odluka-2021-1123/<day>`; `python registry/tools/on.py <day> odluka-2021-1123`).
 
 ## Decisions made by hand
 

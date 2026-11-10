@@ -13,7 +13,7 @@ Odluka o provedbi Uredbe (EU) br. 575 /2013 u dijelu kojim se uređuju ulaganja 
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2019-458` (tags `odluka-2019-458/<day>`; `python tools/on.py <day> odluka-2019-458`).
+Act id: `odluka-2019-458` (tags `odluka-2019-458/<day>`; `python registry/tools/on.py <day> odluka-2019-458`).
 
 ## Status
 

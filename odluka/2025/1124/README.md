@@ -32,7 +32,7 @@ Odluka o izmjenama Odluke o provođenju operacija monetarne politike · 1 versio
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2025-1124` (tags `odluka-2025-1124/<day>`; `python tools/on.py <day> odluka-2025-1124`).
+Act id: `odluka-2025-1124` (tags `odluka-2025-1124/<day>`; `python registry/tools/on.py <day> odluka-2025-1124`).
 
 ## Decisions made by hand
 

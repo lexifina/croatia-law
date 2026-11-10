@@ -18,7 +18,7 @@ Odluka o naknadi za razvoj sustava javne vodoopskrbe trgovačkog društva Vodovo
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2024-1238` (tags `odluka-2024-1238/<day>`; `python tools/on.py <day> odluka-2024-1238`).
+Act id: `odluka-2024-1238` (tags `odluka-2024-1238/<day>`; `python registry/tools/on.py <day> odluka-2024-1238`).
 
 ## Status
 

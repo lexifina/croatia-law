@@ -9,7 +9,7 @@ Pravilnik o izmjeni Pravilnika o sokolarstvu · 1 versions, from 2022-05-21 (lat
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2022-737` (tags `pravilnik-2022-737/<day>`; `python tools/on.py <day> pravilnik-2022-737`).
+Act id: `pravilnik-2022-737` (tags `pravilnik-2022-737/<day>`; `python registry/tools/on.py <day> pravilnik-2022-737`).
 
 ## Decisions made by hand
 

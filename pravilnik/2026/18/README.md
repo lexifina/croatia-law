@@ -28,7 +28,7 @@ Pravilnik o provedbi državne potpore za štete na uzgajalištima dagnji · 1 ve
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2026-18` (tags `pravilnik-2026-18/<day>`; `python tools/on.py <day> pravilnik-2026-18`).
+Act id: `pravilnik-2026-18` (tags `pravilnik-2026-18/<day>`; `python registry/tools/on.py <day> pravilnik-2026-18`).
 
 ## Decisions made by hand
 

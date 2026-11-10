@@ -17,7 +17,7 @@ Zakon o izmjenama i dopunama Općeg poreznog zakona · 1 versions, from 2026-01-
 | čl. 11 | [clanak-011.md](clanak-011.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2025-2263` (tags `zakon-2025-2263/<day>`; `python tools/on.py <day> zakon-2025-2263`).
+Act id: `zakon-2025-2263` (tags `zakon-2025-2263/<day>`; `python registry/tools/on.py <day> zakon-2025-2263`).
 
 ## Decisions made by hand
 

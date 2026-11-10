@@ -11,7 +11,7 @@ Odluka o izmjenama i dopunama Odluke o dopuštenoj visini kala, rastepa, kvara i
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2023-1242` (tags `odluka-2023-1242/<day>`; `python tools/on.py <day> odluka-2023-1242`).
+Act id: `odluka-2023-1242` (tags `odluka-2023-1242/<day>`; `python registry/tools/on.py <day> odluka-2023-1242`).
 
 ## Decisions made by hand
 

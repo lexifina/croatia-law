@@ -10,7 +10,7 @@ Pravilnik o izmjenama Pravilnika o načinu prijavljivanja i odjavljivanja te stj
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2015-344` (tags `pravilnik-2015-344/<day>`; `python tools/on.py <day> pravilnik-2015-344`).
+Act id: `pravilnik-2015-344` (tags `pravilnik-2015-344/<day>`; `python registry/tools/on.py <day> pravilnik-2015-344`).
 
 ## Decisions made by hand
 

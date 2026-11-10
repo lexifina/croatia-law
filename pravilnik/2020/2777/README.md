@@ -9,7 +9,7 @@ Pravilnik o dopuni Pravilnika o načinu provođenja imunizacije, seroprofilakse,
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2020-2777` (tags `pravilnik-2020-2777/<day>`; `python tools/on.py <day> pravilnik-2020-2777`).
+Act id: `pravilnik-2020-2777` (tags `pravilnik-2020-2777/<day>`; `python registry/tools/on.py <day> pravilnik-2020-2777`).
 
 ## Decisions made by hand
 

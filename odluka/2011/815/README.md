@@ -19,7 +19,7 @@ Odluka o prikupljanju podataka o međunarodnim transakcijama povezanim s građev
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2011-815` (tags `odluka-2011-815/<day>`; `python tools/on.py <day> odluka-2011-815`).
+Act id: `odluka-2011-815` (tags `odluka-2011-815/<day>`; `python registry/tools/on.py <day> odluka-2011-815`).
 
 ## Decisions made by hand
 

@@ -20,7 +20,7 @@ Pravilnik o načinu ostvarivanja prava na prilagodbu prilaza do zgrade, prilagod
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2018-731` (tags `pravilnik-2018-731/<day>`; `python tools/on.py <day> pravilnik-2018-731`).
+Act id: `pravilnik-2018-731` (tags `pravilnik-2018-731/<day>`; `python registry/tools/on.py <day> pravilnik-2018-731`).
 
 ## Status
 

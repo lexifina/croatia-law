@@ -12,7 +12,7 @@ Pravilnik o izmjenama i dopunama Pravilnika o športskom ribolovu u slatkovodnom
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2015-706` (tags `pravilnik-2015-706/<day>`; `python tools/on.py <day> pravilnik-2015-706`).
+Act id: `pravilnik-2015-706` (tags `pravilnik-2015-706/<day>`; `python registry/tools/on.py <day> pravilnik-2015-706`).
 
 ## Decisions made by hand
 

@@ -28,7 +28,7 @@ Zakon o izmjenama i dopunama Zakona o obveznim odnosima · 1 versions, from 2026
 | čl. 22 | [clanak-022.md](clanak-022.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2026-833` (tags `zakon-2026-833/<day>`; `python tools/on.py <day> zakon-2026-833`).
+Act id: `zakon-2026-833` (tags `zakon-2026-833/<day>`; `python registry/tools/on.py <day> zakon-2026-833`).
 
 ## Decisions made by hand
 

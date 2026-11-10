@@ -8,7 +8,7 @@ Odluka o ispravku Odluke o dodjeli medalje »Oluja«, urbroj: 41-95-909/1 od 28.
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2020-377` (tags `odluka-2020-377/<day>`; `python tools/on.py <day> odluka-2020-377`).
+Act id: `odluka-2020-377` (tags `odluka-2020-377/<day>`; `python registry/tools/on.py <day> odluka-2020-377`).
 
 ## Decisions made by hand
 

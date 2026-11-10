@@ -9,7 +9,7 @@ Naredba o dopuni Naredbe o razvrstavanju luka otvorenih za javni promet na podru
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `naredba-2013-965` (tags `naredba-2013-965/<day>`; `python tools/on.py <day> naredba-2013-965`).
+Act id: `naredba-2013-965` (tags `naredba-2013-965/<day>`; `python registry/tools/on.py <day> naredba-2013-965`).
 
 ## Decisions made by hand
 

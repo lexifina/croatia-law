@@ -5,7 +5,7 @@ Odluka o umanjenju plaće i dodataka na plaću državnim službenicima i namješ
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `odluka-2023-1247` (tags `odluka-2023-1247/<day>`; `python tools/on.py <day> odluka-2023-1247`).
+Act id: `odluka-2023-1247` (tags `odluka-2023-1247/<day>`; `python registry/tools/on.py <day> odluka-2023-1247`).
 
 ## Decisions made by hand
 

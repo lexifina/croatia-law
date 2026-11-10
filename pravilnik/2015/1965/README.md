@@ -25,7 +25,7 @@ Pravilnik o utvrđivanju neto vrijednosti imovine UCITS fonda i cijene udjela u 
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2015-1965` (tags `pravilnik-2015-1965/<day>`; `python tools/on.py <day> pravilnik-2015-1965`).
+Act id: `pravilnik-2015-1965` (tags `pravilnik-2015-1965/<day>`; `python registry/tools/on.py <day> pravilnik-2015-1965`).
 
 ## Status
 

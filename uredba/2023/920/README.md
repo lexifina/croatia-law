@@ -9,7 +9,7 @@ Uredba o izmjeni Uredbe o načinima i uvjetima napredovanja državnih službenik
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2023-920` (tags `uredba-2023-920/<day>`; `python tools/on.py <day> uredba-2023-920`).
+Act id: `uredba-2023-920` (tags `uredba-2023-920/<day>`; `python registry/tools/on.py <day> uredba-2023-920`).
 
 ## Decisions made by hand
 

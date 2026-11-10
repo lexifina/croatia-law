@@ -8,7 +8,7 @@ Odluka o prelasku granice Republike Hrvatske Oružanih snaga država članica NA
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2023-2308` (tags `odluka-2023-2308/<day>`; `python tools/on.py <day> odluka-2023-2308`).
+Act id: `odluka-2023-2308` (tags `odluka-2023-2308/<day>`; `python registry/tools/on.py <day> odluka-2023-2308`).
 
 ## Decisions made by hand
 

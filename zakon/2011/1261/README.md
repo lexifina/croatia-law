@@ -18,7 +18,7 @@ Zakon o izmjenama i dopunama Zakona o područjima posebne državne skrbi · 1 ve
 | čl. 12 | [clanak-012.md](clanak-012.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2011-1261` (tags `zakon-2011-1261/<day>`; `python tools/on.py <day> zakon-2011-1261`).
+Act id: `zakon-2011-1261` (tags `zakon-2011-1261/<day>`; `python registry/tools/on.py <day> zakon-2011-1261`).
 
 ## Decisions made by hand
 

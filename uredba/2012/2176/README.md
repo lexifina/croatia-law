@@ -10,7 +10,7 @@ Uredba o dopuni Uredbe o nazivima radnih mjesta i koeficijentima složenosti pos
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2012-2176` (tags `uredba-2012-2176/<day>`; `python tools/on.py <day> uredba-2012-2176`).
+Act id: `uredba-2012-2176` (tags `uredba-2012-2176/<day>`; `python registry/tools/on.py <day> uredba-2012-2176`).
 
 ## Status
 

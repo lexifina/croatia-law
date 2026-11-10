@@ -8,7 +8,7 @@ Odluka o katastarskoj izmjeri na podruÄju Grada Benkovca za dio katastarske opÄ
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2024-943` (tags `odluka-2024-943/<day>`; `python tools/on.py <day> odluka-2024-943`).
+Act id: `odluka-2024-943` (tags `odluka-2024-943/<day>`; `python registry/tools/on.py <day> odluka-2024-943`).
 
 ## Decisions made by hand
 

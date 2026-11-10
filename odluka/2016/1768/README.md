@@ -8,7 +8,7 @@ Odluka o obvezi rada ureda državne uprave radi provedbe prijevremenih izbora za
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2016-1768` (tags `odluka-2016-1768/<day>`; `python tools/on.py <day> odluka-2016-1768`).
+Act id: `odluka-2016-1768` (tags `odluka-2016-1768/<day>`; `python registry/tools/on.py <day> odluka-2016-1768`).
 
 ## Decisions made by hand
 

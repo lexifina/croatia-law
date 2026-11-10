@@ -32,7 +32,7 @@ Zakon o izmjenama i dopunama Zakona o policijskim poslovima i ovlastima · 1 ver
 | čl. 26 | [clanak-026.md](clanak-026.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2019-1449` (tags `zakon-2019-1449/<day>`; `python tools/on.py <day> zakon-2019-1449`).
+Act id: `zakon-2019-1449` (tags `zakon-2019-1449/<day>`; `python registry/tools/on.py <day> zakon-2019-1449`).
 
 ## Decisions made by hand
 

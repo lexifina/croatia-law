@@ -8,7 +8,7 @@ Odluka o izdavanju i prodaji prigodnoga zlatnoga i srebrnoga kovanog novca "200.
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2015-1286` (tags `odluka-2015-1286/<day>`; `python tools/on.py <day> odluka-2015-1286`).
+Act id: `odluka-2015-1286` (tags `odluka-2015-1286/<day>`; `python registry/tools/on.py <day> odluka-2015-1286`).
 
 ## Status
 

@@ -16,7 +16,7 @@ Pravilnik o provedbi Uredbe (EU) 255/2010 o utvrđivanju zajedničkih pravila za
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2021-201` (tags `pravilnik-2021-201/<day>`; `python tools/on.py <day> pravilnik-2021-201`).
+Act id: `pravilnik-2021-201` (tags `pravilnik-2021-201/<day>`; `python registry/tools/on.py <day> pravilnik-2021-201`).
 
 ## Decisions made by hand
 

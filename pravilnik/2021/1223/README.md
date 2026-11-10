@@ -9,7 +9,7 @@ Pravilnik o izmjenama Pravilnika o uvjetima i načinu ostvarivanja prava na drž
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2021-1223` (tags `pravilnik-2021-1223/<day>`; `python tools/on.py <day> pravilnik-2021-1223`).
+Act id: `pravilnik-2021-1223` (tags `pravilnik-2021-1223/<day>`; `python registry/tools/on.py <day> pravilnik-2021-1223`).
 
 ## Decisions made by hand
 

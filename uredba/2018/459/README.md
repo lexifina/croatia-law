@@ -9,7 +9,7 @@ Uredba o prestanku važenja Uredbe o pripajanju Agencije za regionalni razvoj Re
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2018-459` (tags `uredba-2018-459/<day>`; `python tools/on.py <day> uredba-2018-459`).
+Act id: `uredba-2018-459` (tags `uredba-2018-459/<day>`; `python registry/tools/on.py <day> uredba-2018-459`).
 
 ## Decisions made by hand
 

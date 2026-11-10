@@ -10,7 +10,7 @@ Zakon o izmjenama Zakona o Gradu Zagrebu · 1 versions, from 2020-12-24 (latest 
 | čl. 4 | [clanak-004.md](clanak-004.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2020-2764` (tags `zakon-2020-2764/<day>`; `python tools/on.py <day> zakon-2020-2764`).
+Act id: `zakon-2020-2764` (tags `zakon-2020-2764/<day>`; `python registry/tools/on.py <day> zakon-2020-2764`).
 
 ## Decisions made by hand
 

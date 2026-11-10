@@ -23,7 +23,7 @@ Pravilnik o izmjenama i dopunama Pravilnika o provedbi izravne potpore poljopriv
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2023-1768` (tags `pravilnik-2023-1768/<day>`; `python tools/on.py <day> pravilnik-2023-1768`).
+Act id: `pravilnik-2023-1768` (tags `pravilnik-2023-1768/<day>`; `python registry/tools/on.py <day> pravilnik-2023-1768`).
 
 ## Decisions made by hand
 

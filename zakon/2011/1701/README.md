@@ -34,7 +34,7 @@ Zakon o Državnom uredu za reviziju · 1 versions, from 2011-07-21 (latest in fo
 | čl. 28 | [clanak-028.md](clanak-028.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2011-1701` (tags `zakon-2011-1701/<day>`; `python tools/on.py <day> zakon-2011-1701`).
+Act id: `zakon-2011-1701` (tags `zakon-2011-1701/<day>`; `python registry/tools/on.py <day> zakon-2011-1701`).
 
 ## Status
 

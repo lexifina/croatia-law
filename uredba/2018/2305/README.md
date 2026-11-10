@@ -17,7 +17,7 @@ Uredba o izmjenama i dopuni Uredbe o unutarnjem ustrojstvu Ministarstva rada i m
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2018-2305` (tags `uredba-2018-2305/<day>`; `python tools/on.py <day> uredba-2018-2305`).
+Act id: `uredba-2018-2305` (tags `uredba-2018-2305/<day>`; `python registry/tools/on.py <day> uredba-2018-2305`).
 
 ## Decisions made by hand
 

@@ -5,7 +5,7 @@ Odluka o osnivanju Savjeta za mlade Vlade Republike Hrvatske · 2 versions, from
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `odluka-2024-196` (tags `odluka-2024-196/<day>`; `python tools/on.py <day> odluka-2024-196`).
+Act id: `odluka-2024-196` (tags `odluka-2024-196/<day>`; `python registry/tools/on.py <day> odluka-2024-196`).
 
 ## Decisions made by hand
 

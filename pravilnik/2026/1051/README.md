@@ -11,7 +11,7 @@ Pravilnik o izmjenama Pravilnika o načinu raspodjele i obračunu troškova za i
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2026-1051` (tags `pravilnik-2026-1051/<day>`; `python tools/on.py <day> pravilnik-2026-1051`).
+Act id: `pravilnik-2026-1051` (tags `pravilnik-2026-1051/<day>`; `python registry/tools/on.py <day> pravilnik-2026-1051`).
 
 ## Decisions made by hand
 

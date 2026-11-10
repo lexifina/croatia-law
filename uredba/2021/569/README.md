@@ -23,7 +23,7 @@ Uredba o Državnoj ergeli Đakovo i Lipik · 1 versions, from 2021-03-20 (latest
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2021-569` (tags `uredba-2021-569/<day>`; `python tools/on.py <day> uredba-2021-569`).
+Act id: `uredba-2021-569` (tags `uredba-2021-569/<day>`; `python registry/tools/on.py <day> uredba-2021-569`).
 
 ## Decisions made by hand
 

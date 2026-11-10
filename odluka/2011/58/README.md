@@ -11,7 +11,7 @@ Odluka o zaštiti novčanih sredstava korisnika platnih usluga · 1 versions, fr
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2011-58` (tags `odluka-2011-58/<day>`; `python tools/on.py <day> odluka-2011-58`).
+Act id: `odluka-2011-58` (tags `odluka-2011-58/<day>`; `python registry/tools/on.py <day> odluka-2011-58`).
 
 ## Status
 

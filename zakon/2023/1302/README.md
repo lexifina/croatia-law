@@ -31,7 +31,7 @@ Zakon o izmjenama i dopunama Zakona o savjetima mladih · 1 versions, from 2023-
 | čl. 25 | [clanak-025.md](clanak-025.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2023-1302` (tags `zakon-2023-1302/<day>`; `python tools/on.py <day> zakon-2023-1302`).
+Act id: `zakon-2023-1302` (tags `zakon-2023-1302/<day>`; `python registry/tools/on.py <day> zakon-2023-1302`).
 
 ## Decisions made by hand
 

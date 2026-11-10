@@ -5,7 +5,7 @@ Naredba o izmjeni i dopuni Naredbe o mjerama za sprječavanje pojave i širenja 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `naredba-2017-316` (tags `naredba-2017-316/<day>`; `python tools/on.py <day> naredba-2017-316`).
+Act id: `naredba-2017-316` (tags `naredba-2017-316/<day>`; `python registry/tools/on.py <day> naredba-2017-316`).
 
 ## Decisions made by hand
 

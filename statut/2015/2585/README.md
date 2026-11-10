@@ -87,7 +87,7 @@ Statut Hrvatske komore inženjera strojarstva · 1 versions, from 2015-12-31 (la
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `statut-2015-2585` (tags `statut-2015-2585/<day>`; `python tools/on.py <day> statut-2015-2585`).
+Act id: `statut-2015-2585` (tags `statut-2015-2585/<day>`; `python registry/tools/on.py <day> statut-2015-2585`).
 
 ## Status
 

@@ -23,7 +23,7 @@ Pravilnik o provedbi Programa potpore sjetvi certificiranog sjemena i sadnji cer
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2026-1149` (tags `pravilnik-2026-1149/<day>`; `python tools/on.py <day> pravilnik-2026-1149`).
+Act id: `pravilnik-2026-1149` (tags `pravilnik-2026-1149/<day>`; `python registry/tools/on.py <day> pravilnik-2026-1149`).
 
 ## Status
 

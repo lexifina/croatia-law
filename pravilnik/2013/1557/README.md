@@ -13,7 +13,7 @@ Pravilnik o izmjenama i dopunama Pravilnika o upisu sorti u Popis sorti voćnih 
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2013-1557` (tags `pravilnik-2013-1557/<day>`; `python tools/on.py <day> pravilnik-2013-1557`).
+Act id: `pravilnik-2013-1557` (tags `pravilnik-2013-1557/<day>`; `python registry/tools/on.py <day> pravilnik-2013-1557`).
 
 ## Decisions made by hand
 

@@ -8,7 +8,7 @@ Odluka o izmjenama Odluke o kratkoročnom kreditu za likvidnost · 1 versions, f
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2016-2666` (tags `odluka-2016-2666/<day>`; `python tools/on.py <day> odluka-2016-2666`).
+Act id: `odluka-2016-2666` (tags `odluka-2016-2666/<day>`; `python registry/tools/on.py <day> odluka-2016-2666`).
 
 ## Decisions made by hand
 

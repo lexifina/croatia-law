@@ -39,7 +39,7 @@ Zakon o izmjenama i dopunama Zakona o regionalnom razvoju Republike Hrvatske · 
 | čl. 33 | [clanak-033.md](clanak-033.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2017-2799` (tags `zakon-2017-2799/<day>`; `python tools/on.py <day> zakon-2017-2799`).
+Act id: `zakon-2017-2799` (tags `zakon-2017-2799/<day>`; `python registry/tools/on.py <day> zakon-2017-2799`).
 
 ## Status
 

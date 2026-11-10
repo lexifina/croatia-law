@@ -5,7 +5,7 @@ Pravilnik o mjerilima za prijam specijalizanata · 2 versions, from 2015-08-05 (
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `pravilnik-2015-1617` (tags `pravilnik-2015-1617/<day>`; `python tools/on.py <day> pravilnik-2015-1617`).
+Act id: `pravilnik-2015-1617` (tags `pravilnik-2015-1617/<day>`; `python registry/tools/on.py <day> pravilnik-2015-1617`).
 
 ## Decisions made by hand
 

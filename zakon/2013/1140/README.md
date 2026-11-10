@@ -70,7 +70,7 @@ Zakon o izmjenama i dopunama Zakona o financiranju vodnoga gospodarstva · 1 ver
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 
-Act id: `zakon-2013-1140` (tags `zakon-2013-1140/<day>`; `python tools/on.py <day> zakon-2013-1140`).
+Act id: `zakon-2013-1140` (tags `zakon-2013-1140/<day>`; `python registry/tools/on.py <day> zakon-2013-1140`).
 
 ## Decisions made by hand
 

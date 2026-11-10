@@ -14,7 +14,7 @@ Pravilnik o sadržaju i strukturi izvještaja o radu obveznih mirovinskih fondov
 | čl. 8 | [clanak-008.md](clanak-008.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `pravilnik-2024-2526` (tags `pravilnik-2024-2526/<day>`; `python tools/on.py <day> pravilnik-2024-2526`).
+Act id: `pravilnik-2024-2526` (tags `pravilnik-2024-2526/<day>`; `python registry/tools/on.py <day> pravilnik-2024-2526`).
 
 ## Status
 

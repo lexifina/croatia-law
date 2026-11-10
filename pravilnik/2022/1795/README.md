@@ -5,7 +5,7 @@ Pravilnik o sadržaju i obliku obavijesti o pravu potrošača na jednostrani ras
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `pravilnik-2022-1795` (tags `pravilnik-2022-1795/<day>`; `python tools/on.py <day> pravilnik-2022-1795`).
+Act id: `pravilnik-2022-1795` (tags `pravilnik-2022-1795/<day>`; `python registry/tools/on.py <day> pravilnik-2022-1795`).
 
 ## Decisions made by hand
 

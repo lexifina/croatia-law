@@ -9,7 +9,7 @@ Pravilnik o izmjeni Pravilnika o programu i načinu provedbe stručnog usavršav
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2021-431` (tags `pravilnik-2021-431/<day>`; `python tools/on.py <day> pravilnik-2021-431`).
+Act id: `pravilnik-2021-431` (tags `pravilnik-2021-431/<day>`; `python registry/tools/on.py <day> pravilnik-2021-431`).
 
 ## Decisions made by hand
 

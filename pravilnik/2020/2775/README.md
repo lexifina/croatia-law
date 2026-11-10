@@ -10,7 +10,7 @@ Pravilnik o izmjenama i dopunama Pravilnika o planu nabave, registru ugovora, pr
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2020-2775` (tags `pravilnik-2020-2775/<day>`; `python tools/on.py <day> pravilnik-2020-2775`).
+Act id: `pravilnik-2020-2775` (tags `pravilnik-2020-2775/<day>`; `python registry/tools/on.py <day> pravilnik-2020-2775`).
 
 ## Decisions made by hand
 

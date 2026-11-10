@@ -10,7 +10,7 @@ Pravilnik o izmjenama i dopunama Pravilnika o određivanju područja s prirodnim
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2017-447` (tags `pravilnik-2017-447/<day>`; `python tools/on.py <day> pravilnik-2017-447`).
+Act id: `pravilnik-2017-447` (tags `pravilnik-2017-447/<day>`; `python registry/tools/on.py <day> pravilnik-2017-447`).
 
 ## Decisions made by hand
 

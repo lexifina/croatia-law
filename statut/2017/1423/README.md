@@ -50,7 +50,7 @@ Statut političke stranke Zagreb je naš! · 1 versions, from 2017-02-21 (latest
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `statut-2017-1423` (tags `statut-2017-1423/<day>`; `python tools/on.py <day> statut-2017-1423`).
+Act id: `statut-2017-1423` (tags `statut-2017-1423/<day>`; `python registry/tools/on.py <day> statut-2017-1423`).
 
 ## Status
 

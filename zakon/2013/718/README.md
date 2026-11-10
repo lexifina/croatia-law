@@ -91,7 +91,7 @@ Zakon o poljoprivrednom zemljištu · 1 versions, from 2013-04-11 (latest in for
 | čl. 85 | [clanak-085.md](clanak-085.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2013-718` (tags `zakon-2013-718/<day>`; `python tools/on.py <day> zakon-2013-718`).
+Act id: `zakon-2013-718` (tags `zakon-2013-718/<day>`; `python registry/tools/on.py <day> zakon-2013-718`).
 
 ## Status
 

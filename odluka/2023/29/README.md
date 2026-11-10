@@ -11,7 +11,7 @@ Odluka o izmjenama i dopunama Odluke o općinskim porezima Općine Sračinec · 
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2023-29` (tags `odluka-2023-29/<day>`; `python tools/on.py <day> odluka-2023-29`).
+Act id: `odluka-2023-29` (tags `odluka-2023-29/<day>`; `python registry/tools/on.py <day> odluka-2023-29`).
 
 ## Decisions made by hand
 

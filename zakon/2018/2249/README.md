@@ -27,7 +27,7 @@ Zakon o izmjenama i dopuni Zakona o šumama · 1 versions, from 2019-01-01 (late
 | čl. 21 | [clanak-021.md](clanak-021.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2018-2249` (tags `zakon-2018-2249/<day>`; `python tools/on.py <day> zakon-2018-2249`).
+Act id: `zakon-2018-2249` (tags `zakon-2018-2249/<day>`; `python registry/tools/on.py <day> zakon-2018-2249`).
 
 ## Decisions made by hand
 

@@ -20,7 +20,7 @@ Pravilnik o provedbi Programa potpore za proizvođače šećerne repe za 2022. g
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2022-670` (tags `pravilnik-2022-670/<day>`; `python tools/on.py <day> pravilnik-2022-670`).
+Act id: `pravilnik-2022-670` (tags `pravilnik-2022-670/<day>`; `python registry/tools/on.py <day> pravilnik-2022-670`).
 
 ## Decisions made by hand
 

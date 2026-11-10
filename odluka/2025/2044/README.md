@@ -8,7 +8,7 @@ Odluka o donošenju Akcijskog plana razvoja kulture i medija za razdoblje do 202
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2025-2044` (tags `odluka-2025-2044/<day>`; `python tools/on.py <day> odluka-2025-2044`).
+Act id: `odluka-2025-2044` (tags `odluka-2025-2044/<day>`; `python registry/tools/on.py <day> odluka-2025-2044`).
 
 ## Decisions made by hand
 

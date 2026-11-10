@@ -32,7 +32,7 @@ Pravilnik o korištenju obnovljivih izvora energije i kogeneracije · 1 versions
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2012-2015` (tags `pravilnik-2012-2015/<day>`; `python tools/on.py <day> pravilnik-2012-2015`).
+Act id: `pravilnik-2012-2015` (tags `pravilnik-2012-2015/<day>`; `python registry/tools/on.py <day> pravilnik-2012-2015`).
 
 ## Status
 

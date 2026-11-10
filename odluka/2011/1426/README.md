@@ -14,7 +14,7 @@ Odluka o izmjenama i dopunama Odluke o gradskim porezima i prirezu porezu na doh
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2011-1426` (tags `odluka-2011-1426/<day>`; `python tools/on.py <day> odluka-2011-1426`).
+Act id: `odluka-2011-1426` (tags `odluka-2011-1426/<day>`; `python registry/tools/on.py <day> odluka-2011-1426`).
 
 ## Decisions made by hand
 

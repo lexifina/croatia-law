@@ -19,7 +19,7 @@ Pravilnik o podnošenju poreznih prijava i drugih podataka elektroničkim putem 
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2011-1129` (tags `pravilnik-2011-1129/<day>`; `python tools/on.py <day> pravilnik-2011-1129`).
+Act id: `pravilnik-2011-1129` (tags `pravilnik-2011-1129/<day>`; `python registry/tools/on.py <day> pravilnik-2011-1129`).
 
 ## Status
 

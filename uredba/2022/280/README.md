@@ -83,7 +83,7 @@ Uredba o unutarnjem ustrojstvu Središnjeg državnog ureda za obnovu i stambeno 
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2022-280` (tags `uredba-2022-280/<day>`; `python tools/on.py <day> uredba-2022-280`).
+Act id: `uredba-2022-280` (tags `uredba-2022-280/<day>`; `python registry/tools/on.py <day> uredba-2022-280`).
 
 ## Decisions made by hand
 

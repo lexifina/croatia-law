@@ -10,7 +10,7 @@ Uredba o izmjenama i dopunama Odluke o privremenom financiranju poslova, funkcij
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2012-52` (tags `uredba-2012-52/<day>`; `python tools/on.py <day> uredba-2012-52`).
+Act id: `uredba-2012-52` (tags `uredba-2012-52/<day>`; `python registry/tools/on.py <day> uredba-2012-52`).
 
 ## Decisions made by hand
 

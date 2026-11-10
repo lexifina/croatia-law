@@ -8,7 +8,7 @@ Odluka o katastarskoj izmjeri na području Općine Poličnik za dio katastarske 
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2024-939` (tags `odluka-2024-939/<day>`; `python tools/on.py <day> odluka-2024-939`).
+Act id: `odluka-2024-939` (tags `odluka-2024-939/<day>`; `python registry/tools/on.py <day> odluka-2024-939`).
 
 ## Decisions made by hand
 

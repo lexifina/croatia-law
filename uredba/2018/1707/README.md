@@ -11,7 +11,7 @@ Uredba o izmjeni Uredbe o Stručnoj službi Savjeta za nacionalne manjine · 1 v
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2018-1707` (tags `uredba-2018-1707/<day>`; `python tools/on.py <day> uredba-2018-1707`).
+Act id: `uredba-2018-1707` (tags `uredba-2018-1707/<day>`; `python registry/tools/on.py <day> uredba-2018-1707`).
 
 ## Decisions made by hand
 

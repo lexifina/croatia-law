@@ -9,7 +9,7 @@ Pravilnik o dopuni Pravilnika o općim uvjetima za korištenje mreže i opskrbu 
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2025-175` (tags `pravilnik-2025-175/<day>`; `python tools/on.py <day> pravilnik-2025-175`).
+Act id: `pravilnik-2025-175` (tags `pravilnik-2025-175/<day>`; `python registry/tools/on.py <day> pravilnik-2025-175`).
 
 ## Decisions made by hand
 

@@ -9,7 +9,7 @@ Zakon o izmjeni i dopuni Zakona o zaštiti i očuvanju kulturnih dobara · 1 ver
 | čl. 3 | [clanak-003.md](clanak-003.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2013-3296` (tags `zakon-2013-3296/<day>`; `python tools/on.py <day> zakon-2013-3296`).
+Act id: `zakon-2013-3296` (tags `zakon-2013-3296/<day>`; `python registry/tools/on.py <day> zakon-2013-3296`).
 
 ## Decisions made by hand
 

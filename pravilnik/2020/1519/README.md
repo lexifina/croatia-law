@@ -17,7 +17,7 @@ Pravilnik o izmjenama i dopunama Pravilnika o gospodarenju otpadnim vozilima · 
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2020-1519` (tags `pravilnik-2020-1519/<day>`; `python tools/on.py <day> pravilnik-2020-1519`).
+Act id: `pravilnik-2020-1519` (tags `pravilnik-2020-1519/<day>`; `python registry/tools/on.py <day> pravilnik-2020-1519`).
 
 ## Decisions made by hand
 

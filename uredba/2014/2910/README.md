@@ -14,7 +14,7 @@ Uredba o financijskoj strukturi omotnice za mjere iz Programa izravne potpore za
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2014-2910` (tags `uredba-2014-2910/<day>`; `python tools/on.py <day> uredba-2014-2910`).
+Act id: `uredba-2014-2910` (tags `uredba-2014-2910/<day>`; `python registry/tools/on.py <day> uredba-2014-2910`).
 
 ## Decisions made by hand
 

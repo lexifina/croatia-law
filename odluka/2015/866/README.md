@@ -8,7 +8,7 @@ Odluka o jedinstvenim kriterijima za analizu poslovanja domova socijalne skrbi Ä
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2015-866` (tags `odluka-2015-866/<day>`; `python tools/on.py <day> odluka-2015-866`).
+Act id: `odluka-2015-866` (tags `odluka-2015-866/<day>`; `python registry/tools/on.py <day> odluka-2015-866`).
 
 ## Decisions made by hand
 

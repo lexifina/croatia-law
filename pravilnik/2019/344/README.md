@@ -5,7 +5,7 @@ Pravilnik o darovanju građevnog materijala · 2 versions, from 2019-02-23 (late
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `pravilnik-2019-344` (tags `pravilnik-2019-344/<day>`; `python tools/on.py <day> pravilnik-2019-344`).
+Act id: `pravilnik-2019-344` (tags `pravilnik-2019-344/<day>`; `python registry/tools/on.py <day> pravilnik-2019-344`).
 
 ## Decisions made by hand
 

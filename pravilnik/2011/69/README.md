@@ -27,7 +27,7 @@ Pravilnik o načinu rada i zadaćama Povjerenstva za šumski reprodukcijski mate
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2011-69` (tags `pravilnik-2011-69/<day>`; `python tools/on.py <day> pravilnik-2011-69`).
+Act id: `pravilnik-2011-69` (tags `pravilnik-2011-69/<day>`; `python registry/tools/on.py <day> pravilnik-2011-69`).
 
 ## Status
 

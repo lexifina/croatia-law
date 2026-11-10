@@ -10,7 +10,7 @@ Uredba o izmjeni Uredbe o posebnoj naknadi za okoliš zbog nestavljanja biogoriv
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2024-1300` (tags `uredba-2024-1300/<day>`; `python tools/on.py <day> uredba-2024-1300`).
+Act id: `uredba-2024-1300` (tags `uredba-2024-1300/<day>`; `python registry/tools/on.py <day> uredba-2024-1300`).
 
 ## Decisions made by hand
 

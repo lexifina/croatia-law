@@ -11,7 +11,7 @@ Odluka o dokumentaciji i informacijama koje se prilažu zahtjevu za izdavanje od
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2026-1378` (tags `odluka-2026-1378/<day>`; `python tools/on.py <day> odluka-2026-1378`).
+Act id: `odluka-2026-1378` (tags `odluka-2026-1378/<day>`; `python registry/tools/on.py <day> odluka-2026-1378`).
 
 ## Decisions made by hand
 

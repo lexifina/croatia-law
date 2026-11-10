@@ -9,7 +9,7 @@ Odluka o donošenju Plana sprječavanja i smanjenja nastajanja otpada od hrane R
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2022-2535` (tags `odluka-2022-2535/<day>`; `python tools/on.py <day> odluka-2022-2535`).
+Act id: `odluka-2022-2535` (tags `odluka-2022-2535/<day>`; `python registry/tools/on.py <day> odluka-2022-2535`).
 
 ## Decisions made by hand
 

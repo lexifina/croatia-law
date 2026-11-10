@@ -13,7 +13,7 @@ Uredba o korištenju novčanih sredstava koja se vode na posebnom računu suda �
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2016-1852` (tags `uredba-2016-1852/<day>`; `python tools/on.py <day> uredba-2016-1852`).
+Act id: `uredba-2016-1852` (tags `uredba-2016-1852/<day>`; `python registry/tools/on.py <day> uredba-2016-1852`).
 
 ## Decisions made by hand
 

@@ -10,7 +10,7 @@ Pravilnik o izmjeni i dopuni Pravilnika o edukacijama, struƒçnim znanjima i vje≈
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2021-2201` (tags `pravilnik-2021-2201/<day>`; `python tools/on.py <day> pravilnik-2021-2201`).
+Act id: `pravilnik-2021-2201` (tags `pravilnik-2021-2201/<day>`; `python registry/tools/on.py <day> pravilnik-2021-2201`).
 
 ## Decisions made by hand
 

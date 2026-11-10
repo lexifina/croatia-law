@@ -8,7 +8,7 @@ Odluka o dopunama Odluke o mjerilima za utvrđivanje primanja i naknadama trošk
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2019-776` (tags `odluka-2019-776/<day>`; `python tools/on.py <day> odluka-2019-776`).
+Act id: `odluka-2019-776` (tags `odluka-2019-776/<day>`; `python registry/tools/on.py <day> odluka-2019-776`).
 
 ## Decisions made by hand
 

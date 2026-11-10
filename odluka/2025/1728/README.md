@@ -8,7 +8,7 @@ Odluka o određivanju Referentnog centra za more · 1 versions, from 2025-09-16 
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2025-1728` (tags `odluka-2025-1728/<day>`; `python tools/on.py <day> odluka-2025-1728`).
+Act id: `odluka-2025-1728` (tags `odluka-2025-1728/<day>`; `python registry/tools/on.py <day> odluka-2025-1728`).
 
 ## Decisions made by hand
 

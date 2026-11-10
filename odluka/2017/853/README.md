@@ -9,7 +9,7 @@ Odluka o izmjeni Odluke o utvrđivanju Osnovne liste lijekova · 1 versions, fro
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2017-853` (tags `odluka-2017-853/<day>`; `python tools/on.py <day> odluka-2017-853`).
+Act id: `odluka-2017-853` (tags `odluka-2017-853/<day>`; `python registry/tools/on.py <day> odluka-2017-853`).
 
 ## Decisions made by hand
 

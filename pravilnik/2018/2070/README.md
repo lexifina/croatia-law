@@ -17,7 +17,7 @@ Pravilnik o kriterijima za utvrđivanje područja za akvakulturu na pomorskom do
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2018-2070` (tags `pravilnik-2018-2070/<day>`; `python tools/on.py <day> pravilnik-2018-2070`).
+Act id: `pravilnik-2018-2070` (tags `pravilnik-2018-2070/<day>`; `python registry/tools/on.py <day> pravilnik-2018-2070`).
 
 ## Decisions made by hand
 

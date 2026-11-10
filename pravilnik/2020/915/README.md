@@ -9,7 +9,7 @@ Pravilnik o dopuni Pravilnika o izvanrednom prijevozu · 1 versions, from 2020-0
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2020-915` (tags `pravilnik-2020-915/<day>`; `python tools/on.py <day> pravilnik-2020-915`).
+Act id: `pravilnik-2020-915` (tags `pravilnik-2020-915/<day>`; `python registry/tools/on.py <day> pravilnik-2020-915`).
 
 ## Decisions made by hand
 

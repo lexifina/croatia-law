@@ -20,7 +20,7 @@ Pravilnik o stručnom osposobljavanju za obavljanje gospodarskog ribolova · 1 v
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2019-2275` (tags `pravilnik-2019-2275/<day>`; `python tools/on.py <day> pravilnik-2019-2275`).
+Act id: `pravilnik-2019-2275` (tags `pravilnik-2019-2275/<day>`; `python registry/tools/on.py <day> pravilnik-2019-2275`).
 
 ## Status
 

@@ -9,7 +9,7 @@ Odluka o minimalnim financijskim standardima za decentralizirane funkcije za zdr
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2016-894` (tags `odluka-2016-894/<day>`; `python tools/on.py <day> odluka-2016-894`).
+Act id: `odluka-2016-894` (tags `odluka-2016-894/<day>`; `python registry/tools/on.py <day> odluka-2016-894`).
 
 ## Status
 

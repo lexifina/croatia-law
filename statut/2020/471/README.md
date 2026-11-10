@@ -73,7 +73,7 @@ Statut Hrvatskoga zavoda za zapošljavanje · 1 versions, from 2020-02-20 (lates
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `statut-2020-471` (tags `statut-2020-471/<day>`; `python tools/on.py <day> statut-2020-471`).
+Act id: `statut-2020-471` (tags `statut-2020-471/<day>`; `python registry/tools/on.py <day> statut-2020-471`).
 
 ## Status
 

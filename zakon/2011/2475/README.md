@@ -8,7 +8,7 @@ Zakon o dopuni Zakona o medicinskoj oplodnji · 1 versions, from 2011-11-12 (lat
 | čl. 2 | [clanak-002.md](clanak-002.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2011-2475` (tags `zakon-2011-2475/<day>`; `python tools/on.py <day> zakon-2011-2475`).
+Act id: `zakon-2011-2475` (tags `zakon-2011-2475/<day>`; `python registry/tools/on.py <day> zakon-2011-2475`).
 
 ## Decisions made by hand
 

@@ -10,7 +10,7 @@ Pravilnik o izmjeni Pravilnika o dragovoljnom vojnom osposobljavanju · 1 versio
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2025-522` (tags `pravilnik-2025-522/<day>`; `python tools/on.py <day> pravilnik-2025-522`).
+Act id: `pravilnik-2025-522` (tags `pravilnik-2025-522/<day>`; `python registry/tools/on.py <day> pravilnik-2025-522`).
 
 ## Decisions made by hand
 

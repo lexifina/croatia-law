@@ -10,7 +10,7 @@ Odluka o osnovicama za utvrđivanje vrijednosnog boda prema osobnom činu, ustro
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2020-628` (tags `odluka-2020-628/<day>`; `python tools/on.py <day> odluka-2020-628`).
+Act id: `odluka-2020-628` (tags `odluka-2020-628/<day>`; `python registry/tools/on.py <day> odluka-2020-628`).
 
 ## Decisions made by hand
 

@@ -8,7 +8,7 @@ Odluka o rasporedu sredstava koja se u Državnom proračunu Republike Hrvatske o
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2023-756` (tags `odluka-2023-756/<day>`; `python tools/on.py <day> odluka-2023-756`).
+Act id: `odluka-2023-756` (tags `odluka-2023-756/<day>`; `python registry/tools/on.py <day> odluka-2023-756`).
 
 ## Decisions made by hand
 

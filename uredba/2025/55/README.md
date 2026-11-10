@@ -22,7 +22,7 @@ Uredba o Uredu za odnose s javnošću · 1 versions, from 2025-01-25 (latest in 
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2025-55` (tags `uredba-2025-55/<day>`; `python tools/on.py <day> uredba-2025-55`).
+Act id: `uredba-2025-55` (tags `uredba-2025-55/<day>`; `python registry/tools/on.py <day> uredba-2025-55`).
 
 ## Decisions made by hand
 

@@ -127,7 +127,7 @@ Zakon o izmjenama i dopunama Zakona o parničnom postupku · 1 versions, from 20
 | čl. 121 | [clanak-121.md](clanak-121.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2019-1447` (tags `zakon-2019-1447/<day>`; `python tools/on.py <day> zakon-2019-1447`).
+Act id: `zakon-2019-1447` (tags `zakon-2019-1447/<day>`; `python registry/tools/on.py <day> zakon-2019-1447`).
 
 ## Decisions made by hand
 

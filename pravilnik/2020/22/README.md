@@ -28,7 +28,7 @@ Pravilnik o promidžbi, informativnom prospektu i ostalim informacijama za član
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2020-22` (tags `pravilnik-2020-22/<day>`; `python tools/on.py <day> pravilnik-2020-22`).
+Act id: `pravilnik-2020-22` (tags `pravilnik-2020-22/<day>`; `python registry/tools/on.py <day> pravilnik-2020-22`).
 
 ## Status
 

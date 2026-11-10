@@ -14,7 +14,7 @@ Uredba o izmjenama i dopunama Uredbe o osnivanju prava građenja i prava služno
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2012-2725` (tags `uredba-2012-2725/<day>`; `python tools/on.py <day> uredba-2012-2725`).
+Act id: `uredba-2012-2725` (tags `uredba-2012-2725/<day>`; `python registry/tools/on.py <day> uredba-2012-2725`).
 
 ## Decisions made by hand
 

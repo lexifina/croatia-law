@@ -9,7 +9,7 @@ Odluka o visini, načinu i rokovima uplate sredstava trgovačkih društava u dr�
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2025-2088` (tags `odluka-2025-2088/<day>`; `python tools/on.py <day> odluka-2025-2088`).
+Act id: `odluka-2025-2088` (tags `odluka-2025-2088/<day>`; `python registry/tools/on.py <day> odluka-2025-2088`).
 
 ## Decisions made by hand
 

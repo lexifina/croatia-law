@@ -13,7 +13,7 @@ Pravilnik o određivanju područja s prirodnim i ostalim ograničenjima · 1 ver
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2023-453` (tags `pravilnik-2023-453/<day>`; `python tools/on.py <day> pravilnik-2023-453`).
+Act id: `pravilnik-2023-453` (tags `pravilnik-2023-453/<day>`; `python registry/tools/on.py <day> pravilnik-2023-453`).
 
 ## Status
 

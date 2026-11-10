@@ -14,7 +14,7 @@ Pravilnik o izmjenama i dopunama Pravilnika o školskoj shemi voća i povrća te
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2020-1880` (tags `pravilnik-2020-1880/<day>`; `python tools/on.py <day> pravilnik-2020-1880`).
+Act id: `pravilnik-2020-1880` (tags `pravilnik-2020-1880/<day>`; `python registry/tools/on.py <day> pravilnik-2020-1880`).
 
 ## Decisions made by hand
 

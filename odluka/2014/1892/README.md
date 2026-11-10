@@ -9,7 +9,7 @@ Odluka o razvrstavanju javnih cesta · 1 versions, from 2014-08-08 (latest in fo
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2014-1892` (tags `odluka-2014-1892/<day>`; `python tools/on.py <day> odluka-2014-1892`).
+Act id: `odluka-2014-1892` (tags `odluka-2014-1892/<day>`; `python registry/tools/on.py <day> odluka-2014-1892`).
 
 ## Status
 

@@ -14,7 +14,7 @@ Pravilnik o izmjenama i dopunama Pravilnika o stavljanju na tržište reprodukci
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2016-1854` (tags `pravilnik-2016-1854/<day>`; `python tools/on.py <day> pravilnik-2016-1854`).
+Act id: `pravilnik-2016-1854` (tags `pravilnik-2016-1854/<day>`; `python registry/tools/on.py <day> pravilnik-2016-1854`).
 
 ## Decisions made by hand
 

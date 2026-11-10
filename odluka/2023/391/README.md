@@ -8,7 +8,7 @@ Odluka o dopuni Odluke o visini naknade za rad udomitelja · 1 versions, from 20
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2023-391` (tags `odluka-2023-391/<day>`; `python tools/on.py <day> odluka-2023-391`).
+Act id: `odluka-2023-391` (tags `odluka-2023-391/<day>`; `python registry/tools/on.py <day> odluka-2023-391`).
 
 ## Decisions made by hand
 

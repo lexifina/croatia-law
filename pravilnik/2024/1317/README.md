@@ -30,7 +30,7 @@ Pravilnik o kategorizaciji sportova · 1 versions, from 2024-07-06 (latest in fo
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2024-1317` (tags `pravilnik-2024-1317/<day>`; `python tools/on.py <day> pravilnik-2024-1317`).
+Act id: `pravilnik-2024-1317` (tags `pravilnik-2024-1317/<day>`; `python registry/tools/on.py <day> pravilnik-2024-1317`).
 
 ## Decisions made by hand
 

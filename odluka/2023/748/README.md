@@ -8,7 +8,7 @@ Odluka o postavljanju počasne konzulice Republike Hrvatske u Kraljevini Španjo
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2023-748` (tags `odluka-2023-748/<day>`; `python tools/on.py <day> odluka-2023-748`).
+Act id: `odluka-2023-748` (tags `odluka-2023-748/<day>`; `python registry/tools/on.py <day> odluka-2023-748`).
 
 ## Decisions made by hand
 

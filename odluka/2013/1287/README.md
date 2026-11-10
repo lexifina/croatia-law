@@ -8,7 +8,7 @@ Odluka o uspostavi programa procjene broja individualne mase živih tuna (Thunnu
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2013-1287` (tags `odluka-2013-1287/<day>`; `python tools/on.py <day> odluka-2013-1287`).
+Act id: `odluka-2013-1287` (tags `odluka-2013-1287/<day>`; `python registry/tools/on.py <day> odluka-2013-1287`).
 
 ## Decisions made by hand
 

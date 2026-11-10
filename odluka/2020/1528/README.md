@@ -8,7 +8,7 @@ Odluka o povjeravanju mandata za sastavljanje Vlade Republike Hrvatske · 1 vers
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2020-1528` (tags `odluka-2020-1528/<day>`; `python tools/on.py <day> odluka-2020-1528`).
+Act id: `odluka-2020-1528` (tags `odluka-2020-1528/<day>`; `python registry/tools/on.py <day> odluka-2020-1528`).
 
 ## Status
 

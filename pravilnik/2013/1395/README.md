@@ -16,7 +16,7 @@ Pravilnik o sadržaju i obliku obrasca izvješća o broju i vrsti obavljenih pos
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2013-1395` (tags `pravilnik-2013-1395/<day>`; `python tools/on.py <day> pravilnik-2013-1395`).
+Act id: `pravilnik-2013-1395` (tags `pravilnik-2013-1395/<day>`; `python registry/tools/on.py <day> pravilnik-2013-1395`).
 
 ## Decisions made by hand
 

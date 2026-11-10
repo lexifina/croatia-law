@@ -9,7 +9,7 @@ Pravilnik o dopuni Pravilnika o primjeni Konvencije o radu pomoraca iz 2006. god
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2019-867` (tags `pravilnik-2019-867/<day>`; `python tools/on.py <day> pravilnik-2019-867`).
+Act id: `pravilnik-2019-867` (tags `pravilnik-2019-867/<day>`; `python registry/tools/on.py <day> pravilnik-2019-867`).
 
 ## Decisions made by hand
 

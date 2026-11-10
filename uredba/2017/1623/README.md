@@ -9,7 +9,7 @@ Uredba o prestanku važenja Uredbe o načinu izrade i postupanju s dokumentacijo
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2017-1623` (tags `uredba-2017-1623/<day>`; `python tools/on.py <day> uredba-2017-1623`).
+Act id: `uredba-2017-1623` (tags `uredba-2017-1623/<day>`; `python registry/tools/on.py <day> uredba-2017-1623`).
 
 ## Decisions made by hand
 

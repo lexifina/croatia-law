@@ -9,7 +9,7 @@ Odluka o instrumentima za usklađivanje zakonodavstva Republike Hrvatske s pravn
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2011-1972` (tags `odluka-2011-1972/<day>`; `python tools/on.py <day> odluka-2011-1972`).
+Act id: `odluka-2011-1972` (tags `odluka-2011-1972/<day>`; `python registry/tools/on.py <day> odluka-2011-1972`).
 
 ## Status
 

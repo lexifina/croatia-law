@@ -8,7 +8,7 @@ Odluka o pokretanju postupka izmjene i dopune Nacionalne razvojne strategije Rep
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2026-517` (tags `odluka-2026-517/<day>`; `python tools/on.py <day> odluka-2026-517`).
+Act id: `odluka-2026-517` (tags `odluka-2026-517/<day>`; `python registry/tools/on.py <day> odluka-2026-517`).
 
 ## Decisions made by hand
 

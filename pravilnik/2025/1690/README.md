@@ -11,7 +11,7 @@ Pravilnik o izmjenama Pravilnika o periodičkom, statističkom i kapitalnom izvj
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2025-1690` (tags `pravilnik-2025-1690/<day>`; `python tools/on.py <day> pravilnik-2025-1690`).
+Act id: `pravilnik-2025-1690` (tags `pravilnik-2025-1690/<day>`; `python registry/tools/on.py <day> pravilnik-2025-1690`).
 
 ## Decisions made by hand
 

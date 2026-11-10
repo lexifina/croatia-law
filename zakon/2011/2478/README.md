@@ -29,7 +29,7 @@ Zakon o izmjenama i dopunama Zakona o medicinskim proizvodima · 1 versions, fro
 | čl. 23 | [clanak-023.md](clanak-023.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2011-2478` (tags `zakon-2011-2478/<day>`; `python tools/on.py <day> zakon-2011-2478`).
+Act id: `zakon-2011-2478` (tags `zakon-2011-2478/<day>`; `python registry/tools/on.py <day> zakon-2011-2478`).
 
 ## Decisions made by hand
 

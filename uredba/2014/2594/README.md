@@ -10,7 +10,7 @@ Uredba o izmjeni Uredbe o načinu povrata kupoprodajne cijene bez kamata hrvatsk
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2014-2594` (tags `uredba-2014-2594/<day>`; `python tools/on.py <day> uredba-2014-2594`).
+Act id: `uredba-2014-2594` (tags `uredba-2014-2594/<day>`; `python registry/tools/on.py <day> uredba-2014-2594`).
 
 ## Decisions made by hand
 

@@ -20,7 +20,7 @@ Uredba o izmjenama i dopunama Uredbe o unutarnjem ustrojstvu Državnog zavoda za
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2025-78` (tags `uredba-2025-78/<day>`; `python tools/on.py <day> uredba-2025-78`).
+Act id: `uredba-2025-78` (tags `uredba-2025-78/<day>`; `python registry/tools/on.py <day> uredba-2025-78`).
 
 ## Decisions made by hand
 

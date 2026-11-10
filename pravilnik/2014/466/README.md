@@ -24,7 +24,7 @@ Pravilnik o glavnim i napajajućim alternativnim investicijskim fondovima · 1 v
 | čl. 18 | [clanak-018.md](clanak-018.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `pravilnik-2014-466` (tags `pravilnik-2014-466/<day>`; `python tools/on.py <day> pravilnik-2014-466`).
+Act id: `pravilnik-2014-466` (tags `pravilnik-2014-466/<day>`; `python registry/tools/on.py <day> pravilnik-2014-466`).
 
 ## Status
 

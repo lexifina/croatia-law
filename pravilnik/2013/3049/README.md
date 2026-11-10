@@ -23,7 +23,7 @@ Pravilnik o proizvodnji brašna i pekarskih proizvoda · 1 versions, from 2013-1
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2013-3049` (tags `pravilnik-2013-3049/<day>`; `python tools/on.py <day> pravilnik-2013-3049`).
+Act id: `pravilnik-2013-3049` (tags `pravilnik-2013-3049/<day>`; `python registry/tools/on.py <day> pravilnik-2013-3049`).
 
 ## Status
 

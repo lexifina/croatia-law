@@ -20,7 +20,7 @@ Pravilnik o glavnim i napajajućim alternativnim investicijskim fondovima · 1 v
 | čl. 14 | [clanak-014.md](clanak-014.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `pravilnik-2019-502` (tags `pravilnik-2019-502/<day>`; `python tools/on.py <day> pravilnik-2019-502`).
+Act id: `pravilnik-2019-502` (tags `pravilnik-2019-502/<day>`; `python registry/tools/on.py <day> pravilnik-2019-502`).
 
 ## Status
 

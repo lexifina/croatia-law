@@ -19,7 +19,7 @@ Pravilnik o postupku i načinu korištenja prava na porez po tonaži broda · 1 
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2013-1998` (tags `pravilnik-2013-1998/<day>`; `python tools/on.py <day> pravilnik-2013-1998`).
+Act id: `pravilnik-2013-1998` (tags `pravilnik-2013-1998/<day>`; `python registry/tools/on.py <day> pravilnik-2013-1998`).
 
 ## Status
 

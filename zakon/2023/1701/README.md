@@ -12,7 +12,7 @@ Zakon o izmjenama Zakona o provedbi Uredbe (EU) 2016/1011 o indeksima koji se up
 | čl. 6 | [clanak-006.md](clanak-006.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2023-1701` (tags `zakon-2023-1701/<day>`; `python tools/on.py <day> zakon-2023-1701`).
+Act id: `zakon-2023-1701` (tags `zakon-2023-1701/<day>`; `python registry/tools/on.py <day> zakon-2023-1701`).
 
 ## Decisions made by hand
 

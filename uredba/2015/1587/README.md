@@ -9,7 +9,7 @@ Uredba o izmjeni Uredbe o nazivima radnih mjesta i koeficijentima složenosti po
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2015-1587` (tags `uredba-2015-1587/<day>`; `python tools/on.py <day> uredba-2015-1587`).
+Act id: `uredba-2015-1587` (tags `uredba-2015-1587/<day>`; `python registry/tools/on.py <day> uredba-2015-1587`).
 
 ## Status
 

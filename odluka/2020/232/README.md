@@ -8,7 +8,7 @@ Odluka o postavljanju generalnog konzula Republike Hrvatske u Talijanskoj Republ
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2020-232` (tags `odluka-2020-232/<day>`; `python tools/on.py <day> odluka-2020-232`).
+Act id: `odluka-2020-232` (tags `odluka-2020-232/<day>`; `python registry/tools/on.py <day> odluka-2020-232`).
 
 ## Decisions made by hand
 

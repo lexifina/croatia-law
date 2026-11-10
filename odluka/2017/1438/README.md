@@ -8,7 +8,7 @@ Odluka o dopuni Odluke o donošenju Mreže osnovnih i srednjih škola, učeničk
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2017-1438` (tags `odluka-2017-1438/<day>`; `python tools/on.py <day> odluka-2017-1438`).
+Act id: `odluka-2017-1438` (tags `odluka-2017-1438/<day>`; `python registry/tools/on.py <day> odluka-2017-1438`).
 
 ## Decisions made by hand
 

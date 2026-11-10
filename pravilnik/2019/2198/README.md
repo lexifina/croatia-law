@@ -24,7 +24,7 @@ Pravilnik o uvjetima za obavljanje pomorske kabotaže u Republici Hrvatskoj · 1
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2019-2198` (tags `pravilnik-2019-2198/<day>`; `python tools/on.py <day> pravilnik-2019-2198`).
+Act id: `pravilnik-2019-2198` (tags `pravilnik-2019-2198/<day>`; `python registry/tools/on.py <day> pravilnik-2019-2198`).
 
 ## Status
 

@@ -81,7 +81,7 @@ Zakon o izmjenama i dopunama Zakona o sprječavanju pranja novca i financiranja 
 | čl. 75 | [clanak-075.md](clanak-075.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2019-800` (tags `zakon-2019-800/<day>`; `python tools/on.py <day> zakon-2019-800`).
+Act id: `zakon-2019-800` (tags `zakon-2019-800/<day>`; `python registry/tools/on.py <day> zakon-2019-800`).
 
 ## Decisions made by hand
 

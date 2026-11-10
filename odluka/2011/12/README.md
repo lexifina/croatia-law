@@ -34,7 +34,7 @@ Odluka o standardima i normativima prava na zdravstvenu zaštitu iz obveznog zdr
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2011-12` (tags `odluka-2011-12/<day>`; `python tools/on.py <day> odluka-2011-12`).
+Act id: `odluka-2011-12` (tags `odluka-2011-12/<day>`; `python registry/tools/on.py <day> odluka-2011-12`).
 
 ## Status
 

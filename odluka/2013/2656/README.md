@@ -9,7 +9,7 @@ Odluka o izmjenama Odluke o minimalnim financijskim standardima materijalnih i f
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2013-2656` (tags `odluka-2013-2656/<day>`; `python tools/on.py <day> odluka-2013-2656`).
+Act id: `odluka-2013-2656` (tags `odluka-2013-2656/<day>`; `python registry/tools/on.py <day> odluka-2013-2656`).
 
 ## Decisions made by hand
 

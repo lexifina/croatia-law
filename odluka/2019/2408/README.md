@@ -18,7 +18,7 @@ Odluka o gradskim porezima Grada Grubišnoga Polja · 1 versions, from 2020-01-0
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2019-2408` (tags `odluka-2019-2408/<day>`; `python tools/on.py <day> odluka-2019-2408`).
+Act id: `odluka-2019-2408` (tags `odluka-2019-2408/<day>`; `python registry/tools/on.py <day> odluka-2019-2408`).
 
 ## Status
 

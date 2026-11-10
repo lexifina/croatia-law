@@ -9,7 +9,7 @@ Uredba o izmjeni Uredbe o izmjenama i dopunama Uredbe o gospodarenju otpadnom am
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2020-2703` (tags `uredba-2020-2703/<day>`; `python tools/on.py <day> uredba-2020-2703`).
+Act id: `uredba-2020-2703` (tags `uredba-2020-2703/<day>`; `python registry/tools/on.py <day> uredba-2020-2703`).
 
 ## Decisions made by hand
 

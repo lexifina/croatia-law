@@ -8,7 +8,7 @@ Odluka o izmjeni Odluke o sudjelovanju Republike Hrvatske u povećanju autorizir
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2011-750` (tags `odluka-2011-750/<day>`; `python tools/on.py <day> odluka-2011-750`).
+Act id: `odluka-2011-750` (tags `odluka-2011-750/<day>`; `python registry/tools/on.py <day> odluka-2011-750`).
 
 ## Decisions made by hand
 

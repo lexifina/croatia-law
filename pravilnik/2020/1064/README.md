@@ -28,7 +28,7 @@ Pravilnik o Jedinstvenom registru računa · 1 versions, from 2020-06-01 (latest
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2020-1064` (tags `pravilnik-2020-1064/<day>`; `python tools/on.py <day> pravilnik-2020-1064`).
+Act id: `pravilnik-2020-1064` (tags `pravilnik-2020-1064/<day>`; `python registry/tools/on.py <day> pravilnik-2020-1064`).
 
 ## Status
 

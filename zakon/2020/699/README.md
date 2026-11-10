@@ -8,7 +8,7 @@ Zakon o dopuni Zakona o zaštiti i očuvanju kulturnih dobara · 1 versions, fro
 | čl. 2 | [clanak-002.md](clanak-002.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2020-699` (tags `zakon-2020-699/<day>`; `python tools/on.py <day> zakon-2020-699`).
+Act id: `zakon-2020-699` (tags `zakon-2020-699/<day>`; `python registry/tools/on.py <day> zakon-2020-699`).
 
 ## Decisions made by hand
 

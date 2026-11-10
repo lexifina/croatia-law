@@ -8,7 +8,7 @@ Odluka o donošenju Programa razvoja zelene infrastrukture u urbanim područjima
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2021-2540` (tags `odluka-2021-2540/<day>`; `python tools/on.py <day> odluka-2021-2540`).
+Act id: `odluka-2021-2540` (tags `odluka-2021-2540/<day>`; `python registry/tools/on.py <day> odluka-2021-2540`).
 
 ## Decisions made by hand
 

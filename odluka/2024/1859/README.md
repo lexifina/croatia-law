@@ -10,7 +10,7 @@ Odluka o izmjeni i dopuni Nacionalnih kriterija za izbor na nastavno radno mjest
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2024-1859` (tags `odluka-2024-1859/<day>`; `python tools/on.py <day> odluka-2024-1859`).
+Act id: `odluka-2024-1859` (tags `odluka-2024-1859/<day>`; `python registry/tools/on.py <day> odluka-2024-1859`).
 
 ## Decisions made by hand
 

@@ -5,7 +5,7 @@ Pravilnik o sudjelovanju azilanata, stranaca pod supsidijarnom zaštitom i stran
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `pravilnik-2018-1233` (tags `pravilnik-2018-1233/<day>`; `python tools/on.py <day> pravilnik-2018-1233`).
+Act id: `pravilnik-2018-1233` (tags `pravilnik-2018-1233/<day>`; `python registry/tools/on.py <day> pravilnik-2018-1233`).
 
 ## Decisions made by hand
 

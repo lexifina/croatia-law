@@ -45,7 +45,7 @@ Pravilnik o izobrazbi, uvjetima i načinu polaganja ispita za stjecanje zvanja o
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2015-2110` (tags `pravilnik-2015-2110/<day>`; `python tools/on.py <day> pravilnik-2015-2110`).
+Act id: `pravilnik-2015-2110` (tags `pravilnik-2015-2110/<day>`; `python registry/tools/on.py <day> pravilnik-2015-2110`).
 
 ## Status
 

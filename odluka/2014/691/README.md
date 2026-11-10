@@ -8,7 +8,7 @@ Odluka o osnivanju Ureda Republike Hrvatske u Republici Litvi, sa sjedištem u V
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2014-691` (tags `odluka-2014-691/<day>`; `python tools/on.py <day> odluka-2014-691`).
+Act id: `odluka-2014-691` (tags `odluka-2014-691/<day>`; `python registry/tools/on.py <day> odluka-2014-691`).
 
 ## Decisions made by hand
 

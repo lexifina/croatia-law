@@ -16,7 +16,7 @@ Odluka o naknadi za razvoj društva Vodovod grada Vukovara d.o.o., Vukovar · 1 
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2021-1844` (tags `odluka-2021-1844/<day>`; `python tools/on.py <day> odluka-2021-1844`).
+Act id: `odluka-2021-1844` (tags `odluka-2021-1844/<day>`; `python registry/tools/on.py <day> odluka-2021-1844`).
 
 ## Status
 

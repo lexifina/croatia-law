@@ -8,7 +8,7 @@ Zakon o izmjeni Zakona o igrama na sreću · 1 versions, from 2015-01-01 (latest
 | čl. 2 | [clanak-002.md](clanak-002.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2014-2684` (tags `zakon-2014-2684/<day>`; `python tools/on.py <day> zakon-2014-2684`).
+Act id: `zakon-2014-2684` (tags `zakon-2014-2684/<day>`; `python registry/tools/on.py <day> zakon-2014-2684`).
 
 ## Decisions made by hand
 

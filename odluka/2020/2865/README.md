@@ -8,7 +8,7 @@ Odluka o stavljanju izvan snage Odluke o zabrani napuštanja županije prema mje
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2020-2865` (tags `odluka-2020-2865/<day>`; `python tools/on.py <day> odluka-2020-2865`).
+Act id: `odluka-2020-2865` (tags `odluka-2020-2865/<day>`; `python registry/tools/on.py <day> odluka-2020-2865`).
 
 ## Decisions made by hand
 

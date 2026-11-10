@@ -9,7 +9,7 @@ Uredba o visini minimalne plaće · 1 versions, from 2014-01-01 (latest in force
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2013-3274` (tags `uredba-2013-3274/<day>`; `python tools/on.py <day> uredba-2013-3274`).
+Act id: `uredba-2013-3274` (tags `uredba-2013-3274/<day>`; `python registry/tools/on.py <day> uredba-2013-3274`).
 
 ## Status
 

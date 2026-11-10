@@ -15,7 +15,7 @@ Odluka o obračunu i naplati naknade za razvoj komunalnih vodnih građevina za j
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2022-1220` (tags `odluka-2022-1220/<day>`; `python tools/on.py <day> odluka-2022-1220`).
+Act id: `odluka-2022-1220` (tags `odluka-2022-1220/<day>`; `python registry/tools/on.py <day> odluka-2022-1220`).
 
 ## Decisions made by hand
 

@@ -8,7 +8,7 @@ Odluka o prestanku važenja Odluke o osnivanju Nacionalnog vijeća za informacij
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2012-2461` (tags `odluka-2012-2461/<day>`; `python tools/on.py <day> odluka-2012-2461`).
+Act id: `odluka-2012-2461` (tags `odluka-2012-2461/<day>`; `python registry/tools/on.py <day> odluka-2012-2461`).
 
 ## Decisions made by hand
 

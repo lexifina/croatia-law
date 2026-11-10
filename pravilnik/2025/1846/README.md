@@ -29,7 +29,7 @@ Pravilnik o izdavanju svjedodžbe aerodroma i odobrenja za uporabu aerodroma · 
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2025-1846` (tags `pravilnik-2025-1846/<day>`; `python tools/on.py <day> pravilnik-2025-1846`).
+Act id: `pravilnik-2025-1846` (tags `pravilnik-2025-1846/<day>`; `python registry/tools/on.py <day> pravilnik-2025-1846`).
 
 ## Decisions made by hand
 

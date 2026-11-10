@@ -46,7 +46,7 @@ Pravilnik o izmjenama i dopunama Pravilnika o uvjetima u pogledu prostora, struÄ
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2023-1883` (tags `pravilnik-2023-1883/<day>`; `python tools/on.py <day> pravilnik-2023-1883`).
+Act id: `pravilnik-2023-1883` (tags `pravilnik-2023-1883/<day>`; `python registry/tools/on.py <day> pravilnik-2023-1883`).
 
 ## Decisions made by hand
 

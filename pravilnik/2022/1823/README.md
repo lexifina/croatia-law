@@ -23,7 +23,7 @@ Pravilnik o provedbi Programa potpore za istraživanja utjecaja različitih tehn
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2022-1823` (tags `pravilnik-2022-1823/<day>`; `python tools/on.py <day> pravilnik-2022-1823`).
+Act id: `pravilnik-2022-1823` (tags `pravilnik-2022-1823/<day>`; `python registry/tools/on.py <day> pravilnik-2022-1823`).
 
 ## Decisions made by hand
 

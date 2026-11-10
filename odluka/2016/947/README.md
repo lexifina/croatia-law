@@ -10,7 +10,7 @@ Odluka o izmjenama i dopunama Odluke o uvjetima za otvaranje i funkcioniranje na
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2016-947` (tags `odluka-2016-947/<day>`; `python tools/on.py <day> odluka-2016-947`).
+Act id: `odluka-2016-947` (tags `odluka-2016-947/<day>`; `python registry/tools/on.py <day> odluka-2016-947`).
 
 ## Decisions made by hand
 

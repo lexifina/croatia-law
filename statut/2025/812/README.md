@@ -12,7 +12,7 @@ Statut o izmjenama i dopuni Statuta Hrvatske poljoprivredne komore · 1 versions
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `statut-2025-812` (tags `statut-2025-812/<day>`; `python tools/on.py <day> statut-2025-812`).
+Act id: `statut-2025-812` (tags `statut-2025-812/<day>`; `python registry/tools/on.py <day> statut-2025-812`).
 
 ## Decisions made by hand
 

@@ -8,7 +8,7 @@ Odluka o izmjeni Odluke o utvrđivanju plaće ravnatelja Zavoda za sigurnost inf
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2019-2056` (tags `odluka-2019-2056/<day>`; `python tools/on.py <day> odluka-2019-2056`).
+Act id: `odluka-2019-2056` (tags `odluka-2019-2056/<day>`; `python registry/tools/on.py <day> odluka-2019-2056`).
 
 ## Decisions made by hand
 

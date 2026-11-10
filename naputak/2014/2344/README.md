@@ -12,7 +12,7 @@ Naputak o novčanim kaznama koje izriču građevinski inspektori u provedbi Zako
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `naputak-2014-2344` (tags `naputak-2014-2344/<day>`; `python tools/on.py <day> naputak-2014-2344`).
+Act id: `naputak-2014-2344` (tags `naputak-2014-2344/<day>`; `python registry/tools/on.py <day> naputak-2014-2344`).
 
 ## Status
 

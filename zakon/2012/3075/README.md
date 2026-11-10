@@ -63,7 +63,7 @@ Zakon o izmjenama i dopunama Zakona o lokalnoj i područnoj (regionalnoj) samoou
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 
-Act id: `zakon-2012-3075` (tags `zakon-2012-3075/<day>`; `python tools/on.py <day> zakon-2012-3075`).
+Act id: `zakon-2012-3075` (tags `zakon-2012-3075/<day>`; `python registry/tools/on.py <day> zakon-2012-3075`).
 
 ## Decisions made by hand
 

@@ -12,7 +12,7 @@ Uredba o izmjeni i dopuni Uredbe o Glavnom tajniÅ¡tvu Vlade Republike Hrvatske Â
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2012-1463` (tags `uredba-2012-1463/<day>`; `python tools/on.py <day> uredba-2012-1463`).
+Act id: `uredba-2012-1463` (tags `uredba-2012-1463/<day>`; `python registry/tools/on.py <day> uredba-2012-1463`).
 
 ## Decisions made by hand
 

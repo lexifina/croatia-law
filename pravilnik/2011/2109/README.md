@@ -14,7 +14,7 @@ Pravilnik o izmjenama i dopunama Pravilnika o mjerama za sprječavanje unošenja
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2011-2109` (tags `pravilnik-2011-2109/<day>`; `python tools/on.py <day> pravilnik-2011-2109`).
+Act id: `pravilnik-2011-2109` (tags `pravilnik-2011-2109/<day>`; `python registry/tools/on.py <day> pravilnik-2011-2109`).
 
 ## Decisions made by hand
 

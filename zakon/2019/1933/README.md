@@ -23,7 +23,7 @@ Zakon o izmjenama i dopuni Zakona o zakladama · 1 versions, from 2020-01-01 (la
 | čl. 17 | [clanak-017.md](clanak-017.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2019-1933` (tags `zakon-2019-1933/<day>`; `python tools/on.py <day> zakon-2019-1933`).
+Act id: `zakon-2019-1933` (tags `zakon-2019-1933/<day>`; `python registry/tools/on.py <day> zakon-2019-1933`).
 
 ## Decisions made by hand
 

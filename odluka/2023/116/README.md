@@ -8,7 +8,7 @@ Odluka o katastarskoj izmjeri na području Općine Pisarovina za dio katastarske
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2023-116` (tags `odluka-2023-116/<day>`; `python tools/on.py <day> odluka-2023-116`).
+Act id: `odluka-2023-116` (tags `odluka-2023-116/<day>`; `python registry/tools/on.py <day> odluka-2023-116`).
 
 ## Decisions made by hand
 

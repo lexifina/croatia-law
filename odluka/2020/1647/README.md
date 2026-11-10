@@ -8,7 +8,7 @@ Odluka o izmjeni Odluke o postavljanju počasnog konzula Republike Hrvatske u Kr
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2020-1647` (tags `odluka-2020-1647/<day>`; `python tools/on.py <day> odluka-2020-1647`).
+Act id: `odluka-2020-1647` (tags `odluka-2020-1647/<day>`; `python registry/tools/on.py <day> odluka-2020-1647`).
 
 ## Decisions made by hand
 

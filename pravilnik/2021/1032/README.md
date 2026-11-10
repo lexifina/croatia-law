@@ -10,7 +10,7 @@ Pravilnik o izmjeni i dopuni Pravilnika o načinu rada i postupanja po pritužba
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2021-1032` (tags `pravilnik-2021-1032/<day>`; `python tools/on.py <day> pravilnik-2021-1032`).
+Act id: `pravilnik-2021-1032` (tags `pravilnik-2021-1032/<day>`; `python registry/tools/on.py <day> pravilnik-2021-1032`).
 
 ## Decisions made by hand
 

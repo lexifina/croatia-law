@@ -25,7 +25,7 @@ Uredba o izmjenama i dopunama Uredbe o Koordinaciji za sigurnost pri odobalnom i
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2021-278` (tags `uredba-2021-278/<day>`; `python tools/on.py <day> uredba-2021-278`).
+Act id: `uredba-2021-278` (tags `uredba-2021-278/<day>`; `python registry/tools/on.py <day> uredba-2021-278`).
 
 ## Decisions made by hand
 

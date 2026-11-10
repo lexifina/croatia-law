@@ -37,7 +37,7 @@ Uredba o smjernicama za izradu akata strateškog planiranja od nacionalnog znač
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2018-1748` (tags `uredba-2018-1748/<day>`; `python tools/on.py <day> uredba-2018-1748`).
+Act id: `uredba-2018-1748` (tags `uredba-2018-1748/<day>`; `python registry/tools/on.py <day> uredba-2018-1748`).
 
 ## Status
 

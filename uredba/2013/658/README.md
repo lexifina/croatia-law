@@ -20,7 +20,7 @@ Uredba o vrijednosti iznosa za utvrđivanje naknade za pružanje primarne i seku
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2013-658` (tags `uredba-2013-658/<day>`; `python tools/on.py <day> uredba-2013-658`).
+Act id: `uredba-2013-658` (tags `uredba-2013-658/<day>`; `python registry/tools/on.py <day> uredba-2013-658`).
 
 ## Decisions made by hand
 

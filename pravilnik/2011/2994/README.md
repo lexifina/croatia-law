@@ -25,7 +25,7 @@ Pravilnik o obrascu zahtjeva za odobravanje pravne pomoći, obrascu rješenja o 
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2011-2994` (tags `pravilnik-2011-2994/<day>`; `python tools/on.py <day> pravilnik-2011-2994`).
+Act id: `pravilnik-2011-2994` (tags `pravilnik-2011-2994/<day>`; `python registry/tools/on.py <day> pravilnik-2011-2994`).
 
 ## Decisions made by hand
 

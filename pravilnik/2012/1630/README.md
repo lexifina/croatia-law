@@ -14,7 +14,7 @@ Pravilnik o utvrđivanju zahtjeva za zajedničku upotrebu zračnog prostora i op
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2012-1630` (tags `pravilnik-2012-1630/<day>`; `python tools/on.py <day> pravilnik-2012-1630`).
+Act id: `pravilnik-2012-1630` (tags `pravilnik-2012-1630/<day>`; `python registry/tools/on.py <day> pravilnik-2012-1630`).
 
 ## Status
 

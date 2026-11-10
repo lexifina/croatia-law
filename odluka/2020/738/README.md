@@ -5,7 +5,7 @@ Odluka o uvođenju nužne mjere posebne organizacije rada epidemiološke službe
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `odluka-2020-738` (tags `odluka-2020-738/<day>`; `python tools/on.py <day> odluka-2020-738`).
+Act id: `odluka-2020-738` (tags `odluka-2020-738/<day>`; `python registry/tools/on.py <day> odluka-2020-738`).
 
 ## Decisions made by hand
 

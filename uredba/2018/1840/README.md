@@ -5,7 +5,7 @@ Uredba o postupcima koji prethode sklapanju pravnih poslova raspolaganja nekretn
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `uredba-2018-1840` (tags `uredba-2018-1840/<day>`; `python tools/on.py <day> uredba-2018-1840`).
+Act id: `uredba-2018-1840` (tags `uredba-2018-1840/<day>`; `python registry/tools/on.py <day> uredba-2018-1840`).
 
 ## Decisions made by hand
 

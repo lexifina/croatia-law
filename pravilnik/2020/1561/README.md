@@ -5,7 +5,7 @@ Pravilnik o uvjetima za priznavanje inozemnih stručnih kvalifikacija za obavlja
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `pravilnik-2020-1561` (tags `pravilnik-2020-1561/<day>`; `python tools/on.py <day> pravilnik-2020-1561`).
+Act id: `pravilnik-2020-1561` (tags `pravilnik-2020-1561/<day>`; `python registry/tools/on.py <day> pravilnik-2020-1561`).
 
 ## Decisions made by hand
 

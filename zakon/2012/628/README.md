@@ -45,7 +45,7 @@ Zakon o Poreznoj upravi · 1 versions, from 2012-03-07 (latest in force: 2012-03
 | čl. 39 | [clanak-039.md](clanak-039.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2012-628` (tags `zakon-2012-628/<day>`; `python tools/on.py <day> zakon-2012-628`).
+Act id: `zakon-2012-628` (tags `zakon-2012-628/<day>`; `python registry/tools/on.py <day> zakon-2012-628`).
 
 ## Status
 

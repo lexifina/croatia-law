@@ -8,7 +8,7 @@ Odluka o jediničnom iznosu novčanog poticaja za proizvodnju biogoriva u 2013. 
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2012-2630` (tags `odluka-2012-2630/<day>`; `python tools/on.py <day> odluka-2012-2630`).
+Act id: `odluka-2012-2630` (tags `odluka-2012-2630/<day>`; `python registry/tools/on.py <day> odluka-2012-2630`).
 
 ## Decisions made by hand
 

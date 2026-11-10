@@ -30,7 +30,7 @@ Zakon o izmjenama Zakona o istraživanju i eksploataciji ugljikovodika · 1 vers
 | čl. 24 | [clanak-024.md](clanak-024.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2019-995` (tags `zakon-2019-995/<day>`; `python tools/on.py <day> zakon-2019-995`).
+Act id: `zakon-2019-995` (tags `zakon-2019-995/<day>`; `python registry/tools/on.py <day> zakon-2019-995`).
 
 ## Decisions made by hand
 

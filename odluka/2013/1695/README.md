@@ -9,7 +9,7 @@ Odluka o pravilima za statutarnu certifikaciju pomorskih brodova, Dio 16. - Poma
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2013-1695` (tags `odluka-2013-1695/<day>`; `python tools/on.py <day> odluka-2013-1695`).
+Act id: `odluka-2013-1695` (tags `odluka-2013-1695/<day>`; `python registry/tools/on.py <day> odluka-2013-1695`).
 
 ## Status
 

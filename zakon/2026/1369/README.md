@@ -43,7 +43,7 @@ Zakon o izmjenama i dopunama Zakona o tržištu električne energije · 1 versio
 | čl. 37 | [clanak-037.md](clanak-037.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2026-1369` (tags `zakon-2026-1369/<day>`; `python tools/on.py <day> zakon-2026-1369`).
+Act id: `zakon-2026-1369` (tags `zakon-2026-1369/<day>`; `python registry/tools/on.py <day> zakon-2026-1369`).
 
 ## Decisions made by hand
 

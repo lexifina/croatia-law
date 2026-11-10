@@ -5,7 +5,7 @@ Pravilnik o topografskoj izmjeri i izradi državnih karata · 2 versions, from 2
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `pravilnik-2016-1618` (tags `pravilnik-2016-1618/<day>`; `python tools/on.py <day> pravilnik-2016-1618`).
+Act id: `pravilnik-2016-1618` (tags `pravilnik-2016-1618/<day>`; `python registry/tools/on.py <day> pravilnik-2016-1618`).
 
 ## Decisions made by hand
 

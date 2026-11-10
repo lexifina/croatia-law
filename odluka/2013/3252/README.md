@@ -8,7 +8,7 @@ Odluka o osnivanju Privremenog ureda Republike Hrvatske u Republici Azerbajdžan
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2013-3252` (tags `odluka-2013-3252/<day>`; `python tools/on.py <day> odluka-2013-3252`).
+Act id: `odluka-2013-3252` (tags `odluka-2013-3252/<day>`; `python registry/tools/on.py <day> odluka-2013-3252`).
 
 ## Decisions made by hand
 

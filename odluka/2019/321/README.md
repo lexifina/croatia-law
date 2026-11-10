@@ -8,7 +8,7 @@ Odluka o obustavi, nepokretanju postupaka naknade štete i o otpisu tražbina na
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2019-321` (tags `odluka-2019-321/<day>`; `python tools/on.py <day> odluka-2019-321`).
+Act id: `odluka-2019-321` (tags `odluka-2019-321/<day>`; `python registry/tools/on.py <day> odluka-2019-321`).
 
 ## Decisions made by hand
 

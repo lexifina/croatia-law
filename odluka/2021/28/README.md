@@ -8,7 +8,7 @@ Odluka o odobrenju plaćenog dopusta državnim službenicima i namještenicima t
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2021-28` (tags `odluka-2021-28/<day>`; `python tools/on.py <day> odluka-2021-28`).
+Act id: `odluka-2021-28` (tags `odluka-2021-28/<day>`; `python registry/tools/on.py <day> odluka-2021-28`).
 
 ## Decisions made by hand
 

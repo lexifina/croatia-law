@@ -8,7 +8,7 @@ Naputak o uništavanju osnovne popisne građe popisa stanovništva, kućanstava 
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `naputak-2011-395` (tags `naputak-2011-395/<day>`; `python tools/on.py <day> naputak-2011-395`).
+Act id: `naputak-2011-395` (tags `naputak-2011-395/<day>`; `python registry/tools/on.py <day> naputak-2011-395`).
 
 ## Decisions made by hand
 

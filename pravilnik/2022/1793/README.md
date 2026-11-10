@@ -13,7 +13,7 @@ Pravilnik o sadržaju i obliku obavijesti o pravu potrošača na jednostrani ras
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2022-1793` (tags `pravilnik-2022-1793/<day>`; `python tools/on.py <day> pravilnik-2022-1793`).
+Act id: `pravilnik-2022-1793` (tags `pravilnik-2022-1793/<day>`; `python registry/tools/on.py <day> pravilnik-2022-1793`).
 
 ## Decisions made by hand
 

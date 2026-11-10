@@ -9,7 +9,7 @@ Pravilnik o izmjenama i dopunama Pravilnika o marketingu mirovinskih fondova · 
 | čl. 3 | [clanak-003.md](clanak-003.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `pravilnik-2013-810` (tags `pravilnik-2013-810/<day>`; `python tools/on.py <day> pravilnik-2013-810`).
+Act id: `pravilnik-2013-810` (tags `pravilnik-2013-810/<day>`; `python registry/tools/on.py <day> pravilnik-2013-810`).
 
 ## Decisions made by hand
 

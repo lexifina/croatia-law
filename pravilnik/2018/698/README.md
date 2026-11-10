@@ -15,7 +15,7 @@ Pravilnik o načinu provedbe ovrhe na novčanim sredstvima banke · 1 versions, 
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2018-698` (tags `pravilnik-2018-698/<day>`; `python tools/on.py <day> pravilnik-2018-698`).
+Act id: `pravilnik-2018-698` (tags `pravilnik-2018-698/<day>`; `python registry/tools/on.py <day> pravilnik-2018-698`).
 
 ## Status
 

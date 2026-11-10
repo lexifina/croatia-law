@@ -40,7 +40,7 @@ Odluka o porezima Općine Lanišće · 1 versions, from 2013-12-26 (latest in fo
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2013-3242` (tags `odluka-2013-3242/<day>`; `python tools/on.py <day> odluka-2013-3242`).
+Act id: `odluka-2013-3242` (tags `odluka-2013-3242/<day>`; `python registry/tools/on.py <day> odluka-2013-3242`).
 
 ## Status
 

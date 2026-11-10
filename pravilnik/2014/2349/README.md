@@ -25,7 +25,7 @@ Pravilnik o obustavi stavljanja lijeka u promet i povlačenju lijeka iz prometa 
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2014-2349` (tags `pravilnik-2014-2349/<day>`; `python tools/on.py <day> pravilnik-2014-2349`).
+Act id: `pravilnik-2014-2349` (tags `pravilnik-2014-2349/<day>`; `python registry/tools/on.py <day> pravilnik-2014-2349`).
 
 ## Decisions made by hand
 

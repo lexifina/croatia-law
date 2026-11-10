@@ -10,7 +10,7 @@ Pravilnik o sadržaju dokumentacije za izdavanje odobrenja za primjenu prijelazn
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 
-Act id: `pravilnik-2015-2505` (tags `pravilnik-2015-2505/<day>`; `python tools/on.py <day> pravilnik-2015-2505`).
+Act id: `pravilnik-2015-2505` (tags `pravilnik-2015-2505/<day>`; `python registry/tools/on.py <day> pravilnik-2015-2505`).
 
 ## Decisions made by hand
 

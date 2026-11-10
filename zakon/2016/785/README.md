@@ -8,7 +8,7 @@ Zakon o dopuni Zakona o obrani · 1 versions, from 2016-03-26 (latest in force: 
 | čl. 2 | [clanak-002.md](clanak-002.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2016-785` (tags `zakon-2016-785/<day>`; `python tools/on.py <day> zakon-2016-785`).
+Act id: `zakon-2016-785` (tags `zakon-2016-785/<day>`; `python registry/tools/on.py <day> zakon-2016-785`).
 
 ## Decisions made by hand
 

@@ -9,7 +9,7 @@ Odluka o donošenju Dugoročne strategije za poticanje ulaganja u obnovu naciona
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2014-1397` (tags `odluka-2014-1397/<day>`; `python tools/on.py <day> odluka-2014-1397`).
+Act id: `odluka-2014-1397` (tags `odluka-2014-1397/<day>`; `python registry/tools/on.py <day> odluka-2014-1397`).
 
 ## Status
 

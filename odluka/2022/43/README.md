@@ -17,7 +17,7 @@ Odluka o financiranju Hrvatske gospodarske komore · 1 versions, from 2022-01-04
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2022-43` (tags `odluka-2022-43/<day>`; `python tools/on.py <day> odluka-2022-43`).
+Act id: `odluka-2022-43` (tags `odluka-2022-43/<day>`; `python registry/tools/on.py <day> odluka-2022-43`).
 
 ## Status
 

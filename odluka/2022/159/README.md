@@ -9,7 +9,7 @@ Odluka o usvajanju Izmjena Programa jamstava za kredite za poduzetnike aktivne u
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2022-159` (tags `odluka-2022-159/<day>`; `python tools/on.py <day> odluka-2022-159`).
+Act id: `odluka-2022-159` (tags `odluka-2022-159/<day>`; `python registry/tools/on.py <day> odluka-2022-159`).
 
 ## Decisions made by hand
 

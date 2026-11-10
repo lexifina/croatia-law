@@ -58,7 +58,7 @@ Zakon o pučkom pravobranitelju · 1 versions, from 2012-07-01 (latest in force:
 | čl. 52 | [clanak-052.md](clanak-052.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2011-2499` (tags `zakon-2011-2499/<day>`; `python tools/on.py <day> zakon-2011-2499`).
+Act id: `zakon-2011-2499` (tags `zakon-2011-2499/<day>`; `python registry/tools/on.py <day> zakon-2011-2499`).
 
 ## Status
 

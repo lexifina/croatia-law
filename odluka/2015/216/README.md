@@ -8,7 +8,7 @@ Odluka o davanju suglasnosti na Izmjene i dopune Statuta Hrvatskih voda · 1 ver
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2015-216` (tags `odluka-2015-216/<day>`; `python tools/on.py <day> odluka-2015-216`).
+Act id: `odluka-2015-216` (tags `odluka-2015-216/<day>`; `python registry/tools/on.py <day> odluka-2015-216`).
 
 ## Decisions made by hand
 

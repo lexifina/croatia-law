@@ -12,7 +12,7 @@ Zakon o izmjenama Zakona o prehrambenim i zdravstvenim tvrdnjama te hrani obogaÄ
 | Äl. 6 | [clanak-006.md](clanak-006.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2018-2207` (tags `zakon-2018-2207/<day>`; `python tools/on.py <day> zakon-2018-2207`).
+Act id: `zakon-2018-2207` (tags `zakon-2018-2207/<day>`; `python registry/tools/on.py <day> zakon-2018-2207`).
 
 ## Decisions made by hand
 

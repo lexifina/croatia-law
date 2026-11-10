@@ -14,7 +14,7 @@ Pravilnik o izmjenama i dopuni Pravilnika o početnoj i periodičkoj izobrazbi v
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2012-1011` (tags `pravilnik-2012-1011/<day>`; `python tools/on.py <day> pravilnik-2012-1011`).
+Act id: `pravilnik-2012-1011` (tags `pravilnik-2012-1011/<day>`; `python registry/tools/on.py <day> pravilnik-2012-1011`).
 
 ## Decisions made by hand
 

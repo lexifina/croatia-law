@@ -9,7 +9,7 @@ Pravilnik o izmjeni Pravilnika o postupku, načinu ostvarivanja prava i načinu 
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2026-237` (tags `pravilnik-2026-237/<day>`; `python tools/on.py <day> pravilnik-2026-237`).
+Act id: `pravilnik-2026-237` (tags `pravilnik-2026-237/<day>`; `python registry/tools/on.py <day> pravilnik-2026-237`).
 
 ## Decisions made by hand
 

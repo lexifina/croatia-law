@@ -16,7 +16,7 @@ Pravilnik o sadržaju izvještaja o učincima upravljanja nekretninama u vlasni�
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2026-297` (tags `pravilnik-2026-297/<day>`; `python tools/on.py <day> pravilnik-2026-297`).
+Act id: `pravilnik-2026-297` (tags `pravilnik-2026-297/<day>`; `python registry/tools/on.py <day> pravilnik-2026-297`).
 
 ## Status
 

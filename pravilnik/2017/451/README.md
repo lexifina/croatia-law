@@ -9,7 +9,7 @@ Pravilnik o izmjeni Pravilnika o uvjetima i načinu izdavanja i oduzimanja odobr
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2017-451` (tags `pravilnik-2017-451/<day>`; `python tools/on.py <day> pravilnik-2017-451`).
+Act id: `pravilnik-2017-451` (tags `pravilnik-2017-451/<day>`; `python registry/tools/on.py <day> pravilnik-2017-451`).
 
 ## Decisions made by hand
 

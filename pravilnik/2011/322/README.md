@@ -13,7 +13,7 @@ Pravilnik o načinu i rokovima plaćanja sredstava iz prihoda jedinica lokalne i
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2011-322` (tags `pravilnik-2011-322/<day>`; `python tools/on.py <day> pravilnik-2011-322`).
+Act id: `pravilnik-2011-322` (tags `pravilnik-2011-322/<day>`; `python registry/tools/on.py <day> pravilnik-2011-322`).
 
 ## Decisions made by hand
 

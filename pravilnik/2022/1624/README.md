@@ -101,7 +101,7 @@ Pravilnik o mjerilima za pružanje socijalnih usluga · 1 versions, from 2022-10
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2022-1624` (tags `pravilnik-2022-1624/<day>`; `python tools/on.py <day> pravilnik-2022-1624`).
+Act id: `pravilnik-2022-1624` (tags `pravilnik-2022-1624/<day>`; `python registry/tools/on.py <day> pravilnik-2022-1624`).
 
 ## Status
 

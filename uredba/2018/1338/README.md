@@ -13,7 +13,7 @@ Uredba o određivanju granice pomorskog dobra na dijelu k.o. Brela · 1 versions
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2018-1338` (tags `uredba-2018-1338/<day>`; `python tools/on.py <day> uredba-2018-1338`).
+Act id: `uredba-2018-1338` (tags `uredba-2018-1338/<day>`; `python registry/tools/on.py <day> uredba-2018-1338`).
 
 ## Decisions made by hand
 

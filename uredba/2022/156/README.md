@@ -14,7 +14,7 @@ Uredba o financijskoj strukturi omotnice za program izravnih plaćanja u 2021. g
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2022-156` (tags `uredba-2022-156/<day>`; `python tools/on.py <day> uredba-2022-156`).
+Act id: `uredba-2022-156` (tags `uredba-2022-156/<day>`; `python registry/tools/on.py <day> uredba-2022-156`).
 
 ## Decisions made by hand
 

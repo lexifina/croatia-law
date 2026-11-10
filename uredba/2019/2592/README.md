@@ -10,7 +10,7 @@ Uredba o dopunama Uredbe o Tarifi upravnih pristojbi · 1 versions, from 2020-01
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2019-2592` (tags `uredba-2019-2592/<day>`; `python tools/on.py <day> uredba-2019-2592`).
+Act id: `uredba-2019-2592` (tags `uredba-2019-2592/<day>`; `python registry/tools/on.py <day> uredba-2019-2592`).
 
 ## Decisions made by hand
 

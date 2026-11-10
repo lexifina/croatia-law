@@ -9,7 +9,7 @@ Naredba o izmjeni Naredbe o poduzimanju mjera za sprječavanje širenja štetnog
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `naredba-2018-975` (tags `naredba-2018-975/<day>`; `python tools/on.py <day> naredba-2018-975`).
+Act id: `naredba-2018-975` (tags `naredba-2018-975/<day>`; `python registry/tools/on.py <day> naredba-2018-975`).
 
 ## Decisions made by hand
 

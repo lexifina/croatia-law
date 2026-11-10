@@ -5,7 +5,7 @@ Pravilnik o očevidniku kazališta · 2 versions, from 2020-04-02 (latest in for
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `pravilnik-2020-763` (tags `pravilnik-2020-763/<day>`; `python tools/on.py <day> pravilnik-2020-763`).
+Act id: `pravilnik-2020-763` (tags `pravilnik-2020-763/<day>`; `python registry/tools/on.py <day> pravilnik-2020-763`).
 
 ## Decisions made by hand
 

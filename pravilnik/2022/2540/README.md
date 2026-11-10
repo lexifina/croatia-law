@@ -13,7 +13,7 @@ Pravilnik o izmjenama Pravilnika o postupku prijeboja potraživanja po osnovi pr
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2022-2540` (tags `pravilnik-2022-2540/<day>`; `python tools/on.py <day> pravilnik-2022-2540`).
+Act id: `pravilnik-2022-2540` (tags `pravilnik-2022-2540/<day>`; `python registry/tools/on.py <day> pravilnik-2022-2540`).
 
 ## Decisions made by hand
 

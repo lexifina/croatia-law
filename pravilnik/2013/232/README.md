@@ -10,7 +10,7 @@ Pravilnik o izmjeni i dopuni Pravilnika o troškovima za usluge i postupke koje 
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2013-232` (tags `pravilnik-2013-232/<day>`; `python tools/on.py <day> pravilnik-2013-232`).
+Act id: `pravilnik-2013-232` (tags `pravilnik-2013-232/<day>`; `python registry/tools/on.py <day> pravilnik-2013-232`).
 
 ## Decisions made by hand
 

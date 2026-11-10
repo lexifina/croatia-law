@@ -9,7 +9,7 @@ Odluka o davanju suglasnosti na Financijski plan Centra za restrukturiranje i pr
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2021-2364` (tags `odluka-2021-2364/<day>`; `python tools/on.py <day> odluka-2021-2364`).
+Act id: `odluka-2021-2364` (tags `odluka-2021-2364/<day>`; `python registry/tools/on.py <day> odluka-2021-2364`).
 
 ## Decisions made by hand
 

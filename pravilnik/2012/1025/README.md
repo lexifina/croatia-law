@@ -13,7 +13,7 @@ Pravilnik o izmjenama i dopunama Pravilnika o načinu izračuna kapitala, jamstv
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2012-1025` (tags `pravilnik-2012-1025/<day>`; `python tools/on.py <day> pravilnik-2012-1025`).
+Act id: `pravilnik-2012-1025` (tags `pravilnik-2012-1025/<day>`; `python registry/tools/on.py <day> pravilnik-2012-1025`).
 
 ## Decisions made by hand
 

@@ -22,7 +22,7 @@ Zakon o izmjenama Zakona o pružanju usluga u turizmu · 1 versions, from 2025-1
 | čl. 16 | [clanak-016.md](clanak-016.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2025-1813` (tags `zakon-2025-1813/<day>`; `python tools/on.py <day> zakon-2025-1813`).
+Act id: `zakon-2025-1813` (tags `zakon-2025-1813/<day>`; `python registry/tools/on.py <day> zakon-2025-1813`).
 
 ## Decisions made by hand
 

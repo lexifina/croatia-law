@@ -15,7 +15,7 @@ Pravilnik o izmjenama i dopunama Pravilnika o utvrđivanju neto vrijednosti imov
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2020-31` (tags `pravilnik-2020-31/<day>`; `python tools/on.py <day> pravilnik-2020-31`).
+Act id: `pravilnik-2020-31` (tags `pravilnik-2020-31/<day>`; `python registry/tools/on.py <day> pravilnik-2020-31`).
 
 ## Decisions made by hand
 

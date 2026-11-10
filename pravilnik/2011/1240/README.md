@@ -9,7 +9,7 @@ Pravilnik o izmjeni Pravilnika o EU homologaciji i pojedinačnom odobravanju mot
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2011-1240` (tags `pravilnik-2011-1240/<day>`; `python tools/on.py <day> pravilnik-2011-1240`).
+Act id: `pravilnik-2011-1240` (tags `pravilnik-2011-1240/<day>`; `python registry/tools/on.py <day> pravilnik-2011-1240`).
 
 ## Decisions made by hand
 

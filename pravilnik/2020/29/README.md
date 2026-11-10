@@ -19,7 +19,7 @@ Pravilnik o organizacijskim uvjetima i dokumentaciji za izdvajanje poslova i fun
 | čl. 13 | [clanak-013.md](clanak-013.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `pravilnik-2020-29` (tags `pravilnik-2020-29/<day>`; `python tools/on.py <day> pravilnik-2020-29`).
+Act id: `pravilnik-2020-29` (tags `pravilnik-2020-29/<day>`; `python registry/tools/on.py <day> pravilnik-2020-29`).
 
 ## Decisions made by hand
 

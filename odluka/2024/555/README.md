@@ -9,7 +9,7 @@ Odluka o nazivima i uvjetima za radna mjesta u Ustavnom sudu Republike Hrvatske 
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2024-555` (tags `odluka-2024-555/<day>`; `python tools/on.py <day> odluka-2024-555`).
+Act id: `odluka-2024-555` (tags `odluka-2024-555/<day>`; `python registry/tools/on.py <day> odluka-2024-555`).
 
 ## Status
 

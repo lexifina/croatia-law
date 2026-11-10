@@ -8,7 +8,7 @@ Odluka o visini otpremnine za državne službenike i namještenike Ministarstva 
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2013-672` (tags `odluka-2013-672/<day>`; `python tools/on.py <day> odluka-2013-672`).
+Act id: `odluka-2013-672` (tags `odluka-2013-672/<day>`; `python registry/tools/on.py <day> odluka-2013-672`).
 
 ## Decisions made by hand
 

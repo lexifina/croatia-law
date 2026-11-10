@@ -9,7 +9,7 @@ Odluka o izmjenama Odluke o kriterijima i mjerilima za utvrđivanje bilančnih p
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2014-2074` (tags `odluka-2014-2074/<day>`; `python tools/on.py <day> odluka-2014-2074`).
+Act id: `odluka-2014-2074` (tags `odluka-2014-2074/<day>`; `python registry/tools/on.py <day> odluka-2014-2074`).
 
 ## Decisions made by hand
 

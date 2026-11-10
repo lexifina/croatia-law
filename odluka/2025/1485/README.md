@@ -13,7 +13,7 @@ Odluka o postupanju po pritužbama na rad izdavatelja tokena vezanih uz imovinu 
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2025-1485` (tags `odluka-2025-1485/<day>`; `python tools/on.py <day> odluka-2025-1485`).
+Act id: `odluka-2025-1485` (tags `odluka-2025-1485/<day>`; `python registry/tools/on.py <day> odluka-2025-1485`).
 
 ## Decisions made by hand
 

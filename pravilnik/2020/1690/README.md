@@ -9,7 +9,7 @@ Pravilnik o izmjeni Pravilnika o načinu propisivanja i izdavanja lijekova na re
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2020-1690` (tags `pravilnik-2020-1690/<day>`; `python tools/on.py <day> pravilnik-2020-1690`).
+Act id: `pravilnik-2020-1690` (tags `pravilnik-2020-1690/<day>`; `python registry/tools/on.py <day> pravilnik-2020-1690`).
 
 ## Decisions made by hand
 

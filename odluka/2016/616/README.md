@@ -9,7 +9,7 @@ Odluka o davanju suglasnosti na prijenos koncesija na pomorskom dobru u svrhu go
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2016-616` (tags `odluka-2016-616/<day>`; `python tools/on.py <day> odluka-2016-616`).
+Act id: `odluka-2016-616` (tags `odluka-2016-616/<day>`; `python registry/tools/on.py <day> odluka-2016-616`).
 
 ## Decisions made by hand
 

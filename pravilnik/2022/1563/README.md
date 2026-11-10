@@ -17,7 +17,7 @@ Pravilnik o tehničkim i drugim mjerama kojima se gledatelji obavještavaju o pl
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2022-1563` (tags `pravilnik-2022-1563/<day>`; `python tools/on.py <day> pravilnik-2022-1563`).
+Act id: `pravilnik-2022-1563` (tags `pravilnik-2022-1563/<day>`; `python registry/tools/on.py <day> pravilnik-2022-1563`).
 
 ## Decisions made by hand
 

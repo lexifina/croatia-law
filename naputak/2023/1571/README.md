@@ -32,7 +32,7 @@ Naputak o načinu rada građevinske inspekcije · 1 versions, from 2023-09-30 (l
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `naputak-2023-1571` (tags `naputak-2023-1571/<day>`; `python tools/on.py <day> naputak-2023-1571`).
+Act id: `naputak-2023-1571` (tags `naputak-2023-1571/<day>`; `python registry/tools/on.py <day> naputak-2023-1571`).
 
 ## Decisions made by hand
 

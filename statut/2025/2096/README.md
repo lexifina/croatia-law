@@ -11,7 +11,7 @@ Izmjene i dopune Statuta Turističke zajednice Ličko-senjske županije · 1 ver
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `statut-2025-2096` (tags `statut-2025-2096/<day>`; `python tools/on.py <day> statut-2025-2096`).
+Act id: `statut-2025-2096` (tags `statut-2025-2096/<day>`; `python registry/tools/on.py <day> statut-2025-2096`).
 
 ## Decisions made by hand
 

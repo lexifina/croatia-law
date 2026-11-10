@@ -16,7 +16,7 @@ Pravilnik o izmjenama i dopuni Pravilnika o načinu ostvarivanja prava na prilag
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2024-729` (tags `pravilnik-2024-729/<day>`; `python tools/on.py <day> pravilnik-2024-729`).
+Act id: `pravilnik-2024-729` (tags `pravilnik-2024-729/<day>`; `python registry/tools/on.py <day> pravilnik-2024-729`).
 
 ## Decisions made by hand
 

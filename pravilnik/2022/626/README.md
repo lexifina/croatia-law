@@ -12,7 +12,7 @@ Pravilnik o izmjenama i dopunama Pravilnika o metodologiji za izračun naknade z
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2022-626` (tags `pravilnik-2022-626/<day>`; `python tools/on.py <day> pravilnik-2022-626`).
+Act id: `pravilnik-2022-626` (tags `pravilnik-2022-626/<day>`; `python registry/tools/on.py <day> pravilnik-2022-626`).
 
 ## Decisions made by hand
 

@@ -5,7 +5,7 @@ Odluka o uvjetima i načinu provedbe aktivnosti i načinu nalaganja mjera u svrh
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `odluka-2017-1779` (tags `odluka-2017-1779/<day>`; `python tools/on.py <day> odluka-2017-1779`).
+Act id: `odluka-2017-1779` (tags `odluka-2017-1779/<day>`; `python registry/tools/on.py <day> odluka-2017-1779`).
 
 ## Decisions made by hand
 

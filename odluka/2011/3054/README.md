@@ -8,7 +8,7 @@ Odluka o minimalnim financijskim standardima materijalnih i financijskih rashoda
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2011-3054` (tags `odluka-2011-3054/<day>`; `python tools/on.py <day> odluka-2011-3054`).
+Act id: `odluka-2011-3054` (tags `odluka-2011-3054/<day>`; `python registry/tools/on.py <day> odluka-2011-3054`).
 
 ## Decisions made by hand
 

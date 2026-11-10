@@ -5,7 +5,7 @@ Uredba o visini tro≈°arine na cigarete, sitno rezani duhan i ostali duhan za pu≈
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `uredba-2015-864` (tags `uredba-2015-864/<day>`; `python tools/on.py <day> uredba-2015-864`).
+Act id: `uredba-2015-864` (tags `uredba-2015-864/<day>`; `python registry/tools/on.py <day> uredba-2015-864`).
 
 ## Decisions made by hand
 

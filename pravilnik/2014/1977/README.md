@@ -26,7 +26,7 @@ Pravilnik o promidžbi i ostalim informacijama za članove dobrovoljnih mirovins
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2014-1977` (tags `pravilnik-2014-1977/<day>`; `python tools/on.py <day> pravilnik-2014-1977`).
+Act id: `pravilnik-2014-1977` (tags `pravilnik-2014-1977/<day>`; `python registry/tools/on.py <day> pravilnik-2014-1977`).
 
 ## Status
 

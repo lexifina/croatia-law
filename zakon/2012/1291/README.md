@@ -20,7 +20,7 @@ Zakon o izmjenama i dopunama Zakona o poticanju razvoja malog gospodarstva · 1 
 | čl. 14 | [clanak-014.md](clanak-014.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2012-1291` (tags `zakon-2012-1291/<day>`; `python tools/on.py <day> zakon-2012-1291`).
+Act id: `zakon-2012-1291` (tags `zakon-2012-1291/<day>`; `python registry/tools/on.py <day> zakon-2012-1291`).
 
 ## Decisions made by hand
 

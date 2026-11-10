@@ -14,7 +14,7 @@ Pravilnik o izmjenama i dopunama Pravilnika o sadržaju Plana upravljanja vodnim
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2016-1391` (tags `pravilnik-2016-1391/<day>`; `python tools/on.py <day> pravilnik-2016-1391`).
+Act id: `pravilnik-2016-1391` (tags `pravilnik-2016-1391/<day>`; `python registry/tools/on.py <day> pravilnik-2016-1391`).
 
 ## Decisions made by hand
 

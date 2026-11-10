@@ -26,7 +26,7 @@ Pravilnik o provedbi državne potpore za štete od raznih životinjskih vrsta na
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2023-2028` (tags `pravilnik-2023-2028/<day>`; `python tools/on.py <day> pravilnik-2023-2028`).
+Act id: `pravilnik-2023-2028` (tags `pravilnik-2023-2028/<day>`; `python registry/tools/on.py <day> pravilnik-2023-2028`).
 
 ## Decisions made by hand
 

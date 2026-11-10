@@ -61,7 +61,7 @@ Statut Fonda za zaštitu okoliša i energetsku učinkovitost · 1 versions, from
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `statut-2026-483` (tags `statut-2026-483/<day>`; `python tools/on.py <day> statut-2026-483`).
+Act id: `statut-2026-483` (tags `statut-2026-483/<day>`; `python registry/tools/on.py <day> statut-2026-483`).
 
 ## Decisions made by hand
 

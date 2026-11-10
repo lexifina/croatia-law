@@ -36,7 +36,7 @@ Pravilnik o načinu ostvarivanja prava na jednokratnu novčanu pomoć za hrvatsk
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2018-269` (tags `pravilnik-2018-269/<day>`; `python tools/on.py <day> pravilnik-2018-269`).
+Act id: `pravilnik-2018-269` (tags `pravilnik-2018-269/<day>`; `python registry/tools/on.py <day> pravilnik-2018-269`).
 
 ## Status
 

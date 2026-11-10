@@ -11,7 +11,7 @@ Odluka o izmjenama i dopunama Odluke o postupcima namire za sporedne sustave · 
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2019-2224` (tags `odluka-2019-2224/<day>`; `python tools/on.py <day> odluka-2019-2224`).
+Act id: `odluka-2019-2224` (tags `odluka-2019-2224/<day>`; `python registry/tools/on.py <day> odluka-2019-2224`).
 
 ## Decisions made by hand
 

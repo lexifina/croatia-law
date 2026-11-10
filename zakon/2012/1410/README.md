@@ -24,7 +24,7 @@ Zakon o poticanju zapošljavanja · 1 versions, from 2012-05-31 (latest in force
 | čl. 18 | [clanak-018.md](clanak-018.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2012-1410` (tags `zakon-2012-1410/<day>`; `python tools/on.py <day> zakon-2012-1410`).
+Act id: `zakon-2012-1410` (tags `zakon-2012-1410/<day>`; `python registry/tools/on.py <day> zakon-2012-1410`).
 
 ## Status
 

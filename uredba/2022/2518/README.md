@@ -9,7 +9,7 @@ Uredba o dopuni Zakona o zdravstvenoj zaštiti · 1 versions, from 2022-12-31 (l
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2022-2518` (tags `uredba-2022-2518/<day>`; `python tools/on.py <day> uredba-2022-2518`).
+Act id: `uredba-2022-2518` (tags `uredba-2022-2518/<day>`; `python registry/tools/on.py <day> uredba-2022-2518`).
 
 ## Decisions made by hand
 

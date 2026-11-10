@@ -9,7 +9,7 @@ Odluka o izmjeni Odluke o osnovama za sklapanje ugovora o provođenju specifičn
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2020-2877` (tags `odluka-2020-2877/<day>`; `python tools/on.py <day> odluka-2020-2877`).
+Act id: `odluka-2020-2877` (tags `odluka-2020-2877/<day>`; `python registry/tools/on.py <day> odluka-2020-2877`).
 
 ## Decisions made by hand
 

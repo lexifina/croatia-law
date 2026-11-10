@@ -11,7 +11,7 @@ Naputak o pravovaljanim ispravama nadležnih tijela kojima osoba s invaliditetom
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `naputak-2020-2604` (tags `naputak-2020-2604/<day>`; `python tools/on.py <day> naputak-2020-2604`).
+Act id: `naputak-2020-2604` (tags `naputak-2020-2604/<day>`; `python registry/tools/on.py <day> naputak-2020-2604`).
 
 ## Decisions made by hand
 

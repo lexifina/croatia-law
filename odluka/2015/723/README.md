@@ -8,7 +8,7 @@ Odluka o izmjeni Odluke o osnivanju Nacionalnog odbora za borbu protiv nasilja u
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2015-723` (tags `odluka-2015-723/<day>`; `python tools/on.py <day> odluka-2015-723`).
+Act id: `odluka-2015-723` (tags `odluka-2015-723/<day>`; `python registry/tools/on.py <day> odluka-2015-723`).
 
 ## Decisions made by hand
 

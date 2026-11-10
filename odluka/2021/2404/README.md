@@ -15,7 +15,7 @@ Odluka o III. izmjenama Odluke o gradskim porezima Grada Belog Manastira · 1 ve
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2021-2404` (tags `odluka-2021-2404/<day>`; `python tools/on.py <day> odluka-2021-2404`).
+Act id: `odluka-2021-2404` (tags `odluka-2021-2404/<day>`; `python registry/tools/on.py <day> odluka-2021-2404`).
 
 ## Decisions made by hand
 

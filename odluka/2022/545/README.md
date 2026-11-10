@@ -8,7 +8,7 @@ Odluka o prestanku važenja Odluke o uvođenju nužne mjere posebne organizacije
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2022-545` (tags `odluka-2022-545/<day>`; `python tools/on.py <day> odluka-2022-545`).
+Act id: `odluka-2022-545` (tags `odluka-2022-545/<day>`; `python registry/tools/on.py <day> odluka-2022-545`).
 
 ## Decisions made by hand
 

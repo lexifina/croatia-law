@@ -10,7 +10,7 @@ Odluka o visini poreznih stopa poreza na dohodak Grada Slunja · 1 versions, fro
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2023-2239` (tags `odluka-2023-2239/<day>`; `python tools/on.py <day> odluka-2023-2239`).
+Act id: `odluka-2023-2239` (tags `odluka-2023-2239/<day>`; `python registry/tools/on.py <day> odluka-2023-2239`).
 
 ## Decisions made by hand
 

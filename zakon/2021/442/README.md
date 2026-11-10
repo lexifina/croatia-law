@@ -24,7 +24,7 @@ Zakon o izmjenama i dopuni Zakona o hrvatskom kvalifikacijskom okviru · 1 versi
 | čl. 18 | [clanak-018.md](clanak-018.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2021-442` (tags `zakon-2021-442/<day>`; `python tools/on.py <day> zakon-2021-442`).
+Act id: `zakon-2021-442` (tags `zakon-2021-442/<day>`; `python registry/tools/on.py <day> zakon-2021-442`).
 
 ## Decisions made by hand
 

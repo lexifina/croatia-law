@@ -9,7 +9,7 @@ Odluka o puÅ¡tanju u optjecaj prigodnoga optjecajnoga kovanog novca od 25 kuna Â
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2021-1192` (tags `odluka-2021-1192/<day>`; `python tools/on.py <day> odluka-2021-1192`).
+Act id: `odluka-2021-1192` (tags `odluka-2021-1192/<day>`; `python registry/tools/on.py <day> odluka-2021-1192`).
 
 ## Decisions made by hand
 

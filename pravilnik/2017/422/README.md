@@ -13,7 +13,7 @@ Pravilnik o izmjenama Pravilnika o statusu i financiranju Pulskoga filmskog fest
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2017-422` (tags `pravilnik-2017-422/<day>`; `python tools/on.py <day> pravilnik-2017-422`).
+Act id: `pravilnik-2017-422` (tags `pravilnik-2017-422/<day>`; `python registry/tools/on.py <day> pravilnik-2017-422`).
 
 ## Decisions made by hand
 

@@ -15,7 +15,7 @@ Pravilnik o uvjetima za ispunjavanje kriterija za određivanje velikih poreznih 
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2015-1279` (tags `pravilnik-2015-1279/<day>`; `python tools/on.py <day> pravilnik-2015-1279`).
+Act id: `pravilnik-2015-1279` (tags `pravilnik-2015-1279/<day>`; `python registry/tools/on.py <day> pravilnik-2015-1279`).
 
 ## Status
 

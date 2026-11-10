@@ -27,7 +27,7 @@ Zakon o izmjenama i dopuni Zakona o kaznenom postupku · 1 versions, from 2025-0
 | čl. 21 | [clanak-021.md](clanak-021.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2025-935` (tags `zakon-2025-935/<day>`; `python tools/on.py <day> zakon-2025-935`).
+Act id: `zakon-2025-935` (tags `zakon-2025-935/<day>`; `python registry/tools/on.py <day> zakon-2025-935`).
 
 ## Decisions made by hand
 

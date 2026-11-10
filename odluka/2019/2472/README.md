@@ -16,7 +16,7 @@ Odluka o lokalnim porezima Općine Mrkopalj · 1 versions, from 2020-01-01 (late
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2019-2472` (tags `odluka-2019-2472/<day>`; `python tools/on.py <day> odluka-2019-2472`).
+Act id: `odluka-2019-2472` (tags `odluka-2019-2472/<day>`; `python registry/tools/on.py <day> odluka-2019-2472`).
 
 ## Status
 

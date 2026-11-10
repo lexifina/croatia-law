@@ -9,7 +9,7 @@ Zakon o izmjeni Zakona o područjima i sjedištima državnih odvjetništava · 1
 | čl. 3 | [clanak-003.md](clanak-003.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2022-225` (tags `zakon-2022-225/<day>`; `python tools/on.py <day> zakon-2022-225`).
+Act id: `zakon-2022-225` (tags `zakon-2022-225/<day>`; `python registry/tools/on.py <day> zakon-2022-225`).
 
 ## Decisions made by hand
 

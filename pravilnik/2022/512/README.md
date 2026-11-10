@@ -19,7 +19,7 @@ Pravilnik o ostvarivanju prava na troškove ukopa civilnih osoba nestalih u Domo
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2022-512` (tags `pravilnik-2022-512/<day>`; `python tools/on.py <day> pravilnik-2022-512`).
+Act id: `pravilnik-2022-512` (tags `pravilnik-2022-512/<day>`; `python registry/tools/on.py <day> pravilnik-2022-512`).
 
 ## Decisions made by hand
 

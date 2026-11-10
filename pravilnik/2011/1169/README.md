@@ -9,7 +9,7 @@ Pravilnik o izmjenama Pravilnika o ulovu, uzgoju i prometu tune (Thunnus thynnus
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2011-1169` (tags `pravilnik-2011-1169/<day>`; `python tools/on.py <day> pravilnik-2011-1169`).
+Act id: `pravilnik-2011-1169` (tags `pravilnik-2011-1169/<day>`; `python registry/tools/on.py <day> pravilnik-2011-1169`).
 
 ## Decisions made by hand
 

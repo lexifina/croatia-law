@@ -19,7 +19,7 @@ Odluka o sastavnim dijelovima Sporazuma o pripremi i provedbi projekata · 1 ver
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2016-1498` (tags `odluka-2016-1498/<day>`; `python tools/on.py <day> odluka-2016-1498`).
+Act id: `odluka-2016-1498` (tags `odluka-2016-1498/<day>`; `python registry/tools/on.py <day> odluka-2016-1498`).
 
 ## Decisions made by hand
 

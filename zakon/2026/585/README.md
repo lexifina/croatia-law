@@ -37,7 +37,7 @@ Zakon o izmjenama i dopunama Zakona o građevnim proizvodima · 1 versions, from
 | čl. 31 | [clanak-031.md](clanak-031.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2026-585` (tags `zakon-2026-585/<day>`; `python tools/on.py <day> zakon-2026-585`).
+Act id: `zakon-2026-585` (tags `zakon-2026-585/<day>`; `python registry/tools/on.py <day> zakon-2026-585`).
 
 ## Decisions made by hand
 

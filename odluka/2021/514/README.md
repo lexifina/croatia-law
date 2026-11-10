@@ -8,7 +8,7 @@ Odluka o oslobođenju od obveze plaćanja zakupnine, najamnine i naknade za kori
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2021-514` (tags `odluka-2021-514/<day>`; `python tools/on.py <day> odluka-2021-514`).
+Act id: `odluka-2021-514` (tags `odluka-2021-514/<day>`; `python registry/tools/on.py <day> odluka-2021-514`).
 
 ## Decisions made by hand
 

@@ -23,7 +23,7 @@ Pravilnik o provedbi Programa potpore za obnovu narušenog proizvodnog potencija
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2025-1711` (tags `pravilnik-2025-1711/<day>`; `python tools/on.py <day> pravilnik-2025-1711`).
+Act id: `pravilnik-2025-1711` (tags `pravilnik-2025-1711/<day>`; `python registry/tools/on.py <day> pravilnik-2025-1711`).
 
 ## Decisions made by hand
 

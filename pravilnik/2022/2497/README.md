@@ -11,7 +11,7 @@ Pravilnik o izmjenama Pravilnika o strukturi i sadržaju, načinu i rokovima dos
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2022-2497` (tags `pravilnik-2022-2497/<day>`; `python tools/on.py <day> pravilnik-2022-2497`).
+Act id: `pravilnik-2022-2497` (tags `pravilnik-2022-2497/<day>`; `python registry/tools/on.py <day> pravilnik-2022-2497`).
 
 ## Decisions made by hand
 

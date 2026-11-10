@@ -30,7 +30,7 @@ Uredba o provedbi postupka procjene učinaka propisa · 1 versions, from 2012-06
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2012-1554` (tags `uredba-2012-1554/<day>`; `python tools/on.py <day> uredba-2012-1554`).
+Act id: `uredba-2012-1554` (tags `uredba-2012-1554/<day>`; `python registry/tools/on.py <day> uredba-2012-1554`).
 
 ## Status
 

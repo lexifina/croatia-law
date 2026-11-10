@@ -8,7 +8,7 @@ Odluka o izmjeni i dopuni Odluke o financiranju troškova za stambeno zbrinjavan
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2024-721` (tags `odluka-2024-721/<day>`; `python tools/on.py <day> odluka-2024-721`).
+Act id: `odluka-2024-721` (tags `odluka-2024-721/<day>`; `python registry/tools/on.py <day> odluka-2024-721`).
 
 ## Decisions made by hand
 

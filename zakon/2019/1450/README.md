@@ -61,7 +61,7 @@ Zakon o izmjenama i dopunama Zakona o sigurnosti prometa na cestama · 1 version
 | čl. 55 | [clanak-055.md](clanak-055.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2019-1450` (tags `zakon-2019-1450/<day>`; `python tools/on.py <day> zakon-2019-1450`).
+Act id: `zakon-2019-1450` (tags `zakon-2019-1450/<day>`; `python registry/tools/on.py <day> zakon-2019-1450`).
 
 ## Decisions made by hand
 

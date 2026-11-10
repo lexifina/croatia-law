@@ -17,7 +17,7 @@ Zakon o izmjenama Zakona o obnovi (NN br. 51A) · 1 versions, from 2013-05-01 (l
 | čl. 11 | [clanak-011.md](clanak-011.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2013-1048` (tags `zakon-2013-1048/<day>`; `python tools/on.py <day> zakon-2013-1048`).
+Act id: `zakon-2013-1048` (tags `zakon-2013-1048/<day>`; `python registry/tools/on.py <day> zakon-2013-1048`).
 
 ## Decisions made by hand
 

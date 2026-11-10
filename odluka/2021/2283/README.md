@@ -8,7 +8,7 @@ Odluka o dopuni Odluke o osnivanju Vijeća predsjednika Republike Hrvatske za en
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2021-2283` (tags `odluka-2021-2283/<day>`; `python tools/on.py <day> odluka-2021-2283`).
+Act id: `odluka-2021-2283` (tags `odluka-2021-2283/<day>`; `python registry/tools/on.py <day> odluka-2021-2283`).
 
 ## Decisions made by hand
 

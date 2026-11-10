@@ -9,7 +9,7 @@ Odluka o izmjeni Odluke o davanju suglasnosti Lučkoj upravi Rijeka za osnivanje
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2015-830` (tags `odluka-2015-830/<day>`; `python tools/on.py <day> odluka-2015-830`).
+Act id: `odluka-2015-830` (tags `odluka-2015-830/<day>`; `python registry/tools/on.py <day> odluka-2015-830`).
 
 ## Decisions made by hand
 

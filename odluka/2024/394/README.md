@@ -10,7 +10,7 @@ Odluka o osnovicama za utvrđivanje vrijednosnog boda prema osobnom činu, ustro
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2024-394` (tags `odluka-2024-394/<day>`; `python tools/on.py <day> odluka-2024-394`).
+Act id: `odluka-2024-394` (tags `odluka-2024-394/<day>`; `python registry/tools/on.py <day> odluka-2024-394`).
 
 ## Decisions made by hand
 

@@ -8,7 +8,7 @@ Odluka o isplati jednokratnog novčanog primanja braniteljsko-stradalničkoj pop
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2026-1214` (tags `odluka-2026-1214/<day>`; `python tools/on.py <day> odluka-2026-1214`).
+Act id: `odluka-2026-1214` (tags `odluka-2026-1214/<day>`; `python registry/tools/on.py <day> odluka-2026-1214`).
 
 ## Decisions made by hand
 

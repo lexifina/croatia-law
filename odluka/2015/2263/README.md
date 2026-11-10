@@ -25,7 +25,7 @@ Odluka o izmjenama i dopunama Odluke o provedbi Provedbene uredbe Komisije (EU) 
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2015-2263` (tags `odluka-2015-2263/<day>`; `python tools/on.py <day> odluka-2015-2263`).
+Act id: `odluka-2015-2263` (tags `odluka-2015-2263/<day>`; `python registry/tools/on.py <day> odluka-2015-2263`).
 
 ## Decisions made by hand
 

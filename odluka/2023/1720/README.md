@@ -8,7 +8,7 @@ Odluka o autorizaciji plovila za ribolov jegulje (Anguilla anguilla) s rokom va≈
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2023-1720` (tags `odluka-2023-1720/<day>`; `python tools/on.py <day> odluka-2023-1720`).
+Act id: `odluka-2023-1720` (tags `odluka-2023-1720/<day>`; `python registry/tools/on.py <day> odluka-2023-1720`).
 
 ## Status
 

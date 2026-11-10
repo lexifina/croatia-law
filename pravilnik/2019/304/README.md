@@ -15,7 +15,7 @@ Pravilnik o načinu utvrđivanja obujma i površine građevina u svrhu obračuna
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2019-304` (tags `pravilnik-2019-304/<day>`; `python tools/on.py <day> pravilnik-2019-304`).
+Act id: `pravilnik-2019-304` (tags `pravilnik-2019-304/<day>`; `python registry/tools/on.py <day> pravilnik-2019-304`).
 
 ## Decisions made by hand
 

@@ -9,7 +9,7 @@ Pravilnik o izmjeni Pravilnika o oznakama izvornosti i oznakama zemljopisnog pod
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2011-1062` (tags `pravilnik-2011-1062/<day>`; `python tools/on.py <day> pravilnik-2011-1062`).
+Act id: `pravilnik-2011-1062` (tags `pravilnik-2011-1062/<day>`; `python registry/tools/on.py <day> pravilnik-2011-1062`).
 
 ## Decisions made by hand
 

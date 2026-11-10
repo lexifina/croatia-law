@@ -68,7 +68,7 @@ Naputak za provedbu Zakona o državnim maticama · 1 versions, from 2021-11-06 (
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `naputak-2021-2012` (tags `naputak-2021-2012/<day>`; `python tools/on.py <day> naputak-2021-2012`).
+Act id: `naputak-2021-2012` (tags `naputak-2021-2012/<day>`; `python registry/tools/on.py <day> naputak-2021-2012`).
 
 ## Status
 

@@ -8,7 +8,7 @@ Odluka o davanju ovlaštenja Ministarstvu mora, prometa i infrastrukture za dono
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2019-1076` (tags `odluka-2019-1076/<day>`; `python tools/on.py <day> odluka-2019-1076`).
+Act id: `odluka-2019-1076` (tags `odluka-2019-1076/<day>`; `python registry/tools/on.py <day> odluka-2019-1076`).
 
 ## Decisions made by hand
 

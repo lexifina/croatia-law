@@ -8,7 +8,7 @@ Zakon o dopuni Zakona o međunarodnom privatnom pravu · 1 versions, from 2023-0
 | čl. 2 | [clanak-002.md](clanak-002.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2023-1100` (tags `zakon-2023-1100/<day>`; `python tools/on.py <day> zakon-2023-1100`).
+Act id: `zakon-2023-1100` (tags `zakon-2023-1100/<day>`; `python registry/tools/on.py <day> zakon-2023-1100`).
 
 ## Decisions made by hand
 

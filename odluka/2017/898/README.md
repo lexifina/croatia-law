@@ -8,7 +8,7 @@ Odluka o rasporedu sredstava osiguranih u Državnom proračunu Republike Hrvatsk
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2017-898` (tags `odluka-2017-898/<day>`; `python tools/on.py <day> odluka-2017-898`).
+Act id: `odluka-2017-898` (tags `odluka-2017-898/<day>`; `python registry/tools/on.py <day> odluka-2017-898`).
 
 ## Status
 

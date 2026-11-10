@@ -5,7 +5,7 @@ Odluka o sanaciji Doma za starije osobe Ličko-senjske županije · 2 versions, 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `odluka-2024-1877` (tags `odluka-2024-1877/<day>`; `python tools/on.py <day> odluka-2024-1877`).
+Act id: `odluka-2024-1877` (tags `odluka-2024-1877/<day>`; `python registry/tools/on.py <day> odluka-2024-1877`).
 
 ## Decisions made by hand
 

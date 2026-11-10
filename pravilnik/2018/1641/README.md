@@ -33,7 +33,7 @@ Pravilnik o uvjetima, mjerilima i postupku davanja u najam stanova za službene 
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2018-1641` (tags `pravilnik-2018-1641/<day>`; `python tools/on.py <day> pravilnik-2018-1641`).
+Act id: `pravilnik-2018-1641` (tags `pravilnik-2018-1641/<day>`; `python registry/tools/on.py <day> pravilnik-2018-1641`).
 
 ## Decisions made by hand
 

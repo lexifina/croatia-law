@@ -11,7 +11,7 @@ Odluka o stjecanju statusa osiguranika i preuzimanju obveze uplate doprinosa za 
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2017-2594` (tags `odluka-2017-2594/<day>`; `python tools/on.py <day> odluka-2017-2594`).
+Act id: `odluka-2017-2594` (tags `odluka-2017-2594/<day>`; `python registry/tools/on.py <day> odluka-2017-2594`).
 
 ## Status
 

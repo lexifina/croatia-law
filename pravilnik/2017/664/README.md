@@ -5,7 +5,7 @@ Pravilnik o popisu i sadržaju dokumenata za odobrenje nuklearnih djelatnosti ·
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `pravilnik-2017-664` (tags `pravilnik-2017-664/<day>`; `python tools/on.py <day> pravilnik-2017-664`).
+Act id: `pravilnik-2017-664` (tags `pravilnik-2017-664/<day>`; `python registry/tools/on.py <day> pravilnik-2017-664`).
 
 ## Decisions made by hand
 

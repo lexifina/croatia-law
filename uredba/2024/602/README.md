@@ -28,7 +28,7 @@ Uredba o prodajnoj cijeni obiteljske kuće ili stana u državnom vlasništvu na 
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2024-602` (tags `uredba-2024-602/<day>`; `python tools/on.py <day> uredba-2024-602`).
+Act id: `uredba-2024-602` (tags `uredba-2024-602/<day>`; `python registry/tools/on.py <day> uredba-2024-602`).
 
 ## Status
 

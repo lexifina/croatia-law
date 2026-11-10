@@ -56,7 +56,7 @@ Pravilnik o zbrinjavanju radioaktivnog otpada i iskorištenih izvora · 1 versio
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2022-1368` (tags `pravilnik-2022-1368/<day>`; `python tools/on.py <day> pravilnik-2022-1368`).
+Act id: `pravilnik-2022-1368` (tags `pravilnik-2022-1368/<day>`; `python registry/tools/on.py <day> pravilnik-2022-1368`).
 
 ## Decisions made by hand
 

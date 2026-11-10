@@ -9,7 +9,7 @@ Naputak o izmjeni Naputka o isplati sredstava beskamatnog zajma jedinicama lokal
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `naputak-2023-1832` (tags `naputak-2023-1832/<day>`; `python tools/on.py <day> naputak-2023-1832`).
+Act id: `naputak-2023-1832` (tags `naputak-2023-1832/<day>`; `python registry/tools/on.py <day> naputak-2023-1832`).
 
 ## Decisions made by hand
 

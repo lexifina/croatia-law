@@ -8,7 +8,7 @@ Odluka o određivanju nacionalnog IMI koordinatora · 1 versions, from 2013-01-2
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2013-130` (tags `odluka-2013-130/<day>`; `python tools/on.py <day> odluka-2013-130`).
+Act id: `odluka-2013-130` (tags `odluka-2013-130/<day>`; `python registry/tools/on.py <day> odluka-2013-130`).
 
 ## Decisions made by hand
 

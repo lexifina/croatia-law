@@ -8,7 +8,7 @@ Odluka o utvrđivanju ovlaštenih zdravstvenih ustanova u kojima se obavlja stru
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2018-559` (tags `odluka-2018-559/<day>`; `python tools/on.py <day> odluka-2018-559`).
+Act id: `odluka-2018-559` (tags `odluka-2018-559/<day>`; `python registry/tools/on.py <day> odluka-2018-559`).
 
 ## Decisions made by hand
 

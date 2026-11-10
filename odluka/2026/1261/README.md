@@ -8,7 +8,7 @@ Odluka o osnivanju Savjeta za Slavoniju, Baranju i Srijem, Savjeta za Sjever, Sa
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2026-1261` (tags `odluka-2026-1261/<day>`; `python tools/on.py <day> odluka-2026-1261`).
+Act id: `odluka-2026-1261` (tags `odluka-2026-1261/<day>`; `python registry/tools/on.py <day> odluka-2026-1261`).
 
 ## Decisions made by hand
 

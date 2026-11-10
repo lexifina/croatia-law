@@ -21,7 +21,7 @@ Uredba o načinu izračuna iznosa pomoći izravnanja za decentralizirane funkcij
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2015-278` (tags `uredba-2015-278/<day>`; `python tools/on.py <day> uredba-2015-278`).
+Act id: `uredba-2015-278` (tags `uredba-2015-278/<day>`; `python registry/tools/on.py <day> uredba-2015-278`).
 
 ## Decisions made by hand
 

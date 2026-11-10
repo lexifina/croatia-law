@@ -9,7 +9,7 @@ Odluka o minimalnim financijskim sredstvima za decentralizirane funkcije za zdra
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2013-495` (tags `odluka-2013-495/<day>`; `python tools/on.py <day> odluka-2013-495`).
+Act id: `odluka-2013-495` (tags `odluka-2013-495/<day>`; `python registry/tools/on.py <day> odluka-2013-495`).
 
 ## Decisions made by hand
 

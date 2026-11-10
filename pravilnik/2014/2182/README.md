@@ -22,7 +22,7 @@ Pravilnik o mjerama za suzbijanje i iskorjenjivanje bruceloze ovaca i koza (B. m
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2014-2182` (tags `pravilnik-2014-2182/<day>`; `python tools/on.py <day> pravilnik-2014-2182`).
+Act id: `pravilnik-2014-2182` (tags `pravilnik-2014-2182/<day>`; `python registry/tools/on.py <day> pravilnik-2014-2182`).
 
 ## Status
 

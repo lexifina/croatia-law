@@ -9,7 +9,7 @@ Pravilnik o izmjeni Pravilnika o službenoj iskaznici i znački inspektora za na
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2020-2854` (tags `pravilnik-2020-2854/<day>`; `python tools/on.py <day> pravilnik-2020-2854`).
+Act id: `pravilnik-2020-2854` (tags `pravilnik-2020-2854/<day>`; `python registry/tools/on.py <day> pravilnik-2020-2854`).
 
 ## Decisions made by hand
 

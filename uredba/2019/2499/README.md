@@ -5,7 +5,7 @@ Uredba o izmjeni Zakona o zdravstvenoj zaštiti · 2 versions, from 2019-12-21 (
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `uredba-2019-2499` (tags `uredba-2019-2499/<day>`; `python tools/on.py <day> uredba-2019-2499`).
+Act id: `uredba-2019-2499` (tags `uredba-2019-2499/<day>`; `python registry/tools/on.py <day> uredba-2019-2499`).
 
 ## Decisions made by hand
 

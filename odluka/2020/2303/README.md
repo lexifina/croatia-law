@@ -9,7 +9,7 @@ Odluka kojom se potvrđuje da sustav NKSInst udovoljava uvjetima iz Zakona o kon
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2020-2303` (tags `odluka-2020-2303/<day>`; `python tools/on.py <day> odluka-2020-2303`).
+Act id: `odluka-2020-2303` (tags `odluka-2020-2303/<day>`; `python registry/tools/on.py <day> odluka-2020-2303`).
 
 ## Decisions made by hand
 

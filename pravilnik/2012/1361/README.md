@@ -10,7 +10,7 @@ Pravilnik o izmjenama Pravilnika o uputama kojih su se obvezni pridržavati kori
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2012-1361` (tags `pravilnik-2012-1361/<day>`; `python tools/on.py <day> pravilnik-2012-1361`).
+Act id: `pravilnik-2012-1361` (tags `pravilnik-2012-1361/<day>`; `python registry/tools/on.py <day> pravilnik-2012-1361`).
 
 ## Decisions made by hand
 

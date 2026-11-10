@@ -78,7 +78,7 @@ Zakon o izvršavanju Državnog proračuna Republike Hrvatske za 2026. godinu · 
 | čl. 72 | [clanak-072.md](clanak-072.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2025-2277` (tags `zakon-2025-2277/<day>`; `python tools/on.py <day> zakon-2025-2277`).
+Act id: `zakon-2025-2277` (tags `zakon-2025-2277/<day>`; `python registry/tools/on.py <day> zakon-2025-2277`).
 
 ## Status
 

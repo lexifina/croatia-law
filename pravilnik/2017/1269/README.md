@@ -25,7 +25,7 @@ Pravilnik o izmjenama i dopunama Pravilnika o upisu sorti u sortnu listu · 1 ve
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2017-1269` (tags `pravilnik-2017-1269/<day>`; `python tools/on.py <day> pravilnik-2017-1269`).
+Act id: `pravilnik-2017-1269` (tags `pravilnik-2017-1269/<day>`; `python registry/tools/on.py <day> pravilnik-2017-1269`).
 
 ## Decisions made by hand
 

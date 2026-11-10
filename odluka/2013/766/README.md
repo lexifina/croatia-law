@@ -10,7 +10,7 @@ Odluka o prestanku važenja Odluke o obvezi dostavljanja izvješća "Neto potra�
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2013-766` (tags `odluka-2013-766/<day>`; `python tools/on.py <day> odluka-2013-766`).
+Act id: `odluka-2013-766` (tags `odluka-2013-766/<day>`; `python registry/tools/on.py <day> odluka-2013-766`).
 
 ## Decisions made by hand
 

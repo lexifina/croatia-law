@@ -52,7 +52,7 @@ Pravilnik o prirodnim mineralnim i prirodnim izvorskim vodama · 1 versions, fro
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2011-2003` (tags `pravilnik-2011-2003/<day>`; `python tools/on.py <day> pravilnik-2011-2003`).
+Act id: `pravilnik-2011-2003` (tags `pravilnik-2011-2003/<day>`; `python registry/tools/on.py <day> pravilnik-2011-2003`).
 
 ## Status
 

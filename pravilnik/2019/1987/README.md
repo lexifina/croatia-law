@@ -11,7 +11,7 @@ Pravilnik o načinu obavljanja ribolova u posebnom staništu u akvatoriju ušća
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2019-1987` (tags `pravilnik-2019-1987/<day>`; `python tools/on.py <day> pravilnik-2019-1987`).
+Act id: `pravilnik-2019-1987` (tags `pravilnik-2019-1987/<day>`; `python registry/tools/on.py <day> pravilnik-2019-1987`).
 
 ## Decisions made by hand
 

@@ -23,7 +23,7 @@ Odluka o načinu otvaranja transakcijskih računa · 1 versions, from 2011-01-05
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2011-55` (tags `odluka-2011-55/<day>`; `python tools/on.py <day> odluka-2011-55`).
+Act id: `odluka-2011-55` (tags `odluka-2011-55/<day>`; `python registry/tools/on.py <day> odluka-2011-55`).
 
 ## Status
 

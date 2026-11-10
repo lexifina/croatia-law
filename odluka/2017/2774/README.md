@@ -12,7 +12,7 @@ Odluka o izmjenama Odluke o porezima Općine Barban · 1 versions, from 2017-12-
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2017-2774` (tags `odluka-2017-2774/<day>`; `python tools/on.py <day> odluka-2017-2774`).
+Act id: `odluka-2017-2774` (tags `odluka-2017-2774/<day>`; `python registry/tools/on.py <day> odluka-2017-2774`).
 
 ## Decisions made by hand
 

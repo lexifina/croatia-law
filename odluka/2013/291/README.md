@@ -9,7 +9,7 @@ Odluka o uvođenju, praćenju i vrednovanju provedbe Kurikuluma zdravstvenog odg
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2013-291` (tags `odluka-2013-291/<day>`; `python tools/on.py <day> odluka-2013-291`).
+Act id: `odluka-2013-291` (tags `odluka-2013-291/<day>`; `python registry/tools/on.py <day> odluka-2013-291`).
 
 ## Status
 

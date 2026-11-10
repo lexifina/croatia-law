@@ -13,7 +13,7 @@ Odluka o izmjenama i dopunama Odluke o adekvatnosti jamstvenoga kapitala kreditn
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2013-1330` (tags `odluka-2013-1330/<day>`; `python tools/on.py <day> odluka-2013-1330`).
+Act id: `odluka-2013-1330` (tags `odluka-2013-1330/<day>`; `python registry/tools/on.py <day> odluka-2013-1330`).
 
 ## Decisions made by hand
 

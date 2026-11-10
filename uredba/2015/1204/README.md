@@ -14,7 +14,7 @@ Uredba o izmjenama Uredbe o unutarnjem ustrojstvu Ministarstva kulture · 1 vers
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2015-1204` (tags `uredba-2015-1204/<day>`; `python tools/on.py <day> uredba-2015-1204`).
+Act id: `uredba-2015-1204` (tags `uredba-2015-1204/<day>`; `python registry/tools/on.py <day> uredba-2015-1204`).
 
 ## Decisions made by hand
 

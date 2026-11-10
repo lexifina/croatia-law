@@ -16,7 +16,7 @@ Pravilnik o izmjenama i dopuni Pravilnika o utvrđivanju zdravstvenih, psihički
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2024-1460` (tags `pravilnik-2024-1460/<day>`; `python tools/on.py <day> pravilnik-2024-1460`).
+Act id: `pravilnik-2024-1460` (tags `pravilnik-2024-1460/<day>`; `python registry/tools/on.py <day> pravilnik-2024-1460`).
 
 ## Decisions made by hand
 

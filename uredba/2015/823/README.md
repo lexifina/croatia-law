@@ -72,7 +72,7 @@ Uredba o izmjenama i dopunama Uredbe o unutarnjem ustrojstvu Ministarstva branit
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2015-823` (tags `uredba-2015-823/<day>`; `python tools/on.py <day> uredba-2015-823`).
+Act id: `uredba-2015-823` (tags `uredba-2015-823/<day>`; `python registry/tools/on.py <day> uredba-2015-823`).
 
 ## Decisions made by hand
 

@@ -11,7 +11,7 @@ Pravilnik o izmjenama i dopuni Pravilnika o uvjetima za davanje dozvole radi izv
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2026-111` (tags `pravilnik-2026-111/<day>`; `python tools/on.py <day> pravilnik-2026-111`).
+Act id: `pravilnik-2026-111` (tags `pravilnik-2026-111/<day>`; `python registry/tools/on.py <day> pravilnik-2026-111`).
 
 ## Decisions made by hand
 

@@ -67,7 +67,7 @@ Pravilnik o izmjenama i dopunama Pravilnika o načinu i uvjetima za obavljanje s
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2012-1395` (tags `pravilnik-2012-1395/<day>`; `python tools/on.py <day> pravilnik-2012-1395`).
+Act id: `pravilnik-2012-1395` (tags `pravilnik-2012-1395/<day>`; `python registry/tools/on.py <day> pravilnik-2012-1395`).
 
 ## Decisions made by hand
 

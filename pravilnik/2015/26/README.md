@@ -20,7 +20,7 @@ Pravilnik o sadržaju zahtjeva i dokumentaciji koja se dostavlja uz zahtjev za i
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2015-26` (tags `pravilnik-2015-26/<day>`; `python tools/on.py <day> pravilnik-2015-26`).
+Act id: `pravilnik-2015-26` (tags `pravilnik-2015-26/<day>`; `python registry/tools/on.py <day> pravilnik-2015-26`).
 
 ## Status
 

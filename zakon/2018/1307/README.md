@@ -5,7 +5,7 @@ Zakon o djelatnosti psihoterapije · 2 versions, from 2018-07-26 (latest in forc
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `zakon-2018-1307` (tags `zakon-2018-1307/<day>`; `python tools/on.py <day> zakon-2018-1307`).
+Act id: `zakon-2018-1307` (tags `zakon-2018-1307/<day>`; `python registry/tools/on.py <day> zakon-2018-1307`).
 
 ## Decisions made by hand
 

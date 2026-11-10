@@ -21,7 +21,7 @@ Pravilnik o minimalnom globalnom porezu na dobit · 1 versions, from 2026-05-30 
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2026-665` (tags `pravilnik-2026-665/<day>`; `python tools/on.py <day> pravilnik-2026-665`).
+Act id: `pravilnik-2026-665` (tags `pravilnik-2026-665/<day>`; `python registry/tools/on.py <day> pravilnik-2026-665`).
 
 ## Decisions made by hand
 

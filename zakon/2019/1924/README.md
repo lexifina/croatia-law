@@ -8,7 +8,7 @@ Zakon o izmjeni Zakona o sprječavanju sukoba interesa · 1 versions, from 2020-
 | čl. 2 | [clanak-002.md](clanak-002.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2019-1924` (tags `zakon-2019-1924/<day>`; `python tools/on.py <day> zakon-2019-1924`).
+Act id: `zakon-2019-1924` (tags `zakon-2019-1924/<day>`; `python registry/tools/on.py <day> zakon-2019-1924`).
 
 ## Decisions made by hand
 

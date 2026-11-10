@@ -10,7 +10,7 @@ Zakon o izmjenama Zakona o ugostiteljskoj djelatnosti · 1 versions, from 2016-1
 | čl. 4 | [clanak-004.md](clanak-004.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2016-2626` (tags `zakon-2016-2626/<day>`; `python tools/on.py <day> zakon-2016-2626`).
+Act id: `zakon-2016-2626` (tags `zakon-2016-2626/<day>`; `python registry/tools/on.py <day> zakon-2016-2626`).
 
 ## Decisions made by hand
 

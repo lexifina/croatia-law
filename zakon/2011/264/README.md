@@ -9,7 +9,7 @@ Zakon o dopunama Zakona o plaćama sudaca i drugih pravosudnih dužnosnika · 1 
 | čl. 3 | [clanak-003.md](clanak-003.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2011-264` (tags `zakon-2011-264/<day>`; `python tools/on.py <day> zakon-2011-264`).
+Act id: `zakon-2011-264` (tags `zakon-2011-264/<day>`; `python registry/tools/on.py <day> zakon-2011-264`).
 
 ## Decisions made by hand
 

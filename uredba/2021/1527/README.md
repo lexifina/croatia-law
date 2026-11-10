@@ -9,7 +9,7 @@ Uredba o tvarima koje oštećuju ozonski sloj i fluoriranim stakleničkim plinov
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2021-1527` (tags `uredba-2021-1527/<day>`; `python tools/on.py <day> uredba-2021-1527`).
+Act id: `uredba-2021-1527` (tags `uredba-2021-1527/<day>`; `python registry/tools/on.py <day> uredba-2021-1527`).
 
 ## Status
 

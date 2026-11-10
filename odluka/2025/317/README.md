@@ -10,7 +10,7 @@ Odluka o načinu dostave obavijesti depozitara o utvrđenim nepravilnostima i/il
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2025-317` (tags `odluka-2025-317/<day>`; `python tools/on.py <day> odluka-2025-317`).
+Act id: `odluka-2025-317` (tags `odluka-2025-317/<day>`; `python registry/tools/on.py <day> odluka-2025-317`).
 
 ## Decisions made by hand
 

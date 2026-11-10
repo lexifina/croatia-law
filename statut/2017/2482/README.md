@@ -9,7 +9,7 @@ Izmjena Statuta Hrvatske komore dentalne medicine · 1 versions, from 2017-11-11
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `statut-2017-2482` (tags `statut-2017-2482/<day>`; `python tools/on.py <day> statut-2017-2482`).
+Act id: `statut-2017-2482` (tags `statut-2017-2482/<day>`; `python registry/tools/on.py <day> statut-2017-2482`).
 
 ## Decisions made by hand
 

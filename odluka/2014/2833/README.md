@@ -8,7 +8,7 @@ Odluka o oduzimanju prava priređivanja igara na sreću u casinima trgovačkom d
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2014-2833` (tags `odluka-2014-2833/<day>`; `python tools/on.py <day> odluka-2014-2833`).
+Act id: `odluka-2014-2833` (tags `odluka-2014-2833/<day>`; `python registry/tools/on.py <day> odluka-2014-2833`).
 
 ## Status
 

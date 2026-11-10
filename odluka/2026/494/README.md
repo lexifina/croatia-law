@@ -8,7 +8,7 @@ Odluka o autorizaciji plovila za ribolov igluna (Xiphias gladius) i plavoperajne
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2026-494` (tags `odluka-2026-494/<day>`; `python tools/on.py <day> odluka-2026-494`).
+Act id: `odluka-2026-494` (tags `odluka-2026-494/<day>`; `python registry/tools/on.py <day> odluka-2026-494`).
 
 ## Decisions made by hand
 

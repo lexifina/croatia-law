@@ -11,7 +11,7 @@ Pravilnik o uvjetima koje moraju ispunjavati ovlašteni državni službenici ime
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2021-1228` (tags `pravilnik-2021-1228/<day>`; `python tools/on.py <day> pravilnik-2021-1228`).
+Act id: `pravilnik-2021-1228` (tags `pravilnik-2021-1228/<day>`; `python registry/tools/on.py <day> pravilnik-2021-1228`).
 
 ## Decisions made by hand
 

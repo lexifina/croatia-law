@@ -19,7 +19,7 @@ Pravilnik o izmjenama i dopunama Pravilnika o jedinstvenom registru računa · 1
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2013-92` (tags `pravilnik-2013-92/<day>`; `python tools/on.py <day> pravilnik-2013-92`).
+Act id: `pravilnik-2013-92` (tags `pravilnik-2013-92/<day>`; `python registry/tools/on.py <day> pravilnik-2013-92`).
 
 ## Decisions made by hand
 

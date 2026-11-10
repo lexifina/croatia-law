@@ -16,7 +16,7 @@ Pravilnik o postupku dostave, objave i načinu vođenja evidencije kolektivnih u
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2025-1463` (tags `pravilnik-2025-1463/<day>`; `python tools/on.py <day> pravilnik-2025-1463`).
+Act id: `pravilnik-2025-1463` (tags `pravilnik-2025-1463/<day>`; `python registry/tools/on.py <day> pravilnik-2025-1463`).
 
 ## Decisions made by hand
 

@@ -8,7 +8,7 @@ Odluka o osnivanju Nacionalnog povjerenstva za ocjenu trofeja i izložbe · 1 ve
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2020-50` (tags `odluka-2020-50/<day>`; `python tools/on.py <day> odluka-2020-50`).
+Act id: `odluka-2020-50` (tags `odluka-2020-50/<day>`; `python registry/tools/on.py <day> odluka-2020-50`).
 
 ## Status
 

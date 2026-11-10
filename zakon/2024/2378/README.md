@@ -9,7 +9,7 @@ Zakon o izmjeni Zakona o provedbi Uredbe Vijeća (EU) 2017/1939 od 12. listopada
 | čl. 3 | [clanak-003.md](clanak-003.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2024-2378` (tags `zakon-2024-2378/<day>`; `python tools/on.py <day> zakon-2024-2378`).
+Act id: `zakon-2024-2378` (tags `zakon-2024-2378/<day>`; `python registry/tools/on.py <day> zakon-2024-2378`).
 
 ## Decisions made by hand
 

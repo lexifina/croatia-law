@@ -23,7 +23,7 @@ Pravilnik o aerodromskim naknadama · 1 versions, from 2012-05-10 (latest in for
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2012-1241` (tags `pravilnik-2012-1241/<day>`; `python tools/on.py <day> pravilnik-2012-1241`).
+Act id: `pravilnik-2012-1241` (tags `pravilnik-2012-1241/<day>`; `python registry/tools/on.py <day> pravilnik-2012-1241`).
 
 ## Status
 

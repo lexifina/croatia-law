@@ -13,7 +13,7 @@ Pravilnik o izmjenama Pravilnika o obračunu i naplati naknade za uređenje voda
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2013-2739` (tags `pravilnik-2013-2739/<day>`; `python tools/on.py <day> pravilnik-2013-2739`).
+Act id: `pravilnik-2013-2739` (tags `pravilnik-2013-2739/<day>`; `python registry/tools/on.py <day> pravilnik-2013-2739`).
 
 ## Decisions made by hand
 

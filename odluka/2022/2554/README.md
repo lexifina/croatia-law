@@ -22,7 +22,7 @@ Odluka o naknadi za razvoj KD Vodovod i kanalizacija d.o.o. Rijeka · 1 versions
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2022-2554` (tags `odluka-2022-2554/<day>`; `python tools/on.py <day> odluka-2022-2554`).
+Act id: `odluka-2022-2554` (tags `odluka-2022-2554/<day>`; `python registry/tools/on.py <day> odluka-2022-2554`).
 
 ## Status
 

@@ -8,7 +8,7 @@ Odluka o izmjeni Odluke o osnivanju Povjerenstva za procjenu i utvrđivanje prij
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2017-1436` (tags `odluka-2017-1436/<day>`; `python tools/on.py <day> odluka-2017-1436`).
+Act id: `odluka-2017-1436` (tags `odluka-2017-1436/<day>`; `python registry/tools/on.py <day> odluka-2017-1436`).
 
 ## Decisions made by hand
 

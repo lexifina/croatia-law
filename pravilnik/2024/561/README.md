@@ -16,7 +16,7 @@ Pravilnik o načinu prikupljanja dokumentacije i praćenju ishoda liječenja lij
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2024-561` (tags `pravilnik-2024-561/<day>`; `python tools/on.py <day> pravilnik-2024-561`).
+Act id: `pravilnik-2024-561` (tags `pravilnik-2024-561/<day>`; `python registry/tools/on.py <day> pravilnik-2024-561`).
 
 ## Decisions made by hand
 

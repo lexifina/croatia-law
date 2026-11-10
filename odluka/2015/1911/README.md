@@ -8,7 +8,7 @@ Odluka o izmjeni Odluke o lombardnom kreditu · 1 versions, from 2015-09-22 (lat
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2015-1911` (tags `odluka-2015-1911/<day>`; `python tools/on.py <day> odluka-2015-1911`).
+Act id: `odluka-2015-1911` (tags `odluka-2015-1911/<day>`; `python registry/tools/on.py <day> odluka-2015-1911`).
 
 ## Decisions made by hand
 

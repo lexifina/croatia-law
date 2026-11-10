@@ -23,7 +23,7 @@ Pravilnik o voÄ‘enju evidencija pripadnika operativnih snaga sustava civilne zaÅ
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2016-1758` (tags `pravilnik-2016-1758/<day>`; `python tools/on.py <day> pravilnik-2016-1758`).
+Act id: `pravilnik-2016-1758` (tags `pravilnik-2016-1758/<day>`; `python registry/tools/on.py <day> pravilnik-2016-1758`).
 
 ## Decisions made by hand
 

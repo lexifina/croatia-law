@@ -11,7 +11,7 @@ Pravilnik o izmjenama i dopunama Pravilnika o metodama analiza toplinski obrađe
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2011-1213` (tags `pravilnik-2011-1213/<day>`; `python tools/on.py <day> pravilnik-2011-1213`).
+Act id: `pravilnik-2011-1213` (tags `pravilnik-2011-1213/<day>`; `python registry/tools/on.py <day> pravilnik-2011-1213`).
 
 ## Decisions made by hand
 

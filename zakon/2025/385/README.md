@@ -8,7 +8,7 @@ Zakon o izmjeni Zakona o plaći i drugim materijalnim pravima pravosudnih dužno
 | čl. 2 | [clanak-002.md](clanak-002.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2025-385` (tags `zakon-2025-385/<day>`; `python tools/on.py <day> zakon-2025-385`).
+Act id: `zakon-2025-385` (tags `zakon-2025-385/<day>`; `python registry/tools/on.py <day> zakon-2025-385`).
 
 ## Decisions made by hand
 

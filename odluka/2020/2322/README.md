@@ -8,7 +8,7 @@ Odluka o izmjeni Odluke o privremenoj zabrani prelaska preko graničnih prijelaz
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2020-2322` (tags `odluka-2020-2322/<day>`; `python tools/on.py <day> odluka-2020-2322`).
+Act id: `odluka-2020-2322` (tags `odluka-2020-2322/<day>`; `python registry/tools/on.py <day> odluka-2020-2322`).
 
 ## Status
 

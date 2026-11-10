@@ -18,7 +18,7 @@ Pravilnik o visini i načinu plaćanja naknada · 1 versions, from 2022-10-08 (l
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2022-1668` (tags `pravilnik-2022-1668/<day>`; `python tools/on.py <day> pravilnik-2022-1668`).
+Act id: `pravilnik-2022-1668` (tags `pravilnik-2022-1668/<day>`; `python registry/tools/on.py <day> pravilnik-2022-1668`).
 
 ## Decisions made by hand
 

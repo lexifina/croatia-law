@@ -12,7 +12,7 @@ Pravilnik o sadrÅ¾aju i obliku obrazaca na kojima se podnose podnesci u predsteÄ
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2019-1351` (tags `pravilnik-2019-1351/<day>`; `python tools/on.py <day> pravilnik-2019-1351`).
+Act id: `pravilnik-2019-1351` (tags `pravilnik-2019-1351/<day>`; `python registry/tools/on.py <day> pravilnik-2019-1351`).
 
 ## Status
 

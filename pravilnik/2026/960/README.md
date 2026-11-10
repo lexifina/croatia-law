@@ -12,7 +12,7 @@ Pravilnik o izmjenama i dopunama Pravilnika o stjecanju i povećanju kvalificira
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2026-960` (tags `pravilnik-2026-960/<day>`; `python tools/on.py <day> pravilnik-2026-960`).
+Act id: `pravilnik-2026-960` (tags `pravilnik-2026-960/<day>`; `python registry/tools/on.py <day> pravilnik-2026-960`).
 
 ## Decisions made by hand
 

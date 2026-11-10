@@ -8,7 +8,7 @@ Odluka o izmjeni i dopuni Odluke o osnivanju Nacionalnog vijeća za zaštitu na 
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2015-1028` (tags `odluka-2015-1028/<day>`; `python tools/on.py <day> odluka-2015-1028`).
+Act id: `odluka-2015-1028` (tags `odluka-2015-1028/<day>`; `python registry/tools/on.py <day> odluka-2015-1028`).
 
 ## Decisions made by hand
 

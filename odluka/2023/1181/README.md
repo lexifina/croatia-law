@@ -8,7 +8,7 @@ Odluka o izmjeni i dopuni Odluke o razvrstavanju javnih cesta · 1 versions, fro
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2023-1181` (tags `odluka-2023-1181/<day>`; `python tools/on.py <day> odluka-2023-1181`).
+Act id: `odluka-2023-1181` (tags `odluka-2023-1181/<day>`; `python registry/tools/on.py <day> odluka-2023-1181`).
 
 ## Decisions made by hand
 

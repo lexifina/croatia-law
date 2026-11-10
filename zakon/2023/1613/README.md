@@ -21,7 +21,7 @@ Zakon o izmjenama i dopunama Zakona o porezu na dobit · 1 versions, from 2023-1
 | čl. 15 | [clanak-015.md](clanak-015.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2023-1613` (tags `zakon-2023-1613/<day>`; `python tools/on.py <day> zakon-2023-1613`).
+Act id: `zakon-2023-1613` (tags `zakon-2023-1613/<day>`; `python registry/tools/on.py <day> zakon-2023-1613`).
 
 ## Decisions made by hand
 

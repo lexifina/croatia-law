@@ -9,7 +9,7 @@ Pravilnik o dopuni Pravilnika o odori službenika jedinica lokalne samouprave ko
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2017-495` (tags `pravilnik-2017-495/<day>`; `python tools/on.py <day> pravilnik-2017-495`).
+Act id: `pravilnik-2017-495` (tags `pravilnik-2017-495/<day>`; `python registry/tools/on.py <day> pravilnik-2017-495`).
 
 ## Decisions made by hand
 

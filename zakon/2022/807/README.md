@@ -83,7 +83,7 @@ Zakon o izmjenama i dopunama Zakona o javnom bilježništvu · 1 versions, from 
 | čl. 77 | [clanak-077.md](clanak-077.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2022-807` (tags `zakon-2022-807/<day>`; `python tools/on.py <day> zakon-2022-807`).
+Act id: `zakon-2022-807` (tags `zakon-2022-807/<day>`; `python registry/tools/on.py <day> zakon-2022-807`).
 
 ## Decisions made by hand
 

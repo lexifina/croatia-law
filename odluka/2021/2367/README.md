@@ -9,7 +9,7 @@ Odluka o davanju suglasnosti na Financijski plan Hrvatskom zavodu za zdravstveno
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2021-2367` (tags `odluka-2021-2367/<day>`; `python tools/on.py <day> odluka-2021-2367`).
+Act id: `odluka-2021-2367` (tags `odluka-2021-2367/<day>`; `python registry/tools/on.py <day> odluka-2021-2367`).
 
 ## Decisions made by hand
 

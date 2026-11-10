@@ -10,7 +10,7 @@ Pravilnik o izmjenama Pravilnika o uvjetima za izbor u znanstvena zvanja · 1 ve
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2011-920` (tags `pravilnik-2011-920/<day>`; `python tools/on.py <day> pravilnik-2011-920`).
+Act id: `pravilnik-2011-920` (tags `pravilnik-2011-920/<day>`; `python registry/tools/on.py <day> pravilnik-2011-920`).
 
 ## Decisions made by hand
 

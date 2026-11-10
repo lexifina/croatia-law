@@ -15,7 +15,7 @@ Zakon o izmjenama i dopunama Zakona o ograničavanju uporabe duhanskih proizvoda
 | čl. 9 | [clanak-009.md](clanak-009.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2013-2134` (tags `zakon-2013-2134/<day>`; `python tools/on.py <day> zakon-2013-2134`).
+Act id: `zakon-2013-2134` (tags `zakon-2013-2134/<day>`; `python registry/tools/on.py <day> zakon-2013-2134`).
 
 ## Decisions made by hand
 

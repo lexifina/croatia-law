@@ -23,7 +23,7 @@ Pravilnik o određivanju službenog mjesta · 1 versions, from 2014-01-16 (lates
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2014-81` (tags `pravilnik-2014-81/<day>`; `python tools/on.py <day> pravilnik-2014-81`).
+Act id: `pravilnik-2014-81` (tags `pravilnik-2014-81/<day>`; `python registry/tools/on.py <day> pravilnik-2014-81`).
 
 ## Status
 

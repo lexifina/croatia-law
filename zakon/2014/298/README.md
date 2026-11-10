@@ -9,7 +9,7 @@ Zakon o izmjeni Zakona o učinkovitom korištenju energije u neposrednoj potroš
 | čl. 3 | [clanak-003.md](clanak-003.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2014-298` (tags `zakon-2014-298/<day>`; `python tools/on.py <day> zakon-2014-298`).
+Act id: `zakon-2014-298` (tags `zakon-2014-298/<day>`; `python registry/tools/on.py <day> zakon-2014-298`).
 
 ## Decisions made by hand
 

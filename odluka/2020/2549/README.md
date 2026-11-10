@@ -11,7 +11,7 @@ Odluka o privremenom ukidanju obveze plaćanja članarine · 1 versions, from 20
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2020-2549` (tags `odluka-2020-2549/<day>`; `python tools/on.py <day> odluka-2020-2549`).
+Act id: `odluka-2020-2549` (tags `odluka-2020-2549/<day>`; `python registry/tools/on.py <day> odluka-2020-2549`).
 
 ## Decisions made by hand
 

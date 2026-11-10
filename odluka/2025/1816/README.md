@@ -8,7 +8,7 @@ Odluka o raspisivanju prijevremenih izbora za članove Gradskog vijeća Grada Đ
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2025-1816` (tags `odluka-2025-1816/<day>`; `python tools/on.py <day> odluka-2025-1816`).
+Act id: `odluka-2025-1816` (tags `odluka-2025-1816/<day>`; `python registry/tools/on.py <day> odluka-2025-1816`).
 
 ## Decisions made by hand
 

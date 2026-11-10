@@ -8,7 +8,7 @@ Odluka o raspisivanju izbora za zastupnike u Hrvatski sabor · 1 versions, from 
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2020-1237` (tags `odluka-2020-1237/<day>`; `python tools/on.py <day> odluka-2020-1237`).
+Act id: `odluka-2020-1237` (tags `odluka-2020-1237/<day>`; `python registry/tools/on.py <day> odluka-2020-1237`).
 
 ## Status
 

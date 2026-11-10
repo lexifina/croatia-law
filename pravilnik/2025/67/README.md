@@ -12,7 +12,7 @@ Pravilnik o dopunama Pravilnika provedbi državne potpore male vrijednosti u rib
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2025-67` (tags `pravilnik-2025-67/<day>`; `python tools/on.py <day> pravilnik-2025-67`).
+Act id: `pravilnik-2025-67` (tags `pravilnik-2025-67/<day>`; `python registry/tools/on.py <day> pravilnik-2025-67`).
 
 ## Decisions made by hand
 

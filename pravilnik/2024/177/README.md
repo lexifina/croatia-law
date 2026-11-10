@@ -14,7 +14,7 @@ Pravilnik o izmjenama i dopunama Pravilnika o raspolaganju kapacitetom uzgoja tu
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2024-177` (tags `pravilnik-2024-177/<day>`; `python tools/on.py <day> pravilnik-2024-177`).
+Act id: `pravilnik-2024-177` (tags `pravilnik-2024-177/<day>`; `python registry/tools/on.py <day> pravilnik-2024-177`).
 
 ## Decisions made by hand
 

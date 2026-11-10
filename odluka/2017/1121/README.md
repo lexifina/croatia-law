@@ -8,7 +8,7 @@ Odluka o visini naknade predsjednicima, potpredsjednicima i članovima biračkih
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2017-1121` (tags `odluka-2017-1121/<day>`; `python tools/on.py <day> odluka-2017-1121`).
+Act id: `odluka-2017-1121` (tags `odluka-2017-1121/<day>`; `python registry/tools/on.py <day> odluka-2017-1121`).
 
 ## Status
 

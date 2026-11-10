@@ -5,7 +5,7 @@ Odluka o lokalnim porezima Općine Dežanovac · 2 versions, from 2024-01-01 (la
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `odluka-2023-2107` (tags `odluka-2023-2107/<day>`; `python tools/on.py <day> odluka-2023-2107`).
+Act id: `odluka-2023-2107` (tags `odluka-2023-2107/<day>`; `python registry/tools/on.py <day> odluka-2023-2107`).
 
 ## Decisions made by hand
 

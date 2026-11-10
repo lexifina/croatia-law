@@ -8,7 +8,7 @@ Odluka o dopuni Odluke o osnivanju Nacionalnog vijeća za uvođenje eura kao slu
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2019-448` (tags `odluka-2019-448/<day>`; `python tools/on.py <day> odluka-2019-448`).
+Act id: `odluka-2019-448` (tags `odluka-2019-448/<day>`; `python registry/tools/on.py <day> odluka-2019-448`).
 
 ## Decisions made by hand
 

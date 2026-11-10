@@ -22,7 +22,7 @@ Uredba o osnivanju Javne ustanove Park prirode Dinara · 1 versions, from 2026-0
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2026-293` (tags `uredba-2026-293/<day>`; `python tools/on.py <day> uredba-2026-293`).
+Act id: `uredba-2026-293` (tags `uredba-2026-293/<day>`; `python registry/tools/on.py <day> uredba-2026-293`).
 
 ## Decisions made by hand
 

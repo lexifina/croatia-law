@@ -8,7 +8,7 @@ Odluka o visini nagrade i naknade troškova rada miritelja u postupcima mirenja 
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2011-2107` (tags `odluka-2011-2107/<day>`; `python tools/on.py <day> odluka-2011-2107`).
+Act id: `odluka-2011-2107` (tags `odluka-2011-2107/<day>`; `python registry/tools/on.py <day> odluka-2011-2107`).
 
 ## Status
 

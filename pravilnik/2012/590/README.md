@@ -32,7 +32,7 @@ Pravilnik o javnoj nabavi u diplomatskim misijama i konzularnim uredima · 1 ver
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2012-590` (tags `pravilnik-2012-590/<day>`; `python tools/on.py <day> pravilnik-2012-590`).
+Act id: `pravilnik-2012-590` (tags `pravilnik-2012-590/<day>`; `python registry/tools/on.py <day> pravilnik-2012-590`).
 
 ## Status
 

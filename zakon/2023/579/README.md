@@ -12,7 +12,7 @@ Zakon o izmjenama Zakona o doprinosima · 1 versions, from 2023-04-01 (latest in
 | čl. 6 | [clanak-006.md](clanak-006.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2023-579` (tags `zakon-2023-579/<day>`; `python tools/on.py <day> zakon-2023-579`).
+Act id: `zakon-2023-579` (tags `zakon-2023-579/<day>`; `python registry/tools/on.py <day> zakon-2023-579`).
 
 ## Decisions made by hand
 

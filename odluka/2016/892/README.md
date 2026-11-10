@@ -9,7 +9,7 @@ Odluka o minimalnim financijskim standardima, kriterijima i mjerilima za financi
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2016-892` (tags `odluka-2016-892/<day>`; `python tools/on.py <day> odluka-2016-892`).
+Act id: `odluka-2016-892` (tags `odluka-2016-892/<day>`; `python registry/tools/on.py <day> odluka-2016-892`).
 
 ## Decisions made by hand
 

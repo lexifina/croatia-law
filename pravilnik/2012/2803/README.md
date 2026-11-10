@@ -9,7 +9,7 @@ Pravilnik o izmjeni Pravilnika o evidenciji uporabe poljoprivrednog zemljiÅ¡ta Â
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2012-2803` (tags `pravilnik-2012-2803/<day>`; `python tools/on.py <day> pravilnik-2012-2803`).
+Act id: `pravilnik-2012-2803` (tags `pravilnik-2012-2803/<day>`; `python registry/tools/on.py <day> pravilnik-2012-2803`).
 
 ## Decisions made by hand
 

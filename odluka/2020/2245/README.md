@@ -13,7 +13,7 @@ Odluka o određivanju i objavi prodajnih cijena prigodnoga zlatnoga i srebrnoga 
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2020-2245` (tags `odluka-2020-2245/<day>`; `python tools/on.py <day> odluka-2020-2245`).
+Act id: `odluka-2020-2245` (tags `odluka-2020-2245/<day>`; `python registry/tools/on.py <day> odluka-2020-2245`).
 
 ## Status
 

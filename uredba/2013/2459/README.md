@@ -18,7 +18,7 @@ Uredba o dodjeljivanju trajnih novčanih mjesečnih naknada osvajačima medalja 
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2013-2459` (tags `uredba-2013-2459/<day>`; `python tools/on.py <day> uredba-2013-2459`).
+Act id: `uredba-2013-2459` (tags `uredba-2013-2459/<day>`; `python registry/tools/on.py <day> uredba-2013-2459`).
 
 ## Status
 

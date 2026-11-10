@@ -10,7 +10,7 @@ Odluka o prestanku važenja Odluke o izvješćivanju o izloženosti kreditnih in
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2022-2060` (tags `odluka-2022-2060/<day>`; `python tools/on.py <day> odluka-2022-2060`).
+Act id: `odluka-2022-2060` (tags `odluka-2022-2060/<day>`; `python registry/tools/on.py <day> odluka-2022-2060`).
 
 ## Decisions made by hand
 

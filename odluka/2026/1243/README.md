@@ -8,7 +8,7 @@ Odluka o donošenju Nacionalnog plana za razvoj industrije Republike Hrvatske za
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2026-1243` (tags `odluka-2026-1243/<day>`; `python tools/on.py <day> odluka-2026-1243`).
+Act id: `odluka-2026-1243` (tags `odluka-2026-1243/<day>`; `python registry/tools/on.py <day> odluka-2026-1243`).
 
 ## Decisions made by hand
 

@@ -20,7 +20,7 @@ Pravilnik o registru izmiritelja i standardima za akreditiranje institucija za m
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2011-1323` (tags `pravilnik-2011-1323/<day>`; `python tools/on.py <day> pravilnik-2011-1323`).
+Act id: `pravilnik-2011-1323` (tags `pravilnik-2011-1323/<day>`; `python registry/tools/on.py <day> pravilnik-2011-1323`).
 
 ## Decisions made by hand
 

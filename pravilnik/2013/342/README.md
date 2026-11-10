@@ -23,7 +23,7 @@ Pravilnik o provedbi mjere potpore za organizaciju manifestacija · 1 versions, 
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2013-342` (tags `pravilnik-2013-342/<day>`; `python tools/on.py <day> pravilnik-2013-342`).
+Act id: `pravilnik-2013-342` (tags `pravilnik-2013-342/<day>`; `python registry/tools/on.py <day> pravilnik-2013-342`).
 
 ## Decisions made by hand
 

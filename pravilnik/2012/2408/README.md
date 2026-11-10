@@ -10,7 +10,7 @@ Pravilnik o izmjenama Pravilnika o popisu trećih zemalja i područja iz kojih j
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2012-2408` (tags `pravilnik-2012-2408/<day>`; `python tools/on.py <day> pravilnik-2012-2408`).
+Act id: `pravilnik-2012-2408` (tags `pravilnik-2012-2408/<day>`; `python registry/tools/on.py <day> pravilnik-2012-2408`).
 
 ## Decisions made by hand
 

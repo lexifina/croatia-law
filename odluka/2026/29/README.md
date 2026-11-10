@@ -9,7 +9,7 @@ Odluka o kriterijima i mjerilima za financiranje troškova stanovanja te iznosu 
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2026-29` (tags `odluka-2026-29/<day>`; `python tools/on.py <day> odluka-2026-29`).
+Act id: `odluka-2026-29` (tags `odluka-2026-29/<day>`; `python registry/tools/on.py <day> odluka-2026-29`).
 
 ## Decisions made by hand
 

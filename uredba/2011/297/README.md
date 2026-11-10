@@ -11,7 +11,7 @@ Uredba o računanju vremena u 2011. godini · 1 versions, from 2011-02-12 (lates
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2011-297` (tags `uredba-2011-297/<day>`; `python tools/on.py <day> uredba-2011-297`).
+Act id: `uredba-2011-297` (tags `uredba-2011-297/<day>`; `python registry/tools/on.py <day> uredba-2011-297`).
 
 ## Decisions made by hand
 

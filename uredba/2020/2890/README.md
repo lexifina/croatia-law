@@ -5,7 +5,7 @@ Uredba o načinu izračuna i visinama sastavnica za izračun posebnog poreza na 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `uredba-2020-2890` (tags `uredba-2020-2890/<day>`; `python tools/on.py <day> uredba-2020-2890`).
+Act id: `uredba-2020-2890` (tags `uredba-2020-2890/<day>`; `python registry/tools/on.py <day> uredba-2020-2890`).
 
 ## Decisions made by hand
 

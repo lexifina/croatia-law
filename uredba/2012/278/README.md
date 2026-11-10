@@ -18,7 +18,7 @@ Uredba o nadzoru nad provedbom Zakona o javnoj nabavi · 1 versions, from 2012-0
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2012-278` (tags `uredba-2012-278/<day>`; `python tools/on.py <day> uredba-2012-278`).
+Act id: `uredba-2012-278` (tags `uredba-2012-278/<day>`; `python registry/tools/on.py <day> uredba-2012-278`).
 
 ## Status
 

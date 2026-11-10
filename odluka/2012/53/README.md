@@ -8,7 +8,7 @@ Odluka o izmjeni Odluke o utvrđivanju plaća i drugih primanja predsjednika i �
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2012-53` (tags `odluka-2012-53/<day>`; `python tools/on.py <day> odluka-2012-53`).
+Act id: `odluka-2012-53` (tags `odluka-2012-53/<day>`; `python registry/tools/on.py <day> odluka-2012-53`).
 
 ## Decisions made by hand
 

@@ -13,7 +13,7 @@ Uredba o izmjenama i dopunama Uredbe o osnivanju Visokog gospodarskog učilišta
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2013-2538` (tags `uredba-2013-2538/<day>`; `python tools/on.py <day> uredba-2013-2538`).
+Act id: `uredba-2013-2538` (tags `uredba-2013-2538/<day>`; `python registry/tools/on.py <day> uredba-2013-2538`).
 
 ## Decisions made by hand
 

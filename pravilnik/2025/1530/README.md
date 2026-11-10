@@ -21,7 +21,7 @@ Pravilnik o strukturi i sadržaju godišnjih financijskih izvještaja · 1 versi
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2025-1530` (tags `pravilnik-2025-1530/<day>`; `python tools/on.py <day> pravilnik-2025-1530`).
+Act id: `pravilnik-2025-1530` (tags `pravilnik-2025-1530/<day>`; `python registry/tools/on.py <day> pravilnik-2025-1530`).
 
 ## Decisions made by hand
 

@@ -9,7 +9,7 @@ Odluka o preferencijalnoj carinskoj kvoti pri uvozu određenih poljoprivrednih p
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2013-131` (tags `odluka-2013-131/<day>`; `python tools/on.py <day> odluka-2013-131`).
+Act id: `odluka-2013-131` (tags `odluka-2013-131/<day>`; `python registry/tools/on.py <day> odluka-2013-131`).
 
 ## Decisions made by hand
 

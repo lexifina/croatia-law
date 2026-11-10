@@ -26,7 +26,7 @@ Uredba o načinu i uvjetima obavljanja traganja i spašavanja na unutarnjim voda
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2025-1825` (tags `uredba-2025-1825/<day>`; `python tools/on.py <day> uredba-2025-1825`).
+Act id: `uredba-2025-1825` (tags `uredba-2025-1825/<day>`; `python registry/tools/on.py <day> uredba-2025-1825`).
 
 ## Decisions made by hand
 

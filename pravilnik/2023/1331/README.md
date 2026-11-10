@@ -12,7 +12,7 @@ Pravilnik o izmjenama Pravilnika o provedbi intervencije 76.01. »Osiguranje pol
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2023-1331` (tags `pravilnik-2023-1331/<day>`; `python tools/on.py <day> pravilnik-2023-1331`).
+Act id: `pravilnik-2023-1331` (tags `pravilnik-2023-1331/<day>`; `python registry/tools/on.py <day> pravilnik-2023-1331`).
 
 ## Decisions made by hand
 

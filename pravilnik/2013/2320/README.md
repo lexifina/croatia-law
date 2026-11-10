@@ -14,7 +14,7 @@ Pravilnik o postupku ostvarivanja prava i iznosu troškova pogreba · 1 versions
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2013-2320` (tags `pravilnik-2013-2320/<day>`; `python tools/on.py <day> pravilnik-2013-2320`).
+Act id: `pravilnik-2013-2320` (tags `pravilnik-2013-2320/<day>`; `python registry/tools/on.py <day> pravilnik-2013-2320`).
 
 ## Status
 

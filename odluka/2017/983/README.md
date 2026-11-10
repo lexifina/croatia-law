@@ -8,7 +8,7 @@ Odluka o davanju suglasnosti na Statut Centra za profesionalnu rehabilitaciju Os
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2017-983` (tags `odluka-2017-983/<day>`; `python tools/on.py <day> odluka-2017-983`).
+Act id: `odluka-2017-983` (tags `odluka-2017-983/<day>`; `python registry/tools/on.py <day> odluka-2017-983`).
 
 ## Decisions made by hand
 

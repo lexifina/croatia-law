@@ -8,7 +8,7 @@ Odluka o određivanju pravne osobe u državnom vlasništvu ovlaštene za obavlja
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2022-205` (tags `odluka-2022-205/<day>`; `python tools/on.py <day> odluka-2022-205`).
+Act id: `odluka-2022-205` (tags `odluka-2022-205/<day>`; `python registry/tools/on.py <day> odluka-2022-205`).
 
 ## Decisions made by hand
 

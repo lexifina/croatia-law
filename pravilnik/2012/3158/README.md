@@ -10,7 +10,7 @@ Pravilnik o izmjeni Pravilnika o obračunu i naplati naknade za korištenje voda
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2012-3158` (tags `pravilnik-2012-3158/<day>`; `python tools/on.py <day> pravilnik-2012-3158`).
+Act id: `pravilnik-2012-3158` (tags `pravilnik-2012-3158/<day>`; `python registry/tools/on.py <day> pravilnik-2012-3158`).
 
 ## Decisions made by hand
 

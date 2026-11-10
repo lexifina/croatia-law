@@ -49,7 +49,7 @@ Zakon o izmjenama i dopunama Zakona o doprinosima · 1 versions, from 2011-02-17
 | čl. 43 | [clanak-043.md](clanak-043.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2011-316` (tags `zakon-2011-316/<day>`; `python tools/on.py <day> zakon-2011-316`).
+Act id: `zakon-2011-316` (tags `zakon-2011-316/<day>`; `python registry/tools/on.py <day> zakon-2011-316`).
 
 ## Decisions made by hand
 

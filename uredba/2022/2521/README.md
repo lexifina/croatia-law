@@ -12,7 +12,7 @@ Uredba o visini trošarine na energente i električnu energiju · 1 versions, fr
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2022-2521` (tags `uredba-2022-2521/<day>`; `python tools/on.py <day> uredba-2022-2521`).
+Act id: `uredba-2022-2521` (tags `uredba-2022-2521/<day>`; `python registry/tools/on.py <day> uredba-2022-2521`).
 
 ## Status
 

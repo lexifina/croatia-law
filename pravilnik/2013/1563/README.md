@@ -12,7 +12,7 @@ Pravilnik o izmjeni i dopuni Pravilnika o ovlastima i načinu rada ovlaštenih d
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2013-1563` (tags `pravilnik-2013-1563/<day>`; `python tools/on.py <day> pravilnik-2013-1563`).
+Act id: `pravilnik-2013-1563` (tags `pravilnik-2013-1563/<day>`; `python registry/tools/on.py <day> pravilnik-2013-1563`).
 
 ## Decisions made by hand
 

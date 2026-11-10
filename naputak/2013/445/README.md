@@ -11,7 +11,7 @@ Naputak o načinu provođenja mjera kontrole zdravlja životinja propisanih Nare
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `naputak-2013-445` (tags `naputak-2013-445/<day>`; `python tools/on.py <day> naputak-2013-445`).
+Act id: `naputak-2013-445` (tags `naputak-2013-445/<day>`; `python registry/tools/on.py <day> naputak-2013-445`).
 
 ## Status
 

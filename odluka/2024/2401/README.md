@@ -20,7 +20,7 @@ Odluka o načinu provedbe nadzora sprječavanja pranja novca i financiranja tero
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2024-2401` (tags `odluka-2024-2401/<day>`; `python tools/on.py <day> odluka-2024-2401`).
+Act id: `odluka-2024-2401` (tags `odluka-2024-2401/<day>`; `python registry/tools/on.py <day> odluka-2024-2401`).
 
 ## Decisions made by hand
 

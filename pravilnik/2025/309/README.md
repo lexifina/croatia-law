@@ -19,7 +19,7 @@ Pravilnik o ribolovnim mogućnostima i raspodjeli državne kvote u 2025. godini 
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2025-309` (tags `pravilnik-2025-309/<day>`; `python tools/on.py <day> pravilnik-2025-309`).
+Act id: `pravilnik-2025-309` (tags `pravilnik-2025-309/<day>`; `python registry/tools/on.py <day> pravilnik-2025-309`).
 
 ## Status
 

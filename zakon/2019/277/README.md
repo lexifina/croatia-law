@@ -99,7 +99,7 @@ Zakon o izmjenama i dopunama Zakona o održivom gospodarenju otpadom · 1 versio
 | čl. 93 | [clanak-093.md](clanak-093.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2019-277` (tags `zakon-2019-277/<day>`; `python tools/on.py <day> zakon-2019-277`).
+Act id: `zakon-2019-277` (tags `zakon-2019-277/<day>`; `python registry/tools/on.py <day> zakon-2019-277`).
 
 ## Decisions made by hand
 

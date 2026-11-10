@@ -28,7 +28,7 @@ Pravilnik o reviziji i nadzoru medicinskog vještačenja u mirovinskom osiguranj
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2015-832` (tags `pravilnik-2015-832/<day>`; `python tools/on.py <day> pravilnik-2015-832`).
+Act id: `pravilnik-2015-832` (tags `pravilnik-2015-832/<day>`; `python registry/tools/on.py <day> pravilnik-2015-832`).
 
 ## Status
 

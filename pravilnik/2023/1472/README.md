@@ -21,7 +21,7 @@ Pravilnik o podacima jedinica lokalne i područne (regionalne) samouprave · 1 v
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2023-1472` (tags `pravilnik-2023-1472/<day>`; `python tools/on.py <day> pravilnik-2023-1472`).
+Act id: `pravilnik-2023-1472` (tags `pravilnik-2023-1472/<day>`; `python registry/tools/on.py <day> pravilnik-2023-1472`).
 
 ## Status
 

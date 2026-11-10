@@ -8,7 +8,7 @@ Odluka o izmjeni Odluke o proglašenju projekata od strateškog značaja za Hrva
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2022-2244` (tags `odluka-2022-2244/<day>`; `python tools/on.py <day> odluka-2022-2244`).
+Act id: `odluka-2022-2244` (tags `odluka-2022-2244/<day>`; `python registry/tools/on.py <day> odluka-2022-2244`).
 
 ## Decisions made by hand
 

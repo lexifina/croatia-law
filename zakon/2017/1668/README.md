@@ -8,7 +8,7 @@ Zakon o izmjeni Zakona o sigurnosti i interoperabilnosti željezničkog sustava 
 | čl. 2 | [clanak-002.md](clanak-002.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2017-1668` (tags `zakon-2017-1668/<day>`; `python tools/on.py <day> zakon-2017-1668`).
+Act id: `zakon-2017-1668` (tags `zakon-2017-1668/<day>`; `python registry/tools/on.py <day> zakon-2017-1668`).
 
 ## Decisions made by hand
 

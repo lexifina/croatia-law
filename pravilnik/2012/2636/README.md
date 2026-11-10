@@ -25,7 +25,7 @@ Pravilnik o polaganju ispita iz poznavanja hrvatskoga jezika i latiničnog pisma
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2012-2636` (tags `pravilnik-2012-2636/<day>`; `python tools/on.py <day> pravilnik-2012-2636`).
+Act id: `pravilnik-2012-2636` (tags `pravilnik-2012-2636/<day>`; `python registry/tools/on.py <day> pravilnik-2012-2636`).
 
 ## Status
 

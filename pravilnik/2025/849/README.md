@@ -25,7 +25,7 @@ Pravilnik o integriranoj zaštiti bilja · 1 versions, from 2025-04-15 (latest i
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2025-849` (tags `pravilnik-2025-849/<day>`; `python tools/on.py <day> pravilnik-2025-849`).
+Act id: `pravilnik-2025-849` (tags `pravilnik-2025-849/<day>`; `python registry/tools/on.py <day> pravilnik-2025-849`).
 
 ## Decisions made by hand
 

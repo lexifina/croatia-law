@@ -9,7 +9,7 @@ Zakon o izmjeni i dopuni Zakona o izvršavanju državnog proračuna Republike Hr
 | čl. 3 | [clanak-003.md](clanak-003.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2020-884` (tags `zakon-2020-884/<day>`; `python tools/on.py <day> zakon-2020-884`).
+Act id: `zakon-2020-884` (tags `zakon-2020-884/<day>`; `python registry/tools/on.py <day> zakon-2020-884`).
 
 ## Decisions made by hand
 

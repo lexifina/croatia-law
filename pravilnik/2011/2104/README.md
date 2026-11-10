@@ -24,7 +24,7 @@ Pravilnik o likvidnosti investicijskih društava · 1 versions, from 2011-09-09 
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2011-2104` (tags `pravilnik-2011-2104/<day>`; `python tools/on.py <day> pravilnik-2011-2104`).
+Act id: `pravilnik-2011-2104` (tags `pravilnik-2011-2104/<day>`; `python registry/tools/on.py <day> pravilnik-2011-2104`).
 
 ## Status
 

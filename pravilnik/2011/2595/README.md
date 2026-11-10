@@ -11,7 +11,7 @@ Pravilnik o izmjenama i dopunama Pravilnika o stručnom ispitu te upotpunjavanju
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2011-2595` (tags `pravilnik-2011-2595/<day>`; `python tools/on.py <day> pravilnik-2011-2595`).
+Act id: `pravilnik-2011-2595` (tags `pravilnik-2011-2595/<day>`; `python registry/tools/on.py <day> pravilnik-2011-2595`).
 
 ## Decisions made by hand
 

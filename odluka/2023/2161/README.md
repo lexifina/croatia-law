@@ -8,7 +8,7 @@ Odluka o uspostavljanju državnih linija · 1 versions, from 2023-12-13 (latest 
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2023-2161` (tags `odluka-2023-2161/<day>`; `python tools/on.py <day> odluka-2023-2161`).
+Act id: `odluka-2023-2161` (tags `odluka-2023-2161/<day>`; `python registry/tools/on.py <day> odluka-2023-2161`).
 
 ## Status
 

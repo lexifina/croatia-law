@@ -29,7 +29,7 @@ Pravilnik o dozvoljenim ulaganjima i dodatnim ograničenjima ulaganja dobrovoljn
 | čl. 23 | [clanak-023.md](clanak-023.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `pravilnik-2024-2529` (tags `pravilnik-2024-2529/<day>`; `python tools/on.py <day> pravilnik-2024-2529`).
+Act id: `pravilnik-2024-2529` (tags `pravilnik-2024-2529/<day>`; `python registry/tools/on.py <day> pravilnik-2024-2529`).
 
 ## Decisions made by hand
 

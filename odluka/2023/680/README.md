@@ -8,7 +8,7 @@ Odluka o autorizaciji plovila za ribolov igluna (Xiphias gladius) u 2023. godini
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2023-680` (tags `odluka-2023-680/<day>`; `python tools/on.py <day> odluka-2023-680`).
+Act id: `odluka-2023-680` (tags `odluka-2023-680/<day>`; `python registry/tools/on.py <day> odluka-2023-680`).
 
 ## Status
 

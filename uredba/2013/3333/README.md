@@ -10,7 +10,7 @@ Uredba o izmjenama i dopuni Zakona o uskrati isplate pojedinih materijalnih prav
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2013-3333` (tags `uredba-2013-3333/<day>`; `python tools/on.py <day> uredba-2013-3333`).
+Act id: `uredba-2013-3333` (tags `uredba-2013-3333/<day>`; `python registry/tools/on.py <day> uredba-2013-3333`).
 
 ## Decisions made by hand
 

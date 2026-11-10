@@ -8,7 +8,7 @@ Odluka o obustavi postupka sanacije Opće županijske bolnice Vinkovci · 1 vers
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2016-907` (tags `odluka-2016-907/<day>`; `python tools/on.py <day> odluka-2016-907`).
+Act id: `odluka-2016-907` (tags `odluka-2016-907/<day>`; `python registry/tools/on.py <day> odluka-2016-907`).
 
 ## Decisions made by hand
 

@@ -8,7 +8,7 @@ Odluka o proširenju primjene Kolektivnog ugovora o izmjenama i dopunama Kolekti
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2025-429` (tags `odluka-2025-429/<day>`; `python tools/on.py <day> odluka-2025-429`).
+Act id: `odluka-2025-429` (tags `odluka-2025-429/<day>`; `python registry/tools/on.py <day> odluka-2025-429`).
 
 ## Status
 

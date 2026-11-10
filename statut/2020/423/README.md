@@ -45,7 +45,7 @@ Izmjene i dopune Statuta Hrvatske komore inženjera strojarstva · 1 versions, f
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `statut-2020-423` (tags `statut-2020-423/<day>`; `python tools/on.py <day> statut-2020-423`).
+Act id: `statut-2020-423` (tags `statut-2020-423/<day>`; `python registry/tools/on.py <day> statut-2020-423`).
 
 ## Decisions made by hand
 

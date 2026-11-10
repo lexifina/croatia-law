@@ -9,7 +9,7 @@ Odluka o davanju suglasnosti na Financijski plan Agencije za upravljanje državn
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2012-626` (tags `odluka-2012-626/<day>`; `python tools/on.py <day> odluka-2012-626`).
+Act id: `odluka-2012-626` (tags `odluka-2012-626/<day>`; `python registry/tools/on.py <day> odluka-2012-626`).
 
 ## Decisions made by hand
 

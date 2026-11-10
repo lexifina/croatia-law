@@ -7,7 +7,7 @@ Odluka Agencije za elektroničke medije klasa: UP/I-614-03/23-02/0009, urbroj: 1
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 
-Act id: `odluka-2024-292` (tags `odluka-2024-292/<day>`; `python tools/on.py <day> odluka-2024-292`).
+Act id: `odluka-2024-292` (tags `odluka-2024-292/<day>`; `python registry/tools/on.py <day> odluka-2024-292`).
 
 ## Decisions made by hand
 

@@ -8,7 +8,7 @@ Odluka o kriterijima i načinu financiranja, odnosno sufinanciranja troškova pr
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2025-1547` (tags `odluka-2025-1547/<day>`; `python tools/on.py <day> odluka-2025-1547`).
+Act id: `odluka-2025-1547` (tags `odluka-2025-1547/<day>`; `python registry/tools/on.py <day> odluka-2025-1547`).
 
 ## Decisions made by hand
 

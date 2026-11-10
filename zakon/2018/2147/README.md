@@ -11,7 +11,7 @@ Zakon o izmjenama Zakona o zaštiti biljnih sorti · 1 versions, from 2019-01-01
 | čl. 5 | [clanak-005.md](clanak-005.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2018-2147` (tags `zakon-2018-2147/<day>`; `python tools/on.py <day> zakon-2018-2147`).
+Act id: `zakon-2018-2147` (tags `zakon-2018-2147/<day>`; `python registry/tools/on.py <day> zakon-2018-2147`).
 
 ## Decisions made by hand
 

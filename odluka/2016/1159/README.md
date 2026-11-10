@@ -8,7 +8,7 @@ Odluka o postavljanju Ivana Jurića za izvanrednog i opunomoćenog veleposlanika
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2016-1159` (tags `odluka-2016-1159/<day>`; `python tools/on.py <day> odluka-2016-1159`).
+Act id: `odluka-2016-1159` (tags `odluka-2016-1159/<day>`; `python registry/tools/on.py <day> odluka-2016-1159`).
 
 ## Decisions made by hand
 

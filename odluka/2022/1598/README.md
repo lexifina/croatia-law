@@ -8,7 +8,7 @@ Odluka o naknadi za organiziranje tržišta plina · 1 versions, from 2022-10-01
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2022-1598` (tags `odluka-2022-1598/<day>`; `python tools/on.py <day> odluka-2022-1598`).
+Act id: `odluka-2022-1598` (tags `odluka-2022-1598/<day>`; `python registry/tools/on.py <day> odluka-2022-1598`).
 
 ## Decisions made by hand
 

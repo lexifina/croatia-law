@@ -14,7 +14,7 @@ Odluka o prirezu porezu Općine Vladislavci · 1 versions, from 2013-10-01 (late
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2013-2524` (tags `odluka-2013-2524/<day>`; `python tools/on.py <day> odluka-2013-2524`).
+Act id: `odluka-2013-2524` (tags `odluka-2013-2524/<day>`; `python registry/tools/on.py <day> odluka-2013-2524`).
 
 ## Decisions made by hand
 

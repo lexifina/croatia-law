@@ -19,7 +19,7 @@ Pravilnik o državnoj nagradi za volontiranje · 1 versions, from 2021-10-16 (la
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2021-1921` (tags `pravilnik-2021-1921/<day>`; `python tools/on.py <day> pravilnik-2021-1921`).
+Act id: `pravilnik-2021-1921` (tags `pravilnik-2021-1921/<day>`; `python registry/tools/on.py <day> pravilnik-2021-1921`).
 
 ## Decisions made by hand
 

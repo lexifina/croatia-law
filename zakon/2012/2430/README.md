@@ -13,7 +13,7 @@ Zakon o izmjenama i dopunama Zakona o suzbijanju diskriminacije · 1 versions, f
 | čl. 7 | [clanak-007.md](clanak-007.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2012-2430` (tags `zakon-2012-2430/<day>`; `python tools/on.py <day> zakon-2012-2430`).
+Act id: `zakon-2012-2430` (tags `zakon-2012-2430/<day>`; `python registry/tools/on.py <day> zakon-2012-2430`).
 
 ## Decisions made by hand
 

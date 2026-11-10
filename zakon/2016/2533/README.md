@@ -23,7 +23,7 @@ Zakon o izmjenama i dopunama Zakona o poreznom savjetništvu · 1 versions, from
 | čl. 17 | [clanak-017.md](clanak-017.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2016-2533` (tags `zakon-2016-2533/<day>`; `python tools/on.py <day> zakon-2016-2533`).
+Act id: `zakon-2016-2533` (tags `zakon-2016-2533/<day>`; `python registry/tools/on.py <day> zakon-2016-2533`).
 
 ## Decisions made by hand
 

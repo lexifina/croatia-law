@@ -47,7 +47,7 @@ Uredba o prodaji dionica i poslovnih udjela u trgovačkim društvima u vlasništ
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2011-1415` (tags `uredba-2011-1415/<day>`; `python tools/on.py <day> uredba-2011-1415`).
+Act id: `uredba-2011-1415` (tags `uredba-2011-1415/<day>`; `python registry/tools/on.py <day> uredba-2011-1415`).
 
 ## Status
 

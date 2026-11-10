@@ -10,7 +10,7 @@ Uredba o izmjeni Zakona o jedinstvenom tijelu vještačenja · 1 versions, from 
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2015-1828` (tags `uredba-2015-1828/<day>`; `python tools/on.py <day> uredba-2015-1828`).
+Act id: `uredba-2015-1828` (tags `uredba-2015-1828/<day>`; `python registry/tools/on.py <day> uredba-2015-1828`).
 
 ## Decisions made by hand
 

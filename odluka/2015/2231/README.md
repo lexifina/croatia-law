@@ -8,7 +8,7 @@ Odluka o postavljanju počasnog konzula Republike Hrvatske u Republici Kazahstan
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2015-2231` (tags `odluka-2015-2231/<day>`; `python tools/on.py <day> odluka-2015-2231`).
+Act id: `odluka-2015-2231` (tags `odluka-2015-2231/<day>`; `python registry/tools/on.py <day> odluka-2015-2231`).
 
 ## Decisions made by hand
 

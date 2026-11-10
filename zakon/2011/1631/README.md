@@ -31,7 +31,7 @@ Zakon o izmjenama i dopunama Zakona o pravu na pristup informacijama · 1 versio
 | čl. 25 | [clanak-025.md](clanak-025.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2011-1631` (tags `zakon-2011-1631/<day>`; `python tools/on.py <day> zakon-2011-1631`).
+Act id: `zakon-2011-1631` (tags `zakon-2011-1631/<day>`; `python registry/tools/on.py <day> zakon-2011-1631`).
 
 ## Decisions made by hand
 

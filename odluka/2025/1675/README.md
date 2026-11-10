@@ -9,7 +9,7 @@ Odluka o usvajanju Programa Mali zajmovi za industrijsku tranziciju · 1 version
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2025-1675` (tags `odluka-2025-1675/<day>`; `python tools/on.py <day> odluka-2025-1675`).
+Act id: `odluka-2025-1675` (tags `odluka-2025-1675/<day>`; `python registry/tools/on.py <day> odluka-2025-1675`).
 
 ## Decisions made by hand
 

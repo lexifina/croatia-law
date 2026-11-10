@@ -50,7 +50,7 @@ Pravilnik o obveznim evidencijama za obračun naknade od priređivanja igara na 
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2015-185` (tags `pravilnik-2015-185/<day>`; `python tools/on.py <day> pravilnik-2015-185`).
+Act id: `pravilnik-2015-185` (tags `pravilnik-2015-185/<day>`; `python registry/tools/on.py <day> pravilnik-2015-185`).
 
 ## Status
 

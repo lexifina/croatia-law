@@ -24,7 +24,7 @@ Pravilnik o državnoj nagradi za humanitarni rad · 1 versions, from 2011-12-22 
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2011-2916` (tags `pravilnik-2011-2916/<day>`; `python tools/on.py <day> pravilnik-2011-2916`).
+Act id: `pravilnik-2011-2916` (tags `pravilnik-2011-2916/<day>`; `python registry/tools/on.py <day> pravilnik-2011-2916`).
 
 ## Status
 

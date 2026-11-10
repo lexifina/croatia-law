@@ -9,7 +9,7 @@ Odluka o izmjeni i dopuni Odluke o standardima i normativima prava na zdravstven
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2013-714` (tags `odluka-2013-714/<day>`; `python tools/on.py <day> odluka-2013-714`).
+Act id: `odluka-2013-714` (tags `odluka-2013-714/<day>`; `python registry/tools/on.py <day> odluka-2013-714`).
 
 ## Decisions made by hand
 

@@ -9,7 +9,7 @@ Odluka o sadržaju obrazaca o podacima o posebnim savjetnicima i članovima savj
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2022-1435` (tags `odluka-2022-1435/<day>`; `python tools/on.py <day> odluka-2022-1435`).
+Act id: `odluka-2022-1435` (tags `odluka-2022-1435/<day>`; `python registry/tools/on.py <day> odluka-2022-1435`).
 
 ## Decisions made by hand
 

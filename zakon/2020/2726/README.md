@@ -45,7 +45,7 @@ Zakon o izmjenama i dopunama Zakona o eksplozivnim tvarima te proizvodnji i prom
 | čl. 39 | [clanak-039.md](clanak-039.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2020-2726` (tags `zakon-2020-2726/<day>`; `python tools/on.py <day> zakon-2020-2726`).
+Act id: `zakon-2020-2726` (tags `zakon-2020-2726/<day>`; `python registry/tools/on.py <day> zakon-2020-2726`).
 
 ## Decisions made by hand
 

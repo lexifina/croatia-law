@@ -17,7 +17,7 @@ Zakon o izmjenama i dopuni Zakona o ugostiteljskoj djelatnosti · 1 versions, fr
 | čl. 11 | [clanak-011.md](clanak-011.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2014-512` (tags `zakon-2014-512/<day>`; `python tools/on.py <day> zakon-2014-512`).
+Act id: `zakon-2014-512` (tags `zakon-2014-512/<day>`; `python registry/tools/on.py <day> zakon-2014-512`).
 
 ## Decisions made by hand
 

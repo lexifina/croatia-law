@@ -16,7 +16,7 @@ Pravilnik o izmjenama i dopunama Pravilnika o sigurnosti pomorske plovidbe u unu
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2014-2650` (tags `pravilnik-2014-2650/<day>`; `python tools/on.py <day> pravilnik-2014-2650`).
+Act id: `pravilnik-2014-2650` (tags `pravilnik-2014-2650/<day>`; `python registry/tools/on.py <day> pravilnik-2014-2650`).
 
 ## Decisions made by hand
 

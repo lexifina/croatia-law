@@ -21,7 +21,7 @@ Pravilnik o sadržaju, načinu i roku dostave statističkih podataka o privremen
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2018-1895` (tags `pravilnik-2018-1895/<day>`; `python tools/on.py <day> pravilnik-2018-1895`).
+Act id: `pravilnik-2018-1895` (tags `pravilnik-2018-1895/<day>`; `python registry/tools/on.py <day> pravilnik-2018-1895`).
 
 ## Decisions made by hand
 

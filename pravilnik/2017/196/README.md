@@ -9,7 +9,7 @@ Pravilnik o izmjeni Pravilnika o provedbi Podmjere 6.1. »Potpora za pokretanje 
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2017-196` (tags `pravilnik-2017-196/<day>`; `python tools/on.py <day> pravilnik-2017-196`).
+Act id: `pravilnik-2017-196` (tags `pravilnik-2017-196/<day>`; `python registry/tools/on.py <day> pravilnik-2017-196`).
 
 ## Decisions made by hand
 

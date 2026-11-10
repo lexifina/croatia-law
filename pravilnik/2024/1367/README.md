@@ -23,7 +23,7 @@ Pravilnik o tržišnim standardima za jaja · 1 versions, from 2024-07-13 (lates
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2024-1367` (tags `pravilnik-2024-1367/<day>`; `python tools/on.py <day> pravilnik-2024-1367`).
+Act id: `pravilnik-2024-1367` (tags `pravilnik-2024-1367/<day>`; `python registry/tools/on.py <day> pravilnik-2024-1367`).
 
 ## Decisions made by hand
 

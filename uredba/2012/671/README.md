@@ -65,7 +65,7 @@ Uredba o unutarnjem ustrojstvu Ministarstva uprave · 1 versions, from 2012-03-0
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2012-671` (tags `uredba-2012-671/<day>`; `python tools/on.py <day> uredba-2012-671`).
+Act id: `uredba-2012-671` (tags `uredba-2012-671/<day>`; `python registry/tools/on.py <day> uredba-2012-671`).
 
 ## Status
 

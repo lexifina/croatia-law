@@ -252,7 +252,7 @@ Uredba o unutarnjem ustrojstvu Ministarstva poljoprivrede · 1 versions, from 20
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2017-875` (tags `uredba-2017-875/<day>`; `python tools/on.py <day> uredba-2017-875`).
+Act id: `uredba-2017-875` (tags `uredba-2017-875/<day>`; `python registry/tools/on.py <day> uredba-2017-875`).
 
 ## Status
 

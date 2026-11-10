@@ -8,7 +8,7 @@ Odluka o prestanku važenja Odluke o sigurnosnoj mjeri privremene zabrane ulaska
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2022-55` (tags `odluka-2022-55/<day>`; `python tools/on.py <day> odluka-2022-55`).
+Act id: `odluka-2022-55` (tags `odluka-2022-55/<day>`; `python registry/tools/on.py <day> odluka-2022-55`).
 
 ## Decisions made by hand
 

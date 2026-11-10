@@ -44,7 +44,7 @@ Zakon o izmjenama i dopunama Zakona o proračunu · 1 versions, from 2015-02-14 
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 
-Act id: `zakon-2015-277` (tags `zakon-2015-277/<day>`; `python tools/on.py <day> zakon-2015-277`).
+Act id: `zakon-2015-277` (tags `zakon-2015-277/<day>`; `python registry/tools/on.py <day> zakon-2015-277`).
 
 ## Decisions made by hand
 

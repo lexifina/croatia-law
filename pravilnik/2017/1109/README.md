@@ -12,7 +12,7 @@ Pravilnik o izmjenama i dopunama Pravilnika o elementima i kriterijima za izbor 
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2017-1109` (tags `pravilnik-2017-1109/<day>`; `python tools/on.py <day> pravilnik-2017-1109`).
+Act id: `pravilnik-2017-1109` (tags `pravilnik-2017-1109/<day>`; `python registry/tools/on.py <day> pravilnik-2017-1109`).
 
 ## Decisions made by hand
 

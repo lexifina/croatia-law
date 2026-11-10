@@ -8,7 +8,7 @@ Odluka o osnivanju Nacionalnog vijeća za digitalnu transformaciju · 1 versions
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2023-374` (tags `odluka-2023-374/<day>`; `python tools/on.py <day> odluka-2023-374`).
+Act id: `odluka-2023-374` (tags `odluka-2023-374/<day>`; `python registry/tools/on.py <day> odluka-2023-374`).
 
 ## Status
 

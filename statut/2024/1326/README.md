@@ -63,7 +63,7 @@ Statut Hrvatske revizorske komore · 1 versions, from 2024-07-06 (latest in forc
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `statut-2024-1326` (tags `statut-2024-1326/<day>`; `python tools/on.py <day> statut-2024-1326`).
+Act id: `statut-2024-1326` (tags `statut-2024-1326/<day>`; `python registry/tools/on.py <day> statut-2024-1326`).
 
 ## Decisions made by hand
 

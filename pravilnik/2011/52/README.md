@@ -13,7 +13,7 @@ Pravilnik o popisu trećih zemalja i područja iz kojih je dozvoljen uvoz školj
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2011-52` (tags `pravilnik-2011-52/<day>`; `python tools/on.py <day> pravilnik-2011-52`).
+Act id: `pravilnik-2011-52` (tags `pravilnik-2011-52/<day>`; `python registry/tools/on.py <day> pravilnik-2011-52`).
 
 ## Decisions made by hand
 

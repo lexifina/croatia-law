@@ -8,7 +8,7 @@ Odluka o katastarskoj izmjeri na području Grada Omiša za dio katastarske opći
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2025-1619` (tags `odluka-2025-1619/<day>`; `python tools/on.py <day> odluka-2025-1619`).
+Act id: `odluka-2025-1619` (tags `odluka-2025-1619/<day>`; `python registry/tools/on.py <day> odluka-2025-1619`).
 
 ## Decisions made by hand
 

@@ -16,7 +16,7 @@ Pravilnik o mlijeku i mliječnim proizvodima · 1 versions, from 2017-07-13 (lat
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2017-1470` (tags `pravilnik-2017-1470/<day>`; `python tools/on.py <day> pravilnik-2017-1470`).
+Act id: `pravilnik-2017-1470` (tags `pravilnik-2017-1470/<day>`; `python registry/tools/on.py <day> pravilnik-2017-1470`).
 
 ## Decisions made by hand
 

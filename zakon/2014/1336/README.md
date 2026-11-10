@@ -28,7 +28,7 @@ Zakon o izmjenama i dopunama Zakona o elektroničkim komunikacijama · 1 version
 | čl. 22 | [clanak-022.md](clanak-022.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2014-1336` (tags `zakon-2014-1336/<day>`; `python tools/on.py <day> zakon-2014-1336`).
+Act id: `zakon-2014-1336` (tags `zakon-2014-1336/<day>`; `python registry/tools/on.py <day> zakon-2014-1336`).
 
 ## Decisions made by hand
 

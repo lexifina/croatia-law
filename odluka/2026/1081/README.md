@@ -8,7 +8,7 @@ Odluka o osnivanju Konzulata Republike Hrvatske u Kanadi, sa sjedištem u Montre
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2026-1081` (tags `odluka-2026-1081/<day>`; `python tools/on.py <day> odluka-2026-1081`).
+Act id: `odluka-2026-1081` (tags `odluka-2026-1081/<day>`; `python registry/tools/on.py <day> odluka-2026-1081`).
 
 ## Decisions made by hand
 

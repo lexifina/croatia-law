@@ -8,7 +8,7 @@ Odluka o početku rada Područnog carinskog ureda Zagreb · 1 versions, from 201
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2013-1922` (tags `odluka-2013-1922/<day>`; `python tools/on.py <day> odluka-2013-1922`).
+Act id: `odluka-2013-1922` (tags `odluka-2013-1922/<day>`; `python registry/tools/on.py <day> odluka-2013-1922`).
 
 ## Decisions made by hand
 

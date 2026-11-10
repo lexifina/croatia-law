@@ -5,7 +5,7 @@ Odluka o tablici o prosječnim potrebama maloljetnog djeteta · 2 versions, from
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `odluka-2023-823` (tags `odluka-2023-823/<day>`; `python tools/on.py <day> odluka-2023-823`).
+Act id: `odluka-2023-823` (tags `odluka-2023-823/<day>`; `python registry/tools/on.py <day> odluka-2023-823`).
 
 ## Decisions made by hand
 

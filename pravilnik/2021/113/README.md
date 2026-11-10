@@ -22,7 +22,7 @@ Pravilnik o vatrogasnoj tehnici · 1 versions, from 2021-01-28 (latest in force:
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2021-113` (tags `pravilnik-2021-113/<day>`; `python tools/on.py <day> pravilnik-2021-113`).
+Act id: `pravilnik-2021-113` (tags `pravilnik-2021-113/<day>`; `python registry/tools/on.py <day> pravilnik-2021-113`).
 
 ## Decisions made by hand
 

@@ -60,7 +60,7 @@ Pravilnik o razvrstavanju i kategorizaciji ugostiteljskih objekata iz skupine os
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2016-1410` (tags `pravilnik-2016-1410/<day>`; `python tools/on.py <day> pravilnik-2016-1410`).
+Act id: `pravilnik-2016-1410` (tags `pravilnik-2016-1410/<day>`; `python registry/tools/on.py <day> pravilnik-2016-1410`).
 
 ## Status
 

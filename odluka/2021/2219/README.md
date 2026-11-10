@@ -8,7 +8,7 @@ Odluka o upućivanju pripadnika Oružanih snaga Republike Hrvatske na dužnosti 
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2021-2219` (tags `odluka-2021-2219/<day>`; `python tools/on.py <day> odluka-2021-2219`).
+Act id: `odluka-2021-2219` (tags `odluka-2021-2219/<day>`; `python registry/tools/on.py <day> odluka-2021-2219`).
 
 ## Status
 

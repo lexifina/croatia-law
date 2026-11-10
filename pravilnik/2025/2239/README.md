@@ -23,7 +23,7 @@ Pravilnik o vrsti, načinu i dinamici dostave podataka o lijekovima · 1 version
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2025-2239` (tags `pravilnik-2025-2239/<day>`; `python tools/on.py <day> pravilnik-2025-2239`).
+Act id: `pravilnik-2025-2239` (tags `pravilnik-2025-2239/<day>`; `python registry/tools/on.py <day> pravilnik-2025-2239`).
 
 ## Decisions made by hand
 

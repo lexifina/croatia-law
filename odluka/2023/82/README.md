@@ -8,7 +8,7 @@ Odluka o izmjenama Odluke o izravnim mjerama kontrole cijena određenih prehramb
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2023-82` (tags `odluka-2023-82/<day>`; `python tools/on.py <day> odluka-2023-82`).
+Act id: `odluka-2023-82` (tags `odluka-2023-82/<day>`; `python registry/tools/on.py <day> odluka-2023-82`).
 
 ## Decisions made by hand
 

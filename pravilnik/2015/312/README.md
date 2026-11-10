@@ -12,7 +12,7 @@ Pravilnik o izmjeni i dopuni Pravilnika o Registru objekata leasinga · 1 versio
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2015-312` (tags `pravilnik-2015-312/<day>`; `python tools/on.py <day> pravilnik-2015-312`).
+Act id: `pravilnik-2015-312` (tags `pravilnik-2015-312/<day>`; `python registry/tools/on.py <day> pravilnik-2015-312`).
 
 ## Decisions made by hand
 

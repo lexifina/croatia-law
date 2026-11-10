@@ -26,7 +26,7 @@ Pravilnik o ovlašćivanju stručnih tehničkih servisa za obavljanje poslova ra
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2018-775` (tags `pravilnik-2018-775/<day>`; `python tools/on.py <day> pravilnik-2018-775`).
+Act id: `pravilnik-2018-775` (tags `pravilnik-2018-775/<day>`; `python registry/tools/on.py <day> pravilnik-2018-775`).
 
 ## Status
 

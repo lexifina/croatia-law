@@ -9,7 +9,7 @@ Pravilnik o izmjenama Pravilnika o provedbi Sheme školskog voća · 1 versions,
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2013-2242` (tags `pravilnik-2013-2242/<day>`; `python tools/on.py <day> pravilnik-2013-2242`).
+Act id: `pravilnik-2013-2242` (tags `pravilnik-2013-2242/<day>`; `python registry/tools/on.py <day> pravilnik-2013-2242`).
 
 ## Decisions made by hand
 

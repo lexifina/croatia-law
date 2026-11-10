@@ -5,7 +5,7 @@ Pravilnik o sustavu obveze energetske učinkovitosti · 2 versions, from 2019-05
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `pravilnik-2019-847` (tags `pravilnik-2019-847/<day>`; `python tools/on.py <day> pravilnik-2019-847`).
+Act id: `pravilnik-2019-847` (tags `pravilnik-2019-847/<day>`; `python registry/tools/on.py <day> pravilnik-2019-847`).
 
 ## Decisions made by hand
 

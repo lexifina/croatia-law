@@ -8,7 +8,7 @@ Odluka o izmjeni i dopunama Odluke o osnivanju Vijeća za domovinsku sigurnost P
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2016-2634` (tags `odluka-2016-2634/<day>`; `python tools/on.py <day> odluka-2016-2634`).
+Act id: `odluka-2016-2634` (tags `odluka-2016-2634/<day>`; `python registry/tools/on.py <day> odluka-2016-2634`).
 
 ## Decisions made by hand
 

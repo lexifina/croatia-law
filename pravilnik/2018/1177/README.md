@@ -12,7 +12,7 @@ Pravilnik o izmjenama i dopunama Pravilnika o unutarnjem redu željezničkog sus
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2018-1177` (tags `pravilnik-2018-1177/<day>`; `python tools/on.py <day> pravilnik-2018-1177`).
+Act id: `pravilnik-2018-1177` (tags `pravilnik-2018-1177/<day>`; `python registry/tools/on.py <day> pravilnik-2018-1177`).
 
 ## Decisions made by hand
 

@@ -11,7 +11,7 @@ Zakon o izmjenama i dopuni Zakona o materijalima i predmetima koji dolaze u nepo
 | čl. 5 | [clanak-005.md](clanak-005.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2014-729` (tags `zakon-2014-729/<day>`; `python tools/on.py <day> zakon-2014-729`).
+Act id: `zakon-2014-729` (tags `zakon-2014-729/<day>`; `python registry/tools/on.py <day> zakon-2014-729`).
 
 ## Decisions made by hand
 

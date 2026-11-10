@@ -10,7 +10,7 @@ Odluka o izmjenama i dopunama Odluke o utvrđivanju Dopunske liste lijekova Hrva
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2015-340` (tags `odluka-2015-340/<day>`; `python tools/on.py <day> odluka-2015-340`).
+Act id: `odluka-2015-340` (tags `odluka-2015-340/<day>`; `python registry/tools/on.py <day> odluka-2015-340`).
 
 ## Status
 

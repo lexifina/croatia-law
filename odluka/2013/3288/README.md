@@ -9,7 +9,7 @@ Odluka o najvišem postotku naknade banke skrbnika za 2014. godinu · 1 versions
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2013-3288` (tags `odluka-2013-3288/<day>`; `python tools/on.py <day> odluka-2013-3288`).
+Act id: `odluka-2013-3288` (tags `odluka-2013-3288/<day>`; `python registry/tools/on.py <day> odluka-2013-3288`).
 
 ## Decisions made by hand
 

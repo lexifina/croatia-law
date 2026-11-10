@@ -9,7 +9,7 @@ Pravilnik o izmjeni Pravilnika o kriterijima za određivanje namjene pojedinog d
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2012-2486` (tags `pravilnik-2012-2486/<day>`; `python tools/on.py <day> pravilnik-2012-2486`).
+Act id: `pravilnik-2012-2486` (tags `pravilnik-2012-2486/<day>`; `python registry/tools/on.py <day> pravilnik-2012-2486`).
 
 ## Decisions made by hand
 

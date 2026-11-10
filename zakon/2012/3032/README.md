@@ -22,7 +22,7 @@ Zakon o izmjenama i dopunama Zakona o odgovornosti pravnih osoba za kaznena djel
 | čl. 16 | [clanak-016.md](clanak-016.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2012-3032` (tags `zakon-2012-3032/<day>`; `python tools/on.py <day> zakon-2012-3032`).
+Act id: `zakon-2012-3032` (tags `zakon-2012-3032/<day>`; `python registry/tools/on.py <day> zakon-2012-3032`).
 
 ## Decisions made by hand
 

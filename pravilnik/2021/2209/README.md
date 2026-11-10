@@ -11,7 +11,7 @@ Pravilnik o dopunama Pravilnika o uvjetima i načinu dodjeljivanja sredstava Fon
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2021-2209` (tags `pravilnik-2021-2209/<day>`; `python tools/on.py <day> pravilnik-2021-2209`).
+Act id: `pravilnik-2021-2209` (tags `pravilnik-2021-2209/<day>`; `python registry/tools/on.py <day> pravilnik-2021-2209`).
 
 ## Decisions made by hand
 

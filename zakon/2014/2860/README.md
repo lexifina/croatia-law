@@ -19,7 +19,7 @@ Zakon o izmjenama i dopunama Zakona o strateškim investicijskim projektima Repu
 | čl. 13 | [clanak-013.md](clanak-013.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2014-2860` (tags `zakon-2014-2860/<day>`; `python tools/on.py <day> zakon-2014-2860`).
+Act id: `zakon-2014-2860` (tags `zakon-2014-2860/<day>`; `python registry/tools/on.py <day> zakon-2014-2860`).
 
 ## Decisions made by hand
 

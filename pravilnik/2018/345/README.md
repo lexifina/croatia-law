@@ -5,7 +5,7 @@ Pravilnik o izboru i načinu ostvarivanja prava osoba koje pružaju njegu i pomo
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `pravilnik-2018-345` (tags `pravilnik-2018-345/<day>`; `python tools/on.py <day> pravilnik-2018-345`).
+Act id: `pravilnik-2018-345` (tags `pravilnik-2018-345/<day>`; `python registry/tools/on.py <day> pravilnik-2018-345`).
 
 ## Decisions made by hand
 

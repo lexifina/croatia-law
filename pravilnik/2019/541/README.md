@@ -30,7 +30,7 @@ Pravilnik o udjelima AIF-ova · 1 versions, from 2019-03-23 (latest in force: 20
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2019-541` (tags `pravilnik-2019-541/<day>`; `python tools/on.py <day> pravilnik-2019-541`).
+Act id: `pravilnik-2019-541` (tags `pravilnik-2019-541/<day>`; `python registry/tools/on.py <day> pravilnik-2019-541`).
 
 ## Status
 

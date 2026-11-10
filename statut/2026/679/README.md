@@ -23,7 +23,7 @@ Statut političke stanke Alternativa za Hrvatsku · 1 versions, from 2026-03-31 
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `statut-2026-679` (tags `statut-2026-679/<day>`; `python tools/on.py <day> statut-2026-679`).
+Act id: `statut-2026-679` (tags `statut-2026-679/<day>`; `python registry/tools/on.py <day> statut-2026-679`).
 
 ## Decisions made by hand
 

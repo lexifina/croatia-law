@@ -17,7 +17,7 @@ Naputak o načinu pečaćenja kada se rješenje turističkog inspektora izvršav
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `naputak-2014-849` (tags `naputak-2014-849/<day>`; `python tools/on.py <day> naputak-2014-849`).
+Act id: `naputak-2014-849` (tags `naputak-2014-849/<day>`; `python registry/tools/on.py <day> naputak-2014-849`).
 
 ## Status
 

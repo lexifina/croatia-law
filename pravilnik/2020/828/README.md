@@ -23,7 +23,7 @@ Pravilnik o izmjenama i dopunama Pravilnika o stavljanju na tržište reprodukci
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2020-828` (tags `pravilnik-2020-828/<day>`; `python tools/on.py <day> pravilnik-2020-828`).
+Act id: `pravilnik-2020-828` (tags `pravilnik-2020-828/<day>`; `python registry/tools/on.py <day> pravilnik-2020-828`).
 
 ## Decisions made by hand
 

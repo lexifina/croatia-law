@@ -9,7 +9,7 @@ Odluka o plaći rektora i prorektora javnih sveučilišta · 1 versions, from 20
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2013-2409` (tags `odluka-2013-2409/<day>`; `python tools/on.py <day> odluka-2013-2409`).
+Act id: `odluka-2013-2409` (tags `odluka-2013-2409/<day>`; `python registry/tools/on.py <day> odluka-2013-2409`).
 
 ## Status
 

@@ -18,7 +18,7 @@ Zakon o izmjenama i dopunama Zakona o zastupanju u području prava industrijskog
 | čl. 12 | [clanak-012.md](clanak-012.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2025-162` (tags `zakon-2025-162/<day>`; `python tools/on.py <day> zakon-2025-162`).
+Act id: `zakon-2025-162` (tags `zakon-2025-162/<day>`; `python registry/tools/on.py <day> zakon-2025-162`).
 
 ## Decisions made by hand
 

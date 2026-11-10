@@ -27,7 +27,7 @@ Pravilnik o načinu provedbe unutarnje kontrole i nadzora rada službenika i ust
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2011-2828` (tags `pravilnik-2011-2828/<day>`; `python tools/on.py <day> pravilnik-2011-2828`).
+Act id: `pravilnik-2011-2828` (tags `pravilnik-2011-2828/<day>`; `python registry/tools/on.py <day> pravilnik-2011-2828`).
 
 ## Status
 

@@ -32,7 +32,7 @@ Pravilnik o uvjetima, kriterijima i načinu dodjele potpore u okviru mjere II.9.
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2021-680` (tags `pravilnik-2021-680/<day>`; `python tools/on.py <day> pravilnik-2021-680`).
+Act id: `pravilnik-2021-680` (tags `pravilnik-2021-680/<day>`; `python registry/tools/on.py <day> pravilnik-2021-680`).
 
 ## Decisions made by hand
 

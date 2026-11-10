@@ -12,7 +12,7 @@ Pravilnik o izmjenama i dopuni Pravilnika o specijalističkom usavršavanju medi
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2012-797` (tags `pravilnik-2012-797/<day>`; `python tools/on.py <day> pravilnik-2012-797`).
+Act id: `pravilnik-2012-797` (tags `pravilnik-2012-797/<day>`; `python registry/tools/on.py <day> pravilnik-2012-797`).
 
 ## Decisions made by hand
 

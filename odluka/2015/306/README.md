@@ -8,7 +8,7 @@ Odluka o izmjenama Odluke o minimalno potrebnim deviznim potraživanjima · 1 ve
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2015-306` (tags `odluka-2015-306/<day>`; `python tools/on.py <day> odluka-2015-306`).
+Act id: `odluka-2015-306` (tags `odluka-2015-306/<day>`; `python registry/tools/on.py <day> odluka-2015-306`).
 
 ## Decisions made by hand
 

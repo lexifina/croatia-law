@@ -16,7 +16,7 @@ Pravilnik o mjernim jedinicama · 1 versions, from 2013-01-04 (latest in force: 
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2012-3107` (tags `pravilnik-2012-3107/<day>`; `python tools/on.py <day> pravilnik-2012-3107`).
+Act id: `pravilnik-2012-3107` (tags `pravilnik-2012-3107/<day>`; `python registry/tools/on.py <day> pravilnik-2012-3107`).
 
 ## Status
 

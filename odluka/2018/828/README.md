@@ -8,7 +8,7 @@ Odluka o zatvaranju Privremenog ureda Republike Hrvatske u Republici Azerbajdža
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2018-828` (tags `odluka-2018-828/<day>`; `python tools/on.py <day> odluka-2018-828`).
+Act id: `odluka-2018-828` (tags `odluka-2018-828/<day>`; `python registry/tools/on.py <day> odluka-2018-828`).
 
 ## Decisions made by hand
 

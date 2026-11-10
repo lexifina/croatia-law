@@ -17,7 +17,7 @@ Pravilnik o mjeriteljskim i tehničkim zahtjevima za uređaje s valjcima kojima 
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2017-2771` (tags `pravilnik-2017-2771/<day>`; `python tools/on.py <day> pravilnik-2017-2771`).
+Act id: `pravilnik-2017-2771` (tags `pravilnik-2017-2771/<day>`; `python registry/tools/on.py <day> pravilnik-2017-2771`).
 
 ## Decisions made by hand
 

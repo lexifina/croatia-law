@@ -8,7 +8,7 @@ Zakon o dopuni Zakona o zaštiti svjedoka · 1 versions, from 2017-08-03 (latest
 | čl. 2 | [clanak-002.md](clanak-002.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2017-1765` (tags `zakon-2017-1765/<day>`; `python tools/on.py <day> zakon-2017-1765`).
+Act id: `zakon-2017-1765` (tags `zakon-2017-1765/<day>`; `python registry/tools/on.py <day> zakon-2017-1765`).
 
 ## Decisions made by hand
 

@@ -12,7 +12,7 @@ Pravilnik o izmjenama i dopunama Pravilnika o dodjeljivanju imena, oznake i jedi
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2015-2277` (tags `pravilnik-2015-2277/<day>`; `python tools/on.py <day> pravilnik-2015-2277`).
+Act id: `pravilnik-2015-2277` (tags `pravilnik-2015-2277/<day>`; `python registry/tools/on.py <day> pravilnik-2015-2277`).
 
 ## Decisions made by hand
 

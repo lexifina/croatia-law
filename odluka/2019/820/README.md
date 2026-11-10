@@ -8,7 +8,7 @@ Odluka o obvezi rada ureda državne uprave radi provedbe izbora za članove u Eu
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2019-820` (tags `odluka-2019-820/<day>`; `python tools/on.py <day> odluka-2019-820`).
+Act id: `odluka-2019-820` (tags `odluka-2019-820/<day>`; `python registry/tools/on.py <day> odluka-2019-820`).
 
 ## Decisions made by hand
 

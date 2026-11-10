@@ -8,7 +8,7 @@ Odluka o postavljanju mr. sc. Spomenke Cek za generalnu konzulicu Republike Hrva
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2014-1552` (tags `odluka-2014-1552/<day>`; `python tools/on.py <day> odluka-2014-1552`).
+Act id: `odluka-2014-1552` (tags `odluka-2014-1552/<day>`; `python registry/tools/on.py <day> odluka-2014-1552`).
 
 ## Decisions made by hand
 

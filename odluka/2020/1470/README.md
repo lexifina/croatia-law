@@ -8,7 +8,7 @@ Odluka o dopuni Odluke o utvrđivanju Nacionalne i sveučilišne knjižnice u Za
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2020-1470` (tags `odluka-2020-1470/<day>`; `python tools/on.py <day> odluka-2020-1470`).
+Act id: `odluka-2020-1470` (tags `odluka-2020-1470/<day>`; `python registry/tools/on.py <day> odluka-2020-1470`).
 
 ## Decisions made by hand
 

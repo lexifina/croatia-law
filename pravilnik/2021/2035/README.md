@@ -10,7 +10,7 @@ Pravilnik o izmjenama i dopunama Pravilnika o statističkim standardima osiguran
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2021-2035` (tags `pravilnik-2021-2035/<day>`; `python tools/on.py <day> pravilnik-2021-2035`).
+Act id: `pravilnik-2021-2035` (tags `pravilnik-2021-2035/<day>`; `python registry/tools/on.py <day> pravilnik-2021-2035`).
 
 ## Decisions made by hand
 

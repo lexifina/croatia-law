@@ -10,7 +10,7 @@ Uredba o izmjeni i dopuni Zakona o udžbenicima i drugim obrazovnim materijalima
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2022-1300` (tags `uredba-2022-1300/<day>`; `python tools/on.py <day> uredba-2022-1300`).
+Act id: `uredba-2022-1300` (tags `uredba-2022-1300/<day>`; `python registry/tools/on.py <day> uredba-2022-1300`).
 
 ## Decisions made by hand
 

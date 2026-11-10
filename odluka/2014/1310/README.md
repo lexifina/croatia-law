@@ -8,7 +8,7 @@ Odluka o uvođenju naplate cestarine za korištenje autoceste A11 Zagreb - Sisak
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2014-1310` (tags `odluka-2014-1310/<day>`; `python tools/on.py <day> odluka-2014-1310`).
+Act id: `odluka-2014-1310` (tags `odluka-2014-1310/<day>`; `python registry/tools/on.py <day> odluka-2014-1310`).
 
 ## Decisions made by hand
 

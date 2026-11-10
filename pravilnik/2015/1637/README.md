@@ -19,7 +19,7 @@ Pravilnik o izmjenama i dopunama Pravilnika o ovlaštenjima za poslove zaštite 
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2015-1637` (tags `pravilnik-2015-1637/<day>`; `python tools/on.py <day> pravilnik-2015-1637`).
+Act id: `pravilnik-2015-1637` (tags `pravilnik-2015-1637/<day>`; `python registry/tools/on.py <day> pravilnik-2015-1637`).
 
 ## Decisions made by hand
 

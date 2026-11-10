@@ -8,7 +8,7 @@ Odluka o katastarskoj izmjeri na području Općine Pakoštane za katastarsku op�
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2017-2724` (tags `odluka-2017-2724/<day>`; `python tools/on.py <day> odluka-2017-2724`).
+Act id: `odluka-2017-2724` (tags `odluka-2017-2724/<day>`; `python registry/tools/on.py <day> odluka-2017-2724`).
 
 ## Decisions made by hand
 

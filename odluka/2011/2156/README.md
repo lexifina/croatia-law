@@ -8,7 +8,7 @@ Odluka o izmjeni Odluke o obveznoj pričuvi · 1 versions, from 2011-10-12 (late
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2011-2156` (tags `odluka-2011-2156/<day>`; `python tools/on.py <day> odluka-2011-2156`).
+Act id: `odluka-2011-2156` (tags `odluka-2011-2156/<day>`; `python registry/tools/on.py <day> odluka-2011-2156`).
 
 ## Decisions made by hand
 

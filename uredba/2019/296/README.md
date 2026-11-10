@@ -16,7 +16,7 @@ Uredba o izmjenama i dopunama Uredbe o plaćama, dodacima i naknadama u službi 
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2019-296` (tags `uredba-2019-296/<day>`; `python tools/on.py <day> uredba-2019-296`).
+Act id: `uredba-2019-296` (tags `uredba-2019-296/<day>`; `python registry/tools/on.py <day> uredba-2019-296`).
 
 ## Decisions made by hand
 

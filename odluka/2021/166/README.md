@@ -8,7 +8,7 @@ Odluka o izmjeni Odluke o načinu organizacije javnog prijevoza putnika radi spr
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2021-166` (tags `odluka-2021-166/<day>`; `python tools/on.py <day> odluka-2021-166`).
+Act id: `odluka-2021-166` (tags `odluka-2021-166/<day>`; `python registry/tools/on.py <day> odluka-2021-166`).
 
 ## Decisions made by hand
 

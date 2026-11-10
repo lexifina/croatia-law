@@ -9,7 +9,7 @@ Pravilnik o stavljanju izvan snage Pravilnika o kontinuiranoj plovidbenosti zrak
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2015-118` (tags `pravilnik-2015-118/<day>`; `python tools/on.py <day> pravilnik-2015-118`).
+Act id: `pravilnik-2015-118` (tags `pravilnik-2015-118/<day>`; `python registry/tools/on.py <day> pravilnik-2015-118`).
 
 ## Decisions made by hand
 

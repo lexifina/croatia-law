@@ -18,7 +18,7 @@ Pravilnik o kriterijima o pogodnosti dijelova pomorskog dobra za uzgoj riba i dr
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2012-1466` (tags `pravilnik-2012-1466/<day>`; `python tools/on.py <day> pravilnik-2012-1466`).
+Act id: `pravilnik-2012-1466` (tags `pravilnik-2012-1466/<day>`; `python registry/tools/on.py <day> pravilnik-2012-1466`).
 
 ## Status
 

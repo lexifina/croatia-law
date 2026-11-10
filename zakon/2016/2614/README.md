@@ -8,7 +8,7 @@ Zakon o izmjeni Zakona o plaćama sudaca i drugih pravosudnih dužnosnika · 1 v
 | čl. 2 | [clanak-002.md](clanak-002.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2016-2614` (tags `zakon-2016-2614/<day>`; `python tools/on.py <day> zakon-2016-2614`).
+Act id: `zakon-2016-2614` (tags `zakon-2016-2614/<day>`; `python registry/tools/on.py <day> zakon-2016-2614`).
 
 ## Decisions made by hand
 

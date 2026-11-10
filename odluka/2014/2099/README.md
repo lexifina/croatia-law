@@ -8,7 +8,7 @@ Odluka o raspisivanju prijevremenih izbora za župana i zamjenike župana Sisač
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2014-2099` (tags `odluka-2014-2099/<day>`; `python tools/on.py <day> odluka-2014-2099`).
+Act id: `odluka-2014-2099` (tags `odluka-2014-2099/<day>`; `python registry/tools/on.py <day> odluka-2014-2099`).
 
 ## Decisions made by hand
 

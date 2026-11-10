@@ -31,7 +31,7 @@ Pravilnik o mjerama zaštite osobnih prava i dobrobiti djeteta · 1 versions, fr
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2015-2346` (tags `pravilnik-2015-2346/<day>`; `python tools/on.py <day> pravilnik-2015-2346`).
+Act id: `pravilnik-2015-2346` (tags `pravilnik-2015-2346/<day>`; `python registry/tools/on.py <day> pravilnik-2015-2346`).
 
 ## Status
 

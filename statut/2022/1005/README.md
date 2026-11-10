@@ -91,7 +91,7 @@ Statut Hrvatske gospodarske komore · 1 versions, from 2022-06-18 (latest in for
 | čl. 85 | [clanak-085.md](clanak-085.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `statut-2022-1005` (tags `statut-2022-1005/<day>`; `python tools/on.py <day> statut-2022-1005`).
+Act id: `statut-2022-1005` (tags `statut-2022-1005/<day>`; `python registry/tools/on.py <day> statut-2022-1005`).
 
 ## Status
 

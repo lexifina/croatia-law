@@ -27,7 +27,7 @@ Pravilnik o posebnoj psihičkoj i tjelesnoj zdravstvenoj sposobnosti službenika
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2021-2388` (tags `pravilnik-2021-2388/<day>`; `python tools/on.py <day> pravilnik-2021-2388`).
+Act id: `pravilnik-2021-2388` (tags `pravilnik-2021-2388/<day>`; `python registry/tools/on.py <day> pravilnik-2021-2388`).
 
 ## Decisions made by hand
 

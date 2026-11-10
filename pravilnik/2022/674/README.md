@@ -28,7 +28,7 @@ Pravilnik o izmjenama i dopunama Pravilnika o prirodnim mineralnim, prirodnim iz
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2022-674` (tags `pravilnik-2022-674/<day>`; `python tools/on.py <day> pravilnik-2022-674`).
+Act id: `pravilnik-2022-674` (tags `pravilnik-2022-674/<day>`; `python registry/tools/on.py <day> pravilnik-2022-674`).
 
 ## Decisions made by hand
 

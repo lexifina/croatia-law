@@ -8,7 +8,7 @@ Odluka o namjenskoj pomoći zdravstvenim ustanovama čiji je osnivač Republika 
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2023-1354` (tags `odluka-2023-1354/<day>`; `python tools/on.py <day> odluka-2023-1354`).
+Act id: `odluka-2023-1354` (tags `odluka-2023-1354/<day>`; `python registry/tools/on.py <day> odluka-2023-1354`).
 
 ## Status
 

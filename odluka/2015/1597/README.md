@@ -8,7 +8,7 @@ Odluka o izmjeni Odluke o osnivanju Lučke uprave Zadar · 1 versions, from 2015
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2015-1597` (tags `odluka-2015-1597/<day>`; `python tools/on.py <day> odluka-2015-1597`).
+Act id: `odluka-2015-1597` (tags `odluka-2015-1597/<day>`; `python registry/tools/on.py <day> odluka-2015-1597`).
 
 ## Decisions made by hand
 

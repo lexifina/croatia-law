@@ -8,7 +8,7 @@ Zakon o dopuni Zakona o provedbi Uredbe (EZ) br. 396/2005 o maksimalnim razinama
 | čl. 2 | [clanak-002.md](clanak-002.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2020-707` (tags `zakon-2020-707/<day>`; `python tools/on.py <day> zakon-2020-707`).
+Act id: `zakon-2020-707` (tags `zakon-2020-707/<day>`; `python registry/tools/on.py <day> zakon-2020-707`).
 
 ## Decisions made by hand
 

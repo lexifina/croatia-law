@@ -33,7 +33,7 @@ Pravilnik o provedbi Programa potpora za organizaciju skupova o poljoprivredi, r
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2025-1669` (tags `pravilnik-2025-1669/<day>`; `python tools/on.py <day> pravilnik-2025-1669`).
+Act id: `pravilnik-2025-1669` (tags `pravilnik-2025-1669/<day>`; `python registry/tools/on.py <day> pravilnik-2025-1669`).
 
 ## Decisions made by hand
 

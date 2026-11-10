@@ -9,7 +9,7 @@ Odluka o davanju suglasnosti na Financijski plan Hrvatskih voda za 2015. godinu 
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2014-2775` (tags `odluka-2014-2775/<day>`; `python tools/on.py <day> odluka-2014-2775`).
+Act id: `odluka-2014-2775` (tags `odluka-2014-2775/<day>`; `python registry/tools/on.py <day> odluka-2014-2775`).
 
 ## Decisions made by hand
 

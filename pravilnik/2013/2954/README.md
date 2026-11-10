@@ -30,7 +30,7 @@ Pravilnik o uvjetima i načinu korištenja povjerljivih statističkih podataka z
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2013-2954` (tags `pravilnik-2013-2954/<day>`; `python tools/on.py <day> pravilnik-2013-2954`).
+Act id: `pravilnik-2013-2954` (tags `pravilnik-2013-2954/<day>`; `python registry/tools/on.py <day> pravilnik-2013-2954`).
 
 ## Status
 

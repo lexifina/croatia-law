@@ -8,7 +8,7 @@ Odluka o izdavanju euroobveznica Republike Hrvatske u iznosu od 750.000.000,00 e
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2011-1632` (tags `odluka-2011-1632/<day>`; `python tools/on.py <day> odluka-2011-1632`).
+Act id: `odluka-2011-1632` (tags `odluka-2011-1632/<day>`; `python registry/tools/on.py <day> odluka-2011-1632`).
 
 ## Decisions made by hand
 

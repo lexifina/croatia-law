@@ -9,7 +9,7 @@ Pravilnik o dopunama Pravilnika o tehničkim uvjetima vozila u prometu na cestam
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2025-38` (tags `pravilnik-2025-38/<day>`; `python tools/on.py <day> pravilnik-2025-38`).
+Act id: `pravilnik-2025-38` (tags `pravilnik-2025-38/<day>`; `python registry/tools/on.py <day> pravilnik-2025-38`).
 
 ## Decisions made by hand
 

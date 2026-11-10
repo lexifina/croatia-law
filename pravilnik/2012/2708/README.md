@@ -24,7 +24,7 @@ Pravilnik o izmjenama i dopunama Pravilnika o provedbi sustava proizvodnih ogran
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2012-2708` (tags `pravilnik-2012-2708/<day>`; `python tools/on.py <day> pravilnik-2012-2708`).
+Act id: `pravilnik-2012-2708` (tags `pravilnik-2012-2708/<day>`; `python registry/tools/on.py <day> pravilnik-2012-2708`).
 
 ## Decisions made by hand
 

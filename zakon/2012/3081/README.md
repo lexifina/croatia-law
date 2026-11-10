@@ -13,7 +13,7 @@ Zakon o izmjenama Zakona o tržištu nafte i naftnih derivata · 1 versions, fro
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 
-Act id: `zakon-2012-3081` (tags `zakon-2012-3081/<day>`; `python tools/on.py <day> zakon-2012-3081`).
+Act id: `zakon-2012-3081` (tags `zakon-2012-3081/<day>`; `python registry/tools/on.py <day> zakon-2012-3081`).
 
 ## Decisions made by hand
 

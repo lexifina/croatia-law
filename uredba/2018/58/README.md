@@ -9,7 +9,7 @@ Uredba o izmjeni Uredbe o jediničnim naknadama, korektivnim koeficijentima i po
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2018-58` (tags `uredba-2018-58/<day>`; `python tools/on.py <day> uredba-2018-58`).
+Act id: `uredba-2018-58` (tags `uredba-2018-58/<day>`; `python registry/tools/on.py <day> uredba-2018-58`).
 
 ## Decisions made by hand
 

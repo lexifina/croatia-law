@@ -13,7 +13,7 @@ Uredba o preuzimanju Okvirne odluke Vijeća 2009/905/PUP od 30. studenoga 2009. 
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2019-1122` (tags `uredba-2019-1122/<day>`; `python tools/on.py <day> uredba-2019-1122`).
+Act id: `uredba-2019-1122` (tags `uredba-2019-1122/<day>`; `python registry/tools/on.py <day> uredba-2019-1122`).
 
 ## Decisions made by hand
 

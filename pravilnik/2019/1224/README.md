@@ -91,7 +91,7 @@ Pravilnik o ortopedskim i drugim pomagalima · 1 versions, from 2019-06-27 (late
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2019-1224` (tags `pravilnik-2019-1224/<day>`; `python tools/on.py <day> pravilnik-2019-1224`).
+Act id: `pravilnik-2019-1224` (tags `pravilnik-2019-1224/<day>`; `python registry/tools/on.py <day> pravilnik-2019-1224`).
 
 ## Status
 

@@ -14,7 +14,7 @@ Uredba o izmjenama i dopunama Uredbe o metodologijama vještačenja · 1 version
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2015-2102` (tags `uredba-2015-2102/<day>`; `python tools/on.py <day> uredba-2015-2102`).
+Act id: `uredba-2015-2102` (tags `uredba-2015-2102/<day>`; `python registry/tools/on.py <day> uredba-2015-2102`).
 
 ## Decisions made by hand
 

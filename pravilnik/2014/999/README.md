@@ -14,7 +14,7 @@ Pravilnik o postupcima, uvjetima i načinu prijenosa poslova upravljanja dobrovo
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2014-999` (tags `pravilnik-2014-999/<day>`; `python tools/on.py <day> pravilnik-2014-999`).
+Act id: `pravilnik-2014-999` (tags `pravilnik-2014-999/<day>`; `python registry/tools/on.py <day> pravilnik-2014-999`).
 
 ## Status
 

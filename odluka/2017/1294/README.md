@@ -9,7 +9,7 @@ Odluka o donošenju standarda zanimanja za stjecanje kvalifikacije klesarski teh
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2017-1294` (tags `odluka-2017-1294/<day>`; `python tools/on.py <day> odluka-2017-1294`).
+Act id: `odluka-2017-1294` (tags `odluka-2017-1294/<day>`; `python registry/tools/on.py <day> odluka-2017-1294`).
 
 ## Decisions made by hand
 

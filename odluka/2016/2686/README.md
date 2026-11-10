@@ -17,7 +17,7 @@ Odluka o financiranju Hrvatske gospodarske komore · 1 versions, from 2016-12-28
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2016-2686` (tags `odluka-2016-2686/<day>`; `python tools/on.py <day> odluka-2016-2686`).
+Act id: `odluka-2016-2686` (tags `odluka-2016-2686/<day>`; `python registry/tools/on.py <day> odluka-2016-2686`).
 
 ## Status
 

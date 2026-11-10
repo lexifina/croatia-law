@@ -9,7 +9,7 @@ Odluka o prestanku važenja Pravilnika o obrascima za dostavljanje statističkih
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2017-2412` (tags `odluka-2017-2412/<day>`; `python tools/on.py <day> odluka-2017-2412`).
+Act id: `odluka-2017-2412` (tags `odluka-2017-2412/<day>`; `python registry/tools/on.py <day> odluka-2017-2412`).
 
 ## Decisions made by hand
 

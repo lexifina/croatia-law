@@ -23,7 +23,7 @@ Zakon o izmjenama i dopunama Zakona o porezu na dodanu vrijednost · 1 versions,
 | čl. 17 | [clanak-017.md](clanak-017.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2022-478` (tags `zakon-2022-478/<day>`; `python tools/on.py <day> zakon-2022-478`).
+Act id: `zakon-2022-478` (tags `zakon-2022-478/<day>`; `python registry/tools/on.py <day> zakon-2022-478`).
 
 ## Decisions made by hand
 

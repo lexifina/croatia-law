@@ -8,7 +8,7 @@ Odluka o puštanju u optjecaj novčanica od 100 i 200 kuna s datumom izdanja 9. 
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2013-1426` (tags `odluka-2013-1426/<day>`; `python tools/on.py <day> odluka-2013-1426`).
+Act id: `odluka-2013-1426` (tags `odluka-2013-1426/<day>`; `python registry/tools/on.py <day> odluka-2013-1426`).
 
 ## Decisions made by hand
 

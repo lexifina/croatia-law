@@ -56,7 +56,7 @@ Pravilnik o zaštiti od elektromagnetskih polja · 1 versions, from 2014-12-18 (
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2014-2740` (tags `pravilnik-2014-2740/<day>`; `python tools/on.py <day> pravilnik-2014-2740`).
+Act id: `pravilnik-2014-2740` (tags `pravilnik-2014-2740/<day>`; `python registry/tools/on.py <day> pravilnik-2014-2740`).
 
 ## Status
 

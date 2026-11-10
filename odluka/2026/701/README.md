@@ -9,7 +9,7 @@ Odluka o upisu učenika u I. razred srednje škole u školskoj godini 2026./2027
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2026-701` (tags `odluka-2026-701/<day>`; `python tools/on.py <day> odluka-2026-701`).
+Act id: `odluka-2026-701` (tags `odluka-2026-701/<day>`; `python registry/tools/on.py <day> odluka-2026-701`).
 
 ## Decisions made by hand
 

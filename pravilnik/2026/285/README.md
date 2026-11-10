@@ -29,7 +29,7 @@ Pravilnik o izmjenama i dopunama Pravilnika o stegovnoj odgovornosti · 1 versio
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2026-285` (tags `pravilnik-2026-285/<day>`; `python tools/on.py <day> pravilnik-2026-285`).
+Act id: `pravilnik-2026-285` (tags `pravilnik-2026-285/<day>`; `python registry/tools/on.py <day> pravilnik-2026-285`).
 
 ## Decisions made by hand
 

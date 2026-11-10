@@ -10,7 +10,7 @@ Uredba o izmjenama Uredbe o osnivanju Agencije za opremu pod tlakom · 1 version
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2012-2083` (tags `uredba-2012-2083/<day>`; `python tools/on.py <day> uredba-2012-2083`).
+Act id: `uredba-2012-2083` (tags `uredba-2012-2083/<day>`; `python registry/tools/on.py <day> uredba-2012-2083`).
 
 ## Decisions made by hand
 

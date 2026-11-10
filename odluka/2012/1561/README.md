@@ -8,7 +8,7 @@ Odluka o pravilima za statutarnu certifikaciju ribarskih brodova (2012.) · 1 ve
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2012-1561` (tags `odluka-2012-1561/<day>`; `python tools/on.py <day> odluka-2012-1561`).
+Act id: `odluka-2012-1561` (tags `odluka-2012-1561/<day>`; `python registry/tools/on.py <day> odluka-2012-1561`).
 
 ## Decisions made by hand
 

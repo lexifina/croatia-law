@@ -9,7 +9,7 @@ Uredba o dopuni Zakona o sanaciji javnih ustanova · 1 versions, from 2014-12-20
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2014-2824` (tags `uredba-2014-2824/<day>`; `python tools/on.py <day> uredba-2014-2824`).
+Act id: `uredba-2014-2824` (tags `uredba-2014-2824/<day>`; `python registry/tools/on.py <day> uredba-2014-2824`).
 
 ## Decisions made by hand
 

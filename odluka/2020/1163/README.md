@@ -8,7 +8,7 @@ Odluka o raspuštanju Hrvatskoga sabora · 1 versions, from 2020-05-18 (latest i
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2020-1163` (tags `odluka-2020-1163/<day>`; `python tools/on.py <day> odluka-2020-1163`).
+Act id: `odluka-2020-1163` (tags `odluka-2020-1163/<day>`; `python registry/tools/on.py <day> odluka-2020-1163`).
 
 ## Status
 

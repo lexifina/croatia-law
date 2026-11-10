@@ -15,7 +15,7 @@ Pravilnik o medu · 1 versions, from 2015-06-24 (latest in force: 2015-06-24) ·
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2015-1029` (tags `pravilnik-2015-1029/<day>`; `python tools/on.py <day> pravilnik-2015-1029`).
+Act id: `pravilnik-2015-1029` (tags `pravilnik-2015-1029/<day>`; `python registry/tools/on.py <day> pravilnik-2015-1029`).
 
 ## Status
 

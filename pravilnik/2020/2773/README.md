@@ -9,7 +9,7 @@ Pravilnik o izmjeni Pravilnika o izmjenama i dopunama Pravilnika o ambalaži i o
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2020-2773` (tags `pravilnik-2020-2773/<day>`; `python tools/on.py <day> pravilnik-2020-2773`).
+Act id: `pravilnik-2020-2773` (tags `pravilnik-2020-2773/<day>`; `python registry/tools/on.py <day> pravilnik-2020-2773`).
 
 ## Decisions made by hand
 

@@ -22,7 +22,7 @@ Pravilnik o sadržaju i načinu vođenja evidencija iz područja zaštite od po�
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2011-2278` (tags `pravilnik-2011-2278/<day>`; `python tools/on.py <day> pravilnik-2011-2278`).
+Act id: `pravilnik-2011-2278` (tags `pravilnik-2011-2278/<day>`; `python registry/tools/on.py <day> pravilnik-2011-2278`).
 
 ## Status
 

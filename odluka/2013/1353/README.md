@@ -8,7 +8,7 @@ Odluka o postavljanju Igora Pokaza za izvanrednog i opunomoćenog veleposlanika 
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2013-1353` (tags `odluka-2013-1353/<day>`; `python tools/on.py <day> odluka-2013-1353`).
+Act id: `odluka-2013-1353` (tags `odluka-2013-1353/<day>`; `python registry/tools/on.py <day> odluka-2013-1353`).
 
 ## Decisions made by hand
 

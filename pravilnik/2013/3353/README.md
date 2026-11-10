@@ -12,7 +12,7 @@ Pravilnik o izmjenama i dopunama Pravilnika o paušalnom oporezivanju samostalni
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2013-3353` (tags `pravilnik-2013-3353/<day>`; `python tools/on.py <day> pravilnik-2013-3353`).
+Act id: `pravilnik-2013-3353` (tags `pravilnik-2013-3353/<day>`; `python registry/tools/on.py <day> pravilnik-2013-3353`).
 
 ## Decisions made by hand
 

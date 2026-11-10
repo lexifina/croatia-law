@@ -11,7 +11,7 @@ Pravilnik o izmjeni i dopuni Pravilnika o načinu obavljanja pretrage na prisutn
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2012-1851` (tags `pravilnik-2012-1851/<day>`; `python tools/on.py <day> pravilnik-2012-1851`).
+Act id: `pravilnik-2012-1851` (tags `pravilnik-2012-1851/<day>`; `python registry/tools/on.py <day> pravilnik-2012-1851`).
 
 ## Decisions made by hand
 

@@ -8,7 +8,7 @@ Odluka o katastarskoj izmjeri na području Grada Svetog Ivana Zeline za dijelove
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2023-118` (tags `odluka-2023-118/<day>`; `python tools/on.py <day> odluka-2023-118`).
+Act id: `odluka-2023-118` (tags `odluka-2023-118/<day>`; `python registry/tools/on.py <day> odluka-2023-118`).
 
 ## Decisions made by hand
 

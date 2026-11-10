@@ -9,7 +9,7 @@ Odluka o izmjeni Odluke o osnovama za sklapanje ugovora o provođenju specifičn
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2015-2603` (tags `odluka-2015-2603/<day>`; `python tools/on.py <day> odluka-2015-2603`).
+Act id: `odluka-2015-2603` (tags `odluka-2015-2603/<day>`; `python registry/tools/on.py <day> odluka-2015-2603`).
 
 ## Decisions made by hand
 

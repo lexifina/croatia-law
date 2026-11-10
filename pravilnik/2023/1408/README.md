@@ -54,7 +54,7 @@ Pravilnik o sigurnosti na uređenim skijalištima · 1 versions, from 2023-08-12
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2023-1408` (tags `pravilnik-2023-1408/<day>`; `python tools/on.py <day> pravilnik-2023-1408`).
+Act id: `pravilnik-2023-1408` (tags `pravilnik-2023-1408/<day>`; `python registry/tools/on.py <day> pravilnik-2023-1408`).
 
 ## Decisions made by hand
 

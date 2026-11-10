@@ -10,7 +10,7 @@ Pravilnik o provedbi Uredbe Komisije (EU) br. 216/2008 Europskog parlamenta i Vi
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2013-2483` (tags `pravilnik-2013-2483/<day>`; `python tools/on.py <day> pravilnik-2013-2483`).
+Act id: `pravilnik-2013-2483` (tags `pravilnik-2013-2483/<day>`; `python registry/tools/on.py <day> pravilnik-2013-2483`).
 
 ## Status
 

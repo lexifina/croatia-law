@@ -9,7 +9,7 @@ Naputak o prestanku važenja Naputka o postupku i načinu provedbe opskrbe otoč
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `naputak-2011-809` (tags `naputak-2011-809/<day>`; `python tools/on.py <day> naputak-2011-809`).
+Act id: `naputak-2011-809` (tags `naputak-2011-809/<day>`; `python registry/tools/on.py <day> naputak-2011-809`).
 
 ## Decisions made by hand
 

@@ -8,7 +8,7 @@ Odluka o objavi cjenika i isticanju dodatne cijene kao mjera izravne kontrole ci
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2025-979` (tags `odluka-2025-979/<day>`; `python tools/on.py <day> odluka-2025-979`).
+Act id: `odluka-2025-979` (tags `odluka-2025-979/<day>`; `python registry/tools/on.py <day> odluka-2025-979`).
 
 ## Status
 

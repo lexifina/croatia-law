@@ -48,7 +48,7 @@ Pravilnik o obrazovanju potrebnom za rukovanje izvorima ionizirajućeg zračenja
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2015-1890` (tags `pravilnik-2015-1890/<day>`; `python tools/on.py <day> pravilnik-2015-1890`).
+Act id: `pravilnik-2015-1890` (tags `pravilnik-2015-1890/<day>`; `python registry/tools/on.py <day> pravilnik-2015-1890`).
 
 ## Status
 

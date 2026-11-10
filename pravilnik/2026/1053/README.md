@@ -9,7 +9,7 @@ Pravilnik o dopuni Pravilnika o elektroničkoj komunikaciji u kaznenom postupku 
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2026-1053` (tags `pravilnik-2026-1053/<day>`; `python tools/on.py <day> pravilnik-2026-1053`).
+Act id: `pravilnik-2026-1053` (tags `pravilnik-2026-1053/<day>`; `python registry/tools/on.py <day> pravilnik-2026-1053`).
 
 ## Decisions made by hand
 

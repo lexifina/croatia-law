@@ -5,7 +5,7 @@ Odluka o uvođenju nužnih epidemioloških mjera za područje Požeško-slavonsk
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `odluka-2021-847` (tags `odluka-2021-847/<day>`; `python tools/on.py <day> odluka-2021-847`).
+Act id: `odluka-2021-847` (tags `odluka-2021-847/<day>`; `python registry/tools/on.py <day> odluka-2021-847`).
 
 ## Decisions made by hand
 

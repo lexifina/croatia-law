@@ -5,7 +5,7 @@ Pravilnik o izdavanju odobrenja za osnivanje i upravljanje AIF-om · 2 versions,
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `pravilnik-2019-431` (tags `pravilnik-2019-431/<day>`; `python tools/on.py <day> pravilnik-2019-431`).
+Act id: `pravilnik-2019-431` (tags `pravilnik-2019-431/<day>`; `python registry/tools/on.py <day> pravilnik-2019-431`).
 
 ## Decisions made by hand
 

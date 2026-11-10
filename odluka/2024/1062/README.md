@@ -8,7 +8,7 @@ Odluka o katastarskoj izmjeri na području Grada Požege za dio katastarske opć
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2024-1062` (tags `odluka-2024-1062/<day>`; `python tools/on.py <day> odluka-2024-1062`).
+Act id: `odluka-2024-1062` (tags `odluka-2024-1062/<day>`; `python registry/tools/on.py <day> odluka-2024-1062`).
 
 ## Decisions made by hand
 

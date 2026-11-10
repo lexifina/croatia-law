@@ -12,7 +12,7 @@ Naputak o način provođenja Naredbe o provedbi oralne vakcinacije lisica na pod
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `naputak-2012-1707` (tags `naputak-2012-1707/<day>`; `python tools/on.py <day> naputak-2012-1707`).
+Act id: `naputak-2012-1707` (tags `naputak-2012-1707/<day>`; `python registry/tools/on.py <day> naputak-2012-1707`).
 
 ## Status
 

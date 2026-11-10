@@ -9,7 +9,7 @@ Pravilnik o izmjeni Pravilnika o uvjetima i načinu polaganja ispita za ovlašte
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2016-1518` (tags `pravilnik-2016-1518/<day>`; `python tools/on.py <day> pravilnik-2016-1518`).
+Act id: `pravilnik-2016-1518` (tags `pravilnik-2016-1518/<day>`; `python registry/tools/on.py <day> pravilnik-2016-1518`).
 
 ## Decisions made by hand
 

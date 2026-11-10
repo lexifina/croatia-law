@@ -8,7 +8,7 @@ Odluka o uvođenju Kulturne iskaznice · 1 versions, from 2025-11-15 (latest in 
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2025-2043` (tags `odluka-2025-2043/<day>`; `python tools/on.py <day> odluka-2025-2043`).
+Act id: `odluka-2025-2043` (tags `odluka-2025-2043/<day>`; `python registry/tools/on.py <day> odluka-2025-2043`).
 
 ## Decisions made by hand
 

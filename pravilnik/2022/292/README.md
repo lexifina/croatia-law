@@ -15,7 +15,7 @@ Pravilnik o izmjenama Pravilnika o stručnom osposobljavanju za obavljanje gospo
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2022-292` (tags `pravilnik-2022-292/<day>`; `python tools/on.py <day> pravilnik-2022-292`).
+Act id: `pravilnik-2022-292` (tags `pravilnik-2022-292/<day>`; `python registry/tools/on.py <day> pravilnik-2022-292`).
 
 ## Decisions made by hand
 

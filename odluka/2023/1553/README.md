@@ -9,7 +9,7 @@ Odluka o donošenju izmjena i dopuna strukovnog kurikuluma za stjecanje kvalifik
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2023-1553` (tags `odluka-2023-1553/<day>`; `python tools/on.py <day> odluka-2023-1553`).
+Act id: `odluka-2023-1553` (tags `odluka-2023-1553/<day>`; `python registry/tools/on.py <day> odluka-2023-1553`).
 
 ## Status
 

@@ -34,7 +34,7 @@ Uredba o unutarnjem ustrojstvu Središnjeg državnog ureda za razvoj digitalnog 
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2019-1238` (tags `uredba-2019-1238/<day>`; `python tools/on.py <day> uredba-2019-1238`).
+Act id: `uredba-2019-1238` (tags `uredba-2019-1238/<day>`; `python registry/tools/on.py <day> uredba-2019-1238`).
 
 ## Status
 

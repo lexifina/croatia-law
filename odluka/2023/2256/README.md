@@ -5,7 +5,7 @@ Odluka o visini poreznih stopa godišnjeg poreza na dohodak na području Grada T
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `odluka-2023-2256` (tags `odluka-2023-2256/<day>`; `python tools/on.py <day> odluka-2023-2256`).
+Act id: `odluka-2023-2256` (tags `odluka-2023-2256/<day>`; `python registry/tools/on.py <day> odluka-2023-2256`).
 
 ## Decisions made by hand
 

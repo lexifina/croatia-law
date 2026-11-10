@@ -13,7 +13,7 @@ Odluka o prirezu porezu na dohodak Grada Pula - Pola · 1 versions, from 2014-12
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2014-2855` (tags `odluka-2014-2855/<day>`; `python tools/on.py <day> odluka-2014-2855`).
+Act id: `odluka-2014-2855` (tags `odluka-2014-2855/<day>`; `python registry/tools/on.py <day> odluka-2014-2855`).
 
 ## Status
 

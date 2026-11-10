@@ -17,7 +17,7 @@ Pravilnik o radnom vremenu u javnobilježničkim uredima · 1 versions, from 202
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2025-1172` (tags `pravilnik-2025-1172/<day>`; `python tools/on.py <day> pravilnik-2025-1172`).
+Act id: `pravilnik-2025-1172` (tags `pravilnik-2025-1172/<day>`; `python registry/tools/on.py <day> pravilnik-2025-1172`).
 
 ## Decisions made by hand
 

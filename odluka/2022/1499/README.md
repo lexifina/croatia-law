@@ -18,7 +18,7 @@ Odluka o naknadi za razvoj trgovačkog društva Komunalac d.o.o., Biograd na Mor
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2022-1499` (tags `odluka-2022-1499/<day>`; `python tools/on.py <day> odluka-2022-1499`).
+Act id: `odluka-2022-1499` (tags `odluka-2022-1499/<day>`; `python registry/tools/on.py <day> odluka-2022-1499`).
 
 ## Decisions made by hand
 

@@ -22,7 +22,7 @@ Uredba o naknadi za zadržavanje nezakonito izgrađene zgrade u prostoru · 1 ve
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2012-2175` (tags `uredba-2012-2175/<day>`; `python tools/on.py <day> uredba-2012-2175`).
+Act id: `uredba-2012-2175` (tags `uredba-2012-2175/<day>`; `python registry/tools/on.py <day> uredba-2012-2175`).
 
 ## Status
 

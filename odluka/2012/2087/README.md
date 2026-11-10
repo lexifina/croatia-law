@@ -8,7 +8,7 @@ Odluka o davanju suglasnosti na Odluku Upravnog vijeća Lučke uprave Split o do
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2012-2087` (tags `odluka-2012-2087/<day>`; `python tools/on.py <day> odluka-2012-2087`).
+Act id: `odluka-2012-2087` (tags `odluka-2012-2087/<day>`; `python registry/tools/on.py <day> odluka-2012-2087`).
 
 ## Decisions made by hand
 

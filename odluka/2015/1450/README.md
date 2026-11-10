@@ -8,7 +8,7 @@ Odluka o izmjenama Odluke o osnivanju StoÅ¾era za koordinaciju aktivnosti u sluÄ
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2015-1450` (tags `odluka-2015-1450/<day>`; `python tools/on.py <day> odluka-2015-1450`).
+Act id: `odluka-2015-1450` (tags `odluka-2015-1450/<day>`; `python registry/tools/on.py <day> odluka-2015-1450`).
 
 ## Decisions made by hand
 

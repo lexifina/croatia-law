@@ -17,7 +17,7 @@ Pravilnik o minimalnom sadržaju plana oporavka mirovinskog osiguravajućeg dru�
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2024-2406` (tags `pravilnik-2024-2406/<day>`; `python tools/on.py <day> pravilnik-2024-2406`).
+Act id: `pravilnik-2024-2406` (tags `pravilnik-2024-2406/<day>`; `python registry/tools/on.py <day> pravilnik-2024-2406`).
 
 ## Decisions made by hand
 

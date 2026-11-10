@@ -9,7 +9,7 @@ Naredba o prestanku važenja Naredbe o mjerama za prihvat nekomercijalnog premje
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `naredba-2023-1526` (tags `naredba-2023-1526/<day>`; `python tools/on.py <day> naredba-2023-1526`).
+Act id: `naredba-2023-1526` (tags `naredba-2023-1526/<day>`; `python registry/tools/on.py <day> naredba-2023-1526`).
 
 ## Decisions made by hand
 

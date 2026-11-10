@@ -50,7 +50,7 @@ Zakon o ustrojstvu i djelokrugu ministarstava i drugih središnjih tijela držav
 | čl. 44 | [clanak-044.md](clanak-044.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2011-3085` (tags `zakon-2011-3085/<day>`; `python tools/on.py <day> zakon-2011-3085`).
+Act id: `zakon-2011-3085` (tags `zakon-2011-3085/<day>`; `python registry/tools/on.py <day> zakon-2011-3085`).
 
 ## Status
 

@@ -9,7 +9,7 @@ Odluka o izmjenama i dopunama Odluke o utvrđivanju Osnovne liste lijekova Hrvat
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2017-619` (tags `odluka-2017-619/<day>`; `python tools/on.py <day> odluka-2017-619`).
+Act id: `odluka-2017-619` (tags `odluka-2017-619/<day>`; `python registry/tools/on.py <day> odluka-2017-619`).
 
 ## Decisions made by hand
 

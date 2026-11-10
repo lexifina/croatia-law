@@ -13,7 +13,7 @@ Odluka o kontnom planu za kreditne institucije · 1 versions, from 2018-01-01 (l
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2017-2397` (tags `odluka-2017-2397/<day>`; `python tools/on.py <day> odluka-2017-2397`).
+Act id: `odluka-2017-2397` (tags `odluka-2017-2397/<day>`; `python registry/tools/on.py <day> odluka-2017-2397`).
 
 ## Status
 

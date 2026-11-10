@@ -13,7 +13,7 @@ Pravilnik o izmjenama i dopunama Pravilnika o postupku naknadne uplate doprinosa
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2012-944` (tags `pravilnik-2012-944/<day>`; `python tools/on.py <day> pravilnik-2012-944`).
+Act id: `pravilnik-2012-944` (tags `pravilnik-2012-944/<day>`; `python registry/tools/on.py <day> pravilnik-2012-944`).
 
 ## Decisions made by hand
 

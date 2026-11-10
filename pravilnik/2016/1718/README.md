@@ -49,7 +49,7 @@ Pravilnik o zaštiti arhivskog i registraturnog gradiva Državnog sudbenog vije�
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2016-1718` (tags `pravilnik-2016-1718/<day>`; `python tools/on.py <day> pravilnik-2016-1718`).
+Act id: `pravilnik-2016-1718` (tags `pravilnik-2016-1718/<day>`; `python registry/tools/on.py <day> pravilnik-2016-1718`).
 
 ## Decisions made by hand
 

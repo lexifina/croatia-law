@@ -13,7 +13,7 @@ Pravilnik o kriterijima za provjeru razine tjelesne motoričke sposobnosti za os
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2012-2370` (tags `pravilnik-2012-2370/<day>`; `python tools/on.py <day> pravilnik-2012-2370`).
+Act id: `pravilnik-2012-2370` (tags `pravilnik-2012-2370/<day>`; `python registry/tools/on.py <day> pravilnik-2012-2370`).
 
 ## Status
 

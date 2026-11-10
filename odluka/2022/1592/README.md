@@ -9,7 +9,7 @@ Odluka o dopuni Odluke o opskrbi banaka gotovim novcem · 1 versions, from 2022-
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2022-1592` (tags `odluka-2022-1592/<day>`; `python tools/on.py <day> odluka-2022-1592`).
+Act id: `odluka-2022-1592` (tags `odluka-2022-1592/<day>`; `python registry/tools/on.py <day> odluka-2022-1592`).
 
 ## Decisions made by hand
 

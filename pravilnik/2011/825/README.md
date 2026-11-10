@@ -12,7 +12,7 @@ Pravilnik o utvrđivanju prosječnih energijskih vrijednosti goriva · 1 version
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2011-825` (tags `pravilnik-2011-825/<day>`; `python tools/on.py <day> pravilnik-2011-825`).
+Act id: `pravilnik-2011-825` (tags `pravilnik-2011-825/<day>`; `python registry/tools/on.py <day> pravilnik-2011-825`).
 
 ## Status
 

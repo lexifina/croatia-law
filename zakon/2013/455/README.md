@@ -53,7 +53,7 @@ Zakon o izmjenama i dopunama Zakona o financiranju političkih aktivnosti i izbo
 | čl. 47 | [clanak-047.md](clanak-047.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2013-455` (tags `zakon-2013-455/<day>`; `python tools/on.py <day> zakon-2013-455`).
+Act id: `zakon-2013-455` (tags `zakon-2013-455/<day>`; `python registry/tools/on.py <day> zakon-2013-455`).
 
 ## Decisions made by hand
 

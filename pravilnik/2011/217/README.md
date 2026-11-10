@@ -9,7 +9,7 @@ Pravilnik o prestanku važenja Pravilnika o metodama uzimanja uzoraka te obavlja
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2011-217` (tags `pravilnik-2011-217/<day>`; `python tools/on.py <day> pravilnik-2011-217`).
+Act id: `pravilnik-2011-217` (tags `pravilnik-2011-217/<day>`; `python registry/tools/on.py <day> pravilnik-2011-217`).
 
 ## Decisions made by hand
 

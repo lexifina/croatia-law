@@ -8,7 +8,7 @@ Odluka o osnovici za izračun iznosa inkluzivnog dodatka · 1 versions, from 202
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2024-96` (tags `odluka-2024-96/<day>`; `python tools/on.py <day> odluka-2024-96`).
+Act id: `odluka-2024-96` (tags `odluka-2024-96/<day>`; `python registry/tools/on.py <day> odluka-2024-96`).
 
 ## Decisions made by hand
 

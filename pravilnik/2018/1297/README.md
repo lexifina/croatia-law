@@ -9,7 +9,7 @@ Pravilnik o izmjenama Pravilnika o uvjetima za unutarnji ustroj kliničkih zdrav
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2018-1297` (tags `pravilnik-2018-1297/<day>`; `python tools/on.py <day> pravilnik-2018-1297`).
+Act id: `pravilnik-2018-1297` (tags `pravilnik-2018-1297/<day>`; `python registry/tools/on.py <day> pravilnik-2018-1297`).
 
 ## Decisions made by hand
 

@@ -8,7 +8,7 @@ Odluka o katastarskoj izmjeri na području Grada Vrbovca za katastarsku općinu 
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2022-1616` (tags `odluka-2022-1616/<day>`; `python tools/on.py <day> odluka-2022-1616`).
+Act id: `odluka-2022-1616` (tags `odluka-2022-1616/<day>`; `python registry/tools/on.py <day> odluka-2022-1616`).
 
 ## Decisions made by hand
 

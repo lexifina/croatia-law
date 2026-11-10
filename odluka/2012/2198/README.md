@@ -8,7 +8,7 @@ Odluka o izmjenama Odluke o visini tarifnih stavki u Tarifnom sustava za distrib
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2012-2198` (tags `odluka-2012-2198/<day>`; `python tools/on.py <day> odluka-2012-2198`).
+Act id: `odluka-2012-2198` (tags `odluka-2012-2198/<day>`; `python registry/tools/on.py <day> odluka-2012-2198`).
 
 ## Decisions made by hand
 

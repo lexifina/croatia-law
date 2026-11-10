@@ -15,7 +15,7 @@ Zakon o izmjenama Zakona o Pravosudnoj akademiji · 1 versions, from 2026-09-01 
 | čl. 9 | [clanak-009.md](clanak-009.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2026-904` (tags `zakon-2026-904/<day>`; `python tools/on.py <day> zakon-2026-904`).
+Act id: `zakon-2026-904` (tags `zakon-2026-904/<day>`; `python registry/tools/on.py <day> zakon-2026-904`).
 
 ## Decisions made by hand
 

@@ -27,7 +27,7 @@ Pravilnik o načinu praćenja ozbiljnih štetnih događaja i ozbiljnih štetnih 
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2013-1111` (tags `pravilnik-2013-1111/<day>`; `python tools/on.py <day> pravilnik-2013-1111`).
+Act id: `pravilnik-2013-1111` (tags `pravilnik-2013-1111/<day>`; `python registry/tools/on.py <day> pravilnik-2013-1111`).
 
 ## Status
 

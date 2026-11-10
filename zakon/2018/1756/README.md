@@ -21,7 +21,7 @@ Zakon o izmjenama i dopunama Zakona o zaštiti i očuvanju kulturnih dobara · 1
 | čl. 15 | [clanak-015.md](clanak-015.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2018-1756` (tags `zakon-2018-1756/<day>`; `python tools/on.py <day> zakon-2018-1756`).
+Act id: `zakon-2018-1756` (tags `zakon-2018-1756/<day>`; `python registry/tools/on.py <day> zakon-2018-1756`).
 
 ## Decisions made by hand
 

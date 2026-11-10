@@ -19,7 +19,7 @@ Pravilnik o unutarnjem ustrojstvu i načinu rada Tajništva i njegovih službi �
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2011-399` (tags `pravilnik-2011-399/<day>`; `python tools/on.py <day> pravilnik-2011-399`).
+Act id: `pravilnik-2011-399` (tags `pravilnik-2011-399/<day>`; `python registry/tools/on.py <day> pravilnik-2011-399`).
 
 ## Status
 

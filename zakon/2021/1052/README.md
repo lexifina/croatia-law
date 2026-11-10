@@ -32,7 +32,7 @@ Zakon o izmjenama i dopunama Zakona o zabrani nepoštenih trgovačkih praksi u l
 | čl. 26 | [clanak-026.md](clanak-026.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2021-1052` (tags `zakon-2021-1052/<day>`; `python tools/on.py <day> zakon-2021-1052`).
+Act id: `zakon-2021-1052` (tags `zakon-2021-1052/<day>`; `python registry/tools/on.py <day> zakon-2021-1052`).
 
 ## Decisions made by hand
 

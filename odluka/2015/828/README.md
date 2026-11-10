@@ -8,7 +8,7 @@ Odluka o prestanku koncesije za osnivanje Slobodne zone Đuro Đaković - Slavon
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2015-828` (tags `odluka-2015-828/<day>`; `python tools/on.py <day> odluka-2015-828`).
+Act id: `odluka-2015-828` (tags `odluka-2015-828/<day>`; `python registry/tools/on.py <day> odluka-2015-828`).
 
 ## Decisions made by hand
 

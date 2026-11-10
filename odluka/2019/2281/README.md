@@ -22,7 +22,7 @@ Odluka o porezima Grada Zadra · 1 versions, from 2020-01-01 (latest in force: 2
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2019-2281` (tags `odluka-2019-2281/<day>`; `python tools/on.py <day> odluka-2019-2281`).
+Act id: `odluka-2019-2281` (tags `odluka-2019-2281/<day>`; `python registry/tools/on.py <day> odluka-2019-2281`).
 
 ## Status
 

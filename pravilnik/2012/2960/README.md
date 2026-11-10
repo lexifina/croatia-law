@@ -13,7 +13,7 @@ Pravilnik o izmjenama i dopunama Pravilnika o tlačnoj opremi · 1 versions, fro
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2012-2960` (tags `pravilnik-2012-2960/<day>`; `python tools/on.py <day> pravilnik-2012-2960`).
+Act id: `pravilnik-2012-2960` (tags `pravilnik-2012-2960/<day>`; `python registry/tools/on.py <day> pravilnik-2012-2960`).
 
 ## Decisions made by hand
 

@@ -26,7 +26,7 @@ Pravilnik o uvjetima koje moraju ispunjavati službeni i nacionalni referentni l
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2020-1520` (tags `pravilnik-2020-1520/<day>`; `python tools/on.py <day> pravilnik-2020-1520`).
+Act id: `pravilnik-2020-1520` (tags `pravilnik-2020-1520/<day>`; `python registry/tools/on.py <day> pravilnik-2020-1520`).
 
 ## Decisions made by hand
 

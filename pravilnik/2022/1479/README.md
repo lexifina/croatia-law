@@ -30,7 +30,7 @@ Pravilnik o upravljanju rizicima, adekvatnosti kapitala, likvidnosti i korišten
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2022-1479` (tags `pravilnik-2022-1479/<day>`; `python tools/on.py <day> pravilnik-2022-1479`).
+Act id: `pravilnik-2022-1479` (tags `pravilnik-2022-1479/<day>`; `python registry/tools/on.py <day> pravilnik-2022-1479`).
 
 ## Decisions made by hand
 

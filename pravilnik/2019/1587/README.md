@@ -13,7 +13,7 @@ Pravilnik o izmjenama Pravilnika o upisu sorti u Sortnu listu · 1 versions, fro
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2019-1587` (tags `pravilnik-2019-1587/<day>`; `python tools/on.py <day> pravilnik-2019-1587`).
+Act id: `pravilnik-2019-1587` (tags `pravilnik-2019-1587/<day>`; `python registry/tools/on.py <day> pravilnik-2019-1587`).
 
 ## Decisions made by hand
 

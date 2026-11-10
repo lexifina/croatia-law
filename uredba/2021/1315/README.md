@@ -18,7 +18,7 @@ Uredba o izmjenama i dopuni Uredbe o unutarnjem ustrojstvu Ministarstva hrvatski
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2021-1315` (tags `uredba-2021-1315/<day>`; `python tools/on.py <day> uredba-2021-1315`).
+Act id: `uredba-2021-1315` (tags `uredba-2021-1315/<day>`; `python registry/tools/on.py <day> uredba-2021-1315`).
 
 ## Decisions made by hand
 

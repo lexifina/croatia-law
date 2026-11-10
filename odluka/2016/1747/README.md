@@ -9,7 +9,7 @@ Odluka o donošenju nastavnog plana i okvirnog programa za zanimanje Tehničar z
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2016-1747` (tags `odluka-2016-1747/<day>`; `python tools/on.py <day> odluka-2016-1747`).
+Act id: `odluka-2016-1747` (tags `odluka-2016-1747/<day>`; `python registry/tools/on.py <day> odluka-2016-1747`).
 
 ## Decisions made by hand
 

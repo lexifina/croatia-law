@@ -17,7 +17,7 @@ Uredba o izmjenama i dopunama Uredbe o osnivanju Državnog zavoda za zaštitu pr
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2014-1814` (tags `uredba-2014-1814/<day>`; `python tools/on.py <day> uredba-2014-1814`).
+Act id: `uredba-2014-1814` (tags `uredba-2014-1814/<day>`; `python registry/tools/on.py <day> uredba-2014-1814`).
 
 ## Decisions made by hand
 

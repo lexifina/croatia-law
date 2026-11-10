@@ -8,7 +8,7 @@ Odluka o utvrđivanju interesa Republike Hrvatske za izgradnju zone 1. Winnetoul
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2014-1306` (tags `odluka-2014-1306/<day>`; `python tools/on.py <day> odluka-2014-1306`).
+Act id: `odluka-2014-1306` (tags `odluka-2014-1306/<day>`; `python registry/tools/on.py <day> odluka-2014-1306`).
 
 ## Decisions made by hand
 

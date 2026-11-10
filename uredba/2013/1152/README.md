@@ -10,7 +10,7 @@ Uredba o visini naknade za donošenje rješenja o izvedenom stanju · 1 versions
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2013-1152` (tags `uredba-2013-1152/<day>`; `python tools/on.py <day> uredba-2013-1152`).
+Act id: `uredba-2013-1152` (tags `uredba-2013-1152/<day>`; `python registry/tools/on.py <day> uredba-2013-1152`).
 
 ## Decisions made by hand
 

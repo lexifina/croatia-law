@@ -8,7 +8,7 @@ Odluka o ograničenju novog zapošljavanja službenika i namještenika u javnim 
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2013-3275` (tags `odluka-2013-3275/<day>`; `python tools/on.py <day> odluka-2013-3275`).
+Act id: `odluka-2013-3275` (tags `odluka-2013-3275/<day>`; `python registry/tools/on.py <day> odluka-2013-3275`).
 
 ## Status
 

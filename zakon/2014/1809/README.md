@@ -8,7 +8,7 @@ Zakon o izmjeni Zakona o lijekovima · 1 versions, from 2014-07-26 (latest in fo
 | čl. 2 | [clanak-002.md](clanak-002.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2014-1809` (tags `zakon-2014-1809/<day>`; `python tools/on.py <day> zakon-2014-1809`).
+Act id: `zakon-2014-1809` (tags `zakon-2014-1809/<day>`; `python registry/tools/on.py <day> zakon-2014-1809`).
 
 ## Decisions made by hand
 

@@ -15,7 +15,7 @@ Zakon o izmjenama i dopunama Zakona o računovodstvu · 1 versions, from 2025-12
 | čl. 9 | [clanak-009.md](clanak-009.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2025-2254` (tags `zakon-2025-2254/<day>`; `python tools/on.py <day> zakon-2025-2254`).
+Act id: `zakon-2025-2254` (tags `zakon-2025-2254/<day>`; `python registry/tools/on.py <day> zakon-2025-2254`).
 
 ## Decisions made by hand
 

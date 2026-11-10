@@ -23,7 +23,7 @@ Pravilnik o postupku i načinu izdavanja dozvola (licencija) za izvođenje prakt
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2015-766` (tags `pravilnik-2015-766/<day>`; `python tools/on.py <day> pravilnik-2015-766`).
+Act id: `pravilnik-2015-766` (tags `pravilnik-2015-766/<day>`; `python registry/tools/on.py <day> pravilnik-2015-766`).
 
 ## Status
 

@@ -8,7 +8,7 @@ Odluka o kriterijima i visini naknade za smanjenje utjecaja porasta cijena energ
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2025-1905` (tags `odluka-2025-1905/<day>`; `python tools/on.py <day> odluka-2025-1905`).
+Act id: `odluka-2025-1905` (tags `odluka-2025-1905/<day>`; `python registry/tools/on.py <day> odluka-2025-1905`).
 
 ## Status
 

@@ -9,7 +9,7 @@ Zakon o izmjenama Zakona o članarinama u turističkim zajednicama · 1 versions
 | čl. 3 | [clanak-003.md](clanak-003.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2016-2627` (tags `zakon-2016-2627/<day>`; `python tools/on.py <day> zakon-2016-2627`).
+Act id: `zakon-2016-2627` (tags `zakon-2016-2627/<day>`; `python registry/tools/on.py <day> zakon-2016-2627`).
 
 ## Decisions made by hand
 

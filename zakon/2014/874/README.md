@@ -107,7 +107,7 @@ Zakon o izmjenama i dopunama Zakona o zaštiti zraka · 1 versions, from 2014-04
 | čl. 101 | [clanak-101.md](clanak-101.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2014-874` (tags `zakon-2014-874/<day>`; `python tools/on.py <day> zakon-2014-874`).
+Act id: `zakon-2014-874` (tags `zakon-2014-874/<day>`; `python registry/tools/on.py <day> zakon-2014-874`).
 
 ## Decisions made by hand
 

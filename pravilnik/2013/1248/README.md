@@ -11,7 +11,7 @@ Pravilnik o prestanku važenja Pravilnika o uvoznim i izvoznim dozvolama za polj
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2013-1248` (tags `pravilnik-2013-1248/<day>`; `python tools/on.py <day> pravilnik-2013-1248`).
+Act id: `pravilnik-2013-1248` (tags `pravilnik-2013-1248/<day>`; `python registry/tools/on.py <day> pravilnik-2013-1248`).
 
 ## Decisions made by hand
 

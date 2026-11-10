@@ -10,7 +10,7 @@ Zakon o izmjenama Ovršnog zakona · 1 versions, from 2012-01-26 (latest in forc
 | čl. 4 | [clanak-004.md](clanak-004.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2012-336` (tags `zakon-2012-336/<day>`; `python tools/on.py <day> zakon-2012-336`).
+Act id: `zakon-2012-336` (tags `zakon-2012-336/<day>`; `python registry/tools/on.py <day> zakon-2012-336`).
 
 ## Decisions made by hand
 

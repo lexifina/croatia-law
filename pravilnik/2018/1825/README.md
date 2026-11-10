@@ -5,7 +5,7 @@ Pravilnik o postupku javnog nadmetanja kod prodaje poljoprivrednog zemljišta u 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `pravilnik-2018-1825` (tags `pravilnik-2018-1825/<day>`; `python tools/on.py <day> pravilnik-2018-1825`).
+Act id: `pravilnik-2018-1825` (tags `pravilnik-2018-1825/<day>`; `python registry/tools/on.py <day> pravilnik-2018-1825`).
 
 ## Decisions made by hand
 

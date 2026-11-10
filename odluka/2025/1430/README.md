@@ -9,7 +9,7 @@ Odluka o donošenju kurikula za nastavni predmet Ruski jezik i kultura u osnovni
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2025-1430` (tags `odluka-2025-1430/<day>`; `python tools/on.py <day> odluka-2025-1430`).
+Act id: `odluka-2025-1430` (tags `odluka-2025-1430/<day>`; `python registry/tools/on.py <day> odluka-2025-1430`).
 
 ## Decisions made by hand
 

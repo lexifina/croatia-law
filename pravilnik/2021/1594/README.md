@@ -15,7 +15,7 @@ Pravilnik o cijeni osobnih iskaznica · 1 versions, from 2021-08-02 (latest in f
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2021-1594` (tags `pravilnik-2021-1594/<day>`; `python tools/on.py <day> pravilnik-2021-1594`).
+Act id: `pravilnik-2021-1594` (tags `pravilnik-2021-1594/<day>`; `python registry/tools/on.py <day> pravilnik-2021-1594`).
 
 ## Status
 

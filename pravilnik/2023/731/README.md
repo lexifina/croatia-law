@@ -20,7 +20,7 @@ Pravilnik o pokriću obveznih doprinosa, trajnoj novčanoj naknadi, dodjeli naci
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2023-731` (tags `pravilnik-2023-731/<day>`; `python tools/on.py <day> pravilnik-2023-731`).
+Act id: `pravilnik-2023-731` (tags `pravilnik-2023-731/<day>`; `python registry/tools/on.py <day> pravilnik-2023-731`).
 
 ## Decisions made by hand
 

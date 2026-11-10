@@ -20,7 +20,7 @@ Zakon o izmjenama i dopunama Zakona o morskom ribarstvu · 1 versions, from 2014
 | čl. 14 | [clanak-014.md](clanak-014.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2014-2871` (tags `zakon-2014-2871/<day>`; `python tools/on.py <day> zakon-2014-2871`).
+Act id: `zakon-2014-2871` (tags `zakon-2014-2871/<day>`; `python registry/tools/on.py <day> zakon-2014-2871`).
 
 ## Decisions made by hand
 

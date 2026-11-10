@@ -43,7 +43,7 @@ Uredba o procjeni utjecaja zahvata na okoliš · 1 versions, from 2014-05-29 (la
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2014-1138` (tags `uredba-2014-1138/<day>`; `python tools/on.py <day> uredba-2014-1138`).
+Act id: `uredba-2014-1138` (tags `uredba-2014-1138/<day>`; `python registry/tools/on.py <day> uredba-2014-1138`).
 
 ## Status
 

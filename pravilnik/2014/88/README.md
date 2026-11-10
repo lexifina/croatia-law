@@ -16,7 +16,7 @@ Pravilnik o visini iznosa i načinu isplate naknade za skrbnika · 1 versions, f
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2014-88` (tags `pravilnik-2014-88/<day>`; `python tools/on.py <day> pravilnik-2014-88`).
+Act id: `pravilnik-2014-88` (tags `pravilnik-2014-88/<day>`; `python registry/tools/on.py <day> pravilnik-2014-88`).
 
 ## Status
 

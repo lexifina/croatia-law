@@ -40,7 +40,7 @@ Pravilnik o uvjetima i načinu provedbe posebnih mjera pomoći za sektor pčelar
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2013-2381` (tags `pravilnik-2013-2381/<day>`; `python tools/on.py <day> pravilnik-2013-2381`).
+Act id: `pravilnik-2013-2381` (tags `pravilnik-2013-2381/<day>`; `python registry/tools/on.py <day> pravilnik-2013-2381`).
 
 ## Status
 

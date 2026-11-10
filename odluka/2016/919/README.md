@@ -8,7 +8,7 @@ Odluka o obustavi postupka sanacije Klinike za infektivne bolesti "Dr. Fran Miha
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2016-919` (tags `odluka-2016-919/<day>`; `python tools/on.py <day> odluka-2016-919`).
+Act id: `odluka-2016-919` (tags `odluka-2016-919/<day>`; `python registry/tools/on.py <day> odluka-2016-919`).
 
 ## Decisions made by hand
 

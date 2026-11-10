@@ -15,7 +15,7 @@ Uredba o financijskoj strukturi omotnice za program izravnih plaćanja u 2016. g
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2017-283` (tags `uredba-2017-283/<day>`; `python tools/on.py <day> uredba-2017-283`).
+Act id: `uredba-2017-283` (tags `uredba-2017-283/<day>`; `python registry/tools/on.py <day> uredba-2017-283`).
 
 ## Decisions made by hand
 

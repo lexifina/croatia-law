@@ -11,7 +11,7 @@ Pravilnik o izmjenama Pravilnika o organoleptičkom (senzornom) ocjenjivanju vin
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2015-16` (tags `pravilnik-2015-16/<day>`; `python tools/on.py <day> pravilnik-2015-16`).
+Act id: `pravilnik-2015-16` (tags `pravilnik-2015-16/<day>`; `python registry/tools/on.py <day> pravilnik-2015-16`).
 
 ## Decisions made by hand
 

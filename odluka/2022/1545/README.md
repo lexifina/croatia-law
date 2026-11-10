@@ -25,7 +25,7 @@ Odluka o izmjenama i dopunama Odluke o procjeni primjerenosti predsjednika uprav
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2022-1545` (tags `odluka-2022-1545/<day>`; `python tools/on.py <day> odluka-2022-1545`).
+Act id: `odluka-2022-1545` (tags `odluka-2022-1545/<day>`; `python registry/tools/on.py <day> odluka-2022-1545`).
 
 ## Decisions made by hand
 

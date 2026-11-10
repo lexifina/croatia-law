@@ -18,7 +18,7 @@ Pravilnik o obrascu zahtjeva za izdavanje uvozne potvrde za uvoz robe s dvojnom 
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2012-2571` (tags `pravilnik-2012-2571/<day>`; `python tools/on.py <day> pravilnik-2012-2571`).
+Act id: `pravilnik-2012-2571` (tags `pravilnik-2012-2571/<day>`; `python registry/tools/on.py <day> pravilnik-2012-2571`).
 
 ## Status
 

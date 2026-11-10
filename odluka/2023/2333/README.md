@@ -5,7 +5,7 @@ Odluka o visini poreznih stopa godišnjeg poreza na dohodak Grada Ogulina · 2 v
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `odluka-2023-2333` (tags `odluka-2023-2333/<day>`; `python tools/on.py <day> odluka-2023-2333`).
+Act id: `odluka-2023-2333` (tags `odluka-2023-2333/<day>`; `python registry/tools/on.py <day> odluka-2023-2333`).
 
 ## Decisions made by hand
 

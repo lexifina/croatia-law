@@ -5,7 +5,7 @@ Pravilnik o standardima profesionalnog razvoja djelatnih vojnih osoba · 2 versi
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `pravilnik-2017-523` (tags `pravilnik-2017-523/<day>`; `python tools/on.py <day> pravilnik-2017-523`).
+Act id: `pravilnik-2017-523` (tags `pravilnik-2017-523/<day>`; `python registry/tools/on.py <day> pravilnik-2017-523`).
 
 ## Decisions made by hand
 

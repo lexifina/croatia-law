@@ -8,7 +8,7 @@ Uredba o izmjenama i dopunama Uredbe o nazivima radnih mjesta i koeficijentima s
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2019-1567` (tags `uredba-2019-1567/<day>`; `python tools/on.py <day> uredba-2019-1567`).
+Act id: `uredba-2019-1567` (tags `uredba-2019-1567/<day>`; `python registry/tools/on.py <day> uredba-2019-1567`).
 
 ## Decisions made by hand
 

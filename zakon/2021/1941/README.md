@@ -322,7 +322,7 @@ Zakon o autorskom pravu i srodnim pravima · 1 versions, from 2021-10-22 (latest
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 
-Act id: `zakon-2021-1941` (tags `zakon-2021-1941/<day>`; `python tools/on.py <day> zakon-2021-1941`).
+Act id: `zakon-2021-1941` (tags `zakon-2021-1941/<day>`; `python registry/tools/on.py <day> zakon-2021-1941`).
 
 ## Decisions made by hand
 

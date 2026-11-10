@@ -10,7 +10,7 @@ Odluka o dopuni Odluke o naknadi za razvoj društva Vodovod i odvodnja Cetinske 
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2022-16` (tags `odluka-2022-16/<day>`; `python tools/on.py <day> odluka-2022-16`).
+Act id: `odluka-2022-16` (tags `odluka-2022-16/<day>`; `python registry/tools/on.py <day> odluka-2022-16`).
 
 ## Decisions made by hand
 

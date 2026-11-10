@@ -8,7 +8,7 @@ Odluka o otpisu potraživanja po računima za stanove i poslovne prostore u vlas
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2020-1468` (tags `odluka-2020-1468/<day>`; `python tools/on.py <day> odluka-2020-1468`).
+Act id: `odluka-2020-1468` (tags `odluka-2020-1468/<day>`; `python registry/tools/on.py <day> odluka-2020-1468`).
 
 ## Decisions made by hand
 

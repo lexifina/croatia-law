@@ -29,7 +29,7 @@ Zakon o izmjenama i dopunama Zakona o financiranju vodnoga gospodarstva · 1 ver
 | čl. 23 | [clanak-023.md](clanak-023.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2017-2879` (tags `zakon-2017-2879/<day>`; `python tools/on.py <day> zakon-2017-2879`).
+Act id: `zakon-2017-2879` (tags `zakon-2017-2879/<day>`; `python registry/tools/on.py <day> zakon-2017-2879`).
 
 ## Decisions made by hand
 

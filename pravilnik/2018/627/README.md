@@ -20,7 +20,7 @@ Pravilnik o načinu prikupljanja, obrade i dostave statističkih podataka i izvj
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2018-627` (tags `pravilnik-2018-627/<day>`; `python tools/on.py <day> pravilnik-2018-627`).
+Act id: `pravilnik-2018-627` (tags `pravilnik-2018-627/<day>`; `python registry/tools/on.py <day> pravilnik-2018-627`).
 
 ## Decisions made by hand
 

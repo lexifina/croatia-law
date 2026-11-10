@@ -12,7 +12,7 @@ Pravilnik o obavještavanju kod trgovanja udjelima UCITS fondova u drugoj držav
 | čl. 6 | [clanak-006.md](clanak-006.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `pravilnik-2013-1895` (tags `pravilnik-2013-1895/<day>`; `python tools/on.py <day> pravilnik-2013-1895`).
+Act id: `pravilnik-2013-1895` (tags `pravilnik-2013-1895/<day>`; `python registry/tools/on.py <day> pravilnik-2013-1895`).
 
 ## Status
 

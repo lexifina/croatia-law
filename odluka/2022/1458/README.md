@@ -10,7 +10,7 @@ Odluka o najnižoj mirovini za jednu godinu mirovinskog staža od 1. srpnja 2022
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2022-1458` (tags `odluka-2022-1458/<day>`; `python tools/on.py <day> odluka-2022-1458`).
+Act id: `odluka-2022-1458` (tags `odluka-2022-1458/<day>`; `python registry/tools/on.py <day> odluka-2022-1458`).
 
 ## Decisions made by hand
 

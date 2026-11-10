@@ -8,7 +8,7 @@ Odluka o osnivanju Međuresorne radne skupine za osiguravanje ulaska Republike H
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2015-1655` (tags `odluka-2015-1655/<day>`; `python tools/on.py <day> odluka-2015-1655`).
+Act id: `odluka-2015-1655` (tags `odluka-2015-1655/<day>`; `python registry/tools/on.py <day> odluka-2015-1655`).
 
 ## Status
 

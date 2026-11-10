@@ -10,7 +10,7 @@ Pravilnik o izmjeni i dopuni Pravilnika o poljoprivrednim i prehrambenim proizvo
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2023-363` (tags `pravilnik-2023-363/<day>`; `python tools/on.py <day> pravilnik-2023-363`).
+Act id: `pravilnik-2023-363` (tags `pravilnik-2023-363/<day>`; `python registry/tools/on.py <day> pravilnik-2023-363`).
 
 ## Decisions made by hand
 

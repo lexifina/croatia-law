@@ -25,7 +25,7 @@ Uredba o sadržaju podataka u Središnjem registru stanovništva · 1 versions, 
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2025-1654` (tags `uredba-2025-1654/<day>`; `python tools/on.py <day> uredba-2025-1654`).
+Act id: `uredba-2025-1654` (tags `uredba-2025-1654/<day>`; `python registry/tools/on.py <day> uredba-2025-1654`).
 
 ## Decisions made by hand
 

@@ -8,7 +8,7 @@ Zakon o izmjeni i dopuni Zakona o tržištu električne energije · 1 versions, 
 | čl. 2 | [clanak-002.md](clanak-002.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2019-994` (tags `zakon-2019-994/<day>`; `python tools/on.py <day> zakon-2019-994`).
+Act id: `zakon-2019-994` (tags `zakon-2019-994/<day>`; `python registry/tools/on.py <day> zakon-2019-994`).
 
 ## Decisions made by hand
 

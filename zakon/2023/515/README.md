@@ -19,7 +19,7 @@ Zakon o izmjenama i dopuni Zakona o morskom ribarstvu · 1 versions, from 2023-0
 | čl. 13 | [clanak-013.md](clanak-013.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2023-515` (tags `zakon-2023-515/<day>`; `python tools/on.py <day> zakon-2023-515`).
+Act id: `zakon-2023-515` (tags `zakon-2023-515/<day>`; `python registry/tools/on.py <day> zakon-2023-515`).
 
 ## Decisions made by hand
 

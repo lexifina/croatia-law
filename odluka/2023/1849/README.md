@@ -17,7 +17,7 @@ Odluka o izmjenama i dopuni Odluke o pravilima rada sustava TARGET-HR · 1 versi
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2023-1849` (tags `odluka-2023-1849/<day>`; `python tools/on.py <day> odluka-2023-1849`).
+Act id: `odluka-2023-1849` (tags `odluka-2023-1849/<day>`; `python registry/tools/on.py <day> odluka-2023-1849`).
 
 ## Decisions made by hand
 

@@ -8,7 +8,7 @@ Zakon o izmjeni Zakona o posebnim uvjetima za stavljanje brašna na tržište ·
 | čl. 2 | [clanak-002.md](clanak-002.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2014-277` (tags `zakon-2014-277/<day>`; `python tools/on.py <day> zakon-2014-277`).
+Act id: `zakon-2014-277` (tags `zakon-2014-277/<day>`; `python registry/tools/on.py <day> zakon-2014-277`).
 
 ## Decisions made by hand
 

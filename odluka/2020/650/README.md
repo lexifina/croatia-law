@@ -8,7 +8,7 @@ Odluka o visini naknade za korištenje prostora za potrebe plutajućeg terminala
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2020-650` (tags `odluka-2020-650/<day>`; `python tools/on.py <day> odluka-2020-650`).
+Act id: `odluka-2020-650` (tags `odluka-2020-650/<day>`; `python registry/tools/on.py <day> odluka-2020-650`).
 
 ## Decisions made by hand
 

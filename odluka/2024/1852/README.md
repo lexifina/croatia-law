@@ -8,7 +8,7 @@ Odluka o dopuni Odluke o uspostavljanju državnih linija · 1 versions, from 202
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2024-1852` (tags `odluka-2024-1852/<day>`; `python tools/on.py <day> odluka-2024-1852`).
+Act id: `odluka-2024-1852` (tags `odluka-2024-1852/<day>`; `python registry/tools/on.py <day> odluka-2024-1852`).
 
 ## Decisions made by hand
 

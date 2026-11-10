@@ -10,7 +10,7 @@ Zakon o izmjenama Zakona o provedbi Uredbe (EU) br. 528/2012 Europskoga parlamen
 | čl. 4 | [clanak-004.md](clanak-004.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2014-880` (tags `zakon-2014-880/<day>`; `python tools/on.py <day> zakon-2014-880`).
+Act id: `zakon-2014-880` (tags `zakon-2014-880/<day>`; `python registry/tools/on.py <day> zakon-2014-880`).
 
 ## Decisions made by hand
 

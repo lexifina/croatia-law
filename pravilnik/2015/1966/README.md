@@ -27,7 +27,7 @@ Pravilnik o utvrđivanju neto vrijednosti imovine AIF-a i cijene udjela AIF-a ·
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2015-1966` (tags `pravilnik-2015-1966/<day>`; `python tools/on.py <day> pravilnik-2015-1966`).
+Act id: `pravilnik-2015-1966` (tags `pravilnik-2015-1966/<day>`; `python registry/tools/on.py <day> pravilnik-2015-1966`).
 
 ## Status
 

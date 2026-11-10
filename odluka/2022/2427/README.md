@@ -13,7 +13,7 @@ Odluka o kamatnim stopama na novčana sredstva subjekata javnog sektora kod Hrva
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2022-2427` (tags `odluka-2022-2427/<day>`; `python tools/on.py <day> odluka-2022-2427`).
+Act id: `odluka-2022-2427` (tags `odluka-2022-2427/<day>`; `python registry/tools/on.py <day> odluka-2022-2427`).
 
 ## Status
 

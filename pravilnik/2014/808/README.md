@@ -30,7 +30,7 @@ Pravilnik o postupku i načinu kontrole podataka o kojima ovise prava iz mirovin
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2014-808` (tags `pravilnik-2014-808/<day>`; `python tools/on.py <day> pravilnik-2014-808`).
+Act id: `pravilnik-2014-808` (tags `pravilnik-2014-808/<day>`; `python registry/tools/on.py <day> pravilnik-2014-808`).
 
 ## Status
 

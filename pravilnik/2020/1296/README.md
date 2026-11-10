@@ -22,7 +22,7 @@ Pravilnik o prijavi bolesti životinja · 1 versions, from 2020-06-11 (latest in
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2020-1296` (tags `pravilnik-2020-1296/<day>`; `python tools/on.py <day> pravilnik-2020-1296`).
+Act id: `pravilnik-2020-1296` (tags `pravilnik-2020-1296/<day>`; `python registry/tools/on.py <day> pravilnik-2020-1296`).
 
 ## Status
 

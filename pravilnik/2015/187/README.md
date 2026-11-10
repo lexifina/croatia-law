@@ -5,7 +5,7 @@ Pravilnik o organizaciji i načinu rada Vojno zdravstvenog središta Ministarstv
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `pravilnik-2015-187` (tags `pravilnik-2015-187/<day>`; `python tools/on.py <day> pravilnik-2015-187`).
+Act id: `pravilnik-2015-187` (tags `pravilnik-2015-187/<day>`; `python registry/tools/on.py <day> pravilnik-2015-187`).
 
 ## Decisions made by hand
 

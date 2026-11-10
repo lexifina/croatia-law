@@ -27,7 +27,7 @@ Pravilnik o mjerama prilagodbe zahtjevima propisa o hrani životinjskog podrijet
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2025-850` (tags `pravilnik-2025-850/<day>`; `python tools/on.py <day> pravilnik-2025-850`).
+Act id: `pravilnik-2025-850` (tags `pravilnik-2025-850/<day>`; `python registry/tools/on.py <day> pravilnik-2025-850`).
 
 ## Decisions made by hand
 

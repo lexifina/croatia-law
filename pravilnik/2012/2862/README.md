@@ -21,7 +21,7 @@ Pravilnik o mjerilima za primanje zdravstvenih radnika na pripravnički staž ·
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2012-2862` (tags `pravilnik-2012-2862/<day>`; `python tools/on.py <day> pravilnik-2012-2862`).
+Act id: `pravilnik-2012-2862` (tags `pravilnik-2012-2862/<day>`; `python registry/tools/on.py <day> pravilnik-2012-2862`).
 
 ## Status
 

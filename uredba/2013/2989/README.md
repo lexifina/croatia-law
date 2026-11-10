@@ -9,7 +9,7 @@ Uredba o dopunama Uredbe o klasifikaciji radnih mjesta policijskih sluÅ¾benika Â
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2013-2989` (tags `uredba-2013-2989/<day>`; `python tools/on.py <day> uredba-2013-2989`).
+Act id: `uredba-2013-2989` (tags `uredba-2013-2989/<day>`; `python registry/tools/on.py <day> uredba-2013-2989`).
 
 ## Decisions made by hand
 

@@ -5,7 +5,7 @@ Odluka o uvođenju nužnih epidemioloških mjera za područje Požeško-slavonsk
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `odluka-2020-2284` (tags `odluka-2020-2284/<day>`; `python tools/on.py <day> odluka-2020-2284`).
+Act id: `odluka-2020-2284` (tags `odluka-2020-2284/<day>`; `python registry/tools/on.py <day> odluka-2020-2284`).
 
 ## Decisions made by hand
 

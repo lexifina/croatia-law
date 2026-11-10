@@ -40,7 +40,7 @@ Uredba o provedbi Zakona o jamstvenom fondu za poticaj gospodarskom razvitku · 
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2011-982` (tags `uredba-2011-982/<day>`; `python tools/on.py <day> uredba-2011-982`).
+Act id: `uredba-2011-982` (tags `uredba-2011-982/<day>`; `python registry/tools/on.py <day> uredba-2011-982`).
 
 ## Decisions made by hand
 

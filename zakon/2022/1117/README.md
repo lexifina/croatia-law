@@ -32,7 +32,7 @@ Zakon o izmjenama i dopunama Zakona o otvorenim investicijskim fondovima s javno
 | čl. 26 | [clanak-026.md](clanak-026.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2022-1117` (tags `zakon-2022-1117/<day>`; `python tools/on.py <day> zakon-2022-1117`).
+Act id: `zakon-2022-1117` (tags `zakon-2022-1117/<day>`; `python registry/tools/on.py <day> zakon-2022-1117`).
 
 ## Decisions made by hand
 

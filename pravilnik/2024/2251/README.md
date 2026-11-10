@@ -15,7 +15,7 @@ Pravilnik o načinu vođenja očevidnika o osobama koje su lišene prava na rodi
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2024-2251` (tags `pravilnik-2024-2251/<day>`; `python tools/on.py <day> pravilnik-2024-2251`).
+Act id: `pravilnik-2024-2251` (tags `pravilnik-2024-2251/<day>`; `python registry/tools/on.py <day> pravilnik-2024-2251`).
 
 ## Decisions made by hand
 

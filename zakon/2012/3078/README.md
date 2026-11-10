@@ -26,7 +26,7 @@ Zakon o izmjenama i dopunama Zakona o porezu na dohodak · 1 versions, from 2013
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 
-Act id: `zakon-2012-3078` (tags `zakon-2012-3078/<day>`; `python tools/on.py <day> zakon-2012-3078`).
+Act id: `zakon-2012-3078` (tags `zakon-2012-3078/<day>`; `python registry/tools/on.py <day> zakon-2012-3078`).
 
 ## Decisions made by hand
 

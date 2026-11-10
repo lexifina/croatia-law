@@ -13,7 +13,7 @@ Pravilnik o izmjenama i dopuni Pravilnika o dragovoljnom vojnom osposobljavanju 
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2019-61` (tags `pravilnik-2019-61/<day>`; `python tools/on.py <day> pravilnik-2019-61`).
+Act id: `pravilnik-2019-61` (tags `pravilnik-2019-61/<day>`; `python registry/tools/on.py <day> pravilnik-2019-61`).
 
 ## Decisions made by hand
 

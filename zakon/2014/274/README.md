@@ -8,7 +8,7 @@ Zakon o izmjeni Zakona o provedbi Uredbe Vijeća (EZ) br. 834/2007 o ekološkoj 
 | čl. 2 | [clanak-002.md](clanak-002.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2014-274` (tags `zakon-2014-274/<day>`; `python tools/on.py <day> zakon-2014-274`).
+Act id: `zakon-2014-274` (tags `zakon-2014-274/<day>`; `python registry/tools/on.py <day> zakon-2014-274`).
 
 ## Decisions made by hand
 

@@ -9,7 +9,7 @@ Uredba o izmjeni Zakona o prikupljanju, obradi, povezivanju, korištenju i razmj
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2014-2907` (tags `uredba-2014-2907/<day>`; `python tools/on.py <day> uredba-2014-2907`).
+Act id: `uredba-2014-2907` (tags `uredba-2014-2907/<day>`; `python registry/tools/on.py <day> uredba-2014-2907`).
 
 ## Status
 

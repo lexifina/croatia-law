@@ -31,7 +31,7 @@ Zakon o potporama za očuvanje radnih mjesta · 1 versions, from 2014-08-07 (lat
 | čl. 25 | [clanak-025.md](clanak-025.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2014-1873` (tags `zakon-2014-1873/<day>`; `python tools/on.py <day> zakon-2014-1873`).
+Act id: `zakon-2014-1873` (tags `zakon-2014-1873/<day>`; `python registry/tools/on.py <day> zakon-2014-1873`).
 
 ## Status
 

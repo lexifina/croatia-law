@@ -8,7 +8,7 @@ Odluka o uvođenju nužnih epidemioloških mjera za područje Šibensko-kninske 
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2021-699` (tags `odluka-2021-699/<day>`; `python tools/on.py <day> odluka-2021-699`).
+Act id: `odluka-2021-699` (tags `odluka-2021-699/<day>`; `python registry/tools/on.py <day> odluka-2021-699`).
 
 ## Status
 

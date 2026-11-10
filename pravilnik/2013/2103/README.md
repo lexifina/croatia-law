@@ -22,7 +22,7 @@ Pravilnik o obliku, sadržaju i načinu postavljanja propisanih oznaka i signali
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2013-2103` (tags `pravilnik-2013-2103/<day>`; `python tools/on.py <day> pravilnik-2013-2103`).
+Act id: `pravilnik-2013-2103` (tags `pravilnik-2013-2103/<day>`; `python registry/tools/on.py <day> pravilnik-2013-2103`).
 
 ## Status
 

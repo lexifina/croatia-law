@@ -8,7 +8,7 @@ Zakon o izmjeni i dopuni Zakona o preuzimanju dioničkih društava · 1 versions
 | čl. 2 | [clanak-002.md](clanak-002.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2012-2364` (tags `zakon-2012-2364/<day>`; `python tools/on.py <day> zakon-2012-2364`).
+Act id: `zakon-2012-2364` (tags `zakon-2012-2364/<day>`; `python registry/tools/on.py <day> zakon-2012-2364`).
 
 ## Decisions made by hand
 

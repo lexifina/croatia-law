@@ -5,7 +5,7 @@ Pravilnik o minimalnim tehničkim uvjetima koje moraju ispunjavati sredstva vide
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `pravilnik-2019-5` (tags `pravilnik-2019-5/<day>`; `python tools/on.py <day> pravilnik-2019-5`).
+Act id: `pravilnik-2019-5` (tags `pravilnik-2019-5/<day>`; `python registry/tools/on.py <day> pravilnik-2019-5`).
 
 ## Decisions made by hand
 

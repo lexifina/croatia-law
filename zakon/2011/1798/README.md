@@ -13,7 +13,7 @@ Zakon o izmjenama i dopunama Zakona o zdravstvenoj zaštiti · 1 versions, from 
 | čl. 7 | [clanak-007.md](clanak-007.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2011-1798` (tags `zakon-2011-1798/<day>`; `python tools/on.py <day> zakon-2011-1798`).
+Act id: `zakon-2011-1798` (tags `zakon-2011-1798/<day>`; `python registry/tools/on.py <day> zakon-2011-1798`).
 
 ## Decisions made by hand
 

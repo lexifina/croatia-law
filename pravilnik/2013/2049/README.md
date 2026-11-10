@@ -19,7 +19,7 @@ Pravilnik o obrascu matice vjenčanih, izvacima i potvrdama koji se izdaju na te
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2013-2049` (tags `pravilnik-2013-2049/<day>`; `python tools/on.py <day> pravilnik-2013-2049`).
+Act id: `pravilnik-2013-2049` (tags `pravilnik-2013-2049/<day>`; `python registry/tools/on.py <day> pravilnik-2013-2049`).
 
 ## Status
 

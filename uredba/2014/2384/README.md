@@ -9,7 +9,7 @@ Uredba o izmjeni Uredbe o klasifikaciji radnih mjesta u lokalnoj i područnoj (r
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2014-2384` (tags `uredba-2014-2384/<day>`; `python tools/on.py <day> uredba-2014-2384`).
+Act id: `uredba-2014-2384` (tags `uredba-2014-2384/<day>`; `python registry/tools/on.py <day> uredba-2014-2384`).
 
 ## Decisions made by hand
 

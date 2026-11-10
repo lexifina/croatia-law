@@ -8,7 +8,7 @@ Odluka o kriterijima i načinima za stambeno zbrinjavanje stanovnika zgrada i uk
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2018-1252` (tags `odluka-2018-1252/<day>`; `python tools/on.py <day> odluka-2018-1252`).
+Act id: `odluka-2018-1252` (tags `odluka-2018-1252/<day>`; `python registry/tools/on.py <day> odluka-2018-1252`).
 
 ## Status
 

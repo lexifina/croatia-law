@@ -93,7 +93,7 @@ Odluka o sustavu upravljanja · 1 versions, from 2018-11-08 (latest in force: 20
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2018-1862` (tags `odluka-2018-1862/<day>`; `python tools/on.py <day> odluka-2018-1862`).
+Act id: `odluka-2018-1862` (tags `odluka-2018-1862/<day>`; `python registry/tools/on.py <day> odluka-2018-1862`).
 
 ## Status
 

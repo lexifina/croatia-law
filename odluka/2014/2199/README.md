@@ -8,7 +8,7 @@ Odluka o osnivanju Veleposlanstva Republike Hrvatske u Republici Iraku, sa sjedi
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2014-2199` (tags `odluka-2014-2199/<day>`; `python tools/on.py <day> odluka-2014-2199`).
+Act id: `odluka-2014-2199` (tags `odluka-2014-2199/<day>`; `python registry/tools/on.py <day> odluka-2014-2199`).
 
 ## Decisions made by hand
 

@@ -12,7 +12,7 @@ Pravilnik o obliku i sadržaju obrasca za davanje izjave o nepostojanju nepodmir
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2012-592` (tags `pravilnik-2012-592/<day>`; `python tools/on.py <day> pravilnik-2012-592`).
+Act id: `pravilnik-2012-592` (tags `pravilnik-2012-592/<day>`; `python registry/tools/on.py <day> pravilnik-2012-592`).
 
 ## Status
 

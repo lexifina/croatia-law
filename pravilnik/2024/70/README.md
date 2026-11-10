@@ -27,7 +27,7 @@ Pravilnik o ustroju, nadležnosti i načinu rada matičnih odbora · 1 versions,
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2024-70` (tags `pravilnik-2024-70/<day>`; `python tools/on.py <day> pravilnik-2024-70`).
+Act id: `pravilnik-2024-70` (tags `pravilnik-2024-70/<day>`; `python registry/tools/on.py <day> pravilnik-2024-70`).
 
 ## Status
 

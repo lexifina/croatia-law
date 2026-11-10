@@ -17,7 +17,7 @@ Uredba o prihvaćanju povećanja kvote Republike Hrvatske u Međunarodnom moneta
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2011-2846` (tags `uredba-2011-2846/<day>`; `python tools/on.py <day> uredba-2011-2846`).
+Act id: `uredba-2011-2846` (tags `uredba-2011-2846/<day>`; `python registry/tools/on.py <day> uredba-2011-2846`).
 
 ## Status
 

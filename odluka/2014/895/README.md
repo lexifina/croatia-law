@@ -19,7 +19,7 @@ Odluka o predstavništvima kreditnih institucija iz trećih zemalja · 1 version
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2014-895` (tags `odluka-2014-895/<day>`; `python tools/on.py <day> odluka-2014-895`).
+Act id: `odluka-2014-895` (tags `odluka-2014-895/<day>`; `python registry/tools/on.py <day> odluka-2014-895`).
 
 ## Status
 

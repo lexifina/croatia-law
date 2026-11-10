@@ -9,7 +9,7 @@ Zakon o izmjenama Zakona o brdsko-planinskim područjima · 1 versions, from 201
 | čl. 3 | [clanak-003.md](clanak-003.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2014-2752` (tags `zakon-2014-2752/<day>`; `python tools/on.py <day> zakon-2014-2752`).
+Act id: `zakon-2014-2752` (tags `zakon-2014-2752/<day>`; `python registry/tools/on.py <day> zakon-2014-2752`).
 
 ## Decisions made by hand
 

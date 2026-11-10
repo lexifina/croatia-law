@@ -25,7 +25,7 @@ Zakon o izmjenama i dopunama Zakona o sudskim pristojbama · 1 versions, from 20
 | čl. 19 | [clanak-019.md](clanak-019.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2011-2505` (tags `zakon-2011-2505/<day>`; `python tools/on.py <day> zakon-2011-2505`).
+Act id: `zakon-2011-2505` (tags `zakon-2011-2505/<day>`; `python registry/tools/on.py <day> zakon-2011-2505`).
 
 ## Decisions made by hand
 

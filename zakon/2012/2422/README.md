@@ -18,7 +18,7 @@ Zakon o izmjenama i dopunama Zakona o provedbi ovrhe na novčanim sredstvima · 
 | čl. 12 | [clanak-012.md](clanak-012.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2012-2422` (tags `zakon-2012-2422/<day>`; `python tools/on.py <day> zakon-2012-2422`).
+Act id: `zakon-2012-2422` (tags `zakon-2012-2422/<day>`; `python registry/tools/on.py <day> zakon-2012-2422`).
 
 ## Decisions made by hand
 

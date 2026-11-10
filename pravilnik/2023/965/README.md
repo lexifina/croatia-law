@@ -23,7 +23,7 @@ Pravilnik o Nacionalnoj mreži zajedničke poljoprivredne politike · 1 versions
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2023-965` (tags `pravilnik-2023-965/<day>`; `python tools/on.py <day> pravilnik-2023-965`).
+Act id: `pravilnik-2023-965` (tags `pravilnik-2023-965/<day>`; `python registry/tools/on.py <day> pravilnik-2023-965`).
 
 ## Decisions made by hand
 

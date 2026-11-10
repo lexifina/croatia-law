@@ -9,7 +9,7 @@ Odluka o usvajanju Programa Obrtna sredstva SP ZPP · 1 versions, from 2024-03-2
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2024-548` (tags `odluka-2024-548/<day>`; `python tools/on.py <day> odluka-2024-548`).
+Act id: `odluka-2024-548` (tags `odluka-2024-548/<day>`; `python registry/tools/on.py <day> odluka-2024-548`).
 
 ## Decisions made by hand
 

@@ -10,7 +10,7 @@ Pravilnik o izmjenama Pravilnika o naknadama za obavljanje službenih radnji izv
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2022-2417` (tags `pravilnik-2022-2417/<day>`; `python tools/on.py <day> pravilnik-2022-2417`).
+Act id: `pravilnik-2022-2417` (tags `pravilnik-2022-2417/<day>`; `python registry/tools/on.py <day> pravilnik-2022-2417`).
 
 ## Decisions made by hand
 

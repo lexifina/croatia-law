@@ -11,7 +11,7 @@ Zakon o izmjenama Zakona o prostornom uređenju · 1 versions, from 2020-01-01 (
 | čl. 5 | [clanak-005.md](clanak-005.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2019-1939` (tags `zakon-2019-1939/<day>`; `python tools/on.py <day> zakon-2019-1939`).
+Act id: `zakon-2019-1939` (tags `zakon-2019-1939/<day>`; `python registry/tools/on.py <day> zakon-2019-1939`).
 
 ## Decisions made by hand
 

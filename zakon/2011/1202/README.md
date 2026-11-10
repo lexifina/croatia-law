@@ -8,7 +8,7 @@ Zakon o izmjeni i dopuni Zakona o veterinarstvu · 1 versions, from 2011-05-26 (
 | čl. 2 | [clanak-002.md](clanak-002.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2011-1202` (tags `zakon-2011-1202/<day>`; `python tools/on.py <day> zakon-2011-1202`).
+Act id: `zakon-2011-1202` (tags `zakon-2011-1202/<day>`; `python registry/tools/on.py <day> zakon-2011-1202`).
 
 ## Decisions made by hand
 

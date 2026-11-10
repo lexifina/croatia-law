@@ -8,7 +8,7 @@ Uredba o izmjenama Uredbe o načinu i uvjetima za ostvarivanje materijalnih prav
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2022-2529` (tags `uredba-2022-2529/<day>`; `python tools/on.py <day> uredba-2022-2529`).
+Act id: `uredba-2022-2529` (tags `uredba-2022-2529/<day>`; `python registry/tools/on.py <day> uredba-2022-2529`).
 
 ## Decisions made by hand
 

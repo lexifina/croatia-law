@@ -8,7 +8,7 @@ Odluka o izmjenama Odluke o obveznoj pričuvi · 1 versions, from 2012-05-09 (la
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2012-1096` (tags `odluka-2012-1096/<day>`; `python tools/on.py <day> odluka-2012-1096`).
+Act id: `odluka-2012-1096` (tags `odluka-2012-1096/<day>`; `python registry/tools/on.py <day> odluka-2012-1096`).
 
 ## Decisions made by hand
 

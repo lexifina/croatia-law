@@ -55,7 +55,7 @@ Pravilnik o organizacijskim zahtjevima društva za upravljanje UCITS fondovima �
 | čl. 49 | [clanak-049.md](clanak-049.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `pravilnik-2013-1897` (tags `pravilnik-2013-1897/<day>`; `python tools/on.py <day> pravilnik-2013-1897`).
+Act id: `pravilnik-2013-1897` (tags `pravilnik-2013-1897/<day>`; `python registry/tools/on.py <day> pravilnik-2013-1897`).
 
 ## Status
 

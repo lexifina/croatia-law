@@ -16,7 +16,7 @@ Zakon o izmjenama i dopunama Zakona o sigurnosti prometa na cestama · 1 version
 | čl. 10 | [clanak-010.md](clanak-010.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2024-2377` (tags `zakon-2024-2377/<day>`; `python tools/on.py <day> zakon-2024-2377`).
+Act id: `zakon-2024-2377` (tags `zakon-2024-2377/<day>`; `python registry/tools/on.py <day> zakon-2024-2377`).
 
 ## Decisions made by hand
 

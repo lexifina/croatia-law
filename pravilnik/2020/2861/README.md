@@ -10,7 +10,7 @@ Pravilnik o izmjenama i dopuni Pravilnika o evidenciji uporabe poljoprivrednog z
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2020-2861` (tags `pravilnik-2020-2861/<day>`; `python tools/on.py <day> pravilnik-2020-2861`).
+Act id: `pravilnik-2020-2861` (tags `pravilnik-2020-2861/<day>`; `python registry/tools/on.py <day> pravilnik-2020-2861`).
 
 ## Decisions made by hand
 

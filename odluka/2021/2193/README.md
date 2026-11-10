@@ -8,7 +8,7 @@ Odluka o stavljanju u službenu uporabu katastarskog operata katastra nekretnina
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2021-2193` (tags `odluka-2021-2193/<day>`; `python tools/on.py <day> odluka-2021-2193`).
+Act id: `odluka-2021-2193` (tags `odluka-2021-2193/<day>`; `python registry/tools/on.py <day> odluka-2021-2193`).
 
 ## Decisions made by hand
 

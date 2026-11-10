@@ -12,7 +12,7 @@ Pravilnik o podacima kod automatiziranog pretraživanja evidencija o vozilima i 
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2022-364` (tags `pravilnik-2022-364/<day>`; `python tools/on.py <day> pravilnik-2022-364`).
+Act id: `pravilnik-2022-364` (tags `pravilnik-2022-364/<day>`; `python registry/tools/on.py <day> pravilnik-2022-364`).
 
 ## Status
 

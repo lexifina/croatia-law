@@ -8,7 +8,7 @@ Odluka o zelenoj javnoj nabavi u postupcima središnje javne nabave · 1 version
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2021-983` (tags `odluka-2021-983/<day>`; `python tools/on.py <day> odluka-2021-983`).
+Act id: `odluka-2021-983` (tags `odluka-2021-983/<day>`; `python registry/tools/on.py <day> odluka-2021-983`).
 
 ## Status
 

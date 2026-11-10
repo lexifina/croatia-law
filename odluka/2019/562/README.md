@@ -12,7 +12,7 @@ Odluka o provedbi Provedbene uredbe Komisije (EU) 2018/1624 · 1 versions, from 
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2019-562` (tags `odluka-2019-562/<day>`; `python tools/on.py <day> odluka-2019-562`).
+Act id: `odluka-2019-562` (tags `odluka-2019-562/<day>`; `python registry/tools/on.py <day> odluka-2019-562`).
 
 ## Status
 

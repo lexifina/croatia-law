@@ -9,7 +9,7 @@ Zakon o izmjenama i dopuni Zakona o zabrani i sprječavanju obavljanja neregistr
 | čl. 3 | [clanak-003.md](clanak-003.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2019-1293` (tags `zakon-2019-1293/<day>`; `python tools/on.py <day> zakon-2019-1293`).
+Act id: `zakon-2019-1293` (tags `zakon-2019-1293/<day>`; `python registry/tools/on.py <day> zakon-2019-1293`).
 
 ## Decisions made by hand
 

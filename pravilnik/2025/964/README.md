@@ -10,7 +10,7 @@ Pravilnik o dopunama Pravilnika o postupku i načinu polaganja naučničkog ispi
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2025-964` (tags `pravilnik-2025-964/<day>`; `python tools/on.py <day> pravilnik-2025-964`).
+Act id: `pravilnik-2025-964` (tags `pravilnik-2025-964/<day>`; `python registry/tools/on.py <day> pravilnik-2025-964`).
 
 ## Decisions made by hand
 

@@ -5,7 +5,7 @@ Pravilnik o tržišnim standardima za meso peradi · 2 versions, from 2022-06-11
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `pravilnik-2022-915` (tags `pravilnik-2022-915/<day>`; `python tools/on.py <day> pravilnik-2022-915`).
+Act id: `pravilnik-2022-915` (tags `pravilnik-2022-915/<day>`; `python registry/tools/on.py <day> pravilnik-2022-915`).
 
 ## Decisions made by hand
 

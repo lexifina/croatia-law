@@ -38,7 +38,7 @@ Pravilnik o dozvoljenim ulaganjima i dodatnim ograničenjima ulaganja obveznog m
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 
-Act id: `pravilnik-2024-2528` (tags `pravilnik-2024-2528/<day>`; `python tools/on.py <day> pravilnik-2024-2528`).
+Act id: `pravilnik-2024-2528` (tags `pravilnik-2024-2528/<day>`; `python registry/tools/on.py <day> pravilnik-2024-2528`).
 
 ## Decisions made by hand
 

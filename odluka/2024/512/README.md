@@ -8,7 +8,7 @@ Odluka o organiziranom privremenom smještaju stradalnika potresa na području G
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2024-512` (tags `odluka-2024-512/<day>`; `python tools/on.py <day> odluka-2024-512`).
+Act id: `odluka-2024-512` (tags `odluka-2024-512/<day>`; `python registry/tools/on.py <day> odluka-2024-512`).
 
 ## Decisions made by hand
 

@@ -8,7 +8,7 @@ Odluka o osnivanju Savjeta za mlade · 1 versions, from 2012-09-06 (latest in fo
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2012-2239` (tags `odluka-2012-2239/<day>`; `python tools/on.py <day> odluka-2012-2239`).
+Act id: `odluka-2012-2239` (tags `odluka-2012-2239/<day>`; `python registry/tools/on.py <day> odluka-2012-2239`).
 
 ## Status
 

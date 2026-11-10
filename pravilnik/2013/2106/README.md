@@ -17,7 +17,7 @@ Pravilnik o izmjenama i dopunama Pravilnika o zaštiti i obradi arhivskog i regi
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2013-2106` (tags `pravilnik-2013-2106/<day>`; `python tools/on.py <day> pravilnik-2013-2106`).
+Act id: `pravilnik-2013-2106` (tags `pravilnik-2013-2106/<day>`; `python registry/tools/on.py <day> pravilnik-2013-2106`).
 
 ## Decisions made by hand
 

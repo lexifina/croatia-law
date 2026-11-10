@@ -9,7 +9,7 @@ Pravilnik o programu ispita o struÄnoj osposobljenosti za zanimanje pogrebnik Â
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2015-2521` (tags `pravilnik-2015-2521/<day>`; `python tools/on.py <day> pravilnik-2015-2521`).
+Act id: `pravilnik-2015-2521` (tags `pravilnik-2015-2521/<day>`; `python registry/tools/on.py <day> pravilnik-2015-2521`).
 
 ## Decisions made by hand
 

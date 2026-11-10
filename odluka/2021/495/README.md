@@ -10,7 +10,7 @@ Odluka o izmjenama i dopunama Odluke o obveznom komorskom doprinosu za jedinstve
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2021-495` (tags `odluka-2021-495/<day>`; `python tools/on.py <day> odluka-2021-495`).
+Act id: `odluka-2021-495` (tags `odluka-2021-495/<day>`; `python registry/tools/on.py <day> odluka-2021-495`).
 
 ## Decisions made by hand
 

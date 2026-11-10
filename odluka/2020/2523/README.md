@@ -8,7 +8,7 @@ Odluka o sudjelovanju Oružanih snaga Republike Hrvatske u operaciji potpore mir
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2020-2523` (tags `odluka-2020-2523/<day>`; `python tools/on.py <day> odluka-2020-2523`).
+Act id: `odluka-2020-2523` (tags `odluka-2020-2523/<day>`; `python registry/tools/on.py <day> odluka-2020-2523`).
 
 ## Status
 

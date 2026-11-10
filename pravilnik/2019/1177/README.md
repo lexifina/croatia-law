@@ -38,7 +38,7 @@ Pravilnik o izmjenama i dopunama Pravilnika o stalnim sudskim vještacima · 1 v
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2019-1177` (tags `pravilnik-2019-1177/<day>`; `python tools/on.py <day> pravilnik-2019-1177`).
+Act id: `pravilnik-2019-1177` (tags `pravilnik-2019-1177/<day>`; `python registry/tools/on.py <day> pravilnik-2019-1177`).
 
 ## Decisions made by hand
 

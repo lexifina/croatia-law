@@ -7,7 +7,7 @@ Odluka o raspisivanju izbora za članove Državnoodvjetničkog vijeće iz reda z
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 
-Act id: `odluka-2026-1523` (tags `odluka-2026-1523/<day>`; `python tools/on.py <day> odluka-2026-1523`).
+Act id: `odluka-2026-1523` (tags `odluka-2026-1523/<day>`; `python registry/tools/on.py <day> odluka-2026-1523`).
 
 ## Decisions made by hand
 

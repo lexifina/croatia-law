@@ -19,7 +19,7 @@ Pravilnik o obliku i sadržaju financijskog i statističkog izvještaja osoba ko
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2025-2281` (tags `pravilnik-2025-2281/<day>`; `python tools/on.py <day> pravilnik-2025-2281`).
+Act id: `pravilnik-2025-2281` (tags `pravilnik-2025-2281/<day>`; `python registry/tools/on.py <day> pravilnik-2025-2281`).
 
 ## Decisions made by hand
 

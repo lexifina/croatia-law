@@ -16,7 +16,7 @@ Pravilnik o nadležnosti, sastavu i načinu rada drugostupanjskog zdravstvenog p
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2020-767` (tags `pravilnik-2020-767/<day>`; `python tools/on.py <day> pravilnik-2020-767`).
+Act id: `pravilnik-2020-767` (tags `pravilnik-2020-767/<day>`; `python registry/tools/on.py <day> pravilnik-2020-767`).
 
 ## Decisions made by hand
 

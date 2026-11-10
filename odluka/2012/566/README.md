@@ -14,7 +14,7 @@ Odluka o dopuštenoj visini tehnološkog manjka i kala u slatkovodnom uzgoju rib
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2012-566` (tags `odluka-2012-566/<day>`; `python tools/on.py <day> odluka-2012-566`).
+Act id: `odluka-2012-566` (tags `odluka-2012-566/<day>`; `python registry/tools/on.py <day> odluka-2012-566`).
 
 ## Decisions made by hand
 

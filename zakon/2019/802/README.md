@@ -72,7 +72,7 @@ Zakon o izmjenama i dopunama Zakona o gradnji · 1 versions, from 2019-04-25 (la
 | čl. 66 | [clanak-066.md](clanak-066.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2019-802` (tags `zakon-2019-802/<day>`; `python tools/on.py <day> zakon-2019-802`).
+Act id: `zakon-2019-802` (tags `zakon-2019-802/<day>`; `python registry/tools/on.py <day> zakon-2019-802`).
 
 ## Decisions made by hand
 

@@ -25,7 +25,7 @@ Pravilnik o provedbi Programa mlijeka u školama za razdoblje od 1. kolovoza 201
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2016-1805` (tags `pravilnik-2016-1805/<day>`; `python tools/on.py <day> pravilnik-2016-1805`).
+Act id: `pravilnik-2016-1805` (tags `pravilnik-2016-1805/<day>`; `python registry/tools/on.py <day> pravilnik-2016-1805`).
 
 ## Status
 

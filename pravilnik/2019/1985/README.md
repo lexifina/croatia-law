@@ -12,7 +12,7 @@ Pravilnik o izmjenama i dopunama Pravilnika o jednostavnim i drugim građevinama
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2019-1985` (tags `pravilnik-2019-1985/<day>`; `python tools/on.py <day> pravilnik-2019-1985`).
+Act id: `pravilnik-2019-1985` (tags `pravilnik-2019-1985/<day>`; `python registry/tools/on.py <day> pravilnik-2019-1985`).
 
 ## Decisions made by hand
 

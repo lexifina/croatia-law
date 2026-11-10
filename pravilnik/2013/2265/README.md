@@ -25,7 +25,7 @@ Pravilnik o postupku naknade Å¡tete ulagateljima UCITS fonda i/ili UCITS fondu Â
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2013-2265` (tags `pravilnik-2013-2265/<day>`; `python tools/on.py <day> pravilnik-2013-2265`).
+Act id: `pravilnik-2013-2265` (tags `pravilnik-2013-2265/<day>`; `python registry/tools/on.py <day> pravilnik-2013-2265`).
 
 ## Status
 

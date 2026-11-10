@@ -8,7 +8,7 @@ Odluka o katastarskoj izmjeri na području Općine Legrad za katastarsku općinu
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2017-2257` (tags `odluka-2017-2257/<day>`; `python tools/on.py <day> odluka-2017-2257`).
+Act id: `odluka-2017-2257` (tags `odluka-2017-2257/<day>`; `python registry/tools/on.py <day> odluka-2017-2257`).
 
 ## Decisions made by hand
 

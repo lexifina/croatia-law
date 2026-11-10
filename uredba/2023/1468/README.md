@@ -5,7 +5,7 @@ Uredba o izmjeni Zakona o predškolskom odgoju i obrazovanju · 2 versions, from
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `uredba-2023-1468` (tags `uredba-2023-1468/<day>`; `python tools/on.py <day> uredba-2023-1468`).
+Act id: `uredba-2023-1468` (tags `uredba-2023-1468/<day>`; `python registry/tools/on.py <day> uredba-2023-1468`).
 
 ## Decisions made by hand
 

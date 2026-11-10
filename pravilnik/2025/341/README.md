@@ -17,7 +17,7 @@ Pravilnik o pomoćnim tvarima u procesu proizvodnje · 1 versions, from 2025-02-
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2025-341` (tags `pravilnik-2025-341/<day>`; `python tools/on.py <day> pravilnik-2025-341`).
+Act id: `pravilnik-2025-341` (tags `pravilnik-2025-341/<day>`; `python registry/tools/on.py <day> pravilnik-2025-341`).
 
 ## Decisions made by hand
 

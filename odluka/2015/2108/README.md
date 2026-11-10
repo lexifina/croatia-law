@@ -9,7 +9,7 @@ Odluka o usvajanju Izmjena jamstvenih programa Hrvatske agencije za malo gospoda
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2015-2108` (tags `odluka-2015-2108/<day>`; `python tools/on.py <day> odluka-2015-2108`).
+Act id: `odluka-2015-2108` (tags `odluka-2015-2108/<day>`; `python registry/tools/on.py <day> odluka-2015-2108`).
 
 ## Decisions made by hand
 

@@ -9,7 +9,7 @@ Odluka o davanju odobrenja Virovitičko-podravskoj županiji i Općini Antunovac
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2015-654` (tags `odluka-2015-654/<day>`; `python tools/on.py <day> odluka-2015-654`).
+Act id: `odluka-2015-654` (tags `odluka-2015-654/<day>`; `python registry/tools/on.py <day> odluka-2015-654`).
 
 ## Decisions made by hand
 

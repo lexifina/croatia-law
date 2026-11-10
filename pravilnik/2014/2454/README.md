@@ -15,7 +15,7 @@ Pravilnik o izdavanju suglasnosti za stjecanje kvalificiranog udjela u faktoring
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2014-2454` (tags `pravilnik-2014-2454/<day>`; `python tools/on.py <day> pravilnik-2014-2454`).
+Act id: `pravilnik-2014-2454` (tags `pravilnik-2014-2454/<day>`; `python registry/tools/on.py <day> pravilnik-2014-2454`).
 
 ## Decisions made by hand
 

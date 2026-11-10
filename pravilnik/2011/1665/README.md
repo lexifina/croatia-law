@@ -15,7 +15,7 @@ Pravilnik o mjeriteljskim i tehničkim zahtjevima za tlakomjere za gume motornih
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2011-1665` (tags `pravilnik-2011-1665/<day>`; `python tools/on.py <day> pravilnik-2011-1665`).
+Act id: `pravilnik-2011-1665` (tags `pravilnik-2011-1665/<day>`; `python registry/tools/on.py <day> pravilnik-2011-1665`).
 
 ## Status
 

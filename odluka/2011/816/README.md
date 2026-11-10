@@ -8,7 +8,7 @@ Odluka o izmjeni i dopuni Odluke o načinu otvaranja transakcijskih računa · 1
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2011-816` (tags `odluka-2011-816/<day>`; `python tools/on.py <day> odluka-2011-816`).
+Act id: `odluka-2011-816` (tags `odluka-2011-816/<day>`; `python registry/tools/on.py <day> odluka-2011-816`).
 
 ## Decisions made by hand
 

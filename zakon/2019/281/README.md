@@ -11,7 +11,7 @@ Zakon o izmjeni i dopunama Zakona o nasljeđivanju · 1 versions, from 2019-02-1
 | čl. 5 | [clanak-005.md](clanak-005.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2019-281` (tags `zakon-2019-281/<day>`; `python tools/on.py <day> zakon-2019-281`).
+Act id: `zakon-2019-281` (tags `zakon-2019-281/<day>`; `python registry/tools/on.py <day> zakon-2019-281`).
 
 ## Decisions made by hand
 

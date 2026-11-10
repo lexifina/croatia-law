@@ -13,7 +13,7 @@ Pravilnik o izmjenama i dopuni Pravilnika o plaćanju naknada za pravo uporabe a
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2016-1786` (tags `pravilnik-2016-1786/<day>`; `python tools/on.py <day> pravilnik-2016-1786`).
+Act id: `pravilnik-2016-1786` (tags `pravilnik-2016-1786/<day>`; `python registry/tools/on.py <day> pravilnik-2016-1786`).
 
 ## Decisions made by hand
 

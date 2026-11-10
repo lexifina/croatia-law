@@ -21,7 +21,7 @@ Uredba o posebnim uvjetima za obavljanje djelatnosti vodnih usluga · 1 versions
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2023-1161` (tags `uredba-2023-1161/<day>`; `python tools/on.py <day> uredba-2023-1161`).
+Act id: `uredba-2023-1161` (tags `uredba-2023-1161/<day>`; `python registry/tools/on.py <day> uredba-2023-1161`).
 
 ## Decisions made by hand
 

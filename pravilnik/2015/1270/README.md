@@ -5,7 +5,7 @@ Pravilnik o sadržaju, obliku i načinu vođenja očevidnika o provedenim inspek
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `pravilnik-2015-1270` (tags `pravilnik-2015-1270/<day>`; `python tools/on.py <day> pravilnik-2015-1270`).
+Act id: `pravilnik-2015-1270` (tags `pravilnik-2015-1270/<day>`; `python registry/tools/on.py <day> pravilnik-2015-1270`).
 
 ## Decisions made by hand
 

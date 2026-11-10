@@ -17,7 +17,7 @@ Odluka o upravljanju kamatnim rizikom u knjizi banke (NN br. 41A) · 1 versions,
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2014-778` (tags `odluka-2014-778/<day>`; `python tools/on.py <day> odluka-2014-778`).
+Act id: `odluka-2014-778` (tags `odluka-2014-778/<day>`; `python registry/tools/on.py <day> odluka-2014-778`).
 
 ## Status
 

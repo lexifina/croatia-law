@@ -22,7 +22,7 @@ Pravilnik o uvjetima kojima moraju udovoljavati sajmovi za životinje · 1 versi
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2011-1056` (tags `pravilnik-2011-1056/<day>`; `python tools/on.py <day> pravilnik-2011-1056`).
+Act id: `pravilnik-2011-1056` (tags `pravilnik-2011-1056/<day>`; `python registry/tools/on.py <day> pravilnik-2011-1056`).
 
 ## Status
 

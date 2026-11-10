@@ -10,7 +10,7 @@ Odluka o izmjeni i dopuni Odluke o naknadi za razvoj trgovačkog društva Vodoop
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2022-1418` (tags `odluka-2022-1418/<day>`; `python tools/on.py <day> odluka-2022-1418`).
+Act id: `odluka-2022-1418` (tags `odluka-2022-1418/<day>`; `python registry/tools/on.py <day> odluka-2022-1418`).
 
 ## Decisions made by hand
 

@@ -18,7 +18,7 @@ Pravilnik o uvjetima i načinu ostvarivanja prava redovitih studenata na državn
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2017-1414` (tags `pravilnik-2017-1414/<day>`; `python tools/on.py <day> pravilnik-2017-1414`).
+Act id: `pravilnik-2017-1414` (tags `pravilnik-2017-1414/<day>`; `python registry/tools/on.py <day> pravilnik-2017-1414`).
 
 ## Status
 

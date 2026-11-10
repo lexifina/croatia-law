@@ -9,7 +9,7 @@ Odluka o usvajanju Izmjene Programa »Mikro i mali zajmovi za ruralni razvoj« �
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2020-2535` (tags `odluka-2020-2535/<day>`; `python tools/on.py <day> odluka-2020-2535`).
+Act id: `odluka-2020-2535` (tags `odluka-2020-2535/<day>`; `python registry/tools/on.py <day> odluka-2020-2535`).
 
 ## Decisions made by hand
 

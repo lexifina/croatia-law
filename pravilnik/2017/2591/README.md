@@ -25,7 +25,7 @@ Pravilnik o uvjetima, kriterijima i načinu dodjele državne potpore male vrijed
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2017-2591` (tags `pravilnik-2017-2591/<day>`; `python tools/on.py <day> pravilnik-2017-2591`).
+Act id: `pravilnik-2017-2591` (tags `pravilnik-2017-2591/<day>`; `python registry/tools/on.py <day> pravilnik-2017-2591`).
 
 ## Status
 

@@ -8,7 +8,7 @@ Odluka o izmjeni Odluke o visini otpremnine za državne službenike i namješten
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2014-2764` (tags `odluka-2014-2764/<day>`; `python tools/on.py <day> odluka-2014-2764`).
+Act id: `odluka-2014-2764` (tags `odluka-2014-2764/<day>`; `python registry/tools/on.py <day> odluka-2014-2764`).
 
 ## Decisions made by hand
 

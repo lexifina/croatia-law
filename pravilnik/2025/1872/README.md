@@ -19,7 +19,7 @@ Pravilnik o izmjenama i dopunama Pravilnika o priređivanju igara na sreću u ca
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2025-1872` (tags `pravilnik-2025-1872/<day>`; `python tools/on.py <day> pravilnik-2025-1872`).
+Act id: `pravilnik-2025-1872` (tags `pravilnik-2025-1872/<day>`; `python registry/tools/on.py <day> pravilnik-2025-1872`).
 
 ## Decisions made by hand
 

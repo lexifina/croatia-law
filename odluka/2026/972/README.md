@@ -8,7 +8,7 @@ Odluka o donošenju Akcijskog plana upravljanja rizicima od katastrofa za razdob
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2026-972` (tags `odluka-2026-972/<day>`; `python tools/on.py <day> odluka-2026-972`).
+Act id: `odluka-2026-972` (tags `odluka-2026-972/<day>`; `python registry/tools/on.py <day> odluka-2026-972`).
 
 ## Decisions made by hand
 

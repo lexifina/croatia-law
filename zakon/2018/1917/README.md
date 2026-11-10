@@ -35,7 +35,7 @@ Zakon o izmjenama i dopunama Zakona o ugostiteljskoj djelatnosti · 1 versions, 
 | čl. 29 | [clanak-029.md](clanak-029.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2018-1917` (tags `zakon-2018-1917/<day>`; `python tools/on.py <day> zakon-2018-1917`).
+Act id: `zakon-2018-1917` (tags `zakon-2018-1917/<day>`; `python registry/tools/on.py <day> zakon-2018-1917`).
 
 ## Decisions made by hand
 

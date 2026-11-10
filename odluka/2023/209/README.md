@@ -8,7 +8,7 @@ Odluka o izmjeni Odluke o koordinaciji aktivnosti unutar okvira za gospodarsko u
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2023-209` (tags `odluka-2023-209/<day>`; `python tools/on.py <day> odluka-2023-209`).
+Act id: `odluka-2023-209` (tags `odluka-2023-209/<day>`; `python registry/tools/on.py <day> odluka-2023-209`).
 
 ## Decisions made by hand
 

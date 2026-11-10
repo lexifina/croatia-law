@@ -8,7 +8,7 @@ Odluka o pokretanju postupka za prestanak koncesije dane društvu Autocesta Rije
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2020-1227` (tags `odluka-2020-1227/<day>`; `python tools/on.py <day> odluka-2020-1227`).
+Act id: `odluka-2020-1227` (tags `odluka-2020-1227/<day>`; `python registry/tools/on.py <day> odluka-2020-1227`).
 
 ## Decisions made by hand
 

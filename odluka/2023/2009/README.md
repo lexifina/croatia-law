@@ -11,7 +11,7 @@ Odluka visini poreznih stopa poreza na dohodak Grada Buzeta · 1 versions, from 
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2023-2009` (tags `odluka-2023-2009/<day>`; `python tools/on.py <day> odluka-2023-2009`).
+Act id: `odluka-2023-2009` (tags `odluka-2023-2009/<day>`; `python registry/tools/on.py <day> odluka-2023-2009`).
 
 ## Status
 

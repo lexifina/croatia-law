@@ -9,7 +9,7 @@ Naredba o izmjeni Naredbe o smanjenju brojnog stanja pojedine vrste divljači ·
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `naredba-2025-1876` (tags `naredba-2025-1876/<day>`; `python tools/on.py <day> naredba-2025-1876`).
+Act id: `naredba-2025-1876` (tags `naredba-2025-1876/<day>`; `python registry/tools/on.py <day> naredba-2025-1876`).
 
 ## Decisions made by hand
 

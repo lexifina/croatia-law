@@ -210,7 +210,7 @@ Zakon o gradnji · 1 versions, from 2014-01-01 (latest in force: 2014-01-01) · 
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 
-Act id: `zakon-2013-3221` (tags `zakon-2013-3221/<day>`; `python tools/on.py <day> zakon-2013-3221`).
+Act id: `zakon-2013-3221` (tags `zakon-2013-3221/<day>`; `python registry/tools/on.py <day> zakon-2013-3221`).
 
 ## Status
 

@@ -10,7 +10,7 @@ Pravilnik o lovostaju tunja dugokrilca (Thunnus alalunga) · 1 versions, from 20
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2022-446` (tags `pravilnik-2022-446/<day>`; `python tools/on.py <day> pravilnik-2022-446`).
+Act id: `pravilnik-2022-446` (tags `pravilnik-2022-446/<day>`; `python registry/tools/on.py <day> pravilnik-2022-446`).
 
 ## Status
 

@@ -5,7 +5,7 @@ Odluka o uvođenju nužnih epidemioloških mjera za područje Grada Otočca · 2
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `odluka-2020-1895` (tags `odluka-2020-1895/<day>`; `python tools/on.py <day> odluka-2020-1895`).
+Act id: `odluka-2020-1895` (tags `odluka-2020-1895/<day>`; `python registry/tools/on.py <day> odluka-2020-1895`).
 
 ## Decisions made by hand
 

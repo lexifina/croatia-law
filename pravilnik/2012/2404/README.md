@@ -10,7 +10,7 @@ Pravilnik o izmjeni Pravilnika o naknadama za dežurstva sudaca, državnih odvje
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2012-2404` (tags `pravilnik-2012-2404/<day>`; `python tools/on.py <day> pravilnik-2012-2404`).
+Act id: `pravilnik-2012-2404` (tags `pravilnik-2012-2404/<day>`; `python registry/tools/on.py <day> pravilnik-2012-2404`).
 
 ## Decisions made by hand
 

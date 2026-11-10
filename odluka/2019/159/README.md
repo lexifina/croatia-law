@@ -9,7 +9,7 @@ Odluka o donošenju kurikuluma za nastavni predmet Politike i gospodarstva za gi
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2019-159` (tags `odluka-2019-159/<day>`; `python tools/on.py <day> odluka-2019-159`).
+Act id: `odluka-2019-159` (tags `odluka-2019-159/<day>`; `python registry/tools/on.py <day> odluka-2019-159`).
 
 ## Status
 

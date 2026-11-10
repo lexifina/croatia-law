@@ -18,7 +18,7 @@ Pravilnik o registrima u naftnom rudarstvu · 1 versions, from 2023-04-27 (lates
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2023-753` (tags `pravilnik-2023-753/<day>`; `python tools/on.py <day> pravilnik-2023-753`).
+Act id: `pravilnik-2023-753` (tags `pravilnik-2023-753/<day>`; `python registry/tools/on.py <day> pravilnik-2023-753`).
 
 ## Decisions made by hand
 

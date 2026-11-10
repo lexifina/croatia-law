@@ -16,7 +16,7 @@ Pravilnik o provođenju javnog natječaja za zakup poljoprivrednog zemljišta i 
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2018-1472` (tags `pravilnik-2018-1472/<day>`; `python tools/on.py <day> pravilnik-2018-1472`).
+Act id: `pravilnik-2018-1472` (tags `pravilnik-2018-1472/<day>`; `python registry/tools/on.py <day> pravilnik-2018-1472`).
 
 ## Status
 

@@ -9,7 +9,7 @@ Odluka o povećanju godišnje kvote dozvola za zapošljavanje stranaca za kalend
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2019-1353` (tags `odluka-2019-1353/<day>`; `python tools/on.py <day> odluka-2019-1353`).
+Act id: `odluka-2019-1353` (tags `odluka-2019-1353/<day>`; `python registry/tools/on.py <day> odluka-2019-1353`).
 
 ## Decisions made by hand
 

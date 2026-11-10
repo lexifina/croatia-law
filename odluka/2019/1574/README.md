@@ -8,7 +8,7 @@ Odluka o sudjelovanju Republike Hrvatske u općem i selektivnom povećanju kapit
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2019-1574` (tags `odluka-2019-1574/<day>`; `python tools/on.py <day> odluka-2019-1574`).
+Act id: `odluka-2019-1574` (tags `odluka-2019-1574/<day>`; `python registry/tools/on.py <day> odluka-2019-1574`).
 
 ## Decisions made by hand
 

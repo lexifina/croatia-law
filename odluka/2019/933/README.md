@@ -8,7 +8,7 @@ Odluka o donošenju Antikorupcijskog programa za trgovačka društva u većinsko
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2019-933` (tags `odluka-2019-933/<day>`; `python tools/on.py <day> odluka-2019-933`).
+Act id: `odluka-2019-933` (tags `odluka-2019-933/<day>`; `python registry/tools/on.py <day> odluka-2019-933`).
 
 ## Decisions made by hand
 

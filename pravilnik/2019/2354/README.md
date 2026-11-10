@@ -64,7 +64,7 @@ Pravilnik o obveznom sadržaju i opremanju projekata građevina · 1 versions, f
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2019-2354` (tags `pravilnik-2019-2354/<day>`; `python tools/on.py <day> pravilnik-2019-2354`).
+Act id: `pravilnik-2019-2354` (tags `pravilnik-2019-2354/<day>`; `python registry/tools/on.py <day> pravilnik-2019-2354`).
 
 ## Status
 

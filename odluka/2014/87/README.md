@@ -8,7 +8,7 @@ Odluka određivanju visine naknade za vođenje jedinstvenog računovodstva osobn
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2014-87` (tags `odluka-2014-87/<day>`; `python tools/on.py <day> odluka-2014-87`).
+Act id: `odluka-2014-87` (tags `odluka-2014-87/<day>`; `python registry/tools/on.py <day> odluka-2014-87`).
 
 ## Status
 

@@ -21,7 +21,7 @@ Odluka o statističkoj klasifikaciji institucionalnih sektora · 1 versions, fro
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2011-2965` (tags `odluka-2011-2965/<day>`; `python tools/on.py <day> odluka-2011-2965`).
+Act id: `odluka-2011-2965` (tags `odluka-2011-2965/<day>`; `python registry/tools/on.py <day> odluka-2011-2965`).
 
 ## Decisions made by hand
 

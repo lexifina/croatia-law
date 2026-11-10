@@ -7,7 +7,7 @@ Odluka Vijeća za elektroničke medije klasa: UP/I-612-12/18-02/0005, urbroj: 56
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 
-Act id: `odluka-2018-2398` (tags `odluka-2018-2398/<day>`; `python tools/on.py <day> odluka-2018-2398`).
+Act id: `odluka-2018-2398` (tags `odluka-2018-2398/<day>`; `python registry/tools/on.py <day> odluka-2018-2398`).
 
 ## Decisions made by hand
 

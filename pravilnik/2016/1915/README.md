@@ -5,7 +5,7 @@ Pravilnik o uvjetima i načinu ostvarivanja prava na državnu stipendiju · 2 ve
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `pravilnik-2016-1915` (tags `pravilnik-2016-1915/<day>`; `python tools/on.py <day> pravilnik-2016-1915`).
+Act id: `pravilnik-2016-1915` (tags `pravilnik-2016-1915/<day>`; `python registry/tools/on.py <day> pravilnik-2016-1915`).
 
 ## Decisions made by hand
 

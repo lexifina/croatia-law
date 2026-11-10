@@ -50,7 +50,7 @@ Zakon o izmjenama i dopunama Zakona o proračunu · 1 versions, from 2012-12-07 
 | čl. 44 | [clanak-044.md](clanak-044.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2012-2878` (tags `zakon-2012-2878/<day>`; `python tools/on.py <day> zakon-2012-2878`).
+Act id: `zakon-2012-2878` (tags `zakon-2012-2878/<day>`; `python registry/tools/on.py <day> zakon-2012-2878`).
 
 ## Decisions made by hand
 

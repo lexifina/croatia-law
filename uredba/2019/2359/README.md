@@ -5,7 +5,7 @@ Uredba o udjelu u neto isporučenoj električnoj energiji povlaštenih proizvođ
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `uredba-2019-2359` (tags `uredba-2019-2359/<day>`; `python tools/on.py <day> uredba-2019-2359`).
+Act id: `uredba-2019-2359` (tags `uredba-2019-2359/<day>`; `python registry/tools/on.py <day> uredba-2019-2359`).
 
 ## Decisions made by hand
 

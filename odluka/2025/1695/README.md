@@ -15,7 +15,7 @@ Odluka o izdavanju zlatnih i srebrnih numizmatičkih kovanica »Gajeta falkuša�
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2025-1695` (tags `odluka-2025-1695/<day>`; `python tools/on.py <day> odluka-2025-1695`).
+Act id: `odluka-2025-1695` (tags `odluka-2025-1695/<day>`; `python registry/tools/on.py <day> odluka-2025-1695`).
 
 ## Decisions made by hand
 

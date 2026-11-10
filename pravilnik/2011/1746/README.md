@@ -62,7 +62,7 @@ Pravilnik o provođenju obveznog označavanja i registracije goveda · 1 version
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2011-1746` (tags `pravilnik-2011-1746/<day>`; `python tools/on.py <day> pravilnik-2011-1746`).
+Act id: `pravilnik-2011-1746` (tags `pravilnik-2011-1746/<day>`; `python registry/tools/on.py <day> pravilnik-2011-1746`).
 
 ## Status
 

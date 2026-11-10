@@ -8,7 +8,7 @@ Odluka o izmjenama i dopunama Odluke o koncesiji pomorskog dobra u svrhu izgradn
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2015-831` (tags `odluka-2015-831/<day>`; `python tools/on.py <day> odluka-2015-831`).
+Act id: `odluka-2015-831` (tags `odluka-2015-831/<day>`; `python registry/tools/on.py <day> odluka-2015-831`).
 
 ## Decisions made by hand
 

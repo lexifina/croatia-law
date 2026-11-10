@@ -5,7 +5,7 @@ Pravilnik o visini naknade za utvrđivanje stručne sposobnosti zrakoplovnog oso
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `pravilnik-2020-64` (tags `pravilnik-2020-64/<day>`; `python tools/on.py <day> pravilnik-2020-64`).
+Act id: `pravilnik-2020-64` (tags `pravilnik-2020-64/<day>`; `python registry/tools/on.py <day> pravilnik-2020-64`).
 
 ## Decisions made by hand
 

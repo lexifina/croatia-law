@@ -8,7 +8,7 @@ Odluka o puštanju u optjecaj novčanica od 10 i 20 kuna s datumom izdanja 9. sr
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2013-379` (tags `odluka-2013-379/<day>`; `python tools/on.py <day> odluka-2013-379`).
+Act id: `odluka-2013-379` (tags `odluka-2013-379/<day>`; `python registry/tools/on.py <day> odluka-2013-379`).
 
 ## Decisions made by hand
 

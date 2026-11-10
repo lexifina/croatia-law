@@ -8,7 +8,7 @@ Odluka o davanju suglasnosti na Odluku Skupštine Istarske županije o izmjeni O
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2020-307` (tags `odluka-2020-307/<day>`; `python tools/on.py <day> odluka-2020-307`).
+Act id: `odluka-2020-307` (tags `odluka-2020-307/<day>`; `python registry/tools/on.py <day> odluka-2020-307`).
 
 ## Decisions made by hand
 

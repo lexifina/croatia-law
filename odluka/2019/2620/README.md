@@ -8,7 +8,7 @@ Odluka o puštanju u optjecaj prigodnoga optjecajnoga kovanog novca od 25 kuna u
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2019-2620` (tags `odluka-2019-2620/<day>`; `python tools/on.py <day> odluka-2019-2620`).
+Act id: `odluka-2019-2620` (tags `odluka-2019-2620/<day>`; `python registry/tools/on.py <day> odluka-2019-2620`).
 
 ## Decisions made by hand
 

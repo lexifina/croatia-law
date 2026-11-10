@@ -15,7 +15,7 @@ Zakon o izmjenama i dopunama Zakona o poticanju zapošljavanja · 1 versions, fr
 | čl. 9 | [clanak-009.md](clanak-009.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2012-2590` (tags `zakon-2012-2590/<day>`; `python tools/on.py <day> zakon-2012-2590`).
+Act id: `zakon-2012-2590` (tags `zakon-2012-2590/<day>`; `python registry/tools/on.py <day> zakon-2012-2590`).
 
 ## Decisions made by hand
 

@@ -11,7 +11,7 @@ Pravilnik o zdravstvenoj sposobnosti zrakoplovnog osoblja na koje se ne primjenj
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2019-625` (tags `pravilnik-2019-625/<day>`; `python tools/on.py <day> pravilnik-2019-625`).
+Act id: `pravilnik-2019-625` (tags `pravilnik-2019-625/<day>`; `python registry/tools/on.py <day> pravilnik-2019-625`).
 
 ## Decisions made by hand
 

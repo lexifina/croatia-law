@@ -18,7 +18,7 @@ Pravilnik o provedbi Provedbene Uredbe Komisije (EU) br. 680/2014 · 1 versions,
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2014-2103` (tags `pravilnik-2014-2103/<day>`; `python tools/on.py <day> pravilnik-2014-2103`).
+Act id: `pravilnik-2014-2103` (tags `pravilnik-2014-2103/<day>`; `python registry/tools/on.py <day> pravilnik-2014-2103`).
 
 ## Status
 

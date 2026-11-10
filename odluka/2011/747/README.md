@@ -9,7 +9,7 @@ Odluka o usvajanju "Jamstvenog programa žene poduzetnice" Hrvatske agencije za 
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2011-747` (tags `odluka-2011-747/<day>`; `python tools/on.py <day> odluka-2011-747`).
+Act id: `odluka-2011-747` (tags `odluka-2011-747/<day>`; `python registry/tools/on.py <day> odluka-2011-747`).
 
 ## Decisions made by hand
 

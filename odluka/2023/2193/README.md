@@ -20,7 +20,7 @@ Odluka o gradskim porezima Grada Drniša · 1 versions, from 2024-01-01 (latest 
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2023-2193` (tags `odluka-2023-2193/<day>`; `python tools/on.py <day> odluka-2023-2193`).
+Act id: `odluka-2023-2193` (tags `odluka-2023-2193/<day>`; `python registry/tools/on.py <day> odluka-2023-2193`).
 
 ## Decisions made by hand
 

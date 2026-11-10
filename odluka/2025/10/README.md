@@ -8,7 +8,7 @@ Odluka o osnivanju Nacionalnog vijeća za razvoj socijalnih politika · 1 versio
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2025-10` (tags `odluka-2025-10/<day>`; `python tools/on.py <day> odluka-2025-10`).
+Act id: `odluka-2025-10` (tags `odluka-2025-10/<day>`; `python registry/tools/on.py <day> odluka-2025-10`).
 
 ## Decisions made by hand
 

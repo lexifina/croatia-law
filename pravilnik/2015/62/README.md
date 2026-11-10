@@ -52,7 +52,7 @@ Pravilnik o ulovu, uzgoju i prometu tune (Thunnus thynnus), igluna (Xiphias glad
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2015-62` (tags `pravilnik-2015-62/<day>`; `python tools/on.py <day> pravilnik-2015-62`).
+Act id: `pravilnik-2015-62` (tags `pravilnik-2015-62/<day>`; `python registry/tools/on.py <day> pravilnik-2015-62`).
 
 ## Status
 

@@ -8,7 +8,7 @@ Odluka o mjeri strogog ograničavanja zadržavanja na ulicama i drugim javnim mj
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2020-734` (tags `odluka-2020-734/<day>`; `python tools/on.py <day> odluka-2020-734`).
+Act id: `odluka-2020-734` (tags `odluka-2020-734/<day>`; `python registry/tools/on.py <day> odluka-2020-734`).
 
 ## Status
 

@@ -14,7 +14,7 @@ Pravilnik o javnoovršiteljskim ispravama i obrascima za provedbu ovrhe pred jav
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2011-1764` (tags `pravilnik-2011-1764/<day>`; `python tools/on.py <day> pravilnik-2011-1764`).
+Act id: `pravilnik-2011-1764` (tags `pravilnik-2011-1764/<day>`; `python registry/tools/on.py <day> pravilnik-2011-1764`).
 
 ## Decisions made by hand
 

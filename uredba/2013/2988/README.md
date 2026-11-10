@@ -9,7 +9,7 @@ Uredba o dopuni Uredbe o radnim mjestima policijskih službenika kojima se staž
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2013-2988` (tags `uredba-2013-2988/<day>`; `python tools/on.py <day> uredba-2013-2988`).
+Act id: `uredba-2013-2988` (tags `uredba-2013-2988/<day>`; `python registry/tools/on.py <day> uredba-2013-2988`).
 
 ## Decisions made by hand
 

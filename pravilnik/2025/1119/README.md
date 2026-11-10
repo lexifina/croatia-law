@@ -9,7 +9,7 @@ Pravilnik o izmjeni Pravilnika o načinu uporabe lovačkog oružja i naboja · 1
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2025-1119` (tags `pravilnik-2025-1119/<day>`; `python tools/on.py <day> pravilnik-2025-1119`).
+Act id: `pravilnik-2025-1119` (tags `pravilnik-2025-1119/<day>`; `python registry/tools/on.py <day> pravilnik-2025-1119`).
 
 ## Decisions made by hand
 

@@ -35,7 +35,7 @@ Zakon o izmjenama i dopunama Zakona o žičarama za prijevoz osoba · 1 versions
 | čl. 29 | [clanak-029.md](clanak-029.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2014-401` (tags `zakon-2014-401/<day>`; `python tools/on.py <day> zakon-2014-401`).
+Act id: `zakon-2014-401` (tags `zakon-2014-401/<day>`; `python registry/tools/on.py <day> zakon-2014-401`).
 
 ## Decisions made by hand
 

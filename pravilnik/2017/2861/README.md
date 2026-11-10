@@ -13,7 +13,7 @@ Pravilnik o izmjenama Pravilnika o provedbi mjere 16 »Suradnja« iz Programa ru
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2017-2861` (tags `pravilnik-2017-2861/<day>`; `python tools/on.py <day> pravilnik-2017-2861`).
+Act id: `pravilnik-2017-2861` (tags `pravilnik-2017-2861/<day>`; `python registry/tools/on.py <day> pravilnik-2017-2861`).
 
 ## Decisions made by hand
 

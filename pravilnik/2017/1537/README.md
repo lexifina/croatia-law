@@ -21,7 +21,7 @@ Pravilnik o mjerilima i načinu korištenja donacija i vlastitih prihoda naciona
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2017-1537` (tags `pravilnik-2017-1537/<day>`; `python tools/on.py <day> pravilnik-2017-1537`).
+Act id: `pravilnik-2017-1537` (tags `pravilnik-2017-1537/<day>`; `python registry/tools/on.py <day> pravilnik-2017-1537`).
 
 ## Status
 

@@ -20,7 +20,7 @@ Pravilnik o izmjenama i dopunama Pravilnika o registraciji i odobravanju objekat
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2021-60` (tags `pravilnik-2021-60/<day>`; `python tools/on.py <day> pravilnik-2021-60`).
+Act id: `pravilnik-2021-60` (tags `pravilnik-2021-60/<day>`; `python registry/tools/on.py <day> pravilnik-2021-60`).
 
 ## Decisions made by hand
 

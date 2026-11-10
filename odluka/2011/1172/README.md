@@ -8,7 +8,7 @@ Odluka o zabrani ribolova tuna (Thunnus thynnus) udičarskim alatima u gospodars
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2011-1172` (tags `odluka-2011-1172/<day>`; `python tools/on.py <day> odluka-2011-1172`).
+Act id: `odluka-2011-1172` (tags `odluka-2011-1172/<day>`; `python registry/tools/on.py <day> odluka-2011-1172`).
 
 ## Decisions made by hand
 

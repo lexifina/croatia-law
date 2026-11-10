@@ -12,7 +12,7 @@ Uredba o izmjenama i dopunama Uredbe o postupku, načinu i uvjetima za dobivanje
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2019-1047` (tags `uredba-2019-1047/<day>`; `python tools/on.py <day> uredba-2019-1047`).
+Act id: `uredba-2019-1047` (tags `uredba-2019-1047/<day>`; `python registry/tools/on.py <day> uredba-2019-1047`).
 
 ## Decisions made by hand
 

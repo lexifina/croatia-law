@@ -13,7 +13,7 @@ Pravilnik o izmjenama i dopunama pravilnika o načinu obračuna i rokovima uplat
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2016-1830` (tags `pravilnik-2016-1830/<day>`; `python tools/on.py <day> pravilnik-2016-1830`).
+Act id: `pravilnik-2016-1830` (tags `pravilnik-2016-1830/<day>`; `python registry/tools/on.py <day> pravilnik-2016-1830`).
 
 ## Decisions made by hand
 

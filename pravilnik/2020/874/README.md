@@ -9,7 +9,7 @@ Pravilnik o dopuni Pravilnika o provedbi mjera Nacionalnog pčelarskog programa 
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2020-874` (tags `pravilnik-2020-874/<day>`; `python tools/on.py <day> pravilnik-2020-874`).
+Act id: `pravilnik-2020-874` (tags `pravilnik-2020-874/<day>`; `python registry/tools/on.py <day> pravilnik-2020-874`).
 
 ## Decisions made by hand
 

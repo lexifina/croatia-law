@@ -27,7 +27,7 @@ Odluka o općinskim porezima Općine Dubravica · 1 versions, from 2019-01-01 (l
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2018-2283` (tags `odluka-2018-2283/<day>`; `python tools/on.py <day> odluka-2018-2283`).
+Act id: `odluka-2018-2283` (tags `odluka-2018-2283/<day>`; `python registry/tools/on.py <day> odluka-2018-2283`).
 
 ## Status
 

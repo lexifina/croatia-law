@@ -28,7 +28,7 @@ Zakon o izmjenama Zakona o prekršajima protiv javnog reda i mira · 1 versions,
 | čl. 22 | [clanak-022.md](clanak-022.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2023-806` (tags `zakon-2023-806/<day>`; `python tools/on.py <day> zakon-2023-806`).
+Act id: `zakon-2023-806` (tags `zakon-2023-806/<day>`; `python registry/tools/on.py <day> zakon-2023-806`).
 
 ## Decisions made by hand
 

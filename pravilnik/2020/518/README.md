@@ -11,7 +11,7 @@ Pravilnik o izmjenama Pravilnika o obrascima i načinu vođenja Evidencije vjers
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2020-518` (tags `pravilnik-2020-518/<day>`; `python tools/on.py <day> pravilnik-2020-518`).
+Act id: `pravilnik-2020-518` (tags `pravilnik-2020-518/<day>`; `python registry/tools/on.py <day> pravilnik-2020-518`).
 
 ## Decisions made by hand
 

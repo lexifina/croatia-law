@@ -24,7 +24,7 @@ Pravilnik o dodjeli stipendije za učenje hrvatskoga jezika u Republici Hrvatsko
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2019-1040` (tags `pravilnik-2019-1040/<day>`; `python tools/on.py <day> pravilnik-2019-1040`).
+Act id: `pravilnik-2019-1040` (tags `pravilnik-2019-1040/<day>`; `python registry/tools/on.py <day> pravilnik-2019-1040`).
 
 ## Decisions made by hand
 

@@ -8,7 +8,7 @@ Odluka o katastarskoj izmjeri na području Općine Lovreć za dijelove katastars
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2025-1617` (tags `odluka-2025-1617/<day>`; `python tools/on.py <day> odluka-2025-1617`).
+Act id: `odluka-2025-1617` (tags `odluka-2025-1617/<day>`; `python registry/tools/on.py <day> odluka-2025-1617`).
 
 ## Decisions made by hand
 

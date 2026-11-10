@@ -32,7 +32,7 @@ Pravilnik o uvjetima, kriterijima i načinu dodjele potpore u okviru mjere I.22.
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2020-1417` (tags `pravilnik-2020-1417/<day>`; `python tools/on.py <day> pravilnik-2020-1417`).
+Act id: `pravilnik-2020-1417` (tags `pravilnik-2020-1417/<day>`; `python registry/tools/on.py <day> pravilnik-2020-1417`).
 
 ## Decisions made by hand
 

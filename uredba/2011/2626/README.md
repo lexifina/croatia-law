@@ -10,7 +10,7 @@ Uredba o izmjeni Uredbe o određivanju lučkog područja luke Osijek · 1 versio
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2011-2626` (tags `uredba-2011-2626/<day>`; `python tools/on.py <day> uredba-2011-2626`).
+Act id: `uredba-2011-2626` (tags `uredba-2011-2626/<day>`; `python registry/tools/on.py <day> uredba-2011-2626`).
 
 ## Decisions made by hand
 

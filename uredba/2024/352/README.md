@@ -12,7 +12,7 @@ Uredba o rasponima koeficijenata u platnim razredima u jedinstvenoj platnoj ljes
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2024-352` (tags `uredba-2024-352/<day>`; `python tools/on.py <day> uredba-2024-352`).
+Act id: `uredba-2024-352` (tags `uredba-2024-352/<day>`; `python registry/tools/on.py <day> uredba-2024-352`).
 
 ## Decisions made by hand
 

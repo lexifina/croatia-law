@@ -19,7 +19,7 @@ Pravilnik o provedbi programa potpore za proizvođače mandarina za 2019. godinu
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2019-1081` (tags `pravilnik-2019-1081/<day>`; `python tools/on.py <day> pravilnik-2019-1081`).
+Act id: `pravilnik-2019-1081` (tags `pravilnik-2019-1081/<day>`; `python registry/tools/on.py <day> pravilnik-2019-1081`).
 
 ## Decisions made by hand
 

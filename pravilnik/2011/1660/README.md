@@ -9,7 +9,7 @@ Pravilnik o izmjenama Pravilnika o zaštićenim oznakama izvornosti i zaštićen
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2011-1660` (tags `pravilnik-2011-1660/<day>`; `python tools/on.py <day> pravilnik-2011-1660`).
+Act id: `pravilnik-2011-1660` (tags `pravilnik-2011-1660/<day>`; `python registry/tools/on.py <day> pravilnik-2011-1660`).
 
 ## Decisions made by hand
 

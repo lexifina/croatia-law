@@ -11,7 +11,7 @@ Uredba o dopuni Zakona o sudovima · 1 versions, from 2016-09-15 (latest in forc
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2016-1834` (tags `uredba-2016-1834/<day>`; `python tools/on.py <day> uredba-2016-1834`).
+Act id: `uredba-2016-1834` (tags `uredba-2016-1834/<day>`; `python registry/tools/on.py <day> uredba-2016-1834`).
 
 ## Decisions made by hand
 

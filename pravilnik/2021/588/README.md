@@ -13,7 +13,7 @@ Pravilnik o popisu stanišnih tipova i karti staništa · 1 versions, from 2021-
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2021-588` (tags `pravilnik-2021-588/<day>`; `python tools/on.py <day> pravilnik-2021-588`).
+Act id: `pravilnik-2021-588` (tags `pravilnik-2021-588/<day>`; `python registry/tools/on.py <day> pravilnik-2021-588`).
 
 ## Status
 

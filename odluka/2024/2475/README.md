@@ -16,7 +16,7 @@ Odluka o izmjenama i dopunama Odluke o načinu provedbe supervizije kreditnih in
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2024-2475` (tags `odluka-2024-2475/<day>`; `python tools/on.py <day> odluka-2024-2475`).
+Act id: `odluka-2024-2475` (tags `odluka-2024-2475/<day>`; `python registry/tools/on.py <day> odluka-2024-2475`).
 
 ## Status
 

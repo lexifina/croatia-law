@@ -12,7 +12,7 @@ Odluka o prirezu poreza na dohodak Općine Vuka · 1 versions, from 2012-01-26 (
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2012-187` (tags `odluka-2012-187/<day>`; `python tools/on.py <day> odluka-2012-187`).
+Act id: `odluka-2012-187` (tags `odluka-2012-187/<day>`; `python registry/tools/on.py <day> odluka-2012-187`).
 
 ## Decisions made by hand
 

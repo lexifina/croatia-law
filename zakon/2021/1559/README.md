@@ -8,7 +8,7 @@ Zakon o dopuni Zakona o zaštiti od nasilja u obitelji · 1 versions, from 2021-
 | čl. 2 | [clanak-002.md](clanak-002.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2021-1559` (tags `zakon-2021-1559/<day>`; `python tools/on.py <day> zakon-2021-1559`).
+Act id: `zakon-2021-1559` (tags `zakon-2021-1559/<day>`; `python registry/tools/on.py <day> zakon-2021-1559`).
 
 ## Decisions made by hand
 

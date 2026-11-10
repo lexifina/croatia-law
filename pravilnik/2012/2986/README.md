@@ -9,7 +9,7 @@ Pravilnik o izmjeni Pravilnika o higijeni hrane za životinje · 1 versions, fro
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2012-2986` (tags `pravilnik-2012-2986/<day>`; `python tools/on.py <day> pravilnik-2012-2986`).
+Act id: `pravilnik-2012-2986` (tags `pravilnik-2012-2986/<day>`; `python registry/tools/on.py <day> pravilnik-2012-2986`).
 
 ## Decisions made by hand
 

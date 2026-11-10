@@ -28,7 +28,7 @@ Uredba o izmjenama i dopunama Uredbe o mjerilima za plaće i drugim materijalnim
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2025-80` (tags `uredba-2025-80/<day>`; `python tools/on.py <day> uredba-2025-80`).
+Act id: `uredba-2025-80` (tags `uredba-2025-80/<day>`; `python registry/tools/on.py <day> uredba-2025-80`).
 
 ## Decisions made by hand
 

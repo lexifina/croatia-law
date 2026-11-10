@@ -9,7 +9,7 @@ Naputak o načinu uplaćivanja prihoda proračuna, obveznih doprinosa te prihoda
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `naputak-2021-208` (tags `naputak-2021-208/<day>`; `python tools/on.py <day> naputak-2021-208`).
+Act id: `naputak-2021-208` (tags `naputak-2021-208/<day>`; `python registry/tools/on.py <day> naputak-2021-208`).
 
 ## Status
 

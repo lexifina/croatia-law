@@ -28,7 +28,7 @@ Pravilnik o Fondu za poticanje pluralizma i raznovrsnosti elektroničkih medija 
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2012-1264` (tags `pravilnik-2012-1264/<day>`; `python tools/on.py <day> pravilnik-2012-1264`).
+Act id: `pravilnik-2012-1264` (tags `pravilnik-2012-1264/<day>`; `python registry/tools/on.py <day> pravilnik-2012-1264`).
 
 ## Status
 

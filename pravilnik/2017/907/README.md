@@ -8,7 +8,7 @@ Pravilnik o izmjenama i dopunama Pravilnika o uvjetima za članstvo u upravi i n
 | čl. 2 | [clanak-002.md](clanak-002.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `pravilnik-2017-907` (tags `pravilnik-2017-907/<day>`; `python tools/on.py <day> pravilnik-2017-907`).
+Act id: `pravilnik-2017-907` (tags `pravilnik-2017-907/<day>`; `python registry/tools/on.py <day> pravilnik-2017-907`).
 
 ## Decisions made by hand
 

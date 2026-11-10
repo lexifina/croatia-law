@@ -5,7 +5,7 @@ Pravilnik o priznavanju inozemnih stručnih kvalifikacija iz područja turizma �
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `pravilnik-2016-92` (tags `pravilnik-2016-92/<day>`; `python tools/on.py <day> pravilnik-2016-92`).
+Act id: `pravilnik-2016-92` (tags `pravilnik-2016-92/<day>`; `python registry/tools/on.py <day> pravilnik-2016-92`).
 
 ## Decisions made by hand
 

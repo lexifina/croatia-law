@@ -14,7 +14,7 @@ Uredba o izmjeni i dopunama Uredbe o standardima i uvjetima koje moraju ispunjav
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2023-4` (tags `uredba-2023-4/<day>`; `python tools/on.py <day> uredba-2023-4`).
+Act id: `uredba-2023-4` (tags `uredba-2023-4/<day>`; `python registry/tools/on.py <day> uredba-2023-4`).
 
 ## Decisions made by hand
 

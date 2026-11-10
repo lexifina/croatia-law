@@ -14,7 +14,7 @@ Uredba o izmjenama i dopuni Uredbe o osnivanju Međimurskog veleučilišta u Ča
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2013-2536` (tags `uredba-2013-2536/<day>`; `python tools/on.py <day> uredba-2013-2536`).
+Act id: `uredba-2013-2536` (tags `uredba-2013-2536/<day>`; `python registry/tools/on.py <day> uredba-2013-2536`).
 
 ## Decisions made by hand
 

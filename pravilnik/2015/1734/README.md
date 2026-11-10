@@ -26,7 +26,7 @@ Pravilnik o provedbi privremenih izvanrednih mjera potpore proizvođačima jabuk
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2015-1734` (tags `pravilnik-2015-1734/<day>`; `python tools/on.py <day> pravilnik-2015-1734`).
+Act id: `pravilnik-2015-1734` (tags `pravilnik-2015-1734/<day>`; `python registry/tools/on.py <day> pravilnik-2015-1734`).
 
 ## Status
 

@@ -9,7 +9,7 @@ Odluka o usklađivanju prekršajnog zakonodavstva Republike Hrvatske s Kaznenim 
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2012-1863` (tags `odluka-2012-1863/<day>`; `python tools/on.py <day> odluka-2012-1863`).
+Act id: `odluka-2012-1863` (tags `odluka-2012-1863/<day>`; `python registry/tools/on.py <day> odluka-2012-1863`).
 
 ## Decisions made by hand
 

@@ -9,7 +9,7 @@ Odluka o postupku davanja Iskaza o procjeni fiskalnog učinka · 1 versions, fro
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2015-2321` (tags `odluka-2015-2321/<day>`; `python tools/on.py <day> odluka-2015-2321`).
+Act id: `odluka-2015-2321` (tags `odluka-2015-2321/<day>`; `python registry/tools/on.py <day> odluka-2015-2321`).
 
 ## Status
 

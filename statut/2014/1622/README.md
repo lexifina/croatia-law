@@ -54,7 +54,7 @@ Statut Središnjeg registra osiguranika · 1 versions, from 2014-07-12 (latest i
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `statut-2014-1622` (tags `statut-2014-1622/<day>`; `python tools/on.py <day> statut-2014-1622`).
+Act id: `statut-2014-1622` (tags `statut-2014-1622/<day>`; `python registry/tools/on.py <day> statut-2014-1622`).
 
 ## Status
 

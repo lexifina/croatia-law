@@ -42,7 +42,7 @@ Pravilnik o stručnoj kontroli u ekološkoj proizvodnji · 1 versions, from 2011
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2011-1489` (tags `pravilnik-2011-1489/<day>`; `python tools/on.py <day> pravilnik-2011-1489`).
+Act id: `pravilnik-2011-1489` (tags `pravilnik-2011-1489/<day>`; `python registry/tools/on.py <day> pravilnik-2011-1489`).
 
 ## Status
 

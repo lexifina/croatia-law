@@ -9,7 +9,7 @@ Odluka o davanju suglasnosti na Financijski plan HŽ Putničkog prijevoza za 202
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2024-2456` (tags `odluka-2024-2456/<day>`; `python tools/on.py <day> odluka-2024-2456`).
+Act id: `odluka-2024-2456` (tags `odluka-2024-2456/<day>`; `python registry/tools/on.py <day> odluka-2024-2456`).
 
 ## Decisions made by hand
 

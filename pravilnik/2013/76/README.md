@@ -12,7 +12,7 @@ Pravilnik o izmjenama i dopunama Pravilnika o registraciji gospodarstava na koji
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2013-76` (tags `pravilnik-2013-76/<day>`; `python tools/on.py <day> pravilnik-2013-76`).
+Act id: `pravilnik-2013-76` (tags `pravilnik-2013-76/<day>`; `python registry/tools/on.py <day> pravilnik-2013-76`).
 
 ## Decisions made by hand
 

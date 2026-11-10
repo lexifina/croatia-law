@@ -25,7 +25,7 @@ Uredba o razinama onečišćujućih tvari u zraku · 1 versions, from 2013-01-01
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2012-2521` (tags `uredba-2012-2521/<day>`; `python tools/on.py <day> uredba-2012-2521`).
+Act id: `uredba-2012-2521` (tags `uredba-2012-2521/<day>`; `python registry/tools/on.py <day> uredba-2012-2521`).
 
 ## Status
 

@@ -8,7 +8,7 @@ Odluka o zatvaranju za promet postojećega pješačkog prijelaza preko pruge · 
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2015-685` (tags `odluka-2015-685/<day>`; `python tools/on.py <day> odluka-2015-685`).
+Act id: `odluka-2015-685` (tags `odluka-2015-685/<day>`; `python registry/tools/on.py <day> odluka-2015-685`).
 
 ## Status
 

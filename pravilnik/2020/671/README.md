@@ -5,7 +5,7 @@ Pravilnik o kriterijima za određivanje stupnjeva tajnosti podataka Ureda predsj
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `pravilnik-2020-671` (tags `pravilnik-2020-671/<day>`; `python tools/on.py <day> pravilnik-2020-671`).
+Act id: `pravilnik-2020-671` (tags `pravilnik-2020-671/<day>`; `python registry/tools/on.py <day> pravilnik-2020-671`).
 
 ## Decisions made by hand
 

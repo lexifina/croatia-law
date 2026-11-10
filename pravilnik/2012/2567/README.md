@@ -10,7 +10,7 @@ Pravilnik o izmjeni Pravilnika o posebnim uvjetima za obavljanje djelatnosti spr
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2012-2567` (tags `pravilnik-2012-2567/<day>`; `python tools/on.py <day> pravilnik-2012-2567`).
+Act id: `pravilnik-2012-2567` (tags `pravilnik-2012-2567/<day>`; `python registry/tools/on.py <day> pravilnik-2012-2567`).
 
 ## Status
 

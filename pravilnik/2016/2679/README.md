@@ -20,7 +20,7 @@ Pravilnik o utvrđivanju zdravstvene sposobnosti, načinu i postupku utvrđivanj
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2016-2679` (tags `pravilnik-2016-2679/<day>`; `python tools/on.py <day> pravilnik-2016-2679`).
+Act id: `pravilnik-2016-2679` (tags `pravilnik-2016-2679/<day>`; `python registry/tools/on.py <day> pravilnik-2016-2679`).
 
 ## Decisions made by hand
 

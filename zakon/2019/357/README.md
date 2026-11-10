@@ -43,7 +43,7 @@ Zakon o zaštiti prijavitelja nepravilnosti · 1 versions, from 2019-07-01 (late
 | čl. 37 | [clanak-037.md](clanak-037.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2019-357` (tags `zakon-2019-357/<day>`; `python tools/on.py <day> zakon-2019-357`).
+Act id: `zakon-2019-357` (tags `zakon-2019-357/<day>`; `python registry/tools/on.py <day> zakon-2019-357`).
 
 ## Status
 

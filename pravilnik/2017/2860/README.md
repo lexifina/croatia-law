@@ -18,7 +18,7 @@ Pravilnik o izmjenama i dopunama Pravilnika o troškovima za usluge i postupke k
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2017-2860` (tags `pravilnik-2017-2860/<day>`; `python tools/on.py <day> pravilnik-2017-2860`).
+Act id: `pravilnik-2017-2860` (tags `pravilnik-2017-2860/<day>`; `python registry/tools/on.py <day> pravilnik-2017-2860`).
 
 ## Decisions made by hand
 

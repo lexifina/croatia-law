@@ -18,7 +18,7 @@ Pravilnik o izmjenama i dopunama Pravilnika o vrstama naknada za obavljanje posl
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2024-1338` (tags `pravilnik-2024-1338/<day>`; `python tools/on.py <day> pravilnik-2024-1338`).
+Act id: `pravilnik-2024-1338` (tags `pravilnik-2024-1338/<day>`; `python registry/tools/on.py <day> pravilnik-2024-1338`).
 
 ## Decisions made by hand
 

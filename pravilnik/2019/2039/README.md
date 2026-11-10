@@ -39,7 +39,7 @@ Pravilnik o načinu ostvarivanja prava na potporu za obrazovanje · 1 versions, 
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2019-2039` (tags `pravilnik-2019-2039/<day>`; `python tools/on.py <day> pravilnik-2019-2039`).
+Act id: `pravilnik-2019-2039` (tags `pravilnik-2019-2039/<day>`; `python registry/tools/on.py <day> pravilnik-2019-2039`).
 
 ## Decisions made by hand
 

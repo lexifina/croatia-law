@@ -8,7 +8,7 @@ Odluka o raspisivanju prijevremenih izbora za Gradsko vijeće Grada Vukovara · 
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2011-1` (tags `odluka-2011-1/<day>`; `python tools/on.py <day> odluka-2011-1`).
+Act id: `odluka-2011-1` (tags `odluka-2011-1/<day>`; `python registry/tools/on.py <day> odluka-2011-1`).
 
 ## Decisions made by hand
 

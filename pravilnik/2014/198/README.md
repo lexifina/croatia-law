@@ -16,7 +16,7 @@ Pravilnik o izmjenama i dopunama Pravilnika o provedbi Sheme školskog voća · 
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2014-198` (tags `pravilnik-2014-198/<day>`; `python tools/on.py <day> pravilnik-2014-198`).
+Act id: `pravilnik-2014-198` (tags `pravilnik-2014-198/<day>`; `python registry/tools/on.py <day> pravilnik-2014-198`).
 
 ## Decisions made by hand
 

@@ -8,7 +8,7 @@ Odluka o izmjeni i dopuni Odluke o načinu održavanja pogreba i posljednjih isp
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2020-982` (tags `odluka-2020-982/<day>`; `python tools/on.py <day> odluka-2020-982`).
+Act id: `odluka-2020-982` (tags `odluka-2020-982/<day>`; `python registry/tools/on.py <day> odluka-2020-982`).
 
 ## Decisions made by hand
 

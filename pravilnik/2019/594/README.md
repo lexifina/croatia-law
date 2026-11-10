@@ -10,7 +10,7 @@ Pravilnik o izmjenama Pravilnika o provedbi Uredbe (EU) br. 376/2014 Europskog p
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2019-594` (tags `pravilnik-2019-594/<day>`; `python tools/on.py <day> pravilnik-2019-594`).
+Act id: `pravilnik-2019-594` (tags `pravilnik-2019-594/<day>`; `python registry/tools/on.py <day> pravilnik-2019-594`).
 
 ## Decisions made by hand
 

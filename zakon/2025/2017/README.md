@@ -38,7 +38,7 @@ Zakon o izmjenama i dopunama Zakona o uredu za suzbijanje korupcije i organizira
 | čl. 32 | [clanak-032.md](clanak-032.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2025-2017` (tags `zakon-2025-2017/<day>`; `python tools/on.py <day> zakon-2025-2017`).
+Act id: `zakon-2025-2017` (tags `zakon-2025-2017/<day>`; `python registry/tools/on.py <day> zakon-2025-2017`).
 
 ## Decisions made by hand
 

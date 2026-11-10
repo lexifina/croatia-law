@@ -10,7 +10,7 @@ Uredba o izmjeni i dopuni Zakona o provedbi ovrhe na novčanim sredstvima · 1 v
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2020-17` (tags `uredba-2020-17/<day>`; `python tools/on.py <day> uredba-2020-17`).
+Act id: `uredba-2020-17` (tags `uredba-2020-17/<day>`; `python registry/tools/on.py <day> uredba-2020-17`).
 
 ## Status
 

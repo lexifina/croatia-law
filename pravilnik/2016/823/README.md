@@ -10,7 +10,7 @@ Pravilnik o izmjeni i dopuni Pravilnika o obrascima i evidenciji osobnih iskazni
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2016-823` (tags `pravilnik-2016-823/<day>`; `python tools/on.py <day> pravilnik-2016-823`).
+Act id: `pravilnik-2016-823` (tags `pravilnik-2016-823/<day>`; `python registry/tools/on.py <day> pravilnik-2016-823`).
 
 ## Decisions made by hand
 

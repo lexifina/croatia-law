@@ -5,7 +5,7 @@ Pravilnik o katastru infrastrukture · 2 versions, from 2017-04-08 (latest in fo
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `pravilnik-2017-663` (tags `pravilnik-2017-663/<day>`; `python tools/on.py <day> pravilnik-2017-663`).
+Act id: `pravilnik-2017-663` (tags `pravilnik-2017-663/<day>`; `python registry/tools/on.py <day> pravilnik-2017-663`).
 
 ## Decisions made by hand
 

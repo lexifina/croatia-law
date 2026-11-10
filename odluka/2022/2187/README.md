@@ -13,7 +13,7 @@ Odluka o pravilima za puštanje likvidnosti u američkim dolarima · 1 versions,
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2022-2187` (tags `odluka-2022-2187/<day>`; `python tools/on.py <day> odluka-2022-2187`).
+Act id: `odluka-2022-2187` (tags `odluka-2022-2187/<day>`; `python registry/tools/on.py <day> odluka-2022-2187`).
 
 ## Decisions made by hand
 

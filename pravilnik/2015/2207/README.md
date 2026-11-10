@@ -10,7 +10,7 @@ Pravilnik o izmjenama Pravilnika o uvjetima za određivanje područja na kojem �
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2015-2207` (tags `pravilnik-2015-2207/<day>`; `python tools/on.py <day> pravilnik-2015-2207`).
+Act id: `pravilnik-2015-2207` (tags `pravilnik-2015-2207/<day>`; `python registry/tools/on.py <day> pravilnik-2015-2207`).
 
 ## Decisions made by hand
 

@@ -9,7 +9,7 @@ Uredba o prestanku važenja Uredbe o visini naknade za obavljanje poslova upravl
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2019-809` (tags `uredba-2019-809/<day>`; `python tools/on.py <day> uredba-2019-809`).
+Act id: `uredba-2019-809` (tags `uredba-2019-809/<day>`; `python registry/tools/on.py <day> uredba-2019-809`).
 
 ## Decisions made by hand
 

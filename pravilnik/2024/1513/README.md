@@ -46,7 +46,7 @@ Pravilnik o provedbi intervencije 72.01. Potpora za ograničenje u gospodarenju 
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2024-1513` (tags `pravilnik-2024-1513/<day>`; `python tools/on.py <day> pravilnik-2024-1513`).
+Act id: `pravilnik-2024-1513` (tags `pravilnik-2024-1513/<day>`; `python registry/tools/on.py <day> pravilnik-2024-1513`).
 
 ## Status
 

@@ -39,7 +39,7 @@ Pravilnik o uvjetima koje moraju ispunjavati ovlaštene osobe za obavljanje stru
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2016-1467` (tags `pravilnik-2016-1467/<day>`; `python tools/on.py <day> pravilnik-2016-1467`).
+Act id: `pravilnik-2016-1467` (tags `pravilnik-2016-1467/<day>`; `python registry/tools/on.py <day> pravilnik-2016-1467`).
 
 ## Status
 

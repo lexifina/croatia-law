@@ -17,7 +17,7 @@ Pravilnik o izdavanju odobrenja za rad te stjecanju dionica ili poslovnih udjela
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2014-1004` (tags `pravilnik-2014-1004/<day>`; `python tools/on.py <day> pravilnik-2014-1004`).
+Act id: `pravilnik-2014-1004` (tags `pravilnik-2014-1004/<day>`; `python registry/tools/on.py <day> pravilnik-2014-1004`).
 
 ## Status
 

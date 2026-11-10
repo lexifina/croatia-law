@@ -34,7 +34,7 @@ Pravilnik o ustrojavanju, sadržaju i načinu vođenja središnje elektroničke 
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2015-2292` (tags `pravilnik-2015-2292/<day>`; `python tools/on.py <day> pravilnik-2015-2292`).
+Act id: `pravilnik-2015-2292` (tags `pravilnik-2015-2292/<day>`; `python registry/tools/on.py <day> pravilnik-2015-2292`).
 
 ## Decisions made by hand
 

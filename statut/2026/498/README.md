@@ -33,7 +33,7 @@ Statut političke stranke Drito · 1 versions, from 2026-03-09 (latest in force:
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `statut-2026-498` (tags `statut-2026-498/<day>`; `python tools/on.py <day> statut-2026-498`).
+Act id: `statut-2026-498` (tags `statut-2026-498/<day>`; `python registry/tools/on.py <day> statut-2026-498`).
 
 ## Decisions made by hand
 

@@ -27,7 +27,7 @@ Pravilnik o posebnim uvjetima za obavljanje djelatnosti pružanja medijskih uslu
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2022-1832` (tags `pravilnik-2022-1832/<day>`; `python tools/on.py <day> pravilnik-2022-1832`).
+Act id: `pravilnik-2022-1832` (tags `pravilnik-2022-1832/<day>`; `python registry/tools/on.py <day> pravilnik-2022-1832`).
 
 ## Decisions made by hand
 

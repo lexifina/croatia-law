@@ -9,7 +9,7 @@ Naputak o dopuni Naputka o načinu isplate beskamatnog zajma jedinicama lokalne 
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `naputak-2021-109` (tags `naputak-2021-109/<day>`; `python tools/on.py <day> naputak-2021-109`).
+Act id: `naputak-2021-109` (tags `naputak-2021-109/<day>`; `python registry/tools/on.py <day> naputak-2021-109`).
 
 ## Decisions made by hand
 

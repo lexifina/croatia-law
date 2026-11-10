@@ -24,7 +24,7 @@ Odluka o lokalnim porezima Općine Fažana · 1 versions, from 2018-01-04 (lates
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2017-3004` (tags `odluka-2017-3004/<day>`; `python tools/on.py <day> odluka-2017-3004`).
+Act id: `odluka-2017-3004` (tags `odluka-2017-3004/<day>`; `python registry/tools/on.py <day> odluka-2017-3004`).
 
 ## Status
 

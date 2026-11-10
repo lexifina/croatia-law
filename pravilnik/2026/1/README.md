@@ -14,7 +14,7 @@ Pravilnik o visini naknade za izdavanje uvjerenja o nekretninama procijenjenim u
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2026-1` (tags `pravilnik-2026-1/<day>`; `python tools/on.py <day> pravilnik-2026-1`).
+Act id: `pravilnik-2026-1` (tags `pravilnik-2026-1/<day>`; `python registry/tools/on.py <day> pravilnik-2026-1`).
 
 ## Decisions made by hand
 

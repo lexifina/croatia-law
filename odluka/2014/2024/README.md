@@ -8,7 +8,7 @@ Odluka o visini jedinične naknade na emisije stakleničkih plinova za operatere
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2014-2024` (tags `odluka-2014-2024/<day>`; `python tools/on.py <day> odluka-2014-2024`).
+Act id: `odluka-2014-2024` (tags `odluka-2014-2024/<day>`; `python registry/tools/on.py <day> odluka-2014-2024`).
 
 ## Decisions made by hand
 

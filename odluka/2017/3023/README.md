@@ -9,7 +9,7 @@ Odluka o donošenju Kodeksa korporativnog upravljanja trgovačkim društvima u k
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2017-3023` (tags `odluka-2017-3023/<day>`; `python tools/on.py <day> odluka-2017-3023`).
+Act id: `odluka-2017-3023` (tags `odluka-2017-3023/<day>`; `python registry/tools/on.py <day> odluka-2017-3023`).
 
 ## Status
 

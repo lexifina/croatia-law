@@ -18,7 +18,7 @@ Naputak o postupanju policije u dovođenju osobe s duševnim smetnjama u psihija
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `naputak-2015-990` (tags `naputak-2015-990/<day>`; `python tools/on.py <day> naputak-2015-990`).
+Act id: `naputak-2015-990` (tags `naputak-2015-990/<day>`; `python registry/tools/on.py <day> naputak-2015-990`).
 
 ## Decisions made by hand
 

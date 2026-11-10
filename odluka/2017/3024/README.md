@@ -8,7 +8,7 @@ Odluka o osnivanju Povjerenstva za rješavanje mogućih prometnih problema na gr
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2017-3024` (tags `odluka-2017-3024/<day>`; `python tools/on.py <day> odluka-2017-3024`).
+Act id: `odluka-2017-3024` (tags `odluka-2017-3024/<day>`; `python registry/tools/on.py <day> odluka-2017-3024`).
 
 ## Decisions made by hand
 

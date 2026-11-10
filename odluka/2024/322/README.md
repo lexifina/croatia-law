@@ -5,7 +5,7 @@ Odluka o Registru ovlaštenih pružatelja usluga servisiranja kredita i načinu 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `odluka-2024-322` (tags `odluka-2024-322/<day>`; `python tools/on.py <day> odluka-2024-322`).
+Act id: `odluka-2024-322` (tags `odluka-2024-322/<day>`; `python registry/tools/on.py <day> odluka-2024-322`).
 
 ## Decisions made by hand
 

@@ -19,7 +19,7 @@ Pravilnik o izmjenama i dopunama Pravilnika o fiskalizaciji u prometu gotovinom 
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2020-1390` (tags `pravilnik-2020-1390/<day>`; `python tools/on.py <day> pravilnik-2020-1390`).
+Act id: `pravilnik-2020-1390` (tags `pravilnik-2020-1390/<day>`; `python registry/tools/on.py <day> pravilnik-2020-1390`).
 
 ## Decisions made by hand
 

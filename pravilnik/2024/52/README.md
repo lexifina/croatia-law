@@ -24,7 +24,7 @@ Pravilnik o načinu i uvjetima pristupa i korištenja pristupne točke i fizičk
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2024-52` (tags `pravilnik-2024-52/<day>`; `python tools/on.py <day> pravilnik-2024-52`).
+Act id: `pravilnik-2024-52` (tags `pravilnik-2024-52/<day>`; `python registry/tools/on.py <day> pravilnik-2024-52`).
 
 ## Decisions made by hand
 

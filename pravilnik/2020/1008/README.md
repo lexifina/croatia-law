@@ -27,7 +27,7 @@ Pravilnik o postupku ostvarivanja prava i troškovima pogreba · 1 versions, fro
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2020-1008` (tags `pravilnik-2020-1008/<day>`; `python tools/on.py <day> pravilnik-2020-1008`).
+Act id: `pravilnik-2020-1008` (tags `pravilnik-2020-1008/<day>`; `python registry/tools/on.py <day> pravilnik-2020-1008`).
 
 ## Decisions made by hand
 

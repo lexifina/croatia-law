@@ -9,7 +9,7 @@ Uredba o izmjeni i dopuni Uredbe o nazivima radnih mjesta i koeficijentima slož
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2017-2782` (tags `uredba-2017-2782/<day>`; `python tools/on.py <day> uredba-2017-2782`).
+Act id: `uredba-2017-2782` (tags `uredba-2017-2782/<day>`; `python registry/tools/on.py <day> uredba-2017-2782`).
 
 ## Decisions made by hand
 

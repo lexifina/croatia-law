@@ -25,7 +25,7 @@ Zakon o izmjenama i dopunama Zakona o Uredu za suzbijanje korupcije i organizira
 | čl. 19 | [clanak-019.md](clanak-019.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2012-2882` (tags `zakon-2012-2882/<day>`; `python tools/on.py <day> zakon-2012-2882`).
+Act id: `zakon-2012-2882` (tags `zakon-2012-2882/<day>`; `python registry/tools/on.py <day> zakon-2012-2882`).
 
 ## Decisions made by hand
 

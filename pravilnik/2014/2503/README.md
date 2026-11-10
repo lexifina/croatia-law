@@ -63,7 +63,7 @@ Pravilnik o vojnim odorama · 1 versions, from 2014-11-22 (latest in force: 2014
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2014-2503` (tags `pravilnik-2014-2503/<day>`; `python tools/on.py <day> pravilnik-2014-2503`).
+Act id: `pravilnik-2014-2503` (tags `pravilnik-2014-2503/<day>`; `python registry/tools/on.py <day> pravilnik-2014-2503`).
 
 ## Status
 

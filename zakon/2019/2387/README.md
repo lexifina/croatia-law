@@ -19,7 +19,7 @@ Zakon o izmjenama i dopunama Zakona o fiskalizaciji u prometu gotovinom · 1 ver
 | čl. 13 | [clanak-013.md](clanak-013.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2019-2387` (tags `zakon-2019-2387/<day>`; `python tools/on.py <day> zakon-2019-2387`).
+Act id: `zakon-2019-2387` (tags `zakon-2019-2387/<day>`; `python registry/tools/on.py <day> zakon-2019-2387`).
 
 ## Decisions made by hand
 

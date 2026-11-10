@@ -10,7 +10,7 @@ Odluka o izmjenama i dopunama Odluke o utvrđivanju Osnove liste lijekova Hrvats
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2015-1035` (tags `odluka-2015-1035/<day>`; `python tools/on.py <day> odluka-2015-1035`).
+Act id: `odluka-2015-1035` (tags `odluka-2015-1035/<day>`; `python registry/tools/on.py <day> odluka-2015-1035`).
 
 ## Decisions made by hand
 

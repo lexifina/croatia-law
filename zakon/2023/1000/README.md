@@ -11,7 +11,7 @@ Zakon o izmjenama Zakona o Hrvatskoj komori inženjera tehnologije prometa i tra
 | čl. 5 | [clanak-005.md](clanak-005.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2023-1000` (tags `zakon-2023-1000/<day>`; `python tools/on.py <day> zakon-2023-1000`).
+Act id: `zakon-2023-1000` (tags `zakon-2023-1000/<day>`; `python registry/tools/on.py <day> zakon-2023-1000`).
 
 ## Decisions made by hand
 

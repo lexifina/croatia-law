@@ -5,7 +5,7 @@ Pravilnik o izdavanju odobrenja za rad i stjecanju kvalificiranog udjela društv
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `pravilnik-2017-934` (tags `pravilnik-2017-934/<day>`; `python tools/on.py <day> pravilnik-2017-934`).
+Act id: `pravilnik-2017-934` (tags `pravilnik-2017-934/<day>`; `python registry/tools/on.py <day> pravilnik-2017-934`).
 
 ## Decisions made by hand
 

@@ -9,7 +9,7 @@ Naputak o izmjeni Naputka o načinu postupanja u slučaju zlouporabe poziva na b
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `naputak-2011-1666` (tags `naputak-2011-1666/<day>`; `python tools/on.py <day> naputak-2011-1666`).
+Act id: `naputak-2011-1666` (tags `naputak-2011-1666/<day>`; `python registry/tools/on.py <day> naputak-2011-1666`).
 
 ## Decisions made by hand
 

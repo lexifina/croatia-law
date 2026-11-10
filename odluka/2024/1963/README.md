@@ -8,7 +8,7 @@ Odluka o raspisivanju prijevremenih izbora za gradonačelnika Grada Otoka · 1 v
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2024-1963` (tags `odluka-2024-1963/<day>`; `python tools/on.py <day> odluka-2024-1963`).
+Act id: `odluka-2024-1963` (tags `odluka-2024-1963/<day>`; `python registry/tools/on.py <day> odluka-2024-1963`).
 
 ## Decisions made by hand
 

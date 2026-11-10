@@ -9,7 +9,7 @@ Uredba o dopuni Uredbe o nazivima radnih mjesta i koeficijentima složenosti pos
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2014-1761` (tags `uredba-2014-1761/<day>`; `python tools/on.py <day> uredba-2014-1761`).
+Act id: `uredba-2014-1761` (tags `uredba-2014-1761/<day>`; `python registry/tools/on.py <day> uredba-2014-1761`).
 
 ## Status
 

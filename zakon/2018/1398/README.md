@@ -54,7 +54,7 @@ Zakon o izmjenama i dopunama Zakona o odgoju i obrazovanju u osnovnoj i srednjoj
 | čl. 48 | [clanak-048.md](clanak-048.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2018-1398` (tags `zakon-2018-1398/<day>`; `python tools/on.py <day> zakon-2018-1398`).
+Act id: `zakon-2018-1398` (tags `zakon-2018-1398/<day>`; `python registry/tools/on.py <day> zakon-2018-1398`).
 
 ## Decisions made by hand
 

@@ -28,7 +28,7 @@ Pravilnik o prostornim, tehničkim i sigurnosnim zahtjevima koje moraju zadovolj
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2018-810` (tags `pravilnik-2018-810/<day>`; `python tools/on.py <day> pravilnik-2018-810`).
+Act id: `pravilnik-2018-810` (tags `pravilnik-2018-810/<day>`; `python registry/tools/on.py <day> pravilnik-2018-810`).
 
 ## Decisions made by hand
 

@@ -8,7 +8,7 @@ Odluka o donošenju Nacionalnog plana razvoja željezničke infrastrukture za ra
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2022-2532` (tags `odluka-2022-2532/<day>`; `python tools/on.py <day> odluka-2022-2532`).
+Act id: `odluka-2022-2532` (tags `odluka-2022-2532/<day>`; `python registry/tools/on.py <day> odluka-2022-2532`).
 
 ## Decisions made by hand
 

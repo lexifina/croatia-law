@@ -9,7 +9,7 @@ Odluka o preporukama za poticanje alternativnog i izvansudskog rješavanja sporo
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2012-1619` (tags `odluka-2012-1619/<day>`; `python tools/on.py <day> odluka-2012-1619`).
+Act id: `odluka-2012-1619` (tags `odluka-2012-1619/<day>`; `python registry/tools/on.py <day> odluka-2012-1619`).
 
 ## Status
 

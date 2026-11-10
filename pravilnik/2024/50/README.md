@@ -15,7 +15,7 @@ Pravilnik o izmjenama i dopunama Pravilnika o dozvolama u prijevozu tereta · 1 
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2024-50` (tags `pravilnik-2024-50/<day>`; `python tools/on.py <day> pravilnik-2024-50`).
+Act id: `pravilnik-2024-50` (tags `pravilnik-2024-50/<day>`; `python registry/tools/on.py <day> pravilnik-2024-50`).
 
 ## Decisions made by hand
 

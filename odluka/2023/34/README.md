@@ -8,7 +8,7 @@ Odluka o raspisivanju prijevremenih izbora za općinskog načelnika Općine Star
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2023-34` (tags `odluka-2023-34/<day>`; `python tools/on.py <day> odluka-2023-34`).
+Act id: `odluka-2023-34` (tags `odluka-2023-34/<day>`; `python registry/tools/on.py <day> odluka-2023-34`).
 
 ## Decisions made by hand
 

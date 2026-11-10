@@ -24,7 +24,7 @@ Zakon o izmjenama i dopunama Zakona o posredovanju pri zapošljavanju i pravima 
 | čl. 18 | [clanak-018.md](clanak-018.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2012-635` (tags `zakon-2012-635/<day>`; `python tools/on.py <day> zakon-2012-635`).
+Act id: `zakon-2012-635` (tags `zakon-2012-635/<day>`; `python registry/tools/on.py <day> zakon-2012-635`).
 
 ## Decisions made by hand
 

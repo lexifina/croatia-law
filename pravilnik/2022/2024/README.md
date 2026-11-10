@@ -17,7 +17,7 @@ Pravilnik o provođenju javnog natječaja za prodaju poljoprivrednog zemljišta 
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2022-2024` (tags `pravilnik-2022-2024/<day>`; `python tools/on.py <day> pravilnik-2022-2024`).
+Act id: `pravilnik-2022-2024` (tags `pravilnik-2022-2024/<day>`; `python registry/tools/on.py <day> pravilnik-2022-2024`).
 
 ## Status
 

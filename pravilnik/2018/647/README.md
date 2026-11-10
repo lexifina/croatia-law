@@ -46,7 +46,7 @@ Pravilnik o upravljanju zračnim prostorom · 1 versions, from 2018-04-12 (lates
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2018-647` (tags `pravilnik-2018-647/<day>`; `python tools/on.py <day> pravilnik-2018-647`).
+Act id: `pravilnik-2018-647` (tags `pravilnik-2018-647/<day>`; `python registry/tools/on.py <day> pravilnik-2018-647`).
 
 ## Status
 

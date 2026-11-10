@@ -14,7 +14,7 @@ Pravilnik o izmjenama i dopunama Pravilnika o organizacijskim zahtjevima za miro
 | čl. 8 | [clanak-008.md](clanak-008.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `pravilnik-2017-899` (tags `pravilnik-2017-899/<day>`; `python tools/on.py <day> pravilnik-2017-899`).
+Act id: `pravilnik-2017-899` (tags `pravilnik-2017-899/<day>`; `python registry/tools/on.py <day> pravilnik-2017-899`).
 
 ## Decisions made by hand
 

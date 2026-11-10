@@ -8,7 +8,7 @@ Odluka o izmjeni Odluke o davanju koncesije za osnivanje Slobodne zone Zagreb ·
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2020-1553` (tags `odluka-2020-1553/<day>`; `python tools/on.py <day> odluka-2020-1553`).
+Act id: `odluka-2020-1553` (tags `odluka-2020-1553/<day>`; `python registry/tools/on.py <day> odluka-2020-1553`).
 
 ## Decisions made by hand
 

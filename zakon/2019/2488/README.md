@@ -76,7 +76,7 @@ Zakon o izmjenama i dopunama Zakona o službi u Oružanim snagama Republike Hrva
 | čl. 70 | [clanak-070.md](clanak-070.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2019-2488` (tags `zakon-2019-2488/<day>`; `python tools/on.py <day> zakon-2019-2488`).
+Act id: `zakon-2019-2488` (tags `zakon-2019-2488/<day>`; `python registry/tools/on.py <day> zakon-2019-2488`).
 
 ## Decisions made by hand
 

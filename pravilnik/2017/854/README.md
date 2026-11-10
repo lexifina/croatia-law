@@ -9,7 +9,7 @@ Pravilnik o izmjenama i dopunama Pravilnika o dozvoljenim ulaganjima i dodatnim 
 | čl. 3 | [clanak-003.md](clanak-003.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `pravilnik-2017-854` (tags `pravilnik-2017-854/<day>`; `python tools/on.py <day> pravilnik-2017-854`).
+Act id: `pravilnik-2017-854` (tags `pravilnik-2017-854/<day>`; `python registry/tools/on.py <day> pravilnik-2017-854`).
 
 ## Decisions made by hand
 

@@ -9,7 +9,7 @@ Odluka o nužnim epidemiološkim mjerama kojima se ograničavaju okupljanja i uv
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2020-2289` (tags `odluka-2020-2289/<day>`; `python tools/on.py <day> odluka-2020-2289`).
+Act id: `odluka-2020-2289` (tags `odluka-2020-2289/<day>`; `python registry/tools/on.py <day> odluka-2020-2289`).
 
 ## Status
 

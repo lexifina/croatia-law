@@ -11,7 +11,7 @@ Odluka o izmjenama Odluke o gradskim porezima Grada Novog Vinodolskog · 1 versi
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2023-2068` (tags `odluka-2023-2068/<day>`; `python tools/on.py <day> odluka-2023-2068`).
+Act id: `odluka-2023-2068` (tags `odluka-2023-2068/<day>`; `python registry/tools/on.py <day> odluka-2023-2068`).
 
 ## Decisions made by hand
 

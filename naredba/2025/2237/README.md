@@ -28,7 +28,7 @@ Naredba o iznosima osnovica za obračun doprinosa za obvezna osiguranja za 2026.
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `naredba-2025-2237` (tags `naredba-2025-2237/<day>`; `python tools/on.py <day> naredba-2025-2237`).
+Act id: `naredba-2025-2237` (tags `naredba-2025-2237/<day>`; `python registry/tools/on.py <day> naredba-2025-2237`).
 
 ## Decisions made by hand
 

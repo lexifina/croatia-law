@@ -42,7 +42,7 @@ Pravilnik o provođenju unutarnjeg nadzora i unutarnje kontrole u Carinskoj upra
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2013-3236` (tags `pravilnik-2013-3236/<day>`; `python tools/on.py <day> pravilnik-2013-3236`).
+Act id: `pravilnik-2013-3236` (tags `pravilnik-2013-3236/<day>`; `python registry/tools/on.py <day> pravilnik-2013-3236`).
 
 ## Decisions made by hand
 

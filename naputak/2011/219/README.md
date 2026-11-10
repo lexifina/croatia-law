@@ -11,7 +11,7 @@ Naputak o načinu provođenja mjera kontrole zdravlja životinja od zaraznih i n
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `naputak-2011-219` (tags `naputak-2011-219/<day>`; `python tools/on.py <day> naputak-2011-219`).
+Act id: `naputak-2011-219` (tags `naputak-2011-219/<day>`; `python registry/tools/on.py <day> naputak-2011-219`).
 
 ## Decisions made by hand
 

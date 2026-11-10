@@ -12,7 +12,7 @@ Odluka o dodjeli sredstava županijskim upravama za ceste za održavanje, rekons
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2018-796` (tags `odluka-2018-796/<day>`; `python tools/on.py <day> odluka-2018-796`).
+Act id: `odluka-2018-796` (tags `odluka-2018-796/<day>`; `python registry/tools/on.py <day> odluka-2018-796`).
 
 ## Status
 

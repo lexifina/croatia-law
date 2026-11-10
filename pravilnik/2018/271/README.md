@@ -5,7 +5,7 @@ Pravilnik o zbrinjavanju radioaktivnog otpada i iskorištenih izvora · 2 versio
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `pravilnik-2018-271` (tags `pravilnik-2018-271/<day>`; `python tools/on.py <day> pravilnik-2018-271`).
+Act id: `pravilnik-2018-271` (tags `pravilnik-2018-271/<day>`; `python registry/tools/on.py <day> pravilnik-2018-271`).
 
 ## Decisions made by hand
 

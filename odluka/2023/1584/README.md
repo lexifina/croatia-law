@@ -9,7 +9,7 @@ Odluka o izmjeni i dopuni Odluke o uvjetima ostvarivanja dobrovoljnog članstva 
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2023-1584` (tags `odluka-2023-1584/<day>`; `python tools/on.py <day> odluka-2023-1584`).
+Act id: `odluka-2023-1584` (tags `odluka-2023-1584/<day>`; `python registry/tools/on.py <day> odluka-2023-1584`).
 
 ## Decisions made by hand
 

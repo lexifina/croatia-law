@@ -9,7 +9,7 @@ Pravilnik o izmjenama Pravilnika o dentalnoj zdravstvenoj zaštiti iz obveznog z
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2020-555` (tags `pravilnik-2020-555/<day>`; `python tools/on.py <day> pravilnik-2020-555`).
+Act id: `pravilnik-2020-555` (tags `pravilnik-2020-555/<day>`; `python registry/tools/on.py <day> pravilnik-2020-555`).
 
 ## Decisions made by hand
 

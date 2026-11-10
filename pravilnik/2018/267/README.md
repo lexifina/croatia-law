@@ -12,7 +12,7 @@ Pravilnik o izmjenama Pravilnika o Å¡portskom i rekreacijskom ribolovu na moru Â
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2018-267` (tags `pravilnik-2018-267/<day>`; `python tools/on.py <day> pravilnik-2018-267`).
+Act id: `pravilnik-2018-267` (tags `pravilnik-2018-267/<day>`; `python registry/tools/on.py <day> pravilnik-2018-267`).
 
 ## Decisions made by hand
 

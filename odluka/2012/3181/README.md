@@ -9,7 +9,7 @@ Odluka o stavljanju izvan snage Odluke o dopuni Odluke o načinu osiguravanja i 
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2012-3181` (tags `odluka-2012-3181/<day>`; `python tools/on.py <day> odluka-2012-3181`).
+Act id: `odluka-2012-3181` (tags `odluka-2012-3181/<day>`; `python registry/tools/on.py <day> odluka-2012-3181`).
 
 ## Decisions made by hand
 

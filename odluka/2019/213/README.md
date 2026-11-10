@@ -9,7 +9,7 @@ Odluka o donošenju kurikuluma za nastavni predmet Islamski vjeronauk za osnovne
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2019-213` (tags `odluka-2019-213/<day>`; `python tools/on.py <day> odluka-2019-213`).
+Act id: `odluka-2019-213` (tags `odluka-2019-213/<day>`; `python registry/tools/on.py <day> odluka-2019-213`).
 
 ## Decisions made by hand
 

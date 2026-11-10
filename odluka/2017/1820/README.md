@@ -9,7 +9,7 @@ Odluka o donošenju standarda zanimanja za stjecanje kvalifikacije prehrambeni t
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2017-1820` (tags `odluka-2017-1820/<day>`; `python tools/on.py <day> odluka-2017-1820`).
+Act id: `odluka-2017-1820` (tags `odluka-2017-1820/<day>`; `python registry/tools/on.py <day> odluka-2017-1820`).
 
 ## Decisions made by hand
 

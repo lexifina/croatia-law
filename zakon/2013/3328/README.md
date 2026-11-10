@@ -397,7 +397,7 @@ Zakon o kreditnim institucijama · 1 versions, from 2014-01-01 (latest in force:
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 
-Act id: `zakon-2013-3328` (tags `zakon-2013-3328/<day>`; `python tools/on.py <day> zakon-2013-3328`).
+Act id: `zakon-2013-3328` (tags `zakon-2013-3328/<day>`; `python registry/tools/on.py <day> zakon-2013-3328`).
 
 ## Status
 

@@ -8,7 +8,7 @@ Odluka o određivanju državne tajnice koja upravlja Ministarstvom prostornoga u
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2022-301` (tags `odluka-2022-301/<day>`; `python tools/on.py <day> odluka-2022-301`).
+Act id: `odluka-2022-301` (tags `odluka-2022-301/<day>`; `python registry/tools/on.py <day> odluka-2022-301`).
 
 ## Status
 

@@ -28,7 +28,7 @@ Pravilnik o gospodarenju otpadnim gumama · 1 versions, from 2017-01-01 (latest 
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2016-2493` (tags `pravilnik-2016-2493/<day>`; `python tools/on.py <day> pravilnik-2016-2493`).
+Act id: `pravilnik-2016-2493` (tags `pravilnik-2016-2493/<day>`; `python registry/tools/on.py <day> pravilnik-2016-2493`).
 
 ## Status
 

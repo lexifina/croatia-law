@@ -12,7 +12,7 @@ Pravilnik o izmjenama Pravilnika o protokolima za ispitivanje različitosti, uje
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2023-2056` (tags `pravilnik-2023-2056/<day>`; `python tools/on.py <day> pravilnik-2023-2056`).
+Act id: `pravilnik-2023-2056` (tags `pravilnik-2023-2056/<day>`; `python registry/tools/on.py <day> pravilnik-2023-2056`).
 
 ## Decisions made by hand
 

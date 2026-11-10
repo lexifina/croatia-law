@@ -19,7 +19,7 @@ Pravilnik o prihvatljivosti troškova u okviru Europskoga socijalnog fonda plus 
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2023-1344` (tags `pravilnik-2023-1344/<day>`; `python tools/on.py <day> pravilnik-2023-1344`).
+Act id: `pravilnik-2023-1344` (tags `pravilnik-2023-1344/<day>`; `python registry/tools/on.py <day> pravilnik-2023-1344`).
 
 ## Decisions made by hand
 

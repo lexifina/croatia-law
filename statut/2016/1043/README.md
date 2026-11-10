@@ -102,7 +102,7 @@ Statut Hrvatske gospodarske komore · 1 versions, from 2016-05-06 (latest in for
 | čl. 96 | [clanak-096.md](clanak-096.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `statut-2016-1043` (tags `statut-2016-1043/<day>`; `python tools/on.py <day> statut-2016-1043`).
+Act id: `statut-2016-1043` (tags `statut-2016-1043/<day>`; `python registry/tools/on.py <day> statut-2016-1043`).
 
 ## Status
 

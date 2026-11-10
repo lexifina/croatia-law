@@ -10,7 +10,7 @@ Odluka o izmjeni Odluke o utvrđivanju Dopunske liste lijekova Hrvatskog zavoda 
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2022-2408` (tags `odluka-2022-2408/<day>`; `python tools/on.py <day> odluka-2022-2408`).
+Act id: `odluka-2022-2408` (tags `odluka-2022-2408/<day>`; `python registry/tools/on.py <day> odluka-2022-2408`).
 
 ## Decisions made by hand
 

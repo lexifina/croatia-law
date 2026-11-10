@@ -9,7 +9,7 @@ Uredba o izmjeni Uredbe o prihvaćanju povećanja kvote Republike Hrvatske u Me�
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2024-427` (tags `uredba-2024-427/<day>`; `python tools/on.py <day> uredba-2024-427`).
+Act id: `uredba-2024-427` (tags `uredba-2024-427/<day>`; `python registry/tools/on.py <day> uredba-2024-427`).
 
 ## Decisions made by hand
 

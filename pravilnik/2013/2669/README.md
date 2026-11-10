@@ -9,7 +9,7 @@ Pravilnik o izmjenama i dopunama Pravilnika o sigurnosnim zahtjevima za pirotehn
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2013-2669` (tags `pravilnik-2013-2669/<day>`; `python tools/on.py <day> pravilnik-2013-2669`).
+Act id: `pravilnik-2013-2669` (tags `pravilnik-2013-2669/<day>`; `python registry/tools/on.py <day> pravilnik-2013-2669`).
 
 ## Decisions made by hand
 

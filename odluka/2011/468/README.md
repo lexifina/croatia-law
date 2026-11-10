@@ -8,7 +8,7 @@ Odluka o izmjeni Odluke o osnivanju Stalne misije Republike Hrvatske pri Europsk
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2011-468` (tags `odluka-2011-468/<day>`; `python tools/on.py <day> odluka-2011-468`).
+Act id: `odluka-2011-468` (tags `odluka-2011-468/<day>`; `python registry/tools/on.py <day> odluka-2011-468`).
 
 ## Decisions made by hand
 

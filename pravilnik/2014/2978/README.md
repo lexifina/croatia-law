@@ -72,7 +72,7 @@ Pravilnik o izmjenama i dopunama Pravilnika o porezu na dodanu vrijednost · 1 v
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2014-2978` (tags `pravilnik-2014-2978/<day>`; `python tools/on.py <day> pravilnik-2014-2978`).
+Act id: `pravilnik-2014-2978` (tags `pravilnik-2014-2978/<day>`; `python registry/tools/on.py <day> pravilnik-2014-2978`).
 
 ## Decisions made by hand
 

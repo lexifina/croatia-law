@@ -8,7 +8,7 @@ Odluka o donošenju Programa razvoja sektora mesnog ovčarstva i kozarstva u Rep
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2025-1254` (tags `odluka-2025-1254/<day>`; `python tools/on.py <day> odluka-2025-1254`).
+Act id: `odluka-2025-1254` (tags `odluka-2025-1254/<day>`; `python registry/tools/on.py <day> odluka-2025-1254`).
 
 ## Decisions made by hand
 

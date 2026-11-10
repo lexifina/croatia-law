@@ -11,7 +11,7 @@ Pravilnik o izmjenama i dopunama Pravilnika o dozvolama, ovlaštenjima i posebni
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2013-3048` (tags `pravilnik-2013-3048/<day>`; `python tools/on.py <day> pravilnik-2013-3048`).
+Act id: `pravilnik-2013-3048` (tags `pravilnik-2013-3048/<day>`; `python registry/tools/on.py <day> pravilnik-2013-3048`).
 
 ## Decisions made by hand
 

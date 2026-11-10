@@ -15,7 +15,7 @@ Pravilnik o posebnim uvjetima i mjerilima ostvarivanja programa predškolskog od
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2021-1570` (tags `pravilnik-2021-1570/<day>`; `python tools/on.py <day> pravilnik-2021-1570`).
+Act id: `pravilnik-2021-1570` (tags `pravilnik-2021-1570/<day>`; `python registry/tools/on.py <day> pravilnik-2021-1570`).
 
 ## Decisions made by hand
 

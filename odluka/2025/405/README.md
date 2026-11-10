@@ -15,7 +15,7 @@ Odluka o lokalnim porezima Grada Vrbovskog · 1 versions, from 2025-03-01 (lates
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2025-405` (tags `odluka-2025-405/<day>`; `python tools/on.py <day> odluka-2025-405`).
+Act id: `odluka-2025-405` (tags `odluka-2025-405/<day>`; `python registry/tools/on.py <day> odluka-2025-405`).
 
 ## Decisions made by hand
 

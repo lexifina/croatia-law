@@ -9,7 +9,7 @@ Odluka o iznosu tarifnih stavki za transport plina za energetski subjekt Plinacr
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2013-2293` (tags `odluka-2013-2293/<day>`; `python tools/on.py <day> odluka-2013-2293`).
+Act id: `odluka-2013-2293` (tags `odluka-2013-2293/<day>`; `python registry/tools/on.py <day> odluka-2013-2293`).
 
 ## Status
 

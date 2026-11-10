@@ -5,7 +5,7 @@ Pravilnik o naknadama u postupku ispitivanja i žigosanja predmeta od plemenitih
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `pravilnik-2015-2285` (tags `pravilnik-2015-2285/<day>`; `python tools/on.py <day> pravilnik-2015-2285`).
+Act id: `pravilnik-2015-2285` (tags `pravilnik-2015-2285/<day>`; `python registry/tools/on.py <day> pravilnik-2015-2285`).
 
 ## Decisions made by hand
 

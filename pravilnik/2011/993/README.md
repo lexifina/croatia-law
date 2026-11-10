@@ -28,7 +28,7 @@ Pravilnik o izmjenama i dopunama Pravilnika o prirodnim mineralnim i prirodnim i
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2011-993` (tags `pravilnik-2011-993/<day>`; `python tools/on.py <day> pravilnik-2011-993`).
+Act id: `pravilnik-2011-993` (tags `pravilnik-2011-993/<day>`; `python registry/tools/on.py <day> pravilnik-2011-993`).
 
 ## Decisions made by hand
 

@@ -15,7 +15,7 @@ Odluka o gradskim porezima Grada Belog Manastira · 1 versions, from 2025-03-01 
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2025-343` (tags `odluka-2025-343/<day>`; `python tools/on.py <day> odluka-2025-343`).
+Act id: `odluka-2025-343` (tags `odluka-2025-343/<day>`; `python registry/tools/on.py <day> odluka-2025-343`).
 
 ## Decisions made by hand
 

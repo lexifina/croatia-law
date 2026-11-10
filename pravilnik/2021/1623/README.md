@@ -14,7 +14,7 @@ Pravilnik o utvrđivanju prosječnih energetskih vrijednosti goriva · 1 version
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2021-1623` (tags `pravilnik-2021-1623/<day>`; `python tools/on.py <day> pravilnik-2021-1623`).
+Act id: `pravilnik-2021-1623` (tags `pravilnik-2021-1623/<day>`; `python registry/tools/on.py <day> pravilnik-2021-1623`).
 
 ## Decisions made by hand
 

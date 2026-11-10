@@ -5,7 +5,7 @@ Pravilnik o izmjenama i dopunama Pravilnika o strukturi i sadržaju godišnjih f
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `pravilnik-2017-61` (tags `pravilnik-2017-61/<day>`; `python tools/on.py <day> pravilnik-2017-61`).
+Act id: `pravilnik-2017-61` (tags `pravilnik-2017-61/<day>`; `python registry/tools/on.py <day> pravilnik-2017-61`).
 
 ## Decisions made by hand
 

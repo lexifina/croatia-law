@@ -8,7 +8,7 @@ Odluka o zatvaranju za promet postojećeg željezničko-cestovnog prijelaza · 1
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2024-1519` (tags `odluka-2024-1519/<day>`; `python tools/on.py <day> odluka-2024-1519`).
+Act id: `odluka-2024-1519` (tags `odluka-2024-1519/<day>`; `python registry/tools/on.py <day> odluka-2024-1519`).
 
 ## Status
 

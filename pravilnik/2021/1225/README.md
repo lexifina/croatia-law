@@ -12,7 +12,7 @@ Pravilnik o oslobađanju od plaćanja turističke pristojbe za osobe koje borave
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2021-1225` (tags `pravilnik-2021-1225/<day>`; `python tools/on.py <day> pravilnik-2021-1225`).
+Act id: `pravilnik-2021-1225` (tags `pravilnik-2021-1225/<day>`; `python registry/tools/on.py <day> pravilnik-2021-1225`).
 
 ## Decisions made by hand
 

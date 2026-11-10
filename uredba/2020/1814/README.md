@@ -5,7 +5,7 @@ Uredba o unutarnjem ustrojstvu Ministarstva obrane · 2 versions, from 2020-09-0
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `uredba-2020-1814` (tags `uredba-2020-1814/<day>`; `python tools/on.py <day> uredba-2020-1814`).
+Act id: `uredba-2020-1814` (tags `uredba-2020-1814/<day>`; `python registry/tools/on.py <day> uredba-2020-1814`).
 
 ## Decisions made by hand
 

@@ -10,7 +10,7 @@ Naredba o izmjeni Naredbe o zabrani stavljanja na tržište proizvoda koji sadr�
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `naredba-2012-1042` (tags `naredba-2012-1042/<day>`; `python tools/on.py <day> naredba-2012-1042`).
+Act id: `naredba-2012-1042` (tags `naredba-2012-1042/<day>`; `python registry/tools/on.py <day> naredba-2012-1042`).
 
 ## Decisions made by hand
 

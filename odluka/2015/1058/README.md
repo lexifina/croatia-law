@@ -8,7 +8,7 @@ Odluka o proširenju primjene Kolektivnog ugovora ugostiteljstva · 1 versions, 
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2015-1058` (tags `odluka-2015-1058/<day>`; `python tools/on.py <day> odluka-2015-1058`).
+Act id: `odluka-2015-1058` (tags `odluka-2015-1058/<day>`; `python registry/tools/on.py <day> odluka-2015-1058`).
 
 ## Decisions made by hand
 

@@ -9,7 +9,7 @@ Pravilnik o izmjenama i dopunama Pravilnika o veterinarsko-medicinskim proizvodi
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2011-730` (tags `pravilnik-2011-730/<day>`; `python tools/on.py <day> pravilnik-2011-730`).
+Act id: `pravilnik-2011-730` (tags `pravilnik-2011-730/<day>`; `python registry/tools/on.py <day> pravilnik-2011-730`).
 
 ## Decisions made by hand
 

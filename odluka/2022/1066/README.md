@@ -8,7 +8,7 @@ Odluka o izmjeni Odluke o stavljanju u službenu uporabu katastarskog operata ka
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2022-1066` (tags `odluka-2022-1066/<day>`; `python tools/on.py <day> odluka-2022-1066`).
+Act id: `odluka-2022-1066` (tags `odluka-2022-1066/<day>`; `python registry/tools/on.py <day> odluka-2022-1066`).
 
 ## Decisions made by hand
 

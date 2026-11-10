@@ -8,7 +8,7 @@ Zakon o izmjeni Zakona o duhanu · 1 versions, from 2019-04-01 (latest in force:
 | čl. 2 | [clanak-002.md](clanak-002.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2019-651` (tags `zakon-2019-651/<day>`; `python tools/on.py <day> zakon-2019-651`).
+Act id: `zakon-2019-651` (tags `zakon-2019-651/<day>`; `python registry/tools/on.py <day> zakon-2019-651`).
 
 ## Decisions made by hand
 

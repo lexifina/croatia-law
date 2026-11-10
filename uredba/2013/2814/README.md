@@ -68,7 +68,7 @@ Uredba o načinu prodaje dionica i poslovnih udjela · 1 versions, from 2013-10-
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2013-2814` (tags `uredba-2013-2814/<day>`; `python tools/on.py <day> uredba-2013-2814`).
+Act id: `uredba-2013-2814` (tags `uredba-2013-2814/<day>`; `python registry/tools/on.py <day> uredba-2013-2814`).
 
 ## Status
 

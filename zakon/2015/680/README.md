@@ -21,7 +21,7 @@ Zakon o izmjenama i dopunama Zakona o državnom odvjetništvu · 1 versions, fro
 | čl. 15 | [clanak-015.md](clanak-015.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2015-680` (tags `zakon-2015-680/<day>`; `python tools/on.py <day> zakon-2015-680`).
+Act id: `zakon-2015-680` (tags `zakon-2015-680/<day>`; `python registry/tools/on.py <day> zakon-2015-680`).
 
 ## Decisions made by hand
 

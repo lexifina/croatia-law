@@ -10,7 +10,7 @@ Pravilnik o izmjenama Pravilnika o prisilnom prijenosu upravljanja UCITS fondovi
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2026-925` (tags `pravilnik-2026-925/<day>`; `python tools/on.py <day> pravilnik-2026-925`).
+Act id: `pravilnik-2026-925` (tags `pravilnik-2026-925/<day>`; `python registry/tools/on.py <day> pravilnik-2026-925`).
 
 ## Decisions made by hand
 

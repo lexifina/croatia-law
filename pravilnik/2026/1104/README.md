@@ -15,7 +15,7 @@ Pravilnik o klasificiranju podataka i kriterijima za određivanje stupnjeva tajn
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2026-1104` (tags `pravilnik-2026-1104/<day>`; `python tools/on.py <day> pravilnik-2026-1104`).
+Act id: `pravilnik-2026-1104` (tags `pravilnik-2026-1104/<day>`; `python registry/tools/on.py <day> pravilnik-2026-1104`).
 
 ## Decisions made by hand
 

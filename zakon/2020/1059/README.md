@@ -9,7 +9,7 @@ Zakon o dopuni Zakona o strancima · 1 versions, from 2020-05-01 (latest in forc
 | čl. 3 | [clanak-003.md](clanak-003.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2020-1059` (tags `zakon-2020-1059/<day>`; `python tools/on.py <day> zakon-2020-1059`).
+Act id: `zakon-2020-1059` (tags `zakon-2020-1059/<day>`; `python registry/tools/on.py <day> zakon-2020-1059`).
 
 ## Decisions made by hand
 

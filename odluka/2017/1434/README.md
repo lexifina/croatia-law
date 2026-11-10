@@ -8,7 +8,7 @@ Odluka o davanju suglasnosti na Odluku Skupštine Istarske županije o izmjenama
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2017-1434` (tags `odluka-2017-1434/<day>`; `python tools/on.py <day> odluka-2017-1434`).
+Act id: `odluka-2017-1434` (tags `odluka-2017-1434/<day>`; `python registry/tools/on.py <day> odluka-2017-1434`).
 
 ## Decisions made by hand
 

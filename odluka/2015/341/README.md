@@ -10,7 +10,7 @@ Odluka o izmjenama i dopunama Odluke o utvrđivanju Popisa posebno skupih lijeko
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2015-341` (tags `odluka-2015-341/<day>`; `python tools/on.py <day> odluka-2015-341`).
+Act id: `odluka-2015-341` (tags `odluka-2015-341/<day>`; `python registry/tools/on.py <day> odluka-2015-341`).
 
 ## Decisions made by hand
 

@@ -13,7 +13,7 @@ Pravilnik o troškovima koji se mogu plaćati iz imovine dobrovoljnog mirovinsko
 | čl. 7 | [clanak-007.md](clanak-007.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `pravilnik-2024-1814` (tags `pravilnik-2024-1814/<day>`; `python tools/on.py <day> pravilnik-2024-1814`).
+Act id: `pravilnik-2024-1814` (tags `pravilnik-2024-1814/<day>`; `python registry/tools/on.py <day> pravilnik-2024-1814`).
 
 ## Decisions made by hand
 

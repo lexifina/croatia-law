@@ -21,7 +21,7 @@ Pravilnik o provedbi Programa potpore sektoru peradarstva zbog otežanih uvjeta 
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2021-2203` (tags `pravilnik-2021-2203/<day>`; `python tools/on.py <day> pravilnik-2021-2203`).
+Act id: `pravilnik-2021-2203` (tags `pravilnik-2021-2203/<day>`; `python registry/tools/on.py <day> pravilnik-2021-2203`).
 
 ## Decisions made by hand
 

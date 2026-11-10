@@ -32,7 +32,7 @@ Zakon o izmjenama i dopunama Zakona o komasaciji poljoprivrednog zemljišta · 1
 | čl. 26 | [clanak-026.md](clanak-026.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2025-1018` (tags `zakon-2025-1018/<day>`; `python tools/on.py <day> zakon-2025-1018`).
+Act id: `zakon-2025-1018` (tags `zakon-2025-1018/<day>`; `python registry/tools/on.py <day> zakon-2025-1018`).
 
 ## Decisions made by hand
 

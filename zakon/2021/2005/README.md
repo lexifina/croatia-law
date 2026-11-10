@@ -17,7 +17,7 @@ Zakon o izmjenama i dopunama Zakona o zaštiti i očuvanju kulturnih dobara · 1
 | čl. 11 | [clanak-011.md](clanak-011.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2021-2005` (tags `zakon-2021-2005/<day>`; `python tools/on.py <day> zakon-2021-2005`).
+Act id: `zakon-2021-2005` (tags `zakon-2021-2005/<day>`; `python registry/tools/on.py <day> zakon-2021-2005`).
 
 ## Decisions made by hand
 

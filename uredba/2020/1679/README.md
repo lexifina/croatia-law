@@ -28,7 +28,7 @@ Uredba o izmjenama i dopunama Uredbe o naknadama za posebne troškove i troškov
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2020-1679` (tags `uredba-2020-1679/<day>`; `python tools/on.py <day> uredba-2020-1679`).
+Act id: `uredba-2020-1679` (tags `uredba-2020-1679/<day>`; `python registry/tools/on.py <day> uredba-2020-1679`).
 
 ## Decisions made by hand
 

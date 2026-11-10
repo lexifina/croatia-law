@@ -10,7 +10,7 @@ Odluka o izmjenama i dopunama Odluke o općinskim porezima Općine Velika Kopani
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2019-2519` (tags `odluka-2019-2519/<day>`; `python tools/on.py <day> odluka-2019-2519`).
+Act id: `odluka-2019-2519` (tags `odluka-2019-2519/<day>`; `python registry/tools/on.py <day> odluka-2019-2519`).
 
 ## Decisions made by hand
 

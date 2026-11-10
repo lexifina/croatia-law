@@ -18,7 +18,7 @@ Naputak o provedbi postupka ovlašćivanja, uvjetima koje moraju ispunjavati i m
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `naputak-2014-2436` (tags `naputak-2014-2436/<day>`; `python tools/on.py <day> naputak-2014-2436`).
+Act id: `naputak-2014-2436` (tags `naputak-2014-2436/<day>`; `python registry/tools/on.py <day> naputak-2014-2436`).
 
 ## Decisions made by hand
 

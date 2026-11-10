@@ -8,7 +8,7 @@ Odluka o sudjelovanju u fondovima za gospodarsku suradnju · 1 versions, from 20
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2013-742` (tags `odluka-2013-742/<day>`; `python tools/on.py <day> odluka-2013-742`).
+Act id: `odluka-2013-742` (tags `odluka-2013-742/<day>`; `python registry/tools/on.py <day> odluka-2013-742`).
 
 ## Decisions made by hand
 

@@ -14,7 +14,7 @@ Odluka o izmjenama i dopuni Odluke o izdavanju i prodaji prigodnoga zlatnoga i s
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2021-2352` (tags `odluka-2021-2352/<day>`; `python tools/on.py <day> odluka-2021-2352`).
+Act id: `odluka-2021-2352` (tags `odluka-2021-2352/<day>`; `python registry/tools/on.py <day> odluka-2021-2352`).
 
 ## Decisions made by hand
 

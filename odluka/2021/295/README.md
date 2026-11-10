@@ -13,7 +13,7 @@ Odluka o utvrđivanju Dodatne liste ortopedskih i drugih pomagala Hrvatskog zavo
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2021-295` (tags `odluka-2021-295/<day>`; `python tools/on.py <day> odluka-2021-295`).
+Act id: `odluka-2021-295` (tags `odluka-2021-295/<day>`; `python registry/tools/on.py <day> odluka-2021-295`).
 
 ## Status
 

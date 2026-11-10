@@ -5,7 +5,7 @@ Odluka o osnivanju Povjerenstva Vlade Republike Hrvatske za zatočene i nestale 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `odluka-2017-1004` (tags `odluka-2017-1004/<day>`; `python tools/on.py <day> odluka-2017-1004`).
+Act id: `odluka-2017-1004` (tags `odluka-2017-1004/<day>`; `python registry/tools/on.py <day> odluka-2017-1004`).
 
 ## Decisions made by hand
 

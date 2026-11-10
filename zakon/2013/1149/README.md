@@ -11,7 +11,7 @@ Zakon o izmjeni i dopunama Zakona o osnivanju Agencije za plaćanja u poljoprivr
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 
-Act id: `zakon-2013-1149` (tags `zakon-2013-1149/<day>`; `python tools/on.py <day> zakon-2013-1149`).
+Act id: `zakon-2013-1149` (tags `zakon-2013-1149/<day>`; `python registry/tools/on.py <day> zakon-2013-1149`).
 
 ## Decisions made by hand
 

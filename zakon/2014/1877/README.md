@@ -90,7 +90,7 @@ Zakon o izmjenama i dopunama Ovršnog zakona · 1 versions, from 2014-09-01 (lat
 | čl. 84 | [clanak-084.md](clanak-084.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2014-1877` (tags `zakon-2014-1877/<day>`; `python tools/on.py <day> zakon-2014-1877`).
+Act id: `zakon-2014-1877` (tags `zakon-2014-1877/<day>`; `python registry/tools/on.py <day> zakon-2014-1877`).
 
 ## Decisions made by hand
 

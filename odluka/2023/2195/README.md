@@ -10,7 +10,7 @@ Odluka o izmjeni Odluke o općinskim porezima Općine Babina Greda · 1 versions
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2023-2195` (tags `odluka-2023-2195/<day>`; `python tools/on.py <day> odluka-2023-2195`).
+Act id: `odluka-2023-2195` (tags `odluka-2023-2195/<day>`; `python registry/tools/on.py <day> odluka-2023-2195`).
 
 ## Decisions made by hand
 

@@ -15,7 +15,7 @@ Pravilnik o sadržaju i izgledu carinskog pečata i carinskog štambilja koji su
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2013-1872` (tags `pravilnik-2013-1872/<day>`; `python tools/on.py <day> pravilnik-2013-1872`).
+Act id: `pravilnik-2013-1872` (tags `pravilnik-2013-1872/<day>`; `python registry/tools/on.py <day> pravilnik-2013-1872`).
 
 ## Decisions made by hand
 

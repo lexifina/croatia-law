@@ -17,7 +17,7 @@ Pravilnik o uvjetima osnivanja, poslovanja i izvještavanja podružnice UAIF-a i
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2025-2336` (tags `pravilnik-2025-2336/<day>`; `python tools/on.py <day> pravilnik-2025-2336`).
+Act id: `pravilnik-2025-2336` (tags `pravilnik-2025-2336/<day>`; `python registry/tools/on.py <day> pravilnik-2025-2336`).
 
 ## Decisions made by hand
 

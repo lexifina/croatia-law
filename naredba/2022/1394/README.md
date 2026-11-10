@@ -9,7 +9,7 @@ Naredba o izmjenama i dopunama Naredbe o mjerama zaštite zdravlja životinja od
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `naredba-2022-1394` (tags `naredba-2022-1394/<day>`; `python tools/on.py <day> naredba-2022-1394`).
+Act id: `naredba-2022-1394` (tags `naredba-2022-1394/<day>`; `python registry/tools/on.py <day> naredba-2022-1394`).
 
 ## Decisions made by hand
 

@@ -31,7 +31,7 @@ Zakon o izmjenama i dopunama Zakona o radiološkoj i nuklearnoj sigurnosti · 1 
 | čl. 25 | [clanak-025.md](clanak-025.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2015-803` (tags `zakon-2015-803/<day>`; `python tools/on.py <day> zakon-2015-803`).
+Act id: `zakon-2015-803` (tags `zakon-2015-803/<day>`; `python registry/tools/on.py <day> zakon-2015-803`).
 
 ## Decisions made by hand
 

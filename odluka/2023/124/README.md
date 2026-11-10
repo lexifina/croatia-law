@@ -8,7 +8,7 @@ Odluka o katastarskoj izmjeri na području Općine Hercegovac za dio katastarske
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2023-124` (tags `odluka-2023-124/<day>`; `python tools/on.py <day> odluka-2023-124`).
+Act id: `odluka-2023-124` (tags `odluka-2023-124/<day>`; `python registry/tools/on.py <day> odluka-2023-124`).
 
 ## Decisions made by hand
 

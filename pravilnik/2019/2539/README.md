@@ -12,7 +12,7 @@ Pravilnik o dopunama Pravilnika o proračunskom računovodstvu i računskom plan
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2019-2539` (tags `pravilnik-2019-2539/<day>`; `python tools/on.py <day> pravilnik-2019-2539`).
+Act id: `pravilnik-2019-2539` (tags `pravilnik-2019-2539/<day>`; `python registry/tools/on.py <day> pravilnik-2019-2539`).
 
 ## Decisions made by hand
 

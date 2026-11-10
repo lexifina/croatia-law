@@ -15,7 +15,7 @@ Uredba o pripajanju Muzejsko-memorijalnog centra Dražen Petrović Hrvatskom šp
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2024-762` (tags `uredba-2024-762/<day>`; `python tools/on.py <day> uredba-2024-762`).
+Act id: `uredba-2024-762` (tags `uredba-2024-762/<day>`; `python registry/tools/on.py <day> uredba-2024-762`).
 
 ## Decisions made by hand
 

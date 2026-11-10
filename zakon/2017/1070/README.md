@@ -22,7 +22,7 @@ Zakon o izmjenama i dopunama Zakona o arhivskom gradivu i arhivima · 1 versions
 | čl. 16 | [clanak-016.md](clanak-016.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2017-1070` (tags `zakon-2017-1070/<day>`; `python tools/on.py <day> zakon-2017-1070`).
+Act id: `zakon-2017-1070` (tags `zakon-2017-1070/<day>`; `python registry/tools/on.py <day> zakon-2017-1070`).
 
 ## Decisions made by hand
 

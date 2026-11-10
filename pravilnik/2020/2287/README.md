@@ -11,7 +11,7 @@ Pravilnik o izmjenama Pravilnika o tehničkim pregledima vozila · 1 versions, f
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2020-2287` (tags `pravilnik-2020-2287/<day>`; `python tools/on.py <day> pravilnik-2020-2287`).
+Act id: `pravilnik-2020-2287` (tags `pravilnik-2020-2287/<day>`; `python registry/tools/on.py <day> pravilnik-2020-2287`).
 
 ## Decisions made by hand
 

@@ -19,7 +19,7 @@ Pravilnik o tehničkim i drugim uvjetima koje moraju ispunjavati ovlaštene osob
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2016-1469` (tags `pravilnik-2016-1469/<day>`; `python tools/on.py <day> pravilnik-2016-1469`).
+Act id: `pravilnik-2016-1469` (tags `pravilnik-2016-1469/<day>`; `python registry/tools/on.py <day> pravilnik-2016-1469`).
 
 ## Decisions made by hand
 

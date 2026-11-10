@@ -5,7 +5,7 @@ Uredba o izmjeni Zakona o tržištu kapitala · 2 versions, from 2017-01-01 (lat
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `uredba-2016-2688` (tags `uredba-2016-2688/<day>`; `python tools/on.py <day> uredba-2016-2688`).
+Act id: `uredba-2016-2688` (tags `uredba-2016-2688/<day>`; `python registry/tools/on.py <day> uredba-2016-2688`).
 
 ## Decisions made by hand
 

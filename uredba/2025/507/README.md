@@ -30,7 +30,7 @@ Uredba o osnivanju Lučke uprave Dubrovnik · 1 versions, from 2025-03-11 (lates
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2025-507` (tags `uredba-2025-507/<day>`; `python tools/on.py <day> uredba-2025-507`).
+Act id: `uredba-2025-507` (tags `uredba-2025-507/<day>`; `python registry/tools/on.py <day> uredba-2025-507`).
 
 ## Decisions made by hand
 

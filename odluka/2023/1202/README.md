@@ -8,7 +8,7 @@ Odluka o izmjenama i dopunama Odluke o utvrđivanju Osnovne liste ortopedskih i 
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2023-1202` (tags `odluka-2023-1202/<day>`; `python tools/on.py <day> odluka-2023-1202`).
+Act id: `odluka-2023-1202` (tags `odluka-2023-1202/<day>`; `python registry/tools/on.py <day> odluka-2023-1202`).
 
 ## Decisions made by hand
 

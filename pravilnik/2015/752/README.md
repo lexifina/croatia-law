@@ -22,7 +22,7 @@ Pravilnik o dodjeli državne potpore u sektoru ribarstva i akvakulture · 1 vers
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2015-752` (tags `pravilnik-2015-752/<day>`; `python tools/on.py <day> pravilnik-2015-752`).
+Act id: `pravilnik-2015-752` (tags `pravilnik-2015-752/<day>`; `python registry/tools/on.py <day> pravilnik-2015-752`).
 
 ## Status
 

@@ -25,7 +25,7 @@ Pravilnik o prikupljanju podataka i izvješćivanju o cijenama poljoprivredno-pr
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2023-950` (tags `pravilnik-2023-950/<day>`; `python tools/on.py <day> pravilnik-2023-950`).
+Act id: `pravilnik-2023-950` (tags `pravilnik-2023-950/<day>`; `python registry/tools/on.py <day> pravilnik-2023-950`).
 
 ## Status
 

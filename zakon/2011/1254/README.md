@@ -334,7 +334,7 @@ Zakon o socijalnoj skrbi · 1 versions, from 2011-06-02 (latest in force: 2011-0
 | čl. 328 | [clanak-328.md](clanak-328.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2011-1254` (tags `zakon-2011-1254/<day>`; `python tools/on.py <day> zakon-2011-1254`).
+Act id: `zakon-2011-1254` (tags `zakon-2011-1254/<day>`; `python registry/tools/on.py <day> zakon-2011-1254`).
 
 ## Status
 

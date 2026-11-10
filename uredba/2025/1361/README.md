@@ -17,7 +17,7 @@ Uredba o naknadi i sadržaju zahtjeva za posebnu upotrebu pomorskog dobra · 1 v
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2025-1361` (tags `uredba-2025-1361/<day>`; `python tools/on.py <day> uredba-2025-1361`).
+Act id: `uredba-2025-1361` (tags `uredba-2025-1361/<day>`; `python registry/tools/on.py <day> uredba-2025-1361`).
 
 ## Status
 

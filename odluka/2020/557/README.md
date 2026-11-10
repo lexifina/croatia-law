@@ -9,7 +9,7 @@ Odluka o izmjeni i dopuni Odluke o osnovama za sklapanje ugovora o provođenju s
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2020-557` (tags `odluka-2020-557/<day>`; `python tools/on.py <day> odluka-2020-557`).
+Act id: `odluka-2020-557` (tags `odluka-2020-557/<day>`; `python registry/tools/on.py <day> odluka-2020-557`).
 
 ## Decisions made by hand
 

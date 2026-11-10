@@ -19,7 +19,7 @@ Pravilnik o uvjetima za ostvarivanje prava na mirovinu temeljem dobrovoljnog mir
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2020-25` (tags `pravilnik-2020-25/<day>`; `python tools/on.py <day> pravilnik-2020-25`).
+Act id: `pravilnik-2020-25` (tags `pravilnik-2020-25/<day>`; `python registry/tools/on.py <day> pravilnik-2020-25`).
 
 ## Status
 

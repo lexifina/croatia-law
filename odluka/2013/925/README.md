@@ -8,7 +8,7 @@ Odluka o sanaciji Doma zdravlja Petrinja · 1 versions, from 2013-05-02 (latest 
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2013-925` (tags `odluka-2013-925/<day>`; `python tools/on.py <day> odluka-2013-925`).
+Act id: `odluka-2013-925` (tags `odluka-2013-925/<day>`; `python registry/tools/on.py <day> odluka-2013-925`).
 
 ## Status
 

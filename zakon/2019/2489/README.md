@@ -49,7 +49,7 @@ Zakon o izmjenama i dopunama Zakona o gradnji · 1 versions, from 2019-12-28 (la
 | čl. 43 | [clanak-043.md](clanak-043.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2019-2489` (tags `zakon-2019-2489/<day>`; `python tools/on.py <day> zakon-2019-2489`).
+Act id: `zakon-2019-2489` (tags `zakon-2019-2489/<day>`; `python registry/tools/on.py <day> zakon-2019-2489`).
 
 ## Decisions made by hand
 

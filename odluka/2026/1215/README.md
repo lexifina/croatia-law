@@ -9,7 +9,7 @@ Odluka o izmjenama Odluke o subvencioniranju dijela krajnje cijene opskrbe plino
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2026-1215` (tags `odluka-2026-1215/<day>`; `python tools/on.py <day> odluka-2026-1215`).
+Act id: `odluka-2026-1215` (tags `odluka-2026-1215/<day>`; `python registry/tools/on.py <day> odluka-2026-1215`).
 
 ## Decisions made by hand
 

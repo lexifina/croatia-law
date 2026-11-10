@@ -9,7 +9,7 @@ Odluka o utvrđivanju plaće ravnatelja i zamjenika ravnatelja Hrvatske agencije
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2014-651` (tags `odluka-2014-651/<day>`; `python tools/on.py <day> odluka-2014-651`).
+Act id: `odluka-2014-651` (tags `odluka-2014-651/<day>`; `python registry/tools/on.py <day> odluka-2014-651`).
 
 ## Decisions made by hand
 

@@ -8,7 +8,7 @@ Odluka o donošenju Akcijskog plana sadnje dodatnih stabala za doprinos kompenza
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2024-1778` (tags `odluka-2024-1778/<day>`; `python tools/on.py <day> odluka-2024-1778`).
+Act id: `odluka-2024-1778` (tags `odluka-2024-1778/<day>`; `python registry/tools/on.py <day> odluka-2024-1778`).
 
 ## Decisions made by hand
 

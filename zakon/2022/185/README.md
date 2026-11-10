@@ -27,7 +27,7 @@ Zakon o izmjenama i dopunama Zakona o psihološkoj djelatnosti · 1 versions, fr
 | čl. 21 | [clanak-021.md](clanak-021.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2022-185` (tags `zakon-2022-185/<day>`; `python tools/on.py <day> zakon-2022-185`).
+Act id: `zakon-2022-185` (tags `zakon-2022-185/<day>`; `python registry/tools/on.py <day> zakon-2022-185`).
 
 ## Decisions made by hand
 

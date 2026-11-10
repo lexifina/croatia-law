@@ -8,7 +8,7 @@ Odluka o izmjenama Odluke o osnivanju Inovacijskog vijeća za industriju Republi
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2020-606` (tags `odluka-2020-606/<day>`; `python tools/on.py <day> odluka-2020-606`).
+Act id: `odluka-2020-606` (tags `odluka-2020-606/<day>`; `python registry/tools/on.py <day> odluka-2020-606`).
 
 ## Decisions made by hand
 

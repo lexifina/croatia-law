@@ -24,7 +24,7 @@ Uredba o Središnjem registru državne imovine · 1 versions, from 2020-01-16 (l
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2020-40` (tags `uredba-2020-40/<day>`; `python tools/on.py <day> uredba-2020-40`).
+Act id: `uredba-2020-40` (tags `uredba-2020-40/<day>`; `python registry/tools/on.py <day> uredba-2020-40`).
 
 ## Decisions made by hand
 

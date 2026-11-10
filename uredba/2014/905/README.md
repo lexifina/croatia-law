@@ -10,7 +10,7 @@ Uredba o izmjeni Uredbe o visini trošarine na benzine, plinsko ulje i kerozin z
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2014-905` (tags `uredba-2014-905/<day>`; `python tools/on.py <day> uredba-2014-905`).
+Act id: `uredba-2014-905` (tags `uredba-2014-905/<day>`; `python registry/tools/on.py <day> uredba-2014-905`).
 
 ## Decisions made by hand
 

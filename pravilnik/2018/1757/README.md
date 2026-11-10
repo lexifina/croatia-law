@@ -5,7 +5,7 @@ Pravilnik o Gospodarskom programu korištenja poljoprivrednog zemljišta u vlasn
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `pravilnik-2018-1757` (tags `pravilnik-2018-1757/<day>`; `python tools/on.py <day> pravilnik-2018-1757`).
+Act id: `pravilnik-2018-1757` (tags `pravilnik-2018-1757/<day>`; `python registry/tools/on.py <day> pravilnik-2018-1757`).
 
 ## Decisions made by hand
 

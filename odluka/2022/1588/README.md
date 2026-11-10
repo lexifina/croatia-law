@@ -10,7 +10,7 @@ Odluka o izmjenama Odluke o strukturi i sadržaju godišnjih financijskih izvje�
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2022-1588` (tags `odluka-2022-1588/<day>`; `python tools/on.py <day> odluka-2022-1588`).
+Act id: `odluka-2022-1588` (tags `odluka-2022-1588/<day>`; `python registry/tools/on.py <day> odluka-2022-1588`).
 
 ## Decisions made by hand
 

@@ -14,7 +14,7 @@ Pravilnik o izmjenama i dopunama Pravilnika o izobrazbi u području javne nabave
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2026-1075` (tags `pravilnik-2026-1075/<day>`; `python tools/on.py <day> pravilnik-2026-1075`).
+Act id: `pravilnik-2026-1075` (tags `pravilnik-2026-1075/<day>`; `python registry/tools/on.py <day> pravilnik-2026-1075`).
 
 ## Decisions made by hand
 

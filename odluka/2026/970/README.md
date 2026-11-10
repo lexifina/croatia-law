@@ -8,7 +8,7 @@ Odluka o kriterijima i načinu financiranja, odnosno sufinanciranja troškova pr
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2026-970` (tags `odluka-2026-970/<day>`; `python tools/on.py <day> odluka-2026-970`).
+Act id: `odluka-2026-970` (tags `odluka-2026-970/<day>`; `python registry/tools/on.py <day> odluka-2026-970`).
 
 ## Decisions made by hand
 

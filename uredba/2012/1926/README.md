@@ -15,7 +15,7 @@ Uredba o izmjenama i dopuni Uredbe o osnivanju Središnjeg registra osiguranika 
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2012-1926` (tags `uredba-2012-1926/<day>`; `python tools/on.py <day> uredba-2012-1926`).
+Act id: `uredba-2012-1926` (tags `uredba-2012-1926/<day>`; `python registry/tools/on.py <day> uredba-2012-1926`).
 
 ## Decisions made by hand
 

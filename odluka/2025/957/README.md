@@ -8,7 +8,7 @@ Odluka o rasporedu sredstava koja se u državnom proračunu Republike Hrvatske o
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2025-957` (tags `odluka-2025-957/<day>`; `python tools/on.py <day> odluka-2025-957`).
+Act id: `odluka-2025-957` (tags `odluka-2025-957/<day>`; `python registry/tools/on.py <day> odluka-2025-957`).
 
 ## Decisions made by hand
 

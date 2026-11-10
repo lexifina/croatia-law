@@ -8,7 +8,7 @@ Odluka o sudjelovanju Republike Hrvatske u selektivnom povećanju kapitala Među
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2025-870` (tags `odluka-2025-870/<day>`; `python tools/on.py <day> odluka-2025-870`).
+Act id: `odluka-2025-870` (tags `odluka-2025-870/<day>`; `python registry/tools/on.py <day> odluka-2025-870`).
 
 ## Decisions made by hand
 

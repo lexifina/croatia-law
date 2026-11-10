@@ -16,7 +16,7 @@ Odluka o financiranju Hrvatske gospodarske komore · 1 versions, from 2026-01-01
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2025-2201` (tags `odluka-2025-2201/<day>`; `python tools/on.py <day> odluka-2025-2201`).
+Act id: `odluka-2025-2201` (tags `odluka-2025-2201/<day>`; `python registry/tools/on.py <day> odluka-2025-2201`).
 
 ## Decisions made by hand
 

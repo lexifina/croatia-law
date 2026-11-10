@@ -5,7 +5,7 @@ Pravilnik o sadržaju, obliku i načinu vođenja evidencije postupanja ribarskih
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `pravilnik-2019-909` (tags `pravilnik-2019-909/<day>`; `python tools/on.py <day> pravilnik-2019-909`).
+Act id: `pravilnik-2019-909` (tags `pravilnik-2019-909/<day>`; `python registry/tools/on.py <day> pravilnik-2019-909`).
 
 ## Decisions made by hand
 

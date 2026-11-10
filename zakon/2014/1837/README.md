@@ -48,7 +48,7 @@ Zakon o privremenom uzdržavanju · 1 versions, from 2014-09-01 (latest in force
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 
-Act id: `zakon-2014-1837` (tags `zakon-2014-1837/<day>`; `python tools/on.py <day> zakon-2014-1837`).
+Act id: `zakon-2014-1837` (tags `zakon-2014-1837/<day>`; `python registry/tools/on.py <day> zakon-2014-1837`).
 
 ## Status
 

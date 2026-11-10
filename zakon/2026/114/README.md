@@ -52,7 +52,7 @@ Zakon o izmjenama i dopunama Zakona o kaznenom postupku · 1 versions, from 2026
 | čl. 46 | [clanak-046.md](clanak-046.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2026-114` (tags `zakon-2026-114/<day>`; `python tools/on.py <day> zakon-2026-114`).
+Act id: `zakon-2026-114` (tags `zakon-2026-114/<day>`; `python registry/tools/on.py <day> zakon-2026-114`).
 
 ## Decisions made by hand
 

@@ -5,7 +5,7 @@ Odluka o osnivanju Nacionalnog vijeća za razvoj socijalnih politika · 2 versio
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `odluka-2021-937` (tags `odluka-2021-937/<day>`; `python tools/on.py <day> odluka-2021-937`).
+Act id: `odluka-2021-937` (tags `odluka-2021-937/<day>`; `python registry/tools/on.py <day> odluka-2021-937`).
 
 ## Decisions made by hand
 

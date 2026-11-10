@@ -8,7 +8,7 @@ Odluka o posebnoj nagradi radnicima u sustavu socijalne skrbi koji obavljaju pos
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2020-2595` (tags `odluka-2020-2595/<day>`; `python tools/on.py <day> odluka-2020-2595`).
+Act id: `odluka-2020-2595` (tags `odluka-2020-2595/<day>`; `python registry/tools/on.py <day> odluka-2020-2595`).
 
 ## Status
 

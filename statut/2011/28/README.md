@@ -83,7 +83,7 @@ Statut Turističke zajednice Virovitičko-podravske županije · 1 versions, fro
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `statut-2011-28` (tags `statut-2011-28/<day>`; `python tools/on.py <day> statut-2011-28`).
+Act id: `statut-2011-28` (tags `statut-2011-28/<day>`; `python registry/tools/on.py <day> statut-2011-28`).
 
 ## Status
 

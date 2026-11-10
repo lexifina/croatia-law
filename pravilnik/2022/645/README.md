@@ -16,7 +16,7 @@ Pravilnik o uvjetima prostora i opreme ureda društva stečajnih upravitelja · 
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2022-645` (tags `pravilnik-2022-645/<day>`; `python tools/on.py <day> pravilnik-2022-645`).
+Act id: `pravilnik-2022-645` (tags `pravilnik-2022-645/<day>`; `python registry/tools/on.py <day> pravilnik-2022-645`).
 
 ## Decisions made by hand
 

@@ -15,7 +15,7 @@ Uredba o izmjenama i dopunama Uredbe o unutarnjem ustrojstvu Ministarstva pravos
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2019-1643` (tags `uredba-2019-1643/<day>`; `python tools/on.py <day> uredba-2019-1643`).
+Act id: `uredba-2019-1643` (tags `uredba-2019-1643/<day>`; `python registry/tools/on.py <day> uredba-2019-1643`).
 
 ## Decisions made by hand
 

@@ -8,7 +8,7 @@ Odluka o izmjeni Odluke o plaći predsjednika i članova Odbora za državnu slu�
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2013-526` (tags `odluka-2013-526/<day>`; `python tools/on.py <day> odluka-2013-526`).
+Act id: `odluka-2013-526` (tags `odluka-2013-526/<day>`; `python registry/tools/on.py <day> odluka-2013-526`).
 
 ## Decisions made by hand
 

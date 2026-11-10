@@ -5,7 +5,7 @@ Pravilnik o najmu nekretnina iz programa društveno poticane stanogradnje · 2 v
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `pravilnik-2015-1128` (tags `pravilnik-2015-1128/<day>`; `python tools/on.py <day> pravilnik-2015-1128`).
+Act id: `pravilnik-2015-1128` (tags `pravilnik-2015-1128/<day>`; `python registry/tools/on.py <day> pravilnik-2015-1128`).
 
 ## Decisions made by hand
 

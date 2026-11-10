@@ -11,7 +11,7 @@ Pravilnik o izmjenama i dopuni Pravilnika o obvezom označavanju i registraciji 
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2011-248` (tags `pravilnik-2011-248/<day>`; `python tools/on.py <day> pravilnik-2011-248`).
+Act id: `pravilnik-2011-248` (tags `pravilnik-2011-248/<day>`; `python registry/tools/on.py <day> pravilnik-2011-248`).
 
 ## Decisions made by hand
 

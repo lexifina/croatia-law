@@ -14,7 +14,7 @@ Pravilnik o strukturi i sadržaju godišnjih financijskih izvještaja središnje
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2013-3263` (tags `pravilnik-2013-3263/<day>`; `python tools/on.py <day> pravilnik-2013-3263`).
+Act id: `pravilnik-2013-3263` (tags `pravilnik-2013-3263/<day>`; `python registry/tools/on.py <day> pravilnik-2013-3263`).
 
 ## Status
 

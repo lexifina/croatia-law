@@ -9,7 +9,7 @@ Odluka o usvajanju Programa »Subvencija kamatne stope iz sredstava Nacionalnog 
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2022-1101` (tags `odluka-2022-1101/<day>`; `python tools/on.py <day> odluka-2022-1101`).
+Act id: `odluka-2022-1101` (tags `odluka-2022-1101/<day>`; `python registry/tools/on.py <day> odluka-2022-1101`).
 
 ## Status
 

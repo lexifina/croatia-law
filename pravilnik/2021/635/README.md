@@ -16,7 +16,7 @@ Pravilnik o provođenju sustavnog praćenja zdravstvene ispravnosti, odnosno suk
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2021-635` (tags `pravilnik-2021-635/<day>`; `python tools/on.py <day> pravilnik-2021-635`).
+Act id: `pravilnik-2021-635` (tags `pravilnik-2021-635/<day>`; `python registry/tools/on.py <day> pravilnik-2021-635`).
 
 ## Decisions made by hand
 

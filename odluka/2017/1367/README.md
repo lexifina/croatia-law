@@ -8,7 +8,7 @@ Odluka o izmjenama i dopuni Odluke o osnivanju Komisije za granice · 1 versions
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2017-1367` (tags `odluka-2017-1367/<day>`; `python tools/on.py <day> odluka-2017-1367`).
+Act id: `odluka-2017-1367` (tags `odluka-2017-1367/<day>`; `python registry/tools/on.py <day> odluka-2017-1367`).
 
 ## Decisions made by hand
 

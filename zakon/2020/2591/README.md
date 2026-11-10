@@ -76,7 +76,7 @@ Zakon o izvršavanju Državnog proračuna Republike Hrvatske za 2021. godinu · 
 | čl. 70 | [clanak-070.md](clanak-070.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2020-2591` (tags `zakon-2020-2591/<day>`; `python tools/on.py <day> zakon-2020-2591`).
+Act id: `zakon-2020-2591` (tags `zakon-2020-2591/<day>`; `python registry/tools/on.py <day> zakon-2020-2591`).
 
 ## Status
 

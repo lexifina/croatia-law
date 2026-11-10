@@ -15,7 +15,7 @@ Zakon o izmjenama i dopuni Zakona o Središnjem registru osiguranika · 1 versio
 | čl. 9 | [clanak-009.md](clanak-009.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2018-743` (tags `zakon-2018-743/<day>`; `python tools/on.py <day> zakon-2018-743`).
+Act id: `zakon-2018-743` (tags `zakon-2018-743/<day>`; `python registry/tools/on.py <day> zakon-2018-743`).
 
 ## Decisions made by hand
 

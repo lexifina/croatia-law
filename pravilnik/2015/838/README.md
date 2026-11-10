@@ -10,7 +10,7 @@ Pravilnik o izmjenama i dopunama Pravilnika o obveznom sadržaju idejnog projekt
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2015-838` (tags `pravilnik-2015-838/<day>`; `python tools/on.py <day> pravilnik-2015-838`).
+Act id: `pravilnik-2015-838` (tags `pravilnik-2015-838/<day>`; `python registry/tools/on.py <day> pravilnik-2015-838`).
 
 ## Decisions made by hand
 

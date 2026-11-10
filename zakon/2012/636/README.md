@@ -11,7 +11,7 @@ Zakon o izmjenama i dopuni Zakona o zaštiti i očuvanju kulturnih dobara · 1 v
 | čl. 5 | [clanak-005.md](clanak-005.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2012-636` (tags `zakon-2012-636/<day>`; `python tools/on.py <day> zakon-2012-636`).
+Act id: `zakon-2012-636` (tags `zakon-2012-636/<day>`; `python registry/tools/on.py <day> zakon-2012-636`).
 
 ## Decisions made by hand
 

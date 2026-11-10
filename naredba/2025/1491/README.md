@@ -5,7 +5,7 @@ Naredba o mjerama kontrole za suzbijanje afričke svinjske kuge u Općini Jagodn
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `naredba-2025-1491` (tags `naredba-2025-1491/<day>`; `python tools/on.py <day> naredba-2025-1491`).
+Act id: `naredba-2025-1491` (tags `naredba-2025-1491/<day>`; `python registry/tools/on.py <day> naredba-2025-1491`).
 
 ## Decisions made by hand
 

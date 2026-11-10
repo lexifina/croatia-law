@@ -9,7 +9,7 @@ Uredba o izmjeni Uredbe o osnivanju Lučke uprave Šibenik · 1 versions, from 2
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2020-2489` (tags `uredba-2020-2489/<day>`; `python tools/on.py <day> uredba-2020-2489`).
+Act id: `uredba-2020-2489` (tags `uredba-2020-2489/<day>`; `python registry/tools/on.py <day> uredba-2020-2489`).
 
 ## Decisions made by hand
 

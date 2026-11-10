@@ -9,7 +9,7 @@ Odluka o usklađivanju prosječnih koeficijenata troškova života u državama u
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2024-666` (tags `odluka-2024-666/<day>`; `python tools/on.py <day> odluka-2024-666`).
+Act id: `odluka-2024-666` (tags `odluka-2024-666/<day>`; `python registry/tools/on.py <day> odluka-2024-666`).
 
 ## Status
 

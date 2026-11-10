@@ -5,7 +5,7 @@ Odluka o općim i specifičnim mjerama zaštite koje obavezno provode pružatelj
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `odluka-2020-740` (tags `odluka-2020-740/<day>`; `python tools/on.py <day> odluka-2020-740`).
+Act id: `odluka-2020-740` (tags `odluka-2020-740/<day>`; `python registry/tools/on.py <day> odluka-2020-740`).
 
 ## Decisions made by hand
 

@@ -16,7 +16,7 @@ Uredba o iznosu, roku i načinu uplate sredstava za financiranje razgradnje i zb
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2022-2527` (tags `uredba-2022-2527/<day>`; `python tools/on.py <day> uredba-2022-2527`).
+Act id: `uredba-2022-2527` (tags `uredba-2022-2527/<day>`; `python registry/tools/on.py <day> uredba-2022-2527`).
 
 ## Decisions made by hand
 

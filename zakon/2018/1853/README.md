@@ -5,7 +5,7 @@ Zakon o ovlasti Vlade Republike Hrvatske da uredbama uređuje pojedina pitanja i
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `zakon-2018-1853` (tags `zakon-2018-1853/<day>`; `python tools/on.py <day> zakon-2018-1853`).
+Act id: `zakon-2018-1853` (tags `zakon-2018-1853/<day>`; `python registry/tools/on.py <day> zakon-2018-1853`).
 
 ## Decisions made by hand
 

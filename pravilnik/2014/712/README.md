@@ -195,7 +195,7 @@ Pravilnik o minimalnim uvjetima za pružanje socijalnih usluga · 1 versions, fr
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2014-712` (tags `pravilnik-2014-712/<day>`; `python tools/on.py <day> pravilnik-2014-712`).
+Act id: `pravilnik-2014-712` (tags `pravilnik-2014-712/<day>`; `python registry/tools/on.py <day> pravilnik-2014-712`).
 
 ## Status
 

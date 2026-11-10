@@ -9,7 +9,7 @@ Naredba o posebnim mjerama za uvoz proizvoda životinjskog podrijetla iz određe
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `naredba-2011-1626` (tags `naredba-2011-1626/<day>`; `python tools/on.py <day> naredba-2011-1626`).
+Act id: `naredba-2011-1626` (tags `naredba-2011-1626/<day>`; `python registry/tools/on.py <day> naredba-2011-1626`).
 
 ## Status
 

@@ -10,7 +10,7 @@ Pravilnik o izmjeni i dopunama Pravilnika o dokumentaciji o nabavi te ponudi u p
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2020-1451` (tags `pravilnik-2020-1451/<day>`; `python tools/on.py <day> pravilnik-2020-1451`).
+Act id: `pravilnik-2020-1451` (tags `pravilnik-2020-1451/<day>`; `python registry/tools/on.py <day> pravilnik-2020-1451`).
 
 ## Decisions made by hand
 

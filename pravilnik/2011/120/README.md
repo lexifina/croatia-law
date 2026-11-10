@@ -26,7 +26,7 @@ Pravilnik o sadržaju i trajanju obrazovnog programa, uvjetima za pristup ispitu
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2011-120` (tags `pravilnik-2011-120/<day>`; `python tools/on.py <day> pravilnik-2011-120`).
+Act id: `pravilnik-2011-120` (tags `pravilnik-2011-120/<day>`; `python registry/tools/on.py <day> pravilnik-2011-120`).
 
 ## Decisions made by hand
 

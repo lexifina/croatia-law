@@ -28,7 +28,7 @@ Pravilnik o načinu i uvjetima sudjelovanja službenika Ministarstva financija, 
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2026-138` (tags `pravilnik-2026-138/<day>`; `python tools/on.py <day> pravilnik-2026-138`).
+Act id: `pravilnik-2026-138` (tags `pravilnik-2026-138/<day>`; `python registry/tools/on.py <day> pravilnik-2026-138`).
 
 ## Decisions made by hand
 

@@ -10,7 +10,7 @@ Uredba o izmjenama Uredbe o osnivanju Poslovno-inovacijske agencije Republike Hr
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2012-755` (tags `uredba-2012-755/<day>`; `python tools/on.py <day> uredba-2012-755`).
+Act id: `uredba-2012-755` (tags `uredba-2012-755/<day>`; `python registry/tools/on.py <day> uredba-2012-755`).
 
 ## Decisions made by hand
 

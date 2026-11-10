@@ -11,7 +11,7 @@ Naputak o načinu provođenja mjera propisanih Naredbom o provedbi oralne vakcin
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `naputak-2011-1690` (tags `naputak-2011-1690/<day>`; `python tools/on.py <day> naputak-2011-1690`).
+Act id: `naputak-2011-1690` (tags `naputak-2011-1690/<day>`; `python registry/tools/on.py <day> naputak-2011-1690`).
 
 ## Decisions made by hand
 

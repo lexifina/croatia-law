@@ -9,7 +9,7 @@ Pravilnik o izmjenama i dopunama Pravilnika o prenosivosti broja · 1 versions, 
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2016-1704` (tags `pravilnik-2016-1704/<day>`; `python tools/on.py <day> pravilnik-2016-1704`).
+Act id: `pravilnik-2016-1704` (tags `pravilnik-2016-1704/<day>`; `python registry/tools/on.py <day> pravilnik-2016-1704`).
 
 ## Decisions made by hand
 

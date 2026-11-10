@@ -8,7 +8,7 @@ Odluka o Pravilima za statutarnu certifikaciju pomorskih brodova, Dio 17. - Prot
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2012-2090` (tags `odluka-2012-2090/<day>`; `python tools/on.py <day> odluka-2012-2090`).
+Act id: `odluka-2012-2090` (tags `odluka-2012-2090/<day>`; `python registry/tools/on.py <day> odluka-2012-2090`).
 
 ## Decisions made by hand
 

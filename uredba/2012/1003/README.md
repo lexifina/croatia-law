@@ -14,7 +14,7 @@ Uredba o pripajanju Arheološkog muzeja Osijek Muzeju Slavonije · 1 versions, f
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2012-1003` (tags `uredba-2012-1003/<day>`; `python tools/on.py <day> uredba-2012-1003`).
+Act id: `uredba-2012-1003` (tags `uredba-2012-1003/<day>`; `python registry/tools/on.py <day> uredba-2012-1003`).
 
 ## Status
 

@@ -10,7 +10,7 @@ Pravilnik o izmjenama i dopunama Pravilnika o načinu označavanja eksplozivnih 
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2013-1023` (tags `pravilnik-2013-1023/<day>`; `python tools/on.py <day> pravilnik-2013-1023`).
+Act id: `pravilnik-2013-1023` (tags `pravilnik-2013-1023/<day>`; `python registry/tools/on.py <day> pravilnik-2013-1023`).
 
 ## Decisions made by hand
 

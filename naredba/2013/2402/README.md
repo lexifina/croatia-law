@@ -9,7 +9,7 @@ Naredba o prestanku važenja Naredbe o popisu zemalja, njihovih područja ili di
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `naredba-2013-2402` (tags `naredba-2013-2402/<day>`; `python tools/on.py <day> naredba-2013-2402`).
+Act id: `naredba-2013-2402` (tags `naredba-2013-2402/<day>`; `python registry/tools/on.py <day> naredba-2013-2402`).
 
 ## Decisions made by hand
 

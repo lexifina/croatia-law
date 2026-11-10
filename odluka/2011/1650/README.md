@@ -9,7 +9,7 @@ Odluka o provođenju mjera utvrđenih Rezolucijom Vijeća sigurnosti Ujedinjenih
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2011-1650` (tags `odluka-2011-1650/<day>`; `python tools/on.py <day> odluka-2011-1650`).
+Act id: `odluka-2011-1650` (tags `odluka-2011-1650/<day>`; `python registry/tools/on.py <day> odluka-2011-1650`).
 
 ## Status
 

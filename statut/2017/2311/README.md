@@ -10,7 +10,7 @@ Izmjena i dopuna Statuta Hrvatskoga zavoda za zapošljavanje · 1 versions, from
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `statut-2017-2311` (tags `statut-2017-2311/<day>`; `python tools/on.py <day> statut-2017-2311`).
+Act id: `statut-2017-2311` (tags `statut-2017-2311/<day>`; `python registry/tools/on.py <day> statut-2017-2311`).
 
 ## Decisions made by hand
 

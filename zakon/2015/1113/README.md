@@ -9,7 +9,7 @@ Zakon o dopuni Zakona o sprječavanju sukoba interesa · 1 versions, from 2015-0
 | čl. 3 | [clanak-003.md](clanak-003.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2015-1113` (tags `zakon-2015-1113/<day>`; `python tools/on.py <day> zakon-2015-1113`).
+Act id: `zakon-2015-1113` (tags `zakon-2015-1113/<day>`; `python registry/tools/on.py <day> zakon-2015-1113`).
 
 ## Decisions made by hand
 

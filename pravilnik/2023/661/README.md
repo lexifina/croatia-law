@@ -16,7 +16,7 @@ Pravilnik o izmjenama i dopunama Pravilnika o pristojbama i naknadama za financi
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2023-661` (tags `pravilnik-2023-661/<day>`; `python tools/on.py <day> pravilnik-2023-661`).
+Act id: `pravilnik-2023-661` (tags `pravilnik-2023-661/<day>`; `python registry/tools/on.py <day> pravilnik-2023-661`).
 
 ## Decisions made by hand
 

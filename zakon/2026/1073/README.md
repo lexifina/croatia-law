@@ -29,7 +29,7 @@ Zakon o izmjenama i dopunama Prekršajnog zakona · 1 versions, from 2026-08-15 
 | čl. 23 | [clanak-023.md](clanak-023.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2026-1073` (tags `zakon-2026-1073/<day>`; `python tools/on.py <day> zakon-2026-1073`).
+Act id: `zakon-2026-1073` (tags `zakon-2026-1073/<day>`; `python registry/tools/on.py <day> zakon-2026-1073`).
 
 ## Decisions made by hand
 

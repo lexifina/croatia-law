@@ -9,7 +9,7 @@ Pravilnik o izmjenama Pravilnika o provedbi mjere I.22. "Dodana vrijednost i kva
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2025-66` (tags `pravilnik-2025-66/<day>`; `python tools/on.py <day> pravilnik-2025-66`).
+Act id: `pravilnik-2025-66` (tags `pravilnik-2025-66/<day>`; `python registry/tools/on.py <day> pravilnik-2025-66`).
 
 ## Decisions made by hand
 

@@ -17,7 +17,7 @@ Pravilnik o obliku i načinu vođenja jedinstvenog upisnika genetski modificiran
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2020-2906` (tags `pravilnik-2020-2906/<day>`; `python tools/on.py <day> pravilnik-2020-2906`).
+Act id: `pravilnik-2020-2906` (tags `pravilnik-2020-2906/<day>`; `python registry/tools/on.py <day> pravilnik-2020-2906`).
 
 ## Status
 

@@ -9,7 +9,7 @@ Pravilnik o izmjeni Pravilnika o ribolovnim mogućnostima i raspodjeli državne 
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2019-1620` (tags `pravilnik-2019-1620/<day>`; `python tools/on.py <day> pravilnik-2019-1620`).
+Act id: `pravilnik-2019-1620` (tags `pravilnik-2019-1620/<day>`; `python registry/tools/on.py <day> pravilnik-2019-1620`).
 
 ## Decisions made by hand
 

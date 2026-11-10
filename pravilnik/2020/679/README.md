@@ -18,7 +18,7 @@ Pravilnik o izmjenama i dopunama Pravilnika o provedbi mjere Informiranje u drž
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2020-679` (tags `pravilnik-2020-679/<day>`; `python tools/on.py <day> pravilnik-2020-679`).
+Act id: `pravilnik-2020-679` (tags `pravilnik-2020-679/<day>`; `python registry/tools/on.py <day> pravilnik-2020-679`).
 
 ## Decisions made by hand
 

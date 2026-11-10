@@ -9,7 +9,7 @@ Odluka o aktualnoj vrijednosti mirovine od 1. siječnja 2026 . · 1 versions, fr
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2026-243` (tags `odluka-2026-243/<day>`; `python tools/on.py <day> odluka-2026-243`).
+Act id: `odluka-2026-243` (tags `odluka-2026-243/<day>`; `python registry/tools/on.py <day> odluka-2026-243`).
 
 ## Decisions made by hand
 

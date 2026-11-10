@@ -5,7 +5,7 @@ Pravilnik o načinu rada Povjerenstva za zaštitu prava korisnika usluga · 2 ve
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `pravilnik-2015-1020` (tags `pravilnik-2015-1020/<day>`; `python tools/on.py <day> pravilnik-2015-1020`).
+Act id: `pravilnik-2015-1020` (tags `pravilnik-2015-1020/<day>`; `python registry/tools/on.py <day> pravilnik-2015-1020`).
 
 ## Decisions made by hand
 

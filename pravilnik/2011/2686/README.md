@@ -10,7 +10,7 @@ Pravilnik o izmjenama Pravilnika o primjeni Zakona o trošarinama što se odnose
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2011-2686` (tags `pravilnik-2011-2686/<day>`; `python tools/on.py <day> pravilnik-2011-2686`).
+Act id: `pravilnik-2011-2686` (tags `pravilnik-2011-2686/<day>`; `python registry/tools/on.py <day> pravilnik-2011-2686`).
 
 ## Decisions made by hand
 

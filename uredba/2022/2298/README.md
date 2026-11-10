@@ -13,7 +13,7 @@ Uredba o izmjenama i dopunama Uredbe o radnim mjestima policijskih službenika k
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2022-2298` (tags `uredba-2022-2298/<day>`; `python tools/on.py <day> uredba-2022-2298`).
+Act id: `uredba-2022-2298` (tags `uredba-2022-2298/<day>`; `python registry/tools/on.py <day> uredba-2022-2298`).
 
 ## Decisions made by hand
 

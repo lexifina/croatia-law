@@ -17,7 +17,7 @@ Pravilnik o uvjetima i načinu ostvarivanja prava na novčanu potporu za podmire
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2015-492` (tags `pravilnik-2015-492/<day>`; `python tools/on.py <day> pravilnik-2015-492`).
+Act id: `pravilnik-2015-492` (tags `pravilnik-2015-492/<day>`; `python registry/tools/on.py <day> pravilnik-2015-492`).
 
 ## Status
 

@@ -10,7 +10,7 @@ Uredba o izmjeni Uredbe o visini trošarine na energente i električnu energiju 
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2026-1129` (tags `uredba-2026-1129/<day>`; `python tools/on.py <day> uredba-2026-1129`).
+Act id: `uredba-2026-1129` (tags `uredba-2026-1129/<day>`; `python registry/tools/on.py <day> uredba-2026-1129`).
 
 ## Decisions made by hand
 

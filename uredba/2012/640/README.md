@@ -10,7 +10,7 @@ Uredba o izmjenama Uredbe o određivanju robe koja se izvozi i uvozi na temelju 
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2012-640` (tags `uredba-2012-640/<day>`; `python tools/on.py <day> uredba-2012-640`).
+Act id: `uredba-2012-640` (tags `uredba-2012-640/<day>`; `python registry/tools/on.py <day> uredba-2012-640`).
 
 ## Decisions made by hand
 

@@ -15,7 +15,7 @@ Pravilnik o ribolovnim mogućnostima i raspodjeli državne kvote u 2019. godini 
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2019-252` (tags `pravilnik-2019-252/<day>`; `python tools/on.py <day> pravilnik-2019-252`).
+Act id: `pravilnik-2019-252` (tags `pravilnik-2019-252/<day>`; `python registry/tools/on.py <day> pravilnik-2019-252`).
 
 ## Status
 

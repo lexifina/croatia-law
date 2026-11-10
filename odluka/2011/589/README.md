@@ -12,7 +12,7 @@ Odluka o izmjenama i dopunama Odluke o postupku procjenjivanja adekvatnosti inte
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2011-589` (tags `odluka-2011-589/<day>`; `python tools/on.py <day> odluka-2011-589`).
+Act id: `odluka-2011-589` (tags `odluka-2011-589/<day>`; `python registry/tools/on.py <day> odluka-2011-589`).
 
 ## Decisions made by hand
 

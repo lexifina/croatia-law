@@ -26,7 +26,7 @@ Odluka o porezima Općine Vrhovine · 1 versions, from 2018-01-01 (latest in for
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2017-1323` (tags `odluka-2017-1323/<day>`; `python tools/on.py <day> odluka-2017-1323`).
+Act id: `odluka-2017-1323` (tags `odluka-2017-1323/<day>`; `python registry/tools/on.py <day> odluka-2017-1323`).
 
 ## Status
 

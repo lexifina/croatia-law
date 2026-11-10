@@ -5,7 +5,7 @@ Odluka o regulatornom kapitalu institucija za platni promet · 2 versions, from 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `odluka-2018-1518` (tags `odluka-2018-1518/<day>`; `python tools/on.py <day> odluka-2018-1518`).
+Act id: `odluka-2018-1518` (tags `odluka-2018-1518/<day>`; `python registry/tools/on.py <day> odluka-2018-1518`).
 
 ## Decisions made by hand
 

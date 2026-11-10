@@ -5,7 +5,7 @@ Odluka o zabrani napuštanja županije prema mjestu prebivališta ili boravišta
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `odluka-2020-2745` (tags `odluka-2020-2745/<day>`; `python tools/on.py <day> odluka-2020-2745`).
+Act id: `odluka-2020-2745` (tags `odluka-2020-2745/<day>`; `python registry/tools/on.py <day> odluka-2020-2745`).
 
 ## Decisions made by hand
 

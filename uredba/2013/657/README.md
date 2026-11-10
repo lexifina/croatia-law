@@ -48,7 +48,7 @@ Uredba o Hrvatskom viznom informacijskom sustavu · 1 versions, from 2013-04-01 
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2013-657` (tags `uredba-2013-657/<day>`; `python tools/on.py <day> uredba-2013-657`).
+Act id: `uredba-2013-657` (tags `uredba-2013-657/<day>`; `python registry/tools/on.py <day> uredba-2013-657`).
 
 ## Status
 

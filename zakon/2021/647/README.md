@@ -92,7 +92,7 @@ Zakon o izmjenama i dopunama Zakona o istraživanju i eksploataciji ugljikovodik
 | čl. 86 | [clanak-086.md](clanak-086.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2021-647` (tags `zakon-2021-647/<day>`; `python tools/on.py <day> zakon-2021-647`).
+Act id: `zakon-2021-647` (tags `zakon-2021-647/<day>`; `python registry/tools/on.py <day> zakon-2021-647`).
 
 ## Decisions made by hand
 

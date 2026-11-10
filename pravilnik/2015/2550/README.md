@@ -9,7 +9,7 @@ Pravilnik o izmjenama Pravilnika o financijskim i dodatnim izvještajima te kont
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2015-2550` (tags `pravilnik-2015-2550/<day>`; `python tools/on.py <day> pravilnik-2015-2550`).
+Act id: `pravilnik-2015-2550` (tags `pravilnik-2015-2550/<day>`; `python registry/tools/on.py <day> pravilnik-2015-2550`).
 
 ## Decisions made by hand
 

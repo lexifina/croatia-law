@@ -11,7 +11,7 @@ Odluka o zajamčenom prinosu obveznih mirovinskih fondova za 2010. godinu · 1 v
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2011-294` (tags `odluka-2011-294/<day>`; `python tools/on.py <day> odluka-2011-294`).
+Act id: `odluka-2011-294` (tags `odluka-2011-294/<day>`; `python registry/tools/on.py <day> odluka-2011-294`).
 
 ## Decisions made by hand
 

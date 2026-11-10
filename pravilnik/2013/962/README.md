@@ -39,7 +39,7 @@ Pravilnik o uvjetima i postupku ostvarivanja prava na jednokratnu novÄanu pomoÄ
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2013-962` (tags `pravilnik-2013-962/<day>`; `python tools/on.py <day> pravilnik-2013-962`).
+Act id: `pravilnik-2013-962` (tags `pravilnik-2013-962/<day>`; `python registry/tools/on.py <day> pravilnik-2013-962`).
 
 ## Status
 

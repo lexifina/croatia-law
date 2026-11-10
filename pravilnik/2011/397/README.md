@@ -13,7 +13,7 @@ Pravilnik o obliku i sadržaju obrasca izvješća o imovini državnih odvjetnika
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2011-397` (tags `pravilnik-2011-397/<day>`; `python tools/on.py <day> pravilnik-2011-397`).
+Act id: `pravilnik-2011-397` (tags `pravilnik-2011-397/<day>`; `python registry/tools/on.py <day> pravilnik-2011-397`).
 
 ## Status
 

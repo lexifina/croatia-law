@@ -8,7 +8,7 @@ Odluka o prestanku dijela koncesije za osnivanje Podunavske slobodne zone Vukova
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2015-1589` (tags `odluka-2015-1589/<day>`; `python tools/on.py <day> odluka-2015-1589`).
+Act id: `odluka-2015-1589` (tags `odluka-2015-1589/<day>`; `python registry/tools/on.py <day> odluka-2015-1589`).
 
 ## Decisions made by hand
 

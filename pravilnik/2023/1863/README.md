@@ -12,7 +12,7 @@ Pravilnik o dopunama Pravilnika o boravku u prihvatnom centru za strance i nači
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2023-1863` (tags `pravilnik-2023-1863/<day>`; `python tools/on.py <day> pravilnik-2023-1863`).
+Act id: `pravilnik-2023-1863` (tags `pravilnik-2023-1863/<day>`; `python registry/tools/on.py <day> pravilnik-2023-1863`).
 
 ## Decisions made by hand
 

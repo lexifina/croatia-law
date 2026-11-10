@@ -99,7 +99,7 @@ Zakon o izmjenama i dopunama Zakona o otvorenim investicijskim fondovima s javno
 | čl. 93 | [clanak-093.md](clanak-093.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2026-119` (tags `zakon-2026-119/<day>`; `python tools/on.py <day> zakon-2026-119`).
+Act id: `zakon-2026-119` (tags `zakon-2026-119/<day>`; `python registry/tools/on.py <day> zakon-2026-119`).
 
 ## Decisions made by hand
 

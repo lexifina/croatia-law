@@ -5,7 +5,7 @@ Uredba o snimanju iz zraka · 2 versions, from 2016-08-07 (latest in force: 2019
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `uredba-2016-1666` (tags `uredba-2016-1666/<day>`; `python tools/on.py <day> uredba-2016-1666`).
+Act id: `uredba-2016-1666` (tags `uredba-2016-1666/<day>`; `python registry/tools/on.py <day> uredba-2016-1666`).
 
 ## Decisions made by hand
 

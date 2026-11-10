@@ -23,7 +23,7 @@ Zakon o izmjenama i dopunama Zakona o slobodnim zonama · 1 versions, from 2013-
 | čl. 17 | [clanak-017.md](clanak-017.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2013-3152` (tags `zakon-2013-3152/<day>`; `python tools/on.py <day> zakon-2013-3152`).
+Act id: `zakon-2013-3152` (tags `zakon-2013-3152/<day>`; `python registry/tools/on.py <day> zakon-2013-3152`).
 
 ## Decisions made by hand
 

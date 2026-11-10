@@ -46,7 +46,7 @@ Zakon o izmjenama i dopunama Zakona o socijalnoj skrbi · 1 versions, from 2014-
 | čl. 40 | [clanak-040.md](clanak-040.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2014-2866` (tags `zakon-2014-2866/<day>`; `python tools/on.py <day> zakon-2014-2866`).
+Act id: `zakon-2014-2866` (tags `zakon-2014-2866/<day>`; `python registry/tools/on.py <day> zakon-2014-2866`).
 
 ## Decisions made by hand
 

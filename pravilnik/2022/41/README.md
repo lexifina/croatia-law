@@ -17,7 +17,7 @@ Pravilnik o kriterijima za dodjelu sredstava iz Fonda za udružene turističke z
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2022-41` (tags `pravilnik-2022-41/<day>`; `python tools/on.py <day> pravilnik-2022-41`).
+Act id: `pravilnik-2022-41` (tags `pravilnik-2022-41/<day>`; `python registry/tools/on.py <day> pravilnik-2022-41`).
 
 ## Decisions made by hand
 

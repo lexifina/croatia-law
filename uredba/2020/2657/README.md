@@ -15,7 +15,7 @@ Uredba o namjeni i načinu raspodjele sredstava Fonda za udružene turističke z
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2020-2657` (tags `uredba-2020-2657/<day>`; `python tools/on.py <day> uredba-2020-2657`).
+Act id: `uredba-2020-2657` (tags `uredba-2020-2657/<day>`; `python registry/tools/on.py <day> uredba-2020-2657`).
 
 ## Decisions made by hand
 

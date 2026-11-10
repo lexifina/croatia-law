@@ -8,7 +8,7 @@ Odluku o ribolovnim mogućnostima za ribolov igluna (Xiphias gladius) u 2017. go
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2017-1474` (tags `odluka-2017-1474/<day>`; `python tools/on.py <day> odluka-2017-1474`).
+Act id: `odluka-2017-1474` (tags `odluka-2017-1474/<day>`; `python registry/tools/on.py <day> odluka-2017-1474`).
 
 ## Decisions made by hand
 

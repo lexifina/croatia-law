@@ -10,7 +10,7 @@ Pravilnik o redovitim izvješćima mirovinskog osiguravajućeg društva · 1 ver
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2014-1735` (tags `pravilnik-2014-1735/<day>`; `python tools/on.py <day> pravilnik-2014-1735`).
+Act id: `pravilnik-2014-1735` (tags `pravilnik-2014-1735/<day>`; `python registry/tools/on.py <day> pravilnik-2014-1735`).
 
 ## Status
 

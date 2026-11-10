@@ -8,7 +8,7 @@ Odluka o izmjeni Odluke o raspisivanju izbora za članove vijeća nacionalnih ma
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2019-777` (tags `odluka-2019-777/<day>`; `python tools/on.py <day> odluka-2019-777`).
+Act id: `odluka-2019-777` (tags `odluka-2019-777/<day>`; `python registry/tools/on.py <day> odluka-2019-777`).
 
 ## Decisions made by hand
 

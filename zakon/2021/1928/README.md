@@ -105,7 +105,7 @@ Zakon o izmjenama i dopunama Zakona o alternativnim investicijskim fondovima · 
 | čl. 99 | [clanak-099.md](clanak-099.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2021-1928` (tags `zakon-2021-1928/<day>`; `python tools/on.py <day> zakon-2021-1928`).
+Act id: `zakon-2021-1928` (tags `zakon-2021-1928/<day>`; `python registry/tools/on.py <day> zakon-2021-1928`).
 
 ## Decisions made by hand
 

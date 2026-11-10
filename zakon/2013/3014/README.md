@@ -12,7 +12,7 @@ Zakon o izmjeni i dopunama Zakona o državnim potporama · 1 versions, from 2013
 | čl. 6 | [clanak-006.md](clanak-006.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2013-3014` (tags `zakon-2013-3014/<day>`; `python tools/on.py <day> zakon-2013-3014`).
+Act id: `zakon-2013-3014` (tags `zakon-2013-3014/<day>`; `python registry/tools/on.py <day> zakon-2013-3014`).
 
 ## Decisions made by hand
 

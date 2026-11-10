@@ -9,7 +9,7 @@ Pravilnik o izmjeni i dopunama Pravilnika o odgovarajućoj vrsti obrazovanja uč
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2020-1449` (tags `pravilnik-2020-1449/<day>`; `python tools/on.py <day> pravilnik-2020-1449`).
+Act id: `pravilnik-2020-1449` (tags `pravilnik-2020-1449/<day>`; `python registry/tools/on.py <day> pravilnik-2020-1449`).
 
 ## Decisions made by hand
 

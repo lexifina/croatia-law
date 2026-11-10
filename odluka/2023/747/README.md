@@ -8,7 +8,7 @@ Odluka o izmjeni Odluke o osnivanju Konzulata Republike Hrvatske u Kraljevini Š
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2023-747` (tags `odluka-2023-747/<day>`; `python tools/on.py <day> odluka-2023-747`).
+Act id: `odluka-2023-747` (tags `odluka-2023-747/<day>`; `python registry/tools/on.py <day> odluka-2023-747`).
 
 ## Decisions made by hand
 

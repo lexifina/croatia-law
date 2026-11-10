@@ -18,7 +18,7 @@ Odluka o naknadi za razvoj trgovačkog društva Zagorski vodovod d.o.o. za javnu
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2022-1115` (tags `odluka-2022-1115/<day>`; `python tools/on.py <day> odluka-2022-1115`).
+Act id: `odluka-2022-1115` (tags `odluka-2022-1115/<day>`; `python registry/tools/on.py <day> odluka-2022-1115`).
 
 ## Status
 

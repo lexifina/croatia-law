@@ -8,7 +8,7 @@ Odluka o iznosu tarifa za transport nafte naftovodom za 2011. godinu · 1 versio
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2011-1176` (tags `odluka-2011-1176/<day>`; `python tools/on.py <day> odluka-2011-1176`).
+Act id: `odluka-2011-1176` (tags `odluka-2011-1176/<day>`; `python registry/tools/on.py <day> odluka-2011-1176`).
 
 ## Status
 

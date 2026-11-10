@@ -35,7 +35,7 @@ Pravilnik o najmu stambenih jedinica · 1 versions, from 2023-12-09 (latest in f
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2023-1959` (tags `pravilnik-2023-1959/<day>`; `python tools/on.py <day> pravilnik-2023-1959`).
+Act id: `pravilnik-2023-1959` (tags `pravilnik-2023-1959/<day>`; `python registry/tools/on.py <day> pravilnik-2023-1959`).
 
 ## Status
 

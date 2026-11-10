@@ -13,7 +13,7 @@ Zakon o izmjenama Zakona o provedbi Uredbe (EU) br. 909/2014 Europskog parlament
 | čl. 7 | [clanak-007.md](clanak-007.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2023-1705` (tags `zakon-2023-1705/<day>`; `python tools/on.py <day> zakon-2023-1705`).
+Act id: `zakon-2023-1705` (tags `zakon-2023-1705/<day>`; `python registry/tools/on.py <day> zakon-2023-1705`).
 
 ## Decisions made by hand
 

@@ -51,7 +51,7 @@ Zakon o izmjenama i dopunama Zakona o trošarinama · 1 versions, from 2017-01-0
 | čl. 45 | [clanak-045.md](clanak-045.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2016-2529` (tags `zakon-2016-2529/<day>`; `python tools/on.py <day> zakon-2016-2529`).
+Act id: `zakon-2016-2529` (tags `zakon-2016-2529/<day>`; `python registry/tools/on.py <day> zakon-2016-2529`).
 
 ## Decisions made by hand
 

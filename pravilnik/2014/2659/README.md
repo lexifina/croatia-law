@@ -18,7 +18,7 @@ Pravilnik o uvjetima za obavljanje funkcije člana uprave društva za osiguranje
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2014-2659` (tags `pravilnik-2014-2659/<day>`; `python tools/on.py <day> pravilnik-2014-2659`).
+Act id: `pravilnik-2014-2659` (tags `pravilnik-2014-2659/<day>`; `python registry/tools/on.py <day> pravilnik-2014-2659`).
 
 ## Status
 

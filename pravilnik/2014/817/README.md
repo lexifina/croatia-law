@@ -24,7 +24,7 @@ Pravilnik o obrascima zahtjeva dozvola za robu s dvojnom namjenom · 1 versions,
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2014-817` (tags `pravilnik-2014-817/<day>`; `python tools/on.py <day> pravilnik-2014-817`).
+Act id: `pravilnik-2014-817` (tags `pravilnik-2014-817/<day>`; `python registry/tools/on.py <day> pravilnik-2014-817`).
 
 ## Status
 

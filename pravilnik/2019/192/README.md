@@ -13,7 +13,7 @@ Pravilnik o obvezi informiranja potrošača · 1 versions, from 2019-02-02 (late
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2019-192` (tags `pravilnik-2019-192/<day>`; `python tools/on.py <day> pravilnik-2019-192`).
+Act id: `pravilnik-2019-192` (tags `pravilnik-2019-192/<day>`; `python registry/tools/on.py <day> pravilnik-2019-192`).
 
 ## Status
 

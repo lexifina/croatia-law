@@ -18,7 +18,7 @@ Pravilnik o izmjenama i dopunama Pravilnika o stavljanju na tržište sjemena kr
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2013-547` (tags `pravilnik-2013-547/<day>`; `python tools/on.py <day> pravilnik-2013-547`).
+Act id: `pravilnik-2013-547` (tags `pravilnik-2013-547/<day>`; `python registry/tools/on.py <day> pravilnik-2013-547`).
 
 ## Decisions made by hand
 

@@ -15,7 +15,7 @@ Pravilnik o izmjenama Pravilnika o Fondu za poticanje pluralizma i raznovrsnosti
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2017-62` (tags `pravilnik-2017-62/<day>`; `python tools/on.py <day> pravilnik-2017-62`).
+Act id: `pravilnik-2017-62` (tags `pravilnik-2017-62/<day>`; `python registry/tools/on.py <day> pravilnik-2017-62`).
 
 ## Decisions made by hand
 

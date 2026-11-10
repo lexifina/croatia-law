@@ -11,7 +11,7 @@ Uredba o visini trošarine za motorni benzin i plinsko ulje · 1 versions, from 
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2012-1750` (tags `uredba-2012-1750/<day>`; `python tools/on.py <day> uredba-2012-1750`).
+Act id: `uredba-2012-1750` (tags `uredba-2012-1750/<day>`; `python registry/tools/on.py <day> uredba-2012-1750`).
 
 ## Status
 

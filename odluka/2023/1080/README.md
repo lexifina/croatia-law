@@ -8,7 +8,7 @@ Odluka o isplati privremenog dodatka na plaću državnim službenicima i namješ
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2023-1080` (tags `odluka-2023-1080/<day>`; `python tools/on.py <day> odluka-2023-1080`).
+Act id: `odluka-2023-1080` (tags `odluka-2023-1080/<day>`; `python registry/tools/on.py <day> odluka-2023-1080`).
 
 ## Decisions made by hand
 

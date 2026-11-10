@@ -18,7 +18,7 @@ Pravilnik o izdvajanju poslova ili funkcija · 1 versions, from 2014-12-27 (late
 | čl. 12 | [clanak-012.md](clanak-012.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `pravilnik-2014-2853` (tags `pravilnik-2014-2853/<day>`; `python tools/on.py <day> pravilnik-2014-2853`).
+Act id: `pravilnik-2014-2853` (tags `pravilnik-2014-2853/<day>`; `python registry/tools/on.py <day> pravilnik-2014-2853`).
 
 ## Status
 

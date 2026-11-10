@@ -13,7 +13,7 @@ Pravilnik o dodatnim jamstvima u trgovini svinjama u odnosu na bolest Aujeszkoga
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2014-1339` (tags `pravilnik-2014-1339/<day>`; `python tools/on.py <day> pravilnik-2014-1339`).
+Act id: `pravilnik-2014-1339` (tags `pravilnik-2014-1339/<day>`; `python registry/tools/on.py <day> pravilnik-2014-1339`).
 
 ## Status
 

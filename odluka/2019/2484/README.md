@@ -11,7 +11,7 @@ Odluka o izmjenama Odluke o obveznom komorskom doprinosu za jedinstveni sustav o
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2019-2484` (tags `odluka-2019-2484/<day>`; `python tools/on.py <day> odluka-2019-2484`).
+Act id: `odluka-2019-2484` (tags `odluka-2019-2484/<day>`; `python registry/tools/on.py <day> odluka-2019-2484`).
 
 ## Decisions made by hand
 

@@ -5,7 +5,7 @@ Uredba o unutarnjem ustrojstvu Ministarstva prostornoga uređenja, graditeljstva
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `uredba-2021-2198` (tags `uredba-2021-2198/<day>`; `python tools/on.py <day> uredba-2021-2198`).
+Act id: `uredba-2021-2198` (tags `uredba-2021-2198/<day>`; `python registry/tools/on.py <day> uredba-2021-2198`).
 
 ## Decisions made by hand
 

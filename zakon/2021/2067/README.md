@@ -8,7 +8,7 @@ Zakon o izmjeni Zakona o dobrovoljnom zdravstvenom osiguranju · 1 versions, fro
 | čl. 2 | [clanak-002.md](clanak-002.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2021-2067` (tags `zakon-2021-2067/<day>`; `python tools/on.py <day> zakon-2021-2067`).
+Act id: `zakon-2021-2067` (tags `zakon-2021-2067/<day>`; `python registry/tools/on.py <day> zakon-2021-2067`).
 
 ## Decisions made by hand
 

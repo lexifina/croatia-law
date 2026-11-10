@@ -63,7 +63,7 @@ Zakon o izmjenama i dopunama Općeg poreznog zakona · 1 versions, from 2013-06-
 | čl. 57 | [clanak-057.md](clanak-057.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2013-1454` (tags `zakon-2013-1454/<day>`; `python tools/on.py <day> zakon-2013-1454`).
+Act id: `zakon-2013-1454` (tags `zakon-2013-1454/<day>`; `python registry/tools/on.py <day> zakon-2013-1454`).
 
 ## Decisions made by hand
 

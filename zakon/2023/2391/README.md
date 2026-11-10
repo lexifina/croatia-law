@@ -17,7 +17,7 @@ Zakon o izmjenama i dopunama Zakona o potrošačkom kreditiranju · 1 versions, 
 | čl. 11 | [clanak-011.md](clanak-011.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2023-2391` (tags `zakon-2023-2391/<day>`; `python tools/on.py <day> zakon-2023-2391`).
+Act id: `zakon-2023-2391` (tags `zakon-2023-2391/<day>`; `python registry/tools/on.py <day> zakon-2023-2391`).
 
 ## Decisions made by hand
 

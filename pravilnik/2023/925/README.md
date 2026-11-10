@@ -17,7 +17,7 @@ Pravilnik o upravljanju i obnavljanju robnih zaliha · 1 versions, from 2023-05-
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2023-925` (tags `pravilnik-2023-925/<day>`; `python tools/on.py <day> pravilnik-2023-925`).
+Act id: `pravilnik-2023-925` (tags `pravilnik-2023-925/<day>`; `python registry/tools/on.py <day> pravilnik-2023-925`).
 
 ## Decisions made by hand
 

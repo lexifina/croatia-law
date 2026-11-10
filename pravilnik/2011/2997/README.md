@@ -10,7 +10,7 @@ Pravilnik o izmjenama Pravilnika o izravnim plaćanjima u poljoprivredi, potpora
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2011-2997` (tags `pravilnik-2011-2997/<day>`; `python tools/on.py <day> pravilnik-2011-2997`).
+Act id: `pravilnik-2011-2997` (tags `pravilnik-2011-2997/<day>`; `python registry/tools/on.py <day> pravilnik-2011-2997`).
 
 ## Decisions made by hand
 

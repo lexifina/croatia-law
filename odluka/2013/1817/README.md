@@ -8,7 +8,7 @@ Odluka o postavljanju Mate Škrabala za izvanrednog i opunomoćenog veleposlanik
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2013-1817` (tags `odluka-2013-1817/<day>`; `python tools/on.py <day> odluka-2013-1817`).
+Act id: `odluka-2013-1817` (tags `odluka-2013-1817/<day>`; `python registry/tools/on.py <day> odluka-2013-1817`).
 
 ## Decisions made by hand
 

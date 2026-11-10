@@ -9,7 +9,7 @@ Odluka o rang listi sudionika u malom obalnom ribolovu · 1 versions, from 2016-
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2016-2725` (tags `odluka-2016-2725/<day>`; `python tools/on.py <day> odluka-2016-2725`).
+Act id: `odluka-2016-2725` (tags `odluka-2016-2725/<day>`; `python registry/tools/on.py <day> odluka-2016-2725`).
 
 ## Status
 

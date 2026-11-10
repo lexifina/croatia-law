@@ -8,7 +8,7 @@ Odluka o postavljanju konzula Republike Hrvatske u Bosni i Hercegovini, sa sjedi
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2018-1589` (tags `odluka-2018-1589/<day>`; `python tools/on.py <day> odluka-2018-1589`).
+Act id: `odluka-2018-1589` (tags `odluka-2018-1589/<day>`; `python registry/tools/on.py <day> odluka-2018-1589`).
 
 ## Decisions made by hand
 

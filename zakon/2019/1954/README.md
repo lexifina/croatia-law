@@ -12,7 +12,7 @@ Zakon o izmjenama Zakona o poljoprivrednom zemljištu · 1 versions, from 2020-0
 | čl. 6 | [clanak-006.md](clanak-006.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2019-1954` (tags `zakon-2019-1954/<day>`; `python tools/on.py <day> zakon-2019-1954`).
+Act id: `zakon-2019-1954` (tags `zakon-2019-1954/<day>`; `python registry/tools/on.py <day> zakon-2019-1954`).
 
 ## Decisions made by hand
 

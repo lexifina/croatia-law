@@ -8,7 +8,7 @@ Odluka o punoj subvenciji participacije u troškovima studija za redovite studen
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2012-2085` (tags `odluka-2012-2085/<day>`; `python tools/on.py <day> odluka-2012-2085`).
+Act id: `odluka-2012-2085` (tags `odluka-2012-2085/<day>`; `python registry/tools/on.py <day> odluka-2012-2085`).
 
 ## Decisions made by hand
 

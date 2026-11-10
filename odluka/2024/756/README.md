@@ -7,7 +7,7 @@ Odluka o Listi izmiritelja (medijatora) Centra za mirenje pri Hrvatskoj gospodar
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 
-Act id: `odluka-2024-756` (tags `odluka-2024-756/<day>`; `python tools/on.py <day> odluka-2024-756`).
+Act id: `odluka-2024-756` (tags `odluka-2024-756/<day>`; `python registry/tools/on.py <day> odluka-2024-756`).
 
 ## Decisions made by hand
 

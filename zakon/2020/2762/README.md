@@ -39,7 +39,7 @@ Zakon o izmjenama i dopunama Zakona o lokalnoj i područnoj (regionalnoj) samoup
 | čl. 33 | [clanak-033.md](clanak-033.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2020-2762` (tags `zakon-2020-2762/<day>`; `python tools/on.py <day> zakon-2020-2762`).
+Act id: `zakon-2020-2762` (tags `zakon-2020-2762/<day>`; `python registry/tools/on.py <day> zakon-2020-2762`).
 
 ## Decisions made by hand
 

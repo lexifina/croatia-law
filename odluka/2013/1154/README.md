@@ -8,7 +8,7 @@ Odluka o osnivanju Vijeća za genetski modificirane organizme · 1 versions, fro
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2013-1154` (tags `odluka-2013-1154/<day>`; `python tools/on.py <day> odluka-2013-1154`).
+Act id: `odluka-2013-1154` (tags `odluka-2013-1154/<day>`; `python registry/tools/on.py <day> odluka-2013-1154`).
 
 ## Status
 

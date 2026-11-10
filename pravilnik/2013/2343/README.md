@@ -11,7 +11,7 @@ Pravilnik o izmjenama Pravilnika o sadržaju i obliku svjedodžbi i drugih javni
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2013-2343` (tags `pravilnik-2013-2343/<day>`; `python tools/on.py <day> pravilnik-2013-2343`).
+Act id: `pravilnik-2013-2343` (tags `pravilnik-2013-2343/<day>`; `python registry/tools/on.py <day> pravilnik-2013-2343`).
 
 ## Decisions made by hand
 

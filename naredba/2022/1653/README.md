@@ -8,7 +8,7 @@ Naredba o izmjenama Naredbe o popisu iskrcajnih mjesta za iskrcaj ulova s ribars
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `naredba-2022-1653` (tags `naredba-2022-1653/<day>`; `python tools/on.py <day> naredba-2022-1653`).
+Act id: `naredba-2022-1653` (tags `naredba-2022-1653/<day>`; `python registry/tools/on.py <day> naredba-2022-1653`).
 
 ## Decisions made by hand
 

@@ -17,7 +17,7 @@ Pravilnik o izmjenama i dopunama Pravilnika o sanaciji investicijskih društava 
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2025-2291` (tags `pravilnik-2025-2291/<day>`; `python tools/on.py <day> pravilnik-2025-2291`).
+Act id: `pravilnik-2025-2291` (tags `pravilnik-2025-2291/<day>`; `python registry/tools/on.py <day> pravilnik-2025-2291`).
 
 ## Decisions made by hand
 

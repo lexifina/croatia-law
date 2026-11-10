@@ -8,7 +8,7 @@ Odluka o cijeni plina po kojoj je opskrbljivač na veleprodajnom tržištu plina
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2014-488` (tags `odluka-2014-488/<day>`; `python tools/on.py <day> odluka-2014-488`).
+Act id: `odluka-2014-488` (tags `odluka-2014-488/<day>`; `python registry/tools/on.py <day> odluka-2014-488`).
 
 ## Status
 

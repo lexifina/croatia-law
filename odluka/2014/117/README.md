@@ -14,7 +14,7 @@ Odluka o visini naknade za utvrđivanje sposobnosti čamaca za plovidbu i o visi
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2014-117` (tags `odluka-2014-117/<day>`; `python tools/on.py <day> odluka-2014-117`).
+Act id: `odluka-2014-117` (tags `odluka-2014-117/<day>`; `python registry/tools/on.py <day> odluka-2014-117`).
 
 ## Status
 

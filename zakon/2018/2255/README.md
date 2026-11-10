@@ -7,7 +7,7 @@ Zakon o izmjenama i dopunama Zakona o provedbi Uredbe (EZ) br. 1223/2009 Europsk
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 
-Act id: `zakon-2018-2255` (tags `zakon-2018-2255/<day>`; `python tools/on.py <day> zakon-2018-2255`).
+Act id: `zakon-2018-2255` (tags `zakon-2018-2255/<day>`; `python registry/tools/on.py <day> zakon-2018-2255`).
 
 ## Decisions made by hand
 

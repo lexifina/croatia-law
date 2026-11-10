@@ -9,7 +9,7 @@ Pravilnik o dopuni Pravilnika o načinu isticanja maloprodajne cijene i cijene z
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2015-301` (tags `pravilnik-2015-301/<day>`; `python tools/on.py <day> pravilnik-2015-301`).
+Act id: `pravilnik-2015-301` (tags `pravilnik-2015-301/<day>`; `python registry/tools/on.py <day> pravilnik-2015-301`).
 
 ## Decisions made by hand
 

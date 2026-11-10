@@ -17,7 +17,7 @@ Izmjene i dopuna Statuta Središnjeg registra osiguranika · 1 versions, from 20
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `statut-2018-1779` (tags `statut-2018-1779/<day>`; `python tools/on.py <day> statut-2018-1779`).
+Act id: `statut-2018-1779` (tags `statut-2018-1779/<day>`; `python registry/tools/on.py <day> statut-2018-1779`).
 
 ## Status
 

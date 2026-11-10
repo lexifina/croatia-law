@@ -22,7 +22,7 @@ Zakon o izmjenama i dopunama Zakona o zaštiti i očuvanju kulturnih dobara · 1
 | čl. 16 | [clanak-016.md](clanak-016.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2017-1000` (tags `zakon-2017-1000/<day>`; `python tools/on.py <day> zakon-2017-1000`).
+Act id: `zakon-2017-1000` (tags `zakon-2017-1000/<day>`; `python registry/tools/on.py <day> zakon-2017-1000`).
 
 ## Decisions made by hand
 

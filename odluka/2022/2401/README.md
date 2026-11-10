@@ -17,7 +17,7 @@ Odluka o općinskim porezima Općine Trnovec Bartolovečki · 1 versions, from 2
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2022-2401` (tags `odluka-2022-2401/<day>`; `python tools/on.py <day> odluka-2022-2401`).
+Act id: `odluka-2022-2401` (tags `odluka-2022-2401/<day>`; `python registry/tools/on.py <day> odluka-2022-2401`).
 
 ## Decisions made by hand
 

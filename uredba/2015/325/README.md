@@ -17,7 +17,7 @@ Uredba o izmjenama i dopunama Uredbe o mjerama i naknadama za prekomjerne i špe
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2015-325` (tags `uredba-2015-325/<day>`; `python tools/on.py <day> uredba-2015-325`).
+Act id: `uredba-2015-325` (tags `uredba-2015-325/<day>`; `python registry/tools/on.py <day> uredba-2015-325`).
 
 ## Decisions made by hand
 

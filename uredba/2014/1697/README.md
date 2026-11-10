@@ -19,7 +19,7 @@ Uredba o izmjenama i dopunama Uredbe o osnivanju Javne ustanove "Park prirode UÄ
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2014-1697` (tags `uredba-2014-1697/<day>`; `python tools/on.py <day> uredba-2014-1697`).
+Act id: `uredba-2014-1697` (tags `uredba-2014-1697/<day>`; `python registry/tools/on.py <day> uredba-2014-1697`).
 
 ## Decisions made by hand
 

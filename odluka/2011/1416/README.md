@@ -9,7 +9,7 @@ Odluka o objavljivanju pravila o državnim potporama koja se odnose na brzi razv
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2011-1416` (tags `odluka-2011-1416/<day>`; `python tools/on.py <day> odluka-2011-1416`).
+Act id: `odluka-2011-1416` (tags `odluka-2011-1416/<day>`; `python registry/tools/on.py <day> odluka-2011-1416`).
 
 ## Status
 

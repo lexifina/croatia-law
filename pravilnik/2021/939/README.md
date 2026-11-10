@@ -5,7 +5,7 @@ Pravilnik o uvjetima, kriterijima i načinu dodjele državne potpore za štete o
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `pravilnik-2021-939` (tags `pravilnik-2021-939/<day>`; `python tools/on.py <day> pravilnik-2021-939`).
+Act id: `pravilnik-2021-939` (tags `pravilnik-2021-939/<day>`; `python registry/tools/on.py <day> pravilnik-2021-939`).
 
 ## Decisions made by hand
 

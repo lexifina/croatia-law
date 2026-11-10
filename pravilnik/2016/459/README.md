@@ -16,7 +16,7 @@ Pravilnik o prihvatljivosti izdataka u okviru Fonda europske pomoći za najpotre
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2016-459` (tags `pravilnik-2016-459/<day>`; `python tools/on.py <day> pravilnik-2016-459`).
+Act id: `pravilnik-2016-459` (tags `pravilnik-2016-459/<day>`; `python registry/tools/on.py <day> pravilnik-2016-459`).
 
 ## Decisions made by hand
 

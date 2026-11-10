@@ -69,7 +69,7 @@ Uredba o kriterijima, mjerilima i postupcima financiranja i ugovaranja programa 
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2015-546` (tags `uredba-2015-546/<day>`; `python tools/on.py <day> uredba-2015-546`).
+Act id: `uredba-2015-546` (tags `uredba-2015-546/<day>`; `python registry/tools/on.py <day> uredba-2015-546`).
 
 ## Status
 

@@ -25,7 +25,7 @@ Uredba o unutarnjem ustrojstvu Državne komisije za kontrolu postupaka javne nab
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2013-1867` (tags `uredba-2013-1867/<day>`; `python tools/on.py <day> uredba-2013-1867`).
+Act id: `uredba-2013-1867` (tags `uredba-2013-1867/<day>`; `python registry/tools/on.py <day> uredba-2013-1867`).
 
 ## Status
 

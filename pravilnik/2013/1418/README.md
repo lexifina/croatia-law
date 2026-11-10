@@ -9,7 +9,7 @@ Pravilnik o prestanku važenja Pravilnika o obvezatnom ispitivanju namještaja i
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2013-1418` (tags `pravilnik-2013-1418/<day>`; `python tools/on.py <day> pravilnik-2013-1418`).
+Act id: `pravilnik-2013-1418` (tags `pravilnik-2013-1418/<day>`; `python registry/tools/on.py <day> pravilnik-2013-1418`).
 
 ## Decisions made by hand
 

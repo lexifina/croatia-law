@@ -25,7 +25,7 @@ Pravilnik o uvjetima kojima mora udovoljavati osoba koja upravlja zrakoplovima n
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2019-1850` (tags `pravilnik-2019-1850/<day>`; `python tools/on.py <day> pravilnik-2019-1850`).
+Act id: `pravilnik-2019-1850` (tags `pravilnik-2019-1850/<day>`; `python registry/tools/on.py <day> pravilnik-2019-1850`).
 
 ## Status
 

@@ -47,7 +47,7 @@ Zakon o izmjenama i dopunama Zakona o elektroničkim medijima · 1 versions, fro
 | čl. 41 | [clanak-041.md](clanak-041.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2013-2133` (tags `zakon-2013-2133/<day>`; `python tools/on.py <day> zakon-2013-2133`).
+Act id: `zakon-2013-2133` (tags `zakon-2013-2133/<day>`; `python registry/tools/on.py <day> zakon-2013-2133`).
 
 ## Status
 

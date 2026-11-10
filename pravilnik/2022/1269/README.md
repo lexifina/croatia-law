@@ -12,7 +12,7 @@ Pravilnik o sadržaju godišnjeg izvješća o radu Hrvatske komore edukacijskih 
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2022-1269` (tags `pravilnik-2022-1269/<day>`; `python tools/on.py <day> pravilnik-2022-1269`).
+Act id: `pravilnik-2022-1269` (tags `pravilnik-2022-1269/<day>`; `python registry/tools/on.py <day> pravilnik-2022-1269`).
 
 ## Decisions made by hand
 

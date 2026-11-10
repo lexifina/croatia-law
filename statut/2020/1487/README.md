@@ -50,7 +50,7 @@ Statut Župske stranke · 1 versions, from 2019-12-27 (latest in force: 2019-12-
 | čl. 44 | [clanak-044.md](clanak-044.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `statut-2020-1487` (tags `statut-2020-1487/<day>`; `python tools/on.py <day> statut-2020-1487`).
+Act id: `statut-2020-1487` (tags `statut-2020-1487/<day>`; `python registry/tools/on.py <day> statut-2020-1487`).
 
 ## Decisions made by hand
 

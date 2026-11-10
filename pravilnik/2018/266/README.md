@@ -5,7 +5,7 @@ Pravilnik o elektroničkoj komunikaciji u postupcima pred trgovačkim sudovima �
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `pravilnik-2018-266` (tags `pravilnik-2018-266/<day>`; `python tools/on.py <day> pravilnik-2018-266`).
+Act id: `pravilnik-2018-266` (tags `pravilnik-2018-266/<day>`; `python registry/tools/on.py <day> pravilnik-2018-266`).
 
 ## Decisions made by hand
 

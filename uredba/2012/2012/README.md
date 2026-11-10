@@ -22,7 +22,7 @@ Uredba o provedbi projekata javno-privatnog partnerstva · 1 versions, from 2012
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2012-2012` (tags `uredba-2012-2012/<day>`; `python tools/on.py <day> uredba-2012-2012`).
+Act id: `uredba-2012-2012` (tags `uredba-2012-2012/<day>`; `python registry/tools/on.py <day> uredba-2012-2012`).
 
 ## Status
 

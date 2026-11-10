@@ -14,7 +14,7 @@ Zakon o izmjenama i dopuni Zakona o plaćama sudaca i drugih pravosudnih dužnos
 | čl. 8 | [clanak-008.md](clanak-008.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2023-1176` (tags `zakon-2023-1176/<day>`; `python tools/on.py <day> zakon-2023-1176`).
+Act id: `zakon-2023-1176` (tags `zakon-2023-1176/<day>`; `python registry/tools/on.py <day> zakon-2023-1176`).
 
 ## Decisions made by hand
 

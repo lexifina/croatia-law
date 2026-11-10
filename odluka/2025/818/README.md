@@ -8,7 +8,7 @@ Odluka o stavljanju u službenu uporabu katastarskog operata katastra nekretnina
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2025-818` (tags `odluka-2025-818/<day>`; `python tools/on.py <day> odluka-2025-818`).
+Act id: `odluka-2025-818` (tags `odluka-2025-818/<day>`; `python registry/tools/on.py <day> odluka-2025-818`).
 
 ## Decisions made by hand
 

@@ -10,7 +10,7 @@ Pravilnik o izmjenama i dopunama pravilnika o organizacijskim zahtjevima za miro
 | čl. 4 | [clanak-004.md](clanak-004.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `pravilnik-2017-855` (tags `pravilnik-2017-855/<day>`; `python tools/on.py <day> pravilnik-2017-855`).
+Act id: `pravilnik-2017-855` (tags `pravilnik-2017-855/<day>`; `python registry/tools/on.py <day> pravilnik-2017-855`).
 
 ## Decisions made by hand
 

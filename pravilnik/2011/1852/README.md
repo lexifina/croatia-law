@@ -9,7 +9,7 @@ Pravilnik o izmjenama Pravilnika o namjeni radiofrekcencijskog spektra · 1 vers
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2011-1852` (tags `pravilnik-2011-1852/<day>`; `python tools/on.py <day> pravilnik-2011-1852`).
+Act id: `pravilnik-2011-1852` (tags `pravilnik-2011-1852/<day>`; `python registry/tools/on.py <day> pravilnik-2011-1852`).
 
 ## Decisions made by hand
 

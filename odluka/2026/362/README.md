@@ -53,7 +53,7 @@ Odluka o primicima radnika · 1 versions, from 2026-04-02 (latest in force: 2026
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2026-362` (tags `odluka-2026-362/<day>`; `python tools/on.py <day> odluka-2026-362`).
+Act id: `odluka-2026-362` (tags `odluka-2026-362/<day>`; `python registry/tools/on.py <day> odluka-2026-362`).
 
 ## Decisions made by hand
 

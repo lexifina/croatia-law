@@ -11,7 +11,7 @@ Zakon o izmjenama Zakona o trgovini · 1 versions, from 2020-01-01 (latest in fo
 | čl. 5 | [clanak-005.md](clanak-005.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2019-1965` (tags `zakon-2019-1965/<day>`; `python tools/on.py <day> zakon-2019-1965`).
+Act id: `zakon-2019-1965` (tags `zakon-2019-1965/<day>`; `python registry/tools/on.py <day> zakon-2019-1965`).
 
 ## Decisions made by hand
 

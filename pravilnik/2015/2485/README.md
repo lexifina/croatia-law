@@ -10,7 +10,7 @@ Pravilnik o izmjenama i dopunama Pravilnika o ortopedskim i drugim pomagalima ·
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2015-2485` (tags `pravilnik-2015-2485/<day>`; `python tools/on.py <day> pravilnik-2015-2485`).
+Act id: `pravilnik-2015-2485` (tags `pravilnik-2015-2485/<day>`; `python registry/tools/on.py <day> pravilnik-2015-2485`).
 
 ## Decisions made by hand
 

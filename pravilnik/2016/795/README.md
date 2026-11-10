@@ -12,7 +12,7 @@ Pravilnik o izmjenama i dopunama Pravilnika o sadržaju programa planiranog reos
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2016-795` (tags `pravilnik-2016-795/<day>`; `python tools/on.py <day> pravilnik-2016-795`).
+Act id: `pravilnik-2016-795` (tags `pravilnik-2016-795/<day>`; `python registry/tools/on.py <day> pravilnik-2016-795`).
 
 ## Decisions made by hand
 

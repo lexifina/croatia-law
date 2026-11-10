@@ -44,7 +44,7 @@ Zakon o izmjenama i dopunama Zakona o morskom ribarstvu · 1 versions, from 2024
 | čl. 38 | [clanak-038.md](clanak-038.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2024-255` (tags `zakon-2024-255/<day>`; `python tools/on.py <day> zakon-2024-255`).
+Act id: `zakon-2024-255` (tags `zakon-2024-255/<day>`; `python registry/tools/on.py <day> zakon-2024-255`).
 
 ## Decisions made by hand
 

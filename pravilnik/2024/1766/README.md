@@ -31,7 +31,7 @@ Pravilnik o provedbi državne potpore u ribarstvu za štete od zaštićenih mors
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2024-1766` (tags `pravilnik-2024-1766/<day>`; `python tools/on.py <day> pravilnik-2024-1766`).
+Act id: `pravilnik-2024-1766` (tags `pravilnik-2024-1766/<day>`; `python registry/tools/on.py <day> pravilnik-2024-1766`).
 
 ## Decisions made by hand
 

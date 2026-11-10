@@ -10,7 +10,7 @@ Pravilnik o izmjenama Pravilnika o kontroli projekata · 1 versions, from 2020-0
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2020-1407` (tags `pravilnik-2020-1407/<day>`; `python tools/on.py <day> pravilnik-2020-1407`).
+Act id: `pravilnik-2020-1407` (tags `pravilnik-2020-1407/<day>`; `python registry/tools/on.py <day> pravilnik-2020-1407`).
 
 ## Decisions made by hand
 

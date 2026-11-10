@@ -8,7 +8,7 @@ Odluka o donošenju Nacionalnog plana razvoja kliničkih bolničkih centara, kli
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2018-1668` (tags `odluka-2018-1668/<day>`; `python tools/on.py <day> odluka-2018-1668`).
+Act id: `odluka-2018-1668` (tags `odluka-2018-1668/<day>`; `python registry/tools/on.py <day> odluka-2018-1668`).
 
 ## Decisions made by hand
 

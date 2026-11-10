@@ -5,7 +5,7 @@ Naputak o novčanim kaznama koje izriču građevinski inspektori · 2 versions, 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `naputak-2018-445` (tags `naputak-2018-445/<day>`; `python tools/on.py <day> naputak-2018-445`).
+Act id: `naputak-2018-445` (tags `naputak-2018-445/<day>`; `python registry/tools/on.py <day> naputak-2018-445`).
 
 ## Decisions made by hand
 

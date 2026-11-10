@@ -8,7 +8,7 @@ Odluka o udjelu sredstava fiskalnog izravnanja za pojedinu općinu, grad i župa
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2022-2410` (tags `odluka-2022-2410/<day>`; `python tools/on.py <day> odluka-2022-2410`).
+Act id: `odluka-2022-2410` (tags `odluka-2022-2410/<day>`; `python registry/tools/on.py <day> odluka-2022-2410`).
 
 ## Decisions made by hand
 

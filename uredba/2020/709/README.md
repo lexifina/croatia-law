@@ -14,7 +14,7 @@ Uredba o izmjenama i dopunama Uredbe o visini naknade za korištenje voda · 1 v
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2020-709` (tags `uredba-2020-709/<day>`; `python tools/on.py <day> uredba-2020-709`).
+Act id: `uredba-2020-709` (tags `uredba-2020-709/<day>`; `python registry/tools/on.py <day> uredba-2020-709`).
 
 ## Decisions made by hand
 

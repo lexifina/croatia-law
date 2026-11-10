@@ -9,7 +9,7 @@ Odluka o usvajanju Jamstvenog programa »PLUS« · 1 versions, from 2019-05-02 (
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2019-890` (tags `odluka-2019-890/<day>`; `python tools/on.py <day> odluka-2019-890`).
+Act id: `odluka-2019-890` (tags `odluka-2019-890/<day>`; `python registry/tools/on.py <day> odluka-2019-890`).
 
 ## Status
 

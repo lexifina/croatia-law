@@ -11,7 +11,7 @@ Odluka o izmjenama Odluke o porezima Općine Pisarovina · 1 versions, from 2017
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2017-2483` (tags `odluka-2017-2483/<day>`; `python tools/on.py <day> odluka-2017-2483`).
+Act id: `odluka-2017-2483` (tags `odluka-2017-2483/<day>`; `python registry/tools/on.py <day> odluka-2017-2483`).
 
 ## Decisions made by hand
 

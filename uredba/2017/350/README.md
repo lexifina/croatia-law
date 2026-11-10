@@ -10,7 +10,7 @@ Uredba o ljetnom računanju vremena u 2017. godini · 1 versions, from 2017-02-2
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2017-350` (tags `uredba-2017-350/<day>`; `python tools/on.py <day> uredba-2017-350`).
+Act id: `uredba-2017-350` (tags `uredba-2017-350/<day>`; `python registry/tools/on.py <day> uredba-2017-350`).
 
 ## Decisions made by hand
 

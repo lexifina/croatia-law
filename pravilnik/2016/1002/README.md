@@ -5,7 +5,7 @@ Pravilnik o načinu izbora arbitra i provođenju postupka arbitraže u postupcim
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `pravilnik-2016-1002` (tags `pravilnik-2016-1002/<day>`; `python tools/on.py <day> pravilnik-2016-1002`).
+Act id: `pravilnik-2016-1002` (tags `pravilnik-2016-1002/<day>`; `python registry/tools/on.py <day> pravilnik-2016-1002`).
 
 ## Decisions made by hand
 

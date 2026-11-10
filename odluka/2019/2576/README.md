@@ -11,7 +11,7 @@ Odluka o pojedinim oblicima zdravstvene zaštite iz obveznoga zdravstvenog osigu
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2019-2576` (tags `odluka-2019-2576/<day>`; `python tools/on.py <day> odluka-2019-2576`).
+Act id: `odluka-2019-2576` (tags `odluka-2019-2576/<day>`; `python registry/tools/on.py <day> odluka-2019-2576`).
 
 ## Decisions made by hand
 

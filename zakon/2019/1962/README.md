@@ -8,7 +8,7 @@ Zakon o izmjeni Zakona o inspekciji cestovnog prometa i cesta · 1 versions, fro
 | čl. 2 | [clanak-002.md](clanak-002.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2019-1962` (tags `zakon-2019-1962/<day>`; `python tools/on.py <day> zakon-2019-1962`).
+Act id: `zakon-2019-1962` (tags `zakon-2019-1962/<day>`; `python registry/tools/on.py <day> zakon-2019-1962`).
 
 ## Decisions made by hand
 

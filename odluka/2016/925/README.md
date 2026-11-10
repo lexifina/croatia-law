@@ -8,7 +8,7 @@ Odluka o obustavi postupka sanacije Kliničkog bolničkog centra Split · 1 vers
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2016-925` (tags `odluka-2016-925/<day>`; `python tools/on.py <day> odluka-2016-925`).
+Act id: `odluka-2016-925` (tags `odluka-2016-925/<day>`; `python registry/tools/on.py <day> odluka-2016-925`).
 
 ## Decisions made by hand
 

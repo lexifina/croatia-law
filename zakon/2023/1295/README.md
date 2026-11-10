@@ -10,7 +10,7 @@ Zakon o izmjenama Zakona o tržištu električne energije · 1 versions, from 20
 | čl. 4 | [clanak-004.md](clanak-004.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2023-1295` (tags `zakon-2023-1295/<day>`; `python tools/on.py <day> zakon-2023-1295`).
+Act id: `zakon-2023-1295` (tags `zakon-2023-1295/<day>`; `python registry/tools/on.py <day> zakon-2023-1295`).
 
 ## Decisions made by hand
 

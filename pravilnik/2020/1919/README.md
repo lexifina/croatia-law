@@ -10,7 +10,7 @@ Pravilnik o izmjenama Pravilnika o vozačkim dozvolama · 1 versions, from 2020-
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2020-1919` (tags `pravilnik-2020-1919/<day>`; `python tools/on.py <day> pravilnik-2020-1919`).
+Act id: `pravilnik-2020-1919` (tags `pravilnik-2020-1919/<day>`; `python registry/tools/on.py <day> pravilnik-2020-1919`).
 
 ## Decisions made by hand
 

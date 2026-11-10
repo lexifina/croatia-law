@@ -18,7 +18,7 @@ Pravilnik o strukturi i sadržaju te načinu i rokovima dostave financijskih i d
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2014-1125` (tags `pravilnik-2014-1125/<day>`; `python tools/on.py <day> pravilnik-2014-1125`).
+Act id: `pravilnik-2014-1125` (tags `pravilnik-2014-1125/<day>`; `python registry/tools/on.py <day> pravilnik-2014-1125`).
 
 ## Status
 

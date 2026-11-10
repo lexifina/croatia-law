@@ -19,7 +19,7 @@ Uredba o načinu financiranja decentraliziranih funkcija te izračuna iznosa pom
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2025-139` (tags `uredba-2025-139/<day>`; `python tools/on.py <day> uredba-2025-139`).
+Act id: `uredba-2025-139` (tags `uredba-2025-139/<day>`; `python registry/tools/on.py <day> uredba-2025-139`).
 
 ## Decisions made by hand
 

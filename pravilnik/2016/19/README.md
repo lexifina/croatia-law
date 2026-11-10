@@ -18,7 +18,7 @@ Pravilnik o uvjetima za dobivanje dozvole za obavljanje poslova posrednika · 1 
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2016-19` (tags `pravilnik-2016-19/<day>`; `python tools/on.py <day> pravilnik-2016-19`).
+Act id: `pravilnik-2016-19` (tags `pravilnik-2016-19/<day>`; `python registry/tools/on.py <day> pravilnik-2016-19`).
 
 ## Decisions made by hand
 

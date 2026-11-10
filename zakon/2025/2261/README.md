@@ -19,7 +19,7 @@ Zakon o izmjenama i dopunama Zakona o porezu na dobit · 1 versions, from 2026-0
 | čl. 13 | [clanak-013.md](clanak-013.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2025-2261` (tags `zakon-2025-2261/<day>`; `python tools/on.py <day> zakon-2025-2261`).
+Act id: `zakon-2025-2261` (tags `zakon-2025-2261/<day>`; `python registry/tools/on.py <day> zakon-2025-2261`).
 
 ## Decisions made by hand
 

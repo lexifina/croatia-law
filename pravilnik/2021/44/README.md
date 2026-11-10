@@ -43,7 +43,7 @@ Pravilnik o sadržaju i načinu vođenja Hrvatskog registra civilnih zrakoplova 
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2021-44` (tags `pravilnik-2021-44/<day>`; `python tools/on.py <day> pravilnik-2021-44`).
+Act id: `pravilnik-2021-44` (tags `pravilnik-2021-44/<day>`; `python registry/tools/on.py <day> pravilnik-2021-44`).
 
 ## Status
 

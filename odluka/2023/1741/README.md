@@ -8,7 +8,7 @@ Odluka o određivanju Nacionalnog koordinacijskog središta za industriju, tehno
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2023-1741` (tags `odluka-2023-1741/<day>`; `python tools/on.py <day> odluka-2023-1741`).
+Act id: `odluka-2023-1741` (tags `odluka-2023-1741/<day>`; `python registry/tools/on.py <day> odluka-2023-1741`).
 
 ## Status
 

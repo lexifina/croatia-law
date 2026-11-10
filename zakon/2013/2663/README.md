@@ -8,7 +8,7 @@ Zakon o izmjeni Zakona o pravosudnoj suradnji u kaznenim stvarima s državama č
 | čl. 2 | [clanak-002.md](clanak-002.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2013-2663` (tags `zakon-2013-2663/<day>`; `python tools/on.py <day> zakon-2013-2663`).
+Act id: `zakon-2013-2663` (tags `zakon-2013-2663/<day>`; `python registry/tools/on.py <day> zakon-2013-2663`).
 
 ## Decisions made by hand
 

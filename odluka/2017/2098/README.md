@@ -9,7 +9,7 @@ Odluka o izmjeni Odluke o naknadi za stanovanje · 1 versions, from 2017-09-07 (
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2017-2098` (tags `odluka-2017-2098/<day>`; `python tools/on.py <day> odluka-2017-2098`).
+Act id: `odluka-2017-2098` (tags `odluka-2017-2098/<day>`; `python registry/tools/on.py <day> odluka-2017-2098`).
 
 ## Decisions made by hand
 

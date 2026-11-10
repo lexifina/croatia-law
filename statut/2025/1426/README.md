@@ -58,7 +58,7 @@ Statut političke stranke Republika · 1 versions, from 2023-12-02 (latest in fo
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `statut-2025-1426` (tags `statut-2025-1426/<day>`; `python tools/on.py <day> statut-2025-1426`).
+Act id: `statut-2025-1426` (tags `statut-2025-1426/<day>`; `python registry/tools/on.py <day> statut-2025-1426`).
 
 ## Status
 

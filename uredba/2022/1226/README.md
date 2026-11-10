@@ -10,7 +10,7 @@ Uredba o izmjenama i dopuni Uredbe o nazivima radnih mjesta i koeficijentima slo
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2022-1226` (tags `uredba-2022-1226/<day>`; `python tools/on.py <day> uredba-2022-1226`).
+Act id: `uredba-2022-1226` (tags `uredba-2022-1226/<day>`; `python registry/tools/on.py <day> uredba-2022-1226`).
 
 ## Decisions made by hand
 

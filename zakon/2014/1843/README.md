@@ -12,7 +12,7 @@ Zakon o izmjenama i dopunama Zakona o cestama · 1 versions, from 2014-08-05 (la
 | čl. 6 | [clanak-006.md](clanak-006.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2014-1843` (tags `zakon-2014-1843/<day>`; `python tools/on.py <day> zakon-2014-1843`).
+Act id: `zakon-2014-1843` (tags `zakon-2014-1843/<day>`; `python registry/tools/on.py <day> zakon-2014-1843`).
 
 ## Decisions made by hand
 

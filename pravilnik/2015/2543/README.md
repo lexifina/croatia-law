@@ -12,7 +12,7 @@ Pravilnik o uvjetima i načinu provođenja sezonskog sniženja · 1 versions, fr
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2015-2543` (tags `pravilnik-2015-2543/<day>`; `python tools/on.py <day> pravilnik-2015-2543`).
+Act id: `pravilnik-2015-2543` (tags `pravilnik-2015-2543/<day>`; `python registry/tools/on.py <day> pravilnik-2015-2543`).
 
 ## Status
 

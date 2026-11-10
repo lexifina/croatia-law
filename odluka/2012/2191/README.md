@@ -8,7 +8,7 @@ Odluka o osobnim iskaznicama izdanim prije 1. siječnja 2003. godine · 1 versio
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2012-2191` (tags `odluka-2012-2191/<day>`; `python tools/on.py <day> odluka-2012-2191`).
+Act id: `odluka-2012-2191` (tags `odluka-2012-2191/<day>`; `python registry/tools/on.py <day> odluka-2012-2191`).
 
 ## Decisions made by hand
 

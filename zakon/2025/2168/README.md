@@ -12,7 +12,7 @@ Zakon o izmjeni i dopunama Zakona o parničnom postupku · 1 versions, from 2025
 | čl. 6 | [clanak-006.md](clanak-006.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2025-2168` (tags `zakon-2025-2168/<day>`; `python tools/on.py <day> zakon-2025-2168`).
+Act id: `zakon-2025-2168` (tags `zakon-2025-2168/<day>`; `python registry/tools/on.py <day> zakon-2025-2168`).
 
 ## Decisions made by hand
 

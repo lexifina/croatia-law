@@ -14,7 +14,7 @@ Pravilnik o izmjenama i dopunama Pravilnika o glavnim i napajajućim alternativn
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2017-918` (tags `pravilnik-2017-918/<day>`; `python tools/on.py <day> pravilnik-2017-918`).
+Act id: `pravilnik-2017-918` (tags `pravilnik-2017-918/<day>`; `python registry/tools/on.py <day> pravilnik-2017-918`).
 
 ## Decisions made by hand
 

@@ -162,7 +162,7 @@ Zakon o izmjenama i dopunama Zakona o kreditnim institucijama · 1 versions, fro
 | čl. 156 | [clanak-156.md](clanak-156.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2018-315` (tags `zakon-2018-315/<day>`; `python tools/on.py <day> zakon-2018-315`).
+Act id: `zakon-2018-315` (tags `zakon-2018-315/<day>`; `python registry/tools/on.py <day> zakon-2018-315`).
 
 ## Decisions made by hand
 

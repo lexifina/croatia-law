@@ -13,7 +13,7 @@ Uredba o izmjenama Uredbe o unutarnjem ustrojstvu Ministarstva uprave · 1 versi
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2019-1644` (tags `uredba-2019-1644/<day>`; `python tools/on.py <day> uredba-2019-1644`).
+Act id: `uredba-2019-1644` (tags `uredba-2019-1644/<day>`; `python registry/tools/on.py <day> uredba-2019-1644`).
 
 ## Decisions made by hand
 

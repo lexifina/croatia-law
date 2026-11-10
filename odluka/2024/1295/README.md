@@ -8,7 +8,7 @@ Odluka o izboru Izvršnog odbora Nacionalne grupe Hrvatskoga sabora pri Interpar
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2024-1295` (tags `odluka-2024-1295/<day>`; `python tools/on.py <day> odluka-2024-1295`).
+Act id: `odluka-2024-1295` (tags `odluka-2024-1295/<day>`; `python registry/tools/on.py <day> odluka-2024-1295`).
 
 ## Decisions made by hand
 

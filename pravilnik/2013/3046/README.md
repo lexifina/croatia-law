@@ -18,7 +18,7 @@ Pravilnik o uvjetima i načinu vođenja građevinskog dnevnika · 1 versions, fr
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2013-3046` (tags `pravilnik-2013-3046/<day>`; `python tools/on.py <day> pravilnik-2013-3046`).
+Act id: `pravilnik-2013-3046` (tags `pravilnik-2013-3046/<day>`; `python registry/tools/on.py <day> pravilnik-2013-3046`).
 
 ## Status
 

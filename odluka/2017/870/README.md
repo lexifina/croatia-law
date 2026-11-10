@@ -13,7 +13,7 @@ Odluka o prirezu poreza na dohodak Grada Križevaca · 1 versions, from 2017-05-
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2017-870` (tags `odluka-2017-870/<day>`; `python tools/on.py <day> odluka-2017-870`).
+Act id: `odluka-2017-870` (tags `odluka-2017-870/<day>`; `python registry/tools/on.py <day> odluka-2017-870`).
 
 ## Status
 

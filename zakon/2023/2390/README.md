@@ -16,7 +16,7 @@ Zakon o izmjenama i dopunama Zakona o stambenom potrošačkom kreditiranju · 1 
 | čl. 10 | [clanak-010.md](clanak-010.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2023-2390` (tags `zakon-2023-2390/<day>`; `python tools/on.py <day> zakon-2023-2390`).
+Act id: `zakon-2023-2390` (tags `zakon-2023-2390/<day>`; `python registry/tools/on.py <day> zakon-2023-2390`).
 
 ## Decisions made by hand
 

@@ -13,7 +13,7 @@ Naredba o izmjenama i dopuni Naredbe o poduzimanju mjera za sprječavanje širen
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `naredba-2019-1248` (tags `naredba-2019-1248/<day>`; `python tools/on.py <day> naredba-2019-1248`).
+Act id: `naredba-2019-1248` (tags `naredba-2019-1248/<day>`; `python registry/tools/on.py <day> naredba-2019-1248`).
 
 ## Decisions made by hand
 

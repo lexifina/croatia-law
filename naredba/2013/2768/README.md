@@ -8,7 +8,7 @@ Naredba o vođenju nadzorne knjige o kapitalnim poslovima s inozemstvom · 1 ver
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `naredba-2013-2768` (tags `naredba-2013-2768/<day>`; `python tools/on.py <day> naredba-2013-2768`).
+Act id: `naredba-2013-2768` (tags `naredba-2013-2768/<day>`; `python registry/tools/on.py <day> naredba-2013-2768`).
 
 ## Decisions made by hand
 

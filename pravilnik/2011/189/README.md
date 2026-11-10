@@ -21,7 +21,7 @@ Pravilnik o uvjetima kojima članovi uprave i nadzornog odbora mirovinskog druš
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2011-189` (tags `pravilnik-2011-189/<day>`; `python tools/on.py <day> pravilnik-2011-189`).
+Act id: `pravilnik-2011-189` (tags `pravilnik-2011-189/<day>`; `python registry/tools/on.py <day> pravilnik-2011-189`).
 
 ## Decisions made by hand
 

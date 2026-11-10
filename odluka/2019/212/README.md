@@ -9,7 +9,7 @@ Odluka o donošenju kurikuluma za međupredmetnu temu Zdravlje za osnovne škole
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2019-212` (tags `odluka-2019-212/<day>`; `python tools/on.py <day> odluka-2019-212`).
+Act id: `odluka-2019-212` (tags `odluka-2019-212/<day>`; `python registry/tools/on.py <day> odluka-2019-212`).
 
 ## Status
 

@@ -82,7 +82,7 @@ Zakon o izmjenama Zakona o protuminskom djelovanju · 1 versions, from 2019-01-0
 | čl. 76 | [clanak-076.md](clanak-076.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2018-2353` (tags `zakon-2018-2353/<day>`; `python tools/on.py <day> zakon-2018-2353`).
+Act id: `zakon-2018-2353` (tags `zakon-2018-2353/<day>`; `python registry/tools/on.py <day> zakon-2018-2353`).
 
 ## Decisions made by hand
 

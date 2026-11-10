@@ -5,7 +5,7 @@ Odluka o obvezi uvođenja funkcije praćenja usklađenosti poslovanja u pravnim 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `odluka-2019-1993` (tags `odluka-2019-1993/<day>`; `python tools/on.py <day> odluka-2019-1993`).
+Act id: `odluka-2019-1993` (tags `odluka-2019-1993/<day>`; `python registry/tools/on.py <day> odluka-2019-1993`).
 
 ## Decisions made by hand
 

@@ -19,7 +19,7 @@ Uredba o odgovornosti za štete u okolišu · 1 versions, from 2017-04-13 (lates
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2017-692` (tags `uredba-2017-692/<day>`; `python tools/on.py <day> uredba-2017-692`).
+Act id: `uredba-2017-692` (tags `uredba-2017-692/<day>`; `python registry/tools/on.py <day> uredba-2017-692`).
 
 ## Status
 

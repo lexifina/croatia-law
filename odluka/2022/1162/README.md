@@ -18,7 +18,7 @@ Odluka o naknadi za razvoj trgovačkog društva IZVOR PLOČE d.o.o. za javnu vod
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2022-1162` (tags `odluka-2022-1162/<day>`; `python tools/on.py <day> odluka-2022-1162`).
+Act id: `odluka-2022-1162` (tags `odluka-2022-1162/<day>`; `python registry/tools/on.py <day> odluka-2022-1162`).
 
 ## Status
 

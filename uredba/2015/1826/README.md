@@ -5,7 +5,7 @@ Uredba o izmjenama i dopunama Zakona o tržištu električne energije · 2 versi
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `uredba-2015-1826` (tags `uredba-2015-1826/<day>`; `python tools/on.py <day> uredba-2015-1826`).
+Act id: `uredba-2015-1826` (tags `uredba-2015-1826/<day>`; `python registry/tools/on.py <day> uredba-2015-1826`).
 
 ## Decisions made by hand
 

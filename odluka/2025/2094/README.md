@@ -8,7 +8,7 @@ Odluka o dopuni Odluke o nazivima i uvjetima za radna mjesta u Ustavnom sudu Rep
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2025-2094` (tags `odluka-2025-2094/<day>`; `python tools/on.py <day> odluka-2025-2094`).
+Act id: `odluka-2025-2094` (tags `odluka-2025-2094/<day>`; `python registry/tools/on.py <day> odluka-2025-2094`).
 
 ## Decisions made by hand
 

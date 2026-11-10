@@ -5,7 +5,7 @@ Odluka o visini opskrbnine za potrebe korisnika · 2 versions, from 2019-01-26 (
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `odluka-2019-193` (tags `odluka-2019-193/<day>`; `python tools/on.py <day> odluka-2019-193`).
+Act id: `odluka-2019-193` (tags `odluka-2019-193/<day>`; `python registry/tools/on.py <day> odluka-2019-193`).
 
 ## Decisions made by hand
 

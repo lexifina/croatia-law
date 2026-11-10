@@ -9,7 +9,7 @@ Uredba o prestanku važenja Zakona o listi tjelesnih oštećenja · 1 versions, 
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2014-2909` (tags `uredba-2014-2909/<day>`; `python tools/on.py <day> uredba-2014-2909`).
+Act id: `uredba-2014-2909` (tags `uredba-2014-2909/<day>`; `python registry/tools/on.py <day> uredba-2014-2909`).
 
 ## Status
 

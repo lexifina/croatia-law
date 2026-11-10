@@ -12,7 +12,7 @@ Pravilnik o izmjenama i dopunama Pravilnika o izvanaerodromskom slijetanju i uzl
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2013-139` (tags `pravilnik-2013-139/<day>`; `python tools/on.py <day> pravilnik-2013-139`).
+Act id: `pravilnik-2013-139` (tags `pravilnik-2013-139/<day>`; `python registry/tools/on.py <day> pravilnik-2013-139`).
 
 ## Decisions made by hand
 

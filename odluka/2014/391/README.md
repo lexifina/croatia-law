@@ -28,7 +28,7 @@ Odluka o postupku procjenjivanja adekvatnosti internoga kapitala kreditne instit
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2014-391` (tags `odluka-2014-391/<day>`; `python tools/on.py <day> odluka-2014-391`).
+Act id: `odluka-2014-391` (tags `odluka-2014-391/<day>`; `python registry/tools/on.py <day> odluka-2014-391`).
 
 ## Status
 

@@ -16,7 +16,7 @@ Pravilnik o promidžbenim aktivnostima i internetskoj stranici mirovinskog osigu
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2020-26` (tags `pravilnik-2020-26/<day>`; `python tools/on.py <day> pravilnik-2020-26`).
+Act id: `pravilnik-2020-26` (tags `pravilnik-2020-26/<day>`; `python registry/tools/on.py <day> pravilnik-2020-26`).
 
 ## Status
 

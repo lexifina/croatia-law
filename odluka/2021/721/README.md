@@ -8,7 +8,7 @@ Odluka o dopuni Odluke o kriterijima i načinu financiranja troškova javnog pri
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2021-721` (tags `odluka-2021-721/<day>`; `python tools/on.py <day> odluka-2021-721`).
+Act id: `odluka-2021-721` (tags `odluka-2021-721/<day>`; `python registry/tools/on.py <day> odluka-2021-721`).
 
 ## Decisions made by hand
 

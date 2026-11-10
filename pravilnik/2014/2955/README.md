@@ -13,7 +13,7 @@ Pravilnik o izmjeni i dopuni Pravilnika o stručnom nadzoru · 1 versions, from 
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2014-2955` (tags `pravilnik-2014-2955/<day>`; `python tools/on.py <day> pravilnik-2014-2955`).
+Act id: `pravilnik-2014-2955` (tags `pravilnik-2014-2955/<day>`; `python registry/tools/on.py <day> pravilnik-2014-2955`).
 
 ## Decisions made by hand
 

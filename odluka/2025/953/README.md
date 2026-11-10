@@ -8,7 +8,7 @@ Odluka o utvrđivanju letova koji se izuzimaju od plaćanja naknada u zračnoj p
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2025-953` (tags `odluka-2025-953/<day>`; `python tools/on.py <day> odluka-2025-953`).
+Act id: `odluka-2025-953` (tags `odluka-2025-953/<day>`; `python registry/tools/on.py <day> odluka-2025-953`).
 
 ## Decisions made by hand
 

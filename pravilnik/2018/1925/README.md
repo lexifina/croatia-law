@@ -5,7 +5,7 @@ Pravilnik o načinu utvrđivanja tehničkih uvjeta za primjeren smještaj učeni
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `pravilnik-2018-1925` (tags `pravilnik-2018-1925/<day>`; `python tools/on.py <day> pravilnik-2018-1925`).
+Act id: `pravilnik-2018-1925` (tags `pravilnik-2018-1925/<day>`; `python registry/tools/on.py <day> pravilnik-2018-1925`).
 
 ## Decisions made by hand
 

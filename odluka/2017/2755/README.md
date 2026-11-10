@@ -33,7 +33,7 @@ Odluka o izmjenama i dopunama Odluke o supervizorskim izvještajima kreditnih in
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2017-2755` (tags `odluka-2017-2755/<day>`; `python tools/on.py <day> odluka-2017-2755`).
+Act id: `odluka-2017-2755` (tags `odluka-2017-2755/<day>`; `python registry/tools/on.py <day> odluka-2017-2755`).
 
 ## Decisions made by hand
 

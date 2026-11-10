@@ -8,7 +8,7 @@ Odluka o izmjenama Odluke o pokretanju projekta e-Građani · 1 versions, from 2
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2016-1148` (tags `odluka-2016-1148/<day>`; `python tools/on.py <day> odluka-2016-1148`).
+Act id: `odluka-2016-1148` (tags `odluka-2016-1148/<day>`; `python registry/tools/on.py <day> odluka-2016-1148`).
 
 ## Decisions made by hand
 

@@ -8,7 +8,7 @@ Odluka o zatvaranju za promet postojećih željezničko-cestovnih prijelaza · 1
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2020-1498` (tags `odluka-2020-1498/<day>`; `python tools/on.py <day> odluka-2020-1498`).
+Act id: `odluka-2020-1498` (tags `odluka-2020-1498/<day>`; `python registry/tools/on.py <day> odluka-2020-1498`).
 
 ## Status
 

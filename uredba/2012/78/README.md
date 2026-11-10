@@ -11,7 +11,7 @@ Uredba o računanju vremena u 2012. godini · 1 versions, from 2012-01-20 (lates
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2012-78` (tags `uredba-2012-78/<day>`; `python tools/on.py <day> uredba-2012-78`).
+Act id: `uredba-2012-78` (tags `uredba-2012-78/<day>`; `python registry/tools/on.py <day> uredba-2012-78`).
 
 ## Decisions made by hand
 

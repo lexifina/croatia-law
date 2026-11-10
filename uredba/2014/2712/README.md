@@ -9,7 +9,7 @@ Uredba o izmjeni Uredbe o javnoj nabavi za potrebe obrane i sigurnosti · 1 vers
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2014-2712` (tags `uredba-2014-2712/<day>`; `python tools/on.py <day> uredba-2014-2712`).
+Act id: `uredba-2014-2712` (tags `uredba-2014-2712/<day>`; `python registry/tools/on.py <day> uredba-2014-2712`).
 
 ## Decisions made by hand
 

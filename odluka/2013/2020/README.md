@@ -9,7 +9,7 @@ Odluka o plaći ravnatelja i zamjenika ravnatelja Agencije za investicije i konk
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2013-2020` (tags `odluka-2013-2020/<day>`; `python tools/on.py <day> odluka-2013-2020`).
+Act id: `odluka-2013-2020` (tags `odluka-2013-2020/<day>`; `python registry/tools/on.py <day> odluka-2013-2020`).
 
 ## Decisions made by hand
 

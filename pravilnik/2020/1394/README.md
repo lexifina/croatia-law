@@ -11,7 +11,7 @@ Pravilnik o izmjeni i dopunama Pravilnika o prihvatljivosti izdataka · 1 versio
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2020-1394` (tags `pravilnik-2020-1394/<day>`; `python tools/on.py <day> pravilnik-2020-1394`).
+Act id: `pravilnik-2020-1394` (tags `pravilnik-2020-1394/<day>`; `python registry/tools/on.py <day> pravilnik-2020-1394`).
 
 ## Decisions made by hand
 

@@ -26,7 +26,7 @@ Pravilnik o provedbi Programa školski medni dan s hrvatskih pčelinjaka za 2025
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2025-1559` (tags `pravilnik-2025-1559/<day>`; `python tools/on.py <day> pravilnik-2025-1559`).
+Act id: `pravilnik-2025-1559` (tags `pravilnik-2025-1559/<day>`; `python registry/tools/on.py <day> pravilnik-2025-1559`).
 
 ## Decisions made by hand
 

@@ -9,7 +9,7 @@ Pravilnik o izmjenama i dopunama Pravilnika o interventnim pričuvama mirovinsko
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2019-2330` (tags `pravilnik-2019-2330/<day>`; `python tools/on.py <day> pravilnik-2019-2330`).
+Act id: `pravilnik-2019-2330` (tags `pravilnik-2019-2330/<day>`; `python registry/tools/on.py <day> pravilnik-2019-2330`).
 
 ## Decisions made by hand
 

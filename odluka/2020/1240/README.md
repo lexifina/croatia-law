@@ -9,7 +9,7 @@ Odluka o upisu učenika u I. razred srednje škole u školskoj godini 2020./2021
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2020-1240` (tags `odluka-2020-1240/<day>`; `python tools/on.py <day> odluka-2020-1240`).
+Act id: `odluka-2020-1240` (tags `odluka-2020-1240/<day>`; `python registry/tools/on.py <day> odluka-2020-1240`).
 
 ## Status
 

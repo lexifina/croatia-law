@@ -9,7 +9,7 @@ Odluka o redu prvenstva korištenja voda iz tijela podzemnih voda s vodocrpiliš
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2017-1949` (tags `odluka-2017-1949/<day>`; `python tools/on.py <day> odluka-2017-1949`).
+Act id: `odluka-2017-1949` (tags `odluka-2017-1949/<day>`; `python registry/tools/on.py <day> odluka-2017-1949`).
 
 ## Decisions made by hand
 

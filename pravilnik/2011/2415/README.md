@@ -21,7 +21,7 @@ Pravilnik o načinu prikupljanja podataka te sadržaju i načinu vođenja zbirke
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2011-2415` (tags `pravilnik-2011-2415/<day>`; `python tools/on.py <day> pravilnik-2011-2415`).
+Act id: `pravilnik-2011-2415` (tags `pravilnik-2011-2415/<day>`; `python registry/tools/on.py <day> pravilnik-2011-2415`).
 
 ## Decisions made by hand
 

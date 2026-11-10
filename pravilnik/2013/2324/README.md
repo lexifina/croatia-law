@@ -9,7 +9,7 @@ Pravilnik o izmjeni Pravilnika o ovlastima i načinu rada ovlaštenih doktora i 
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2013-2324` (tags `pravilnik-2013-2324/<day>`; `python tools/on.py <day> pravilnik-2013-2324`).
+Act id: `pravilnik-2013-2324` (tags `pravilnik-2013-2324/<day>`; `python registry/tools/on.py <day> pravilnik-2013-2324`).
 
 ## Decisions made by hand
 

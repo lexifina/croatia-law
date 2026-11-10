@@ -12,7 +12,7 @@ Odluka o provedbi Uredbe Vijeća (EZ) br. 1338/2001 o utvrđivanju mjera potrebn
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2020-2677` (tags `odluka-2020-2677/<day>`; `python tools/on.py <day> odluka-2020-2677`).
+Act id: `odluka-2020-2677` (tags `odluka-2020-2677/<day>`; `python registry/tools/on.py <day> odluka-2020-2677`).
 
 ## Status
 

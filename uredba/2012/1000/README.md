@@ -90,7 +90,7 @@ Uredba o unutarnjem ustrojstvu Državne geodetske uprave · 1 versions, from 201
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2012-1000` (tags `uredba-2012-1000/<day>`; `python tools/on.py <day> uredba-2012-1000`).
+Act id: `uredba-2012-1000` (tags `uredba-2012-1000/<day>`; `python registry/tools/on.py <day> uredba-2012-1000`).
 
 ## Status
 

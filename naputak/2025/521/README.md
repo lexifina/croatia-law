@@ -16,7 +16,7 @@ Naputak o izradi i dostavi mjesečnog plana plaćanja rashoda i izdataka prorač
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `naputak-2025-521` (tags `naputak-2025-521/<day>`; `python tools/on.py <day> naputak-2025-521`).
+Act id: `naputak-2025-521` (tags `naputak-2025-521/<day>`; `python registry/tools/on.py <day> naputak-2025-521`).
 
 ## Decisions made by hand
 

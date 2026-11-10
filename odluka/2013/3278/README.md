@@ -8,7 +8,7 @@ Odluka o obavljanju poslova podrške prekršajno-evidencijskom sustavu · 1 vers
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2013-3278` (tags `odluka-2013-3278/<day>`; `python tools/on.py <day> odluka-2013-3278`).
+Act id: `odluka-2013-3278` (tags `odluka-2013-3278/<day>`; `python registry/tools/on.py <day> odluka-2013-3278`).
 
 ## Decisions made by hand
 

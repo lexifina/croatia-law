@@ -8,7 +8,7 @@ Odluka o utvrđivanju granice između Općine Kolan i Grada Paga · 1 versions, 
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2014-2716` (tags `odluka-2014-2716/<day>`; `python tools/on.py <day> odluka-2014-2716`).
+Act id: `odluka-2014-2716` (tags `odluka-2014-2716/<day>`; `python registry/tools/on.py <day> odluka-2014-2716`).
 
 ## Decisions made by hand
 

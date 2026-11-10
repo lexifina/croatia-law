@@ -9,7 +9,7 @@ Odluka o izmjeni i dopuni Odluke o porezima Grada Crikvenice · 1 versions, from
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2021-2470` (tags `odluka-2021-2470/<day>`; `python tools/on.py <day> odluka-2021-2470`).
+Act id: `odluka-2021-2470` (tags `odluka-2021-2470/<day>`; `python registry/tools/on.py <day> odluka-2021-2470`).
 
 ## Decisions made by hand
 

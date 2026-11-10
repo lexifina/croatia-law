@@ -10,7 +10,7 @@ Pravilnik o dopuni Pravilnika o stručnim zvanjima u konzervatorsko-restaurators
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2013-1183` (tags `pravilnik-2013-1183/<day>`; `python tools/on.py <day> pravilnik-2013-1183`).
+Act id: `pravilnik-2013-1183` (tags `pravilnik-2013-1183/<day>`; `python registry/tools/on.py <day> pravilnik-2013-1183`).
 
 ## Decisions made by hand
 

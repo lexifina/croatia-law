@@ -8,7 +8,7 @@ Odluka o davanju odobrenja Karlovačkoj županiji, Varaždinskoj županiji i Pri
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2015-1656` (tags `odluka-2015-1656/<day>`; `python tools/on.py <day> odluka-2015-1656`).
+Act id: `odluka-2015-1656` (tags `odluka-2015-1656/<day>`; `python registry/tools/on.py <day> odluka-2015-1656`).
 
 ## Decisions made by hand
 

@@ -9,7 +9,7 @@ Uredba o dopuni Uredbe o određivanju zahvata u prostoru i građevina za koje Mi
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2011-1226` (tags `uredba-2011-1226/<day>`; `python tools/on.py <day> uredba-2011-1226`).
+Act id: `uredba-2011-1226` (tags `uredba-2011-1226/<day>`; `python registry/tools/on.py <day> uredba-2011-1226`).
 
 ## Decisions made by hand
 

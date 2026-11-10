@@ -165,7 +165,7 @@ Uredba o unutarnjem ustrojstvu Ministarstva rada, mirovinskoga sustava, obitelji
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2025-827` (tags `uredba-2025-827/<day>`; `python tools/on.py <day> uredba-2025-827`).
+Act id: `uredba-2025-827` (tags `uredba-2025-827/<day>`; `python registry/tools/on.py <day> uredba-2025-827`).
 
 ## Decisions made by hand
 

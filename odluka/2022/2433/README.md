@@ -13,7 +13,7 @@ Odluka o gradskim porezima Grada Dugog Sela · 1 versions, from 2023-01-01 (late
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2022-2433` (tags `odluka-2022-2433/<day>`; `python tools/on.py <day> odluka-2022-2433`).
+Act id: `odluka-2022-2433` (tags `odluka-2022-2433/<day>`; `python registry/tools/on.py <day> odluka-2022-2433`).
 
 ## Decisions made by hand
 

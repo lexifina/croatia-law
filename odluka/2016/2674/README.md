@@ -9,7 +9,7 @@ Odluka o izmjeni i dopuni Odluke o prirezu porezu na dohodak Grada Pregrade · 1
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2016-2674` (tags `odluka-2016-2674/<day>`; `python tools/on.py <day> odluka-2016-2674`).
+Act id: `odluka-2016-2674` (tags `odluka-2016-2674/<day>`; `python registry/tools/on.py <day> odluka-2016-2674`).
 
 ## Decisions made by hand
 

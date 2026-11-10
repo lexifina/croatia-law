@@ -5,7 +5,7 @@ Pravilnik o strukturi i sadržaju godišnjih financijskih izvještaja · 2 versi
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `pravilnik-2015-1849` (tags `pravilnik-2015-1849/<day>`; `python tools/on.py <day> pravilnik-2015-1849`).
+Act id: `pravilnik-2015-1849` (tags `pravilnik-2015-1849/<day>`; `python registry/tools/on.py <day> pravilnik-2015-1849`).
 
 ## Decisions made by hand
 

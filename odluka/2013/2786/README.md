@@ -9,7 +9,7 @@ Odluka o danima rodova, službi, struka i posebnih dijelova Oružanih snaga Repu
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2013-2786` (tags `odluka-2013-2786/<day>`; `python tools/on.py <day> odluka-2013-2786`).
+Act id: `odluka-2013-2786` (tags `odluka-2013-2786/<day>`; `python registry/tools/on.py <day> odluka-2013-2786`).
 
 ## Status
 

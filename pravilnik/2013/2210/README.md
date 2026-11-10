@@ -11,7 +11,7 @@ Pravilnik o izmjenama Pravilnika o minimalnim standardima, načinu obračuna i m
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2013-2210` (tags `pravilnik-2013-2210/<day>`; `python tools/on.py <day> pravilnik-2013-2210`).
+Act id: `pravilnik-2013-2210` (tags `pravilnik-2013-2210/<day>`; `python registry/tools/on.py <day> pravilnik-2013-2210`).
 
 ## Decisions made by hand
 

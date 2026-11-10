@@ -5,7 +5,7 @@ Pravilnik o besplatnoj pravnoj pomoći u postupku povratka · 2 versions, from 2
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `pravilnik-2018-1171` (tags `pravilnik-2018-1171/<day>`; `python tools/on.py <day> pravilnik-2018-1171`).
+Act id: `pravilnik-2018-1171` (tags `pravilnik-2018-1171/<day>`; `python registry/tools/on.py <day> pravilnik-2018-1171`).
 
 ## Decisions made by hand
 

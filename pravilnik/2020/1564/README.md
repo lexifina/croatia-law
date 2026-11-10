@@ -12,7 +12,7 @@ Pravilnik o sadržaju godišnjeg izvješća o radu Hrvatske komore socijalnih pe
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2020-1564` (tags `pravilnik-2020-1564/<day>`; `python tools/on.py <day> pravilnik-2020-1564`).
+Act id: `pravilnik-2020-1564` (tags `pravilnik-2020-1564/<day>`; `python registry/tools/on.py <day> pravilnik-2020-1564`).
 
 ## Decisions made by hand
 

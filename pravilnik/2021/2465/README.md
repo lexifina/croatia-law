@@ -14,7 +14,7 @@ Pravilnik o izmjeni i dopunama Pravilnika o fiskalizaciji u prometu gotovinom ·
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2021-2465` (tags `pravilnik-2021-2465/<day>`; `python tools/on.py <day> pravilnik-2021-2465`).
+Act id: `pravilnik-2021-2465` (tags `pravilnik-2021-2465/<day>`; `python registry/tools/on.py <day> pravilnik-2021-2465`).
 
 ## Decisions made by hand
 

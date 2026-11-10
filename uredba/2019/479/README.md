@@ -10,7 +10,7 @@ Uredba o izmjeni Uredbe o klasifikaciji radnih mjesta policijskih službenika ·
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2019-479` (tags `uredba-2019-479/<day>`; `python tools/on.py <day> uredba-2019-479`).
+Act id: `uredba-2019-479` (tags `uredba-2019-479/<day>`; `python registry/tools/on.py <day> uredba-2019-479`).
 
 ## Decisions made by hand
 

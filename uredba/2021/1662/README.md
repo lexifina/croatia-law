@@ -13,7 +13,7 @@ Uredba o Tarifi upravnih pristojbi · 1 versions, from 2021-09-01 (latest in for
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2021-1662` (tags `uredba-2021-1662/<day>`; `python tools/on.py <day> uredba-2021-1662`).
+Act id: `uredba-2021-1662` (tags `uredba-2021-1662/<day>`; `python registry/tools/on.py <day> uredba-2021-1662`).
 
 ## Status
 

@@ -10,7 +10,7 @@ Odluka o izmjenama Odluke o osnovama za sklapanje ugovora o provoÄ‘enju specifiÄ
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2021-2064` (tags `odluka-2021-2064/<day>`; `python tools/on.py <day> odluka-2021-2064`).
+Act id: `odluka-2021-2064` (tags `odluka-2021-2064/<day>`; `python registry/tools/on.py <day> odluka-2021-2064`).
 
 ## Decisions made by hand
 

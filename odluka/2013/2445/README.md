@@ -8,7 +8,7 @@ Odluka o osnovici za ostvarivanje prava po osnovi socijalne skrbi · 1 versions,
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2013-2445` (tags `odluka-2013-2445/<day>`; `python tools/on.py <day> odluka-2013-2445`).
+Act id: `odluka-2013-2445` (tags `odluka-2013-2445/<day>`; `python registry/tools/on.py <day> odluka-2013-2445`).
 
 ## Decisions made by hand
 

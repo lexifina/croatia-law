@@ -17,7 +17,7 @@ Uredba o izmjenama i dopuni Uredbe o naknadi za istraživanje i eksploataciju ug
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2023-760` (tags `uredba-2023-760/<day>`; `python tools/on.py <day> uredba-2023-760`).
+Act id: `uredba-2023-760` (tags `uredba-2023-760/<day>`; `python registry/tools/on.py <day> uredba-2023-760`).
 
 ## Decisions made by hand
 

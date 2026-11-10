@@ -9,7 +9,7 @@ Uredba o izmjeni Zakona o otocima · 1 versions, from 2020-07-04 (latest in forc
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2020-1413` (tags `uredba-2020-1413/<day>`; `python tools/on.py <day> uredba-2020-1413`).
+Act id: `uredba-2020-1413` (tags `uredba-2020-1413/<day>`; `python registry/tools/on.py <day> uredba-2020-1413`).
 
 ## Status
 

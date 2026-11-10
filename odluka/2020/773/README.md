@@ -5,7 +5,7 @@ Odluka o općinskim porezima Općine Dvor · 2 versions, from 2020-01-01 (latest
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `odluka-2020-773` (tags `odluka-2020-773/<day>`; `python tools/on.py <day> odluka-2020-773`).
+Act id: `odluka-2020-773` (tags `odluka-2020-773/<day>`; `python registry/tools/on.py <day> odluka-2020-773`).
 
 ## Decisions made by hand
 

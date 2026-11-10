@@ -29,7 +29,7 @@ Pravilnik o uvjetima, kriterijima i načinu dodjele potpore u okviru Mjere II.13
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2016-2616` (tags `pravilnik-2016-2616/<day>`; `python tools/on.py <day> pravilnik-2016-2616`).
+Act id: `pravilnik-2016-2616` (tags `pravilnik-2016-2616/<day>`; `python registry/tools/on.py <day> pravilnik-2016-2616`).
 
 ## Status
 

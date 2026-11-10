@@ -10,7 +10,7 @@ Uredba o izmjeni zakona o ugostiteljskoj djelatnosti · 1 versions, from 2014-07
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2014-1803` (tags `uredba-2014-1803/<day>`; `python tools/on.py <day> uredba-2014-1803`).
+Act id: `uredba-2014-1803` (tags `uredba-2014-1803/<day>`; `python registry/tools/on.py <day> uredba-2014-1803`).
 
 ## Decisions made by hand
 

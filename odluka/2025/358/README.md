@@ -11,7 +11,7 @@ Odluka o visini poreznih stopa godišnjeg poreza na dohodak na području Općine
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2025-358` (tags `odluka-2025-358/<day>`; `python tools/on.py <day> odluka-2025-358`).
+Act id: `odluka-2025-358` (tags `odluka-2025-358/<day>`; `python registry/tools/on.py <day> odluka-2025-358`).
 
 ## Decisions made by hand
 

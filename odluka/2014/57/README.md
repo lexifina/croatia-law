@@ -11,7 +11,7 @@ Odluka o izmjeni i dopuni Odluke o porezima Grada Slavonskog Broda · 1 versions
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2014-57` (tags `odluka-2014-57/<day>`; `python tools/on.py <day> odluka-2014-57`).
+Act id: `odluka-2014-57` (tags `odluka-2014-57/<day>`; `python registry/tools/on.py <day> odluka-2014-57`).
 
 ## Decisions made by hand
 

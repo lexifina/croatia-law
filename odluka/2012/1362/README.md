@@ -8,7 +8,7 @@ Odluka o izmjeni Odluke o uspostavi programa procjene broja i individualne mase 
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2012-1362` (tags `odluka-2012-1362/<day>`; `python tools/on.py <day> odluka-2012-1362`).
+Act id: `odluka-2012-1362` (tags `odluka-2012-1362/<day>`; `python registry/tools/on.py <day> odluka-2012-1362`).
 
 ## Decisions made by hand
 

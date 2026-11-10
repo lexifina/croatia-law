@@ -32,7 +32,7 @@ Pravilnik o načinu postupanja odgojno-obrazovnih radnika školskih ustanova u p
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2013-2874` (tags `pravilnik-2013-2874/<day>`; `python tools/on.py <day> pravilnik-2013-2874`).
+Act id: `pravilnik-2013-2874` (tags `pravilnik-2013-2874/<day>`; `python registry/tools/on.py <day> pravilnik-2013-2874`).
 
 ## Decisions made by hand
 

@@ -5,7 +5,7 @@ Pravilnik o planovima oporavka investicijskih društava · 2 versions, from 2018
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `pravilnik-2018-2136` (tags `pravilnik-2018-2136/<day>`; `python tools/on.py <day> pravilnik-2018-2136`).
+Act id: `pravilnik-2018-2136` (tags `pravilnik-2018-2136/<day>`; `python registry/tools/on.py <day> pravilnik-2018-2136`).
 
 ## Decisions made by hand
 

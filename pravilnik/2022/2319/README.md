@@ -17,7 +17,7 @@ Pravilnik o nadzornim izvještajima za pravne osobe ovlaštene za pružanje inve
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2022-2319` (tags `pravilnik-2022-2319/<day>`; `python tools/on.py <day> pravilnik-2022-2319`).
+Act id: `pravilnik-2022-2319` (tags `pravilnik-2022-2319/<day>`; `python registry/tools/on.py <day> pravilnik-2022-2319`).
 
 ## Status
 

@@ -10,7 +10,7 @@ Pravilnik o izmjeni i dopuni Pravilnika o provedbi izravne potpore poljoprivredi
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2015-2483` (tags `pravilnik-2015-2483/<day>`; `python tools/on.py <day> pravilnik-2015-2483`).
+Act id: `pravilnik-2015-2483` (tags `pravilnik-2015-2483/<day>`; `python registry/tools/on.py <day> pravilnik-2015-2483`).
 
 ## Decisions made by hand
 

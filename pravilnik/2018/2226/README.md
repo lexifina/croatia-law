@@ -5,7 +5,7 @@ Pravilnik o sadržaju, obliku i načinu dostavljanja propisanih informacija Hrva
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `pravilnik-2018-2226` (tags `pravilnik-2018-2226/<day>`; `python tools/on.py <day> pravilnik-2018-2226`).
+Act id: `pravilnik-2018-2226` (tags `pravilnik-2018-2226/<day>`; `python registry/tools/on.py <day> pravilnik-2018-2226`).
 
 ## Decisions made by hand
 

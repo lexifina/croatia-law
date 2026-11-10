@@ -10,7 +10,7 @@ Pravilnik o izmjeni i dopuni Pravilnika o redovitim izvješćima mirovinskog osi
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2016-1948` (tags `pravilnik-2016-1948/<day>`; `python tools/on.py <day> pravilnik-2016-1948`).
+Act id: `pravilnik-2016-1948` (tags `pravilnik-2016-1948/<day>`; `python registry/tools/on.py <day> pravilnik-2016-1948`).
 
 ## Decisions made by hand
 

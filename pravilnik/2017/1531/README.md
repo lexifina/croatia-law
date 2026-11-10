@@ -13,7 +13,7 @@ Pravilnik o Registru prekršaja u morskom ribarstvu · 1 versions, from 2017-07-
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2017-1531` (tags `pravilnik-2017-1531/<day>`; `python tools/on.py <day> pravilnik-2017-1531`).
+Act id: `pravilnik-2017-1531` (tags `pravilnik-2017-1531/<day>`; `python registry/tools/on.py <day> pravilnik-2017-1531`).
 
 ## Decisions made by hand
 

@@ -52,7 +52,7 @@ Zakon o izmjenama i dopunama Zakona o alternativnim investicijskim fondovima · 
 | čl. 46 | [clanak-046.md](clanak-046.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2024-2511` (tags `zakon-2024-2511/<day>`; `python tools/on.py <day> zakon-2024-2511`).
+Act id: `zakon-2024-2511` (tags `zakon-2024-2511/<day>`; `python registry/tools/on.py <day> zakon-2024-2511`).
 
 ## Decisions made by hand
 

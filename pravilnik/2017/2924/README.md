@@ -29,7 +29,7 @@ Pravilnik o utvrđivanju neto vrijednosti imovine i vrijednosti obračunske jedi
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2017-2924` (tags `pravilnik-2017-2924/<day>`; `python tools/on.py <day> pravilnik-2017-2924`).
+Act id: `pravilnik-2017-2924` (tags `pravilnik-2017-2924/<day>`; `python registry/tools/on.py <day> pravilnik-2017-2924`).
 
 ## Status
 

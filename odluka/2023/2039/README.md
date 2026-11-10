@@ -10,7 +10,7 @@ Odluka o visini poreznih stopa poreza na dohodak Općine Brdovec · 1 versions, 
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2023-2039` (tags `odluka-2023-2039/<day>`; `python tools/on.py <day> odluka-2023-2039`).
+Act id: `odluka-2023-2039` (tags `odluka-2023-2039/<day>`; `python registry/tools/on.py <day> odluka-2023-2039`).
 
 ## Decisions made by hand
 

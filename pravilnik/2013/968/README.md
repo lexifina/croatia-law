@@ -13,7 +13,7 @@ Pravilnik o postupku homologacije motornih vozila s obzirom na mjere za smanjenj
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2013-968` (tags `pravilnik-2013-968/<day>`; `python tools/on.py <day> pravilnik-2013-968`).
+Act id: `pravilnik-2013-968` (tags `pravilnik-2013-968/<day>`; `python registry/tools/on.py <day> pravilnik-2013-968`).
 
 ## Status
 

@@ -8,7 +8,7 @@ Odluka o raspuštanju Hrvatskoga sabora · 1 versions, from 2011-10-28 (latest i
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2011-2378` (tags `odluka-2011-2378/<day>`; `python tools/on.py <day> odluka-2011-2378`).
+Act id: `odluka-2011-2378` (tags `odluka-2011-2378/<day>`; `python registry/tools/on.py <day> odluka-2011-2378`).
 
 ## Status
 

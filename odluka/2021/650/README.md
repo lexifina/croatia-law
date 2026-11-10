@@ -8,7 +8,7 @@ Odluka o izmjenama i dopunama Odluke o osnivanju Inovacijskog vijeća za industr
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2021-650` (tags `odluka-2021-650/<day>`; `python tools/on.py <day> odluka-2021-650`).
+Act id: `odluka-2021-650` (tags `odluka-2021-650/<day>`; `python registry/tools/on.py <day> odluka-2021-650`).
 
 ## Decisions made by hand
 

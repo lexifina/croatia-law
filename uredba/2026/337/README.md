@@ -10,7 +10,7 @@ Uredba o izmjeni Uredbe o mjesečnom iznosu naknade za ugroženog kupca energena
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2026-337` (tags `uredba-2026-337/<day>`; `python tools/on.py <day> uredba-2026-337`).
+Act id: `uredba-2026-337` (tags `uredba-2026-337/<day>`; `python registry/tools/on.py <day> uredba-2026-337`).
 
 ## Decisions made by hand
 

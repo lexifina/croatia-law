@@ -16,7 +16,7 @@ Uredba o posebnoj naknadi za okoliš zbog nestavljanja biogoriva na tržište ·
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2018-2298` (tags `uredba-2018-2298/<day>`; `python tools/on.py <day> uredba-2018-2298`).
+Act id: `uredba-2018-2298` (tags `uredba-2018-2298/<day>`; `python registry/tools/on.py <day> uredba-2018-2298`).
 
 ## Status
 

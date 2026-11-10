@@ -21,7 +21,7 @@ Pravilnik o izmjenama i dopunama Pravilnika o posebnim uvjetima koje moraju ispu
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2017-1753` (tags `pravilnik-2017-1753/<day>`; `python tools/on.py <day> pravilnik-2017-1753`).
+Act id: `pravilnik-2017-1753` (tags `pravilnik-2017-1753/<day>`; `python registry/tools/on.py <day> pravilnik-2017-1753`).
 
 ## Decisions made by hand
 

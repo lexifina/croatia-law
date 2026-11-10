@@ -11,7 +11,7 @@ Pravilnik o izmjenama i dopuni Pravilnika o tajnosti podataka obrane · 1 versio
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2020-496` (tags `pravilnik-2020-496/<day>`; `python tools/on.py <day> pravilnik-2020-496`).
+Act id: `pravilnik-2020-496` (tags `pravilnik-2020-496/<day>`; `python registry/tools/on.py <day> pravilnik-2020-496`).
 
 ## Decisions made by hand
 

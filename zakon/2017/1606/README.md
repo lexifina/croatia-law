@@ -10,7 +10,7 @@ Zakon o izmjenama i dopunama Zakona o ravnopravnosti spolova · 1 versions, from
 | čl. 4 | [clanak-004.md](clanak-004.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2017-1606` (tags `zakon-2017-1606/<day>`; `python tools/on.py <day> zakon-2017-1606`).
+Act id: `zakon-2017-1606` (tags `zakon-2017-1606/<day>`; `python registry/tools/on.py <day> zakon-2017-1606`).
 
 ## Decisions made by hand
 

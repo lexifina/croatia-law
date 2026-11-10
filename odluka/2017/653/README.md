@@ -14,7 +14,7 @@ Odluka o izmjenama i dopunama Odluke o klasifikaciji plasmana i izvanbilančnih 
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2017-653` (tags `odluka-2017-653/<day>`; `python tools/on.py <day> odluka-2017-653`).
+Act id: `odluka-2017-653` (tags `odluka-2017-653/<day>`; `python registry/tools/on.py <day> odluka-2017-653`).
 
 ## Decisions made by hand
 

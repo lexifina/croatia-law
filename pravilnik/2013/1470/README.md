@@ -13,7 +13,7 @@ Pravilnik o postupanju društva za osiguranje s pritužbama osiguranika, ugovara
 | čl. 7 | [clanak-007.md](clanak-007.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `pravilnik-2013-1470` (tags `pravilnik-2013-1470/<day>`; `python tools/on.py <day> pravilnik-2013-1470`).
+Act id: `pravilnik-2013-1470` (tags `pravilnik-2013-1470/<day>`; `python registry/tools/on.py <day> pravilnik-2013-1470`).
 
 ## Decisions made by hand
 

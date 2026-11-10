@@ -9,7 +9,7 @@ Pravilnik o dopuni Pravilnika o sadržaju i obliku prodajnog lista i sadržaju r
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2020-1319` (tags `pravilnik-2020-1319/<day>`; `python tools/on.py <day> pravilnik-2020-1319`).
+Act id: `pravilnik-2020-1319` (tags `pravilnik-2020-1319/<day>`; `python registry/tools/on.py <day> pravilnik-2020-1319`).
 
 ## Decisions made by hand
 

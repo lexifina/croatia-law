@@ -29,7 +29,7 @@ Zakon o izmjenama i dopunama Zakona o prijevozu u cestovnom prometu · 1 version
 | čl. 23 | [clanak-023.md](clanak-023.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2026-901` (tags `zakon-2026-901/<day>`; `python tools/on.py <day> zakon-2026-901`).
+Act id: `zakon-2026-901` (tags `zakon-2026-901/<day>`; `python registry/tools/on.py <day> zakon-2026-901`).
 
 ## Decisions made by hand
 

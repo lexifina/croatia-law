@@ -27,7 +27,7 @@ Pravilnik o vođenju registara · 1 versions, from 2019-05-01 (latest in force: 
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2019-884` (tags `pravilnik-2019-884/<day>`; `python tools/on.py <day> pravilnik-2019-884`).
+Act id: `pravilnik-2019-884` (tags `pravilnik-2019-884/<day>`; `python registry/tools/on.py <day> pravilnik-2019-884`).
 
 ## Status
 

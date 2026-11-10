@@ -15,7 +15,7 @@ Uredba o utvrđivanju visine boravišne pristojbe za 2016. godinu · 1 versions,
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2015-1446` (tags `uredba-2015-1446/<day>`; `python tools/on.py <day> uredba-2015-1446`).
+Act id: `uredba-2015-1446` (tags `uredba-2015-1446/<day>`; `python registry/tools/on.py <day> uredba-2015-1446`).
 
 ## Decisions made by hand
 

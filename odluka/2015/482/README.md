@@ -9,7 +9,7 @@ Odluka o izmjenama Odluke o donošenju Popisa robe vojne namjene, obrambenih pro
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2015-482` (tags `odluka-2015-482/<day>`; `python tools/on.py <day> odluka-2015-482`).
+Act id: `odluka-2015-482` (tags `odluka-2015-482/<day>`; `python registry/tools/on.py <day> odluka-2015-482`).
 
 ## Decisions made by hand
 

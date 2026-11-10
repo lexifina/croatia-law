@@ -10,7 +10,7 @@ Pravilnik o izmjeni i dopuni Pravilnika o određivanju ulaznih točaka za nekome
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2025-1063` (tags `pravilnik-2025-1063/<day>`; `python tools/on.py <day> pravilnik-2025-1063`).
+Act id: `pravilnik-2025-1063` (tags `pravilnik-2025-1063/<day>`; `python registry/tools/on.py <day> pravilnik-2025-1063`).
 
 ## Decisions made by hand
 

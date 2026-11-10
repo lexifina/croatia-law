@@ -8,7 +8,7 @@ Odluka o izmjenama Odluke o nužnim mjerama za organizaciju okupljanja na kojima
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2020-2235` (tags `odluka-2020-2235/<day>`; `python tools/on.py <day> odluka-2020-2235`).
+Act id: `odluka-2020-2235` (tags `odluka-2020-2235/<day>`; `python registry/tools/on.py <day> odluka-2020-2235`).
 
 ## Decisions made by hand
 

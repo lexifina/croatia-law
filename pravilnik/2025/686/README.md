@@ -69,7 +69,7 @@ Pravilnik o pomorskom peljarenju · 1 versions, from 2025-03-29 (latest in force
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2025-686` (tags `pravilnik-2025-686/<day>`; `python tools/on.py <day> pravilnik-2025-686`).
+Act id: `pravilnik-2025-686` (tags `pravilnik-2025-686/<day>`; `python registry/tools/on.py <day> pravilnik-2025-686`).
 
 ## Decisions made by hand
 

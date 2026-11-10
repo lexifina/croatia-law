@@ -26,7 +26,7 @@ Pravilnik o dodjeli potpore udruženjima u ribarstvu u 2016. godini · 1 version
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2016-1381` (tags `pravilnik-2016-1381/<day>`; `python tools/on.py <day> pravilnik-2016-1381`).
+Act id: `pravilnik-2016-1381` (tags `pravilnik-2016-1381/<day>`; `python registry/tools/on.py <day> pravilnik-2016-1381`).
 
 ## Decisions made by hand
 

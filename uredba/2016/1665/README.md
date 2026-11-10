@@ -10,7 +10,7 @@ Uredba o izmjenama Zakona o zdravstvenoj zaštiti · 1 versions, from 2016-07-31
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2016-1665` (tags `uredba-2016-1665/<day>`; `python tools/on.py <day> uredba-2016-1665`).
+Act id: `uredba-2016-1665` (tags `uredba-2016-1665/<day>`; `python registry/tools/on.py <day> uredba-2016-1665`).
 
 ## Decisions made by hand
 

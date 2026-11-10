@@ -13,7 +13,7 @@ Zakon o izmjenama Zakona o ugostiteljskoj djelatnosti · 1 versions, from 2021-1
 | čl. 7 | [clanak-007.md](clanak-007.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2021-2132` (tags `zakon-2021-2132/<day>`; `python tools/on.py <day> zakon-2021-2132`).
+Act id: `zakon-2021-2132` (tags `zakon-2021-2132/<day>`; `python registry/tools/on.py <day> zakon-2021-2132`).
 
 ## Decisions made by hand
 

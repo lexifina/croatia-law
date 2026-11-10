@@ -59,7 +59,7 @@ Zakon o regionalnom razvoju Republike Hrvatske · 1 versions, from 2015-01-01 (l
 | čl. 53 | [clanak-053.md](clanak-053.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2014-2751` (tags `zakon-2014-2751/<day>`; `python tools/on.py <day> zakon-2014-2751`).
+Act id: `zakon-2014-2751` (tags `zakon-2014-2751/<day>`; `python registry/tools/on.py <day> zakon-2014-2751`).
 
 ## Status
 

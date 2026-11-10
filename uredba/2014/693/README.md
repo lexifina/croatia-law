@@ -12,7 +12,7 @@ Uredba o izmjenama Tarife upravnih pristojbi Zakona o upravnim pristojbama · 1 
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2014-693` (tags `uredba-2014-693/<day>`; `python tools/on.py <day> uredba-2014-693`).
+Act id: `uredba-2014-693` (tags `uredba-2014-693/<day>`; `python registry/tools/on.py <day> uredba-2014-693`).
 
 ## Decisions made by hand
 

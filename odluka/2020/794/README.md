@@ -8,7 +8,7 @@ Odluka o davanju suglasnosti na prijenos koncesije na pomorskom dobru u svrhu go
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2020-794` (tags `odluka-2020-794/<day>`; `python tools/on.py <day> odluka-2020-794`).
+Act id: `odluka-2020-794` (tags `odluka-2020-794/<day>`; `python registry/tools/on.py <day> odluka-2020-794`).
 
 ## Decisions made by hand
 

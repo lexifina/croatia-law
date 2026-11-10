@@ -36,7 +36,7 @@ Pravilnik o provedbi mjere I.23. »Ribarske luke i iskrcajna mjesta« · 1 versi
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2026-566` (tags `pravilnik-2026-566/<day>`; `python tools/on.py <day> pravilnik-2026-566`).
+Act id: `pravilnik-2026-566` (tags `pravilnik-2026-566/<day>`; `python registry/tools/on.py <day> pravilnik-2026-566`).
 
 ## Decisions made by hand
 

@@ -14,7 +14,7 @@ Pravilnik o obavljanju gospodarskog ribolova na moru dredžama · 1 versions, fr
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2015-942` (tags `pravilnik-2015-942/<day>`; `python tools/on.py <day> pravilnik-2015-942`).
+Act id: `pravilnik-2015-942` (tags `pravilnik-2015-942/<day>`; `python registry/tools/on.py <day> pravilnik-2015-942`).
 
 ## Status
 

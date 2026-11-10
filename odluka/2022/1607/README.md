@@ -8,7 +8,7 @@ Odluka o davanju suglasnosti na Odluku Županijske skupštine Zadarske županije
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2022-1607` (tags `odluka-2022-1607/<day>`; `python tools/on.py <day> odluka-2022-1607`).
+Act id: `odluka-2022-1607` (tags `odluka-2022-1607/<day>`; `python registry/tools/on.py <day> odluka-2022-1607`).
 
 ## Decisions made by hand
 

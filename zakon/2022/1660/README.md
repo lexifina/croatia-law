@@ -37,7 +37,7 @@ Zakon o izmjenama i dopunama Zakona o porezu na dodanu vrijednost · 1 versions,
 | čl. 31 | [clanak-031.md](clanak-031.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2022-1660` (tags `zakon-2022-1660/<day>`; `python tools/on.py <day> zakon-2022-1660`).
+Act id: `zakon-2022-1660` (tags `zakon-2022-1660/<day>`; `python registry/tools/on.py <day> zakon-2022-1660`).
 
 ## Decisions made by hand
 

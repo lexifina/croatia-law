@@ -14,7 +14,7 @@ Odluka o prirezu porezu na dohodak Grada Zadra · 1 versions, from 2012-03-31 (l
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2012-912` (tags `odluka-2012-912/<day>`; `python tools/on.py <day> odluka-2012-912`).
+Act id: `odluka-2012-912` (tags `odluka-2012-912/<day>`; `python registry/tools/on.py <day> odluka-2012-912`).
 
 ## Status
 

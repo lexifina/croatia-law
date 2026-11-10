@@ -8,7 +8,7 @@ Odluka o dopuni Odluke o vrednovanju programa međunarodne vojne izobrazbe · 1 
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2026-40` (tags `odluka-2026-40/<day>`; `python tools/on.py <day> odluka-2026-40`).
+Act id: `odluka-2026-40` (tags `odluka-2026-40/<day>`; `python registry/tools/on.py <day> odluka-2026-40`).
 
 ## Decisions made by hand
 

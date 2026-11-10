@@ -9,7 +9,7 @@ Pravilnik o izmjenama Pravilnika o promidžbenim aktivnostima i internetskoj str
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2022-2495` (tags `pravilnik-2022-2495/<day>`; `python tools/on.py <day> pravilnik-2022-2495`).
+Act id: `pravilnik-2022-2495` (tags `pravilnik-2022-2495/<day>`; `python registry/tools/on.py <day> pravilnik-2022-2495`).
 
 ## Decisions made by hand
 

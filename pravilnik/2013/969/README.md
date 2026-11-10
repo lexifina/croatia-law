@@ -13,7 +13,7 @@ Pravilnik o postupku homologacije motornih vozila s pogonom na vodik, vodikovih 
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2013-969` (tags `pravilnik-2013-969/<day>`; `python tools/on.py <day> pravilnik-2013-969`).
+Act id: `pravilnik-2013-969` (tags `pravilnik-2013-969/<day>`; `python registry/tools/on.py <day> pravilnik-2013-969`).
 
 ## Decisions made by hand
 

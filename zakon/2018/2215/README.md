@@ -9,7 +9,7 @@ Zakon o izmjenama Zakona o poticanju ulaganja · 1 versions, from 2019-01-01 (la
 | čl. 3 | [clanak-003.md](clanak-003.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2018-2215` (tags `zakon-2018-2215/<day>`; `python tools/on.py <day> zakon-2018-2215`).
+Act id: `zakon-2018-2215` (tags `zakon-2018-2215/<day>`; `python registry/tools/on.py <day> zakon-2018-2215`).
 
 ## Decisions made by hand
 

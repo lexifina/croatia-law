@@ -18,7 +18,7 @@ Uredba o provedbi postupka procjene učinaka propisa na malo gospodarstvo (test 
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2017-982` (tags `uredba-2017-982/<day>`; `python tools/on.py <day> uredba-2017-982`).
+Act id: `uredba-2017-982` (tags `uredba-2017-982/<day>`; `python registry/tools/on.py <day> uredba-2017-982`).
 
 ## Decisions made by hand
 

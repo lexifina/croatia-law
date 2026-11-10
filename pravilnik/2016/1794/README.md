@@ -9,7 +9,7 @@ Pravilnik o izmjeni Pravilnika o provedbi mjere M17 "Upravljanje rizicima", podm
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2016-1794` (tags `pravilnik-2016-1794/<day>`; `python tools/on.py <day> pravilnik-2016-1794`).
+Act id: `pravilnik-2016-1794` (tags `pravilnik-2016-1794/<day>`; `python registry/tools/on.py <day> pravilnik-2016-1794`).
 
 ## Decisions made by hand
 

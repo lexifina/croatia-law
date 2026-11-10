@@ -9,7 +9,7 @@ Pravilnik o izmjeni i dopuni Pravilnika o sadržaju i načinu vođenja registra 
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2016-1949` (tags `pravilnik-2016-1949/<day>`; `python tools/on.py <day> pravilnik-2016-1949`).
+Act id: `pravilnik-2016-1949` (tags `pravilnik-2016-1949/<day>`; `python registry/tools/on.py <day> pravilnik-2016-1949`).
 
 ## Decisions made by hand
 

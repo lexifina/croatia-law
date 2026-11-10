@@ -13,7 +13,7 @@ Naputak o oslobađanju sanitarnog inspekcijskog nadzora pri uvozu voća i povrć
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `naputak-2014-948` (tags `naputak-2014-948/<day>`; `python tools/on.py <day> naputak-2014-948`).
+Act id: `naputak-2014-948` (tags `naputak-2014-948/<day>`; `python registry/tools/on.py <day> naputak-2014-948`).
 
 ## Decisions made by hand
 

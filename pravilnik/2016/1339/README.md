@@ -26,7 +26,7 @@ Pravilnik o izmjenama i dopunama Pravilnika o športskom ribolovu u slatkovodnom
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2016-1339` (tags `pravilnik-2016-1339/<day>`; `python tools/on.py <day> pravilnik-2016-1339`).
+Act id: `pravilnik-2016-1339` (tags `pravilnik-2016-1339/<day>`; `python registry/tools/on.py <day> pravilnik-2016-1339`).
 
 ## Decisions made by hand
 

@@ -16,7 +16,7 @@ Pravilnik o nadzornim izvještajima za pravne osobe ovlaštene za pružanje uslu
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2025-2284` (tags `pravilnik-2025-2284/<day>`; `python tools/on.py <day> pravilnik-2025-2284`).
+Act id: `pravilnik-2025-2284` (tags `pravilnik-2025-2284/<day>`; `python registry/tools/on.py <day> pravilnik-2025-2284`).
 
 ## Decisions made by hand
 

@@ -35,7 +35,7 @@ Pravilnik o tehničkim zahtjevima za drvne ploče · 1 versions, from 2011-03-03
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2011-502` (tags `pravilnik-2011-502/<day>`; `python tools/on.py <day> pravilnik-2011-502`).
+Act id: `pravilnik-2011-502` (tags `pravilnik-2011-502/<day>`; `python registry/tools/on.py <day> pravilnik-2011-502`).
 
 ## Status
 

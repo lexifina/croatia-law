@@ -8,7 +8,7 @@ Odluka o sufinanciranju nabave udžbenika i pripadajućih dopunskih nastavnih sr
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2016-1801` (tags `odluka-2016-1801/<day>`; `python tools/on.py <day> odluka-2016-1801`).
+Act id: `odluka-2016-1801` (tags `odluka-2016-1801/<day>`; `python registry/tools/on.py <day> odluka-2016-1801`).
 
 ## Decisions made by hand
 

@@ -8,7 +8,7 @@ Odluka o utvrđivanju prava na prehranu razine 2 · 1 versions, from 2020-01-01 
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2019-2464` (tags `odluka-2019-2464/<day>`; `python tools/on.py <day> odluka-2019-2464`).
+Act id: `odluka-2019-2464` (tags `odluka-2019-2464/<day>`; `python registry/tools/on.py <day> odluka-2019-2464`).
 
 ## Decisions made by hand
 

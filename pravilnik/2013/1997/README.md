@@ -15,7 +15,7 @@ Pravilnik o sadržaju, načinu vođenja i obrascu evidencije o političkim stran
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2013-1997` (tags `pravilnik-2013-1997/<day>`; `python tools/on.py <day> pravilnik-2013-1997`).
+Act id: `pravilnik-2013-1997` (tags `pravilnik-2013-1997/<day>`; `python registry/tools/on.py <day> pravilnik-2013-1997`).
 
 ## Status
 

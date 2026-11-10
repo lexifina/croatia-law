@@ -8,7 +8,7 @@ Odluka o izmjenama naknada u sustavima gospodarenja otpadnim vozilima i otpadnim
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2015-829` (tags `odluka-2015-829/<day>`; `python tools/on.py <day> odluka-2015-829`).
+Act id: `odluka-2015-829` (tags `odluka-2015-829/<day>`; `python registry/tools/on.py <day> odluka-2015-829`).
 
 ## Status
 

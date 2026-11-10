@@ -11,7 +11,7 @@ Uredba o unutarnjem ustrojstvu Državnog hidrometeorološkog zavoda · 1 version
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2025-1093` (tags `uredba-2025-1093/<day>`; `python tools/on.py <day> uredba-2025-1093`).
+Act id: `uredba-2025-1093` (tags `uredba-2025-1093/<day>`; `python registry/tools/on.py <day> uredba-2025-1093`).
 
 ## Decisions made by hand
 

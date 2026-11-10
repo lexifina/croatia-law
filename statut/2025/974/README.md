@@ -13,7 +13,7 @@ Izmjene i dopune Statuta Turističke zajednice Vukovarsko-srijemske županije ·
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `statut-2025-974` (tags `statut-2025-974/<day>`; `python tools/on.py <day> statut-2025-974`).
+Act id: `statut-2025-974` (tags `statut-2025-974/<day>`; `python registry/tools/on.py <day> statut-2025-974`).
 
 ## Decisions made by hand
 

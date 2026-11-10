@@ -16,7 +16,7 @@ Uredba o izmjenama i dopunama Uredbe o osnivanju Agencije za poljoprivredno zeml
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2011-2151` (tags `uredba-2011-2151/<day>`; `python tools/on.py <day> uredba-2011-2151`).
+Act id: `uredba-2011-2151` (tags `uredba-2011-2151/<day>`; `python registry/tools/on.py <day> uredba-2011-2151`).
 
 ## Decisions made by hand
 

@@ -16,7 +16,7 @@ Odluka o minimalnim standardima za strojno i ručno sortiranje novčanica prema 
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2012-2299` (tags `odluka-2012-2299/<day>`; `python tools/on.py <day> odluka-2012-2299`).
+Act id: `odluka-2012-2299` (tags `odluka-2012-2299/<day>`; `python registry/tools/on.py <day> odluka-2012-2299`).
 
 ## Decisions made by hand
 

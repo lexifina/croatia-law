@@ -14,7 +14,7 @@ Naputak o izradi nacrta akata u postupku izdavanja akata na temelju Zakona o pro
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `naputak-2014-1057` (tags `naputak-2014-1057/<day>`; `python tools/on.py <day> naputak-2014-1057`).
+Act id: `naputak-2014-1057` (tags `naputak-2014-1057/<day>`; `python registry/tools/on.py <day> naputak-2014-1057`).
 
 ## Decisions made by hand
 

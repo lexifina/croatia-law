@@ -5,7 +5,7 @@ Odluka o cjeniku nestandardnih usluga operatora terminala za ukapljeni prirodni 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `odluka-2020-2787` (tags `odluka-2020-2787/<day>`; `python tools/on.py <day> odluka-2020-2787`).
+Act id: `odluka-2020-2787` (tags `odluka-2020-2787/<day>`; `python registry/tools/on.py <day> odluka-2020-2787`).
 
 ## Decisions made by hand
 

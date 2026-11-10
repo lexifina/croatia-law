@@ -31,7 +31,7 @@ Zakon o izmjenama i dopunama Zakona o otocima · 1 versions, from 2021-07-03 (la
 | čl. 25 | [clanak-025.md](clanak-025.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2021-1336` (tags `zakon-2021-1336/<day>`; `python tools/on.py <day> zakon-2021-1336`).
+Act id: `zakon-2021-1336` (tags `zakon-2021-1336/<day>`; `python registry/tools/on.py <day> zakon-2021-1336`).
 
 ## Decisions made by hand
 

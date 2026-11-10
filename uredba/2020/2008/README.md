@@ -28,7 +28,7 @@ Uredba o osnivanju Državne vatrogasne škole · 1 versions, from 2020-10-10 (la
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2020-2008` (tags `uredba-2020-2008/<day>`; `python tools/on.py <day> uredba-2020-2008`).
+Act id: `uredba-2020-2008` (tags `uredba-2020-2008/<day>`; `python registry/tools/on.py <day> uredba-2020-2008`).
 
 ## Decisions made by hand
 

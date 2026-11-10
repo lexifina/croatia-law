@@ -8,7 +8,7 @@ Odluka o raspuštanju Hrvatskoga sabora · 1 versions, from 2024-03-14 (latest i
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2024-474` (tags `odluka-2024-474/<day>`; `python tools/on.py <day> odluka-2024-474`).
+Act id: `odluka-2024-474` (tags `odluka-2024-474/<day>`; `python registry/tools/on.py <day> odluka-2024-474`).
 
 ## Decisions made by hand
 

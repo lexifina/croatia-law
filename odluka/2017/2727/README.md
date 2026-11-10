@@ -8,7 +8,7 @@ Odluka o katastarskoj izmjeri na području Općine Jasenice za katastarsku opći
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2017-2727` (tags `odluka-2017-2727/<day>`; `python tools/on.py <day> odluka-2017-2727`).
+Act id: `odluka-2017-2727` (tags `odluka-2017-2727/<day>`; `python registry/tools/on.py <day> odluka-2017-2727`).
 
 ## Decisions made by hand
 

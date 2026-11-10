@@ -14,7 +14,7 @@ Uredba o metodama procjene tržišne vrijednosti, naknade za osnivanje prava gra
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2013-2760` (tags `uredba-2013-2760/<day>`; `python tools/on.py <day> uredba-2013-2760`).
+Act id: `uredba-2013-2760` (tags `uredba-2013-2760/<day>`; `python registry/tools/on.py <day> uredba-2013-2760`).
 
 ## Status
 

@@ -37,7 +37,7 @@ Pravilnik o spasilačko-vatrogasnoj zaštiti na aerodromu · 1 versions, from 20
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2019-912` (tags `pravilnik-2019-912/<day>`; `python tools/on.py <day> pravilnik-2019-912`).
+Act id: `pravilnik-2019-912` (tags `pravilnik-2019-912/<day>`; `python registry/tools/on.py <day> pravilnik-2019-912`).
 
 ## Decisions made by hand
 

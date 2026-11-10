@@ -15,7 +15,7 @@ Odluka o postupku priznavanja mjera makrobonitetne politike koje su donijela odg
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2017-1371` (tags `odluka-2017-1371/<day>`; `python tools/on.py <day> odluka-2017-1371`).
+Act id: `odluka-2017-1371` (tags `odluka-2017-1371/<day>`; `python registry/tools/on.py <day> odluka-2017-1371`).
 
 ## Status
 

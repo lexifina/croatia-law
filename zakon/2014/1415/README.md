@@ -34,7 +34,7 @@ Zakon o izmjenama i dopunama Zakona o zadrugama · 1 versions, from 2014-07-02 (
 | čl. 28 | [clanak-028.md](clanak-028.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2014-1415` (tags `zakon-2014-1415/<day>`; `python tools/on.py <day> zakon-2014-1415`).
+Act id: `zakon-2014-1415` (tags `zakon-2014-1415/<day>`; `python registry/tools/on.py <day> zakon-2014-1415`).
 
 ## Decisions made by hand
 

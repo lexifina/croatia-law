@@ -5,7 +5,7 @@ Uredba o prodajnoj cijeni obiteljske kuće ili stana u državnom vlasništvu koj
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `uredba-2019-477` (tags `uredba-2019-477/<day>`; `python tools/on.py <day> uredba-2019-477`).
+Act id: `uredba-2019-477` (tags `uredba-2019-477/<day>`; `python registry/tools/on.py <day> uredba-2019-477`).
 
 ## Decisions made by hand
 

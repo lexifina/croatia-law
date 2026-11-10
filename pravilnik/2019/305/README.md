@@ -13,7 +13,7 @@ Pravilnik o odobrenju za obavljanje djelatnosti akvakulture na obiteljskom poljo
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2019-305` (tags `pravilnik-2019-305/<day>`; `python tools/on.py <day> pravilnik-2019-305`).
+Act id: `pravilnik-2019-305` (tags `pravilnik-2019-305/<day>`; `python registry/tools/on.py <day> pravilnik-2019-305`).
 
 ## Decisions made by hand
 

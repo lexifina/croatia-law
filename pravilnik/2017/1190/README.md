@@ -5,7 +5,7 @@ Pravilnik o evidencijama Hrvatskoga zavoda za zapošljavanje · 2 versions, from
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `pravilnik-2017-1190` (tags `pravilnik-2017-1190/<day>`; `python tools/on.py <day> pravilnik-2017-1190`).
+Act id: `pravilnik-2017-1190` (tags `pravilnik-2017-1190/<day>`; `python registry/tools/on.py <day> pravilnik-2017-1190`).
 
 ## Decisions made by hand
 

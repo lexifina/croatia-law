@@ -9,7 +9,7 @@ Pravilnik o izmjeni i dopuni Pravilnika o promidžbenim aktivnostima i mrežnoj 
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2016-1946` (tags `pravilnik-2016-1946/<day>`; `python tools/on.py <day> pravilnik-2016-1946`).
+Act id: `pravilnik-2016-1946` (tags `pravilnik-2016-1946/<day>`; `python registry/tools/on.py <day> pravilnik-2016-1946`).
 
 ## Decisions made by hand
 

@@ -16,7 +16,7 @@ Zakon o izmjenama i dopuni Zakona o sjemenu, sadnom materijalu i priznavanju sor
 | čl. 10 | [clanak-010.md](clanak-010.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2018-2248` (tags `zakon-2018-2248/<day>`; `python tools/on.py <day> zakon-2018-2248`).
+Act id: `zakon-2018-2248` (tags `zakon-2018-2248/<day>`; `python registry/tools/on.py <day> zakon-2018-2248`).
 
 ## Decisions made by hand
 

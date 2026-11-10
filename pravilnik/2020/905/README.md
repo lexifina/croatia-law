@@ -29,7 +29,7 @@ Pravilnik o sadržaju i opsegu procjene rizika za stavljanje na tržište genets
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2020-905` (tags `pravilnik-2020-905/<day>`; `python tools/on.py <day> pravilnik-2020-905`).
+Act id: `pravilnik-2020-905` (tags `pravilnik-2020-905/<day>`; `python registry/tools/on.py <day> pravilnik-2020-905`).
 
 ## Status
 

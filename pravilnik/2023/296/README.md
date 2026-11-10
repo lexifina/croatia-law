@@ -12,7 +12,7 @@ Pravilnik o izmjenama Pravilnika o privremenoj javnobilježničkoj tarifi · 1 v
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2023-296` (tags `pravilnik-2023-296/<day>`; `python tools/on.py <day> pravilnik-2023-296`).
+Act id: `pravilnik-2023-296` (tags `pravilnik-2023-296/<day>`; `python registry/tools/on.py <day> pravilnik-2023-296`).
 
 ## Decisions made by hand
 

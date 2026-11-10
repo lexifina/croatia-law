@@ -9,7 +9,7 @@ Odluka o donošenju nastavnog plana i programa za izborni predmet Sociologija sp
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2020-1262` (tags `odluka-2020-1262/<day>`; `python tools/on.py <day> odluka-2020-1262`).
+Act id: `odluka-2020-1262` (tags `odluka-2020-1262/<day>`; `python registry/tools/on.py <day> odluka-2020-1262`).
 
 ## Decisions made by hand
 

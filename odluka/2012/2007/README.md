@@ -8,7 +8,7 @@ Odluka o izmjenama i dopunama Odluke o osnivanju Nacionalnog vijeća za elektron
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2012-2007` (tags `odluka-2012-2007/<day>`; `python tools/on.py <day> odluka-2012-2007`).
+Act id: `odluka-2012-2007` (tags `odluka-2012-2007/<day>`; `python registry/tools/on.py <day> odluka-2012-2007`).
 
 ## Decisions made by hand
 

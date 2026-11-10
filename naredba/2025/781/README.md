@@ -14,7 +14,7 @@ Naredba o mjerama sprječavanja pojave i ranog otkrivanja slinavke i šapa i kug
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `naredba-2025-781` (tags `naredba-2025-781/<day>`; `python tools/on.py <day> naredba-2025-781`).
+Act id: `naredba-2025-781` (tags `naredba-2025-781/<day>`; `python registry/tools/on.py <day> naredba-2025-781`).
 
 ## Status
 

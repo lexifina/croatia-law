@@ -10,7 +10,7 @@ Uredba o izmjeni i dopuni Uredbe o osnivanju Agencije za regionalni razvoj Repub
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2014-2128` (tags `uredba-2014-2128/<day>`; `python tools/on.py <day> uredba-2014-2128`).
+Act id: `uredba-2014-2128` (tags `uredba-2014-2128/<day>`; `python registry/tools/on.py <day> uredba-2014-2128`).
 
 ## Decisions made by hand
 

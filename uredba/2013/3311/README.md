@@ -18,15 +18,7 @@ Uredba o izmjenama i dopunama Uredbe o računovodstvu neprofitnih organizacija �
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2013-3311` (tags `uredba-2013-3311/<day>`; `python tools/on.py <day> uredba-2013-3311`).
-
-## Status
-
-**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
-
-Amended or repealed by:
-
-- [Ispravak Uredbe o izmjenama i dopunama Uredbe o računovodstvu neprofitnih organizacija (NN 1/2014)](https://narodne-novine.nn.hr/eli/sluzbeni/2014/1/49)
+Act id: `uredba-2013-3311` (tags `uredba-2013-3311/<day>`; `python registry/tools/on.py <day> uredba-2013-3311`).
 
 ## Decisions made by hand
 

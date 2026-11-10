@@ -5,7 +5,7 @@ Pravilnik o vođenju evidencije o fizičkim osobama kojima je priznato pravo na 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `pravilnik-2015-1263` (tags `pravilnik-2015-1263/<day>`; `python tools/on.py <day> pravilnik-2015-1263`).
+Act id: `pravilnik-2015-1263` (tags `pravilnik-2015-1263/<day>`; `python registry/tools/on.py <day> pravilnik-2015-1263`).
 
 ## Decisions made by hand
 

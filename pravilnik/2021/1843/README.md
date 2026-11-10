@@ -25,7 +25,7 @@ Pravilnik o izmjenama i dopunama Pravilnika o obavljanju univerzalne usluge · 1
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2021-1843` (tags `pravilnik-2021-1843/<day>`; `python tools/on.py <day> pravilnik-2021-1843`).
+Act id: `pravilnik-2021-1843` (tags `pravilnik-2021-1843/<day>`; `python registry/tools/on.py <day> pravilnik-2021-1843`).
 
 ## Decisions made by hand
 

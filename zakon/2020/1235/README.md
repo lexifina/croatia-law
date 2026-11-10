@@ -17,7 +17,7 @@ Zakon o izmjeni i dopunama Zakona o provedbi Uredbe (EU) br. 528/2012 Europskoga
 | čl. 11 | [clanak-011.md](clanak-011.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2020-1235` (tags `zakon-2020-1235/<day>`; `python tools/on.py <day> zakon-2020-1235`).
+Act id: `zakon-2020-1235` (tags `zakon-2020-1235/<day>`; `python registry/tools/on.py <day> zakon-2020-1235`).
 
 ## Decisions made by hand
 

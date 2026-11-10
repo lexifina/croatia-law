@@ -38,7 +38,7 @@ Zakon o izmjenama i dopunama Zakona o učinkovitom korištenju energije u neposr
 | čl. 32 | [clanak-032.md](clanak-032.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2012-1358` (tags `zakon-2012-1358/<day>`; `python tools/on.py <day> zakon-2012-1358`).
+Act id: `zakon-2012-1358` (tags `zakon-2012-1358/<day>`; `python registry/tools/on.py <day> zakon-2012-1358`).
 
 ## Decisions made by hand
 

@@ -8,7 +8,7 @@ Zakon o izmjeni Zakona o uvođenju Europskog društva - Societas Europea (SE) i 
 | čl. 2 | [clanak-002.md](clanak-002.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2015-2130` (tags `zakon-2015-2130/<day>`; `python tools/on.py <day> zakon-2015-2130`).
+Act id: `zakon-2015-2130` (tags `zakon-2015-2130/<day>`; `python registry/tools/on.py <day> zakon-2015-2130`).
 
 ## Decisions made by hand
 

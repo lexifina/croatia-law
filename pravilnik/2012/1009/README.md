@@ -9,7 +9,7 @@ Pravilnik o izmjeni Pravilnika o riječnim informacijskim servisima u unutarnjoj
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2012-1009` (tags `pravilnik-2012-1009/<day>`; `python tools/on.py <day> pravilnik-2012-1009`).
+Act id: `pravilnik-2012-1009` (tags `pravilnik-2012-1009/<day>`; `python registry/tools/on.py <day> pravilnik-2012-1009`).
 
 ## Decisions made by hand
 

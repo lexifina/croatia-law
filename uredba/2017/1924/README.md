@@ -15,7 +15,7 @@ Uredba o nazivima radnih mjesta i koeficijentima složenosti poslova, dodatku za
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2017-1924` (tags `uredba-2017-1924/<day>`; `python tools/on.py <day> uredba-2017-1924`).
+Act id: `uredba-2017-1924` (tags `uredba-2017-1924/<day>`; `python registry/tools/on.py <day> uredba-2017-1924`).
 
 ## Status
 

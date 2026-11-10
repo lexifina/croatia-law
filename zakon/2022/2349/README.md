@@ -38,7 +38,7 @@ Zakon o izmjenama i dopunama Zakona o sustavu strateškog planiranja i upravljan
 | čl. 32 | [clanak-032.md](clanak-032.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2022-2349` (tags `zakon-2022-2349/<day>`; `python tools/on.py <day> zakon-2022-2349`).
+Act id: `zakon-2022-2349` (tags `zakon-2022-2349/<day>`; `python registry/tools/on.py <day> zakon-2022-2349`).
 
 ## Decisions made by hand
 

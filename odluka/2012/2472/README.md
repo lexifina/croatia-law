@@ -8,7 +8,7 @@ Odluka o prestanku važenja Odluke o osnivanju Vijeća za opće i umjetničko ob
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2012-2472` (tags `odluka-2012-2472/<day>`; `python tools/on.py <day> odluka-2012-2472`).
+Act id: `odluka-2012-2472` (tags `odluka-2012-2472/<day>`; `python registry/tools/on.py <day> odluka-2012-2472`).
 
 ## Decisions made by hand
 

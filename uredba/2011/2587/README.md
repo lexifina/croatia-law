@@ -9,7 +9,7 @@ Uredba o izmjeni Uredbe o darovanju nekretnina u vlasništvu Republike Hrvatske 
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2011-2587` (tags `uredba-2011-2587/<day>`; `python tools/on.py <day> uredba-2011-2587`).
+Act id: `uredba-2011-2587` (tags `uredba-2011-2587/<day>`; `python registry/tools/on.py <day> uredba-2011-2587`).
 
 ## Decisions made by hand
 

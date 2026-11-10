@@ -69,7 +69,7 @@ Zakon o izmjenama i dopunama Zakona o službenicima i namještenicima u lokalnoj
 | čl. 63 | [clanak-063.md](clanak-063.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2025-164` (tags `zakon-2025-164/<day>`; `python tools/on.py <day> zakon-2025-164`).
+Act id: `zakon-2025-164` (tags `zakon-2025-164/<day>`; `python registry/tools/on.py <day> zakon-2025-164`).
 
 ## Decisions made by hand
 

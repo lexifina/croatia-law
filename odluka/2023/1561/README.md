@@ -18,7 +18,7 @@ Odluka o naknadi za razvoj trgovačkog društva Usluga d.o.o. za vodoopskrbu i o
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2023-1561` (tags `odluka-2023-1561/<day>`; `python tools/on.py <day> odluka-2023-1561`).
+Act id: `odluka-2023-1561` (tags `odluka-2023-1561/<day>`; `python registry/tools/on.py <day> odluka-2023-1561`).
 
 ## Status
 

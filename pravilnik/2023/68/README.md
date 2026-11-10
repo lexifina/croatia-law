@@ -33,7 +33,7 @@ Pravilnik o odlagalištima otpada · 1 versions, from 2023-01-19 (latest in forc
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2023-68` (tags `pravilnik-2023-68/<day>`; `python tools/on.py <day> pravilnik-2023-68`).
+Act id: `pravilnik-2023-68` (tags `pravilnik-2023-68/<day>`; `python registry/tools/on.py <day> pravilnik-2023-68`).
 
 ## Status
 

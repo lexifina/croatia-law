@@ -32,7 +32,7 @@ Zakon o izmjenama i dopunama Zakona o uređenju tržišta poljoprivrednih proizv
 | čl. 26 | [clanak-026.md](clanak-026.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2011-453` (tags `zakon-2011-453/<day>`; `python tools/on.py <day> zakon-2011-453`).
+Act id: `zakon-2011-453` (tags `zakon-2011-453/<day>`; `python registry/tools/on.py <day> zakon-2011-453`).
 
 ## Decisions made by hand
 

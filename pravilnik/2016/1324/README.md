@@ -12,7 +12,7 @@ Pravilnik o izmjenama i dopunama Pravilnika o uvjetima za unutarnji ustroj opći
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2016-1324` (tags `pravilnik-2016-1324/<day>`; `python tools/on.py <day> pravilnik-2016-1324`).
+Act id: `pravilnik-2016-1324` (tags `pravilnik-2016-1324/<day>`; `python registry/tools/on.py <day> pravilnik-2016-1324`).
 
 ## Decisions made by hand
 

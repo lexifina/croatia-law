@@ -15,7 +15,7 @@ Uredba o provedbi Uredbe (EU) 2019/452 Europskog parlamenta i Vijeća od 19. ož
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2020-1960` (tags `uredba-2020-1960/<day>`; `python tools/on.py <day> uredba-2020-1960`).
+Act id: `uredba-2020-1960` (tags `uredba-2020-1960/<day>`; `python registry/tools/on.py <day> uredba-2020-1960`).
 
 ## Status
 

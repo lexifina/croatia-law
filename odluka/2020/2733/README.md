@@ -8,7 +8,7 @@ Odluka o dopunama Odluke o izdavanju dozvole za istraživanje i eksploataciju ug
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2020-2733` (tags `odluka-2020-2733/<day>`; `python tools/on.py <day> odluka-2020-2733`).
+Act id: `odluka-2020-2733` (tags `odluka-2020-2733/<day>`; `python registry/tools/on.py <day> odluka-2020-2733`).
 
 ## Decisions made by hand
 

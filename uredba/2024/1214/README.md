@@ -51,7 +51,7 @@ Uredba o unutarnjem ustrojstvu Ministarstva demografije i useljeništva · 1 ver
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2024-1214` (tags `uredba-2024-1214/<day>`; `python tools/on.py <day> uredba-2024-1214`).
+Act id: `uredba-2024-1214` (tags `uredba-2024-1214/<day>`; `python registry/tools/on.py <day> uredba-2024-1214`).
 
 ## Decisions made by hand
 

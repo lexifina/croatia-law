@@ -84,7 +84,7 @@ Statut Hrvatske komore inženjera građevinarstva · 1 versions, from 2015-12-12
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `statut-2015-2486` (tags `statut-2015-2486/<day>`; `python tools/on.py <day> statut-2015-2486`).
+Act id: `statut-2015-2486` (tags `statut-2015-2486/<day>`; `python registry/tools/on.py <day> statut-2015-2486`).
 
 ## Status
 

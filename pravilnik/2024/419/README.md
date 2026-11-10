@@ -9,7 +9,7 @@ Pravilnik o izmjeni i dopuni Pravilnika o sokolarstvu · 1 versions, from 2024-0
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2024-419` (tags `pravilnik-2024-419/<day>`; `python tools/on.py <day> pravilnik-2024-419`).
+Act id: `pravilnik-2024-419` (tags `pravilnik-2024-419/<day>`; `python registry/tools/on.py <day> pravilnik-2024-419`).
 
 ## Decisions made by hand
 

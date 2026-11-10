@@ -5,7 +5,7 @@ Odluka o izdavanju kompleta optjecajnoga kovanog novca Republike Hrvatske, kuna 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `odluka-2022-1413` (tags `odluka-2022-1413/<day>`; `python tools/on.py <day> odluka-2022-1413`).
+Act id: `odluka-2022-1413` (tags `odluka-2022-1413/<day>`; `python registry/tools/on.py <day> odluka-2022-1413`).
 
 ## Decisions made by hand
 

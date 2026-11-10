@@ -11,7 +11,7 @@ Odluka o izmjeni i dopuni Odluke o porezima Grada Pazina · 1 versions, from 202
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2022-2552` (tags `odluka-2022-2552/<day>`; `python tools/on.py <day> odluka-2022-2552`).
+Act id: `odluka-2022-2552` (tags `odluka-2022-2552/<day>`; `python registry/tools/on.py <day> odluka-2022-2552`).
 
 ## Decisions made by hand
 

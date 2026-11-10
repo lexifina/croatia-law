@@ -9,7 +9,7 @@ Pravilnik o izmjeni Pravilnika o informiranju potrošača o nepretpakiranoj hran
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2020-2776` (tags `pravilnik-2020-2776/<day>`; `python tools/on.py <day> pravilnik-2020-2776`).
+Act id: `pravilnik-2020-2776` (tags `pravilnik-2020-2776/<day>`; `python registry/tools/on.py <day> pravilnik-2020-2776`).
 
 ## Decisions made by hand
 

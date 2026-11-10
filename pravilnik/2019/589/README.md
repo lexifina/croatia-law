@@ -17,7 +17,7 @@ Pravilnik o uvjetima i načinu isplate novčane naknade u jednokratnom iznosu ·
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2019-589` (tags `pravilnik-2019-589/<day>`; `python tools/on.py <day> pravilnik-2019-589`).
+Act id: `pravilnik-2019-589` (tags `pravilnik-2019-589/<day>`; `python registry/tools/on.py <day> pravilnik-2019-589`).
 
 ## Decisions made by hand
 

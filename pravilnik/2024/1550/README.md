@@ -27,7 +27,7 @@ Pravilnik o utvrđivanju neto vrijednosti imovine UCITS fonda i cijene udjela u 
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2024-1550` (tags `pravilnik-2024-1550/<day>`; `python tools/on.py <day> pravilnik-2024-1550`).
+Act id: `pravilnik-2024-1550` (tags `pravilnik-2024-1550/<day>`; `python registry/tools/on.py <day> pravilnik-2024-1550`).
 
 ## Status
 

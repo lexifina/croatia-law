@@ -9,7 +9,7 @@ Uredba o izmjeni Uredbe o osnivanju Fonda za profesionalnu rehabilitaciju i zapo
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2012-1498` (tags `uredba-2012-1498/<day>`; `python tools/on.py <day> uredba-2012-1498`).
+Act id: `uredba-2012-1498` (tags `uredba-2012-1498/<day>`; `python registry/tools/on.py <day> uredba-2012-1498`).
 
 ## Decisions made by hand
 

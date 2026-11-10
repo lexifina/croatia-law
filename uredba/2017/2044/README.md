@@ -110,7 +110,7 @@ Uredba o unutarnjem ustrojstvu Ministarstva znanosti i obrazovanja · 1 versions
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2017-2044` (tags `uredba-2017-2044/<day>`; `python tools/on.py <day> uredba-2017-2044`).
+Act id: `uredba-2017-2044` (tags `uredba-2017-2044/<day>`; `python registry/tools/on.py <day> uredba-2017-2044`).
 
 ## Status
 

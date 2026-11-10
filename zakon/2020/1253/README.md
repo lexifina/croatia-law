@@ -49,7 +49,7 @@ Zakon o izmjenama i dopunama Zakona o osiguranju · 1 versions, from 2020-06-05 
 | čl. 43 | [clanak-043.md](clanak-043.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2020-1253` (tags `zakon-2020-1253/<day>`; `python tools/on.py <day> zakon-2020-1253`).
+Act id: `zakon-2020-1253` (tags `zakon-2020-1253/<day>`; `python registry/tools/on.py <day> zakon-2020-1253`).
 
 ## Decisions made by hand
 

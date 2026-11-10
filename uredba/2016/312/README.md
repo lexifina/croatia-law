@@ -20,7 +20,7 @@ Uredba o kriterijima i načinu obračuna i plaćanja nagrade povjerenicima u pos
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2016-312` (tags `uredba-2016-312/<day>`; `python tools/on.py <day> uredba-2016-312`).
+Act id: `uredba-2016-312` (tags `uredba-2016-312/<day>`; `python registry/tools/on.py <day> uredba-2016-312`).
 
 ## Status
 

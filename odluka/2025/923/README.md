@@ -8,7 +8,7 @@ Odluka o osnivanju Međuresornog povjerenstva za praćenje i analizu stanja izvo
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2025-923` (tags `odluka-2025-923/<day>`; `python tools/on.py <day> odluka-2025-923`).
+Act id: `odluka-2025-923` (tags `odluka-2025-923/<day>`; `python registry/tools/on.py <day> odluka-2025-923`).
 
 ## Decisions made by hand
 

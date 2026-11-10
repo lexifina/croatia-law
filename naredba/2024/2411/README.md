@@ -14,7 +14,7 @@ Naredba o uklanjanju invazivnih stranih vrsta rakunopsa (Nyctereutes procyonoide
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `naredba-2024-2411` (tags `naredba-2024-2411/<day>`; `python tools/on.py <day> naredba-2024-2411`).
+Act id: `naredba-2024-2411` (tags `naredba-2024-2411/<day>`; `python registry/tools/on.py <day> naredba-2024-2411`).
 
 ## Decisions made by hand
 

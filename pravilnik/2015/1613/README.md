@@ -19,7 +19,7 @@ Pravilnik o izmjenama i dopunama Pravilnika o trošarinama · 1 versions, from 2
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2015-1613` (tags `pravilnik-2015-1613/<day>`; `python tools/on.py <day> pravilnik-2015-1613`).
+Act id: `pravilnik-2015-1613` (tags `pravilnik-2015-1613/<day>`; `python registry/tools/on.py <day> pravilnik-2015-1613`).
 
 ## Decisions made by hand
 

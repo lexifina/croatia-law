@@ -20,7 +20,7 @@ Odluka o općinskim porezima Općine Kijevo · 1 versions, from 2024-01-01 (late
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2023-1943` (tags `odluka-2023-1943/<day>`; `python tools/on.py <day> odluka-2023-1943`).
+Act id: `odluka-2023-1943` (tags `odluka-2023-1943/<day>`; `python registry/tools/on.py <day> odluka-2023-1943`).
 
 ## Decisions made by hand
 

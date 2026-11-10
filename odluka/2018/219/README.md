@@ -8,7 +8,7 @@ Odluka o izmjenama i dopunama Odluke o rodovima, službama, strukama i njihovim 
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2018-219` (tags `odluka-2018-219/<day>`; `python tools/on.py <day> odluka-2018-219`).
+Act id: `odluka-2018-219` (tags `odluka-2018-219/<day>`; `python registry/tools/on.py <day> odluka-2018-219`).
 
 ## Decisions made by hand
 

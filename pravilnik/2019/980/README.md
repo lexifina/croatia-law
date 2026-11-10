@@ -31,7 +31,7 @@ Pravilnik o izmjenama Pravilnika o tehničkom održavanju vodnih putova · 1 ver
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2019-980` (tags `pravilnik-2019-980/<day>`; `python tools/on.py <day> pravilnik-2019-980`).
+Act id: `pravilnik-2019-980` (tags `pravilnik-2019-980/<day>`; `python registry/tools/on.py <day> pravilnik-2019-980`).
 
 ## Decisions made by hand
 

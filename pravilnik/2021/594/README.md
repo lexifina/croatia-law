@@ -18,7 +18,7 @@ Pravilnik o izmjenama i dopunama Pravilnika o sadržaju i strukturi izvještaja 
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2021-594` (tags `pravilnik-2021-594/<day>`; `python tools/on.py <day> pravilnik-2021-594`).
+Act id: `pravilnik-2021-594` (tags `pravilnik-2021-594/<day>`; `python registry/tools/on.py <day> pravilnik-2021-594`).
 
 ## Decisions made by hand
 

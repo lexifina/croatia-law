@@ -11,7 +11,7 @@ Pravilnik o izmjenama i dopunama Pravilnika o tehničkim uvjetima vozila u prome
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2015-1615` (tags `pravilnik-2015-1615/<day>`; `python tools/on.py <day> pravilnik-2015-1615`).
+Act id: `pravilnik-2015-1615` (tags `pravilnik-2015-1615/<day>`; `python registry/tools/on.py <day> pravilnik-2015-1615`).
 
 ## Decisions made by hand
 

@@ -12,7 +12,7 @@ Naredba o mjerama za sprječavanje pojave i širenja influence ptica na područj
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `naredba-2023-877` (tags `naredba-2023-877/<day>`; `python tools/on.py <day> naredba-2023-877`).
+Act id: `naredba-2023-877` (tags `naredba-2023-877/<day>`; `python registry/tools/on.py <day> naredba-2023-877`).
 
 ## Status
 

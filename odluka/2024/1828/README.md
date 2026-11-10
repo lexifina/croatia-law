@@ -8,7 +8,7 @@ Odluka o osnivanju Nacionalnog koordinacijskog odbora za fondove Europske unije 
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2024-1828` (tags `odluka-2024-1828/<day>`; `python tools/on.py <day> odluka-2024-1828`).
+Act id: `odluka-2024-1828` (tags `odluka-2024-1828/<day>`; `python registry/tools/on.py <day> odluka-2024-1828`).
 
 ## Decisions made by hand
 

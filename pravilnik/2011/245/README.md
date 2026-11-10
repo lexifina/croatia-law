@@ -18,7 +18,7 @@ Pravilnik o ostvarivanju prava na potporu osiguranja od mogućih šteta proizvod
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2011-245` (tags `pravilnik-2011-245/<day>`; `python tools/on.py <day> pravilnik-2011-245`).
+Act id: `pravilnik-2011-245` (tags `pravilnik-2011-245/<day>`; `python registry/tools/on.py <day> pravilnik-2011-245`).
 
 ## Status
 

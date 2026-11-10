@@ -25,7 +25,7 @@ Uredba o uvjetima za kupnju obiteljske kuće ili stana u državnom vlasništvu n
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2011-365` (tags `uredba-2011-365/<day>`; `python tools/on.py <day> uredba-2011-365`).
+Act id: `uredba-2011-365` (tags `uredba-2011-365/<day>`; `python registry/tools/on.py <day> uredba-2011-365`).
 
 ## Status
 

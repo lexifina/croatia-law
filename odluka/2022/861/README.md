@@ -8,7 +8,7 @@ Odluka o isplati materijalnih i nematerijalnih prava te drugih naknada za zaposl
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2022-861` (tags `odluka-2022-861/<day>`; `python tools/on.py <day> odluka-2022-861`).
+Act id: `odluka-2022-861` (tags `odluka-2022-861/<day>`; `python registry/tools/on.py <day> odluka-2022-861`).
 
 ## Decisions made by hand
 

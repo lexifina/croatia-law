@@ -16,7 +16,7 @@ Pravilnik o izmjenama i dopunama Pravilnika o polugodišnjem i godišnjem izvje�
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2017-2349` (tags `pravilnik-2017-2349/<day>`; `python tools/on.py <day> pravilnik-2017-2349`).
+Act id: `pravilnik-2017-2349` (tags `pravilnik-2017-2349/<day>`; `python registry/tools/on.py <day> pravilnik-2017-2349`).
 
 ## Decisions made by hand
 

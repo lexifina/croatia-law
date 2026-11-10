@@ -20,7 +20,7 @@ Pravilnik o dodatnim organizacijskim zahtjevima društava za upravljanje alterna
 | čl. 14 | [clanak-014.md](clanak-014.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `pravilnik-2019-501` (tags `pravilnik-2019-501/<day>`; `python tools/on.py <day> pravilnik-2019-501`).
+Act id: `pravilnik-2019-501` (tags `pravilnik-2019-501/<day>`; `python registry/tools/on.py <day> pravilnik-2019-501`).
 
 ## Status
 

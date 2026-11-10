@@ -10,7 +10,7 @@ Odluka o najnižem dnevnom iznosu plaće sezonskog radnika u poljoprivredi za 20
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2021-2188` (tags `odluka-2021-2188/<day>`; `python tools/on.py <day> odluka-2021-2188`).
+Act id: `odluka-2021-2188` (tags `odluka-2021-2188/<day>`; `python registry/tools/on.py <day> odluka-2021-2188`).
 
 ## Decisions made by hand
 

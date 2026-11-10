@@ -9,7 +9,7 @@ Odluka o iznosu tarifnih stavki za zajamčenu opskrbu električnom energijom · 
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2015-1109` (tags `odluka-2015-1109/<day>`; `python tools/on.py <day> odluka-2015-1109`).
+Act id: `odluka-2015-1109` (tags `odluka-2015-1109/<day>`; `python registry/tools/on.py <day> odluka-2015-1109`).
 
 ## Status
 

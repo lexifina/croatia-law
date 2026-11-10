@@ -15,7 +15,7 @@ Zakon o izmjenama i dopunama Zakona o mirovinskim osiguravajućim društvima · 
 | čl. 9 | [clanak-009.md](clanak-009.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2018-588` (tags `zakon-2018-588/<day>`; `python tools/on.py <day> zakon-2018-588`).
+Act id: `zakon-2018-588` (tags `zakon-2018-588/<day>`; `python registry/tools/on.py <day> zakon-2018-588`).
 
 ## Decisions made by hand
 

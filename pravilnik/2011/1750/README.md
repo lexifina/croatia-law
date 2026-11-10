@@ -9,7 +9,7 @@ Pravilnik o dopuni Pravilnika o ambalaži i ambalažnom otpadu · 1 versions, fr
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2011-1750` (tags `pravilnik-2011-1750/<day>`; `python tools/on.py <day> pravilnik-2011-1750`).
+Act id: `pravilnik-2011-1750` (tags `pravilnik-2011-1750/<day>`; `python registry/tools/on.py <day> pravilnik-2011-1750`).
 
 ## Decisions made by hand
 

@@ -17,7 +17,7 @@ Pravilnik o sustavu upravljanja rizicima · 1 versions, from 2015-01-01 (latest 
 | čl. 11 | [clanak-011.md](clanak-011.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `pravilnik-2014-2923` (tags `pravilnik-2014-2923/<day>`; `python tools/on.py <day> pravilnik-2014-2923`).
+Act id: `pravilnik-2014-2923` (tags `pravilnik-2014-2923/<day>`; `python registry/tools/on.py <day> pravilnik-2014-2923`).
 
 ## Decisions made by hand
 

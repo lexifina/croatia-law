@@ -10,7 +10,7 @@ Pravilnik o izmjenama Pravilnika o iskaznici i znaku fitosanitarnog inspektora Â
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2012-2373` (tags `pravilnik-2012-2373/<day>`; `python tools/on.py <day> pravilnik-2012-2373`).
+Act id: `pravilnik-2012-2373` (tags `pravilnik-2012-2373/<day>`; `python registry/tools/on.py <day> pravilnik-2012-2373`).
 
 ## Decisions made by hand
 

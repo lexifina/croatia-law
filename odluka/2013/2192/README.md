@@ -9,7 +9,7 @@ Odluka o utvrđivanju nadležnog tijela za izdavanje i ovjeru potvrde kojom se t
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2013-2192` (tags `odluka-2013-2192/<day>`; `python tools/on.py <day> odluka-2013-2192`).
+Act id: `odluka-2013-2192` (tags `odluka-2013-2192/<day>`; `python registry/tools/on.py <day> odluka-2013-2192`).
 
 ## Decisions made by hand
 

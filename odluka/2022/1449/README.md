@@ -8,7 +8,7 @@ Odluka o produžetku financiranja u 2022. godini provedbe Programa energetske ob
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2022-1449` (tags `odluka-2022-1449/<day>`; `python tools/on.py <day> odluka-2022-1449`).
+Act id: `odluka-2022-1449` (tags `odluka-2022-1449/<day>`; `python registry/tools/on.py <day> odluka-2022-1449`).
 
 ## Decisions made by hand
 

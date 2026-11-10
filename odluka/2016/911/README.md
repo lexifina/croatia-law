@@ -8,7 +8,7 @@ Odluka o obustavi postupka sanacije Opće bolnice Karlovac · 1 versions, from 2
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2016-911` (tags `odluka-2016-911/<day>`; `python tools/on.py <day> odluka-2016-911`).
+Act id: `odluka-2016-911` (tags `odluka-2016-911/<day>`; `python registry/tools/on.py <day> odluka-2016-911`).
 
 ## Decisions made by hand
 

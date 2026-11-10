@@ -9,7 +9,7 @@ Zakon o izmjeni Zakona o porezu na promet nekretnina · 1 versions, from 2019-01
 | čl. 3 | [clanak-003.md](clanak-003.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2018-2060` (tags `zakon-2018-2060/<day>`; `python tools/on.py <day> zakon-2018-2060`).
+Act id: `zakon-2018-2060` (tags `zakon-2018-2060/<day>`; `python registry/tools/on.py <day> zakon-2018-2060`).
 
 ## Decisions made by hand
 

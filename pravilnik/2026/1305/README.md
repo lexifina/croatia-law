@@ -12,7 +12,7 @@ Pravilnik o podacima kod automatiziranog pretraživanja evidencija o vozilima i 
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2026-1305` (tags `pravilnik-2026-1305/<day>`; `python tools/on.py <day> pravilnik-2026-1305`).
+Act id: `pravilnik-2026-1305` (tags `pravilnik-2026-1305/<day>`; `python registry/tools/on.py <day> pravilnik-2026-1305`).
 
 ## Decisions made by hand
 

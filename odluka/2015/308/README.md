@@ -9,7 +9,7 @@ Odluka o najvišem postotku naknade depozitaru za 2015. godinu · 1 versions, fr
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2015-308` (tags `odluka-2015-308/<day>`; `python tools/on.py <day> odluka-2015-308`).
+Act id: `odluka-2015-308` (tags `odluka-2015-308/<day>`; `python registry/tools/on.py <day> odluka-2015-308`).
 
 ## Decisions made by hand
 

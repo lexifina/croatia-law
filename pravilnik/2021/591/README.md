@@ -9,7 +9,7 @@ Pravilnik o dopuni Pravilnika o obavljanju gospodarskog ribolova na moru okružu
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2021-591` (tags `pravilnik-2021-591/<day>`; `python tools/on.py <day> pravilnik-2021-591`).
+Act id: `pravilnik-2021-591` (tags `pravilnik-2021-591/<day>`; `python registry/tools/on.py <day> pravilnik-2021-591`).
 
 ## Decisions made by hand
 

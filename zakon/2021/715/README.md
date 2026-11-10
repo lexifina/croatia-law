@@ -12,7 +12,7 @@ Zakon o izmjenama i dopunama Zakona o popisu stanovništva, kućanstava i stanov
 | čl. 6 | [clanak-006.md](clanak-006.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2021-715` (tags `zakon-2021-715/<day>`; `python tools/on.py <day> zakon-2021-715`).
+Act id: `zakon-2021-715` (tags `zakon-2021-715/<day>`; `python registry/tools/on.py <day> zakon-2021-715`).
 
 ## Decisions made by hand
 

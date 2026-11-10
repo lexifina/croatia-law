@@ -19,7 +19,7 @@ Pravilnik o postupcima u slučaju rođenja, smrti ili pronalaska napuštenog nov
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2013-762` (tags `pravilnik-2013-762/<day>`; `python tools/on.py <day> pravilnik-2013-762`).
+Act id: `pravilnik-2013-762` (tags `pravilnik-2013-762/<day>`; `python registry/tools/on.py <day> pravilnik-2013-762`).
 
 ## Status
 

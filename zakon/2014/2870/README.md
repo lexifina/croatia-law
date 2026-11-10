@@ -14,7 +14,7 @@ Zakon o izmjenama i dopunama Zakona o obveznim osiguranjima u prometu · 1 versi
 | čl. 8 | [clanak-008.md](clanak-008.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2014-2870` (tags `zakon-2014-2870/<day>`; `python tools/on.py <day> zakon-2014-2870`).
+Act id: `zakon-2014-2870` (tags `zakon-2014-2870/<day>`; `python registry/tools/on.py <day> zakon-2014-2870`).
 
 ## Decisions made by hand
 

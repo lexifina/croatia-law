@@ -9,7 +9,7 @@ Odluka o davanju suglasnosti na Financijski plan Hrvatskih autocesta za 2023. go
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2022-2203` (tags `odluka-2022-2203/<day>`; `python tools/on.py <day> odluka-2022-2203`).
+Act id: `odluka-2022-2203` (tags `odluka-2022-2203/<day>`; `python registry/tools/on.py <day> odluka-2022-2203`).
 
 ## Decisions made by hand
 

@@ -8,7 +8,7 @@ Odluka o katastarskoj izmjeri na području Općine Lastovo za dio katastarske op
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2025-1593` (tags `odluka-2025-1593/<day>`; `python tools/on.py <day> odluka-2025-1593`).
+Act id: `odluka-2025-1593` (tags `odluka-2025-1593/<day>`; `python registry/tools/on.py <day> odluka-2025-1593`).
 
 ## Decisions made by hand
 

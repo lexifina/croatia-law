@@ -9,7 +9,7 @@ Pravilnik o izmjeni Pravilnika o iskaznici i znački sanitarnog inspektora · 1 
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2012-2610` (tags `pravilnik-2012-2610/<day>`; `python tools/on.py <day> pravilnik-2012-2610`).
+Act id: `pravilnik-2012-2610` (tags `pravilnik-2012-2610/<day>`; `python registry/tools/on.py <day> pravilnik-2012-2610`).
 
 ## Decisions made by hand
 

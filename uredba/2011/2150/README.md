@@ -63,7 +63,7 @@ Uredba o naknadama za posebne troškove i troškove za pružanje informacijskih 
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2011-2150` (tags `uredba-2011-2150/<day>`; `python tools/on.py <day> uredba-2011-2150`).
+Act id: `uredba-2011-2150` (tags `uredba-2011-2150/<day>`; `python registry/tools/on.py <day> uredba-2011-2150`).
 
 ## Status
 

@@ -14,7 +14,7 @@ Uredba o izmjenama i dopuni Uredbe o osnivanju Veleučilišta "Lavoslav Ružičk
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2013-2528` (tags `uredba-2013-2528/<day>`; `python tools/on.py <day> uredba-2013-2528`).
+Act id: `uredba-2013-2528` (tags `uredba-2013-2528/<day>`; `python registry/tools/on.py <day> uredba-2013-2528`).
 
 ## Decisions made by hand
 

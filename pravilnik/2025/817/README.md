@@ -9,7 +9,7 @@ Pravilnik o izmjenama Pravilnika o prikupljanju podataka i izvješćivanju o cij
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2025-817` (tags `pravilnik-2025-817/<day>`; `python tools/on.py <day> pravilnik-2025-817`).
+Act id: `pravilnik-2025-817` (tags `pravilnik-2025-817/<day>`; `python registry/tools/on.py <day> pravilnik-2025-817`).
 
 ## Decisions made by hand
 

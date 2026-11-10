@@ -11,7 +11,7 @@ Odluka o visini poreznih stopa poreza na dohodak Grada Karlovca · 1 versions, f
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2023-2067` (tags `odluka-2023-2067/<day>`; `python tools/on.py <day> odluka-2023-2067`).
+Act id: `odluka-2023-2067` (tags `odluka-2023-2067/<day>`; `python registry/tools/on.py <day> odluka-2023-2067`).
 
 ## Status
 

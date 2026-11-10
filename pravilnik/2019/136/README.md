@@ -30,7 +30,7 @@ Pravilnik o rokovima i postupcima praćenja i izvještavanja o provedbi akata st
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2019-136` (tags `pravilnik-2019-136/<day>`; `python tools/on.py <day> pravilnik-2019-136`).
+Act id: `pravilnik-2019-136` (tags `pravilnik-2019-136/<day>`; `python registry/tools/on.py <day> pravilnik-2019-136`).
 
 ## Status
 

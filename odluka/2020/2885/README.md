@@ -19,7 +19,7 @@ Odluka o naknadi za razvoj društva VIRKOM d.o.o., Virovitica · 1 versions, fro
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2020-2885` (tags `odluka-2020-2885/<day>`; `python tools/on.py <day> odluka-2020-2885`).
+Act id: `odluka-2020-2885` (tags `odluka-2020-2885/<day>`; `python registry/tools/on.py <day> odluka-2020-2885`).
 
 ## Decisions made by hand
 

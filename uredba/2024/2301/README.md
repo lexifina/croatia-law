@@ -19,7 +19,7 @@ Uredba o izmjenama i dopuni Uredbe o nacionalnim obvezama smanjenja emisija odre
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2024-2301` (tags `uredba-2024-2301/<day>`; `python tools/on.py <day> uredba-2024-2301`).
+Act id: `uredba-2024-2301` (tags `uredba-2024-2301/<day>`; `python registry/tools/on.py <day> uredba-2024-2301`).
 
 ## Decisions made by hand
 

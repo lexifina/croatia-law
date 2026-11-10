@@ -13,7 +13,7 @@ Pravilnik o numeraciji linija u javnom linijskom pomorskom prometu · 1 versions
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2023-2173` (tags `pravilnik-2023-2173/<day>`; `python tools/on.py <day> pravilnik-2023-2173`).
+Act id: `pravilnik-2023-2173` (tags `pravilnik-2023-2173/<day>`; `python registry/tools/on.py <day> pravilnik-2023-2173`).
 
 ## Decisions made by hand
 

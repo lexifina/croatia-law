@@ -9,7 +9,7 @@ Odluka o postavljanju Gordana Markotića za izvanrednog i opunomoćenog veleposl
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2013-2166` (tags `odluka-2013-2166/<day>`; `python tools/on.py <day> odluka-2013-2166`).
+Act id: `odluka-2013-2166` (tags `odluka-2013-2166/<day>`; `python registry/tools/on.py <day> odluka-2013-2166`).
 
 ## Decisions made by hand
 

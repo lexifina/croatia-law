@@ -8,7 +8,7 @@ Odluka o određivanju obveze proizvođaču prirodnog plina prodaje prirodnog pli
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2014-490` (tags `odluka-2014-490/<day>`; `python tools/on.py <day> odluka-2014-490`).
+Act id: `odluka-2014-490` (tags `odluka-2014-490/<day>`; `python registry/tools/on.py <day> odluka-2014-490`).
 
 ## Status
 

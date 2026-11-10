@@ -57,7 +57,7 @@ Zakon o muzejima · 1 versions, from 2015-10-21 (latest in force: 2015-10-21) ·
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 
-Act id: `zakon-2015-2121` (tags `zakon-2015-2121/<day>`; `python tools/on.py <day> zakon-2015-2121`).
+Act id: `zakon-2015-2121` (tags `zakon-2015-2121/<day>`; `python registry/tools/on.py <day> zakon-2015-2121`).
 
 ## Status
 

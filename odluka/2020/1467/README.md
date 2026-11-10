@@ -9,7 +9,7 @@ Odluka o usvajanju Programa jamstava za kredite za poduzetnike aktivne u područ
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2020-1467` (tags `odluka-2020-1467/<day>`; `python tools/on.py <day> odluka-2020-1467`).
+Act id: `odluka-2020-1467` (tags `odluka-2020-1467/<day>`; `python registry/tools/on.py <day> odluka-2020-1467`).
 
 ## Status
 

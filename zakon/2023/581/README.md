@@ -47,7 +47,7 @@ Zakon o izmjenama i dopunama Zakona o međunarodnoj i privremenoj zaštiti · 1 
 | čl. 41 | [clanak-041.md](clanak-041.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2023-581` (tags `zakon-2023-581/<day>`; `python tools/on.py <day> zakon-2023-581`).
+Act id: `zakon-2023-581` (tags `zakon-2023-581/<day>`; `python registry/tools/on.py <day> zakon-2023-581`).
 
 ## Decisions made by hand
 

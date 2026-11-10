@@ -9,7 +9,7 @@ Pravilnik o dopuni Pravilnika o načinu rada i postupanja po predstavkama i prit
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2013-821` (tags `pravilnik-2013-821/<day>`; `python tools/on.py <day> pravilnik-2013-821`).
+Act id: `pravilnik-2013-821` (tags `pravilnik-2013-821/<day>`; `python registry/tools/on.py <day> pravilnik-2013-821`).
 
 ## Decisions made by hand
 

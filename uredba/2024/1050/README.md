@@ -11,7 +11,7 @@ Uredba o prestanku važenja Uredbe o Uredu potpredsjednice Vlade Republike Hrvat
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2024-1050` (tags `uredba-2024-1050/<day>`; `python tools/on.py <day> uredba-2024-1050`).
+Act id: `uredba-2024-1050` (tags `uredba-2024-1050/<day>`; `python registry/tools/on.py <day> uredba-2024-1050`).
 
 ## Decisions made by hand
 

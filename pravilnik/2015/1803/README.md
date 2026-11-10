@@ -5,7 +5,7 @@ Pravilnik o sadržaju obrasca zahtjeva radnika za ostvarivanje prava u slučaju 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `pravilnik-2015-1803` (tags `pravilnik-2015-1803/<day>`; `python tools/on.py <day> pravilnik-2015-1803`).
+Act id: `pravilnik-2015-1803` (tags `pravilnik-2015-1803/<day>`; `python registry/tools/on.py <day> pravilnik-2015-1803`).
 
 ## Decisions made by hand
 

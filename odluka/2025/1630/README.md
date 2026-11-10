@@ -8,7 +8,7 @@ Odluka o katastarskoj izmjeri na području Grada Varaždinskih Toplica za dio ka
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2025-1630` (tags `odluka-2025-1630/<day>`; `python tools/on.py <day> odluka-2025-1630`).
+Act id: `odluka-2025-1630` (tags `odluka-2025-1630/<day>`; `python registry/tools/on.py <day> odluka-2025-1630`).
 
 ## Decisions made by hand
 

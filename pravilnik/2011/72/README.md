@@ -18,7 +18,7 @@ Pravilnik o sadržaju, obliku i troškovima izdavanja glavne svjedodžbe · 1 ve
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2011-72` (tags `pravilnik-2011-72/<day>`; `python tools/on.py <day> pravilnik-2011-72`).
+Act id: `pravilnik-2011-72` (tags `pravilnik-2011-72/<day>`; `python registry/tools/on.py <day> pravilnik-2011-72`).
 
 ## Status
 

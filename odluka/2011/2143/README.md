@@ -8,7 +8,7 @@ Odluka o izdavanju numizmatičkog kompleta prigodnoga optjecajnoga kovanog novca
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2011-2143` (tags `odluka-2011-2143/<day>`; `python tools/on.py <day> odluka-2011-2143`).
+Act id: `odluka-2011-2143` (tags `odluka-2011-2143/<day>`; `python registry/tools/on.py <day> odluka-2011-2143`).
 
 ## Decisions made by hand
 

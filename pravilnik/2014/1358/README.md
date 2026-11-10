@@ -19,7 +19,7 @@ Pravilnik o uvjetima za obavljanje funkcije člana uprave i člana nadzornog odb
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2014-1358` (tags `pravilnik-2014-1358/<day>`; `python tools/on.py <day> pravilnik-2014-1358`).
+Act id: `pravilnik-2014-1358` (tags `pravilnik-2014-1358/<day>`; `python registry/tools/on.py <day> pravilnik-2014-1358`).
 
 ## Status
 

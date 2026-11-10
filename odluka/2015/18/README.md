@@ -5,7 +5,7 @@ Odluka o određivanju demarkiranih područja u kojima se provode mjere sprječav
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `odluka-2015-18` (tags `odluka-2015-18/<day>`; `python tools/on.py <day> odluka-2015-18`).
+Act id: `odluka-2015-18` (tags `odluka-2015-18/<day>`; `python registry/tools/on.py <day> odluka-2015-18`).
 
 ## Decisions made by hand
 

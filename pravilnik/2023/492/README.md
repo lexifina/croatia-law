@@ -21,7 +21,7 @@ Pravilnik o provedbi Mjere 2. iz programa državne Potpore za kompenzaciju rasta
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2023-492` (tags `pravilnik-2023-492/<day>`; `python tools/on.py <day> pravilnik-2023-492`).
+Act id: `pravilnik-2023-492` (tags `pravilnik-2023-492/<day>`; `python registry/tools/on.py <day> pravilnik-2023-492`).
 
 ## Decisions made by hand
 

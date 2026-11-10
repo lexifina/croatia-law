@@ -81,7 +81,7 @@ Statut Turističke zajednice Ličko-senjske županije · 1 versions, from 2020-0
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `statut-2020-1770` (tags `statut-2020-1770/<day>`; `python tools/on.py <day> statut-2020-1770`).
+Act id: `statut-2020-1770` (tags `statut-2020-1770/<day>`; `python registry/tools/on.py <day> statut-2020-1770`).
 
 ## Status
 

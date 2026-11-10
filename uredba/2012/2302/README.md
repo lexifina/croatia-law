@@ -9,7 +9,7 @@ Uredba o izmjeni Uredbe o utvrđivanju poslova iz članka 4.a i 4.c Zakona o Fin
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2012-2302` (tags `uredba-2012-2302/<day>`; `python tools/on.py <day> uredba-2012-2302`).
+Act id: `uredba-2012-2302` (tags `uredba-2012-2302/<day>`; `python registry/tools/on.py <day> uredba-2012-2302`).
 
 ## Decisions made by hand
 

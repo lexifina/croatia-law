@@ -9,7 +9,7 @@ Pravilnik o dopuni Pravilnika o primjeni Zakona o trošarinama koji se odnosi na
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2026-1286` (tags `pravilnik-2026-1286/<day>`; `python tools/on.py <day> pravilnik-2026-1286`).
+Act id: `pravilnik-2026-1286` (tags `pravilnik-2026-1286/<day>`; `python registry/tools/on.py <day> pravilnik-2026-1286`).
 
 ## Decisions made by hand
 

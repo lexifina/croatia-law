@@ -36,7 +36,7 @@ Zakon o izmjenama i dopunama Zakona o civilnim stradalnicima iz Domovinskog rata
 | čl. 30 | [clanak-030.md](clanak-030.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2026-115` (tags `zakon-2026-115/<day>`; `python tools/on.py <day> zakon-2026-115`).
+Act id: `zakon-2026-115` (tags `zakon-2026-115/<day>`; `python registry/tools/on.py <day> zakon-2026-115`).
 
 ## Decisions made by hand
 

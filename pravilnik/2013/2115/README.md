@@ -15,7 +15,7 @@ Pravilnik o promidžbenim aktivnostima · 1 versions, from 2013-07-27 (latest in
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2013-2115` (tags `pravilnik-2013-2115/<day>`; `python tools/on.py <day> pravilnik-2013-2115`).
+Act id: `pravilnik-2013-2115` (tags `pravilnik-2013-2115/<day>`; `python registry/tools/on.py <day> pravilnik-2013-2115`).
 
 ## Decisions made by hand
 

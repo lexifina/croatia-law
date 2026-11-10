@@ -9,7 +9,7 @@ Odluka o davanju suglasnosti na Izmjene i dopune Financijskog plana Hrvatskih ce
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2019-2234` (tags `odluka-2019-2234/<day>`; `python tools/on.py <day> odluka-2019-2234`).
+Act id: `odluka-2019-2234` (tags `odluka-2019-2234/<day>`; `python registry/tools/on.py <day> odluka-2019-2234`).
 
 ## Decisions made by hand
 

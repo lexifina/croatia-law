@@ -9,7 +9,7 @@ Odluka o sadržaju i uvjetima javnog nadmetanja za izdavanje dozvola za istraži
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2014-694` (tags `odluka-2014-694/<day>`; `python tools/on.py <day> odluka-2014-694`).
+Act id: `odluka-2014-694` (tags `odluka-2014-694/<day>`; `python registry/tools/on.py <day> odluka-2014-694`).
 
 ## Decisions made by hand
 

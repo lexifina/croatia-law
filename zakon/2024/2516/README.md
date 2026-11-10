@@ -52,7 +52,7 @@ Zakon o izmjenama i dopunama Zakona o tržištu rada · 1 versions, from 2025-01
 | čl. 46 | [clanak-046.md](clanak-046.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2024-2516` (tags `zakon-2024-2516/<day>`; `python tools/on.py <day> zakon-2024-2516`).
+Act id: `zakon-2024-2516` (tags `zakon-2024-2516/<day>`; `python registry/tools/on.py <day> zakon-2024-2516`).
 
 ## Decisions made by hand
 

@@ -29,7 +29,7 @@ Zakon o izmjenama i dopunama Zakona o službenoj statistici · 1 versions, from 
 | čl. 23 | [clanak-023.md](clanak-023.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2026-836` (tags `zakon-2026-836/<day>`; `python tools/on.py <day> zakon-2026-836`).
+Act id: `zakon-2026-836` (tags `zakon-2026-836/<day>`; `python registry/tools/on.py <day> zakon-2026-836`).
 
 ## Decisions made by hand
 

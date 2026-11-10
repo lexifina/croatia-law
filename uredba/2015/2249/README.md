@@ -11,7 +11,7 @@ Uredba o izmjenama Uredbe o određivanju granice pomorskog dobra na dijelu k.o. 
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2015-2249` (tags `uredba-2015-2249/<day>`; `python tools/on.py <day> uredba-2015-2249`).
+Act id: `uredba-2015-2249` (tags `uredba-2015-2249/<day>`; `python registry/tools/on.py <day> uredba-2015-2249`).
 
 ## Decisions made by hand
 

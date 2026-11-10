@@ -11,7 +11,7 @@ Pravilnik o dopunama Pravilnika o provedbi Općeg poreznog zakona · 1 versions,
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2021-573` (tags `pravilnik-2021-573/<day>`; `python tools/on.py <day> pravilnik-2021-573`).
+Act id: `pravilnik-2021-573` (tags `pravilnik-2021-573/<day>`; `python registry/tools/on.py <day> pravilnik-2021-573`).
 
 ## Decisions made by hand
 

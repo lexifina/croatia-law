@@ -38,7 +38,7 @@ Pravilnik o praćenju kvalitete zraka · 1 versions, from 2013-01-15 (latest in 
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2013-57` (tags `pravilnik-2013-57/<day>`; `python tools/on.py <day> pravilnik-2013-57`).
+Act id: `pravilnik-2013-57` (tags `pravilnik-2013-57/<day>`; `python registry/tools/on.py <day> pravilnik-2013-57`).
 
 ## Status
 

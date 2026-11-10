@@ -35,7 +35,7 @@ Uredba o klasifikaciji radnih mjesta policijskih službenika · 1 versions, from
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2011-2580` (tags `uredba-2011-2580/<day>`; `python tools/on.py <day> uredba-2011-2580`).
+Act id: `uredba-2011-2580` (tags `uredba-2011-2580/<day>`; `python registry/tools/on.py <day> uredba-2011-2580`).
 
 ## Status
 

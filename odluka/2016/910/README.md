@@ -8,7 +8,7 @@ Odluka o obustavi postupka sanacije Opće bolnice "Dr. Tomislav Bardek" Koprivni
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2016-910` (tags `odluka-2016-910/<day>`; `python tools/on.py <day> odluka-2016-910`).
+Act id: `odluka-2016-910` (tags `odluka-2016-910/<day>`; `python registry/tools/on.py <day> odluka-2016-910`).
 
 ## Decisions made by hand
 

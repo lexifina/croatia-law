@@ -28,7 +28,7 @@ Pravilnik o sadržaju zahtjeva za dobivanje suglasnosti za početak ili prestana
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2017-1112` (tags `pravilnik-2017-1112/<day>`; `python tools/on.py <day> pravilnik-2017-1112`).
+Act id: `pravilnik-2017-1112` (tags `pravilnik-2017-1112/<day>`; `python registry/tools/on.py <day> pravilnik-2017-1112`).
 
 ## Decisions made by hand
 

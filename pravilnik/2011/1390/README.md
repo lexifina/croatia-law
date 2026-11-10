@@ -22,7 +22,7 @@ Pravilnik o tehničkim i mjeriteljskim zahtjevima za ovlašćivanje servisa za p
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2011-1390` (tags `pravilnik-2011-1390/<day>`; `python tools/on.py <day> pravilnik-2011-1390`).
+Act id: `pravilnik-2011-1390` (tags `pravilnik-2011-1390/<day>`; `python registry/tools/on.py <day> pravilnik-2011-1390`).
 
 ## Decisions made by hand
 

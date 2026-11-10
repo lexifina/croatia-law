@@ -8,7 +8,7 @@ Odluka o načinu operativne provedbe Projekta objedinjavanja svjetlovodne infras
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2013-3334` (tags `odluka-2013-3334/<day>`; `python tools/on.py <day> odluka-2013-3334`).
+Act id: `odluka-2013-3334` (tags `odluka-2013-3334/<day>`; `python registry/tools/on.py <day> odluka-2013-3334`).
 
 ## Decisions made by hand
 

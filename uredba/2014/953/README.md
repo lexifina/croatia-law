@@ -14,7 +14,7 @@ Uredba o izmjenama Uredbe o unutarnjem ustrojstvu Ministarstva unutarnjih poslov
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2014-953` (tags `uredba-2014-953/<day>`; `python tools/on.py <day> uredba-2014-953`).
+Act id: `uredba-2014-953` (tags `uredba-2014-953/<day>`; `python registry/tools/on.py <day> uredba-2014-953`).
 
 ## Decisions made by hand
 

@@ -17,7 +17,7 @@ Pravilnik o sadržaju i načinu vođenja evidencije i dokumentacije te načinu i
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2021-589` (tags `pravilnik-2021-589/<day>`; `python tools/on.py <day> pravilnik-2021-589`).
+Act id: `pravilnik-2021-589` (tags `pravilnik-2021-589/<day>`; `python registry/tools/on.py <day> pravilnik-2021-589`).
 
 ## Decisions made by hand
 

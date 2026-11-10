@@ -34,7 +34,7 @@ Pravilnik o izmjenama i dopunama Pravilnika o provedbi Mjere 03 »Sustavi kvalit
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2017-737` (tags `pravilnik-2017-737/<day>`; `python tools/on.py <day> pravilnik-2017-737`).
+Act id: `pravilnik-2017-737` (tags `pravilnik-2017-737/<day>`; `python registry/tools/on.py <day> pravilnik-2017-737`).
 
 ## Decisions made by hand
 

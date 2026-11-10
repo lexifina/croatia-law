@@ -18,7 +18,7 @@ Pravilnik o izmjenama i dopunama Pravilnika o sudjelovanju Vlade Republike Hrvat
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2012-2935` (tags `pravilnik-2012-2935/<day>`; `python tools/on.py <day> pravilnik-2012-2935`).
+Act id: `pravilnik-2012-2935` (tags `pravilnik-2012-2935/<day>`; `python registry/tools/on.py <day> pravilnik-2012-2935`).
 
 ## Decisions made by hand
 

@@ -20,7 +20,7 @@ Odluka o II. izmjeni i dopuni Odluke o općinskim porezima Općine Brckovljani �
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2019-2443` (tags `odluka-2019-2443/<day>`; `python tools/on.py <day> odluka-2019-2443`).
+Act id: `odluka-2019-2443` (tags `odluka-2019-2443/<day>`; `python registry/tools/on.py <day> odluka-2019-2443`).
 
 ## Decisions made by hand
 

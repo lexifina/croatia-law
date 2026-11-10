@@ -8,7 +8,7 @@ Odluka o izmjeni Odluke o davanju koncesije za osnivanje Slobodne zone Luka Rije
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2020-1552` (tags `odluka-2020-1552/<day>`; `python tools/on.py <day> odluka-2020-1552`).
+Act id: `odluka-2020-1552` (tags `odluka-2020-1552/<day>`; `python registry/tools/on.py <day> odluka-2020-1552`).
 
 ## Decisions made by hand
 

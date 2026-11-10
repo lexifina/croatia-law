@@ -8,7 +8,7 @@ Odluka o davanju ovlasti Središnjem državnom uredu za središnju javnu nabavu 
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2025-581` (tags `odluka-2025-581/<day>`; `python tools/on.py <day> odluka-2025-581`).
+Act id: `odluka-2025-581` (tags `odluka-2025-581/<day>`; `python registry/tools/on.py <day> odluka-2025-581`).
 
 ## Decisions made by hand
 

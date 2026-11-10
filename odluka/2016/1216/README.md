@@ -8,7 +8,7 @@ Odluka o troškovima smještaja u Prihvatilištu za tražitelje azila · 1 versi
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2016-1216` (tags `odluka-2016-1216/<day>`; `python tools/on.py <day> odluka-2016-1216`).
+Act id: `odluka-2016-1216` (tags `odluka-2016-1216/<day>`; `python registry/tools/on.py <day> odluka-2016-1216`).
 
 ## Status
 

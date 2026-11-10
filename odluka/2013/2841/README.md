@@ -8,7 +8,7 @@ Odluka o osnivanju Istražnog povjerenstva za utvrđivanje činjenica vezanih uz
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2013-2841` (tags `odluka-2013-2841/<day>`; `python tools/on.py <day> odluka-2013-2841`).
+Act id: `odluka-2013-2841` (tags `odluka-2013-2841/<day>`; `python registry/tools/on.py <day> odluka-2013-2841`).
 
 ## Decisions made by hand
 

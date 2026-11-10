@@ -32,7 +32,7 @@ Pravilnik o uvjetima za priznavanje inozemnih stručnih kvalifikacija za obavlja
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2022-2253` (tags `pravilnik-2022-2253/<day>`; `python tools/on.py <day> pravilnik-2022-2253`).
+Act id: `pravilnik-2022-2253` (tags `pravilnik-2022-2253/<day>`; `python registry/tools/on.py <day> pravilnik-2022-2253`).
 
 ## Decisions made by hand
 

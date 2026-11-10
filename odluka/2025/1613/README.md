@@ -8,7 +8,7 @@ Odluka o katastarskoj izmjeri na području Općine Dugi Rat za dijelove katastar
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2025-1613` (tags `odluka-2025-1613/<day>`; `python tools/on.py <day> odluka-2025-1613`).
+Act id: `odluka-2025-1613` (tags `odluka-2025-1613/<day>`; `python registry/tools/on.py <day> odluka-2025-1613`).
 
 ## Decisions made by hand
 

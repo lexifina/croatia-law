@@ -31,7 +31,7 @@ Zakon o izmjenama i dopunama Zakona o Hrvatskoj radioteleviziji · 1 versions, f
 | čl. 25 | [clanak-025.md](clanak-025.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2012-1759` (tags `zakon-2012-1759/<day>`; `python tools/on.py <day> zakon-2012-1759`).
+Act id: `zakon-2012-1759` (tags `zakon-2012-1759/<day>`; `python registry/tools/on.py <day> zakon-2012-1759`).
 
 ## Status
 

@@ -9,7 +9,7 @@ Odluka o usklađenju sredstava jamstvenog pologa za 2014. godinu · 1 versions, 
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2015-257` (tags `odluka-2015-257/<day>`; `python tools/on.py <day> odluka-2015-257`).
+Act id: `odluka-2015-257` (tags `odluka-2015-257/<day>`; `python registry/tools/on.py <day> odluka-2015-257`).
 
 ## Decisions made by hand
 

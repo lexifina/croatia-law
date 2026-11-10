@@ -9,7 +9,7 @@ Uredba o prestanku važenja Uredbe o kriterijima za dodjelu zamjenskog poljopriv
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2019-2115` (tags `uredba-2019-2115/<day>`; `python tools/on.py <day> uredba-2019-2115`).
+Act id: `uredba-2019-2115` (tags `uredba-2019-2115/<day>`; `python registry/tools/on.py <day> uredba-2019-2115`).
 
 ## Decisions made by hand
 

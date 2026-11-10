@@ -8,7 +8,7 @@ Odluka o pokretanju postupka izrade Nacionalnog plana razvoja biciklističkog pr
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2021-2153` (tags `odluka-2021-2153/<day>`; `python tools/on.py <day> odluka-2021-2153`).
+Act id: `odluka-2021-2153` (tags `odluka-2021-2153/<day>`; `python registry/tools/on.py <day> odluka-2021-2153`).
 
 ## Decisions made by hand
 

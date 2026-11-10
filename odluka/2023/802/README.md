@@ -11,7 +11,7 @@ Odluka o izmjeni Odluke o provođenju operacija monetarne politike · 1 versions
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2023-802` (tags `odluka-2023-802/<day>`; `python tools/on.py <day> odluka-2023-802`).
+Act id: `odluka-2023-802` (tags `odluka-2023-802/<day>`; `python registry/tools/on.py <day> odluka-2023-802`).
 
 ## Decisions made by hand
 

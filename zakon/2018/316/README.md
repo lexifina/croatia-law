@@ -121,7 +121,7 @@ Zakon o izmjenama i dopunama Zakona o zaštiti prirode · 1 versions, from 2018-
 | čl. 115 | [clanak-115.md](clanak-115.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2018-316` (tags `zakon-2018-316/<day>`; `python tools/on.py <day> zakon-2018-316`).
+Act id: `zakon-2018-316` (tags `zakon-2018-316/<day>`; `python registry/tools/on.py <day> zakon-2018-316`).
 
 ## Decisions made by hand
 

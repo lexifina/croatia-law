@@ -10,7 +10,7 @@ Pravilnik o izmjeni Pravilnika o sadržaju i obliku obrazaca na kojima se podnos
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2026-1034` (tags `pravilnik-2026-1034/<day>`; `python tools/on.py <day> pravilnik-2026-1034`).
+Act id: `pravilnik-2026-1034` (tags `pravilnik-2026-1034/<day>`; `python registry/tools/on.py <day> pravilnik-2026-1034`).
 
 ## Decisions made by hand
 

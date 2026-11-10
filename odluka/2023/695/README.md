@@ -5,7 +5,7 @@ Odluka o lokalnim porezima Općine Donji Lapac · 2 versions, from 2023-01-01 (l
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `odluka-2023-695` (tags `odluka-2023-695/<day>`; `python tools/on.py <day> odluka-2023-695`).
+Act id: `odluka-2023-695` (tags `odluka-2023-695/<day>`; `python registry/tools/on.py <day> odluka-2023-695`).
 
 ## Decisions made by hand
 

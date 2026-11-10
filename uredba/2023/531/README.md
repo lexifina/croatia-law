@@ -21,7 +21,7 @@ Uredba o otklanjanju poremećaja na domaćem tržištu energije · 1 versions, f
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2023-531` (tags `uredba-2023-531/<day>`; `python tools/on.py <day> uredba-2023-531`).
+Act id: `uredba-2023-531` (tags `uredba-2023-531/<day>`; `python registry/tools/on.py <day> uredba-2023-531`).
 
 ## Status
 

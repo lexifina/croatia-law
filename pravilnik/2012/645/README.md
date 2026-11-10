@@ -24,7 +24,7 @@ Pravilnik o radijskoj opremi i telekomunikacijskoj terminalnoj opremi · 1 versi
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2012-645` (tags `pravilnik-2012-645/<day>`; `python tools/on.py <day> pravilnik-2012-645`).
+Act id: `pravilnik-2012-645` (tags `pravilnik-2012-645/<day>`; `python registry/tools/on.py <day> pravilnik-2012-645`).
 
 ## Status
 

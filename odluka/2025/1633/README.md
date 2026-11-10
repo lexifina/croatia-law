@@ -8,7 +8,7 @@ Odluka o katastarskoj izmjeri na području Grada Jastrebarskog za dio katastarsk
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2025-1633` (tags `odluka-2025-1633/<day>`; `python tools/on.py <day> odluka-2025-1633`).
+Act id: `odluka-2025-1633` (tags `odluka-2025-1633/<day>`; `python registry/tools/on.py <day> odluka-2025-1633`).
 
 ## Decisions made by hand
 

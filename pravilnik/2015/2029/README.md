@@ -47,7 +47,7 @@ Pravilnik o polaganju stručnog ispita, obuci i usavršavanju stečajnih upravit
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2015-2029` (tags `pravilnik-2015-2029/<day>`; `python tools/on.py <day> pravilnik-2015-2029`).
+Act id: `pravilnik-2015-2029` (tags `pravilnik-2015-2029/<day>`; `python registry/tools/on.py <day> pravilnik-2015-2029`).
 
 ## Status
 

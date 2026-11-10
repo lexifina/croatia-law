@@ -34,7 +34,7 @@ Zakon o izmjenama i dopunama Zakona o rodiljnim i roditeljskim potporama · 1 ve
 | čl. 28 | [clanak-028.md](clanak-028.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2022-1289` (tags `zakon-2022-1289/<day>`; `python tools/on.py <day> zakon-2022-1289`).
+Act id: `zakon-2022-1289` (tags `zakon-2022-1289/<day>`; `python registry/tools/on.py <day> zakon-2022-1289`).
 
 ## Decisions made by hand
 

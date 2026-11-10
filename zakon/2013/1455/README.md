@@ -38,7 +38,7 @@ Zakon o izmjenama i dopunama Zakona o radu · 1 versions, from 2013-06-26 (lates
 | čl. 32 | [clanak-032.md](clanak-032.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2013-1455` (tags `zakon-2013-1455/<day>`; `python tools/on.py <day> zakon-2013-1455`).
+Act id: `zakon-2013-1455` (tags `zakon-2013-1455/<day>`; `python registry/tools/on.py <day> zakon-2013-1455`).
 
 ## Decisions made by hand
 

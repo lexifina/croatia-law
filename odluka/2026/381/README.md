@@ -9,7 +9,7 @@ Odluka o usvajanju Nacionalnog jamstvenog programa »Portfeljno jamstvo za poljo
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2026-381` (tags `odluka-2026-381/<day>`; `python tools/on.py <day> odluka-2026-381`).
+Act id: `odluka-2026-381` (tags `odluka-2026-381/<day>`; `python registry/tools/on.py <day> odluka-2026-381`).
 
 ## Decisions made by hand
 

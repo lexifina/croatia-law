@@ -8,7 +8,7 @@ Odluka o izmjeni Odluke o ustrojavanju Službeničkog suda za državne službeni
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2024-549` (tags `odluka-2024-549/<day>`; `python tools/on.py <day> odluka-2024-549`).
+Act id: `odluka-2024-549` (tags `odluka-2024-549/<day>`; `python registry/tools/on.py <day> odluka-2024-549`).
 
 ## Decisions made by hand
 

@@ -13,7 +13,7 @@ Pravilnik o izmjenama i dopunama Pravilnika o naknadi štete ulagateljima UCITS 
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2022-2320` (tags `pravilnik-2022-2320/<day>`; `python tools/on.py <day> pravilnik-2022-2320`).
+Act id: `pravilnik-2022-2320` (tags `pravilnik-2022-2320/<day>`; `python registry/tools/on.py <day> pravilnik-2022-2320`).
 
 ## Decisions made by hand
 

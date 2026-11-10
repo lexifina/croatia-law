@@ -12,7 +12,7 @@ Naredba o mjerama za sprječavanje pojave i širenja bedrenice na zaraženom pod
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `naredba-2022-1319` (tags `naredba-2022-1319/<day>`; `python tools/on.py <day> naredba-2022-1319`).
+Act id: `naredba-2022-1319` (tags `naredba-2022-1319/<day>`; `python registry/tools/on.py <day> naredba-2022-1319`).
 
 ## Status
 

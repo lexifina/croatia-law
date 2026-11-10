@@ -8,7 +8,7 @@ Odluka o izmjenama i dopuni Odluke o davanju koncesije za osnivanje Slobodne zon
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2017-2019` (tags `odluka-2017-2019/<day>`; `python tools/on.py <day> odluka-2017-2019`).
+Act id: `odluka-2017-2019` (tags `odluka-2017-2019/<day>`; `python registry/tools/on.py <day> odluka-2017-2019`).
 
 ## Decisions made by hand
 

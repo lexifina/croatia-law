@@ -21,7 +21,7 @@ Pravilnik o arhivu podataka, produkata i informacija · 1 versions, from 2021-12
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2021-2423` (tags `pravilnik-2021-2423/<day>`; `python tools/on.py <day> pravilnik-2021-2423`).
+Act id: `pravilnik-2021-2423` (tags `pravilnik-2021-2423/<day>`; `python registry/tools/on.py <day> pravilnik-2021-2423`).
 
 ## Decisions made by hand
 

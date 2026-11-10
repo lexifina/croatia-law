@@ -8,7 +8,7 @@ Odluka o koncesiji na pomorskom dobru u svrhu korištenja luke posebne namjene -
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2011-613` (tags `odluka-2011-613/<day>`; `python tools/on.py <day> odluka-2011-613`).
+Act id: `odluka-2011-613` (tags `odluka-2011-613/<day>`; `python registry/tools/on.py <day> odluka-2011-613`).
 
 ## Decisions made by hand
 

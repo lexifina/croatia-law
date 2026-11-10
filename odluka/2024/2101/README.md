@@ -8,7 +8,7 @@ Odluka o donošenju Nacionalnog plana za suzbijanje trgovanja ljudima za razdobl
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2024-2101` (tags `odluka-2024-2101/<day>`; `python tools/on.py <day> odluka-2024-2101`).
+Act id: `odluka-2024-2101` (tags `odluka-2024-2101/<day>`; `python registry/tools/on.py <day> odluka-2024-2101`).
 
 ## Decisions made by hand
 

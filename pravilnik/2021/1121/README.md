@@ -9,7 +9,7 @@ Pravilnik o dopuni Pravilnika o provedbi mjere Destilacija vina u kriznim sluča
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2021-1121` (tags `pravilnik-2021-1121/<day>`; `python tools/on.py <day> pravilnik-2021-1121`).
+Act id: `pravilnik-2021-1121` (tags `pravilnik-2021-1121/<day>`; `python registry/tools/on.py <day> pravilnik-2021-1121`).
 
 ## Decisions made by hand
 

@@ -9,7 +9,7 @@ Odluka o faktoru osnovne mirovine od 1. siječnja 2022. · 1 versions, from 2022
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2022-343` (tags `odluka-2022-343/<day>`; `python tools/on.py <day> odluka-2022-343`).
+Act id: `odluka-2022-343` (tags `odluka-2022-343/<day>`; `python registry/tools/on.py <day> odluka-2022-343`).
 
 ## Decisions made by hand
 

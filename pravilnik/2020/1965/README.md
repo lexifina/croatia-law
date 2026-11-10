@@ -47,7 +47,7 @@ Pravilnik o zaštiti na radu za mjesta rada · 1 versions, from 2020-10-03 (late
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2020-1965` (tags `pravilnik-2020-1965/<day>`; `python tools/on.py <day> pravilnik-2020-1965`).
+Act id: `pravilnik-2020-1965` (tags `pravilnik-2020-1965/<day>`; `python registry/tools/on.py <day> pravilnik-2020-1965`).
 
 ## Status
 

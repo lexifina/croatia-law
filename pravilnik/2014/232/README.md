@@ -83,7 +83,7 @@ Pravilnik o geodetskom projektu · 1 versions, from 2014-02-01 (latest in force:
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2014-232` (tags `pravilnik-2014-232/<day>`; `python tools/on.py <day> pravilnik-2014-232`).
+Act id: `pravilnik-2014-232` (tags `pravilnik-2014-232/<day>`; `python registry/tools/on.py <day> pravilnik-2014-232`).
 
 ## Status
 

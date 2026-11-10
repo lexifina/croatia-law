@@ -22,7 +22,7 @@ Pravilnik o dozvoljenim ulaganjima i ograničenjima ulaganja imovine za pokriće
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2020-28` (tags `pravilnik-2020-28/<day>`; `python tools/on.py <day> pravilnik-2020-28`).
+Act id: `pravilnik-2020-28` (tags `pravilnik-2020-28/<day>`; `python registry/tools/on.py <day> pravilnik-2020-28`).
 
 ## Status
 

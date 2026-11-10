@@ -147,7 +147,7 @@ Pravilnik o zvanjima i svjedodžbama o osposobljenosti pomoraca · 1 versions, f
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2013-2834` (tags `pravilnik-2013-2834/<day>`; `python tools/on.py <day> pravilnik-2013-2834`).
+Act id: `pravilnik-2013-2834` (tags `pravilnik-2013-2834/<day>`; `python registry/tools/on.py <day> pravilnik-2013-2834`).
 
 ## Status
 
@@ -155,7 +155,6 @@ Act id: `pravilnik-2013-2834` (tags `pravilnik-2013-2834/<day>`; `python tools/o
 
 Amended or repealed by:
 
-- [Pravilnik o izmjenama i dopunama Pravilnika o zvanjima i svjedodžbama o osposobljenosti pomoraca (NN 45/2014)](https://narodne-novine.nn.hr/eli/sluzbeni/2014/45/841)
 - [Pravilnik o izmjenama i dopunama Pravilnika o zvanjima i svjedodžbama o osposobljenosti pomoraca (NN 124/2015)](https://narodne-novine.nn.hr/eli/sluzbeni/2015/124/2361)
 - [Pravilnik o izmjenama i dopunama Pravilnika o zvanjima i svjedodžbama o osposobljenosti pomoraca (NN 72/2016)](https://narodne-novine.nn.hr/eli/sluzbeni/2016/72/1711)
 - [Pravilnik o izmjenama i dopunama Pravilnika o zvanjima i svjedodžbama o osposobljenosti pomoraca (NN 69/2018)](https://narodne-novine.nn.hr/eli/sluzbeni/2018/69/1414)

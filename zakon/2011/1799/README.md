@@ -91,7 +91,7 @@ Zakon o izmjenama i dopunama Zakona o zračnom prometu · 1 versions, from 2011-
 | čl. 85 | [clanak-085.md](clanak-085.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2011-1799` (tags `zakon-2011-1799/<day>`; `python tools/on.py <day> zakon-2011-1799`).
+Act id: `zakon-2011-1799` (tags `zakon-2011-1799/<day>`; `python registry/tools/on.py <day> zakon-2011-1799`).
 
 ## Decisions made by hand
 

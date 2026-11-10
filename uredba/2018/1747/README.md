@@ -17,7 +17,7 @@ Uredba o načinu izračuna početne zakupnine poljoprivrednog zemljišta u vlasn
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2018-1747` (tags `uredba-2018-1747/<day>`; `python tools/on.py <day> uredba-2018-1747`).
+Act id: `uredba-2018-1747` (tags `uredba-2018-1747/<day>`; `python registry/tools/on.py <day> uredba-2018-1747`).
 
 ## Decisions made by hand
 

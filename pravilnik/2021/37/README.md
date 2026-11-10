@@ -19,7 +19,7 @@ Pravilnik o načinu stjecanja statusa ovlaštene osobe Obalne straže Republike 
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2021-37` (tags `pravilnik-2021-37/<day>`; `python tools/on.py <day> pravilnik-2021-37`).
+Act id: `pravilnik-2021-37` (tags `pravilnik-2021-37/<day>`; `python registry/tools/on.py <day> pravilnik-2021-37`).
 
 ## Decisions made by hand
 

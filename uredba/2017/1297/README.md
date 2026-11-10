@@ -10,7 +10,7 @@ Uredba o izmjenama Uredbe o načinu financiranja decentraliziranih funkcija te i
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2017-1297` (tags `uredba-2017-1297/<day>`; `python tools/on.py <day> uredba-2017-1297`).
+Act id: `uredba-2017-1297` (tags `uredba-2017-1297/<day>`; `python registry/tools/on.py <day> uredba-2017-1297`).
 
 ## Decisions made by hand
 

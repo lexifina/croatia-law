@@ -5,7 +5,7 @@ Odluka o iznosu tarifnih stavki za proizvodnju toplinske energije za centralne t
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `odluka-2025-1803` (tags `odluka-2025-1803/<day>`; `python tools/on.py <day> odluka-2025-1803`).
+Act id: `odluka-2025-1803` (tags `odluka-2025-1803/<day>`; `python registry/tools/on.py <day> odluka-2025-1803`).
 
 ## Decisions made by hand
 

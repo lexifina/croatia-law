@@ -5,7 +5,7 @@ Pravilnik o obliku, sadržaju i načinu vođenja registra kulturnih dobara Repub
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `pravilnik-2023-328` (tags `pravilnik-2023-328/<day>`; `python tools/on.py <day> pravilnik-2023-328`).
+Act id: `pravilnik-2023-328` (tags `pravilnik-2023-328/<day>`; `python registry/tools/on.py <day> pravilnik-2023-328`).
 
 ## Decisions made by hand
 

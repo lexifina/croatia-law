@@ -19,7 +19,7 @@ Pravilnik o izmjenama i dopunama Pravilnika o provedbi intervencije 75.01. Uspos
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2024-2415` (tags `pravilnik-2024-2415/<day>`; `python tools/on.py <day> pravilnik-2024-2415`).
+Act id: `pravilnik-2024-2415` (tags `pravilnik-2024-2415/<day>`; `python registry/tools/on.py <day> pravilnik-2024-2415`).
 
 ## Decisions made by hand
 

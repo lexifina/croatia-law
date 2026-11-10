@@ -16,7 +16,7 @@ Uredba o izmjenama Uredbe o ustrojstvu i načinu rada Odbora za državnu službu
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2015-824` (tags `uredba-2015-824/<day>`; `python tools/on.py <day> uredba-2015-824`).
+Act id: `uredba-2015-824` (tags `uredba-2015-824/<day>`; `python registry/tools/on.py <day> uredba-2015-824`).
 
 ## Decisions made by hand
 

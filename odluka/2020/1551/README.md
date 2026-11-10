@@ -8,7 +8,7 @@ Odluka o izmjeni Odluke o davanju koncesije za osnivanje Slobodne zone Osijek ·
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2020-1551` (tags `odluka-2020-1551/<day>`; `python tools/on.py <day> odluka-2020-1551`).
+Act id: `odluka-2020-1551` (tags `odluka-2020-1551/<day>`; `python registry/tools/on.py <day> odluka-2020-1551`).
 
 ## Decisions made by hand
 

@@ -15,7 +15,7 @@ Uredba o utvrđivanju visine boravišne pristojbe za 2014. godinu · 1 versions,
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2013-2190` (tags `uredba-2013-2190/<day>`; `python tools/on.py <day> uredba-2013-2190`).
+Act id: `uredba-2013-2190` (tags `uredba-2013-2190/<day>`; `python registry/tools/on.py <day> uredba-2013-2190`).
 
 ## Decisions made by hand
 

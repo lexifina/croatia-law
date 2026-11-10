@@ -9,7 +9,7 @@ Odluka o prirezu poreza na dohodak Općine Kanfanar · 1 versions, from 2014-12-
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2014-2888` (tags `odluka-2014-2888/<day>`; `python tools/on.py <day> odluka-2014-2888`).
+Act id: `odluka-2014-2888` (tags `odluka-2014-2888/<day>`; `python registry/tools/on.py <day> odluka-2014-2888`).
 
 ## Status
 

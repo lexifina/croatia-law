@@ -142,7 +142,7 @@ Zakon o izmjenama i dopunama Zakona o mirovinskim osiguravajućim društvima · 
 | čl. 136 | [clanak-136.md](clanak-136.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2018-2239` (tags `zakon-2018-2239/<day>`; `python tools/on.py <day> zakon-2018-2239`).
+Act id: `zakon-2018-2239` (tags `zakon-2018-2239/<day>`; `python registry/tools/on.py <day> zakon-2018-2239`).
 
 ## Decisions made by hand
 

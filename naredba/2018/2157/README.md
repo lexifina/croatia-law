@@ -13,7 +13,7 @@ Naredba o mjerama za sprječavanje pojave i ranog otkrivanja unosa virusa afrič
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `naredba-2018-2157` (tags `naredba-2018-2157/<day>`; `python tools/on.py <day> naredba-2018-2157`).
+Act id: `naredba-2018-2157` (tags `naredba-2018-2157/<day>`; `python registry/tools/on.py <day> naredba-2018-2157`).
 
 ## Status
 

@@ -16,7 +16,7 @@ Uredba o načinu izračuna i visinama sastavnica za izračun posebnog poreza na 
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2022-2524` (tags `uredba-2022-2524/<day>`; `python tools/on.py <day> uredba-2022-2524`).
+Act id: `uredba-2022-2524` (tags `uredba-2022-2524/<day>`; `python registry/tools/on.py <day> uredba-2022-2524`).
 
 ## Decisions made by hand
 

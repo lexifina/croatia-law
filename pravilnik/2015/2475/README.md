@@ -27,7 +27,7 @@ Pravilnik o dodjeli potpore udruženjima u ribarstvu u 2015. godini · 1 version
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2015-2475` (tags `pravilnik-2015-2475/<day>`; `python tools/on.py <day> pravilnik-2015-2475`).
+Act id: `pravilnik-2015-2475` (tags `pravilnik-2015-2475/<day>`; `python registry/tools/on.py <day> pravilnik-2015-2475`).
 
 ## Decisions made by hand
 

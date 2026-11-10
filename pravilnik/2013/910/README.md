@@ -15,7 +15,7 @@ Pravilnik o izmjenama Pravilnika o uvjetima za utvrđivanje zona sanitarne zašt
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2013-910` (tags `pravilnik-2013-910/<day>`; `python tools/on.py <day> pravilnik-2013-910`).
+Act id: `pravilnik-2013-910` (tags `pravilnik-2013-910/<day>`; `python registry/tools/on.py <day> pravilnik-2013-910`).
 
 ## Decisions made by hand
 

@@ -8,7 +8,7 @@ Odluka o katastarskoj izmjeri na području Nacionalnog parka Krka (NP Krka) · 1
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2021-1892` (tags `odluka-2021-1892/<day>`; `python tools/on.py <day> odluka-2021-1892`).
+Act id: `odluka-2021-1892` (tags `odluka-2021-1892/<day>`; `python registry/tools/on.py <day> odluka-2021-1892`).
 
 ## Decisions made by hand
 

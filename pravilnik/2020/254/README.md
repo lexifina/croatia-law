@@ -17,7 +17,7 @@ Pravilnik o izmjenama i dopunama Pravilnika o naknadi za sigurnost plovidbe · 1
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2020-254` (tags `pravilnik-2020-254/<day>`; `python tools/on.py <day> pravilnik-2020-254`).
+Act id: `pravilnik-2020-254` (tags `pravilnik-2020-254/<day>`; `python registry/tools/on.py <day> pravilnik-2020-254`).
 
 ## Decisions made by hand
 

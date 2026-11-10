@@ -12,7 +12,7 @@ Izmjene i dopune Državnog proračuna Republike Hrvatske za 2014. godinu i proje
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2014-2665` (tags `odluka-2014-2665/<day>`; `python tools/on.py <day> odluka-2014-2665`).
+Act id: `odluka-2014-2665` (tags `odluka-2014-2665/<day>`; `python registry/tools/on.py <day> odluka-2014-2665`).
 
 ## Decisions made by hand
 

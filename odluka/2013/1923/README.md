@@ -8,7 +8,7 @@ Odluka o osnivanju Povjerenstva za praćenje provedbe Nacionalne strategije za u
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2013-1923` (tags `odluka-2013-1923/<day>`; `python tools/on.py <day> odluka-2013-1923`).
+Act id: `odluka-2013-1923` (tags `odluka-2013-1923/<day>`; `python registry/tools/on.py <day> odluka-2013-1923`).
 
 ## Status
 

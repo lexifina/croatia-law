@@ -15,7 +15,7 @@ Uredba o izmjenama Uredbe o osnivanju Hrvatskog zavoda za norme · 1 versions, f
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2012-1861` (tags `uredba-2012-1861/<day>`; `python tools/on.py <day> uredba-2012-1861`).
+Act id: `uredba-2012-1861` (tags `uredba-2012-1861/<day>`; `python registry/tools/on.py <day> uredba-2012-1861`).
 
 ## Decisions made by hand
 

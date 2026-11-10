@@ -8,7 +8,7 @@ Odluka o davanju suglasnosti na Odluku Skupštine Istarske županije o izmjeni i
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2017-2209` (tags `odluka-2017-2209/<day>`; `python tools/on.py <day> odluka-2017-2209`).
+Act id: `odluka-2017-2209` (tags `odluka-2017-2209/<day>`; `python registry/tools/on.py <day> odluka-2017-2209`).
 
 ## Decisions made by hand
 

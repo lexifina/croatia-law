@@ -8,7 +8,7 @@ Odluka o donošenju Strategije prometnog razvoja Republike Hrvatske za razdoblje
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2017-2014` (tags `odluka-2017-2014/<day>`; `python tools/on.py <day> odluka-2017-2014`).
+Act id: `odluka-2017-2014` (tags `odluka-2017-2014/<day>`; `python registry/tools/on.py <day> odluka-2017-2014`).
 
 ## Decisions made by hand
 

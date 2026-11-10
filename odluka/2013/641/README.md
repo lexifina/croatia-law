@@ -8,7 +8,7 @@ Odluka o sanaciji Kliničke bolnice Dubrava Zagreb · 1 versions, from 2013-04-0
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2013-641` (tags `odluka-2013-641/<day>`; `python tools/on.py <day> odluka-2013-641`).
+Act id: `odluka-2013-641` (tags `odluka-2013-641/<day>`; `python registry/tools/on.py <day> odluka-2013-641`).
 
 ## Status
 

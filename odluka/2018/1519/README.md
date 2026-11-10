@@ -5,7 +5,7 @@ Odluka o regulatornom kapitalu institucija za elektronički novac · 2 versions,
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `odluka-2018-1519` (tags `odluka-2018-1519/<day>`; `python tools/on.py <day> odluka-2018-1519`).
+Act id: `odluka-2018-1519` (tags `odluka-2018-1519/<day>`; `python registry/tools/on.py <day> odluka-2018-1519`).
 
 ## Decisions made by hand
 

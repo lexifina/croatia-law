@@ -9,7 +9,7 @@ Pravilnik o izmjeni Pravilnika o normizaciji u Ministarstvu obrane i Oružanim s
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2022-5` (tags `pravilnik-2022-5/<day>`; `python tools/on.py <day> pravilnik-2022-5`).
+Act id: `pravilnik-2022-5` (tags `pravilnik-2022-5/<day>`; `python registry/tools/on.py <day> pravilnik-2022-5`).
 
 ## Decisions made by hand
 

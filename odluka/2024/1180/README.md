@@ -8,7 +8,7 @@ Odluka o izboru predsjednice i potpredsjednika Odbora za međuparlamentarnu sura
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2024-1180` (tags `odluka-2024-1180/<day>`; `python tools/on.py <day> odluka-2024-1180`).
+Act id: `odluka-2024-1180` (tags `odluka-2024-1180/<day>`; `python registry/tools/on.py <day> odluka-2024-1180`).
 
 ## Decisions made by hand
 

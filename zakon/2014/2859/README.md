@@ -18,7 +18,7 @@ Zakon o izmjenama i dopunama Zakona o kaznenom postupku · 1 versions, from 2014
 | čl. 12 | [clanak-012.md](clanak-012.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2014-2859` (tags `zakon-2014-2859/<day>`; `python tools/on.py <day> zakon-2014-2859`).
+Act id: `zakon-2014-2859` (tags `zakon-2014-2859/<day>`; `python registry/tools/on.py <day> zakon-2014-2859`).
 
 ## Decisions made by hand
 

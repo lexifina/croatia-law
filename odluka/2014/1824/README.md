@@ -8,7 +8,7 @@ Odluka o izmjeni i dopuni Odluke o davanju Lučkoj upravi Pula na privremeno upr
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2014-1824` (tags `odluka-2014-1824/<day>`; `python tools/on.py <day> odluka-2014-1824`).
+Act id: `odluka-2014-1824` (tags `odluka-2014-1824/<day>`; `python registry/tools/on.py <day> odluka-2014-1824`).
 
 ## Decisions made by hand
 

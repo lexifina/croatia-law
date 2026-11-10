@@ -28,7 +28,7 @@ Zakon o izmjenama i dopuni Zakona o sprječavanju unošenja i širenja stranih t
 | čl. 22 | [clanak-022.md](clanak-022.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2019-275` (tags `zakon-2019-275/<day>`; `python tools/on.py <day> zakon-2019-275`).
+Act id: `zakon-2019-275` (tags `zakon-2019-275/<day>`; `python registry/tools/on.py <day> zakon-2019-275`).
 
 ## Decisions made by hand
 

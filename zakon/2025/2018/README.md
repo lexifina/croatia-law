@@ -20,7 +20,7 @@ Zakon o izmjenama i dopunama Kaznenog zakona · 1 versions, from 2025-11-13 (lat
 | čl. 14 | [clanak-014.md](clanak-014.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2025-2018` (tags `zakon-2025-2018/<day>`; `python tools/on.py <day> zakon-2025-2018`).
+Act id: `zakon-2025-2018` (tags `zakon-2025-2018/<day>`; `python registry/tools/on.py <day> zakon-2025-2018`).
 
 ## Decisions made by hand
 

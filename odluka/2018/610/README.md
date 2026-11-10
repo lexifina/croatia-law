@@ -8,7 +8,7 @@ Odluka o izmjenama i dopunama Odluke o osnivanju Nacionalnog odbora za suzbijanj
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2018-610` (tags `odluka-2018-610/<day>`; `python tools/on.py <day> odluka-2018-610`).
+Act id: `odluka-2018-610` (tags `odluka-2018-610/<day>`; `python registry/tools/on.py <day> odluka-2018-610`).
 
 ## Decisions made by hand
 

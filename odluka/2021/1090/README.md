@@ -10,7 +10,7 @@ Odluka o izmjeni Odluke o pravilima rada Nacionalnoga klirinškog sustava · 1 v
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2021-1090` (tags `odluka-2021-1090/<day>`; `python tools/on.py <day> odluka-2021-1090`).
+Act id: `odluka-2021-1090` (tags `odluka-2021-1090/<day>`; `python registry/tools/on.py <day> odluka-2021-1090`).
 
 ## Decisions made by hand
 

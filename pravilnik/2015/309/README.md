@@ -17,7 +17,7 @@ Pravilnik o uvjetima i načinu obavljanja djelatnosti faktoring-društva · 1 ve
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2015-309` (tags `pravilnik-2015-309/<day>`; `python tools/on.py <day> pravilnik-2015-309`).
+Act id: `pravilnik-2015-309` (tags `pravilnik-2015-309/<day>`; `python registry/tools/on.py <day> pravilnik-2015-309`).
 
 ## Decisions made by hand
 

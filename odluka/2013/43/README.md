@@ -9,7 +9,7 @@ Odluka o objavljivanju pravila o državnim potporama sektoru brodogradnje · 1 v
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2013-43` (tags `odluka-2013-43/<day>`; `python tools/on.py <day> odluka-2013-43`).
+Act id: `odluka-2013-43` (tags `odluka-2013-43/<day>`; `python registry/tools/on.py <day> odluka-2013-43`).
 
 ## Decisions made by hand
 

@@ -8,7 +8,7 @@ Odluka o popisu izvornih i ugroženih pasmina domaćih životinja · 1 versions,
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2021-844` (tags `odluka-2021-844/<day>`; `python tools/on.py <day> odluka-2021-844`).
+Act id: `odluka-2021-844` (tags `odluka-2021-844/<day>`; `python registry/tools/on.py <day> odluka-2021-844`).
 
 ## Status
 

@@ -22,7 +22,7 @@ Pravilnik o provedbi Programa državne potpore za proizvođače u sektorima voć
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2024-668` (tags `pravilnik-2024-668/<day>`; `python tools/on.py <day> pravilnik-2024-668`).
+Act id: `pravilnik-2024-668` (tags `pravilnik-2024-668/<day>`; `python registry/tools/on.py <day> pravilnik-2024-668`).
 
 ## Decisions made by hand
 

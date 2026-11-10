@@ -14,7 +14,7 @@ Uredba o određivanju lučkog područja luke Vukovar · 1 versions, from 2018-03
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2018-421` (tags `uredba-2018-421/<day>`; `python tools/on.py <day> uredba-2018-421`).
+Act id: `uredba-2018-421` (tags `uredba-2018-421/<day>`; `python registry/tools/on.py <day> uredba-2018-421`).
 
 ## Decisions made by hand
 

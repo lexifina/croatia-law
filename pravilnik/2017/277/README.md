@@ -11,7 +11,7 @@ Pravilnik o izmjenama i dopunama Pravilnika o mjerilima za dodjelu nagrada sport
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2017-277` (tags `pravilnik-2017-277/<day>`; `python tools/on.py <day> pravilnik-2017-277`).
+Act id: `pravilnik-2017-277` (tags `pravilnik-2017-277/<day>`; `python registry/tools/on.py <day> pravilnik-2017-277`).
 
 ## Decisions made by hand
 

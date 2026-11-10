@@ -22,7 +22,7 @@ Pravilnik o uvjetima za članstvo u upravi i nadzornom odboru društva za upravl
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2017-938` (tags `pravilnik-2017-938/<day>`; `python tools/on.py <day> pravilnik-2017-938`).
+Act id: `pravilnik-2017-938` (tags `pravilnik-2017-938/<day>`; `python registry/tools/on.py <day> pravilnik-2017-938`).
 
 ## Status
 

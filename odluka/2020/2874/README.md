@@ -10,7 +10,7 @@ Odluka o izmjenama Odluke o porezima Grada Novske · 1 versions, from 2021-01-01
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2020-2874` (tags `odluka-2020-2874/<day>`; `python tools/on.py <day> odluka-2020-2874`).
+Act id: `odluka-2020-2874` (tags `odluka-2020-2874/<day>`; `python registry/tools/on.py <day> odluka-2020-2874`).
 
 ## Decisions made by hand
 

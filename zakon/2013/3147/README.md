@@ -29,7 +29,7 @@ Zakon o izmjenama i dopunama Zakona o Uredu za suzbijanje korupcije i organizira
 | čl. 23 | [clanak-023.md](clanak-023.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2013-3147` (tags `zakon-2013-3147/<day>`; `python tools/on.py <day> zakon-2013-3147`).
+Act id: `zakon-2013-3147` (tags `zakon-2013-3147/<day>`; `python registry/tools/on.py <day> zakon-2013-3147`).
 
 ## Decisions made by hand
 

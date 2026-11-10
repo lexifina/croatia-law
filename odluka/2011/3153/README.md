@@ -7,7 +7,7 @@ Odluka Vijeća za elektroničke medije, urbroj: 567-02/01-11-01 od 16. prosinca 
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 
-Act id: `odluka-2011-3153` (tags `odluka-2011-3153/<day>`; `python tools/on.py <day> odluka-2011-3153`).
+Act id: `odluka-2011-3153` (tags `odluka-2011-3153/<day>`; `python registry/tools/on.py <day> odluka-2011-3153`).
 
 ## Status
 

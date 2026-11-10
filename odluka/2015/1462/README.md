@@ -9,7 +9,7 @@ Odluka o stavljanju izvan snage Pravilnika o uvjetima koje moraju ispunjavati ko
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2015-1462` (tags `odluka-2015-1462/<day>`; `python tools/on.py <day> odluka-2015-1462`).
+Act id: `odluka-2015-1462` (tags `odluka-2015-1462/<day>`; `python registry/tools/on.py <day> odluka-2015-1462`).
 
 ## Decisions made by hand
 

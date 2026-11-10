@@ -16,7 +16,7 @@ Pravilnik o stručnom usavršavanju u zatvorskom sustavu · 1 versions, from 202
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2021-2247` (tags `pravilnik-2021-2247/<day>`; `python tools/on.py <day> pravilnik-2021-2247`).
+Act id: `pravilnik-2021-2247` (tags `pravilnik-2021-2247/<day>`; `python registry/tools/on.py <day> pravilnik-2021-2247`).
 
 ## Decisions made by hand
 

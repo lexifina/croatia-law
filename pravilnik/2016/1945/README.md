@@ -9,7 +9,7 @@ Pravilnik o izmjeni i dopuni Pravilnika o sadržaju zahtjeva za izdavanje odobre
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2016-1945` (tags `pravilnik-2016-1945/<day>`; `python tools/on.py <day> pravilnik-2016-1945`).
+Act id: `pravilnik-2016-1945` (tags `pravilnik-2016-1945/<day>`; `python registry/tools/on.py <day> pravilnik-2016-1945`).
 
 ## Decisions made by hand
 

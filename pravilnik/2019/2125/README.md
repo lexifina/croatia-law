@@ -14,7 +14,7 @@ Pravilnik o izmjenama Pravilnika o utvrđivanju lista stečajnih upravitelja · 
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2019-2125` (tags `pravilnik-2019-2125/<day>`; `python tools/on.py <day> pravilnik-2019-2125`).
+Act id: `pravilnik-2019-2125` (tags `pravilnik-2019-2125/<day>`; `python registry/tools/on.py <day> pravilnik-2019-2125`).
 
 ## Decisions made by hand
 

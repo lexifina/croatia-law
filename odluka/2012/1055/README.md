@@ -8,7 +8,7 @@ Odluka o kriterijima za upis ulovnih ribarskih plovila u registar ICCAT-a (ICCAT
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2012-1055` (tags `odluka-2012-1055/<day>`; `python tools/on.py <day> odluka-2012-1055`).
+Act id: `odluka-2012-1055` (tags `odluka-2012-1055/<day>`; `python registry/tools/on.py <day> odluka-2012-1055`).
 
 ## Decisions made by hand
 

@@ -9,7 +9,7 @@ Odluka o davanju suglasnosti na Financijski plan HŽ Infrastrukture za 2022. god
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2021-2370` (tags `odluka-2021-2370/<day>`; `python tools/on.py <day> odluka-2021-2370`).
+Act id: `odluka-2021-2370` (tags `odluka-2021-2370/<day>`; `python registry/tools/on.py <day> odluka-2021-2370`).
 
 ## Decisions made by hand
 

@@ -13,7 +13,7 @@ Uredba o izmjeni i dopuni Uredbe o Stručnoj službi Savjeta za nacionalne manji
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2012-1860` (tags `uredba-2012-1860/<day>`; `python tools/on.py <day> uredba-2012-1860`).
+Act id: `uredba-2012-1860` (tags `uredba-2012-1860/<day>`; `python registry/tools/on.py <day> uredba-2012-1860`).
 
 ## Decisions made by hand
 

@@ -27,7 +27,7 @@ Uredba o vrijednosti iznosa za utvrđivanje naknade za pružanje sekundarne prav
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2025-2106` (tags `uredba-2025-2106/<day>`; `python tools/on.py <day> uredba-2025-2106`).
+Act id: `uredba-2025-2106` (tags `uredba-2025-2106/<day>`; `python registry/tools/on.py <day> uredba-2025-2106`).
 
 ## Decisions made by hand
 

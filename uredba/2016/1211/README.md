@@ -5,7 +5,7 @@ Uredba o uvjetima, načinu i postupku raspolaganja tražbinama Republike Hrvatsk
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `uredba-2016-1211` (tags `uredba-2016-1211/<day>`; `python tools/on.py <day> uredba-2016-1211`).
+Act id: `uredba-2016-1211` (tags `uredba-2016-1211/<day>`; `python registry/tools/on.py <day> uredba-2016-1211`).
 
 ## Decisions made by hand
 

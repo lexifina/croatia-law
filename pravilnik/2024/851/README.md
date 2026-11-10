@@ -9,7 +9,7 @@ Pravilnik o dopuni Pravilnika o određivanju područja s prirodnim i ostalim ogr
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2024-851` (tags `pravilnik-2024-851/<day>`; `python tools/on.py <day> pravilnik-2024-851`).
+Act id: `pravilnik-2024-851` (tags `pravilnik-2024-851/<day>`; `python registry/tools/on.py <day> pravilnik-2024-851`).
 
 ## Decisions made by hand
 

@@ -8,7 +8,7 @@ Odluka o načinu utvrđivanja visine novčane pomoći osobi osiguranoj na produ�
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2014-212` (tags `odluka-2014-212/<day>`; `python tools/on.py <day> odluka-2014-212`).
+Act id: `odluka-2014-212` (tags `odluka-2014-212/<day>`; `python registry/tools/on.py <day> odluka-2014-212`).
 
 ## Decisions made by hand
 

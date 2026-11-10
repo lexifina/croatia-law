@@ -22,7 +22,7 @@ Zakon o izmjenama i dopunama Zakona o potrošačkom kreditiranju · 1 versions, 
 | čl. 16 | [clanak-016.md](clanak-016.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2012-2428` (tags `zakon-2012-2428/<day>`; `python tools/on.py <day> zakon-2012-2428`).
+Act id: `zakon-2012-2428` (tags `zakon-2012-2428/<day>`; `python registry/tools/on.py <day> zakon-2012-2428`).
 
 ## Status
 

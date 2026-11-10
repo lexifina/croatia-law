@@ -13,7 +13,7 @@ Uredba o izmjenama i dopuni Uredbe o osnivanju Središnje agencije za financiran
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2012-690` (tags `uredba-2012-690/<day>`; `python tools/on.py <day> uredba-2012-690`).
+Act id: `uredba-2012-690` (tags `uredba-2012-690/<day>`; `python registry/tools/on.py <day> uredba-2012-690`).
 
 ## Decisions made by hand
 

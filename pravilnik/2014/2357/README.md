@@ -9,7 +9,7 @@ Pravilnik o stavljanju izvan snage Pravilnika o obavljanju pregleda inozemnih zr
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2014-2357` (tags `pravilnik-2014-2357/<day>`; `python tools/on.py <day> pravilnik-2014-2357`).
+Act id: `pravilnik-2014-2357` (tags `pravilnik-2014-2357/<day>`; `python registry/tools/on.py <day> pravilnik-2014-2357`).
 
 ## Decisions made by hand
 

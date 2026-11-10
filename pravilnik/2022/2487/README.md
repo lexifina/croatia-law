@@ -9,7 +9,7 @@ Pravilnik o izmjeni Pravilnika o reviziji u mirovinskom osiguravajućem društvu
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2022-2487` (tags `pravilnik-2022-2487/<day>`; `python tools/on.py <day> pravilnik-2022-2487`).
+Act id: `pravilnik-2022-2487` (tags `pravilnik-2022-2487/<day>`; `python registry/tools/on.py <day> pravilnik-2022-2487`).
 
 ## Decisions made by hand
 

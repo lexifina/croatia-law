@@ -11,7 +11,7 @@ Pravilnik o kontnom planu mirovinskog osiguravajućeg društva · 1 versions, fr
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2023-523` (tags `pravilnik-2023-523/<day>`; `python tools/on.py <day> pravilnik-2023-523`).
+Act id: `pravilnik-2023-523` (tags `pravilnik-2023-523/<day>`; `python registry/tools/on.py <day> pravilnik-2023-523`).
 
 ## Decisions made by hand
 

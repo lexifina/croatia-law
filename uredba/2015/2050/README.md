@@ -31,7 +31,7 @@ Uredba o postupku službenog obavješćivanja o tehničkim propisima i propisima
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2015-2050` (tags `uredba-2015-2050/<day>`; `python tools/on.py <day> uredba-2015-2050`).
+Act id: `uredba-2015-2050` (tags `uredba-2015-2050/<day>`; `python registry/tools/on.py <day> uredba-2015-2050`).
 
 ## Status
 

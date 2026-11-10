@@ -21,7 +21,7 @@ Zakon o izmjenama i dopunama Zakona o Hrvatskoj gorskoj službi spašavanja · 1
 | čl. 15 | [clanak-015.md](clanak-015.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2015-2123` (tags `zakon-2015-2123/<day>`; `python tools/on.py <day> zakon-2015-2123`).
+Act id: `zakon-2015-2123` (tags `zakon-2015-2123/<day>`; `python registry/tools/on.py <day> zakon-2015-2123`).
 
 ## Decisions made by hand
 

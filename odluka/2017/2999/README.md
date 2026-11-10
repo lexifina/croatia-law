@@ -23,7 +23,7 @@ Odluka o gradskim porezima Grada Lipika · 1 versions, from 2018-01-01 (latest i
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2017-2999` (tags `odluka-2017-2999/<day>`; `python tools/on.py <day> odluka-2017-2999`).
+Act id: `odluka-2017-2999` (tags `odluka-2017-2999/<day>`; `python registry/tools/on.py <day> odluka-2017-2999`).
 
 ## Decisions made by hand
 

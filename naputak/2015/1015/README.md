@@ -8,7 +8,7 @@ Naputak o načinu i uvjetima korištenja sredstava od poreza na dohodak namijenj
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `naputak-2015-1015` (tags `naputak-2015-1015/<day>`; `python tools/on.py <day> naputak-2015-1015`).
+Act id: `naputak-2015-1015` (tags `naputak-2015-1015/<day>`; `python registry/tools/on.py <day> naputak-2015-1015`).
 
 ## Decisions made by hand
 

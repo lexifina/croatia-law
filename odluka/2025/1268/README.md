@@ -8,7 +8,7 @@ Odluka o donošenju Nacionalnog programa istraživanja kritičnih sirovina 2026.
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2025-1268` (tags `odluka-2025-1268/<day>`; `python tools/on.py <day> odluka-2025-1268`).
+Act id: `odluka-2025-1268` (tags `odluka-2025-1268/<day>`; `python registry/tools/on.py <day> odluka-2025-1268`).
 
 ## Decisions made by hand
 

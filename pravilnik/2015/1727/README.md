@@ -36,7 +36,7 @@ Pravilnik o registru onečišćavanja okoliša · 1 versions, from 2015-08-15 (l
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2015-1727` (tags `pravilnik-2015-1727/<day>`; `python tools/on.py <day> pravilnik-2015-1727`).
+Act id: `pravilnik-2015-1727` (tags `pravilnik-2015-1727/<day>`; `python registry/tools/on.py <day> pravilnik-2015-1727`).
 
 ## Status
 

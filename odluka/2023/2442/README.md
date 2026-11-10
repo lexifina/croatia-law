@@ -10,7 +10,7 @@ Odluka o visini poreznih stopa poreza na dohodak Općine Dugi Rat · 1 versions,
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2023-2442` (tags `odluka-2023-2442/<day>`; `python tools/on.py <day> odluka-2023-2442`).
+Act id: `odluka-2023-2442` (tags `odluka-2023-2442/<day>`; `python registry/tools/on.py <day> odluka-2023-2442`).
 
 ## Decisions made by hand
 

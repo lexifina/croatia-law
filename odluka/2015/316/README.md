@@ -8,7 +8,7 @@ Odluka o davanju suglasnosti Vladi Republike Hrvatske na donošenje Obavijesti o
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2015-316` (tags `odluka-2015-316/<day>`; `python tools/on.py <day> odluka-2015-316`).
+Act id: `odluka-2015-316` (tags `odluka-2015-316/<day>`; `python registry/tools/on.py <day> odluka-2015-316`).
 
 ## Decisions made by hand
 

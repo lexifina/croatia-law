@@ -20,7 +20,7 @@ Zakon o izmjenama i dopuni Zakona o stečaju potrošača · 1 versions, from 202
 | čl. 14 | [clanak-014.md](clanak-014.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2026-834` (tags `zakon-2026-834/<day>`; `python tools/on.py <day> zakon-2026-834`).
+Act id: `zakon-2026-834` (tags `zakon-2026-834/<day>`; `python registry/tools/on.py <day> zakon-2026-834`).
 
 ## Decisions made by hand
 

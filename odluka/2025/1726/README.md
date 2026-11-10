@@ -8,7 +8,7 @@ Odluka o nastavku provedbe mjere za smanjenje utjecaja porasta cijena energenata
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2025-1726` (tags `odluka-2025-1726/<day>`; `python tools/on.py <day> odluka-2025-1726`).
+Act id: `odluka-2025-1726` (tags `odluka-2025-1726/<day>`; `python registry/tools/on.py <day> odluka-2025-1726`).
 
 ## Status
 

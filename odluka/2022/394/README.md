@@ -8,7 +8,7 @@ Odluka o izmjenama Odluke o iznosu tarifnih stavki za distribuciju plina · 1 ve
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2022-394` (tags `odluka-2022-394/<day>`; `python tools/on.py <day> odluka-2022-394`).
+Act id: `odluka-2022-394` (tags `odluka-2022-394/<day>`; `python registry/tools/on.py <day> odluka-2022-394`).
 
 ## Decisions made by hand
 

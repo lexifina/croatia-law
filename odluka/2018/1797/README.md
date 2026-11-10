@@ -5,7 +5,7 @@ Odluka o visini otpremnine za djelatne vojne osobe kojima služba prestane zbog 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `odluka-2018-1797` (tags `odluka-2018-1797/<day>`; `python tools/on.py <day> odluka-2018-1797`).
+Act id: `odluka-2018-1797` (tags `odluka-2018-1797/<day>`; `python registry/tools/on.py <day> odluka-2018-1797`).
 
 ## Decisions made by hand
 

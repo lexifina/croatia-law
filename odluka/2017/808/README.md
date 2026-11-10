@@ -8,7 +8,7 @@ Odluka o raspisivanju izbora za općinske načelnike, gradonačelnike i župane 
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2017-808` (tags `odluka-2017-808/<day>`; `python tools/on.py <day> odluka-2017-808`).
+Act id: `odluka-2017-808` (tags `odluka-2017-808/<day>`; `python registry/tools/on.py <day> odluka-2017-808`).
 
 ## Status
 

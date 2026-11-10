@@ -5,7 +5,7 @@ Uredba o unutarnjem ustrojstvu Državnog ureda za obnovu i stambeno zbrinjavanje
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `uredba-2015-957` (tags `uredba-2015-957/<day>`; `python tools/on.py <day> uredba-2015-957`).
+Act id: `uredba-2015-957` (tags `uredba-2015-957/<day>`; `python registry/tools/on.py <day> uredba-2015-957`).
 
 ## Decisions made by hand
 

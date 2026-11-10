@@ -7,7 +7,7 @@ Odluka Agencije za medije klasa: UP/I-614-03/26-02/03, urbroj: 114-03/04-26-04 o
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 
-Act id: `odluka-2026-1315` (tags `odluka-2026-1315/<day>`; `python tools/on.py <day> odluka-2026-1315`).
+Act id: `odluka-2026-1315` (tags `odluka-2026-1315/<day>`; `python registry/tools/on.py <day> odluka-2026-1315`).
 
 ## Decisions made by hand
 

@@ -9,7 +9,7 @@ Uredba o dopuni Uredbe o opsegu i sadržaju odgovornosti te ovlastima tijela nad
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2012-2523` (tags `uredba-2012-2523/<day>`; `python tools/on.py <day> uredba-2012-2523`).
+Act id: `uredba-2012-2523` (tags `uredba-2012-2523/<day>`; `python registry/tools/on.py <day> uredba-2012-2523`).
 
 ## Decisions made by hand
 

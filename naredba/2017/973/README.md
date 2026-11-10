@@ -9,7 +9,7 @@ Naredba o izmjeni Naredbe o visini naknade za utvrđivanje sposobnosti brodica z
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `naredba-2017-973` (tags `naredba-2017-973/<day>`; `python tools/on.py <day> naredba-2017-973`).
+Act id: `naredba-2017-973` (tags `naredba-2017-973/<day>`; `python registry/tools/on.py <day> naredba-2017-973`).
 
 ## Decisions made by hand
 

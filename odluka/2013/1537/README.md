@@ -8,7 +8,7 @@ Odluka o postavljanju Jamesa B. Oatesa za počasnog konzula Republike Hrvatske u
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2013-1537` (tags `odluka-2013-1537/<day>`; `python tools/on.py <day> odluka-2013-1537`).
+Act id: `odluka-2013-1537` (tags `odluka-2013-1537/<day>`; `python registry/tools/on.py <day> odluka-2013-1537`).
 
 ## Decisions made by hand
 

@@ -11,7 +11,7 @@ Odluka o zaštiti novčanih sredstava imatelja elektroničkog novca · 1 version
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2011-60` (tags `odluka-2011-60/<day>`; `python tools/on.py <day> odluka-2011-60`).
+Act id: `odluka-2011-60` (tags `odluka-2011-60/<day>`; `python registry/tools/on.py <day> odluka-2011-60`).
 
 ## Status
 

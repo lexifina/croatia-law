@@ -87,7 +87,7 @@ Statut Turističke zajednice Zagrebačke županije · 1 versions, from 2020-05-2
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `statut-2020-1200` (tags `statut-2020-1200/<day>`; `python tools/on.py <day> statut-2020-1200`).
+Act id: `statut-2020-1200` (tags `statut-2020-1200/<day>`; `python registry/tools/on.py <day> statut-2020-1200`).
 
 ## Decisions made by hand
 

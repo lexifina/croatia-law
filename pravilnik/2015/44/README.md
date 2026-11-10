@@ -9,7 +9,7 @@ Pravilnik o dopuni Pravilnika o uvjetima i načinu unošenja određenog bilja i 
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2015-44` (tags `pravilnik-2015-44/<day>`; `python tools/on.py <day> pravilnik-2015-44`).
+Act id: `pravilnik-2015-44` (tags `pravilnik-2015-44/<day>`; `python registry/tools/on.py <day> pravilnik-2015-44`).
 
 ## Decisions made by hand
 

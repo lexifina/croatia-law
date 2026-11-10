@@ -5,7 +5,7 @@ Pravilnik o izračunu, visini i naplati naknada koje se plaćaju Hrvatskoj agenc
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `pravilnik-2024-2523` (tags `pravilnik-2024-2523/<day>`; `python tools/on.py <day> pravilnik-2024-2523`).
+Act id: `pravilnik-2024-2523` (tags `pravilnik-2024-2523/<day>`; `python registry/tools/on.py <day> pravilnik-2024-2523`).
 
 ## Decisions made by hand
 

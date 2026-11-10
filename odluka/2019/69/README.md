@@ -9,7 +9,7 @@ Odluka o Listi izmiritelja Centra za mirenje pri Hrvatskoj komori inženjera ele
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2019-69` (tags `odluka-2019-69/<day>`; `python tools/on.py <day> odluka-2019-69`).
+Act id: `odluka-2019-69` (tags `odluka-2019-69/<day>`; `python registry/tools/on.py <day> odluka-2019-69`).
 
 ## Decisions made by hand
 

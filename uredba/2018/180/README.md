@@ -30,7 +30,7 @@ Uredba o izdavanju energetskih suglasnosti i utvrđivanju uvjeta i rokova priklj
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2018-180` (tags `uredba-2018-180/<day>`; `python tools/on.py <day> uredba-2018-180`).
+Act id: `uredba-2018-180` (tags `uredba-2018-180/<day>`; `python registry/tools/on.py <day> uredba-2018-180`).
 
 ## Status
 

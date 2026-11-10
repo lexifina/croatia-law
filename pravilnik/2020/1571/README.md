@@ -28,7 +28,7 @@ Pravilnik o izdavanju odobrenja za rad, organizacijskim zahtjevima i nadzornim i
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2020-1571` (tags `pravilnik-2020-1571/<day>`; `python tools/on.py <day> pravilnik-2020-1571`).
+Act id: `pravilnik-2020-1571` (tags `pravilnik-2020-1571/<day>`; `python registry/tools/on.py <day> pravilnik-2020-1571`).
 
 ## Status
 

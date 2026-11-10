@@ -9,7 +9,7 @@ Odluka o kriterijima raspodjele državne kvote i trajne individualne kvote u 201
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2014-226` (tags `odluka-2014-226/<day>`; `python tools/on.py <day> odluka-2014-226`).
+Act id: `odluka-2014-226` (tags `odluka-2014-226/<day>`; `python registry/tools/on.py <day> odluka-2014-226`).
 
 ## Decisions made by hand
 

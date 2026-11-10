@@ -30,7 +30,7 @@ Zakon o izmjenama i dopunama Zakona o pravosudnoj suradnji u kaznenim stvarima s
 | čl. 24 | [clanak-024.md](clanak-024.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2024-297` (tags `zakon-2024-297/<day>`; `python tools/on.py <day> zakon-2024-297`).
+Act id: `zakon-2024-297` (tags `zakon-2024-297/<day>`; `python registry/tools/on.py <day> zakon-2024-297`).
 
 ## Decisions made by hand
 

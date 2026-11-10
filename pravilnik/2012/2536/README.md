@@ -21,7 +21,7 @@ Pravilnik o sadržaju i obveznim prostornim pokazateljima izvješća o stanju u 
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2012-2536` (tags `pravilnik-2012-2536/<day>`; `python tools/on.py <day> pravilnik-2012-2536`).
+Act id: `pravilnik-2012-2536` (tags `pravilnik-2012-2536/<day>`; `python registry/tools/on.py <day> pravilnik-2012-2536`).
 
 ## Status
 

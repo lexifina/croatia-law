@@ -12,7 +12,7 @@ Uredba o izmjenama Uredbe o jediničnim naknadama, korektivnim koeficijentima i 
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2021-26` (tags `uredba-2021-26/<day>`; `python tools/on.py <day> uredba-2021-26`).
+Act id: `uredba-2021-26` (tags `uredba-2021-26/<day>`; `python registry/tools/on.py <day> uredba-2021-26`).
 
 ## Decisions made by hand
 

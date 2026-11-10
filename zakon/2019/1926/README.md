@@ -8,7 +8,7 @@ Zakon o izmjeni Zakona o izborima zastupnika u Hrvatski sabor · 1 versions, fro
 | čl. 2 | [clanak-002.md](clanak-002.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2019-1926` (tags `zakon-2019-1926/<day>`; `python tools/on.py <day> zakon-2019-1926`).
+Act id: `zakon-2019-1926` (tags `zakon-2019-1926/<day>`; `python registry/tools/on.py <day> zakon-2019-1926`).
 
 ## Decisions made by hand
 

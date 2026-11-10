@@ -9,7 +9,7 @@ Pravilnik o dopuni Pravilnika o službenim sjedištima javnih bilježnika · 1 v
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2011-2442` (tags `pravilnik-2011-2442/<day>`; `python tools/on.py <day> pravilnik-2011-2442`).
+Act id: `pravilnik-2011-2442` (tags `pravilnik-2011-2442/<day>`; `python registry/tools/on.py <day> pravilnik-2011-2442`).
 
 ## Decisions made by hand
 

@@ -12,7 +12,7 @@ Uredba o izmjenama i dopuni Uredbe o načelima za unutarnje ustrojstvo tijela dr
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2012-487` (tags `uredba-2012-487/<day>`; `python tools/on.py <day> uredba-2012-487`).
+Act id: `uredba-2012-487` (tags `uredba-2012-487/<day>`; `python registry/tools/on.py <day> uredba-2012-487`).
 
 ## Decisions made by hand
 

@@ -9,7 +9,7 @@ Odluka o donošenju Akcijskog plana za 2015. i 2016. godinu uz Strategiju suzbij
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2015-1525` (tags `odluka-2015-1525/<day>`; `python tools/on.py <day> odluka-2015-1525`).
+Act id: `odluka-2015-1525` (tags `odluka-2015-1525/<day>`; `python registry/tools/on.py <day> odluka-2015-1525`).
 
 ## Decisions made by hand
 

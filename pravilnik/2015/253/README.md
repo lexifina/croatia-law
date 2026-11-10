@@ -10,7 +10,7 @@ Pravilnik o listi psihijatrijskih ustanova koje ispunjavaju uvjete za smještaj 
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2015-253` (tags `pravilnik-2015-253/<day>`; `python tools/on.py <day> pravilnik-2015-253`).
+Act id: `pravilnik-2015-253` (tags `pravilnik-2015-253/<day>`; `python registry/tools/on.py <day> pravilnik-2015-253`).
 
 ## Status
 

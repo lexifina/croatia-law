@@ -8,7 +8,7 @@ Odluka o katastarskoj izmjeri na području Općine Zrinski Topolovac za dio kata
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2023-123` (tags `odluka-2023-123/<day>`; `python tools/on.py <day> odluka-2023-123`).
+Act id: `odluka-2023-123` (tags `odluka-2023-123/<day>`; `python registry/tools/on.py <day> odluka-2023-123`).
 
 ## Decisions made by hand
 

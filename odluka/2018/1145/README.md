@@ -8,7 +8,7 @@ Odluka o uvjetima za prijam učenika u učeničke domove u školskoj godini 2018
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2018-1145` (tags `odluka-2018-1145/<day>`; `python tools/on.py <day> odluka-2018-1145`).
+Act id: `odluka-2018-1145` (tags `odluka-2018-1145/<day>`; `python registry/tools/on.py <day> odluka-2018-1145`).
 
 ## Decisions made by hand
 

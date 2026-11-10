@@ -34,7 +34,7 @@ Pravilnik o ovlaštenim izvršiteljima na području nuklearne sigurnosti · 1 ve
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2017-667` (tags `pravilnik-2017-667/<day>`; `python tools/on.py <day> pravilnik-2017-667`).
+Act id: `pravilnik-2017-667` (tags `pravilnik-2017-667/<day>`; `python registry/tools/on.py <day> pravilnik-2017-667`).
 
 ## Status
 

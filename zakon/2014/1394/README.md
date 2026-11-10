@@ -19,7 +19,7 @@ Zakon o izmjenama i dopunama Zakona o reguliranim profesijama i priznavanju inoz
 | čl. 13 | [clanak-013.md](clanak-013.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2014-1394` (tags `zakon-2014-1394/<day>`; `python tools/on.py <day> zakon-2014-1394`).
+Act id: `zakon-2014-1394` (tags `zakon-2014-1394/<day>`; `python registry/tools/on.py <day> zakon-2014-1394`).
 
 ## Decisions made by hand
 

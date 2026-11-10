@@ -30,7 +30,7 @@ Pravilnik o izmjenama i dopunama Pravilnika o napredovanju učitelja, nastavnika
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2021-679` (tags `pravilnik-2021-679/<day>`; `python tools/on.py <day> pravilnik-2021-679`).
+Act id: `pravilnik-2021-679` (tags `pravilnik-2021-679/<day>`; `python registry/tools/on.py <day> pravilnik-2021-679`).
 
 ## Decisions made by hand
 

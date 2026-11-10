@@ -8,7 +8,7 @@ Odluka o izmjenama Odluke o kamatnim stopama i naknadama Hrvatske narodne banke 
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2011-664` (tags `odluka-2011-664/<day>`; `python tools/on.py <day> odluka-2011-664`).
+Act id: `odluka-2011-664` (tags `odluka-2011-664/<day>`; `python registry/tools/on.py <day> odluka-2011-664`).
 
 ## Decisions made by hand
 

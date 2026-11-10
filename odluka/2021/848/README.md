@@ -5,7 +5,7 @@ Odluka o uvođenju nužnih epidemioloških mjera za područje Grada Metkovića, 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `odluka-2021-848` (tags `odluka-2021-848/<day>`; `python tools/on.py <day> odluka-2021-848`).
+Act id: `odluka-2021-848` (tags `odluka-2021-848/<day>`; `python registry/tools/on.py <day> odluka-2021-848`).
 
 ## Decisions made by hand
 

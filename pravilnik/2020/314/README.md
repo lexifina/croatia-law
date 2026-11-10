@@ -16,7 +16,7 @@ Pravilnik o kartografskim znakovima · 1 versions, from 2020-02-15 (latest in fo
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2020-314` (tags `pravilnik-2020-314/<day>`; `python tools/on.py <day> pravilnik-2020-314`).
+Act id: `pravilnik-2020-314` (tags `pravilnik-2020-314/<day>`; `python registry/tools/on.py <day> pravilnik-2020-314`).
 
 ## Decisions made by hand
 

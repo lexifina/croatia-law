@@ -22,7 +22,7 @@ Zakon o izmjenama Zakona o Državnom inspektoratu · 1 versions, from 2011-05-07
 | čl. 16 | [clanak-016.md](clanak-016.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2011-1094` (tags `zakon-2011-1094/<day>`; `python tools/on.py <day> zakon-2011-1094`).
+Act id: `zakon-2011-1094` (tags `zakon-2011-1094/<day>`; `python registry/tools/on.py <day> zakon-2011-1094`).
 
 ## Decisions made by hand
 

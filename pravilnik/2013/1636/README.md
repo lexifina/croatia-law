@@ -9,7 +9,7 @@ Pravilnik o izmjenama i dopunama Pravilnika o porezu na dohodak · 1 versions, f
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2013-1636` (tags `pravilnik-2013-1636/<day>`; `python tools/on.py <day> pravilnik-2013-1636`).
+Act id: `pravilnik-2013-1636` (tags `pravilnik-2013-1636/<day>`; `python registry/tools/on.py <day> pravilnik-2013-1636`).
 
 ## Decisions made by hand
 

@@ -9,7 +9,7 @@ Pravilnik o stavljanju izvan snage Pravilnika o usklađivanju tehničkih propisa
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2019-595` (tags `pravilnik-2019-595/<day>`; `python tools/on.py <day> pravilnik-2019-595`).
+Act id: `pravilnik-2019-595` (tags `pravilnik-2019-595/<day>`; `python registry/tools/on.py <day> pravilnik-2019-595`).
 
 ## Decisions made by hand
 

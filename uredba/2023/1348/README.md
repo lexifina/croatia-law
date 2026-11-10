@@ -5,7 +5,7 @@ Uredba o unutarnjem ustrojstvu Središnjeg državnog ureda za Hrvate izvan Repub
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `uredba-2023-1348` (tags `uredba-2023-1348/<day>`; `python tools/on.py <day> uredba-2023-1348`).
+Act id: `uredba-2023-1348` (tags `uredba-2023-1348/<day>`; `python registry/tools/on.py <day> uredba-2023-1348`).
 
 ## Decisions made by hand
 

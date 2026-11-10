@@ -12,7 +12,7 @@ Pravilnik o izmjenama Pravilnika o udjelima AIF-ova · 1 versions, from 2020-12-
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2020-2512` (tags `pravilnik-2020-2512/<day>`; `python tools/on.py <day> pravilnik-2020-2512`).
+Act id: `pravilnik-2020-2512` (tags `pravilnik-2020-2512/<day>`; `python registry/tools/on.py <day> pravilnik-2020-2512`).
 
 ## Decisions made by hand
 

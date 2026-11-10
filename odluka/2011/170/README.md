@@ -8,7 +8,7 @@ Odluka o davanju suglasnosti na Izmjene i dopune Statuta Hrvatskog zavoda za zdr
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2011-170` (tags `odluka-2011-170/<day>`; `python tools/on.py <day> odluka-2011-170`).
+Act id: `odluka-2011-170` (tags `odluka-2011-170/<day>`; `python registry/tools/on.py <day> odluka-2011-170`).
 
 ## Decisions made by hand
 

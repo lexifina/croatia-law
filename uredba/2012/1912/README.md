@@ -10,7 +10,7 @@ Uredba o izmjeni Uredbe o plaćama policijskih službenika · 1 versions, from 2
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2012-1912` (tags `uredba-2012-1912/<day>`; `python tools/on.py <day> uredba-2012-1912`).
+Act id: `uredba-2012-1912` (tags `uredba-2012-1912/<day>`; `python registry/tools/on.py <day> uredba-2012-1912`).
 
 ## Decisions made by hand
 

@@ -5,7 +5,7 @@ Pravilnik o državnim potporama sektoru poljoprivrede i ruralnom razvoju · 2 ve
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `pravilnik-2017-1754` (tags `pravilnik-2017-1754/<day>`; `python tools/on.py <day> pravilnik-2017-1754`).
+Act id: `pravilnik-2017-1754` (tags `pravilnik-2017-1754/<day>`; `python registry/tools/on.py <day> pravilnik-2017-1754`).
 
 ## Decisions made by hand
 

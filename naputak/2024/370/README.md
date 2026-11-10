@@ -33,7 +33,7 @@ Naputak o načinu rada registracijskih ureda i načinu vođenja evidencije o izd
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `naputak-2024-370` (tags `naputak-2024-370/<day>`; `python tools/on.py <day> naputak-2024-370`).
+Act id: `naputak-2024-370` (tags `naputak-2024-370/<day>`; `python registry/tools/on.py <day> naputak-2024-370`).
 
 ## Decisions made by hand
 

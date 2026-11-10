@@ -10,7 +10,7 @@ Odluka o izmjenama i dopunama Odluke o ograničenju ulaganja kreditnih instituci
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2013-1333` (tags `odluka-2013-1333/<day>`; `python tools/on.py <day> odluka-2013-1333`).
+Act id: `odluka-2013-1333` (tags `odluka-2013-1333/<day>`; `python registry/tools/on.py <day> odluka-2013-1333`).
 
 ## Decisions made by hand
 

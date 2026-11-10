@@ -9,7 +9,7 @@ Odluka o izmjeni Odluke o visini poreznih stopa godiÅ¡njeg poreza na dohodak OpÄ
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2025-375` (tags `odluka-2025-375/<day>`; `python tools/on.py <day> odluka-2025-375`).
+Act id: `odluka-2025-375` (tags `odluka-2025-375/<day>`; `python registry/tools/on.py <day> odluka-2025-375`).
 
 ## Decisions made by hand
 

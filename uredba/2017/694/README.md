@@ -36,7 +36,7 @@ Uredba o izmjenama i dopunama Uredbe o sprječavanju velikih nesreća koje uklju
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2017-694` (tags `uredba-2017-694/<day>`; `python tools/on.py <day> uredba-2017-694`).
+Act id: `uredba-2017-694` (tags `uredba-2017-694/<day>`; `python registry/tools/on.py <day> uredba-2017-694`).
 
 ## Status
 

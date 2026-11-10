@@ -35,7 +35,7 @@ Zakon o izmjenama i dopunama Zakona o sudovima za mladež · 1 versions, from 20
 | čl. 29 | [clanak-029.md](clanak-029.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2019-2528` (tags `zakon-2019-2528/<day>`; `python tools/on.py <day> zakon-2019-2528`).
+Act id: `zakon-2019-2528` (tags `zakon-2019-2528/<day>`; `python registry/tools/on.py <day> zakon-2019-2528`).
 
 ## Decisions made by hand
 

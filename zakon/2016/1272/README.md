@@ -9,7 +9,7 @@ Zakon o izmjeni i dopuni Zakona o posebnim pravima predsjednika Republike Hrvats
 | čl. 3 | [clanak-003.md](clanak-003.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2016-1272` (tags `zakon-2016-1272/<day>`; `python tools/on.py <day> zakon-2016-1272`).
+Act id: `zakon-2016-1272` (tags `zakon-2016-1272/<day>`; `python registry/tools/on.py <day> zakon-2016-1272`).
 
 ## Decisions made by hand
 

@@ -9,7 +9,7 @@ Odluka o donošenju izmjena i dopuna strukovnog dijela nastavnog plana i program
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2023-1550` (tags `odluka-2023-1550/<day>`; `python tools/on.py <day> odluka-2023-1550`).
+Act id: `odluka-2023-1550` (tags `odluka-2023-1550/<day>`; `python registry/tools/on.py <day> odluka-2023-1550`).
 
 ## Decisions made by hand
 

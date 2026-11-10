@@ -9,7 +9,7 @@ Pravilnik o izmjeni Pravilnika o uvoznim i izvoznim dozvolama za poljoprivredne 
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2012-2608` (tags `pravilnik-2012-2608/<day>`; `python tools/on.py <day> pravilnik-2012-2608`).
+Act id: `pravilnik-2012-2608` (tags `pravilnik-2012-2608/<day>`; `python registry/tools/on.py <day> pravilnik-2012-2608`).
 
 ## Decisions made by hand
 

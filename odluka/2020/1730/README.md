@@ -8,7 +8,7 @@ Odluka o izboru Izvršnog odbora Nacionalne grupe Hrvatskoga sabora pri Interpar
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2020-1730` (tags `odluka-2020-1730/<day>`; `python tools/on.py <day> odluka-2020-1730`).
+Act id: `odluka-2020-1730` (tags `odluka-2020-1730/<day>`; `python registry/tools/on.py <day> odluka-2020-1730`).
 
 ## Status
 

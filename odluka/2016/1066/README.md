@@ -8,7 +8,7 @@ Odluka o osnivanju vijeća za državnu informacijsku infrastrukturu · 1 version
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2016-1066` (tags `odluka-2016-1066/<day>`; `python tools/on.py <day> odluka-2016-1066`).
+Act id: `odluka-2016-1066` (tags `odluka-2016-1066/<day>`; `python registry/tools/on.py <day> odluka-2016-1066`).
 
 ## Status
 

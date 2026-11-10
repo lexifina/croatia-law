@@ -18,7 +18,7 @@ Pravilnik o provođenju tajnog nadzora · 1 versions, from 2023-07-19 (latest in
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2023-1230` (tags `pravilnik-2023-1230/<day>`; `python tools/on.py <day> pravilnik-2023-1230`).
+Act id: `pravilnik-2023-1230` (tags `pravilnik-2023-1230/<day>`; `python registry/tools/on.py <day> pravilnik-2023-1230`).
 
 ## Decisions made by hand
 

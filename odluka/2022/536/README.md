@@ -5,7 +5,7 @@ Odluka o posebnim sigurnosnim mjerama u zdravstvenom sustavu i sustavu socijalne
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `odluka-2022-536` (tags `odluka-2022-536/<day>`; `python tools/on.py <day> odluka-2022-536`).
+Act id: `odluka-2022-536` (tags `odluka-2022-536/<day>`; `python registry/tools/on.py <day> odluka-2022-536`).
 
 ## Decisions made by hand
 

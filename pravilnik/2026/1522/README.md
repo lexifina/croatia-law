@@ -17,7 +17,7 @@ Pravilnik o provedbi Programa potpore za provedbu jesenske sjetve u 2026. godini
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2026-1522` (tags `pravilnik-2026-1522/<day>`; `python tools/on.py <day> pravilnik-2026-1522`).
+Act id: `pravilnik-2026-1522` (tags `pravilnik-2026-1522/<day>`; `python registry/tools/on.py <day> pravilnik-2026-1522`).
 
 ## Decisions made by hand
 

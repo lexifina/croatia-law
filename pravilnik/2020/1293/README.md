@@ -9,7 +9,7 @@ Pravilnik o izmjenama Pravilnika o obveznom sadržaju idejnog projekta · 1 vers
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2020-1293` (tags `pravilnik-2020-1293/<day>`; `python tools/on.py <day> pravilnik-2020-1293`).
+Act id: `pravilnik-2020-1293` (tags `pravilnik-2020-1293/<day>`; `python registry/tools/on.py <day> pravilnik-2020-1293`).
 
 ## Decisions made by hand
 

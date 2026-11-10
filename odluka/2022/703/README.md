@@ -8,7 +8,7 @@ Odluka o raspisivanju prijevremenih izbora za gradonačelnika i zamjenike gradon
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2022-703` (tags `odluka-2022-703/<day>`; `python tools/on.py <day> odluka-2022-703`).
+Act id: `odluka-2022-703` (tags `odluka-2022-703/<day>`; `python registry/tools/on.py <day> odluka-2022-703`).
 
 ## Decisions made by hand
 

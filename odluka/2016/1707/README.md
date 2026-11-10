@@ -8,7 +8,7 @@ Odluka o visini naknade troškova izborne promidžbe za izbor zastupnika u Hrvat
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2016-1707` (tags `odluka-2016-1707/<day>`; `python tools/on.py <day> odluka-2016-1707`).
+Act id: `odluka-2016-1707` (tags `odluka-2016-1707/<day>`; `python registry/tools/on.py <day> odluka-2016-1707`).
 
 ## Status
 

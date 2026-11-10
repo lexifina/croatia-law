@@ -5,7 +5,7 @@ Pravilnik o tržišnim standardima za jaja · 2 versions, from 2021-08-21 (lates
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `pravilnik-2021-1649` (tags `pravilnik-2021-1649/<day>`; `python tools/on.py <day> pravilnik-2021-1649`).
+Act id: `pravilnik-2021-1649` (tags `pravilnik-2021-1649/<day>`; `python registry/tools/on.py <day> pravilnik-2021-1649`).
 
 ## Decisions made by hand
 

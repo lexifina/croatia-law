@@ -10,7 +10,7 @@ Uredba o izmjeni Uredbe o nazivima radnih mjesta i koeficijentima složenosti po
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2015-1161` (tags `uredba-2015-1161/<day>`; `python tools/on.py <day> uredba-2015-1161`).
+Act id: `uredba-2015-1161` (tags `uredba-2015-1161/<day>`; `python registry/tools/on.py <day> uredba-2015-1161`).
 
 ## Status
 

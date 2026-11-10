@@ -67,7 +67,7 @@ Odluka o mjerama pružatelja platnih usluga u skladu s člankom 25. Uredbe (EU) 
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2018-1179` (tags `odluka-2018-1179/<day>`; `python tools/on.py <day> odluka-2018-1179`).
+Act id: `odluka-2018-1179` (tags `odluka-2018-1179/<day>`; `python registry/tools/on.py <day> odluka-2018-1179`).
 
 ## Status
 

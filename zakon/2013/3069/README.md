@@ -18,7 +18,7 @@ Zakon o izmjenama i dopunama Zakona o uspostavi institucionalnog okvira za kori≈
 | ƒçl. 12 | [clanak-012.md](clanak-012.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2013-3069` (tags `zakon-2013-3069/<day>`; `python tools/on.py <day> zakon-2013-3069`).
+Act id: `zakon-2013-3069` (tags `zakon-2013-3069/<day>`; `python registry/tools/on.py <day> zakon-2013-3069`).
 
 ## Status
 

@@ -8,7 +8,7 @@ Zakon o izmjeni Zakona o tehničkim zahtjevima za proizvode i ocjenjivanju sukla
 | čl. 2 | [clanak-002.md](clanak-002.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2014-290` (tags `zakon-2014-290/<day>`; `python tools/on.py <day> zakon-2014-290`).
+Act id: `zakon-2014-290` (tags `zakon-2014-290/<day>`; `python registry/tools/on.py <day> zakon-2014-290`).
 
 ## Decisions made by hand
 

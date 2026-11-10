@@ -64,7 +64,7 @@ Zakon o izmjenama i dopunama Zakona o zdravstvenoj zaštiti · 1 versions, from 
 | čl. 58 | [clanak-058.md](clanak-058.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2013-1736` (tags `zakon-2013-1736/<day>`; `python tools/on.py <day> zakon-2013-1736`).
+Act id: `zakon-2013-1736` (tags `zakon-2013-1736/<day>`; `python registry/tools/on.py <day> zakon-2013-1736`).
 
 ## Decisions made by hand
 

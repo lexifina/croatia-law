@@ -8,7 +8,7 @@ Odluka o utvrđivanju interesa Republike Hrvatske za izgradnju međunarodnog ces
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2011-298` (tags `odluka-2011-298/<day>`; `python tools/on.py <day> odluka-2011-298`).
+Act id: `odluka-2011-298` (tags `odluka-2011-298/<day>`; `python registry/tools/on.py <day> odluka-2011-298`).
 
 ## Decisions made by hand
 

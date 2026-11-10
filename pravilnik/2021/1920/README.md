@@ -18,7 +18,7 @@ Pravilnik o sadržaju izvješća o obavljenim uslugama ili aktivnostima organiza
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2021-1920` (tags `pravilnik-2021-1920/<day>`; `python tools/on.py <day> pravilnik-2021-1920`).
+Act id: `pravilnik-2021-1920` (tags `pravilnik-2021-1920/<day>`; `python registry/tools/on.py <day> pravilnik-2021-1920`).
 
 ## Decisions made by hand
 

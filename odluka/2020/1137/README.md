@@ -9,7 +9,7 @@ Odluka o izmjeni Odluke o gradskim porezima Grada Belišća · 1 versions, from 
 | čl. 3 | [clanak-003.md](clanak-003.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `odluka-2020-1137` (tags `odluka-2020-1137/<day>`; `python tools/on.py <day> odluka-2020-1137`).
+Act id: `odluka-2020-1137` (tags `odluka-2020-1137/<day>`; `python registry/tools/on.py <day> odluka-2020-1137`).
 
 ## Status
 

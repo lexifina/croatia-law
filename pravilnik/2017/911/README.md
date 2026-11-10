@@ -11,7 +11,7 @@ Pravilnik o izmjenama i dopunama Pravilnika o godišnjim, polugodišnjim i drugi
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2017-911` (tags `pravilnik-2017-911/<day>`; `python tools/on.py <day> pravilnik-2017-911`).
+Act id: `pravilnik-2017-911` (tags `pravilnik-2017-911/<day>`; `python registry/tools/on.py <day> pravilnik-2017-911`).
 
 ## Decisions made by hand
 

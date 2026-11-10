@@ -8,7 +8,7 @@ Odluka o provedbi Provedbene uredbe Komisije (EU) 2021/111 оd 29. siječnja 202
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2021-280` (tags `odluka-2021-280/<day>`; `python tools/on.py <day> odluka-2021-280`).
+Act id: `odluka-2021-280` (tags `odluka-2021-280/<day>`; `python registry/tools/on.py <day> odluka-2021-280`).
 
 ## Decisions made by hand
 

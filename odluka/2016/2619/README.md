@@ -18,7 +18,7 @@ Odluka o upravljanju kamatnim rizikom u knjizi banke · 1 versions, from 2016-12
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2016-2619` (tags `odluka-2016-2619/<day>`; `python tools/on.py <day> odluka-2016-2619`).
+Act id: `odluka-2016-2619` (tags `odluka-2016-2619/<day>`; `python registry/tools/on.py <day> odluka-2016-2619`).
 
 ## Status
 

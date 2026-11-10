@@ -8,7 +8,7 @@ Odluka o izmjeni Odluke o upisu učenika u I. razred srednje škole u školskoj 
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2014-1804` (tags `odluka-2014-1804/<day>`; `python tools/on.py <day> odluka-2014-1804`).
+Act id: `odluka-2014-1804` (tags `odluka-2014-1804/<day>`; `python registry/tools/on.py <day> odluka-2014-1804`).
 
 ## Decisions made by hand
 

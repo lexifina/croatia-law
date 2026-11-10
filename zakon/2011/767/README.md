@@ -46,7 +46,7 @@ Zakon o izmjenama i dopunama Zakon o rodiljnim i roditeljskim potporama · 1 ver
 | čl. 40 | [clanak-040.md](clanak-040.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2011-767` (tags `zakon-2011-767/<day>`; `python tools/on.py <day> zakon-2011-767`).
+Act id: `zakon-2011-767` (tags `zakon-2011-767/<day>`; `python registry/tools/on.py <day> zakon-2011-767`).
 
 ## Decisions made by hand
 

@@ -9,7 +9,7 @@ Uredba o dopuni Zakona o putnim ispravama hrvatskih državljana · 1 versions, f
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2014-2905` (tags `uredba-2014-2905/<day>`; `python tools/on.py <day> uredba-2014-2905`).
+Act id: `uredba-2014-2905` (tags `uredba-2014-2905/<day>`; `python registry/tools/on.py <day> uredba-2014-2905`).
 
 ## Status
 

@@ -26,7 +26,7 @@ Zakon o izmjenama i dopunama Zakona o izvršavanju kazne zatvora · 1 versions, 
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 
-Act id: `zakon-2013-1143` (tags `zakon-2013-1143/<day>`; `python tools/on.py <day> zakon-2013-1143`).
+Act id: `zakon-2013-1143` (tags `zakon-2013-1143/<day>`; `python registry/tools/on.py <day> zakon-2013-1143`).
 
 ## Decisions made by hand
 

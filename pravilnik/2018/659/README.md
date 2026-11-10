@@ -10,7 +10,7 @@ Pravilnik o izmjeni Pravilnika o službenoj iskaznici i znaku (znački) inspekto
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2018-659` (tags `pravilnik-2018-659/<day>`; `python tools/on.py <day> pravilnik-2018-659`).
+Act id: `pravilnik-2018-659` (tags `pravilnik-2018-659/<day>`; `python registry/tools/on.py <day> pravilnik-2018-659`).
 
 ## Decisions made by hand
 

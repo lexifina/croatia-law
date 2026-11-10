@@ -10,7 +10,7 @@ Odluka o izmjeni Odluke o porezima Grada Vrbovskog · 1 versions, from 2015-01-0
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2014-2960` (tags `odluka-2014-2960/<day>`; `python tools/on.py <day> odluka-2014-2960`).
+Act id: `odluka-2014-2960` (tags `odluka-2014-2960/<day>`; `python registry/tools/on.py <day> odluka-2014-2960`).
 
 ## Decisions made by hand
 

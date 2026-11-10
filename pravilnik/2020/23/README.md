@@ -30,7 +30,7 @@ Pravilnik o dozvoljenim ulaganjima i dodatnim ograničenjima ulaganja obveznog m
 | čl. 24 | [clanak-024.md](clanak-024.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `pravilnik-2020-23` (tags `pravilnik-2020-23/<day>`; `python tools/on.py <day> pravilnik-2020-23`).
+Act id: `pravilnik-2020-23` (tags `pravilnik-2020-23/<day>`; `python registry/tools/on.py <day> pravilnik-2020-23`).
 
 ## Status
 

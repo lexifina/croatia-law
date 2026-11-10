@@ -9,7 +9,7 @@ Odluka o izmjenama i dopunama Odluke o utvrđivanju Dopunske liste lijekova Hrva
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2018-819` (tags `odluka-2018-819/<day>`; `python tools/on.py <day> odluka-2018-819`).
+Act id: `odluka-2018-819` (tags `odluka-2018-819/<day>`; `python registry/tools/on.py <day> odluka-2018-819`).
 
 ## Status
 

@@ -8,7 +8,7 @@ Odluka o postavljanju Zuraba Bubuteishvilija za počasnog konzula Republike Hrva
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2013-2171` (tags `odluka-2013-2171/<day>`; `python tools/on.py <day> odluka-2013-2171`).
+Act id: `odluka-2013-2171` (tags `odluka-2013-2171/<day>`; `python registry/tools/on.py <day> odluka-2013-2171`).
 
 ## Decisions made by hand
 

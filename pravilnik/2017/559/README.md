@@ -11,7 +11,7 @@ Pravilnik o dopunama Pravilnika o upisniku knjižnica i knjižnica u sastavu · 
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2017-559` (tags `pravilnik-2017-559/<day>`; `python tools/on.py <day> pravilnik-2017-559`).
+Act id: `pravilnik-2017-559` (tags `pravilnik-2017-559/<day>`; `python registry/tools/on.py <day> pravilnik-2017-559`).
 
 ## Decisions made by hand
 

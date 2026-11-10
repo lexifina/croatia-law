@@ -9,7 +9,7 @@ Odluka o izmjenama i dopunama Odluke o provođenju međunarodnih mjera ograniča
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2011-2853` (tags `odluka-2011-2853/<day>`; `python tools/on.py <day> odluka-2011-2853`).
+Act id: `odluka-2011-2853` (tags `odluka-2011-2853/<day>`; `python registry/tools/on.py <day> odluka-2011-2853`).
 
 ## Decisions made by hand
 

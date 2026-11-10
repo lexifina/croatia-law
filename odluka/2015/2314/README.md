@@ -8,7 +8,7 @@ Odluka o raspisivanju prijevremenih izbora za gradonačelnika i zamjenika gradon
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2015-2314` (tags `odluka-2015-2314/<day>`; `python tools/on.py <day> odluka-2015-2314`).
+Act id: `odluka-2015-2314` (tags `odluka-2015-2314/<day>`; `python registry/tools/on.py <day> odluka-2015-2314`).
 
 ## Decisions made by hand
 

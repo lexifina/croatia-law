@@ -8,7 +8,7 @@ Odluka o utvrđivanju visine nepovratne materijalne pomoći koju može uputiti r
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2012-1766` (tags `odluka-2012-1766/<day>`; `python tools/on.py <day> odluka-2012-1766`).
+Act id: `odluka-2012-1766` (tags `odluka-2012-1766/<day>`; `python registry/tools/on.py <day> odluka-2012-1766`).
 
 ## Decisions made by hand
 

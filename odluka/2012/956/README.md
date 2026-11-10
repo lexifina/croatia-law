@@ -8,7 +8,7 @@ Odluka o izmjeni Odluke o najvišoj razini cijene plina za povlaštene kupce · 
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2012-956` (tags `odluka-2012-956/<day>`; `python tools/on.py <day> odluka-2012-956`).
+Act id: `odluka-2012-956` (tags `odluka-2012-956/<day>`; `python registry/tools/on.py <day> odluka-2012-956`).
 
 ## Decisions made by hand
 

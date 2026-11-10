@@ -8,7 +8,7 @@ Odluka o izmjeni Odluke o koncesiji pomorskog dobra u svrhu gospodarskog korišt
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2014-1142` (tags `odluka-2014-1142/<day>`; `python tools/on.py <day> odluka-2014-1142`).
+Act id: `odluka-2014-1142` (tags `odluka-2014-1142/<day>`; `python registry/tools/on.py <day> odluka-2014-1142`).
 
 ## Decisions made by hand
 

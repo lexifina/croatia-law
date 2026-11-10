@@ -9,7 +9,7 @@ Odluka o donošenju dopuna strukovnog kurikuluma za stjecanje kvalifikacije TEHN
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2024-1725` (tags `odluka-2024-1725/<day>`; `python tools/on.py <day> odluka-2024-1725`).
+Act id: `odluka-2024-1725` (tags `odluka-2024-1725/<day>`; `python registry/tools/on.py <day> odluka-2024-1725`).
 
 ## Status
 

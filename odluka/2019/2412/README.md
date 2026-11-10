@@ -20,7 +20,7 @@ Odluka o porezima Općine Petrijevci · 1 versions, from 2020-01-01 (latest in f
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2019-2412` (tags `odluka-2019-2412/<day>`; `python tools/on.py <day> odluka-2019-2412`).
+Act id: `odluka-2019-2412` (tags `odluka-2019-2412/<day>`; `python registry/tools/on.py <day> odluka-2019-2412`).
 
 ## Decisions made by hand
 

@@ -19,7 +19,7 @@ Naputak o postupanju u postupcima javne nabave u slučaju nedostupnosti Elektron
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `naputak-2016-1902` (tags `naputak-2016-1902/<day>`; `python tools/on.py <day> naputak-2016-1902`).
+Act id: `naputak-2016-1902` (tags `naputak-2016-1902/<day>`; `python registry/tools/on.py <day> naputak-2016-1902`).
 
 ## Status
 

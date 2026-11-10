@@ -22,7 +22,7 @@ Zakon o izmjenama i dopunama Zakona o materijalima i predmetima koji dolaze u ne
 | čl. 16 | [clanak-016.md](clanak-016.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2024-404` (tags `zakon-2024-404/<day>`; `python tools/on.py <day> zakon-2024-404`).
+Act id: `zakon-2024-404` (tags `zakon-2024-404/<day>`; `python registry/tools/on.py <day> zakon-2024-404`).
 
 ## Decisions made by hand
 

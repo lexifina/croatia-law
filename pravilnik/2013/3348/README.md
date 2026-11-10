@@ -37,7 +37,7 @@ Pravilnik o vođenju matične evidencije Hrvatskog zavoda za mirovinsko osiguran
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2013-3348` (tags `pravilnik-2013-3348/<day>`; `python tools/on.py <day> pravilnik-2013-3348`).
+Act id: `pravilnik-2013-3348` (tags `pravilnik-2013-3348/<day>`; `python registry/tools/on.py <day> pravilnik-2013-3348`).
 
 ## Status
 

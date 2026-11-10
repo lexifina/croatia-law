@@ -8,7 +8,7 @@ Naredba o izmjeni Naredbe o vremenu otvorenosti aerodroma · 1 versions, from 20
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `naredba-2018-884` (tags `naredba-2018-884/<day>`; `python tools/on.py <day> naredba-2018-884`).
+Act id: `naredba-2018-884` (tags `naredba-2018-884/<day>`; `python registry/tools/on.py <day> naredba-2018-884`).
 
 ## Decisions made by hand
 

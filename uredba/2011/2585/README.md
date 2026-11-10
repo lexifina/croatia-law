@@ -9,7 +9,7 @@ Uredba o izmjeni Uredbe o izgledu odora policijskih službenika Ministarstva unu
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2011-2585` (tags `uredba-2011-2585/<day>`; `python tools/on.py <day> uredba-2011-2585`).
+Act id: `uredba-2011-2585` (tags `uredba-2011-2585/<day>`; `python registry/tools/on.py <day> uredba-2011-2585`).
 
 ## Decisions made by hand
 

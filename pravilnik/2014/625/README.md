@@ -10,7 +10,7 @@ Pravilnik o izmjenama Pravilnika o porezu na dodanu vrijednost · 1 versions, fr
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2014-625` (tags `pravilnik-2014-625/<day>`; `python tools/on.py <day> pravilnik-2014-625`).
+Act id: `pravilnik-2014-625` (tags `pravilnik-2014-625/<day>`; `python registry/tools/on.py <day> pravilnik-2014-625`).
 
 ## Decisions made by hand
 

@@ -19,7 +19,7 @@ Odluka o naknadi za razvoj trgovačkog društva Vodovod i kanalizacija d.o.o., O
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2022-1238` (tags `odluka-2022-1238/<day>`; `python tools/on.py <day> odluka-2022-1238`).
+Act id: `odluka-2022-1238` (tags `odluka-2022-1238/<day>`; `python registry/tools/on.py <day> odluka-2022-1238`).
 
 ## Decisions made by hand
 

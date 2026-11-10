@@ -5,7 +5,7 @@ Odluka o visini poreznih stopa godišnjeg poreza na dohodak Grada Knina · 2 ver
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `odluka-2023-2013` (tags `odluka-2023-2013/<day>`; `python tools/on.py <day> odluka-2023-2013`).
+Act id: `odluka-2023-2013` (tags `odluka-2023-2013/<day>`; `python registry/tools/on.py <day> odluka-2023-2013`).
 
 ## Decisions made by hand
 

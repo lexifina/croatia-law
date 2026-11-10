@@ -17,7 +17,7 @@ Odluka o financiranju Hrvatske gospodarske komore · 1 versions, from 2019-01-09
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2019-68` (tags `odluka-2019-68/<day>`; `python tools/on.py <day> odluka-2019-68`).
+Act id: `odluka-2019-68` (tags `odluka-2019-68/<day>`; `python registry/tools/on.py <day> odluka-2019-68`).
 
 ## Status
 

@@ -12,7 +12,7 @@ Pravilnik o izmjenama i dopunama Pravilnika o postupku ostvarivanja prava i izno
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2018-1420` (tags `pravilnik-2018-1420/<day>`; `python tools/on.py <day> pravilnik-2018-1420`).
+Act id: `pravilnik-2018-1420` (tags `pravilnik-2018-1420/<day>`; `python registry/tools/on.py <day> pravilnik-2018-1420`).
 
 ## Decisions made by hand
 

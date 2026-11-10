@@ -8,7 +8,7 @@ Odluka o izmjeni Odluke o osnivanju Radne skupine za strateško usmjeravanje i p
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2026-236` (tags `odluka-2026-236/<day>`; `python tools/on.py <day> odluka-2026-236`).
+Act id: `odluka-2026-236` (tags `odluka-2026-236/<day>`; `python registry/tools/on.py <day> odluka-2026-236`).
 
 ## Decisions made by hand
 

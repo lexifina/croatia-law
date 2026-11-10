@@ -7,7 +7,7 @@ Odluka Agencije za elektroničke medije, klasa: 612-12/09-02/0053, urbroj: 567-0
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 
-Act id: `odluka-2015-432` (tags `odluka-2015-432/<day>`; `python tools/on.py <day> odluka-2015-432`).
+Act id: `odluka-2015-432` (tags `odluka-2015-432/<day>`; `python registry/tools/on.py <day> odluka-2015-432`).
 
 ## Decisions made by hand
 

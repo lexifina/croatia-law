@@ -33,7 +33,7 @@ Pravilnik o ustrojstvu i načinu rada Povjerenstva za žrtve seksualnog nasilja 
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2015-1889` (tags `pravilnik-2015-1889/<day>`; `python tools/on.py <day> pravilnik-2015-1889`).
+Act id: `pravilnik-2015-1889` (tags `pravilnik-2015-1889/<day>`; `python registry/tools/on.py <day> pravilnik-2015-1889`).
 
 ## Decisions made by hand
 

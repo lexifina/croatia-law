@@ -21,7 +21,7 @@ Pravilnik o jedinstvenom vizualnom identitetu zaštite prirode u Republici Hrvat
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2020-1518` (tags `pravilnik-2020-1518/<day>`; `python tools/on.py <day> pravilnik-2020-1518`).
+Act id: `pravilnik-2020-1518` (tags `pravilnik-2020-1518/<day>`; `python registry/tools/on.py <day> pravilnik-2020-1518`).
 
 ## Decisions made by hand
 

@@ -9,7 +9,7 @@ Odluka o raspisivanju državnog referenduma · 1 versions, from 2013-11-08 (late
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2013-2896` (tags `odluka-2013-2896/<day>`; `python tools/on.py <day> odluka-2013-2896`).
+Act id: `odluka-2013-2896` (tags `odluka-2013-2896/<day>`; `python registry/tools/on.py <day> odluka-2013-2896`).
 
 ## Status
 

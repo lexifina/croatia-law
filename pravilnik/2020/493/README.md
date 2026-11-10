@@ -31,7 +31,7 @@ Pravilnik o organizaciji i načinu rada vojnoga zdravstvenog središta Ministars
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2020-493` (tags `pravilnik-2020-493/<day>`; `python tools/on.py <day> pravilnik-2020-493`).
+Act id: `pravilnik-2020-493` (tags `pravilnik-2020-493/<day>`; `python registry/tools/on.py <day> pravilnik-2020-493`).
 
 ## Decisions made by hand
 

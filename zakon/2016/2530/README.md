@@ -33,7 +33,7 @@ Zakon o izmjenama i dopunama Zakona o posebnom porezu na motorna vozila · 1 ver
 | čl. 27 | [clanak-027.md](clanak-027.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2016-2530` (tags `zakon-2016-2530/<day>`; `python tools/on.py <day> zakon-2016-2530`).
+Act id: `zakon-2016-2530` (tags `zakon-2016-2530/<day>`; `python registry/tools/on.py <day> zakon-2016-2530`).
 
 ## Decisions made by hand
 

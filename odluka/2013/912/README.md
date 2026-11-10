@@ -13,7 +13,7 @@ Odluka o utvrđivanju Dopunske liste lijekova Hrvatskog zavoda za zdravstveno os
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2013-912` (tags `odluka-2013-912/<day>`; `python tools/on.py <day> odluka-2013-912`).
+Act id: `odluka-2013-912` (tags `odluka-2013-912/<day>`; `python registry/tools/on.py <day> odluka-2013-912`).
 
 ## Status
 

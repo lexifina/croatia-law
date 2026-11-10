@@ -7,7 +7,7 @@ Zakon o izmjeni Zakona o obveznom zdravstvenom osiguranju · 1 versions, from 20
 | čl. 1 | [clanak-001.md](clanak-001.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2019-1971` (tags `zakon-2019-1971/<day>`; `python tools/on.py <day> zakon-2019-1971`).
+Act id: `zakon-2019-1971` (tags `zakon-2019-1971/<day>`; `python registry/tools/on.py <day> zakon-2019-1971`).
 
 ## Decisions made by hand
 

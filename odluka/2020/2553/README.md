@@ -8,7 +8,7 @@ Odluka o oslobađanju obveze plaćanja zakupnine i naknade za korištenje poslov
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2020-2553` (tags `odluka-2020-2553/<day>`; `python tools/on.py <day> odluka-2020-2553`).
+Act id: `odluka-2020-2553` (tags `odluka-2020-2553/<day>`; `python registry/tools/on.py <day> odluka-2020-2553`).
 
 ## Decisions made by hand
 

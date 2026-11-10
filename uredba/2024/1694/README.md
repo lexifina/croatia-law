@@ -16,7 +16,7 @@ Uredba o visini dodataka na osnovni koeficijent za radna mjesta profesionalnih v
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2024-1694` (tags `uredba-2024-1694/<day>`; `python tools/on.py <day> uredba-2024-1694`).
+Act id: `uredba-2024-1694` (tags `uredba-2024-1694/<day>`; `python registry/tools/on.py <day> uredba-2024-1694`).
 
 ## Decisions made by hand
 

@@ -26,7 +26,7 @@ Odluka o općinskim porezima Općine Kloštar Ivanić · 1 versions, from 2023-0
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2022-2509` (tags `odluka-2022-2509/<day>`; `python tools/on.py <day> odluka-2022-2509`).
+Act id: `odluka-2022-2509` (tags `odluka-2022-2509/<day>`; `python registry/tools/on.py <day> odluka-2022-2509`).
 
 ## Decisions made by hand
 

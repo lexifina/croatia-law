@@ -12,7 +12,7 @@ Pravilnik o izmjenama Pravilnika o upisniku proizvođača drvenastih kultura kra
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2026-933` (tags `pravilnik-2026-933/<day>`; `python tools/on.py <day> pravilnik-2026-933`).
+Act id: `pravilnik-2026-933` (tags `pravilnik-2026-933/<day>`; `python registry/tools/on.py <day> pravilnik-2026-933`).
 
 ## Decisions made by hand
 

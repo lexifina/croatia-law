@@ -12,7 +12,7 @@ Uredba o izmjenama Uredbe o tijelima u sustavima upravljanja i kontrole korište
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2021-935` (tags `uredba-2021-935/<day>`; `python tools/on.py <day> uredba-2021-935`).
+Act id: `uredba-2021-935` (tags `uredba-2021-935/<day>`; `python registry/tools/on.py <day> uredba-2021-935`).
 
 ## Status
 

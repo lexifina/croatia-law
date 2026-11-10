@@ -12,7 +12,7 @@ Pravilnik o izmjeni Pravilnika o postupku homologacije traktora s obzirom na pri
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2013-664` (tags `pravilnik-2013-664/<day>`; `python tools/on.py <day> pravilnik-2013-664`).
+Act id: `pravilnik-2013-664` (tags `pravilnik-2013-664/<day>`; `python registry/tools/on.py <day> pravilnik-2013-664`).
 
 ## Decisions made by hand
 

@@ -11,7 +11,7 @@ Zakon o izmjenama Zakona o Državnoj komisiji za kontrolu postupaka javne nabave
 | čl. 5 | [clanak-005.md](clanak-005.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2019-1966` (tags `zakon-2019-1966/<day>`; `python tools/on.py <day> zakon-2019-1966`).
+Act id: `zakon-2019-1966` (tags `zakon-2019-1966/<day>`; `python registry/tools/on.py <day> zakon-2019-1966`).
 
 ## Decisions made by hand
 

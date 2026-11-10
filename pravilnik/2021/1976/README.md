@@ -15,7 +15,7 @@ Pravilnik o izmjenama i dopunama Pravilnika o ustrojstvu, djelokrugu i načinu r
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2021-1976` (tags `pravilnik-2021-1976/<day>`; `python tools/on.py <day> pravilnik-2021-1976`).
+Act id: `pravilnik-2021-1976` (tags `pravilnik-2021-1976/<day>`; `python registry/tools/on.py <day> pravilnik-2021-1976`).
 
 ## Decisions made by hand
 

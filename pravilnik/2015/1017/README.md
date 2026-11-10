@@ -14,7 +14,7 @@ Pravilnik o provedbi Uredbe Komisije (EU) br. 1178/2011 o utvrđivanju tehnički
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2015-1017` (tags `pravilnik-2015-1017/<day>`; `python tools/on.py <day> pravilnik-2015-1017`).
+Act id: `pravilnik-2015-1017` (tags `pravilnik-2015-1017/<day>`; `python registry/tools/on.py <day> pravilnik-2015-1017`).
 
 ## Status
 

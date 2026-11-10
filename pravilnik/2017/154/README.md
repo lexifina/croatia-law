@@ -18,7 +18,7 @@ Pravilnik o ulovu i prometu igluna (Xiphias gladius) · 1 versions, from 2017-01
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2017-154` (tags `pravilnik-2017-154/<day>`; `python tools/on.py <day> pravilnik-2017-154`).
+Act id: `pravilnik-2017-154` (tags `pravilnik-2017-154/<day>`; `python registry/tools/on.py <day> pravilnik-2017-154`).
 
 ## Status
 

@@ -21,7 +21,7 @@ Pravilnik o pokriću troškova plaća i doprinosa vježbenika · 1 versions, fro
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2019-1896` (tags `pravilnik-2019-1896/<day>`; `python tools/on.py <day> pravilnik-2019-1896`).
+Act id: `pravilnik-2019-1896` (tags `pravilnik-2019-1896/<day>`; `python registry/tools/on.py <day> pravilnik-2019-1896`).
 
 ## Decisions made by hand
 

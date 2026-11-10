@@ -13,7 +13,7 @@ Pravilnik o izmjenama i dopunama Pravilnika o uvjetima za članstvo u upravi i n
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2023-780` (tags `pravilnik-2023-780/<day>`; `python tools/on.py <day> pravilnik-2023-780`).
+Act id: `pravilnik-2023-780` (tags `pravilnik-2023-780/<day>`; `python registry/tools/on.py <day> pravilnik-2023-780`).
 
 ## Decisions made by hand
 

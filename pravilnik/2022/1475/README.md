@@ -12,7 +12,7 @@ Pravilnik o nagradnim natjecanjima i sudjelovanju gledatelja ili slušatelja u a
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2022-1475` (tags `pravilnik-2022-1475/<day>`; `python tools/on.py <day> pravilnik-2022-1475`).
+Act id: `pravilnik-2022-1475` (tags `pravilnik-2022-1475/<day>`; `python registry/tools/on.py <day> pravilnik-2022-1475`).
 
 ## Decisions made by hand
 

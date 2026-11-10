@@ -8,7 +8,7 @@ Odluka o zatvaranju za promet postojećih željezničko-cestovnih prijelaza i pj
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2021-2065` (tags `odluka-2021-2065/<day>`; `python tools/on.py <day> odluka-2021-2065`).
+Act id: `odluka-2021-2065` (tags `odluka-2021-2065/<day>`; `python registry/tools/on.py <day> odluka-2021-2065`).
 
 ## Decisions made by hand
 

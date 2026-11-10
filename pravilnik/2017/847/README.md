@@ -23,7 +23,7 @@ Pravilnik o postupanju s privremeno oduzetim predmetima, domaćim ili stranim sr
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2017-847` (tags `pravilnik-2017-847/<day>`; `python tools/on.py <day> pravilnik-2017-847`).
+Act id: `pravilnik-2017-847` (tags `pravilnik-2017-847/<day>`; `python registry/tools/on.py <day> pravilnik-2017-847`).
 
 ## Decisions made by hand
 

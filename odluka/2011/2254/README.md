@@ -8,7 +8,7 @@ Odluka o prodaji stanova u vlasništvu Republike Hrvatske kojima upravlja Minist
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2011-2254` (tags `odluka-2011-2254/<day>`; `python tools/on.py <day> odluka-2011-2254`).
+Act id: `odluka-2011-2254` (tags `odluka-2011-2254/<day>`; `python registry/tools/on.py <day> odluka-2011-2254`).
 
 ## Status
 

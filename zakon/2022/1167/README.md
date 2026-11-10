@@ -16,7 +16,7 @@ Zakon o izmjenama Zakona o zakladi »Hrvatska za djecu« · 1 versions, from 202
 | čl. 10 | [clanak-010.md](clanak-010.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2022-1167` (tags `zakon-2022-1167/<day>`; `python tools/on.py <day> zakon-2022-1167`).
+Act id: `zakon-2022-1167` (tags `zakon-2022-1167/<day>`; `python registry/tools/on.py <day> zakon-2022-1167`).
 
 ## Decisions made by hand
 

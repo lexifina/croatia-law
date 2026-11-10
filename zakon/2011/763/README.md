@@ -17,7 +17,7 @@ Zakon o Registru zaposlenih u javnom sektoru · 1 versions, from 2011-03-31 (lat
 | čl. 11 | [clanak-011.md](clanak-011.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2011-763` (tags `zakon-2011-763/<day>`; `python tools/on.py <day> zakon-2011-763`).
+Act id: `zakon-2011-763` (tags `zakon-2011-763/<day>`; `python registry/tools/on.py <day> zakon-2011-763`).
 
 ## Status
 

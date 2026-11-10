@@ -23,7 +23,7 @@ Pravilnik o izmjenama i dopunama pravilnika o pomorskom peljarenju · 1 versions
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2018-838` (tags `pravilnik-2018-838/<day>`; `python tools/on.py <day> pravilnik-2018-838`).
+Act id: `pravilnik-2018-838` (tags `pravilnik-2018-838/<day>`; `python registry/tools/on.py <day> pravilnik-2018-838`).
 
 ## Decisions made by hand
 

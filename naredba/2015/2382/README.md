@@ -28,7 +28,7 @@ Naredba o iznosima osnovica za obračun doprinosa za obvezna osiguranja za 2016.
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `naredba-2015-2382` (tags `naredba-2015-2382/<day>`; `python tools/on.py <day> naredba-2015-2382`).
+Act id: `naredba-2015-2382` (tags `naredba-2015-2382/<day>`; `python registry/tools/on.py <day> naredba-2015-2382`).
 
 ## Decisions made by hand
 

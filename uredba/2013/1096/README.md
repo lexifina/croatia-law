@@ -28,7 +28,7 @@ Uredba o Direkciji za korištenje službenih zrakoplova · 1 versions, from 2013
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2013-1096` (tags `uredba-2013-1096/<day>`; `python tools/on.py <day> uredba-2013-1096`).
+Act id: `uredba-2013-1096` (tags `uredba-2013-1096/<day>`; `python registry/tools/on.py <day> uredba-2013-1096`).
 
 ## Decisions made by hand
 

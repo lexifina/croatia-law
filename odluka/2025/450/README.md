@@ -11,7 +11,7 @@ Odluka o visini poreznih stopa poreza na dohodak Općine Lišane Ostrovičke · 
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2025-450` (tags `odluka-2025-450/<day>`; `python tools/on.py <day> odluka-2025-450`).
+Act id: `odluka-2025-450` (tags `odluka-2025-450/<day>`; `python registry/tools/on.py <day> odluka-2025-450`).
 
 ## Decisions made by hand
 

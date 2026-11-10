@@ -8,7 +8,7 @@ Odluka o lombardnom kreditu · 1 versions, from 2013-07-01 (latest in force: 201
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2013-1421` (tags `odluka-2013-1421/<day>`; `python tools/on.py <day> odluka-2013-1421`).
+Act id: `odluka-2013-1421` (tags `odluka-2013-1421/<day>`; `python registry/tools/on.py <day> odluka-2013-1421`).
 
 ## Status
 

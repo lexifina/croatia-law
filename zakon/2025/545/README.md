@@ -102,7 +102,7 @@ Zakon o izmjenama i dopunama Zakona o strancima · 1 versions, from 2025-03-15 (
 | čl. 96 | [clanak-096.md](clanak-096.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2025-545` (tags `zakon-2025-545/<day>`; `python tools/on.py <day> zakon-2025-545`).
+Act id: `zakon-2025-545` (tags `zakon-2025-545/<day>`; `python registry/tools/on.py <day> zakon-2025-545`).
 
 ## Decisions made by hand
 

@@ -17,7 +17,7 @@ Uredba o izmjenama i dopunama Uredbe o unutarnjem ustrojstvu Ministarstva kultur
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2013-2665` (tags `uredba-2013-2665/<day>`; `python tools/on.py <day> uredba-2013-2665`).
+Act id: `uredba-2013-2665` (tags `uredba-2013-2665/<day>`; `python registry/tools/on.py <day> uredba-2013-2665`).
 
 ## Decisions made by hand
 

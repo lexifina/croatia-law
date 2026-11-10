@@ -13,7 +13,7 @@ Pravilnik o izmjenama i dopunama Pravilnika o stipendiranju studenata - pripadni
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2021-2326` (tags `pravilnik-2021-2326/<day>`; `python tools/on.py <day> pravilnik-2021-2326`).
+Act id: `pravilnik-2021-2326` (tags `pravilnik-2021-2326/<day>`; `python registry/tools/on.py <day> pravilnik-2021-2326`).
 
 ## Decisions made by hand
 

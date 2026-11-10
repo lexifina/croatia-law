@@ -13,7 +13,7 @@ Zakon o izmjenama i dopunama Zakona o registru vijeća, koordinacija vijeća i p
 | čl. 7 | [clanak-007.md](clanak-007.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2012-816` (tags `zakon-2012-816/<day>`; `python tools/on.py <day> zakon-2012-816`).
+Act id: `zakon-2012-816` (tags `zakon-2012-816/<day>`; `python registry/tools/on.py <day> zakon-2012-816`).
 
 ## Decisions made by hand
 

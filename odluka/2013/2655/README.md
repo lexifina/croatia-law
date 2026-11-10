@@ -9,7 +9,7 @@ Odluka o donošenju Nacionalnog strateškog plana razvoja ribarstva · 1 version
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2013-2655` (tags `odluka-2013-2655/<day>`; `python tools/on.py <day> odluka-2013-2655`).
+Act id: `odluka-2013-2655` (tags `odluka-2013-2655/<day>`; `python registry/tools/on.py <day> odluka-2013-2655`).
 
 ## Decisions made by hand
 

@@ -9,7 +9,7 @@ Pravilnik o izmjeni Pravilnika o uvjetima i mjerilima za utvrđivanje sustava kv
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2017-303` (tags `pravilnik-2017-303/<day>`; `python tools/on.py <day> pravilnik-2017-303`).
+Act id: `pravilnik-2017-303` (tags `pravilnik-2017-303/<day>`; `python registry/tools/on.py <day> pravilnik-2017-303`).
 
 ## Decisions made by hand
 

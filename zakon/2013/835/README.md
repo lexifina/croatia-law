@@ -8,7 +8,7 @@ Zakon o izmjeni i dopuni Zakona o područjima županija, gradova i općina u Rep
 | čl. 2 | [clanak-002.md](clanak-002.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2013-835` (tags `zakon-2013-835/<day>`; `python tools/on.py <day> zakon-2013-835`).
+Act id: `zakon-2013-835` (tags `zakon-2013-835/<day>`; `python registry/tools/on.py <day> zakon-2013-835`).
 
 ## Decisions made by hand
 

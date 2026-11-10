@@ -8,7 +8,7 @@ Odluka o sudjelovanju pripadnika Oružanih snaga Republike Hrvatske u mirovnoj o
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2012-2926` (tags `odluka-2012-2926/<day>`; `python tools/on.py <day> odluka-2012-2926`).
+Act id: `odluka-2012-2926` (tags `odluka-2012-2926/<day>`; `python registry/tools/on.py <day> odluka-2012-2926`).
 
 ## Decisions made by hand
 

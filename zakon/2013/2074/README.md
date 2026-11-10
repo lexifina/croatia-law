@@ -19,7 +19,7 @@ Zakon o izmjenama Zakona o posebnim uvjetima za stavljanje brašna na tržište 
 | čl. 13 | [clanak-013.md](clanak-013.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2013-2074` (tags `zakon-2013-2074/<day>`; `python tools/on.py <day> zakon-2013-2074`).
+Act id: `zakon-2013-2074` (tags `zakon-2013-2074/<day>`; `python registry/tools/on.py <day> zakon-2013-2074`).
 
 ## Decisions made by hand
 

@@ -26,7 +26,7 @@ Uredba o osnivanju, sastavu, djelokrugu i načinu rada partnerskih vijeća · 1 
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2015-2005` (tags `uredba-2015-2005/<day>`; `python tools/on.py <day> uredba-2015-2005`).
+Act id: `uredba-2015-2005` (tags `uredba-2015-2005/<day>`; `python registry/tools/on.py <day> uredba-2015-2005`).
 
 ## Status
 

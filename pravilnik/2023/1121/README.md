@@ -12,7 +12,7 @@ Pravilnik o izmjenama i dopunama Pravilnika o popisu trgovačkih naziva proizvod
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2023-1121` (tags `pravilnik-2023-1121/<day>`; `python tools/on.py <day> pravilnik-2023-1121`).
+Act id: `pravilnik-2023-1121` (tags `pravilnik-2023-1121/<day>`; `python registry/tools/on.py <day> pravilnik-2023-1121`).
 
 ## Decisions made by hand
 

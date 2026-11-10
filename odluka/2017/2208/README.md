@@ -8,7 +8,7 @@ Odluka o davanju naknadne suglasnosti na Izmjenu i dopunu Statuta Hrvatskoga zav
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2017-2208` (tags `odluka-2017-2208/<day>`; `python tools/on.py <day> odluka-2017-2208`).
+Act id: `odluka-2017-2208` (tags `odluka-2017-2208/<day>`; `python registry/tools/on.py <day> odluka-2017-2208`).
 
 ## Decisions made by hand
 

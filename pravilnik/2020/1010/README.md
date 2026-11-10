@@ -15,7 +15,7 @@ Pravilnik o izmjenama i dopuni Pravilnika o stavljanju na tržište materijala z
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2020-1010` (tags `pravilnik-2020-1010/<day>`; `python tools/on.py <day> pravilnik-2020-1010`).
+Act id: `pravilnik-2020-1010` (tags `pravilnik-2020-1010/<day>`; `python registry/tools/on.py <day> pravilnik-2020-1010`).
 
 ## Decisions made by hand
 

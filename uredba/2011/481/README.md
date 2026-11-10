@@ -11,7 +11,7 @@ Uredba o izmjeni Uredbe o unutarnjem ustrojstvu Ministarstva financija · 1 vers
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2011-481` (tags `uredba-2011-481/<day>`; `python tools/on.py <day> uredba-2011-481`).
+Act id: `uredba-2011-481` (tags `uredba-2011-481/<day>`; `python registry/tools/on.py <day> uredba-2011-481`).
 
 ## Decisions made by hand
 

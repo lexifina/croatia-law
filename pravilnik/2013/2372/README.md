@@ -39,7 +39,7 @@ Pravilnik o vrstama alternativnih investicijskih fondova · 1 versions, from 201
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2013-2372` (tags `pravilnik-2013-2372/<day>`; `python tools/on.py <day> pravilnik-2013-2372`).
+Act id: `pravilnik-2013-2372` (tags `pravilnik-2013-2372/<day>`; `python registry/tools/on.py <day> pravilnik-2013-2372`).
 
 ## Status
 

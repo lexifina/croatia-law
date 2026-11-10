@@ -17,7 +17,7 @@ Uredba o načinu i uvjetima obračuna naknade za koncesiju za žičare · 1 vers
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2019-2318` (tags `uredba-2019-2318/<day>`; `python tools/on.py <day> uredba-2019-2318`).
+Act id: `uredba-2019-2318` (tags `uredba-2019-2318/<day>`; `python registry/tools/on.py <day> uredba-2019-2318`).
 
 ## Decisions made by hand
 

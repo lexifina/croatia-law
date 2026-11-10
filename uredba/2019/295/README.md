@@ -13,7 +13,7 @@ Uredba o dopunama Uredbe o unutarnjem ustrojstvu Ministarstva zdravstva · 1 ver
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2019-295` (tags `uredba-2019-295/<day>`; `python tools/on.py <day> uredba-2019-295`).
+Act id: `uredba-2019-295` (tags `uredba-2019-295/<day>`; `python registry/tools/on.py <day> uredba-2019-295`).
 
 ## Decisions made by hand
 

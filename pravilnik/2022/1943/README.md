@@ -5,7 +5,7 @@ Pravilnik o Jedinstvenom informacijskom sustavu mineralnih sirovina · 2 version
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `pravilnik-2022-1943` (tags `pravilnik-2022-1943/<day>`; `python tools/on.py <day> pravilnik-2022-1943`).
+Act id: `pravilnik-2022-1943` (tags `pravilnik-2022-1943/<day>`; `python registry/tools/on.py <day> pravilnik-2022-1943`).
 
 ## Decisions made by hand
 

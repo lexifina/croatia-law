@@ -10,7 +10,7 @@ Odluka o najnižoj mirovini za jednu godinu mirovinskog staža od 1. srpnja 2014
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2014-2122` (tags `odluka-2014-2122/<day>`; `python tools/on.py <day> odluka-2014-2122`).
+Act id: `odluka-2014-2122` (tags `odluka-2014-2122/<day>`; `python registry/tools/on.py <day> odluka-2014-2122`).
 
 ## Decisions made by hand
 

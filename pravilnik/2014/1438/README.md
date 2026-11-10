@@ -15,7 +15,7 @@ Pravilnik o izmjenama i dopunama Pravilnika o upravljanju i uređenju sustava za
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2014-1438` (tags `pravilnik-2014-1438/<day>`; `python tools/on.py <day> pravilnik-2014-1438`).
+Act id: `pravilnik-2014-1438` (tags `pravilnik-2014-1438/<day>`; `python registry/tools/on.py <day> pravilnik-2014-1438`).
 
 ## Decisions made by hand
 

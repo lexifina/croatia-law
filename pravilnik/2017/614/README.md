@@ -10,7 +10,7 @@ Pravilnik o izmjenama Pravilnika o provedbi Mjere 07 »Temeljne usluge i obnova 
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2017-614` (tags `pravilnik-2017-614/<day>`; `python tools/on.py <day> pravilnik-2017-614`).
+Act id: `pravilnik-2017-614` (tags `pravilnik-2017-614/<day>`; `python registry/tools/on.py <day> pravilnik-2017-614`).
 
 ## Decisions made by hand
 

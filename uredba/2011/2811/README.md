@@ -10,7 +10,7 @@ Uredba o izmjenama Uredbe o Carinskoj tarifi za 2011. godinu · 1 versions, from
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2011-2811` (tags `uredba-2011-2811/<day>`; `python tools/on.py <day> uredba-2011-2811`).
+Act id: `uredba-2011-2811` (tags `uredba-2011-2811/<day>`; `python registry/tools/on.py <day> uredba-2011-2811`).
 
 ## Decisions made by hand
 

@@ -56,7 +56,7 @@ Zakon o izmjenama i dopunama Zakona o državnom odvjetništvu · 1 versions, fro
 | čl. 50 | [clanak-050.md](clanak-050.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2013-3146` (tags `zakon-2013-3146/<day>`; `python tools/on.py <day> zakon-2013-3146`).
+Act id: `zakon-2013-3146` (tags `zakon-2013-3146/<day>`; `python registry/tools/on.py <day> zakon-2013-3146`).
 
 ## Decisions made by hand
 

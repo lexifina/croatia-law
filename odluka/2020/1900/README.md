@@ -8,7 +8,7 @@ Odluka o osnivanju Konzulata Republike Hrvatske u Ukrajini, sa sjedištem u Odes
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2020-1900` (tags `odluka-2020-1900/<day>`; `python tools/on.py <day> odluka-2020-1900`).
+Act id: `odluka-2020-1900` (tags `odluka-2020-1900/<day>`; `python registry/tools/on.py <day> odluka-2020-1900`).
 
 ## Decisions made by hand
 

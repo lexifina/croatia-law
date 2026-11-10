@@ -14,7 +14,7 @@ Pravilnik o načinu i uvjetima za ostvarivanje prava policijskih službenika na 
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2011-1418` (tags `pravilnik-2011-1418/<day>`; `python tools/on.py <day> pravilnik-2011-1418`).
+Act id: `pravilnik-2011-1418` (tags `pravilnik-2011-1418/<day>`; `python registry/tools/on.py <day> pravilnik-2011-1418`).
 
 ## Decisions made by hand
 

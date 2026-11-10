@@ -43,7 +43,7 @@ Odluka o izmjenama i dopunama Odluke o statističkom i bonitetnom izvješćivanj
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2017-2676` (tags `odluka-2017-2676/<day>`; `python tools/on.py <day> odluka-2017-2676`).
+Act id: `odluka-2017-2676` (tags `odluka-2017-2676/<day>`; `python registry/tools/on.py <day> odluka-2017-2676`).
 
 ## Decisions made by hand
 

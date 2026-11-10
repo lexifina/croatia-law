@@ -8,7 +8,7 @@ Odluka o provedbi mjere Projekti ublažavanja i prilagodbe klimatskim promjenama
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2026-883` (tags `odluka-2026-883/<day>`; `python tools/on.py <day> odluka-2026-883`).
+Act id: `odluka-2026-883` (tags `odluka-2026-883/<day>`; `python registry/tools/on.py <day> odluka-2026-883`).
 
 ## Decisions made by hand
 

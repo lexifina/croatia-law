@@ -15,7 +15,7 @@ Odluka o utvrđivanju Popisa posebno skupih lijekova · 1 versions, from 2022-02
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2022-59` (tags `odluka-2022-59/<day>`; `python tools/on.py <day> odluka-2022-59`).
+Act id: `odluka-2022-59` (tags `odluka-2022-59/<day>`; `python registry/tools/on.py <day> odluka-2022-59`).
 
 ## Status
 

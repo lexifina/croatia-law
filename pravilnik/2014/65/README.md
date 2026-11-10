@@ -11,7 +11,7 @@ Pravilnik o sadržaju i obliku obrasca za prijavu djelatnosti uvoza, proizvodnje
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2014-65` (tags `pravilnik-2014-65/<day>`; `python tools/on.py <day> pravilnik-2014-65`).
+Act id: `pravilnik-2014-65` (tags `pravilnik-2014-65/<day>`; `python registry/tools/on.py <day> pravilnik-2014-65`).
 
 ## Status
 

@@ -56,7 +56,7 @@ Zakon o izmjenama i dopunama Zakona o sprječavanju pranja novca i financiranja 
 | čl. 50 | [clanak-050.md](clanak-050.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2022-2335` (tags `zakon-2022-2335/<day>`; `python tools/on.py <day> zakon-2022-2335`).
+Act id: `zakon-2022-2335` (tags `zakon-2022-2335/<day>`; `python registry/tools/on.py <day> zakon-2022-2335`).
 
 ## Decisions made by hand
 

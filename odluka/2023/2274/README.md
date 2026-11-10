@@ -17,7 +17,7 @@ Odluka o općinskim porezima Općine Klis · 1 versions, from 2024-01-01 (latest
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2023-2274` (tags `odluka-2023-2274/<day>`; `python tools/on.py <day> odluka-2023-2274`).
+Act id: `odluka-2023-2274` (tags `odluka-2023-2274/<day>`; `python registry/tools/on.py <day> odluka-2023-2274`).
 
 ## Status
 

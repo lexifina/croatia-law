@@ -8,7 +8,7 @@ Odluka o davanju suglasnosti na prijenos koncesije pomorskog dobra u svrhu izgra
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2013-1155` (tags `odluka-2013-1155/<day>`; `python tools/on.py <day> odluka-2013-1155`).
+Act id: `odluka-2013-1155` (tags `odluka-2013-1155/<day>`; `python registry/tools/on.py <day> odluka-2013-1155`).
 
 ## Decisions made by hand
 

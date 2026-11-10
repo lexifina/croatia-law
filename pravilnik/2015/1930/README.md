@@ -10,7 +10,7 @@ Pravilnik o izmjenama i dopunama Pravilnika o provedbi privremenih izvanrednih m
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2015-1930` (tags `pravilnik-2015-1930/<day>`; `python tools/on.py <day> pravilnik-2015-1930`).
+Act id: `pravilnik-2015-1930` (tags `pravilnik-2015-1930/<day>`; `python registry/tools/on.py <day> pravilnik-2015-1930`).
 
 ## Status
 

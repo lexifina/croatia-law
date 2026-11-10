@@ -29,7 +29,7 @@ Pravilnik o vinogradarstvu · 1 versions, from 2022-07-21 (latest in force: 2022
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2022-1184` (tags `pravilnik-2022-1184/<day>`; `python tools/on.py <day> pravilnik-2022-1184`).
+Act id: `pravilnik-2022-1184` (tags `pravilnik-2022-1184/<day>`; `python registry/tools/on.py <day> pravilnik-2022-1184`).
 
 ## Status
 

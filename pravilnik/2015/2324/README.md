@@ -32,7 +32,7 @@ Pravilnik o postupku utvrđivanja štete i njezine visine · 1 versions, from 20
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2015-2324` (tags `pravilnik-2015-2324/<day>`; `python tools/on.py <day> pravilnik-2015-2324`).
+Act id: `pravilnik-2015-2324` (tags `pravilnik-2015-2324/<day>`; `python registry/tools/on.py <day> pravilnik-2015-2324`).
 
 ## Decisions made by hand
 

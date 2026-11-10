@@ -8,7 +8,7 @@ Odluka o katastarskoj izmjeri na području Grada Krapine za katastarsku općinu 
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2019-1609` (tags `odluka-2019-1609/<day>`; `python tools/on.py <day> odluka-2019-1609`).
+Act id: `odluka-2019-1609` (tags `odluka-2019-1609/<day>`; `python registry/tools/on.py <day> odluka-2019-1609`).
 
 ## Decisions made by hand
 

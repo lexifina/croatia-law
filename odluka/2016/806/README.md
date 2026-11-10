@@ -10,7 +10,7 @@ Odluka o izmjeni Odluke o osnovama za sklapanje ugovora o provođenju zdravstven
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2016-806` (tags `odluka-2016-806/<day>`; `python tools/on.py <day> odluka-2016-806`).
+Act id: `odluka-2016-806` (tags `odluka-2016-806/<day>`; `python registry/tools/on.py <day> odluka-2016-806`).
 
 ## Decisions made by hand
 

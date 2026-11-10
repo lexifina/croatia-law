@@ -20,7 +20,7 @@ Pravilnik o zdravstvenim uvjetima kojima moraju udovoljavati radnici koji obavlj
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2016-1500` (tags `pravilnik-2016-1500/<day>`; `python tools/on.py <day> pravilnik-2016-1500`).
+Act id: `pravilnik-2016-1500` (tags `pravilnik-2016-1500/<day>`; `python registry/tools/on.py <day> pravilnik-2016-1500`).
 
 ## Decisions made by hand
 

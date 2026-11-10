@@ -8,7 +8,7 @@ Odluka o katastarskoj izmjeri na području Općine Drenje za katastarsku općinu
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2017-650` (tags `odluka-2017-650/<day>`; `python tools/on.py <day> odluka-2017-650`).
+Act id: `odluka-2017-650` (tags `odluka-2017-650/<day>`; `python registry/tools/on.py <day> odluka-2017-650`).
 
 ## Decisions made by hand
 

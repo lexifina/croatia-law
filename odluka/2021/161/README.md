@@ -9,7 +9,7 @@ Odluka o usvajanju »Programa dodjele potpora male vrijednosti mikro subjektima 
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2021-161` (tags `odluka-2021-161/<day>`; `python tools/on.py <day> odluka-2021-161`).
+Act id: `odluka-2021-161` (tags `odluka-2021-161/<day>`; `python registry/tools/on.py <day> odluka-2021-161`).
 
 ## Status
 

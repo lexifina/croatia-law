@@ -70,7 +70,7 @@ Zakon o udomiteljstvu · 1 versions, from 2011-08-10 (latest in force: 2011-08-1
 | čl. 64 | [clanak-064.md](clanak-064.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2011-1921` (tags `zakon-2011-1921/<day>`; `python tools/on.py <day> zakon-2011-1921`).
+Act id: `zakon-2011-1921` (tags `zakon-2011-1921/<day>`; `python registry/tools/on.py <day> zakon-2011-1921`).
 
 ## Status
 

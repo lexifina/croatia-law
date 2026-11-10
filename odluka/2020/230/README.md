@@ -8,7 +8,7 @@ Odluka o osnivanju Konzulata Republike Hrvatske u Francuskoj Republici, sa sjedi
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2020-230` (tags `odluka-2020-230/<day>`; `python tools/on.py <day> odluka-2020-230`).
+Act id: `odluka-2020-230` (tags `odluka-2020-230/<day>`; `python registry/tools/on.py <day> odluka-2020-230`).
 
 ## Decisions made by hand
 

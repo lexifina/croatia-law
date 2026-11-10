@@ -8,7 +8,7 @@ Odluka o raspisivanju dopunskih izbora za članove predstavničkih tijela jedini
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2017-2013` (tags `odluka-2017-2013/<day>`; `python tools/on.py <day> odluka-2017-2013`).
+Act id: `odluka-2017-2013` (tags `odluka-2017-2013/<day>`; `python registry/tools/on.py <day> odluka-2017-2013`).
 
 ## Decisions made by hand
 

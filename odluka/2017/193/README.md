@@ -8,7 +8,7 @@ Odluka o koncesiji u svrhu gospodarskog korištenja pomorskog dobra radi obavlja
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2017-193` (tags `odluka-2017-193/<day>`; `python tools/on.py <day> odluka-2017-193`).
+Act id: `odluka-2017-193` (tags `odluka-2017-193/<day>`; `python registry/tools/on.py <day> odluka-2017-193`).
 
 ## Decisions made by hand
 

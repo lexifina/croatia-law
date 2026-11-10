@@ -8,7 +8,7 @@ Odluka o visini nagrade i naknade troškova rada miritelja u postupcima mirenja 
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2024-2267` (tags `odluka-2024-2267/<day>`; `python tools/on.py <day> odluka-2024-2267`).
+Act id: `odluka-2024-2267` (tags `odluka-2024-2267/<day>`; `python registry/tools/on.py <day> odluka-2024-2267`).
 
 ## Decisions made by hand
 

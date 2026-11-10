@@ -9,7 +9,7 @@ Odluka o izmjenama Odluke o utvrđivanju popisa dijagnostičkih i terapijskih po
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2014-1400` (tags `odluka-2014-1400/<day>`; `python tools/on.py <day> odluka-2014-1400`).
+Act id: `odluka-2014-1400` (tags `odluka-2014-1400/<day>`; `python registry/tools/on.py <day> odluka-2014-1400`).
 
 ## Decisions made by hand
 

@@ -9,7 +9,7 @@ Pravilnik o izmjenama i dopunama Pravilnika o obliku i sadržaju obrasca izvješ
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2012-2411` (tags `pravilnik-2012-2411/<day>`; `python tools/on.py <day> pravilnik-2012-2411`).
+Act id: `pravilnik-2012-2411` (tags `pravilnik-2012-2411/<day>`; `python registry/tools/on.py <day> pravilnik-2012-2411`).
 
 ## Decisions made by hand
 

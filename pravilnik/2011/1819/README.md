@@ -17,7 +17,7 @@ Pravilnik o posebnim uvjetima za uvoz suncokretovog ulja podrijetlom ili isporuÄ
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2011-1819` (tags `pravilnik-2011-1819/<day>`; `python tools/on.py <day> pravilnik-2011-1819`).
+Act id: `pravilnik-2011-1819` (tags `pravilnik-2011-1819/<day>`; `python registry/tools/on.py <day> pravilnik-2011-1819`).
 
 ## Status
 

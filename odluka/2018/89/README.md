@@ -13,7 +13,7 @@ Odluka o izmjenama Odluke o općinskim porezima Općine Žakanje · 1 versions, 
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2018-89` (tags `odluka-2018-89/<day>`; `python tools/on.py <day> odluka-2018-89`).
+Act id: `odluka-2018-89` (tags `odluka-2018-89/<day>`; `python registry/tools/on.py <day> odluka-2018-89`).
 
 ## Decisions made by hand
 

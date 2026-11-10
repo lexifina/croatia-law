@@ -8,7 +8,7 @@ Odluka izmjeni Odluke o privremenoj zabrani i ograničavanju prelaska preko gran
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2021-805` (tags `odluka-2021-805/<day>`; `python tools/on.py <day> odluka-2021-805`).
+Act id: `odluka-2021-805` (tags `odluka-2021-805/<day>`; `python registry/tools/on.py <day> odluka-2021-805`).
 
 ## Status
 

@@ -9,7 +9,7 @@ Zakon o izmjeni i dopuni Zakona o provedbi uredbi Europske unije o prometu drva 
 | čl. 3 | [clanak-003.md](clanak-003.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2020-331` (tags `zakon-2020-331/<day>`; `python tools/on.py <day> zakon-2020-331`).
+Act id: `zakon-2020-331` (tags `zakon-2020-331/<day>`; `python registry/tools/on.py <day> zakon-2020-331`).
 
 ## Decisions made by hand
 

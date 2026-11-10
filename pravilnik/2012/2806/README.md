@@ -9,7 +9,7 @@ Pravilnik o dopuni Pravilnika o uvjetima za izbor i zasnivanje radnog odnosa lek
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2012-2806` (tags `pravilnik-2012-2806/<day>`; `python tools/on.py <day> pravilnik-2012-2806`).
+Act id: `pravilnik-2012-2806` (tags `pravilnik-2012-2806/<day>`; `python registry/tools/on.py <day> pravilnik-2012-2806`).
 
 ## Decisions made by hand
 

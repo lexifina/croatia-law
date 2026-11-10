@@ -5,7 +5,7 @@ Pravilnik o sufinanciranju projekata odobrenih u okviru programa Europske unije 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `pravilnik-2018-852` (tags `pravilnik-2018-852/<day>`; `python tools/on.py <day> pravilnik-2018-852`).
+Act id: `pravilnik-2018-852` (tags `pravilnik-2018-852/<day>`; `python registry/tools/on.py <day> pravilnik-2018-852`).
 
 ## Decisions made by hand
 

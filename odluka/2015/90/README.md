@@ -14,7 +14,7 @@ Odluka o prirezu porezu na dohodak Grada Ploče · 1 versions, from 2015-01-22 (
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2015-90` (tags `odluka-2015-90/<day>`; `python tools/on.py <day> odluka-2015-90`).
+Act id: `odluka-2015-90` (tags `odluka-2015-90/<day>`; `python registry/tools/on.py <day> odluka-2015-90`).
 
 ## Decisions made by hand
 

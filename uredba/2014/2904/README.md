@@ -9,7 +9,7 @@ Uredba o izmjeni Zakona o financiranju vodnoga gospodarstva · 1 versions, from 
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2014-2904` (tags `uredba-2014-2904/<day>`; `python tools/on.py <day> uredba-2014-2904`).
+Act id: `uredba-2014-2904` (tags `uredba-2014-2904/<day>`; `python registry/tools/on.py <day> uredba-2014-2904`).
 
 ## Status
 

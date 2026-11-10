@@ -8,7 +8,7 @@ Odluka o izmjeni i dopuni Odluke o osiguranju novčane pomoći za privremenu i n
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2022-2078` (tags `odluka-2022-2078/<day>`; `python tools/on.py <day> odluka-2022-2078`).
+Act id: `odluka-2022-2078` (tags `odluka-2022-2078/<day>`; `python registry/tools/on.py <day> odluka-2022-2078`).
 
 ## Decisions made by hand
 

@@ -55,7 +55,7 @@ Zakon o izmjenama i dopunama Općeg poreznog zakona · 1 versions, from 2019-01-
 | čl. 49 | [clanak-049.md](clanak-049.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2018-2065` (tags `zakon-2018-2065/<day>`; `python tools/on.py <day> zakon-2018-2065`).
+Act id: `zakon-2018-2065` (tags `zakon-2018-2065/<day>`; `python registry/tools/on.py <day> zakon-2018-2065`).
 
 ## Decisions made by hand
 

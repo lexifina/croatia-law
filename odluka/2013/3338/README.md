@@ -8,7 +8,7 @@ Odluka o davanju suglasnosti na Odluku o izmjeni Statuta Fonda za profesionalnu 
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2013-3338` (tags `odluka-2013-3338/<day>`; `python tools/on.py <day> odluka-2013-3338`).
+Act id: `odluka-2013-3338` (tags `odluka-2013-3338/<day>`; `python registry/tools/on.py <day> odluka-2013-3338`).
 
 ## Decisions made by hand
 

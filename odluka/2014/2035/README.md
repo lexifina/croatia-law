@@ -9,7 +9,7 @@ Odluka o iznosu tarifnih stavki za proizvodnju toplinske energije za centralni t
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2014-2035` (tags `odluka-2014-2035/<day>`; `python tools/on.py <day> odluka-2014-2035`).
+Act id: `odluka-2014-2035` (tags `odluka-2014-2035/<day>`; `python registry/tools/on.py <day> odluka-2014-2035`).
 
 ## Status
 

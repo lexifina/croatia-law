@@ -15,7 +15,7 @@ Uredba o izmjenama i dopunama Uredbe o nazivima radnih mjesta i koeficijentima s
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2014-979` (tags `uredba-2014-979/<day>`; `python tools/on.py <day> uredba-2014-979`).
+Act id: `uredba-2014-979` (tags `uredba-2014-979/<day>`; `python registry/tools/on.py <day> uredba-2014-979`).
 
 ## Status
 

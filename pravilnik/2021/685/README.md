@@ -9,7 +9,7 @@ Pravilnik o izmjeni Pravilnika o uvjetima za obavljanje prometa na malo i davanj
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2021-685` (tags `pravilnik-2021-685/<day>`; `python tools/on.py <day> pravilnik-2021-685`).
+Act id: `pravilnik-2021-685` (tags `pravilnik-2021-685/<day>`; `python registry/tools/on.py <day> pravilnik-2021-685`).
 
 ## Decisions made by hand
 

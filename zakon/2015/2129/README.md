@@ -9,7 +9,7 @@ Zakon o izmjeni Zakona o uvođenju Europske zadruge - Societas Cooperativa Europ
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 
-Act id: `zakon-2015-2129` (tags `zakon-2015-2129/<day>`; `python tools/on.py <day> zakon-2015-2129`).
+Act id: `zakon-2015-2129` (tags `zakon-2015-2129/<day>`; `python registry/tools/on.py <day> zakon-2015-2129`).
 
 ## Decisions made by hand
 

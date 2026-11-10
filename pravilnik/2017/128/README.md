@@ -5,7 +5,7 @@ Pravilnik o vrsti i visini naknada i administrativnih pristojbi Hrvatske agencij
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `pravilnik-2017-128` (tags `pravilnik-2017-128/<day>`; `python tools/on.py <day> pravilnik-2017-128`).
+Act id: `pravilnik-2017-128` (tags `pravilnik-2017-128/<day>`; `python registry/tools/on.py <day> pravilnik-2017-128`).
 
 ## Decisions made by hand
 

@@ -9,7 +9,7 @@ Pravilnik o dopuni Pravilnika o minimalnim uvjetima u pogledu prostora, radnika 
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2012-2737` (tags `pravilnik-2012-2737/<day>`; `python tools/on.py <day> pravilnik-2012-2737`).
+Act id: `pravilnik-2012-2737` (tags `pravilnik-2012-2737/<day>`; `python registry/tools/on.py <day> pravilnik-2012-2737`).
 
 ## Decisions made by hand
 

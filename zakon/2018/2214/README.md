@@ -10,7 +10,7 @@ Zakon o izmjenama Zakona o javno-privatnom partnerstvu · 1 versions, from 2019-
 | čl. 4 | [clanak-004.md](clanak-004.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2018-2214` (tags `zakon-2018-2214/<day>`; `python tools/on.py <day> zakon-2018-2214`).
+Act id: `zakon-2018-2214` (tags `zakon-2018-2214/<day>`; `python registry/tools/on.py <day> zakon-2018-2214`).
 
 ## Decisions made by hand
 

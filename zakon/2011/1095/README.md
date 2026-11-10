@@ -15,7 +15,7 @@ Zakon o izmjenama Zakona o carinskoj službi · 1 versions, from 2011-05-07 (lat
 | čl. 9 | [clanak-009.md](clanak-009.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2011-1095` (tags `zakon-2011-1095/<day>`; `python tools/on.py <day> zakon-2011-1095`).
+Act id: `zakon-2011-1095` (tags `zakon-2011-1095/<day>`; `python registry/tools/on.py <day> zakon-2011-1095`).
 
 ## Decisions made by hand
 

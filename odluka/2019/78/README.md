@@ -10,7 +10,7 @@ Odluka o izmjenama i dopunama Odluke o dodjeli sredstava županijskim upravama z
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2019-78` (tags `odluka-2019-78/<day>`; `python tools/on.py <day> odluka-2019-78`).
+Act id: `odluka-2019-78` (tags `odluka-2019-78/<day>`; `python registry/tools/on.py <day> odluka-2019-78`).
 
 ## Decisions made by hand
 

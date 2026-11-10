@@ -9,7 +9,7 @@ Odluka o rasporedu sredstava osiguranih u Državnom proračunu Republike Hrvatsk
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2014-971` (tags `odluka-2014-971/<day>`; `python tools/on.py <day> odluka-2014-971`).
+Act id: `odluka-2014-971` (tags `odluka-2014-971/<day>`; `python registry/tools/on.py <day> odluka-2014-971`).
 
 ## Decisions made by hand
 

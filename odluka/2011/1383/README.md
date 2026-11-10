@@ -8,7 +8,7 @@ Odluka o raspisivanju dopunskih izbora za članove Općinskog vijeća Općine Ze
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2011-1383` (tags `odluka-2011-1383/<day>`; `python tools/on.py <day> odluka-2011-1383`).
+Act id: `odluka-2011-1383` (tags `odluka-2011-1383/<day>`; `python registry/tools/on.py <day> odluka-2011-1383`).
 
 ## Decisions made by hand
 

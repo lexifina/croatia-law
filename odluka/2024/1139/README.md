@@ -9,7 +9,7 @@ Odluka o izmjeni Odluke o prikupljanju granularnih podataka o kreditima i kredit
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2024-1139` (tags `odluka-2024-1139/<day>`; `python tools/on.py <day> odluka-2024-1139`).
+Act id: `odluka-2024-1139` (tags `odluka-2024-1139/<day>`; `python registry/tools/on.py <day> odluka-2024-1139`).
 
 ## Decisions made by hand
 

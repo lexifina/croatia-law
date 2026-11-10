@@ -8,7 +8,7 @@ Odluka o donošenju Programa energetske obnove zgrada javnog sektora za razdoblj
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2022-505` (tags `odluka-2022-505/<day>`; `python tools/on.py <day> odluka-2022-505`).
+Act id: `odluka-2022-505` (tags `odluka-2022-505/<day>`; `python registry/tools/on.py <day> odluka-2022-505`).
 
 ## Decisions made by hand
 

@@ -19,7 +19,7 @@ Pravilnik o utvrđivanju liste likvidatora · 1 versions, from 2021-07-10 (lates
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2021-1419` (tags `pravilnik-2021-1419/<day>`; `python tools/on.py <day> pravilnik-2021-1419`).
+Act id: `pravilnik-2021-1419` (tags `pravilnik-2021-1419/<day>`; `python registry/tools/on.py <day> pravilnik-2021-1419`).
 
 ## Decisions made by hand
 

@@ -8,7 +8,7 @@ Odluka o visini nagrade miriteljima u postupcima mirenja u kolektivnim radnim sp
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2025-2353` (tags `odluka-2025-2353/<day>`; `python tools/on.py <day> odluka-2025-2353`).
+Act id: `odluka-2025-2353` (tags `odluka-2025-2353/<day>`; `python registry/tools/on.py <day> odluka-2025-2353`).
 
 ## Decisions made by hand
 

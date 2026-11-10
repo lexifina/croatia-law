@@ -20,7 +20,7 @@ Uredba o osnivanju Državnog arhiva u Požegi · 1 versions, from 2024-06-15 (la
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2024-1195` (tags `uredba-2024-1195/<day>`; `python tools/on.py <day> uredba-2024-1195`).
+Act id: `uredba-2024-1195` (tags `uredba-2024-1195/<day>`; `python registry/tools/on.py <day> uredba-2024-1195`).
 
 ## Decisions made by hand
 

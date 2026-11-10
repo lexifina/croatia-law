@@ -8,7 +8,7 @@ Odluka o osnivanju Povjerenstva za koordinaciju potpore i financiranje kulturnih
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2019-813` (tags `odluka-2019-813/<day>`; `python tools/on.py <day> odluka-2019-813`).
+Act id: `odluka-2019-813` (tags `odluka-2019-813/<day>`; `python registry/tools/on.py <day> odluka-2019-813`).
 
 ## Decisions made by hand
 

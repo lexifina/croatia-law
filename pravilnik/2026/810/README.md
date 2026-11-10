@@ -12,7 +12,7 @@ Pravilnik o izmjenama Pravilnika o strukturi i sadržaju financijskih izvještaj
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2026-810` (tags `pravilnik-2026-810/<day>`; `python tools/on.py <day> pravilnik-2026-810`).
+Act id: `pravilnik-2026-810` (tags `pravilnik-2026-810/<day>`; `python registry/tools/on.py <day> pravilnik-2026-810`).
 
 ## Decisions made by hand
 

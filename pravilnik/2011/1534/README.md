@@ -11,7 +11,7 @@ Pravilnik o izmjeni Pravilnika o žitaricama, mlinskim i pekarskim proizvodima, 
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2011-1534` (tags `pravilnik-2011-1534/<day>`; `python tools/on.py <day> pravilnik-2011-1534`).
+Act id: `pravilnik-2011-1534` (tags `pravilnik-2011-1534/<day>`; `python registry/tools/on.py <day> pravilnik-2011-1534`).
 
 ## Decisions made by hand
 

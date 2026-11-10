@@ -9,7 +9,7 @@ Odluka o smjernicama za uključivanje Republike Hrvatske u Prijedlog uredbe Euro
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2012-2966` (tags `odluka-2012-2966/<day>`; `python tools/on.py <day> odluka-2012-2966`).
+Act id: `odluka-2012-2966` (tags `odluka-2012-2966/<day>`; `python registry/tools/on.py <day> odluka-2012-2966`).
 
 ## Decisions made by hand
 

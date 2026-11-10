@@ -17,7 +17,7 @@ Pravilnik o visini godišnje naknade za uporabu javnih cesta što se plaća pri 
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2015-1850` (tags `pravilnik-2015-1850/<day>`; `python tools/on.py <day> pravilnik-2015-1850`).
+Act id: `pravilnik-2015-1850` (tags `pravilnik-2015-1850/<day>`; `python registry/tools/on.py <day> pravilnik-2015-1850`).
 
 ## Status
 

@@ -16,7 +16,7 @@ Zakon o izmjenama Zakona o izvršavanju kazne zatvora · 1 versions, from 2020-0
 | čl. 10 | [clanak-010.md](clanak-010.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2019-1923` (tags `zakon-2019-1923/<day>`; `python tools/on.py <day> zakon-2019-1923`).
+Act id: `zakon-2019-1923` (tags `zakon-2019-1923/<day>`; `python registry/tools/on.py <day> zakon-2019-1923`).
 
 ## Decisions made by hand
 

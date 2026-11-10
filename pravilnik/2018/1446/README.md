@@ -9,7 +9,7 @@ Pravilnik o izmjenama i dopunama Pravilnika o potporama turističkim zajednicama
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2018-1446` (tags `pravilnik-2018-1446/<day>`; `python tools/on.py <day> pravilnik-2018-1446`).
+Act id: `pravilnik-2018-1446` (tags `pravilnik-2018-1446/<day>`; `python registry/tools/on.py <day> pravilnik-2018-1446`).
 
 ## Decisions made by hand
 

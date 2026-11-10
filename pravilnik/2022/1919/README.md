@@ -31,7 +31,7 @@ Pravilnik o mikrobiološkoj klasifikaciji i posebnim pravilima higijene živih �
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2022-1919` (tags `pravilnik-2022-1919/<day>`; `python tools/on.py <day> pravilnik-2022-1919`).
+Act id: `pravilnik-2022-1919` (tags `pravilnik-2022-1919/<day>`; `python registry/tools/on.py <day> pravilnik-2022-1919`).
 
 ## Decisions made by hand
 

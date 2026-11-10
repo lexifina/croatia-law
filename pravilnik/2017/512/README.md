@@ -43,7 +43,7 @@ Pravilnik Suda časti Hrvatske obrtničke komore · 1 versions, from 2017-03-21 
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2017-512` (tags `pravilnik-2017-512/<day>`; `python tools/on.py <day> pravilnik-2017-512`).
+Act id: `pravilnik-2017-512` (tags `pravilnik-2017-512/<day>`; `python registry/tools/on.py <day> pravilnik-2017-512`).
 
 ## Decisions made by hand
 

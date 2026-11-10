@@ -9,7 +9,7 @@ Pravilnik o dopunama Pravilnika o uvjetima za obavljanje poslova članova uprave
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2012-2377` (tags `pravilnik-2012-2377/<day>`; `python tools/on.py <day> pravilnik-2012-2377`).
+Act id: `pravilnik-2012-2377` (tags `pravilnik-2012-2377/<day>`; `python registry/tools/on.py <day> pravilnik-2012-2377`).
 
 ## Decisions made by hand
 

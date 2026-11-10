@@ -43,7 +43,7 @@ Pravilnik o uvjetima i načinu stjecanja stručnih zvanja u knjižničarskoj str
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2021-1886` (tags `pravilnik-2021-1886/<day>`; `python tools/on.py <day> pravilnik-2021-1886`).
+Act id: `pravilnik-2021-1886` (tags `pravilnik-2021-1886/<day>`; `python registry/tools/on.py <day> pravilnik-2021-1886`).
 
 ## Decisions made by hand
 

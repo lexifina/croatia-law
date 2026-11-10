@@ -9,7 +9,7 @@ Pravilnik o izmjenama i dopunama Pravilnika o vizama · 1 versions, from 2011-05
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2011-1180` (tags `pravilnik-2011-1180/<day>`; `python tools/on.py <day> pravilnik-2011-1180`).
+Act id: `pravilnik-2011-1180` (tags `pravilnik-2011-1180/<day>`; `python registry/tools/on.py <day> pravilnik-2011-1180`).
 
 ## Decisions made by hand
 

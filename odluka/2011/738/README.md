@@ -18,7 +18,7 @@ Odluka o troškovima mirenja pred Centrom za mirenje pri Hrvatskoj gospodarskoj 
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2011-738` (tags `odluka-2011-738/<day>`; `python tools/on.py <day> odluka-2011-738`).
+Act id: `odluka-2011-738` (tags `odluka-2011-738/<day>`; `python registry/tools/on.py <day> odluka-2011-738`).
 
 ## Decisions made by hand
 

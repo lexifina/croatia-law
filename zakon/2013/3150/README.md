@@ -18,7 +18,7 @@ Zakon o izmjenama Zakona o poljoprivrednoj savjetodavnoj službi · 1 versions, 
 | čl. 12 | [clanak-012.md](clanak-012.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2013-3150` (tags `zakon-2013-3150/<day>`; `python tools/on.py <day> zakon-2013-3150`).
+Act id: `zakon-2013-3150` (tags `zakon-2013-3150/<day>`; `python registry/tools/on.py <day> zakon-2013-3150`).
 
 ## Decisions made by hand
 

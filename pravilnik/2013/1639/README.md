@@ -15,7 +15,7 @@ Pravilnik o elektroničkom zapisu podataka iz područja radnih odnosa · 1 versi
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2013-1639` (tags `pravilnik-2013-1639/<day>`; `python tools/on.py <day> pravilnik-2013-1639`).
+Act id: `pravilnik-2013-1639` (tags `pravilnik-2013-1639/<day>`; `python registry/tools/on.py <day> pravilnik-2013-1639`).
 
 ## Status
 

@@ -35,7 +35,7 @@ Pravilnik o pripravničkom stažu doktora dentalne medicine · 1 versions, from 
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2013-3097` (tags `pravilnik-2013-3097/<day>`; `python tools/on.py <day> pravilnik-2013-3097`).
+Act id: `pravilnik-2013-3097` (tags `pravilnik-2013-3097/<day>`; `python registry/tools/on.py <day> pravilnik-2013-3097`).
 
 ## Decisions made by hand
 

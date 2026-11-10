@@ -8,7 +8,7 @@ Pravilnik o izmjeni i dopunama Pravilnika o načinu obavljanja veterinarskih pre
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2011-2913` (tags `pravilnik-2011-2913/<day>`; `python tools/on.py <day> pravilnik-2011-2913`).
+Act id: `pravilnik-2011-2913` (tags `pravilnik-2011-2913/<day>`; `python registry/tools/on.py <day> pravilnik-2011-2913`).
 
 ## Decisions made by hand
 

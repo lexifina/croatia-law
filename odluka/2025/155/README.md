@@ -10,7 +10,7 @@ Odluka o visini poreznih stopa godišnjeg poreza na dohodak Općine Čepin · 1 
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2025-155` (tags `odluka-2025-155/<day>`; `python tools/on.py <day> odluka-2025-155`).
+Act id: `odluka-2025-155` (tags `odluka-2025-155/<day>`; `python registry/tools/on.py <day> odluka-2025-155`).
 
 ## Decisions made by hand
 

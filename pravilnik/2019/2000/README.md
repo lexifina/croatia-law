@@ -20,7 +20,7 @@ Pravilnik o obrazovnom programu i ispitu za stjecanje zvanja ovlaštenog upravit
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2019-2000` (tags `pravilnik-2019-2000/<day>`; `python tools/on.py <day> pravilnik-2019-2000`).
+Act id: `pravilnik-2019-2000` (tags `pravilnik-2019-2000/<day>`; `python registry/tools/on.py <day> pravilnik-2019-2000`).
 
 ## Status
 

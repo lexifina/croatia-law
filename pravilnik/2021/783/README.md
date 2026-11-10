@@ -10,7 +10,7 @@ Pravilnik o izmjeni Pavilnika o kaznenoj evidenciji · 1 versions, from 2021-04-
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2021-783` (tags `pravilnik-2021-783/<day>`; `python tools/on.py <day> pravilnik-2021-783`).
+Act id: `pravilnik-2021-783` (tags `pravilnik-2021-783/<day>`; `python registry/tools/on.py <day> pravilnik-2021-783`).
 
 ## Decisions made by hand
 

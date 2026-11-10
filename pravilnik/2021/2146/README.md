@@ -34,7 +34,7 @@ Pravilnik o provedbi postupaka nabave roba, usluga i radova za postupke obnove Â
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2021-2146` (tags `pravilnik-2021-2146/<day>`; `python tools/on.py <day> pravilnik-2021-2146`).
+Act id: `pravilnik-2021-2146` (tags `pravilnik-2021-2146/<day>`; `python registry/tools/on.py <day> pravilnik-2021-2146`).
 
 ## Status
 

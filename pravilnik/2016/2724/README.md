@@ -22,7 +22,7 @@ Pravilnik o izmjenama i dopunama Pravilnika o stavljanju na tržište sjemena ul
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2016-2724` (tags `pravilnik-2016-2724/<day>`; `python tools/on.py <day> pravilnik-2016-2724`).
+Act id: `pravilnik-2016-2724` (tags `pravilnik-2016-2724/<day>`; `python registry/tools/on.py <day> pravilnik-2016-2724`).
 
 ## Decisions made by hand
 

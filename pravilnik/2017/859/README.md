@@ -15,7 +15,7 @@ Pravilnik o izmjenama i dopunama Pravilnika o sadržaju i načinu vođenja regis
 | čl. 9 | [clanak-009.md](clanak-009.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `pravilnik-2017-859` (tags `pravilnik-2017-859/<day>`; `python tools/on.py <day> pravilnik-2017-859`).
+Act id: `pravilnik-2017-859` (tags `pravilnik-2017-859/<day>`; `python registry/tools/on.py <day> pravilnik-2017-859`).
 
 ## Decisions made by hand
 

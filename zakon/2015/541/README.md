@@ -37,7 +37,7 @@ Zakon o izmjenama i dopunama Općeg poreznog zakona · 1 versions, from 2015-03-
 | čl. 31 | [clanak-031.md](clanak-031.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2015-541` (tags `zakon-2015-541/<day>`; `python tools/on.py <day> zakon-2015-541`).
+Act id: `zakon-2015-541` (tags `zakon-2015-541/<day>`; `python registry/tools/on.py <day> zakon-2015-541`).
 
 ## Decisions made by hand
 

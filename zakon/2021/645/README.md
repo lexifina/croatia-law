@@ -10,7 +10,7 @@ Zakon o izmjenama Zakona o sigurnosnoj zaštiti pomorskih brodova i luka · 1 ve
 | čl. 4 | [clanak-004.md](clanak-004.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2021-645` (tags `zakon-2021-645/<day>`; `python tools/on.py <day> zakon-2021-645`).
+Act id: `zakon-2021-645` (tags `zakon-2021-645/<day>`; `python registry/tools/on.py <day> zakon-2021-645`).
 
 ## Decisions made by hand
 

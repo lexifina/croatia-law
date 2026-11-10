@@ -53,7 +53,7 @@ Zakon o izmjenama i dopunama Zakona o osiguranju · 1 versions, from 2013-05-15 
 | čl. 47 | [clanak-047.md](clanak-047.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2013-1085` (tags `zakon-2013-1085/<day>`; `python tools/on.py <day> zakon-2013-1085`).
+Act id: `zakon-2013-1085` (tags `zakon-2013-1085/<day>`; `python registry/tools/on.py <day> zakon-2013-1085`).
 
 ## Decisions made by hand
 

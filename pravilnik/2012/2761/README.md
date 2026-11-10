@@ -9,7 +9,7 @@ Pravilnik o izmjeni Pravilnika o specijalističkom usavršavanju doktora medicin
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2012-2761` (tags `pravilnik-2012-2761/<day>`; `python tools/on.py <day> pravilnik-2012-2761`).
+Act id: `pravilnik-2012-2761` (tags `pravilnik-2012-2761/<day>`; `python registry/tools/on.py <day> pravilnik-2012-2761`).
 
 ## Decisions made by hand
 

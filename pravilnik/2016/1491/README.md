@@ -9,7 +9,7 @@ Pravilnik o izmjenama Pravilnika o dodjeli potpore za otkup povlastica ili ribol
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2016-1491` (tags `pravilnik-2016-1491/<day>`; `python tools/on.py <day> pravilnik-2016-1491`).
+Act id: `pravilnik-2016-1491` (tags `pravilnik-2016-1491/<day>`; `python registry/tools/on.py <day> pravilnik-2016-1491`).
 
 ## Decisions made by hand
 

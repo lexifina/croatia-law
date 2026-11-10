@@ -9,7 +9,7 @@ Odluka o postavljanju Nives Malenica za izvanrednu i opunomoćenu veleposlanicu 
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2014-1234` (tags `odluka-2014-1234/<day>`; `python tools/on.py <day> odluka-2014-1234`).
+Act id: `odluka-2014-1234` (tags `odluka-2014-1234/<day>`; `python registry/tools/on.py <day> odluka-2014-1234`).
 
 ## Decisions made by hand
 

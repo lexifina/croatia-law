@@ -8,7 +8,7 @@ Naredba o mjerama za sprječavanje unošenja u Republiku Hrvatsku zarazne bolest
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `naredba-2011-185` (tags `naredba-2011-185/<day>`; `python tools/on.py <day> naredba-2011-185`).
+Act id: `naredba-2011-185` (tags `naredba-2011-185/<day>`; `python registry/tools/on.py <day> naredba-2011-185`).
 
 ## Status
 

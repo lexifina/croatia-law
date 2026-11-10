@@ -9,7 +9,7 @@ Odluka o izmjeni i dopuni Odluke o porezima Grada Slavonskog Broda · 1 versions
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2011-281` (tags `odluka-2011-281/<day>`; `python tools/on.py <day> odluka-2011-281`).
+Act id: `odluka-2011-281` (tags `odluka-2011-281/<day>`; `python registry/tools/on.py <day> odluka-2011-281`).
 
 ## Decisions made by hand
 

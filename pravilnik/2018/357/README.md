@@ -5,7 +5,7 @@ Pravilnik o evidenciji uporabe poljoprivrednog zemljišta · 2 versions, from 20
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `pravilnik-2018-357` (tags `pravilnik-2018-357/<day>`; `python tools/on.py <day> pravilnik-2018-357`).
+Act id: `pravilnik-2018-357` (tags `pravilnik-2018-357/<day>`; `python registry/tools/on.py <day> pravilnik-2018-357`).
 
 ## Decisions made by hand
 

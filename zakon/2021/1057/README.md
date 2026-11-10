@@ -9,7 +9,7 @@ Zakon o izmjenama Zakona o prosvjetnoj inspekciji · 1 versions, from 2021-05-22
 | čl. 3 | [clanak-003.md](clanak-003.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2021-1057` (tags `zakon-2021-1057/<day>`; `python tools/on.py <day> zakon-2021-1057`).
+Act id: `zakon-2021-1057` (tags `zakon-2021-1057/<day>`; `python registry/tools/on.py <day> zakon-2021-1057`).
 
 ## Decisions made by hand
 

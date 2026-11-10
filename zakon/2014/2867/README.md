@@ -10,7 +10,7 @@ Zakon o izmjenama Zakona o rodiljnim i roditeljskim potporama · 1 versions, fro
 | čl. 4 | [clanak-004.md](clanak-004.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2014-2867` (tags `zakon-2014-2867/<day>`; `python tools/on.py <day> zakon-2014-2867`).
+Act id: `zakon-2014-2867` (tags `zakon-2014-2867/<day>`; `python registry/tools/on.py <day> zakon-2014-2867`).
 
 ## Decisions made by hand
 

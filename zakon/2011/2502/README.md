@@ -33,7 +33,7 @@ Zakon o javnoovršiteljskim pristojbama · 1 versions, from 2012-01-01 (latest i
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 
-Act id: `zakon-2011-2502` (tags `zakon-2011-2502/<day>`; `python tools/on.py <day> zakon-2011-2502`).
+Act id: `zakon-2011-2502` (tags `zakon-2011-2502/<day>`; `python registry/tools/on.py <day> zakon-2011-2502`).
 
 ## Status
 

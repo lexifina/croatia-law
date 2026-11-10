@@ -88,7 +88,7 @@ Zakon o tržištu električne energije · 1 versions, from 2013-03-02 (latest in
 | čl. 82 | [clanak-082.md](clanak-082.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2013-358` (tags `zakon-2013-358/<day>`; `python tools/on.py <day> zakon-2013-358`).
+Act id: `zakon-2013-358` (tags `zakon-2013-358/<day>`; `python registry/tools/on.py <day> zakon-2013-358`).
 
 ## Status
 

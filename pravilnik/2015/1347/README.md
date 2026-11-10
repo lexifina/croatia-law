@@ -20,7 +20,7 @@ Pravilnik o naÄinu besplatne dodjele emisijskih jedinica postrojenjima i o praÄ
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2015-1347` (tags `pravilnik-2015-1347/<day>`; `python tools/on.py <day> pravilnik-2015-1347`).
+Act id: `pravilnik-2015-1347` (tags `pravilnik-2015-1347/<day>`; `python registry/tools/on.py <day> pravilnik-2015-1347`).
 
 ## Status
 

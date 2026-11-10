@@ -9,7 +9,7 @@ Uredba o dopuni Uredbe o određivanju tijela za provedbu Uredbe (EZ-a) br. 2006/
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2014-2284` (tags `uredba-2014-2284/<day>`; `python tools/on.py <day> uredba-2014-2284`).
+Act id: `uredba-2014-2284` (tags `uredba-2014-2284/<day>`; `python registry/tools/on.py <day> uredba-2014-2284`).
 
 ## Decisions made by hand
 

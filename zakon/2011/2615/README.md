@@ -8,7 +8,7 @@ Zakon o prestanku važenja Zakona o igralištima za golf · 1 versions, from 201
 | čl. 2 | [clanak-002.md](clanak-002.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2011-2615` (tags `zakon-2011-2615/<day>`; `python tools/on.py <day> zakon-2011-2615`).
+Act id: `zakon-2011-2615` (tags `zakon-2011-2615/<day>`; `python registry/tools/on.py <day> zakon-2011-2615`).
 
 ## Decisions made by hand
 

@@ -105,7 +105,7 @@ Pravilnik o natječajima iz područja arhitekture i urbanizma · 1 versions, fro
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2025-2311` (tags `pravilnik-2025-2311/<day>`; `python tools/on.py <day> pravilnik-2025-2311`).
+Act id: `pravilnik-2025-2311` (tags `pravilnik-2025-2311/<day>`; `python registry/tools/on.py <day> pravilnik-2025-2311`).
 
 ## Decisions made by hand
 

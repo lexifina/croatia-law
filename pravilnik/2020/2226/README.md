@@ -14,7 +14,7 @@ Pravilnik o izmjeni i dopunama Pravilnika o načinu provođenja rada pod nadzoro
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2020-2226` (tags `pravilnik-2020-2226/<day>`; `python tools/on.py <day> pravilnik-2020-2226`).
+Act id: `pravilnik-2020-2226` (tags `pravilnik-2020-2226/<day>`; `python registry/tools/on.py <day> pravilnik-2020-2226`).
 
 ## Decisions made by hand
 

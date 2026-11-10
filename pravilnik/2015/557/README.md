@@ -5,7 +5,7 @@ Pravilnik o načinu korištenja Registra Europske unije · 2 versions, from 2015
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `pravilnik-2015-557` (tags `pravilnik-2015-557/<day>`; `python tools/on.py <day> pravilnik-2015-557`).
+Act id: `pravilnik-2015-557` (tags `pravilnik-2015-557/<day>`; `python registry/tools/on.py <day> pravilnik-2015-557`).
 
 ## Decisions made by hand
 

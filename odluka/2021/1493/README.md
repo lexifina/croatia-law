@@ -8,7 +8,7 @@ Odluka o izmjeni i dopunama Odluke o nužnim epidemiološkim mjerama kojima se o
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2021-1493` (tags `odluka-2021-1493/<day>`; `python tools/on.py <day> odluka-2021-1493`).
+Act id: `odluka-2021-1493` (tags `odluka-2021-1493/<day>`; `python registry/tools/on.py <day> odluka-2021-1493`).
 
 ## Decisions made by hand
 

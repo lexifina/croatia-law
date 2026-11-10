@@ -25,7 +25,7 @@ Zakon o izmjenama i dopunama Zakona o vodi za ljudsku potrošnju · 1 versions, 
 | čl. 19 | [clanak-019.md](clanak-019.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2015-1224` (tags `zakon-2015-1224/<day>`; `python tools/on.py <day> zakon-2015-1224`).
+Act id: `zakon-2015-1224` (tags `zakon-2015-1224/<day>`; `python registry/tools/on.py <day> zakon-2015-1224`).
 
 ## Decisions made by hand
 

@@ -8,7 +8,7 @@ Odluka o izmjenama Odluke o privremenoj zabrani i ograničavanju prelaska preko 
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2022-135` (tags `odluka-2022-135/<day>`; `python tools/on.py <day> odluka-2022-135`).
+Act id: `odluka-2022-135` (tags `odluka-2022-135/<day>`; `python registry/tools/on.py <day> odluka-2022-135`).
 
 ## Decisions made by hand
 

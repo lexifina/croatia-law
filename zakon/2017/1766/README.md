@@ -8,7 +8,7 @@ Zakon o izmjeni i dopuni Zakona o referendumu i drugim oblicima osobnog sudjelov
 | čl. 2 | [clanak-002.md](clanak-002.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2017-1766` (tags `zakon-2017-1766/<day>`; `python tools/on.py <day> zakon-2017-1766`).
+Act id: `zakon-2017-1766` (tags `zakon-2017-1766/<day>`; `python registry/tools/on.py <day> zakon-2017-1766`).
 
 ## Decisions made by hand
 

@@ -13,7 +13,7 @@ Pravilnik o opremljenosti pojedinih vrsta uslužnih objekata · 1 versions, from
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2022-838` (tags `pravilnik-2022-838/<day>`; `python tools/on.py <day> pravilnik-2022-838`).
+Act id: `pravilnik-2022-838` (tags `pravilnik-2022-838/<day>`; `python registry/tools/on.py <day> pravilnik-2022-838`).
 
 ## Decisions made by hand
 

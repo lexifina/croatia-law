@@ -21,7 +21,7 @@ Zakon o izmjenama i dopunama Zakona o autorskom pravu i srodnim pravima · 1 ver
 | čl. 15 | [clanak-015.md](clanak-015.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2013-3015` (tags `zakon-2013-3015/<day>`; `python tools/on.py <day> zakon-2013-3015`).
+Act id: `zakon-2013-3015` (tags `zakon-2013-3015/<day>`; `python registry/tools/on.py <day> zakon-2013-3015`).
 
 ## Decisions made by hand
 

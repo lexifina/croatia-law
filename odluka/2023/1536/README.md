@@ -8,7 +8,7 @@ Odluka o oslobađanju plaćanja zakupnine i naknade za korištenje poljoprivredn
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2023-1536` (tags `odluka-2023-1536/<day>`; `python tools/on.py <day> odluka-2023-1536`).
+Act id: `odluka-2023-1536` (tags `odluka-2023-1536/<day>`; `python registry/tools/on.py <day> odluka-2023-1536`).
 
 ## Decisions made by hand
 

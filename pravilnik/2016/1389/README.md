@@ -9,7 +9,7 @@ Pravilnik o dopuni Pravilnika o rukovanju opasnim tvarima, uvjetima i načinu ob
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2016-1389` (tags `pravilnik-2016-1389/<day>`; `python tools/on.py <day> pravilnik-2016-1389`).
+Act id: `pravilnik-2016-1389` (tags `pravilnik-2016-1389/<day>`; `python registry/tools/on.py <day> pravilnik-2016-1389`).
 
 ## Decisions made by hand
 

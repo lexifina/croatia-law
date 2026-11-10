@@ -9,7 +9,7 @@ Zakon o prestanku važenja Zakona o javnim ovršiteljima · 1 versions, from 201
 | čl. 3 | [clanak-003.md](clanak-003.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2012-2423` (tags `zakon-2012-2423/<day>`; `python tools/on.py <day> zakon-2012-2423`).
+Act id: `zakon-2012-2423` (tags `zakon-2012-2423/<day>`; `python registry/tools/on.py <day> zakon-2012-2423`).
 
 ## Decisions made by hand
 

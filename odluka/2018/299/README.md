@@ -8,7 +8,7 @@ Odluka o davanju suglasnosti na Izmjene Statuta Agencije za investicije i konkur
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2018-299` (tags `odluka-2018-299/<day>`; `python tools/on.py <day> odluka-2018-299`).
+Act id: `odluka-2018-299` (tags `odluka-2018-299/<day>`; `python registry/tools/on.py <day> odluka-2018-299`).
 
 ## Decisions made by hand
 

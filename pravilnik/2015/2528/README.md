@@ -13,7 +13,7 @@ Pravilnik o dokumentaciji za izdavanje prethodnog odobrenja za radove na kulturn
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2015-2528` (tags `pravilnik-2015-2528/<day>`; `python tools/on.py <day> pravilnik-2015-2528`).
+Act id: `pravilnik-2015-2528` (tags `pravilnik-2015-2528/<day>`; `python registry/tools/on.py <day> pravilnik-2015-2528`).
 
 ## Decisions made by hand
 

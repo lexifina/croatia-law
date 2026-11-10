@@ -8,7 +8,7 @@ Zakon o izmjeni Zakona o osobnoj iskaznici · 1 versions, from 2024-02-22 (lates
 | čl. 2 | [clanak-002.md](clanak-002.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2024-298` (tags `zakon-2024-298/<day>`; `python tools/on.py <day> zakon-2024-298`).
+Act id: `zakon-2024-298` (tags `zakon-2024-298/<day>`; `python registry/tools/on.py <day> zakon-2024-298`).
 
 ## Decisions made by hand
 

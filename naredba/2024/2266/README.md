@@ -28,7 +28,7 @@ Naredba o iznosima osnovica za obračun doprinosa za obvezna osiguranja za 2025.
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `naredba-2024-2266` (tags `naredba-2024-2266/<day>`; `python tools/on.py <day> naredba-2024-2266`).
+Act id: `naredba-2024-2266` (tags `naredba-2024-2266/<day>`; `python registry/tools/on.py <day> naredba-2024-2266`).
 
 ## Status
 

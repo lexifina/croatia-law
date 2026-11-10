@@ -40,7 +40,7 @@ Odluka o porezima Grada Daruvara · 1 versions, from 2014-01-18 (latest in force
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2014-66` (tags `odluka-2014-66/<day>`; `python tools/on.py <day> odluka-2014-66`).
+Act id: `odluka-2014-66` (tags `odluka-2014-66/<day>`; `python registry/tools/on.py <day> odluka-2014-66`).
 
 ## Status
 

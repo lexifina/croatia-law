@@ -23,7 +23,7 @@ Odluka o izmjenama i dopunama Odluke o Uredu predsjednice Republike Hrvatske · 
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2016-1820` (tags `odluka-2016-1820/<day>`; `python tools/on.py <day> odluka-2016-1820`).
+Act id: `odluka-2016-1820` (tags `odluka-2016-1820/<day>`; `python registry/tools/on.py <day> odluka-2016-1820`).
 
 ## Decisions made by hand
 

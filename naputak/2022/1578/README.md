@@ -11,7 +11,7 @@ Naputak o preračunavanju vremenskih serija statističkih podataka iz djelokruga
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `naputak-2022-1578` (tags `naputak-2022-1578/<day>`; `python tools/on.py <day> naputak-2022-1578`).
+Act id: `naputak-2022-1578` (tags `naputak-2022-1578/<day>`; `python registry/tools/on.py <day> naputak-2022-1578`).
 
 ## Decisions made by hand
 

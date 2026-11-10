@@ -9,7 +9,7 @@ Odluka o izmjeni Odluke o visini naknade za korištenje prostora koje koriste pr
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2013-2279` (tags `odluka-2013-2279/<day>`; `python tools/on.py <day> odluka-2013-2279`).
+Act id: `odluka-2013-2279` (tags `odluka-2013-2279/<day>`; `python registry/tools/on.py <day> odluka-2013-2279`).
 
 ## Decisions made by hand
 

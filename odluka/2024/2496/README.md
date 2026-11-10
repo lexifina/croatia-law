@@ -9,7 +9,7 @@ Odluka o izmjeni Odluke o porezima Grada Šibenika · 1 versions, from 2025-01-0
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2024-2496` (tags `odluka-2024-2496/<day>`; `python tools/on.py <day> odluka-2024-2496`).
+Act id: `odluka-2024-2496` (tags `odluka-2024-2496/<day>`; `python registry/tools/on.py <day> odluka-2024-2496`).
 
 ## Decisions made by hand
 

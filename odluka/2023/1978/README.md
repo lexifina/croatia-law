@@ -5,7 +5,7 @@ Odluka o visini poreznih stopa godišnjeg poreza na dohodak na području Općine
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `odluka-2023-1978` (tags `odluka-2023-1978/<day>`; `python tools/on.py <day> odluka-2023-1978`).
+Act id: `odluka-2023-1978` (tags `odluka-2023-1978/<day>`; `python registry/tools/on.py <day> odluka-2023-1978`).
 
 ## Decisions made by hand
 

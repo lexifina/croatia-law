@@ -14,7 +14,7 @@ Pravilnik o međusobnim odnosima jedinica područne (regionalne) samouprave i pr
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2017-10` (tags `pravilnik-2017-10/<day>`; `python tools/on.py <day> pravilnik-2017-10`).
+Act id: `pravilnik-2017-10` (tags `pravilnik-2017-10/<day>`; `python registry/tools/on.py <day> pravilnik-2017-10`).
 
 ## Decisions made by hand
 

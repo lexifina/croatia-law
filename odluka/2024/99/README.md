@@ -8,7 +8,7 @@ Odluka o izmjenama Odluke o osiguranju zaliha plina na teritoriju Republike Hrva
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2024-99` (tags `odluka-2024-99/<day>`; `python tools/on.py <day> odluka-2024-99`).
+Act id: `odluka-2024-99` (tags `odluka-2024-99/<day>`; `python registry/tools/on.py <day> odluka-2024-99`).
 
 ## Decisions made by hand
 

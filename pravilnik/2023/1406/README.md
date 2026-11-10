@@ -16,7 +16,7 @@ Pravilnik o obveznom dijelu sadržaja programa stručnog osposobljavanja i usavr
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2023-1406` (tags `pravilnik-2023-1406/<day>`; `python tools/on.py <day> pravilnik-2023-1406`).
+Act id: `pravilnik-2023-1406` (tags `pravilnik-2023-1406/<day>`; `python registry/tools/on.py <day> pravilnik-2023-1406`).
 
 ## Decisions made by hand
 

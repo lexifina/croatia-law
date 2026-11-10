@@ -5,7 +5,7 @@ Odluka o cjeniku nestandardnih usluga operatora transportnog sustava · 2 versio
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `odluka-2022-1600` (tags `odluka-2022-1600/<day>`; `python tools/on.py <day> odluka-2022-1600`).
+Act id: `odluka-2022-1600` (tags `odluka-2022-1600/<day>`; `python registry/tools/on.py <day> odluka-2022-1600`).
 
 ## Decisions made by hand
 

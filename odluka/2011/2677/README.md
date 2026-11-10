@@ -8,7 +8,7 @@ Odluka o izdavanju i prodaji prigodnoga zlatnoga kovanog novca "Čipkarstvo u Hr
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2011-2677` (tags `odluka-2011-2677/<day>`; `python tools/on.py <day> odluka-2011-2677`).
+Act id: `odluka-2011-2677` (tags `odluka-2011-2677/<day>`; `python registry/tools/on.py <day> odluka-2011-2677`).
 
 ## Status
 

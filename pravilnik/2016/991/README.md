@@ -5,7 +5,7 @@ Pravilnik o načinu i uvjetima pristupa i zajedničkog korištenja elektroničke
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `pravilnik-2016-991` (tags `pravilnik-2016-991/<day>`; `python tools/on.py <day> pravilnik-2016-991`).
+Act id: `pravilnik-2016-991` (tags `pravilnik-2016-991/<day>`; `python registry/tools/on.py <day> pravilnik-2016-991`).
 
 ## Decisions made by hand
 

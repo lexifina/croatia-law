@@ -9,7 +9,7 @@ Odluka o usvajanju Izmjene Programa »Pojedinačna jamstva za ruralni razvoj« �
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2020-2902` (tags `odluka-2020-2902/<day>`; `python tools/on.py <day> odluka-2020-2902`).
+Act id: `odluka-2020-2902` (tags `odluka-2020-2902/<day>`; `python registry/tools/on.py <day> odluka-2020-2902`).
 
 ## Decisions made by hand
 

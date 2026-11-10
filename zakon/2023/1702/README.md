@@ -9,7 +9,7 @@ Zakon o izmjenama Zakona o provedbi Uredbe (EU) br. 2017/1131 o novčanim fondov
 | čl. 3 | [clanak-003.md](clanak-003.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2023-1702` (tags `zakon-2023-1702/<day>`; `python tools/on.py <day> zakon-2023-1702`).
+Act id: `zakon-2023-1702` (tags `zakon-2023-1702/<day>`; `python registry/tools/on.py <day> zakon-2023-1702`).
 
 ## Decisions made by hand
 

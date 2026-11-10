@@ -8,7 +8,7 @@ Odluka o izmjenama i dopunama Odluke o koncesiji pomorskog dobra u svrhu gospoda
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2018-2098` (tags `odluka-2018-2098/<day>`; `python tools/on.py <day> odluka-2018-2098`).
+Act id: `odluka-2018-2098` (tags `odluka-2018-2098/<day>`; `python registry/tools/on.py <day> odluka-2018-2098`).
 
 ## Decisions made by hand
 

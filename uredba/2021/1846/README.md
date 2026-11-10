@@ -16,7 +16,7 @@ Uredba o izmjenama Uredbe o unutarnjem ustrojstvu Državnog inspektorata · 1 ve
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2021-1846` (tags `uredba-2021-1846/<day>`; `python tools/on.py <day> uredba-2021-1846`).
+Act id: `uredba-2021-1846` (tags `uredba-2021-1846/<day>`; `python registry/tools/on.py <day> uredba-2021-1846`).
 
 ## Decisions made by hand
 

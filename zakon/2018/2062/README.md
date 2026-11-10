@@ -39,7 +39,7 @@ Zakon o izmjenama i dopunama Zakona o porezu na dohodak · 1 versions, from 2019
 | čl. 33 | [clanak-033.md](clanak-033.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2018-2062` (tags `zakon-2018-2062/<day>`; `python tools/on.py <day> zakon-2018-2062`).
+Act id: `zakon-2018-2062` (tags `zakon-2018-2062/<day>`; `python registry/tools/on.py <day> zakon-2018-2062`).
 
 ## Decisions made by hand
 

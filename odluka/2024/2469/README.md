@@ -13,7 +13,7 @@ Odluka o izmjenama Odluke o provedbi Uredbe (EU) br. 575/2013 u dijelu vrednovan
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2024-2469` (tags `odluka-2024-2469/<day>`; `python tools/on.py <day> odluka-2024-2469`).
+Act id: `odluka-2024-2469` (tags `odluka-2024-2469/<day>`; `python registry/tools/on.py <day> odluka-2024-2469`).
 
 ## Decisions made by hand
 

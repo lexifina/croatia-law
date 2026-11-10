@@ -9,7 +9,7 @@ Odluka o donošenju Programa pravne pomoći za saniranja posljedica katastrofe n
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2014-1680` (tags `odluka-2014-1680/<day>`; `python tools/on.py <day> odluka-2014-1680`).
+Act id: `odluka-2014-1680` (tags `odluka-2014-1680/<day>`; `python registry/tools/on.py <day> odluka-2014-1680`).
 
 ## Decisions made by hand
 

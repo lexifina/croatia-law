@@ -9,7 +9,7 @@ Odluka o upisu učenika u I. razred srednje škole u školskoj godini 2018./2019
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2018-899` (tags `odluka-2018-899/<day>`; `python tools/on.py <day> odluka-2018-899`).
+Act id: `odluka-2018-899` (tags `odluka-2018-899/<day>`; `python registry/tools/on.py <day> odluka-2018-899`).
 
 ## Status
 

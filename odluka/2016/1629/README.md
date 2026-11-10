@@ -26,7 +26,7 @@ Odluka o uvjetima za davanje financijske potpore grupe kreditnih institucija · 
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2016-1629` (tags `odluka-2016-1629/<day>`; `python tools/on.py <day> odluka-2016-1629`).
+Act id: `odluka-2016-1629` (tags `odluka-2016-1629/<day>`; `python registry/tools/on.py <day> odluka-2016-1629`).
 
 ## Decisions made by hand
 

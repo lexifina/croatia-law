@@ -8,7 +8,7 @@ Zakon o dopuni Zakona o igrama na sreću · 1 versions, from 2013-03-26 (latest 
 | čl. 2 | [clanak-002.md](clanak-002.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2013-634` (tags `zakon-2013-634/<day>`; `python tools/on.py <day> zakon-2013-634`).
+Act id: `zakon-2013-634` (tags `zakon-2013-634/<day>`; `python registry/tools/on.py <day> zakon-2013-634`).
 
 ## Decisions made by hand
 

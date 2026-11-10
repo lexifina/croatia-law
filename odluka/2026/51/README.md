@@ -10,7 +10,7 @@ Odluka o izmjenama i dopunama Odluke o opskrbi banaka gotovim novcem eura · 1 v
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2026-51` (tags `odluka-2026-51/<day>`; `python tools/on.py <day> odluka-2026-51`).
+Act id: `odluka-2026-51` (tags `odluka-2026-51/<day>`; `python registry/tools/on.py <day> odluka-2026-51`).
 
 ## Decisions made by hand
 

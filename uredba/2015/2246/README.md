@@ -13,7 +13,7 @@ Uredba o određivanju granice pomorskog dobra na dijelu k.o. Tisno · 1 versions
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2015-2246` (tags `uredba-2015-2246/<day>`; `python tools/on.py <day> uredba-2015-2246`).
+Act id: `uredba-2015-2246` (tags `uredba-2015-2246/<day>`; `python registry/tools/on.py <day> uredba-2015-2246`).
 
 ## Decisions made by hand
 

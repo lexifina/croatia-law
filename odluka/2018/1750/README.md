@@ -8,7 +8,7 @@ Odluka o potvrđivanju Izmjena i dopune Statuta Središnjeg registra osiguranika
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2018-1750` (tags `odluka-2018-1750/<day>`; `python tools/on.py <day> odluka-2018-1750`).
+Act id: `odluka-2018-1750` (tags `odluka-2018-1750/<day>`; `python registry/tools/on.py <day> odluka-2018-1750`).
 
 ## Decisions made by hand
 

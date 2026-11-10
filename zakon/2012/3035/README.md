@@ -8,7 +8,7 @@ Zakon o dopuni Zakona o plaćama sudaca i drugih pravosudnih dužnosnika · 1 ve
 | čl. 2 | [clanak-002.md](clanak-002.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2012-3035` (tags `zakon-2012-3035/<day>`; `python tools/on.py <day> zakon-2012-3035`).
+Act id: `zakon-2012-3035` (tags `zakon-2012-3035/<day>`; `python registry/tools/on.py <day> zakon-2012-3035`).
 
 ## Decisions made by hand
 

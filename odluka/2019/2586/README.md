@@ -23,7 +23,7 @@ Odluka o porezima Općine Vrhovine · 1 versions, from 2020-01-01 (latest in for
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2019-2586` (tags `odluka-2019-2586/<day>`; `python tools/on.py <day> odluka-2019-2586`).
+Act id: `odluka-2019-2586` (tags `odluka-2019-2586/<day>`; `python registry/tools/on.py <day> odluka-2019-2586`).
 
 ## Decisions made by hand
 

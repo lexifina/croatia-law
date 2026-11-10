@@ -22,7 +22,7 @@ Uredba o izmjenama Zakona o osobnoj asistenciji · 1 versions, from 2025-12-31 (
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2025-2362` (tags `uredba-2025-2362/<day>`; `python tools/on.py <day> uredba-2025-2362`).
+Act id: `uredba-2025-2362` (tags `uredba-2025-2362/<day>`; `python registry/tools/on.py <day> uredba-2025-2362`).
 
 ## Decisions made by hand
 

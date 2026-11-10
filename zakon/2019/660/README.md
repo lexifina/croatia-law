@@ -13,7 +13,7 @@ Zakon o izmjenama Zakona o lovstvu · 1 versions, from 2019-04-01 (latest in for
 | čl. 7 | [clanak-007.md](clanak-007.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2019-660` (tags `zakon-2019-660/<day>`; `python tools/on.py <day> zakon-2019-660`).
+Act id: `zakon-2019-660` (tags `zakon-2019-660/<day>`; `python registry/tools/on.py <day> zakon-2019-660`).
 
 ## Decisions made by hand
 

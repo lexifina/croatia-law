@@ -8,7 +8,7 @@ Odluka o donošenju Programa razvoja brdsko-planinskih područja za razdoblje 20
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2022-286` (tags `odluka-2022-286/<day>`; `python tools/on.py <day> odluka-2022-286`).
+Act id: `odluka-2022-286` (tags `odluka-2022-286/<day>`; `python registry/tools/on.py <day> odluka-2022-286`).
 
 ## Decisions made by hand
 

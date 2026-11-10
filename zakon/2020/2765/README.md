@@ -34,7 +34,7 @@ Zakon o izmjenama i dopunama Zakona o akvakulturi · 1 versions, from 2020-12-31
 | čl. 28 | [clanak-028.md](clanak-028.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2020-2765` (tags `zakon-2020-2765/<day>`; `python tools/on.py <day> zakon-2020-2765`).
+Act id: `zakon-2020-2765` (tags `zakon-2020-2765/<day>`; `python registry/tools/on.py <day> zakon-2020-2765`).
 
 ## Decisions made by hand
 

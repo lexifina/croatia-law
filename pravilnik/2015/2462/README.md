@@ -9,7 +9,7 @@ Pravilnik o izmjenama Pravilnika o izvođenju javnih vatrometa · 1 versions, fr
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2015-2462` (tags `pravilnik-2015-2462/<day>`; `python tools/on.py <day> pravilnik-2015-2462`).
+Act id: `pravilnik-2015-2462` (tags `pravilnik-2015-2462/<day>`; `python registry/tools/on.py <day> pravilnik-2015-2462`).
 
 ## Decisions made by hand
 

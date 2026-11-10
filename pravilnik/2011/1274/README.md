@@ -20,7 +20,7 @@ Pravilnik o organiziranju, financiranju i donoÅ¡enju programa festivala DubrovaÄ
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2011-1274` (tags `pravilnik-2011-1274/<day>`; `python tools/on.py <day> pravilnik-2011-1274`).
+Act id: `pravilnik-2011-1274` (tags `pravilnik-2011-1274/<day>`; `python registry/tools/on.py <day> pravilnik-2011-1274`).
 
 ## Status
 

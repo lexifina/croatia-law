@@ -25,7 +25,7 @@ Pravilnik o zabrani primjene određenih tvari hormonskog ili tireostatskog učin
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2026-227` (tags `pravilnik-2026-227/<day>`; `python tools/on.py <day> pravilnik-2026-227`).
+Act id: `pravilnik-2026-227` (tags `pravilnik-2026-227/<day>`; `python registry/tools/on.py <day> pravilnik-2026-227`).
 
 ## Decisions made by hand
 

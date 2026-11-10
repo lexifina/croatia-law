@@ -12,7 +12,7 @@ Zakon o izmjenama i dopuni Zakona o komunalnom gospodarstvu · 1 versions, from 
 | čl. 6 | [clanak-006.md](clanak-006.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2014-2755` (tags `zakon-2014-2755/<day>`; `python tools/on.py <day> zakon-2014-2755`).
+Act id: `zakon-2014-2755` (tags `zakon-2014-2755/<day>`; `python registry/tools/on.py <day> zakon-2014-2755`).
 
 ## Decisions made by hand
 

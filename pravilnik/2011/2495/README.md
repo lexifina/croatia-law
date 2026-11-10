@@ -14,7 +14,7 @@ Pravilnik o načinu rada povjerenstva za zaštitu prava korisnika usluga · 1 ve
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2011-2495` (tags `pravilnik-2011-2495/<day>`; `python tools/on.py <day> pravilnik-2011-2495`).
+Act id: `pravilnik-2011-2495` (tags `pravilnik-2011-2495/<day>`; `python registry/tools/on.py <day> pravilnik-2011-2495`).
 
 ## Status
 

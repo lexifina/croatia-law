@@ -15,7 +15,7 @@ Zakon o izmjenama Zakona o strateškim investicijskim projektima Republike Hrvat
 | čl. 9 | [clanak-009.md](clanak-009.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2018-2216` (tags `zakon-2018-2216/<day>`; `python tools/on.py <day> zakon-2018-2216`).
+Act id: `zakon-2018-2216` (tags `zakon-2018-2216/<day>`; `python registry/tools/on.py <day> zakon-2018-2216`).
 
 ## Decisions made by hand
 

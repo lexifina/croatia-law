@@ -8,7 +8,7 @@ Odluka o izmjenama Odluke o namjeri sudjelovanja u osnivanju fondova za gospodar
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2012-643` (tags `odluka-2012-643/<day>`; `python tools/on.py <day> odluka-2012-643`).
+Act id: `odluka-2012-643` (tags `odluka-2012-643/<day>`; `python registry/tools/on.py <day> odluka-2012-643`).
 
 ## Decisions made by hand
 

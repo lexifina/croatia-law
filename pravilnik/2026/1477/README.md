@@ -26,7 +26,7 @@ Pravilnik o tržišnim standardima za meso peradi · 1 versions, from 2026-11-05
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2026-1477` (tags `pravilnik-2026-1477/<day>`; `python tools/on.py <day> pravilnik-2026-1477`).
+Act id: `pravilnik-2026-1477` (tags `pravilnik-2026-1477/<day>`; `python registry/tools/on.py <day> pravilnik-2026-1477`).
 
 ## Decisions made by hand
 

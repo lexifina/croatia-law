@@ -16,7 +16,7 @@ Zakon o izmjenama i dopunama Zakona o Hrvatskom registru brodova · 1 versions, 
 | čl. 10 | [clanak-010.md](clanak-010.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2013-1528` (tags `zakon-2013-1528/<day>`; `python tools/on.py <day> zakon-2013-1528`).
+Act id: `zakon-2013-1528` (tags `zakon-2013-1528/<day>`; `python registry/tools/on.py <day> zakon-2013-1528`).
 
 ## Decisions made by hand
 

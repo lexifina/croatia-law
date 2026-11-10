@@ -11,7 +11,7 @@ Uredba o visini trošarine na energente i električnu energiju · 1 versions, fr
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2020-2889` (tags `uredba-2020-2889/<day>`; `python tools/on.py <day> uredba-2020-2889`).
+Act id: `uredba-2020-2889` (tags `uredba-2020-2889/<day>`; `python registry/tools/on.py <day> uredba-2020-2889`).
 
 ## Status
 

@@ -24,7 +24,7 @@ Zakon o izmjenama i dopunama Zakona o računovodstvu · 1 versions, from 2018-12
 | čl. 18 | [clanak-018.md](clanak-018.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2018-2292` (tags `zakon-2018-2292/<day>`; `python tools/on.py <day> zakon-2018-2292`).
+Act id: `zakon-2018-2292` (tags `zakon-2018-2292/<day>`; `python registry/tools/on.py <day> zakon-2018-2292`).
 
 ## Decisions made by hand
 

@@ -8,7 +8,7 @@ Odluka o prihvaćanju povećanja kvote Republike Hrvatske u Međunarodnom moneta
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2024-2104` (tags `odluka-2024-2104/<day>`; `python tools/on.py <day> odluka-2024-2104`).
+Act id: `odluka-2024-2104` (tags `odluka-2024-2104/<day>`; `python registry/tools/on.py <day> odluka-2024-2104`).
 
 ## Decisions made by hand
 

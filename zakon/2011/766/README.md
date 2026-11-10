@@ -28,7 +28,7 @@ Zakon o izmjenama i dopunama Zakona o sprječavanju nereda na športskim natjeca
 | čl. 22 | [clanak-022.md](clanak-022.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2011-766` (tags `zakon-2011-766/<day>`; `python tools/on.py <day> zakon-2011-766`).
+Act id: `zakon-2011-766` (tags `zakon-2011-766/<day>`; `python registry/tools/on.py <day> zakon-2011-766`).
 
 ## Decisions made by hand
 

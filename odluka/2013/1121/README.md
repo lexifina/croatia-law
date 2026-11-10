@@ -8,7 +8,7 @@ Odluka o postavljanju Viktora Lvoviča Ovčinjikovog za počasnog konzula Republ
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2013-1121` (tags `odluka-2013-1121/<day>`; `python tools/on.py <day> odluka-2013-1121`).
+Act id: `odluka-2013-1121` (tags `odluka-2013-1121/<day>`; `python registry/tools/on.py <day> odluka-2013-1121`).
 
 ## Decisions made by hand
 

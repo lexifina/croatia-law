@@ -9,7 +9,7 @@ Odluka o utvrđivanju interesa Republike Hrvatske za izgradnju Regionalnog špor
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2015-327` (tags `odluka-2015-327/<day>`; `python tools/on.py <day> odluka-2015-327`).
+Act id: `odluka-2015-327` (tags `odluka-2015-327/<day>`; `python registry/tools/on.py <day> odluka-2015-327`).
 
 ## Decisions made by hand
 

@@ -8,7 +8,7 @@ Zakon o izmjeni Zakona o izvlaštenju i određivanju naknade · 1 versions, from
 | čl. 2 | [clanak-002.md](clanak-002.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2019-1921` (tags `zakon-2019-1921/<day>`; `python tools/on.py <day> zakon-2019-1921`).
+Act id: `zakon-2019-1921` (tags `zakon-2019-1921/<day>`; `python registry/tools/on.py <day> zakon-2019-1921`).
 
 ## Decisions made by hand
 

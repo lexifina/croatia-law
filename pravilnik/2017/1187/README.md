@@ -5,7 +5,7 @@ Pravilnik o odgovarajućem smještaju · 2 versions, from 2017-06-10 (latest in 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `pravilnik-2017-1187` (tags `pravilnik-2017-1187/<day>`; `python tools/on.py <day> pravilnik-2017-1187`).
+Act id: `pravilnik-2017-1187` (tags `pravilnik-2017-1187/<day>`; `python registry/tools/on.py <day> pravilnik-2017-1187`).
 
 ## Decisions made by hand
 

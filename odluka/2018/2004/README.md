@@ -43,7 +43,7 @@ Odluka o uvjetima za otvaranje i funkcioniranje T2S namjenskoga novčanog račun
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2018-2004` (tags `odluka-2018-2004/<day>`; `python tools/on.py <day> odluka-2018-2004`).
+Act id: `odluka-2018-2004` (tags `odluka-2018-2004/<day>`; `python registry/tools/on.py <day> odluka-2018-2004`).
 
 ## Status
 

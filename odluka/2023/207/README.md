@@ -8,7 +8,7 @@ Odluka o dopuni Odluke o promjeni granice pomorskog dobra radi građenja, rekons
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2023-207` (tags `odluka-2023-207/<day>`; `python tools/on.py <day> odluka-2023-207`).
+Act id: `odluka-2023-207` (tags `odluka-2023-207/<day>`; `python registry/tools/on.py <day> odluka-2023-207`).
 
 ## Decisions made by hand
 

@@ -13,7 +13,7 @@ Pravilnik o izmjenama Pravilnika o vrednovanju imovine i obveza mirovinskog fond
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2011-3240` (tags `pravilnik-2011-3240/<day>`; `python tools/on.py <day> pravilnik-2011-3240`).
+Act id: `pravilnik-2011-3240` (tags `pravilnik-2011-3240/<day>`; `python registry/tools/on.py <day> pravilnik-2011-3240`).
 
 ## Decisions made by hand
 

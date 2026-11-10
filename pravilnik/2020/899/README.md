@@ -9,7 +9,7 @@ Pravilnik o izmjeni i dopuni Pravilnika o korištenju cestovnog zemljišta i oba
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2020-899` (tags `pravilnik-2020-899/<day>`; `python tools/on.py <day> pravilnik-2020-899`).
+Act id: `pravilnik-2020-899` (tags `pravilnik-2020-899/<day>`; `python registry/tools/on.py <day> pravilnik-2020-899`).
 
 ## Decisions made by hand
 

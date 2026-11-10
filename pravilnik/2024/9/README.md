@@ -14,7 +14,7 @@ Pravilnik o izmjenama i dopunama Pravilnika o automatskoj razmjeni informacija u
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2024-9` (tags `pravilnik-2024-9/<day>`; `python tools/on.py <day> pravilnik-2024-9`).
+Act id: `pravilnik-2024-9` (tags `pravilnik-2024-9/<day>`; `python registry/tools/on.py <day> pravilnik-2024-9`).
 
 ## Decisions made by hand
 

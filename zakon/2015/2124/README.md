@@ -26,7 +26,7 @@ Zakon o izmjenama i dopunama Zakona o zaštiti potrošača · 1 versions, from 2
 | čl. 20 | [clanak-020.md](clanak-020.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2015-2124` (tags `zakon-2015-2124/<day>`; `python tools/on.py <day> zakon-2015-2124`).
+Act id: `zakon-2015-2124` (tags `zakon-2015-2124/<day>`; `python registry/tools/on.py <day> zakon-2015-2124`).
 
 ## Decisions made by hand
 

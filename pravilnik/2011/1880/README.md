@@ -17,7 +17,7 @@ Pravilnik o provjeri tehničkih rješenja iz zaštite od požara predviđenih u 
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2011-1880` (tags `pravilnik-2011-1880/<day>`; `python tools/on.py <day> pravilnik-2011-1880`).
+Act id: `pravilnik-2011-1880` (tags `pravilnik-2011-1880/<day>`; `python registry/tools/on.py <day> pravilnik-2011-1880`).
 
 ## Decisions made by hand
 

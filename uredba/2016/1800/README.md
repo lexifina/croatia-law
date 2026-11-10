@@ -9,7 +9,7 @@ Uredba o dopuni Uredbe o organizacijskim i tehničkim standardima za povezivanje
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2016-1800` (tags `uredba-2016-1800/<day>`; `python tools/on.py <day> uredba-2016-1800`).
+Act id: `uredba-2016-1800` (tags `uredba-2016-1800/<day>`; `python registry/tools/on.py <day> uredba-2016-1800`).
 
 ## Decisions made by hand
 

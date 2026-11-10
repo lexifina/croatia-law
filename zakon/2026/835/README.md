@@ -22,7 +22,7 @@ Zakon o izmjenama i dopunama Zakona o suzbijanju neprijavljenoga rada · 1 versi
 | čl. 16 | [clanak-016.md](clanak-016.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2026-835` (tags `zakon-2026-835/<day>`; `python tools/on.py <day> zakon-2026-835`).
+Act id: `zakon-2026-835` (tags `zakon-2026-835/<day>`; `python registry/tools/on.py <day> zakon-2026-835`).
 
 ## Decisions made by hand
 

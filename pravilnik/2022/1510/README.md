@@ -16,7 +16,7 @@ Pravilnik o kriterijima slabijeg imovnog stanja polaznika srednje škole radi pl
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2022-1510` (tags `pravilnik-2022-1510/<day>`; `python tools/on.py <day> pravilnik-2022-1510`).
+Act id: `pravilnik-2022-1510` (tags `pravilnik-2022-1510/<day>`; `python registry/tools/on.py <day> pravilnik-2022-1510`).
 
 ## Decisions made by hand
 

@@ -8,7 +8,7 @@ Odluka o provođenju i objavi javnog nadmetanja za izdavanje dozvola za istraži
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2014-1666` (tags `odluka-2014-1666/<day>`; `python tools/on.py <day> odluka-2014-1666`).
+Act id: `odluka-2014-1666` (tags `odluka-2014-1666/<day>`; `python registry/tools/on.py <day> odluka-2014-1666`).
 
 ## Decisions made by hand
 

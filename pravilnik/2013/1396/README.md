@@ -22,7 +22,7 @@ Pravilnik o uvjetima u pogledu prostora, medicinsko-tehničke opreme i sustava k
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2013-1396` (tags `pravilnik-2013-1396/<day>`; `python tools/on.py <day> pravilnik-2013-1396`).
+Act id: `pravilnik-2013-1396` (tags `pravilnik-2013-1396/<day>`; `python registry/tools/on.py <day> pravilnik-2013-1396`).
 
 ## Decisions made by hand
 

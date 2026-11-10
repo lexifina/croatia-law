@@ -11,7 +11,7 @@ Odluka o izmjeni i dopuni Odluke o porezima Općine Lanišće · 1 versions, fro
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2015-1006` (tags `odluka-2015-1006/<day>`; `python tools/on.py <day> odluka-2015-1006`).
+Act id: `odluka-2015-1006` (tags `odluka-2015-1006/<day>`; `python registry/tools/on.py <day> odluka-2015-1006`).
 
 ## Decisions made by hand
 

@@ -16,7 +16,7 @@ Odluka o dopuštenoj visini kala, rastepa, kvara i loma u marikulturi · 1 versi
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2024-2493` (tags `odluka-2024-2493/<day>`; `python tools/on.py <day> odluka-2024-2493`).
+Act id: `odluka-2024-2493` (tags `odluka-2024-2493/<day>`; `python registry/tools/on.py <day> odluka-2024-2493`).
 
 ## Decisions made by hand
 

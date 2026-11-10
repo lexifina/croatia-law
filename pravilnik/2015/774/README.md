@@ -32,7 +32,7 @@ Pravilnik o uvjetima u pogledu prostora, opreme i djelatnika Vojno zdravstvenog 
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2015-774` (tags `pravilnik-2015-774/<day>`; `python tools/on.py <day> pravilnik-2015-774`).
+Act id: `pravilnik-2015-774` (tags `pravilnik-2015-774/<day>`; `python registry/tools/on.py <day> pravilnik-2015-774`).
 
 ## Decisions made by hand
 

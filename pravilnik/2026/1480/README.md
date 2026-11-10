@@ -10,7 +10,7 @@ Pravilnik o izmjenama i dopunama Pravilnika o troškovima koji se mogu plaćati 
 | čl. 4 | [clanak-004.md](clanak-004.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `pravilnik-2026-1480` (tags `pravilnik-2026-1480/<day>`; `python tools/on.py <day> pravilnik-2026-1480`).
+Act id: `pravilnik-2026-1480` (tags `pravilnik-2026-1480/<day>`; `python registry/tools/on.py <day> pravilnik-2026-1480`).
 
 ## Decisions made by hand
 

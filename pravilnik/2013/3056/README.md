@@ -17,7 +17,7 @@ Pravilnik o strukturi i sadržaju godišnjih i polugodišnjih izvještaja i drug
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2013-3056` (tags `pravilnik-2013-3056/<day>`; `python tools/on.py <day> pravilnik-2013-3056`).
+Act id: `pravilnik-2013-3056` (tags `pravilnik-2013-3056/<day>`; `python registry/tools/on.py <day> pravilnik-2013-3056`).
 
 ## Status
 

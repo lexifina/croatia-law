@@ -13,7 +13,7 @@ Uredba o kriterijima za utvrđivanje korisnika i načinu raspodjele dijela priho
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2012-754` (tags `uredba-2012-754/<day>`; `python tools/on.py <day> uredba-2012-754`).
+Act id: `uredba-2012-754` (tags `uredba-2012-754/<day>`; `python registry/tools/on.py <day> uredba-2012-754`).
 
 ## Decisions made by hand
 

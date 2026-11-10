@@ -8,7 +8,7 @@ Odluka o davanju suglasnosti na Odluku o izmjenama i dopunama Statuta Fonda za p
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2012-2003` (tags `odluka-2012-2003/<day>`; `python tools/on.py <day> odluka-2012-2003`).
+Act id: `odluka-2012-2003` (tags `odluka-2012-2003/<day>`; `python registry/tools/on.py <day> odluka-2012-2003`).
 
 ## Decisions made by hand
 

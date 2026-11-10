@@ -8,7 +8,7 @@ Odluka o katastarskoj izmjeri na području Općine Viškovo za dijelove k. o. Ma
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2018-1477` (tags `odluka-2018-1477/<day>`; `python tools/on.py <day> odluka-2018-1477`).
+Act id: `odluka-2018-1477` (tags `odluka-2018-1477/<day>`; `python registry/tools/on.py <day> odluka-2018-1477`).
 
 ## Decisions made by hand
 

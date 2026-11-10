@@ -10,7 +10,7 @@ Pravilnik o izmjenama Pravilnika o provedbi intervencija 77.01. Potpora za sudje
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2023-2376` (tags `pravilnik-2023-2376/<day>`; `python tools/on.py <day> pravilnik-2023-2376`).
+Act id: `pravilnik-2023-2376` (tags `pravilnik-2023-2376/<day>`; `python registry/tools/on.py <day> pravilnik-2023-2376`).
 
 ## Decisions made by hand
 

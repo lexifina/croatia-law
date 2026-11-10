@@ -24,7 +24,7 @@ Pravilnik o načinu evidentiranja i vođenju Registra subjekata i pripadajućih 
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2022-1496` (tags `pravilnik-2022-1496/<day>`; `python tools/on.py <day> pravilnik-2022-1496`).
+Act id: `pravilnik-2022-1496` (tags `pravilnik-2022-1496/<day>`; `python registry/tools/on.py <day> pravilnik-2022-1496`).
 
 ## Decisions made by hand
 

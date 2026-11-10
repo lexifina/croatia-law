@@ -10,7 +10,7 @@ Uredba o izmjenama i dopunama Uredbe o nazivima radnih mjesta i koeficijentima s
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2011-2852` (tags `uredba-2011-2852/<day>`; `python tools/on.py <day> uredba-2011-2852`).
+Act id: `uredba-2011-2852` (tags `uredba-2011-2852/<day>`; `python registry/tools/on.py <day> uredba-2011-2852`).
 
 ## Decisions made by hand
 

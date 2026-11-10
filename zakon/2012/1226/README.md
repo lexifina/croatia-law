@@ -13,7 +13,7 @@ Zakon o izmjenama Zakona o prostornom uređenju i gradnji · 1 versions, from 20
 | čl. 7 | [clanak-007.md](clanak-007.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2012-1226` (tags `zakon-2012-1226/<day>`; `python tools/on.py <day> zakon-2012-1226`).
+Act id: `zakon-2012-1226` (tags `zakon-2012-1226/<day>`; `python registry/tools/on.py <day> zakon-2012-1226`).
 
 ## Decisions made by hand
 

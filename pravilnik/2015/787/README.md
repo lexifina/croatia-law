@@ -17,7 +17,7 @@ Pravilnik o izmjenama i dopunama Pravilnika o statusu i radu stranaca u Republic
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2015-787` (tags `pravilnik-2015-787/<day>`; `python tools/on.py <day> pravilnik-2015-787`).
+Act id: `pravilnik-2015-787` (tags `pravilnik-2015-787/<day>`; `python registry/tools/on.py <day> pravilnik-2015-787`).
 
 ## Decisions made by hand
 

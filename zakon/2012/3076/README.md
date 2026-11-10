@@ -40,7 +40,7 @@ Zakon o izmjenama i dopunama Kaznenog zakona · 1 versions, from 2013-01-01 (lat
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 
-Act id: `zakon-2012-3076` (tags `zakon-2012-3076/<day>`; `python tools/on.py <day> zakon-2012-3076`).
+Act id: `zakon-2012-3076` (tags `zakon-2012-3076/<day>`; `python registry/tools/on.py <day> zakon-2012-3076`).
 
 ## Status
 

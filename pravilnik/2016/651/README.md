@@ -9,7 +9,7 @@ Pravilnik o izmjeni Pravilnika o provedbi mjere Investicije u vinarije i marketi
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2016-651` (tags `pravilnik-2016-651/<day>`; `python tools/on.py <day> pravilnik-2016-651`).
+Act id: `pravilnik-2016-651` (tags `pravilnik-2016-651/<day>`; `python registry/tools/on.py <day> pravilnik-2016-651`).
 
 ## Decisions made by hand
 

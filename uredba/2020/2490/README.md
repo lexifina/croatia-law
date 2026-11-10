@@ -9,7 +9,7 @@ Uredba o dopuni Uredbe o određivanju štićenih osoba, objekata i prostora te p
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2020-2490` (tags `uredba-2020-2490/<day>`; `python tools/on.py <day> uredba-2020-2490`).
+Act id: `uredba-2020-2490` (tags `uredba-2020-2490/<day>`; `python registry/tools/on.py <day> uredba-2020-2490`).
 
 ## Decisions made by hand
 

@@ -9,7 +9,7 @@ Odluka o izmjeni Odluke o cijeni police dopunskog zdravstvenog osiguranja · 1 v
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2025-2399` (tags `odluka-2025-2399/<day>`; `python tools/on.py <day> odluka-2025-2399`).
+Act id: `odluka-2025-2399` (tags `odluka-2025-2399/<day>`; `python registry/tools/on.py <day> odluka-2025-2399`).
 
 ## Decisions made by hand
 

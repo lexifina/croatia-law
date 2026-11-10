@@ -45,7 +45,7 @@ Pravilnik o gospodarenju otpadom · 1 versions, from 2014-02-21 (latest in force
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2014-426` (tags `pravilnik-2014-426/<day>`; `python tools/on.py <day> pravilnik-2014-426`).
+Act id: `pravilnik-2014-426` (tags `pravilnik-2014-426/<day>`; `python registry/tools/on.py <day> pravilnik-2014-426`).
 
 ## Status
 

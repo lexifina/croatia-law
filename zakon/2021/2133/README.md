@@ -32,7 +32,7 @@ Zakon o izmjenama i dopunama Zakona o odvjetništvu · 1 versions, from 2021-12-
 | čl. 26 | [clanak-026.md](clanak-026.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2021-2133` (tags `zakon-2021-2133/<day>`; `python tools/on.py <day> zakon-2021-2133`).
+Act id: `zakon-2021-2133` (tags `zakon-2021-2133/<day>`; `python registry/tools/on.py <day> zakon-2021-2133`).
 
 ## Decisions made by hand
 

@@ -18,7 +18,7 @@ Pravilnik o upisniku koncesija na kulturnom dobru · 1 versions, from 2015-07-23
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2015-1477` (tags `pravilnik-2015-1477/<day>`; `python tools/on.py <day> pravilnik-2015-1477`).
+Act id: `pravilnik-2015-1477` (tags `pravilnik-2015-1477/<day>`; `python registry/tools/on.py <day> pravilnik-2015-1477`).
 
 ## Status
 

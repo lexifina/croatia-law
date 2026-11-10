@@ -58,7 +58,7 @@ Zakon o izmjenama i dopunama Zakona o doprinosima · 1 versions, from 2019-01-01
 | čl. 52 | [clanak-052.md](clanak-052.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2018-2063` (tags `zakon-2018-2063/<day>`; `python tools/on.py <day> zakon-2018-2063`).
+Act id: `zakon-2018-2063` (tags `zakon-2018-2063/<day>`; `python registry/tools/on.py <day> zakon-2018-2063`).
 
 ## Decisions made by hand
 

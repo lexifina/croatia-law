@@ -9,7 +9,7 @@ Odluka o izmjeni Odluke o utvrđivanju cijene odobrenja za obavljanje domaće ra
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2019-67` (tags `odluka-2019-67/<day>`; `python tools/on.py <day> odluka-2019-67`).
+Act id: `odluka-2019-67` (tags `odluka-2019-67/<day>`; `python registry/tools/on.py <day> odluka-2019-67`).
 
 ## Decisions made by hand
 

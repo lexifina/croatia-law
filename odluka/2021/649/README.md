@@ -9,7 +9,7 @@ Odluka o prijenosu sredstava i usklađivanju Financijskog plana Hrvatskih autoce
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2021-649` (tags `odluka-2021-649/<day>`; `python tools/on.py <day> odluka-2021-649`).
+Act id: `odluka-2021-649` (tags `odluka-2021-649/<day>`; `python registry/tools/on.py <day> odluka-2021-649`).
 
 ## Decisions made by hand
 

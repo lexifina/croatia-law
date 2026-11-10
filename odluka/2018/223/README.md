@@ -16,7 +16,7 @@ Odluka o informatičkim rješenjima za dostavu izvještaja kreditnih institucija
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2018-223` (tags `odluka-2018-223/<day>`; `python tools/on.py <day> odluka-2018-223`).
+Act id: `odluka-2018-223` (tags `odluka-2018-223/<day>`; `python registry/tools/on.py <day> odluka-2018-223`).
 
 ## Status
 

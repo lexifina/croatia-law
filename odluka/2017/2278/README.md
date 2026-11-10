@@ -9,7 +9,7 @@ Odluka o usvajanju Jamstvenog programa »Poljoprivrednici« · 1 versions, from 
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2017-2278` (tags `odluka-2017-2278/<day>`; `python tools/on.py <day> odluka-2017-2278`).
+Act id: `odluka-2017-2278` (tags `odluka-2017-2278/<day>`; `python registry/tools/on.py <day> odluka-2017-2278`).
 
 ## Decisions made by hand
 

@@ -9,7 +9,7 @@ Pravilnik o izmjeni Pravilnika o uvjetima, kriterijima i načinu dodjele potpore
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2021-1850` (tags `pravilnik-2021-1850/<day>`; `python tools/on.py <day> pravilnik-2021-1850`).
+Act id: `pravilnik-2021-1850` (tags `pravilnik-2021-1850/<day>`; `python registry/tools/on.py <day> pravilnik-2021-1850`).
 
 ## Decisions made by hand
 

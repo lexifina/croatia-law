@@ -9,7 +9,7 @@ Odluka o naknadi za stanovanje · 1 versions, from 2015-09-12 (latest in force: 
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2015-1881` (tags `odluka-2015-1881/<day>`; `python tools/on.py <day> odluka-2015-1881`).
+Act id: `odluka-2015-1881` (tags `odluka-2015-1881/<day>`; `python registry/tools/on.py <day> odluka-2015-1881`).
 
 ## Status
 

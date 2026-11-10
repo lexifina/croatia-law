@@ -5,7 +5,7 @@ Pravilnik o posebnim uvjetima za objekte u poslovanju s hranom životinjskog pod
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `pravilnik-2015-1951` (tags `pravilnik-2015-1951/<day>`; `python tools/on.py <day> pravilnik-2015-1951`).
+Act id: `pravilnik-2015-1951` (tags `pravilnik-2015-1951/<day>`; `python registry/tools/on.py <day> pravilnik-2015-1951`).
 
 ## Decisions made by hand
 

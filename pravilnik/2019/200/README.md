@@ -5,7 +5,7 @@ Pravilnik o troškovima koji se mogu plaćati iz imovine obveznog mirovinskog fo
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `pravilnik-2019-200` (tags `pravilnik-2019-200/<day>`; `python tools/on.py <day> pravilnik-2019-200`).
+Act id: `pravilnik-2019-200` (tags `pravilnik-2019-200/<day>`; `python registry/tools/on.py <day> pravilnik-2019-200`).
 
 ## Decisions made by hand
 

@@ -10,7 +10,7 @@ Uredba o izmjenama Zakona o zaštiti i očuvanju kulturnih dobara · 1 versions,
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2015-1897` (tags `uredba-2015-1897/<day>`; `python tools/on.py <day> uredba-2015-1897`).
+Act id: `uredba-2015-1897` (tags `uredba-2015-1897/<day>`; `python registry/tools/on.py <day> uredba-2015-1897`).
 
 ## Decisions made by hand
 

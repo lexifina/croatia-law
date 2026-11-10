@@ -5,7 +5,7 @@ Odluka o visini naknade za sklapanje braka izvan službenih prostorija izvan red
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `odluka-2017-1904` (tags `odluka-2017-1904/<day>`; `python tools/on.py <day> odluka-2017-1904`).
+Act id: `odluka-2017-1904` (tags `odluka-2017-1904/<day>`; `python registry/tools/on.py <day> odluka-2017-1904`).
 
 ## Decisions made by hand
 

@@ -17,7 +17,7 @@ Pravilnik o osobnoj nadzornoj knjiÅ¾ici, iskaznici protuminskog djelovanja i voÄ
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2016-1457` (tags `pravilnik-2016-1457/<day>`; `python tools/on.py <day> pravilnik-2016-1457`).
+Act id: `pravilnik-2016-1457` (tags `pravilnik-2016-1457/<day>`; `python registry/tools/on.py <day> pravilnik-2016-1457`).
 
 ## Status
 

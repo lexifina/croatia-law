@@ -34,7 +34,7 @@ Uredba o organizacijskim i tehničkim standardima za povezivanje na državnu inf
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2015-2006` (tags `uredba-2015-2006/<day>`; `python tools/on.py <day> uredba-2015-2006`).
+Act id: `uredba-2015-2006` (tags `uredba-2015-2006/<day>`; `python registry/tools/on.py <day> uredba-2015-2006`).
 
 ## Status
 

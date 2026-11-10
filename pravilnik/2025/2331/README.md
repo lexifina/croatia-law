@@ -20,7 +20,7 @@ Pravilnik o visini naknade za sakupljanje, preradu i uklanjanje nusproizvoda ži
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2025-2331` (tags `pravilnik-2025-2331/<day>`; `python tools/on.py <day> pravilnik-2025-2331`).
+Act id: `pravilnik-2025-2331` (tags `pravilnik-2025-2331/<day>`; `python registry/tools/on.py <day> pravilnik-2025-2331`).
 
 ## Decisions made by hand
 

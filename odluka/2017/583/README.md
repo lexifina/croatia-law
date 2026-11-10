@@ -12,7 +12,7 @@ Odluka o izmjenama i dopunama Odluke o osnovama za sklapanje ugovora o provođen
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2017-583` (tags `odluka-2017-583/<day>`; `python tools/on.py <day> odluka-2017-583`).
+Act id: `odluka-2017-583` (tags `odluka-2017-583/<day>`; `python registry/tools/on.py <day> odluka-2017-583`).
 
 ## Decisions made by hand
 

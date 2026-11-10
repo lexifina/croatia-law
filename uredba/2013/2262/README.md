@@ -18,7 +18,7 @@ Uredba o izvozu i uvozu robe koja bi se mogla koristiti za izvršenje smrtne kaz
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2013-2262` (tags `uredba-2013-2262/<day>`; `python tools/on.py <day> uredba-2013-2262`).
+Act id: `uredba-2013-2262` (tags `uredba-2013-2262/<day>`; `python registry/tools/on.py <day> uredba-2013-2262`).
 
 ## Status
 

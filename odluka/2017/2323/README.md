@@ -8,7 +8,7 @@ Odluka o izboru tri suca Ustavnog suda Republike Hrvatske · 1 versions, from 20
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2017-2323` (tags `odluka-2017-2323/<day>`; `python tools/on.py <day> odluka-2017-2323`).
+Act id: `odluka-2017-2323` (tags `odluka-2017-2323/<day>`; `python registry/tools/on.py <day> odluka-2017-2323`).
 
 ## Decisions made by hand
 

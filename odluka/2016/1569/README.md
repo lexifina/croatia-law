@@ -9,7 +9,7 @@ Odluka o usvajanju Programa ESIF jamstva Hrvatske agencije za malo gospodarstvo,
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2016-1569` (tags `odluka-2016-1569/<day>`; `python tools/on.py <day> odluka-2016-1569`).
+Act id: `odluka-2016-1569` (tags `odluka-2016-1569/<day>`; `python registry/tools/on.py <day> odluka-2016-1569`).
 
 ## Status
 

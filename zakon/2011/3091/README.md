@@ -9,7 +9,7 @@ Zakon o izmjenama Ovršnog zakona · 1 versions, from 2011-12-22 (latest in forc
 | čl. 3 | [clanak-003.md](clanak-003.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2011-3091` (tags `zakon-2011-3091/<day>`; `python tools/on.py <day> zakon-2011-3091`).
+Act id: `zakon-2011-3091` (tags `zakon-2011-3091/<day>`; `python registry/tools/on.py <day> zakon-2011-3091`).
 
 ## Decisions made by hand
 

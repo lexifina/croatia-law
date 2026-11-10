@@ -9,7 +9,7 @@ Zakon o izmjeni Zakona o Državnom sudbenom vijeću · 1 versions, from 2020-01-
 | čl. 3 | [clanak-003.md](clanak-003.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2019-2533` (tags `zakon-2019-2533/<day>`; `python tools/on.py <day> zakon-2019-2533`).
+Act id: `zakon-2019-2533` (tags `zakon-2019-2533/<day>`; `python registry/tools/on.py <day> zakon-2019-2533`).
 
 ## Decisions made by hand
 

@@ -13,7 +13,7 @@ Uredba o izmjenama Uredbe o uvjetima za dolazak i boravak stranih jahti · 1 ver
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2017-1139` (tags `uredba-2017-1139/<day>`; `python tools/on.py <day> uredba-2017-1139`).
+Act id: `uredba-2017-1139` (tags `uredba-2017-1139/<day>`; `python registry/tools/on.py <day> uredba-2017-1139`).
 
 ## Decisions made by hand
 

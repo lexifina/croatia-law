@@ -12,7 +12,7 @@ Uredba o izmjeni Uredbe o osnivanju Javne ustanove "Memorijalni centar Domovinsk
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2014-2644` (tags `uredba-2014-2644/<day>`; `python tools/on.py <day> uredba-2014-2644`).
+Act id: `uredba-2014-2644` (tags `uredba-2014-2644/<day>`; `python registry/tools/on.py <day> uredba-2014-2644`).
 
 ## Decisions made by hand
 

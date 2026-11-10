@@ -9,7 +9,7 @@ Zakon o dopuni Zakona o turističkoj pristojbi · 1 versions, from 2020-03-20 (l
 | čl. 3 | [clanak-003.md](clanak-003.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2020-701` (tags `zakon-2020-701/<day>`; `python tools/on.py <day> zakon-2020-701`).
+Act id: `zakon-2020-701` (tags `zakon-2020-701/<day>`; `python registry/tools/on.py <day> zakon-2020-701`).
 
 ## Decisions made by hand
 

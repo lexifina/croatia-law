@@ -8,7 +8,7 @@ Odluka o katastarskoj izmjeri na području Grada Zaprešića i Općine Bistra za
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2023-119` (tags `odluka-2023-119/<day>`; `python tools/on.py <day> odluka-2023-119`).
+Act id: `odluka-2023-119` (tags `odluka-2023-119/<day>`; `python registry/tools/on.py <day> odluka-2023-119`).
 
 ## Decisions made by hand
 

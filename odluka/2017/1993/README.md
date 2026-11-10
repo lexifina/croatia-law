@@ -9,7 +9,7 @@ Odluka o donošenju standarda zanimanja za stjecanje kvalifikacije medijski tehn
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2017-1993` (tags `odluka-2017-1993/<day>`; `python tools/on.py <day> odluka-2017-1993`).
+Act id: `odluka-2017-1993` (tags `odluka-2017-1993/<day>`; `python registry/tools/on.py <day> odluka-2017-1993`).
 
 ## Decisions made by hand
 

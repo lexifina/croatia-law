@@ -8,7 +8,7 @@ Odluka o posebnoj sigurnosnoj mjeri obveznog sudjelovanja zdravstvenih ustanova 
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2021-979` (tags `odluka-2021-979/<day>`; `python tools/on.py <day> odluka-2021-979`).
+Act id: `odluka-2021-979` (tags `odluka-2021-979/<day>`; `python registry/tools/on.py <day> odluka-2021-979`).
 
 ## Decisions made by hand
 

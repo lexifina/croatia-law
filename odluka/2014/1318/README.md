@@ -9,7 +9,7 @@ Odluka o uvjetima za prijam učenika u učeničke domove u školskoj godini 2014
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2014-1318` (tags `odluka-2014-1318/<day>`; `python tools/on.py <day> odluka-2014-1318`).
+Act id: `odluka-2014-1318` (tags `odluka-2014-1318/<day>`; `python registry/tools/on.py <day> odluka-2014-1318`).
 
 ## Decisions made by hand
 

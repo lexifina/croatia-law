@@ -30,7 +30,7 @@ Odluka o porezima Općine Gornji Kneginec · 1 versions, from 2017-08-05 (latest
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2017-1830` (tags `odluka-2017-1830/<day>`; `python tools/on.py <day> odluka-2017-1830`).
+Act id: `odluka-2017-1830` (tags `odluka-2017-1830/<day>`; `python registry/tools/on.py <day> odluka-2017-1830`).
 
 ## Status
 

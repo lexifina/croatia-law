@@ -8,7 +8,7 @@ Odluka o donošenju Strategije procjene učinaka propisa za razdoblje od 2018. d
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2017-2954` (tags `odluka-2017-2954/<day>`; `python tools/on.py <day> odluka-2017-2954`).
+Act id: `odluka-2017-2954` (tags `odluka-2017-2954/<day>`; `python registry/tools/on.py <day> odluka-2017-2954`).
 
 ## Decisions made by hand
 

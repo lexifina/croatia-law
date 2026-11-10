@@ -8,7 +8,7 @@ Odluka o izmjeni Odluke o pokretanju postupka pregovora o sklapanju · 1 version
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2016-2357` (tags `odluka-2016-2357/<day>`; `python tools/on.py <day> odluka-2016-2357`).
+Act id: `odluka-2016-2357` (tags `odluka-2016-2357/<day>`; `python registry/tools/on.py <day> odluka-2016-2357`).
 
 ## Decisions made by hand
 

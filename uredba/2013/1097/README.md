@@ -22,7 +22,7 @@ Uredba o izmjenama i dopunama Uredbe o unutarnjem ustrojstvu Ministarstva socija
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2013-1097` (tags `uredba-2013-1097/<day>`; `python tools/on.py <day> uredba-2013-1097`).
+Act id: `uredba-2013-1097` (tags `uredba-2013-1097/<day>`; `python registry/tools/on.py <day> uredba-2013-1097`).
 
 ## Decisions made by hand
 

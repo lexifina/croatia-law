@@ -9,7 +9,7 @@ Pravilnik o dopuni Pravilnika o djelokrugu rada tajnika te administrativno-tehni
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2025-926` (tags `pravilnik-2025-926/<day>`; `python tools/on.py <day> pravilnik-2025-926`).
+Act id: `pravilnik-2025-926` (tags `pravilnik-2025-926/<day>`; `python registry/tools/on.py <day> pravilnik-2025-926`).
 
 ## Decisions made by hand
 

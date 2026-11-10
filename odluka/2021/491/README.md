@@ -8,7 +8,7 @@ Odluka o uvođenju nužnih epidemioloških mjera za područje Grada Dubrovnika, 
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2021-491` (tags `odluka-2021-491/<day>`; `python tools/on.py <day> odluka-2021-491`).
+Act id: `odluka-2021-491` (tags `odluka-2021-491/<day>`; `python registry/tools/on.py <day> odluka-2021-491`).
 
 ## Status
 

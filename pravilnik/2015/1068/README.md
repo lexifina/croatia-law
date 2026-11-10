@@ -10,7 +10,7 @@ Pravilnik o ukidanju Pravilnika o tehničkim i mjeriteljskim zahtjevima za mjeri
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2015-1068` (tags `pravilnik-2015-1068/<day>`; `python tools/on.py <day> pravilnik-2015-1068`).
+Act id: `pravilnik-2015-1068` (tags `pravilnik-2015-1068/<day>`; `python registry/tools/on.py <day> pravilnik-2015-1068`).
 
 ## Decisions made by hand
 

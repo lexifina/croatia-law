@@ -18,7 +18,7 @@ Odluka o postupanju pri primjeni ovlasti za smanjenje vrijednosti i pretvaranje 
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2018-451` (tags `odluka-2018-451/<day>`; `python tools/on.py <day> odluka-2018-451`).
+Act id: `odluka-2018-451` (tags `odluka-2018-451/<day>`; `python registry/tools/on.py <day> odluka-2018-451`).
 
 ## Status
 

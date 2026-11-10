@@ -10,7 +10,7 @@ Uredba o izmjeni Uredbe o plaćama policijskih službenika · 1 versions, from 2
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2015-826` (tags `uredba-2015-826/<day>`; `python tools/on.py <day> uredba-2015-826`).
+Act id: `uredba-2015-826` (tags `uredba-2015-826/<day>`; `python registry/tools/on.py <day> uredba-2015-826`).
 
 ## Decisions made by hand
 

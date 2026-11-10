@@ -20,7 +20,7 @@ Uredba o izmjenama Uredbe o klasifikaciji radnih mjesta u lokalnoj i područnoj 
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2023-820` (tags `uredba-2023-820/<day>`; `python tools/on.py <day> uredba-2023-820`).
+Act id: `uredba-2023-820` (tags `uredba-2023-820/<day>`; `python registry/tools/on.py <day> uredba-2023-820`).
 
 ## Decisions made by hand
 

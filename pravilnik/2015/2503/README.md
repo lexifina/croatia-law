@@ -10,7 +10,7 @@ Pravilnik o sadržaju dokumentacije za izdavanje odobrenja za primjenu prilagodb
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 
-Act id: `pravilnik-2015-2503` (tags `pravilnik-2015-2503/<day>`; `python tools/on.py <day> pravilnik-2015-2503`).
+Act id: `pravilnik-2015-2503` (tags `pravilnik-2015-2503/<day>`; `python registry/tools/on.py <day> pravilnik-2015-2503`).
 
 ## Decisions made by hand
 

@@ -12,7 +12,7 @@ Pravilnik o obrascu izvješća o realizaciji financiranja javnih potreba u kultu
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2022-1951` (tags `pravilnik-2022-1951/<day>`; `python tools/on.py <day> pravilnik-2022-1951`).
+Act id: `pravilnik-2022-1951` (tags `pravilnik-2022-1951/<day>`; `python registry/tools/on.py <day> pravilnik-2022-1951`).
 
 ## Decisions made by hand
 

@@ -10,7 +10,7 @@ Odluka o izmjeni Odluke o kontroli provjere autentičnosti i prikladnosti gotovo
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2025-1718` (tags `odluka-2025-1718/<day>`; `python tools/on.py <day> odluka-2025-1718`).
+Act id: `odluka-2025-1718` (tags `odluka-2025-1718/<day>`; `python registry/tools/on.py <day> odluka-2025-1718`).
 
 ## Decisions made by hand
 

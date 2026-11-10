@@ -8,7 +8,7 @@ Zakon o izmjeni Zakona o obavljanju studentskih poslova · 1 versions, from 2020
 | čl. 2 | [clanak-002.md](clanak-002.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2020-329` (tags `zakon-2020-329/<day>`; `python tools/on.py <day> zakon-2020-329`).
+Act id: `zakon-2020-329` (tags `zakon-2020-329/<day>`; `python registry/tools/on.py <day> zakon-2020-329`).
 
 ## Decisions made by hand
 

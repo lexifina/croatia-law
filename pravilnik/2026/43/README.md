@@ -10,7 +10,7 @@ Pravilnik o izmjeni i dopunama Pravilnika o posebnom režimu upravljanja ribolov
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2026-43` (tags `pravilnik-2026-43/<day>`; `python tools/on.py <day> pravilnik-2026-43`).
+Act id: `pravilnik-2026-43` (tags `pravilnik-2026-43/<day>`; `python registry/tools/on.py <day> pravilnik-2026-43`).
 
 ## Decisions made by hand
 

@@ -15,7 +15,7 @@ Pravilnik o popisu trgovačkih naziva proizvoda ribarstva i akvakulture · 1 ver
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2023-103` (tags `pravilnik-2023-103/<day>`; `python tools/on.py <day> pravilnik-2023-103`).
+Act id: `pravilnik-2023-103` (tags `pravilnik-2023-103/<day>`; `python registry/tools/on.py <day> pravilnik-2023-103`).
 
 ## Status
 

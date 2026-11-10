@@ -17,7 +17,7 @@ Zakon o izmjenama i dopunama Zakona o porezu na dodanu vrijednost · 1 versions,
 | čl. 11 | [clanak-011.md](clanak-011.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2012-569` (tags `zakon-2012-569/<day>`; `python tools/on.py <day> zakon-2012-569`).
+Act id: `zakon-2012-569` (tags `zakon-2012-569/<day>`; `python registry/tools/on.py <day> zakon-2012-569`).
 
 ## Decisions made by hand
 

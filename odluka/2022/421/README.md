@@ -8,7 +8,7 @@ Odluka o prestanku važenja Odluke o posebnom načinu rada tržnica za vrijeme t
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2022-421` (tags `odluka-2022-421/<day>`; `python tools/on.py <day> odluka-2022-421`).
+Act id: `odluka-2022-421` (tags `odluka-2022-421/<day>`; `python registry/tools/on.py <day> odluka-2022-421`).
 
 ## Decisions made by hand
 

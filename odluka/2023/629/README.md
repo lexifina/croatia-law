@@ -8,7 +8,7 @@ Odluka o raspisivanju izbora za članove vijeća nacionalnih manjina u jedinicam
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2023-629` (tags `odluka-2023-629/<day>`; `python tools/on.py <day> odluka-2023-629`).
+Act id: `odluka-2023-629` (tags `odluka-2023-629/<day>`; `python registry/tools/on.py <day> odluka-2023-629`).
 
 ## Decisions made by hand
 

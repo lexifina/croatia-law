@@ -13,7 +13,7 @@ Uredba o određivanju tijela za provedbu Uredbe (EZ-a) br. 2006/2004 Europskog p
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2014-1663` (tags `uredba-2014-1663/<day>`; `python tools/on.py <day> uredba-2014-1663`).
+Act id: `uredba-2014-1663` (tags `uredba-2014-1663/<day>`; `python registry/tools/on.py <day> uredba-2014-1663`).
 
 ## Status
 

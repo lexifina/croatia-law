@@ -13,7 +13,7 @@ Zakon o izmjenama i dopuni Zakona o potpori poljoprivredi i ruralnom razvoju · 
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 
-Act id: `zakon-2014-731` (tags `zakon-2014-731/<day>`; `python tools/on.py <day> zakon-2014-731`).
+Act id: `zakon-2014-731` (tags `zakon-2014-731/<day>`; `python registry/tools/on.py <day> zakon-2014-731`).
 
 ## Decisions made by hand
 

@@ -136,7 +136,7 @@ Zakon o sanaciji kreditnih institucija i investicijskih društava · 1 versions,
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 
-Act id: `zakon-2015-396` (tags `zakon-2015-396/<day>`; `python tools/on.py <day> zakon-2015-396`).
+Act id: `zakon-2015-396` (tags `zakon-2015-396/<day>`; `python registry/tools/on.py <day> zakon-2015-396`).
 
 ## Status
 

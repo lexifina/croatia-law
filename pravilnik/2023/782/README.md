@@ -23,7 +23,7 @@ Pravilnik o dodjeli adresa i brojeva · 1 versions, from 2023-05-04 (latest in f
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2023-782` (tags `pravilnik-2023-782/<day>`; `python tools/on.py <day> pravilnik-2023-782`).
+Act id: `pravilnik-2023-782` (tags `pravilnik-2023-782/<day>`; `python registry/tools/on.py <day> pravilnik-2023-782`).
 
 ## Decisions made by hand
 

@@ -27,7 +27,7 @@ Pravilnik o izmjenama i dopunama Pravilnika o načinu izvođenja osnovnih geodet
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2025-1503` (tags `pravilnik-2025-1503/<day>`; `python tools/on.py <day> pravilnik-2025-1503`).
+Act id: `pravilnik-2025-1503` (tags `pravilnik-2025-1503/<day>`; `python registry/tools/on.py <day> pravilnik-2025-1503`).
 
 ## Decisions made by hand
 

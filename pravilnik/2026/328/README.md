@@ -9,7 +9,7 @@ Pravilnik o dopuni Pravilnika o sadržaju i obliku državnog žiga · 1 versions
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2026-328` (tags `pravilnik-2026-328/<day>`; `python tools/on.py <day> pravilnik-2026-328`).
+Act id: `pravilnik-2026-328` (tags `pravilnik-2026-328/<day>`; `python registry/tools/on.py <day> pravilnik-2026-328`).
 
 ## Decisions made by hand
 

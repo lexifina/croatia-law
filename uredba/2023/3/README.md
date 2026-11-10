@@ -14,7 +14,7 @@ Uredba o izmjenama Uredbe o graničnim prijelazima Republike Hrvatske · 1 versi
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2023-3` (tags `uredba-2023-3/<day>`; `python tools/on.py <day> uredba-2023-3`).
+Act id: `uredba-2023-3` (tags `uredba-2023-3/<day>`; `python registry/tools/on.py <day> uredba-2023-3`).
 
 ## Decisions made by hand
 

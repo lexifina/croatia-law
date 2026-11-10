@@ -9,7 +9,7 @@ Odluka o donošenju standarda zanimanja za stjecanje kvalifikacije agrotehničar
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2017-2028` (tags `odluka-2017-2028/<day>`; `python tools/on.py <day> odluka-2017-2028`).
+Act id: `odluka-2017-2028` (tags `odluka-2017-2028/<day>`; `python registry/tools/on.py <day> odluka-2017-2028`).
 
 ## Decisions made by hand
 

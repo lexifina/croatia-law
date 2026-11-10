@@ -10,7 +10,7 @@ Odluka o prestanku važenja Odluke o statističkom izvješću banke · 1 version
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2013-767` (tags `odluka-2013-767/<day>`; `python tools/on.py <day> odluka-2013-767`).
+Act id: `odluka-2013-767` (tags `odluka-2013-767/<day>`; `python registry/tools/on.py <day> odluka-2013-767`).
 
 ## Decisions made by hand
 

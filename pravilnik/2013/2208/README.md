@@ -12,7 +12,7 @@ Pravilnik o drugim uslugama koje može pružati društvo za zastupanje u osigura
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2013-2208` (tags `pravilnik-2013-2208/<day>`; `python tools/on.py <day> pravilnik-2013-2208`).
+Act id: `pravilnik-2013-2208` (tags `pravilnik-2013-2208/<day>`; `python registry/tools/on.py <day> pravilnik-2013-2208`).
 
 ## Status
 

@@ -16,7 +16,7 @@ Odluka o posebnom programu kreditiranja u uvjetima pandemijske krize · 1 versio
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2020-936` (tags `odluka-2020-936/<day>`; `python tools/on.py <day> odluka-2020-936`).
+Act id: `odluka-2020-936` (tags `odluka-2020-936/<day>`; `python registry/tools/on.py <day> odluka-2020-936`).
 
 ## Status
 

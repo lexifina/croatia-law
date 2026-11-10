@@ -123,7 +123,7 @@ Zakon o izmjenama i dopunama Stečajnog zakona · 1 versions, from 2022-03-31 (l
 | čl. 117 | [clanak-117.md](clanak-117.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2022-431` (tags `zakon-2022-431/<day>`; `python tools/on.py <day> zakon-2022-431`).
+Act id: `zakon-2022-431` (tags `zakon-2022-431/<day>`; `python registry/tools/on.py <day> zakon-2022-431`).
 
 ## Decisions made by hand
 

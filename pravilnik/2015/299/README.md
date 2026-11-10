@@ -15,7 +15,7 @@ Pravilnik o načinu vođenja evidencije o obvezujućim izjavama, načinu pohranj
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2015-299` (tags `pravilnik-2015-299/<day>`; `python tools/on.py <day> pravilnik-2015-299`).
+Act id: `pravilnik-2015-299` (tags `pravilnik-2015-299/<day>`; `python registry/tools/on.py <day> pravilnik-2015-299`).
 
 ## Decisions made by hand
 

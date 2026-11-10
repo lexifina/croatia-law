@@ -11,7 +11,7 @@ Zakon o izmjenama Zakona o sprječavanju sukoba interesa · 1 versions, from 201
 | čl. 5 | [clanak-005.md](clanak-005.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2012-334` (tags `zakon-2012-334/<day>`; `python tools/on.py <day> zakon-2012-334`).
+Act id: `zakon-2012-334` (tags `zakon-2012-334/<day>`; `python registry/tools/on.py <day> zakon-2012-334`).
 
 ## Decisions made by hand
 

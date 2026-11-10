@@ -17,7 +17,7 @@ Zakon o izmjenama i dopunama Zakona o zaštiti od buke · 1 versions, from 2021-
 | čl. 11 | [clanak-011.md](clanak-011.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2021-272` (tags `zakon-2021-272/<day>`; `python tools/on.py <day> zakon-2021-272`).
+Act id: `zakon-2021-272` (tags `zakon-2021-272/<day>`; `python registry/tools/on.py <day> zakon-2021-272`).
 
 ## Decisions made by hand
 

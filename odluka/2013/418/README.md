@@ -8,7 +8,7 @@ Odluka o visini osnovice za obračun plaće državnih dužnosnika · 1 versions,
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2013-418` (tags `odluka-2013-418/<day>`; `python tools/on.py <day> odluka-2013-418`).
+Act id: `odluka-2013-418` (tags `odluka-2013-418/<day>`; `python registry/tools/on.py <day> odluka-2013-418`).
 
 ## Status
 

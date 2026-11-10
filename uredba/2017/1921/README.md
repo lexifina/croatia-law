@@ -34,7 +34,7 @@ Uredba o raspisivanju i provedbi javnog natječaja i internog oglasa u državnoj
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2017-1921` (tags `uredba-2017-1921/<day>`; `python tools/on.py <day> uredba-2017-1921`).
+Act id: `uredba-2017-1921` (tags `uredba-2017-1921/<day>`; `python registry/tools/on.py <day> uredba-2017-1921`).
 
 ## Status
 

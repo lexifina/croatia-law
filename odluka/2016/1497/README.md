@@ -8,7 +8,7 @@ Odluka o izmjeni i dopuni Odluke o uvjetima korištenja službenih osobnih autom
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2016-1497` (tags `odluka-2016-1497/<day>`; `python tools/on.py <day> odluka-2016-1497`).
+Act id: `odluka-2016-1497` (tags `odluka-2016-1497/<day>`; `python registry/tools/on.py <day> odluka-2016-1497`).
 
 ## Decisions made by hand
 

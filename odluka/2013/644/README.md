@@ -8,7 +8,7 @@ Odluka o sanaciji Kliničkog bolničkog centra Split · 1 versions, from 2013-04
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2013-644` (tags `odluka-2013-644/<day>`; `python tools/on.py <day> odluka-2013-644`).
+Act id: `odluka-2013-644` (tags `odluka-2013-644/<day>`; `python registry/tools/on.py <day> odluka-2013-644`).
 
 ## Status
 

@@ -8,7 +8,7 @@ Odluka o zatvaranju za promet postojećeg željezničko-cestovnog prijelaza · 1
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2011-1182` (tags `odluka-2011-1182/<day>`; `python tools/on.py <day> odluka-2011-1182`).
+Act id: `odluka-2011-1182` (tags `odluka-2011-1182/<day>`; `python registry/tools/on.py <day> odluka-2011-1182`).
 
 ## Status
 

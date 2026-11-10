@@ -13,7 +13,7 @@ Odluka o zajamčenom prinosu obveznih mirovinskih fondova za 2015. godinu · 1 v
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2016-293` (tags `odluka-2016-293/<day>`; `python tools/on.py <day> odluka-2016-293`).
+Act id: `odluka-2016-293` (tags `odluka-2016-293/<day>`; `python registry/tools/on.py <day> odluka-2016-293`).
 
 ## Decisions made by hand
 

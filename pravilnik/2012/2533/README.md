@@ -22,7 +22,7 @@ Pravilnik o mreži i kriterijima o dovoljnom broju autoškola · 1 versions, fro
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2012-2533` (tags `pravilnik-2012-2533/<day>`; `python tools/on.py <day> pravilnik-2012-2533`).
+Act id: `pravilnik-2012-2533` (tags `pravilnik-2012-2533/<day>`; `python registry/tools/on.py <day> pravilnik-2012-2533`).
 
 ## Status
 

@@ -8,7 +8,7 @@ Odluka o obustavi postupka sanacije Županijske bolnice Čakovec · 1 versions, 
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2016-912` (tags `odluka-2016-912/<day>`; `python tools/on.py <day> odluka-2016-912`).
+Act id: `odluka-2016-912` (tags `odluka-2016-912/<day>`; `python registry/tools/on.py <day> odluka-2016-912`).
 
 ## Decisions made by hand
 

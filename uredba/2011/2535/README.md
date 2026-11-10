@@ -23,7 +23,7 @@ Uredba o prijenosu odobrenja za istraživanje mineralnih sirovina i ugovora o ko
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2011-2535` (tags `uredba-2011-2535/<day>`; `python tools/on.py <day> uredba-2011-2535`).
+Act id: `uredba-2011-2535` (tags `uredba-2011-2535/<day>`; `python registry/tools/on.py <day> uredba-2011-2535`).
 
 ## Decisions made by hand
 

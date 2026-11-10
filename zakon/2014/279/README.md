@@ -8,7 +8,7 @@ Zakon o izmjeni Zakona o vodama · 1 versions, from 2014-02-06 (latest in force:
 | čl. 2 | [clanak-002.md](clanak-002.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2014-279` (tags `zakon-2014-279/<day>`; `python tools/on.py <day> zakon-2014-279`).
+Act id: `zakon-2014-279` (tags `zakon-2014-279/<day>`; `python registry/tools/on.py <day> zakon-2014-279`).
 
 ## Decisions made by hand
 

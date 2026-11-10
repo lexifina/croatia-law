@@ -13,7 +13,7 @@ Zakon o izmjenama i dopuni Zakona o provedbi Uredbe (EU) br. 649/2012 o izvozu i
 | čl. 7 | [clanak-007.md](clanak-007.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2018-2256` (tags `zakon-2018-2256/<day>`; `python tools/on.py <day> zakon-2018-2256`).
+Act id: `zakon-2018-2256` (tags `zakon-2018-2256/<day>`; `python registry/tools/on.py <day> zakon-2018-2256`).
 
 ## Decisions made by hand
 

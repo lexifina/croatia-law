@@ -13,7 +13,7 @@ Zakon o izmjenama Zakona o rudarstvu · 1 versions, from 2020-01-01 (latest in f
 | čl. 7 | [clanak-007.md](clanak-007.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2019-1967` (tags `zakon-2019-1967/<day>`; `python tools/on.py <day> zakon-2019-1967`).
+Act id: `zakon-2019-1967` (tags `zakon-2019-1967/<day>`; `python registry/tools/on.py <day> zakon-2019-1967`).
 
 ## Decisions made by hand
 

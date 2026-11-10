@@ -65,7 +65,7 @@ Zakon o izmjenama i dopunama Zakona o protuminskom djelovanju · 1 versions, fro
 | čl. 59 | [clanak-059.md](clanak-059.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2023-999` (tags `zakon-2023-999/<day>`; `python tools/on.py <day> zakon-2023-999`).
+Act id: `zakon-2023-999` (tags `zakon-2023-999/<day>`; `python registry/tools/on.py <day> zakon-2023-999`).
 
 ## Decisions made by hand
 

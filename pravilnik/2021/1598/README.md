@@ -17,7 +17,7 @@ Pravilnik o obvezi izvješćivanja Europskoj komisiji i minimalnim ciljevima u p
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2021-1598` (tags `pravilnik-2021-1598/<day>`; `python tools/on.py <day> pravilnik-2021-1598`).
+Act id: `pravilnik-2021-1598` (tags `pravilnik-2021-1598/<day>`; `python registry/tools/on.py <day> pravilnik-2021-1598`).
 
 ## Decisions made by hand
 

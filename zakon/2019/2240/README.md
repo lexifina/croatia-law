@@ -10,7 +10,7 @@ Zakon o izmjenama i dopunama Zakona o službenicima i namještenicima u lokalnoj
 | čl. 4 | [clanak-004.md](clanak-004.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2019-2240` (tags `zakon-2019-2240/<day>`; `python tools/on.py <day> zakon-2019-2240`).
+Act id: `zakon-2019-2240` (tags `zakon-2019-2240/<day>`; `python registry/tools/on.py <day> zakon-2019-2240`).
 
 ## Decisions made by hand
 

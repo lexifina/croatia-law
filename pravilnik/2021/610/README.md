@@ -9,7 +9,7 @@ Pravilnik o prestanku važenja Pravilnika o osposobljavanju, ispitima, dozvolama
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2021-610` (tags `pravilnik-2021-610/<day>`; `python tools/on.py <day> pravilnik-2021-610`).
+Act id: `pravilnik-2021-610` (tags `pravilnik-2021-610/<day>`; `python registry/tools/on.py <day> pravilnik-2021-610`).
 
 ## Decisions made by hand
 

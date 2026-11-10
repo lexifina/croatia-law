@@ -9,7 +9,7 @@ Pravilnik o dopuni Pravilnika o posebnom porezu na motorna vozila · 1 versions,
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2015-627` (tags `pravilnik-2015-627/<day>`; `python tools/on.py <day> pravilnik-2015-627`).
+Act id: `pravilnik-2015-627` (tags `pravilnik-2015-627/<day>`; `python registry/tools/on.py <day> pravilnik-2015-627`).
 
 ## Decisions made by hand
 

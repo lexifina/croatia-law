@@ -5,7 +5,7 @@ Odluka o kontroli pridržavanja Preporuke za sprječavanje zaraze bolešću COVI
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `odluka-2020-1438` (tags `odluka-2020-1438/<day>`; `python tools/on.py <day> odluka-2020-1438`).
+Act id: `odluka-2020-1438` (tags `odluka-2020-1438/<day>`; `python registry/tools/on.py <day> odluka-2020-1438`).
 
 ## Decisions made by hand
 

@@ -9,7 +9,7 @@ Odluka o upisu učenika u I. razred srednje škole u školskoj godini 2016./2017
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2016-1269` (tags `odluka-2016-1269/<day>`; `python tools/on.py <day> odluka-2016-1269`).
+Act id: `odluka-2016-1269` (tags `odluka-2016-1269/<day>`; `python registry/tools/on.py <day> odluka-2016-1269`).
 
 ## Decisions made by hand
 

@@ -21,7 +21,7 @@ Pravilnik o Upisniku maslinika · 1 versions, from 2024-09-12 (latest in force: 
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2024-1788` (tags `pravilnik-2024-1788/<day>`; `python tools/on.py <day> pravilnik-2024-1788`).
+Act id: `pravilnik-2024-1788` (tags `pravilnik-2024-1788/<day>`; `python registry/tools/on.py <day> pravilnik-2024-1788`).
 
 ## Decisions made by hand
 

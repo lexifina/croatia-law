@@ -8,7 +8,7 @@ Odluka o cijeni i raspodjeli kapaciteta prirodnog plina kojeg je Hrvatska elektr
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2022-1875` (tags `odluka-2022-1875/<day>`; `python tools/on.py <day> odluka-2022-1875`).
+Act id: `odluka-2022-1875` (tags `odluka-2022-1875/<day>`; `python registry/tools/on.py <day> odluka-2022-1875`).
 
 ## Status
 

@@ -12,7 +12,7 @@ Pravilnik o izmjenama i dopunama Pravilnika o dentalnoj zdravstvenoj zaštiti iz
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2014-1266` (tags `pravilnik-2014-1266/<day>`; `python tools/on.py <day> pravilnik-2014-1266`).
+Act id: `pravilnik-2014-1266` (tags `pravilnik-2014-1266/<day>`; `python registry/tools/on.py <day> pravilnik-2014-1266`).
 
 ## Decisions made by hand
 

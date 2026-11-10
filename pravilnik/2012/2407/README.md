@@ -19,7 +19,7 @@ Pravilnik o utvrđivanju detaljnih pravila za provedbu Pravilnika o prometu proi
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2012-2407` (tags `pravilnik-2012-2407/<day>`; `python tools/on.py <day> pravilnik-2012-2407`).
+Act id: `pravilnik-2012-2407` (tags `pravilnik-2012-2407/<day>`; `python registry/tools/on.py <day> pravilnik-2012-2407`).
 
 ## Status
 

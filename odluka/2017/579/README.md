@@ -8,7 +8,7 @@ Odluka o osnivanju Istražnog povjerenstva za utvrđivanje odgovornosti za rezul
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2017-579` (tags `odluka-2017-579/<day>`; `python tools/on.py <day> odluka-2017-579`).
+Act id: `odluka-2017-579` (tags `odluka-2017-579/<day>`; `python registry/tools/on.py <day> odluka-2017-579`).
 
 ## Decisions made by hand
 

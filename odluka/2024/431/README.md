@@ -8,7 +8,7 @@ Odluka o izmjeni Odluke o prihvaćanju sredstava temeljem opće i posebne alokac
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2024-431` (tags `odluka-2024-431/<day>`; `python tools/on.py <day> odluka-2024-431`).
+Act id: `odluka-2024-431` (tags `odluka-2024-431/<day>`; `python registry/tools/on.py <day> odluka-2024-431`).
 
 ## Decisions made by hand
 

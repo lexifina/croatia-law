@@ -15,7 +15,7 @@ Uredba o izmjenama i dopunama Uredbe o sastavljanju i predaji Izjave o fiskalnoj
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2015-2247` (tags `uredba-2015-2247/<day>`; `python tools/on.py <day> uredba-2015-2247`).
+Act id: `uredba-2015-2247` (tags `uredba-2015-2247/<day>`; `python registry/tools/on.py <day> uredba-2015-2247`).
 
 ## Decisions made by hand
 

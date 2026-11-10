@@ -27,7 +27,7 @@ Zakon o izmjenama i dopunama Zakona o Državnoodvjetničkom vijeću · 1 version
 | čl. 21 | [clanak-021.md](clanak-021.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2026-903` (tags `zakon-2026-903/<day>`; `python tools/on.py <day> zakon-2026-903`).
+Act id: `zakon-2026-903` (tags `zakon-2026-903/<day>`; `python registry/tools/on.py <day> zakon-2026-903`).
 
 ## Decisions made by hand
 

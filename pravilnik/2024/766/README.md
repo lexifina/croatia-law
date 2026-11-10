@@ -41,7 +41,7 @@ Pravilnik o korištenju sredstava Europske unije · 1 versions, from 2024-04-13 
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2024-766` (tags `pravilnik-2024-766/<day>`; `python tools/on.py <day> pravilnik-2024-766`).
+Act id: `pravilnik-2024-766` (tags `pravilnik-2024-766/<day>`; `python registry/tools/on.py <day> pravilnik-2024-766`).
 
 ## Decisions made by hand
 

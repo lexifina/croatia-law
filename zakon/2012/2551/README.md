@@ -11,7 +11,7 @@ Zakon o izmjenama i dopunama Zakona o akademskim i stručnim nazivima i akademsk
 | čl. 5 | [clanak-005.md](clanak-005.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2012-2551` (tags `zakon-2012-2551/<day>`; `python tools/on.py <day> zakon-2012-2551`).
+Act id: `zakon-2012-2551` (tags `zakon-2012-2551/<day>`; `python registry/tools/on.py <day> zakon-2012-2551`).
 
 ## Decisions made by hand
 

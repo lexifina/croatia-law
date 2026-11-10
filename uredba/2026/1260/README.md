@@ -19,7 +19,7 @@ Uredba o izmjenama i dopunama Uredbe o unutarnjem ustrojstvu Ministarstva turizm
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2026-1260` (tags `uredba-2026-1260/<day>`; `python tools/on.py <day> uredba-2026-1260`).
+Act id: `uredba-2026-1260` (tags `uredba-2026-1260/<day>`; `python registry/tools/on.py <day> uredba-2026-1260`).
 
 ## Decisions made by hand
 

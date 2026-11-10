@@ -8,7 +8,7 @@ Odluka o broju priređivača kojima se može dati pravo priređivanja igara na s
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2013-83` (tags `odluka-2013-83/<day>`; `python tools/on.py <day> odluka-2013-83`).
+Act id: `odluka-2013-83` (tags `odluka-2013-83/<day>`; `python registry/tools/on.py <day> odluka-2013-83`).
 
 ## Status
 

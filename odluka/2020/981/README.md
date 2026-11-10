@@ -8,7 +8,7 @@ Odluka o izmjeni i dopuni Odluke o mjerama prilikom sklapanja braka i životnog 
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2020-981` (tags `odluka-2020-981/<day>`; `python tools/on.py <day> odluka-2020-981`).
+Act id: `odluka-2020-981` (tags `odluka-2020-981/<day>`; `python registry/tools/on.py <day> odluka-2020-981`).
 
 ## Decisions made by hand
 

@@ -9,7 +9,7 @@ Pravilnik o dopunama Pravilnika o uvjetima, kriterijima i načinu dodjele držav
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2022-625` (tags `pravilnik-2022-625/<day>`; `python tools/on.py <day> pravilnik-2022-625`).
+Act id: `pravilnik-2022-625` (tags `pravilnik-2022-625/<day>`; `python registry/tools/on.py <day> pravilnik-2022-625`).
 
 ## Decisions made by hand
 

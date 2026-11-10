@@ -19,7 +19,7 @@ Pravilnik o vođenju matičnih knjiga te upisu uzgojno valjanih svinja čistih p
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2012-2387` (tags `pravilnik-2012-2387/<day>`; `python tools/on.py <day> pravilnik-2012-2387`).
+Act id: `pravilnik-2012-2387` (tags `pravilnik-2012-2387/<day>`; `python registry/tools/on.py <day> pravilnik-2012-2387`).
 
 ## Status
 

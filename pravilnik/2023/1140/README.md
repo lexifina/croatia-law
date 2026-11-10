@@ -76,7 +76,7 @@ Pravilnik o provedbi intervencije 77.06. »Potpora LEADER (CLLD) pristupu« iz S
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2023-1140` (tags `pravilnik-2023-1140/<day>`; `python tools/on.py <day> pravilnik-2023-1140`).
+Act id: `pravilnik-2023-1140` (tags `pravilnik-2023-1140/<day>`; `python registry/tools/on.py <day> pravilnik-2023-1140`).
 
 ## Status
 

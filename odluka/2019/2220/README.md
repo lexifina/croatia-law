@@ -17,7 +17,7 @@ Odluka o izmjenama i dopunama Odluke o uvjetima za otvaranje i funkcioniranje PM
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2019-2220` (tags `odluka-2019-2220/<day>`; `python tools/on.py <day> odluka-2019-2220`).
+Act id: `odluka-2019-2220` (tags `odluka-2019-2220/<day>`; `python registry/tools/on.py <day> odluka-2019-2220`).
 
 ## Decisions made by hand
 

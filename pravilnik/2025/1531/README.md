@@ -33,7 +33,7 @@ Pravilnik o izdavanju odobrenja za rad ovlaštenom revizoru i revizorskom društ
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2025-1531` (tags `pravilnik-2025-1531/<day>`; `python tools/on.py <day> pravilnik-2025-1531`).
+Act id: `pravilnik-2025-1531` (tags `pravilnik-2025-1531/<day>`; `python registry/tools/on.py <day> pravilnik-2025-1531`).
 
 ## Decisions made by hand
 

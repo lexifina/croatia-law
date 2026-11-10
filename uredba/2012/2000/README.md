@@ -34,7 +34,7 @@ Uredba o praćenju emisija stakleničkih plinova, politike i mjera za njihovo sm
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2012-2000` (tags `uredba-2012-2000/<day>`; `python tools/on.py <day> uredba-2012-2000`).
+Act id: `uredba-2012-2000` (tags `uredba-2012-2000/<day>`; `python registry/tools/on.py <day> uredba-2012-2000`).
 
 ## Status
 

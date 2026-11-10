@@ -68,7 +68,7 @@ Zakon o izmjenama i dopunama Zakona o državnom odvjetništvu · 1 versions, fro
 | čl. 62 | [clanak-062.md](clanak-062.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2013-1438` (tags `zakon-2013-1438/<day>`; `python tools/on.py <day> zakon-2013-1438`).
+Act id: `zakon-2013-1438` (tags `zakon-2013-1438/<day>`; `python registry/tools/on.py <day> zakon-2013-1438`).
 
 ## Decisions made by hand
 

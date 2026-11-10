@@ -28,7 +28,7 @@ Uredba o funkcijama, zadaćama i odgovornosti Koordinacijskog tijela u instituci
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2022-1424` (tags `uredba-2022-1424/<day>`; `python tools/on.py <day> uredba-2022-1424`).
+Act id: `uredba-2022-1424` (tags `uredba-2022-1424/<day>`; `python registry/tools/on.py <day> uredba-2022-1424`).
 
 ## Status
 

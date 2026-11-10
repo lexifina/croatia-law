@@ -23,7 +23,7 @@ Zakon o izmjenama Zakona o predmetima opće uporabe · 1 versions, from 2019-04-
 | čl. 17 | [clanak-017.md](clanak-017.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2018-2201` (tags `zakon-2018-2201/<day>`; `python tools/on.py <day> zakon-2018-2201`).
+Act id: `zakon-2018-2201` (tags `zakon-2018-2201/<day>`; `python registry/tools/on.py <day> zakon-2018-2201`).
 
 ## Decisions made by hand
 

@@ -35,7 +35,7 @@ Uredba o raspolaganju nekretninama koje se daju na korištenje tijelima državne
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2011-1708` (tags `uredba-2011-1708/<day>`; `python tools/on.py <day> uredba-2011-1708`).
+Act id: `uredba-2011-1708` (tags `uredba-2011-1708/<day>`; `python registry/tools/on.py <day> uredba-2011-1708`).
 
 ## Status
 

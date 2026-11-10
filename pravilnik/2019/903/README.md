@@ -20,7 +20,7 @@ Pravilnik o sastavu i načinu rada Povjerenstva za izbor udomitelja za obavljanj
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2019-903` (tags `pravilnik-2019-903/<day>`; `python tools/on.py <day> pravilnik-2019-903`).
+Act id: `pravilnik-2019-903` (tags `pravilnik-2019-903/<day>`; `python registry/tools/on.py <day> pravilnik-2019-903`).
 
 ## Status
 

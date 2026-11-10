@@ -11,7 +11,7 @@ Zakon o izmjenama Zakona o zastupanju u području prava industrijskog vlasništv
 | čl. 5 | [clanak-005.md](clanak-005.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2011-1099` (tags `zakon-2011-1099/<day>`; `python tools/on.py <day> zakon-2011-1099`).
+Act id: `zakon-2011-1099` (tags `zakon-2011-1099/<day>`; `python registry/tools/on.py <day> zakon-2011-1099`).
 
 ## Decisions made by hand
 

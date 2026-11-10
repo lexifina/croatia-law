@@ -8,7 +8,7 @@ Odluka o koncesiji na pomorskom dobru u svrhu gradnje i gospodarskog korištenja
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2022-641` (tags `odluka-2022-641/<day>`; `python tools/on.py <day> odluka-2022-641`).
+Act id: `odluka-2022-641` (tags `odluka-2022-641/<day>`; `python registry/tools/on.py <day> odluka-2022-641`).
 
 ## Status
 

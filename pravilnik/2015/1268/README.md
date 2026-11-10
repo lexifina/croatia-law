@@ -18,7 +18,7 @@ Pravilnik o sadržaju i načinu vođenja evidencije fizičkih osoba koje profesi
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2015-1268` (tags `pravilnik-2015-1268/<day>`; `python tools/on.py <day> pravilnik-2015-1268`).
+Act id: `pravilnik-2015-1268` (tags `pravilnik-2015-1268/<day>`; `python registry/tools/on.py <day> pravilnik-2015-1268`).
 
 ## Status
 

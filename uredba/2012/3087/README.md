@@ -9,7 +9,7 @@ Uredba o dopuni Uredbe o visini trošarine na motorne benzine, plinsko ulje i ke
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2012-3087` (tags `uredba-2012-3087/<day>`; `python tools/on.py <day> uredba-2012-3087`).
+Act id: `uredba-2012-3087` (tags `uredba-2012-3087/<day>`; `python registry/tools/on.py <day> uredba-2012-3087`).
 
 ## Decisions made by hand
 

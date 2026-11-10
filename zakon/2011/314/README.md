@@ -8,7 +8,7 @@ Zakon o izmjeni Zakona o izvršavanju kazne zatvora · 1 versions, from 2011-02-
 | čl. 2 | [clanak-002.md](clanak-002.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2011-314` (tags `zakon-2011-314/<day>`; `python tools/on.py <day> zakon-2011-314`).
+Act id: `zakon-2011-314` (tags `zakon-2011-314/<day>`; `python registry/tools/on.py <day> zakon-2011-314`).
 
 ## Decisions made by hand
 

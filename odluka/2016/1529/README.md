@@ -8,7 +8,7 @@ Odluka o osnivanju Nacionalnog vijeća za kibernetičku sigurnost i Operativno-t
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2016-1529` (tags `odluka-2016-1529/<day>`; `python tools/on.py <day> odluka-2016-1529`).
+Act id: `odluka-2016-1529` (tags `odluka-2016-1529/<day>`; `python registry/tools/on.py <day> odluka-2016-1529`).
 
 ## Status
 

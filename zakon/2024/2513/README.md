@@ -17,7 +17,7 @@ Zakon o izmjenama i dopunama Zakona o provedbi Uredbe (EU) br. 909/2014 Europsko
 | čl. 11 | [clanak-011.md](clanak-011.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2024-2513` (tags `zakon-2024-2513/<day>`; `python tools/on.py <day> zakon-2024-2513`).
+Act id: `zakon-2024-2513` (tags `zakon-2024-2513/<day>`; `python registry/tools/on.py <day> zakon-2024-2513`).
 
 ## Decisions made by hand
 

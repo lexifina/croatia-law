@@ -8,7 +8,7 @@ Odluka o izmjenama Odluke o porezima Grada Vinkovaca · 1 versions, from 2021-01
 | čl. 2 | [clanak-002.md](clanak-002.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `odluka-2020-2718` (tags `odluka-2020-2718/<day>`; `python tools/on.py <day> odluka-2020-2718`).
+Act id: `odluka-2020-2718` (tags `odluka-2020-2718/<day>`; `python registry/tools/on.py <day> odluka-2020-2718`).
 
 ## Decisions made by hand
 

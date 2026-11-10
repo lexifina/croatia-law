@@ -13,7 +13,7 @@ Pravilnik o izmjenama i dopunama Pravilnika o odobrenju za pružanje usluga potr
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2013-276` (tags `pravilnik-2013-276/<day>`; `python tools/on.py <day> pravilnik-2013-276`).
+Act id: `pravilnik-2013-276` (tags `pravilnik-2013-276/<day>`; `python registry/tools/on.py <day> pravilnik-2013-276`).
 
 ## Decisions made by hand
 

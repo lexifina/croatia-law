@@ -121,7 +121,7 @@ Odluka o osnovama za sklapanje ugovora o provođenju zdravstvene zaštite iz obv
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2017-1235` (tags `odluka-2017-1235/<day>`; `python tools/on.py <day> odluka-2017-1235`).
+Act id: `odluka-2017-1235` (tags `odluka-2017-1235/<day>`; `python registry/tools/on.py <day> odluka-2017-1235`).
 
 ## Status
 

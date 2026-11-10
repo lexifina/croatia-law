@@ -9,7 +9,7 @@ Odluka o izmjeni Odluke o porezima Grada Ploča · 1 versions, from 2019-01-01 (
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2018-2393` (tags `odluka-2018-2393/<day>`; `python tools/on.py <day> odluka-2018-2393`).
+Act id: `odluka-2018-2393` (tags `odluka-2018-2393/<day>`; `python registry/tools/on.py <day> odluka-2018-2393`).
 
 ## Decisions made by hand
 

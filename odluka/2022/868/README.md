@@ -8,7 +8,7 @@ Odluka o izmjeni Odluke o nužnoj epidemiološkoj mjeri korištenja medicinskih 
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2022-868` (tags `odluka-2022-868/<day>`; `python tools/on.py <day> odluka-2022-868`).
+Act id: `odluka-2022-868` (tags `odluka-2022-868/<day>`; `python registry/tools/on.py <day> odluka-2022-868`).
 
 ## Decisions made by hand
 

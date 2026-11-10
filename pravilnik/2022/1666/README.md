@@ -9,7 +9,7 @@ Pravilnik o prestanku važenja Pravilnika o načinu propisivanja i izdavanja lij
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2022-1666` (tags `pravilnik-2022-1666/<day>`; `python tools/on.py <day> pravilnik-2022-1666`).
+Act id: `pravilnik-2022-1666` (tags `pravilnik-2022-1666/<day>`; `python registry/tools/on.py <day> pravilnik-2022-1666`).
 
 ## Decisions made by hand
 

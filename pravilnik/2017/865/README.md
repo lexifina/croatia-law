@@ -10,7 +10,7 @@ Pravilnik o izmjenama i dopunama Pravilnika o godišnjim, tromjesečnim i drugim
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2017-865` (tags `pravilnik-2017-865/<day>`; `python tools/on.py <day> pravilnik-2017-865`).
+Act id: `pravilnik-2017-865` (tags `pravilnik-2017-865/<day>`; `python registry/tools/on.py <day> pravilnik-2017-865`).
 
 ## Decisions made by hand
 

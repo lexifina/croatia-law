@@ -8,7 +8,7 @@ Odluka o koncesiji za posebnu upotrebu pomorskog dobra u svrhu izgradnje i kori≈
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2015-827` (tags `odluka-2015-827/<day>`; `python tools/on.py <day> odluka-2015-827`).
+Act id: `odluka-2015-827` (tags `odluka-2015-827/<day>`; `python registry/tools/on.py <day> odluka-2015-827`).
 
 ## Decisions made by hand
 

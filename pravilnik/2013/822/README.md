@@ -29,7 +29,7 @@ Pravilnik o stavljanju na tržište sjemena čuvanih sorti · 1 versions, from 2
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2013-822` (tags `pravilnik-2013-822/<day>`; `python tools/on.py <day> pravilnik-2013-822`).
+Act id: `pravilnik-2013-822` (tags `pravilnik-2013-822/<day>`; `python registry/tools/on.py <day> pravilnik-2013-822`).
 
 ## Status
 

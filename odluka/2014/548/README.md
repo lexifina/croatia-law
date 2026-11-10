@@ -8,7 +8,7 @@ Odluka o osnivanju Stručnog povjerenstva za provođenje javnog nadmetanja za is
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2014-548` (tags `odluka-2014-548/<day>`; `python tools/on.py <day> odluka-2014-548`).
+Act id: `odluka-2014-548` (tags `odluka-2014-548/<day>`; `python registry/tools/on.py <day> odluka-2014-548`).
 
 ## Status
 

@@ -13,7 +13,7 @@ Naputak o informacijama o učinku poreznih rashoda na prihode · 1 versions, fro
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `naputak-2024-1835` (tags `naputak-2024-1835/<day>`; `python tools/on.py <day> naputak-2024-1835`).
+Act id: `naputak-2024-1835` (tags `naputak-2024-1835/<day>`; `python registry/tools/on.py <day> naputak-2024-1835`).
 
 ## Decisions made by hand
 

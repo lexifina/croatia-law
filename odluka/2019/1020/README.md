@@ -9,7 +9,7 @@ Odluka o upisu učenika u I. razred srednje škole u školskoj godini 2019./2020
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2019-1020` (tags `odluka-2019-1020/<day>`; `python tools/on.py <day> odluka-2019-1020`).
+Act id: `odluka-2019-1020` (tags `odluka-2019-1020/<day>`; `python registry/tools/on.py <day> odluka-2019-1020`).
 
 ## Status
 

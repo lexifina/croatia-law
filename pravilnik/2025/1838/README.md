@@ -20,7 +20,7 @@ Pravilnik o naknadi putnih troškova za vrijeme profesionalne rehabilitacije · 
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2025-1838` (tags `pravilnik-2025-1838/<day>`; `python tools/on.py <day> pravilnik-2025-1838`).
+Act id: `pravilnik-2025-1838` (tags `pravilnik-2025-1838/<day>`; `python registry/tools/on.py <day> pravilnik-2025-1838`).
 
 ## Decisions made by hand
 

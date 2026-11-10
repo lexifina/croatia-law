@@ -60,7 +60,7 @@ Zakon o izvršavanju Državnog proračuna Republike Hrvatske za 2016. godinu · 
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 
-Act id: `zakon-2016-783` (tags `zakon-2016-783/<day>`; `python tools/on.py <day> zakon-2016-783`).
+Act id: `zakon-2016-783` (tags `zakon-2016-783/<day>`; `python registry/tools/on.py <day> zakon-2016-783`).
 
 ## Status
 

@@ -32,7 +32,7 @@ Uredba o načinu, postupku i uvjetima procjene vrijednosti i prodaje turističko
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2011-243` (tags `uredba-2011-243/<day>`; `python tools/on.py <day> uredba-2011-243`).
+Act id: `uredba-2011-243` (tags `uredba-2011-243/<day>`; `python registry/tools/on.py <day> uredba-2011-243`).
 
 ## Status
 

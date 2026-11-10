@@ -17,7 +17,7 @@ Pravilnik o sadržaju zahtjeva i dokumentaciji koja se dostavlja uz zahtjev za i
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2016-100` (tags `pravilnik-2016-100/<day>`; `python tools/on.py <day> pravilnik-2016-100`).
+Act id: `pravilnik-2016-100` (tags `pravilnik-2016-100/<day>`; `python registry/tools/on.py <day> pravilnik-2016-100`).
 
 ## Status
 

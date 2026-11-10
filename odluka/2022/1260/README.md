@@ -17,7 +17,7 @@ Odluka o naknadi za razvoj trgovačkog društva ODVODNJA d.o.o. Zadar · 1 versi
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2022-1260` (tags `odluka-2022-1260/<day>`; `python tools/on.py <day> odluka-2022-1260`).
+Act id: `odluka-2022-1260` (tags `odluka-2022-1260/<day>`; `python registry/tools/on.py <day> odluka-2022-1260`).
 
 ## Decisions made by hand
 

@@ -12,7 +12,7 @@ Odluka o osnovici za određivanje naknade zbog tjelesnog oštećenja i o usklađ
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2013-2426` (tags `odluka-2013-2426/<day>`; `python tools/on.py <day> odluka-2013-2426`).
+Act id: `odluka-2013-2426` (tags `odluka-2013-2426/<day>`; `python registry/tools/on.py <day> odluka-2013-2426`).
 
 ## Decisions made by hand
 

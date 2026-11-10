@@ -14,7 +14,7 @@ Pravilnik o dozvoli za akvakulturu · 1 versions, from 2018-03-01 (latest in for
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2018-358` (tags `pravilnik-2018-358/<day>`; `python tools/on.py <day> pravilnik-2018-358`).
+Act id: `pravilnik-2018-358` (tags `pravilnik-2018-358/<day>`; `python registry/tools/on.py <day> pravilnik-2018-358`).
 
 ## Decisions made by hand
 

@@ -8,7 +8,7 @@ Odluka o davanju suglasnosti na Izmjene i dopune Statuta Agencije za osiguranje 
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2015-1877` (tags `odluka-2015-1877/<day>`; `python tools/on.py <day> odluka-2015-1877`).
+Act id: `odluka-2015-1877` (tags `odluka-2015-1877/<day>`; `python registry/tools/on.py <day> odluka-2015-1877`).
 
 ## Decisions made by hand
 

@@ -9,7 +9,7 @@ Uredba o dopuni Zakona o znanstvenoj djelatnosti i visokom obrazovanju · 1 vers
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2017-3013` (tags `uredba-2017-3013/<day>`; `python tools/on.py <day> uredba-2017-3013`).
+Act id: `uredba-2017-3013` (tags `uredba-2017-3013/<day>`; `python registry/tools/on.py <day> uredba-2017-3013`).
 
 ## Decisions made by hand
 

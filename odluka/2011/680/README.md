@@ -8,7 +8,7 @@ Odluka o izmjenama Odluke o dodjeli koncesije za crpljenje termalnih voda Specij
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2011-680` (tags `odluka-2011-680/<day>`; `python tools/on.py <day> odluka-2011-680`).
+Act id: `odluka-2011-680` (tags `odluka-2011-680/<day>`; `python registry/tools/on.py <day> odluka-2011-680`).
 
 ## Decisions made by hand
 

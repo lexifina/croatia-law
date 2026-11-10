@@ -16,7 +16,7 @@ Pravilnik o naÄinu i postupku obiteljske procjene za obavljanje udomiteljstva Â
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2019-906` (tags `pravilnik-2019-906/<day>`; `python tools/on.py <day> pravilnik-2019-906`).
+Act id: `pravilnik-2019-906` (tags `pravilnik-2019-906/<day>`; `python registry/tools/on.py <day> pravilnik-2019-906`).
 
 ## Decisions made by hand
 

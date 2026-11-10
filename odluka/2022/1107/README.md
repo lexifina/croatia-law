@@ -18,7 +18,7 @@ Odluka o naknadi za razvoj trgovačkog društva Usluga d.o.o. za vodoopskrbu i o
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2022-1107` (tags `odluka-2022-1107/<day>`; `python tools/on.py <day> odluka-2022-1107`).
+Act id: `odluka-2022-1107` (tags `odluka-2022-1107/<day>`; `python registry/tools/on.py <day> odluka-2022-1107`).
 
 ## Status
 

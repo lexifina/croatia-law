@@ -8,7 +8,7 @@ Odluka o izdavanju i prodaji prigodnoga zlatnoga i srebrnoga kovanog novca "Repu
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2013-1424` (tags `odluka-2013-1424/<day>`; `python tools/on.py <day> odluka-2013-1424`).
+Act id: `odluka-2013-1424` (tags `odluka-2013-1424/<day>`; `python registry/tools/on.py <day> odluka-2013-1424`).
 
 ## Status
 

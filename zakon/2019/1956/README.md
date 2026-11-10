@@ -12,7 +12,7 @@ Zakon o izmjenama Zakona o odgoju i obrazovanju u osnovnoj i srednjoj školi · 
 | čl. 6 | [clanak-006.md](clanak-006.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2019-1956` (tags `zakon-2019-1956/<day>`; `python tools/on.py <day> zakon-2019-1956`).
+Act id: `zakon-2019-1956` (tags `zakon-2019-1956/<day>`; `python registry/tools/on.py <day> zakon-2019-1956`).
 
 ## Decisions made by hand
 

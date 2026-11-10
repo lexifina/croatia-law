@@ -15,7 +15,7 @@ Odluka o naknadi troškova i nagradi arbitrima, članovima tijela sudišta i dru
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2017-1588` (tags `odluka-2017-1588/<day>`; `python tools/on.py <day> odluka-2017-1588`).
+Act id: `odluka-2017-1588` (tags `odluka-2017-1588/<day>`; `python registry/tools/on.py <day> odluka-2017-1588`).
 
 ## Decisions made by hand
 

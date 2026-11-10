@@ -13,7 +13,7 @@ Pravilnik o izmjenama i dopunama Pravilnika o ispitivanju radnog okoliša · 1 v
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2022-1854` (tags `pravilnik-2022-1854/<day>`; `python tools/on.py <day> pravilnik-2022-1854`).
+Act id: `pravilnik-2022-1854` (tags `pravilnik-2022-1854/<day>`; `python registry/tools/on.py <day> pravilnik-2022-1854`).
 
 ## Decisions made by hand
 

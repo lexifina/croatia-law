@@ -25,7 +25,7 @@ Zakon o izmjenama i dopunama Zakona o rodiljnim i roditeljskim potporama · 1 ve
 | čl. 19 | [clanak-019.md](clanak-019.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2025-384` (tags `zakon-2025-384/<day>`; `python tools/on.py <day> zakon-2025-384`).
+Act id: `zakon-2025-384` (tags `zakon-2025-384/<day>`; `python registry/tools/on.py <day> zakon-2025-384`).
 
 ## Decisions made by hand
 

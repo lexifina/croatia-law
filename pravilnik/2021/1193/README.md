@@ -5,7 +5,7 @@ Pravilnik o radu Agencije za zaštitu osobnih podataka · 2 versions, from 2021-
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `pravilnik-2021-1193` (tags `pravilnik-2021-1193/<day>`; `python tools/on.py <day> pravilnik-2021-1193`).
+Act id: `pravilnik-2021-1193` (tags `pravilnik-2021-1193/<day>`; `python registry/tools/on.py <day> pravilnik-2021-1193`).
 
 ## Decisions made by hand
 

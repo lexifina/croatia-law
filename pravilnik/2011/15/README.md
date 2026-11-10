@@ -11,7 +11,7 @@ Pravilnik o izmjenama Pravilnika o načinu propisivanja i izdavanja lijekova na 
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2011-15` (tags `pravilnik-2011-15/<day>`; `python tools/on.py <day> pravilnik-2011-15`).
+Act id: `pravilnik-2011-15` (tags `pravilnik-2011-15/<day>`; `python registry/tools/on.py <day> pravilnik-2011-15`).
 
 ## Decisions made by hand
 

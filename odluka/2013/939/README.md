@@ -8,7 +8,7 @@ Odluka o sanaciji Županijske bolnice Čakovec · 1 versions, from 2013-05-02 (l
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2013-939` (tags `odluka-2013-939/<day>`; `python tools/on.py <day> odluka-2013-939`).
+Act id: `odluka-2013-939` (tags `odluka-2013-939/<day>`; `python registry/tools/on.py <day> odluka-2013-939`).
 
 ## Status
 

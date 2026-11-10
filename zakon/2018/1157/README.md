@@ -41,7 +41,7 @@ Zakon o izmjenama i dopunama Zakona o društveno poticanoj stanogradnji · 1 ver
 | čl. 35 | [clanak-035.md](clanak-035.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2018-1157` (tags `zakon-2018-1157/<day>`; `python tools/on.py <day> zakon-2018-1157`).
+Act id: `zakon-2018-1157` (tags `zakon-2018-1157/<day>`; `python registry/tools/on.py <day> zakon-2018-1157`).
 
 ## Decisions made by hand
 

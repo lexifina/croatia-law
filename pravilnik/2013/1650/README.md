@@ -14,7 +14,7 @@ Pravilnik o detaljnim pravilima i kriterijima poštivanja osobne okolnosti spola
 | čl. 8 | [clanak-008.md](clanak-008.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `pravilnik-2013-1650` (tags `pravilnik-2013-1650/<day>`; `python tools/on.py <day> pravilnik-2013-1650`).
+Act id: `pravilnik-2013-1650` (tags `pravilnik-2013-1650/<day>`; `python registry/tools/on.py <day> pravilnik-2013-1650`).
 
 ## Status
 

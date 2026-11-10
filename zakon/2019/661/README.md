@@ -17,7 +17,7 @@ Zakon o izmjenama i dopunama Zakona o službenim kontrolama koje se provode sukl
 | čl. 11 | [clanak-011.md](clanak-011.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2019-661` (tags `zakon-2019-661/<day>`; `python tools/on.py <day> zakon-2019-661`).
+Act id: `zakon-2019-661` (tags `zakon-2019-661/<day>`; `python registry/tools/on.py <day> zakon-2019-661`).
 
 ## Decisions made by hand
 

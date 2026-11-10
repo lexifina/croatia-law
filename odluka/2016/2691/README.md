@@ -8,7 +8,7 @@ Odluka o visini osnovice za obračun plaće u javnim službama · 1 versions, fr
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2016-2691` (tags `odluka-2016-2691/<day>`; `python tools/on.py <day> odluka-2016-2691`).
+Act id: `odluka-2016-2691` (tags `odluka-2016-2691/<day>`; `python registry/tools/on.py <day> odluka-2016-2691`).
 
 ## Status
 

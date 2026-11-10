@@ -15,7 +15,7 @@ Pravilnik o minimalnom sadržaju obavijesti o informativnom izračunu mirovine �
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2024-2527` (tags `pravilnik-2024-2527/<day>`; `python tools/on.py <day> pravilnik-2024-2527`).
+Act id: `pravilnik-2024-2527` (tags `pravilnik-2024-2527/<day>`; `python registry/tools/on.py <day> pravilnik-2024-2527`).
 
 ## Status
 

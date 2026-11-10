@@ -18,7 +18,7 @@ Pravilnik o strukturi i sadržaju godišnjih i polugodišnjih izvještaja i dugi
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2013-2273` (tags `pravilnik-2013-2273/<day>`; `python tools/on.py <day> pravilnik-2013-2273`).
+Act id: `pravilnik-2013-2273` (tags `pravilnik-2013-2273/<day>`; `python registry/tools/on.py <day> pravilnik-2013-2273`).
 
 ## Status
 

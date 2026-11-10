@@ -5,7 +5,7 @@ Uredba o izmjeni Uredbe o visini trošarine na energente i električnu energiju 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `uredba-2022-922` (tags `uredba-2022-922/<day>`; `python tools/on.py <day> uredba-2022-922`).
+Act id: `uredba-2022-922` (tags `uredba-2022-922/<day>`; `python registry/tools/on.py <day> uredba-2022-922`).
 
 ## Decisions made by hand
 

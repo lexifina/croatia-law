@@ -13,7 +13,7 @@ Odluka o izmjenama Odluke o eksternalizaciji · 1 versions, from 2024-12-28 (lat
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2024-2474` (tags `odluka-2024-2474/<day>`; `python tools/on.py <day> odluka-2024-2474`).
+Act id: `odluka-2024-2474` (tags `odluka-2024-2474/<day>`; `python registry/tools/on.py <day> odluka-2024-2474`).
 
 ## Decisions made by hand
 

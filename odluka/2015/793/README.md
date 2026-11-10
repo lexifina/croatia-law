@@ -9,7 +9,7 @@ Odluka o aktualnoj vrijednosti mirovine od 1. siječnja 2015. · 1 versions, fro
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2015-793` (tags `odluka-2015-793/<day>`; `python tools/on.py <day> odluka-2015-793`).
+Act id: `odluka-2015-793` (tags `odluka-2015-793/<day>`; `python registry/tools/on.py <day> odluka-2015-793`).
 
 ## Decisions made by hand
 

@@ -22,7 +22,7 @@ Pravilnik o priznavanju inozemnih stručnih kvalifikacija za regulirane profesij
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2014-1559` (tags `pravilnik-2014-1559/<day>`; `python tools/on.py <day> pravilnik-2014-1559`).
+Act id: `pravilnik-2014-1559` (tags `pravilnik-2014-1559/<day>`; `python registry/tools/on.py <day> pravilnik-2014-1559`).
 
 ## Status
 

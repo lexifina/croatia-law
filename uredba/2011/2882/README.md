@@ -9,7 +9,7 @@ Uredba o izmjeni Uredbe o naknadama za poticanje proizvodnje električne energij
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2011-2882` (tags `uredba-2011-2882/<day>`; `python tools/on.py <day> uredba-2011-2882`).
+Act id: `uredba-2011-2882` (tags `uredba-2011-2882/<day>`; `python registry/tools/on.py <day> uredba-2011-2882`).
 
 ## Decisions made by hand
 

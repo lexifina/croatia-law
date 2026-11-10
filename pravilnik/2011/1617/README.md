@@ -11,7 +11,7 @@ Pravilnik o službenim sjedištima javnih ovršitelja · 1 versions, from 2011-0
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2011-1617` (tags `pravilnik-2011-1617/<day>`; `python tools/on.py <day> pravilnik-2011-1617`).
+Act id: `pravilnik-2011-1617` (tags `pravilnik-2011-1617/<day>`; `python registry/tools/on.py <day> pravilnik-2011-1617`).
 
 ## Decisions made by hand
 

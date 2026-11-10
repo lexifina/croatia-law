@@ -10,7 +10,7 @@ Zakon o dopunama Zakona o tržištu kapitala · 1 versions, from 2026-04-30 (lat
 | čl. 4 | [clanak-004.md](clanak-004.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2026-522` (tags `zakon-2026-522/<day>`; `python tools/on.py <day> zakon-2026-522`).
+Act id: `zakon-2026-522` (tags `zakon-2026-522/<day>`; `python registry/tools/on.py <day> zakon-2026-522`).
 
 ## Decisions made by hand
 

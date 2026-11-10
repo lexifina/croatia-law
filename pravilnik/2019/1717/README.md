@@ -10,7 +10,7 @@ Pravilnik o izmjenama i dopunama Pravilnika o strukturi i sadržaju godišnjih i
 | čl. 4 | [clanak-004.md](clanak-004.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `pravilnik-2019-1717` (tags `pravilnik-2019-1717/<day>`; `python tools/on.py <day> pravilnik-2019-1717`).
+Act id: `pravilnik-2019-1717` (tags `pravilnik-2019-1717/<day>`; `python registry/tools/on.py <day> pravilnik-2019-1717`).
 
 ## Decisions made by hand
 

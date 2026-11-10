@@ -9,7 +9,7 @@ Odluka o davanju suglasnosti na Financijski plan Hrvatskih voda za 2021. godinu 
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2020-2581` (tags `odluka-2020-2581/<day>`; `python tools/on.py <day> odluka-2020-2581`).
+Act id: `odluka-2020-2581` (tags `odluka-2020-2581/<day>`; `python registry/tools/on.py <day> odluka-2020-2581`).
 
 ## Decisions made by hand
 

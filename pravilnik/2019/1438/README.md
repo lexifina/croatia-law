@@ -35,7 +35,7 @@ Pravilnik o postupku stavljanja ortopedskih i drugih pomagala na osnovnu i dodat
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2019-1438` (tags `pravilnik-2019-1438/<day>`; `python tools/on.py <day> pravilnik-2019-1438`).
+Act id: `pravilnik-2019-1438` (tags `pravilnik-2019-1438/<day>`; `python registry/tools/on.py <day> pravilnik-2019-1438`).
 
 ## Status
 

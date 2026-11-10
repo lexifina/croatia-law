@@ -29,7 +29,7 @@ Odluka o gradskim porezima i o prirezu poreza na dohodak · 1 versions, from 201
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2011-138` (tags `odluka-2011-138/<day>`; `python tools/on.py <day> odluka-2011-138`).
+Act id: `odluka-2011-138` (tags `odluka-2011-138/<day>`; `python registry/tools/on.py <day> odluka-2011-138`).
 
 ## Status
 

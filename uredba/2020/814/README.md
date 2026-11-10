@@ -9,7 +9,7 @@ Uredba o dopunama Uredbe o graničnim prijelazima Republike Hrvatske · 1 versio
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2020-814` (tags `uredba-2020-814/<day>`; `python tools/on.py <day> uredba-2020-814`).
+Act id: `uredba-2020-814` (tags `uredba-2020-814/<day>`; `python registry/tools/on.py <day> uredba-2020-814`).
 
 ## Decisions made by hand
 

@@ -8,7 +8,7 @@ Odluka o osnivanju Povjerenstva za praćenje provedbe Nacionalnog plana za uklju
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2021-1339` (tags `odluka-2021-1339/<day>`; `python tools/on.py <day> odluka-2021-1339`).
+Act id: `odluka-2021-1339` (tags `odluka-2021-1339/<day>`; `python registry/tools/on.py <day> odluka-2021-1339`).
 
 ## Status
 

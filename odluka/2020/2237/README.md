@@ -8,7 +8,7 @@ Odluka o uvođenju nužnih epidemioloških mjera za područje Grada Zagreba · 1
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2020-2237` (tags `odluka-2020-2237/<day>`; `python tools/on.py <day> odluka-2020-2237`).
+Act id: `odluka-2020-2237` (tags `odluka-2020-2237/<day>`; `python registry/tools/on.py <day> odluka-2020-2237`).
 
 ## Status
 

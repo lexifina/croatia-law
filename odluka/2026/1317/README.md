@@ -8,7 +8,7 @@ Odluka o osnivanju Vijeća za lokalni razvoj · 1 versions, from 2026-09-29 (lat
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2026-1317` (tags `odluka-2026-1317/<day>`; `python tools/on.py <day> odluka-2026-1317`).
+Act id: `odluka-2026-1317` (tags `odluka-2026-1317/<day>`; `python registry/tools/on.py <day> odluka-2026-1317`).
 
 ## Decisions made by hand
 

@@ -8,7 +8,7 @@ Odluka o donošenju Programa zbrinjavanja stanovnika zgrada i uklanjanja ostatak
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2019-549` (tags `odluka-2019-549/<day>`; `python tools/on.py <day> odluka-2019-549`).
+Act id: `odluka-2019-549` (tags `odluka-2019-549/<day>`; `python registry/tools/on.py <day> odluka-2019-549`).
 
 ## Decisions made by hand
 

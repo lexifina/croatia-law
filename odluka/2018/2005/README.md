@@ -43,7 +43,7 @@ Odluka o uvjetima za otvaranje i funkcioniranje TIPS namjenskoga novčanog raču
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2018-2005` (tags `odluka-2018-2005/<day>`; `python tools/on.py <day> odluka-2018-2005`).
+Act id: `odluka-2018-2005` (tags `odluka-2018-2005/<day>`; `python registry/tools/on.py <day> odluka-2018-2005`).
 
 ## Status
 

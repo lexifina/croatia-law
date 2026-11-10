@@ -12,7 +12,7 @@ Odluka o visini najniže mirovine hrvatskom branitelju iz Domovinskog rata za go
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2016-765` (tags `odluka-2016-765/<day>`; `python tools/on.py <day> odluka-2016-765`).
+Act id: `odluka-2016-765` (tags `odluka-2016-765/<day>`; `python registry/tools/on.py <day> odluka-2016-765`).
 
 ## Decisions made by hand
 

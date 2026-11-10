@@ -14,7 +14,7 @@ Odluka o izmjenama i dopunama Odluke o procjeni primjerenosti predsjednika uprav
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2016-2074` (tags `odluka-2016-2074/<day>`; `python tools/on.py <day> odluka-2016-2074`).
+Act id: `odluka-2016-2074` (tags `odluka-2016-2074/<day>`; `python registry/tools/on.py <day> odluka-2016-2074`).
 
 ## Decisions made by hand
 

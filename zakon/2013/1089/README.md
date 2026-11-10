@@ -145,7 +145,7 @@ Zakon o izmjenama i dopunama Zakona o kreditnim institucijama · 1 versions, fro
 | čl. 139 | [clanak-139.md](clanak-139.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2013-1089` (tags `zakon-2013-1089/<day>`; `python tools/on.py <day> zakon-2013-1089`).
+Act id: `zakon-2013-1089` (tags `zakon-2013-1089/<day>`; `python registry/tools/on.py <day> zakon-2013-1089`).
 
 ## Decisions made by hand
 

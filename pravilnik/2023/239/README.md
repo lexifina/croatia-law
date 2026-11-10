@@ -19,7 +19,7 @@ Pravilnik o sadržaju, obliku i načinu dostavljanja propisanih informacija Hrva
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2023-239` (tags `pravilnik-2023-239/<day>`; `python tools/on.py <day> pravilnik-2023-239`).
+Act id: `pravilnik-2023-239` (tags `pravilnik-2023-239/<day>`; `python registry/tools/on.py <day> pravilnik-2023-239`).
 
 ## Decisions made by hand
 

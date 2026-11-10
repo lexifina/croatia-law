@@ -9,7 +9,7 @@ Odluka o izmjeni Odluke o naknadi za razvoj društva KD VODOVOD I KANALIZACIJA d
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2020-2887` (tags `odluka-2020-2887/<day>`; `python tools/on.py <day> odluka-2020-2887`).
+Act id: `odluka-2020-2887` (tags `odluka-2020-2887/<day>`; `python registry/tools/on.py <day> odluka-2020-2887`).
 
 ## Decisions made by hand
 

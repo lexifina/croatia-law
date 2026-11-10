@@ -30,7 +30,7 @@ Uredba o unutarnjem ustrojstvu Državnog zavoda za radiološku i nuklearnu sigur
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2012-1247` (tags `uredba-2012-1247/<day>`; `python tools/on.py <day> uredba-2012-1247`).
+Act id: `uredba-2012-1247` (tags `uredba-2012-1247/<day>`; `python registry/tools/on.py <day> uredba-2012-1247`).
 
 ## Decisions made by hand
 

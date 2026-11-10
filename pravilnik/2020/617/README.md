@@ -15,7 +15,7 @@ Pravilnik o ciljevima očuvanja i mjerama očuvanja ciljnih vrsta ptica u podru�
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2020-617` (tags `pravilnik-2020-617/<day>`; `python tools/on.py <day> pravilnik-2020-617`).
+Act id: `pravilnik-2020-617` (tags `pravilnik-2020-617/<day>`; `python registry/tools/on.py <day> pravilnik-2020-617`).
 
 ## Status
 

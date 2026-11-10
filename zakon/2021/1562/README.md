@@ -29,7 +29,7 @@ Zakon o izmjenama i dopunama Kaznenog zakona · 1 versions, from 2021-07-31 (lat
 | čl. 23 | [clanak-023.md](clanak-023.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2021-1562` (tags `zakon-2021-1562/<day>`; `python tools/on.py <day> zakon-2021-1562`).
+Act id: `zakon-2021-1562` (tags `zakon-2021-1562/<day>`; `python registry/tools/on.py <day> zakon-2021-1562`).
 
 ## Decisions made by hand
 

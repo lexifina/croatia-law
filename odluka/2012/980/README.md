@@ -9,7 +9,7 @@ Odluka o izmjeni Odluke o standardima i normativima prava na zdravstvenu zaštit
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2012-980` (tags `odluka-2012-980/<day>`; `python tools/on.py <day> odluka-2012-980`).
+Act id: `odluka-2012-980` (tags `odluka-2012-980/<day>`; `python registry/tools/on.py <day> odluka-2012-980`).
 
 ## Status
 

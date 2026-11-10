@@ -7,7 +7,7 @@ Odluka Vijeća za elektroničke medije klasa: 612-12/10-04/0044 od 29. travnja 2
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 
-Act id: `odluka-2013-1159` (tags `odluka-2013-1159/<day>`; `python tools/on.py <day> odluka-2013-1159`).
+Act id: `odluka-2013-1159` (tags `odluka-2013-1159/<day>`; `python registry/tools/on.py <day> odluka-2013-1159`).
 
 ## Decisions made by hand
 

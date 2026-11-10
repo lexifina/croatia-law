@@ -8,7 +8,7 @@ Odluka o promjeni granice pomorskog dobra radi građenja, rekonstrukcije i održ
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2019-483` (tags `odluka-2019-483/<day>`; `python tools/on.py <day> odluka-2019-483`).
+Act id: `odluka-2019-483` (tags `odluka-2019-483/<day>`; `python registry/tools/on.py <day> odluka-2019-483`).
 
 ## Decisions made by hand
 

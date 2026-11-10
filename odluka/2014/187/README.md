@@ -8,7 +8,7 @@ Odluka kojom se društva za upravljanje alternativnim investicijskim fondovima o
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2014-187` (tags `odluka-2014-187/<day>`; `python tools/on.py <day> odluka-2014-187`).
+Act id: `odluka-2014-187` (tags `odluka-2014-187/<day>`; `python registry/tools/on.py <day> odluka-2014-187`).
 
 ## Status
 

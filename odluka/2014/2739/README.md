@@ -8,7 +8,7 @@ Odluka o dodjeli Državne nagrade za volontiranje u 2014. godini · 1 versions, 
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2014-2739` (tags `odluka-2014-2739/<day>`; `python tools/on.py <day> odluka-2014-2739`).
+Act id: `odluka-2014-2739` (tags `odluka-2014-2739/<day>`; `python registry/tools/on.py <day> odluka-2014-2739`).
 
 ## Decisions made by hand
 

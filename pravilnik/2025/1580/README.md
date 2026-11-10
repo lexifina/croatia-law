@@ -9,7 +9,7 @@ Pravilnik o izmjeni i dopuni Pravilnika o cestarini · 1 versions, from 2025-08-
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2025-1580` (tags `pravilnik-2025-1580/<day>`; `python tools/on.py <day> pravilnik-2025-1580`).
+Act id: `pravilnik-2025-1580` (tags `pravilnik-2025-1580/<day>`; `python registry/tools/on.py <day> pravilnik-2025-1580`).
 
 ## Decisions made by hand
 

@@ -12,7 +12,7 @@ Uredba o izmjenama Uredbe o postupku davanja koncesijskog odobrenja na pomorskom
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2013-2885` (tags `uredba-2013-2885/<day>`; `python tools/on.py <day> uredba-2013-2885`).
+Act id: `uredba-2013-2885` (tags `uredba-2013-2885/<day>`; `python registry/tools/on.py <day> uredba-2013-2885`).
 
 ## Decisions made by hand
 

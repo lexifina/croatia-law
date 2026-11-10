@@ -9,7 +9,7 @@ Odluka o davanju suglasnosti na Izmjene i dopune Financijskog plana HŽ Infrastr
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2026-1503` (tags `odluka-2026-1503/<day>`; `python tools/on.py <day> odluka-2026-1503`).
+Act id: `odluka-2026-1503` (tags `odluka-2026-1503/<day>`; `python registry/tools/on.py <day> odluka-2026-1503`).
 
 ## Decisions made by hand
 

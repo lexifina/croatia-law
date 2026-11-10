@@ -9,7 +9,7 @@ Odluka o usklađenju sredstava jamstvenog pologa za 2025. godinu · 1 versions, 
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2025-126` (tags `odluka-2025-126/<day>`; `python tools/on.py <day> odluka-2025-126`).
+Act id: `odluka-2025-126` (tags `odluka-2025-126/<day>`; `python registry/tools/on.py <day> odluka-2025-126`).
 
 ## Decisions made by hand
 

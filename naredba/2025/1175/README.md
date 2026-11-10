@@ -5,7 +5,7 @@ Naredba o mjerama sprječavanja pojave i ranog otkrivanja slinavke i šapa te ku
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `naredba-2025-1175` (tags `naredba-2025-1175/<day>`; `python tools/on.py <day> naredba-2025-1175`).
+Act id: `naredba-2025-1175` (tags `naredba-2025-1175/<day>`; `python registry/tools/on.py <day> naredba-2025-1175`).
 
 ## Decisions made by hand
 

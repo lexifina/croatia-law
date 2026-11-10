@@ -75,7 +75,7 @@ Zakon o izmjenama i dopunama Zakona o trošarinama · 1 versions, from 2022-01-0
 | čl. 69 | [clanak-069.md](clanak-069.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2021-2463` (tags `zakon-2021-2463/<day>`; `python tools/on.py <day> zakon-2021-2463`).
+Act id: `zakon-2021-2463` (tags `zakon-2021-2463/<day>`; `python registry/tools/on.py <day> zakon-2021-2463`).
 
 ## Decisions made by hand
 

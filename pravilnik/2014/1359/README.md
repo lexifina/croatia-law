@@ -16,7 +16,7 @@ Pravilnik o uvjetima za izdavanje odobrenja za rad i odobrenja za stjecanje kval
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2014-1359` (tags `pravilnik-2014-1359/<day>`; `python tools/on.py <day> pravilnik-2014-1359`).
+Act id: `pravilnik-2014-1359` (tags `pravilnik-2014-1359/<day>`; `python registry/tools/on.py <day> pravilnik-2014-1359`).
 
 ## Status
 

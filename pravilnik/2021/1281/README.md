@@ -69,7 +69,7 @@ Pravilnik o nositeljima, sadržaju i postupcima izrade planskih dokumenata u civ
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2021-1281` (tags `pravilnik-2021-1281/<day>`; `python tools/on.py <day> pravilnik-2021-1281`).
+Act id: `pravilnik-2021-1281` (tags `pravilnik-2021-1281/<day>`; `python registry/tools/on.py <day> pravilnik-2021-1281`).
 
 ## Decisions made by hand
 

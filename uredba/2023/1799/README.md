@@ -11,7 +11,7 @@ Uredba o provedbi Uredbe (EU) 2022/1925 Europskog parlamenta i Vijeća od 14. ru
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2023-1799` (tags `uredba-2023-1799/<day>`; `python tools/on.py <day> uredba-2023-1799`).
+Act id: `uredba-2023-1799` (tags `uredba-2023-1799/<day>`; `python registry/tools/on.py <day> uredba-2023-1799`).
 
 ## Decisions made by hand
 

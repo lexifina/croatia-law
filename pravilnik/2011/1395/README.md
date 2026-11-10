@@ -37,7 +37,7 @@ Pravilnik o nadzoru i provjeri kvalitete rada revizorskih društava, samostalnih
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2011-1395` (tags `pravilnik-2011-1395/<day>`; `python tools/on.py <day> pravilnik-2011-1395`).
+Act id: `pravilnik-2011-1395` (tags `pravilnik-2011-1395/<day>`; `python registry/tools/on.py <day> pravilnik-2011-1395`).
 
 ## Status
 

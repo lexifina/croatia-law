@@ -14,7 +14,7 @@ Pravilnik o tehničkim uvjetima za provedbu Zakona o provedbi ovrhe na novčanim
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2018-1751` (tags `pravilnik-2018-1751/<day>`; `python tools/on.py <day> pravilnik-2018-1751`).
+Act id: `pravilnik-2018-1751` (tags `pravilnik-2018-1751/<day>`; `python registry/tools/on.py <day> pravilnik-2018-1751`).
 
 ## Status
 

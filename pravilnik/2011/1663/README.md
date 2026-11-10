@@ -11,7 +11,7 @@ Pravilnik o tehničkim i mjeriteljskim zahtjevima za mjerne sustave za mjerenje 
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2011-1663` (tags `pravilnik-2011-1663/<day>`; `python tools/on.py <day> pravilnik-2011-1663`).
+Act id: `pravilnik-2011-1663` (tags `pravilnik-2011-1663/<day>`; `python registry/tools/on.py <day> pravilnik-2011-1663`).
 
 ## Decisions made by hand
 

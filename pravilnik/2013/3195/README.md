@@ -14,7 +14,7 @@ Pravilnik o izmjenama i dopunama Pravilnika o načinu obavljanja i organiziranju
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2013-3195` (tags `pravilnik-2013-3195/<day>`; `python tools/on.py <day> pravilnik-2013-3195`).
+Act id: `pravilnik-2013-3195` (tags `pravilnik-2013-3195/<day>`; `python registry/tools/on.py <day> pravilnik-2013-3195`).
 
 ## Decisions made by hand
 

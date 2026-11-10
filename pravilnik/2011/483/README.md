@@ -17,7 +17,7 @@ Pravilnik o rasporedu sredstava za održavanje i građenje županijskih i lokaln
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2011-483` (tags `pravilnik-2011-483/<day>`; `python tools/on.py <day> pravilnik-2011-483`).
+Act id: `pravilnik-2011-483` (tags `pravilnik-2011-483/<day>`; `python registry/tools/on.py <day> pravilnik-2011-483`).
 
 ## Status
 

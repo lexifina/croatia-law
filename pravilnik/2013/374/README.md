@@ -13,7 +13,7 @@ Pravilnik o načinu i postupku izvještavanja nadležnog tijela o promjeni zdrav
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2013-374` (tags `pravilnik-2013-374/<day>`; `python tools/on.py <day> pravilnik-2013-374`).
+Act id: `pravilnik-2013-374` (tags `pravilnik-2013-374/<day>`; `python registry/tools/on.py <day> pravilnik-2013-374`).
 
 ## Status
 

@@ -8,7 +8,7 @@ Odluka o katastarskoj izmjeri na području Grada Paga za dijelove k.o. Pag, k.o.
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2022-1559` (tags `odluka-2022-1559/<day>`; `python tools/on.py <day> odluka-2022-1559`).
+Act id: `odluka-2022-1559` (tags `odluka-2022-1559/<day>`; `python registry/tools/on.py <day> odluka-2022-1559`).
 
 ## Decisions made by hand
 

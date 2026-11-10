@@ -11,7 +11,7 @@ Pravilnik o izmjenama Pravilnika o arheološkim istraživanjima · 1 versions, f
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2020-18` (tags `pravilnik-2020-18/<day>`; `python tools/on.py <day> pravilnik-2020-18`).
+Act id: `pravilnik-2020-18` (tags `pravilnik-2020-18/<day>`; `python registry/tools/on.py <day> pravilnik-2020-18`).
 
 ## Decisions made by hand
 

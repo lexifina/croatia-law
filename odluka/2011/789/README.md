@@ -8,7 +8,7 @@ Odluka o visini naknade za stranu dozvolu i visini naknade za trošak postupka r
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2011-789` (tags `odluka-2011-789/<day>`; `python tools/on.py <day> odluka-2011-789`).
+Act id: `odluka-2011-789` (tags `odluka-2011-789/<day>`; `python registry/tools/on.py <day> odluka-2011-789`).
 
 ## Status
 

@@ -155,7 +155,7 @@ Zakon o zaštiti potrošača · 1 versions, from 2014-04-08 (latest in force: 20
 | čl. 149 | [clanak-149.md](clanak-149.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2014-723` (tags `zakon-2014-723/<day>`; `python tools/on.py <day> zakon-2014-723`).
+Act id: `zakon-2014-723` (tags `zakon-2014-723/<day>`; `python registry/tools/on.py <day> zakon-2014-723`).
 
 ## Status
 

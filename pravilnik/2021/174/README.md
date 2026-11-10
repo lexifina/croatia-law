@@ -19,7 +19,7 @@ Pravilnik o naknadi i nagradi javnih bilježnika u ovršnom postupku · 1 versio
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2021-174` (tags `pravilnik-2021-174/<day>`; `python tools/on.py <day> pravilnik-2021-174`).
+Act id: `pravilnik-2021-174` (tags `pravilnik-2021-174/<day>`; `python registry/tools/on.py <day> pravilnik-2021-174`).
 
 ## Status
 

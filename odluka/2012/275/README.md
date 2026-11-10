@@ -15,7 +15,7 @@ Odluka o prirezu porezu na dohodak Grada Knina · 1 versions, from 2012-01-28 (l
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2012-275` (tags `odluka-2012-275/<day>`; `python tools/on.py <day> odluka-2012-275`).
+Act id: `odluka-2012-275` (tags `odluka-2012-275/<day>`; `python registry/tools/on.py <day> odluka-2012-275`).
 
 ## Status
 

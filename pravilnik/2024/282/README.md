@@ -9,7 +9,7 @@ Pravilnik o izmjeni Pravilnika o vrsti, obliku i načinu postavljanja državnih 
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2024-282` (tags `pravilnik-2024-282/<day>`; `python tools/on.py <day> pravilnik-2024-282`).
+Act id: `pravilnik-2024-282` (tags `pravilnik-2024-282/<day>`; `python registry/tools/on.py <day> pravilnik-2024-282`).
 
 ## Decisions made by hand
 

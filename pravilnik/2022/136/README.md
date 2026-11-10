@@ -14,7 +14,7 @@ Pravilnik o izmjenama i dopunama Pravilnika o izvještavanju o neuspjelim namira
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2022-136` (tags `pravilnik-2022-136/<day>`; `python tools/on.py <day> pravilnik-2022-136`).
+Act id: `pravilnik-2022-136` (tags `pravilnik-2022-136/<day>`; `python registry/tools/on.py <day> pravilnik-2022-136`).
 
 ## Decisions made by hand
 

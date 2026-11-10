@@ -12,7 +12,7 @@ Pravilnik o dopunama Pravilnika o praćenju emisija onečišćujućih tvari u zr
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2013-2204` (tags `pravilnik-2013-2204/<day>`; `python tools/on.py <day> pravilnik-2013-2204`).
+Act id: `pravilnik-2013-2204` (tags `pravilnik-2013-2204/<day>`; `python registry/tools/on.py <day> pravilnik-2013-2204`).
 
 ## Decisions made by hand
 

@@ -10,7 +10,7 @@ Pravilnik o izmjenama Pravilnika o obavljanju gospodarskog ribolova na moru okru
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2016-2000` (tags `pravilnik-2016-2000/<day>`; `python tools/on.py <day> pravilnik-2016-2000`).
+Act id: `pravilnik-2016-2000` (tags `pravilnik-2016-2000/<day>`; `python registry/tools/on.py <day> pravilnik-2016-2000`).
 
 ## Decisions made by hand
 

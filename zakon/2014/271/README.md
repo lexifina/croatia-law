@@ -9,7 +9,7 @@ Zakon o izmjenama Zakona o provedbi uredbi Europske unije o zaštiti životinja 
 | čl. 3 | [clanak-003.md](clanak-003.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2014-271` (tags `zakon-2014-271/<day>`; `python tools/on.py <day> zakon-2014-271`).
+Act id: `zakon-2014-271` (tags `zakon-2014-271/<day>`; `python registry/tools/on.py <day> zakon-2014-271`).
 
 ## Decisions made by hand
 

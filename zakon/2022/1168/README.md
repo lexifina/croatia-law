@@ -13,7 +13,7 @@ Zakon o izmjenama i dopunama Zakona o Vladi Republike Hrvatske · 1 versions, fr
 | čl. 7 | [clanak-007.md](clanak-007.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2022-1168` (tags `zakon-2022-1168/<day>`; `python tools/on.py <day> zakon-2022-1168`).
+Act id: `zakon-2022-1168` (tags `zakon-2022-1168/<day>`; `python registry/tools/on.py <day> zakon-2022-1168`).
 
 ## Decisions made by hand
 

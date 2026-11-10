@@ -16,7 +16,7 @@ Pravilnik o mjerilima i načinu korištenja nenamjenskih donacija i vlastitih pr
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2024-829` (tags `pravilnik-2024-829/<day>`; `python tools/on.py <day> pravilnik-2024-829`).
+Act id: `pravilnik-2024-829` (tags `pravilnik-2024-829/<day>`; `python registry/tools/on.py <day> pravilnik-2024-829`).
 
 ## Status
 

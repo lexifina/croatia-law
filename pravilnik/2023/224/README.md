@@ -9,7 +9,7 @@ Pravilnik o dopuni Pravilnika o odori službenika pravosudne policije · 1 versi
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2023-224` (tags `pravilnik-2023-224/<day>`; `python tools/on.py <day> pravilnik-2023-224`).
+Act id: `pravilnik-2023-224` (tags `pravilnik-2023-224/<day>`; `python registry/tools/on.py <day> pravilnik-2023-224`).
 
 ## Decisions made by hand
 

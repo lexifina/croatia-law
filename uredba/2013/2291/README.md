@@ -56,7 +56,7 @@ Uredba o unutarnjem ustrojstvu Državnog ureda za obnovu i stambeno zbrinjavanje
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2013-2291` (tags `uredba-2013-2291/<day>`; `python tools/on.py <day> uredba-2013-2291`).
+Act id: `uredba-2013-2291` (tags `uredba-2013-2291/<day>`; `python registry/tools/on.py <day> uredba-2013-2291`).
 
 ## Status
 

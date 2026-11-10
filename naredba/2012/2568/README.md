@@ -9,7 +9,7 @@ Naredba o izmjeni Naredbe o zabrani uvoza u Republiku Hrvatsku proizvoda životi
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `naredba-2012-2568` (tags `naredba-2012-2568/<day>`; `python tools/on.py <day> naredba-2012-2568`).
+Act id: `naredba-2012-2568` (tags `naredba-2012-2568/<day>`; `python registry/tools/on.py <day> naredba-2012-2568`).
 
 ## Decisions made by hand
 

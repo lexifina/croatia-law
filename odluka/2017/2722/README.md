@@ -8,7 +8,7 @@ Odluka o isplati materijalnih prava i drugih naknada i o visini osnovice za obra
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2017-2722` (tags `odluka-2017-2722/<day>`; `python tools/on.py <day> odluka-2017-2722`).
+Act id: `odluka-2017-2722` (tags `odluka-2017-2722/<day>`; `python registry/tools/on.py <day> odluka-2017-2722`).
 
 ## Decisions made by hand
 

@@ -12,7 +12,7 @@ Zakon o izmjenama Zakona o šumskom reprodukcijskom materijalu · 1 versions, fr
 | čl. 6 | [clanak-006.md](clanak-006.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2019-1952` (tags `zakon-2019-1952/<day>`; `python tools/on.py <day> zakon-2019-1952`).
+Act id: `zakon-2019-1952` (tags `zakon-2019-1952/<day>`; `python registry/tools/on.py <day> zakon-2019-1952`).
 
 ## Decisions made by hand
 

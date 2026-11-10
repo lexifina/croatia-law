@@ -9,7 +9,7 @@ Pravilnik o izmjeni Pravilnika o provedbi izravne potpore poljoprivredi i IAKS m
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2026-616` (tags `pravilnik-2026-616/<day>`; `python tools/on.py <day> pravilnik-2026-616`).
+Act id: `pravilnik-2026-616` (tags `pravilnik-2026-616/<day>`; `python registry/tools/on.py <day> pravilnik-2026-616`).
 
 ## Decisions made by hand
 

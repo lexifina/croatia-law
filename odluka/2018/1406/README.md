@@ -8,7 +8,7 @@ Odluka o izmjenama i dopunama Odluke o upisu učenika u I. razred srednje škole
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2018-1406` (tags `odluka-2018-1406/<day>`; `python tools/on.py <day> odluka-2018-1406`).
+Act id: `odluka-2018-1406` (tags `odluka-2018-1406/<day>`; `python registry/tools/on.py <day> odluka-2018-1406`).
 
 ## Decisions made by hand
 

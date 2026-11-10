@@ -13,7 +13,7 @@ Pravilnik o izmjenama i dopunama Pravilnika o visini pristojbi i naknada za slu≈
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2020-154` (tags `pravilnik-2020-154/<day>`; `python tools/on.py <day> pravilnik-2020-154`).
+Act id: `pravilnik-2020-154` (tags `pravilnik-2020-154/<day>`; `python registry/tools/on.py <day> pravilnik-2020-154`).
 
 ## Decisions made by hand
 

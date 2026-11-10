@@ -12,7 +12,7 @@ Odluka o naknadi za superviziju kreditnih institucija za 2020. godinu · 1 versi
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2020-1485` (tags `odluka-2020-1485/<day>`; `python tools/on.py <day> odluka-2020-1485`).
+Act id: `odluka-2020-1485` (tags `odluka-2020-1485/<day>`; `python registry/tools/on.py <day> odluka-2020-1485`).
 
 ## Decisions made by hand
 

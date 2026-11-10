@@ -9,7 +9,7 @@ Pravilnik o izmjeni Pravilnika o čamcima · 1 versions, from 2015-07-22 (latest
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2015-1556` (tags `pravilnik-2015-1556/<day>`; `python tools/on.py <day> pravilnik-2015-1556`).
+Act id: `pravilnik-2015-1556` (tags `pravilnik-2015-1556/<day>`; `python registry/tools/on.py <day> pravilnik-2015-1556`).
 
 ## Decisions made by hand
 

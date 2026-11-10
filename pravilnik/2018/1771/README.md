@@ -14,7 +14,7 @@ Pravilnik o izmjenama Pravilnika o načinu i postupku privlačenja, oglašavanja
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2018-1771` (tags `pravilnik-2018-1771/<day>`; `python tools/on.py <day> pravilnik-2018-1771`).
+Act id: `pravilnik-2018-1771` (tags `pravilnik-2018-1771/<day>`; `python registry/tools/on.py <day> pravilnik-2018-1771`).
 
 ## Decisions made by hand
 

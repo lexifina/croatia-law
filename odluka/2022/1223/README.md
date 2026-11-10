@@ -15,7 +15,7 @@ Odluka o naknadi za razvoj na području Općine Murter - Kornati · 1 versions, 
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2022-1223` (tags `odluka-2022-1223/<day>`; `python tools/on.py <day> odluka-2022-1223`).
+Act id: `odluka-2022-1223` (tags `odluka-2022-1223/<day>`; `python registry/tools/on.py <day> odluka-2022-1223`).
 
 ## Decisions made by hand
 

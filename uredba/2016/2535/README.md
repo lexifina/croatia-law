@@ -9,7 +9,7 @@ Uredba o visini minimalne plaće · 1 versions, from 2017-01-01 (latest in force
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2016-2535` (tags `uredba-2016-2535/<day>`; `python tools/on.py <day> uredba-2016-2535`).
+Act id: `uredba-2016-2535` (tags `uredba-2016-2535/<day>`; `python registry/tools/on.py <day> uredba-2016-2535`).
 
 ## Status
 

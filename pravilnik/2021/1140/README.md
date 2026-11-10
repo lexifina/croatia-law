@@ -22,7 +22,7 @@ Pravilnik o pristupu povjerljivim podacima Državnog zavoda za statistiku unutar
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2021-1140` (tags `pravilnik-2021-1140/<day>`; `python tools/on.py <day> pravilnik-2021-1140`).
+Act id: `pravilnik-2021-1140` (tags `pravilnik-2021-1140/<day>`; `python registry/tools/on.py <day> pravilnik-2021-1140`).
 
 ## Decisions made by hand
 

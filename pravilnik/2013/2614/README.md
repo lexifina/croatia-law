@@ -27,7 +27,7 @@ Pravilnik o postupku izbora predstavnika radnika iz Republike Hrvatske u tijelim
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2013-2614` (tags `pravilnik-2013-2614/<day>`; `python tools/on.py <day> pravilnik-2013-2614`).
+Act id: `pravilnik-2013-2614` (tags `pravilnik-2013-2614/<day>`; `python registry/tools/on.py <day> pravilnik-2013-2614`).
 
 ## Status
 

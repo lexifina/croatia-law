@@ -15,7 +15,7 @@ Pravilnik o strukturi, sadržaju, načinu i rokovima dostave godišnjih financij
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2019-1818` (tags `pravilnik-2019-1818/<day>`; `python tools/on.py <day> pravilnik-2019-1818`).
+Act id: `pravilnik-2019-1818` (tags `pravilnik-2019-1818/<day>`; `python registry/tools/on.py <day> pravilnik-2019-1818`).
 
 ## Status
 

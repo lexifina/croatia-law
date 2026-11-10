@@ -10,7 +10,7 @@ Odluka o izmjeni Odluke o općinskim porezima Općine Ivankovo · 1 versions, fr
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2023-2018` (tags `odluka-2023-2018/<day>`; `python tools/on.py <day> odluka-2023-2018`).
+Act id: `odluka-2023-2018` (tags `odluka-2023-2018/<day>`; `python registry/tools/on.py <day> odluka-2023-2018`).
 
 ## Decisions made by hand
 

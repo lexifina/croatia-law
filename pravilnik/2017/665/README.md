@@ -17,7 +17,7 @@ Pravilnik o sadržaju zahtjeva za dobivanje suglasnosti za odobrenje za početak
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2017-665` (tags `pravilnik-2017-665/<day>`; `python tools/on.py <day> pravilnik-2017-665`).
+Act id: `pravilnik-2017-665` (tags `pravilnik-2017-665/<day>`; `python registry/tools/on.py <day> pravilnik-2017-665`).
 
 ## Decisions made by hand
 

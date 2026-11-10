@@ -129,7 +129,7 @@ Zakon o izmjenama i dopunama Zakona o strancima · 1 versions, from 2017-07-22 (
 | čl. 123 | [clanak-123.md](clanak-123.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2017-1605` (tags `zakon-2017-1605/<day>`; `python tools/on.py <day> zakon-2017-1605`).
+Act id: `zakon-2017-1605` (tags `zakon-2017-1605/<day>`; `python registry/tools/on.py <day> zakon-2017-1605`).
 
 ## Decisions made by hand
 

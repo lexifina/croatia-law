@@ -8,7 +8,7 @@ Odluka o prestanku koncesije na pomorskom dobru u svrhu gospodarskog korištenja
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2014-97` (tags `odluka-2014-97/<day>`; `python tools/on.py <day> odluka-2014-97`).
+Act id: `odluka-2014-97` (tags `odluka-2014-97/<day>`; `python registry/tools/on.py <day> odluka-2014-97`).
 
 ## Decisions made by hand
 

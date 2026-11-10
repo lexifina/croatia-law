@@ -47,7 +47,7 @@ Odluka o izmjenama i dopunama Odluke o klasifikaciji plasmana i izvanbilančnih 
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2013-1966` (tags `odluka-2013-1966/<day>`; `python tools/on.py <day> odluka-2013-1966`).
+Act id: `odluka-2013-1966` (tags `odluka-2013-1966/<day>`; `python registry/tools/on.py <day> odluka-2013-1966`).
 
 ## Decisions made by hand
 

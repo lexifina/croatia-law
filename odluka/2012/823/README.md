@@ -8,7 +8,7 @@ Odluka o određivanju Referentnog centra za more Agencije za zaštitu okoliša �
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2012-823` (tags `odluka-2012-823/<day>`; `python tools/on.py <day> odluka-2012-823`).
+Act id: `odluka-2012-823` (tags `odluka-2012-823/<day>`; `python registry/tools/on.py <day> odluka-2012-823`).
 
 ## Decisions made by hand
 

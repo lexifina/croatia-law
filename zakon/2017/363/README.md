@@ -94,7 +94,7 @@ Zakon o posredovanju pri zapošljavanju i pravima za vrijeme nezaposlenosti · 1
 | čl. 88 | [clanak-088.md](clanak-088.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2017-363` (tags `zakon-2017-363/<day>`; `python tools/on.py <day> zakon-2017-363`).
+Act id: `zakon-2017-363` (tags `zakon-2017-363/<day>`; `python registry/tools/on.py <day> zakon-2017-363`).
 
 ## Status
 

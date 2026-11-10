@@ -5,7 +5,7 @@ Odluka o gradskim porezima Grada Knina · 2 versions, from 2022-01-01 (latest in
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `odluka-2022-144` (tags `odluka-2022-144/<day>`; `python tools/on.py <day> odluka-2022-144`).
+Act id: `odluka-2022-144` (tags `odluka-2022-144/<day>`; `python registry/tools/on.py <day> odluka-2022-144`).
 
 ## Decisions made by hand
 

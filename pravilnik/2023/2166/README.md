@@ -22,7 +22,7 @@ Pravilnik o evidenciji rada korištenjem digitalnih radnih platformi · 1 versio
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2023-2166` (tags `pravilnik-2023-2166/<day>`; `python tools/on.py <day> pravilnik-2023-2166`).
+Act id: `pravilnik-2023-2166` (tags `pravilnik-2023-2166/<day>`; `python registry/tools/on.py <day> pravilnik-2023-2166`).
 
 ## Decisions made by hand
 

@@ -9,7 +9,7 @@ Odluka o minimalnim financijskim standardima, kriterijima i mjerilima za decentr
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2017-324` (tags `odluka-2017-324/<day>`; `python tools/on.py <day> odluka-2017-324`).
+Act id: `odluka-2017-324` (tags `odluka-2017-324/<day>`; `python registry/tools/on.py <day> odluka-2017-324`).
 
 ## Decisions made by hand
 

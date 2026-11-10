@@ -20,7 +20,7 @@ Pravilnik o postupku i mjerilima objave javnog poziva za provođenje komasacije 
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2022-2002` (tags `pravilnik-2022-2002/<day>`; `python tools/on.py <day> pravilnik-2022-2002`).
+Act id: `pravilnik-2022-2002` (tags `pravilnik-2022-2002/<day>`; `python registry/tools/on.py <day> pravilnik-2022-2002`).
 
 ## Status
 

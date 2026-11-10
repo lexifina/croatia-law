@@ -17,7 +17,7 @@ Pravilnik o ribolovnim mogućnostima i raspodjeli državne kvote u 2024. godini 
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2024-278` (tags `pravilnik-2024-278/<day>`; `python tools/on.py <day> pravilnik-2024-278`).
+Act id: `pravilnik-2024-278` (tags `pravilnik-2024-278/<day>`; `python registry/tools/on.py <day> pravilnik-2024-278`).
 
 ## Status
 

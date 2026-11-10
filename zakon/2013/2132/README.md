@@ -79,7 +79,7 @@ Zakon o izmjenama i dopunama Zakona o znanstvenoj djelatnosti i visokom obrazova
 | čl. 73 | [clanak-073.md](clanak-073.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2013-2132` (tags `zakon-2013-2132/<day>`; `python tools/on.py <day> zakon-2013-2132`).
+Act id: `zakon-2013-2132` (tags `zakon-2013-2132/<day>`; `python registry/tools/on.py <day> zakon-2013-2132`).
 
 ## Decisions made by hand
 

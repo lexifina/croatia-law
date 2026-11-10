@@ -10,7 +10,7 @@ Pravilnik o dopunama Pravilnika o ustroju i načinu rada područnih vijeća i ma
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2012-2689` (tags `pravilnik-2012-2689/<day>`; `python tools/on.py <day> pravilnik-2012-2689`).
+Act id: `pravilnik-2012-2689` (tags `pravilnik-2012-2689/<day>`; `python registry/tools/on.py <day> pravilnik-2012-2689`).
 
 ## Decisions made by hand
 

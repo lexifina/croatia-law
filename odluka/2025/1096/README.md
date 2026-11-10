@@ -8,7 +8,7 @@ Odluka o osnivanju Povjerenstva za praćenje provedbe Operativnih programa nacio
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2025-1096` (tags `odluka-2025-1096/<day>`; `python tools/on.py <day> odluka-2025-1096`).
+Act id: `odluka-2025-1096` (tags `odluka-2025-1096/<day>`; `python registry/tools/on.py <day> odluka-2025-1096`).
 
 ## Decisions made by hand
 

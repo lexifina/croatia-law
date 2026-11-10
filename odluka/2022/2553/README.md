@@ -5,7 +5,7 @@ Odluka o općinskim porezima Općine Jalžabet · 2 versions, from 2023-01-01 (l
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `odluka-2022-2553` (tags `odluka-2022-2553/<day>`; `python tools/on.py <day> odluka-2022-2553`).
+Act id: `odluka-2022-2553` (tags `odluka-2022-2553/<day>`; `python registry/tools/on.py <day> odluka-2022-2553`).
 
 ## Decisions made by hand
 

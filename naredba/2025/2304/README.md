@@ -14,7 +14,7 @@ Naredba o poduzimanju i sufinanciranju mjera za sprječavanje širenja i suzbija
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `naredba-2025-2304` (tags `naredba-2025-2304/<day>`; `python tools/on.py <day> naredba-2025-2304`).
+Act id: `naredba-2025-2304` (tags `naredba-2025-2304/<day>`; `python registry/tools/on.py <day> naredba-2025-2304`).
 
 ## Decisions made by hand
 

@@ -5,7 +5,7 @@ Odluka o iznosu tarifnih stavki za distribuciju plina · 2 versions, from 2022-1
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `odluka-2022-1606` (tags `odluka-2022-1606/<day>`; `python tools/on.py <day> odluka-2022-1606`).
+Act id: `odluka-2022-1606` (tags `odluka-2022-1606/<day>`; `python registry/tools/on.py <day> odluka-2022-1606`).
 
 ## Decisions made by hand
 

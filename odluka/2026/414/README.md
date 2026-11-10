@@ -8,7 +8,7 @@ Odluka o postavljanju počasnog konzula Republike Hrvatske u Republici Bocvani, 
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2026-414` (tags `odluka-2026-414/<day>`; `python tools/on.py <day> odluka-2026-414`).
+Act id: `odluka-2026-414` (tags `odluka-2026-414/<day>`; `python registry/tools/on.py <day> odluka-2026-414`).
 
 ## Decisions made by hand
 

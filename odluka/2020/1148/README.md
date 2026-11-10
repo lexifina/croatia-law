@@ -8,7 +8,7 @@ Odluka o potvrđivanju Izmjena Statuta Zavoda za vještačenje, profesionalnu re
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2020-1148` (tags `odluka-2020-1148/<day>`; `python tools/on.py <day> odluka-2020-1148`).
+Act id: `odluka-2020-1148` (tags `odluka-2020-1148/<day>`; `python registry/tools/on.py <day> odluka-2020-1148`).
 
 ## Decisions made by hand
 

@@ -8,7 +8,7 @@ Odluka o izmjeni Odluke o ispravama i službenim obrascima čiji su sadržaj, ob
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2013-2146` (tags `odluka-2013-2146/<day>`; `python tools/on.py <day> odluka-2013-2146`).
+Act id: `odluka-2013-2146` (tags `odluka-2013-2146/<day>`; `python registry/tools/on.py <day> odluka-2013-2146`).
 
 ## Decisions made by hand
 

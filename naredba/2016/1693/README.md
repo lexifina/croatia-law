@@ -10,7 +10,7 @@ Naredba o izmjeni Naredbe o stavljanju na tržište upaljača sigurnih za djecu 
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `naredba-2016-1693` (tags `naredba-2016-1693/<day>`; `python tools/on.py <day> naredba-2016-1693`).
+Act id: `naredba-2016-1693` (tags `naredba-2016-1693/<day>`; `python registry/tools/on.py <day> naredba-2016-1693`).
 
 ## Decisions made by hand
 

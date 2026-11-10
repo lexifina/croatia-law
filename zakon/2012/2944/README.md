@@ -54,7 +54,7 @@ Zakon o izvršavanju Državnog proračuna Republike Hrvatske za 2013. godinu · 
 | čl. 48 | [clanak-048.md](clanak-048.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2012-2944` (tags `zakon-2012-2944/<day>`; `python tools/on.py <day> zakon-2012-2944`).
+Act id: `zakon-2012-2944` (tags `zakon-2012-2944/<day>`; `python registry/tools/on.py <day> zakon-2012-2944`).
 
 ## Status
 

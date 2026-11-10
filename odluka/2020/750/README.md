@@ -8,7 +8,7 @@ Odluka o otvaranju računa za donacije financijskih sredstava u akciji »Zajedno
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2020-750` (tags `odluka-2020-750/<day>`; `python tools/on.py <day> odluka-2020-750`).
+Act id: `odluka-2020-750` (tags `odluka-2020-750/<day>`; `python registry/tools/on.py <day> odluka-2020-750`).
 
 ## Decisions made by hand
 

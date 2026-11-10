@@ -9,7 +9,7 @@ Pravilnik o izmjeni Pravilnika o obliku i sadržaju identifikacijske vojne iskaz
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2020-494` (tags `pravilnik-2020-494/<day>`; `python tools/on.py <day> pravilnik-2020-494`).
+Act id: `pravilnik-2020-494` (tags `pravilnik-2020-494/<day>`; `python registry/tools/on.py <day> pravilnik-2020-494`).
 
 ## Decisions made by hand
 

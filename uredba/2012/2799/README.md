@@ -15,7 +15,7 @@ Uredba o visini trošarine na cigarete i sitno rezani duhan · 1 versions, from 
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2012-2799` (tags `uredba-2012-2799/<day>`; `python tools/on.py <day> uredba-2012-2799`).
+Act id: `uredba-2012-2799` (tags `uredba-2012-2799/<day>`; `python registry/tools/on.py <day> uredba-2012-2799`).
 
 ## Status
 

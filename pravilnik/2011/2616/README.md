@@ -23,7 +23,7 @@ Pravilnik o provedbi financijskog upravljanja i kontrola u javnom sektoru · 1 v
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2011-2616` (tags `pravilnik-2011-2616/<day>`; `python tools/on.py <day> pravilnik-2011-2616`).
+Act id: `pravilnik-2011-2616` (tags `pravilnik-2011-2616/<day>`; `python registry/tools/on.py <day> pravilnik-2011-2616`).
 
 ## Status
 

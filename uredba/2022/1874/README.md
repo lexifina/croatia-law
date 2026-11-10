@@ -9,7 +9,7 @@ Uredba o visini minimalne plaće za 2023. godinu · 1 versions, from 2023-01-01 
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2022-1874` (tags `uredba-2022-1874/<day>`; `python tools/on.py <day> uredba-2022-1874`).
+Act id: `uredba-2022-1874` (tags `uredba-2022-1874/<day>`; `python registry/tools/on.py <day> uredba-2022-1874`).
 
 ## Decisions made by hand
 

@@ -12,7 +12,7 @@ Pravilnik o troškovima i naknadama koji se mogu plaćati iz imovine AIF-a · 1 
 | čl. 6 | [clanak-006.md](clanak-006.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `pravilnik-2019-542` (tags `pravilnik-2019-542/<day>`; `python tools/on.py <day> pravilnik-2019-542`).
+Act id: `pravilnik-2019-542` (tags `pravilnik-2019-542/<day>`; `python registry/tools/on.py <day> pravilnik-2019-542`).
 
 ## Status
 

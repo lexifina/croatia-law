@@ -10,7 +10,7 @@ Zakon o izmjenama Zakona o kazalištima · 1 versions, from 2020-01-01 (latest i
 | čl. 4 | [clanak-004.md](clanak-004.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2019-1947` (tags `zakon-2019-1947/<day>`; `python tools/on.py <day> zakon-2019-1947`).
+Act id: `zakon-2019-1947` (tags `zakon-2019-1947/<day>`; `python registry/tools/on.py <day> zakon-2019-1947`).
 
 ## Decisions made by hand
 

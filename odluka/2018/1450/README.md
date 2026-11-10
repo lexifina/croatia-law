@@ -5,7 +5,7 @@ Odluka o pravnim osobama od posebnog interesa za Republiku Hrvatsku · 2 version
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `odluka-2018-1450` (tags `odluka-2018-1450/<day>`; `python tools/on.py <day> odluka-2018-1450`).
+Act id: `odluka-2018-1450` (tags `odluka-2018-1450/<day>`; `python registry/tools/on.py <day> odluka-2018-1450`).
 
 ## Decisions made by hand
 

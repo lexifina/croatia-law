@@ -9,7 +9,7 @@ Pravilnik o izmjeni Pravilnika o provedbi programa potpore proizvođačima radi 
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2019-1263` (tags `pravilnik-2019-1263/<day>`; `python tools/on.py <day> pravilnik-2019-1263`).
+Act id: `pravilnik-2019-1263` (tags `pravilnik-2019-1263/<day>`; `python registry/tools/on.py <day> pravilnik-2019-1263`).
 
 ## Decisions made by hand
 

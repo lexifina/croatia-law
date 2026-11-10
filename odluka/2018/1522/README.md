@@ -8,7 +8,7 @@ Odluka o izmjeni Odluke o osnivanju Generalnog konzulata Republike Hrvatske u Ka
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2018-1522` (tags `odluka-2018-1522/<day>`; `python tools/on.py <day> odluka-2018-1522`).
+Act id: `odluka-2018-1522` (tags `odluka-2018-1522/<day>`; `python registry/tools/on.py <day> odluka-2018-1522`).
 
 ## Decisions made by hand
 

@@ -13,7 +13,7 @@ Uredba o izmjenama Uredbe o osnivanju Javne ustanove »Park prirode Vransko jeze
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2025-1002` (tags `uredba-2025-1002/<day>`; `python tools/on.py <day> uredba-2025-1002`).
+Act id: `uredba-2025-1002` (tags `uredba-2025-1002/<day>`; `python registry/tools/on.py <day> uredba-2025-1002`).
 
 ## Decisions made by hand
 

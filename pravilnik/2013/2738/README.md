@@ -9,7 +9,7 @@ Pravilnik o prestanku važenja Pravilnika o načinu obavljanja veterinarskih pre
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2013-2738` (tags `pravilnik-2013-2738/<day>`; `python tools/on.py <day> pravilnik-2013-2738`).
+Act id: `pravilnik-2013-2738` (tags `pravilnik-2013-2738/<day>`; `python registry/tools/on.py <day> pravilnik-2013-2738`).
 
 ## Decisions made by hand
 

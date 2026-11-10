@@ -12,7 +12,7 @@ Pravilnik o izmjenama i dopunama Pravilnika o stručnim zvanjima u konzervatorsk
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2012-2546` (tags `pravilnik-2012-2546/<day>`; `python tools/on.py <day> pravilnik-2012-2546`).
+Act id: `pravilnik-2012-2546` (tags `pravilnik-2012-2546/<day>`; `python registry/tools/on.py <day> pravilnik-2012-2546`).
 
 ## Decisions made by hand
 

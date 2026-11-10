@@ -9,7 +9,7 @@ Zakon o izmjenama i dopunama Zakona o Centru za praćenje poslovanja energetskog
 | čl. 3 | [clanak-003.md](clanak-003.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2012-2585` (tags `zakon-2012-2585/<day>`; `python tools/on.py <day> zakon-2012-2585`).
+Act id: `zakon-2012-2585` (tags `zakon-2012-2585/<day>`; `python registry/tools/on.py <day> zakon-2012-2585`).
 
 ## Decisions made by hand
 

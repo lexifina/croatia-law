@@ -9,7 +9,7 @@ Odluka o koncesiji pomorskog dobra u svrhu posebne upotrebe luke posebne namjene
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2014-2468` (tags `odluka-2014-2468/<day>`; `python tools/on.py <day> odluka-2014-2468`).
+Act id: `odluka-2014-2468` (tags `odluka-2014-2468/<day>`; `python registry/tools/on.py <day> odluka-2014-2468`).
 
 ## Status
 

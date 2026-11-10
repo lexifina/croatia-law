@@ -12,7 +12,7 @@ Uredba o visini troÅ¡arine na motorne benzine, plinsko ulje i kerozin za pogon Â
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2012-2897` (tags `uredba-2012-2897/<day>`; `python tools/on.py <day> uredba-2012-2897`).
+Act id: `uredba-2012-2897` (tags `uredba-2012-2897/<day>`; `python registry/tools/on.py <day> uredba-2012-2897`).
 
 ## Status
 

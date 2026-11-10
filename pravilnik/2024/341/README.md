@@ -9,7 +9,7 @@ Pravilnik o izmjeni Pravilnika o edukacijama, stručnim znanjima i vještinama p
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2024-341` (tags `pravilnik-2024-341/<day>`; `python tools/on.py <day> pravilnik-2024-341`).
+Act id: `pravilnik-2024-341` (tags `pravilnik-2024-341/<day>`; `python registry/tools/on.py <day> pravilnik-2024-341`).
 
 ## Decisions made by hand
 

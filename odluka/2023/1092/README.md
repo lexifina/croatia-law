@@ -33,7 +33,7 @@ Odluka o izmjenama i dopunama Odluke o prikupljanju podataka o uvjetima kreditir
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2023-1092` (tags `odluka-2023-1092/<day>`; `python tools/on.py <day> odluka-2023-1092`).
+Act id: `odluka-2023-1092` (tags `odluka-2023-1092/<day>`; `python registry/tools/on.py <day> odluka-2023-1092`).
 
 ## Decisions made by hand
 

@@ -9,7 +9,7 @@ Odluka o donošenju Mreže hitne medicine i sanitetskog prijevoza · 1 versions,
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2023-1835` (tags `odluka-2023-1835/<day>`; `python tools/on.py <day> odluka-2023-1835`).
+Act id: `odluka-2023-1835` (tags `odluka-2023-1835/<day>`; `python registry/tools/on.py <day> odluka-2023-1835`).
 
 ## Decisions made by hand
 

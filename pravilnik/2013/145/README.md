@@ -9,7 +9,7 @@ Pravilnik o izmjenama Pravilnika o razvrstavanju poslovnih subjekata prema Nacio
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2013-145` (tags `pravilnik-2013-145/<day>`; `python tools/on.py <day> pravilnik-2013-145`).
+Act id: `pravilnik-2013-145` (tags `pravilnik-2013-145/<day>`; `python registry/tools/on.py <day> pravilnik-2013-145`).
 
 ## Decisions made by hand
 

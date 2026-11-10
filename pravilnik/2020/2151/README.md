@@ -9,7 +9,7 @@ Pravilnik o izmjenama Pravilnika o završnom ispitu u državnoj školi za pravos
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2020-2151` (tags `pravilnik-2020-2151/<day>`; `python tools/on.py <day> pravilnik-2020-2151`).
+Act id: `pravilnik-2020-2151` (tags `pravilnik-2020-2151/<day>`; `python registry/tools/on.py <day> pravilnik-2020-2151`).
 
 ## Decisions made by hand
 

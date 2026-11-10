@@ -8,7 +8,7 @@ Odluka o katastarskoj izmjeri na području Općine Perušić za dijelove katasta
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2017-2259` (tags `odluka-2017-2259/<day>`; `python tools/on.py <day> odluka-2017-2259`).
+Act id: `odluka-2017-2259` (tags `odluka-2017-2259/<day>`; `python registry/tools/on.py <day> odluka-2017-2259`).
 
 ## Decisions made by hand
 

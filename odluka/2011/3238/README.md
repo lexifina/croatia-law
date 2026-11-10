@@ -9,7 +9,7 @@ Odluka o najvišem postotku naknade banke skrbnika za 2012. godinu · 1 versions
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2011-3238` (tags `odluka-2011-3238/<day>`; `python tools/on.py <day> odluka-2011-3238`).
+Act id: `odluka-2011-3238` (tags `odluka-2011-3238/<day>`; `python registry/tools/on.py <day> odluka-2011-3238`).
 
 ## Decisions made by hand
 

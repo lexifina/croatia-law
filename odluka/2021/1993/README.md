@@ -8,7 +8,7 @@ Odluka o izmjeni Odluke o autorizaciji plovila za ribolov igluna (Xiphias gladiu
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2021-1993` (tags `odluka-2021-1993/<day>`; `python tools/on.py <day> odluka-2021-1993`).
+Act id: `odluka-2021-1993` (tags `odluka-2021-1993/<day>`; `python registry/tools/on.py <day> odluka-2021-1993`).
 
 ## Decisions made by hand
 

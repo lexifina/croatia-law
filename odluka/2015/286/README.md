@@ -9,7 +9,7 @@ Odluka o minimalnim financijskim standardima za decentralizirano financiranje re
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2015-286` (tags `odluka-2015-286/<day>`; `python tools/on.py <day> odluka-2015-286`).
+Act id: `odluka-2015-286` (tags `odluka-2015-286/<day>`; `python registry/tools/on.py <day> odluka-2015-286`).
 
 ## Decisions made by hand
 

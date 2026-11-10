@@ -9,7 +9,7 @@ Pravilnik o dopuni Pravilnika o polugodišnjem i godišnjem izvještaju o izvrš
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2020-2858` (tags `pravilnik-2020-2858/<day>`; `python tools/on.py <day> pravilnik-2020-2858`).
+Act id: `pravilnik-2020-2858` (tags `pravilnik-2020-2858/<day>`; `python registry/tools/on.py <day> pravilnik-2020-2858`).
 
 ## Decisions made by hand
 

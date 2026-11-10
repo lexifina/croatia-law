@@ -5,7 +5,7 @@ Uredba o izmjeni Zakona o faktoringu · 2 versions, from 2015-08-02 (latest in f
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `uredba-2015-1652` (tags `uredba-2015-1652/<day>`; `python tools/on.py <day> uredba-2015-1652`).
+Act id: `uredba-2015-1652` (tags `uredba-2015-1652/<day>`; `python registry/tools/on.py <day> uredba-2015-1652`).
 
 ## Decisions made by hand
 

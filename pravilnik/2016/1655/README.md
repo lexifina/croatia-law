@@ -18,7 +18,7 @@ Pravilnik o sadržaju, obliku i načinu vođenja očevidnika inspekcijskog nadzo
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2016-1655` (tags `pravilnik-2016-1655/<day>`; `python tools/on.py <day> pravilnik-2016-1655`).
+Act id: `pravilnik-2016-1655` (tags `pravilnik-2016-1655/<day>`; `python registry/tools/on.py <day> pravilnik-2016-1655`).
 
 ## Decisions made by hand
 

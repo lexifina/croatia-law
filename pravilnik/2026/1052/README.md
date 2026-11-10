@@ -9,7 +9,7 @@ Pravilnik o izmjeni Pravilnika o elektroničkoj komunikaciji · 1 versions, from
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2026-1052` (tags `pravilnik-2026-1052/<day>`; `python tools/on.py <day> pravilnik-2026-1052`).
+Act id: `pravilnik-2026-1052` (tags `pravilnik-2026-1052/<day>`; `python registry/tools/on.py <day> pravilnik-2026-1052`).
 
 ## Decisions made by hand
 

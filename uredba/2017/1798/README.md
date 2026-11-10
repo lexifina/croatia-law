@@ -27,7 +27,7 @@ Uredba o Koordinaciji za sigurnost pri odobalnom istraživanju i eksploataciji u
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2017-1798` (tags `uredba-2017-1798/<day>`; `python tools/on.py <day> uredba-2017-1798`).
+Act id: `uredba-2017-1798` (tags `uredba-2017-1798/<day>`; `python registry/tools/on.py <day> uredba-2017-1798`).
 
 ## Status
 

@@ -41,7 +41,7 @@ Statut političke stranke Za grad · 1 versions, from 2013-02-23 (latest in forc
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `statut-2013-1027` (tags `statut-2013-1027/<day>`; `python tools/on.py <day> statut-2013-1027`).
+Act id: `statut-2013-1027` (tags `statut-2013-1027/<day>`; `python registry/tools/on.py <day> statut-2013-1027`).
 
 ## Decisions made by hand
 

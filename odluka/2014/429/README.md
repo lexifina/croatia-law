@@ -26,7 +26,7 @@ Odluka o načinu provedbe supervizije kreditnih institucija i izricanju superviz
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2014-429` (tags `odluka-2014-429/<day>`; `python tools/on.py <day> odluka-2014-429`).
+Act id: `odluka-2014-429` (tags `odluka-2014-429/<day>`; `python registry/tools/on.py <day> odluka-2014-429`).
 
 ## Status
 

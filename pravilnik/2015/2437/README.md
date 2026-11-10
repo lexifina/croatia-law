@@ -11,7 +11,7 @@ Pravilnik o izmjenama i dopunama Pravilnika o promidžbi i ostalim informacijama
 | čl. 5 | [clanak-005.md](clanak-005.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `pravilnik-2015-2437` (tags `pravilnik-2015-2437/<day>`; `python tools/on.py <day> pravilnik-2015-2437`).
+Act id: `pravilnik-2015-2437` (tags `pravilnik-2015-2437/<day>`; `python registry/tools/on.py <day> pravilnik-2015-2437`).
 
 ## Decisions made by hand
 

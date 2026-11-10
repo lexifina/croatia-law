@@ -9,7 +9,7 @@ Pravilnik o izmjeni Pravilnika o kriterijima za provjeru razine tjelesne motoriÄ
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2021-1006` (tags `pravilnik-2021-1006/<day>`; `python tools/on.py <day> pravilnik-2021-1006`).
+Act id: `pravilnik-2021-1006` (tags `pravilnik-2021-1006/<day>`; `python registry/tools/on.py <day> pravilnik-2021-1006`).
 
 ## Decisions made by hand
 

@@ -9,7 +9,7 @@ Odluka o faktoru osnovne mirovine od 1. siječnja 2025. · 1 versions, from 2025
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2025-528` (tags `odluka-2025-528/<day>`; `python tools/on.py <day> odluka-2025-528`).
+Act id: `odluka-2025-528` (tags `odluka-2025-528/<day>`; `python registry/tools/on.py <day> odluka-2025-528`).
 
 ## Decisions made by hand
 

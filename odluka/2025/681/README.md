@@ -8,7 +8,7 @@ Odluka o izmjenama Odluke o određivanju Nacionalnog koordinacijskog središta z
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2025-681` (tags `odluka-2025-681/<day>`; `python tools/on.py <day> odluka-2025-681`).
+Act id: `odluka-2025-681` (tags `odluka-2025-681/<day>`; `python registry/tools/on.py <day> odluka-2025-681`).
 
 ## Decisions made by hand
 

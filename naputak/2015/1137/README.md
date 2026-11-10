@@ -8,7 +8,7 @@ Naputak o provedbi Pravilnika o uvjetima pod kojima posjednici životinja mogu o
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `naputak-2015-1137` (tags `naputak-2015-1137/<day>`; `python tools/on.py <day> naputak-2015-1137`).
+Act id: `naputak-2015-1137` (tags `naputak-2015-1137/<day>`; `python registry/tools/on.py <day> naputak-2015-1137`).
 
 ## Decisions made by hand
 

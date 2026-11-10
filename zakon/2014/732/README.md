@@ -33,7 +33,7 @@ Zakon o izmjenama i dopunama Zakona o doprinosima · 1 versions, from 2014-04-01
 | čl. 27 | [clanak-027.md](clanak-027.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2014-732` (tags `zakon-2014-732/<day>`; `python tools/on.py <day> zakon-2014-732`).
+Act id: `zakon-2014-732` (tags `zakon-2014-732/<day>`; `python registry/tools/on.py <day> zakon-2014-732`).
 
 ## Decisions made by hand
 

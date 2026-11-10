@@ -9,7 +9,7 @@ Odluka o donošenju Strategije pametne specijalizacije Republike Hrvatske za raz
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2016-853` (tags `odluka-2016-853/<day>`; `python tools/on.py <day> odluka-2016-853`).
+Act id: `odluka-2016-853` (tags `odluka-2016-853/<day>`; `python registry/tools/on.py <day> odluka-2016-853`).
 
 ## Decisions made by hand
 

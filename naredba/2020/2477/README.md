@@ -5,7 +5,7 @@ Naredba o mjerama za sprječavanje pojave i širenja influence ptica na zaražen
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `naredba-2020-2477` (tags `naredba-2020-2477/<day>`; `python tools/on.py <day> naredba-2020-2477`).
+Act id: `naredba-2020-2477` (tags `naredba-2020-2477/<day>`; `python registry/tools/on.py <day> naredba-2020-2477`).
 
 ## Decisions made by hand
 

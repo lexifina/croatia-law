@@ -9,7 +9,7 @@ Odluka o izmjeni Odluke o kriterijima za upis ulovnih ribarskih plovila u Regist
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2016-1812` (tags `odluka-2016-1812/<day>`; `python tools/on.py <day> odluka-2016-1812`).
+Act id: `odluka-2016-1812` (tags `odluka-2016-1812/<day>`; `python registry/tools/on.py <day> odluka-2016-1812`).
 
 ## Decisions made by hand
 

@@ -8,7 +8,7 @@ Odluka o raspisivanju prijevremenih izbora za Općinsko vijeće Općine Muć · 
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2018-571` (tags `odluka-2018-571/<day>`; `python tools/on.py <day> odluka-2018-571`).
+Act id: `odluka-2018-571` (tags `odluka-2018-571/<day>`; `python registry/tools/on.py <day> odluka-2018-571`).
 
 ## Decisions made by hand
 

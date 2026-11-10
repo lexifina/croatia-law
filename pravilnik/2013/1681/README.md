@@ -27,7 +27,7 @@ Pravilnik o graničnim vrijednostima emisija otpadnih voda · 1 versions, from 2
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2013-1681` (tags `pravilnik-2013-1681/<day>`; `python tools/on.py <day> pravilnik-2013-1681`).
+Act id: `pravilnik-2013-1681` (tags `pravilnik-2013-1681/<day>`; `python registry/tools/on.py <day> pravilnik-2013-1681`).
 
 ## Status
 

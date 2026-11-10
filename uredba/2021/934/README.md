@@ -9,7 +9,7 @@ Uredba o izmjeni Uredbe o jediničnim naknadama, korektivnim koeficijentima i po
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2021-934` (tags `uredba-2021-934/<day>`; `python tools/on.py <day> uredba-2021-934`).
+Act id: `uredba-2021-934` (tags `uredba-2021-934/<day>`; `python registry/tools/on.py <day> uredba-2021-934`).
 
 ## Decisions made by hand
 

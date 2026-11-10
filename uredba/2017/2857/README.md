@@ -10,7 +10,7 @@ Uredba o izmjenama Uredbe o visini trošarine na cigarete, sitno rezani duhan i 
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2017-2857` (tags `uredba-2017-2857/<day>`; `python tools/on.py <day> uredba-2017-2857`).
+Act id: `uredba-2017-2857` (tags `uredba-2017-2857/<day>`; `python registry/tools/on.py <day> uredba-2017-2857`).
 
 ## Decisions made by hand
 

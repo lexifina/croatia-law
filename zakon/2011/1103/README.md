@@ -15,7 +15,7 @@ Zakon o izmjenama i dopuni Zakona o oznakama zemljopisnog podrijetla i oznakama 
 | čl. 9 | [clanak-009.md](clanak-009.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2011-1103` (tags `zakon-2011-1103/<day>`; `python tools/on.py <day> zakon-2011-1103`).
+Act id: `zakon-2011-1103` (tags `zakon-2011-1103/<day>`; `python registry/tools/on.py <day> zakon-2011-1103`).
 
 ## Decisions made by hand
 

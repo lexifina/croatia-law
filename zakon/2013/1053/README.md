@@ -23,7 +23,7 @@ Zakon o izmjenama i dopunama Zakona o plovidbi i lukama unutarnjih voda (NN br. 
 | čl. 17 | [clanak-017.md](clanak-017.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2013-1053` (tags `zakon-2013-1053/<day>`; `python tools/on.py <day> zakon-2013-1053`).
+Act id: `zakon-2013-1053` (tags `zakon-2013-1053/<day>`; `python registry/tools/on.py <day> zakon-2013-1053`).
 
 ## Decisions made by hand
 

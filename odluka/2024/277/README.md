@@ -8,7 +8,7 @@ Odluka o visini dnevnice za službeno putovanje u inozemstvo za korisnike koji s
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2024-277` (tags `odluka-2024-277/<day>`; `python tools/on.py <day> odluka-2024-277`).
+Act id: `odluka-2024-277` (tags `odluka-2024-277/<day>`; `python registry/tools/on.py <day> odluka-2024-277`).
 
 ## Decisions made by hand
 

@@ -34,7 +34,7 @@ Zakon o izmjenama i dopunama Zakona o biogorivima za prijevoz · 1 versions, fro
 | čl. 28 | [clanak-028.md](clanak-028.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2018-1820` (tags `zakon-2018-1820/<day>`; `python tools/on.py <day> zakon-2018-1820`).
+Act id: `zakon-2018-1820` (tags `zakon-2018-1820/<day>`; `python registry/tools/on.py <day> zakon-2018-1820`).
 
 ## Decisions made by hand
 

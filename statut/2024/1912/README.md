@@ -10,7 +10,7 @@ Izmjene Statuta turističke zajednice Grada Zagreba · 1 versions, from 2024-10-
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `statut-2024-1912` (tags `statut-2024-1912/<day>`; `python tools/on.py <day> statut-2024-1912`).
+Act id: `statut-2024-1912` (tags `statut-2024-1912/<day>`; `python registry/tools/on.py <day> statut-2024-1912`).
 
 ## Decisions made by hand
 

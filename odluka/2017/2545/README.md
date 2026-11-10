@@ -8,7 +8,7 @@ Odluka o davanju naknadne suglasnosti na Statut Agencije za osiguranje radnički
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2017-2545` (tags `odluka-2017-2545/<day>`; `python tools/on.py <day> odluka-2017-2545`).
+Act id: `odluka-2017-2545` (tags `odluka-2017-2545/<day>`; `python registry/tools/on.py <day> odluka-2017-2545`).
 
 ## Decisions made by hand
 

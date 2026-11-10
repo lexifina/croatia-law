@@ -16,7 +16,7 @@ Pravilnik o funkcionalnim kategorijama za određivanje mreže biciklističkih ru
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2013-2057` (tags `pravilnik-2013-2057/<day>`; `python tools/on.py <day> pravilnik-2013-2057`).
+Act id: `pravilnik-2013-2057` (tags `pravilnik-2013-2057/<day>`; `python registry/tools/on.py <day> pravilnik-2013-2057`).
 
 ## Status
 

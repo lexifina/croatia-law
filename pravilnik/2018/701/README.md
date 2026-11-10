@@ -5,7 +5,7 @@ Pravilnik o uvjetima za određivanje minimalnog zahtjeva za regulatorni kapital 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `pravilnik-2018-701` (tags `pravilnik-2018-701/<day>`; `python tools/on.py <day> pravilnik-2018-701`).
+Act id: `pravilnik-2018-701` (tags `pravilnik-2018-701/<day>`; `python registry/tools/on.py <day> pravilnik-2018-701`).
 
 ## Decisions made by hand
 

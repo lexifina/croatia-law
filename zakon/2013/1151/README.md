@@ -49,7 +49,7 @@ Zakon o izmjenama i dopunama Zakona o veterinarsko-medicinskim proizvodima · 1 
 | čl. 43 | [clanak-043.md](clanak-043.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2013-1151` (tags `zakon-2013-1151/<day>`; `python tools/on.py <day> zakon-2013-1151`).
+Act id: `zakon-2013-1151` (tags `zakon-2013-1151/<day>`; `python registry/tools/on.py <day> zakon-2013-1151`).
 
 ## Decisions made by hand
 

@@ -15,7 +15,7 @@ Odluka o izmjenama i dopunama Odluke o načinu i postupku vođenja razdvojenog r
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2016-1829` (tags `odluka-2016-1829/<day>`; `python tools/on.py <day> odluka-2016-1829`).
+Act id: `odluka-2016-1829` (tags `odluka-2016-1829/<day>`; `python registry/tools/on.py <day> odluka-2016-1829`).
 
 ## Decisions made by hand
 

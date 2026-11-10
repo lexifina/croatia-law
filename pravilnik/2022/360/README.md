@@ -43,15 +43,11 @@ Pravilnik o stavljanju na tržište sjemena žitarica · 1 versions, from 2022-0
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2022-360` (tags `pravilnik-2022-360/<day>`; `python tools/on.py <day> pravilnik-2022-360`).
+Act id: `pravilnik-2022-360` (tags `pravilnik-2022-360/<day>`; `python registry/tools/on.py <day> pravilnik-2022-360`).
 
 ## Status
 
-**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
-
-Amended or repealed by:
-
-- [Pravilnik o izmjenama i dopunama Pravilnika o stavljanju na tržište sjemena žitarica (NN 106/2022)](https://narodne-novine.nn.hr/eli/sluzbeni/2022/106/1554)
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
 
 Cited by:
 

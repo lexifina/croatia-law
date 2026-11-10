@@ -11,7 +11,7 @@ Odluka o utvrđivanju Osnovne liste ortopedskih i drugih pomagala Hrvatskog zavo
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2021-2128` (tags `odluka-2021-2128/<day>`; `python tools/on.py <day> odluka-2021-2128`).
+Act id: `odluka-2021-2128` (tags `odluka-2021-2128/<day>`; `python registry/tools/on.py <day> odluka-2021-2128`).
 
 ## Status
 

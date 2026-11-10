@@ -9,7 +9,7 @@ Pravilnik o dopuni Pravilnika o oznakama zdravstvene ispravnosti i identifikacij
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2013-1685` (tags `pravilnik-2013-1685/<day>`; `python tools/on.py <day> pravilnik-2013-1685`).
+Act id: `pravilnik-2013-1685` (tags `pravilnik-2013-1685/<day>`; `python registry/tools/on.py <day> pravilnik-2013-1685`).
 
 ## Decisions made by hand
 

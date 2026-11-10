@@ -9,7 +9,7 @@ Pravilnik o izmjeni i dopuni Pravilnika o obliku, sadržaju i načinu vođenja R
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2020-519` (tags `pravilnik-2020-519/<day>`; `python tools/on.py <day> pravilnik-2020-519`).
+Act id: `pravilnik-2020-519` (tags `pravilnik-2020-519/<day>`; `python registry/tools/on.py <day> pravilnik-2020-519`).
 
 ## Decisions made by hand
 

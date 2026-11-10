@@ -8,7 +8,7 @@ Odluka o izdavanju i prodaji prigodnoga srebrnoga kovanog novca »25. OBLJETNICA
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2020-1511` (tags `odluka-2020-1511/<day>`; `python tools/on.py <day> odluka-2020-1511`).
+Act id: `odluka-2020-1511` (tags `odluka-2020-1511/<day>`; `python registry/tools/on.py <day> odluka-2020-1511`).
 
 ## Decisions made by hand
 

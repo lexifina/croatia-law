@@ -16,7 +16,7 @@ Zakon o izmjenama i dopunama Zakona o usporedivosti naknada, prebacivanju račun
 | čl. 10 | [clanak-010.md](clanak-010.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2025-1476` (tags `zakon-2025-1476/<day>`; `python tools/on.py <day> zakon-2025-1476`).
+Act id: `zakon-2025-1476` (tags `zakon-2025-1476/<day>`; `python registry/tools/on.py <day> zakon-2025-1476`).
 
 ## Decisions made by hand
 

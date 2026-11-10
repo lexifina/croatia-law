@@ -8,7 +8,7 @@ Odluka o izmjenama Odluke o mjerama prilikom sklapanja braka i životnog partner
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2020-1266` (tags `odluka-2020-1266/<day>`; `python tools/on.py <day> odluka-2020-1266`).
+Act id: `odluka-2020-1266` (tags `odluka-2020-1266/<day>`; `python registry/tools/on.py <day> odluka-2020-1266`).
 
 ## Decisions made by hand
 

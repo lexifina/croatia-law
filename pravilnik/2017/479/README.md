@@ -19,7 +19,7 @@ Pravilnik o načinu obračuna i tarifi naknada · 1 versions, from 2017-03-16 (l
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2017-479` (tags `pravilnik-2017-479/<day>`; `python tools/on.py <day> pravilnik-2017-479`).
+Act id: `pravilnik-2017-479` (tags `pravilnik-2017-479/<day>`; `python registry/tools/on.py <day> pravilnik-2017-479`).
 
 ## Decisions made by hand
 

@@ -8,7 +8,7 @@ Odluka o izmjeni i dopuni Odluke o nužnim mjerama ograničavanja društvenih ok
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2020-1195` (tags `odluka-2020-1195/<day>`; `python tools/on.py <day> odluka-2020-1195`).
+Act id: `odluka-2020-1195` (tags `odluka-2020-1195/<day>`; `python registry/tools/on.py <day> odluka-2020-1195`).
 
 ## Decisions made by hand
 

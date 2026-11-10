@@ -14,7 +14,7 @@ Pravilnik o jednokratnoj novčanoj pomoći i naknadi putnih i selidbenih troško
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2019-590` (tags `pravilnik-2019-590/<day>`; `python tools/on.py <day> pravilnik-2019-590`).
+Act id: `pravilnik-2019-590` (tags `pravilnik-2019-590/<day>`; `python registry/tools/on.py <day> pravilnik-2019-590`).
 
 ## Decisions made by hand
 

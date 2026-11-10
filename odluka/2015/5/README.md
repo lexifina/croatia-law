@@ -9,7 +9,7 @@ Odluka o izdavanju dozvole za istraživanje i eksploataciju ugljikovodika na Jad
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2015-5` (tags `odluka-2015-5/<day>`; `python tools/on.py <day> odluka-2015-5`).
+Act id: `odluka-2015-5` (tags `odluka-2015-5/<day>`; `python registry/tools/on.py <day> odluka-2015-5`).
 
 ## Decisions made by hand
 

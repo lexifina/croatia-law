@@ -8,7 +8,7 @@ Odluka o isplati jednokratnoga novčanog primanja korisnicima mirovine i naciona
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2024-2303` (tags `odluka-2024-2303/<day>`; `python tools/on.py <day> odluka-2024-2303`).
+Act id: `odluka-2024-2303` (tags `odluka-2024-2303/<day>`; `python registry/tools/on.py <day> odluka-2024-2303`).
 
 ## Decisions made by hand
 

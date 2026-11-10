@@ -22,7 +22,7 @@ Pravilnik o državnim potporama sektoru poljoprivrede i ruralnom razvoju · 1 ve
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2021-145` (tags `pravilnik-2021-145/<day>`; `python tools/on.py <day> pravilnik-2021-145`).
+Act id: `pravilnik-2021-145` (tags `pravilnik-2021-145/<day>`; `python registry/tools/on.py <day> pravilnik-2021-145`).
 
 ## Decisions made by hand
 

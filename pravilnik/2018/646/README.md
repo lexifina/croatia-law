@@ -83,7 +83,7 @@ Pravilnik o letenju zrakoplova · 1 versions, from 2018-04-12 (latest in force: 
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2018-646` (tags `pravilnik-2018-646/<day>`; `python tools/on.py <day> pravilnik-2018-646`).
+Act id: `pravilnik-2018-646` (tags `pravilnik-2018-646/<day>`; `python registry/tools/on.py <day> pravilnik-2018-646`).
 
 ## Status
 

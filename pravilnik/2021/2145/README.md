@@ -11,7 +11,7 @@ Pravilnik o izmjenama i dopuni Pravilnika o ribolovnim mogućnostima u gospodars
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2021-2145` (tags `pravilnik-2021-2145/<day>`; `python tools/on.py <day> pravilnik-2021-2145`).
+Act id: `pravilnik-2021-2145` (tags `pravilnik-2021-2145/<day>`; `python registry/tools/on.py <day> pravilnik-2021-2145`).
 
 ## Decisions made by hand
 

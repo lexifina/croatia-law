@@ -9,7 +9,7 @@ Odluka o prestanku važenja Statističkih standarda za PRODCOM istraživanje o i
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2017-582` (tags `odluka-2017-582/<day>`; `python tools/on.py <day> odluka-2017-582`).
+Act id: `odluka-2017-582` (tags `odluka-2017-582/<day>`; `python registry/tools/on.py <day> odluka-2017-582`).
 
 ## Decisions made by hand
 

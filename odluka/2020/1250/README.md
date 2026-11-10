@@ -8,7 +8,7 @@ Odluka o izmjenama Odluke o posebnom načinu rada tržnica za vrijeme trajanja p
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2020-1250` (tags `odluka-2020-1250/<day>`; `python tools/on.py <day> odluka-2020-1250`).
+Act id: `odluka-2020-1250` (tags `odluka-2020-1250/<day>`; `python registry/tools/on.py <day> odluka-2020-1250`).
 
 ## Decisions made by hand
 

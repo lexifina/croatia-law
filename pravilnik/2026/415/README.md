@@ -17,7 +17,7 @@ Pravilnik o provedbi Programa potpore za provedbu proljetne sjetve/sadnje u 2026
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2026-415` (tags `pravilnik-2026-415/<day>`; `python tools/on.py <day> pravilnik-2026-415`).
+Act id: `pravilnik-2026-415` (tags `pravilnik-2026-415/<day>`; `python registry/tools/on.py <day> pravilnik-2026-415`).
 
 ## Decisions made by hand
 

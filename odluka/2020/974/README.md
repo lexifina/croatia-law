@@ -8,7 +8,7 @@ Odluka o uvođenju izvanredne teretne linije Zadar - Ancona i obratno u međunar
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2020-974` (tags `odluka-2020-974/<day>`; `python tools/on.py <day> odluka-2020-974`).
+Act id: `odluka-2020-974` (tags `odluka-2020-974/<day>`; `python registry/tools/on.py <day> odluka-2020-974`).
 
 ## Status
 

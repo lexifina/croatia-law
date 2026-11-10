@@ -12,7 +12,7 @@ Uredba o izmjenama Uredbe o nazivima radnih mjesta i koeficijentima složenosti 
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2021-313` (tags `uredba-2021-313/<day>`; `python tools/on.py <day> uredba-2021-313`).
+Act id: `uredba-2021-313` (tags `uredba-2021-313/<day>`; `python registry/tools/on.py <day> uredba-2021-313`).
 
 ## Decisions made by hand
 

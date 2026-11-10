@@ -5,7 +5,7 @@ Pravilnik o naftno-rudarskim projektima i postupku provjere naftno-rudarskih pro
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `pravilnik-2018-1846` (tags `pravilnik-2018-1846/<day>`; `python tools/on.py <day> pravilnik-2018-1846`).
+Act id: `pravilnik-2018-1846` (tags `pravilnik-2018-1846/<day>`; `python registry/tools/on.py <day> pravilnik-2018-1846`).
 
 ## Decisions made by hand
 

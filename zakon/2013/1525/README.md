@@ -44,7 +44,7 @@ Zakon o izmjenama i dopunama Zakona o državnim maticama · 1 versions, from 201
 | čl. 38 | [clanak-038.md](clanak-038.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2013-1525` (tags `zakon-2013-1525/<day>`; `python tools/on.py <day> zakon-2013-1525`).
+Act id: `zakon-2013-1525` (tags `zakon-2013-1525/<day>`; `python registry/tools/on.py <day> zakon-2013-1525`).
 
 ## Decisions made by hand
 

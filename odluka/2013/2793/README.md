@@ -17,7 +17,7 @@ Odluka o izmjeni i dopuni Odluke o osnovama za sklapanje ugovora o provođenju z
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2013-2793` (tags `odluka-2013-2793/<day>`; `python tools/on.py <day> odluka-2013-2793`).
+Act id: `odluka-2013-2793` (tags `odluka-2013-2793/<day>`; `python registry/tools/on.py <day> odluka-2013-2793`).
 
 ## Status
 

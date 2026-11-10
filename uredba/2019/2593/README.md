@@ -10,7 +10,7 @@ Uredba o izmjenama Uredbe o određivanju granice pomorskog dobra na dijelu k.o. 
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2019-2593` (tags `uredba-2019-2593/<day>`; `python tools/on.py <day> uredba-2019-2593`).
+Act id: `uredba-2019-2593` (tags `uredba-2019-2593/<day>`; `python registry/tools/on.py <day> uredba-2019-2593`).
 
 ## Decisions made by hand
 

@@ -12,7 +12,7 @@ Pravilnik o obrascu knjižice o specijalističkom usavršavanju doktora medicine
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2011-2450` (tags `pravilnik-2011-2450/<day>`; `python tools/on.py <day> pravilnik-2011-2450`).
+Act id: `pravilnik-2011-2450` (tags `pravilnik-2011-2450/<day>`; `python registry/tools/on.py <day> pravilnik-2011-2450`).
 
 ## Decisions made by hand
 

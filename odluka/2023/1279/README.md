@@ -8,7 +8,7 @@ Odluka o iznosu pomoći za pojedinu općinu, grad i županiju kojoj su zbog pada
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2023-1279` (tags `odluka-2023-1279/<day>`; `python tools/on.py <day> odluka-2023-1279`).
+Act id: `odluka-2023-1279` (tags `odluka-2023-1279/<day>`; `python registry/tools/on.py <day> odluka-2023-1279`).
 
 ## Decisions made by hand
 

@@ -10,7 +10,7 @@ Pravilnik o izmjeni i dopuni Pravilnika o postupku i ovlastima u ostvarivanju pr
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2017-2063` (tags `pravilnik-2017-2063/<day>`; `python tools/on.py <day> pravilnik-2017-2063`).
+Act id: `pravilnik-2017-2063` (tags `pravilnik-2017-2063/<day>`; `python registry/tools/on.py <day> pravilnik-2017-2063`).
 
 ## Decisions made by hand
 

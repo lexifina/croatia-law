@@ -9,7 +9,7 @@ Naredba o prestanku važenja Naredbe o mjerama za sprječavanje pojave i širenj
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `naredba-2019-2571` (tags `naredba-2019-2571/<day>`; `python tools/on.py <day> naredba-2019-2571`).
+Act id: `naredba-2019-2571` (tags `naredba-2019-2571/<day>`; `python registry/tools/on.py <day> naredba-2019-2571`).
 
 ## Decisions made by hand
 

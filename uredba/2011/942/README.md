@@ -22,7 +22,7 @@ Uredba o novčanoj naknadi za koncesiju za eksploataciju mineralnih sirovina · 
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2011-942` (tags `uredba-2011-942/<day>`; `python tools/on.py <day> uredba-2011-942`).
+Act id: `uredba-2011-942` (tags `uredba-2011-942/<day>`; `python registry/tools/on.py <day> uredba-2011-942`).
 
 ## Status
 

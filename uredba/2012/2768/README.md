@@ -27,7 +27,7 @@ Uredba o snimanju iz zraka · 1 versions, from 2012-12-06 (latest in force: 2012
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2012-2768` (tags `uredba-2012-2768/<day>`; `python tools/on.py <day> uredba-2012-2768`).
+Act id: `uredba-2012-2768` (tags `uredba-2012-2768/<day>`; `python registry/tools/on.py <day> uredba-2012-2768`).
 
 ## Status
 

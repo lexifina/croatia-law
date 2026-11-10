@@ -14,7 +14,7 @@ Odluka o obvezi dostavljanja podataka o statistici platnog prometa za potrebe Eu
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2022-2310` (tags `odluka-2022-2310/<day>`; `python tools/on.py <day> odluka-2022-2310`).
+Act id: `odluka-2022-2310` (tags `odluka-2022-2310/<day>`; `python registry/tools/on.py <day> odluka-2022-2310`).
 
 ## Decisions made by hand
 

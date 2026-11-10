@@ -8,7 +8,7 @@ Odluka o produženju roka za provedbu Popisa stanovništva, kućanstava i stanov
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2021-2009` (tags `odluka-2021-2009/<day>`; `python tools/on.py <day> odluka-2021-2009`).
+Act id: `odluka-2021-2009` (tags `odluka-2021-2009/<day>`; `python registry/tools/on.py <day> odluka-2021-2009`).
 
 ## Decisions made by hand
 

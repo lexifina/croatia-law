@@ -8,7 +8,7 @@ Odluka o prestanku važenja Odluke o nužnim epidemiološkim mjerama kojima se o
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2022-539` (tags `odluka-2022-539/<day>`; `python tools/on.py <day> odluka-2022-539`).
+Act id: `odluka-2022-539` (tags `odluka-2022-539/<day>`; `python registry/tools/on.py <day> odluka-2022-539`).
 
 ## Decisions made by hand
 

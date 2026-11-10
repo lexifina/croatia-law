@@ -20,7 +20,7 @@ Uredba o graniÄnim kontrolnim postajama, inspekcijskim centrima, kontrolnim toÄ
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2022-727` (tags `uredba-2022-727/<day>`; `python tools/on.py <day> uredba-2022-727`).
+Act id: `uredba-2022-727` (tags `uredba-2022-727/<day>`; `python registry/tools/on.py <day> uredba-2022-727`).
 
 ## Decisions made by hand
 

@@ -16,7 +16,7 @@ Pravilnik o izmjenama i dopuni Pravilnika o polaganju stručnog ispita, obuci i 
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2019-23` (tags `pravilnik-2019-23/<day>`; `python tools/on.py <day> pravilnik-2019-23`).
+Act id: `pravilnik-2019-23` (tags `pravilnik-2019-23/<day>`; `python registry/tools/on.py <day> pravilnik-2019-23`).
 
 ## Decisions made by hand
 

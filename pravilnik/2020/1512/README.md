@@ -8,7 +8,7 @@ Pravilnik o izmjenama i dopunama Pravilnika o promidžbi, informativnom prospekt
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2020-1512` (tags `pravilnik-2020-1512/<day>`; `python tools/on.py <day> pravilnik-2020-1512`).
+Act id: `pravilnik-2020-1512` (tags `pravilnik-2020-1512/<day>`; `python registry/tools/on.py <day> pravilnik-2020-1512`).
 
 ## Decisions made by hand
 

@@ -5,7 +5,7 @@ Pravilnik o izobrazbi u području javne nabave · 2 versions, from 2017-07-15 (l
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `pravilnik-2017-1533` (tags `pravilnik-2017-1533/<day>`; `python tools/on.py <day> pravilnik-2017-1533`).
+Act id: `pravilnik-2017-1533` (tags `pravilnik-2017-1533/<day>`; `python registry/tools/on.py <day> pravilnik-2017-1533`).
 
 ## Decisions made by hand
 

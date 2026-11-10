@@ -5,7 +5,7 @@ Pravilnik o elektroničkoj komunikaciji · 2 versions, from 2020-01-23 (latest i
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `pravilnik-2020-60` (tags `pravilnik-2020-60/<day>`; `python tools/on.py <day> pravilnik-2020-60`).
+Act id: `pravilnik-2020-60` (tags `pravilnik-2020-60/<day>`; `python registry/tools/on.py <day> pravilnik-2020-60`).
 
 ## Decisions made by hand
 

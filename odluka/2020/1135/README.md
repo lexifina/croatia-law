@@ -8,7 +8,7 @@ Odluka o stavljanju izvan snage Odluke o zabrani napuštanja mjesta prebivališt
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2020-1135` (tags `odluka-2020-1135/<day>`; `python tools/on.py <day> odluka-2020-1135`).
+Act id: `odluka-2020-1135` (tags `odluka-2020-1135/<day>`; `python registry/tools/on.py <day> odluka-2020-1135`).
 
 ## Decisions made by hand
 

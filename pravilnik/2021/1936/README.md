@@ -13,7 +13,7 @@ Pravilnik o izmjenama i dopunama Pravilnika o provedbi Programa potpore za proiz
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2021-1936` (tags `pravilnik-2021-1936/<day>`; `python tools/on.py <day> pravilnik-2021-1936`).
+Act id: `pravilnik-2021-1936` (tags `pravilnik-2021-1936/<day>`; `python registry/tools/on.py <day> pravilnik-2021-1936`).
 
 ## Decisions made by hand
 

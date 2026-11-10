@@ -9,7 +9,7 @@ Pravilnik o izmjeni Pravilnika o dodjeljivanju ostavinskih predmeta u rad javnim
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2022-530` (tags `pravilnik-2022-530/<day>`; `python tools/on.py <day> pravilnik-2022-530`).
+Act id: `pravilnik-2022-530` (tags `pravilnik-2022-530/<day>`; `python registry/tools/on.py <day> pravilnik-2022-530`).
 
 ## Decisions made by hand
 

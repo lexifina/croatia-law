@@ -8,7 +8,7 @@ Odluka o katastarskoj izmjeri na području Općine Donji Lapac za dijelove katas
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2025-1597` (tags `odluka-2025-1597/<day>`; `python tools/on.py <day> odluka-2025-1597`).
+Act id: `odluka-2025-1597` (tags `odluka-2025-1597/<day>`; `python registry/tools/on.py <day> odluka-2025-1597`).
 
 ## Decisions made by hand
 

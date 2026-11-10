@@ -8,7 +8,7 @@ Odluka o donošenju Akcijskog plana za razdoblje od 2025. do 2027. godine uz Str
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2025-1115` (tags `odluka-2025-1115/<day>`; `python tools/on.py <day> odluka-2025-1115`).
+Act id: `odluka-2025-1115` (tags `odluka-2025-1115/<day>`; `python registry/tools/on.py <day> odluka-2025-1115`).
 
 ## Decisions made by hand
 

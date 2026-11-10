@@ -16,7 +16,7 @@ Pravilnik o izmjenama i dopunama Pravilnika o obavljanju poslova, uvjetima i naÄ
 | Äl. 10 | [clanak-010.md](clanak-010.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `pravilnik-2017-905` (tags `pravilnik-2017-905/<day>`; `python tools/on.py <day> pravilnik-2017-905`).
+Act id: `pravilnik-2017-905` (tags `pravilnik-2017-905/<day>`; `python registry/tools/on.py <day> pravilnik-2017-905`).
 
 ## Decisions made by hand
 

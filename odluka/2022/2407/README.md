@@ -10,7 +10,7 @@ Odluka o izmjeni i dopuni Odluke o utvrđivanju Osnovne liste lijekova Hrvatskog
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2022-2407` (tags `odluka-2022-2407/<day>`; `python tools/on.py <day> odluka-2022-2407`).
+Act id: `odluka-2022-2407` (tags `odluka-2022-2407/<day>`; `python registry/tools/on.py <day> odluka-2022-2407`).
 
 ## Decisions made by hand
 

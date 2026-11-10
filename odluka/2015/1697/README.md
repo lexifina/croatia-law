@@ -9,7 +9,7 @@ Odluka o dopunama Odluke o utvrđivanju Popisa posebno skupih lijekova utvrđeni
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2015-1697` (tags `odluka-2015-1697/<day>`; `python tools/on.py <day> odluka-2015-1697`).
+Act id: `odluka-2015-1697` (tags `odluka-2015-1697/<day>`; `python registry/tools/on.py <day> odluka-2015-1697`).
 
 ## Decisions made by hand
 

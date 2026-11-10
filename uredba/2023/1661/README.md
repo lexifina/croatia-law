@@ -12,7 +12,7 @@ Uredba o izmjenama Uredbe o ekološkoj mreži i nadležnostima javnih ustanova z
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2023-1661` (tags `uredba-2023-1661/<day>`; `python tools/on.py <day> uredba-2023-1661`).
+Act id: `uredba-2023-1661` (tags `uredba-2023-1661/<day>`; `python registry/tools/on.py <day> uredba-2023-1661`).
 
 ## Decisions made by hand
 

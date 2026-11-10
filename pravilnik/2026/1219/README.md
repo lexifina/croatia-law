@@ -13,7 +13,7 @@ Pravilnik o izmjenama i dopunama Pravilnika o radijskoj opremi · 1 versions, fr
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2026-1219` (tags `pravilnik-2026-1219/<day>`; `python tools/on.py <day> pravilnik-2026-1219`).
+Act id: `pravilnik-2026-1219` (tags `pravilnik-2026-1219/<day>`; `python registry/tools/on.py <day> pravilnik-2026-1219`).
 
 ## Decisions made by hand
 

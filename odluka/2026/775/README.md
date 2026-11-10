@@ -8,7 +8,7 @@ Odluka o donošenju Akcijskog plana za sprječavanje udomaćivanja i širenja š
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2026-775` (tags `odluka-2026-775/<day>`; `python tools/on.py <day> odluka-2026-775`).
+Act id: `odluka-2026-775` (tags `odluka-2026-775/<day>`; `python registry/tools/on.py <day> odluka-2026-775`).
 
 ## Decisions made by hand
 

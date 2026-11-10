@@ -9,7 +9,7 @@ Odluka o usvajanju Programa Zajmovi za socijalne usluge u zajednici · 1 version
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2025-1674` (tags `odluka-2025-1674/<day>`; `python tools/on.py <day> odluka-2025-1674`).
+Act id: `odluka-2025-1674` (tags `odluka-2025-1674/<day>`; `python registry/tools/on.py <day> odluka-2025-1674`).
 
 ## Decisions made by hand
 

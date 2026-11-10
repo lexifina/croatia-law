@@ -8,7 +8,7 @@ Odluka o izboru predsjednice, potpredsjednika i članova Odbora za zaštitu okol
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2024-1174` (tags `odluka-2024-1174/<day>`; `python tools/on.py <day> odluka-2024-1174`).
+Act id: `odluka-2024-1174` (tags `odluka-2024-1174/<day>`; `python registry/tools/on.py <day> odluka-2024-1174`).
 
 ## Decisions made by hand
 

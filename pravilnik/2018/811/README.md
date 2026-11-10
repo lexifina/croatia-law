@@ -25,7 +25,7 @@ Pravilnik o izmjenama i dopunama Pravilnika o provedbi izravne potpore poljopriv
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2018-811` (tags `pravilnik-2018-811/<day>`; `python tools/on.py <day> pravilnik-2018-811`).
+Act id: `pravilnik-2018-811` (tags `pravilnik-2018-811/<day>`; `python registry/tools/on.py <day> pravilnik-2018-811`).
 
 ## Decisions made by hand
 

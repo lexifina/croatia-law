@@ -95,7 +95,7 @@ Zakon o izmjenama i dopunama Zakona o javnoj nabavi · 1 versions, from 2026-05-
 | čl. 89 | [clanak-089.md](clanak-089.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2026-584` (tags `zakon-2026-584/<day>`; `python tools/on.py <day> zakon-2026-584`).
+Act id: `zakon-2026-584` (tags `zakon-2026-584/<day>`; `python registry/tools/on.py <day> zakon-2026-584`).
 
 ## Decisions made by hand
 

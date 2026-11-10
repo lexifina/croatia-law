@@ -8,7 +8,7 @@ Odluka o ispravku Odluke o dodjeli priznanja klasa: 061-01/23-01/06, urbroj: 71-
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2023-1667` (tags `odluka-2023-1667/<day>`; `python tools/on.py <day> odluka-2023-1667`).
+Act id: `odluka-2023-1667` (tags `odluka-2023-1667/<day>`; `python registry/tools/on.py <day> odluka-2023-1667`).
 
 ## Decisions made by hand
 

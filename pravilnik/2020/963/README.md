@@ -10,7 +10,7 @@ Pravilnik o izmjenama i dopuni Pravilnika o postupku vaganja proizvoda ribarstva
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2020-963` (tags `pravilnik-2020-963/<day>`; `python tools/on.py <day> pravilnik-2020-963`).
+Act id: `pravilnik-2020-963` (tags `pravilnik-2020-963/<day>`; `python registry/tools/on.py <day> pravilnik-2020-963`).
 
 ## Decisions made by hand
 

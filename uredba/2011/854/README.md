@@ -14,7 +14,7 @@ Uredba o izmjenama i dopunama Uredbe o uvjetima za obavljanje trgovine na veliko
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2011-854` (tags `uredba-2011-854/<day>`; `python tools/on.py <day> uredba-2011-854`).
+Act id: `uredba-2011-854` (tags `uredba-2011-854/<day>`; `python registry/tools/on.py <day> uredba-2011-854`).
 
 ## Decisions made by hand
 

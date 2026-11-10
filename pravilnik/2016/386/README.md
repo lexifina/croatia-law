@@ -8,7 +8,7 @@ Pravilnik o izmjenama i dopunama Pravilnika o prihvatljivosti izdataka u okviru 
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2016-386` (tags `pravilnik-2016-386/<day>`; `python tools/on.py <day> pravilnik-2016-386`).
+Act id: `pravilnik-2016-386` (tags `pravilnik-2016-386/<day>`; `python registry/tools/on.py <day> pravilnik-2016-386`).
 
 ## Decisions made by hand
 

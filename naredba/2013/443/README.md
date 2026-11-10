@@ -8,7 +8,7 @@ Naredba o mjerama za sprječavanje pojave i širenja klasične svinjske kuge · 
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `naredba-2013-443` (tags `naredba-2013-443/<day>`; `python tools/on.py <day> naredba-2013-443`).
+Act id: `naredba-2013-443` (tags `naredba-2013-443/<day>`; `python registry/tools/on.py <day> naredba-2013-443`).
 
 ## Status
 

@@ -10,7 +10,7 @@ Odluka o redu prvenstva korištenja voda iz izvorišta Gradole · 1 versions, fr
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2017-1976` (tags `odluka-2017-1976/<day>`; `python tools/on.py <day> odluka-2017-1976`).
+Act id: `odluka-2017-1976` (tags `odluka-2017-1976/<day>`; `python registry/tools/on.py <day> odluka-2017-1976`).
 
 ## Decisions made by hand
 

@@ -16,7 +16,7 @@ Pravilnik o voćnim sokovima i njima sličnim proizvodima namijenjenim za konzum
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2025-1898` (tags `pravilnik-2025-1898/<day>`; `python tools/on.py <day> pravilnik-2025-1898`).
+Act id: `pravilnik-2025-1898` (tags `pravilnik-2025-1898/<day>`; `python registry/tools/on.py <day> pravilnik-2025-1898`).
 
 ## Decisions made by hand
 

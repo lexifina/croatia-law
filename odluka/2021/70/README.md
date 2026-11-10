@@ -13,7 +13,7 @@ Odluka o naknadi za razvoj na području Međimurske županije · 1 versions, fro
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2021-70` (tags `odluka-2021-70/<day>`; `python tools/on.py <day> odluka-2021-70`).
+Act id: `odluka-2021-70` (tags `odluka-2021-70/<day>`; `python registry/tools/on.py <day> odluka-2021-70`).
 
 ## Status
 

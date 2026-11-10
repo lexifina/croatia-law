@@ -5,7 +5,7 @@ Naredba o mjerama kontrole i sprječavanja kuge malih preživača u Republici Hr
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `naredba-2025-2366` (tags `naredba-2025-2366/<day>`; `python tools/on.py <day> naredba-2025-2366`).
+Act id: `naredba-2025-2366` (tags `naredba-2025-2366/<day>`; `python registry/tools/on.py <day> naredba-2025-2366`).
 
 ## Decisions made by hand
 

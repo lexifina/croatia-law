@@ -15,7 +15,7 @@ Pravilnik o troškovima koji se mogu plaćati iz imovine obveznog mirovinskog fo
 | čl. 9 | [clanak-009.md](clanak-009.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `pravilnik-2024-1813` (tags `pravilnik-2024-1813/<day>`; `python tools/on.py <day> pravilnik-2024-1813`).
+Act id: `pravilnik-2024-1813` (tags `pravilnik-2024-1813/<day>`; `python registry/tools/on.py <day> pravilnik-2024-1813`).
 
 ## Status
 

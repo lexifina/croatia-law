@@ -91,7 +91,7 @@ Zakon o izmjenama i dopunama Zakona o poljoprivredi · 1 versions, from 2021-05-
 | čl. 85 | [clanak-085.md](clanak-085.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2021-1054` (tags `zakon-2021-1054/<day>`; `python tools/on.py <day> zakon-2021-1054`).
+Act id: `zakon-2021-1054` (tags `zakon-2021-1054/<day>`; `python registry/tools/on.py <day> zakon-2021-1054`).
 
 ## Decisions made by hand
 

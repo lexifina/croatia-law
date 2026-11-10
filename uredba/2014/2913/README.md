@@ -17,7 +17,7 @@ Uredba o izmjenama i dopunama Uredbe o načinu trgovanja emisijskim jedinicama s
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2014-2913` (tags `uredba-2014-2913/<day>`; `python tools/on.py <day> uredba-2014-2913`).
+Act id: `uredba-2014-2913` (tags `uredba-2014-2913/<day>`; `python registry/tools/on.py <day> uredba-2014-2913`).
 
 ## Decisions made by hand
 

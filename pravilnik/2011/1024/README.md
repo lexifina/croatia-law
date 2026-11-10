@@ -12,7 +12,7 @@ Pravilnik o utvrđivanju visine iznosa radi osiguranja javnih komisionara od odg
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2011-1024` (tags `pravilnik-2011-1024/<day>`; `python tools/on.py <day> pravilnik-2011-1024`).
+Act id: `pravilnik-2011-1024` (tags `pravilnik-2011-1024/<day>`; `python registry/tools/on.py <day> pravilnik-2011-1024`).
 
 ## Status
 

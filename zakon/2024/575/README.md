@@ -19,7 +19,7 @@ Zakon o izmjenama i dopunama Zakona o knji탑nicama i knji탑ni훾noj djelatnosti �
 | 훾l. 13 | [clanak-013.md](clanak-013.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2024-575` (tags `zakon-2024-575/<day>`; `python tools/on.py <day> zakon-2024-575`).
+Act id: `zakon-2024-575` (tags `zakon-2024-575/<day>`; `python registry/tools/on.py <day> zakon-2024-575`).
 
 ## Decisions made by hand
 

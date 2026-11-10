@@ -14,7 +14,7 @@ Uredba o provedbi Akta o kibernetičkoj solidarnosti · 1 versions, from 2026-07
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2026-926` (tags `uredba-2026-926/<day>`; `python tools/on.py <day> uredba-2026-926`).
+Act id: `uredba-2026-926` (tags `uredba-2026-926/<day>`; `python registry/tools/on.py <day> uredba-2026-926`).
 
 ## Decisions made by hand
 

@@ -19,7 +19,7 @@ Odluka o naknadi za razvoj trgovačkog društva Urednost d.o.o., Čepin · 1 ver
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2022-1237` (tags `odluka-2022-1237/<day>`; `python tools/on.py <day> odluka-2022-1237`).
+Act id: `odluka-2022-1237` (tags `odluka-2022-1237/<day>`; `python registry/tools/on.py <day> odluka-2022-1237`).
 
 ## Decisions made by hand
 

@@ -8,7 +8,7 @@ Odluka o donošenju Nacionalnog plana razvoja javne uprave za razdoblje od 2022.
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2022-453` (tags `odluka-2022-453/<day>`; `python tools/on.py <day> odluka-2022-453`).
+Act id: `odluka-2022-453` (tags `odluka-2022-453/<day>`; `python registry/tools/on.py <day> odluka-2022-453`).
 
 ## Decisions made by hand
 

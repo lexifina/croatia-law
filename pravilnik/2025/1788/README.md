@@ -30,7 +30,7 @@ Pravilnik o provedbi mjere I.5. »Osiguranje ribarskih plovila« · 1 versions, 
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2025-1788` (tags `pravilnik-2025-1788/<day>`; `python tools/on.py <day> pravilnik-2025-1788`).
+Act id: `pravilnik-2025-1788` (tags `pravilnik-2025-1788/<day>`; `python registry/tools/on.py <day> pravilnik-2025-1788`).
 
 ## Decisions made by hand
 

@@ -11,7 +11,7 @@ Pravilnik o gospodarenju otpadom iz proizvodnje titan dioksida · 1 versions, fr
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2023-936` (tags `pravilnik-2023-936/<day>`; `python tools/on.py <day> pravilnik-2023-936`).
+Act id: `pravilnik-2023-936` (tags `pravilnik-2023-936/<day>`; `python registry/tools/on.py <day> pravilnik-2023-936`).
 
 ## Decisions made by hand
 

@@ -16,7 +16,7 @@ Pravilnik o uvjetima i načinu ostvarivanja prava na dodjelu građevnog materija
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2011-2918` (tags `pravilnik-2011-2918/<day>`; `python tools/on.py <day> pravilnik-2011-2918`).
+Act id: `pravilnik-2011-2918` (tags `pravilnik-2011-2918/<day>`; `python registry/tools/on.py <day> pravilnik-2011-2918`).
 
 ## Decisions made by hand
 

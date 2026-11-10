@@ -8,7 +8,7 @@ Odluka o izmjeni Odluke o visini otpremnine za djelatne vojne osobe kojima služ
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2016-2658` (tags `odluka-2016-2658/<day>`; `python tools/on.py <day> odluka-2016-2658`).
+Act id: `odluka-2016-2658` (tags `odluka-2016-2658/<day>`; `python registry/tools/on.py <day> odluka-2016-2658`).
 
 ## Decisions made by hand
 

@@ -8,7 +8,7 @@ Odluka o iznosu tarifnih stavki za zajamčenu opskrbu električnom energijom · 
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2017-2665` (tags `odluka-2017-2665/<day>`; `python tools/on.py <day> odluka-2017-2665`).
+Act id: `odluka-2017-2665` (tags `odluka-2017-2665/<day>`; `python registry/tools/on.py <day> odluka-2017-2665`).
 
 ## Status
 

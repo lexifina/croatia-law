@@ -8,7 +8,7 @@ Odluka o postavljanju počasnog konzula Republike Hrvatske u Kraljevini Španjol
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2025-2149` (tags `odluka-2025-2149/<day>`; `python tools/on.py <day> odluka-2025-2149`).
+Act id: `odluka-2025-2149` (tags `odluka-2025-2149/<day>`; `python registry/tools/on.py <day> odluka-2025-2149`).
 
 ## Decisions made by hand
 

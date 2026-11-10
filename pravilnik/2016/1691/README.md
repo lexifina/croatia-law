@@ -23,7 +23,7 @@ Pravilnik o načinu podnošenja zahtjeva za povećanje solventnosti i likvidnost
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2016-1691` (tags `pravilnik-2016-1691/<day>`; `python tools/on.py <day> pravilnik-2016-1691`).
+Act id: `pravilnik-2016-1691` (tags `pravilnik-2016-1691/<day>`; `python registry/tools/on.py <day> pravilnik-2016-1691`).
 
 ## Status
 

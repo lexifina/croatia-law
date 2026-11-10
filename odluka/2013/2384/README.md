@@ -9,7 +9,7 @@ Odluka o donošenju Nastavnog plana i programa zdravstvenog odgoja za osnovne i 
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2013-2384` (tags `odluka-2013-2384/<day>`; `python tools/on.py <day> odluka-2013-2384`).
+Act id: `odluka-2013-2384` (tags `odluka-2013-2384/<day>`; `python registry/tools/on.py <day> odluka-2013-2384`).
 
 ## Status
 

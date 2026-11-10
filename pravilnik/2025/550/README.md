@@ -12,7 +12,7 @@ Pravilnik o izmjenama i dopunama Pravilnika o provedbi intervencije 76.01.01. »
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2025-550` (tags `pravilnik-2025-550/<day>`; `python tools/on.py <day> pravilnik-2025-550`).
+Act id: `pravilnik-2025-550` (tags `pravilnik-2025-550/<day>`; `python registry/tools/on.py <day> pravilnik-2025-550`).
 
 ## Decisions made by hand
 

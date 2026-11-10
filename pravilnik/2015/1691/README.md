@@ -29,7 +29,7 @@ Pravilnik o izmjenama i dopunama Pravilnika o postupku i naÄinu polaganja pomoÄ
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2015-1691` (tags `pravilnik-2015-1691/<day>`; `python tools/on.py <day> pravilnik-2015-1691`).
+Act id: `pravilnik-2015-1691` (tags `pravilnik-2015-1691/<day>`; `python registry/tools/on.py <day> pravilnik-2015-1691`).
 
 ## Decisions made by hand
 

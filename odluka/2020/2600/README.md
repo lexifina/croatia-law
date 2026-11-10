@@ -8,7 +8,7 @@ Odluka o izmjenama Odluke o osnivanju Savjeta za sprječavanje korupcije · 1 ve
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2020-2600` (tags `odluka-2020-2600/<day>`; `python tools/on.py <day> odluka-2020-2600`).
+Act id: `odluka-2020-2600` (tags `odluka-2020-2600/<day>`; `python registry/tools/on.py <day> odluka-2020-2600`).
 
 ## Decisions made by hand
 

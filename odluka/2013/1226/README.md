@@ -8,7 +8,7 @@ Odluka o izmjeni i dopuni Odluke o privremenom ulasku stranaca u Republiku Hrvat
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2013-1226` (tags `odluka-2013-1226/<day>`; `python tools/on.py <day> odluka-2013-1226`).
+Act id: `odluka-2013-1226` (tags `odluka-2013-1226/<day>`; `python registry/tools/on.py <day> odluka-2013-1226`).
 
 ## Decisions made by hand
 

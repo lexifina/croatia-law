@@ -25,7 +25,7 @@ Pravilnik o sadržaju i načinu vođenja Registra obiteljskih medijatora, uvjeti
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2021-634` (tags `pravilnik-2021-634/<day>`; `python tools/on.py <day> pravilnik-2021-634`).
+Act id: `pravilnik-2021-634` (tags `pravilnik-2021-634/<day>`; `python registry/tools/on.py <day> pravilnik-2021-634`).
 
 ## Status
 

@@ -11,7 +11,7 @@ Zakon o izmjenama i dopuni Zakona o odgovornosti pravnih osoba za kaznena djela 
 | čl. 5 | [clanak-005.md](clanak-005.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2023-1619` (tags `zakon-2023-1619/<day>`; `python tools/on.py <day> zakon-2023-1619`).
+Act id: `zakon-2023-1619` (tags `zakon-2023-1619/<day>`; `python registry/tools/on.py <day> zakon-2023-1619`).
 
 ## Decisions made by hand
 

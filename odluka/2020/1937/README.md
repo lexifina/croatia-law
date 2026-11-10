@@ -9,7 +9,7 @@ Odluka o dopunama Odluke o donošenju mreže telemedicinskih centara · 1 versio
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2020-1937` (tags `odluka-2020-1937/<day>`; `python tools/on.py <day> odluka-2020-1937`).
+Act id: `odluka-2020-1937` (tags `odluka-2020-1937/<day>`; `python registry/tools/on.py <day> odluka-2020-1937`).
 
 ## Decisions made by hand
 

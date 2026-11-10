@@ -24,7 +24,7 @@ Odluka o općinskim porezima Općine Čeminac · 1 versions, from 2024-01-01 (la
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2023-2437` (tags `odluka-2023-2437/<day>`; `python tools/on.py <day> odluka-2023-2437`).
+Act id: `odluka-2023-2437` (tags `odluka-2023-2437/<day>`; `python registry/tools/on.py <day> odluka-2023-2437`).
 
 ## Decisions made by hand
 

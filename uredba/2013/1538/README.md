@@ -10,7 +10,7 @@ Uredba o izmjeni Uredbe o visini trošarine na motorne benzine, plinsko ulje i k
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2013-1538` (tags `uredba-2013-1538/<day>`; `python tools/on.py <day> uredba-2013-1538`).
+Act id: `uredba-2013-1538` (tags `uredba-2013-1538/<day>`; `python registry/tools/on.py <day> uredba-2013-1538`).
 
 ## Decisions made by hand
 

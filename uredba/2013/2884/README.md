@@ -22,7 +22,7 @@ Uredba o utvrđivanju statusa bivših nositelja stanarskih prava i članova njih
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2013-2884` (tags `uredba-2013-2884/<day>`; `python tools/on.py <day> uredba-2013-2884`).
+Act id: `uredba-2013-2884` (tags `uredba-2013-2884/<day>`; `python registry/tools/on.py <day> uredba-2013-2884`).
 
 ## Status
 

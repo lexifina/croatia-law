@@ -22,7 +22,7 @@ Pravilnik o institucijama za medijaciju · 1 versions, from 2026-08-18 (latest i
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2026-1100` (tags `pravilnik-2026-1100/<day>`; `python tools/on.py <day> pravilnik-2026-1100`).
+Act id: `pravilnik-2026-1100` (tags `pravilnik-2026-1100/<day>`; `python registry/tools/on.py <day> pravilnik-2026-1100`).
 
 ## Decisions made by hand
 

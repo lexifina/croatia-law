@@ -8,7 +8,7 @@ Odluka o visini troškova provođenja obdukcije · 1 versions, from 2024-01-27 (
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2024-151` (tags `odluka-2024-151/<day>`; `python tools/on.py <day> odluka-2024-151`).
+Act id: `odluka-2024-151` (tags `odluka-2024-151/<day>`; `python registry/tools/on.py <day> odluka-2024-151`).
 
 ## Decisions made by hand
 

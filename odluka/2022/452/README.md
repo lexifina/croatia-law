@@ -9,7 +9,7 @@ Odluka o visini naknada za obavljanje poslova regulacije energetskih djelatnosti
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2022-452` (tags `odluka-2022-452/<day>`; `python tools/on.py <day> odluka-2022-452`).
+Act id: `odluka-2022-452` (tags `odluka-2022-452/<day>`; `python registry/tools/on.py <day> odluka-2022-452`).
 
 ## Decisions made by hand
 

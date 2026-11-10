@@ -20,7 +20,7 @@ Odluka o općinskim porezima Općine Civljane · 1 versions, from 2022-01-01 (la
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2021-1872` (tags `odluka-2021-1872/<day>`; `python tools/on.py <day> odluka-2021-1872`).
+Act id: `odluka-2021-1872` (tags `odluka-2021-1872/<day>`; `python registry/tools/on.py <day> odluka-2021-1872`).
 
 ## Status
 

@@ -11,7 +11,7 @@ Uredba o izmjeni i dopunama Uredbe o odgovornosti za štete u okolišu · 1 vers
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2020-1017` (tags `uredba-2020-1017/<day>`; `python tools/on.py <day> uredba-2020-1017`).
+Act id: `uredba-2020-1017` (tags `uredba-2020-1017/<day>`; `python registry/tools/on.py <day> uredba-2020-1017`).
 
 ## Decisions made by hand
 

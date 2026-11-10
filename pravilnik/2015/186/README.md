@@ -9,7 +9,7 @@ Pravilnik o izmjeni Pravilnika o trošarinama · 1 versions, from 2015-01-24 (la
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2015-186` (tags `pravilnik-2015-186/<day>`; `python tools/on.py <day> pravilnik-2015-186`).
+Act id: `pravilnik-2015-186` (tags `pravilnik-2015-186/<day>`; `python registry/tools/on.py <day> pravilnik-2015-186`).
 
 ## Decisions made by hand
 

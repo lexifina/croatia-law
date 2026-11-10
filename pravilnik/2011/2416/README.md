@@ -19,7 +19,7 @@ Pravilnik o posebnim uvjetima za uvoz hrane i hrane za životinje podrijetlom il
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2011-2416` (tags `pravilnik-2011-2416/<day>`; `python tools/on.py <day> pravilnik-2011-2416`).
+Act id: `pravilnik-2011-2416` (tags `pravilnik-2011-2416/<day>`; `python registry/tools/on.py <day> pravilnik-2011-2416`).
 
 ## Status
 

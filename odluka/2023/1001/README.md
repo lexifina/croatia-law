@@ -8,7 +8,7 @@ Odluka o izmjenama i dopunama Odluke o kriterijima i načinima za stambeno zbrin
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2023-1001` (tags `odluka-2023-1001/<day>`; `python tools/on.py <day> odluka-2023-1001`).
+Act id: `odluka-2023-1001` (tags `odluka-2023-1001/<day>`; `python registry/tools/on.py <day> odluka-2023-1001`).
 
 ## Decisions made by hand
 

@@ -8,7 +8,7 @@ Odluka o prestanku važenja Odluke o nužnoj mjeri zabrane uplovljavanja putnič
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2021-482` (tags `odluka-2021-482/<day>`; `python tools/on.py <day> odluka-2021-482`).
+Act id: `odluka-2021-482` (tags `odluka-2021-482/<day>`; `python registry/tools/on.py <day> odluka-2021-482`).
 
 ## Decisions made by hand
 

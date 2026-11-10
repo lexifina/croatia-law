@@ -10,7 +10,7 @@ Pravilnik o izmjeni i dopunama Pravilnika o uvjetima za priznavanje jednakovalja
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2015-915` (tags `pravilnik-2015-915/<day>`; `python tools/on.py <day> pravilnik-2015-915`).
+Act id: `pravilnik-2015-915` (tags `pravilnik-2015-915/<day>`; `python registry/tools/on.py <day> pravilnik-2015-915`).
 
 ## Decisions made by hand
 

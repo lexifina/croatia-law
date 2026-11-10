@@ -8,7 +8,7 @@ Odluka o donošenju Nacionalnog plana razvoja širokopojasnog pristupa u Republi
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2021-571` (tags `odluka-2021-571/<day>`; `python tools/on.py <day> odluka-2021-571`).
+Act id: `odluka-2021-571` (tags `odluka-2021-571/<day>`; `python registry/tools/on.py <day> odluka-2021-571`).
 
 ## Decisions made by hand
 

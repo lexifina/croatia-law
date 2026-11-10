@@ -10,7 +10,7 @@ Pravilnik o dopuni i izmjeni Pravilnika o elektroničkom poslovanju korisnika i 
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2026-1055` (tags `pravilnik-2026-1055/<day>`; `python tools/on.py <day> pravilnik-2026-1055`).
+Act id: `pravilnik-2026-1055` (tags `pravilnik-2026-1055/<day>`; `python registry/tools/on.py <day> pravilnik-2026-1055`).
 
 ## Decisions made by hand
 

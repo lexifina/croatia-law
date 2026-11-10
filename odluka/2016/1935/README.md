@@ -8,7 +8,7 @@ Odluka o ispravku Odluke o dodjeli medalje "Oluja", klasa: 061-01/16-03/02, urbr
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2016-1935` (tags `odluka-2016-1935/<day>`; `python tools/on.py <day> odluka-2016-1935`).
+Act id: `odluka-2016-1935` (tags `odluka-2016-1935/<day>`; `python registry/tools/on.py <day> odluka-2016-1935`).
 
 ## Decisions made by hand
 

@@ -45,7 +45,7 @@ Pravilnik o stručnim muzejskim zvanjima i drugim zvanjima u muzejskoj djelatnos
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2019-2089` (tags `pravilnik-2019-2089/<day>`; `python tools/on.py <day> pravilnik-2019-2089`).
+Act id: `pravilnik-2019-2089` (tags `pravilnik-2019-2089/<day>`; `python registry/tools/on.py <day> pravilnik-2019-2089`).
 
 ## Decisions made by hand
 

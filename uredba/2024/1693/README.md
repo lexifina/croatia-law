@@ -5,7 +5,7 @@ Uredba o izmjeni i dopuni Zakona o udžbenicima i drugim obrazovnim materijalima
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `uredba-2024-1693` (tags `uredba-2024-1693/<day>`; `python tools/on.py <day> uredba-2024-1693`).
+Act id: `uredba-2024-1693` (tags `uredba-2024-1693/<day>`; `python registry/tools/on.py <day> uredba-2024-1693`).
 
 ## Decisions made by hand
 

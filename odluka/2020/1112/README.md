@@ -5,7 +5,7 @@ Odluka o mjerama za vozače teretnih vozila međunarodnog transporta za vrijeme 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `odluka-2020-1112` (tags `odluka-2020-1112/<day>`; `python tools/on.py <day> odluka-2020-1112`).
+Act id: `odluka-2020-1112` (tags `odluka-2020-1112/<day>`; `python registry/tools/on.py <day> odluka-2020-1112`).
 
 ## Decisions made by hand
 

@@ -8,7 +8,7 @@ Odluka o osnivanju Povjerenstva za utvrđivanje prijedloga kandidata za Glavnog 
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2020-1018` (tags `odluka-2020-1018/<day>`; `python tools/on.py <day> odluka-2020-1018`).
+Act id: `odluka-2020-1018` (tags `odluka-2020-1018/<day>`; `python registry/tools/on.py <day> odluka-2020-1018`).
 
 ## Status
 

@@ -14,7 +14,7 @@ Pravilnik o načinu priopćavanja povjerljivih informacija u sažetom ili zbirno
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2022-358` (tags `pravilnik-2022-358/<day>`; `python tools/on.py <day> pravilnik-2022-358`).
+Act id: `pravilnik-2022-358` (tags `pravilnik-2022-358/<day>`; `python registry/tools/on.py <day> pravilnik-2022-358`).
 
 ## Decisions made by hand
 

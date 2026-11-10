@@ -14,7 +14,7 @@ Uredba o izmjenama Uredbe o tijelima u sustavima upravljanja i kontrole korište
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2015-479` (tags `uredba-2015-479/<day>`; `python tools/on.py <day> uredba-2015-479`).
+Act id: `uredba-2015-479` (tags `uredba-2015-479/<day>`; `python registry/tools/on.py <day> uredba-2015-479`).
 
 ## Status
 

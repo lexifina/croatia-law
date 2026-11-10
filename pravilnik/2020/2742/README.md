@@ -11,7 +11,7 @@ Pravilnik o izmjenama Pravilnika o posebnom režimu upravljanja ribolovom u dije
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2020-2742` (tags `pravilnik-2020-2742/<day>`; `python tools/on.py <day> pravilnik-2020-2742`).
+Act id: `pravilnik-2020-2742` (tags `pravilnik-2020-2742/<day>`; `python registry/tools/on.py <day> pravilnik-2020-2742`).
 
 ## Decisions made by hand
 

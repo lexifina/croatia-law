@@ -35,7 +35,7 @@ Uredba o izmjenama Uredbe o metodologijama vještačenja · 1 versions, from 202
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2022-157` (tags `uredba-2022-157/<day>`; `python tools/on.py <day> uredba-2022-157`).
+Act id: `uredba-2022-157` (tags `uredba-2022-157/<day>`; `python registry/tools/on.py <day> uredba-2022-157`).
 
 ## Decisions made by hand
 

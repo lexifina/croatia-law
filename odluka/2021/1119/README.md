@@ -8,7 +8,7 @@ Odluka o izmjeni Odluke o rodovima, službama, strukama i njihovim specijalnosti
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2021-1119` (tags `odluka-2021-1119/<day>`; `python tools/on.py <day> odluka-2021-1119`).
+Act id: `odluka-2021-1119` (tags `odluka-2021-1119/<day>`; `python registry/tools/on.py <day> odluka-2021-1119`).
 
 ## Decisions made by hand
 

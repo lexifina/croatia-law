@@ -8,7 +8,7 @@ Naputak o načinu rada Povjerenstva za mirno rješavanje sporova u Ministarstvu 
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `naputak-2015-1136` (tags `naputak-2015-1136/<day>`; `python tools/on.py <day> naputak-2015-1136`).
+Act id: `naputak-2015-1136` (tags `naputak-2015-1136/<day>`; `python registry/tools/on.py <day> naputak-2015-1136`).
 
 ## Decisions made by hand
 

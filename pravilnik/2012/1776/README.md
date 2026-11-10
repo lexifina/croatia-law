@@ -9,7 +9,7 @@ Pravilnik o dopuni Pravilnika o standardima i normativima prava na zdravstvenu z
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2012-1776` (tags `pravilnik-2012-1776/<day>`; `python tools/on.py <day> pravilnik-2012-1776`).
+Act id: `pravilnik-2012-1776` (tags `pravilnik-2012-1776/<day>`; `python registry/tools/on.py <day> pravilnik-2012-1776`).
 
 ## Decisions made by hand
 

@@ -19,7 +19,7 @@ Pravilnik o izmjenama i dopunama Pravilnika o znaku zaštite okoliša Europske u
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2022-359` (tags `pravilnik-2022-359/<day>`; `python tools/on.py <day> pravilnik-2022-359`).
+Act id: `pravilnik-2022-359` (tags `pravilnik-2022-359/<day>`; `python registry/tools/on.py <day> pravilnik-2022-359`).
 
 ## Decisions made by hand
 

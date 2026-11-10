@@ -5,7 +5,7 @@ Pravilnik o uvjetima i načinu ostvarivanja prava redovitih studenata na državn
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `pravilnik-2021-1827` (tags `pravilnik-2021-1827/<day>`; `python tools/on.py <day> pravilnik-2021-1827`).
+Act id: `pravilnik-2021-1827` (tags `pravilnik-2021-1827/<day>`; `python registry/tools/on.py <day> pravilnik-2021-1827`).
 
 ## Decisions made by hand
 

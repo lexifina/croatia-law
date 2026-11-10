@@ -25,7 +25,7 @@ Naredba o iznosima osnovica za obračun doprinosa za obvezna osiguranja za 2013.
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `naredba-2012-2821` (tags `naredba-2012-2821/<day>`; `python tools/on.py <day> naredba-2012-2821`).
+Act id: `naredba-2012-2821` (tags `naredba-2012-2821/<day>`; `python registry/tools/on.py <day> naredba-2012-2821`).
 
 ## Status
 

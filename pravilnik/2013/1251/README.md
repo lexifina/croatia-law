@@ -14,7 +14,7 @@ Pravilnik o zdravstvenoj ispravnosti materijala i predmeta izrađenih od keramik
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2013-1251` (tags `pravilnik-2013-1251/<day>`; `python tools/on.py <day> pravilnik-2013-1251`).
+Act id: `pravilnik-2013-1251` (tags `pravilnik-2013-1251/<day>`; `python registry/tools/on.py <day> pravilnik-2013-1251`).
 
 ## Decisions made by hand
 

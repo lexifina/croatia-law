@@ -237,7 +237,7 @@ Uredba o područjima, sjedištima, vrstama i kategorijama policijskih uprava i p
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2011-2275` (tags `uredba-2011-2275/<day>`; `python tools/on.py <day> uredba-2011-2275`).
+Act id: `uredba-2011-2275` (tags `uredba-2011-2275/<day>`; `python registry/tools/on.py <day> uredba-2011-2275`).
 
 ## Status
 

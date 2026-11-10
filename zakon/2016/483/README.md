@@ -9,7 +9,7 @@ Zakon o izmjeni Zakona o upravljanju i raspolaganju imovinom u vlasništvu Repub
 | čl. 3 | [clanak-003.md](clanak-003.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2016-483` (tags `zakon-2016-483/<day>`; `python tools/on.py <day> zakon-2016-483`).
+Act id: `zakon-2016-483` (tags `zakon-2016-483/<day>`; `python registry/tools/on.py <day> zakon-2016-483`).
 
 ## Decisions made by hand
 

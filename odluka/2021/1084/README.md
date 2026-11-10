@@ -13,7 +13,7 @@ Odluka o minimalnom zahtjevu za regulatorni kapital i podložne obveze za kredit
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2021-1084` (tags `odluka-2021-1084/<day>`; `python tools/on.py <day> odluka-2021-1084`).
+Act id: `odluka-2021-1084` (tags `odluka-2021-1084/<day>`; `python registry/tools/on.py <day> odluka-2021-1084`).
 
 ## Status
 

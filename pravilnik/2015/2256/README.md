@@ -19,7 +19,7 @@ Pravilnik o tehničkim i drugim uvjetima elektroničkog poslovanja u zemljišnim
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2015-2256` (tags `pravilnik-2015-2256/<day>`; `python tools/on.py <day> pravilnik-2015-2256`).
+Act id: `pravilnik-2015-2256` (tags `pravilnik-2015-2256/<day>`; `python registry/tools/on.py <day> pravilnik-2015-2256`).
 
 ## Status
 

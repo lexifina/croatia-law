@@ -10,7 +10,7 @@ Zakon o izmjenama Zakona o zaštiti topografija poluvodičkih proizvoda · 1 ver
 | čl. 4 | [clanak-004.md](clanak-004.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2011-1102` (tags `zakon-2011-1102/<day>`; `python tools/on.py <day> zakon-2011-1102`).
+Act id: `zakon-2011-1102` (tags `zakon-2011-1102/<day>`; `python registry/tools/on.py <day> zakon-2011-1102`).
 
 ## Decisions made by hand
 

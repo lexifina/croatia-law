@@ -18,7 +18,7 @@ Odluka o načinu provedbe nadzora Hrvatske narodne banke nad provedbom Uredbe (E
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2025-1389` (tags `odluka-2025-1389/<day>`; `python tools/on.py <day> odluka-2025-1389`).
+Act id: `odluka-2025-1389` (tags `odluka-2025-1389/<day>`; `python registry/tools/on.py <day> odluka-2025-1389`).
 
 ## Decisions made by hand
 

@@ -10,7 +10,7 @@ Odluka o visini poreznih stopa poreza na dohodak Općine Rovišće · 1 versions
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2023-2289` (tags `odluka-2023-2289/<day>`; `python tools/on.py <day> odluka-2023-2289`).
+Act id: `odluka-2023-2289` (tags `odluka-2023-2289/<day>`; `python registry/tools/on.py <day> odluka-2023-2289`).
 
 ## Decisions made by hand
 

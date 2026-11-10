@@ -8,7 +8,7 @@ Odluka o katastarskoj izmjeri na području Grada Velike Gorice za dijelove katas
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2025-1636` (tags `odluka-2025-1636/<day>`; `python tools/on.py <day> odluka-2025-1636`).
+Act id: `odluka-2025-1636` (tags `odluka-2025-1636/<day>`; `python registry/tools/on.py <day> odluka-2025-1636`).
 
 ## Decisions made by hand
 

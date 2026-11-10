@@ -9,7 +9,7 @@ Odluka o izmjeni Odluke o obračunu i naplati naknade za razvoj sustava javne od
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2021-2561` (tags `odluka-2021-2561/<day>`; `python tools/on.py <day> odluka-2021-2561`).
+Act id: `odluka-2021-2561` (tags `odluka-2021-2561/<day>`; `python registry/tools/on.py <day> odluka-2021-2561`).
 
 ## Decisions made by hand
 

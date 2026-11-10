@@ -18,7 +18,7 @@ Pravilnik o rasporedu sredstava za financiranje građenja i održavanja javnih c
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2015-789` (tags `pravilnik-2015-789/<day>`; `python tools/on.py <day> pravilnik-2015-789`).
+Act id: `pravilnik-2015-789` (tags `pravilnik-2015-789/<day>`; `python registry/tools/on.py <day> pravilnik-2015-789`).
 
 ## Status
 

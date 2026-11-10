@@ -15,7 +15,7 @@ Odluka o prestanku rada Hrvatskog sustava velikih plaćanja i Nacionalnoga kliri
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2022-2014` (tags `odluka-2022-2014/<day>`; `python tools/on.py <day> odluka-2022-2014`).
+Act id: `odluka-2022-2014` (tags `odluka-2022-2014/<day>`; `python registry/tools/on.py <day> odluka-2022-2014`).
 
 ## Decisions made by hand
 

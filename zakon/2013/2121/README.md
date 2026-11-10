@@ -93,7 +93,7 @@ Zakon o upravljanju i raspolaganju imovinom u vlasništvu Republike Hrvatske · 
 | čl. 87 | [clanak-087.md](clanak-087.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2013-2121` (tags `zakon-2013-2121/<day>`; `python tools/on.py <day> zakon-2013-2121`).
+Act id: `zakon-2013-2121` (tags `zakon-2013-2121/<day>`; `python registry/tools/on.py <day> zakon-2013-2121`).
 
 ## Status
 

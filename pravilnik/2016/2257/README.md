@@ -9,7 +9,7 @@ Pravilnik o izmjeni Pravilnika o pravima, uvjetima i načinu ostvarivanja prava 
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2016-2257` (tags `pravilnik-2016-2257/<day>`; `python tools/on.py <day> pravilnik-2016-2257`).
+Act id: `pravilnik-2016-2257` (tags `pravilnik-2016-2257/<day>`; `python registry/tools/on.py <day> pravilnik-2016-2257`).
 
 ## Decisions made by hand
 

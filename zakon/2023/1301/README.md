@@ -12,7 +12,7 @@ Zakon o izmjenama i dopunama Zakona o provedbi Uredbe (EU) 2020/1503 o europskim
 | čl. 6 | [clanak-006.md](clanak-006.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2023-1301` (tags `zakon-2023-1301/<day>`; `python tools/on.py <day> zakon-2023-1301`).
+Act id: `zakon-2023-1301` (tags `zakon-2023-1301/<day>`; `python registry/tools/on.py <day> zakon-2023-1301`).
 
 ## Decisions made by hand
 

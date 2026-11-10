@@ -14,7 +14,7 @@ Zakon o izmjenama i dopunama Zakona o posebnim pravima predsjednika Republike Hr
 | čl. 8 | [clanak-008.md](clanak-008.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2013-362` (tags `zakon-2013-362/<day>`; `python tools/on.py <day> zakon-2013-362`).
+Act id: `zakon-2013-362` (tags `zakon-2013-362/<day>`; `python registry/tools/on.py <day> zakon-2013-362`).
 
 ## Decisions made by hand
 

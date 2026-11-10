@@ -11,7 +11,7 @@ Odluka o najreprezentativnijim uslugama povezanima s računom za plaćanje · 1 
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2018-815` (tags `odluka-2018-815/<day>`; `python tools/on.py <day> odluka-2018-815`).
+Act id: `odluka-2018-815` (tags `odluka-2018-815/<day>`; `python registry/tools/on.py <day> odluka-2018-815`).
 
 ## Decisions made by hand
 

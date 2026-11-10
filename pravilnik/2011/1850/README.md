@@ -25,7 +25,7 @@ Pravilnik o registru željezničkih vozila · 1 versions, from 2011-08-03 (lates
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2011-1850` (tags `pravilnik-2011-1850/<day>`; `python tools/on.py <day> pravilnik-2011-1850`).
+Act id: `pravilnik-2011-1850` (tags `pravilnik-2011-1850/<day>`; `python registry/tools/on.py <day> pravilnik-2011-1850`).
 
 ## Status
 

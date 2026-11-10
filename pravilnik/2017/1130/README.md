@@ -5,7 +5,7 @@ Pravilnik o priznavanju inozemnih stručnih kvalifikacija iz područja športa �
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `pravilnik-2017-1130` (tags `pravilnik-2017-1130/<day>`; `python tools/on.py <day> pravilnik-2017-1130`).
+Act id: `pravilnik-2017-1130` (tags `pravilnik-2017-1130/<day>`; `python registry/tools/on.py <day> pravilnik-2017-1130`).
 
 ## Decisions made by hand
 

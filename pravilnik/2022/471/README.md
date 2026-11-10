@@ -25,7 +25,7 @@ Pravilnik o kriterijima za odabir kompetencija potrebnih za rad, za odabir pruž
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2022-471` (tags `pravilnik-2022-471/<day>`; `python tools/on.py <day> pravilnik-2022-471`).
+Act id: `pravilnik-2022-471` (tags `pravilnik-2022-471/<day>`; `python registry/tools/on.py <day> pravilnik-2022-471`).
 
 ## Status
 

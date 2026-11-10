@@ -28,7 +28,7 @@ Zakon o izmjenama i dopunama Zakona o Financijskom inspektoratu Republike Hrvats
 | čl. 22 | [clanak-022.md](clanak-022.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2024-2246` (tags `zakon-2024-2246/<day>`; `python tools/on.py <day> zakon-2024-2246`).
+Act id: `zakon-2024-2246` (tags `zakon-2024-2246/<day>`; `python registry/tools/on.py <day> zakon-2024-2246`).
 
 ## Decisions made by hand
 

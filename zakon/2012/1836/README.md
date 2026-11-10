@@ -26,7 +26,7 @@ Zakon o izmjenama i dopunama Općeg poreznog zakona · 1 versions, from 2012-07-
 | čl. 20 | [clanak-020.md](clanak-020.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2012-1836` (tags `zakon-2012-1836/<day>`; `python tools/on.py <day> zakon-2012-1836`).
+Act id: `zakon-2012-1836` (tags `zakon-2012-1836/<day>`; `python registry/tools/on.py <day> zakon-2012-1836`).
 
 ## Decisions made by hand
 

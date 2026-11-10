@@ -23,7 +23,7 @@ Pravilnik o uvjetima, kriterijima i načinu dodjele državne potpore u ribarstvu
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2020-1065` (tags `pravilnik-2020-1065/<day>`; `python tools/on.py <day> pravilnik-2020-1065`).
+Act id: `pravilnik-2020-1065` (tags `pravilnik-2020-1065/<day>`; `python registry/tools/on.py <day> pravilnik-2020-1065`).
 
 ## Status
 

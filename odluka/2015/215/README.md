@@ -8,7 +8,7 @@ Odluka o davanju suglasnosti na Izmjene Statuta Agencije za kvalitetu i akredita
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2015-215` (tags `odluka-2015-215/<day>`; `python tools/on.py <day> odluka-2015-215`).
+Act id: `odluka-2015-215` (tags `odluka-2015-215/<day>`; `python registry/tools/on.py <day> odluka-2015-215`).
 
 ## Decisions made by hand
 

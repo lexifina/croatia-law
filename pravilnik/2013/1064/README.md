@@ -10,7 +10,7 @@ Pravilnik o izmjenama i dopunama Pravilnika o izračunu, visini i naplati naknad
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2013-1064` (tags `pravilnik-2013-1064/<day>`; `python tools/on.py <day> pravilnik-2013-1064`).
+Act id: `pravilnik-2013-1064` (tags `pravilnik-2013-1064/<day>`; `python registry/tools/on.py <day> pravilnik-2013-1064`).
 
 ## Decisions made by hand
 

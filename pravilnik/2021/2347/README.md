@@ -22,7 +22,7 @@ Pravilnik o sufinanciranju projekata odobrenih u okviru programa Europske unije 
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2021-2347` (tags `pravilnik-2021-2347/<day>`; `python tools/on.py <day> pravilnik-2021-2347`).
+Act id: `pravilnik-2021-2347` (tags `pravilnik-2021-2347/<day>`; `python registry/tools/on.py <day> pravilnik-2021-2347`).
 
 ## Decisions made by hand
 

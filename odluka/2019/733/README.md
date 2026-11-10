@@ -8,7 +8,7 @@ Odluka o izmjenama Odluke o osnivanju Lučke uprave Zadar · 1 versions, from 20
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2019-733` (tags `odluka-2019-733/<day>`; `python tools/on.py <day> odluka-2019-733`).
+Act id: `odluka-2019-733` (tags `odluka-2019-733/<day>`; `python registry/tools/on.py <day> odluka-2019-733`).
 
 ## Decisions made by hand
 

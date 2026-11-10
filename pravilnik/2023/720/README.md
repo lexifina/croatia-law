@@ -71,7 +71,7 @@ Pravilnik o uvjetima dodjele i uporabe radiofrekvencijskog spektra · 1 versions
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2023-720` (tags `pravilnik-2023-720/<day>`; `python tools/on.py <day> pravilnik-2023-720`).
+Act id: `pravilnik-2023-720` (tags `pravilnik-2023-720/<day>`; `python registry/tools/on.py <day> pravilnik-2023-720`).
 
 ## Decisions made by hand
 

@@ -11,7 +11,7 @@ Pravilnik o izmjeni i dopuni Pravilnika o reviziji izvještaja leasing društva 
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2016-1477` (tags `pravilnik-2016-1477/<day>`; `python tools/on.py <day> pravilnik-2016-1477`).
+Act id: `pravilnik-2016-1477` (tags `pravilnik-2016-1477/<day>`; `python registry/tools/on.py <day> pravilnik-2016-1477`).
 
 ## Decisions made by hand
 

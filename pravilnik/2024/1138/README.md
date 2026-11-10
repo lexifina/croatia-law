@@ -94,7 +94,7 @@ Pravilnik o uvjetima u pogledu prostora, radnika, medicinsko-tehničke opreme, k
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2024-1138` (tags `pravilnik-2024-1138/<day>`; `python tools/on.py <day> pravilnik-2024-1138`).
+Act id: `pravilnik-2024-1138` (tags `pravilnik-2024-1138/<day>`; `python registry/tools/on.py <day> pravilnik-2024-1138`).
 
 ## Decisions made by hand
 

@@ -8,7 +8,7 @@ Odluka o izmjeni Odluke o osnivanju Konzulata Republike Hrvatske u Kraljevini Da
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2024-140` (tags `odluka-2024-140/<day>`; `python tools/on.py <day> odluka-2024-140`).
+Act id: `odluka-2024-140` (tags `odluka-2024-140/<day>`; `python registry/tools/on.py <day> odluka-2024-140`).
 
 ## Decisions made by hand
 

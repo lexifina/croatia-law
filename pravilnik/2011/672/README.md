@@ -16,7 +16,7 @@ Pravilnik o nadzornim izvještajima za pravne osobe ovlaštene za pružanje inve
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2011-672` (tags `pravilnik-2011-672/<day>`; `python tools/on.py <day> pravilnik-2011-672`).
+Act id: `pravilnik-2011-672` (tags `pravilnik-2011-672/<day>`; `python registry/tools/on.py <day> pravilnik-2011-672`).
 
 ## Status
 

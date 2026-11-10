@@ -12,7 +12,7 @@ Pravilnik o izmjenama Pravilnika o uvjetima za nuđenje mirovinskih programa dob
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2026-910` (tags `pravilnik-2026-910/<day>`; `python tools/on.py <day> pravilnik-2026-910`).
+Act id: `pravilnik-2026-910` (tags `pravilnik-2026-910/<day>`; `python registry/tools/on.py <day> pravilnik-2026-910`).
 
 ## Decisions made by hand
 

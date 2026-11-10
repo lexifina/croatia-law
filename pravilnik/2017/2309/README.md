@@ -5,7 +5,7 @@ Pravilnik o načinu evidentiranja izdanih i iskorištenih putnih karata u javnom
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `pravilnik-2017-2309` (tags `pravilnik-2017-2309/<day>`; `python tools/on.py <day> pravilnik-2017-2309`).
+Act id: `pravilnik-2017-2309` (tags `pravilnik-2017-2309/<day>`; `python registry/tools/on.py <day> pravilnik-2017-2309`).
 
 ## Decisions made by hand
 

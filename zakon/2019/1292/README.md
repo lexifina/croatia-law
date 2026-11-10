@@ -25,7 +25,7 @@ Zakon o izmjenama i dopunama Zakona o financiranju vodnoga gospodarstva · 1 ver
 | čl. 19 | [clanak-019.md](clanak-019.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2019-1292` (tags `zakon-2019-1292/<day>`; `python tools/on.py <day> zakon-2019-1292`).
+Act id: `zakon-2019-1292` (tags `zakon-2019-1292/<day>`; `python registry/tools/on.py <day> zakon-2019-1292`).
 
 ## Decisions made by hand
 

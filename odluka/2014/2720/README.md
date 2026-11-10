@@ -8,7 +8,7 @@ Odluka o davanju prethodne suglasnosti Agenciji za ugljikovodike za angažiranje
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2014-2720` (tags `odluka-2014-2720/<day>`; `python tools/on.py <day> odluka-2014-2720`).
+Act id: `odluka-2014-2720` (tags `odluka-2014-2720/<day>`; `python registry/tools/on.py <day> odluka-2014-2720`).
 
 ## Decisions made by hand
 

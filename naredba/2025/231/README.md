@@ -9,7 +9,7 @@ Naredba o izmjeni Naredbe o iznosima osnovica za obračun doprinosa za obvezna o
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `naredba-2025-231` (tags `naredba-2025-231/<day>`; `python tools/on.py <day> naredba-2025-231`).
+Act id: `naredba-2025-231` (tags `naredba-2025-231/<day>`; `python registry/tools/on.py <day> naredba-2025-231`).
 
 ## Decisions made by hand
 

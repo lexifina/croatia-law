@@ -62,7 +62,7 @@ Uredba o unutarnjem ustrojstvu Središnjeg državnog ureda za obnovu i stambeno 
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2017-693` (tags `uredba-2017-693/<day>`; `python tools/on.py <day> uredba-2017-693`).
+Act id: `uredba-2017-693` (tags `uredba-2017-693/<day>`; `python registry/tools/on.py <day> uredba-2017-693`).
 
 ## Status
 

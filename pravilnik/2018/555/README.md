@@ -16,7 +16,7 @@ Pravilnik o dokumentaciji potrebnoj za donošenje Programa raspolaganja poljopri
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2018-555` (tags `pravilnik-2018-555/<day>`; `python tools/on.py <day> pravilnik-2018-555`).
+Act id: `pravilnik-2018-555` (tags `pravilnik-2018-555/<day>`; `python registry/tools/on.py <day> pravilnik-2018-555`).
 
 ## Status
 

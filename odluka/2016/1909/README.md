@@ -8,7 +8,7 @@ Odluka o sazivanju prvog zasjedanja Hrvatskoga sabora · 1 versions, from 2016-1
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2016-1909` (tags `odluka-2016-1909/<day>`; `python tools/on.py <day> odluka-2016-1909`).
+Act id: `odluka-2016-1909` (tags `odluka-2016-1909/<day>`; `python registry/tools/on.py <day> odluka-2016-1909`).
 
 ## Status
 

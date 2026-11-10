@@ -40,7 +40,7 @@ Pravilnik o zaštiti životinja tijekom prijevoza i s prijevozom povezanih postu
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2011-246` (tags `pravilnik-2011-246/<day>`; `python tools/on.py <day> pravilnik-2011-246`).
+Act id: `pravilnik-2011-246` (tags `pravilnik-2011-246/<day>`; `python registry/tools/on.py <day> pravilnik-2011-246`).
 
 ## Status
 

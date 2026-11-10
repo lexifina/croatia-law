@@ -8,7 +8,7 @@ Odluka o osnivanju Međuresorne radne skupine za praćenje implementacije prepor
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2014-377` (tags `odluka-2014-377/<day>`; `python tools/on.py <day> odluka-2014-377`).
+Act id: `odluka-2014-377` (tags `odluka-2014-377/<day>`; `python registry/tools/on.py <day> odluka-2014-377`).
 
 ## Status
 

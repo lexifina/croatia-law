@@ -15,7 +15,7 @@ Zakon o izmjenama i dopuni Zakona o minimalnoj plaći · 1 versions, from 2021-1
 | čl. 9 | [clanak-009.md](clanak-009.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2021-2068` (tags `zakon-2021-2068/<day>`; `python tools/on.py <day> zakon-2021-2068`).
+Act id: `zakon-2021-2068` (tags `zakon-2021-2068/<day>`; `python registry/tools/on.py <day> zakon-2021-2068`).
 
 ## Decisions made by hand
 

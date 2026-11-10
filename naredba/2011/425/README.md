@@ -8,7 +8,7 @@ Naredba o prestanku važenja Naredbe o popisu trećih zemalja i područja iz koj
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `naredba-2011-425` (tags `naredba-2011-425/<day>`; `python tools/on.py <day> naredba-2011-425`).
+Act id: `naredba-2011-425` (tags `naredba-2011-425/<day>`; `python registry/tools/on.py <day> naredba-2011-425`).
 
 ## Decisions made by hand
 

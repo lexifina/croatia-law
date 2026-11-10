@@ -19,7 +19,7 @@ Uredba o načinu financiranja decentraliziranih funkcija te izračuna iznosa pom
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2017-311` (tags `uredba-2017-311/<day>`; `python tools/on.py <day> uredba-2017-311`).
+Act id: `uredba-2017-311` (tags `uredba-2017-311/<day>`; `python registry/tools/on.py <day> uredba-2017-311`).
 
 ## Status
 

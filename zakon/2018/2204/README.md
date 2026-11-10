@@ -11,7 +11,7 @@ Zakon o izmjenama i dopunama Zakona o zaštiti od neionizirajućeg zračenja · 
 | čl. 5 | [clanak-005.md](clanak-005.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2018-2204` (tags `zakon-2018-2204/<day>`; `python tools/on.py <day> zakon-2018-2204`).
+Act id: `zakon-2018-2204` (tags `zakon-2018-2204/<day>`; `python registry/tools/on.py <day> zakon-2018-2204`).
 
 ## Decisions made by hand
 

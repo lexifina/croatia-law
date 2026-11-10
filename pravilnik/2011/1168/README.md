@@ -14,7 +14,7 @@ Pravilnik o pošiljkama za koje nije potrebno rješenje o veterinarskim uvjetima
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2011-1168` (tags `pravilnik-2011-1168/<day>`; `python tools/on.py <day> pravilnik-2011-1168`).
+Act id: `pravilnik-2011-1168` (tags `pravilnik-2011-1168/<day>`; `python registry/tools/on.py <day> pravilnik-2011-1168`).
 
 ## Status
 

@@ -18,7 +18,7 @@ Pravilnik o prijavljivanju povreda odnosno sumnji na povredu odredaba Uredbe (EU
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2020-2511` (tags `pravilnik-2020-2511/<day>`; `python tools/on.py <day> pravilnik-2020-2511`).
+Act id: `pravilnik-2020-2511` (tags `pravilnik-2020-2511/<day>`; `python registry/tools/on.py <day> pravilnik-2020-2511`).
 
 ## Decisions made by hand
 

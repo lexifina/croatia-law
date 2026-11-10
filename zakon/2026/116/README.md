@@ -12,7 +12,7 @@ Zakon o izmjenama i dopunama Zakona o nadzoru državne granice · 1 versions, fr
 | čl. 6 | [clanak-006.md](clanak-006.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2026-116` (tags `zakon-2026-116/<day>`; `python tools/on.py <day> zakon-2026-116`).
+Act id: `zakon-2026-116` (tags `zakon-2026-116/<day>`; `python registry/tools/on.py <day> zakon-2026-116`).
 
 ## Decisions made by hand
 

@@ -8,7 +8,7 @@ Odluka o utvrđivanju interesa Republike Hrvatske za izgradnju višestambenih gr
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2011-200` (tags `odluka-2011-200/<day>`; `python tools/on.py <day> odluka-2011-200`).
+Act id: `odluka-2011-200` (tags `odluka-2011-200/<day>`; `python registry/tools/on.py <day> odluka-2011-200`).
 
 ## Decisions made by hand
 

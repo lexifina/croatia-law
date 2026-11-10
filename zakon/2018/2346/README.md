@@ -64,7 +64,7 @@ Zakon o izmjenama i dopunama Zakona o zaštiti zraka · 1 versions, from 2019-01
 | čl. 58 | [clanak-058.md](clanak-058.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2018-2346` (tags `zakon-2018-2346/<day>`; `python tools/on.py <day> zakon-2018-2346`).
+Act id: `zakon-2018-2346` (tags `zakon-2018-2346/<day>`; `python registry/tools/on.py <day> zakon-2018-2346`).
 
 ## Decisions made by hand
 

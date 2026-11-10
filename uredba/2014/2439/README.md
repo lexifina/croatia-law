@@ -15,7 +15,7 @@ Uredba o tijelima u Sustavu upravljanja i kontrole za provedbu Operativnog progr
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2014-2439` (tags `uredba-2014-2439/<day>`; `python tools/on.py <day> uredba-2014-2439`).
+Act id: `uredba-2014-2439` (tags `uredba-2014-2439/<day>`; `python registry/tools/on.py <day> uredba-2014-2439`).
 
 ## Status
 

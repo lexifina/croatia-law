@@ -10,7 +10,7 @@ Uredba o izmjeni Zakona o obveznom zdravstvenom osiguranju · 1 versions, from 2
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2012-3089` (tags `uredba-2012-3089/<day>`; `python tools/on.py <day> uredba-2012-3089`).
+Act id: `uredba-2012-3089` (tags `uredba-2012-3089/<day>`; `python registry/tools/on.py <day> uredba-2012-3089`).
 
 ## Decisions made by hand
 

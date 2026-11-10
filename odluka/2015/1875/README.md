@@ -8,7 +8,7 @@ Odluka o promjeni naziva Centra za regionalne aktivnosti Programa prioritetnih a
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2015-1875` (tags `odluka-2015-1875/<day>`; `python tools/on.py <day> odluka-2015-1875`).
+Act id: `odluka-2015-1875` (tags `odluka-2015-1875/<day>`; `python registry/tools/on.py <day> odluka-2015-1875`).
 
 ## Decisions made by hand
 

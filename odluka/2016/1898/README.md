@@ -8,7 +8,7 @@ Odluka o prestanku koncesije za posebnu uporabu pomorskog dobra u svrhu postavlj
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2016-1898` (tags `odluka-2016-1898/<day>`; `python tools/on.py <day> odluka-2016-1898`).
+Act id: `odluka-2016-1898` (tags `odluka-2016-1898/<day>`; `python registry/tools/on.py <day> odluka-2016-1898`).
 
 ## Decisions made by hand
 

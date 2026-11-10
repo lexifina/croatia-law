@@ -15,7 +15,7 @@ Odluka o općinskim porezima Općine Fužine · 1 versions, from 2025-01-01 (lat
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2024-2560` (tags `odluka-2024-2560/<day>`; `python tools/on.py <day> odluka-2024-2560`).
+Act id: `odluka-2024-2560` (tags `odluka-2024-2560/<day>`; `python registry/tools/on.py <day> odluka-2024-2560`).
 
 ## Decisions made by hand
 

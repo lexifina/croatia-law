@@ -12,7 +12,7 @@ Pravilnik o programu ispita kojim se dokazuje osnovno znanje o poučavanju učen
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2020-2010` (tags `pravilnik-2020-2010/<day>`; `python tools/on.py <day> pravilnik-2020-2010`).
+Act id: `pravilnik-2020-2010` (tags `pravilnik-2020-2010/<day>`; `python registry/tools/on.py <day> pravilnik-2020-2010`).
 
 ## Decisions made by hand
 

@@ -21,7 +21,7 @@ Pravilnik o provedbi zaštitno-sigurnosnih mjera tijekom rada, međusobne obveze
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2026-136` (tags `pravilnik-2026-136/<day>`; `python tools/on.py <day> pravilnik-2026-136`).
+Act id: `pravilnik-2026-136` (tags `pravilnik-2026-136/<day>`; `python registry/tools/on.py <day> pravilnik-2026-136`).
 
 ## Decisions made by hand
 

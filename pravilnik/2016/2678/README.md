@@ -17,7 +17,7 @@ Pravilnik o primjeni Konvencije o radu pomoraca iz 2006. godine · 1 versions, f
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2016-2678` (tags `pravilnik-2016-2678/<day>`; `python tools/on.py <day> pravilnik-2016-2678`).
+Act id: `pravilnik-2016-2678` (tags `pravilnik-2016-2678/<day>`; `python registry/tools/on.py <day> pravilnik-2016-2678`).
 
 ## Status
 

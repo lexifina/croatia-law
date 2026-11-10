@@ -12,7 +12,7 @@ Uredba o unutarnjem ustrojstvu Ministarstva mora, prometa i infrastrukture · 1 
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2020-1824` (tags `uredba-2020-1824/<day>`; `python tools/on.py <day> uredba-2020-1824`).
+Act id: `uredba-2020-1824` (tags `uredba-2020-1824/<day>`; `python registry/tools/on.py <day> uredba-2020-1824`).
 
 ## Status
 

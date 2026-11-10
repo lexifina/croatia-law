@@ -5,7 +5,7 @@ Pravilnik o načinu vođenja evidencije o obavljenim isplatama i dostavi izvješ
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `pravilnik-2015-83` (tags `pravilnik-2015-83/<day>`; `python tools/on.py <day> pravilnik-2015-83`).
+Act id: `pravilnik-2015-83` (tags `pravilnik-2015-83/<day>`; `python registry/tools/on.py <day> pravilnik-2015-83`).
 
 ## Decisions made by hand
 

@@ -15,7 +15,7 @@ Odluka o utvrđivanju Popisa posebno skupih lijekova · 1 versions, from 2021-01
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2020-2786` (tags `odluka-2020-2786/<day>`; `python tools/on.py <day> odluka-2020-2786`).
+Act id: `odluka-2020-2786` (tags `odluka-2020-2786/<day>`; `python registry/tools/on.py <day> odluka-2020-2786`).
 
 ## Status
 

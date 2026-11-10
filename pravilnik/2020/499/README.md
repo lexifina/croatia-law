@@ -29,7 +29,7 @@ Pravilnik o ograničavanju uporabe određenih opasnih tvari u električnoj i ele
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2020-499` (tags `pravilnik-2020-499/<day>`; `python tools/on.py <day> pravilnik-2020-499`).
+Act id: `pravilnik-2020-499` (tags `pravilnik-2020-499/<day>`; `python registry/tools/on.py <day> pravilnik-2020-499`).
 
 ## Status
 

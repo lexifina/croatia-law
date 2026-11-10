@@ -9,7 +9,7 @@ Odluka o usvajanju Jamstvenog programa » PLUS« · 1 versions, from 2024-03-14 
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2024-509` (tags `odluka-2024-509/<day>`; `python tools/on.py <day> odluka-2024-509`).
+Act id: `odluka-2024-509` (tags `odluka-2024-509/<day>`; `python registry/tools/on.py <day> odluka-2024-509`).
 
 ## Decisions made by hand
 

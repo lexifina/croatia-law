@@ -26,7 +26,7 @@ Odluka o porezima Grada Vinkovaca · 1 versions, from 2017-05-01 (latest in forc
 | čl. 20 | [clanak-020.md](clanak-020.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `odluka-2017-869` (tags `odluka-2017-869/<day>`; `python tools/on.py <day> odluka-2017-869`).
+Act id: `odluka-2017-869` (tags `odluka-2017-869/<day>`; `python registry/tools/on.py <day> odluka-2017-869`).
 
 ## Status
 

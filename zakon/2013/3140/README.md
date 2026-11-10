@@ -40,7 +40,7 @@ Zakon o izmjenama i dopunama Zakona o doprinosima · 1 versions, from 2013-12-19
 | čl. 34 | [clanak-034.md](clanak-034.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2013-3140` (tags `zakon-2013-3140/<day>`; `python tools/on.py <day> zakon-2013-3140`).
+Act id: `zakon-2013-3140` (tags `zakon-2013-3140/<day>`; `python registry/tools/on.py <day> zakon-2013-3140`).
 
 ## Decisions made by hand
 

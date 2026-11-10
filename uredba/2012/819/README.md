@@ -19,7 +19,7 @@ Uredba o mjerilima za razvrstavanje javnih cesta · 1 versions, from 2012-03-29 
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2012-819` (tags `uredba-2012-819/<day>`; `python tools/on.py <day> uredba-2012-819`).
+Act id: `uredba-2012-819` (tags `uredba-2012-819/<day>`; `python registry/tools/on.py <day> uredba-2012-819`).
 
 ## Status
 

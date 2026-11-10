@@ -40,7 +40,7 @@ Pravilnik o postupku izbora gradskog, područnog odnosno općinskog vatrogasnog 
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2021-785` (tags `pravilnik-2021-785/<day>`; `python tools/on.py <day> pravilnik-2021-785`).
+Act id: `pravilnik-2021-785` (tags `pravilnik-2021-785/<day>`; `python registry/tools/on.py <day> pravilnik-2021-785`).
 
 ## Decisions made by hand
 

@@ -28,7 +28,7 @@ Zakon o izmjenama i dopunama Zakona o lokalnim izborima · 1 versions, from 2020
 | čl. 22 | [clanak-022.md](clanak-022.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2020-2763` (tags `zakon-2020-2763/<day>`; `python tools/on.py <day> zakon-2020-2763`).
+Act id: `zakon-2020-2763` (tags `zakon-2020-2763/<day>`; `python registry/tools/on.py <day> zakon-2020-2763`).
 
 ## Decisions made by hand
 

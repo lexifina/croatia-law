@@ -48,7 +48,7 @@ Zakon o izmjenama i dopunama Zakona o šumama · 1 versions, from 2024-04-02 (la
 | čl. 42 | [clanak-042.md](clanak-042.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2024-576` (tags `zakon-2024-576/<day>`; `python tools/on.py <day> zakon-2024-576`).
+Act id: `zakon-2024-576` (tags `zakon-2024-576/<day>`; `python registry/tools/on.py <day> zakon-2024-576`).
 
 ## Decisions made by hand
 

@@ -29,7 +29,7 @@ Pravilnik o vrstama i načinu primjene mjera prisile prema osobi s težim dušev
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2015-303` (tags `pravilnik-2015-303/<day>`; `python tools/on.py <day> pravilnik-2015-303`).
+Act id: `pravilnik-2015-303` (tags `pravilnik-2015-303/<day>`; `python registry/tools/on.py <day> pravilnik-2015-303`).
 
 ## Decisions made by hand
 

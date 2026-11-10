@@ -12,7 +12,7 @@ Odluka o mirovinskom društvu koje je za svaku kategoriju obveznih mirovinskih f
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2025-41` (tags `odluka-2025-41/<day>`; `python tools/on.py <day> odluka-2025-41`).
+Act id: `odluka-2025-41` (tags `odluka-2025-41/<day>`; `python registry/tools/on.py <day> odluka-2025-41`).
 
 ## Decisions made by hand
 

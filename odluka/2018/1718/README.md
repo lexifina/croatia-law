@@ -9,7 +9,7 @@ Odluka o izmjenama i dopunama Odluke o provedbi Uredbe (EU) br. 575/2013 u dijel
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2018-1718` (tags `odluka-2018-1718/<day>`; `python tools/on.py <day> odluka-2018-1718`).
+Act id: `odluka-2018-1718` (tags `odluka-2018-1718/<day>`; `python registry/tools/on.py <day> odluka-2018-1718`).
 
 ## Decisions made by hand
 

@@ -13,7 +13,7 @@ Pravilnik o izmjenama i dopunama Pravilnika o porezu na dobit · 1 versions, fro
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2011-2749` (tags `pravilnik-2011-2749/<day>`; `python tools/on.py <day> pravilnik-2011-2749`).
+Act id: `pravilnik-2011-2749` (tags `pravilnik-2011-2749/<day>`; `python registry/tools/on.py <day> pravilnik-2011-2749`).
 
 ## Decisions made by hand
 

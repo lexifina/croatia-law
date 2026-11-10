@@ -14,7 +14,7 @@ Odluka o kamatnim stopama na novčana sredstva kod Hrvatske narodne banke koja s
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2023-1545` (tags `odluka-2023-1545/<day>`; `python tools/on.py <day> odluka-2023-1545`).
+Act id: `odluka-2023-1545` (tags `odluka-2023-1545/<day>`; `python registry/tools/on.py <day> odluka-2023-1545`).
 
 ## Status
 

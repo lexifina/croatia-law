@@ -13,7 +13,7 @@ Naredba o načinu i financiranju kontrole razmnožavanja napuštenih pasa na pod
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `naredba-2018-812` (tags `naredba-2018-812/<day>`; `python tools/on.py <day> naredba-2018-812`).
+Act id: `naredba-2018-812` (tags `naredba-2018-812/<day>`; `python registry/tools/on.py <day> naredba-2018-812`).
 
 ## Decisions made by hand
 

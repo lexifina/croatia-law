@@ -8,7 +8,7 @@ Odluka o osnivanju Konzulata Republike Hrvatske u Socijalističkoj Republici Vij
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2018-2033` (tags `odluka-2018-2033/<day>`; `python tools/on.py <day> odluka-2018-2033`).
+Act id: `odluka-2018-2033` (tags `odluka-2018-2033/<day>`; `python registry/tools/on.py <day> odluka-2018-2033`).
 
 ## Decisions made by hand
 

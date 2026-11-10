@@ -8,7 +8,7 @@ Odluka o dopuni Odluke o koncesiji pomorskog dobra u svrhu gospodarskog korište
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2011-167` (tags `odluka-2011-167/<day>`; `python tools/on.py <day> odluka-2011-167`).
+Act id: `odluka-2011-167` (tags `odluka-2011-167/<day>`; `python registry/tools/on.py <day> odluka-2011-167`).
 
 ## Decisions made by hand
 

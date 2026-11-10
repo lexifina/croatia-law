@@ -5,7 +5,7 @@ Odluka o cjeniku nestandardnih usluga opskrbljivača plinom u obvezi javne uslug
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `odluka-2021-2415` (tags `odluka-2021-2415/<day>`; `python tools/on.py <day> odluka-2021-2415`).
+Act id: `odluka-2021-2415` (tags `odluka-2021-2415/<day>`; `python registry/tools/on.py <day> odluka-2021-2415`).
 
 ## Decisions made by hand
 

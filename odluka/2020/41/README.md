@@ -8,7 +8,7 @@ Odluka o dopuni Odluke o osnivanju Povjerenstva Vlade Republike Hrvatske za osob
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2020-41` (tags `odluka-2020-41/<day>`; `python tools/on.py <day> odluka-2020-41`).
+Act id: `odluka-2020-41` (tags `odluka-2020-41/<day>`; `python registry/tools/on.py <day> odluka-2020-41`).
 
 ## Decisions made by hand
 

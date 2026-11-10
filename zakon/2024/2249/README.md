@@ -67,7 +67,7 @@ Zakon o izmjenama i dopunama Zakona o prijevozu u cestovnom prometu · 1 version
 | čl. 61 | [clanak-061.md](clanak-061.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2024-2249` (tags `zakon-2024-2249/<day>`; `python tools/on.py <day> zakon-2024-2249`).
+Act id: `zakon-2024-2249` (tags `zakon-2024-2249/<day>`; `python registry/tools/on.py <day> zakon-2024-2249`).
 
 ## Decisions made by hand
 

@@ -11,7 +11,7 @@ Izmjene i dopune Statuta Turističke zajednice Šibensko-kninske županije · 1 
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `statut-2025-1265` (tags `statut-2025-1265/<day>`; `python tools/on.py <day> statut-2025-1265`).
+Act id: `statut-2025-1265` (tags `statut-2025-1265/<day>`; `python registry/tools/on.py <day> statut-2025-1265`).
 
 ## Decisions made by hand
 

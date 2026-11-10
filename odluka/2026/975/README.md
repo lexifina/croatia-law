@@ -8,7 +8,7 @@ Odluka o osnivanju Savjeta za održivi razvitak i zaštitu okoliša · 1 version
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2026-975` (tags `odluka-2026-975/<day>`; `python tools/on.py <day> odluka-2026-975`).
+Act id: `odluka-2026-975` (tags `odluka-2026-975/<day>`; `python registry/tools/on.py <day> odluka-2026-975`).
 
 ## Decisions made by hand
 

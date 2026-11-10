@@ -8,7 +8,7 @@ Odluka o donošenju Programa potpore u odgoju i obrazovanju pripadnika romske na
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2021-516` (tags `odluka-2021-516/<day>`; `python tools/on.py <day> odluka-2021-516`).
+Act id: `odluka-2021-516` (tags `odluka-2021-516/<day>`; `python registry/tools/on.py <day> odluka-2021-516`).
 
 ## Decisions made by hand
 

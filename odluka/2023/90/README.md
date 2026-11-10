@@ -8,7 +8,7 @@ Odluka o katastarskoj izmjeri na području Grada Otočca za dijelove katastarski
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2023-90` (tags `odluka-2023-90/<day>`; `python tools/on.py <day> odluka-2023-90`).
+Act id: `odluka-2023-90` (tags `odluka-2023-90/<day>`; `python registry/tools/on.py <day> odluka-2023-90`).
 
 ## Decisions made by hand
 

@@ -10,7 +10,7 @@ Zakon o izmjenama i dopunama Zakona o provedbi Uredbe (EU) 2015/2283 Europskog p
 | čl. 4 | [clanak-004.md](clanak-004.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2018-2210` (tags `zakon-2018-2210/<day>`; `python tools/on.py <day> zakon-2018-2210`).
+Act id: `zakon-2018-2210` (tags `zakon-2018-2210/<day>`; `python registry/tools/on.py <day> zakon-2018-2210`).
 
 ## Decisions made by hand
 

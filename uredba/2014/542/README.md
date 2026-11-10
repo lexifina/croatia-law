@@ -9,7 +9,7 @@ Uredba o prestanku važenja Uredbe o osnivanju Fonda za profesionalnu rehabilita
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2014-542` (tags `uredba-2014-542/<day>`; `python tools/on.py <day> uredba-2014-542`).
+Act id: `uredba-2014-542` (tags `uredba-2014-542/<day>`; `python registry/tools/on.py <day> uredba-2014-542`).
 
 ## Decisions made by hand
 

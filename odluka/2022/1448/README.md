@@ -8,7 +8,7 @@ Odluka o donošenju Srednjoročnog plana razvitka vodnih putova, luka i pristani
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2022-1448` (tags `odluka-2022-1448/<day>`; `python tools/on.py <day> odluka-2022-1448`).
+Act id: `odluka-2022-1448` (tags `odluka-2022-1448/<day>`; `python registry/tools/on.py <day> odluka-2022-1448`).
 
 ## Decisions made by hand
 

@@ -5,7 +5,7 @@ Odluka o ograničavanju korištenja sredstava predviđenih Državnim proračunom
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `odluka-2020-855` (tags `odluka-2020-855/<day>`; `python tools/on.py <day> odluka-2020-855`).
+Act id: `odluka-2020-855` (tags `odluka-2020-855/<day>`; `python registry/tools/on.py <day> odluka-2020-855`).
 
 ## Decisions made by hand
 

@@ -8,7 +8,7 @@ Odluka o donošenju Nacionalnog plana razvoja arhivske djelatnosti za razdoblje 
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2019-2217` (tags `odluka-2019-2217/<day>`; `python tools/on.py <day> odluka-2019-2217`).
+Act id: `odluka-2019-2217` (tags `odluka-2019-2217/<day>`; `python registry/tools/on.py <day> odluka-2019-2217`).
 
 ## Decisions made by hand
 

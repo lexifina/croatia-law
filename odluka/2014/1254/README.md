@@ -9,7 +9,7 @@ Odluka o rasporedu radnog vremena · 1 versions, from 2014-06-01 (latest in forc
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2014-1254` (tags `odluka-2014-1254/<day>`; `python tools/on.py <day> odluka-2014-1254`).
+Act id: `odluka-2014-1254` (tags `odluka-2014-1254/<day>`; `python registry/tools/on.py <day> odluka-2014-1254`).
 
 ## Status
 

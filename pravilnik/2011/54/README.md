@@ -35,7 +35,7 @@ Pravilnik o sadržaju, postupku i metodologiji donošenja Strategije upravljanja
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2011-54` (tags `pravilnik-2011-54/<day>`; `python tools/on.py <day> pravilnik-2011-54`).
+Act id: `pravilnik-2011-54` (tags `pravilnik-2011-54/<day>`; `python registry/tools/on.py <day> pravilnik-2011-54`).
 
 ## Status
 

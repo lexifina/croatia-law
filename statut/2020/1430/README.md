@@ -10,7 +10,7 @@ Statut o izmjeni i dopuni Statuta Hrvatske komore inženjera tehnologije prometa
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `statut-2020-1430` (tags `statut-2020-1430/<day>`; `python tools/on.py <day> statut-2020-1430`).
+Act id: `statut-2020-1430` (tags `statut-2020-1430/<day>`; `python registry/tools/on.py <day> statut-2020-1430`).
 
 ## Decisions made by hand
 

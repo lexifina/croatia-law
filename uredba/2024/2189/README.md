@@ -49,7 +49,7 @@ Uredba o stambenom zbrinjavanju članova obitelji smrtno stradalih i nestalih hr
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2024-2189` (tags `uredba-2024-2189/<day>`; `python tools/on.py <day> uredba-2024-2189`).
+Act id: `uredba-2024-2189` (tags `uredba-2024-2189/<day>`; `python registry/tools/on.py <day> uredba-2024-2189`).
 
 ## Decisions made by hand
 

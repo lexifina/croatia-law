@@ -18,7 +18,7 @@ Odluka o naknadi za razvoj trgovačkog društva Vodovod i odvodnja, d.o.o. za vo
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2024-1486` (tags `odluka-2024-1486/<day>`; `python tools/on.py <day> odluka-2024-1486`).
+Act id: `odluka-2024-1486` (tags `odluka-2024-1486/<day>`; `python registry/tools/on.py <day> odluka-2024-1486`).
 
 ## Status
 

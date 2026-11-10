@@ -19,7 +19,7 @@ Pravilnik o tvarima koje se mogu dodavati hrani i koristiti u proizvodnji hrane 
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2013-3359` (tags `pravilnik-2013-3359/<day>`; `python tools/on.py <day> pravilnik-2013-3359`).
+Act id: `pravilnik-2013-3359` (tags `pravilnik-2013-3359/<day>`; `python registry/tools/on.py <day> pravilnik-2013-3359`).
 
 ## Decisions made by hand
 

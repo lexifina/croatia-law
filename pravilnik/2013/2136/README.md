@@ -19,7 +19,7 @@ Pravilnik o izmjenama i dopunama Pravilnika o razvrstavanju i kategorizaciji dru
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2013-2136` (tags `pravilnik-2013-2136/<day>`; `python tools/on.py <day> pravilnik-2013-2136`).
+Act id: `pravilnik-2013-2136` (tags `pravilnik-2013-2136/<day>`; `python registry/tools/on.py <day> pravilnik-2013-2136`).
 
 ## Decisions made by hand
 

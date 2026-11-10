@@ -30,7 +30,7 @@ Pravilnik o načinu osiguranja osoba, imovine i objekata sudova i državnih odvj
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2015-1614` (tags `pravilnik-2015-1614/<day>`; `python tools/on.py <day> pravilnik-2015-1614`).
+Act id: `pravilnik-2015-1614` (tags `pravilnik-2015-1614/<day>`; `python registry/tools/on.py <day> pravilnik-2015-1614`).
 
 ## Status
 

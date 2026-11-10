@@ -8,7 +8,7 @@ Odluka o visini, načinu i rokovima uplate sredstava trgovačkih društava od st
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2017-1141` (tags `odluka-2017-1141/<day>`; `python tools/on.py <day> odluka-2017-1141`).
+Act id: `odluka-2017-1141` (tags `odluka-2017-1141/<day>`; `python registry/tools/on.py <day> odluka-2017-1141`).
 
 ## Status
 

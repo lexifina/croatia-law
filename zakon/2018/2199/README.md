@@ -11,7 +11,7 @@ Zakon o izmjeni i dopunama Zakona o zaštiti od buke · 1 versions, from 2019-04
 | čl. 5 | [clanak-005.md](clanak-005.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2018-2199` (tags `zakon-2018-2199/<day>`; `python tools/on.py <day> zakon-2018-2199`).
+Act id: `zakon-2018-2199` (tags `zakon-2018-2199/<day>`; `python registry/tools/on.py <day> zakon-2018-2199`).
 
 ## Decisions made by hand
 

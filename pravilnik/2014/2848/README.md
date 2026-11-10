@@ -21,7 +21,7 @@ Pravilnik o vrsti i visini naknada i administrativnih pristojbi Hrvatske agencij
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2014-2848` (tags `pravilnik-2014-2848/<day>`; `python tools/on.py <day> pravilnik-2014-2848`).
+Act id: `pravilnik-2014-2848` (tags `pravilnik-2014-2848/<day>`; `python registry/tools/on.py <day> pravilnik-2014-2848`).
 
 ## Status
 

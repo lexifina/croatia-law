@@ -10,7 +10,7 @@ Uredba o izmjeni Uredbe o tržnom redu za žitarice · 1 versions, from 2013-03-
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2013-523` (tags `uredba-2013-523/<day>`; `python tools/on.py <day> uredba-2013-523`).
+Act id: `uredba-2013-523` (tags `uredba-2013-523/<day>`; `python registry/tools/on.py <day> uredba-2013-523`).
 
 ## Decisions made by hand
 

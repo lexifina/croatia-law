@@ -8,7 +8,7 @@ Zakon o izmjeni Zakona o tajnosti podataka · 1 versions, from 2012-08-04 (lates
 | čl. 2 | [clanak-002.md](clanak-002.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2012-1969` (tags `zakon-2012-1969/<day>`; `python tools/on.py <day> zakon-2012-1969`).
+Act id: `zakon-2012-1969` (tags `zakon-2012-1969/<day>`; `python registry/tools/on.py <day> zakon-2012-1969`).
 
 ## Decisions made by hand
 

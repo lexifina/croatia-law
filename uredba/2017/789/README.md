@@ -10,7 +10,7 @@ Uredba o izmjenama Uredbe o Tarifi upravnih pristojbi · 1 versions, from 2017-0
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2017-789` (tags `uredba-2017-789/<day>`; `python tools/on.py <day> uredba-2017-789`).
+Act id: `uredba-2017-789` (tags `uredba-2017-789/<day>`; `python registry/tools/on.py <day> uredba-2017-789`).
 
 ## Decisions made by hand
 

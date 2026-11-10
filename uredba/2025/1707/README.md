@@ -18,7 +18,7 @@ Uredba o uvjetima i načinima upravljanja privremeno oduzetom imovinom · 1 vers
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2025-1707` (tags `uredba-2025-1707/<day>`; `python tools/on.py <day> uredba-2025-1707`).
+Act id: `uredba-2025-1707` (tags `uredba-2025-1707/<day>`; `python registry/tools/on.py <day> uredba-2025-1707`).
 
 ## Decisions made by hand
 

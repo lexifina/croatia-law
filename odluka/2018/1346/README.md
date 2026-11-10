@@ -8,7 +8,7 @@ Odluka o dopuni Odluke o osnivanju Savjeta za Slavoniju, Baranju i Srijem · 1 v
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2018-1346` (tags `odluka-2018-1346/<day>`; `python tools/on.py <day> odluka-2018-1346`).
+Act id: `odluka-2018-1346` (tags `odluka-2018-1346/<day>`; `python registry/tools/on.py <day> odluka-2018-1346`).
 
 ## Decisions made by hand
 

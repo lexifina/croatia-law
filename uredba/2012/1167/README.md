@@ -21,7 +21,7 @@ Uredba o načinu provedbe plaćanja doprinosa prema plaći, primicima uz plaću,
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2012-1167` (tags `uredba-2012-1167/<day>`; `python tools/on.py <day> uredba-2012-1167`).
+Act id: `uredba-2012-1167` (tags `uredba-2012-1167/<day>`; `python registry/tools/on.py <day> uredba-2012-1167`).
 
 ## Status
 

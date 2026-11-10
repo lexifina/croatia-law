@@ -25,7 +25,7 @@ Zakon o izmjenama i dopunama Zakona o građevnim proizvodima · 1 versions, from
 | čl. 19 | [clanak-019.md](clanak-019.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2017-2990` (tags `zakon-2017-2990/<day>`; `python tools/on.py <day> zakon-2017-2990`).
+Act id: `zakon-2017-2990` (tags `zakon-2017-2990/<day>`; `python registry/tools/on.py <day> zakon-2017-2990`).
 
 ## Decisions made by hand
 

@@ -36,7 +36,7 @@ Pravilnik o ispitu o stručnoj osposobljenosti za obavljanje djelatnosti javnog 
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2019-496` (tags `pravilnik-2019-496/<day>`; `python tools/on.py <day> pravilnik-2019-496`).
+Act id: `pravilnik-2019-496` (tags `pravilnik-2019-496/<day>`; `python registry/tools/on.py <day> pravilnik-2019-496`).
 
 ## Status
 

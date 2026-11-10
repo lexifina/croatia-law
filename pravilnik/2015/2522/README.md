@@ -13,7 +13,7 @@ Pravilnik o obliku, sadržaju i načinu vođenja evidencije osoba s položenim i
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2015-2522` (tags `pravilnik-2015-2522/<day>`; `python tools/on.py <day> pravilnik-2015-2522`).
+Act id: `pravilnik-2015-2522` (tags `pravilnik-2015-2522/<day>`; `python registry/tools/on.py <day> pravilnik-2015-2522`).
 
 ## Decisions made by hand
 

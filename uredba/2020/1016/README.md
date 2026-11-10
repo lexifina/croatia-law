@@ -22,7 +22,7 @@ Uredba o izmjenama Uredbe o nazivima radnih mjesta i koeficijentima složenosti 
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2020-1016` (tags `uredba-2020-1016/<day>`; `python tools/on.py <day> uredba-2020-1016`).
+Act id: `uredba-2020-1016` (tags `uredba-2020-1016/<day>`; `python registry/tools/on.py <day> uredba-2020-1016`).
 
 ## Decisions made by hand
 

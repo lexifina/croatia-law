@@ -17,7 +17,7 @@ Pravilnik o metodologiji ustrojavanja i vođenja Registra otoka · 1 versions, f
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2026-1203` (tags `pravilnik-2026-1203/<day>`; `python tools/on.py <day> pravilnik-2026-1203`).
+Act id: `pravilnik-2026-1203` (tags `pravilnik-2026-1203/<day>`; `python registry/tools/on.py <day> pravilnik-2026-1203`).
 
 ## Decisions made by hand
 

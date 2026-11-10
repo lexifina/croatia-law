@@ -11,7 +11,7 @@ Uredba o dopunama Uredbe o sadržaju, načinu prikupljanja i obrade, te mjerama 
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2020-1143` (tags `uredba-2020-1143/<day>`; `python tools/on.py <day> uredba-2020-1143`).
+Act id: `uredba-2020-1143` (tags `uredba-2020-1143/<day>`; `python registry/tools/on.py <day> uredba-2020-1143`).
 
 ## Status
 

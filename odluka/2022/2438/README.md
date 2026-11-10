@@ -20,7 +20,7 @@ Odluka o lokalnim porezima Grada Vrbovskog · 1 versions, from 2023-01-01 (lates
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2022-2438` (tags `odluka-2022-2438/<day>`; `python tools/on.py <day> odluka-2022-2438`).
+Act id: `odluka-2022-2438` (tags `odluka-2022-2438/<day>`; `python registry/tools/on.py <day> odluka-2022-2438`).
 
 ## Status
 

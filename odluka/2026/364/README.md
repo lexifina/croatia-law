@@ -105,7 +105,7 @@ Odluka o sustavu upravljanja · 1 versions, from 2026-04-02 (latest in force: 20
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2026-364` (tags `odluka-2026-364/<day>`; `python tools/on.py <day> odluka-2026-364`).
+Act id: `odluka-2026-364` (tags `odluka-2026-364/<day>`; `python registry/tools/on.py <day> odluka-2026-364`).
 
 ## Decisions made by hand
 

@@ -29,7 +29,7 @@ Pravilnik o provedbi Programa potpore proizvođačima radi obnove narušenog pro
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2019-885` (tags `pravilnik-2019-885/<day>`; `python tools/on.py <day> pravilnik-2019-885`).
+Act id: `pravilnik-2019-885` (tags `pravilnik-2019-885/<day>`; `python registry/tools/on.py <day> pravilnik-2019-885`).
 
 ## Status
 

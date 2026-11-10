@@ -8,7 +8,7 @@ Odluka o katastarskoj izmjeri na području Općine Gorjani za dio katastarske op
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2024-1072` (tags `odluka-2024-1072/<day>`; `python tools/on.py <day> odluka-2024-1072`).
+Act id: `odluka-2024-1072` (tags `odluka-2024-1072/<day>`; `python registry/tools/on.py <day> odluka-2024-1072`).
 
 ## Decisions made by hand
 

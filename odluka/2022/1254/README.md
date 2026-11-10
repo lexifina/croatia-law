@@ -15,7 +15,7 @@ Odluka o izvješćivanju o tržištu stranih sredstava plaćanja · 1 versions, 
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2022-1254` (tags `odluka-2022-1254/<day>`; `python tools/on.py <day> odluka-2022-1254`).
+Act id: `odluka-2022-1254` (tags `odluka-2022-1254/<day>`; `python registry/tools/on.py <day> odluka-2022-1254`).
 
 ## Decisions made by hand
 

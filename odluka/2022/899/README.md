@@ -9,7 +9,7 @@ Odluka o davanju suglasnosti na Izmjene i dopune Financijskog plana Hrvatske age
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2022-899` (tags `odluka-2022-899/<day>`; `python tools/on.py <day> odluka-2022-899`).
+Act id: `odluka-2022-899` (tags `odluka-2022-899/<day>`; `python registry/tools/on.py <day> odluka-2022-899`).
 
 ## Decisions made by hand
 

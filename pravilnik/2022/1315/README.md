@@ -14,7 +14,7 @@ Pravilnik o sadržaju, obliku i načinu vođenja očevidnika o obavljenim inspek
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2022-1315` (tags `pravilnik-2022-1315/<day>`; `python tools/on.py <day> pravilnik-2022-1315`).
+Act id: `pravilnik-2022-1315` (tags `pravilnik-2022-1315/<day>`; `python registry/tools/on.py <day> pravilnik-2022-1315`).
 
 ## Decisions made by hand
 

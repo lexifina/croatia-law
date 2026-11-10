@@ -12,7 +12,7 @@ Pravilnik o izmjenama i dopuni Pravilnika o načinu ostvarivanja prava na zdravs
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2024-1796` (tags `pravilnik-2024-1796/<day>`; `python tools/on.py <day> pravilnik-2024-1796`).
+Act id: `pravilnik-2024-1796` (tags `pravilnik-2024-1796/<day>`; `python registry/tools/on.py <day> pravilnik-2024-1796`).
 
 ## Decisions made by hand
 

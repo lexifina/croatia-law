@@ -17,7 +17,7 @@ Pravilnik o izmjenama i dopunama Pravilnika o tržišnim standardima za meso per
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2012-1577` (tags `pravilnik-2012-1577/<day>`; `python tools/on.py <day> pravilnik-2012-1577`).
+Act id: `pravilnik-2012-1577` (tags `pravilnik-2012-1577/<day>`; `python registry/tools/on.py <day> pravilnik-2012-1577`).
 
 ## Decisions made by hand
 

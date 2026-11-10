@@ -11,7 +11,7 @@ Uredba o graničnim prijelazima na području Republike Hrvatske preko kojih je d
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2014-94` (tags `uredba-2014-94/<day>`; `python tools/on.py <day> uredba-2014-94`).
+Act id: `uredba-2014-94` (tags `uredba-2014-94/<day>`; `python registry/tools/on.py <day> uredba-2014-94`).
 
 ## Status
 

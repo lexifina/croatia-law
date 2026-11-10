@@ -5,7 +5,7 @@ Uredba o unutarnjem ustrojstvu Ministarstva regionalnoga razvoja i fondova Europ
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `uredba-2019-2590` (tags `uredba-2019-2590/<day>`; `python tools/on.py <day> uredba-2019-2590`).
+Act id: `uredba-2019-2590` (tags `uredba-2019-2590/<day>`; `python registry/tools/on.py <day> uredba-2019-2590`).
 
 ## Decisions made by hand
 

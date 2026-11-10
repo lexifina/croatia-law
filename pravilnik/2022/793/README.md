@@ -31,7 +31,7 @@ Pravilnik o načinu ostvarivanja prava na jednokratnu novčanu pomoć za civilne
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2022-793` (tags `pravilnik-2022-793/<day>`; `python tools/on.py <day> pravilnik-2022-793`).
+Act id: `pravilnik-2022-793` (tags `pravilnik-2022-793/<day>`; `python registry/tools/on.py <day> pravilnik-2022-793`).
 
 ## Decisions made by hand
 

@@ -8,7 +8,7 @@ Odluka o izmjenama i dopunama Odluke o vrednovanju programa međunarodne vojne i
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2019-619` (tags `odluka-2019-619/<day>`; `python tools/on.py <day> odluka-2019-619`).
+Act id: `odluka-2019-619` (tags `odluka-2019-619/<day>`; `python registry/tools/on.py <day> odluka-2019-619`).
 
 ## Decisions made by hand
 

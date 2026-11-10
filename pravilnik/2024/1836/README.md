@@ -9,7 +9,7 @@ Pravilnik o izmjeni Pravilnika o provedbi intervencije 72.01. Potpora za ograniÄ
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2024-1836` (tags `pravilnik-2024-1836/<day>`; `python tools/on.py <day> pravilnik-2024-1836`).
+Act id: `pravilnik-2024-1836` (tags `pravilnik-2024-1836/<day>`; `python registry/tools/on.py <day> pravilnik-2024-1836`).
 
 ## Decisions made by hand
 

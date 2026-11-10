@@ -9,7 +9,7 @@ Odluka o davanju suglasnosti na Izmjene i dopune Financijskog plana Centra za re
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2019-2235` (tags `odluka-2019-2235/<day>`; `python tools/on.py <day> odluka-2019-2235`).
+Act id: `odluka-2019-2235` (tags `odluka-2019-2235/<day>`; `python registry/tools/on.py <day> odluka-2019-2235`).
 
 ## Decisions made by hand
 

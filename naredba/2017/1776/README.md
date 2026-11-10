@@ -9,7 +9,7 @@ Naredba o izmjeni Naredbe o izmjenama i dopuni Naredbe o mjerama zaštite život
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `naredba-2017-1776` (tags `naredba-2017-1776/<day>`; `python tools/on.py <day> naredba-2017-1776`).
+Act id: `naredba-2017-1776` (tags `naredba-2017-1776/<day>`; `python registry/tools/on.py <day> naredba-2017-1776`).
 
 ## Decisions made by hand
 

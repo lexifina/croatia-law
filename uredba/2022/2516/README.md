@@ -5,7 +5,7 @@ Uredba o Zakonu o hitnoj intervenciji za rješavanje pitanja visokih cijena elek
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `uredba-2022-2516` (tags `uredba-2022-2516/<day>`; `python tools/on.py <day> uredba-2022-2516`).
+Act id: `uredba-2022-2516` (tags `uredba-2022-2516/<day>`; `python registry/tools/on.py <day> uredba-2022-2516`).
 
 ## Decisions made by hand
 

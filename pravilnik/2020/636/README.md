@@ -9,7 +9,7 @@ Pravilnik o izmjeni Pravilnika o uvjetima prostora, opremljenosti prostora odgov
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2020-636` (tags `pravilnik-2020-636/<day>`; `python tools/on.py <day> pravilnik-2020-636`).
+Act id: `pravilnik-2020-636` (tags `pravilnik-2020-636/<day>`; `python registry/tools/on.py <day> pravilnik-2020-636`).
 
 ## Decisions made by hand
 

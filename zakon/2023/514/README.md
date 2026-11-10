@@ -13,7 +13,7 @@ Zakon o izmjenama i dopuni Zakona o akvakulturi · 1 versions, from 2023-03-23 (
 | čl. 7 | [clanak-007.md](clanak-007.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2023-514` (tags `zakon-2023-514/<day>`; `python tools/on.py <day> zakon-2023-514`).
+Act id: `zakon-2023-514` (tags `zakon-2023-514/<day>`; `python registry/tools/on.py <day> zakon-2023-514`).
 
 ## Decisions made by hand
 

@@ -8,7 +8,7 @@ Odluka o posebnoj nagradi radnicima u sustavu zdravstva koji obavljaju poslove v
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2020-2594` (tags `odluka-2020-2594/<day>`; `python tools/on.py <day> odluka-2020-2594`).
+Act id: `odluka-2020-2594` (tags `odluka-2020-2594/<day>`; `python registry/tools/on.py <day> odluka-2020-2594`).
 
 ## Status
 

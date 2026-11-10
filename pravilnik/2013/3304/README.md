@@ -14,7 +14,7 @@ Pravilnik o izmjenama i dopunama Pravilnika o načinu vođenja očevidnika o kem
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2013-3304` (tags `pravilnik-2013-3304/<day>`; `python tools/on.py <day> pravilnik-2013-3304`).
+Act id: `pravilnik-2013-3304` (tags `pravilnik-2013-3304/<day>`; `python registry/tools/on.py <day> pravilnik-2013-3304`).
 
 ## Decisions made by hand
 

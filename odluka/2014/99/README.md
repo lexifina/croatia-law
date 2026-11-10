@@ -26,7 +26,7 @@ Odluka o obveznicima, jedinstvenoj osnovici, načinu i rokovima plaćanja obvezn
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2014-99` (tags `odluka-2014-99/<day>`; `python tools/on.py <day> odluka-2014-99`).
+Act id: `odluka-2014-99` (tags `odluka-2014-99/<day>`; `python registry/tools/on.py <day> odluka-2014-99`).
 
 ## Status
 

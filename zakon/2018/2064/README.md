@@ -25,7 +25,7 @@ Zakon o izmjenama i dopunama Zakona o fiskalizaciji u prometu gotovinom · 1 ver
 | čl. 19 | [clanak-019.md](clanak-019.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2018-2064` (tags `zakon-2018-2064/<day>`; `python tools/on.py <day> zakon-2018-2064`).
+Act id: `zakon-2018-2064` (tags `zakon-2018-2064/<day>`; `python registry/tools/on.py <day> zakon-2018-2064`).
 
 ## Decisions made by hand
 

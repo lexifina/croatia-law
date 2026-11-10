@@ -9,7 +9,7 @@ Naredba o prestanku važenja Naredbe o mjerama za sprječavanje unošenja i šir
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `naredba-2015-707` (tags `naredba-2015-707/<day>`; `python tools/on.py <day> naredba-2015-707`).
+Act id: `naredba-2015-707` (tags `naredba-2015-707/<day>`; `python registry/tools/on.py <day> naredba-2015-707`).
 
 ## Decisions made by hand
 

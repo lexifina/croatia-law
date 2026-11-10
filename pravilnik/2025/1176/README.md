@@ -10,7 +10,7 @@ Pravilnik o izmjenama Pravilnika o posebnim uvjetima za vozila kojima se obavlja
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2025-1176` (tags `pravilnik-2025-1176/<day>`; `python tools/on.py <day> pravilnik-2025-1176`).
+Act id: `pravilnik-2025-1176` (tags `pravilnik-2025-1176/<day>`; `python registry/tools/on.py <day> pravilnik-2025-1176`).
 
 ## Decisions made by hand
 

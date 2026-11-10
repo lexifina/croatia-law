@@ -31,7 +31,7 @@ Uredba o sustavu jamstva podrijetla energije · 1 versions, from 2023-03-11 (lat
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2023-470` (tags `uredba-2023-470/<day>`; `python tools/on.py <day> uredba-2023-470`).
+Act id: `uredba-2023-470` (tags `uredba-2023-470/<day>`; `python registry/tools/on.py <day> uredba-2023-470`).
 
 ## Decisions made by hand
 

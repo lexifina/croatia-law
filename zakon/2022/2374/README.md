@@ -82,7 +82,7 @@ Zakon o izmjenama i dopunama Zakona o poljoprivredi · 1 versions, from 2022-12-
 | čl. 76 | [clanak-076.md](clanak-076.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2022-2374` (tags `zakon-2022-2374/<day>`; `python tools/on.py <day> zakon-2022-2374`).
+Act id: `zakon-2022-2374` (tags `zakon-2022-2374/<day>`; `python registry/tools/on.py <day> zakon-2022-2374`).
 
 ## Decisions made by hand
 

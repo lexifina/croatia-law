@@ -24,7 +24,7 @@ Pravilnik o načinu ispitivanja i označavanja vatrenog oružja, oružja iz kate
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2018-1076` (tags `pravilnik-2018-1076/<day>`; `python tools/on.py <day> pravilnik-2018-1076`).
+Act id: `pravilnik-2018-1076` (tags `pravilnik-2018-1076/<day>`; `python registry/tools/on.py <day> pravilnik-2018-1076`).
 
 ## Status
 

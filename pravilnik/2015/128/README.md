@@ -5,7 +5,7 @@ Pravilnik o dostupnosti podataka potrošačima o ekonomičnosti potrošnje goriv
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `pravilnik-2015-128` (tags `pravilnik-2015-128/<day>`; `python tools/on.py <day> pravilnik-2015-128`).
+Act id: `pravilnik-2015-128` (tags `pravilnik-2015-128/<day>`; `python registry/tools/on.py <day> pravilnik-2015-128`).
 
 ## Decisions made by hand
 

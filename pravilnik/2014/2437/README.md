@@ -14,7 +14,7 @@ Pravilnik o stjecanju statusa specijalista iz uže specijalnosti · 1 versions, 
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2014-2437` (tags `pravilnik-2014-2437/<day>`; `python tools/on.py <day> pravilnik-2014-2437`).
+Act id: `pravilnik-2014-2437` (tags `pravilnik-2014-2437/<day>`; `python registry/tools/on.py <day> pravilnik-2014-2437`).
 
 ## Status
 

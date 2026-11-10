@@ -8,7 +8,7 @@ Odluka o postavljanju Zvonimira Frke Petešića za izvanrednog i opunomoćenog v
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2014-792` (tags `odluka-2014-792/<day>`; `python tools/on.py <day> odluka-2014-792`).
+Act id: `odluka-2014-792` (tags `odluka-2014-792/<day>`; `python registry/tools/on.py <day> odluka-2014-792`).
 
 ## Decisions made by hand
 

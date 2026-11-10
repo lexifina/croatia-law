@@ -83,7 +83,7 @@ Statut Turističke zajednice Krapinsko-zagorske županije · 1 versions, from 20
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `statut-2020-1458` (tags `statut-2020-1458/<day>`; `python tools/on.py <day> statut-2020-1458`).
+Act id: `statut-2020-1458` (tags `statut-2020-1458/<day>`; `python registry/tools/on.py <day> statut-2020-1458`).
 
 ## Decisions made by hand
 

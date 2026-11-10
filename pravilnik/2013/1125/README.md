@@ -9,7 +9,7 @@ Pravilnik o izmjeni Pravilnika o dodatku na plaću i načinu isplate plaće · 1
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2013-1125` (tags `pravilnik-2013-1125/<day>`; `python tools/on.py <day> pravilnik-2013-1125`).
+Act id: `pravilnik-2013-1125` (tags `pravilnik-2013-1125/<day>`; `python registry/tools/on.py <day> pravilnik-2013-1125`).
 
 ## Decisions made by hand
 

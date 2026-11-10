@@ -8,7 +8,7 @@ Odluka o kriterijima i načinu financiranja troškova javnog prijevoza redovitih
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2026-971` (tags `odluka-2026-971/<day>`; `python tools/on.py <day> odluka-2026-971`).
+Act id: `odluka-2026-971` (tags `odluka-2026-971/<day>`; `python registry/tools/on.py <day> odluka-2026-971`).
 
 ## Decisions made by hand
 

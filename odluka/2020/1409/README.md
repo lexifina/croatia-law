@@ -17,7 +17,7 @@ Odluka o uvjetima za prijam učenika u učeničke domove u školskoj godini 2020
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2020-1409` (tags `odluka-2020-1409/<day>`; `python tools/on.py <day> odluka-2020-1409`).
+Act id: `odluka-2020-1409` (tags `odluka-2020-1409/<day>`; `python registry/tools/on.py <day> odluka-2020-1409`).
 
 ## Decisions made by hand
 

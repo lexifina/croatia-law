@@ -9,7 +9,7 @@ Odluka o donošenju Izmjena i dopuna Programa obnove i saniranja posljedica kata
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2014-2917` (tags `odluka-2014-2917/<day>`; `python tools/on.py <day> odluka-2014-2917`).
+Act id: `odluka-2014-2917` (tags `odluka-2014-2917/<day>`; `python registry/tools/on.py <day> odluka-2014-2917`).
 
 ## Decisions made by hand
 

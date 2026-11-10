@@ -54,7 +54,7 @@ Pravilnik o organizacijskim zahtjevima za mirovinsko društvo za upravljanje dob
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 
-Act id: `pravilnik-2014-2009` (tags `pravilnik-2014-2009/<day>`; `python tools/on.py <day> pravilnik-2014-2009`).
+Act id: `pravilnik-2014-2009` (tags `pravilnik-2014-2009/<day>`; `python registry/tools/on.py <day> pravilnik-2014-2009`).
 
 ## Status
 

@@ -5,7 +5,7 @@ Odluka o osnovici za izračun iznosa zajamčene minimalne naknade · 2 versions,
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `odluka-2023-2512` (tags `odluka-2023-2512/<day>`; `python tools/on.py <day> odluka-2023-2512`).
+Act id: `odluka-2023-2512` (tags `odluka-2023-2512/<day>`; `python registry/tools/on.py <day> odluka-2023-2512`).
 
 ## Decisions made by hand
 

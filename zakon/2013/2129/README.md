@@ -12,7 +12,7 @@ Zakonn o izmjenama i dopuni Zakona o sportu · 1 versions, from 2013-07-30 (late
 | čl. 6 | [clanak-006.md](clanak-006.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2013-2129` (tags `zakon-2013-2129/<day>`; `python tools/on.py <day> zakon-2013-2129`).
+Act id: `zakon-2013-2129` (tags `zakon-2013-2129/<day>`; `python registry/tools/on.py <day> zakon-2013-2129`).
 
 ## Decisions made by hand
 

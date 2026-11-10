@@ -11,7 +11,7 @@ Pravilnik o izmjeni i dopuni Pravilnika o sestrinskoj dokumentaciji u bolničkim
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2012-2805` (tags `pravilnik-2012-2805/<day>`; `python tools/on.py <day> pravilnik-2012-2805`).
+Act id: `pravilnik-2012-2805` (tags `pravilnik-2012-2805/<day>`; `python registry/tools/on.py <day> pravilnik-2012-2805`).
 
 ## Decisions made by hand
 

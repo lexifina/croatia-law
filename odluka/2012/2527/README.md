@@ -8,7 +8,7 @@ Odluka o prestanku važenja Odluke o osnivanju Koordinacijskog odbora za praćen
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2012-2527` (tags `odluka-2012-2527/<day>`; `python tools/on.py <day> odluka-2012-2527`).
+Act id: `odluka-2012-2527` (tags `odluka-2012-2527/<day>`; `python registry/tools/on.py <day> odluka-2012-2527`).
 
 ## Decisions made by hand
 

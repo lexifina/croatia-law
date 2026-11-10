@@ -8,7 +8,7 @@ Odluka o ovjeravanju agregata za istakanje goriva za motorna vozila i agregata z
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2013-665` (tags `odluka-2013-665/<day>`; `python tools/on.py <day> odluka-2013-665`).
+Act id: `odluka-2013-665` (tags `odluka-2013-665/<day>`; `python registry/tools/on.py <day> odluka-2013-665`).
 
 ## Decisions made by hand
 

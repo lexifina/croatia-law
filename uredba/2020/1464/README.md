@@ -27,7 +27,7 @@ Uredba o snimanju iz zraka · 1 versions, from 2020-07-11 (latest in force: 2020
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2020-1464` (tags `uredba-2020-1464/<day>`; `python tools/on.py <day> uredba-2020-1464`).
+Act id: `uredba-2020-1464` (tags `uredba-2020-1464/<day>`; `python registry/tools/on.py <day> uredba-2020-1464`).
 
 ## Decisions made by hand
 

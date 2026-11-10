@@ -18,7 +18,7 @@ Zakon o izmjenama i dopunama Zakona o poticanju ulaganja · 1 versions, from 202
 | čl. 12 | [clanak-012.md](clanak-012.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2020-697` (tags `zakon-2020-697/<day>`; `python tools/on.py <day> zakon-2020-697`).
+Act id: `zakon-2020-697` (tags `zakon-2020-697/<day>`; `python registry/tools/on.py <day> zakon-2020-697`).
 
 ## Decisions made by hand
 

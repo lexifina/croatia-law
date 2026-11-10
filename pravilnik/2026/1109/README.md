@@ -19,7 +19,7 @@ Pravilnik o načinu darovanja građevnog materijala u provedbi Programa pomoći 
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2026-1109` (tags `pravilnik-2026-1109/<day>`; `python tools/on.py <day> pravilnik-2026-1109`).
+Act id: `pravilnik-2026-1109` (tags `pravilnik-2026-1109/<day>`; `python registry/tools/on.py <day> pravilnik-2026-1109`).
 
 ## Decisions made by hand
 

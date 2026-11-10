@@ -16,7 +16,7 @@ Naputak o okvirnom sadržaju, minimalnom skupu podataka te načinu javne objave 
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `naputak-2023-1003` (tags `naputak-2023-1003/<day>`; `python tools/on.py <day> naputak-2023-1003`).
+Act id: `naputak-2023-1003` (tags `naputak-2023-1003/<day>`; `python registry/tools/on.py <day> naputak-2023-1003`).
 
 ## Decisions made by hand
 

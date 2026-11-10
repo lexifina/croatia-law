@@ -22,7 +22,7 @@ Zakon o izmjenama i dopunama Zakona o porezu na dobit · 1 versions, from 2017-0
 | čl. 16 | [clanak-016.md](clanak-016.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2016-2527` (tags `zakon-2016-2527/<day>`; `python tools/on.py <day> zakon-2016-2527`).
+Act id: `zakon-2016-2527` (tags `zakon-2016-2527/<day>`; `python registry/tools/on.py <day> zakon-2016-2527`).
 
 ## Status
 

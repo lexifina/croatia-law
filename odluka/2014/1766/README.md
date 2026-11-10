@@ -9,7 +9,7 @@ ODLUKA O VISINI NAKNADE ZA OSNIVANJE PRAVA SLUŽNOSTI I PRAVA GRAĐENJA NA JAVNO
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2014-1766` (tags `odluka-2014-1766/<day>`; `python tools/on.py <day> odluka-2014-1766`).
+Act id: `odluka-2014-1766` (tags `odluka-2014-1766/<day>`; `python registry/tools/on.py <day> odluka-2014-1766`).
 
 ## Decisions made by hand
 

@@ -23,7 +23,7 @@ Pravilnik o podnošenju trošarinskih obrazaca i obrazaca posebnih poreza uporab
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2022-790` (tags `pravilnik-2022-790/<day>`; `python tools/on.py <day> pravilnik-2022-790`).
+Act id: `pravilnik-2022-790` (tags `pravilnik-2022-790/<day>`; `python registry/tools/on.py <day> pravilnik-2022-790`).
 
 ## Decisions made by hand
 

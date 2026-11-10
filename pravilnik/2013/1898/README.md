@@ -15,7 +15,7 @@ Pravilnik o sadržaju redovitih izvješća i izvješća na zahtjev Hrvatske agen
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2013-1898` (tags `pravilnik-2013-1898/<day>`; `python tools/on.py <day> pravilnik-2013-1898`).
+Act id: `pravilnik-2013-1898` (tags `pravilnik-2013-1898/<day>`; `python registry/tools/on.py <day> pravilnik-2013-1898`).
 
 ## Status
 

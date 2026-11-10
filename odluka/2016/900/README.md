@@ -8,7 +8,7 @@ Odluka o obustavi postupka sanacije Specijalne bolnice za medicinsku rehabilitac
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2016-900` (tags `odluka-2016-900/<day>`; `python tools/on.py <day> odluka-2016-900`).
+Act id: `odluka-2016-900` (tags `odluka-2016-900/<day>`; `python registry/tools/on.py <day> odluka-2016-900`).
 
 ## Decisions made by hand
 

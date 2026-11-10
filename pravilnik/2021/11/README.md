@@ -11,7 +11,7 @@ Pravilnik o izmjenama i dopuni Pravilnika o uvjetima i načinu prijevoza opasnih
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2021-11` (tags `pravilnik-2021-11/<day>`; `python tools/on.py <day> pravilnik-2021-11`).
+Act id: `pravilnik-2021-11` (tags `pravilnik-2021-11/<day>`; `python registry/tools/on.py <day> pravilnik-2021-11`).
 
 ## Decisions made by hand
 

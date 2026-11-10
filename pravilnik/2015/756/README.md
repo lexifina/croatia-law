@@ -9,7 +9,7 @@ Pravilnik o prestanku važenja Pravilnika o organiziranju, financiranju i donoš
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2015-756` (tags `pravilnik-2015-756/<day>`; `python tools/on.py <day> pravilnik-2015-756`).
+Act id: `pravilnik-2015-756` (tags `pravilnik-2015-756/<day>`; `python registry/tools/on.py <day> pravilnik-2015-756`).
 
 ## Decisions made by hand
 

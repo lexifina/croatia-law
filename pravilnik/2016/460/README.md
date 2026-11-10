@@ -5,7 +5,7 @@ Pravilnik o uvjetima za stjecanje i provjeru stručnih znanja potrebnih za dobiv
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `pravilnik-2016-460` (tags `pravilnik-2016-460/<day>`; `python tools/on.py <day> pravilnik-2016-460`).
+Act id: `pravilnik-2016-460` (tags `pravilnik-2016-460/<day>`; `python registry/tools/on.py <day> pravilnik-2016-460`).
 
 ## Decisions made by hand
 

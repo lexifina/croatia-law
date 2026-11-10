@@ -16,7 +16,7 @@ Pravilnik o izmjenama i dopunama Pravilnika o ovlaštenjima za poslove zaštite 
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2024-174` (tags `pravilnik-2024-174/<day>`; `python tools/on.py <day> pravilnik-2024-174`).
+Act id: `pravilnik-2024-174` (tags `pravilnik-2024-174/<day>`; `python registry/tools/on.py <day> pravilnik-2024-174`).
 
 ## Decisions made by hand
 

@@ -5,7 +5,7 @@ Odluka koordinaciji aktivnosti unutar okvira za gospodarsko upravljanje Europske
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `odluka-2016-604` (tags `odluka-2016-604/<day>`; `python tools/on.py <day> odluka-2016-604`).
+Act id: `odluka-2016-604` (tags `odluka-2016-604/<day>`; `python registry/tools/on.py <day> odluka-2016-604`).
 
 ## Decisions made by hand
 

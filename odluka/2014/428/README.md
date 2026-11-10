@@ -13,7 +13,7 @@ Odluka o jednokratnoj novčanoj pomoći i naknadi putnih i selidbenih troškova 
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2014-428` (tags `odluka-2014-428/<day>`; `python tools/on.py <day> odluka-2014-428`).
+Act id: `odluka-2014-428` (tags `odluka-2014-428/<day>`; `python registry/tools/on.py <day> odluka-2014-428`).
 
 ## Status
 

@@ -9,7 +9,7 @@ Odluka ministra poljoprivrede klasa: 400-01/14-01/182, urbroj: 525-07/0570-14-1 
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2014-2321` (tags `odluka-2014-2321/<day>`; `python tools/on.py <day> odluka-2014-2321`).
+Act id: `odluka-2014-2321` (tags `odluka-2014-2321/<day>`; `python registry/tools/on.py <day> odluka-2014-2321`).
 
 ## Decisions made by hand
 

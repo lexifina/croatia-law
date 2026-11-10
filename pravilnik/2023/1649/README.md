@@ -21,7 +21,7 @@ Pravilnik o pretpostavkama i načinu izbora stečajnoga upravitelja metodom slu�
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2023-1649` (tags `pravilnik-2023-1649/<day>`; `python tools/on.py <day> pravilnik-2023-1649`).
+Act id: `pravilnik-2023-1649` (tags `pravilnik-2023-1649/<day>`; `python registry/tools/on.py <day> pravilnik-2023-1649`).
 
 ## Decisions made by hand
 

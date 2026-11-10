@@ -16,7 +16,7 @@ Zakon o izmjenama i dopunama Zakona o vodi za ljudsku potrošnju · 1 versions, 
 | čl. 10 | [clanak-010.md](clanak-010.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2020-332` (tags `zakon-2020-332/<day>`; `python tools/on.py <day> zakon-2020-332`).
+Act id: `zakon-2020-332` (tags `zakon-2020-332/<day>`; `python registry/tools/on.py <day> zakon-2020-332`).
 
 ## Decisions made by hand
 

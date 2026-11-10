@@ -12,7 +12,7 @@ Pravilnik o materijalno-tehničkim uvjetima za rad građevinskih inspektora · 1
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2019-2324` (tags `pravilnik-2019-2324/<day>`; `python tools/on.py <day> pravilnik-2019-2324`).
+Act id: `pravilnik-2019-2324` (tags `pravilnik-2019-2324/<day>`; `python registry/tools/on.py <day> pravilnik-2019-2324`).
 
 ## Status
 

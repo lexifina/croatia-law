@@ -36,7 +36,7 @@ Pravilnik o uvjetima i načinu priznavanja prava na opskrbninu · 1 versions, fr
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2011-1906` (tags `pravilnik-2011-1906/<day>`; `python tools/on.py <day> pravilnik-2011-1906`).
+Act id: `pravilnik-2011-1906` (tags `pravilnik-2011-1906/<day>`; `python registry/tools/on.py <day> pravilnik-2011-1906`).
 
 ## Decisions made by hand
 

@@ -8,7 +8,7 @@ Odluka o primjeni i vođenju Sustava za naplatu javnih davanja putem platnih kar
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2019-2428` (tags `odluka-2019-2428/<day>`; `python tools/on.py <day> odluka-2019-2428`).
+Act id: `odluka-2019-2428` (tags `odluka-2019-2428/<day>`; `python registry/tools/on.py <day> odluka-2019-2428`).
 
 ## Status
 

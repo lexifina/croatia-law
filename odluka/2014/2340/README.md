@@ -12,7 +12,7 @@ Odluka o visini naknada za tehnički pregled i druge poslove koji se obavljaju u
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2014-2340` (tags `odluka-2014-2340/<day>`; `python tools/on.py <day> odluka-2014-2340`).
+Act id: `odluka-2014-2340` (tags `odluka-2014-2340/<day>`; `python registry/tools/on.py <day> odluka-2014-2340`).
 
 ## Status
 

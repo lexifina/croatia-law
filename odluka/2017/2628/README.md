@@ -35,7 +35,7 @@ Odluka o lokalnim porezima Općine Končanica · 1 versions, from 2017-12-01 (la
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2017-2628` (tags `odluka-2017-2628/<day>`; `python tools/on.py <day> odluka-2017-2628`).
+Act id: `odluka-2017-2628` (tags `odluka-2017-2628/<day>`; `python registry/tools/on.py <day> odluka-2017-2628`).
 
 ## Decisions made by hand
 

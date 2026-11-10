@@ -16,7 +16,7 @@ Zakon o izmjenama i dopunama Zakona o provedbi Uredbi Europske unije o zaštiti 
 | čl. 10 | [clanak-010.md](clanak-010.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2014-1846` (tags `zakon-2014-1846/<day>`; `python tools/on.py <day> zakon-2014-1846`).
+Act id: `zakon-2014-1846` (tags `zakon-2014-1846/<day>`; `python registry/tools/on.py <day> zakon-2014-1846`).
 
 ## Decisions made by hand
 

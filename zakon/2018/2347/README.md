@@ -9,7 +9,7 @@ Zakon o izmjenama Zakona o provedbi Uredbe (EU) 2015/757 Europskog parlamenta i 
 | čl. 3 | [clanak-003.md](clanak-003.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2018-2347` (tags `zakon-2018-2347/<day>`; `python tools/on.py <day> zakon-2018-2347`).
+Act id: `zakon-2018-2347` (tags `zakon-2018-2347/<day>`; `python registry/tools/on.py <day> zakon-2018-2347`).
 
 ## Decisions made by hand
 

@@ -10,7 +10,7 @@ Naredba o izmjenama Naredbe o mjerama kontrole za suzbijanje afričke svinjske k
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `naredba-2025-2057` (tags `naredba-2025-2057/<day>`; `python tools/on.py <day> naredba-2025-2057`).
+Act id: `naredba-2025-2057` (tags `naredba-2025-2057/<day>`; `python registry/tools/on.py <day> naredba-2025-2057`).
 
 ## Decisions made by hand
 

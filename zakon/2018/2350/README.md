@@ -74,7 +74,7 @@ Zakon o izmjenama i dopunama Zakona o poslovima i djelatnostima prostornog uređ
 | čl. 68 | [clanak-068.md](clanak-068.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2018-2350` (tags `zakon-2018-2350/<day>`; `python tools/on.py <day> zakon-2018-2350`).
+Act id: `zakon-2018-2350` (tags `zakon-2018-2350/<day>`; `python registry/tools/on.py <day> zakon-2018-2350`).
 
 ## Decisions made by hand
 

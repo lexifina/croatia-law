@@ -12,7 +12,7 @@ Pravilnik o izmjenama Pravilnika o provedbi intervencije 77.06. »Potpora LEADER
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2024-1683` (tags `pravilnik-2024-1683/<day>`; `python tools/on.py <day> pravilnik-2024-1683`).
+Act id: `pravilnik-2024-1683` (tags `pravilnik-2024-1683/<day>`; `python registry/tools/on.py <day> pravilnik-2024-1683`).
 
 ## Decisions made by hand
 

@@ -17,7 +17,7 @@ Pravilnik o izmjenama i dopunama Pravilnika o zahtjevima za izvođenje operacija
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2011-788` (tags `pravilnik-2011-788/<day>`; `python tools/on.py <day> pravilnik-2011-788`).
+Act id: `pravilnik-2011-788` (tags `pravilnik-2011-788/<day>`; `python registry/tools/on.py <day> pravilnik-2011-788`).
 
 ## Decisions made by hand
 

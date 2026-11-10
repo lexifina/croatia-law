@@ -9,7 +9,7 @@ Odluka o izmjenama Odluke o utvrđivanju Popisa posebno skupih lijekova utvrđen
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2017-2687` (tags `odluka-2017-2687/<day>`; `python tools/on.py <day> odluka-2017-2687`).
+Act id: `odluka-2017-2687` (tags `odluka-2017-2687/<day>`; `python registry/tools/on.py <day> odluka-2017-2687`).
 
 ## Decisions made by hand
 

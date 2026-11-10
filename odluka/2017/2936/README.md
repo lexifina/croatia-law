@@ -33,7 +33,7 @@ Odluka o lokalnim porezima Grada Labina · 1 versions, from 2018-01-01 (latest i
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2017-2936` (tags `odluka-2017-2936/<day>`; `python tools/on.py <day> odluka-2017-2936`).
+Act id: `odluka-2017-2936` (tags `odluka-2017-2936/<day>`; `python registry/tools/on.py <day> odluka-2017-2936`).
 
 ## Status
 

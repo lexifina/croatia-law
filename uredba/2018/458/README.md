@@ -58,7 +58,7 @@ Uredba o mjerama zaštite od ionizirajućeg zračenja te postupanjima u slučaju
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2018-458` (tags `uredba-2018-458/<day>`; `python tools/on.py <day> uredba-2018-458`).
+Act id: `uredba-2018-458` (tags `uredba-2018-458/<day>`; `python registry/tools/on.py <day> uredba-2018-458`).
 
 ## Status
 

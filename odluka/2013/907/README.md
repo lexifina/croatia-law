@@ -8,7 +8,7 @@ Odluka o visini nagrade i naknade troškova rada miritelja u postupcima mirenja 
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2013-907` (tags `odluka-2013-907/<day>`; `python tools/on.py <day> odluka-2013-907`).
+Act id: `odluka-2013-907` (tags `odluka-2013-907/<day>`; `python registry/tools/on.py <day> odluka-2013-907`).
 
 ## Status
 

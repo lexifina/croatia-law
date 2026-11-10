@@ -12,7 +12,7 @@ Naputak o načinu provođenja mjera zaštite zdravlja životinja od zaraznih i n
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `naputak-2020-1637` (tags `naputak-2020-1637/<day>`; `python tools/on.py <day> naputak-2020-1637`).
+Act id: `naputak-2020-1637` (tags `naputak-2020-1637/<day>`; `python registry/tools/on.py <day> naputak-2020-1637`).
 
 ## Decisions made by hand
 

@@ -10,7 +10,7 @@ Pravilnik o izmjenama i dopuni Pravilnika o zaštiti na radu za mjesta rada · 1
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2026-802` (tags `pravilnik-2026-802/<day>`; `python tools/on.py <day> pravilnik-2026-802`).
+Act id: `pravilnik-2026-802` (tags `pravilnik-2026-802/<day>`; `python registry/tools/on.py <day> pravilnik-2026-802`).
 
 ## Decisions made by hand
 

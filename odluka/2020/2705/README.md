@@ -8,7 +8,7 @@ Odluka o potvrđivanju Izmjena i dopuna Statuta Hrvatskog zavoda za mirovinsko o
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2020-2705` (tags `odluka-2020-2705/<day>`; `python tools/on.py <day> odluka-2020-2705`).
+Act id: `odluka-2020-2705` (tags `odluka-2020-2705/<day>`; `python registry/tools/on.py <day> odluka-2020-2705`).
 
 ## Decisions made by hand
 

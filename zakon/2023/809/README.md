@@ -33,7 +33,7 @@ Zakon o izmjenama i dopunama Zakona o prijenosu i obradi podataka o putnicima u 
 | čl. 27 | [clanak-027.md](clanak-027.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2023-809` (tags `zakon-2023-809/<day>`; `python tools/on.py <day> zakon-2023-809`).
+Act id: `zakon-2023-809` (tags `zakon-2023-809/<day>`; `python registry/tools/on.py <day> zakon-2023-809`).
 
 ## Decisions made by hand
 

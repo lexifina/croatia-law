@@ -30,7 +30,7 @@ Pravilnik o temeljnom vojnom osposobljavanju · 1 versions, from 2025-12-24 (lat
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2025-2328` (tags `pravilnik-2025-2328/<day>`; `python tools/on.py <day> pravilnik-2025-2328`).
+Act id: `pravilnik-2025-2328` (tags `pravilnik-2025-2328/<day>`; `python registry/tools/on.py <day> pravilnik-2025-2328`).
 
 ## Decisions made by hand
 

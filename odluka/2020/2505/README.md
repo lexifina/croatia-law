@@ -8,7 +8,7 @@ Odluka o usklađivanju prihodovnog cenzusa za ostvarivanje prava na plaćanje pr
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2020-2505` (tags `odluka-2020-2505/<day>`; `python tools/on.py <day> odluka-2020-2505`).
+Act id: `odluka-2020-2505` (tags `odluka-2020-2505/<day>`; `python registry/tools/on.py <day> odluka-2020-2505`).
 
 ## Decisions made by hand
 

@@ -29,7 +29,7 @@ Pravilnik o postupku utvrđivanja psihofizičkoga stanja djeteta, učenika te sa
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2011-1214` (tags `pravilnik-2011-1214/<day>`; `python tools/on.py <day> pravilnik-2011-1214`).
+Act id: `pravilnik-2011-1214` (tags `pravilnik-2011-1214/<day>`; `python registry/tools/on.py <day> pravilnik-2011-1214`).
 
 ## Status
 

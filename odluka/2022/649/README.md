@@ -9,7 +9,7 @@ Odluka o izmjeni Odluke o minimalno potrebnim deviznim potraživanjima · 1 vers
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2022-649` (tags `odluka-2022-649/<day>`; `python tools/on.py <day> odluka-2022-649`).
+Act id: `odluka-2022-649` (tags `odluka-2022-649/<day>`; `python registry/tools/on.py <day> odluka-2022-649`).
 
 ## Decisions made by hand
 

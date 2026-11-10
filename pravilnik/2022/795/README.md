@@ -29,7 +29,7 @@ Pravilnik o načinu ostvarivanja prava na novčanu naknadu za civilne stradalnik
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2022-795` (tags `pravilnik-2022-795/<day>`; `python tools/on.py <day> pravilnik-2022-795`).
+Act id: `pravilnik-2022-795` (tags `pravilnik-2022-795/<day>`; `python registry/tools/on.py <day> pravilnik-2022-795`).
 
 ## Decisions made by hand
 

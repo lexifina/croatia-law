@@ -8,7 +8,7 @@ Odluka o privremenoj zabrani i ograničavanju prelaska preko graničnih prijelaz
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2021-696` (tags `odluka-2021-696/<day>`; `python tools/on.py <day> odluka-2021-696`).
+Act id: `odluka-2021-696` (tags `odluka-2021-696/<day>`; `python registry/tools/on.py <day> odluka-2021-696`).
 
 ## Status
 

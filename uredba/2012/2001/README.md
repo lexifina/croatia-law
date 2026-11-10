@@ -18,7 +18,7 @@ Uredba o načinu ustrojavanja, sadržaju i vođenju Registra investicija · 1 ve
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2012-2001` (tags `uredba-2012-2001/<day>`; `python tools/on.py <day> uredba-2012-2001`).
+Act id: `uredba-2012-2001` (tags `uredba-2012-2001/<day>`; `python registry/tools/on.py <day> uredba-2012-2001`).
 
 ## Decisions made by hand
 

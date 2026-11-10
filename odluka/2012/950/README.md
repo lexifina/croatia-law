@@ -9,7 +9,7 @@ Odluka o izmjenama Odluke o izvješćima o jamstvenom kapitalu i kapitalnim zaht
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2012-950` (tags `odluka-2012-950/<day>`; `python tools/on.py <day> odluka-2012-950`).
+Act id: `odluka-2012-950` (tags `odluka-2012-950/<day>`; `python registry/tools/on.py <day> odluka-2012-950`).
 
 ## Decisions made by hand
 

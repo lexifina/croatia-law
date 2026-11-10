@@ -12,7 +12,7 @@ Odluka o sadržaju i obliku u kojem se potrošaču daju informacije prije ugovar
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2015-51` (tags `odluka-2015-51/<day>`; `python tools/on.py <day> odluka-2015-51`).
+Act id: `odluka-2015-51` (tags `odluka-2015-51/<day>`; `python registry/tools/on.py <day> odluka-2015-51`).
 
 ## Status
 

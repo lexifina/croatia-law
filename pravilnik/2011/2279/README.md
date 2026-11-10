@@ -9,7 +9,7 @@ Pravilnik o izmjenama Pravilnika o javnoovršiteljskim uredima i radnom vremenu 
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2011-2279` (tags `pravilnik-2011-2279/<day>`; `python tools/on.py <day> pravilnik-2011-2279`).
+Act id: `pravilnik-2011-2279` (tags `pravilnik-2011-2279/<day>`; `python registry/tools/on.py <day> pravilnik-2011-2279`).
 
 ## Decisions made by hand
 

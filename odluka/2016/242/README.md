@@ -8,7 +8,7 @@ Odluka kojom se stavljaju van snage nastavni planovi i programi za učenike s te
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2016-242` (tags `odluka-2016-242/<day>`; `python tools/on.py <day> odluka-2016-242`).
+Act id: `odluka-2016-242` (tags `odluka-2016-242/<day>`; `python registry/tools/on.py <day> odluka-2016-242`).
 
 ## Decisions made by hand
 

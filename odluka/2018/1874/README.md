@@ -8,7 +8,7 @@ Odluka o dopuni Odluke o zaprječivanju cestovnih komunikacija i putova na drža
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2018-1874` (tags `odluka-2018-1874/<day>`; `python tools/on.py <day> odluka-2018-1874`).
+Act id: `odluka-2018-1874` (tags `odluka-2018-1874/<day>`; `python registry/tools/on.py <day> odluka-2018-1874`).
 
 ## Decisions made by hand
 

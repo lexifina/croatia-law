@@ -13,7 +13,7 @@ Zakon o izmjenama Zakona o službenim kontrolama koje se provode sukladno propis
 | čl. 7 | [clanak-007.md](clanak-007.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2014-270` (tags `zakon-2014-270/<day>`; `python tools/on.py <day> zakon-2014-270`).
+Act id: `zakon-2014-270` (tags `zakon-2014-270/<day>`; `python registry/tools/on.py <day> zakon-2014-270`).
 
 ## Decisions made by hand
 

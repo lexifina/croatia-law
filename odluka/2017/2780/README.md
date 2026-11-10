@@ -9,7 +9,7 @@ Odluka o izmjenama i dopunama Odluke o porezima Općine Podstrana · 1 versions,
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2017-2780` (tags `odluka-2017-2780/<day>`; `python tools/on.py <day> odluka-2017-2780`).
+Act id: `odluka-2017-2780` (tags `odluka-2017-2780/<day>`; `python registry/tools/on.py <day> odluka-2017-2780`).
 
 ## Decisions made by hand
 

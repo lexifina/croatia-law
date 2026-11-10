@@ -9,7 +9,7 @@ Odluka o usklađenju sredstava jamstvenog pologa za 2011. godinu · 1 versions, 
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2012-735` (tags `odluka-2012-735/<day>`; `python tools/on.py <day> odluka-2012-735`).
+Act id: `odluka-2012-735` (tags `odluka-2012-735/<day>`; `python registry/tools/on.py <day> odluka-2012-735`).
 
 ## Decisions made by hand
 

@@ -10,7 +10,7 @@ Odluka o visini poreznih stopa godišnjeg poreza na dohodak Općine Baška Voda 
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2023-2198` (tags `odluka-2023-2198/<day>`; `python tools/on.py <day> odluka-2023-2198`).
+Act id: `odluka-2023-2198` (tags `odluka-2023-2198/<day>`; `python registry/tools/on.py <day> odluka-2023-2198`).
 
 ## Decisions made by hand
 

@@ -8,7 +8,7 @@ Naputak o provedbi projekta "Hrvatsko gospodarstvo i NATO" · 1 versions, from 2
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `naputak-2013-2958` (tags `naputak-2013-2958/<day>`; `python tools/on.py <day> naputak-2013-2958`).
+Act id: `naputak-2013-2958` (tags `naputak-2013-2958/<day>`; `python registry/tools/on.py <day> naputak-2013-2958`).
 
 ## Decisions made by hand
 

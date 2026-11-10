@@ -11,7 +11,7 @@ Uredba o izmjeni Uredbe o unutarnjem ustrojstvu Državnog zavoda za intelektualn
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2025-77` (tags `uredba-2025-77/<day>`; `python tools/on.py <day> uredba-2025-77`).
+Act id: `uredba-2025-77` (tags `uredba-2025-77/<day>`; `python registry/tools/on.py <day> uredba-2025-77`).
 
 ## Decisions made by hand
 

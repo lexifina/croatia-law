@@ -10,7 +10,7 @@ Uredba o dopunama Uredbe o utvrđivanju poslova iz članka 4.a i 4.c Zakona o fi
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2018-1448` (tags `uredba-2018-1448/<day>`; `python tools/on.py <day> uredba-2018-1448`).
+Act id: `uredba-2018-1448` (tags `uredba-2018-1448/<day>`; `python registry/tools/on.py <day> uredba-2018-1448`).
 
 ## Decisions made by hand
 

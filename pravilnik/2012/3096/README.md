@@ -10,7 +10,7 @@ Pravilnik o izmjenama i dopunama Pravilnika o proglašavanju turističkih općin
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2012-3096` (tags `pravilnik-2012-3096/<day>`; `python tools/on.py <day> pravilnik-2012-3096`).
+Act id: `pravilnik-2012-3096` (tags `pravilnik-2012-3096/<day>`; `python registry/tools/on.py <day> pravilnik-2012-3096`).
 
 ## Decisions made by hand
 

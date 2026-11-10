@@ -5,7 +5,7 @@ Pravilnik o Jedinstvenom registru računa · 2 versions, from 2018-10-13 (latest
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `pravilnik-2018-1752` (tags `pravilnik-2018-1752/<day>`; `python tools/on.py <day> pravilnik-2018-1752`).
+Act id: `pravilnik-2018-1752` (tags `pravilnik-2018-1752/<day>`; `python registry/tools/on.py <day> pravilnik-2018-1752`).
 
 ## Decisions made by hand
 

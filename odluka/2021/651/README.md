@@ -8,7 +8,7 @@ Odluka o stavljanju izvan snage Općih obvezujućih pravila za uzgoj peradi s ob
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2021-651` (tags `odluka-2021-651/<day>`; `python tools/on.py <day> odluka-2021-651`).
+Act id: `odluka-2021-651` (tags `odluka-2021-651/<day>`; `python registry/tools/on.py <day> odluka-2021-651`).
 
 ## Decisions made by hand
 

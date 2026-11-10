@@ -87,7 +87,7 @@ Statut Hrvatske komore arhitekata · 1 versions, from 2016-01-07 (latest in forc
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `statut-2015-2624` (tags `statut-2015-2624/<day>`; `python tools/on.py <day> statut-2015-2624`).
+Act id: `statut-2015-2624` (tags `statut-2015-2624/<day>`; `python registry/tools/on.py <day> statut-2015-2624`).
 
 ## Status
 

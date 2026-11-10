@@ -49,7 +49,7 @@ Zakon o izmjenama i dopunama Zakona o alternativnim investicijskim fondovima · 
 | čl. 43 | [clanak-043.md](clanak-043.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2014-2687` (tags `zakon-2014-2687/<day>`; `python tools/on.py <day> zakon-2014-2687`).
+Act id: `zakon-2014-2687` (tags `zakon-2014-2687/<day>`; `python registry/tools/on.py <day> zakon-2014-2687`).
 
 ## Decisions made by hand
 

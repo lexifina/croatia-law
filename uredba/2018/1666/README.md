@@ -10,7 +10,7 @@ Uredba o izmjeni Uredbe o osnivanju Državne škole za javnu upravu · 1 version
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2018-1666` (tags `uredba-2018-1666/<day>`; `python tools/on.py <day> uredba-2018-1666`).
+Act id: `uredba-2018-1666` (tags `uredba-2018-1666/<day>`; `python registry/tools/on.py <day> uredba-2018-1666`).
 
 ## Decisions made by hand
 

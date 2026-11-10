@@ -10,7 +10,7 @@ Uredba o izmjenama Uredbe o Agenciji za pravni promet i posredovanje nekretninam
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2012-1862` (tags `uredba-2012-1862/<day>`; `python tools/on.py <day> uredba-2012-1862`).
+Act id: `uredba-2012-1862` (tags `uredba-2012-1862/<day>`; `python registry/tools/on.py <day> uredba-2012-1862`).
 
 ## Decisions made by hand
 

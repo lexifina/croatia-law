@@ -14,7 +14,7 @@ Odluka o naknadi za razvoj sustava javne odvodnje trgovačkog društva 6. MAJ OD
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2022-1240` (tags `odluka-2022-1240/<day>`; `python tools/on.py <day> odluka-2022-1240`).
+Act id: `odluka-2022-1240` (tags `odluka-2022-1240/<day>`; `python registry/tools/on.py <day> odluka-2022-1240`).
 
 ## Status
 

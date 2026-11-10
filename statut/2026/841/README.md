@@ -10,7 +10,7 @@ Izmjene Statuta Hrvatskog zavoda za mirovinsko osiguranje · 1 versions, from 20
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `statut-2026-841` (tags `statut-2026-841/<day>`; `python tools/on.py <day> statut-2026-841`).
+Act id: `statut-2026-841` (tags `statut-2026-841/<day>`; `python registry/tools/on.py <day> statut-2026-841`).
 
 ## Decisions made by hand
 

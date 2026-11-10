@@ -9,7 +9,7 @@ Pravilnik o dopuni Pravilnika o plutajućim objektima · 1 versions, from 2015-0
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2015-1616` (tags `pravilnik-2015-1616/<day>`; `python tools/on.py <day> pravilnik-2015-1616`).
+Act id: `pravilnik-2015-1616` (tags `pravilnik-2015-1616/<day>`; `python registry/tools/on.py <day> pravilnik-2015-1616`).
 
 ## Decisions made by hand
 

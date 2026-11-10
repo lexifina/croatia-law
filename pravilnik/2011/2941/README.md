@@ -9,7 +9,7 @@ Pravilnik o izmjenama Pravilnika o načinu raspodjele i obračuna troškova za i
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2011-2941` (tags `pravilnik-2011-2941/<day>`; `python tools/on.py <day> pravilnik-2011-2941`).
+Act id: `pravilnik-2011-2941` (tags `pravilnik-2011-2941/<day>`; `python registry/tools/on.py <day> pravilnik-2011-2941`).
 
 ## Decisions made by hand
 

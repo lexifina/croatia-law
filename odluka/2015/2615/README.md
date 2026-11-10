@@ -9,7 +9,7 @@ Odluka o izvješćivanju o stanju određenih potraživanja i obveza u stranim sr
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2015-2615` (tags `odluka-2015-2615/<day>`; `python tools/on.py <day> odluka-2015-2615`).
+Act id: `odluka-2015-2615` (tags `odluka-2015-2615/<day>`; `python registry/tools/on.py <day> odluka-2015-2615`).
 
 ## Status
 

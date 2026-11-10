@@ -11,7 +11,7 @@ Pravilnik o izmjeni i dopuni Pravilnika o nagradama i naknadi troškova javnih b
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2012-2482` (tags `pravilnik-2012-2482/<day>`; `python tools/on.py <day> pravilnik-2012-2482`).
+Act id: `pravilnik-2012-2482` (tags `pravilnik-2012-2482/<day>`; `python registry/tools/on.py <day> pravilnik-2012-2482`).
 
 ## Decisions made by hand
 

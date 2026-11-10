@@ -5,7 +5,7 @@ Uredba o zakupu šumskog zemljišta u vlasništvu Republike Hrvatske · 2 versio
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `uredba-2019-1045` (tags `uredba-2019-1045/<day>`; `python tools/on.py <day> uredba-2019-1045`).
+Act id: `uredba-2019-1045` (tags `uredba-2019-1045/<day>`; `python registry/tools/on.py <day> uredba-2019-1045`).
 
 ## Decisions made by hand
 

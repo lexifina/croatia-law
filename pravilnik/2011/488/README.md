@@ -13,7 +13,7 @@ Pravilnik o načinu provedbe vanjskog vrednovanja i korištenju rezultata vanjsk
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2011-488` (tags `pravilnik-2011-488/<day>`; `python tools/on.py <day> pravilnik-2011-488`).
+Act id: `pravilnik-2011-488` (tags `pravilnik-2011-488/<day>`; `python registry/tools/on.py <day> pravilnik-2011-488`).
 
 ## Status
 

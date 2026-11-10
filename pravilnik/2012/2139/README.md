@@ -10,7 +10,7 @@ Pravilnik o izmjenama Pravilnika o provedbi Mjere 302 "Diversifikacija i razvoj 
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2012-2139` (tags `pravilnik-2012-2139/<day>`; `python tools/on.py <day> pravilnik-2012-2139`).
+Act id: `pravilnik-2012-2139` (tags `pravilnik-2012-2139/<day>`; `python registry/tools/on.py <day> pravilnik-2012-2139`).
 
 ## Decisions made by hand
 

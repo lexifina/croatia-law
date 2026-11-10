@@ -9,7 +9,7 @@ Naputak o donošenju i izvršavanju Programa uređenja i održavanja plovnih put
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `naputak-2018-2158` (tags `naputak-2018-2158/<day>`; `python tools/on.py <day> naputak-2018-2158`).
+Act id: `naputak-2018-2158` (tags `naputak-2018-2158/<day>`; `python registry/tools/on.py <day> naputak-2018-2158`).
 
 ## Status
 

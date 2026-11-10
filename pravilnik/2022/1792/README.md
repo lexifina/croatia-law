@@ -15,7 +15,7 @@ Pravilnik o uvjetima i načinu provođenja sezonskog sniženja · 1 versions, fr
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2022-1792` (tags `pravilnik-2022-1792/<day>`; `python tools/on.py <day> pravilnik-2022-1792`).
+Act id: `pravilnik-2022-1792` (tags `pravilnik-2022-1792/<day>`; `python registry/tools/on.py <day> pravilnik-2022-1792`).
 
 ## Decisions made by hand
 

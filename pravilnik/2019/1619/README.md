@@ -10,7 +10,7 @@ Pravilnik o izmjenama i dopunama Pravilnika o unutarnjoj reviziji u javnom sekto
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2019-1619` (tags `pravilnik-2019-1619/<day>`; `python tools/on.py <day> pravilnik-2019-1619`).
+Act id: `pravilnik-2019-1619` (tags `pravilnik-2019-1619/<day>`; `python registry/tools/on.py <day> pravilnik-2019-1619`).
 
 ## Decisions made by hand
 

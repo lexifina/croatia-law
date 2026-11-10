@@ -8,7 +8,7 @@ Odluka o postavljanju prof. dr. sc. Nenada Preloga za izvanrednog i opunomoćeno
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2016-1210` (tags `odluka-2016-1210/<day>`; `python tools/on.py <day> odluka-2016-1210`).
+Act id: `odluka-2016-1210` (tags `odluka-2016-1210/<day>`; `python registry/tools/on.py <day> odluka-2016-1210`).
 
 ## Decisions made by hand
 

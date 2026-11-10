@@ -5,7 +5,7 @@ Pravilnik o uvjetima za priznavanje inozemnih stručnih kvalifikacija za obavlja
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `pravilnik-2019-1665` (tags `pravilnik-2019-1665/<day>`; `python tools/on.py <day> pravilnik-2019-1665`).
+Act id: `pravilnik-2019-1665` (tags `pravilnik-2019-1665/<day>`; `python registry/tools/on.py <day> pravilnik-2019-1665`).
 
 ## Decisions made by hand
 

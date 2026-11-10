@@ -14,7 +14,7 @@ Uredba o utvrđivanju visine boravišne pristojbe za 2013. godinu · 1 versions,
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2012-1671` (tags `uredba-2012-1671/<day>`; `python tools/on.py <day> uredba-2012-1671`).
+Act id: `uredba-2012-1671` (tags `uredba-2012-1671/<day>`; `python registry/tools/on.py <day> uredba-2012-1671`).
 
 ## Decisions made by hand
 

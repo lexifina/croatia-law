@@ -10,7 +10,7 @@ Pravilnik o sadržaju dokumentacije za izdavanje odobrenja za primjenu umanjenja
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 
-Act id: `pravilnik-2015-2506` (tags `pravilnik-2015-2506/<day>`; `python tools/on.py <day> pravilnik-2015-2506`).
+Act id: `pravilnik-2015-2506` (tags `pravilnik-2015-2506/<day>`; `python registry/tools/on.py <day> pravilnik-2015-2506`).
 
 ## Decisions made by hand
 

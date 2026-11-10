@@ -14,7 +14,7 @@ Zakon o izmjenama i dopunama Zakona o članarinama u turističkim zajednicama ·
 | čl. 8 | [clanak-008.md](clanak-008.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2020-2766` (tags `zakon-2020-2766/<day>`; `python tools/on.py <day> zakon-2020-2766`).
+Act id: `zakon-2020-2766` (tags `zakon-2020-2766/<day>`; `python registry/tools/on.py <day> zakon-2020-2766`).
 
 ## Decisions made by hand
 

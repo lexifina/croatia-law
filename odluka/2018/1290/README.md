@@ -8,7 +8,7 @@ Odluka o izmjenama Odluke o osnivanju Vijeća za gospodarska pitanja Predsjednic
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2018-1290` (tags `odluka-2018-1290/<day>`; `python tools/on.py <day> odluka-2018-1290`).
+Act id: `odluka-2018-1290` (tags `odluka-2018-1290/<day>`; `python registry/tools/on.py <day> odluka-2018-1290`).
 
 ## Decisions made by hand
 

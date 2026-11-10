@@ -31,7 +31,7 @@ Pravilnik o provedbi Sheme školskog voća i povrća · 1 versions, from 2014-04
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2014-984` (tags `pravilnik-2014-984/<day>`; `python tools/on.py <day> pravilnik-2014-984`).
+Act id: `pravilnik-2014-984` (tags `pravilnik-2014-984/<day>`; `python registry/tools/on.py <day> pravilnik-2014-984`).
 
 ## Status
 

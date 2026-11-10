@@ -15,7 +15,7 @@ Pravilnik o sadržaju podataka evidencije obavljanja stručnih geodetskih poslov
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2018-1758` (tags `pravilnik-2018-1758/<day>`; `python tools/on.py <day> pravilnik-2018-1758`).
+Act id: `pravilnik-2018-1758` (tags `pravilnik-2018-1758/<day>`; `python registry/tools/on.py <day> pravilnik-2018-1758`).
 
 ## Decisions made by hand
 

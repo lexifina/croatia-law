@@ -10,7 +10,7 @@ Pravilnik o izmjeni Pravilnika o pravima, uvjetima i načinu ostvarivanja prava 
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2013-2554` (tags `pravilnik-2013-2554/<day>`; `python tools/on.py <day> pravilnik-2013-2554`).
+Act id: `pravilnik-2013-2554` (tags `pravilnik-2013-2554/<day>`; `python registry/tools/on.py <day> pravilnik-2013-2554`).
 
 ## Status
 

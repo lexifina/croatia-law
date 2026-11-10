@@ -8,7 +8,7 @@ Odluka o koeficijentu korekcije za minimalni pristupni paket u 2014. godini · 1
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2014-451` (tags `odluka-2014-451/<day>`; `python tools/on.py <day> odluka-2014-451`).
+Act id: `odluka-2014-451` (tags `odluka-2014-451/<day>`; `python registry/tools/on.py <day> odluka-2014-451`).
 
 ## Decisions made by hand
 

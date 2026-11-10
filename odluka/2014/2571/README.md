@@ -8,7 +8,7 @@ Odluka o izmjeni Odluke o uvjetima i postupku sklapanja drugog odnosno trećeg u
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2014-2571` (tags `odluka-2014-2571/<day>`; `python tools/on.py <day> odluka-2014-2571`).
+Act id: `odluka-2014-2571` (tags `odluka-2014-2571/<day>`; `python registry/tools/on.py <day> odluka-2014-2571`).
 
 ## Decisions made by hand
 

@@ -11,7 +11,7 @@ Zakon o izmjenama i dopuni Zakona o konačnosti namire u platnim sustavima i sus
 | čl. 5 | [clanak-005.md](clanak-005.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2024-2245` (tags `zakon-2024-2245/<day>`; `python tools/on.py <day> zakon-2024-2245`).
+Act id: `zakon-2024-2245` (tags `zakon-2024-2245/<day>`; `python registry/tools/on.py <day> zakon-2024-2245`).
 
 ## Decisions made by hand
 

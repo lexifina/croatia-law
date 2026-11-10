@@ -19,7 +19,7 @@ Pravilnik o izmjenama i dopunama Pravilnika o evidenciji uporabe poljoprivrednog
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2017-581` (tags `pravilnik-2017-581/<day>`; `python tools/on.py <day> pravilnik-2017-581`).
+Act id: `pravilnik-2017-581` (tags `pravilnik-2017-581/<day>`; `python registry/tools/on.py <day> pravilnik-2017-581`).
 
 ## Decisions made by hand
 

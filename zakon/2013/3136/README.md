@@ -94,7 +94,7 @@ Zakon o Poreznoj upravi · 1 versions, from 2013-12-19 (latest in force: 2013-12
 | čl. 88 | [clanak-088.md](clanak-088.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2013-3136` (tags `zakon-2013-3136/<day>`; `python tools/on.py <day> zakon-2013-3136`).
+Act id: `zakon-2013-3136` (tags `zakon-2013-3136/<day>`; `python registry/tools/on.py <day> zakon-2013-3136`).
 
 ## Status
 

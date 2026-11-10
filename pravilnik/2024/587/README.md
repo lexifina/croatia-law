@@ -10,7 +10,7 @@ Pravilnik o dopunama Pravilnika o stavljanju na tržište sjemena krmnog bilja �
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2024-587` (tags `pravilnik-2024-587/<day>`; `python tools/on.py <day> pravilnik-2024-587`).
+Act id: `pravilnik-2024-587` (tags `pravilnik-2024-587/<day>`; `python registry/tools/on.py <day> pravilnik-2024-587`).
 
 ## Decisions made by hand
 

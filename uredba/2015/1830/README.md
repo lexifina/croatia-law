@@ -13,7 +13,7 @@ Uredba o izmjenama i dopunama Uredbe o osnivanju prava građenja i prava služno
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2015-1830` (tags `uredba-2015-1830/<day>`; `python tools/on.py <day> uredba-2015-1830`).
+Act id: `uredba-2015-1830` (tags `uredba-2015-1830/<day>`; `python registry/tools/on.py <day> uredba-2015-1830`).
 
 ## Decisions made by hand
 

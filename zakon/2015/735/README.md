@@ -10,7 +10,7 @@ Zakon o izmjeni Zakona o uskrati prava na uvećanje plaće po osnovi ostvarenih 
 | čl. 4 | [clanak-004.md](clanak-004.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2015-735` (tags `zakon-2015-735/<day>`; `python tools/on.py <day> zakon-2015-735`).
+Act id: `zakon-2015-735` (tags `zakon-2015-735/<day>`; `python registry/tools/on.py <day> zakon-2015-735`).
 
 ## Decisions made by hand
 

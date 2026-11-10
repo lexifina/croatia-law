@@ -35,7 +35,7 @@ Odluka o jamstvenom kapitalu institucija za elektronički novac · 1 versions, f
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2011-59` (tags `odluka-2011-59/<day>`; `python tools/on.py <day> odluka-2011-59`).
+Act id: `odluka-2011-59` (tags `odluka-2011-59/<day>`; `python registry/tools/on.py <day> odluka-2011-59`).
 
 ## Status
 

@@ -13,7 +13,7 @@ Pravilnik o izmjenama i dopunama Pravilnika o standardima i normativima prava na
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2011-106` (tags `pravilnik-2011-106/<day>`; `python tools/on.py <day> pravilnik-2011-106`).
+Act id: `pravilnik-2011-106` (tags `pravilnik-2011-106/<day>`; `python registry/tools/on.py <day> pravilnik-2011-106`).
 
 ## Status
 

@@ -25,7 +25,7 @@ Pravilnik o izradi programa priuštivog stanovanja · 1 versions, from 2026-10-2
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2026-1393` (tags `pravilnik-2026-1393/<day>`; `python tools/on.py <day> pravilnik-2026-1393`).
+Act id: `pravilnik-2026-1393` (tags `pravilnik-2026-1393/<day>`; `python registry/tools/on.py <day> pravilnik-2026-1393`).
 
 ## Decisions made by hand
 

@@ -19,7 +19,7 @@ Pravilnik o uvjetima priznavanja uzgojnih organizacija koje vode ili uspostavlja
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2011-2232` (tags `pravilnik-2011-2232/<day>`; `python tools/on.py <day> pravilnik-2011-2232`).
+Act id: `pravilnik-2011-2232` (tags `pravilnik-2011-2232/<day>`; `python registry/tools/on.py <day> pravilnik-2011-2232`).
 
 ## Status
 

@@ -9,7 +9,7 @@ Odluka o stavljanju izvan snage Standarda i normativa zdravstvene zaštite iz ob
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2014-2580` (tags `odluka-2014-2580/<day>`; `python tools/on.py <day> odluka-2014-2580`).
+Act id: `odluka-2014-2580` (tags `odluka-2014-2580/<day>`; `python registry/tools/on.py <day> odluka-2014-2580`).
 
 ## Decisions made by hand
 

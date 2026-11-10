@@ -21,7 +21,7 @@ Pravilnik o sadržaju podataka u izjavama i podataka u Središnjem registru stan
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2025-2364` (tags `pravilnik-2025-2364/<day>`; `python tools/on.py <day> pravilnik-2025-2364`).
+Act id: `pravilnik-2025-2364` (tags `pravilnik-2025-2364/<day>`; `python registry/tools/on.py <day> pravilnik-2025-2364`).
 
 ## Decisions made by hand
 

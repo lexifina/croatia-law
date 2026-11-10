@@ -26,7 +26,7 @@ Pravilnik o jedinstvenom informacijskom sustavu mineralnih sirovina i registrima
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2013-3045` (tags `pravilnik-2013-3045/<day>`; `python tools/on.py <day> pravilnik-2013-3045`).
+Act id: `pravilnik-2013-3045` (tags `pravilnik-2013-3045/<day>`; `python registry/tools/on.py <day> pravilnik-2013-3045`).
 
 ## Status
 

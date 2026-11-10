@@ -15,7 +15,7 @@ Naputak o stavljanju na tržište Republike Hrvatske genetski modificirane hrane
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `naputak-2013-1805` (tags `naputak-2013-1805/<day>`; `python tools/on.py <day> naputak-2013-1805`).
+Act id: `naputak-2013-1805` (tags `naputak-2013-1805/<day>`; `python registry/tools/on.py <day> naputak-2013-1805`).
 
 ## Status
 

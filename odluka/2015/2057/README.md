@@ -8,7 +8,7 @@ Odluka o davanju prava priređivanja igara na sreću u casinima · 1 versions, f
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2015-2057` (tags `odluka-2015-2057/<day>`; `python tools/on.py <day> odluka-2015-2057`).
+Act id: `odluka-2015-2057` (tags `odluka-2015-2057/<day>`; `python registry/tools/on.py <day> odluka-2015-2057`).
 
 ## Status
 

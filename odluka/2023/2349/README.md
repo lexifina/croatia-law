@@ -8,7 +8,7 @@ Odluka o visini poreznih stopa godišnjeg poreza na dohodak na području Općine
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2023-2349` (tags `odluka-2023-2349/<day>`; `python tools/on.py <day> odluka-2023-2349`).
+Act id: `odluka-2023-2349` (tags `odluka-2023-2349/<day>`; `python registry/tools/on.py <day> odluka-2023-2349`).
 
 ## Decisions made by hand
 

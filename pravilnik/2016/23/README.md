@@ -5,7 +5,7 @@ Pravilnik o uzajamnoj razmjeni informacija i izvješćivanju o kvaliteti zraka i
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `pravilnik-2016-23` (tags `pravilnik-2016-23/<day>`; `python tools/on.py <day> pravilnik-2016-23`).
+Act id: `pravilnik-2016-23` (tags `pravilnik-2016-23/<day>`; `python registry/tools/on.py <day> pravilnik-2016-23`).
 
 ## Decisions made by hand
 

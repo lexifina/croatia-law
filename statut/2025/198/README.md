@@ -75,7 +75,7 @@ Statut Hrvatskog Crvenog križa · 1 versions, from 2025-02-15 (latest in force:
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `statut-2025-198` (tags `statut-2025-198/<day>`; `python tools/on.py <day> statut-2025-198`).
+Act id: `statut-2025-198` (tags `statut-2025-198/<day>`; `python registry/tools/on.py <day> statut-2025-198`).
 
 ## Decisions made by hand
 

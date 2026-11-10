@@ -13,7 +13,7 @@ Odluka o izmjeni i dopuni Odluke o troškovima u postupcima arbitraže · 1 vers
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2023-2093` (tags `odluka-2023-2093/<day>`; `python tools/on.py <day> odluka-2023-2093`).
+Act id: `odluka-2023-2093` (tags `odluka-2023-2093/<day>`; `python registry/tools/on.py <day> odluka-2023-2093`).
 
 ## Decisions made by hand
 

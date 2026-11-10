@@ -30,7 +30,7 @@ Uredba o osnivanju Lučke uprave Zadar · 1 versions, from 2025-03-11 (latest in
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2025-503` (tags `uredba-2025-503/<day>`; `python tools/on.py <day> uredba-2025-503`).
+Act id: `uredba-2025-503` (tags `uredba-2025-503/<day>`; `python registry/tools/on.py <day> uredba-2025-503`).
 
 ## Decisions made by hand
 

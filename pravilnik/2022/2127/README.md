@@ -17,7 +17,7 @@ Pravilnik o sadržaju i načinu vođenja registra izvlaštenih nekretnina · 1 v
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2022-2127` (tags `pravilnik-2022-2127/<day>`; `python tools/on.py <day> pravilnik-2022-2127`).
+Act id: `pravilnik-2022-2127` (tags `pravilnik-2022-2127/<day>`; `python registry/tools/on.py <day> pravilnik-2022-2127`).
 
 ## Decisions made by hand
 

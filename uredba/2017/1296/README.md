@@ -5,7 +5,7 @@ Uredba o unutarnjem ustrojstvu Središnjeg državnog ureda za središnju javnu n
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `uredba-2017-1296` (tags `uredba-2017-1296/<day>`; `python tools/on.py <day> uredba-2017-1296`).
+Act id: `uredba-2017-1296` (tags `uredba-2017-1296/<day>`; `python registry/tools/on.py <day> uredba-2017-1296`).
 
 ## Decisions made by hand
 

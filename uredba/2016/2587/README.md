@@ -27,7 +27,7 @@ Uredba o unutarnjem ustrojstvu Središnjeg državnog ureda za šport · 1 versio
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2016-2587` (tags `uredba-2016-2587/<day>`; `python tools/on.py <day> uredba-2016-2587`).
+Act id: `uredba-2016-2587` (tags `uredba-2016-2587/<day>`; `python registry/tools/on.py <day> uredba-2016-2587`).
 
 ## Status
 

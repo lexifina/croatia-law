@@ -19,7 +19,7 @@ Pravilnik o uvjetima za unutarnji ustroj općih i specijalnih bolnica · 1 versi
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2013-3100` (tags `pravilnik-2013-3100/<day>`; `python tools/on.py <day> pravilnik-2013-3100`).
+Act id: `pravilnik-2013-3100` (tags `pravilnik-2013-3100/<day>`; `python registry/tools/on.py <day> pravilnik-2013-3100`).
 
 ## Status
 

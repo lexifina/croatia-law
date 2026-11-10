@@ -8,7 +8,7 @@ Odluka o potvrđivanju Statuta Središnjeg registra osiguranika · 1 versions, f
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2025-1934` (tags `odluka-2025-1934/<day>`; `python tools/on.py <day> odluka-2025-1934`).
+Act id: `odluka-2025-1934` (tags `odluka-2025-1934/<day>`; `python registry/tools/on.py <day> odluka-2025-1934`).
 
 ## Decisions made by hand
 

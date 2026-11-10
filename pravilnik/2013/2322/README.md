@@ -69,7 +69,7 @@ Pravilnik o načinu provođenja imunizacije, seroprofilakse, kemoprofilakse prot
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2013-2322` (tags `pravilnik-2013-2322/<day>`; `python tools/on.py <day> pravilnik-2013-2322`).
+Act id: `pravilnik-2013-2322` (tags `pravilnik-2013-2322/<day>`; `python registry/tools/on.py <day> pravilnik-2013-2322`).
 
 ## Status
 

@@ -15,7 +15,7 @@ Pravilnik o politici primitaka Središnjeg klirinškog depozitarnog društva · 
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2019-393` (tags `pravilnik-2019-393/<day>`; `python tools/on.py <day> pravilnik-2019-393`).
+Act id: `pravilnik-2019-393` (tags `pravilnik-2019-393/<day>`; `python registry/tools/on.py <day> pravilnik-2019-393`).
 
 ## Status
 

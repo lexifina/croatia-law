@@ -9,7 +9,7 @@ Pravilnik o izmjeni Pravilnika o osposobljavanju kandidata za vozače · 1 versi
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2012-3161` (tags `pravilnik-2012-3161/<day>`; `python tools/on.py <day> pravilnik-2012-3161`).
+Act id: `pravilnik-2012-3161` (tags `pravilnik-2012-3161/<day>`; `python registry/tools/on.py <day> pravilnik-2012-3161`).
 
 ## Decisions made by hand
 

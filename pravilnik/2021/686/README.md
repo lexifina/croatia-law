@@ -9,7 +9,7 @@ Pravilnik o izmjeni Pravilnika o uvjetima za davanje dozvole specijaliziranim pr
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2021-686` (tags `pravilnik-2021-686/<day>`; `python tools/on.py <day> pravilnik-2021-686`).
+Act id: `pravilnik-2021-686` (tags `pravilnik-2021-686/<day>`; `python registry/tools/on.py <day> pravilnik-2021-686`).
 
 ## Decisions made by hand
 

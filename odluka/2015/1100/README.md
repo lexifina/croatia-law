@@ -8,7 +8,7 @@ Odluka o izmjenama Odluke o osnivanju Savjeta za mlade · 1 versions, from 2015-
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2015-1100` (tags `odluka-2015-1100/<day>`; `python tools/on.py <day> odluka-2015-1100`).
+Act id: `odluka-2015-1100` (tags `odluka-2015-1100/<day>`; `python registry/tools/on.py <day> odluka-2015-1100`).
 
 ## Decisions made by hand
 

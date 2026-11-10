@@ -17,7 +17,7 @@ Zakon o izmjenama i dopunama Zakona o područjima županija, gradova i općina u
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 
-Act id: `zakon-2015-2137` (tags `zakon-2015-2137/<day>`; `python tools/on.py <day> zakon-2015-2137`).
+Act id: `zakon-2015-2137` (tags `zakon-2015-2137/<day>`; `python registry/tools/on.py <day> zakon-2015-2137`).
 
 ## Decisions made by hand
 

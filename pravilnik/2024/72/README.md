@@ -46,7 +46,7 @@ Pravilnik o normativima i standardima za pružanje zdravstvenih usluga u zdravst
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2024-72` (tags `pravilnik-2024-72/<day>`; `python tools/on.py <day> pravilnik-2024-72`).
+Act id: `pravilnik-2024-72` (tags `pravilnik-2024-72/<day>`; `python registry/tools/on.py <day> pravilnik-2024-72`).
 
 ## Status
 

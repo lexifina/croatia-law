@@ -37,7 +37,7 @@ Pravilnik o državnom planu prostornog razvoja · 1 versions, from 2015-11-14 (l
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2015-2327` (tags `pravilnik-2015-2327/<day>`; `python tools/on.py <day> pravilnik-2015-2327`).
+Act id: `pravilnik-2015-2327` (tags `pravilnik-2015-2327/<day>`; `python registry/tools/on.py <day> pravilnik-2015-2327`).
 
 ## Status
 

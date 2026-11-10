@@ -16,7 +16,7 @@ Pravilnik o izmjenama i dopunama Pravilnika o ribolovnim mogućnostima i ribolov
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2019-737` (tags `pravilnik-2019-737/<day>`; `python tools/on.py <day> pravilnik-2019-737`).
+Act id: `pravilnik-2019-737` (tags `pravilnik-2019-737/<day>`; `python registry/tools/on.py <day> pravilnik-2019-737`).
 
 ## Decisions made by hand
 

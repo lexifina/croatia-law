@@ -9,7 +9,7 @@ Pravilnik o dopunama Pravilnika o upućivanju pravosudnih dužnosnika i državni
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2014-134` (tags `pravilnik-2014-134/<day>`; `python tools/on.py <day> pravilnik-2014-134`).
+Act id: `pravilnik-2014-134` (tags `pravilnik-2014-134/<day>`; `python registry/tools/on.py <day> pravilnik-2014-134`).
 
 ## Decisions made by hand
 

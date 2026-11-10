@@ -10,7 +10,7 @@ Pravilnik o izmjeni Pravilnika o poslovima na kojima se ne smije zaposliti malol
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2016-1998` (tags `pravilnik-2016-1998/<day>`; `python tools/on.py <day> pravilnik-2016-1998`).
+Act id: `pravilnik-2016-1998` (tags `pravilnik-2016-1998/<day>`; `python registry/tools/on.py <day> pravilnik-2016-1998`).
 
 ## Decisions made by hand
 

@@ -32,7 +32,7 @@ Odluka o osnovama za sklapanje ugovora o provođenju specifične zdravstvene za�
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2014-897` (tags `odluka-2014-897/<day>`; `python tools/on.py <day> odluka-2014-897`).
+Act id: `odluka-2014-897` (tags `odluka-2014-897/<day>`; `python registry/tools/on.py <day> odluka-2014-897`).
 
 ## Status
 

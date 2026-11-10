@@ -32,7 +32,7 @@ Uredba o praćenju emisija stakleničkih plinova, politike i mjera za njihovo sm
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2017-163` (tags `uredba-2017-163/<day>`; `python tools/on.py <day> uredba-2017-163`).
+Act id: `uredba-2017-163` (tags `uredba-2017-163/<day>`; `python registry/tools/on.py <day> uredba-2017-163`).
 
 ## Status
 

@@ -10,7 +10,7 @@ Uredba o izmjeni Zakona o Hrvatskoj radioteleviziji · 1 versions, from 2016-09-
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2016-1791` (tags `uredba-2016-1791/<day>`; `python tools/on.py <day> uredba-2016-1791`).
+Act id: `uredba-2016-1791` (tags `uredba-2016-1791/<day>`; `python registry/tools/on.py <day> uredba-2016-1791`).
 
 ## Decisions made by hand
 

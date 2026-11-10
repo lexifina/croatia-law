@@ -5,7 +5,7 @@ Odluka o načinu korištenja dječjih igrališta i otvorenih sportskih igrališt
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `odluka-2020-1089` (tags `odluka-2020-1089/<day>`; `python tools/on.py <day> odluka-2020-1089`).
+Act id: `odluka-2020-1089` (tags `odluka-2020-1089/<day>`; `python registry/tools/on.py <day> odluka-2020-1089`).
 
 ## Decisions made by hand
 

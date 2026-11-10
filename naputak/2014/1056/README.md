@@ -8,7 +8,7 @@ Naputak za primjenu odredbe članka 74. stavka 1. Zakona o poljoprivrednom zemlj
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `naputak-2014-1056` (tags `naputak-2014-1056/<day>`; `python tools/on.py <day> naputak-2014-1056`).
+Act id: `naputak-2014-1056` (tags `naputak-2014-1056/<day>`; `python registry/tools/on.py <day> naputak-2014-1056`).
 
 ## Decisions made by hand
 

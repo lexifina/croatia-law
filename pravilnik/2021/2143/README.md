@@ -9,7 +9,7 @@ Pravilnik o dopuni Pravilnika o uvjetima i naƒçinima nastavka obrazovanja za vi≈
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2021-2143` (tags `pravilnik-2021-2143/<day>`; `python tools/on.py <day> pravilnik-2021-2143`).
+Act id: `pravilnik-2021-2143` (tags `pravilnik-2021-2143/<day>`; `python registry/tools/on.py <day> pravilnik-2021-2143`).
 
 ## Decisions made by hand
 

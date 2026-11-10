@@ -9,7 +9,7 @@ Naredba o izmjeni i dopuni Naredbe o načinu uplaćivanja prihoda proračuna, ob
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `naredba-2011-2752` (tags `naredba-2011-2752/<day>`; `python tools/on.py <day> naredba-2011-2752`).
+Act id: `naredba-2011-2752` (tags `naredba-2011-2752/<day>`; `python registry/tools/on.py <day> naredba-2011-2752`).
 
 ## Decisions made by hand
 

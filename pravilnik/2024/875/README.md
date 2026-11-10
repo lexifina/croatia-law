@@ -12,7 +12,7 @@ Pravilnik o sadržaju zahtjeva za registraciju PEPP-a · 1 versions, from 2024-0
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2024-875` (tags `pravilnik-2024-875/<day>`; `python tools/on.py <day> pravilnik-2024-875`).
+Act id: `pravilnik-2024-875` (tags `pravilnik-2024-875/<day>`; `python registry/tools/on.py <day> pravilnik-2024-875`).
 
 ## Decisions made by hand
 

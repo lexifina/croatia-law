@@ -9,7 +9,7 @@ Odluka o izmjenama i dopunama Odluke o utvrđivanju Popisa posebno skupih lijeko
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2020-1302` (tags `odluka-2020-1302/<day>`; `python tools/on.py <day> odluka-2020-1302`).
+Act id: `odluka-2020-1302` (tags `odluka-2020-1302/<day>`; `python registry/tools/on.py <day> odluka-2020-1302`).
 
 ## Decisions made by hand
 

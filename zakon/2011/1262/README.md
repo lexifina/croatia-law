@@ -32,7 +32,7 @@ Zakon o izmjenama i dopunama Zakona o zaštiti prirode · 1 versions, from 2011-
 | čl. 26 | [clanak-026.md](clanak-026.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2011-1262` (tags `zakon-2011-1262/<day>`; `python tools/on.py <day> zakon-2011-1262`).
+Act id: `zakon-2011-1262` (tags `zakon-2011-1262/<day>`; `python registry/tools/on.py <day> zakon-2011-1262`).
 
 ## Decisions made by hand
 

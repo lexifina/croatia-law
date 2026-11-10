@@ -78,7 +78,7 @@ ZAKON O IZMJENAMA I DOPUNAMA ZAKONA O DRŽAVNIM SLUŽBENICIMA · 1 versions, fro
 | čl. 72 | [clanak-072.md](clanak-072.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2011-1093` (tags `zakon-2011-1093/<day>`; `python tools/on.py <day> zakon-2011-1093`).
+Act id: `zakon-2011-1093` (tags `zakon-2011-1093/<day>`; `python registry/tools/on.py <day> zakon-2011-1093`).
 
 ## Decisions made by hand
 

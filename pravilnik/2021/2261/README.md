@@ -19,7 +19,7 @@ Pravilnik o provedbi Programa potpore malim mljekarama za sufinanciranje troško
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2021-2261` (tags `pravilnik-2021-2261/<day>`; `python tools/on.py <day> pravilnik-2021-2261`).
+Act id: `pravilnik-2021-2261` (tags `pravilnik-2021-2261/<day>`; `python registry/tools/on.py <day> pravilnik-2021-2261`).
 
 ## Decisions made by hand
 

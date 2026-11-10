@@ -12,7 +12,7 @@ Pravilnik o izmjenama i dopunama Pravilnika o radu u sustavu eSpis · 1 versions
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2017-2623` (tags `pravilnik-2017-2623/<day>`; `python tools/on.py <day> pravilnik-2017-2623`).
+Act id: `pravilnik-2017-2623` (tags `pravilnik-2017-2623/<day>`; `python registry/tools/on.py <day> pravilnik-2017-2623`).
 
 ## Decisions made by hand
 

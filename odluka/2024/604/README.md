@@ -8,7 +8,7 @@ Odluka o donošenju Akcijskog plana za administrativno rasterećenje gospodarstv
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2024-604` (tags `odluka-2024-604/<day>`; `python tools/on.py <day> odluka-2024-604`).
+Act id: `odluka-2024-604` (tags `odluka-2024-604/<day>`; `python registry/tools/on.py <day> odluka-2024-604`).
 
 ## Decisions made by hand
 

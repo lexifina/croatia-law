@@ -5,7 +5,7 @@ Odluka o visini poreznih stopa poreza na dohodak na području Općine Lupoglav �
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `odluka-2023-2118` (tags `odluka-2023-2118/<day>`; `python tools/on.py <day> odluka-2023-2118`).
+Act id: `odluka-2023-2118` (tags `odluka-2023-2118/<day>`; `python registry/tools/on.py <day> odluka-2023-2118`).
 
 ## Decisions made by hand
 

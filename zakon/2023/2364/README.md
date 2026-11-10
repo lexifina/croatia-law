@@ -52,7 +52,7 @@ Zakon o izmjenama i dopunama Zakona o obveznim osiguranjima u prometu · 1 versi
 | čl. 46 | [clanak-046.md](clanak-046.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2023-2364` (tags `zakon-2023-2364/<day>`; `python tools/on.py <day> zakon-2023-2364`).
+Act id: `zakon-2023-2364` (tags `zakon-2023-2364/<day>`; `python registry/tools/on.py <day> zakon-2023-2364`).
 
 ## Decisions made by hand
 

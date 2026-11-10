@@ -9,7 +9,7 @@ Odluka o usvajanju Izmjena Jamstvenog programa i Općih uvjeta za izdavanje jams
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2013-3230` (tags `odluka-2013-3230/<day>`; `python tools/on.py <day> odluka-2013-3230`).
+Act id: `odluka-2013-3230` (tags `odluka-2013-3230/<day>`; `python registry/tools/on.py <day> odluka-2013-3230`).
 
 ## Status
 

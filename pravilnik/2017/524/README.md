@@ -10,7 +10,7 @@ Pravilnik o dopunama Pravilnika o tehničkim i drugim uvjetima elektroničkog po
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2017-524` (tags `pravilnik-2017-524/<day>`; `python tools/on.py <day> pravilnik-2017-524`).
+Act id: `pravilnik-2017-524` (tags `pravilnik-2017-524/<day>`; `python registry/tools/on.py <day> pravilnik-2017-524`).
 
 ## Decisions made by hand
 

@@ -8,7 +8,7 @@ Odluka o odgodi roka primjene odredbi Uredbe EZ br. 1371/2007 o pravima i obveza
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2014-2295` (tags `odluka-2014-2295/<day>`; `python tools/on.py <day> odluka-2014-2295`).
+Act id: `odluka-2014-2295` (tags `odluka-2014-2295/<day>`; `python registry/tools/on.py <day> odluka-2014-2295`).
 
 ## Decisions made by hand
 

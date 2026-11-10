@@ -39,7 +39,7 @@ Izmjene i dopune Statuta Hrvatske komore arhitekata · 1 versions, from 2019-09-
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `statut-2019-1745` (tags `statut-2019-1745/<day>`; `python tools/on.py <day> statut-2019-1745`).
+Act id: `statut-2019-1745` (tags `statut-2019-1745/<day>`; `python registry/tools/on.py <day> statut-2019-1745`).
 
 ## Decisions made by hand
 

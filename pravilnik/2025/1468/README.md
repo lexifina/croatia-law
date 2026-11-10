@@ -13,7 +13,7 @@ Pravilnik o izmjenama i dopunama Pravilnika o postupku i mjerilima objave javnog
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2025-1468` (tags `pravilnik-2025-1468/<day>`; `python tools/on.py <day> pravilnik-2025-1468`).
+Act id: `pravilnik-2025-1468` (tags `pravilnik-2025-1468/<day>`; `python registry/tools/on.py <day> pravilnik-2025-1468`).
 
 ## Decisions made by hand
 

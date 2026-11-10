@@ -9,7 +9,7 @@ Odluka o usklađenju sredstava jamstvenog podloga za 2013. godinu · 1 versions,
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2014-336` (tags `odluka-2014-336/<day>`; `python tools/on.py <day> odluka-2014-336`).
+Act id: `odluka-2014-336` (tags `odluka-2014-336/<day>`; `python registry/tools/on.py <day> odluka-2014-336`).
 
 ## Decisions made by hand
 

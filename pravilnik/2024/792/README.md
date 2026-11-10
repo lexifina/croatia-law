@@ -21,7 +21,7 @@ Pravilnik o izmjenama i dopunama Pravilnika o obradi duhana, proizvodnji i marka
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2024-792` (tags `pravilnik-2024-792/<day>`; `python tools/on.py <day> pravilnik-2024-792`).
+Act id: `pravilnik-2024-792` (tags `pravilnik-2024-792/<day>`; `python registry/tools/on.py <day> pravilnik-2024-792`).
 
 ## Decisions made by hand
 

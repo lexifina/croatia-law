@@ -9,7 +9,7 @@ Pravilnik o izmjeni i dopuni Pravilnik o učestalosti uzorkovanja trupova, mljev
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2012-970` (tags `pravilnik-2012-970/<day>`; `python tools/on.py <day> pravilnik-2012-970`).
+Act id: `pravilnik-2012-970` (tags `pravilnik-2012-970/<day>`; `python registry/tools/on.py <day> pravilnik-2012-970`).
 
 ## Decisions made by hand
 

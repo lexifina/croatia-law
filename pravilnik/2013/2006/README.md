@@ -17,7 +17,7 @@ Pravilnik o sadržaju i načinu vođenja registra društava za upravljanje UCITS
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2013-2006` (tags `pravilnik-2013-2006/<day>`; `python tools/on.py <day> pravilnik-2013-2006`).
+Act id: `pravilnik-2013-2006` (tags `pravilnik-2013-2006/<day>`; `python registry/tools/on.py <day> pravilnik-2013-2006`).
 
 ## Status
 

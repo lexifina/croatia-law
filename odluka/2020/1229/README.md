@@ -8,7 +8,7 @@ Odluka o iznosu naknade mentoru na specijalističkom usavršavanju magistara med
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2020-1229` (tags `odluka-2020-1229/<day>`; `python tools/on.py <day> odluka-2020-1229`).
+Act id: `odluka-2020-1229` (tags `odluka-2020-1229/<day>`; `python registry/tools/on.py <day> odluka-2020-1229`).
 
 ## Decisions made by hand
 

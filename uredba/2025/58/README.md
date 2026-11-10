@@ -40,7 +40,7 @@ Uredba o Uredu za opće poslove Hrvatskoga sabora i Vlade Republike Hrvatske · 
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2025-58` (tags `uredba-2025-58/<day>`; `python tools/on.py <day> uredba-2025-58`).
+Act id: `uredba-2025-58` (tags `uredba-2025-58/<day>`; `python registry/tools/on.py <day> uredba-2025-58`).
 
 ## Decisions made by hand
 

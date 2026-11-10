@@ -9,7 +9,7 @@ Odluka o iznosu tarifnih stavki za javnu uslugu opskrbe plinom za razdoblje od 1
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2021-2409` (tags `odluka-2021-2409/<day>`; `python tools/on.py <day> odluka-2021-2409`).
+Act id: `odluka-2021-2409` (tags `odluka-2021-2409/<day>`; `python registry/tools/on.py <day> odluka-2021-2409`).
 
 ## Status
 

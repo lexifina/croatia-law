@@ -9,7 +9,7 @@ Pravilnik o izmjeni Pravilnika o početku, završetku i rasporedu radnog vremena
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2022-88` (tags `pravilnik-2022-88/<day>`; `python tools/on.py <day> pravilnik-2022-88`).
+Act id: `pravilnik-2022-88` (tags `pravilnik-2022-88/<day>`; `python registry/tools/on.py <day> pravilnik-2022-88`).
 
 ## Decisions made by hand
 

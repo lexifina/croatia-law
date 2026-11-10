@@ -15,7 +15,7 @@ Pravilnik o dokumentaciji za izdvajanje poslova ili funkcija društva za osigura
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 
-Act id: `pravilnik-2022-2484` (tags `pravilnik-2022-2484/<day>`; `python tools/on.py <day> pravilnik-2022-2484`).
+Act id: `pravilnik-2022-2484` (tags `pravilnik-2022-2484/<day>`; `python registry/tools/on.py <day> pravilnik-2022-2484`).
 
 ## Decisions made by hand
 

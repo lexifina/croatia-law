@@ -8,7 +8,7 @@ Odluka o visini naknade za sklapanje životnog partnerstva u službenim i izvan 
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2014-2027` (tags `odluka-2014-2027/<day>`; `python tools/on.py <day> odluka-2014-2027`).
+Act id: `odluka-2014-2027` (tags `odluka-2014-2027/<day>`; `python registry/tools/on.py <day> odluka-2014-2027`).
 
 ## Status
 

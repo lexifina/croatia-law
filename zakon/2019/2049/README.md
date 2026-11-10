@@ -24,7 +24,7 @@ Zakon o izmjenama i dopunama Zakona o sustavu unutarnjih kontrola u javnom sekto
 | čl. 18 | [clanak-018.md](clanak-018.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2019-2049` (tags `zakon-2019-2049/<day>`; `python tools/on.py <day> zakon-2019-2049`).
+Act id: `zakon-2019-2049` (tags `zakon-2019-2049/<day>`; `python registry/tools/on.py <day> zakon-2019-2049`).
 
 ## Decisions made by hand
 

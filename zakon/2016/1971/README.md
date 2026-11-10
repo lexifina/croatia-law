@@ -26,7 +26,7 @@ Zakon o izmjenama i dopunama Zakona o sustavu državne uprave · 1 versions, fro
 | čl. 20 | [clanak-020.md](clanak-020.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2016-1971` (tags `zakon-2016-1971/<day>`; `python tools/on.py <day> zakon-2016-1971`).
+Act id: `zakon-2016-1971` (tags `zakon-2016-1971/<day>`; `python registry/tools/on.py <day> zakon-2016-1971`).
 
 ## Decisions made by hand
 

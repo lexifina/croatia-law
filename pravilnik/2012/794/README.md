@@ -24,7 +24,7 @@ Pravilnik o besplatnoj pravnoj pomoći u postupku azila · 1 versions, from 2012
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2012-794` (tags `pravilnik-2012-794/<day>`; `python tools/on.py <day> pravilnik-2012-794`).
+Act id: `pravilnik-2012-794` (tags `pravilnik-2012-794/<day>`; `python registry/tools/on.py <day> pravilnik-2012-794`).
 
 ## Status
 

@@ -8,7 +8,7 @@ Odluka o izmjeni i dopuni Odluke o popisu iskrcajnih mjesta za ribarska plovila 
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2021-1951` (tags `odluka-2021-1951/<day>`; `python tools/on.py <day> odluka-2021-1951`).
+Act id: `odluka-2021-1951` (tags `odluka-2021-1951/<day>`; `python registry/tools/on.py <day> odluka-2021-1951`).
 
 ## Decisions made by hand
 

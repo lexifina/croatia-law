@@ -5,7 +5,7 @@ Pravilnik o uvjetima i načinu ostvarivanja prava na zdravstvenu zaštitu hrvats
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `pravilnik-2015-916` (tags `pravilnik-2015-916/<day>`; `python tools/on.py <day> pravilnik-2015-916`).
+Act id: `pravilnik-2015-916` (tags `pravilnik-2015-916/<day>`; `python registry/tools/on.py <day> pravilnik-2015-916`).
 
 ## Decisions made by hand
 

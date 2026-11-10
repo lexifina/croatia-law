@@ -62,7 +62,7 @@ Pravilnik o provedbi mjere 301 "Poboljšanje i razvoj ruralne infrastrukture" un
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2012-801` (tags `pravilnik-2012-801/<day>`; `python tools/on.py <day> pravilnik-2012-801`).
+Act id: `pravilnik-2012-801` (tags `pravilnik-2012-801/<day>`; `python registry/tools/on.py <day> pravilnik-2012-801`).
 
 ## Status
 

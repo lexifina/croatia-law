@@ -8,7 +8,7 @@ Odluka o izmjeni Odluke o osnivanju Vijeća za državnu informacijsku infrastruk
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2016-1599` (tags `odluka-2016-1599/<day>`; `python tools/on.py <day> odluka-2016-1599`).
+Act id: `odluka-2016-1599` (tags `odluka-2016-1599/<day>`; `python registry/tools/on.py <day> odluka-2016-1599`).
 
 ## Decisions made by hand
 

@@ -9,7 +9,7 @@ Odluka o davanju suglasnosti na Izmjene i dopune Financijskog plana Centra za re
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2020-1167` (tags `odluka-2020-1167/<day>`; `python tools/on.py <day> odluka-2020-1167`).
+Act id: `odluka-2020-1167` (tags `odluka-2020-1167/<day>`; `python registry/tools/on.py <day> odluka-2020-1167`).
 
 ## Decisions made by hand
 

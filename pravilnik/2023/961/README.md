@@ -10,7 +10,7 @@ Pravilnik o izmjeni Pravilnika o porezu na dohodak · 1 versions, from 2023-05-2
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2023-961` (tags `pravilnik-2023-961/<day>`; `python tools/on.py <day> pravilnik-2023-961`).
+Act id: `pravilnik-2023-961` (tags `pravilnik-2023-961/<day>`; `python registry/tools/on.py <day> pravilnik-2023-961`).
 
 ## Decisions made by hand
 

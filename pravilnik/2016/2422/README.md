@@ -9,7 +9,7 @@ Pravilnik o izmjeni Pravilnika o očevidniku kazališta · 1 versions, from 2016
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2016-2422` (tags `pravilnik-2016-2422/<day>`; `python tools/on.py <day> pravilnik-2016-2422`).
+Act id: `pravilnik-2016-2422` (tags `pravilnik-2016-2422/<day>`; `python registry/tools/on.py <day> pravilnik-2016-2422`).
 
 ## Decisions made by hand
 

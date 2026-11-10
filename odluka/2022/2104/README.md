@@ -12,7 +12,7 @@ Odluka o izmjenama i dopuni Odluke o primjeni odredbi Zakona o kreditnim institu
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2022-2104` (tags `odluka-2022-2104/<day>`; `python tools/on.py <day> odluka-2022-2104`).
+Act id: `odluka-2022-2104` (tags `odluka-2022-2104/<day>`; `python registry/tools/on.py <day> odluka-2022-2104`).
 
 ## Decisions made by hand
 

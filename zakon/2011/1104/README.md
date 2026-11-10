@@ -30,7 +30,7 @@ Zakon o izmjenama i dopunama Zakona o žigu · 1 versions, from 2011-05-07 (late
 | čl. 24 | [clanak-024.md](clanak-024.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2011-1104` (tags `zakon-2011-1104/<day>`; `python tools/on.py <day> zakon-2011-1104`).
+Act id: `zakon-2011-1104` (tags `zakon-2011-1104/<day>`; `python registry/tools/on.py <day> zakon-2011-1104`).
 
 ## Decisions made by hand
 

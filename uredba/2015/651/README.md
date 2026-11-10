@@ -11,7 +11,7 @@ Uredba o izmjenama i dopunama Uredbe o plaćama policijskih službenika · 1 ver
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2015-651` (tags `uredba-2015-651/<day>`; `python tools/on.py <day> uredba-2015-651`).
+Act id: `uredba-2015-651` (tags `uredba-2015-651/<day>`; `python registry/tools/on.py <day> uredba-2015-651`).
 
 ## Decisions made by hand
 

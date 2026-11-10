@@ -21,7 +21,7 @@ Zakon o izmjenama i dopunama Zakona o regulaciji energetskih djelatnosti · 1 ve
 | čl. 15 | [clanak-015.md](clanak-015.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2018-1397` (tags `zakon-2018-1397/<day>`; `python tools/on.py <day> zakon-2018-1397`).
+Act id: `zakon-2018-1397` (tags `zakon-2018-1397/<day>`; `python registry/tools/on.py <day> zakon-2018-1397`).
 
 ## Decisions made by hand
 

@@ -9,7 +9,7 @@ Odluka o izmjenama Odluke o zaštitnim slojevima kapitala i mjerama za očuvanje
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2014-1155` (tags `odluka-2014-1155/<day>`; `python tools/on.py <day> odluka-2014-1155`).
+Act id: `odluka-2014-1155` (tags `odluka-2014-1155/<day>`; `python registry/tools/on.py <day> odluka-2014-1155`).
 
 ## Decisions made by hand
 

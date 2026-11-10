@@ -8,7 +8,7 @@ Odluka o izmjenama i dopunama br. 6 Ugovora o koncesiji za financiranje, građen
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2020-2165` (tags `odluka-2020-2165/<day>`; `python tools/on.py <day> odluka-2020-2165`).
+Act id: `odluka-2020-2165` (tags `odluka-2020-2165/<day>`; `python registry/tools/on.py <day> odluka-2020-2165`).
 
 ## Decisions made by hand
 

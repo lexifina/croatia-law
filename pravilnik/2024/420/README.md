@@ -27,7 +27,7 @@ Pravilnik o uvjetima davanja stvarnih i drugih prava na javnom vodnom dobru u lu
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2024-420` (tags `pravilnik-2024-420/<day>`; `python tools/on.py <day> pravilnik-2024-420`).
+Act id: `pravilnik-2024-420` (tags `pravilnik-2024-420/<day>`; `python registry/tools/on.py <day> pravilnik-2024-420`).
 
 ## Decisions made by hand
 

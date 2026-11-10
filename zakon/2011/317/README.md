@@ -31,7 +31,7 @@ Zakon o izmjenama i dopunama Zakona o tržištu nafte i naftnih derivata · 1 ve
 | čl. 25 | [clanak-025.md](clanak-025.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2011-317` (tags `zakon-2011-317/<day>`; `python tools/on.py <day> zakon-2011-317`).
+Act id: `zakon-2011-317` (tags `zakon-2011-317/<day>`; `python registry/tools/on.py <day> zakon-2011-317`).
 
 ## Decisions made by hand
 

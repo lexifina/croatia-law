@@ -7,7 +7,7 @@ Odluka Agencije za elektroničke medije klasa: UP/I-612-12/16-02/0002, urbroj: 5
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 
-Act id: `odluka-2016-2500` (tags `odluka-2016-2500/<day>`; `python tools/on.py <day> odluka-2016-2500`).
+Act id: `odluka-2016-2500` (tags `odluka-2016-2500/<day>`; `python registry/tools/on.py <day> odluka-2016-2500`).
 
 ## Decisions made by hand
 

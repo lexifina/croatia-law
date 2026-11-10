@@ -8,7 +8,7 @@ Odluka o postavljanju dr. sc. Maria Nobila za izvanrednog i opunomoćenog velepo
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2013-206` (tags `odluka-2013-206/<day>`; `python tools/on.py <day> odluka-2013-206`).
+Act id: `odluka-2013-206` (tags `odluka-2013-206/<day>`; `python registry/tools/on.py <day> odluka-2013-206`).
 
 ## Decisions made by hand
 

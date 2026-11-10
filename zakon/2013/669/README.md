@@ -35,7 +35,7 @@ Zakon o izmjenama i dopunama Zakona o zaštiti životinja · 1 versions, from 20
 | čl. 29 | [clanak-029.md](clanak-029.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2013-669` (tags `zakon-2013-669/<day>`; `python tools/on.py <day> zakon-2013-669`).
+Act id: `zakon-2013-669` (tags `zakon-2013-669/<day>`; `python registry/tools/on.py <day> zakon-2013-669`).
 
 ## Decisions made by hand
 

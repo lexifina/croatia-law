@@ -73,7 +73,7 @@ Zakon o izmjenama i dopunama Zakona o gradnji · 1 versions, from 2017-03-09 (la
 | čl. 67 | [clanak-067.md](clanak-067.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2017-456` (tags `zakon-2017-456/<day>`; `python tools/on.py <day> zakon-2017-456`).
+Act id: `zakon-2017-456` (tags `zakon-2017-456/<day>`; `python registry/tools/on.py <day> zakon-2017-456`).
 
 ## Decisions made by hand
 

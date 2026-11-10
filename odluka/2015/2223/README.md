@@ -8,7 +8,7 @@ Odluka o postavljanju izvanredne i opunomoćene veleposlanice Republike Hrvatske
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2015-2223` (tags `odluka-2015-2223/<day>`; `python tools/on.py <day> odluka-2015-2223`).
+Act id: `odluka-2015-2223` (tags `odluka-2015-2223/<day>`; `python registry/tools/on.py <day> odluka-2015-2223`).
 
 ## Decisions made by hand
 

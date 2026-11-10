@@ -13,7 +13,7 @@ Odluka o izmjenama i dopunama Odluke o velikim izloženostima kreditnih instituc
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2013-3369` (tags `odluka-2013-3369/<day>`; `python tools/on.py <day> odluka-2013-3369`).
+Act id: `odluka-2013-3369` (tags `odluka-2013-3369/<day>`; `python registry/tools/on.py <day> odluka-2013-3369`).
 
 ## Status
 

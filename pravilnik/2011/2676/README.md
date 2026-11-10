@@ -38,7 +38,7 @@ Pravilnik plaćanju naknada za obavljanje poslova Hrvatske agencije za poštu i 
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2011-2676` (tags `pravilnik-2011-2676/<day>`; `python tools/on.py <day> pravilnik-2011-2676`).
+Act id: `pravilnik-2011-2676` (tags `pravilnik-2011-2676/<day>`; `python registry/tools/on.py <day> pravilnik-2011-2676`).
 
 ## Status
 

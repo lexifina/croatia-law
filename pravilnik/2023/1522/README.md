@@ -16,7 +16,7 @@ Pravilnik o Upisniku poništajnih postupaka · 1 versions, from 2023-09-21 (late
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2023-1522` (tags `pravilnik-2023-1522/<day>`; `python tools/on.py <day> pravilnik-2023-1522`).
+Act id: `pravilnik-2023-1522` (tags `pravilnik-2023-1522/<day>`; `python registry/tools/on.py <day> pravilnik-2023-1522`).
 
 ## Decisions made by hand
 

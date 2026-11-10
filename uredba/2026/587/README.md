@@ -10,7 +10,7 @@ Uredba o dopunama Uredbe o vrstama djelatnosti i visini minimalne naknade za dod
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2026-587` (tags `uredba-2026-587/<day>`; `python tools/on.py <day> uredba-2026-587`).
+Act id: `uredba-2026-587` (tags `uredba-2026-587/<day>`; `python registry/tools/on.py <day> uredba-2026-587`).
 
 ## Decisions made by hand
 

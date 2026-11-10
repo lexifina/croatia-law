@@ -30,7 +30,7 @@ Pravilnik o tehničkim i mjeriteljskim zahtjevima koji se odnose na mjerila · 1
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2013-1891` (tags `pravilnik-2013-1891/<day>`; `python tools/on.py <day> pravilnik-2013-1891`).
+Act id: `pravilnik-2013-1891` (tags `pravilnik-2013-1891/<day>`; `python registry/tools/on.py <day> pravilnik-2013-1891`).
 
 ## Status
 

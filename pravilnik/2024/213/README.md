@@ -30,7 +30,7 @@ Pravilnik o upravljanju carinskim kvotama · 1 versions, from 2024-02-08 (latest
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2024-213` (tags `pravilnik-2024-213/<day>`; `python tools/on.py <day> pravilnik-2024-213`).
+Act id: `pravilnik-2024-213` (tags `pravilnik-2024-213/<day>`; `python registry/tools/on.py <day> pravilnik-2024-213`).
 
 ## Decisions made by hand
 

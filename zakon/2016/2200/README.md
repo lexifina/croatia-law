@@ -37,7 +37,7 @@ Zakon o izmjenama i dopunama Zakona o ustrojstvu i djelokrugu ministarstava i dr
 | čl. 31 | [clanak-031.md](clanak-031.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2016-2200` (tags `zakon-2016-2200/<day>`; `python tools/on.py <day> zakon-2016-2200`).
+Act id: `zakon-2016-2200` (tags `zakon-2016-2200/<day>`; `python registry/tools/on.py <day> zakon-2016-2200`).
 
 ## Decisions made by hand
 

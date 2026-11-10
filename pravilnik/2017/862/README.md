@@ -13,7 +13,7 @@ Pravilnik o izmjenama i dopunama Pravilnika o odobrenju osnivanja i statuta obve
 | čl. 7 | [clanak-007.md](clanak-007.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `pravilnik-2017-862` (tags `pravilnik-2017-862/<day>`; `python tools/on.py <day> pravilnik-2017-862`).
+Act id: `pravilnik-2017-862` (tags `pravilnik-2017-862/<day>`; `python registry/tools/on.py <day> pravilnik-2017-862`).
 
 ## Decisions made by hand
 

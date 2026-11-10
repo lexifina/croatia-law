@@ -8,7 +8,7 @@ Odluka o početku rada Carinarnice I Osijek · 1 versions, from 2012-07-01 (late
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2012-1623` (tags `odluka-2012-1623/<day>`; `python tools/on.py <day> odluka-2012-1623`).
+Act id: `odluka-2012-1623` (tags `odluka-2012-1623/<day>`; `python registry/tools/on.py <day> odluka-2012-1623`).
 
 ## Status
 

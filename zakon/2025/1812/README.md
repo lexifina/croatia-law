@@ -54,7 +54,7 @@ Zakon o izmjenama i dopunama Zakona o tržištu kapitala · 1 versions, from 202
 | čl. 48 | [clanak-048.md](clanak-048.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2025-1812` (tags `zakon-2025-1812/<day>`; `python tools/on.py <day> zakon-2025-1812`).
+Act id: `zakon-2025-1812` (tags `zakon-2025-1812/<day>`; `python registry/tools/on.py <day> zakon-2025-1812`).
 
 ## Decisions made by hand
 

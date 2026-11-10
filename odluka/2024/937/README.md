@@ -8,7 +8,7 @@ Odluka o katastarskoj izmjeri na području Općine Šestanovac za dio katastarsk
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2024-937` (tags `odluka-2024-937/<day>`; `python tools/on.py <day> odluka-2024-937`).
+Act id: `odluka-2024-937` (tags `odluka-2024-937/<day>`; `python registry/tools/on.py <day> odluka-2024-937`).
 
 ## Decisions made by hand
 

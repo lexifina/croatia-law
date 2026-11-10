@@ -10,7 +10,7 @@ Pravilnik o izmjeni Pravilnika o statusu i financiranju Pulskog filmskog festiva
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2014-1153` (tags `pravilnik-2014-1153/<day>`; `python tools/on.py <day> pravilnik-2014-1153`).
+Act id: `pravilnik-2014-1153` (tags `pravilnik-2014-1153/<day>`; `python registry/tools/on.py <day> pravilnik-2014-1153`).
 
 ## Decisions made by hand
 

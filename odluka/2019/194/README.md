@@ -5,7 +5,7 @@ Odluka o visini naknade za rad udomitelja · 2 versions, from 2019-01-26 (latest
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `odluka-2019-194` (tags `odluka-2019-194/<day>`; `python tools/on.py <day> odluka-2019-194`).
+Act id: `odluka-2019-194` (tags `odluka-2019-194/<day>`; `python registry/tools/on.py <day> odluka-2019-194`).
 
 ## Decisions made by hand
 

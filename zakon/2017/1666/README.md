@@ -10,7 +10,7 @@ Zakon o izmjeni i dopunama Zakona o osobnom imenu · 1 versions, from 2017-07-27
 | čl. 4 | [clanak-004.md](clanak-004.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2017-1666` (tags `zakon-2017-1666/<day>`; `python tools/on.py <day> zakon-2017-1666`).
+Act id: `zakon-2017-1666` (tags `zakon-2017-1666/<day>`; `python registry/tools/on.py <day> zakon-2017-1666`).
 
 ## Decisions made by hand
 

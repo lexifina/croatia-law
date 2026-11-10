@@ -8,7 +8,7 @@ Odluka o uvođenju obveze organiziranja i pohađanja treninga za predstavnike Re
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2020-535` (tags `odluka-2020-535/<day>`; `python tools/on.py <day> odluka-2020-535`).
+Act id: `odluka-2020-535` (tags `odluka-2020-535/<day>`; `python registry/tools/on.py <day> odluka-2020-535`).
 
 ## Decisions made by hand
 

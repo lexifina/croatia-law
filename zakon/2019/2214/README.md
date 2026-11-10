@@ -14,7 +14,7 @@ Zakon o izmjenama i dopunama Zakona o poštanskim uslugama · 1 versions, from 2
 | čl. 8 | [clanak-008.md](clanak-008.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2019-2214` (tags `zakon-2019-2214/<day>`; `python tools/on.py <day> zakon-2019-2214`).
+Act id: `zakon-2019-2214` (tags `zakon-2019-2214/<day>`; `python registry/tools/on.py <day> zakon-2019-2214`).
 
 ## Decisions made by hand
 

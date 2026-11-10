@@ -9,7 +9,7 @@ Odluka o usklađivanju svote nacionalne naknade za starije osobe od 1. siječnja
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2023-339` (tags `odluka-2023-339/<day>`; `python tools/on.py <day> odluka-2023-339`).
+Act id: `odluka-2023-339` (tags `odluka-2023-339/<day>`; `python registry/tools/on.py <day> odluka-2023-339`).
 
 ## Decisions made by hand
 

@@ -8,7 +8,7 @@ Odluka o katastarskoj izmjeri na području Grada Ogulina za dio katastarske opć
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2017-450` (tags `odluka-2017-450/<day>`; `python tools/on.py <day> odluka-2017-450`).
+Act id: `odluka-2017-450` (tags `odluka-2017-450/<day>`; `python registry/tools/on.py <day> odluka-2017-450`).
 
 ## Decisions made by hand
 

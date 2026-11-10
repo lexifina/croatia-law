@@ -41,7 +41,7 @@ Zakon o izmjenama i dopunama Zakona o reguliranim profesijama i priznavanju inoz
 | čl. 35 | [clanak-035.md](clanak-035.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2019-1452` (tags `zakon-2019-1452/<day>`; `python tools/on.py <day> zakon-2019-1452`).
+Act id: `zakon-2019-1452` (tags `zakon-2019-1452/<day>`; `python registry/tools/on.py <day> zakon-2019-1452`).
 
 ## Decisions made by hand
 

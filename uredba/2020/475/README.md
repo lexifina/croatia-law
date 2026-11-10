@@ -18,7 +18,7 @@ Uredba o Uredu predsjednika Republike Hrvatske po prestanku obnašanja dužnosti
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2020-475` (tags `uredba-2020-475/<day>`; `python tools/on.py <day> uredba-2020-475`).
+Act id: `uredba-2020-475` (tags `uredba-2020-475/<day>`; `python registry/tools/on.py <day> uredba-2020-475`).
 
 ## Decisions made by hand
 

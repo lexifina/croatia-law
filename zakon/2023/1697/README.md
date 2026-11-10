@@ -22,7 +22,7 @@ Zakon o izmjenama i dopunama Zakona o sudskom registru · 1 versions, from 2023-
 | čl. 16 | [clanak-016.md](clanak-016.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2023-1697` (tags `zakon-2023-1697/<day>`; `python tools/on.py <day> zakon-2023-1697`).
+Act id: `zakon-2023-1697` (tags `zakon-2023-1697/<day>`; `python registry/tools/on.py <day> zakon-2023-1697`).
 
 ## Decisions made by hand
 

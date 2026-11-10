@@ -54,7 +54,7 @@ Odluka o uvjetima za otvaranje i funkcioniranje PM računa u sustavu TARGET2-HR 
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2018-2003` (tags `odluka-2018-2003/<day>`; `python tools/on.py <day> odluka-2018-2003`).
+Act id: `odluka-2018-2003` (tags `odluka-2018-2003/<day>`; `python registry/tools/on.py <day> odluka-2018-2003`).
 
 ## Status
 

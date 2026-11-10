@@ -15,7 +15,7 @@ Pravilnik o postupku prijma vježbenika u pravosudna tijela · 1 versions, from 
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2019-2122` (tags `pravilnik-2019-2122/<day>`; `python tools/on.py <day> pravilnik-2019-2122`).
+Act id: `pravilnik-2019-2122` (tags `pravilnik-2019-2122/<day>`; `python registry/tools/on.py <day> pravilnik-2019-2122`).
 
 ## Decisions made by hand
 

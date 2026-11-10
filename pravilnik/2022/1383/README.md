@@ -16,7 +16,7 @@ Pravilnik o izmjenama i dopunama Pravilnika o provjeri ispravnosti stabilnih sus
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2022-1383` (tags `pravilnik-2022-1383/<day>`; `python tools/on.py <day> pravilnik-2022-1383`).
+Act id: `pravilnik-2022-1383` (tags `pravilnik-2022-1383/<day>`; `python registry/tools/on.py <day> pravilnik-2022-1383`).
 
 ## Decisions made by hand
 

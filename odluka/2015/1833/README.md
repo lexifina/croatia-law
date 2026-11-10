@@ -8,7 +8,7 @@ Odluka o davanju suglasnosti na Odluku skupštine Istarske županije o dopunama 
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2015-1833` (tags `odluka-2015-1833/<day>`; `python tools/on.py <day> odluka-2015-1833`).
+Act id: `odluka-2015-1833` (tags `odluka-2015-1833/<day>`; `python registry/tools/on.py <day> odluka-2015-1833`).
 
 ## Decisions made by hand
 

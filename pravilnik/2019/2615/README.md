@@ -13,7 +13,7 @@ Pravilnik o izmjenama i dopunama Pravilnika o izradi procjene rizika · 1 versio
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2019-2615` (tags `pravilnik-2019-2615/<day>`; `python tools/on.py <day> pravilnik-2019-2615`).
+Act id: `pravilnik-2019-2615` (tags `pravilnik-2019-2615/<day>`; `python registry/tools/on.py <day> pravilnik-2019-2615`).
 
 ## Decisions made by hand
 

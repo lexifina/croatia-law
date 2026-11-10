@@ -11,7 +11,7 @@ Pravilnik o izmjenama Pravilnika o minimalnim uvjetima u pogledu prostora, radni
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2016-177` (tags `pravilnik-2016-177/<day>`; `python tools/on.py <day> pravilnik-2016-177`).
+Act id: `pravilnik-2016-177` (tags `pravilnik-2016-177/<day>`; `python registry/tools/on.py <day> pravilnik-2016-177`).
 
 ## Decisions made by hand
 

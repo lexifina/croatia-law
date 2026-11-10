@@ -25,7 +25,7 @@ Pravilnik o postupku naknade štete članovima dobrovoljnog mirovinskog fonda i/
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2014-1980` (tags `pravilnik-2014-1980/<day>`; `python tools/on.py <day> pravilnik-2014-1980`).
+Act id: `pravilnik-2014-1980` (tags `pravilnik-2014-1980/<day>`; `python registry/tools/on.py <day> pravilnik-2014-1980`).
 
 ## Status
 

@@ -9,7 +9,7 @@ Odluka o davanju suglasnosti na Izmjene i dopune Financijskog plana Državne age
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2014-2670` (tags `odluka-2014-2670/<day>`; `python tools/on.py <day> odluka-2014-2670`).
+Act id: `odluka-2014-2670` (tags `odluka-2014-2670/<day>`; `python registry/tools/on.py <day> odluka-2014-2670`).
 
 ## Decisions made by hand
 

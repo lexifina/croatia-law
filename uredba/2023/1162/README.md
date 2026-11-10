@@ -18,7 +18,7 @@ Uredba o vrednovanju učinkovitosti poslovanja isporučitelja vodnih usluga · 1
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2023-1162` (tags `uredba-2023-1162/<day>`; `python tools/on.py <day> uredba-2023-1162`).
+Act id: `uredba-2023-1162` (tags `uredba-2023-1162/<day>`; `python registry/tools/on.py <day> uredba-2023-1162`).
 
 ## Decisions made by hand
 

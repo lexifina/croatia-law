@@ -5,7 +5,7 @@ Odluka o rasporedu sredstava za interventne zahvate prema posebnom nalogu minist
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `odluka-2017-785` (tags `odluka-2017-785/<day>`; `python tools/on.py <day> odluka-2017-785`).
+Act id: `odluka-2017-785` (tags `odluka-2017-785/<day>`; `python registry/tools/on.py <day> odluka-2017-785`).
 
 ## Decisions made by hand
 

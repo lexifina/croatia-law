@@ -10,7 +10,7 @@ Uredba o izmjeni Zakona o uskrati prava na uvećanje plaće po osnovi ostvarenih
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2014-2962` (tags `uredba-2014-2962/<day>`; `python tools/on.py <day> uredba-2014-2962`).
+Act id: `uredba-2014-2962` (tags `uredba-2014-2962/<day>`; `python registry/tools/on.py <day> uredba-2014-2962`).
 
 ## Status
 

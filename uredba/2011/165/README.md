@@ -14,7 +14,7 @@ Uredba o izmjenama i dopunama Uredbe o minimalnom udjelu električne energije pr
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2011-165` (tags `uredba-2011-165/<day>`; `python tools/on.py <day> uredba-2011-165`).
+Act id: `uredba-2011-165` (tags `uredba-2011-165/<day>`; `python registry/tools/on.py <day> uredba-2011-165`).
 
 ## Decisions made by hand
 

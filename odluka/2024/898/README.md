@@ -8,7 +8,7 @@ Odluka o katastarskoj izmjeri na području Grada Orahovice i Općine Čačinci z
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2024-898` (tags `odluka-2024-898/<day>`; `python tools/on.py <day> odluka-2024-898`).
+Act id: `odluka-2024-898` (tags `odluka-2024-898/<day>`; `python registry/tools/on.py <day> odluka-2024-898`).
 
 ## Decisions made by hand
 

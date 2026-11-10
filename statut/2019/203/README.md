@@ -60,7 +60,7 @@ Statut Hrvatske agronomske komore · 1 versions, from 2019-02-02 (latest in forc
 | čl. 54 | [clanak-054.md](clanak-054.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `statut-2019-203` (tags `statut-2019-203/<day>`; `python tools/on.py <day> statut-2019-203`).
+Act id: `statut-2019-203` (tags `statut-2019-203/<day>`; `python registry/tools/on.py <day> statut-2019-203`).
 
 ## Decisions made by hand
 

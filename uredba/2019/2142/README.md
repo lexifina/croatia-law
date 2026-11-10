@@ -10,7 +10,7 @@ Uredba o nazivima radnih mjesta i koeficijentima složenosti poslova za radna mj
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2019-2142` (tags `uredba-2019-2142/<day>`; `python tools/on.py <day> uredba-2019-2142`).
+Act id: `uredba-2019-2142` (tags `uredba-2019-2142/<day>`; `python registry/tools/on.py <day> uredba-2019-2142`).
 
 ## Status
 

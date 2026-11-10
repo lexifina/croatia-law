@@ -5,7 +5,7 @@ Pravilnik o pojedinim oblicima zdravstvenih usluga koje se pružaju u djelatnost
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `pravilnik-2019-1667` (tags `pravilnik-2019-1667/<day>`; `python tools/on.py <day> pravilnik-2019-1667`).
+Act id: `pravilnik-2019-1667` (tags `pravilnik-2019-1667/<day>`; `python registry/tools/on.py <day> pravilnik-2019-1667`).
 
 ## Decisions made by hand
 

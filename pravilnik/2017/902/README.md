@@ -12,7 +12,7 @@ Pravilnik o izmjenama i dopunama Pravilnika o uvjetima za nuđenje mirovinskih p
 | čl. 6 | [clanak-006.md](clanak-006.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `pravilnik-2017-902` (tags `pravilnik-2017-902/<day>`; `python tools/on.py <day> pravilnik-2017-902`).
+Act id: `pravilnik-2017-902` (tags `pravilnik-2017-902/<day>`; `python registry/tools/on.py <day> pravilnik-2017-902`).
 
 ## Decisions made by hand
 

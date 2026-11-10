@@ -9,7 +9,7 @@ Uredba o izmjenama Zakona o pravima iz mirovinskog osiguranja djelatnih vojnih o
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2012-2168` (tags `uredba-2012-2168/<day>`; `python tools/on.py <day> uredba-2012-2168`).
+Act id: `uredba-2012-2168` (tags `uredba-2012-2168/<day>`; `python registry/tools/on.py <day> uredba-2012-2168`).
 
 ## Decisions made by hand
 

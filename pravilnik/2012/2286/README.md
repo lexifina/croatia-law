@@ -11,7 +11,7 @@ Pravilnik o izmjenama i dopunama Pravilnika o sadržaju obrasca zahtjeva radnika
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2012-2286` (tags `pravilnik-2012-2286/<day>`; `python tools/on.py <day> pravilnik-2012-2286`).
+Act id: `pravilnik-2012-2286` (tags `pravilnik-2012-2286/<day>`; `python registry/tools/on.py <day> pravilnik-2012-2286`).
 
 ## Decisions made by hand
 

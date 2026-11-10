@@ -10,7 +10,7 @@ Pravilnik o odgodi ili oslobađanju od plaćanja turističke pristojbe za osobe 
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2020-764` (tags `pravilnik-2020-764/<day>`; `python tools/on.py <day> pravilnik-2020-764`).
+Act id: `pravilnik-2020-764` (tags `pravilnik-2020-764/<day>`; `python registry/tools/on.py <day> pravilnik-2020-764`).
 
 ## Status
 

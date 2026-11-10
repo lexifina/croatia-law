@@ -9,7 +9,7 @@ Pravilnik o izmjeni Pravilnika o obliku i sadržaju dodatnih podataka za statist
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2023-2516` (tags `pravilnik-2023-2516/<day>`; `python tools/on.py <day> pravilnik-2023-2516`).
+Act id: `pravilnik-2023-2516` (tags `pravilnik-2023-2516/<day>`; `python registry/tools/on.py <day> pravilnik-2023-2516`).
 
 ## Status
 

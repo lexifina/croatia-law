@@ -22,7 +22,7 @@ Pravilnik o standardima kvalitete i sigurnosti organa za presađivanje · 1 vers
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2013-1252` (tags `pravilnik-2013-1252/<day>`; `python tools/on.py <day> pravilnik-2013-1252`).
+Act id: `pravilnik-2013-1252` (tags `pravilnik-2013-1252/<day>`; `python registry/tools/on.py <day> pravilnik-2013-1252`).
 
 ## Decisions made by hand
 

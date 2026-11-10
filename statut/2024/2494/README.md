@@ -11,7 +11,7 @@ Izmjene i dopune Statuta Turističke zajednice Istarske županije · 1 versions,
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `statut-2024-2494` (tags `statut-2024-2494/<day>`; `python tools/on.py <day> statut-2024-2494`).
+Act id: `statut-2024-2494` (tags `statut-2024-2494/<day>`; `python registry/tools/on.py <day> statut-2024-2494`).
 
 ## Decisions made by hand
 

@@ -45,7 +45,7 @@ Pravilnik o financijsko-materijalnom poslovanju sudova sa strankama · 1 version
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2016-1489` (tags `pravilnik-2016-1489/<day>`; `python tools/on.py <day> pravilnik-2016-1489`).
+Act id: `pravilnik-2016-1489` (tags `pravilnik-2016-1489/<day>`; `python registry/tools/on.py <day> pravilnik-2016-1489`).
 
 ## Status
 

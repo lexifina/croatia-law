@@ -18,7 +18,7 @@ Uredba o Uredu za nacionalne manjine · 1 versions, from 2011-08-03 (latest in f
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2011-1933` (tags `uredba-2011-1933/<day>`; `python tools/on.py <day> uredba-2011-1933`).
+Act id: `uredba-2011-1933` (tags `uredba-2011-1933/<day>`; `python registry/tools/on.py <day> uredba-2011-1933`).
 
 ## Status
 

@@ -21,7 +21,7 @@ Uredba o obrascu i načinu vrednovanja Gospodarskog programa korištenja poljopr
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2016-1799` (tags `uredba-2016-1799/<day>`; `python tools/on.py <day> uredba-2016-1799`).
+Act id: `uredba-2016-1799` (tags `uredba-2016-1799/<day>`; `python registry/tools/on.py <day> uredba-2016-1799`).
 
 ## Decisions made by hand
 

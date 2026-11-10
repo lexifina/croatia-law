@@ -26,7 +26,7 @@ Pravilnik o voćnim džemovima, želeima, marmeladama, pekmezu te zaslađenom ke
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2019-1726` (tags `pravilnik-2019-1726/<day>`; `python tools/on.py <day> pravilnik-2019-1726`).
+Act id: `pravilnik-2019-1726` (tags `pravilnik-2019-1726/<day>`; `python registry/tools/on.py <day> pravilnik-2019-1726`).
 
 ## Status
 

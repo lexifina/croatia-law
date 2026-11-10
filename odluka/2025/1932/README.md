@@ -8,7 +8,7 @@ Odluka o donošenju Plana upravljanja migracijama i azilom Republike Hrvatske za
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2025-1932` (tags `odluka-2025-1932/<day>`; `python tools/on.py <day> odluka-2025-1932`).
+Act id: `odluka-2025-1932` (tags `odluka-2025-1932/<day>`; `python registry/tools/on.py <day> odluka-2025-1932`).
 
 ## Decisions made by hand
 

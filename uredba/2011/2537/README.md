@@ -48,7 +48,7 @@ Uredba o izmjenama i dopunama Uredbe o unutarnjem ustrojstvu Državnog zavoda za
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2011-2537` (tags `uredba-2011-2537/<day>`; `python tools/on.py <day> uredba-2011-2537`).
+Act id: `uredba-2011-2537` (tags `uredba-2011-2537/<day>`; `python registry/tools/on.py <day> uredba-2011-2537`).
 
 ## Decisions made by hand
 

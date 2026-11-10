@@ -30,7 +30,7 @@ UREDBA O IZMJENAMA I DOPUNAMA UREDBE O UNUTARNJEM USTROJSTVU MINISTARSTVA POLJOP
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2014-955` (tags `uredba-2014-955/<day>`; `python tools/on.py <day> uredba-2014-955`).
+Act id: `uredba-2014-955` (tags `uredba-2014-955/<day>`; `python registry/tools/on.py <day> uredba-2014-955`).
 
 ## Decisions made by hand
 

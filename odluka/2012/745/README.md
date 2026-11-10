@@ -9,7 +9,7 @@ Odluka o kriterijima raspodjele trajne i godišnje izlovne kvote za ribolov tune
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2012-745` (tags `odluka-2012-745/<day>`; `python tools/on.py <day> odluka-2012-745`).
+Act id: `odluka-2012-745` (tags `odluka-2012-745/<day>`; `python registry/tools/on.py <day> odluka-2012-745`).
 
 ## Decisions made by hand
 

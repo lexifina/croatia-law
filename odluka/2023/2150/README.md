@@ -9,7 +9,7 @@ Odluka o davanju suglasnosti na Financijski plan Hrvatskih voda za 2024. godinu 
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2023-2150` (tags `odluka-2023-2150/<day>`; `python tools/on.py <day> odluka-2023-2150`).
+Act id: `odluka-2023-2150` (tags `odluka-2023-2150/<day>`; `python registry/tools/on.py <day> odluka-2023-2150`).
 
 ## Decisions made by hand
 

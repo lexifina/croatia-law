@@ -11,7 +11,7 @@ Odluka o visini poreznih stopa godišnjeg poreza na dohodak Općine Klakar · 1 
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2023-2344` (tags `odluka-2023-2344/<day>`; `python tools/on.py <day> odluka-2023-2344`).
+Act id: `odluka-2023-2344` (tags `odluka-2023-2344/<day>`; `python registry/tools/on.py <day> odluka-2023-2344`).
 
 ## Decisions made by hand
 

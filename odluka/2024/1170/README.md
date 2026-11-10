@@ -8,7 +8,7 @@ Odluka o izboru predsjednice, potpredsjednika i članova Odbora za obitelj, mlad
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2024-1170` (tags `odluka-2024-1170/<day>`; `python tools/on.py <day> odluka-2024-1170`).
+Act id: `odluka-2024-1170` (tags `odluka-2024-1170/<day>`; `python registry/tools/on.py <day> odluka-2024-1170`).
 
 ## Decisions made by hand
 

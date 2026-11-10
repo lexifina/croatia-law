@@ -5,7 +5,7 @@ Odluka o gradskim porezima i prirezu porezu na dohodak Grada Otočca · 2 versio
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `odluka-2021-2328` (tags `odluka-2021-2328/<day>`; `python tools/on.py <day> odluka-2021-2328`).
+Act id: `odluka-2021-2328` (tags `odluka-2021-2328/<day>`; `python registry/tools/on.py <day> odluka-2021-2328`).
 
 ## Decisions made by hand
 

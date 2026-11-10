@@ -10,7 +10,7 @@ Naredba o zabrani provedbe radova gospodarenja šumama · 1 versions, from 2023-
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `naredba-2023-2171` (tags `naredba-2023-2171/<day>`; `python tools/on.py <day> naredba-2023-2171`).
+Act id: `naredba-2023-2171` (tags `naredba-2023-2171/<day>`; `python registry/tools/on.py <day> naredba-2023-2171`).
 
 ## Status
 

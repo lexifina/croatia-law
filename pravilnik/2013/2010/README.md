@@ -16,7 +16,7 @@ Pravilnik o izmjenama i dopunama Pravilnika o vrsti i visini naknada i administr
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 
-Act id: `pravilnik-2013-2010` (tags `pravilnik-2013-2010/<day>`; `python tools/on.py <day> pravilnik-2013-2010`).
+Act id: `pravilnik-2013-2010` (tags `pravilnik-2013-2010/<day>`; `python registry/tools/on.py <day> pravilnik-2013-2010`).
 
 ## Status
 

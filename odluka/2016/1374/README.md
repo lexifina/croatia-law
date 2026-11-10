@@ -9,7 +9,7 @@ Odluka kojom se potvrđuje da sustav EuroNKS udovoljava uvjetima iz Zakona o kon
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2016-1374` (tags `odluka-2016-1374/<day>`; `python tools/on.py <day> odluka-2016-1374`).
+Act id: `odluka-2016-1374` (tags `odluka-2016-1374/<day>`; `python registry/tools/on.py <day> odluka-2016-1374`).
 
 ## Decisions made by hand
 

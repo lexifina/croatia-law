@@ -16,7 +16,7 @@ Uredba o financijskoj strukturi omotnice za program izravnih plaćanja u 2015. g
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2016-1138` (tags `uredba-2016-1138/<day>`; `python tools/on.py <day> uredba-2016-1138`).
+Act id: `uredba-2016-1138` (tags `uredba-2016-1138/<day>`; `python registry/tools/on.py <day> uredba-2016-1138`).
 
 ## Decisions made by hand
 

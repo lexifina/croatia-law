@@ -46,7 +46,7 @@ Pravilnik o dodatnim zahtjevima za mala društva za osiguranje · 1 versions, fr
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2016-1719` (tags `pravilnik-2016-1719/<day>`; `python tools/on.py <day> pravilnik-2016-1719`).
+Act id: `pravilnik-2016-1719` (tags `pravilnik-2016-1719/<day>`; `python registry/tools/on.py <day> pravilnik-2016-1719`).
 
 ## Status
 

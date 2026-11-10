@@ -8,7 +8,7 @@ Odluka o objavi okvira revizijskih standarda Međunarodne organizacije vrhovnih 
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2019-638` (tags `odluka-2019-638/<day>`; `python tools/on.py <day> odluka-2019-638`).
+Act id: `odluka-2019-638` (tags `odluka-2019-638/<day>`; `python registry/tools/on.py <day> odluka-2019-638`).
 
 ## Status
 

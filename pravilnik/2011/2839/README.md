@@ -27,7 +27,7 @@ Pravilnik o evidenciji odgojnih mjera · 1 versions, from 2011-12-15 (latest in 
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2011-2839` (tags `pravilnik-2011-2839/<day>`; `python tools/on.py <day> pravilnik-2011-2839`).
+Act id: `pravilnik-2011-2839` (tags `pravilnik-2011-2839/<day>`; `python registry/tools/on.py <day> pravilnik-2011-2839`).
 
 ## Decisions made by hand
 

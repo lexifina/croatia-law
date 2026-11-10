@@ -9,7 +9,7 @@ Uredba o izmjeni Uredbe o funkcijama, zadaćama i odgovornosti Koordinacijskog t
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2025-1783` (tags `uredba-2025-1783/<day>`; `python tools/on.py <day> uredba-2025-1783`).
+Act id: `uredba-2025-1783` (tags `uredba-2025-1783/<day>`; `python registry/tools/on.py <day> uredba-2025-1783`).
 
 ## Decisions made by hand
 

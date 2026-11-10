@@ -41,7 +41,7 @@ Uredba o izmjenama i dopunama Uredbe o unutarnjem ustrojstvu Ministarstva financ
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2023-1246` (tags `uredba-2023-1246/<day>`; `python tools/on.py <day> uredba-2023-1246`).
+Act id: `uredba-2023-1246` (tags `uredba-2023-1246/<day>`; `python registry/tools/on.py <day> uredba-2023-1246`).
 
 ## Decisions made by hand
 

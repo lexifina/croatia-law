@@ -5,7 +5,7 @@ Odluka o izmjenama uvjeta kredita po kreditnom programu zapošljavanja razvojač
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `odluka-2015-1989` (tags `odluka-2015-1989/<day>`; `python tools/on.py <day> odluka-2015-1989`).
+Act id: `odluka-2015-1989` (tags `odluka-2015-1989/<day>`; `python registry/tools/on.py <day> odluka-2015-1989`).
 
 ## Decisions made by hand
 

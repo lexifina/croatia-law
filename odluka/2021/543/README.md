@@ -17,7 +17,7 @@ Odluka o minimalnim uvjetima radnih obveza za reizbor na znanstvena, znanstveno-
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2021-543` (tags `odluka-2021-543/<day>`; `python tools/on.py <day> odluka-2021-543`).
+Act id: `odluka-2021-543` (tags `odluka-2021-543/<day>`; `python registry/tools/on.py <day> odluka-2021-543`).
 
 ## Status
 

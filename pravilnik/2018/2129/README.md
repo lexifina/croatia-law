@@ -9,7 +9,7 @@ Pravilnik o dopuni Pravilnika o provedbi tehničkih aspekata uspostave i primjen
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2018-2129` (tags `pravilnik-2018-2129/<day>`; `python tools/on.py <day> pravilnik-2018-2129`).
+Act id: `pravilnik-2018-2129` (tags `pravilnik-2018-2129/<day>`; `python registry/tools/on.py <day> pravilnik-2018-2129`).
 
 ## Decisions made by hand
 

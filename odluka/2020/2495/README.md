@@ -8,7 +8,7 @@ Odluka o izmjeni i dopuni Odluke o uvođenju nužnih epidemioloških mjera za po
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2020-2495` (tags `odluka-2020-2495/<day>`; `python tools/on.py <day> odluka-2020-2495`).
+Act id: `odluka-2020-2495` (tags `odluka-2020-2495/<day>`; `python registry/tools/on.py <day> odluka-2020-2495`).
 
 ## Decisions made by hand
 

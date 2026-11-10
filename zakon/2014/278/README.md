@@ -10,7 +10,7 @@ Zakon o izmjenama Zakona o vinu · 1 versions, from 2014-02-06 (latest in force:
 | čl. 4 | [clanak-004.md](clanak-004.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2014-278` (tags `zakon-2014-278/<day>`; `python tools/on.py <day> zakon-2014-278`).
+Act id: `zakon-2014-278` (tags `zakon-2014-278/<day>`; `python registry/tools/on.py <day> zakon-2014-278`).
 
 ## Decisions made by hand
 

@@ -14,7 +14,7 @@ Odluka o prirezu porezu na dohodak Općine Klis · 1 versions, from 2014-12-04 (
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2014-2630` (tags `odluka-2014-2630/<day>`; `python tools/on.py <day> odluka-2014-2630`).
+Act id: `odluka-2014-2630` (tags `odluka-2014-2630/<day>`; `python registry/tools/on.py <day> odluka-2014-2630`).
 
 ## Status
 

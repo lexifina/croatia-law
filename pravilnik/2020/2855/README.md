@@ -9,7 +9,7 @@ Pravilnik o izmjeni Pravilnika o službenoj iskaznici i službenoj znački inspe
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2020-2855` (tags `pravilnik-2020-2855/<day>`; `python tools/on.py <day> pravilnik-2020-2855`).
+Act id: `pravilnik-2020-2855` (tags `pravilnik-2020-2855/<day>`; `python registry/tools/on.py <day> pravilnik-2020-2855`).
 
 ## Decisions made by hand
 

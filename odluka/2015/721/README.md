@@ -8,7 +8,7 @@ Odluka o davanju suglasnosti Ministarstvu zdravlja, za angažiranje fizičkih il
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2015-721` (tags `odluka-2015-721/<day>`; `python tools/on.py <day> odluka-2015-721`).
+Act id: `odluka-2015-721` (tags `odluka-2015-721/<day>`; `python registry/tools/on.py <day> odluka-2015-721`).
 
 ## Decisions made by hand
 

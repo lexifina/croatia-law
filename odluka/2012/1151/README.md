@@ -8,7 +8,7 @@ Odluka o osnivanju Konzulata Republike Hrvatske u Švicarskoj Konfederaciji, sa 
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2012-1151` (tags `odluka-2012-1151/<day>`; `python tools/on.py <day> odluka-2012-1151`).
+Act id: `odluka-2012-1151` (tags `odluka-2012-1151/<day>`; `python registry/tools/on.py <day> odluka-2012-1151`).
 
 ## Decisions made by hand
 

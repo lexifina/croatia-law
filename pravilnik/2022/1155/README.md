@@ -16,7 +16,7 @@ Pravilnik o izmjenama i dopunama Pravilnika o kriterijima za procjenu uvjeta za 
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2022-1155` (tags `pravilnik-2022-1155/<day>`; `python tools/on.py <day> pravilnik-2022-1155`).
+Act id: `pravilnik-2022-1155` (tags `pravilnik-2022-1155/<day>`; `python registry/tools/on.py <day> pravilnik-2022-1155`).
 
 ## Decisions made by hand
 

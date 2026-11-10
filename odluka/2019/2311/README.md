@@ -9,7 +9,7 @@ Odluka o donošenju Mreže telemedicinskih centara · 1 versions, from 2019-12-0
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2019-2311` (tags `odluka-2019-2311/<day>`; `python tools/on.py <day> odluka-2019-2311`).
+Act id: `odluka-2019-2311` (tags `odluka-2019-2311/<day>`; `python registry/tools/on.py <day> odluka-2019-2311`).
 
 ## Status
 

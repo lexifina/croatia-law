@@ -16,7 +16,7 @@ Pravilnik o podnošenju pritužbi na rad ponuditelja ili osobe koja traži uvrš
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2025-1884` (tags `pravilnik-2025-1884/<day>`; `python tools/on.py <day> pravilnik-2025-1884`).
+Act id: `pravilnik-2025-1884` (tags `pravilnik-2025-1884/<day>`; `python registry/tools/on.py <day> pravilnik-2025-1884`).
 
 ## Decisions made by hand
 

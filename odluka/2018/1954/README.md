@@ -8,7 +8,7 @@ Odluka o donošenju Nacionalnog programa provedbe Strategije zbrinjavanja radioa
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2018-1954` (tags `odluka-2018-1954/<day>`; `python tools/on.py <day> odluka-2018-1954`).
+Act id: `odluka-2018-1954` (tags `odluka-2018-1954/<day>`; `python registry/tools/on.py <day> odluka-2018-1954`).
 
 ## Status
 

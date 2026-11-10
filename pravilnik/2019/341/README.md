@@ -24,7 +24,7 @@ Pravilnik o lovočuvarskoj službi · 1 versions, from 2019-02-23 (latest in for
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2019-341` (tags `pravilnik-2019-341/<day>`; `python tools/on.py <day> pravilnik-2019-341`).
+Act id: `pravilnik-2019-341` (tags `pravilnik-2019-341/<day>`; `python registry/tools/on.py <day> pravilnik-2019-341`).
 
 ## Decisions made by hand
 

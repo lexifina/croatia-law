@@ -11,7 +11,7 @@ Uredba o izmjeni i dopunama Uredbe o osnivanju Agencije za poljoprivredno zemlji
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2015-1794` (tags `uredba-2015-1794/<day>`; `python tools/on.py <day> uredba-2015-1794`).
+Act id: `uredba-2015-1794` (tags `uredba-2015-1794/<day>`; `python registry/tools/on.py <day> uredba-2015-1794`).
 
 ## Decisions made by hand
 

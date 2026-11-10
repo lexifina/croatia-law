@@ -14,7 +14,7 @@ Pravilnik o izmjenama i dopunama Pravilnika o odobrenju osnivanja, prospekta i s
 | čl. 8 | [clanak-008.md](clanak-008.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `pravilnik-2017-909` (tags `pravilnik-2017-909/<day>`; `python tools/on.py <day> pravilnik-2017-909`).
+Act id: `pravilnik-2017-909` (tags `pravilnik-2017-909/<day>`; `python registry/tools/on.py <day> pravilnik-2017-909`).
 
 ## Decisions made by hand
 

@@ -14,7 +14,7 @@ Pravilnik o načinu obračuna i uplati naknade za korištenje općekorisnih funk
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2024-1542` (tags `pravilnik-2024-1542/<day>`; `python tools/on.py <day> pravilnik-2024-1542`).
+Act id: `pravilnik-2024-1542` (tags `pravilnik-2024-1542/<day>`; `python registry/tools/on.py <day> pravilnik-2024-1542`).
 
 ## Decisions made by hand
 

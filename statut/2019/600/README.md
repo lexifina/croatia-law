@@ -80,7 +80,7 @@ Statut Hrvatske poljoprivredne komore · 1 versions, from 2019-03-30 (latest in 
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `statut-2019-600` (tags `statut-2019-600/<day>`; `python tools/on.py <day> statut-2019-600`).
+Act id: `statut-2019-600` (tags `statut-2019-600/<day>`; `python registry/tools/on.py <day> statut-2019-600`).
 
 ## Status
 

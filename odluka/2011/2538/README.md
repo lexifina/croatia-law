@@ -8,7 +8,7 @@ Odluka o utvrđivanju interesa Republike Hrvatske za izgradnju Športsko-rekreac
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2011-2538` (tags `odluka-2011-2538/<day>`; `python tools/on.py <day> odluka-2011-2538`).
+Act id: `odluka-2011-2538` (tags `odluka-2011-2538/<day>`; `python registry/tools/on.py <day> odluka-2011-2538`).
 
 ## Decisions made by hand
 

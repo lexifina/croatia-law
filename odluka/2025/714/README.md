@@ -8,7 +8,7 @@ Odluka o donošenju Nacionalnog plana stambene politike Republike Hrvatske do 20
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2025-714` (tags `odluka-2025-714/<day>`; `python tools/on.py <day> odluka-2025-714`).
+Act id: `odluka-2025-714` (tags `odluka-2025-714/<day>`; `python registry/tools/on.py <day> odluka-2025-714`).
 
 ## Decisions made by hand
 

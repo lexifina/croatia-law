@@ -8,7 +8,7 @@ Odluka o kriterijima za utvrđivanje pravnih osoba od posebnog interesa za Repub
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2020-536` (tags `odluka-2020-536/<day>`; `python tools/on.py <day> odluka-2020-536`).
+Act id: `odluka-2020-536` (tags `odluka-2020-536/<day>`; `python registry/tools/on.py <day> odluka-2020-536`).
 
 ## Status
 

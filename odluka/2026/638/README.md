@@ -14,7 +14,7 @@ Odluka o izdavanju prigodne kovanice »100 godina Hrvatske radiotelevizije« (NN
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2026-638` (tags `odluka-2026-638/<day>`; `python tools/on.py <day> odluka-2026-638`).
+Act id: `odluka-2026-638` (tags `odluka-2026-638/<day>`; `python registry/tools/on.py <day> odluka-2026-638`).
 
 ## Decisions made by hand
 

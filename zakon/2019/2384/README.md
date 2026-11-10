@@ -20,7 +20,7 @@ Zakon o izmjenama i dopunama Zakona o trošarinama · 1 versions, from 2020-01-0
 | čl. 14 | [clanak-014.md](clanak-014.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2019-2384` (tags `zakon-2019-2384/<day>`; `python tools/on.py <day> zakon-2019-2384`).
+Act id: `zakon-2019-2384` (tags `zakon-2019-2384/<day>`; `python registry/tools/on.py <day> zakon-2019-2384`).
 
 ## Decisions made by hand
 

@@ -34,7 +34,7 @@ Pravilnik o sadržaju i načinu vođenja registra udruga Republike Hrvatske i re
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2015-76` (tags `pravilnik-2015-76/<day>`; `python tools/on.py <day> pravilnik-2015-76`).
+Act id: `pravilnik-2015-76` (tags `pravilnik-2015-76/<day>`; `python registry/tools/on.py <day> pravilnik-2015-76`).
 
 ## Status
 

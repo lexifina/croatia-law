@@ -9,7 +9,7 @@ Zakon o izmjeni Zakona o dodatku na mirovine ostvarene prema Zakonu o mirovinsko
 | čl. 3 | [clanak-003.md](clanak-003.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2023-2395` (tags `zakon-2023-2395/<day>`; `python tools/on.py <day> zakon-2023-2395`).
+Act id: `zakon-2023-2395` (tags `zakon-2023-2395/<day>`; `python registry/tools/on.py <day> zakon-2023-2395`).
 
 ## Decisions made by hand
 

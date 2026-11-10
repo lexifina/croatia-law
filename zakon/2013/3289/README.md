@@ -285,7 +285,7 @@ Zakon o socijalnoj skrbi · 1 versions, from 2014-01-01 (latest in force: 2014-0
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 
-Act id: `zakon-2013-3289` (tags `zakon-2013-3289/<day>`; `python tools/on.py <day> zakon-2013-3289`).
+Act id: `zakon-2013-3289` (tags `zakon-2013-3289/<day>`; `python registry/tools/on.py <day> zakon-2013-3289`).
 
 ## Status
 

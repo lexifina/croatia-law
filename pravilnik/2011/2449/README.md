@@ -11,7 +11,7 @@ Pravilnik o obrascu dnevnika rada doktora medicine na specijalističkom usavrša
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2011-2449` (tags `pravilnik-2011-2449/<day>`; `python tools/on.py <day> pravilnik-2011-2449`).
+Act id: `pravilnik-2011-2449` (tags `pravilnik-2011-2449/<day>`; `python registry/tools/on.py <day> pravilnik-2011-2449`).
 
 ## Decisions made by hand
 

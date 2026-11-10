@@ -25,7 +25,7 @@ Pravilnik o tehničkim uvjetima za kabelsku kanalizaciju · 1 versions, from 202
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2023-1898` (tags `pravilnik-2023-1898/<day>`; `python tools/on.py <day> pravilnik-2023-1898`).
+Act id: `pravilnik-2023-1898` (tags `pravilnik-2023-1898/<day>`; `python registry/tools/on.py <day> pravilnik-2023-1898`).
 
 ## Decisions made by hand
 

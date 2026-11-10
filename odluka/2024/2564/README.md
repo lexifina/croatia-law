@@ -8,7 +8,7 @@ Odluka o visini osnovice za obračun plaće u javnim službama u 2025. godini ·
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2024-2564` (tags `odluka-2024-2564/<day>`; `python tools/on.py <day> odluka-2024-2564`).
+Act id: `odluka-2024-2564` (tags `odluka-2024-2564/<day>`; `python registry/tools/on.py <day> odluka-2024-2564`).
 
 ## Decisions made by hand
 

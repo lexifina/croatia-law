@@ -12,7 +12,7 @@ Pravilnik o izmjenama i dopuni Pravilnika o evidenciji uporabe poljoprivrednog z
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2014-168` (tags `pravilnik-2014-168/<day>`; `python tools/on.py <day> pravilnik-2014-168`).
+Act id: `pravilnik-2014-168` (tags `pravilnik-2014-168/<day>`; `python registry/tools/on.py <day> pravilnik-2014-168`).
 
 ## Decisions made by hand
 

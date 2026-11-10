@@ -10,7 +10,7 @@ Odluka o izmjenama Odluke o gradskim porezima Grada Križevaca · 1 versions, fr
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2023-2402` (tags `odluka-2023-2402/<day>`; `python tools/on.py <day> odluka-2023-2402`).
+Act id: `odluka-2023-2402` (tags `odluka-2023-2402/<day>`; `python registry/tools/on.py <day> odluka-2023-2402`).
 
 ## Decisions made by hand
 

@@ -9,7 +9,7 @@ Pravilnik o stavljanju izvan snage Pravilnika o označavanju energetske učinkov
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2013-1720` (tags `pravilnik-2013-1720/<day>`; `python tools/on.py <day> pravilnik-2013-1720`).
+Act id: `pravilnik-2013-1720` (tags `pravilnik-2013-1720/<day>`; `python registry/tools/on.py <day> pravilnik-2013-1720`).
 
 ## Decisions made by hand
 

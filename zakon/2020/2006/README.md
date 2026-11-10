@@ -23,7 +23,7 @@ Zakon o izmjenama i dopunama Zakona o koncesijama · 1 versions, from 2020-10-10
 | čl. 17 | [clanak-017.md](clanak-017.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2020-2006` (tags `zakon-2020-2006/<day>`; `python tools/on.py <day> zakon-2020-2006`).
+Act id: `zakon-2020-2006` (tags `zakon-2020-2006/<day>`; `python registry/tools/on.py <day> zakon-2020-2006`).
 
 ## Decisions made by hand
 

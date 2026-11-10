@@ -25,7 +25,7 @@ Odluka o kupoprodaji plasmana kreditnih institucija · 1 versions, from 2014-11-
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2014-2423` (tags `odluka-2014-2423/<day>`; `python tools/on.py <day> odluka-2014-2423`).
+Act id: `odluka-2014-2423` (tags `odluka-2014-2423/<day>`; `python registry/tools/on.py <day> odluka-2014-2423`).
 
 ## Status
 

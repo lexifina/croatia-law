@@ -12,7 +12,7 @@ Pravilnik o izmjenama Pravilnika o obavljanju poslova depozitara AIF-a · 1 vers
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2026-747` (tags `pravilnik-2026-747/<day>`; `python tools/on.py <day> pravilnik-2026-747`).
+Act id: `pravilnik-2026-747` (tags `pravilnik-2026-747/<day>`; `python registry/tools/on.py <day> pravilnik-2026-747`).
 
 ## Decisions made by hand
 

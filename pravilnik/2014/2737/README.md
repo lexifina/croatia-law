@@ -14,7 +14,7 @@ Pravilnik o načinu objave kolektivnih ugovora · 1 versions, from 2014-12-18 (l
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2014-2737` (tags `pravilnik-2014-2737/<day>`; `python tools/on.py <day> pravilnik-2014-2737`).
+Act id: `pravilnik-2014-2737` (tags `pravilnik-2014-2737/<day>`; `python registry/tools/on.py <day> pravilnik-2014-2737`).
 
 ## Status
 

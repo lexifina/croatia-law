@@ -8,7 +8,7 @@ Odluka o otvaranju za promet novoizgrađenog pješačkog prijelaza · 1 versions
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2025-1486` (tags `odluka-2025-1486/<day>`; `python tools/on.py <day> odluka-2025-1486`).
+Act id: `odluka-2025-1486` (tags `odluka-2025-1486/<day>`; `python registry/tools/on.py <day> odluka-2025-1486`).
 
 ## Decisions made by hand
 

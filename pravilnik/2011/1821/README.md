@@ -13,7 +13,7 @@ Pravilnik o izmjenama Pravilnika o posebnim uvjetima za uvoz hrane i hrane za ž
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2011-1821` (tags `pravilnik-2011-1821/<day>`; `python tools/on.py <day> pravilnik-2011-1821`).
+Act id: `pravilnik-2011-1821` (tags `pravilnik-2011-1821/<day>`; `python registry/tools/on.py <day> pravilnik-2011-1821`).
 
 ## Decisions made by hand
 

@@ -15,7 +15,7 @@ Pravilnik o izmjenama i dopunama Pravilnika o izračunu prosječnog dnevnog neto
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2019-2322` (tags `pravilnik-2019-2322/<day>`; `python tools/on.py <day> pravilnik-2019-2322`).
+Act id: `pravilnik-2019-2322` (tags `pravilnik-2019-2322/<day>`; `python registry/tools/on.py <day> pravilnik-2019-2322`).
 
 ## Decisions made by hand
 

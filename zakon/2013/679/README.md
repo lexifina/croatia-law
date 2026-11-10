@@ -8,7 +8,7 @@ Zakon o izmjeni Zakona o plaćama ovlaštenih državnih revizora · 1 versions, 
 | čl. 2 | [clanak-002.md](clanak-002.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2013-679` (tags `zakon-2013-679/<day>`; `python tools/on.py <day> zakon-2013-679`).
+Act id: `zakon-2013-679` (tags `zakon-2013-679/<day>`; `python registry/tools/on.py <day> zakon-2013-679`).
 
 ## Decisions made by hand
 

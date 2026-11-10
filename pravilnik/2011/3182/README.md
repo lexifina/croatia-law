@@ -19,7 +19,7 @@ Pravilnik o postupku objavljivanja natječaja i o odlučivanju o odabiru korisni
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2011-3182` (tags `pravilnik-2011-3182/<day>`; `python tools/on.py <day> pravilnik-2011-3182`).
+Act id: `pravilnik-2011-3182` (tags `pravilnik-2011-3182/<day>`; `python registry/tools/on.py <day> pravilnik-2011-3182`).
 
 ## Status
 

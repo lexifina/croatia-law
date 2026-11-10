@@ -19,7 +19,7 @@ Pravilnik o sadržaju revizije pružatelja usluga povezanih s kriptoimovinom · 
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2025-2370` (tags `pravilnik-2025-2370/<day>`; `python tools/on.py <day> pravilnik-2025-2370`).
+Act id: `pravilnik-2025-2370` (tags `pravilnik-2025-2370/<day>`; `python registry/tools/on.py <day> pravilnik-2025-2370`).
 
 ## Decisions made by hand
 

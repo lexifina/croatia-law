@@ -30,7 +30,7 @@ Zakon o državnoj informacijskoj infrastrukturi · 1 versions, from 2014-08-05 (
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 
-Act id: `zakon-2014-1840` (tags `zakon-2014-1840/<day>`; `python tools/on.py <day> zakon-2014-1840`).
+Act id: `zakon-2014-1840` (tags `zakon-2014-1840/<day>`; `python registry/tools/on.py <day> zakon-2014-1840`).
 
 ## Status
 

@@ -9,7 +9,7 @@ Odluka o raspodjeli sredstava za financiranje obrazovnih, znanstvenih, kulturnih
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2024-1536` (tags `odluka-2024-1536/<day>`; `python tools/on.py <day> odluka-2024-1536`).
+Act id: `odluka-2024-1536` (tags `odluka-2024-1536/<day>`; `python registry/tools/on.py <day> odluka-2024-1536`).
 
 ## Decisions made by hand
 

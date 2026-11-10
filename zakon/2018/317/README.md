@@ -34,7 +34,7 @@ Zakon o izmjenama i dopunama Zakona o genetski modificiranim organizmima · 1 ve
 | čl. 28 | [clanak-028.md](clanak-028.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2018-317` (tags `zakon-2018-317/<day>`; `python tools/on.py <day> zakon-2018-317`).
+Act id: `zakon-2018-317` (tags `zakon-2018-317/<day>`; `python registry/tools/on.py <day> zakon-2018-317`).
 
 ## Decisions made by hand
 

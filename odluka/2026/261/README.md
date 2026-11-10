@@ -8,7 +8,7 @@ Odluka o osnivanju Povjerenstva za koordinaciju potpore i financiranje obrazovni
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2026-261` (tags `odluka-2026-261/<day>`; `python tools/on.py <day> odluka-2026-261`).
+Act id: `odluka-2026-261` (tags `odluka-2026-261/<day>`; `python registry/tools/on.py <day> odluka-2026-261`).
 
 ## Decisions made by hand
 

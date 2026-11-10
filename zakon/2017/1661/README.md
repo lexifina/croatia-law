@@ -143,7 +143,7 @@ Zakon o izmjenama i dopunama Zakona o kaznenom postupku · 1 versions, from 2017
 | čl. 137 | [clanak-137.md](clanak-137.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2017-1661` (tags `zakon-2017-1661/<day>`; `python tools/on.py <day> zakon-2017-1661`).
+Act id: `zakon-2017-1661` (tags `zakon-2017-1661/<day>`; `python registry/tools/on.py <day> zakon-2017-1661`).
 
 ## Decisions made by hand
 

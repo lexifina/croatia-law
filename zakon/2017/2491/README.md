@@ -56,7 +56,7 @@ Zakon o izmjenama i dopunama Zakona o sigurnosti prometa na cestama · 1 version
 | čl. 50 | [clanak-050.md](clanak-050.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2017-2491` (tags `zakon-2017-2491/<day>`; `python tools/on.py <day> zakon-2017-2491`).
+Act id: `zakon-2017-2491` (tags `zakon-2017-2491/<day>`; `python registry/tools/on.py <day> zakon-2017-2491`).
 
 ## Decisions made by hand
 

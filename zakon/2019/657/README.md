@@ -18,7 +18,7 @@ Zakon o izmjenama i dopuni Zakona o provedbi uredbi Europske unije o zaštiti ž
 | čl. 12 | [clanak-012.md](clanak-012.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2019-657` (tags `zakon-2019-657/<day>`; `python tools/on.py <day> zakon-2019-657`).
+Act id: `zakon-2019-657` (tags `zakon-2019-657/<day>`; `python registry/tools/on.py <day> zakon-2019-657`).
 
 ## Decisions made by hand
 

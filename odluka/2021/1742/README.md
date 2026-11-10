@@ -12,7 +12,7 @@ Odluka o naknadi za superviziju kreditnih institucija za 2021. godinu · 1 versi
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2021-1742` (tags `odluka-2021-1742/<day>`; `python tools/on.py <day> odluka-2021-1742`).
+Act id: `odluka-2021-1742` (tags `odluka-2021-1742/<day>`; `python registry/tools/on.py <day> odluka-2021-1742`).
 
 ## Decisions made by hand
 

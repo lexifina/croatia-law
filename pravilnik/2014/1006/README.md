@@ -9,7 +9,7 @@ Pravilnik o izmjeni Pravilnika o dodacima na plaću djelatnih vojnih osoba · 1 
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2014-1006` (tags `pravilnik-2014-1006/<day>`; `python tools/on.py <day> pravilnik-2014-1006`).
+Act id: `pravilnik-2014-1006` (tags `pravilnik-2014-1006/<day>`; `python registry/tools/on.py <day> pravilnik-2014-1006`).
 
 ## Decisions made by hand
 

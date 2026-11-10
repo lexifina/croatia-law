@@ -11,7 +11,7 @@ Pravilnik o izmjenama i dopunama Pravilnika o strukturi i sadržaju godišnjih f
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2017-60` (tags `pravilnik-2017-60/<day>`; `python tools/on.py <day> pravilnik-2017-60`).
+Act id: `pravilnik-2017-60` (tags `pravilnik-2017-60/<day>`; `python registry/tools/on.py <day> pravilnik-2017-60`).
 
 ## Decisions made by hand
 

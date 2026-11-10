@@ -10,7 +10,7 @@ Odluka o izmjenama Odluke o regulatornom kapitalu institucija za elektronički n
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2022-2261` (tags `odluka-2022-2261/<day>`; `python tools/on.py <day> odluka-2022-2261`).
+Act id: `odluka-2022-2261` (tags `odluka-2022-2261/<day>`; `python registry/tools/on.py <day> odluka-2022-2261`).
 
 ## Decisions made by hand
 

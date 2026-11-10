@@ -8,7 +8,7 @@ Odluka o utvrđivanju interesa Republike Hrvatske za izvođenje radova eksploata
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2025-1551` (tags `odluka-2025-1551/<day>`; `python tools/on.py <day> odluka-2025-1551`).
+Act id: `odluka-2025-1551` (tags `odluka-2025-1551/<day>`; `python registry/tools/on.py <day> odluka-2025-1551`).
 
 ## Decisions made by hand
 

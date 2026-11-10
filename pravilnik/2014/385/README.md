@@ -15,7 +15,7 @@ Pravilnik o načinu vođenja očevidnika o polascima i dolascima autobusa · 1 v
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2014-385` (tags `pravilnik-2014-385/<day>`; `python tools/on.py <day> pravilnik-2014-385`).
+Act id: `pravilnik-2014-385` (tags `pravilnik-2014-385/<day>`; `python registry/tools/on.py <day> pravilnik-2014-385`).
 
 ## Status
 

@@ -14,7 +14,7 @@ Odluka o strukturi i sadržaju godišnjih financijskih izvještaja kreditnih uni
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2017-681` (tags `odluka-2017-681/<day>`; `python tools/on.py <day> odluka-2017-681`).
+Act id: `odluka-2017-681` (tags `odluka-2017-681/<day>`; `python registry/tools/on.py <day> odluka-2017-681`).
 
 ## Status
 

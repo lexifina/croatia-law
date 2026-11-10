@@ -12,7 +12,7 @@ Zakon o izmjenama i dopunama Zakona o financiranju vodnoga gospodarstva · 1 ver
 | čl. 6 | [clanak-006.md](clanak-006.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2016-2610` (tags `zakon-2016-2610/<day>`; `python tools/on.py <day> zakon-2016-2610`).
+Act id: `zakon-2016-2610` (tags `zakon-2016-2610/<day>`; `python registry/tools/on.py <day> zakon-2016-2610`).
 
 ## Decisions made by hand
 

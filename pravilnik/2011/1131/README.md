@@ -10,7 +10,7 @@ Pravilnik o izmjeni i dopuni Pravilnika o minimalnim uvjetima za zaštitu kokoš
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2011-1131` (tags `pravilnik-2011-1131/<day>`; `python tools/on.py <day> pravilnik-2011-1131`).
+Act id: `pravilnik-2011-1131` (tags `pravilnik-2011-1131/<day>`; `python registry/tools/on.py <day> pravilnik-2011-1131`).
 
 ## Decisions made by hand
 

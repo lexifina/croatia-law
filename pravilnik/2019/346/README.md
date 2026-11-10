@@ -30,7 +30,7 @@ Pravilnik o naknadi štete ulagateljima UCITS fonda i/ili UCITS fondu · 1 versi
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2019-346` (tags `pravilnik-2019-346/<day>`; `python tools/on.py <day> pravilnik-2019-346`).
+Act id: `pravilnik-2019-346` (tags `pravilnik-2019-346/<day>`; `python registry/tools/on.py <day> pravilnik-2019-346`).
 
 ## Status
 

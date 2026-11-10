@@ -15,7 +15,7 @@ Pravilnik o tehničkim zahtjevima za građevine odvodnje otpadnih voda, kao i ro
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2011-53` (tags `pravilnik-2011-53/<day>`; `python tools/on.py <day> pravilnik-2011-53`).
+Act id: `pravilnik-2011-53` (tags `pravilnik-2011-53/<day>`; `python registry/tools/on.py <day> pravilnik-2011-53`).
 
 ## Decisions made by hand
 

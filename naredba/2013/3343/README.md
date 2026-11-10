@@ -17,7 +17,7 @@ Naredba o visini naknade za utvrđivanje sposobnosti brodica za plovidbu i o vis
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `naredba-2013-3343` (tags `naredba-2013-3343/<day>`; `python tools/on.py <day> naredba-2013-3343`).
+Act id: `naredba-2013-3343` (tags `naredba-2013-3343/<day>`; `python registry/tools/on.py <day> naredba-2013-3343`).
 
 ## Status
 

@@ -8,7 +8,7 @@ Odluka o izmjeni Odluke o obustavi izvođenja nastave u visokim učilištima, sr
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2020-711` (tags `odluka-2020-711/<day>`; `python tools/on.py <day> odluka-2020-711`).
+Act id: `odluka-2020-711` (tags `odluka-2020-711/<day>`; `python registry/tools/on.py <day> odluka-2020-711`).
 
 ## Decisions made by hand
 

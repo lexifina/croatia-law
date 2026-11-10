@@ -9,7 +9,7 @@ Uredba o dopuni Zakona o sportu · 1 versions, from 2020-07-04 (latest in force:
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2020-1463` (tags `uredba-2020-1463/<day>`; `python tools/on.py <day> uredba-2020-1463`).
+Act id: `uredba-2020-1463` (tags `uredba-2020-1463/<day>`; `python registry/tools/on.py <day> uredba-2020-1463`).
 
 ## Decisions made by hand
 

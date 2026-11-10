@@ -8,7 +8,7 @@ Odluka o prestanku važenja Odluke o osnivanju Koordinativnog tijela za praćenj
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2012-2471` (tags `odluka-2012-2471/<day>`; `python tools/on.py <day> odluka-2012-2471`).
+Act id: `odluka-2012-2471` (tags `odluka-2012-2471/<day>`; `python registry/tools/on.py <day> odluka-2012-2471`).
 
 ## Decisions made by hand
 

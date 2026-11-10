@@ -8,7 +8,7 @@ Odluka o davanju prethodne suglasnosti na Izmjene i dopune Statuta Agencije za c
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2012-2398` (tags `odluka-2012-2398/<day>`; `python tools/on.py <day> odluka-2012-2398`).
+Act id: `odluka-2012-2398` (tags `odluka-2012-2398/<day>`; `python registry/tools/on.py <day> odluka-2012-2398`).
 
 ## Decisions made by hand
 

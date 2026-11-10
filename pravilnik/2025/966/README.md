@@ -11,7 +11,7 @@ Pravilnik o izmjeni i dopuni Pravilnika o obrascima zdravstvene dokumentacije dj
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2025-966` (tags `pravilnik-2025-966/<day>`; `python tools/on.py <day> pravilnik-2025-966`).
+Act id: `pravilnik-2025-966` (tags `pravilnik-2025-966/<day>`; `python registry/tools/on.py <day> pravilnik-2025-966`).
 
 ## Decisions made by hand
 

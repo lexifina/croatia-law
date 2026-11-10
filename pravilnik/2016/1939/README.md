@@ -9,7 +9,7 @@ Pravilnik o izmjeni Pravilnika o dodjeli novčanih sredstava za održavanje eko 
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2016-1939` (tags `pravilnik-2016-1939/<day>`; `python tools/on.py <day> pravilnik-2016-1939`).
+Act id: `pravilnik-2016-1939` (tags `pravilnik-2016-1939/<day>`; `python registry/tools/on.py <day> pravilnik-2016-1939`).
 
 ## Decisions made by hand
 

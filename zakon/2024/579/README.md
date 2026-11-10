@@ -20,7 +20,7 @@ Zakon o izmjenama i dopunama Zakona o zdravstvenoj zaštiti · 1 versions, from 
 | čl. 14 | [clanak-014.md](clanak-014.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2024-579` (tags `zakon-2024-579/<day>`; `python tools/on.py <day> zakon-2024-579`).
+Act id: `zakon-2024-579` (tags `zakon-2024-579/<day>`; `python registry/tools/on.py <day> zakon-2024-579`).
 
 ## Decisions made by hand
 

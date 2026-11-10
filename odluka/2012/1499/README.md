@@ -8,7 +8,7 @@ Odluka o dopuni Odluke o utvrđivanju visine mjesečne pristojbe koja se plaća 
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2012-1499` (tags `odluka-2012-1499/<day>`; `python tools/on.py <day> odluka-2012-1499`).
+Act id: `odluka-2012-1499` (tags `odluka-2012-1499/<day>`; `python registry/tools/on.py <day> odluka-2012-1499`).
 
 ## Decisions made by hand
 

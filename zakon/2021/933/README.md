@@ -18,7 +18,7 @@ Zakon o izmjenama i dopunama Zakona o provedbi Uredbe (EU) 2016/1011 o indeksima
 | čl. 12 | [clanak-012.md](clanak-012.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2021-933` (tags `zakon-2021-933/<day>`; `python tools/on.py <day> zakon-2021-933`).
+Act id: `zakon-2021-933` (tags `zakon-2021-933/<day>`; `python registry/tools/on.py <day> zakon-2021-933`).
 
 ## Decisions made by hand
 

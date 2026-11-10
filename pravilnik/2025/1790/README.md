@@ -36,7 +36,7 @@ Pravilnik o provedbi mjere I.1. »Inovacije u ribolovu« · 1 versions, from 202
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2025-1790` (tags `pravilnik-2025-1790/<day>`; `python tools/on.py <day> pravilnik-2025-1790`).
+Act id: `pravilnik-2025-1790` (tags `pravilnik-2025-1790/<day>`; `python registry/tools/on.py <day> pravilnik-2025-1790`).
 
 ## Decisions made by hand
 

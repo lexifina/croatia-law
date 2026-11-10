@@ -8,7 +8,7 @@ Odluka o sanaciji Klinike za dječje bolesti Zagreb · 1 versions, from 2013-04-
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2013-642` (tags `odluka-2013-642/<day>`; `python tools/on.py <day> odluka-2013-642`).
+Act id: `odluka-2013-642` (tags `odluka-2013-642/<day>`; `python registry/tools/on.py <day> odluka-2013-642`).
 
 ## Status
 

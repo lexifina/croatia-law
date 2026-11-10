@@ -46,7 +46,7 @@ Uredba o izmjenama i dopunama Uredbe o unutarnjem ustrojstvu Ministarstva region
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2013-2460` (tags `uredba-2013-2460/<day>`; `python tools/on.py <day> uredba-2013-2460`).
+Act id: `uredba-2013-2460` (tags `uredba-2013-2460/<day>`; `python registry/tools/on.py <day> uredba-2013-2460`).
 
 ## Decisions made by hand
 

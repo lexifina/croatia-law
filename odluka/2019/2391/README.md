@@ -8,7 +8,7 @@ Odluka o davanju koncesije društvu TERME TUHELJ d.o.o., za zahvaćanje mineraln
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2019-2391` (tags `odluka-2019-2391/<day>`; `python tools/on.py <day> odluka-2019-2391`).
+Act id: `odluka-2019-2391` (tags `odluka-2019-2391/<day>`; `python registry/tools/on.py <day> odluka-2019-2391`).
 
 ## Decisions made by hand
 

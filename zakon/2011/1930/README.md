@@ -20,7 +20,7 @@ Zakon o izmjenama i dopuni Zakona o audiovizualnim djelatnostima · 1 versions, 
 | čl. 14 | [clanak-014.md](clanak-014.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2011-1930` (tags `zakon-2011-1930/<day>`; `python tools/on.py <day> zakon-2011-1930`).
+Act id: `zakon-2011-1930` (tags `zakon-2011-1930/<day>`; `python registry/tools/on.py <day> zakon-2011-1930`).
 
 ## Decisions made by hand
 

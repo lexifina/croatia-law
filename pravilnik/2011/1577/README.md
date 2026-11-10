@@ -24,7 +24,7 @@ Pravilnik o zahtjevima zdravlja životinja za nekomercijalno kretanje kućnih lj
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2011-1577` (tags `pravilnik-2011-1577/<day>`; `python tools/on.py <day> pravilnik-2011-1577`).
+Act id: `pravilnik-2011-1577` (tags `pravilnik-2011-1577/<day>`; `python registry/tools/on.py <day> pravilnik-2011-1577`).
 
 ## Status
 

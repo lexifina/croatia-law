@@ -83,7 +83,7 @@ Pravilnik o postupku, kriterijima i rokovima za provedbu Nacionalnog programa pr
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2021-1430` (tags `pravilnik-2021-1430/<day>`; `python tools/on.py <day> pravilnik-2021-1430`).
+Act id: `pravilnik-2021-1430` (tags `pravilnik-2021-1430/<day>`; `python registry/tools/on.py <day> pravilnik-2021-1430`).
 
 ## Status
 

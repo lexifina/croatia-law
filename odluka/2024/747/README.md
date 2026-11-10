@@ -10,7 +10,7 @@ Odluka o izmjeni Odluke o označavanju autocesta · 1 versions, from 2024-04-18 
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2024-747` (tags `odluka-2024-747/<day>`; `python tools/on.py <day> odluka-2024-747`).
+Act id: `odluka-2024-747` (tags `odluka-2024-747/<day>`; `python registry/tools/on.py <day> odluka-2024-747`).
 
 ## Decisions made by hand
 

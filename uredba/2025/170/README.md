@@ -27,7 +27,7 @@ Uredba o Agenciji za pravni promet i posredovanje nekretninama · 1 versions, fr
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2025-170` (tags `uredba-2025-170/<day>`; `python tools/on.py <day> uredba-2025-170`).
+Act id: `uredba-2025-170` (tags `uredba-2025-170/<day>`; `python registry/tools/on.py <day> uredba-2025-170`).
 
 ## Status
 

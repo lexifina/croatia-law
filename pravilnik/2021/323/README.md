@@ -33,7 +33,7 @@ Pravilnik o uvjetima, kriterijima i načinu dodjele potpore u okviru mjere II.1.
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2021-323` (tags `pravilnik-2021-323/<day>`; `python tools/on.py <day> pravilnik-2021-323`).
+Act id: `pravilnik-2021-323` (tags `pravilnik-2021-323/<day>`; `python registry/tools/on.py <day> pravilnik-2021-323`).
 
 ## Decisions made by hand
 

@@ -20,7 +20,7 @@ Naputak o načinu pečaćenja kada se rješenje inspektora Državnog inspektorat
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `naputak-2020-523` (tags `naputak-2020-523/<day>`; `python tools/on.py <day> naputak-2020-523`).
+Act id: `naputak-2020-523` (tags `naputak-2020-523/<day>`; `python registry/tools/on.py <day> naputak-2020-523`).
 
 ## Status
 

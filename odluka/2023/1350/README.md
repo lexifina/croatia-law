@@ -8,7 +8,7 @@ Odluka o stavljanju izvan snage Odluke o umanjenju plaće i dodataka na plaću d
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2023-1350` (tags `odluka-2023-1350/<day>`; `python tools/on.py <day> odluka-2023-1350`).
+Act id: `odluka-2023-1350` (tags `odluka-2023-1350/<day>`; `python registry/tools/on.py <day> odluka-2023-1350`).
 
 ## Decisions made by hand
 

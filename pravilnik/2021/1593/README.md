@@ -40,7 +40,7 @@ Pravilnik o civilnim strelištima i drugim mjestima određenim za vježbe gađan
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2021-1593` (tags `pravilnik-2021-1593/<day>`; `python tools/on.py <day> pravilnik-2021-1593`).
+Act id: `pravilnik-2021-1593` (tags `pravilnik-2021-1593/<day>`; `python registry/tools/on.py <day> pravilnik-2021-1593`).
 
 ## Decisions made by hand
 

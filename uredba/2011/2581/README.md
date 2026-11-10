@@ -19,7 +19,7 @@ Uredba o plaćama policijskih službenika · 1 versions, from 2011-11-14 (latest
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2011-2581` (tags `uredba-2011-2581/<day>`; `python tools/on.py <day> uredba-2011-2581`).
+Act id: `uredba-2011-2581` (tags `uredba-2011-2581/<day>`; `python registry/tools/on.py <day> uredba-2011-2581`).
 
 ## Status
 

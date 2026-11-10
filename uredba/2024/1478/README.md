@@ -37,7 +37,7 @@ Uredba o ustrojstvu i načinu rada Odbora za državnu službu · 1 versions, fro
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2024-1478` (tags `uredba-2024-1478/<day>`; `python tools/on.py <day> uredba-2024-1478`).
+Act id: `uredba-2024-1478` (tags `uredba-2024-1478/<day>`; `python registry/tools/on.py <day> uredba-2024-1478`).
 
 ## Status
 

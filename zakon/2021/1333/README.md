@@ -20,7 +20,7 @@ Zakon o izmjenama i dopunama Zakona o izvršavanju Državnog proračuna Republik
 | čl. 14 | [clanak-014.md](clanak-014.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2021-1333` (tags `zakon-2021-1333/<day>`; `python tools/on.py <day> zakon-2021-1333`).
+Act id: `zakon-2021-1333` (tags `zakon-2021-1333/<day>`; `python registry/tools/on.py <day> zakon-2021-1333`).
 
 ## Decisions made by hand
 

@@ -10,7 +10,7 @@ Uredba o izmjeni i dopuni Uredbe o sustavu brze razmjene službenih obavijesti o
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2019-811` (tags `uredba-2019-811/<day>`; `python tools/on.py <day> uredba-2019-811`).
+Act id: `uredba-2019-811` (tags `uredba-2019-811/<day>`; `python registry/tools/on.py <day> uredba-2019-811`).
 
 ## Decisions made by hand
 

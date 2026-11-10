@@ -9,7 +9,7 @@ Zakon o izmjenama i dopunama Zakona o obvezama i pravima državnih dužnosnika �
 | čl. 3 | [clanak-003.md](clanak-003.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2011-3087` (tags `zakon-2011-3087/<day>`; `python tools/on.py <day> zakon-2011-3087`).
+Act id: `zakon-2011-3087` (tags `zakon-2011-3087/<day>`; `python registry/tools/on.py <day> zakon-2011-3087`).
 
 ## Decisions made by hand
 

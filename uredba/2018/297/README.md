@@ -19,7 +19,7 @@ Uredba o izmjenama i dopunama Uredbe o unutarnjem ustrojstvu Središnjeg državn
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2018-297` (tags `uredba-2018-297/<day>`; `python tools/on.py <day> uredba-2018-297`).
+Act id: `uredba-2018-297` (tags `uredba-2018-297/<day>`; `python registry/tools/on.py <day> uredba-2018-297`).
 
 ## Decisions made by hand
 

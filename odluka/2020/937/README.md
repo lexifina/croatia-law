@@ -9,7 +9,7 @@ Odluka o izmjeni Odluke o provođenju monetarne politike Hrvatske narodne banke 
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2020-937` (tags `odluka-2020-937/<day>`; `python tools/on.py <day> odluka-2020-937`).
+Act id: `odluka-2020-937` (tags `odluka-2020-937/<day>`; `python registry/tools/on.py <day> odluka-2020-937`).
 
 ## Decisions made by hand
 

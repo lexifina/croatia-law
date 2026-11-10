@@ -9,7 +9,7 @@ Odluka o usvajanju Programa »Pojedinačna jamstva za ruralni razvoj« · 1 vers
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2018-1162` (tags `odluka-2018-1162/<day>`; `python tools/on.py <day> odluka-2018-1162`).
+Act id: `odluka-2018-1162` (tags `odluka-2018-1162/<day>`; `python registry/tools/on.py <day> odluka-2018-1162`).
 
 ## Status
 

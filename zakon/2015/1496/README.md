@@ -17,7 +17,7 @@ Zakon o izmjenama i dopunama Zakona o zračnim lukama · 1 versions, from 2015-0
 | čl. 11 | [clanak-011.md](clanak-011.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2015-1496` (tags `zakon-2015-1496/<day>`; `python tools/on.py <day> zakon-2015-1496`).
+Act id: `zakon-2015-1496` (tags `zakon-2015-1496/<day>`; `python registry/tools/on.py <day> zakon-2015-1496`).
 
 ## Decisions made by hand
 

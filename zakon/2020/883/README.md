@@ -12,7 +12,7 @@ Zakon o izmjeni i dopunama Zakona o računovodstvu · 1 versions, from 2020-04-0
 | čl. 6 | [clanak-006.md](clanak-006.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2020-883` (tags `zakon-2020-883/<day>`; `python tools/on.py <day> zakon-2020-883`).
+Act id: `zakon-2020-883` (tags `zakon-2020-883/<day>`; `python registry/tools/on.py <day> zakon-2020-883`).
 
 ## Status
 

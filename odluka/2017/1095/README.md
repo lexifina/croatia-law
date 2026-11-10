@@ -8,7 +8,7 @@ Odluka o osnivanju Vijeća mladih Predsjednice Republike Hrvatske · 1 versions,
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2017-1095` (tags `odluka-2017-1095/<day>`; `python tools/on.py <day> odluka-2017-1095`).
+Act id: `odluka-2017-1095` (tags `odluka-2017-1095/<day>`; `python registry/tools/on.py <day> odluka-2017-1095`).
 
 ## Status
 

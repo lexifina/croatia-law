@@ -14,7 +14,7 @@ Odluka o izmjenama Odluke o lokalnim porezima Grada Vrbovskog · 1 versions, fro
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2023-2085` (tags `odluka-2023-2085/<day>`; `python tools/on.py <day> odluka-2023-2085`).
+Act id: `odluka-2023-2085` (tags `odluka-2023-2085/<day>`; `python registry/tools/on.py <day> odluka-2023-2085`).
 
 ## Decisions made by hand
 

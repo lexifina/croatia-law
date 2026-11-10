@@ -44,7 +44,7 @@ Zakon o izmjenama i dopunama Zakona o sudovima · 1 versions, from 2022-03-01 (l
 | čl. 38 | [clanak-038.md](clanak-038.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2022-222` (tags `zakon-2022-222/<day>`; `python tools/on.py <day> zakon-2022-222`).
+Act id: `zakon-2022-222` (tags `zakon-2022-222/<day>`; `python registry/tools/on.py <day> zakon-2022-222`).
 
 ## Decisions made by hand
 

@@ -7,7 +7,7 @@ Zakon o izmjeni i dopuni Zakona o privatizaciji INA - Industrije nafte d.d. · 1
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 
-Act id: `zakon-2019-437` (tags `zakon-2019-437/<day>`; `python tools/on.py <day> zakon-2019-437`).
+Act id: `zakon-2019-437` (tags `zakon-2019-437/<day>`; `python registry/tools/on.py <day> zakon-2019-437`).
 
 ## Decisions made by hand
 

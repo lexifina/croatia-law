@@ -13,7 +13,7 @@ Odluka o visini stope prireza porezu na dohodak Općine Okučani · 1 versions, 
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2019-2585` (tags `odluka-2019-2585/<day>`; `python tools/on.py <day> odluka-2019-2585`).
+Act id: `odluka-2019-2585` (tags `odluka-2019-2585/<day>`; `python registry/tools/on.py <day> odluka-2019-2585`).
 
 ## Decisions made by hand
 

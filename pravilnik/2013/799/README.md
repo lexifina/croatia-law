@@ -17,7 +17,7 @@ Pravilnik o izmjenama i dopunama Pravilnika o Upisniku poljoprivrednih gospodars
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2013-799` (tags `pravilnik-2013-799/<day>`; `python tools/on.py <day> pravilnik-2013-799`).
+Act id: `pravilnik-2013-799` (tags `pravilnik-2013-799/<day>`; `python registry/tools/on.py <day> pravilnik-2013-799`).
 
 ## Decisions made by hand
 

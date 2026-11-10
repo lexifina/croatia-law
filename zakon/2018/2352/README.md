@@ -84,7 +84,7 @@ Zakon o izmjenama Zakona o radiološkoj i nuklearnoj sigurnosti · 1 versions, f
 | čl. 78 | [clanak-078.md](clanak-078.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2018-2352` (tags `zakon-2018-2352/<day>`; `python tools/on.py <day> zakon-2018-2352`).
+Act id: `zakon-2018-2352` (tags `zakon-2018-2352/<day>`; `python registry/tools/on.py <day> zakon-2018-2352`).
 
 ## Decisions made by hand
 

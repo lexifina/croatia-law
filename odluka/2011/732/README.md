@@ -8,7 +8,7 @@ Odluka o kriterijima raspodjele trajne i godišnje izlovne kvote za ribolov tune
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2011-732` (tags `odluka-2011-732/<day>`; `python tools/on.py <day> odluka-2011-732`).
+Act id: `odluka-2011-732` (tags `odluka-2011-732/<day>`; `python registry/tools/on.py <day> odluka-2011-732`).
 
 ## Status
 

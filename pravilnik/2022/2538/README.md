@@ -10,7 +10,7 @@ Pravilnik o izmjenama Pravilnika o utvrđivanju visine nagrada i naknada troško
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2022-2538` (tags `pravilnik-2022-2538/<day>`; `python tools/on.py <day> pravilnik-2022-2538`).
+Act id: `pravilnik-2022-2538` (tags `pravilnik-2022-2538/<day>`; `python registry/tools/on.py <day> pravilnik-2022-2538`).
 
 ## Decisions made by hand
 

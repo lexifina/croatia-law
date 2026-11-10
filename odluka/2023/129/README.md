@@ -8,7 +8,7 @@ Odluka o katastarskoj izmjeri na području Grada Pleternice za dijelove katastar
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2023-129` (tags `odluka-2023-129/<day>`; `python tools/on.py <day> odluka-2023-129`).
+Act id: `odluka-2023-129` (tags `odluka-2023-129/<day>`; `python registry/tools/on.py <day> odluka-2023-129`).
 
 ## Decisions made by hand
 

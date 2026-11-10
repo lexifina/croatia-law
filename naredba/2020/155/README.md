@@ -48,7 +48,7 @@ Naredba o mjerama zaštite zdravlja životinja od zaraznih i nametničkih bolest
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `naredba-2020-155` (tags `naredba-2020-155/<day>`; `python tools/on.py <day> naredba-2020-155`).
+Act id: `naredba-2020-155` (tags `naredba-2020-155/<day>`; `python registry/tools/on.py <day> naredba-2020-155`).
 
 ## Decisions made by hand
 

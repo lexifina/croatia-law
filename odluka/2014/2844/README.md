@@ -8,7 +8,7 @@ Odluka o dopuni Odluka klasa: 400-01/14-01/182, urbroj: 525-07/0012-14-4 od 12. 
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2014-2844` (tags `odluka-2014-2844/<day>`; `python tools/on.py <day> odluka-2014-2844`).
+Act id: `odluka-2014-2844` (tags `odluka-2014-2844/<day>`; `python registry/tools/on.py <day> odluka-2014-2844`).
 
 ## Decisions made by hand
 

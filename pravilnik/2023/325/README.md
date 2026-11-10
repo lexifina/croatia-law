@@ -11,7 +11,7 @@ Pravilnik o izmjenama i dopunama Pravilnika o elektroničkoj žalbi u javnoj nab
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2023-325` (tags `pravilnik-2023-325/<day>`; `python tools/on.py <day> pravilnik-2023-325`).
+Act id: `pravilnik-2023-325` (tags `pravilnik-2023-325/<day>`; `python registry/tools/on.py <day> pravilnik-2023-325`).
 
 ## Decisions made by hand
 

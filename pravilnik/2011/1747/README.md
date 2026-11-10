@@ -11,7 +11,7 @@ Pravilnik o izmjenama Pravilnika o obveznom označavanju i registraciji ovaca i 
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2011-1747` (tags `pravilnik-2011-1747/<day>`; `python tools/on.py <day> pravilnik-2011-1747`).
+Act id: `pravilnik-2011-1747` (tags `pravilnik-2011-1747/<day>`; `python registry/tools/on.py <day> pravilnik-2011-1747`).
 
 ## Decisions made by hand
 

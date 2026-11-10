@@ -9,7 +9,7 @@ Odluka o dijelu Programa osposobljavanja za poslove dadilje koji su duÅ¾ne pohaÄ
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2013-2416` (tags `odluka-2013-2416/<day>`; `python tools/on.py <day> odluka-2013-2416`).
+Act id: `odluka-2013-2416` (tags `odluka-2013-2416/<day>`; `python registry/tools/on.py <day> odluka-2013-2416`).
 
 ## Status
 

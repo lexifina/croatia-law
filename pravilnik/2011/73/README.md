@@ -9,7 +9,7 @@ Pravilnik o izmjeni Pravilnika o vrsti šumarskih radova, minimalnim uvjetima za
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2011-73` (tags `pravilnik-2011-73/<day>`; `python tools/on.py <day> pravilnik-2011-73`).
+Act id: `pravilnik-2011-73` (tags `pravilnik-2011-73/<day>`; `python registry/tools/on.py <day> pravilnik-2011-73`).
 
 ## Decisions made by hand
 

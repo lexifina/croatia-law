@@ -8,7 +8,7 @@ Odluka o postavljanju počasne konzulice Republike Hrvatske u Kraljevini Maroku,
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2025-1320` (tags `odluka-2025-1320/<day>`; `python tools/on.py <day> odluka-2025-1320`).
+Act id: `odluka-2025-1320` (tags `odluka-2025-1320/<day>`; `python registry/tools/on.py <day> odluka-2025-1320`).
 
 ## Decisions made by hand
 

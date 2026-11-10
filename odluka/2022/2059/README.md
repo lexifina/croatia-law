@@ -10,7 +10,7 @@ Odluka o prestanku važenja Odluke o izvješćivanju o stanju određenih potraž
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2022-2059` (tags `odluka-2022-2059/<day>`; `python tools/on.py <day> odluka-2022-2059`).
+Act id: `odluka-2022-2059` (tags `odluka-2022-2059/<day>`; `python registry/tools/on.py <day> odluka-2022-2059`).
 
 ## Decisions made by hand
 

@@ -9,7 +9,7 @@ Odluka o dopuni i izmjeni Odluke o donošenju Nastavnog plana i programa za sred
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2018-383` (tags `odluka-2018-383/<day>`; `python tools/on.py <day> odluka-2018-383`).
+Act id: `odluka-2018-383` (tags `odluka-2018-383/<day>`; `python registry/tools/on.py <day> odluka-2018-383`).
 
 ## Decisions made by hand
 

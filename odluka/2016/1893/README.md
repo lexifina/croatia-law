@@ -8,7 +8,7 @@ Odluka Agencije za elektroničke medije klasa: 612-12/11-02/0031, urbroj: 567-06
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 
-Act id: `odluka-2016-1893` (tags `odluka-2016-1893/<day>`; `python tools/on.py <day> odluka-2016-1893`).
+Act id: `odluka-2016-1893` (tags `odluka-2016-1893/<day>`; `python registry/tools/on.py <day> odluka-2016-1893`).
 
 ## Decisions made by hand
 

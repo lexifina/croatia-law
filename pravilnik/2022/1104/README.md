@@ -10,7 +10,7 @@ Pravilnik o izmjenama Pravilnika o završnom ispitu u Državnoj školi za pravos
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2022-1104` (tags `pravilnik-2022-1104/<day>`; `python tools/on.py <day> pravilnik-2022-1104`).
+Act id: `pravilnik-2022-1104` (tags `pravilnik-2022-1104/<day>`; `python registry/tools/on.py <day> pravilnik-2022-1104`).
 
 ## Decisions made by hand
 

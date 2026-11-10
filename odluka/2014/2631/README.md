@@ -33,7 +33,7 @@ Odluka o općinskim porezima u Općini Vrhovine · 1 versions, from 2014-12-04 (
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2014-2631` (tags `odluka-2014-2631/<day>`; `python tools/on.py <day> odluka-2014-2631`).
+Act id: `odluka-2014-2631` (tags `odluka-2014-2631/<day>`; `python registry/tools/on.py <day> odluka-2014-2631`).
 
 ## Status
 

@@ -34,7 +34,7 @@ Zakon o izmjenama i dopunama Zakona o porezu na dodanu vrijednost · 1 versions,
 | čl. 28 | [clanak-028.md](clanak-028.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2024-2508` (tags `zakon-2024-2508/<day>`; `python tools/on.py <day> zakon-2024-2508`).
+Act id: `zakon-2024-2508` (tags `zakon-2024-2508/<day>`; `python registry/tools/on.py <day> zakon-2024-2508`).
 
 ## Decisions made by hand
 

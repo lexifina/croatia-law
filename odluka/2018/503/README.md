@@ -22,7 +22,7 @@ Odluka o dokumentaciji koja se prilaže zahtjevu za izdavanje odobrenja za rad k
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2018-503` (tags `odluka-2018-503/<day>`; `python tools/on.py <day> odluka-2018-503`).
+Act id: `odluka-2018-503` (tags `odluka-2018-503/<day>`; `python registry/tools/on.py <day> odluka-2018-503`).
 
 ## Status
 

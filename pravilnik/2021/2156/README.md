@@ -25,7 +25,7 @@ Pravilnik o otočnim razvojnim pokazateljima i postupku vrednovanja razvijenosti
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2021-2156` (tags `pravilnik-2021-2156/<day>`; `python tools/on.py <day> pravilnik-2021-2156`).
+Act id: `pravilnik-2021-2156` (tags `pravilnik-2021-2156/<day>`; `python registry/tools/on.py <day> pravilnik-2021-2156`).
 
 ## Status
 

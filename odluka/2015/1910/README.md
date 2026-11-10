@@ -8,7 +8,7 @@ Odluka o izmjeni Odluke o unutardnevnom kreditu · 1 versions, from 2015-09-22 (
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2015-1910` (tags `odluka-2015-1910/<day>`; `python tools/on.py <day> odluka-2015-1910`).
+Act id: `odluka-2015-1910` (tags `odluka-2015-1910/<day>`; `python registry/tools/on.py <day> odluka-2015-1910`).
 
 ## Decisions made by hand
 

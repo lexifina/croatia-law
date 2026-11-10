@@ -5,7 +5,7 @@ Pravilnik o utvrđivanju neto vrijednosti imovine UCITS fonda i cijene udjela u 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `pravilnik-2016-1657` (tags `pravilnik-2016-1657/<day>`; `python tools/on.py <day> pravilnik-2016-1657`).
+Act id: `pravilnik-2016-1657` (tags `pravilnik-2016-1657/<day>`; `python registry/tools/on.py <day> pravilnik-2016-1657`).
 
 ## Decisions made by hand
 

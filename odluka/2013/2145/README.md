@@ -8,7 +8,7 @@ Odluka o davanju suglasnosti na Odluku o izmjenama i dopunama Odluke o osnivanju
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2013-2145` (tags `odluka-2013-2145/<day>`; `python tools/on.py <day> odluka-2013-2145`).
+Act id: `odluka-2013-2145` (tags `odluka-2013-2145/<day>`; `python registry/tools/on.py <day> odluka-2013-2145`).
 
 ## Decisions made by hand
 

@@ -27,7 +27,7 @@ Pravilnik o priznavanju inozemnih stručnih kvalifikacija i prekograničnom zast
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2025-876` (tags `pravilnik-2025-876/<day>`; `python tools/on.py <day> pravilnik-2025-876`).
+Act id: `pravilnik-2025-876` (tags `pravilnik-2025-876/<day>`; `python registry/tools/on.py <day> pravilnik-2025-876`).
 
 ## Decisions made by hand
 

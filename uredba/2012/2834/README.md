@@ -10,7 +10,7 @@ Uredba o izmjeni Uredbe o kriterijima za dodjeljivanje državnih nagrada za vrhu
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2012-2834` (tags `uredba-2012-2834/<day>`; `python tools/on.py <day> uredba-2012-2834`).
+Act id: `uredba-2012-2834` (tags `uredba-2012-2834/<day>`; `python registry/tools/on.py <day> uredba-2012-2834`).
 
 ## Decisions made by hand
 

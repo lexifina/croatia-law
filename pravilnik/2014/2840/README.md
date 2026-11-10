@@ -19,7 +19,7 @@ Pravilnik o načinu provedbe nadzora izvršavanja istražnog zatvora u domu · 1
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2014-2840` (tags `pravilnik-2014-2840/<day>`; `python tools/on.py <day> pravilnik-2014-2840`).
+Act id: `pravilnik-2014-2840` (tags `pravilnik-2014-2840/<day>`; `python registry/tools/on.py <day> pravilnik-2014-2840`).
 
 ## Status
 

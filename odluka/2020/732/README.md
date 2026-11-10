@@ -5,7 +5,7 @@ Odluka o mjerama ograničavanja javnog prijevoza u linijskom obalnom pomorskom p
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `odluka-2020-732` (tags `odluka-2020-732/<day>`; `python tools/on.py <day> odluka-2020-732`).
+Act id: `odluka-2020-732` (tags `odluka-2020-732/<day>`; `python registry/tools/on.py <day> odluka-2020-732`).
 
 ## Decisions made by hand
 

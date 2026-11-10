@@ -10,7 +10,7 @@ Odluka o izmjenama odluke o strukturi i sadržaju godišnjih financijskih izvje�
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2020-2377` (tags `odluka-2020-2377/<day>`; `python tools/on.py <day> odluka-2020-2377`).
+Act id: `odluka-2020-2377` (tags `odluka-2020-2377/<day>`; `python registry/tools/on.py <day> odluka-2020-2377`).
 
 ## Decisions made by hand
 

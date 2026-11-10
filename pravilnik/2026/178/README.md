@@ -9,7 +9,7 @@ Pravilnik o dopuni Pravilnika o izdavanju odobrenja za obavljanje gospodarskog r
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2026-178` (tags `pravilnik-2026-178/<day>`; `python tools/on.py <day> pravilnik-2026-178`).
+Act id: `pravilnik-2026-178` (tags `pravilnik-2026-178/<day>`; `python registry/tools/on.py <day> pravilnik-2026-178`).
 
 ## Decisions made by hand
 

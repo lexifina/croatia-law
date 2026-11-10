@@ -13,7 +13,7 @@ Pravilnik o shemi testiranja za smanjenje prisutnosti serotipova salmonele u odr
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2011-1430` (tags `pravilnik-2011-1430/<day>`; `python tools/on.py <day> pravilnik-2011-1430`).
+Act id: `pravilnik-2011-1430` (tags `pravilnik-2011-1430/<day>`; `python registry/tools/on.py <day> pravilnik-2011-1430`).
 
 ## Decisions made by hand
 

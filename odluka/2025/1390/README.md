@@ -17,7 +17,7 @@ Odluka o izvještajima za potrebe nadzora izdavatelja tokena vezanih uz imovinu 
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2025-1390` (tags `odluka-2025-1390/<day>`; `python tools/on.py <day> odluka-2025-1390`).
+Act id: `odluka-2025-1390` (tags `odluka-2025-1390/<day>`; `python registry/tools/on.py <day> odluka-2025-1390`).
 
 ## Decisions made by hand
 

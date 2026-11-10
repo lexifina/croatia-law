@@ -5,7 +5,7 @@ Pravilnik o izmjeni Pravilnika o energetskom pregledu zgrade i energetskom certi
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `pravilnik-2016-1887` (tags `pravilnik-2016-1887/<day>`; `python tools/on.py <day> pravilnik-2016-1887`).
+Act id: `pravilnik-2016-1887` (tags `pravilnik-2016-1887/<day>`; `python registry/tools/on.py <day> pravilnik-2016-1887`).
 
 ## Decisions made by hand
 

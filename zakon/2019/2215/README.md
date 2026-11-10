@@ -51,7 +51,7 @@ Zakon o izmjenama i dopunama Zakona o poslovima i djelatnostima prostornog uređ
 | čl. 45 | [clanak-045.md](clanak-045.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2019-2215` (tags `zakon-2019-2215/<day>`; `python tools/on.py <day> zakon-2019-2215`).
+Act id: `zakon-2019-2215` (tags `zakon-2019-2215/<day>`; `python registry/tools/on.py <day> zakon-2019-2215`).
 
 ## Decisions made by hand
 

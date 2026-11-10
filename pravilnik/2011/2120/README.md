@@ -18,7 +18,7 @@ Pravilnik o sadržaju obvezne evidencije i izvješća, načina prikupljanja, obr
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2011-2120` (tags `pravilnik-2011-2120/<day>`; `python tools/on.py <day> pravilnik-2011-2120`).
+Act id: `pravilnik-2011-2120` (tags `pravilnik-2011-2120/<day>`; `python registry/tools/on.py <day> pravilnik-2011-2120`).
 
 ## Status
 

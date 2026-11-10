@@ -110,7 +110,7 @@ Statut Hrvatskog zavoda za socijalni rad · 1 versions, from 2022-11-17 (latest 
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `statut-2022-2029` (tags `statut-2022-2029/<day>`; `python tools/on.py <day> statut-2022-2029`).
+Act id: `statut-2022-2029` (tags `statut-2022-2029/<day>`; `python registry/tools/on.py <day> statut-2022-2029`).
 
 ## Status
 

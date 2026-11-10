@@ -13,7 +13,7 @@ Zakon o izmjenama i dopunama Zakona o odvjetništvu · 1 versions, from 2026-06-
 | čl. 7 | [clanak-007.md](clanak-007.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2026-730` (tags `zakon-2026-730/<day>`; `python tools/on.py <day> zakon-2026-730`).
+Act id: `zakon-2026-730` (tags `zakon-2026-730/<day>`; `python registry/tools/on.py <day> zakon-2026-730`).
 
 ## Decisions made by hand
 

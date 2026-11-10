@@ -32,7 +32,7 @@ Odluka o lokalnim porezima Općine Dežanovac · 1 versions, from 2018-10-01 (la
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2018-1742` (tags `odluka-2018-1742/<day>`; `python tools/on.py <day> odluka-2018-1742`).
+Act id: `odluka-2018-1742` (tags `odluka-2018-1742/<day>`; `python registry/tools/on.py <day> odluka-2018-1742`).
 
 ## Status
 

@@ -11,7 +11,7 @@ Izmjene i dopune Državnog proračuna Republike Hrvatske za 2023. godinu i proje
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2023-1037` (tags `odluka-2023-1037/<day>`; `python tools/on.py <day> odluka-2023-1037`).
+Act id: `odluka-2023-1037` (tags `odluka-2023-1037/<day>`; `python registry/tools/on.py <day> odluka-2023-1037`).
 
 ## Decisions made by hand
 

@@ -18,7 +18,7 @@ Pravilnik o načinu usklađenja i revalorizacije zakupnine odnosno naknade za ko
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2023-824` (tags `pravilnik-2023-824/<day>`; `python tools/on.py <day> pravilnik-2023-824`).
+Act id: `pravilnik-2023-824` (tags `pravilnik-2023-824/<day>`; `python registry/tools/on.py <day> pravilnik-2023-824`).
 
 ## Decisions made by hand
 

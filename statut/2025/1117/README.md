@@ -12,7 +12,7 @@ Statut o izmjenama i dopunama Statuta Hrvatskoga zavoda za zapošljavanje · 1 v
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `statut-2025-1117` (tags `statut-2025-1117/<day>`; `python tools/on.py <day> statut-2025-1117`).
+Act id: `statut-2025-1117` (tags `statut-2025-1117/<day>`; `python registry/tools/on.py <day> statut-2025-1117`).
 
 ## Decisions made by hand
 

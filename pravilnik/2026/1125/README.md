@@ -27,7 +27,7 @@ Pravilnik o provedbi postupka jednostavne nabave · 1 versions, from 2026-09-01 
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2026-1125` (tags `pravilnik-2026-1125/<day>`; `python tools/on.py <day> pravilnik-2026-1125`).
+Act id: `pravilnik-2026-1125` (tags `pravilnik-2026-1125/<day>`; `python registry/tools/on.py <day> pravilnik-2026-1125`).
 
 ## Decisions made by hand
 

@@ -8,7 +8,7 @@ Odluka o privremenom prekidu postupaka i prestanku rada Tajništva Suda časti p
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2020-2207` (tags `odluka-2020-2207/<day>`; `python tools/on.py <day> odluka-2020-2207`).
+Act id: `odluka-2020-2207` (tags `odluka-2020-2207/<day>`; `python registry/tools/on.py <day> odluka-2020-2207`).
 
 ## Decisions made by hand
 

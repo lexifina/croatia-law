@@ -15,7 +15,7 @@ Pravilnik o sadržaju, načinu i roku dostave statističkih podataka o privremen
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2015-2383` (tags `pravilnik-2015-2383/<day>`; `python tools/on.py <day> pravilnik-2015-2383`).
+Act id: `pravilnik-2015-2383` (tags `pravilnik-2015-2383/<day>`; `python registry/tools/on.py <day> pravilnik-2015-2383`).
 
 ## Status
 

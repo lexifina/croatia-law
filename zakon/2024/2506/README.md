@@ -15,7 +15,7 @@ Zakon o izmjenama Zakona o doprinosima · 1 versions, from 2025-01-01 (latest in
 | čl. 9 | [clanak-009.md](clanak-009.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2024-2506` (tags `zakon-2024-2506/<day>`; `python tools/on.py <day> zakon-2024-2506`).
+Act id: `zakon-2024-2506` (tags `zakon-2024-2506/<day>`; `python registry/tools/on.py <day> zakon-2024-2506`).
 
 ## Decisions made by hand
 

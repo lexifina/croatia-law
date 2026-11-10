@@ -8,7 +8,7 @@ Odluka o katastarskoj izmjeri na području Grada Benkovca za katastarske općine
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2023-135` (tags `odluka-2023-135/<day>`; `python tools/on.py <day> odluka-2023-135`).
+Act id: `odluka-2023-135` (tags `odluka-2023-135/<day>`; `python registry/tools/on.py <day> odluka-2023-135`).
 
 ## Decisions made by hand
 

@@ -34,7 +34,7 @@ Odluka o izmjenama i dopunama Statuta Hrvatske gospodarske komore · 1 versions,
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2015-2458` (tags `odluka-2015-2458/<day>`; `python tools/on.py <day> odluka-2015-2458`).
+Act id: `odluka-2015-2458` (tags `odluka-2015-2458/<day>`; `python registry/tools/on.py <day> odluka-2015-2458`).
 
 ## Decisions made by hand
 

@@ -29,7 +29,7 @@ Zakon o izmjenama i dopunama Zakona o obnovi zgrada oštećenih potresom na podr
 | čl. 23 | [clanak-023.md](clanak-023.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2021-191` (tags `zakon-2021-191/<day>`; `python tools/on.py <day> zakon-2021-191`).
+Act id: `zakon-2021-191` (tags `zakon-2021-191/<day>`; `python registry/tools/on.py <day> zakon-2021-191`).
 
 ## Decisions made by hand
 

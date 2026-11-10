@@ -64,7 +64,7 @@ Pravilnik o stražarskoj službi u oružanim snagama Republike Hrvatske · 1 ver
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2013-2503` (tags `pravilnik-2013-2503/<day>`; `python tools/on.py <day> pravilnik-2013-2503`).
+Act id: `pravilnik-2013-2503` (tags `pravilnik-2013-2503/<day>`; `python registry/tools/on.py <day> pravilnik-2013-2503`).
 
 ## Decisions made by hand
 

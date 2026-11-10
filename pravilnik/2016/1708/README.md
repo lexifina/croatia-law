@@ -204,7 +204,7 @@ Pravilnik o letenju vojnih zrakoplova · 1 versions, from 2016-08-14 (latest in 
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2016-1708` (tags `pravilnik-2016-1708/<day>`; `python tools/on.py <day> pravilnik-2016-1708`).
+Act id: `pravilnik-2016-1708` (tags `pravilnik-2016-1708/<day>`; `python registry/tools/on.py <day> pravilnik-2016-1708`).
 
 ## Status
 

@@ -29,7 +29,7 @@ Pravilnik o stručnom ispitu za obavljanje poslova savjetovanja, informiranja i 
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2019-2438` (tags `pravilnik-2019-2438/<day>`; `python tools/on.py <day> pravilnik-2019-2438`).
+Act id: `pravilnik-2019-2438` (tags `pravilnik-2019-2438/<day>`; `python registry/tools/on.py <day> pravilnik-2019-2438`).
 
 ## Decisions made by hand
 

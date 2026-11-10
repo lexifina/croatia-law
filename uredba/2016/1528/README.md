@@ -15,7 +15,7 @@ Uredba o izmjenama i dopuni Uredbe o standardu kakvoće voda · 1 versions, from
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2016-1528` (tags `uredba-2016-1528/<day>`; `python tools/on.py <day> uredba-2016-1528`).
+Act id: `uredba-2016-1528` (tags `uredba-2016-1528/<day>`; `python registry/tools/on.py <day> uredba-2016-1528`).
 
 ## Decisions made by hand
 

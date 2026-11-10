@@ -15,7 +15,7 @@ Pravilnik o informiranju o veterinarsko-medicinskim proizvodima putem sustava br
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2015-2544` (tags `pravilnik-2015-2544/<day>`; `python tools/on.py <day> pravilnik-2015-2544`).
+Act id: `pravilnik-2015-2544` (tags `pravilnik-2015-2544/<day>`; `python registry/tools/on.py <day> pravilnik-2015-2544`).
 
 ## Status
 

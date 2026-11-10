@@ -65,7 +65,7 @@ Pravilnik o provedbi Mjere 101 "Ulaganja u poljoprivredna gospodarstva u svrhu r
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2014-640` (tags `pravilnik-2014-640/<day>`; `python tools/on.py <day> pravilnik-2014-640`).
+Act id: `pravilnik-2014-640` (tags `pravilnik-2014-640/<day>`; `python registry/tools/on.py <day> pravilnik-2014-640`).
 
 ## Decisions made by hand
 

@@ -13,7 +13,7 @@ Pravilnik o edukacijama, stručnim znanjima i vještinama potrebnim za komunikac
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2021-42` (tags `pravilnik-2021-42/<day>`; `python tools/on.py <day> pravilnik-2021-42`).
+Act id: `pravilnik-2021-42` (tags `pravilnik-2021-42/<day>`; `python registry/tools/on.py <day> pravilnik-2021-42`).
 
 ## Status
 

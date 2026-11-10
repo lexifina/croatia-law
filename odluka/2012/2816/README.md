@@ -9,7 +9,7 @@ Odluka o davanju suglasnosti na Izmjene i dopune Financijskog plana Hrvatskih ce
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2012-2816` (tags `odluka-2012-2816/<day>`; `python tools/on.py <day> odluka-2012-2816`).
+Act id: `odluka-2012-2816` (tags `odluka-2012-2816/<day>`; `python registry/tools/on.py <day> odluka-2012-2816`).
 
 ## Decisions made by hand
 

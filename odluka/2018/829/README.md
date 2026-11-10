@@ -8,7 +8,7 @@ Odluka o osnivanju Veleposlanstva Republike Hrvatske u Republici Azerbajdžanu, 
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2018-829` (tags `odluka-2018-829/<day>`; `python tools/on.py <day> odluka-2018-829`).
+Act id: `odluka-2018-829` (tags `odluka-2018-829/<day>`; `python registry/tools/on.py <day> odluka-2018-829`).
 
 ## Decisions made by hand
 

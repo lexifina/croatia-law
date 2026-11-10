@@ -13,7 +13,7 @@ Odluka o izmjenama i dopunama Odluke o pravilima rada Hrvatskog sustava velikih 
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2013-1422` (tags `odluka-2013-1422/<day>`; `python tools/on.py <day> odluka-2013-1422`).
+Act id: `odluka-2013-1422` (tags `odluka-2013-1422/<day>`; `python registry/tools/on.py <day> odluka-2013-1422`).
 
 ## Decisions made by hand
 

@@ -9,7 +9,7 @@ Pravilnik o izmjenama Pravilnika o mjerama za sprječavanje unošenja i širenja
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2017-546` (tags `pravilnik-2017-546/<day>`; `python tools/on.py <day> pravilnik-2017-546`).
+Act id: `pravilnik-2017-546` (tags `pravilnik-2017-546/<day>`; `python registry/tools/on.py <day> pravilnik-2017-546`).
 
 ## Decisions made by hand
 

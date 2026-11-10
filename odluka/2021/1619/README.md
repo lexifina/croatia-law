@@ -26,7 +26,7 @@ Odluka o načinu provedbe supervizije kreditnih institucija i izricanju superviz
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2021-1619` (tags `odluka-2021-1619/<day>`; `python tools/on.py <day> odluka-2021-1619`).
+Act id: `odluka-2021-1619` (tags `odluka-2021-1619/<day>`; `python registry/tools/on.py <day> odluka-2021-1619`).
 
 ## Status
 

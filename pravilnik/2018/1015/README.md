@@ -8,7 +8,7 @@ Pravilnik o izmjenama i dopunama Pravilnika o vrsti i visini naknada Hrvatske ag
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2018-1015` (tags `pravilnik-2018-1015/<day>`; `python tools/on.py <day> pravilnik-2018-1015`).
+Act id: `pravilnik-2018-1015` (tags `pravilnik-2018-1015/<day>`; `python registry/tools/on.py <day> pravilnik-2018-1015`).
 
 ## Decisions made by hand
 

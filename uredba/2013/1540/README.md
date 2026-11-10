@@ -9,7 +9,7 @@ Uredba o izmjeni Uredbe o opsegu i sadržaju odgovornosti te ovlastima tijela na
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2013-1540` (tags `uredba-2013-1540/<day>`; `python tools/on.py <day> uredba-2013-1540`).
+Act id: `uredba-2013-1540` (tags `uredba-2013-1540/<day>`; `python registry/tools/on.py <day> uredba-2013-1540`).
 
 ## Decisions made by hand
 

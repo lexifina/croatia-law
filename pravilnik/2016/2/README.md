@@ -34,7 +34,7 @@ Pravilnik o načinu vođenja Registra godišnjih financijskih izvještaja, te na
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2016-2` (tags `pravilnik-2016-2/<day>`; `python tools/on.py <day> pravilnik-2016-2`).
+Act id: `pravilnik-2016-2` (tags `pravilnik-2016-2/<day>`; `python registry/tools/on.py <day> pravilnik-2016-2`).
 
 ## Status
 

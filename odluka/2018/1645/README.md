@@ -8,7 +8,7 @@ Odluka o prestanku važenja Odluke o određivanju demarkiranih područja u kojim
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2018-1645` (tags `odluka-2018-1645/<day>`; `python tools/on.py <day> odluka-2018-1645`).
+Act id: `odluka-2018-1645` (tags `odluka-2018-1645/<day>`; `python registry/tools/on.py <day> odluka-2018-1645`).
 
 ## Decisions made by hand
 

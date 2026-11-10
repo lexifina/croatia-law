@@ -12,7 +12,7 @@ Uredba o izmjenama Uredbe o tijelima u Sustavu upravljanja i kontrole za provedb
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2025-1362` (tags `uredba-2025-1362/<day>`; `python tools/on.py <day> uredba-2025-1362`).
+Act id: `uredba-2025-1362` (tags `uredba-2025-1362/<day>`; `python registry/tools/on.py <day> uredba-2025-1362`).
 
 ## Decisions made by hand
 

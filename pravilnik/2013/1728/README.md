@@ -9,7 +9,7 @@ Pravilnik o stavljanju izvan snage Pravilnika o cijenama usluga · 1 versions, f
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2013-1728` (tags `pravilnik-2013-1728/<day>`; `python tools/on.py <day> pravilnik-2013-1728`).
+Act id: `pravilnik-2013-1728` (tags `pravilnik-2013-1728/<day>`; `python registry/tools/on.py <day> pravilnik-2013-1728`).
 
 ## Decisions made by hand
 

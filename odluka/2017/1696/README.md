@@ -25,7 +25,7 @@ Odluka o porezima Općine Staro Petrovo Selo · 1 versions, from 2017-08-01 (lat
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2017-1696` (tags `odluka-2017-1696/<day>`; `python tools/on.py <day> odluka-2017-1696`).
+Act id: `odluka-2017-1696` (tags `odluka-2017-1696/<day>`; `python registry/tools/on.py <day> odluka-2017-1696`).
 
 ## Status
 

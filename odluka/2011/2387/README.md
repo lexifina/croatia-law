@@ -8,7 +8,7 @@ Odluka o osnivanju Veleposlanstva Republike Hrvatske u Državi Katar, sa sjediš
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2011-2387` (tags `odluka-2011-2387/<day>`; `python tools/on.py <day> odluka-2011-2387`).
+Act id: `odluka-2011-2387` (tags `odluka-2011-2387/<day>`; `python registry/tools/on.py <day> odluka-2011-2387`).
 
 ## Decisions made by hand
 

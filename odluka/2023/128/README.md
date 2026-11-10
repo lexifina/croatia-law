@@ -8,7 +8,7 @@ Odluka o katastarskoj izmjeri na području Općine Velika Kopanica za dio katast
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2023-128` (tags `odluka-2023-128/<day>`; `python tools/on.py <day> odluka-2023-128`).
+Act id: `odluka-2023-128` (tags `odluka-2023-128/<day>`; `python registry/tools/on.py <day> odluka-2023-128`).
 
 ## Decisions made by hand
 

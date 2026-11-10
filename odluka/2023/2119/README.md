@@ -11,7 +11,7 @@ Odluka o visini paušalnog poreza za djelatnost iznajmljivanja i organiziranja s
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2023-2119` (tags `odluka-2023-2119/<day>`; `python tools/on.py <day> odluka-2023-2119`).
+Act id: `odluka-2023-2119` (tags `odluka-2023-2119/<day>`; `python registry/tools/on.py <day> odluka-2023-2119`).
 
 ## Decisions made by hand
 

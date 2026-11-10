@@ -8,7 +8,7 @@ Odluka o osnivanju Povjerenstva za međusektorsku koordinaciju za politiku i mje
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2025-1897` (tags `odluka-2025-1897/<day>`; `python tools/on.py <day> odluka-2025-1897`).
+Act id: `odluka-2025-1897` (tags `odluka-2025-1897/<day>`; `python registry/tools/on.py <day> odluka-2025-1897`).
 
 ## Decisions made by hand
 

@@ -9,7 +9,7 @@ Pravilnik o dopuni Pravilnika o mjestima ulaska za pošiljke bilja, biljnih proi
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2013-3005` (tags `pravilnik-2013-3005/<day>`; `python tools/on.py <day> pravilnik-2013-3005`).
+Act id: `pravilnik-2013-3005` (tags `pravilnik-2013-3005/<day>`; `python registry/tools/on.py <day> pravilnik-2013-3005`).
 
 ## Decisions made by hand
 

@@ -12,7 +12,7 @@ Uredba o izmjenama Uredbe o utvrđivanju dužnosti djelatnih vojnih osoba na koj
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2015-1366` (tags `uredba-2015-1366/<day>`; `python tools/on.py <day> uredba-2015-1366`).
+Act id: `uredba-2015-1366` (tags `uredba-2015-1366/<day>`; `python registry/tools/on.py <day> uredba-2015-1366`).
 
 ## Decisions made by hand
 

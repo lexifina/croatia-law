@@ -8,7 +8,7 @@ Odluka o davanju prava priređivanja igara klađenja · 1 versions, from 2018-12
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2018-2309` (tags `odluka-2018-2309/<day>`; `python tools/on.py <day> odluka-2018-2309`).
+Act id: `odluka-2018-2309` (tags `odluka-2018-2309/<day>`; `python registry/tools/on.py <day> odluka-2018-2309`).
 
 ## Status
 

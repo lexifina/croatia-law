@@ -13,7 +13,7 @@ Odluka o naknadi za razvoj društva Moslavina d.o.o. · 1 versions, from 2021-12
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2022-61` (tags `odluka-2022-61/<day>`; `python tools/on.py <day> odluka-2022-61`).
+Act id: `odluka-2022-61` (tags `odluka-2022-61/<day>`; `python registry/tools/on.py <day> odluka-2022-61`).
 
 ## Status
 

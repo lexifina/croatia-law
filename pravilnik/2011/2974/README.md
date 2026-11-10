@@ -16,7 +16,7 @@ Pravilnik o vrsti i visini naknada i administrativnih pristojbi Hrvatske agencij
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2011-2974` (tags `pravilnik-2011-2974/<day>`; `python tools/on.py <day> pravilnik-2011-2974`).
+Act id: `pravilnik-2011-2974` (tags `pravilnik-2011-2974/<day>`; `python registry/tools/on.py <day> pravilnik-2011-2974`).
 
 ## Status
 

@@ -9,7 +9,7 @@ Odluka o donošenju nastavnog plana za osnovnu školu · 1 versions, from 2019-0
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2019-1305` (tags `odluka-2019-1305/<day>`; `python tools/on.py <day> odluka-2019-1305`).
+Act id: `odluka-2019-1305` (tags `odluka-2019-1305/<day>`; `python registry/tools/on.py <day> odluka-2019-1305`).
 
 ## Decisions made by hand
 

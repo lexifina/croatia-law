@@ -30,7 +30,7 @@ Pravilnik o provedbi mjera strukturne politike u ribarstvu kroz sufinanciranje t
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2011-1112` (tags `pravilnik-2011-1112/<day>`; `python tools/on.py <day> pravilnik-2011-1112`).
+Act id: `pravilnik-2011-1112` (tags `pravilnik-2011-1112/<day>`; `python registry/tools/on.py <day> pravilnik-2011-1112`).
 
 ## Decisions made by hand
 

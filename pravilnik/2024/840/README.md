@@ -9,7 +9,7 @@ Pravilnik o izmjenama Pravilnika o skladištenju opasnih kemikalija koje djeluju
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2024-840` (tags `pravilnik-2024-840/<day>`; `python tools/on.py <day> pravilnik-2024-840`).
+Act id: `pravilnik-2024-840` (tags `pravilnik-2024-840/<day>`; `python registry/tools/on.py <day> pravilnik-2024-840`).
 
 ## Decisions made by hand
 

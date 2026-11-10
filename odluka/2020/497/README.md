@@ -8,7 +8,7 @@ Odluka o iznosu novčane naknade za privremeno obnašanje druge dužnosti i izno
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2020-497` (tags `odluka-2020-497/<day>`; `python tools/on.py <day> odluka-2020-497`).
+Act id: `odluka-2020-497` (tags `odluka-2020-497/<day>`; `python registry/tools/on.py <day> odluka-2020-497`).
 
 ## Decisions made by hand
 

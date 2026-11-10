@@ -8,7 +8,7 @@ Odluka o troškovima komisije za nadzor rada i reviziju ovlaštenja ovlaštenih 
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2017-1147` (tags `odluka-2017-1147/<day>`; `python tools/on.py <day> odluka-2017-1147`).
+Act id: `odluka-2017-1147` (tags `odluka-2017-1147/<day>`; `python registry/tools/on.py <day> odluka-2017-1147`).
 
 ## Status
 

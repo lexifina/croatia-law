@@ -11,7 +11,7 @@ Pravilnik o policijskom obrazovanju · 1 versions, from 2012-10-20 (latest in fo
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2012-2439` (tags `pravilnik-2012-2439/<day>`; `python tools/on.py <day> pravilnik-2012-2439`).
+Act id: `pravilnik-2012-2439` (tags `pravilnik-2012-2439/<day>`; `python registry/tools/on.py <day> pravilnik-2012-2439`).
 
 ## Status
 

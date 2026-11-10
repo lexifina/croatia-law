@@ -9,7 +9,7 @@ Odluka o donošenju Nastavnog programa za stjecanje andragoških kompetencija za
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2024-1781` (tags `odluka-2024-1781/<day>`; `python tools/on.py <day> odluka-2024-1781`).
+Act id: `odluka-2024-1781` (tags `odluka-2024-1781/<day>`; `python registry/tools/on.py <day> odluka-2024-1781`).
 
 ## Decisions made by hand
 

@@ -9,7 +9,7 @@ Pravilnik o izmjeni Pravilnika o obvezujućim mišljenjima, ispravku prijave, st
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2016-454` (tags `pravilnik-2016-454/<day>`; `python tools/on.py <day> pravilnik-2016-454`).
+Act id: `pravilnik-2016-454` (tags `pravilnik-2016-454/<day>`; `python registry/tools/on.py <day> pravilnik-2016-454`).
 
 ## Decisions made by hand
 

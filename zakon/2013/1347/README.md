@@ -21,7 +21,7 @@ Zakon o izmjenama i dopunama Zakona o osobnoj iskaznici · 1 versions, from 2013
 | čl. 15 | [clanak-015.md](clanak-015.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2013-1347` (tags `zakon-2013-1347/<day>`; `python tools/on.py <day> zakon-2013-1347`).
+Act id: `zakon-2013-1347` (tags `zakon-2013-1347/<day>`; `python registry/tools/on.py <day> zakon-2013-1347`).
 
 ## Decisions made by hand
 

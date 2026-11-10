@@ -11,7 +11,7 @@ Pravilnik o izmjenama i dopunama Pravilnika o provedbi Nacionalne strategije za 
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2026-741` (tags `pravilnik-2026-741/<day>`; `python tools/on.py <day> pravilnik-2026-741`).
+Act id: `pravilnik-2026-741` (tags `pravilnik-2026-741/<day>`; `python registry/tools/on.py <day> pravilnik-2026-741`).
 
 ## Decisions made by hand
 

@@ -21,7 +21,7 @@ Pravilnik o sadržaju i načinu vođenja upisnika ustanova socijalne skrbi · 1 
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2015-1267` (tags `pravilnik-2015-1267/<day>`; `python tools/on.py <day> pravilnik-2015-1267`).
+Act id: `pravilnik-2015-1267` (tags `pravilnik-2015-1267/<day>`; `python registry/tools/on.py <day> pravilnik-2015-1267`).
 
 ## Status
 

@@ -45,7 +45,7 @@ Pravilnik o obavješćivanju, registriranju i odobrenjima te prometu izvorima io
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2018-1088` (tags `pravilnik-2018-1088/<day>`; `python tools/on.py <day> pravilnik-2018-1088`).
+Act id: `pravilnik-2018-1088` (tags `pravilnik-2018-1088/<day>`; `python registry/tools/on.py <day> pravilnik-2018-1088`).
 
 ## Status
 

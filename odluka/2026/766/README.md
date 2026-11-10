@@ -8,7 +8,7 @@ Odluku o promjeni granice pomorskog dobra radi rekonstrukcije dijela državne ce
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2026-766` (tags `odluka-2026-766/<day>`; `python tools/on.py <day> odluka-2026-766`).
+Act id: `odluka-2026-766` (tags `odluka-2026-766/<day>`; `python registry/tools/on.py <day> odluka-2026-766`).
 
 ## Decisions made by hand
 

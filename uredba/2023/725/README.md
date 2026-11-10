@@ -24,7 +24,7 @@ Uredba o Uredu Vlade Republike Hrvatske za unutarnju reviziju · 1 versions, fro
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2023-725` (tags `uredba-2023-725/<day>`; `python tools/on.py <day> uredba-2023-725`).
+Act id: `uredba-2023-725` (tags `uredba-2023-725/<day>`; `python registry/tools/on.py <day> uredba-2023-725`).
 
 ## Status
 

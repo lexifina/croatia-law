@@ -10,7 +10,7 @@ Pravilnik o izmjenama Pravilnika o ortopedskim i drugim pomagalima · 1 versions
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2012-1635` (tags `pravilnik-2012-1635/<day>`; `python tools/on.py <day> pravilnik-2012-1635`).
+Act id: `pravilnik-2012-1635` (tags `pravilnik-2012-1635/<day>`; `python registry/tools/on.py <day> pravilnik-2012-1635`).
 
 ## Status
 

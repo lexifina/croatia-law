@@ -15,7 +15,7 @@ Odluka o strukturi i sadržaju godišnjih financijskih izvještaja kreditnih ins
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2017-682` (tags `odluka-2017-682/<day>`; `python tools/on.py <day> odluka-2017-682`).
+Act id: `odluka-2017-682` (tags `odluka-2017-682/<day>`; `python registry/tools/on.py <day> odluka-2017-682`).
 
 ## Status
 

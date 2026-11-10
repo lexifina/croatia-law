@@ -31,7 +31,7 @@ Pravilnik o gospodarenju medicinskim otpadom · 1 versions, from 2015-05-16 (lat
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2015-989` (tags `pravilnik-2015-989/<day>`; `python tools/on.py <day> pravilnik-2015-989`).
+Act id: `pravilnik-2015-989` (tags `pravilnik-2015-989/<day>`; `python registry/tools/on.py <day> pravilnik-2015-989`).
 
 ## Status
 

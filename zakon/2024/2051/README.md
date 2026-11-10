@@ -21,7 +21,7 @@ Zakon o izmjenama i dopunama Zakona o zakupu i kupoprodaji poslovnoga prostora ¬
 | ƒçl. 15 | [clanak-015.md](clanak-015.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2024-2051` (tags `zakon-2024-2051/<day>`; `python tools/on.py <day> zakon-2024-2051`).
+Act id: `zakon-2024-2051` (tags `zakon-2024-2051/<day>`; `python registry/tools/on.py <day> zakon-2024-2051`).
 
 ## Decisions made by hand
 

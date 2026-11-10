@@ -5,7 +5,7 @@ Pravilnik o izdavanju odobrenja za rad UAIF-a i dokumentaciji koja se dostavlja 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `pravilnik-2019-430` (tags `pravilnik-2019-430/<day>`; `python tools/on.py <day> pravilnik-2019-430`).
+Act id: `pravilnik-2019-430` (tags `pravilnik-2019-430/<day>`; `python registry/tools/on.py <day> pravilnik-2019-430`).
 
 ## Decisions made by hand
 

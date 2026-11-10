@@ -16,7 +16,7 @@ Pravilnik o katalogu otpada · 1 versions, from 2015-08-27 (latest in force: 201
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2015-1757` (tags `pravilnik-2015-1757/<day>`; `python tools/on.py <day> pravilnik-2015-1757`).
+Act id: `pravilnik-2015-1757` (tags `pravilnik-2015-1757/<day>`; `python registry/tools/on.py <day> pravilnik-2015-1757`).
 
 ## Status
 

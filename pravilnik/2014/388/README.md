@@ -16,7 +16,7 @@ Pravilnik o visini naknade za stranu dozvolu i visini naknade za trošak postupk
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2014-388` (tags `pravilnik-2014-388/<day>`; `python tools/on.py <day> pravilnik-2014-388`).
+Act id: `pravilnik-2014-388` (tags `pravilnik-2014-388/<day>`; `python registry/tools/on.py <day> pravilnik-2014-388`).
 
 ## Status
 

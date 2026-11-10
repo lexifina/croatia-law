@@ -9,7 +9,7 @@ Pravilnik o dopuni Pravilnika o sadržaju redovitih izvješća i izvješća na z
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2022-2159` (tags `pravilnik-2022-2159/<day>`; `python tools/on.py <day> pravilnik-2022-2159`).
+Act id: `pravilnik-2022-2159` (tags `pravilnik-2022-2159/<day>`; `python registry/tools/on.py <day> pravilnik-2022-2159`).
 
 ## Decisions made by hand
 

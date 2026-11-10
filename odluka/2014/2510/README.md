@@ -9,7 +9,7 @@ Odluka o izmjenama Odluke o izvješćivanju o novčanom tržištu · 1 versions,
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2014-2510` (tags `odluka-2014-2510/<day>`; `python tools/on.py <day> odluka-2014-2510`).
+Act id: `odluka-2014-2510` (tags `odluka-2014-2510/<day>`; `python registry/tools/on.py <day> odluka-2014-2510`).
 
 ## Decisions made by hand
 

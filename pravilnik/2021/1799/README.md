@@ -15,7 +15,7 @@ Pravilnik o popisu i sadržaju dokumenata za odobrenje nuklearnih djelatnosti ·
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2021-1799` (tags `pravilnik-2021-1799/<day>`; `python tools/on.py <day> pravilnik-2021-1799`).
+Act id: `pravilnik-2021-1799` (tags `pravilnik-2021-1799/<day>`; `python registry/tools/on.py <day> pravilnik-2021-1799`).
 
 ## Decisions made by hand
 

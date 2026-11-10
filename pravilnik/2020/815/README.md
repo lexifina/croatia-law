@@ -9,7 +9,7 @@ Pravilnik o dopuni Pravilnika o Središnjem registru državne mature · 1 versio
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2020-815` (tags `pravilnik-2020-815/<day>`; `python tools/on.py <day> pravilnik-2020-815`).
+Act id: `pravilnik-2020-815` (tags `pravilnik-2020-815/<day>`; `python registry/tools/on.py <day> pravilnik-2020-815`).
 
 ## Decisions made by hand
 

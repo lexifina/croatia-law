@@ -8,7 +8,7 @@ Odluka o dopuni Odluke o uvođenju nužnih epidemioloških mjera za područje Pr
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2020-2242` (tags `odluka-2020-2242/<day>`; `python tools/on.py <day> odluka-2020-2242`).
+Act id: `odluka-2020-2242` (tags `odluka-2020-2242/<day>`; `python registry/tools/on.py <day> odluka-2020-2242`).
 
 ## Decisions made by hand
 

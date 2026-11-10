@@ -16,7 +16,7 @@ Pravilnik o izdavanju odobrenja za osnivanje i upravljanje AIF-om · 1 versions,
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2022-346` (tags `pravilnik-2022-346/<day>`; `python tools/on.py <day> pravilnik-2022-346`).
+Act id: `pravilnik-2022-346` (tags `pravilnik-2022-346/<day>`; `python registry/tools/on.py <day> pravilnik-2022-346`).
 
 ## Status
 

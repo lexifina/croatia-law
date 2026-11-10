@@ -18,7 +18,7 @@ Zakon o izmjenama i dopuni Zakona o lokalnim porezima · 1 versions, from 2023-1
 | čl. 12 | [clanak-012.md](clanak-012.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2023-1610` (tags `zakon-2023-1610/<day>`; `python tools/on.py <day> zakon-2023-1610`).
+Act id: `zakon-2023-1610` (tags `zakon-2023-1610/<day>`; `python registry/tools/on.py <day> zakon-2023-1610`).
 
 ## Decisions made by hand
 

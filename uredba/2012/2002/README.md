@@ -9,7 +9,7 @@ Uredba o izmjenama Uredbe o Carinskoj tarifi za 2012. godinu · 1 versions, from
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2012-2002` (tags `uredba-2012-2002/<day>`; `python tools/on.py <day> uredba-2012-2002`).
+Act id: `uredba-2012-2002` (tags `uredba-2012-2002/<day>`; `python registry/tools/on.py <day> uredba-2012-2002`).
 
 ## Decisions made by hand
 

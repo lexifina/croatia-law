@@ -8,7 +8,7 @@ Odluka o isplati jednokratnog novčanog primanja korisnicima prava u sustavu soc
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2022-2388` (tags `odluka-2022-2388/<day>`; `python tools/on.py <day> odluka-2022-2388`).
+Act id: `odluka-2022-2388` (tags `odluka-2022-2388/<day>`; `python registry/tools/on.py <day> odluka-2022-2388`).
 
 ## Decisions made by hand
 

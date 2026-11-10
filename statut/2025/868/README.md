@@ -11,7 +11,7 @@ Izmjene i dopune Statuta Turističke zajednice Zadarske županije · 1 versions,
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `statut-2025-868` (tags `statut-2025-868/<day>`; `python tools/on.py <day> statut-2025-868`).
+Act id: `statut-2025-868` (tags `statut-2025-868/<day>`; `python registry/tools/on.py <day> statut-2025-868`).
 
 ## Decisions made by hand
 

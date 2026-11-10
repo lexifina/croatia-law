@@ -8,7 +8,7 @@ Odluka o sudjelovanju pripadnika Oružanih snaga Republike Hrvatske u operaciji 
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2019-1397` (tags `odluka-2019-1397/<day>`; `python tools/on.py <day> odluka-2019-1397`).
+Act id: `odluka-2019-1397` (tags `odluka-2019-1397/<day>`; `python registry/tools/on.py <day> odluka-2019-1397`).
 
 ## Status
 

@@ -15,7 +15,7 @@ Odluka o TIPS usluzi za sporedne sustave koji namiruju instant plaćanja · 1 ve
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2021-2054` (tags `odluka-2021-2054/<day>`; `python tools/on.py <day> odluka-2021-2054`).
+Act id: `odluka-2021-2054` (tags `odluka-2021-2054/<day>`; `python registry/tools/on.py <day> odluka-2021-2054`).
 
 ## Status
 

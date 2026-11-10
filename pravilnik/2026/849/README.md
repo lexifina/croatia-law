@@ -22,7 +22,7 @@ Pravilnik o sadržaju, uvjetima korištenja, opsegu podataka i naknadi troškova
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2026-849` (tags `pravilnik-2026-849/<day>`; `python tools/on.py <day> pravilnik-2026-849`).
+Act id: `pravilnik-2026-849` (tags `pravilnik-2026-849/<day>`; `python registry/tools/on.py <day> pravilnik-2026-849`).
 
 ## Decisions made by hand
 

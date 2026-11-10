@@ -27,7 +27,7 @@ Zakon o izmjenama Zakona o lokalnim porezima · 1 versions, from 2017-10-20 (lat
 | čl. 21 | [clanak-021.md](clanak-021.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2017-2321` (tags `zakon-2017-2321/<day>`; `python tools/on.py <day> zakon-2017-2321`).
+Act id: `zakon-2017-2321` (tags `zakon-2017-2321/<day>`; `python registry/tools/on.py <day> zakon-2017-2321`).
 
 ## Decisions made by hand
 

@@ -13,7 +13,7 @@ Odluka o uvjetima ostvarivanja dobrovoljnog članstva u Hrvatskoj gospodarskoj k
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2022-44` (tags `odluka-2022-44/<day>`; `python tools/on.py <day> odluka-2022-44`).
+Act id: `odluka-2022-44` (tags `odluka-2022-44/<day>`; `python registry/tools/on.py <day> odluka-2022-44`).
 
 ## Status
 

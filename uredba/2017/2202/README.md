@@ -99,7 +99,7 @@ Uredba o unutarnjem ustrojstvu Ministarstva turizma · 1 versions, from 2017-10-
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2017-2202` (tags `uredba-2017-2202/<day>`; `python tools/on.py <day> uredba-2017-2202`).
+Act id: `uredba-2017-2202` (tags `uredba-2017-2202/<day>`; `python registry/tools/on.py <day> uredba-2017-2202`).
 
 ## Status
 

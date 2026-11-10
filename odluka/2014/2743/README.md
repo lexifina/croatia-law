@@ -34,7 +34,7 @@ Odluka o porezima Grada Senja · 1 versions, from 2014-12-18 (latest in force: 2
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2014-2743` (tags `odluka-2014-2743/<day>`; `python tools/on.py <day> odluka-2014-2743`).
+Act id: `odluka-2014-2743` (tags `odluka-2014-2743/<day>`; `python registry/tools/on.py <day> odluka-2014-2743`).
 
 ## Status
 

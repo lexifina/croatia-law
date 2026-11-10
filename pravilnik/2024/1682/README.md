@@ -29,7 +29,7 @@ Pravilnik o provedbi mjere II.10. »Akvakultura koja osigurava usluge zaštite o
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2024-1682` (tags `pravilnik-2024-1682/<day>`; `python tools/on.py <day> pravilnik-2024-1682`).
+Act id: `pravilnik-2024-1682` (tags `pravilnik-2024-1682/<day>`; `python registry/tools/on.py <day> pravilnik-2024-1682`).
 
 ## Decisions made by hand
 

@@ -18,7 +18,7 @@ Pravilnik o uvjetima monitoringa, označavanja i pakiranja genetski modificirani
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2020-2673` (tags `pravilnik-2020-2673/<day>`; `python tools/on.py <day> pravilnik-2020-2673`).
+Act id: `pravilnik-2020-2673` (tags `pravilnik-2020-2673/<day>`; `python registry/tools/on.py <day> pravilnik-2020-2673`).
 
 ## Decisions made by hand
 

@@ -37,7 +37,7 @@ Pravilnik o upisu sorti u sortnu listu voćnih vrsta i Sortnu listu loze · 1 ve
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2023-2320` (tags `pravilnik-2023-2320/<day>`; `python tools/on.py <day> pravilnik-2023-2320`).
+Act id: `pravilnik-2023-2320` (tags `pravilnik-2023-2320/<day>`; `python registry/tools/on.py <day> pravilnik-2023-2320`).
 
 ## Decisions made by hand
 

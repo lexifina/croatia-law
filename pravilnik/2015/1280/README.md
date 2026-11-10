@@ -21,7 +21,7 @@ Pravilnik o načinu odobravanja i ukidanja posebnog statusa poreznom obvezniku u
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2015-1280` (tags `pravilnik-2015-1280/<day>`; `python tools/on.py <day> pravilnik-2015-1280`).
+Act id: `pravilnik-2015-1280` (tags `pravilnik-2015-1280/<day>`; `python registry/tools/on.py <day> pravilnik-2015-1280`).
 
 ## Status
 

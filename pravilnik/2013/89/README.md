@@ -14,7 +14,7 @@ Pravilnik o načinu provedbe ovrhe na novčanim sredstvima banke · 1 versions, 
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2013-89` (tags `pravilnik-2013-89/<day>`; `python tools/on.py <day> pravilnik-2013-89`).
+Act id: `pravilnik-2013-89` (tags `pravilnik-2013-89/<day>`; `python registry/tools/on.py <day> pravilnik-2013-89`).
 
 ## Status
 

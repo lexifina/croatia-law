@@ -8,7 +8,7 @@ Odluka o izmjeni Odluke o uvjetima korištenja službenih osobnih automobila, mo
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2012-2726` (tags `odluka-2012-2726/<day>`; `python tools/on.py <day> odluka-2012-2726`).
+Act id: `odluka-2012-2726` (tags `odluka-2012-2726/<day>`; `python registry/tools/on.py <day> odluka-2012-2726`).
 
 ## Decisions made by hand
 

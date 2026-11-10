@@ -22,7 +22,7 @@ Pravilnik o tehničkim uvjetima koje moraju ispunjavati radne prostorije i oprem
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2016-1700` (tags `pravilnik-2016-1700/<day>`; `python tools/on.py <day> pravilnik-2016-1700`).
+Act id: `pravilnik-2016-1700` (tags `pravilnik-2016-1700/<day>`; `python registry/tools/on.py <day> pravilnik-2016-1700`).
 
 ## Decisions made by hand
 

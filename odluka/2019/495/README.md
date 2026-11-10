@@ -8,7 +8,7 @@ Odluka o izmjeni Odluke o osnivanju Povjerenstva za upravljanje sigurnošću u z
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2019-495` (tags `odluka-2019-495/<day>`; `python tools/on.py <day> odluka-2019-495`).
+Act id: `odluka-2019-495` (tags `odluka-2019-495/<day>`; `python registry/tools/on.py <day> odluka-2019-495`).
 
 ## Decisions made by hand
 

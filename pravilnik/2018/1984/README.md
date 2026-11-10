@@ -5,7 +5,7 @@ Pravilnik o izmjenama Pravilnika o načinu rada Povjerenstva za polaganje završ
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `pravilnik-2018-1984` (tags `pravilnik-2018-1984/<day>`; `python tools/on.py <day> pravilnik-2018-1984`).
+Act id: `pravilnik-2018-1984` (tags `pravilnik-2018-1984/<day>`; `python registry/tools/on.py <day> pravilnik-2018-1984`).
 
 ## Decisions made by hand
 

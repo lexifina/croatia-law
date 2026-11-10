@@ -11,7 +11,7 @@ Zakon o izmjenama Zakona o poštanskim uslugama · 1 versions, from 2011-06-11 (
 | čl. 5 | [clanak-005.md](clanak-005.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2011-1363` (tags `zakon-2011-1363/<day>`; `python tools/on.py <day> zakon-2011-1363`).
+Act id: `zakon-2011-1363` (tags `zakon-2011-1363/<day>`; `python registry/tools/on.py <day> zakon-2011-1363`).
 
 ## Decisions made by hand
 

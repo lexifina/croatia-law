@@ -12,7 +12,7 @@ Zakon o izmjenama i dopuni Zakona o Financijskom inspektoratu Republike Hrvatske
 | čl. 6 | [clanak-006.md](clanak-006.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2011-1205` (tags `zakon-2011-1205/<day>`; `python tools/on.py <day> zakon-2011-1205`).
+Act id: `zakon-2011-1205` (tags `zakon-2011-1205/<day>`; `python registry/tools/on.py <day> zakon-2011-1205`).
 
 ## Decisions made by hand
 

@@ -13,7 +13,7 @@ Pravilnik o načinu vođenja registra ribnjaka u vlasništvu Republike Hrvatske 
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2018-1827` (tags `pravilnik-2018-1827/<day>`; `python tools/on.py <day> pravilnik-2018-1827`).
+Act id: `pravilnik-2018-1827` (tags `pravilnik-2018-1827/<day>`; `python registry/tools/on.py <day> pravilnik-2018-1827`).
 
 ## Decisions made by hand
 

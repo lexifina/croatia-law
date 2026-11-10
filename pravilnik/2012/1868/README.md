@@ -11,7 +11,7 @@ Pravilnik o izmjenama i dopunama Pravilnika o Fondu za poticanje pluralizma i ra
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2012-1868` (tags `pravilnik-2012-1868/<day>`; `python tools/on.py <day> pravilnik-2012-1868`).
+Act id: `pravilnik-2012-1868` (tags `pravilnik-2012-1868/<day>`; `python registry/tools/on.py <day> pravilnik-2012-1868`).
 
 ## Decisions made by hand
 

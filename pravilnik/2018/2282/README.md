@@ -14,7 +14,7 @@ Pravilnik o prihvatljivosti izdataka · 1 versions, from 2018-12-28 (latest in f
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2018-2282` (tags `pravilnik-2018-2282/<day>`; `python tools/on.py <day> pravilnik-2018-2282`).
+Act id: `pravilnik-2018-2282` (tags `pravilnik-2018-2282/<day>`; `python registry/tools/on.py <day> pravilnik-2018-2282`).
 
 ## Status
 

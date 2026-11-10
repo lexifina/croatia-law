@@ -10,7 +10,7 @@ Pravilnik o izmjenama Pravilnika o ribolovnim mogućnostima i ribolovu igluna (X
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2024-467` (tags `pravilnik-2024-467/<day>`; `python tools/on.py <day> pravilnik-2024-467`).
+Act id: `pravilnik-2024-467` (tags `pravilnik-2024-467/<day>`; `python registry/tools/on.py <day> pravilnik-2024-467`).
 
 ## Decisions made by hand
 

@@ -23,7 +23,7 @@ Uredba o Uredu za ljudska prava i prava nacionalnih manjina · 1 versions, from 
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2025-1540` (tags `uredba-2025-1540/<day>`; `python tools/on.py <day> uredba-2025-1540`).
+Act id: `uredba-2025-1540` (tags `uredba-2025-1540/<day>`; `python registry/tools/on.py <day> uredba-2025-1540`).
 
 ## Decisions made by hand
 

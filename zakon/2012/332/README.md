@@ -15,7 +15,7 @@ Zakon o izmjenama Zakona o pravima i dužnostima zastupnika u Hrvatskom saboru �
 | čl. 9 | [clanak-009.md](clanak-009.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2012-332` (tags `zakon-2012-332/<day>`; `python tools/on.py <day> zakon-2012-332`).
+Act id: `zakon-2012-332` (tags `zakon-2012-332/<day>`; `python registry/tools/on.py <day> zakon-2012-332`).
 
 ## Decisions made by hand
 

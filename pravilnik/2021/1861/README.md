@@ -5,7 +5,7 @@ Pravilnik o uvjetima i načinu ostvarivanja prava na državnu stipendiju na teme
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `pravilnik-2021-1861` (tags `pravilnik-2021-1861/<day>`; `python tools/on.py <day> pravilnik-2021-1861`).
+Act id: `pravilnik-2021-1861` (tags `pravilnik-2021-1861/<day>`; `python registry/tools/on.py <day> pravilnik-2021-1861`).
 
 ## Decisions made by hand
 

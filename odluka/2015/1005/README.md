@@ -10,7 +10,7 @@ Odluka o izmjenama i dopunama Odluke o provedbi Uredbe (EU) br. 575/2013 u dijel
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2015-1005` (tags `odluka-2015-1005/<day>`; `python tools/on.py <day> odluka-2015-1005`).
+Act id: `odluka-2015-1005` (tags `odluka-2015-1005/<day>`; `python registry/tools/on.py <day> odluka-2015-1005`).
 
 ## Decisions made by hand
 

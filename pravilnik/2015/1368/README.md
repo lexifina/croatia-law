@@ -30,7 +30,7 @@ Pravilnik o sustavu za praćenje, mjerenje i verifikaciju ušteda energije · 1 
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2015-1368` (tags `pravilnik-2015-1368/<day>`; `python tools/on.py <day> pravilnik-2015-1368`).
+Act id: `pravilnik-2015-1368` (tags `pravilnik-2015-1368/<day>`; `python registry/tools/on.py <day> pravilnik-2015-1368`).
 
 ## Status
 

@@ -24,7 +24,7 @@ Odluka o porezima Općine Donji Lapac · 1 versions, from 2024-01-01 (latest in 
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2023-2440` (tags `odluka-2023-2440/<day>`; `python tools/on.py <day> odluka-2023-2440`).
+Act id: `odluka-2023-2440` (tags `odluka-2023-2440/<day>`; `python registry/tools/on.py <day> odluka-2023-2440`).
 
 ## Decisions made by hand
 

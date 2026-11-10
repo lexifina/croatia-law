@@ -8,7 +8,7 @@ Odluka o zatvaranju Konzulata Republike Hrvatske u Kanadi, sa sjedištem u St. J
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2014-1553` (tags `odluka-2014-1553/<day>`; `python tools/on.py <day> odluka-2014-1553`).
+Act id: `odluka-2014-1553` (tags `odluka-2014-1553/<day>`; `python registry/tools/on.py <day> odluka-2014-1553`).
 
 ## Decisions made by hand
 

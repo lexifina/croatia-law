@@ -9,7 +9,7 @@ Odluka o davanju suglasnosti na financijski plan Hrvatskih voda za 2022. godinu 
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2021-2362` (tags `odluka-2021-2362/<day>`; `python tools/on.py <day> odluka-2021-2362`).
+Act id: `odluka-2021-2362` (tags `odluka-2021-2362/<day>`; `python registry/tools/on.py <day> odluka-2021-2362`).
 
 ## Decisions made by hand
 

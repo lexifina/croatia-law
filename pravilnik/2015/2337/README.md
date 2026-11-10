@@ -19,7 +19,7 @@ Pravilnik o izmjenama i dopunama Pravilnika o radu u sustavu JCMS · 1 versions,
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2015-2337` (tags `pravilnik-2015-2337/<day>`; `python tools/on.py <day> pravilnik-2015-2337`).
+Act id: `pravilnik-2015-2337` (tags `pravilnik-2015-2337/<day>`; `python registry/tools/on.py <day> pravilnik-2015-2337`).
 
 ## Decisions made by hand
 

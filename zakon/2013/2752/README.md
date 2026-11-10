@@ -15,7 +15,7 @@ Zakon o promicanju čistih i energetski učinkovitih vozila u cestovnom prijevoz
 | čl. 9 | [clanak-009.md](clanak-009.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2013-2752` (tags `zakon-2013-2752/<day>`; `python tools/on.py <day> zakon-2013-2752`).
+Act id: `zakon-2013-2752` (tags `zakon-2013-2752/<day>`; `python registry/tools/on.py <day> zakon-2013-2752`).
 
 ## Status
 

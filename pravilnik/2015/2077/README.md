@@ -41,7 +41,7 @@ Pravilnik o provedbi mjere M04 "Ulaganja u fizičku imovinu", podmjere 4.3. "Pot
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2015-2077` (tags `pravilnik-2015-2077/<day>`; `python tools/on.py <day> pravilnik-2015-2077`).
+Act id: `pravilnik-2015-2077` (tags `pravilnik-2015-2077/<day>`; `python registry/tools/on.py <day> pravilnik-2015-2077`).
 
 ## Status
 

@@ -8,7 +8,7 @@ Odluka o katastarskoj izmjeri na području Općine Punitovci za katastarsku opć
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2017-2373` (tags `odluka-2017-2373/<day>`; `python tools/on.py <day> odluka-2017-2373`).
+Act id: `odluka-2017-2373` (tags `odluka-2017-2373/<day>`; `python registry/tools/on.py <day> odluka-2017-2373`).
 
 ## Decisions made by hand
 

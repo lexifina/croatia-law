@@ -12,7 +12,7 @@ Pravilnik o načinu utvrđivanja visine sredstava koje Republika Hrvatska osigur
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2017-736` (tags `pravilnik-2017-736/<day>`; `python tools/on.py <day> pravilnik-2017-736`).
+Act id: `pravilnik-2017-736` (tags `pravilnik-2017-736/<day>`; `python registry/tools/on.py <day> pravilnik-2017-736`).
 
 ## Status
 

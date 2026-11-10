@@ -30,7 +30,7 @@ Pravilnik o provedbi mjere III.2. »Odabir i odobravanje lokalnih razvojnih stra
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2023-1691` (tags `pravilnik-2023-1691/<day>`; `python tools/on.py <day> pravilnik-2023-1691`).
+Act id: `pravilnik-2023-1691` (tags `pravilnik-2023-1691/<day>`; `python registry/tools/on.py <day> pravilnik-2023-1691`).
 
 ## Status
 

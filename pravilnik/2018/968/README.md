@@ -27,7 +27,7 @@ Pravilnik o osiguranju carinskog duga · 1 versions, from 2018-06-07 (latest in 
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2018-968` (tags `pravilnik-2018-968/<day>`; `python tools/on.py <day> pravilnik-2018-968`).
+Act id: `pravilnik-2018-968` (tags `pravilnik-2018-968/<day>`; `python registry/tools/on.py <day> pravilnik-2018-968`).
 
 ## Decisions made by hand
 

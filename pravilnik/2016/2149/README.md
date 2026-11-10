@@ -19,7 +19,7 @@ Pravilnik o mjeriteljskim i tehničkim zahtjevima za tlakomjere za mjerenje tlak
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2016-2149` (tags `pravilnik-2016-2149/<day>`; `python tools/on.py <day> pravilnik-2016-2149`).
+Act id: `pravilnik-2016-2149` (tags `pravilnik-2016-2149/<day>`; `python registry/tools/on.py <day> pravilnik-2016-2149`).
 
 ## Decisions made by hand
 

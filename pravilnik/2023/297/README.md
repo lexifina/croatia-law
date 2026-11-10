@@ -14,7 +14,7 @@ Pravilnik o izmjenama i dopunama Pravilnika o kriterijima za odabir kompetencija
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2023-297` (tags `pravilnik-2023-297/<day>`; `python tools/on.py <day> pravilnik-2023-297`).
+Act id: `pravilnik-2023-297` (tags `pravilnik-2023-297/<day>`; `python registry/tools/on.py <day> pravilnik-2023-297`).
 
 ## Decisions made by hand
 

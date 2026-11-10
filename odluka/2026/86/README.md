@@ -8,7 +8,7 @@ Odluka o visini osnovice za obračun plaće zaposlenicima u javnim službama u 2
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2026-86` (tags `odluka-2026-86/<day>`; `python tools/on.py <day> odluka-2026-86`).
+Act id: `odluka-2026-86` (tags `odluka-2026-86/<day>`; `python registry/tools/on.py <day> odluka-2026-86`).
 
 ## Decisions made by hand
 

@@ -8,7 +8,7 @@ Zakon o izmjeni Zakona o vlasništvu i drugim stvarnim pravima · 1 versions, fr
 | čl. 2 | [clanak-002.md](clanak-002.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2014-2857` (tags `zakon-2014-2857/<day>`; `python tools/on.py <day> zakon-2014-2857`).
+Act id: `zakon-2014-2857` (tags `zakon-2014-2857/<day>`; `python registry/tools/on.py <day> zakon-2014-2857`).
 
 ## Decisions made by hand
 

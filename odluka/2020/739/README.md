@@ -5,7 +5,7 @@ Odluka o uvođenju nužne mjere posebne organizacije hitne medicinske službe i 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `odluka-2020-739` (tags `odluka-2020-739/<day>`; `python tools/on.py <day> odluka-2020-739`).
+Act id: `odluka-2020-739` (tags `odluka-2020-739/<day>`; `python registry/tools/on.py <day> odluka-2020-739`).
 
 ## Decisions made by hand
 

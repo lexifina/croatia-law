@@ -9,7 +9,7 @@ Pravilnik o dopuni Pravilnika o prijenosu javnih cesta i nerazvrstanih cesta · 
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2021-202` (tags `pravilnik-2021-202/<day>`; `python tools/on.py <day> pravilnik-2021-202`).
+Act id: `pravilnik-2021-202` (tags `pravilnik-2021-202/<day>`; `python registry/tools/on.py <day> pravilnik-2021-202`).
 
 ## Decisions made by hand
 

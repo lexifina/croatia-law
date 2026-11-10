@@ -21,7 +21,7 @@ Pravilnik o sadržaju i načinu vođenja Registra jedinica za unutarnju reviziju
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2016-1093` (tags `pravilnik-2016-1093/<day>`; `python tools/on.py <day> pravilnik-2016-1093`).
+Act id: `pravilnik-2016-1093` (tags `pravilnik-2016-1093/<day>`; `python registry/tools/on.py <day> pravilnik-2016-1093`).
 
 ## Decisions made by hand
 

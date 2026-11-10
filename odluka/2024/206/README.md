@@ -12,7 +12,7 @@ Odluka o sadržaju i načinu obavještavanja Hrvatske narodne banke u slučaju k
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2024-206` (tags `odluka-2024-206/<day>`; `python tools/on.py <day> odluka-2024-206`).
+Act id: `odluka-2024-206` (tags `odluka-2024-206/<day>`; `python registry/tools/on.py <day> odluka-2024-206`).
 
 ## Decisions made by hand
 

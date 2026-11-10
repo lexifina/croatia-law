@@ -9,7 +9,7 @@ Odluka o donošenju Izvješća o stanju kakvoće zraka za područje Republike Hr
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2013-2140` (tags `odluka-2013-2140/<day>`; `python tools/on.py <day> odluka-2013-2140`).
+Act id: `odluka-2013-2140` (tags `odluka-2013-2140/<day>`; `python registry/tools/on.py <day> odluka-2013-2140`).
 
 ## Decisions made by hand
 

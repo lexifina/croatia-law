@@ -87,7 +87,7 @@ Statut Turističke zajednice Dubrovačko-neretvanske županije · 1 versions, fr
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `statut-2020-821` (tags `statut-2020-821/<day>`; `python tools/on.py <day> statut-2020-821`).
+Act id: `statut-2020-821` (tags `statut-2020-821/<day>`; `python registry/tools/on.py <day> statut-2020-821`).
 
 ## Decisions made by hand
 

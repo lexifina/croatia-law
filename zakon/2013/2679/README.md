@@ -24,7 +24,7 @@ Zakon o izmjenama i dopunama Zakona o zadrugama · 1 versions, from 2013-10-19 (
 | čl. 18 | [clanak-018.md](clanak-018.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2013-2679` (tags `zakon-2013-2679/<day>`; `python tools/on.py <day> zakon-2013-2679`).
+Act id: `zakon-2013-2679` (tags `zakon-2013-2679/<day>`; `python registry/tools/on.py <day> zakon-2013-2679`).
 
 ## Decisions made by hand
 

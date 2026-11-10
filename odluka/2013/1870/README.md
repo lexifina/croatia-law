@@ -8,7 +8,7 @@ Odluka o potvrđivanju Pravilnika o dopuni Pravilnika o načinu rada Odbora za s
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2013-1870` (tags `odluka-2013-1870/<day>`; `python tools/on.py <day> odluka-2013-1870`).
+Act id: `odluka-2013-1870` (tags `odluka-2013-1870/<day>`; `python registry/tools/on.py <day> odluka-2013-1870`).
 
 ## Decisions made by hand
 

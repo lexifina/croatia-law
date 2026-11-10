@@ -9,7 +9,7 @@ Pravilnik o izmjeni pravilnika o trofejima divljači · 1 versions, from 2025-06
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2025-1118` (tags `pravilnik-2025-1118/<day>`; `python tools/on.py <day> pravilnik-2025-1118`).
+Act id: `pravilnik-2025-1118` (tags `pravilnik-2025-1118/<day>`; `python registry/tools/on.py <day> pravilnik-2025-1118`).
 
 ## Decisions made by hand
 

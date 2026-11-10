@@ -18,7 +18,7 @@ Odluka o naknadi za razvoj za područje Grada Velike Gorice · 1 versions, from 
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2023-2500` (tags `odluka-2023-2500/<day>`; `python tools/on.py <day> odluka-2023-2500`).
+Act id: `odluka-2023-2500` (tags `odluka-2023-2500/<day>`; `python registry/tools/on.py <day> odluka-2023-2500`).
 
 ## Status
 

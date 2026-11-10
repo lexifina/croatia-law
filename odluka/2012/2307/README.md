@@ -8,7 +8,7 @@ Odluka o otpisu dijela zakupnine, naknade za dugogodišnji zakup, naknade za dug
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2012-2307` (tags `odluka-2012-2307/<day>`; `python tools/on.py <day> odluka-2012-2307`).
+Act id: `odluka-2012-2307` (tags `odluka-2012-2307/<day>`; `python registry/tools/on.py <day> odluka-2012-2307`).
 
 ## Status
 

@@ -25,7 +25,7 @@ Zakon o izmjenama i dopunama Zakona o državnom odvjetništvu · 1 versions, fro
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 
-Act id: `zakon-2015-1573` (tags `zakon-2015-1573/<day>`; `python tools/on.py <day> zakon-2015-1573`).
+Act id: `zakon-2015-1573` (tags `zakon-2015-1573/<day>`; `python registry/tools/on.py <day> zakon-2015-1573`).
 
 ## Decisions made by hand
 

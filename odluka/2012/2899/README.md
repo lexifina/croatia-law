@@ -9,7 +9,7 @@ Odluka o raspodijeli sredstava za financiranje obrazovnih, kulturnih, znanstveni
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2012-2899` (tags `odluka-2012-2899/<day>`; `python tools/on.py <day> odluka-2012-2899`).
+Act id: `odluka-2012-2899` (tags `odluka-2012-2899/<day>`; `python registry/tools/on.py <day> odluka-2012-2899`).
 
 ## Decisions made by hand
 

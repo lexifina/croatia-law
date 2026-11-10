@@ -12,7 +12,7 @@ Pravilnik o izmjeni i dopunama Pravilnika o provedbi Provedbene uredbe Komisije 
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2025-39` (tags `pravilnik-2025-39/<day>`; `python tools/on.py <day> pravilnik-2025-39`).
+Act id: `pravilnik-2025-39` (tags `pravilnik-2025-39/<day>`; `python registry/tools/on.py <day> pravilnik-2025-39`).
 
 ## Decisions made by hand
 

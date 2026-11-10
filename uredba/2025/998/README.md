@@ -13,7 +13,7 @@ Uredba o izmjenama Uredbe o osnivanju Javne ustanove »Nacionalni park Sjeverni 
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2025-998` (tags `uredba-2025-998/<day>`; `python tools/on.py <day> uredba-2025-998`).
+Act id: `uredba-2025-998` (tags `uredba-2025-998/<day>`; `python registry/tools/on.py <day> uredba-2025-998`).
 
 ## Decisions made by hand
 

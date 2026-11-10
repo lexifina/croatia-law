@@ -8,7 +8,7 @@ Odluka o izmjeni Odluke o privremenoj mjeri pomoći nakladnicima televizije s pr
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2020-1369` (tags `odluka-2020-1369/<day>`; `python tools/on.py <day> odluka-2020-1369`).
+Act id: `odluka-2020-1369` (tags `odluka-2020-1369/<day>`; `python registry/tools/on.py <day> odluka-2020-1369`).
 
 ## Decisions made by hand
 

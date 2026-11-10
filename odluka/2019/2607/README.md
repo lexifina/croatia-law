@@ -17,7 +17,7 @@ Odluka o lokalnim porezima Grada Sinja · 1 versions, from 2020-01-01 (latest in
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2019-2607` (tags `odluka-2019-2607/<day>`; `python tools/on.py <day> odluka-2019-2607`).
+Act id: `odluka-2019-2607` (tags `odluka-2019-2607/<day>`; `python registry/tools/on.py <day> odluka-2019-2607`).
 
 ## Decisions made by hand
 

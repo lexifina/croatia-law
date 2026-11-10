@@ -8,7 +8,7 @@ Odluka o odvijanju i načinu organizacije javnog prometa za vrijeme trajanja pro
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2020-1037` (tags `odluka-2020-1037/<day>`; `python tools/on.py <day> odluka-2020-1037`).
+Act id: `odluka-2020-1037` (tags `odluka-2020-1037/<day>`; `python registry/tools/on.py <day> odluka-2020-1037`).
 
 ## Status
 

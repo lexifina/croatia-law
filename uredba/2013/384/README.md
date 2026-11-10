@@ -18,7 +18,7 @@ Uredba o osnivanju Muzeja Vučedolske kulture · 1 versions, from 2013-03-05 (la
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2013-384` (tags `uredba-2013-384/<day>`; `python tools/on.py <day> uredba-2013-384`).
+Act id: `uredba-2013-384` (tags `uredba-2013-384/<day>`; `python registry/tools/on.py <day> uredba-2013-384`).
 
 ## Decisions made by hand
 

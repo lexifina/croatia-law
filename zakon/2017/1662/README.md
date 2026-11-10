@@ -9,7 +9,7 @@ Zakon o prestanku važenja Zakona o postupku oduzimanja imovinske koristi ostvar
 | čl. 3 | [clanak-003.md](clanak-003.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2017-1662` (tags `zakon-2017-1662/<day>`; `python tools/on.py <day> zakon-2017-1662`).
+Act id: `zakon-2017-1662` (tags `zakon-2017-1662/<day>`; `python registry/tools/on.py <day> zakon-2017-1662`).
 
 ## Decisions made by hand
 

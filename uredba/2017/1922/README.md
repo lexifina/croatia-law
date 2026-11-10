@@ -14,7 +14,7 @@ Uredba o utvrđivanju visine boravišne pristojbe za 2018. godinu · 1 versions,
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2017-1922` (tags `uredba-2017-1922/<day>`; `python tools/on.py <day> uredba-2017-1922`).
+Act id: `uredba-2017-1922` (tags `uredba-2017-1922/<day>`; `python registry/tools/on.py <day> uredba-2017-1922`).
 
 ## Decisions made by hand
 

@@ -39,7 +39,7 @@ Zakon o izmjenama i dopunama Zakona o sudovima · 1 versions, from 2025-11-13 (l
 | čl. 33 | [clanak-033.md](clanak-033.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2025-2016` (tags `zakon-2025-2016/<day>`; `python tools/on.py <day> zakon-2025-2016`).
+Act id: `zakon-2025-2016` (tags `zakon-2025-2016/<day>`; `python registry/tools/on.py <day> zakon-2025-2016`).
 
 ## Decisions made by hand
 

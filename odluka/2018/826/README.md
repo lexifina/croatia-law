@@ -8,7 +8,7 @@ Odluka o izmjeni i dopuni Odluke porezima Općine Tisno · 1 versions, from 2019
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2018-826` (tags `odluka-2018-826/<day>`; `python tools/on.py <day> odluka-2018-826`).
+Act id: `odluka-2018-826` (tags `odluka-2018-826/<day>`; `python registry/tools/on.py <day> odluka-2018-826`).
 
 ## Decisions made by hand
 

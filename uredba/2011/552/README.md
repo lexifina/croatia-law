@@ -15,7 +15,7 @@ Uredba o izmjeni i dopunama Uredbe o unutarnjem ustrojstvu Ministarstva unutarnj
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2011-552` (tags `uredba-2011-552/<day>`; `python tools/on.py <day> uredba-2011-552`).
+Act id: `uredba-2011-552` (tags `uredba-2011-552/<day>`; `python registry/tools/on.py <day> uredba-2011-552`).
 
 ## Decisions made by hand
 

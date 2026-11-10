@@ -17,7 +17,7 @@ Pravilnik o stručnom nadzoru · 1 versions, from 2021-11-11 (latest in force: 2
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2021-2038` (tags `pravilnik-2021-2038/<day>`; `python tools/on.py <day> pravilnik-2021-2038`).
+Act id: `pravilnik-2021-2038` (tags `pravilnik-2021-2038/<day>`; `python registry/tools/on.py <day> pravilnik-2021-2038`).
 
 ## Decisions made by hand
 

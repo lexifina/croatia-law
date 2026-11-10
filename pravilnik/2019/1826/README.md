@@ -26,7 +26,7 @@ Pravilnik o načinu, uvjetima i postupku za davanje akreditacije nositeljima zdr
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2019-1826` (tags `pravilnik-2019-1826/<day>`; `python tools/on.py <day> pravilnik-2019-1826`).
+Act id: `pravilnik-2019-1826` (tags `pravilnik-2019-1826/<day>`; `python registry/tools/on.py <day> pravilnik-2019-1826`).
 
 ## Decisions made by hand
 

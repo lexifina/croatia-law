@@ -13,7 +13,7 @@ Odluka o dopuštenoj visini tehnološkog manjka, kala, kvara, rasipa i loma u pr
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2021-642` (tags `odluka-2021-642/<day>`; `python tools/on.py <day> odluka-2021-642`).
+Act id: `odluka-2021-642` (tags `odluka-2021-642/<day>`; `python registry/tools/on.py <day> odluka-2021-642`).
 
 ## Decisions made by hand
 

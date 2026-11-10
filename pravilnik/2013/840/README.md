@@ -17,7 +17,7 @@ Pravilnik o izmjenama i dopunama Pravilnika o mjerama za kontrolu i iskorjenjiva
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2013-840` (tags `pravilnik-2013-840/<day>`; `python tools/on.py <day> pravilnik-2013-840`).
+Act id: `pravilnik-2013-840` (tags `pravilnik-2013-840/<day>`; `python registry/tools/on.py <day> pravilnik-2013-840`).
 
 ## Decisions made by hand
 

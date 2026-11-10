@@ -26,7 +26,7 @@ Uredba o osnivanju Instituta za vode »Josip Juraj Strossmayer« · 1 versions, 
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2021-2438` (tags `uredba-2021-2438/<day>`; `python tools/on.py <day> uredba-2021-2438`).
+Act id: `uredba-2021-2438` (tags `uredba-2021-2438/<day>`; `python registry/tools/on.py <day> uredba-2021-2438`).
 
 ## Decisions made by hand
 

@@ -16,7 +16,7 @@ Odluka o lokalnim porezima Općine Lovinac · 1 versions, from 2024-01-01 (lates
 | čl. 10 | [clanak-010.md](clanak-010.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `odluka-2023-2212` (tags `odluka-2023-2212/<day>`; `python tools/on.py <day> odluka-2023-2212`).
+Act id: `odluka-2023-2212` (tags `odluka-2023-2212/<day>`; `python registry/tools/on.py <day> odluka-2023-2212`).
 
 ## Decisions made by hand
 

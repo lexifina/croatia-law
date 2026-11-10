@@ -8,7 +8,7 @@ Odluka o donošenjuVlasničke politike pravnih osoba u vlasništvu Republike Hrv
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2026-1044` (tags `odluka-2026-1044/<day>`; `python tools/on.py <day> odluka-2026-1044`).
+Act id: `odluka-2026-1044` (tags `odluka-2026-1044/<day>`; `python registry/tools/on.py <day> odluka-2026-1044`).
 
 ## Decisions made by hand
 

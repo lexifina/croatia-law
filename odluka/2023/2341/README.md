@@ -11,7 +11,7 @@ Odluka o visini poreznih stopa poreza na dohodak Općine Draganić · 1 versions
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2023-2341` (tags `odluka-2023-2341/<day>`; `python tools/on.py <day> odluka-2023-2341`).
+Act id: `odluka-2023-2341` (tags `odluka-2023-2341/<day>`; `python registry/tools/on.py <day> odluka-2023-2341`).
 
 ## Status
 

@@ -15,7 +15,7 @@ Pravilnik o lovostaju · 1 versions, from 2019-10-10 (latest in force: 2019-10-1
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2019-1848` (tags `pravilnik-2019-1848/<day>`; `python tools/on.py <day> pravilnik-2019-1848`).
+Act id: `pravilnik-2019-1848` (tags `pravilnik-2019-1848/<day>`; `python registry/tools/on.py <day> pravilnik-2019-1848`).
 
 ## Decisions made by hand
 

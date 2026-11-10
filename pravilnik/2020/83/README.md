@@ -11,7 +11,7 @@ Pravilnik o izmjenama i dopunama Pravilnika o osobnom identifikacijskom broju ·
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2020-83` (tags `pravilnik-2020-83/<day>`; `python tools/on.py <day> pravilnik-2020-83`).
+Act id: `pravilnik-2020-83` (tags `pravilnik-2020-83/<day>`; `python registry/tools/on.py <day> pravilnik-2020-83`).
 
 ## Decisions made by hand
 

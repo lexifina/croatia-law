@@ -11,7 +11,7 @@ Pravilnik o razvrstavanju humanitarnih akcija · 1 versions, from 2015-11-03 (la
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2015-2279` (tags `pravilnik-2015-2279/<day>`; `python tools/on.py <day> pravilnik-2015-2279`).
+Act id: `pravilnik-2015-2279` (tags `pravilnik-2015-2279/<day>`; `python registry/tools/on.py <day> pravilnik-2015-2279`).
 
 ## Status
 

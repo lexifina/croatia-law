@@ -12,7 +12,7 @@ Zakon o izmjenama i dopuni Zakona o Agenciji za odgoj i obrazovanje · 1 version
 | čl. 6 | [clanak-006.md](clanak-006.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2022-2342` (tags `zakon-2022-2342/<day>`; `python tools/on.py <day> zakon-2022-2342`).
+Act id: `zakon-2022-2342` (tags `zakon-2022-2342/<day>`; `python registry/tools/on.py <day> zakon-2022-2342`).
 
 ## Decisions made by hand
 

@@ -7,7 +7,7 @@ Zakon o izmjeni Zakona o lovstvu · 1 versions, from 2014-02-06 (latest in force
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 
-Act id: `zakon-2014-283` (tags `zakon-2014-283/<day>`; `python tools/on.py <day> zakon-2014-283`).
+Act id: `zakon-2014-283` (tags `zakon-2014-283/<day>`; `python registry/tools/on.py <day> zakon-2014-283`).
 
 ## Decisions made by hand
 

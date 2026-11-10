@@ -14,7 +14,7 @@ UREDBA O VISINI TROÅ ARINE NA CIGARETE, SITNO REZANI DUHAN I OSTALI DUHAN ZA PUÅ
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2014-529` (tags `uredba-2014-529/<day>`; `python tools/on.py <day> uredba-2014-529`).
+Act id: `uredba-2014-529` (tags `uredba-2014-529/<day>`; `python registry/tools/on.py <day> uredba-2014-529`).
 
 ## Status
 

@@ -8,7 +8,7 @@ Zakon o izmjeni Zakona o tehničkim zahtjevima za proizvode i ocjenjivanju sukla
 | čl. 2 | [clanak-002.md](clanak-002.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2019-645` (tags `zakon-2019-645/<day>`; `python tools/on.py <day> zakon-2019-645`).
+Act id: `zakon-2019-645` (tags `zakon-2019-645/<day>`; `python registry/tools/on.py <day> zakon-2019-645`).
 
 ## Decisions made by hand
 

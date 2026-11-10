@@ -21,7 +21,7 @@ Odluka o kriterijima kreditiranja potrošača · 1 versions, from 2026-10-01 (la
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2026-1290` (tags `odluka-2026-1290/<day>`; `python tools/on.py <day> odluka-2026-1290`).
+Act id: `odluka-2026-1290` (tags `odluka-2026-1290/<day>`; `python registry/tools/on.py <day> odluka-2026-1290`).
 
 ## Decisions made by hand
 

@@ -9,7 +9,7 @@ Pravilnik o dopuni Pravilnika o načinu raspolaganja s oružjem i streljivom odu
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2018-682` (tags `pravilnik-2018-682/<day>`; `python tools/on.py <day> pravilnik-2018-682`).
+Act id: `pravilnik-2018-682` (tags `pravilnik-2018-682/<day>`; `python registry/tools/on.py <day> pravilnik-2018-682`).
 
 ## Decisions made by hand
 

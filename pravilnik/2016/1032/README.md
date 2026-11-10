@@ -9,7 +9,7 @@ Pravilnik o izmjeni Pravilnika o prostornom i vremenskom ograničenju obavljanja
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2016-1032` (tags `pravilnik-2016-1032/<day>`; `python tools/on.py <day> pravilnik-2016-1032`).
+Act id: `pravilnik-2016-1032` (tags `pravilnik-2016-1032/<day>`; `python registry/tools/on.py <day> pravilnik-2016-1032`).
 
 ## Decisions made by hand
 

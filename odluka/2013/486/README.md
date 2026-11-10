@@ -8,7 +8,7 @@ Odluka o izmjeni Odluke o osnivanju Povjerenstva za upravljanje sigurnošću u z
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2013-486` (tags `odluka-2013-486/<day>`; `python tools/on.py <day> odluka-2013-486`).
+Act id: `odluka-2013-486` (tags `odluka-2013-486/<day>`; `python registry/tools/on.py <day> odluka-2013-486`).
 
 ## Decisions made by hand
 

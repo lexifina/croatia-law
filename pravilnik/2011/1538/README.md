@@ -19,7 +19,7 @@ Pravilnik o ovlašćivanju stručnih tehničkih servisa za obavljanje stručnih 
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2011-1538` (tags `pravilnik-2011-1538/<day>`; `python tools/on.py <day> pravilnik-2011-1538`).
+Act id: `pravilnik-2011-1538` (tags `pravilnik-2011-1538/<day>`; `python registry/tools/on.py <day> pravilnik-2011-1538`).
 
 ## Status
 

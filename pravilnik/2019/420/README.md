@@ -26,7 +26,7 @@ Pravilnik o ribolovu plavoperajne tune (Thunnus thynnus) udičarskim alatima i u
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2019-420` (tags `pravilnik-2019-420/<day>`; `python tools/on.py <day> pravilnik-2019-420`).
+Act id: `pravilnik-2019-420` (tags `pravilnik-2019-420/<day>`; `python registry/tools/on.py <day> pravilnik-2019-420`).
 
 ## Status
 

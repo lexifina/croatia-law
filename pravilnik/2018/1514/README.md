@@ -5,7 +5,7 @@ Pravilnik o uvjetima, kriterijima, načinu odabira, financiranja i provedbe loka
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `pravilnik-2018-1514` (tags `pravilnik-2018-1514/<day>`; `python tools/on.py <day> pravilnik-2018-1514`).
+Act id: `pravilnik-2018-1514` (tags `pravilnik-2018-1514/<day>`; `python registry/tools/on.py <day> pravilnik-2018-1514`).
 
 ## Decisions made by hand
 

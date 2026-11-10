@@ -9,7 +9,7 @@ Uputa za provedbu Odluke o obveznoj pričuvi · 1 versions, from 2016-01-13 (lat
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uputa-2015-2618` (tags `uputa-2015-2618/<day>`; `python tools/on.py <day> uputa-2015-2618`).
+Act id: `uputa-2015-2618` (tags `uputa-2015-2618/<day>`; `python registry/tools/on.py <day> uputa-2015-2618`).
 
 ## Status
 

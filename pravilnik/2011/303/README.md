@@ -10,7 +10,7 @@ Pravilnik o izmjenama Pravilnika o načinu utvrđivanja opće i posebne zdravstv
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2011-303` (tags `pravilnik-2011-303/<day>`; `python tools/on.py <day> pravilnik-2011-303`).
+Act id: `pravilnik-2011-303` (tags `pravilnik-2011-303/<day>`; `python registry/tools/on.py <day> pravilnik-2011-303`).
 
 ## Decisions made by hand
 

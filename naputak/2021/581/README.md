@@ -23,7 +23,7 @@ Naputak o ustroju, vođenju i korištenju podataka iz statističkih registara Dr
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `naputak-2021-581` (tags `naputak-2021-581/<day>`; `python tools/on.py <day> naputak-2021-581`).
+Act id: `naputak-2021-581` (tags `naputak-2021-581/<day>`; `python registry/tools/on.py <day> naputak-2021-581`).
 
 ## Decisions made by hand
 

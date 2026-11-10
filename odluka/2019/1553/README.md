@@ -9,7 +9,7 @@ Odluka o donošenju Nastavnog plana za nastavne predmete Matematika, Hrvatski je
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2019-1553` (tags `odluka-2019-1553/<day>`; `python tools/on.py <day> odluka-2019-1553`).
+Act id: `odluka-2019-1553` (tags `odluka-2019-1553/<day>`; `python registry/tools/on.py <day> odluka-2019-1553`).
 
 ## Status
 

@@ -11,7 +11,7 @@ Odluka o izmjenama i dopunama Odluke o pravilima rada Hrvatskog sustava velikih 
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2021-2060` (tags `odluka-2021-2060/<day>`; `python tools/on.py <day> odluka-2021-2060`).
+Act id: `odluka-2021-2060` (tags `odluka-2021-2060/<day>`; `python registry/tools/on.py <day> odluka-2021-2060`).
 
 ## Decisions made by hand
 

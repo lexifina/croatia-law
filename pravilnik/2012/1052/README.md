@@ -34,7 +34,7 @@ Pravilnik o jestivim uljima i mastima · 1 versions, from 2012-04-11 (latest in 
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2012-1052` (tags `pravilnik-2012-1052/<day>`; `python tools/on.py <day> pravilnik-2012-1052`).
+Act id: `pravilnik-2012-1052` (tags `pravilnik-2012-1052/<day>`; `python registry/tools/on.py <day> pravilnik-2012-1052`).
 
 ## Status
 

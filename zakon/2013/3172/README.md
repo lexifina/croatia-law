@@ -33,7 +33,7 @@ Zakon o izmjenama i dopunama Zakona o izvršavanju kazne zatvora · 1 versions, 
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 
-Act id: `zakon-2013-3172` (tags `zakon-2013-3172/<day>`; `python tools/on.py <day> zakon-2013-3172`).
+Act id: `zakon-2013-3172` (tags `zakon-2013-3172/<day>`; `python registry/tools/on.py <day> zakon-2013-3172`).
 
 ## Decisions made by hand
 

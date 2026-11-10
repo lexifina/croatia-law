@@ -9,7 +9,7 @@ Pravilnik o prestanku važenja Pravilnika o postupku plombiranja i postupanju s 
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2025-2093` (tags `pravilnik-2025-2093/<day>`; `python tools/on.py <day> pravilnik-2025-2093`).
+Act id: `pravilnik-2025-2093` (tags `pravilnik-2025-2093/<day>`; `python registry/tools/on.py <day> pravilnik-2025-2093`).
 
 ## Decisions made by hand
 

@@ -8,7 +8,7 @@ Odluka o izmjeni Odluke o upisu ulovnih ribarskih plovila udičarskim alatima u 
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2021-2111` (tags `odluka-2021-2111/<day>`; `python tools/on.py <day> odluka-2021-2111`).
+Act id: `odluka-2021-2111` (tags `odluka-2021-2111/<day>`; `python registry/tools/on.py <day> odluka-2021-2111`).
 
 ## Decisions made by hand
 

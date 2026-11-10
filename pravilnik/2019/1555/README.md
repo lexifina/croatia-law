@@ -27,7 +27,7 @@ Pravilnik o pojedinačnom prevođenju katastarskih čestica katastra zemljišta 
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2019-1555` (tags `pravilnik-2019-1555/<day>`; `python tools/on.py <day> pravilnik-2019-1555`).
+Act id: `pravilnik-2019-1555` (tags `pravilnik-2019-1555/<day>`; `python registry/tools/on.py <day> pravilnik-2019-1555`).
 
 ## Status
 

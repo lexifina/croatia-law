@@ -20,7 +20,7 @@ Zakon o izmjenama i dopunama Zakona o tržištu električne energije · 1 versio
 | čl. 14 | [clanak-014.md](clanak-014.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2018-1396` (tags `zakon-2018-1396/<day>`; `python tools/on.py <day> zakon-2018-1396`).
+Act id: `zakon-2018-1396` (tags `zakon-2018-1396/<day>`; `python registry/tools/on.py <day> zakon-2018-1396`).
 
 ## Decisions made by hand
 

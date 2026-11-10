@@ -22,7 +22,7 @@ Pravilnik o oslobođenju od poreza na dodanu vrijednost i trošarine za robu uve
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2020-2839` (tags `pravilnik-2020-2839/<day>`; `python tools/on.py <day> pravilnik-2020-2839`).
+Act id: `pravilnik-2020-2839` (tags `pravilnik-2020-2839/<day>`; `python registry/tools/on.py <day> pravilnik-2020-2839`).
 
 ## Decisions made by hand
 

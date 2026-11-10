@@ -13,7 +13,7 @@ Odluka o izmjenama i dopunama Odluke o općinskim porezima Općine Gornji Knegin
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2017-2717` (tags `odluka-2017-2717/<day>`; `python tools/on.py <day> odluka-2017-2717`).
+Act id: `odluka-2017-2717` (tags `odluka-2017-2717/<day>`; `python registry/tools/on.py <day> odluka-2017-2717`).
 
 ## Decisions made by hand
 

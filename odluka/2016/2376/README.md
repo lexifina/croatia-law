@@ -8,7 +8,7 @@ Odluka o sudjelovanju pripadnika Oružanih snaga Republike Hrvatske u operaciji 
 | Tekst | [tekst.md](tekst.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2016-2376` (tags `odluka-2016-2376/<day>`; `python tools/on.py <day> odluka-2016-2376`).
+Act id: `odluka-2016-2376` (tags `odluka-2016-2376/<day>`; `python registry/tools/on.py <day> odluka-2016-2376`).
 
 ## Decisions made by hand
 

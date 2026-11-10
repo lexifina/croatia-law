@@ -51,7 +51,7 @@ Uredba o izmjenama i dopunama Uredbe o unutarnjem ustrojstvu Ministarstva poljop
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `uredba-2018-914` (tags `uredba-2018-914/<day>`; `python tools/on.py <day> uredba-2018-914`).
+Act id: `uredba-2018-914` (tags `uredba-2018-914/<day>`; `python registry/tools/on.py <day> uredba-2018-914`).
 
 ## Decisions made by hand
 

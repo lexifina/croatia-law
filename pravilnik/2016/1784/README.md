@@ -144,7 +144,7 @@ Pravilnik o projektiranju, prihvaćanju, gradnji i održavanju zrakoplova na koj
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2016-1784` (tags `pravilnik-2016-1784/<day>`; `python tools/on.py <day> pravilnik-2016-1784`).
+Act id: `pravilnik-2016-1784` (tags `pravilnik-2016-1784/<day>`; `python registry/tools/on.py <day> pravilnik-2016-1784`).
 
 ## Status
 

@@ -13,7 +13,7 @@ Zakon o izmjenama i dopunama Zakona o životnom partnerstvu osoba istog spola ·
 | čl. 7 | [clanak-007.md](clanak-007.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
-Act id: `zakon-2019-1927` (tags `zakon-2019-1927/<day>`; `python tools/on.py <day> zakon-2019-1927`).
+Act id: `zakon-2019-1927` (tags `zakon-2019-1927/<day>`; `python registry/tools/on.py <day> zakon-2019-1927`).
 
 ## Decisions made by hand
 

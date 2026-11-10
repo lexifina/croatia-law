@@ -32,7 +32,7 @@ Pravilnik o načinu ostvarivanja prava na naknadu za nezaposlene hrvatske branit
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2018-268` (tags `pravilnik-2018-268/<day>`; `python tools/on.py <day> pravilnik-2018-268`).
+Act id: `pravilnik-2018-268` (tags `pravilnik-2018-268/<day>`; `python registry/tools/on.py <day> pravilnik-2018-268`).
 
 ## Status
 

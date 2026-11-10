@@ -14,7 +14,7 @@ Odluka o dopuštenoj visini tehnološkog manjka, kala, kvara, rasipa i loma u pr
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `odluka-2014-1898` (tags `odluka-2014-1898/<day>`; `python tools/on.py <day> odluka-2014-1898`).
+Act id: `odluka-2014-1898` (tags `odluka-2014-1898/<day>`; `python registry/tools/on.py <day> odluka-2014-1898`).
 
 ## Status
 

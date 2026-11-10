@@ -9,7 +9,7 @@ Pravilnik o dopuni Pravilnika o uvjetima i načinu stjecanja stručnih zvanja u 
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2011-2183` (tags `pravilnik-2011-2183/<day>`; `python tools/on.py <day> pravilnik-2011-2183`).
+Act id: `pravilnik-2011-2183` (tags `pravilnik-2011-2183/<day>`; `python registry/tools/on.py <day> pravilnik-2011-2183`).
 
 ## Decisions made by hand
 

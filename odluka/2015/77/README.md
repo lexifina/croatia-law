@@ -5,7 +5,7 @@ Odluka o visini naknade za sklapanje braka u službenim i izvan službenih prost
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `odluka-2015-77` (tags `odluka-2015-77/<day>`; `python tools/on.py <day> odluka-2015-77`).
+Act id: `odluka-2015-77` (tags `odluka-2015-77/<day>`; `python registry/tools/on.py <day> odluka-2015-77`).
 
 ## Decisions made by hand
 

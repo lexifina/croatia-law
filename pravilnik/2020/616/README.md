@@ -14,7 +14,7 @@ Pravilnik o Nacionalnoj listi priznatih kultivara vinove loze · 1 versions, fro
 | Prilog | [prilog.md](prilog.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2020-616` (tags `pravilnik-2020-616/<day>`; `python tools/on.py <day> pravilnik-2020-616`).
+Act id: `pravilnik-2020-616` (tags `pravilnik-2020-616/<day>`; `python registry/tools/on.py <day> pravilnik-2020-616`).
 
 ## Status
 

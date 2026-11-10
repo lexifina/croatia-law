@@ -37,7 +37,7 @@ Pravilnik o sudjelovanju pripadnika Oružanih snaga Republike Hrvatske u operaci
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `pravilnik-2017-2061` (tags `pravilnik-2017-2061/<day>`; `python tools/on.py <day> pravilnik-2017-2061`).
+Act id: `pravilnik-2017-2061` (tags `pravilnik-2017-2061/<day>`; `python registry/tools/on.py <day> pravilnik-2017-2061`).
 
 ## Status
 
