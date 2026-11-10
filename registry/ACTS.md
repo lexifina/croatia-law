@@ -1,6 +1,6 @@
 # Every act in this repository
 
-21339 acts, 21,765 versions. Each act lives in a folder named by its kind, year and identifier, `<kind>/<year>/<identifier>/` (acts published before that layout keep their own folder, listed in data/paths.json); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+21639 acts, 22,065 versions. Each act lives in a folder named by its kind, year and identifier, `<kind>/<year>/<identifier>/` (acts published before that layout keep their own folder, listed in data/paths.json); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## naputak (159, of which 23 amending acts)
 
@@ -922,7 +922,7 @@
 | Naredba o dopuni Naredbe o razvrstaju luka otvorenih za javni promet na području Primorsko-goranske županije | [`naredba/2026/1220/`](naredba/2026/1220/) | amending act | 1 | 2026-09-19 | 2026-09-19 |
 | Naredba o mjerama kontrole za suzbijanje afričke svinjske kuge u Republici Hrvatskoj | [`naredba/2026/1289/`](naredba/2026/1289/) | in force | 1 | 2026-09-24 | 2026-09-24 |
 
-## odluka (10573, of which 1317 amending acts)
+## odluka (10873, of which 1369 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -4019,10 +4019,57 @@
 | Odluka o rodovima, službama, strukama i njihovim specijalnostima | [`odluka/2007/3846/`](odluka/2007/3846/) | repealed, not consolidated | 1 | 2008-01-01 | 2008-01-01 |
 | Odluka o izmjeni Odluke o utvrđivanju popisa posebno skupih lijekova utvrđenih Odlukom o utvrđivanju osnovne liste lijekova Hrvatskog zavoda za zdravstveno osiguranje | [`odluka/2007/3857/`](odluka/2007/3857/) | amended, not consolidated | 1 | 2007-12-31 | 2007-12-31 |
 | ODLUKA O SAZIVANJU PRVOG ZASJEDANJA HRVATSKOGA SABORA | [`odluka/2008/1/`](odluka/2008/1/) | replaced, not consolidated | 1 | 2007-12-28 | 2007-12-28 |
+| Odluka o ukidanju Pravilnika o podacima koje su energetski subjekti dužni dostaviti Vijeću za regulaciju energetskih djelatnosti | [`odluka/2008/5/`](odluka/2008/5/) | in force | 1 | 2008-01-10 | 2008-01-10 |
 | Odluka o najvišem postotku naknade za upravljanje obveznom mirovinskom društvu za 2008. godinu | [`odluka/2008/27/`](odluka/2008/27/) | in force | 1 | 2008-01-10 | 2008-01-10 |
+| Odluka o privremenom oduzimanju koncesije za obavljanje djelatnosti radija na području Grada Knina - nakladniku Dinara, medijska zadruga - Radio Dinara | [`odluka/2008/84/`](odluka/2008/84/) | cited later, not consolidated | 1 | 2008-01-09 | 2008-01-09 |
 | Odluka o izmjenama i dopunama Odluke o općinskim porezima Općine Žminj | [`odluka/2008/117/`](odluka/2008/117/) | amending act | 1 | 2008-01-19 | 2008-01-19 |
 | Odluka o načinu ostvarivanja poticaja pri zapošljavanju osoba s invaliditetom | [`odluka/2008/175/`](odluka/2008/175/) | repealed, not consolidated | 1 | 2008-01-16 | 2008-01-16 |
 | Odluka o najvišem postotku naknade banke skrbnika za 2008. godinu | [`odluka/2008/330/`](odluka/2008/330/) | cited later, not consolidated | 1 | 2008-01-31 | 2008-01-31 |
+| Odluka o izmjeni Odluke o općinskim porezima Općine Nuštar | [`odluka/2008/357/`](odluka/2008/357/) | in force | 1 | 2008-01-30 | 2008-01-30 |
+| Odluka o objavljivanju pravila o državnoj potpori u obliku jamstava | [`odluka/2008/365/`](odluka/2008/365/) | repealed, not consolidated | 1 | 2008-02-01 | 2008-02-01 |
+| Odluka o raspisivanju izbora za Gradsko vijeće Grada Osijeka | [`odluka/2008/366/`](odluka/2008/366/) | in force | 1 | 2008-02-01 | 2008-02-01 |
+| Odluka o izmjenama i dopunama Odluke o objavljivanju popisa pravila o državnim potporama | [`odluka/2008/367/`](odluka/2008/367/) | amending act | 1 | 2008-02-01 | 2008-02-01 |
+| Odluka o izmjenama Odluke o osnivanju Povjerenstva za imovinu Vlade Republike Hrvatske i povjeravanja tom Povjerenstvu poslova upravljanja i raspolaganja imovinom Republike Hrvatske | [`odluka/2008/368/`](odluka/2008/368/) | in force | 1 | 2008-02-01 | 2008-02-01 |
+| Odluka o zajamčenom prinosu obveznih mirovinskih fondova u 2007. godini | [`odluka/2008/417/`](odluka/2008/417/) | in force | 1 | 2008-02-09 | 2008-02-09 |
+| Odluka o visini tarifnih stavki za transport prirodnog plina za 2008. godinu | [`odluka/2008/424/`](odluka/2008/424/) | repealed, not consolidated | 1 | 2008-03-01 | 2008-03-01 |
+| Odluka o visini plaće predsjednika Povjerenstva za azil i visini naknade za rad članova Povjerenstva za azil | [`odluka/2008/425/`](odluka/2008/425/) | in force | 1 | 2008-01-31 | 2008-01-31 |
+| Odluka o utvrđivanju interesa Republike Hrvatske za izgradnju igrališta za golf s pratećim sadržajima "Marlera" u k.o. Medulin i k.o. Ližnjan | [`odluka/2008/426/`](odluka/2008/426/) | in force | 1 | 2008-02-04 | 2008-02-04 |
+| Odluka o izmjeni Odluke o osnivanju Povjerenstva za praćenje provedbe Nacionalnog programa za Rome | [`odluka/2008/427/`](odluka/2008/427/) | in force | 1 | 2008-01-31 | 2008-01-31 |
+| Odluka o izmjeni Odluke o osnivanju Povjerenstva Vlade Republike Hrvatske za osobe s invaliditetom | [`odluka/2008/428/`](odluka/2008/428/) | in force | 1 | 2008-01-31 | 2008-01-31 |
+| Odluka o izmjenama i dopunama Upute za jedinstvenu primjenu Odluke o adekvatnosti kapitala banaka | [`odluka/2008/430/`](odluka/2008/430/) | amending act | 1 | 2008-02-12 | 2008-02-12 |
+| Odluka o dopuni Odluke o utvrđivanju Osnovne liste lijekova Hrvatskog zavoda za zdravstveno osiguranje | [`odluka/2008/492/`](odluka/2008/492/) | amended, not consolidated | 1 | 2008-02-08 | 2008-02-08 |
+| Odluka o izmjeni Odluke o koncesiji pomorskog dobra u svrhu gospodarskog korištenja luke posebne namjene - luke nautičkog turizma Pomer | [`odluka/2008/531/`](odluka/2008/531/) | in force | 1 | 2008-02-07 | 2008-02-07 |
+| Odluka o statističkom i bonitetnom izvješćivanju | [`odluka/2008/599/`](odluka/2008/599/) | replaced, not consolidated | 1 | 2008-02-21 | 2008-02-21 |
+| Odluka o proširenju primjene Kolektivnog ugovora o izmjenama i dopunama Kolektivnog ugovora za graditeljstvo - pete izmjene i dopune | [`odluka/2008/602/`](odluka/2008/602/) | amending act | 1 | 2008-02-23 | 2008-02-23 |
+| Odluka o osnivanju Nacionalnog vijeća za zaštitu potrošača | [`odluka/2008/633/`](odluka/2008/633/) | repealed, not consolidated | 1 | 2008-02-14 | 2008-02-14 |
+| Odluka o izmjenama Odluke o osnivanju Vijeća za djecu | [`odluka/2008/634/`](odluka/2008/634/) | in force | 1 | 2008-02-14 | 2008-02-14 |
+| Odluka o izmjeni Odluke o osnivanju Savjeta za mlade | [`odluka/2008/635/`](odluka/2008/635/) | in force | 1 | 2008-02-14 | 2008-02-14 |
+| Odluka o izmjeni Odluke o osnivanju Povjerenstva Vlade Republike Hrvatske za ljudska prava | [`odluka/2008/636/`](odluka/2008/636/) | in force | 1 | 2008-02-14 | 2008-02-14 |
+| Odluka o raspisivanju izbora za Općinsko vijeće Općine Velika i Općinsko vijeće Općine Plaški | [`odluka/2008/650/`](odluka/2008/650/) | in force | 1 | 2008-02-20 | 2008-02-20 |
+| Odluka o izdavanju i prodaji prigodnoga srebrnoga kovanog novca iz serije "Stari hrvatski brodovi - Dubrovačka Karaka" | [`odluka/2008/673/`](odluka/2008/673/) | cited later, not consolidated | 1 | 2008-02-20 | 2008-02-20 |
+| Odluka o izdavanju i prodaji prigodnoga srebrnoga kovanog novca iz serije "Benedikt Kotruljević" | [`odluka/2008/674/`](odluka/2008/674/) | in force | 1 | 2008-02-20 | 2008-02-20 |
+| Odluka o izdavanju i prodaji prigodnoga srebrnoga kovanog novca iz serije "Andrija Mohorovičić" | [`odluka/2008/675/`](odluka/2008/675/) | in force | 1 | 2008-02-20 | 2008-02-20 |
+| Odluka o aktualnoj vrijednosti mirovine od 1. siječnja 2008. | [`odluka/2008/856/`](odluka/2008/856/) | in force | 1 | 2008-03-08 | 2008-03-08 |
+| Odluka o najnižoj mirovini za jednu godinu mirovinskog staža od 1. siječnja 2008. | [`odluka/2008/857/`](odluka/2008/857/) | in force | 1 | 2008-03-08 | 2008-03-08 |
+| Odluka o osnovici za određivanje naknade zbog tjelesnog oštećenja i o usklađivanju novčanih naknada zbog tjelesnog oštećenja od 1. siječnja 2008. | [`odluka/2008/858/`](odluka/2008/858/) | in force | 1 | 2008-03-08 | 2008-03-08 |
+| Odluka o naknadi putnih troškova u vezi s ostvarivanjem prava iz mirovinskog osiguranja za godinu 2008. | [`odluka/2008/859/`](odluka/2008/859/) | in force | 1 | 2008-03-08 | 2008-03-08 |
+| Odluka o naknadi za troškove smještaja i prehrane za vrijeme profesionalne rehabilitacije izvan mjesta prebivališta korisnika u godini 2008. | [`odluka/2008/860/`](odluka/2008/860/) | in force | 1 | 2008-03-08 | 2008-03-08 |
+| Odluka o visini najniže mirovine hrvatskom branitelju iz Domovinskog rata za godinu 2008. | [`odluka/2008/861/`](odluka/2008/861/) | in force | 1 | 2008-03-08 | 2008-03-08 |
+| Odluka o osnovicama za utvrđivanje vrijednosnog boda prema osobnom činu, ustrojbenom mjestu i zvanju hrvatskog branitelja iz Domovinskog rata za godinu 2007. | [`odluka/2008/862/`](odluka/2008/862/) | in force | 1 | 2008-03-08 | 2008-03-08 |
+| Odluka o izmjeni Odluke o osnivanju Povjerenstva za imovinu Vlade Republike Hrvatske i povjeravanja tom Povjerenstvu poslova upravljanja i raspolaganja imovinom Republike Hrvatske | [`odluka/2008/911/`](odluka/2008/911/) | in force | 1 | 2008-03-05 | 2008-03-05 |
+| Odluka o ukidanju Odluke o davanju potpore za rast i razvoj malog gospodarstva i Odluke o davanju potpore poduzetnicima za korištenje usluga konzultanata, članova Hrvatske mreže konzultanata | [`odluka/2008/935/`](odluka/2008/935/) | in force | 1 | 2008-03-05 | 2008-03-05 |
+| Državni proračun Republike Hrvatske za 2008. godinu | [`odluka/2008/937/`](odluka/2008/937/) | amended, not consolidated | 1 | 2008-03-07 | 2008-03-07 |
+| Odluka o davanju suglasnosti na Financijski plan Hrvatskih voda za 2008. godinu | [`odluka/2008/938/`](odluka/2008/938/) | in force | 1 | 2008-03-07 | 2008-03-07 |
+| Odluka o davanju suglasnosti na Financijski plan Hrvatskih autocesta za 2008. godinu | [`odluka/2008/939/`](odluka/2008/939/) | in force | 1 | 2008-03-07 | 2008-03-07 |
+| Odluka o davanju suglasnosti na Financijski plan Hrvatskih cesta za 2008. godinu | [`odluka/2008/940/`](odluka/2008/940/) | in force | 1 | 2008-03-07 | 2008-03-07 |
+| Odluka o davanju suglasnosti na Financijski plan Državne agencije za osiguranje štednih uloga i sanaciju banaka za 2008. godinu | [`odluka/2008/941/`](odluka/2008/941/) | in force | 1 | 2008-03-07 | 2008-03-07 |
+| Odluka o davanju suglasnosti na Financijski plan Hrvatskog fonda za privatizaciju za 2008. godinu | [`odluka/2008/942/`](odluka/2008/942/) | in force | 1 | 2008-03-07 | 2008-03-07 |
+| Odluka o davanju suglasnosti na Financijski plan Fonda za zaštitu okoliša i energetsku učinkovitost za 2008. godinu | [`odluka/2008/943/`](odluka/2008/943/) | in force | 1 | 2008-03-07 | 2008-03-07 |
+| Odluka o izmjeni Odluke o odobrenju eksploatacijskog polja ugljikovodika Grubišno Polje | [`odluka/2008/951/`](odluka/2008/951/) | in force | 1 | 2008-03-06 | 2008-03-06 |
+| Odluka o strukturi i sadržaju godišnjih financijskih izvještaja za leasing društva | [`odluka/2008/970/`](odluka/2008/970/) | in force | 1 | 2008-03-18 | 2008-03-18 |
+| Odluka o usklađenju sredstava jamstvenog pologa za 2007. godinu | [`odluka/2008/971/`](odluka/2008/971/) | in force | 1 | 2008-03-18 | 2008-03-18 |
+| Odluka o osnovici za ostvarivanje prava po osnovi socijalne skrbi | [`odluka/2008/976/`](odluka/2008/976/) | repealed, not consolidated | 1 | 2008-11-01 | 2008-11-01 |
+| Odluka o izmjeni Odluke o proširenju jurisdikcije Republike Hrvatske na Jadranskom moru | [`odluka/2008/998/`](odluka/2008/998/) | in force | 1 | 2008-03-13 | 2008-03-13 |
 | Odluka o izmjenama i dopunama Odluke o adekvatnosti kapitala banaka | [`odluka/2008/1004/`](odluka/2008/1004/) | amending act | 1 | 2008-03-22 | 2008-03-22 |
 | Odluka o puštanju u opticaj kovanog novca kuna i lipa s oznakom godine kovanja "2008" | [`odluka/2008/1042/`](odluka/2008/1042/) | in force | 1 | 2008-03-19 | 2008-03-19 |
 | Odluka o izmjenama i dopunama Upute za jedinstvenu primjenu Odluke o adekvatnosti kapitala banaka | [`odluka/2008/1085/`](odluka/2008/1085/) | amending act | 1 | 2008-03-21 | 2008-03-21 |
@@ -4209,6 +4256,259 @@
 | Odluka o preraspodjeli sredstava planiranih u Državnom proračunu Republike Hrvatske za 2008. godinu | [`odluka/2008/3381/`](odluka/2008/3381/) | replaced, not consolidated | 1 | 2008-10-10 | 2008-10-10 |
 | Odluka o zabrani ribolova tuna | [`odluka/2008/3388/`](odluka/2008/3388/) | in force | 1 | 2008-10-07 | 2008-10-07 |
 | Zakon o izmjenama i dopunama Zakona o osiguranju depozita | [`odluka/2008/3398/`](odluka/2008/3398/) | amending act | 1 | 2008-10-15 | 2008-10-15 |
+| Odluka o raspisivanju javnog natječaja za dodjelu koncesije za korištenje poljoprivrednog zemljišta u vlasništvu Republike Hrvatske na području Grada Vinkovaca | [`odluka/2008/3407/`](odluka/2008/3407/) | in force | 1 | 2008-10-10 | 2008-10-10 |
+| Odluka o izmjeni Odluke o raspisivanju javnog natječaja za dodjelu koncesije za korištenje poljoprivrednog zemljišta u vlasništvu Republike Hrvatske na području Grada Poreča | [`odluka/2008/3408/`](odluka/2008/3408/) | in force | 1 | 2008-10-10 | 2008-10-10 |
+| Odluka o dodjeli koncesije za korištenje poljoprivrednog zemljišta u vlasništvu Republike Hrvatske na području Općine Vladislavci | [`odluka/2008/3409/`](odluka/2008/3409/) | in force | 1 | 2008-10-10 | 2008-10-10 |
+| Odluka o dodjeli koncesije za korištenje poljoprivrednog zemljišta u vlasništvu Republike Hrvatske na području Grada Našica | [`odluka/2008/3410/`](odluka/2008/3410/) | in force | 1 | 2008-10-10 | 2008-10-10 |
+| Odluka o dodjeli koncesije za korištenje poljoprivrednog zemljišta u vlasništvu Republike Hrvatske na području Grada Gorjani | [`odluka/2008/3411/`](odluka/2008/3411/) | in force | 1 | 2008-10-10 | 2008-10-10 |
+| Odluka o izmjenama Odluke o minimalnim financijskim standardima materijalnih i financijskih rashoda centara za socijalnu skrb i pomoći za podmirenje troškova stanovanja korisnicima koji se griju na dr | [`odluka/2008/3412/`](odluka/2008/3412/) | in force | 1 | 2008-10-10 | 2008-10-10 |
+| Odluka o izmjenama Odluke o minimalnim financijskim standardima za decentralizirane funkcije za zdravstvene ustanove u 2008. godini | [`odluka/2008/3413/`](odluka/2008/3413/) | in force | 1 | 2008-10-10 | 2008-10-10 |
+| Odluka o izmjeni Odluke o osnivanju Nacionalnog vijeća za zaštitu na radu | [`odluka/2008/3414/`](odluka/2008/3414/) | in force | 1 | 2008-10-10 | 2008-10-10 |
+| Odluka o usvajanju Izmjena "Jamstvenog programa Poljoprivreda" Hrvatske agencije za malo gospodarstvo | [`odluka/2008/3415/`](odluka/2008/3415/) | in force | 1 | 2008-10-10 | 2008-10-10 |
+| Odluka o prestanku važenja Upute za provedbu Odluke o graničnoj obveznoj pričuvi | [`odluka/2008/3433/`](odluka/2008/3433/) | in force | 1 | 2008-10-15 | 2008-10-15 |
+| Zakon o primaljstvu | [`odluka/2008/3436/`](odluka/2008/3436/) | amended, not consolidated | 1 | 2008-10-25 | 2008-10-25 |
+| Zakon o fizioterapeutskoj djelatnosti | [`odluka/2008/3437/`](odluka/2008/3437/) | in force | 1 | 2008-10-25 | 2008-10-25 |
+| Zakon o Agenciji za sigurnost željezničkog prometa | [`odluka/2008/3438/`](odluka/2008/3438/) | in force | 1 | 2009-01-01 | 2009-01-01 |
+| Odluka o testnom proširenju pilot-projekta elektroničke komunikacije s registarskim sudom radi upisa društva s ograničenom odgovornošću s temeljnim kapitalom u novcu u sudski registar pod radnim naziv | [`odluka/2008/3445/`](odluka/2008/3445/) | in force | 1 | 2008-10-17 | 2008-10-17 |
+| Odluka o dopunama Odluke o osnivanju Nacionalnog vijeća za vrednovanje modernizacije državne uprave | [`odluka/2008/3454/`](odluka/2008/3454/) | amending act | 1 | 2008-10-16 | 2008-10-16 |
+| Odluka o potvrđivanju Odluke o izmjenama i dopunama Statuta Hrvatskog zavoda za zapošljavanje | [`odluka/2008/3456/`](odluka/2008/3456/) | amending act | 1 | 2008-10-16 | 2008-10-16 |
+| Odluka o izmjeni Odluke o osnivanju Povjerenstva za praćenje provedbe mjera za suzbijanje korupcije | [`odluka/2008/3457/`](odluka/2008/3457/) | in force | 1 | 2008-10-16 | 2008-10-16 |
+| Odluka o izmjeni Odluke o osnivanju Povjerenstva za koordinaciju organizacije Godišnje skupštine Europske banke za obnovu i razvoj (EBRD) 2010. godine u Zagrebu | [`odluka/2008/3458/`](odluka/2008/3458/) | in force | 1 | 2008-10-16 | 2008-10-16 |
+| Odluka o izmjenama i Odluke o osnivanja povjerenstva za imovinu Vlade Republike Hrvatske i povjeravanja tom Povjerenstvu poslova upravljanja i raspolaganja imovinom Republike Hrvatske | [`odluka/2008/3459/`](odluka/2008/3459/) | in force | 1 | 2008-10-20 | 2008-10-20 |
+| Odluka o poništavanju Odluke o izdavanju i prodaji prigodnoga srebrenoga kovanog novca "Olimpijske igre, Kina 2008." | [`odluka/2008/3484/`](odluka/2008/3484/) | in force | 1 | 2008-10-20 | 2008-10-20 |
+| Odluka o razvrstavanju javnih cesta u državne ceste, županijske ceste i lokalne ceste | [`odluka/2008/3506/`](odluka/2008/3506/) | amended, not consolidated | 1 | 2008-10-22 | 2008-10-22 |
+| Odluka o osnivanju Veleposlanstva Republike Hrvatske u Republici Kosovo, sa sjedištem u Prištini | [`odluka/2008/3567/`](odluka/2008/3567/) | in force | 1 | 2008-10-21 | 2008-10-21 |
+| Odluka o davanju suglasnosti na Statut Agencije za vodne putove | [`odluka/2008/3572/`](odluka/2008/3572/) | in force | 1 | 2008-10-24 | 2008-10-24 |
+| Odluka o izmjenama i dopunama Statuta Hrvatskog zavoda za zapošljavanje | [`odluka/2008/3584/`](odluka/2008/3584/) | amending act | 1 | 2008-10-29 | 2008-10-29 |
+| Odluka o preraspodjeli sredstava planiranih u Državnom proračunu Republike Hrvatske za 2008. godinu | [`odluka/2008/3639/`](odluka/2008/3639/) | replaced, not consolidated | 1 | 2008-10-31 | 2008-10-31 |
+| Odluka o oduzimanju koncesije za priređivanje igara na sreću u casinima | [`odluka/2008/3640/`](odluka/2008/3640/) | in force | 1 | 2008-10-31 | 2008-10-31 |
+| Odluka o izmjeni Odluke o odobrenju eksploatacijskog polja ugljikovodika "Bačkovica" | [`odluka/2008/3641/`](odluka/2008/3641/) | in force | 1 | 2008-10-31 | 2008-10-31 |
+| Odluka o dodjeli koncesije za korištenje poljoprivrednog zemljišta u vlasništvu Republike Hrvatske na području Grada Vrgorca | [`odluka/2008/3667/`](odluka/2008/3667/) | in force | 1 | 2008-10-31 | 2008-10-31 |
+| Odluka o izmjeni i dopuni Odluke o nužnim uvjetima za ocjenu nastavne i stručne djelatnosti u postupku izbora u nastavna zvanja | [`odluka/2008/3676/`](odluka/2008/3676/) | amending act | 1 | 2008-11-05 | 2008-11-05 |
+| Odluka o osnivanju Odbora za Nagradu za promicanje prava djeteta | [`odluka/2008/3682/`](odluka/2008/3682/) | replaced, not consolidated | 1 | 2008-10-24 | 2008-10-24 |
+| Odluka o izmjenama Odluke o objavljivanju Međunarodnih standarda financijskog izvještavanja | [`odluka/2008/3732/`](odluka/2008/3732/) | in force | 1 | 2008-11-10 | 2008-11-10 |
+| Odluka o izmjenama i dopunama Odluke o osnovama za sklapanje ugovora o provođenju zdravstvene zaštite iz obveznog zdravstvenog osiguranja | [`odluka/2008/3779/`](odluka/2008/3779/) | amended, not consolidated | 1 | 2008-11-17 | 2008-11-17 |
+| Odluka o dopuni Odluke o posebnim standardima i mjerilima njihove primjene u provođenju zdravstvene zaštite iz obveznog zdravstvenog osiguranja | [`odluka/2008/3780/`](odluka/2008/3780/) | amending act | 1 | 2008-11-17 | 2008-11-17 |
+| Odluka o izmjeni i dopuni Odluke o utvrđivanju popisa dijagnostičkih i terapijskih postupaka u zdravstvenim djelatnostima - vremenski i kadrovski normativi | [`odluka/2008/3781/`](odluka/2008/3781/) | amending act | 1 | 2008-11-17 | 2008-11-17 |
+| Odluka o objavljivanju pravila o državnoj potpori sektoru čelika | [`odluka/2008/3784/`](odluka/2008/3784/) | cited later, not consolidated | 1 | 2008-11-19 | 2008-11-19 |
+| Odluka o izmjenama Odluke o minimalnim financijskim standardima za decentralizirano financiranje domova za starije i nemoćne osobe u 2008. godini | [`odluka/2008/3785/`](odluka/2008/3785/) | in force | 1 | 2008-11-14 | 2008-11-14 |
+| Odluka o davanju prethodne suglasnosti na Izmjene i dopune Statuta Hrvatske energetske regulatorne agencije | [`odluka/2008/3786/`](odluka/2008/3786/) | amending act | 1 | 2008-11-14 | 2008-11-14 |
+| Odluka o izmjenama i dopunama Odluke o utvrđivanju Dopunske liste lijekova Hrvatskog zavoda za zdravstveno osiguranje | [`odluka/2008/3795/`](odluka/2008/3795/) | amended, not consolidated | 1 | 2008-11-27 | 2008-11-27 |
+| Odluka o dopuni Odluke o koncesiji pomorskog dobra u svrhu gospodarskog korištenja luke posebne namjene - industrijske luke Sv. Petar, Pula | [`odluka/2008/3815/`](odluka/2008/3815/) | amending act | 1 | 2008-11-14 | 2008-11-14 |
+| Odluka o kratkoročnom kreditu za likvidnost | [`odluka/2008/3836/`](odluka/2008/3836/) | repealed, not consolidated | 1 | 2008-11-29 | 2008-11-29 |
+| Odluka o povlačenju iz optjecaja novčanica od 50, 100 i 200 kuna s datumom izdanja 31. listopada 1993. | [`odluka/2008/3837/`](odluka/2008/3837/) | in force | 1 | 2008-11-21 | 2008-11-21 |
+| Odluka o izmjeni Odluke o obveznoj pričuvi | [`odluka/2008/3857/`](odluka/2008/3857/) | amended, not consolidated | 1 | 2008-12-10 | 2008-12-10 |
+| Odluka o izmjenama i dopunama Odluke o objavljivanju Međunarodnih standarda financijskog izvještavanja | [`odluka/2008/3859/`](odluka/2008/3859/) | amending act | 1 | 2008-11-26 | 2008-11-26 |
+| Odluka o izmjenama i dopunama Odluke o objavljivanju Međunarodnih standarda financijskog izvještavanja 6 i 7 | [`odluka/2008/3860/`](odluka/2008/3860/) | amending act | 1 | 2008-11-26 | 2008-11-26 |
+| Odluka o preraspodjeli sredstava planiranih u Državnom proračunu Republike Hrvatske za 2008. godinu | [`odluka/2008/3872/`](odluka/2008/3872/) | replaced, not consolidated | 1 | 2008-11-21 | 2008-11-21 |
+| Odluka o dodjeli koncesije za korištenje poljoprivrednog zemljišta u vlasništvu Republike Hrvatske na području Grada Virovitice | [`odluka/2008/3873/`](odluka/2008/3873/) | in force | 1 | 2008-11-21 | 2008-11-21 |
+| Odluka o dodjeli koncesije za korištenje poljoprivrednog zemljišta u vlasništvu Republike Hrvatske na području Općine Gradina | [`odluka/2008/3874/`](odluka/2008/3874/) | in force | 1 | 2008-11-21 | 2008-11-21 |
+| Odluka o dodjeli koncesije za korištenje poljoprivrednog zemljišta u vlasništvu Republike Hrvatske na području Općine Podgorač | [`odluka/2008/3875/`](odluka/2008/3875/) | in force | 1 | 2008-11-21 | 2008-11-21 |
+| Odluka o raspisivanju javnog natječaja za dodjelu koncesije za korištenje poljoprivrednog zemljišta u vlasništvu Republike Hrvatske na području Općine Ivankovo | [`odluka/2008/3876/`](odluka/2008/3876/) | in force | 1 | 2008-11-21 | 2008-11-21 |
+| Odluka o dodjeli Državne nagrade za volontiranje | [`odluka/2008/3882/`](odluka/2008/3882/) | replaced, not consolidated | 1 | 2008-11-28 | 2008-11-28 |
+| Odluka o izmjeni i dopuni Odluke o načinu oblikovanja maloprodajnih cijena lijekova i drugih sredstava koji nisu predmet ugovaranja s HZZO-om | [`odluka/2008/3883/`](odluka/2008/3883/) | amending act | 1 | 2008-12-06 | 2008-12-06 |
+| Odluka o osnivanju Povjerenstva za osiguranje izvoza | [`odluka/2008/3894/`](odluka/2008/3894/) | repealed, not consolidated | 1 | 2008-12-03 | 2008-12-03 |
+| Odluka o izmjenama Odluke o osnivanju Povjerenstva za praćenje provedbe mjera za suzbijanje korupcije | [`odluka/2008/3895/`](odluka/2008/3895/) | in force | 1 | 2008-11-27 | 2008-11-27 |
+| Odluka o dodjeli koncesije za korištenje poljoprivrednog zemljišta u vlasništvu Republike Hrvatske na području Općine Zdenci | [`odluka/2008/3943/`](odluka/2008/3943/) | in force | 1 | 2008-12-05 | 2008-12-05 |
+| Odluka o raspisivanju javnog natječaja za dodjelu koncesije za korištenje poljoprivrednog zemljišta u vlasništvu Republike Hrvatske na području Općine Suhopolje | [`odluka/2008/3944/`](odluka/2008/3944/) | in force | 1 | 2008-12-05 | 2008-12-05 |
+| Odluka o izmjeni Odluke o uvjetima za odobrenje unutardnevnoga kredita na osnovi zaloga vrijednosnih papira | [`odluka/2008/3956/`](odluka/2008/3956/) | in force | 1 | 2008-12-10 | 2008-12-10 |
+| Odluka o izmjeni Odluke o uvjetima za odobrenje kratkoročnoga kredita na osnovi zaloga vrijednosnih papira (lombardni kredit) | [`odluka/2008/3957/`](odluka/2008/3957/) | in force | 1 | 2008-12-10 | 2008-12-10 |
+| Odluka o gradskim porezima i prirezu poreza na dohodak Grada Vinkovaca | [`odluka/2008/3959/`](odluka/2008/3959/) | repealed, not consolidated | 1 | 2009-01-01 | 2009-01-01 |
+| Odluka o proširenju primjene Kolektivnog ugovora za zaštitarsku djelatnost | [`odluka/2008/3988/`](odluka/2008/3988/) | in force | 1 | 2008-12-23 | 2008-12-23 |
+| Odluka o financiranju Hrvatske gospodarske komore u 2009. godini | [`odluka/2008/3998/`](odluka/2008/3998/) | in force | 1 | 2008-12-15 | 2008-12-15 |
+| Odluka o preraspodjeli sredstava planiranih u Državnom proračunu Republike Hrvatske za 2008. godinu | [`odluka/2008/4029/`](odluka/2008/4029/) | replaced, not consolidated | 1 | 2008-12-12 | 2008-12-12 |
+| Odluka o raspisivanju javnog natječaja za dodjelu koncesije za korištenje poljoprivrednog zemljišta u vlasništvu Republike Hrvatske na području Općine Antunovac | [`odluka/2008/4030/`](odluka/2008/4030/) | in force | 1 | 2008-12-12 | 2008-12-12 |
+| Odluka o raspisivanju javnog natječaja za dodjelu koncesije za korištenje poljoprivrednog zemljišta u vlasništvu Republike Hrvatske na području Općine Stari Mika"novci | [`odluka/2008/4031/`](odluka/2008/4031/) | in force | 1 | 2008-12-12 | 2008-12-12 |
+| Odluka o raspisivanju javnog natječaja za dodjelu koncesije za korištenje poljoprivrednog zemljišta u vlasništvu Republike Hrvatske na području Grada Vukovara | [`odluka/2008/4032/`](odluka/2008/4032/) | repealed, not consolidated | 1 | 2008-12-12 | 2008-12-12 |
+| Odluka o sudjelovanju pripadnika Oružanih snaga Republike Hrvatske u mirovnim misijama Ujedinjenih naroda | [`odluka/2008/4066/`](odluka/2008/4066/) | repealed, not consolidated | 1 | 2008-12-19 | 2008-12-19 |
+| Odluka o davanju suglasnosti na Financijski plan Hrvatskih voda za 2009. godinu | [`odluka/2008/4091/`](odluka/2008/4091/) | in force | 1 | 2008-12-20 | 2008-12-20 |
+| Odluka o davanju suglasnosti na Financijski plan Hrvatskih cesta za 2009. godinu | [`odluka/2008/4092/`](odluka/2008/4092/) | in force | 1 | 2008-12-20 | 2008-12-20 |
+| Odluka o davanju suglasnosti na Financijski plan Državne agencije za osiguranje štednih uloga i sanaciju banaka za 2009. godinu | [`odluka/2008/4093/`](odluka/2008/4093/) | in force | 1 | 2008-12-20 | 2008-12-20 |
+| Odluka o davanju suglasnosti na Financijski plan Hrvatskog fonda za privatizaciju za 2009. godinu | [`odluka/2008/4094/`](odluka/2008/4094/) | in force | 1 | 2008-12-20 | 2008-12-20 |
+| Odluka o davanju suglasnosti na Financijski plan Fonda za zaštitu okoliša i energetsku učinkovitost za 2009. godinu | [`odluka/2008/4095/`](odluka/2008/4095/) | in force | 1 | 2008-12-20 | 2008-12-20 |
+| Odluka o visini osnovice za izračun plaća korisnika državnog proračuna | [`odluka/2008/4104/`](odluka/2008/4104/) | repealed, not consolidated | 1 | 2009-01-01 | 2009-01-01 |
+| Odluka o objavljivanju pravila o državnim potporama za naknadu troškova uslijed liberalizacije tržišta električne energije | [`odluka/2008/4105/`](odluka/2008/4105/) | cited later, not consolidated | 1 | 2008-12-22 | 2008-12-22 |
+| Odluka o tehničkim pravilima Hrvatskog registra brodova - Zavarivanje (2002) | [`odluka/2008/4109/`](odluka/2008/4109/) | in force | 1 | 2009-01-01 | 2009-01-01 |
+| Odluka o tehničkim pravilima Hrvatskog registra brodova - Opći propisi (2009) | [`odluka/2008/4110/`](odluka/2008/4110/) | in force | 1 | 2009-01-01 | 2009-01-01 |
+| Odluka o izmjenama Odluke o načinu i rokovima dostavljanja izvješća o stanju određenih potraživanja i obveza u stranim sredstvima plaćanja | [`odluka/2008/4111/`](odluka/2008/4111/) | in force | 1 | 2009-01-05 | 2009-01-05 |
+| Odluka o izmjeni Odluke o uvjetima za odobrenje unutardnevnoga kredita na osnovi zaloga vrijednosnih papira | [`odluka/2008/4112/`](odluka/2008/4112/) | in force | 1 | 2008-12-22 | 2008-12-22 |
+| Odluka o izmjeni Odluke o uvjetima za odobrenje kratkoročnog kredita na osnovi zaloga vrijednosnih papira (lombardni kredit) | [`odluka/2008/4113/`](odluka/2008/4113/) | in force | 1 | 2008-12-22 | 2008-12-22 |
+| Odluka o preraspodjeli sredstava planiranih u Državnom proračunu Republike Hrvatske za 2008. godinu | [`odluka/2008/4116/`](odluka/2008/4116/) | in force | 1 | 2008-12-19 | 2008-12-19 |
+| Odluka o najvišem postotku naknade banke skrbnika za 2009. godinu | [`odluka/2008/4135/`](odluka/2008/4135/) | in force | 1 | 2009-01-01 | 2009-01-01 |
+| Odluka o najvišem postotku naknade za upravljanje obveznom mirovinskom društvu za 2009. godinu | [`odluka/2008/4136/`](odluka/2008/4136/) | in force | 1 | 2009-01-01 | 2009-01-01 |
+| Odluka o visini tarifnih stavki za transport prirodnog plina za 2009. godinu | [`odluka/2008/4167/`](odluka/2008/4167/) | repealed, not consolidated | 1 | 2009-01-01 | 2009-01-01 |
+| Odluka o visini tarifnih stavki u Tarifnom sustavu za opskrbu prirodnim plinom, s iznimkom povlaštenih kupaca, bez visine tarifnih stavki | [`odluka/2008/4168/`](odluka/2008/4168/) | repealed, not consolidated | 1 | 2009-01-01 | 2009-01-01 |
+| Odluka o visini tarifnih stavki u Tarifnom sustavu za usluge energetskih djelatnosti proizvodnje, distribucije i opskrbe toplinskom energijom | [`odluka/2008/4169/`](odluka/2008/4169/) | amended, not consolidated | 1 | 2009-01-01 | 2009-01-01 |
+| Odluka o visini tarifnih stavki u Tarifnom sustavu za distribuciju prirodnog plina, bez visine tarifnih stavki | [`odluka/2008/4170/`](odluka/2008/4170/) | repealed, not consolidated | 1 | 2009-01-01 | 2009-01-01 |
+| Odluka o objavljivanju pravila o državnim potporama za zaštitu okoliša | [`odluka/2008/4171/`](odluka/2008/4171/) | cited later, not consolidated | 1 | 2008-12-29 | 2008-12-29 |
+| Odluka o objavljivanju pravila o državnim potporama sektoru brodogradnje | [`odluka/2008/4172/`](odluka/2008/4172/) | repealed, not consolidated | 1 | 2008-12-29 | 2008-12-29 |
+| Odluka o visini naknada za obavljanje poslova regulacije energetskih djelatnosti | [`odluka/2008/4218/`](odluka/2008/4218/) | repealed, not consolidated | 1 | 2009-01-07 | 2009-01-07 |
+| Odluka o odobrenju eksploatacijskog polja ugljikovodika "PSP Okoli" | [`odluka/2008/4219/`](odluka/2008/4219/) | in force | 1 | 2008-12-24 | 2008-12-24 |
+| Odluka o iznosu naknade za financiranje rada Hrvatske agencije za obvezne zalihe nafte i naftnih derivata i obveznih zaliha nafte i naftnih derivata za 2009. godinu | [`odluka/2008/4220/`](odluka/2008/4220/) | in force | 1 | 2009-01-01 | 2009-01-01 |
+| Odluka o visini naknada za tehnički pregled i druge poslove koji se obavljaju u stanicama za tehničke preglede vozila | [`odluka/2008/4241/`](odluka/2008/4241/) | replaced, not consolidated | 1 | 2009-01-07 | 2009-01-07 |
+| Odluka o osnivanju Vijeća za genetski modificirane organizme | [`odluka/2008/4256/`](odluka/2008/4256/) | repealed, not consolidated | 1 | 2008-12-24 | 2008-12-24 |
+| Odluka o raspisivanju javnog natječaja za dodjelu koncesije za korištenje poljoprivrednog zemljišta u vlasništvu Republike Hrvatske na podurčju Općine Bilje | [`odluka/2008/4257/`](odluka/2008/4257/) | in force | 1 | 2008-12-29 | 2008-12-29 |
+| Odluka o raspisivanju javnog natječaja za dodjelu koncesije za korištenje poljoprivrednog zemljišta u vlasništvu Republike Hrvatske na području Općine Čeminac | [`odluka/2008/4258/`](odluka/2008/4258/) | repealed, not consolidated | 1 | 2008-12-29 | 2008-12-29 |
+| Odluka o velikim izloženostima kreditnih institucija | [`odluka/2009/18/`](odluka/2009/18/) | repealed, not consolidated | 1 | 2009-07-01 | 2009-07-01 |
+| Odluka o upravljanju rizicima | [`odluka/2009/19/`](odluka/2009/19/) | repealed, not consolidated | 1 | 2009-07-01 | 2009-07-01 |
+| Odluka o klasifikaciji plasmana i izvanbilančnih obveza kreditnih institucija | [`odluka/2009/20/`](odluka/2009/20/) | repealed, not consolidated | 1 | 2009-07-01 | 2009-07-01 |
+| Odluka o upravljanju likvidnosnim rizikom | [`odluka/2009/21/`](odluka/2009/21/) | amended, not consolidated | 1 | 2009-07-01 | 2009-07-01 |
+| Odluka o upravljanju kamatnim rizikom u knjizi banke | [`odluka/2009/22/`](odluka/2009/22/) | amended, not consolidated | 1 | 2009-07-01 | 2009-07-01 |
+| Odluka o postupku procjenjivanja adekvatnosti internoga kapitala kreditne institucije | [`odluka/2009/23/`](odluka/2009/23/) | repealed, not consolidated | 1 | 2009-07-01 | 2009-07-01 |
+| Odluka o načinu provedbe supervizije kreditnih institucija i izricanju supervizorskih mjera | [`odluka/2009/24/`](odluka/2009/24/) | repealed, not consolidated | 1 | 2009-07-01 | 2009-07-01 |
+| Odluka o superviziji grupe kreditnih institucija na konsolidiranoj osnovi | [`odluka/2009/25/`](odluka/2009/25/) | amended, not consolidated | 1 | 2009-07-01 | 2009-07-01 |
+| Odluka o minimalnim financijskim standardima za decentralizirane funkcije za zdravstvene ustanove u 2009. godini | [`odluka/2009/183/`](odluka/2009/183/) | amended, not consolidated | 1 | 2009-01-19 | 2009-01-19 |
+| Odluka o minimalnim financijskim standardima materijalnih i financijskih rashoda centara za socijalnu skrb i pomoći za podmirenje troškova stanovanja korisnicima koji se griju na drva u 2009. godini | [`odluka/2009/184/`](odluka/2009/184/) | in force | 1 | 2009-01-19 | 2009-01-19 |
+| Odluka o minimalnim financijskim standardima za decentralizirano financiranje domova za starije i nemoćne osobe u 2009. godini | [`odluka/2009/185/`](odluka/2009/185/) | amended, not consolidated | 1 | 2009-01-19 | 2009-01-19 |
+| Odluka o minimalnim financijskim standardima za decentralizirano financiranje redovite djelatnosti javnih vatrogasnih postrojbi u 2009. godini | [`odluka/2009/186/`](odluka/2009/186/) | amended, not consolidated | 1 | 2009-01-19 | 2009-01-19 |
+| Odluka o prestanku važenja kriznog stanja u opskrbi prirodnim plinom | [`odluka/2009/222/`](odluka/2009/222/) | in force | 1 | 2009-01-22 | 2009-01-22 |
+| Odluka o objavljivanju popisa pravila o državnim potporama | [`odluka/2009/246/`](odluka/2009/246/) | repealed, not consolidated | 1 | 2009-01-28 | 2009-01-28 |
+| Odluka o utvrđivanju plaće predsjednika, zamjenika predsjednika i članova Vijeća Hrvatske agencije za poštu i elektroničke komunikacije | [`odluka/2009/247/`](odluka/2009/247/) | cited later, not consolidated | 1 | 2009-01-22 | 2009-01-22 |
+| Odluka o davanju suglasnosti na Odluku o izmjeni Odluke o utvrđivanju lučkog područja u lukama otvorenim za javni promet županijskog i lokalnog značaja na području Primorsko-goranske županije | [`odluka/2009/248/`](odluka/2009/248/) | in force | 1 | 2009-01-22 | 2009-01-22 |
+| Odluka o davanju suglasnosti na Odluku o izmjeni i dopuni Statuta Fonda za profesionalnu rehabilitaciju i zapošljavanje osoba s invaliditetom | [`odluka/2009/249/`](odluka/2009/249/) | amending act | 1 | 2009-01-22 | 2009-01-22 |
+| Odluka o koncesiji za posebnu upotrebu pomorskog dobra u svrhu izgradnje kanalizacijskog sustava za odvodnju otpadnih voda prema projektu: Sustav javne odvodnje Grada Raba II. i III. faza | [`odluka/2009/250/`](odluka/2009/250/) | in force | 1 | 2009-01-22 | 2009-01-22 |
+| Odluka o davanju suglasnosti na Izmjene i dopune Financijskog plana Hrvatskih voda za 2009. godinu | [`odluka/2009/1024/`](odluka/2009/1024/) | amending act | 1 | 2009-04-09 | 2009-04-09 |
+| Odluka o davanju suglasnosti na Izmjene i dopune Financijskog plana Hrvatskih cesta za 2009. godinu | [`odluka/2009/1025/`](odluka/2009/1025/) | amending act | 1 | 2009-04-09 | 2009-04-09 |
+| Odluka o davanju suglasnosti na Izmjene i dopune Financijskog plana Državne agencije za osiguranje štednih uloga i sanaciju banaka za 2009. godinu | [`odluka/2009/1026/`](odluka/2009/1026/) | amending act | 1 | 2009-04-09 | 2009-04-09 |
+| Odluka o davanju suglasnosti na Izmjene i dopune Financijskog plana Fonda za zaštitu okoliša i energetsku učinkovitost za 2009. godinu | [`odluka/2009/1027/`](odluka/2009/1027/) | amending act | 1 | 2009-04-09 | 2009-04-09 |
+| Odluka o davanju suglasnosti na Izmjene i dopune Financijskog plana Hrvatskog fonda za privatizaciju za 2009. godinu | [`odluka/2009/1028/`](odluka/2009/1028/) | amending act | 1 | 2009-04-09 | 2009-04-09 |
+| Odluka o sudjelovanju pripadnika oružanih snaga Republike Hrvatske u mirovnoj operaciji Europske unije "EU NAVFOR Somalia-Atalanta" | [`odluka/2009/1036/`](odluka/2009/1036/) | in force | 1 | 2009-04-10 | 2009-04-10 |
+| Odluka o dodjeli izlovne kvote za ribolov tune (Thunnus thynnus) plivaricom tunolovkom u 2009. godini | [`odluka/2009/1045/`](odluka/2009/1045/) | in force | 1 | 2009-04-10 | 2009-04-10 |
+| Odluka o raspisivanju izbora za članove predstavničkih tijela jedinica lokalne i područne (regionalne) samouprave | [`odluka/2009/1054/`](odluka/2009/1054/) | replaced, not consolidated | 1 | 2009-04-15 | 2009-04-15 |
+| Odluka o raspisivanju izbora za općinske načelnike, gradonačelnike, župane i gradonačelnika Grada Zagreba i njihove zamjenike | [`odluka/2009/1055/`](odluka/2009/1055/) | in force | 1 | 2009-04-15 | 2009-04-15 |
+| Odluka o izmjenama i dopunama Odluke o osnovama za sklapanje ugovora o provođenju zdravstvene zaštite iz obveznog zdravstvenog osiguranja | [`odluka/2009/1060/`](odluka/2009/1060/) | amended, not consolidated | 1 | 2009-04-15 | 2009-04-15 |
+| Odluka o određivanju visine naknade troškova izborne promidžbe za izbor općinskih načelnika, gradonačelnika, župana i gradonačelnika Grada Zagreba i njihovih zamjenika | [`odluka/2009/1071/`](odluka/2009/1071/) | in force | 1 | 2009-04-17 | 2009-04-17 |
+| Odluka o količini i strukturi obveznih zaliha nafte i naftnih derivata za 2009. godinu | [`odluka/2009/1072/`](odluka/2009/1072/) | in force | 1 | 2009-04-09 | 2009-04-09 |
+| Odluka o davanju suglasnosti na prijenos koncesije na pomorskom dobru u svrhu gospodarskog korištenja radi obavljanja djelatnosti uzgoja školjaka i riba | [`odluka/2009/1073/`](odluka/2009/1073/) | replaced, not consolidated | 1 | 2009-04-09 | 2009-04-09 |
+| Odluka o potvrđivanju Statuta Hrvatskog zavoda za zapošljavanje | [`odluka/2009/1074/`](odluka/2009/1074/) | replaced, not consolidated | 1 | 2009-04-09 | 2009-04-09 |
+| Odluka o davanju suglasnosti na Statut Agencije za osiguranje radničkih potraživanja u slučaju stečaja poslodavca | [`odluka/2009/1075/`](odluka/2009/1075/) | in force | 1 | 2009-04-09 | 2009-04-09 |
+| Odluka Hrvatske agencije za poštu i elektroničke komunikacije | [`odluka/2009/1127/`](odluka/2009/1127/) | replaced, not consolidated | 1 | 2009-02-16 | 2009-02-16 |
+| Odluka o izmjeni Odluke o visini naknada za obavljanje poslova regulacije energetskih djelatnosti | [`odluka/2009/1163/`](odluka/2009/1163/) | in force | 1 | 2009-04-30 | 2009-04-30 |
+| Odluka o izmjeni Odluke o davanju koncesije za posebnu uporabu pomorskog dobra u svrhu postavljanja podzemnog cjevovoda i izgradnje dijela ceste na dijelu katastarske čestice zemlje 10359 k.o. Omišalj | [`odluka/2009/1164/`](odluka/2009/1164/) | in force | 1 | 2009-04-16 | 2009-04-16 |
+| Odluka o izmjenama i dopunama Odluke o rodovima, službama, strukama i njihovim specijalnostima | [`odluka/2009/1169/`](odluka/2009/1169/) | amending act | 1 | 2009-04-22 | 2009-04-22 |
+| Odluka o izdavanju numizmatičkih kompleta kovanog novca Republike Hrvatske, kuna i lipa, s oznakom godine kovanja "2009." | [`odluka/2009/1184/`](odluka/2009/1184/) | cited later, not consolidated | 1 | 2009-04-22 | 2009-04-22 |
+| Odluka o preferencijalnoj carinskoj kvoti pri uvozu određenog poljoprivrednog proizvoda | [`odluka/2009/1199/`](odluka/2009/1199/) | replaced, not consolidated | 1 | 2009-04-23 | 2009-04-23 |
+| Odluka o izmjenama i dopunama Odluke o stopi solventnosti kreditnih unija | [`odluka/2009/1202/`](odluka/2009/1202/) | amending act | 1 | 2009-05-05 | 2009-05-05 |
+| Odluka o izmjenama i dopunama Odluke o nadzornim izvještajima kreditnih unija | [`odluka/2009/1203/`](odluka/2009/1203/) | amending act | 1 | 2009-05-05 | 2009-05-05 |
+| Odluka o osnivanju trgovačkog društva Zrakoplovno-tehnički centar d.d. | [`odluka/2009/1227/`](odluka/2009/1227/) | amended, not consolidated | 1 | 2009-05-04 | 2009-05-04 |
+| Odluka o proširenju primjene Kolektivnog ugovora za djelatnosti drvne i papirne industrije | [`odluka/2009/1279/`](odluka/2009/1279/) | in force | 1 | 2009-05-16 | 2009-05-16 |
+| Odluka o visini naknade za utvrđivanje uvjeta za početak rada autoškole | [`odluka/2009/1284/`](odluka/2009/1284/) | repealed, not consolidated | 1 | 2009-05-16 | 2009-05-16 |
+| Odluka kojom se poništava dio Javnog natječaja za dodjelu koncesija za obavljanje djelatnosti radija i/ili televizije-tablica 1. djelatnost radija-točka 7. Grad Rab (L-RB) | [`odluka/2009/1308/`](odluka/2009/1308/) | in force | 1 | 2009-04-24 | 2009-04-24 |
+| Odluka kojom se poništava dio Javnog natječaja za dodjelu koncesija za obavljanje djelatnosti radija i/ili televizije-tablica 2. djelatnost televizije -točka 2. Grad Jastrebarsko (G-JA) | [`odluka/2009/1309/`](odluka/2009/1309/) | in force | 1 | 2009-04-24 | 2009-04-24 |
+| Odluka o obvezi rada ureda državne uprave na dan izbora 17. svibnja 2009. godine | [`odluka/2009/1323/`](odluka/2009/1323/) | in force | 1 | 2009-05-07 | 2009-05-07 |
+| Odluka o usvajanju Jamstvenih programa Hrvatske agencije za malo gospodarstvo | [`odluka/2009/1324/`](odluka/2009/1324/) | in force | 1 | 2009-05-07 | 2009-05-07 |
+| Odluka o usvajanju Izmjena i dopuna Jamstvenih programa Hrvatske agencije za malo gospodarstvo | [`odluka/2009/1325/`](odluka/2009/1325/) | amending act | 1 | 2009-05-07 | 2009-05-07 |
+| Odluka o usvajanju Izmjena Jamstvenih programa Hrvatske agencije za malo gospodarstvo | [`odluka/2009/1326/`](odluka/2009/1326/) | in force | 1 | 2009-05-07 | 2009-05-07 |
+| Odluka o objavljivanju pravila privremenog okvira za mjere državnih potpora kojima se podupire pristup financiranju u trenutnoj financijskoj i gospodarskoj krizi | [`odluka/2009/1327/`](odluka/2009/1327/) | cited later, not consolidated | 1 | 2009-05-13 | 2009-05-13 |
+| Odluka o visini otpremnine za djelatne vojne osobe kojima služba prestane zbog preustroja ili smanjenja snaga s pravom na mirovinu | [`odluka/2009/1338/`](odluka/2009/1338/) | repealed, not consolidated | 1 | 2009-05-13 | 2009-05-13 |
+| Odluka o visini naknade za aktivaciju i kalibraciju digitalnih tahografa ugrađenih u motorna vozila za pokriće troškova ovlaštene radionice | [`odluka/2009/1367/`](odluka/2009/1367/) | cited later, not consolidated | 1 | 2009-05-20 | 2009-05-20 |
+| Odluka o utvrđivanju popisa posebno skupih lijekova utvrđenih Odlukom o utvrđivanju Osnovne liste lijekova Hrvatskog zavoda za zdravstveno osiguranje | [`odluka/2009/1386/`](odluka/2009/1386/) | amended, not consolidated | 1 | 2009-05-22 | 2009-05-22 |
+| Odluka o dopuni Odluke o izgledu, obliku, sadržaju i načinu korištenja iskaznice dopunskog zdravstvenog osiguranja | [`odluka/2009/1389/`](odluka/2009/1389/) | amending act | 1 | 2009-05-22 | 2009-05-22 |
+| Odluka o izdavanju euroobveznica Republike Hrvatske u iznosu od 750.000.000,00 EUR | [`odluka/2009/1416/`](odluka/2009/1416/) | in force | 1 | 2009-05-28 | 2009-05-28 |
+| Odluka o popisu iskrcajnih mjesta za ribarska plovila koja obavljaju gospodarski ribolov na moru | [`odluka/2009/1445/`](odluka/2009/1445/) | amended, not consolidated | 1 | 2009-06-03 | 2009-06-03 |
+| Odluka o pravilima za statutarnu certifikaciju pomorskih brodova, Dio 4. - Stabilitet (2009.) | [`odluka/2009/1462/`](odluka/2009/1462/) | repealed, not consolidated | 1 | 2009-07-01 | 2009-07-01 |
+| Odluka o pravilima za statutarnu certifikaciju pomorskih brodova, Dio 5. - Pregrađivanje (2009.) | [`odluka/2009/1463/`](odluka/2009/1463/) | replaced, not consolidated | 1 | 2009-07-01 | 2009-07-01 |
+| Odluka o pravilima za statutarnu certifikaciju pomorskih brodova, Dio 6. - Nadvođe (2009.) | [`odluka/2009/1464/`](odluka/2009/1464/) | repealed, not consolidated | 1 | 2009-07-01 | 2009-07-01 |
+| Odluka o pravilima za statutarnu certifikaciju pomorskih brodova, Dio 14. - Radiooprema (2009.) | [`odluka/2009/1465/`](odluka/2009/1465/) | repealed, not consolidated | 1 | 2009-07-01 | 2009-07-01 |
+| Odluka o pravilima za statutarnu certifikaciju pomorskih brodova, Dio 15. - Sredstva za signalizaciju (2009.) | [`odluka/2009/1466/`](odluka/2009/1466/) | replaced, not consolidated | 1 | 2009-07-01 | 2009-07-01 |
+| Odluka o pravilima za statutarnu certifikaciju pomorskih brodova, Dio 16. - Pomagala za navigaciju (2009.) | [`odluka/2009/1467/`](odluka/2009/1467/) | replaced, not consolidated | 1 | 2009-07-01 | 2009-07-01 |
+| Odluka o pravilima za statutarnu certifikaciju pomorskih brodova, Dio 17. - Protupožarna zaštita (2009.) | [`odluka/2009/1468/`](odluka/2009/1468/) | amended, not consolidated | 1 | 2009-07-01 | 2009-07-01 |
+| Odluka o pravilima za statutarnu certifikaciju pomorskih brodova, Dio 18. - Sredstva za spašavanje (2009.) | [`odluka/2009/1469/`](odluka/2009/1469/) | repealed, not consolidated | 1 | 2009-07-01 | 2009-07-01 |
+| Odluka o pravilima za statutarnu certifikaciju pomorskih brodova, Dio 19. - Uređaji za rukovanje teretom i naprave za dizanje (2009.) | [`odluka/2009/1470/`](odluka/2009/1470/) | in force | 1 | 2009-07-01 | 2009-07-01 |
+| Odluka o pravilima za statutarnu certifikaciju pomorskih brodova, Dio 21. - Prijevoz putnika (2009.) | [`odluka/2009/1471/`](odluka/2009/1471/) | repealed, not consolidated | 1 | 2009-07-01 | 2009-07-01 |
+| Odluka o pravilima za statutarnu certifikaciju pomorskih brodova, Dio 22. - Sprečavanje onečišćenja (2009.) | [`odluka/2009/1472/`](odluka/2009/1472/) | replaced, not consolidated | 1 | 2009-07-01 | 2009-07-01 |
+| Odluka o pravilima za statutarnu certifikaciju pomorskih brodova, Dio 23. - Prijevoz tereta (2009.) | [`odluka/2009/1473/`](odluka/2009/1473/) | repealed, not consolidated | 1 | 2009-07-01 | 2009-07-01 |
+| Odluka o pravilima za statutarnu certifikaciju pomorskih brodova, Dio 30. - Upravljanje sigurnošću (2009.) | [`odluka/2009/1474/`](odluka/2009/1474/) | replaced, not consolidated | 1 | 2009-07-01 | 2009-07-01 |
+| Odluka o pravilima za statutarnu certifikaciju putničkih brodova u Nacionalnoj plovidbi - Izmjene i dopune br. 2 (2009.) | [`odluka/2009/1475/`](odluka/2009/1475/) | amending act | 1 | 2009-07-01 | 2009-07-01 |
+| Odluka o pravilima za statutarnu certifikaciju ribarskih brodova - Izmjene i dopune br. 1 (2009.) | [`odluka/2009/1476/`](odluka/2009/1476/) | amending act | 1 | 2009-07-01 | 2009-07-01 |
+| Odluka o pravilima za obavljanje pokusne plovidbe (2009.) | [`odluka/2009/1477/`](odluka/2009/1477/) | repealed, not consolidated | 1 | 2009-07-01 | 2009-07-01 |
+| Odluka o pravilima za baždarenje pomorskih objekata (2009.) | [`odluka/2009/1478/`](odluka/2009/1478/) | repealed, not consolidated | 1 | 2009-07-01 | 2009-07-01 |
+| Odluka o pravilima za statutarnu certifikaciju brodica i jahti - Izmjene i dopune br. 2 (2009.) | [`odluka/2009/1479/`](odluka/2009/1479/) | amending act | 1 | 2009-07-01 | 2009-07-01 |
+| Odluka o pravilima za statutarnu certifikaciju kontejnera (2009.) | [`odluka/2009/1480/`](odluka/2009/1480/) | repealed, not consolidated | 1 | 2009-07-01 | 2009-07-01 |
+| Odluka o tehničkim pravilima Hrvatskog registra brodova, Dio 2. - TRUP (2006.) | [`odluka/2009/1481/`](odluka/2009/1481/) | in force | 1 | 2009-07-01 | 2009-07-01 |
+| Odluka o tehničkim pravilima Hrvatskog registra brodova, Dio 3. - Oprema trupa (2004.) | [`odluka/2009/1482/`](odluka/2009/1482/) | in force | 1 | 2009-07-01 | 2009-07-01 |
+| Odluka o tehničkim pravilima Hrvatskog registra brodova, Dio 7. - Strojni uređaj (2008.) | [`odluka/2009/1483/`](odluka/2009/1483/) | in force | 1 | 2009-07-01 | 2009-07-01 |
+| Odluka o tehničkim pravilima Hrvatskog registra brodova, Dio 8. - Cjevovodi (2007.) | [`odluka/2009/1484/`](odluka/2009/1484/) | in force | 1 | 2009-07-01 | 2009-07-01 |
+| Odluka o tehničkim pravilima Hrvatskog registra brodova, Dio 9. - Strojevi (2008.) | [`odluka/2009/1485/`](odluka/2009/1485/) | in force | 1 | 2009-07-01 | 2009-07-01 |
+| Odluka o tehničkim pravilima Hrvatskog registra brodova, Dio 10. - Kotlovi, izmjenjivači topline i posude pod tlakom (2007.) | [`odluka/2009/1486/`](odluka/2009/1486/) | in force | 1 | 2009-07-01 | 2009-07-01 |
+| Odluka o tehničkim pravilima Hrvatskog registra brodova, Dio 11. - Rashladni uređaj (2008.) | [`odluka/2009/1487/`](odluka/2009/1487/) | in force | 1 | 2009-07-01 | 2009-07-01 |
+| Odluka o tehničkim pravilima Hrvatskog registra brodova, Dio 12. - Električna oprema (2007.) | [`odluka/2009/1488/`](odluka/2009/1488/) | in force | 1 | 2009-07-01 | 2009-07-01 |
+| Odluka o tehničkim pravilima Hrvatskog registra brodova, Dio 13. - Automatizacija (2002.) | [`odluka/2009/1489/`](odluka/2009/1489/) | in force | 1 | 2009-07-01 | 2009-07-01 |
+| Odluka o tehničkim pravilima Hrvatskog registra brodova, Dio 24. - Nemetalni materijali (2000.) | [`odluka/2009/1490/`](odluka/2009/1490/) | in force | 1 | 2009-07-01 | 2009-07-01 |
+| Odluka o tehničkim pravilima Hrvatskog registra brodova, Dio 25. - Metalni materijali (2005.) | [`odluka/2009/1491/`](odluka/2009/1491/) | in force | 1 | 2009-07-01 | 2009-07-01 |
+| Odluka o tehničkim pravilima Hrvatskog registra brodova, Dio 27. - Tankeri za kemikalije (2002.) | [`odluka/2009/1492/`](odluka/2009/1492/) | in force | 1 | 2009-07-01 | 2009-07-01 |
+| Odluka o najvišoj naknadi za pokrivanje troškova MOD-a u 2009. iz doznaka obveznog mirovinskog fonda | [`odluka/2009/1501/`](odluka/2009/1501/) | in force | 1 | 2009-06-13 | 2009-06-13 |
+| Odluka o izmjeni Odluke o davanju suglasnosti Lučkoj upravi Rijeka za osnivanje Slobodne zone luke Rijeka | [`odluka/2009/1595/`](odluka/2009/1595/) | in force | 1 | 2009-05-28 | 2009-05-28 |
+| Odluka o prestanku važenja Odluke o raspisivanju javnog natječaja za dodjelu koncesije za korištenje poljoprivrednog zemljišta u vlasništvu Republike Hrvatske na području Općine Sunje za k.o. Greda Sunjska | [`odluka/2009/1624/`](odluka/2009/1624/) | in force | 1 | 2009-06-08 | 2009-06-08 |
+| Odluka o produljenju razdoblja ribolova za plivarice tunolovke u 2009. godini | [`odluka/2009/1726/`](odluka/2009/1726/) | cited later, not consolidated | 1 | 2009-06-12 | 2009-06-12 |
+| Odluku o raspodjeli sredstava za financiranje obrazovnih, kulturnih, znanstvenih i zdravstvenih programa i projekata od interesa za hrvatski narod u Bosni i Hercegovini iz sredstava Državnog proračuna Republike Hrvatske za 2009. godinu | [`odluka/2009/1732/`](odluka/2009/1732/) | amended, not consolidated | 1 | 2009-06-19 | 2009-06-19 |
+| Odluka o uvođenju privremene zaštitne mjere prilikom uvoza polutvrdih sireva i nadomjestaka za sir | [`odluka/2009/1733/`](odluka/2009/1733/) | repealed, not consolidated | 1 | 2009-06-23 | 2009-06-23 |
+| Odluka o visini cijene za izdavanje memorijskih kartica za digitalne tahografe | [`odluka/2009/1734/`](odluka/2009/1734/) | in force | 1 | 2009-06-23 | 2009-06-23 |
+| Odluka o visini tarifnih stavki za skladištenje prirodnog plina | [`odluka/2009/1742/`](odluka/2009/1742/) | repealed, not consolidated | 1 | 2009-07-01 | 2009-07-01 |
+| Odluka o dopuni Odluke o mjerilima za utvrđivanje primanja i naknadama troškova znanstvenim, stručnim i javnim djelatnicima koji su članovi radnih tijela Hrvatskoga sabora ili su uključeni u njihov rad | [`odluka/2009/1769/`](odluka/2009/1769/) | amending act | 1 | 2009-06-05 | 2009-06-05 |
+| Odluka o osnovici i načinu plaćanja posebnog doprinosa za zapošljavanje osoba zaposlenih u inozemstvu | [`odluka/2009/1776/`](odluka/2009/1776/) | cited later, not consolidated | 1 | 2009-07-07 | 2009-07-07 |
+| Odluka o jednokratnoj novčanoj pomoći i naknadi putnih i selidbenih troškova | [`odluka/2009/1777/`](odluka/2009/1777/) | repealed, not consolidated | 1 | 2009-07-07 | 2009-07-07 |
+| Odluka o izmjenama i dopunama Odluke o velikim izloženostima kreditnih institucija | [`odluka/2009/1813/`](odluka/2009/1813/) | amended, not consolidated | 1 | 2009-06-30 | 2009-06-30 |
+| Odluka o izmjenama i dopunama Odluke o upravljanju rizicima | [`odluka/2009/1814/`](odluka/2009/1814/) | amending act | 1 | 2009-06-30 | 2009-06-30 |
+| Odluka o izmjenama i dopunama Odluke o upravljanju likvidnosnim rizikom | [`odluka/2009/1815/`](odluka/2009/1815/) | amending act | 1 | 2009-06-30 | 2009-06-30 |
+| Odluka o izmjenama i dopunama Odluke o upravljanju kamatnim rizikom u knjizi banke | [`odluka/2009/1816/`](odluka/2009/1816/) | amended, not consolidated | 1 | 2009-06-30 | 2009-06-30 |
+| Odluka o izmjenama i dopunama Odluke o sustavu unutarnjih kontrola | [`odluka/2009/1817/`](odluka/2009/1817/) | amending act | 1 | 2009-06-30 | 2009-06-30 |
+| Odluka o izmjenama i dopunama Odluke o superviziji grupe kreditnih institucija na konsolidiranoj osnovi | [`odluka/2009/1818/`](odluka/2009/1818/) | amending act | 1 | 2009-06-30 | 2009-06-30 |
+| Odluka o izmjenama i dopunama Odluke o načinu provedbe supervizije kreditnih institucija i izricanju supervizorskih mjera | [`odluka/2009/1819/`](odluka/2009/1819/) | amending act | 1 | 2009-06-30 | 2009-06-30 |
+| Odluka o izmjenama i dopunama Odluke o obvezi rezerviranja za sudske sporove koji se vode protiv kreditne institucije | [`odluka/2009/1820/`](odluka/2009/1820/) | amending act | 1 | 2009-06-30 | 2009-06-30 |
+| Odluka o izmjenama i dopunama Odluke o sadržaju revizije u kreditnim institucijama | [`odluka/2009/1821/`](odluka/2009/1821/) | amending act | 1 | 2009-06-30 | 2009-06-30 |
+| Odluka o izmjenama i dopunama Odluke o ograničenju ulaganja kreditnih institucija u kapital nefinancijskih institucija i materijalnu imovinu | [`odluka/2009/1822/`](odluka/2009/1822/) | amending act | 1 | 2009-06-30 | 2009-06-30 |
+| Odluka o izmjenama i dopunama Odluke o klasifikaciji plasmana i izvanbilančnih obveza kreditnih institucija | [`odluka/2009/1823/`](odluka/2009/1823/) | amending act | 1 | 2009-06-30 | 2009-06-30 |
+| Odluka o izmjenama i dopunama Odluke o javnoj objavi bonitetnih zahtjeva kreditnih institucija | [`odluka/2009/1824/`](odluka/2009/1824/) | amending act | 1 | 2009-06-30 | 2009-06-30 |
+| Odluka o izmjenama i dopunama Odluke o jamstvenom kapitalu kreditnih institucija | [`odluka/2009/1825/`](odluka/2009/1825/) | amending act | 1 | 2009-06-30 | 2009-06-30 |
+| Odluka o izmjenama i dopunama Odluke o izvješćima o jamstvenom kapitalu i kapitalnim zahtjevima kreditnih institucija | [`odluka/2009/1826/`](odluka/2009/1826/) | amending act | 1 | 2009-06-30 | 2009-06-30 |
+| Odluka o izmjenama i dopunama Odluke o postupku procjenjivanja adekvatnosti internog kapitala kreditne institucije | [`odluka/2009/1827/`](odluka/2009/1827/) | amending act | 1 | 2009-06-30 | 2009-06-30 |
+| Odluka o izmjenama i dopunama Odluke o eksternalizaciji | [`odluka/2009/1828/`](odluka/2009/1828/) | amending act | 1 | 2009-06-30 | 2009-06-30 |
+| Odluka o izmjenama i dopunama Odluke o adekvatnosti jamstvenoga kapitala kreditnih institucija | [`odluka/2009/1829/`](odluka/2009/1829/) | amending act | 1 | 2009-06-30 | 2009-06-30 |
+| Odluka o izmjenama i dopunama Odluke o izvješćivanju o dužnosnicima kreditne institucije čiji dug prelazi određeni iznos | [`odluka/2009/1830/`](odluka/2009/1830/) | amending act | 1 | 2009-06-30 | 2009-06-30 |
+| Odluka o primjeni odredaba Zakona i drugih propisa iz nadležnosti Hrvatske narodne banke na kreditne institucije u likvidaciji | [`odluka/2009/1831/`](odluka/2009/1831/) | repealed, not consolidated | 1 | 2009-06-30 | 2009-06-30 |
+| Odluka o izmjenama Odluke o minimanim financijskim standardima za decentralizirano financiranje redovite djelatnosti javnih vatrogasnih postrojbi u 2009. godini | [`odluka/2009/1840/`](odluka/2009/1840/) | in force | 1 | 2009-07-01 | 2009-07-01 |
+| Odluka o izmjenama Odluke o minimanim financijskim standardima za decentralizirano financiranje domova za starije i nemoćne osobe u 2009. godini | [`odluka/2009/1841/`](odluka/2009/1841/) | in force | 1 | 2009-07-01 | 2009-07-01 |
+| Odluka o dodjeli koncesije društvu Naturalis d.o.o., Vrlika, za zahvaćanje pitke vode radi prodaje (prirodne izvorske) vode na tržištu | [`odluka/2009/1842/`](odluka/2009/1842/) | amended, not consolidated | 1 | 2009-06-26 | 2009-06-26 |
+| Odluka o dodjeli koncesije društvu Kustura d.o.o., Zagreb, za zahvaćanje pitke vode radi prodaje (prirodne izvorske) vode na tržištu | [`odluka/2009/1843/`](odluka/2009/1843/) | in force | 1 | 2009-06-26 | 2009-06-26 |
+| Odluka o provedbi ICCAT regionalnog programa promatrača na uzgajalištima tuna (Thunnus thynnus) | [`odluka/2009/1854/`](odluka/2009/1854/) | in force | 1 | 2009-07-01 | 2009-07-01 |
+| Odluka o povjeravanju mandata za sastavljanje Vlade Republike Hrvatske | [`odluka/2009/1864/`](odluka/2009/1864/) | replaced, not consolidated | 1 | 2009-07-03 | 2009-07-03 |
+| Odluka o utvrđivanju interesa Republike Hrvatske za izgradnju Terminala za ukapljeni prirodni plan - Krk | [`odluka/2009/1889/`](odluka/2009/1889/) | in force | 1 | 2009-07-08 | 2009-07-08 |
+| Odluka o izmjenama Statuta Hrvatske obrtničke komore | [`odluka/2009/1986/`](odluka/2009/1986/) | in force | 1 | 2009-06-30 | 2009-06-30 |
+| Odluka o roku za usklađenje ulaganja imovine mirovinskog fonda | [`odluka/2009/2017/`](odluka/2009/2017/) | in force | 1 | 2009-07-13 | 2009-07-13 |
+| Odluka o roku za usklađenje ulaganja imovine otvorenih investicijskih fondova s javnom ponudom | [`odluka/2009/2018/`](odluka/2009/2018/) | in force | 1 | 2009-07-13 | 2009-07-13 |
+| Odluka o visini osnovice za obračun plaće državnih dužnosnika | [`odluka/2009/2037/`](odluka/2009/2037/) | repealed, not consolidated | 1 | 2009-08-01 | 2009-08-01 |
+| Odluka o uvjetima korištenja službenih osobnih automobila, mobilnih telefona, redovnih zrakoplovnih linija, poslovnih kreditnih kartica, te načinu odobravanja službenih putovanja | [`odluka/2009/2038/`](odluka/2009/2038/) | repealed, not consolidated | 1 | 2009-07-23 | 2009-07-23 |
+| Odluka o utvrđivanju plaća i drugih primanja predsjednika i članova uprava trgovačkih društava | [`odluka/2009/2039/`](odluka/2009/2039/) | amended, not consolidated | 1 | 2009-07-11 | 2009-07-11 |
+| Odluka o izmjeni Odluke o provedbi mjera za ublažavanje porasta cijena električne energije građanima i kućanstvima | [`odluka/2009/2041/`](odluka/2009/2041/) | in force | 1 | 2009-07-11 | 2009-07-11 |
+| Odluka o pravilima za statutarnu certifikaciju pomorskih brodova, pomorska oprema (2009.) | [`odluka/2009/2097/`](odluka/2009/2097/) | replaced, not consolidated | 1 | 2009-07-21 | 2009-07-21 |
+| Odluka o davanju suglasnosti na Izmjene i dopune Financijskog plana Hrvatskih voda za 2009. godinu | [`odluka/2009/2119/`](odluka/2009/2119/) | amending act | 1 | 2009-07-18 | 2009-07-18 |
+| Odluka o davanju suglasnosti na Izmjene i dopune Financijskog plana Državne agencije za osiguranje štednih uloga i sanaciju banaka za 2009. godinu | [`odluka/2009/2120/`](odluka/2009/2120/) | amending act | 1 | 2009-07-18 | 2009-07-18 |
+| Odluka o davanju suglasnosti na Izmjene i dopune Financijskog plana Fonda za zaštitu okoliša i energetsku učinkovitost za 2009. godinu | [`odluka/2009/2121/`](odluka/2009/2121/) | amending act | 1 | 2009-07-18 | 2009-07-18 |
+| Odluka o davanju preporuke nadzornim odborima i upravama trgovačkih društava u većinskom vlasništvu Republike Hrvatske za pokretanje postupka pregovaranja o izmjenama kolektivnih ugovora, a u skladu s trenutačnom gospodarskom situacijom | [`odluka/2009/2164/`](odluka/2009/2164/) | in force | 1 | 2009-07-16 | 2009-07-16 |
+| Odluka o određivanju Hrvatske akreditacijske agencija kao nacionalnog tijela nadležnog za obavljanje funkcija akreditacijskog tijela | [`odluka/2009/2165/`](odluka/2009/2165/) | in force | 1 | 2009-07-22 | 2009-07-22 |
+| Odluka o osnivanju Stožera za koordinaciju aktivnosti u slučajevima ugroze hrvatskih brodova i hrvatskih pomoraca u međunarodnoj plovidbi | [`odluka/2009/2166/`](odluka/2009/2166/) | amended, not consolidated | 1 | 2009-07-16 | 2009-07-16 |
+| Odluka o financiranju programa vijeća i predstavnika nacionalnih manjina u 2009. godini 35 | [`odluka/2009/2167/`](odluka/2009/2167/) | in force | 1 | 2009-07-16 | 2009-07-16 |
+| Odluka o izmjeni Odluke o osnivanju trgovačkog društva "PLETER - USLUGE" d.o.o. | [`odluka/2009/2168/`](odluka/2009/2168/) | in force | 1 | 2009-07-22 | 2009-07-22 |
+| Odluka o izmjeni Odluke o osnivanju društva s ograničenom odgovornošću Agencije ALAN Zagreb | [`odluka/2009/2169/`](odluka/2009/2169/) | in force | 1 | 2009-07-22 | 2009-07-22 |
+| Odluka o visini naknada za tehnički pregled i druge poslove koji se obavljaju u stanicama za tehničke preglede vozila | [`odluka/2009/2174/`](odluka/2009/2174/) | replaced, not consolidated | 1 | 2009-07-30 | 2009-07-30 |
+| Odluka o visini naknade za polaganje vozačkog ispita | [`odluka/2009/2175/`](odluka/2009/2175/) | repealed, not consolidated | 1 | 2009-07-30 | 2009-07-30 |
+| Odluka o prirezu poreza na dohodak Grada Sveta Nedelja | [`odluka/2009/2274/`](odluka/2009/2274/) | repealed, not consolidated | 1 | 2009-08-01 | 2009-08-01 |
+| Odluka o izmjenama Odluke o sadržaju i obliku isprave kojom se dokazuje status osigurane osobe Hrvatskog zavoda za zdravstveno osiguranje | [`odluka/2009/2306/`](odluka/2009/2306/) | in force | 1 | 2009-08-04 | 2009-08-04 |
+| Odluka o izmjenama i dopunama Odluke o utvrđivanju Osnovne liste lijekova Hrvatskog zavoda za zdravstveno osiguranje | [`odluka/2009/2309/`](odluka/2009/2309/) | amended, not consolidated | 1 | 2009-08-04 | 2009-08-04 |
+| Odluka o izmjenama i dopunama Odluke o utvrđivanju Dopunske liste lijekova Hrvatskog zavoda za zdravstveno osiguranje | [`odluka/2009/2310/`](odluka/2009/2310/) | amended, not consolidated | 1 | 2009-08-04 | 2009-08-04 |
+| Odluka o dopuni Odluke o utvrđivanju popisa posebno skupih lijekova utvrđenih Odlukom o utvrđivanju Osnovne liste lijekova Hrvatskog zavoda za zdravstveno osiguranje | [`odluka/2009/2311/`](odluka/2009/2311/) | amended, not consolidated | 1 | 2009-08-04 | 2009-08-04 |
+| Odluka o uvjetima redistribuiranja novčanica i kovanog novca kuna i lipa | [`odluka/2009/2312/`](odluka/2009/2312/) | repealed, not consolidated | 1 | 2009-08-04 | 2009-08-04 |
+| Odluka o financiranju nabave udžbenika i drugih nastavnih sredstava za učenike osnovnih i srednjih škola i međumjesnog prijevoza za učenike srednjih škola u školskoj godini 2009./2010. | [`odluka/2009/2315/`](odluka/2009/2315/) | in force | 1 | 2009-07-24 | 2009-07-24 |
+| Odluka o dobavljaču plina za opskrbljivače tarifnih kupaca u Republici Hrvatskoj | [`odluka/2009/2316/`](odluka/2009/2316/) | in force | 1 | 2009-07-24 | 2009-07-24 |
+| Odluka o davanju suglasnosti na Izmjene i dopune Financijskog plana Hrvatskih voda za 2009. godinu | [`odluka/2009/2367/`](odluka/2009/2367/) | amending act | 1 | 2009-08-03 | 2009-08-03 |
+| Odluka o davanju suglasnosti na Izmjene i dopune Financijskog plana Hrvatskih cesta za 2009. godinu | [`odluka/2009/2368/`](odluka/2009/2368/) | amending act | 1 | 2009-08-03 | 2009-08-03 |
+| Odluka o zabrani novog zapošljavanja državnih službenika i namještenika u tijelima državne uprave | [`odluka/2009/2376/`](odluka/2009/2376/) | repealed, not consolidated | 1 | 2009-07-30 | 2009-07-30 |
+| Odluka o davanju suglasnosti na Dopunu Statuta Hrvatske akreditacijske agencije | [`odluka/2009/2377/`](odluka/2009/2377/) | amending act | 1 | 2009-07-30 | 2009-07-30 |
+| Odluka o davanju koncesije na pomorskom dobru u svrhu gospodarskog korištenja radi obavljanja djelatnosti uzgoja školjaka u Malostonskom zaljevu i Malom moru | [`odluka/2009/2378/`](odluka/2009/2378/) | in force | 1 | 2009-07-30 | 2009-07-30 |
+| Odluka o izmjeni Odluke o osnivanju Nacionalnog vijeća za zaštitu potrošača | [`odluka/2009/2380/`](odluka/2009/2380/) | in force | 1 | 2009-07-30 | 2009-07-30 |
+| Odluka o izmjenama i dopuni Odluke o načinu ostvarivanja poticaja pri zapošljavanju osoba s invaliditetom | [`odluka/2009/2425/`](odluka/2009/2425/) | amending act | 1 | 2009-08-04 | 2009-08-04 |
+| Odluka o visini naknada za poslove stručnog osposobljavanja i provjere znanja sigurnosnog savjetnika | [`odluka/2009/2457/`](odluka/2009/2457/) | amended, not consolidated | 1 | 2009-08-15 | 2009-08-15 |
 | Odluka o raspisivanju prijevremenih izbora za Gradsko vijeće Grada Vukovara | [`odluka/2011/1/`](odluka/2011/1/) | in force | 1 | 2011-01-03 | 2011-01-03 |
 | Odluka o standardima i normativima prava na zdravstvenu zaštitu iz obveznog zdravstvenog osiguranja za slučaj ozljede na radu i profesionalne bolesti s osnovama za sklapanje ugovora | [`odluka/2011/12/`](odluka/2011/12/) | repealed, not consolidated | 1 | 2011-01-03 | 2011-01-03 |
 | Odluka o izmjenama i dopunama Odluke o osnovama za sklapanje ugovora o provođenju zdravstvene zaštite iz obveznog zdravstvenog osiguranja | [`odluka/2011/21/`](odluka/2011/21/) | amended, not consolidated | 1 | 2011-01-03 | 2011-01-03 |
