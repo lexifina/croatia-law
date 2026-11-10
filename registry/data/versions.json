@@ -16397,6 +16397,306 @@
    ]
   },
   {
+   "slug": "zakon-2011-3091",
+   "path": "zakon/2011/3091",
+   "short": "Zakon o izmjenama Ovršnog zakona",
+   "title": "Zakon o izmjenama Ovršnog zakona",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/150/3091",
+   "versions": [
+    {
+     "from": "2011-12-22",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_12_150_3091.html",
+     "sha256": "6a4ed91b57230a563746357225cbddad7e9bc965198f3f592369f4a3f2ce4797"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2011-3092",
+   "path": "zakon/2011/3092",
+   "short": "Zakon o izmjeni Zakona o javnim ovršiteljima",
+   "title": "Zakon o izmjeni Zakona o javnim ovršiteljima",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/150/3092",
+   "versions": [
+    {
+     "from": "2011-12-22",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_12_150_3092.html",
+     "sha256": "05b44e0dfed9d55cd10f6e7d5c3bbde06ef6294f671d9f5fece68afe9d9fd321"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2011-310",
+   "path": "zakon/2011/310",
+   "short": "Zakon o mirenju",
+   "title": "Zakon o mirenju",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/18/310",
+   "versions": [
+    {
+     "from": "2011-02-17",
+     "units": 28,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_02_18_310.html",
+     "sha256": "a25755708059fe456d5967ae41de733797d68c9565290b588d5eedf375e50780"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2011-312",
+   "path": "zakon/2011/312",
+   "short": "Zakon o izmjenama Zakona o zaštiti svjedoka",
+   "title": "Zakon o izmjenama Zakona o zaštiti svjedoka",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/18/312",
+   "versions": [
+    {
+     "from": "2011-02-17",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_02_18_312.html",
+     "sha256": "511509af480479093b8df6d6ac9e0bdb5f786ae2638856187b9b2485c22174f5"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2011-313",
+   "path": "zakon/2011/313",
+   "short": "Zakon o izmjenama i dopuni Zakona o odvjetništvu",
+   "title": "Zakon o izmjenama i dopuni Zakona o odvjetništvu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/18/313",
+   "versions": [
+    {
+     "from": "2011-02-17",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_02_18_313.html",
+     "sha256": "ec9b71e7c468be4d1b761736264b387c3081aadb3fc3b1777e64d967d5ede2e1"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2011-314",
+   "path": "zakon/2011/314",
+   "short": "Zakon o izmjeni Zakona o izvršavanju kazne zatvora",
+   "title": "Zakon o izmjeni Zakona o izvršavanju kazne zatvora",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/18/314",
+   "versions": [
+    {
+     "from": "2011-02-17",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_02_18_314.html",
+     "sha256": "0241881231b20f02353883bc8d2fb49b71bb8314b521f67d81f0de6fe75ea265"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2011-315",
+   "path": "zakon/2011/315",
+   "short": "Zakon o izmjenama i dopunama Općeg poreznog zakona",
+   "title": "Zakon o izmjenama i dopunama Općeg poreznog zakona",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/18/315",
+   "versions": [
+    {
+     "from": "2011-02-17",
+     "units": 27,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_02_18_315.html",
+     "sha256": "d82f3a80b4242bc2dff4abbdee5ce7efdb182bf983b6122238399fd62e6622d4"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2011-316",
+   "path": "zakon/2011/316",
+   "short": "Zakon o izmjenama i dopunama Zakona o doprinosima",
+   "title": "Zakon o izmjenama i dopunama Zakona o doprinosima",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/18/316",
+   "versions": [
+    {
+     "from": "2011-02-17",
+     "units": 44,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_02_18_316.html",
+     "sha256": "a485f3a4ba636e1479c9dec8f6454f85cd236e78ef1407016404909f484c3aa6"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2011-317",
+   "path": "zakon/2011/317",
+   "short": "Zakon o izmjenama i dopunama Zakona o tržištu nafte i naftnih derivata",
+   "title": "Zakon o izmjenama i dopunama Zakona o tržištu nafte i naftnih derivata",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/18/317",
+   "versions": [
+    {
+     "from": "2011-02-17",
+     "units": 26,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_02_18_317.html",
+     "sha256": "34595df7111d8e56edf30f993e02fbff091f927298d2f97f36cc90ba6867ea4b"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2011-318",
+   "path": "zakon/2011/318",
+   "short": "Zakon o izmjeni i dopunama Zakona o prijevozu u linijskom i povremenom obalnom pomorskom prometu",
+   "title": "Zakon o izmjeni i dopunama Zakona o prijevozu u linijskom i povremenom obalnom pomorskom prometu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/18/318",
+   "versions": [
+    {
+     "from": "2011-02-17",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_02_18_318.html",
+     "sha256": "7a6ade24b2d8263b1089b98e2403e62e504aed722040d7d3875851c740ee0d6b"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2011-452",
+   "path": "zakon/2011/452",
+   "short": "Zakona o izmjenama i dopunama Zakona o porezu na promet nekretnina",
+   "title": "Zakona o izmjenama i dopunama Zakona o porezu na promet nekretnina",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/22/452",
+   "versions": [
+    {
+     "from": "2011-02-26",
+     "units": 16,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_02_22_452.html",
+     "sha256": "e26e6ee66223aed3cf23fb0b7f0b9b9e6643727998b9c82ea32ff6c1e29aef68"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2011-453",
+   "path": "zakon/2011/453",
+   "short": "Zakon o izmjenama i dopunama Zakona o uređenju tržišta poljoprivrednih proizvoda",
+   "title": "Zakon o izmjenama i dopunama Zakona o uređenju tržišta poljoprivrednih proizvoda",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/22/453",
+   "versions": [
+    {
+     "from": "2011-02-26",
+     "units": 27,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_02_22_453.html",
+     "sha256": "7fd54a46ed3ef380f4fd44100ccd51dc079349d614707023bd4a8531b25f8587"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2011-454",
+   "path": "zakon/2011/454",
+   "short": "Zakon o izmjenama i dopunama Zakona o zdravstvenoj zaštiti",
+   "title": "Zakon o izmjenama i dopunama Zakona o zdravstvenoj zaštiti",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/22/454",
+   "versions": [
+    {
+     "from": "2011-02-18",
+     "units": 6,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_02_22_454.html",
+     "sha256": "2dce565883a105af70f24784a391577cbf0b717068fd29bf7e4c26008e93fa0a"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2011-495",
+   "path": "zakon/2011/495",
+   "short": "Zakon o financiranju političkih aktivnosti i izborne promidžbe",
+   "title": "Zakon o financiranju političkih aktivnosti i izborne promidžbe",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/24/495",
+   "versions": [
+    {
+     "from": "2011-03-03",
+     "units": 54,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_02_24_495.html",
+     "sha256": "f5c53bea5c8ec51266c8ab88e74b81d854749bd2f962f70c5a5373b2fafbcf42"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2011-547",
+   "path": "zakon/2011/547",
+   "short": "Zakon o sprječavanju sukoba interesa",
+   "title": "Zakon o sprječavanju sukoba interesa",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/26/547",
+   "versions": [
+    {
+     "from": "2011-03-10",
+     "units": 59,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_03_26_547.html",
+     "sha256": "e5f696d54147a5a20519be75982e6b93009cd5e253ef64c8654cab9a86e5f0fa"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2011-548",
+   "path": "zakon/2011/548",
+   "short": "Zakon o dopunama Zakona o biogorivima za prijevoz",
+   "title": "Zakon o dopunama Zakona o biogorivima za prijevoz",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/26/548",
+   "versions": [
+    {
+     "from": "2011-03-02",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_03_26_548.html",
+     "sha256": "b39831137e799b19586fcafb41f70b48097eb3be446dfcbdb97815684ab57b76"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2011-557",
+   "path": "zakon/2011/557",
+   "short": "Zakon o izmjenama i dopunama Zakona o sudovima",
+   "title": "Zakon o izmjenama i dopunama Zakona o sudovima",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/27/557",
+   "versions": [
+    {
+     "from": "2011-03-11",
+     "units": 14,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_03_27_557.html",
+     "sha256": "1466529733646d1202618c67ca972621814a9b73fcee4aba107ae8a8a188ea3b"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2011-763",
+   "path": "zakon/2011/763",
+   "short": "Zakon o Registru zaposlenih u javnom sektoru",
+   "title": "Zakon o Registru zaposlenih u javnom sektoru",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/34/763",
+   "versions": [
+    {
+     "from": "2011-03-31",
+     "units": 12,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_03_34_763.html",
+     "sha256": "e39333031ab5dfb27fb5c7e859fd4d7c4a96517e0e24d3c7f60836ee951cae18"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2011-766",
+   "path": "zakon/2011/766",
+   "short": "Zakon o izmjenama i dopunama Zakona o sprječavanju nereda na športskim natjecanjima",
+   "title": "Zakon o izmjenama i dopunama Zakona o sprječavanju nereda na športskim natjecanjima",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/34/766",
+   "versions": [
+    {
+     "from": "2011-03-31",
+     "units": 23,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_03_34_766.html",
+     "sha256": "f2981af6c3578e55b97df4931d9eab3fa794765cfc4fa80a8155777f4340e0b6"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2011-767",
+   "path": "zakon/2011/767",
+   "short": "Zakon o izmjenama i dopunama Zakon o rodiljnim i roditeljskim potporama",
+   "title": "Zakon o izmjenama i dopunama Zakon o rodiljnim i roditeljskim potporama",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/34/767",
+   "versions": [
+    {
+     "from": "2011-03-31",
+     "units": 41,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_03_34_767.html",
+     "sha256": "d9619f7db2961c4713993d2f940c99bfbca069aca3a6becf9fdf85c0ffaaf347"
+    }
+   ]
+  },
+  {
    "slug": "naputak-2012-1673",
    "path": "naputak/2012/1673",
    "short": "Naputak o otkrivanju, postupanju i izvješćivanju o nepravilnostima u upravljanju sredstvima proračuna, proračunskih i izvanproračunskih korisnika",
@@ -29023,6 +29323,1836 @@
      "units": 8,
      "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2012_03_36_925.html",
      "sha256": "7dd65fbc1e6c027d72eb3cf31f8d59238653f5f915b31964223876e6860d5fe3"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2012-1225",
+   "path": "zakon/2012/1225",
+   "short": "Zakon o izmjenama i dopunama Zakona o Hrvatskoj poljoprivrednoj komori",
+   "title": "Zakon o izmjenama i dopunama Zakona o Hrvatskoj poljoprivrednoj komori",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2012/50/1225",
+   "versions": [
+    {
+     "from": "2012-05-10",
+     "units": 12,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2012_05_50_1225.html",
+     "sha256": "089f98adaa1d7d8381c58db207896872544c778cb47a41e597c54fa7b1d2f9c8"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2012-1226",
+   "path": "zakon/2012/1226",
+   "short": "Zakon o izmjenama Zakona o prostornom uređenju i gradnji",
+   "title": "Zakon o izmjenama Zakona o prostornom uređenju i gradnji",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2012/50/1226",
+   "versions": [
+    {
+     "from": "2012-05-10",
+     "units": 8,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2012_05_50_1226.html",
+     "sha256": "e7d38329c5e7cf5443a498cc9538b5238bc9283307eaddb08a889d31c93a8f9b"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2012-1227",
+   "path": "zakon/2012/1227",
+   "short": "Zakon o izmjeni i dopuni Zakona o grobljima",
+   "title": "Zakon o izmjeni i dopuni Zakona o grobljima",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2012/50/1227",
+   "versions": [
+    {
+     "from": "2012-05-10",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2012_05_50_1227.html",
+     "sha256": "f03f195d121d642ad97bf906c3c36f9c8600b54f5f2e33119b9b39ef151867b7"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2012-1228",
+   "path": "zakon/2012/1228",
+   "short": "Zakon o izmjenama i dopunama Zakona o ugostiteljskoj djelatnosti",
+   "title": "Zakon o izmjenama i dopunama Zakona o ugostiteljskoj djelatnosti",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2012/50/1228",
+   "versions": [
+    {
+     "from": "2012-05-10",
+     "units": 11,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2012_05_50_1228.html",
+     "sha256": "605355d11c9875aff8f2c8fb62996fcd2381f292e50ee74167715c7a73702b0e"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2012-1291",
+   "path": "zakon/2012/1291",
+   "short": "Zakon o izmjenama i dopunama Zakona o poticanju razvoja malog gospodarstva",
+   "title": "Zakon o izmjenama i dopunama Zakona o poticanju razvoja malog gospodarstva",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2012/53/1291",
+   "versions": [
+    {
+     "from": "2012-05-11",
+     "units": 15,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2012_05_53_1291.html",
+     "sha256": "7deef66f7a9b4f512b3c5337dd6eb7f3a49bfa5b2904e8cefaaffbe844eba2c1"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2012-1358",
+   "path": "zakon/2012/1358",
+   "short": "Zakon o izmjenama i dopunama Zakona o učinkovitom korištenju energije u neposrednoj potrošnji",
+   "title": "Zakon o izmjenama i dopunama Zakona o učinkovitom korištenju energije u neposrednoj potrošnji",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2012/55/1358",
+   "versions": [
+    {
+     "from": "2012-05-24",
+     "units": 33,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2012_05_55_1358.html",
+     "sha256": "f9ba19afcac5d8a83ab6f6435f11acce64149469522a9fc52e1e18ab170ea65e"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2012-1410",
+   "path": "zakon/2012/1410",
+   "short": "Zakon o poticanju zapošljavanja",
+   "title": "Zakon o poticanju zapošljavanja",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2012/57/1410",
+   "versions": [
+    {
+     "from": "2012-05-31",
+     "units": 19,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2012_05_57_1410.html",
+     "sha256": "c14588414b1c0734f505f85ac9abf037ec06dc81df97f497a3b667fd0413e1e5"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2012-1411",
+   "path": "zakon/2012/1411",
+   "short": "Zakon o dopuni Zakona o podjeli trgovačkog društva HŽ-Hrvatske željeznice d.o.o.",
+   "title": "Zakon o dopuni Zakona o podjeli trgovačkog društva HŽ-Hrvatske željeznice d.o.o.",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2012/57/1411",
+   "versions": [
+    {
+     "from": "2012-05-31",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2012_05_57_1411.html",
+     "sha256": "35235445271e74420e924a5a352ae1008aa757b6f29df074780e173d07237a5a"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2012-1412",
+   "path": "zakon/2012/1412",
+   "short": "Zakon o izmjeni i dopuni Zakona o obveznom zdravstvenom osiguranju",
+   "title": "Zakon o izmjeni i dopuni Zakona o obveznom zdravstvenom osiguranju",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2012/57/1412",
+   "versions": [
+    {
+     "from": "2012-05-31",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2012_05_57_1412.html",
+     "sha256": "bc3dc1bc1f480dfe1c25e4815bb1e9e9d53dca68b6e5ced572c6ff5dd5f2e425"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2012-1457",
+   "path": "zakon/2012/1457",
+   "short": "Zakon o izmjenama i dopunama Zakona o financijskom osiguranju",
+   "title": "Zakon o izmjenama i dopunama Zakona o financijskom osiguranju",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2012/59/1457",
+   "versions": [
+    {
+     "from": "2012-06-05",
+     "units": 10,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2012_05_59_1457.html",
+     "sha256": "7a4ed544d26a5db5c7b4588289bd15b2c3e8948b55d887c66f371a93a82b7be4"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2012-1458",
+   "path": "zakon/2012/1458",
+   "short": "Zakon o izmjenama i dopunama Zakona o službenoj statistici",
+   "title": "Zakon o izmjenama i dopunama Zakona o službenoj statistici",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2012/59/1458",
+   "versions": [
+    {
+     "from": "2012-06-05",
+     "units": 33,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2012_05_59_1458.html",
+     "sha256": "f6828fddef5690a2044590d10d48abe66ee8a19609074136bbb13200585a6b0a"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2012-1460",
+   "path": "zakon/2012/1460",
+   "short": "Zakon o izmjenama i dopunama Zakona o sigurnosnoj zaštiti pomorskih brodova i luka",
+   "title": "Zakon o izmjenama i dopunama Zakona o sigurnosnoj zaštiti pomorskih brodova i luka",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2012/59/1460",
+   "versions": [
+    {
+     "from": "2012-06-05",
+     "units": 12,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2012_05_59_1460.html",
+     "sha256": "4edc819f1786dc86c11e56f4b066afad312360167ada4df6d74aba5b5c1e12b9"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2012-1461",
+   "path": "zakon/2012/1461",
+   "short": "Zakon o dopunama Zakona o tržištu električne energije",
+   "title": "Zakon o dopunama Zakona o tržištu električne energije",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2012/59/1461",
+   "versions": [
+    {
+     "from": "2012-06-05",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2012_05_59_1461.html",
+     "sha256": "191a63c52309162589a21d0b900989beaa81f4c757d746d77050bca98510a04c"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2012-1639",
+   "path": "zakon/2012/1639",
+   "short": "Zakon o izmjenama Ovršnog zakona",
+   "title": "Zakon o izmjenama Ovršnog zakona",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2012/70/1639",
+   "versions": [
+    {
+     "from": "2012-06-28",
+     "units": 6,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2012_06_70_1639.html",
+     "sha256": "ca6f61f06d5818f6b8ca3de20cc2fbcae77c4c81ea34d11bc7de7f26828e0d99"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2012-1640",
+   "path": "zakon/2012/1640",
+   "short": "Zakon o izmjeni Zakona o javnim ovršiteljima",
+   "title": "Zakon o izmjeni Zakona o javnim ovršiteljima",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2012/70/1640",
+   "versions": [
+    {
+     "from": "2012-06-28",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2012_06_70_1640.html",
+     "sha256": "e5f66a63cf74289c40131ae845712466cc1283a700e4594eb943436bede86e0a"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2012-1641",
+   "path": "zakon/2012/1641",
+   "short": "Zakon o izmjeni Zakona o upravljanju državnom imovinom",
+   "title": "Zakon o izmjeni Zakona o upravljanju državnom imovinom",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2012/70/1641",
+   "versions": [
+    {
+     "from": "2012-07-06",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2012_06_70_1641.html",
+     "sha256": "98883767e7c341da4b17e9f503f5d67885150e54a9c9b29e50da8793d7399b6f"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2012-1642",
+   "path": "zakon/2012/1642",
+   "short": "Zakon o izmjeni i dopuni Zakona o zdravstvenoj zaštiti",
+   "title": "Zakon o izmjeni i dopuni Zakona o zdravstvenoj zaštiti",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2012/70/1642",
+   "versions": [
+    {
+     "from": "2012-07-06",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2012_06_70_1642.html",
+     "sha256": "acf8728ddf8c5e203697a93bf091a331f19126c9ce9d8e4b8b449cf46a9da542"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2012-1759",
+   "path": "zakon/2012/1759",
+   "short": "Zakon o izmjenama i dopunama Zakona o Hrvatskoj radioteleviziji",
+   "title": "Zakon o izmjenama i dopunama Zakona o Hrvatskoj radioteleviziji",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2012/76/1759",
+   "versions": [
+    {
+     "from": "2012-07-09",
+     "units": 26,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2012_07_76_1759.html",
+     "sha256": "89f2ab2be22442def38d1cc71f5cc0ec99b526bc8039165e5a314674484e3247"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2012-1760",
+   "path": "zakon/2012/1760",
+   "short": "Zakon o prestanku važenja Zakona o naknadi za pružanje usluga u pokretnim elektroničkim komunikacijskim mrežama",
+   "title": "Zakon o prestanku važenja Zakona o naknadi za pružanje usluga u pokretnim elektroničkim komunikacijskim mrežama",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2012/76/1760",
+   "versions": [
+    {
+     "from": "2012-07-09",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2012_07_76_1760.html",
+     "sha256": "b16c39eceb192af86e201e3b0f48ba0b66ec5b651b874536cdcd590b0fcb1ab5"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2012-1762",
+   "path": "zakon/2012/1762",
+   "short": "Zakon o izmjenama i dopunama Zakona o mirovinskom osiguranju",
+   "title": "Zakon o izmjenama i dopunama Zakona o mirovinskom osiguranju",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2012/76/1762",
+   "versions": [
+    {
+     "from": "2012-07-17",
+     "units": 11,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2012_07_76_1762.html",
+     "sha256": "49100126300d41a870a8fa0ef81b7efdbcf5cfa8138df01b803462851877e174"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2012-1835",
+   "path": "zakon/2012/1835",
+   "short": "Zakon o izmjenama i dopunama Zakona o javnom okupljanju",
+   "title": "Zakon o izmjenama i dopunama Zakona o javnom okupljanju",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2012/78/1835",
+   "versions": [
+    {
+     "from": "2012-07-15",
+     "units": 6,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2012_07_78_1835.html",
+     "sha256": "2bfddd9a35a26b3f22d1de290fc565a86e819342159fd52b33213108ee79bcc3"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2012-1836",
+   "path": "zakon/2012/1836",
+   "short": "Zakon o izmjenama i dopunama Općeg poreznog zakona",
+   "title": "Zakon o izmjenama i dopunama Općeg poreznog zakona",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2012/78/1836",
+   "versions": [
+    {
+     "from": "2012-07-21",
+     "units": 21,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2012_07_78_1836.html",
+     "sha256": "074a276a01732c61857982cff008e9dc2431a3baae53b40a807e06c32dde68bc"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2012-1837",
+   "path": "zakon/2012/1837",
+   "short": "Zakon o izmjenama i dopunama Zakona o posebnim porezima na osobne automobile, ostala motorna vozila, plovila i zrakoplove",
+   "title": "Zakon o izmjenama i dopunama Zakona o posebnim porezima na osobne automobile, ostala motorna vozila, plovila i zrakoplove",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2012/78/1837",
+   "versions": [
+    {
+     "from": "2012-07-21",
+     "units": 10,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2012_07_78_1837.html",
+     "sha256": "bbfe7181e26fbd33df80818629d1056a9d7b99124c7edaccec27dd0f6359ec5c"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2012-1838",
+   "path": "zakon/2012/1838",
+   "short": "Zakon o dopuni Zakona o mjerama naplate poreznog duga uzrokovanoga gospodarskom krizom",
+   "title": "Zakon o dopuni Zakona o mjerama naplate poreznog duga uzrokovanoga gospodarskom krizom",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2012/78/1838",
+   "versions": [
+    {
+     "from": "2012-07-13",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2012_07_78_1838.html",
+     "sha256": "db79ce77fb69d6669b8d8fa27b03d6d247100b803423d4743e4f1a1753523fe6"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2012-1841",
+   "path": "zakon/2012/1841",
+   "short": "Zakon o izmjenama i dopuni Zakona o Hrvatskoj zakladi za znanost",
+   "title": "Zakon o izmjenama i dopuni Zakona o Hrvatskoj zakladi za znanost",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2012/78/1841",
+   "versions": [
+    {
+     "from": "2012-07-13",
+     "units": 22,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2012_07_78_1841.html",
+     "sha256": "567219fa1250bcac1e5da2a7ae36d709c5cadc0838d02cfb7f59bc689f29f5bc"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2012-1964",
+   "path": "zakon/2012/1964",
+   "short": "Zakon o sportskoj inspekciji",
+   "title": "Zakon o sportskoj inspekciji",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2012/86/1964",
+   "versions": [
+    {
+     "from": "2012-08-04",
+     "units": 36,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2012_07_86_1964.html",
+     "sha256": "7013f74a66ba21a4804448d8303162e88b01ac5c119d41f938a56a09ca6421a6"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2012-1965",
+   "path": "zakon/2012/1965",
+   "short": "Zakon o izmjenama i dopunama Zakona o športu",
+   "title": "Zakon o izmjenama i dopunama Zakona o športu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2012/86/1965",
+   "versions": [
+    {
+     "from": "2012-08-04",
+     "units": 25,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2012_07_86_1965.html",
+     "sha256": "670768959c9cb23d1c66a0ec34ab191d7a6c19c335b93759fa7fbb930bd34dd5"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2012-1966",
+   "path": "zakon/2012/1966",
+   "short": "Zakon o izmjenama i dopunama Zakona o društveno poticanoj stanogradnji",
+   "title": "Zakon o izmjenama i dopunama Zakona o društveno poticanoj stanogradnji",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2012/86/1966",
+   "versions": [
+    {
+     "from": "2012-08-04",
+     "units": 22,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2012_07_86_1966.html",
+     "sha256": "6b8a54d55a287218cbc88af0be5384252b100786a9e0422119973d61772da9da"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2012-1967",
+   "path": "zakon/2012/1967",
+   "short": "Zakon o izmjenama i dopunama Zakona o odgoju i obrazovanju u osnovnoj i srednjoj školi",
+   "title": "Zakon o izmjenama i dopunama Zakona o odgoju i obrazovanju u osnovnoj i srednjoj školi",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2012/86/1967",
+   "versions": [
+    {
+     "from": "2012-08-04",
+     "units": 38,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2012_07_86_1967.html",
+     "sha256": "04c115e7226d3e8abb0b39f6afa70d61366daec12d487f1bc4d09409aed95970"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2012-1968",
+   "path": "zakon/2012/1968",
+   "short": "Zakon o izmjenama i dopunama Zakona o sigurnosnim provjerama",
+   "title": "Zakon o izmjenama i dopunama Zakona o sigurnosnim provjerama",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2012/86/1968",
+   "versions": [
+    {
+     "from": "2012-08-04",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2012_07_86_1968.html",
+     "sha256": "927c1f6b5c587cb284dadf481aa096271ff73416a3c4593b1cc9f664f5ce17cd"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2012-1969",
+   "path": "zakon/2012/1969",
+   "short": "Zakon o izmjeni Zakona o tajnosti podataka",
+   "title": "Zakon o izmjeni Zakona o tajnosti podataka",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2012/86/1969",
+   "versions": [
+    {
+     "from": "2012-08-04",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2012_07_86_1969.html",
+     "sha256": "7e3c367b5d42b1c7dd1956218a1ead040efded94559f6e99a838732dd9187614"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2012-2362",
+   "path": "zakon/2012/2362",
+   "short": "Zakon o ovlasti Vlade Republike Hrvatske da uredbama uređuje pojedina pitanja iz djelokruga Hrvatskoga sabora",
+   "title": "Zakon o ovlasti Vlade Republike Hrvatske da uredbama uređuje pojedina pitanja iz djelokruga Hrvatskoga sabora",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2012/108/2362",
+   "versions": [
+    {
+     "from": "2012-10-01",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2012_10_108_2362.html",
+     "sha256": "81f2f031aa2e4fcb3e08a76cb249e1b46c5e3400b19866bc34ccfd2d1f45c1e2"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2012-2363",
+   "path": "zakon/2012/2363",
+   "short": "Zakon o dopunama Zakona o kreditnim institucijama",
+   "title": "Zakon o dopunama Zakona o kreditnim institucijama",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2012/108/2363",
+   "versions": [
+    {
+     "from": "2012-10-01",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2012_10_108_2363.html",
+     "sha256": "4c58e13052c71dddced851faa657ada044790c79e04dd259b6b900caf4d6b28b"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2012-2364",
+   "path": "zakon/2012/2364",
+   "short": "Zakon o izmjeni i dopuni Zakona o preuzimanju dioničkih društava",
+   "title": "Zakon o izmjeni i dopuni Zakona o preuzimanju dioničkih društava",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2012/108/2364",
+   "versions": [
+    {
+     "from": "2012-10-01",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2012_10_108_2364.html",
+     "sha256": "1d367047210e3e642875a8979d759834f45125277b49632c1aa9597130e97218"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2012-2392",
+   "path": "zakon/2012/2392",
+   "short": "Zakon o izmjenama i dopunama Zakona o trgovačkim društvima",
+   "title": "Zakon o izmjenama i dopunama Zakona o trgovačkim društvima",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2012/111/2392",
+   "versions": [
+    {
+     "from": "2012-10-18",
+     "units": 50,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2012_10_111_2392.html",
+     "sha256": "b84d3471d6222893d85f711afb3ae7fc7560c31dc54636792dfddc35de113423"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2012-2393",
+   "path": "zakon/2012/2393",
+   "short": "Zakon o izmjenama i dopunama Zakona o trošarinama",
+   "title": "Zakon o izmjenama i dopunama Zakona o trošarinama",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2012/111/2393",
+   "versions": [
+    {
+     "from": "2012-10-18",
+     "units": 11,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2012_10_111_2393.html",
+     "sha256": "10925f48e6bab3ab62cc5573ca798977ddc7bc971c2089b02c526965b84d5e15"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2012-2422",
+   "path": "zakon/2012/2422",
+   "short": "Zakon o izmjenama i dopunama Zakona o provedbi ovrhe na novčanim sredstvima",
+   "title": "Zakon o izmjenama i dopunama Zakona o provedbi ovrhe na novčanim sredstvima",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2012/112/2422",
+   "versions": [
+    {
+     "from": "2012-10-15",
+     "units": 13,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2012_10_112_2422.html",
+     "sha256": "3e641c1fbf2177cc057796c0032e1044abc2b2b65a6b5dd4f9e263fcd0dd0b6b"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2012-2423",
+   "path": "zakon/2012/2423",
+   "short": "Zakon o prestanku važenja Zakona o javnim ovršiteljima",
+   "title": "Zakon o prestanku važenja Zakona o javnim ovršiteljima",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2012/112/2423",
+   "versions": [
+    {
+     "from": "2012-10-15",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2012_10_112_2423.html",
+     "sha256": "6e59f4d5576e47c573ad2ccf3fd44b92b5f1dc0ca8548ca0f6ba4f2cac3d7952"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2012-2424",
+   "path": "zakon/2012/2424",
+   "short": "Zakon o prestanku važenja Zakona o javnoovršiteljskim pristojbama",
+   "title": "Zakon o prestanku važenja Zakona o javnoovršiteljskim pristojbama",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2012/112/2424",
+   "versions": [
+    {
+     "from": "2012-10-15",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2012_10_112_2424.html",
+     "sha256": "b1ce3ab16b4d2905fee08fc386c32d35e15990db9723d007dec8994cf64fa506"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2012-2425",
+   "path": "zakon/2012/2425",
+   "short": "Zakon o dopuni Zakona o sudskim pristojbama",
+   "title": "Zakon o dopuni Zakona o sudskim pristojbama",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2012/112/2425",
+   "versions": [
+    {
+     "from": "2012-10-19",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2012_10_112_2425.html",
+     "sha256": "4581e44a8b0b78703db747a5937df7684d03ffd7deded3c86fbeceeda1c3065d"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2012-2426",
+   "path": "zakon/2012/2426",
+   "short": "Zakon o dopuni Zakona o javnobilježničkim pristojbama",
+   "title": "Zakon o dopuni Zakona o javnobilježničkim pristojbama",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2012/112/2426",
+   "versions": [
+    {
+     "from": "2012-10-19",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2012_10_112_2426.html",
+     "sha256": "eb1fe756432bad7734f16ea56582e142235bd7ed687f76852bd007369ba2e52b"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2012-2427",
+   "path": "zakon/2012/2427",
+   "short": "Zakon o izmjenama i dopunama Zakona o Poreznoj upravi",
+   "title": "Zakon o izmjenama i dopunama Zakona o Poreznoj upravi",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2012/112/2427",
+   "versions": [
+    {
+     "from": "2012-10-19",
+     "units": 9,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2012_10_112_2427.html",
+     "sha256": "1e549c20c593410571c5082d71946a24bf7f52d80dd289dad67e05f81c0694c2"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2012-2428",
+   "path": "zakon/2012/2428",
+   "short": "Zakon o izmjenama i dopunama Zakona o potrošačkom kreditiranju",
+   "title": "Zakon o izmjenama i dopunama Zakona o potrošačkom kreditiranju",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2012/112/2428",
+   "versions": [
+    {
+     "from": "2012-10-19",
+     "units": 17,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2012_10_112_2428.html",
+     "sha256": "64705c7dc28c0d6ba3d5d5c7ae7778cf45620125e8087cde8004e523c90623d7"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2012-2429",
+   "path": "zakon/2012/2429",
+   "short": "Zakon o izmjeni i dopuni Zakona o doplatku za djecu",
+   "title": "Zakon o izmjeni i dopuni Zakona o doplatku za djecu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2012/112/2429",
+   "versions": [
+    {
+     "from": "2013-01-01",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2012_10_112_2429.html",
+     "sha256": "9ada906fe9d325a6acf6da1e29484d3b6e11628dece3e75a753da78c5e84981e"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2012-2430",
+   "path": "zakon/2012/2430",
+   "short": "Zakon o izmjenama i dopunama Zakona o suzbijanju diskriminacije",
+   "title": "Zakon o izmjenama i dopunama Zakona o suzbijanju diskriminacije",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2012/112/2430",
+   "versions": [
+    {
+     "from": "2012-10-19",
+     "units": 8,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2012_10_112_2430.html",
+     "sha256": "529504fb4b6ca14087a82e0db125d038d48bc76aed188fe2c5e6a892cace1bdb"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2012-2551",
+   "path": "zakon/2012/2551",
+   "short": "Zakon o izmjenama i dopunama Zakona o akademskim i stručnim nazivima i akademskom stupnju",
+   "title": "Zakon o izmjenama i dopunama Zakona o akademskim i stručnim nazivima i akademskom stupnju",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2012/118/2551",
+   "versions": [
+    {
+     "from": "2012-11-03",
+     "units": 6,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2012_10_118_2551.html",
+     "sha256": "0c9817c68007cfb0b0ae789a7e46a2c27027a3e7870286ccc021692fa9d354d6"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2012-2552",
+   "path": "zakon/2012/2552",
+   "short": "Zakon o izmjenama Zakona o pravima iz mirovinskog osiguranja djelatnih vojnih osoba, policijskih službenika i ovlaštenih službenih osoba",
+   "title": "Zakon o izmjenama Zakona o pravima iz mirovinskog osiguranja djelatnih vojnih osoba, policijskih službenika i ovlaštenih službenih osoba",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2012/118/2552",
+   "versions": [
+    {
+     "from": "2012-10-26",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2012_10_118_2552.html",
+     "sha256": "0c87b239a011b9d026fae5b54640f4fc0abc52a76eef5852b4bea5f9c5d5e0b7"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2012-2553",
+   "path": "zakon/2012/2553",
+   "short": "Zakon o dopuni Zakona o posredovanju pri zapošljavanju i pravima za vrijeme nezaposlenosti",
+   "title": "Zakon o dopuni Zakona o posredovanju pri zapošljavanju i pravima za vrijeme nezaposlenosti",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2012/118/2553",
+   "versions": [
+    {
+     "from": "2012-11-03",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2012_10_118_2553.html",
+     "sha256": "bc771eac49da9d74fd4be54b8d2493b311319ae7937b6ac113e908773a013e26"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2012-2585",
+   "path": "zakon/2012/2585",
+   "short": "Zakon o izmjenama i dopunama Zakona o Centru za praćenje poslovanja energetskog sektora i investicija",
+   "title": "Zakon o izmjenama i dopunama Zakona o Centru za praćenje poslovanja energetskog sektora i investicija",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2012/120/2585",
+   "versions": [
+    {
+     "from": "2012-10-31",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2012_10_120_2585.html",
+     "sha256": "20a34ccf939b41003b052907b941198b29df098556dd3a371a3b5724223415db"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2012-2587",
+   "path": "zakon/2012/2587",
+   "short": "Zakon o izmjenama i dopunama Zakona o poljoprivredi",
+   "title": "Zakon o izmjenama i dopunama Zakona o poljoprivredi",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2012/120/2587",
+   "versions": [
+    {
+     "from": "2012-11-08",
+     "units": 18,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2012_10_120_2587.html",
+     "sha256": "512fe8953bf7c9704e3ac613d7dabb3aa4b22f722bc89950e8592a054e58d8d0"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2012-2588",
+   "path": "zakon/2012/2588",
+   "short": "Zakon o izmjenama i dopunama Zakona o uređenju tržišta poljoprivrednih proizvoda",
+   "title": "Zakon o izmjenama i dopunama Zakona o uređenju tržišta poljoprivrednih proizvoda",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2012/120/2588",
+   "versions": [
+    {
+     "from": "2012-11-08",
+     "units": 28,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2012_10_120_2588.html",
+     "sha256": "f2c60e6145112663761d93799a97ad997e417eb4007eb4071b6fd29893e03196"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2012-2589",
+   "path": "zakon/2012/2589",
+   "short": "Zakon o izmjenama i dopunama Zakona o djelatnosti socijalnog rada",
+   "title": "Zakon o izmjenama i dopunama Zakona o djelatnosti socijalnog rada",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2012/120/2589",
+   "versions": [
+    {
+     "from": "2012-11-08",
+     "units": 16,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2012_10_120_2589.html",
+     "sha256": "de479d2abe46c4e9a908a0eb321ed360b6eebf9fbf00154e73ec37761fe38d2e"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2012-2590",
+   "path": "zakon/2012/2590",
+   "short": "Zakon o izmjenama i dopunama Zakona o poticanju zapošljavanja",
+   "title": "Zakon o izmjenama i dopunama Zakona o poticanju zapošljavanja",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2012/120/2590",
+   "versions": [
+    {
+     "from": "2012-11-08",
+     "units": 10,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2012_10_120_2590.html",
+     "sha256": "d95910243b43fb63a49a303a5029febc6fb37e7f157ebe2c627cc3707e3a27a5"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2012-2677",
+   "path": "zakon/2012/2677",
+   "short": "Zakon o izmjenama Zakona o obveznom zdravstvenom osiguranju",
+   "title": "Zakon o izmjenama Zakona o obveznom zdravstvenom osiguranju",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2012/123/2677",
+   "versions": [
+    {
+     "from": "2012-11-17",
+     "units": 10,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2012_11_123_2677.html",
+     "sha256": "ce02e935960c6648257653a80d0762e0719ae82abf5428fe742b852732985e7c"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2012-2767",
+   "path": "zakon/2012/2767",
+   "short": "Zakon o izmjeni Zakona o policiji",
+   "title": "Zakon o izmjeni Zakona o policiji",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2012/130/2767",
+   "versions": [
+    {
+     "from": "2012-12-06",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2012_11_130_2767.html",
+     "sha256": "a92adda34698209358723c18b6c2972c9daf6499ab38b938c2b32ede87da0bec"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2012-2819",
+   "path": "zakon/2012/2819",
+   "short": "Zakon o izmjenama i dopunama Zakona o izvršavanju Državnog proračuna Republike Hrvatske za 2012. godinu",
+   "title": "Zakon o izmjenama i dopunama Zakona o izvršavanju Državnog proračuna Republike Hrvatske za 2012. godinu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2012/132/2819",
+   "versions": [
+    {
+     "from": "2012-11-30",
+     "units": 6,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2012_11_132_2819.html",
+     "sha256": "83ebf545852ea4ad02d783bacd156316692f6ee797b92713258f35cb32da9999"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2012-2822",
+   "path": "zakon/2012/2822",
+   "short": "Zakon o fiskalizaciji u prometu gotovinom",
+   "title": "Zakon o fiskalizaciji u prometu gotovinom",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2012/133/2822",
+   "versions": [
+    {
+     "from": "2013-01-01",
+     "units": 40,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2012_12_133_2822.html",
+     "sha256": "9ce0784e6004839c9ffa7b156cef4908884b467e29856ec2ae3e168d7f8d69f4"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2012-2824",
+   "path": "zakon/2012/2824",
+   "short": "Zakon o izmjenama Zakona o elektroničkim komunikacijama",
+   "title": "Zakon o izmjenama Zakona o elektroničkim komunikacijama",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2012/133/2824",
+   "versions": [
+    {
+     "from": "2012-12-03",
+     "units": 6,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2012_12_133_2824.html",
+     "sha256": "c2ce07b25848afe3f639ed2268ce3af6302757855f4db0fa6ea65a0bc56f24bf"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2012-2825",
+   "path": "zakon/2012/2825",
+   "short": "Zakon o izmjenama i dopunama Stečajnog zakona",
+   "title": "Zakon o izmjenama i dopunama Stečajnog zakona",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2012/133/2825",
+   "versions": [
+    {
+     "from": "2012-12-11",
+     "units": 66,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2012_12_133_2825.html",
+     "sha256": "8a0cde69f1cb7bf6c86319573d32afb8f9683d08f47763c135b2605ad8be98fd"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2012-2878",
+   "path": "zakon/2012/2878",
+   "short": "Zakon o izmjenama i dopunama Zakona o proračunu",
+   "title": "Zakon o izmjenama i dopunama Zakona o proračunu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2012/136/2878",
+   "versions": [
+    {
+     "from": "2012-12-07",
+     "units": 45,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2012_12_136_2878.html",
+     "sha256": "58e8d377923032b38d2967958126b3d69d0e48fde54015a4297c1bc6adbd883b"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2012-2879",
+   "path": "zakon/2012/2879",
+   "short": "Zakon o izmjenama i dopunama Općeg poreznog zakona",
+   "title": "Zakon o izmjenama i dopunama Općeg poreznog zakona",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2012/136/2879",
+   "versions": [
+    {
+     "from": "2012-12-15",
+     "units": 16,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2012_12_136_2879.html",
+     "sha256": "55f89a1cadb33669baee9a709a52829fa5c73d121ae2bffdbbf6b2aab7940b82"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2012-2880",
+   "path": "zakon/2012/2880",
+   "short": "Zakon o izmjenama i dopunama Zakona o platnom prometu",
+   "title": "Zakon o izmjenama i dopunama Zakona o platnom prometu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2012/136/2880",
+   "versions": [
+    {
+     "from": "2012-12-15",
+     "units": 15,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2012_12_136_2880.html",
+     "sha256": "c8bd2c3c4cac38966d9fd22748ff3566d2cf97bb08c1fa3c98b867180f9880ee"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2012-2881",
+   "path": "zakon/2012/2881",
+   "short": "Zakon o izmjeni i dopuni Zakona o porezu na dodanu vrijednost",
+   "title": "Zakon o izmjeni i dopuni Zakona o porezu na dodanu vrijednost",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2012/136/2881",
+   "versions": [
+    {
+     "from": "2013-01-01",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2012_12_136_2881.html",
+     "sha256": "e52eb1ec7e01058c0b3ef123d83fb558990995d83e682e6e374e35f02def8655"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2012-2882",
+   "path": "zakon/2012/2882",
+   "short": "Zakon o izmjenama i dopunama Zakona o Uredu za suzbijanje korupcije i organiziranog kriminaliteta",
+   "title": "Zakon o izmjenama i dopunama Zakona o Uredu za suzbijanje korupcije i organiziranog kriminaliteta",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2012/136/2882",
+   "versions": [
+    {
+     "from": "2013-01-01",
+     "units": 20,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2012_12_136_2882.html",
+     "sha256": "a8cb90c4096f0e7690d521e55abcb1c960124b903ab0c582d0ecdbb1f44068d6"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2012-2884",
+   "path": "zakon/2012/2884",
+   "short": "Zakon o izmjenama i dopunama Zakona o potpori poljoprivredi i ruralnom razvoju",
+   "title": "Zakon o izmjenama i dopunama Zakona o potpori poljoprivredi i ruralnom razvoju",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2012/136/2884",
+   "versions": [
+    {
+     "from": "2012-12-15",
+     "units": 9,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2012_12_136_2884.html",
+     "sha256": "f1e0cba06aaba19a77ed61a90931f8695e03bd1a85d975204553f214f65a047c"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2012-2885",
+   "path": "zakon/2012/2885",
+   "short": "Zakon o izmjenama Zakona o postupanju i uvjetima gradnje radi poticanja ulaganja",
+   "title": "Zakon o izmjenama Zakona o postupanju i uvjetima gradnje radi poticanja ulaganja",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2012/136/2885",
+   "versions": [
+    {
+     "from": "2012-12-15",
+     "units": 8,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2012_12_136_2885.html",
+     "sha256": "3f642aca9ffc878dc15326e1258814c98f789242b09bdf16bc2953be8831225f"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2012-2944",
+   "path": "zakon/2012/2944",
+   "short": "Zakon o izvršavanju Državnog proračuna Republike Hrvatske za 2013. godinu",
+   "title": "Zakon o izvršavanju Državnog proračuna Republike Hrvatske za 2013. godinu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2012/139/2944",
+   "versions": [
+    {
+     "from": "2013-01-01",
+     "units": 49,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2012_12_139_2944.html",
+     "sha256": "3c1ecde6660946b964abc46bfbf3a57b71c1c44873d6d5d0f63484d4369e6944"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2012-3026",
+   "path": "zakon/2012/3026",
+   "short": "Zakon o uskrati isplate pojedinih materijalnih prava zaposlenima u javnim službama",
+   "title": "Zakon o uskrati isplate pojedinih materijalnih prava zaposlenima u javnim službama",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2012/143/3026",
+   "versions": [
+    {
+     "from": "2012-12-20",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2012_12_143_3026.html",
+     "sha256": "e07b39cdf901b495ffe662e0b86ac297d5d97572a357563381fc51a15096b7a6"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2012-3027",
+   "path": "zakon/2012/3027",
+   "short": "Zakon o koncesijama",
+   "title": "Zakon o koncesijama",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2012/143/3027",
+   "versions": [
+    {
+     "from": "2012-12-28",
+     "units": 66,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2012_12_143_3027.html",
+     "sha256": "bfb950839e1ca8d869827ef0cfa95d79979f3f3e5c1c920938325beb136bd567"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2012-3029",
+   "path": "zakon/2012/3029",
+   "short": "Zakon o probaciji",
+   "title": "Zakon o probaciji",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2012/143/3029",
+   "versions": [
+    {
+     "from": "2013-01-01",
+     "units": 39,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2012_12_143_3029.html",
+     "sha256": "fd08716519f23af765089a63708c9d9f8b23793fc500ff85feed311396c96503"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2012-3031",
+   "path": "zakon/2012/3031",
+   "short": "Zakon o izmjenama i dopunama Zakona o kaznenom postupku",
+   "title": "Zakon o izmjenama i dopunama Zakona o kaznenom postupku",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2012/143/3031",
+   "versions": [
+    {
+     "from": "2013-01-01",
+     "units": 119,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2012_12_143_3031.html",
+     "sha256": "68379e8e7b0840a01c22d77bfc709a1db5cb2ff5826a25d017b34b36c55e69dd"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2012-3032",
+   "path": "zakon/2012/3032",
+   "short": "Zakon o izmjenama i dopunama Zakona o odgovornosti pravnih osoba za kaznena djela",
+   "title": "Zakon o izmjenama i dopunama Zakona o odgovornosti pravnih osoba za kaznena djela",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2012/143/3032",
+   "versions": [
+    {
+     "from": "2013-01-01",
+     "units": 17,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2012_12_143_3032.html",
+     "sha256": "1721a384dfe7068efec2bef697a53a9e4cdf37d82dee4dd1300935f4fa63cb9e"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2012-3033",
+   "path": "zakon/2012/3033",
+   "short": "Zakon o izmjenama i dopunama Zakona o sudovima za mladež",
+   "title": "Zakon o izmjenama i dopunama Zakona o sudovima za mladež",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2012/143/3033",
+   "versions": [
+    {
+     "from": "2013-01-01",
+     "units": 27,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2012_12_143_3033.html",
+     "sha256": "4673333c7643a290d43ada7d4503a5afdf0edb5ece4bbd2961e51984c6754b83"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2012-3034",
+   "path": "zakon/2012/3034",
+   "short": "Zakon o izmjeni Zakona o vlasništvu i drugim stvarnim pravima",
+   "title": "Zakon o izmjeni Zakona o vlasništvu i drugim stvarnim pravima",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2012/143/3034",
+   "versions": [
+    {
+     "from": "2012-12-28",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2012_12_143_3034.html",
+     "sha256": "745be2405d5eb817688124eeafdceac457e26aee9396906aab626bebb7e30504"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2012-3035",
+   "path": "zakon/2012/3035",
+   "short": "Zakon o dopuni Zakona o plaćama sudaca i drugih pravosudnih dužnosnika",
+   "title": "Zakon o dopuni Zakona o plaćama sudaca i drugih pravosudnih dužnosnika",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2012/143/3035",
+   "versions": [
+    {
+     "from": "2012-12-20",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2012_12_143_3035.html",
+     "sha256": "836521dc599a040a05f2a5272a7d54145d82f089e267b61e003b1a9bbba7c682"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2012-3036",
+   "path": "zakon/2012/3036",
+   "short": "Zakon o izmjenama i dopunama Zakona o upravnim sporovima",
+   "title": "Zakon o izmjenama i dopunama Zakona o upravnim sporovima",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2012/143/3036",
+   "versions": [
+    {
+     "from": "2012-12-28",
+     "units": 21,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2012_12_143_3036.html",
+     "sha256": "210a0778bc4d1e0d0b40a3248e0f40ebc1815c8247e9da9f1526a6231f8953ee"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2012-3037",
+   "path": "zakon/2012/3037",
+   "short": "Zakon o izmjenama Zakona o zaštiti na radu",
+   "title": "Zakon o izmjenama Zakona o zaštiti na radu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2012/143/3037",
+   "versions": [
+    {
+     "from": "2012-12-28",
+     "units": 6,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2012_12_143_3037.html",
+     "sha256": "69231588a77c71ffc4b137c1ba7cb3a43d4953d8b3034549ade1ed68412c3893"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2012-3038",
+   "path": "zakon/2012/3038",
+   "short": "Zakon o prestanku važenja Zakona o posebnom porezu na luksuzne proizvoda",
+   "title": "Zakon o prestanku važenja Zakona o posebnom porezu na luksuzne proizvoda",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2012/143/3038",
+   "versions": [
+    {
+     "from": "2013-01-01",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2012_12_143_3038.html",
+     "sha256": "94bcb0794a475e670d904428c454884434807771b3e5562af4c385f05c2fa68c"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2012-3075",
+   "path": "zakon/2012/3075",
+   "short": "Zakon o izmjenama i dopunama Zakona o lokalnoj i područnoj (regionalnoj) samooupravi",
+   "title": "Zakon o izmjenama i dopunama Zakona o lokalnoj i područnoj (regionalnoj) samooupravi",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2012/144/3075",
+   "versions": [
+    {
+     "from": "2012-12-29",
+     "units": 58,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2012_12_144_3075.html",
+     "sha256": "7ecdfc154868dfc69ac063cc6eb22972de7f1aa5915e76a6683c6ed13cd89cf8"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2012-3076",
+   "path": "zakon/2012/3076",
+   "short": "Zakon o izmjenama i dopunama Kaznenog zakona",
+   "title": "Zakon o izmjenama i dopunama Kaznenog zakona",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2012/144/3076",
+   "versions": [
+    {
+     "from": "2013-01-01",
+     "units": 35,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2012_12_144_3076.html",
+     "sha256": "e3b772d320f78fa83de5bf146564cdf96b9b764131ff75ad786ac6d55cd6df39"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2012-3077",
+   "path": "zakon/2012/3077",
+   "short": "Zakon o izmjenama i dopunama Zakona o doprinosima",
+   "title": "Zakon o izmjenama i dopunama Zakona o doprinosima",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2012/144/3077",
+   "versions": [
+    {
+     "from": "2013-01-01",
+     "units": 15,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2012_12_144_3077.html",
+     "sha256": "46a73fca63e276e714687eedd62941caed31a3944b4ed44525a6299039b226dc"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2012-3078",
+   "path": "zakon/2012/3078",
+   "short": "Zakon o izmjenama i dopunama Zakona o porezu na dohodak",
+   "title": "Zakon o izmjenama i dopunama Zakona o porezu na dohodak",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2012/144/3078",
+   "versions": [
+    {
+     "from": "2013-01-01",
+     "units": 21,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2012_12_144_3078.html",
+     "sha256": "eb3af17e2f66981481e10b0b9cf8901e4b848d6788d0f861b65c4548a259c87f"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2012-3079",
+   "path": "zakon/2012/3079",
+   "short": "Zakon o izmjenama i dopunama Zakona o reviziji",
+   "title": "Zakon o izmjenama i dopunama Zakona o reviziji",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2012/144/3079",
+   "versions": [
+    {
+     "from": "2012-12-29",
+     "units": 9,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2012_12_144_3079.html",
+     "sha256": "19b46e9cab78dd9447194f1504a9152adf63a4b23501a0040a2e1b574ebdd7e9"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2012-3080",
+   "path": "zakon/2012/3080",
+   "short": "Zakon o izmjenama Zakona o biogorivima za prijevoz",
+   "title": "Zakon o izmjenama Zakona o biogorivima za prijevoz",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2012/144/3080",
+   "versions": [
+    {
+     "from": "2013-01-01",
+     "units": 6,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2012_12_144_3080.html",
+     "sha256": "00c1328351c7da47d5f014a3eb15c29ee0ebbd87c1d55d8148e566ccbf9d4dea"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2012-3081",
+   "path": "zakon/2012/3081",
+   "short": "Zakon o izmjenama Zakona o tržištu nafte i naftnih derivata",
+   "title": "Zakon o izmjenama Zakona o tržištu nafte i naftnih derivata",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2012/144/3081",
+   "versions": [
+    {
+     "from": "2013-01-01",
+     "units": 8,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2012_12_144_3081.html",
+     "sha256": "3c16339d8f45f9d86730d63db1bdca9a8da98e5247a562fd3262bd9396145857"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2012-3082",
+   "path": "zakon/2012/3082",
+   "short": "Zakon o izmjenama i dopunama Zakona o Fondu za zaštitu okoliša i energetsku učinkovitost",
+   "title": "Zakon o izmjenama i dopunama Zakona o Fondu za zaštitu okoliša i energetsku učinkovitost",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2012/144/3082",
+   "versions": [
+    {
+     "from": "2013-01-01",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2012_12_144_3082.html",
+     "sha256": "ba419239a448bcbf996603118142af4bdbd8e7d84afd1a1d2fe09f2b229e1a61"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2012-3083",
+   "path": "zakon/2012/3083",
+   "short": "Zakon o izmjeni i dopunama Zakona o komunalnom gospodarstvu",
+   "title": "Zakon o izmjeni i dopunama Zakona o komunalnom gospodarstvu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2012/144/3083",
+   "versions": [
+    {
+     "from": "2012-12-29",
+     "units": 9,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2012_12_144_3083.html",
+     "sha256": "f4f15a1d6f17c1df2a3eb7f2864471e9ab09eaf481532ff95ad59c6697e62ee6"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2012-3084",
+   "path": "zakon/2012/3084",
+   "short": "Zakon o izmjenama i dopunama Zakona o posredovanju u prometu nekretnina",
+   "title": "Zakon o izmjenama i dopunama Zakona o posredovanju u prometu nekretnina",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2012/144/3084",
+   "versions": [
+    {
+     "from": "2012-12-29",
+     "units": 21,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2012_12_144_3084.html",
+     "sha256": "77f7cb80d7f215e7b0ddf2e7fdd27859fc17afdd9e545df3496a8093b3c2f7c2"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2012-332",
+   "path": "zakon/2012/332",
+   "short": "Zakon o izmjenama Zakona o pravima i dužnostima zastupnika u Hrvatskom saboru",
+   "title": "Zakon o izmjenama Zakona o pravima i dužnostima zastupnika u Hrvatskom saboru",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2012/12/332",
+   "versions": [
+    {
+     "from": "2012-02-03",
+     "units": 10,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2012_01_12_332.html",
+     "sha256": "e4c2a3a0ffba540b3c3f2a12d82c3807ef535ee2c617481d72e7880d222b17a7"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2012-333",
+   "path": "zakon/2012/333",
+   "short": "Zakon o izmjenama i dopuni Zakona o Hrvatskoj agenciji za nadzor financijskih usluga",
+   "title": "Zakon o izmjenama i dopuni Zakona o Hrvatskoj agenciji za nadzor financijskih usluga",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2012/12/333",
+   "versions": [
+    {
+     "from": "2012-01-26",
+     "units": 10,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2012_01_12_333.html",
+     "sha256": "fbb1c3ab0a6f09bcf8d61f37f8d2db3bdef5b2b69a11ce72241c435609699704"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2012-334",
+   "path": "zakon/2012/334",
+   "short": "Zakon o izmjenama Zakona o sprječavanju sukoba interesa",
+   "title": "Zakon o izmjenama Zakona o sprječavanju sukoba interesa",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2012/12/334",
+   "versions": [
+    {
+     "from": "2012-01-26",
+     "units": 6,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2012_01_12_334.html",
+     "sha256": "b001b1968f02fb7c84464f964445f73963fac81640835aa389de37f1109f8ab7"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2012-335",
+   "path": "zakon/2012/335",
+   "short": "Zakon o izmjeni Zakona o Državnoj agenciji za osiguranje štednih uloga i sanaciju banaka",
+   "title": "Zakon o izmjeni Zakona o Državnoj agenciji za osiguranje štednih uloga i sanaciju banaka",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2012/12/335",
+   "versions": [
+    {
+     "from": "2012-02-03",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2012_01_12_335.html",
+     "sha256": "3eec1d74572b2d0410a680e68e76392956409c7cde085ab7c213fd976bd3a386"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2012-336",
+   "path": "zakon/2012/336",
+   "short": "Zakon o izmjenama Ovršnog zakona",
+   "title": "Zakon o izmjenama Ovršnog zakona",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2012/12/336",
+   "versions": [
+    {
+     "from": "2012-01-26",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2012_01_12_336.html",
+     "sha256": "6999920f00a110cfb75cdf6040349345ac9d0f2cb0c7e39a02561305bf227889"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2012-337",
+   "path": "zakon/2012/337",
+   "short": "Zakon o dopuni Zakona o plaćama sudaca i drugih pravosudnih dužnosti",
+   "title": "Zakon o dopuni Zakona o plaćama sudaca i drugih pravosudnih dužnosti",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2012/12/337",
+   "versions": [
+    {
+     "from": "2012-01-26",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2012_01_12_337.html",
+     "sha256": "999432fe4145337ceac6bc9ebbfd5d62a0f36a6f46842b544b8fec0971a9f974"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2012-338",
+   "path": "zakon/2012/338",
+   "short": "Zakon o izmjeni i dopunama Zakona o zdravstvenoj zaštiti",
+   "title": "Zakon o izmjeni i dopunama Zakona o zdravstvenoj zaštiti",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2012/12/338",
+   "versions": [
+    {
+     "from": "2012-02-03",
+     "units": 8,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2012_01_12_338.html",
+     "sha256": "3999632162acbbcec46ea7ae8c0537d98f3056caf7c391d7780307f7235a0505"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2012-339",
+   "path": "zakon/2012/339",
+   "short": "Zakon o naknadi za pružanje usluga u pokretnim elektroničkim komunikacijskim mrežama",
+   "title": "Zakon o naknadi za pružanje usluga u pokretnim elektroničkim komunikacijskim mrežama",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2012/12/339",
+   "versions": [
+    {
+     "from": "2012-01-26",
+     "units": 14,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2012_01_12_339.html",
+     "sha256": "1fdd7d2012d6c8aa27b12cf71703e8dc4628c17182ae81f62a6f7ab2d8f0efd2"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2012-441",
+   "path": "zakon/2012/441",
+   "short": "Zakon o izmjenama i dopunama Zakona o odnosima Republike Hrvatske s Hrvatima izvan Republike Hrvatske",
+   "title": "Zakon o izmjenama i dopunama Zakona o odnosima Republike Hrvatske s Hrvatima izvan Republike Hrvatske",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2012/16/441",
+   "versions": [
+    {
+     "from": "2012-02-16",
+     "units": 12,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2012_02_16_441.html",
+     "sha256": "7b65fc511d5fec70bad05e7cbbb691fa7469fb92a379353e211e5044aaafdef4"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2012-442",
+   "path": "zakon/2012/442",
+   "short": "Zakon o izmjenama Zakona o odgoju i obrazovanju u osnovnoj i srednjoj školi",
+   "title": "Zakon o izmjenama Zakona o odgoju i obrazovanju u osnovnoj i srednjoj školi",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2012/16/442",
+   "versions": [
+    {
+     "from": "2012-02-08",
+     "units": 6,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2012_02_16_442.html",
+     "sha256": "65abe9d4bbb6af5ed3b44c905f5f4863bd8be130bd532ea9e3be89474e07fb74"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2012-443",
+   "path": "zakon/2012/443",
+   "short": "Zakon o izmjenama Zakona o prosvjetnoj inspekciji",
+   "title": "Zakon o izmjenama Zakona o prosvjetnoj inspekciji",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2012/16/443",
+   "versions": [
+    {
+     "from": "2012-02-08",
+     "units": 6,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2012_02_16_443.html",
+     "sha256": "5c23b527858c8f866d93fe13505f30b54d4336bbb586effc2353fa31ad17619e"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2012-568",
+   "path": "zakon/2012/568",
+   "short": "Zakon o izmjenama i dopunama Zakona o ustrojstvu i djelokrugu ministarstava i drugih središnjih tijela državne uprave",
+   "title": "Zakon o izmjenama i dopunama Zakona o ustrojstvu i djelokrugu ministarstava i drugih središnjih tijela državne uprave",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2012/22/568",
+   "versions": [
+    {
+     "from": "2012-02-23",
+     "units": 26,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2012_02_22_568.html",
+     "sha256": "73990616d94e55cb95ea6a991b7dc78c6887b690e486922dc553ca952058e77d"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2012-569",
+   "path": "zakon/2012/569",
+   "short": "Zakon o izmjenama i dopunama Zakona o porezu na dodanu vrijednost",
+   "title": "Zakon o izmjenama i dopunama Zakona o porezu na dodanu vrijednost",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2012/22/569",
+   "versions": [
+    {
+     "from": "2012-03-01",
+     "units": 12,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2012_02_22_569.html",
+     "sha256": "2edf659d5a7e34fc3568070885bcf8a16dc30ba598d642126e406209e1062efc"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2012-570",
+   "path": "zakon/2012/570",
+   "short": "Zakon o izmjenama i dopunama Zakona o porezu na dohodak",
+   "title": "Zakon o izmjenama i dopunama Zakona o porezu na dohodak",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2012/22/570",
+   "versions": [
+    {
+     "from": "2012-03-01",
+     "units": 19,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2012_02_22_570.html",
+     "sha256": "c798399c5ea6ca3327aec5cf32938bc7680ebacb832d7da8f7d7c743fd8136b0"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2012-571",
+   "path": "zakon/2012/571",
+   "short": "Zakon o izmjenama i dopunama Zakona o porezu na dobit",
+   "title": "Zakon o izmjenama i dopunama Zakona o porezu na dobit",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2012/22/571",
+   "versions": [
+    {
+     "from": "2012-03-01",
+     "units": 11,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2012_02_22_571.html",
+     "sha256": "57ad95a8765f3ab7e224876cffc8756d29f1b70f19060fd946bc679244e70ee5"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2012-572",
+   "path": "zakon/2012/572",
+   "short": "Zakon o izmjenama i dopunama Zakona o doprinosima",
+   "title": "Zakon o izmjenama i dopunama Zakona o doprinosima",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2012/22/572",
+   "versions": [
+    {
+     "from": "2012-03-01",
+     "units": 22,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2012_02_22_572.html",
+     "sha256": "8eda9e1f76d7de0f85d1751e2885a0c69c37c3af92536bd31f3dc97d7f9345ee"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2012-573",
+   "path": "zakon/2012/573",
+   "short": "Zakon o izmjenama i dopunama Zakona o obveznom zdravstvenom osiguranju",
+   "title": "Zakon o izmjenama i dopunama Zakona o obveznom zdravstvenom osiguranju",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2012/22/573",
+   "versions": [
+    {
+     "from": "2012-02-23",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2012_02_22_573.html",
+     "sha256": "dd64797a673fd73b4e904af41f623c6c473d0299c384d062ae3ac140e4bb7263"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2012-627",
+   "path": "zakon/2012/627",
+   "short": "Zakon o izvršavanju Državnog proračuna Republike Hrvatske za 2012. godinu",
+   "title": "Zakon o izvršavanju Državnog proračuna Republike Hrvatske za 2012. godinu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2012/24/627",
+   "versions": [
+    {
+     "from": "2012-03-01",
+     "units": 51,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2012_02_24_627.html",
+     "sha256": "a17e4997e69e30214d21ea5182f2b61773cdad9552b4b9421407276e92e4fee8"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2012-628",
+   "path": "zakon/2012/628",
+   "short": "Zakon o Poreznoj upravi",
+   "title": "Zakon o Poreznoj upravi",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2012/25/628",
+   "versions": [
+    {
+     "from": "2012-03-07",
+     "units": 40,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2012_02_25_628.html",
+     "sha256": "6c4598b056248aad62603a05f6e2f737e41175f71114fb89bf1654324b071254"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2012-629",
+   "path": "zakon/2012/629",
+   "short": "Zakon o Centru za praćenje poslovanja energetskog sektora i investicija",
+   "title": "Zakon o Centru za praćenje poslovanja energetskog sektora i investicija",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2012/25/629",
+   "versions": [
+    {
+     "from": "2012-02-28",
+     "units": 19,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2012_02_25_629.html",
+     "sha256": "44d6984c5720402e940df308e8d9b14989330368e50c070b83d121abe4bac9ee"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2012-630",
+   "path": "zakon/2012/630",
+   "short": "Zakon o prestanku važenja Zakona o Financijskoj policiji",
+   "title": "Zakon o prestanku važenja Zakona o Financijskoj policiji",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2012/25/630",
+   "versions": [
+    {
+     "from": "2012-03-07",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2012_02_25_630.html",
+     "sha256": "0926d9aa26fcd12618df0d830117aa0cef22d5cd9fb001f00a6d20697c60a151"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2012-631",
+   "path": "zakon/2012/631",
+   "short": "Zakon o izmjenama i dopuni Zakona o Financijskom inspektoratu Republike Hrvatske",
+   "title": "Zakon o izmjenama i dopuni Zakona o Financijskom inspektoratu Republike Hrvatske",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2012/25/631",
+   "versions": [
+    {
+     "from": "2012-02-28",
+     "units": 9,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2012_02_25_631.html",
+     "sha256": "42c701014c70a30c3eb6c4403d270f2aa254076998e4db830e857d66186607e7"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2012-632",
+   "path": "zakon/2012/632",
+   "short": "Zakon o izmjeni i dopuni Zakona o sprječavanju pranja novca i financiranju terorizma",
+   "title": "Zakon o izmjeni i dopuni Zakona o sprječavanju pranja novca i financiranju terorizma",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2012/25/632",
+   "versions": [
+    {
+     "from": "2012-02-28",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2012_02_25_632.html",
+     "sha256": "be3e66d23a65180bdbe23da0bef0b839131c2f6c080b52d8b687430d2b696422"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2012-633",
+   "path": "zakon/2012/633",
+   "short": "Zakon o izmjenama i dopunama Zakona o posebnoj mjeri naplate poreznog duga uzrokovanoga gospodarskom krizom",
+   "title": "Zakon o izmjenama i dopunama Zakona o posebnoj mjeri naplate poreznog duga uzrokovanoga gospodarskom krizom",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2012/25/633",
+   "versions": [
+    {
+     "from": "2012-02-28",
+     "units": 11,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2012_02_25_633.html",
+     "sha256": "eeb62dbfde0793b7c5e73ad9f69de794b6dd51e5edf2f218d329466149f2044a"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2012-634",
+   "path": "zakon/2012/634",
+   "short": "Zakon o izmjenama Zakona o financiranju jedinica lokalne i područne (regionalne) samouprave",
+   "title": "Zakon o izmjenama Zakona o financiranju jedinica lokalne i područne (regionalne) samouprave",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2012/25/634",
+   "versions": [
+    {
+     "from": "2012-03-01",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2012_02_25_634.html",
+     "sha256": "fc262510c35f8a9ed052f1abff45419929548d563c78fecd0da39b1aaa904493"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2012-635",
+   "path": "zakon/2012/635",
+   "short": "Zakon o izmjenama i dopunama Zakona o posredovanju pri zapošljavanju i pravima za vrijeme nezaposlenosti",
+   "title": "Zakon o izmjenama i dopunama Zakona o posredovanju pri zapošljavanju i pravima za vrijeme nezaposlenosti",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2012/25/635",
+   "versions": [
+    {
+     "from": "2012-03-07",
+     "units": 19,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2012_02_25_635.html",
+     "sha256": "7c45047fd94732abbc7af3cbd36100c2a8f430f58b3bae5c4384001caad5e70c"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2012-636",
+   "path": "zakon/2012/636",
+   "short": "Zakon o izmjenama i dopuni Zakona o zaštiti i očuvanju kulturnih dobara",
+   "title": "Zakon o izmjenama i dopuni Zakona o zaštiti i očuvanju kulturnih dobara",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2012/25/636",
+   "versions": [
+    {
+     "from": "2012-03-01",
+     "units": 6,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2012_02_25_636.html",
+     "sha256": "888b3991adfaf7b955cac57729284a202e546af7760bebb1df95ea4ad54d18ac"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2012-637",
+   "path": "zakon/2012/637",
+   "short": "Zakon o dopuni Stečajnog zakona",
+   "title": "Zakon o dopuni Stečajnog zakona",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2012/25/637",
+   "versions": [
+    {
+     "from": "2012-03-07",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2012_02_25_637.html",
+     "sha256": "c7d4f0d70eb40171a2b2e96aea352fc5eb59e9966ee62b177f7e1ef9614cf7cf"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2012-638",
+   "path": "zakon/2012/638",
+   "short": "Zakon o izmjeni Zakona o šumama",
+   "title": "Zakon o izmjeni Zakona o šumama",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2012/25/638",
+   "versions": [
+    {
+     "from": "2012-02-28",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2012_02_25_638.html",
+     "sha256": "f54f239e193b4d9718aff114c6c8258c0401ee6617575b409dfd7bbd69ed6da6"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2012-798",
+   "path": "zakon/2012/798",
+   "short": "Zakon o socijalnoj skrbi",
+   "title": "Zakon o socijalnoj skrbi",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2012/33/798",
+   "versions": [
+    {
+     "from": "2012-03-24",
+     "units": 270,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2012_03_33_798.html",
+     "sha256": "36277fb90c9886bf6ee25a33098d70aa91fc62ee1039bcec2d0485c78eca58b4"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2012-815",
+   "path": "zakon/2012/815",
+   "short": "Zakon o izmjenama i dopunama Zakona o državnim službenicima",
+   "title": "Zakon o izmjenama i dopunama Zakona o državnim službenicima",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2012/34/815",
+   "versions": [
+    {
+     "from": "2012-03-29",
+     "units": 9,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2012_03_34_815.html",
+     "sha256": "bafedae6f4ea9eba021a48c0fa6c8a04a1906ebb4137e7f9f1a3b5e7277ab28b"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2012-816",
+   "path": "zakon/2012/816",
+   "short": "Zakon o izmjenama i dopunama Zakona o registru vijeća, koordinacija vijeća i predstavnika nacionalnih manjina",
+   "title": "Zakon o izmjenama i dopunama Zakona o registru vijeća, koordinacija vijeća i predstavnika nacionalnih manjina",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2012/34/816",
+   "versions": [
+    {
+     "from": "2012-03-21",
+     "units": 8,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2012_03_34_816.html",
+     "sha256": "9488d4c913a37bde5093e0795e137fd3784dfdfa1a42c1e01f9aa474ba789f0e"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2012-817",
+   "path": "zakon/2012/817",
+   "short": "Zakon o izmjenama i dopuni Zakona o izvlaštenju",
+   "title": "Zakon o izmjenama i dopuni Zakona o izvlaštenju",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2012/34/817",
+   "versions": [
+    {
+     "from": "2012-03-21",
+     "units": 6,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2012_03_34_817.html",
+     "sha256": "d78192d57d07ce5da8faabe6b632df3c7d73afeeef37c1cf00ef24fe9e3a621c"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2012-818",
+   "path": "zakon/2012/818",
+   "short": "Zakon o izmjenama Zakona o carinskoj službi",
+   "title": "Zakon o izmjenama Zakona o carinskoj službi",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2012/34/818",
+   "versions": [
+    {
+     "from": "2012-03-21",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2012_03_34_818.html",
+     "sha256": "f7bf1b128d0ed1c09c4b6d3443cecf08451abfdb6f05a8f1bcf819f3a6c017f2"
     }
    ]
   },
@@ -47008,6 +49138,2181 @@
      "units": 30,
      "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2013_04_46_882.html",
      "sha256": "e486b0152f5a91d8674f8df4886ca89ebac92132ce6208e0a4ea7252e645c7f5"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2013-1048",
+   "path": "zakon/2013/1048",
+   "short": "Zakon o izmjenama Zakona o obnovi (NN br. 51A)",
+   "title": "Zakon o izmjenama Zakona o obnovi (NN br. 51A)",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/51/1048",
+   "versions": [
+    {
+     "from": "2013-05-01",
+     "units": 12,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2013_04_51_1048.html",
+     "sha256": "95e56b42d43bb33665f2ac31161a1256632817a4a8ed6a64c68808ef9d405446"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2013-1049",
+   "path": "zakon/2013/1049",
+   "short": "Zakon o izmjenama Zakona o statusu prognanika i izbjeglica (NN br. 51A)",
+   "title": "Zakon o izmjenama Zakona o statusu prognanika i izbjeglica (NN br. 51A)",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/51/1049",
+   "versions": [
+    {
+     "from": "2013-05-01",
+     "units": 15,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2013_04_51_1049.html",
+     "sha256": "c9902fc35d23cda59139a71a7da824cd2be8c590fc124c86798e7483e1519df6"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2013-1052",
+   "path": "zakon/2013/1052",
+   "short": "Zakon o izmjenama i dopunama Zakona o osnutku Hrvatske kontrole zračne plovidbe (NN br. 51A)",
+   "title": "Zakon o izmjenama i dopunama Zakona o osnutku Hrvatske kontrole zračne plovidbe (NN br. 51A)",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/51/1052",
+   "versions": [
+    {
+     "from": "2013-05-08",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2013_04_51_1052.html",
+     "sha256": "3901787f8eefcbac4277b450a5f5514621042f590dff04f5258376b8fee7f5b6"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2013-1053",
+   "path": "zakon/2013/1053",
+   "short": "Zakon o izmjenama i dopunama Zakona o plovidbi i lukama unutarnjih voda (NN br. 51A)",
+   "title": "Zakon o izmjenama i dopunama Zakona o plovidbi i lukama unutarnjih voda (NN br. 51A)",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/51/1053",
+   "versions": [
+    {
+     "from": "2013-05-08",
+     "units": 18,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2013_04_51_1053.html",
+     "sha256": "49a53635ad0ee7a30ce1c8463d841a3222d1d9fe1fa99fac42ca45cd09e15ac0"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2013-1075",
+   "path": "zakon/2013/1075",
+   "short": "Zakon o izmjeni Zakona o izvršavanju Državnog proračuna Republike Hrvatske za 2013. godinu",
+   "title": "Zakon o izmjeni Zakona o izvršavanju Državnog proračuna Republike Hrvatske za 2013. godinu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/53/1075",
+   "versions": [
+    {
+     "from": "2013-05-07",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2013_05_53_1075.html",
+     "sha256": "6a3ef405369a7fa09747c1e14286a9e26819b6819ce49cae953021dca7f19104"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2013-1083",
+   "path": "zakon/2013/1083",
+   "short": "Zakon o izmjenama i dopunama Zakona o cestama",
+   "title": "Zakon o izmjenama i dopunama Zakona o cestama",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/54/1083",
+   "versions": [
+    {
+     "from": "2013-05-15",
+     "units": 52,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2013_05_54_1083.html",
+     "sha256": "ecf83f390cf882705ecaede4cbe9639360dfb19eb22331ba339e5a63288c9faf"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2013-1084",
+   "path": "zakon/2013/1084",
+   "short": "Zakon o izmjenama i dopunama Zakona o računovodstvu",
+   "title": "Zakon o izmjenama i dopunama Zakona o računovodstvu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/54/1084",
+   "versions": [
+    {
+     "from": "2013-05-15",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2013_05_54_1084.html",
+     "sha256": "e3572850159ea42748033d8333ae85e7497ed813adb32f5240113c80504fc91a"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2013-1085",
+   "path": "zakon/2013/1085",
+   "short": "Zakon o izmjenama i dopunama Zakona o osiguranju",
+   "title": "Zakon o izmjenama i dopunama Zakona o osiguranju",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/54/1085",
+   "versions": [
+    {
+     "from": "2013-05-15",
+     "units": 48,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2013_05_54_1085.html",
+     "sha256": "d9b96c624fbf6de3dc14ae9f5d784e31934f60c345d356db413fa7f3bffe9457"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2013-1087",
+   "path": "zakon/2013/1087",
+   "short": "Zakon o izmjenama i dopunama Zakona o Hrvatskoj narodnoj banci",
+   "title": "Zakon o izmjenama i dopunama Zakona o Hrvatskoj narodnoj banci",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/54/1087",
+   "versions": [
+    {
+     "from": "2013-05-15",
+     "units": 37,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2013_05_54_1087.html",
+     "sha256": "c28a86aa4f3a4b3d6318d64b446b5337c05b0079a7326ceb171f22920b98ecc6"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2013-1089",
+   "path": "zakon/2013/1089",
+   "short": "Zakon o izmjenama i dopunama Zakona o kreditnim institucijama",
+   "title": "Zakon o izmjenama i dopunama Zakona o kreditnim institucijama",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/54/1089",
+   "versions": [
+    {
+     "from": "2013-05-15",
+     "units": 140,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2013_05_54_1089.html",
+     "sha256": "b80102b1c88d4eb012cc4a7ae732e5cb4ecdb078ab30f92f4022b267a40fd882"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2013-1090",
+   "path": "zakon/2013/1090",
+   "short": "Zakon o izmjenama i dopunama Zakona o zastupanju u području prava industrijskog vlasništva",
+   "title": "Zakon o izmjenama i dopunama Zakona o zastupanju u području prava industrijskog vlasništva",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/54/1090",
+   "versions": [
+    {
+     "from": "2013-05-15",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2013_05_54_1090.html",
+     "sha256": "b44066966d96a14e6ea683f2ae4034f71c701fd4c6c7730dfc7a489e89ca182b"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2013-1091",
+   "path": "zakon/2013/1091",
+   "short": "Zakon o izmjenama i dopunama Zakona o rodiljnim i roditeljskim potporama",
+   "title": "Zakon o izmjenama i dopunama Zakona o rodiljnim i roditeljskim potporama",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/54/1091",
+   "versions": [
+    {
+     "from": "2013-07-01",
+     "units": 19,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2013_05_54_1091.html",
+     "sha256": "a51cf70ff77284779e65b0c336096d826ebf9eb1d6f0c388c537b3140a06732d"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2013-1117",
+   "path": "zakon/2013/1117",
+   "short": "Zakon o izmjenama i dopunama Zakona o zemljišnim knjigama",
+   "title": "Zakon o izmjenama i dopunama Zakona o zemljišnim knjigama",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/55/1117",
+   "versions": [
+    {
+     "from": "2013-05-16",
+     "units": 90,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2013_05_55_1117.html",
+     "sha256": "4f21abce305013ee5af8d4a42006e233b4f57846121b10c75ff68bd6667decab"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2013-1134",
+   "path": "zakon/2013/1134",
+   "short": "Zakon o kritičnim infrastrukturama",
+   "title": "Zakon o kritičnim infrastrukturama",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/56/1134",
+   "versions": [
+    {
+     "from": "2013-05-18",
+     "units": 27,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2013_05_56_1134.html",
+     "sha256": "e99789d9e03f58428c7ce54faac1b6edbca0fff28263a0404599376e16634a82"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2013-1139",
+   "path": "zakon/2013/1139",
+   "short": "Zakon o izmjenama i dopunama Zakona o vodama",
+   "title": "Zakon o izmjenama i dopunama Zakona o vodama",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/56/1139",
+   "versions": [
+    {
+     "from": "2013-05-18",
+     "units": 156,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2013_05_56_1139.html",
+     "sha256": "7148ce8dabb83faf4924cd9e3b4869149c24ae34817f0e4a63d1f30f855cd577"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2013-1140",
+   "path": "zakon/2013/1140",
+   "short": "Zakon o izmjenama i dopunama Zakona o financiranju vodnoga gospodarstva",
+   "title": "Zakon o izmjenama i dopunama Zakona o financiranju vodnoga gospodarstva",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/56/1140",
+   "versions": [
+    {
+     "from": "2013-05-18",
+     "units": 65,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2013_05_56_1140.html",
+     "sha256": "d054f8c652f9456290299c7a11fe632edb375b7f1499d53961ef89b27c1054d3"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2013-1141",
+   "path": "zakon/2013/1141",
+   "short": "Zakon o izmjenama i dopunama Pomorskog zakonika",
+   "title": "Zakon o izmjenama i dopunama Pomorskog zakonika",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/56/1141",
+   "versions": [
+    {
+     "from": "2013-05-18",
+     "units": 146,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2013_05_56_1141.html",
+     "sha256": "e5caa30c49651428e8e332a1f361c563157e5e57e456a5c7ea351ec856ccf99b"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2013-1143",
+   "path": "zakon/2013/1143",
+   "short": "Zakon o izmjenama i dopunama Zakona o izvršavanju kazne zatvora",
+   "title": "Zakon o izmjenama i dopunama Zakona o izvršavanju kazne zatvora",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/56/1143",
+   "versions": [
+    {
+     "from": "2013-05-18",
+     "units": 21,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2013_05_56_1143.html",
+     "sha256": "c2df789fd5eeda36ec33c2c6878323f38ef4f8d7a92eb68af05aae76a6fc8b03"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2013-1144",
+   "path": "zakon/2013/1144",
+   "short": "Zakon o izmjenama i dopunama Zakona o poticanju razvoja malog gospodarstva",
+   "title": "Zakon o izmjenama i dopunama Zakona o poticanju razvoja malog gospodarstva",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/56/1144",
+   "versions": [
+    {
+     "from": "2013-05-18",
+     "units": 24,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2013_05_56_1144.html",
+     "sha256": "b32d8f000ca70bf865da32e19a72deb44dd26f333e58f482c5c2a06292115c0b"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2013-1145",
+   "path": "zakon/2013/1145",
+   "short": "Zakon o izmjenama i dopuni Zakona o osnivanju Agencije za investicije i konkurentnost",
+   "title": "Zakon o izmjenama i dopuni Zakona o osnivanju Agencije za investicije i konkurentnost",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/56/1145",
+   "versions": [
+    {
+     "from": "2013-05-18",
+     "units": 6,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2013_05_56_1145.html",
+     "sha256": "02a92c1dbd85e67ad30f440d5efff858913bc8d895a3a1a0c9f0cb9959f5685d"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2013-1147",
+   "path": "zakon/2013/1147",
+   "short": "Zakon o izmjenama Zakona o zaštiti potrošača",
+   "title": "Zakon o izmjenama Zakona o zaštiti potrošača",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/56/1147",
+   "versions": [
+    {
+     "from": "2013-05-18",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2013_05_56_1147.html",
+     "sha256": "f89a04599957fc8ec313c1a96d80e38fc4d4334999ec74b6a364ed11bfef8d0b"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2013-1148",
+   "path": "zakon/2013/1148",
+   "short": "Zakon o izmjenama i dopunama Zakona o obavljanju geodetske djelatnosti",
+   "title": "Zakon o izmjenama i dopunama Zakona o obavljanju geodetske djelatnosti",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/56/1148",
+   "versions": [
+    {
+     "from": "2013-05-18",
+     "units": 19,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2013_05_56_1148.html",
+     "sha256": "5c9ea9ace9cfaf8a54ebd7b82bf3560e056c305285f7eaa03049651711c1c6ed"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2013-1149",
+   "path": "zakon/2013/1149",
+   "short": "Zakon o izmjeni i dopunama Zakona o osnivanju Agencije za plaćanja u poljoprivredi ribarstvu i ruralnom razvoju",
+   "title": "Zakon o izmjeni i dopunama Zakona o osnivanju Agencije za plaćanja u poljoprivredi ribarstvu i ruralnom razvoju",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/56/1149",
+   "versions": [
+    {
+     "from": "2013-05-18",
+     "units": 6,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2013_05_56_1149.html",
+     "sha256": "dd8762288332c341bd4098d076809d3ab48fc19c828ecbe813683a252d9a5547"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2013-1151",
+   "path": "zakon/2013/1151",
+   "short": "Zakon o izmjenama i dopunama Zakona o veterinarsko-medicinskim proizvodima",
+   "title": "Zakon o izmjenama i dopunama Zakona o veterinarsko-medicinskim proizvodima",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/56/1151",
+   "versions": [
+    {
+     "from": "2013-05-18",
+     "units": 44,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2013_05_56_1151.html",
+     "sha256": "15ca57aa6b21596ad2e8982036c26c67b196b41621a3afb4905e3c99d0518aa9"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2013-1347",
+   "path": "zakon/2013/1347",
+   "short": "Zakon o izmjenama i dopunama Zakona o osobnoj iskaznici",
+   "title": "Zakon o izmjenama i dopunama Zakona o osobnoj iskaznici",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/68/1347",
+   "versions": [
+    {
+     "from": "2013-06-08",
+     "units": 16,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2013_06_68_1347.html",
+     "sha256": "99d58d84f1d2ea15a716cb25a3d45255863c85b3da188865f2c5b465462cc32c"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2013-1348",
+   "path": "zakon/2013/1348",
+   "short": "Zakon o izmjeni Zakona o trgovačkim društvima",
+   "title": "Zakon o izmjeni Zakona o trgovačkim društvima",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/68/1348",
+   "versions": [
+    {
+     "from": "2013-06-15",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2013_06_68_1348.html",
+     "sha256": "71a757216977e051c4616ba3b43c57d117726254c21a579eb695ef0f7ff2a355"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2013-1351",
+   "path": "zakon/2013/1351",
+   "short": "Zakon o izmjenama i dopuni Zakona o kulturnim vijećima",
+   "title": "Zakon o izmjenama i dopuni Zakona o kulturnim vijećima",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/68/1351",
+   "versions": [
+    {
+     "from": "2013-06-15",
+     "units": 12,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2013_06_68_1351.html",
+     "sha256": "12194b05d694294ac7656363c3be48b4fb62b881c70f95870ccf53812ec7ae2d"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2013-1438",
+   "path": "zakon/2013/1438",
+   "short": "Zakon o izmjenama i dopunama Zakona o državnom odvjetništvu",
+   "title": "Zakon o izmjenama i dopunama Zakona o državnom odvjetništvu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/72/1438",
+   "versions": [
+    {
+     "from": "2013-06-25",
+     "units": 63,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2013_06_72_1438.html",
+     "sha256": "3cd0a23ef80bdaec6751831f7949e0ad39c8b5c18b11b64d3184633f91db04dc"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2013-1454",
+   "path": "zakon/2013/1454",
+   "short": "Zakon o izmjenama i dopunama Općeg poreznog zakona",
+   "title": "Zakon o izmjenama i dopunama Općeg poreznog zakona",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/73/1454",
+   "versions": [
+    {
+     "from": "2013-06-26",
+     "units": 58,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2013_06_73_1454.html",
+     "sha256": "da5c9bdf2b2e9957667e7e78c972df741470dfe6d495a4e07569bd49555ae0e3"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2013-1455",
+   "path": "zakon/2013/1455",
+   "short": "Zakon o izmjenama i dopunama Zakona o radu",
+   "title": "Zakon o izmjenama i dopunama Zakona o radu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/73/1455",
+   "versions": [
+    {
+     "from": "2013-06-26",
+     "units": 33,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2013_06_73_1455.html",
+     "sha256": "0d7e5c45bd8ced4ba080fd7529e8d6065922e29832775ec2990ca650a753a9d0"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2013-1475",
+   "path": "zakon/2013/1475",
+   "short": "Zakon o izmjenama i dopunama Zakona o strancima",
+   "title": "Zakon o izmjenama i dopunama Zakona o strancima",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/74/1475",
+   "versions": [
+    {
+     "from": "2013-06-27",
+     "units": 85,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2013_06_74_1475.html",
+     "sha256": "7b5e1fb767f72b1b53ddc856e90c539c31461cd6960ae31e49457bf89eed82df"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2013-1524",
+   "path": "zakon/2013/1524",
+   "short": "Zakon o izmjeni Zakona o postupanju i uvjetima gradnje radi poticanja ulaganja",
+   "title": "Zakon o izmjeni Zakona o postupanju i uvjetima gradnje radi poticanja ulaganja",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/76/1524",
+   "versions": [
+    {
+     "from": "2013-06-29",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2013_06_76_1524.html",
+     "sha256": "482dedbd400e641b01e6f8b15c7f583af32dca60fe0f750cd157e0c2f06f8bdb"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2013-1525",
+   "path": "zakon/2013/1525",
+   "short": "Zakon o izmjenama i dopunama Zakona o državnim maticama",
+   "title": "Zakon o izmjenama i dopunama Zakona o državnim maticama",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/76/1525",
+   "versions": [
+    {
+     "from": "2013-06-29",
+     "units": 39,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2013_06_76_1525.html",
+     "sha256": "2ce1353915bc1f64d4923ab1dce786cd0a17e879bf57803887d5e79d95c3257a"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2013-1528",
+   "path": "zakon/2013/1528",
+   "short": "Zakon o izmjenama i dopunama Zakona o Hrvatskom registru brodova",
+   "title": "Zakon o izmjenama i dopunama Zakona o Hrvatskom registru brodova",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/76/1528",
+   "versions": [
+    {
+     "from": "2013-06-29",
+     "units": 11,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2013_06_76_1528.html",
+     "sha256": "7aa534c006dd52e81010bf421a398eef23fef33471c9915e4d5845f73997451a"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2013-1529",
+   "path": "zakon/2013/1529",
+   "short": "Zakon o izmjenama i dopunama Zakona o poreznom savjetništvu",
+   "title": "Zakon o izmjenama i dopunama Zakona o poreznom savjetništvu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/76/1529",
+   "versions": [
+    {
+     "from": "2013-06-29",
+     "units": 12,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2013_06_76_1529.html",
+     "sha256": "42769b4d9e2de5608402dbcab51776a8c882fe179c5ab164947232a8b3f61411"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2013-1530",
+   "path": "zakon/2013/1530",
+   "short": "Zakon o izmjenama i dopunama Zakona o patentu",
+   "title": "Zakon o izmjenama i dopunama Zakona o patentu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/76/1530",
+   "versions": [
+    {
+     "from": "2013-06-29",
+     "units": 24,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2013_06_76_1530.html",
+     "sha256": "681168e1691ac2d253c3228567ab150beac34ceccd27d32e31e3e83312a039f7"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2013-1669",
+   "path": "zakon/2013/1669",
+   "short": "Zakon o izmjenama i dopunama Zakona o osiguranju potraživanja radnika u slučaju stečaja poslodavca",
+   "title": "Zakon o izmjenama i dopunama Zakona o osiguranju potraživanja radnika u slučaju stečaja poslodavca",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/80/1669",
+   "versions": [
+    {
+     "from": "2013-07-06",
+     "units": 15,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2013_06_80_1669.html",
+     "sha256": "2151f22d24a26b57fb8f5860d37edb08d096231a3492527889b85f55fafe61f3"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2013-1675",
+   "path": "zakon/2013/1675",
+   "short": "Zakon o izmjenama i dopunama Zakona o ugostiteljskoj djelatnosti",
+   "title": "Zakon o izmjenama i dopunama Zakona o ugostiteljskoj djelatnosti",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/80/1675",
+   "versions": [
+    {
+     "from": "2013-07-06",
+     "units": 24,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2013_06_80_1675.html",
+     "sha256": "46b620fc6e5f7250f0964340ea76254be3517b32b1cad3358c46b1bcff036f72"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2013-1705",
+   "path": "zakon/2013/1705",
+   "short": "Zakon o izmjenama i dopunama Zakona o financijskom poslovanju i predstečajnoj nagodbi",
+   "title": "Zakon o izmjenama i dopunama Zakona o financijskom poslovanju i predstečajnoj nagodbi",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/81/1705",
+   "versions": [
+    {
+     "from": "2013-06-30",
+     "units": 66,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2013_06_81_1705.html",
+     "sha256": "af19de1a8f131223f67a1331dd5423906a63440a30e44cb03836c472bd46a878"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2013-1707",
+   "path": "zakon/2013/1707",
+   "short": "Zakon o izmjenama i dopunama Zakona o medijima",
+   "title": "Zakon o izmjenama i dopunama Zakona o medijima",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/81/1707",
+   "versions": [
+    {
+     "from": "2013-07-07",
+     "units": 9,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2013_06_81_1707.html",
+     "sha256": "58fa54c297aab362b3119a338e12084ed910769ae25e45e0f7c11d3590ca9e93"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2013-1732",
+   "path": "zakon/2013/1732",
+   "short": "Zakon o prijevozu u cestovnom prometu",
+   "title": "Zakon o prijevozu u cestovnom prometu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/82/1732",
+   "versions": [
+    {
+     "from": "2013-07-01",
+     "units": 120,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2013_06_82_1732.html",
+     "sha256": "5814b59d9c56bde9edde0f56a9188be0d49cb7682dca92700cb0d7c35ceeb215"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2013-1733",
+   "path": "zakon/2013/1733",
+   "short": "Zakon o sigurnosti i interoperabilnosti željezničkog sustava",
+   "title": "Zakon o sigurnosti i interoperabilnosti željezničkog sustava",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/82/1733",
+   "versions": [
+    {
+     "from": "2013-07-01",
+     "units": 144,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2013_06_82_1733.html",
+     "sha256": "70078798a022cf580246b4d27cd85a6dd6a723fcaccd53857ba9ba5f03adc0fa"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2013-1736",
+   "path": "zakon/2013/1736",
+   "short": "Zakon o izmjenama i dopunama Zakona o zdravstvenoj zaštiti",
+   "title": "Zakon o izmjenama i dopunama Zakona o zdravstvenoj zaštiti",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/82/1736",
+   "versions": [
+    {
+     "from": "2013-07-01",
+     "units": 59,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2013_06_82_1736.html",
+     "sha256": "cb9cf8557039a6827cebffc5b81da2e48daa1f8137a92f2f083bf0cf681c8abb"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2013-1739",
+   "path": "zakon/2013/1739",
+   "short": "Zakon o izmjenama i dopunama Zakona o javnoj nabavi",
+   "title": "Zakon o izmjenama i dopunama Zakona o javnoj nabavi",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/83/1739",
+   "versions": [
+    {
+     "from": "2013-07-09",
+     "units": 46,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2013_07_83_1739.html",
+     "sha256": "cdfea1cd35ee702007abd2a41e9e17253ec28ba0da24d3ff317212c0bdea85c9"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2013-2074",
+   "path": "zakon/2013/2074",
+   "short": "Zakon o izmjenama Zakona o posebnim uvjetima za stavljanje brašna na tržište",
+   "title": "Zakon o izmjenama Zakona o posebnim uvjetima za stavljanje brašna na tržište",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/93/2074",
+   "versions": [
+    {
+     "from": "2013-07-20",
+     "units": 14,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2013_07_93_2074.html",
+     "sha256": "b376d0df56dc9d674e2e55dc088b9cebe82f1ac6ef42ec4d7115625da37f4153"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2013-2121",
+   "path": "zakon/2013/2121",
+   "short": "Zakon o upravljanju i raspolaganju imovinom u vlasništvu Republike Hrvatske",
+   "title": "Zakon o upravljanju i raspolaganju imovinom u vlasništvu Republike Hrvatske",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/94/2121",
+   "versions": [
+    {
+     "from": "2013-07-30",
+     "units": 88,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2013_07_94_2121.html",
+     "sha256": "73401df3bb34d086db0944ae9c520ac2fed5241ab904a5dc641c28878a067cd1"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2013-2122",
+   "path": "zakon/2013/2122",
+   "short": "Zakon o istraživanju i eksploataciji ugljikovodika",
+   "title": "Zakon o istraživanju i eksploataciji ugljikovodika",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/94/2122",
+   "versions": [
+    {
+     "from": "2013-07-30",
+     "units": 68,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2013_07_94_2122.html",
+     "sha256": "a4452e87e26dac35d608f49b05d4c4c9ad0c8061c7b3167c7bd5c04ebcc772c0"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2013-2123",
+   "path": "zakon/2013/2123",
+   "short": "Zakon o održivom gospodarenju otpadom",
+   "title": "Zakon o održivom gospodarenju otpadom",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/94/2123",
+   "versions": [
+    {
+     "from": "2013-07-23",
+     "units": 190,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2013_07_94_2123.html",
+     "sha256": "984524a2f6c7f1ae3a3d3882284f7f4a704c03b2f5087b5e7744364ef26b2b98"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2013-2127",
+   "path": "zakon/2013/2127",
+   "short": "Zakon o željeznici",
+   "title": "Zakon o željeznici",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/94/2127",
+   "versions": [
+    {
+     "from": "2013-07-23",
+     "units": 68,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2013_07_94_2127.html",
+     "sha256": "3e3d34182dc8d649e558ab637b9ff54036338d25feb5a60251e3dc13d7cd1ae5"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2013-2128",
+   "path": "zakon/2013/2128",
+   "short": "Zakon o izmjenama i dopunama Zakona o obveznim i stvarnopravnim odnosima u zračnom prometu",
+   "title": "Zakon o izmjenama i dopunama Zakona o obveznim i stvarnopravnim odnosima u zračnom prometu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/94/2128",
+   "versions": [
+    {
+     "from": "2013-07-23",
+     "units": 17,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2013_07_94_2128.html",
+     "sha256": "a4c9a3d456421e7be28ea582e5dc09529a4a854ca4b35632e613790a33bf671e"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2013-2129",
+   "path": "zakon/2013/2129",
+   "short": "Zakonn o izmjenama i dopuni Zakona o sportu",
+   "title": "Zakonn o izmjenama i dopuni Zakona o sportu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/94/2129",
+   "versions": [
+    {
+     "from": "2013-07-30",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2013_07_94_2129.html",
+     "sha256": "c0fe883f90c7a6d2d92a66fdbd6ea6ed56caf3e87bb4537c2b91224e4ae67510"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2013-2130",
+   "path": "zakon/2013/2130",
+   "short": "Zakon o izmjenama i dopunama Zakona o predškolskom odgoju i naobrazbi",
+   "title": "Zakon o izmjenama i dopunama Zakona o predškolskom odgoju i naobrazbi",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/94/2130",
+   "versions": [
+    {
+     "from": "2013-07-30",
+     "units": 25,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2013_07_94_2130.html",
+     "sha256": "3e3b0134926d0ef41759cb929773ceda14be0d8774b328175f47a23bcfda82ae"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2013-2131",
+   "path": "zakon/2013/2131",
+   "short": "Zakon o izmjenama i dopunama Zakona o odgoju i obrazovanju u osnovnoj i srednjoj školi",
+   "title": "Zakon o izmjenama i dopunama Zakona o odgoju i obrazovanju u osnovnoj i srednjoj školi",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/94/2131",
+   "versions": [
+    {
+     "from": "2013-07-30",
+     "units": 13,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2013_07_94_2131.html",
+     "sha256": "4da5c8c9c783728ec31bf4fd6b16c44d9e956a6a4efe247cbac4adb403cb7cb1"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2013-2132",
+   "path": "zakon/2013/2132",
+   "short": "Zakon o izmjenama i dopunama Zakona o znanstvenoj djelatnosti i visokom obrazovanju",
+   "title": "Zakon o izmjenama i dopunama Zakona o znanstvenoj djelatnosti i visokom obrazovanju",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/94/2132",
+   "versions": [
+    {
+     "from": "2013-07-30",
+     "units": 74,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2013_07_94_2132.html",
+     "sha256": "e99054a827cee8cbd5dc1f81eac28998cd04cd4968c58f5bb1f5f4d3c5be3464"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2013-2133",
+   "path": "zakon/2013/2133",
+   "short": "Zakon o izmjenama i dopunama Zakona o elektroničkim medijima",
+   "title": "Zakon o izmjenama i dopunama Zakona o elektroničkim medijima",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/94/2133",
+   "versions": [
+    {
+     "from": "2013-07-30",
+     "units": 42,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2013_07_94_2133.html",
+     "sha256": "e5470072f463f6f2534ce46fb176b4f30bd5389540aa1528c8c8eba989198d41"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2013-2134",
+   "path": "zakon/2013/2134",
+   "short": "Zakon o izmjenama i dopunama Zakona o ograničavanju uporabe duhanskih proizvoda",
+   "title": "Zakon o izmjenama i dopunama Zakona o ograničavanju uporabe duhanskih proizvoda",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/94/2134",
+   "versions": [
+    {
+     "from": "2013-07-30",
+     "units": 10,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2013_07_94_2134.html",
+     "sha256": "4e2d22eb818c02d985746c341f20ef6796df94cc7e0dd1fa759e7ab6692c35ac"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2013-242",
+   "path": "zakon/2013/242",
+   "short": "Zakon o izmjeni Zakona o stambenoj štednji i državnom poticanju stambene štednje",
+   "title": "Zakon o izmjeni Zakona o stambenoj štednji i državnom poticanju stambene štednje",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/15/242",
+   "versions": [
+    {
+     "from": "2013-02-06",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2013_02_15_242.html",
+     "sha256": "df444fbabe7c143dc6aac5c219a41ee03b415e52deb7430ed0520d1ca6385503"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2013-243",
+   "path": "zakon/2013/243",
+   "short": "Zakon o izmjeni Zakona o Državnoj agenciji za osiguranje štednih uloga i sanaciju banaka",
+   "title": "Zakon o izmjeni Zakona o Državnoj agenciji za osiguranje štednih uloga i sanaciju banaka",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/15/243",
+   "versions": [
+    {
+     "from": "2013-02-06",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2013_02_15_243.html",
+     "sha256": "7f5c03554750c797410677d614340f8dc3ebae2f47e3dd92e3053da84fd3abf6"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2013-2591",
+   "path": "zakon/2013/2591",
+   "short": "Zakon o ovlasti Vlade Republike Hrvatske da uredbama uređuje pojedina pitanja iz djelokruga Hrvatskoga sabora",
+   "title": "Zakon o ovlasti Vlade Republike Hrvatske da uredbama uređuje pojedina pitanja iz djelokruga Hrvatskoga sabora",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/121/2591",
+   "versions": [
+    {
+     "from": "2013-10-01",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2013_09_121_2591.html",
+     "sha256": "a27c1749d6e68de7227e9e8f6719da97af198850bd31d3c998a102193525f32b"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2013-2592",
+   "path": "zakon/2013/2592",
+   "short": "Zakon o izmjenama i dopunama Zakona o kazalištima",
+   "title": "Zakon o izmjenama i dopunama Zakona o kazalištima",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/121/2592",
+   "versions": [
+    {
+     "from": "2013-10-01",
+     "units": 9,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2013_09_121_2592.html",
+     "sha256": "906463daac936ebbb59ff06b0f6d5258b81d3d96fe10d1425ab399b0c2ae8d67"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2013-2624",
+   "path": "zakon/2013/2624",
+   "short": "Zakon o provedbi Uredbe Europske unije o europskim fondovima poduzetničkog kapitala",
+   "title": "Zakon o provedbi Uredbe Europske unije o europskim fondovima poduzetničkog kapitala",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/123/2624",
+   "versions": [
+    {
+     "from": "2013-10-05",
+     "units": 11,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2013_10_123_2624.html",
+     "sha256": "bad9260697d4d7764ffc50173de9f69a4da0f97d9b6fa92cfd14901d790be54d"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2013-2625",
+   "path": "zakon/2013/2625",
+   "short": "Zakon o provedbi Uredbe Europske unije o europskim fondovima socijalnog poduzetništva",
+   "title": "Zakon o provedbi Uredbe Europske unije o europskim fondovima socijalnog poduzetništva",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/123/2625",
+   "versions": [
+    {
+     "from": "2013-10-05",
+     "units": 11,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2013_10_123_2625.html",
+     "sha256": "bf6ebca61fa09b03a3a35c142de97aeba41b6f93d50805b110d18dd8306b47e1"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2013-2663",
+   "path": "zakon/2013/2663",
+   "short": "Zakon o izmjeni Zakona o pravosudnoj suradnji u kaznenim stvarima s državama članicama Europske unije",
+   "title": "Zakon o izmjeni Zakona o pravosudnoj suradnji u kaznenim stvarima s državama članicama Europske unije",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/124/2663",
+   "versions": [
+    {
+     "from": "2014-01-01",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2013_10_124_2663.html",
+     "sha256": "b715f99ed728537d65ec053113d9850a659665ce8b831ca5ddb66a9287fe2dc4"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2013-2677",
+   "path": "zakon/2013/2677",
+   "short": "Zakon o izmjenama i dopuni Zakona o ustrojstvu i djelokrugu ministarstava i drugih središnjih tijela državne uprave",
+   "title": "Zakon o izmjenama i dopuni Zakona o ustrojstvu i djelokrugu ministarstava i drugih središnjih tijela državne uprave",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/125/2677",
+   "versions": [
+    {
+     "from": "2013-10-19",
+     "units": 8,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2013_10_125_2677.html",
+     "sha256": "9aafe92e8ab82b29438cdba53d46a7db63d91ce7a2e8e39f8d6c924cf151606b"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2013-2678",
+   "path": "zakon/2013/2678",
+   "short": "Zakon o izmjenama i dopunama Zakona o porezu na dohodak",
+   "title": "Zakon o izmjenama i dopunama Zakona o porezu na dohodak",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/125/2678",
+   "versions": [
+    {
+     "from": "2013-10-19",
+     "units": 11,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2013_10_125_2678.html",
+     "sha256": "0a2a76bbeb30279ec9728a291379fc3752dbce879a2529845d7d8d84227f98a0"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2013-2679",
+   "path": "zakon/2013/2679",
+   "short": "Zakon o izmjenama i dopunama Zakona o zadrugama",
+   "title": "Zakon o izmjenama i dopunama Zakona o zadrugama",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/125/2679",
+   "versions": [
+    {
+     "from": "2013-10-19",
+     "units": 19,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2013_10_125_2679.html",
+     "sha256": "25f42b47f157517b5bc298f5a5a90986d6ccf8780629f398002a700f10033374"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2013-2752",
+   "path": "zakon/2013/2752",
+   "short": "Zakon o promicanju čistih i energetski učinkovitih vozila u cestovnom prijevozu",
+   "title": "Zakon o promicanju čistih i energetski učinkovitih vozila u cestovnom prijevozu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/127/2752",
+   "versions": [
+    {
+     "from": "2013-10-19",
+     "units": 10,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2013_10_127_2752.html",
+     "sha256": "1830e6d66da7270a58b9acb5a9a43ae654815d508f37918c0693f9c6760b8c48"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2013-2755",
+   "path": "zakon/2013/2755",
+   "short": "Zakon o provedbi Uredbe Vijeća (EZ) br. 2201/2003 u području nadležnosti, priznanja i izvršenja sudskih odluka u bračnim sporovima i u stvarima povezanim s roditeljskom skrbi",
+   "title": "Zakon o provedbi Uredbe Vijeća (EZ) br. 2201/2003 u području nadležnosti, priznanja i izvršenja sudskih odluka u bračnim sporovima i u stvarima povezanim s roditeljskom skrbi",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/127/2755",
+   "versions": [
+    {
+     "from": "2013-10-26",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2013_10_127_2755.html",
+     "sha256": "253eb99e942fef43a8acb8dcd58be41f5fee408c4782f945d4e5f8c3762a9db1"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2013-2756",
+   "path": "zakon/2013/2756",
+   "short": "Zakon o izmjeni Zakona o vanjskim poslovima",
+   "title": "Zakon o izmjeni Zakona o vanjskim poslovima",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/127/2756",
+   "versions": [
+    {
+     "from": "2013-10-26",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2013_10_127_2756.html",
+     "sha256": "3f7a0c0a6fe472f278d792dbab598bc879558b27744925d0020e0f7c1af30b3b"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2013-2758",
+   "path": "zakon/2013/2758",
+   "short": "Zakon o izmjenama i dopunama Zakona o nasljeđivanju",
+   "title": "Zakon o izmjenama i dopunama Zakona o nasljeđivanju",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/127/2758",
+   "versions": [
+    {
+     "from": "2013-10-26",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2013_10_127_2758.html",
+     "sha256": "d883c00bb83c3e1d695aa2341988ca83e04976e27caa0c7bb496f83c63e90798"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2013-2759",
+   "path": "zakon/2013/2759",
+   "short": "Zakon o izmjenama i dopunama Zakona o Državnoj komisiji za kontrolu postupaka javne nabave",
+   "title": "Zakon o izmjenama i dopunama Zakona o Državnoj komisiji za kontrolu postupaka javne nabave",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/127/2759",
+   "versions": [
+    {
+     "from": "2013-10-26",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2013_10_127_2759.html",
+     "sha256": "e405a60002c1302801e8c248e87a036ddf6d4500195c76e0d5f2cdb40ebca0a8"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2013-2881",
+   "path": "zakon/2013/2881",
+   "short": "Zakon o strateškim investicijskim projektima Republike Hrvatske",
+   "title": "Zakon o strateškim investicijskim projektima Republike Hrvatske",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/133/2881",
+   "versions": [
+    {
+     "from": "2013-11-14",
+     "units": 31,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2013_11_133_2881.html",
+     "sha256": "70bad9810ebbf40b3ccd455d84114d720c807e33e1b21eab0b7dd53eb95d87ef"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2013-2882",
+   "path": "zakon/2013/2882",
+   "short": "Zakon o dopunama Zakona o mirovinskom osiguranju",
+   "title": "Zakon o dopunama Zakona o mirovinskom osiguranju",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/133/2882",
+   "versions": [
+    {
+     "from": "2013-11-14",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2013_11_133_2882.html",
+     "sha256": "4697fcad781c10df635dd84d641620008d548cacb4351cf4bc03aa94a6b048bc"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2013-2944",
+   "path": "zakon/2013/2944",
+   "short": "Zakon o izmjenama i dopuni Zakona o obveznom zdravstvenom osiguranju",
+   "title": "Zakon o izmjenama i dopuni Zakona o obveznom zdravstvenom osiguranju",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/137/2944",
+   "versions": [
+    {
+     "from": "2013-11-16",
+     "units": 12,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2013_11_137_2944.html",
+     "sha256": "f6bc6c4dfab31d4ada3ddab8dab43a127786eedd59f5943934dc5c07c60de4dd"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2013-2970",
+   "path": "zakon/2013/2970",
+   "short": "Zakon o dopuni Zakona o stambenoj štednji i državnom poticanju stambene štednje",
+   "title": "Zakon o dopuni Zakona o stambenoj štednji i državnom poticanju stambene štednje",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/139/2970",
+   "versions": [
+    {
+     "from": "2014-01-01",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2013_11_139_2970.html",
+     "sha256": "860c485a0909b5e1d16d81be94854738b9a7ea9af07a8462f46ca74a53aa8454"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2013-3013",
+   "path": "zakon/2013/3013",
+   "short": "Zakon o izmjeni Zakona o Fondu za naknadu oduzete imovine",
+   "title": "Zakon o izmjeni Zakona o Fondu za naknadu oduzete imovine",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/141/3013",
+   "versions": [
+    {
+     "from": "2014-01-01",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2013_11_141_3013.html",
+     "sha256": "80e664cdb2f1047ba9626f45cc3a4c546c8e0cb95ec41756e8c802eb2cfaa584"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2013-3014",
+   "path": "zakon/2013/3014",
+   "short": "Zakon o izmjeni i dopunama Zakona o državnim potporama",
+   "title": "Zakon o izmjeni i dopunama Zakona o državnim potporama",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/141/3014",
+   "versions": [
+    {
+     "from": "2013-12-05",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2013_11_141_3014.html",
+     "sha256": "8830deb3ea4f741d867ea059c1237f0c17e1a2be5d3254a67b74c031226069c0"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2013-3015",
+   "path": "zakon/2013/3015",
+   "short": "Zakon o izmjenama i dopunama Zakona o autorskom pravu i srodnim pravima",
+   "title": "Zakon o izmjenama i dopunama Zakona o autorskom pravu i srodnim pravima",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/141/3015",
+   "versions": [
+    {
+     "from": "2013-12-05",
+     "units": 16,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2013_11_141_3015.html",
+     "sha256": "bbfe16a53eafee86fcc4122a6cd2f9691886af24795e914b060d53e77ddf306d"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2013-3066",
+   "path": "zakon/2013/3066",
+   "short": "Zakon o izmjenama i dopunama Zakona o potrošačkom kreditiranju",
+   "title": "Zakon o izmjenama i dopunama Zakona o potrošačkom kreditiranju",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/143/3066",
+   "versions": [
+    {
+     "from": "2014-01-01",
+     "units": 16,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2013_12_143_3066.html",
+     "sha256": "ed29b6fb776cd627db0298e8b90f2e8f775dc893e2f8d6db7bf93a2c90e37b47"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2013-3067",
+   "path": "zakon/2013/3067",
+   "short": "Zakon o izmjenama i dopunama Zakona o azilu",
+   "title": "Zakon o izmjenama i dopunama Zakona o azilu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/143/3067",
+   "versions": [
+    {
+     "from": "2013-12-10",
+     "units": 53,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2013_12_143_3067.html",
+     "sha256": "4e83fa6520e2e929c237e8ff54f5d0413349b492c85e26a1b9c4b21682637fd1"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2013-3068",
+   "path": "zakon/2013/3068",
+   "short": "Zakon o izmjenama i dopunama Zakona o javnoj nabavi",
+   "title": "Zakon o izmjenama i dopunama Zakona o javnoj nabavi",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/143/3068",
+   "versions": [
+    {
+     "from": "2013-12-10",
+     "units": 20,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2013_12_143_3068.html",
+     "sha256": "58153b5b7e41be016a895d39ca2c69c5bb6a78f45e9f0988c9f568eeb809caf8"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2013-3069",
+   "path": "zakon/2013/3069",
+   "short": "Zakon o izmjenama i dopunama Zakona o uspostavi institucionalnog okvira za korištenje strukturnih instrumenata Europske unije u Republici Hrvatskoj",
+   "title": "Zakon o izmjenama i dopunama Zakona o uspostavi institucionalnog okvira za korištenje strukturnih instrumenata Europske unije u Republici Hrvatskoj",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/143/3069",
+   "versions": [
+    {
+     "from": "2013-12-10",
+     "units": 13,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2013_12_143_3069.html",
+     "sha256": "bea4972e6df4ee8a50d7034ec456ee6e0b60f057a6d8d9a1224b08c128266a8e"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2013-3070",
+   "path": "zakon/2013/3070",
+   "short": "Zakon o izmjenama i dopunama Zakona o postupanju s nezakonito izgrađenim zgradama",
+   "title": "Zakon o izmjenama i dopunama Zakona o postupanju s nezakonito izgrađenim zgradama",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/143/3070",
+   "versions": [
+    {
+     "from": "2013-12-03",
+     "units": 10,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2013_12_143_3070.html",
+     "sha256": "1aaa0e7d5a6bc4e094572d40a5d610c75eb795969385654a05713723639e27a6"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2013-3090",
+   "path": "zakon/2013/3090",
+   "short": "Zakon o izmjenama i dopunama Zakona o kaznenom postupku",
+   "title": "Zakon o izmjenama i dopunama Zakona o kaznenom postupku",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/145/3090",
+   "versions": [
+    {
+     "from": "2013-12-15",
+     "units": 262,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2013_12_145_3090.html",
+     "sha256": "f0520b65936d484b60b04cc9d0feccf21c220dcb30635113ceeed97db8c66024"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2013-3112",
+   "path": "zakon/2013/3112",
+   "short": "Zakon o izmjeni Zakona o izvršavanju Državnog proračuna Republike Hrvatske za 2013. godinu (NN br. 145A)",
+   "title": "Zakon o izmjeni Zakona o izvršavanju Državnog proračuna Republike Hrvatske za 2013. godinu (NN br. 145A)",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/145/3112",
+   "versions": [
+    {
+     "from": "2013-12-07",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2013_12_145_3112.html",
+     "sha256": "c5e58d9f2b2179f08e69c917d60a5a7c66912eb6a9856707120f962ec0d007c3"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2013-3135",
+   "path": "zakon/2013/3135",
+   "short": "Zakon o provedbi Uredbe (EZ) br. 850/2004 o postojanim organskim onečišćujućim tvarima",
+   "title": "Zakon o provedbi Uredbe (EZ) br. 850/2004 o postojanim organskim onečišćujućim tvarima",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/148/3135",
+   "versions": [
+    {
+     "from": "2013-12-19",
+     "units": 17,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2013_12_148_3135.html",
+     "sha256": "42d3b1aeae176ed5eb32970ec906a0e98dad4c3ef9a22b24f40073c2b14ac5b8"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2013-3136",
+   "path": "zakon/2013/3136",
+   "short": "Zakon o Poreznoj upravi",
+   "title": "Zakon o Poreznoj upravi",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/148/3136",
+   "versions": [
+    {
+     "from": "2013-12-19",
+     "units": 89,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2013_12_148_3136.html",
+     "sha256": "7922c16410036ff8598bf7d77642cfa0a8482183d8582962533c8e09152ec683"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2013-3137",
+   "path": "zakon/2013/3137",
+   "short": "Zakon o izmjenama i dopunama Zakona o porezu na dohodak",
+   "title": "Zakon o izmjenama i dopunama Zakona o porezu na dohodak",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/148/3137",
+   "versions": [
+    {
+     "from": "2013-12-19",
+     "units": 13,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2013_12_148_3137.html",
+     "sha256": "4972b57004613bc2c7a10d3036162df7fc84819d5a6d8b6d8e3403fe652d8d2b"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2013-3138",
+   "path": "zakon/2013/3138",
+   "short": "Zakon o izmjenama i dopunama Zakona o porezu na dodanu vrijednost",
+   "title": "Zakon o izmjenama i dopunama Zakona o porezu na dodanu vrijednost",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/148/3138",
+   "versions": [
+    {
+     "from": "2013-12-19",
+     "units": 12,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2013_12_148_3138.html",
+     "sha256": "803884f2101028ff349a0379bd8df32b8ac5bbd9178046c6a424c43fe7c6e60c"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2013-3139",
+   "path": "zakon/2013/3139",
+   "short": "Zakon o izmjenama i dopunama Zakona o porezu na dobit",
+   "title": "Zakon o izmjenama i dopunama Zakona o porezu na dobit",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/148/3139",
+   "versions": [
+    {
+     "from": "2013-12-19",
+     "units": 12,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2013_12_148_3139.html",
+     "sha256": "f1e81f3e9a7157b0249525e12e9627af89a9af0f840a604601b76a846e611252"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2013-3140",
+   "path": "zakon/2013/3140",
+   "short": "Zakon o izmjenama i dopunama Zakona o doprinosima",
+   "title": "Zakon o izmjenama i dopunama Zakona o doprinosima",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/148/3140",
+   "versions": [
+    {
+     "from": "2013-12-19",
+     "units": 35,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2013_12_148_3140.html",
+     "sha256": "6655f88d9cef58c7e9612bf4e89d50b79dba24bad29a92dce7aed21abffc8ed6"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2013-3142",
+   "path": "zakon/2013/3142",
+   "short": "Zakon o izmjenama Zakona o područjima posebne državne skrbi",
+   "title": "Zakon o izmjenama Zakona o područjima posebne državne skrbi",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/148/3142",
+   "versions": [
+    {
+     "from": "2014-01-01",
+     "units": 10,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2013_12_148_3142.html",
+     "sha256": "62c822f63d7dd3dcd150e4444a3c2df624d4768ce60dd1994d2dba3348c90286"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2013-3143",
+   "path": "zakon/2013/3143",
+   "short": "Zakon o izmjeni Zakona o brdsko-planinskim područjima",
+   "title": "Zakon o izmjeni Zakona o brdsko-planinskim područjima",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/148/3143",
+   "versions": [
+    {
+     "from": "2014-01-01",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2013_12_148_3143.html",
+     "sha256": "acd53c5459a9a0e4176bf9233fa943440ec1c1a4e254c128df77649c334234ef"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2013-3144",
+   "path": "zakon/2013/3144",
+   "short": "Zakon o izmjeni Zakona o obnovi i razvoju Grada Vukovara",
+   "title": "Zakon o izmjeni Zakona o obnovi i razvoju Grada Vukovara",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/148/3144",
+   "versions": [
+    {
+     "from": "2014-01-01",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2013_12_148_3144.html",
+     "sha256": "9e9d5b4a3731e7443c5e274bf94500efb20a37a6529d674c93cf8098242b87a6"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2013-3145",
+   "path": "zakon/2013/3145",
+   "short": "Zakon o izmjenama i dopunama Zakona o sudskom registru",
+   "title": "Zakon o izmjenama i dopunama Zakona o sudskom registru",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/148/3145",
+   "versions": [
+    {
+     "from": "2013-12-19",
+     "units": 56,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2013_12_148_3145.html",
+     "sha256": "7c48cd05eea7a485d19587f8a5028445be607ace62e4c06edbd644dc52011f4d"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2013-3146",
+   "path": "zakon/2013/3146",
+   "short": "Zakon o izmjenama i dopunama Zakona o državnom odvjetništvu",
+   "title": "Zakon o izmjenama i dopunama Zakona o državnom odvjetništvu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/148/3146",
+   "versions": [
+    {
+     "from": "2013-12-15",
+     "units": 51,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2013_12_148_3146.html",
+     "sha256": "ccbca1828097f1e4c1bb5ac6c94838c6e0859b0bc18528fc1462e30810e22d50"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2013-3147",
+   "path": "zakon/2013/3147",
+   "short": "Zakon o izmjenama i dopunama Zakona o Uredu za suzbijanje korupcije i organiziranog kriminaliteta",
+   "title": "Zakon o izmjenama i dopunama Zakona o Uredu za suzbijanje korupcije i organiziranog kriminaliteta",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/148/3147",
+   "versions": [
+    {
+     "from": "2013-12-15",
+     "units": 24,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2013_12_148_3147.html",
+     "sha256": "059ce7a8aaf74ce4dfb70903272527dd46324fcc2c8e04630cfce8266dd073af"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2013-3148",
+   "path": "zakon/2013/3148",
+   "short": "Zakon o izmjenama i dopunama Zakona o sudovima za mladež",
+   "title": "Zakon o izmjenama i dopunama Zakona o sudovima za mladež",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/148/3148",
+   "versions": [
+    {
+     "from": "2013-12-15",
+     "units": 17,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2013_12_148_3148.html",
+     "sha256": "39b5ec447c2e09698be385e47bbe2ed1848674e9944e58fb787d3d1d545255ef"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2013-3149",
+   "path": "zakon/2013/3149",
+   "short": "Zakon o izmjenama i dopunama Zakona o ustrojstvu i djelokrugu ministarstava i drugih središnjih tijela državne uprave",
+   "title": "Zakon o izmjenama i dopunama Zakona o ustrojstvu i djelokrugu ministarstava i drugih središnjih tijela državne uprave",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/148/3149",
+   "versions": [
+    {
+     "from": "2014-01-01",
+     "units": 16,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2013_12_148_3149.html",
+     "sha256": "1993f7ca69653ef3afa0864fd3fff59d9d98f1476278dd337d74320468b74de5"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2013-3150",
+   "path": "zakon/2013/3150",
+   "short": "Zakon o izmjenama Zakona o poljoprivrednoj savjetodavnoj službi",
+   "title": "Zakon o izmjenama Zakona o poljoprivrednoj savjetodavnoj službi",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/148/3150",
+   "versions": [
+    {
+     "from": "2013-12-19",
+     "units": 13,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2013_12_148_3150.html",
+     "sha256": "d0d06a0ac03d74d3034c2102ab027889b8537d6f49d191b0263f9c7f5b0e8308"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2013-3151",
+   "path": "zakon/2013/3151",
+   "short": "Zakon o izmjenama i dopunama Zakona o veterinarstvu",
+   "title": "Zakon o izmjenama i dopunama Zakona o veterinarstvu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/148/3151",
+   "versions": [
+    {
+     "from": "2013-12-19",
+     "units": 24,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2013_12_148_3151.html",
+     "sha256": "ff60636de143b7066100a0029a5343f192830a45be241b917adb09c6096c9fe4"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2013-3152",
+   "path": "zakon/2013/3152",
+   "short": "Zakon o izmjenama i dopunama Zakona o slobodnim zonama",
+   "title": "Zakon o izmjenama i dopunama Zakona o slobodnim zonama",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/148/3152",
+   "versions": [
+    {
+     "from": "2013-12-19",
+     "units": 18,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2013_12_148_3152.html",
+     "sha256": "07116029fc32187613b740a1db8aa869ba6515f0142c1fb34ccfcf0e4d5fa0d5"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2013-3153",
+   "path": "zakon/2013/3153",
+   "short": "Zakon o izmjenama Zakona o provedbi Uredbe (EU) br. 211/2011 Europskog parlamenta i Vijeća od 16. veljače 2011. godine o građanskoj inicijativi",
+   "title": "Zakon o izmjenama Zakona o provedbi Uredbe (EU) br. 211/2011 Europskog parlamenta i Vijeća od 16. veljače 2011. godine o građanskoj inicijativi",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/148/3153",
+   "versions": [
+    {
+     "from": "2013-12-19",
+     "units": 6,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2013_12_148_3153.html",
+     "sha256": "fe1b48117022cd5554b5a5fcc594cb3d0614978681ef5d8f72abe5c0a32f8bf0"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2013-3154",
+   "path": "zakon/2013/3154",
+   "short": "Zakon o izmjeni i dopuni Zakona o cestama",
+   "title": "Zakon o izmjeni i dopuni Zakona o cestama",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/148/3154",
+   "versions": [
+    {
+     "from": "2014-01-01",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2013_12_148_3154.html",
+     "sha256": "83961e73ae3216ff7c1a1f202aaaa586cfca02e6853d6be22f50e73645ce959f"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2013-3155",
+   "path": "zakon/2013/3155",
+   "short": "Zakon o izmjeni i dopuni Zakona o željeznici",
+   "title": "Zakon o izmjeni i dopuni Zakona o željeznici",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/148/3155",
+   "versions": [
+    {
+     "from": "2014-01-01",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2013_12_148_3155.html",
+     "sha256": "fda68521f9b5ddc0708986d87e9bebea76899b000f80a0606831a3b8dafbce7f"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2013-3156",
+   "path": "zakon/2013/3156",
+   "short": "Zakon o izmjenama i dopunama Zakona o pravima hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji",
+   "title": "Zakon o izmjenama i dopunama Zakona o pravima hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/148/3156",
+   "versions": [
+    {
+     "from": "2014-01-01",
+     "units": 44,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2013_12_148_3156.html",
+     "sha256": "75ef6ef60e5b7dd5a44684254d46eecaa68068172e760e41344bfaae874604f4"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2013-3157",
+   "path": "zakon/2013/3157",
+   "short": "Zakon o izmjenama i dopunama Zakona o zaštiti vojnih i civilnih invalida rata",
+   "title": "Zakon o izmjenama i dopunama Zakona o zaštiti vojnih i civilnih invalida rata",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/148/3157",
+   "versions": [
+    {
+     "from": "2014-01-01",
+     "units": 48,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2013_12_148_3157.html",
+     "sha256": "84d9e9e76861734903f1aad38aca4ae8096b215551c6d14fcf03f1da924958c5"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2013-3172",
+   "path": "zakon/2013/3172",
+   "short": "Zakon o izmjenama i dopunama Zakona o izvršavanju kazne zatvora",
+   "title": "Zakon o izmjenama i dopunama Zakona o izvršavanju kazne zatvora",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/150/3172",
+   "versions": [
+    {
+     "from": "2013-12-15",
+     "units": 28,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2013_12_150_3172.html",
+     "sha256": "b86343f73aa8b379d2ca9bbe061883830182dbb103eb5409ecfc14478c1a86d6"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2013-3219",
+   "path": "zakon/2013/3219",
+   "short": "Zakon o izvršavanju Državnog proračuna Republike Hrvatske za 2014. godinu",
+   "title": "Zakon o izvršavanju Državnog proračuna Republike Hrvatske za 2014. godinu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/152/3219",
+   "versions": [
+    {
+     "from": "2014-01-01",
+     "units": 50,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2013_12_152_3219.html",
+     "sha256": "861c6be41dad7601e48ec06a214131852741769a2593f5b8253d4b03ef75987f"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2013-3220",
+   "path": "zakon/2013/3220",
+   "short": "Zakon o prostornom uređenju",
+   "title": "Zakon o prostornom uređenju",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/153/3220",
+   "versions": [
+    {
+     "from": "2014-01-01",
+     "units": 207,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2013_12_153_3220.html",
+     "sha256": "c09cebfbb2749c790dcf914208160c49df3bf17b78bf5dfd7007154351a69b3c"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2013-3221",
+   "path": "zakon/2013/3221",
+   "short": "Zakon o gradnji",
+   "title": "Zakon o gradnji",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/153/3221",
+   "versions": [
+    {
+     "from": "2014-01-01",
+     "units": 205,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2013_12_153_3221.html",
+     "sha256": "8b73fe09516cf917045bfde9b49856d7fcfd0f93299ecc41362c8374f858390c"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2013-3224",
+   "path": "zakon/2013/3224",
+   "short": "Zakon o izmjenama Zakona o poštanskim uslugama",
+   "title": "Zakon o izmjenama Zakona o poštanskim uslugama",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/153/3224",
+   "versions": [
+    {
+     "from": "2013-12-19",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2013_12_153_3224.html",
+     "sha256": "e45b258ed433b9202e0d22189382c6f244cbea3e244cca6b5b578c3d57db5bf7"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2013-3225",
+   "path": "zakon/2013/3225",
+   "short": "Zakon o izmjenama i dopuni Zakona o zaštiti od buke",
+   "title": "Zakon o izmjenama i dopuni Zakona o zaštiti od buke",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/153/3225",
+   "versions": [
+    {
+     "from": "2013-12-19",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2013_12_153_3225.html",
+     "sha256": "91242b8faa5996303fb44e02236cda847f04398feb84531e1c169c53e4b897b4"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2013-3289",
+   "path": "zakon/2013/3289",
+   "short": "Zakon o socijalnoj skrbi",
+   "title": "Zakon o socijalnoj skrbi",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/157/3289",
+   "versions": [
+    {
+     "from": "2014-01-01",
+     "units": 280,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2013_12_157_3289.html",
+     "sha256": "0c5008ab93b4d624f0c660a8bdcbb091d73d69a78de02c8e58e5f5f80bb1ba21"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2013-3290",
+   "path": "zakon/2013/3290",
+   "short": "Zakon o mirovinskom osiguranju",
+   "title": "Zakon o mirovinskom osiguranju",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/157/3290",
+   "versions": [
+    {
+     "from": "2014-01-01",
+     "units": 194,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2013_12_157_3290.html",
+     "sha256": "2de57ad4d4115858ab813a06812ae60f724dc2c69c99dcfb7c665e05a06d01ec"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2013-3293",
+   "path": "zakon/2013/3293",
+   "short": "Zakon o izmjeni i dopunama Zakona o smanjenju mirovina određenih, odnosno ostvarenih prema posebnim propisima o mirovinskom osiguranju",
+   "title": "Zakon o izmjeni i dopunama Zakona o smanjenju mirovina određenih, odnosno ostvarenih prema posebnim propisima o mirovinskom osiguranju",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/157/3293",
+   "versions": [
+    {
+     "from": "2014-01-01",
+     "units": 9,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2013_12_157_3293.html",
+     "sha256": "ddadd1aed2da87308e4dc9f4c2808a7bda4b38012b8df201389e79f760a9b340"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2013-3294",
+   "path": "zakon/2013/3294",
+   "short": "Zakon o izmjenama i dopunama Prekršajnog zakona",
+   "title": "Zakon o izmjenama i dopunama Prekršajnog zakona",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/157/3294",
+   "versions": [
+    {
+     "from": "2014-01-01",
+     "units": 17,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2013_12_157_3294.html",
+     "sha256": "5eaf345d7aeb30ea5aa79b513fcddc03d75c49cb92088331f0cf31b2a7fb8df9"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2013-3295",
+   "path": "zakon/2013/3295",
+   "short": "Zakon o izmjenama i dopunama Zakona o sudskim pristojbama",
+   "title": "Zakon o izmjenama i dopunama Zakona o sudskim pristojbama",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/157/3295",
+   "versions": [
+    {
+     "from": "2014-01-01",
+     "units": 34,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2013_12_157_3295.html",
+     "sha256": "39400c5d6833d25684393e6e995d2fe1efec26734f48d3f8076f829d15fb869c"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2013-3296",
+   "path": "zakon/2013/3296",
+   "short": "Zakon o izmjeni i dopuni Zakona o zaštiti i očuvanju kulturnih dobara",
+   "title": "Zakon o izmjeni i dopuni Zakona o zaštiti i očuvanju kulturnih dobara",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/157/3296",
+   "versions": [
+    {
+     "from": "2014-01-01",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2013_12_157_3296.html",
+     "sha256": "869ac703608c8959ce31be7e8d08780729f619920b3adabf844d16e7f29428da"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2013-3328",
+   "path": "zakon/2013/3328",
+   "short": "Zakon o kreditnim institucijama",
+   "title": "Zakon o kreditnim institucijama",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/159/3328",
+   "versions": [
+    {
+     "from": "2014-01-01",
+     "units": 392,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2013_12_159_3328.html",
+     "sha256": "9b47cb81d1cf529c1fcb72e0ec9b54d790403f330ba1079573cf4bf06aa8f753"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2013-357",
+   "path": "zakon/2013/357",
+   "short": "Zakon o trošarinama",
+   "title": "Zakon o trošarinama",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/22/357",
+   "versions": [
+    {
+     "from": "2013-03-02",
+     "units": 120,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2013_02_22_357.html",
+     "sha256": "8a36eb3d1b8915aac1f668f60446ee17c8e118386c4bf0b0e8a29346499bfc4b"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2013-358",
+   "path": "zakon/2013/358",
+   "short": "Zakon o tržištu električne energije",
+   "title": "Zakon o tržištu električne energije",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/22/358",
+   "versions": [
+    {
+     "from": "2013-03-02",
+     "units": 83,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2013_02_22_358.html",
+     "sha256": "71a4526082da546bca8dcae14b1a8e9aba8614aeee42324a49a75bf6c1c508ce"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2013-361",
+   "path": "zakon/2013/361",
+   "short": "Zakon o izmjenama i dopunama Zakona o volonterstvu",
+   "title": "Zakon o izmjenama i dopunama Zakona o volonterstvu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/22/361",
+   "versions": [
+    {
+     "from": "2013-03-02",
+     "units": 37,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2013_02_22_361.html",
+     "sha256": "e03e39fc5d977d9b86a40ba9a9a2ddc616831de802fe8b4ed0b01d312a74b4b7"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2013-362",
+   "path": "zakon/2013/362",
+   "short": "Zakon o izmjenama i dopunama Zakona o posebnim pravima predsjednika Republike Hrvatske po prestanku obnašanja dužnosti",
+   "title": "Zakon o izmjenama i dopunama Zakona o posebnim pravima predsjednika Republike Hrvatske po prestanku obnašanja dužnosti",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/22/362",
+   "versions": [
+    {
+     "from": "2013-03-02",
+     "units": 9,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2013_02_22_362.html",
+     "sha256": "e4920028e7bf88c07d792014a4de7713c6ca424fe531ef7b52152be3eaf7e75d"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2013-363",
+   "path": "zakon/2013/363",
+   "short": "Zakon o izmjenama i dopunama Zakona o obvezama i pravima državnih dužnosnika",
+   "title": "Zakon o izmjenama i dopunama Zakona o obvezama i pravima državnih dužnosnika",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/22/363",
+   "versions": [
+    {
+     "from": "2013-03-02",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2013_02_22_363.html",
+     "sha256": "a2dcb2ebea40190a310f162ef50f69f6837b9cf30c7de494bd6deb0aab8e90b6"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2013-382",
+   "path": "zakon/2013/382",
+   "short": "Zakon o izmjenama i dopunama Zakona o izborima zastupnika iz Republike Hrvatske u Europski parlament",
+   "title": "Zakon o izmjenama i dopunama Zakona o izborima zastupnika iz Republike Hrvatske u Europski parlament",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/23/382",
+   "versions": [
+    {
+     "from": "2013-03-01",
+     "units": 42,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2013_02_23_382.html",
+     "sha256": "7ce2ad13dae2859d79b0547c6819fa67ab9fd67b74ed18a2f6deeba7d6522bcd"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2013-405",
+   "path": "zakon/2013/405",
+   "short": "Zakon o izmjenama i dopunama Zakona o parničnom postupku",
+   "title": "Zakon o izmjenama i dopunama Zakona o parničnom postupku",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/25/405",
+   "versions": [
+    {
+     "from": "2013-04-01",
+     "units": 104,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2013_02_25_405.html",
+     "sha256": "dfc476b247b35d82d04c4bfb61bea4215087d5bf160b3778cbadfb14a11fd5e7"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2013-406",
+   "path": "zakon/2013/406",
+   "short": "Zakon o izmjenama i dopunama Zakona o građevnim proizvodima",
+   "title": "Zakon o izmjenama i dopunama Zakona o građevnim proizvodima",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/25/406",
+   "versions": [
+    {
+     "from": "2013-03-08",
+     "units": 33,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2013_02_25_406.html",
+     "sha256": "7b08534799e9948aae32001c6a5fa4f084f04e43329dad9c3591f1fd430ba4af"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2013-407",
+   "path": "zakon/2013/407",
+   "short": "Zakon o izmjenama i dopunama Zakona o arhitektonskim i inženjerskim poslovima i djelatnostima u prostornom uređenju i gradnji",
+   "title": "Zakon o izmjenama i dopunama Zakona o arhitektonskim i inženjerskim poslovima i djelatnostima u prostornom uređenju i gradnji",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/25/407",
+   "versions": [
+    {
+     "from": "2013-03-08",
+     "units": 21,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2013_02_25_407.html",
+     "sha256": "68ff60be5f28bb27656a2790ab48be25918e8bf07abfcfcdfe4ef2bfbb87a1be"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2013-408",
+   "path": "zakon/2013/408",
+   "short": "Zakon o izmjeni Zakona o Hrvatskoj banci za obnovu i razvitak",
+   "title": "Zakon o izmjeni Zakona o Hrvatskoj banci za obnovu i razvitak",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/25/408",
+   "versions": [
+    {
+     "from": "2013-03-08",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2013_02_25_408.html",
+     "sha256": "0d8749132bb8e616d0daeae8e5acc0e56bd81710339d94e6cbdeee4cb22bce5f"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2013-455",
+   "path": "zakon/2013/455",
+   "short": "Zakon o izmjenama i dopunama Zakona o financiranju političkih aktivnosti i izborne promidžbe",
+   "title": "Zakon o izmjenama i dopunama Zakona o financiranju političkih aktivnosti i izborne promidžbe",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/27/455",
+   "versions": [
+    {
+     "from": "2013-03-12",
+     "units": 48,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2013_03_27_455.html",
+     "sha256": "33085ec0b50a555dd02f8876d72b5178b5b0ce0044c7e75675972b0dd5db62af"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2013-472",
+   "path": "zakon/2013/472",
+   "short": "Zakon o tržištu plina",
+   "title": "Zakon o tržištu plina",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/28/472",
+   "versions": [
+    {
+     "from": "2013-03-14",
+     "units": 115,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2013_03_28_472.html",
+     "sha256": "1b97e4197044c681cabe1498397325385c55d2886ff60eb607dbf6e795cbab85"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2013-474",
+   "path": "zakon/2013/474",
+   "short": "Zakon o izmjenama i dopunama Zakona o Državnom sudbenom vijeću",
+   "title": "Zakon o izmjenama i dopunama Zakona o Državnom sudbenom vijeću",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/28/474",
+   "versions": [
+    {
+     "from": "2013-03-14",
+     "units": 25,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2013_03_28_474.html",
+     "sha256": "62fea1f751562faf56ff02d8dcdeab6b82b44bf35d8e12cb62fc390613898de9"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2013-634",
+   "path": "zakon/2013/634",
+   "short": "Zakon o dopuni Zakona o igrama na sreću",
+   "title": "Zakon o dopuni Zakona o igrama na sreću",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/35/634",
+   "versions": [
+    {
+     "from": "2013-03-26",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2013_03_35_634.html",
+     "sha256": "13138e112cf78d98d36fbb466218614487928698f3784557138a24b6fa22a617"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2013-669",
+   "path": "zakon/2013/669",
+   "short": "Zakon o izmjenama i dopunama Zakona o zaštiti životinja",
+   "title": "Zakon o izmjenama i dopunama Zakona o zaštiti životinja",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/37/669",
+   "versions": [
+    {
+     "from": "2013-04-05",
+     "units": 30,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2013_03_37_669.html",
+     "sha256": "8963c0fc732509210a4d0e5750da2824fb137c4c5311a61daf04f4214d4cd5ab"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2013-670",
+   "path": "zakon/2013/670",
+   "short": "Zakon o izmjeni i dopuni Zakona o područjima županija, gradova i općina u Republici Hrvatskoj",
+   "title": "Zakon o izmjeni i dopuni Zakona o područjima županija, gradova i općina u Republici Hrvatskoj",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/37/670",
+   "versions": [
+    {
+     "from": "2013-04-05",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2013_03_37_670.html",
+     "sha256": "ffd12d0ab189db022126cdd0c91ce5e78e81647f85921b84c7c0163f42a0a899"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2013-671",
+   "path": "zakon/2013/671",
+   "short": "Zakon o izmjenama Zakona o državnim službenicima",
+   "title": "Zakon o izmjenama Zakona o državnim službenicima",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/37/671",
+   "versions": [
+    {
+     "from": "2013-04-05",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2013_03_37_671.html",
+     "sha256": "f4f981e86ed96c10bd9ca442538f44d5378bd494a5f75d0413c8c708ab9927fd"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2013-679",
+   "path": "zakon/2013/679",
+   "short": "Zakon o izmjeni Zakona o plaćama ovlaštenih državnih revizora",
+   "title": "Zakon o izmjeni Zakona o plaćama ovlaštenih državnih revizora",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/38/679",
+   "versions": [
+    {
+     "from": "2013-04-01",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2013_03_38_679.html",
+     "sha256": "48a07e460ddb6e929004f9569f6b72abde4172ead427158eb292ea49a9bb6c47"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2013-680",
+   "path": "zakon/2013/680",
+   "short": "Zakon o izmjeni Zakona o državnim službenicima",
+   "title": "Zakon o izmjeni Zakona o državnim službenicima",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/38/680",
+   "versions": [
+    {
+     "from": "2013-04-01",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2013_03_38_680.html",
+     "sha256": "50367c5ded50f9556af6f458499aa4d5fcce09f93357f4099c13878188af451f"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2013-718",
+   "path": "zakon/2013/718",
+   "short": "Zakon o poljoprivrednom zemljištu",
+   "title": "Zakon o poljoprivrednom zemljištu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/39/718",
+   "versions": [
+    {
+     "from": "2013-04-11",
+     "units": 86,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2013_04_39_718.html",
+     "sha256": "3111da17f8844614366a9f1fff10a8a417de1b4a9ff800645565ef53cda9a063"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2013-720",
+   "path": "zakon/2013/720",
+   "short": "Zakon o minimalnoj plaći",
+   "title": "Zakon o minimalnoj plaći",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/39/720",
+   "versions": [
+    {
+     "from": "2013-04-11",
+     "units": 13,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2013_04_39_720.html",
+     "sha256": "d9a6e7e8adf7b013264bb20f6d81a7566e2f02ecbaf4462c87dcf89367044b68"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2013-727",
+   "path": "zakon/2013/727",
+   "short": "Zakon o izmjenama i dopunama Zakona o ustrojstvu i djelokrugu ministarstava i drugih središnjih tijela državne uprave",
+   "title": "Zakon o izmjenama i dopunama Zakona o ustrojstvu i djelokrugu ministarstava i drugih središnjih tijela državne uprave",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/39/727",
+   "versions": [
+    {
+     "from": "2013-04-11",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2013_04_39_727.html",
+     "sha256": "4d30c36d1536890f32f7cad1873e322c5f7f4086dc3eea9d70733598edce72c3"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2013-728",
+   "path": "zakon/2013/728",
+   "short": "Zakon o izmjenama i dopunama Prekršajnog zakona",
+   "title": "Zakon o izmjenama i dopunama Prekršajnog zakona",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/39/728",
+   "versions": [
+    {
+     "from": "2013-06-01",
+     "units": 63,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2013_04_39_728.html",
+     "sha256": "302d4af2828283149bf7ac12d4ec48bae80dc1baeb391ca0f1151337771a27c4"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2013-835",
+   "path": "zakon/2013/835",
+   "short": "Zakon o izmjeni i dopuni Zakona o područjima županija, gradova i općina u Republici Hrvatskoj",
+   "title": "Zakon o izmjeni i dopuni Zakona o područjima županija, gradova i općina u Republici Hrvatskoj",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/44/835",
+   "versions": [
+    {
+     "from": "2013-04-17",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2013_04_44_835.html",
+     "sha256": "fb78dea1bc91693ef8867b1ae31f6515480017e4badceefe904a369127100236"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2013-851",
+   "path": "zakon/2013/851",
+   "short": "Zakon o izmjeni i dopuni Zakona o područjima županija, gradova i općina u Republici Hrvatskoj",
+   "title": "Zakon o izmjeni i dopuni Zakona o područjima županija, gradova i općina u Republici Hrvatskoj",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/45/851",
+   "versions": [
+    {
+     "from": "2013-04-24",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2013_04_45_851.html",
+     "sha256": "e6e8f2fcb7593406a1ba3a93d57e47eaa5663d6ebd47dfea975d393bbd4398d3"
     }
    ]
   },
@@ -65117,6 +69422,36 @@
    ]
   },
   {
+   "slug": "zakon-2014-1335",
+   "path": "zakon/2014/1335",
+   "short": "Zakon o regulaciji tržišta željezničkih usluga",
+   "title": "Zakon o regulaciji tržišta željezničkih usluga",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2014/71/1335",
+   "versions": [
+    {
+     "from": "2014-06-19",
+     "units": 39,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2014_06_71_1335.html",
+     "sha256": "fca88ea70ed90069985f498318e15f51a751e17f453cd323d9fdcb9a8ed474e1"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2014-1336",
+   "path": "zakon/2014/1336",
+   "short": "Zakon o izmjenama i dopunama Zakona o elektroničkim komunikacijama",
+   "title": "Zakon o izmjenama i dopunama Zakona o elektroničkim komunikacijama",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2014/71/1336",
+   "versions": [
+    {
+     "from": "2014-06-19",
+     "units": 23,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2014_06_71_1336.html",
+     "sha256": "208bf3d28c8e7dc7e16a80468e096f42efdbf101cf80914bf76dd8bcb67c589c"
+    }
+   ]
+  },
+  {
    "slug": "zakon-2014-1337",
    "path": "zakon/2014/1337",
    "short": "Zakon o izmjenama i dopunama Zakona o hidrografskoj djelatnosti",
@@ -65128,6 +69463,36 @@
      "units": 38,
      "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2014_06_71_1337.html",
      "sha256": "0b86424367fce5ff8361dc35da1a840e0f4974ff762530261d9ab15a51b7585a"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2014-1393",
+   "path": "zakon/2014/1393",
+   "short": "Zakon o izmjenama Zakona o Državnoj komisiji za kontrolu postupaka javne nabave",
+   "title": "Zakon o izmjenama Zakona o Državnoj komisiji za kontrolu postupaka javne nabave",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2014/74/1393",
+   "versions": [
+    {
+     "from": "2014-06-26",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2014_06_74_1393.html",
+     "sha256": "a15a78a1a6e9880909383d7598f6a12b82a84372cc512b0a965b9d0b713a99c2"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2014-1394",
+   "path": "zakon/2014/1394",
+   "short": "Zakon o izmjenama i dopunama Zakona o reguliranim profesijama i priznavanju inozemnih stručnih kvalifikacija",
+   "title": "Zakon o izmjenama i dopunama Zakona o reguliranim profesijama i priznavanju inozemnih stručnih kvalifikacija",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2014/74/1394",
+   "versions": [
+    {
+     "from": "2014-06-26",
+     "units": 14,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2014_06_74_1394.html",
+     "sha256": "e12644f505f3530e511559eaf83cd45639f533fa93d9d296a63d224d8ea80b90"
     }
    ]
   },
@@ -65147,6 +69512,66 @@
    ]
   },
   {
+   "slug": "zakon-2014-1416",
+   "path": "zakon/2014/1416",
+   "short": "Zakon o izmjenama i dopunama Zakona o područjima posebne državne skrbi",
+   "title": "Zakon o izmjenama i dopunama Zakona o područjima posebne državne skrbi",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2014/76/1416",
+   "versions": [
+    {
+     "from": "2014-07-02",
+     "units": 8,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2014_06_76_1416.html",
+     "sha256": "7e2301c8451a7a6b75ccb9266b61993913c39f47b00085ea28db5df85dfa83d4"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2014-1809",
+   "path": "zakon/2014/1809",
+   "short": "Zakon o izmjeni Zakona o lijekovima",
+   "title": "Zakon o izmjeni Zakona o lijekovima",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2014/90/1809",
+   "versions": [
+    {
+     "from": "2014-07-26",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2014_07_90_1809.html",
+     "sha256": "9c763e488244bac3a875759109b86f1bf29b6607978a9384319ff26a3a1120a3"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2014-1837",
+   "path": "zakon/2014/1837",
+   "short": "Zakon o privremenom uzdržavanju",
+   "title": "Zakon o privremenom uzdržavanju",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2014/92/1837",
+   "versions": [
+    {
+     "from": "2014-09-01",
+     "units": 43,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2014_07_92_1837.html",
+     "sha256": "5cd14b54f1e5bcd5bf33a4f39a933bc04db2c6dc3ccdc73c5a32e3c4a2aad466"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2014-1840",
+   "path": "zakon/2014/1840",
+   "short": "Zakon o državnoj informacijskoj infrastrukturi",
+   "title": "Zakon o državnoj informacijskoj infrastrukturi",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2014/92/1840",
+   "versions": [
+    {
+     "from": "2014-08-05",
+     "units": 25,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2014_07_92_1840.html",
+     "sha256": "86778df72c6b799f5b1ef523bb28eb2649dbcbbf9a5c59bdd7edb4115d5399ed"
+    }
+   ]
+  },
+  {
    "slug": "zakon-2014-1841",
    "path": "zakon/2014/1841",
    "short": "Zakon o izmjenama i dopunama Zakona o zračnom prometu",
@@ -65158,6 +69583,36 @@
      "units": 19,
      "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2014_07_92_1841.html",
      "sha256": "630a5665724b58dbd1d8523956c4964e691a7c454608e1b1d65356ea71d4c43e"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2014-1842",
+   "path": "zakon/2014/1842",
+   "short": "Zakon o izmjenama i dopunama Zakona o sigurnosti prometa na cestama",
+   "title": "Zakon o izmjenama i dopunama Zakona o sigurnosti prometa na cestama",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2014/92/1842",
+   "versions": [
+    {
+     "from": "2014-08-05",
+     "units": 32,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2014_07_92_1842.html",
+     "sha256": "4dec65e2d641a310d60030be27b6858c1fcde5ab10626f60bcfd4fe65e603904"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2014-1843",
+   "path": "zakon/2014/1843",
+   "short": "Zakon o izmjenama i dopunama Zakona o cestama",
+   "title": "Zakon o izmjenama i dopunama Zakona o cestama",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2014/92/1843",
+   "versions": [
+    {
+     "from": "2014-08-05",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2014_07_92_1843.html",
+     "sha256": "1192d11a2f88257af841740f3548678008f010c3f8829e4dd63eb5697ed98c28"
     }
    ]
   },
@@ -65177,6 +69632,21 @@
    ]
   },
   {
+   "slug": "zakon-2014-1845",
+   "path": "zakon/2014/1845",
+   "short": "Zakon o izmjenama i dopunama Zakona o policijskim poslovima i ovlastima",
+   "title": "Zakon o izmjenama i dopunama Zakona o policijskim poslovima i ovlastima",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2014/92/1845",
+   "versions": [
+    {
+     "from": "2014-08-05",
+     "units": 36,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2014_07_92_1845.html",
+     "sha256": "ad388ee1b48b12e4afb399aaae01f78adbc099f9148bf932a3f89d6eac35c6b6"
+    }
+   ]
+  },
+  {
    "slug": "zakon-2014-1846",
    "path": "zakon/2014/1846",
    "short": "Zakon o izmjenama i dopunama Zakona o provedbi Uredbi Europske unije o zaštiti životinja",
@@ -65188,6 +69658,36 @@
      "units": 11,
      "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2014_07_92_1846.html",
      "sha256": "3e6a148be4a6482a97b209c77b52190fc91067cf7d0e5a20a57b9b4c479a6a64"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2014-1873",
+   "path": "zakon/2014/1873",
+   "short": "Zakon o potporama za očuvanje radnih mjesta",
+   "title": "Zakon o potporama za očuvanje radnih mjesta",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2014/93/1873",
+   "versions": [
+    {
+     "from": "2014-08-07",
+     "units": 26,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2014_07_93_1873.html",
+     "sha256": "024b3443c3b47a1a0685948f4fee19a8fbc73abd2d843441d7985a7c8eafad9a"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2014-1877",
+   "path": "zakon/2014/1877",
+   "short": "Zakon o izmjenama i dopunama Ovršnog zakona",
+   "title": "Zakon o izmjenama i dopunama Ovršnog zakona",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2014/93/1877",
+   "versions": [
+    {
+     "from": "2014-09-01",
+     "units": 85,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2014_07_93_1877.html",
+     "sha256": "526cd084892b3e3d5c0f7dae8b1f134630b8ecbd5320608b4b68b8c1a1a6bb71"
     }
    ]
   },

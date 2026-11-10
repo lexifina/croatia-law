@@ -1,6 +1,6 @@
 # Every act in this repository
 
-19087 acts, 19,507 versions. Each act lives in a folder named by its kind, year and identifier, `<kind>/<year>/<identifier>/` (acts published before that layout keep their own folder, listed in data/paths.json); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+19387 acts, 19,807 versions. Each act lives in a folder named by its kind, year and identifier, `<kind>/<year>/<identifier>/` (acts published before that layout keep their own folder, listed in data/paths.json); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## naputak (121, of which 21 amending acts)
 
@@ -18134,7 +18134,7 @@
 | Uredba o izmjeni Uredbe o visini trošarine na energente i električnu energiju | [`uredba/2026/1458/`](uredba/2026/1458/) | in force | 1 | 2026-10-27 | 2026-10-27 |
 | Uredba o izmjeni Uredbe o visini trošarine na energente i električnu energiju | [`uredba/2026/1488/`](uredba/2026/1488/) | in force | 1 | 2026-11-03 | 2026-11-03 |
 
-## zakon (990, of which 573 amending acts)
+## zakon (1290, of which 757 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -18418,6 +18418,24 @@
 | Zakon o dopuni Zakona o tržištu električne energije | [`zakon/2011/263/`](zakon/2011/263/) | amending act | 1 | 2011-02-01 | 2011-02-01 |
 | Zakon o dopunama Zakona o plaćama sudaca i drugih pravosudnih dužnosnika | [`zakon/2011/264/`](zakon/2011/264/) | amending act | 1 | 2011-02-01 | 2011-02-01 |
 | Zakon o izmjenama dopunama Zakona o zračnim lukama | [`zakon/2011/265/`](zakon/2011/265/) | amending act | 1 | 2011-02-01 | 2011-02-01 |
+| Zakon o mirenju | [`zakon/2011/310/`](zakon/2011/310/) | repealed, not consolidated | 1 | 2011-02-17 | 2011-02-17 |
+| Zakon o izmjenama Zakona o zaštiti svjedoka | [`zakon/2011/312/`](zakon/2011/312/) | in force | 1 | 2011-02-17 | 2011-02-17 |
+| Zakon o izmjenama i dopuni Zakona o odvjetništvu | [`zakon/2011/313/`](zakon/2011/313/) | amending act | 1 | 2011-02-17 | 2011-02-17 |
+| Zakon o izmjeni Zakona o izvršavanju kazne zatvora | [`zakon/2011/314/`](zakon/2011/314/) | in force | 1 | 2011-02-17 | 2011-02-17 |
+| Zakon o izmjenama i dopunama Općeg poreznog zakona | [`zakon/2011/315/`](zakon/2011/315/) | amending act | 1 | 2011-02-17 | 2011-02-17 |
+| Zakon o izmjenama i dopunama Zakona o doprinosima | [`zakon/2011/316/`](zakon/2011/316/) | amending act | 1 | 2011-02-17 | 2011-02-17 |
+| Zakon o izmjenama i dopunama Zakona o tržištu nafte i naftnih derivata | [`zakon/2011/317/`](zakon/2011/317/) | amending act | 1 | 2011-02-17 | 2011-02-17 |
+| Zakon o izmjeni i dopunama Zakona o prijevozu u linijskom i povremenom obalnom pomorskom prometu | [`zakon/2011/318/`](zakon/2011/318/) | amending act | 1 | 2011-02-17 | 2011-02-17 |
+| Zakona o izmjenama i dopunama Zakona o porezu na promet nekretnina | [`zakon/2011/452/`](zakon/2011/452/) | amending act | 1 | 2011-02-26 | 2011-02-26 |
+| Zakon o izmjenama i dopunama Zakona o uređenju tržišta poljoprivrednih proizvoda | [`zakon/2011/453/`](zakon/2011/453/) | amending act | 1 | 2011-02-26 | 2011-02-26 |
+| Zakon o izmjenama i dopunama Zakona o zdravstvenoj zaštiti | [`zakon/2011/454/`](zakon/2011/454/) | amending act | 1 | 2011-02-18 | 2011-02-18 |
+| Zakon o financiranju političkih aktivnosti i izborne promidžbe | [`zakon/2011/495/`](zakon/2011/495/) | repealed, not consolidated | 1 | 2011-03-03 | 2011-03-03 |
+| Zakon o sprječavanju sukoba interesa | [`zakon/2011/547/`](zakon/2011/547/) | repealed, not consolidated | 1 | 2011-03-10 | 2011-03-10 |
+| Zakon o dopunama Zakona o biogorivima za prijevoz | [`zakon/2011/548/`](zakon/2011/548/) | amending act | 1 | 2011-03-02 | 2011-03-02 |
+| Zakon o izmjenama i dopunama Zakona o sudovima | [`zakon/2011/557/`](zakon/2011/557/) | amending act | 1 | 2011-03-11 | 2011-03-11 |
+| Zakon o Registru zaposlenih u javnom sektoru | [`zakon/2011/763/`](zakon/2011/763/) | repealed, not consolidated | 1 | 2011-03-31 | 2011-03-31 |
+| Zakon o izmjenama i dopunama Zakona o sprječavanju nereda na športskim natjecanjima | [`zakon/2011/766/`](zakon/2011/766/) | amending act | 1 | 2011-03-31 | 2011-03-31 |
+| Zakon o izmjenama i dopunama Zakon o rodiljnim i roditeljskim potporama | [`zakon/2011/767/`](zakon/2011/767/) | amending act | 1 | 2011-03-31 | 2011-03-31 |
 | Zakon o izmjenama Zakona o izvlaštenju | [`zakon/2011/1048/`](zakon/2011/1048/) | in force | 1 | 2011-04-28 | 2011-04-28 |
 | Zakon o izmjenama Zakona o obnovi | [`zakon/2011/1049/`](zakon/2011/1049/) | in force | 1 | 2011-04-28 | 2011-04-28 |
 | Zakon o izmjenama i dopunama Zakona o reguliranim profesijama i priznavanju inozemnih stručnih kvalifikacija | [`zakon/2011/1050/`](zakon/2011/1050/) | amending act | 1 | 2011-04-28 | 2011-04-28 |
@@ -18539,6 +18557,275 @@
 | Zakon o izmjenama i dopunama Zakona o obvezama i pravima državnih dužnosnika | [`zakon/2011/3087/`](zakon/2011/3087/) | amending act | 1 | 2011-12-22 | 2011-12-22 |
 | Zakon o izmjeni Zakona o lokalnoj i područnoj (regionalnoj) samoupravi | [`zakon/2011/3089/`](zakon/2011/3089/) | amended, not consolidated | 1 | 2011-12-22 | 2011-12-22 |
 | Zakon o izmjeni Zakona o izborima općinskih načelnika, gradonačelnika, župana i gradonačelnika Grada Zagreba | [`zakon/2011/3090/`](zakon/2011/3090/) | in force | 1 | 2011-12-22 | 2011-12-22 |
+| Zakon o izmjenama Ovršnog zakona | [`zakon/2011/3091/`](zakon/2011/3091/) | in force | 1 | 2011-12-22 | 2011-12-22 |
+| Zakon o izmjeni Zakona o javnim ovršiteljima | [`zakon/2011/3092/`](zakon/2011/3092/) | in force | 1 | 2011-12-22 | 2011-12-22 |
+| Zakon o izmjenama Zakona o pravima i dužnostima zastupnika u Hrvatskom saboru | [`zakon/2012/332/`](zakon/2012/332/) | in force | 1 | 2012-02-03 | 2012-02-03 |
+| Zakon o izmjenama i dopuni Zakona o Hrvatskoj agenciji za nadzor financijskih usluga | [`zakon/2012/333/`](zakon/2012/333/) | amending act | 1 | 2012-01-26 | 2012-01-26 |
+| Zakon o izmjenama Zakona o sprječavanju sukoba interesa | [`zakon/2012/334/`](zakon/2012/334/) | in force | 1 | 2012-01-26 | 2012-01-26 |
+| Zakon o izmjeni Zakona o Državnoj agenciji za osiguranje štednih uloga i sanaciju banaka | [`zakon/2012/335/`](zakon/2012/335/) | in force | 1 | 2012-02-03 | 2012-02-03 |
+| Zakon o izmjenama Ovršnog zakona | [`zakon/2012/336/`](zakon/2012/336/) | in force | 1 | 2012-01-26 | 2012-01-26 |
+| Zakon o dopuni Zakona o plaćama sudaca i drugih pravosudnih dužnosti | [`zakon/2012/337/`](zakon/2012/337/) | amending act | 1 | 2012-01-26 | 2012-01-26 |
+| Zakon o izmjeni i dopunama Zakona o zdravstvenoj zaštiti | [`zakon/2012/338/`](zakon/2012/338/) | amending act | 1 | 2012-02-03 | 2012-02-03 |
+| Zakon o naknadi za pružanje usluga u pokretnim elektroničkim komunikacijskim mrežama | [`zakon/2012/339/`](zakon/2012/339/) | repealed, not consolidated | 1 | 2012-01-26 | 2012-01-26 |
+| Zakon o izmjenama i dopunama Zakona o odnosima Republike Hrvatske s Hrvatima izvan Republike Hrvatske | [`zakon/2012/441/`](zakon/2012/441/) | amending act | 1 | 2012-02-16 | 2012-02-16 |
+| Zakon o izmjenama Zakona o odgoju i obrazovanju u osnovnoj i srednjoj školi | [`zakon/2012/442/`](zakon/2012/442/) | in force | 1 | 2012-02-08 | 2012-02-08 |
+| Zakon o izmjenama Zakona o prosvjetnoj inspekciji | [`zakon/2012/443/`](zakon/2012/443/) | in force | 1 | 2012-02-08 | 2012-02-08 |
+| Zakon o izmjenama i dopunama Zakona o ustrojstvu i djelokrugu ministarstava i drugih središnjih tijela državne uprave | [`zakon/2012/568/`](zakon/2012/568/) | amending act | 1 | 2012-02-23 | 2012-02-23 |
+| Zakon o izmjenama i dopunama Zakona o porezu na dodanu vrijednost | [`zakon/2012/569/`](zakon/2012/569/) | amending act | 1 | 2012-03-01 | 2012-03-01 |
+| Zakon o izmjenama i dopunama Zakona o porezu na dohodak | [`zakon/2012/570/`](zakon/2012/570/) | amending act | 1 | 2012-03-01 | 2012-03-01 |
+| Zakon o izmjenama i dopunama Zakona o porezu na dobit | [`zakon/2012/571/`](zakon/2012/571/) | amended, not consolidated | 1 | 2012-03-01 | 2012-03-01 |
+| Zakon o izmjenama i dopunama Zakona o doprinosima | [`zakon/2012/572/`](zakon/2012/572/) | amending act | 1 | 2012-03-01 | 2012-03-01 |
+| Zakon o izmjenama i dopunama Zakona o obveznom zdravstvenom osiguranju | [`zakon/2012/573/`](zakon/2012/573/) | amending act | 1 | 2012-02-23 | 2012-02-23 |
+| Zakon o izvršavanju Državnog proračuna Republike Hrvatske za 2012. godinu | [`zakon/2012/627/`](zakon/2012/627/) | amended, not consolidated | 1 | 2012-03-01 | 2012-03-01 |
+| Zakon o Poreznoj upravi | [`zakon/2012/628/`](zakon/2012/628/) | repealed, not consolidated | 1 | 2012-03-07 | 2012-03-07 |
+| Zakon o Centru za praćenje poslovanja energetskog sektora i investicija | [`zakon/2012/629/`](zakon/2012/629/) | repealed, not consolidated | 1 | 2012-02-28 | 2012-02-28 |
+| Zakon o prestanku važenja Zakona o Financijskoj policiji | [`zakon/2012/630/`](zakon/2012/630/) | in force | 1 | 2012-03-07 | 2012-03-07 |
+| Zakon o izmjenama i dopuni Zakona o Financijskom inspektoratu Republike Hrvatske | [`zakon/2012/631/`](zakon/2012/631/) | amending act | 1 | 2012-02-28 | 2012-02-28 |
+| Zakon o izmjeni i dopuni Zakona o sprječavanju pranja novca i financiranju terorizma | [`zakon/2012/632/`](zakon/2012/632/) | amending act | 1 | 2012-02-28 | 2012-02-28 |
+| Zakon o izmjenama i dopunama Zakona o posebnoj mjeri naplate poreznog duga uzrokovanoga gospodarskom krizom | [`zakon/2012/633/`](zakon/2012/633/) | amending act | 1 | 2012-02-28 | 2012-02-28 |
+| Zakon o izmjenama Zakona o financiranju jedinica lokalne i područne (regionalne) samouprave | [`zakon/2012/634/`](zakon/2012/634/) | in force | 1 | 2012-03-01 | 2012-03-01 |
+| Zakon o izmjenama i dopunama Zakona o posredovanju pri zapošljavanju i pravima za vrijeme nezaposlenosti | [`zakon/2012/635/`](zakon/2012/635/) | amending act | 1 | 2012-03-07 | 2012-03-07 |
+| Zakon o izmjenama i dopuni Zakona o zaštiti i očuvanju kulturnih dobara | [`zakon/2012/636/`](zakon/2012/636/) | amending act | 1 | 2012-03-01 | 2012-03-01 |
+| Zakon o dopuni Stečajnog zakona | [`zakon/2012/637/`](zakon/2012/637/) | amending act | 1 | 2012-03-07 | 2012-03-07 |
+| Zakon o izmjeni Zakona o šumama | [`zakon/2012/638/`](zakon/2012/638/) | in force | 1 | 2012-02-28 | 2012-02-28 |
+| Zakon o socijalnoj skrbi | [`zakon/2012/798/`](zakon/2012/798/) | repealed, not consolidated | 1 | 2012-03-24 | 2012-03-24 |
+| Zakon o izmjenama i dopunama Zakona o državnim službenicima | [`zakon/2012/815/`](zakon/2012/815/) | amending act | 1 | 2012-03-29 | 2012-03-29 |
+| Zakon o izmjenama i dopunama Zakona o registru vijeća, koordinacija vijeća i predstavnika nacionalnih manjina | [`zakon/2012/816/`](zakon/2012/816/) | amending act | 1 | 2012-03-21 | 2012-03-21 |
+| Zakon o izmjenama i dopuni Zakona o izvlaštenju | [`zakon/2012/817/`](zakon/2012/817/) | amending act | 1 | 2012-03-21 | 2012-03-21 |
+| Zakon o izmjenama Zakona o carinskoj službi | [`zakon/2012/818/`](zakon/2012/818/) | in force | 1 | 2012-03-21 | 2012-03-21 |
+| Zakon o izmjenama i dopunama Zakona o Hrvatskoj poljoprivrednoj komori | [`zakon/2012/1225/`](zakon/2012/1225/) | amending act | 1 | 2012-05-10 | 2012-05-10 |
+| Zakon o izmjenama Zakona o prostornom uređenju i gradnji | [`zakon/2012/1226/`](zakon/2012/1226/) | in force | 1 | 2012-05-10 | 2012-05-10 |
+| Zakon o izmjeni i dopuni Zakona o grobljima | [`zakon/2012/1227/`](zakon/2012/1227/) | amending act | 1 | 2012-05-10 | 2012-05-10 |
+| Zakon o izmjenama i dopunama Zakona o ugostiteljskoj djelatnosti | [`zakon/2012/1228/`](zakon/2012/1228/) | amending act | 1 | 2012-05-10 | 2012-05-10 |
+| Zakon o izmjenama i dopunama Zakona o poticanju razvoja malog gospodarstva | [`zakon/2012/1291/`](zakon/2012/1291/) | amending act | 1 | 2012-05-11 | 2012-05-11 |
+| Zakon o izmjenama i dopunama Zakona o učinkovitom korištenju energije u neposrednoj potrošnji | [`zakon/2012/1358/`](zakon/2012/1358/) | amending act | 1 | 2012-05-24 | 2012-05-24 |
+| Zakon o poticanju zapošljavanja | [`zakon/2012/1410/`](zakon/2012/1410/) | repealed, not consolidated | 1 | 2012-05-31 | 2012-05-31 |
+| Zakon o dopuni Zakona o podjeli trgovačkog društva HŽ-Hrvatske željeznice d.o.o. | [`zakon/2012/1411/`](zakon/2012/1411/) | amending act | 1 | 2012-05-31 | 2012-05-31 |
+| Zakon o izmjeni i dopuni Zakona o obveznom zdravstvenom osiguranju | [`zakon/2012/1412/`](zakon/2012/1412/) | amending act | 1 | 2012-05-31 | 2012-05-31 |
+| Zakon o izmjenama i dopunama Zakona o financijskom osiguranju | [`zakon/2012/1457/`](zakon/2012/1457/) | amending act | 1 | 2012-06-05 | 2012-06-05 |
+| Zakon o izmjenama i dopunama Zakona o službenoj statistici | [`zakon/2012/1458/`](zakon/2012/1458/) | amended, not consolidated | 1 | 2012-06-05 | 2012-06-05 |
+| Zakon o izmjenama i dopunama Zakona o sigurnosnoj zaštiti pomorskih brodova i luka | [`zakon/2012/1460/`](zakon/2012/1460/) | amending act | 1 | 2012-06-05 | 2012-06-05 |
+| Zakon o dopunama Zakona o tržištu električne energije | [`zakon/2012/1461/`](zakon/2012/1461/) | amending act | 1 | 2012-06-05 | 2012-06-05 |
+| Zakon o izmjenama Ovršnog zakona | [`zakon/2012/1639/`](zakon/2012/1639/) | in force | 1 | 2012-06-28 | 2012-06-28 |
+| Zakon o izmjeni Zakona o javnim ovršiteljima | [`zakon/2012/1640/`](zakon/2012/1640/) | in force | 1 | 2012-06-28 | 2012-06-28 |
+| Zakon o izmjeni Zakona o upravljanju državnom imovinom | [`zakon/2012/1641/`](zakon/2012/1641/) | in force | 1 | 2012-07-06 | 2012-07-06 |
+| Zakon o izmjeni i dopuni Zakona o zdravstvenoj zaštiti | [`zakon/2012/1642/`](zakon/2012/1642/) | amending act | 1 | 2012-07-06 | 2012-07-06 |
+| Zakon o izmjenama i dopunama Zakona o Hrvatskoj radioteleviziji | [`zakon/2012/1759/`](zakon/2012/1759/) | amended, not consolidated | 1 | 2012-07-09 | 2012-07-09 |
+| Zakon o prestanku važenja Zakona o naknadi za pružanje usluga u pokretnim elektroničkim komunikacijskim mrežama | [`zakon/2012/1760/`](zakon/2012/1760/) | in force | 1 | 2012-07-09 | 2012-07-09 |
+| Zakon o izmjenama i dopunama Zakona o mirovinskom osiguranju | [`zakon/2012/1762/`](zakon/2012/1762/) | amending act | 1 | 2012-07-17 | 2012-07-17 |
+| Zakon o izmjenama i dopunama Zakona o javnom okupljanju | [`zakon/2012/1835/`](zakon/2012/1835/) | amending act | 1 | 2012-07-15 | 2012-07-15 |
+| Zakon o izmjenama i dopunama Općeg poreznog zakona | [`zakon/2012/1836/`](zakon/2012/1836/) | amending act | 1 | 2012-07-21 | 2012-07-21 |
+| Zakon o izmjenama i dopunama Zakona o posebnim porezima na osobne automobile, ostala motorna vozila, plovila i zrakoplove | [`zakon/2012/1837/`](zakon/2012/1837/) | amending act | 1 | 2012-07-21 | 2012-07-21 |
+| Zakon o dopuni Zakona o mjerama naplate poreznog duga uzrokovanoga gospodarskom krizom | [`zakon/2012/1838/`](zakon/2012/1838/) | amending act | 1 | 2012-07-13 | 2012-07-13 |
+| Zakon o izmjenama i dopuni Zakona o Hrvatskoj zakladi za znanost | [`zakon/2012/1841/`](zakon/2012/1841/) | amending act | 1 | 2012-07-13 | 2012-07-13 |
+| Zakon o sportskoj inspekciji | [`zakon/2012/1964/`](zakon/2012/1964/) | repealed, not consolidated | 1 | 2012-08-04 | 2012-08-04 |
+| Zakon o izmjenama i dopunama Zakona o športu | [`zakon/2012/1965/`](zakon/2012/1965/) | amending act | 1 | 2012-08-04 | 2012-08-04 |
+| Zakon o izmjenama i dopunama Zakona o društveno poticanoj stanogradnji | [`zakon/2012/1966/`](zakon/2012/1966/) | amended, not consolidated | 1 | 2012-08-04 | 2012-08-04 |
+| Zakon o izmjenama i dopunama Zakona o odgoju i obrazovanju u osnovnoj i srednjoj školi | [`zakon/2012/1967/`](zakon/2012/1967/) | amending act | 1 | 2012-08-04 | 2012-08-04 |
+| Zakon o izmjenama i dopunama Zakona o sigurnosnim provjerama | [`zakon/2012/1968/`](zakon/2012/1968/) | amending act | 1 | 2012-08-04 | 2012-08-04 |
+| Zakon o izmjeni Zakona o tajnosti podataka | [`zakon/2012/1969/`](zakon/2012/1969/) | in force | 1 | 2012-08-04 | 2012-08-04 |
+| Zakon o ovlasti Vlade Republike Hrvatske da uredbama uređuje pojedina pitanja iz djelokruga Hrvatskoga sabora | [`zakon/2012/2362/`](zakon/2012/2362/) | repealed, not consolidated | 1 | 2012-10-01 | 2012-10-01 |
+| Zakon o dopunama Zakona o kreditnim institucijama | [`zakon/2012/2363/`](zakon/2012/2363/) | amending act | 1 | 2012-10-01 | 2012-10-01 |
+| Zakon o izmjeni i dopuni Zakona o preuzimanju dioničkih društava | [`zakon/2012/2364/`](zakon/2012/2364/) | amending act | 1 | 2012-10-01 | 2012-10-01 |
+| Zakon o izmjenama i dopunama Zakona o trgovačkim društvima | [`zakon/2012/2392/`](zakon/2012/2392/) | amending act | 1 | 2012-10-18 | 2012-10-18 |
+| Zakon o izmjenama i dopunama Zakona o trošarinama | [`zakon/2012/2393/`](zakon/2012/2393/) | amended, not consolidated | 1 | 2012-10-18 | 2012-10-18 |
+| Zakon o izmjenama i dopunama Zakona o provedbi ovrhe na novčanim sredstvima | [`zakon/2012/2422/`](zakon/2012/2422/) | amending act | 1 | 2012-10-15 | 2012-10-15 |
+| Zakon o prestanku važenja Zakona o javnim ovršiteljima | [`zakon/2012/2423/`](zakon/2012/2423/) | in force | 1 | 2012-10-15 | 2012-10-15 |
+| Zakon o prestanku važenja Zakona o javnoovršiteljskim pristojbama | [`zakon/2012/2424/`](zakon/2012/2424/) | in force | 1 | 2012-10-15 | 2012-10-15 |
+| Zakon o dopuni Zakona o sudskim pristojbama | [`zakon/2012/2425/`](zakon/2012/2425/) | amending act | 1 | 2012-10-19 | 2012-10-19 |
+| Zakon o dopuni Zakona o javnobilježničkim pristojbama | [`zakon/2012/2426/`](zakon/2012/2426/) | amending act | 1 | 2012-10-19 | 2012-10-19 |
+| Zakon o izmjenama i dopunama Zakona o Poreznoj upravi | [`zakon/2012/2427/`](zakon/2012/2427/) | amending act | 1 | 2012-10-19 | 2012-10-19 |
+| Zakon o izmjenama i dopunama Zakona o potrošačkom kreditiranju | [`zakon/2012/2428/`](zakon/2012/2428/) | amended, not consolidated | 1 | 2012-10-19 | 2012-10-19 |
+| Zakon o izmjeni i dopuni Zakona o doplatku za djecu | [`zakon/2012/2429/`](zakon/2012/2429/) | amending act | 1 | 2013-01-01 | 2013-01-01 |
+| Zakon o izmjenama i dopunama Zakona o suzbijanju diskriminacije | [`zakon/2012/2430/`](zakon/2012/2430/) | amending act | 1 | 2012-10-19 | 2012-10-19 |
+| Zakon o izmjenama i dopunama Zakona o akademskim i stručnim nazivima i akademskom stupnju | [`zakon/2012/2551/`](zakon/2012/2551/) | amending act | 1 | 2012-11-03 | 2012-11-03 |
+| Zakon o izmjenama Zakona o pravima iz mirovinskog osiguranja djelatnih vojnih osoba, policijskih službenika i ovlaštenih službenih osoba | [`zakon/2012/2552/`](zakon/2012/2552/) | in force | 1 | 2012-10-26 | 2012-10-26 |
+| Zakon o dopuni Zakona o posredovanju pri zapošljavanju i pravima za vrijeme nezaposlenosti | [`zakon/2012/2553/`](zakon/2012/2553/) | amending act | 1 | 2012-11-03 | 2012-11-03 |
+| Zakon o izmjenama i dopunama Zakona o Centru za praćenje poslovanja energetskog sektora i investicija | [`zakon/2012/2585/`](zakon/2012/2585/) | amending act | 1 | 2012-10-31 | 2012-10-31 |
+| Zakon o izmjenama i dopunama Zakona o poljoprivredi | [`zakon/2012/2587/`](zakon/2012/2587/) | amending act | 1 | 2012-11-08 | 2012-11-08 |
+| Zakon o izmjenama i dopunama Zakona o uređenju tržišta poljoprivrednih proizvoda | [`zakon/2012/2588/`](zakon/2012/2588/) | amending act | 1 | 2012-11-08 | 2012-11-08 |
+| Zakon o izmjenama i dopunama Zakona o djelatnosti socijalnog rada | [`zakon/2012/2589/`](zakon/2012/2589/) | amending act | 1 | 2012-11-08 | 2012-11-08 |
+| Zakon o izmjenama i dopunama Zakona o poticanju zapošljavanja | [`zakon/2012/2590/`](zakon/2012/2590/) | amending act | 1 | 2012-11-08 | 2012-11-08 |
+| Zakon o izmjenama Zakona o obveznom zdravstvenom osiguranju | [`zakon/2012/2677/`](zakon/2012/2677/) | in force | 1 | 2012-11-17 | 2012-11-17 |
+| Zakon o izmjeni Zakona o policiji | [`zakon/2012/2767/`](zakon/2012/2767/) | in force | 1 | 2012-12-06 | 2012-12-06 |
+| Zakon o izmjenama i dopunama Zakona o izvršavanju Državnog proračuna Republike Hrvatske za 2012. godinu | [`zakon/2012/2819/`](zakon/2012/2819/) | amending act | 1 | 2012-11-30 | 2012-11-30 |
+| Zakon o fiskalizaciji u prometu gotovinom | [`zakon/2012/2822/`](zakon/2012/2822/) | repealed, not consolidated | 1 | 2013-01-01 | 2013-01-01 |
+| Zakon o izmjenama Zakona o elektroničkim komunikacijama | [`zakon/2012/2824/`](zakon/2012/2824/) | in force | 1 | 2012-12-03 | 2012-12-03 |
+| Zakon o izmjenama i dopunama Stečajnog zakona | [`zakon/2012/2825/`](zakon/2012/2825/) | amending act | 1 | 2012-12-11 | 2012-12-11 |
+| Zakon o izmjenama i dopunama Zakona o proračunu | [`zakon/2012/2878/`](zakon/2012/2878/) | amending act | 1 | 2012-12-07 | 2012-12-07 |
+| Zakon o izmjenama i dopunama Općeg poreznog zakona | [`zakon/2012/2879/`](zakon/2012/2879/) | amending act | 1 | 2012-12-15 | 2012-12-15 |
+| Zakon o izmjenama i dopunama Zakona o platnom prometu | [`zakon/2012/2880/`](zakon/2012/2880/) | amending act | 1 | 2012-12-15 | 2012-12-15 |
+| Zakon o izmjeni i dopuni Zakona o porezu na dodanu vrijednost | [`zakon/2012/2881/`](zakon/2012/2881/) | amending act | 1 | 2013-01-01 | 2013-01-01 |
+| Zakon o izmjenama i dopunama Zakona o Uredu za suzbijanje korupcije i organiziranog kriminaliteta | [`zakon/2012/2882/`](zakon/2012/2882/) | amending act | 1 | 2013-01-01 | 2013-01-01 |
+| Zakon o izmjenama i dopunama Zakona o potpori poljoprivredi i ruralnom razvoju | [`zakon/2012/2884/`](zakon/2012/2884/) | amending act | 1 | 2012-12-15 | 2012-12-15 |
+| Zakon o izmjenama Zakona o postupanju i uvjetima gradnje radi poticanja ulaganja | [`zakon/2012/2885/`](zakon/2012/2885/) | in force | 1 | 2012-12-15 | 2012-12-15 |
+| Zakon o izvršavanju Državnog proračuna Republike Hrvatske za 2013. godinu | [`zakon/2012/2944/`](zakon/2012/2944/) | amended, not consolidated | 1 | 2013-01-01 | 2013-01-01 |
+| Zakon o uskrati isplate pojedinih materijalnih prava zaposlenima u javnim službama | [`zakon/2012/3026/`](zakon/2012/3026/) | amended, not consolidated | 1 | 2012-12-20 | 2012-12-20 |
+| Zakon o koncesijama | [`zakon/2012/3027/`](zakon/2012/3027/) | repealed, not consolidated | 1 | 2012-12-28 | 2012-12-28 |
+| Zakon o probaciji | [`zakon/2012/3029/`](zakon/2012/3029/) | repealed, not consolidated | 1 | 2013-01-01 | 2013-01-01 |
+| Zakon o izmjenama i dopunama Zakona o kaznenom postupku | [`zakon/2012/3031/`](zakon/2012/3031/) | amending act | 1 | 2013-01-01 | 2013-01-01 |
+| Zakon o izmjenama i dopunama Zakona o odgovornosti pravnih osoba za kaznena djela | [`zakon/2012/3032/`](zakon/2012/3032/) | amending act | 1 | 2013-01-01 | 2013-01-01 |
+| Zakon o izmjenama i dopunama Zakona o sudovima za mladež | [`zakon/2012/3033/`](zakon/2012/3033/) | amending act | 1 | 2013-01-01 | 2013-01-01 |
+| Zakon o izmjeni Zakona o vlasništvu i drugim stvarnim pravima | [`zakon/2012/3034/`](zakon/2012/3034/) | in force | 1 | 2012-12-28 | 2012-12-28 |
+| Zakon o dopuni Zakona o plaćama sudaca i drugih pravosudnih dužnosnika | [`zakon/2012/3035/`](zakon/2012/3035/) | amending act | 1 | 2012-12-20 | 2012-12-20 |
+| Zakon o izmjenama i dopunama Zakona o upravnim sporovima | [`zakon/2012/3036/`](zakon/2012/3036/) | amending act | 1 | 2012-12-28 | 2012-12-28 |
+| Zakon o izmjenama Zakona o zaštiti na radu | [`zakon/2012/3037/`](zakon/2012/3037/) | amended, not consolidated | 1 | 2012-12-28 | 2012-12-28 |
+| Zakon o prestanku važenja Zakona o posebnom porezu na luksuzne proizvoda | [`zakon/2012/3038/`](zakon/2012/3038/) | in force | 1 | 2013-01-01 | 2013-01-01 |
+| Zakon o izmjenama i dopunama Zakona o lokalnoj i područnoj (regionalnoj) samooupravi | [`zakon/2012/3075/`](zakon/2012/3075/) | amending act | 1 | 2012-12-29 | 2012-12-29 |
+| Zakon o izmjenama i dopunama Kaznenog zakona | [`zakon/2012/3076/`](zakon/2012/3076/) | amended, not consolidated | 1 | 2013-01-01 | 2013-01-01 |
+| Zakon o izmjenama i dopunama Zakona o doprinosima | [`zakon/2012/3077/`](zakon/2012/3077/) | amending act | 1 | 2013-01-01 | 2013-01-01 |
+| Zakon o izmjenama i dopunama Zakona o porezu na dohodak | [`zakon/2012/3078/`](zakon/2012/3078/) | amending act | 1 | 2013-01-01 | 2013-01-01 |
+| Zakon o izmjenama i dopunama Zakona o reviziji | [`zakon/2012/3079/`](zakon/2012/3079/) | amending act | 1 | 2012-12-29 | 2012-12-29 |
+| Zakon o izmjenama Zakona o biogorivima za prijevoz | [`zakon/2012/3080/`](zakon/2012/3080/) | in force | 1 | 2013-01-01 | 2013-01-01 |
+| Zakon o izmjenama Zakona o tržištu nafte i naftnih derivata | [`zakon/2012/3081/`](zakon/2012/3081/) | in force | 1 | 2013-01-01 | 2013-01-01 |
+| Zakon o izmjenama i dopunama Zakona o Fondu za zaštitu okoliša i energetsku učinkovitost | [`zakon/2012/3082/`](zakon/2012/3082/) | amending act | 1 | 2013-01-01 | 2013-01-01 |
+| Zakon o izmjeni i dopunama Zakona o komunalnom gospodarstvu | [`zakon/2012/3083/`](zakon/2012/3083/) | amending act | 1 | 2012-12-29 | 2012-12-29 |
+| Zakon o izmjenama i dopunama Zakona o posredovanju u prometu nekretnina | [`zakon/2012/3084/`](zakon/2012/3084/) | amending act | 1 | 2012-12-29 | 2012-12-29 |
+| Zakon o izmjeni Zakona o stambenoj štednji i državnom poticanju stambene štednje | [`zakon/2013/242/`](zakon/2013/242/) | in force | 1 | 2013-02-06 | 2013-02-06 |
+| Zakon o izmjeni Zakona o Državnoj agenciji za osiguranje štednih uloga i sanaciju banaka | [`zakon/2013/243/`](zakon/2013/243/) | in force | 1 | 2013-02-06 | 2013-02-06 |
+| Zakon o trošarinama | [`zakon/2013/357/`](zakon/2013/357/) | repealed, not consolidated | 1 | 2013-03-02 | 2013-03-02 |
+| Zakon o tržištu električne energije | [`zakon/2013/358/`](zakon/2013/358/) | repealed, not consolidated | 1 | 2013-03-02 | 2013-03-02 |
+| Zakon o izmjenama i dopunama Zakona o volonterstvu | [`zakon/2013/361/`](zakon/2013/361/) | amending act | 1 | 2013-03-02 | 2013-03-02 |
+| Zakon o izmjenama i dopunama Zakona o posebnim pravima predsjednika Republike Hrvatske po prestanku obnašanja dužnosti | [`zakon/2013/362/`](zakon/2013/362/) | amending act | 1 | 2013-03-02 | 2013-03-02 |
+| Zakon o izmjenama i dopunama Zakona o obvezama i pravima državnih dužnosnika | [`zakon/2013/363/`](zakon/2013/363/) | amending act | 1 | 2013-03-02 | 2013-03-02 |
+| Zakon o izmjenama i dopunama Zakona o izborima zastupnika iz Republike Hrvatske u Europski parlament | [`zakon/2013/382/`](zakon/2013/382/) | amending act | 1 | 2013-03-01 | 2013-03-01 |
+| Zakon o izmjenama i dopunama Zakona o parničnom postupku | [`zakon/2013/405/`](zakon/2013/405/) | amending act | 1 | 2013-04-01 | 2013-04-01 |
+| Zakon o izmjenama i dopunama Zakona o građevnim proizvodima | [`zakon/2013/406/`](zakon/2013/406/) | amending act | 1 | 2013-03-08 | 2013-03-08 |
+| Zakon o izmjenama i dopunama Zakona o arhitektonskim i inženjerskim poslovima i djelatnostima u prostornom uređenju i gradnji | [`zakon/2013/407/`](zakon/2013/407/) | amending act | 1 | 2013-03-08 | 2013-03-08 |
+| Zakon o izmjeni Zakona o Hrvatskoj banci za obnovu i razvitak | [`zakon/2013/408/`](zakon/2013/408/) | in force | 1 | 2013-03-08 | 2013-03-08 |
+| Zakon o izmjenama i dopunama Zakona o financiranju političkih aktivnosti i izborne promidžbe | [`zakon/2013/455/`](zakon/2013/455/) | amending act | 1 | 2013-03-12 | 2013-03-12 |
+| Zakon o tržištu plina | [`zakon/2013/472/`](zakon/2013/472/) | repealed, not consolidated | 1 | 2013-03-14 | 2013-03-14 |
+| Zakon o izmjenama i dopunama Zakona o Državnom sudbenom vijeću | [`zakon/2013/474/`](zakon/2013/474/) | amending act | 1 | 2013-03-14 | 2013-03-14 |
+| Zakon o dopuni Zakona o igrama na sreću | [`zakon/2013/634/`](zakon/2013/634/) | amending act | 1 | 2013-03-26 | 2013-03-26 |
+| Zakon o izmjenama i dopunama Zakona o zaštiti životinja | [`zakon/2013/669/`](zakon/2013/669/) | amending act | 1 | 2013-04-05 | 2013-04-05 |
+| Zakon o izmjeni i dopuni Zakona o područjima županija, gradova i općina u Republici Hrvatskoj | [`zakon/2013/670/`](zakon/2013/670/) | amending act | 1 | 2013-04-05 | 2013-04-05 |
+| Zakon o izmjenama Zakona o državnim službenicima | [`zakon/2013/671/`](zakon/2013/671/) | in force | 1 | 2013-04-05 | 2013-04-05 |
+| Zakon o izmjeni Zakona o plaćama ovlaštenih državnih revizora | [`zakon/2013/679/`](zakon/2013/679/) | in force | 1 | 2013-04-01 | 2013-04-01 |
+| Zakon o izmjeni Zakona o državnim službenicima | [`zakon/2013/680/`](zakon/2013/680/) | in force | 1 | 2013-04-01 | 2013-04-01 |
+| Zakon o poljoprivrednom zemljištu | [`zakon/2013/718/`](zakon/2013/718/) | repealed, not consolidated | 1 | 2013-04-11 | 2013-04-11 |
+| Zakon o minimalnoj plaći | [`zakon/2013/720/`](zakon/2013/720/) | repealed, not consolidated | 1 | 2013-04-11 | 2013-04-11 |
+| Zakon o izmjenama i dopunama Zakona o ustrojstvu i djelokrugu ministarstava i drugih središnjih tijela državne uprave | [`zakon/2013/727/`](zakon/2013/727/) | amending act | 1 | 2013-04-11 | 2013-04-11 |
+| Zakon o izmjenama i dopunama Prekršajnog zakona | [`zakon/2013/728/`](zakon/2013/728/) | amending act | 1 | 2013-06-01 | 2013-06-01 |
+| Zakon o izmjeni i dopuni Zakona o područjima županija, gradova i općina u Republici Hrvatskoj | [`zakon/2013/835/`](zakon/2013/835/) | amending act | 1 | 2013-04-17 | 2013-04-17 |
+| Zakon o izmjeni i dopuni Zakona o područjima županija, gradova i općina u Republici Hrvatskoj | [`zakon/2013/851/`](zakon/2013/851/) | amending act | 1 | 2013-04-24 | 2013-04-24 |
+| Zakon o izmjenama Zakona o obnovi (NN br. 51A) | [`zakon/2013/1048/`](zakon/2013/1048/) | in force | 1 | 2013-05-01 | 2013-05-01 |
+| Zakon o izmjenama Zakona o statusu prognanika i izbjeglica (NN br. 51A) | [`zakon/2013/1049/`](zakon/2013/1049/) | in force | 1 | 2013-05-01 | 2013-05-01 |
+| Zakon o izmjenama i dopunama Zakona o osnutku Hrvatske kontrole zračne plovidbe (NN br. 51A) | [`zakon/2013/1052/`](zakon/2013/1052/) | amending act | 1 | 2013-05-08 | 2013-05-08 |
+| Zakon o izmjenama i dopunama Zakona o plovidbi i lukama unutarnjih voda (NN br. 51A) | [`zakon/2013/1053/`](zakon/2013/1053/) | amending act | 1 | 2013-05-08 | 2013-05-08 |
+| Zakon o izmjeni Zakona o izvršavanju Državnog proračuna Republike Hrvatske za 2013. godinu | [`zakon/2013/1075/`](zakon/2013/1075/) | in force | 1 | 2013-05-07 | 2013-05-07 |
+| Zakon o izmjenama i dopunama Zakona o cestama | [`zakon/2013/1083/`](zakon/2013/1083/) | amending act | 1 | 2013-05-15 | 2013-05-15 |
+| Zakon o izmjenama i dopunama Zakona o računovodstvu | [`zakon/2013/1084/`](zakon/2013/1084/) | amending act | 1 | 2013-05-15 | 2013-05-15 |
+| Zakon o izmjenama i dopunama Zakona o osiguranju | [`zakon/2013/1085/`](zakon/2013/1085/) | amending act | 1 | 2013-05-15 | 2013-05-15 |
+| Zakon o izmjenama i dopunama Zakona o Hrvatskoj narodnoj banci | [`zakon/2013/1087/`](zakon/2013/1087/) | amending act | 1 | 2013-05-15 | 2013-05-15 |
+| Zakon o izmjenama i dopunama Zakona o kreditnim institucijama | [`zakon/2013/1089/`](zakon/2013/1089/) | amending act | 1 | 2013-05-15 | 2013-05-15 |
+| Zakon o izmjenama i dopunama Zakona o zastupanju u području prava industrijskog vlasništva | [`zakon/2013/1090/`](zakon/2013/1090/) | amending act | 1 | 2013-05-15 | 2013-05-15 |
+| Zakon o izmjenama i dopunama Zakona o rodiljnim i roditeljskim potporama | [`zakon/2013/1091/`](zakon/2013/1091/) | amending act | 1 | 2013-07-01 | 2013-07-01 |
+| Zakon o izmjenama i dopunama Zakona o zemljišnim knjigama | [`zakon/2013/1117/`](zakon/2013/1117/) | amended, not consolidated | 1 | 2013-05-16 | 2013-05-16 |
+| Zakon o kritičnim infrastrukturama | [`zakon/2013/1134/`](zakon/2013/1134/) | repealed, not consolidated | 1 | 2013-05-18 | 2013-05-18 |
+| Zakon o izmjenama i dopunama Zakona o vodama | [`zakon/2013/1139/`](zakon/2013/1139/) | amending act | 1 | 2013-05-18 | 2013-05-18 |
+| Zakon o izmjenama i dopunama Zakona o financiranju vodnoga gospodarstva | [`zakon/2013/1140/`](zakon/2013/1140/) | amending act | 1 | 2013-05-18 | 2013-05-18 |
+| Zakon o izmjenama i dopunama Pomorskog zakonika | [`zakon/2013/1141/`](zakon/2013/1141/) | amending act | 1 | 2013-05-18 | 2013-05-18 |
+| Zakon o izmjenama i dopunama Zakona o izvršavanju kazne zatvora | [`zakon/2013/1143/`](zakon/2013/1143/) | amending act | 1 | 2013-05-18 | 2013-05-18 |
+| Zakon o izmjenama i dopunama Zakona o poticanju razvoja malog gospodarstva | [`zakon/2013/1144/`](zakon/2013/1144/) | amending act | 1 | 2013-05-18 | 2013-05-18 |
+| Zakon o izmjenama i dopuni Zakona o osnivanju Agencije za investicije i konkurentnost | [`zakon/2013/1145/`](zakon/2013/1145/) | amending act | 1 | 2013-05-18 | 2013-05-18 |
+| Zakon o izmjenama Zakona o zaštiti potrošača | [`zakon/2013/1147/`](zakon/2013/1147/) | in force | 1 | 2013-05-18 | 2013-05-18 |
+| Zakon o izmjenama i dopunama Zakona o obavljanju geodetske djelatnosti | [`zakon/2013/1148/`](zakon/2013/1148/) | amending act | 1 | 2013-05-18 | 2013-05-18 |
+| Zakon o izmjeni i dopunama Zakona o osnivanju Agencije za plaćanja u poljoprivredi ribarstvu i ruralnom razvoju | [`zakon/2013/1149/`](zakon/2013/1149/) | amending act | 1 | 2013-05-18 | 2013-05-18 |
+| Zakon o izmjenama i dopunama Zakona o veterinarsko-medicinskim proizvodima | [`zakon/2013/1151/`](zakon/2013/1151/) | amending act | 1 | 2013-05-18 | 2013-05-18 |
+| Zakon o izmjenama i dopunama Zakona o osobnoj iskaznici | [`zakon/2013/1347/`](zakon/2013/1347/) | amending act | 1 | 2013-06-08 | 2013-06-08 |
+| Zakon o izmjeni Zakona o trgovačkim društvima | [`zakon/2013/1348/`](zakon/2013/1348/) | in force | 1 | 2013-06-15 | 2013-06-15 |
+| Zakon o izmjenama i dopuni Zakona o kulturnim vijećima | [`zakon/2013/1351/`](zakon/2013/1351/) | amending act | 1 | 2013-06-15 | 2013-06-15 |
+| Zakon o izmjenama i dopunama Zakona o državnom odvjetništvu | [`zakon/2013/1438/`](zakon/2013/1438/) | amending act | 1 | 2013-06-25 | 2013-06-25 |
+| Zakon o izmjenama i dopunama Općeg poreznog zakona | [`zakon/2013/1454/`](zakon/2013/1454/) | amending act | 1 | 2013-06-26 | 2013-06-26 |
+| Zakon o izmjenama i dopunama Zakona o radu | [`zakon/2013/1455/`](zakon/2013/1455/) | amending act | 1 | 2013-06-26 | 2013-06-26 |
+| Zakon o izmjenama i dopunama Zakona o strancima | [`zakon/2013/1475/`](zakon/2013/1475/) | amending act | 1 | 2013-06-27 | 2013-06-27 |
+| Zakon o izmjeni Zakona o postupanju i uvjetima gradnje radi poticanja ulaganja | [`zakon/2013/1524/`](zakon/2013/1524/) | in force | 1 | 2013-06-29 | 2013-06-29 |
+| Zakon o izmjenama i dopunama Zakona o državnim maticama | [`zakon/2013/1525/`](zakon/2013/1525/) | amending act | 1 | 2013-06-29 | 2013-06-29 |
+| Zakon o izmjenama i dopunama Zakona o Hrvatskom registru brodova | [`zakon/2013/1528/`](zakon/2013/1528/) | amending act | 1 | 2013-06-29 | 2013-06-29 |
+| Zakon o izmjenama i dopunama Zakona o poreznom savjetništvu | [`zakon/2013/1529/`](zakon/2013/1529/) | amending act | 1 | 2013-06-29 | 2013-06-29 |
+| Zakon o izmjenama i dopunama Zakona o patentu | [`zakon/2013/1530/`](zakon/2013/1530/) | amending act | 1 | 2013-06-29 | 2013-06-29 |
+| Zakon o izmjenama i dopunama Zakona o osiguranju potraživanja radnika u slučaju stečaja poslodavca | [`zakon/2013/1669/`](zakon/2013/1669/) | amending act | 1 | 2013-07-06 | 2013-07-06 |
+| Zakon o izmjenama i dopunama Zakona o ugostiteljskoj djelatnosti | [`zakon/2013/1675/`](zakon/2013/1675/) | amending act | 1 | 2013-07-06 | 2013-07-06 |
+| Zakon o izmjenama i dopunama Zakona o financijskom poslovanju i predstečajnoj nagodbi | [`zakon/2013/1705/`](zakon/2013/1705/) | amending act | 1 | 2013-06-30 | 2013-06-30 |
+| Zakon o izmjenama i dopunama Zakona o medijima | [`zakon/2013/1707/`](zakon/2013/1707/) | amending act | 1 | 2013-07-07 | 2013-07-07 |
+| Zakon o prijevozu u cestovnom prometu | [`zakon/2013/1732/`](zakon/2013/1732/) | repealed, not consolidated | 1 | 2013-07-01 | 2013-07-01 |
+| Zakon o sigurnosti i interoperabilnosti željezničkog sustava | [`zakon/2013/1733/`](zakon/2013/1733/) | repealed, not consolidated | 1 | 2013-07-01 | 2013-07-01 |
+| Zakon o izmjenama i dopunama Zakona o zdravstvenoj zaštiti | [`zakon/2013/1736/`](zakon/2013/1736/) | amending act | 1 | 2013-07-01 | 2013-07-01 |
+| Zakon o izmjenama i dopunama Zakona o javnoj nabavi | [`zakon/2013/1739/`](zakon/2013/1739/) | amending act | 1 | 2013-07-09 | 2013-07-09 |
+| Zakon o izmjenama Zakona o posebnim uvjetima za stavljanje brašna na tržište | [`zakon/2013/2074/`](zakon/2013/2074/) | in force | 1 | 2013-07-20 | 2013-07-20 |
+| Zakon o upravljanju i raspolaganju imovinom u vlasništvu Republike Hrvatske | [`zakon/2013/2121/`](zakon/2013/2121/) | repealed, not consolidated | 1 | 2013-07-30 | 2013-07-30 |
+| Zakon o istraživanju i eksploataciji ugljikovodika | [`zakon/2013/2122/`](zakon/2013/2122/) | repealed, not consolidated | 1 | 2013-07-30 | 2013-07-30 |
+| Zakon o održivom gospodarenju otpadom | [`zakon/2013/2123/`](zakon/2013/2123/) | repealed, not consolidated | 1 | 2013-07-23 | 2013-07-23 |
+| Zakon o željeznici | [`zakon/2013/2127/`](zakon/2013/2127/) | repealed, not consolidated | 1 | 2013-07-23 | 2013-07-23 |
+| Zakon o izmjenama i dopunama Zakona o obveznim i stvarnopravnim odnosima u zračnom prometu | [`zakon/2013/2128/`](zakon/2013/2128/) | amending act | 1 | 2013-07-23 | 2013-07-23 |
+| Zakonn o izmjenama i dopuni Zakona o sportu | [`zakon/2013/2129/`](zakon/2013/2129/) | amending act | 1 | 2013-07-30 | 2013-07-30 |
+| Zakon o izmjenama i dopunama Zakona o predškolskom odgoju i naobrazbi | [`zakon/2013/2130/`](zakon/2013/2130/) | amending act | 1 | 2013-07-30 | 2013-07-30 |
+| Zakon o izmjenama i dopunama Zakona o odgoju i obrazovanju u osnovnoj i srednjoj školi | [`zakon/2013/2131/`](zakon/2013/2131/) | amending act | 1 | 2013-07-30 | 2013-07-30 |
+| Zakon o izmjenama i dopunama Zakona o znanstvenoj djelatnosti i visokom obrazovanju | [`zakon/2013/2132/`](zakon/2013/2132/) | amending act | 1 | 2013-07-30 | 2013-07-30 |
+| Zakon o izmjenama i dopunama Zakona o elektroničkim medijima | [`zakon/2013/2133/`](zakon/2013/2133/) | amended, not consolidated | 1 | 2013-07-30 | 2013-07-30 |
+| Zakon o izmjenama i dopunama Zakona o ograničavanju uporabe duhanskih proizvoda | [`zakon/2013/2134/`](zakon/2013/2134/) | amending act | 1 | 2013-07-30 | 2013-07-30 |
+| Zakon o ovlasti Vlade Republike Hrvatske da uredbama uređuje pojedina pitanja iz djelokruga Hrvatskoga sabora | [`zakon/2013/2591/`](zakon/2013/2591/) | repealed, not consolidated | 1 | 2013-10-01 | 2013-10-01 |
+| Zakon o izmjenama i dopunama Zakona o kazalištima | [`zakon/2013/2592/`](zakon/2013/2592/) | amending act | 1 | 2013-10-01 | 2013-10-01 |
+| Zakon o provedbi Uredbe Europske unije o europskim fondovima poduzetničkog kapitala | [`zakon/2013/2624/`](zakon/2013/2624/) | repealed, not consolidated | 1 | 2013-10-05 | 2013-10-05 |
+| Zakon o provedbi Uredbe Europske unije o europskim fondovima socijalnog poduzetništva | [`zakon/2013/2625/`](zakon/2013/2625/) | repealed, not consolidated | 1 | 2013-10-05 | 2013-10-05 |
+| Zakon o izmjeni Zakona o pravosudnoj suradnji u kaznenim stvarima s državama članicama Europske unije | [`zakon/2013/2663/`](zakon/2013/2663/) | in force | 1 | 2014-01-01 | 2014-01-01 |
+| Zakon o izmjenama i dopuni Zakona o ustrojstvu i djelokrugu ministarstava i drugih središnjih tijela državne uprave | [`zakon/2013/2677/`](zakon/2013/2677/) | amending act | 1 | 2013-10-19 | 2013-10-19 |
+| Zakon o izmjenama i dopunama Zakona o porezu na dohodak | [`zakon/2013/2678/`](zakon/2013/2678/) | amending act | 1 | 2013-10-19 | 2013-10-19 |
+| Zakon o izmjenama i dopunama Zakona o zadrugama | [`zakon/2013/2679/`](zakon/2013/2679/) | amending act | 1 | 2013-10-19 | 2013-10-19 |
+| Zakon o promicanju čistih i energetski učinkovitih vozila u cestovnom prijevozu | [`zakon/2013/2752/`](zakon/2013/2752/) | repealed, not consolidated | 1 | 2013-10-19 | 2013-10-19 |
+| Zakon o provedbi Uredbe Vijeća (EZ) br. 2201/2003 u području nadležnosti, priznanja i izvršenja sudskih odluka u bračnim sporovima i u stvarima povezanim s roditeljskom skrbi | [`zakon/2013/2755/`](zakon/2013/2755/) | repealed, not consolidated | 1 | 2013-10-26 | 2013-10-26 |
+| Zakon o izmjeni Zakona o vanjskim poslovima | [`zakon/2013/2756/`](zakon/2013/2756/) | in force | 1 | 2013-10-26 | 2013-10-26 |
+| Zakon o izmjenama i dopunama Zakona o nasljeđivanju | [`zakon/2013/2758/`](zakon/2013/2758/) | amending act | 1 | 2013-10-26 | 2013-10-26 |
+| Zakon o izmjenama i dopunama Zakona o Državnoj komisiji za kontrolu postupaka javne nabave | [`zakon/2013/2759/`](zakon/2013/2759/) | amending act | 1 | 2013-10-26 | 2013-10-26 |
+| Zakon o strateškim investicijskim projektima Republike Hrvatske | [`zakon/2013/2881/`](zakon/2013/2881/) | repealed, not consolidated | 1 | 2013-11-14 | 2013-11-14 |
+| Zakon o dopunama Zakona o mirovinskom osiguranju | [`zakon/2013/2882/`](zakon/2013/2882/) | amending act | 1 | 2013-11-14 | 2013-11-14 |
+| Zakon o izmjenama i dopuni Zakona o obveznom zdravstvenom osiguranju | [`zakon/2013/2944/`](zakon/2013/2944/) | amending act | 1 | 2013-11-16 | 2013-11-16 |
+| Zakon o dopuni Zakona o stambenoj štednji i državnom poticanju stambene štednje | [`zakon/2013/2970/`](zakon/2013/2970/) | amending act | 1 | 2014-01-01 | 2014-01-01 |
+| Zakon o izmjeni Zakona o Fondu za naknadu oduzete imovine | [`zakon/2013/3013/`](zakon/2013/3013/) | in force | 1 | 2014-01-01 | 2014-01-01 |
+| Zakon o izmjeni i dopunama Zakona o državnim potporama | [`zakon/2013/3014/`](zakon/2013/3014/) | amending act | 1 | 2013-12-05 | 2013-12-05 |
+| Zakon o izmjenama i dopunama Zakona o autorskom pravu i srodnim pravima | [`zakon/2013/3015/`](zakon/2013/3015/) | amending act | 1 | 2013-12-05 | 2013-12-05 |
+| Zakon o izmjenama i dopunama Zakona o potrošačkom kreditiranju | [`zakon/2013/3066/`](zakon/2013/3066/) | amended, not consolidated | 1 | 2014-01-01 | 2014-01-01 |
+| Zakon o izmjenama i dopunama Zakona o azilu | [`zakon/2013/3067/`](zakon/2013/3067/) | amending act | 1 | 2013-12-10 | 2013-12-10 |
+| Zakon o izmjenama i dopunama Zakona o javnoj nabavi | [`zakon/2013/3068/`](zakon/2013/3068/) | amending act | 1 | 2013-12-10 | 2013-12-10 |
+| Zakon o izmjenama i dopunama Zakona o uspostavi institucionalnog okvira za korištenje strukturnih instrumenata Europske unije u Republici Hrvatskoj | [`zakon/2013/3069/`](zakon/2013/3069/) | amended, not consolidated | 1 | 2013-12-10 | 2013-12-10 |
+| Zakon o izmjenama i dopunama Zakona o postupanju s nezakonito izgrađenim zgradama | [`zakon/2013/3070/`](zakon/2013/3070/) | amending act | 1 | 2013-12-03 | 2013-12-03 |
+| Zakon o izmjenama i dopunama Zakona o kaznenom postupku | [`zakon/2013/3090/`](zakon/2013/3090/) | amending act | 1 | 2013-12-15 | 2013-12-15 |
+| Zakon o izmjeni Zakona o izvršavanju Državnog proračuna Republike Hrvatske za 2013. godinu (NN br. 145A) | [`zakon/2013/3112/`](zakon/2013/3112/) | in force | 1 | 2013-12-07 | 2013-12-07 |
+| Zakon o provedbi Uredbe (EZ) br. 850/2004 o postojanim organskim onečišćujućim tvarima | [`zakon/2013/3135/`](zakon/2013/3135/) | repealed, not consolidated | 1 | 2013-12-19 | 2013-12-19 |
+| Zakon o Poreznoj upravi | [`zakon/2013/3136/`](zakon/2013/3136/) | repealed, not consolidated | 1 | 2013-12-19 | 2013-12-19 |
+| Zakon o izmjenama i dopunama Zakona o porezu na dohodak | [`zakon/2013/3137/`](zakon/2013/3137/) | amending act | 1 | 2013-12-19 | 2013-12-19 |
+| Zakon o izmjenama i dopunama Zakona o porezu na dodanu vrijednost | [`zakon/2013/3138/`](zakon/2013/3138/) | amending act | 1 | 2013-12-19 | 2013-12-19 |
+| Zakon o izmjenama i dopunama Zakona o porezu na dobit | [`zakon/2013/3139/`](zakon/2013/3139/) | amended, not consolidated | 1 | 2013-12-19 | 2013-12-19 |
+| Zakon o izmjenama i dopunama Zakona o doprinosima | [`zakon/2013/3140/`](zakon/2013/3140/) | amending act | 1 | 2013-12-19 | 2013-12-19 |
+| Zakon o izmjenama Zakona o područjima posebne državne skrbi | [`zakon/2013/3142/`](zakon/2013/3142/) | in force | 1 | 2014-01-01 | 2014-01-01 |
+| Zakon o izmjeni Zakona o brdsko-planinskim područjima | [`zakon/2013/3143/`](zakon/2013/3143/) | in force | 1 | 2014-01-01 | 2014-01-01 |
+| Zakon o izmjeni Zakona o obnovi i razvoju Grada Vukovara | [`zakon/2013/3144/`](zakon/2013/3144/) | in force | 1 | 2014-01-01 | 2014-01-01 |
+| Zakon o izmjenama i dopunama Zakona o sudskom registru | [`zakon/2013/3145/`](zakon/2013/3145/) | amending act | 1 | 2013-12-19 | 2013-12-19 |
+| Zakon o izmjenama i dopunama Zakona o državnom odvjetništvu | [`zakon/2013/3146/`](zakon/2013/3146/) | amending act | 1 | 2013-12-15 | 2013-12-15 |
+| Zakon o izmjenama i dopunama Zakona o Uredu za suzbijanje korupcije i organiziranog kriminaliteta | [`zakon/2013/3147/`](zakon/2013/3147/) | amending act | 1 | 2013-12-15 | 2013-12-15 |
+| Zakon o izmjenama i dopunama Zakona o sudovima za mladež | [`zakon/2013/3148/`](zakon/2013/3148/) | amending act | 1 | 2013-12-15 | 2013-12-15 |
+| Zakon o izmjenama i dopunama Zakona o ustrojstvu i djelokrugu ministarstava i drugih središnjih tijela državne uprave | [`zakon/2013/3149/`](zakon/2013/3149/) | amending act | 1 | 2014-01-01 | 2014-01-01 |
+| Zakon o izmjenama Zakona o poljoprivrednoj savjetodavnoj službi | [`zakon/2013/3150/`](zakon/2013/3150/) | in force | 1 | 2013-12-19 | 2013-12-19 |
+| Zakon o izmjenama i dopunama Zakona o veterinarstvu | [`zakon/2013/3151/`](zakon/2013/3151/) | amending act | 1 | 2013-12-19 | 2013-12-19 |
+| Zakon o izmjenama i dopunama Zakona o slobodnim zonama | [`zakon/2013/3152/`](zakon/2013/3152/) | amending act | 1 | 2013-12-19 | 2013-12-19 |
+| Zakon o izmjenama Zakona o provedbi Uredbe (EU) br. 211/2011 Europskog parlamenta i Vijeća od 16. veljače 2011. godine o građanskoj inicijativi | [`zakon/2013/3153/`](zakon/2013/3153/) | in force | 1 | 2013-12-19 | 2013-12-19 |
+| Zakon o izmjeni i dopuni Zakona o cestama | [`zakon/2013/3154/`](zakon/2013/3154/) | amending act | 1 | 2014-01-01 | 2014-01-01 |
+| Zakon o izmjeni i dopuni Zakona o željeznici | [`zakon/2013/3155/`](zakon/2013/3155/) | amending act | 1 | 2014-01-01 | 2014-01-01 |
+| Zakon o izmjenama i dopunama Zakona o pravima hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji | [`zakon/2013/3156/`](zakon/2013/3156/) | amending act | 1 | 2014-01-01 | 2014-01-01 |
+| Zakon o izmjenama i dopunama Zakona o zaštiti vojnih i civilnih invalida rata | [`zakon/2013/3157/`](zakon/2013/3157/) | amending act | 1 | 2014-01-01 | 2014-01-01 |
+| Zakon o izmjenama i dopunama Zakona o izvršavanju kazne zatvora | [`zakon/2013/3172/`](zakon/2013/3172/) | amending act | 1 | 2013-12-15 | 2013-12-15 |
+| Zakon o izvršavanju Državnog proračuna Republike Hrvatske za 2014. godinu | [`zakon/2013/3219/`](zakon/2013/3219/) | amended, not consolidated | 1 | 2014-01-01 | 2014-01-01 |
+| Zakon o prostornom uređenju | [`zakon/2013/3220/`](zakon/2013/3220/) | repealed, not consolidated | 1 | 2014-01-01 | 2014-01-01 |
+| Zakon o gradnji | [`zakon/2013/3221/`](zakon/2013/3221/) | repealed, not consolidated | 1 | 2014-01-01 | 2014-01-01 |
+| Zakon o izmjenama Zakona o poštanskim uslugama | [`zakon/2013/3224/`](zakon/2013/3224/) | in force | 1 | 2013-12-19 | 2013-12-19 |
+| Zakon o izmjenama i dopuni Zakona o zaštiti od buke | [`zakon/2013/3225/`](zakon/2013/3225/) | amending act | 1 | 2013-12-19 | 2013-12-19 |
+| Zakon o socijalnoj skrbi | [`zakon/2013/3289/`](zakon/2013/3289/) | repealed, not consolidated | 1 | 2014-01-01 | 2014-01-01 |
+| Zakon o mirovinskom osiguranju | [`zakon/2013/3290/`](zakon/2013/3290/) | repealed, not consolidated | 1 | 2014-01-01 | 2014-01-01 |
+| Zakon o izmjeni i dopunama Zakona o smanjenju mirovina određenih, odnosno ostvarenih prema posebnim propisima o mirovinskom osiguranju | [`zakon/2013/3293/`](zakon/2013/3293/) | amending act | 1 | 2014-01-01 | 2014-01-01 |
+| Zakon o izmjenama i dopunama Prekršajnog zakona | [`zakon/2013/3294/`](zakon/2013/3294/) | amending act | 1 | 2014-01-01 | 2014-01-01 |
+| Zakon o izmjenama i dopunama Zakona o sudskim pristojbama | [`zakon/2013/3295/`](zakon/2013/3295/) | amending act | 1 | 2014-01-01 | 2014-01-01 |
+| Zakon o izmjeni i dopuni Zakona o zaštiti i očuvanju kulturnih dobara | [`zakon/2013/3296/`](zakon/2013/3296/) | amending act | 1 | 2014-01-01 | 2014-01-01 |
+| Zakon o kreditnim institucijama | [`zakon/2013/3328/`](zakon/2013/3328/) | repealed, not consolidated | 1 | 2014-01-01 | 2014-01-01 |
 | Zakon o izmjenama Zakona o službenim kontrolama koje se provode sukladno propisima o hrani, hrani za životinje, o zdravlju i dobrobiti životinja | [`zakon/2014/270/`](zakon/2014/270/) | in force | 1 | 2014-02-06 | 2014-02-06 |
 | Zakon o izmjenama Zakona o provedbi uredbi Europske unije o zaštiti životinja | [`zakon/2014/271/`](zakon/2014/271/) | in force | 1 | 2014-02-06 | 2014-02-06 |
 | Zakon o izmjeni Zakona o zajedničkoj organizaciji tržišta poljoprivrednih proizvoda i posebnim mjerama i pravilima vezanim za tržište poljoprivrednih proizvoda | [`zakon/2014/272/`](zakon/2014/272/) | in force | 1 | 2014-02-06 | 2014-02-06 |
@@ -18571,11 +18858,24 @@
 | Zakon o izmjeni Zakona o genetski modificiranim organizmima | [`zakon/2014/877/`](zakon/2014/877/) | in force | 1 | 2014-04-17 | 2014-04-17 |
 | Zakon o izmjeni Zakona o provedbi Uredbe (EZ) br. 1829/2003 Europskoga parlamenta i Vijeća od 22. rujna 2003. godine o genetski modificiranoj hrani i hrani za životinje i Uredbe (EZ) br.1830/2003 Europskoga parlamenta i Vijeća od 22. rujna 2003. godine o sljedivosti i označavanju genetski modificiranih organizama i sljedivosti hrane i hrane za životinje proizvedenih od genetski modificiranih organizama kojom se izmjenjuje i dopunjuje Direktiva 2001/18/EZ | [`zakon/2014/878/`](zakon/2014/878/) | amending act | 1 | 2014-04-17 | 2014-04-17 |
 | Zakon o izmjeni Zakona o provedbi Uredbe (EZ) br. 258/97 Europskoga parlamenta i Vijeća od 27. siječnja 1997. godine o novoj hrani i sastojcima nove hrane | [`zakon/2014/879/`](zakon/2014/879/) | in force | 1 | 2014-04-17 | 2014-04-17 |
+| Zakon o regulaciji tržišta željezničkih usluga | [`zakon/2014/1335/`](zakon/2014/1335/) | repealed, not consolidated | 1 | 2014-06-19 | 2014-06-19 |
+| Zakon o izmjenama i dopunama Zakona o elektroničkim komunikacijama | [`zakon/2014/1336/`](zakon/2014/1336/) | amending act | 1 | 2014-06-19 | 2014-06-19 |
 | Zakon o izmjenama i dopunama Zakona o hidrografskoj djelatnosti | [`zakon/2014/1337/`](zakon/2014/1337/) | amending act | 1 | 2014-06-19 | 2014-06-19 |
+| Zakon o izmjenama Zakona o Državnoj komisiji za kontrolu postupaka javne nabave | [`zakon/2014/1393/`](zakon/2014/1393/) | in force | 1 | 2014-06-26 | 2014-06-26 |
+| Zakon o izmjenama i dopunama Zakona o reguliranim profesijama i priznavanju inozemnih stručnih kvalifikacija | [`zakon/2014/1394/`](zakon/2014/1394/) | amending act | 1 | 2014-06-26 | 2014-06-26 |
 | Zakon o izmjenama i dopunama Zakona o zadrugama | [`zakon/2014/1415/`](zakon/2014/1415/) | amending act | 1 | 2014-07-02 | 2014-07-02 |
+| Zakon o izmjenama i dopunama Zakona o područjima posebne državne skrbi | [`zakon/2014/1416/`](zakon/2014/1416/) | amending act | 1 | 2014-07-02 | 2014-07-02 |
+| Zakon o izmjeni Zakona o lijekovima | [`zakon/2014/1809/`](zakon/2014/1809/) | in force | 1 | 2014-07-26 | 2014-07-26 |
+| Zakon o privremenom uzdržavanju | [`zakon/2014/1837/`](zakon/2014/1837/) | repealed, not consolidated | 1 | 2014-09-01 | 2014-09-01 |
+| Zakon o državnoj informacijskoj infrastrukturi | [`zakon/2014/1840/`](zakon/2014/1840/) | repealed, not consolidated | 1 | 2014-08-05 | 2014-08-05 |
 | Zakon o izmjenama i dopunama Zakona o zračnom prometu | [`zakon/2014/1841/`](zakon/2014/1841/) | amending act | 1 | 2014-08-05 | 2014-08-05 |
+| Zakon o izmjenama i dopunama Zakona o sigurnosti prometa na cestama | [`zakon/2014/1842/`](zakon/2014/1842/) | amending act | 1 | 2014-08-05 | 2014-08-05 |
+| Zakon o izmjenama i dopunama Zakona o cestama | [`zakon/2014/1843/`](zakon/2014/1843/) | amending act | 1 | 2014-08-05 | 2014-08-05 |
 | Zakon o dopunama Zakona o pravima hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji | [`zakon/2014/1844/`](zakon/2014/1844/) | amending act | 1 | 2014-08-05 | 2014-08-05 |
+| Zakon o izmjenama i dopunama Zakona o policijskim poslovima i ovlastima | [`zakon/2014/1845/`](zakon/2014/1845/) | amending act | 1 | 2014-08-05 | 2014-08-05 |
 | Zakon o izmjenama i dopunama Zakona o provedbi Uredbi Europske unije o zaštiti životinja | [`zakon/2014/1846/`](zakon/2014/1846/) | amending act | 1 | 2014-08-05 | 2014-08-05 |
+| Zakon o potporama za očuvanje radnih mjesta | [`zakon/2014/1873/`](zakon/2014/1873/) | repealed, not consolidated | 1 | 2014-08-07 | 2014-08-07 |
+| Zakon o izmjenama i dopunama Ovršnog zakona | [`zakon/2014/1877/`](zakon/2014/1877/) | amending act | 1 | 2014-09-01 | 2014-09-01 |
 | Zakon o izmjenama i dopuni Zakona o Gradu Zagrebu | [`zakon/2014/2235/`](zakon/2014/2235/) | amending act | 1 | 2015-01-01 | 2015-01-01 |
 | Zakon o izmjenama i dopuni Zakona o izvršavanju Državnog proračuna Republike Hrvatske za 2014. godinu | [`zakon/2014/2671/`](zakon/2014/2671/) | amending act | 1 | 2014-12-02 | 2014-12-02 |
 | Zakon o izmjeni Zakona o igrama na sreću | [`zakon/2014/2684/`](zakon/2014/2684/) | in force | 1 | 2015-01-01 | 2015-01-01 |
