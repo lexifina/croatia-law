@@ -1,6 +1,6 @@
 # Every act in this repository
 
-26196 acts, 26,622 versions. Each act lives in a folder named by its kind, year and identifier, `<kind>/<year>/<identifier>/` (acts published before that layout keep their own folder, listed in data/paths.json); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+26496 acts, 26,922 versions. Each act lives in a folder named by its kind, year and identifier, `<kind>/<year>/<identifier>/` (acts published before that layout keep their own folder, listed in data/paths.json); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## naputak (185, of which 25 amending acts)
 
@@ -1293,7 +1293,7 @@
 | Naredba o dopuni Naredbe o razvrstaju luka otvorenih za javni promet na području Primorsko-goranske županije | [`naredba/2026/1220/`](naredba/2026/1220/) | amending act | 1 | 2026-09-19 | 2026-09-19 |
 | Naredba o mjerama kontrole za suzbijanje afričke svinjske kuge u Republici Hrvatskoj | [`naredba/2026/1289/`](naredba/2026/1289/) | in force | 1 | 2026-09-24 | 2026-09-24 |
 
-## odluka (11607, of which 1487 amending acts)
+## odluka (11907, of which 1518 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -3411,7 +3411,12 @@
 | Odluka o obvezi rada županijskih ureda i Gradskog ureda Grada Zagreba za opću upravu na dane 2. i 3. siječnja 2000. godine | [`odluka/1999/2279/`](odluka/1999/2279/) | in force | 1 | 1999-12-30 | 1999-12-30 |
 | Odluka o davanju suglasnosti na Statut Hrvatskog zavoda za telekomunikacije | [`odluka/1999/2280/`](odluka/1999/2280/) | in force | 1 | 1999-12-30 | 1999-12-30 |
 | Odluka Ministarstva obrane Urbroj: 512-01-99-2002 od 20. prosinca 1999. | [`odluka/1999/2284/`](odluka/1999/2284/) | in force | 1 | 1999-12-31 | 1999-12-31 |
+| Odluka o davanju suglasnosti na odluku o najnižoj osnovici, ako plaća služi kao osnovica za obračunavanje i plaćanje doprinosa i za ostvarivanje prava iz mirovinskog osiguranja | [`odluka/2000/902a/`](odluka/2000/902a/) | replaced, not consolidated | 1 | 2000-04-13 | 2000-04-13 |
+| Odluka o najnižoj osnovici, ako plaća služi kao osnovica za obračunavanje i plaćanje doprinosa i za ostvarivanje prava iz mirovinskog osiguranja | [`odluka/2000/902b/`](odluka/2000/902b/) | amended, not consolidated | 1 | 2000-04-15 | 2000-04-15 |
+| Odluka o davanju suglasnosti na odluku o najnižoj osnovici za obračunavanje i plaćanje doprinosa za obvezno zdravstveno osiguranje | [`odluka/2000/903a/`](odluka/2000/903a/) | in force | 1 | 2000-04-13 | 2000-04-13 |
+| Odluka o najnižoj osnovici za obračunavanje i plaćanje doprinosa za obvezno zdravstveno osiguranje | [`odluka/2000/903b/`](odluka/2000/903b/) | in force | 1 | 2000-04-14 | 2000-04-14 |
 | Odluka o davanju koncesija za povremeno priređivanje igara na sreću u igračnicama | [`odluka/2000/6/`](odluka/2000/6/) | amended, not consolidated | 1 | 1999-12-30 | 1999-12-30 |
+| Odluka o davanju koncesija za trajno priređivanje igara na sreću u igračnicama | [`odluka/2000/7/`](odluka/2000/7/) | amended, not consolidated | 1 | 1999-12-30 | 1999-12-30 |
 | Odluka o izmjeni Odluke o utvrđivanju popisa dijagnostičkih i terapijskih postupaka u zdravstvenim djelatnostima - vremenski i kadrovski normativi | [`odluka/2000/21/`](odluka/2000/21/) | amended, not consolidated | 1 | 2000-01-10 | 2000-01-10 |
 | Odluka o raspisivanju izbora za Gradsko vijeće Grada Kutine i Općinsko vijeće Općine Perušić | [`odluka/2000/36/`](odluka/2000/36/) | in force | 1 | 2000-01-14 | 2000-01-14 |
 | Odluka o obvezi rada državnog ravnateljstva za državnu upravu i lokalnu samoupravu, županijskih ureda i Gradskog ureda Grada Zagreba za opću upravu na dane 22. i 24. siječnja 2000. godine | [`odluka/2000/51/`](odluka/2000/51/) | in force | 1 | 2000-01-13 | 2000-01-13 |
@@ -3421,6 +3426,9 @@
 | Odluka o dodjeli koncesije za zahvaćanje voda za potrebe javne vodoopskrbe Komunalnom poduzeću "Varkom" d.d., Varaždin | [`odluka/2000/55/`](odluka/2000/55/) | in force | 1 | 2000-01-13 | 2000-01-13 |
 | Odluka o izmjeni Odluke o dodjeli koncesije za zahvaćanje voda za potrebe javne vodoopskrbe javnom poduzeću | [`odluka/2000/56/`](odluka/2000/56/) | in force | 1 | 2000-01-13 | 2000-01-13 |
 | Odluka o izmjeni Odluke o dodjeli koncesije poduzeću za obavljanje komunalnih djelatnosti Zaprešić d.o.o., Zaprešić, za zahvaćanje voda za potrebe javne vodoopskrbe | [`odluka/2000/57/`](odluka/2000/57/) | in force | 1 | 2000-01-13 | 2000-01-13 |
+| Odluka o koncesiji pomorskog dobra u svrhu gospodarskog korištenja luke posebne namjene - brodogradilišta specijalnih objekata Split | [`odluka/2000/94/`](odluka/2000/94/) | amended, not consolidated | 1 | 2000-01-20 | 2000-01-20 |
+| Odluka o koncesiji pomorskog dobra u svrhu Odluka o koncesiji pomorskog dobra u svrhu gospodarskog korištenja luke posebne namjene brodogradilišta Split | [`odluka/2000/95/`](odluka/2000/95/) | amended, not consolidated | 1 | 2000-01-20 | 2000-01-20 |
+| Odluka o izmjeni Odluke o koncesiji pomorskog dobra u svrhu gospodarskog korištenja luke posebne namjene - brodogradilišta i luke nautičkog turizma Brodotrogir d.d., Trogir | [`odluka/2000/96/`](odluka/2000/96/) | in force | 1 | 2000-01-20 | 2000-01-20 |
 | Odluka o sazivanju prvog zasjedanja Zastupničkog doma Hrvatskoga državnog sabora | [`odluka/2000/134/`](odluka/2000/134/) | in force | 1 | 2000-01-25 | 2000-01-25 |
 | Odluka o osnovama za sklapanje ugovora sa zdravstvenim ustanovama i privatnim zdravstvenim djelatnicima za razdoblje od 1. siječnja do 31. ožujka 2000. godine | [`odluka/2000/146/`](odluka/2000/146/) | in force | 1 | 2000-02-01 | 2000-02-01 |
 | Odluka o rokovima i načinu dostave podataka iz knjiga dionica ili registara vrijednosnih papira u depozitorij Središnje depozitarne agencije | [`odluka/2000/190/`](odluka/2000/190/) | repealed, not consolidated | 1 | 2000-02-12 | 2000-02-12 |
@@ -3449,6 +3457,51 @@
 | Odluka o izmjeni Odluke o dodjeli koncesije za zahvaćanje voda za potrebe javne vodoopskrbe Javnom poduzeću komunalnih djelatnosti Tekija s.p.o., Požega | [`odluka/2000/654/`](odluka/2000/654/) | in force | 1 | 2000-03-16 | 2000-03-16 |
 | Odluka o dodjeli koncesije za korištenje poljoprivrednog zemljišta u vlasništvu Republike Hrvatske na području Osječko-baranjske županije | [`odluka/2000/655/`](odluka/2000/655/) | replaced, not consolidated | 1 | 2000-03-16 | 2000-03-16 |
 | Odluka o davanju suglasnosti na Financijski plan za 2000. godinu Hrvatskog zavoda za mirovinsko osiguranje | [`odluka/2000/682/`](odluka/2000/682/) | in force | 1 | 2000-03-25 | 2000-03-25 |
+| Odluka o davanju suglasnosti na Financijski plan za 2000. godinu Hrvatskog zavoda za zdravstveno osiguranje | [`odluka/2000/683/`](odluka/2000/683/) | amended, not consolidated | 1 | 2000-03-25 | 2000-03-25 |
+| Odluka o davanju suglasnosti na Financijski plan za 2000. godinu Hrvatskog zavoda za zapošljavanje | [`odluka/2000/684/`](odluka/2000/684/) | in force | 1 | 2000-03-25 | 2000-03-25 |
+| Odluka o davanju suglasnosti na Financijski plan za 2000. godinu sredstava doplatka za djecu | [`odluka/2000/685/`](odluka/2000/685/) | in force | 1 | 2000-03-25 | 2000-03-25 |
+| Odluka o davanju suglasnosti na Financijski plan za 2000. godinu Hrvatskih voda | [`odluka/2000/686/`](odluka/2000/686/) | in force | 1 | 2000-03-25 | 2000-03-25 |
+| Odluka o osnivanju Istražnog povjerenstva za utvrđivanje činjenica u svezi s prodajom poduzeća Večernji list d.d., Zagreb | [`odluka/2000/690/`](odluka/2000/690/) | amended, not consolidated | 1 | 2000-03-22 | 2000-03-22 |
+| Odluka o određivanju rezidencije Predsjednika Republike Hrvatske | [`odluka/2000/697/`](odluka/2000/697/) | repealed, not consolidated | 1 | 2000-03-22 | 2000-03-22 |
+| Odluka o utvrđivanju aktualne vrijednosti mirovine i usklađivanju mirovine i drugih mirovinskih primanja od 1. siječnja 2000. | [`odluka/2000/815/`](odluka/2000/815/) | in force | 1 | 2000-04-08 | 2000-04-08 |
+| Odluka o najnižoj mirovini za jednu godinu mirovinskog staža od 1. siječnja 2000. | [`odluka/2000/816/`](odluka/2000/816/) | in force | 1 | 2000-04-08 | 2000-04-08 |
+| Odluka o osnovici za određivanje naknade zbog tjelesnog oštećenja i o usklađivanju novčanih naknada zbog tjelesnog oštećenja od 1. siječnja 2000. | [`odluka/2000/817/`](odluka/2000/817/) | in force | 1 | 2000-04-08 | 2000-04-08 |
+| Odluka o naknadi za troškove smještaja i prehrane za vrijeme profesionalne rehabilitacije izvan mjesta prebivališta korisnika u godini 2000. | [`odluka/2000/818/`](odluka/2000/818/) | in force | 1 | 2000-04-08 | 2000-04-08 |
+| Odluka o naknadi putnih troškova u svezi s ostvarivanjem prava iz mirovinskog osiguranja za godinu 2000. | [`odluka/2000/819/`](odluka/2000/819/) | in force | 1 | 2000-04-08 | 2000-04-08 |
+| Odluka o uvjetima pod kojima se smatra da je osiguranik uzdržavao člana obitelji i uvjetima prestanka prava na obiteljsku mirovinu zbog nastale promjene u imovnom stanju, odnosno prihodima u 2000. g. | [`odluka/2000/820/`](odluka/2000/820/) | in force | 1 | 2000-04-08 | 2000-04-08 |
+| Odluka o usklađivanju doplatka za djecu i cenzusa prihoda kao uvjeta za stjecanje prava na doplatak za djecu u godini 2000. | [`odluka/2000/821/`](odluka/2000/821/) | in force | 1 | 2000-04-01 | 2000-04-01 |
+| Odluka o višim osnovicama osiguranja koje služe za obračunavanje i plaćanje doprinosa i za ostvarivanje prava iz mirovinskog osiguranja za osiguranike koji su sami obveznici plaćanja doprinosa | [`odluka/2000/822/`](odluka/2000/822/) | amended, not consolidated | 1 | 2000-04-01 | 2000-04-01 |
+| Odluka o osnovicama osiguranja za obračunavanje i plaćanje doprinosa i za ostvarivanje prava iz mirovinskog osiguranja članova uprave trgovačkih društava ako nisu obvezno osigurani po drugoj osnovi | [`odluka/2000/823/`](odluka/2000/823/) | amended, not consolidated | 1 | 2000-04-01 | 2000-04-01 |
+| Odluka o osnovicama osiguranja za obračunavanje i plaćanje doprinosa i za ostvarivanje prava iz mirovinskog osiguranja trgovaca pojedinaca upisanih u odgovarajući registar | [`odluka/2000/824/`](odluka/2000/824/) | amended, not consolidated | 1 | 2000-04-01 | 2000-04-01 |
+| Odluka o osnovicama osiguranja za obračunavanje i plaćanje doprinosa i za ostvarivanje prava iz mirovinskog osiguranja hrvatskih državljana koji su u Republici Hrvatskoj zaposleni kod stranih diplomatskih, konzularnih i drugih međunarodnih predstavništva ili u osobnoj službi kod stranih državljana | [`odluka/2000/825/`](odluka/2000/825/) | amended, not consolidated | 1 | 2000-04-01 | 2000-04-01 |
+| Odluka o osnovici za obračunavanje i plaćanje doprinosa i za ostvarivanje prava iz mirovinskog osiguranja hrvatskih državljana zaposlenih u inozemstvu kod međunarodnih organizacija i stranih poslodavaca ili na brodovima pod stranom zastavom, te hrvatskih državljana zaposlenih na teritoriju Republike Hrvatske kod međunarodnih organizacija | [`odluka/2000/826/`](odluka/2000/826/) | in force | 1 | 2000-04-01 | 2000-04-01 |
+| Odluka o osnovicama osiguranja za obračunavanje i plaćanje doprinosa i za ostvarivanje prava iz mirovinskog osiguranja za produženo osiguranje | [`odluka/2000/827/`](odluka/2000/827/) | amended, not consolidated | 1 | 2000-04-01 | 2000-04-01 |
+| Odluka o osnovicama osiguranja za obračunavanje i plaćanje doprinosa i za ostvarivanje prava iz mirovinskog osiguranja osoba koje se nakon završenog školovanja nalaze na obveznom praktičnom radu ili na dobrovoljnoj praksi | [`odluka/2000/828/`](odluka/2000/828/) | amended, not consolidated | 1 | 2000-04-01 | 2000-04-01 |
+| Odluka o osnovicama osiguranja za obračunavanje i plaćanje doprinosa i za ostvarivanje prava iz mirovinskog osiguranja osoba koje samostalno obavljaju profesionalnu djelatnost, vrhunske športaše i šahiste, svećenike, redovnike, redovnice i ostale vjerske službenike | [`odluka/2000/829/`](odluka/2000/829/) | amended, not consolidated | 1 | 2000-04-01 | 2000-04-01 |
+| Odluka o osnovicama osiguranja za obračunavanje i plaćanje doprinosa i za ostvarivanje prava iz mirovinskog osiguranja obrtnika | [`odluka/2000/830/`](odluka/2000/830/) | amended, not consolidated | 1 | 2000-04-01 | 2000-04-01 |
+| Odluka o osnovici osiguranja za obračunavanje i plaćanje doprinosa i za ostvarivanje prava iz mirovinskog osiguranja roditelja koji obavlja roditeljske dužnosti u prvoj godini života djeteta | [`odluka/2000/831/`](odluka/2000/831/) | replaced, not consolidated | 1 | 2000-04-01 | 2000-04-01 |
+| Odluka o osnovicama osiguranja za obračunavanje i plaćanje doprinosa i za ostvarivanje prava iz mirovinskog osiguranja poljoprivrednika i članova njihovih kućanstava | [`odluka/2000/832/`](odluka/2000/832/) | amended, not consolidated | 1 | 2000-04-01 | 2000-04-01 |
+| Odluka o stalnoj svoti doprinosa osoba osiguranih u određenim okolnostima za slučaj invalidnosti i tjelesnog oštećenja zbog ozljede na radu ili profesionalne bolesti | [`odluka/2000/833/`](odluka/2000/833/) | replaced, not consolidated | 1 | 2000-04-01 | 2000-04-01 |
+| Odluka o najnižoj naknadi za obračunavanje i plaćanje doprinosa i za ostvarivanje prava iz mirovinskog osiguranja osiguranika koji su na bolovanju, porodiljnom dopustu i dopustu radi njege djeteta s težim smetnjama u razvoju | [`odluka/2000/834/`](odluka/2000/834/) | amended, not consolidated | 1 | 2000-04-01 | 2000-04-01 |
+| Odluka o promjeni svote carine po mjernoj jedinici pri uvozu pojedinih poljoprivrednih i prehrambenih proizvoda iz Dodatka A Carinske tarife | [`odluka/2000/845/`](odluka/2000/845/) | replaced, not consolidated | 1 | 2000-04-07 | 2000-04-07 |
+| Odluka o raspisivanju izbora za Gradsku skupštinu Grada Zagreba | [`odluka/2000/851/`](odluka/2000/851/) | in force | 1 | 2000-04-06 | 2000-04-06 |
+| Odluka o raspisivanju izbora za Gradsko vijeće Grada Velike Gorice | [`odluka/2000/852/`](odluka/2000/852/) | in force | 1 | 2000-04-06 | 2000-04-06 |
+| Odluka o utvrđivanju plaće zamjenicima i pomoćnicima ravnatelja državnih upravnih organizacija | [`odluka/2000/881/`](odluka/2000/881/) | amended, not consolidated | 1 | 2000-04-11 | 2000-04-11 |
+| Odluka o utvrđivanju plaće članova tijela koja vode poslove pravnih osoba u pretežitom vlasništvu Republike Hrvatske | [`odluka/2000/882/`](odluka/2000/882/) | amended, not consolidated | 1 | 2000-04-06 | 2000-04-06 |
+| Odluka o utvrđivanju visine koeficijenata za izračun plaće, odnosno naknade plaće povjerenika Vlade Republike Hrvatske | [`odluka/2000/883/`](odluka/2000/883/) | amended, not consolidated | 1 | 2000-04-11 | 2000-04-11 |
+| Odluka o eskontnoj stopi Hrvatske narodne banke | [`odluka/2000/892/`](odluka/2000/892/) | in force | 1 | 2000-04-11 | 2000-04-11 |
+| Odluka o kamatnim stopama Hrvatske narodne banke | [`odluka/2000/893/`](odluka/2000/893/) | amended, not consolidated | 1 | 2000-04-11 | 2000-04-11 |
+| Odluka o izmjeni Odluke o obveznoj rezervi banaka i štedionica u kunama | [`odluka/2000/894/`](odluka/2000/894/) | in force | 1 | 2000-04-11 | 2000-04-11 |
+| Odluku o osnivanju povjerenstva Vlade Republike Hrvatske za ljudska prava | [`odluka/2000/899/`](odluka/2000/899/) | repealed, not consolidated | 1 | 2000-04-06 | 2000-04-06 |
+| Odluka o promjeni svote carine po mjernoj jedinici pri uvozu pojedinih poljoprivrednih i prehrambenih proizvoda iz Dodatka A Carinske tarife | [`odluka/2000/962/`](odluka/2000/962/) | replaced, not consolidated | 1 | 2000-04-22 | 2000-04-22 |
+| Odluka o dodjeli koncesije za crpljenje termalnih voda, ZRC Toplice d.o.o., Velika | [`odluka/2000/963/`](odluka/2000/963/) | in force | 1 | 2000-04-13 | 2000-04-13 |
+| Odluka o dodjeli koncesije za crpljenje termalne vode društvu Gotalka d.o.o., Budinšćina | [`odluka/2000/964/`](odluka/2000/964/) | in force | 1 | 2000-04-13 | 2000-04-13 |
+| Odluka o izdavanju državnog jamstva za zaduženje Hrvatskih željeznica u inozemstvu | [`odluka/2000/968/`](odluka/2000/968/) | replaced, not consolidated | 1 | 2000-03-21 | 2000-03-21 |
+| Odluka o izdavanju državnog jamstva za zaduženje Hrvatskih željeznica u inozemstvu | [`odluka/2000/969/`](odluka/2000/969/) | replaced, not consolidated | 1 | 2000-03-21 | 2000-03-21 |
+| Odluka o raspisivanju izbora za Gradsko vijeće | [`odluka/2000/990/`](odluka/2000/990/) | replaced, not consolidated | 1 | 2000-04-20 | 2000-04-20 |
+| Odluka o raspisivanju izbora za Gradsko vijeće | [`odluka/2000/991/`](odluka/2000/991/) | replaced, not consolidated | 1 | 2000-04-20 | 2000-04-20 |
+| Odluka o raspisivanju izbora za Gradsko vijeće | [`odluka/2000/992/`](odluka/2000/992/) | replaced, not consolidated | 1 | 2000-04-20 | 2000-04-20 |
+| Odluka o visini novčane naknade za nezaposlenu osobu | [`odluka/2000/994/`](odluka/2000/994/) | replaced, not consolidated | 1 | 2000-04-20 | 2000-04-20 |
 | Odluka o davanju suglasnosti na Izmjene i dopune Statuta Kliničkog bolničkog centra Zagreb | [`odluka/2000/1001/`](odluka/2000/1001/) | amending act | 1 | 2000-04-20 | 2000-04-20 |
 | Odluka o utvrđivanju interesa Republike Hrvatske za izgradnju postrojenja za mljevenje i skladištenje vapnenog brašna s pratećim prostorijama te rezervoarom za lož ulje i eurodizel, s potrebnom opremom za pretakanje | [`odluka/2000/1016/`](odluka/2000/1016/) | in force | 1 | 2000-04-26 | 2000-04-26 |
 | Odluka o izuzimanju od zabrane raspolaganja nekretninama na teritoriju Republike Hrvatske pravnih osoba sa sjedištem u Republici Sloveniji, Republici Makedoniji i Bosni i Hercegovini | [`odluka/2000/1063/`](odluka/2000/1063/) | in force | 1 | 2000-05-03 | 2000-05-03 |
@@ -3640,6 +3693,253 @@
 | Odluka o utvrđivanju interesa Republike Hrvatske za formiranje eksploatacijskog polja mineralnih sirovina, vapnenca i dolomita ŻGusti rastikŽ Sirač u k.o. Bijela | [`odluka/2000/2468/`](odluka/2000/2468/) | in force | 1 | 2000-12-29 | 2000-12-29 |
 | Odluka o utvrđivanju interesa Republike Hrvatske za izvođenje radova iskopa gline u k.o. Druškovec | [`odluka/2000/2469/`](odluka/2000/2469/) | in force | 1 | 2000-12-29 | 2000-12-29 |
 | Odluka o financiranju Hrvatske gospodarske komore u 2001. godini | [`odluka/2000/2474/`](odluka/2000/2474/) | in force | 1 | 2000-12-29 | 2000-12-29 |
+| Odluka o obveznicama, visini i osnovici za plaćanje doprinosa Hrvatskoj obrtničkoj komori | [`odluka/2001/21/`](odluka/2001/21/) | amended, not consolidated | 1 | 2001-01-05 | 2001-01-05 |
+| Odluka o broju automat klubova Hrvatske lutrije d.o.o., koji mogu poslovati na području Republike Hrvatske | [`odluka/2001/44/`](odluka/2001/44/) | in force | 1 | 2001-01-10 | 2001-01-10 |
+| Odluka o izmjeni Odluke o davanju koncesije za trajno priređivanje igara na sreću u igračnicama | [`odluka/2001/45/`](odluka/2001/45/) | in force | 1 | 2001-01-10 | 2001-01-10 |
+| Odluka o izmjenama i dopunama Odluke o statističkom izvješću za banke i Naputcima za popunjavanje statističkog izvješća | [`odluka/2001/73/`](odluka/2001/73/) | amending act | 1 | 2000-12-28 | 2000-12-28 |
+| Odluka o izmjeni Odluke o osnivanju Povjerenstva Vlade Republike Hrvatske za osobe s invaliditetom | [`odluka/2001/121/`](odluka/2001/121/) | in force | 1 | 2001-01-18 | 2001-01-18 |
+| Odluka o utvrđivanju interesa Republike Hrvatske za eksploataciju tehničkog građevnog kamena (spilita) i sanaciju postojećeg kamenoloma "Kremešnica" kod Lasinje, u k.o. Desno Sredičko | [`odluka/2001/122/`](odluka/2001/122/) | in force | 1 | 2001-01-24 | 2001-01-24 |
+| Odluka o raspisivanju javnog natječaja za dodjelu koncesije za korištenje poljoprivrednog zemljišta u vlasništvu Republike Hrvatske na području Zagrebačke županije | [`odluka/2001/163/`](odluka/2001/163/) | in force | 1 | 2001-01-25 | 2001-01-25 |
+| Odluka o izmjenama i dopunama kontnog plana za banke | [`odluka/2001/180/`](odluka/2001/180/) | amending act | 1 | 2001-01-22 | 2001-01-22 |
+| Odluka o utvrđivanju interesa Republike Hrvatske za eksploataciju i sanaciju postojećeg kamenoloma tehničkog građevnog kamena u kamenolomu "Fukinac" u k.o. Bobare | [`odluka/2001/195/`](odluka/2001/195/) | amended, not consolidated | 1 | 2001-02-06 | 2001-02-06 |
+| Odluka o davanju suglasnosti na Statut Hrvatske knjižnice za slijepe | [`odluka/2001/196/`](odluka/2001/196/) | in force | 1 | 2001-02-01 | 2001-02-01 |
+| Odluka o dodjeli koncesije za korištenje poljoprivrednog zemljišta u vlasništvu Republike Hrvatske na području Vukovarsko-srijemske županije | [`odluka/2001/233/`](odluka/2001/233/) | amended, not consolidated | 1 | 2001-02-08 | 2001-02-08 |
+| Odluka o osnivanju Organizacijskog odbora za obilježavanje 10. obljetnice prve redarstvene akcije "Plitvice 1991." | [`odluka/2001/247/`](odluka/2001/247/) | in force | 1 | 2001-02-12 | 2001-02-12 |
+| Odluka o izdavanju obveznica Republike Hrvatske u iznosu od JPY 25.000.000.000,00 | [`odluka/2001/248/`](odluka/2001/248/) | replaced, not consolidated | 1 | 2001-02-01 | 2001-02-01 |
+| Odluka o puštanju u optjecaj kovanog novca kuna i lipa s oznakom godine kovanja "2001". | [`odluka/2001/254/`](odluka/2001/254/) | in force | 1 | 2001-02-16 | 2001-02-16 |
+| Odluka o krajnjem roku za podnošenje zahtjeva za obnovu | [`odluka/2001/272/`](odluka/2001/272/) | replaced, not consolidated | 1 | 2001-02-21 | 2001-02-21 |
+| Odluka o izmjenama i dopunama Odluke o smještaju zastupnika Hrvatskoga sabora u Zagrebu u vrijeme zasjedanja Sabora, radnih tijela domova i klubova zastupnika | [`odluka/2001/285/`](odluka/2001/285/) | amending act | 1 | 2001-02-16 | 2001-02-16 |
+| Odluka o određivanju količine tekućih naftnih goriva koja se smije stavljati u promet na domaćem tržištu a ne udovoljava standardima kakvoće tekućih naftnih goriva propisanim Uredbom o standardima kak | [`odluka/2001/291/`](odluka/2001/291/) | in force | 1 | 2001-02-27 | 2001-02-27 |
+| Odluka o rasporedu sredstava državnog proračuna za održavanje županijskih i lokalnih cesta u 2001. godini | [`odluka/2001/292/`](odluka/2001/292/) | in force | 1 | 2001-03-07 | 2001-03-07 |
+| Odluka o izmjeni Odluke o utvrđivanju interesa Republike Hrvatske za eksploataciju i sanaciju postojećeg kamenoloma tehničkog građevnog kamena u kamenolomu "Fukinac", k.o. Bobare | [`odluka/2001/293/`](odluka/2001/293/) | in force | 1 | 2001-02-27 | 2001-02-27 |
+| Odluka o davanju suglasnosti na Izmjene i dopune Statuta Kliničke bolnice Osijek | [`odluka/2001/294/`](odluka/2001/294/) | amending act | 1 | 2001-02-01 | 2001-02-01 |
+| Odluka o programu prijama na vježbenički staž stručnih djelatnika - volontera u ustanovama socijalne skrbi | [`odluka/2001/311/`](odluka/2001/311/) | amended, not consolidated | 1 | 2001-03-10 | 2001-03-10 |
+| Odluka o stavljanju izvan snage odluka o prodaji stanova u vlasništvu Republike Hrvatske kojima upravljaju Ministarstvo obrane, Ministarstvo unutarnjih poslova i Ministarstvo pravosuđa i Odluke o zamj | [`odluka/2001/318/`](odluka/2001/318/) | in force | 1 | 2001-03-01 | 2001-03-01 |
+| Odluka o izmjenama i dopunama Odluke o obvezi dostavljanja izvješća "Neto potraživanja banke od središnje države" | [`odluka/2001/329/`](odluka/2001/329/) | amending act | 1 | 2001-02-26 | 2001-02-26 |
+| Odluka o izmjeni Odluke o uvjetima korištenja službenih osobnih automobila, mobilnih telefona, sredstava za službena putovanja, polovnih kreditnih kartica i sredstava reprezentacije | [`odluka/2001/358/`](odluka/2001/358/) | in force | 1 | 2001-03-08 | 2001-03-08 |
+| Odluka o dodjeli koncesije za korištenje poljoprivrednog zemljišta u vlasništvu Republike Hrvatske na području Varaždinske županije | [`odluka/2001/361/`](odluka/2001/361/) | in force | 1 | 2001-03-09 | 2001-03-09 |
+| Odluka o izdavanju euroobveznica Republike Hrvatske u iznosu od EUR 500.000.000,00 | [`odluka/2001/363/`](odluka/2001/363/) | replaced, not consolidated | 1 | 2001-03-09 | 2001-03-09 |
+| Odluka o izmjenama Odluke o načinu, uvjetima i naknadi za pristup podacima sudskog registra | [`odluka/2001/364/`](odluka/2001/364/) | in force | 1 | 2001-03-14 | 2001-03-14 |
+| Odluka o davanju suglasnosti na Izmjene i dopune Statuta Hrvatske garancijske agencije | [`odluka/2001/365/`](odluka/2001/365/) | amending act | 1 | 2001-03-09 | 2001-03-09 |
+| Odluka o visini novčane naknade za nezaposlenu osobu | [`odluka/2001/369/`](odluka/2001/369/) | replaced, not consolidated | 1 | 2001-03-14 | 2001-03-14 |
+| Odluka o izmjeni Odluke o kamatnim stopama Hrvatske narodne banke | [`odluka/2001/372/`](odluka/2001/372/) | in force | 1 | 2001-03-14 | 2001-03-14 |
+| Odluka o osnovnim obilježjima novčanice od 10 kuna izdanje 7. ožujka 2001. | [`odluka/2001/373/`](odluka/2001/373/) | cited later, not consolidated | 1 | 2001-03-14 | 2001-03-14 |
+| Odluka o osnovici za ostvarivanje prava po osnovi socijalne skrbi | [`odluka/2001/380/`](odluka/2001/380/) | repealed, not consolidated | 1 | 2001-03-16 | 2001-03-16 |
+| Odluka o izmjeni Odluke o obustavi postupka sanacije brodogradilišta | [`odluka/2001/399/`](odluka/2001/399/) | in force | 1 | 2001-03-21 | 2001-03-21 |
+| Odluka o izmjeni Odluke o davanju koncesija za trajno priređivanje igara na sreću u igračnicama | [`odluka/2001/400/`](odluka/2001/400/) | in force | 1 | 2001-03-21 | 2001-03-21 |
+| Odluka o izmjeni Odluke o dodjeli koncesije za korištenje poljoprivrednog zemljišta u vlasništvu Republike Hrvatske na području Vukovarsko-srijemske županije | [`odluka/2001/401/`](odluka/2001/401/) | in force | 1 | 2001-03-15 | 2001-03-15 |
+| Odluka o donošenju Prostornog plana Nacionalnog parka "Mljet" | [`odluka/2001/413/`](odluka/2001/413/) | in force | 1 | 2001-03-31 | 2001-03-31 |
+| Odluka o donošenju Prostornog plana Nacionalnog parka "Paklenica" | [`odluka/2001/414/`](odluka/2001/414/) | in force | 1 | 2001-03-31 | 2001-03-31 |
+| Odluka o donošenju Prostornog plana Nacionalnog parka "Risnjak" | [`odluka/2001/415/`](odluka/2001/415/) | in force | 1 | 2001-03-31 | 2001-03-31 |
+| Odluka o koncesiji pomorskog dobra u svrhu izgradnje i gospodarskog korištenja luke posebne namjene - luke nautičkog turizma Tisno | [`odluka/2001/443/`](odluka/2001/443/) | amended, not consolidated | 1 | 2001-03-22 | 2001-03-22 |
+| Odluka o izmjeni Odluke o broju automat klubova koji mogu poslovati na području Republike Hrvatske | [`odluka/2001/476/`](odluka/2001/476/) | in force | 1 | 2001-03-30 | 2001-03-30 |
+| Odluka o aktualnoj vrijednosti mirovine od 1. siječnja 2001. | [`odluka/2001/478/`](odluka/2001/478/) | in force | 1 | 2001-04-07 | 2001-04-07 |
+| Odluka o najnižoj mirovini za jednu godinu mirovinskog staža od 1. siječnja 2001. | [`odluka/2001/479/`](odluka/2001/479/) | in force | 1 | 2001-04-07 | 2001-04-07 |
+| Odluka o osnovici za određivanje naknade zbog tjelesnog oštećenja i o usklađivanju novčanih naknada zbog tjelesnog oštećenja od 1. siječnja 2001. | [`odluka/2001/480/`](odluka/2001/480/) | in force | 1 | 2001-04-07 | 2001-04-07 |
+| Odluka o naknadi putnih troškova u svezi s ostvarivanjem prava iz mirovinskog osiguranja za 2001. | [`odluka/2001/481/`](odluka/2001/481/) | in force | 1 | 2001-04-07 | 2001-04-07 |
+| Odluka o naknadi za troškove smještaja i prehrane za vrijeme profesionalne rehabilitacije izvan mjesta prebivališta korisnika u 2001. | [`odluka/2001/482/`](odluka/2001/482/) | in force | 1 | 2001-04-07 | 2001-04-07 |
+| Odluka o uvjetima pod kojima se smatra da je osiguranik uzdržavao člana obitelji i uvjetima prestanka prava na obiteljsku mirovinu zbog nastale promjene u imovnom stanju, odnosno prihodima u 2001. | [`odluka/2001/483/`](odluka/2001/483/) | in force | 1 | 2001-04-07 | 2001-04-07 |
+| Odluka o davanju suglasnosti na Statut Javne ustanove Nacionalni park Brijuni | [`odluka/2001/501/`](odluka/2001/501/) | in force | 1 | 2001-03-15 | 2001-03-15 |
+| Odluka o davanju suglasnosti na Statut Javne ustanove Park prirode Vransko jezero | [`odluka/2001/502/`](odluka/2001/502/) | in force | 1 | 2001-03-15 | 2001-03-15 |
+| Odluka o davanju suglasnosti na Statut Javne ustanove Park prirode Velebit | [`odluka/2001/503/`](odluka/2001/503/) | in force | 1 | 2001-03-15 | 2001-03-15 |
+| Odluka o davanju suglasnosti na Statut Javne ustanove Park prirode Medvednica | [`odluka/2001/504/`](odluka/2001/504/) | in force | 1 | 2001-03-15 | 2001-03-15 |
+| Odluka o davanju suglasnosti na Statut Javne ustanove Nacionalni park Paklenica | [`odluka/2001/505/`](odluka/2001/505/) | in force | 1 | 2001-03-15 | 2001-03-15 |
+| Odluka o davanju suglasnosti na Statut Javne ustanove Nacionalni park Sjeverni Velebit | [`odluka/2001/506/`](odluka/2001/506/) | in force | 1 | 2001-03-15 | 2001-03-15 |
+| Odluka o davanju suglasnosti na Statut Javne ustanove Nacionalni park Krka | [`odluka/2001/507/`](odluka/2001/507/) | in force | 1 | 2001-03-15 | 2001-03-15 |
+| Odluka o davanju suglasnosti na Statut Javne ustanove Park prirode Biokovo | [`odluka/2001/508/`](odluka/2001/508/) | in force | 1 | 2001-03-15 | 2001-03-15 |
+| Odluka o davanju suglasnosti na Statut Javne ustanove Park prirode Telašćica | [`odluka/2001/509/`](odluka/2001/509/) | in force | 1 | 2001-03-15 | 2001-03-15 |
+| Odluka o dopuni Odluke o davanju ovlasti jedinicama lokalne samouprave i Gradu Zagrebu za sklapanje Ugovora o prodaji nacionaliziranih i konfisciranih stanova | [`odluka/2001/514/`](odluka/2001/514/) | amending act | 1 | 2001-04-04 | 2001-04-04 |
+| Odluka o utvrđivanju poslova na kojima se ovlaštenim službenim osobama pravosuđa računa staž osiguranja s povećanim trajanjem | [`odluka/2001/555/`](odluka/2001/555/) | in force | 1 | 2001-04-18 | 2001-04-18 |
+| Odluka o provedbi Stand by aranžmana (SBA) Međunarodnog monetarnog fonda (MMF) odobrenog Republici Hrvatskoj | [`odluka/2001/556/`](odluka/2001/556/) | in force | 1 | 2001-04-05 | 2001-04-05 |
+| Odluka o dopuni Odluke o dodjeli koncesije za crpljenje termomineralnih voda Specijalnoj bolnici za medicinsku rehabilitaciju "Krapinske toplice" | [`odluka/2001/557/`](odluka/2001/557/) | amending act | 1 | 2001-04-05 | 2001-04-05 |
+| Odluka o prestanku sanacije Željezare Sisak d.d. Sisak | [`odluka/2001/558/`](odluka/2001/558/) | in force | 1 | 2001-03-30 | 2001-03-30 |
+| Odluka o izmjeni Odluke o obveznoj rezervi | [`odluka/2001/559/`](odluka/2001/559/) | in force | 1 | 2001-04-10 | 2001-04-10 |
+| Odluka o dopuni Odluke o načinu obračuna, naplate i plaćanja aktivnih i pasivnih kamata Hrvatske narodne banke | [`odluka/2001/560/`](odluka/2001/560/) | amending act | 1 | 2001-04-10 | 2001-04-10 |
+| Odluka o osnovnim obilježjima novčanice od 5 kuna izdanje 7. ožujka 2001. godine | [`odluka/2001/561/`](odluka/2001/561/) | in force | 1 | 2001-04-10 | 2001-04-10 |
+| Odluka o raspisivanju izbora za članove predstavničkih tijela jedinica lokalne i područne (regionalne) samouprave | [`odluka/2001/606/`](odluka/2001/606/) | replaced, not consolidated | 1 | 2001-04-19 | 2001-04-19 |
+| Odluka o koncesiji pomorskog dobra u svrhu gospodarskog korištenja luke posebne namjene - industrijske luke Bakar | [`odluka/2001/608/`](odluka/2001/608/) | in force | 1 | 2001-04-12 | 2001-04-12 |
+| Odluka o koncesiji pomorskog dobra u svrhu gospodarskog korištenja luke posebne namjene - industrijske luke Sršćica | [`odluka/2001/609/`](odluka/2001/609/) | in force | 1 | 2001-04-12 | 2001-04-12 |
+| Odluka o koncesiji pomorskog dobra u svrhu gospodarskog korištenja luke posebne namjene - industrijske luke Mlaka | [`odluka/2001/610/`](odluka/2001/610/) | in force | 1 | 2001-04-12 | 2001-04-12 |
+| Odluka o izmjeni Odluke o koncesiji pomorskog dobra u svrhu izgradnje i gospodarskog korištenja luke posebne namjene - luke nautičkog turizma Novigrad | [`odluka/2001/611/`](odluka/2001/611/) | in force | 1 | 2001-04-12 | 2001-04-12 |
+| Odluka o osnivanju Nacionalnog bioetičkog povjerenstva za medicinu | [`odluka/2001/612/`](odluka/2001/612/) | repealed, not consolidated | 1 | 2001-04-19 | 2001-04-19 |
+| Odluka o davanju suglasnosti na Statut Javne ustanove Park prirode Lonjsko polje | [`odluka/2001/650/`](odluka/2001/650/) | in force | 1 | 2001-04-19 | 2001-04-19 |
+| Odluka o izmjeni Odluke o smještaju zastupnika Hrvatskoga sabora u Zagrebu u vrijeme zasjedanja Sabora, radnih tijela domova i Klubova zastupnika | [`odluka/2001/693/`](odluka/2001/693/) | in force | 1 | 2001-04-27 | 2001-04-27 |
+| Odluka o davanju suglasnosti na Statut Javne ustanove Nacionalni park Plitvička jezera | [`odluka/2001/698/`](odluka/2001/698/) | in force | 1 | 2001-04-26 | 2001-04-26 |
+| Odluka o davanju suglasnosti na Statut Javne ustanove Park prirode Učka | [`odluka/2001/699/`](odluka/2001/699/) | in force | 1 | 2001-04-26 | 2001-04-26 |
+| Zakon o izmjenama i dopunama Zakona o državnoj reviziji | [`odluka/2001/729/`](odluka/2001/729/) | amending act | 1 | 2001-05-24 | 2001-05-24 |
+| Odluka o izmjeni i dopunama Odluke o osnivanju Vijeća za djecu | [`odluka/2001/736/`](odluka/2001/736/) | amending act | 1 | 2001-05-10 | 2001-05-10 |
+| Odluka o dodjeli koncesije za crpljenje termalnih voda iz izvorišta Sv. Stjepan u Istarskim toplicama za potrebe medicinskog liječenja, tvrtki Lječilište Istarske toplice | [`odluka/2001/737/`](odluka/2001/737/) | in force | 1 | 2001-05-10 | 2001-05-10 |
+| Odluka o izmjeni Odluke o dodjeli koncesije za zahvaćanje voda za potrebe javne vodoopskrbe Vodovodu Labin d.o.o., Labin | [`odluka/2001/738/`](odluka/2001/738/) | in force | 1 | 2001-05-10 | 2001-05-10 |
+| Odluka o davanju suglasnosti na Statut Javne ustanove Park prirode Kopački rit | [`odluka/2001/739/`](odluka/2001/739/) | in force | 1 | 2001-05-10 | 2001-05-10 |
+| Odluka o promjeni sjedišta Javne ustanove Park prirode Medvednica | [`odluka/2001/740/`](odluka/2001/740/) | in force | 1 | 2001-05-16 | 2001-05-16 |
+| Odluka o načinu obavljanja mjenjačkih poslova | [`odluka/2001/748/`](odluka/2001/748/) | amended, not consolidated | 1 | 2001-05-24 | 2001-05-24 |
+| Odluka o prestanku važenja Odluke o načinu i rokovima izvješća o odobrenim deviznim kreditima domaćim pravnim osobama | [`odluka/2001/749/`](odluka/2001/749/) | in force | 1 | 2001-05-24 | 2001-05-24 |
+| Odluka o dopuni Odluke o uvjetima uz koje se može odobriti produženje roka naplate izvezene robe i usluga | [`odluka/2001/750/`](odluka/2001/750/) | amending act | 1 | 2001-05-24 | 2001-05-24 |
+| Odluka o cesiji, asignaciji i preuzimanju duga u poslovima s inozemstvom | [`odluka/2001/751/`](odluka/2001/751/) | in force | 1 | 2001-05-24 | 2001-05-24 |
+| Odluka o prijeboju dugovanja i potraživanja u poslovima s inozemstvom | [`odluka/2001/752/`](odluka/2001/752/) | in force | 1 | 2001-05-24 | 2001-05-24 |
+| Odluka o osnovnim obilježjima novčanice od 20 kuna - izdanje 7. ožujka 2001. | [`odluka/2001/753/`](odluka/2001/753/) | in force | 1 | 2001-05-16 | 2001-05-16 |
+| Odluka o puštanju u optjecaj novčanica od 10 kuna - izdanje 7. ožujka 2001. | [`odluka/2001/754/`](odluka/2001/754/) | in force | 1 | 2001-05-16 | 2001-05-16 |
+| Odluka o izdavanju numizmatičkog kompleta prigodnoga optjecajnog kovanog novca od 25 kuna s oznakom godine kovanja "2001." | [`odluka/2001/755/`](odluka/2001/755/) | cited later, not consolidated | 1 | 2001-05-16 | 2001-05-16 |
+| Odluka o izmjeni Odluke o sadržaju i obliku isprave kojom se dokazuje status osigurane osobe Hrvatskog zavoda za zdravstveno osiguranje | [`odluka/2001/761/`](odluka/2001/761/) | in force | 1 | 2001-05-26 | 2001-05-26 |
+| Odluka o rasporedu sredstava državnog proračuna za potporu programa modernizacije, rekonstrukcije i građenja županijskih i lokalnih cesta u 2001. godini | [`odluka/2001/765/`](odluka/2001/765/) | amended, not consolidated | 1 | 2001-05-31 | 2001-05-31 |
+| Odluka o davanju koncesije za osnivanje Slobodne zone Đuro Đaković - Slavonski Brod d.o.o. | [`odluka/2001/766/`](odluka/2001/766/) | amended, not consolidated | 1 | 2001-05-17 | 2001-05-17 |
+| Odluka o obveznoj pričuvi | [`odluka/2001/772/`](odluka/2001/772/) | amended, not consolidated | 1 | 2001-05-23 | 2001-05-23 |
+| Odluka o kamatnim stopama i naknadama Hrvatske narodne banke | [`odluka/2001/773/`](odluka/2001/773/) | amended, not consolidated | 1 | 2001-05-23 | 2001-05-23 |
+| Odluka o tehničkim pravilima Hrvatskog registra brodova - Opći propisi (2001.) | [`odluka/2001/774/`](odluka/2001/774/) | replaced, not consolidated | 1 | 2001-06-01 | 2001-06-01 |
+| Odluka o tehničkim pravilima Hrvatskog registra brodova - Sprječavanje zagađivanja (2001.) | [`odluka/2001/775/`](odluka/2001/775/) | replaced, not consolidated | 1 | 2001-06-01 | 2001-06-01 |
+| Odluka o tehničkim pravilima Hrvatskog registra brodova - Pravila za baždarenje brodova unutrašnje plovidbe (2001.) | [`odluka/2001/776/`](odluka/2001/776/) | in force | 1 | 2001-06-01 | 2001-06-01 |
+| Odluka o visini novčane naknade za nezaposlenu osobu | [`odluka/2001/778/`](odluka/2001/778/) | amended, not consolidated | 1 | 2001-05-25 | 2001-05-25 |
+| Odluka o osnivanju Savjeta za granice | [`odluka/2001/1015/`](odluka/2001/1015/) | amended, not consolidated | 1 | 2001-07-05 | 2001-07-05 |
+| Odluka o osnivanju Komisije za granice | [`odluka/2001/1016/`](odluka/2001/1016/) | amended, not consolidated | 1 | 2001-07-05 | 2001-07-05 |
+| Odluka o izmjeni Odluke o namjenama i uvjetima uz koje se mogu odobravati devizni krediti domaćim osobama | [`odluka/2001/1017/`](odluka/2001/1017/) | in force | 1 | 2001-07-11 | 2001-07-11 |
+| Odluka o izdavanju euroobveznica Republike Hrvatske u iznosu od EUR 250.000.000,00 | [`odluka/2001/1018/`](odluka/2001/1018/) | in force | 1 | 2001-07-05 | 2001-07-05 |
+| Odluka o puštanju u optjecaj novčanica od 20 kuna - izdanje 7. ožujka 2001. | [`odluka/2001/1019/`](odluka/2001/1019/) | in force | 1 | 2001-07-11 | 2001-07-11 |
+| Odluka o prikupljanju podataka o međunarodnim transakcijama povezanim s osiguranjem | [`odluka/2001/1020/`](odluka/2001/1020/) | repealed, not consolidated | 1 | 2001-07-19 | 2001-07-19 |
+| Odluka o prikupljanju podataka o međunarodnim transakcijama povezanim s komunikacijskim uslugama | [`odluka/2001/1021/`](odluka/2001/1021/) | replaced, not consolidated | 1 | 2001-07-19 | 2001-07-19 |
+| Odluka o osnivanju Veleposlanstva Republike Hrvatske u Irskoj, sa sjedištem u Dublinu | [`odluka/2001/1026/`](odluka/2001/1026/) | in force | 1 | 2001-07-05 | 2001-07-05 |
+| Odluka o utvrđivanju interesa Republike Hrvatske za eksploataciju mineralne sirovine, tehničkog građevnog kamena u eksploatacijskom polju "Busišta 2" | [`odluka/2001/1028/`](odluka/2001/1028/) | in force | 1 | 2001-07-13 | 2001-07-13 |
+| Odluka o dopunama Statuta Hrvatske gospodarske komore | [`odluka/2001/1059/`](odluka/2001/1059/) | amending act | 1 | 2001-07-10 | 2001-07-10 |
+| Odluka o izmjenama i dopunama Odluke o nagradama i naknadi troškova sucima i drugim osobama u postupku pred Sudom časti pri Hrvatskoj gospodarskoj komori | [`odluka/2001/1063/`](odluka/2001/1063/) | amending act | 1 | 2001-07-24 | 2001-07-24 |
+| Odluka o utvrđivanju Liste lijekova Hrvatskog zavoda za zdravstveno osiguranje | [`odluka/2001/1073/`](odluka/2001/1073/) | amended, not consolidated | 1 | 2001-07-26 | 2001-07-26 |
+| Odluka o izmjeni Odluke o sudjelovanju osiguranih osoba u pokriću dijela troškova zdravstvene zaštite | [`odluka/2001/1077/`](odluka/2001/1077/) | in force | 1 | 2001-07-26 | 2001-07-26 |
+| Odluka o načinu rada Hrvatskoga sabora na sjednici bez nazočnosti javnosti | [`odluka/2001/1085/`](odluka/2001/1085/) | cited later, not consolidated | 1 | 2001-07-13 | 2001-07-13 |
+| Odluka o osnivanju Međuresorske radne skupine za suradnju Republike Hrvatske s NATO-om i članicama programa "Partnerstvo za mir" | [`odluka/2001/1106/`](odluka/2001/1106/) | amended, not consolidated | 1 | 2001-07-19 | 2001-07-19 |
+| Odluka o izmjeni Odluke o davanju koncesija za trajno priređivanje igara na sreću u igračnicama prema članku 79. stavku 2. Zakona o igrama na sreću | [`odluka/2001/1107/`](odluka/2001/1107/) | in force | 1 | 2001-07-24 | 2001-07-24 |
+| Odluka o osnivanju Nacionalnog povjerenstva za zaštitu zračnog prometa | [`odluka/2001/1108/`](odluka/2001/1108/) | repealed, not consolidated | 1 | 2001-07-19 | 2001-07-19 |
+| Odluka o uvjetima i načinu otvaranja računa kod ovlaštenih organizacija | [`odluka/2001/1145/`](odluka/2001/1145/) | amended, not consolidated | 1 | 2001-07-27 | 2001-07-27 |
+| Odluka o sadržaju i načinu vođenja registra računa kod ovlaštenih organizacija | [`odluka/2001/1146/`](odluka/2001/1146/) | in force | 1 | 2001-07-27 | 2001-07-27 |
+| Odluka o izvršenju naloga za plaćanje iz sredstava na računima platitelja koji se vode u različitim ovlaštenim organizacijama | [`odluka/2001/1148/`](odluka/2001/1148/) | amended, not consolidated | 1 | 2001-08-04 | 2001-08-04 |
+| Odluka o davanju suglasnosti na Statut Hrvatskog geodetskog instituta | [`odluka/2001/1154/`](odluka/2001/1154/) | replaced, not consolidated | 1 | 2001-07-26 | 2001-07-26 |
+| Odluka o davanju suglasnosti na Pravilnik o unutarnjem ustrojstvu Hrvatskog geodetskog instituta | [`odluka/2001/1155/`](odluka/2001/1155/) | in force | 1 | 2001-07-26 | 2001-07-26 |
+| Odluka o odobrenju za sklapanje ugovora o izmjeni Ugovora o koncesiji za obavljanje javnih govornih usluga u nepokretnoj mreži | [`odluka/2001/1156/`](odluka/2001/1156/) | in force | 1 | 2001-07-26 | 2001-07-26 |
+| Odluka o raspisivanju izbora za Gradsko vijeće Grada Dubrovnika | [`odluka/2001/1157/`](odluka/2001/1157/) | in force | 1 | 2001-07-31 | 2001-07-31 |
+| Odluka o minimalnim financijskim standardima za investicijsko održavanje zdravstvenih ustanova u 2001. godini, za decentralizirane funkcije od 1. srpnja do 31. prosinca 2001. | [`odluka/2001/1282/`](odluka/2001/1282/) | amended, not consolidated | 1 | 2001-08-29 | 2001-08-29 |
+| Odluka o minimalnim financijskim standardima za tekuće izdatke centara za socijalnu skrb i izdataka pomoći za ogrjev u 2001. godini | [`odluka/2001/1283/`](odluka/2001/1283/) | in force | 1 | 2001-08-29 | 2001-08-29 |
+| Odluka o kriterijima i mjerilima za osiguravanje minimalnog financijskog standarda javnih potreba osnovnog školstva u 2001. godini | [`odluka/2001/1284/`](odluka/2001/1284/) | in force | 1 | 2001-08-29 | 2001-08-29 |
+| Odluka o kriterijima i mjerilima za osiguravanje minimalnog financijskog standarda javnih potreba srednjeg školstva u 2001. godini | [`odluka/2001/1285/`](odluka/2001/1285/) | in force | 1 | 2001-08-29 | 2001-08-29 |
+| Odluka o utvrđivanju interesa Republike Hrvatske za eksploataciju opekarske gline u eksploatacijskom polju "Vale - Novaki" u k.o. Cerovlje i k.o. Pazinske Novaki | [`odluka/2001/1302/`](odluka/2001/1302/) | in force | 1 | 2001-09-07 | 2001-09-07 |
+| Odluka o izmjeni i dopuni Odluke o osnivanju Posebnog računa za kreditiranje razvitka i obnove poljoprivrede | [`odluka/2001/1303/`](odluka/2001/1303/) | amending act | 1 | 2001-09-07 | 2001-09-07 |
+| Odluka o dodjeli koncesije za crpljenje termalne vode u svrhu športa i rekreacije društvu Feliks regulacija d.o.o. Slavonski Brod | [`odluka/2001/1304/`](odluka/2001/1304/) | in force | 1 | 2001-08-30 | 2001-08-30 |
+| Odluka Povjerenstva Vlade za upravljanje imovinom Republike Hrvatske | [`odluka/2001/1309/`](odluka/2001/1309/) | in force | 1 | 2001-08-03 | 2001-08-03 |
+| Odluka o visini pomoći za podmirenje troškova ogrjeva u 2001. godini | [`odluka/2001/1313/`](odluka/2001/1313/) | in force | 1 | 2001-09-15 | 2001-09-15 |
+| Odluka o izmjeni Odluke o kamatnim stopama i naknadama Hrvatske narodne banke | [`odluka/2001/1315/`](odluka/2001/1315/) | in force | 1 | 2001-09-15 | 2001-09-15 |
+| Odluka o izmjeni i dopuni Odluke o obveznoj pričuvi | [`odluka/2001/1316/`](odluka/2001/1316/) | amended, not consolidated | 1 | 2001-09-07 | 2001-09-07 |
+| Odluka o aktualnoj vrijednosti mirovine od 1. srpnja 2001. | [`odluka/2001/1319/`](odluka/2001/1319/) | in force | 1 | 2001-09-08 | 2001-09-08 |
+| Odluka o najnižoj mirovini za jednu godinu mirovinskog staža od 1. srpnja 2001. | [`odluka/2001/1320/`](odluka/2001/1320/) | in force | 1 | 2001-09-08 | 2001-09-08 |
+| Odluka o osnovici za određivanje naknade zbog tjelesnog oštećenja i o usklađivanju novčanih naknada zbog tjelesnog oštećenja od 1. srpnja 2001. | [`odluka/2001/1321/`](odluka/2001/1321/) | in force | 1 | 2001-09-08 | 2001-09-08 |
+| Odluka o dodjeli koncesije na vodama u svrhu uzgoja riba u zatvorenim vodama tvrtki Osilovac d.o.o. Feričanci | [`odluka/2001/1329/`](odluka/2001/1329/) | in force | 1 | 2001-09-06 | 2001-09-06 |
+| Odluka o dodjeli koncesije za zahvaćanje voda za potrebe javne vodoopskrbe tvrtki Vodovod - Osijek d.o.o. Osijek | [`odluka/2001/1330/`](odluka/2001/1330/) | in force | 1 | 2001-09-06 | 2001-09-06 |
+| Odluka o izmjeni Odluke o visini nadoknade za prostore koje koriste objekti za proizvodnju električne energije | [`odluka/2001/1356/`](odluka/2001/1356/) | in force | 1 | 2001-09-27 | 2001-09-27 |
+| Odluka o izmjeni Odluke o dodjeli koncesije za zahvaćanje voda za potrebe javne vodoopskrbe Komunalnom poduzeću "Komunalac" s.p.o., Ogulin | [`odluka/2001/1357/`](odluka/2001/1357/) | in force | 1 | 2001-09-13 | 2001-09-13 |
+| Odluka o izdavanju obveznica Republike Hrvatske uz plasman na domaćem tržištu kapitala u kunskoj protuvrijednosti iznosa od EUR 200.000.000,00 | [`odluka/2001/1358/`](odluka/2001/1358/) | replaced, not consolidated | 1 | 2001-09-13 | 2001-09-13 |
+| Odluka o raspisivanju izbora za Gradsko vijeće Grada Visa | [`odluka/2001/1360/`](odluka/2001/1360/) | in force | 1 | 2001-09-19 | 2001-09-19 |
+| Odluka o raspisivanju izbora za Općinsko vijeće Općine Primošten | [`odluka/2001/1362/`](odluka/2001/1362/) | in force | 1 | 2001-09-19 | 2001-09-19 |
+| Odluka o raspisivanju izbora za Općinsko vijeće Općine Polača | [`odluka/2001/1364/`](odluka/2001/1364/) | in force | 1 | 2001-09-19 | 2001-09-19 |
+| Odluka o raspisivanju izbora za Općinsko vijeće Općine Stupnik | [`odluka/2001/1366/`](odluka/2001/1366/) | in force | 1 | 2001-09-19 | 2001-09-19 |
+| Odluka o raspisivanju izbora za Općinsko vijeće Općine Jelsa | [`odluka/2001/1368/`](odluka/2001/1368/) | in force | 1 | 2001-09-19 | 2001-09-19 |
+| Odluka o davanju ovlaštenja Ministarstvu obrane Republike Hrvatske za prodaju stanova u Klani, Zatrep 13 i 21 i Klana 19 | [`odluka/2001/1375/`](odluka/2001/1375/) | amended, not consolidated | 1 | 2001-09-19 | 2001-09-19 |
+| Odluka o raspisivanju izbora za Općinsko vijeće Općine Konavle | [`odluka/2001/1420/`](odluka/2001/1420/) | in force | 1 | 2001-09-27 | 2001-09-27 |
+| Odluka o visini novčane naknade za nezaposlenu osobu | [`odluka/2001/1423/`](odluka/2001/1423/) | replaced, not consolidated | 1 | 2001-09-27 | 2001-09-27 |
+| Odluka o davanju suglasnosti na Odluku o izmjenama i dopunama Statuta Klinike za infektivne bolesti "Dr. Fran Mihaljević" | [`odluka/2001/1442/`](odluka/2001/1442/) | amending act | 1 | 2001-09-27 | 2001-09-27 |
+| Odluka o izmjeni i dopuni Odluke o obveznoj pričuvi | [`odluka/2001/1478/`](odluka/2001/1478/) | amended, not consolidated | 1 | 2001-10-18 | 2001-10-18 |
+| Odluka o izmjeni i dopuni Odluke o uvjetima uz koje se daje odobrenje da se potraživanje u inozemstvu naplati u efektivnom stranom novcu | [`odluka/2001/1479/`](odluka/2001/1479/) | amending act | 1 | 2001-10-10 | 2001-10-10 |
+| Odluka o prirezu poreza na dohodak | [`odluka/2001/1482/`](odluka/2001/1482/) | amended, not consolidated | 1 | 2001-10-18 | 2001-10-18 |
+| Odluka o općinskim porezima | [`odluka/2001/1483/`](odluka/2001/1483/) | repealed, not consolidated | 1 | 2001-10-18 | 2001-10-18 |
+| Odluka o davanju ovlaštenja ministra poljoprivrede i šumarstva za sklapanje određenih ugovora koji se odnose na šume i šumsko zemljište | [`odluka/2001/1511/`](odluka/2001/1511/) | in force | 1 | 2001-10-17 | 2001-10-17 |
+| Odluka o davanju koncesije za eksploataciju plina u proširenom eksploatacijskom polju plina "Molve" | [`odluka/2001/1512/`](odluka/2001/1512/) | amended, not consolidated | 1 | 2001-10-12 | 2001-10-12 |
+| Odluka o prirezu porezu na dohodak Općine Marčana | [`odluka/2001/1529/`](odluka/2001/1529/) | repealed, not consolidated | 1 | 2001-10-27 | 2001-10-27 |
+| Odluka o izmjeni Odluke o osnivanju Nacionalnog povjerenstva za provedbu Konvencije o zabrani razvijanja, proizvodnje, gomilanja i korištenja kemijskog oružja i njegovu uništenju | [`odluka/2001/1556/`](odluka/2001/1556/) | in force | 1 | 2001-10-18 | 2001-10-18 |
+| Odluka o davanju suglasnosti na odluke o izmjenama i dopunama Statuta Kliničke bolnice Split | [`odluka/2001/1557/`](odluka/2001/1557/) | amending act | 1 | 2001-10-18 | 2001-10-18 |
+| Odluka o plaćanju prireza porezu na dohodak Grada Kaštela | [`odluka/2001/1562/`](odluka/2001/1562/) | in force | 1 | 2001-10-31 | 2001-10-31 |
+| Odluka o prirezu poreza na dohodak Općine Donji Martijanec | [`odluka/2001/1563/`](odluka/2001/1563/) | amended, not consolidated | 1 | 2001-10-31 | 2001-10-31 |
+| Zakon o izmjenama i dopunama Zakona o referendumu i drugim oblicima osobnog sudjelovanja u obavljanju državne vlasti i lokalne samouprave | [`odluka/2001/1568/`](odluka/2001/1568/) | amending act | 1 | 2001-11-01 | 2001-11-01 |
+| Odluka o tehničkim pravilima Hrvatskog registra brodova - uređaj za rukovanje teretom i naprave za dizanje (2001.) | [`odluka/2001/1582/`](odluka/2001/1582/) | in force | 1 | 2001-11-01 | 2001-11-01 |
+| Odluka o izmjeni Odluke o prirezu na porez na dohodak Grada Splita | [`odluka/2001/1584/`](odluka/2001/1584/) | in force | 1 | 2001-11-03 | 2001-11-03 |
+| Odluka o Stručnoj službi Hrvatskoga sabora | [`odluka/2001/1591/`](odluka/2001/1591/) | repealed, not consolidated | 1 | 2001-10-26 | 2001-10-26 |
+| Odluka o davanju suglasnosti na Izmjene i dopune Financijskog plana za 2001. godinu Hrvatskog zavoda za mirovinsko osiguranje | [`odluka/2001/1604/`](odluka/2001/1604/) | amending act | 1 | 2001-11-02 | 2001-11-02 |
+| Odluka o davanju suglasnosti na Izmjene i dopune Financijskog plana za 2001. godinu Hrvatskog zavoda za zdravstveno osiguranje | [`odluka/2001/1605/`](odluka/2001/1605/) | amending act | 1 | 2001-11-02 | 2001-11-02 |
+| Odluka o davanju suglasnosti na Izmjene i dopune Financijskog plana za 2001. godinu Hrvatskog zavoda za zapošljavanje | [`odluka/2001/1606/`](odluka/2001/1606/) | amending act | 1 | 2001-11-02 | 2001-11-02 |
+| Odluka o davanju suglasnosti na Izmjene i dopune Financijskog plana za 2001. godinu sredstava doplatka za djecu | [`odluka/2001/1607/`](odluka/2001/1607/) | amending act | 1 | 2001-11-02 | 2001-11-02 |
+| Odluka o davanju suglasnosti na Izmjene i dopu-ne Financijskog plana za 2001. godinu Hrvatskih voda | [`odluka/2001/1608/`](odluka/2001/1608/) | in force | 1 | 2001-11-02 | 2001-11-02 |
+| Odluka o početnoj vrijednosti obračunske jedinice i datumu konverzije | [`odluka/2001/1618/`](odluka/2001/1618/) | amended, not consolidated | 1 | 2001-11-15 | 2001-11-15 |
+| Odluka o prirezu porezu na dohodak Općine Blato | [`odluka/2001/1620/`](odluka/2001/1620/) | in force | 1 | 2001-11-07 | 2001-11-07 |
+| Odluka o raspisivanju izbora za članove Gradskog vijeća Grada Orahovice | [`odluka/2001/1621/`](odluka/2001/1621/) | in force | 1 | 2001-11-08 | 2001-11-08 |
+| Odluka o izmjenama i dopunama Odluke o razvrstavanju javnih cesta u državne ceste, županijske ceste i lokalne ceste | [`odluka/2001/1640/`](odluka/2001/1640/) | amended, not consolidated | 1 | 2001-11-09 | 2001-11-09 |
+| Odluka o izmjeni i dopuni Odluke o utvrđivanju Liste lijekova Hrvatskog zavoda za zdravstveno osiguranje | [`odluka/2001/1642/`](odluka/2001/1642/) | amended, not consolidated | 1 | 2001-11-17 | 2001-11-17 |
+| Odluka o davanju suglasnosti na Dopune Statuta Javne ustanove Nacionalni park Krka | [`odluka/2001/1658/`](odluka/2001/1658/) | amending act | 1 | 2001-11-08 | 2001-11-08 |
+| Odluka o izmjeni Odluke o kamatnim stopama i naknadama Hrvatske narodne banke | [`odluka/2001/1669/`](odluka/2001/1669/) | in force | 1 | 2001-11-22 | 2001-11-22 |
+| Odluka o izmjeni Odluke o obveznoj pričuvi | [`odluka/2001/1670/`](odluka/2001/1670/) | amended, not consolidated | 1 | 2001-11-22 | 2001-11-22 |
+| Odluka o izmjenama i dopunama Odluke o minimalnim financijskim standardima za investicijsko održavanje zdravstvenih ustanova u 2001. godini, za decentralizirane funkcije od 1. srpnja do 31. prosinca 2 | [`odluka/2001/1676/`](odluka/2001/1676/) | amending act | 1 | 2001-11-16 | 2001-11-16 |
+| Odluka o raspisivanju izbora za članove Općinskog vijeća Općine Ražanac | [`odluka/2001/1704/`](odluka/2001/1704/) | in force | 1 | 2001-11-23 | 2001-11-23 |
+| Odluka o osnivanju Međuresorske radne skupine za praćenje nacionalne provedbe Rezolucije Vijeća sigurnosti Ujedinjenih naroda 1373(2001) o suzbijanju terorizma | [`odluka/2001/1717/`](odluka/2001/1717/) | repealed, not consolidated | 1 | 2001-11-22 | 2001-11-22 |
+| Odluka o izmjeni Odluke o rasporedu sredstava državnog proračuna za potporu Programa modernizacije, rekonstrukcije i građenja županijskih i lokalnih cesta u 2001. godini | [`odluka/2001/1727/`](odluka/2001/1727/) | in force | 1 | 2001-12-06 | 2001-12-06 |
+| Odluka o izmjeni Odluke o koncesiji pomorskog dobra u svrhu izgradnje i gospodarskog korištenja luke posebne namjene - luke nautičkog turizma Frapa | [`odluka/2001/1728/`](odluka/2001/1728/) | in force | 1 | 2001-11-22 | 2001-11-22 |
+| Odluka o uvođenju prireza poreza na dohodak u Gradu Nova Gradiška | [`odluka/2001/1738/`](odluka/2001/1738/) | repealed, not consolidated | 1 | 2001-12-06 | 2001-12-06 |
+| Odluka o općinskim porezima Općine Vojnić | [`odluka/2001/1739/`](odluka/2001/1739/) | repealed, not consolidated | 1 | 2001-12-06 | 2001-12-06 |
+| Odluka o načinu rješavanja neusklađenosti podzakonskih akata Hrvatske narodne banke i međunarodnih računovodstvenih standarda | [`odluka/2001/1779/`](odluka/2001/1779/) | cited later, not consolidated | 1 | 2001-12-05 | 2001-12-05 |
+| Odluka o gradskim porezima i o prirezu poreza na dohodak Grada Otočca | [`odluka/2001/1780/`](odluka/2001/1780/) | amended, not consolidated | 1 | 2001-12-13 | 2001-12-13 |
+| Odluka o općinskim porezima Općine Karojba | [`odluka/2001/1781/`](odluka/2001/1781/) | repealed, not consolidated | 1 | 2001-12-13 | 2001-12-13 |
+| Odluka o prirezu poreza na dohodak Općine Dragalić | [`odluka/2001/1782/`](odluka/2001/1782/) | in force | 1 | 2001-12-13 | 2001-12-13 |
+| Odluka o osnivanju Međuresorskog kontrolnog tijela za realizaciju Programa hrvatskog inovacijskog tehnologijskog razvitka | [`odluka/2001/1784/`](odluka/2001/1784/) | in force | 1 | 2001-12-06 | 2001-12-06 |
+| Odluka o porezima Grada Rijeke | [`odluka/2001/1789/`](odluka/2001/1789/) | repealed, not consolidated | 1 | 2001-12-15 | 2001-12-15 |
+| Odluka o porezima Grada Novog Marofa | [`odluka/2001/1791/`](odluka/2001/1791/) | amended, not consolidated | 1 | 2001-12-15 | 2001-12-15 |
+| Odluka o visini naknada za tehnički pregled i registraciju vozila i poslova koji su s tim povezani | [`odluka/2001/1810/`](odluka/2001/1810/) | amended, not consolidated | 1 | 2001-12-19 | 2001-12-19 |
+| Odluka o prirezu porezu na dohodak Općine Kneževi Vinogradi | [`odluka/2001/1811/`](odluka/2001/1811/) | in force | 1 | 2001-12-11 | 2001-12-11 |
+| Odluka o prirezu porezu na dohodak Općine Križ | [`odluka/2001/1813/`](odluka/2001/1813/) | repealed, not consolidated | 1 | 2001-12-19 | 2001-12-19 |
+| Odluka o kriterijima i mjerilima za osiguravanje minimalnog financijskog standarda javnih potreba osnovnog školstva u 2002. godini | [`odluka/2001/1824/`](odluka/2001/1824/) | amended, not consolidated | 1 | 2001-12-13 | 2001-12-13 |
+| Odluka o minimalnim financijskim standardima materijalnih rashoda centara za socijalnu skrb i pomoći za ogrjev u 2002. godini | [`odluka/2001/1825/`](odluka/2001/1825/) | in force | 1 | 2001-12-13 | 2001-12-13 |
+| Odluka o minimalnim financijskim standardima za decentralizirane funkcije za zdravstvene ustanove u 2002. godini | [`odluka/2001/1826/`](odluka/2001/1826/) | amended, not consolidated | 1 | 2001-12-13 | 2001-12-13 |
+| Odluka o minimalnim financijskim standardima za decentralizirano financiranje domova za starije i nemoćne osobe u 2002. godini | [`odluka/2001/1827/`](odluka/2001/1827/) | amended, not consolidated | 1 | 2001-12-13 | 2001-12-13 |
+| Odluka o kriterijima i mjerilima za osiguravanje minimalnog financijskog standarda javnih potreba srednjeg školstva u 2002. godini | [`odluka/2001/1828/`](odluka/2001/1828/) | amended, not consolidated | 1 | 2001-12-13 | 2001-12-13 |
+| Odluka o izmjeni Odluke o načinu obračuna, naplate i plaćanja kamata i naknada Hrvatske narodne banke | [`odluka/2001/1838/`](odluka/2001/1838/) | in force | 1 | 2001-12-22 | 2001-12-22 |
+| Odluka o porezima Općine Staro Petrovo Selo | [`odluka/2001/1844/`](odluka/2001/1844/) | repealed, not consolidated | 1 | 2001-12-22 | 2001-12-22 |
+| Odluka o prirezu porezu na dohodak Općine Cernik | [`odluka/2001/1849/`](odluka/2001/1849/) | in force | 1 | 2001-12-22 | 2001-12-22 |
+| Odluka o porezima Općine Rešetari | [`odluka/2001/1850/`](odluka/2001/1850/) | amended, not consolidated | 1 | 2001-12-22 | 2001-12-22 |
+| Odluka o izmjenama i dopunama Odluke o osnivanju Savjeta za granice | [`odluka/2001/1859/`](odluka/2001/1859/) | amending act | 1 | 2001-12-18 | 2001-12-18 |
+| Odluka o izdavanju obveznica Republike Hrvatske uz plasman na domaćem tržištu kapitala u kunskoj protuvrijednosti iznosa od EUR 200.000.000,00 | [`odluka/2001/1860/`](odluka/2001/1860/) | replaced, not consolidated | 1 | 2001-12-13 | 2001-12-13 |
+| Odluka o davanju koncesije za istraživanje nafte i plina u istražnom prostoru Sjeverni Jadran | [`odluka/2001/1861/`](odluka/2001/1861/) | amended, not consolidated | 1 | 2001-12-13 | 2001-12-13 |
+| Odluka o davanju koncesije za eksploataciju plina u eksploatacijskom polju plina Sječe | [`odluka/2001/1862/`](odluka/2001/1862/) | in force | 1 | 2001-12-13 | 2001-12-13 |
+| Odluka o izmjeni i dopuni Odluke o načinu dostave i sadržaju podataka koji se dostavljaju Međunarodnom monetarnom fondu | [`odluka/2001/1863/`](odluka/2001/1863/) | amending act | 1 | 2001-12-18 | 2001-12-18 |
+| Odluka o dopuni Odluke o ovlaštenju područnih ustrojstvenih jedinica Hrvatskog zavoda za mirovinsko osiguranje za rješavanje o pravima iz mirovinskog osiguranja primjenom međunarodnih ugovora | [`odluka/2001/1867/`](odluka/2001/1867/) | amending act | 1 | 2001-12-26 | 2001-12-26 |
+| Odluka o prirezu porezu na dohodak Općine Ližnjan | [`odluka/2001/1871/`](odluka/2001/1871/) | in force | 1 | 2001-12-26 | 2001-12-26 |
+| Odluka o visini osnovice za izračun plaće državnih službenika i namještenika i službenika i namještenika u javnim službama | [`odluka/2001/1897/`](odluka/2001/1897/) | in force | 1 | 2001-12-13 | 2001-12-13 |
+| Odluka o općinskim porezima Općine Donji Andrijevci | [`odluka/2001/1909/`](odluka/2001/1909/) | repealed, not consolidated | 1 | 2001-12-20 | 2001-12-20 |
+| Odluka o odobrenju produženja koncesije za istraživanje nafte i plina u istražnom prostoru Srednji Jadran | [`odluka/2001/1910/`](odluka/2001/1910/) | amended, not consolidated | 1 | 2001-12-13 | 2001-12-13 |
+| Odluka o odobrenju produženja koncesije za istraživanje nafte i plina u istražnom prostoru Južni Jadran | [`odluka/2001/1911/`](odluka/2001/1911/) | amended, not consolidated | 1 | 2001-12-13 | 2001-12-13 |
+| Odluka o izmjeni i dopunama Odluke o minimalnim financijskim standardima za decentralizirane funkcije za zdravstvene ustanove u 2002. godini | [`odluka/2001/1912/`](odluka/2001/1912/) | amending act | 1 | 2001-12-21 | 2001-12-21 |
+| Odluka o izmjeni i dopuni odluke o početnoj vrijednosti obračunske jedinice i datumu konverzije | [`odluka/2001/1922/`](odluka/2001/1922/) | amending act | 1 | 2001-12-29 | 2001-12-29 |
+| Odluka o gradskim porezima Grada Novi Vinodolskog | [`odluka/2001/1932/`](odluka/2001/1932/) | repealed, not consolidated | 1 | 2001-12-29 | 2001-12-29 |
+| Odluka o gradskim porezima Grada Ivanić Grada | [`odluka/2001/1933/`](odluka/2001/1933/) | in force | 1 | 2001-12-29 | 2001-12-29 |
+| Odluka o općinskim porezima Općine Popovača | [`odluka/2001/1938/`](odluka/2001/1938/) | repealed, not consolidated | 1 | 2001-12-29 | 2001-12-29 |
+| Odluka o prirezu poreza na dohodak Općine Tučepi | [`odluka/2001/1940/`](odluka/2001/1940/) | in force | 1 | 2001-12-21 | 2001-12-21 |
+| Odluka o prirezu poreza na dohodak Općine Fažana | [`odluka/2001/1942/`](odluka/2001/1942/) | repealed, not consolidated | 1 | 2001-12-29 | 2001-12-29 |
+| Odluka o davanju suglasnosti na Financijski plan za 2002. godinu Hrvatskog zavoda za mirovinsko osiguranje | [`odluka/2001/1946/`](odluka/2001/1946/) | in force | 1 | 2001-12-22 | 2001-12-22 |
+| Odluka o davanju suglasnosti na Financijski plan za 2002. godinu Hrvatskog zavoda za zdravstveno osiguranje | [`odluka/2001/1947/`](odluka/2001/1947/) | in force | 1 | 2001-12-22 | 2001-12-22 |
+| Odluka o davanju suglasnosti na Financijski plan za 2002. godinu Hrvatskog zavoda za zapošljavanje | [`odluka/2001/1948/`](odluka/2001/1948/) | in force | 1 | 2001-12-22 | 2001-12-22 |
+| Odluka o davanju suglasnosti na Financijski plan za 2002. godinu Hrvatskih voda | [`odluka/2001/1949/`](odluka/2001/1949/) | in force | 1 | 2001-12-22 | 2001-12-22 |
+| Odluka o izmjenama i dopunama Poslovnika Zastupničkog doma Hrvatskoga sabora | [`odluka/2001/1964/`](odluka/2001/1964/) | amending act | 1 | 2001-12-14 | 2001-12-14 |
+| Odluka o dodjeli pomoći gradovima i općinama za djelomično ublažavanje posljedica šteta od elementarnih nepogoda za razdoblje od travnja do studenoga 2001. godine | [`odluka/2001/1965/`](odluka/2001/1965/) | in force | 1 | 2001-12-25 | 2001-12-25 |
+| Odluka o izmjeni Odluke o utvrđivanju cijene Iskaznice zdravstveno osigurane osobe | [`odluka/2001/1992/`](odluka/2001/1992/) | in force | 1 | 2001-12-27 | 2001-12-27 |
+| Odluka o izmjeni i dopuni Odluke o utvrđivanju popisa dijagnostičkih i terapijskih postupaka u zdravstvenim djelatnostima - vremenski i kadrovski normativi | [`odluka/2001/1993/`](odluka/2001/1993/) | amended, not consolidated | 1 | 2001-12-27 | 2001-12-27 |
+| Odluka o raspisivanju izbora za Općinsko vijeće Općine Pribislavec | [`odluka/2001/2004/`](odluka/2001/2004/) | in force | 1 | 2001-12-28 | 2001-12-28 |
+| Odluka o raspisivanju izbora za članove Općinskog vijeća Općine Oriovac | [`odluka/2001/2005/`](odluka/2001/2005/) | in force | 1 | 2001-12-28 | 2001-12-28 |
+| Odluka o odgađanju početka primjene stopa carine iz Carinske tarife za 2002. godinu, koje se odnose na uvoz roba podrijetlom iz Kraljevine Norveške i Republike Island | [`odluka/2001/2006/`](odluka/2001/2006/) | in force | 1 | 2001-12-28 | 2001-12-28 |
+| Odluka o osnovnim obilježjima prigodnoga optjecajnoga kovanog novca od 25 kuna "10. obljetnica međunarodnog priznanja Republike Hrvatske 15. 1. 1992. - 15. 1. 2002." | [`odluka/2001/2018/`](odluka/2001/2018/) | in force | 1 | 2001-12-28 | 2001-12-28 |
+| Odluka o puštanju u optjecaj prigodnoga optjecajnoga kovanog novca od 25 kuna "10. obljetnica međunarodnog priznanja Republike Hrvatske 15. 1. 1992. - 15. 1. 2002." | [`odluka/2001/2019/`](odluka/2001/2019/) | in force | 1 | 2001-12-28 | 2001-12-28 |
+| Odluka o prirezu porezu na dohodak Općine Pokupsko | [`odluka/2001/2025/`](odluka/2001/2025/) | in force | 1 | 2002-01-05 | 2002-01-05 |
+| Odluka o općinskim porezima Općine Sveta Nedelja | [`odluka/2001/2027/`](odluka/2001/2027/) | repealed, not consolidated | 1 | 2002-01-05 | 2002-01-05 |
+| Odluka o gradskim porezima Grada Labina | [`odluka/2001/2028/`](odluka/2001/2028/) | repealed, not consolidated | 1 | 2002-01-05 | 2002-01-05 |
+| Odluka o prirezu porezu na dohodak Općine Medulin | [`odluka/2001/2033/`](odluka/2001/2033/) | repealed, not consolidated | 1 | 2002-01-05 | 2002-01-05 |
+| Odluka o prirezu na dohodak Općine Runovići | [`odluka/2001/2034/`](odluka/2001/2034/) | repealed, not consolidated | 1 | 2001-12-28 | 2001-12-28 |
+| Odluka o općinskim porezima Općine Vrpolje | [`odluka/2001/2036/`](odluka/2001/2036/) | in force | 1 | 2002-01-05 | 2002-01-05 |
+| Odluka o općinskim porezima Općine Brestovac | [`odluka/2001/2037/`](odluka/2001/2037/) | repealed, not consolidated | 1 | 2002-01-05 | 2002-01-05 |
+| Odluka o gradskim porezima Grada Slunja | [`odluka/2001/2039/`](odluka/2001/2039/) | repealed, not consolidated | 1 | 2002-01-05 | 2002-01-05 |
+| Odluka o općinskim porezima Općine Marija Gorica | [`odluka/2001/2040/`](odluka/2001/2040/) | repealed, not consolidated | 1 | 2002-01-05 | 2002-01-05 |
+| Odluka o općinskim porezima općine Oprisavci | [`odluka/2001/2041/`](odluka/2001/2041/) | amended, not consolidated | 1 | 2002-01-05 | 2002-01-05 |
+| Odluka o prirezu porezu na dohodak Grada Duge Rese | [`odluka/2001/2047/`](odluka/2001/2047/) | amended, not consolidated | 1 | 2001-11-22 | 2001-11-22 |
+| Odluka o izmjeni i dopuni Odluke o općinskim porezima Općine Bilje | [`odluka/2001/2048/`](odluka/2001/2048/) | repealed, not consolidated | 1 | 2002-01-05 | 2002-01-05 |
+| Odluka o prirezu porezu na dohodak Općine Milna | [`odluka/2001/2049/`](odluka/2001/2049/) | replaced, not consolidated | 1 | 2002-01-05 | 2002-01-05 |
+| Odluka o prirezu porezu na dohodak Općine Lumbarda | [`odluka/2001/2050/`](odluka/2001/2050/) | in force | 1 | 2002-01-05 | 2002-01-05 |
 | Odluka o visini i načinu korištenja naknade koju plaćaju davatelji univerzalnih poštanskih usluga iz prihoda ostvarenog u prethodnoj godini | [`odluka/2005/14/`](odluka/2005/14/) | in force | 1 | 2004-12-29 | 2004-12-29 |
 | Odluka o izmjeni Odluke o načinu naplate troškova zdravstvene zaštite koje osobno snosi stranac | [`odluka/2005/49/`](odluka/2005/49/) | in force | 1 | 2005-01-13 | 2005-01-13 |
 | Odluka o utvrđivanju Liste lijekova Hrvatskog zavoda za zdravstveno osiguranje | [`odluka/2005/73/`](odluka/2005/73/) | amended, not consolidated | 1 | 2005-01-11 | 2005-01-11 |
