@@ -1,6 +1,6 @@
 # Every act in this repository
 
-32654 acts, 33,080 versions. Each act lives in a folder named by its kind, year and identifier, `<kind>/<year>/<identifier>/` (acts published before that layout keep their own folder, listed in data/paths.json); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+32954 acts, 33,380 versions. Each act lives in a folder named by its kind, year and identifier, `<kind>/<year>/<identifier>/` (acts published before that layout keep their own folder, listed in data/paths.json); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## naputak (205, of which 29 amending acts)
 
@@ -15858,7 +15858,7 @@
 | Odluka o subvencioniranju dijela krajnje cijene isporučene toplinske energije za sve krajnje kupce osim za krajnje kupce koji koriste toplinsku energiju pretežito za poslovnu upotrebu | [`odluka/2026/1520/`](odluka/2026/1520/) | in force | 1 | 2026-11-07 | 2026-11-07 |
 | Odluka o raspisivanju izbora za članove Državnoodvjetničkog vijeće iz reda zamjenika državnih odvjetnika | [`odluka/2026/1523/`](odluka/2026/1523/) | in force | 1 | 2026-11-06 | 2026-11-06 |
 
-## pravilnik (10113, of which 2682 amending acts)
+## pravilnik (10227, of which 2686 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -15948,7 +15948,10 @@
 | Pravilnik o izmjeni Pravilnika o obliku i sadržaju porezne prijave | [`pravilnik/1992/2286/`](pravilnik/1992/2286/) | in force | 1 | 1992-12-21 | 1992-12-21 |
 | Pravilnik o izimjenma i dopunama Pravilnika o naičnu utvrđivanja vrijednosti i kvalitete stana te načinu i postupku utvriđivanja visine stanarine za pojedini stan | [`pravilnik/1992/2287/`](pravilnik/1992/2287/) | amending act | 1 | 1992-12-21 | 1992-12-21 |
 | Rješenje o izmjenama i dopunama Pravilnika o ostvarivanju socijalne zaštite | [`pravilnik/1993/51/`](pravilnik/1993/51/) | amending act | 1 | 1993-01-15 | 1993-01-15 |
+| Pravilnik o obrascu službene iskaznice inspektora | [`pravilnik/1993/72/`](pravilnik/1993/72/) | in force | 1 | 1993-01-20 | 1993-01-20 |
+| Pravilnik o čuvanju izbornog materijala za | [`pravilnik/1993/75/`](pravilnik/1993/75/) | in force | 1 | 1993-01-28 | 1993-01-28 |
 | Pravilnik o sastavu i načinu rada zdravstvene komisije za utvrđivanje sposobnosti radnika na poslovima ovlaštene službene osobe u Ministarstvu unutarnjih poslova i Ministarstvu pravosuđa i uprave | [`pravilnik/1993/87/`](pravilnik/1993/87/) | in force | 1 | 1993-01-31 | 1993-01-31 |
+| Pravilnik o programu i načinu provedbe osposobljavanja za držanje i nošenje i pravilnu uporabu vatrenog oružja | [`pravilnik/1993/89/`](pravilnik/1993/89/) | repealed, not consolidated | 1 | 1993-01-23 | 1993-01-23 |
 | Pravilnik o posebnim uvjetima što ih moraju ispunjavati poslovne prostorije za proizvodnju oružja, promet oružja i streljiva, popravljanje i prepravljanje oružja, vođenje civilnih strelišta, te zaštit | [`pravilnik/1993/90/`](pravilnik/1993/90/) | in force | 1 | 1993-01-23 | 1993-01-23 |
 | Pravilnik o tehničkim pregledima vozila | [`pravilnik/1993/112/`](pravilnik/1993/112/) | repealed, not consolidated | 1 | 1993-02-06 | 1993-02-06 |
 | Pravilnik o znacima što ih sudionicima u prometu na cestama daju ovlaštene osobe | [`pravilnik/1993/113/`](pravilnik/1993/113/) | amended, not consolidated | 1 | 1993-02-06 | 1993-02-06 |
@@ -15969,10 +15972,26 @@
 | Pravilnik o osposobljavanju vojnih osoba za vozače vozila na motorni pogon i načinu polaganja vozačkih ispita | [`pravilnik/1993/364/`](pravilnik/1993/364/) | in force | 1 | 1993-03-23 | 1993-03-23 |
 | Pravilnik o izmjenama i dopunama Pravilnika o registraciji vozila na motorni pogon i priključnih vozila | [`pravilnik/1993/366/`](pravilnik/1993/366/) | amending act | 1 | 1993-03-23 | 1993-03-23 |
 | Pravilnik o izmjeni Pravilnika o ortopedskim i drugim pomagalima | [`pravilnik/1993/450/`](pravilnik/1993/450/) | amended, not consolidated | 1 | 1993-04-01 | 1993-04-01 |
+| Pravilnik o utvrđivanju i rješavanju povreda državne granice | [`pravilnik/1993/475/`](pravilnik/1993/475/) | repealed, not consolidated | 1 | 1993-04-06 | 1993-04-06 |
+| Pravilnik o obliku i sadržaju putnog lista za domaćeg prijevoznika | [`pravilnik/1993/476/`](pravilnik/1993/476/) | repealed, not consolidated | 1 | 1993-04-14 | 1993-04-14 |
 | Pravilnik o izmjeni Pravilnika o ovlastima, dužnostima i sastavu liječničkih komisija | [`pravilnik/1993/554/`](pravilnik/1993/554/) | in force | 1 | 1993-04-22 | 1993-04-22 |
+| Pravilnik o diplomatskim i službenim putovnicama i vizama Republike Hrvatske | [`pravilnik/1993/587/`](pravilnik/1993/587/) | amended, not consolidated | 1 | 1993-04-25 | 1993-04-25 |
+| Pravilnik o visini, načinu i rokovima usklađivanja mirovina i drugih novčanih primanja iz mirovinskog i invalidskog osiguranja | [`pravilnik/1993/629/`](pravilnik/1993/629/) | replaced, not consolidated | 1 | 1993-05-04 | 1993-05-04 |
+| Pravilnik o visini, načinu i rokovima usklađivanja mirovina i drugih novčanih primanja iz mirovinskog i invalidskog osiguranja | [`pravilnik/1993/648/`](pravilnik/1993/648/) | replaced, not consolidated | 1 | 1993-05-04 | 1993-05-04 |
+| Pravilnik o načinu vođenja evidencije o dolascima na autobusni kolodvor i polascima s autobusnog kolodvora autobusa u linijskom i slobodnom cestovnom prometu | [`pravilnik/1993/681/`](pravilnik/1993/681/) | repealed, not consolidated | 1 | 1993-05-07 | 1993-05-07 |
+| Pravilnik o izradi daljinara i minimalnog voznog vremena | [`pravilnik/1993/682/`](pravilnik/1993/682/) | repealed, not consolidated | 1 | 1993-05-07 | 1993-05-07 |
+| Pravilnik o stručnoj spremi, obrascu iskaznice i oznaci inspektora cestovnog prometa i cesta | [`pravilnik/1993/683/`](pravilnik/1993/683/) | repealed, not consolidated | 1 | 1993-05-07 | 1993-05-07 |
+| Pravilnik o načinu i uvjetima prema kojima se može povratiti plaćeni porez na promet određenih proizvoda što ih strane fizičke osobe kupuju i iznose iz Republike Hrvatske | [`pravilnik/1993/695/`](pravilnik/1993/695/) | amended, not consolidated | 1 | 1993-05-01 | 1993-05-01 |
+| Pravilnik o odori i oznakama školskih prometnih jedinica i prometnih jedinica mladeži | [`pravilnik/1993/705/`](pravilnik/1993/705/) | repealed, not consolidated | 1 | 1993-05-12 | 1993-05-12 |
+| Pravilnik o programu i načinu osposobljavanja i djelovanju školskih prometnih jedinica i prometnih jedinica mladeži | [`pravilnik/1993/706/`](pravilnik/1993/706/) | amended, not consolidated | 1 | 1993-05-12 | 1993-05-12 |
+| Pravilnik o kontroli projekata | [`pravilnik/1993/912/`](pravilnik/1993/912/) | repealed, not consolidated | 1 | 1993-09-01 | 1993-09-01 |
+| Pravilnik o stručnoj spremi odnosno stručnoj osposobljenosti za obavljanje stručnih poslova u športu | [`pravilnik/1993/913/`](pravilnik/1993/913/) | repealed, not consolidated | 1 | 1993-05-29 | 1993-05-29 |
+| Pravilnik o službenoj iskaznici inspektora sigurnosti željezničkog prometa | [`pravilnik/1993/938/`](pravilnik/1993/938/) | replaced, not consolidated | 1 | 1993-06-01 | 1993-06-01 |
 | Pravilnik o izmjenama i dopunama Pravilnika o obliku, sadržaju i uporabi instrumenata platnog prometa | [`pravilnik/1993/939/`](pravilnik/1993/939/) | amending act | 1 | 1993-05-24 | 1993-05-24 |
 | Pravilnik o izmjenama Pravilnika o Stalnom izbranom sudištu pri Hrvatskoj gospodarskoj komori | [`pravilnik/1993/940/`](pravilnik/1993/940/) | in force | 1 | 1993-06-01 | 1993-06-01 |
+| Pravilnik o obavljanju privrednoga i športskoga morskoga ribolova te zaštiti riba i drugih morskih životinja na području Velebitskoga kanala | [`pravilnik/1993/950/`](pravilnik/1993/950/) | amended, not consolidated | 1 | 1993-06-03 | 1993-06-03 |
 | Pravilnik o načinu i postupku ostvarivanja regresa dijela kamate na korištena sredstva za prioritetne namjene u poljoprivredi | [`pravilnik/1993/977/`](pravilnik/1993/977/) | in force | 1 | 1993-05-28 | 1993-05-28 |
+| Pravilnik o posebnim uvjetima glede motornog vozila kojim se obavlja javni prijevoz i prijevoz za vlastite potrebe | [`pravilnik/1993/978/`](pravilnik/1993/978/) | amended, not consolidated | 1 | 1993-06-05 | 1993-06-05 |
 | Pravilnik o uvjetima kojima moraju udovoljavati objekti za smještaj životinja i skladišta za smještaj proizvoda životinjskog podrijetla i otpadne animalne tvari na graničnim prijelazima | [`pravilnik/1993/1009/`](pravilnik/1993/1009/) | in force | 1 | 1993-06-30 | 1993-06-30 |
 | Pravilnik o uvjetima kojima moraju udovoljavati kolodvori i pristaništa za utovar, pretovar i istovar pošiljki životinja | [`pravilnik/1993/1010/`](pravilnik/1993/1010/) | in force | 1 | 1993-06-30 | 1993-06-30 |
 | Pravilnik o davanju ovlaštenja za kontrolu projekata | [`pravilnik/1993/1034/`](pravilnik/1993/1034/) | repealed, not consolidated | 1 | 1993-06-11 | 1993-06-11 |
@@ -16013,51 +16032,146 @@
 | Pravilnik o posebnom stažu ostvarenom u domovinskom ratu | [`pravilnik/1993/2205/`](pravilnik/1993/2205/) | repealed, not consolidated | 1 | 1994-01-01 | 1994-01-01 |
 | Pravilnik o utvrđivanju zvanja učitelja i stručnih suradnika u osnovnim školama te postupku, načinu i uvjetima njihova stjecanja | [`pravilnik/1993/2206/`](pravilnik/1993/2206/) | in force | 1 | 1994-01-01 | 1994-01-01 |
 | Pravilnik o izmjeni Pravilnika o klasifikaciji,minimalnim uvjetima i kategorizaciji ugostiteljskih objekata | [`pravilnik/1993/2247/`](pravilnik/1993/2247/) | in force | 1 | 1993-12-30 | 1993-12-30 |
+| Pravilnik o stručnim kriterijima za obavljanje djelatnosti ostvarivanja autorskih prava i prava umjetnika izvođača | [`pravilnik/1994/4/`](pravilnik/1994/4/) | repealed, not consolidated | 1 | 1994-01-15 | 1994-01-15 |
 | Pravilnik o Državnoj nagradi tehničke kulture Faust Vrančić | [`pravilnik/1994/5/`](pravilnik/1994/5/) | in force | 1 | 1994-01-07 | 1994-01-07 |
+| Pravilnik o početnom godišnjem iznosu naknade za koncesiju poljoprivrednog zemljišta u vlasništvu države | [`pravilnik/1994/26/`](pravilnik/1994/26/) | repealed, not consolidated | 1 | 1994-01-20 | 1994-01-20 |
 | Pravilnik o izmjenama i dopunama Pravilnika o izvršavanju vojne obveze i civilne službe | [`pravilnik/1994/73/`](pravilnik/1994/73/) | amending act | 1 | 1994-01-22 | 1994-01-22 |
+| Pravilnik o načinu i postupku za ostvarivanje premije za određene proizvode u poljoprivredi | [`pravilnik/1994/76/`](pravilnik/1994/76/) | repealed, not consolidated | 1 | 1994-01-14 | 1994-01-14 |
+| Pravilnik o uvjetima i načinu ostvarivanja prava na zdravstvenu zaštitu | [`pravilnik/1994/86/`](pravilnik/1994/86/) | amended, not consolidated | 1 | 1994-01-27 | 1994-01-27 |
+| Pravilnik o izdavanju, raspačavanju, povlačenju iz upotrebe i zamjeni upravnih biljega Republike Hrvatske | [`pravilnik/1994/99/`](pravilnik/1994/99/) | amended, not consolidated | 1 | 1994-01-29 | 1994-01-29 |
+| Pravilnik o utvrđivanju mreže i kriterija o dovoljnom broju stanica za tehnički pregled vozila | [`pravilnik/1994/101/`](pravilnik/1994/101/) | replaced, not consolidated | 1 | 1993-12-08 | 1993-12-08 |
 | Pravilnik o izmjeni Pravilnika o izdavanju licence za obavljanje međunarodnog cestovnog prijevoza | [`pravilnik/1994/115/`](pravilnik/1994/115/) | in force | 1 | 1994-02-01 | 1994-02-01 |
+| Pravilnik o visini i načinu plaćanja naknade za pokrivanje troškova nadzora i utvrđivanja zdravstvene ispravnosti namirnica i predmeta opće uporabe koji se uvoze u Republiku Hrvatsku | [`pravilnik/1994/116/`](pravilnik/1994/116/) | repealed, not consolidated | 1 | 1994-02-09 | 1994-02-09 |
+| Pravilnik o polaganju stručnih ispita za djelatnike međunarodnog otpremništva u svezi carinjenja robe | [`pravilnik/1994/165/`](pravilnik/1994/165/) | amended, not consolidated | 1 | 1994-02-18 | 1994-02-18 |
 | Pravilnik o izmjeni i dopuni Pravilnika o standardima i normativima obveznog zdravstvenog osiguranja za 1994. godinu | [`pravilnik/1994/167/`](pravilnik/1994/167/) | amending act | 1 | 1994-02-10 | 1994-02-10 |
 | Pravilnik o vježbaonicama u srednjim školama | [`pravilnik/1994/218/`](pravilnik/1994/218/) | in force | 1 | 1994-02-25 | 1994-02-25 |
 | Pravilnik o izmjeni Pravilnika o visini naknade za obvezne veterinarsko-sanitarne preglede i kontrole | [`pravilnik/1994/219/`](pravilnik/1994/219/) | in force | 1 | 1994-02-25 | 1994-02-25 |
+| Pravilnik o izmjeni Pravilnika o obaveznome zdravstvenom pregledu usjeva i objekata, sjemena i sadnog materijala poljoprivrednog i šumskog bilja | [`pravilnik/1994/220/`](pravilnik/1994/220/) | in force | 1 | 1994-02-17 | 1994-02-17 |
 | Pravilnik o izmjeni Pravilnika o novčanim naknadama vojnika i kadeta škola pričuvnih časnika za vrijeme služenja vojnog roka | [`pravilnik/1994/250/`](pravilnik/1994/250/) | in force | 1 | 1994-02-25 | 1994-02-25 |
+| Pravilnik o uvjetima i trajanju karantene za uvezene životinje | [`pravilnik/1994/252/`](pravilnik/1994/252/) | repealed, not consolidated | 1 | 1994-03-05 | 1994-03-05 |
 | Pravilnik o izmjeni Pravilnika o uređajima i opremi koja se mora ugraditi u zrakoplov, ovisno o kategoriji i namjeni zrakoplova | [`pravilnik/1994/283/`](pravilnik/1994/283/) | in force | 1 | 1994-03-09 | 1994-03-09 |
 | Pravilnik o izmjeni i dopuni Pravilnika o ustrojavanju i vođenju knjige položenih ugovora | [`pravilnik/1994/307/`](pravilnik/1994/307/) | amending act | 1 | 1994-03-04 | 1994-03-04 |
+| Pravilnik o stručnim ispitima u srednjem školstvu | [`pravilnik/1994/308/`](pravilnik/1994/308/) | cited later, not consolidated | 1 | 1994-03-12 | 1994-03-12 |
+| Pravilnik o načinu organiziranja nastave u obrtničkim školama i praktične nastave u drugim strukovnim školama | [`pravilnik/1994/324/`](pravilnik/1994/324/) | repealed, not consolidated | 1 | 1994-03-17 | 1994-03-17 |
 | Pravilnik o utvrđivanju uvjeta i načina pod kojima građani mogu prenijeti svoju deviznu štednju s organizacijske jedinice banke čije je sjedište izvan Republike Hrvatske na banke u Republici Hrvatskoj | [`pravilnik/1994/339/`](pravilnik/1994/339/) | in force | 1 | 1994-03-11 | 1994-03-11 |
 | Pravilnik o obračunavanju, plaćanju i povratu poreza na promet pri izvozu i provozu određenih proizvoda u zemlje za koje je potreban pojačani carinski nadzor | [`pravilnik/1994/340/`](pravilnik/1994/340/) | in force | 1 | 1994-03-11 | 1994-03-11 |
+| Pravilnik o knjigovodstvu i računskom planu neprofitnih organizacija | [`pravilnik/1994/351/`](pravilnik/1994/351/) | amended, not consolidated | 1 | 1994-03-18 | 1994-03-18 |
+| Pravilnik o kriterijima za primanje na pripravnički staž zdravstvenih djelatnika | [`pravilnik/1994/386/`](pravilnik/1994/386/) | amended, not consolidated | 1 | 1994-03-31 | 1994-03-31 |
+| Pravilnik o uvjetima kojima moraju udovoljavati zdravstvene ustanove koje provode zdravstveni odgoj osoba koje rade u proizvodnji ili prometu namirnica | [`pravilnik/1994/403/`](pravilnik/1994/403/) | repealed, not consolidated | 1 | 1994-04-02 | 1994-04-02 |
+| Pravilnik o uvjetima kojima moraju udovoljavati zdravstvene ustanove koje obavljaju imunizaciju protiv žute groznice i bjesnoće | [`pravilnik/1994/405/`](pravilnik/1994/405/) | in force | 1 | 1994-04-02 | 1994-04-02 |
+| Pravilnik o načinu stjecanja osnovnog znanja o zdravstvenoj ispravnosti namirnica i osobnoj higijeni osoba koje rade u proizvodnji i prometu namirnica | [`pravilnik/1994/408/`](pravilnik/1994/408/) | repealed, not consolidated | 1 | 1994-04-02 | 1994-04-02 |
 | Pravilnik o načinu vođenja evidencije o izvršenim laboratorijskim ispitivanjima | [`pravilnik/1994/411/`](pravilnik/1994/411/) | in force | 1 | 1994-04-02 | 1994-04-02 |
+| Pravilnik o izmjeni Pravilnika o ortopedskim i drugim pomagalima | [`pravilnik/1994/452/`](pravilnik/1994/452/) | amended, not consolidated | 1 | 1994-04-11 | 1994-04-11 |
 | Pravilnik o visini naknade odvjetniku za obranu po službenoj dužnosti | [`pravilnik/1994/505/`](pravilnik/1994/505/) | in force | 1 | 1994-04-08 | 1994-04-08 |
+| Pravilnik o polaganju mature i završnog ispita | [`pravilnik/1994/518/`](pravilnik/1994/518/) | amended, not consolidated | 1 | 1994-04-19 | 1994-04-19 |
 | Pravilnik o uvjetima za obavljanje djelatnosti tehničke kulture | [`pravilnik/1994/579/`](pravilnik/1994/579/) | in force | 1 | 1994-04-28 | 1994-04-28 |
 | Pravilnik o početku i završetku nastave i trajanju odmora učenika srednjih škola u 1994/95. školskoj godini | [`pravilnik/1994/580/`](pravilnik/1994/580/) | in force | 1 | 1994-04-28 | 1994-04-28 |
+| Pravilnik o uvjetima i načinu obavljanja mjera za sprečavanje i suzbijanje bolničkih infekcija | [`pravilnik/1994/583/`](pravilnik/1994/583/) | repealed, not consolidated | 1 | 1994-04-28 | 1994-04-28 |
+| Pravilnik o stručnoj spremi i pedagoško-psihološkom obrazovanju nastavnika u srednjem školstvu | [`pravilnik/1994/592/`](pravilnik/1994/592/) | repealed, not consolidated | 1 | 1994-04-30 | 1994-04-30 |
+| Pravilnik o načinu i uvjetima za obavljanje sigurnog tijeka željezničkog prometa | [`pravilnik/1994/593/`](pravilnik/1994/593/) | repealed, not consolidated | 1 | 1994-04-30 | 1994-04-30 |
+| Pravilnik o poslovima na kojima djelatnici neposredno sudjeluju u obavljanju željezničkog prometa | [`pravilnik/1994/596/`](pravilnik/1994/596/) | repealed, not consolidated | 1 | 1994-04-30 | 1994-04-30 |
+| Pravilnik o specijalističkom usavršavanju zdravstvenih djelatnika | [`pravilnik/1994/597/`](pravilnik/1994/597/) | amended, not consolidated | 1 | 1994-05-03 | 1994-05-03 |
+| Pravilnik o izmjeni Pravilnika o klasifikaciji, minimalnim uvjetima i kategorizaciji ugostiteljskih objekata | [`pravilnik/1994/604/`](pravilnik/1994/604/) | in force | 1 | 1994-04-29 | 1994-04-29 |
+| Pravilnik o građevinama za koje nije potrebno ishoditi posebne uvjete građenja glede zaštite od požara | [`pravilnik/1994/630/`](pravilnik/1994/630/) | repealed, not consolidated | 1 | 1994-05-12 | 1994-05-12 |
+| Pravilnik o programu i načinu polaganja stručnog ispita za obavljanje poslova održavanja vatrogasnih aparata | [`pravilnik/1994/631/`](pravilnik/1994/631/) | repealed, not consolidated | 1 | 1994-05-12 | 1994-05-12 |
+| Pravilnik o programu i načinu polaganja stručnog ispita za obavljanje poslova ispitivanja sustava za dojavu i gašenje požara | [`pravilnik/1994/632/`](pravilnik/1994/632/) | amended, not consolidated | 1 | 1994-05-12 | 1994-05-12 |
 | Pravilnik o stručnom ispitu za zdravstvenog inspektora | [`pravilnik/1994/635/`](pravilnik/1994/635/) | in force | 1 | 1994-05-12 | 1994-05-12 |
+| Pravilnik o uvjetima i načinu provođenja dopunskog zdravstvenog osiguranja | [`pravilnik/1994/651/`](pravilnik/1994/651/) | amending act | 1 | 1994-05-14 | 1994-05-14 |
 | Pravilnik o uvjetima i načinu provođenja privatnog zdravstvenog osiguranja | [`pravilnik/1994/652/`](pravilnik/1994/652/) | in force | 1 | 1994-05-14 | 1994-05-14 |
+| Pravilnik o javnobilježničkim uredima | [`pravilnik/1994/694/`](pravilnik/1994/694/) | repealed, not consolidated | 1 | 1994-05-24 | 1994-05-24 |
+| Pravilnik o radnom vremenu javnih bilježnika | [`pravilnik/1994/695/`](pravilnik/1994/695/) | repealed, not consolidated | 1 | 1994-05-24 | 1994-05-24 |
+| Pravilnik o privremenoj javnobilježničkoj tarifi | [`pravilnik/1994/696/`](pravilnik/1994/696/) | amended, not consolidated | 1 | 1994-05-24 | 1994-05-24 |
+| Pravilnik o javnobilježničkim protestnim upisnicima | [`pravilnik/1994/697/`](pravilnik/1994/697/) | amended, not consolidated | 1 | 1994-05-24 | 1994-05-24 |
+| Pravilnik o stručnim ispitima u području zaštite od požara | [`pravilnik/1994/733/`](pravilnik/1994/733/) | repealed, not consolidated | 1 | 1994-05-31 | 1994-05-31 |
 | Pravilnik o načinu obavljanja nadzora nad stručnošću rada u djelatnosti zdravstva | [`pravilnik/1994/735/`](pravilnik/1994/735/) | in force | 1 | 1994-05-31 | 1994-05-31 |
+| Pravilnik o podnošenju isprava u carinskom postupku | [`pravilnik/1994/740/`](pravilnik/1994/740/) | amended, not consolidated | 1 | 1994-06-10 | 1994-06-10 |
 | Pravilnik o kalendaru rada osnovnih škola za 1994/85. školsku godinu | [`pravilnik/1994/750/`](pravilnik/1994/750/) | in force | 1 | 1994-06-04 | 1994-06-04 |
+| Pravilnik o izmjeni i dopuni Pravilnika o diplomatskim i službenim putovnicama i vizama Republike Hrvatske | [`pravilnik/1994/773/`](pravilnik/1994/773/) | amending act | 1 | 1994-05-31 | 1994-05-31 |
 | Pravilnik o izmjenama i dopunama Pravilnika o izdavanju, raspačavanju, povlačenju iz upotrebe i zamjeni upravnih biljega Republike Hrvatske | [`pravilnik/1994/783/`](pravilnik/1994/783/) | amending act | 1 | 1994-06-03 | 1994-06-03 |
+| Pravilnik o obrascima i načinu vođenja Upisnika turističkih zajednica | [`pravilnik/1994/800/`](pravilnik/1994/800/) | repealed, not consolidated | 1 | 1994-06-18 | 1994-06-18 |
+| Pravilnik o posebnim uvjetima koje moraju ispunjavati zaposleni u turističkom uredu turističke zajednice općine, grada, županije i Glavnom uredu Hrvatske turističke zajednice | [`pravilnik/1994/801/`](pravilnik/1994/801/) | amended, not consolidated | 1 | 1994-06-18 | 1994-06-18 |
+| Pravilnik o postupku prijave i odjave turista i načinu vođenja popisa turis | [`pravilnik/1994/802/`](pravilnik/1994/802/) | in force | 1 | 1994-06-18 | 1994-06-18 |
+| Pravilnik o količinama pesticida, toksina, mikotoksina, metala i histamina i sličnih tvari koje se mogu nalaziti u namirnicama, te o drugim uvjetima u pogledu zdravstvene ispravnosti namirnica i pred | [`pravilnik/1994/807/`](pravilnik/1994/807/) | in force | 1 | 1994-06-18 | 1994-06-18 |
+| Pravilnik o uvjetima konzerviranja namirnica i predmeta opće uporabe ionizirajućim zračenjem | [`pravilnik/1994/808/`](pravilnik/1994/808/) | repealed, not consolidated | 1 | 1994-06-18 | 1994-06-18 |
+| Pravilnik o posebnoj radnoj odjeći i obući osoba koje na svojim radnim mjestima u proizvodnji ili prometu dolaze u neposredan dodir s namirnicama, sredstvima za održavanje osobne higijene, njegu i ulj | [`pravilnik/1994/813/`](pravilnik/1994/813/) | repealed, not consolidated | 1 | 1994-06-18 | 1994-06-18 |
 | Pravilnik o dopunama Pravilnika o načinu obavljanja zdravstvenih pregleda osoba koje su kliconoše ili se sumnja da su kliconoše odredenih zaraznih bolesti | [`pravilnik/1994/823/`](pravilnik/1994/823/) | amending act | 1 | 1994-06-16 | 1994-06-16 |
+| Pravilnik o obrascima i načinu izdavanja izvadaka iz državnih matica namijenjenih inozemstvu | [`pravilnik/1994/838/`](pravilnik/1994/838/) | cited later, not consolidated | 1 | 1994-06-28 | 1994-06-28 |
+| Pravilnik o radu zdravstvenih djelatnika izvan punog radnog vremena | [`pravilnik/1994/839/`](pravilnik/1994/839/) | repealed, not consolidated | 1 | 1994-06-28 | 1994-06-28 |
+| Pravilnik o iskaznici inspektora rada | [`pravilnik/1994/895/`](pravilnik/1994/895/) | repealed, not consolidated | 1 | 1994-07-08 | 1994-07-08 |
+| Pravilnik o uređivanju šuma | [`pravilnik/1994/948/`](pravilnik/1994/948/) | repealed, not consolidated | 1 | 1994-07-15 | 1994-07-15 |
 | Pravilnik o izmjeni Pravilnika o broju i sastavu članova posade zrakoplova | [`pravilnik/1994/949/`](pravilnik/1994/949/) | in force | 1 | 1994-07-07 | 1994-07-07 |
 | Pravilnik o izmjeni i dopuni Pravilnika o radu zdravstvenih djelatnika izvan punog radnog vremena | [`pravilnik/1994/990/`](pravilnik/1994/990/) | amending act | 1 | 1994-07-15 | 1994-07-15 |
+| Pravilnik o naknadi za uporabu radijskih frekvencija i načinu plaćanja | [`pravilnik/1994/1026/`](pravilnik/1994/1026/) | replaced, not consolidated | 1 | 1994-07-30 | 1994-07-30 |
 | Pravilnik o službenim odorama djelatnika carinske službe RepubIike Hrvatske | [`pravilnik/1994/1031/`](pravilnik/1994/1031/) | in force | 1 | 1994-07-30 | 1994-07-30 |
 | Pravilnik o izmjeni i dopuni Pravilnika o izdavanju licence za obavljanje međunarodnog cestovnog prijevoza | [`pravilnik/1994/1051/`](pravilnik/1994/1051/) | amending act | 1 | 1994-07-29 | 1994-07-29 |
+| Pravilnik o načinu prijavljivanja i odjavljivanja osigurane osobe, te utvrđivanju statusa osigurane osobe iz obveznog zdravstvenog osiguranja | [`pravilnik/1994/1055/`](pravilnik/1994/1055/) | repealed, not consolidated | 1 | 1994-08-06 | 1994-08-06 |
+| Pravilnik o uvjetima i načinu korištenja prava na pomoć za opremu novorođenog djeteta | [`pravilnik/1994/1064/`](pravilnik/1994/1064/) | cited later, not consolidated | 1 | 1994-08-09 | 1994-08-09 |
+| Pravilnik o obračunavanju i plaćanju posebnog poreza na naftne derivate, iskazivanju i dostavljanju izvješća te oslobađanju od plaćanja posebnog poreza | [`pravilnik/1994/1069/`](pravilnik/1994/1069/) | amended, not consolidated | 1 | 1994-08-05 | 1994-08-05 |
+| Pravilnik o obračunavanju i plaćanju posebnog poreza na bezalkoholna pića, iskazivanju i dostavljanju izvješća te oslobađanju od plaćanja posebnog poreza | [`pravilnik/1994/1070/`](pravilnik/1994/1070/) | amended, not consolidated | 1 | 1994-08-05 | 1994-08-05 |
+| Pravilnik o primjeni Zakona o posebnom porezu na alkohol | [`pravilnik/1994/1071/`](pravilnik/1994/1071/) | amended, not consolidated | 1 | 1994-08-05 | 1994-08-05 |
+| Pravilnik o primjeni Zakona o posebnom porezu na pivo | [`pravilnik/1994/1072/`](pravilnik/1994/1072/) | amended, not consolidated | 1 | 1994-08-05 | 1994-08-05 |
+| Pravilnik o tiskanju i rukovanju nadzornim markicama za obilježavanje duhanskih prerađevina | [`pravilnik/1994/1073/`](pravilnik/1994/1073/) | amended, not consolidated | 1 | 1994-08-05 | 1994-08-05 |
+| Pravilnik o obliku, sadržaju i uporabi obrazaca platnog prometa | [`pravilnik/1994/1078/`](pravilnik/1994/1078/) | amended, not consolidated | 1 | 1994-08-05 | 1994-08-05 |
 | Pravilnik o kriterijima i rokovima za utvrđivanje programa i osiguravanje sredstava za financiranje javnih potreba Republike Hrvatske u tehničkoj kulturi | [`pravilnik/1994/1089/`](pravilnik/1994/1089/) | in force | 1 | 1994-08-18 | 1994-08-18 |
+| Pravilnik o statusu, ustrojstvu i financiranju Dubrovačkog ljetnog festivala | [`pravilnik/1994/1090/`](pravilnik/1994/1090/) | repealed, not consolidated | 1 | 1994-08-18 | 1994-08-18 |
+| Pravilnik o statusu, ustrojstvu i financiranju Varaždinskih baroknih večeri | [`pravilnik/1994/1091/`](pravilnik/1994/1091/) | repealed, not consolidated | 1 | 1994-08-18 | 1994-08-18 |
+| Pravilnik o statusu, ustrojstvu i financiranju Osorskih glazbenih večeri | [`pravilnik/1994/1092/`](pravilnik/1994/1092/) | repealed, not consolidated | 1 | 1994-08-18 | 1994-08-18 |
+| Pravilnik o statusu, ustrojstvu i financiranju Splitskog ljeta | [`pravilnik/1994/1093/`](pravilnik/1994/1093/) | repealed, not consolidated | 1 | 1994-08-18 | 1994-08-18 |
+| Pravilnik o osnovama organiziranosti vatrogasnih postrojbi na teritoriju Republike Hrvatske | [`pravilnik/1994/1101/`](pravilnik/1994/1101/) | cited later, not consolidated | 1 | 1994-08-27 | 1994-08-27 |
+| Pravilnik o zaštitnoj i drugoj osobnoj opremi pripadnika vatrogasnih postrojbi | [`pravilnik/1994/1102/`](pravilnik/1994/1102/) | repealed, not consolidated | 1 | 1994-08-27 | 1994-08-27 |
 | Pravilnik o programu i načinu osposobljavanja pučanstva za provedbu preventivnih mjera zaštite od požara, gašenje požara i spašavanje ljudi i imovine ugroženih požarom | [`pravilnik/1994/1103/`](pravilnik/1994/1103/) | in force | 1 | 1994-08-27 | 1994-08-27 |
+| Pravilnik o programu i načinu provedbe teorijske nastave I praktičnih vježbi u vatrogasnim postrojbama | [`pravilnik/1994/1104/`](pravilnik/1994/1104/) | amended, not consolidated | 1 | 1994-08-27 | 1994-08-27 |
+| Pravilnik o programu osposobljavanja i usavršavanja vatrogasnih kadrova | [`pravilnik/1994/1105/`](pravilnik/1994/1105/) | cited later, not consolidated | 1 | 1994-08-27 | 1994-08-27 |
+| Pravilnik o postupku za ostvarivanje prava na korištenje povlastica u unutarnjem putničkom prometu | [`pravilnik/1994/1106/`](pravilnik/1994/1106/) | replaced, not consolidated | 1 | 1994-08-27 | 1994-08-27 |
+| Pravilnik o načinu i postupku za ostvarivanje novčanih poticaja u poljoprivredi | [`pravilnik/1994/1107/`](pravilnik/1994/1107/) | repealed, not consolidated | 1 | 1994-08-19 | 1994-08-19 |
+| Pravilnik o načinu i postupku ostvarivanja naknade za kvalitetno poljoprivredno sjeme, NPK mineralna gnojiva i konzerve sardina | [`pravilnik/1994/1108/`](pravilnik/1994/1108/) | repealed, not consolidated | 1 | 1994-08-19 | 1994-08-19 |
+| Pravilnik o načinu izrade plana zaštite divljači na površinama zemljišta izvan lovišta | [`pravilnik/1994/1109/`](pravilnik/1994/1109/) | cited later, not consolidated | 1 | 1994-08-27 | 1994-08-27 |
+| Pravilnik o lovostaji | [`pravilnik/1994/1110/`](pravilnik/1994/1110/) | repealed, not consolidated | 1 | 1994-08-27 | 1994-08-27 |
+| Pravilnik o građevinskim i instalacijskim materijalima koji se mogu nabavljati iz sredstava odobrenoga kredita za obnovu | [`pravilnik/1994/1113/`](pravilnik/1994/1113/) | amended, not consolidated | 1 | 1994-08-25 | 1994-08-25 |
+| Pravilnik o razvrstavanju građevina, građevinskih dijelova i prostora u kategorije ugroženosti od požara | [`pravilnik/1994/1114/`](pravilnik/1994/1114/) | amended, not consolidated | 1 | 1994-09-02 | 1994-09-02 |
+| Pravilnik o izmjeni Pravilnika o klasifikaciji, minimalnim uvjetima i kategorizaciji ugostiteljskih objekata | [`pravilnik/1994/1115/`](pravilnik/1994/1115/) | in force | 1 | 1994-08-25 | 1994-08-25 |
+| Pravilnik o stručnoj izobrazbi pripadnika pravosudne policije | [`pravilnik/1994/1133/`](pravilnik/1994/1133/) | repealed, not consolidated | 1 | 1994-09-10 | 1994-09-10 |
+| Pravilnik o boji, oznakama i opremi vozila za potrebe sustava izvršenja sankcija | [`pravilnik/1994/1134/`](pravilnik/1994/1134/) | cited later, not consolidated | 1 | 1994-09-10 | 1994-09-10 |
 | Pravilnik o izmjenama i dopunama Pravilnika o obrascima službenih iskaznica ovlaštenih službenih osoba Ministarstva pravosuđa i uprave | [`pravilnik/1994/1135/`](pravilnik/1994/1135/) | amending act | 1 | 1994-09-10 | 1994-09-10 |
 | Pravilnik o međusobnim odnosima vatrogasnih postrojbi u vatrogasnim intervencijama | [`pravilnik/1994/1155/`](pravilnik/1994/1155/) | in force | 1 | 1994-09-16 | 1994-09-16 |
+| Pravilnik o načinu ostvarivanja prava na besplatne obvezatne udžbenike i udžbenike uz popust | [`pravilnik/1994/1157/`](pravilnik/1994/1157/) | repealed, not consolidated | 1 | 1994-09-08 | 1994-09-08 |
 | Pravilnik o izmjenama i dopunama Pravilnika o stručnoj spremi, ispitima i dozvolama za rad članova posade zrakoplova | [`pravilnik/1994/1158/`](pravilnik/1994/1158/) | amending act | 1 | 1994-09-16 | 1994-09-16 |
+| Pravilnik o uvjetima koje moraju ispunjavati klinike, kliničke bolnice i klinički bolnički centri za dodjelu naziva klinička ustanova | [`pravilnik/1994/1168/`](pravilnik/1994/1168/) | repealed, not consolidated | 1 | 1994-09-21 | 1994-09-21 |
 | Pravilnik o izmjenama i dopunama Pravilnika o obliku i načinu vođenja trgovačke knjige | [`pravilnik/1994/1223/`](pravilnik/1994/1223/) | amending act | 1 | 1994-11-06 | 1994-11-06 |
+| Pravilnik o uvjetima u pogledu prostora, djelatnika i medicinsko-tehničke opreme za obavljanje privatne prakse | [`pravilnik/1994/1226/`](pravilnik/1994/1226/) | cited later, not consolidated | 1 | 1994-10-15 | 1994-10-15 |
+| Pravilnik o izmjeni Pravilnika o primjeni Zakona o porezu na promet proizvoda i usluga | [`pravilnik/1994/1282/`](pravilnik/1994/1282/) | in force | 1 | 1994-10-14 | 1994-10-14 |
 | Pravilnik o sadržaju i načinu registracije odluke o izboru odnosno ugovora o zapošljavanju radnika-pomorca kao člana posade broda | [`pravilnik/1994/1283/`](pravilnik/1994/1283/) | in force | 1 | 1994-10-22 | 1994-10-22 |
+| Pravilnik o uvjetima za ispitivanje uvezenih uređaja za gašenje požara | [`pravilnik/1994/1295/`](pravilnik/1994/1295/) | repealed, not consolidated | 1 | 1994-10-28 | 1994-10-28 |
+| Pravilnik o izmjeni Pravilnika o lovostaji | [`pravilnik/1994/1328/`](pravilnik/1994/1328/) | in force | 1 | 1994-11-04 | 1994-11-04 |
+| Pravilnik o postupku za utvrđivanje grba i zastave jedinica lokalne samouprave | [`pravilnik/1994/1353/`](pravilnik/1994/1353/) | repealed, not consolidated | 1 | 1994-11-02 | 1994-11-02 |
+| Pravilnik o brodicama | [`pravilnik/1994/1381/`](pravilnik/1994/1381/) | amended, not consolidated | 1 | 1994-11-15 | 1994-11-15 |
+| Pravilnik o izmjeni Pravilnika o pravima, uvjetima i načinu ostvarivanja prava iz obveznog zdravstvenog osiguranja | [`pravilnik/1994/1386/`](pravilnik/1994/1386/) | amended, not consolidated | 1 | 1994-11-07 | 1994-11-07 |
+| Pravilmik o izmjeni i dopuni Pravilnika o ortopedskim i drugim pomagalima | [`pravilnik/1994/1387/`](pravilnik/1994/1387/) | amended, not consolidated | 1 | 1994-11-07 | 1994-11-07 |
+| Pravilnik o izmjenama Pravilnika o službenim sjedištima javnih bilježnika | [`pravilnik/1994/1401/`](pravilnik/1994/1401/) | amended, not consolidated | 1 | 1994-11-19 | 1994-11-19 |
 | Pravilnik o izmjeni Pravilnika o privremenoj javnobilježnićkoj tarifi | [`pravilnik/1994/1402/`](pravilnik/1994/1402/) | in force | 1 | 1994-11-11 | 1994-11-11 |
 | Pravilnik o obrascu iskaznice državnog inspektora za poštu | [`pravilnik/1994/1404/`](pravilnik/1994/1404/) | in force | 1 | 1994-11-19 | 1994-11-19 |
 | Pravilnik o pečatu za pečačenje radijske postaje,telekomunikacijske i druge tehničke opreme | [`pravilnik/1994/1405/`](pravilnik/1994/1405/) | in force | 1 | 1994-11-19 | 1994-11-19 |
+| Pravilnik o izmjenama i dopunama Pravilnika o registraciji i opremi te uvjetima za upravljanje vozilima Ministarstva unutarnjih poslova Republike Hrvatske | [`pravilnik/1994/1441/`](pravilnik/1994/1441/) | amending act | 1 | 1994-11-26 | 1994-11-26 |
 | Pravilnik o izmjenama i dopunama Pravilnika u obliku, sadržaju i uporabi obrazaca platnog prometa | [`pravilnik/1994/1443/`](pravilnik/1994/1443/) | amending act | 1 | 1994-11-18 | 1994-11-18 |
 | Pravilmik o načinu vodenja očevidnika o obavljenom nadzoru državnog inspektora pošte | [`pravilnik/1994/1456/`](pravilnik/1994/1456/) | in force | 1 | 1994-12-02 | 1994-12-02 |
+| Pravilnik o načinu vođenja očevidnika o obavljenom nadzoru ili kontroli državnog inspektora telekomunikcija i državnog djelatnika koji obavlja poslove kontrole radio-frekvencijskog spektra | [`pravilnik/1994/1457/`](pravilnik/1994/1457/) | repealed, not consolidated | 1 | 1994-12-02 | 1994-12-02 |
+| Pravilnik o obrascu iskaznice državnog inspektora za telekomunikacije i obrascu iskaznice državnog djelatnika koji obavlja poslove kontrole radio-frekvencijskog spektra | [`pravilnik/1994/1458/`](pravilnik/1994/1458/) | in force | 1 | 1994-12-02 | 1994-12-02 |
 | Pravilnik o izmjenama Pravilnika o polaganju stručnog ispita učitelja i stručnih suradnika u osnovnoj školi | [`pravilnik/1994/1460/`](pravilnik/1994/1460/) | in force | 1 | 1994-12-02 | 1994-12-02 |
+| Pravilnik o izmjenama i dopunama PraviInika o psihičkim, fizičkim i zdravstvenim sposobnostima koje moraju ispunjavati izvršiteIji na posIovima ovlaštene sIužbene osobe Ministarstva unutarnjih poslova | [`pravilnik/1994/1527/`](pravilnik/1994/1527/) | amending act | 1 | 1994-12-13 | 1994-12-13 |
+| Pravilnik o uvjetima i načinu polaganja vozačkog ispita | [`pravilnik/1994/1536/`](pravilnik/1994/1536/) | repealed, not consolidated | 1 | 1994-12-16 | 1994-12-16 |
 | Pravilnik o provjeri stručne osposobljenosti djelatnika autoškola i ovlaštenih ispitivača | [`pravilnik/1994/1537/`](pravilnik/1994/1537/) | in force | 1 | 1994-12-16 | 1994-12-16 |
+| Pravilnik o obliku i sadržaju porezne prijave te načinu obračunavanja uplaćenih predujmova i razlika dohotka po godišnjem obračunu | [`pravilnik/1994/1561/`](pravilnik/1994/1561/) | repealed, not consolidated | 1 | 1994-12-20 | 1994-12-20 |
+| Pravilnik o uvjetima i načinu održavanja reda u lukama i na ostalim dijelovima unutrašnjih morskih voda i teritorijaInog mora Republike Hrvatske, te granicama plovidbe brodova i brodica izvan luka | [`pravilnik/1994/1564/`](pravilnik/1994/1564/) | cited later, not consolidated | 1 | 1994-12-20 | 1994-12-20 |
 | Pravilnik o standardima i normativima prava iz obveznog zdravstvenog osiguranja za 1995. godinu | [`pravilnik/1994/1566/`](pravilnik/1994/1566/) | in force | 1 | 1994-12-12 | 1994-12-12 |
+| Pravilnik o izdavanju suglasnosti za upis u sudski registar pravnih osoba koje obavljaju stručne poslove prostornog uređenja | [`pravilnik/1994/1605/`](pravilnik/1994/1605/) | repealed, not consolidated | 1 | 1994-12-24 | 1994-12-24 |
+| Pravilnik o određivanju zahvata u prostoru za koje se ne izdaje lokacijska dozvola | [`pravilnik/1994/1606/`](pravilnik/1994/1606/) | repealed, not consolidated | 1 | 1994-12-24 | 1994-12-24 |
 | Pravilnik o dopunama Pravilnika o uvjetima i načinu ostvarivanja prava na zdravstvenu zaštitu | [`pravilnik/1994/1632/`](pravilnik/1994/1632/) | amending act | 1 | 1994-12-30 | 1994-12-30 |
 | Pravilnik o iznljenama i dopunama Pravilnika o načinu propisivanja, izdavanja i naplaćivanja lijekova osiguranim osobama Hrvatskog zavoda za zdravstveno osiguranje | [`pravilnik/1994/1633/`](pravilnik/1994/1633/) | amending act | 1 | 1994-12-22 | 1994-12-22 |
 | Pravilnik o izmjenama Pravilnika o pečatu za pečaćenje radijske postaje, telekomunikacijske i druge tehničke opreme | [`pravilnik/1994/1665/`](pravilnik/1994/1665/) | in force | 1 | 1995-01-06 | 1995-01-06 |
 | Pravilnik o izmjenama Pravilnika o kriterijima, postupku, načinu utvrđivanja i osiguranja križanja željezničke pruge i ceste | [`pravilnik/1994/1666/`](pravilnik/1994/1666/) | in force | 1 | 1995-01-06 | 1995-01-06 |
+| Pravilnik o izmjeni Pravilnika o klasifikaciji, minimalnim uvjetima i kategorizaciji ugostiteljskih objekata | [`pravilnik/1994/1667/`](pravilnik/1994/1667/) | in force | 1 | 1994-12-29 | 1994-12-29 |
 | Pravilnik o izmjenama i dopunama Pravilnika o organizaciji, sastavu i radu stručnih organa vještačenja u mirovinskom i invalidskom osiguranju | [`pravilnik/1994/1687/`](pravilnik/1994/1687/) | amending act | 1 | 1995-01-06 | 1995-01-06 |
+| Pravilnik o dopuštenoj visini kala, rasipa, kvara i loma na proizvodima u trgovini robom na malo | [`pravilnik/1994/1696/`](pravilnik/1994/1696/) | repealed, not consolidated | 1 | 1994-12-29 | 1994-12-29 |
 | Pravilnik o provedbi zakona o evidencijama u oblasti zdravstva za primarnu i specijalističko-konzilijarnu zdravstvenu zaštitu | [`pravilnik/1995/39/`](pravilnik/1995/39/) | repealed, not consolidated | 1 | 1995-01-27 | 1995-01-27 |
 | Pravilnik o uvjetima koje mora ispunjavati stručna organizacija iz članka 205. Zakona o sigurnosti prometa na cestama | [`pravilnik/1995/99/`](pravilnik/1995/99/) | cited later, not consolidated | 1 | 1995-02-07 | 1995-02-07 |
 | Pravilnik o izmjenama i dopunama Pravilnika o obliku, sadržaju i uporabi obrazaca platnog prometa | [`pravilnik/1995/100/`](pravilnik/1995/100/) | amending act | 1 | 1995-01-30 | 1995-01-30 |
@@ -25976,7 +26090,7 @@
 | Pravilnik o Upisniku regionalnih koordinatora i lokalnih razvojnih agencija | [`pravilnik/2026/1490/`](pravilnik/2026/1490/) | in force | 1 | 2026-11-10 | 2026-11-10 |
 | Pravilnik o provedbi Programa potpore za provedbu jesenske sjetve u 2026. godini | [`pravilnik/2026/1522/`](pravilnik/2026/1522/) | in force | 1 | 2026-11-07 | 2026-11-07 |
 
-## statut (175, of which 23 amending acts)
+## statut (176, of which 23 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -25987,6 +26101,7 @@
 | Statut Hrvatskoga fonda za razvoj | [`statut/1991/968/`](statut/1991/968/) | in force | 1 | 1991-07-16 | 1991-07-16 |
 | Statut Saveza udruženja hrvatskih obrtnika | [`statut/1992/336/`](statut/1992/336/) | in force | 1 | 1992-04-02 | 1992-04-02 |
 | Statut Hrvatske kreditne banke za obnovu | [`statut/1992/1225/`](statut/1992/1225/) | in force | 1 | 1992-07-31 | 1992-07-31 |
+| Statut Hrvatske obrtničke komore | [`statut/1994/1033/`](statut/1994/1033/) | amended, not consolidated | 1 | 1994-07-30 | 1994-07-30 |
 | Statut Nacionalnog odbora za preventivnu zaštitu i gašenje požara | [`statut/1994/1160/`](statut/1994/1160/) | in force | 1 | 1994-09-16 | 1994-09-16 |
 | Statut Hrvatske Odvjetničke Komore | [`statut/1995/542/`](statut/1995/542/) | amended, not consolidated | 1 | 1995-04-22 | 1995-04-22 |
 | Statut Komisije za vrijednosne papire Republike Hrvatske | [`statut/1997/1325/`](statut/1997/1325/) | amended, not consolidated | 1 | 1997-07-21 | 1997-07-21 |
@@ -26156,7 +26271,7 @@
 | Statut političke stranke Dina Dogan - Nezavisna lista | [`statut/2026/887/`](statut/2026/887/) | amended, not consolidated | 1 | 2024-11-30 | 2024-11-30 |
 | Izmjene i dopuna Statuta Hrvatske komore socijalnih pedagoga | [`statut/2026/1299/`](statut/2026/1299/) | amending act | 1 | 2026-10-03 | 2026-10-03 |
 
-## uputa (39, of which 3 amending acts)
+## uputa (50, of which 3 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -26173,10 +26288,21 @@
 | Uputa o obračunu i uplati poreza na dobit pravnih osoba za 1992. godinu | [`uputa/1992/2385/`](uputa/1992/2385/) | in force | 1 | 1992-12-31 | 1992-12-31 |
 | Uputa o obračunu i uplati poreza na dobit dijelova stranih pravnih i fizičkih osoba koje posluju preko nerezidentskog računa u Repablici Hrvatskoj | [`uputa/1992/2386/`](uputa/1992/2386/) | in force | 1 | 1992-12-31 | 1992-12-31 |
 | Uputa o obračunu i uplati posebnog poreza na dobit pravnih i fizičkih osoba | [`uputa/1992/2387/`](uputa/1992/2387/) | in force | 1 | 1992-12-31 | 1992-12-31 |
+| Uputa za provođenje Uredbe o plaćama | [`uputa/1993/149/`](uputa/1993/149/) | repealed, not consolidated | 1 | 1993-02-01 | 1993-02-01 |
 | Uputa za provođenje Uredbe o plaćama | [`uputa/1993/293/`](uputa/1993/293/) | in force | 1 | 1993-03-04 | 1993-03-04 |
 | Uputa o provođenju dijela Sporazuma koji se odnosi na plaće | [`uputa/1993/444/`](uputa/1993/444/) | in force | 1 | 1993-03-31 | 1993-03-31 |
 | Uputa o provođenju dijela Sporazuma koji se odnosi na ostala materijalna prava radnika | [`uputa/1993/445/`](uputa/1993/445/) | in force | 1 | 1993-03-31 | 1993-03-31 |
 | Uputa za primjenu Zakona o utvrđivanju ratne štete | [`uputa/1993/1040/`](uputa/1993/1040/) | in force | 1 | 1993-06-07 | 1993-06-07 |
+| Uputu o provođenju Programa statističkih istraživanja Republike Hrvatske u dijelu koji se odnosi na plaće | [`uputa/1993/1520/`](uputa/1993/1520/) | in force | 1 | 1993-07-30 | 1993-07-30 |
+| Uputa za primjenu Uredbe o plaćama | [`uputa/1993/1747/`](uputa/1993/1747/) | amended, not consolidated | 1 | 1993-10-04 | 1993-10-04 |
+| Uputa za primjenu Uredbe o plaćama i Uredbe o dopuni Uredbe o plaćama | [`uputa/1993/1944/`](uputa/1993/1944/) | amended, not consolidated | 1 | 1993-11-03 | 1993-11-03 |
+| Uputa za primjenu Uredbe o plaćama | [`uputa/1993/2255/`](uputa/1993/2255/) | amended, not consolidated | 1 | 1993-12-30 | 1993-12-30 |
+| Uputa za primjenu Uredbe o plaćama | [`uputa/1994/120/`](uputa/1994/120/) | amended, not consolidated | 1 | 1994-02-01 | 1994-02-01 |
+| Uputa za primjenu Uredbe o plaćama | [`uputa/1994/489/`](uputa/1994/489/) | replaced, not consolidated | 1 | 1994-04-05 | 1994-04-05 |
+| Uputa za primjenu Uredbe o plaćama | [`uputa/1994/643/`](uputa/1994/643/) | cited later, not consolidated | 1 | 1994-05-04 | 1994-05-04 |
+| Uputu o upotrebi slovnih kratica i brojčanih oznaka za zemlje i novčane jedinice u platnom prometu s inozemstvom | [`uputa/1994/840/`](uputa/1994/840/) | amended, not consolidated | 1 | 1994-06-20 | 1994-06-20 |
+| Uputa o načinu popunjavanja obrazaca za registraciju i evidenciju kredita odobrenih inozemstvu | [`uputa/1994/1310/`](uputa/1994/1310/) | repealed, not consolidated | 1 | 1994-10-25 | 1994-10-25 |
+| Uputa o načinu popunjavanja obrazaca za registraciju i evidenciju kredita uzetih u inozemstvu | [`uputa/1994/1311/`](uputa/1994/1311/) | repealed, not consolidated | 1 | 1994-10-25 | 1994-10-25 |
 | Uputa o izmjeni Upute o načinu dostavljanja izvješća o ukupnom stanju i prometu devizne štednje domaćih fizičkih osoba | [`uputa/1995/862/`](uputa/1995/862/) | in force | 1 | 1995-06-30 | 1995-06-30 |
 | Uputa o popunjavanju obrazaca za registraciju kreditnih poslova s inozemstvom | [`uputa/1997/706/`](uputa/1997/706/) | in force | 1 | 1997-05-09 | 1997-05-09 |
 | Uputa o izmjenama i dopunama Upute za provođenje dijela programa statističkih istraživanja Republike Hrvatske koji se odnosi na plaće i materijalna prava zaposlenika u 1997. godini | [`uputa/1998/467/`](uputa/1998/467/) | amending act | 1 | 1998-03-18 | 1998-03-18 |
@@ -26200,7 +26326,7 @@
 | Uputa o provedbi Odluke o obveznoj pričuvi | [`uputa/2014/2424/`](uputa/2014/2424/) | repealed, not consolidated | 1 | 2014-11-12 | 2014-11-12 |
 | Uputa za provedbu Odluke o obveznoj pričuvi | [`uputa/2015/2618/`](uputa/2015/2618/) | repealed, not consolidated | 1 | 2016-01-13 | 2016-01-13 |
 
-## uredba (3612, of which 747 amending acts)
+## uredba (3736, of which 761 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -26307,57 +26433,181 @@
 | Uredba o izmjeni i dopuni Uredbe o prostornom uređenju u ratom zahvaćenini područjima Republike Hrvatske | [`uredba/1992/2026/`](uredba/1992/2026/) | amending act | 1 | 1992-11-21 | 1992-11-21 |
 | Uredba o stavljanju izvan snage dijela Uredbe o zdravstvenoj zaštiti i zdravstvenom osiguranju u slučaju ratnog stanja ili neposredne ugroženosti neovisnosti i jedinstvenosti Republike hrvatske | [`uredba/1992/2211/`](uredba/1992/2211/) | in force | 1 | 1992-12-12 | 1992-12-12 |
 | Uredba o izmjeni Uredbe o prometu i oporezivanju duhanskih prerađevina | [`uredba/1992/2234/`](uredba/1992/2234/) | in force | 1 | 1992-12-18 | 1992-12-18 |
+| Odluka o izmjeni Zakona o prestanku važenja Zakona o izdvajanju i raspoređivanju sredstava za zadovoljavanje stambenih potreba | [`uredba/1993/60/`](uredba/1993/60/) | in force | 1 | 1993-01-18 | 1993-01-18 |
+| Uredba o izmjenama Uredbe o područjima na kojima će se koristiti sredstva ostvarena prema Zakonu o financiranju obnove, te o područjima na kojima će se primjenjivati poticajne mjere | [`uredba/1993/61/`](uredba/1993/61/) | in force | 1 | 1993-01-18 | 1993-01-18 |
+| Uredba o Uredu za projekt sukcesije | [`uredba/1993/71/`](uredba/1993/71/) | amended, not consolidated | 1 | 1993-01-20 | 1993-01-20 |
+| Uredba o plaćama | [`uredba/1993/109/`](uredba/1993/109/) | repealed, not consolidated | 1 | 1993-01-29 | 1993-01-29 |
+| Uredba o Uredu za granice | [`uredba/1993/123/`](uredba/1993/123/) | amended, not consolidated | 1 | 1993-02-01 | 1993-02-01 |
+| Uredba o ustroju i djelovanju sustava motrenja i obavješćivanja u Republici Hrvatskoj | [`uredba/1993/157/`](uredba/1993/157/) | cited later, not consolidated | 1 | 1993-02-03 | 1993-02-03 |
+| Uredba o izmjenama i dopunama Zakona o šumama | [`uredba/1993/218/`](uredba/1993/218/) | amending act | 1 | 1993-02-15 | 1993-02-15 |
 | Uredba o dopuni Zakona o pretvorbi društvenih poduzeća | [`uredba/1993/250/`](uredba/1993/250/) | amending act | 1 | 1993-02-25 | 1993-02-25 |
 | Uredba o izmjeni Zakona o financijskoj policiji | [`uredba/1993/251/`](uredba/1993/251/) | in force | 1 | 1993-02-25 | 1993-02-25 |
+| Uredba o zabrani raspolaganja zadružnom imovinom | [`uredba/1993/252/`](uredba/1993/252/) | amended, not consolidated | 1 | 1993-02-25 | 1993-02-25 |
 | Uredba o akontacijama najniže osnovne i minimalne plaće za veljaču 1993. godine | [`uredba/1993/275/`](uredba/1993/275/) | in force | 1 | 1993-03-03 | 1993-03-03 |
+| Uredba o plaćama | [`uredba/1993/276/`](uredba/1993/276/) | repealed, not consolidated | 1 | 1993-03-03 | 1993-03-03 |
+| Uredba o snimanju iz zraka | [`uredba/1993/277/`](uredba/1993/277/) | repealed, not consolidated | 1 | 1993-03-11 | 1993-03-11 |
 | Uredba o danu i trenutku prijelaza na ljetno računanje vremena, te danu i trenutku povratka na srednjoeuropsko zonsko vrijeme u 1993. godini | [`uredba/1993/297/`](uredba/1993/297/) | in force | 1 | 1993-03-16 | 1993-03-16 |
+| Uredba o izmjenama i dopunama Zakona o porezu na promet proizvoda i usluga | [`uredba/1993/298/`](uredba/1993/298/) | amended, not consolidated | 1 | 1993-03-08 | 1993-03-08 |
 | Uredba o izmjenama i dopunama Uredbe o prometu i oporezivanju duhanskih prerađevina | [`uredba/1993/299/`](uredba/1993/299/) | amending act | 1 | 1993-03-08 | 1993-03-08 |
+| Uredba o privremenom financiranju jedinica lokalne samouprave i uprave | [`uredba/1993/355/`](uredba/1993/355/) | amended, not consolidated | 1 | 1993-03-23 | 1993-03-23 |
+| Uredba o Agenciji za učinkovito korištenje i štednju energije | [`uredba/1993/356/`](uredba/1993/356/) | repealed, not consolidated | 1 | 1993-03-23 | 1993-03-23 |
+| Uredba o izmjeni Zakona o slobodnim zonama | [`uredba/1993/474/`](uredba/1993/474/) | in force | 1 | 1993-04-06 | 1993-04-06 |
 | Uredba o prestanku važenja Uredbe o plaćama | [`uredba/1993/528/`](uredba/1993/528/) | in force | 1 | 1993-04-10 | 1993-04-10 |
 | Uredba o izmjeni Uredbe o financijskom poslovanju | [`uredba/1993/529/`](uredba/1993/529/) | in force | 1 | 1993-04-10 | 1993-04-10 |
+| Uredba o izmjeni i dopuni Zakona o premijama za određene proizvode u poljoprivredi i regresu dijela kamata za prioritetne namjene u poljoprivredi | [`uredba/1993/530/`](uredba/1993/530/) | amended, not consolidated | 1 | 1993-04-10 | 1993-04-10 |
 | Uredba o izmjenama i dopunama Zakona o vodama | [`uredba/1993/531/`](uredba/1993/531/) | amending act | 1 | 1993-04-10 | 1993-04-10 |
+| Uredba o podnošenju prijava po Zakonu o industrijskom vlasništvu | [`uredba/1993/545/`](uredba/1993/545/) | replaced, not consolidated | 1 | 1993-04-14 | 1993-04-14 |
+| Uredba o obavljanju privrednoga morskoga ribolova | [`uredba/1993/588/`](uredba/1993/588/) | amended, not consolidated | 1 | 1993-04-20 | 1993-04-20 |
+| Uredba o namjenskom iznosu za pokriće gubitaka Hrvatske elektroprivrede | [`uredba/1993/589/`](uredba/1993/589/) | repealed, not consolidated | 1 | 1993-04-20 | 1993-04-20 |
+| Uredba o provođenju rezolucija Vijeća sigurnosti Ujedinjenih naroda u svezi sankcija protiv Srbije i Crne Gore u području prometa roba i usluga, stranih ulaganja i turizma | [`uredba/1993/691/`](uredba/1993/691/) | repealed, not consolidated | 1 | 1993-05-01 | 1993-05-01 |
+| Uredba o provođenju odredbe točke 12. Rezolucije Vijeća sigurnosti Ujedinjenih naroda 820 (1993) | [`uredba/1993/719/`](uredba/1993/719/) | amended, not consolidated | 1 | 1993-05-07 | 1993-05-07 |
+| Uredba o privremenom ukidanju carinskih i poreznih povlastica kod uvoza osobnih automobila | [`uredba/1993/720/`](uredba/1993/720/) | amended, not consolidated | 1 | 1993-05-07 | 1993-05-07 |
+| Uredba o dopuni Uredbe o privremenom financiranju jedinica lokalne samouprave i uprave | [`uredba/1993/733/`](uredba/1993/733/) | amending act | 1 | 1993-05-08 | 1993-05-08 |
+| Uredba o Uredu za žrtve rata | [`uredba/1993/893/`](uredba/1993/893/) | cited later, not consolidated | 1 | 1993-05-17 | 1993-05-17 |
+| Uredba o osnivanju Komisije za zatočene i nestale | [`uredba/1993/894/`](uredba/1993/894/) | repealed, not consolidated | 1 | 1993-05-17 | 1993-05-17 |
+| Uredba o određivanju ratom ugroženih područja | [`uredba/1993/898/`](uredba/1993/898/) | cited later, not consolidated | 1 | 1993-05-21 | 1993-05-21 |
+| Uredba o sjedištu i području na kojem se osnivaju policijske uprave | [`uredba/1993/937/`](uredba/1993/937/) | repealed, not consolidated | 1 | 1993-05-24 | 1993-05-24 |
 | Uredba o izmjeni i dopuni Uredbe o privremenom ukidanju carinskih i poreznih povlastica kod uvoza osobnih automobila | [`uredba/1993/1000/`](uredba/1993/1000/) | amending act | 1 | 1993-06-22 | 1993-06-22 |
 | Uredba o prestanku važenja Uredbe o namjenskom iznosu za pokriće gubitaka Hrvatske elektroprivrede | [`uredba/1993/1001/`](uredba/1993/1001/) | in force | 1 | 1993-06-22 | 1993-06-22 |
+| Uredba o osiguravanju sredstava, ostvarivanju prava i načinu isplate minimalnih plaća i naknada određenim fizičkim i pravnim osobama | [`uredba/1993/1038/`](uredba/1993/1038/) | amended, not consolidated | 1 | 1993-06-07 | 1993-06-07 |
+| Uredba o oslobađanju plaćanja naknade za promjenu namjene poljoprivrednoga zemljišta | [`uredba/1993/1039/`](uredba/1993/1039/) | repealed, not consolidated | 1 | 1993-06-07 | 1993-06-07 |
+| Uredba o znacima državne pripadnosti zrakoplova | [`uredba/1993/1135/`](uredba/1993/1135/) | cited later, not consolidated | 1 | 1993-06-13 | 1993-06-13 |
+| Uredba o izmjeni i dopuni Zakona o hrvatskim željeznicama | [`uredba/1993/1136/`](uredba/1993/1136/) | amending act | 1 | 1993-06-13 | 1993-06-13 |
+| Uredba o izmjenama i dopunama Zakona o cestama | [`uredba/1993/1137/`](uredba/1993/1137/) | amending act | 1 | 1993-06-13 | 1993-06-13 |
+| Uredba o izmjeni i dopuni Zakona o osnivanju javnog hrvatskog poštanskog i telekomunikacijskog poduzeća | [`uredba/1993/1138/`](uredba/1993/1138/) | amending act | 1 | 1993-06-13 | 1993-06-13 |
 | Uredba o otpisu dugotrajne imovine koji se kao amortizacija priznaje u porezni rashod | [`uredba/1993/1139/`](uredba/1993/1139/) | in force | 1 | 1993-06-13 | 1993-06-13 |
+| Uredba o izmjenama i dopunama Zakona o porezu na promet proizvoda i usluga | [`uredba/1993/1148/`](uredba/1993/1148/) | amended, not consolidated | 1 | 1993-06-16 | 1993-06-16 |
+| Uredba o izmjeni Zakona o prestanku važenja Zakona o izdvajanju i raspoređivanju sredstava za zadovoljavanje stambenih potreba | [`uredba/1993/1149/`](uredba/1993/1149/) | in force | 1 | 1993-06-16 | 1993-06-16 |
+| Uredba o pretvaranju deviznih depozita građana u javni dug Republike Hrvatske | [`uredba/1993/1169/`](uredba/1993/1169/) | cited later, not consolidated | 1 | 1993-06-18 | 1993-06-18 |
+| Uredba o korištenju sredstava za subvencioniranje stanarine i podstanarine | [`uredba/1993/1170/`](uredba/1993/1170/) | amended, not consolidated | 1 | 1993-06-18 | 1993-06-18 |
+| Uredba o korištenju sredstava amortizacije stanova i stambenih zgrada | [`uredba/1993/1171/`](uredba/1993/1171/) | amended, not consolidated | 1 | 1993-06-18 | 1993-06-18 |
+| Uredba o visini kamata na iznose poreza, doprinosa, taksa i drugih javnih prihoda koji nisu plaćeni u propisanom roku | [`uredba/1993/1172/`](uredba/1993/1172/) | amended, not consolidated | 1 | 1993-06-18 | 1993-06-18 |
+| Uredba o izmjeni i dopuni Zakona o neposrednim porezima | [`uredba/1993/1179/`](uredba/1993/1179/) | amending act | 1 | 1993-06-24 | 1993-06-24 |
+| Uredba o izmjeni Zakona o boravišnoj pristojbi | [`uredba/1993/1180/`](uredba/1993/1180/) | in force | 1 | 1993-06-24 | 1993-06-24 |
+| Uredba o uvjetima i načinu održavanja likvidnosti u plaćanjima prema inozemstvu | [`uredba/1993/1181/`](uredba/1993/1181/) | cited later, not consolidated | 1 | 1993-06-24 | 1993-06-24 |
+| Uredba o kreditima za obnovu ratom oštećenih i razrušenih stambenih i gospodarskih objekata | [`uredba/1993/1182/`](uredba/1993/1182/) | amended, not consolidated | 1 | 1993-06-24 | 1993-06-24 |
+| Uredba o prostornom uređenju u ratom zahvaćenim područjima Republike Hrvatske | [`uredba/1993/1183/`](uredba/1993/1183/) | amended, not consolidated | 1 | 1993-06-24 | 1993-06-24 |
+| Uredba o izvozu i uvozu robe od strane fizičkih osoba. | [`uredba/1993/1184/`](uredba/1993/1184/) | amended, not consolidated | 1 | 1993-06-24 | 1993-06-24 |
+| Uredba o izmjenama i dopunama Carinskog zakona | [`uredba/1993/1216/`](uredba/1993/1216/) | amended, not consolidated | 1 | 1993-06-26 | 1993-06-26 |
 | Uredba o redoslijedu plaćanja nepodmirenih obveza | [`uredba/1993/1217/`](uredba/1993/1217/) | in force | 1 | 1993-06-26 | 1993-06-26 |
+| Uredba o upravnim pristojbama | [`uredba/1993/1218/`](uredba/1993/1218/) | cited later, not consolidated | 1 | 1993-06-26 | 1993-06-26 |
+| Uredba o izmjeni Zakona o porezu na promet proizvoda i usluga | [`uredba/1993/1280/`](uredba/1993/1280/) | amended, not consolidated | 1 | 1993-07-02 | 1993-07-02 |
 | Uredba o dopuni Zakona o pripadnosti javnih prihoda Republici Hrvatskoj i jedinicama lokalne samouprave i stopama republičkih poreza | [`uredba/1993/1281/`](uredba/1993/1281/) | amending act | 1 | 1993-07-02 | 1993-07-02 |
 | Uredba o najnižoj osnovnoj i minimalnoj plaći | [`uredba/1993/1503/`](uredba/1993/1503/) | in force | 1 | 1993-07-30 | 1993-07-30 |
+| Uredba o izmjenama i dopunama Zakona o porezu na promet proizvoda i usluga | [`uredba/1993/1504/`](uredba/1993/1504/) | amended, not consolidated | 1 | 1993-07-30 | 1993-07-30 |
+| Uredba o izmjenama i dopunama Zakona o članarinama u turističkim zajednicama | [`uredba/1993/1505/`](uredba/1993/1505/) | amending act | 1 | 1993-07-30 | 1993-07-30 |
+| Uredba o izmjenama i dopunama Zakona o boravišnoj pristojbi | [`uredba/1993/1506/`](uredba/1993/1506/) | amending act | 1 | 1993-07-30 | 1993-07-30 |
 | Uredba o izmjenama Uredbe o izdacima za službena putovanja u inozemstvo, koji se korisnicima državnoga proračuna priznaju u materijalne troškove | [`uredba/1993/1507/`](uredba/1993/1507/) | in force | 1 | 1993-07-30 | 1993-07-30 |
+| Uredba o područjima na kojima će se koristiti sredstva ostvarena prema Zakonu o financiranju obnove, te o područjima na kojima će se primjenjivati poticajne mjere | [`uredba/1993/1600/`](uredba/1993/1600/) | cited later, not consolidated | 1 | 1993-08-25 | 1993-08-25 |
+| Uredba o izmjenama Zakona o porezu na promet proizvoda i usluga | [`uredba/1993/1648/`](uredba/1993/1648/) | amended, not consolidated | 1 | 1993-09-03 | 1993-09-03 |
+| Uredba o zaduženju Republike Hrvatske kod Narodne banke Hrvatske | [`uredba/1993/1657/`](uredba/1993/1657/) | cited later, not consolidated | 1 | 1993-09-08 | 1993-09-08 |
+| Uredba o mogućnosti korištenja kredita i zajmova kod javnih poduzeća i drugih pravnih osoba u državnom i pretežito državnom vlasništvu | [`uredba/1993/1662/`](uredba/1993/1662/) | cited later, not consolidated | 1 | 1993-09-10 | 1993-09-10 |
 | Uredba o dopuni Uredbe o načinu utvrđivanja cijene stana i garaže | [`uredba/1993/1664/`](uredba/1993/1664/) | amending act | 1 | 1993-11-04 | 1993-11-04 |
+| Uredba o izmjenama i dopunama Zakona o porezu na promet proizvoda i usluga | [`uredba/1993/1739/`](uredba/1993/1739/) | amended, not consolidated | 1 | 1993-10-04 | 1993-10-04 |
+| Uredba o izmjenama Carinskog zakona | [`uredba/1993/1740/`](uredba/1993/1740/) | amended, not consolidated | 1 | 1993-10-04 | 1993-10-04 |
+| Uredba o dopuni Zakona o platnom prometu u zemlji | [`uredba/1993/1741/`](uredba/1993/1741/) | amended, not consolidated | 1 | 1993-10-04 | 1993-10-04 |
+| Uredba o plaćama | [`uredba/1993/1742/`](uredba/1993/1742/) | amended, not consolidated | 1 | 1993-10-04 | 1993-10-04 |
+| Uredba o izmjeni Zakona o zdravstvenoj ispravnosti i zdravstvenom nadzoru nad namirnicama i predmetima opće uporabe | [`uredba/1993/1743/`](uredba/1993/1743/) | in force | 1 | 1993-10-04 | 1993-10-04 |
+| Uredba o izmjenama Zakona o porezu na promet proizvoda i usluga | [`uredba/1993/1749/`](uredba/1993/1749/) | amended, not consolidated | 1 | 1993-10-04 | 1993-10-04 |
+| Uredba o prodaji efektivne strane valute domaćim fizičkim osobama | [`uredba/1993/1761/`](uredba/1993/1761/) | repealed, not consolidated | 1 | 1993-10-08 | 1993-10-08 |
 | Uredba o ovlaštenju Upravnom odboru Službe društvenog knjigovodstva Hrvatske da donese Zaključni račun Službe društvenog knjigovodstva Hrvatske nakon prestanka važenja Zakona o Službi društvenog knjig | [`uredba/1993/1789/`](uredba/1993/1789/) | in force | 1 | 1993-10-14 | 1993-10-14 |
+| Uredba o utvrđivanju najviših iznosa mase sredstava za isplatu mirovina | [`uredba/1993/1793/`](uredba/1993/1793/) | amended, not consolidated | 1 | 1993-10-19 | 1993-10-19 |
+| Uredba o obračunavanju, plaćanju i povratu poreza na promet pri izvozu i provozu određenih proizvoda u zemlje za koje je potreban pojačani carinski nadzor | [`uredba/1993/1871/`](uredba/1993/1871/) | repealed, not consolidated | 1 | 1993-10-22 | 1993-10-22 |
+| Uredba o visini stope zatezne kamate | [`uredba/1993/1872/`](uredba/1993/1872/) | replaced, not consolidated | 1 | 1993-10-22 | 1993-10-22 |
+| Uredba o nastavljanju važenja pravnoga sadržaja i učinka određenih uredbi Vlade Republike Hrvatske na temelju zakonske ovlasti | [`uredba/1993/1928/`](uredba/1993/1928/) | amended, not consolidated | 1 | 1993-11-03 | 1993-11-03 |
 | Uredba o podnošenju prijava po Zakonu o industrijskom vlasništvu | [`uredba/1993/1929/`](uredba/1993/1929/) | in force | 1 | 1993-11-03 | 1993-11-03 |
+| Uredba o izmjeni Zakona o prestanku važenja Zakona o izdvajanju i raspoređivanju sredstava za zadovoljavanje stambenih potreba | [`uredba/1993/1930/`](uredba/1993/1930/) | amended, not consolidated | 1 | 1993-11-03 | 1993-11-03 |
 | Uredba o izmjeni Zakona o zdravstvenoj ispravnosti i zdravstvenom nadzoru nad namirnicama i predmetima opće uporabe | [`uredba/1993/1931/`](uredba/1993/1931/) | in force | 1 | 1993-11-03 | 1993-11-03 |
+| Uredba o izmjeni i dopuni Uredbe o nastavljanju važenja pravnoga sadržaja i učinka određenih uredbi Vlade Republike Hrvatske na temelju zakonske ovlasti | [`uredba/1993/1968/`](uredba/1993/1968/) | amending act | 1 | 1993-11-10 | 1993-11-10 |
 | Uredba o izmjeni Uredbe o nastavljanju važenja pravnoga sadržaja i učinka određenih uredbi Vlade Republike Hrvatske na temelju zakonske ovlasti | [`uredba/1993/2103/`](uredba/1993/2103/) | in force | 1 | 1993-12-03 | 1993-12-03 |
 | Uredba o izmjenama i dopunama Uredbe o osnivanju Lutrije Hrvatske d. o. o. | [`uredba/1993/2104/`](uredba/1993/2104/) | amending act | 1 | 1993-12-03 | 1993-12-03 |
 | Uredba o zatvaranju računa "Hrvatski radiša - projekt samozapošljavanja" te prenošenja sredstava na "Hrvatskog radišu" Organizaciju za promicanje rada, te za namještenje i odgoj trgovačke, obrtnič | [`uredba/1993/2105/`](uredba/1993/2105/) | in force | 1 | 1993-12-03 | 1993-12-03 |
+| Uredba o evidencijskoj pristojbi pri prijenosu neotplaćenih dionica | [`uredba/1993/2126/`](uredba/1993/2126/) | repealed, not consolidated | 1 | 1993-12-10 | 1993-12-10 |
+| Uredba o revalorizaciji | [`uredba/1993/2127/`](uredba/1993/2127/) | cited later, not consolidated | 1 | 1993-12-10 | 1993-12-10 |
+| Uredba o računovodstvu neprofitnih organizacija | [`uredba/1993/2140/`](uredba/1993/2140/) | replaced, not consolidated | 1 | 1993-12-17 | 1993-12-17 |
+| Uredba o plaćama | [`uredba/1993/2191/`](uredba/1993/2191/) | replaced, not consolidated | 1 | 1993-12-24 | 1993-12-24 |
+| Uredba o utvrđivanju najviših iznosa mase sredstava za isplatu mirovina | [`uredba/1993/2192/`](uredba/1993/2192/) | amended, not consolidated | 1 | 1993-12-24 | 1993-12-24 |
 | Uredba o prestanku važenja Uredbe o izmjeni Zakona o prestanku važenja Zakona o izdvajanju i raspoređivanju sredstava za zadovoljavanje stambenih potreba | [`uredba/1993/2194/`](uredba/1993/2194/) | in force | 1 | 1993-12-24 | 1993-12-24 |
 | Uredba o neprimjenjivanju Zakona o formiranju i korištenju sredstava solidarnosti za poticanje zapošljavanja | [`uredba/1993/2195/`](uredba/1993/2195/) | in force | 1 | 1993-12-24 | 1993-12-24 |
 | Uredba o izmjenama Zakona o prometu i oporezivanju duhanskih prerađevina | [`uredba/1993/2207/`](uredba/1993/2207/) | in force | 1 | 1993-12-27 | 1993-12-27 |
 | Uredba o premijama za određene proizvode upoljoprivredi i regresu za kvalitetno poljoprivredno sjeme i mineralnagnojiva | [`uredba/1993/2231/`](uredba/1993/2231/) | in force | 1 | 1993-12-30 | 1993-12-30 |
 | Uredba o izmjeni Zakona o posebnim pristojbamapri uvozu poljoprivrednih i prehrambenih proizvoda | [`uredba/1993/2233/`](uredba/1993/2233/) | in force | 1 | 1993-12-30 | 1993-12-30 |
 | Uredba o iznosu minimalne plaće koja služi za utvrđivanje oporezivog dohotka,poreznih stopa i osobnih odbitaka | [`uredba/1994/92/`](uredba/1994/92/) | in force | 1 | 1994-01-21 | 1994-01-21 |
+| Uredba o plaćama | [`uredba/1994/103/`](uredba/1994/103/) | replaced, not consolidated | 1 | 1994-01-28 | 1994-01-28 |
+| Uredba o utvrđivanju najviših iznosa mase sredstava za isplatu mirovina | [`uredba/1994/104/`](uredba/1994/104/) | amended, not consolidated | 1 | 1994-01-28 | 1994-01-28 |
+| Uredba o provođenju rezolucija Vijeća sigurnosti Ujedinjenih naroda u svezi sa sankcijama protiv Libijske Arapske Džamahirije | [`uredba/1994/125/`](uredba/1994/125/) | repealed, not consolidated | 1 | 1994-02-04 | 1994-02-04 |
+| Uredba o visini stope zatezne kamate | [`uredba/1994/126/`](uredba/1994/126/) | amended, not consolidated | 1 | 1994-02-04 | 1994-02-04 |
 | Uredba o izmjeni Zakona o visini kamata na iznose poreza, doprinosa, pristojbi i drugih javnih prihoda koji nisu plaćeni u propisanom roku | [`uredba/1994/127/`](uredba/1994/127/) | in force | 1 | 1994-02-12 | 1994-02-12 |
 | Uredba o mogučnosti korištenja kredita i zajmova kod javnih poduzeča i drugih pravnih osoba u državnom i pretežno državnom vlasništvu | [`uredba/1994/209/`](uredba/1994/209/) | in force | 1 | 1994-02-17 | 1994-02-17 |
+| Uredba o posebnom porezu na kamate | [`uredba/1994/210/`](uredba/1994/210/) | amended, not consolidated | 1 | 1994-02-17 | 1994-02-17 |
+| Uredba o privremenom osiguranju sredstava za plaće i materijalne troškove pojedinih državnih tijela | [`uredba/1994/211/`](uredba/1994/211/) | amended, not consolidated | 1 | 1994-02-17 | 1994-02-17 |
 | Uredba o upisu u sudski registar ustanova | [`uredba/1994/212/`](uredba/1994/212/) | in force | 1 | 1994-02-25 | 1994-02-25 |
+| Uredba o plaćama | [`uredba/1994/243/`](uredba/1994/243/) | replaced, not consolidated | 1 | 1994-02-25 | 1994-02-25 |
 | Uredba o utvrđivanju najviših iznosa mase sredstava zaisplatu mirovina | [`uredba/1994/244/`](uredba/1994/244/) | in force | 1 | 1994-02-25 | 1994-02-25 |
+| Uredba o dopuni Zakona o platnom prometu u zemlji | [`uredba/1994/245/`](uredba/1994/245/) | amended, not consolidated | 1 | 1994-02-25 | 1994-02-25 |
+| Uredba o izmjenama i dopunama Zakona o porezu na promet proizvoda i usluga | [`uredba/1994/246/`](uredba/1994/246/) | amended, not consolidated | 1 | 1994-02-25 | 1994-02-25 |
+| Uredba o obračunavanju, plaćanju i povratu poreza na promet pri izvozu i provozu određenih proizvoda u zemlje za koje je potreban pojačani carinski nadzor | [`uredba/1994/247/`](uredba/1994/247/) | repealed, not consolidated | 1 | 1994-02-25 | 1994-02-25 |
 | Uredba o dopuni Uredbe o posebnom porezu na kamate | [`uredba/1994/248/`](uredba/1994/248/) | amending act | 1 | 1994-02-25 | 1994-02-25 |
+| Uredba o prostornom uređenju u ratom zahvaćenim područjima Republike Hrvatske | [`uredba/1994/262/`](uredba/1994/262/) | cited later, not consolidated | 1 | 1994-02-28 | 1994-02-28 |
+| Uredba o upravljanju nacionalnim parkovima | [`uredba/1994/263/`](uredba/1994/263/) | cited later, not consolidated | 1 | 1994-02-28 | 1994-02-28 |
+| Uredba o korištenju sredstava amortizacije stanova i stambenih zgrada | [`uredba/1994/264/`](uredba/1994/264/) | amended, not consolidated | 1 | 1994-02-28 | 1994-02-28 |
+| Uredba o zabrani raspolaganja zadružnom imovinom | [`uredba/1994/265/`](uredba/1994/265/) | repealed, not consolidated | 1 | 1994-02-28 | 1994-02-28 |
+| Odluka o početnoj vrijednosti poljoprivrednog zemljišta u vlasništvu države kod prodaje javnim natječajem | [`uredba/1994/266/`](uredba/1994/266/) | replaced, not consolidated | 1 | 1994-02-28 | 1994-02-28 |
+| Uredba o izmjeni Zakona o prostornom planiranju i uređivanju prostora | [`uredba/1994/267/`](uredba/1994/267/) | in force | 1 | 1994-02-28 | 1994-02-28 |
+| Uredba o izmjeni Uredbe o visini stope zatezne kamate | [`uredba/1994/332/`](uredba/1994/332/) | in force | 1 | 1994-03-11 | 1994-03-11 |
+| Uredba o dopunama Zakona o visini kamata na iznose poreza, doprinosa, pristojbi i drugih javnih prihoda koji nisu plaćeni u propisanom roku | [`uredba/1994/333/`](uredba/1994/333/) | amending act | 1 | 1994-03-11 | 1994-03-11 |
+| Uredba o visini stope zatezne kamate | [`uredba/1994/364/`](uredba/1994/364/) | amended, not consolidated | 1 | 1994-03-23 | 1994-03-23 |
+| Uredba o posebnom porezu na kamate | [`uredba/1994/365/`](uredba/1994/365/) | in force | 1 | 1994-03-23 | 1994-03-23 |
+| Uredba o visini kamata na iznose javnih prihoda koji nisu plaćeni u propisanom roku | [`uredba/1994/366/`](uredba/1994/366/) | repealed, not consolidated | 1 | 1994-03-23 | 1994-03-23 |
 | Uredba o dopuni Zakona o porezu na promet proizvoda i usluga | [`uredba/1994/367/`](uredba/1994/367/) | amending act | 1 | 1994-03-23 | 1994-03-23 |
 | Uredba o izmjeni Uredbe o mogućnosti korištenja kredita i zajmova kod javnih poduzeća i drugih pravnih osoba u državnom i pretežno državnom vlasništvu | [`uredba/1994/368/`](uredba/1994/368/) | in force | 1 | 1994-03-23 | 1994-03-23 |
 | Uredba o izmjeni Uredbe o provođenju rezolucija Vijeća sigurnosti Ujedinjenih naroda u svezi sa sankcijama protiv Libijske Arapske Džamahirije | [`uredba/1994/369/`](uredba/1994/369/) | in force | 1 | 1994-03-23 | 1994-03-23 |
 | Uredba o prestanku važenja Uredbe o evidencijskoj pristojbi pri prijenosu neotplaćenih dionica | [`uredba/1994/370/`](uredba/1994/370/) | in force | 1 | 1994-03-23 | 1994-03-23 |
+| Uredba o sadržaju naziva tijela državne uprave, lokalne i mjesne samouprave | [`uredba/1994/416/`](uredba/1994/416/) | repealed, not consolidated | 1 | 1994-03-29 | 1994-03-29 |
+| Uredba o plaćama | [`uredba/1994/437/`](uredba/1994/437/) | replaced, not consolidated | 1 | 1994-04-11 | 1994-04-11 |
+| Uredba o utvrđivanju najviših iznosa mase sredstava za isplatu mirovina | [`uredba/1994/438/`](uredba/1994/438/) | amended, not consolidated | 1 | 1994-04-11 | 1994-04-11 |
+| Uredba o izmjeni Uredbe o privremenom osiguranju sredstava za plaće i materijalne troškove pojedinih državnih tijela | [`uredba/1994/439/`](uredba/1994/439/) | in force | 1 | 1994-04-11 | 1994-04-11 |
+| Uredba o Uredu za opće poslove Vlade i Sabora Republike Hrvatske | [`uredba/1994/516/`](uredba/1994/516/) | repealed, not consolidated | 1 | 1994-04-11 | 1994-04-11 |
+| Uredba o plaćama | [`uredba/1994/598/`](uredba/1994/598/) | replaced, not consolidated | 1 | 1994-04-29 | 1994-04-29 |
+| Uredba o utvrđivanju najviših iznosa mase sredstava za isplatu mirovina | [`uredba/1994/599/`](uredba/1994/599/) | amended, not consolidated | 1 | 1994-04-29 | 1994-04-29 |
+| Uredba o povlasticama u unutarnjem putničkom prometu | [`uredba/1994/732/`](uredba/1994/732/) | repealed, not consolidated | 1 | 1994-05-31 | 1994-05-31 |
 | Uredba o plaćama | [`uredba/1994/743/`](uredba/1994/743/) | in force | 1 | 1994-05-27 | 1994-05-27 |
 | Uredba o utvrdivanju najviših iznosa mase sredstava za isplatu mirovina | [`uredba/1994/744/`](uredba/1994/744/) | in force | 1 | 1994-05-27 | 1994-05-27 |
+| Uredba o Hrvatskoj informacijsko-dokumentacijskoj referalnoj agenciji | [`uredba/1994/769/`](uredba/1994/769/) | repealed, not consolidated | 1 | 1994-05-31 | 1994-05-31 |
+| Uredba o posebnom porezu na naftne derivate | [`uredba/1994/814/`](uredba/1994/814/) | repealed, not consolidated | 1 | 1994-06-16 | 1994-06-16 |
+| Uredba o posebnom porezu na pivo | [`uredba/1994/816/`](uredba/1994/816/) | repealed, not consolidated | 1 | 1994-06-16 | 1994-06-16 |
+| Uredba o posebnom porezu na alkohol | [`uredba/1994/818/`](uredba/1994/818/) | repealed, not consolidated | 1 | 1994-06-16 | 1994-06-16 |
+| Uredba o izmjenama i dopunama Zakona o cestama | [`uredba/1994/820/`](uredba/1994/820/) | amending act | 1 | 1994-06-16 | 1994-06-16 |
+| Uredba o plaćama u djelatnosti zdravstva | [`uredba/1994/828/`](uredba/1994/828/) | cited later, not consolidated | 1 | 1994-06-20 | 1994-06-20 |
+| Uredba o utvrđivanju najviših iznosa mase sredstava za isplatu mirovina | [`uredba/1994/829/`](uredba/1994/829/) | amended, not consolidated | 1 | 1994-06-20 | 1994-06-20 |
 | Uredba o iznosu minimalne plaće koja služi za utvrđivanje oporezivog dohotka, poreznih stopa i osobnih odbitaka za razdoblje lipanj - listopad 1994. | [`uredba/1994/830/`](uredba/1994/830/) | in force | 1 | 1994-06-20 | 1994-06-20 |
 | Uredba o izmjenama i dopunama Zakona o porezu na promet proizvoda i usluga | [`uredba/1994/831/`](uredba/1994/831/) | amending act | 1 | 1994-06-20 | 1994-06-20 |
 | Uredba o pokriću tečajnih razlika iz Ugovora o kreditu za Črnec Polje i agroindustrijski kompleks | [`uredba/1994/832/`](uredba/1994/832/) | in force | 1 | 1994-06-28 | 1994-06-28 |
 | Uredba o izmjeni Uredbe o visini stope zatezne kamate | [`uredba/1994/867/`](uredba/1994/867/) | in force | 1 | 1994-06-30 | 1994-06-30 |
 | Uredba o izmjeni Uredbe o visini kamata na iznose javnih prihoda koji nisu plaćeni u propisanom roku | [`uredba/1994/868/`](uredba/1994/868/) | in force | 1 | 1994-06-30 | 1994-06-30 |
+| Uredba o prestanku važenja Uredbe o načinu uvoza i izvoza određene robe | [`uredba/1994/977/`](uredba/1994/977/) | in force | 1 | 1994-07-13 | 1994-07-13 |
+| Uredba o dopunama Zakona o novčanim poticajima i naknadama u poljoprivredi | [`uredba/1994/988/`](uredba/1994/988/) | amending act | 1 | 1994-07-15 | 1994-07-15 |
 | Uredba o izmjenama i dopunama Zakona o morskom ribarstvu | [`uredba/1994/1042/`](uredba/1994/1042/) | amending act | 1 | 1994-07-29 | 1994-07-29 |
+| Uredba o Hrvatskom stočarskom selekcijskom centru | [`uredba/1994/1116/`](uredba/1994/1116/) | amended, not consolidated | 1 | 1994-08-31 | 1994-08-31 |
 | Uredba o prestanku važenja Uredbe o posebnom porezu na kamate | [`uredba/1994/1117/`](uredba/1994/1117/) | in force | 1 | 1994-08-31 | 1994-08-31 |
+| Uredba o preraspodjeli radnog vremena 12. rujna 1994. godine | [`uredba/1994/1125/`](uredba/1994/1125/) | amended, not consolidated | 1 | 1994-09-02 | 1994-09-02 |
+| Uredba o izmjeni Zakona o poljoprivrednom zemljištu | [`uredba/1994/1141/`](uredba/1994/1141/) | in force | 1 | 1994-09-08 | 1994-09-08 |
+| Uredba izmjeni i dopuni Zakona o platnom prometu u zemlji | [`uredba/1994/1198/`](uredba/1994/1198/) | amended, not consolidated | 1 | 1994-09-29 | 1994-09-29 |
+| Uredba o dopuni Zakona o slobodnim zonama | [`uredba/1994/1219/`](uredba/1994/1219/) | amending act | 1 | 1994-10-07 | 1994-10-07 |
+| Uredba o osnivanju Hrvatskog inforniativno-kulturnog zavoda | [`uredba/1994/1259/`](uredba/1994/1259/) | cited later, not consolidated | 1 | 1994-10-06 | 1994-10-06 |
+| Uredba o razvrstavanju u platne razrede poslova na kojima rade namještenici | [`uredba/1994/1324/`](uredba/1994/1324/) | amended, not consolidated | 1 | 1994-10-27 | 1994-10-27 |
 | Uredba o iznosu minimalne plaće koja služi za utvrđivanje oporezivog dohotka, poreznih stopa i osobnih odbitaka za razdoblje studeni - prosinac 1994. | [`uredba/1994/1379/`](uredba/1994/1379/) | in force | 1 | 1994-11-07 | 1994-11-07 |
+| Uredba o minimalnoj plaći | [`uredba/1994/1420/`](uredba/1994/1420/) | amended, not consolidated | 1 | 1994-11-18 | 1994-11-18 |
+| Uredba o rasporedu dijela sredstava za sanaciju banaka | [`uredba/1994/1526/`](uredba/1994/1526/) | amended, not consolidated | 1 | 1994-12-05 | 1994-12-05 |
 | Uredba o položajnim dodacima određenih državnih službenika | [`uredba/1994/1555/`](uredba/1994/1555/) | in force | 1 | 1994-12-09 | 1994-12-09 |
+| Uredba o dodacima za poslove s posebnim uvjetima rada | [`uredba/1994/1556/`](uredba/1994/1556/) | amended, not consolidated | 1 | 1994-12-09 | 1994-12-09 |
+| Uredba o povećanju koeficijenta platnog razreda i položajnim dodacima odredenih službenika u javnim službama | [`uredba/1994/1557/`](uredba/1994/1557/) | in force | 1 | 1994-12-09 | 1994-12-09 |
 | Uredba o utvrđivanju najviših iznosa mase sredstava za isplatu mirovina | [`uredba/1994/1560/`](uredba/1994/1560/) | in force | 1 | 1994-12-12 | 1994-12-12 |
 | Uredba o zabrani određenim pravnim osobama i tijelima isplate jednokratnih povećanja plaća, božićnica i ostalih materijalnih prava radnika | [`uredba/1994/1600/`](uredba/1994/1600/) | in force | 1 | 1994-12-16 | 1994-12-16 |
+| Uredba o izmjeni i dopuni Uredbe o povećanju koeficijenta platnog razreda i položajnim dodacima određenih službenika u javnim službama | [`uredba/1994/1620/`](uredba/1994/1620/) | amending act | 1 | 1994-12-22 | 1994-12-22 |
 | Uredba o izmjeni Uredbe o privremenom osiguranju sredstava za plaće i materijalne troškove pojedinih državnih tijela | [`uredba/1994/1650/`](uredba/1994/1650/) | in force | 1 | 1994-12-29 | 1994-12-29 |
+| Uredba o računovodstvu proračuna | [`uredba/1994/1651/`](uredba/1994/1651/) | amended, not consolidated | 1 | 1994-12-29 | 1994-12-29 |
+| Uredba o određivanju građevina od važnosti za Republiku Hrvatsku | [`uredba/1994/1652/`](uredba/1994/1652/) | repealed, not consolidated | 1 | 1995-01-06 | 1995-01-06 |
 | Uredba o izmjeni i dopuni Uredbe o podmirivanju dospjelih neizmirenih obveza prema inozemnim kreditorima | [`uredba/1994/1700/`](uredba/1994/1700/) | amending act | 1 | 1994-12-30 | 1994-12-30 |
 | Uredba o izmjeni Uredbe o rasporedu dijela sredstava za sanaciju banaka | [`uredba/1994/1701/`](uredba/1994/1701/) | in force | 1 | 1994-12-30 | 1994-12-30 |
 | Uredba o poslovima kontrole letenja koji se obavljaju po nalogu Ministarstva obrane | [`uredba/1995/10/`](uredba/1995/10/) | in force | 1 | 1995-01-10 | 1995-01-10 |
@@ -29817,7 +30067,7 @@
 | Uredba o izmjeni Uredbe o visini trošarine na energente i električnu energiju | [`uredba/2026/1458/`](uredba/2026/1458/) | in force | 1 | 2026-10-27 | 2026-10-27 |
 | Uredba o izmjeni Uredbe o visini trošarine na energente i električnu energiju | [`uredba/2026/1488/`](uredba/2026/1488/) | in force | 1 | 2026-11-03 | 2026-11-03 |
 
-## zakon (2874, of which 1563 amending acts)
+## zakon (2924, of which 1569 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -29999,34 +30249,84 @@
 | Zakon o izmjenama i dopunama Zakona o ugostiteljskoj i turističkoj djelatnosti | [`zakon/1993/786/`](zakon/1993/786/) | amending act | 1 | 1993-05-20 | 1993-05-20 |
 | Ukaz o proglašenju Zakona o dopuni Zakona o prodaji stanova na kojima postoji stanarsko pravo | [`zakon/1993/936/`](zakon/1993/936/) | amending act | 1 | 1993-06-01 | 1993-06-01 |
 | Ukaz o proglašenju Zakona o izmjenama i dopunama Zakona o obrani | [`zakon/1993/945/`](zakon/1993/945/) | amending act | 1 | 1993-05-26 | 1993-05-26 |
+| Zakon o Državnom sudbenom vijeću | [`zakon/1993/1159/`](zakon/1993/1159/) | repealed, not consolidated | 1 | 1993-06-26 | 1993-06-26 |
+| Zakon o mjernim jedinicama | [`zakon/1993/1160/`](zakon/1993/1160/) | cited later, not consolidated | 1 | 1993-06-26 | 1993-06-26 |
+| Zakon o zaštiti od požara | [`zakon/1993/1161/`](zakon/1993/1161/) | repealed, not consolidated | 1 | 1993-06-26 | 1993-06-26 |
+| Zakon o vatrogastvu | [`zakon/1993/1162/`](zakon/1993/1162/) | amended, not consolidated | 1 | 1993-06-26 | 1993-06-26 |
 | Zakon o izmjenama Zakona o poduzećima | [`zakon/1993/1163/`](zakon/1993/1163/) | in force | 1 | 1993-06-26 | 1993-06-26 |
+| Zakon o izmjenama i dopunama Zakona o autorskom pravu | [`zakon/1993/1164/`](zakon/1993/1164/) | amended, not consolidated | 1 | 1993-06-26 | 1993-06-26 |
 | Zakon o dopuni Zakona o utvrđivanju plaće i drugih primanja dužnosnika | [`zakon/1993/1165/`](zakon/1993/1165/) | amending act | 1 | 1993-06-18 | 1993-06-18 |
 | Zakon o izmjenama zakona koji sadrže nazivlje javno tužilaštvo | [`zakon/1993/1167/`](zakon/1993/1167/) | in force | 1 | 1993-06-26 | 1993-06-26 |
 | Zakon o prestanku važenja Zakona o uređenju imovinskih odnosa nastalih samovlasnim zauzećem (uzurpacijom) zemljišta u općenarodnoj imovini | [`zakon/1993/1168/`](zakon/1993/1168/) | in force | 1 | 1993-06-26 | 1993-06-26 |
 | Zakon o izmjenama i dopunama Zakona o sudskim taksama | [`zakon/1993/1311/`](zakon/1993/1311/) | amending act | 1 | 1993-07-17 | 1993-07-17 |
+| Zakon o državnoj reviziji | [`zakon/1993/1437/`](zakon/1993/1437/) | repealed, not consolidated | 1 | 1993-07-20 | 1993-07-20 |
 | Zakon o dopunama Zakona o stambenim odnosima | [`zakon/1993/1438/`](zakon/1993/1438/) | amending act | 1 | 1993-07-20 | 1993-07-20 |
+| Zakon o izmjeni i dopuni Zakona o Hrvatskom fondu za privatizaciju | [`zakon/1993/1439/`](zakon/1993/1439/) | amended, not consolidated | 1 | 1993-07-20 | 1993-07-20 |
 | Zakon o izmjenama i dopunama Zakona o pretvorbi i organiziranju poduzeća u komunalnim djelatnostima i djelatnostima uređenja naselja i prostora, prijevoza putnika u gradskom i prigradskom prometu i dj | [`zakon/1993/1440/`](zakon/1993/1440/) | amending act | 1 | 1993-07-20 | 1993-07-20 |
 | Zakon o dopuni Zakona o zabrani prijenosa prava raspolaganja i korištenja određenih nekretnina u društvenom vlasništvu na druge korisnike odnosno u vlasništvo fizičkih i pravnih osoba | [`zakon/1993/1441/`](zakon/1993/1441/) | amending act | 1 | 1993-07-20 | 1993-07-20 |
+| Zakon o zaštiti znaka i naziva Crvenog križa | [`zakon/1993/1536/`](zakon/1993/1536/) | cited later, not consolidated | 1 | 1993-08-21 | 1993-08-21 |
+| Zakon o sustavu državne uprave | [`zakon/1993/1538/`](zakon/1993/1538/) | repealed, not consolidated | 1 | 1993-08-21 | 1993-08-21 |
+| Zakon o Poreznoj upravi | [`zakon/1993/1539/`](zakon/1993/1539/) | repealed, not consolidated | 1 | 1993-08-21 | 1993-08-21 |
+| Zakon o ustanovama | [`zakon/1993/1548/`](zakon/1993/1548/) | amended, not consolidated | 1 | 1993-08-24 | 1993-08-24 |
+| Zakon o tehničkoj kulturi | [`zakon/1993/1549/`](zakon/1993/1549/) | amended, not consolidated | 1 | 1993-08-24 | 1993-08-24 |
+| Zakon o političkim strankama | [`zakon/1993/1550/`](zakon/1993/1550/) | amended, not consolidated | 1 | 1993-08-24 | 1993-08-24 |
+| Zakon o nadzoru predmeta od plemenitih kovina | [`zakon/1993/1551/`](zakon/1993/1551/) | repealed, not consolidated | 1 | 1993-08-24 | 1993-08-24 |
 | Zakon o ovlasti Hrvatskog fonda za privatizaciju da preuzme i podmiri dio duga Republičkog fonda zdravstvenog osiguranja i zdravstva Hrvatske | [`zakon/1993/1552/`](zakon/1993/1552/) | in force | 1 | 1993-08-16 | 1993-08-16 |
 | Zakon o izmjenama i dopunama Zakona o privremenom korištenju stanova | [`zakon/1993/1553/`](zakon/1993/1553/) | amending act | 1 | 1993-08-24 | 1993-08-24 |
+| Zakon o dopuni Zakona o Hrvatskoj kreditnoj banci za obnovu | [`zakon/1993/1554/`](zakon/1993/1554/) | amended, not consolidated | 1 | 1993-08-24 | 1993-08-24 |
+| Zakon o izmjenama i dopunama Zakona o šumama | [`zakon/1993/1555/`](zakon/1993/1555/) | amending act | 1 | 1993-08-24 | 1993-08-24 |
 | Zakon o dopunama Zakona o fondovima u stambenom i komunalnom gospodarstvu | [`zakon/1993/1556/`](zakon/1993/1556/) | amending act | 1 | 1993-08-24 | 1993-08-24 |
+| Zakon o izmjenama i dopunama Zakona o pravima bivših političkih zatvorenika | [`zakon/1993/1557/`](zakon/1993/1557/) | amending act | 1 | 1993-08-16 | 1993-08-16 |
+| Zakon o izmjeni Zakona o Gradu Zagrebu | [`zakon/1993/1558/`](zakon/1993/1558/) | in force | 1 | 1993-08-16 | 1993-08-16 |
 | Zakon o prestanku važenja Zakona o financijskom poslovanju | [`zakon/1993/1559/`](zakon/1993/1559/) | in force | 1 | 1993-08-16 | 1993-08-16 |
+| Zakon o izmjeni Zakona o Hrvatskom fondu za privatizaciju | [`zakon/1993/1560/`](zakon/1993/1560/) | amended, not consolidated | 1 | 1993-08-16 | 1993-08-16 |
+| Zakon o obrtu | [`zakon/1993/1591/`](zakon/1993/1591/) | repealed, not consolidated | 1 | 1993-08-28 | 1993-08-28 |
+| Zakon o javnom bilježništvu | [`zakon/1993/1599/`](zakon/1993/1599/) | amended, not consolidated | 1 | 1993-09-02 | 1993-09-02 |
+| Zakon o izmjenama Zakona o Narodnoj banci Hrvatske | [`zakon/1993/1607/`](zakon/1993/1607/) | in force | 1 | 1993-09-07 | 1993-09-07 |
 | Zakon o dokapitalizaciji "INA- Industrije nafte" d.d. | [`zakon/1993/1608/`](zakon/1993/1608/) | in force | 1 | 1993-09-07 | 1993-09-07 |
+| Zakon o izmjenama i dopunama Zakona o poljoprivrednom zemljištu | [`zakon/1993/1609/`](zakon/1993/1609/) | amended, not consolidated | 1 | 1993-09-07 | 1993-09-07 |
+| Zakon o bankama i štedionicama | [`zakon/1993/1803/`](zakon/1993/1803/) | amended, not consolidated | 1 | 1993-10-28 | 1993-10-28 |
+| Zakon o ovlasti Vlade Republike Hrvatske da uredbama uređuje pojedina pitanja iz djelokruga Zastupničkog doma Sabora Republike Hrvatske | [`zakon/1993/1804/`](zakon/1993/1804/) | replaced, not consolidated | 1 | 1993-10-28 | 1993-10-28 |
 | Zakon o prihvaćanju članstva Republike Hrvatske u Inter-američkoj banci za razvoj | [`zakon/1993/1805/`](zakon/1993/1805/) | in force | 1 | 1993-10-20 | 1993-10-20 |
+| Zakon o posebnoj pristojbi na uvezenu robu | [`zakon/1993/1806/`](zakon/1993/1806/) | in force | 1 | 1993-10-28 | 1993-10-28 |
+| Zakon o izmjenama Zakona o lokalnoj samoupravi i upravi | [`zakon/1993/1808/`](zakon/1993/1808/) | amended, not consolidated | 1 | 1993-10-28 | 1993-10-28 |
+| Zakon o izmjenama i dopunama Zakona o ustrojstvu i djelokrugu ministarstava i drugih organa državne uprave | [`zakon/1993/1809/`](zakon/1993/1809/) | amending act | 1 | 1993-10-28 | 1993-10-28 |
 | Zakon o izmjeni Zakona o sustavu kontrole cijena | [`zakon/1993/1810/`](zakon/1993/1810/) | in force | 1 | 1993-10-20 | 1993-10-20 |
 | Zakon o izmjenama i dopuni Zakona o slobodnim zonama | [`zakon/1993/1811/`](zakon/1993/1811/) | amending act | 1 | 1993-10-20 | 1993-10-20 |
+| Zakon o dopuni Zakona o pretvorbi društvenih poduzeća | [`zakon/1993/1812/`](zakon/1993/1812/) | amending act | 1 | 1993-10-20 | 1993-10-20 |
 | Zakon o dopuni Zakona o Hrvatskoj radio-televiziji | [`zakon/1993/1813/`](zakon/1993/1813/) | amending act | 1 | 1993-10-28 | 1993-10-28 |
+| Zakon o visokim učilištima | [`zakon/1993/1876/`](zakon/1993/1876/) | amended, not consolidated | 1 | 1993-11-02 | 1993-11-02 |
+| Zakon o znanstvenoistraživačkoj djelatnosti | [`zakon/1993/1877/`](zakon/1993/1877/) | amended, not consolidated | 1 | 1993-11-02 | 1993-11-02 |
+| Zakon o državnim maticama | [`zakon/1993/1878/`](zakon/1993/1878/) | amended, not consolidated | 1 | 1993-11-02 | 1993-11-02 |
+| Zakon o statusu prognanika i izbjeglica | [`zakon/1993/1879/`](zakon/1993/1879/) | amended, not consolidated | 1 | 1993-11-02 | 1993-11-02 |
+| Zakon o upravljanju ustanovama u kulturi i zaštiti spomenika kulture | [`zakon/1993/1880/`](zakon/1993/1880/) | in force | 1 | 1993-11-02 | 1993-11-02 |
 | Zakon o dodjeljivanju stalnih novčanih nadoknada zaslužnim osobama | [`zakon/1993/1882/`](zakon/1993/1882/) | in force | 1 | 1993-11-02 | 1993-11-02 |
 | Zakon o dopunama Zakona o mirovinskom i invalidskom osiguranju | [`zakon/1993/1883/`](zakon/1993/1883/) | amending act | 1 | 1993-10-25 | 1993-10-25 |
 | Zakon o dopunama Zakona o mirovinskom i invalidskom osiguranju individualnih poljoprivrednika | [`zakon/1993/1884/`](zakon/1993/1884/) | amending act | 1 | 1993-10-25 | 1993-10-25 |
+| Zakon o ostvarivanju prava iz mirovinskog i invalidskog osiguranja pripadnika bivše JNA | [`zakon/1993/1885/`](zakon/1993/1885/) | cited later, not consolidated | 1 | 1993-11-02 | 1993-11-02 |
+| Zakon o isplati mirovina korisnicima koji su mirovinu ostvarili u republikama bivše Socijalističke Federativne Republike Jugoslavije | [`zakon/1993/1886/`](zakon/1993/1886/) | cited later, not consolidated | 1 | 1993-11-02 | 1993-11-02 |
+| Zakon o upravnim pristojbama | [`zakon/1993/1888/`](zakon/1993/1888/) | amended, not consolidated | 1 | 1993-11-03 | 1993-11-03 |
+| Zakon o prijevozu opasnih tvari | [`zakon/1993/1889/`](zakon/1993/1889/) | repealed, not consolidated | 1 | 1993-11-03 | 1993-11-03 |
+| Zakon o prometu i oporezivanju duhanskih prerađevina | [`zakon/1993/2029/`](zakon/1993/2029/) | amended, not consolidated | 1 | 1993-12-03 | 1993-12-03 |
 | Zakon o načinu i uvjetima podmirivanja obveza po kreditima međunarodnih financijskih organizacija odobrenim korisnicima iz Republike Hrvatske | [`zakon/1993/2031/`](zakon/1993/2031/) | in force | 1 | 1993-12-03 | 1993-12-03 |
 | Zakon o načinu likvidacije poslovanja glavnih filijala Jugobanke d.d. Beograd koje su poslovale na teritoriju Republike Hrvatske | [`zakon/1993/2032/`](zakon/1993/2032/) | in force | 1 | 1993-12-03 | 1993-12-03 |
+| Zakon o visini kamata na iznose poreza, doprinosa, pristojbi i drugih javnih prihoda koji nisu plaćeni u propisanom roku | [`zakon/1993/2033/`](zakon/1993/2033/) | in force | 1 | 1993-12-03 | 1993-12-03 |
+| Zakon o izmjenama i dopunama Carinskog zakona | [`zakon/1993/2035/`](zakon/1993/2035/) | amending act | 1 | 1993-12-03 | 1993-12-03 |
+| Zakon o porezu na dohodak | [`zakon/1993/2109/`](zakon/1993/2109/) | amended, not consolidated | 1 | 1993-12-15 | 1993-12-15 |
+| Zakon o porezu na dobit | [`zakon/1993/2110/`](zakon/1993/2110/) | amended, not consolidated | 1 | 1993-12-15 | 1993-12-15 |
+| Zakon o kreditiranju obnove ratom oštećenih i razrušenih stambenih i gospodarskih objekata | [`zakon/1993/2111/`](zakon/1993/2111/) | in force | 1 | 1993-12-15 | 1993-12-15 |
+| Zakon o osiguranju sredstava ostvarivanju prava i načinu isplate minimalnih plaća i naknada određenim fizičkim i pravnim osobama | [`zakon/1993/2112/`](zakon/1993/2112/) | repealed, not consolidated | 1 | 1993-12-15 | 1993-12-15 |
+| Zakon o provođenju rezolucija Vijeća sigurnosti Ujedinjenih naroda, u svezi sa sankcijama protiv tzv. SRJ (Srbije i Crne Gore) | [`zakon/1993/2114/`](zakon/1993/2114/) | in force | 1 | 1993-12-15 | 1993-12-15 |
 | Zakon o izmjeni i dopuni Zakona o neposrednim porezima | [`zakon/1993/2115/`](zakon/1993/2115/) | amending act | 1 | 1993-12-15 | 1993-12-15 |
 | Zakon o izmjenama i dopunama Zakona o osnivanju javnog hrvatskog poštanskog i telekomunikacijskog poduzeća | [`zakon/1993/2116/`](zakon/1993/2116/) | amending act | 1 | 1993-12-15 | 1993-12-15 |
+| Zakon o izmjenama i dopuni Zakona o boravišnoj pristojbi | [`zakon/1993/2117/`](zakon/1993/2117/) | amended, not consolidated | 1 | 1993-12-15 | 1993-12-15 |
+| Zakon o izmjenama i dopunama Zakona o članarinama u turističkim zajednicama | [`zakon/1993/2118/`](zakon/1993/2118/) | amended, not consolidated | 1 | 1993-12-15 | 1993-12-15 |
 | Zakon o izmjenama Zakona o hrvatskim željeznicama | [`zakon/1993/2120/`](zakon/1993/2120/) | in force | 1 | 1993-12-15 | 1993-12-15 |
 | Zakon o izmjeni Zakona o zračnoj plovidbi | [`zakon/1993/2121/`](zakon/1993/2121/) | in force | 1 | 1993-12-15 | 1993-12-15 |
+| Zakon o izmjenama i dopunama Zakona o cestama | [`zakon/1993/2122/`](zakon/1993/2122/) | amending act | 1 | 1993-12-15 | 1993-12-15 |
 | Zakon o dopunama Zakona o morskom ribarstvu | [`zakon/1993/2123/`](zakon/1993/2123/) | amending act | 1 | 1993-12-15 | 1993-12-15 |
 | Zakon o izmjenama i dopunama Zakona o vanjskotrgovinskom poslovanju | [`zakon/1993/2124/`](zakon/1993/2124/) | amending act | 1 | 1993-12-15 | 1993-12-15 |
+| Zakon o financiranju jedinica lokalne samouprave i uprave | [`zakon/1993/2276/`](zakon/1993/2276/) | repealed, not consolidated | 1 | 1993-12-31 | 1993-12-31 |
 | Zakon o plaćanju doprinosa za mirovinsko i invalidsko osiguranje samostalnih privrednika u 1994. godini | [`zakon/1993/2280/`](zakon/1993/2280/) | in force | 1 | 1993-12-31 | 1993-12-31 |
 | Zakon o plaćanju doprinosa za doplatak za djecu u 1994. godini | [`zakon/1993/2282/`](zakon/1993/2282/) | in force | 1 | 1993-12-31 | 1993-12-31 |
 | NN 91A/93 - Zakon o osnovama deviznog sustava, deviznog poslovanja i prometu zlata | [`zakon/1993/17711/`](zakon/1993/17711/) | in force | 1 | 1993-10-19 | 1993-10-19 |

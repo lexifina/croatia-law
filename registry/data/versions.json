@@ -11102,6 +11102,36 @@
    ]
   },
   {
+   "slug": "pravilnik-1993-475",
+   "path": "pravilnik/1993/475",
+   "short": "Pravilnik o utvrđivanju i rješavanju povreda državne granice",
+   "title": "Pravilnik o utvrđivanju i rješavanju povreda državne granice",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1993/27/475",
+   "versions": [
+    {
+     "from": "1993-04-06",
+     "units": 25,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1993_04_27_475.html",
+     "sha256": "eac8ba884974940f99336fd755d23ed44809dcd75ff018f408e3de7bf659957b"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-1993-476",
+   "path": "pravilnik/1993/476",
+   "short": "Pravilnik o obliku i sadržaju putnog lista za domaćeg prijevoznika",
+   "title": "Pravilnik o obliku i sadržaju putnog lista za domaćeg prijevoznika",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1993/27/476",
+   "versions": [
+    {
+     "from": "1993-04-14",
+     "units": 11,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1993_04_27_476.html",
+     "sha256": "b555cb22bfdedbeef095c0d9f55874617f577fa9d402b05ffa09fe667f47fa21"
+    }
+   ]
+  },
+  {
    "slug": "pravilnik-1993-51",
    "path": "pravilnik/1993/51",
    "short": "Rješenje o izmjenama i dopunama Pravilnika o ostvarivanju socijalne zaštite",
@@ -11132,6 +11162,171 @@
    ]
   },
   {
+   "slug": "pravilnik-1993-587",
+   "path": "pravilnik/1993/587",
+   "short": "Pravilnik o diplomatskim i službenim putovnicama i vizama Republike Hrvatske",
+   "title": "Pravilnik o diplomatskim i službenim putovnicama i vizama Republike Hrvatske",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1993/32/587",
+   "versions": [
+    {
+     "from": "1993-04-25",
+     "units": 29,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1993_04_32_587.html",
+     "sha256": "1e52948af2bb8495995c5bed6520f2685ae1e6e13b18af0d53cac13de4257fa5"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-1993-629",
+   "path": "pravilnik/1993/629",
+   "short": "Pravilnik o visini, načinu i rokovima usklađivanja mirovina i drugih novčanih primanja iz mirovinskog i invalidskog osiguranja",
+   "title": "Pravilnik o visini, načinu i rokovima usklađivanja mirovina i drugih novčanih primanja iz mirovinskog i invalidskog osiguranja",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1993/35/629",
+   "versions": [
+    {
+     "from": "1993-05-04",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1993_04_35_629.html",
+     "sha256": "6e5071941b40d64fba876fd8fd28c04e86d6cae7cb05ad6c6ed5e655869af945"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-1993-648",
+   "path": "pravilnik/1993/648",
+   "short": "Pravilnik o visini, načinu i rokovima usklađivanja mirovina i drugih novčanih primanja iz mirovinskog i invalidskog osiguranja",
+   "title": "Pravilnik o visini, načinu i rokovima usklađivanja mirovina i drugih novčanih primanja iz mirovinskog i invalidskog osiguranja",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1993/35/648",
+   "versions": [
+    {
+     "from": "1993-05-04",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1993_04_35_648.html",
+     "sha256": "6502fa0606627ddd10857862850666fa22bb4a768a0d76d81d71fc5f1b09ff27"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-1993-681",
+   "path": "pravilnik/1993/681",
+   "short": "Pravilnik o načinu vođenja evidencije o dolascima na autobusni kolodvor i polascima s autobusnog kolodvora autobusa u linijskom i slobodnom cestovnom prometu",
+   "title": "Pravilnik o načinu vođenja evidencije o dolascima na autobusni kolodvor i polascima s autobusnog kolodvora autobusa u linijskom i slobodnom cestovnom prometu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1993/37/681",
+   "versions": [
+    {
+     "from": "1993-05-07",
+     "units": 9,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1993_04_37_681.html",
+     "sha256": "5fbdc268546d32949512d12ccd3ee9638f95aaf05440328b11ce4b81657c94da"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-1993-682",
+   "path": "pravilnik/1993/682",
+   "short": "Pravilnik o izradi daljinara i minimalnog voznog vremena",
+   "title": "Pravilnik o izradi daljinara i minimalnog voznog vremena",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1993/37/682",
+   "versions": [
+    {
+     "from": "1993-05-07",
+     "units": 18,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1993_04_37_682.html",
+     "sha256": "3906eac68369066c136ed7aab09ae25ea631396d31de79f3b3173af0770a1324"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-1993-683",
+   "path": "pravilnik/1993/683",
+   "short": "Pravilnik o stručnoj spremi, obrascu iskaznice i oznaci inspektora cestovnog prometa i cesta",
+   "title": "Pravilnik o stručnoj spremi, obrascu iskaznice i oznaci inspektora cestovnog prometa i cesta",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1993/37/683",
+   "versions": [
+    {
+     "from": "1993-05-07",
+     "units": 17,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1993_04_37_683.html",
+     "sha256": "68f7eef98078efa868e9e7f1f1da4216c76f5ff9d2df38e6674e5422c19794cd"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-1993-695",
+   "path": "pravilnik/1993/695",
+   "short": "Pravilnik o načinu i uvjetima prema kojima se može povratiti plaćeni porez na promet određenih proizvoda što ih strane fizičke osobe kupuju i iznose iz Republike Hrvatske",
+   "title": "Pravilnik o načinu i uvjetima prema kojima se može povratiti plaćeni porez na promet određenih proizvoda što ih strane fizičke osobe kupuju i iznose iz Republike Hrvatske",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1993/38/695",
+   "versions": [
+    {
+     "from": "1993-05-01",
+     "units": 15,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1993_05_38_695.html",
+     "sha256": "c54a68304cf7fa0e36c132da0b94e9f498354407b22926e802d709391de38216"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-1993-705",
+   "path": "pravilnik/1993/705",
+   "short": "Pravilnik o odori i oznakama školskih prometnih jedinica i prometnih jedinica mladeži",
+   "title": "Pravilnik o odori i oznakama školskih prometnih jedinica i prometnih jedinica mladeži",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1993/40/705",
+   "versions": [
+    {
+     "from": "1993-05-12",
+     "units": 18,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1993_05_40_705.html",
+     "sha256": "0f3f65550a184f835264bd5f9b29d8d98abbe5c9850703b9a645c3e86e2eafd7"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-1993-706",
+   "path": "pravilnik/1993/706",
+   "short": "Pravilnik o programu i načinu osposobljavanja i djelovanju školskih prometnih jedinica i prometnih jedinica mladeži",
+   "title": "Pravilnik o programu i načinu osposobljavanja i djelovanju školskih prometnih jedinica i prometnih jedinica mladeži",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1993/40/706",
+   "versions": [
+    {
+     "from": "1993-05-12",
+     "units": 15,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1993_05_40_706.html",
+     "sha256": "3797ca3b8abc3cf6e87281e064cb91f02b9ffc82293ef45172cea6b74c904647"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-1993-72",
+   "path": "pravilnik/1993/72",
+   "short": "Pravilnik o obrascu službene iskaznice inspektora",
+   "title": "Pravilnik o obrascu službene iskaznice inspektora",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1993/7/72",
+   "versions": [
+    {
+     "from": "1993-01-20",
+     "units": 11,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1993_01_7_72.html",
+     "sha256": "fa634c72f886d2f59fd0cb16b5f8cda9245a34e554e0abfad452b62d3992cf70"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-1993-75",
+   "path": "pravilnik/1993/75",
+   "short": "Pravilnik o čuvanju izbornog materijala za",
+   "title": "Pravilnik o čuvanju izbornog materijala za",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1993/7/75",
+   "versions": [
+    {
+     "from": "1993-01-28",
+     "units": 17,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1993_01_7_75.html",
+     "sha256": "4dc14d55de0e6b71b69e3c656849e15a0a594e93b95d162759f77026a3d01b93"
+    }
+   ]
+  },
+  {
    "slug": "pravilnik-1993-87",
    "path": "pravilnik/1993/87",
    "short": "Pravilnik o sastavu i načinu rada zdravstvene komisije za utvrđivanje sposobnosti radnika na poslovima ovlaštene službene osobe u Ministarstvu unutarnjih poslova i Ministarstvu pravosuđa i uprave",
@@ -11147,6 +11342,21 @@
    ]
   },
   {
+   "slug": "pravilnik-1993-89",
+   "path": "pravilnik/1993/89",
+   "short": "Pravilnik o programu i načinu provedbe osposobljavanja za držanje i nošenje i pravilnu uporabu vatrenog oružja",
+   "title": "Pravilnik o programu i načinu provedbe osposobljavanja za držanje i nošenje i pravilnu uporabu vatrenog oružja",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1993/8/89",
+   "versions": [
+    {
+     "from": "1993-01-23",
+     "units": 6,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1993_01_8_89.html",
+     "sha256": "a58717e0c97663f4578d7b86d7ef4a6977eff74a1dd2e5cb1551c35418934948"
+    }
+   ]
+  },
+  {
    "slug": "pravilnik-1993-90",
    "path": "pravilnik/1993/90",
    "short": "Pravilnik o posebnim uvjetima što ih moraju ispunjavati poslovne prostorije za proizvodnju oružja, promet oružja i streljiva, popravljanje i prepravljanje oružja, vođenje civilnih strelišta, te zaštit",
@@ -11158,6 +11368,51 @@
      "units": 57,
      "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1993_01_8_90.html",
      "sha256": "67a64436b62f8b38e551392e35228461ad5e3c01b30fa8b38d7ea8db5bfea0c9"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-1993-912",
+   "path": "pravilnik/1993/912",
+   "short": "Pravilnik o kontroli projekata",
+   "title": "Pravilnik o kontroli projekata",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1993/47/912",
+   "versions": [
+    {
+     "from": "1993-09-01",
+     "units": 32,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1993_05_47_912.html",
+     "sha256": "9321e304085856c9c1a5ecf4a14b42fdb366d5ad6869c94cd5c2cc7871a60da6"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-1993-913",
+   "path": "pravilnik/1993/913",
+   "short": "Pravilnik o stručnoj spremi odnosno stručnoj osposobljenosti za obavljanje stručnih poslova u športu",
+   "title": "Pravilnik o stručnoj spremi odnosno stručnoj osposobljenosti za obavljanje stručnih poslova u športu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1993/47/913",
+   "versions": [
+    {
+     "from": "1993-05-29",
+     "units": 12,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1993_05_47_913.html",
+     "sha256": "445cd7fc448dada6bfec1d2e4ed47afc918d4d1e1d9562ae8f613ef958216c42"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-1993-938",
+   "path": "pravilnik/1993/938",
+   "short": "Pravilnik o službenoj iskaznici inspektora sigurnosti željezničkog prometa",
+   "title": "Pravilnik o službenoj iskaznici inspektora sigurnosti željezničkog prometa",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1993/48/938",
+   "versions": [
+    {
+     "from": "1993-06-01",
+     "units": 13,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1993_05_48_938.html",
+     "sha256": "f161fe3028f908babf0dfcedd5ae4e96299c2046a6619574674eebe3f161e241"
     }
    ]
   },
@@ -11192,6 +11447,21 @@
    ]
   },
   {
+   "slug": "pravilnik-1993-950",
+   "path": "pravilnik/1993/950",
+   "short": "Pravilnik o obavljanju privrednoga i športskoga morskoga ribolova te zaštiti riba i drugih morskih životinja na području Velebitskoga kanala",
+   "title": "Pravilnik o obavljanju privrednoga i športskoga morskoga ribolova te zaštiti riba i drugih morskih životinja na području Velebitskoga kanala",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1993/49/950",
+   "versions": [
+    {
+     "from": "1993-06-03",
+     "units": 34,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1993_05_49_950.html",
+     "sha256": "510a9b41ad61dbec52a5817b58c1765a24809313a28b08e8ea25350b195bead4"
+    }
+   ]
+  },
+  {
    "slug": "pravilnik-1993-977",
    "path": "pravilnik/1993/977",
    "short": "Pravilnik o načinu i postupku ostvarivanja regresa dijela kamate na korištena sredstva za prioritetne namjene u poljoprivredi",
@@ -11207,6 +11477,21 @@
    ]
   },
   {
+   "slug": "pravilnik-1993-978",
+   "path": "pravilnik/1993/978",
+   "short": "Pravilnik o posebnim uvjetima glede motornog vozila kojim se obavlja javni prijevoz i prijevoz za vlastite potrebe",
+   "title": "Pravilnik o posebnim uvjetima glede motornog vozila kojim se obavlja javni prijevoz i prijevoz za vlastite potrebe",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1993/50/978",
+   "versions": [
+    {
+     "from": "1993-06-05",
+     "units": 16,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1993_05_50_978.html",
+     "sha256": "d6d58f6f0d8d90560b131b24407c59e71fefaa40e57a352e6c94d453a5b6aa7a"
+    }
+   ]
+  },
+  {
    "slug": "uputa-1993-1040",
    "path": "uputa/1993/1040",
    "short": "Uputa za primjenu Zakona o utvrđivanju ratne štete",
@@ -11218,6 +11503,81 @@
      "units": 4,
      "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1993_06_54_1040.html",
      "sha256": "fc9cc0db492ac2afff8c3b49224eea50ea0f17020632cecfd42ef8906103742b"
+    }
+   ]
+  },
+  {
+   "slug": "uputa-1993-149",
+   "path": "uputa/1993/149",
+   "short": "Uputa za provođenje Uredbe o plaćama",
+   "title": "Uputa za provođenje Uredbe o plaćama",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1993/10/149",
+   "versions": [
+    {
+     "from": "1993-02-01",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1993_02_10_149.html",
+     "sha256": "d923bf9cd0543cb3e8de050005e15b108cb707efe8fe034d73758f958c479578"
+    }
+   ]
+  },
+  {
+   "slug": "uputa-1993-1520",
+   "path": "uputa/1993/1520",
+   "short": "Uputu o provođenju Programa statističkih istraživanja Republike Hrvatske u dijelu koji se odnosi na plaće",
+   "title": "Uputu o provođenju Programa statističkih istraživanja Republike Hrvatske u dijelu koji se odnosi na plaće",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1993/73/1520",
+   "versions": [
+    {
+     "from": "1993-07-30",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1993_07_73_1520.html",
+     "sha256": "1099fb6b920967db0b7c1258cbe596ad0616595ec3bd10cf8adab2af27fa82b9"
+    }
+   ]
+  },
+  {
+   "slug": "uputa-1993-1747",
+   "path": "uputa/1993/1747",
+   "short": "Uputa za primjenu Uredbe o plaćama",
+   "title": "Uputa za primjenu Uredbe o plaćama",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1993/89/1747",
+   "versions": [
+    {
+     "from": "1993-10-04",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1993_10_89_1747.html",
+     "sha256": "05efbbfe5c82cd90d51a852097fb28942d427ac05357d48ee56dbf83bf4f8e1f"
+    }
+   ]
+  },
+  {
+   "slug": "uputa-1993-1944",
+   "path": "uputa/1993/1944",
+   "short": "Uputa za primjenu Uredbe o plaćama i Uredbe o dopuni Uredbe o plaćama",
+   "title": "Uputa za primjenu Uredbe o plaćama i Uredbe o dopuni Uredbe o plaćama",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1993/100/1944",
+   "versions": [
+    {
+     "from": "1993-11-03",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1993_11_100_1944.html",
+     "sha256": "64000a949ffb625e2e0e031c1c250a19d0ca420ce39e2e972e25c732e3722e0d"
+    }
+   ]
+  },
+  {
+   "slug": "uputa-1993-2255",
+   "path": "uputa/1993/2255",
+   "short": "Uputa za primjenu Uredbe o plaćama",
+   "title": "Uputa za primjenu Uredbe o plaćama",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1993/116/2255",
+   "versions": [
+    {
+     "from": "1993-12-30",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1993_12_116_2255.html",
+     "sha256": "ac3239b5b073772c4d4e458bb0f1e11ea0db65d5ad9fc6fa753928da797583f3"
     }
    ]
   },
@@ -11297,6 +11657,111 @@
    ]
   },
   {
+   "slug": "uredba-1993-1038",
+   "path": "uredba/1993/1038",
+   "short": "Uredba o osiguravanju sredstava, ostvarivanju prava i načinu isplate minimalnih plaća i naknada određenim fizičkim i pravnim osobama",
+   "title": "Uredba o osiguravanju sredstava, ostvarivanju prava i načinu isplate minimalnih plaća i naknada određenim fizičkim i pravnim osobama",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1993/54/1038",
+   "versions": [
+    {
+     "from": "1993-06-07",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1993_06_54_1038.html",
+     "sha256": "72b7618a75e5a58bbc948b33391a3efc1fe401bd98057baea96241f108ec08e8"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-1993-1039",
+   "path": "uredba/1993/1039",
+   "short": "Uredba o oslobađanju plaćanja naknade za promjenu namjene poljoprivrednoga zemljišta",
+   "title": "Uredba o oslobađanju plaćanja naknade za promjenu namjene poljoprivrednoga zemljišta",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1993/54/1039",
+   "versions": [
+    {
+     "from": "1993-06-07",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1993_06_54_1039.html",
+     "sha256": "94dbeae15fe68a156bd8bdf6a7d34bac974bf6693df743ffa6ca14a30ecada72"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-1993-109",
+   "path": "uredba/1993/109",
+   "short": "Uredba o plaćama",
+   "title": "Uredba o plaćama",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1993/9/109",
+   "versions": [
+    {
+     "from": "1993-01-29",
+     "units": 11,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1993_01_9_109.html",
+     "sha256": "94e5c360dfa4c2d9c0d7f09c542b257d8a0349592b135e52e3743d5846ffdc4f"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-1993-1135",
+   "path": "uredba/1993/1135",
+   "short": "Uredba o znacima državne pripadnosti zrakoplova",
+   "title": "Uredba o znacima državne pripadnosti zrakoplova",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1993/56/1135",
+   "versions": [
+    {
+     "from": "1993-06-13",
+     "units": 6,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1993_06_56_1135.html",
+     "sha256": "4504c0d46f3cd74736c3680b43c38f59f3fd99d3b1435b71b61095f67f3b6052"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-1993-1136",
+   "path": "uredba/1993/1136",
+   "short": "Uredba o izmjeni i dopuni Zakona o hrvatskim željeznicama",
+   "title": "Uredba o izmjeni i dopuni Zakona o hrvatskim željeznicama",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1993/56/1136",
+   "versions": [
+    {
+     "from": "1993-06-13",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1993_06_56_1136.html",
+     "sha256": "54f264da2a6dee7a11f263a374b2aba414a2f7265c35b0801db6a1150c20269b"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-1993-1137",
+   "path": "uredba/1993/1137",
+   "short": "Uredba o izmjenama i dopunama Zakona o cestama",
+   "title": "Uredba o izmjenama i dopunama Zakona o cestama",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1993/56/1137",
+   "versions": [
+    {
+     "from": "1993-06-13",
+     "units": 10,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1993_06_56_1137.html",
+     "sha256": "6d894b88802430da4589c8ec0a4917ee5c3a4473178aa0f00f94b8552e86cf31"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-1993-1138",
+   "path": "uredba/1993/1138",
+   "short": "Uredba o izmjeni i dopuni Zakona o osnivanju javnog hrvatskog poštanskog i telekomunikacijskog poduzeća",
+   "title": "Uredba o izmjeni i dopuni Zakona o osnivanju javnog hrvatskog poštanskog i telekomunikacijskog poduzeća",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1993/56/1138",
+   "versions": [
+    {
+     "from": "1993-06-13",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1993_06_56_1138.html",
+     "sha256": "07918c99702557214989a6e859837b1bbb308ff95f7cd45e3fd06402d6c6e572"
+    }
+   ]
+  },
+  {
    "slug": "uredba-1993-1139",
    "path": "uredba/1993/1139",
    "short": "Uredba o otpisu dugotrajne imovine koji se kao amortizacija priznaje u porezni rashod",
@@ -11312,6 +11777,201 @@
    ]
   },
   {
+   "slug": "uredba-1993-1148",
+   "path": "uredba/1993/1148",
+   "short": "Uredba o izmjenama i dopunama Zakona o porezu na promet proizvoda i usluga",
+   "title": "Uredba o izmjenama i dopunama Zakona o porezu na promet proizvoda i usluga",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1993/57/1148",
+   "versions": [
+    {
+     "from": "1993-06-16",
+     "units": 8,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1993_06_57_1148.html",
+     "sha256": "a8f991d7af2bfe86423fae368d1f9c19f5df2fabbe8321f79de4b422487b5eac"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-1993-1149",
+   "path": "uredba/1993/1149",
+   "short": "Uredba o izmjeni Zakona o prestanku važenja Zakona o izdvajanju i raspoređivanju sredstava za zadovoljavanje stambenih potreba",
+   "title": "Uredba o izmjeni Zakona o prestanku važenja Zakona o izdvajanju i raspoređivanju sredstava za zadovoljavanje stambenih potreba",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1993/57/1149",
+   "versions": [
+    {
+     "from": "1993-06-16",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1993_06_57_1149.html",
+     "sha256": "f5eec30ee7d1ad383b74066ff668b9e8f335a8550629201ca2d23d53ddfa6e26"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-1993-1169",
+   "path": "uredba/1993/1169",
+   "short": "Uredba o pretvaranju deviznih depozita građana u javni dug Republike Hrvatske",
+   "title": "Uredba o pretvaranju deviznih depozita građana u javni dug Republike Hrvatske",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1993/58/1169",
+   "versions": [
+    {
+     "from": "1993-06-18",
+     "units": 20,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1993_06_58_1169.html",
+     "sha256": "1a7b66bedccccc50c3dcb80f47ec33dfa50634dfb6089f9b99cdcb77f7183c58"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-1993-1170",
+   "path": "uredba/1993/1170",
+   "short": "Uredba o korištenju sredstava za subvencioniranje stanarine i podstanarine",
+   "title": "Uredba o korištenju sredstava za subvencioniranje stanarine i podstanarine",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1993/58/1170",
+   "versions": [
+    {
+     "from": "1993-06-18",
+     "units": 6,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1993_06_58_1170.html",
+     "sha256": "6e63b04b4e8affbcde68cc2ce8dbb11af538b27116b5017a412f9c53697c7a6f"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-1993-1171",
+   "path": "uredba/1993/1171",
+   "short": "Uredba o korištenju sredstava amortizacije stanova i stambenih zgrada",
+   "title": "Uredba o korištenju sredstava amortizacije stanova i stambenih zgrada",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1993/58/1171",
+   "versions": [
+    {
+     "from": "1993-06-18",
+     "units": 6,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1993_06_58_1171.html",
+     "sha256": "1504e2bbc45f98b06e1ab4be7f5044d29234e33dcef066add7373e3c668c818a"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-1993-1172",
+   "path": "uredba/1993/1172",
+   "short": "Uredba o visini kamata na iznose poreza, doprinosa, taksa i drugih javnih prihoda koji nisu plaćeni u propisanom roku",
+   "title": "Uredba o visini kamata na iznose poreza, doprinosa, taksa i drugih javnih prihoda koji nisu plaćeni u propisanom roku",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1993/58/1172",
+   "versions": [
+    {
+     "from": "1993-06-18",
+     "units": 6,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1993_06_58_1172.html",
+     "sha256": "6541bb4fa398649bd2f52207f79a255e22e252cb3d452cee99cdf251dbe845c1"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-1993-1179",
+   "path": "uredba/1993/1179",
+   "short": "Uredba o izmjeni i dopuni Zakona o neposrednim porezima",
+   "title": "Uredba o izmjeni i dopuni Zakona o neposrednim porezima",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1993/59/1179",
+   "versions": [
+    {
+     "from": "1993-06-24",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1993_06_59_1179.html",
+     "sha256": "fc1d5ce3ca78a79eee3386ac2258e0259398ba24312d17e7c8b7bd326afe1cd4"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-1993-1180",
+   "path": "uredba/1993/1180",
+   "short": "Uredba o izmjeni Zakona o boravišnoj pristojbi",
+   "title": "Uredba o izmjeni Zakona o boravišnoj pristojbi",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1993/59/1180",
+   "versions": [
+    {
+     "from": "1993-06-24",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1993_06_59_1180.html",
+     "sha256": "63303869af4f76bf738339ddcb3bae6eb5a97053d46962fdbe70595c78ca34fc"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-1993-1181",
+   "path": "uredba/1993/1181",
+   "short": "Uredba o uvjetima i načinu održavanja likvidnosti u plaćanjima prema inozemstvu",
+   "title": "Uredba o uvjetima i načinu održavanja likvidnosti u plaćanjima prema inozemstvu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1993/59/1181",
+   "versions": [
+    {
+     "from": "1993-06-24",
+     "units": 22,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1993_06_59_1181.html",
+     "sha256": "4fc8f9be38a7cb4c1c83221390af363077abeb3472df1f8086c200f750bea5bd"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-1993-1182",
+   "path": "uredba/1993/1182",
+   "short": "Uredba o kreditima za obnovu ratom oštećenih i razrušenih stambenih i gospodarskih objekata",
+   "title": "Uredba o kreditima za obnovu ratom oštećenih i razrušenih stambenih i gospodarskih objekata",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1993/59/1182",
+   "versions": [
+    {
+     "from": "1993-06-24",
+     "units": 9,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1993_06_59_1182.html",
+     "sha256": "b7f95d1917e013265f47c663fc441daa7bc4c52698aae6fa969d2d4436f0ec91"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-1993-1183",
+   "path": "uredba/1993/1183",
+   "short": "Uredba o prostornom uređenju u ratom zahvaćenim područjima Republike Hrvatske",
+   "title": "Uredba o prostornom uređenju u ratom zahvaćenim područjima Republike Hrvatske",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1993/59/1183",
+   "versions": [
+    {
+     "from": "1993-06-24",
+     "units": 23,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1993_06_59_1183.html",
+     "sha256": "ce30adbc705b069a9a12cf8f8e32b91163d6c14931f7091a3c8ef1a111789fbf"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-1993-1184",
+   "path": "uredba/1993/1184",
+   "short": "Uredba o izvozu i uvozu robe od strane fizičkih osoba.",
+   "title": "Uredba o izvozu i uvozu robe od strane fizičkih osoba.",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1993/59/1184",
+   "versions": [
+    {
+     "from": "1993-06-24",
+     "units": 14,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1993_06_59_1184.html",
+     "sha256": "c05a01fc1f15093cfd774139e180ca80d42aed88d8042d986b5f0412153d08b1"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-1993-1216",
+   "path": "uredba/1993/1216",
+   "short": "Uredba o izmjenama i dopunama Carinskog zakona",
+   "title": "Uredba o izmjenama i dopunama Carinskog zakona",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1993/60/1216",
+   "versions": [
+    {
+     "from": "1993-06-26",
+     "units": 34,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1993_06_60_1216.html",
+     "sha256": "53652c413a58a9b90fa8792c2717fd8343c29217edcc10798e9caabc9cf6fd53"
+    }
+   ]
+  },
+  {
    "slug": "uredba-1993-1217",
    "path": "uredba/1993/1217",
    "short": "Uredba o redoslijedu plaćanja nepodmirenih obveza",
@@ -11323,6 +11983,51 @@
      "units": 11,
      "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1993_06_60_1217.html",
      "sha256": "ef917f6694580ff9d13ed2c88eb0787f577969dd6f7b0d1d07a3e9b9ef0732bf"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-1993-1218",
+   "path": "uredba/1993/1218",
+   "short": "Uredba o upravnim pristojbama",
+   "title": "Uredba o upravnim pristojbama",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1993/60/1218",
+   "versions": [
+    {
+     "from": "1993-06-26",
+     "units": 30,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1993_06_60_1218.html",
+     "sha256": "c78869b5c2874df844771aacba7db60c4b23fbd6d572a0566bc03f47e71bceaa"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-1993-123",
+   "path": "uredba/1993/123",
+   "short": "Uredba o Uredu za granice",
+   "title": "Uredba o Uredu za granice",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1993/10/123",
+   "versions": [
+    {
+     "from": "1993-02-01",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1993_02_10_123.html",
+     "sha256": "904abe8999fbbfdacda5841b25136ec4e0df7e403e91cd317ad9790b10d22fdb"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-1993-1280",
+   "path": "uredba/1993/1280",
+   "short": "Uredba o izmjeni Zakona o porezu na promet proizvoda i usluga",
+   "title": "Uredba o izmjeni Zakona o porezu na promet proizvoda i usluga",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1993/63/1280",
+   "versions": [
+    {
+     "from": "1993-07-02",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1993_07_63_1280.html",
+     "sha256": "0228f55d2da62ba10c776b27e9862a2025085abca24e9288fd7bd18085eeea65"
     }
    ]
   },
@@ -11357,6 +12062,51 @@
    ]
   },
   {
+   "slug": "uredba-1993-1504",
+   "path": "uredba/1993/1504",
+   "short": "Uredba o izmjenama i dopunama Zakona o porezu na promet proizvoda i usluga",
+   "title": "Uredba o izmjenama i dopunama Zakona o porezu na promet proizvoda i usluga",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1993/73/1504",
+   "versions": [
+    {
+     "from": "1993-07-30",
+     "units": 8,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1993_07_73_1504.html",
+     "sha256": "6cd2e95106ec214f2b0e51d6fa5c416540d58e16463f464a26201c5eae4d1076"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-1993-1505",
+   "path": "uredba/1993/1505",
+   "short": "Uredba o izmjenama i dopunama Zakona o članarinama u turističkim zajednicama",
+   "title": "Uredba o izmjenama i dopunama Zakona o članarinama u turističkim zajednicama",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1993/73/1505",
+   "versions": [
+    {
+     "from": "1993-07-30",
+     "units": 8,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1993_07_73_1505.html",
+     "sha256": "46a029ed99f45ea202445a2fca7a582d54741a723a37480e11c2d04f61d7b500"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-1993-1506",
+   "path": "uredba/1993/1506",
+   "short": "Uredba o izmjenama i dopunama Zakona o boravišnoj pristojbi",
+   "title": "Uredba o izmjenama i dopunama Zakona o boravišnoj pristojbi",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1993/73/1506",
+   "versions": [
+    {
+     "from": "1993-07-30",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1993_07_73_1506.html",
+     "sha256": "017461bd0d0f9a8aae41e0135de68ae088e6830f384009df7c1d8db70670ae66"
+    }
+   ]
+  },
+  {
    "slug": "uredba-1993-1507",
    "path": "uredba/1993/1507",
    "short": "Uredba o izmjenama Uredbe o izdacima za službena putovanja u inozemstvo, koji se korisnicima državnoga proračuna priznaju u materijalne troškove",
@@ -11368,6 +12118,81 @@
      "units": 7,
      "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1993_07_73_1507.html",
      "sha256": "39e8b4e177fdc8538976edbd8bbd85771e5b64e578229898dd866cf5cc6617ed"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-1993-157",
+   "path": "uredba/1993/157",
+   "short": "Uredba o ustroju i djelovanju sustava motrenja i obavješćivanja u Republici Hrvatskoj",
+   "title": "Uredba o ustroju i djelovanju sustava motrenja i obavješćivanja u Republici Hrvatskoj",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1993/11/157",
+   "versions": [
+    {
+     "from": "1993-02-03",
+     "units": 41,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1993_02_11_157.html",
+     "sha256": "be597e97512ea020829bec2610a8aa9a5fc4808a99d77102b5bf528612d2d712"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-1993-1600",
+   "path": "uredba/1993/1600",
+   "short": "Uredba o područjima na kojima će se koristiti sredstva ostvarena prema Zakonu o financiranju obnove, te o područjima na kojima će se primjenjivati poticajne mjere",
+   "title": "Uredba o područjima na kojima će se koristiti sredstva ostvarena prema Zakonu o financiranju obnove, te o područjima na kojima će se primjenjivati poticajne mjere",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1993/78/1600",
+   "versions": [
+    {
+     "from": "1993-08-25",
+     "units": 6,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1993_08_78_1600.html",
+     "sha256": "cc8f37428e180af4698ebc0235e2509efef1379301a8062745dc6530194f462c"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-1993-1648",
+   "path": "uredba/1993/1648",
+   "short": "Uredba o izmjenama Zakona o porezu na promet proizvoda i usluga",
+   "title": "Uredba o izmjenama Zakona o porezu na promet proizvoda i usluga",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1993/81/1648",
+   "versions": [
+    {
+     "from": "1993-09-03",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1993_09_81_1648.html",
+     "sha256": "1df0364b9f925983c51c7adb58c006296473ab0d59bcad166504b5518e036a98"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-1993-1657",
+   "path": "uredba/1993/1657",
+   "short": "Uredba o zaduženju Republike Hrvatske kod Narodne banke Hrvatske",
+   "title": "Uredba o zaduženju Republike Hrvatske kod Narodne banke Hrvatske",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1993/82/1657",
+   "versions": [
+    {
+     "from": "1993-09-08",
+     "units": 6,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1993_09_82_1657.html",
+     "sha256": "cb7016137bca1760038f5af0a2d9598dde15310e93c4cae3fd68ec2c62d78475"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-1993-1662",
+   "path": "uredba/1993/1662",
+   "short": "Uredba o mogućnosti korištenja kredita i zajmova kod javnih poduzeća i drugih pravnih osoba u državnom i pretežito državnom vlasništvu",
+   "title": "Uredba o mogućnosti korištenja kredita i zajmova kod javnih poduzeća i drugih pravnih osoba u državnom i pretežito državnom vlasništvu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1993/83/1662",
+   "versions": [
+    {
+     "from": "1993-09-10",
+     "units": 6,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1993_09_83_1662.html",
+     "sha256": "f442f4d3b583ed1764d35fd8e61412d9592cbbc03ef22ffe57aabd339bc470fc"
     }
    ]
   },
@@ -11387,6 +12212,111 @@
    ]
   },
   {
+   "slug": "uredba-1993-1739",
+   "path": "uredba/1993/1739",
+   "short": "Uredba o izmjenama i dopunama Zakona o porezu na promet proizvoda i usluga",
+   "title": "Uredba o izmjenama i dopunama Zakona o porezu na promet proizvoda i usluga",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1993/89/1739",
+   "versions": [
+    {
+     "from": "1993-10-04",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1993_10_89_1739.html",
+     "sha256": "8c58340ae86bdf30b894e56cd1e5e1ef56f71c958be141b4aa14ef4c007e0ed0"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-1993-1740",
+   "path": "uredba/1993/1740",
+   "short": "Uredba o izmjenama Carinskog zakona",
+   "title": "Uredba o izmjenama Carinskog zakona",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1993/89/1740",
+   "versions": [
+    {
+     "from": "1993-10-04",
+     "units": 6,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1993_10_89_1740.html",
+     "sha256": "96fb1d63977fdd9449ab3dae3035fe690943cd468fa3a84ede6b9cb12a1091a3"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-1993-1741",
+   "path": "uredba/1993/1741",
+   "short": "Uredba o dopuni Zakona o platnom prometu u zemlji",
+   "title": "Uredba o dopuni Zakona o platnom prometu u zemlji",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1993/89/1741",
+   "versions": [
+    {
+     "from": "1993-10-04",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1993_10_89_1741.html",
+     "sha256": "6554dc825dee77b3024781b6940f328baad9e0bdbd3f9d56e0203a6345dd0283"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-1993-1742",
+   "path": "uredba/1993/1742",
+   "short": "Uredba o plaćama",
+   "title": "Uredba o plaćama",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1993/89/1742",
+   "versions": [
+    {
+     "from": "1993-10-04",
+     "units": 9,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1993_10_89_1742.html",
+     "sha256": "a4228e1ff4a9b62e402882f8b31aae981af8800e71682352c5348e0b7d7f556f"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-1993-1743",
+   "path": "uredba/1993/1743",
+   "short": "Uredba o izmjeni Zakona o zdravstvenoj ispravnosti i zdravstvenom nadzoru nad namirnicama i predmetima opće uporabe",
+   "title": "Uredba o izmjeni Zakona o zdravstvenoj ispravnosti i zdravstvenom nadzoru nad namirnicama i predmetima opće uporabe",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1993/89/1743",
+   "versions": [
+    {
+     "from": "1993-10-04",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1993_10_89_1743.html",
+     "sha256": "90c1de9896be24a3ab96ff7b558e8cdf71b1add5c1d6638ddad5fb8e18b3fff5"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-1993-1749",
+   "path": "uredba/1993/1749",
+   "short": "Uredba o izmjenama Zakona o porezu na promet proizvoda i usluga",
+   "title": "Uredba o izmjenama Zakona o porezu na promet proizvoda i usluga",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1993/90/1749",
+   "versions": [
+    {
+     "from": "1993-10-04",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1993_10_90_1749.html",
+     "sha256": "57cb781d215200f4aa6a2af17cb0cd3342ee3aca94819de37a3e6cbeaa8eeb79"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-1993-1761",
+   "path": "uredba/1993/1761",
+   "short": "Uredba o prodaji efektivne strane valute domaćim fizičkim osobama",
+   "title": "Uredba o prodaji efektivne strane valute domaćim fizičkim osobama",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1993/91/1761",
+   "versions": [
+    {
+     "from": "1993-10-08",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1993_10_91_1761.html",
+     "sha256": "194c2a62bb1707930c91b396329c80eaeb1a5ffc330066ebaab891b232c46c6c"
+    }
+   ]
+  },
+  {
    "slug": "uredba-1993-1789",
    "path": "uredba/1993/1789",
    "short": "Uredba o ovlaštenju Upravnom odboru Službe društvenog knjigovodstva Hrvatske da donese Zaključni račun Službe društvenog knjigovodstva Hrvatske nakon prestanka važenja Zakona o Službi društvenog knjig",
@@ -11398,6 +12328,66 @@
      "units": 5,
      "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1993_10_92_1789.html",
      "sha256": "816d1e427e0a344631206525e6bd4c83ce52f9933787d0c0aed89bb5b4528b74"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-1993-1793",
+   "path": "uredba/1993/1793",
+   "short": "Uredba o utvrđivanju najviših iznosa mase sredstava za isplatu mirovina",
+   "title": "Uredba o utvrđivanju najviših iznosa mase sredstava za isplatu mirovina",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1993/93/1793",
+   "versions": [
+    {
+     "from": "1993-10-19",
+     "units": 6,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1993_10_93_1793.html",
+     "sha256": "7db52c5f81615ed1d2f0b8c7bd1e598447a76dbc07c4ac9b4de2884c1ef5787b"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-1993-1871",
+   "path": "uredba/1993/1871",
+   "short": "Uredba o obračunavanju, plaćanju i povratu poreza na promet pri izvozu i provozu određenih proizvoda u zemlje za koje je potreban pojačani carinski nadzor",
+   "title": "Uredba o obračunavanju, plaćanju i povratu poreza na promet pri izvozu i provozu određenih proizvoda u zemlje za koje je potreban pojačani carinski nadzor",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1993/95/1871",
+   "versions": [
+    {
+     "from": "1993-10-22",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1993_10_95_1871.html",
+     "sha256": "c7b8734ce727ad50f91d04f6a1d5d7e2c58219282da6af480958c1fd032a4c72"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-1993-1872",
+   "path": "uredba/1993/1872",
+   "short": "Uredba o visini stope zatezne kamate",
+   "title": "Uredba o visini stope zatezne kamate",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1993/95/1872",
+   "versions": [
+    {
+     "from": "1993-10-22",
+     "units": 6,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1993_10_95_1872.html",
+     "sha256": "90cc50b2f07de7157d9d953e848e7be7708107b92fcfc12e1695ee3612bf48a6"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-1993-1928",
+   "path": "uredba/1993/1928",
+   "short": "Uredba o nastavljanju važenja pravnoga sadržaja i učinka određenih uredbi Vlade Republike Hrvatske na temelju zakonske ovlasti",
+   "title": "Uredba o nastavljanju važenja pravnoga sadržaja i učinka određenih uredbi Vlade Republike Hrvatske na temelju zakonske ovlasti",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1993/100/1928",
+   "versions": [
+    {
+     "from": "1993-11-03",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1993_11_100_1928.html",
+     "sha256": "f30696fe3cfca825e27b3acc7c1b32a6a02b985a1e2f71a519fd2242b59ad4fc"
     }
    ]
   },
@@ -11417,6 +12407,21 @@
    ]
   },
   {
+   "slug": "uredba-1993-1930",
+   "path": "uredba/1993/1930",
+   "short": "Uredba o izmjeni Zakona o prestanku važenja Zakona o izdvajanju i raspoređivanju sredstava za zadovoljavanje stambenih potreba",
+   "title": "Uredba o izmjeni Zakona o prestanku važenja Zakona o izdvajanju i raspoređivanju sredstava za zadovoljavanje stambenih potreba",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1993/100/1930",
+   "versions": [
+    {
+     "from": "1993-11-03",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1993_11_100_1930.html",
+     "sha256": "778b32614c77b86f9a958c8f143fa9edcf27a4671a90dfa2322e75ecc912f510"
+    }
+   ]
+  },
+  {
    "slug": "uredba-1993-1931",
    "path": "uredba/1993/1931",
    "short": "Uredba o izmjeni Zakona o zdravstvenoj ispravnosti i zdravstvenom nadzoru nad namirnicama i predmetima opće uporabe",
@@ -11428,6 +12433,21 @@
      "units": 4,
      "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1993_11_100_1931.html",
      "sha256": "26b56a4d35151e6ae6a26deeb39c53f9bc5db399d2732f6f05306e3368b8b3c7"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-1993-1968",
+   "path": "uredba/1993/1968",
+   "short": "Uredba o izmjeni i dopuni Uredbe o nastavljanju važenja pravnoga sadržaja i učinka određenih uredbi Vlade Republike Hrvatske na temelju zakonske ovlasti",
+   "title": "Uredba o izmjeni i dopuni Uredbe o nastavljanju važenja pravnoga sadržaja i učinka određenih uredbi Vlade Republike Hrvatske na temelju zakonske ovlasti",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1993/102/1968",
+   "versions": [
+    {
+     "from": "1993-11-10",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1993_11_102_1968.html",
+     "sha256": "0ed8763551e7b77881b678183a21f35770e9ee13902c08e0426acc33e5a68ff4"
     }
    ]
   },
@@ -11473,6 +12493,96 @@
      "units": 5,
      "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1993_12_108_2105.html",
      "sha256": "b4bbefeb50df23a270933079c61d830c7c1e72aa4e719fe0fdc53e5fa6fbeee7"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-1993-2126",
+   "path": "uredba/1993/2126",
+   "short": "Uredba o evidencijskoj pristojbi pri prijenosu neotplaćenih dionica",
+   "title": "Uredba o evidencijskoj pristojbi pri prijenosu neotplaćenih dionica",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1993/110/2126",
+   "versions": [
+    {
+     "from": "1993-12-10",
+     "units": 11,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1993_12_110_2126.html",
+     "sha256": "87992e3ae90b38d5e32d14522dfb10ed0b7cd4a71690192b93d05dd2eb77199c"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-1993-2127",
+   "path": "uredba/1993/2127",
+   "short": "Uredba o revalorizaciji",
+   "title": "Uredba o revalorizaciji",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1993/110/2127",
+   "versions": [
+    {
+     "from": "1993-12-10",
+     "units": 11,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1993_12_110_2127.html",
+     "sha256": "807ff96e2e338094cc1f92d8331b7fbc16a2b58210723afc7d7478866d040b30"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-1993-2140",
+   "path": "uredba/1993/2140",
+   "short": "Uredba o računovodstvu neprofitnih organizacija",
+   "title": "Uredba o računovodstvu neprofitnih organizacija",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1993/112/2140",
+   "versions": [
+    {
+     "from": "1993-12-17",
+     "units": 25,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1993_12_112_2140.html",
+     "sha256": "356b6297b87195388eafe6655c2a8421b17f216be448747ee73d34021044f4f8"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-1993-218",
+   "path": "uredba/1993/218",
+   "short": "Uredba o izmjenama i dopunama Zakona o šumama",
+   "title": "Uredba o izmjenama i dopunama Zakona o šumama",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1993/14/218",
+   "versions": [
+    {
+     "from": "1993-02-15",
+     "units": 21,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1993_02_14_218.html",
+     "sha256": "393b411d173cded310c41c0aa862406f77b1a5b1a62455bb7f093a8d361e4742"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-1993-2191",
+   "path": "uredba/1993/2191",
+   "short": "Uredba o plaćama",
+   "title": "Uredba o plaćama",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1993/114/2191",
+   "versions": [
+    {
+     "from": "1993-12-24",
+     "units": 10,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1993_12_114_2191.html",
+     "sha256": "f5d7c7344a550f9ace5a4eef20288dd3b53b90a900ad93b735c0c87bc9f3a0e4"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-1993-2192",
+   "path": "uredba/1993/2192",
+   "short": "Uredba o utvrđivanju najviših iznosa mase sredstava za isplatu mirovina",
+   "title": "Uredba o utvrđivanju najviših iznosa mase sredstava za isplatu mirovina",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1993/114/2192",
+   "versions": [
+    {
+     "from": "1993-12-24",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1993_12_114_2192.html",
+     "sha256": "18fe5e0bc2d726df1834d5bc78fcaabcd5121f04e8f4f0d6b402bf9a0923d7d7"
     }
    ]
   },
@@ -11582,6 +12692,21 @@
    ]
   },
   {
+   "slug": "uredba-1993-252",
+   "path": "uredba/1993/252",
+   "short": "Uredba o zabrani raspolaganja zadružnom imovinom",
+   "title": "Uredba o zabrani raspolaganja zadružnom imovinom",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1993/16/252",
+   "versions": [
+    {
+     "from": "1993-02-25",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1993_02_16_252.html",
+     "sha256": "69e968417dde0102fc8b2e534484cb658564d9107be7d8bcf15b3bef2bfeb135"
+    }
+   ]
+  },
+  {
    "slug": "uredba-1993-275",
    "path": "uredba/1993/275",
    "short": "Uredba o akontacijama najniže osnovne i minimalne plaće za veljaču 1993. godine",
@@ -11593,6 +12718,36 @@
      "units": 6,
      "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1993_03_17_275.html",
      "sha256": "76bcbfec1472df55023c2fdfdb1ba65bf7b80f733d593828bd55fc5d80d14366"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-1993-276",
+   "path": "uredba/1993/276",
+   "short": "Uredba o plaćama",
+   "title": "Uredba o plaćama",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1993/17/276",
+   "versions": [
+    {
+     "from": "1993-03-03",
+     "units": 12,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1993_03_17_276.html",
+     "sha256": "a0258a4cf99ead3e6cd347f7f57cd316db8c01515f5b93dfc020c6d8d2851b2d"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-1993-277",
+   "path": "uredba/1993/277",
+   "short": "Uredba o snimanju iz zraka",
+   "title": "Uredba o snimanju iz zraka",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1993/17/277",
+   "versions": [
+    {
+     "from": "1993-03-11",
+     "units": 9,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1993_03_17_277.html",
+     "sha256": "f1f77d681525bd6e7ba6da51d675800aa4332e8a12005f648a62dd544fe20aa2"
     }
    ]
   },
@@ -11612,6 +12767,21 @@
    ]
   },
   {
+   "slug": "uredba-1993-298",
+   "path": "uredba/1993/298",
+   "short": "Uredba o izmjenama i dopunama Zakona o porezu na promet proizvoda i usluga",
+   "title": "Uredba o izmjenama i dopunama Zakona o porezu na promet proizvoda i usluga",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1993/19/298",
+   "versions": [
+    {
+     "from": "1993-03-08",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1993_03_19_298.html",
+     "sha256": "1f9db25050d695915498fbea0c0080a42512cfe1a80b00769b7b36b6004a4e55"
+    }
+   ]
+  },
+  {
    "slug": "uredba-1993-299",
    "path": "uredba/1993/299",
    "short": "Uredba o izmjenama i dopunama Uredbe o prometu i oporezivanju duhanskih prerađevina",
@@ -11623,6 +12793,51 @@
      "units": 11,
      "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1993_03_19_299.html",
      "sha256": "425079e503d71fdc134b239f94c35b26eb5c6fe2388d41702e577963a35e0406"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-1993-355",
+   "path": "uredba/1993/355",
+   "short": "Uredba o privremenom financiranju jedinica lokalne samouprave i uprave",
+   "title": "Uredba o privremenom financiranju jedinica lokalne samouprave i uprave",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1993/22/355",
+   "versions": [
+    {
+     "from": "1993-03-23",
+     "units": 16,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1993_03_22_355.html",
+     "sha256": "55aeb58869ae382a4eeb418df5c1f42c39118bc541a33080a44b9efb2969901b"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-1993-356",
+   "path": "uredba/1993/356",
+   "short": "Uredba o Agenciji za učinkovito korištenje i štednju energije",
+   "title": "Uredba o Agenciji za učinkovito korištenje i štednju energije",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1993/22/356",
+   "versions": [
+    {
+     "from": "1993-03-23",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1993_03_22_356.html",
+     "sha256": "23de23fb4373c789da494c871731051af4b058b65f01afcc6d03c3b36da288a3"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-1993-474",
+   "path": "uredba/1993/474",
+   "short": "Uredba o izmjeni Zakona o slobodnim zonama",
+   "title": "Uredba o izmjeni Zakona o slobodnim zonama",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1993/27/474",
+   "versions": [
+    {
+     "from": "1993-04-06",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1993_04_27_474.html",
+     "sha256": "4437cd9e9f1573d31ab6c132dc874bfa1042f856d19ebdc63acb60e234e142f6"
     }
    ]
   },
@@ -11657,6 +12872,21 @@
    ]
   },
   {
+   "slug": "uredba-1993-530",
+   "path": "uredba/1993/530",
+   "short": "Uredba o izmjeni i dopuni Zakona o premijama za određene proizvode u poljoprivredi i regresu dijela kamata za prioritetne namjene u poljoprivredi",
+   "title": "Uredba o izmjeni i dopuni Zakona o premijama za određene proizvode u poljoprivredi i regresu dijela kamata za prioritetne namjene u poljoprivredi",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1993/28/530",
+   "versions": [
+    {
+     "from": "1993-04-10",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1993_04_28_530.html",
+     "sha256": "9ea773d7d2fb49a0e5bdccdb35de99d21803cf68805da83a85e72723e63d4867"
+    }
+   ]
+  },
+  {
    "slug": "uredba-1993-531",
    "path": "uredba/1993/531",
    "short": "Uredba o izmjenama i dopunama Zakona o vodama",
@@ -11672,6 +12902,276 @@
    ]
   },
   {
+   "slug": "uredba-1993-545",
+   "path": "uredba/1993/545",
+   "short": "Uredba o podnošenju prijava po Zakonu o industrijskom vlasništvu",
+   "title": "Uredba o podnošenju prijava po Zakonu o industrijskom vlasništvu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1993/29/545",
+   "versions": [
+    {
+     "from": "1993-04-14",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1993_04_29_545.html",
+     "sha256": "dad06e1e6d3b372ccdaf68d1dae0fa8f5d225c888816fe537b6a8ac9ab7b672d"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-1993-588",
+   "path": "uredba/1993/588",
+   "short": "Uredba o obavljanju privrednoga morskoga ribolova",
+   "title": "Uredba o obavljanju privrednoga morskoga ribolova",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1993/33/588",
+   "versions": [
+    {
+     "from": "1993-04-20",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1993_04_33_588.html",
+     "sha256": "ca15678d4ccce653ba6a069ea7ec7c94022981183a6b39f3ab7e5c733caced06"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-1993-589",
+   "path": "uredba/1993/589",
+   "short": "Uredba o namjenskom iznosu za pokriće gubitaka Hrvatske elektroprivrede",
+   "title": "Uredba o namjenskom iznosu za pokriće gubitaka Hrvatske elektroprivrede",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1993/33/589",
+   "versions": [
+    {
+     "from": "1993-04-20",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1993_04_33_589.html",
+     "sha256": "41332ddfde9395c1b73cac6264b707c2c7047f5741260f9d4790f56c8103f464"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-1993-60",
+   "path": "uredba/1993/60",
+   "short": "Odluka o izmjeni Zakona o prestanku važenja Zakona o izdvajanju i raspoređivanju sredstava za zadovoljavanje stambenih potreba",
+   "title": "Odluka o izmjeni Zakona o prestanku važenja Zakona o izdvajanju i raspoređivanju sredstava za zadovoljavanje stambenih potreba",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1993/6/60",
+   "versions": [
+    {
+     "from": "1993-01-18",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1993_01_6_60.html",
+     "sha256": "54447e3c79d9f3f0eaf969cfea1e06207d0d282a261bde0b69ddcb8fa06e8a36"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-1993-61",
+   "path": "uredba/1993/61",
+   "short": "Uredba o izmjenama Uredbe o područjima na kojima će se koristiti sredstva ostvarena prema Zakonu o financiranju obnove, te o područjima na kojima će se primjenjivati poticajne mjere",
+   "title": "Uredba o izmjenama Uredbe o područjima na kojima će se koristiti sredstva ostvarena prema Zakonu o financiranju obnove, te o područjima na kojima će se primjenjivati poticajne mjere",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1993/6/61",
+   "versions": [
+    {
+     "from": "1993-01-18",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1993_01_6_61.html",
+     "sha256": "5ad5d2855e030061f6b38346d1572c2948dff3fe2e423a8f4bdba2c080363dbd"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-1993-691",
+   "path": "uredba/1993/691",
+   "short": "Uredba o provođenju rezolucija Vijeća sigurnosti Ujedinjenih naroda u svezi sankcija protiv Srbije i Crne Gore u području prometa roba i usluga, stranih ulaganja i turizma",
+   "title": "Uredba o provođenju rezolucija Vijeća sigurnosti Ujedinjenih naroda u svezi sankcija protiv Srbije i Crne Gore u području prometa roba i usluga, stranih ulaganja i turizma",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1993/38/691",
+   "versions": [
+    {
+     "from": "1993-05-01",
+     "units": 21,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1993_05_38_691.html",
+     "sha256": "1314f2c6f336c7638652d923ae0982cdb0eed68eb1e3799858e136842b4dacf6"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-1993-71",
+   "path": "uredba/1993/71",
+   "short": "Uredba o Uredu za projekt sukcesije",
+   "title": "Uredba o Uredu za projekt sukcesije",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1993/7/71",
+   "versions": [
+    {
+     "from": "1993-01-20",
+     "units": 10,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1993_01_7_71.html",
+     "sha256": "9fd941c499e08b989541634290eee481d548edb0eaf4a693716b8db6017629b3"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-1993-719",
+   "path": "uredba/1993/719",
+   "short": "Uredba o provođenju odredbe točke 12. Rezolucije Vijeća sigurnosti Ujedinjenih naroda 820 (1993)",
+   "title": "Uredba o provođenju odredbe točke 12. Rezolucije Vijeća sigurnosti Ujedinjenih naroda 820 (1993)",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1993/41/719",
+   "versions": [
+    {
+     "from": "1993-05-07",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1993_05_41_719.html",
+     "sha256": "87e21e45faf09a02601073e3e8c5e7f2516326739e523aaabc9c4d567fd265e6"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-1993-720",
+   "path": "uredba/1993/720",
+   "short": "Uredba o privremenom ukidanju carinskih i poreznih povlastica kod uvoza osobnih automobila",
+   "title": "Uredba o privremenom ukidanju carinskih i poreznih povlastica kod uvoza osobnih automobila",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1993/41/720",
+   "versions": [
+    {
+     "from": "1993-05-07",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1993_05_41_720.html",
+     "sha256": "bec5437202e4404e73f82d82fd2958c74d36bf5e7cfcd0335042720fab73f7af"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-1993-733",
+   "path": "uredba/1993/733",
+   "short": "Uredba o dopuni Uredbe o privremenom financiranju jedinica lokalne samouprave i uprave",
+   "title": "Uredba o dopuni Uredbe o privremenom financiranju jedinica lokalne samouprave i uprave",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1993/42/733",
+   "versions": [
+    {
+     "from": "1993-05-08",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1993_05_42_733.html",
+     "sha256": "969f620b0d8ede1dcc55ccce81a2831480c0ef0ba536ab4e89235a20a39ea70b"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-1993-893",
+   "path": "uredba/1993/893",
+   "short": "Uredba o Uredu za žrtve rata",
+   "title": "Uredba o Uredu za žrtve rata",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1993/46/893",
+   "versions": [
+    {
+     "from": "1993-05-17",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1993_05_46_893.html",
+     "sha256": "472d1f993604d1abd4a156fc5009bb130ee5dd1c2b9b8b3cde0a827dca3e7bf3"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-1993-894",
+   "path": "uredba/1993/894",
+   "short": "Uredba o osnivanju Komisije za zatočene i nestale",
+   "title": "Uredba o osnivanju Komisije za zatočene i nestale",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1993/46/894",
+   "versions": [
+    {
+     "from": "1993-05-17",
+     "units": 10,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1993_05_46_894.html",
+     "sha256": "204fc5bd4f0d751f696f233d59b71a9b868ec85d0f0850566b4b68c35c380a37"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-1993-898",
+   "path": "uredba/1993/898",
+   "short": "Uredba o određivanju ratom ugroženih područja",
+   "title": "Uredba o određivanju ratom ugroženih područja",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1993/47/898",
+   "versions": [
+    {
+     "from": "1993-05-21",
+     "units": 6,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1993_05_47_898.html",
+     "sha256": "a23f0985a30626e6045b53ca3f3cef2eb4e79152e13ca7365461736ae6907428"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-1993-937",
+   "path": "uredba/1993/937",
+   "short": "Uredba o sjedištu i području na kojem se osnivaju policijske uprave",
+   "title": "Uredba o sjedištu i području na kojem se osnivaju policijske uprave",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1993/48/937",
+   "versions": [
+    {
+     "from": "1993-05-24",
+     "units": 6,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1993_05_48_937.html",
+     "sha256": "3e38796b8a88f9fcd610144d606e7827290d4f4063826002028778156439cbb7"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-1993-1159",
+   "path": "zakon/1993/1159",
+   "short": "Zakon o Državnom sudbenom vijeću",
+   "title": "Zakon o Državnom sudbenom vijeću",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1993/58/1159",
+   "versions": [
+    {
+     "from": "1993-06-26",
+     "units": 43,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1993_06_58_1159.html",
+     "sha256": "3b0737d043b8de00ad8c8dc2a6658ccb7fcfa40f2ee5fdd6954b5a8f69118369"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-1993-1160",
+   "path": "zakon/1993/1160",
+   "short": "Zakon o mjernim jedinicama",
+   "title": "Zakon o mjernim jedinicama",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1993/58/1160",
+   "versions": [
+    {
+     "from": "1993-06-26",
+     "units": 19,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1993_06_58_1160.html",
+     "sha256": "c9e51acd4dea6c2e730dbc85c575cbff8fb5710ee56d428d23af01d101a0272a"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-1993-1161",
+   "path": "zakon/1993/1161",
+   "short": "Zakon o zaštiti od požara",
+   "title": "Zakon o zaštiti od požara",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1993/58/1161",
+   "versions": [
+    {
+     "from": "1993-06-26",
+     "units": 58,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1993_06_58_1161.html",
+     "sha256": "254f11fd032a384edcf0e9d2d6f2c289c3f7cccac0d134421a1a00660fcb31bc"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-1993-1162",
+   "path": "zakon/1993/1162",
+   "short": "Zakon o vatrogastvu",
+   "title": "Zakon o vatrogastvu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1993/58/1162",
+   "versions": [
+    {
+     "from": "1993-06-26",
+     "units": 53,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1993_06_58_1162.html",
+     "sha256": "48539c53eb8ec1a14c2368446c8dec097d53a8b1b2f7c437a97932a59d6d9a9b"
+    }
+   ]
+  },
+  {
    "slug": "zakon-1993-1163",
    "path": "zakon/1993/1163",
    "short": "Zakon o izmjenama Zakona o poduzećima",
@@ -11683,6 +13183,21 @@
      "units": 5,
      "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1993_06_58_1163.html",
      "sha256": "950daa4a15798ca5bbe42685b868d9ab9724dd1f7dab334700ed75a6a72231ec"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-1993-1164",
+   "path": "zakon/1993/1164",
+   "short": "Zakon o izmjenama i dopunama Zakona o autorskom pravu",
+   "title": "Zakon o izmjenama i dopunama Zakona o autorskom pravu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1993/58/1164",
+   "versions": [
+    {
+     "from": "1993-06-26",
+     "units": 69,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1993_06_58_1164.html",
+     "sha256": "d480ba8839bff6422ee537f716494b52c015a0fa6aaea713853ff68b60f6878d"
     }
    ]
   },
@@ -11747,6 +13262,21 @@
    ]
   },
   {
+   "slug": "zakon-1993-1437",
+   "path": "zakon/1993/1437",
+   "short": "Zakon o državnoj reviziji",
+   "title": "Zakon o državnoj reviziji",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1993/70/1437",
+   "versions": [
+    {
+     "from": "1993-07-20",
+     "units": 20,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1993_07_70_1437.html",
+     "sha256": "80ee65ba8f6cb3d0b3dfcd7ba30e6966c4a4500b2ee54024ba3f9db4df801a33"
+    }
+   ]
+  },
+  {
    "slug": "zakon-1993-1438",
    "path": "zakon/1993/1438",
    "short": "Zakon o dopunama Zakona o stambenim odnosima",
@@ -11758,6 +13288,21 @@
      "units": 5,
      "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1993_07_70_1438.html",
      "sha256": "7b34dd64e09560cc88a981b38cc1bcccb70b33711d9d21e461ed99c129a405d0"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-1993-1439",
+   "path": "zakon/1993/1439",
+   "short": "Zakon o izmjeni i dopuni Zakona o Hrvatskom fondu za privatizaciju",
+   "title": "Zakon o izmjeni i dopuni Zakona o Hrvatskom fondu za privatizaciju",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1993/70/1439",
+   "versions": [
+    {
+     "from": "1993-07-20",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1993_07_70_1439.html",
+     "sha256": "a777ce7e13814deb476ab575ad3480d6505191ec8b9072c6792daf0edc8740a1"
     }
    ]
   },
@@ -11792,6 +13337,111 @@
    ]
   },
   {
+   "slug": "zakon-1993-1536",
+   "path": "zakon/1993/1536",
+   "short": "Zakon o zaštiti znaka i naziva Crvenog križa",
+   "title": "Zakon o zaštiti znaka i naziva Crvenog križa",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1993/75/1536",
+   "versions": [
+    {
+     "from": "1993-08-21",
+     "units": 22,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1993_08_75_1536.html",
+     "sha256": "9e2dbe5791c3920fadb28549ee3b563b52a5435e4f480988ebdec04157f54491"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-1993-1538",
+   "path": "zakon/1993/1538",
+   "short": "Zakon o sustavu državne uprave",
+   "title": "Zakon o sustavu državne uprave",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1993/75/1538",
+   "versions": [
+    {
+     "from": "1993-08-21",
+     "units": 53,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1993_08_75_1538.html",
+     "sha256": "33c08557a661e2427fe2aedda06b1463c21d39101189d50421ae787236d5f3a1"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-1993-1539",
+   "path": "zakon/1993/1539",
+   "short": "Zakon o Poreznoj upravi",
+   "title": "Zakon o Poreznoj upravi",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1993/75/1539",
+   "versions": [
+    {
+     "from": "1993-08-21",
+     "units": 28,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1993_08_75_1539.html",
+     "sha256": "0e0e569d235fb9938d9f83fdb515350ad634672d92b283a0e8981b40873d9585"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-1993-1548",
+   "path": "zakon/1993/1548",
+   "short": "Zakon o ustanovama",
+   "title": "Zakon o ustanovama",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1993/76/1548",
+   "versions": [
+    {
+     "from": "1993-08-24",
+     "units": 83,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1993_08_76_1548.html",
+     "sha256": "21d0e5b1a1613d476ccf5d215c3d0158f9511eb8865ae19a3fb9eeb061f022ea"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-1993-1549",
+   "path": "zakon/1993/1549",
+   "short": "Zakon o tehničkoj kulturi",
+   "title": "Zakon o tehničkoj kulturi",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1993/76/1549",
+   "versions": [
+    {
+     "from": "1993-08-24",
+     "units": 48,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1993_08_76_1549.html",
+     "sha256": "39cf804e505bcc51a82de97c6b70592ae5b757c7722c751a30c16930f99fa31c"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-1993-1550",
+   "path": "zakon/1993/1550",
+   "short": "Zakon o političkim strankama",
+   "title": "Zakon o političkim strankama",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1993/76/1550",
+   "versions": [
+    {
+     "from": "1993-08-24",
+     "units": 33,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1993_08_76_1550.html",
+     "sha256": "03fea7e8566abece8b205668aa082325ef6f5d0e255f6e729c4d83c2bbf77830"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-1993-1551",
+   "path": "zakon/1993/1551",
+   "short": "Zakon o nadzoru predmeta od plemenitih kovina",
+   "title": "Zakon o nadzoru predmeta od plemenitih kovina",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1993/76/1551",
+   "versions": [
+    {
+     "from": "1993-08-24",
+     "units": 41,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1993_08_76_1551.html",
+     "sha256": "597b264ba1cf31c7e13b533a345ae636b337762b5097efae31efc58a6c0c1148"
+    }
+   ]
+  },
+  {
    "slug": "zakon-1993-1552",
    "path": "zakon/1993/1552",
    "short": "Zakon o ovlasti Hrvatskog fonda za privatizaciju da preuzme i podmiri dio duga Republičkog fonda zdravstvenog osiguranja i zdravstva Hrvatske",
@@ -11822,6 +13472,36 @@
    ]
   },
   {
+   "slug": "zakon-1993-1554",
+   "path": "zakon/1993/1554",
+   "short": "Zakon o dopuni Zakona o Hrvatskoj kreditnoj banci za obnovu",
+   "title": "Zakon o dopuni Zakona o Hrvatskoj kreditnoj banci za obnovu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1993/76/1554",
+   "versions": [
+    {
+     "from": "1993-08-24",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1993_08_76_1554.html",
+     "sha256": "ba30f39e83b1f8c0366d45e007ce7ff4fffeb349e7b171c2dd39b707a777f342"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-1993-1555",
+   "path": "zakon/1993/1555",
+   "short": "Zakon o izmjenama i dopunama Zakona o šumama",
+   "title": "Zakon o izmjenama i dopunama Zakona o šumama",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1993/76/1555",
+   "versions": [
+    {
+     "from": "1993-08-24",
+     "units": 25,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1993_08_76_1555.html",
+     "sha256": "58f38daf59e2ab818a410268a0eed40a5804ef90874e9a33f1918da65218345e"
+    }
+   ]
+  },
+  {
    "slug": "zakon-1993-1556",
    "path": "zakon/1993/1556",
    "short": "Zakon o dopunama Zakona o fondovima u stambenom i komunalnom gospodarstvu",
@@ -11833,6 +13513,36 @@
      "units": 3,
      "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1993_08_76_1556.html",
      "sha256": "6715dab6b10b20ebc65699650bd11c76d46732414f13a9576aa124a63fa0a8b2"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-1993-1557",
+   "path": "zakon/1993/1557",
+   "short": "Zakon o izmjenama i dopunama Zakona o pravima bivših političkih zatvorenika",
+   "title": "Zakon o izmjenama i dopunama Zakona o pravima bivših političkih zatvorenika",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1993/76/1557",
+   "versions": [
+    {
+     "from": "1993-08-16",
+     "units": 9,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1993_08_76_1557.html",
+     "sha256": "d1b0361c9b8a6456ecc129ea4035a572ac2540adc6cba53c3321cd845de2349d"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-1993-1558",
+   "path": "zakon/1993/1558",
+   "short": "Zakon o izmjeni Zakona o Gradu Zagrebu",
+   "title": "Zakon o izmjeni Zakona o Gradu Zagrebu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1993/76/1558",
+   "versions": [
+    {
+     "from": "1993-08-16",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1993_08_76_1558.html",
+     "sha256": "6ba4c1c8c23f914304af78dabefbcfd7a906601fc630f779cac8adc27df2c635"
     }
    ]
   },
@@ -11852,6 +13562,66 @@
    ]
   },
   {
+   "slug": "zakon-1993-1560",
+   "path": "zakon/1993/1560",
+   "short": "Zakon o izmjeni Zakona o Hrvatskom fondu za privatizaciju",
+   "title": "Zakon o izmjeni Zakona o Hrvatskom fondu za privatizaciju",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1993/76/1560",
+   "versions": [
+    {
+     "from": "1993-08-16",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1993_08_76_1560.html",
+     "sha256": "6e31dcfe9459bb526f74a6b6f7d89ded77ffc97df690bfc9e933366760afa930"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-1993-1591",
+   "path": "zakon/1993/1591",
+   "short": "Zakon o obrtu",
+   "title": "Zakon o obrtu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1993/77/1591",
+   "versions": [
+    {
+     "from": "1993-08-28",
+     "units": 98,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1993_08_77_1591.html",
+     "sha256": "d9caacf3e7a2a3a30c9f8d8e7bdb5953d936cda2ea46cf5de215bdc969d46384"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-1993-1599",
+   "path": "zakon/1993/1599",
+   "short": "Zakon o javnom bilježništvu",
+   "title": "Zakon o javnom bilježništvu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1993/78/1599",
+   "versions": [
+    {
+     "from": "1993-09-02",
+     "units": 66,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1993_08_78_1599.html",
+     "sha256": "3f7e8d4df82c1a1b550039522988bdcb9396a9b3c064fa0d5ddd213e1bbe8bff"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-1993-1607",
+   "path": "zakon/1993/1607",
+   "short": "Zakon o izmjenama Zakona o Narodnoj banci Hrvatske",
+   "title": "Zakon o izmjenama Zakona o Narodnoj banci Hrvatske",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1993/79/1607",
+   "versions": [
+    {
+     "from": "1993-09-07",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1993_08_79_1607.html",
+     "sha256": "6c6368da4fa6b8cddb7d850143c5a48b45abd567061959fcbfca2124f33db702"
+    }
+   ]
+  },
+  {
    "slug": "zakon-1993-1608",
    "path": "zakon/1993/1608",
    "short": "Zakon o dokapitalizaciji \"INA- Industrije nafte\" d.d.",
@@ -11863,6 +13633,21 @@
      "units": 4,
      "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1993_08_79_1608.html",
      "sha256": "28247f901fab909ccd5c3adad40e1cc6ca71771005734bd28bfcf589908c07ed"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-1993-1609",
+   "path": "zakon/1993/1609",
+   "short": "Zakon o izmjenama i dopunama Zakona o poljoprivrednom zemljištu",
+   "title": "Zakon o izmjenama i dopunama Zakona o poljoprivrednom zemljištu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1993/79/1609",
+   "versions": [
+    {
+     "from": "1993-09-07",
+     "units": 20,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1993_08_79_1609.html",
+     "sha256": "d29f70c7f8eaaf0a8b0d5f21849cd38847fd5454d5404f1028eea843da379cdf"
     }
    ]
   },
@@ -11882,6 +13667,36 @@
    ]
   },
   {
+   "slug": "zakon-1993-1803",
+   "path": "zakon/1993/1803",
+   "short": "Zakon o bankama i štedionicama",
+   "title": "Zakon o bankama i štedionicama",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1993/94/1803",
+   "versions": [
+    {
+     "from": "1993-10-28",
+     "units": 10,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1993_10_94_1803.html",
+     "sha256": "0108eef83130e1ae8fb3feebe70fccf440e4896e752d199969f5f422f33ce581"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-1993-1804",
+   "path": "zakon/1993/1804",
+   "short": "Zakon o ovlasti Vlade Republike Hrvatske da uredbama uređuje pojedina pitanja iz djelokruga Zastupničkog doma Sabora Republike Hrvatske",
+   "title": "Zakon o ovlasti Vlade Republike Hrvatske da uredbama uređuje pojedina pitanja iz djelokruga Zastupničkog doma Sabora Republike Hrvatske",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1993/94/1804",
+   "versions": [
+    {
+     "from": "1993-10-28",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1993_10_94_1804.html",
+     "sha256": "1c0b5f69e454d7541b17985384794b6843cde513481180f44707662d78df121a"
+    }
+   ]
+  },
+  {
    "slug": "zakon-1993-1805",
    "path": "zakon/1993/1805",
    "short": "Zakon o prihvaćanju članstva Republike Hrvatske u Inter-američkoj banci za razvoj",
@@ -11893,6 +13708,51 @@
      "units": 11,
      "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1993_10_94_1805.html",
      "sha256": "1fa8d7e8a4e32e1f69e9bb3f2c6d79a2751c2d61bdf9bf709df2c0e3925b7461"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-1993-1806",
+   "path": "zakon/1993/1806",
+   "short": "Zakon o posebnoj pristojbi na uvezenu robu",
+   "title": "Zakon o posebnoj pristojbi na uvezenu robu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1993/94/1806",
+   "versions": [
+    {
+     "from": "1993-10-28",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1993_10_94_1806.html",
+     "sha256": "509dcec9f0875aa8e6dd64472150ec8a4e14f41e58c6de3be8efc3b29b2a59af"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-1993-1808",
+   "path": "zakon/1993/1808",
+   "short": "Zakon o izmjenama Zakona o lokalnoj samoupravi i upravi",
+   "title": "Zakon o izmjenama Zakona o lokalnoj samoupravi i upravi",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1993/94/1808",
+   "versions": [
+    {
+     "from": "1993-10-28",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1993_10_94_1808.html",
+     "sha256": "6c07404e17b8d2c90ecc55729291478447cd187b124a0b9569fce4c3cd1178f2"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-1993-1809",
+   "path": "zakon/1993/1809",
+   "short": "Zakon o izmjenama i dopunama Zakona o ustrojstvu i djelokrugu ministarstava i drugih organa državne uprave",
+   "title": "Zakon o izmjenama i dopunama Zakona o ustrojstvu i djelokrugu ministarstava i drugih organa državne uprave",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1993/94/1809",
+   "versions": [
+    {
+     "from": "1993-10-28",
+     "units": 10,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1993_10_94_1809.html",
+     "sha256": "e2694fa9ca100e2daf4047959d472b8910cff3750af44eb8e68487074165b2dd"
     }
    ]
   },
@@ -11927,6 +13787,21 @@
    ]
   },
   {
+   "slug": "zakon-1993-1812",
+   "path": "zakon/1993/1812",
+   "short": "Zakon o dopuni Zakona o pretvorbi društvenih poduzeća",
+   "title": "Zakon o dopuni Zakona o pretvorbi društvenih poduzeća",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1993/94/1812",
+   "versions": [
+    {
+     "from": "1993-10-20",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1993_10_94_1812.html",
+     "sha256": "59a6dc4f5ec7c7b67414f181556a5d1830094f41a45e493e4bd03f0093e052ae"
+    }
+   ]
+  },
+  {
    "slug": "zakon-1993-1813",
    "path": "zakon/1993/1813",
    "short": "Zakon o dopuni Zakona o Hrvatskoj radio-televiziji",
@@ -11938,6 +13813,81 @@
      "units": 3,
      "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1993_10_94_1813.html",
      "sha256": "17402c8ca7c2e62f40df72c5e2a9a3312c77840e93981a7aa3cc77b936d92539"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-1993-1876",
+   "path": "zakon/1993/1876",
+   "short": "Zakon o visokim učilištima",
+   "title": "Zakon o visokim učilištima",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1993/96/1876",
+   "versions": [
+    {
+     "from": "1993-11-02",
+     "units": 174,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1993_10_96_1876.html",
+     "sha256": "2ed793d7a2e0c1c3cfbd894f8470b6243608e0e9eb8750b14ff0ec60ef36c63f"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-1993-1877",
+   "path": "zakon/1993/1877",
+   "short": "Zakon o znanstvenoistraživačkoj djelatnosti",
+   "title": "Zakon o znanstvenoistraživačkoj djelatnosti",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1993/96/1877",
+   "versions": [
+    {
+     "from": "1993-11-02",
+     "units": 61,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1993_10_96_1877.html",
+     "sha256": "08e8b739dc6a2c568de03d1f3ce3e7598b99b8128baf9d30260fd701c3e9f377"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-1993-1878",
+   "path": "zakon/1993/1878",
+   "short": "Zakon o državnim maticama",
+   "title": "Zakon o državnim maticama",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1993/96/1878",
+   "versions": [
+    {
+     "from": "1993-11-02",
+     "units": 58,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1993_10_96_1878.html",
+     "sha256": "0da4589aa63efa2f7c813fe7e421d2a9df75968e0a40705dc70bf34887d178e3"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-1993-1879",
+   "path": "zakon/1993/1879",
+   "short": "Zakon o statusu prognanika i izbjeglica",
+   "title": "Zakon o statusu prognanika i izbjeglica",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1993/96/1879",
+   "versions": [
+    {
+     "from": "1993-11-02",
+     "units": 13,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1993_10_96_1879.html",
+     "sha256": "5537da40858b725cdedcfe946820d9f10f7107247eddfc97ca3f3b8c380756a6"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-1993-1880",
+   "path": "zakon/1993/1880",
+   "short": "Zakon o upravljanju ustanovama u kulturi i zaštiti spomenika kulture",
+   "title": "Zakon o upravljanju ustanovama u kulturi i zaštiti spomenika kulture",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1993/96/1880",
+   "versions": [
+    {
+     "from": "1993-11-02",
+     "units": 11,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1993_10_96_1880.html",
+     "sha256": "b7772a6dc2954a93c8774ac7ea9d7875ca33357617dcab7580be7794850a5faa"
     }
    ]
   },
@@ -11987,6 +13937,81 @@
    ]
   },
   {
+   "slug": "zakon-1993-1885",
+   "path": "zakon/1993/1885",
+   "short": "Zakon o ostvarivanju prava iz mirovinskog i invalidskog osiguranja pripadnika bivše JNA",
+   "title": "Zakon o ostvarivanju prava iz mirovinskog i invalidskog osiguranja pripadnika bivše JNA",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1993/96/1885",
+   "versions": [
+    {
+     "from": "1993-11-02",
+     "units": 13,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1993_10_96_1885.html",
+     "sha256": "a77098a4db351ac564287eb5e41cfdee86a647cd25d6c82076c9ea03d72a64f4"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-1993-1886",
+   "path": "zakon/1993/1886",
+   "short": "Zakon o isplati mirovina korisnicima koji su mirovinu ostvarili u republikama bivše Socijalističke Federativne Republike Jugoslavije",
+   "title": "Zakon o isplati mirovina korisnicima koji su mirovinu ostvarili u republikama bivše Socijalističke Federativne Republike Jugoslavije",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1993/96/1886",
+   "versions": [
+    {
+     "from": "1993-11-02",
+     "units": 8,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1993_10_96_1886.html",
+     "sha256": "575e9fbe7f6b21531b186b087259241be9213d12ca4415ff1dfb76164ca34cc9"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-1993-1888",
+   "path": "zakon/1993/1888",
+   "short": "Zakon o upravnim pristojbama",
+   "title": "Zakon o upravnim pristojbama",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1993/97/1888",
+   "versions": [
+    {
+     "from": "1993-11-03",
+     "units": 10,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1993_10_97_1888.html",
+     "sha256": "877178b8b1ee97772357a6fcb919425b1870051477037b46cc8b17a71ff6e4bc"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-1993-1889",
+   "path": "zakon/1993/1889",
+   "short": "Zakon o prijevozu opasnih tvari",
+   "title": "Zakon o prijevozu opasnih tvari",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1993/97/1889",
+   "versions": [
+    {
+     "from": "1993-11-03",
+     "units": 31,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1993_10_97_1889.html",
+     "sha256": "090daa67f45ff0b9e6ecea6c2b3ab50300e1243ba486028291ede73e186f9747"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-1993-2029",
+   "path": "zakon/1993/2029",
+   "short": "Zakon o prometu i oporezivanju duhanskih prerađevina",
+   "title": "Zakon o prometu i oporezivanju duhanskih prerađevina",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1993/106/2029",
+   "versions": [
+    {
+     "from": "1993-12-03",
+     "units": 10,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1993_11_106_2029.html",
+     "sha256": "f0c1e34d0ab491318644124aadc3db97c8f93f808c61750052b35dd3fb9180c7"
+    }
+   ]
+  },
+  {
    "slug": "zakon-1993-2031",
    "path": "zakon/1993/2031",
    "short": "Zakon o načinu i uvjetima podmirivanja obveza po kreditima međunarodnih financijskih organizacija odobrenim korisnicima iz Republike Hrvatske",
@@ -12013,6 +14038,111 @@
      "units": 9,
      "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1993_11_106_2032.html",
      "sha256": "172720fae4807bfca7e20dcf5131f9486e863e6f2eae65e06bff5c0515f570c3"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-1993-2033",
+   "path": "zakon/1993/2033",
+   "short": "Zakon o visini kamata na iznose poreza, doprinosa, pristojbi i drugih javnih prihoda koji nisu plaćeni u propisanom roku",
+   "title": "Zakon o visini kamata na iznose poreza, doprinosa, pristojbi i drugih javnih prihoda koji nisu plaćeni u propisanom roku",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1993/106/2033",
+   "versions": [
+    {
+     "from": "1993-12-03",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1993_11_106_2033.html",
+     "sha256": "ba69a9acb15aa5e996496464e50ceaa315e83151e9e82c39bd76aa0ceaedb324"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-1993-2035",
+   "path": "zakon/1993/2035",
+   "short": "Zakon o izmjenama i dopunama Carinskog zakona",
+   "title": "Zakon o izmjenama i dopunama Carinskog zakona",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1993/106/2035",
+   "versions": [
+    {
+     "from": "1993-12-03",
+     "units": 10,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1993_11_106_2035.html",
+     "sha256": "3880d25faa2df2a1d25ddf00ebd6a8d19c6a9a80470cfc9ebdc4b2031f2999cc"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-1993-2109",
+   "path": "zakon/1993/2109",
+   "short": "Zakon o porezu na dohodak",
+   "title": "Zakon o porezu na dohodak",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1993/109/2109",
+   "versions": [
+    {
+     "from": "1993-12-15",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1993_12_109_2109.html",
+     "sha256": "b0db2e6028fb2cfb29059acdd70aa52619c2bd2f8a93b85e940c68910d614caf"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-1993-2110",
+   "path": "zakon/1993/2110",
+   "short": "Zakon o porezu na dobit",
+   "title": "Zakon o porezu na dobit",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1993/109/2110",
+   "versions": [
+    {
+     "from": "1993-12-15",
+     "units": 35,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1993_12_109_2110.html",
+     "sha256": "5944e89f71a1ff06bfe35498fc6f38b2d3515bd9a2ca78cd79329c28d49373ad"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-1993-2111",
+   "path": "zakon/1993/2111",
+   "short": "Zakon o kreditiranju obnove ratom oštećenih i razrušenih stambenih i gospodarskih objekata",
+   "title": "Zakon o kreditiranju obnove ratom oštećenih i razrušenih stambenih i gospodarskih objekata",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1993/109/2111",
+   "versions": [
+    {
+     "from": "1993-12-15",
+     "units": 23,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1993_12_109_2111.html",
+     "sha256": "b88658070e669c26758731824dd2c4082f365f894aa96d6efadafa3a1b5adaa7"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-1993-2112",
+   "path": "zakon/1993/2112",
+   "short": "Zakon o osiguranju sredstava ostvarivanju prava i načinu isplate minimalnih plaća i naknada određenim fizičkim i pravnim osobama",
+   "title": "Zakon o osiguranju sredstava ostvarivanju prava i načinu isplate minimalnih plaća i naknada određenim fizičkim i pravnim osobama",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1993/109/2112",
+   "versions": [
+    {
+     "from": "1993-12-15",
+     "units": 20,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1993_12_109_2112.html",
+     "sha256": "e4355c4879d31d03078b29eaabaeb45d36feb4dc2220f643c93f9a8a24bb427b"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-1993-2114",
+   "path": "zakon/1993/2114",
+   "short": "Zakon o provođenju rezolucija Vijeća sigurnosti Ujedinjenih naroda, u svezi sa sankcijama protiv tzv. SRJ (Srbije i Crne Gore)",
+   "title": "Zakon o provođenju rezolucija Vijeća sigurnosti Ujedinjenih naroda, u svezi sa sankcijama protiv tzv. SRJ (Srbije i Crne Gore)",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1993/109/2114",
+   "versions": [
+    {
+     "from": "1993-12-15",
+     "units": 28,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1993_12_109_2114.html",
+     "sha256": "56c731c89c59d7055c1b6cd6803b23716acc2cb0aab20502926c6ebb4cd4c687"
     }
    ]
   },
@@ -12047,6 +14177,36 @@
    ]
   },
   {
+   "slug": "zakon-1993-2117",
+   "path": "zakon/1993/2117",
+   "short": "Zakon o izmjenama i dopuni Zakona o boravišnoj pristojbi",
+   "title": "Zakon o izmjenama i dopuni Zakona o boravišnoj pristojbi",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1993/109/2117",
+   "versions": [
+    {
+     "from": "1993-12-15",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1993_12_109_2117.html",
+     "sha256": "32fc4f0fa0c214888a88dd460814b3adc9b4c574b7e0f0a4d6a492f51e388aa2"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-1993-2118",
+   "path": "zakon/1993/2118",
+   "short": "Zakon o izmjenama i dopunama Zakona o članarinama u turističkim zajednicama",
+   "title": "Zakon o izmjenama i dopunama Zakona o članarinama u turističkim zajednicama",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1993/109/2118",
+   "versions": [
+    {
+     "from": "1993-12-15",
+     "units": 6,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1993_12_109_2118.html",
+     "sha256": "1feb938461919e41b278348d40ede96f6d47f32ba38c26567857800901cc8f49"
+    }
+   ]
+  },
+  {
    "slug": "zakon-1993-2120",
    "path": "zakon/1993/2120",
    "short": "Zakon o izmjenama Zakona o hrvatskim željeznicama",
@@ -12077,6 +14237,21 @@
    ]
   },
   {
+   "slug": "zakon-1993-2122",
+   "path": "zakon/1993/2122",
+   "short": "Zakon o izmjenama i dopunama Zakona o cestama",
+   "title": "Zakon o izmjenama i dopunama Zakona o cestama",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1993/109/2122",
+   "versions": [
+    {
+     "from": "1993-12-15",
+     "units": 9,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1993_12_109_2122.html",
+     "sha256": "f8d584befe7970bcb90ffa43e84fbacc31d0079d1659b8dad1c1258e4d057791"
+    }
+   ]
+  },
+  {
    "slug": "zakon-1993-2123",
    "path": "zakon/1993/2123",
    "short": "Zakon o dopunama Zakona o morskom ribarstvu",
@@ -12103,6 +14278,21 @@
      "units": 8,
      "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1993_12_109_2124.html",
      "sha256": "0e10059114c5d0b67cf32bd2a97fac75d5b2ec73c615ab11987acabf60b51115"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-1993-2276",
+   "path": "zakon/1993/2276",
+   "short": "Zakon o financiranju jedinica lokalne samouprave i uprave",
+   "title": "Zakon o financiranju jedinica lokalne samouprave i uprave",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1993/117/2276",
+   "versions": [
+    {
+     "from": "1993-12-31",
+     "units": 103,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1993_12_117_2276.html",
+     "sha256": "4645a0ebd491ebfd6a862703cda9e194884eaa93b1b7eee2241a28f22d0d17e5"
     }
    ]
   },
@@ -18257,6 +20447,36 @@
    ]
   },
   {
+   "slug": "pravilnik-1994-101",
+   "path": "pravilnik/1994/101",
+   "short": "Pravilnik o utvrđivanju mreže i kriterija o dovoljnom broju stanica za tehnički pregled vozila",
+   "title": "Pravilnik o utvrđivanju mreže i kriterija o dovoljnom broju stanica za tehnički pregled vozila",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1994/5/101",
+   "versions": [
+    {
+     "from": "1993-12-08",
+     "units": 11,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1994_01_5_101.html",
+     "sha256": "87b47e0c968159ca39621bafb34de50ec4e56161e75f135621e2f263ef4a6e88"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-1994-1026",
+   "path": "pravilnik/1994/1026",
+   "short": "Pravilnik o naknadi za uporabu radijskih frekvencija i načinu plaćanja",
+   "title": "Pravilnik o naknadi za uporabu radijskih frekvencija i načinu plaćanja",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1994/56/1026",
+   "versions": [
+    {
+     "from": "1994-07-30",
+     "units": 15,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1994_07_56_1026.html",
+     "sha256": "6dad128676b9ee92448bf3f71969f5ebd381e9d6f0af318c5d0352d0daa7b644"
+    }
+   ]
+  },
+  {
    "slug": "pravilnik-1994-1031",
    "path": "pravilnik/1994/1031",
    "short": "Pravilnik o službenim odorama djelatnika carinske službe RepubIike Hrvatske",
@@ -18287,6 +20507,126 @@
    ]
   },
   {
+   "slug": "pravilnik-1994-1055",
+   "path": "pravilnik/1994/1055",
+   "short": "Pravilnik o načinu prijavljivanja i odjavljivanja osigurane osobe, te utvrđivanju statusa osigurane osobe iz obveznog zdravstvenog osiguranja",
+   "title": "Pravilnik o načinu prijavljivanja i odjavljivanja osigurane osobe, te utvrđivanju statusa osigurane osobe iz obveznog zdravstvenog osiguranja",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1994/57/1055",
+   "versions": [
+    {
+     "from": "1994-08-06",
+     "units": 20,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1994_07_57_1055.html",
+     "sha256": "ca1ac5c00ca07f5c898c7823f11cdb6e2b9f8efbe1cdbf8dc1d7118e65d7f9af"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-1994-1064",
+   "path": "pravilnik/1994/1064",
+   "short": "Pravilnik o uvjetima i načinu korištenja prava na pomoć za opremu novorođenog djeteta",
+   "title": "Pravilnik o uvjetima i načinu korištenja prava na pomoć za opremu novorođenog djeteta",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1994/58/1064",
+   "versions": [
+    {
+     "from": "1994-08-09",
+     "units": 8,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1994_08_58_1064.html",
+     "sha256": "fd58d9ff9fad20574cdb9c6efeb90c3b6defb8db839d1383415343ca1d98bf1e"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-1994-1069",
+   "path": "pravilnik/1994/1069",
+   "short": "Pravilnik o obračunavanju i plaćanju posebnog poreza na naftne derivate, iskazivanju i dostavljanju izvješća te oslobađanju od plaćanja posebnog poreza",
+   "title": "Pravilnik o obračunavanju i plaćanju posebnog poreza na naftne derivate, iskazivanju i dostavljanju izvješća te oslobađanju od plaćanja posebnog poreza",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1994/59/1069",
+   "versions": [
+    {
+     "from": "1994-08-05",
+     "units": 13,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1994_08_59_1069.html",
+     "sha256": "72e8c8c2170ba8d2eeba80ede63684cc817ee4ddecc74df2cb93acfec8d08a56"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-1994-1070",
+   "path": "pravilnik/1994/1070",
+   "short": "Pravilnik o obračunavanju i plaćanju posebnog poreza na bezalkoholna pića, iskazivanju i dostavljanju izvješća te oslobađanju od plaćanja posebnog poreza",
+   "title": "Pravilnik o obračunavanju i plaćanju posebnog poreza na bezalkoholna pića, iskazivanju i dostavljanju izvješća te oslobađanju od plaćanja posebnog poreza",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1994/59/1070",
+   "versions": [
+    {
+     "from": "1994-08-05",
+     "units": 9,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1994_08_59_1070.html",
+     "sha256": "8c937782a7d4792198dcacbb33e270b644201900e741924bdc43d2107c217255"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-1994-1071",
+   "path": "pravilnik/1994/1071",
+   "short": "Pravilnik o primjeni Zakona o posebnom porezu na alkohol",
+   "title": "Pravilnik o primjeni Zakona o posebnom porezu na alkohol",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1994/59/1071",
+   "versions": [
+    {
+     "from": "1994-08-05",
+     "units": 13,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1994_08_59_1071.html",
+     "sha256": "29123b178cf3dceb8e9828359a3db240f330de8e3f47a2e2f8ffd0036eedc3f4"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-1994-1072",
+   "path": "pravilnik/1994/1072",
+   "short": "Pravilnik o primjeni Zakona o posebnom porezu na pivo",
+   "title": "Pravilnik o primjeni Zakona o posebnom porezu na pivo",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1994/59/1072",
+   "versions": [
+    {
+     "from": "1994-08-05",
+     "units": 10,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1994_08_59_1072.html",
+     "sha256": "d83a58e36e69915a907f903e4c44aa033a4acb2135fdc84771986e679fdf73af"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-1994-1073",
+   "path": "pravilnik/1994/1073",
+   "short": "Pravilnik o tiskanju i rukovanju nadzornim markicama za obilježavanje duhanskih prerađevina",
+   "title": "Pravilnik o tiskanju i rukovanju nadzornim markicama za obilježavanje duhanskih prerađevina",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1994/59/1073",
+   "versions": [
+    {
+     "from": "1994-08-05",
+     "units": 12,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1994_08_59_1073.html",
+     "sha256": "50dd9a2f5a02d6daf1fb1417a10ed6ee6916f3bd2eb486217e5e6d25dceba1a0"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-1994-1078",
+   "path": "pravilnik/1994/1078",
+   "short": "Pravilnik o obliku, sadržaju i uporabi obrazaca platnog prometa",
+   "title": "Pravilnik o obliku, sadržaju i uporabi obrazaca platnog prometa",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1994/59/1078",
+   "versions": [
+    {
+     "from": "1994-08-05",
+     "units": 37,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1994_08_59_1078.html",
+     "sha256": "c11a3cda627e97b8f860609ebe9464e7f1927475bd32b34a04dcf0ff3981c477"
+    }
+   ]
+  },
+  {
    "slug": "pravilnik-1994-1089",
    "path": "pravilnik/1994/1089",
    "short": "Pravilnik o kriterijima i rokovima za utvrđivanje programa i osiguravanje sredstava za financiranje javnih potreba Republike Hrvatske u tehničkoj kulturi",
@@ -18302,6 +20642,96 @@
    ]
   },
   {
+   "slug": "pravilnik-1994-1090",
+   "path": "pravilnik/1994/1090",
+   "short": "Pravilnik o statusu, ustrojstvu i financiranju Dubrovačkog ljetnog festivala",
+   "title": "Pravilnik o statusu, ustrojstvu i financiranju Dubrovačkog ljetnog festivala",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1994/60/1090",
+   "versions": [
+    {
+     "from": "1994-08-18",
+     "units": 18,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1994_08_60_1090.html",
+     "sha256": "a156c82c7de15d45268820a6a88d6cf343ce5323eee09a01472c0af742a2441e"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-1994-1091",
+   "path": "pravilnik/1994/1091",
+   "short": "Pravilnik o statusu, ustrojstvu i financiranju Varaždinskih baroknih večeri",
+   "title": "Pravilnik o statusu, ustrojstvu i financiranju Varaždinskih baroknih večeri",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1994/60/1091",
+   "versions": [
+    {
+     "from": "1994-08-18",
+     "units": 18,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1994_08_60_1091.html",
+     "sha256": "be916b893dc14ea37dd8bfd4f229c549d09bdb2ec057ab907628b543e0b3a8f7"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-1994-1092",
+   "path": "pravilnik/1994/1092",
+   "short": "Pravilnik o statusu, ustrojstvu i financiranju Osorskih glazbenih večeri",
+   "title": "Pravilnik o statusu, ustrojstvu i financiranju Osorskih glazbenih večeri",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1994/60/1092",
+   "versions": [
+    {
+     "from": "1994-08-18",
+     "units": 20,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1994_08_60_1092.html",
+     "sha256": "2e4d62c0e86ef248d38d1b4ca9f28993a206d71bf4f15226c1365f1800e2df33"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-1994-1093",
+   "path": "pravilnik/1994/1093",
+   "short": "Pravilnik o statusu, ustrojstvu i financiranju Splitskog ljeta",
+   "title": "Pravilnik o statusu, ustrojstvu i financiranju Splitskog ljeta",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1994/60/1093",
+   "versions": [
+    {
+     "from": "1994-08-18",
+     "units": 18,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1994_08_60_1093.html",
+     "sha256": "db8b5cb7152ef33dd5226e04e91502efe579253b2cc0fea8bdd4f594ab19c3c7"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-1994-1101",
+   "path": "pravilnik/1994/1101",
+   "short": "Pravilnik o osnovama organiziranosti vatrogasnih postrojbi na teritoriju Republike Hrvatske",
+   "title": "Pravilnik o osnovama organiziranosti vatrogasnih postrojbi na teritoriju Republike Hrvatske",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1994/61/1101",
+   "versions": [
+    {
+     "from": "1994-08-27",
+     "units": 24,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1994_08_61_1101.html",
+     "sha256": "c5c68e305c8c4758465f75ecfcdd04f415b53245bd5b7ace5cb69722598180d4"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-1994-1102",
+   "path": "pravilnik/1994/1102",
+   "short": "Pravilnik o zaštitnoj i drugoj osobnoj opremi pripadnika vatrogasnih postrojbi",
+   "title": "Pravilnik o zaštitnoj i drugoj osobnoj opremi pripadnika vatrogasnih postrojbi",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1994/61/1102",
+   "versions": [
+    {
+     "from": "1994-08-27",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1994_08_61_1102.html",
+     "sha256": "6707a1b5a711f8dff8852d6b66b59c706b610f715c8ebe11e7303fde3389e811"
+    }
+   ]
+  },
+  {
    "slug": "pravilnik-1994-1103",
    "path": "pravilnik/1994/1103",
    "short": "Pravilnik o programu i načinu osposobljavanja pučanstva za provedbu preventivnih mjera zaštite od požara, gašenje požara i spašavanje ljudi i imovine ugroženih požarom",
@@ -18313,6 +20743,186 @@
      "units": 17,
      "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1994_08_61_1103.html",
      "sha256": "f94f449e71d74fcba9bf3e28f4004ac2452ae16e0d645979caca569b53488c81"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-1994-1104",
+   "path": "pravilnik/1994/1104",
+   "short": "Pravilnik o programu i načinu provedbe teorijske nastave I praktičnih vježbi u vatrogasnim postrojbama",
+   "title": "Pravilnik o programu i načinu provedbe teorijske nastave I praktičnih vježbi u vatrogasnim postrojbama",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1994/61/1104",
+   "versions": [
+    {
+     "from": "1994-08-27",
+     "units": 13,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1994_08_61_1104.html",
+     "sha256": "d9b64b7efc8b9d82d4e25a3ffad32da229936de8029693e296d60ca48075bc32"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-1994-1105",
+   "path": "pravilnik/1994/1105",
+   "short": "Pravilnik o programu osposobljavanja i usavršavanja vatrogasnih kadrova",
+   "title": "Pravilnik o programu osposobljavanja i usavršavanja vatrogasnih kadrova",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1994/61/1105",
+   "versions": [
+    {
+     "from": "1994-08-27",
+     "units": 19,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1994_08_61_1105.html",
+     "sha256": "a0840e1388c82b5146343f019ad796bfc6619cbeeaae2981a79546c4573b372e"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-1994-1106",
+   "path": "pravilnik/1994/1106",
+   "short": "Pravilnik o postupku za ostvarivanje prava na korištenje povlastica u unutarnjem putničkom prometu",
+   "title": "Pravilnik o postupku za ostvarivanje prava na korištenje povlastica u unutarnjem putničkom prometu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1994/61/1106",
+   "versions": [
+    {
+     "from": "1994-08-27",
+     "units": 11,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1994_08_61_1106.html",
+     "sha256": "892db38f7fbca739e950eb2073275c3ae41f3900d7228058fe791b1ba8d48d31"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-1994-1107",
+   "path": "pravilnik/1994/1107",
+   "short": "Pravilnik o načinu i postupku za ostvarivanje novčanih poticaja u poljoprivredi",
+   "title": "Pravilnik o načinu i postupku za ostvarivanje novčanih poticaja u poljoprivredi",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1994/61/1107",
+   "versions": [
+    {
+     "from": "1994-08-19",
+     "units": 30,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1994_08_61_1107.html",
+     "sha256": "a26a7cbc751861e094ff4389fa02c44cd2d060849290abec30d9c8d04317d867"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-1994-1108",
+   "path": "pravilnik/1994/1108",
+   "short": "Pravilnik o načinu i postupku ostvarivanja naknade za kvalitetno poljoprivredno sjeme, NPK mineralna gnojiva i konzerve sardina",
+   "title": "Pravilnik o načinu i postupku ostvarivanja naknade za kvalitetno poljoprivredno sjeme, NPK mineralna gnojiva i konzerve sardina",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1994/61/1108",
+   "versions": [
+    {
+     "from": "1994-08-19",
+     "units": 12,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1994_08_61_1108.html",
+     "sha256": "777b4008e0e973826d91c144e50095e261253942b3214ac7b791b6636df3eb1a"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-1994-1109",
+   "path": "pravilnik/1994/1109",
+   "short": "Pravilnik o načinu izrade plana zaštite divljači na površinama zemljišta izvan lovišta",
+   "title": "Pravilnik o načinu izrade plana zaštite divljači na površinama zemljišta izvan lovišta",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1994/61/1109",
+   "versions": [
+    {
+     "from": "1994-08-27",
+     "units": 12,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1994_08_61_1109.html",
+     "sha256": "7618923f309290f7ce7ce81db339e801ac783eb1201a16c7790bf9f32a0f694a"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-1994-1110",
+   "path": "pravilnik/1994/1110",
+   "short": "Pravilnik o lovostaji",
+   "title": "Pravilnik o lovostaji",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1994/61/1110",
+   "versions": [
+    {
+     "from": "1994-08-27",
+     "units": 10,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1994_08_61_1110.html",
+     "sha256": "8e30994921f7d7ccaf3ca6e51c621cb6a87148f241eea742d62314d75dc50ed4"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-1994-1113",
+   "path": "pravilnik/1994/1113",
+   "short": "Pravilnik o građevinskim i instalacijskim materijalima koji se mogu nabavljati iz sredstava odobrenoga kredita za obnovu",
+   "title": "Pravilnik o građevinskim i instalacijskim materijalima koji se mogu nabavljati iz sredstava odobrenoga kredita za obnovu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1994/62/1113",
+   "versions": [
+    {
+     "from": "1994-08-25",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1994_08_62_1113.html",
+     "sha256": "48fe5b893e5f4d6c658a89fcd0dc8fddc9aa510fdc60b52be1c5123c5aaeb9b3"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-1994-1114",
+   "path": "pravilnik/1994/1114",
+   "short": "Pravilnik o razvrstavanju građevina, građevinskih dijelova i prostora u kategorije ugroženosti od požara",
+   "title": "Pravilnik o razvrstavanju građevina, građevinskih dijelova i prostora u kategorije ugroženosti od požara",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1994/62/1114",
+   "versions": [
+    {
+     "from": "1994-09-02",
+     "units": 9,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1994_08_62_1114.html",
+     "sha256": "3e4a8fb6d02ccfa6b360eabf676355bd5693d2669ce340d8ac16db661b01a8f4"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-1994-1115",
+   "path": "pravilnik/1994/1115",
+   "short": "Pravilnik o izmjeni Pravilnika o klasifikaciji, minimalnim uvjetima i kategorizaciji ugostiteljskih objekata",
+   "title": "Pravilnik o izmjeni Pravilnika o klasifikaciji, minimalnim uvjetima i kategorizaciji ugostiteljskih objekata",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1994/62/1115",
+   "versions": [
+    {
+     "from": "1994-08-25",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1994_08_62_1115.html",
+     "sha256": "0c88a172fc43fadd6accbe29275c42383489fe3cbd75740a726bbc3912005377"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-1994-1133",
+   "path": "pravilnik/1994/1133",
+   "short": "Pravilnik o stručnoj izobrazbi pripadnika pravosudne policije",
+   "title": "Pravilnik o stručnoj izobrazbi pripadnika pravosudne policije",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1994/64/1133",
+   "versions": [
+    {
+     "from": "1994-09-10",
+     "units": 16,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1994_09_64_1133.html",
+     "sha256": "c55e42b1fe794e8069d9badda28d34b108b78b02dd1a4690871a1e37bf9850db"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-1994-1134",
+   "path": "pravilnik/1994/1134",
+   "short": "Pravilnik o boji, oznakama i opremi vozila za potrebe sustava izvršenja sankcija",
+   "title": "Pravilnik o boji, oznakama i opremi vozila za potrebe sustava izvršenja sankcija",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1994/64/1134",
+   "versions": [
+    {
+     "from": "1994-09-10",
+     "units": 9,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1994_09_64_1134.html",
+     "sha256": "a36953cc1ab2c4f9d0c59d42ad9e7c0bec14c739ad069e109f7ac2ab5e4bfa57"
     }
    ]
   },
@@ -18362,6 +20972,21 @@
    ]
   },
   {
+   "slug": "pravilnik-1994-1157",
+   "path": "pravilnik/1994/1157",
+   "short": "Pravilnik o načinu ostvarivanja prava na besplatne obvezatne udžbenike i udžbenike uz popust",
+   "title": "Pravilnik o načinu ostvarivanja prava na besplatne obvezatne udžbenike i udžbenike uz popust",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1994/65/1157",
+   "versions": [
+    {
+     "from": "1994-09-08",
+     "units": 10,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1994_09_65_1157.html",
+     "sha256": "7d27551c17cbc297d7ff928ae88aee26c87f304e0fe05e01e9ee2c0e9d927f7b"
+    }
+   ]
+  },
+  {
    "slug": "pravilnik-1994-1158",
    "path": "pravilnik/1994/1158",
    "short": "Pravilnik o izmjenama i dopunama Pravilnika o stručnoj spremi, ispitima i dozvolama za rad članova posade zrakoplova",
@@ -18373,6 +20998,36 @@
      "units": 17,
      "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1994_09_65_1158.html",
      "sha256": "b6408bc13c634fe09c2182b0bb655b205e02aed326b1aaeaa64a360a9327ef6c"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-1994-116",
+   "path": "pravilnik/1994/116",
+   "short": "Pravilnik o visini i načinu plaćanja naknade za pokrivanje troškova nadzora i utvrđivanja zdravstvene ispravnosti namirnica i predmeta opće uporabe koji se uvoze u Republiku Hrvatsku",
+   "title": "Pravilnik o visini i načinu plaćanja naknade za pokrivanje troškova nadzora i utvrđivanja zdravstvene ispravnosti namirnica i predmeta opće uporabe koji se uvoze u Republiku Hrvatsku",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1994/7/116",
+   "versions": [
+    {
+     "from": "1994-02-09",
+     "units": 11,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1994_02_7_116.html",
+     "sha256": "65317602557d274eb13d882820ff90587ad0ac57f4fb49cd122fe1719f8527fb"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-1994-1168",
+   "path": "pravilnik/1994/1168",
+   "short": "Pravilnik o uvjetima koje moraju ispunjavati klinike, kliničke bolnice i klinički bolnički centri za dodjelu naziva klinička ustanova",
+   "title": "Pravilnik o uvjetima koje moraju ispunjavati klinike, kliničke bolnice i klinički bolnički centri za dodjelu naziva klinička ustanova",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1994/66/1168",
+   "versions": [
+    {
+     "from": "1994-09-21",
+     "units": 18,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1994_09_66_1168.html",
+     "sha256": "2ab43290b194940575483e54bc62b73218a486b7b247d9a1d619528f47236f21"
     }
    ]
   },
@@ -18392,6 +21047,36 @@
    ]
   },
   {
+   "slug": "pravilnik-1994-1226",
+   "path": "pravilnik/1994/1226",
+   "short": "Pravilnik o uvjetima u pogledu prostora, djelatnika i medicinsko-tehničke opreme za obavljanje privatne prakse",
+   "title": "Pravilnik o uvjetima u pogledu prostora, djelatnika i medicinsko-tehničke opreme za obavljanje privatne prakse",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1994/71/1226",
+   "versions": [
+    {
+     "from": "1994-10-15",
+     "units": 41,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1994_10_71_1226.html",
+     "sha256": "cab9a9f41d156249c4fe3b256a24c059e5768e4eb428a15010d1a37481615c49"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-1994-1282",
+   "path": "pravilnik/1994/1282",
+   "short": "Pravilnik o izmjeni Pravilnika o primjeni Zakona o porezu na promet proizvoda i usluga",
+   "title": "Pravilnik o izmjeni Pravilnika o primjeni Zakona o porezu na promet proizvoda i usluga",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1994/73/1282",
+   "versions": [
+    {
+     "from": "1994-10-14",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1994_10_73_1282.html",
+     "sha256": "83a8172712e6af1dc8392a50aa26036f0e681bfd4dc460f284c89046687d0d21"
+    }
+   ]
+  },
+  {
    "slug": "pravilnik-1994-1283",
    "path": "pravilnik/1994/1283",
    "short": "Pravilnik o sadržaju i načinu registracije odluke o izboru odnosno ugovora o zapošljavanju radnika-pomorca kao člana posade broda",
@@ -18403,6 +21088,111 @@
      "units": 11,
      "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1994_10_73_1283.html",
      "sha256": "60901fb833c34375b7d1e29f2236222f18f8f4a7401139d14ea9a16823e3c196"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-1994-1295",
+   "path": "pravilnik/1994/1295",
+   "short": "Pravilnik o uvjetima za ispitivanje uvezenih uređaja za gašenje požara",
+   "title": "Pravilnik o uvjetima za ispitivanje uvezenih uređaja za gašenje požara",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1994/75/1295",
+   "versions": [
+    {
+     "from": "1994-10-28",
+     "units": 18,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1994_10_75_1295.html",
+     "sha256": "ed4ce51b3ac49967015a6f3e3e9c0c17a1fc4cae1ac99150d982a3d74558223a"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-1994-1328",
+   "path": "pravilnik/1994/1328",
+   "short": "Pravilnik o izmjeni Pravilnika o lovostaji",
+   "title": "Pravilnik o izmjeni Pravilnika o lovostaji",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1994/79/1328",
+   "versions": [
+    {
+     "from": "1994-11-04",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1994_10_79_1328.html",
+     "sha256": "f30ac673d09bcc0b5b2b1e19e2cffdb2877bbd817a954be81de9c8a72a8cd54f"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-1994-1353",
+   "path": "pravilnik/1994/1353",
+   "short": "Pravilnik o postupku za utvrđivanje grba i zastave jedinica lokalne samouprave",
+   "title": "Pravilnik o postupku za utvrđivanje grba i zastave jedinica lokalne samouprave",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1994/80/1353",
+   "versions": [
+    {
+     "from": "1994-11-02",
+     "units": 19,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1994_11_80_1353.html",
+     "sha256": "d9ee11adbae955b10fab34c002631563826b8ae5058ad300f1f806f0d180e325"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-1994-1381",
+   "path": "pravilnik/1994/1381",
+   "short": "Pravilnik o brodicama",
+   "title": "Pravilnik o brodicama",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1994/81/1381",
+   "versions": [
+    {
+     "from": "1994-11-15",
+     "units": 81,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1994_11_81_1381.html",
+     "sha256": "a7f704de12fb024fc18e048ff53726458866bcd0f8fef3a492be84dc5dfed446"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-1994-1386",
+   "path": "pravilnik/1994/1386",
+   "short": "Pravilnik o izmjeni Pravilnika o pravima, uvjetima i načinu ostvarivanja prava iz obveznog zdravstvenog osiguranja",
+   "title": "Pravilnik o izmjeni Pravilnika o pravima, uvjetima i načinu ostvarivanja prava iz obveznog zdravstvenog osiguranja",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1994/81/1386",
+   "versions": [
+    {
+     "from": "1994-11-07",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1994_11_81_1386.html",
+     "sha256": "4c6be60f9d45a28dd5effa3e18efd1e007a63ecb03c3787b443cbc23625896c6"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-1994-1387",
+   "path": "pravilnik/1994/1387",
+   "short": "Pravilmik o izmjeni i dopuni Pravilnika o ortopedskim i drugim pomagalima",
+   "title": "Pravilmik o izmjeni i dopuni Pravilnika o ortopedskim i drugim pomagalima",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1994/81/1387",
+   "versions": [
+    {
+     "from": "1994-11-07",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1994_11_81_1387.html",
+     "sha256": "88f7e1f3e53d006c2c96a3626c7347f28a2982d3657b88e5fe657127b80df990"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-1994-1401",
+   "path": "pravilnik/1994/1401",
+   "short": "Pravilnik o izmjenama Pravilnika o službenim sjedištima javnih bilježnika",
+   "title": "Pravilnik o izmjenama Pravilnika o službenim sjedištima javnih bilježnika",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1994/82/1401",
+   "versions": [
+    {
+     "from": "1994-11-19",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1994_11_82_1401.html",
+     "sha256": "6a74bb4dae6bbf86f881c398d1ecc0632fa7529d1388cb553bd5318da0a53709"
     }
    ]
   },
@@ -18452,6 +21242,21 @@
    ]
   },
   {
+   "slug": "pravilnik-1994-1441",
+   "path": "pravilnik/1994/1441",
+   "short": "Pravilnik o izmjenama i dopunama Pravilnika o registraciji i opremi te uvjetima za upravljanje vozilima Ministarstva unutarnjih poslova Republike Hrvatske",
+   "title": "Pravilnik o izmjenama i dopunama Pravilnika o registraciji i opremi te uvjetima za upravljanje vozilima Ministarstva unutarnjih poslova Republike Hrvatske",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1994/83/1441",
+   "versions": [
+    {
+     "from": "1994-11-26",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1994_11_83_1441.html",
+     "sha256": "34677acf2e03d4aec6635e3d739ad9c5499d8428a9a657d5350fb37f83aafee3"
+    }
+   ]
+  },
+  {
    "slug": "pravilnik-1994-1443",
    "path": "pravilnik/1994/1443",
    "short": "Pravilnik o izmjenama i dopunama Pravilnika u obliku, sadržaju i uporabi obrazaca platnog prometa",
@@ -18482,6 +21287,36 @@
    ]
   },
   {
+   "slug": "pravilnik-1994-1457",
+   "path": "pravilnik/1994/1457",
+   "short": "Pravilnik o načinu vođenja očevidnika o obavljenom nadzoru ili kontroli državnog inspektora telekomunikcija i državnog djelatnika koji obavlja poslove kontrole radio-frekvencijskog spektra",
+   "title": "Pravilnik o načinu vođenja očevidnika o obavljenom nadzoru ili kontroli državnog inspektora telekomunikcija i državnog djelatnika koji obavlja poslove kontrole radio-frekvencijskog spektra",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1994/84/1457",
+   "versions": [
+    {
+     "from": "1994-12-02",
+     "units": 10,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1994_11_84_1457.html",
+     "sha256": "50558aa2c2637d1b7a90ff7117e2d669e4f2b566555d14d8eb7e79b69d933f9f"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-1994-1458",
+   "path": "pravilnik/1994/1458",
+   "short": "Pravilnik o obrascu iskaznice državnog inspektora za telekomunikacije i obrascu iskaznice državnog djelatnika koji obavlja poslove kontrole radio-frekvencijskog spektra",
+   "title": "Pravilnik o obrascu iskaznice državnog inspektora za telekomunikacije i obrascu iskaznice državnog djelatnika koji obavlja poslove kontrole radio-frekvencijskog spektra",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1994/84/1458",
+   "versions": [
+    {
+     "from": "1994-12-02",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1994_11_84_1458.html",
+     "sha256": "c60b57244004a5c71d691c06ec21802c314157ab6b13834f9692baa7acd49d9f"
+    }
+   ]
+  },
+  {
    "slug": "pravilnik-1994-1460",
    "path": "pravilnik/1994/1460",
    "short": "Pravilnik o izmjenama Pravilnika o polaganju stručnog ispita učitelja i stručnih suradnika u osnovnoj školi",
@@ -18493,6 +21328,36 @@
      "units": 4,
      "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1994_11_84_1460.html",
      "sha256": "04300425d730c4761500e9f863f0c9505207016b516394cb8d553a9b6d8ab775"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-1994-1527",
+   "path": "pravilnik/1994/1527",
+   "short": "Pravilnik o izmjenama i dopunama PraviInika o psihičkim, fizičkim i zdravstvenim sposobnostima koje moraju ispunjavati izvršiteIji na posIovima ovlaštene sIužbene osobe Ministarstva unutarnjih poslova",
+   "title": "Pravilnik o izmjenama i dopunama PraviInika o psihičkim, fizičkim i zdravstvenim sposobnostima koje moraju ispunjavati izvršiteIji na posIovima ovlaštene sIužbene osobe Ministarstva unutarnjih poslova",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1994/88/1527",
+   "versions": [
+    {
+     "from": "1994-12-13",
+     "units": 16,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1994_12_88_1527.html",
+     "sha256": "66f22ea8cbffa1389136a4001a7d37021b149a9e16b03f719d7823a59c80263b"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-1994-1536",
+   "path": "pravilnik/1994/1536",
+   "short": "Pravilnik o uvjetima i načinu polaganja vozačkog ispita",
+   "title": "Pravilnik o uvjetima i načinu polaganja vozačkog ispita",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1994/89/1536",
+   "versions": [
+    {
+     "from": "1994-12-16",
+     "units": 39,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1994_12_89_1536.html",
+     "sha256": "99fa82010c9537e887491e6a6268ebf59859bb1819f62ee9d72c2ffd24d8a646"
     }
    ]
   },
@@ -18512,6 +21377,36 @@
    ]
   },
   {
+   "slug": "pravilnik-1994-1561",
+   "path": "pravilnik/1994/1561",
+   "short": "Pravilnik o obliku i sadržaju porezne prijave te načinu obračunavanja uplaćenih predujmova i razlika dohotka po godišnjem obračunu",
+   "title": "Pravilnik o obliku i sadržaju porezne prijave te načinu obračunavanja uplaćenih predujmova i razlika dohotka po godišnjem obračunu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1994/91/1561",
+   "versions": [
+    {
+     "from": "1994-12-20",
+     "units": 15,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1994_12_91_1561.html",
+     "sha256": "750d6861d39b924824746f7bf10de713ca09a3aca2a1bc781461f0afdcc22f2a"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-1994-1564",
+   "path": "pravilnik/1994/1564",
+   "short": "Pravilnik o uvjetima i načinu održavanja reda u lukama i na ostalim dijelovima unutrašnjih morskih voda i teritorijaInog mora Republike Hrvatske, te granicama plovidbe brodova i brodica izvan luka",
+   "title": "Pravilnik o uvjetima i načinu održavanja reda u lukama i na ostalim dijelovima unutrašnjih morskih voda i teritorijaInog mora Republike Hrvatske, te granicama plovidbe brodova i brodica izvan luka",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1994/91/1564",
+   "versions": [
+    {
+     "from": "1994-12-20",
+     "units": 83,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1994_12_91_1564.html",
+     "sha256": "6d3b014a3dfbf083fc8d38185aaf74f08f1c41ffd7f6e35420fd4c5b3329004a"
+    }
+   ]
+  },
+  {
    "slug": "pravilnik-1994-1566",
    "path": "pravilnik/1994/1566",
    "short": "Pravilnik o standardima i normativima prava iz obveznog zdravstvenog osiguranja za 1995. godinu",
@@ -18523,6 +21418,36 @@
      "units": 20,
      "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1994_12_91_1566.html",
      "sha256": "7039252bb090d0155788dd5f3d9a04f2e53f64197897f0494ad4aab7073ce405"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-1994-1605",
+   "path": "pravilnik/1994/1605",
+   "short": "Pravilnik o izdavanju suglasnosti za upis u sudski registar pravnih osoba koje obavljaju stručne poslove prostornog uređenja",
+   "title": "Pravilnik o izdavanju suglasnosti za upis u sudski registar pravnih osoba koje obavljaju stručne poslove prostornog uređenja",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1994/93/1605",
+   "versions": [
+    {
+     "from": "1994-12-24",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1994_12_93_1605.html",
+     "sha256": "97eab9cbcbdce4d2cfc83e575fdbc17e49ebe230adbeee4040238630569dae38"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-1994-1606",
+   "path": "pravilnik/1994/1606",
+   "short": "Pravilnik o određivanju zahvata u prostoru za koje se ne izdaje lokacijska dozvola",
+   "title": "Pravilnik o određivanju zahvata u prostoru za koje se ne izdaje lokacijska dozvola",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1994/93/1606",
+   "versions": [
+    {
+     "from": "1994-12-24",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1994_12_93_1606.html",
+     "sha256": "bdf80e700089dd8237b504b86b11dc74a5033f9b940a08f1983bafa3b40725e3"
     }
    ]
   },
@@ -18557,6 +21482,21 @@
    ]
   },
   {
+   "slug": "pravilnik-1994-165",
+   "path": "pravilnik/1994/165",
+   "short": "Pravilnik o polaganju stručnih ispita za djelatnike međunarodnog otpremništva u svezi carinjenja robe",
+   "title": "Pravilnik o polaganju stručnih ispita za djelatnike međunarodnog otpremništva u svezi carinjenja robe",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1994/9/165",
+   "versions": [
+    {
+     "from": "1994-02-18",
+     "units": 18,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1994_02_9_165.html",
+     "sha256": "adcda67dbaf51275993e57173d1c69088661a4e16d596fd4b48cb435f365a307"
+    }
+   ]
+  },
+  {
    "slug": "pravilnik-1994-1665",
    "path": "pravilnik/1994/1665",
    "short": "Pravilnik o izmjenama Pravilnika o pečatu za pečaćenje radijske postaje, telekomunikacijske i druge tehničke opreme",
@@ -18583,6 +21523,21 @@
      "units": 5,
      "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1994_12_96_1666.html",
      "sha256": "b19d33ac914edab513d7bbdae2865a8c06ff2dd2e7409b093c55d29864352c40"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-1994-1667",
+   "path": "pravilnik/1994/1667",
+   "short": "Pravilnik o izmjeni Pravilnika o klasifikaciji, minimalnim uvjetima i kategorizaciji ugostiteljskih objekata",
+   "title": "Pravilnik o izmjeni Pravilnika o klasifikaciji, minimalnim uvjetima i kategorizaciji ugostiteljskih objekata",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1994/96/1667",
+   "versions": [
+    {
+     "from": "1994-12-29",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1994_12_96_1667.html",
+     "sha256": "697f7fd8d3b250e09b43b26d485fc6aa0543d09d66b5cb817d08eecd0c3e3641"
     }
    ]
   },
@@ -18617,6 +21572,21 @@
    ]
   },
   {
+   "slug": "pravilnik-1994-1696",
+   "path": "pravilnik/1994/1696",
+   "short": "Pravilnik o dopuštenoj visini kala, rasipa, kvara i loma na proizvodima u trgovini robom na malo",
+   "title": "Pravilnik o dopuštenoj visini kala, rasipa, kvara i loma na proizvodima u trgovini robom na malo",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1994/96/1696",
+   "versions": [
+    {
+     "from": "1994-12-29",
+     "units": 12,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1994_12_96_1696.html",
+     "sha256": "6dea7201a65ef6d41303e50381136baf842be8a3b3d1cf086fa3cf043719cf6d"
+    }
+   ]
+  },
+  {
    "slug": "pravilnik-1994-218",
    "path": "pravilnik/1994/218",
    "short": "Pravilnik o vježbaonicama u srednjim školama",
@@ -18647,6 +21617,21 @@
    ]
   },
   {
+   "slug": "pravilnik-1994-220",
+   "path": "pravilnik/1994/220",
+   "short": "Pravilnik o izmjeni Pravilnika o obaveznome zdravstvenom pregledu usjeva i objekata, sjemena i sadnog materijala poljoprivrednog i šumskog bilja",
+   "title": "Pravilnik o izmjeni Pravilnika o obaveznome zdravstvenom pregledu usjeva i objekata, sjemena i sadnog materijala poljoprivrednog i šumskog bilja",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1994/11/220",
+   "versions": [
+    {
+     "from": "1994-02-17",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1994_02_11_220.html",
+     "sha256": "528f5a06f824f008c0814264226cbea077f9ab52d0f11db73fc389af5ac8030f"
+    }
+   ]
+  },
+  {
    "slug": "pravilnik-1994-250",
    "path": "pravilnik/1994/250",
    "short": "Pravilnik o izmjeni Pravilnika o novčanim naknadama vojnika i kadeta škola pričuvnih časnika za vrijeme služenja vojnog roka",
@@ -18658,6 +21643,36 @@
      "units": 4,
      "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1994_02_13_250.html",
      "sha256": "3548e97ce0972849c6522f39a647b19f8b1b08d6bcae5b3c27e78da4a89f700c"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-1994-252",
+   "path": "pravilnik/1994/252",
+   "short": "Pravilnik o uvjetima i trajanju karantene za uvezene životinje",
+   "title": "Pravilnik o uvjetima i trajanju karantene za uvezene životinje",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1994/13/252",
+   "versions": [
+    {
+     "from": "1994-03-05",
+     "units": 15,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1994_02_13_252.html",
+     "sha256": "dc69f90d44eca523ee0afb8b6eeda7552dbfb6135232e22f65c49568fc473997"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-1994-26",
+   "path": "pravilnik/1994/26",
+   "short": "Pravilnik o početnom godišnjem iznosu naknade za koncesiju poljoprivrednog zemljišta u vlasništvu države",
+   "title": "Pravilnik o početnom godišnjem iznosu naknade za koncesiju poljoprivrednog zemljišta u vlasništvu države",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1994/2/26",
+   "versions": [
+    {
+     "from": "1994-01-20",
+     "units": 8,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1994_01_2_26.html",
+     "sha256": "d36d701c82e551fe015ca58d09d31b60d2f6c8bd0edc50639944aec7ff1e8c75"
     }
    ]
   },
@@ -18692,6 +21707,36 @@
    ]
   },
   {
+   "slug": "pravilnik-1994-308",
+   "path": "pravilnik/1994/308",
+   "short": "Pravilnik o stručnim ispitima u srednjem školstvu",
+   "title": "Pravilnik o stručnim ispitima u srednjem školstvu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1994/16/308",
+   "versions": [
+    {
+     "from": "1994-03-12",
+     "units": 20,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1994_03_16_308.html",
+     "sha256": "5552752a13d2d6aa4d0ca70c919bbcb2f6962cfa7fdfea8ed60faa1a9ff87951"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-1994-324",
+   "path": "pravilnik/1994/324",
+   "short": "Pravilnik o načinu organiziranja nastave u obrtničkim školama i praktične nastave u drugim strukovnim školama",
+   "title": "Pravilnik o načinu organiziranja nastave u obrtničkim školama i praktične nastave u drugim strukovnim školama",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1994/18/324",
+   "versions": [
+    {
+     "from": "1994-03-17",
+     "units": 13,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1994_03_18_324.html",
+     "sha256": "3722c9b5ed7a2a3e28f6753dd0158d555cd51c0e6b9d10372421d3d5b7c9be7c"
+    }
+   ]
+  },
+  {
    "slug": "pravilnik-1994-339",
    "path": "pravilnik/1994/339",
    "short": "Pravilnik o utvrđivanju uvjeta i načina pod kojima građani mogu prenijeti svoju deviznu štednju s organizacijske jedinice banke čije je sjedište izvan Republike Hrvatske na banke u Republici Hrvatskoj",
@@ -18722,6 +21767,96 @@
    ]
   },
   {
+   "slug": "pravilnik-1994-351",
+   "path": "pravilnik/1994/351",
+   "short": "Pravilnik o knjigovodstvu i računskom planu neprofitnih organizacija",
+   "title": "Pravilnik o knjigovodstvu i računskom planu neprofitnih organizacija",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1994/20/351",
+   "versions": [
+    {
+     "from": "1994-03-18",
+     "units": 46,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1994_03_20_351.html",
+     "sha256": "110050852bdbf1204a0752e3f0c383ea6a9308b569bee138a819e3561d37d138"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-1994-386",
+   "path": "pravilnik/1994/386",
+   "short": "Pravilnik o kriterijima za primanje na pripravnički staž zdravstvenih djelatnika",
+   "title": "Pravilnik o kriterijima za primanje na pripravnički staž zdravstvenih djelatnika",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1994/22/386",
+   "versions": [
+    {
+     "from": "1994-03-31",
+     "units": 15,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1994_03_22_386.html",
+     "sha256": "6da5121073925484b969110b1fe31147f59007401bb32872c870c0cc3c9beaf0"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-1994-4",
+   "path": "pravilnik/1994/4",
+   "short": "Pravilnik o stručnim kriterijima za obavljanje djelatnosti ostvarivanja autorskih prava i prava umjetnika izvođača",
+   "title": "Pravilnik o stručnim kriterijima za obavljanje djelatnosti ostvarivanja autorskih prava i prava umjetnika izvođača",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1994/1/4",
+   "versions": [
+    {
+     "from": "1994-01-15",
+     "units": 10,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1994_01_1_4.html",
+     "sha256": "ca024b8df0d2f2269325ece536cc6479766656ebfe59f551d19f22545e9a1c89"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-1994-403",
+   "path": "pravilnik/1994/403",
+   "short": "Pravilnik o uvjetima kojima moraju udovoljavati zdravstvene ustanove koje provode zdravstveni odgoj osoba koje rade u proizvodnji ili prometu namirnica",
+   "title": "Pravilnik o uvjetima kojima moraju udovoljavati zdravstvene ustanove koje provode zdravstveni odgoj osoba koje rade u proizvodnji ili prometu namirnica",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1994/23/403",
+   "versions": [
+    {
+     "from": "1994-04-02",
+     "units": 9,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1994_03_23_403.html",
+     "sha256": "bdaf63e4e65e8470f31717bf54c9b06a392e46e5e3786a8f6646caa89dd2a83e"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-1994-405",
+   "path": "pravilnik/1994/405",
+   "short": "Pravilnik o uvjetima kojima moraju udovoljavati zdravstvene ustanove koje obavljaju imunizaciju protiv žute groznice i bjesnoće",
+   "title": "Pravilnik o uvjetima kojima moraju udovoljavati zdravstvene ustanove koje obavljaju imunizaciju protiv žute groznice i bjesnoće",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1994/23/405",
+   "versions": [
+    {
+     "from": "1994-04-02",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1994_03_23_405.html",
+     "sha256": "07709d7d7af296d1d0a0e229fcf0faf3ecada8b34a7a8f631264ce2521e1ca82"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-1994-408",
+   "path": "pravilnik/1994/408",
+   "short": "Pravilnik o načinu stjecanja osnovnog znanja o zdravstvenoj ispravnosti namirnica i osobnoj higijeni osoba koje rade u proizvodnji i prometu namirnica",
+   "title": "Pravilnik o načinu stjecanja osnovnog znanja o zdravstvenoj ispravnosti namirnica i osobnoj higijeni osoba koje rade u proizvodnji i prometu namirnica",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1994/23/408",
+   "versions": [
+    {
+     "from": "1994-04-02",
+     "units": 20,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1994_03_23_408.html",
+     "sha256": "b7ed2354f69b8e9f258ca3ec4a61cc57cfe1c760e338e69128ebed9a4006a754"
+    }
+   ]
+  },
+  {
    "slug": "pravilnik-1994-411",
    "path": "pravilnik/1994/411",
    "short": "Pravilnik o načinu vođenja evidencije o izvršenim laboratorijskim ispitivanjima",
@@ -18733,6 +21868,21 @@
      "units": 9,
      "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1994_03_23_411.html",
      "sha256": "3314e7c9371ed8cdbb2eccbb91e896e5ed55815dd5be622f5f56f4c68fa5159e"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-1994-452",
+   "path": "pravilnik/1994/452",
+   "short": "Pravilnik o izmjeni Pravilnika o ortopedskim i drugim pomagalima",
+   "title": "Pravilnik o izmjeni Pravilnika o ortopedskim i drugim pomagalima",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1994/26/452",
+   "versions": [
+    {
+     "from": "1994-04-11",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1994_04_26_452.html",
+     "sha256": "40df1c0d13d76eaa1ea39a513a4df5f0f83082271a95124289ca2ccdfde6c87f"
     }
    ]
   },
@@ -18767,6 +21917,21 @@
    ]
   },
   {
+   "slug": "pravilnik-1994-518",
+   "path": "pravilnik/1994/518",
+   "short": "Pravilnik o polaganju mature i završnog ispita",
+   "title": "Pravilnik o polaganju mature i završnog ispita",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1994/29/518",
+   "versions": [
+    {
+     "from": "1994-04-19",
+     "units": 16,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1994_04_29_518.html",
+     "sha256": "8c19c03176b9f49a98641dda3a65073f770099f9b463ea1388c231424ea8f387"
+    }
+   ]
+  },
+  {
    "slug": "pravilnik-1994-579",
    "path": "pravilnik/1994/579",
    "short": "Pravilnik o uvjetima za obavljanje djelatnosti tehničke kulture",
@@ -18797,6 +21962,141 @@
    ]
   },
   {
+   "slug": "pravilnik-1994-583",
+   "path": "pravilnik/1994/583",
+   "short": "Pravilnik o uvjetima i načinu obavljanja mjera za sprečavanje i suzbijanje bolničkih infekcija",
+   "title": "Pravilnik o uvjetima i načinu obavljanja mjera za sprečavanje i suzbijanje bolničkih infekcija",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1994/31/583",
+   "versions": [
+    {
+     "from": "1994-04-28",
+     "units": 26,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1994_04_31_583.html",
+     "sha256": "d7835bd13a92b7ad173f81e7c25ea2e6c15713e33453189892571ad86df55243"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-1994-592",
+   "path": "pravilnik/1994/592",
+   "short": "Pravilnik o stručnoj spremi i pedagoško-psihološkom obrazovanju nastavnika u srednjem školstvu",
+   "title": "Pravilnik o stručnoj spremi i pedagoško-psihološkom obrazovanju nastavnika u srednjem školstvu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1994/32/592",
+   "versions": [
+    {
+     "from": "1994-04-30",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1994_04_32_592.html",
+     "sha256": "81bd5e74006f665932763d5c9b9ad4749b7dd75f966cf0c13a21f6265007e78f"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-1994-593",
+   "path": "pravilnik/1994/593",
+   "short": "Pravilnik o načinu i uvjetima za obavljanje sigurnog tijeka željezničkog prometa",
+   "title": "Pravilnik o načinu i uvjetima za obavljanje sigurnog tijeka željezničkog prometa",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1994/32/593",
+   "versions": [
+    {
+     "from": "1994-04-30",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1994_04_32_593.html",
+     "sha256": "53eb02a60597a53174b84992c2bb9837b8b8be1e584e3f44339d4cd9ec6e843d"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-1994-596",
+   "path": "pravilnik/1994/596",
+   "short": "Pravilnik o poslovima na kojima djelatnici neposredno sudjeluju u obavljanju željezničkog prometa",
+   "title": "Pravilnik o poslovima na kojima djelatnici neposredno sudjeluju u obavljanju željezničkog prometa",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1994/32/596",
+   "versions": [
+    {
+     "from": "1994-04-30",
+     "units": 6,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1994_04_32_596.html",
+     "sha256": "90300d3afda6e02379e0d7d8f25aa4744b29b44845ed34bb806e343b79bca965"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-1994-597",
+   "path": "pravilnik/1994/597",
+   "short": "Pravilnik o specijalističkom usavršavanju zdravstvenih djelatnika",
+   "title": "Pravilnik o specijalističkom usavršavanju zdravstvenih djelatnika",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1994/33/597",
+   "versions": [
+    {
+     "from": "1994-05-03",
+     "units": 36,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1994_04_33_597.html",
+     "sha256": "1228e556aaf9b4063b3ecd2d2e6019c6ff88b423e2fd26b70746987eae44606e"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-1994-604",
+   "path": "pravilnik/1994/604",
+   "short": "Pravilnik o izmjeni Pravilnika o klasifikaciji, minimalnim uvjetima i kategorizaciji ugostiteljskih objekata",
+   "title": "Pravilnik o izmjeni Pravilnika o klasifikaciji, minimalnim uvjetima i kategorizaciji ugostiteljskih objekata",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1994/34/604",
+   "versions": [
+    {
+     "from": "1994-04-29",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1994_04_34_604.html",
+     "sha256": "b463faf3676c0454572eeca515db32ac0138e0a35b7e5a869367828e0e4ef9b1"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-1994-630",
+   "path": "pravilnik/1994/630",
+   "short": "Pravilnik o građevinama za koje nije potrebno ishoditi posebne uvjete građenja glede zaštite od požara",
+   "title": "Pravilnik o građevinama za koje nije potrebno ishoditi posebne uvjete građenja glede zaštite od požara",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1994/35/630",
+   "versions": [
+    {
+     "from": "1994-05-12",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1994_05_35_630.html",
+     "sha256": "710827eb966dc2e8545ae66f55b25d3eb50444363806d843ee5e7f81ac1d1fe0"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-1994-631",
+   "path": "pravilnik/1994/631",
+   "short": "Pravilnik o programu i načinu polaganja stručnog ispita za obavljanje poslova održavanja vatrogasnih aparata",
+   "title": "Pravilnik o programu i načinu polaganja stručnog ispita za obavljanje poslova održavanja vatrogasnih aparata",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1994/35/631",
+   "versions": [
+    {
+     "from": "1994-05-12",
+     "units": 17,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1994_05_35_631.html",
+     "sha256": "d8cc05701aa15953912bc3981da45945e227713132230fbd149b50166a21e243"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-1994-632",
+   "path": "pravilnik/1994/632",
+   "short": "Pravilnik o programu i načinu polaganja stručnog ispita za obavljanje poslova ispitivanja sustava za dojavu i gašenje požara",
+   "title": "Pravilnik o programu i načinu polaganja stručnog ispita za obavljanje poslova ispitivanja sustava za dojavu i gašenje požara",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1994/35/632",
+   "versions": [
+    {
+     "from": "1994-05-12",
+     "units": 14,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1994_05_35_632.html",
+     "sha256": "fd5ffee5ab99e6d5b73931efdf3031d58b61f9176418d57138cbd62fa8b6b884"
+    }
+   ]
+  },
+  {
    "slug": "pravilnik-1994-635",
    "path": "pravilnik/1994/635",
    "short": "Pravilnik o stručnom ispitu za zdravstvenog inspektora",
@@ -18808,6 +22108,21 @@
      "units": 16,
      "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1994_05_35_635.html",
      "sha256": "f68caa0c6db65603a4c342abe56c618c9f1162f8499354f4fd26fb2ba685324f"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-1994-651",
+   "path": "pravilnik/1994/651",
+   "short": "Pravilnik o uvjetima i načinu provođenja dopunskog zdravstvenog osiguranja",
+   "title": "Pravilnik o uvjetima i načinu provođenja dopunskog zdravstvenog osiguranja",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1994/36/651",
+   "versions": [
+    {
+     "from": "1994-05-14",
+     "units": 23,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1994_05_36_651.html",
+     "sha256": "23a110df34b872efc692380e37cebcbb678c955b136aab52699caf6846bd24bd"
     }
    ]
   },
@@ -18827,6 +22142,66 @@
    ]
   },
   {
+   "slug": "pravilnik-1994-694",
+   "path": "pravilnik/1994/694",
+   "short": "Pravilnik o javnobilježničkim uredima",
+   "title": "Pravilnik o javnobilježničkim uredima",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1994/38/694",
+   "versions": [
+    {
+     "from": "1994-05-24",
+     "units": 11,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1994_05_38_694.html",
+     "sha256": "80d74a278d2727d2836b52e4c969d0c784fe1e0ea02b93d2d6698cd25f59c719"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-1994-695",
+   "path": "pravilnik/1994/695",
+   "short": "Pravilnik o radnom vremenu javnih bilježnika",
+   "title": "Pravilnik o radnom vremenu javnih bilježnika",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1994/38/695",
+   "versions": [
+    {
+     "from": "1994-05-24",
+     "units": 8,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1994_05_38_695.html",
+     "sha256": "90d15eb3cad305ae1c16ff80b56807f6878aef23401c25392241b05d66bab636"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-1994-696",
+   "path": "pravilnik/1994/696",
+   "short": "Pravilnik o privremenoj javnobilježničkoj tarifi",
+   "title": "Pravilnik o privremenoj javnobilježničkoj tarifi",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1994/38/696",
+   "versions": [
+    {
+     "from": "1994-05-24",
+     "units": 42,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1994_05_38_696.html",
+     "sha256": "4c9d1370769e5800680b2a6adbf9ea660c0c22beb64d32501e9297da4c7a7c7a"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-1994-697",
+   "path": "pravilnik/1994/697",
+   "short": "Pravilnik o javnobilježničkim protestnim upisnicima",
+   "title": "Pravilnik o javnobilježničkim protestnim upisnicima",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1994/38/697",
+   "versions": [
+    {
+     "from": "1994-05-24",
+     "units": 14,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1994_05_38_697.html",
+     "sha256": "1336d8450fa2de95f3c4b4270dbedbde8b26fe8c541de9900b0def0eefdbc93b"
+    }
+   ]
+  },
+  {
    "slug": "pravilnik-1994-73",
    "path": "pravilnik/1994/73",
    "short": "Pravilnik o izmjenama i dopunama Pravilnika o izvršavanju vojne obveze i civilne službe",
@@ -18838,6 +22213,21 @@
      "units": 29,
      "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1994_01_3_73.html",
      "sha256": "e9661f28d7b8a7632badb7cb68d71d7389b5955bdd0bb1e1b29a8ce6fe1489b9"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-1994-733",
+   "path": "pravilnik/1994/733",
+   "short": "Pravilnik o stručnim ispitima u području zaštite od požara",
+   "title": "Pravilnik o stručnim ispitima u području zaštite od požara",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1994/40/733",
+   "versions": [
+    {
+     "from": "1994-05-31",
+     "units": 22,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1994_05_40_733.html",
+     "sha256": "6c5da74a677d881d3108f6d32c9c4d3a99a04f1a8c1f8456640c6d3e50688fa1"
     }
    ]
   },
@@ -18857,6 +22247,21 @@
    ]
   },
   {
+   "slug": "pravilnik-1994-740",
+   "path": "pravilnik/1994/740",
+   "short": "Pravilnik o podnošenju isprava u carinskom postupku",
+   "title": "Pravilnik o podnošenju isprava u carinskom postupku",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1994/41/740",
+   "versions": [
+    {
+     "from": "1994-06-10",
+     "units": 51,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1994_05_41_740.html",
+     "sha256": "1c9dad80e10fc07fcbe1bc26bc3f8533ba39fffbfcd3d74545d0efe5c1eebd3c"
+    }
+   ]
+  },
+  {
    "slug": "pravilnik-1994-750",
    "path": "pravilnik/1994/750",
    "short": "Pravilnik o kalendaru rada osnovnih škola za 1994/85. školsku godinu",
@@ -18868,6 +22273,36 @@
      "units": 8,
      "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1994_05_42_750.html",
      "sha256": "b367b53e6027911f7b76932433fd47c66b3dbd0039cf5da2b976c0842e365be4"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-1994-76",
+   "path": "pravilnik/1994/76",
+   "short": "Pravilnik o načinu i postupku za ostvarivanje premije za određene proizvode u poljoprivredi",
+   "title": "Pravilnik o načinu i postupku za ostvarivanje premije za određene proizvode u poljoprivredi",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1994/3/76",
+   "versions": [
+    {
+     "from": "1994-01-14",
+     "units": 27,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1994_01_3_76.html",
+     "sha256": "8a8b30dd062ef28782f85f21a83653a380d1a14d60cf9f591f99116350518dda"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-1994-773",
+   "path": "pravilnik/1994/773",
+   "short": "Pravilnik o izmjeni i dopuni Pravilnika o diplomatskim i službenim putovnicama i vizama Republike Hrvatske",
+   "title": "Pravilnik o izmjeni i dopuni Pravilnika o diplomatskim i službenim putovnicama i vizama Republike Hrvatske",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1994/43/773",
+   "versions": [
+    {
+     "from": "1994-05-31",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1994_05_43_773.html",
+     "sha256": "13d81550e3ed132bdafa7948ea458ec62b67ab1a903cfd2a0879a775e8f9b19a"
     }
    ]
   },
@@ -18887,6 +22322,96 @@
    ]
   },
   {
+   "slug": "pravilnik-1994-800",
+   "path": "pravilnik/1994/800",
+   "short": "Pravilnik o obrascima i načinu vođenja Upisnika turističkih zajednica",
+   "title": "Pravilnik o obrascima i načinu vođenja Upisnika turističkih zajednica",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1994/45/800",
+   "versions": [
+    {
+     "from": "1994-06-18",
+     "units": 21,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1994_06_45_800.html",
+     "sha256": "068b9d7e771765618ca3e33f3d78472d26cfb9f3ebb18686929d7c1354900a25"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-1994-801",
+   "path": "pravilnik/1994/801",
+   "short": "Pravilnik o posebnim uvjetima koje moraju ispunjavati zaposleni u turističkom uredu turističke zajednice općine, grada, županije i Glavnom uredu Hrvatske turističke zajednice",
+   "title": "Pravilnik o posebnim uvjetima koje moraju ispunjavati zaposleni u turističkom uredu turističke zajednice općine, grada, županije i Glavnom uredu Hrvatske turističke zajednice",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1994/45/801",
+   "versions": [
+    {
+     "from": "1994-06-18",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1994_06_45_801.html",
+     "sha256": "7d6aa3d7ee2d1da3765e199a4610719095c8c6888e957c1802714dacb48b1edd"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-1994-802",
+   "path": "pravilnik/1994/802",
+   "short": "Pravilnik o postupku prijave i odjave turista i načinu vođenja popisa turis",
+   "title": "Pravilnik o postupku prijave i odjave turista i načinu vođenja popisa turis",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1994/45/802",
+   "versions": [
+    {
+     "from": "1994-06-18",
+     "units": 14,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1994_06_45_802.html",
+     "sha256": "0ab3e6b438f5412b3c45c77ca3824f1487280992cbe6133e2297e00e1e671567"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-1994-807",
+   "path": "pravilnik/1994/807",
+   "short": "Pravilnik o količinama pesticida, toksina, mikotoksina, metala i histamina i sličnih tvari koje se mogu nalaziti u namirnicama, te o drugim uvjetima u pogledu zdravstvene ispravnosti namirnica i pred",
+   "title": "Pravilnik o količinama pesticida, toksina, mikotoksina, metala i histamina i sličnih tvari koje se mogu nalaziti u namirnicama, te o drugim uvjetima u pogledu zdravstvene ispravnosti namirnica i pred",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1994/46/807",
+   "versions": [
+    {
+     "from": "1994-06-18",
+     "units": 23,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1994_06_46_807.html",
+     "sha256": "d4593ed7d8a3ae6cf22601dd50be4f9f0f154e4d9ce8a1440bfa2c0b3a0a254d"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-1994-808",
+   "path": "pravilnik/1994/808",
+   "short": "Pravilnik o uvjetima konzerviranja namirnica i predmeta opće uporabe ionizirajućim zračenjem",
+   "title": "Pravilnik o uvjetima konzerviranja namirnica i predmeta opće uporabe ionizirajućim zračenjem",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1994/46/808",
+   "versions": [
+    {
+     "from": "1994-06-18",
+     "units": 14,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1994_06_46_808.html",
+     "sha256": "f5ec63dcae8d2ee548827dec1819564eacc8405a8ba546cc3ef2fcbb68108dc3"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-1994-813",
+   "path": "pravilnik/1994/813",
+   "short": "Pravilnik o posebnoj radnoj odjeći i obući osoba koje na svojim radnim mjestima u proizvodnji ili prometu dolaze u neposredan dodir s namirnicama, sredstvima za održavanje osobne higijene, njegu i ulj",
+   "title": "Pravilnik o posebnoj radnoj odjeći i obući osoba koje na svojim radnim mjestima u proizvodnji ili prometu dolaze u neposredan dodir s namirnicama, sredstvima za održavanje osobne higijene, njegu i ulj",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1994/46/813",
+   "versions": [
+    {
+     "from": "1994-06-18",
+     "units": 9,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1994_06_46_813.html",
+     "sha256": "30d935afa90902fe62867eb2c2f6c8a9aee1e6dff4ef710fae6492d0d9b96d1f"
+    }
+   ]
+  },
+  {
    "slug": "pravilnik-1994-823",
    "path": "pravilnik/1994/823",
    "short": "Pravilnik o dopunama Pravilnika o načinu obavljanja zdravstvenih pregleda osoba koje su kliconoše ili se sumnja da su kliconoše odredenih zaraznih bolesti",
@@ -18898,6 +22423,81 @@
      "units": 4,
      "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1994_06_47_823.html",
      "sha256": "02245912f4bf0dc4d814ecc433def5fa23671c3ac9f8cf029dc4e609f5fa8cbf"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-1994-838",
+   "path": "pravilnik/1994/838",
+   "short": "Pravilnik o obrascima i načinu izdavanja izvadaka iz državnih matica namijenjenih inozemstvu",
+   "title": "Pravilnik o obrascima i načinu izdavanja izvadaka iz državnih matica namijenjenih inozemstvu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1994/48/838",
+   "versions": [
+    {
+     "from": "1994-06-28",
+     "units": 14,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1994_06_48_838.html",
+     "sha256": "ae32f9d5ebaca9a942b24ac9f63ae3ab2034270b266c2f8b35b3e8b0220f2608"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-1994-839",
+   "path": "pravilnik/1994/839",
+   "short": "Pravilnik o radu zdravstvenih djelatnika izvan punog radnog vremena",
+   "title": "Pravilnik o radu zdravstvenih djelatnika izvan punog radnog vremena",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1994/48/839",
+   "versions": [
+    {
+     "from": "1994-06-28",
+     "units": 9,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1994_06_48_839.html",
+     "sha256": "8f1e5da629411967ecdfe23a491363711d7bb885a0759d2c5ca9b8ef21d5e7a8"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-1994-86",
+   "path": "pravilnik/1994/86",
+   "short": "Pravilnik o uvjetima i načinu ostvarivanja prava na zdravstvenu zaštitu",
+   "title": "Pravilnik o uvjetima i načinu ostvarivanja prava na zdravstvenu zaštitu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1994/4/86",
+   "versions": [
+    {
+     "from": "1994-01-27",
+     "units": 48,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1994_01_4_86.html",
+     "sha256": "2199cd1721d77ad7026e29d7f9538d84aaf4ad46022b0b73c2c6da3adb2b1e0a"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-1994-895",
+   "path": "pravilnik/1994/895",
+   "short": "Pravilnik o iskaznici inspektora rada",
+   "title": "Pravilnik o iskaznici inspektora rada",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1994/50/895",
+   "versions": [
+    {
+     "from": "1994-07-08",
+     "units": 16,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1994_06_50_895.html",
+     "sha256": "d852f0eb9775a0dae0589d99f953d3e6f3411372cedec66cc67d03728fa5faf7"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-1994-948",
+   "path": "pravilnik/1994/948",
+   "short": "Pravilnik o uređivanju šuma",
+   "title": "Pravilnik o uređivanju šuma",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1994/52/948",
+   "versions": [
+    {
+     "from": "1994-07-15",
+     "units": 85,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1994_07_52_948.html",
+     "sha256": "d6024a1e2b38cb0e5fc3756773d30245d24c70f529576ef88901cdb3e79e2259"
     }
    ]
   },
@@ -18917,6 +22517,21 @@
    ]
   },
   {
+   "slug": "pravilnik-1994-99",
+   "path": "pravilnik/1994/99",
+   "short": "Pravilnik o izdavanju, raspačavanju, povlačenju iz upotrebe i zamjeni upravnih biljega Republike Hrvatske",
+   "title": "Pravilnik o izdavanju, raspačavanju, povlačenju iz upotrebe i zamjeni upravnih biljega Republike Hrvatske",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1994/5/99",
+   "versions": [
+    {
+     "from": "1994-01-29",
+     "units": 13,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1994_01_5_99.html",
+     "sha256": "d8319ff54e3c3abb84f2e59a010d42bc1b8d552e995c60ed67222cd2fb7b2887"
+    }
+   ]
+  },
+  {
    "slug": "pravilnik-1994-990",
    "path": "pravilnik/1994/990",
    "short": "Pravilnik o izmjeni i dopuni Pravilnika o radu zdravstvenih djelatnika izvan punog radnog vremena",
@@ -18928,6 +22543,21 @@
      "units": 5,
      "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1994_07_55_990.html",
      "sha256": "b934f52426da85513afb328a2886c7266fe56ef9c5f0e87318a42b8120212186"
+    }
+   ]
+  },
+  {
+   "slug": "statut-1994-1033",
+   "path": "statut/1994/1033",
+   "short": "Statut Hrvatske obrtničke komore",
+   "title": "Statut Hrvatske obrtničke komore",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1994/56/1033",
+   "versions": [
+    {
+     "from": "1994-07-30",
+     "units": 97,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1994_07_56_1033.html",
+     "sha256": "bfc3398dfd869b265d92877dffc938076902b8bfb7da805f89760b9db9331a9c"
     }
    ]
   },
@@ -18947,6 +22577,126 @@
    ]
   },
   {
+   "slug": "uputa-1994-120",
+   "path": "uputa/1994/120",
+   "short": "Uputa za primjenu Uredbe o plaćama",
+   "title": "Uputa za primjenu Uredbe o plaćama",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1994/7/120",
+   "versions": [
+    {
+     "from": "1994-02-01",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1994_02_7_120.html",
+     "sha256": "cc939a98f5d580c976e7ae3eae162668386365b9c4fa5a7eb40c2884d8aaf3b7"
+    }
+   ]
+  },
+  {
+   "slug": "uputa-1994-1310",
+   "path": "uputa/1994/1310",
+   "short": "Uputa o načinu popunjavanja obrazaca za registraciju i evidenciju kredita odobrenih inozemstvu",
+   "title": "Uputa o načinu popunjavanja obrazaca za registraciju i evidenciju kredita odobrenih inozemstvu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1994/77/1310",
+   "versions": [
+    {
+     "from": "1994-10-25",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1994_10_77_1310.html",
+     "sha256": "737ec070859c005d42fd4a3876a4c066aee137fff8ec16aa5aa9368a7f04d096"
+    }
+   ]
+  },
+  {
+   "slug": "uputa-1994-1311",
+   "path": "uputa/1994/1311",
+   "short": "Uputa o načinu popunjavanja obrazaca za registraciju i evidenciju kredita uzetih u inozemstvu",
+   "title": "Uputa o načinu popunjavanja obrazaca za registraciju i evidenciju kredita uzetih u inozemstvu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1994/77/1311",
+   "versions": [
+    {
+     "from": "1994-10-25",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1994_10_77_1311.html",
+     "sha256": "e572598d7039b9ebf3275ede3d5ec9d7dad251a31010a234b4da35732b4fad7e"
+    }
+   ]
+  },
+  {
+   "slug": "uputa-1994-489",
+   "path": "uputa/1994/489",
+   "short": "Uputa za primjenu Uredbe o plaćama",
+   "title": "Uputa za primjenu Uredbe o plaćama",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1994/27/489",
+   "versions": [
+    {
+     "from": "1994-04-05",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1994_04_27_489.html",
+     "sha256": "5b0ceffa8eaebb8b596aa78ff82b1dabb978942f3e84b6e13f9487c7e5d3d8dd"
+    }
+   ]
+  },
+  {
+   "slug": "uputa-1994-643",
+   "path": "uputa/1994/643",
+   "short": "Uputa za primjenu Uredbe o plaćama",
+   "title": "Uputa za primjenu Uredbe o plaćama",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1994/35/643",
+   "versions": [
+    {
+     "from": "1994-05-04",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1994_05_35_643.html",
+     "sha256": "3a31ac5a8234a565c61c9b9a820eb05d1416fa3bba584ffa7a0f2ac81bfb7941"
+    }
+   ]
+  },
+  {
+   "slug": "uputa-1994-840",
+   "path": "uputa/1994/840",
+   "short": "Uputu o upotrebi slovnih kratica i brojčanih oznaka za zemlje i novčane jedinice u platnom prometu s inozemstvom",
+   "title": "Uputu o upotrebi slovnih kratica i brojčanih oznaka za zemlje i novčane jedinice u platnom prometu s inozemstvom",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1994/48/840",
+   "versions": [
+    {
+     "from": "1994-06-20",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1994_06_48_840.html",
+     "sha256": "0d3aa12c9c7ef8a54fc8891418917904cdb330d132c0ac7df384a73c65ef91a0"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-1994-103",
+   "path": "uredba/1994/103",
+   "short": "Uredba o plaćama",
+   "title": "Uredba o plaćama",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1994/6/103",
+   "versions": [
+    {
+     "from": "1994-01-28",
+     "units": 10,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1994_01_6_103.html",
+     "sha256": "55b4a06cfe289c67364ba29c8dc5a442f729d37c2245272c2802343caf2cdc14"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-1994-104",
+   "path": "uredba/1994/104",
+   "short": "Uredba o utvrđivanju najviših iznosa mase sredstava za isplatu mirovina",
+   "title": "Uredba o utvrđivanju najviših iznosa mase sredstava za isplatu mirovina",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1994/6/104",
+   "versions": [
+    {
+     "from": "1994-01-28",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1994_01_6_104.html",
+     "sha256": "574659cd60e6ea1ab2efdec220462709ca5865ca55a4e6e655f41c6c936de939"
+    }
+   ]
+  },
+  {
    "slug": "uredba-1994-1042",
    "path": "uredba/1994/1042",
    "short": "Uredba o izmjenama i dopunama Zakona o morskom ribarstvu",
@@ -18958,6 +22708,21 @@
      "units": 7,
      "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1994_07_57_1042.html",
      "sha256": "9d7047ac534d96fb52696a511b6048a98c0b07184ec891e85e6f72934bf89405"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-1994-1116",
+   "path": "uredba/1994/1116",
+   "short": "Uredba o Hrvatskom stočarskom selekcijskom centru",
+   "title": "Uredba o Hrvatskom stočarskom selekcijskom centru",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1994/63/1116",
+   "versions": [
+    {
+     "from": "1994-08-31",
+     "units": 16,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1994_08_63_1116.html",
+     "sha256": "fcac559c0a8de42103f622d8fcf8f2d31f603fc24727c7c81a92f9233d177ac8"
     }
    ]
   },
@@ -18977,6 +22742,111 @@
    ]
   },
   {
+   "slug": "uredba-1994-1125",
+   "path": "uredba/1994/1125",
+   "short": "Uredba o preraspodjeli radnog vremena 12. rujna 1994. godine",
+   "title": "Uredba o preraspodjeli radnog vremena 12. rujna 1994. godine",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1994/64/1125",
+   "versions": [
+    {
+     "from": "1994-09-02",
+     "units": 6,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1994_09_64_1125.html",
+     "sha256": "95eaf563826f7a803fc949ee73e921081114d2596c71b78ec9ca3d943eae2b2c"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-1994-1141",
+   "path": "uredba/1994/1141",
+   "short": "Uredba o izmjeni Zakona o poljoprivrednom zemljištu",
+   "title": "Uredba o izmjeni Zakona o poljoprivrednom zemljištu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1994/65/1141",
+   "versions": [
+    {
+     "from": "1994-09-08",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1994_09_65_1141.html",
+     "sha256": "9aaa254318536415cd234be7fb6dfc8312cca30ae50ee0a944d4751e5fd86535"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-1994-1198",
+   "path": "uredba/1994/1198",
+   "short": "Uredba izmjeni i dopuni Zakona o platnom prometu u zemlji",
+   "title": "Uredba izmjeni i dopuni Zakona o platnom prometu u zemlji",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1994/69/1198",
+   "versions": [
+    {
+     "from": "1994-09-29",
+     "units": 10,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1994_09_69_1198.html",
+     "sha256": "d8a29d8950e41b4f7c7605fc516f06bb57455b6d0beee7d97cad76ae9523ec4d"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-1994-1219",
+   "path": "uredba/1994/1219",
+   "short": "Uredba o dopuni Zakona o slobodnim zonama",
+   "title": "Uredba o dopuni Zakona o slobodnim zonama",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1994/71/1219",
+   "versions": [
+    {
+     "from": "1994-10-07",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1994_10_71_1219.html",
+     "sha256": "b3dc3ddca3629aa835086488cff6b003c2de9cacf83d9146fa00621dcd58feb9"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-1994-125",
+   "path": "uredba/1994/125",
+   "short": "Uredba o provođenju rezolucija Vijeća sigurnosti Ujedinjenih naroda u svezi sa sankcijama protiv Libijske Arapske Džamahirije",
+   "title": "Uredba o provođenju rezolucija Vijeća sigurnosti Ujedinjenih naroda u svezi sa sankcijama protiv Libijske Arapske Džamahirije",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1994/8/125",
+   "versions": [
+    {
+     "from": "1994-02-04",
+     "units": 15,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1994_02_8_125.html",
+     "sha256": "15c1c07b3df7dfee1fa6482a46bcc252562878cda1b9be9913ce4fab7a0207e0"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-1994-1259",
+   "path": "uredba/1994/1259",
+   "short": "Uredba o osnivanju Hrvatskog inforniativno-kulturnog zavoda",
+   "title": "Uredba o osnivanju Hrvatskog inforniativno-kulturnog zavoda",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1994/72/1259",
+   "versions": [
+    {
+     "from": "1994-10-06",
+     "units": 20,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1994_10_72_1259.html",
+     "sha256": "bcc301bd36b4209b37a5c5dbc86ec7eb741c4e37c64f4a7d54974ee3ad3d78e7"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-1994-126",
+   "path": "uredba/1994/126",
+   "short": "Uredba o visini stope zatezne kamate",
+   "title": "Uredba o visini stope zatezne kamate",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1994/8/126",
+   "versions": [
+    {
+     "from": "1994-02-04",
+     "units": 6,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1994_02_8_126.html",
+     "sha256": "d75fcdf5a75eee9f47ebbf0af35408731290516076dec53c3d37f62a0a25eed3"
+    }
+   ]
+  },
+  {
    "slug": "uredba-1994-127",
    "path": "uredba/1994/127",
    "short": "Uredba o izmjeni Zakona o visini kamata na iznose poreza, doprinosa, pristojbi i drugih javnih prihoda koji nisu plaćeni u propisanom roku",
@@ -18988,6 +22858,21 @@
      "units": 4,
      "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1994_02_8_127.html",
      "sha256": "09c593fb0f077ca2c124345d8123e6e003e6accf7eed9c5abcf248a3db4d0654"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-1994-1324",
+   "path": "uredba/1994/1324",
+   "short": "Uredba o razvrstavanju u platne razrede poslova na kojima rade namještenici",
+   "title": "Uredba o razvrstavanju u platne razrede poslova na kojima rade namještenici",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1994/79/1324",
+   "versions": [
+    {
+     "from": "1994-10-27",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1994_10_79_1324.html",
+     "sha256": "07f4425cd20f5ffd0759137a3079a389447396ba5f79120ebb3ac147a8059034"
     }
    ]
   },
@@ -19007,6 +22892,36 @@
    ]
   },
   {
+   "slug": "uredba-1994-1420",
+   "path": "uredba/1994/1420",
+   "short": "Uredba o minimalnoj plaći",
+   "title": "Uredba o minimalnoj plaći",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1994/83/1420",
+   "versions": [
+    {
+     "from": "1994-11-18",
+     "units": 6,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1994_11_83_1420.html",
+     "sha256": "bdc3e150be3313b5f547109968a690358d463176ae67d29ee3264aca74466942"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-1994-1526",
+   "path": "uredba/1994/1526",
+   "short": "Uredba o rasporedu dijela sredstava za sanaciju banaka",
+   "title": "Uredba o rasporedu dijela sredstava za sanaciju banaka",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1994/88/1526",
+   "versions": [
+    {
+     "from": "1994-12-05",
+     "units": 6,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1994_12_88_1526.html",
+     "sha256": "7e0d958a55bf1bf4912c08b24691d583c2e8941e79ca06a6ff3005b5a6d20859"
+    }
+   ]
+  },
+  {
    "slug": "uredba-1994-1555",
    "path": "uredba/1994/1555",
    "short": "Uredba o položajnim dodacima određenih državnih službenika",
@@ -19018,6 +22933,36 @@
      "units": 5,
      "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1994_12_90_1555.html",
      "sha256": "2a364e3b0f4520510580fc2ae809078b031d19b8ae0a303f14d298d754d2860b"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-1994-1556",
+   "path": "uredba/1994/1556",
+   "short": "Uredba o dodacima za poslove s posebnim uvjetima rada",
+   "title": "Uredba o dodacima za poslove s posebnim uvjetima rada",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1994/90/1556",
+   "versions": [
+    {
+     "from": "1994-12-09",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1994_12_90_1556.html",
+     "sha256": "f0299a34ac8276286f5d1ac6f1f41ffdd3ef1eb3ba44b8bdf31eb23c3f5a6d2b"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-1994-1557",
+   "path": "uredba/1994/1557",
+   "short": "Uredba o povećanju koeficijenta platnog razreda i položajnim dodacima odredenih službenika u javnim službama",
+   "title": "Uredba o povećanju koeficijenta platnog razreda i položajnim dodacima odredenih službenika u javnim službama",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1994/90/1557",
+   "versions": [
+    {
+     "from": "1994-12-09",
+     "units": 6,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1994_12_90_1557.html",
+     "sha256": "1c5a2f1e5dac9e1fcc3ee330d0ad542b56a4c3c9027627f91703b2cafea51a49"
     }
    ]
   },
@@ -19052,6 +22997,21 @@
    ]
   },
   {
+   "slug": "uredba-1994-1620",
+   "path": "uredba/1994/1620",
+   "short": "Uredba o izmjeni i dopuni Uredbe o povećanju koeficijenta platnog razreda i položajnim dodacima određenih službenika u javnim službama",
+   "title": "Uredba o izmjeni i dopuni Uredbe o povećanju koeficijenta platnog razreda i položajnim dodacima određenih službenika u javnim službama",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1994/94/1620",
+   "versions": [
+    {
+     "from": "1994-12-22",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1994_12_94_1620.html",
+     "sha256": "0e0c98d1220f257b7db153fa54f3b8072a6c205655ee00512b3cc8b17c37c3ce"
+    }
+   ]
+  },
+  {
    "slug": "uredba-1994-1650",
    "path": "uredba/1994/1650",
    "short": "Uredba o izmjeni Uredbe o privremenom osiguranju sredstava za plaće i materijalne troškove pojedinih državnih tijela",
@@ -19063,6 +23023,36 @@
      "units": 4,
      "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1994_12_96_1650.html",
      "sha256": "1c67ab4523a28d2a284ac98a1fe42e3976027481f766fdfb7dcbd9a23a4fe28c"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-1994-1651",
+   "path": "uredba/1994/1651",
+   "short": "Uredba o računovodstvu proračuna",
+   "title": "Uredba o računovodstvu proračuna",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1994/96/1651",
+   "versions": [
+    {
+     "from": "1994-12-29",
+     "units": 27,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1994_12_96_1651.html",
+     "sha256": "fad83dee2ed5bfa6b2661542f23df8f46c0f8a4ac8a425a4f52846e3d75077d1"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-1994-1652",
+   "path": "uredba/1994/1652",
+   "short": "Uredba o određivanju građevina od važnosti za Republiku Hrvatsku",
+   "title": "Uredba o određivanju građevina od važnosti za Republiku Hrvatsku",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1994/96/1652",
+   "versions": [
+    {
+     "from": "1995-01-06",
+     "units": 8,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1994_12_96_1652.html",
+     "sha256": "c5c60c121fe0f8eb05c2b343597e39180f1a0d95a91248dfa1ca0dc5cf792f08"
     }
    ]
   },
@@ -19112,6 +23102,36 @@
    ]
   },
   {
+   "slug": "uredba-1994-210",
+   "path": "uredba/1994/210",
+   "short": "Uredba o posebnom porezu na kamate",
+   "title": "Uredba o posebnom porezu na kamate",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1994/11/210",
+   "versions": [
+    {
+     "from": "1994-02-17",
+     "units": 15,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1994_02_11_210.html",
+     "sha256": "b7df70d84b218225fa7412c1a78bc3a72f3ba2be1710b2ea24995bd4c5cb08fb"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-1994-211",
+   "path": "uredba/1994/211",
+   "short": "Uredba o privremenom osiguranju sredstava za plaće i materijalne troškove pojedinih državnih tijela",
+   "title": "Uredba o privremenom osiguranju sredstava za plaće i materijalne troškove pojedinih državnih tijela",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1994/11/211",
+   "versions": [
+    {
+     "from": "1994-02-17",
+     "units": 10,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1994_02_11_211.html",
+     "sha256": "9ac27de61d5cc3888132d590103553849f9c50aeafe9a2e6974b8a30c356a395"
+    }
+   ]
+  },
+  {
    "slug": "uredba-1994-212",
    "path": "uredba/1994/212",
    "short": "Uredba o upisu u sudski registar ustanova",
@@ -19123,6 +23143,21 @@
      "units": 9,
      "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1994_02_11_212.html",
      "sha256": "7d60245fc49585a0df29476506f6d1c644ee96479ad10525ee8ca1e183599d02"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-1994-243",
+   "path": "uredba/1994/243",
+   "short": "Uredba o plaćama",
+   "title": "Uredba o plaćama",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1994/13/243",
+   "versions": [
+    {
+     "from": "1994-02-25",
+     "units": 9,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1994_02_13_243.html",
+     "sha256": "f6c58c544c3461751c1360362cd8f5fee5cf585f7e46f78233eea4bd2e794ffb"
     }
    ]
   },
@@ -19142,6 +23177,51 @@
    ]
   },
   {
+   "slug": "uredba-1994-245",
+   "path": "uredba/1994/245",
+   "short": "Uredba o dopuni Zakona o platnom prometu u zemlji",
+   "title": "Uredba o dopuni Zakona o platnom prometu u zemlji",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1994/13/245",
+   "versions": [
+    {
+     "from": "1994-02-25",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1994_02_13_245.html",
+     "sha256": "6ffea64691b76652062fcc48fedece00f2370e80515d827ccfa3721f21711858"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-1994-246",
+   "path": "uredba/1994/246",
+   "short": "Uredba o izmjenama i dopunama Zakona o porezu na promet proizvoda i usluga",
+   "title": "Uredba o izmjenama i dopunama Zakona o porezu na promet proizvoda i usluga",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1994/13/246",
+   "versions": [
+    {
+     "from": "1994-02-25",
+     "units": 22,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1994_02_13_246.html",
+     "sha256": "6e2011749250e2858426e89ad4f93f282b28edd0a744c1dfed6def1b259f82f1"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-1994-247",
+   "path": "uredba/1994/247",
+   "short": "Uredba o obračunavanju, plaćanju i povratu poreza na promet pri izvozu i provozu određenih proizvoda u zemlje za koje je potreban pojačani carinski nadzor",
+   "title": "Uredba o obračunavanju, plaćanju i povratu poreza na promet pri izvozu i provozu određenih proizvoda u zemlje za koje je potreban pojačani carinski nadzor",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1994/13/247",
+   "versions": [
+    {
+     "from": "1994-02-25",
+     "units": 8,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1994_02_13_247.html",
+     "sha256": "f1cecb629761b30ec8de7bf4c363c00c82d4588517080557ba6b648cd1e636bd"
+    }
+   ]
+  },
+  {
    "slug": "uredba-1994-248",
    "path": "uredba/1994/248",
    "short": "Uredba o dopuni Uredbe o posebnom porezu na kamate",
@@ -19153,6 +23233,171 @@
      "units": 5,
      "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1994_02_13_248.html",
      "sha256": "72d153a2014009730317a0823ea92c71b5a260b39bc57dc2757463228f349690"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-1994-262",
+   "path": "uredba/1994/262",
+   "short": "Uredba o prostornom uređenju u ratom zahvaćenim područjima Republike Hrvatske",
+   "title": "Uredba o prostornom uređenju u ratom zahvaćenim područjima Republike Hrvatske",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1994/14/262",
+   "versions": [
+    {
+     "from": "1994-02-28",
+     "units": 23,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1994_02_14_262.html",
+     "sha256": "2b45266052faf6cdcbbd6bcc6c73a9957e99041861e4f15e1389eece48c60dfc"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-1994-263",
+   "path": "uredba/1994/263",
+   "short": "Uredba o upravljanju nacionalnim parkovima",
+   "title": "Uredba o upravljanju nacionalnim parkovima",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1994/14/263",
+   "versions": [
+    {
+     "from": "1994-02-28",
+     "units": 13,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1994_02_14_263.html",
+     "sha256": "4320d028f42c54b1e2157382adc720a2928ef9a6a32b6efab1383724d2ba83aa"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-1994-264",
+   "path": "uredba/1994/264",
+   "short": "Uredba o korištenju sredstava amortizacije stanova i stambenih zgrada",
+   "title": "Uredba o korištenju sredstava amortizacije stanova i stambenih zgrada",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1994/14/264",
+   "versions": [
+    {
+     "from": "1994-02-28",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1994_02_14_264.html",
+     "sha256": "d812ec044c19714562109bcc3df22179537bb41a288c040590fb7792a8b6771e"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-1994-265",
+   "path": "uredba/1994/265",
+   "short": "Uredba o zabrani raspolaganja zadružnom imovinom",
+   "title": "Uredba o zabrani raspolaganja zadružnom imovinom",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1994/14/265",
+   "versions": [
+    {
+     "from": "1994-02-28",
+     "units": 14,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1994_02_14_265.html",
+     "sha256": "574b3b940fbbbb164ffe4a30b99113c123fcd22d3fc6f994744d00d1b7f8e562"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-1994-266",
+   "path": "uredba/1994/266",
+   "short": "Odluka o početnoj vrijednosti poljoprivrednog zemljišta u vlasništvu države kod prodaje javnim natječajem",
+   "title": "Odluka o početnoj vrijednosti poljoprivrednog zemljišta u vlasništvu države kod prodaje javnim natječajem",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1994/14/266",
+   "versions": [
+    {
+     "from": "1994-02-28",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1994_02_14_266.html",
+     "sha256": "8a88d488388b0a56702d5761dfdeb122e82dadffe62b7667ea7e07854158419b"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-1994-267",
+   "path": "uredba/1994/267",
+   "short": "Uredba o izmjeni Zakona o prostornom planiranju i uređivanju prostora",
+   "title": "Uredba o izmjeni Zakona o prostornom planiranju i uređivanju prostora",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1994/14/267",
+   "versions": [
+    {
+     "from": "1994-02-28",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1994_02_14_267.html",
+     "sha256": "1b583977531d16ba40ec4fcea1d3d1f925ace6f1f72b385752cc0779e518544b"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-1994-332",
+   "path": "uredba/1994/332",
+   "short": "Uredba o izmjeni Uredbe o visini stope zatezne kamate",
+   "title": "Uredba o izmjeni Uredbe o visini stope zatezne kamate",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1994/19/332",
+   "versions": [
+    {
+     "from": "1994-03-11",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1994_03_19_332.html",
+     "sha256": "82bab7c6736d85b0865757f457bdf4247636f46c034312372ef1fa289a9158a8"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-1994-333",
+   "path": "uredba/1994/333",
+   "short": "Uredba o dopunama Zakona o visini kamata na iznose poreza, doprinosa, pristojbi i drugih javnih prihoda koji nisu plaćeni u propisanom roku",
+   "title": "Uredba o dopunama Zakona o visini kamata na iznose poreza, doprinosa, pristojbi i drugih javnih prihoda koji nisu plaćeni u propisanom roku",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1994/19/333",
+   "versions": [
+    {
+     "from": "1994-03-11",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1994_03_19_333.html",
+     "sha256": "0f782612ca3f47d4af1137609f26d9a40af63be285406d425d343feee8b33ae0"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-1994-364",
+   "path": "uredba/1994/364",
+   "short": "Uredba o visini stope zatezne kamate",
+   "title": "Uredba o visini stope zatezne kamate",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1994/22/364",
+   "versions": [
+    {
+     "from": "1994-03-23",
+     "units": 6,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1994_03_22_364.html",
+     "sha256": "54739d19539b7b8eba6e513cde1453dfb046410ca6adf479c67de7daa574ee90"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-1994-365",
+   "path": "uredba/1994/365",
+   "short": "Uredba o posebnom porezu na kamate",
+   "title": "Uredba o posebnom porezu na kamate",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1994/22/365",
+   "versions": [
+    {
+     "from": "1994-03-23",
+     "units": 17,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1994_03_22_365.html",
+     "sha256": "45008ee3232a3bcfcb7aa0c68b6aff0bef27834b1a1065c22d8d9f816fe1340a"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-1994-366",
+   "path": "uredba/1994/366",
+   "short": "Uredba o visini kamata na iznose javnih prihoda koji nisu plaćeni u propisanom roku",
+   "title": "Uredba o visini kamata na iznose javnih prihoda koji nisu plaćeni u propisanom roku",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1994/22/366",
+   "versions": [
+    {
+     "from": "1994-03-23",
+     "units": 6,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1994_03_22_366.html",
+     "sha256": "9061d7618d7b835123c1c26344964caa5615688be2febef244a8b6fd7bce9312"
     }
    ]
   },
@@ -19217,6 +23462,126 @@
    ]
   },
   {
+   "slug": "uredba-1994-416",
+   "path": "uredba/1994/416",
+   "short": "Uredba o sadržaju naziva tijela državne uprave, lokalne i mjesne samouprave",
+   "title": "Uredba o sadržaju naziva tijela državne uprave, lokalne i mjesne samouprave",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1994/25/416",
+   "versions": [
+    {
+     "from": "1994-03-29",
+     "units": 22,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1994_03_25_416.html",
+     "sha256": "ce1ee5be10e4e2b113f50c30c84ad24b181feae67f847789b4b734561c000e3a"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-1994-437",
+   "path": "uredba/1994/437",
+   "short": "Uredba o plaćama",
+   "title": "Uredba o plaćama",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1994/26/437",
+   "versions": [
+    {
+     "from": "1994-04-11",
+     "units": 10,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1994_04_26_437.html",
+     "sha256": "6446a3bc07e80fe75295b8b796d09eae66c194fb30593b83393bc3f3ecbfe916"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-1994-438",
+   "path": "uredba/1994/438",
+   "short": "Uredba o utvrđivanju najviših iznosa mase sredstava za isplatu mirovina",
+   "title": "Uredba o utvrđivanju najviših iznosa mase sredstava za isplatu mirovina",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1994/26/438",
+   "versions": [
+    {
+     "from": "1994-04-11",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1994_04_26_438.html",
+     "sha256": "b7993ec47d585b8ccbcda68c88cea79c5b375b83bae2079a5752d1bd4ec64e06"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-1994-439",
+   "path": "uredba/1994/439",
+   "short": "Uredba o izmjeni Uredbe o privremenom osiguranju sredstava za plaće i materijalne troškove pojedinih državnih tijela",
+   "title": "Uredba o izmjeni Uredbe o privremenom osiguranju sredstava za plaće i materijalne troškove pojedinih državnih tijela",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1994/26/439",
+   "versions": [
+    {
+     "from": "1994-04-11",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1994_04_26_439.html",
+     "sha256": "78d64c7ce1128af7444eb27df2f5531cc8f8715943834146935d2170ca301a39"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-1994-516",
+   "path": "uredba/1994/516",
+   "short": "Uredba o Uredu za opće poslove Vlade i Sabora Republike Hrvatske",
+   "title": "Uredba o Uredu za opće poslove Vlade i Sabora Republike Hrvatske",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1994/29/516",
+   "versions": [
+    {
+     "from": "1994-04-11",
+     "units": 14,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1994_04_29_516.html",
+     "sha256": "1a46828eaf168112f7711a90f5d4e2d34a083a3baaea8730b2d687a738fee9c8"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-1994-598",
+   "path": "uredba/1994/598",
+   "short": "Uredba o plaćama",
+   "title": "Uredba o plaćama",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1994/34/598",
+   "versions": [
+    {
+     "from": "1994-04-29",
+     "units": 10,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1994_04_34_598.html",
+     "sha256": "716dd29323b0fe62c6fa5be83ab2d3486d2546dd5a5b304245eb191a69b134af"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-1994-599",
+   "path": "uredba/1994/599",
+   "short": "Uredba o utvrđivanju najviših iznosa mase sredstava za isplatu mirovina",
+   "title": "Uredba o utvrđivanju najviših iznosa mase sredstava za isplatu mirovina",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1994/34/599",
+   "versions": [
+    {
+     "from": "1994-04-29",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1994_04_34_599.html",
+     "sha256": "6c6f4901777f246b551f5a7b4c0e5eb3f3890475e46f0dce8b30c99730f798ba"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-1994-732",
+   "path": "uredba/1994/732",
+   "short": "Uredba o povlasticama u unutarnjem putničkom prometu",
+   "title": "Uredba o povlasticama u unutarnjem putničkom prometu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1994/40/732",
+   "versions": [
+    {
+     "from": "1994-05-31",
+     "units": 20,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1994_05_40_732.html",
+     "sha256": "586e436ebe644a63519ba3e52a5491cfe3564713754b9b3e620ac979cf01ded0"
+    }
+   ]
+  },
+  {
    "slug": "uredba-1994-743",
    "path": "uredba/1994/743",
    "short": "Uredba o plaćama",
@@ -19243,6 +23608,111 @@
      "units": 7,
      "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1994_05_42_744.html",
      "sha256": "ad1cd6eabef8851133f11d5f7e405290d6574331c43270c00988c5cdb403ff04"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-1994-769",
+   "path": "uredba/1994/769",
+   "short": "Uredba o Hrvatskoj informacijsko-dokumentacijskoj referalnoj agenciji",
+   "title": "Uredba o Hrvatskoj informacijsko-dokumentacijskoj referalnoj agenciji",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1994/43/769",
+   "versions": [
+    {
+     "from": "1994-05-31",
+     "units": 8,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1994_05_43_769.html",
+     "sha256": "69ce280730305cdb283ec3eff57663892ae3546fdde5da5d26ba555dbe79e94e"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-1994-814",
+   "path": "uredba/1994/814",
+   "short": "Uredba o posebnom porezu na naftne derivate",
+   "title": "Uredba o posebnom porezu na naftne derivate",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1994/47/814",
+   "versions": [
+    {
+     "from": "1994-06-16",
+     "units": 11,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1994_06_47_814.html",
+     "sha256": "89b6832f53d2e92505276c9c512be08b5896aa8e09ebd5f18b1eb02bdf8fa8f4"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-1994-816",
+   "path": "uredba/1994/816",
+   "short": "Uredba o posebnom porezu na pivo",
+   "title": "Uredba o posebnom porezu na pivo",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1994/47/816",
+   "versions": [
+    {
+     "from": "1994-06-16",
+     "units": 22,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1994_06_47_816.html",
+     "sha256": "b10185603d573fbc3fad8f1120abeb8214b351cf1b25bfa6bd38aa7f39df5382"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-1994-818",
+   "path": "uredba/1994/818",
+   "short": "Uredba o posebnom porezu na alkohol",
+   "title": "Uredba o posebnom porezu na alkohol",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1994/47/818",
+   "versions": [
+    {
+     "from": "1994-06-16",
+     "units": 12,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1994_06_47_818.html",
+     "sha256": "91719b6b7b99ac3da82e3b80bd50eacae78ff0a3e9ec3e5d03ae3de9418d8f55"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-1994-820",
+   "path": "uredba/1994/820",
+   "short": "Uredba o izmjenama i dopunama Zakona o cestama",
+   "title": "Uredba o izmjenama i dopunama Zakona o cestama",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1994/47/820",
+   "versions": [
+    {
+     "from": "1994-06-16",
+     "units": 9,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1994_06_47_820.html",
+     "sha256": "c779792b5dd1f80a2955120ad04e518214c20a3081ce8e92b93c5722a6d18233"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-1994-828",
+   "path": "uredba/1994/828",
+   "short": "Uredba o plaćama u djelatnosti zdravstva",
+   "title": "Uredba o plaćama u djelatnosti zdravstva",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1994/48/828",
+   "versions": [
+    {
+     "from": "1994-06-20",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1994_06_48_828.html",
+     "sha256": "ef634f71c03953493aaa797db2aa613d12ea6139e9ccb96a86f1a6d49b0b1e7f"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-1994-829",
+   "path": "uredba/1994/829",
+   "short": "Uredba o utvrđivanju najviših iznosa mase sredstava za isplatu mirovina",
+   "title": "Uredba o utvrđivanju najviših iznosa mase sredstava za isplatu mirovina",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1994/48/829",
+   "versions": [
+    {
+     "from": "1994-06-20",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1994_06_48_829.html",
+     "sha256": "49469ef0eb5b3599f9f5b09fa3941ff2aa2feca57bd31f9210fbbea97b56ee02"
     }
    ]
   },
@@ -19333,6 +23803,36 @@
      "units": 4,
      "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1994_01_5_92.html",
      "sha256": "6bd500df6085a1702d32b763e74611033c49e590a872332a4042d62618822295"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-1994-977",
+   "path": "uredba/1994/977",
+   "short": "Uredba o prestanku važenja Uredbe o načinu uvoza i izvoza određene robe",
+   "title": "Uredba o prestanku važenja Uredbe o načinu uvoza i izvoza određene robe",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1994/54/977",
+   "versions": [
+    {
+     "from": "1994-07-13",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1994_07_54_977.html",
+     "sha256": "01dbbcaa4082b67782db809bc78a7b56397d58b4c804fd64548f5ff75fcd056b"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-1994-988",
+   "path": "uredba/1994/988",
+   "short": "Uredba o dopunama Zakona o novčanim poticajima i naknadama u poljoprivredi",
+   "title": "Uredba o dopunama Zakona o novčanim poticajima i naknadama u poljoprivredi",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1994/55/988",
+   "versions": [
+    {
+     "from": "1994-07-15",
+     "units": 6,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1994_07_55_988.html",
+     "sha256": "4f061b28bbe6f6f0711f817e027cbf894a21c5603b9ab8f656074038523d0a95"
     }
    ]
   },
