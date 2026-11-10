@@ -11,7 +11,72 @@
   "in_force": "1999-07-31",
   "files": 265,
   "version": "prvi objavljeni tekst",
-  "status": "not yet checked"
+  "status": "amended, not consolidated",
+  "amended_by": [
+   {
+    "ref": "nn:1999/117/1901",
+    "title": "Ispravak Carinskog zakona (NN 117/1999)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1999/117/1901",
+    "date": "1999-11-09",
+    "how": "amend"
+   },
+   {
+    "ref": "nn:2000/73/1583",
+    "title": "Zakon o izmjenama i dopunama Carinskog zakona (NN 73/2000)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/73/1583",
+    "date": "2000-07-21",
+    "how": "amend"
+   },
+   {
+    "ref": "nn:2001/92/1566",
+    "title": "Zakon o izmjeni i dopunama Carinskog zakona (NN 92/2001)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/92/1566",
+    "date": "2001-10-24",
+    "how": "amend"
+   },
+   {
+    "ref": "nn:2003/47/583",
+    "title": "Zakon o izmjenama i dopunama Carinskog zakona (NN 47/2003)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2003/47/583",
+    "date": "2003-03-25",
+    "how": "amend"
+   },
+   {
+    "ref": "nn:2005/140/2647",
+    "title": "Zakon o izmjenama i dopunama Carinskog zakona (NN 140/2005)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/140/2647",
+    "date": "2005-11-28",
+    "how": "amend"
+   },
+   {
+    "ref": "nn:2006/138/3112",
+    "title": "Zakon o izmjenama i dopunama Carinskog zakona (NN 138/2006)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/138/3112",
+    "date": "2006-12-20",
+    "how": "amend"
+   },
+   {
+    "ref": "nn:2008/60/2038",
+    "title": "Zakon o izmjenama i dopunama Carinskog zakona (NN 60/2008)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2008/60/2038",
+    "date": "2008-05-28",
+    "how": "amend"
+   },
+   {
+    "ref": "nn:2009/45/1033",
+    "title": "Zakon o izmjeni Carinskog zakona (NN 45/2009)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2009/45/1033",
+    "date": "2009-04-10",
+    "how": "amend"
+   },
+   {
+    "ref": "nn:2010/56/1344",
+    "title": "Zakon o izmjeni i dopunama Carinskog zakona (NN 56/2010)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/56/1344",
+    "date": "2010-05-07",
+    "how": "amend"
+   }
+  ]
  },
  {
   "slug": "kazneni-zakon",
@@ -1364,11 +1429,62 @@
     "how": "amend"
    },
    {
+    "ref": "nn:2002/13/318",
+    "title": "Zakon o dopuni Zakona o blagdanima, spomendanima i neradnim danima u Republici Hrvatskoj (NN 13/2002)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2002/13/318",
+    "date": "2002-02-08",
+    "how": "amend"
+   },
+   {
+    "ref": "nn:2005/112/2062",
+    "title": "Zakon o dopunama Zakona o blagdanima, spomendanima i neradnim danima u Republici Hrvatskoj (NN 112/2005)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/112/2062",
+    "date": "2005-09-23",
+    "how": "amend"
+   },
+   {
+    "ref": "nn:2006/59/1428",
+    "title": "Zakon o dopuni Zakona o blagdanima, spomendanima i neradnim danima u Republici Hrvatskoj (NN 59/2006)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/59/1428",
+    "date": "2006-05-29",
+    "how": "amend"
+   },
+   {
+    "ref": "nn:2011/74/1576",
+    "title": "Zakon o dopuni Zakona o blagdanima, spomendanima i neradnim danima u Republici Hrvatskoj (NN 74/2011)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/74/1576",
+    "date": "2011-07-01",
+    "how": "amend"
+   },
+   {
+    "ref": "nn:2011/130/2613",
+    "title": "Zakon o dopuni Zakona o blagdanima, spomendanima i neradnim danima u Republici Hrvatskoj (NN 130/2011)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/130/2613",
+    "date": "2011-11-16",
+    "how": "amend"
+   },
+   {
     "ref": "nn:2019/110/2212",
     "title": "Zakon o blagdanima, spomendanima i neradnim danima u Republici Hrvatskoj (NN 110/2019)",
     "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2019/110/2212",
     "date": "2019-11-15",
-    "how": "repeal"
+    "how": "repeal,replace"
+   }
+  ],
+  "cited_by": [
+   {
+    "ref": "nn:2001/20/377",
+    "title": "Odluka Ustavnog suda Republike Hrvatske broj U-III-1704/2000 od 21. veljače 2001. (NN 20/2001)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/20/377",
+    "date": "2001-03-14",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2002/136/2194",
+    "title": "Zakon o blagdanima, spomendanima i neradnim danima u Republici Hrvatskoj (pročišćeni tekst) (NN 136/2002)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2002/136/2194",
+    "date": "2002-11-21",
+    "how": "cite"
    }
   ]
  },
@@ -2412,7 +2528,23 @@
   "in_force": "1999-03-05",
   "files": 44,
   "version": "prvi objavljeni tekst",
-  "status": "not yet checked"
+  "status": "cited later, not consolidated",
+  "cited_by": [
+   {
+    "ref": "nn:2007/122/3551",
+    "title": "Odluka i Rješenje Ustavnog suda Republike Hrvatske broj: U-II-3570/2005 od 30. listopada 2007. (NN 122/2007)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2007/122/3551",
+    "date": "2007-11-28",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2013/119/2557",
+    "title": "Presuda Visokog upravnog suda Republike Hrvatske broj: Usoz-3/2012-16 od 27. VIII. 2013. (NN 119/2013)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/119/2557",
+    "date": "2013-09-25",
+    "how": "cite"
+   }
+  ]
  },
  {
   "slug": "zakon-o-dobrovoljnim-mirovinskim-fondovima",
@@ -3405,7 +3537,25 @@
   "in_force": "1998-05-20",
   "files": 38,
   "version": "prvi objavljeni tekst",
-  "status": "not yet checked"
+  "status": "repealed, not consolidated",
+  "amended_by": [
+   {
+    "ref": "nn:2002/87/1446",
+    "title": "Zakon o strateškim robnim zalihama (NN 87/2002)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2002/87/1446",
+    "date": "2002-07-23",
+    "how": "repeal"
+   }
+  ],
+  "cited_by": [
+   {
+    "ref": "nn:2002/38/839",
+    "title": "Strategija energetskog razvitka Republike Hrvatske (NN 38/2002)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2002/38/839",
+    "date": "2002-04-16",
+    "how": "cite"
+   }
+  ]
  },
  {
   "slug": "zakon-o-drzavnim-sluzbenicima",
@@ -4564,7 +4714,23 @@
   "in_force": "1994-10-26",
   "files": 196,
   "version": "prvi objavljeni tekst",
-  "status": "not yet checked"
+  "status": "amended, not consolidated",
+  "amended_by": [
+   {
+    "ref": "nn:1994/86/1518",
+    "title": "Ispravak Zakona o državnim službenicima i namještenicima i o plaćama nositelja pravosudnih dužnosti (NN 86/1994)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1994/86/1518",
+    "date": "1994-11-29",
+    "how": "amend"
+   },
+   {
+    "ref": "nn:1995/7/68",
+    "title": "Zakon o izmjeni Zakona o državnim službenicima i namještenicima i o plaćama nositelja pravosudnih dužnosti (NN 7/1995)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1995/7/68",
+    "date": "1995-01-30",
+    "how": "amend"
+   }
+  ]
  },
  {
   "slug": "zakon-o-drzavnoj-informacijskoj-infrastrukturi",
@@ -5061,7 +5227,25 @@
   "in_force": "1995-10-07",
   "files": 97,
   "version": "prvi objavljeni tekst",
-  "status": "not yet checked"
+  "status": "repealed, not consolidated",
+  "amended_by": [
+   {
+    "ref": "nn:2001/51/814",
+    "title": "Zakon o državnom odvjetništvu (NN 51/2001)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/51/814",
+    "date": "2001-06-06",
+    "how": "repeal"
+   }
+  ],
+  "cited_by": [
+   {
+    "ref": "nn:2011/12/257",
+    "title": "Odluka Ustavnog suda Republike Hrvatske broj: U-III-2147/2006 od 12. siječnja 2011. (NN 12/2011)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/12/257",
+    "date": "2011-01-28",
+    "how": "cite"
+   }
+  ]
  },
  {
   "slug": "zakon-o-drzavnom-uredu-za-reviziju",
@@ -5227,6 +5411,36 @@
     "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2019/32/651",
     "date": "2019-03-29",
     "how": "amend"
+   }
+  ],
+  "cited_by": [
+   {
+    "ref": "nn:2006/52/1259",
+    "title": "Rješenje Agencije za zaštitu tržišnog natjecanja, klasa: UP/I-030-02/99-01/44, urbroj: 580-02-06-10-187, od 12. travnja 2006. (NN 52/2006)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/52/1259",
+    "date": "2006-05-10",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2007/18/735",
+    "title": "Rješenje Agencije za zaštitu tržišnog natjecanja klasa: UP/I-030-02/2000-01/04 od 28. prosinca 2006. (NN 18/2007)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2007/18/735",
+    "date": "2007-02-14",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2011/103/2112",
+    "title": "Rješenje Agencije za zaštitu tržišnog natjecanja klasa UP/I 030-02/2006-01/082 od 16. lipnja 2011. (NN 103/2011)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/103/2112",
+    "date": "2011-09-12",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2018/115/2243",
+    "title": "Zakon o državnom inspektoratu (NN 115/2018)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2018/115/2243",
+    "date": "2018-12-20",
+    "how": "cite"
    }
   ]
  },
@@ -7647,6 +7861,13 @@
   "status": "amended, not consolidated",
   "amended_by": [
    {
+    "ref": "nn:1998/110/1503",
+    "title": "Ispravak Zakona o hidrografskoj djelatnosti (NN 110/1998)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1998/110/1503",
+    "date": "1998-08-18",
+    "how": "amend"
+   },
+   {
     "ref": "nn:2003/163/2352",
     "title": "Zakon o izmjenama i dopunama Zakona o hidrografskoj djelatnosti (NN 163/2003)",
     "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2003/163/2352",
@@ -7659,6 +7880,225 @@
     "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2014/71/1337",
     "date": "2014-06-11",
     "how": "amend"
+   }
+  ],
+  "cited_by": [
+   {
+    "ref": "nn:1999/121/1955",
+    "title": "Vjerodostojno tumačenje članka 2., 7. i 8. Zakona o izmjenama i dopunama Zakona o trgovačkim društvima (\"Narodne novine\", broj 34/99) (NN 121/1999)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1999/121/1955",
+    "date": "1999-11-19",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2004/63/1380",
+    "title": "Rješenje o imenovanju predsjednika i članova Hidrografsko-navigacijskog vijeća (NN 63/2004)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2004/63/1380",
+    "date": "2004-05-19",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2007/105/3076",
+    "title": "Rješenje o razrješenju člana Hidrografsko-navigacijskog vijeća (NN 105/2007)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2007/105/3076",
+    "date": "2007-10-15",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2007/105/3077",
+    "title": "Rješenje o imenovanju člana Hidrografsko-navigacijskog vijeća (NN 105/2007)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2007/105/3077",
+    "date": "2007-10-15",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2009/13/287",
+    "title": "Rješenje o razrješenju predsjednika i članova Upravnog vijeća Hrvatskog hidrografskog instituta (NN 13/2009)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2009/13/287",
+    "date": "2009-01-30",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2009/13/288",
+    "title": "Rješenje o imenovanju predsjednika i dijela članova Upravnog vijeća Hrvatskog hidrografskog instituta (NN 13/2009)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2009/13/288",
+    "date": "2009-01-30",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2011/133/2644",
+    "title": "Rješenje o razrješenju predsjednika Upravnog vijeća Hrvatskoga hidrografskog instituta (NN 133/2011)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/133/2644",
+    "date": "2011-11-21",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2011/133/2645",
+    "title": "Rješenje o imenovanju predsjednika Upravnog vijeća Hrvatskoga hidrografskog instituta (NN 133/2011)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/133/2645",
+    "date": "2011-11-21",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2011/144/2903",
+    "title": "Rješenje o razrješenju ravnatelja Hrvatskoga hidrografskog instituta (NN 144/2011)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/144/2903",
+    "date": "2011-12-14",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2011/144/2904",
+    "title": "Rješenje o imenovanju ravnatelja Hrvatskoga hidrografskog instituta (NN 144/2011)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/144/2904",
+    "date": "2011-12-14",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2011/152/3144",
+    "title": "Zakon o trgovačkim društvima (pročišćeni tekst) (NN 152/2011)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/152/3144",
+    "date": "2011-12-27",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2012/58/1442",
+    "title": "Rješenje o razrješenju predsjednika i članova Upravnog vijeća Hrvatskog hidrografskog instituta (NN 58/2012)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2012/58/1442",
+    "date": "2012-05-25",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2012/58/1443",
+    "title": "Rješenje o imenovanju predsjednice i članova Upravnog vijeća Hrvatskog hidrografskog instituta (NN 58/2012)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2012/58/1443",
+    "date": "2012-05-25",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2014/32/570",
+    "title": "Rješenje o razrješenju ravnatelja Hrvatskoga hidrografskog instituta (NN 32/2014)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2014/32/570",
+    "date": "2014-03-12",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2014/32/571",
+    "title": "Rješenje o imenovanju ravnatelja Hrvatskoga hidrografskog instituta (NN 32/2014)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2014/32/571",
+    "date": "2014-03-12",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2014/112/2146",
+    "title": "Rješenje o imenovanju predsjednice i članova Upravnog vijeća Hrvatskog hidrografskog instituta (NN 112/2014)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2014/112/2146",
+    "date": "2014-09-24",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2015/43/869",
+    "title": "Rješenje o razrješenju člana Upravnog vijeća Hrvatskog hidrografskog instituta (NN 43/2015)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2015/43/869",
+    "date": "2015-04-17",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2015/43/870",
+    "title": "Rješenje o imenovanju člana Upravnog vijeća Hrvatskog hidrografskog instituta (NN 43/2015)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2015/43/870",
+    "date": "2015-04-17",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2017/36/779",
+    "title": "Rješenje o razrješenju predsjednice i članova Upravnog vijeća Hrvatskog hidrografskog instituta (NN 36/2017)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/36/779",
+    "date": "2017-04-13",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2017/36/780",
+    "title": "Rješenje o imenovanju predsjednika i članova Upravnog vijeća Hrvatskog hidrografskog instituta (NN 36/2017)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/36/780",
+    "date": "2017-04-13",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2017/110/2580",
+    "title": "Rješenje o razrješenju članice Upravnog vijeća Hrvatskog hidrografskog instituta (NN 110/2017)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/110/2580",
+    "date": "2017-11-15",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2017/110/2581",
+    "title": "Rješenje o imenovanju članice Upravnog vijeća Hrvatskog hidrografskog instituta (NN 110/2017)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/110/2581",
+    "date": "2017-11-15",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2019/91/1805",
+    "title": "Rješenje o razrješenju članice Upravnog vijeća Hrvatskog hidrografskog instituta (NN 91/2019)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2019/91/1805",
+    "date": "2019-09-27",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2019/91/1806",
+    "title": "Rješenje o imenovanju člana Upravnog vijeća Hrvatskog hidrografskog instituta (NN 91/2019)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2019/91/1806",
+    "date": "2019-09-27",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2020/95/1791",
+    "title": "Rješenje o razrješenju predsjednika Upravnog vijeća Hrvatskog hidrografskog instituta (NN 95/2020)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2020/95/1791",
+    "date": "2020-08-26",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2020/95/1792",
+    "title": "Rješenje o imenovanju predsjednika Upravnog vijeća Hrvatskog hidrografskog instituta (NN 95/2020)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2020/95/1792",
+    "date": "2020-08-26",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2021/85/1574",
+    "title": "Rješenje o razrješenju dijela članova Upravnog vijeća Hrvatskog hidrografskog instituta (NN 85/2021)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2021/85/1574",
+    "date": "2021-07-28",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2021/85/1575",
+    "title": "Rješenje o imenovanju dijela članova Upravnog vijeća Hrvatskog hidrografskog instituta (NN 85/2021)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2021/85/1575",
+    "date": "2021-07-28",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2023/138/1877",
+    "title": "Rješenje o razrješenju i imenovanju člana Upravnog vijeća Hrvatskog hidrografskog instituta (NN 138/2023)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2023/138/1877",
+    "date": "2023-11-17",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2024/138/2272",
+    "title": "Rješenje o razrješenju predsjednika i člana i imenovanju predsjednika i članice Upravnog vijeća Hrvatskog hidrografskog instituta (NN 138/2024)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2024/138/2272",
+    "date": "2024-12-03",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2025/109/1554",
+    "title": "Rješenje o razrješenju i imenovanju dijela članova Upravnog vijeća Hrvatskog hidrografskog instituta (NN 109/2025)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2025/109/1554",
+    "date": "2025-08-06",
+    "how": "cite"
    }
   ]
  },
@@ -7811,7 +8251,39 @@
   "in_force": "1996-01-05",
   "files": 24,
   "version": "prvi objavljeni tekst",
-  "status": "not yet checked"
+  "status": "amended, not consolidated",
+  "amended_by": [
+   {
+    "ref": "nn:1997/104/1609",
+    "title": "Zakon o izmjenama i dopunama Zakona o Hrvatskim državnim nagradama za znanost (NN 104/1997)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1997/104/1609",
+    "date": "1997-10-08",
+    "how": "amend"
+   },
+   {
+    "ref": "nn:1998/142/1747",
+    "title": "Zakon o izmjeni Zakona o hrvatskim državnim nagradama za znanost (NN 142/1998)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1998/142/1747",
+    "date": "1998-10-28",
+    "how": "amend"
+   }
+  ],
+  "cited_by": [
+   {
+    "ref": "nn:2002/49/968",
+    "title": "Program posebnog dijela državnog stručnog ispita za službenike Ministarstva znanosti i tehnologije (NN 49/2002)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2002/49/968",
+    "date": "2002-05-03",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2010/31/742",
+    "title": "Odluka Ustavnog suda Republike Hrvatske broj: U-II-3982/2006 od 16. veljače 2010. (NN 31/2010)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/31/742",
+    "date": "2010-03-10",
+    "how": "cite"
+   }
+  ]
  },
  {
   "slug": "zakon-o-hrvatskoj-agenciji-za-nadzor-financijskih-usluga",
@@ -10335,6 +10807,92 @@
     "date": "2020-05-27",
     "how": "amend"
    }
+  ],
+  "cited_by": [
+   {
+    "ref": "nn:2000/67/1479",
+    "title": "Odluka o tehničkim pravilima Hrvatskog registra brodova - sredstva za spašavanje, izmjene i dopune (2000) (NN 67/2000)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/67/1479",
+    "date": "2000-07-13",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2000/67/1481",
+    "title": "Odluka o tehničkim pravilima Hrvatskog registra brodova - Zaštita pri radu i smještaj posade, Izmjene i dopune (2000) (NN 67/2000)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/67/1481",
+    "date": "2000-07-13",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2003/82/995",
+    "title": "Odluka o tehničkim pravilima Hrvatskog registra brodova - opći propisi (2003.) (NN 82/2003)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2003/82/995",
+    "date": "2003-05-20",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2016/49/1305",
+    "title": "Rješenje o razrješenju dijela članova Upravnog vijeća Hrvatskog registra brodova (NN 49/2016)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2016/49/1305",
+    "date": "2016-05-30",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2016/49/1306",
+    "title": "Rješenje o imenovanju dijela članova Upravnog vijeća Hrvatskog registra brodova (NN 49/2016)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2016/49/1306",
+    "date": "2016-05-30",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2018/93/1805",
+    "title": "Rješenje o razrješenju člana Upravnog vijeća Hrvatskog registra brodova (NN 93/2018)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2018/93/1805",
+    "date": "2018-10-19",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2018/93/1806",
+    "title": "Rješenje o imenovanju člana Upravnog vijeća Hrvatskog registra brodova (NN 93/2018)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2018/93/1806",
+    "date": "2018-10-19",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2020/134/2557",
+    "title": "Rješenje o razrješenju dijela članova Upravnog vijeća Hrvatskog registra brodova (NN 134/2020)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2020/134/2557",
+    "date": "2020-12-04",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2020/134/2558",
+    "title": "Rješenje o imenovanju dijela članova Upravnog vijeća Hrvatskog registra brodova (NN 134/2020)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2020/134/2558",
+    "date": "2020-12-04",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2022/81/1178",
+    "title": "Rješenje o imenovanju članice Upravnog vijeća Hrvatskog registra brodova (NN 81/2022)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2022/81/1178",
+    "date": "2022-07-13",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2024/143/2349",
+    "title": "Rješenje o razrješenju i imenovanju dijela članova Upravnog vijeća Hrvatskog registra brodova (NN 143/2024)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2024/143/2349",
+    "date": "2024-12-11",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2026/77/906",
+    "title": "Rješenje o razrješenju i imenovanju članice Upravnog vijeća Hrvatskog registra brodova (NN 77/2026)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/77/906",
+    "date": "2026-07-15",
+    "how": "cite"
+   }
   ]
  },
  {
@@ -10506,6 +11064,36 @@
     "date": "1999-11-29",
     "how": "amend"
    }
+  ],
+  "cited_by": [
+   {
+    "ref": "nn:2000/56/1254",
+    "title": "Rješenje Ustavnog suda Republike Hrvatske broj U-I-783/1997 od 17. svibnja 2000. (NN 56/2000)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/56/1254",
+    "date": "2000-06-06",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2002/81/1338",
+    "title": "Program posebnog dijela državnog stručnog ispita za zvanja gospodarskog inspektora, gospodarskog inspektora treće vrste zvanja, inspektora rada, elektroenergetskog inspektora, rudarskog inspektora i inspektora posuda pod tlakom (NN 81/2002)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2002/81/1338",
+    "date": "2002-07-09",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2003/111/1519",
+    "title": "Program posebnog dijela državnog stručnog ispita za zvanje gospodarskog inspektora, gospodarskog inspektora treće vrste zvanja, inspektora rada, elektroenergetskog inspektora, rudarskog inspektora i i (NN 111/2003)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2003/111/1519",
+    "date": "2003-07-15",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2003/173/2498",
+    "title": "Zakon o industrijskom dizajnu (NN 173/2003)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2003/173/2498",
+    "date": "2003-10-31",
+    "how": "cite"
+   }
   ]
  },
  {
@@ -10640,7 +11228,25 @@
   "in_force": "1996-07-25",
   "files": 39,
   "version": "prvi objavljeni tekst",
-  "status": "not yet checked"
+  "status": "amended, not consolidated",
+  "amended_by": [
+   {
+    "ref": "nn:1996/94/1876",
+    "title": "Ispravak Zakona o inspekciji rada (NN 94/1996)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1996/94/1876",
+    "date": "1996-11-08",
+    "how": "amend"
+   }
+  ],
+  "cited_by": [
+   {
+    "ref": "nn:1999/76/1360",
+    "title": "Zakon o Državnom inspektoratu (NN 76/1999)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1999/76/1360",
+    "date": "1999-07-19",
+    "how": "cite"
+   }
+  ]
  },
  {
   "slug": "zakon-o-inspektoratu-rada",
@@ -10772,7 +11378,7 @@
   "in_force": "1996-04-03",
   "files": 27,
   "version": "prvi objavljeni tekst",
-  "status": "not yet checked"
+  "status": "in force"
  },
  {
   "slug": "zakon-o-izborima-opcinskih-nacelnika-gradonacelnika-zupana-i-gradonacelnika-grada-zagreba",
@@ -10960,6 +11566,22 @@
     "date": "2019-10-16",
     "how": "amend"
    }
+  ],
+  "cited_by": [
+   {
+    "ref": "nn:1999/144/2172",
+    "title": "Priopćenje Ustavnog suda Republike Hrvatske broj U-VII-1151/1999 od 23. prosinca 1999. (NN 144/1999)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1999/144/2172",
+    "date": "1999-12-24",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2000/21/291",
+    "title": "Odluka o prestanku zastupničkog mandata i početku obnašanja zastupničke dužnosti zastupnika u Županijskom domu Hrvatskoga državnog sabora (NN 21/2000)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/21/291",
+    "date": "2000-02-18",
+    "how": "cite"
+   }
   ]
  },
  {
@@ -10976,6 +11598,41 @@
   "version": "prvi objavljeni tekst",
   "status": "amended, not consolidated",
   "amended_by": [
+   {
+    "ref": "nn:1997/20/291",
+    "title": "Ispravak Zakona o izbornim jedinicama za izbor članova predstavničkih tijela jedinica lokalne samouprave i jedinica lokalne uprave i samouprave (NN 20/1997)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1997/20/291",
+    "date": "1997-02-19",
+    "how": "amend"
+   },
+   {
+    "ref": "nn:1997/22/304",
+    "title": "Ispravak Zakona o izbornim jedinicama za izbor članova predstavničkih tijela jedinica lokalne samouprave i jedinica lokalne uprave i samouprave (NN 22/1997)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1997/22/304",
+    "date": "1997-02-21",
+    "how": "amend"
+   },
+   {
+    "ref": "nn:1997/24/325",
+    "title": "Ispravak Zakona o izbornim jedinicama za izbor članova predstavničkih tijela jedinica lokalne samouprave i jedinica lokalne uprave i samouprave (NN 24/1997)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1997/24/325",
+    "date": "1997-02-28",
+    "how": "amend"
+   },
+   {
+    "ref": "nn:1997/32/478",
+    "title": "Ispravak Zakona o izbornim jedinicama za izbor članova predstavničkih tijela jedinica lokalne samouprave i jedinica lokalne uprave i samouprave (NN 32/1997)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1997/32/478",
+    "date": "1997-03-26",
+    "how": "amend"
+   },
+   {
+    "ref": "nn:1997/37/542",
+    "title": "Ispravak Zakona o izbornim jedinicama za izbor članova predstavničkih tijela jedinica lokalne samouprave i jedinica lokalne uprave i samouprave (NN 37/1997)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1997/37/542",
+    "date": "1997-04-09",
+    "how": "amend"
+   },
    {
     "ref": "nn:1999/75/1355",
     "title": "Zakon o izmjenama i dopunama Zakona o izbornim jedinicama za izbor članova predstavničkih tijela jedinica lokalne samouprave i jedinica lokalne uprave i samouprave (NN 75/1999)",
@@ -10997,7 +11654,23 @@
   "in_force": "1995-09-21",
   "files": 7,
   "version": "prvi objavljeni tekst",
-  "status": "not yet checked"
+  "status": "amended, not consolidated",
+  "amended_by": [
+   {
+    "ref": "nn:1995/77/1322",
+    "title": "Ispravak Zakona o izbornim jedinicama za izbor članova predstavničkih tijela novoustrojenih jedinica lokalne samouprave i uprave na području Zagrebačke županije (NN 77/1995)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1995/77/1322",
+    "date": "1995-10-04",
+    "how": "amend"
+   },
+   {
+    "ref": "nn:1995/82/1359",
+    "title": "Ispravak Zakona o izbornim jedinicama za izbor članova predstavničkih tijela novoustrojenih jedinica lokalne samouprave i uprave na području Zagrebačke županije (NN 82/1995)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1995/82/1359",
+    "date": "1995-10-12",
+    "how": "amend"
+   }
+  ]
  },
  {
   "slug": "zakon-o-izbornim-jedinicama-za-izbor-zastupnika-u-hrvatski-sabor",
@@ -11194,7 +11867,7 @@
   "in_force": "1999-12-08",
   "files": 3,
   "version": "prvi objavljeni tekst",
-  "status": "not yet checked"
+  "status": "in force"
  },
  {
   "slug": "zakon-o-izvrsavanju-rada-za-opce-dobro-na-slobodi-i-uvjetne-osude-sa-zastitnim-nadzorom-u",
@@ -11245,7 +11918,7 @@
   "in_force": "1996-02-17",
   "files": 26,
   "version": "prvi objavljeni tekst",
-  "status": "not yet checked"
+  "status": "in force"
  },
  {
   "slug": "zakon-o-jamstvenom-fondu-za-gospodarski-oporavak-i-razvitak",
@@ -11387,6 +12060,13 @@
     "how": "amend"
    },
    {
+    "ref": "nn:2011/82/1767",
+    "title": "Odluka Ustavnog suda Republike Hrvatske br. U-I-295/2006 i U-I-4516/2007 od 6. srpnja 2011. (NN 82/2011)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/82/1767",
+    "date": "2011-07-15",
+    "how": "amend"
+   },
+   {
     "ref": "nn:2012/78/1835",
     "title": "Zakon o izmjenama i dopunama Zakona o javnom okupljanju (NN 78/2012)",
     "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2012/78/1835",
@@ -11399,6 +12079,57 @@
     "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2022/114/1689",
     "date": "2022-10-03",
     "how": "amend"
+   }
+  ],
+  "cited_by": [
+   {
+    "ref": "nn:2005/139/2632",
+    "title": "Odluka Ustavnog suda Republike Hrvatske broj:U-I-3307/2005, U-I-3309/2005, U-I-3346/2005, U-I-3359/2005 od 23. studenoga 2005. godine (NN 139/2005)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/139/2632",
+    "date": "2005-11-25",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2010/28/669",
+    "title": "Rješenje o izmjeni Rješenja o utvrđivanju cijena posebnih troškova nastalih radom ministarstva unutarnjih poslova (NN 28/2010)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/28/669",
+    "date": "2010-03-03",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2011/55/1212",
+    "title": "Rješenje o utvrđivanju cijena posebnih troškova nastalih radom Ministarstva unutarnjih poslova (NN 55/2011)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/55/1212",
+    "date": "2011-05-18",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2012/100/2216",
+    "title": "Rješenje o izmjenama Rješenja o utvrđivanju cijena posebnih troškova nastalih radom Ministarstva unutarnjih poslova (NN 100/2012)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2012/100/2216",
+    "date": "2012-09-05",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2014/110/2117",
+    "title": "Rješenje o izmjenama i dopunama Rješenja o utvrđivanju cijena posebnih troškova nastalih radom Ministarstva unutarnjih poslova (NN 110/2014)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2014/110/2117",
+    "date": "2014-09-17",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2016/45/1167",
+    "title": "Rješenje o izmjeni Rješenja o utvrđivanju cijena posebnih troškova nastalih radom Ministarstva unutarnjih poslova (NN 45/2016)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2016/45/1167",
+    "date": "2016-05-13",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2021/43/841",
+    "title": "Protokol o postupanju u slučaju zločina iz mržnje (NN 43/2021)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2021/43/841",
+    "date": "2021-04-23",
+    "how": "cite"
    }
   ]
  },
@@ -11414,7 +12145,16 @@
   "in_force": "1997-12-13",
   "files": 27,
   "version": "prvi objavljeni tekst",
-  "status": "not yet checked"
+  "status": "cited later, not consolidated",
+  "cited_by": [
+   {
+    "ref": "nn:2006/33/861",
+    "title": "Zakon o prijevozu u linijskom i povremenom obalnom pomorskom prometu (NN 33/2006)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/33/861",
+    "date": "2006-03-24",
+    "how": "cite"
+   }
+  ]
  },
  {
   "slug": "zakon-o-javnom-priopcavanju",
@@ -11428,14 +12168,128 @@
   "in_force": "1996-10-08",
   "files": 49,
   "version": "prvi objavljeni tekst",
-  "status": "amended, not consolidated",
+  "status": "repealed, not consolidated",
   "amended_by": [
+   {
+    "ref": "nn:1998/143/1782",
+    "title": "Ispravak Zakona o javnom priopćavanju (NN 143/1998)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1998/143/1782",
+    "date": "1998-10-30",
+    "how": "amend"
+   },
    {
     "ref": "nn:2001/96/1613",
     "title": "Zakon o izmjenama i dopunama Zakona o javnom priopćavanju (NN 96/2001)",
     "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/96/1613",
     "date": "2001-11-07",
     "how": "amend"
+   },
+   {
+    "ref": "nn:2003/69/818",
+    "title": "Zakon o javnom priopćavanju (pročišćeni tekst) (NN 69/2003)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2003/69/818",
+    "date": "2003-04-23",
+    "how": "consolidated"
+   },
+   {
+    "ref": "nn:2003/163/2338",
+    "title": "Zakon o medijima (NN 163/2003)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2003/163/2338",
+    "date": "2003-10-16",
+    "how": "repeal"
+   },
+   {
+    "ref": "nn:2004/59/1324",
+    "title": "Zakon o medijima (NN 59/2004)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2004/59/1324",
+    "date": "2004-05-10",
+    "how": "repeal"
+   }
+  ],
+  "cited_by": [
+   {
+    "ref": "nn:1997/105/1616",
+    "title": "Zakon o knjižnicama (NN 105/1997)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1997/105/1616",
+    "date": "1997-10-09",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:1998/134/1625",
+    "title": "Odluka Ustavnog suda Republike Hrvatske broj U-III-279/1998. od 9. listopada 1998. i Izdvojeno mišljenje (NN 134/1998)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1998/134/1625",
+    "date": "1998-10-14",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2000/20/286",
+    "title": "Odluka i Rješenje Ustavnog suda Republike Hrvatske broj U-I-131/1998 od 3. veljače 2000. (NN 20/2000)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/20/286",
+    "date": "2000-02-16",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2001/29/523",
+    "title": "Rješenje Ustavnog suda Republike Hrvatske broj: U-I-778/2000 od 14. ožujka 2001. (NN 29/2001)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/29/523",
+    "date": "2001-04-04",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2004/27/789",
+    "title": "Odluka Ustavnog suda Republike Hrvatske broj: U-III-1558/2000 od 19. veljače 2004. (NN 27/2004)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2004/27/789",
+    "date": "2004-03-03",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2004/101/1983",
+    "title": "Odluka Ustavnog suda Republike Hrvatske broj U-III-2842/2002 od 8. srpnja 2004. (NN 101/2004)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2004/101/1983",
+    "date": "2004-07-21",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2005/147/2826",
+    "title": "Odluka Ustavnog suda Republike Hrvatske broj:U-III-2723/2003 od 23. studenoga 2005. (NN 147/2005)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/147/2826",
+    "date": "2005-12-14",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2006/76/1838",
+    "title": "Odluka Ustavnog suda Republike Hrvatske broj:U-III-2322/2004 od 1. lipnja 2006. (NN 76/2006)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/76/1838",
+    "date": "2006-07-10",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2006/91/2156",
+    "title": "Odluka Ustavnog suda Republike Hrvatske brojU-III-4256/2004 od 6. srpnja 2006. (NN 91/2006)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/91/2156",
+    "date": "2006-08-14",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2006/123/2730",
+    "title": "Odluka Ustavnog suda Republike Hrvatske broj:U-IIIA-3121/2005 od 18. listopada 2006. (NN 123/2006)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/123/2730",
+    "date": "2006-11-13",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2007/82/2608",
+    "title": "Odluka Ustavnog suda Republike Hrvatske broj:U-III-2256/2003 od 5. srpnja 2007. (NN 82/2007)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2007/82/2608",
+    "date": "2007-08-08",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2007/90/2751",
+    "title": "Odluka Ustavnog suda Republike Hrvatske broj:U-III-4056/2003 od 5. srpnja 2007. (NN 90/2007)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2007/90/2751",
+    "date": "2007-08-29",
+    "how": "cite"
    }
   ]
  },
@@ -13039,7 +13893,23 @@
   "in_force": "1997-10-08",
   "files": 5,
   "version": "prvi objavljeni tekst",
-  "status": "not yet checked"
+  "status": "cited later, not consolidated",
+  "cited_by": [
+   {
+    "ref": "nn:2009/85/2107",
+    "title": "Odluka Ustavnog suda Republike Hrvatske broj: U-III-446/2006 od 27. svibnja 2009. (NN 85/2009)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2009/85/2107",
+    "date": "2009-07-17",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2011/11/238",
+    "title": "Odluka Ustavnog suda Republike Hrvatske broj: U-III-947/2007 od 23. prosinca 2010. (NN 11/2011)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/11/238",
+    "date": "2011-01-26",
+    "how": "cite"
+   }
+  ]
  },
  {
   "slug": "zakon-o-koristenju-psa-pomagaca",
@@ -13090,7 +13960,30 @@
   "in_force": "1996-06-08",
   "files": 30,
   "version": "prvi objavljeni tekst",
-  "status": "not yet checked"
+  "status": "cited later, not consolidated",
+  "cited_by": [
+   {
+    "ref": "nn:2003/96/1216",
+    "title": "Zakon o proračunu (NN 96/2003)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2003/96/1216",
+    "date": "2003-06-10",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2003/96/1217",
+    "title": "Zakon o deviznom poslovanju (NN 96/2003)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2003/96/1217",
+    "date": "2003-06-10",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2004/37/936",
+    "title": "Nacionalni program Republike Hrvatske za pridruživanje Europskoj uniji - 2004. godina (NN 37/2004)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2004/37/936",
+    "date": "2004-03-23",
+    "how": "cite"
+   }
+  ]
  },
  {
   "slug": "zakon-o-kriterijima-za-sudjelovanje-u-tripartitnim-tijelima-i-reprezentativnosti-za",
@@ -14573,6 +15466,36 @@
     "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2002/65/1115",
     "date": "2002-06-05",
     "how": "amend"
+   },
+   {
+    "ref": "nn:2007/132/3778",
+    "title": "Ispravak Zakona o plovidbi i lukama unutarnjih voda (NN 132/2007)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2007/132/3778",
+    "date": "2007-12-24",
+    "how": "amend"
+   },
+   {
+    "ref": "nn:2014/152/2872",
+    "title": "Zakon o izmjenama i dopunama Zakona o plovidbi i lukama unutarnjih voda (NN 152/2014)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2014/152/2872",
+    "date": "2014-12-22",
+    "how": "amend"
+   }
+  ],
+  "cited_by": [
+   {
+    "ref": "nn:2007/109/3176",
+    "title": "Zakon o plovidbi i lukama unutarnjih voda (NN 109/2007)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2007/109/3176",
+    "date": "2007-10-24",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2021/144/2459",
+    "title": "Zakon o plovidbi i lukama unutarnjih voda (NN 144/2021)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2021/144/2459",
+    "date": "2021-12-27",
+    "how": "cite"
    }
   ]
  },
@@ -15514,7 +16437,7 @@
   "in_force": "1998-01-08",
   "files": 64,
   "version": "prvi objavljeni tekst",
-  "status": "not yet checked"
+  "status": "in force"
  },
  {
   "slug": "zakon-o-nacinu-i-uvjetima-podmirivanja-obveza-po-kreditima-i-drugim-poslovima-iz",
@@ -15528,7 +16451,16 @@
   "in_force": "1996-05-11",
   "files": 13,
   "version": "prvi objavljeni tekst",
-  "status": "not yet checked"
+  "status": "cited later, not consolidated",
+  "cited_by": [
+   {
+    "ref": "nn:2007/85/2677",
+    "title": "Rješenje Ustavnog suda Republike Hrvatske broj:U-I-1278/2002. od 11. srpnja 2007. (NN 85/2007)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2007/85/2677",
+    "date": "2007-08-16",
+    "how": "cite"
+   }
+  ]
  },
  {
   "slug": "zakon-o-nacinu-izvrsenja-presuda-europskog-suda-za-ljudska-prava-u-skupini-predmeta",
@@ -16913,6 +17845,407 @@
     "date": "2018-07-27",
     "how": "amend"
    }
+  ],
+  "cited_by": [
+   {
+    "ref": "nn:1996/99/1956",
+    "title": "Odluka Ustavnog suda Republike Hrvatske, broj U-I-892/1994 od 20. studenoga 1996. (NN 99/1996)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1996/99/1956",
+    "date": "1996-11-26",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:1996/99/1957",
+    "title": "Odluka Ustavnog suda Republike Hrvatske, broj U-I-130/1995 od 20. studenoga 1996. (NN 99/1996)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1996/99/1957",
+    "date": "1996-11-26",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:1997/53/818",
+    "title": "Odluka Ustavnog suda Republike Hrvatske broj: U-III-731/1994. od 22 (NN 53/1997)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1997/53/818",
+    "date": "1997-05-23",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:1997/112/1694",
+    "title": "Odluka Ustavnog suda Republike Hrvatske broj U-III-973/1994 od 8. listopada 1997. (NN 112/1997)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1997/112/1694",
+    "date": "1997-10-24",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:1998/48/604",
+    "title": "Odluka i Rješenje Ustavnog suda Republike Hrvatske broj U-I-762/1996, U-I-763/1996, U-I-795/1996 do U-I-906/1996, U-I-934/1996, U-I-945/1996, U-I-69/1997 do U-I-100/1997, U-I-107/1997, U-I-109/1997, U (NN 48/1998)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1998/48/604",
+    "date": "1998-04-06",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:1999/128/2025",
+    "title": "Zakon o izmjenama i dopunama Zakona o statusu prognanika i izbjeglica (NN 128/1999)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1999/128/2025",
+    "date": "1999-11-30",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2000/56/1256",
+    "title": "Rješenje Ustavnog suda Republike Hrvatske broj U-I-533/2000 od 24. svibnja 2000. (NN 56/2000)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/56/1256",
+    "date": "2000-06-06",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2000/73/1577",
+    "title": "Zakon o izmjenama i dopunama Zakona o područjima posebne državne skrbi (NN 73/2000)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/73/1577",
+    "date": "2000-07-21",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2001/18/338",
+    "title": "Odluka Ustavnog suda Republike Hrvatske broj U-III-178/1995 od 17. siječnja 2001. (NN 18/2001)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/18/338",
+    "date": "2001-03-07",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2001/44/728",
+    "title": "Zakon o obnovi i razvoju Grada Vukovara (NN 44/2001)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/44/728",
+    "date": "2001-05-16",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2001/103/1713",
+    "title": "Odluka Ustavnog suda Republike Hrvatske broj U-II-1163/2000 od 14. studenoga 2001. (NN 103/2001)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/103/1713",
+    "date": "2001-11-23",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2001/109/1794",
+    "title": "Zakon o društveno poticanoj stanogradnji (NN 109/2001)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/109/1794",
+    "date": "2001-12-11",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2002/86/1442",
+    "title": "Odluka Ustavnog suda Republike Hrvatske broj U-III-2000/2001 od 10. srpnja 2002. (NN 86/2002)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2002/86/1442",
+    "date": "2002-07-19",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2002/88/1463",
+    "title": "Zakon o izmjenama i dopunama Zakona o područjima posebne državne skrbi (NN 88/2002)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2002/88/1463",
+    "date": "2002-07-24",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2003/26/380",
+    "title": "Zakon o područjima posebne državne skrbi (pročišćeni tekst) (NN 26/2003)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2003/26/380",
+    "date": "2003-02-20",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2003/73/890",
+    "title": "Rješenje Ustavnog suda Republike Hrvatske broj U-III-135/2003 od 30. travnja 2003. (NN 73/2003)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2003/73/890",
+    "date": "2003-05-06",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2003/156/2244",
+    "title": "Odluka Ustavnog suda Republike Hrvatske broj U-III-1480/2003 od 11. rujna 2003. (NN 156/2003)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2003/156/2244",
+    "date": "2003-10-03",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2004/11/377",
+    "title": "Odluka Ustavnog suda Republike Hrvatske broj: U-III-2974/2003 od 8. siječnja 2004. (NN 11/2004)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2004/11/377",
+    "date": "2004-01-28",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2004/174/3031",
+    "title": "Odluka Ustavnog suda Republike Hrvatske broj U-III-1098/2004 od 16. studenoga 2004. (NN 174/2004)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2004/174/3031",
+    "date": "2004-12-10",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2005/32/635",
+    "title": "Rješenje Ustavnog suda Republike Hrvatske broj: U-I-993/23 i dr. od 9. veljače 2005. (NN 32/2005)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/32/635",
+    "date": "2005-03-09",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2005/147/2838",
+    "title": "Rješenje Ustavnog suda Republike Hrvatske broj: U-I-706/2001 od 23. studenoga 2005. (NN 147/2005)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/147/2838",
+    "date": "2005-12-14",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2005/149/2890",
+    "title": "Odluka Ustavnog suda Republike Hrvatske broj:U-III-4578/2004 od 7. prosinca 2005. (NN 149/2005)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/149/2890",
+    "date": "2005-12-19",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2006/20/506",
+    "title": "Rješenje Ustavnog suda Republike Hrvatske broj: U-I-3477/2004, U-I-453/2005, U-I-1383/2005,U-I-1385/2005 od 25. siječnja 2006. (NN 20/2006)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/20/506",
+    "date": "2006-02-20",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2006/22/527",
+    "title": "Zakon o prodaji stanova namijenjenih za nadstojnika stambene zgrade (NN 22/2006)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/22/527",
+    "date": "2006-02-24",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2006/68/1648",
+    "title": "Odluka Ustavnog suda Republike Hrvatske broj:U-IIIA-510/2005 od 17. svibnja 2006. (NN 68/2006)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/68/1648",
+    "date": "2006-06-19",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2006/128/2848",
+    "title": "Rješenje Ustavnog suda Republike Hrvatske broj:U-III-2066/2006 od 25. listopada 2006. (NN 128/2006)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/128/2848",
+    "date": "2006-11-27",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2007/67/2065",
+    "title": "Izvješće Ustavnog suda Republike Hrvatske broj:U-X-2191/2007 od 20. lipnja 2007. (NN 67/2007)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2007/67/2065",
+    "date": "2007-06-27",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2007/76/2407",
+    "title": "Zakon o izmjenama i dopunama Zakona o društveno poticajnoj stanogradnji (NN 76/2007)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2007/76/2407",
+    "date": "2007-07-23",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2008/1/36",
+    "title": "Odluka Ustavnog suda Republike Hrvatske broj:U-III-4949/2005 od 28. studenoga 2007. i Izdvojeno mišljenje (NN 1/2008)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2008/1/36",
+    "date": "2008-01-02",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2008/11/347",
+    "title": "Odluka Ustavnog suda Republike Hrvatske broj:U-III-1925/2005 od 19. prosinca 2007. (NN 11/2008)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2008/11/347",
+    "date": "2008-01-25",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2008/14/431",
+    "title": "Odluka Ustavnog suda Republike Hrvatske broj:U-III-2466/2005 od 9. siječnja 2008. (NN 14/2008)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2008/14/431",
+    "date": "2008-02-04",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2008/20/627",
+    "title": "Odluka Ustavnog suda Republike Hrvatske broj:U-III-2904/2004 od 23. siječnja 2008. (NN 20/2008)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2008/20/627",
+    "date": "2008-02-15",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2008/47/1610",
+    "title": "Odluka Ustavnog suda Republike Hrvatske broj: U-III-1590/2005 od 12. ožujka 2008. (NN 47/2008)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2008/47/1610",
+    "date": "2008-04-25",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2008/86/2750",
+    "title": "Zakon o područjima posebne državne skrbi (NN 86/2008)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2008/86/2750",
+    "date": "2008-07-23",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2009/42/981",
+    "title": "Odluka Ustavnog suda Republike Hrvatske broj: U-III-135/2003 od 17. ožujka 2009. (NN 42/2009)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2009/42/981",
+    "date": "2009-04-06",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2009/50/1193",
+    "title": "Odluka Ustavnog suda Republike Hrvatske broj: U-III-3340/2006 od 24. ožujka 2009. (NN 50/2009)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2009/50/1193",
+    "date": "2009-04-22",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2009/67/1618",
+    "title": "Odluka Ustavnog suda Republike Hrvatske broj: U-III-4673/2008 od 20. svibnja 2009. (NN 67/2009)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2009/67/1618",
+    "date": "2009-06-10",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2009/88/2188",
+    "title": "Odluka Ustavnog suda Republike Hrvatske broj: U-III-2521/2005 od 2. srpnja 2009. (NN 88/2009)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2009/88/2188",
+    "date": "2009-07-22",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2009/89/2264",
+    "title": "Odluka Ustavnog suda Republike Hrvatske broj: U-III-2019/2006 od 7. srpnja 2009. (NN 89/2009)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2009/89/2264",
+    "date": "2009-07-24",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2009/153/3782",
+    "title": "Odluka Ustavnog suda Republike Hrvatske broj: U-III-740/2007 od 2. prosinca 2009. (NN 153/2009)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2009/153/3782",
+    "date": "2009-12-21",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2010/47/1189",
+    "title": "Rješenje Ustavnog suda Republike Hrvatske broj: U-I-1267/2006 i dr. od 7. travnja 2010. (NN 47/2010)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/47/1189",
+    "date": "2010-04-19",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2010/93/2617",
+    "title": "Odluka Ustavnog suda Republike Hrvatske broj: U-III-3186/2007 od 30. lipnja 2010. (NN 93/2010)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/93/2617",
+    "date": "2010-07-28",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2012/38/989",
+    "title": "Odluka Ustavnog suda Republike Hrvatske broj: U-III-405/2008 od 21. veljače 2012. (NN 38/2012)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2012/38/989",
+    "date": "2012-03-30",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2013/41/789",
+    "title": "Odluka Ustavnog suda Republike Hrvatske broj: U-III-90/2009 od 8. studenoga 2012. (NN 41/2013)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/41/789",
+    "date": "2013-04-08",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2014/75/1413",
+    "title": "Odluka Ustavnog suda Republike Hrvatske broj: U-III-2709/2010 od 8. svibnja 2014. (NN 75/2014)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2014/75/1413",
+    "date": "2014-06-20",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2017/25/564",
+    "title": "Rješenje Ustavnog suda Republike Hrvatske broj U-I-60/1991 i dr. od 21. veljače 2017. i Izdvojeno mišljenje (NN 25/2017)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/25/564",
+    "date": "2017-03-20",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2017/122/2797",
+    "title": "Rješenje Ustavnog suda Republike Hrvatske broj: U-III-1035/2017 od 14. studenoga 2017. i Izdvojeno mišljenje suca (NN 122/2017)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/122/2797",
+    "date": "2017-12-08",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2018/27/567",
+    "title": "Odluka Ustavnog suda Republike Hrvatske broj: U-III-3849/2011 od 30. siječnja 2018. (NN 27/2018)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2018/27/567",
+    "date": "2018-03-21",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2018/40/783",
+    "title": "Odluka Ustavnog suda Republike Hrvatske broj: U-III-1759/2016 od 29. ožujka 2018. (NN 40/2018)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2018/40/783",
+    "date": "2018-05-02",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2018/53/1065",
+    "title": "Odluka Ustavnog suda Republike Hrvatske broj: U-III-1534/2016 od 3. svibnja 2018. (NN 53/2018)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2018/53/1065",
+    "date": "2018-06-08",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2018/110/2137",
+    "title": "Odluka Ustavnog suda Republike Hrvatske broj: U-III-2267/2017 od 3. listopada 2018. (NN 110/2018)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2018/110/2137",
+    "date": "2018-12-07",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2019/96/1863",
+    "title": "Stategija upravljanja državnom imovinom za razdoblje 2019. - 2025. (NN 96/2019)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2019/96/1863",
+    "date": "2019-10-09",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2020/105/1970",
+    "title": "Odluka i Rješenje Ustavnog suda Republike Hrvatske broj: U-I-3242/2018 i dr. od 14. rujna 2020. i dva izdvojena mišljenja sudaca (NN 105/2020)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2020/105/1970",
+    "date": "2020-09-25",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2023/131/1812",
+    "title": "Odluka Ustavnog suda Republike Hrvatske broj: U-III-3482/2021 od 3. listopada 2023. (NN 131/2023)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2023/131/1812",
+    "date": "2023-11-03",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2024/36/566",
+    "title": "Zakon o načinu izvršenja presuda Europskog suda za ljudska prava u skupini predmeta Statileo protiv Hrvatske (broj zahtjeva: 12027/10 i dr.) i Odluke Ustavnog suda Republike Hrvatske broj: U-I-3242/2018 i dr. (NN 36/2024)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2024/36/566",
+    "date": "2024-03-25",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2024/95/1740",
+    "title": "Odluka Ustavnog suda Republike Hrvatske broj: U-III-5117/2022 od 9. srpnja 2024. (NN 95/2024)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2024/95/1740",
+    "date": "2024-08-12",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2026/81/966",
+    "title": "Strategija upravljanja nekretninama i pokretninama u vlasništvu Republike Hrvatske za razdoblje 2026. - 2035. (NN 81/2026)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/81/966",
+    "date": "2026-07-24",
+    "how": "cite"
+   }
   ]
  },
  {
@@ -16935,6 +18268,43 @@
     "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/82/1408",
     "date": "2001-09-26",
     "how": "amend"
+   },
+   {
+    "ref": "nn:2014/102/1994",
+    "title": "Odluka i Rješenje Ustavnog suda Republike Hrvatske br. U-I-4113/2008 i dr. od 12. kolovoza 2014. (NN 102/2014)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2014/102/1994",
+    "date": "2014-08-22",
+    "how": "amend"
+   }
+  ],
+  "cited_by": [
+   {
+    "ref": "nn:2003/36/503",
+    "title": "Rješenje Ustavnog suda Republike Hrvatske U-I-949/1999, U-I-223/2000, U-I-897/2000, U-I-979/2000, U-I-1008/2000, U-I-1371/2000, U-I-372/2002, od 26. veljače 2003. (NN 36/2003)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2003/36/503",
+    "date": "2003-03-11",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2003/97/1230",
+    "title": "Strategija razvitka Republike Hrvatske \"Hrvatska u 21. stoljeću\" - Strategija razvitka mirovinskog sustava i sustava socijalne skrbi (NN 97/2003)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2003/97/1230",
+    "date": "2003-06-11",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2010/40/1047",
+    "title": "Odluka i Rješenje Ustavnog suda Republike Hrvatske broj: U-I-1988/1988 i dr. od 17. ožujka 2010. (NN 40/2010)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/40/1047",
+    "date": "2010-04-02",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2013/157/3290",
+    "title": "Zakon o mirovinskom osiguranju (NN 157/2013)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/157/3290",
+    "date": "2013-12-24",
+    "how": "cite"
    }
   ]
  },
@@ -17191,7 +18561,16 @@
   "in_force": "1994-04-19",
   "files": 31,
   "version": "prvi objavljeni tekst",
-  "status": "not yet checked"
+  "status": "amended, not consolidated",
+  "amended_by": [
+   {
+    "ref": "nn:1995/9/126",
+    "title": "Zakon o izmjenama i dopunama Zakona o novčanim poticajima i naknadama u poljoprivredi (NN 9/1995)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1995/9/126",
+    "date": "1995-02-10",
+    "how": "amend"
+   }
+  ]
  },
  {
   "slug": "zakon-o-novcanim-poticajima-i-naknadama-u-poljoprivredi-i-ribarstvu",
@@ -17241,6 +18620,57 @@
     "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2002/13/317",
     "date": "2002-02-08",
     "how": "amend"
+   },
+   {
+    "ref": "nn:2002/87/1445",
+    "title": "Zakon o državnoj potpori u poljoprivredi, ribarstvu i šumarstvu (NN 87/2002)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2002/87/1445",
+    "date": "2002-07-23",
+    "how": "amend"
+   }
+  ],
+  "cited_by": [
+   {
+    "ref": "nn:2001/42/709",
+    "title": "Operativni program podizanja novih višegodišnjih nasada u voćarstvu (NN 42/2001)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/42/709",
+    "date": "2001-05-10",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2001/42/710",
+    "title": "Operativni program podizanja novih nasada vinograda (NN 42/2001)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/42/710",
+    "date": "2001-05-10",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2002/68/1157",
+    "title": "Operativni program podizanja novih nasada vinograda (NN 68/2002)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2002/68/1157",
+    "date": "2002-06-12",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2002/68/1158",
+    "title": "Operativni program podizanja novih višegodišnjih nasada u voćarstvu (NN 68/2002)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2002/68/1158",
+    "date": "2002-06-12",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2002/133/2143",
+    "title": "Dopuna operativnog programa podizanja novih višegodišnjih nasada u voćarstvu (NN 133/2002)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2002/133/2143",
+    "date": "2002-11-15",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2003/117/1641",
+    "title": "Zakon o izmjenama i dopunama Zakona o državnoj potpori u poljoprivredi, ribarstvu i šumarstvu (NN 117/2003)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2003/117/1641",
+    "date": "2003-07-23",
+    "how": "cite"
    }
   ]
  },
@@ -17581,7 +19011,7 @@
   "in_force": "1996-12-06",
   "files": 12,
   "version": "prvi objavljeni tekst",
-  "status": "not yet checked"
+  "status": "in force"
  },
  {
   "slug": "zakon-o-obiteljskom-poljoprivrednom-gospodarstvu",
@@ -17628,6 +19058,20 @@
   "status": "amended, not consolidated",
   "amended_by": [
    {
+    "ref": "nn:1996/54/1002",
+    "title": "Zakon o izmjenama Zakona o obnovi (NN 54/1996)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1996/54/1002",
+    "date": "1996-07-08",
+    "how": "amend"
+   },
+   {
+    "ref": "nn:1996/87/1522",
+    "title": "Zakon o dopuni Zakona o obnovi (NN 87/1996)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1996/87/1522",
+    "date": "1996-10-16",
+    "how": "amend"
+   },
+   {
     "ref": "nn:2000/57/1260",
     "title": "Zakon o izmjenama i dopunama Zakona o obnovi (NN 57/2000)",
     "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/57/1260",
@@ -17661,6 +19105,134 @@
     "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2019/98/1974",
     "date": "2019-10-16",
     "how": "amend"
+   }
+  ],
+  "cited_by": [
+   {
+    "ref": "nn:1996/92/1608",
+    "title": "Program posebnog dijela državnog stručnog ispita iz područja obnove i područnog razvitka Republike Hrvatske (NN 92/1996)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1996/92/1608",
+    "date": "1996-10-30",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:1998/92/1248",
+    "title": "Izvješće Vlade Republike Hrvatske o dosadašnjem tijeku povratka i zbrinjavanju prognanika, izbjeglica i raseljenih osoba (NN 92/1998)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1998/92/1248",
+    "date": "1998-07-07",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2000/73/1577",
+    "title": "Zakon o izmjenama i dopunama Zakona o područjima posebne državne skrbi (NN 73/2000)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/73/1577",
+    "date": "2000-07-21",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2001/3/71",
+    "title": "Izmjene i dopune Naputka o načinu i postupku otpisa kredita za obnovu stambenih zgrada i stanova (NN 3/2001)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/3/71",
+    "date": "2001-01-12",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2002/88/1463",
+    "title": "Zakon o izmjenama i dopunama Zakona o područjima posebne državne skrbi (NN 88/2002)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2002/88/1463",
+    "date": "2002-07-24",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2003/26/380",
+    "title": "Zakon o područjima posebne državne skrbi (pročišćeni tekst) (NN 26/2003)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2003/26/380",
+    "date": "2003-02-20",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2005/72/1423",
+    "title": "Odluka Ustavnog suda Republike Hrvatske brojU-III-3201/2003 od 24. svibnja 2005. (NN 72/2005)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/72/1423",
+    "date": "2005-06-13",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2005/147/2827",
+    "title": "Odluka Ustavnog suda Republike Hrvatske broj: U-III-3837/2004 od 24. studenoga 2005. (NN 147/2005)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/147/2827",
+    "date": "2005-12-14",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2008/78/2577",
+    "title": "Rješenje Ustavnog suda Republike Hrvatske broj: U-I-2564/2007 od 18. lipnja 2008. (NN 78/2008)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2008/78/2577",
+    "date": "2008-07-07",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2008/86/2750",
+    "title": "Zakon o područjima posebne državne skrbi (NN 86/2008)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2008/86/2750",
+    "date": "2008-07-23",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2008/88/2833",
+    "title": "Odluka Ustavnog suda Republike Hrvatske broj (NN 88/2008)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2008/88/2833",
+    "date": "2008-07-28",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2008/137/3869",
+    "title": "Rješenje Ustavnog suda Republike Hrvatske broj: U-I-2921/2003 i dr. od 19. studenoga 2008. (NN 137/2008)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2008/137/3869",
+    "date": "2008-11-26",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2008/137/3870",
+    "title": "Rješenje Ustavnog suda Republike Hrvatske broj: U-I-2820/2003 i dr. od 19. studenoga 2008. (NN 137/2008)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2008/137/3870",
+    "date": "2008-11-26",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2010/5/143",
+    "title": "Rješenje Ustavnog suda Republike Hrvatske broj: U-III-799/2009 od 9. prosinca 2009. (NN 5/2010)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/5/143",
+    "date": "2010-01-11",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2011/57/1261",
+    "title": "Zakon o izmjenama i dopunama Zakona o područjima posebne državne skrbi (NN 57/2011)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/57/1261",
+    "date": "2011-05-25",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2011/92/1968",
+    "title": "Odluka Ustavnog suda Republike Hrvatske broj: U-III-4160/2008 od 30. lipnja 2011. (NN 92/2011)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/92/1968",
+    "date": "2011-08-04",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2014/76/1416",
+    "title": "Zakon o izmjenama i dopunama Zakona o područjima posebne državne skrbi (NN 76/2014)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2014/76/1416",
+    "date": "2014-06-24",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2018/106/2057",
+    "title": "Zakon o stambenom zbrinjavanju na potpomognutim područjima (NN 106/2018)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2018/106/2057",
+    "date": "2018-11-30",
+    "how": "cite"
    }
   ]
  },
@@ -18541,6 +20113,13 @@
   "status": "amended, not consolidated",
   "amended_by": [
    {
+    "ref": "nn:1998/135/1626",
+    "title": "Zakon o izmjenama i dopunama Zakona o obvezama i pravima državnih dužnosnika (NN 135/1998)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1998/135/1626",
+    "date": "1998-10-16",
+    "how": "amend"
+   },
+   {
     "ref": "nn:1999/105/1750",
     "title": "Zakon o izmjeni Zakona o obvezama i pravima državnih dužnosnika (NN 105/1999)",
     "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1999/105/1750",
@@ -18646,6 +20225,13 @@
     "how": "amend"
    },
    {
+    "ref": "nn:2011/93/1984",
+    "title": "Odluka Ustavnog suda Republike Hrvatske broj: U-III-3675/2008 od 29. srpnja 2011. (NN 93/2011)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/93/1984",
+    "date": "2011-08-10",
+    "how": "amend"
+   },
+   {
     "ref": "nn:2011/150/3087",
     "title": "Zakon o izmjenama i dopunama Zakona o obvezama i pravima državnih dužnosnika (NN 150/2011)",
     "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/150/3087",
@@ -18657,6 +20243,13 @@
     "title": "Zakon o izmjenama i dopunama Zakona o obvezama i pravima državnih dužnosnika (NN 22/2013)",
     "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/22/363",
     "date": "2013-02-22",
+    "how": "amend"
+   },
+   {
+    "ref": "nn:2015/60/1168",
+    "title": "Odluka Ustavnog suda Republike Hrvatske broj: U-I-7431/2014 i U-II-7432/2014 od 13. svibnja 2015. (NN 60/2015)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2015/60/1168",
+    "date": "2015-05-30",
     "how": "amend"
    },
    {
@@ -18672,6 +20265,134 @@
     "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2019/66/1291",
     "date": "2019-07-10",
     "how": "amend"
+   }
+  ],
+  "cited_by": [
+   {
+    "ref": "nn:1998/167/2069",
+    "title": "Zakon o izvršavanju Državnog proračuna Republike Hrvatske za 1999. godinu (NN 167/1998)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1998/167/2069",
+    "date": "1998-12-31",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:1999/10/245",
+    "title": "Zakon o plaćama sudaca i drugih pravosudnih dužnosnika (NN 10/1999)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1999/10/245",
+    "date": "1999-02-01",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:1999/129/2030",
+    "title": "Zakon o izmjenama i dopunama Zakona o pravima zastupnika u Saboru Republike Hrvatske (NN 129/1999)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1999/129/2030",
+    "date": "1999-12-01",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2001/51/819",
+    "title": "Odluka o smještaju zastupnika Hrvatskoga sabora u Zagrebu u vrijeme zasjedanja Sabora, radnih tijela i klubova zastupnika (pročišćeni tekst) (NN 51/2001)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/51/819",
+    "date": "2001-06-06",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2001/116/1951",
+    "title": "Zakon o izvršavanju Državnog proračuna Republike Hrvatske za 2002. godinu (NN 116/2001)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/116/1951",
+    "date": "2001-12-22",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2002/144/2314",
+    "title": "Odluka o smještaju zastupnika Hrvatskoga sabora u Zagrebu u vrijeme zasjedanja Sabora, radnih tijela i Klubova zastupnika (pročišćeni tekst) (NN 144/2002)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2002/144/2314",
+    "date": "2002-12-04",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2003/36/503",
+    "title": "Rješenje Ustavnog suda Republike Hrvatske U-I-949/1999, U-I-223/2000, U-I-897/2000, U-I-979/2000, U-I-1008/2000, U-I-1371/2000, U-I-372/2002, od 26. veljače 2003. (NN 36/2003)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2003/36/503",
+    "date": "2003-03-11",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2004/105/2022",
+    "title": "Zakon o posebnim pravima predsjednika Republike Hrvatske po prestanku obnašanja dužnosti (NN 105/2004)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2004/105/2022",
+    "date": "2004-07-28",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2005/44/834",
+    "title": "Odluka o smještaju zastupnika Hrvatskog sabora u Zagrebu u vrijeme zasjedanja Sabora, radnih tijela i klubova zastupnika (pročišćeni tekst) (NN 44/2005)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/44/834",
+    "date": "2005-04-05",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2006/135/3071",
+    "title": "Odluka Ustavnog suda Republike Hrvatske broj:U-I-928/2000 od 22. studenoga 2006. i Izdvojeno mišljenje (NN 135/2006)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/135/3071",
+    "date": "2006-12-13",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2007/34/1106",
+    "title": "Odluka Ustavnog suda Republike Hrvatske broj:U-I-793/2007 od 21. ožujka 2007. (NN 34/2007)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2007/34/1106",
+    "date": "2007-03-30",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2007/34/1107",
+    "title": "Odluka Ustavnog suda Republike Hrvatske broj:U-I-764/2004 i dr. od 21. ožujka 2007. (NN 34/2007)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2007/34/1107",
+    "date": "2007-03-30",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2013/22/362",
+    "title": "Zakon o izmjenama i dopunama Zakona o posebnim pravima predsjednika Republike Hrvatske po prestanku obnašanja dužnosti (NN 22/2013)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/22/362",
+    "date": "2013-02-22",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2014/102/1994",
+    "title": "Odluka i Rješenje Ustavnog suda Republike Hrvatske br. U-I-4113/2008 i dr. od 12. kolovoza 2014. (NN 102/2014)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2014/102/1994",
+    "date": "2014-08-22",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2014/103/2018",
+    "title": "Odluka Ustavnog suda Republike Hrvatske broj: U-I-5735/2014, U-I-3288/2014 i U-II-3289/2014 od 12. kolovoza 2014. (NN 103/2014)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2014/103/2018",
+    "date": "2014-08-27",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2017/30/683",
+    "title": "Odluka Ustavnog suda Republike Hrvatske broj: U-I-4301/2005 od 7. ožujka 2017. (NN 30/2017)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/30/683",
+    "date": "2017-04-03",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2017/37/800",
+    "title": "Odluka Ustavnog suda Republike Hrvatske broj: U-III-2130/2012 od 7. ožujka 2017. i tri izdvojena mišljenja (NN 37/2017)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/37/800",
+    "date": "2017-04-14",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2024/78/1331",
+    "title": "Zakon o izmjenama i dopuni Zakona o Vladi Republike Hrvatske (NN 78/2024)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2024/78/1331",
+    "date": "2024-07-01",
+    "how": "cite"
    }
   ]
  },
@@ -18709,6 +20430,29 @@
     "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/94/2128",
     "date": "2013-07-22",
     "how": "amend"
+   }
+  ],
+  "cited_by": [
+   {
+    "ref": "nn:2010/30/692",
+    "title": "Nacionalni program zaštite potrošača za razdoblje 2009. - 2012. (NN 30/2010)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/30/692",
+    "date": "2010-03-05",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2013/90/1970",
+    "title": "Nacionalni program zaštite potrošača za razdoblje od 2013. do 2016. godine (NN 90/2013)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/90/1970",
+    "date": "2013-07-12",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2018/20/405",
+    "title": "Nacionalni program zaštite potrošača za razdoblje od 2017. do 2020. godine (NN 20/2018)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2018/20/405",
+    "date": "2018-03-01",
+    "how": "cite"
    }
   ]
  },
@@ -18951,7 +20695,7 @@
   "in_force": "1996-12-17",
   "files": 3,
   "version": "prvi objavljeni tekst",
-  "status": "not yet checked"
+  "status": "in force"
  },
  {
   "slug": "zakon-o-odgodi-uskladjivanja-mirovina-u-razdoblju-od-1-sijecnja-do-31-prosinca-2011-godine",
@@ -19258,6 +21002,92 @@
     "date": "2022-10-03",
     "how": "amend"
    }
+  ],
+  "cited_by": [
+   {
+    "ref": "nn:2000/20/286",
+    "title": "Odluka i Rješenje Ustavnog suda Republike Hrvatske broj U-I-131/1998 od 3. veljače 2000. (NN 20/2000)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/20/286",
+    "date": "2000-02-16",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2001/29/523",
+    "title": "Rješenje Ustavnog suda Republike Hrvatske broj: U-I-778/2000 od 14. ožujka 2001. (NN 29/2001)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/29/523",
+    "date": "2001-04-04",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2001/96/1613",
+    "title": "Zakon o izmjenama i dopunama Zakona o javnom priopćavanju (NN 96/2001)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/96/1613",
+    "date": "2001-11-07",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2003/163/2338",
+    "title": "Zakon o medijima (NN 163/2003)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2003/163/2338",
+    "date": "2003-10-16",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2004/27/789",
+    "title": "Odluka Ustavnog suda Republike Hrvatske broj: U-III-1558/2000 od 19. veljače 2004. (NN 27/2004)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2004/27/789",
+    "date": "2004-03-03",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2004/59/1324",
+    "title": "Zakon o medijima (NN 59/2004)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2004/59/1324",
+    "date": "2004-05-10",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2004/101/1983",
+    "title": "Odluka Ustavnog suda Republike Hrvatske broj U-III-2842/2002 od 8. srpnja 2004. (NN 101/2004)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2004/101/1983",
+    "date": "2004-07-21",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2005/147/2826",
+    "title": "Odluka Ustavnog suda Republike Hrvatske broj:U-III-2723/2003 od 23. studenoga 2005. (NN 147/2005)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/147/2826",
+    "date": "2005-12-14",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2006/76/1838",
+    "title": "Odluka Ustavnog suda Republike Hrvatske broj:U-III-2322/2004 od 1. lipnja 2006. (NN 76/2006)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/76/1838",
+    "date": "2006-07-10",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2006/123/2730",
+    "title": "Odluka Ustavnog suda Republike Hrvatske broj:U-IIIA-3121/2005 od 18. listopada 2006. (NN 123/2006)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/123/2730",
+    "date": "2006-11-13",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2007/82/2608",
+    "title": "Odluka Ustavnog suda Republike Hrvatske broj:U-III-2256/2003 od 5. srpnja 2007. (NN 82/2007)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2007/82/2608",
+    "date": "2007-08-08",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2007/90/2751",
+    "title": "Odluka Ustavnog suda Republike Hrvatske broj:U-III-4056/2003 od 5. srpnja 2007. (NN 90/2007)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2007/90/2751",
+    "date": "2007-08-29",
+    "how": "cite"
+   }
   ]
  },
  {
@@ -19515,7 +21345,65 @@
   "in_force": "1996-10-05",
   "files": 8,
   "version": "prvi objavljeni tekst",
-  "status": "not yet checked"
+  "status": "cited later, not consolidated",
+  "cited_by": [
+   {
+    "ref": "nn:1998/92/1248",
+    "title": "Izvješće Vlade Republike Hrvatske o dosadašnjem tijeku povratka i zbrinjavanju prognanika, izbjeglica i raseljenih osoba (NN 92/1998)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1998/92/1248",
+    "date": "1998-07-07",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:1999/128/2025",
+    "title": "Zakon o izmjenama i dopunama Zakona o statusu prognanika i izbjeglica (NN 128/1999)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1999/128/2025",
+    "date": "1999-11-30",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2000/57/1260",
+    "title": "Zakon o izmjenama i dopunama Zakona o obnovi (NN 57/2000)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/57/1260",
+    "date": "2000-06-09",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2000/73/1577",
+    "title": "Zakon o izmjenama i dopunama Zakona o područjima posebne državne skrbi (NN 73/2000)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/73/1577",
+    "date": "2000-07-21",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2001/22/408",
+    "title": "Odluka Ustavnog suda Republike Hrvatske broj: U-III-791/1997 od 14. ožujka 2001. (NN 22/2001)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/22/408",
+    "date": "2001-03-21",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2008/72/2417",
+    "title": "Odluka Ustavnog suda Republike Hrvatske broj: U-III-2315/2007 od 11. lipnja 2008. (NN 72/2008)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2008/72/2417",
+    "date": "2008-06-23",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2011/92/1971",
+    "title": "Odluka Ustavnog suda Republike Hrvatske broj: U-III-2623/2011 od 13. srpnja 2011. (NN 92/2011)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/92/1971",
+    "date": "2011-08-04",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2014/25/460",
+    "title": "Odluka Ustavnog suda Republike Hrvatske broj: U-III-5092/2012 od 20. studenoga 2013. (NN 25/2014)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2014/25/460",
+    "date": "2014-02-24",
+    "how": "cite"
+   }
+  ]
  },
  {
   "slug": "zakon-o-opcem-upravnom-postupku",
@@ -23250,7 +25138,7 @@
   "in_force": "1995-09-26",
   "files": 4,
   "version": "prvi objavljeni tekst",
-  "status": "not yet checked"
+  "status": "in force"
  },
  {
   "slug": "zakon-o-ovlasti-vlade-republike-hrvatske-da-uredbama-uredjuje-pojedina-pitanja-iz",
@@ -23278,7 +25166,7 @@
   "in_force": "1997-10-08",
   "files": 4,
   "version": "prvi objavljeni tekst",
-  "status": "not yet checked"
+  "status": "in force"
  },
  {
   "slug": "zakon-o-ovlasti-vlade-republike-hrvatske-da-uredbama-uredjuje-pojedina-pitanja-iz-nn-114-2011",
@@ -23360,6 +25248,43 @@
     "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1999/127/2008",
     "date": "1999-11-29",
     "how": "amend"
+   },
+   {
+    "ref": "nn:2003/186/2710",
+    "title": "Ispravak Zakona o oznakama zemljopisnog podrijetla i oznakama izvornosti proizvoda i usluga (NN 186/2003)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2003/186/2710",
+    "date": "2003-11-24",
+    "how": "amend"
+   }
+  ],
+  "cited_by": [
+   {
+    "ref": "nn:2000/56/1254",
+    "title": "Rješenje Ustavnog suda Republike Hrvatske broj U-I-783/1997 od 17. svibnja 2000. (NN 56/2000)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/56/1254",
+    "date": "2000-06-06",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2002/81/1338",
+    "title": "Program posebnog dijela državnog stručnog ispita za zvanja gospodarskog inspektora, gospodarskog inspektora treće vrste zvanja, inspektora rada, elektroenergetskog inspektora, rudarskog inspektora i inspektora posuda pod tlakom (NN 81/2002)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2002/81/1338",
+    "date": "2002-07-09",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2003/111/1519",
+    "title": "Program posebnog dijela državnog stručnog ispita za zvanje gospodarskog inspektora, gospodarskog inspektora treće vrste zvanja, inspektora rada, elektroenergetskog inspektora, rudarskog inspektora i i (NN 111/2003)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2003/111/1519",
+    "date": "2003-07-15",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2003/117/1633",
+    "title": "Zakon o hrani (NN 117/2003)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2003/117/1633",
+    "date": "2003-07-23",
+    "how": "cite"
    }
   ]
  },
@@ -23375,7 +25300,7 @@
   "in_force": "1999-05-19",
   "files": 4,
   "version": "prvi objavljeni tekst",
-  "status": "not yet checked"
+  "status": "in force"
  },
  {
   "slug": "zakon-o-patentima",
@@ -23404,6 +25329,36 @@
     "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2002/32/699",
     "date": "2002-03-28",
     "how": "amend"
+   }
+  ],
+  "cited_by": [
+   {
+    "ref": "nn:2000/56/1254",
+    "title": "Rješenje Ustavnog suda Republike Hrvatske broj U-I-783/1997 od 17. svibnja 2000. (NN 56/2000)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/56/1254",
+    "date": "2000-06-06",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2002/81/1338",
+    "title": "Program posebnog dijela državnog stručnog ispita za zvanja gospodarskog inspektora, gospodarskog inspektora treće vrste zvanja, inspektora rada, elektroenergetskog inspektora, rudarskog inspektora i inspektora posuda pod tlakom (NN 81/2002)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2002/81/1338",
+    "date": "2002-07-09",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2003/111/1519",
+    "title": "Program posebnog dijela državnog stručnog ispita za zvanje gospodarskog inspektora, gospodarskog inspektora treće vrste zvanja, inspektora rada, elektroenergetskog inspektora, rudarskog inspektora i i (NN 111/2003)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2003/111/1519",
+    "date": "2003-07-15",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2003/173/2494",
+    "title": "Zakon o patentu (NN 173/2003)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2003/173/2494",
+    "date": "2003-10-31",
+    "how": "cite"
    }
   ]
  },
@@ -23493,6 +25448,15 @@
     "date": "2013-03-29",
     "how": "amend"
    }
+  ],
+  "cited_by": [
+   {
+    "ref": "nn:2001/27/471",
+    "title": "Zakon o državnim službenicima i namještenicima (NN 27/2001)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/27/471",
+    "date": "2001-03-30",
+    "how": "cite"
+   }
   ]
  },
  {
@@ -23573,6 +25537,13 @@
     "how": "amend"
    },
    {
+    "ref": "nn:2007/34/1107",
+    "title": "Odluka Ustavnog suda Republike Hrvatske broj:U-I-764/2004 i dr. od 21. ožujka 2007. (NN 34/2007)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2007/34/1107",
+    "date": "2007-03-30",
+    "how": "amend"
+   },
+   {
     "ref": "nn:2008/146/4023",
     "title": "Zakon o dopuni Zakona o plaćama sudaca i drugih pravosudnih dužnosnika (NN 146/2008)",
     "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2008/146/4023",
@@ -23594,10 +25565,24 @@
     "how": "amend"
    },
    {
+    "ref": "nn:2012/12/337",
+    "title": "Zakon o dopuni Zakona o plaćama sudaca i drugih pravosudnih dužnosti (NN 12/2012)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2012/12/337",
+    "date": "2012-01-26",
+    "how": "amend"
+   },
+   {
     "ref": "nn:2012/143/3035",
     "title": "Zakon o dopuni Zakona o plaćama sudaca i drugih pravosudnih dužnosnika (NN 143/2012)",
     "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2012/143/3035",
     "date": "2012-12-20",
+    "how": "amend"
+   },
+   {
+    "ref": "nn:2014/147/2756",
+    "title": "Zakon o izmjenama Zakona o plaćama sudaca i drugih pravosudnih dužnosnik (NN 147/2014)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2014/147/2756",
+    "date": "2014-12-12",
     "how": "amend"
    },
    {
@@ -23634,6 +25619,50 @@
     "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2025/34/385",
     "date": "2025-02-27",
     "how": "amend"
+   }
+  ],
+  "cited_by": [
+   {
+    "ref": "nn:2001/116/1951",
+    "title": "Zakon o izvršavanju Državnog proračuna Republike Hrvatske za 2002. godinu (NN 116/2001)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/116/1951",
+    "date": "2001-12-22",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2002/154/2531",
+    "title": "Zakon o izvršavanju državnog proračuna Republike Hrvatske za 2003. godinu (NN 154/2002)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2002/154/2531",
+    "date": "2002-12-21",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2014/93/1882",
+    "title": "Izvješće Ustavnog suda Republike Hrvatske o zakonodavnoj praksi uzastopnog višegodišnjeg derogiranja priznatih prava (NN 93/2014)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2014/93/1882",
+    "date": "2014-07-30",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2014/100/1969",
+    "title": "Odluka i Rješenje Ustavnog suda Republike Hrvatske broj: U-I-4039/2009, U-I-25427/2009 i U-I-195/2010 od 18. srpnja 2014. (NN 100/2014)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2014/100/1969",
+    "date": "2014-08-18",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2015/60/1168",
+    "title": "Odluka Ustavnog suda Republike Hrvatske broj: U-I-7431/2014 i U-II-7432/2014 od 13. svibnja 2015. (NN 60/2015)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2015/60/1168",
+    "date": "2015-05-30",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2017/45/1063",
+    "title": "Rješenje Ustavnog suda Republike Hrvatske broj: U-I-810/2012 i dr. od 4. travnja 2017. (NN 45/2017)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/45/1063",
+    "date": "2017-05-10",
+    "how": "cite"
    }
   ]
  },
@@ -23741,7 +25770,16 @@
   "in_force": "1996-06-26",
   "files": 6,
   "version": "prvi objavljeni tekst",
-  "status": "not yet checked"
+  "status": "cited later, not consolidated",
+  "cited_by": [
+   {
+    "ref": "nn:1996/106/2027",
+    "title": "Zakon o doplatnim markama u poštanskom prometu (NN 106/1996)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1996/106/2027",
+    "date": "1996-12-17",
+    "how": "cite"
+   }
+  ]
  },
  {
   "slug": "zakon-o-placanju-doplatne-marke-200-obljetnica-rodjenja-i-135-obljetnica-smrti-antuna",
@@ -23755,7 +25793,7 @@
   "in_force": "1996-12-06",
   "files": 7,
   "version": "prvi objavljeni tekst",
-  "status": "not yet checked"
+  "status": "in force"
  },
  {
   "slug": "zakon-o-placanju-doplatne-marke-800-godina-spomena-imena-osijeka-u-unutarnjem-postanskom",
@@ -23769,7 +25807,7 @@
   "in_force": "1996-06-26",
   "files": 6,
   "version": "prvi objavljeni tekst",
-  "status": "not yet checked"
+  "status": "in force"
  },
  {
   "slug": "zakon-o-placanju-doplatne-marke-hrvatska-liga-protiv-raka-u-unutarnjem-postanskpm-prometu",
@@ -23797,7 +25835,7 @@
   "in_force": "1996-11-02",
   "files": 7,
   "version": "prvi objavljeni tekst",
-  "status": "not yet checked"
+  "status": "in force"
  },
  {
   "slug": "zakon-o-placanju-doplatne-marke-obiljezavanje-600-te-obljetnice-dominikanskog-sveucilista",
@@ -23811,7 +25849,7 @@
   "in_force": "1996-10-24",
   "files": 6,
   "version": "prvi objavljeni tekst",
-  "status": "not yet checked"
+  "status": "in force"
  },
  {
   "slug": "zakon-o-placanju-doplatnih-maraka-u-unutarnjem-postanskom-prometu",
@@ -23825,7 +25863,16 @@
   "in_force": "1994-07-15",
   "files": 7,
   "version": "prvi objavljeni tekst",
-  "status": "not yet checked"
+  "status": "amended, not consolidated",
+  "amended_by": [
+   {
+    "ref": "nn:1994/56/1037",
+    "title": "Ispravak Zakona o plaćanju doplatnih maraka u unutarnjem poštanskom prometu (NN 56/1994)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1994/56/1037",
+    "date": "1994-07-22",
+    "how": "amend"
+   }
+  ]
  },
  {
   "slug": "zakon-o-placanju-doplatnih-maraka-u-unutarnjem-postanskom-prometu-u-godini-1996",
@@ -23839,7 +25886,7 @@
   "in_force": "1996-03-07",
   "files": 7,
   "version": "prvi objavljeni tekst",
-  "status": "not yet checked"
+  "status": "in force"
  },
  {
   "slug": "zakon-o-placanju-doplatnih-maraka-u-unutrasnjem-postanskom-prometu",
@@ -23853,7 +25900,58 @@
   "in_force": "1995-04-01",
   "files": 7,
   "version": "prvi objavljeni tekst",
-  "status": "not yet checked"
+  "status": "cited later, not consolidated",
+  "cited_by": [
+   {
+    "ref": "nn:2006/57/1355",
+    "title": "Zakon o izmjenama i dopunama Zakona o odlikovanjima i priznanjima Republike Hrvatske (NN 57/2006)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/57/1355",
+    "date": "2006-05-24",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2006/141/3192",
+    "title": "Zakon o dopunama Zakona o odlikovanjima i priznanjima Republike Hrvatske (NN 141/2006)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/141/3192",
+    "date": "2006-12-27",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2006/143/3241",
+    "title": "Odluka o dodjeli Povelje Republike Hrvatske Košarkaškom klubu Cibona Zagreb (NN 143/2006)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/143/3241",
+    "date": "2006-12-29",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2010/112/2956",
+    "title": "Odluka o dodjeli Povelje Republike Hrvatske Visokom gospodarskom učilištu Križevci (NN 112/2010)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/112/2956",
+    "date": "2010-09-29",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2011/139/2773",
+    "title": "Odluka o odlikovanju Frane (Ivica) Stojića Redom kneza Domagoja s ogrlicom (NN 139/2011)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/139/2773",
+    "date": "2011-12-05",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2013/1/6",
+    "title": "Odluka o odlikovanju Deana (Tihomir) Mrđenovića Redom Nikole Šubića Zrinskog (NN 1/2013)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/1/6",
+    "date": "2013-01-02",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2019/118/2347",
+    "title": "Zakon o dopunama Zakona o odlikovanjima i priznanjima Republike Hrvatske (NN 118/2019)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2019/118/2347",
+    "date": "2019-12-04",
+    "how": "cite"
+   }
+  ]
  },
  {
   "slug": "zakon-o-placanju-doprinosa-za-doplatak-za-djecu-u-1995-godini",
@@ -23895,7 +25993,7 @@
   "in_force": "1998-01-31",
   "files": 8,
   "version": "prvi objavljeni tekst",
-  "status": "not yet checked"
+  "status": "in force"
  },
  {
   "slug": "zakon-o-placanju-doprinosa-za-mirovinsko-i-invalidsko-osiguranje-samostalnih-privrednika",
@@ -23909,7 +26007,7 @@
   "in_force": "1998-01-31",
   "files": 6,
   "version": "prvi objavljeni tekst",
-  "status": "not yet checked"
+  "status": "in force"
  },
  {
   "slug": "zakon-o-placanju-doprinosa-za-mirovinsko-osiguranje-od-1-lipnja-do-31-prosinca-2000-godine",
@@ -24038,7 +26136,16 @@
   "in_force": "1997-07-22",
   "files": 26,
   "version": "prvi objavljeni tekst",
-  "status": "not yet checked"
+  "status": "cited later, not consolidated",
+  "cited_by": [
+   {
+    "ref": "nn:2015/26/540",
+    "title": "Zakon o izmjenama i dopunama Pomorskog zakonika (NN 26/2015)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2015/26/540",
+    "date": "2015-03-09",
+    "how": "cite"
+   }
+  ]
  },
  {
   "slug": "zakon-o-podacima-i-informacijama-u-zdravstvu",
@@ -24135,13 +26242,6 @@
   "version": "prvi objavljeni tekst",
   "status": "amended, not consolidated",
   "amended_by": [
-   {
-    "ref": "nn:1998/36/451",
-    "title": "",
-    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1998/36/451",
-    "date": "",
-    "how": "amend"
-   },
    {
     "ref": "nn:2022/21/225",
     "title": "Zakon o izmjeni Zakona o područjima i sjedištima državnih odvjetništava (NN 21/2022)",
@@ -26145,7 +28245,23 @@
   "in_force": "1995-01-04",
   "files": 58,
   "version": "prvi objavljeni tekst",
-  "status": "not yet checked"
+  "status": "amended, not consolidated",
+  "amended_by": [
+   {
+    "ref": "nn:1995/7/102",
+    "title": "Ispravak Zakona o porezu na promet proizvoda i usluga (NN 7/1995)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1995/7/102",
+    "date": "1995-01-30",
+    "how": "amend"
+   },
+   {
+    "ref": "nn:1996/19/333",
+    "title": "Zakon o izmjenama i dopunama Zakona o porezu na promet proizvoda i usluga (NN 19/1996)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1996/19/333",
+    "date": "1996-03-08",
+    "how": "amend"
+   }
+  ]
  },
  {
   "slug": "zakon-o-porodnom-dopustu-majki-koje-obavljaju-samostalnu-djelatnost-i-nezaposlenih-majki",
@@ -26162,6 +28278,13 @@
   "status": "amended, not consolidated",
   "amended_by": [
    {
+    "ref": "nn:1997/109/1662",
+    "title": "Zakon o izmjenama i dopunama Zakona o porodnom dopustu majki koje obavljaju samostalnu djelatnost i nezaposlenih majki (NN 109/1997)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1997/109/1662",
+    "date": "1997-10-20",
+    "how": "amend"
+   },
+   {
     "ref": "nn:2001/82/1402",
     "title": "Zakon o izmjenama i dopunama Zakona o porodnom dopustu majki koje obavljaju samostalnu djelatnost i nezaposlenih majki (NN 82/2001)",
     "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/82/1402",
@@ -26174,6 +28297,22 @@
     "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2004/30/826",
     "date": "2004-03-09",
     "how": "amend"
+   }
+  ],
+  "cited_by": [
+   {
+    "ref": "nn:1998/22/286",
+    "title": "Program posebnog dijela državnog stručnog ispita iz djelokruga zaštite obitelji, materinstva i mladeži (NN 22/1998)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1998/22/286",
+    "date": "1998-02-19",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2017/68/1602",
+    "title": "Odluka Ustavnog suda Republike Hrvatske broj: U-I-65181/2009 od 13. lipnja 2017. (NN 68/2017)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/68/1602",
+    "date": "2017-07-13",
+    "how": "cite"
    }
   ]
  },
@@ -26189,7 +28328,7 @@
   "in_force": "1999-02-25",
   "files": 8,
   "version": "prvi objavljeni tekst",
-  "status": "not yet checked"
+  "status": "in force"
  },
  {
   "slug": "zakon-o-posebnim-uvjetima-za-stavljanje-brasna-na-trziste",
@@ -26303,6 +28442,13 @@
   "status": "amended, not consolidated",
   "amended_by": [
    {
+    "ref": "nn:1997/139/1978",
+    "title": "Zakon o izmjenama i dopunama Zakona o posebnom porezu na bezalkoholna pića (NN 139/1997)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1997/139/1978",
+    "date": "1997-12-23",
+    "how": "amend"
+   },
+   {
     "ref": "nn:2001/107/1764",
     "title": "Zakon o izmjenama i dopunama Zakona o posebnom porezu na bezalkoholna pića (NN 107/2001)",
     "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/107/1764",
@@ -26325,6 +28471,13 @@
   "version": "prvi objavljeni tekst",
   "status": "amended, not consolidated",
   "amended_by": [
+   {
+    "ref": "nn:1995/56/1075",
+    "title": "Odluka o proglašenju Zakona o izmjenama i dopunama Zakona o posebnom porezu na duhanske prerađevine (NN 56/1995)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1995/56/1075",
+    "date": "1995-08-07",
+    "how": "amend"
+   },
    {
     "ref": "nn:1999/67/1254",
     "title": "Zakon o izmjenama i dopunama Zakona o posebnom porezu na duhanske prerađevine (NN 67/1999)",
@@ -26455,6 +28608,13 @@
   "status": "amended, not consolidated",
   "amended_by": [
    {
+    "ref": "nn:1997/54/821",
+    "title": "Zakon o izmjenama i dopunama Zakona o posebnom porezu na naftne derivate (NN 54/1997)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1997/54/821",
+    "date": "1997-05-27",
+    "how": "amend"
+   },
+   {
     "ref": "nn:1999/67/1255",
     "title": "Zakon o izmjenama i dopunama Zakona o posebnom porezu na naftne derivate (NN 67/1999)",
     "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1999/67/1255",
@@ -26505,6 +28665,13 @@
   "version": "prvi objavljeni tekst",
   "status": "amended, not consolidated",
   "amended_by": [
+   {
+    "ref": "nn:1997/139/1979",
+    "title": "Zakon o izmjenama i dopunama Zakona o posebnom porezu na pivo (NN 139/1997)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1997/139/1979",
+    "date": "1997-12-23",
+    "how": "amend"
+   },
    {
     "ref": "nn:2001/107/1763",
     "title": "Zakon o izmjenama i dopunama Zakona o posebnom porezu na pivo (NN 107/2001)",
@@ -26650,7 +28817,39 @@
   "in_force": "1999-03-27",
   "files": 39,
   "version": "prvi objavljeni tekst",
-  "status": "not yet checked"
+  "status": "amended, not consolidated",
+  "amended_by": [
+   {
+    "ref": "nn:2005/140/2639",
+    "title": "Zakon o Hrvatskoj agenciji za nadzor financijskih usluga (NN 140/2005)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/140/2639",
+    "date": "2005-11-28",
+    "how": "amend"
+   }
+  ],
+  "cited_by": [
+   {
+    "ref": "nn:2003/200/3207",
+    "title": "Program posebnog dijela državnoga stručnog ispita s upravnog područja financija (NN 200/2003)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2003/200/3207",
+    "date": "2003-12-23",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2004/37/936",
+    "title": "Nacionalni program Republike Hrvatske za pridruživanje Europskoj uniji - 2004. godina (NN 37/2004)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2004/37/936",
+    "date": "2004-03-23",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2005/151/2920",
+    "title": "Zakon o osiguranju (NN 151/2005)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/151/2920",
+    "date": "2005-12-23",
+    "how": "cite"
+   }
+  ]
  },
  {
   "slug": "zakon-o-posredovanju-u-prometu-nekretnina",
@@ -27175,7 +29374,102 @@
   "in_force": "1997-11-20",
   "files": 34,
   "version": "prvi objavljeni tekst",
-  "status": "not yet checked"
+  "status": "repealed, not consolidated",
+  "amended_by": [
+   {
+    "ref": "nn:2002/84/1391",
+    "title": "Zakon o preuzimanju dioničkih društava (NN 84/2002)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2002/84/1391",
+    "date": "2002-07-17",
+    "how": "repeal"
+   }
+  ],
+  "cited_by": [
+   {
+    "ref": "nn:2001/57/935",
+    "title": "Odluka i rješenje Ustavnog suda Republike Hrvatske broj U-I-607/1998, U-I-362/2000, U-I-479/2000 od 20. lipnja 2001. (NN 57/2001)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/57/935",
+    "date": "2001-06-27",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2002/7/206",
+    "title": "Rješenje Agencije za zaštitu tržišnog natjecanja broj UP/I-030-02/2000-01/155 od 25. travnja 2001. (NN 7/2002)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2002/7/206",
+    "date": "2002-01-23",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2002/120/1950",
+    "title": "Rješenje Agencije za zaštitu tržišnog natjecanja klasa UP/I-030-02/2000-01/62 od 14. studenoga 2000. (NN 120/2002)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2002/120/1950",
+    "date": "2002-10-15",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2007/96/2888",
+    "title": "Rješenje kojim se utvrđuje da je za društvo Konikom d.o.o. iz Osijeka, nastala obveza objavljivanja ponude za preuzimanje trgovačkog društva Slavonijatekstil d.d., Osijek (NN 96/2007)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2007/96/2888",
+    "date": "2007-09-19",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2009/36/795",
+    "title": "Zakon o izmjenama i dopunama Zakona o preuzimanju dioničih društava (NN 36/2009)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2009/36/795",
+    "date": "2009-03-23",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2009/132/3242",
+    "title": "Rješenje kojim se utvrđuje da je za društvo Auctor kapital d.o.o., Zagreb nastala obveza objavljivanja ponude za preuzimanje tog društva (NN 132/2009)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2009/132/3242",
+    "date": "2009-11-04",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2009/144/3532",
+    "title": "Rješenje kojim se nalaže društvu Auctor kapital d.o.o., Zagreb, nalaže objavljivanje obavijesti putem Zagrebačke burze d.d. (NN 144/2009)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2009/144/3532",
+    "date": "2009-12-02",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2009/149/3655",
+    "title": "Rješenje kojim se društvu Istra-Marmi d.o.o. odobrava objavljivanje ponude za preuzimanje dioničkog društva Kamen d.d., Pazin (NN 149/2009)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2009/149/3655",
+    "date": "2009-12-15",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2010/26/627",
+    "title": "Rješenje kojim se odbija prijedlog društva Auctor kapital d.o.o., Zagreb, za odgodom pravnih učinaka Rješenja Hrvatske Agencije za nadzor financijskih usluga (NN 26/2010)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/26/627",
+    "date": "2010-02-26",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2010/111/2929",
+    "title": "Rješenje kojim se utvrđuje da je za Antu Perkovića, Marijana Ruždjaka, Boženka Lozu i Ivana Perkovića, nastala obveza objavljivanja ponude za preuzimanje dioničkog društva Badel 1862 (NN 111/2010)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/111/2929",
+    "date": "2010-09-27",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2013/99/2257",
+    "title": "Odluka Ustavnog suda Republike Hrvatske broj: U-I-2470/2010 i dr. od 9. srpnja 2013. (NN 99/2013)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/99/2257",
+    "date": "2013-07-31",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2013/148/3141",
+    "title": "Zakon o izmjenama i dopunama Zakona o preuzimanju dioničkih društava (NN 148/2013)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/148/3141",
+    "date": "2013-12-11",
+    "how": "cite"
+   }
+  ]
  },
  {
   "slug": "zakon-o-poticanju-ulaganja",
@@ -27372,6 +29666,71 @@
     "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2002/22/510",
     "date": "2002-03-08",
     "how": "amend"
+   },
+   {
+    "ref": "nn:2008/41/1377",
+    "title": "Zakon o izmjenama i dopuni Zakona o pravima iz mirovinskog osiguranja djelatnih vojnih osoba, policijskih službenika i ovlaštenih službenih osoba (NN 41/2008)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2008/41/1377",
+    "date": "2008-04-09",
+    "how": "amend"
+   },
+   {
+    "ref": "nn:2012/118/2552",
+    "title": "Zakon o izmjenama Zakona o pravima iz mirovinskog osiguranja djelatnih vojnih osoba, policijskih službenika i ovlaštenih službenih osoba (NN 118/2012)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2012/118/2552",
+    "date": "2012-10-26",
+    "how": "amend"
+   }
+  ],
+  "cited_by": [
+   {
+    "ref": "nn:2000/129/2382",
+    "title": "Odluka o proglašenju Zakona o policiji (NN 129/2000)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/129/2382",
+    "date": "2000-12-22",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2001/89/1522",
+    "title": "Odluka Ustavnog suda Republike Hrvatske broj U-III-1862/2000 od 10. listopada 2001. (NN 89/2001)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/89/1522",
+    "date": "2001-10-17",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2003/32/425",
+    "title": "Program posebnog dijela državnog stručnog ispita iz upravnog područja izvršavanja kaznenopravnih sankcija i mjera iz nadležnosti Uprave za zatvorski sustav Ministarstva pravosuđa, uprave i lokalne samouprave (NN 32/2003)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2003/32/425",
+    "date": "2003-03-04",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2003/97/1230",
+    "title": "Strategija razvitka Republike Hrvatske \"Hrvatska u 21. stoljeću\" - Strategija razvitka mirovinskog sustava i sustava socijalne skrbi (NN 97/2003)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2003/97/1230",
+    "date": "2003-06-11",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2004/27/779",
+    "title": "Program posebnog dijela državnog stručnog ispita za državne službenike iz upravnog područja obrane Republike Hrvatske (NN 27/2004)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2004/27/779",
+    "date": "2004-03-03",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2012/17/498",
+    "title": "Rješenje Ustavnog suda Republike Hrvatske broj: U-I-2534/2008 i dr. od 31. siječnja 2012. (NN 17/2012)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2012/17/498",
+    "date": "2012-02-10",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2014/30/536",
+    "title": "Rješenje Ustavnog suda Republike Hrvatske broj: U-I-385/2009 i dr. od 18. veljače 2014. (NN 30/2014)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2014/30/536",
+    "date": "2014-03-05",
+    "how": "cite"
    }
   ]
  },
@@ -27387,7 +29746,46 @@
   "in_force": "1996-06-08",
   "files": 30,
   "version": "prvi objavljeni tekst",
-  "status": "not yet checked"
+  "status": "amended, not consolidated",
+  "amended_by": [
+   {
+    "ref": "nn:1996/44/870",
+    "title": "Ispravak Zakona o pravima samostalnih umjetnika i poticanju kulturnog i umjetničkog stvaralaštva (NN 44/1996)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1996/44/870",
+    "date": "1996-06-05",
+    "how": "amend"
+   }
+  ],
+  "cited_by": [
+   {
+    "ref": "nn:2000/127/2355",
+    "title": "Zakon o porezu na dohodak (NN 127/2000)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/127/2355",
+    "date": "2000-12-20",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2000/127/2356",
+    "title": "Zakon o porezu na dobit (NN 127/2000)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/127/2356",
+    "date": "2000-12-20",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2001/57/914",
+    "title": "Program posebnog dijela državnoga stručnog ispita za državne službenike u tijelima državne uprave ustrojenim za područje kulture (NN 57/2001)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/57/914",
+    "date": "2001-06-27",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2004/177/3066",
+    "title": "Zakon o porezu na dohodak (NN 177/2004)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2004/177/3066",
+    "date": "2004-12-15",
+    "how": "cite"
+   }
+  ]
  },
  {
   "slug": "zakon-o-pravima-zrtava-seksualnog-nasilja-za-vrijeme-oruzane-agresije-na-republiku",
@@ -27934,6 +30332,50 @@
     "date": "2026-03-05",
     "how": "amend"
    }
+  ],
+  "cited_by": [
+   {
+    "ref": "nn:2001/105/1734",
+    "title": "Metodologija nacionalne standardne klasifikacije obrazovanja (NN 105/2001)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/105/1734",
+    "date": "2001-11-28",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2005/57/1114",
+    "title": "Program posebnog dijela državnog stručnog ispita iz područja zaštite prava i interesa djece (NN 57/2005)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/57/1114",
+    "date": "2005-05-04",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2005/73/1449",
+    "title": "Program posebnog dijela državnoga stručnog ispita iz područja ravnopravnosti spolova (NN 73/2005)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/73/1449",
+    "date": "2005-06-15",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2006/55/1318",
+    "title": "Izmjena programa zdravstvene zaštite djece, higijene i pravilne prehrane djece u dječjim vrtićima (NN 55/2006)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/55/1318",
+    "date": "2006-05-19",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2007/121/3527",
+    "title": "Izmjene i dopune Programa zdravstvene zaštite djece, higijene i pravilne prehrane djece u dječjim vrtićima (NN 121/2007)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2007/121/3527",
+    "date": "2007-11-26",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2008/63/2128",
+    "title": "Državni pedagoški standard predškolskog odgoja i naobrazbe (NN 63/2008)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2008/63/2128",
+    "date": "2008-06-02",
+    "how": "cite"
+   }
   ]
  },
  {
@@ -28006,7 +30448,7 @@
   "in_force": "1998-08-06",
   "files": 6,
   "version": "prvi objavljeni tekst",
-  "status": "not yet checked"
+  "status": "in force"
  },
  {
   "slug": "zakon-o-presadjivanju-ljudskih-organa-u-svrhu-lijecenja",
@@ -28057,7 +30499,7 @@
   "in_force": "1997-07-15",
   "files": 12,
   "version": "prvi objavljeni tekst",
-  "status": "not yet checked"
+  "status": "in force"
  },
  {
   "slug": "zakon-o-pretvorbi-zagrebackog-velesajma",
@@ -28071,7 +30513,23 @@
   "in_force": "1996-07-18",
   "files": 10,
   "version": "prvi objavljeni tekst",
-  "status": "not yet checked"
+  "status": "cited later, not consolidated",
+  "cited_by": [
+   {
+    "ref": "nn:1998/27/330",
+    "title": "Odluka Ustavnog suda Republike Hrvatske broj U-I-474/1996, U-I-733/1996 od 11. veljače 1998. i Izdvojeno mišljenje (NN 27/1998)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1998/27/330",
+    "date": "1998-02-27",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2004/54/1235",
+    "title": "Rješenje Ustavnog suda Republike Hrvatske broj U-I-367/1998, od 7. travnja 2004. i Izdvojeno mišljenje uz Rješenje broj: U-I-367/1998 od 7. travnja 2004. (NN 54/2004)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2004/54/1235",
+    "date": "2004-04-28",
+    "how": "cite"
+   }
+  ]
  },
  {
   "slug": "zakon-o-preuzimanju-dionickih-drustava",
@@ -28979,6 +31437,15 @@
     "date": "2001-07-27",
     "how": "amend"
    }
+  ],
+  "cited_by": [
+   {
+    "ref": "nn:2009/74/1781",
+    "title": "Rješenje Ustavnog suda Republike Hrvatske broj: U-II-3224/2006 od 19. lipnja 2009. (NN 74/2009)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2009/74/1781",
+    "date": "2009-06-29",
+    "how": "cite"
+   }
   ]
  },
  {
@@ -29001,6 +31468,169 @@
     "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/114/1880",
     "date": "2001-12-20",
     "how": "amend"
+   },
+   {
+    "ref": "nn:2005/140/2639",
+    "title": "Zakon o Hrvatskoj agenciji za nadzor financijskih usluga (NN 140/2005)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/140/2639",
+    "date": "2005-11-28",
+    "how": "amend"
+   }
+  ],
+  "cited_by": [
+   {
+    "ref": "nn:1999/121/1955",
+    "title": "Vjerodostojno tumačenje članka 2., 7. i 8. Zakona o izmjenama i dopunama Zakona o trgovačkim društvima (\"Narodne novine\", broj 34/99) (NN 121/1999)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1999/121/1955",
+    "date": "1999-11-19",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2000/121/2308",
+    "title": "Rješenje o ukidanju privremenog rješenja Komisije za vrijednosne papire Republike Hrvatske klasa: 450-08/99-01/398, urboj567-02/00-34 (NN 121/2000)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/121/2308",
+    "date": "2000-12-06",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2002/17/413",
+    "title": "Rješenje o odobrenju izmjena i dopuna Prospekta i Statuta Slavonskog privatizacijskog investicijskog fonda d.d. Osijek društvu za upravljanje investicijskim fondovima Hypo Alpe-Adria-Invest d.d. iz Za (NN 17/2002)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2002/17/413",
+    "date": "2002-02-22",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2002/17/414",
+    "title": "Rješenje o odobrenju za nastavak djelovanja Središnjeg nacionalnog fonda, privatizacijskog investicijskog fonda d.d. kao zatvorenog fonda (NN 17/2002)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2002/17/414",
+    "date": "2002-02-22",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2002/31/687",
+    "title": "Rješenje o odobrenju za nastavak djelovanja Expandia fondu, privatizacijskom investicijskom fondu, kao zatvorenog investicijskog fonda d.d. iz Zagreba (NN 31/2002)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2002/31/687",
+    "date": "2002-03-27",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2002/31/688",
+    "title": "Rješenje o odobrenju nastavka djelovanja Dom fonda obiteljskog i poslovnog ulaganja, privatizacijskom investicijskom fondu d.d. kao zatvorenog investicijskog fonda d.d. iz Zagreba (NN 31/2002)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2002/31/688",
+    "date": "2002-03-27",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2002/44/907",
+    "title": "Rješenje o odobrenju nastavaka djelovanja Slavonskim privatizacijskom investicijskom fondu d.d. iz Osijeka, kao Slavonski zatvoreni investicijski fond d.d. iz Osijeka (NN 44/2002)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2002/44/907",
+    "date": "2002-04-25",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2002/55/1038",
+    "title": "Rješenje o odobrenju konačnog obračuna troškova upravljanja i povlačenje preostalih sredstava sa računa jamstvenog pologa u iznosu od 763.840,01 kn društvu I. C. F. - Invest d.o.o. za Dom Fond obiteljskog i poslovnog ulaganja d.d., i povlačenje preostalih sredstava sa računa jamstvenog pologa u ukupnom iznosu od 763.840,01 kn (NN 55/2002)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2002/55/1038",
+    "date": "2002-05-16",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2002/55/1039",
+    "title": "Rješenje o odobrenju konačnog obračuna troškova upravljanja investicijskim fondom i povlačenje preostalih sredstava sa računa jamstvenog pologa u iznosu od 606.581,61 kn društvu E-Invest d.o.o. za Središnji Nacionalni fond d.d., i povlačenje preostalih sredstava sa računa jamstvenog pologa u iznosu od 606.581,61 kn (NN 55/2002)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2002/55/1039",
+    "date": "2002-05-16",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2002/55/1049",
+    "title": "Rješenje o odobrenju konačnog obračuna troškova upravljanja privatizacijskim investicijskim fondom Expandia fond d.d. i povlačenje sredstava sa računa jamstvenog pologa u iznosu od 615.132,90 kn društva (NN 55/2002)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2002/55/1049",
+    "date": "2002-05-16",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2002/76/1261",
+    "title": "Rješenje o odobrenju konačnog obračuna troškova upravljanja Slavonskim PIF-om d.d. Osijek i povlačenje preostalih sredstava jamstvenog pologa Hypo Alpe-Adria-Invest d.d. (NN 76/2002)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2002/76/1261",
+    "date": "2002-06-28",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2002/95/1604",
+    "title": "Rješenje o odobrenju nastavka djelovanja društvu Velebit d.d., Zagreb kao Velebit zatvoreni investicijski fond d.d., Zagreb (NN 95/2002)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2002/95/1604",
+    "date": "2002-08-13",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2002/117/1885",
+    "title": "Rješenje o odobrenju konačnog obračuna troškova PIF-u Velebit d.d. i povlačenje preostalih sredstava sa računa jamstvenog pologa Dalbank Invest d.o.o., Zagreb (NN 117/2002)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2002/117/1885",
+    "date": "2002-10-04",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2003/57/702",
+    "title": "Rješenje o odobrenju nastavka djelovanja Suncu privatizacijskom investicijskom fondu d.d., iz Zagreba kao Sunce zatvoreni investicijski fond d.d. (NN 57/2003)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2003/57/702",
+    "date": "2003-04-07",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2003/65/779",
+    "title": "Rješenje o odobrenju Fima-Investu d.o.o. iz Zagreba nastavak djelovanja PIF-a Pleter d.d. iz Varaždina kao zatvoreni investicijski fond (NN 65/2003)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2003/65/779",
+    "date": "2003-04-17",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2003/75/921",
+    "title": "Rješenje o odobrenju konačnog obračuna troškova upravljanja Sunce PIF-om i povlačenje preostalih sredstava sa računa jamstvenog pologa u iznosu od 53,50 kn Sunce Investu d.o.o. iz Zagreba (NN 75/2003)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2003/75/921",
+    "date": "2003-05-08",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2004/37/936",
+    "title": "Nacionalni program Republike Hrvatske za pridruživanje Europskoj uniji - 2004. godina (NN 37/2004)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2004/37/936",
+    "date": "2004-03-23",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2005/150/2897",
+    "title": "Zakon o investicijskim fondovima (NN 150/2005)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/150/2897",
+    "date": "2005-12-21",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2010/25/601",
+    "title": "Rješenje Ustavnog suda Republike Hrvatske broj: U-I-3522/2005 od 2. veljače 2010. (NN 25/2010)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/25/601",
+    "date": "2010-02-24",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2011/119/2355",
+    "title": "Rješenje Ustavnog suda Republike Hrvatske broj: U-I-84/2006 i dr. od 4. listopada 2011. (NN 119/2011)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/119/2355",
+    "date": "2011-10-21",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2011/152/3144",
+    "title": "Zakon o trgovačkim društvima (pročišćeni tekst) (NN 152/2011)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/152/3144",
+    "date": "2011-12-27",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2019/18/400",
+    "title": "Rješenje Ustavnog suda Republike Hrvatske broj: U-III-4596/2017 od 18. prosinca 2018. (NN 18/2019)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2019/18/400",
+    "date": "2019-02-22",
+    "how": "cite"
    }
   ]
  },
@@ -29101,7 +31731,7 @@
   "in_force": "1996-10-05",
   "files": 5,
   "version": "prvi objavljeni tekst",
-  "status": "not yet checked"
+  "status": "in force"
  },
  {
   "slug": "zakon-o-privremenom-uzdrzavanju",
@@ -29180,7 +31810,23 @@
   "in_force": "1996-07-20",
   "files": 23,
   "version": "prvi objavljeni tekst",
-  "status": "not yet checked"
+  "status": "cited later, not consolidated",
+  "cited_by": [
+   {
+    "ref": "nn:2002/49/968",
+    "title": "Program posebnog dijela državnog stručnog ispita za službenike Ministarstva znanosti i tehnologije (NN 49/2002)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2002/49/968",
+    "date": "2002-05-03",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2023/15/286",
+    "title": "Odluka i Rješenje Ustavnog suda Republike Hrvatske broj: U-III-5703/2020 od 19. siječnja 2023. (NN 15/2023)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2023/15/286",
+    "date": "2023-02-10",
+    "how": "cite"
+   }
+  ]
  },
  {
   "slug": "zakon-o-probaciji",
@@ -29657,7 +32303,7 @@
   "in_force": "1999-06-17",
   "files": 5,
   "version": "prvi objavljeni tekst",
-  "status": "not yet checked"
+  "status": "in force"
  },
  {
   "slug": "zakon-o-proglasenju-parka-prirode-dinara",
@@ -29699,7 +32345,7 @@
   "in_force": "1999-05-19",
   "files": 5,
   "version": "prvi objavljeni tekst",
-  "status": "not yet checked"
+  "status": "in force"
  },
  {
   "slug": "zakon-o-proglasenju-parka-prirode-ucka",
@@ -29736,7 +32382,7 @@
   "in_force": "1999-07-29",
   "files": 5,
   "version": "prvi objavljeni tekst",
-  "status": "not yet checked"
+  "status": "in force"
  },
  {
   "slug": "zakon-o-proglasenju-parka-prirode-zagorske-gore",
@@ -29778,7 +32424,7 @@
   "in_force": "1999-06-17",
   "files": 5,
   "version": "prvi objavljeni tekst",
-  "status": "not yet checked"
+  "status": "in force"
  },
  {
   "slug": "zakon-o-proizvodnji-distribuciji-i-opskrbi-toplinskom-energijom",
@@ -31549,11 +34195,188 @@
   "status": "amended, not consolidated",
   "amended_by": [
    {
+    "ref": "nn:1998/5/67",
+    "title": "Ispravak Zakona o pučkim otvorenim učilištima (NN 5/1998)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1998/5/67",
+    "date": "1998-01-16",
+    "how": "amend"
+   },
+   {
     "ref": "nn:2010/139/3543",
     "title": "Zakon o izmjenama Zakona o pučkim otvorenim učilištima (NN 139/2010)",
     "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/139/3543",
     "date": "2010-12-10",
     "how": "amend"
+   }
+  ],
+  "cited_by": [
+   {
+    "ref": "nn:1999/109/1786",
+    "title": "Odluka Ustavnog suda Republike Hrvatske broj U-I-1253/1997 i U-I-441/1998 od 29. rujna 1999. (NN 109/1999)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1999/109/1786",
+    "date": "1999-10-22",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2000/103/2029",
+    "title": "Rješenje o razrješenju članova Upravnog vijeća Pučkog otvorenog učilišta (NN 103/2000)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/103/2029",
+    "date": "2000-10-19",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2000/103/2030",
+    "title": "Rješenje o imenovanju članova Upravnog vijeća Pučkog otvorenog učilišta (NN 103/2000)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/103/2030",
+    "date": "2000-10-19",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2004/167/2936",
+    "title": "Rješenje o razrješenju članova Upravnog vijeća Pučkog otvorenog učilišta u Zagrebu (NN 167/2004)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2004/167/2936",
+    "date": "2004-11-30",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2004/167/2937",
+    "title": "Rješenje o imenovanju članova Upravnog vijeća Pučkog otvorenog učilišta u Zagrebu (NN 167/2004)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2004/167/2937",
+    "date": "2004-11-30",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2005/70/1391",
+    "title": "Rješenje o razrješenju člana Upravnog vijeća Pučkoga otvorenog učilišta u Zagrebu (NN 70/2005)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/70/1391",
+    "date": "2005-06-08",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2005/70/1392",
+    "title": "Rješenje o imenovanju člana Upravnog vijeća Pučkoga otvorenog učilišta u Zagrebu (NN 70/2005)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/70/1392",
+    "date": "2005-06-08",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2008/13/384",
+    "title": "Rješenje o razrješenju dijela članova Upravnog vijeća Pučkog otvorenog učilišta u Zagrebu (NN 13/2008)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2008/13/384",
+    "date": "2008-02-01",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2008/13/385",
+    "title": "Rješenje o imenovanju dijela članova Upravnog vijeća Pučkog otvorenog učilišta u Zagrebu (NN 13/2008)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2008/13/385",
+    "date": "2008-02-01",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2009/53/1229",
+    "title": "Rješenje o razrješenju dijela članova Upravnog vijeća Pučkog otvorenog učilišta u Zagrebu (NN 53/2009)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2009/53/1229",
+    "date": "2009-05-04",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2009/53/1230",
+    "title": "Rješenje o imenovanju dijela članova Upravnog vijeća Pučkog otvorenog učilišta u Zagrebu (NN 53/2009)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2009/53/1230",
+    "date": "2009-05-04",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2009/138/3358",
+    "title": "Rješenje o razrješenju člana Upravnog vijeća Pučkog otvorenog učilišta u Zagrebu (NN 138/2009)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2009/138/3358",
+    "date": "2009-11-18",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2009/138/3359",
+    "title": "Rješenje o imenovanju člana Upravnog vijeća Pučkog otvorenog učilišta u Zagrebu (NN 138/2009)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2009/138/3359",
+    "date": "2009-11-18",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2009/140/3413",
+    "title": "Rješenje o razrješenju člana Upravnog vijeća Pučkog otvorenog učilišta u Zagrebu (NN 140/2009)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2009/140/3413",
+    "date": "2009-11-25",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2009/140/3414",
+    "title": "Rješenje o imenovanju člana Upravnog vijeća Pučkog otvorenog učilišta u Zagrebu (NN 140/2009)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2009/140/3414",
+    "date": "2009-11-25",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2010/97/2717",
+    "title": "Rješenje o razrješenju dijela članova Upravnog vijeća Pučkog otvorenog učilišta u Zagrebu (NN 97/2010)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/97/2717",
+    "date": "2010-08-11",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2010/97/2718",
+    "title": "Rješenje o imenovanju dijela članova Upravnog vijeća Pučkog otvorenog učilišta u Zagrebu (NN 97/2010)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/97/2718",
+    "date": "2010-08-11",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2010/126/3267",
+    "title": "Rješenje o imenovanju člana Upravnog vijeća Pučkog otvorenog učilišta u Zagrebu (NN 126/2010)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/126/3267",
+    "date": "2010-11-12",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2022/42/518",
+    "title": "Godišnji provedbeni plan statističkih aktivnosti Republike Hrvatske 2021. (NN 42/2022)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2022/42/518",
+    "date": "2022-04-05",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2022/42/519",
+    "title": "Godišnji provedbeni plan statističkih aktivnosti Republike Hrvatske 2022. (NN 42/2022)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2022/42/519",
+    "date": "2022-04-05",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2023/35/603",
+    "title": "Godišnji provedbeni plan statističkih aktivnosti Republike Hrvatske 2023. (NN 35/2023)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2023/35/603",
+    "date": "2023-03-28",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2025/29/293",
+    "title": "Godišnji provedbeni plan statističkih aktivnosti Republike Hrvatske 2024. (NN 29/2025)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2025/29/293",
+    "date": "2025-02-20",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2025/29/294",
+    "title": "Godišnji provedbeni plan statističkih aktivnosti Republike Hrvatske 2025. (NN 29/2025)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2025/29/294",
+    "date": "2025-02-20",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2025/145/2165",
+    "title": "Godišnji provedbeni plan statističkih aktivnosti Republike Hrvatske 2026. (NN 145/2025)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2025/145/2165",
+    "date": "2025-12-02",
+    "how": "cite"
    }
   ]
  },
@@ -31626,6 +34449,15 @@
     "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2023/10/204",
     "date": "2023-01-27",
     "how": "amend"
+   }
+  ],
+  "cited_by": [
+   {
+    "ref": "nn:2002/33/709",
+    "title": "Zakon o obrani (NN 33/2002)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2002/33/709",
+    "date": "2002-03-29",
+    "how": "cite"
    }
   ]
  },
@@ -32117,7 +34949,16 @@
   "in_force": "1998-08-05",
   "files": 11,
   "version": "prvi objavljeni tekst",
-  "status": "not yet checked"
+  "status": "cited later, not consolidated",
+  "cited_by": [
+   {
+    "ref": "nn:1999/65/1195",
+    "title": "Zakon o privatizaciji Hrvatskih telekomunikacija d.d. (NN 65/1999)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1999/65/1195",
+    "date": "1999-06-25",
+    "how": "cite"
+   }
+  ]
  },
  {
   "slug": "zakon-o-razminiranju",
@@ -32131,14 +34972,28 @@
   "in_force": "1996-03-08",
   "files": 33,
   "version": "prvi objavljeni tekst",
-  "status": "amended, not consolidated",
+  "status": "repealed, not consolidated",
   "amended_by": [
+   {
+    "ref": "nn:1998/86/1164",
+    "title": "Zakon o izmjenama i dopunama Zakona o razminiranju (NN 86/1998)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1998/86/1164",
+    "date": "1998-06-19",
+    "how": "amend"
+   },
    {
     "ref": "nn:2000/64/1408",
     "title": "Zakon o izmjenama i dopunama Zakona o razminiranju (NN 64/2000)",
     "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/64/1408",
     "date": "2000-07-05",
     "how": "amend"
+   },
+   {
+    "ref": "nn:2005/153/2964",
+    "title": "Zakon o humanitarnom razminiranju (NN 153/2005)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/153/2964",
+    "date": "2005-12-28",
+    "how": "repeal"
    }
   ]
  },
@@ -32185,11 +35040,48 @@
   "status": "amended, not consolidated",
   "amended_by": [
    {
+    "ref": "nn:2009/38/839",
+    "title": "Zakon o izmjenama i dopunama Zakona o referendumu i drugim oblicima osobnog sudjelovanja u obavljanju državne vlasti i lokalne i područne (regionalne) samouprave (NN 38/2009)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2009/38/839",
+    "date": "2009-03-27",
+    "how": "amend"
+   },
+   {
     "ref": "nn:2017/73/1766",
     "title": "Zakon o izmjeni i dopuni Zakona o referendumu i drugim oblicima osobnog sudjelovanja u obavljanju državne vlasti i lokalne i područne (regionalne) samouprave (NN 73/2017)",
     "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/73/1766",
     "date": "2017-07-26",
     "how": "amend"
+   }
+  ],
+  "cited_by": [
+   {
+    "ref": "nn:2006/44/1081",
+    "title": "Zakon o Državnom izbornom povjerenstvu Republike Hrvatske (NN 44/2006)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/44/1081",
+    "date": "2006-04-21",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2007/69/2163",
+    "title": "Odluka Ustavnog suda Republike Hrvatske broj:U-I-2051/2005 od 5. lipnja 2007. (NN 69/2007)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2007/69/2163",
+    "date": "2007-07-04",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2011/120/2357",
+    "title": "Zakon o izborima zastupnika u Hrvatski sabor (pročišćeni tekst) (NN 120/2011)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/120/2357",
+    "date": "2011-10-26",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2015/66/1259",
+    "title": "Zakon o izborima zastupnika u Hrvatski sabor (pročišćeni tekst) (NN 66/2015)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2015/66/1259",
+    "date": "2015-06-15",
+    "how": "cite"
    }
   ]
  },
@@ -33015,14 +35907,35 @@
   "in_force": "1999-03-27",
   "files": 43,
   "version": "prvi objavljeni tekst",
-  "status": "amended, not consolidated",
-  "amended_by": [
+  "status": "cited later, not consolidated",
+  "cited_by": [
    {
-    "ref": "nn:2010/88/2468",
-    "title": "Zakon o izmjenama i dopunama Zakona o sanitarnoj inspekciji (NN 88/2010)",
-    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/88/2468",
-    "date": "2010-07-14",
-    "how": "amend"
+    "ref": "nn:2002/140/2292",
+    "title": "Odluka Ustavnog suda Republike Hrvatske broj U-II-14/2000 od 20. studenoga 2002. (NN 140/2002)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2002/140/2292",
+    "date": "2002-11-28",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2004/100/1898",
+    "title": "Zakon o izmjenama i dopunama Zakona o gradnji (NN 100/2004)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2004/100/1898",
+    "date": "2004-07-20",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2007/46/1554",
+    "title": "Zakon o hrani (NN 46/2007)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2007/46/1554",
+    "date": "2007-05-07",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2007/122/3551",
+    "title": "Odluka i Rješenje Ustavnog suda Republike Hrvatske broj: U-II-3570/2005 od 30. listopada 2007. (NN 122/2007)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2007/122/3551",
+    "date": "2007-11-28",
+    "how": "cite"
    }
   ]
  },
@@ -33801,7 +36714,16 @@
   "in_force": "1996-04-20",
   "files": 45,
   "version": "prvi objavljeni tekst",
-  "status": "not yet checked"
+  "status": "cited later, not consolidated",
+  "cited_by": [
+   {
+    "ref": "nn:2011/42/1018",
+    "title": "Rješenje Ustavnog suda Republike Hrvatske, broj: U-I-2057/2009, U-I-6446/2010 od 30. ožujka 2011. (NN 42/2011)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/42/1018",
+    "date": "2011-04-13",
+    "how": "cite"
+   }
+  ]
  },
  {
   "slug": "zakon-o-slatkovodnom-ribarstvu",
@@ -34521,25 +37443,55 @@
   "status": "amended, not consolidated",
   "amended_by": [
    {
-    "ref": "nn:2010/124/3209",
-    "title": "Zakon o izmjenama i dopunama Zakona o športu (NN 124/2010)",
-    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/124/3209",
-    "date": "2010-11-08",
+    "ref": "nn:1998/13/203",
+    "title": "Ispravak Zakona o športu (NN 13/1998)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1998/13/203",
+    "date": "1998-01-31",
     "how": "amend"
+   }
+  ],
+  "cited_by": [
+   {
+    "ref": "nn:2000/127/2355",
+    "title": "Zakon o porezu na dohodak (NN 127/2000)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/127/2355",
+    "date": "2000-12-20",
+    "how": "cite"
    },
    {
-    "ref": "nn:2011/124/2482",
-    "title": "Zakon o izmjenama i dopunama Zakona o športu (NN 124/2011)",
-    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/124/2482",
-    "date": "2011-11-04",
-    "how": "amend"
+    "ref": "nn:2000/127/2356",
+    "title": "Zakon o porezu na dobit (NN 127/2000)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/127/2356",
+    "date": "2000-12-20",
+    "how": "cite"
    },
    {
-    "ref": "nn:2012/86/1965",
-    "title": "Zakon o izmjenama i dopunama Zakona o športu (NN 86/2012)",
-    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2012/86/1965",
-    "date": "2012-07-27",
-    "how": "amend"
+    "ref": "nn:2004/100/1898",
+    "title": "Zakon o izmjenama i dopunama Zakona o gradnji (NN 100/2004)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2004/100/1898",
+    "date": "2004-07-20",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2004/177/3066",
+    "title": "Zakon o porezu na dohodak (NN 177/2004)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2004/177/3066",
+    "date": "2004-12-15",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2009/135/3291",
+    "title": "Rješenje Agencije za zaštitu tržišnog natjecanja od 30. lipnja 2009., klasa: UP/I 430-01//2009-00/01 (NN 135/2009)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2009/135/3291",
+    "date": "2009-11-11",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2017/89/2106",
+    "title": "Rješenje Ustavnog suda Republike Hrvatske broj: U-II-4067/2007 od 11. srpnja 2017. (NN 89/2017)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/89/2106",
+    "date": "2017-09-06",
+    "how": "cite"
    }
   ]
  },
@@ -34643,8 +37595,15 @@
   "in_force": "1997-11-01",
   "files": 25,
   "version": "prvi objavljeni tekst",
-  "status": "amended, not consolidated",
+  "status": "repealed, not consolidated",
   "amended_by": [
+   {
+    "ref": "nn:1997/106/1647",
+    "title": "Ispravak Zakona o sprječavanju pranja novca (NN 106/1997)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1997/106/1647",
+    "date": "1997-10-10",
+    "how": "amend"
+   },
    {
     "ref": "nn:2001/67/1102",
     "title": "Zakon o izmjenama Zakona o sprječavanju pranja novca (NN 67/2001)",
@@ -34665,6 +37624,29 @@
     "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2003/117/1642",
     "date": "2003-07-23",
     "how": "amend"
+   },
+   {
+    "ref": "nn:2003/142/2090",
+    "title": "Ispravak Zakona o izmjenama i dopunama Zakona o sprječavanju pranja novca (NN 142/2003)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2003/142/2090",
+    "date": "2003-09-10",
+    "how": "amend"
+   },
+   {
+    "ref": "nn:2008/87/2792",
+    "title": "ZAKON O SPRJEČAVANJU PRANJA NOVCA I FINANCIRANJA TERORIZMA (NN 87/2008)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2008/87/2792",
+    "date": "2008-07-25",
+    "how": "repeal"
+   }
+  ],
+  "cited_by": [
+   {
+    "ref": "nn:2003/200/3207",
+    "title": "Program posebnog dijela državnoga stručnog ispita s upravnog područja financija (NN 200/2003)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2003/200/3207",
+    "date": "2003-12-23",
+    "how": "cite"
    }
   ]
  },
@@ -35030,7 +38012,7 @@
   "in_force": "1998-07-04",
   "files": 5,
   "version": "prvi objavljeni tekst",
-  "status": "not yet checked"
+  "status": "in force"
  },
  {
   "slug": "zakon-o-stambenoj-stednji-i-drzavnom-poticanju-stambene-stednje",
@@ -35046,6 +38028,13 @@
   "version": "prvi objavljeni tekst",
   "status": "amended, not consolidated",
   "amended_by": [
+   {
+    "ref": "nn:1997/117/1748",
+    "title": "Ispravak Zakona o stambenoj štednji i državnom poticanju stambene štednje (NN 117/1997)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1997/117/1748",
+    "date": "1997-11-04",
+    "how": "amend"
+   },
    {
     "ref": "nn:1999/76/1362",
     "title": "Zakon o izmjenama i dopunama Zakona o stambenoj štednji i državnom poticanju stambene štednje (NN 76/1999)",
@@ -35094,6 +38083,36 @@
     "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2015/110/2125",
     "date": "2015-10-13",
     "how": "amend"
+   }
+  ],
+  "cited_by": [
+   {
+    "ref": "nn:2003/200/3207",
+    "title": "Program posebnog dijela državnoga stručnog ispita s upravnog područja financija (NN 200/2003)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2003/200/3207",
+    "date": "2003-12-23",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2004/37/936",
+    "title": "Nacionalni program Republike Hrvatske za pridruživanje Europskoj uniji - 2004. godina (NN 37/2004)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2004/37/936",
+    "date": "2004-03-23",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2004/74/1521",
+    "title": "Rješenje kojim se utvrđuje ništavom odredba točke 22. u tipskim ugovorima o suradnji u poslovima stambene štednje sklopljenima između Wüstenrot stambene štedionice d.d. i nekoliko banaka (NN 74/2004)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2004/74/1521",
+    "date": "2004-06-04",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2017/59/1325",
+    "title": "Odluka Ustavnog suda Republike Hrvatske broj: U-IV-2543/2012 od 25. svibnja 2017. (NN 59/2017)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/59/1325",
+    "date": "2017-06-21",
+    "how": "cite"
    }
   ]
  },
@@ -35359,6 +38378,20 @@
   "status": "amended, not consolidated",
   "amended_by": [
    {
+    "ref": "nn:1998/36/453",
+    "title": "Zakon o izmjeni i dopuni Zakona o stočarstvu (NN 36/1998)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1998/36/453",
+    "date": "1998-03-17",
+    "how": "amend"
+   },
+   {
+    "ref": "nn:1999/76/1360",
+    "title": "Zakon o Državnom inspektoratu (NN 76/1999)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1999/76/1360",
+    "date": "1999-07-19",
+    "how": "amend"
+   },
+   {
     "ref": "nn:2003/151/2183",
     "title": "Zakon o izmjenama i dopunama Zakona o stočarstvu (NN 151/2003)",
     "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2003/151/2183",
@@ -35378,6 +38411,288 @@
     "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2014/14/282",
     "date": "2014-02-05",
     "how": "amend"
+   }
+  ],
+  "cited_by": [
+   {
+    "ref": "nn:1998/127/1587",
+    "title": "Popis izvornih i zaštićenih pasmina i sojeva domaćih životinja te njihov potrebit broj (NN 127/1998)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1998/127/1587",
+    "date": "1998-09-29",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:1998/157/1935",
+    "title": "Program posebnog dijela državnog stručnog ispita za zvanja tržišnog, turističkog i turističkog inspektora III. vrste zvanja, šumarskog, lovnog, vinarskog, stočarskog, ribarskog, rudarskog i elektroene (NN 157/1998)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1998/157/1935",
+    "date": "1998-12-09",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:1999/44/869",
+    "title": "Objava o upisu u popis ovlaštenih laboratorija i referentnih laboratorija (NN 44/1999)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1999/44/869",
+    "date": "1999-05-07",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:1999/68/1269",
+    "title": "Objava o upisu u Popis ovlaštenih laboratorija i referentnih laboratorija (NN 68/1999)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1999/68/1269",
+    "date": "1999-07-02",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:1999/117/1879",
+    "title": "Program posebnog dijela državnog stručnog ispita za zvanja gospodarskog inspektora, gospodarskog inspektora treće vrste zvanja, rudarskog i elektroenergetskog inspektora te inspektora rada i posuda po (NN 117/1999)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1999/117/1879",
+    "date": "1999-11-09",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2000/89/1822",
+    "title": "Objava o upisu u Popis ovlaštenih laboratorija za ispitivanje kakvoće meda i drugih pčelinjih proizvoda (NN 89/2000)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/89/1822",
+    "date": "2000-09-13",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2001/78/1332",
+    "title": "Popis ovlaštenih laboratorija za ispitivanje kakvoće meda i drugih pčelinjih proizvoda (NN 78/2001)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/78/1332",
+    "date": "2001-09-12",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2002/15/371",
+    "title": "Objava o upisu u Popis ovlaštenih laboratorija za ispitivanje kakvoće meda i drugih pčelinjih proizvoda (NN 15/2002)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2002/15/371",
+    "date": "2002-02-15",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2002/34/738",
+    "title": "Objava naziva referentnog laboratorija za provjeru rada ovlaštenih laboratorija za ispitivanje kakvoće svježeg sirovog mlijeka (NN 34/2002)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2002/34/738",
+    "date": "2002-04-03",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2002/81/1338",
+    "title": "Program posebnog dijela državnog stručnog ispita za zvanja gospodarskog inspektora, gospodarskog inspektora treće vrste zvanja, inspektora rada, elektroenergetskog inspektora, rudarskog inspektora i inspektora posuda pod tlakom (NN 81/2002)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2002/81/1338",
+    "date": "2002-07-09",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2002/109/1763",
+    "title": "Objava o upisu u Popis ovlaštenih laboratorija (NN 109/2002)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2002/109/1763",
+    "date": "2002-09-18",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2003/73/877",
+    "title": "Dopuna popisa izvornih i zaštićenih pasmina i sojeva domaćih životinja te njihov potrebni broj (NN 73/2003)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2003/73/877",
+    "date": "2003-05-06",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2003/111/1519",
+    "title": "Program posebnog dijela državnog stručnog ispita za zvanje gospodarskog inspektora, gospodarskog inspektora treće vrste zvanja, inspektora rada, elektroenergetskog inspektora, rudarskog inspektora i i (NN 111/2003)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2003/111/1519",
+    "date": "2003-07-15",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2003/200/3207",
+    "title": "Program posebnog dijela državnoga stručnog ispita s upravnog područja financija (NN 200/2003)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2003/200/3207",
+    "date": "2003-12-23",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2004/157/2745",
+    "title": "Objava Popisa ovlaštenih osoba za obavljanje postupka klasiranja goveđih trupova i polovica na liniji klanja (NN 157/2004)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2004/157/2745",
+    "date": "2004-11-12",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2005/41/799",
+    "title": "Objava o upisu u Popis ovlaštenih laboratorija za ispitivanje kakvoće meda i drugih pčelinjih proizvoda (NN 41/2005)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/41/799",
+    "date": "2005-03-30",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2005/65/1252",
+    "title": "Objava o upisu u popis pravnih osoba kojima je izdano odobrenje za proizvodnju genetskog materijala (NN 65/2005)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/65/1252",
+    "date": "2005-05-25",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2005/155/3003",
+    "title": "Objava upisa u Popis ovlaštenih pravnih osoba za obavljanje postupka razvrstavanja i klasiranja goveđih trupova i polovica na liniji klanja (NN 155/2005)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/155/3003",
+    "date": "2005-12-30",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2005/155/3004",
+    "title": "Objava upisa u Popis ovlaštenih laboratorija za ispitivanje kakvoće stočne hrane (NN 155/2005)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/155/3004",
+    "date": "2005-12-30",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2006/16/423",
+    "title": "Objava naziva ovlaštene pravne osobe za obavljanje postupka klasiranja svinjskih trupova i polovica na liniji klanja (NN 16/2006)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/16/423",
+    "date": "2006-02-13",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2006/16/424",
+    "title": "Objava upisa u popis ovlaštenih pravnih osoba za obavljanje postupka razvrstavanja i klasiranja goveđih trupova i polovica na liniji klanja (NN 16/2006)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/16/424",
+    "date": "2006-02-13",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2006/39/960",
+    "title": "Popis pasmina, sojeva i hibrida domaćih životinja (NN 39/2006)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/39/960",
+    "date": "2006-04-10",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2006/39/961",
+    "title": "Izmjena i dopuna Popisa izvornih i zaštićenih pasmina i sojeva domaćih životinja, te njihov potrebni broj (NN 39/2006)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/39/961",
+    "date": "2006-04-10",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2007/46/1554",
+    "title": "Zakon o hrani (NN 46/2007)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2007/46/1554",
+    "date": "2007-05-07",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2007/126/3603",
+    "title": "Dopuna Popisa izvornih i zaštićenih pasmina i sojeva domaćih životinja te njihov potrebni broj (NN 126/2007)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2007/126/3603",
+    "date": "2007-12-10",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2007/126/3604",
+    "title": "Objava o upisu u Popis pravnih osoba kojima je izdano odobrenje za proizvodnju genetskog materijala (NN 126/2007)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2007/126/3604",
+    "date": "2007-12-10",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2009/70/1727",
+    "title": "Izmjena popisa izvornih i zaštićenih pasmina i sojeva domaćih životinja, te njihov potrebni broj (NN 70/2009)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2009/70/1727",
+    "date": "2009-06-19",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2009/152/3712",
+    "title": "Program postupnog smanjivanja emisija za određene onečišćene tvari u Republici Hrvatskoj za razdoblje do kraja 2010. godine, s projekcijama emisija za razdoblje od 2010. do 2020. godine (NN 152/2009)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2009/152/3712",
+    "date": "2009-12-18",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2011/18/321",
+    "title": "Popis pasmina, sojeva i hibrida domaćih životinja (NN 18/2011)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/18/321",
+    "date": "2011-02-09",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2011/22/453",
+    "title": "Zakon o izmjenama i dopunama Zakona o uređenju tržišta poljoprivrednih proizvoda (NN 22/2011)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/22/453",
+    "date": "2011-02-18",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2013/80/1688",
+    "title": "Dopuna popisa izvornih i zaštićenih pasmina i sojeva domaćih životinja te njihov potrebit broj (NN 80/2013)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/80/1688",
+    "date": "2013-06-28",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2015/30/612",
+    "title": "Zakon o poljoprivredi (NN 30/2015)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2015/30/612",
+    "date": "2015-03-17",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2015/119/2259",
+    "title": "Izmjene i dopune Popisa pasmina, sojeva i hibrida domaćih životinja (NN 119/2015)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2015/119/2259",
+    "date": "2015-10-30",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2017/90/2125",
+    "title": "Odluka Ustavnog suda Republike Hrvatske broj: U-II-687/2011 od 11. srpnja 2017. (NN 90/2017)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/90/2125",
+    "date": "2017-09-08",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2018/15/310",
+    "title": "Zakon o sprječavanju unošenja i širenja stranih te invazivnih stranih vrsta i upravljanju njima (NN 15/2018)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2018/15/310",
+    "date": "2018-02-14",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2018/101/1980",
+    "title": "Dopuna Popisa izvornih i zaštićenih pasmina i sojeva domaćih životinja te njihov potreban broj (NN 101/2018)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2018/101/1980",
+    "date": "2018-11-16",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2018/115/2241",
+    "title": "Zakon o uzgoju domaćih životinja (NN 115/2018)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2018/115/2241",
+    "date": "2018-12-20",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2018/115/2243",
+    "title": "Zakon o državnom inspektoratu (NN 115/2018)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2018/115/2243",
+    "date": "2018-12-20",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2018/118/2343",
+    "title": "Zakon o poljoprivredi (NN 118/2018)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2018/118/2343",
+    "date": "2018-12-27",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2021/52/1051",
+    "title": "Zakon o izmjenama i dopuni Zakona o uzgoju domaćih životinja (NN 52/2021)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2021/52/1051",
+    "date": "2021-05-14",
+    "how": "cite"
    }
   ]
  },
@@ -35541,7 +38856,39 @@
   "in_force": "1999-12-08",
   "files": 18,
   "version": "prvi objavljeni tekst",
-  "status": "not yet checked"
+  "status": "repealed, not consolidated",
+  "amended_by": [
+   {
+    "ref": "nn:2007/107/3126",
+    "title": "Zakon o akademskim i stručnim nazivima i akademskom stupnju (NN 107/2007)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2007/107/3126",
+    "date": "2007-10-19",
+    "how": "repeal,replace"
+   }
+  ],
+  "cited_by": [
+   {
+    "ref": "nn:2000/35/838",
+    "title": "Odluka Ustavnog suda Republike Hrvatske broj: U-I-1129/1999, U-I-1190/1999 od 22. ožujka 2000. i Izdvojeno mišljenje (NN 35/2000)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/35/838",
+    "date": "2000-03-31",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2002/49/968",
+    "title": "Program posebnog dijela državnog stručnog ispita za službenike Ministarstva znanosti i tehnologije (NN 49/2002)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2002/49/968",
+    "date": "2002-05-03",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2003/120/1702",
+    "title": "Odluka Ustavnog suda Republike Hrvatske broj U-I-534/2002 od 9. srpnja 2003. (NN 120/2003)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2003/120/1702",
+    "date": "2003-07-26",
+    "how": "cite"
+   }
+  ]
  },
  {
   "slug": "zakon-o-strucno-pedagoskom-nadzoru",
@@ -35555,7 +38902,7 @@
   "in_force": "1997-07-22",
   "files": 16,
   "version": "prvi objavljeni tekst",
-  "status": "not yet checked"
+  "status": "in force"
  },
  {
   "slug": "zakon-o-strukovnom-obrazovanju",
@@ -35687,7 +39034,16 @@
   "in_force": "1997-12-31",
   "files": 49,
   "version": "prvi objavljeni tekst",
-  "status": "not yet checked"
+  "status": "repealed, not consolidated",
+  "amended_by": [
+   {
+    "ref": "nn:2007/71/2182",
+    "title": "Zakon o studentskom zboru i drugim studentskim organizacijama (NN 71/2007)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2007/71/2182",
+    "date": "2007-07-09",
+    "how": "repeal"
+   }
+  ]
  },
  {
   "slug": "zakon-o-studentskom-zboru-i-drugim-studentskim-organizacijama",
@@ -39220,6 +42576,13 @@
   "status": "amended, not consolidated",
   "amended_by": [
    {
+    "ref": "nn:1996/57/1163",
+    "title": "Zakon o izmjenama i dopunama Zakona o sudskom registru (NN 57/1996)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1996/57/1163",
+    "date": "1996-07-12",
+    "how": "amend"
+   },
+   {
     "ref": "nn:1999/45/874",
     "title": "Zakon o izmjenama i dopunama Zakona o sudskom registru (NN 45/1999)",
     "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1999/45/874",
@@ -39295,6 +42658,169 @@
     "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2023/123/1697",
     "date": "2023-10-23",
     "how": "amend"
+   }
+  ],
+  "cited_by": [
+   {
+    "ref": "nn:1998/48/607",
+    "title": "Rješenje Ustavnog suda Republike Hrvatske broj: U-I-472/1996, U-I-26/1998 od 25. ožujka 1998. (NN 48/1998)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1998/48/607",
+    "date": "1998-04-06",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:1998/157/1935",
+    "title": "Program posebnog dijela državnog stručnog ispita za zvanja tržišnog, turističkog i turističkog inspektora III. vrste zvanja, šumarskog, lovnog, vinarskog, stočarskog, ribarskog, rudarskog i elektroene (NN 157/1998)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1998/157/1935",
+    "date": "1998-12-09",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:1999/117/1879",
+    "title": "Program posebnog dijela državnog stručnog ispita za zvanja gospodarskog inspektora, gospodarskog inspektora treće vrste zvanja, rudarskog i elektroenergetskog inspektora te inspektora rada i posuda po (NN 117/1999)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1999/117/1879",
+    "date": "1999-11-09",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2000/27/570",
+    "title": "Odluka Ustavnog suda Republike Hrvatske br. U-II-448/1999 od 16. veljače 2000. (NN 27/2000)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/27/570",
+    "date": "2000-03-08",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2002/81/1338",
+    "title": "Program posebnog dijela državnog stručnog ispita za zvanja gospodarskog inspektora, gospodarskog inspektora treće vrste zvanja, inspektora rada, elektroenergetskog inspektora, rudarskog inspektora i inspektora posuda pod tlakom (NN 81/2002)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2002/81/1338",
+    "date": "2002-07-09",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2003/111/1519",
+    "title": "Program posebnog dijela državnog stručnog ispita za zvanje gospodarskog inspektora, gospodarskog inspektora treće vrste zvanja, inspektora rada, elektroenergetskog inspektora, rudarskog inspektora i i (NN 111/2003)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2003/111/1519",
+    "date": "2003-07-15",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2004/37/936",
+    "title": "Nacionalni program Republike Hrvatske za pridruživanje Europskoj uniji - 2004. godina (NN 37/2004)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2004/37/936",
+    "date": "2004-03-23",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2005/82/1592",
+    "title": "Odluka Ustavnog suda Republike Hrvatske broj U-III-799/2005. od 21. lipnja 2005. (NN 82/2005)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/82/1592",
+    "date": "2005-07-06",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2005/86/1701",
+    "title": "Rješenje o odobrenju prospekta o izdavanju do 2.000.000 redovnih dionica na ime, serije D, privatnom ponudom, ukupne vrijednosti do najviše 20.000.000,00 kuna, pojedinačne nominalne vrijednosti 10,00 kuna po dionici, TRAJEKTNOJ LUCI SPLIT d.d., Split (NN 86/2005)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/86/1701",
+    "date": "2005-07-15",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2006/10/255",
+    "title": "Rješenje kojim se društvu Terminske transakcije d.o.o., Zagreb MB: 080540644, nalaže zabrana obavljanja terminskih (futures) poslova i svih drugih poslova s vrijednosnim papirima za koje odobrenje daje Hrvatska agencija za nadzor financijskih usluga (NN 10/2006)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/10/255",
+    "date": "2006-01-25",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2006/26/641",
+    "title": "Rješenje kojim se Jadranskom osiguranju d.d. Split nalaže podnijeti prijavu za upis brisanja u registar Trgovačkog suda u Splitu, Ivana Penića, kao člana Uprave Jadranskog osiguranja d.d. Split (NN 26/2006)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/26/641",
+    "date": "2006-03-08",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2008/34/1136",
+    "title": "Odluka Ustavnog suda Republike Hrvatske broj:U-III-3401/2006 i U-III-3926/2006 od 5. ožujka 2008. (NN 34/2008)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2008/34/1136",
+    "date": "2008-03-26",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2008/123/3549",
+    "title": "Odluka Ustavnog suda Republike Hrvatske broj:U-III-4055/2005 od 1. listopada 2008. (NN 123/2008)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2008/123/3549",
+    "date": "2008-10-24",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2008/128/3678",
+    "title": "Odluka Ustavnog suda Republike Hrvatske broj: U-III-4570/2007 od 22. listopada 2008. (NN 128/2008)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2008/128/3678",
+    "date": "2008-11-05",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2008/137/3866",
+    "title": "Odluka Ustavnog suda Republike Hrvatske broj: U-III-1745/2007 od 30. listopada 2008. (NN 137/2008)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2008/137/3866",
+    "date": "2008-11-26",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2009/67/1621",
+    "title": "Odluka Ustavnog suda Republike Hrvatske broj: U-III-1337/2008 od 20. svibnja 2009. (NN 67/2009)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2009/67/1621",
+    "date": "2009-06-10",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2009/89/2263",
+    "title": "Odluka Ustavnog suda Republike Hrvatske broj: U-III-964/2008 od 7. srpnja 2009. (NN 89/2009)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2009/89/2263",
+    "date": "2009-07-24",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2011/28/603",
+    "title": "Odluka Ustavnog suda Republike Hrvatske broj: U-III-2340/2008 od 17. veljače 2011. (NN 28/2011)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/28/603",
+    "date": "2011-03-08",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2012/133/2825",
+    "title": "Zakon o izmjenama i dopunama Stečajnog zakona (NN 133/2012)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2012/133/2825",
+    "date": "2012-12-03",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2014/76/1415",
+    "title": "Zakon o izmjenama i dopunama Zakona o zadrugama (NN 76/2014)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2014/76/1415",
+    "date": "2014-06-24",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2016/13/328",
+    "title": "Rješenje Agencije za zaštitu tržišnog natjecanja, klasa: UP/I 034-03/2015-01/010, urbroj: 580-09/64-2015-093 od 22. prosinca 2015 (NN 13/2016)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2016/13/328",
+    "date": "2016-02-10",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2019/51/989",
+    "title": "Odluka Ustavnog suda Republike Hrvatske broj: U-IIIA-1445/2017 od 17. travnja 2019. (NN 51/2019)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2019/51/989",
+    "date": "2019-05-20",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2020/140/2724",
+    "title": "Odluka Ustavnog suda Republike Hrvatske broj: U-III-2391/2019 od 29. listopada 2020. (NN 140/2020)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2020/140/2724",
+    "date": "2020-12-16",
+    "how": "cite"
    }
   ]
  },
@@ -39657,11 +43183,55 @@
   "status": "amended, not consolidated",
   "amended_by": [
    {
+    "ref": "nn:1999/76/1360",
+    "title": "Zakon o Državnom inspektoratu (NN 76/1999)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1999/76/1360",
+    "date": "1999-07-19",
+    "how": "amend"
+   },
+   {
     "ref": "nn:2005/33/643",
     "title": "Zakon o izmjenama i dopunama Zakona o šumskom sjemenu i šumskim sadnicama (NN 33/2005)",
     "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/33/643",
     "date": "2005-03-14",
     "how": "amend"
+   },
+   {
+    "ref": "nn:2005/140/2643",
+    "title": "Zakon o šumskom reprodukcijskom materijalu (NN 140/2005)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/140/2643",
+    "date": "2005-11-28",
+    "how": "amend"
+   },
+   {
+    "ref": "nn:2006/64/1571",
+    "title": "-Ustavni sud RH (NN 64/2006)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/64/1571",
+    "date": "2006-06-07",
+    "how": "amend"
+   }
+  ],
+  "cited_by": [
+   {
+    "ref": "nn:2003/10/142",
+    "title": "Dopuna popisa u Upisniku proizvođača šumskog sjemena (NN 10/2003)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2003/10/142",
+    "date": "2003-01-21",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2003/112/1539",
+    "title": "Dopuna popisu u Upisniku proizvođača šumskog sjemena (NN 112/2003)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2003/112/1539",
+    "date": "2003-07-16",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2009/75/1784",
+    "title": "Zakon o šumskom reprodukcijskom materijalu (NN 75/2009)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2009/75/1784",
+    "date": "2009-06-30",
+    "how": "cite"
    }
   ]
  },
@@ -51102,7 +54672,32 @@
   "in_force": "1996-07-10",
   "files": 17,
   "version": "prvi objavljeni tekst",
-  "status": "not yet checked"
+  "status": "repealed, not consolidated",
+  "amended_by": [
+   {
+    "ref": "nn:1996/59/1189",
+    "title": "Ispravak Zakona o upravnim pristojbama u području prava industrijskog vlasništva (NN 59/1996)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1996/59/1189",
+    "date": "1996-07-17",
+    "how": "amend"
+   },
+   {
+    "ref": "nn:2000/64/1406",
+    "title": "Zakon o upravnim pristojbama u području intelektualnog vlasništva (NN 64/2000)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/64/1406",
+    "date": "2000-07-05",
+    "how": "repeal"
+   }
+  ],
+  "cited_by": [
+   {
+    "ref": "nn:2000/56/1254",
+    "title": "Rješenje Ustavnog suda Republike Hrvatske broj U-I-783/1997 od 17. svibnja 2000. (NN 56/2000)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/56/1254",
+    "date": "2000-06-06",
+    "how": "cite"
+   }
+  ]
  },
  {
   "slug": "zakon-o-upravnim-sporovima",
@@ -51689,7 +55284,95 @@
   "in_force": "1997-02-19",
   "files": 8,
   "version": "prvi objavljeni tekst",
-  "status": "not yet checked"
+  "status": "amended, not consolidated",
+  "amended_by": [
+   {
+    "ref": "nn:1998/146/1812",
+    "title": "Rješenje Ustavnog suda Republike Hrvatske broj U-I-737/1998 od 28. listopada 1998. (NN 146/1998)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1998/146/1812",
+    "date": "1998-11-10",
+    "how": "amend"
+   }
+  ],
+  "cited_by": [
+   {
+    "ref": "nn:1998/27/332",
+    "title": "Rješenje Ustavnog suda Republike Hrvatske broj U-I-283/1997 od 25. veljače 1998. (NN 27/1998)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1998/27/332",
+    "date": "1998-02-27",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:1998/69/843",
+    "title": "Odluka Ustavnog suda Republike Hrvatske broj U-I-283/1997. od 12. svibnja 1998. (NN 69/1998)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1998/69/843",
+    "date": "1998-05-14",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:1998/102/1409",
+    "title": "Zakon o mirovinskom osiguranju (NN 102/1998)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1998/102/1409",
+    "date": "1998-07-29",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:1998/161/1991",
+    "title": "Odluka Ustavnog suda Republike Hrvatske broj U-I-283/1997 od 16. prosinca 1998. (NN 161/1998)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1998/161/1991",
+    "date": "1998-12-18",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:1999/7/92",
+    "title": "Rješenje Ustavnog suda Republike Hrvatske broj U-I-682/98, U-I-689/98, U-I-727/98, U-I-937/98 od 23 (NN 7/1999)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1999/7/92",
+    "date": "1999-01-22",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2004/105/2024",
+    "title": "Zakon o provođenju Odluke Ustavnog suda Republike Hrvatske od 12. svibnja 1998. (NN 105/2004)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2004/105/2024",
+    "date": "2004-07-28",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2010/117/3083",
+    "title": "Rješenje Ustavnog suda Republike Hrvatske broj: U-I-769/1998 i dr. od 29. rujna 2010. (NN 117/2010)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/117/3083",
+    "date": "2010-10-15",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2010/130/3399",
+    "title": "Zakon o mirovinskom osiguranju (pročišćeni tekst) (NN 130/2010)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/130/3399",
+    "date": "2010-11-22",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2011/25/543",
+    "title": "Rješenje Ustavnog suda Republike Hrvatske, broj: U-I-4185/2004 i dr. od 15. veljače 2011. (NN 25/2011)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/25/543",
+    "date": "2011-02-28",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2011/119/2355",
+    "title": "Rješenje Ustavnog suda Republike Hrvatske broj: U-I-84/2006 i dr. od 4. listopada 2011. (NN 119/2011)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/119/2355",
+    "date": "2011-10-21",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2017/25/564",
+    "title": "Rješenje Ustavnog suda Republike Hrvatske broj U-I-60/1991 i dr. od 21. veljače 2017. i Izdvojeno mišljenje (NN 25/2017)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/25/564",
+    "date": "2017-03-20",
+    "how": "cite"
+   }
+  ]
  },
  {
   "slug": "zakon-o-uskrati-isplate-pojedinih-materijalnih-prava-zaposlenima-u-javnim-sluzbama",
@@ -52230,6 +55913,36 @@
     "date": "2024-12-24",
     "how": "amend"
    }
+  ],
+  "cited_by": [
+   {
+    "ref": "nn:1996/106/2031",
+    "title": "Odluka o izmjeni Odluke o postavljanju dr. Darka Bekića za izvanrednog i opunomoćenog veleposlanika - opunomoćenog predstavnika u Stalnoj misiji Republike Hrvatske pri Uredu Ujedinjenih naroda u Ženev (NN 106/1996)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1996/106/2031",
+    "date": "1996-12-17",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2007/8/358",
+    "title": "Odluka o izmjeni Odluke o opozivu generalnog konzula Republike Hrvatske u Australiji (NN 8/2007)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2007/8/358",
+    "date": "2007-01-22",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2008/59/2024",
+    "title": "Odluka Ustavnog suda Republike Hrvatske broj:U-III-2378/2005 od 30. travnja 2008. (NN 59/2008)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2008/59/2024",
+    "date": "2008-05-26",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2025/131/1904",
+    "title": "Odluku o postavljanju počasnog konzula Republike Hrvatske u Talijanskoj Republici, sa sjedištem u Firenzi (NN 131/2025)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2025/131/1904",
+    "date": "2025-10-22",
+    "how": "cite"
+   }
   ]
  },
  {
@@ -52332,7 +56045,7 @@
   "in_force": "1998-06-13",
   "files": 58,
   "version": "prvi objavljeni tekst",
-  "status": "not yet checked"
+  "status": "in force"
  },
  {
   "slug": "zakon-o-veterinarstvu",
@@ -85728,7 +89441,16 @@
   "in_force": "1994-04-19",
   "files": 13,
   "version": "prvi objavljeni tekst",
-  "status": "not yet checked"
+  "status": "amended, not consolidated",
+  "amended_by": [
+   {
+    "ref": "nn:1994/35/647",
+    "title": "Ispravak Zakona o zabrani raspolaganja i preuzimanju sredstava određenih pravnih osoba na teritoriju Republike Hrvatske (NN 35/1994)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1994/35/647",
+    "date": "1994-05-04",
+    "how": "amend"
+   }
+  ]
  },
  {
   "slug": "zakon-o-zadrugama",
@@ -86116,6 +89838,50 @@
     "date": "2022-10-03",
     "how": "amend"
    }
+  ],
+  "cited_by": [
+   {
+    "ref": "nn:2016/43/1120",
+    "title": "Program aktivnosti u provedbi posebnih mjera zaštite od požara od interesa za Republiku Hrvatsku u 2016. godini (NN 43/2016)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2016/43/1120",
+    "date": "2016-05-05",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2017/42/968",
+    "title": "Program aktivnosti u provedbi posebnih mjera zaštite od požara od interesa za Republiku Hrvatsku u 2017. godini (NN 42/2017)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/42/968",
+    "date": "2017-04-28",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2018/28/573",
+    "title": "Program aktivnosti u provedbi posebnih mjera zaštite od požara od interesa za Republiku Hrvatsku u 2018. godini (NN 28/2018)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2018/28/573",
+    "date": "2018-03-23",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2019/35/735",
+    "title": "Program aktivnosti u provedbi posebnih mjera zaštite od požara od interesa za Republiku Hrvatsku u 2019. godini (NN 35/2019)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2019/35/735",
+    "date": "2019-04-05",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2020/3/42",
+    "title": "Program aktivnosti u provedbi posebnih mjera zaštite od požara od interesa za Republiku Hrvatsku u 2020. godini (NN 3/2020)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2020/3/42",
+    "date": "2020-01-08",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2021/4/75",
+    "title": "Program aktivnosti u provedbi posebnih mjera zaštite od požara od interesa za Republiku Hrvatsku u 2021. godini (NN 4/2021)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2021/4/75",
+    "date": "2021-01-15",
+    "how": "cite"
+   }
   ]
  },
  {
@@ -86145,6 +89911,43 @@
     "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/114/1890",
     "date": "2001-12-20",
     "how": "amend"
+   },
+   {
+    "ref": "nn:2002/32/694",
+    "title": "Zakon o posredovanju pri zapošljavanju i pravima za vrijeme nezaposlenosti (NN 32/2002)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2002/32/694",
+    "date": "2002-03-28",
+    "how": "amend"
+   }
+  ],
+  "cited_by": [
+   {
+    "ref": "nn:1998/88/1193",
+    "title": "Zakon o izmjenama i dopunama Zakona o zdravstvenom osiguranju (NN 88/1998)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1998/88/1193",
+    "date": "1998-06-26",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:1999/65/1203",
+    "title": "Odluka Ustavnog suda Republike Hrvatske broj U-II-741/1998 od 26 (NN 65/1999)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1999/65/1203",
+    "date": "1999-06-25",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2001/19/352",
+    "title": "Odluka Ustavnog suda Republike Hrvatske broj U-III-1713/2000 od 28. veljače 2001. (NN 19/2001)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/19/352",
+    "date": "2001-03-09",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2017/40/884",
+    "title": "Izmjene i dopune Statuta Hrvatskoga zavoda za zapošljavanje (NN 40/2017)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/40/884",
+    "date": "2017-04-26",
+    "how": "cite"
    }
   ]
  },
@@ -88288,7 +92091,7 @@
   "in_force": "1999-03-27",
   "files": 55,
   "version": "prvi objavljeni tekst",
-  "status": "amended, not consolidated",
+  "status": "repealed, not consolidated",
   "amended_by": [
    {
     "ref": "nn:2003/173/2506",
@@ -88296,6 +92099,22 @@
     "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2003/173/2506",
     "date": "2003-10-31",
     "how": "amend"
+   },
+   {
+    "ref": "nn:2006/64/1544",
+    "title": "Zakon o zaštiti od ionizirajućeg zračenja i sigurnosti izvora ionizirajućeg zračenja (NN 64/2006)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/64/1544",
+    "date": "2006-06-07",
+    "how": "repeal"
+   }
+  ],
+  "cited_by": [
+   {
+    "ref": "nn:2003/106/1388",
+    "title": "Program posebnog dijela državnoga stručnog ispita za državne službenike u tijelima državne uprave ustrojenim za područje zdravstva (NN 106/2003)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2003/106/1388",
+    "date": "2003-07-02",
+    "how": "cite"
    }
   ]
  },
@@ -88648,11 +92467,48 @@
   "status": "amended, not consolidated",
   "amended_by": [
    {
+    "ref": "nn:1996/90/1595",
+    "title": "Ispravak Zakona o zaštiti osoba i imovine (NN 90/1996)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1996/90/1595",
+    "date": "1996-10-25",
+    "how": "amend"
+   },
+   {
     "ref": "nn:2001/96/1615",
     "title": "Zakon o dopuni Zakona o zaštiti osoba i imovine (NN 96/2001)",
     "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/96/1615",
     "date": "2001-11-07",
     "how": "amend"
+   }
+  ],
+  "cited_by": [
+   {
+    "ref": "nn:2002/114/1847",
+    "title": "Odluka i Rješenje Ustavnog suda Republike Hrvatske broj U-I-627/1996 od 18. rujna 2002. (NN 114/2002)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2002/114/1847",
+    "date": "2002-10-01",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2003/68/796",
+    "title": "Zakon o privatnoj zaštiti (NN 68/2003)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2003/68/796",
+    "date": "2003-04-22",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2009/24/528",
+    "title": "Zakon o privatnim detektivima (NN 24/2009)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2009/24/528",
+    "date": "2009-02-23",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2020/16/327",
+    "title": "Zakon o privatnoj zaštiti (NN 16/2020)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2020/16/327",
+    "date": "2020-02-12",
+    "how": "cite"
    }
   ]
  },
@@ -88727,6 +92583,22 @@
     "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1999/127/2009",
     "date": "1999-11-29",
     "how": "amend"
+   },
+   {
+    "ref": "nn:2003/173/2497",
+    "title": "Zakon o zaštiti topografija poluvodičkih proizvoda (NN 173/2003)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2003/173/2497",
+    "date": "2003-10-31",
+    "how": "amend"
+   }
+  ],
+  "cited_by": [
+   {
+    "ref": "nn:2000/56/1254",
+    "title": "Rješenje Ustavnog suda Republike Hrvatske broj U-I-783/1997 od 17. svibnja 2000. (NN 56/2000)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/56/1254",
+    "date": "2000-06-06",
+    "how": "cite"
    }
   ]
  },
@@ -89231,7 +93103,30 @@
   "in_force": "1996-12-31",
   "files": 37,
   "version": "prvi objavljeni tekst",
-  "status": "not yet checked"
+  "status": "cited later, not consolidated",
+  "cited_by": [
+   {
+    "ref": "nn:2000/26/522",
+    "title": "Program posebnog dijela državnog stručnog ispita za državne službenike u tijelima državne uprave ustrojenim za geodetske i katastarske poslove (NN 26/2000)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/26/522",
+    "date": "2000-03-03",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2007/79/2483",
+    "title": "Zakon o tajnosti podataka (NN 79/2007)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2007/79/2483",
+    "date": "2007-07-30",
+    "how": "cite"
+   },
+   {
+    "ref": "nn:2010/71/2150",
+    "title": "Presuda Upravnog suda Republike Hrvatske broj: Us-1702/2007-11 od 24. ožujka 2010. (NN 71/2010)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/71/2150",
+    "date": "2010-06-10",
+    "how": "cite"
+   }
+  ]
  },
  {
   "slug": "zakon-o-zastiti-topografija-poluvodickih-proizvoda",
@@ -89896,7 +93791,7 @@
   "in_force": "1995-06-09",
   "files": 17,
   "version": "prvi objavljeni tekst",
-  "status": "not yet checked"
+  "status": "in force"
  },
  {
   "slug": "zakon-o-zateznim-kamatama",
@@ -89910,7 +93805,25 @@
   "in_force": "1996-04-20",
   "files": 8,
   "version": "prvi objavljeni tekst",
-  "status": "not yet checked"
+  "status": "repealed, not consolidated",
+  "amended_by": [
+   {
+    "ref": "nn:2004/94/1773",
+    "title": "Zakon o kamatama (NN 94/2004)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2004/94/1773",
+    "date": "2004-07-12",
+    "how": "repeal"
+   }
+  ],
+  "cited_by": [
+   {
+    "ref": "nn:2023/86/1347",
+    "title": "Odluka Ustavnog suda Republike Hrvatske broj: U-I-4957/2015 od 11. srpnja 2023. i dva izdvojena podupiruća mišljenja sudaca (NN 86/2023)",
+    "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2023/86/1347",
+    "date": "2023-07-26",
+    "how": "cite"
+   }
+  ]
  },
  {
   "slug": "zakon-o-zdravlju-zivotinja",
