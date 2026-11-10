@@ -1,6 +1,6 @@
 # Every act in this repository
 
-25539 acts, 25,965 versions. Each act lives in a folder named by its kind, year and identifier, `<kind>/<year>/<identifier>/` (acts published before that layout keep their own folder, listed in data/paths.json); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+25596 acts, 26,022 versions. Each act lives in a folder named by its kind, year and identifier, `<kind>/<year>/<identifier>/` (acts published before that layout keep their own folder, listed in data/paths.json); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## naputak (159, of which 23 amending acts)
 
@@ -23374,7 +23374,7 @@
 | Uredba o izmjeni Uredbe o visini trošarine na energente i električnu energiju | [`uredba/2026/1458/`](uredba/2026/1458/) | in force | 1 | 2026-10-27 | 2026-10-27 |
 | Uredba o izmjeni Uredbe o visini trošarine na energente i električnu energiju | [`uredba/2026/1488/`](uredba/2026/1488/) | in force | 1 | 2026-11-03 | 2026-11-03 |
 
-## zakon (2202, of which 1313 amending acts)
+## zakon (2259, of which 1342 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -24077,6 +24077,18 @@
 | Zakon o izmjenama i dopunama Zakona o javnim cestama | [`zakon/2009/3755/`](zakon/2009/3755/) | amending act | 1 | 2009-12-29 | 2009-12-29 |
 | Zakon o izmjenama i dopunama Zakona o obveznom zdravstvenom osiguranju | [`zakon/2009/3756/`](zakon/2009/3756/) | amending act | 1 | 2009-12-29 | 2009-12-29 |
 | Zakon o izmjenama Zakona o obrani | [`zakon/2009/3757/`](zakon/2009/3757/) | in force | 1 | 2009-12-29 | 2009-12-29 |
+| Zakon o upravnim sporovima | [`zakon/2010/483/`](zakon/2010/483/) | repealed, not consolidated | 1 | 2012-01-01 | 2012-01-01 |
+| Zakon o tehničkim zahtjevima za proizvode i ocjenjivanju sukladnosti | [`zakon/2010/485/`](zakon/2010/485/) | repealed, not consolidated | 1 | 2010-02-20 | 2010-02-20 |
+| Zakon o izmjeni Zakona o oznakama izvornosti, oznakama zemljopisnog podrijetla i oznakama tradicionalnog ugleda poljoprivrednih i prehrambenih proizvoda | [`zakon/2010/486/`](zakon/2010/486/) | in force | 1 | 2010-02-20 | 2010-02-20 |
+| Zakon o izmjenama i dopunama Zakona o upravnim pristojbama | [`zakon/2010/487/`](zakon/2010/487/) | amending act | 1 | 2010-02-20 | 2010-02-20 |
+| Zakon o izmjenama i dopunama Zakona o proizvodnji, distribuciji i opskrbi toplinskom energijom | [`zakon/2010/488/`](zakon/2010/488/) | amending act | 1 | 2010-02-20 | 2010-02-20 |
+| Zakon o Državnoj komisiji za kontrolu postupaka javne nabave | [`zakon/2010/525/`](zakon/2010/525/) | replaced, not consolidated | 1 | 2010-02-23 | 2010-02-23 |
+| Zakon o izmjenama i dopunama Zakona o stambenoj štednji i državnom poticanju stambene štednje | [`zakon/2010/526/`](zakon/2010/526/) | amending act | 1 | 2010-02-23 | 2010-02-23 |
+| Zakon o izmjenama i dopunama Zakona o poljoprivrednom zemljištu | [`zakon/2010/528/`](zakon/2010/528/) | amending act | 1 | 2010-02-15 | 2010-02-15 |
+| Zakon o prestanku važenja Zakona o privatizaciji Hrvatske elektroprivrede d.d. | [`zakon/2010/529/`](zakon/2010/529/) | in force | 1 | 2010-02-23 | 2010-02-23 |
+| Zakon o udžbenicima za osnovnu i srednju školu | [`zakon/2010/644/`](zakon/2010/644/) | repealed, not consolidated | 1 | 2010-03-02 | 2010-03-02 |
+| Zakon o radiološkoj i nuklearnoj sigurnosti | [`zakon/2010/664/`](zakon/2010/664/) | repealed, not consolidated | 1 | 2010-04-01 | 2010-04-01 |
+| Zakon o poticanju prodaje stanova | [`zakon/2010/966/`](zakon/2010/966/) | repealed, not consolidated | 1 | 2010-04-08 | 2010-04-08 |
 | Zakon o morskom ribarstvu | [`zakon/2010/1341/`](zakon/2010/1341/) | amended, not consolidated | 1 | 2010-05-15 | 2010-05-15 |
 | Zakon o izmjenama Zakona o posebnom porezu na plaće, mirovine i druge primitke | [`zakon/2010/1342/`](zakon/2010/1342/) | in force | 1 | 2010-07-01 | 2010-07-01 |
 | Zakon o izmjenama Zakona o posebnom porezu na primitke od samostalne djelatnosti i ostale primitke | [`zakon/2010/1343/`](zakon/2010/1343/) | in force | 1 | 2010-09-01 | 2010-09-01 |
@@ -24115,6 +24127,51 @@
 | Zakon o izmjenama i dopunama Zakona o državnom odvjetništvu | [`zakon/2010/3053/`](zakon/2010/3053/) | amending act | 1 | 2010-10-21 | 2010-10-21 |
 | Zakon o izmjeni i dopuni Zakona o Uredu za suzbijanje korupcije i organiziranog kriminaliteta | [`zakon/2010/3054/`](zakon/2010/3054/) | amending act | 1 | 2010-10-21 | 2010-10-21 |
 | Zakon o dopunama Stečajnog zakona | [`zakon/2010/3055/`](zakon/2010/3055/) | amending act | 1 | 2010-10-21 | 2010-10-21 |
+| Zakon o izmjenama i dopunama Zakona o mirovinskom osiguranju | [`zakon/2010/3144/`](zakon/2010/3144/) | amending act | 1 | 2010-11-01 | 2010-11-01 |
+| Zakon o izmjenama i dopunama Zakona o posredovanju pri zapošljavanju i pravima za vrijeme nezaposlenosti | [`zakon/2010/3145/`](zakon/2010/3145/) | amending act | 1 | 2010-11-01 | 2010-11-01 |
+| Zakon o prestanku važenja Zakona o Fondu za regionalni razvoj Republike Hrvatske | [`zakon/2010/3205/`](zakon/2010/3205/) | in force | 1 | 2010-11-08 | 2010-11-08 |
+| Zakon o prestanku važenja Zakona o Fondu za razvoj i zapošljavanje | [`zakon/2010/3206/`](zakon/2010/3206/) | in force | 1 | 2010-11-08 | 2010-11-08 |
+| Zakon o izmjenama i dopunama Zakona o obveznim i dobrovoljnim mirovinskim fondovima | [`zakon/2010/3207/`](zakon/2010/3207/) | amending act | 1 | 2010-11-16 | 2010-11-16 |
+| Zakon o izmjenama i dopunama Zakona o radnom vremenu, obveznim odmorima mobilnih radnika i uređajima za bilježenje u cestovnom prijevozu | [`zakon/2010/3208/`](zakon/2010/3208/) | amending act | 1 | 2010-11-16 | 2010-11-16 |
+| Zakon o izmjenama i dopunama Zakona o športu | [`zakon/2010/3209/`](zakon/2010/3209/) | amending act | 1 | 2010-11-08 | 2010-11-08 |
+| Zakon o izmjenama i dopunama Zakona o osnivanju Hrvatskog centra za poljoprivredu, hranu i selo | [`zakon/2010/3210/`](zakon/2010/3210/) | amending act | 1 | 2010-11-08 | 2010-11-08 |
+| Zakon o izmjenama Zakona o šumama | [`zakon/2010/3211/`](zakon/2010/3211/) | in force | 1 | 2010-11-08 | 2010-11-08 |
+| Zakon o izmjenama Zakona o državnoj izmjeri i katastru nekretnina | [`zakon/2010/3212/`](zakon/2010/3212/) | amended, not consolidated | 1 | 2010-11-08 | 2010-11-08 |
+| Zakon o izmjenama i dopunama Zakona o Pravosudnoj akademiji | [`zakon/2010/3291/`](zakon/2010/3291/) | amending act | 1 | 2010-11-24 | 2010-11-24 |
+| Zakon o izmjenama i dopunama Zakona o Hrvatskoj poljoprivrednoj komori | [`zakon/2010/3292/`](zakon/2010/3292/) | amending act | 1 | 2010-11-16 | 2010-11-16 |
+| Zakon o izmjeni i dopuni Zakona o energiji | [`zakon/2010/3293/`](zakon/2010/3293/) | amending act | 1 | 2010-11-24 | 2010-11-24 |
+| Zakon o dopuni Zakona o zaštiti i spašavanju | [`zakon/2010/3294/`](zakon/2010/3294/) | amending act | 1 | 2010-11-16 | 2010-11-16 |
+| Zakon o humanitarnoj pomoći | [`zakon/2010/3318/`](zakon/2010/3318/) | repealed, not consolidated | 1 | 2011-07-01 | 2011-07-01 |
+| Zakon o izmjeni Zakona o postupanju i uvjetima gradnje radi poticanja ulaganja | [`zakon/2010/3319/`](zakon/2010/3319/) | in force | 1 | 2010-11-25 | 2010-11-25 |
+| Zakon o izmjenama i dopunama Zakona o Poreznoj upravi | [`zakon/2010/3320/`](zakon/2010/3320/) | amending act | 1 | 2010-11-25 | 2010-11-25 |
+| Zakon o izmjenama i dopunama Zakona o patentu | [`zakon/2010/3321/`](zakon/2010/3321/) | amending act | 1 | 2010-11-25 | 2010-11-25 |
+| Zakon o javnim ovršiteljima | [`zakon/2010/3529/`](zakon/2010/3529/) | repealed, not consolidated | 1 | 2010-12-18 | 2010-12-18 |
+| Zakon o fiskalnoj odgovornosti | [`zakon/2010/3530/`](zakon/2010/3530/) | repealed, not consolidated | 1 | 2011-01-01 | 2011-01-01 |
+| Zakon o elektroničkom novcu | [`zakon/2010/3531/`](zakon/2010/3531/) | repealed, not consolidated | 1 | 2011-01-01 | 2011-01-01 |
+| Zakon o ekološkoj proizvodnji i označavanju ekoloških proizvoda | [`zakon/2010/3532/`](zakon/2010/3532/) | repealed, not consolidated | 1 | 2010-12-18 | 2010-12-18 |
+| Zakon o prestanku važenja Zakona o zdravstvenom osiguranju zaštite zdravlja na radu | [`zakon/2010/3534/`](zakon/2010/3534/) | in force | 1 | 2011-01-01 | 2011-01-01 |
+| Zakon o izmjenama i dopunama Zakona o zdravstvenoj zaštiti | [`zakon/2010/3535/`](zakon/2010/3535/) | amending act | 1 | 2010-12-18 | 2010-12-18 |
+| Zakon o izmjenama i dopunama Zakona o obveznom zdravstvenom osiguranju | [`zakon/2010/3536/`](zakon/2010/3536/) | amending act | 1 | 2011-01-01 | 2011-01-01 |
+| Zakon o izmjenama Zakona o obeštećenju radnika profesionalno izloženih azbestu | [`zakon/2010/3537/`](zakon/2010/3537/) | in force | 1 | 2011-01-01 | 2011-01-01 |
+| Zakon o izmjenama Zakona o obveznom zdravstvenom nadzoru radnika profesionalno izloženih azbestu | [`zakon/2010/3538/`](zakon/2010/3538/) | in force | 1 | 2011-01-01 | 2011-01-01 |
+| Zakon o izmjeni Zakona o uvjetima za stjecanje prava na starosnu mirovinu radnika profesionalno izloženih azbestu | [`zakon/2010/3539/`](zakon/2010/3539/) | in force | 1 | 2011-01-01 | 2011-01-01 |
+| Zakon o izmjeni i dopunama Zakona o privatnoj zaštiti | [`zakon/2010/3541/`](zakon/2010/3541/) | amending act | 1 | 2010-12-18 | 2010-12-18 |
+| Zakon o izmjenama i dopunama Zakona o općoj sigurnosti proizvoda | [`zakon/2010/3542/`](zakon/2010/3542/) | amending act | 1 | 2010-12-18 | 2010-12-18 |
+| Zakon o izmjenama Zakona o pučkim otvorenim učilištima | [`zakon/2010/3543/`](zakon/2010/3543/) | in force | 1 | 2010-12-18 | 2010-12-18 |
+| Zakon o izvršavanju Državnog proračuna Republike Hrvatske za 2011. godinu | [`zakon/2010/3574/`](zakon/2010/3574/) | in force | 1 | 2011-01-01 | 2011-01-01 |
+| Zakon o područjima i sjedištima sudova | [`zakon/2010/3625/`](zakon/2010/3625/) | repealed, not consolidated | 1 | 2010-12-30 | 2010-12-30 |
+| Zakon o područjima i sjedištima državnih odvjetništava | [`zakon/2010/3626/`](zakon/2010/3626/) | repealed, not consolidated | 1 | 2011-01-01 | 2011-01-01 |
+| Zakon o izmjenama i dopunama Zakona o pravu na pristup informacijama | [`zakon/2010/3627/`](zakon/2010/3627/) | amending act | 1 | 2010-12-30 | 2010-12-30 |
+| Zakon o izmjenama i dopunama Zakona o eksplozivnim tvarima | [`zakon/2010/3628/`](zakon/2010/3628/) | amending act | 1 | 2010-12-22 | 2010-12-22 |
+| Zakon o postupku oduzimanja imovinske koristi ostvarene kaznenim djelom i prekršajem | [`zakon/2010/3668/`](zakon/2010/3668/) | repealed, not consolidated | 1 | 2011-01-01 | 2011-01-01 |
+| Zakon o upravljanju državnom imovinom | [`zakon/2010/3669/`](zakon/2010/3669/) | repealed, not consolidated | 1 | 2011-01-01 | 2011-01-01 |
+| Zakon o izmjenama i dopunama Zakona o područjima županija, gradova i općina u Republici Hrvatskoj | [`zakon/2010/3670/`](zakon/2010/3670/) | amending act | 1 | 2011-01-01 | 2011-01-01 |
+| Zakon o izmjenama i dopunama Zakona o izborima zastupnika u Hrvatski sabor | [`zakon/2010/3671/`](zakon/2010/3671/) | amending act | 1 | 2011-01-01 | 2011-01-01 |
+| Zakon o izmjenama i dopunama Zakona o deviznom poslovanju | [`zakon/2010/3672/`](zakon/2010/3672/) | amending act | 1 | 2011-01-01 | 2011-01-01 |
+| Zakon o izmjenama i dopuni Zakona o državnom odvjetništvu | [`zakon/2010/3673/`](zakon/2010/3673/) | amending act | 1 | 2011-01-01 | 2011-01-01 |
+| Zakon o izmjenama i dopunama Zakona o biogorivima za prijevoz | [`zakon/2010/3674/`](zakon/2010/3674/) | amending act | 1 | 2011-01-01 | 2011-01-01 |
+| Zakon o izmjenama i dopunama Zakona o primaljstvu | [`zakon/2010/3675/`](zakon/2010/3675/) | amending act | 1 | 2011-01-01 | 2011-01-01 |
+| Zakon o izmjenama i dopunama Zakona o Zakladi "Hrvatska za djecu" | [`zakon/2010/3676/`](zakon/2010/3676/) | amending act | 1 | 2011-01-01 | 2011-01-01 |
 | Zakon o dopuni Zakona o tržištu električne energije | [`zakon/2011/263/`](zakon/2011/263/) | amending act | 1 | 2011-02-01 | 2011-02-01 |
 | Zakon o dopunama Zakona o plaćama sudaca i drugih pravosudnih dužnosnika | [`zakon/2011/264/`](zakon/2011/264/) | amending act | 1 | 2011-02-01 | 2011-02-01 |
 | Zakon o izmjenama dopunama Zakona o zračnim lukama | [`zakon/2011/265/`](zakon/2011/265/) | amending act | 1 | 2011-02-01 | 2011-02-01 |

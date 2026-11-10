@@ -214184,6 +214184,3646 @@
 ]
 },
 {
+"slug": "zakon-2010-483",
+"path": "zakon/2010/483",
+"kind": "zakon",
+"year": "2010",
+"number": "483",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o upravnim sporovima",
+"short": "Zakon o upravnim sporovima",
+"code": null,
+"status": "repealed, not consolidated",
+"versions": 1,
+"from": "2012-01-01",
+"latest": "2012-01-01",
+"portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/20/483",
+"amended_by": [
+{
+"ref": "nn:2012/143/3036",
+"title": "Zakon o izmjenama i dopunama Zakona o upravnim sporovima (NN 143/2012)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2012/143/3036",
+"date": "2012-12-20",
+"how": "amend"
+},
+{
+"ref": "nn:2014/152/2858",
+"title": "Zakon o izmjenama i dopunama Zakona o upravnim sporovima (NN 152/2014)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2014/152/2858",
+"date": "2014-12-22",
+"how": "amend"
+},
+{
+"ref": "nn:2017/29/657",
+"title": "Zakon o izmjeni i dopuni Zakona o upravnim sporovima (NN 29/2017)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/29/657",
+"date": "2017-03-31",
+"how": "amend"
+},
+{
+"ref": "nn:2021/110/1929",
+"title": "Zakon o izmjenama i dopunama Zakona o upravnim sporovima (NN 110/2021)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2021/110/1929",
+"date": "2021-10-13",
+"how": "amend"
+},
+{
+"ref": "nn:2024/36/564",
+"title": "Zakon o upravnim sporovima (NN 36/2024)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2024/36/564",
+"date": "2024-03-25",
+"how": "repeal,replace"
+}
+],
+"cited_by": [
+{
+"ref": "nn:2012/35/915",
+"title": "Presuda Visokog upravnog suda Republike Hrvatske broj: Us-1116/2011-6 od 12. siječnja 2011. (NN 35/2012)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2012/35/915",
+"date": "2012-03-23",
+"how": "cite"
+},
+{
+"ref": "nn:2012/38/983",
+"title": "Presuda Visokog upravnog suda Republike Hrvatske broj: Us-8199/2011-6 od 9. veljače 2012. (NN 38/2012)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2012/38/983",
+"date": "2012-03-30",
+"how": "cite"
+},
+{
+"ref": "nn:2012/40/1049",
+"title": "Rješenje Agencije za zaštitu tržišnog natjecanja, klasa: UP/I 430-01/11-02/002 od 26. ožujka 2012. (NN 40/2012)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2012/40/1049",
+"date": "2012-04-06",
+"how": "cite"
+},
+{
+"ref": "nn:2012/62/1502",
+"title": "Presuda Visokoga upravnog suda Republike Hrvatske broj: Us-7205/2010-5 od 21. ožujka 2012. (NN 62/2012)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2012/62/1502",
+"date": "2012-06-04",
+"how": "cite"
+},
+{
+"ref": "nn:2012/76/1784",
+"title": "Presuda Visokog upravnog suda Republike Hrvatske broj: Us-5097/2009-4 od 23. svibnja 2012. (NN 76/2012)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2012/76/1784",
+"date": "2012-07-09",
+"how": "cite"
+},
+{
+"ref": "nn:2012/98/2185",
+"title": "Presuda Visokog upravnog suda Republike Hrvatske broj: Us-2248/2010-6 od13. lipnja 2012. (NN 98/2012)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2012/98/2185",
+"date": "2012-08-29",
+"how": "cite"
+},
+{
+"ref": "nn:2012/113/2455",
+"title": "Presuda Visokog upravnog suda Republike Hrvatske broj Us-7871/2011-7 od 30. kolovoza 2012. (NN 113/2012)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2012/113/2455",
+"date": "2012-10-12",
+"how": "cite"
+},
+{
+"ref": "nn:2013/27/468",
+"title": "Presuda Visokog upravnog suda Republike Hrvatske Poslovni broj: UsII-10/2012-5 od 23. siječnja 2013. (NN 27/2013)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/27/468",
+"date": "2013-03-04",
+"how": "cite"
+},
+{
+"ref": "nn:2013/32/581",
+"title": "Presuda Visokoga upravnog suda Republike Hrvatske broj: UsII-1/2012-4 od 6. veljače 2013. (NN 32/2013)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/32/581",
+"date": "2013-03-15",
+"how": "cite"
+},
+{
+"ref": "nn:2013/43/827",
+"title": "Presuda Visokog upravnog suda Republike Hrvatske broj: Us-11647/2010-8 od 19. prosinca 2012. (NN 43/2013)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/43/827",
+"date": "2013-04-12",
+"how": "cite"
+},
+{
+"ref": "nn:2013/43/828",
+"title": "Presuda Visokog upravnog suda Republike Hrvatske broj: Usoz-41/2012-6 od 19. ožujka 2013. (NN 43/2013)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/43/828",
+"date": "2013-04-12",
+"how": "cite"
+},
+{
+"ref": "nn:2013/43/829",
+"title": "Presuda Visokog upravnog suda Republike Hrvatske broj: UsII-18/2012-17 od 21. ožujka 2013. (NN 43/2013)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/43/829",
+"date": "2013-04-12",
+"how": "cite"
+},
+{
+"ref": "nn:2013/49/979",
+"title": "Presuda Upravnog suda u Zagrebu broj: UsI-17/12-9 od 10. travnja 2013. (NN 49/2013)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/49/979",
+"date": "2013-04-26",
+"how": "cite"
+},
+{
+"ref": "nn:2013/52/1067",
+"title": "Presuda Visokog upravnog suda Republike Hrvatske broj: UsII-10/2013-8 od 10. travnja 2013 (NN 52/2013)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/52/1067",
+"date": "2013-05-03",
+"how": "cite"
+},
+{
+"ref": "nn:2013/58/1201",
+"title": "Presuda Visokog upravnog suda Republike Hrvatske broj: Usoz-95/2012-7 od 24. travnja 2013. (NN 58/2013)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/58/1201",
+"date": "2013-05-17",
+"how": "cite"
+},
+{
+"ref": "nn:2013/58/1202",
+"title": "Presuda Visokog upravnog suda Republike Hrvatske broj: Usoz-86/2012-8 od 24. travnja 2013. (NN 58/2013)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/58/1202",
+"date": "2013-05-17",
+"how": "cite"
+},
+{
+"ref": "nn:2013/58/1211",
+"title": "Rješenje Ustavnog suda Republike Hrvatske broj: U-III-2437/2012 od 25. travnja 2013. (NN 58/2013)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/58/1211",
+"date": "2013-05-17",
+"how": "cite"
+},
+{
+"ref": "nn:2013/65/1295",
+"title": "Presuda Visokoga upravnog suda Republike Hrvatske broj: Us-3142/2010-4 od 3. travnja 2013. (NN 65/2013)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/65/1295",
+"date": "2013-05-29",
+"how": "cite"
+},
+{
+"ref": "nn:2013/65/1296",
+"title": "Presuda Visokoga upravnog suda Republike Hrvatske broj: UsII-8/2013-4 od 18. travnja 2013. (NN 65/2013)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/65/1296",
+"date": "2013-05-29",
+"how": "cite"
+},
+{
+"ref": "nn:2013/70/1401",
+"title": "Presuda Visokog upravnog suda Republike Hrvatske broj: Us-12930/2011-8 od 20. ožujka 2013. (NN 70/2013)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/70/1401",
+"date": "2013-06-12",
+"how": "cite"
+},
+{
+"ref": "nn:2013/70/1402",
+"title": "Presuda Visokog upravnog suda Republike Hrvatske broj: Usoz-113/2012-6 od 21. svibnja 2013. (NN 70/2013)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/70/1402",
+"date": "2013-06-12",
+"how": "cite"
+},
+{
+"ref": "nn:2013/70/1403",
+"title": "Presuda Visokog upravnog suda Republike Hrvatske broj: Usoz-190/2012-5 od 21. svibnja 2013. (NN 70/2013)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/70/1403",
+"date": "2013-06-12",
+"how": "cite"
+},
+{
+"ref": "nn:2013/75/1519",
+"title": "Odluka Ustavnog suda Republike Hrvatske broj: U-III-6526/2012 od 6. lipnja 2013. (NN 75/2013)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/75/1519",
+"date": "2013-06-20",
+"how": "cite"
+},
+{
+"ref": "nn:2013/89/1968",
+"title": "Presuda Visokog upravnog suda Republike Hrvatske broj: Usoz-117/201-15 od 12. lipnja 2013. (NN 89/2013)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/89/1968",
+"date": "2013-07-10",
+"how": "cite"
+},
+{
+"ref": "nn:2013/93/2118",
+"title": "Presuda Visokog upravnog suda Republike Hrvatske broj: Us-8247/2011-5 od 23 svibnja 2013. (NN 93/2013)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/93/2118",
+"date": "2013-07-19",
+"how": "cite"
+},
+{
+"ref": "nn:2013/99/2258",
+"title": "Odluka Ustavnog suda Republike Hrvatske broj: U-II-1304/2013 od 16. srpnja 2013. (NN 99/2013)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/99/2258",
+"date": "2013-07-31",
+"how": "cite"
+},
+{
+"ref": "nn:2013/126/2747",
+"title": "Presuda Visokog upravnog suda Republike Hrvatske broj: Usoz-103/2012-13 od 27. rujna 2013. (NN 126/2013)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/126/2747",
+"date": "2013-10-16",
+"how": "cite"
+},
+{
+"ref": "nn:2013/126/2748",
+"title": "Presuda Visokog upravnog suda Republike Hrvatske broj: Usoz-82/2012-6 od 27. rujna 2013. (NN 126/2013)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/126/2748",
+"date": "2013-10-16",
+"how": "cite"
+},
+{
+"ref": "nn:2013/132/2877",
+"title": "Presuda Visokog upravnog suda Republike Hrvatske broj: Us-4535/2011-6 od 12. rujna 2013. (NN 132/2013)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/132/2877",
+"date": "2013-11-04",
+"how": "cite"
+},
+{
+"ref": "nn:2013/136/2942",
+"title": "Presuda Visokog upravnog suda Republike Hrvatske broj: Usoz-75/2012-7 od 25. listopada 2013. (NN 136/2013)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/136/2942",
+"date": "2013-11-13",
+"how": "cite"
+},
+{
+"ref": "nn:2013/139/2983",
+"title": "Presuda Visokog upravnog suda Republike Hrvatske broj: Usoz-18/2012-6 od 25. listopada 2013. (NN 139/2013)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/139/2983",
+"date": "2013-11-20",
+"how": "cite"
+},
+{
+"ref": "nn:2013/139/2984",
+"title": "Presuda Visokog upravnog suda Republike Hrvatske broj: Usoz-19/2012-6 od 25. listopada 2013. (NN 139/2013)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/139/2984",
+"date": "2013-11-20",
+"how": "cite"
+},
+{
+"ref": "nn:2013/147/3129",
+"title": "Presuda Visokog upravnog suda Republike Hrvatske broj: Us-10902/2011-8 od 31. listopada 2013. (NN 147/2013)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/147/3129",
+"date": "2013-12-10",
+"how": "cite"
+},
+{
+"ref": "nn:2013/147/3130",
+"title": "Rješenje Visokog upravnog suda Republike Hrvatske broj: Usoz-103/2012-19 od 26. studenoga 2013. (NN 147/2013)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/147/3130",
+"date": "2013-12-10",
+"how": "cite"
+},
+{
+"ref": "nn:2013/149/3170",
+"title": "Presuda Visokog upravnog suda Republike Hrvatske broj: Usoz-114/2012-6 od 26. studenoga 2013. (NN 149/2013)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/149/3170",
+"date": "2013-12-12",
+"how": "cite"
+},
+{
+"ref": "nn:2014/7/118",
+"title": "Presuda Visokog upravnog suda Republike Hrvatske broj: Usoz-36/2012-7 od 11. prosinca 2013. (NN 7/2014)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2014/7/118",
+"date": "2014-01-20",
+"how": "cite"
+},
+{
+"ref": "nn:2014/18/358",
+"title": "Rješenje Visokog upravnog suda Republike Hrvatske broj: Usoz-223/2013-4 od 28. siječnja 2014. (NN 18/2014)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2014/18/358",
+"date": "2014-02-11",
+"how": "cite"
+},
+{
+"ref": "nn:2014/18/359",
+"title": "Presuda Visokog upravnog suda Republike Hrvatske broj: Usoz-13/2012-12 od 28. siječnja 2014. (NN 18/2014)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2014/18/359",
+"date": "2014-02-11",
+"how": "cite"
+},
+{
+"ref": "nn:2014/25/462",
+"title": "Odluka Ustavnog suda Republike Hrvatske broj: U-III-2368/2012 od 6. veljače 2014. (NN 25/2014)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2014/25/462",
+"date": "2014-02-24",
+"how": "cite"
+},
+{
+"ref": "nn:2014/31/566",
+"title": "Presuda Visokog upravnog suda Repubike Hrvatske broj: Usoz-146/2012-6 od 21. veljače 2014. (NN 31/2014)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2014/31/566",
+"date": "2014-03-07",
+"how": "cite"
+},
+{
+"ref": "nn:2014/33/609",
+"title": "Presuda Visokog upravnog suda Republike Hrvatske broj: UsII-17/2013-8 od 6. veljače 2014. (NN 33/2014)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2014/33/609",
+"date": "2014-03-14",
+"how": "cite"
+},
+{
+"ref": "nn:2014/35/633",
+"title": "Presuda Upravnog suda u Splitu broj: UsI-1376/12-15 od 27. studenoga 2013. (NN 35/2014)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2014/35/633",
+"date": "2014-03-19",
+"how": "cite"
+},
+{
+"ref": "nn:2014/48/939",
+"title": "Presuda Visokog upravnog suda Republike Hrvatske broj: Usoz-342/2013-6 od 28. ožujka 2014. (NN 48/2014)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2014/48/939",
+"date": "2014-04-17",
+"how": "cite"
+},
+{
+"ref": "nn:2014/48/940",
+"title": "Presuda Visokog upravnog suda Republike Hrvatske broj: Usoz-126/2012-9 od 28. ožujka 2014. (NN 48/2014)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2014/48/940",
+"date": "2014-04-17",
+"how": "cite"
+},
+{
+"ref": "nn:2014/58/1101",
+"title": "Odluka Ustavnog suda Republike Hrvatske broj: U-III-1168/2013 od 17. travnja 2014. (NN 58/2014)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2014/58/1101",
+"date": "2014-05-12",
+"how": "cite"
+},
+{
+"ref": "nn:2014/59/1115",
+"title": "Presuda Visokog upravnog suda Republike Hrvatske broj: Usoz-115/2012-6 od 29. travnja 2014. (NN 59/2014)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2014/59/1115",
+"date": "2014-05-14",
+"how": "cite"
+},
+{
+"ref": "nn:2014/60/1131",
+"title": "Rješenje Visokog upravnog suda Republike Hrvatske broj: UsII-21/2013-8 od 16. travnja 2014. (NN 60/2014)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2014/60/1131",
+"date": "2014-05-16",
+"how": "cite"
+},
+{
+"ref": "nn:2014/74/1402",
+"title": "Presuda Visokog upravnog suda Republike Hrvatske broj Usoz-125/2012-6 od 30. svibnja 2014. (NN 74/2014)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2014/74/1402",
+"date": "2014-06-18",
+"how": "cite"
+},
+{
+"ref": "nn:2014/81/1566",
+"title": "Rješenje Ustavnog suda Republike Hrvatske broj: U-IIIB-2656/2014 od 18. lipnja 2014. (NN 81/2014)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2014/81/1566",
+"date": "2014-07-04",
+"how": "cite"
+},
+{
+"ref": "nn:2014/84/1687",
+"title": "Rješenje Ustavnog suda Republike Hrvatske broj: U-IIIB-2598/2014 od 18. lipnja 2014. (NN 84/2014)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2014/84/1687",
+"date": "2014-07-14",
+"how": "cite"
+},
+{
+"ref": "nn:2014/125/2394",
+"title": "Presuda Upravnog suda u Zagrebu broj: UsI-3391/13-9 od 9. listopada 2014. (NN 125/2014)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2014/125/2394",
+"date": "2014-10-27",
+"how": "cite"
+},
+{
+"ref": "nn:2014/127/2429",
+"title": "Presuda Upravnog suda u Zagrebu poslovni broj: UsI-4302/13-5 od 4. ožujka 2014. (NN 127/2014)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2014/127/2429",
+"date": "2014-10-29",
+"how": "cite"
+},
+{
+"ref": "nn:2014/129/2455",
+"title": "Presuda Upravnog suda u Zagrebu poslovni broj: UsI-3952/13-5 od 1. travnja 2014. (NN 129/2014)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2014/129/2455",
+"date": "2014-11-03",
+"how": "cite"
+},
+{
+"ref": "nn:2014/145/2727",
+"title": "Presuda Upravnog suda u Rijeci broj: 3 UsI-1578/13--16 od 5. rujna 2014. (NN 145/2014)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2014/145/2727",
+"date": "2014-12-08",
+"how": "cite"
+},
+{
+"ref": "nn:2014/145/2729",
+"title": "Presuda Upravnog suda u Rijeci broj: 3 UsI-1723/13-14 od 13. studenoga 2014. (NN 145/2014)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2014/145/2729",
+"date": "2014-12-08",
+"how": "cite"
+},
+{
+"ref": "nn:2015/10/210",
+"title": "Presuda i Rješenje Visokog upravnog suda Republike Hrvatske, broj: Usoz-12/2013-9 od 29. listopada 2014. (NN 10/2015)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2015/10/210",
+"date": "2015-01-28",
+"how": "cite"
+},
+{
+"ref": "nn:2015/10/211",
+"title": "Presuda Visokog upravnog suda Republike Hrvatske, broj: Usoz-96/2012-8 od 28. studenoga 2014. (NN 10/2015)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2015/10/211",
+"date": "2015-01-28",
+"how": "cite"
+},
+{
+"ref": "nn:2015/23/493",
+"title": "Presuda Upravnog suda u Rijeci broj: 3 UsI-1912/13-26 od 28. siječnja 2015. (NN 23/2015)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2015/23/493",
+"date": "2015-02-27",
+"how": "cite"
+},
+{
+"ref": "nn:2015/24/516",
+"title": "Presuda Upravnog suda u Zagrebu broj: UsI-4043/13-7 od 19. veljače 2015. (NN 24/2015)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2015/24/516",
+"date": "2015-03-04",
+"how": "cite"
+},
+{
+"ref": "nn:2015/28/603",
+"title": "Presuda Upravnog suda u Osijeku broj: 7 UsI-1460/14-7 od 10. veljače 2015. (NN 28/2015)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2015/28/603",
+"date": "2015-03-13",
+"how": "cite"
+},
+{
+"ref": "nn:2015/33/688",
+"title": "Presuda Upravnog suda u Rijeci broj: 3 UsI-1724/13-5 od 5. ožujka 2015. (NN 33/2015)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2015/33/688",
+"date": "2015-03-24",
+"how": "cite"
+},
+{
+"ref": "nn:2015/34/719",
+"title": "Presuda Upravnog suda u Rijeci broj: 5 UsI-1159/13-8 od 27. veljače 2015. (NN 34/2015)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2015/34/719",
+"date": "2015-03-25",
+"how": "cite"
+},
+{
+"ref": "nn:2015/36/764",
+"title": "Presuda Visokoga upravnog suda Republike Hrvatske br. Usoz-57/14-6 od 27. veljače 2015. (NN 36/2015)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2015/36/764",
+"date": "2015-03-30",
+"how": "cite"
+},
+{
+"ref": "nn:2015/37/777",
+"title": "Presuda Upravnog suda u Rijeci broj: 2 UsI-1636/13-11 od 26. veljače 2015. (NN 37/2015)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2015/37/777",
+"date": "2015-04-01",
+"how": "cite"
+},
+{
+"ref": "nn:2015/50/993",
+"title": "Presuda Visokog upravnog suda Republike Hrvatske broj: Us-6652/11-6 od 31. ožujka 2015. (NN 50/2015)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2015/50/993",
+"date": "2015-05-08",
+"how": "cite"
+},
+{
+"ref": "nn:2015/53/1040",
+"title": "Presuda Visokoga Upravnog suda Republike Hrvatske br. Usoz-294/13-7 od 27. travnja 2015. (NN 53/2015)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2015/53/1040",
+"date": "2015-05-15",
+"how": "cite"
+},
+{
+"ref": "nn:2015/55/1090",
+"title": "Presuda Visokoga upravnog suda Republike Hrvatske broj: Usoz-328/13-6 od 28. travnja 2015. (NN 55/2015)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2015/55/1090",
+"date": "2015-05-20",
+"how": "cite"
+},
+{
+"ref": "nn:2015/62/1202",
+"title": "Presuda Upravnog suda u Rijeci broj: 3 UsI-164/14-17 od 21. svibnja 2015. (NN 62/2015)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2015/62/1202",
+"date": "2015-06-05",
+"how": "cite"
+},
+{
+"ref": "nn:2015/63/1220",
+"title": "Presuda Upravnog suda u Rijeci broj: 3 UsI-1761/13-16 od 27. ožujka 2015. (NN 63/2015)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2015/63/1220",
+"date": "2015-06-06",
+"how": "cite"
+},
+{
+"ref": "nn:2015/64/1237",
+"title": "Presuda Visokog upravnog suda Republike Hrvatske broj: Us-10637/11-5 od 19. ožujka 2015. (NN 64/2015)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2015/64/1237",
+"date": "2015-06-10",
+"how": "cite"
+},
+{
+"ref": "nn:2015/67/1302",
+"title": "Presuda Visokog upravnog suda Republike Hrvatske broj: UsII-6/15-6 od 29. travnja 2015. (NN 67/2015)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2015/67/1302",
+"date": "2015-06-17",
+"how": "cite"
+},
+{
+"ref": "nn:2015/73/1409",
+"title": "Presuda Visokog upravnog suda Republike Hrvatske broj: UsII-21/15-2 od 29. travnja 2015. (NN 73/2015)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2015/73/1409",
+"date": "2015-07-01",
+"how": "cite"
+},
+{
+"ref": "nn:2015/75/1431",
+"title": "Zakon o izmjenama i dopunama Zakona o službi u oružanim snagama Republike Hrvatske (NN 75/2015)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2015/75/1431",
+"date": "2015-07-08",
+"how": "cite"
+},
+{
+"ref": "nn:2015/76/1463",
+"title": "Odluka Ustavnog suda Republike Hrvatske broj: U-III-864/2011 od 2. lipnja 2015. (NN 76/2015)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2015/76/1463",
+"date": "2015-07-10",
+"how": "cite"
+},
+{
+"ref": "nn:2015/84/1645",
+"title": "Presuda Visokog upravnog suda Republike Hrvatske broj: UsII-16/2013-22 od 2. lipnja 2015. (NN 84/2015)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2015/84/1645",
+"date": "2015-07-29",
+"how": "cite"
+},
+{
+"ref": "nn:2015/84/1646",
+"title": "Presuda Visokog upravnog suda Republike Hrvatske broj: UsII-25/13-8 od 2. lipnja 2015. (NN 84/2015)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2015/84/1646",
+"date": "2015-07-29",
+"how": "cite"
+},
+{
+"ref": "nn:2015/86/1712",
+"title": "Presuda Visokog upravnog suda Republike Hrvatske broj: UsII-22/12-15 od 29. lipnja 2015. (NN 86/2015)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2015/86/1712",
+"date": "2015-08-04",
+"how": "cite"
+},
+{
+"ref": "nn:2015/87/1729",
+"title": "Presuda Visokog upravnog suda Republike Hrvatske broj: Usoz-321/13-8 od 30. lipnja 2015. (NN 87/2015)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2015/87/1729",
+"date": "2015-08-07",
+"how": "cite"
+},
+{
+"ref": "nn:2015/87/1730",
+"title": "Presuda Visokog upravnog suda Republike Hrvatske broj: Usoz-322/13-5 od 30. lipnja 2015. (NN 87/2015)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2015/87/1730",
+"date": "2015-08-07",
+"how": "cite"
+},
+{
+"ref": "nn:2015/89/1755",
+"title": "Presuda Visokog upravnog suda Republike Hrvatske broj: UsII-38/2012-8 od 14. srpnja 2015. (NN 89/2015)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2015/89/1755",
+"date": "2015-08-14",
+"how": "cite"
+},
+{
+"ref": "nn:2015/91/1774",
+"title": "Presuda Visokog upravnog suda Republike Hrvatske broj: UsII-47/2012-12 od 14. srpnja 2015. (NN 91/2015)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2015/91/1774",
+"date": "2015-08-21",
+"how": "cite"
+},
+{
+"ref": "nn:2015/91/1775",
+"title": "Presuda Visokog upravnog suda Republike Hrvatske broj: Us-8922/11-7 od 16. srpnja 2015. (NN 91/2015)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2015/91/1775",
+"date": "2015-08-21",
+"how": "cite"
+},
+{
+"ref": "nn:2015/91/1776",
+"title": "Presuda Upravnog suda u Osijeku broj: 3 UsI-663/15-4 od 16. srpnja 2015. (NN 91/2015)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2015/91/1776",
+"date": "2015-08-21",
+"how": "cite"
+},
+{
+"ref": "nn:2015/94/1824",
+"title": "Presuda Upravnog suda u Splitu broj: UsI - 2228/13-15 od 13. srpnja 2015. (NN 94/2015)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2015/94/1824",
+"date": "2015-09-02",
+"how": "cite"
+},
+{
+"ref": "nn:2015/105/2065",
+"title": "Odluka Ustavnog suda Republike Hrvatske broj: U-IIIA-439/2013 od 2. srpnja 2015. (NN 105/2015)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2015/105/2065",
+"date": "2015-10-02",
+"how": "cite"
+},
+{
+"ref": "nn:2015/112/2174",
+"title": "Presuda Upravnog suda u Zagrebu broj: UsI-4304/13-8 od 9. rujna 2015. (NN 112/2015)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2015/112/2174",
+"date": "2015-10-16",
+"how": "cite"
+},
+{
+"ref": "nn:2015/114/2190",
+"title": "Presuda Upravnog suda u Osijeku broj: 7 UsI-398/15-11 od 29. rujna 2015. (NN 114/2015)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2015/114/2190",
+"date": "2015-10-21",
+"how": "cite"
+},
+{
+"ref": "nn:2015/120/2290",
+"title": "Presuda Visokog upravnog suda Republike Hrvatske broj: UsII-105/13-6 od 27. kolovoza 2015. (NN 120/2015)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2015/120/2290",
+"date": "2015-11-02",
+"how": "cite"
+},
+{
+"ref": "nn:2015/121/2307",
+"title": "Presuda Upravnog suda u Zagrebu broj: UsI-4901/13-15 od 9. rujna 2015. (NN 121/2015)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2015/121/2307",
+"date": "2015-11-04",
+"how": "cite"
+},
+{
+"ref": "nn:2015/122/2331",
+"title": "Presuda Upravnog suda u Zagrebu broj: UsI-1284/14-10 od 10. rujna 2015. (NN 122/2015)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2015/122/2331",
+"date": "2015-11-06",
+"how": "cite"
+},
+{
+"ref": "nn:2015/125/2392",
+"title": "Presuda Visokog upravnog suda Republike Hrvatske broj: UsII-93/14-6 od 7. listopada 2015. (NN 125/2015)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2015/125/2392",
+"date": "2015-11-18",
+"how": "cite"
+},
+{
+"ref": "nn:2015/126/2401",
+"title": "Presuda Visokog upravnog suda Republike Hrvatske broj: UsII-34/13-7 od 15. listopada 2015. (NN 126/2015)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2015/126/2401",
+"date": "2015-11-20",
+"how": "cite"
+},
+{
+"ref": "nn:2015/126/2404",
+"title": "Presuda Visokog upravnog suda Republike Hrvatske broj: UsII-71/14-6 od 22. listopada 2015. (NN 126/2015)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2015/126/2404",
+"date": "2015-11-20",
+"how": "cite"
+},
+{
+"ref": "nn:2016/11/296",
+"title": "Presuda Upravnog suda u Osijeku broj: 2 Usl-1184/15-8 od 19. siječnja 2016. (NN 11/2016)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2016/11/296",
+"date": "2016-02-03",
+"how": "cite"
+},
+{
+"ref": "nn:2016/11/297",
+"title": "Presuda Upravnog suda u Osijeku broj: 2 Usl-1299/15-9 od 19. siječnja 2016. (NN 11/2016)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2016/11/297",
+"date": "2016-02-03",
+"how": "cite"
+},
+{
+"ref": "nn:2016/16/463",
+"title": "Presuda Upravnog suda u Osijeku broj: I UsI-1089/15-9 od 21. siječnja 2016. (NN 16/2016)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2016/16/463",
+"date": "2016-02-19",
+"how": "cite"
+},
+{
+"ref": "nn:2016/17/481",
+"title": "Rješenje Ustavnog suda Republike Hrvatske broj: U-III-4035/2013 i dr. od 26. siječnja 2016. (NN 17/2016)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2016/17/481",
+"date": "2016-02-24",
+"how": "cite"
+},
+{
+"ref": "nn:2016/17/482",
+"title": "Presuda Upravnog suda u Zagrebu broj: UsI-5133/13-10 od 13. siječnja 2016. (NN 17/2016)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2016/17/482",
+"date": "2016-02-24",
+"how": "cite"
+},
+{
+"ref": "nn:2016/18/494",
+"title": "Presuda Upravnog suda u Zagrebu broj: UsI-288/14-6 od 4. veljače 2016. (NN 18/2016)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2016/18/494",
+"date": "2016-02-26",
+"how": "cite"
+},
+{
+"ref": "nn:2016/21/601",
+"title": "Presuda Upravnog suda u Osijeku broj: 2 UsI-1734/15-6 od 1. ožujka 2016. (NN 21/2016)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2016/21/601",
+"date": "2016-03-09",
+"how": "cite"
+},
+{
+"ref": "nn:2016/22/614",
+"title": "Presuda Visokog upravnog suda Republike Hrvatske broj: Usoz-133/15-5 od 23. veljače 2016. (NN 22/2016)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2016/22/614",
+"date": "2016-03-11",
+"how": "cite"
+},
+{
+"ref": "nn:2016/23/656",
+"title": "Presuda Visokog upravnog suda Republike Hrvatske broj: Usoz-150/15-8 od 26. veljače 2016. (NN 23/2016)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2016/23/656",
+"date": "2016-03-16",
+"how": "cite"
+},
+{
+"ref": "nn:2016/23/657",
+"title": "Presuda Upravnog suda u Zagrebu broj: UsI-3519/14-10 od 16. veljače 2016. (NN 23/2016)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2016/23/657",
+"date": "2016-03-16",
+"how": "cite"
+},
+{
+"ref": "nn:2016/24/728",
+"title": "Presuda Upravnog suda u Splitu broj: UsI-2345/13-20 od 12. veljače 2016. (NN 24/2016)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2016/24/728",
+"date": "2016-03-18",
+"how": "cite"
+},
+{
+"ref": "nn:2016/25/771",
+"title": "Odluka Ustavnog suda Republike Hrvatske broj: U-III-5989/2013 od 9. veljače 2016. (NN 25/2016)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2016/25/771",
+"date": "2016-03-23",
+"how": "cite"
+},
+{
+"ref": "nn:2016/27/798",
+"title": "Presuda i Rješenje Visokog upravnog suda Republike Hrvatske broj: Usoz-315/13-10 od 23. veljače 2016. (NN 27/2016)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2016/27/798",
+"date": "2016-03-25",
+"how": "cite"
+},
+{
+"ref": "nn:2016/27/799",
+"title": "Presuda Upravnog suda u Zagrebu broj: UsI-3662/13-20 od 8. rujna 2015. (NN 27/2016)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2016/27/799",
+"date": "2016-03-25",
+"how": "cite"
+},
+{
+"ref": "nn:2016/27/800",
+"title": "Presuda Upravnog suda u Zagrebu broj: UsI-1425/14-15 od 8. prosinca 2015. (NN 27/2016)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2016/27/800",
+"date": "2016-03-25",
+"how": "cite"
+},
+{
+"ref": "nn:2016/33/950",
+"title": "Presuda Upravnog suda u Zagrebu broj: UsI-1494/14-9 od 18. veljače 2016. (NN 33/2016)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2016/33/950",
+"date": "2016-04-15",
+"how": "cite"
+},
+{
+"ref": "nn:2016/34/965",
+"title": "Presuda Upravnog suda u Zagrebu broj: UsI-1495/14-7 od 18. veljače 2016. (NN 34/2016)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2016/34/965",
+"date": "2016-04-18",
+"how": "cite"
+},
+{
+"ref": "nn:2016/36/997",
+"title": "Presuda Upravnog suda u Osijeku broj: 4 UsI-1669/15-9 od 23. ožujka 2016. (NN 36/2016)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2016/36/997",
+"date": "2016-04-20",
+"how": "cite"
+},
+{
+"ref": "nn:2016/40/1059",
+"title": "Presuda Visokog upravnog suda Republike Hrvatske broj: UsII-55/14-9 od 14. travnja 2016. (NN 40/2016)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2016/40/1059",
+"date": "2016-04-30",
+"how": "cite"
+},
+{
+"ref": "nn:2016/43/1132",
+"title": "Presuda Visokog upravnog suda Republike Hrvatske broj: Usoz-26-16-3 od 29. ožujka 2016. 42 (NN 43/2016)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2016/43/1132",
+"date": "2016-05-05",
+"how": "cite"
+},
+{
+"ref": "nn:2016/44/1157",
+"title": "Presuda Upravnog suda u Splitu broj: 3UsI-2475/13-11 od 29. ožujka 2016. (NN 44/2016)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2016/44/1157",
+"date": "2016-05-11",
+"how": "cite"
+},
+{
+"ref": "nn:2016/45/1181",
+"title": "Presuda Upravnog suda u Zagrebu broj: UsI-4029/13-22 od 23. ožujka 2016. (NN 45/2016)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2016/45/1181",
+"date": "2016-05-13",
+"how": "cite"
+},
+{
+"ref": "nn:2016/47/1223",
+"title": "Presuda Upravnog suda u Zagrebu broj: UsI-4029/13-22 od 23. ožujka 2016. (NN 47/2016)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2016/47/1223",
+"date": "2016-05-20",
+"how": "cite"
+},
+{
+"ref": "nn:2016/47/1224",
+"title": "Presuda Upravnog suda u Splitu broj: 3UsI-2229/13-7 od 29. ožujka 2016. (NN 47/2016)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2016/47/1224",
+"date": "2016-05-20",
+"how": "cite"
+},
+{
+"ref": "nn:2016/49/1331",
+"title": "Presuda Visokoga upravnoga suda Republike Hrvatske broj: Usoz-40/16-3 od 29. travnja 2016. (NN 49/2016)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2016/49/1331",
+"date": "2016-05-30",
+"how": "cite"
+},
+{
+"ref": "nn:2016/49/1332",
+"title": "Presuda Upravnog suda u Osijeku broj: UsI-1730/15-9 od 29. travnja 2016. (NN 49/2016)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2016/49/1332",
+"date": "2016-05-30",
+"how": "cite"
+},
+{
+"ref": "nn:2016/56/1453",
+"title": "Presuda Visokog upravnog suda Republike Hrvatske broj: UsII-82/13-5 od 19. svibnja 2016. (NN 56/2016)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2016/56/1453",
+"date": "2016-06-17",
+"how": "cite"
+},
+{
+"ref": "nn:2016/57/1479",
+"title": "Presuda Visokog Upravnog suda Republike Hrvatske broj: UsII-122/13-5 od 4. svibnja 2016. (NN 57/2016)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2016/57/1479",
+"date": "2016-06-21",
+"how": "cite"
+},
+{
+"ref": "nn:2016/58/1495",
+"title": "Presuda Upravnog suda u Zagrebu broj: UsI-1106/14-9 od 27. travnja 2016. (NN 58/2016)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2016/58/1495",
+"date": "2016-06-24",
+"how": "cite"
+},
+{
+"ref": "nn:2016/58/1496",
+"title": "Presuda Upravnog suda u Zagrebu broj: UsI-4455/14-7 od 27. travnja 2016. (NN 58/2016)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2016/58/1496",
+"date": "2016-06-24",
+"how": "cite"
+},
+{
+"ref": "nn:2016/65/1622",
+"title": "Rješenje Visokoga upravnog suda Republike Hrvatske broj: UsII-83/13-6 od 8. lipnja 2016 (NN 65/2016)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2016/65/1622",
+"date": "2016-07-15",
+"how": "cite"
+},
+{
+"ref": "nn:2016/72/1723",
+"title": "Presuda Upravnog suda u Rijeci broj: 3 UsI-1942/14-15 od 14. ožujka 2016. (NN 72/2016)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2016/72/1723",
+"date": "2016-08-06",
+"how": "cite"
+},
+{
+"ref": "nn:2016/73/1748",
+"title": "Presuda Upravnog suda u Rijeci broj: 3 UsI-1180/14-26 od 3. prosinca 2015. (NN 73/2016)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2016/73/1748",
+"date": "2016-08-10",
+"how": "cite"
+},
+{
+"ref": "nn:2016/75/1764",
+"title": "Odluka Ustavnog suda Republike Hrvatske broj: U-III-7108/2014 od 30. lipnja 2016. (NN 75/2016)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2016/75/1764",
+"date": "2016-08-17",
+"how": "cite"
+},
+{
+"ref": "nn:2016/75/1765",
+"title": "Presuda Upravnog suda u Rijeci broj: 7 UsI-1414/13-11 od 14. ožujka 2016. (NN 75/2016)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2016/75/1765",
+"date": "2016-08-17",
+"how": "cite"
+},
+{
+"ref": "nn:2016/76/1781",
+"title": "Presuda Visokog upravnog suda Republike Hrvatske broj: Usoz-36/16-5 od 13. lipnja 2016. (NN 76/2016)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2016/76/1781",
+"date": "2016-08-24",
+"how": "cite"
+},
+{
+"ref": "nn:2016/76/1782",
+"title": "Presuda Visokog upravnog suda Republike Hrvatske broj: Usoz-8/16-7 od 13. lipnja 2016. (NN 76/2016)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2016/76/1782",
+"date": "2016-08-24",
+"how": "cite"
+},
+{
+"ref": "nn:2016/76/1783",
+"title": "Presuda Upravnog suda u Rijeci broj: 2 USI-1510/13-32 od 17. ožujka 2016. (NN 76/2016)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2016/76/1783",
+"date": "2016-08-24",
+"how": "cite"
+},
+{
+"ref": "nn:2016/77/1788",
+"title": "Presuda Visokoga upravnog suda Republike Hrvatske broj: Usoz-39/2016-5 od 13. lipnja 2016. (NN 77/2016)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2016/77/1788",
+"date": "2016-08-26",
+"how": "cite"
+},
+{
+"ref": "nn:2016/79/1810",
+"title": "Presuda Upravnog suda u Rijeci broj: 5 UsI-674/14-11 od 22. srpnja 2016. (NN 79/2016)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2016/79/1810",
+"date": "2016-09-02",
+"how": "cite"
+},
+{
+"ref": "nn:2016/84/1862",
+"title": "Presuda Upravnog suda u Osijeku poslovni broj: 7 UsI-982/16-6 od 31. kolovoza 2016. (NN 84/2016)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2016/84/1862",
+"date": "2016-09-21",
+"how": "cite"
+},
+{
+"ref": "nn:2016/91/1953",
+"title": "Presuda Visokoga upravnog suda Republike Hrvatske broj: Usoz-61/16-7 od 27. rujna 2016. (NN 91/2016)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2016/91/1953",
+"date": "2016-10-12",
+"how": "cite"
+},
+{
+"ref": "nn:2016/94/2008",
+"title": "Odluka i Rješenje Ustavnog suda Republike Hrvatske broj: U-I-2753/2012 i dr. od 27. rujna 2016. (NN 94/2016)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2016/94/2008",
+"date": "2016-10-19",
+"how": "cite"
+},
+{
+"ref": "nn:2016/99/2093",
+"title": "Presuda Visokoga upravnog suda Republike Hrvatske broj: UsII-124/16-6 od 22. rujna 2016. (NN 99/2016)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2016/99/2093",
+"date": "2016-10-27",
+"how": "cite"
+},
+{
+"ref": "nn:2016/101/2170",
+"title": "Presuda Visokog upravnog suda Republike Hrvatske broj: UsII-188/15-11 od 28. rujna 2016. (NN 101/2016)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2016/101/2170",
+"date": "2016-11-04",
+"how": "cite"
+},
+{
+"ref": "nn:2016/108/2350",
+"title": "Presuda Visokog upravnog suda Republike Hrvatske broj: Usoz-3/16-7 od 28. listopada 2016. (NN 108/2016)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2016/108/2350",
+"date": "2016-11-23",
+"how": "cite"
+},
+{
+"ref": "nn:2016/108/2351",
+"title": "Presuda Visokog upravnog suda Republike Hrvatske broj: Usoz-13/16-7 od 28. listopada 2016. (NN 108/2016)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2016/108/2351",
+"date": "2016-11-23",
+"how": "cite"
+},
+{
+"ref": "nn:2016/109/2373",
+"title": "Presuda Visokog upravnog suda Republike Hrvatske broj: Usoz-95/16-3 od 28. listopada 2016. (NN 109/2016)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2016/109/2373",
+"date": "2016-11-25",
+"how": "cite"
+},
+{
+"ref": "nn:2016/113/2509",
+"title": "Presuda Upravnog suda u Rijeci broj: 7 UsI-1709/15-5 od 16. studenoga 2016. (NN 113/2016)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2016/113/2509",
+"date": "2016-12-07",
+"how": "cite"
+},
+{
+"ref": "nn:2016/121/2675",
+"title": "Presuda Upravnog suda u Osijeku broj: UsI-916/16-9 od 12. prosinca 2016. (NN 121/2016)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2016/121/2675",
+"date": "2016-12-23",
+"how": "cite"
+},
+{
+"ref": "nn:2017/2/76",
+"title": "Presuda Upravnog suda u Splitu broj: 14 UsI-51/14-19 od 11. studenoga 2016. (NN 2/2017)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/2/76",
+"date": "2017-01-04",
+"how": "cite"
+},
+{
+"ref": "nn:2017/5/190",
+"title": "Presuda Upravnog suda u Osijeku broj: UsI-499/16-18 od 9. prosinca 2016. (NN 5/2017)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/5/190",
+"date": "2017-01-18",
+"how": "cite"
+},
+{
+"ref": "nn:2017/9/279",
+"title": "Presuda Visokog upravnog suda Republike Hrvatske broj: UsII-53/16-7 od 1. prosinca 2016. (NN 9/2017)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/9/279",
+"date": "2017-02-01",
+"how": "cite"
+},
+{
+"ref": "nn:2017/9/280",
+"title": "Presuda Visokog upravnog suda Republike Hrvatske broj: UsII-51/16-6 od 1. prosinca 2016. (NN 9/2017)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/9/280",
+"date": "2017-02-01",
+"how": "cite"
+},
+{
+"ref": "nn:2017/10/291",
+"title": "Presuda Visokog upravnog suda Republike Hrvatske broj: Usoz-86/16-5 od 21. prosinca 2016. (NN 10/2017)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/10/291",
+"date": "2017-02-03",
+"how": "cite"
+},
+{
+"ref": "nn:2017/15/362",
+"title": "Presuda Upravnog suda u Splitu broj: 3 UsI-274/14-8 od 26. siječnja 2017. (NN 15/2017)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/15/362",
+"date": "2017-02-17",
+"how": "cite"
+},
+{
+"ref": "nn:2017/27/624",
+"title": "Presuda Visokog upravnog suda Republike Hrvatske broj: UsII-169/16-7 od 12. siječnja 2017. (NN 27/2017)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/27/624",
+"date": "2017-03-24",
+"how": "cite"
+},
+{
+"ref": "nn:2017/28/655",
+"title": "Presuda Visokog upravnog suda Republike Hrvatske broj: Usoz-125/16-5 od 28. veljače 2017. (NN 28/2017)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/28/655",
+"date": "2017-03-29",
+"how": "cite"
+},
+{
+"ref": "nn:2017/29/670",
+"title": "Presuda Visokog upravnog suda Republike Hrvatske broj: UsII-174/16-6 od 25. siječnja 2017. (NN 29/2017)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/29/670",
+"date": "2017-03-31",
+"how": "cite"
+},
+{
+"ref": "nn:2017/29/671",
+"title": "Presuda Visokog upravnog suda Republike Hrvatske broj: Usoz-120/16-5 od 28. veljače 2017. (NN 29/2017)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/29/671",
+"date": "2017-03-31",
+"how": "cite"
+},
+{
+"ref": "nn:2017/29/672",
+"title": "Presuda Visokog upravnog suda Republike Hrvatske broj: Usoz-20/17-4 od 28. veljače 2017. (NN 29/2017)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/29/672",
+"date": "2017-03-31",
+"how": "cite"
+},
+{
+"ref": "nn:2017/29/673",
+"title": "Presuda Visokog upravnog suda Republike Hrvatske broj: UsII-140/16-6 od 2. ožujka 2017. (NN 29/2017)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/29/673",
+"date": "2017-03-31",
+"how": "cite"
+},
+{
+"ref": "nn:2017/31/706",
+"title": "Presuda Visokog upravnog suda Republike Hrvatske broj: UsII-168/16-6 od 18. siječnja 2017. (NN 31/2017)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/31/706",
+"date": "2017-04-05",
+"how": "cite"
+},
+{
+"ref": "nn:2017/44/1045",
+"title": "Presuda Visokog upravnog suda Republike Hrvatske broj: Usoz-63/16-5 od 28. veljače 2017. (NN 44/2017)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/44/1045",
+"date": "2017-05-05",
+"how": "cite"
+},
+{
+"ref": "nn:2017/45/1064",
+"title": "Rješenje Ustavnog suda Republike Hrvatske broj: U-I-1898/2014 od 4. travnja 2017. (NN 45/2017)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/45/1064",
+"date": "2017-05-10",
+"how": "cite"
+},
+{
+"ref": "nn:2017/45/1065",
+"title": "Presuda Visokog upravnog suda Republike Hrvatske broj: UsII-170/16-6 od 15. veljače 2017. (NN 45/2017)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/45/1065",
+"date": "2017-05-10",
+"how": "cite"
+},
+{
+"ref": "nn:2017/46/1091",
+"title": "Presuda Visokog upravnog suda Republike Hrvatske broj: Usoz-73/16-11 od 28. veljače 2017. (NN 46/2017)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/46/1091",
+"date": "2017-05-12",
+"how": "cite"
+},
+{
+"ref": "nn:2017/53/1215",
+"title": "Presuda Upravnog suda u Rijeci broj: 6 UsI-1158/15-15 od 27. siječnja 2017. (NN 53/2017)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/53/1215",
+"date": "2017-06-07",
+"how": "cite"
+},
+{
+"ref": "nn:2017/53/1216",
+"title": "Presuda Upravnog suda u Rijeci broj: 6 UsI-1695/15-11 od 27. siječnja 2017. (NN 53/2017)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/53/1216",
+"date": "2017-06-07",
+"how": "cite"
+},
+{
+"ref": "nn:2017/55/1228",
+"title": "Presuda Upravnog suda u Rijeci broj: 10 USI-799/15-17 od 30. siječnja 2017. (NN 55/2017)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/55/1228",
+"date": "2017-06-09",
+"how": "cite"
+},
+{
+"ref": "nn:2017/55/1229",
+"title": "Presuda Upravnog suda u Rijeci broj: 10 UsI-683/14-13 od 3. veljače 2017. (NN 55/2017)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/55/1229",
+"date": "2017-06-09",
+"how": "cite"
+},
+{
+"ref": "nn:2017/59/1326",
+"title": "Presuda Visokog upravnog suda Republike Hrvatske broj: UsII-213/16-10 od 30. ožujka 2017. (NN 59/2017)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/59/1326",
+"date": "2017-06-21",
+"how": "cite"
+},
+{
+"ref": "nn:2017/59/1327",
+"title": "Presuda Upravnog suda u Zagrebu broj: UsI-2602/15-8 od 28. ožujka 2017. (NN 59/2017)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/59/1327",
+"date": "2017-06-21",
+"how": "cite"
+},
+{
+"ref": "nn:2017/61/1428",
+"title": "Presuda i Rješenje Visokog upravnog suda Republike Hrvatske broj: Usoz-79/16-5 od 28. ožujka 2017. (NN 61/2017)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/61/1428",
+"date": "2017-06-28",
+"how": "cite"
+},
+{
+"ref": "nn:2017/62/1450",
+"title": "Presuda Visokog upravnog suda Republike Hrvatske broj: UsII-195/16-6 od 5. travnja 2017. (NN 62/2017)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/62/1450",
+"date": "2017-06-30",
+"how": "cite"
+},
+{
+"ref": "nn:2017/62/1451",
+"title": "Presuda Visokog upravnog suda Republike Hrvatske broj: UsII-214/16-5 od 5. travnja 2017. (NN 62/2017)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/62/1451",
+"date": "2017-06-30",
+"how": "cite"
+},
+{
+"ref": "nn:2017/62/1452",
+"title": "Presuda Visokog upravnog suda Republike Hrvatske broj: UsII-216/16-9 od 13. travnja 2017. (NN 62/2017)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/62/1452",
+"date": "2017-06-30",
+"how": "cite"
+},
+{
+"ref": "nn:2017/64/1487",
+"title": "Presuda Upravnog suda u Rijeci broj: 10 UsI-846/15-27 od 20. ožujka 2017. (NN 64/2017)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/64/1487",
+"date": "2017-07-05",
+"how": "cite"
+},
+{
+"ref": "nn:2017/64/1488",
+"title": "Presuda Upravnog suda u Rijeci broj: 10 UsI-1192/15-21 od 5. lipnja 2017. (NN 64/2017)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/64/1488",
+"date": "2017-07-05",
+"how": "cite"
+},
+{
+"ref": "nn:2017/64/1489",
+"title": "Presuda Upravnog suda u Rijeci broj: 10 UsI-1333/16-14 od 5. lipnja 2017. (NN 64/2017)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/64/1489",
+"date": "2017-07-05",
+"how": "cite"
+},
+{
+"ref": "nn:2017/64/1490",
+"title": "Presuda Upravnog suda u Rijeci broj: 10 UsI-627/16-13 od 9. lipnja 2017. (NN 64/2017)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/64/1490",
+"date": "2017-07-05",
+"how": "cite"
+},
+{
+"ref": "nn:2017/64/1491",
+"title": "Presuda Upravnog suda u Rijeci broj: 5 UsI-626/16-9 od 9. lipnja 2017. (NN 64/2017)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/64/1491",
+"date": "2017-07-05",
+"how": "cite"
+},
+{
+"ref": "nn:2017/71/1708",
+"title": "Presuda Visokog upravnog suda Republike Hrvatske broj: Usoz-10/17-5 od 30. svibnja 2017. (NN 71/2017)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/71/1708",
+"date": "2017-07-20",
+"how": "cite"
+},
+{
+"ref": "nn:2017/71/1709",
+"title": "Presuda Visokog upravnog suda Republike Hrvatske broj: Usoz-49/17-5 od 30. svibnja 2017. (NN 71/2017)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/71/1709",
+"date": "2017-07-20",
+"how": "cite"
+},
+{
+"ref": "nn:2017/76/1901",
+"title": "Presuda Visokog upravnog suda Republike Hrvatske broj: Usoz-136/16-5 od 30. svibnja 2017. (NN 76/2017)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/76/1901",
+"date": "2017-08-02",
+"how": "cite"
+},
+{
+"ref": "nn:2017/76/1902",
+"title": "Presuda Visokog upravnog suda Republike Hrvatske broj: UsII-196/16-8 od 8. lipnja 2017. (NN 76/2017)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/76/1902",
+"date": "2017-08-02",
+"how": "cite"
+},
+{
+"ref": "nn:2017/76/1903",
+"title": "Presuda Upravnog suda u Zagrebu broj: UsI-1153/15-10 od 27. travnja 2017. (NN 76/2017)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/76/1903",
+"date": "2017-08-02",
+"how": "cite"
+},
+{
+"ref": "nn:2017/77/1914",
+"title": "Presuda Visokog upravnog suda Republike Hrvatske broj: UsII-79/17-8 od 5. srpnja 2017. (NN 77/2017)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/77/1914",
+"date": "2017-08-04",
+"how": "cite"
+},
+{
+"ref": "nn:2017/78/1958",
+"title": "Presuda Upravnog suda u Rijeci broj: 6 UsI-573/16-13 od 26. svibnja 2017. (NN 78/2017)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/78/1958",
+"date": "2017-08-09",
+"how": "cite"
+},
+{
+"ref": "nn:2017/78/1959",
+"title": "Presuda Upravnog suda u Rijeci broj: 10 UsI-1315/15-10 od 19. lipnja 2017. (NN 78/2017)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/78/1959",
+"date": "2017-08-09",
+"how": "cite"
+},
+{
+"ref": "nn:2017/79/1972",
+"title": "Presuda Upravnog suda u Rijeci broj: 10 UsI-896/15-13 od 19. lipnja 2017. (NN 79/2017)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/79/1972",
+"date": "2017-08-11",
+"how": "cite"
+},
+{
+"ref": "nn:2017/79/1973",
+"title": "Presuda Upravnog suda u Rijeci broj: 10 UsI-1276/15-12 od 19. lipnja 2017. (NN 79/2017)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/79/1973",
+"date": "2017-08-11",
+"how": "cite"
+},
+{
+"ref": "nn:2017/100/2315",
+"title": "Presuda Visokoga upravnog suda Republike Hrvatske broj: UsII-12/17-11 od 12. srpnja 2017. (NN 100/2017)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/100/2315",
+"date": "2017-10-11",
+"how": "cite"
+},
+{
+"ref": "nn:2017/100/2316",
+"title": "Presuda Visokoga upravnog suda Republike Hrvatske broj: UsII-59/17-7 od 12. srpnja 2017. (NN 100/2017)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/100/2316",
+"date": "2017-10-11",
+"how": "cite"
+},
+{
+"ref": "nn:2017/100/2317",
+"title": "Presuda Visokoga upravnog suda Republike Hrvatske broj: UsII-156/17-9 od 7. rujna 2017. (NN 100/2017)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/100/2317",
+"date": "2017-10-11",
+"how": "cite"
+},
+{
+"ref": "nn:2017/101/2340",
+"title": "Presuda Visokoga upravnog suda Republike Hrvatske broj: UsII-115/17-4 od 19. srpnja 2017. (NN 101/2017)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/101/2340",
+"date": "2017-10-12",
+"how": "cite"
+},
+{
+"ref": "nn:2017/102/2359",
+"title": "Presuda Visokog upravnog suda Republike Hrvatske broj: UsII-82/17-7 od 31. kolovoza 2017. (NN 102/2017)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/102/2359",
+"date": "2017-10-18",
+"how": "cite"
+},
+{
+"ref": "nn:2017/102/2363",
+"title": "Presuda Visokog upravnog suda Republike Hrvatske broj: UsII-63/17-6 od 7. rujna 2017. (NN 102/2017)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/102/2363",
+"date": "2017-10-18",
+"how": "cite"
+},
+{
+"ref": "nn:2017/102/2364",
+"title": "Presuda Visokog upravnog suda Republike Hrvatske broj: UsII-95/17-11 od 7. rujna 2017. (NN 102/2017)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/102/2364",
+"date": "2017-10-18",
+"how": "cite"
+},
+{
+"ref": "nn:2017/103/2380",
+"title": "Presuda Visokog upravnog suda Republike Hrvatske broj Usoz-44/17-7 od 27. rujna 2017. (NN 103/2017)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/103/2380",
+"date": "2017-10-20",
+"how": "cite"
+},
+{
+"ref": "nn:2017/103/2381",
+"title": "Presuda Visokog upravnog suda Republike Hrvatske broj: UsII-18/17-7 od 7. rujna 2017. (NN 103/2017)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/103/2381",
+"date": "2017-10-20",
+"how": "cite"
+},
+{
+"ref": "nn:2017/106/2428",
+"title": "Presuda Visokog upravnog suda Republike Hrvatske broj: UsII-9/17-5 od 28. lipnja 2017. (NN 106/2017)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/106/2428",
+"date": "2017-10-31",
+"how": "cite"
+},
+{
+"ref": "nn:2017/109/2569",
+"title": "Presuda Visokog upravnog suda Republike Hrvatske broj: UsII-70/17-10 od 18. kolovoza 2017. (NN 109/2017)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/109/2569",
+"date": "2017-11-10",
+"how": "cite"
+},
+{
+"ref": "nn:2017/110/2606",
+"title": "Presuda Visokog upravnog suda Republike Hrvatske broj: UsII-114/17-7 od 7. rujna 2017. (NN 110/2017)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/110/2606",
+"date": "2017-11-15",
+"how": "cite"
+},
+{
+"ref": "nn:2017/110/2611",
+"title": "Presuda Upravnog suda u Splitu broj 10 UsI-345/16-10 od 10. travnja 2017. (NN 110/2017)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/110/2611",
+"date": "2017-11-15",
+"how": "cite"
+},
+{
+"ref": "nn:2017/112/2633",
+"title": "Presuda Visokog upravnog suda Republike Hrvatske broj: UsII-87/17-8 od 6. rujna 2017. (NN 112/2017)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/112/2633",
+"date": "2017-11-17",
+"how": "cite"
+},
+{
+"ref": "nn:2017/114/2673",
+"title": "Presuda Upravnog suda u Rijeci broj: 10 UsI-944/16-12 od 24. srpnja 2016. (NN 114/2017)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/114/2673",
+"date": "2017-11-22",
+"how": "cite"
+},
+{
+"ref": "nn:2017/114/2674",
+"title": "Presuda Upravnog suda u Rijeci broj: 10 UsI-1203/16-12 od 18. rujna 2017. (NN 114/2017)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/114/2674",
+"date": "2017-11-22",
+"how": "cite"
+},
+{
+"ref": "nn:2017/114/2675",
+"title": "Presuda Upravnog suda u Rijeci broj: 6 UsI-953/16-16 od 6. listopada 2017. (NN 114/2017)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/114/2675",
+"date": "2017-11-22",
+"how": "cite"
+},
+{
+"ref": "nn:2017/116/2701",
+"title": "Presuda Visokog upravnog suda Republike Hrvatske broj: UsII-104/17-9 od 22. rujna 2017. (NN 116/2017)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/116/2701",
+"date": "2017-11-24",
+"how": "cite"
+},
+{
+"ref": "nn:2017/117/2719",
+"title": "Presuda Visokog upravnog suda Republike Hrvatske broj: UsII-130/17-7 od 6. rujna 2017. (NN 117/2017)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/117/2719",
+"date": "2017-11-29",
+"how": "cite"
+},
+{
+"ref": "nn:2017/119/2754",
+"title": "Presuda Visokog upravnog suda Republike Hrvatske broj: UsII-202/16-9 od 26. listopada 2017. (NN 119/2017)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/119/2754",
+"date": "2017-12-01",
+"how": "cite"
+},
+{
+"ref": "nn:2017/126/2872",
+"title": "Presuda Visokog upravnog suda Republike Hrvatske broj: UsII-72/17-9 od 6. rujna 2017. (NN 126/2017)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/126/2872",
+"date": "2017-12-18",
+"how": "cite"
+},
+{
+"ref": "nn:2018/1/44",
+"title": "Presuda Visokog upravnog suda Republike Hrvatske broj: UsII-106/17-8 od 21. rujna 2017. (NN 1/2018)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2018/1/44",
+"date": "2018-01-03",
+"how": "cite"
+},
+{
+"ref": "nn:2018/2/103",
+"title": "Presuda Upravnog suda u Zagrebu broj: 18.UsI-3464/16-15 od 30. listopada 2017. (NN 2/2018)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2018/2/103",
+"date": "2018-01-05",
+"how": "cite"
+},
+{
+"ref": "nn:2018/2/104",
+"title": "Presuda Upravnog suda u Rijeci broj: 6 UsI-1156/16-12 od 3. studenoga 2017. (NN 2/2018)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2018/2/104",
+"date": "2018-01-05",
+"how": "cite"
+},
+{
+"ref": "nn:2018/4/147",
+"title": "Presuda Visokog upravnog suda Republike Hrvatske broj: Usoz-104/17-5 od 28. studenoga 2017. (NN 4/2018)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2018/4/147",
+"date": "2018-01-11",
+"how": "cite"
+},
+{
+"ref": "nn:2018/4/148",
+"title": "Presuda Upravnog suda u Osijeku broj: 2 UsI-939/17-7 od 21. prosinca 2017. (NN 4/2018)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2018/4/148",
+"date": "2018-01-11",
+"how": "cite"
+},
+{
+"ref": "nn:2018/17/368",
+"title": "Presuda Visokog upravnog suda Republike Hrvatske broj: UsII-13/17-7 od 13. prosinca 2017. (NN 17/2018)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2018/17/368",
+"date": "2018-02-21",
+"how": "cite"
+},
+{
+"ref": "nn:2018/17/369",
+"title": "Presuda Visokog upravnog suda Republike Hrvatske broj: UsII-54/17-7 od 13. prosinca 2017. (NN 17/2018)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2018/17/369",
+"date": "2018-02-21",
+"how": "cite"
+},
+{
+"ref": "nn:2018/17/370",
+"title": "Presuda Visokog upravnog suda Republike Hrvatske broj: UsII-90/17-6 od 13. prosinca 2017. (NN 17/2018)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2018/17/370",
+"date": "2018-02-21",
+"how": "cite"
+},
+{
+"ref": "nn:2018/17/371",
+"title": "Presuda Visokog upravnog suda Republike Hrvatske broj: Usoz-30/17-9 od 21. prosinca 2017. (NN 17/2018)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2018/17/371",
+"date": "2018-02-21",
+"how": "cite"
+},
+{
+"ref": "nn:2018/18/390",
+"title": "Presuda Visokog upravnog suda Republike Hrvatske broj: UsII-88/17-9 od 13. prosinca 2017. (NN 18/2018)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2018/18/390",
+"date": "2018-02-23",
+"how": "cite"
+},
+{
+"ref": "nn:2018/18/391",
+"title": "Presuda Visokog upravnog suda Republike Hrvatske broj: UsII-132/17-6 od 13. prosinca 2017. (NN 18/2018)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2018/18/391",
+"date": "2018-02-23",
+"how": "cite"
+},
+{
+"ref": "nn:2018/18/392",
+"title": "Presuda Visokog upravnog suda Republike Hrvatske broj: UsII-96/17-7 od 11. siječnja 2018. (NN 18/2018)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2018/18/392",
+"date": "2018-02-23",
+"how": "cite"
+},
+{
+"ref": "nn:2018/20/415",
+"title": "Presuda Upravnog suda u Osijeku, klasa: UsI-821/17-15 od 26. siječnja 2018. (NN 20/2018)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2018/20/415",
+"date": "2018-03-01",
+"how": "cite"
+},
+{
+"ref": "nn:2018/22/438",
+"title": "Presuda Visokog upravnog suda Republike Hrvatske broj: UsII-113/17-8 od 14. prosinca 2017. (NN 22/2018)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2018/22/438",
+"date": "2018-03-06",
+"how": "cite"
+},
+{
+"ref": "nn:2018/22/439",
+"title": "Presuda Visokog upravnog suda Republike Hrvatske broj: Usoz-34/17-9 od 30. siječnja 2018. (NN 22/2018)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2018/22/439",
+"date": "2018-03-06",
+"how": "cite"
+},
+{
+"ref": "nn:2018/24/474",
+"title": "Rješenje Upravnog suda u Zagrebu broj:UsI-2571/17-4 od 13. veljače 2018. (NN 24/2018)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2018/24/474",
+"date": "2018-03-09",
+"how": "cite"
+},
+{
+"ref": "nn:2018/31/633",
+"title": "Odluka Ustavnog suda Republike Hrvatske broj: U-III-6958/2014 od 27. veljače 2018. (NN 31/2018)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2018/31/633",
+"date": "2018-04-04",
+"how": "cite"
+},
+{
+"ref": "nn:2018/34/671",
+"title": "Presuda Upravnog suda u Zagrebu, poslovni broj: UsI-2084/15-9 od 8. ožujka 2018. (NN 34/2018)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2018/34/671",
+"date": "2018-04-11",
+"how": "cite"
+},
+{
+"ref": "nn:2018/36/708",
+"title": "Presuda Visokog upravnog suda Republike Hrvatske broj: UsII-301/17-6 od 18. siječnja 2018. (NN 36/2018)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2018/36/708",
+"date": "2018-04-18",
+"how": "cite"
+},
+{
+"ref": "nn:2018/37/721",
+"title": "Presuda Visokog upravnog suda Republike Hrvatske broj: Usoz-74/16-7 od 28. veljače 2018. (NN 37/2018)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2018/37/721",
+"date": "2018-04-20",
+"how": "cite"
+},
+{
+"ref": "nn:2018/39/761",
+"title": "Presuda Visokog upravnog suda Republike Hrvatske broj: Usoz-22/2017-12 od 27. ožujka 2018. (NN 39/2018)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2018/39/761",
+"date": "2018-04-27",
+"how": "cite"
+},
+{
+"ref": "nn:2018/45/858",
+"title": "Rješenje Upravnog suda u Zagrebu broj: UsI-1817/15-13 od 13. ožujka 2018. (NN 45/2018)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2018/45/858",
+"date": "2018-05-16",
+"how": "cite"
+},
+{
+"ref": "nn:2018/47/905",
+"title": "Presuda Visokog upravnog suda Republike Hrvatske broj: Usoz-123/16-7 od 30. siječnja 2018. (NN 47/2018)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2018/47/905",
+"date": "2018-05-23",
+"how": "cite"
+},
+{
+"ref": "nn:2018/49/990",
+"title": "Presuda Visokog upravnog suda Republike Hrvatske broj: UsII-105/17-5 od 15. ožujka 2018. (NN 49/2018)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2018/49/990",
+"date": "2018-05-30",
+"how": "cite"
+},
+{
+"ref": "nn:2018/51/1021",
+"title": "Presuda Visokog upravnog suda Republike Hrvatske broj: UsII-315/17-7 od 20. travnja 2018. (NN 51/2018)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2018/51/1021",
+"date": "2018-06-04",
+"how": "cite"
+},
+{
+"ref": "nn:2018/52/1032",
+"title": "Presuda Upravnog suda u Zagrebu broj: UsI-471/16-14 od 26. travnja 2018. (NN 52/2018)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2018/52/1032",
+"date": "2018-06-06",
+"how": "cite"
+},
+{
+"ref": "nn:2018/54/1092",
+"title": "Presuda Upravnog suda u Rijeci, broj: 10 UsI-1075/17-21 od 9. travnja 2018. (NN 54/2018)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2018/54/1092",
+"date": "2018-06-13",
+"how": "cite"
+},
+{
+"ref": "nn:2018/54/1093",
+"title": "Presuda Upravnog suda u Rijeci, broj: 5 UsI-1436/17-20 od 11. svibnja 2018. (NN 54/2018)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2018/54/1093",
+"date": "2018-06-13",
+"how": "cite"
+},
+{
+"ref": "nn:2018/56/1153",
+"title": "Presuda Upravnog suda u Splitu broj: 14 UsI-395/17-9 od 11. svibnja 2018. (NN 56/2018)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2018/56/1153",
+"date": "2018-06-20",
+"how": "cite"
+},
+{
+"ref": "nn:2018/57/1184",
+"title": "Rješenje Upravnog suda u Zagrebu broj: UsI-1616/15-9 od 4. lipnja 2018. (NN 57/2018)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2018/57/1184",
+"date": "2018-06-27",
+"how": "cite"
+},
+{
+"ref": "nn:2018/64/1328",
+"title": "Presuda Visokog upravnog suda Republike Hrvatske broj: UsII-166/18-6 od 7. lipnja 2018. (NN 64/2018)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2018/64/1328",
+"date": "2018-07-18",
+"how": "cite"
+},
+{
+"ref": "nn:2018/67/1388",
+"title": "Presuda Upravnog suda u Splitu broj: 10 UsI-133/17-7 od 25. svibnja 2018. (NN 67/2018)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2018/67/1388",
+"date": "2018-07-25",
+"how": "cite"
+},
+{
+"ref": "nn:2018/68/1408",
+"title": "Presuda Visokog upravnog suda Republike Hrvatske broj: UsII-45-18-6 od 16. svibnja 2018. (NN 68/2018)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2018/68/1408",
+"date": "2018-07-27",
+"how": "cite"
+},
+{
+"ref": "nn:2018/71/1465",
+"title": "Presuda Upravnog suda u Rijeci poslovni broj: 10 UsI-1609/17-14 od 4. lipnja 2018. (NN 71/2018)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2018/71/1465",
+"date": "2018-08-04",
+"how": "cite"
+},
+{
+"ref": "nn:2018/74/1541",
+"title": "Presuda Visokog upravnog suda Republike Hrvatske broj: Usoz-125/17-5 od 4. srpnja 2018. (NN 74/2018)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2018/74/1541",
+"date": "2018-08-17",
+"how": "cite"
+},
+{
+"ref": "nn:2018/74/1542",
+"title": "Presuda Visokog upravnog suda Republike Hrvatske broj: UsII-41/18-6 od 11. srpnja 2018. (NN 74/2018)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2018/74/1542",
+"date": "2018-08-17",
+"how": "cite"
+},
+{
+"ref": "nn:2018/74/1543",
+"title": "Presuda Upravnog suda u Rijeci broj: 10 UsI-426/18-20 od 12. srpnja 2018. (NN 74/2018)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2018/74/1543",
+"date": "2018-08-17",
+"how": "cite"
+},
+{
+"ref": "nn:2018/76/1561",
+"title": "Presuda Upravnog suda u Rijeci broj: 10 UsI-445/18-14 od 18. srpnja 2018. (NN 76/2018)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2018/76/1561",
+"date": "2018-08-24",
+"how": "cite"
+},
+{
+"ref": "nn:2018/82/1647",
+"title": "Presuda Upravnog suda u Splitu broj: 14 UsI-377/17-14 od 31. kolovoza 2018. (NN 82/2018)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2018/82/1647",
+"date": "2018-09-14",
+"how": "cite"
+},
+{
+"ref": "nn:2018/88/1746",
+"title": "Presuda Upravnog suda u Rijeci broj: 10 UsI-319/18-20 od 21. rujna 2018. (NN 88/2018)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2018/88/1746",
+"date": "2018-10-03",
+"how": "cite"
+},
+{
+"ref": "nn:2018/89/1755",
+"title": "Presuda Visokog upravnog suda Republike Hrvatske broj: UsII-32/18-6 od 18. srpnja 2018. (NN 89/2018)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2018/89/1755",
+"date": "2018-10-05",
+"how": "cite"
+},
+{
+"ref": "nn:2018/90/1761",
+"title": "Presuda Visokog upravnog suda Republike Hrvatske broj: UsII-75/18-6 od 12. rujna 2018. (NN 90/2018)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2018/90/1761",
+"date": "2018-10-10",
+"how": "cite"
+},
+{
+"ref": "nn:2018/90/1762",
+"title": "Presuda Visokog upravnog suda Republike Hrvatske broj: UsII-146/18-6 od 12. rujna 2018. (NN 90/2018)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2018/90/1762",
+"date": "2018-10-10",
+"how": "cite"
+},
+{
+"ref": "nn:2018/90/1763",
+"title": "Presuda Visokog upravnog suda Republike Hrvatske broj: UsII-10/18-7 od 12. rujna 2018. (NN 90/2018)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2018/90/1763",
+"date": "2018-10-10",
+"how": "cite"
+},
+{
+"ref": "nn:2018/92/1803",
+"title": "Presuda Upravnog suda u Zagrebu, broj: UsI-2798/15-8 od 11. travnja 2017. (NN 92/2018)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2018/92/1803",
+"date": "2018-10-17",
+"how": "cite"
+},
+{
+"ref": "nn:2018/93/1814",
+"title": "Presuda Visokog upravnog suda Republike Hrvatske broj: UsII-100/18-7 od 7. lipnja 2018. (NN 93/2018)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2018/93/1814",
+"date": "2018-10-19",
+"how": "cite"
+},
+{
+"ref": "nn:2018/93/1815",
+"title": "Presuda Visokog upravnog suda Republike Hrvatske broj: UsII-93/18-7 od 25. rujna 2018. (NN 93/2018)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2018/93/1815",
+"date": "2018-10-19",
+"how": "cite"
+},
+{
+"ref": "nn:2018/95/1850",
+"title": "Presuda Visokog upravnog suda Republike Hrvatske, poslovni broj: UsII-113/18-7 od 22. kolovoza 2018. (NN 95/2018)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2018/95/1850",
+"date": "2018-10-26",
+"how": "cite"
+},
+{
+"ref": "nn:2018/110/2139",
+"title": "Presuda Visokog upravnog suda Republike Hrvatske broj: Usoz-23/18-6 od 30. listopada 208. (NN 110/2018)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2018/110/2139",
+"date": "2018-12-07",
+"how": "cite"
+},
+{
+"ref": "nn:2018/110/2140",
+"title": "Presuda Visokog upravnog suda Republike Hrvatske broj: Usoz-51/18-6 od 30. listopada 2018. (NN 110/2018)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2018/110/2140",
+"date": "2018-12-07",
+"how": "cite"
+},
+{
+"ref": "nn:2018/110/2141",
+"title": "Presuda Visokog upravnog suda Republike Hrvatske broj: Usoz-30/18-6 od 30. listopada 2018. (NN 110/2018)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2018/110/2141",
+"date": "2018-12-07",
+"how": "cite"
+},
+{
+"ref": "nn:2018/112/2190",
+"title": "Presuda Upravnog suda u Zagrebu, broj: UsI-3774/15-19 od 24. listopada 2018. (NN 112/2018)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2018/112/2190",
+"date": "2018-12-14",
+"how": "cite"
+},
+{
+"ref": "nn:2018/120/2437",
+"title": "Presuda Upravnog suda u Osijeku broj: UsI-378/18-20 od 29. studenoga 2018. (NN 120/2018)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2018/120/2437",
+"date": "2018-12-31",
+"how": "cite"
+},
+{
+"ref": "nn:2019/2/47",
+"title": "Presuda Visokog upravnog suda Republike Hrvatske broj UsII-242/18-9 od 5. prosinca 2018. (NN 2/2019)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2019/2/47",
+"date": "2019-01-04",
+"how": "cite"
+},
+{
+"ref": "nn:2019/2/48",
+"title": "Presuda Upravnog suda u Rijeci poslovni broj: 10 UsI-624/18-13 od 15. studenoga 2018. (NN 2/2019)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2019/2/48",
+"date": "2019-01-04",
+"how": "cite"
+},
+{
+"ref": "nn:2019/2/49",
+"title": "Presuda Upravnog suda u Rijeci poslovni broj: 10 UsI-1393/18-5 od 28. prosinca 2018. (NN 2/2019)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2019/2/49",
+"date": "2019-01-04",
+"how": "cite"
+},
+{
+"ref": "nn:2019/11/236",
+"title": "Presuda Visokog upravnog suda Republike Hrvatske poslovni broj: UsII-180/18-9 od 19. prosinca 2018. (NN 11/2019)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2019/11/236",
+"date": "2019-01-30",
+"how": "cite"
+},
+{
+"ref": "nn:2019/14/293",
+"title": "Presuda Visokog upravnog suda Republike Hrvatske broj: Usoz-68/18-4 od 19. prosinca 2018. (NN 14/2019)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2019/14/293",
+"date": "2019-02-07",
+"how": "cite"
+},
+{
+"ref": "nn:2019/15/313",
+"title": "Presuda Upravnog suda u Zagrebu poslovni broj: UsI-4143/15-14 od 10. siječnja 2019. (NN 15/2019)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2019/15/313",
+"date": "2019-02-13",
+"how": "cite"
+},
+{
+"ref": "nn:2019/18/402",
+"title": "Presuda Visokog upravnog suda Republike Hrvatske broj: UsII-408/18-8 od 6. prosinca 2018. (NN 18/2019)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2019/18/402",
+"date": "2019-02-22",
+"how": "cite"
+},
+{
+"ref": "nn:2019/23/475",
+"title": "Presuda Upravnog suda u Splitu poslovni broj: 5 UsI-353/18-12 od 11. veljače 2019. (NN 23/2019)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2019/23/475",
+"date": "2019-03-08",
+"how": "cite"
+},
+{
+"ref": "nn:2019/23/476",
+"title": "Presuda Upravnog suda u Splitu poslovni broj: 5 UsI-189/18-15 od 11. veljače 2019. (NN 23/2019)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2019/23/476",
+"date": "2019-03-08",
+"how": "cite"
+},
+{
+"ref": "nn:2019/29/605",
+"title": "Presuda Upravnog suda u Zagrebu broj: UsI-2930/16-23 od 26. veljače 2019. (NN 29/2019)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2019/29/605",
+"date": "2019-03-23",
+"how": "cite"
+},
+{
+"ref": "nn:2019/33/714",
+"title": "Presuda Visokog upravnog suda Republike Hrvatske, poslovni broj: UsII-283/18-8 od 13. veljače 2019. (NN 33/2019)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2019/33/714",
+"date": "2019-04-03",
+"how": "cite"
+},
+{
+"ref": "nn:2019/42/876",
+"title": "Presuda Upravnog suda u Splitu, poslovni broj: 6 UsI-153/18-7 od 8. veljače 2019. (NN 42/2019)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2019/42/876",
+"date": "2019-04-26",
+"how": "cite"
+},
+{
+"ref": "nn:2019/49/957",
+"title": "Odluka Ustavnog suda Republike Hrvatske broj: U-III-2086/2018 od 9. travnja 2019. (NN 49/2019)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2019/49/957",
+"date": "2019-05-15",
+"how": "cite"
+},
+{
+"ref": "nn:2019/49/960",
+"title": "Presuda Visokog upravnog suda Republike Hrvatske broj: UsII-173/19-7 od 21. ožujka 2019. (NN 49/2019)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2019/49/960",
+"date": "2019-05-15",
+"how": "cite"
+},
+{
+"ref": "nn:2019/50/983",
+"title": "Presuda Upravnog suda u Zagrebu poslovni broj: UsI-1432/17-8 od 17. travnja 2019. (NN 50/2019)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2019/50/983",
+"date": "2019-05-17",
+"how": "cite"
+},
+{
+"ref": "nn:2019/60/1157",
+"title": "Presuda Upravnog suda u Zagrebu poslovni broj: 18.UsI-550/17-18 od 11. travnja 2019. (NN 60/2019)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2019/60/1157",
+"date": "2019-06-19",
+"how": "cite"
+},
+{
+"ref": "nn:2019/61/1184",
+"title": "Presuda Visokog upravnog suda Republike Hrvatske poslovni broj: UsII-20/18-5 od 27. ožujka 2019. (NN 61/2019)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2019/61/1184",
+"date": "2019-06-21",
+"how": "cite"
+},
+{
+"ref": "nn:2019/62/1231",
+"title": "Presuda Upravnog suda u Zagrebu poslovni broj: UsI-1740/15-10 od 8. travnja 2019. (NN 62/2019)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2019/62/1231",
+"date": "2019-06-26",
+"how": "cite"
+},
+{
+"ref": "nn:2019/72/1566",
+"title": "Presuda Upravnog suda u Splitu poslovni broj: 3 UsI-41/19-9 od 20. svibnja 2019. (NN 72/2019)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2019/72/1566",
+"date": "2019-07-31",
+"how": "cite"
+},
+{
+"ref": "nn:2019/76/1618",
+"title": "Presuda Visokog upravnog suda Republike Hrvatske poslovni broj: Usž-2168/18-3 od 8. svibnja 2019. (NN 76/2019)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2019/76/1618",
+"date": "2019-08-09",
+"how": "cite"
+},
+{
+"ref": "nn:2019/91/1822",
+"title": "Presuda Upravnog suda u Zagrebu broj: UsI-3486/16-8 od 10. rujna 2019. (NN 91/2019)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2019/91/1822",
+"date": "2019-09-27",
+"how": "cite"
+},
+{
+"ref": "nn:2019/96/1887",
+"title": "Presuda Visokog upravnog suda Republike Hrvatske poslovni broj: UsII-268/19-6 od 19. rujna 2019. (NN 96/2019)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2019/96/1887",
+"date": "2019-10-09",
+"how": "cite"
+},
+{
+"ref": "nn:2019/96/1888",
+"title": "Presuda Visokog upravnog suda Republike Hrvatske poslovni broj: UsII-334/19-6 od 19. rujna 2019. (NN 96/2019)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2019/96/1888",
+"date": "2019-10-09",
+"how": "cite"
+},
+{
+"ref": "nn:2019/97/1912",
+"title": "Presuda Visokog upravnog suda Republike Hrvatske poslovni broj: UsII-403/18-8 od 12. rujna 2019. (NN 97/2019)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2019/97/1912",
+"date": "2019-10-11",
+"how": "cite"
+},
+{
+"ref": "nn:2019/99/2004",
+"title": "Presuda Visokog upravnog suda Republike Hrvatske poslovni broj: UsII-307/19-7 od 19. rujna 2019. (NN 99/2019)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2019/99/2004",
+"date": "2019-10-18",
+"how": "cite"
+},
+{
+"ref": "nn:2019/99/2005",
+"title": "Presuda Visokog upravnog suda Republike Hrvatske poslovni broj: UsII-353/19-6 od 19. rujna 2019. (NN 99/2019)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2019/99/2005",
+"date": "2019-10-18",
+"how": "cite"
+},
+{
+"ref": "nn:2019/100/2008",
+"title": "Presuda Upravnog suda u Zagrebu, poslovni broj: UsI-2949/17-10 od 19. rujna 2019. (NN 100/2019)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2019/100/2008",
+"date": "2019-10-21",
+"how": "cite"
+},
+{
+"ref": "nn:2019/101/2047",
+"title": "Presuda Upravnog suda u Zagrebu, poslovni broj: UsI-3055/18-9 od 24. rujna 2019. (NN 101/2019)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2019/101/2047",
+"date": "2019-10-23",
+"how": "cite"
+},
+{
+"ref": "nn:2019/106/2136",
+"title": "Presuda Visokog upravnog suda Republike Hrvatske poslovni broj: UsII-504/18-11 od 25. rujna 2019. (NN 106/2019)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2019/106/2136",
+"date": "2019-11-06",
+"how": "cite"
+},
+{
+"ref": "nn:2019/106/2139",
+"title": "Presuda Visokog upravnog suda Republike Hrvatske, poslovni broj: UsII-215/19-8 od 25. rujna 2019. (NN 106/2019)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2019/106/2139",
+"date": "2019-11-06",
+"how": "cite"
+},
+{
+"ref": "nn:2019/106/2141",
+"title": "Presuda Visokog upravnog suda Republike Hrvatske, poslovni broj: UsII-352/19-7 od 25. rujna 2019. (NN 106/2019)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2019/106/2141",
+"date": "2019-11-06",
+"how": "cite"
+},
+{
+"ref": "nn:2019/107/2149",
+"title": "Presuda Visokog upravnog suda Republike Hrvatske poslovni broj: UsII-159/19-6 od 25. rujna 2019. (NN 107/2019)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2019/107/2149",
+"date": "2019-11-07",
+"how": "cite"
+},
+{
+"ref": "nn:2019/107/2150",
+"title": "Presuda Visokog upravnog suda Republike Hrvatske poslovni broj: UsII-300/19-6 od 25. rujna 2019. (NN 107/2019)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2019/107/2150",
+"date": "2019-11-07",
+"how": "cite"
+},
+{
+"ref": "nn:2019/107/2151",
+"title": "Presuda Visokog upravnog suda Republike Hrvatske poslovni broj: UsII-331/19-6 od 25. rujna 2019. (NN 107/2019)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2019/107/2151",
+"date": "2019-11-07",
+"how": "cite"
+},
+{
+"ref": "nn:2019/107/2152",
+"title": "Presuda Visokog upravnog suda Republike Hrvatske poslovni broj: UsII-373/19-6 od 25. rujna 2019. (NN 107/2019)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2019/107/2152",
+"date": "2019-11-07",
+"how": "cite"
+},
+{
+"ref": "nn:2019/107/2153",
+"title": "Presuda Visokog upravnog suda Republike Hrvatske poslovni broj: UsII-383/19-5 od 25. rujna 2019. (NN 107/2019)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2019/107/2153",
+"date": "2019-11-07",
+"how": "cite"
+},
+{
+"ref": "nn:2019/107/2154",
+"title": "Presuda Visokog upravnog suda Republike Hrvatske poslovni broj: UsII-452/19-6 od 25. rujna 2019. (NN 107/2019)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2019/107/2154",
+"date": "2019-11-07",
+"how": "cite"
+},
+{
+"ref": "nn:2019/107/2155",
+"title": "Rješenje Visokog upravnog suda Republike Hrvatske poslovni broj: UsII-22/19-8 od 25. rujna 2019. (NN 107/2019)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2019/107/2155",
+"date": "2019-11-07",
+"how": "cite"
+},
+{
+"ref": "nn:2019/107/2157",
+"title": "Presuda Visokog upravnog suda Republike Hrvatske poslovni broj: UsII-518/18-8 od 25. rujna 2019. (NN 107/2019)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2019/107/2157",
+"date": "2019-11-07",
+"how": "cite"
+},
+{
+"ref": "nn:2019/109/2208",
+"title": "Rješenje Ustavnog suda Republike Hrvatske broj: U-III-3459/2018 od 9. rujna 2019. (NN 109/2019)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2019/109/2208",
+"date": "2019-11-13",
+"how": "cite"
+},
+{
+"ref": "nn:2019/109/2209",
+"title": "Presuda Visokog upravnog suda Republike Hrvatske, poslovni broj: Usoz-77/18-8 od 27. rujna 2019. (NN 109/2019)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2019/109/2209",
+"date": "2019-11-13",
+"how": "cite"
+},
+{
+"ref": "nn:2019/110/2230",
+"title": "Presuda Visokog upravnog suda Republike Hrvatske, poslovni broj: UsII-426/19-6 od 10. listopada 2019. (NN 110/2019)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2019/110/2230",
+"date": "2019-11-15",
+"how": "cite"
+},
+{
+"ref": "nn:2019/112/2268",
+"title": "Presuda Visokog upravnog suda Republike Hrvatske poslovni broj: UsII-433/19-6 od 10. listopada 2019. (NN 112/2019)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2019/112/2268",
+"date": "2019-11-20",
+"how": "cite"
+},
+{
+"ref": "nn:2019/112/2269",
+"title": "Presuda Visokog upravnog suda Republike Hrvatske, poslovni broj: UsII-475/19-6 od 10. listopada 2019. (NN 112/2019)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2019/112/2269",
+"date": "2019-11-20",
+"how": "cite"
+},
+{
+"ref": "nn:2019/114/2284",
+"title": "Presuda Visokog upravnog suda Republike Hrvatske poslovni broj: UsII-462/19-5 od 17. listopada 2019. (NN 114/2019)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2019/114/2284",
+"date": "2019-11-26",
+"how": "cite"
+},
+{
+"ref": "nn:2019/115/2317",
+"title": "Presuda Upravnog suda u Rijeci poslovni broj: 5 Usl-1630/2018-20 od 20. rujna 2019. (NN 115/2019)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2019/115/2317",
+"date": "2019-11-27",
+"how": "cite"
+},
+{
+"ref": "nn:2019/128/2611",
+"title": "Odluka Ustavnog suda Republike Hrvatske broj: U-III-5917/2016 od 5. studenoga 2019. i dva izdvojena mišljenja sudaca (NN 128/2019)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2019/128/2611",
+"date": "2019-12-30",
+"how": "cite"
+},
+{
+"ref": "nn:2019/129/2630",
+"title": "Presuda Visokog upravnog suda Republike Hrvatske, poslovni broj: UsII-273/18-6 od 16. listopada 2019. (NN 129/2019)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2019/129/2630",
+"date": "2019-12-31",
+"how": "cite"
+},
+{
+"ref": "nn:2019/129/2631",
+"title": "Presuda Upravnog suda u Zagrebu, poslovni broj: UsI-1810/18-9 od 18. lipnja 2019. (NN 129/2019)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2019/129/2631",
+"date": "2019-12-31",
+"how": "cite"
+},
+{
+"ref": "nn:2020/1/15",
+"title": "Presuda Visokog upravnog suda Republike Hrvatske poslovni broj: UsII-476/19-5 od 13. studenoga 2019. (NN 1/2020)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2020/1/15",
+"date": "2020-01-02",
+"how": "cite"
+},
+{
+"ref": "nn:2020/5/79",
+"title": "Presuda Upravnog suda u Rijeci poslovni broj: 10 UsI-1129/2019-10 od 25. studenoga 2019. (NN 5/2020)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2020/5/79",
+"date": "2020-01-15",
+"how": "cite"
+},
+{
+"ref": "nn:2020/8/169",
+"title": "Presuda Upravnog suda u Splitu poslovni broj: UsI-413/19-6 od 19. prosinca 2019. (NN 8/2020)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2020/8/169",
+"date": "2020-01-21",
+"how": "cite"
+},
+{
+"ref": "nn:2020/8/170",
+"title": "Presuda Upravnog suda u Splitu poslovni broj: UsI-408/19-6 od 19. prosinca 2019. (NN 8/2020)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2020/8/170",
+"date": "2020-01-21",
+"how": "cite"
+},
+{
+"ref": "nn:2020/9/180",
+"title": "Presuda Visokog upravnog suda Republike Hrvatske poslovni broj: Usoz-115/19-5 od 23. prosinca 2019. (NN 9/2020)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2020/9/180",
+"date": "2020-01-22",
+"how": "cite"
+},
+{
+"ref": "nn:2020/9/181",
+"title": "Presuda Upravnog suda u Splitu poslovni broj: UsI-378/19-6 od 19. prosinca 2019. (NN 9/2020)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2020/9/181",
+"date": "2020-01-22",
+"how": "cite"
+},
+{
+"ref": "nn:2020/9/182",
+"title": "Presuda Upravnog suda u Splitu poslovni broj: UsI-403/19-6 od 19. prosinca 2019. (NN 9/2020)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2020/9/182",
+"date": "2020-01-22",
+"how": "cite"
+},
+{
+"ref": "nn:2020/9/183",
+"title": "Presuda Upravnog suda u Splitu poslovni broj: UsI-393/19-6 od 19. prosinca 2019. (NN 9/2020)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2020/9/183",
+"date": "2020-01-22",
+"how": "cite"
+},
+{
+"ref": "nn:2020/10/195",
+"title": "Presuda Upravnog suda u Splitu poslovni broj: UsI-353/19-6 od 19. prosinca 2019. (NN 10/2020)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2020/10/195",
+"date": "2020-01-24",
+"how": "cite"
+},
+{
+"ref": "nn:2020/10/196",
+"title": "Presuda Upravnog suda u Splitu poslovni broj: UsI-383/19-6 od 19. prosinca 2019. (NN 10/2020)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2020/10/196",
+"date": "2020-01-24",
+"how": "cite"
+},
+{
+"ref": "nn:2020/10/197",
+"title": "Presuda Upravnog suda u Splitu poslovni broj: UsI-388/19-6 od 19. prosinca 2019. (NN 10/2020)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2020/10/197",
+"date": "2020-01-24",
+"how": "cite"
+},
+{
+"ref": "nn:2020/10/198",
+"title": "Presuda Upravnog suda u Splitu poslovni broj: UsI-418/19-6 od 19. prosinca 2019. (NN 10/2020)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2020/10/198",
+"date": "2020-01-24",
+"how": "cite"
+},
+{
+"ref": "nn:2020/14/260",
+"title": "Presuda Upravnog suda u Zagrebu poslovni broj: UsI-3947/18-9 od 20. prosinca 2019. (NN 14/2020)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2020/14/260",
+"date": "2020-02-05",
+"how": "cite"
+},
+{
+"ref": "nn:2020/16/401",
+"title": "Presuda Upravnog suda u Zagrebu poslovni broj: UsI-3478/18-14 od 26. studenoga 2019. (NN 16/2020)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2020/16/401",
+"date": "2020-02-12",
+"how": "cite"
+},
+{
+"ref": "nn:2020/17/428",
+"title": "Presuda Upravnog suda u Zagrebu poslovni broj: UsI-1802/16-16 od 24. prosinca 2019. (NN 17/2020)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2020/17/428",
+"date": "2020-02-14",
+"how": "cite"
+},
+{
+"ref": "nn:2020/19/483",
+"title": "Presuda Visokog upravnog suda Republike Hrvatske poslovni broj: UsII-47/18-7 od 11. prosinca 2019. (NN 19/2020)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2020/19/483",
+"date": "2020-02-20",
+"how": "cite"
+},
+{
+"ref": "nn:2020/19/484",
+"title": "Presuda Visokog upravnog suda Republike Hrvatske poslovni broj: UsII-133/18-6 od 11. prosinca 2019. (NN 19/2020)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2020/19/484",
+"date": "2020-02-20",
+"how": "cite"
+},
+{
+"ref": "nn:2020/19/485",
+"title": "Presuda Visokog upravnog suda Republike Hrvatske poslovni broj: UsII-316/17-6 od 11. prosinca 2019. (NN 19/2020)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2020/19/485",
+"date": "2020-02-20",
+"how": "cite"
+},
+{
+"ref": "nn:2020/23/565",
+"title": "Presuda Upravnog suda u Zagrebu poslovni broj: UsI-1018/17-6 od 24. siječnja 2020. (NN 23/2020)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2020/23/565",
+"date": "2020-03-03",
+"how": "cite"
+},
+{
+"ref": "nn:2020/24/596",
+"title": "Presuda Visokog upravnog suda Republike Hrvatske poslovni broj: UsII-302/19-6 od 29. siječnja 2020. (NN 24/2020)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2020/24/596",
+"date": "2020-03-04",
+"how": "cite"
+},
+{
+"ref": "nn:2020/25/621",
+"title": "Presuda Visokog upravnog suda Republike Hrvatske poslovni broj: UsII-306/19-5 od 29. siječnja 2020. (NN 25/2020)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2020/25/621",
+"date": "2020-03-06",
+"how": "cite"
+},
+{
+"ref": "nn:2020/35/743",
+"title": "Presuda Upravnog suda u Zagrebu, poslovni broj UsI-1534/18-18 od 4. lipnja 2019. (NN 35/2020)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2020/35/743",
+"date": "2020-03-23",
+"how": "cite"
+},
+{
+"ref": "nn:2020/35/744",
+"title": "Presuda Upravnog suda u Zagrebu poslovni broj UsI-1001/17-8 od 28. siječnja 2020. (NN 35/2020)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2020/35/744",
+"date": "2020-03-23",
+"how": "cite"
+},
+{
+"ref": "nn:2020/41/879",
+"title": "Presuda Upravnog suda u Zagrebu poslovni broj: UsI-242/17-7 od 4. ožujka 2020. (NN 41/2020)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2020/41/879",
+"date": "2020-04-03",
+"how": "cite"
+},
+{
+"ref": "nn:2020/45/917",
+"title": "Presuda Visokog upravnog suda Republike Hrvatske poslovni broj: UsII-186/19-5 od 12. prosinca 2019. (NN 45/2020)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2020/45/917",
+"date": "2020-04-10",
+"how": "cite"
+},
+{
+"ref": "nn:2020/46/943",
+"title": "Presuda Visokog upravnog suda Republike Hrvatske poslovni broj: UsII-355/18-5 od 29. siječnja 2020. (NN 46/2020)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2020/46/943",
+"date": "2020-04-15",
+"how": "cite"
+},
+{
+"ref": "nn:2020/46/944",
+"title": "Presuda Visokog upravnog suda Republike Hrvatske poslovni broj: UsII-474/19-5 od 5. ožujka 2020. (NN 46/2020)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2020/46/944",
+"date": "2020-04-15",
+"how": "cite"
+},
+{
+"ref": "nn:2020/46/945",
+"title": "Presuda Visokog upravnog suda Republike Hrvatske poslovni broj: UsII-431/19-6 od 5. ožujka 2020. (NN 46/2020)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2020/46/945",
+"date": "2020-04-15",
+"how": "cite"
+},
+{
+"ref": "nn:2020/50/1030",
+"title": "Presuda Visokog upravnog suda Republike Hrvatske, poslovni broj: UsII-556/19-5 od 5. veljače 2020. (NN 50/2020)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2020/50/1030",
+"date": "2020-04-24",
+"how": "cite"
+},
+{
+"ref": "nn:2020/50/1031",
+"title": "Presuda Visokog upravnog suda Republike Hrvatske, poslovni broj: UsII-461/19-6 od 5. veljače 2020. (NN 50/2020)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2020/50/1031",
+"date": "2020-04-24",
+"how": "cite"
+},
+{
+"ref": "nn:2020/50/1032",
+"title": "Presuda Visokog upravnog suda Republike Hrvatske, poslovni broj: UsII-375/19-7 od 5. veljače 2020. (NN 50/2020)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2020/50/1032",
+"date": "2020-04-24",
+"how": "cite"
+},
+{
+"ref": "nn:2020/51/1039",
+"title": "Presuda Visokog upravnog suda Republike Hrvatske, poslovni broj: UsII-412/18-6 od 5. veljače 2020. (NN 51/2020)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2020/51/1039",
+"date": "2020-04-25",
+"how": "cite"
+},
+{
+"ref": "nn:2020/51/1040",
+"title": "Presuda Visokog upravnog suda Republike Hrvatske, poslovni broj: UsII-120/18-8 od 12. veljače 2020. (NN 51/2020)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2020/51/1040",
+"date": "2020-04-25",
+"how": "cite"
+},
+{
+"ref": "nn:2020/52/1055",
+"title": "Presuda Visokog upravnog suda Republike Hrvatske poslovni broj: UsII-119/18-8 od 12. veljače 2020. (NN 52/2020)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2020/52/1055",
+"date": "2020-04-29",
+"how": "cite"
+},
+{
+"ref": "nn:2020/53/1075",
+"title": "Odluka Ustavnog suda Republike Hrvatske broj: U-III-1310/2018 od 10. ožujka 2020. (NN 53/2020)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2020/53/1075",
+"date": "2020-04-30",
+"how": "cite"
+},
+{
+"ref": "nn:2020/53/1076",
+"title": "Presuda Visokog upravnog suda Republike Hrvatske, poslovni broj: UsII-316/19-7 od 5. ožujka 2020. (NN 53/2020)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2020/53/1076",
+"date": "2020-04-30",
+"how": "cite"
+},
+{
+"ref": "nn:2020/53/1077",
+"title": "Presuda Visokog upravnog suda Republike Hrvatske, poslovni broj: UsII-335/19-5 od 5. ožujka 2020. (NN 53/2020)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2020/53/1077",
+"date": "2020-04-30",
+"how": "cite"
+},
+{
+"ref": "nn:2020/57/1159",
+"title": "Presuda Visokog upravnog suda Republike Hrvatske poslovni broj: UsII-517/18-9 od 12. veljače 2020. (NN 57/2020)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2020/57/1159",
+"date": "2020-05-15",
+"how": "cite"
+},
+{
+"ref": "nn:2020/59/1201",
+"title": "Presuda Visokog upravnog suda Republike Hrvatske, poslovni broj: UsII-240/19-6 od 12. veljače 2020. (NN 59/2020)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2020/59/1201",
+"date": "2020-05-20",
+"how": "cite"
+},
+{
+"ref": "nn:2020/66/1337",
+"title": "Presuda Visokog upravnog suda Republike Hrvatske poslovni broj: UsII-361/18-8 od 13. veljače 2020. (NN 66/2020)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2020/66/1337",
+"date": "2020-06-05",
+"how": "cite"
+},
+{
+"ref": "nn:2020/67/1348",
+"title": "Presuda Visokog upravnog suda Republike Hrvatske broj: UsII-271/19-5 od 12. veljače 2020. (NN 67/2020)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2020/67/1348",
+"date": "2020-06-10",
+"how": "cite"
+},
+{
+"ref": "nn:2020/75/1460",
+"title": "Presuda Upravnog suda u Splitu poslovni broj: 7 UsI-288/19-3 od 30. ožujka 2020. (NN 75/2020)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2020/75/1460",
+"date": "2020-07-01",
+"how": "cite"
+},
+{
+"ref": "nn:2020/77/1478",
+"title": "Presuda Visokog upravnog suda Republike Hrvatske poslovni broj: UsII-307/18-6 od 5. ožujka 2020. (NN 77/2020)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2020/77/1478",
+"date": "2020-07-03",
+"how": "cite"
+},
+{
+"ref": "nn:2020/77/1479",
+"title": "Presuda Upravnog suda u Zagrebu poslovni broj: UsI-1121/19-15 od 25. veljače 2020. (NN 77/2020)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2020/77/1479",
+"date": "2020-07-03",
+"how": "cite"
+},
+{
+"ref": "nn:2020/77/1480",
+"title": "Presuda Upravnog suda u Zagrebu poslovni broj: UsI-2129/19-11 od 10. ožujka 2020. (NN 77/2020)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2020/77/1480",
+"date": "2020-07-03",
+"how": "cite"
+},
+{
+"ref": "nn:2020/78/1488",
+"title": "Presuda Visokog upravnog suda Republike Hrvatske poslovni broj: UsII-288/19-6 od 5. ožujka 2020. (NN 78/2020)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2020/78/1488",
+"date": "2020-07-08",
+"how": "cite"
+},
+{
+"ref": "nn:2020/78/1489",
+"title": "Presuda Visokog upravnog suda Republike Hrvatske poslovni broj: UsII-427/19-5 od 15. svibnja 2020. (NN 78/2020)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2020/78/1489",
+"date": "2020-07-08",
+"how": "cite"
+},
+{
+"ref": "nn:2020/79/1500",
+"title": "Presuda Visokog upravnog suda Republike Hrvatske poslovni broj: UsII-473/19-6 od 15. svibnja 2020. (NN 79/2020)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2020/79/1500",
+"date": "2020-07-10",
+"how": "cite"
+},
+{
+"ref": "nn:2020/79/1501",
+"title": "Presuda Visokog upravnog suda Republike Hrvatske poslovni broj: UsII-381/18-9 od 28. svibnja 2020. (NN 79/2020)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2020/79/1501",
+"date": "2020-07-10",
+"how": "cite"
+},
+{
+"ref": "nn:2020/79/1502",
+"title": "Presuda Upravnog suda u Zagrebu poslovni broj: UsI-2437/19-8 od 16. travnja 2020. (NN 79/2020)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2020/79/1502",
+"date": "2020-07-10",
+"how": "cite"
+},
+{
+"ref": "nn:2020/80/1513",
+"title": "Presuda Visokog upravnog suda Republike Hrvatske poslovni broj: UsII-222/19-12 od 15. svibnja 2020. (NN 80/2020)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2020/80/1513",
+"date": "2020-07-14",
+"how": "cite"
+},
+{
+"ref": "nn:2020/80/1514",
+"title": "Presuda Visokog upravnog suda Republike Hrvatske poslovni broj: Usoz-1/20-5 od 25. svibnja 2020. (NN 80/2020)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2020/80/1514",
+"date": "2020-07-14",
+"how": "cite"
+},
+{
+"ref": "nn:2020/83/1560",
+"title": "Presuda Visokog upravnog suda Republike Hrvatske, poslovni broj: Usoz-46/20-6 od 25. svibnja 2020. (NN 83/2020)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2020/83/1560",
+"date": "2020-07-17",
+"how": "cite"
+},
+{
+"ref": "nn:2020/98/1870",
+"title": "Presuda Visokog upravnog suda Republike Hrvatske broj: Usoz-32/20-4 od 25. svibnja 2020. (NN 98/2020)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2020/98/1870",
+"date": "2020-09-02",
+"how": "cite"
+},
+{
+"ref": "nn:2020/101/1914",
+"title": "Presuda Upravnog suda u Zagrebu poslovni broj: UsI-2706/19-9 od 23. lipnja 2020. (NN 101/2020)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2020/101/1914",
+"date": "2020-09-11",
+"how": "cite"
+},
+{
+"ref": "nn:2020/104/1958",
+"title": "Presuda Visokog upravnog suda Republike Hrvatske poslovni broj: Usž-5180/19-4 od 13. svibnja 2020. (NN 104/2020)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2020/104/1958",
+"date": "2020-09-23",
+"how": "cite"
+},
+{
+"ref": "nn:2020/105/1972",
+"title": "Presuda Visokog upravnog suda Republike Hrvatske poslovni broj: UsII-515/18-12 od 17. srpnja 2020. (NN 105/2020)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2020/105/1972",
+"date": "2020-09-25",
+"how": "cite"
+},
+{
+"ref": "nn:2020/106/2004",
+"title": "Presuda Visokog upravnog suda Republike Hrvatske, poslovni broj UsII-386/18-7 od 17. srpnja 2020. (NN 106/2020)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2020/106/2004",
+"date": "2020-09-30",
+"how": "cite"
+},
+{
+"ref": "nn:2020/106/2005",
+"title": "Presuda Upravnog suda u Zagrebu poslovni broj: UsI-4127/19-14 od 9. lipnja 2020. (NN 106/2020)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2020/106/2005",
+"date": "2020-09-30",
+"how": "cite"
+},
+{
+"ref": "nn:2020/108/2153",
+"title": "Presuda Visokog upravnog suda Republike Hrvatske poslovni broj: Usoz-76/20-7 od 28. rujna 2020. (NN 108/2020)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2020/108/2153",
+"date": "2020-10-07",
+"how": "cite"
+},
+{
+"ref": "nn:2020/118/2306",
+"title": "Presuda Visokog upravnog suda Republike Hrvatske poslovni broj: UsII-354/19-6 od 17. srpnja 2020. (NN 118/2020)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2020/118/2306",
+"date": "2020-10-28",
+"how": "cite"
+},
+{
+"ref": "nn:2020/120/2361",
+"title": "Presuda Visokog upravnog suda Republike Hrvatske poslovni broj: UsII-449/19-6 od 17. srpnja 2020. (NN 120/2020)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2020/120/2361",
+"date": "2020-11-04",
+"how": "cite"
+},
+{
+"ref": "nn:2020/120/2362",
+"title": "Presuda Visokog upravnog suda Republike Hrvatske poslovni broj: UsII-477/19-6 od 17. srpnja 2020. (NN 120/2020)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2020/120/2362",
+"date": "2020-11-04",
+"how": "cite"
+},
+{
+"ref": "nn:2020/121/2370",
+"title": "Presuda Visokog upravnog suda Republike Hrvatske poslovni broj UsII-290/19-6 od 17. srpnja 2020. (NN 121/2020)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2020/121/2370",
+"date": "2020-11-06",
+"how": "cite"
+},
+{
+"ref": "nn:2020/128/2454",
+"title": "Presuda Visokog upravnog suda Republike Hrvatske poslovni broj: UsII-239/19-6 od 17. srpnja 2020. (NN 128/2020)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2020/128/2454",
+"date": "2020-11-20",
+"how": "cite"
+},
+{
+"ref": "nn:2020/128/2455",
+"title": "Presuda Visokog upravnog suda Republike Hrvatske poslovni broj: UsII-29/19-11 od 11. rujna 2020. (NN 128/2020)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2020/128/2455",
+"date": "2020-11-20",
+"how": "cite"
+},
+{
+"ref": "nn:2020/129/2465",
+"title": "Presuda Upravnog suda u Rijeci poslovni broj: 10 UsI-982/2020-9 od 9. studenoga 2020. (NN 129/2020)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2020/129/2465",
+"date": "2020-11-23",
+"how": "cite"
+},
+{
+"ref": "nn:2020/140/2725",
+"title": "Presuda Visokog upravnog suda Republike Hrvatske poslovni broj: UsII-32/20-5 od 7. rujna 2020. (NN 140/2020)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2020/140/2725",
+"date": "2020-12-16",
+"how": "cite"
+},
+{
+"ref": "nn:2020/145/2821",
+"title": "Presuda Visokog upravnog suda Republike Hrvatske poslovni broj: UsII-85/18-4 od 15. rujna 2020. (NN 145/2020)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2020/145/2821",
+"date": "2020-12-24",
+"how": "cite"
+},
+{
+"ref": "nn:2020/145/2822",
+"title": "Presuda Visokog upravnog suda Republike Hrvatske poslovni broj: UsII-160/18-7 od 15. rujna 2020. (NN 145/2020)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2020/145/2822",
+"date": "2020-12-24",
+"how": "cite"
+},
+{
+"ref": "nn:2021/2/49",
+"title": "Presuda i Rješenje Visokog upravnog suda Republike Hrvatske poslovni broj: UsII-15/18-9 od 15. rujna 2020. (NN 2/2021)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2021/2/49",
+"date": "2021-01-08",
+"how": "cite"
+},
+{
+"ref": "nn:2021/2/52",
+"title": "Presuda Upravnog suda u Splitu poslovni broj: UsI-493/19-6 od 4. rujna 2020. (NN 2/2021)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2021/2/52",
+"date": "2021-01-08",
+"how": "cite"
+},
+{
+"ref": "nn:2021/2/53",
+"title": "Presuda Upravnog suda u Splitu poslovni broj: UsI-508/19-5 od 30. rujna 2020. (NN 2/2021)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2021/2/53",
+"date": "2021-01-08",
+"how": "cite"
+},
+{
+"ref": "nn:2021/5/119",
+"title": "Presuda Upravnog suda u Zagrebu poslovni broj: UsI-213/17-9 od 25. rujna 2020. (NN 5/2021)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2021/5/119",
+"date": "2021-01-20",
+"how": "cite"
+},
+{
+"ref": "nn:2021/6/132",
+"title": "Presuda Upravnog suda u Rijeci poslovni broj: 5 UsI-697/2020-13 od 30. listopada 2020. (NN 6/2021)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2021/6/132",
+"date": "2021-01-22",
+"how": "cite"
+},
+{
+"ref": "nn:2021/7/160",
+"title": "Presuda Visokog upravnog suda Republike Hrvatske poslovni broj: UsII-360/18-7 od 4. prosinca 2020. (NN 7/2021)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2021/7/160",
+"date": "2021-01-27",
+"how": "cite"
+},
+{
+"ref": "nn:2021/9/189",
+"title": "Presuda Upravnog suda u Zagrebu poslovni broj: UsI-4230/19-7 od 23. studenoga 2020. (NN 9/2021)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2021/9/189",
+"date": "2021-02-03",
+"how": "cite"
+},
+{
+"ref": "nn:2021/11/210",
+"title": "Presuda Visokog upravnog suda Republike Hrvatske, poslovni broj: Usoz-105/19-5 od 30. studenoga 2020. (NN 11/2021)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2021/11/210",
+"date": "2021-02-09",
+"how": "cite"
+},
+{
+"ref": "nn:2021/16/309",
+"title": "Presuda Visokog upravnog suda Republike Hrvatske poslovni broj: UsII-322/19-6 od 10. rujna 2020. (NN 16/2021)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2021/16/309",
+"date": "2021-02-17",
+"how": "cite"
+},
+{
+"ref": "nn:2021/38/775",
+"title": "Presuda Visokog upravnog suda Republike Hrvatske poslovni broj: UsII-415/18-6 od 17. studenoga 2020. (NN 38/2021)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2021/38/775",
+"date": "2021-04-12",
+"how": "cite"
+},
+{
+"ref": "nn:2021/38/776",
+"title": "Presuda Visokog upravnog suda Republike Hrvatske poslovni broj: Usoz-2/21-12 od 22. veljače 2021. (NN 38/2021)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2021/38/776",
+"date": "2021-04-12",
+"how": "cite"
+},
+{
+"ref": "nn:2021/49/1016",
+"title": "Presuda Visokog upravnog suda Republike Hrvatske, poslovni broj: UsII-60/17-14 od 15. travnja 2021. (NN 49/2021)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2021/49/1016",
+"date": "2021-05-07",
+"how": "cite"
+},
+{
+"ref": "nn:2021/50/1020",
+"title": "Presuda Visokog upravnog suda Republike Hrvatske, poslovni broj: UsII-416/18-6 od 23. ožujka 2021. (NN 50/2021)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2021/50/1020",
+"date": "2021-05-10",
+"how": "cite"
+},
+{
+"ref": "nn:2021/50/1021",
+"title": "Presuda Visokog upravnog suda Republike Hrvatske, poslovni broj: UsII-358/20-6 od 15. travnja 2021. (NN 50/2021)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2021/50/1021",
+"date": "2021-05-10",
+"how": "cite"
+},
+{
+"ref": "nn:2021/51/1047",
+"title": "Presuda Visokog upravnog suda Republike Hrvatske poslovni broj: UsII-417/20-6 od 15. travnja 2021. (NN 51/2021)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2021/51/1047",
+"date": "2021-05-12",
+"how": "cite"
+},
+{
+"ref": "nn:2021/52/1072",
+"title": "Presuda Visokog upravnog suda Republike Hrvatske, poslovni broj: Usoz-27/20-5 od 23. ožujka 2021. (NN 52/2021)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2021/52/1072",
+"date": "2021-05-14",
+"how": "cite"
+},
+{
+"ref": "nn:2021/54/1100",
+"title": "Presuda Visokog upravnog suda Republike Hrvatske, poslovni broj: UsII-291/20-8 od 26. ožujka 2021. (NN 54/2021)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2021/54/1100",
+"date": "2021-05-20",
+"how": "cite"
+},
+{
+"ref": "nn:2021/54/1101",
+"title": "Presuda Visokog upravnog suda Republike Hrvatske, poslovni broj: UsII-418/20-6 od 26. ožujka 2021. (NN 54/2021)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2021/54/1101",
+"date": "2021-05-20",
+"how": "cite"
+},
+{
+"ref": "nn:2021/54/1102",
+"title": "Presuda Visokog upravnog suda Republike Hrvatske, poslovni broj: UsII-65/21-6 od 15. travnja 2021. (NN 54/2021)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2021/54/1102",
+"date": "2021-05-20",
+"how": "cite"
+},
+{
+"ref": "nn:2021/59/1158",
+"title": "Presuda Upravnog suda u Rijeci, poslovni broj: 10 UsI-44/2021-5 od 5. ožujka 2021. (NN 59/2021)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2021/59/1158",
+"date": "2021-05-28",
+"how": "cite"
+},
+{
+"ref": "nn:2021/59/1159",
+"title": "Presuda Upravnog suda u Rijeci poslovni broj: 5 UsI-1151/2020-16 od 19. ožujka 2021. (NN 59/2021)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2021/59/1159",
+"date": "2021-05-28",
+"how": "cite"
+},
+{
+"ref": "nn:2021/59/1160",
+"title": "Presuda Upravnog suda u Rijeci poslovni broj: UsI-36/2021-8 od 26. travnja 2021. (NN 59/2021)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2021/59/1160",
+"date": "2021-05-28",
+"how": "cite"
+},
+{
+"ref": "nn:2021/62/1203",
+"title": "Presuda Visokog upravnog suda Republike Hrvatske poslovni broj: UsII-104/20-7 od 16. travnja 2021. (NN 62/2021)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2021/62/1203",
+"date": "2021-06-02",
+"how": "cite"
+},
+{
+"ref": "nn:2021/62/1204",
+"title": "Presuda Visokog upravnog suda Republike Hrvatske poslovni broj: Usoz-18/20-9 od 26. travnja 2021. (NN 62/2021)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2021/62/1204",
+"date": "2021-06-02",
+"how": "cite"
+},
+{
+"ref": "nn:2021/63/1218",
+"title": "Presuda Visokog upravnog suda Republike Hrvatske poslovni broj: Usoz-61/20-6 od 26. travnja 2021. (NN 63/2021)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2021/63/1218",
+"date": "2021-06-07",
+"how": "cite"
+},
+{
+"ref": "nn:2021/66/1287",
+"title": "Presuda Visokog upravnog suda Republike Hrvatske poslovni broj: Usž-1106/21-2 od 31. ožujka 2021. (NN 66/2021)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2021/66/1287",
+"date": "2021-06-16",
+"how": "cite"
+},
+{
+"ref": "nn:2021/66/1288",
+"title": "Presuda Upravnog suda u Zagrebu poslovni broj: UsI-161/20-9 od 12. siječnja 2021. (NN 66/2021)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2021/66/1288",
+"date": "2021-06-16",
+"how": "cite"
+},
+{
+"ref": "nn:2021/68/1322",
+"title": "Presuda Upravnog suda u Splitu poslovni broj: 7 UsI-523/19-9 od 5. ožujka 2021. (NN 68/2021)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2021/68/1322",
+"date": "2021-06-23",
+"how": "cite"
+},
+{
+"ref": "nn:2021/68/1323",
+"title": "Presuda Upravnog suda u Splitu poslovni broj: 7 UsI-77/20-5 od 7. svibnja 2021. (NN 68/2021)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2021/68/1323",
+"date": "2021-06-23",
+"how": "cite"
+},
+{
+"ref": "nn:2021/74/1398",
+"title": "Presuda Upravnog suda u Zagrebu poslovni broj: UsI-3348/19-9 od 27. listopada 2020. (NN 74/2021)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2021/74/1398",
+"date": "2021-07-01",
+"how": "cite"
+},
+{
+"ref": "nn:2021/74/1399",
+"title": "Presuda Upravnog suda u Zagrebu poslovni broj: UsI-2086/20-8 od 10. svibnja 2021. (NN 74/2021)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2021/74/1399",
+"date": "2021-07-01",
+"how": "cite"
+},
+{
+"ref": "nn:2021/85/1584",
+"title": "Presuda Visokog upravnog suda Republike Hrvatske poslovni broj: UsII-265/19-5 od 11. lipnja 2021. (NN 85/2021)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2021/85/1584",
+"date": "2021-07-28",
+"how": "cite"
+},
+{
+"ref": "nn:2021/93/1677",
+"title": "Presuda Visokog upravnog suda Republike Hrvatske poslovni broj: UsII-241/19-7 od 13. svibnja 2021. (NN 93/2021)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2021/93/1677",
+"date": "2021-08-25",
+"how": "cite"
+},
+{
+"ref": "nn:2021/93/1682",
+"title": "Presuda Visokog upravnog suda Republike Hrvatske poslovni broj: UsII-218/19-7 od 16. lipnja 2021. (NN 93/2021)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2021/93/1682",
+"date": "2021-08-25",
+"how": "cite"
+},
+{
+"ref": "nn:2021/95/1733",
+"title": "Presuda Visokog upravnog suda Republike Hrvatske poslovni broj: UsII-106/21-6 od 22. srpnja 2021. (NN 95/2021)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2021/95/1733",
+"date": "2021-08-31",
+"how": "cite"
+},
+{
+"ref": "nn:2021/96/1749",
+"title": "Rješenje Visokog upravnog suda Republike Hrvatske poslovni broj: UsII-56/21-6 od 22. srpnja 2021. (NN 96/2021)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2021/96/1749",
+"date": "2021-09-01",
+"how": "cite"
+},
+{
+"ref": "nn:2021/96/1750",
+"title": "Presuda Upravnog suda u Rijeci poslovni broj: 10 UsI-269/2021-5 od 19. svibnja 2021. (NN 96/2021)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2021/96/1750",
+"date": "2021-09-01",
+"how": "cite"
+},
+{
+"ref": "nn:2021/96/1751",
+"title": "Presuda Upravnog suda u Rijeci poslovni broj: 10 UsI-110/2021-8 od 23. lipnja 2021. (NN 96/2021)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2021/96/1751",
+"date": "2021-09-01",
+"how": "cite"
+},
+{
+"ref": "nn:2021/113/1971",
+"title": "Presuda Upravnog suda u Splitu poslovni broj: 10 UsI-739/20-12 od 17. lipnja 2021. (NN 113/2021)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2021/113/1971",
+"date": "2021-10-20",
+"how": "cite"
+},
+{
+"ref": "nn:2021/115/1984",
+"title": "Presuda Upravnog suda u Zagrebu poslovni broj: Usl-2600/20-7 od 29. rujna 2021. (NN 115/2021)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2021/115/1984",
+"date": "2021-10-24",
+"how": "cite"
+},
+{
+"ref": "nn:2021/119/2066",
+"title": "Presuda Visokog upravnog suda Republike Hrvatske poslovni broj: Usoz-82/20-13 od 27. rujna 2021. (NN 119/2021)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2021/119/2066",
+"date": "2021-11-05",
+"how": "cite"
+},
+{
+"ref": "nn:2021/129/2181",
+"title": "Odluka Ustavnog suda Republike Hrvatske broj: U-III-5963/2020 od 14. listopada 2021. (NN 129/2021)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2021/129/2181",
+"date": "2021-11-30",
+"how": "cite"
+},
+{
+"ref": "nn:2021/142/2429",
+"title": "Presuda Visokog upravnog suda Republike Hrvatske, poslovni broj: Usoz-71/19-7 od 25. listopada 2021. (NN 142/2021)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2021/142/2429",
+"date": "2021-12-23",
+"how": "cite"
+},
+{
+"ref": "nn:2021/142/2434",
+"title": "Presuda Upravnog suda u Splitu, poslovni broj: UsI-2966/21-9 od 25. studenoga 2021. (NN 142/2021)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2021/142/2434",
+"date": "2021-12-23",
+"how": "cite"
+},
+{
+"ref": "nn:2021/144/2487",
+"title": "Presuda Visokog upravnog suda Republike Hrvatske poslovni broj: UsII-224/21-6 od 16. studenoga 2021. (NN 144/2021)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2021/144/2487",
+"date": "2021-12-27",
+"how": "cite"
+},
+{
+"ref": "nn:2021/145/2530",
+"title": "Presuda Visokog upravnog suda Republike Hrvatske poslovni broj: Usoz-90/21-6 od 29. studenoga 2021. (NN 145/2021)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2021/145/2530",
+"date": "2021-12-29",
+"how": "cite"
+},
+{
+"ref": "nn:2022/5/49",
+"title": "Presuda Visokog upravnog suda Republike Hrvatske poslovni broj: Usoz-111/19-10 od 29. studenoga 2021. (NN 5/2022)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2022/5/49",
+"date": "2022-01-12",
+"how": "cite"
+},
+{
+"ref": "nn:2022/12/125",
+"title": "Presuda Visokog upravnog sud Republike Hrvatske poslovni broj: UsII-183/21-6 od 9. prosinca 2021. (NN 12/2022)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2022/12/125",
+"date": "2022-01-28",
+"how": "cite"
+},
+{
+"ref": "nn:2022/19/211",
+"title": "Presuda Visokog upravnog suda Republike Hrvatske poslovni broj: Usoz-34/20-8 od 24. siječnja 2022. (NN 19/2022)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2022/19/211",
+"date": "2022-02-11",
+"how": "cite"
+},
+{
+"ref": "nn:2022/24/310",
+"title": "Presuda Visokog upravnog suda Republike Hrvatske poslovni broj: Usoz-28/20-16 od 24. siječnja 2022. (NN 24/2022)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2022/24/310",
+"date": "2022-02-28",
+"how": "cite"
+},
+{
+"ref": "nn:2022/51/653",
+"title": "Presuda Visokog upravnog suda Republike Hrvatske poslovni broj: UsII-332/21-6 od 24. ožujka 2022. (NN 51/2022)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2022/51/653",
+"date": "2022-04-29",
+"how": "cite"
+},
+{
+"ref": "nn:2022/58/854",
+"title": "Rješenje Ustavnog suda Republike Hrvatske broj: U-IIIB-5954/2021 od 28. travnja 2022. (NN 58/2022)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2022/58/854",
+"date": "2022-05-25",
+"how": "cite"
+},
+{
+"ref": "nn:2022/58/855",
+"title": "Presuda Visokog upravnog suda Republike Hrvatske poslovni broj: UsII-235/21-9 od 16. ožujka 2022. (NN 58/2022)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2022/58/855",
+"date": "2022-05-25",
+"how": "cite"
+},
+{
+"ref": "nn:2022/60/870",
+"title": "Rješenje Visokog upravnog suda Republike Hrvatske poslovni broj: Usoz-91/21-8 od 21. ožujka 2022. (NN 60/2022)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2022/60/870",
+"date": "2022-05-27",
+"how": "cite"
+},
+{
+"ref": "nn:2022/61/892",
+"title": "Presuda Visokog upravnog suda Republike Hrvatske poslovni broj: UsII-333/21-5 od 29. travnja 2022. (NN 61/2022)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2022/61/892",
+"date": "2022-06-01",
+"how": "cite"
+},
+{
+"ref": "nn:2022/61/893",
+"title": "Presuda Visokog upravnog suda Republike Hrvatske poslovni broj: Usoz-14/21-7 od 25. travnja 2022. (NN 61/2022)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2022/61/893",
+"date": "2022-06-01",
+"how": "cite"
+},
+{
+"ref": "nn:2022/61/894",
+"title": "Presuda Upravnog suda u Zagrebu poslovni broj: UsI-969/21-12 od 21. veljače 2022. (NN 61/2022)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2022/61/894",
+"date": "2022-06-01",
+"how": "cite"
+},
+{
+"ref": "nn:2022/64/924",
+"title": "Odluka Ustavnog suda Republike Hrvatske broj: U-III-6132/2021 od 28. travnja 2022. (NN 64/2022)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2022/64/924",
+"date": "2022-06-07",
+"how": "cite"
+},
+{
+"ref": "nn:2022/65/947",
+"title": "Presuda Visokog upravnog suda Republike Hrvatske poslovni broj: UsII-334/21-8 od 19. svibnja 2022. (NN 65/2022)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2022/65/947",
+"date": "2022-06-08",
+"how": "cite"
+},
+{
+"ref": "nn:2022/79/1165",
+"title": "Presuda Visokog upravnog suda Republike Hrvatske poslovni broj: UsII-68/22-10 od 12. svibnja 2022. (NN 79/2022)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2022/79/1165",
+"date": "2022-07-08",
+"how": "cite"
+},
+{
+"ref": "nn:2022/82/1242",
+"title": "Presuda Visokog upravnog suda Republike Hrvatske poslovni broj: UsII-243/21-7 od 26. svibnja 2022. (NN 82/2022)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2022/82/1242",
+"date": "2022-07-15",
+"how": "cite"
+},
+{
+"ref": "nn:2022/87/1357",
+"title": "Presuda Visokog upravnog suda Republike Hrvatske poslovni broj: Usoz-64/21-5 od 5. srpnja 2022. (NN 87/2022)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2022/87/1357",
+"date": "2022-07-27",
+"how": "cite"
+},
+{
+"ref": "nn:2022/91/1408",
+"title": "Odluka Ustavnog suda Republike Hrvatske broj: U-IIIA-2210/2022 od 14. srpnja 2022. (NN 91/2022)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2022/91/1408",
+"date": "2022-08-08",
+"how": "cite"
+},
+{
+"ref": "nn:2022/94/1421",
+"title": "Presuda Visokog upravnog suda Republike Hrvatske poslovni broj: UsII-138/21-9 od 7. srpnja 2022. (NN 94/2022)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2022/94/1421",
+"date": "2022-08-13",
+"how": "cite"
+},
+{
+"ref": "nn:2022/101/1500",
+"title": "Presuda Upravnog suda u Zagrebu poslovni broj: UsI-2200/20-10 od 17. studenoga 2021. (NN 101/2022)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2022/101/1500",
+"date": "2022-09-02",
+"how": "cite"
+},
+{
+"ref": "nn:2022/113/1675",
+"title": "Presuda Upravnog suda u Rijeci, poslovni broj: 5 Us I-297/2022-30 od 20. lipnja 2022. (NN 113/2022)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2022/113/1675",
+"date": "2022-09-30",
+"how": "cite"
+},
+{
+"ref": "nn:2022/114/1763",
+"title": "Presuda Upravnog suda u Rijeci, poslovni broj: 10 Us I-587/2022-11 od 19. rujna 2022. (NN 114/2022)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2022/114/1763",
+"date": "2022-10-03",
+"how": "cite"
+},
+{
+"ref": "nn:2022/123/1888",
+"title": "Presuda Visokog upravnog suda Republike Hrvatske poslovni broj: Usoz-18/22-6 od 26. rujna 2022. (NN 123/2022)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2022/123/1888",
+"date": "2022-10-21",
+"how": "cite"
+},
+{
+"ref": "nn:2022/124/1902",
+"title": "Presuda Visokog upravnog suda Republike Hrvatske poslovni broj: Usoz-95/22-8 od 26. rujna 2022. (NN 124/2022)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2022/124/1902",
+"date": "2022-10-24",
+"how": "cite"
+},
+{
+"ref": "nn:2022/137/2074",
+"title": "Presuda Visokog upravnog suda Republike Hrvatske poslovni broj: Usoz-73/19-15 od 24. listopada 2022. (NN 137/2022)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2022/137/2074",
+"date": "2022-11-23",
+"how": "cite"
+},
+{
+"ref": "nn:2022/141/2153",
+"title": "Presuda Visokog upravnog suda Republike Hrvatske poslovni broj: UsII-157/21-8 od 8. studenoga 2022. (NN 141/2022)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2022/141/2153",
+"date": "2022-12-06",
+"how": "cite"
+},
+{
+"ref": "nn:2023/4/76",
+"title": "Rješenje Visokog upravnog suda Republike Hrvatske poslovni broj: Usoz-139/22-10 od 12. prosinca 2022. (NN 4/2023)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2023/4/76",
+"date": "2023-01-11",
+"how": "cite"
+},
+{
+"ref": "nn:2023/5/97",
+"title": "Odluka Ustavnog suda Republike Hrvatske broj: U-III-3686/2019 od 20. prosinca 2022. i Izdvojeno mišljenje sudaca (NN 5/2023)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2023/5/97",
+"date": "2023-01-13",
+"how": "cite"
+},
+{
+"ref": "nn:2023/17/301",
+"title": "Presuda Visokog upravnog suda Republike Hrvatske poslovni broj: Usoz-39/2022-15 od 30. siječnja 2023. (NN 17/2023)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2023/17/301",
+"date": "2023-02-14",
+"how": "cite"
+},
+{
+"ref": "nn:2023/19/340",
+"title": "Presuda Visokog upravnog suda Republike Hrvatske poslovni broj: Usoz-68/20-8 od 30. siječnja 2023. (NN 19/2023)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2023/19/340",
+"date": "2023-02-17",
+"how": "cite"
+},
+{
+"ref": "nn:2023/22/384",
+"title": "Presuda Upravnog suda u Zagrebu poslovni broj: UsI-3850/21-6 od 3. siječnja 2023. (NN 22/2023)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2023/22/384",
+"date": "2023-02-24",
+"how": "cite"
+},
+{
+"ref": "nn:2023/34/602",
+"title": "Presuda Visokog upravnog suda Republike Hrvatske poslovni broj: Usoz-127/22-10 od 27. veljače 2023. (NN 34/2023)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2023/34/602",
+"date": "2023-03-27",
+"how": "cite"
+},
+{
+"ref": "nn:2023/54/943",
+"title": "Presuda Upravnog suda u Splitu broj: 2 UsI-1229/2022-13 od 24. travnja 2023. (NN 54/2023)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2023/54/943",
+"date": "2023-05-23",
+"how": "cite"
+},
+{
+"ref": "nn:2023/62/1036",
+"title": "Presuda Upravnog suda u Rijeci broj: 10 Us I-1233/2022-14 od 25. svibnja 2023. (NN 62/2023)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2023/62/1036",
+"date": "2023-06-09",
+"how": "cite"
+},
+{
+"ref": "nn:2023/65/1088",
+"title": "Presuda Upravnog suda u Rijeci poslovni broj: 1 Us I-976/2022-14 od 15. ožujka 2023. (NN 65/2023)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2023/65/1088",
+"date": "2023-06-16",
+"how": "cite"
+},
+{
+"ref": "nn:2023/69/1151",
+"title": "Presuda Upravnog suda u Rijeci broj: 5 Us I-297/2022-30 od 20. lipnja 2023. (NN 69/2023)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2023/69/1151",
+"date": "2023-06-28",
+"how": "cite"
+},
+{
+"ref": "nn:2023/69/1152",
+"title": "Presuda Upravnog suda u Zagrebu poslovni broj: Usl-2323/20-11 od 21. rujna 2021. (NN 69/2023)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2023/69/1152",
+"date": "2023-06-28",
+"how": "cite"
+},
+{
+"ref": "nn:2023/75/1226",
+"title": "Presuda Visokog upravnog suda Republike Hrvatske poslovni broj: Usoz-43/2023-11 od 29. lipnja 2023. (NN 75/2023)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2023/75/1226",
+"date": "2023-07-07",
+"how": "cite"
+},
+{
+"ref": "nn:2023/75/1227",
+"title": "Presuda Visokog upravnog suda Republike Hrvatske poslovni broj: Usoz-115/2020-9 od 29. lipnja 2023. (NN 75/2023)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2023/75/1227",
+"date": "2023-07-07",
+"how": "cite"
+},
+{
+"ref": "nn:2023/87/1369",
+"title": "Presuda Upravnog suda u Zagrebu poslovni broj: UsI-3024/21-13 od 1. ožujka 2023. (NN 87/2023)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2023/87/1369",
+"date": "2023-07-28",
+"how": "cite"
+},
+{
+"ref": "nn:2023/104/1499",
+"title": "Presuda Visokog upravnog suda Republike Hrvatske poslovni broj: Usoz-114/21-6 od 20. srpnja 2023. (NN 104/2023)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2023/104/1499",
+"date": "2023-09-08",
+"how": "cite"
+},
+{
+"ref": "nn:2023/110/1585",
+"title": "Presuda Visokog upravnog suda Republike Hrvatske poslovni broj: Usoz-97/22-7 od 20. srpnja 2023. (NN 110/2023)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2023/110/1585",
+"date": "2023-09-25",
+"how": "cite"
+},
+{
+"ref": "nn:2023/111/1591",
+"title": "Presuda Visokog upravnog suda Republike Hrvatske poslovni broj: Usoz-146/2022-7 od 20. srpnja 2023. (NN 111/2023)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2023/111/1591",
+"date": "2023-09-27",
+"how": "cite"
+},
+{
+"ref": "nn:2023/113/1607",
+"title": "Presuda Visokog upravnog suda Republike Hrvatske poslovni broj: Usoz-123/2021-11 od 20. srpnja 2023. (NN 113/2023)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2023/113/1607",
+"date": "2023-09-29",
+"how": "cite"
+},
+{
+"ref": "nn:2023/116/1651",
+"title": "Presuda Visokog upravnog suda Republike Hrvatske poslovni broj:UsII-81/22-6 od 7. rujna 2023. (NN 116/2023)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2023/116/1651",
+"date": "2023-10-09",
+"how": "cite"
+},
+{
+"ref": "nn:2023/123/1715",
+"title": "Presuda Visokog upravnog suda Republike Hrvatske poslovni broj: UsII-92/22-10 od 19. rujna 2023. (NN 123/2023)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2023/123/1715",
+"date": "2023-10-23",
+"how": "cite"
+},
+{
+"ref": "nn:2023/123/1716",
+"title": "Presuda Upravnog suda u Zagrebu poslovni broj: UsI-3474/20-7 od 7. prosinca 2021. (NN 123/2023)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2023/123/1716",
+"date": "2023-10-23",
+"how": "cite"
+},
+{
+"ref": "nn:2023/125/1761",
+"title": "Presuda Visokog upravnog suda Republike Hrvatske poslovni broj: Usoz-17/21-9 od 26. rujna 2023. (NN 125/2023)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2023/125/1761",
+"date": "2023-10-26",
+"how": "cite"
+},
+{
+"ref": "nn:2023/125/1762",
+"title": "Presuda Visokog upravnog suda Republike Hrvatske poslovni broj: UsII-140/22-8 od 4. listopada 2023. (NN 125/2023)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2023/125/1762",
+"date": "2023-10-26",
+"how": "cite"
+},
+{
+"ref": "nn:2023/128/1781",
+"title": "Presuda Visokog upravnog suda Republike Hrvatske poslovni broj: Usoz-123/2023-4 od 26. rujna 2023. (NN 128/2023)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2023/128/1781",
+"date": "2023-10-30",
+"how": "cite"
+},
+{
+"ref": "nn:2023/130/1798",
+"title": "Presuda Upravnog suda u Zagrebu poslovni broj: Usl-3670/22-14 od 25. listopada 2023. (NN 130/2023)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2023/130/1798",
+"date": "2023-11-02",
+"how": "cite"
+},
+{
+"ref": "nn:2023/146/2055",
+"title": "Presuda Visokog upravnog suda Republike Hrvatske poslovni broj: Usoz-45/2022-6 od 30. listopada 2023. (NN 146/2023)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2023/146/2055",
+"date": "2023-12-08",
+"how": "cite"
+},
+{
+"ref": "nn:2024/8/156",
+"title": "Presuda Upravnog suda u Splitu poslovni broj: 3 UsI-268/2023-4: od 18. prosinca 2023. (NN 8/2024)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2024/8/156",
+"date": "2024-01-19",
+"how": "cite"
+},
+{
+"ref": "nn:2024/8/157",
+"title": "Presuda Upravnog suda u Splitu poslovni broj: 2 UsI-2799/2022-19 od 29. prosinca 2023. (NN 8/2024)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2024/8/157",
+"date": "2024-01-19",
+"how": "cite"
+},
+{
+"ref": "nn:2024/30/473",
+"title": "Presuda Visokog upravnog suda Republike Hrvatske poslovni broj: Usoz-117/2023-4 od 12. veljače 2024. (NN 30/2024)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2024/30/473",
+"date": "2024-03-13",
+"how": "cite"
+},
+{
+"ref": "nn:2024/36/565",
+"title": "Zakon o dostavi sudskih pismena (NN 36/2024)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2024/36/565",
+"date": "2024-03-25",
+"how": "cite"
+},
+{
+"ref": "nn:2024/52/917",
+"title": "Presuda Visokog upravnog suda Republike Hrvatske poslovni broj: Usoz-120/2022-8 od 27. ožujka 2024. (NN 52/2024)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2024/52/917",
+"date": "2024-05-03",
+"how": "cite"
+},
+{
+"ref": "nn:2024/54/958",
+"title": "Presuda Visokog upravnog suda Republike Hrvatske poslovni broj: Usoz-122/2022-7 od 27. ožujka 2024. (NN 54/2024)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2024/54/958",
+"date": "2024-05-08",
+"how": "cite"
+},
+{
+"ref": "nn:2024/62/1097",
+"title": "Presuda Visokog upravnog suda Republike Hrvatske, poslovni broj: Usoz-108/2022-8 od 27. ožujka 2024. (NN 62/2024)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2024/62/1097",
+"date": "2024-05-22",
+"how": "cite"
+},
+{
+"ref": "nn:2024/63/1131",
+"title": "Presuda Visokog upravnog suda Republike Hrvatske poslovni broj: Usoz-32/2022-13 od 29. travnja 2024. (NN 63/2024)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2024/63/1131",
+"date": "2024-05-24",
+"how": "cite"
+},
+{
+"ref": "nn:2024/76/1310",
+"title": "Presuda Visokog upravnog suda Republike Hrvatske poslovni broj: Usoz-153/2022-10 od 20. svibnja 2024. (NN 76/2024)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2024/76/1310",
+"date": "2024-06-26",
+"how": "cite"
+},
+{
+"ref": "nn:2024/77/1329",
+"title": "Presuda Visokog upravnog suda Republike Hrvatske poslovni broj: Usoz-280/2023-5 od 20. svibnja 2024. (NN 77/2024)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2024/77/1329",
+"date": "2024-06-28",
+"how": "cite"
+},
+{
+"ref": "nn:2024/135/2240",
+"title": "Presuda Upravnog suda u Rijeci poslovni broj: Us I-884/2023-5 od 31. svibnja 2024. (NN 135/2024)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2024/135/2240",
+"date": "2024-11-22",
+"how": "cite"
+},
+{
+"ref": "nn:2024/150/2479",
+"title": "Presuda Visokog upravnog suda Republike Hrvatske poslovni broj: Usoz-20572023-6 od 27. studenoga 2024. (NN 150/2024)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2024/150/2479",
+"date": "2024-12-20",
+"how": "cite"
+},
+{
+"ref": "nn:2025/25/233",
+"title": "Presuda Visokog upravnog suda Republike Hrvatske poslovni broj: Usoz-204/2023-6 od 27. siječnja 2025. (NN 25/2025)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2025/25/233",
+"date": "2025-02-14",
+"how": "cite"
+},
+{
+"ref": "nn:2025/107/1536",
+"title": "Presuda Visokog upravnog suda Republike Hrvatske poslovni broj: Usoz-37/2021-16 od 13. lipnja 2025. (NN 107/2025)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2025/107/1536",
+"date": "2025-07-30",
+"how": "cite"
+},
+{
+"ref": "nn:2025/107/1537",
+"title": "Presuda Visokog upravnog suda Republike Hrvatske poslovni broj: Usoz-55/2024-21 (Usoz-60/2024, Usoz-84/2024, Usoz-87/2025) od 18. srpnja 2025. i dva izdvojena mišljenja sudaca (NN 107/2025)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2025/107/1537",
+"date": "2025-07-30",
+"how": "cite"
+},
+{
+"ref": "nn:2025/110/1581",
+"title": "Presuda Visokog upravnog suda Republike Hrvatske poslovni broj: Usoz-282/2023-5 od 13. lipnja 2025. (NN 110/2025)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2025/110/1581",
+"date": "2025-08-08",
+"how": "cite"
+},
+{
+"ref": "nn:2025/122/1746",
+"title": "Odluka Ustavnog suda Republike Hrvatske broj: U-III-2425/2021 od 15. travnja 2025. i Podupiruće izdvojeno mišljenje sudaca (NN 122/2025)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2025/122/1746",
+"date": "2025-09-19",
+"how": "cite"
+},
+{
+"ref": "nn:2025/140/2098",
+"title": "Presuda Visokog upravnog suda Republike Hrvatske, poslovni broj: Usoz-251/2023-5 od 30. listopada 2025. (NN 140/2025)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2025/140/2098",
+"date": "2025-11-14",
+"how": "cite"
+},
+{
+"ref": "nn:2025/151/2266",
+"title": "Odluka Ustavnog suda Republike Hrvatske broj: U-III-4285/2020 od 7. listopada 2025. (NN 151/2025)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2025/151/2266",
+"date": "2025-12-15",
+"how": "cite"
+},
+{
+"ref": "nn:2026/39/485",
+"title": "Odluka Ustavnog suda Republike Hrvatske broj: U-I-2767/2025, U-I-2768/2025 od 31. ožujka 2026. (NN 39/2026)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/39/485",
+"date": "2026-04-15",
+"how": "cite"
+},
+{
+"ref": "nn:2026/51/645",
+"title": "Presuda Visokog upravnog suda Republike Hrvatske poslovni broj: Usoz-111/2025-3 od 27. travnja 2026. (NN 51/2026)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/51/645",
+"date": "2026-05-18",
+"how": "cite"
+},
+{
+"ref": "nn:2026/53/680",
+"title": "Presuda Visokog upravnog suda Republike Hrvatske poslovni broj: Usoz-112/2025-3 od 27. travnja 2026. (NN 53/2026)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/53/680",
+"date": "2026-05-22",
+"how": "cite"
+},
+{
+"ref": "nn:2026/54/688",
+"title": "Presuda Visokog upravnog suda Republike Hrvatske poslovni broj: Usoz-26/2024-16 od 27. travnja 2026. (NN 54/2026)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/54/688",
+"date": "2026-05-25",
+"how": "cite"
+},
+{
+"ref": "nn:2026/54/689",
+"title": "Presuda Visokog upravnog suda Republike Hrvatske poslovni broj: Usoz-110/2025-3 od 27. travnja 2026. (NN 54/2026)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/54/689",
+"date": "2026-05-25",
+"how": "cite"
+},
+{
+"ref": "nn:2026/128/1525",
+"title": "Odluka Ustavnog suda Republike Hrvatske broj: U-III-4227/2022 od 30. rujna 2026. (NN 128/2026)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/128/1525",
+"date": "2026-11-06",
+"how": "cite"
+}
+]
+},
+{
+"slug": "zakon-2010-485",
+"path": "zakon/2010/485",
+"kind": "zakon",
+"year": "2010",
+"number": "485",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o tehničkim zahtjevima za proizvode i ocjenjivanju sukladnosti",
+"short": "Zakon o tehničkim zahtjevima za proizvode i ocjenjivanju sukladnosti",
+"code": null,
+"status": "repealed, not consolidated",
+"versions": 1,
+"from": "2010-02-20",
+"latest": "2010-02-20",
+"portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/20/485",
+"amended_by": [
+{
+"ref": "nn:2013/80/1657",
+"title": "Zakon o tehničkim zahtjevima za proizvode i ocjenjivanju sukladnosti (NN 80/2013)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/80/1657",
+"date": "2013-06-28",
+"how": "repeal,replace"
+},
+{
+"ref": "nn:2021/126/2131",
+"title": "Zakon o tehničkim zahtjevima za proizvode i ocjenjivanju sukladnosti (NN 126/2021)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2021/126/2131",
+"date": "2021-11-24",
+"how": "replace"
+}
+]
+},
+{
+"slug": "zakon-2010-486",
+"path": "zakon/2010/486",
+"kind": "zakon",
+"year": "2010",
+"number": "486",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izmjeni Zakona o oznakama izvornosti, oznakama zemljopisnog podrijetla i oznakama tradicionalnog ugleda poljoprivrednih i prehrambenih proizvoda",
+"short": "Zakon o izmjeni Zakona o oznakama izvornosti, oznakama zemljopisnog podrijetla i oznakama tradicionalnog ugleda poljoprivrednih i prehrambenih proizvoda",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2010-02-20",
+"latest": "2010-02-20",
+"portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/20/486"
+},
+{
+"slug": "zakon-2010-487",
+"path": "zakon/2010/487",
+"kind": "zakon",
+"year": "2010",
+"number": "487",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izmjenama i dopunama Zakona o upravnim pristojbama",
+"short": "Zakon o izmjenama i dopunama Zakona o upravnim pristojbama",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2010-02-20",
+"latest": "2010-02-20",
+"portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/20/487"
+},
+{
+"slug": "zakon-2010-488",
+"path": "zakon/2010/488",
+"kind": "zakon",
+"year": "2010",
+"number": "488",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izmjenama i dopunama Zakona o proizvodnji, distribuciji i opskrbi toplinskom energijom",
+"short": "Zakon o izmjenama i dopunama Zakona o proizvodnji, distribuciji i opskrbi toplinskom energijom",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2010-02-20",
+"latest": "2010-02-20",
+"portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/20/488"
+},
+{
 "slug": "pravilnik-2010-501",
 "path": "pravilnik/2010/501",
 "kind": "pravilnik",
@@ -214336,6 +217976,92 @@
 "how": "repeal,replace"
 }
 ]
+},
+{
+"slug": "zakon-2010-525",
+"path": "zakon/2010/525",
+"kind": "zakon",
+"year": "2010",
+"number": "525",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o Državnoj komisiji za kontrolu postupaka javne nabave",
+"short": "Zakon o Državnoj komisiji za kontrolu postupaka javne nabave",
+"code": null,
+"status": "replaced, not consolidated",
+"versions": 1,
+"from": "2010-02-23",
+"latest": "2010-02-23",
+"portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/21/525",
+"amended_by": [
+{
+"ref": "nn:2013/18/293",
+"title": "Zakon o Državnoj komisiji za kontrolu postupaka javne nabave (NN 18/2013)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/18/293",
+"date": "2013-02-15",
+"how": "replace"
+}
+],
+"cited_by": [
+{
+"ref": "nn:2011/90/1919",
+"title": "Zakon o javnoj nabavi (NN 90/2011)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/90/1919",
+"date": "2011-08-02",
+"how": "cite"
+}
+]
+},
+{
+"slug": "zakon-2010-526",
+"path": "zakon/2010/526",
+"kind": "zakon",
+"year": "2010",
+"number": "526",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izmjenama i dopunama Zakona o stambenoj štednji i državnom poticanju stambene štednje",
+"short": "Zakon o izmjenama i dopunama Zakona o stambenoj štednji i državnom poticanju stambene štednje",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2010-02-23",
+"latest": "2010-02-23",
+"portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/21/526"
+},
+{
+"slug": "zakon-2010-528",
+"path": "zakon/2010/528",
+"kind": "zakon",
+"year": "2010",
+"number": "528",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izmjenama i dopunama Zakona o poljoprivrednom zemljištu",
+"short": "Zakon o izmjenama i dopunama Zakona o poljoprivrednom zemljištu",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2010-02-15",
+"latest": "2010-02-15",
+"portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/21/528"
+},
+{
+"slug": "zakon-2010-529",
+"path": "zakon/2010/529",
+"kind": "zakon",
+"year": "2010",
+"number": "529",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o prestanku važenja Zakona o privatizaciji Hrvatske elektroprivrede d.d.",
+"short": "Zakon o prestanku važenja Zakona o privatizaciji Hrvatske elektroprivrede d.d.",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2010-02-23",
+"latest": "2010-02-23",
+"portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/21/529"
 },
 {
 "slug": "uredba-2010-530",
@@ -214778,6 +218504,62 @@
 "portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/26/642"
 },
 {
+"slug": "zakon-2010-644",
+"path": "zakon/2010/644",
+"kind": "zakon",
+"year": "2010",
+"number": "644",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o udžbenicima za osnovnu i srednju školu",
+"short": "Zakon o udžbenicima za osnovnu i srednju školu",
+"code": null,
+"status": "repealed, not consolidated",
+"versions": 1,
+"from": "2010-03-02",
+"latest": "2010-03-02",
+"portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/27/644",
+"amended_by": [
+{
+"ref": "nn:2011/55/1197",
+"title": "Zakon o izmjenama Zakona o udžbenicima za osnovnu i srednju školu (NN 55/2011)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/55/1197",
+"date": "2011-05-18",
+"how": "amend"
+},
+{
+"ref": "nn:2018/116/2288",
+"title": "Zakon o udžbenicima i drugim obrazovnim materijalima za osnovnu i srednju školu (NN 116/2018)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2018/116/2288",
+"date": "2018-12-21",
+"how": "repeal"
+}
+],
+"cited_by": [
+{
+"ref": "nn:2013/65/1291",
+"title": "Udžbenički standard (NN 65/2013)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/65/1291",
+"date": "2013-05-29",
+"how": "cite"
+},
+{
+"ref": "nn:2013/65/1297",
+"title": "Rješenje Ustavnog suda Republike Hrvatske broj: U-IIIB-2560/2013 i U-IIIB-2738/2013 od 20. svibnja 2013. (NN 65/2013)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/65/1297",
+"date": "2013-05-29",
+"how": "cite"
+},
+{
+"ref": "nn:2013/90/1970",
+"title": "Nacionalni program zaštite potrošača za razdoblje od 2013. do 2016. godine (NN 90/2013)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/90/1970",
+"date": "2013-07-12",
+"how": "cite"
+}
+]
+},
+{
 "slug": "uredba-2010-651",
 "path": "uredba/2010/651",
 "kind": "uredba",
@@ -214928,6 +218710,32 @@
 "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/140/2821",
 "date": "2011-12-06",
 "how": "amend"
+}
+]
+},
+{
+"slug": "zakon-2010-664",
+"path": "zakon/2010/664",
+"kind": "zakon",
+"year": "2010",
+"number": "664",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o radiološkoj i nuklearnoj sigurnosti",
+"short": "Zakon o radiološkoj i nuklearnoj sigurnosti",
+"code": null,
+"status": "repealed, not consolidated",
+"versions": 1,
+"from": "2010-04-01",
+"latest": "2010-04-01",
+"portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/28/664",
+"amended_by": [
+{
+"ref": "nn:2013/141/3012",
+"title": "Zakon o radiološkoj i nuklearnoj sigurnosti (NN 141/2013)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/141/3012",
+"date": "2013-11-27",
+"how": "repeal,replace"
 }
 ]
 },
@@ -216949,6 +220757,32 @@
 "title": "Pravilnik o obavljanju univerzalne usluge (NN 41/2013)",
 "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/41/781",
 "date": "2013-04-08",
+"how": "repeal"
+}
+]
+},
+{
+"slug": "zakon-2010-966",
+"path": "zakon/2010/966",
+"kind": "zakon",
+"year": "2010",
+"number": "966",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o poticanju prodaje stanova",
+"short": "Zakon o poticanju prodaje stanova",
+"code": null,
+"status": "repealed, not consolidated",
+"versions": 1,
+"from": "2010-04-08",
+"latest": "2010-04-08",
+"portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/38/966",
+"amended_by": [
+{
+"ref": "nn:2011/31/678",
+"title": "Zakon o subvencioniranju i državnom jamstvu stambenih kredita (NN 31/2011)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/31/678",
+"date": "2011-03-16",
 "how": "repeal"
 }
 ]
@@ -231712,6 +235546,40 @@
 ]
 },
 {
+"slug": "zakon-2010-3144",
+"path": "zakon/2010/3144",
+"kind": "zakon",
+"year": "2010",
+"number": "3144",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izmjenama i dopunama Zakona o mirovinskom osiguranju",
+"short": "Zakon o izmjenama i dopunama Zakona o mirovinskom osiguranju",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2010-11-01",
+"latest": "2010-11-01",
+"portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/121/3144"
+},
+{
+"slug": "zakon-2010-3145",
+"path": "zakon/2010/3145",
+"kind": "zakon",
+"year": "2010",
+"number": "3145",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izmjenama i dopunama Zakona o posredovanju pri zapošljavanju i pravima za vrijeme nezaposlenosti",
+"short": "Zakon o izmjenama i dopunama Zakona o posredovanju pri zapošljavanju i pravima za vrijeme nezaposlenosti",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2010-11-01",
+"latest": "2010-11-01",
+"portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/121/3145"
+},
+{
 "slug": "odluka-2010-3149",
 "path": "odluka/2010/3149",
 "kind": "odluka",
@@ -232428,6 +236296,151 @@
 "portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/123/3191"
 },
 {
+"slug": "zakon-2010-3205",
+"path": "zakon/2010/3205",
+"kind": "zakon",
+"year": "2010",
+"number": "3205",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o prestanku važenja Zakona o Fondu za regionalni razvoj Republike Hrvatske",
+"short": "Zakon o prestanku važenja Zakona o Fondu za regionalni razvoj Republike Hrvatske",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2010-11-08",
+"latest": "2010-11-08",
+"portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/124/3205"
+},
+{
+"slug": "zakon-2010-3206",
+"path": "zakon/2010/3206",
+"kind": "zakon",
+"year": "2010",
+"number": "3206",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o prestanku važenja Zakona o Fondu za razvoj i zapošljavanje",
+"short": "Zakon o prestanku važenja Zakona o Fondu za razvoj i zapošljavanje",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2010-11-08",
+"latest": "2010-11-08",
+"portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/124/3206"
+},
+{
+"slug": "zakon-2010-3207",
+"path": "zakon/2010/3207",
+"kind": "zakon",
+"year": "2010",
+"number": "3207",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izmjenama i dopunama Zakona o obveznim i dobrovoljnim mirovinskim fondovima",
+"short": "Zakon o izmjenama i dopunama Zakona o obveznim i dobrovoljnim mirovinskim fondovima",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2010-11-16",
+"latest": "2010-11-16",
+"portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/124/3207"
+},
+{
+"slug": "zakon-2010-3208",
+"path": "zakon/2010/3208",
+"kind": "zakon",
+"year": "2010",
+"number": "3208",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izmjenama i dopunama Zakona o radnom vremenu, obveznim odmorima mobilnih radnika i uređajima za bilježenje u cestovnom prijevozu",
+"short": "Zakon o izmjenama i dopunama Zakona o radnom vremenu, obveznim odmorima mobilnih radnika i uređajima za bilježenje u cestovnom prijevozu",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2010-11-16",
+"latest": "2010-11-16",
+"portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/124/3208"
+},
+{
+"slug": "zakon-2010-3209",
+"path": "zakon/2010/3209",
+"kind": "zakon",
+"year": "2010",
+"number": "3209",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izmjenama i dopunama Zakona o športu",
+"short": "Zakon o izmjenama i dopunama Zakona o športu",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2010-11-08",
+"latest": "2010-11-08",
+"portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/124/3209"
+},
+{
+"slug": "zakon-2010-3210",
+"path": "zakon/2010/3210",
+"kind": "zakon",
+"year": "2010",
+"number": "3210",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izmjenama i dopunama Zakona o osnivanju Hrvatskog centra za poljoprivredu, hranu i selo",
+"short": "Zakon o izmjenama i dopunama Zakona o osnivanju Hrvatskog centra za poljoprivredu, hranu i selo",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2010-11-08",
+"latest": "2010-11-08",
+"portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/124/3210"
+},
+{
+"slug": "zakon-2010-3211",
+"path": "zakon/2010/3211",
+"kind": "zakon",
+"year": "2010",
+"number": "3211",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izmjenama Zakona o šumama",
+"short": "Zakon o izmjenama Zakona o šumama",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2010-11-08",
+"latest": "2010-11-08",
+"portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/124/3211"
+},
+{
+"slug": "zakon-2010-3212",
+"path": "zakon/2010/3212",
+"kind": "zakon",
+"year": "2010",
+"number": "3212",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izmjenama Zakona o državnoj izmjeri i katastru nekretnina",
+"short": "Zakon o izmjenama Zakona o državnoj izmjeri i katastru nekretnina",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2010-11-08",
+"latest": "2010-11-08",
+"portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/124/3212",
+"amended_by": [
+{
+"ref": "nn:2017/9/281",
+"title": "Ispravak Zakona o izmjenama i dopunama Zakona o državnoj izmjeri i katastru nekretnina (NN 9/2017)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/9/281",
+"date": "2017-02-01",
+"how": "amend"
+}
+]
+},
+{
 "slug": "odluka-2010-3224",
 "path": "odluka/2010/3224",
 "kind": "odluka",
@@ -232894,6 +236907,74 @@
 "portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/126/3282"
 },
 {
+"slug": "zakon-2010-3291",
+"path": "zakon/2010/3291",
+"kind": "zakon",
+"year": "2010",
+"number": "3291",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izmjenama i dopunama Zakona o Pravosudnoj akademiji",
+"short": "Zakon o izmjenama i dopunama Zakona o Pravosudnoj akademiji",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2010-11-24",
+"latest": "2010-11-24",
+"portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/127/3291"
+},
+{
+"slug": "zakon-2010-3292",
+"path": "zakon/2010/3292",
+"kind": "zakon",
+"year": "2010",
+"number": "3292",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izmjenama i dopunama Zakona o Hrvatskoj poljoprivrednoj komori",
+"short": "Zakon o izmjenama i dopunama Zakona o Hrvatskoj poljoprivrednoj komori",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2010-11-16",
+"latest": "2010-11-16",
+"portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/127/3292"
+},
+{
+"slug": "zakon-2010-3293",
+"path": "zakon/2010/3293",
+"kind": "zakon",
+"year": "2010",
+"number": "3293",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izmjeni i dopuni Zakona o energiji",
+"short": "Zakon o izmjeni i dopuni Zakona o energiji",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2010-11-24",
+"latest": "2010-11-24",
+"portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/127/3293"
+},
+{
+"slug": "zakon-2010-3294",
+"path": "zakon/2010/3294",
+"kind": "zakon",
+"year": "2010",
+"number": "3294",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o dopuni Zakona o zaštiti i spašavanju",
+"short": "Zakon o dopuni Zakona o zaštiti i spašavanju",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2010-11-16",
+"latest": "2010-11-16",
+"portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/127/3294"
+},
+{
 "slug": "pravilnik-2010-3308",
 "path": "pravilnik/2010/3308",
 "kind": "pravilnik",
@@ -233067,6 +237148,83 @@
 "how": "repeal,replace"
 }
 ]
+},
+{
+"slug": "zakon-2010-3318",
+"path": "zakon/2010/3318",
+"kind": "zakon",
+"year": "2010",
+"number": "3318",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o humanitarnoj pomoći",
+"short": "Zakon o humanitarnoj pomoći",
+"code": null,
+"status": "repealed, not consolidated",
+"versions": 1,
+"from": "2011-07-01",
+"latest": "2011-07-01",
+"portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/128/3318",
+"amended_by": [
+{
+"ref": "nn:2015/102/1970",
+"title": "Zakon o humanitarnoj pomoći (NN 102/2015)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2015/102/1970",
+"date": "2015-09-25",
+"how": "repeal,replace"
+}
+]
+},
+{
+"slug": "zakon-2010-3319",
+"path": "zakon/2010/3319",
+"kind": "zakon",
+"year": "2010",
+"number": "3319",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izmjeni Zakona o postupanju i uvjetima gradnje radi poticanja ulaganja",
+"short": "Zakon o izmjeni Zakona o postupanju i uvjetima gradnje radi poticanja ulaganja",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2010-11-25",
+"latest": "2010-11-25",
+"portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/128/3319"
+},
+{
+"slug": "zakon-2010-3320",
+"path": "zakon/2010/3320",
+"kind": "zakon",
+"year": "2010",
+"number": "3320",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izmjenama i dopunama Zakona o Poreznoj upravi",
+"short": "Zakon o izmjenama i dopunama Zakona o Poreznoj upravi",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2010-11-25",
+"latest": "2010-11-25",
+"portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/128/3320"
+},
+{
+"slug": "zakon-2010-3321",
+"path": "zakon/2010/3321",
+"kind": "zakon",
+"year": "2010",
+"number": "3321",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izmjenama i dopunama Zakona o patentu",
+"short": "Zakon o izmjenama i dopunama Zakona o patentu",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2010-11-25",
+"latest": "2010-11-25",
+"portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/128/3321"
 },
 {
 "slug": "pravilnik-2010-3336",
@@ -234413,6 +238571,356 @@
 ]
 },
 {
+"slug": "zakon-2010-3529",
+"path": "zakon/2010/3529",
+"kind": "zakon",
+"year": "2010",
+"number": "3529",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o javnim ovršiteljima",
+"short": "Zakon o javnim ovršiteljima",
+"code": null,
+"status": "repealed, not consolidated",
+"versions": 1,
+"from": "2010-12-18",
+"latest": "2010-12-18",
+"portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/139/3529",
+"amended_by": [
+{
+"ref": "nn:2011/150/3092",
+"title": "Zakon o izmjeni Zakona o javnim ovršiteljima (NN 150/2011)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/150/3092",
+"date": "2011-12-22",
+"how": "amend"
+},
+{
+"ref": "nn:2012/70/1640",
+"title": "Zakon o izmjeni Zakona o javnim ovršiteljima (NN 70/2012)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2012/70/1640",
+"date": "2012-06-28",
+"how": "amend"
+},
+{
+"ref": "nn:2012/112/2423",
+"title": "Zakon o prestanku važenja Zakona o javnim ovršiteljima (NN 112/2012)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2012/112/2423",
+"date": "2012-10-11",
+"how": "repeal"
+},
+{
+"ref": "nn:2013/13/201",
+"title": "Rješenje Ustavnog suda Republike Hrvatske broj: U-I-5612/2011 i dr. od 23. siječnja 2013. (NN 13/2013)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/13/201",
+"date": "2013-01-30",
+"how": "amend"
+}
+]
+},
+{
+"slug": "zakon-2010-3530",
+"path": "zakon/2010/3530",
+"kind": "zakon",
+"year": "2010",
+"number": "3530",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o fiskalnoj odgovornosti",
+"short": "Zakon o fiskalnoj odgovornosti",
+"code": null,
+"status": "repealed, not consolidated",
+"versions": 1,
+"from": "2011-01-01",
+"latest": "2011-01-01",
+"portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/139/3530",
+"amended_by": [
+{
+"ref": "nn:2014/19/366",
+"title": "Zakon o izmjenama i dopunama Zakona o fiskalnoj odgovornosti (NN 19/2014)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2014/19/366",
+"date": "2014-02-12",
+"how": "amend"
+},
+{
+"ref": "nn:2018/111/2142",
+"title": "Zakon o fiskalnoj odgovornosti (NN 111/2018)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2018/111/2142",
+"date": "2018-12-12",
+"how": "repeal,replace"
+}
+],
+"cited_by": [
+{
+"ref": "nn:2014/96/1932",
+"title": "Godišnji izvještaj o primjeni fiskalnih pravila za 2013. godinu (NN 96/2014)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2014/96/1932",
+"date": "2014-08-04",
+"how": "cite"
+},
+{
+"ref": "nn:2015/80/1547",
+"title": "Godišnji izvještaj o primjeni fiskalnih pravila za 2014. godinu (NN 80/2015)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2015/80/1547",
+"date": "2015-07-21",
+"how": "cite"
+},
+{
+"ref": "nn:2016/105/2258",
+"title": "Kriterij financiranja i ugovaranja programa kulturne autonomije nacionalnih manjina i metodologija praćenja i vrednovanja provedbe financiranih programa (NN 105/2016)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2016/105/2258",
+"date": "2016-11-16",
+"how": "cite"
+},
+{
+"ref": "nn:2016/114/2517",
+"title": "Godišnji izvještaj o primjeni fiskalnih pravila za 2015. godinu (NN 114/2016)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2016/114/2517",
+"date": "2016-12-08",
+"how": "cite"
+},
+{
+"ref": "nn:2016/117/2586",
+"title": "Polugodišnji izvještaj o primjeni fiskalnih pravila za prvo polugodište 2016. godine (NN 117/2016)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2016/117/2586",
+"date": "2016-12-15",
+"how": "cite"
+},
+{
+"ref": "nn:2017/81/1987",
+"title": "Godišnji izvještaj o primjeni fiskalnih pravila (NN 81/2017)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/81/1987",
+"date": "2017-08-18",
+"how": "cite"
+},
+{
+"ref": "nn:2017/111/2619",
+"title": "Polugodišnji izvještaj o primjeni fiskalnih pravila za prvo polugodište 2017. godine (NN 111/2017)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/111/2619",
+"date": "2017-11-16",
+"how": "cite"
+},
+{
+"ref": "nn:2018/105/2055",
+"title": "Godišnji izvještaj o primjeni fiskalnih pravila za 2017. godinu (NN 105/2018)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2018/105/2055",
+"date": "2018-11-29",
+"how": "cite"
+},
+{
+"ref": "nn:2018/107/2083",
+"title": "Polugodišnji izvještaj o primjeni fiskalnih pravila za prvo polugodište 2018. godine (NN 107/2018)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2018/107/2083",
+"date": "2018-12-03",
+"how": "cite"
+}
+]
+},
+{
+"slug": "zakon-2010-3531",
+"path": "zakon/2010/3531",
+"kind": "zakon",
+"year": "2010",
+"number": "3531",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o elektroničkom novcu",
+"short": "Zakon o elektroničkom novcu",
+"code": null,
+"status": "repealed, not consolidated",
+"versions": 1,
+"from": "2011-01-01",
+"latest": "2011-01-01",
+"portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/139/3531",
+"amended_by": [
+{
+"ref": "nn:2018/64/1304",
+"title": "Zakon o elektroničkom novcu (NN 64/2018)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2018/64/1304",
+"date": "2018-07-18",
+"how": "repeal,replace"
+}
+]
+},
+{
+"slug": "zakon-2010-3532",
+"path": "zakon/2010/3532",
+"kind": "zakon",
+"year": "2010",
+"number": "3532",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o ekološkoj proizvodnji i označavanju ekoloških proizvoda",
+"short": "Zakon o ekološkoj proizvodnji i označavanju ekoloških proizvoda",
+"code": null,
+"status": "repealed, not consolidated",
+"versions": 1,
+"from": "2010-12-18",
+"latest": "2010-12-18",
+"portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/139/3532",
+"amended_by": [
+{
+"ref": "nn:2013/80/1662",
+"title": "Zakon o provedbi Uredbe Vijeća (EZ) br. 834/2007 o ekološkoj proizvodnji i označavanju ekoloških proizvoda (NN 80/2013)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/80/1662",
+"date": "2013-06-28",
+"how": "repeal"
+}
+]
+},
+{
+"slug": "zakon-2010-3534",
+"path": "zakon/2010/3534",
+"kind": "zakon",
+"year": "2010",
+"number": "3534",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o prestanku važenja Zakona o zdravstvenom osiguranju zaštite zdravlja na radu",
+"short": "Zakon o prestanku važenja Zakona o zdravstvenom osiguranju zaštite zdravlja na radu",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2011-01-01",
+"latest": "2011-01-01",
+"portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/139/3534"
+},
+{
+"slug": "zakon-2010-3535",
+"path": "zakon/2010/3535",
+"kind": "zakon",
+"year": "2010",
+"number": "3535",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izmjenama i dopunama Zakona o zdravstvenoj zaštiti",
+"short": "Zakon o izmjenama i dopunama Zakona o zdravstvenoj zaštiti",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2010-12-18",
+"latest": "2010-12-18",
+"portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/139/3535"
+},
+{
+"slug": "zakon-2010-3536",
+"path": "zakon/2010/3536",
+"kind": "zakon",
+"year": "2010",
+"number": "3536",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izmjenama i dopunama Zakona o obveznom zdravstvenom osiguranju",
+"short": "Zakon o izmjenama i dopunama Zakona o obveznom zdravstvenom osiguranju",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2011-01-01",
+"latest": "2011-01-01",
+"portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/139/3536"
+},
+{
+"slug": "zakon-2010-3537",
+"path": "zakon/2010/3537",
+"kind": "zakon",
+"year": "2010",
+"number": "3537",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izmjenama Zakona o obeštećenju radnika profesionalno izloženih azbestu",
+"short": "Zakon o izmjenama Zakona o obeštećenju radnika profesionalno izloženih azbestu",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2011-01-01",
+"latest": "2011-01-01",
+"portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/139/3537"
+},
+{
+"slug": "zakon-2010-3538",
+"path": "zakon/2010/3538",
+"kind": "zakon",
+"year": "2010",
+"number": "3538",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izmjenama Zakona o obveznom zdravstvenom nadzoru radnika profesionalno izloženih azbestu",
+"short": "Zakon o izmjenama Zakona o obveznom zdravstvenom nadzoru radnika profesionalno izloženih azbestu",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2011-01-01",
+"latest": "2011-01-01",
+"portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/139/3538"
+},
+{
+"slug": "zakon-2010-3539",
+"path": "zakon/2010/3539",
+"kind": "zakon",
+"year": "2010",
+"number": "3539",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izmjeni Zakona o uvjetima za stjecanje prava na starosnu mirovinu radnika profesionalno izloženih azbestu",
+"short": "Zakon o izmjeni Zakona o uvjetima za stjecanje prava na starosnu mirovinu radnika profesionalno izloženih azbestu",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2011-01-01",
+"latest": "2011-01-01",
+"portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/139/3539"
+},
+{
+"slug": "zakon-2010-3541",
+"path": "zakon/2010/3541",
+"kind": "zakon",
+"year": "2010",
+"number": "3541",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izmjeni i dopunama Zakona o privatnoj zaštiti",
+"short": "Zakon o izmjeni i dopunama Zakona o privatnoj zaštiti",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2010-12-18",
+"latest": "2010-12-18",
+"portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/139/3541"
+},
+{
+"slug": "zakon-2010-3542",
+"path": "zakon/2010/3542",
+"kind": "zakon",
+"year": "2010",
+"number": "3542",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izmjenama i dopunama Zakona o općoj sigurnosti proizvoda",
+"short": "Zakon o izmjenama i dopunama Zakona o općoj sigurnosti proizvoda",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2010-12-18",
+"latest": "2010-12-18",
+"portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/139/3542"
+},
+{
+"slug": "zakon-2010-3543",
+"path": "zakon/2010/3543",
+"kind": "zakon",
+"year": "2010",
+"number": "3543",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izmjenama Zakona o pučkim otvorenim učilištima",
+"short": "Zakon o izmjenama Zakona o pučkim otvorenim učilištima",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2010-12-18",
+"latest": "2010-12-18",
+"portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/139/3543"
+},
+{
 "slug": "pravilnik-2010-3546",
 "path": "pravilnik/2010/3546",
 "kind": "pravilnik",
@@ -234654,6 +239162,23 @@
 "from": "2010-12-14",
 "latest": "2010-12-14",
 "portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/140/3573"
+},
+{
+"slug": "zakon-2010-3574",
+"path": "zakon/2010/3574",
+"kind": "zakon",
+"year": "2010",
+"number": "3574",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izvršavanju Državnog proračuna Republike Hrvatske za 2011. godinu",
+"short": "Zakon o izvršavanju Državnog proračuna Republike Hrvatske za 2011. godinu",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2011-01-01",
+"latest": "2011-01-01",
+"portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/140/3574"
 },
 {
 "slug": "odluka-2010-3575",
@@ -235120,6 +239645,99 @@
 ]
 },
 {
+"slug": "zakon-2010-3625",
+"path": "zakon/2010/3625",
+"kind": "zakon",
+"year": "2010",
+"number": "3625",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o područjima i sjedištima sudova",
+"short": "Zakon o područjima i sjedištima sudova",
+"code": null,
+"status": "repealed, not consolidated",
+"versions": 1,
+"from": "2010-12-30",
+"latest": "2010-12-30",
+"portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/144/3625",
+"amended_by": [
+{
+"ref": "nn:2011/84/1794",
+"title": "Zakon o izmjenama i dopunama Zakon o područjima i sjedištima sudova (NN 84/2011)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/84/1794",
+"date": "2011-07-20",
+"how": "amend"
+},
+{
+"ref": "nn:2014/128/2430",
+"title": "Zakon o područjima i sjedištima sudova (NN 128/2014)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2014/128/2430",
+"date": "2014-10-31",
+"how": "repeal,replace"
+}
+]
+},
+{
+"slug": "zakon-2010-3626",
+"path": "zakon/2010/3626",
+"kind": "zakon",
+"year": "2010",
+"number": "3626",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o područjima i sjedištima državnih odvjetništava",
+"short": "Zakon o područjima i sjedištima državnih odvjetništava",
+"code": null,
+"status": "repealed, not consolidated",
+"versions": 1,
+"from": "2011-01-01",
+"latest": "2011-01-01",
+"portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/144/3626",
+"amended_by": [
+{
+"ref": "nn:2011/84/1793",
+"title": "Zakon o područjima i sjedištima državnih odvjetništava (NN 84/2011)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/84/1793",
+"date": "2011-07-20",
+"how": "repeal,replace"
+}
+]
+},
+{
+"slug": "zakon-2010-3627",
+"path": "zakon/2010/3627",
+"kind": "zakon",
+"year": "2010",
+"number": "3627",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izmjenama i dopunama Zakona o pravu na pristup informacijama",
+"short": "Zakon o izmjenama i dopunama Zakona o pravu na pristup informacijama",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2010-12-30",
+"latest": "2010-12-30",
+"portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/144/3627"
+},
+{
+"slug": "zakon-2010-3628",
+"path": "zakon/2010/3628",
+"kind": "zakon",
+"year": "2010",
+"number": "3628",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izmjenama i dopunama Zakona o eksplozivnim tvarima",
+"short": "Zakon o izmjenama i dopunama Zakona o eksplozivnim tvarima",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2010-12-22",
+"latest": "2010-12-22",
+"portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/144/3628"
+},
+{
 "slug": "odluka-2010-3629",
 "path": "odluka/2010/3629",
 "kind": "odluka",
@@ -235523,6 +240141,328 @@
 "from": "2010-12-09",
 "latest": "2010-12-09",
 "portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/144/3662"
+},
+{
+"slug": "zakon-2010-3668",
+"path": "zakon/2010/3668",
+"kind": "zakon",
+"year": "2010",
+"number": "3668",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o postupku oduzimanja imovinske koristi ostvarene kaznenim djelom i prekršajem",
+"short": "Zakon o postupku oduzimanja imovinske koristi ostvarene kaznenim djelom i prekršajem",
+"code": null,
+"status": "repealed, not consolidated",
+"versions": 1,
+"from": "2011-01-01",
+"latest": "2011-01-01",
+"portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/145/3668",
+"amended_by": [
+{
+"ref": "nn:2017/70/1662",
+"title": "Zakon o prestanku važenja Zakona o postupku oduzimanja imovinske koristi ostvarene kaznenim djelom i prekršajem (NN 70/2017)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/70/1662",
+"date": "2017-07-19",
+"how": "repeal"
+}
+],
+"cited_by": [
+{
+"ref": "nn:2015/89/1753",
+"title": "Odluka Ustavnog suda Republike Hrvatske broj: U-III-4149/2014 od 24. srpnja 2015. (NN 89/2015)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2015/89/1753",
+"date": "2015-08-14",
+"how": "cite"
+},
+{
+"ref": "nn:2017/97/2264",
+"title": "Rješenje Ustavnog suda Republike Hrvatske broj: U-III-1055/2017. od 11. srpnja 2017. (NN 97/2017)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/97/2264",
+"date": "2017-09-29",
+"how": "cite"
+},
+{
+"ref": "nn:2017/98/2275",
+"title": "Odluka i Rješenje Ustavnog suda Republike Hrvatske broj: U-III-1816/2017 od 11. srpnja 2017. (NN 98/2017)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/98/2275",
+"date": "2017-10-04",
+"how": "cite"
+},
+{
+"ref": "nn:2020/88/1677",
+"title": "Odluka Ustavnog suda Republike Hrvatske broj: U-III-1159/2017 od 14. srpnja 2020. (NN 88/2020)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2020/88/1677",
+"date": "2020-07-30",
+"how": "cite"
+},
+{
+"ref": "nn:2020/138/2679",
+"title": "Odluka Ustavnog suda Republike Hrvatske broj: U-IIIA-2787/2019 od 20. listopada 2020. (NN 138/2020)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2020/138/2679",
+"date": "2020-12-11",
+"how": "cite"
+}
+]
+},
+{
+"slug": "zakon-2010-3669",
+"path": "zakon/2010/3669",
+"kind": "zakon",
+"year": "2010",
+"number": "3669",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o upravljanju državnom imovinom",
+"short": "Zakon o upravljanju državnom imovinom",
+"code": null,
+"status": "repealed, not consolidated",
+"versions": 1,
+"from": "2011-01-01",
+"latest": "2011-01-01",
+"portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/145/3669",
+"amended_by": [
+{
+"ref": "nn:2012/70/1641",
+"title": "Zakon o izmjeni Zakona o upravljanju državnom imovinom (NN 70/2012)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2012/70/1641",
+"date": "2012-06-28",
+"how": "amend"
+},
+{
+"ref": "nn:2013/94/2121",
+"title": "Zakon o upravljanju i raspolaganju imovinom u vlasništvu Republike Hrvatske (NN 94/2013)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/94/2121",
+"date": "2013-07-22",
+"how": "repeal"
+},
+{
+"ref": "nn:2018/52/1023",
+"title": "Zakon o upravljanju državnom imovinom (NN 52/2018)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2018/52/1023",
+"date": "2018-06-06",
+"how": "replace"
+}
+],
+"cited_by": [
+{
+"ref": "nn:2012/134/2856",
+"title": "Rješenje o razrješenju predsjednika, zamjenika predsjednika i članova Upravnog vijeća Agencije za upravljanje državnom imovinom (NN 134/2012)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2012/134/2856",
+"date": "2012-12-05",
+"how": "cite"
+},
+{
+"ref": "nn:2012/140/2958",
+"title": "Rješenje o razrješenju predsjednika Upravnog vijeća Agencije za upravljanje državnom imovinom (NN 140/2012)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2012/140/2958",
+"date": "2012-12-17",
+"how": "cite"
+},
+{
+"ref": "nn:2012/140/2959",
+"title": "Rješenje o imenovanju predsjednika Upravnog vijeća Agencije za upravljanje državnom imovinom (NN 140/2012)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2012/140/2959",
+"date": "2012-12-17",
+"how": "cite"
+},
+{
+"ref": "nn:2012/141/2984",
+"title": "Rješenje o razrješenju dijela članova Upravnog vijeća Agencije za upravljanje državnom imovinom (NN 141/2012)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2012/141/2984",
+"date": "2012-12-18",
+"how": "cite"
+},
+{
+"ref": "nn:2012/141/2985",
+"title": "Rješenje o imenovanju dijela članova Upravnog vijeća Agencije za upravljanje državnom imovinom (NN 141/2012)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2012/141/2985",
+"date": "2012-12-18",
+"how": "cite"
+},
+{
+"ref": "nn:2013/45/871",
+"title": "Rješenje o razrješenju člana Upravnog vijeća Agencije za upravljanje državnom imovinom (NN 45/2013)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/45/871",
+"date": "2013-04-16",
+"how": "cite"
+},
+{
+"ref": "nn:2013/45/872",
+"title": "Rješenje o imenovanju člana Upravnog vijeća Agencije za upravljanje državnom imovinom (NN 45/2013)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/45/872",
+"date": "2013-04-16",
+"how": "cite"
+},
+{
+"ref": "nn:2013/76/1532",
+"title": "Strategija upravljanja i raspolaganja imovinom u vlasništvu Republike Hrvatske za razdoblje od 2013. do 2017. godine (NN 76/2013)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/76/1532",
+"date": "2013-06-21",
+"how": "cite"
+},
+{
+"ref": "nn:2013/90/1989",
+"title": "Rješenje o razrješenju predsjednika Upravnog vijeća Agencije za upravljanje državnom imovinom (NN 90/2013)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/90/1989",
+"date": "2013-07-12",
+"how": "cite"
+},
+{
+"ref": "nn:2013/148/3141",
+"title": "Zakon o izmjenama i dopunama Zakona o preuzimanju dioničkih društava (NN 148/2013)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/148/3141",
+"date": "2013-12-11",
+"how": "cite"
+},
+{
+"ref": "nn:2014/130/2463",
+"title": "Rješenje Ustavnog suda Republike Hrvatske broj: U-I-4091/2013 od 15. listopada 2014. (NN 130/2014)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2014/130/2463",
+"date": "2014-11-05",
+"how": "cite"
+},
+{
+"ref": "nn:2019/18/400",
+"title": "Rješenje Ustavnog suda Republike Hrvatske broj: U-III-4596/2017 od 18. prosinca 2018. (NN 18/2019)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2019/18/400",
+"date": "2019-02-22",
+"how": "cite"
+},
+{
+"ref": "nn:2019/96/1863",
+"title": "Stategija upravljanja državnom imovinom za razdoblje 2019. - 2025. (NN 96/2019)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2019/96/1863",
+"date": "2019-10-09",
+"how": "cite"
+},
+{
+"ref": "nn:2023/155/2361",
+"title": "Zakon o upravljanju nekretninama i pokretninama u vlasništvu Republike Hrvatske (NN 155/2023)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2023/155/2361",
+"date": "2023-12-22",
+"how": "cite"
+}
+]
+},
+{
+"slug": "zakon-2010-3670",
+"path": "zakon/2010/3670",
+"kind": "zakon",
+"year": "2010",
+"number": "3670",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izmjenama i dopunama Zakona o područjima županija, gradova i općina u Republici Hrvatskoj",
+"short": "Zakon o izmjenama i dopunama Zakona o područjima županija, gradova i općina u Republici Hrvatskoj",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2011-01-01",
+"latest": "2011-01-01",
+"portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/145/3670"
+},
+{
+"slug": "zakon-2010-3671",
+"path": "zakon/2010/3671",
+"kind": "zakon",
+"year": "2010",
+"number": "3671",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izmjenama i dopunama Zakona o izborima zastupnika u Hrvatski sabor",
+"short": "Zakon o izmjenama i dopunama Zakona o izborima zastupnika u Hrvatski sabor",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2011-01-01",
+"latest": "2011-01-01",
+"portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/145/3671"
+},
+{
+"slug": "zakon-2010-3672",
+"path": "zakon/2010/3672",
+"kind": "zakon",
+"year": "2010",
+"number": "3672",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izmjenama i dopunama Zakona o deviznom poslovanju",
+"short": "Zakon o izmjenama i dopunama Zakona o deviznom poslovanju",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2011-01-01",
+"latest": "2011-01-01",
+"portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/145/3672"
+},
+{
+"slug": "zakon-2010-3673",
+"path": "zakon/2010/3673",
+"kind": "zakon",
+"year": "2010",
+"number": "3673",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izmjenama i dopuni Zakona o državnom odvjetništvu",
+"short": "Zakon o izmjenama i dopuni Zakona o državnom odvjetništvu",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2011-01-01",
+"latest": "2011-01-01",
+"portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/145/3673"
+},
+{
+"slug": "zakon-2010-3674",
+"path": "zakon/2010/3674",
+"kind": "zakon",
+"year": "2010",
+"number": "3674",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izmjenama i dopunama Zakona o biogorivima za prijevoz",
+"short": "Zakon o izmjenama i dopunama Zakona o biogorivima za prijevoz",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2011-01-01",
+"latest": "2011-01-01",
+"portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/145/3674"
+},
+{
+"slug": "zakon-2010-3675",
+"path": "zakon/2010/3675",
+"kind": "zakon",
+"year": "2010",
+"number": "3675",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izmjenama i dopunama Zakona o primaljstvu",
+"short": "Zakon o izmjenama i dopunama Zakona o primaljstvu",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2011-01-01",
+"latest": "2011-01-01",
+"portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/145/3675"
+},
+{
+"slug": "zakon-2010-3676",
+"path": "zakon/2010/3676",
+"kind": "zakon",
+"year": "2010",
+"number": "3676",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izmjenama i dopunama Zakona o Zakladi \"Hrvatska za djecu\"",
+"short": "Zakon o izmjenama i dopunama Zakona o Zakladi \"Hrvatska za djecu\"",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2011-01-01",
+"latest": "2011-01-01",
+"portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/145/3676"
 },
 {
 "slug": "odluka-2010-3678",

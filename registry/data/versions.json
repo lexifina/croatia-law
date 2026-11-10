@@ -85502,6 +85502,861 @@
    ]
   },
   {
+   "slug": "zakon-2010-3144",
+   "path": "zakon/2010/3144",
+   "short": "Zakon o izmjenama i dopunama Zakona o mirovinskom osiguranju",
+   "title": "Zakon o izmjenama i dopunama Zakona o mirovinskom osiguranju",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/121/3144",
+   "versions": [
+    {
+     "from": "2010-11-01",
+     "units": 33,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2010_10_121_3144.html",
+     "sha256": "3f905e1effeb93a1d57668743b0a503f1b5b428b20daf682d1becf061554eed8"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2010-3145",
+   "path": "zakon/2010/3145",
+   "short": "Zakon o izmjenama i dopunama Zakona o posredovanju pri zapošljavanju i pravima za vrijeme nezaposlenosti",
+   "title": "Zakon o izmjenama i dopunama Zakona o posredovanju pri zapošljavanju i pravima za vrijeme nezaposlenosti",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/121/3145",
+   "versions": [
+    {
+     "from": "2010-11-01",
+     "units": 17,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2010_10_121_3145.html",
+     "sha256": "02b585fd166d349311eb1f8b85d3cf4cb427e11d3cbd615b82ec45653e5517a0"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2010-3205",
+   "path": "zakon/2010/3205",
+   "short": "Zakon o prestanku važenja Zakona o Fondu za regionalni razvoj Republike Hrvatske",
+   "title": "Zakon o prestanku važenja Zakona o Fondu za regionalni razvoj Republike Hrvatske",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/124/3205",
+   "versions": [
+    {
+     "from": "2010-11-08",
+     "units": 8,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2010_11_124_3205.html",
+     "sha256": "90a957395eef5f322b84e91f73e6bbd0525ca096f087fade8fad5312ecebb2e1"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2010-3206",
+   "path": "zakon/2010/3206",
+   "short": "Zakon o prestanku važenja Zakona o Fondu za razvoj i zapošljavanje",
+   "title": "Zakon o prestanku važenja Zakona o Fondu za razvoj i zapošljavanje",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/124/3206",
+   "versions": [
+    {
+     "from": "2010-11-08",
+     "units": 8,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2010_11_124_3206.html",
+     "sha256": "07a4e7df798df0a9b861fed14648a7e626179dcd94a3c67a8c8c0b68ccdcf42f"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2010-3207",
+   "path": "zakon/2010/3207",
+   "short": "Zakon o izmjenama i dopunama Zakona o obveznim i dobrovoljnim mirovinskim fondovima",
+   "title": "Zakon o izmjenama i dopunama Zakona o obveznim i dobrovoljnim mirovinskim fondovima",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/124/3207",
+   "versions": [
+    {
+     "from": "2010-11-16",
+     "units": 31,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2010_11_124_3207.html",
+     "sha256": "894b0c8555d9eccab644295ac4e9004a1cfdb610b1315cd7f9aaef5dd813a5d4"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2010-3208",
+   "path": "zakon/2010/3208",
+   "short": "Zakon o izmjenama i dopunama Zakona o radnom vremenu, obveznim odmorima mobilnih radnika i uređajima za bilježenje u cestovnom prijevozu",
+   "title": "Zakon o izmjenama i dopunama Zakona o radnom vremenu, obveznim odmorima mobilnih radnika i uređajima za bilježenje u cestovnom prijevozu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/124/3208",
+   "versions": [
+    {
+     "from": "2010-11-16",
+     "units": 14,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2010_11_124_3208.html",
+     "sha256": "c5b786f025893003a0f7229052b3807eab599e4a5577221bff9619be00c0c3d0"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2010-3209",
+   "path": "zakon/2010/3209",
+   "short": "Zakon o izmjenama i dopunama Zakona o športu",
+   "title": "Zakon o izmjenama i dopunama Zakona o športu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/124/3209",
+   "versions": [
+    {
+     "from": "2010-11-08",
+     "units": 8,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2010_11_124_3209.html",
+     "sha256": "30548b1a58a6d1189b54d9e4b1772e7cf7a083414e8de2c1869a25cd872c34ed"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2010-3210",
+   "path": "zakon/2010/3210",
+   "short": "Zakon o izmjenama i dopunama Zakona o osnivanju Hrvatskog centra za poljoprivredu, hranu i selo",
+   "title": "Zakon o izmjenama i dopunama Zakona o osnivanju Hrvatskog centra za poljoprivredu, hranu i selo",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/124/3210",
+   "versions": [
+    {
+     "from": "2010-11-08",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2010_11_124_3210.html",
+     "sha256": "8f3abc2d9317f4e8fde7dbb3463216aafb2922b01985a82e387a16ceae855404"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2010-3211",
+   "path": "zakon/2010/3211",
+   "short": "Zakon o izmjenama Zakona o šumama",
+   "title": "Zakon o izmjenama Zakona o šumama",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/124/3211",
+   "versions": [
+    {
+     "from": "2010-11-08",
+     "units": 14,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2010_11_124_3211.html",
+     "sha256": "88ac5ead43d8727060fadaac5d236f208d9fc1cd08fc682caee0b9edbc0c893c"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2010-3212",
+   "path": "zakon/2010/3212",
+   "short": "Zakon o izmjenama Zakona o državnoj izmjeri i katastru nekretnina",
+   "title": "Zakon o izmjenama Zakona o državnoj izmjeri i katastru nekretnina",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/124/3212",
+   "versions": [
+    {
+     "from": "2010-11-08",
+     "units": 10,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2010_11_124_3212.html",
+     "sha256": "95a7470c69df73a0fe6050fe6a4bb97ce6a0f2a74d5619e5d00969433360a598"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2010-3291",
+   "path": "zakon/2010/3291",
+   "short": "Zakon o izmjenama i dopunama Zakona o Pravosudnoj akademiji",
+   "title": "Zakon o izmjenama i dopunama Zakona o Pravosudnoj akademiji",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/127/3291",
+   "versions": [
+    {
+     "from": "2010-11-24",
+     "units": 14,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2010_11_127_3291.html",
+     "sha256": "994a34c3bb5368bf1b1f610737ca02f9670b2cd224639f024b687bf1f68c5730"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2010-3292",
+   "path": "zakon/2010/3292",
+   "short": "Zakon o izmjenama i dopunama Zakona o Hrvatskoj poljoprivrednoj komori",
+   "title": "Zakon o izmjenama i dopunama Zakona o Hrvatskoj poljoprivrednoj komori",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/127/3292",
+   "versions": [
+    {
+     "from": "2010-11-16",
+     "units": 12,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2010_11_127_3292.html",
+     "sha256": "0269a3b075c79d4b30641f8e5cd2c328f7b363f53e5d12d3ee4c6ed4d9c72dd8"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2010-3293",
+   "path": "zakon/2010/3293",
+   "short": "Zakon o izmjeni i dopuni Zakona o energiji",
+   "title": "Zakon o izmjeni i dopuni Zakona o energiji",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/127/3293",
+   "versions": [
+    {
+     "from": "2010-11-24",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2010_11_127_3293.html",
+     "sha256": "d0457ec62273b5e5f19a72af1225e6e9af190bbe9263de5fe72841962f7d7a3e"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2010-3294",
+   "path": "zakon/2010/3294",
+   "short": "Zakon o dopuni Zakona o zaštiti i spašavanju",
+   "title": "Zakon o dopuni Zakona o zaštiti i spašavanju",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/127/3294",
+   "versions": [
+    {
+     "from": "2010-11-16",
+     "units": 6,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2010_11_127_3294.html",
+     "sha256": "4fe9679e2d06fc65b0e72431797cc238d08c52614253f617489e261e71e76284"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2010-3318",
+   "path": "zakon/2010/3318",
+   "short": "Zakon o humanitarnoj pomoći",
+   "title": "Zakon o humanitarnoj pomoći",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/128/3318",
+   "versions": [
+    {
+     "from": "2011-07-01",
+     "units": 34,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2010_11_128_3318.html",
+     "sha256": "ac0359e83487390fca4a50a97c7aadd678940949f78f75ac951e4e5a9ae0a17f"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2010-3319",
+   "path": "zakon/2010/3319",
+   "short": "Zakon o izmjeni Zakona o postupanju i uvjetima gradnje radi poticanja ulaganja",
+   "title": "Zakon o izmjeni Zakona o postupanju i uvjetima gradnje radi poticanja ulaganja",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/128/3319",
+   "versions": [
+    {
+     "from": "2010-11-25",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2010_11_128_3319.html",
+     "sha256": "ba59058202b5e5fa3c71771bff03b9158e2722d144113c1a351b7f69f4cf8267"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2010-3320",
+   "path": "zakon/2010/3320",
+   "short": "Zakon o izmjenama i dopunama Zakona o Poreznoj upravi",
+   "title": "Zakon o izmjenama i dopunama Zakona o Poreznoj upravi",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/128/3320",
+   "versions": [
+    {
+     "from": "2010-11-25",
+     "units": 11,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2010_11_128_3320.html",
+     "sha256": "a4a485274e2f4454f9be19428ea48b371e2e5198a0ac690b5d4284883ccbec2c"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2010-3321",
+   "path": "zakon/2010/3321",
+   "short": "Zakon o izmjenama i dopunama Zakona o patentu",
+   "title": "Zakon o izmjenama i dopunama Zakona o patentu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/128/3321",
+   "versions": [
+    {
+     "from": "2010-11-25",
+     "units": 10,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2010_11_128_3321.html",
+     "sha256": "9b97a1034b9b3c778560aa518bcb159cc9ecd0d4f859fab5b6e2e7d11e8c246b"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2010-3529",
+   "path": "zakon/2010/3529",
+   "short": "Zakon o javnim ovršiteljima",
+   "title": "Zakon o javnim ovršiteljima",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/139/3529",
+   "versions": [
+    {
+     "from": "2010-12-18",
+     "units": 123,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2010_12_139_3529.html",
+     "sha256": "88a55c60dc9b527308f698b9d3b84619ff294cfeecee1b09ebe462b842de23dd"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2010-3530",
+   "path": "zakon/2010/3530",
+   "short": "Zakon o fiskalnoj odgovornosti",
+   "title": "Zakon o fiskalnoj odgovornosti",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/139/3530",
+   "versions": [
+    {
+     "from": "2011-01-01",
+     "units": 16,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2010_12_139_3530.html",
+     "sha256": "561b82797f57565fd2429ed6a1e8f18c1f2c47e87ed5dfcabc9103b27c584e3c"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2010-3531",
+   "path": "zakon/2010/3531",
+   "short": "Zakon o elektroničkom novcu",
+   "title": "Zakon o elektroničkom novcu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/139/3531",
+   "versions": [
+    {
+     "from": "2011-01-01",
+     "units": 106,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2010_12_139_3531.html",
+     "sha256": "b0c4582ec12c3f83b5614aaadda65480b04c9d6c7a1938c2c9e496f7d1b49670"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2010-3532",
+   "path": "zakon/2010/3532",
+   "short": "Zakon o ekološkoj proizvodnji i označavanju ekoloških proizvoda",
+   "title": "Zakon o ekološkoj proizvodnji i označavanju ekoloških proizvoda",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/139/3532",
+   "versions": [
+    {
+     "from": "2010-12-18",
+     "units": 63,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2010_12_139_3532.html",
+     "sha256": "e42b78f50a3e12596b956c3ebcd07fdc7a5da11fb7e9574076a60db99457364e"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2010-3534",
+   "path": "zakon/2010/3534",
+   "short": "Zakon o prestanku važenja Zakona o zdravstvenom osiguranju zaštite zdravlja na radu",
+   "title": "Zakon o prestanku važenja Zakona o zdravstvenom osiguranju zaštite zdravlja na radu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/139/3534",
+   "versions": [
+    {
+     "from": "2011-01-01",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2010_12_139_3534.html",
+     "sha256": "0545c00095164f26d4466ee5d2b218120a7c19c7d8a24b8930db766654c26064"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2010-3535",
+   "path": "zakon/2010/3535",
+   "short": "Zakon o izmjenama i dopunama Zakona o zdravstvenoj zaštiti",
+   "title": "Zakon o izmjenama i dopunama Zakona o zdravstvenoj zaštiti",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/139/3535",
+   "versions": [
+    {
+     "from": "2010-12-18",
+     "units": 14,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2010_12_139_3535.html",
+     "sha256": "111bab0ab4bbed23318f331fbe2c2bb1ce19eec7a37506350389864f01e438ae"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2010-3536",
+   "path": "zakon/2010/3536",
+   "short": "Zakon o izmjenama i dopunama Zakona o obveznom zdravstvenom osiguranju",
+   "title": "Zakon o izmjenama i dopunama Zakona o obveznom zdravstvenom osiguranju",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/139/3536",
+   "versions": [
+    {
+     "from": "2011-01-01",
+     "units": 31,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2010_12_139_3536.html",
+     "sha256": "4619d77cd73847e659965884d3c11bc4e6f569e6a5a6f4fa36c6c12ad89c7e3c"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2010-3537",
+   "path": "zakon/2010/3537",
+   "short": "Zakon o izmjenama Zakona o obeštećenju radnika profesionalno izloženih azbestu",
+   "title": "Zakon o izmjenama Zakona o obeštećenju radnika profesionalno izloženih azbestu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/139/3537",
+   "versions": [
+    {
+     "from": "2011-01-01",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2010_12_139_3537.html",
+     "sha256": "8e6017a03c6e4f1294c5216f506f620be5e1a9506be9d02eb594e1c49bfa157a"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2010-3538",
+   "path": "zakon/2010/3538",
+   "short": "Zakon o izmjenama Zakona o obveznom zdravstvenom nadzoru radnika profesionalno izloženih azbestu",
+   "title": "Zakon o izmjenama Zakona o obveznom zdravstvenom nadzoru radnika profesionalno izloženih azbestu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/139/3538",
+   "versions": [
+    {
+     "from": "2011-01-01",
+     "units": 6,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2010_12_139_3538.html",
+     "sha256": "8fd97d210f439c1c460167ebefa7c490ff0eed323abe1aea7fee363376dfebcb"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2010-3539",
+   "path": "zakon/2010/3539",
+   "short": "Zakon o izmjeni Zakona o uvjetima za stjecanje prava na starosnu mirovinu radnika profesionalno izloženih azbestu",
+   "title": "Zakon o izmjeni Zakona o uvjetima za stjecanje prava na starosnu mirovinu radnika profesionalno izloženih azbestu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/139/3539",
+   "versions": [
+    {
+     "from": "2011-01-01",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2010_12_139_3539.html",
+     "sha256": "aa46063c7c831a0661136c6179c5ad1877f3448124d939cde1c34247c633a8d3"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2010-3541",
+   "path": "zakon/2010/3541",
+   "short": "Zakon o izmjeni i dopunama Zakona o privatnoj zaštiti",
+   "title": "Zakon o izmjeni i dopunama Zakona o privatnoj zaštiti",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/139/3541",
+   "versions": [
+    {
+     "from": "2010-12-18",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2010_12_139_3541.html",
+     "sha256": "c709fccd574d6a14dc433dd349a3d0e1303cbe1385c99b4dcbe1d906360a85f7"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2010-3542",
+   "path": "zakon/2010/3542",
+   "short": "Zakon o izmjenama i dopunama Zakona o općoj sigurnosti proizvoda",
+   "title": "Zakon o izmjenama i dopunama Zakona o općoj sigurnosti proizvoda",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/139/3542",
+   "versions": [
+    {
+     "from": "2010-12-18",
+     "units": 8,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2010_12_139_3542.html",
+     "sha256": "cd1e787fcc9f446440eb7f31c00137ce7e2630fd763b38276b5abdd59b0492c5"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2010-3543",
+   "path": "zakon/2010/3543",
+   "short": "Zakon o izmjenama Zakona o pučkim otvorenim učilištima",
+   "title": "Zakon o izmjenama Zakona o pučkim otvorenim učilištima",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/139/3543",
+   "versions": [
+    {
+     "from": "2010-12-18",
+     "units": 6,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2010_12_139_3543.html",
+     "sha256": "aa3fa9616b562290be28a61007314093bab593cd0ec405379674c0e898b8b424"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2010-3574",
+   "path": "zakon/2010/3574",
+   "short": "Zakon o izvršavanju Državnog proračuna Republike Hrvatske za 2011. godinu",
+   "title": "Zakon o izvršavanju Državnog proračuna Republike Hrvatske za 2011. godinu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/140/3574",
+   "versions": [
+    {
+     "from": "2011-01-01",
+     "units": 53,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2010_12_140_3574.html",
+     "sha256": "fd303739465bec819edeaee679572641e8b37dc2f64f429a3d59aaf14a07743e"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2010-3625",
+   "path": "zakon/2010/3625",
+   "short": "Zakon o područjima i sjedištima sudova",
+   "title": "Zakon o područjima i sjedištima sudova",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/144/3625",
+   "versions": [
+    {
+     "from": "2010-12-30",
+     "units": 14,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2010_12_144_3625.html",
+     "sha256": "99ac986ca4619e4e6a4bcdf8d68463203656b3ca0b6b933fb17c51b1755ecbbc"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2010-3626",
+   "path": "zakon/2010/3626",
+   "short": "Zakon o područjima i sjedištima državnih odvjetništava",
+   "title": "Zakon o područjima i sjedištima državnih odvjetništava",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/144/3626",
+   "versions": [
+    {
+     "from": "2011-01-01",
+     "units": 15,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2010_12_144_3626.html",
+     "sha256": "69975f140051b2fdddc63f60868ba031f7b35b1dafe71d64e299d2ecce1e4621"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2010-3627",
+   "path": "zakon/2010/3627",
+   "short": "Zakon o izmjenama i dopunama Zakona o pravu na pristup informacijama",
+   "title": "Zakon o izmjenama i dopunama Zakona o pravu na pristup informacijama",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/144/3627",
+   "versions": [
+    {
+     "from": "2010-12-30",
+     "units": 25,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2010_12_144_3627.html",
+     "sha256": "05afef558e78026f8390b76259451f6754d3634ec5d5d7aa1629a9f8d853d5c5"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2010-3628",
+   "path": "zakon/2010/3628",
+   "short": "Zakon o izmjenama i dopunama Zakona o eksplozivnim tvarima",
+   "title": "Zakon o izmjenama i dopunama Zakona o eksplozivnim tvarima",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/144/3628",
+   "versions": [
+    {
+     "from": "2010-12-22",
+     "units": 14,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2010_12_144_3628.html",
+     "sha256": "45351174eccaa66516c64d44d4d2f1647d51e72c428d4202e9a7d396abfb5e49"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2010-3668",
+   "path": "zakon/2010/3668",
+   "short": "Zakon o postupku oduzimanja imovinske koristi ostvarene kaznenim djelom i prekršajem",
+   "title": "Zakon o postupku oduzimanja imovinske koristi ostvarene kaznenim djelom i prekršajem",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/145/3668",
+   "versions": [
+    {
+     "from": "2011-01-01",
+     "units": 36,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2010_12_145_3668.html",
+     "sha256": "5a39bb3aa97d764a125e1753c72fd1c755329d5b432279a84abf82ec0b15fb01"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2010-3669",
+   "path": "zakon/2010/3669",
+   "short": "Zakon o upravljanju državnom imovinom",
+   "title": "Zakon o upravljanju državnom imovinom",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/145/3669",
+   "versions": [
+    {
+     "from": "2011-01-01",
+     "units": 63,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2010_12_145_3669.html",
+     "sha256": "d616e28d672f0485557d0e98d320fd4c47375de9c0dbeabfb98fc86320685f3e"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2010-3670",
+   "path": "zakon/2010/3670",
+   "short": "Zakon o izmjenama i dopunama Zakona o područjima županija, gradova i općina u Republici Hrvatskoj",
+   "title": "Zakon o izmjenama i dopunama Zakona o područjima županija, gradova i općina u Republici Hrvatskoj",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/145/3670",
+   "versions": [
+    {
+     "from": "2011-01-01",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2010_12_145_3670.html",
+     "sha256": "87c746aebb44ef05b1be01ab0b863ac61bfb6415134e90030f7de872f0e133b1"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2010-3671",
+   "path": "zakon/2010/3671",
+   "short": "Zakon o izmjenama i dopunama Zakona o izborima zastupnika u Hrvatski sabor",
+   "title": "Zakon o izmjenama i dopunama Zakona o izborima zastupnika u Hrvatski sabor",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/145/3671",
+   "versions": [
+    {
+     "from": "2011-01-01",
+     "units": 15,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2010_12_145_3671.html",
+     "sha256": "1540f58c31409405e0d39c57e1724c4f11ba35d78dd751a5a0b439d084c4045e"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2010-3672",
+   "path": "zakon/2010/3672",
+   "short": "Zakon o izmjenama i dopunama Zakona o deviznom poslovanju",
+   "title": "Zakon o izmjenama i dopunama Zakona o deviznom poslovanju",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/145/3672",
+   "versions": [
+    {
+     "from": "2011-01-01",
+     "units": 20,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2010_12_145_3672.html",
+     "sha256": "b87a476e8583b30a4ec61963d309ac187bfe5cf84b639a10c62cb3853c31eb31"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2010-3673",
+   "path": "zakon/2010/3673",
+   "short": "Zakon o izmjenama i dopuni Zakona o državnom odvjetništvu",
+   "title": "Zakon o izmjenama i dopuni Zakona o državnom odvjetništvu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/145/3673",
+   "versions": [
+    {
+     "from": "2011-01-01",
+     "units": 8,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2010_12_145_3673.html",
+     "sha256": "61ebddb08ccb9084366a221e711019ad4e1624b19670bc0c7c032442752f3f2a"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2010-3674",
+   "path": "zakon/2010/3674",
+   "short": "Zakon o izmjenama i dopunama Zakona o biogorivima za prijevoz",
+   "title": "Zakon o izmjenama i dopunama Zakona o biogorivima za prijevoz",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/145/3674",
+   "versions": [
+    {
+     "from": "2011-01-01",
+     "units": 37,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2010_12_145_3674.html",
+     "sha256": "18ad88ffccf7e97dbbb3221636a0c69192fa6dd9287b2c7a1db6d3d770561e19"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2010-3675",
+   "path": "zakon/2010/3675",
+   "short": "Zakon o izmjenama i dopunama Zakona o primaljstvu",
+   "title": "Zakon o izmjenama i dopunama Zakona o primaljstvu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/145/3675",
+   "versions": [
+    {
+     "from": "2011-01-01",
+     "units": 8,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2010_12_145_3675.html",
+     "sha256": "81697a612d76a1a13e4d41ba7a9d7cc2d1fa85dc2e5b5d4a270b5f5ce33d3337"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2010-3676",
+   "path": "zakon/2010/3676",
+   "short": "Zakon o izmjenama i dopunama Zakona o Zakladi \"Hrvatska za djecu\"",
+   "title": "Zakon o izmjenama i dopunama Zakona o Zakladi \"Hrvatska za djecu\"",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/145/3676",
+   "versions": [
+    {
+     "from": "2011-01-01",
+     "units": 10,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2010_12_145_3676.html",
+     "sha256": "eabd734997e2fe0776d9c2f39abe3c1dfdf13e5844bdf91d333e194c5ba0cab4"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2010-483",
+   "path": "zakon/2010/483",
+   "short": "Zakon o upravnim sporovima",
+   "title": "Zakon o upravnim sporovima",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/20/483",
+   "versions": [
+    {
+     "from": "2012-01-01",
+     "units": 93,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2010_02_20_483.html",
+     "sha256": "23c3e609103e808e9a9211a531858395d21a890b00edaa40d48d629f96f23363"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2010-485",
+   "path": "zakon/2010/485",
+   "short": "Zakon o tehničkim zahtjevima za proizvode i ocjenjivanju sukladnosti",
+   "title": "Zakon o tehničkim zahtjevima za proizvode i ocjenjivanju sukladnosti",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/20/485",
+   "versions": [
+    {
+     "from": "2010-02-20",
+     "units": 47,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2010_02_20_485.html",
+     "sha256": "64f1222090ec9d51d015cd3b61606ea7e79c1e47223b1b96996e139ce9c6d680"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2010-486",
+   "path": "zakon/2010/486",
+   "short": "Zakon o izmjeni Zakona o oznakama izvornosti, oznakama zemljopisnog podrijetla i oznakama tradicionalnog ugleda poljoprivrednih i prehrambenih proizvoda",
+   "title": "Zakon o izmjeni Zakona o oznakama izvornosti, oznakama zemljopisnog podrijetla i oznakama tradicionalnog ugleda poljoprivrednih i prehrambenih proizvoda",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/20/486",
+   "versions": [
+    {
+     "from": "2010-02-20",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2010_02_20_486.html",
+     "sha256": "63f13a839266a43e56b6da11bd0608ccd9e31e5c0eed88acb9ac2d52f96ca004"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2010-487",
+   "path": "zakon/2010/487",
+   "short": "Zakon o izmjenama i dopunama Zakona o upravnim pristojbama",
+   "title": "Zakon o izmjenama i dopunama Zakona o upravnim pristojbama",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/20/487",
+   "versions": [
+    {
+     "from": "2010-02-20",
+     "units": 8,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2010_02_20_487.html",
+     "sha256": "219b100548191df94faec184a71c1f6726bc344db476f6aafaf8af08e391bb17"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2010-488",
+   "path": "zakon/2010/488",
+   "short": "Zakon o izmjenama i dopunama Zakona o proizvodnji, distribuciji i opskrbi toplinskom energijom",
+   "title": "Zakon o izmjenama i dopunama Zakona o proizvodnji, distribuciji i opskrbi toplinskom energijom",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/20/488",
+   "versions": [
+    {
+     "from": "2010-02-20",
+     "units": 19,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2010_02_20_488.html",
+     "sha256": "2c0244633579c4f2be9cbd57297251a8837d8e93cfe346f627adf7eef57b7eb6"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2010-525",
+   "path": "zakon/2010/525",
+   "short": "Zakon o Državnoj komisiji za kontrolu postupaka javne nabave",
+   "title": "Zakon o Državnoj komisiji za kontrolu postupaka javne nabave",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/21/525",
+   "versions": [
+    {
+     "from": "2010-02-23",
+     "units": 26,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2010_02_21_525.html",
+     "sha256": "be33d2bb8675bee5f0d4ed39c9e8b5e6d5785565745d79c90bc877ab690638f7"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2010-526",
+   "path": "zakon/2010/526",
+   "short": "Zakon o izmjenama i dopunama Zakona o stambenoj štednji i državnom poticanju stambene štednje",
+   "title": "Zakon o izmjenama i dopunama Zakona o stambenoj štednji i državnom poticanju stambene štednje",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/21/526",
+   "versions": [
+    {
+     "from": "2010-02-23",
+     "units": 17,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2010_02_21_526.html",
+     "sha256": "71d522af7880f213f930eb004246130671759d77804359150aa3f37612e938c4"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2010-528",
+   "path": "zakon/2010/528",
+   "short": "Zakon o izmjenama i dopunama Zakona o poljoprivrednom zemljištu",
+   "title": "Zakon o izmjenama i dopunama Zakona o poljoprivrednom zemljištu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/21/528",
+   "versions": [
+    {
+     "from": "2010-02-15",
+     "units": 6,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2010_02_21_528.html",
+     "sha256": "496f7f0270b796a44dcdf2bb7018bedda9a9990054b536294e7abee1d5c481d7"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2010-529",
+   "path": "zakon/2010/529",
+   "short": "Zakon o prestanku važenja Zakona o privatizaciji Hrvatske elektroprivrede d.d.",
+   "title": "Zakon o prestanku važenja Zakona o privatizaciji Hrvatske elektroprivrede d.d.",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/21/529",
+   "versions": [
+    {
+     "from": "2010-02-23",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2010_02_21_529.html",
+     "sha256": "88738273a016a5229e45d1bf41cbe6418e498016caff04d2f7612c6793598610"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2010-644",
+   "path": "zakon/2010/644",
+   "short": "Zakon o udžbenicima za osnovnu i srednju školu",
+   "title": "Zakon o udžbenicima za osnovnu i srednju školu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/27/644",
+   "versions": [
+    {
+     "from": "2010-03-02",
+     "units": 38,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2010_03_27_644.html",
+     "sha256": "7b381f3f46cf2d45df8aa8e0e65b167682733e2bc014d734efa7206df3e01409"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2010-664",
+   "path": "zakon/2010/664",
+   "short": "Zakon o radiološkoj i nuklearnoj sigurnosti",
+   "title": "Zakon o radiološkoj i nuklearnoj sigurnosti",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/28/664",
+   "versions": [
+    {
+     "from": "2010-04-01",
+     "units": 109,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2010_03_28_664.html",
+     "sha256": "5ae32c7c5448fb5d72e141d9e515c9bd4e7bddd5187a6471f5e50ba1aea3a332"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2010-966",
+   "path": "zakon/2010/966",
+   "short": "Zakon o poticanju prodaje stanova",
+   "title": "Zakon o poticanju prodaje stanova",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/38/966",
+   "versions": [
+    {
+     "from": "2010-04-08",
+     "units": 26,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2010_03_38_966.html",
+     "sha256": "ecef3c44d97548239590911407ba41e9014f59dd4c2619d3a335ad4278073352"
+    }
+   ]
+  },
+  {
    "slug": "naputak-2011-1666",
    "path": "naputak/2011/1666",
    "short": "Naputak o izmjeni Naputka o načinu postupanja u slučaju zlouporabe poziva na broj 112",
