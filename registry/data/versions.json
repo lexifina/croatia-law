@@ -4937,6 +4937,546 @@
    ]
   },
   {
+   "slug": "odluka-2005-605",
+   "path": "odluka/2005/605",
+   "short": "Odluka o izdavanju obveznica Republike Hrvatske uz plasman na domaćem tržištu kapitala u iznosu od 3.000.000.000,00 kuna",
+   "title": "Odluka o izdavanju obveznica Republike Hrvatske uz plasman na domaćem tržištu kapitala u iznosu od 3.000.000.000,00 kuna",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/32/605",
+   "versions": [
+    {
+     "from": "2005-01-20",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_03_32_605.html",
+     "sha256": "26ae442e5142b88406150e6b6d733b171d191d6bac2a65b8cd0e62a8679af1cb"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2005-606",
+   "path": "odluka/2005/606",
+   "short": "Odluka o izmjeni i dopuni Odluke o davanju koncesije za osnivanje slobodne zone Varaždin",
+   "title": "Odluka o izmjeni i dopuni Odluke o davanju koncesije za osnivanje slobodne zone Varaždin",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/32/606",
+   "versions": [
+    {
+     "from": "2005-03-03",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_03_32_606.html",
+     "sha256": "40fc7414b06f370bf937b1152f4516b154dc7e9c6e228d820014b23db8996edb"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2005-615",
+   "path": "odluka/2005/615",
+   "short": "Odluka o izmjeni Statuta Agencije za plovne putove unutarnjih voda",
+   "title": "Odluka o izmjeni Statuta Agencije za plovne putove unutarnjih voda",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/32/615",
+   "versions": [
+    {
+     "from": "2005-02-04",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_03_32_615.html",
+     "sha256": "73b6e2b892178fde43aa48d9911ad50d343f00670804725de4bd6aca49b2f3dd"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2005-644",
+   "path": "odluka/2005/644",
+   "short": "Odluka o dopuni Odluke o osnivanju Nacionalnog odbora",
+   "title": "Odluka o dopuni Odluke o osnivanju Nacionalnog odbora",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/33/644",
+   "versions": [
+    {
+     "from": "2005-03-09",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_03_33_644.html",
+     "sha256": "2a2729ffd0f0ce6a8f0c14b86c6f60b17b9b0ec35eab691e52e2e24e4a203ff6"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2005-665",
+   "path": "odluka/2005/665",
+   "short": "Odluka o privremenom oduzimanju koncesije za obavljanje djelatnosti televizije",
+   "title": "Odluka o privremenom oduzimanju koncesije za obavljanje djelatnosti televizije",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/33/665",
+   "versions": [
+    {
+     "from": "2005-03-14",
+     "units": 2,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_03_33_665.html",
+     "sha256": "edac60eef386831c3a13003065e338b4185949367e4f0dfdb43ae77ec1a8c629"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2005-695",
+   "path": "odluka/2005/695",
+   "short": "Odluka o uvjetima za odobrenje kratkoročnoga kredita",
+   "title": "Odluka o uvjetima za odobrenje kratkoročnoga kredita",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/34/695",
+   "versions": [
+    {
+     "from": "2005-03-24",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_03_34_695.html",
+     "sha256": "68b163c99430104cdba91633225e4762f97460e0554602d6a43dfb0142d1944e"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2005-696",
+   "path": "odluka/2005/696",
+   "short": "Odluka o polaganju novčanog depozita kod Hrvatske narodne banke",
+   "title": "Odluka o polaganju novčanog depozita kod Hrvatske narodne banke",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/34/696",
+   "versions": [
+    {
+     "from": "2005-03-24",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_03_34_696.html",
+     "sha256": "b95c41d2c418e121bb5595cc52268ca58927b661e9b37b2c292728246c0181b4"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2005-697",
+   "path": "odluka/2005/697",
+   "short": "Odluka o uvjetima za odobrenje unutardnevnoga kredita na osnovi zaloga vrijednosnih papira",
+   "title": "Odluka o uvjetima za odobrenje unutardnevnoga kredita na osnovi zaloga vrijednosnih papira",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/34/697",
+   "versions": [
+    {
+     "from": "2005-03-24",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_03_34_697.html",
+     "sha256": "dcf5b66ac12e42190d25296a716d982ddf603fcb21593be00e84bd8120e245fd"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2005-698",
+   "path": "odluka/2005/698",
+   "short": "Odluka o izmjeni odluke o obveznoj pričuvi",
+   "title": "Odluka o izmjeni odluke o obveznoj pričuvi",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/34/698",
+   "versions": [
+    {
+     "from": "2005-03-24",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_03_34_698.html",
+     "sha256": "52693cae4e4f938a4b2909703b3a2ba37f66ec38e537716e7e2d39c06f034ac2"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2005-699",
+   "path": "odluka/2005/699",
+   "short": "Odluka o kamatnim stopama i naknadama Hrvatske narodne banke",
+   "title": "Odluka o kamatnim stopama i naknadama Hrvatske narodne banke",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/34/699",
+   "versions": [
+    {
+     "from": "2005-03-24",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_03_34_699.html",
+     "sha256": "ff6dc53def6a8beb425e655104e9b232e99fd81a2a5c23e94d8f5002fb162832"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2005-700",
+   "path": "odluka/2005/700",
+   "short": "Odluka o Hrvatskom sustavu velikih plaćanja i o namiri na računima banaka u Hrvatskoj narodnoj banci",
+   "title": "Odluka o Hrvatskom sustavu velikih plaćanja i o namiri na računima banaka u Hrvatskoj narodnoj banci",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/34/700",
+   "versions": [
+    {
+     "from": "2005-03-24",
+     "units": 20,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_03_34_700.html",
+     "sha256": "01f5eee40b7fd8b941ec6e4f2fe32f432298c9c2b15e46eedf17f973a63fef1c"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2005-701",
+   "path": "odluka/2005/701",
+   "short": "Odluka o načinu i uvjetima pod kojima rezidenti ulažu u strane vrijednosne papire i udjele u stranim investicijskim fondovima",
+   "title": "Odluka o načinu i uvjetima pod kojima rezidenti ulažu u strane vrijednosne papire i udjele u stranim investicijskim fondovima",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/34/701",
+   "versions": [
+    {
+     "from": "2005-03-24",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_03_34_701.html",
+     "sha256": "a8ad7f87d9bc75fe5838e2842b15f4781a027a676643f4714d15711701bdfa3e"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2005-702",
+   "path": "odluka/2005/702",
+   "short": "Odluka o prestanku važenja Odluke o načinu i uvjetima pod kojima nerezidenti ulažu u domaće vrijednosne papire i udjele u domaćim investicijskim fondovima",
+   "title": "Odluka o prestanku važenja Odluke o načinu i uvjetima pod kojima nerezidenti ulažu u domaće vrijednosne papire i udjele u domaćim investicijskim fondovima",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/34/702",
+   "versions": [
+    {
+     "from": "2005-03-24",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_03_34_702.html",
+     "sha256": "f31a6c4e2e0e34b2719dd89143bc729bbb7aa92a5bb9eb607487048752598f9a"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2005-703",
+   "path": "odluka/2005/703",
+   "short": "Odluka o prestanku važenja Odluke o uvjetima pod kojima nerezidenti izdaju kratkoročne vrijednosne papire u Republici Hrvatskoj",
+   "title": "Odluka o prestanku važenja Odluke o uvjetima pod kojima nerezidenti izdaju kratkoročne vrijednosne papire u Republici Hrvatskoj",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/34/703",
+   "versions": [
+    {
+     "from": "2005-03-24",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_03_34_703.html",
+     "sha256": "6de75f1ac2d6aeb3ee9ebfb996fe59ee06bf40e2ca15912406451ccdae7d9003"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2005-723",
+   "path": "odluka/2005/723",
+   "short": "Odluka o izmjenama i dopunama Tarife o nagradama i naknadi troškova za rad odvjetnika",
+   "title": "Odluka o izmjenama i dopunama Tarife o nagradama i naknadi troškova za rad odvjetnika",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/37/723",
+   "versions": [
+    {
+     "from": "2005-03-21",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_03_37_723.html",
+     "sha256": "bbe28a4130ae223b3379d7dedd420f66c7b063ae6a87c800db3272a68b340327"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2005-73",
+   "path": "odluka/2005/73",
+   "short": "Odluka o utvrđivanju Liste lijekova Hrvatskog zavoda za zdravstveno osiguranje",
+   "title": "Odluka o utvrđivanju Liste lijekova Hrvatskog zavoda za zdravstveno osiguranje",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/5/73",
+   "versions": [
+    {
+     "from": "2005-01-11",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_01_5_73.html",
+     "sha256": "cf757307b1e3403d0fa0de50a7283f0fab85865b6379ca780f0d6316346a55a5"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2005-750",
+   "path": "odluka/2005/750",
+   "short": "Odluka o izmjenama i dopunama Odluke o smještaju zastupnika Hrvatskoga sabora u Zagrebu u vrijeme zasjedanja Sabora, radnih tijela i klubova zastupnika",
+   "title": "Odluka o izmjenama i dopunama Odluke o smještaju zastupnika Hrvatskoga sabora u Zagrebu u vrijeme zasjedanja Sabora, radnih tijela i klubova zastupnika",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/38/750",
+   "versions": [
+    {
+     "from": "2005-03-17",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_03_38_750.html",
+     "sha256": "7dda7cda8cd68303732ee107285db86feb1c3150b23f21405cf7788871a64a97"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2005-753",
+   "path": "odluka/2005/753",
+   "short": "Odluka o izmjenama Odluke o načinu obračuna, naplate i plaćanja kamata i naknada Hrvatske narodne banke",
+   "title": "Odluka o izmjenama Odluke o načinu obračuna, naplate i plaćanja kamata i naknada Hrvatske narodne banke",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/38/753",
+   "versions": [
+    {
+     "from": "2005-03-31",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_03_38_753.html",
+     "sha256": "62ceb5e3bf17625d0995dd5b5972dc441772c46caee970f1bcb0863534278682"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2005-757",
+   "path": "odluka/2005/757",
+   "short": "Odluka o aktualnoj vrijednosti mirovine od 1. siječnja 2005.",
+   "title": "Odluka o aktualnoj vrijednosti mirovine od 1. siječnja 2005.",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/38/757",
+   "versions": [
+    {
+     "from": "2005-03-31",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_03_38_757.html",
+     "sha256": "a8aa639a4e9b23a105099a5ac15245a3f3c0f589b52e984d414d3a51d453939c"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2005-758",
+   "path": "odluka/2005/758",
+   "short": "Odluka o najnižoj mirovini za jednu godinu mirovinskog staža od 1. siječnja 2005.",
+   "title": "Odluka o najnižoj mirovini za jednu godinu mirovinskog staža od 1. siječnja 2005.",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/38/758",
+   "versions": [
+    {
+     "from": "2005-03-31",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_03_38_758.html",
+     "sha256": "3d2a7a79dc8de7d94de01b2b1c7f30dac9784412f43ba8d793cfb18296dbc447"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2005-759",
+   "path": "odluka/2005/759",
+   "short": "Odluka o osnovici za određivanje naknade zbog tjelesnog oštećenja i o usklađivanju novčanih naknada zbog tjelesnog oštećenja od 1. siječnja 2005.",
+   "title": "Odluka o osnovici za određivanje naknade zbog tjelesnog oštećenja i o usklađivanju novčanih naknada zbog tjelesnog oštećenja od 1. siječnja 2005.",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/38/759",
+   "versions": [
+    {
+     "from": "2005-03-31",
+     "units": 6,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_03_38_759.html",
+     "sha256": "38ad44d808e3278a1036727bdf689122b9505860d432fb5afcd895eb23f39bfa"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2005-760",
+   "path": "odluka/2005/760",
+   "short": "Odluka o naknadi putnih troškova u vezi s ostvarivanjem prava iz mirovinskog osiguranja za 2005. godinu",
+   "title": "Odluka o naknadi putnih troškova u vezi s ostvarivanjem prava iz mirovinskog osiguranja za 2005. godinu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/38/760",
+   "versions": [
+    {
+     "from": "2005-03-31",
+     "units": 10,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_03_38_760.html",
+     "sha256": "20249c8007bc91f33d64fcbb22c85e17c067043f21ef7f9fb45d6b9ae83fd8ab"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2005-761",
+   "path": "odluka/2005/761",
+   "short": "Odluka o uvjetima pod kojima se smatra da je osiguranik uzdržavao člana obitelji i uvjetima prestanka prava na obiteljsku mirovinu zbog nastale promjene u imovnom stanju, odnosno prihodima u 2005. godini",
+   "title": "Odluka o uvjetima pod kojima se smatra da je osiguranik uzdržavao člana obitelji i uvjetima prestanka prava na obiteljsku mirovinu zbog nastale promjene u imovnom stanju, odnosno prihodima u 2005. godini",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/38/761",
+   "versions": [
+    {
+     "from": "2005-03-31",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_03_38_761.html",
+     "sha256": "e474008da5867a917cff105673ab8beb287a9c5d5079f02de1ca81876913191a"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2005-762",
+   "path": "odluka/2005/762",
+   "short": "Odluka o naknadi za troškove smještaja i prehrane za vrijeme profesionalne rehabilitacije izvan mjesta prebivališta korisnika u 2005. godini",
+   "title": "Odluka o naknadi za troškove smještaja i prehrane za vrijeme profesionalne rehabilitacije izvan mjesta prebivališta korisnika u 2005. godini",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/38/762",
+   "versions": [
+    {
+     "from": "2005-03-31",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_03_38_762.html",
+     "sha256": "be1f70c018030bbc6da6b518e65bdf8613ee24d184d0f478a2d7687e9a77ffae"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2005-766",
+   "path": "odluka/2005/766",
+   "short": "Odluka o zaduživanju Republike Hrvatske deviznim kreditom sindiciranim kod domaćih banaka u iznosu od 500.000.000,00 EUR",
+   "title": "Odluka o zaduživanju Republike Hrvatske deviznim kreditom sindiciranim kod domaćih banaka u iznosu od 500.000.000,00 EUR",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/39/766",
+   "versions": [
+    {
+     "from": "2005-03-18",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_03_39_766.html",
+     "sha256": "a8a63e57a8786b400a1d8dcf1d8f77c7d321ca020fe3e8cf6931560ad89cb906"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2005-789",
+   "path": "odluka/2005/789",
+   "short": "Odluka o izmjeni Odluke o prirezu porezu na dohodak Općine Krašić",
+   "title": "Odluka o izmjeni Odluke o prirezu porezu na dohodak Općine Krašić",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/39/789",
+   "versions": [
+    {
+     "from": "2005-04-02",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_03_39_789.html",
+     "sha256": "e616d37c4794c33dafea621fe5fee7dfebe57123ef0e162a3f5df3289e14afc5"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2005-840",
+   "path": "odluka/2005/840",
+   "short": "Odluka o uvećanju plaće namještenika raspoređenih na ustrojbeno mjesto vozača opasnih tvari i laboranta u Ministarstvu obrane",
+   "title": "Odluka o uvećanju plaće namještenika raspoređenih na ustrojbeno mjesto vozača opasnih tvari i laboranta u Ministarstvu obrane",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/44/840",
+   "versions": [
+    {
+     "from": "2005-04-05",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_04_44_840.html",
+     "sha256": "eb1295c8b0caeb1fdcaee743401fa056e494f461697a2da952c56c92544fddca"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2005-841",
+   "path": "odluka/2005/841",
+   "short": "Odluka o uvećanju plaće državnih službenika i namještenika u Oružanim snagama Republike Hrvatske na određenim mjestima",
+   "title": "Odluka o uvećanju plaće državnih službenika i namještenika u Oružanim snagama Republike Hrvatske na određenim mjestima",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/44/841",
+   "versions": [
+    {
+     "from": "2005-04-05",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_04_44_841.html",
+     "sha256": "739b4da269824c6384644b909aa7eec280fbc51be593dc1833cf113e1780c7a2"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2005-898",
+   "path": "odluka/2005/898",
+   "short": "Odluka o raspisivanju izbora za članove predstavničkih tijela jedinica lokalne i područne (regionalne) samouprave",
+   "title": "Odluka o raspisivanju izbora za članove predstavničkih tijela jedinica lokalne i područne (regionalne) samouprave",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/46/898",
+   "versions": [
+    {
+     "from": "2005-04-09",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_04_46_898.html",
+     "sha256": "5d7209f1fbef65b49904967be1acb6c10680ee92d2550ea528263ad7e5b96181"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2005-922",
+   "path": "odluka/2005/922",
+   "short": "Odluka o poništavanju Odluke o koncesiji za obavljanje djelatnosti radija koja je dodijeljena trgovačkom društvu \"047\" iz Karlovca",
+   "title": "Odluka o poništavanju Odluke o koncesiji za obavljanje djelatnosti radija koja je dodijeljena trgovačkom društvu \"047\" iz Karlovca",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/47/922",
+   "versions": [
+    {
+     "from": "2005-04-11",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_04_47_922.html",
+     "sha256": "828f477c60749f48cc24b7c30afff49ccb6d4b513167ceb98b81e46bc9865d89"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2005-950",
+   "path": "odluka/2005/950",
+   "short": "Odluka o uspostavljanju strukture za pregovore o pristupanju Republike Hrvatske Europskoj uniji",
+   "title": "Odluka o uspostavljanju strukture za pregovore o pristupanju Republike Hrvatske Europskoj uniji",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/49/950",
+   "versions": [
+    {
+     "from": "2005-04-07",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_04_49_950.html",
+     "sha256": "e0d7b214b0c92dcdec813cb06e572243efbd4b4e835d45cc9db90b7297d10e31"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2005-952",
+   "path": "odluka/2005/952",
+   "short": "Odluka o raspisivanju javnog natječaja za dodjelu kon- cesije za korištenje poljoprivrednog zemljišta u vlasništvu Republike Hrvatske na području Općine Darda",
+   "title": "Odluka o raspisivanju javnog natječaja za dodjelu kon- cesije za korištenje poljoprivrednog zemljišta u vlasništvu Republike Hrvatske na području Općine Darda",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/49/952",
+   "versions": [
+    {
+     "from": "2005-04-07",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_04_49_952.html",
+     "sha256": "af11ac11436598e53bbec0c524b1f0b50cbc6ba35e7e88896c7f2a61be4f9c61"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2005-953",
+   "path": "odluka/2005/953",
+   "short": "Odluka o raspisivanju javnog natječaja za dodjelu koncesije za korištenje poljoprivrednog zemljišta u vlasništvu Republike Hrvatske na području Općine Unešić",
+   "title": "Odluka o raspisivanju javnog natječaja za dodjelu koncesije za korištenje poljoprivrednog zemljišta u vlasništvu Republike Hrvatske na području Općine Unešić",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/49/953",
+   "versions": [
+    {
+     "from": "2005-04-07",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_04_49_953.html",
+     "sha256": "3866992685bed7d2a07d233198494c85edc36d3653aead32011f2f3802808255"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2005-981",
+   "path": "odluka/2005/981",
+   "short": "Odluka o izmjeni Odluke o osnovama za sklapanje ugovora sa zdravstvenim ustanovama i privatnim zdravstvenim radnicima za 2005. godinu",
+   "title": "Odluka o izmjeni Odluke o osnovama za sklapanje ugovora sa zdravstvenim ustanovama i privatnim zdravstvenim radnicima za 2005. godinu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/51/981",
+   "versions": [
+    {
+     "from": "2005-04-20",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_04_51_981.html",
+     "sha256": "cf07f0c1589d9eba14cdbe259b855e200b1534d8760d781c961c1cedd8ad1bb0"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2005-982",
+   "path": "odluka/2005/982",
+   "short": "Odluka o izmjeni Odluke utvrđivanja Liste lijekova Hrvatskog zavoda za zdravstveno osiguranje",
+   "title": "Odluka o izmjeni Odluke utvrđivanja Liste lijekova Hrvatskog zavoda za zdravstveno osiguranje",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/51/982",
+   "versions": [
+    {
+     "from": "2005-04-28",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_04_51_982.html",
+     "sha256": "1d874d6c15bd248f6c90cd3c1beca9765111f3623878523c68f3803b594b90dd"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2005-983",
+   "path": "odluka/2005/983",
+   "short": "Odluka o dopuni odluke o sadržaju i obliku isprave kojom se dokazuje status osigurane osobe Hrvatskog zavoda za zdravstveno osiguranje iz osnovnog zdravstvenog osiguranja",
+   "title": "Odluka o dopuni odluke o sadržaju i obliku isprave kojom se dokazuje status osigurane osobe Hrvatskog zavoda za zdravstveno osiguranje iz osnovnog zdravstvenog osiguranja",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/51/983",
+   "versions": [
+    {
+     "from": "2005-04-28",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_04_51_983.html",
+     "sha256": "ce88deb18261282f3f35e7450e159ae105cccba45ba7478035632bbc746770ee"
+    }
+   ]
+  },
+  {
    "slug": "naputak-2006-2821",
    "path": "naputak/2006/2821",
    "short": "Naputak za provedbu prava članova obitelji zatočenog ili nestalog pripadnika Hrvatskog vijeća obrane i provedbu prava iz članka 6. Ugovora između Republike Hrvatske i Bosne i Hercegovine o suradnji na području prava stradalnika rata u Bosni i Hercegovini koji su bili pripadnici Hrvatskog vijeća obrane i članova njihovih obitelji",
@@ -5998,6 +6538,3966 @@
      "units": 3,
      "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_04_42_999.html",
      "sha256": "8ecd7a94d8a5cddf50da88dd4b5e2f534cdf70780adabc1c63ba37d94224d331"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2006-1099",
+   "path": "odluka/2006/1099",
+   "short": "Odluka o izmjeni i dopuni Odluke o načinu i uvjetima pod kojima rezidenti ulažu strane vrijednosne papire i udjele u stranim investicijskim fondovima",
+   "title": "Odluka o izmjeni i dopuni Odluke o načinu i uvjetima pod kojima rezidenti ulažu strane vrijednosne papire i udjele u stranim investicijskim fondovima",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/44/1099",
+   "versions": [
+    {
+     "from": "2006-04-29",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_04_44_1099.html",
+     "sha256": "b251db74fc9ec957060d7d1ae8abc56d45e2a2f4260c04137e1571e3d311053f"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2006-1125",
+   "path": "odluka/2006/1125",
+   "short": "Odluka o osnivanju Konzulata Republike Hrvatske u Talijanskoj Republici, sa sjedištem u Firenzi",
+   "title": "Odluka o osnivanju Konzulata Republike Hrvatske u Talijanskoj Republici, sa sjedištem u Firenzi",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/46/1125",
+   "versions": [
+    {
+     "from": "2006-04-20",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_04_46_1125.html",
+     "sha256": "076effca72d371ce73edde971b82e4e507f52fc3a7648dfa9e2d71a233831f18"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2006-1129",
+   "path": "odluka/2006/1129",
+   "short": "Odluka o izmjenama i dopunama Odluke o uspostavljanju strukture za pregovore o pristupanju Republike Hrvatske Europskoj uniji",
+   "title": "Odluka o izmjenama i dopunama Odluke o uspostavljanju strukture za pregovore o pristupanju Republike Hrvatske Europskoj uniji",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/46/1129",
+   "versions": [
+    {
+     "from": "2006-04-20",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_04_46_1129.html",
+     "sha256": "48fc78461b6235a73c00769f3ea0ffc75428e82b4c521dd55ec0dc52cb8bb9f5"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2006-1130",
+   "path": "odluka/2006/1130",
+   "short": "Odluka o raspisivanju javnog natječaja za dodjelu koncesije za korištenje poljoprivrednog zemljišta u vlasništvu Republike Hrvatske na području Općine Koška",
+   "title": "Odluka o raspisivanju javnog natječaja za dodjelu koncesije za korištenje poljoprivrednog zemljišta u vlasništvu Republike Hrvatske na području Općine Koška",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/46/1130",
+   "versions": [
+    {
+     "from": "2006-04-20",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_04_46_1130.html",
+     "sha256": "3cd9d556ea24e9923dd3c79ee55bd1cc0f8e97a0172434b8932f8584da7ae04e"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2006-1141",
+   "path": "odluka/2006/1141",
+   "short": "Odluka o visini prosječnog troška s naslova priznate ozljede na radu i profesionalne bolesti za 2005. godinu",
+   "title": "Odluka o visini prosječnog troška s naslova priznate ozljede na radu i profesionalne bolesti za 2005. godinu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/46/1141",
+   "versions": [
+    {
+     "from": "2006-04-26",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_04_46_1141.html",
+     "sha256": "6ec7ebfe7ae0a5800b408c6dc1ac588435b82afb9a857061b3358f300696405e"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2006-1163",
+   "path": "odluka/2006/1163",
+   "short": "Odluka o izmjeni Odluke o načinu osiguravnja i raspolaganja sredstvima dopunskog zdravstvenog osiguranja",
+   "title": "Odluka o izmjeni Odluke o načinu osiguravnja i raspolaganja sredstvima dopunskog zdravstvenog osiguranja",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/48/1163",
+   "versions": [
+    {
+     "from": "2006-05-10",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_05_48_1163.html",
+     "sha256": "e21aea07283055f80776eaf29ab32119f05b03ce1cc4e219c46e5077916dc424"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2006-1178",
+   "path": "odluka/2006/1178",
+   "short": "Odluka o osnivanju Veleposlanstva Republike Hrvatske u Alžirskoj Narodnoj Demokratskoj Republici, sa sjedištem u Alžiru",
+   "title": "Odluka o osnivanju Veleposlanstva Republike Hrvatske u Alžirskoj Narodnoj Demokratskoj Republici, sa sjedištem u Alžiru",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/49/1178",
+   "versions": [
+    {
+     "from": "2006-04-26",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_05_49_1178.html",
+     "sha256": "4d2956dacca33fbe70de609f2be93f6a7a5e37ed6660f48e9fc6b03c17c138f9"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2006-1180",
+   "path": "odluka/2006/1180",
+   "short": "Odluka o osnivanju Konzulata Republike Hrvatske u Helenskoj Republici, sa sjedištem u Solunu",
+   "title": "Odluka o osnivanju Konzulata Republike Hrvatske u Helenskoj Republici, sa sjedištem u Solunu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/49/1180",
+   "versions": [
+    {
+     "from": "2006-04-26",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_05_49_1180.html",
+     "sha256": "0264f5ab18eea27b18e17a7985bd4e50dfd09112f83ad82cc64bc90ab1752d72"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2006-1182",
+   "path": "odluka/2006/1182",
+   "short": "Odluka o osnivanju Konzulata Republike Hrvatske u Kneževini Monako, sa sjedištem u Monaku",
+   "title": "Odluka o osnivanju Konzulata Republike Hrvatske u Kneževini Monako, sa sjedištem u Monaku",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/49/1182",
+   "versions": [
+    {
+     "from": "2006-04-26",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_05_49_1182.html",
+     "sha256": "97c7cf282b7d24132e313fa1d864643efc39925b525763f5bfcf5bea28e04564"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2006-1185",
+   "path": "odluka/2006/1185",
+   "short": "Odluka o utvrđivanju interesa Republike Hrvatske za izgradnju produljenja uzletno-sletne staze Zračnog pristaništa Mali Lošinj, u k.o. Ćunski",
+   "title": "Odluka o utvrđivanju interesa Republike Hrvatske za izgradnju produljenja uzletno-sletne staze Zračnog pristaništa Mali Lošinj, u k.o. Ćunski",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/49/1185",
+   "versions": [
+    {
+     "from": "2006-05-03",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_05_49_1185.html",
+     "sha256": "00b424f121a8269f289bedc6c49f3380475482cbb9c9b2acf91a9ad129be86ed"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2006-1202",
+   "path": "odluka/2006/1202",
+   "short": "Odluka o izmjeni Odluke o osnovama za sklapanje ugovora sa zdravstvenim ustanovama i privatnim zdravstvenim radnicima za 2006. godinu",
+   "title": "Odluka o izmjeni Odluke o osnovama za sklapanje ugovora sa zdravstvenim ustanovama i privatnim zdravstvenim radnicima za 2006. godinu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/49/1202",
+   "versions": [
+    {
+     "from": "2006-05-03",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_05_49_1202.html",
+     "sha256": "511e02e1d3a562f556f71b2da4c70258fd03b4e5418450aaebe011130d522928"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2006-1208",
+   "path": "odluka/2006/1208",
+   "short": "Odluka o izmjenama i dopuni Odluke o osnivanju Koordinacijskog odbora za praćenje i nadzor realizacije Ugovora o zajmu za Projekt ulaganja u mirovinski sustav, između Republike Hrvatske i Međunarodne banke za obnovu i razvoj",
+   "title": "Odluka o izmjenama i dopuni Odluke o osnivanju Koordinacijskog odbora za praćenje i nadzor realizacije Ugovora o zajmu za Projekt ulaganja u mirovinski sustav, između Republike Hrvatske i Međunarodne banke za obnovu i razvoj",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/50/1208",
+   "versions": [
+    {
+     "from": "2006-04-28",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_05_50_1208.html",
+     "sha256": "7c5e3d5c5d4005999d6eec5d03f26d0b255e2ffd3fdaec1ea93ab155e021c5ff"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2006-1209",
+   "path": "odluka/2006/1209",
+   "short": "Odluka o izmjeni Odluke o raspisivanju javnog natječaja za dodjelu koncesije za korištenje poljoprivrednog zemljišta u vlasništvu Republike Hrvatske na području Općine Brodski Stupnik",
+   "title": "Odluka o izmjeni Odluke o raspisivanju javnog natječaja za dodjelu koncesije za korištenje poljoprivrednog zemljišta u vlasništvu Republike Hrvatske na području Općine Brodski Stupnik",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/50/1209",
+   "versions": [
+    {
+     "from": "2006-04-28",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_05_50_1209.html",
+     "sha256": "88e9646f959c301d0a566670e40e175dd8308f1dc88b0979b023b1a77f65999b"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2006-1210",
+   "path": "odluka/2006/1210",
+   "short": "Odluka o dodjeli koncesije za korištenje poljoprivrednog zemljišta u vlasništvu Republike Hrvatske na području Općine Davor",
+   "title": "Odluka o dodjeli koncesije za korištenje poljoprivrednog zemljišta u vlasništvu Republike Hrvatske na području Općine Davor",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/50/1210",
+   "versions": [
+    {
+     "from": "2006-04-28",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_05_50_1210.html",
+     "sha256": "91d05be59ae92515f227a634dc4b92a9a29470075ab2746b60e30f028e5c78c7"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2006-1211",
+   "path": "odluka/2006/1211",
+   "short": "Odluka o dodjeli koncesije za korištenje poljoprivrednog zemljišta u vlasništvu Republike Hrvatske na području Grada Požege",
+   "title": "Odluka o dodjeli koncesije za korištenje poljoprivrednog zemljišta u vlasništvu Republike Hrvatske na području Grada Požege",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/50/1211",
+   "versions": [
+    {
+     "from": "2006-04-28",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_05_50_1211.html",
+     "sha256": "352e1b7a37e3f79a6375e7e842fccc6d5830e6864e7aea6f7fffeef4d4065924"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2006-1212",
+   "path": "odluka/2006/1212",
+   "short": "Odluka o dodjeli koncesije za korištenje poljoprivrednog zemljišta u vlasništvu Republike Hrvatske na području Općine Ivankovo",
+   "title": "Odluka o dodjeli koncesije za korištenje poljoprivrednog zemljišta u vlasništvu Republike Hrvatske na području Općine Ivankovo",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/50/1212",
+   "versions": [
+    {
+     "from": "2006-04-28",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_05_50_1212.html",
+     "sha256": "2df7affb763985d42095003715ebdf27d35cb21c504353ac6e45a8a3ee2713df"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2006-1213",
+   "path": "odluka/2006/1213",
+   "short": "Odluka o dodjeli koncesije za korištenje poljoprivrednog zemljišta u vlasništvu Republike Hrvatske na području Općine Jakšić",
+   "title": "Odluka o dodjeli koncesije za korištenje poljoprivrednog zemljišta u vlasništvu Republike Hrvatske na području Općine Jakšić",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/50/1213",
+   "versions": [
+    {
+     "from": "2006-04-28",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_05_50_1213.html",
+     "sha256": "b442628a2ff2fc31418e6ea1f01e3acb8eb61bfb6189726649efcb52eefde0ce"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2006-1214",
+   "path": "odluka/2006/1214",
+   "short": "Odluka o dodjeli koncesije za korištenje poljoprivrednog zemljišta u vlasništvu Republike Hrvatske na području Općine Rugvica",
+   "title": "Odluka o dodjeli koncesije za korištenje poljoprivrednog zemljišta u vlasništvu Republike Hrvatske na području Općine Rugvica",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/50/1214",
+   "versions": [
+    {
+     "from": "2006-04-28",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_05_50_1214.html",
+     "sha256": "7c0e6169fc24437b28fec0e045befbc24dbd30d0f3d9561e41b4829ab7b5d9d0"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2006-1240",
+   "path": "odluka/2006/1240",
+   "short": "Odluka o dodjeli koncesije za korištenje poljoprivrednog zemljišta u vlasništvu Republike Hrvatske na području općine Feričanci",
+   "title": "Odluka o dodjeli koncesije za korištenje poljoprivrednog zemljišta u vlasništvu Republike Hrvatske na području općine Feričanci",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/52/1240",
+   "versions": [
+    {
+     "from": "2006-05-05",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_05_52_1240.html",
+     "sha256": "2e1e70b44d2687dbbd9f12209408be78e15ed3bb5b360f55b265e054ff0c180a"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2006-1241",
+   "path": "odluka/2006/1241",
+   "short": "Odluka o dodjeli koncesije za korištenje poljoprivrednog zemljišta u vlasništvu Republike Hrvatske na području općine Viljevo",
+   "title": "Odluka o dodjeli koncesije za korištenje poljoprivrednog zemljišta u vlasništvu Republike Hrvatske na području općine Viljevo",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/52/1241",
+   "versions": [
+    {
+     "from": "2006-05-05",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_05_52_1241.html",
+     "sha256": "025d75c83d21d908a3d1d8d6cbbc80b596607abcee6728749128b81d33fa367f"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2006-1242",
+   "path": "odluka/2006/1242",
+   "short": "Odluka o davanju poljoprivrednog zemljišta u vlasništvu Republike Hrvatske u prioritetnu koncesiju, neposrednom pogodbom, društvu IPK Bara d.o.o., Osijek",
+   "title": "Odluka o davanju poljoprivrednog zemljišta u vlasništvu Republike Hrvatske u prioritetnu koncesiju, neposrednom pogodbom, društvu IPK Bara d.o.o., Osijek",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/52/1242",
+   "versions": [
+    {
+     "from": "2006-05-05",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_05_52_1242.html",
+     "sha256": "e875a76baeada05e3aa19a88abfd4538f3060d400e5f73cc2d95c53c21533fc4"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2006-1243",
+   "path": "odluka/2006/1243",
+   "short": "Odluka o davanju poljoprivrednog zemljišta u vlasništvu Republike Hrvatske u prioritetnu koncesiju, neposrednom pogodbom, društvu IPK Daljska polja d.o.o., Dalj",
+   "title": "Odluka o davanju poljoprivrednog zemljišta u vlasništvu Republike Hrvatske u prioritetnu koncesiju, neposrednom pogodbom, društvu IPK Daljska polja d.o.o., Dalj",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/52/1243",
+   "versions": [
+    {
+     "from": "2006-05-05",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_05_52_1243.html",
+     "sha256": "addd41d7199eb116b2a3c58b8c0d4cb7cc549c641295800328ff6d7bd9398da5"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2006-1244",
+   "path": "odluka/2006/1244",
+   "short": "Odluka o davanju poljoprivrednog zemljišta u vlasništvu Republike Hrvatske u prioritetnu koncesiju, neposrednom pogodbom, društvu IPK Hrastovac d.o.o., Osijek",
+   "title": "Odluka o davanju poljoprivrednog zemljišta u vlasništvu Republike Hrvatske u prioritetnu koncesiju, neposrednom pogodbom, društvu IPK Hrastovac d.o.o., Osijek",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/52/1244",
+   "versions": [
+    {
+     "from": "2006-05-05",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_05_52_1244.html",
+     "sha256": "db5a6fdede1a361eac40e959bb5db95a25cc8059e6c9007dd707e45c3975ffa4"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2006-1245",
+   "path": "odluka/2006/1245",
+   "short": "Odluka o davanju poljoprivrednog zemljišta u vlasništvu Republike Hrvatske u prioritetnu koncesiju, neposrednom pogodbom, društvu IPK Josipin Dvor d.o.o., Antunovac",
+   "title": "Odluka o davanju poljoprivrednog zemljišta u vlasništvu Republike Hrvatske u prioritetnu koncesiju, neposrednom pogodbom, društvu IPK Josipin Dvor d.o.o., Antunovac",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/52/1245",
+   "versions": [
+    {
+     "from": "2006-05-05",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_05_52_1245.html",
+     "sha256": "4b533eec7d58ccdfca9796ce55ba24d83763089046bf76e75e9e7e642e2641c4"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2006-1246",
+   "path": "odluka/2006/1246",
+   "short": "Odluka o davanju poljoprivrednog zemljišta u vlasništvu Republike Hrvatske u prioritetnu koncesiju, neposrednom pogodbom, društvu IPK Klisa d.o.o., Klisa",
+   "title": "Odluka o davanju poljoprivrednog zemljišta u vlasništvu Republike Hrvatske u prioritetnu koncesiju, neposrednom pogodbom, društvu IPK Klisa d.o.o., Klisa",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/52/1246",
+   "versions": [
+    {
+     "from": "2006-05-05",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_05_52_1246.html",
+     "sha256": "6a6c1855cb63b63edf5812630ac43aaeca3cfeecb551cee2037a292c0b55eaed"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2006-1247",
+   "path": "odluka/2006/1247",
+   "short": "Odluka o davanju poljoprivrednog zemljišta u vlasništvu Republike Hrvatske u prioritetnu koncesiju, neposrednom pogodbom, društvu IPK Ovčara d.o.o., Osijek",
+   "title": "Odluka o davanju poljoprivrednog zemljišta u vlasništvu Republike Hrvatske u prioritetnu koncesiju, neposrednom pogodbom, društvu IPK Ovčara d.o.o., Osijek",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/52/1247",
+   "versions": [
+    {
+     "from": "2006-05-05",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_05_52_1247.html",
+     "sha256": "a20b47be60eee14df72a7ee53a22516ef2b0565578990838ef4705d284633522"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2006-1248",
+   "path": "odluka/2006/1248",
+   "short": "Odluka o davanju poljoprivrednog zemljišta u vlasništvu Republike Hrvatske u prioritetnu koncesiju, neposrednom pogodbom, društvu IPK Seleš, d.o.o. Antunovac",
+   "title": "Odluka o davanju poljoprivrednog zemljišta u vlasništvu Republike Hrvatske u prioritetnu koncesiju, neposrednom pogodbom, društvu IPK Seleš, d.o.o. Antunovac",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/52/1248",
+   "versions": [
+    {
+     "from": "2006-05-05",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_05_52_1248.html",
+     "sha256": "e2051a1d87ed18f596088380d1e2dc2f5dafd91ef4263d7b9b114a3e923e57d3"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2006-1249",
+   "path": "odluka/2006/1249",
+   "short": "Odluka o iznosu naknade za priključenje na elektroenergetsku mrežu i za povećanje priključne snage",
+   "title": "Odluka o iznosu naknade za priključenje na elektroenergetsku mrežu i za povećanje priključne snage",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/52/1249",
+   "versions": [
+    {
+     "from": "2006-05-10",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_05_52_1249.html",
+     "sha256": "c8abb271de9093c6e4e3997d056f9ccdc2e6cbb283fef8324b2c017eaefc4765"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2006-1250",
+   "path": "odluka/2006/1250",
+   "short": "Odluka o davanju suglasnosti na Pravilnik o načinu rada Odbora za standarde financijskog izvještavanja",
+   "title": "Odluka o davanju suglasnosti na Pravilnik o načinu rada Odbora za standarde financijskog izvještavanja",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/52/1250",
+   "versions": [
+    {
+     "from": "2006-05-05",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_05_52_1250.html",
+     "sha256": "70a8de830d6db4af57a760ca28e408430b4704578231fe05297c728dd3f19abd"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2006-1269",
+   "path": "odluka/2006/1269",
+   "short": "Odluka o visini naknade za ispitivanje tahografa i ograničivača brzine ugrađenih u motorna vozila za pokriće troškova ovlaštenog Ispitnog mjesta",
+   "title": "Odluka o visini naknade za ispitivanje tahografa i ograničivača brzine ugrađenih u motorna vozila za pokriće troškova ovlaštenog Ispitnog mjesta",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/53/1269",
+   "versions": [
+    {
+     "from": "2006-05-15",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_05_53_1269.html",
+     "sha256": "c83452d02cb9aa9545860557ebd2cac80f895143ffd5d746cd586d5728d3c04d"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2006-1288",
+   "path": "odluka/2006/1288",
+   "short": "Odluka o prirezu porezu na dohodak Općine Erdut",
+   "title": "Odluka o prirezu porezu na dohodak Općine Erdut",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/53/1288",
+   "versions": [
+    {
+     "from": "2006-05-23",
+     "units": 11,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_05_53_1288.html",
+     "sha256": "af9ce9cb077b67022522220ecf9464a792349e44a85f1087496d6f4ac58fd758"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2006-1314",
+   "path": "odluka/2006/1314",
+   "short": "Odluka o izmjeni i dopuni Odluke o uvjetima i načinu otvaranja i vođenja računa nerezidenata u banci",
+   "title": "Odluka o izmjeni i dopuni Odluke o uvjetima i načinu otvaranja i vođenja računa nerezidenata u banci",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/54/1314",
+   "versions": [
+    {
+     "from": "2006-05-25",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_05_54_1314.html",
+     "sha256": "4b4c5e065d643f0d90c198be35ac37f417f0780c12c7aac60578f7db7fb93b9e"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2006-1315",
+   "path": "odluka/2006/1315",
+   "short": "Odluka o načinu i uvjetima pod kojima rezidenti u poslovanju s nerezidentima mogu primiti naplatu ili izvršiti plaćanje u gotovini u kunama, stranoj gotovini i čekovima",
+   "title": "Odluka o načinu i uvjetima pod kojima rezidenti u poslovanju s nerezidentima mogu primiti naplatu ili izvršiti plaćanje u gotovini u kunama, stranoj gotovini i čekovima",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/54/1315",
+   "versions": [
+    {
+     "from": "2006-05-25",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_05_54_1315.html",
+     "sha256": "b0f00db60c817f92b48d9b6b182757d771f920a3132f60b95b3fb5a42061ac72"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2006-1324",
+   "path": "odluka/2006/1324",
+   "short": "Odluka o dodjeli koncesije za korištenje poljoprivrednog zemljišta u vlasništvu Republike Hrvatske na području Općine Bilje",
+   "title": "Odluka o dodjeli koncesije za korištenje poljoprivrednog zemljišta u vlasništvu Republike Hrvatske na području Općine Bilje",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/56/1324",
+   "versions": [
+    {
+     "from": "2006-05-17",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_05_56_1324.html",
+     "sha256": "a307f53d314fc89fd7303ce50bef02672c8e6752a3b91c972275b8e90dc0f492"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2006-1325",
+   "path": "odluka/2006/1325",
+   "short": "Odluka o izmjeni Odluke o dodjeli koncesije za korištenje poljoprivrednog zemljišta u vlasništvu Republike Hrvatske na području Općine Ivankovo",
+   "title": "Odluka o izmjeni Odluke o dodjeli koncesije za korištenje poljoprivrednog zemljišta u vlasništvu Republike Hrvatske na području Općine Ivankovo",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/56/1325",
+   "versions": [
+    {
+     "from": "2006-05-17",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_05_56_1325.html",
+     "sha256": "d2bd406494d933c9772e5a8b7a87f74f5737b66deeef807ee634cd50c2913d51"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2006-1326",
+   "path": "odluka/2006/1326",
+   "short": "Odluka o raspisivanju javnog natječaja za dodjelu koncesije za korištenje poljoprivrednog zemljišta u vlasništvu Republike Hrvatske na području Općine Semeljci",
+   "title": "Odluka o raspisivanju javnog natječaja za dodjelu koncesije za korištenje poljoprivrednog zemljišta u vlasništvu Republike Hrvatske na području Općine Semeljci",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/56/1326",
+   "versions": [
+    {
+     "from": "2006-05-17",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_05_56_1326.html",
+     "sha256": "d087e42fcbd279522de1bd5034077d19db337be55131aefe3f382e96be0a751a"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2006-1435",
+   "path": "odluka/2006/1435",
+   "short": "Odluka o prirezu poreza na dohodak Grada Siska",
+   "title": "Odluka o prirezu poreza na dohodak Grada Siska",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/59/1435",
+   "versions": [
+    {
+     "from": "2006-06-06",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_05_59_1435.html",
+     "sha256": "7b0f62bcc2e68557b7662a8b760c15f81cd42bbe988ac82cb1798dc4218f3278"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2006-1458",
+   "path": "odluka/2006/1458",
+   "short": "Odluka o dodjeli koncesije za korištenje poljoprivrednog zemljišta u vlasništvu Republike Hrvatske na području Općine Magadenovac",
+   "title": "Odluka o dodjeli koncesije za korištenje poljoprivrednog zemljišta u vlasništvu Republike Hrvatske na području Općine Magadenovac",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/61/1458",
+   "versions": [
+    {
+     "from": "2006-05-25",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_05_61_1458.html",
+     "sha256": "be4e8a53c0b70fbc2707e0f28293e7abe91d4fd1c6e41015b6fc48f7b9df1c98"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2006-1476",
+   "path": "odluka/2006/1476",
+   "short": "Odluka o izmjeni i dopuni Odluke o utvrđivanju Liste lijekova Hrvatskog zavoda za zdravstveno osiguranje",
+   "title": "Odluka o izmjeni i dopuni Odluke o utvrđivanju Liste lijekova Hrvatskog zavoda za zdravstveno osiguranje",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/61/1476",
+   "versions": [
+    {
+     "from": "2006-05-31",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_05_61_1476.html",
+     "sha256": "2ad6dfe56a375bf06b643a9b3205fab739ade865829c726c48e7e813c5596415"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2006-1513",
+   "path": "odluka/2006/1513",
+   "short": "Odluka o davanju ovlaštenja Ministarstvu poljoprivrede, šumarstva i vodnoga gospodarstva za donošenje odluka o izdvajanju šuma i/ili šumskog zemljišta u vlasništvu Republike Hrvatske iz šumsko-gospodarskog područja Republike Hrvatske",
+   "title": "Odluka o davanju ovlaštenja Ministarstvu poljoprivrede, šumarstva i vodnoga gospodarstva za donošenje odluka o izdvajanju šuma i/ili šumskog zemljišta u vlasništvu Republike Hrvatske iz šumsko-gospodarskog područja Republike Hrvatske",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/63/1513",
+   "versions": [
+    {
+     "from": "2006-06-02",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_06_63_1513.html",
+     "sha256": "11d94158f69f107067cb02f89356a20a0ef54769f6e8719e4a5c03f4ed3dd2da"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2006-1522",
+   "path": "odluka/2006/1522",
+   "short": "Odluka o stopi doprinosa i iznosu članarine Hrvatskoj revizorskoj komori",
+   "title": "Odluka o stopi doprinosa i iznosu članarine Hrvatskoj revizorskoj komori",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/63/1522",
+   "versions": [
+    {
+     "from": "2006-06-05",
+     "units": 15,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_06_63_1522.html",
+     "sha256": "64b55696453d8392613eeab5e68b3e829aa15fd6a83ee74c8e0c79b4d039fd2a"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2006-1553",
+   "path": "odluka/2006/1553",
+   "short": "Odluka o dopuštenoj količini otpadnih guma koje se može koristiti u energetske svrhe u 2006. godini",
+   "title": "Odluka o dopuštenoj količini otpadnih guma koje se može koristiti u energetske svrhe u 2006. godini",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/64/1553",
+   "versions": [
+    {
+     "from": "2006-06-07",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_06_64_1553.html",
+     "sha256": "3c83aa4a4a021204a13eecb36f1f37b6659c873fa477d96353737fda9cae6862"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2006-158",
+   "path": "odluka/2006/158",
+   "short": "Odluka o osnivanju Konzulata Republike Hrvatske u Ujedinjenoj Republici Tanzaniji",
+   "title": "Odluka o osnivanju Konzulata Republike Hrvatske u Ujedinjenoj Republici Tanzaniji",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/8/158",
+   "versions": [
+    {
+     "from": "2006-01-13",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_01_8_158.html",
+     "sha256": "0f4469b58addad8a27f3b96d198143ad879f875afe7ae50c915eab08c4a413c1"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2006-1589",
+   "path": "odluka/2006/1589",
+   "short": "Odluka o naknadama za usluge Hrvatske gospodarske komore u vezi s organizacijom i provedbom poslova javnog komisionara",
+   "title": "Odluka o naknadama za usluge Hrvatske gospodarske komore u vezi s organizacijom i provedbom poslova javnog komisionara",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/66/1589",
+   "versions": [
+    {
+     "from": "2006-06-20",
+     "units": 9,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_06_66_1589.html",
+     "sha256": "f73ea5203583b5e56e67428d10fc7cbeb150117ebd531af47bbfef1e9bd3aef1"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2006-1605",
+   "path": "odluka/2006/1605",
+   "short": "Odluka o raspisivanju izbora za Općinsko vijeće Općine Velika i Općinsko vijeće Općine Vrhovine",
+   "title": "Odluka o raspisivanju izbora za Općinsko vijeće Općine Velika i Općinsko vijeće Općine Vrhovine",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/67/1605",
+   "versions": [
+    {
+     "from": "2006-06-14",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_06_67_1605.html",
+     "sha256": "3ee81769a2e27a125dc69d381b7c3fe7b52ce7e47223a4597942eb90f0e9bb87"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2006-165",
+   "path": "odluka/2006/165",
+   "short": "Odluka o plaći predsjednika i članova Odbora za državnu službu",
+   "title": "Odluka o plaći predsjednika i članova Odbora za državnu službu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/8/165",
+   "versions": [
+    {
+     "from": "2006-01-18",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_01_8_165.html",
+     "sha256": "09a3473977a360ec9a3f1826a6099ef9df9690356add2e46aedc20587c3f6f7b"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2006-1653",
+   "path": "odluka/2006/1653",
+   "short": "Odluka o raspisivanju javnog natječaja za dodjelu koncesije za korištenje",
+   "title": "Odluka o raspisivanju javnog natječaja za dodjelu koncesije za korištenje",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/69/1653",
+   "versions": [
+    {
+     "from": "2006-06-14",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_06_69_1653.html",
+     "sha256": "634311a39ea6350ef2e8f7b8e833b611c4475e7b46f78212ce1dd37ac783c74b"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2006-1654",
+   "path": "odluka/2006/1654",
+   "short": "Odluka o dodjeli koncesije za korištenje poljoprivrednog zemljišta u",
+   "title": "Odluka o dodjeli koncesije za korištenje poljoprivrednog zemljišta u",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/69/1654",
+   "versions": [
+    {
+     "from": "2006-06-14",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_06_69_1654.html",
+     "sha256": "3ce89329dcb13d8d9acdafbfda9df1239b1799bed2a4d89ada6df36a4786d983"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2006-1655",
+   "path": "odluka/2006/1655",
+   "short": "Odluka o dodjeli koncesije za korištenje poljoprivrednog zemljišta u",
+   "title": "Odluka o dodjeli koncesije za korištenje poljoprivrednog zemljišta u",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/69/1655",
+   "versions": [
+    {
+     "from": "2006-06-14",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_06_69_1655.html",
+     "sha256": "ca4b2fc6374ed6fdc5356c862148b9e26eaba9f0c805494f8087fe249b4e9fe2"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2006-1656",
+   "path": "odluka/2006/1656",
+   "short": "Odluka o dodjeli koncesije za korištenje poljoprivrednog zemljišta u",
+   "title": "Odluka o dodjeli koncesije za korištenje poljoprivrednog zemljišta u",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/69/1656",
+   "versions": [
+    {
+     "from": "2006-06-14",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_06_69_1656.html",
+     "sha256": "8920d480e05c85e5aade6aa972762f62d20566a546ccb9cbb2f13750eea8f858"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2006-166",
+   "path": "odluka/2006/166",
+   "short": "Odluka o visini dnevnice za službeno putovanje u inozemstvo za korisnike koji se financiraju iz sredstava državnog proračuna",
+   "title": "Odluka o visini dnevnice za službeno putovanje u inozemstvo za korisnike koji se financiraju iz sredstava državnog proračuna",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/8/166",
+   "versions": [
+    {
+     "from": "2006-01-18",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_01_8_166.html",
+     "sha256": "6d6ddb8f37bee3640755b601e42d0766c4d8dc5d0ff16cd0f42c239298b88762"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2006-1665",
+   "path": "odluka/2006/1665",
+   "short": "Odluka o izmjenama i dopunama Odluke o graničnoj obveznoj pričuvi",
+   "title": "Odluka o izmjenama i dopunama Odluke o graničnoj obveznoj pričuvi",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/69/1665",
+   "versions": [
+    {
+     "from": "2006-06-29",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_06_69_1665.html",
+     "sha256": "535c4194858d379d43eb965dfa1b9d0796a9b66844eef9e3f58bfeaab0aa1ea3"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2006-1666",
+   "path": "odluka/2006/1666",
+   "short": "Odluka o izmjeni i dopuni Odluke o unošenju i iznošenju gotovine, čekova i",
+   "title": "Odluka o izmjeni i dopuni Odluke o unošenju i iznošenju gotovine, čekova i",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/69/1666",
+   "versions": [
+    {
+     "from": "2006-06-29",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_06_69_1666.html",
+     "sha256": "0f68346d171d7277ef44ec04abcffb16824a6217baf7e83f5ea377692a507c46"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2006-167",
+   "path": "odluka/2006/167",
+   "short": "Odluka o raspisivanju izbora za Općinsko vijeće Općine Cerna",
+   "title": "Odluka o raspisivanju izbora za Općinsko vijeće Općine Cerna",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/8/167",
+   "versions": [
+    {
+     "from": "2006-01-18",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_01_8_167.html",
+     "sha256": "d0f61dfbda03138c9ac59c8c729442c879c3bca155803bf6a55a999fc382fae6"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2006-168",
+   "path": "odluka/2006/168",
+   "short": "Odluka o raspisivanju izbora za Gradsko vijeće Grada Hrvatske Kostajnice",
+   "title": "Odluka o raspisivanju izbora za Gradsko vijeće Grada Hrvatske Kostajnice",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/8/168",
+   "versions": [
+    {
+     "from": "2006-01-18",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_01_8_168.html",
+     "sha256": "003f5a4e29023a3eea2a1999fb4c491bea615462a55308a62591c32789543fbc"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2006-1683",
+   "path": "odluka/2006/1683",
+   "short": "Odluka o izmjeni i dopuni Odluke o načinu i rokovima dostavljanja izvješća",
+   "title": "Odluka o izmjeni i dopuni Odluke o načinu i rokovima dostavljanja izvješća",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/70/1683",
+   "versions": [
+    {
+     "from": "2006-07-03",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_06_70_1683.html",
+     "sha256": "7642e29b4b4a75c1c194faa100437a6ca992a0f4160a5132364847e1d5968896"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2006-1704",
+   "path": "odluka/2006/1704",
+   "short": "Zakon o športu",
+   "title": "Zakon o športu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/71/1704",
+   "versions": [
+    {
+     "from": "2006-07-06",
+     "units": 104,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_06_71_1704.html",
+     "sha256": "fc43de887bd2eb31104348eba6f38a2a6d2586ea206ea89a15ea7e0f989e2877"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2006-1757",
+   "path": "odluka/2006/1757",
+   "short": "Odluka o dodjeli koncesije za korištenje poljoprivrednog zemljišta u vlasništvu Republike Hrvatske na području grada Slatine za k.o. Podravska Slatina",
+   "title": "Odluka o dodjeli koncesije za korištenje poljoprivrednog zemljišta u vlasništvu Republike Hrvatske na području grada Slatine za k.o. Podravska Slatina",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/74/1757",
+   "versions": [
+    {
+     "from": "2006-06-29",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_07_74_1757.html",
+     "sha256": "41b871337054e00452c1585dd418e8875d552bade4c722fb14b4dc0c17e9ef4d"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2006-1758",
+   "path": "odluka/2006/1758",
+   "short": "Odluka o raspisivanju javnog natječaja za dodjelu koncesije za korištenje poljoprivrednog zemljišta u vlasništvu Republike Hrvatske na području općine Čačinci za k.o. Čačinci",
+   "title": "Odluka o raspisivanju javnog natječaja za dodjelu koncesije za korištenje poljoprivrednog zemljišta u vlasništvu Republike Hrvatske na području općine Čačinci za k.o. Čačinci",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/74/1758",
+   "versions": [
+    {
+     "from": "2006-06-29",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_07_74_1758.html",
+     "sha256": "1f72df55e2acb7f11f066a8c6b52aaaa3abd7dffa8e2b23fbd1863603d9d5ee0"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2006-1759",
+   "path": "odluka/2006/1759",
+   "short": "Odluka o raspisivanju javnog natječaja za dodjelu koncesije za korištenje poljoprivrednog zemljišta u vlasništvu Republike Hrvatske na području općine Sibinj",
+   "title": "Odluka o raspisivanju javnog natječaja za dodjelu koncesije za korištenje poljoprivrednog zemljišta u vlasništvu Republike Hrvatske na području općine Sibinj",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/74/1759",
+   "versions": [
+    {
+     "from": "2006-06-29",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_07_74_1759.html",
+     "sha256": "4e6ec03707dbb8e480850c8787cb100ecc80bfea1f0f1f30dde3ae96c332fb55"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2006-1771",
+   "path": "odluka/2006/1771",
+   "short": "Odluka o izmjenama i dopunama Odluke o klasifikaciji plasmana i potencijalnih obveza banaka",
+   "title": "Odluka o izmjenama i dopunama Odluke o klasifikaciji plasmana i potencijalnih obveza banaka",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/74/1771",
+   "versions": [
+    {
+     "from": "2006-07-13",
+     "units": 8,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_07_74_1771.html",
+     "sha256": "9234bc8cee9fa7fb5335164b041f90a2c4b4598b87185c8093636d6a8dbbbd22"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2006-1776",
+   "path": "odluka/2006/1776",
+   "short": "Odluka o usvajanju Izmjena i dopuna garancijskog programa \"Poljoprivreda\" Hrvatske agencije za malo gospodarstvo za odobravanje jamstava",
+   "title": "Odluka o usvajanju Izmjena i dopuna garancijskog programa \"Poljoprivreda\" Hrvatske agencije za malo gospodarstvo za odobravanje jamstava",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/75/1776",
+   "versions": [
+    {
+     "from": "2006-06-29",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_07_75_1776.html",
+     "sha256": "0b469485627c918d67b8b812debaf7659d214d091d61adf4a403bc966a583894"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2006-1826",
+   "path": "odluka/2006/1826",
+   "short": "Odluka o dopuni Odluke o općinskim porezima Općine Vojnić",
+   "title": "Odluka o dopuni Odluke o općinskim porezima Općine Vojnić",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/76/1826",
+   "versions": [
+    {
+     "from": "2006-07-18",
+     "units": 24,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_07_76_1826.html",
+     "sha256": "701b329591b61dba5c96e064959b895e2e84c3c5684b7854afc514e901d7fdba"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2006-1940",
+   "path": "odluka/2006/1940",
+   "short": "Odluka o razvrstavanju željezničkih pruga",
+   "title": "Odluka o razvrstavanju željezničkih pruga",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/81/1940",
+   "versions": [
+    {
+     "from": "2006-07-12",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_07_81_1940.html",
+     "sha256": "9f58a7f2c546939ad0952894fb4c4f4ff58277da29b6ccdee23749fe63e621e0"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2006-1941",
+   "path": "odluka/2006/1941",
+   "short": "Odluka o dodjeli koncesije za korištenje poljoprivrednog zemljišta u vlasništvu Republike Hrvatske na području Grada Slatine za k.o. Sladojevci",
+   "title": "Odluka o dodjeli koncesije za korištenje poljoprivrednog zemljišta u vlasništvu Republike Hrvatske na području Grada Slatine za k.o. Sladojevci",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/81/1941",
+   "versions": [
+    {
+     "from": "2006-07-12",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_07_81_1941.html",
+     "sha256": "0a77558cd5d4be983ce01018c3a60ac49491678bb207217f90c6c3f659c3fa9b"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2006-1942",
+   "path": "odluka/2006/1942",
+   "short": "Odluka o dodjeli koncesije za korištenje poljoprivrednog zemljišta u vlasništvu Republike Hrvatske na području općine Velika",
+   "title": "Odluka o dodjeli koncesije za korištenje poljoprivrednog zemljišta u vlasništvu Republike Hrvatske na području općine Velika",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/81/1942",
+   "versions": [
+    {
+     "from": "2006-07-12",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_07_81_1942.html",
+     "sha256": "6bda678803b339ae21576078035801ec148d9c3b7f3e5ce66834282a977c0747"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2006-1943",
+   "path": "odluka/2006/1943",
+   "short": "Odluka o dodjeli koncesije za korištenje poljoprivrednog zemljišta u vlasništvu Republike Hrvatske na području grada Donjeg Miholjca",
+   "title": "Odluka o dodjeli koncesije za korištenje poljoprivrednog zemljišta u vlasništvu Republike Hrvatske na području grada Donjeg Miholjca",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/81/1943",
+   "versions": [
+    {
+     "from": "2006-07-12",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_07_81_1943.html",
+     "sha256": "baa6726c1c8cbf7fec934469ed2617db59f0c6b2f8e028002d208b479b577d3e"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2006-1944",
+   "path": "odluka/2006/1944",
+   "short": "Odluka o raspisivanju javnog natječaja za dodjelu koncesije za korištenje poljoprivrednog zemljišta u vlasništvu Republike Hrvatske na području općine Čačinci",
+   "title": "Odluka o raspisivanju javnog natječaja za dodjelu koncesije za korištenje poljoprivrednog zemljišta u vlasništvu Republike Hrvatske na području općine Čačinci",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/81/1944",
+   "versions": [
+    {
+     "from": "2006-07-12",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_07_81_1944.html",
+     "sha256": "53f5cf5c98d71b9b439480807c0da11ba48029b854fb62f62f80f00c6e361165"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2006-1965",
+   "path": "odluka/2006/1965",
+   "short": "Odluka o ustanovljenju i dodjeli Spomen plakete Vukovar 1991.",
+   "title": "Odluka o ustanovljenju i dodjeli Spomen plakete Vukovar 1991.",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/82/1965",
+   "versions": [
+    {
+     "from": "2006-07-21",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_07_82_1965.html",
+     "sha256": "739f7a6525f49e743f06dadb8881d13881151f7ad39905e21c166caa012fe9b1"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2006-1966",
+   "path": "odluka/2006/1966",
+   "short": "Odluka o Nacionalnom vijeću za praćenje provedbe Nacionalnog programa suzbijanja korupcije",
+   "title": "Odluka o Nacionalnom vijeću za praćenje provedbe Nacionalnog programa suzbijanja korupcije",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/82/1966",
+   "versions": [
+    {
+     "from": "2006-07-13",
+     "units": 12,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_07_82_1966.html",
+     "sha256": "ea5c362a3d6530ce5cc3359a2fcdcfcd85f69eb1f1bfa47f0d53b055fe08f0c6"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2006-197",
+   "path": "odluka/2006/197",
+   "short": "Odluka o općinskim porezima općine Podbablje",
+   "title": "Odluka o općinskim porezima općine Podbablje",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/8/197",
+   "versions": [
+    {
+     "from": "2006-01-18",
+     "units": 13,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_01_8_197.html",
+     "sha256": "10b3a2f1b9d92b6c3e23df06657e51aaae1551c46585a3aa57be436de451c1fb"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2006-1988",
+   "path": "odluka/2006/1988",
+   "short": "Odluka o izmjeni odluke o minimalno potrebnim deviznim potraživanjima",
+   "title": "Odluka o izmjeni odluke o minimalno potrebnim deviznim potraživanjima",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/82/1988",
+   "versions": [
+    {
+     "from": "2006-07-29",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_07_82_1988.html",
+     "sha256": "85d35d428d9fb65aa4eb1fa2912062e6448e7f34e89d812c5ad63f9eda14ab81"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2006-1994",
+   "path": "odluka/2006/1994",
+   "short": "Odluka o davanju suglasnosti na Izmjene i dopune Financijskog plana Hrvatskog zavoda za zdravstveno osiguranje za 2006. godinu",
+   "title": "Odluka o davanju suglasnosti na Izmjene i dopune Financijskog plana Hrvatskog zavoda za zdravstveno osiguranje za 2006. godinu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/83/1994",
+   "versions": [
+    {
+     "from": "2006-07-22",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_07_83_1994.html",
+     "sha256": "a1b4a420ff2215b3cbe6a39b17ca82adb90d1732f89e6ff35a70a30d34e4dfbc"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2006-1995",
+   "path": "odluka/2006/1995",
+   "short": "Odluka o davanju suglasnosti na Izmjene i dopune Financijskog plana Hrvatskog zavoda za zapošljavanje za 2006. godinu",
+   "title": "Odluka o davanju suglasnosti na Izmjene i dopune Financijskog plana Hrvatskog zavoda za zapošljavanje za 2006. godinu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/83/1995",
+   "versions": [
+    {
+     "from": "2006-07-22",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_07_83_1995.html",
+     "sha256": "8a77655c7ce491fbf93904b9f1ca5abe28b0a5b4ae6a777f8d4a8ac404e087dc"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2006-1996",
+   "path": "odluka/2006/1996",
+   "short": "Odluka o davanju suglasnosti na Izmjene i dopune Financijskog plana Hrvatskih voda za 2006. godinu",
+   "title": "Odluka o davanju suglasnosti na Izmjene i dopune Financijskog plana Hrvatskih voda za 2006. godinu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/83/1996",
+   "versions": [
+    {
+     "from": "2006-07-22",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_07_83_1996.html",
+     "sha256": "dc34f413b724251eccbb202e6df04511416a582fca88cb8a71a175a0bb73caf9"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2006-1997",
+   "path": "odluka/2006/1997",
+   "short": "Odluka o davanju suglasnosti na Izmjene i dopune Financijskog plana Hrvatskih autocesta za 2006. godinu",
+   "title": "Odluka o davanju suglasnosti na Izmjene i dopune Financijskog plana Hrvatskih autocesta za 2006. godinu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/83/1997",
+   "versions": [
+    {
+     "from": "2006-07-22",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_07_83_1997.html",
+     "sha256": "cd0ce5b12ccacd50ac92d097dbaadbd05b0ccf514c177f092ca305b554a6637f"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2006-1998",
+   "path": "odluka/2006/1998",
+   "short": "Odluka o davanju suglasnosti na Izmjene i dopune Financijskog plana Hrvatskih cesta za 2006. godinu",
+   "title": "Odluka o davanju suglasnosti na Izmjene i dopune Financijskog plana Hrvatskih cesta za 2006. godinu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/83/1998",
+   "versions": [
+    {
+     "from": "2006-07-22",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_07_83_1998.html",
+     "sha256": "c8abbac70b02cea224949f263a1ba7c1e220c17792626e750352c61f640979db"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2006-1999",
+   "path": "odluka/2006/1999",
+   "short": "Odluka o davanju suglasnosti na Izmjene i dopune Financijskog plana Državne agencije za osiguranje štednih uloga i sanaciju banaka za 2006. godinu",
+   "title": "Odluka o davanju suglasnosti na Izmjene i dopune Financijskog plana Državne agencije za osiguranje štednih uloga i sanaciju banaka za 2006. godinu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/83/1999",
+   "versions": [
+    {
+     "from": "2006-07-22",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_07_83_1999.html",
+     "sha256": "003caeb50ea1563b0969a032f397f7177f894fd832867247b56d1313ff699ab7"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2006-2000",
+   "path": "odluka/2006/2000",
+   "short": "Odluka o davanju suglasnosti na Izmjene i dopune Financijskog plana Fonda za zaštitu okoliša i energetsku učinkovitost za 2006. godinu",
+   "title": "Odluka o davanju suglasnosti na Izmjene i dopune Financijskog plana Fonda za zaštitu okoliša i energetsku učinkovitost za 2006. godinu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/83/2000",
+   "versions": [
+    {
+     "from": "2006-07-22",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_07_83_2000.html",
+     "sha256": "bc99ec7aa3f33444e7e5205ba9889d04f84db232e160d38e47ba993b60e0386b"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2006-2010",
+   "path": "odluka/2006/2010",
+   "short": "Odluka o dopuni Odluke o utvrđivanju popisa posebno skupih lijekova iz Odluke o utvrđivanju Liste lijekova Hrvatskog zavoda za zdravstveno osiguranje",
+   "title": "Odluka o dopuni Odluke o utvrđivanju popisa posebno skupih lijekova iz Odluke o utvrđivanju Liste lijekova Hrvatskog zavoda za zdravstveno osiguranje",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/84/2010",
+   "versions": [
+    {
+     "from": "2006-07-24",
+     "units": 2,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_07_84_2010.html",
+     "sha256": "34630c0629bc8c39f521fc908127cc14e3a9c2e81590844599c8422757bf9c98"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2006-2011",
+   "path": "odluka/2006/2011",
+   "short": "Odluka o izmjeni i dopuni Odluke o osnovama za sklapanje ugovora sa zdravstvenim ustanovama i privatnim zdravstvenim radnicima za 2006. godinu",
+   "title": "Odluka o izmjeni i dopuni Odluke o osnovama za sklapanje ugovora sa zdravstvenim ustanovama i privatnim zdravstvenim radnicima za 2006. godinu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/84/2011",
+   "versions": [
+    {
+     "from": "2006-07-24",
+     "units": 2,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_07_84_2011.html",
+     "sha256": "f826e2762eda03bf6e196e5bd9d89592b85bcc6e0cf436f1be6cad9210fc5d03"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2006-2013",
+   "path": "odluka/2006/2013",
+   "short": "Odluka o izmjeni i dopuni Odluke o utvrđivanju Liste lijekova Hrvatskog zavoda za zdravstveno osiguranje",
+   "title": "Odluka o izmjeni i dopuni Odluke o utvrđivanju Liste lijekova Hrvatskog zavoda za zdravstveno osiguranje",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/84/2013",
+   "versions": [
+    {
+     "from": "2006-07-24",
+     "units": 2,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_07_84_2013.html",
+     "sha256": "e382e581754eca816791824f9473091c1a71c9fa159f5521479acd8ebf20234b"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2006-2029",
+   "path": "odluka/2006/2029",
+   "short": "Odluka o izgradnji Spomenika domovini",
+   "title": "Odluka o izgradnji Spomenika domovini",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/85/2029",
+   "versions": [
+    {
+     "from": "2006-07-06",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_07_85_2029.html",
+     "sha256": "7e1905e033edd9a3b42f3886e7a1c45275ab1d0209191e8eef2b29f4c08cb790"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2006-2030",
+   "path": "odluka/2006/2030",
+   "short": "Odluka o preferencijalnoj carinskoj kvoti pri uvozu određenoga poljoprivrednog proizvoda iz zemalja članica Europske unije",
+   "title": "Odluka o preferencijalnoj carinskoj kvoti pri uvozu određenoga poljoprivrednog proizvoda iz zemalja članica Europske unije",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/85/2030",
+   "versions": [
+    {
+     "from": "2006-07-20",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_07_85_2030.html",
+     "sha256": "d8f3ad512cbb74c47f29a5c035a9aef3aacb693d9a9b5e1bfc216b5fddc3b10c"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2006-2031",
+   "path": "odluka/2006/2031",
+   "short": "Odluka o utvrđivanju interesa Republike Hrvatske za izgradnju objekata planske oznake 2 P mješovite pretežito stambene namjene",
+   "title": "Odluka o utvrđivanju interesa Republike Hrvatske za izgradnju objekata planske oznake 2 P mješovite pretežito stambene namjene",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/85/2031",
+   "versions": [
+    {
+     "from": "2006-07-26",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_07_85_2031.html",
+     "sha256": "b326d579dcda05a4e4f8642ff505489e8749a11fcf0a9130b2fa203f3e4f461c"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2006-2032",
+   "path": "odluka/2006/2032",
+   "short": "Odluka o utvrđivanju interesa Republike Hrvatske za izgradnju objekata pješačke površine JP 3.2",
+   "title": "Odluka o utvrđivanju interesa Republike Hrvatske za izgradnju objekata pješačke površine JP 3.2",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/85/2032",
+   "versions": [
+    {
+     "from": "2006-07-26",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_07_85_2032.html",
+     "sha256": "0a527e7b07a3527351f5de2b1f39156546f49620c93b3a3deeb2fb3544062893"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2006-2033",
+   "path": "odluka/2006/2033",
+   "short": "Odluka o utvrđivanju interesa Republike Hrvatske za izgradnju trgova i pješačkih površina JP 3.3",
+   "title": "Odluka o utvrđivanju interesa Republike Hrvatske za izgradnju trgova i pješačkih površina JP 3.3",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/85/2033",
+   "versions": [
+    {
+     "from": "2006-07-26",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_07_85_2033.html",
+     "sha256": "96bf882dee82c4935a421bada183801152221cd8b0da53ab02474c03ceef13d4"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2006-2084",
+   "path": "odluka/2006/2084",
+   "short": "Odluka o poništenju dijela javnog natječaja za dodjelu koncesija za obavljanje djelatnosti radija i/ili televizije na širem području grada Osijeka",
+   "title": "Odluka o poništenju dijela javnog natječaja za dodjelu koncesija za obavljanje djelatnosti radija i/ili televizije na širem području grada Osijeka",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/87/2084",
+   "versions": [
+    {
+     "from": "2006-07-24",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_07_87_2084.html",
+     "sha256": "f65a7b3b16bf771987a0e0f4fa7acc7ab852ced4f3230347efb49f02fb8843f8"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2006-2102",
+   "path": "odluka/2006/2102",
+   "short": "Odluka o izmjeni i dopuni Odluke o osnovama za sklapanje ugovora sa zdravstvenim ustanovama i privatnim zdravstvenim radnicima za 2006. godinu",
+   "title": "Odluka o izmjeni i dopuni Odluke o osnovama za sklapanje ugovora sa zdravstvenim ustanovama i privatnim zdravstvenim radnicima za 2006. godinu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/88/2102",
+   "versions": [
+    {
+     "from": "2006-08-02",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_08_88_2102.html",
+     "sha256": "7f91dc2f38e916c37d93b68cac8dc7ddd9520cde9f7335b3610be983e18284cf"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2006-2106",
+   "path": "odluka/2006/2106",
+   "short": "Odluka o početku rada Službe upisa",
+   "title": "Odluka o početku rada Službe upisa",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/89/2106",
+   "versions": [
+    {
+     "from": "2006-07-26",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_08_89_2106.html",
+     "sha256": "990b6810626741c206040ae82562cb233fb97f3d880c77520733687b919fa8d0"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2006-2117",
+   "path": "odluka/2006/2117",
+   "short": "Odluka o osnivanju Konzulata Republike Hrvatske u Portugalskoj Republici sa sjedištem u Portu",
+   "title": "Odluka o osnivanju Konzulata Republike Hrvatske u Portugalskoj Republici sa sjedištem u Portu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/90/2117",
+   "versions": [
+    {
+     "from": "2006-08-03",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_08_90_2117.html",
+     "sha256": "420d62598b18e767312fdd2a48702b98aba98bcc9d8ee43fede52984b82d6442"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2006-2121",
+   "path": "odluka/2006/2121",
+   "short": "Odluka o uspostavi i održavanju usluge centarliziranog obračuna plaća i upravljanja ljudskim resursima za sva tijela državne uprave (COP i HRM TDU)",
+   "title": "Odluka o uspostavi i održavanju usluge centarliziranog obračuna plaća i upravljanja ljudskim resursima za sva tijela državne uprave (COP i HRM TDU)",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/90/2121",
+   "versions": [
+    {
+     "from": "2006-08-17",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_08_90_2121.html",
+     "sha256": "e337ce1413c2dea1db3be0d1340ac12594ce7b534c539479ca9efc8e61af0eee"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2006-2122",
+   "path": "odluka/2006/2122",
+   "short": "Odluka o određivanju godišnje količine tekućih naftnih goriva koja se smije stavljati u promet na domaćem tržištu, a ne udovoljava graničnim vrijednostima i drugim značajkama kakvoće tekućih naftnih goriva propisanim Uredbom o kakvoći tekućih naftnih goriva",
+   "title": "Odluka o određivanju godišnje količine tekućih naftnih goriva koja se smije stavljati u promet na domaćem tržištu, a ne udovoljava graničnim vrijednostima i drugim značajkama kakvoće tekućih naftnih goriva propisanim Uredbom o kakvoći tekućih naftnih goriva",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/90/2122",
+   "versions": [
+    {
+     "from": "2006-08-03",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_08_90_2122.html",
+     "sha256": "da87b0e8c08ad9dee06cbd399295fe85170262ae15e3870995bb0472e6c26cf4"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2006-2123",
+   "path": "odluka/2006/2123",
+   "short": "Odluka o izmjenama Odluke o minimalnim financijskim standardima za decentralizirane funkcije za zdravstvene ustanove u 2006. godini",
+   "title": "Odluka o izmjenama Odluke o minimalnim financijskim standardima za decentralizirane funkcije za zdravstvene ustanove u 2006. godini",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/90/2123",
+   "versions": [
+    {
+     "from": "2006-08-17",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_08_90_2123.html",
+     "sha256": "0f2cb25ba932c2c1de00dc7329d0b614dfc98ccfe320878c74bd8b20a1cc0f81"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2006-2124",
+   "path": "odluka/2006/2124",
+   "short": "Odluka o dodatnoj pomoći Gradu Vukovaru, za financiranje troškova elektroenergetskog priključka, u svrhu provođenja Programa stambenog zbrinjavanja stradalnika iz Domovinskog rata",
+   "title": "Odluka o dodatnoj pomoći Gradu Vukovaru, za financiranje troškova elektroenergetskog priključka, u svrhu provođenja Programa stambenog zbrinjavanja stradalnika iz Domovinskog rata",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/90/2124",
+   "versions": [
+    {
+     "from": "2006-08-03",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_08_90_2124.html",
+     "sha256": "f02e8c268ab37170d39fb16004d216faab2dd9bccf9b1b418ebbe9447b94d775"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2006-2125",
+   "path": "odluka/2006/2125",
+   "short": "Odluka o dodatnoj pomoći Općini Netretić, za financiranje troškova elektroenergetskog priključka, u svrhu provođenja Programa stambenog zbrinjavanja stradalnika iz Domovinskog rata",
+   "title": "Odluka o dodatnoj pomoći Općini Netretić, za financiranje troškova elektroenergetskog priključka, u svrhu provođenja Programa stambenog zbrinjavanja stradalnika iz Domovinskog rata",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/90/2125",
+   "versions": [
+    {
+     "from": "2006-08-03",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_08_90_2125.html",
+     "sha256": "937c0bf9906857fc04db0cfc7f8062e1d199ce3fb32edfc511fc13d8dd6e3ceb"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2006-2126",
+   "path": "odluka/2006/2126",
+   "short": "Odluka o dodjeli koncesije za korištenje poljoprivrednog zemljišta u vlasništvu Republike Hrvatske na područje Općine Brodski Stupnik",
+   "title": "Odluka o dodjeli koncesije za korištenje poljoprivrednog zemljišta u vlasništvu Republike Hrvatske na područje Općine Brodski Stupnik",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/90/2126",
+   "versions": [
+    {
+     "from": "2006-08-03",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_08_90_2126.html",
+     "sha256": "25f32546a94338f56780f3e48d27b4c771ec1a1f53ee15cf4075abd1eaa0f6b3"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2006-2127",
+   "path": "odluka/2006/2127",
+   "short": "Odluka o davanju koncesije na pomorskom dobru u svrhu posebne upotrebe radi izgradnje podmorskog ispusta otpadnih voda \"Centar\" - Zadar",
+   "title": "Odluka o davanju koncesije na pomorskom dobru u svrhu posebne upotrebe radi izgradnje podmorskog ispusta otpadnih voda \"Centar\" - Zadar",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/90/2127",
+   "versions": [
+    {
+     "from": "2006-08-03",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_08_90_2127.html",
+     "sha256": "c19df18e8f7e2a23b55eb8a853b3cd9336dbd7be13e4bda2b3dad456f926b358"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2006-2133",
+   "path": "odluka/2006/2133",
+   "short": "Odluka o davanju koncesija na pomorskom dobru u svrhu posebne upotrebe radi izgradnje dijela kanalizacijskog sustava Kaštela - Trogir",
+   "title": "Odluka o davanju koncesija na pomorskom dobru u svrhu posebne upotrebe radi izgradnje dijela kanalizacijskog sustava Kaštela - Trogir",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/91/2133",
+   "versions": [
+    {
+     "from": "2006-08-03",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_08_91_2133.html",
+     "sha256": "41490277f2bcab4bce46a0a5afd9dba07b8f08d1871abe5f5017b53ab9bd4531"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2006-2134",
+   "path": "odluka/2006/2134",
+   "short": "Odluka o davanju suglasnosti na Odluku o izmjenama Statuta Fonda za profesionalnu rehabilitaciju i zapošljavanje osoba s invaliditetom",
+   "title": "Odluka o davanju suglasnosti na Odluku o izmjenama Statuta Fonda za profesionalnu rehabilitaciju i zapošljavanje osoba s invaliditetom",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/91/2134",
+   "versions": [
+    {
+     "from": "2006-08-03",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_08_91_2134.html",
+     "sha256": "0ac4f926ceea4105476a86abe9b121a3eaea92c55da53387efaadcc8e1ec3743"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2006-2190",
+   "path": "odluka/2006/2190",
+   "short": "Odluka o tehničkim pravilima Hrvatskog registra brodova Trup (2006)",
+   "title": "Odluka o tehničkim pravilima Hrvatskog registra brodova Trup (2006)",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/94/2190",
+   "versions": [
+    {
+     "from": "2006-09-01",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_08_94_2190.html",
+     "sha256": "3fd250269ba7a1a52254072f2d98e6851c9441db0ce806bf034612285f32441b"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2006-2191",
+   "path": "odluka/2006/2191",
+   "short": "Odluka o tehničkim pravilima Hrvatskog registra brodova Strojni uređaj (2006)",
+   "title": "Odluka o tehničkim pravilima Hrvatskog registra brodova Strojni uređaj (2006)",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/94/2191",
+   "versions": [
+    {
+     "from": "2006-09-01",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_08_94_2191.html",
+     "sha256": "b13be12aa8d8b4cf86ee4e9c2e756b29558349dbf857f0068ae937853aef3b62"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2006-2192",
+   "path": "odluka/2006/2192",
+   "short": "Odluka o tehničkim pravilima Hrvatskog registra brodova Strojevi (2006)",
+   "title": "Odluka o tehničkim pravilima Hrvatskog registra brodova Strojevi (2006)",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/94/2192",
+   "versions": [
+    {
+     "from": "2006-09-01",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_08_94_2192.html",
+     "sha256": "5b0cfe7b983fe8a6d430b0d59d2152c963f6e82358104982255320c2c1720d59"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2006-2214",
+   "path": "odluka/2006/2214",
+   "short": "Odluka o izmjenama i dopunama Odluke o zadovoljavanju stambenih potreba dužnosnika i službenika u tijelima državne vlasti",
+   "title": "Odluka o izmjenama i dopunama Odluke o zadovoljavanju stambenih potreba dužnosnika i službenika u tijelima državne vlasti",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/96/2214",
+   "versions": [
+    {
+     "from": "2006-09-07",
+     "units": 14,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_08_96_2214.html",
+     "sha256": "04c350fbb53d8addc3b2ab47d57c1f9e3832fa37723f78fbc9f9afb1ea5d6059"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2006-2215",
+   "path": "odluka/2006/2215",
+   "short": "Odluka o \"Nagradi Ivo Horvat\"",
+   "title": "Odluka o \"Nagradi Ivo Horvat\"",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/96/2215",
+   "versions": [
+    {
+     "from": "2006-08-30",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_08_96_2215.html",
+     "sha256": "23b296fa69d820fef6e00295fe00871371b22239a03a04d4257c1363df03d4f8"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2006-2216",
+   "path": "odluka/2006/2216",
+   "short": "Odluka o dodjeljivanju poslova savjetovanja za zaštitu potrošača za područje Istarske, Primorsko-goranske i Ličko-senjske županije u 2006. godini",
+   "title": "Odluka o dodjeljivanju poslova savjetovanja za zaštitu potrošača za područje Istarske, Primorsko-goranske i Ličko-senjske županije u 2006. godini",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/96/2216",
+   "versions": [
+    {
+     "from": "2006-08-25",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_08_96_2216.html",
+     "sha256": "86c2b23d4495dbef2064a34883d975ad8b3d172b398957c581eb8b2b973f537a"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2006-2217",
+   "path": "odluka/2006/2217",
+   "short": "Odluka o dopuni Odluke o osnivanju Vijeća za djecu",
+   "title": "Odluka o dopuni Odluke o osnivanju Vijeća za djecu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/96/2217",
+   "versions": [
+    {
+     "from": "2006-08-25",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_08_96_2217.html",
+     "sha256": "dd79dbe8e5bc764f90d7da6261db4fbe6222b09b01c2620cb603b9a708dcedd4"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2006-2218",
+   "path": "odluka/2006/2218",
+   "short": "Odluka o izmjeni Odluke o koncesiji pomorskog dobra u svrhu gospodarskog korištenja luke posebne namjene - brodogradilišta Lamjana",
+   "title": "Odluka o izmjeni Odluke o koncesiji pomorskog dobra u svrhu gospodarskog korištenja luke posebne namjene - brodogradilišta Lamjana",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/96/2218",
+   "versions": [
+    {
+     "from": "2006-08-25",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_08_96_2218.html",
+     "sha256": "bf3b21bf9474f0e89ceba0e3b94f0e21ee12aee02920302d4b2aa545c6d40206"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2006-2261",
+   "path": "odluka/2006/2261",
+   "short": "Odluka o aktualnoj vrijednosti mirovine od 1. srpnja 2006.",
+   "title": "Odluka o aktualnoj vrijednosti mirovine od 1. srpnja 2006.",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/98/2261",
+   "versions": [
+    {
+     "from": "2006-09-14",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_09_98_2261.html",
+     "sha256": "478cc38f5eecf1d3d7310c62eb68ffd461c1210435ac91f2efa6d139b4570436"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2006-2262",
+   "path": "odluka/2006/2262",
+   "short": "Odluka o najnižoj mirovini za jednu godinu mirovinskog staža od 1. srpnja 2006.",
+   "title": "Odluka o najnižoj mirovini za jednu godinu mirovinskog staža od 1. srpnja 2006.",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/98/2262",
+   "versions": [
+    {
+     "from": "2006-09-14",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_09_98_2262.html",
+     "sha256": "b542eeade514c250014298f9c98a0e69cd28067b6c98e208bae534c9929f0557"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2006-2263",
+   "path": "odluka/2006/2263",
+   "short": "Odluka o osnovici za određivanje naknade zbog tjelesnog oštećenja i o usklađivanju novčanih naknada zbog tjelesnog oštećenja od 1. srpnja 2006.",
+   "title": "Odluka o osnovici za određivanje naknade zbog tjelesnog oštećenja i o usklađivanju novčanih naknada zbog tjelesnog oštećenja od 1. srpnja 2006.",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/98/2263",
+   "versions": [
+    {
+     "from": "2006-09-14",
+     "units": 6,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_09_98_2263.html",
+     "sha256": "5e075a672aba596827345ce5316c543e35c88454554288da064692cf69368e31"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2006-2266",
+   "path": "odluka/2006/2266",
+   "short": "Odluka o izmjeni i dopuni Odluke o prirezu porezu na dohodak Grada Pregrade",
+   "title": "Odluka o izmjeni i dopuni Odluke o prirezu porezu na dohodak Grada Pregrade",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/98/2266",
+   "versions": [
+    {
+     "from": "2006-09-14",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_09_98_2266.html",
+     "sha256": "84f9b6b5006cde4970a0e1c31978ee3f179509ce71e2887e0a8fd8f8e08677f8"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2006-2270",
+   "path": "odluka/2006/2270",
+   "short": "Odluka o izmjenama Odluke o osnivanju društva s ograničenom odgovornošću Agencije ALAN, Zagreb",
+   "title": "Odluka o izmjenama Odluke o osnivanju društva s ograničenom odgovornošću Agencije ALAN, Zagreb",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/99/2270",
+   "versions": [
+    {
+     "from": "2006-09-19",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_09_99_2270.html",
+     "sha256": "7ad35291f5b9331c968fd781d26493015af2eba3ae46c4f128f502f745a9193f"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2006-2271",
+   "path": "odluka/2006/2271",
+   "short": "Odluka o dodjeli koncesije za korištenje poljoprivrednog zemljišta u vlasništvu Republike Hrvatske na području općine Petlovac",
+   "title": "Odluka o dodjeli koncesije za korištenje poljoprivrednog zemljišta u vlasništvu Republike Hrvatske na području općine Petlovac",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/99/2271",
+   "versions": [
+    {
+     "from": "2006-09-07",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_09_99_2271.html",
+     "sha256": "1cf6096119f762bdf16fa2d1b0cd759aeb169d20f7dcb78b6cd7b0a24f367ba9"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2006-2272",
+   "path": "odluka/2006/2272",
+   "short": "Odluka o raspisivanju javnog natječaja za dodjelu koncesije za korištenje poljoprivrednog zemljišta u vlasništvu Republike Hrvatske na području općine Donji Lapac",
+   "title": "Odluka o raspisivanju javnog natječaja za dodjelu koncesije za korištenje poljoprivrednog zemljišta u vlasništvu Republike Hrvatske na području općine Donji Lapac",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/99/2272",
+   "versions": [
+    {
+     "from": "2006-09-07",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_09_99_2272.html",
+     "sha256": "e5d02d0073d705ae1a8075054596ed836743fed702ad7c5c376c2dfafa24cb7e"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2006-231",
+   "path": "odluka/2006/231",
+   "short": "Odluka o dodjeli koncesije za korištenje poljoprivrednog zemljišta u vlasništvu Republike Hrvatske na području Općine Tordinci",
+   "title": "Odluka o dodjeli koncesije za korištenje poljoprivrednog zemljišta u vlasništvu Republike Hrvatske na području Općine Tordinci",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/10/231",
+   "versions": [
+    {
+     "from": "2006-01-19",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_01_10_231.html",
+     "sha256": "dbb7b5c35effe896f85a61650832d46730240c1f2bddf967ae36efc0ed08ce56"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2006-232",
+   "path": "odluka/2006/232",
+   "short": "Odluka o raspisivanju javnog natječaja za dodjelu koncesije za korištenje poljoprivrednog zemljišta u vlasništvu Republike Hrvatske na području Grada Slatine za k.o. Sladojevci",
+   "title": "Odluka o raspisivanju javnog natječaja za dodjelu koncesije za korištenje poljoprivrednog zemljišta u vlasništvu Republike Hrvatske na području Grada Slatine za k.o. Sladojevci",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/10/232",
+   "versions": [
+    {
+     "from": "2006-01-19",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_01_10_232.html",
+     "sha256": "02ae6f1b149c46d0c9accb5448520e98e5741b37e39a08e5723ee2b6ff795164"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2006-233",
+   "path": "odluka/2006/233",
+   "short": "Odluka o raspisivanju javnog natječaja za dodjelu koncesije za korištenje poljoprivrednog zemljišta u vlasništvu Republike Hrvatske na području Grada Slatine za k.o. Podravska Slatina",
+   "title": "Odluka o raspisivanju javnog natječaja za dodjelu koncesije za korištenje poljoprivrednog zemljišta u vlasništvu Republike Hrvatske na području Grada Slatine za k.o. Podravska Slatina",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/10/233",
+   "versions": [
+    {
+     "from": "2006-01-19",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_01_10_233.html",
+     "sha256": "f7c355f70dad8d452ebfba13b3eed2323c8381f1aeb75c229878ea138be0a6c7"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2006-234",
+   "path": "odluka/2006/234",
+   "short": "Odluka o davanju suglasnosti na Statut Zavoda za telemedicinu",
+   "title": "Odluka o davanju suglasnosti na Statut Zavoda za telemedicinu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/10/234",
+   "versions": [
+    {
+     "from": "2006-01-19",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_01_10_234.html",
+     "sha256": "d8543e3e148bb554ac8ed33453e4798c4caef080c4c9e2dc657d5cb95beb111f"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2006-2347",
+   "path": "odluka/2006/2347",
+   "short": "Odluka o načinu prodaje, cijeni, vremenu i uvjetima prodaje dionica INA - Industrije nafte d.d. javnom ponudom i posebnim pogodnostima prodaje hrvatskim građanima",
+   "title": "Odluka o načinu prodaje, cijeni, vremenu i uvjetima prodaje dionica INA - Industrije nafte d.d. javnom ponudom i posebnim pogodnostima prodaje hrvatskim građanima",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/104/2347",
+   "versions": [
+    {
+     "from": "2006-09-20",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_09_104_2347.html",
+     "sha256": "edf62a6eb4445e87f8453fbcb594836be5fc1802cd4dc94d5e0ddd49aac5e73c"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2006-2348",
+   "path": "odluka/2006/2348",
+   "short": "Odluka o raspisivanju javnog natječaja za dodjelu koncesije za korištenje poljoprivrednog zemljišta u vlasništvu Republike Hrvatske na području Općine Feričanci",
+   "title": "Odluka o raspisivanju javnog natječaja za dodjelu koncesije za korištenje poljoprivrednog zemljišta u vlasništvu Republike Hrvatske na području Općine Feričanci",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/104/2348",
+   "versions": [
+    {
+     "from": "2006-09-14",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_09_104_2348.html",
+     "sha256": "6e5dfbcd56bad26042903b6d167ae37e419a3d432b4b4fc819808defa004628f"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2006-2349",
+   "path": "odluka/2006/2349",
+   "short": "Odluka o raspisivanju javnog natječaja za dodjelu koncesije za korištenje poljoprivrednog zemljišta u vlasništvu Republike Hrvatske na području Općine Ernestinovo",
+   "title": "Odluka o raspisivanju javnog natječaja za dodjelu koncesije za korištenje poljoprivrednog zemljišta u vlasništvu Republike Hrvatske na području Općine Ernestinovo",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/104/2349",
+   "versions": [
+    {
+     "from": "2006-09-14",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_09_104_2349.html",
+     "sha256": "1181e5d6fbdc480d03135219b4b4b7caa1e03da50483bd3918ce7426d93e5064"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2006-2350",
+   "path": "odluka/2006/2350",
+   "short": "Odluka o davanju suglasnosti na Poslovno i financijsko izvješće o radu Agencije za plovne putove unutarnjih voda za 2005. godinu",
+   "title": "Odluka o davanju suglasnosti na Poslovno i financijsko izvješće o radu Agencije za plovne putove unutarnjih voda za 2005. godinu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/104/2350",
+   "versions": [
+    {
+     "from": "2006-09-14",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_09_104_2350.html",
+     "sha256": "301da2b2c94ba767a8e9db158573820accefc1c180ce4422938e8943453f9788"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2006-2351",
+   "path": "odluka/2006/2351",
+   "short": "Odluka o davanju suglasnosti na Izmjene Statuta Zavoda za telemedicinu",
+   "title": "Odluka o davanju suglasnosti na Izmjene Statuta Zavoda za telemedicinu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/104/2351",
+   "versions": [
+    {
+     "from": "2006-09-14",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_09_104_2351.html",
+     "sha256": "2e0cd73d477ccd04b9b32a507a8817341696eba354cc96441052bc616a8800e8"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2006-2374",
+   "path": "odluka/2006/2374",
+   "short": "Odluka o utvrđivanju mreže domova socijalne skrbi i djelatnosti socijalne skrbi",
+   "title": "Odluka o utvrđivanju mreže domova socijalne skrbi i djelatnosti socijalne skrbi",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/106/2374",
+   "versions": [
+    {
+     "from": "2006-07-26",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_09_106_2374.html",
+     "sha256": "d4077ec2f6dec42fcb0675fab70f0471897c1822828a7842e9a8d9d2b66a5e57"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2006-2375",
+   "path": "odluka/2006/2375",
+   "short": "Odluka o nužnim uvjetima za ocjenu nastavne i stručne djelatnosti u postupku izbora u nastavna zvanja",
+   "title": "Odluka o nužnim uvjetima za ocjenu nastavne i stručne djelatnosti u postupku izbora u nastavna zvanja",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/106/2375",
+   "versions": [
+    {
+     "from": "2006-09-27",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_09_106_2375.html",
+     "sha256": "e928dda9dbe641387492ea41149654400ce4a7c2fa9857febacae94a75ddb31d"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2006-2376",
+   "path": "odluka/2006/2376",
+   "short": "Odluka o nužnim uvjetima za ocjenu nastavne i stručne djelatnosti u postupku izbora u znanstveno--nastavna zvanja",
+   "title": "Odluka o nužnim uvjetima za ocjenu nastavne i stručne djelatnosti u postupku izbora u znanstveno--nastavna zvanja",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/106/2376",
+   "versions": [
+    {
+     "from": "2006-09-27",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_09_106_2376.html",
+     "sha256": "7d2fdc1c6562d9e95a8123f3cd90cd07c5956535707ba9d653320aea26169f14"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2006-2377",
+   "path": "odluka/2006/2377",
+   "short": "Odluka o nužnim uvjetima za ocjenu nastavne i stručne djelatnosti u postupku izbora u umjetničko--nastavna i nastavna zvanja u području umjetnosti",
+   "title": "Odluka o nužnim uvjetima za ocjenu nastavne i stručne djelatnosti u postupku izbora u umjetničko--nastavna i nastavna zvanja u području umjetnosti",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/106/2377",
+   "versions": [
+    {
+     "from": "2006-09-27",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_09_106_2377.html",
+     "sha256": "57a5e93728c36c3a8ccf1db7c713dea35460b4dba1eba194f833462efde223b3"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2006-2412",
+   "path": "odluka/2006/2412",
+   "short": "Odluka o raspisivanju javnog natječaja za dodjelu koncesije za korištenje poljoprivrednog zemljišta u vlasništvu Republike Hrvatske na području općine Vuka",
+   "title": "Odluka o raspisivanju javnog natječaja za dodjelu koncesije za korištenje poljoprivrednog zemljišta u vlasništvu Republike Hrvatske na području općine Vuka",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/108/2412",
+   "versions": [
+    {
+     "from": "2006-09-28",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_10_108_2412.html",
+     "sha256": "769cbf1dad785c1998947625f80f39d6b8dae16e40f510bcead53d17dd758699"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2006-2444",
+   "path": "odluka/2006/2444",
+   "short": "Odluka o raspisivanju izbora za općinska vijeća općina Lopar, Vrsi, Tribunj, Štitar, Funtana i Tar-Vabriga",
+   "title": "Odluka o raspisivanju izbora za općinska vijeća općina Lopar, Vrsi, Tribunj, Štitar, Funtana i Tar-Vabriga",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/110/2444",
+   "versions": [
+    {
+     "from": "2006-10-09",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_10_110_2444.html",
+     "sha256": "07117e316a2ff5c55d532e73a84340fe733921035a8edb583eb70d2da675fabf"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2006-2453",
+   "path": "odluka/2006/2453",
+   "short": "Zakon o izmjenama i dopunama Zakona o prijevozu u cestovnom prometu",
+   "title": "Zakon o izmjenama i dopunama Zakona o prijevozu u cestovnom prometu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/111/2453",
+   "versions": [
+    {
+     "from": "2006-10-19",
+     "units": 10,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_10_111_2453.html",
+     "sha256": "39cb492f668e944735b01dbd31ebc513588bfea5b22d38893144fa31578afb12"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2006-2455",
+   "path": "odluka/2006/2455",
+   "short": "Odluka o dodjeli koncesije za korištenje poljoprivrednog zemljišta u vlasništvu Republike Hrvatske na području Općine Čačinci",
+   "title": "Odluka o dodjeli koncesije za korištenje poljoprivrednog zemljišta u vlasništvu Republike Hrvatske na području Općine Čačinci",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/111/2455",
+   "versions": [
+    {
+     "from": "2006-10-05",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_10_111_2455.html",
+     "sha256": "521f3a13ea0828a0183e2197e1effd29e8378e58facda10b5e18097092d98717"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2006-2456",
+   "path": "odluka/2006/2456",
+   "short": "Odluka o dodjeli koncesije za korištenje poljoprivrednog zemljišta u vlasništvu Republike Hrvatske na području Općine Kutjevo",
+   "title": "Odluka o dodjeli koncesije za korištenje poljoprivrednog zemljišta u vlasništvu Republike Hrvatske na području Općine Kutjevo",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/111/2456",
+   "versions": [
+    {
+     "from": "2006-10-05",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_10_111_2456.html",
+     "sha256": "f54f02ab4c1fd5829f699b7762827e47e31a7604153d24059b2ee72f7174ec0f"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2006-2457",
+   "path": "odluka/2006/2457",
+   "short": "Odluka o dodjeli koncesije za korištenje poljoprivrednog zemljišta u vlasništvu Republike Hrvatske na području Grada Našica",
+   "title": "Odluka o dodjeli koncesije za korištenje poljoprivrednog zemljišta u vlasništvu Republike Hrvatske na području Grada Našica",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/111/2457",
+   "versions": [
+    {
+     "from": "2006-10-05",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_10_111_2457.html",
+     "sha256": "1904657348c37e4d803039bd781879abc61ebdc21b1f6cc828562885b46c908b"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2006-2458",
+   "path": "odluka/2006/2458",
+   "short": "Odluka o raspisivanju javnog natječaja za dodjelu koncesije za korištenje poljoprivrednog zemljišta u vlasništvu Republike Hrvatske na području Općine Vrpolje",
+   "title": "Odluka o raspisivanju javnog natječaja za dodjelu koncesije za korištenje poljoprivrednog zemljišta u vlasništvu Republike Hrvatske na području Općine Vrpolje",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/111/2458",
+   "versions": [
+    {
+     "from": "2006-10-05",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_10_111_2458.html",
+     "sha256": "a011d33f5d44e03722e225ed1c9dc4e567a85802414953fcf65eff4fabb16bad"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2006-2459",
+   "path": "odluka/2006/2459",
+   "short": "Odluka o davanju poljoprivrednog zemljišta u vlasništvu Republike Hrvatske tvrtki PPK Valpovo d.d., Valpovo, u prioritetnu koncesiju neposrednom pogodbom",
+   "title": "Odluka o davanju poljoprivrednog zemljišta u vlasništvu Republike Hrvatske tvrtki PPK Valpovo d.d., Valpovo, u prioritetnu koncesiju neposrednom pogodbom",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/111/2459",
+   "versions": [
+    {
+     "from": "2006-10-05",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_10_111_2459.html",
+     "sha256": "7485ecf6e09b4662fda83d173c58ccb8f61315073a2abc87634efb997c478318"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2006-2469",
+   "path": "odluka/2006/2469",
+   "short": "Odluka o raspodjeli sredstava za financiranje programa udruga koje njeguju suradnju i prijateljstvo među zemljama u okviru raspoloživih sredstava od igara na sreću osiguranih u državnom proračunu za 2006. godinu",
+   "title": "Odluka o raspodjeli sredstava za financiranje programa udruga koje njeguju suradnju i prijateljstvo među zemljama u okviru raspoloživih sredstava od igara na sreću osiguranih u državnom proračunu za 2006. godinu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/111/2469",
+   "versions": [
+    {
+     "from": "2006-09-25",
+     "units": 2,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_10_111_2469.html",
+     "sha256": "4892f7b96d9fb294a745e517854029464002507e9bd89fbab7c1456653dbe2c4"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2006-2495",
+   "path": "odluka/2006/2495",
+   "short": "Odluka o davanju koncesija priređivačima igara na sreću u casinima",
+   "title": "Odluka o davanju koncesija priređivačima igara na sreću u casinima",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/113/2495",
+   "versions": [
+    {
+     "from": "2006-10-13",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_10_113_2495.html",
+     "sha256": "c43659230014648a3db03e4c4111a59768942b5f499d1f995657b21b91f2b205"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2006-2496",
+   "path": "odluka/2006/2496",
+   "short": "Odluka o izmjeni i dopuni Odluke o načinu prodaje, cijeni, vremenu i uvjetima prodaje dionica INA - Industrije nafte d.d. javnom ponudom i posebnim pogodnostima prodaje hrvatskim građanima",
+   "title": "Odluka o izmjeni i dopuni Odluke o načinu prodaje, cijeni, vremenu i uvjetima prodaje dionica INA - Industrije nafte d.d. javnom ponudom i posebnim pogodnostima prodaje hrvatskim građanima",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/113/2496",
+   "versions": [
+    {
+     "from": "2006-10-18",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_10_113_2496.html",
+     "sha256": "aba3f830feec1317ae6b4198b1e450d3aa7a30fe0ab127e4119111e4d3a090fb"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2006-256",
+   "path": "odluka/2006/256",
+   "short": "Odluka o referentnom prinosu obveznih mirovinskih fondova u 2005. godini",
+   "title": "Odluka o referentnom prinosu obveznih mirovinskih fondova u 2005. godini",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/10/256",
+   "versions": [
+    {
+     "from": "2006-02-02",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_01_10_256.html",
+     "sha256": "72c9645dae2d5af8b9ec53e5a38a4e6a0345625c7f69f45850ae5d58c9c9be42"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2006-2569",
+   "path": "odluka/2006/2569",
+   "short": "Odluka o izmjeni Odluke o opskrbi banaka gotovim novcem",
+   "title": "Odluka o izmjeni Odluke o opskrbi banaka gotovim novcem",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/115/2569",
+   "versions": [
+    {
+     "from": "2006-11-02",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_10_115_2569.html",
+     "sha256": "ebe380d9c9a682841d9ccce862bf71573ccae732dd2525b568f1f741387d78bf"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2006-2585",
+   "path": "odluka/2006/2585",
+   "short": "Odluka o osnivanju Konzulata Republike Hrvatske u Republici Makedoniji, sa sjedištem u Bitoli",
+   "title": "Odluka o osnivanju Konzulata Republike Hrvatske u Republici Makedoniji, sa sjedištem u Bitoli",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/116/2585",
+   "versions": [
+    {
+     "from": "2006-10-23",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_10_116_2585.html",
+     "sha256": "b505dbf57538f9b0ae0fefaaab186f9fef62937600570f9ea0aadc323f4d4d78"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2006-2628",
+   "path": "odluka/2006/2628",
+   "short": "Odluka o dodjeli koncesije za korištenje poljoprivrednog zemljišta u vlasništvu Republike Hrvatske na području Grada Donjeg Miholjca za k.o. Donji Miholjac",
+   "title": "Odluka o dodjeli koncesije za korištenje poljoprivrednog zemljišta u vlasništvu Republike Hrvatske na području Grada Donjeg Miholjca za k.o. Donji Miholjac",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/118/2628",
+   "versions": [
+    {
+     "from": "2006-10-26",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_11_118_2628.html",
+     "sha256": "9aea6d5cb6d30b050ddf6ab795ef86574c4d3c459a4af83df6cd61d58153d521"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2006-2641",
+   "path": "odluka/2006/2641",
+   "short": "Odluka o izmjenama i dopunama Odluke o izgradnji Spomenika domovini",
+   "title": "Odluka o izmjenama i dopunama Odluke o izgradnji Spomenika domovini",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/119/2641",
+   "versions": [
+    {
+     "from": "2006-10-26",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_11_119_2641.html",
+     "sha256": "2704f7a851209d60cb174fa0df1abc22abbe42c89e3456f6456c7adcc3046e0b"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2006-2642",
+   "path": "odluka/2006/2642",
+   "short": "Odluka o izmjenama uvjeta kredita za poticanje zapošljavanja i samozapošljavanja hrvatskih branitelja",
+   "title": "Odluka o izmjenama uvjeta kredita za poticanje zapošljavanja i samozapošljavanja hrvatskih branitelja",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/119/2642",
+   "versions": [
+    {
+     "from": "2006-10-26",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_11_119_2642.html",
+     "sha256": "43578440576be5c412c8870ab695c36505eb6ea6d571b6f37000208a1cdf9baa"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2006-2689",
+   "path": "odluka/2006/2689",
+   "short": "Odluka o preraspodjeli sredstava planiranih u Državnom proračunu Republike Hrvatske za 2006. godinu",
+   "title": "Odluka o preraspodjeli sredstava planiranih u Državnom proračunu Republike Hrvatske za 2006. godinu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/121/2689",
+   "versions": [
+    {
+     "from": "2006-11-08",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_11_121_2689.html",
+     "sha256": "7bfe5ef9a1e23b082ab6cd59cf94f2572177066ede449e6e9da43b758c8b3742"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2006-2690",
+   "path": "odluka/2006/2690",
+   "short": "Odluka o objavljivanju popisa pravila o državnim potporama",
+   "title": "Odluka o objavljivanju popisa pravila o državnim potporama",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/121/2690",
+   "versions": [
+    {
+     "from": "2006-11-08",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_11_121_2690.html",
+     "sha256": "76d4acfc91f2de9fd153d55173af47d5402526191b36a337e153a3e9f678dd3c"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2006-2701",
+   "path": "odluka/2006/2701",
+   "short": "Odluka o osnivanju i djelokrugu rada zdravstvenih komisija",
+   "title": "Odluka o osnivanju i djelokrugu rada zdravstvenih komisija",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/122/2701",
+   "versions": [
+    {
+     "from": "2006-11-01",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_11_122_2701.html",
+     "sha256": "e8e20a77b247a4f801ffbcbf71c4d2cc1696b4b0bce03dffbae197a823edf783"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2006-2745",
+   "path": "odluka/2006/2745",
+   "short": "Odluka o izdavanju obveznica Republike Hrvatske uz plasman na domaćem tržištu kapitala u iznosu od 1.500.000.000,00 kuna",
+   "title": "Odluka o izdavanju obveznica Republike Hrvatske uz plasman na domaćem tržištu kapitala u iznosu od 1.500.000.000,00 kuna",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/124/2745",
+   "versions": [
+    {
+     "from": "2006-11-07",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_11_124_2745.html",
+     "sha256": "e40cff129b4b5ac2b0480129b6d98a6892d3cc0188ab5ea8252ca11289163537"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2006-2853",
+   "path": "odluka/2006/2853",
+   "short": "Odluka o izmjeni i dopuni Odluke o načinu prodaje, cijeni, vremenu i uvjetima prodaje dionica INA - Industrije nafte d.d. javnom ponudom i posebnim pogodnostima prodaje hrvatskim građanima",
+   "title": "Odluka o izmjeni i dopuni Odluke o načinu prodaje, cijeni, vremenu i uvjetima prodaje dionica INA - Industrije nafte d.d. javnom ponudom i posebnim pogodnostima prodaje hrvatskim građanima",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/129/2853",
+   "versions": [
+    {
+     "from": "2006-11-28",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_11_129_2853.html",
+     "sha256": "6f75aef426040ef7f53fb310bb60c8498332eddb9e022f94c56e9b51f39971b7"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2006-2871",
+   "path": "odluka/2006/2871",
+   "short": "Odluka o izmjenama Odluke o minimalnim financijskim standardima materijalnih i financijskih rashoda centara za socijalnu skrb i pomoći za podmirenje troškova stanovanja korisnicima koji se griju na drva u 2006. godini",
+   "title": "Odluka o izmjenama Odluke o minimalnim financijskim standardima materijalnih i financijskih rashoda centara za socijalnu skrb i pomoći za podmirenje troškova stanovanja korisnicima koji se griju na drva u 2006. godini",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/130/2871",
+   "versions": [
+    {
+     "from": "2006-11-29",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_11_130_2871.html",
+     "sha256": "22158c599be76f6e811f996ec851067f7560683d8182caeaf8c47542c633090f"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2006-2872",
+   "path": "odluka/2006/2872",
+   "short": "Odluka o utvrđivanju interesa Republike Hrvatske za izgradnju Radarske postaje Psunj",
+   "title": "Odluka o utvrđivanju interesa Republike Hrvatske za izgradnju Radarske postaje Psunj",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/130/2872",
+   "versions": [
+    {
+     "from": "2006-11-29",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_11_130_2872.html",
+     "sha256": "bdf0b86dd957aa1a6f7853b4e536cbd72718a7f1006dc8abf0ed4490135da0c7"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2006-2873",
+   "path": "odluka/2006/2873",
+   "short": "Odluka o raspisivanju javnog natječaja za dodjelu koncesije za korištenje poljoprivrednog zemljišta u vlasništvu Republike Hrvatske na području Grada Iloka",
+   "title": "Odluka o raspisivanju javnog natječaja za dodjelu koncesije za korištenje poljoprivrednog zemljišta u vlasništvu Republike Hrvatske na području Grada Iloka",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/130/2873",
+   "versions": [
+    {
+     "from": "2006-11-23",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_11_130_2873.html",
+     "sha256": "f45f94acc7e7024c89cf66e44841505f36f9628937d274acdaae67d9885d2611"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2006-2881",
+   "path": "odluka/2006/2881",
+   "short": "Odluka o izmjenama i dopunama Odluke o adekvatnosti kapitala banaka",
+   "title": "Odluka o izmjenama i dopunama Odluke o adekvatnosti kapitala banaka",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/130/2881",
+   "versions": [
+    {
+     "from": "2006-12-07",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_11_130_2881.html",
+     "sha256": "5b2a0377ec316201f43abc880985f69e9217bb34149daba4ecbccae29624c1b4"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2006-2882",
+   "path": "odluka/2006/2882",
+   "short": "Odluka o izmjenama i dopunama Odluke o ograničavanju izloženosti banaka valutnom riziku",
+   "title": "Odluka o izmjenama i dopunama Odluke o ograničavanju izloženosti banaka valutnom riziku",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/130/2882",
+   "versions": [
+    {
+     "from": "2006-12-07",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_11_130_2882.html",
+     "sha256": "3a9744ee915976a12da81a4c8a609eaa1925f4858d2956af76b95fea99934bbc"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2006-2883",
+   "path": "odluka/2006/2883",
+   "short": "Odluka o izmjenama i dopunama Upute za jedinstvenu primjenu Odluke o adekvatnosti kapitala banaka",
+   "title": "Odluka o izmjenama i dopunama Upute za jedinstvenu primjenu Odluke o adekvatnosti kapitala banaka",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/130/2883",
+   "versions": [
+    {
+     "from": "2006-12-07",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_11_130_2883.html",
+     "sha256": "5129ed2daa76a22c7b4e671b607f2d43f264760036d17a07859ebf14a04e4270"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2006-2890",
+   "path": "odluka/2006/2890",
+   "short": "Odluka o poništenju Odluke Vijeća o dodjeli koncesije za obavljanje djelatnosti radija na području Općine Donji Lapac",
+   "title": "Odluka o poništenju Odluke Vijeća o dodjeli koncesije za obavljanje djelatnosti radija na području Općine Donji Lapac",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/130/2890",
+   "versions": [
+    {
+     "from": "2006-11-29",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_11_130_2890.html",
+     "sha256": "cee3b089fe1233ec6031fb3169d43dc5ad89dc587c2c51d8e311f34942c0c706"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2006-2925",
+   "path": "odluka/2006/2925",
+   "short": "Odluka o davanju državnog jamstva u korist Bayerische Landesbank i Privredne banke Zagreb d.d., za kreditno zaduženje Croatia Airlinesa d.d., radi refinanciranja Airbus flote",
+   "title": "Odluka o davanju državnog jamstva u korist Bayerische Landesbank i Privredne banke Zagreb d.d., za kreditno zaduženje Croatia Airlinesa d.d., radi refinanciranja Airbus flote",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/131/2925",
+   "versions": [
+    {
+     "from": "2006-11-30",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_12_131_2925.html",
+     "sha256": "13746b561b4c0873aa5fd5fd05090194e06dad8fab01a8a979636a980616956b"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2006-2926",
+   "path": "odluka/2006/2926",
+   "short": "Odluka o preraspodjeli sredstava planiranih u Državnom proračunu Republike Hrvatske za 2006. godinu",
+   "title": "Odluka o preraspodjeli sredstava planiranih u Državnom proračunu Republike Hrvatske za 2006. godinu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/131/2926",
+   "versions": [
+    {
+     "from": "2006-12-04",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_12_131_2926.html",
+     "sha256": "309622743dc8d0a2725ed2c7ad2071664a04f5483b9c92f18a73004c2142344b"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2006-2927",
+   "path": "odluka/2006/2927",
+   "short": "Odluka o utvrđivanju interesa Republike Hrvatske za izgradnju poslovne zgrade - Mikrobiološkog laboratorija u Imotskom",
+   "title": "Odluka o utvrđivanju interesa Republike Hrvatske za izgradnju poslovne zgrade - Mikrobiološkog laboratorija u Imotskom",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/131/2927",
+   "versions": [
+    {
+     "from": "2006-12-04",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_12_131_2927.html",
+     "sha256": "1c5f78c21a0cd8e0baa3f84aed9ca4cbe590226d94600c72009a186ce1e1bcdc"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2006-2928",
+   "path": "odluka/2006/2928",
+   "short": "Odluka o izmjenama Odluke o utvrđivanju godišnje kvote radnih dozvola za zapošljavanje stranaca za kalendarsku godinu 2006.",
+   "title": "Odluka o izmjenama Odluke o utvrđivanju godišnje kvote radnih dozvola za zapošljavanje stranaca za kalendarsku godinu 2006.",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/131/2928",
+   "versions": [
+    {
+     "from": "2006-12-04",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_12_131_2928.html",
+     "sha256": "73247dae0118a9b1b6d88e8e72b0f54fd1b75a9f4a1308f45578803f7d958d40"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2006-2952",
+   "path": "odluka/2006/2952",
+   "short": "Odluka o općinskim porezima Općine Vrhovine",
+   "title": "Odluka o općinskim porezima Općine Vrhovine",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/131/2952",
+   "versions": [
+    {
+     "from": "2006-12-12",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_12_131_2952.html",
+     "sha256": "3729b52274012c4daeafcf62df15b4bc00e978c6b31f79b1d1cfec9743aec1af"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2006-2959",
+   "path": "odluka/2006/2959",
+   "short": "Odluka o izmjenama Odluke o osnivanju Lučke uprave Zadar",
+   "title": "Odluka o izmjenama Odluke o osnivanju Lučke uprave Zadar",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/132/2959",
+   "versions": [
+    {
+     "from": "2006-12-06",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_12_132_2959.html",
+     "sha256": "ec89e48d35a6f45909dfc9f031f34d15e9ef396a528f1cffd55da0a5c64ac0d1"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2006-2960",
+   "path": "odluka/2006/2960",
+   "short": "Odluka o početku rada Carinarnice Slavonski Brod",
+   "title": "Odluka o početku rada Carinarnice Slavonski Brod",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/132/2960",
+   "versions": [
+    {
+     "from": "2006-11-30",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_12_132_2960.html",
+     "sha256": "ad2d0998243da369a7569936a5c88c94b8db919fccfea473510cc7681a084f27"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2006-2961",
+   "path": "odluka/2006/2961",
+   "short": "Odluka o utvrđivanju plaće ravnatelja i zamjenika ravnatelja sigurnosno-obavještajnih agencija, predstojnika i zamjenika predstojnika Ureda Vijeća za nacionalnu sigurnost",
+   "title": "Odluka o utvrđivanju plaće ravnatelja i zamjenika ravnatelja sigurnosno-obavještajnih agencija, predstojnika i zamjenika predstojnika Ureda Vijeća za nacionalnu sigurnost",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/132/2961",
+   "versions": [
+    {
+     "from": "2006-11-30",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_12_132_2961.html",
+     "sha256": "e52ba88daf96ee658304e09b68afba37eda359a9698574a5db34436843c081a7"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2006-2962",
+   "path": "odluka/2006/2962",
+   "short": "Odluka o raspisivanju javnog natječaja za dodjelu koncesije za korištenje poljoprivrednog zemljišta u vlasništvu Republike Hrvatske na području općine Šodolovci",
+   "title": "Odluka o raspisivanju javnog natječaja za dodjelu koncesije za korištenje poljoprivrednog zemljišta u vlasništvu Republike Hrvatske na području općine Šodolovci",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/132/2962",
+   "versions": [
+    {
+     "from": "2006-11-30",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_12_132_2962.html",
+     "sha256": "593f72033fdc95eae2b6a974c631ab11d95d3405f449c9f8bbc0a4c3075aae10"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2006-2995",
+   "path": "odluka/2006/2995",
+   "short": "Odluka o prirezu porezu na dohodak Grada Lepoglave",
+   "title": "Odluka o prirezu porezu na dohodak Grada Lepoglave",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/132/2995",
+   "versions": [
+    {
+     "from": "2007-01-01",
+     "units": 11,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_12_132_2995.html",
+     "sha256": "6e6a7223b0174365c032bfbe40a7ff3581933a83dd8833a2091ab2f2c8633eb1"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2006-3010",
+   "path": "odluka/2006/3010",
+   "short": "Odluka o održavanju vojnih vježbi pripadnika oružanih snaga Republike Hrvatske i oružanih snaga drugih država tijekom 2007. godine",
+   "title": "Odluka o održavanju vojnih vježbi pripadnika oružanih snaga Republike Hrvatske i oružanih snaga drugih država tijekom 2007. godine",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/133/3010",
+   "versions": [
+    {
+     "from": "2006-12-11",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_12_133_3010.html",
+     "sha256": "ba050eb34f19f4f8359036d8b413b6cf528098869bda35a9569c07eb724e2481"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2006-3011",
+   "path": "odluka/2006/3011",
+   "short": "Odluka o sudjelovanju pripadnika oružanih snaga Republike Hrvatske u NATO operaciji \"Active Endeavour\"",
+   "title": "Odluka o sudjelovanju pripadnika oružanih snaga Republike Hrvatske u NATO operaciji \"Active Endeavour\"",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/133/3011",
+   "versions": [
+    {
+     "from": "2006-12-11",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_12_133_3011.html",
+     "sha256": "d6a377ebebffadeb6535a5e9c59c8ded395ee4eee0b5ae2605b955a365273492"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2006-3012",
+   "path": "odluka/2006/3012",
+   "short": "Odluka o sudjelovnaju prpadnika oružanih snaga Republike Hrvatske u mirovnoj misiji u Afganistanu (ISAF)",
+   "title": "Odluka o sudjelovnaju prpadnika oružanih snaga Republike Hrvatske u mirovnoj misiji u Afganistanu (ISAF)",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/133/3012",
+   "versions": [
+    {
+     "from": "2006-12-11",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_12_133_3012.html",
+     "sha256": "11ff07f133ae1c2c8ce4a1d6837dac42647e8d6d401dc5a8558cdeb081594716"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2006-3019",
+   "path": "odluka/2006/3019",
+   "short": "Odluka o osnivanju Veleposlanstva Republike Hrvatske u Republici Crnoj Gori",
+   "title": "Odluka o osnivanju Veleposlanstva Republike Hrvatske u Republici Crnoj Gori",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/133/3019",
+   "versions": [
+    {
+     "from": "2006-12-04",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_12_133_3019.html",
+     "sha256": "17ccc27de9d5597fd620ddf201e04f39853bf27bc65b790270d288a40a2203ec"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2006-3020",
+   "path": "odluka/2006/3020",
+   "short": "Odluka o raspisivanju izbora za općinska vijeća općina Kukljica, Pitomača i Rogoznica",
+   "title": "Odluka o raspisivanju izbora za općinska vijeća općina Kukljica, Pitomača i Rogoznica",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/133/3020",
+   "versions": [
+    {
+     "from": "2006-12-11",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_12_133_3020.html",
+     "sha256": "1673aa232293f71277a0878ec03c6103d112b4bdc17b131e5f7109fe84c41c37"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2006-3034",
+   "path": "odluka/2006/3034",
+   "short": "Odluka o prirezu porezu na dohodak Grada Rovinja",
+   "title": "Odluka o prirezu porezu na dohodak Grada Rovinja",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/133/3034",
+   "versions": [
+    {
+     "from": "2006-12-19",
+     "units": 8,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_12_133_3034.html",
+     "sha256": "a2e12aa08e56f9f4c50c8192da8edd39b7059eee323adad5403dadaee8d20f17"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2006-304",
+   "path": "odluka/2006/304",
+   "short": "Odluka o izmjenama i dopunama Statuta Hrvatske obrtničke komore",
+   "title": "Odluka o izmjenama i dopunama Statuta Hrvatske obrtničke komore",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/12/304",
+   "versions": [
+    {
+     "from": "2005-12-15",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_02_12_304.html",
+     "sha256": "ee9100c34606a5106deea0774ff9d99b440be5a567aa22e8e0966d725ef543a4"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2006-3044",
+   "path": "odluka/2006/3044",
+   "short": "Zakon o leasingu",
+   "title": "Zakon o leasingu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/135/3044",
+   "versions": [
+    {
+     "from": "2006-12-21",
+     "units": 111,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_12_135_3044.html",
+     "sha256": "f13ee9378840c1f81063e9b310f924c77a1d29ef93527ebebd0ddcf1b611f8a6"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2006-3048",
+   "path": "odluka/2006/3048",
+   "short": "Odluka o preferencijalnoj carinskoj kvoti pri uvozu određenih poljoprivrednih proizvoda",
+   "title": "Odluka o preferencijalnoj carinskoj kvoti pri uvozu određenih poljoprivrednih proizvoda",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/135/3048",
+   "versions": [
+    {
+     "from": "2006-12-07",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_12_135_3048.html",
+     "sha256": "34d460d9dbeb8815f3162689bdb6738c4d19c261c00f60018910d9d7b905bc7c"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2006-3049",
+   "path": "odluka/2006/3049",
+   "short": "Odluka o izmjeni Odluke o utvrđivanja interesa Republike Hrvatske za izgradnju radarske postaje Psunj",
+   "title": "Odluka o izmjeni Odluke o utvrđivanja interesa Republike Hrvatske za izgradnju radarske postaje Psunj",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/135/3049",
+   "versions": [
+    {
+     "from": "2006-12-13",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_12_135_3049.html",
+     "sha256": "5a0d4231bc574f09f20d63255e9abb91a5607de2caa2d1aa3d9cdd06f51167e3"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2006-3051",
+   "path": "odluka/2006/3051",
+   "short": "Odluka o dodjeli koncesije za korištenje poljoprivrednog zemljišta u vlasništvu Republike Hrvatske na području Općine Semeljci",
+   "title": "Odluka o dodjeli koncesije za korištenje poljoprivrednog zemljišta u vlasništvu Republike Hrvatske na području Općine Semeljci",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/135/3051",
+   "versions": [
+    {
+     "from": "2006-12-07",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_12_135_3051.html",
+     "sha256": "31bee8c634bd96dd69394f5a4aa1711de4114afa35e471a7af471cc7f2d71558"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2006-3052",
+   "path": "odluka/2006/3052",
+   "short": "Odluka o dodjeli koncesije za korištenje poljoprivrednog zemljišta u vlasništvu Republike Hrvatske na području Općine Čačinci za k.o. Čačinci",
+   "title": "Odluka o dodjeli koncesije za korištenje poljoprivrednog zemljišta u vlasništvu Republike Hrvatske na području Općine Čačinci za k.o. Čačinci",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/135/3052",
+   "versions": [
+    {
+     "from": "2006-12-07",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_12_135_3052.html",
+     "sha256": "a2e6e74c69bc90bc1bf73ec363202d91505bbcf98d67c7a10465c24858e3a872"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2006-3053",
+   "path": "odluka/2006/3053",
+   "short": "Odluka o dodjeli koncesije za korištenje poljoprivrednog zemljišta u vlasništvu Republike Hrvatske na području Grada Preloga",
+   "title": "Odluka o dodjeli koncesije za korištenje poljoprivrednog zemljišta u vlasništvu Republike Hrvatske na području Grada Preloga",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/135/3053",
+   "versions": [
+    {
+     "from": "2006-12-07",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_12_135_3053.html",
+     "sha256": "25dbc7bbf39be50d4157342bdcccfd1d24fa9ee2077c71e655e8b5b79cf4690c"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2006-3054",
+   "path": "odluka/2006/3054",
+   "short": "Odluka o dodjeli koncesije za korištenje poljoprivrednog zemljišta u vlasništvu Republike Hrvatske na području Grada Ivanić Grada",
+   "title": "Odluka o dodjeli koncesije za korištenje poljoprivrednog zemljišta u vlasništvu Republike Hrvatske na području Grada Ivanić Grada",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/135/3054",
+   "versions": [
+    {
+     "from": "2006-12-07",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_12_135_3054.html",
+     "sha256": "037f6f844d175458f6ef40c880ed0e17047d91e10116c18577832dfe0a51900d"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2006-3062",
+   "path": "odluka/2006/3062",
+   "short": "Odluka o obustavi prethodnog postupka za uvođenje zaštitne mjere pri uvozu određenih vrsta goveđeg mesa",
+   "title": "Odluka o obustavi prethodnog postupka za uvođenje zaštitne mjere pri uvozu određenih vrsta goveđeg mesa",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/135/3062",
+   "versions": [
+    {
+     "from": "2006-12-13",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_12_135_3062.html",
+     "sha256": "0a05f8096b41ea8b453c66c3e344092bfc619116b6464dcaa7bae0c024292ee5"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2006-3085",
+   "path": "odluka/2006/3085",
+   "short": "Odluka o visini prosječnog troška s naslova priznate ozljede na radu i profesionalne bolesti za razdoblje od 1. siječnja do 2. kolovoza 2006. godine",
+   "title": "Odluka o visini prosječnog troška s naslova priznate ozljede na radu i profesionalne bolesti za razdoblje od 1. siječnja do 2. kolovoza 2006. godine",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/136/3085",
+   "versions": [
+    {
+     "from": "2006-12-18",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_12_136_3085.html",
+     "sha256": "6341ddfc29b377385f4f62e3d503ff6cf4e5e3ccb48e1b12ad1b27fb1c6bd361"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2006-3086",
+   "path": "odluka/2006/3086",
+   "short": "Odluka o izmjeni Odluke o utvrđivanju Popisa dijagnostičkih i terapijskih postupaka u zdravstvenim djelatnostima - vremenski i kadrovski normativi",
+   "title": "Odluka o izmjeni Odluke o utvrđivanju Popisa dijagnostičkih i terapijskih postupaka u zdravstvenim djelatnostima - vremenski i kadrovski normativi",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/136/3086",
+   "versions": [
+    {
+     "from": "2006-12-18",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_12_136_3086.html",
+     "sha256": "609f71cc6b45645e61a15306aae15eef7a511e36cf00f6a2777fbcc5a7ef3fe0"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2006-3088",
+   "path": "odluka/2006/3088",
+   "short": "Odluka o financiranju Hrvatske gospodarske komore u 2007. godini",
+   "title": "Odluka o financiranju Hrvatske gospodarske komore u 2007. godini",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/136/3088",
+   "versions": [
+    {
+     "from": "2006-12-18",
+     "units": 13,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_12_136_3088.html",
+     "sha256": "651e1ccb2810d1ce6c46dd69c93de459d68aa882d21e983e4d70550795fbbe70"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2006-3089",
+   "path": "odluka/2006/3089",
+   "short": "Odluka o dopuštenoj visini tehnološkog manjka, kala, rastepa, kvara i loma u procesima proizvodnje boja i lakova",
+   "title": "Odluka o dopuštenoj visini tehnološkog manjka, kala, rastepa, kvara i loma u procesima proizvodnje boja i lakova",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/136/3089",
+   "versions": [
+    {
+     "from": "2006-12-18",
+     "units": 8,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_12_136_3089.html",
+     "sha256": "4cba529fcbecc2c95ec7268e121bf637d84836665ea1628d823d5d49fcacbf0a"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2006-3095",
+   "path": "odluka/2006/3095",
+   "short": "Odluka o prirezu porezu na dohodak Općine Višnjan",
+   "title": "Odluka o prirezu porezu na dohodak Općine Višnjan",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/136/3095",
+   "versions": [
+    {
+     "from": "2006-12-26",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_12_136_3095.html",
+     "sha256": "1730a55c565c28a3d1ba46c91a8a72e2bad6c755df98b69c6435e4f1e559176e"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2006-3096",
+   "path": "odluka/2006/3096",
+   "short": "Odluka o prirezu porezu na dohodak Grada Skradina",
+   "title": "Odluka o prirezu porezu na dohodak Grada Skradina",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/136/3096",
+   "versions": [
+    {
+     "from": "2006-12-26",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_12_136_3096.html",
+     "sha256": "2f4b5eb2996fceca78d7539b8df90f54619acabc3009ddda90bd3b70aea2a3e7"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2006-3099",
+   "path": "odluka/2006/3099",
+   "short": "Odluka o davanju suglasnosti na Financijski plan Hrvatskih voda za 2007. godinu",
+   "title": "Odluka o davanju suglasnosti na Financijski plan Hrvatskih voda za 2007. godinu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/137/3099",
+   "versions": [
+    {
+     "from": "2006-12-19",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_12_137_3099.html",
+     "sha256": "65bea343c4ca8e1c6ca58485236cde2def9bc67bb22d70035698cc4b8886c710"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2006-3100",
+   "path": "odluka/2006/3100",
+   "short": "Odluka o davanju suglasnosti na Financijski plan Hrvatskih autocesta za 2007. godinu",
+   "title": "Odluka o davanju suglasnosti na Financijski plan Hrvatskih autocesta za 2007. godinu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/137/3100",
+   "versions": [
+    {
+     "from": "2006-12-19",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_12_137_3100.html",
+     "sha256": "8f31175337b24da92027e579db6c410bb06aa207af9ff09a16dbb6721a339fba"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2006-3101",
+   "path": "odluka/2006/3101",
+   "short": "Odluka o davanju suglasnosti na Financijski plan Hrvatskih cesta za 2007. godinu",
+   "title": "Odluka o davanju suglasnosti na Financijski plan Hrvatskih cesta za 2007. godinu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/137/3101",
+   "versions": [
+    {
+     "from": "2006-12-19",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_12_137_3101.html",
+     "sha256": "b15f6fb15ce11e829fa9114cc0045f9d07c99d66c07708f50d15fc8db276c306"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2006-3102",
+   "path": "odluka/2006/3102",
+   "short": "Odluka o davanju suglasnosti na Financijski plan Državne agencije za osiguranje štednih uloga i sanaciju banaka za 2007. godinu",
+   "title": "Odluka o davanju suglasnosti na Financijski plan Državne agencije za osiguranje štednih uloga i sanaciju banaka za 2007. godinu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/137/3102",
+   "versions": [
+    {
+     "from": "2006-12-19",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_12_137_3102.html",
+     "sha256": "c50f9ac07121bad2a0a86680080975b60f0a1b97c1db77c843860fbb9ca35498"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2006-3103",
+   "path": "odluka/2006/3103",
+   "short": "Odluka o davanju suglasnosti na Financijski plan Hrvatskog fonda za privatizaciju za 2007. godinu",
+   "title": "Odluka o davanju suglasnosti na Financijski plan Hrvatskog fonda za privatizaciju za 2007. godinu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/137/3103",
+   "versions": [
+    {
+     "from": "2006-12-19",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_12_137_3103.html",
+     "sha256": "01cc2fd6d3360f0a7906bd7cc9f2650bf959be36d7089a4e009032997a83f2f3"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2006-3104",
+   "path": "odluka/2006/3104",
+   "short": "Odluka o davanju suglasnosti na Financijski plan Fonda za zaštitu okoliša i energetsku učinkovitost za 2007. godinu",
+   "title": "Odluka o davanju suglasnosti na Financijski plan Fonda za zaštitu okoliša i energetsku učinkovitost za 2007. godinu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/137/3104",
+   "versions": [
+    {
+     "from": "2006-12-19",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_12_137_3104.html",
+     "sha256": "6ce46f98212b2d3725071e3897dc2f5fa7bc664c7161c5acccb0af0f537cb0b9"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2006-3106",
+   "path": "odluka/2006/3106",
+   "short": "Odluka o raspisivanju javnog natječaja za dodjelu koncesije za korištenje poljoprivrednog zemljišta u vlasništvu Republike Hrvatske na području Općine Markušica za k.o. Ostrovo",
+   "title": "Odluka o raspisivanju javnog natječaja za dodjelu koncesije za korištenje poljoprivrednog zemljišta u vlasništvu Republike Hrvatske na području Općine Markušica za k.o. Ostrovo",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/137/3106",
+   "versions": [
+    {
+     "from": "2006-12-14",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_12_137_3106.html",
+     "sha256": "318c77ae229494962146cb768f400a91585681d93acb2afb2e29149f0308aa15"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2006-3107",
+   "path": "odluka/2006/3107",
+   "short": "Odluka o raspisivanju javnog natječaja za dodjelu koncesije za korištenje poljoprivrednog zemljišta u vlasništvu Republike Hrvatske na području Općine Ivankovo",
+   "title": "Odluka o raspisivanju javnog natječaja za dodjelu koncesije za korištenje poljoprivrednog zemljišta u vlasništvu Republike Hrvatske na području Općine Ivankovo",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/137/3107",
+   "versions": [
+    {
+     "from": "2006-12-14",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_12_137_3107.html",
+     "sha256": "5fa163858ffd24d489d144ee2ad81eb34582bf524961978cb53586528247093c"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2006-3108",
+   "path": "odluka/2006/3108",
+   "short": "Odluka o dodjeli koncesije za korištenje poljoprivrednog zemljišta u vlasništvu Republike Hrvatske na području Općine Koška",
+   "title": "Odluka o dodjeli koncesije za korištenje poljoprivrednog zemljišta u vlasništvu Republike Hrvatske na području Općine Koška",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/137/3108",
+   "versions": [
+    {
+     "from": "2006-12-14",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_12_137_3108.html",
+     "sha256": "2ad2650c7024b9892754e429a4b1f89bcecf4038df582a09b1552eb01d1bee73"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2006-3118",
+   "path": "odluka/2006/3118",
+   "short": "Odluka o izmjeni i dopunama Odluke o proširenju jurisdikcije Republike Hrvatske na Jadranskom moru",
+   "title": "Odluka o izmjeni i dopunama Odluke o proširenju jurisdikcije Republike Hrvatske na Jadranskom moru",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/138/3118",
+   "versions": [
+    {
+     "from": "2006-12-15",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_12_138_3118.html",
+     "sha256": "efdac58df1f10d9da0b43f5d8c8d1b4fa86df66fde816ae451d415515330c8ef"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2006-3123",
+   "path": "odluka/2006/3123",
+   "short": "Odluka o preraspodjeli sredstava planiranih u Državnom proračunu Republike Hrvatske za 2006. godinu",
+   "title": "Odluka o preraspodjeli sredstava planiranih u Državnom proračunu Republike Hrvatske za 2006. godinu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/138/3123",
+   "versions": [
+    {
+     "from": "2006-12-20",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_12_138_3123.html",
+     "sha256": "00c8e7fcea41cd79f3e5d756e8dea1bd4783cee9e8a13ca1d2edb79a7e5ee11a"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2006-3124",
+   "path": "odluka/2006/3124",
+   "short": "Odluka o davanju prethodne suglasnosti na Statut Hrvatske agencije za obvezne zalihe nafte i naftnih derivata",
+   "title": "Odluka o davanju prethodne suglasnosti na Statut Hrvatske agencije za obvezne zalihe nafte i naftnih derivata",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/138/3124",
+   "versions": [
+    {
+     "from": "2006-12-14",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_12_138_3124.html",
+     "sha256": "6ad9aacafee3408a2b53c4dfcc19c16d2602a0064ffaa07fc7cef38fe04d6372"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2006-3125",
+   "path": "odluka/2006/3125",
+   "short": "Odluka o dodjeli koncesije za korištenje poljoprivrednog zemljišta u vlasništvu Republike Hrvatske na području općine Čačinci",
+   "title": "Odluka o dodjeli koncesije za korištenje poljoprivrednog zemljišta u vlasništvu Republike Hrvatske na području općine Čačinci",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/138/3125",
+   "versions": [
+    {
+     "from": "2006-12-14",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_12_138_3125.html",
+     "sha256": "ade9a9a62d557af547b0f45c77080cedfe9ce120139c2db0e16306d2c1697f71"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2006-3136",
+   "path": "odluka/2006/3136",
+   "short": "Odluka o prirezu porezu na dohodak Općine Kanfanar",
+   "title": "Odluka o prirezu porezu na dohodak Općine Kanfanar",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/138/3136",
+   "versions": [
+    {
+     "from": "2006-12-28",
+     "units": 8,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_12_138_3136.html",
+     "sha256": "f105db784d026eaf5a9b68a70c8aa6bcce9c693b863e77550c61f73bb16777aa"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2006-3197",
+   "path": "odluka/2006/3197",
+   "short": "Zakon o izmjenama i dopunama Zakona o nadzoru državne granice",
+   "title": "Zakon o izmjenama i dopunama Zakona o nadzoru državne granice",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/141/3197",
+   "versions": [
+    {
+     "from": "2007-01-04",
+     "units": 8,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_12_141_3197.html",
+     "sha256": "59820cf0bf36323f8a583e64be17a7cbd447a34b6027e01cbde99fb2a03c63fa"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2006-3214",
+   "path": "odluka/2006/3214",
+   "short": "Odluka o dodjeli koncesije za korištenje poljoprivrednog zemljišta u vlasništvu Republike Hrvatske na području Grada Slatine",
+   "title": "Odluka o dodjeli koncesije za korištenje poljoprivrednog zemljišta u vlasništvu Republike Hrvatske na području Grada Slatine",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/142/3214",
+   "versions": [
+    {
+     "from": "2006-12-21",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_12_142_3214.html",
+     "sha256": "c3e88fe29b45960d4a7d5f99a45f3ef8c41ea1fcee31ab62a70ddd01fe4aaa10"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2006-3215",
+   "path": "odluka/2006/3215",
+   "short": "Odluka o dodjeli koncesije za korištenje poljoprivrednog zemljišta u vlasništvu Republike Hrvatske na području Općine Markušica",
+   "title": "Odluka o dodjeli koncesije za korištenje poljoprivrednog zemljišta u vlasništvu Republike Hrvatske na području Općine Markušica",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/142/3215",
+   "versions": [
+    {
+     "from": "2006-12-21",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_12_142_3215.html",
+     "sha256": "24a205e510fdbdeefe6c116b289734e76ae5e73a56e9b3e903792f7ca6d6d0bb"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2006-3216",
+   "path": "odluka/2006/3216",
+   "short": "Odluka o određivanju godišnje količine tekućih naftnih goriva koja se smije stavljati u promet na domaćem tržištu, a ne udovoljava graničnim vrijednostima i drugim značajkama kakvoće tekućih naftnih goriva",
+   "title": "Odluka o određivanju godišnje količine tekućih naftnih goriva koja se smije stavljati u promet na domaćem tržištu, a ne udovoljava graničnim vrijednostima i drugim značajkama kakvoće tekućih naftnih goriva",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/142/3216",
+   "versions": [
+    {
+     "from": "2006-12-21",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_12_142_3216.html",
+     "sha256": "fb981873871f3afdbb239989fd1807feb952f836fb5bea9cd693004491c378cb"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2006-3217",
+   "path": "odluka/2006/3217",
+   "short": "Odluka o visini osnovice za izračun plaća korisnika državnog proračuna u 2007. godini",
+   "title": "Odluka o visini osnovice za izračun plaća korisnika državnog proračuna u 2007. godini",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/142/3217",
+   "versions": [
+    {
+     "from": "2007-01-01",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_12_142_3217.html",
+     "sha256": "a5a87e61b5dbc7f649e20348396a2d69460f62313425de0098dba3ac2b53db0d"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2006-3218",
+   "path": "odluka/2006/3218",
+   "short": "Odluka o dodatnoj pomoći Gradu Benkovcu, za financiranje troškova elektroenergetskog priključka, u svrhu provođenja Programa stambenog zbrinjavanja stradalnika iz Domovinskog rata",
+   "title": "Odluka o dodatnoj pomoći Gradu Benkovcu, za financiranje troškova elektroenergetskog priključka, u svrhu provođenja Programa stambenog zbrinjavanja stradalnika iz Domovinskog rata",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/142/3218",
+   "versions": [
+    {
+     "from": "2006-12-21",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_12_142_3218.html",
+     "sha256": "13bec4b42285fdfb69f8eedc56c301b2510606a6144809707918e33be3d8efc0"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2006-3219",
+   "path": "odluka/2006/3219",
+   "short": "Odluka o davanju suglasnosti društvu HT - Hrvatske telekomunikacije d.d. na sporazumni raskid Ugovora o koncesiji za obavljanje javnih govornih usluga u nepokretnoj mreži i tržišnih telekomunikacijski usluga...",
+   "title": "Odluka o davanju suglasnosti društvu HT - Hrvatske telekomunikacije d.d. na sporazumni raskid Ugovora o koncesiji za obavljanje javnih govornih usluga u nepokretnoj mreži i tržišnih telekomunikacijski usluga...",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/142/3219",
+   "versions": [
+    {
+     "from": "2006-12-21",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_12_142_3219.html",
+     "sha256": "26954a1fd6df9d3431335e74c950ae9a3b216fb6d86051db69e27bc95a4378d8"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2006-3229",
+   "path": "odluka/2006/3229",
+   "short": "Odluka o upisu obveznih blagajničkih zapisa Hrvatske narodne banke",
+   "title": "Odluka o upisu obveznih blagajničkih zapisa Hrvatske narodne banke",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/142/3229",
+   "versions": [
+    {
+     "from": "2007-01-01",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_12_142_3229.html",
+     "sha256": "7b6eb0cbd8c4c41bf6e36fd51914ec018c585d1aa0226db36bd60ad2aa696091"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2006-3231",
+   "path": "odluka/2006/3231",
+   "short": "Odluka o izmjeni Odluke o posebnim standardima i mjerilima njihove primjene u provođenju primarne zdravstvene zaštite iz osnovnog zdravstvenog osiguranja za 2006. godinu",
+   "title": "Odluka o izmjeni Odluke o posebnim standardima i mjerilima njihove primjene u provođenju primarne zdravstvene zaštite iz osnovnog zdravstvenog osiguranja za 2006. godinu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/142/3231",
+   "versions": [
+    {
+     "from": "2006-12-28",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_12_142_3231.html",
+     "sha256": "41b3bfe91ec3f2909fde07270e454f4bb645c3a1b698dc393ee583ad7afacd4f"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2006-3232",
+   "path": "odluka/2006/3232",
+   "short": "Odluka o izmjeni Odluke o utvrđivanju cijene rada i materijala zubotehničara za izradu stomatološko-protetskih pomagala, ortodonskih uređaja, udlaga, resekcijskih proteza, epiteza...",
+   "title": "Odluka o izmjeni Odluke o utvrđivanju cijene rada i materijala zubotehničara za izradu stomatološko-protetskih pomagala, ortodonskih uređaja, udlaga, resekcijskih proteza, epiteza...",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/142/3232",
+   "versions": [
+    {
+     "from": "2006-12-28",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_12_142_3232.html",
+     "sha256": "d68f88e0fb56195e64de12d905a9bc8aa01fe2197dd12a369502b613d59fe86e"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2006-3234",
+   "path": "odluka/2006/3234",
+   "short": "Odluka o osnovama za sklapanje ugovora o provođenju zdravstvene zaštite iz obveznog zdravstvenog osiguranja",
+   "title": "Odluka o osnovama za sklapanje ugovora o provođenju zdravstvene zaštite iz obveznog zdravstvenog osiguranja",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/142/3234",
+   "versions": [
+    {
+     "from": "2006-12-28",
+     "units": 65,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_12_142_3234.html",
+     "sha256": "c867cf7eb696dce4a0d00d31e56be997304f7b0932f513d6d1241d79aedff2b2"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2006-3235",
+   "path": "odluka/2006/3235",
+   "short": "Odluka o posebnim standardima i mjerilima njihove primjene u provođenju primarne zdravstvene zaštite iz obveznog zdravstvenog osiguranja",
+   "title": "Odluka o posebnim standardima i mjerilima njihove primjene u provođenju primarne zdravstvene zaštite iz obveznog zdravstvenog osiguranja",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/142/3235",
+   "versions": [
+    {
+     "from": "2006-12-28",
+     "units": 11,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_12_142_3235.html",
+     "sha256": "6b6dadd867bd6c88d693b9a556ad920388cebb4783af26408c1b66e9a35209d7"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2006-3236",
+   "path": "odluka/2006/3236",
+   "short": "Odluka o načinu dostave matičnog broja osigurane osobe u obveznom zdravstvenom osiguranju",
+   "title": "Odluka o načinu dostave matičnog broja osigurane osobe u obveznom zdravstvenom osiguranju",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/142/3236",
+   "versions": [
+    {
+     "from": "2007-01-05",
+     "units": 6,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_12_142_3236.html",
+     "sha256": "302aa402f1b957f9cdc215ecfa6716141d31358c712738eecd1099e4baf212b2"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2006-3238",
+   "path": "odluka/2006/3238",
+   "short": "Odluka o prirezu porezu na dohodak općine Stari Mikanovci",
+   "title": "Odluka o prirezu porezu na dohodak općine Stari Mikanovci",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/142/3238",
+   "versions": [
+    {
+     "from": "2006-12-28",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_12_142_3238.html",
+     "sha256": "7fecba1a0a9ed5381cc5f71502e211fe05ac2663cad6e2851ab8acc89c5c9288"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2006-3243",
+   "path": "odluka/2006/3243",
+   "short": "Odluka o kriterijima i mjerilima za utvrđivanje bilančnih prava za financiranje minimalnog financijskog standarda javnih potreba osnovnog školstva u 2007. godini",
+   "title": "Odluka o kriterijima i mjerilima za utvrđivanje bilančnih prava za financiranje minimalnog financijskog standarda javnih potreba osnovnog školstva u 2007. godini",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/143/3243",
+   "versions": [
+    {
+     "from": "2007-01-01",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_12_143_3243.html",
+     "sha256": "51a260d1da81bfb102c94306dcdd17e46d133d9f4055ae1c5e551ddcc5e3a6e7"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2006-3244",
+   "path": "odluka/2006/3244",
+   "short": "Odluka o kriterijima i mjerilima za utvrđivanje bilančnih prava za financiranje minimalnog financijskog standarda javnih potreba srednjih škola i učeničkih domova u 2007. godini",
+   "title": "Odluka o kriterijima i mjerilima za utvrđivanje bilančnih prava za financiranje minimalnog financijskog standarda javnih potreba srednjih škola i učeničkih domova u 2007. godini",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/143/3244",
+   "versions": [
+    {
+     "from": "2007-01-01",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_12_143_3244.html",
+     "sha256": "386e60fa92d772d40d418fb2cb4a6775568c108528dc343ed4b5985a31f62c48"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2006-3246",
+   "path": "odluka/2006/3246",
+   "short": "Odluka o minimalnim financijskim standardima materijalnih i financijskih rashoda centara za socijalnu skrb i pomoći za podmirenje troškova stanovanja korisnicima koji se griju na drva u 2007. godini",
+   "title": "Odluka o minimalnim financijskim standardima materijalnih i financijskih rashoda centara za socijalnu skrb i pomoći za podmirenje troškova stanovanja korisnicima koji se griju na drva u 2007. godini",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/143/3246",
+   "versions": [
+    {
+     "from": "2007-01-01",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_12_143_3246.html",
+     "sha256": "5cfa9788ea941a821f731bd0dffa113c910908dcbcfb9d3781c53d40e6c2da5c"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2006-3247",
+   "path": "odluka/2006/3247",
+   "short": "Odluka o minimalnim financijskim standardima za decentralizirano financiranje domova za starije i nemoćne osobe u 2007. godini",
+   "title": "Odluka o minimalnim financijskim standardima za decentralizirano financiranje domova za starije i nemoćne osobe u 2007. godini",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/143/3247",
+   "versions": [
+    {
+     "from": "2007-01-01",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_12_143_3247.html",
+     "sha256": "59030667b06b891638f983ed8951ef531e1dbffca3f4266a5d26b29a54497ce9"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2006-3248",
+   "path": "odluka/2006/3248",
+   "short": "Odluka o minimalnim financijskim standardima za decentralizirano financiranje redovite djelatnosti javnih vatrogasnih postrojbi u 2007. godini",
+   "title": "Odluka o minimalnim financijskim standardima za decentralizirano financiranje redovite djelatnosti javnih vatrogasnih postrojbi u 2007. godini",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/143/3248",
+   "versions": [
+    {
+     "from": "2007-01-01",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_12_143_3248.html",
+     "sha256": "128182b04ae779827c763d91675b257d0e1bb071d4a070c9bc4e96817f70856e"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2006-3260",
+   "path": "odluka/2006/3260",
+   "short": "Odluka o prirezu poreza na dohodak Grada Grubišnog Polja",
+   "title": "Odluka o prirezu poreza na dohodak Grada Grubišnog Polja",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/143/3260",
+   "versions": [
+    {
+     "from": "2007-01-01",
+     "units": 9,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_12_143_3260.html",
+     "sha256": "75f078e123c4698dff282176ae09cd386487204502b7d03ab695f7108c30798a"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2006-365",
+   "path": "odluka/2006/365",
+   "short": "Odluka o visini naknade za melioracijsku odvodnju",
+   "title": "Odluka o visini naknade za melioracijsku odvodnju",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/14/365",
+   "versions": [
+    {
+     "from": "2006-02-16",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_02_14_365.html",
+     "sha256": "351c1ab3aac4da8f8fcdbefde6c83a4547097fe3978356e689b0e6a77d540da4"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2006-366",
+   "path": "odluka/2006/366",
+   "short": "Odluka o dodjeli koncesije za korištenje poljoprivrednog zemljišta u vlasništvu Republike Hrvatske na području Općine Podravska Moslavina",
+   "title": "Odluka o dodjeli koncesije za korištenje poljoprivrednog zemljišta u vlasništvu Republike Hrvatske na području Općine Podravska Moslavina",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/14/366",
+   "versions": [
+    {
+     "from": "2006-02-02",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_02_14_366.html",
+     "sha256": "7efb5b3c6544596836473bb4b8f72522aaa77479d2298930ebd5f692be991792"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2006-367",
+   "path": "odluka/2006/367",
+   "short": "Odluka o raspisivanju javnog natječaja za dodjelu koncesije za korištenje poljoprivrednog zemljišta u vlasništvu Republike Hrvatske na području Općine Velika",
+   "title": "Odluka o raspisivanju javnog natječaja za dodjelu koncesije za korištenje poljoprivrednog zemljišta u vlasništvu Republike Hrvatske na području Općine Velika",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/14/367",
+   "versions": [
+    {
+     "from": "2006-02-02",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_02_14_367.html",
+     "sha256": "cf655d204cd9f06905fd87ab5fe06282f174f5a00d3f051dec495862636a2cc7"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2006-368",
+   "path": "odluka/2006/368",
+   "short": "Odluka o davanju suglasnosti na Odluku o dopunama Odluke o osnivanju Lučke uprave za luke županijskog i lokalnog značaja",
+   "title": "Odluka o davanju suglasnosti na Odluku o dopunama Odluke o osnivanju Lučke uprave za luke županijskog i lokalnog značaja",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/14/368",
+   "versions": [
+    {
+     "from": "2006-02-02",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_02_14_368.html",
+     "sha256": "1fc83423b86a679ed80093cc741778cb9474880cb64642034765a841122d1948"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2006-427",
+   "path": "odluka/2006/427",
+   "short": "Odluka o izmjenama i dopunama Odluke o uvjetima korištenja službenih osobnih automobila, mobilnih telefona, sredstava za službena putovanja, poslovnih kreditnih kartica i sredstava reprezentacije",
+   "title": "Odluka o izmjenama i dopunama Odluke o uvjetima korištenja službenih osobnih automobila, mobilnih telefona, sredstava za službena putovanja, poslovnih kreditnih kartica i sredstava reprezentacije",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/18/427",
+   "versions": [
+    {
+     "from": "2006-02-09",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_02_18_427.html",
+     "sha256": "932985b64b46c6cc5f2f1e3ec4022f582c3322167dbd869cf121b8210474386a"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2006-429",
+   "path": "odluka/2006/429",
+   "short": "Odluka o određivanju godišnje količine tekućih naftnih goriva koja se smije stavljati u promet na domaćem tržištu, a ne udovoljava graničnim vrijednostima značajki kakvoće tekućih naftnih goriva propisanih Uredbom o kakvoći tekućih naftnih goriva",
+   "title": "Odluka o određivanju godišnje količine tekućih naftnih goriva koja se smije stavljati u promet na domaćem tržištu, a ne udovoljava graničnim vrijednostima značajki kakvoće tekućih naftnih goriva propisanih Uredbom o kakvoći tekućih naftnih goriva",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/18/429",
+   "versions": [
+    {
+     "from": "2006-02-09",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_02_18_429.html",
+     "sha256": "ec8b142f0680bf7622880aa65100fc3726b9e3b3a16ce717c90f7c287e122a2b"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2006-430",
+   "path": "odluka/2006/430",
+   "short": "Odluka o preferencijalnoj carinskoj kvoti pri uvozu određenog poljoprivrednog proizvoda iz zemalja članica Europske unije",
+   "title": "Odluka o preferencijalnoj carinskoj kvoti pri uvozu određenog poljoprivrednog proizvoda iz zemalja članica Europske unije",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/18/430",
+   "versions": [
+    {
+     "from": "2006-02-09",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_02_18_430.html",
+     "sha256": "0bec6c9d3d516bd5a9745fec52924ce4c8800415b87133323b1313c0b834bf47"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2006-431",
+   "path": "odluka/2006/431",
+   "short": "Odluka o osnivanju Nacionalnog povjerenstva za provedbu Ugovora o sveobuhvatnoj zabrani nuklearnih pokusa",
+   "title": "Odluka o osnivanju Nacionalnog povjerenstva za provedbu Ugovora o sveobuhvatnoj zabrani nuklearnih pokusa",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/18/431",
+   "versions": [
+    {
+     "from": "2006-02-15",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_02_18_431.html",
+     "sha256": "bdd98cd81d76598a1ad3740a5f6d5e3e7ea20073295b7d42858ce1eec5386375"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2006-432",
+   "path": "odluka/2006/432",
+   "short": "Odluka o izdavanju obveznica Republike Hrvatske uz plasman na domaćem tržištu kapitala u iznosu od 2.000.000.000,00 kuna",
+   "title": "Odluka o izdavanju obveznica Republike Hrvatske uz plasman na domaćem tržištu kapitala u iznosu od 2.000.000.000,00 kuna",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/18/432",
+   "versions": [
+    {
+     "from": "2006-02-09",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_02_18_432.html",
+     "sha256": "b1385591745508e4e79d1a4e0d8d7d3ab1b3ea7bb73fbfc0181d27a75d9c792e"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2006-439",
+   "path": "odluka/2006/439",
+   "short": "Odluka o posebnoj obveznoj pričuvi na obveze po izdanim vrijednosnim papirima",
+   "title": "Odluka o posebnoj obveznoj pričuvi na obveze po izdanim vrijednosnim papirima",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/18/439",
+   "versions": [
+    {
+     "from": "2006-02-23",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_02_18_439.html",
+     "sha256": "a6626ef9fd1f040bd32b836699e5e15e40f14fdf6ccc52f7f982c94c836528ec"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2006-440",
+   "path": "odluka/2006/440",
+   "short": "Odluka o uvjetima i načinu na koji ovlašteni mjenjači obavljaju mjenjačke poslove",
+   "title": "Odluka o uvjetima i načinu na koji ovlašteni mjenjači obavljaju mjenjačke poslove",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/18/440",
+   "versions": [
+    {
+     "from": "2006-02-23",
+     "units": 21,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_02_18_440.html",
+     "sha256": "2cf6a5c7b4b2d7293c6158b417f0002c29432495d2f8f54a192ac9234e88a4f4"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2006-441",
+   "path": "odluka/2006/441",
+   "short": "Odluka o izmjeni i dopuni Odluke o uvjetima i načinu obavljanja platnog prometa s inozemstvom",
+   "title": "Odluka o izmjeni i dopuni Odluke o uvjetima i načinu obavljanja platnog prometa s inozemstvom",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/18/441",
+   "versions": [
+    {
+     "from": "2006-02-23",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_02_18_441.html",
+     "sha256": "46e9692d311b300fd566b8beb2cd976454e2c7bd3002e0b2801ada1b707f3280"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2006-442",
+   "path": "odluka/2006/442",
+   "short": "Odluka o puštanju u optjecaj kovanog novca kuna i lipa s oznakom godine kovanja \"2006\"",
+   "title": "Odluka o puštanju u optjecaj kovanog novca kuna i lipa s oznakom godine kovanja \"2006\"",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/18/442",
+   "versions": [
+    {
+     "from": "2006-02-15",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_02_18_442.html",
+     "sha256": "42247719b080f485abc2738a5c9bf697b393cd8cd1109b12605ef005ebca4cae"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2006-443",
+   "path": "odluka/2006/443",
+   "short": "Odluka o povlačenju iz optjecaja novčanica od 5 i 20 kuna s datumom izdanja 31. listopada 1993. i novčanica od 10 kuna s datumom izdanja 15. siječnja 1995.",
+   "title": "Odluka o povlačenju iz optjecaja novčanica od 5 i 20 kuna s datumom izdanja 31. listopada 1993. i novčanica od 10 kuna s datumom izdanja 15. siječnja 1995.",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/18/443",
+   "versions": [
+    {
+     "from": "2006-02-15",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_02_18_443.html",
+     "sha256": "0fa90b4444fb2a7827452794578c0e4165be9d49dbd6278e494ed2342d052f1f"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2006-450",
+   "path": "odluka/2006/450",
+   "short": "Odluka o usklađenju sredstava jamstvenog pologa za 2004. i 2005. godinu",
+   "title": "Odluka o usklađenju sredstava jamstvenog pologa za 2004. i 2005. godinu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/18/450",
+   "versions": [
+    {
+     "from": "2006-02-23",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_02_18_450.html",
+     "sha256": "c7d1d7472209d555bd6c5657e73c79d31db25208e620775f491b6a8fcb3ad9e4"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2006-451",
+   "path": "odluka/2006/451",
+   "short": "Odluka o najvišem postotku naknade banke skrbnika za 2006. godinu",
+   "title": "Odluka o najvišem postotku naknade banke skrbnika za 2006. godinu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/18/451",
+   "versions": [
+    {
+     "from": "2006-02-23",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_02_18_451.html",
+     "sha256": "3af45edc9d4369dabbb67579a190d1b69d47a0adc2dd013ae5fc2a2b94a51ab5"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2006-470",
+   "path": "odluka/2006/470",
+   "short": "Odluka o izmjeni i dopuni Odluke o osnovama za sklapanje ugovora sa zdravstvenim ustanovama i privatnim zdravstvenim radnicima za 2005. godinu",
+   "title": "Odluka o izmjeni i dopuni Odluke o osnovama za sklapanje ugovora sa zdravstvenim ustanovama i privatnim zdravstvenim radnicima za 2005. godinu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/19/470",
+   "versions": [
+    {
+     "from": "2006-02-17",
+     "units": 8,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_02_19_470.html",
+     "sha256": "08671ed18d496f93afd0558474aab10951a5d775038b15ed186bf2a685956b10"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2006-471",
+   "path": "odluka/2006/471",
+   "short": "Odluka o izmjeni i dopuni Odluke o posebnim standardima i mjerilima njihove primjene u provođenju primarne zdravstvene zaštite iz osnovnog zdravstvenog osiguranja za 2005. godinu",
+   "title": "Odluka o izmjeni i dopuni Odluke o posebnim standardima i mjerilima njihove primjene u provođenju primarne zdravstvene zaštite iz osnovnog zdravstvenog osiguranja za 2005. godinu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/19/471",
+   "versions": [
+    {
+     "from": "2006-02-17",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_02_19_471.html",
+     "sha256": "1f06164708ff046ec22065f09081585f8532b70ad6a55e179a7751a12cf7a1af"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2006-472",
+   "path": "odluka/2006/472",
+   "short": "Odluka o izmjeni i dopuni Odluke o utvrđivanju cijene rada i materijala zubotehničara za izradu stomatološko-protetskih pomagala, ortodonskih uređaja, udlaga, resekcijskih proteza, epiteza i opturatora za osigurane osobe Hrvatskog zavoda za zdravstveno osiguranje za 2005. godinu",
+   "title": "Odluka o izmjeni i dopuni Odluke o utvrđivanju cijene rada i materijala zubotehničara za izradu stomatološko-protetskih pomagala, ortodonskih uređaja, udlaga, resekcijskih proteza, epiteza i opturatora za osigurane osobe Hrvatskog zavoda za zdravstveno osiguranje za 2005. godinu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/19/472",
+   "versions": [
+    {
+     "from": "2006-02-17",
+     "units": 8,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_02_19_472.html",
+     "sha256": "e0b19f5bfa37bd21cb8f83e6bf9b8c8f377273b200d6cfb013d9e7672a311aea"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2006-473",
+   "path": "odluka/2006/473",
+   "short": "Odluka o utvrđivanju Liste lijekova Hrvatskog zavoda za zdravstveno osiguranje",
+   "title": "Odluka o utvrđivanju Liste lijekova Hrvatskog zavoda za zdravstveno osiguranje",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/19/473",
+   "versions": [
+    {
+     "from": "2006-02-17",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_02_19_473.html",
+     "sha256": "6dc18e332383eb0b60d311d2bf0ad9c94ab62c3500c2a1e9975890d3c19f6761"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2006-474",
+   "path": "odluka/2006/474",
+   "short": "Odluka o odobrenju eksploatacijskog polja ugljikovodika Vrbak",
+   "title": "Odluka o odobrenju eksploatacijskog polja ugljikovodika Vrbak",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/20/474",
+   "versions": [
+    {
+     "from": "2006-02-15",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_02_20_474.html",
+     "sha256": "d49b65dd21d6ab4df71286f5b45a92675556f57c7b63ef2634608a7d53a4302d"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2006-475",
+   "path": "odluka/2006/475",
+   "short": "Odluka o dodjeli koncesije za korištenje poljoprivrednog zemljišta u vlasništvu Republike Hrvatske na području općine Unešić",
+   "title": "Odluka o dodjeli koncesije za korištenje poljoprivrednog zemljišta u vlasništvu Republike Hrvatske na području općine Unešić",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/20/475",
+   "versions": [
+    {
+     "from": "2006-02-15",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_02_20_475.html",
+     "sha256": "db5197ef88c7c32b0dac54e88a643fcc8bc8631026ce11492159915f89cb504f"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2006-476",
+   "path": "odluka/2006/476",
+   "short": "Odluka o raspisivanju javnog natječaja za dodjelu koncesije za korištenje poljoprivrednog zemljišta u vlasništvu Republike Hrvatske na području grada Našica",
+   "title": "Odluka o raspisivanju javnog natječaja za dodjelu koncesije za korištenje poljoprivrednog zemljišta u vlasništvu Republike Hrvatske na području grada Našica",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/20/476",
+   "versions": [
+    {
+     "from": "2006-02-15",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_02_20_476.html",
+     "sha256": "4866dc9287def2207e3a3daf246dc50f3d5f4931d16548cb499e9475fd02f0a0"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2006-486",
+   "path": "odluka/2006/486",
+   "short": "Odluka o izmjeni i dopuni Odluke o gradskim porezima i o prirezu poreza na dohodak",
+   "title": "Odluka o izmjeni i dopuni Odluke o gradskim porezima i o prirezu poreza na dohodak",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/20/486",
+   "versions": [
+    {
+     "from": "2006-02-28",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_02_20_486.html",
+     "sha256": "bf98fcb99430fb37ea10b5119c1ce889925e0dcc6d1b8c600a69f9768d255ca3"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2006-512",
+   "path": "odluka/2006/512",
+   "short": "Odluka o izmjeni Odluke o osnivanju Povjerenstva za imovinu Vlade Republike Hrvatske i povjeravanja tom Povjerenstvu poslova upravljanja i raspolaganja imovinom Republike Hrvatske",
+   "title": "Odluka o izmjeni Odluke o osnivanju Povjerenstva za imovinu Vlade Republike Hrvatske i povjeravanja tom Povjerenstvu poslova upravljanja i raspolaganja imovinom Republike Hrvatske",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/21/512",
+   "versions": [
+    {
+     "from": "2006-02-22",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_02_21_512.html",
+     "sha256": "a30fc8b5fbf14dcae3aa04b684b45b7ef6d6c0763c8ff436a27221d67a78ec6a"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2006-526",
+   "path": "odluka/2006/526",
+   "short": "Odluka o prirezu porezu na dohodak Općine Gornji Bogićevci",
+   "title": "Odluka o prirezu porezu na dohodak Općine Gornji Bogićevci",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/21/526",
+   "versions": [
+    {
+     "from": "2006-02-22",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_02_21_526.html",
+     "sha256": "cdef47b539baf24e2edb3e61499f612679063bd956e01498f2de0c64d7c84b07"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2006-538",
+   "path": "odluka/2006/538",
+   "short": "Odluka o osnivanju Konzulata Republike Hrvatske u Državi Izrael, sa sjedištem u Haifi",
+   "title": "Odluka o osnivanju Konzulata Republike Hrvatske u Državi Izrael, sa sjedištem u Haifi",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/22/538",
+   "versions": [
+    {
+     "from": "2006-02-16",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_02_22_538.html",
+     "sha256": "386333f978cad28e3881c224a9a2834d8def0e1b04992d22538c93a2f4fb5b9e"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2006-539",
+   "path": "odluka/2006/539",
+   "short": "Odluka o osnivanju Konzulata Republike Hrvatske u Kraljevini Španjolskoj, sa sjedištem u Palma de Mallorci",
+   "title": "Odluka o osnivanju Konzulata Republike Hrvatske u Kraljevini Španjolskoj, sa sjedištem u Palma de Mallorci",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/22/539",
+   "versions": [
+    {
+     "from": "2006-02-16",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_02_22_539.html",
+     "sha256": "c151681223b137d8e083938387d5899c0108eeafa4c6100abc98b05a56302890"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2006-574",
+   "path": "odluka/2006/574",
+   "short": "Odluka o izmjenama Odluke o osnivanju Nacionalnog povjerenstva za provedbu Konvencije o zabrani razvijanja, proizvodnje, gomilanja i korištenja kemijskog oružja i o njegovu uništenju",
+   "title": "Odluka o izmjenama Odluke o osnivanju Nacionalnog povjerenstva za provedbu Konvencije o zabrani razvijanja, proizvodnje, gomilanja i korištenja kemijskog oružja i o njegovu uništenju",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/24/574",
+   "versions": [
+    {
+     "from": "2006-02-23",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_03_24_574.html",
+     "sha256": "ec3f63851b1d953e48d3a47824ae2c9bade78ae72f9f91313e75505dd3423387"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2006-590",
+   "path": "odluka/2006/590",
+   "short": "Odluka o izmjeni Odluke o prikupljanju podataka o ostvarenom platnom prometu s inozemstvom",
+   "title": "Odluka o izmjeni Odluke o prikupljanju podataka o ostvarenom platnom prometu s inozemstvom",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/24/590",
+   "versions": [
+    {
+     "from": "2006-03-09",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_03_24_590.html",
+     "sha256": "88ac972ab1f99a0c0cc6126fe6aa01edf19892e63b803e4364c2bbb9b5f7fae8"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2006-591",
+   "path": "odluka/2006/591",
+   "short": "Odluka o izmjeni Upute o upotrebi šifara osnova naplate i plaćanja u platnom prometu s inozemstvom",
+   "title": "Odluka o izmjeni Upute o upotrebi šifara osnova naplate i plaćanja u platnom prometu s inozemstvom",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/24/591",
+   "versions": [
+    {
+     "from": "2006-03-09",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_03_24_591.html",
+     "sha256": "ae2b5d316a2d93fe43e1c8136dd8ee2575f1c325813321069fb803338622c9fa"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2006-595",
+   "path": "odluka/2006/595",
+   "short": "Odluka o izmjeni i dopuni Odluke o utvrđivanju Liste lijekova Hrvatskog zavoda za zdravstveno osiguranje",
+   "title": "Odluka o izmjeni i dopuni Odluke o utvrđivanju Liste lijekova Hrvatskog zavoda za zdravstveno osiguranje",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/24/595",
+   "versions": [
+    {
+     "from": "2006-03-01",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_03_24_595.html",
+     "sha256": "9067ab9005302dfca2374f6727d9f99e3ac6c7c9245533b1d40416826a29237f"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2006-602",
+   "path": "odluka/2006/602",
+   "short": "Odluka o koncesiji za posebnu upotrebu pomorskog dobra u svrhu znanstvenog i razvojnog istraživanja",
+   "title": "Odluka o koncesiji za posebnu upotrebu pomorskog dobra u svrhu znanstvenog i razvojnog istraživanja",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/25/602",
+   "versions": [
+    {
+     "from": "2006-03-02",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_03_25_602.html",
+     "sha256": "4cd4fddb9e0a2d782c3cf7866d982c0512f99b714b8888f9c051aebb54ce1f4f"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2006-603",
+   "path": "odluka/2006/603",
+   "short": "Odluka o prestanku dijela koncesije pomorskog dobra u svrhu gospodarskog korištenja radi obavljanja djelatnosti uzgoja školjaka i riba društvu Dalmacijabilje Marikultura d.o.o.",
+   "title": "Odluka o prestanku dijela koncesije pomorskog dobra u svrhu gospodarskog korištenja radi obavljanja djelatnosti uzgoja školjaka i riba društvu Dalmacijabilje Marikultura d.o.o.",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/25/603",
+   "versions": [
+    {
+     "from": "2006-03-02",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_03_25_603.html",
+     "sha256": "2fc761e637449b1b21fd181d9d97199f66b8c22fa1df8cebb270cabed43b6ed3"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2006-604",
+   "path": "odluka/2006/604",
+   "short": "Odluka o raspisivanju izbora za Županijsku skupštinu Dubrovačko-neretvanske županije, Županijsku skupštinu Požeško-slavonske županije, Gradsko vijeće Grada Velike Gorice i Općinsko vijeće Općine Stara Gradiška",
+   "title": "Odluka o raspisivanju izbora za Županijsku skupštinu Dubrovačko-neretvanske županije, Županijsku skupštinu Požeško-slavonske županije, Gradsko vijeće Grada Velike Gorice i Općinsko vijeće Općine Stara Gradiška",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/25/604",
+   "versions": [
+    {
+     "from": "2006-03-06",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_03_25_604.html",
+     "sha256": "045e27c7601f7420629431b99c3aad12945f8e903a2caa64d16ce47bf8220598"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2006-632",
+   "path": "odluka/2006/632",
+   "short": "Odluka o osnovama za sklapanje ugovora sa zdravstvenim ustanovama i privatnim zdravstvenim radnicima za 2006. godinu",
+   "title": "Odluka o osnovama za sklapanje ugovora sa zdravstvenim ustanovama i privatnim zdravstvenim radnicima za 2006. godinu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/26/632",
+   "versions": [
+    {
+     "from": "2006-03-08",
+     "units": 49,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_03_26_632.html",
+     "sha256": "a753a57828f6b0bb472837f57eedd277a20ecad526803d4cd93bc8c02ac7fb8b"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2006-633",
+   "path": "odluka/2006/633",
+   "short": "Odluka o posebnim standardima i mjerilima njihove primjene u provođenju primarne zdravstvene zaštite iz osnovnog zdravstvenog osiguranja za 2006. godinu",
+   "title": "Odluka o posebnim standardima i mjerilima njihove primjene u provođenju primarne zdravstvene zaštite iz osnovnog zdravstvenog osiguranja za 2006. godinu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/26/633",
+   "versions": [
+    {
+     "from": "2006-03-08",
+     "units": 11,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_03_26_633.html",
+     "sha256": "f58d923d08604af73b646f0581a427f5ff94b96c1b1b9794945404053a91a957"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2006-634",
+   "path": "odluka/2006/634",
+   "short": "Odluka o utvrđivanju cijene rada i materijala zubotehničara za izradu stomatološko-protetskih pomagala, ortodontskih uređaja, udlaga, resekcijskih proteza, epiteza i opturatora za osigurane osobe Hrvatskog zavoda za zdravstveno osiguranje za 2006. godinu",
+   "title": "Odluka o utvrđivanju cijene rada i materijala zubotehničara za izradu stomatološko-protetskih pomagala, ortodontskih uređaja, udlaga, resekcijskih proteza, epiteza i opturatora za osigurane osobe Hrvatskog zavoda za zdravstveno osiguranje za 2006. godinu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/26/634",
+   "versions": [
+    {
+     "from": "2006-03-08",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_03_26_634.html",
+     "sha256": "9cad39679b42f6ac777a1453a1e806368b54e7a79d6b33a51131b7449c163e8a"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2006-695",
+   "path": "odluka/2006/695",
+   "short": "Odluka o izmjenama i dopunama Odluke o nadzornim izvješćima banaka",
+   "title": "Odluka o izmjenama i dopunama Odluke o nadzornim izvješćima banaka",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/29/695",
+   "versions": [
+    {
+     "from": "2006-03-23",
+     "units": 6,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_03_29_695.html",
+     "sha256": "9a53b8435e82ff8cfb14fe0bc645ffa353b06a7ff1d1ff5e881c18e11791588a"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2006-697",
+   "path": "odluka/2006/697",
+   "short": "Odluka o izmjenama i dopunama Kontnog plana za banke",
+   "title": "Odluka o izmjenama i dopunama Kontnog plana za banke",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/29/697",
+   "versions": [
+    {
+     "from": "2006-03-23",
+     "units": 6,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_03_29_697.html",
+     "sha256": "80af1bf4656be8d9554359988acdc21e0884ae40707bb194dbc67276e39cc0be"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2006-709",
+   "path": "odluka/2006/709",
+   "short": "Odluka o raspisivanju javnog natječaja za dodjelu koncesije za korištenje poljoprivrednog zemljišta u vlasništvu Republike Hrvatske na području općine Čačinci",
+   "title": "Odluka o raspisivanju javnog natječaja za dodjelu koncesije za korištenje poljoprivrednog zemljišta u vlasništvu Republike Hrvatske na području općine Čačinci",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/30/709",
+   "versions": [
+    {
+     "from": "2006-03-10",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_03_30_709.html",
+     "sha256": "5eebd434bd11d5e98be04d367cb82af37552d0fac20d0941c0e7b7181757df86"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2006-710",
+   "path": "odluka/2006/710",
+   "short": "Odluka o raspisivanju javnog natječaja za dodjelu koncesije za korištenje poljoprivrednog zemljišta u vlasništvu Republike Hrvatske na području grada Vinkovaca",
+   "title": "Odluka o raspisivanju javnog natječaja za dodjelu koncesije za korištenje poljoprivrednog zemljišta u vlasništvu Republike Hrvatske na području grada Vinkovaca",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/30/710",
+   "versions": [
+    {
+     "from": "2006-03-10",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_03_30_710.html",
+     "sha256": "f4b3bb2f9087e6af7090c8f4c9148a50de9cb90b97a5045683fc847b83f25e85"
     }
    ]
   },
