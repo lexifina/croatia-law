@@ -1,6 +1,6 @@
 # Every act in this repository
 
-31540 acts, 31,966 versions. Each act lives in a folder named by its kind, year and identifier, `<kind>/<year>/<identifier>/` (acts published before that layout keep their own folder, listed in data/paths.json); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+31840 acts, 32,266 versions. Each act lives in a folder named by its kind, year and identifier, `<kind>/<year>/<identifier>/` (acts published before that layout keep their own folder, listed in data/paths.json); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## naputak (197, of which 28 amending acts)
 
@@ -15301,7 +15301,7 @@
 | Odluka o subvencioniranju dijela krajnje cijene isporučene toplinske energije za sve krajnje kupce osim za krajnje kupce koji koriste toplinsku energiju pretežito za poslovnu upotrebu | [`odluka/2026/1520/`](odluka/2026/1520/) | in force | 1 | 2026-11-07 | 2026-11-07 |
 | Odluka o raspisivanju izbora za članove Državnoodvjetničkog vijeće iz reda zamjenika državnih odvjetnika | [`odluka/2026/1523/`](odluka/2026/1523/) | in force | 1 | 2026-11-06 | 2026-11-06 |
 
-## pravilnik (10045, of which 2670 amending acts)
+## pravilnik (10070, of which 2677 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -15997,11 +15997,14 @@
 | Pravilnik o upisniku studentskih zborova | [`pravilnik/1998/2330/`](pravilnik/1998/2330/) | cited later, not consolidated | 1 | 1998-02-13 | 1998-02-13 |
 | Pravilnik o stalnim sudskim vještacima | [`pravilnik/1998/2470/`](pravilnik/1998/2470/) | repealed, not consolidated | 1 | 1998-02-26 | 1998-02-26 |
 | Pravilnik o izobrazbi odraslih | [`pravilnik/1998/2480/`](pravilnik/1998/2480/) | repealed, not consolidated | 1 | 1998-02-26 | 1998-02-26 |
+| Pravilnik o priznanjima i nagradama za dostignuća na području zaštite okoliša | [`pravilnik/1999/6/`](pravilnik/1999/6/) | repealed, not consolidated | 1 | 1999-01-12 | 1999-01-12 |
 | Pravilnik o izmjenama i dopunama Pravilnika o obliku, sadržaju i uporabi obrazaca platnog prometa | [`pravilnik/1999/30/`](pravilnik/1999/30/) | amending act | 1 | 1999-01-05 | 1999-01-05 |
 | Pravilnik o dopuni Pravilnika o koncesijama u javnim telekomunikacijama | [`pravilnik/1999/31/`](pravilnik/1999/31/) | amending act | 1 | 1999-01-16 | 1999-01-16 |
 | Pravilnik o izmjenama Pravilnika o visini naknade za koncesiju u javnim telekomunikacijama i načinu plaćanja | [`pravilnik/1999/32/`](pravilnik/1999/32/) | in force | 1 | 1999-01-16 | 1999-01-16 |
 | Pravilnik o načinu plaćanja i obračunavanja doprinosa za mirovinsko osiguranje | [`pravilnik/1999/33/`](pravilnik/1999/33/) | in force | 1 | 1999-01-09 | 1999-01-09 |
 | Pravilnik o unutarnjem redu u Nacionalnom parku "Brijuni | [`pravilnik/1999/42/`](pravilnik/1999/42/) | repealed, not consolidated | 1 | 1999-01-22 | 1999-01-22 |
+| Pravilnik o vježbeničkom stažu veterinarskih djelatnika i načinu polaganja stručnog ispita | [`pravilnik/1999/65/`](pravilnik/1999/65/) | amended, not consolidated | 1 | 1999-01-27 | 1999-01-27 |
+| Pravilnik o izmjenama i dopunama Pravilnika o porezu na dodanu vrijednost | [`pravilnik/1999/88/`](pravilnik/1999/88/) | amended, not consolidated | 1 | 1999-01-22 | 1999-01-22 |
 | Pravilnik o kriterijima o pogodnosti dijelova pomorskog dobra za uzgoj riba i drugih morskih organizama | [`pravilnik/1999/104/`](pravilnik/1999/104/) | amended, not consolidated | 1 | 1999-02-03 | 1999-02-03 |
 | Pravilnik o izmjeni Pravilnika o obveznom zdravstvenom pregledu usjeva i objekata, sjemena i sadnog materijala poljoprivrednog i šumskog bilja | [`pravilnik/1999/112/`](pravilnik/1999/112/) | in force | 1 | 1999-02-01 | 1999-02-01 |
 | Pravilnik o izmjenama i dopunama Pravilnika o načinu propisivanja, izdavanja i naplaćivanja lijekova | [`pravilnik/1999/265/`](pravilnik/1999/265/) | amending act | 1 | 1999-02-11 | 1999-02-11 |
@@ -16027,18 +16030,40 @@
 | Pravilnik o izmjenama i dopunama Pravilnika o osnovama financiranja visoke naobrazbe na javnim visokim učilištima | [`pravilnik/1999/574/`](pravilnik/1999/574/) | amending act | 1 | 1999-04-01 | 1999-04-01 |
 | Pravilnik o računovodstvenom evidentiranju i financijskim izvješćima društava za upravljanje fondovima i investicijskih fondova | [`pravilnik/1999/579/`](pravilnik/1999/579/) | in force | 1 | 1999-03-24 | 1999-03-24 |
 | Pravilnik o obveznom obliku i sadržaju tromjesečnih financijskih i poslovnih izvješća | [`pravilnik/1999/580/`](pravilnik/1999/580/) | amended, not consolidated | 1 | 1999-04-08 | 1999-04-08 |
+| Pravilnik o zaštiti kopnenih puževa (Gastropoda terrestria) | [`pravilnik/1999/596/`](pravilnik/1999/596/) | repealed, not consolidated | 1 | 1999-03-26 | 1999-03-26 |
+| Pravilnik o izmjenama i dopunama Pravilnika o unutarnjem redu u Parku prirode "Kopački rit | [`pravilnik/1999/597/`](pravilnik/1999/597/) | amending act | 1 | 1999-04-03 | 1999-04-03 |
+| Pravilnik o izmjenama i dopunama Pravilnika o vježbeničkom stažu stručnih djelatnika u ustanovama socijalne skrbi | [`pravilnik/1999/617/`](pravilnik/1999/617/) | amending act | 1 | 1999-04-06 | 1999-04-06 |
 | Pravilnik o izmjeni i dopuni Pravilnika o standardima i normativima prava iz obveznog zdravstvenog osiguranja za 1999. godinu | [`pravilnik/1999/625/`](pravilnik/1999/625/) | amending act | 1 | 1999-03-31 | 1999-03-31 |
 | Pravilnik o stručnom bankarskom ispitu | [`pravilnik/1999/642/`](pravilnik/1999/642/) | in force | 1 | 1999-04-10 | 1999-04-10 |
+| Pravilnik o izmjenama i dopunama Pravilnika o visini pristojbi za obvezne veterinarsko-sanitarne preglede i kontrole | [`pravilnik/1999/688/`](pravilnik/1999/688/) | amending act | 1 | 1999-04-14 | 1999-04-14 |
 | Pravilnik o izmjeni Pravilnika o privrednom i sportskom ribolovu, uzgoju riba i drugih morskih životinja, vađenju spužava, koralja, školjkaša i morskog bilja | [`pravilnik/1999/709/`](pravilnik/1999/709/) | in force | 1 | 1999-04-17 | 1999-04-17 |
 | Pravilnik o postupku i načinu utvrđivanja obveza Republike Hrvatske za mirovinsko osiguranje | [`pravilnik/1999/710/`](pravilnik/1999/710/) | in force | 1 | 1999-04-17 | 1999-04-17 |
+| Pravilnik o izmjenama Pravilnika o ortopedskim i drugim pomagalima | [`pravilnik/1999/712/`](pravilnik/1999/712/) | amended, not consolidated | 1 | 1999-04-17 | 1999-04-17 |
 | Pravilnik o kalendaru rada osnovnih škola za školsku godinu 1999./2000. | [`pravilnik/1999/739/`](pravilnik/1999/739/) | in force | 1 | 1999-04-20 | 1999-04-20 |
 | Pravilnik o početku i završetku nastave i trajanju odmora učenika srednjih škola u školskoj godini 1999./2000. | [`pravilnik/1999/740/`](pravilnik/1999/740/) | in force | 1 | 1999-04-20 | 1999-04-20 |
+| Pravilnik o temeljnim zahtjevima za kakvoću, pakiranje i deklariranje sjemena poljoprivrednog bilja | [`pravilnik/1999/743/`](pravilnik/1999/743/) | repealed, not consolidated | 1 | 1999-04-23 | 1999-04-23 |
+| Pravilnik o izmjenama i dopunama Pravilnika o vrstama i kategorijama plovnih objekata nautičkog turizma | [`pravilnik/1999/773/`](pravilnik/1999/773/) | amending act | 1 | 1999-04-28 | 1999-04-28 |
+| Pravilnik o izmjenama i dopunama Pravilnika o razvrstavanju, minimalnim uvjetima i kategorizaciji ugostiteljskih objekata | [`pravilnik/1999/791/`](pravilnik/1999/791/) | amended, not consolidated | 1 | 1999-05-01 | 1999-05-01 |
+| Pravilnik o temeljnim zahtjevima za jestiva ulja i masti, margarine i njima sličnim proizvodima, majoneze, umake, preljeve, salate i ostale proizvode na bazi jestivih ulja i masti | [`pravilnik/1999/792/`](pravilnik/1999/792/) | amended, not consolidated | 1 | 1999-05-01 | 1999-05-01 |
 | Pravilnik o izmjeni i dopuni Pravilnika o obrascu službene iskaznice i posebnoj oznaci ovlaštenih službenih osoba Carinske uprave Republike Hrvatske | [`pravilnik/1999/800/`](pravilnik/1999/800/) | amending act | 1 | 1999-05-05 | 1999-05-05 |
+| Pravilnik o graničnim vrijednostima pokazatelja, opasnih i drugih tvari u otpadnim vodama | [`pravilnik/1999/804/`](pravilnik/1999/804/) | amended, not consolidated | 1 | 1999-05-05 | 1999-05-05 |
 | Pravilnik o poslovanju društva za poslovanje vrijednosnim papirima kada izvan organiziranog tržišta kupuju dionice privatizacijskih investicijskih fondova | [`pravilnik/1999/812/`](pravilnik/1999/812/) | in force | 1 | 1999-04-27 | 1999-04-27 |
+| Pravilnik o vrsti sjemena koje se tretira prije stavljanja u promet ili prije upotrebe za vlastitu proizvodnju | [`pravilnik/1999/843/`](pravilnik/1999/843/) | cited later, not consolidated | 1 | 1999-05-11 | 1999-05-11 |
 | Pravilnik o izmjeni Pravilnika o vrsti i količini predmeta kućanstva i osobnih stvari koje se mogu uvoziti temeljem carinskih i poreznih povlastica useljenika i povratnika | [`pravilnik/1999/854/`](pravilnik/1999/854/) | in force | 1 | 1999-05-05 | 1999-05-05 |
 | Pravilnik o izmjenama i dopunama Pravilnika o vježbeničkom stažu veterinarskih djelatnika i načinu polaganja stručnog ispita | [`pravilnik/1999/868/`](pravilnik/1999/868/) | amending act | 1 | 1999-05-15 | 1999-05-15 |
 | Pravilnik o dopuni Pravilnika o visini naknade za koncesiju u javnim telekomunikacijama i načinu plaćanja | [`pravilnik/1999/887/`](pravilnik/1999/887/) | amending act | 1 | 1999-05-19 | 1999-05-19 |
+| Pravilnik o izmjenama i dopunama Pravilnika o uvjetima za davanje u zakup zdravstvenih ustanova primarne zdravstvene zaštite i lječilišta | [`pravilnik/1999/888/`](pravilnik/1999/888/) | amending act | 1 | 1999-05-19 | 1999-05-19 |
+| Pravilnik o kriterijima za utvrđivanje naknade šteta počinjenih ribama i drugim morskim organizmima | [`pravilnik/1999/901/`](pravilnik/1999/901/) | amended, not consolidated | 1 | 1999-05-22 | 1999-05-22 |
+| Pravilnik o izmjenama Pravilnika o zdravstvenoj kontroli bilja i kontroli sredstava za zaštitu bilja u prometu preko državne granice | [`pravilnik/1999/902/`](pravilnik/1999/902/) | amended, not consolidated | 1 | 1999-05-22 | 1999-05-22 |
+| Pravilnik o mjerilima za razvrstavanje otrova u skupine | [`pravilnik/1999/921/`](pravilnik/1999/921/) | repealed, not consolidated | 1 | 1999-05-25 | 1999-05-25 |
+| Pravilnik o osposobljavanju slijepe osobe za kretanje uz pomoć psa vodiča | [`pravilnik/1999/930/`](pravilnik/1999/930/) | cited later, not consolidated | 1 | 1999-05-26 | 1999-05-26 |
+| Pravilnik o uvjetima i načinu korištenja sredstava naknade koja se plaća zbog promjene namjene poljoprivrednog zemljišta | [`pravilnik/1999/946/`](pravilnik/1999/946/) | amended, not consolidated | 1 | 1999-05-21 | 1999-05-21 |
+| Pravilnik o izmjenama i dopunama Pravilnika o visini pristojbi za obvezne veterinarsko-sanitarne preglede i kontrole | [`pravilnik/1999/947/`](pravilnik/1999/947/) | amending act | 1 | 1999-05-29 | 1999-05-29 |
+| Pravilnik o stručnom nadzoru nad proizvodnjom poljoprivrednog sadnog materijala | [`pravilnik/1999/953/`](pravilnik/1999/953/) | amended, not consolidated | 1 | 1999-06-01 | 1999-06-01 |
+| Pravilnik o obvezama učitelja i stručnih suradnika u osnovnoj školi | [`pravilnik/1999/954/`](pravilnik/1999/954/) | amended, not consolidated | 1 | 1999-06-01 | 1999-06-01 |
+| Pravilnik o izmjeni i dopuni Pravilnika o načinu propisivanja, izdavanja i naplaćivanja lijekova | [`pravilnik/1999/958/`](pravilnik/1999/958/) | amending act | 1 | 1999-06-01 | 1999-06-01 |
 | Pravilnik o izmjeni i dopuni Pravilnika o uvjetima i načinu ostvarivanja prava iz obveznog zdravstvenog osiguranja za bolničko liječenje medicinskom rehabilitacijom i fizikalnom terapijom u kući | [`pravilnik/1999/960/`](pravilnik/1999/960/) | amending act | 1 | 1999-06-01 | 1999-06-01 |
+| Pravilnik o mjerilima za određivanje iznosa naknade za sklapanje braka izvan službene prostorije | [`pravilnik/1999/981/`](pravilnik/1999/981/) | repealed, not consolidated | 1 | 1999-06-05 | 1999-06-05 |
 | Pravilnik o određivanju daljinara i najmanjeg voznog vremena | [`pravilnik/1999/1030/`](pravilnik/1999/1030/) | replaced, not consolidated | 1 | 1999-06-08 | 1999-06-08 |
 | Pravilnik o uvjetima za dobivanje ovlaštenja za obavljanje poslova posredovanja i zastupanja u osiguranju (status ovlaštenog posrednika u osiguranju ili ovlaštenog zastupnika u osiguranju) | [`pravilnik/1999/1042/`](pravilnik/1999/1042/) | in force | 1 | 1999-06-10 | 1999-06-10 |
 | Pravilnik o uvjetima i načinu korištenja sredstava za kreditiranje razvitka i obnove poljoprivrede | [`pravilnik/1999/1045/`](pravilnik/1999/1045/) | repealed, not consolidated | 1 | 1999-06-02 | 1999-06-02 |
@@ -25351,7 +25376,7 @@
 | Pravilnik o Upisniku regionalnih koordinatora i lokalnih razvojnih agencija | [`pravilnik/2026/1490/`](pravilnik/2026/1490/) | in force | 1 | 2026-11-10 | 2026-11-10 |
 | Pravilnik o provedbi Programa potpore za provedbu jesenske sjetve u 2026. godini | [`pravilnik/2026/1522/`](pravilnik/2026/1522/) | in force | 1 | 2026-11-07 | 2026-11-07 |
 
-## statut (168, of which 23 amending acts)
+## statut (175, of which 23 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -25363,7 +25388,14 @@
 | Statut Saveza udruženja hrvatskih obrtnika | [`statut/1992/336/`](statut/1992/336/) | in force | 1 | 1992-04-02 | 1992-04-02 |
 | Statut Hrvatske kreditne banke za obnovu | [`statut/1992/1225/`](statut/1992/1225/) | in force | 1 | 1992-07-31 | 1992-07-31 |
 | Statut Nacionalnog odbora za preventivnu zaštitu i gašenje požara | [`statut/1994/1160/`](statut/1994/1160/) | in force | 1 | 1994-09-16 | 1994-09-16 |
+| Statut Hrvatske Odvjetničke Komore | [`statut/1995/542/`](statut/1995/542/) | amended, not consolidated | 1 | 1995-04-22 | 1995-04-22 |
+| Statut Komisije za vrijednosne papire Republike Hrvatske | [`statut/1997/1325/`](statut/1997/1325/) | amended, not consolidated | 1 | 1997-07-21 | 1997-07-21 |
+| Statut Hrvatskog zavoda za zapošljavanje | [`statut/1998/52/`](statut/1998/52/) | replaced, not consolidated | 1 | 1998-01-21 | 1998-01-21 |
+| Statut Hrvatske pučke stranke | [`statut/1998/593/`](statut/1998/593/) | replaced, not consolidated | 1 | 1997-12-28 | 1997-12-28 |
+| Statut Hrvatske obrtničke komore | [`statut/1999/458/`](statut/1999/458/) | amended, not consolidated | 1 | 1999-01-26 | 1999-01-26 |
+| Statut Hrvatske komore arhitekata i inženjera u graditeljstvu | [`statut/1999/813/`](statut/1999/813/) | amended, not consolidated | 1 | 1999-04-27 | 1999-04-27 |
 | Statut Akcije socijaldemokrata Hrvatske | [`statut/1999/1853/`](statut/1999/1853/) | in force | 1 | 1999-02-13 | 1999-02-13 |
+| Statut Hrvatskog zavoda za zapošljavanje | [`statut/1999/1915/`](statut/1999/1915/) | replaced, not consolidated | 1 | 1999-11-20 | 1999-11-20 |
 | Statut Hrvatske pučke stranke | [`statut/2001/1067/`](statut/2001/1067/) | cited later, not consolidated | 1 | 2001-04-28 | 2001-04-28 |
 | Statut Vijeća za regulaciju energetskih djelatnosti | [`statut/2002/1096/`](statut/2002/1096/) | in force | 1 | 2002-05-28 | 2002-05-28 |
 | Statut LIBRE - Stranke liberalnih demokrata | [`statut/2002/2019/`](statut/2002/2019/) | in force | 1 | 2002-09-21 | 2002-09-21 |
@@ -25524,7 +25556,7 @@
 | Statut političke stranke Dina Dogan - Nezavisna lista | [`statut/2026/887/`](statut/2026/887/) | amended, not consolidated | 1 | 2024-11-30 | 2024-11-30 |
 | Izmjene i dopuna Statuta Hrvatske komore socijalnih pedagoga | [`statut/2026/1299/`](statut/2026/1299/) | amending act | 1 | 2026-10-03 | 2026-10-03 |
 
-## uputa (35, of which 2 amending acts)
+## uputa (39, of which 3 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -25545,9 +25577,13 @@
 | Uputa o provođenju dijela Sporazuma koji se odnosi na plaće | [`uputa/1993/444/`](uputa/1993/444/) | in force | 1 | 1993-03-31 | 1993-03-31 |
 | Uputa o provođenju dijela Sporazuma koji se odnosi na ostala materijalna prava radnika | [`uputa/1993/445/`](uputa/1993/445/) | in force | 1 | 1993-03-31 | 1993-03-31 |
 | Uputa za primjenu Zakona o utvrđivanju ratne štete | [`uputa/1993/1040/`](uputa/1993/1040/) | in force | 1 | 1993-06-07 | 1993-06-07 |
+| Uputa o izmjeni Upute o načinu dostavljanja izvješća o ukupnom stanju i prometu devizne štednje domaćih fizičkih osoba | [`uputa/1995/862/`](uputa/1995/862/) | in force | 1 | 1995-06-30 | 1995-06-30 |
 | Uputa o popunjavanju obrazaca za registraciju kreditnih poslova s inozemstvom | [`uputa/1997/706/`](uputa/1997/706/) | in force | 1 | 1997-05-09 | 1997-05-09 |
+| Uputa o izmjenama i dopunama Upute za provođenje dijela programa statističkih istraživanja Republike Hrvatske koji se odnosi na plaće i materijalna prava zaposlenika u 1997. godini | [`uputa/1998/467/`](uputa/1998/467/) | amending act | 1 | 1998-03-18 | 1998-03-18 |
 | Uputa o izmjenama i dopunama Upute za provođenje dijela programa statističkih istraživanja Republike Hrvatske koji se odnosi na plaće i materijalna prava zaposlenika u 1997. godini | [`uputa/1999/555/`](uputa/1999/555/) | amending act | 1 | 1999-03-19 | 1999-03-19 |
 | Uputa o vođenju kreditnih spisa | [`uputa/1999/744/`](uputa/1999/744/) | in force | 1 | 1999-04-15 | 1999-04-15 |
+| Uputa za primjenu Uredbe o izmjenama i dopunama Zakona o platnom prometu u zemlji | [`uputa/1999/861/`](uputa/1999/861/) | amended, not consolidated | 1 | 1999-05-05 | 1999-05-05 |
+| Uputa o načinu i postupku izrade izvješća o stanju potraživanja iz inozemstva | [`uputa/1999/987/`](uputa/1999/987/) | repealed, not consolidated | 1 | 1999-05-28 | 1999-05-28 |
 | Uputa za jedinstvenu primjenu Odluke o načinu izračunavanja kapitala banke | [`uputa/2000/2319/`](uputa/2000/2319/) | cited later, not consolidated | 1 | 2000-12-08 | 2000-12-08 |
 | Uputa o upotrebi slovnih kratica i brojčanih oznaka za zemlje i novčane jedinice u platnom prometu s inozemstvom | [`uputa/2001/1840/`](uputa/2001/1840/) | repealed, not consolidated | 1 | 2001-12-22 | 2001-12-22 |
 | Uputa za provedbu članka 50. stavka 1. do 4. Zakona o platnom prometu u zemlji | [`uputa/2002/361/`](uputa/2002/361/) | in force | 1 | 2002-02-21 | 2002-02-21 |
@@ -25564,7 +25600,7 @@
 | Uputa o provedbi Odluke o obveznoj pričuvi | [`uputa/2014/2424/`](uputa/2014/2424/) | repealed, not consolidated | 1 | 2014-11-12 | 2014-11-12 |
 | Uputa za provedbu Odluke o obveznoj pričuvi | [`uputa/2015/2618/`](uputa/2015/2618/) | repealed, not consolidated | 1 | 2016-01-13 | 2016-01-13 |
 
-## uredba (3321, of which 709 amending acts)
+## uredba (3585, of which 745 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -25725,56 +25761,217 @@
 | Uredba o izmjeni i dopuni Uredbe o podmirivanju dospjelih neizmirenih obveza prema inozemnim kreditorima | [`uredba/1994/1700/`](uredba/1994/1700/) | amending act | 1 | 1994-12-30 | 1994-12-30 |
 | Uredba o izmjeni Uredbe o rasporedu dijela sredstava za sanaciju banaka | [`uredba/1994/1701/`](uredba/1994/1701/) | in force | 1 | 1994-12-30 | 1994-12-30 |
 | Uredba o poslovima kontrole letenja koji se obavljaju po nalogu Ministarstva obrane | [`uredba/1995/10/`](uredba/1995/10/) | in force | 1 | 1995-01-10 | 1995-01-10 |
+| Uredba o izmjenama i dopunama Zakona o lovu | [`uredba/1995/57/`](uredba/1995/57/) | amending act | 1 | 1995-01-23 | 1995-01-23 |
+| Uredbu o izmjeni Uredbe o privremenoj uporabi bonova pri prodaji naftnih derivata | [`uredba/1995/481/`](uredba/1995/481/) | in force | 1 | 1995-04-05 | 1995-04-05 |
 | Uredbu o prestanku primjenjivanja Uredbe o obračunavanju, plaćanju i povratu poreza na promet i posebnih poreza pri izvozu i provozu određnih proizvoda u zemlje za koje je potreban pojačni carinski na | [`uredba/1995/543/`](uredba/1995/543/) | in force | 1 | 1995-04-20 | 1995-04-20 |
+| Uredba o utvrđivanju položaja i zvanja službenika i poslova radnih mjesta namještenika u ustanovama kulture i razvrstavanju službenika i namještenika tih ustanova u platne razrede | [`uredba/1995/634/`](uredba/1995/634/) | amended, not consolidated | 1 | 1995-05-12 | 1995-05-12 |
+| Uredba o utvrđivanju mjesečnog dodatka uz mirovinu | [`uredba/1995/663/`](uredba/1995/663/) | amended, not consolidated | 1 | 1995-05-19 | 1995-05-19 |
+| Uredba o osnivanju centra za radnu terapiju osoba s oštećenjem u duševnom ili tjelesnom razvoju | [`uredba/1995/728/`](uredba/1995/728/) | cited later, not consolidated | 1 | 1995-06-01 | 1995-06-01 |
 | Uredba o kreditiranju obnove ratom oštećenih i razrušenih stambenih i gospodarskih objekata | [`uredba/1995/746/`](uredba/1995/746/) | in force | 1 | 1995-06-06 | 1995-06-06 |
+| Uredba o organiziranju i financiranju obnove ratom oštećenih obiteljskih kuća V. I VI. Stupnja oštećenja | [`uredba/1995/747/`](uredba/1995/747/) | amended, not consolidated | 1 | 1995-06-14 | 1995-06-14 |
+| Uredba o utvrđivanju mjesečnog dodatka uz mirovinu | [`uredba/1995/829/`](uredba/1995/829/) | amended, not consolidated | 1 | 1995-06-23 | 1995-06-23 |
+| Uredba o izmjenama Zakona o obrtu | [`uredba/1995/830/`](uredba/1995/830/) | in force | 1 | 1995-06-23 | 1995-06-23 |
+| Uredba o izmjenama i dopunama Zakona o standardizaciji | [`uredba/1995/853/`](uredba/1995/853/) | amending act | 1 | 1995-07-08 | 1995-07-08 |
 | Uredba o izmjenama i dopunama Uredbe o utvrđivanju položaja i zvanja službenika i poslova radnih mjesta namještenika u ustanovama kulture i razvrstavanju službenika i namještenika tih ustanova u platn | [`uredba/1995/854/`](uredba/1995/854/) | amending act | 1 | 1995-06-30 | 1995-06-30 |
 | Uredba o prestanku rada centara republičkih organa uprave | [`uredba/1995/855/`](uredba/1995/855/) | in force | 1 | 1995-07-08 | 1995-07-08 |
+| Uredba o stručnom osposobljavanju i usavršavanju državnih službenika | [`uredba/1995/869/`](uredba/1995/869/) | replaced, not consolidated | 1 | 1995-07-13 | 1995-07-13 |
+| Uredba o solidarnoj štednji za financiranje obnove i obrane i korištenju te štednje za kupnju dionica | [`uredba/1995/1002/`](uredba/1995/1002/) | repealed, not consolidated | 1 | 1995-07-17 | 1995-07-17 |
+| Uredba o utvrđivanju mjesečnog dodatka uz mirovinu | [`uredba/1995/1042/`](uredba/1995/1042/) | amended, not consolidated | 1 | 1995-07-28 | 1995-07-28 |
 | Uredba o prestanku važenja uredbe o solidarnoj štednji za financiranje obnove i obrane i korištenju te štednje za kupnju dionica | [`uredba/1995/1043/`](uredba/1995/1043/) | in force | 1 | 1995-07-28 | 1995-07-28 |
+| Uredba o utvrđivanju mjesečnog dodatka uz mirovinu | [`uredba/1995/1116/`](uredba/1995/1116/) | amended, not consolidated | 1 | 1995-08-25 | 1995-08-25 |
+| Uredba o izmjeni Uredbe o uredu za međunacionalne odnose | [`uredba/1995/1131/`](uredba/1995/1131/) | in force | 1 | 1995-09-01 | 1995-09-01 |
+| Uredba o utvrđivanju mjesečnog dodatka uz mirovinu | [`uredba/1995/1171/`](uredba/1995/1171/) | amended, not consolidated | 1 | 1995-09-15 | 1995-09-15 |
+| Uredba o ograničenju u uporabi radijskih frekvencija | [`uredba/1995/1172/`](uredba/1995/1172/) | replaced, not consolidated | 1 | 1995-09-23 | 1995-09-23 |
 | Uredba o osnivanju Zavoda za rehabilitaciju "Samaritanac" u Splitu | [`uredba/1995/1182/`](uredba/1995/1182/) | in force | 1 | 1995-09-20 | 1995-09-20 |
+| Uredba o davanju koncesije za izgradnju i korištenje "Jadranske autoceste"dionica Dragonja - Pula i Kanfanar-Pazin - Matulji | [`uredba/1995/1209/`](uredba/1995/1209/) | amended, not consolidated | 1 | 1995-09-25 | 1995-09-25 |
 | Uredba o izmjeni uredbe o privremenoj uporabi bonova pri prodaji naftnih derivata | [`uredba/1995/1279/`](uredba/1995/1279/) | in force | 1 | 1995-09-29 | 1995-09-29 |
+| Uredba o povratku prognanika i izbjeglica na oslobođena područja | [`uredba/1995/1346/`](uredba/1995/1346/) | amended, not consolidated | 1 | 1995-10-18 | 1995-10-18 |
+| Uredba o dugoročnom zaduženju Republike Hrvatske kod Narodne banke Hrvatske | [`uredba/1995/1368/`](uredba/1995/1368/) | replaced, not consolidated | 1 | 1995-10-20 | 1995-10-20 |
+| Uredba o utvrđivanju položaja zvanja službenika i radnih mjesta namještenika u osnovnim i srednjim školama i učeničkim domovima i o razvrstavanju službenika i namještenika tih ustanova u platne razred | [`uredba/1995/1391/`](uredba/1995/1391/) | cited later, not consolidated | 1 | 1995-10-25 | 1995-10-25 |
+| Uredba o utvrđivanju mjesečnog dodatka uz mirovinu | [`uredba/1995/1399/`](uredba/1995/1399/) | amended, not consolidated | 1 | 1995-10-26 | 1995-10-26 |
+| Uredba o uništenju novčanica koje glase na dinare bivše SFRJ | [`uredba/1995/1400/`](uredba/1995/1400/) | repealed, not consolidated | 1 | 1995-10-26 | 1995-10-26 |
 | Uredba o produženju važenja uredbi koje je Vlada Repubilke Hrvatske donijela na temelju zakonske ovlasti nakon 26. Rujna 1995. Godine | [`uredba/1995/1404/`](uredba/1995/1404/) | in force | 1 | 1995-10-28 | 1995-10-28 |
+| Uredba o izmjenama Zakona o obrtu | [`uredba/1995/1405/`](uredba/1995/1405/) | amended, not consolidated | 1 | 1995-10-27 | 1995-10-27 |
+| Uredba o održavanju građevina od važnosti za Republiku Hrvatsku | [`uredba/1995/1423/`](uredba/1995/1423/) | cited later, not consolidated | 1 | 1995-11-15 | 1995-11-15 |
 | Uredba o raspolaganju dionicama i udjelima koje je Hrvatski fond za privatizaciju stekao temeljem Zakona o pretvorbi društvenih poduzeća | [`uredba/1995/1519/`](uredba/1995/1519/) | in force | 1 | 1995-11-22 | 1995-11-22 |
+| Uredba o izmjeni Uredbe o sjedištu i području na kojem se osnivaju policijske uprave | [`uredba/1995/1520/`](uredba/1995/1520/) | amended, not consolidated | 1 | 1995-11-22 | 1995-11-22 |
 | Uredba o prestanku važenja Uredbe agenciji za učinkovito korištenje i štednju energije | [`uredba/1995/1521/`](uredba/1995/1521/) | in force | 1 | 1995-11-22 | 1995-11-22 |
+| Uredba o utvrđivanju mjesečnog dodatka uz mirovinu | [`uredba/1995/1552/`](uredba/1995/1552/) | amended, not consolidated | 1 | 1995-11-24 | 1995-11-24 |
 | Uredba o izmjeni Uredbe o organiziranju i financiranju obnove ratom oštećenih obiteljskih kuća V. i VI. stupnja oštećenja | [`uredba/1995/1553/`](uredba/1995/1553/) | in force | 1 | 1995-11-24 | 1995-11-24 |
+| Uredba o sustavu glavne knjige riznice te načinu vođenja jedinstvenog računa riznice | [`uredba/1995/1594/`](uredba/1995/1594/) | cited later, not consolidated | 1 | 1995-12-09 | 1995-12-09 |
 | Uredba o posebnim uvjetima za osnivanje društva | [`uredba/1995/1652/`](uredba/1995/1652/) | in force | 1 | 1995-12-08 | 1995-12-08 |
 | Uredba o otkaznim i otpusnim rokovima za državne službenike | [`uredba/1995/1653/`](uredba/1995/1653/) | in force | 1 | 1995-12-16 | 1995-12-16 |
+| Uredba o izmjenama i dopunama uredbe o izvršavanju radne obveze | [`uredba/1995/1661/`](uredba/1995/1661/) | amending act | 1 | 1995-12-21 | 1995-12-21 |
+| Uredba o izmjenama i dopunama uredbe o uredu za upravljanje imovinom Republike Hrvatske | [`uredba/1995/1727/`](uredba/1995/1727/) | amending act | 1 | 1995-12-18 | 1995-12-18 |
+| Uredba o osnovici za ostvarivanje prava po osnovi socijalne sigurnosti | [`uredba/1995/1752/`](uredba/1995/1752/) | replaced, not consolidated | 1 | 1995-12-22 | 1995-12-22 |
+| Uredba o utvrđivanju mjesečnog dodatka uz mirovinu | [`uredba/1995/1753/`](uredba/1995/1753/) | amended, not consolidated | 1 | 1995-12-22 | 1995-12-22 |
+| Uredba o izmjenama i dopunama zakona o Hrvatskoj garancijskoj agenciji | [`uredba/1995/1754/`](uredba/1995/1754/) | amending act | 1 | 1995-12-22 | 1995-12-22 |
+| Uredba o dopuni Zakona o sanaciji određenih poduzeća | [`uredba/1995/1794/`](uredba/1995/1794/) | amended, not consolidated | 1 | 1995-12-29 | 1995-12-29 |
+| Uredba o izmjenama i dopunama Zakona o komunalnom gospodarstvu | [`uredba/1995/1795/`](uredba/1995/1795/) | amended, not consolidated | 1 | 1995-12-29 | 1995-12-29 |
+| Uredba o osnovici za ostvarivanje prava i obveza iz obveznog zdravstvenog osiguranja | [`uredba/1995/1796/`](uredba/1995/1796/) | replaced, not consolidated | 1 | 1995-12-29 | 1995-12-29 |
+| Uredba o privremenoj uporabi bonova pri prodaji naftnih derivata | [`uredba/1996/6/`](uredba/1996/6/) | replaced, not consolidated | 1 | 1996-01-05 | 1996-01-05 |
+| Uredba o Uredu privremene uprave za uspostavu hrvatske vlasti na području Istočne Slavonije, Baranje i Zapadnog Srijema | [`uredba/1996/7/`](uredba/1996/7/) | repealed, not consolidated | 1 | 1996-01-05 | 1996-01-05 |
+| Uredba o utvrđivanju mjesečnog dodatka uz mirovinu | [`uredba/1996/122/`](uredba/1996/122/) | amended, not consolidated | 1 | 1996-01-31 | 1996-01-31 |
+| Uredba o osnivanju Hrvatskog zavoda za medicinu rada | [`uredba/1996/140/`](uredba/1996/140/) | amended, not consolidated | 1 | 1996-02-06 | 1996-02-06 |
+| Uredba o dopuni Uredbe o povratku prognanika i izbjeglica na oslobođena područja | [`uredba/1996/183/`](uredba/1996/183/) | amending act | 1 | 1996-02-14 | 1996-02-14 |
+| Uredba o izmjenama i dopunama Zakona o novčanim poticajima i naknadama u poljoprivredi i ribarstvu | [`uredba/1996/237/`](uredba/1996/237/) | amending act | 1 | 1996-02-23 | 1996-02-23 |
+| Uredba o utvrđivanju mjesečnog dodatka uz mirovinu | [`uredba/1996/238/`](uredba/1996/238/) | replaced, not consolidated | 1 | 1996-02-23 | 1996-02-23 |
+| Uredba o graničnoj svoti najnižeg mirovinskog primanja | [`uredba/1996/314/`](uredba/1996/314/) | repealed, not consolidated | 1 | 1996-03-06 | 1996-03-06 |
+| Uredba o osnivanju Zavoda za vinogradarstvo i vinarstvo | [`uredba/1996/406/`](uredba/1996/406/) | repealed, not consolidated | 1 | 1996-03-20 | 1996-03-20 |
+| Uredba o izmjenama i dopunama Uredbe o ustrojavanju županijskih ureda | [`uredba/1996/419/`](uredba/1996/419/) | amending act | 1 | 1996-03-22 | 1996-03-22 |
+| Uredba o izmjeni Zakona o bankama i štedionicama | [`uredba/1996/442/`](uredba/1996/442/) | in force | 1 | 1996-03-26 | 1996-03-26 |
+| Uredba o izmjenama i dopunama Zakona o platnom prometu u zemlji | [`uredba/1996/443/`](uredba/1996/443/) | amended, not consolidated | 1 | 1996-03-26 | 1996-03-26 |
 | Uredba o izmjeni Uredbe o izmjenama Zakona o obrtu | [`uredba/1996/444/`](uredba/1996/444/) | in force | 1 | 1996-03-26 | 1996-03-26 |
+| Uredba o potraživanjima prema poduzećima i drugim pravnim osobama s područja Republike Hrvatske oslobođenim akcijama "Bljesak" i "Oluja" | [`uredba/1996/445/`](uredba/1996/445/) | cited later, not consolidated | 1 | 1996-03-26 | 1996-03-26 |
+| Uredba o plaćanju naknada za korištenje radnih dozvola iz kontingenata radnih dozvola za SR Njemačku | [`uredba/1996/446/`](uredba/1996/446/) | repealed, not consolidated | 1 | 1996-03-26 | 1996-03-26 |
+| Uredba o osnovici za ostvarivanje prava po osnovi socijalne sigurnosti | [`uredba/1996/447/`](uredba/1996/447/) | repealed, not consolidated | 1 | 1996-03-26 | 1996-03-26 |
+| Uredba o povlasticama u unutarnjem putničkom prometu | [`uredba/1996/448/`](uredba/1996/448/) | amended, not consolidated | 1 | 1996-03-26 | 1996-03-26 |
+| Uredba o utvrđivanju mjesečnog dodatka uz mirovinu | [`uredba/1996/449/`](uredba/1996/449/) | replaced, not consolidated | 1 | 1996-03-26 | 1996-03-26 |
+| Uredba o korištenju sredstava amortizacije stanova i stambenih zgrada | [`uredba/1996/450/`](uredba/1996/450/) | amended, not consolidated | 1 | 1996-03-26 | 1996-03-26 |
 | Uredba o uništenju novčanica koje glase na dinare bivše SFRJ | [`uredba/1996/451/`](uredba/1996/451/) | in force | 1 | 1996-03-26 | 1996-03-26 |
+| Uredba o provođenju rezolucija Vijeća sigurnosti Ujedinjenih naroda u svezi sa sankcijama protiv Libijske Arapske Džamahirije | [`uredba/1996/460/`](uredba/1996/460/) | amended, not consolidated | 1 | 1996-03-29 | 1996-03-29 |
+| Uredba o postupku nabave roba i usluga i ustupanju radova | [`uredba/1996/464/`](uredba/1996/464/) | amended, not consolidated | 1 | 1996-03-29 | 1996-03-29 |
+| Uredba o pravima povratnika | [`uredba/1996/466/`](uredba/1996/466/) | amended, not consolidated | 1 | 1996-03-29 | 1996-03-29 |
 | Uredba o izmjeni i dopuni Uredbe o načelime za unutarnje ustrojstvo i o radnom vremenu tijela državne uprave | [`uredba/1996/468/`](uredba/1996/468/) | amending act | 1 | 1996-03-29 | 1996-03-29 |
+| Uredba o utvrđivanju mjesečnog dodatka uz mirovinu | [`uredba/1996/641/`](uredba/1996/641/) | replaced, not consolidated | 1 | 1996-04-24 | 1996-04-24 |
 | Uredba o dopunama Uredbe o podmirivanju dospjelih neizmirenih obveza prema inozemnim kreditorima | [`uredba/1996/642/`](uredba/1996/642/) | amending act | 1 | 1996-04-24 | 1996-04-24 |
+| Uredba o izmjeni Zakona o novčanim poticajima i naknadama u poljoprivredi i ribarstvu | [`uredba/1996/679/`](uredba/1996/679/) | in force | 1 | 1996-04-30 | 1996-04-30 |
 | Uredba o gospodarenju šumama u oslobođenim akcijama "Bljesak" i "Oluja" | [`uredba/1996/681/`](uredba/1996/681/) | in force | 1 | 1996-05-08 | 1996-05-08 |
+| Uredba o uvjetima odobravanja kredita i zajmova određenih pravnih osoba | [`uredba/1996/708/`](uredba/1996/708/) | replaced, not consolidated | 1 | 1996-05-08 | 1996-05-08 |
+| Uredba o Uredu za prognanike i izbjeglice | [`uredba/1996/709/`](uredba/1996/709/) | amended, not consolidated | 1 | 1996-05-16 | 1996-05-16 |
+| Uredba o osnivanju Javne ustanove "Park prirode Lonjsko Polje" | [`uredba/1996/710/`](uredba/1996/710/) | amended, not consolidated | 1 | 1996-05-08 | 1996-05-08 |
+| Uredba o visini stope zatezne kamate | [`uredba/1996/711/`](uredba/1996/711/) | repealed, not consolidated | 1 | 1996-05-08 | 1996-05-08 |
 | Uredba o izmjenama Uredbe o Uredu za UNPROFOR i Promatračku misiju EZ | [`uredba/1996/712/`](uredba/1996/712/) | in force | 1 | 1996-05-08 | 1996-05-08 |
+| Uredba o ukidanju određenih zabrana iz Zakona o provođenju Rezolucije Vijeća sigurnosti Ujedinjenih naroda u svezi sa sankcijama protiv tzv. SRJ (Srbije i Crne Gore) | [`uredba/1996/728/`](uredba/1996/728/) | in force | 1 | 1996-05-10 | 1996-05-10 |
 | Uredba o prestanku važenja uredbi sa zakonskom snagom | [`uredba/1996/755/`](uredba/1996/755/) | in force | 1 | 1996-05-14 | 1996-05-14 |
+| Uredba o utvrđivanju mjesečnog dodatka uz mirovinu | [`uredba/1996/802/`](uredba/1996/802/) | replaced, not consolidated | 1 | 1996-05-21 | 1996-05-21 |
+| Uredba o osnivanju Visoke zdravstvene škole | [`uredba/1996/816/`](uredba/1996/816/) | amended, not consolidated | 1 | 1996-05-24 | 1996-05-24 |
+| Uredba o osnivanju Hrvatske agencije za promicanje ulaganja | [`uredba/1996/876/`](uredba/1996/876/) | amended, not consolidated | 1 | 1996-06-12 | 1996-06-12 |
+| Uredba o utvrđivanju mjesečnog dodatka uz mirovinu | [`uredba/1996/908/`](uredba/1996/908/) | replaced, not consolidated | 1 | 1996-06-12 | 1996-06-12 |
+| Uredba o dopuni Uredbe o utvrđivanju položaja i zvanja službenika i poslova radnih mjesta namještenika u ustanovama kulture i razvrstavanju službenika i namještenika tih ustanova u platne razrede | [`uredba/1996/940/`](uredba/1996/940/) | amending act | 1 | 1996-06-18 | 1996-06-18 |
+| Uredba o dopunama Zakona o platnom prometu u zemlji | [`uredba/1996/948/`](uredba/1996/948/) | amended, not consolidated | 1 | 1996-06-21 | 1996-06-21 |
 | Uredba o uvjetima za dodjelu koncesija za obavljanje lučkih djelatnosti | [`uredba/1996/972/`](uredba/1996/972/) | in force | 1 | 1996-07-06 | 1996-07-06 |
+| Uredba o utvrđivanju mjesečnog dodatka uz mirovinu | [`uredba/1996/1177/`](uredba/1996/1177/) | replaced, not consolidated | 1 | 1996-07-15 | 1996-07-15 |
 | Uredba o privremenoj uporabi bonova pri prodaji naftnih derivata | [`uredba/1996/1178/`](uredba/1996/1178/) | in force | 1 | 1996-07-15 | 1996-07-15 |
+| Uredba o Uredu za suradnju s Međunarodnim kaznenim sudom | [`uredba/1996/1192/`](uredba/1996/1192/) | amended, not consolidated | 1 | 1996-07-19 | 1996-07-19 |
+| Uredba o mjerilima i postupku osnivanja služnosti plodouživanja | [`uredba/1996/1193/`](uredba/1996/1193/) | amended, not consolidated | 1 | 1996-07-27 | 1996-07-27 |
+| Uredba o položajnim dodacima ovlaštenih državnih revizora u Državnom uredu za reviziju | [`uredba/1996/1194/`](uredba/1996/1194/) | cited later, not consolidated | 1 | 1996-07-19 | 1996-07-19 |
 | Uredba o izdavanju obveznica Republike Hrvatske radi zamjene dijela duga koji preuzima Republika Hrvatska po Novom financijskom sporazumu iz 1988. godine | [`uredba/1996/1258/`](uredba/1996/1258/) | in force | 1 | 1996-07-30 | 1996-07-30 |
+| Uredba o utvrđivanju mjesečnog dodatka uz mirovinu | [`uredba/1996/1326/`](uredba/1996/1326/) | replaced, not consolidated | 1 | 1996-08-30 | 1996-08-30 |
 | Uredba o privremenom neprimjenjivanju Zakona o provođenju rezolucija Vijeća sigurnosti Ujedinjenih naroda u svezi sa sankcijama protiv tzv. SRJ (Srbije i Crne Gore) | [`uredba/1996/1351/`](uredba/1996/1351/) | in force | 1 | 1996-09-11 | 1996-09-11 |
+| Uredba o visini stope zatezne kamate | [`uredba/1996/1352/`](uredba/1996/1352/) | replaced, not consolidated | 1 | 1996-09-11 | 1996-09-11 |
+| Uredba o utvrđivanju mjesečnog dodatka uz mirovinu | [`uredba/1996/1365/`](uredba/1996/1365/) | replaced, not consolidated | 1 | 1996-09-13 | 1996-09-13 |
+| Uredba o graničnoj svoti najnižeg mirovinskog primanja | [`uredba/1996/1366/`](uredba/1996/1366/) | replaced, not consolidated | 1 | 1996-09-13 | 1996-09-13 |
+| Uredba o izmjeni tarife Zakona o upravnim pristojbama | [`uredba/1996/1367/`](uredba/1996/1367/) | amended, not consolidated | 1 | 1996-09-12 | 1996-09-12 |
+| Uredba o graničnoj svoti najnižeg mirovinskog primanja | [`uredba/1996/1394/`](uredba/1996/1394/) | cited later, not consolidated | 1 | 1996-09-27 | 1996-09-27 |
 | Uredba o izmjenama Zakona o obrtu | [`uredba/1996/1434/`](uredba/1996/1434/) | in force | 1 | 1996-10-04 | 1996-10-04 |
+| Uredba o utvrđivanju mjesečnog dodatka uz mirovinu | [`uredba/1996/1511/`](uredba/1996/1511/) | replaced, not consolidated | 1 | 1996-10-11 | 1996-10-11 |
+| Uredba o izmjeni Uredbe o osnivanju zavoda za vinogradarstvo i vinarstvo | [`uredba/1996/1512/`](uredba/1996/1512/) | in force | 1 | 1996-10-11 | 1996-10-11 |
+| Uredba o izmjeni Uredbe o Hrvatskom stočarsko selekcijskom centru | [`uredba/1996/1618/`](uredba/1996/1618/) | in force | 1 | 1996-11-06 | 1996-11-06 |
+| Uredba o graničnim prijelazima u Republici Hrvatskoj | [`uredba/1996/1928/`](uredba/1996/1928/) | repealed, not consolidated | 1 | 1996-11-20 | 1996-11-20 |
+| Uredba o uvjetima i postupku za dodjelu koncesija na vodama i javnom vodnom dobru | [`uredba/1996/1938/`](uredba/1996/1938/) | amended, not consolidated | 1 | 1996-12-04 | 1996-12-04 |
 | Uredba o utvrđivanju mjesečnog dodatka uz mirovinu | [`uredba/1996/1939/`](uredba/1996/1939/) | in force | 1 | 1996-11-26 | 1996-11-26 |
+| Uredba o preporučenim i graničnim vrijednostima kakvoće zraka | [`uredba/1996/1971/`](uredba/1996/1971/) | amended, not consolidated | 1 | 1996-12-07 | 1996-12-07 |
 | Uredba o stavljanju izvan snage uredbi iz oblasti pravosuđa | [`uredba/1996/1993/`](uredba/1996/1993/) | in force | 1 | 1996-12-06 | 1996-12-06 |
 | Uredba o podjeli Hrvatskoga filološkoga instituta, Zagreb | [`uredba/1996/1996/`](uredba/1996/1996/) | in force | 1 | 1996-12-06 | 1996-12-06 |
+| Uredba o osnovici za ostvarivanje prava po osnovi socijalne skrbi | [`uredba/1996/2006/`](uredba/1996/2006/) | repealed, not consolidated | 1 | 1996-12-11 | 1996-12-11 |
 | UREDBU O OSNIVANJU VELEUČILIŠTA U DUBROVNIKU | [`uredba/1996/2053/`](uredba/1996/2053/) | in force | 1 | 1996-12-20 | 1996-12-20 |
+| Uredba o postupku dodjele koncesije i načinu određivanja granice za luke posebne namjene | [`uredba/1996/2105/`](uredba/1996/2105/) | cited later, not consolidated | 1 | 1996-12-31 | 1996-12-31 |
+| Uredba o izmjenama i dopunama Uredbe o računovodstvu proračuna | [`uredba/1996/2106/`](uredba/1996/2106/) | amending act | 1 | 1996-12-23 | 1996-12-23 |
+| Uredba o davanju ovlasti Fondu u stambenom gospodarstvu | [`uredba/1996/2170/`](uredba/1996/2170/) | repealed, not consolidated | 1 | 1996-12-31 | 1996-12-31 |
+| Uredba o spajanju javnih ustanova restauratorske djelatnosti | [`uredba/1997/27/`](uredba/1997/27/) | amended, not consolidated | 1 | 1997-01-09 | 1997-01-09 |
 | Uredba o prestanku važenja Uredbe o podmirivanju dospjelih neizmirenih obveza prema inozemnim kreditorima ("Narodne novine", br. 25/96 | [`uredba/1997/86/`](uredba/1997/86/) | in force | 1 | 1997-01-22 | 1997-01-22 |
+| Uredba o Hrvatskom zavodu za poljoprivrednu savjetodavnu službu | [`uredba/1997/87/`](uredba/1997/87/) | repealed, not consolidated | 1 | 1997-01-22 | 1997-01-22 |
 | Uredba o izmjeni Uredbe o mjerilima i postupku osnivanja služnosti plodouživanja | [`uredba/1997/88/`](uredba/1997/88/) | in force | 1 | 1997-01-30 | 1997-01-30 |
+| Uredba o uvjetima za osnivanje i rad predstavništava stranih osoba u Republici Hrvatskoj | [`uredba/1997/104/`](uredba/1997/104/) | repealed, not consolidated | 1 | 1997-02-01 | 1997-02-01 |
+| Uredba o uvjetima za izdavanje suglasnosti za obavljanje stručnih poslova zaštite okoliša | [`uredba/1997/105/`](uredba/1997/105/) | repealed, not consolidated | 1 | 1997-02-01 | 1997-02-01 |
+| Uredba o osnovici za ostvarivanje prava po osnovi socijalne skrbi | [`uredba/1997/115/`](uredba/1997/115/) | repealed, not consolidated | 1 | 1997-01-28 | 1997-01-28 |
 | Uredba o Uredu za priopćavanje Vlade Republike Hrvatske | [`uredba/1997/116/`](uredba/1997/116/) | in force | 1 | 1997-01-28 | 1997-01-28 |
 | Uredba o izmjeni Uredbe o Hrvatskom stočarsko selekcijskom centru | [`uredba/1997/162/`](uredba/1997/162/) | in force | 1 | 1997-02-08 | 1997-02-08 |
 | Uredba o izmjeni Uredbe o osnivanju Zavoda za vinogradarstvo i vinarstvo | [`uredba/1997/163/`](uredba/1997/163/) | in force | 1 | 1997-02-08 | 1997-02-08 |
+| Uredba o usmjerenju sredstava za stambeno zbrinjavanje hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji | [`uredba/1997/263/`](uredba/1997/263/) | cited later, not consolidated | 1 | 1997-02-26 | 1997-02-26 |
+| Uredba o plaćanju naknada za korištenje radnih dozvola iz kontingenata dozvola za SR Njemačku | [`uredba/1997/327/`](uredba/1997/327/) | cited later, not consolidated | 1 | 1997-03-03 | 1997-03-03 |
+| Uredba o izmjenama i dopunama Zakona o Hrvatskoj garancijskoj agenciji | [`uredba/1997/429/`](uredba/1997/429/) | amending act | 1 | 1997-03-19 | 1997-03-19 |
+| Uredba o izmjenama i dopunama Zakona o platnom prometu u zemlji | [`uredba/1997/455/`](uredba/1997/455/) | amended, not consolidated | 1 | 1997-03-26 | 1997-03-26 |
+| Uredba o uvjetima odobravanja kredita i zajmova određenih pravnih osoba | [`uredba/1997/456/`](uredba/1997/456/) | amended, not consolidated | 1 | 1997-03-26 | 1997-03-26 |
+| Uredba o potraživanjima prema poduzećima i drugim pravnim osobama s područja Republike Hrvatske oslobođenim akcijama "Bljesak" i "Oluja" i područja istočne Hrvatske koja su u postupku mirne reinte | [`uredba/1997/457/`](uredba/1997/457/) | in force | 1 | 1997-03-26 | 1997-03-26 |
+| Uredba o provođenju rezolucije Vijeća sigurnosti Ujedinjenih naroda u svezi sa sankcijama protiv Socijalističke Narodne Libijske Arapske Džamahirije | [`uredba/1997/458/`](uredba/1997/458/) | replaced, not consolidated | 1 | 1997-03-26 | 1997-03-26 |
+| Uredba o pravima povratnika | [`uredba/1997/480/`](uredba/1997/480/) | amended, not consolidated | 1 | 1997-03-28 | 1997-03-28 |
+| Uredba o postupku nabave roba i usluga i ustupanju radova | [`uredba/1997/481/`](uredba/1997/481/) | repealed, not consolidated | 1 | 1997-03-28 | 1997-03-28 |
+| Uredba o dopuni Zakona o sanaciji određenih poduzeča | [`uredba/1997/482/`](uredba/1997/482/) | amending act | 1 | 1997-03-28 | 1997-03-28 |
+| Uredba o povlasticama u unutarnjem putničkom prometu | [`uredba/1997/483/`](uredba/1997/483/) | repealed, not consolidated | 1 | 1997-03-28 | 1997-03-28 |
 | Uredba o izmjeni i dopuni Zakona o priznavanju novostvorenih, odobravanju uvođenja u proizvodnju stranih i zaštiti sorti poljoprivrednog i šumskog bilja | [`uredba/1997/484/`](uredba/1997/484/) | amending act | 1 | 1997-03-28 | 1997-03-28 |
+| Uredba o izmjenama i dopunama Zakona o lovu | [`uredba/1997/485/`](uredba/1997/485/) | amending act | 1 | 1997-03-28 | 1997-03-28 |
 | Uredba o gospodarenju šumama oslobođenih akcijama "Bljesak" i "Olu | [`uredba/1997/486/`](uredba/1997/486/) | in force | 1 | 1997-03-28 | 1997-03-28 |
+| Uredba o procjeni utjecaja na okoliš | [`uredba/1997/500/`](uredba/1997/500/) | amended, not consolidated | 1 | 1997-04-10 | 1997-04-10 |
 | Uredba o izmjeni Uredbe o osnivanju Hrvatskog informativno-kulturnog zavoda | [`uredba/1997/501/`](uredba/1997/501/) | in force | 1 | 1997-04-02 | 1997-04-02 |
+| Uredba o mjerilima za stambeno zbrinjavanje HRVI Domovinskog rata i članova obitelji poginuloga, umrloga, zatočenoga ili nestaloga hrvatskog branitelja | [`uredba/1997/526/`](uredba/1997/526/) | amended, not consolidated | 1 | 1997-04-07 | 1997-04-07 |
+| Uredba o osnivanju Veleučilišta u Karlovcu | [`uredba/1997/563/`](uredba/1997/563/) | amended, not consolidated | 1 | 1997-04-16 | 1997-04-16 |
+| Uredba o osnivanju Visoke učiteljske škole u Čakovcu | [`uredba/1997/564/`](uredba/1997/564/) | amended, not consolidated | 1 | 1997-04-16 | 1997-04-16 |
+| Uredba o osnivanju Visoke učiteljske škole u Petrinji | [`uredba/1997/565/`](uredba/1997/565/) | amended, not consolidated | 1 | 1997-04-16 | 1997-04-16 |
+| Uredba o osnivanju Visoke škole za turizam u Šibeniku | [`uredba/1997/566/`](uredba/1997/566/) | repealed, not consolidated | 1 | 1997-04-16 | 1997-04-16 |
 | Uredba o određenim pravima osoba izabranih na dužnosti u jedinicama lokalne samouprave i jedinicama lokalne uprave i samouprave | [`uredba/1997/592/`](uredba/1997/592/) | in force | 1 | 1997-04-21 | 1997-04-21 |
+| Uredba o Agenciji za posredovanje u prometu određenim nekretninama | [`uredba/1997/650/`](uredba/1997/650/) | repealed, not consolidated | 1 | 1997-04-24 | 1997-04-24 |
 | Uredba o osnivanju Hrvatskog zavoda za zaštitu od zračenja | [`uredba/1997/757/`](uredba/1997/757/) | in force | 1 | 1997-05-24 | 1997-05-24 |
 | Uredba o ukidanju Ureda privremene uprave za uspostavu hrvatske vlasti na području istočne Slavonije, Baranje i zapadnog Srijema | [`uredba/1997/822/`](uredba/1997/822/) | in force | 1 | 1997-05-27 | 1997-05-27 |
+| Uredba o početku rada županijskih uprava za ceste i društava kapitala iz Zakona o javnim cestama | [`uredba/1997/842/`](uredba/1997/842/) | repealed, not consolidated | 1 | 1997-06-04 | 1997-06-04 |
+| Uredba o dopuni Uredbe o Agenciji za posredovanje u prometu određenim nekretninama | [`uredba/1997/982/`](uredba/1997/982/) | amending act | 1 | 1997-06-19 | 1997-06-19 |
+| Uredba o održavanju zgrada | [`uredba/1997/1002/`](uredba/1997/1002/) | cited later, not consolidated | 1 | 1997-06-25 | 1997-06-25 |
 | Uredba o prestanku rada Fonda u stambenom gospodarstvu | [`uredba/1997/1003/`](uredba/1997/1003/) | in force | 1 | 1997-06-25 | 1997-06-25 |
+| Uredba o izmjenama uredbe o pravima povratnika | [`uredba/1997/1192/`](uredba/1997/1192/) | in force | 1 | 1997-07-04 | 1997-07-04 |
+| Uredba o izmjenama i dopunama Zakona o boravišnoj pristojbi | [`uredba/1997/1214/`](uredba/1997/1214/) | amending act | 1 | 1997-07-15 | 1997-07-15 |
+| Uredba o sjedištu i području na kojem se osnivaju policijske uprave | [`uredba/1997/1215/`](uredba/1997/1215/) | repealed, not consolidated | 1 | 1997-07-07 | 1997-07-07 |
+| Uredba o roku za podnošenje zahtjeva za obnovu te o popravku i opremanju obiteljskih kuća i stanova u hrvatskom Podunavlju | [`uredba/1997/1479/`](uredba/1997/1479/) | amended, not consolidated | 1 | 1997-09-10 | 1997-09-10 |
+| Uredba o izmjenama i dopunama Zakona o upravnim pristojbama | [`uredba/1997/1485/`](uredba/1997/1485/) | amending act | 1 | 1997-09-20 | 1997-09-20 |
+| Uredba o izmjenama i dopunama Uredbe o ustrojavanju županijskih ureda | [`uredba/1997/1506/`](uredba/1997/1506/) | amending act | 1 | 1997-09-24 | 1997-09-24 |
+| Uredba o osnivanju Javne ustanove "Park prirode Kopački rit | [`uredba/1997/1507/`](uredba/1997/1507/) | amended, not consolidated | 1 | 1997-09-16 | 1997-09-16 |
 | Uredba o osnivanju Hrvatskog zavoda za toksikologiju | [`uredba/1997/1574/`](uredba/1997/1574/) | in force | 1 | 1997-10-07 | 1997-10-07 |
+| Uredba o Državnoj ergeli lipicanaca | [`uredba/1997/1575/`](uredba/1997/1575/) | amended, not consolidated | 1 | 1997-09-29 | 1997-09-29 |
 | Uredba o početku rada županijskih uprava za ceste i društava kapitala iz Zakona o javnim cestama | [`uredba/1997/1683/`](uredba/1997/1683/) | in force | 1 | 1997-10-24 | 1997-10-24 |
+| Uredba o povjerenstvu Vlade Republike Hrvatske za granice jedinica lokalne samouprave | [`uredba/1997/1696/`](uredba/1997/1696/) | repealed, not consolidated | 1 | 1997-11-05 | 1997-11-05 |
+| Uredba o osnovici za ostvarivanje prava po osnovi socijalne skrbi | [`uredba/1997/1738/`](uredba/1997/1738/) | cited later, not consolidated | 1 | 1997-11-04 | 1997-11-04 |
+| Uredba o izmjenama i dopunama Uredbe o Uredu za suradnju s Međunarodnim kaznenim sudom | [`uredba/1997/1894/`](uredba/1997/1894/) | amending act | 1 | 1997-12-05 | 1997-12-05 |
+| Uredba o izmjenama i dopunama Zakona o platnom prometu u zemlji | [`uredba/1997/1968/`](uredba/1997/1968/) | amended, not consolidated | 1 | 1997-12-19 | 1997-12-19 |
+| Uredba o izmjenama i dopunama Zakona o igrama na sreću i zabavnim igrama | [`uredba/1997/1989/`](uredba/1997/1989/) | amended, not consolidated | 1 | 1997-12-23 | 1997-12-23 |
+| Uredba o graničnim vrijednostima emisije onečišćujućih tvari u zrak iz stacionarnih izvora | [`uredba/1997/2004/`](uredba/1997/2004/) | amended, not consolidated | 1 | 1998-01-01 | 1998-01-01 |
+| Uredba o izmjenama i dopunama Zakona o sudskom registru | [`uredba/1998/1/`](uredba/1998/1/) | amending act | 1 | 1998-01-05 | 1998-01-05 |
 | Uredba o prestanku važenja Uredbe o Uredu za suradnju s mirovnim operacijama | [`uredba/1998/2/`](uredba/1998/2/) | in force | 1 | 1998-01-05 | 1998-01-05 |
+| Uredba o Uredu za suradnju s Organizacijom za europsku sigurnost i suradnju (OESS) | [`uredba/1998/3/`](uredba/1998/3/) | amended, not consolidated | 1 | 1998-01-05 | 1998-01-05 |
+| Uredba o područjima matičnih ureda | [`uredba/1998/16/`](uredba/1998/16/) | repealed, not consolidated | 1 | 1998-01-08 | 1998-01-08 |
+| Uredba o izmjenama i dopunama Uredbe o mjerilima za stambeno zbrinjavanje HRVI Domovinskog rata i članova obitelji poginuloga, umrloga, zatočenoga ili nestaloga hrvatskog branitelja | [`uredba/1998/57/`](uredba/1998/57/) | amended, not consolidated | 1 | 1998-01-16 | 1998-01-16 |
+| Uredba o izmjenama Uredbe o graničnim prijelazima u Republici Hrvatskoj | [`uredba/1998/113/`](uredba/1998/113/) | in force | 1 | 1998-01-23 | 1998-01-23 |
+| Uredba o najmu stanova u vlasništvu Republike Hrvatske na području hrvatskog Podunavlja | [`uredba/1998/122/`](uredba/1998/122/) | repealed, not consolidated | 1 | 1998-01-27 | 1998-01-27 |
+| Uredba o izmjenama i dopunama Uredbe o uvjetima i postupku za dodjelu koncesija na vodama i javnom vodnom dobru | [`uredba/1998/178/`](uredba/1998/178/) | amending act | 1 | 1998-02-06 | 1998-02-06 |
+| Uredba o osnivanju Hrvatskog centra za mine | [`uredba/1998/296/`](uredba/1998/296/) | repealed, not consolidated | 1 | 1998-02-23 | 1998-02-23 |
 | Uredba o osnivanju Doma umirovljenika Zemunik | [`uredba/1998/383/`](uredba/1998/383/) | in force | 1 | 1998-03-10 | 1998-03-10 |
+| Uredba o uvjetima za postupanje s opasnim otpadom | [`uredba/1998/384/`](uredba/1998/384/) | cited later, not consolidated | 1 | 1998-07-01 | 1998-07-01 |
 | Uredba o izmjeni Uredbe o osnivanju Hrvatskog centra za mine | [`uredba/1998/385/`](uredba/1998/385/) | in force | 1 | 1998-03-10 | 1998-03-10 |
+| Uredba o osnivanju Visokog gospodarskog učilišta u Križevcima | [`uredba/1998/494/`](uredba/1998/494/) | amended, not consolidated | 1 | 1998-03-23 | 1998-03-23 |
+| Uredba o povlasticama u unutarnjem putničkom prometu | [`uredba/1998/510/`](uredba/1998/510/) | repealed, not consolidated | 1 | 1998-03-25 | 1998-03-25 |
+| Uredba o uvjetima odobravanja kredita i zajmova određenih pravnih osoba | [`uredba/1998/517/`](uredba/1998/517/) | amended, not consolidated | 1 | 1998-03-27 | 1998-03-27 |
+| Uredba o potraživanjima prema poduzećima i drugim pravnim osobama s područja Republike Hrvatske oslobođenim akcijama "Bljesak" i "Oluja" i područja istočne Hrvatske koja su integrirana u postupku | [`uredba/1998/518/`](uredba/1998/518/) | replaced, not consolidated | 1 | 1998-03-27 | 1998-03-27 |
+| Uredba o plaćanju naknada za korištenje radnih dozvola iz kontingenata radnih dozvola za Saveznu Republiku Njemačku | [`uredba/1998/519/`](uredba/1998/519/) | amended, not consolidated | 1 | 1998-03-27 | 1998-03-27 |
+| Uredba o gospodarenju šumama oslobođenim akcijama "Bljesak" i "Oluja" i šumama "Područja hrvatskoga Podunavlja ranije pod upraovm UN" | [`uredba/1998/528/`](uredba/1998/528/) | in force | 1 | 1998-03-31 | 1998-03-31 |
+| Uredba o provođenju rezolucija Vijeća sigurnosti Ujedinjenih naroda u svezi sa sankcijama protiv Socijalističke Narodne Libijske Arapske Džamahirije | [`uredba/1998/529/`](uredba/1998/529/) | amended, not consolidated | 1 | 1998-03-31 | 1998-03-31 |
+| Uredba o roku za podnošenje zahtjeva za obnovu te popravak i opremanje obiteljskih kuća i stanova u hrvatskom Podunavlju | [`uredba/1998/530/`](uredba/1998/530/) | amended, not consolidated | 1 | 1998-03-31 | 1998-03-31 |
+| Uredba o dopunama Zakona o sanaciji određenih poduzeća | [`uredba/1998/531/`](uredba/1998/531/) | amended, not consolidated | 1 | 1998-03-31 | 1998-03-31 |
+| Uredba o izmjenama i dopunama Zakona o lovu | [`uredba/1998/532/`](uredba/1998/532/) | amending act | 1 | 1998-03-31 | 1998-03-31 |
+| Uredba o izmjenama i dopunama Zakona o boravišnoj pristojbi | [`uredba/1998/533/`](uredba/1998/533/) | amending act | 1 | 1998-03-31 | 1998-03-31 |
 | Uredba o izmjenama i dopunama Zakona o Hrvatskoj garancijskoj agenciji | [`uredba/1998/534/`](uredba/1998/534/) | amending act | 1 | 1998-03-31 | 1998-03-31 |
+| Uredba o osnivanju Javne ustanove "Park prirode Velebit | [`uredba/1998/535/`](uredba/1998/535/) | amended, not consolidated | 1 | 1998-04-08 | 1998-04-08 |
+| Uredba o osnivanju Javne ustanove "Park prirode Biokovo | [`uredba/1998/536/`](uredba/1998/536/) | amended, not consolidated | 1 | 1998-04-08 | 1998-04-08 |
+| Uredba o osnivanju Zavoda za sjemenarstvo i rasadničarstvo | [`uredba/1998/537/`](uredba/1998/537/) | repealed, not consolidated | 1 | 1998-03-31 | 1998-03-31 |
 | Uredba za provođenje Zakona o konvalidaciji akata izdanih u predmetima upravne naravi | [`uredba/1998/641/`](uredba/1998/641/) | in force | 1 | 1998-04-10 | 1998-04-10 |
 | Uredba za provođenje Zakona o konvalidaciji u predmetima sudbene naravi | [`uredba/1998/642/`](uredba/1998/642/) | in force | 1 | 1998-04-10 | 1998-04-10 |
+| Uredba za provođenje Zakona o konvalidaciji za upravno područje rada, zapošljavanja, mirovinskog i invalidskog osiguranja, doplatka za djecu, socijalne skrbi i zaštite vojnih i civilnih invalida rata | [`uredba/1998/643/`](uredba/1998/643/) | amended, not consolidated | 1 | 1998-04-10 | 1998-04-10 |
 | Uredba o mjerilima za davanje suglasnosti općinama, gradovima i županijama za korištenje dotacija iz državnog proračuna Republike Hrvatske | [`uredba/1998/644/`](uredba/1998/644/) | in force | 1 | 1998-04-10 | 1998-04-10 |
+| Uredba o Uredu za europske integracije | [`uredba/1998/645/`](uredba/1998/645/) | repealed, not consolidated | 1 | 1998-04-10 | 1998-04-10 |
+| Uredba o izmjeni Carinskog zakona | [`uredba/1998/719/`](uredba/1998/719/) | amended, not consolidated | 1 | 1998-05-02 | 1998-05-02 |
+| Uredba o osnivanju Veleučilišta u Rijeci | [`uredba/1998/963/`](uredba/1998/963/) | amended, not consolidated | 1 | 1998-05-27 | 1998-05-27 |
+| Uredba o osnivanju Veleučilišta u Splitu | [`uredba/1998/964/`](uredba/1998/964/) | cited later, not consolidated | 1 | 1998-05-27 | 1998-05-27 |
+| Uredba o osnivanju Veleučilišta u Požegi | [`uredba/1998/965/`](uredba/1998/965/) | amended, not consolidated | 1 | 1998-05-27 | 1998-05-27 |
+| Uredba o osnivanju Tehničkog veleučilišta u Zagrebu | [`uredba/1998/966/`](uredba/1998/966/) | amended, not consolidated | 1 | 1998-05-27 | 1998-05-27 |
+| Uredba o osnivanju Društvenog veleučilišta u Zagrebu | [`uredba/1998/967/`](uredba/1998/967/) | repealed, not consolidated | 1 | 1998-05-27 | 1998-05-27 |
 | Uredba o osnivanju Visoke učiteljske škole u Zagrebu | [`uredba/1998/968/`](uredba/1998/968/) | in force | 1 | 1998-05-27 | 1998-05-27 |
 | Uredba o osnivanju Visoke učiteljske škole u Rijeci | [`uredba/1998/969/`](uredba/1998/969/) | in force | 1 | 1998-05-27 | 1998-05-27 |
 | Uredba o osnivanju Visoke učiteljske škole u Gospiću | [`uredba/1998/970/`](uredba/1998/970/) | in force | 1 | 1998-05-27 | 1998-05-27 |
@@ -25782,32 +25979,74 @@
 | Uredba o osnivanju Visoke učiteljske škole u Splitu | [`uredba/1998/972/`](uredba/1998/972/) | in force | 1 | 1998-05-27 | 1998-05-27 |
 | Uredba o osnivanju Visoke učiteljske škole u Osijeku | [`uredba/1998/973/`](uredba/1998/973/) | in force | 1 | 1998-05-27 | 1998-05-27 |
 | Uredba o osnivanju Visoke učiteljske škole u Zadru | [`uredba/1998/974/`](uredba/1998/974/) | in force | 1 | 1998-05-27 | 1998-05-27 |
+| Uredba o opasnim tvarima u vodama | [`uredba/1998/1047/`](uredba/1998/1047/) | repealed, not consolidated | 1 | 1998-06-03 | 1998-06-03 |
+| Uredba o osnivanju Visoke pomorske škole u Rijeci | [`uredba/1998/1087/`](uredba/1998/1087/) | amended, not consolidated | 1 | 1998-06-09 | 1998-06-09 |
+| Uredba o osnivanju Visoke pomorske škole u Splitu | [`uredba/1998/1088/`](uredba/1998/1088/) | amended, not consolidated | 1 | 1998-06-09 | 1998-06-09 |
+| Uredba o izmjeni Uredbe o roku za podnošenje zahtjeva za obnovu te popravak i opremanje obiteljskih kuća i stanova u hrvatskom Podunavlju | [`uredba/1998/1143/`](uredba/1998/1143/) | amended, not consolidated | 1 | 1998-06-12 | 1998-06-12 |
 | Uredba o osnivanju Ustanove za organiziranje i provođenje Drugih svjetskih vojnih igara u Zagrebu 1999. godine | [`uredba/1998/1221/`](uredba/1998/1221/) | in force | 1 | 1998-06-30 | 1998-06-30 |
+| Uredba o izmjeni Uredbe o utvrđivanju položaja i zvanja službenika i poslova radnih mjesta namještenika u ustanovama kulture i razvrstavanju službenika i namještenika tih ustanova u platne razrede | [`uredba/1998/1378/`](uredba/1998/1378/) | in force | 1 | 1998-07-24 | 1998-07-24 |
+| Uredba o izmjenama i dopunama Zakona o trgovini | [`uredba/1998/1401/`](uredba/1998/1401/) | amending act | 1 | 1998-08-05 | 1998-08-05 |
+| Uredba o javnoj raspravi u postupku donošenja prostornih planova | [`uredba/1998/1402/`](uredba/1998/1402/) | cited later, not consolidated | 1 | 1998-08-05 | 1998-08-05 |
 | Uredba o međuministarskom vijeću za osiguranje izvoza | [`uredba/1998/1529/`](uredba/1998/1529/) | in force | 1 | 1998-09-03 | 1998-09-03 |
 | Uredba o zajamčenoj cijeni uljane repice roda 1999. godine | [`uredba/1998/1539/`](uredba/1998/1539/) | in force | 1 | 1998-09-12 | 1998-09-12 |
+| Uredba o osnivanju Javne ustanove "Park prirode Medvednica | [`uredba/1998/1546/`](uredba/1998/1546/) | amended, not consolidated | 1 | 1998-09-16 | 1998-09-16 |
+| Uredba o broju igračnica koje mogu trajno ili povremeno poslovati na području Republike Hrvatske | [`uredba/1998/1585/`](uredba/1998/1585/) | amended, not consolidated | 1 | 1998-09-29 | 1998-09-29 |
 | Uredba o Uredu Vlade Republike Hrvatske za udruge | [`uredba/1998/1598/`](uredba/1998/1598/) | in force | 1 | 1998-10-09 | 1998-10-09 |
+| Uredba o Uredu za nacionalne manjine | [`uredba/1998/1599/`](uredba/1998/1599/) | repealed, not consolidated | 1 | 1998-10-09 | 1998-10-09 |
 | Uredba o unutarnjem ustrojstvu Ministarstva privatizacije | [`uredba/1998/1683/`](uredba/1998/1683/) | in force | 1 | 1998-10-29 | 1998-10-29 |
 | Uredba o osnivanju Srednje škole Prelog u Prelogu | [`uredba/1998/1775/`](uredba/1998/1775/) | in force | 1 | 1998-10-30 | 1998-10-30 |
+| Uredba o izmjenama Uredbe o osnivanju Hrvatskog centra za mine | [`uredba/1998/1854/`](uredba/1998/1854/) | in force | 1 | 1998-11-19 | 1998-11-19 |
+| Uredba o izmjeni Uredbe o osnivanju Zavoda za sjemenarstvo i rasadničarstvo osiguranju | [`uredba/1998/1864/`](uredba/1998/1864/) | in force | 1 | 1998-11-24 | 1998-11-24 |
+| Uredba o određivanju granice pomorskog dobra na dijelu k.o. Gruž | [`uredba/1998/1875/`](uredba/1998/1875/) | replaced, not consolidated | 1 | 1998-12-04 | 1998-12-04 |
 | Uredba o određivanju granice pomorskog dobra na dijelu k.o. Turanj | [`uredba/1998/1876/`](uredba/1998/1876/) | in force | 1 | 1998-12-04 | 1998-12-04 |
 | Uredba o određivanju granice pomorskog dobra na dijelu k.o. Sali | [`uredba/1998/1877/`](uredba/1998/1877/) | in force | 1 | 1998-12-04 | 1998-12-04 |
+| Uredba o određivanju granice pomorskog dobra na dijelu k.o. Zaton | [`uredba/1998/1920/`](uredba/1998/1920/) | replaced, not consolidated | 1 | 1998-12-17 | 1998-12-17 |
+| Uredba o određivanju granice pomorskog dobra na dijelu k.o. Zamet | [`uredba/1998/1921/`](uredba/1998/1921/) | replaced, not consolidated | 1 | 1998-12-17 | 1998-12-17 |
+| Uredba o određivanju granice pomorskog dobra na dijelu k.o. Lovrečica | [`uredba/1998/1922/`](uredba/1998/1922/) | replaced, not consolidated | 1 | 1998-12-17 | 1998-12-17 |
+| Uredba o određivanju granice pomorskog dobra na dijelu k.o. Starigrad | [`uredba/1998/1923/`](uredba/1998/1923/) | replaced, not consolidated | 1 | 1998-12-17 | 1998-12-17 |
+| Uredba o određivanju granice pomorskog dobra na dijelu k.o. Privlaka | [`uredba/1998/1924/`](uredba/1998/1924/) | replaced, not consolidated | 1 | 1998-12-17 | 1998-12-17 |
+| Uredba o određivanju granice pomorskog dobra na dijelu k.o. Tribunj | [`uredba/1998/1925/`](uredba/1998/1925/) | replaced, not consolidated | 1 | 1998-12-17 | 1998-12-17 |
+| Uredba o određivanju granice pomorskog dobra na dijelu k.o. Novalja | [`uredba/1998/1926/`](uredba/1998/1926/) | replaced, not consolidated | 1 | 1998-12-17 | 1998-12-17 |
 | Uredba o određivanju granice pomorskog dobra na dijelu k.o. Komin | [`uredba/1998/1927/`](uredba/1998/1927/) | in force | 1 | 1998-12-17 | 1998-12-17 |
+| Uredba o dopuni Uredbe o uvjetima odobravanja kredita i zajmova određenih pravnih osoba | [`uredba/1998/1969/`](uredba/1998/1969/) | amending act | 1 | 1998-12-24 | 1998-12-24 |
 | Uredba o produljenju rokova iz članaka 9. i 10. Zakona o izmjenama i dopunama Zakona o prodaji stanova na kojima postoji stanarsko pravo ("Narodne novine", broj 68/98 | [`uredba/1998/2004/`](uredba/1998/2004/) | amending act | 1 | 1998-12-23 | 1998-12-23 |
+| Uredba o prihvaćanju povećanja kvote Republike Hrvatske u Međunarodnom monetarnom fondu | [`uredba/1998/2005/`](uredba/1998/2005/) | amended, not consolidated | 1 | 1998-12-23 | 1998-12-23 |
+| Uredba o unutarnjem ustrojstvu Ministarstva turizma | [`uredba/1998/2006/`](uredba/1998/2006/) | replaced, not consolidated | 1 | 1998-12-31 | 1998-12-31 |
+| Uredba o Uredu za rezidencijalne potrebe | [`uredba/1998/2021/`](uredba/1998/2021/) | repealed, not consolidated | 1 | 1999-01-05 | 1999-01-05 |
+| Uredba o Uredu za državnu imovinu | [`uredba/1998/2022/`](uredba/1998/2022/) | repealed, not consolidated | 1 | 1999-01-05 | 1999-01-05 |
+| Uredba o Uredu za odnose s javnošću | [`uredba/1998/2023/`](uredba/1998/2023/) | replaced, not consolidated | 1 | 1999-01-05 | 1999-01-05 |
+| Uredba o dopuni Zakona o platnom prometu u zemlji | [`uredba/1998/2029/`](uredba/1998/2029/) | amended, not consolidated | 1 | 1998-12-29 | 1998-12-29 |
 | Uredba o utvrđivanju položaja i zvanja službenika i poslova radnih mjesta namještenika u ustanovama zaštite prirode i okoliša i razvrstavanju službenika i namještenika tih ustanova u platne razrede | [`uredba/1998/2030/`](uredba/1998/2030/) | in force | 1 | 1999-01-06 | 1999-01-06 |
 | Uredba o stavljanju izvan snage Uredbe o najmu stanova u vlasništvu Republike Hrvatske na području hrvatskog Podunavlja | [`uredba/1998/2310/`](uredba/1998/2310/) | in force | 1 | 1998-02-13 | 1998-02-13 |
 | Uredba o zajamčenoj cijeni šećerne repe | [`uredba/1998/5380/`](uredba/1998/5380/) | in force | 1 | 1998-09-12 | 1998-09-12 |
+| Uredba o određivanju granice pomorskog dobra na dijelu k.o. Donje Polje-Zablaće | [`uredba/1999/48/`](uredba/1999/48/) | replaced, not consolidated | 1 | 1999-01-27 | 1999-01-27 |
+| Uredba o određivanju granice pomorskog dobra na dijelu k.o. Kali | [`uredba/1999/49/`](uredba/1999/49/) | replaced, not consolidated | 1 | 1999-01-27 | 1999-01-27 |
 | Uredba o određivanju granice pomorskog dobra na dijelu k.o. Brtonigla i k.o. Lovrečica | [`uredba/1999/50/`](uredba/1999/50/) | in force | 1 | 1999-01-27 | 1999-01-27 |
 | Uredba o određivanju granice pomorskog dobra na dijelu k.o. Zaton-Raslina | [`uredba/1999/51/`](uredba/1999/51/) | in force | 1 | 1999-01-27 | 1999-01-27 |
+| Uredba o određivanju granice pomorskog dobra na dijelu k.o. Kolan | [`uredba/1999/52/`](uredba/1999/52/) | replaced, not consolidated | 1 | 1999-01-27 | 1999-01-27 |
+| Uredba o određivanju granice pomorskog dobra na dijelu k.o. Povljana | [`uredba/1999/53/`](uredba/1999/53/) | replaced, not consolidated | 1 | 1999-01-27 | 1999-01-27 |
 | Uredba o određivanju granice pomorskog dobra na dijelu k.o. Kostrena Sv. Barbara | [`uredba/1999/54/`](uredba/1999/54/) | in force | 1 | 1999-01-27 | 1999-01-27 |
+| Uredba o određivanju granice pomorskog dobra na dijelu k.o. Savudrija | [`uredba/1999/55/`](uredba/1999/55/) | replaced, not consolidated | 1 | 1999-01-27 | 1999-01-27 |
+| Uredba o određivanju granice pomorskog dobra na dijelu k.o. Tisno | [`uredba/1999/56/`](uredba/1999/56/) | replaced, not consolidated | 1 | 1999-01-27 | 1999-01-27 |
 | Uredba o sniženju carinskih stopa za određenu robu | [`uredba/1999/68/`](uredba/1999/68/) | in force | 1 | 1999-01-20 | 1999-01-20 |
+| Uredba o zastupniku Vlade Republike Hrvatske pred Europskim sudom za ljudska prava i o njegovu Uredu | [`uredba/1999/259/`](uredba/1999/259/) | amended, not consolidated | 1 | 1999-02-11 | 1999-02-11 |
 | Uredba o podjeli imovine prava i obveza te rasporedu djelatnika Muzeja Hrvatskoga zagorja | [`uredba/1999/260/`](uredba/1999/260/) | in force | 1 | 1999-02-11 | 1999-02-11 |
 | Uredba o podjeli imovine, prava i obveza, te rasporedu djelatnika Muzejsko-galerijskog centra | [`uredba/1999/261/`](uredba/1999/261/) | in force | 1 | 1999-02-11 | 1999-02-11 |
+| Uredba o unutarnjem ustrojstvu Ministarstva hrvatskih branitelja iz Domovinskog rata | [`uredba/1999/278/`](uredba/1999/278/) | amended, not consolidated | 1 | 1999-02-12 | 1999-02-12 |
 | Uredba o izmjenama i dopunama Uredbe o mjerilima za stambeno zbrinjavanje HRVI Domovinskog rata i članova obitelji poginuloga, umrloga, zatočenoga ili nestaloga hrvatskoga branitelja | [`uredba/1999/315/`](uredba/1999/315/) | amending act | 1 | 1999-02-12 | 1999-02-12 |
 | Uredba o dopuni Uredbe o povećanju koeficijenata platnog razreda i položajnim dodacima određenih službenika u javnim službama | [`uredba/1999/316/`](uredba/1999/316/) | amending act | 1 | 1999-02-19 | 1999-02-19 |
 | Uredba o računanju vremena u 1999. godini | [`uredba/1999/317/`](uredba/1999/317/) | in force | 1 | 1999-02-19 | 1999-02-19 |
 | Uredba o kriterijima za carinski kontingent | [`uredba/1999/407/`](uredba/1999/407/) | in force | 1 | 1999-03-05 | 1999-03-05 |
+| Uredba o određivanju granice pomorskog dobra na dijelu k.o. Donje Polje-Zablaće | [`uredba/1999/408/`](uredba/1999/408/) | replaced, not consolidated | 1 | 1999-03-05 | 1999-03-05 |
+| Uredba o određivanju granice pomorskog dobra na dijelu k.o. Kolan | [`uredba/1999/452/`](uredba/1999/452/) | cited later, not consolidated | 1 | 1999-03-11 | 1999-03-11 |
 | Uredba o produljenju roka iz članka 10. Zakona o izmjenama i dopunama Zakona o prodaji stanova na kojima postoji stanarsko pravo ("Narodne novine", broj 68/98 | [`uredba/1999/469/`](uredba/1999/469/) | amending act | 1 | 1999-03-05 | 1999-03-05 |
+| Uredba o izmjenama i dopunama Zakona o platnom prometu u zemlji | [`uredba/1999/488/`](uredba/1999/488/) | amended, not consolidated | 1 | 1999-03-09 | 1999-03-09 |
+| Uredba o osnivanju Agencije za obnovu osječke Tvrđe | [`uredba/1999/560/`](uredba/1999/560/) | repealed, not consolidated | 1 | 1999-04-01 | 1999-04-01 |
 | Uredba o osnivanju Srednje glazbene škole Novska | [`uredba/1999/561/`](uredba/1999/561/) | in force | 1 | 1999-04-01 | 1999-04-01 |
+| Uredba o izmjeni Carinskog zakona | [`uredba/1999/600/`](uredba/1999/600/) | in force | 1 | 1999-03-29 | 1999-03-29 |
 | Uredba o izmjenama i dopunama Zakona o trgovini | [`uredba/1999/601/`](uredba/1999/601/) | amending act | 1 | 1999-03-29 | 1999-03-29 |
+| Uredba o dopunama Zakona o sanaciji određenih poduzeća | [`uredba/1999/602/`](uredba/1999/602/) | amending act | 1 | 1999-03-29 | 1999-03-29 |
+| Uredba o potraživanjima prema poduzećima i drugim pravnim osobama s područja Republike Hrvatske oslobođenim akcijama "Bljesak" i "Oluja" i područja istočne Hrvatske koja su integrirana u postupku | [`uredba/1999/603/`](uredba/1999/603/) | in force | 1 | 1999-03-29 | 1999-03-29 |
 | Uredba o povlasticama u unutarnjem putničkom prometu | [`uredba/1999/605/`](uredba/1999/605/) | in force | 1 | 1999-03-29 | 1999-03-29 |
 | Uredba o uvjetima odobravanja kredita i zajmova određenih pravnih osoba | [`uredba/1999/606/`](uredba/1999/606/) | in force | 1 | 1999-03-29 | 1999-03-29 |
 | Uredba o izmjenama i dopunama Zakona o boravišnoj pristojbi | [`uredba/1999/607/`](uredba/1999/607/) | amending act | 1 | 1999-03-29 | 1999-03-29 |
@@ -25822,35 +26061,96 @@
 | Uredba o zajamčenoj cijeni soje roda 1999. godine | [`uredba/1999/912/`](uredba/1999/912/) | in force | 1 | 1999-05-25 | 1999-05-25 |
 | Uredba o zajamčenoj cijeni šećerne repe roda 1999. godine | [`uredba/1999/913/`](uredba/1999/913/) | in force | 1 | 1999-05-25 | 1999-05-25 |
 | Uredba o prestanku rada Ureda za ekonomiku i restrukturiranje javnih poduzeća | [`uredba/1999/1000/`](uredba/1999/1000/) | in force | 1 | 1999-05-31 | 1999-05-31 |
+| Uredba o prestanku rada Ureda za prognanike i izbjeglice | [`uredba/1999/1001/`](uredba/1999/1001/) | amended, not consolidated | 1 | 1999-05-31 | 1999-05-31 |
 | Uredba o stavljanju izvan snage Uredbe o Uredu za državnu imovinu | [`uredba/1999/1002/`](uredba/1999/1002/) | in force | 1 | 1999-05-31 | 1999-05-31 |
+| Uredba o izmjeni Zakona o gradnji | [`uredba/1999/1062/`](uredba/1999/1062/) | in force | 1 | 1999-06-07 | 1999-06-07 |
 | Uredba o privremenom neprimjenjivanju Uredbe o provođenju rezolucija Vijeća sigurnosti Ujedinjenih naroda u svezi sa sankcijama protiv Socijalističke Narodne Libijske Arapske Džamahirije | [`uredba/1999/1086/`](uredba/1999/1086/) | in force | 1 | 1999-06-11 | 1999-06-11 |
+| Uredba o određivanju granice pomorskog dobra na dijelu k.o. Pirovac | [`uredba/1999/1087/`](uredba/1999/1087/) | replaced, not consolidated | 1 | 1999-06-19 | 1999-06-19 |
+| Uredba o određivanju granice pomorskog dobra na dijelu k.o. Krapanj | [`uredba/1999/1088/`](uredba/1999/1088/) | replaced, not consolidated | 1 | 1999-06-19 | 1999-06-19 |
+| Uredba o određivanju granice pomorskog dobra na dijelu k.o. Vodice | [`uredba/1999/1089/`](uredba/1999/1089/) | replaced, not consolidated | 1 | 1999-06-19 | 1999-06-19 |
 | Uredba o utvrđivanju visine godišnjeg paušalnog iznosa boravišne pristojbe za korisnike stalnog veza u luci nautičkog turizma za 1999. i 2000. godinu | [`uredba/1999/1090/`](uredba/1999/1090/) | in force | 1 | 1999-06-19 | 1999-06-19 |
 | Uredba o utvrđivanju visine boravišne pristojbe za 2000. godinu | [`uredba/1999/1091/`](uredba/1999/1091/) | in force | 1 | 1999-06-19 | 1999-06-19 |
+| Uredba o izmjeni i dopuni Carinskog zakona | [`uredba/1999/1152/`](uredba/1999/1152/) | amending act | 1 | 1999-06-18 | 1999-06-18 |
+| Uredba o mjerilima za razvrstavanje javnih cesta | [`uredba/1999/1162/`](uredba/1999/1162/) | repealed, not consolidated | 1 | 1999-06-21 | 1999-06-21 |
 | Uredba o unutarnjem ustrojstvu Ministarstva prostornog uređenja, graditeljstva i stanovanja | [`uredba/1999/1200/`](uredba/1999/1200/) | in force | 1 | 1999-07-03 | 1999-07-03 |
 | Uredba o izmjenama i dopunama Uredbe o Agenciji za posredovanje u prometu određenim nekretninama | [`uredba/1999/1201/`](uredba/1999/1201/) | amending act | 1 | 1999-06-25 | 1999-06-25 |
+| Uredba o izmjeni Tarife upravnih pristojbi Zakona o upravnim pristojbama | [`uredba/1999/1221/`](uredba/1999/1221/) | in force | 1 | 1999-07-06 | 1999-07-06 |
 | Uredba o sniženju carinskih stopa pri uvozu opreme, uređaja, aparata i vozila i njihovih dijelova u koje se ugrađuju dijelovi proizvedeni u Republici Hrvatskoj | [`uredba/1999/1287/`](uredba/1999/1287/) | in force | 1 | 1999-07-13 | 1999-07-13 |
+| Uredba o određivanju granice pomorskog dobra na dijelu k.o. Rogoznica | [`uredba/1999/1288/`](uredba/1999/1288/) | replaced, not consolidated | 1 | 1999-07-13 | 1999-07-13 |
+| Uredba o određivanju granice pomorskog dobra na dijelu k.o. Novigrad | [`uredba/1999/1289/`](uredba/1999/1289/) | replaced, not consolidated | 1 | 1999-07-13 | 1999-07-13 |
 | Uredba o osnivanju Srednje glazbene škole "Ferdo Livadić" u Samobo | [`uredba/1999/1303/`](uredba/1999/1303/) | in force | 1 | 1999-07-16 | 1999-07-16 |
+| Uredba o informacijskom sustavu zaštite okoliša | [`uredba/1999/1345/`](uredba/1999/1345/) | repealed, not consolidated | 1 | 1999-07-22 | 1999-07-22 |
 | Uredba o unutarnjem ustrojstvu Ministarstva razvitka, useljeništva i obnove | [`uredba/1999/1346/`](uredba/1999/1346/) | in force | 1 | 1999-07-14 | 1999-07-14 |
+| Uredba o unutarnjem ustrojstvu Ministarstva rada i socijalne skrbi | [`uredba/1999/1369/`](uredba/1999/1369/) | amended, not consolidated | 1 | 1999-07-29 | 1999-07-29 |
+| Uredba o visini naknade za obvezne veterinarsko-zdravstvene preglede u prometu preko granice Republike Hrvatske | [`uredba/1999/1370/`](uredba/1999/1370/) | repealed, not consolidated | 1 | 1999-07-29 | 1999-07-29 |
 | Uredba o određivanju granice pomorskog dobra na dijelu k.o. Novalja | [`uredba/1999/1371/`](uredba/1999/1371/) | in force | 1 | 1999-07-29 | 1999-07-29 |
+| Uredba o određivanju granice pomorskog dobra na dijelu k.o. Brašina | [`uredba/1999/1372/`](uredba/1999/1372/) | replaced, not consolidated | 1 | 1999-07-29 | 1999-07-29 |
+| Uredba o određivanju granice pomorskog dobra na dijelu k.o. Gruži | [`uredba/1999/1373/`](uredba/1999/1373/) | replaced, not consolidated | 1 | 1999-07-29 | 1999-07-29 |
+| Uredba o određivanju granice pomorskog dobra na dijelu k.o. Slivno | [`uredba/1999/1374/`](uredba/1999/1374/) | replaced, not consolidated | 1 | 1999-07-29 | 1999-07-29 |
+| Uredba o određivanju granice pomorskog dobra na dijelu k.o. Sveti Anton | [`uredba/1999/1375/`](uredba/1999/1375/) | replaced, not consolidated | 1 | 1999-07-29 | 1999-07-29 |
+| Uredba o određivanju granice pomorskog dobra na dijelu k.o. Mošćenička Draga | [`uredba/1999/1376/`](uredba/1999/1376/) | replaced, not consolidated | 1 | 1999-07-29 | 1999-07-29 |
+| Uredba o određivanju granice pomorskog dobra na dijelu k.o. Savudrija | [`uredba/1999/1377/`](uredba/1999/1377/) | replaced, not consolidated | 1 | 1999-07-29 | 1999-07-29 |
+| Uredba o dopuni Uredbe o unutarnjem ustrojstvu Ministarstva kulture | [`uredba/1999/1378/`](uredba/1999/1378/) | amending act | 1 | 1999-07-29 | 1999-07-29 |
+| Uredba o izmjenama i dopunama Uredbe o Uredu za suradnju s Međunarodnim kaznenim sudom | [`uredba/1999/1426/`](uredba/1999/1426/) | amending act | 1 | 1999-07-30 | 1999-07-30 |
+| Uredba o unutarnjem ustrojstvu Ministarstva gospodarstva | [`uredba/1999/1473/`](uredba/1999/1473/) | amended, not consolidated | 1 | 1999-08-03 | 1999-08-03 |
+| Uredba o izmjenama Uredbe o graničnim prijelazima u Republici Hrvatskoj | [`uredba/1999/1474/`](uredba/1999/1474/) | in force | 1 | 1999-08-03 | 1999-08-03 |
+| Uredba o izmjenama i dopunama Uredbe o graničnim prijelazima u Republici Hrvatskoj | [`uredba/1999/1573/`](uredba/1999/1573/) | amending act | 1 | 1999-09-09 | 1999-09-09 |
+| Uredba o dopuni Uredbe o roku za podnošenje zahtjeva za obnovu te popravak i opremanje obi-teljskih kuća u hrvatskom Podunavlju | [`uredba/1999/1584/`](uredba/1999/1584/) | amending act | 1 | 1999-09-13 | 1999-09-13 |
 | Uredba o dopuni Carinskog zakona | [`uredba/1999/1599/`](uredba/1999/1599/) | amending act | 1 | 1999-09-17 | 1999-09-17 |
+| Uredba o opsegu i sadržaju medicinske dokumentacije | [`uredba/1999/1600/`](uredba/1999/1600/) | cited later, not consolidated | 1 | 1999-09-25 | 1999-09-25 |
+| Uredba o određivanju granice pomorskog dobra na dijelu k.o. Savudrija | [`uredba/1999/1605/`](uredba/1999/1605/) | replaced, not consolidated | 1 | 1999-09-28 | 1999-09-28 |
 | Uredba o određivanju granice pomorskog dobra na dijelu k.o. Drvenik Veli | [`uredba/1999/1606/`](uredba/1999/1606/) | in force | 1 | 1999-09-28 | 1999-09-28 |
 | Uredba o izmjeni Zakona o prodaji stanova na kojima postoji stanarsko pravo | [`uredba/1999/1618/`](uredba/1999/1618/) | in force | 1 | 1999-09-30 | 1999-09-30 |
+| Uredba o osnivanju Javne ustanove "Park prirode Vransko jezero | [`uredba/1999/1619/`](uredba/1999/1619/) | amended, not consolidated | 1 | 1999-09-30 | 1999-09-30 |
+| Uredba o osnivanju Javne ustanove "Nacionalni park Sjeverni Velebit | [`uredba/1999/1620/`](uredba/1999/1620/) | amended, not consolidated | 1 | 1999-09-30 | 1999-09-30 |
+| Uredba o osnivanju Javne ustanove "Park prirode Žumberak - Samoborsko gorje | [`uredba/1999/1621/`](uredba/1999/1621/) | amended, not consolidated | 1 | 1999-09-30 | 1999-09-30 |
+| Uredba o osnivanju Javne ustanove "Park prirode Papuk | [`uredba/1999/1622/`](uredba/1999/1622/) | amended, not consolidated | 1 | 1999-09-30 | 1999-09-30 |
+| Uredba o osnivanju Javne ustanove "Park prirode Učka | [`uredba/1999/1623/`](uredba/1999/1623/) | amended, not consolidated | 1 | 1999-09-30 | 1999-09-30 |
+| Uredba o unutarnjem ustrojstvu Ministarstva financija | [`uredba/1999/1624/`](uredba/1999/1624/) | amended, not consolidated | 1 | 1999-09-30 | 1999-09-30 |
+| Uredba o izmjeni i dopuni Uredbe o unutarnjem ustrojstvu Ministarstva kulture | [`uredba/1999/1656/`](uredba/1999/1656/) | amending act | 1 | 1999-10-12 | 1999-10-12 |
+| Uredba o određivanju granice pomorskog dobra na dijelu k.o. Sveti Juraj | [`uredba/1999/1657/`](uredba/1999/1657/) | replaced, not consolidated | 1 | 1999-10-12 | 1999-10-12 |
+| Uredba o određivanju granice pomorskog dobra na dijelu k.o. Opatija | [`uredba/1999/1658/`](uredba/1999/1658/) | replaced, not consolidated | 1 | 1999-10-12 | 1999-10-12 |
+| Uredba o određivanju granice pomorskog dobra na dijelu k.o. Obod | [`uredba/1999/1659/`](uredba/1999/1659/) | replaced, not consolidated | 1 | 1999-10-12 | 1999-10-12 |
+| Uredba o određivanju granice pomorskog dobra na dijelu k.o. Split | [`uredba/1999/1660/`](uredba/1999/1660/) | replaced, not consolidated | 1 | 1999-10-12 | 1999-10-12 |
+| Uredba o određivanju granice pomorskog dobra na dijelu k.o. Crikvenica | [`uredba/1999/1661/`](uredba/1999/1661/) | replaced, not consolidated | 1 | 1999-10-12 | 1999-10-12 |
 | Uredba o osnivanju Državnog arhiva u Gospiću | [`uredba/1999/1671/`](uredba/1999/1671/) | in force | 1 | 1999-10-14 | 1999-10-14 |
+| Uredba o osnivanju Središnjeg registra osiguranika | [`uredba/1999/1672/`](uredba/1999/1672/) | amended, not consolidated | 1 | 1999-10-14 | 1999-10-14 |
 | Uredba o izmjeni i dopuni Uredbe o unutarnjem ustrojstvu Ministarstva rada i socijalne skrbi | [`uredba/1999/1673/`](uredba/1999/1673/) | amending act | 1 | 1999-10-14 | 1999-10-14 |
 | Uredba o prestanku važenja Uredbe o plaćanju naknada za korištenje radnih dozvola iz kontingenata radnih dozvola za Saveznu Republiku Njemačku | [`uredba/1999/1716/`](uredba/1999/1716/) | in force | 1 | 1999-10-11 | 1999-10-11 |
+| Uredba o određivanju granice pomorskog dobra na dijelu k.o. Bol | [`uredba/1999/1717/`](uredba/1999/1717/) | replaced, not consolidated | 1 | 1999-10-19 | 1999-10-19 |
+| Uredba o određivanju granice pomorskog dobra na dijelu k.o. Umag | [`uredba/1999/1718/`](uredba/1999/1718/) | replaced, not consolidated | 1 | 1999-10-19 | 1999-10-19 |
 | Uredba o dopunama Zakona o sanaciji određenih poduzeća | [`uredba/1999/1761/`](uredba/1999/1761/) | amending act | 1 | 1999-10-15 | 1999-10-15 |
 | Uredba o utvrđivanju granice pomorskog dobra na dijelu k.o. Bol | [`uredba/1999/1764/`](uredba/1999/1764/) | in force | 1 | 1999-10-26 | 1999-10-26 |
+| Uredba o izmjenama i dopunama Uredbe o graničnim prijelazima u Republici Hrvatskoj | [`uredba/1999/1790/`](uredba/1999/1790/) | amending act | 1 | 1999-10-25 | 1999-10-25 |
+| Uredba o određivanju granice pomorskog dobra na dijelu k.o. Biograd | [`uredba/1999/1798/`](uredba/1999/1798/) | replaced, not consolidated | 1 | 1999-11-04 | 1999-11-04 |
+| Uredba o određivanju granice pomorskog dobra na dijelu k.o. Nin | [`uredba/1999/1799/`](uredba/1999/1799/) | replaced, not consolidated | 1 | 1999-11-04 | 1999-11-04 |
 | Uredba o određivanju granice pomorskog dobra za područje k.o. Vir | [`uredba/1999/1800/`](uredba/1999/1800/) | in force | 1 | 1999-11-04 | 1999-11-04 |
 | Uredba o izmjeni Uredbe o Uredu za europske integracije | [`uredba/1999/1830/`](uredba/1999/1830/) | in force | 1 | 1999-10-29 | 1999-10-29 |
+| Uredba o izmjenama i dopunama Uredbe o unutarnjem ustrojstvu Ministarstva gospodarstva | [`uredba/1999/1831/`](uredba/1999/1831/) | amending act | 1 | 1999-11-06 | 1999-11-06 |
 | Uredba o osnivanju Hrvatske knjižnice za slijepe | [`uredba/1999/1848/`](uredba/1999/1848/) | in force | 1 | 1999-11-12 | 1999-11-12 |
 | Uredba o unutarnjem ustrojstvu Državnog ravnateljstva za državnu upravu i lokalnu samoupravu | [`uredba/1999/1919/`](uredba/1999/1919/) | in force | 1 | 1999-11-24 | 1999-11-24 |
+| Uredba o dopuni Uredbe o unutarnjem ustrojstvu Ministarstva kulture | [`uredba/1999/1935/`](uredba/1999/1935/) | amending act | 1 | 1999-11-25 | 1999-11-25 |
+| Uredba o unutarnjem ustrojstvu Državnog inspektorata | [`uredba/1999/1990/`](uredba/1999/1990/) | replaced, not consolidated | 1 | 1999-11-29 | 1999-11-29 |
+| Uredba o izmjenama i dopunama Uredbe o unutarnjem ustrojstvu Ministarstva financija | [`uredba/1999/1991/`](uredba/1999/1991/) | amending act | 1 | 1999-12-07 | 1999-12-07 |
+| Uredba o određivanju granice pomorskog dobra na dijelu k.o. Sukošan | [`uredba/1999/1992/`](uredba/1999/1992/) | replaced, not consolidated | 1 | 1999-12-07 | 1999-12-07 |
+| Uredba o određivanju proizvoda za koje je potrebno uvjerenje o kakvoći | [`uredba/1999/1993/`](uredba/1999/1993/) | amended, not consolidated | 1 | 1999-12-07 | 1999-12-07 |
+| Uredba o naknadi troškova nadzora kakvoće proizvoda za koje je potrebno uvjerenje o kakvoći | [`uredba/1999/1994/`](uredba/1999/1994/) | cited later, not consolidated | 1 | 1999-12-07 | 1999-12-07 |
+| Uredba o raspolaganju i upravljanju stanovima na područjima posebne državne skrbi | [`uredba/1999/2031/`](uredba/1999/2031/) | cited later, not consolidated | 1 | 1999-12-09 | 1999-12-09 |
+| Uredba o izmjeni Uredbe o Državnoj ergeli lipicanaca | [`uredba/1999/2058/`](uredba/1999/2058/) | in force | 1 | 1999-12-06 | 1999-12-06 |
 | Uredba o stambenom zbrinjavanju dužnosnika, djelatnih vojnih osoba, vojnih službenika i vojnih namještenika Ministarstva obrane i oružanih snaga Republike Hrvatske | [`uredba/1999/2084/`](uredba/1999/2084/) | in force | 1 | 1999-12-08 | 1999-12-08 |
 | Uredba o proglašenju 13. prosinca 1999. godine neradnim danom | [`uredba/1999/2113/`](uredba/1999/2113/) | in force | 1 | 1999-12-12 | 1999-12-12 |
+| Uredba o dopuni Zakona o morskim lukama | [`uredba/1999/2115/`](uredba/1999/2115/) | amending act | 1 | 1999-12-14 | 1999-12-14 |
 | Uredba o određivanju imovine i osoba, te uvjetima pod kojima se mogu osigurati kod stranog osiguratelja | [`uredba/1999/2116/`](uredba/1999/2116/) | in force | 1 | 1999-12-14 | 1999-12-14 |
+| Uredba o određivanju granice pomorskog dobra na dijelu k.o. Kaštel Sućurac | [`uredba/1999/2132/`](uredba/1999/2132/) | replaced, not consolidated | 1 | 1999-12-25 | 1999-12-25 |
+| Uredba o osnivanju Centra za strateške studije i istraživanja | [`uredba/1999/2149/`](uredba/1999/2149/) | amended, not consolidated | 1 | 1999-12-20 | 1999-12-20 |
 | Uredba o proglašenju 24. siječnja 2000. godine neradnim danom | [`uredba/1999/2164/`](uredba/1999/2164/) | in force | 1 | 1999-12-23 | 1999-12-23 |
+| Uredba za provedbu carinskog zakona | [`uredba/1999/2168/`](uredba/1999/2168/) | amended, not consolidated | 1 | 2000-01-01 | 2000-01-01 |
 | Uredba o računanju vremena u 2000. godini | [`uredba/1999/2169/`](uredba/1999/2169/) | in force | 1 | 1999-12-24 | 1999-12-24 |
 | Uredba o naknadi plaće za dan izbora za zastupnike u Zastupnički dom Hrvatskoga državnog sabora | [`uredba/1999/2175/`](uredba/1999/2175/) | in force | 1 | 1999-12-27 | 1999-12-27 |
 | Uredba o izmjenama i dopunama Zakona o doplatku za djecu | [`uredba/1999/2176/`](uredba/1999/2176/) | amending act | 1 | 1999-12-27 | 1999-12-27 |
+| Uredba o izmjeni Uredbe o medicinskom vještačenju u mirovinskom osiguranju | [`uredba/1999/2178/`](uredba/1999/2178/) | in force | 1 | 1999-12-27 | 1999-12-27 |
+| Uredba o izmjeni Tarife upravnih pristojbi | [`uredba/1999/2179/`](uredba/1999/2179/) | in force | 1 | 1999-12-27 | 1999-12-27 |
+| Uredba o plaćanju doprinosa za mirovinsko osiguranje od 1. siječnja do 30. lipnja 2000. godine | [`uredba/1999/2275/`](uredba/1999/2275/) | amended, not consolidated | 1 | 1999-12-31 | 1999-12-31 |
 | Uredba o dopuni Zakona o otocima | [`uredba/1999/2276/`](uredba/1999/2276/) | amending act | 1 | 2000-01-08 | 2000-01-08 |
 | Uredba o izmjenama i dopunama Uredbe o ustrojavanju županijskih ureda | [`uredba/1999/2278/`](uredba/1999/2278/) | amending act | 1 | 2000-01-08 | 2000-01-08 |
 | Uredba o izmjeni Carinskog zakona | [`uredba/1999/3000/`](uredba/1999/3000/) | in force | 1 | 1999-09-27 | 1999-09-27 |
