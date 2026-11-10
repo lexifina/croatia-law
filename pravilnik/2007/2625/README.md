@@ -91,11 +91,7 @@ Act id: `pravilnik-2007-2625` (tags `pravilnik-2007-2625/<day>`; `python registr
 
 ## Status
 
-**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
-
-Amended or repealed by:
-
-- [Pravilnik o izmjenama Pravilnika o katastru zemljišta (NN 148/2009)](https://narodne-novine.nn.hr/eli/sluzbeni/2009/148/3623)
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
 
 Cited by:
 

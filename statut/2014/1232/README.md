@@ -76,7 +76,6 @@ Amended or repealed by:
 
 - [Ispravak Statuta Hrvatske javnobilježničke komore (NN 69/2014)](https://narodne-novine.nn.hr/eli/sluzbeni/2014/69/1325)
 - [Izmjene i dopune Statuta Hrvatske javnobilježničke komore (NN 33/2015)](https://narodne-novine.nn.hr/eli/sluzbeni/2015/33/687)
-- [Izmjene i dopune Statuta Hrvatske javnobilježničke komore (NN 21/2020)](https://narodne-novine.nn.hr/eli/sluzbeni/2020/21/527)
 - [Izmjene i dopune Statuta Hrvatske javnobilježničke komore (NN 106/2021)](https://narodne-novine.nn.hr/eli/sluzbeni/2021/106/1878)
 - [Izmjene i dopune Statuta Hrvatske javnobilježničke komore (NN 87/2023)](https://narodne-novine.nn.hr/eli/sluzbeni/2023/87/1366)
 

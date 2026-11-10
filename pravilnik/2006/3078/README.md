@@ -23,7 +23,6 @@ Act id: `pravilnik-2006-3078` (tags `pravilnik-2006-3078/<day>`; `python registr
 
 Amended or repealed by:
 
-- [Pravilnik o izmjeni i dopuni Pravilnika o načinu utvrđivanja obujma građevine za obračun komunalnog doprinosa (NN 135/2010)](https://narodne-novine.nn.hr/eli/sluzbeni/2010/135/3503)
 - [Ispravak Pravilnika o izmjeni i dopuni Pravilnika o načinu utvrđivanja obujma građevine za obračun komunalnog doprinosa (NN 14/2011)](https://narodne-novine.nn.hr/eli/sluzbeni/2011/14/284)
 - [Pravilnik o izmjenama i dopunama Pravilnika o načinu utvrđivanja obujma građevine za obračun komunalnog doprinosa (NN 55/2012)](https://narodne-novine.nn.hr/eli/sluzbeni/2012/55/1365)
 

@@ -75,13 +75,11 @@ Act id: `statut-2009-1119` (tags `statut-2009-1119/<day>`; `python registry/tool
 
 ## Status
 
-**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+**replaced, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
 
 Amended or repealed by:
 
 - [Statut Hrvatskoga zavoda za zapošljavanje (NN 109/2012)](https://narodne-novine.nn.hr/eli/sluzbeni/2012/109/2376)
-- [Odluka o potvrđivanju Izmjena i dopuna Statuta Hrvatskog zavoda za zapošljavanje (NN 10/2014)](https://narodne-novine.nn.hr/eli/sluzbeni/2014/10/180)
-- [Izmjene i dopune Statuta Hrvatskog zavoda za zapošljavanje (NN 12/2014)](https://narodne-novine.nn.hr/eli/sluzbeni/2014/12/235)
 
 ## Decisions made by hand
 

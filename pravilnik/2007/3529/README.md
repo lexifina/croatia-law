@@ -257,15 +257,6 @@ Pravilnik o unutarnjem poslovanju u državnim odvjetništvima · 1 versions, fro
 
 Act id: `pravilnik-2007-3529` (tags `pravilnik-2007-3529/<day>`; `python registry/tools/on.py <day> pravilnik-2007-3529`).
 
-## Status
-
-**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
-
-Amended or repealed by:
-
-- [Pravilnik o izmjeni i dopuni Pravilnika o unutarnjem poslovanju u državnim odvjetništvima (NN 57/2009)](https://narodne-novine.nn.hr/eli/sluzbeni/2009/57/1353)
-- [Pravilnik o izmjenama i dopunama Pravilnika o unutarnjem poslovanju u državnim odvjetništvima (NN 73/2009)](https://narodne-novine.nn.hr/eli/sluzbeni/2009/73/1755)
-
 ## Decisions made by hand
 
 - An act is published here as first printed in Narodne novine, one version, from its page on narodne-novine.nn.hr; the issuer's name, the document number and the signature block (Klasa, Urbroj, place and date, signature) are not part of its text; for a law, the President's proclamation above it is not either.
