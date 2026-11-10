@@ -23,11 +23,7 @@ Act id: `pravilnik-2001-875` (tags `pravilnik-2001-875/<day>`; `python registry/
 
 ## Status
 
-**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
-
-Amended or repealed by:
-
-- [Pravilnik o izmjenama i dopunama Pravilnika o sudskim službenicima i namještenicima (NN 156/2004)](https://narodne-novine.nn.hr/eli/sluzbeni/2004/156/2723)
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
 
 Cited by:
 

@@ -26,7 +26,6 @@ Act id: `uredba-2011-2846` (tags `uredba-2011-2846/<day>`; `python registry/tool
 Amended or repealed by:
 
 - [Uredba o izmjeni Uredbe o prihvaćanju povećanja kvote Republike Hrvatske u Međunarodnom monetarnom fondu ( »Narodne novine« broj 142/11.) (NN 28/2024)](https://narodne-novine.nn.hr/eli/sluzbeni/2024/28/427)
-- [Uredba o izmjeni Uredbe o prihvaćanju povećanja kvote Republike Hrvatske u Međunarodnom monetarnom fondu ( »Narodne novine«, broj 163/98.) (NN 28/2024)](https://narodne-novine.nn.hr/eli/sluzbeni/2024/28/428)
 
 ## Decisions made by hand
 
