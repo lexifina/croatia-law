@@ -1,0 +1,122 @@
+# Zakon o porezu na dohodak
+
+Zakon o porezu na dohodak · 1 versions, from 2005-01-01 (latest in force: 2005-01-01) · <https://narodne-novine.nn.hr/eli/sluzbeni/2004/177/3066>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| čl. 1 | [clanak-001.md](clanak-001.md) | 0 |  |
+| čl. 2 | [clanak-002.md](clanak-002.md) | 0 |  |
+| čl. 3 | [clanak-003.md](clanak-003.md) | 0 |  |
+| čl. 4 | [clanak-004.md](clanak-004.md) | 0 |  |
+| čl. 5 | [clanak-005.md](clanak-005.md) | 0 |  |
+| čl. 6 | [clanak-006.md](clanak-006.md) | 0 |  |
+| čl. 7 | [clanak-007.md](clanak-007.md) | 0 |  |
+| čl. 8 | [clanak-008.md](clanak-008.md) | 0 |  |
+| čl. 9 | [clanak-009.md](clanak-009.md) | 0 |  |
+| čl. 10 | [clanak-010.md](clanak-010.md) | 0 |  |
+| čl. 11 | [clanak-011.md](clanak-011.md) | 0 |  |
+| čl. 12 | [clanak-012.md](clanak-012.md) | 0 |  |
+| čl. 13 | [clanak-013.md](clanak-013.md) | 0 |  |
+| čl. 14 | [clanak-014.md](clanak-014.md) | 0 |  |
+| čl. 15 | [clanak-015.md](clanak-015.md) | 0 |  |
+| čl. 16 | [clanak-016.md](clanak-016.md) | 0 |  |
+| čl. 17 | [clanak-017.md](clanak-017.md) | 0 |  |
+| čl. 18 | [clanak-018.md](clanak-018.md) | 0 |  |
+| čl. 19 | [clanak-019.md](clanak-019.md) | 0 |  |
+| čl. 20 | [clanak-020.md](clanak-020.md) | 0 |  |
+| čl. 21 | [clanak-021.md](clanak-021.md) | 0 |  |
+| čl. 22 | [clanak-022.md](clanak-022.md) | 0 |  |
+| čl. 23 | [clanak-023.md](clanak-023.md) | 0 |  |
+| čl. 24 | [clanak-024.md](clanak-024.md) | 0 |  |
+| čl. 25 | [clanak-025.md](clanak-025.md) | 0 |  |
+| čl. 26 | [clanak-026.md](clanak-026.md) | 0 |  |
+| čl. 27 | [clanak-027.md](clanak-027.md) | 0 |  |
+| čl. 28 | [clanak-028.md](clanak-028.md) | 0 |  |
+| čl. 29 | [clanak-029.md](clanak-029.md) | 0 |  |
+| čl. 30 | [clanak-030.md](clanak-030.md) | 0 |  |
+| čl. 31 | [clanak-031.md](clanak-031.md) | 0 |  |
+| čl. 32 | [clanak-032.md](clanak-032.md) | 0 |  |
+| čl. 33 | [clanak-033.md](clanak-033.md) | 0 |  |
+| čl. 34 | [clanak-034.md](clanak-034.md) | 0 |  |
+| čl. 35 | [clanak-035.md](clanak-035.md) | 0 |  |
+| čl. 36 | [clanak-036.md](clanak-036.md) | 0 |  |
+| čl. 37 | [clanak-037.md](clanak-037.md) | 0 |  |
+| čl. 38 | [clanak-038.md](clanak-038.md) | 0 |  |
+| čl. 39 | [clanak-039.md](clanak-039.md) | 0 |  |
+| čl. 40 | [clanak-040.md](clanak-040.md) | 0 |  |
+| čl. 41 | [clanak-041.md](clanak-041.md) | 0 |  |
+| čl. 42 | [clanak-042.md](clanak-042.md) | 0 |  |
+| čl. 43 | [clanak-043.md](clanak-043.md) | 0 |  |
+| čl. 44 | [clanak-044.md](clanak-044.md) | 0 |  |
+| čl. 45 | [clanak-045.md](clanak-045.md) | 0 |  |
+| čl. 46 | [clanak-046.md](clanak-046.md) | 0 |  |
+| čl. 47 | [clanak-047.md](clanak-047.md) | 0 |  |
+| čl. 48 | [clanak-048.md](clanak-048.md) | 0 |  |
+| čl. 49 | [clanak-049.md](clanak-049.md) | 0 |  |
+| čl. 50 | [clanak-050.md](clanak-050.md) | 0 |  |
+| čl. 51 | [clanak-051.md](clanak-051.md) | 0 |  |
+| čl. 52 | [clanak-052.md](clanak-052.md) | 0 |  |
+| čl. 53 | [clanak-053.md](clanak-053.md) | 0 |  |
+| čl. 54 | [clanak-054.md](clanak-054.md) | 0 |  |
+| čl. 55 | [clanak-055.md](clanak-055.md) | 0 |  |
+| čl. 56 | [clanak-056.md](clanak-056.md) | 0 |  |
+| čl. 57 | [clanak-057.md](clanak-057.md) | 0 |  |
+| čl. 58 | [clanak-058.md](clanak-058.md) | 0 |  |
+| čl. 59 | [clanak-059.md](clanak-059.md) | 0 |  |
+| čl. 60 | [clanak-060.md](clanak-060.md) | 0 |  |
+| čl. 61 | [clanak-061.md](clanak-061.md) | 0 |  |
+| čl. 62 | [clanak-062.md](clanak-062.md) | 0 |  |
+| čl. 63 | [clanak-063.md](clanak-063.md) | 0 |  |
+| čl. 64 | [clanak-064.md](clanak-064.md) | 0 |  |
+| čl. 65 | [clanak-065.md](clanak-065.md) | 0 |  |
+| čl. 66 | [clanak-066.md](clanak-066.md) | 0 |  |
+| čl. 67 | [clanak-067.md](clanak-067.md) | 0 |  |
+| čl. 68 | [clanak-068.md](clanak-068.md) | 0 |  |
+| čl. 69 | [clanak-069.md](clanak-069.md) | 0 |  |
+| čl. 70 | [clanak-070.md](clanak-070.md) | 0 |  |
+| Naslov | [naslov.md](naslov.md) | 0 |  |
+
+Act id: `zakon-2004-3066` (tags `zakon-2004-3066/<day>`; `python registry/tools/on.py <day> zakon-2004-3066`).
+
+## Status
+
+**repealed, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Zakon o izmjeni Zakona o porezu na dohodak (NN 73/2008)](https://narodne-novine.nn.hr/eli/sluzbeni/2008/73/2421)
+- [Zakon o izmjenama i dopunama Zakona o porezu na dohodak (NN 80/2010)](https://narodne-novine.nn.hr/eli/sluzbeni/2010/80/2276)
+- [Zakon o izmjenama i dopuni Zakona o porezu na dohodak (NN 114/2011)](https://narodne-novine.nn.hr/eli/sluzbeni/2011/114/2227)
+- [Zakon o izmjenama i dopunama Zakona o porezu na dohodak (NN 22/2012)](https://narodne-novine.nn.hr/eli/sluzbeni/2012/22/570)
+- [Zakon o izmjenama i dopunama Zakona o porezu na dohodak (NN 144/2012)](https://narodne-novine.nn.hr/eli/sluzbeni/2012/144/3078)
+- [Zakon o izmjenama i dopunama Zakona o porezu na dohodak (NN 125/2013)](https://narodne-novine.nn.hr/eli/sluzbeni/2013/125/2678)
+- [Zakon o izmjenama i dopunama Zakona o porezu na dohodak (NN 148/2013)](https://narodne-novine.nn.hr/eli/sluzbeni/2013/148/3137)
+- [Zakon o izmjenama i dopunama Zakona o porezu na dohodak (NN 143/2014)](https://narodne-novine.nn.hr/eli/sluzbeni/2014/143/2681)
+- [Zakon o porezu na dohodak (NN 115/2016)](https://narodne-novine.nn.hr/eli/sluzbeni/2016/115/2525)
+
+Cited by:
+
+- [Prethodno obvezujuće mišljenje Agencije za zaštitu tržišnog natjecanja (NN 103/2008)](https://narodne-novine.nn.hr/eli/sluzbeni/2008/103/3139)
+- [Odluka Ustavnog suda Republike Hrvatske broj: U-I-2012/2007, U-I-2013/2007 od 17. lipnja 2009. (NN 88/2009)](https://narodne-novine.nn.hr/eli/sluzbeni/2009/88/2187)
+- [Odluka i Rješenje Ustavnog suda Republike Hrvatske broj: U-IP-3820/2009 i U-IP-3826/2009 i dr. od 17. studenoga 2009., Izdvojeno mišljenje i Dodatak I. uz Rješenje (NN 143/2009)](https://narodne-novine.nn.hr/eli/sluzbeni/2009/143/3515)
+- [Rješenje Ustavnog suda Republike Hrvatske broj: U-I-3111/2008 od 22. prosinca 2009. (NN 7/2010)](https://narodne-novine.nn.hr/eli/sluzbeni/2010/7/171)
+- [Rješenje Ustavnog suda Republike Hrvatske broj: U-I-2172/2008 i U-I-2200/2008 od 13. rujna 2011. (NN 109/2011)](https://narodne-novine.nn.hr/eli/sluzbeni/2011/109/2157)
+- [Rješenje Ustavnog suda Republike Hrvatske broj: U-I-4763/2012 i U-I-1342/2013 od 3. travnja 2013. (NN 43/2013)](https://narodne-novine.nn.hr/eli/sluzbeni/2013/43/834)
+- [Odluka i Rješenje Ustavnog suda Republike Hrvatske broj: U-I-4763/2012 i U-I-1342/2013 od 18. rujna 2013. (NN 120/2013)](https://narodne-novine.nn.hr/eli/sluzbeni/2013/120/2589)
+- [Odluka Ustavnog suda Republike Hrvatske broj: U-I-5294/2013 i dr. od 18. lipnja 2014. (NN 83/2014)](https://narodne-novine.nn.hr/eli/sluzbeni/2014/83/1625)
+- [Kriteriji za dodjelu financijske potpore za programe nevladinih udruga i ustanova nacionalnih manjina prijavljene na javni poziv za predlaganje programa za ostvarivanje kulturne autonomije koji će se sufinancirati sredstvima Državnog proračuna Republike Hrvatske (NN 123/2014)](https://narodne-novine.nn.hr/eli/sluzbeni/2014/123/2361)
+- [Odluka Ustavnog suda Republike Hrvatske broj: U-I-8069/2014 i dr. od 23. siječnja 2015. (NN 14/2015)](https://narodne-novine.nn.hr/eli/sluzbeni/2015/14/275)
+- [Zakon o izvršavanju Državnog proračuna Republike Hrvatske za 2016. godinu (NN 26/2016)](https://narodne-novine.nn.hr/eli/sluzbeni/2016/26/783)
+- [Kriterij financiranja i ugovaranja programa kulturne autonomije nacionalnih manjina i metodologija praćenja i vrednovanja provedbe financiranih programa (NN 105/2016)](https://narodne-novine.nn.hr/eli/sluzbeni/2016/105/2258)
+- [Zakon o izvršavanju Državnog proračuna Republike Hrvatske za 2017. godinu (NN 119/2016)](https://narodne-novine.nn.hr/eli/sluzbeni/2016/119/2606)
+- [Odluka Ustavnog suda Republike Hrvatske broj: U-IXA-4853/2018 od 26. veljače 2019. (NN 34/2019)](https://narodne-novine.nn.hr/eli/sluzbeni/2019/34/731)
+- [Odluka Ustavnog suda Republike Hrvatske broj: U-III-2425/2021 od 15. travnja 2025. i Podupiruće izdvojeno mišljenje sudaca (NN 122/2025)](https://narodne-novine.nn.hr/eli/sluzbeni/2025/122/1746)
+
+## Decisions made by hand
+
+- An act is published here as first printed in Narodne novine, one version, from its page on narodne-novine.nn.hr; the issuer's name, the document number and the signature block (Klasa, Urbroj, place and date, signature) are not part of its text; for a law, the President's proclamation above it is not either.
+- Its one version takes effect on the day its own entry-into-force sentence names: the publication day ("danom objave"), the Nth day after it ("osmoga dana od dana objave" = publication day + 8), a calendar date, the first day of the next month, or the adoption day ("danom donošenja": the ELI date_document, else the place and date above the signature). When the sentence also names another gazette or a website, only a calendar date or the adoption day is read.
+- An act is published once every later document of the official part has been read. When one of them amends, corrects or repeals it by its ELI metadata, names it in an amending, correcting or repealing title, reuses its title, or cites it by name and Narodne novine number with a later number after its own or next to wording that changes or repeals it, the act is published as enacted and labelled ("amended, not consolidated", "repealed, not consolidated", "replaced, not consolidated" or "cited later, not consolidated"), with those documents listed (amended_by, cited_by). Before 2026-11-09 such acts were held back.
+- Decisions about named people (appointments, dismissals, pardons, decorations, citizenship), Constitutional Court decisions and corrections (Ispravak) are left out.
+- An act repealed as a whole and changed by nothing else gets a second, empty version on the day the repeal takes effect, credited to the repealing act, when Narodne novine's ELI metadata names that act as repealing it and the repealing act has exactly one sentence ending it ("prestaje važiti") that cites it by its own Narodne novine number with no later numbers, names no articles or parts and gives no day of its own; the repeal day is then the repealing act's own entry-into-force day, read without exceptions.
+- Consolidated texts (pročišćeni tekst) are left out: one is not a new act, it states no day of its own, older ones renumber articles and omit the amending acts' closing provisions (Ustavni sud U-X-80/2005, U-X-1435/2011), and one text often covers several amendments, so it is not used as a later version either.
