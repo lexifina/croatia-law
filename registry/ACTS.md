@@ -1,6 +1,6 @@
 # Every act in this repository
 
-27396 acts, 27,822 versions. Each act lives in a folder named by its kind, year and identifier, `<kind>/<year>/<identifier>/` (acts published before that layout keep their own folder, listed in data/paths.json); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+27696 acts, 28,122 versions. Each act lives in a folder named by its kind, year and identifier, `<kind>/<year>/<identifier>/` (acts published before that layout keep their own folder, listed in data/paths.json); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## naputak (185, of which 25 amending acts)
 
@@ -1293,7 +1293,7 @@
 | Naredba o dopuni Naredbe o razvrstaju luka otvorenih za javni promet na području Primorsko-goranske županije | [`naredba/2026/1220/`](naredba/2026/1220/) | amending act | 1 | 2026-09-19 | 2026-09-19 |
 | Naredba o mjerama kontrole za suzbijanje afričke svinjske kuge u Republici Hrvatskoj | [`naredba/2026/1289/`](naredba/2026/1289/) | in force | 1 | 2026-09-24 | 2026-09-24 |
 
-## odluka (12807, of which 1631 amending acts)
+## odluka (12983, of which 1662 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -4716,11 +4716,84 @@
 | Odluka o izmjenama i dopunama Odluke o obveznicama, osnovici, visini i stopi, te načinu i rokovima za plaćanje doprinosa Hrvatskoj obrtničkoj komori | [`odluka/2003/3313/`](odluka/2003/3313/) | amending act | 1 | 2003-12-09 | 2003-12-09 |
 | Odluka o osnivanju Konzulata Republike Hrvatske u Sirijskoj Arapskoj Republici, sa sjedištem u Damasku | [`odluka/2004/1/`](odluka/2004/1/) | in force | 1 | 2003-12-29 | 2003-12-29 |
 | Odluka o osnivanju Konzulata Republike Hrvatske u Talijanskoj Republici, sa sjedištem i Napulju | [`odluka/2004/2/`](odluka/2004/2/) | in force | 1 | 2003-12-29 | 2003-12-29 |
+| Odluka o ukidanju radne obveze zdravstvenim djelatnicima visoke stručne spreme | [`odluka/2004/23/`](odluka/2004/23/) | in force | 1 | 2004-01-05 | 2004-01-05 |
 | Odluka o raspisivanju dopunskih odnosno ponovljenih izbora za članove vijeća nacionalnih manjina u jedinicama lokalne i područne (regionalne) samouprave | [`odluka/2004/134/`](odluka/2004/134/) | amended, not consolidated | 1 | 2004-01-14 | 2004-01-14 |
 | Odluka o raspisivanju ponovljenih izbora za predstavnika nacionalne manjine u jedinici lokalne i područne (regionalne) samouprave | [`odluka/2004/135/`](odluka/2004/135/) | in force | 1 | 2004-01-14 | 2004-01-14 |
 | Odluka o raspisivanju dopunskih izbora za predstavnike nacionalnih manjina u predstavničkim tijelima jedinica lokalne i područne (regionalne) samouprave | [`odluka/2004/136/`](odluka/2004/136/) | amended, not consolidated | 1 | 2004-01-14 | 2004-01-14 |
 | Odluka o raspisivanju dopunskih izbora za predstavnike hrvatskog naroda u predstavničkim tijelima jedinica lokalne samouprave | [`odluka/2004/137/`](odluka/2004/137/) | amended, not consolidated | 1 | 2004-01-14 | 2004-01-14 |
 | Odluka o dopuni Odluke o Uredu predsjednika Republike Hrvatske | [`odluka/2004/217/`](odluka/2004/217/) | amending act | 1 | 2004-01-12 | 2004-01-12 |
+| Odluka o preferencijalnim carinskim kvotama pri uvozu određenih poljoprivrednih proizvoda | [`odluka/2004/235/`](odluka/2004/235/) | replaced, not consolidated | 1 | 2004-01-15 | 2004-01-15 |
+| Odluka o izmjeni i dopuni Odluke o uvjetima i načinu poslovanja ovlaštenih mjenjača | [`odluka/2004/237/`](odluka/2004/237/) | amending act | 1 | 2004-01-21 | 2004-01-21 |
+| Odluka o općinskim porezima Općine Vrhovine | [`odluka/2004/245/`](odluka/2004/245/) | amended, not consolidated | 1 | 2004-01-29 | 2004-01-29 |
+| Odluka o uvećanju plaće državnih službenika i namještenika u Ministarstvu obrane | [`odluka/2004/315/`](odluka/2004/315/) | replaced, not consolidated | 1 | 2004-01-26 | 2004-01-26 |
+| Odluka o uvećanju plaće državnih službenika i namještenika u Oružanim snagama Republike Hrvatske | [`odluka/2004/316/`](odluka/2004/316/) | replaced, not consolidated | 1 | 2004-01-26 | 2004-01-26 |
+| Odluka o izmjeni Odluke o raspisivanju dopunskih izbora za predstavnike nacionalnih manjina u predstavničkim tijelima jedinica lokalne i područne (regionalne) samouprave | [`odluka/2004/328/`](odluka/2004/328/) | amending act | 1 | 2004-01-28 | 2004-01-28 |
+| Odluka o izmjeni Odluke o raspisivanju dopunskih izbora za predstavnike hrvatskog naroda u predstavničkim tijelima jedinica lokalne samouprave | [`odluka/2004/329/`](odluka/2004/329/) | amending act | 1 | 2004-01-28 | 2004-01-28 |
+| Odluka o određivanju visine naknade troškova izborne promidžbe za dopunske izbore predstavnika nacionalnih manjina i predstavnika hrvatskog naroda u predstavničkim tijelima jedinica lokalne i područne | [`odluka/2004/330/`](odluka/2004/330/) | amending act | 1 | 2004-01-28 | 2004-01-28 |
+| Odluka o koncesiji pomorskog dobra u svrhu gospodarskog korištenja luke posebne namjene - brodogradilišta Greben | [`odluka/2004/331/`](odluka/2004/331/) | in force | 1 | 2004-01-22 | 2004-01-22 |
+| Odluka o utvrđivanju interesa Republike Hrvatske za izgradnju vodoopskrbnog sustava Donji Lapac | [`odluka/2004/332/`](odluka/2004/332/) | in force | 1 | 2004-01-28 | 2004-01-28 |
+| Odluka o izmjenama i dopuni Odluke o raspolaganju stanovima u vlasništvu Republike Hrvatske namijenjenim za stambeno zbrinjavanje obitelji poginuloga hrvatskog branitelja iz Domovinskog rata i HRVI iz | [`odluka/2004/333/`](odluka/2004/333/) | amending act | 1 | 2004-01-22 | 2004-01-22 |
+| Odluka o uvrštavanju bolesti SARS (Severe Acute Raspiratory Syndrome) na listu bolesti na koje se odnose sve odredbe Zakona o zaštiti pučanstva od zaraznih bolesti | [`odluka/2004/334/`](odluka/2004/334/) | in force | 1 | 2004-01-22 | 2004-01-22 |
+| Odluka o poništavanju Odluke o uvećanju plaće državnih službenika i namještenika u Ministarstvu obrane | [`odluka/2004/431/`](odluka/2004/431/) | in force | 1 | 2004-02-02 | 2004-02-02 |
+| Odluka o poništavanju Odluke o uvećanju plaće državnih službenika i namještenika u Oružanim snagama Republike Hrvatske | [`odluka/2004/432/`](odluka/2004/432/) | in force | 1 | 2004-02-02 | 2004-02-02 |
+| Odluka o održavanju multilateralne vojne vježbe "Adriatic Phiblex 04-2 ENGINEEREX" | [`odluka/2004/443/`](odluka/2004/443/) | in force | 1 | 2004-02-04 | 2004-02-04 |
+| Odluka o preferencijalnoj carinskoj kvoti pri uvozu određenih poljoprivrednih proizvoda | [`odluka/2004/476/`](odluka/2004/476/) | amended, not consolidated | 1 | 2004-02-03 | 2004-02-03 |
+| Odluka o izmjeni Odluke o raspisivanju dopunskih odnosno ponovljenih izbora za članove vijeća nacionalnih manjina u jedinicama lokalne i područne (regionalne) samouprave | [`odluka/2004/477/`](odluka/2004/477/) | amending act | 1 | 2004-02-06 | 2004-02-06 |
+| Odluka o izdavanju obveznica Republike Hrvatske uz plasman na domaćem tržištu kapitala u kunskoj protuvrijednosti iznosa od EUR 200.000.000,00 | [`odluka/2004/478/`](odluka/2004/478/) | replaced, not consolidated | 1 | 2004-02-03 | 2004-02-03 |
+| Odluka o preraspodjeli sredstava planiranih u Uredbi o izmjenama i dopunama Odluke o privremenom financiranju poslova, funkcija i programa državnih tijela i drugih korisnika proračuna Republike Hrvats | [`odluka/2004/493/`](odluka/2004/493/) | amending act | 1 | 2004-02-03 | 2004-02-03 |
+| Odluka o najvišem postotku naknade mirovinskom društvu za 2004. godinu | [`odluka/2004/537/`](odluka/2004/537/) | in force | 1 | 2004-02-19 | 2004-02-19 |
+| Odluka o referentnom prinosu obveznih mirovinskih fondova u 2003. | [`odluka/2004/538/`](odluka/2004/538/) | in force | 1 | 2004-02-19 | 2004-02-19 |
+| Odluka o rokovima izdavanja dokumenta o udjelu | [`odluka/2004/539/`](odluka/2004/539/) | in force | 1 | 2004-02-19 | 2004-02-19 |
+| Odluka o izmjeni Odluke o osnivanju Povjerenstva za praćenje provedbe Nacionalnog programa za Rome | [`odluka/2004/543/`](odluka/2004/543/) | in force | 1 | 2004-02-12 | 2004-02-12 |
+| Odluka o davanju ovlaštenja Središnjem državnom uredu za upravljanje državnom imovinom za raspolaganje imovinom u vlasništvu Republike Hrvatske do određenog iznosa odnosno za obavljanje određenih poslova vezanih uz imovinu u vlasništvu Republike Hrvatske | [`odluka/2004/573/`](odluka/2004/573/) | in force | 1 | 2004-02-18 | 2004-02-18 |
+| Odluka o osnivanju Povjerenstva za imovinu Vlade Republike Hrvatske i povjeravanja tom Povjerenstvu poslova upravljanja i raspolaganja imovinom Republike Hrvatske | [`odluka/2004/574/`](odluka/2004/574/) | repealed, not consolidated | 1 | 2004-02-18 | 2004-02-18 |
+| Odluka o raspisivanju javnog natječaja za dodjelu koncesije za korištenje poljoprivrednog zemljišta u vlasništvu Republike Hrvatske na području Općine Tordinci | [`odluka/2004/575/`](odluka/2004/575/) | replaced, not consolidated | 1 | 2004-02-12 | 2004-02-12 |
+| Odluka o osnivanju Konzulata Republike Hrvatske u Kraljevini Španjolskoj, sa sjedištem u Sevilli | [`odluka/2004/586/`](odluka/2004/586/) | in force | 1 | 2004-02-16 | 2004-02-16 |
+| Odluka o izmjenama Odluke o osnivanju Povjerenstva Vlade Republike Hrvatske za osobe s invaliditetom | [`odluka/2004/666/`](odluka/2004/666/) | in force | 1 | 2004-02-18 | 2004-02-18 |
+| Odluka o izmjenama Odluke o osnivanju Povjerenstva Vlade Republike Hrvatske za prevenciju poremećaja u ponašanju djece i mladih | [`odluka/2004/667/`](odluka/2004/667/) | in force | 1 | 2004-02-18 | 2004-02-18 |
+| Odluka o izmjenama Odluke o osnivanju Vijeća za djecu | [`odluka/2004/668/`](odluka/2004/668/) | in force | 1 | 2004-02-18 | 2004-02-18 |
+| Odluka o izmjenama Odluke o osnivanju Savjeta za mlade | [`odluka/2004/669/`](odluka/2004/669/) | in force | 1 | 2004-02-18 | 2004-02-18 |
+| Odluka o dopuni Odluke o raspolaganju stanovima u vlasništvu Republike Hrvatske namijenjenim za stambeno zbrinjavanje obitelji poginuloga hrvatskog branitelja iz Domovinskog rata i HRVI iz Domovinskog | [`odluka/2004/671/`](odluka/2004/671/) | amending act | 1 | 2004-02-18 | 2004-02-18 |
+| Odluka o izmjenama Odluke o osnivanju Nacionalnog odbora za obilježavanje desete obljetnice Međunarodne godine obitelji u Republici Hrvatskoj u 2004. godini | [`odluka/2004/672/`](odluka/2004/672/) | in force | 1 | 2004-02-18 | 2004-02-18 |
+| Odluka o osnivanju Savjeta za populacijsku politiku | [`odluka/2004/673/`](odluka/2004/673/) | repealed, not consolidated | 1 | 2004-02-18 | 2004-02-18 |
+| Odluka o raspisivanju javnog natječaja za dodjelu koncesije za korištenje poljoprivrednog zemljišta u vlasništvu Republike Hrvatske na području općine Đurđenovac | [`odluka/2004/674/`](odluka/2004/674/) | replaced, not consolidated | 1 | 2004-02-18 | 2004-02-18 |
+| Odluka o dodjeli koncesije za korištenje poljoprivrednog zemljišta u vlasništvu Republike Hrvatske na području Općine Kneževi Vinogradi | [`odluka/2004/675/`](odluka/2004/675/) | replaced, not consolidated | 1 | 2004-02-18 | 2004-02-18 |
+| Odluka o prirezu porezu na dohodak Grada Pregrade | [`odluka/2004/708/`](odluka/2004/708/) | amended, not consolidated | 1 | 2004-03-04 | 2004-03-04 |
+| Odluka o održavanju vojnih vježbi pripadnika Oružanih snaga Republike Hrvatske i oružanih snaga Sjedinjenih Američkih Država tijekom 2004. | [`odluka/2004/805/`](odluka/2004/805/) | in force | 1 | 2004-03-08 | 2004-03-08 |
+| Odluka o raspisivanju javnog natječaja za dodjelu koncesije za korištenje poljoprivrednog zemljišta u vlasništvu Republike Hrvatske na području općine Popovac | [`odluka/2004/813/`](odluka/2004/813/) | in force | 1 | 2004-03-03 | 2004-03-03 |
+| Zakon o izmjenama i dopunama Zakona o mirovinskom osiguranju | [`odluka/2004/828/`](odluka/2004/828/) | amending act | 1 | 2004-03-09 | 2004-03-09 |
+| Odluka o davanju suglasnosti na Financijski plan za 2004. godinu Hrvatskog zavoda za mirovinsko osiguranje | [`odluka/2004/832/`](odluka/2004/832/) | in force | 1 | 2004-03-10 | 2004-03-10 |
+| Odluka o davanju suglasnosti na Financijski plan za 2004. godinu Hrvatskog zavoda za zdravstveno osiguranje | [`odluka/2004/833/`](odluka/2004/833/) | in force | 1 | 2004-03-10 | 2004-03-10 |
+| Odluka o davanju suglasnosti na Financijski plan za 2004. godinu Hrvatskog zavoda za zapošljavanje | [`odluka/2004/834/`](odluka/2004/834/) | in force | 1 | 2004-03-10 | 2004-03-10 |
+| Odluka o davanju suglasnosti na Financijski plan za 2004. godinu Hrvatskih voda | [`odluka/2004/835/`](odluka/2004/835/) | in force | 1 | 2004-03-10 | 2004-03-10 |
+| Odluka o davanju suglasnosti na Financijski plan za 2004. godinu Hrvatskih autocesta | [`odluka/2004/836/`](odluka/2004/836/) | in force | 1 | 2004-03-10 | 2004-03-10 |
+| Odluka o davanju suglasnosti na Financijski plan za 2004. godinu Hrvatskih cesta | [`odluka/2004/837/`](odluka/2004/837/) | in force | 1 | 2004-03-10 | 2004-03-10 |
+| Odluka o davanju suglasnosti na Financijski plan za 2004. godinu Državne agencije za osiguranje štednih uloga i sanaciju banaka | [`odluka/2004/838/`](odluka/2004/838/) | in force | 1 | 2004-03-10 | 2004-03-10 |
+| Odluka o davanju suglasnosti na Financijski plan za 2004. godinu Hrvatskog fonda za privatizaciju | [`odluka/2004/839/`](odluka/2004/839/) | in force | 1 | 2004-03-10 | 2004-03-10 |
+| Odluka o davanju suglasnosti na Financijski plan za 2004. godinu Fonda za zaštitu okoliša i energetsku učinkovitost | [`odluka/2004/840/`](odluka/2004/840/) | in force | 1 | 2004-03-10 | 2004-03-10 |
+| Odluka o izmjeni Odluke o osnivanju Savjeta za razvoj civilnog društva | [`odluka/2004/864/`](odluka/2004/864/) | in force | 1 | 2004-03-12 | 2004-03-12 |
+| Odluka o izdavanju obveznica Republike Hrvatske uz plasman na domaćem tržištu kapitala u kunskoj protuvrijednosti iznosa od EUR 150.000.000,00 | [`odluka/2004/865/`](odluka/2004/865/) | in force | 1 | 2004-03-12 | 2004-03-12 |
+| Odluka o raspisivanju izbora za Gradsko vijeće Grada Biograda na Moru | [`odluka/2004/904/`](odluka/2004/904/) | in force | 1 | 2004-03-18 | 2004-03-18 |
+| Odluka o raspisivanju izbora za Gradsko vijeće Grada Šibenika | [`odluka/2004/905/`](odluka/2004/905/) | in force | 1 | 2004-03-18 | 2004-03-18 |
+| Odluka o osnivanju Vijeća za poljoprivrednu politiku | [`odluka/2004/906/`](odluka/2004/906/) | amended, not consolidated | 1 | 2004-03-12 | 2004-03-12 |
+| Odluka o izmjeni Odluke o osnivanju Međuresorske radne skupine za suradnju Republike Hrvatske s NATO-om i provedbu Akcijskog plana za članstvo(r) | [`odluka/2004/907/`](odluka/2004/907/) | in force | 1 | 2004-03-12 | 2004-03-12 |
+| Odluka o aktualnoj vrijednosti mirovine od 1. siječnja 2004. | [`odluka/2004/908/`](odluka/2004/908/) | in force | 1 | 2004-03-26 | 2004-03-26 |
+| Odluka o najnižoj mirovini za jednu godinu mirovinskog staža od 1. siječnja 2004. | [`odluka/2004/909/`](odluka/2004/909/) | in force | 1 | 2004-03-26 | 2004-03-26 |
+| Odluka o osnovici za određivanje naknade zbog tjelesnog oštećenja i o usklađivanju novčanih naknada zbog tjelesnog oštećenja od 1. siječnja 2004. | [`odluka/2004/910/`](odluka/2004/910/) | in force | 1 | 2004-03-26 | 2004-03-26 |
+| Odluka o naknadi putnih troškova u vezi s ostvarivanjem prava iz mirovinskog osiguranja za 2004. godinu | [`odluka/2004/911/`](odluka/2004/911/) | in force | 1 | 2004-03-26 | 2004-03-26 |
+| Odluka o naknadi za troškove smještaja i prehrane za vrijeme profesionalne rehabilitacije izvan mjesta prebivališta korisnika u 2004. godinu | [`odluka/2004/912/`](odluka/2004/912/) | in force | 1 | 2004-03-26 | 2004-03-26 |
+| Odluka o uvjetima pod kojima se smatra da je osiguranik uzdržavao člana obitelji i uvjetima prestanka prava na obiteljsku mirovinu zbog nastale promjene u imovnom stanju, odnosno prihodima u 2004. godini | [`odluka/2004/913/`](odluka/2004/913/) | in force | 1 | 2004-03-26 | 2004-03-26 |
+| Odluka o raspisivanju javnog natječaja za dodjelu koncesije za korištenje poljoprivrednog zemljišta | [`odluka/2004/917/`](odluka/2004/917/) | amended, not consolidated | 1 | 2004-03-17 | 2004-03-17 |
+| Odluka o visini otpremnine za državne službenike i namještenike Ministarstva obrane i Oružanih snaga Republike Hrvatske kojima služba prestane zbog preustroja ili smanjenja snaga | [`odluka/2004/943/`](odluka/2004/943/) | repealed, not consolidated | 1 | 2004-04-01 | 2004-04-01 |
+| Odluka o utvrđivanju iznosa otpremnine djelatnih vojnih osoba kojima služba prestane nakon isteka roka raspolaganja | [`odluka/2004/944/`](odluka/2004/944/) | in force | 1 | 2004-04-01 | 2004-04-01 |
+| Odluka o izmjenama i dopunama Odluke o načinu i uvjetima sklapanja Ugovora o školovanju vojnih stipendista | [`odluka/2004/945/`](odluka/2004/945/) | amending act | 1 | 2004-04-01 | 2004-04-01 |
+| Odluka o visini otpremnine za djelatne vojne osobe kojima služba prestane zbog preustroja ili smanjenja snaga s pravom na mirovinu | [`odluka/2004/946/`](odluka/2004/946/) | repealed, not consolidated | 1 | 2004-04-01 | 2004-04-01 |
+| Odluka o izmjenama i dopunama Kontnog plana za banke | [`odluka/2004/964/`](odluka/2004/964/) | amending act | 1 | 2004-04-03 | 2004-04-03 |
+| Odluka o opsegu prava na zdravstvenu zaštitu iz osnovnoga zdravstvenog osiguranja za 2004. godinu | [`odluka/2004/977/`](odluka/2004/977/) | in force | 1 | 2004-03-31 | 2004-03-31 |
+| Odluka o krajnjem roku za podnošenje zahtjeva za obnovu | [`odluka/2004/978/`](odluka/2004/978/) | in force | 1 | 2004-03-31 | 2004-03-31 |
+| Odluka o izmjenama i dopunama Odluke o osnivanju Nacionalnog odbora za suzbijanje trgovanja ljudima | [`odluka/2004/979/`](odluka/2004/979/) | amending act | 1 | 2004-03-26 | 2004-03-26 |
+| Odluka o izmjeni Odluke o prijenosu nekretnina u vlasništvo Fonda za obnovu i razvoj Grada Vukovara | [`odluka/2004/980/`](odluka/2004/980/) | in force | 1 | 2004-03-26 | 2004-03-26 |
+| Odluka o osnivanju Radne skupine za izradu prijedloga rezolucije o migracijskoj politici Republike Hrvatske | [`odluka/2004/981/`](odluka/2004/981/) | repealed, not consolidated | 1 | 2004-03-26 | 2004-03-26 |
 | Odluka o davanju ovlaštenja za sazivanje konstituirajućih sjednica vijeća nacionalnih manjina izabranih na dopunskim odnosno ponovljenim izborima | [`odluka/2004/1036/`](odluka/2004/1036/) | amending act | 1 | 2004-04-06 | 2004-04-06 |
 | Odluka o izmjeni Odluke o osnivanju Komisije za granice | [`odluka/2004/1037/`](odluka/2004/1037/) | in force | 1 | 2004-04-01 | 2004-04-01 |
 | Odluka o davanju suglasnosti na Statut Kliničke bolnice Osijek | [`odluka/2004/1038/`](odluka/2004/1038/) | in force | 1 | 2004-04-01 | 2004-04-01 |
@@ -4840,6 +4913,109 @@
 | Odluka o izmjeni i dopuni Odluke o davanju koncesije za osnivanje Podunavske slobodne zone Vukovar | [`odluka/2004/2273/`](odluka/2004/2273/) | amending act | 1 | 2004-09-08 | 2004-09-08 |
 | Odluka o davanju koncesije pomorskog dobra u svrhu izgradnje i gospodarskog korištenja luke posebne namjene - luke nautičkog turizma Sutomišćica | [`odluka/2004/2274/`](odluka/2004/2274/) | in force | 1 | 2004-09-02 | 2004-09-02 |
 | Odluka o davanju suglasnosti na Statut Hrvatske agencije za hranu | [`odluka/2004/2275/`](odluka/2004/2275/) | in force | 1 | 2004-09-02 | 2004-09-02 |
+| Odluka o osnivanju Konzulata Republike Hrvatske u Argentinskoj Republici, sa sjedištem u San Miguel de Tucumanu | [`odluka/2004/2282/`](odluka/2004/2282/) | in force | 1 | 2004-09-06 | 2004-09-06 |
+| Odluka o izmjeni i dopuni Odluke o utvrđivanju Liste lijekova Hrvatskog zavoda za zdravstveno osiguranje | [`odluka/2004/2288/`](odluka/2004/2288/) | amended, not consolidated | 1 | 2004-09-10 | 2004-09-10 |
+| Odluka o izmjeni i dopuni Odluke o osnivanju Povjerenstva Vlade Republike Hrvatske za prevenciju poremećaja u ponašanju djece i mladih | [`odluka/2004/2292/`](odluka/2004/2292/) | amending act | 1 | 2004-09-02 | 2004-09-02 |
+| Odluka o izmjenama Odluke o osnivanju Nacionalnog povjerenstva za suzbijanje HIV/AIDS-a | [`odluka/2004/2298/`](odluka/2004/2298/) | in force | 1 | 2004-09-09 | 2004-09-09 |
+| Odluka o koncesiji pomorskog dobra u svrhu gospodarskog korištenja luke posebne namjene - Brodogradilište Šibenik | [`odluka/2004/2299/`](odluka/2004/2299/) | amended, not consolidated | 1 | 2004-09-09 | 2004-09-09 |
+| Odluka o tehničkim pravilima Hrvatskog registra brodova - Opći propisi (2004) | [`odluka/2004/2318/`](odluka/2004/2318/) | replaced, not consolidated | 1 | 2004-10-01 | 2004-10-01 |
+| Odluka o tehničkim pravilima Hrvatskog registra brodova - Strojni uređaj (2004) | [`odluka/2004/2319/`](odluka/2004/2319/) | replaced, not consolidated | 1 | 2004-10-01 | 2004-10-01 |
+| Odluka o tehničkim pravilima Hrvatskog registra brodova - Cjevovodi (2004) | [`odluka/2004/2320/`](odluka/2004/2320/) | replaced, not consolidated | 1 | 2004-10-01 | 2004-10-01 |
+| Odluka o tehničkim pravilima Hrvatskog registra brodova - Strojevi (2004) | [`odluka/2004/2321/`](odluka/2004/2321/) | replaced, not consolidated | 1 | 2004-10-01 | 2004-10-01 |
+| Odluka o tehničkim pravilima Hrvatskog registra brodova - Električna oprema (2004) | [`odluka/2004/2322/`](odluka/2004/2322/) | in force | 1 | 2004-10-01 | 2004-10-01 |
+| Odluka o izmjeni Odluke o odobrenju eksploatacijskog polja ugljikovodika Vukanovec | [`odluka/2004/2343/`](odluka/2004/2343/) | in force | 1 | 2004-09-17 | 2004-09-17 |
+| Odluka o izmjeni Odluke o odobrenju eksploatacijskog polja ugljikovodika Vučkovec | [`odluka/2004/2344/`](odluka/2004/2344/) | in force | 1 | 2004-09-17 | 2004-09-17 |
+| Odluka o preraspodjeli sredstava planiranih u Državnom proračunu Republike Hrvatske za 2004. godinu, u razdjelu 230 Komisija za odnose s vjerskim zajednicama | [`odluka/2004/2345/`](odluka/2004/2345/) | in force | 1 | 2004-09-22 | 2004-09-22 |
+| Odluka o izdavanju obveznica Republike Hrvatske uz plasman na domaćem tržištu kapitala u kunskoj protuvrijednosti iznosa od EUR 300.000.000,00 | [`odluka/2004/2346/`](odluka/2004/2346/) | in force | 1 | 2004-09-17 | 2004-09-17 |
+| Odluka o osnivanju Konzulata Republike Hrvatske u Republici Cipar, sa sjedištem u Nikoziji | [`odluka/2004/2378/`](odluka/2004/2378/) | in force | 1 | 2004-09-20 | 2004-09-20 |
+| Odluka o općinskim porezima Općine Ervenik | [`odluka/2004/2385/`](odluka/2004/2385/) | replaced, not consolidated | 1 | 2004-10-02 | 2004-10-02 |
+| Odluka o početku primjene stopa carine koje se odnose na uvoz roba podrijetlom iz Republike Moldove | [`odluka/2004/2406/`](odluka/2004/2406/) | in force | 1 | 2004-09-30 | 2004-09-30 |
+| Odluka o davanju koncesije za osnivanje Slobodne zone Vukovar | [`odluka/2004/2434/`](odluka/2004/2434/) | in force | 1 | 2004-09-30 | 2004-09-30 |
+| Odluka o davanju suglasnosti na davanje dijela koncesije u luci posebne namjene - Brodogradilištu Split u potkoncesiju | [`odluka/2004/2435/`](odluka/2004/2435/) | in force | 1 | 2004-09-30 | 2004-09-30 |
+| Odluka o davanju suglasnosti na Statut Klinike za dječje bolesti Zagreb | [`odluka/2004/2436/`](odluka/2004/2436/) | in force | 1 | 2004-09-30 | 2004-09-30 |
+| Odluka o osnivanju Istražnog povjerenstva za utvrđivanje činjenica u svezi s izdanim državnim jamstvima kreditorima privatnog društva Brodogradilište Viktor Lenac d.d., Rijeka, sada u stečaju | [`odluka/2004/2460/`](odluka/2004/2460/) | amended, not consolidated | 1 | 2004-10-01 | 2004-10-01 |
+| Odluka o načinu i rokovima dostavljanja izvješća o stanju određenih potraživanja i obveza u stranim sredstvima plaćanja | [`odluka/2004/2463/`](odluka/2004/2463/) | repealed, not consolidated | 1 | 2004-10-19 | 2004-10-19 |
+| Odluka o izmjenama i dopunama Odluke o obvezi dostavljanja Izvješća o trgovanju na novčanom tržištu | [`odluka/2004/2464/`](odluka/2004/2464/) | amending act | 1 | 2004-10-19 | 2004-10-19 |
+| Odluka o izmjenama Odluke o minimalno potrebnim deviznim potraživanjima | [`odluka/2004/2465/`](odluka/2004/2465/) | in force | 1 | 2004-10-19 | 2004-10-19 |
+| Odluka o izmjeni i dopuni Odluke o koncesiji pomorskog dobra u svrhu izgradnje i gospodarskog korištenja luke posebne namjene - luke nautičkog turizma Rabac | [`odluka/2004/2483/`](odluka/2004/2483/) | amending act | 1 | 2004-09-30 | 2004-09-30 |
+| Odluka o mjerilima i načinu korištenja vlastitih prihoda ustanova u kulturi i zaštiti prirode | [`odluka/2004/2497/`](odluka/2004/2497/) | repealed, not consolidated | 1 | 2004-10-06 | 2004-10-06 |
+| Odluka o izmjeni Odluke o osnovama za sklapanje ugovora sa zdravstvenim ustanovama i privatnim zdravstvenim radnicima za razdoblje od 1. travnja do 31. prosinca 2004. godine | [`odluka/2004/2522/`](odluka/2004/2522/) | in force | 1 | 2004-10-14 | 2004-10-14 |
+| Odluka o izmjeni Odluke o načinu osiguravanja i raspolaganja sredstvima dopunskoga zdravstvenog osiguranja | [`odluka/2004/2523/`](odluka/2004/2523/) | amending act | 1 | 2004-10-14 | 2004-10-14 |
+| Odluka o utvrđivanju interesa Republike Hrvatske za izgradnju podzemne javne garaže, stambenih, stambeno-poslovnih i poslovnih objekata, lokacije ŻGomilaŽ u Starom Gradu, u k.o. Rijeka | [`odluka/2004/2545/`](odluka/2004/2545/) | in force | 1 | 2004-10-19 | 2004-10-19 |
+| Odluka o davanju suglasnosti na Statut Fonda za profesionalnu rehabilitaciju i zapošljavanje osoba s invaliditetom | [`odluka/2004/2546/`](odluka/2004/2546/) | in force | 1 | 2004-10-15 | 2004-10-15 |
+| Odluka o izmjeni Odluke o obveznoj pričuvi | [`odluka/2004/2550/`](odluka/2004/2550/) | amended, not consolidated | 1 | 2004-10-27 | 2004-10-27 |
+| Odluka o preraspodjeli sredstava planiranih u Državnom proračunu Republike Hrvatske za 2004. | [`odluka/2004/2558/`](odluka/2004/2558/) | in force | 1 | 2004-10-20 | 2004-10-20 |
+| Zakon o nacionalnom centru za vanjsko vrednovanje obrazovanja | [`odluka/2004/2623/`](odluka/2004/2623/) | amended, not consolidated | 1 | 2004-11-06 | 2004-11-06 |
+| Odluka o rodovima, službama, strukama i njihovim specijalnostima | [`odluka/2004/2625/`](odluka/2004/2625/) | repealed, not consolidated | 1 | 2004-10-29 | 2004-10-29 |
+| Odluka o obvezi dostavljanja izvješća "Neto potraživanja banke od opće države i garancije" | [`odluka/2004/2721/`](odluka/2004/2721/) | repealed, not consolidated | 1 | 2004-11-08 | 2004-11-08 |
+| Odluka o izmjeni i dopuni Odluke o porezima Grada Vrbovskog | [`odluka/2004/2732/`](odluka/2004/2732/) | amending act | 1 | 2004-11-18 | 2004-11-18 |
+| Odluka o osnivanju Konzulata Republike Hrvatske u Rumunjskoj, sa sjedištem u Resiti | [`odluka/2004/2742/`](odluka/2004/2742/) | in force | 1 | 2004-11-03 | 2004-11-03 |
+| Odluka o prestanku sanacije Studentskog centra u Zagrebu Sveučilišta u Zagrebu | [`odluka/2004/2762/`](odluka/2004/2762/) | in force | 1 | 2004-11-11 | 2004-11-11 |
+| Odluka o dodjeli koncesije za korištenje poljoprivrednog zemljišta u vlasništvu Republike Hrvatske na području općine Tordinci | [`odluka/2004/2763/`](odluka/2004/2763/) | replaced, not consolidated | 1 | 2004-11-11 | 2004-11-11 |
+| Odluka o davanju ovlasti Vijeću Hrvatske agencije za telekomunikacije | [`odluka/2004/2808/`](odluka/2004/2808/) | in force | 1 | 2004-11-12 | 2004-11-12 |
+| Odluka o izmjeni i dopuni Odluke o sadržaju i obliku isprave kojom se dokazuje status osigurane osobe Hrvatskog zavoda za zdravstveno osiguranje iz osnovnoga zdravstvenog osiguranja | [`odluka/2004/2831/`](odluka/2004/2831/) | amending act | 1 | 2004-11-27 | 2004-11-27 |
+| Odluka o izmjeni i dopuni Odluke o sadržaju, obliku, izgledu i načinu korištenja iskaznice dopunskoga zdravstvenog osiguranja | [`odluka/2004/2832/`](odluka/2004/2832/) | amending act | 1 | 2004-11-27 | 2004-11-27 |
+| Odluka o dopuni Odluke o koncesiji pomorskog dobra u svrhu gospodarskog korištenja luke posebne namjene - luke nautičkog turizma Dubrovnik | [`odluka/2004/2838/`](odluka/2004/2838/) | amending act | 1 | 2004-11-11 | 2004-11-11 |
+| Odluka o konstrukciji i upotrebi međunarodnog broja bankovnog računa (IBAN) | [`odluka/2004/2839/`](odluka/2004/2839/) | cited later, not consolidated | 1 | 2004-11-30 | 2004-11-30 |
+| Odluka o izmjeni i dopuni Odluke o konstrukciji računa u banci, vodećem broju banke, uvjetima i načinu otvaranja računa u banci i sadržaju registra računa poslovnih subjekata u banci | [`odluka/2004/2840/`](odluka/2004/2840/) | amending act | 1 | 2004-11-30 | 2004-11-30 |
+| Odluka o raspisivanju javnog natječaja za dodjelu koncesije za korištenje poljoprivrednog zemljišta u vlasništvu Republike Hrvatske na području Grada Velike Gorice | [`odluka/2004/2855/`](odluka/2004/2855/) | in force | 1 | 2004-11-18 | 2004-11-18 |
+| Odluka o preraspodjeli sredstava planiranih u Državnom proračunu Republike Hrvatske za 2004. godinu | [`odluka/2004/2856/`](odluka/2004/2856/) | replaced, not consolidated | 1 | 2004-11-24 | 2004-11-24 |
+| Odluka o općinama koje mogu donijeti prostorni plan uređenja općine sa smanjenim sadržajem | [`odluka/2004/2864/`](odluka/2004/2864/) | in force | 1 | 2004-11-19 | 2004-11-19 |
+| Odluka o preraspodjeli sredstava planiranih u Državnom proračunu Republike Hrvatske za 2004. godinu | [`odluka/2004/2873/`](odluka/2004/2873/) | replaced, not consolidated | 1 | 2004-11-26 | 2004-11-26 |
+| Odluka o izdavanju obveznica Republike Hrvatske uz plasman na domaćem tržištu kapitala u kunskoj protuvrijednosti iznosa od EUR 200.000.000,00 | [`odluka/2004/2912/`](odluka/2004/2912/) | in force | 1 | 2004-11-25 | 2004-11-25 |
+| Odluka o raspisivanju izbora za predsjednika Republike Hrvatske | [`odluka/2004/2949/`](odluka/2004/2949/) | replaced, not consolidated | 1 | 2004-12-01 | 2004-12-01 |
+| Odluka o davanju suglasnosti na Financijski plan Hrvatskog zavoda za mirovinsko osiguranje za 2005. godinu | [`odluka/2004/2991/`](odluka/2004/2991/) | in force | 1 | 2004-12-07 | 2004-12-07 |
+| Odluka o davanju suglasnosti na Financijski plan Hrvatskog zavoda za zdravstveno osiguranje za 2005. godinu | [`odluka/2004/2992/`](odluka/2004/2992/) | in force | 1 | 2004-12-07 | 2004-12-07 |
+| Odluka o davanju suglasnosti na Financijski plan Hrvatskog zavoda za zapošljavanje za 2005. godinu | [`odluka/2004/2993/`](odluka/2004/2993/) | in force | 1 | 2004-12-07 | 2004-12-07 |
+| Odluka o davanju suglasnosti na Financijski plan Hrvatskih voda za 2005. godinu | [`odluka/2004/2994/`](odluka/2004/2994/) | in force | 1 | 2004-12-07 | 2004-12-07 |
+| Odluka o davanju suglasnosti na Financijski plan Hrvatskih autocesta za 2005. godinu | [`odluka/2004/2995/`](odluka/2004/2995/) | in force | 1 | 2004-12-07 | 2004-12-07 |
+| Odluka o davanju suglasnosti na Financijski plan Hrvatskih cesta za 2005. godinu | [`odluka/2004/2996/`](odluka/2004/2996/) | in force | 1 | 2004-12-07 | 2004-12-07 |
+| Odluka o davanju suglasnosti na Financijski plan Državne agencije za osiguranje štednih uloga i sanaciju banaka za 2005. godinu | [`odluka/2004/2997/`](odluka/2004/2997/) | in force | 1 | 2004-12-07 | 2004-12-07 |
+| Odluka o davanju suglasnosti na Financijski plan Hrvatskog fonda za privatizaciju za 2005. godinu | [`odluka/2004/2998/`](odluka/2004/2998/) | in force | 1 | 2004-12-07 | 2004-12-07 |
+| Odluka o davanju suglasnosti na Financijski plan Fonda za zaštitu okoliša i energetsku učinkovitost za 2005. godinu | [`odluka/2004/2999/`](odluka/2004/2999/) | in force | 1 | 2004-12-07 | 2004-12-07 |
+| Odluka o davanju suglasnosti na utvrđivanje granica lučkih područja Šibensko-kninske županije | [`odluka/2004/3001/`](odluka/2004/3001/) | in force | 1 | 2004-12-02 | 2004-12-02 |
+| Zakon o izmjenama i dopunama Zakona o zakupu poslovnog prostora | [`odluka/2004/3012/`](odluka/2004/3012/) | amending act | 1 | 2004-12-18 | 2004-12-18 |
+| Odluka o dopuni Odluke o Popisu trgovačkih društava od posebnoga državnog interesa | [`odluka/2004/3016/`](odluka/2004/3016/) | amending act | 1 | 2004-12-10 | 2004-12-10 |
+| Odluka o davanju suglasnosti na Izmjene i dopune Financijskog plana za 2004. godinu Hrvatskih autocesta | [`odluka/2004/3017/`](odluka/2004/3017/) | amending act | 1 | 2004-12-10 | 2004-12-10 |
+| Odluka o prirezu porezu na dohodak Općine Belica | [`odluka/2004/3025/`](odluka/2004/3025/) | in force | 1 | 2004-12-18 | 2004-12-18 |
+| Odluka o izmjeni Odluke o osnivanju Istražnog povjerenstva za utvrđivanje činjenica u svezi s izdanim državnim jamstvima kreditorima privatnog društva Brodogradilišta "Viktor Lenac" d.d., Rijeka, sada | [`odluka/2004/3036/`](odluka/2004/3036/) | in force | 1 | 2004-12-08 | 2004-12-08 |
+| Odluka o dodjeli koncesije za korištenje poljoprivrednog zemljišta u vlasništvu Republike Hrvatske na području Općine Ivankovo | [`odluka/2004/3048/`](odluka/2004/3048/) | repealed, not consolidated | 1 | 2004-12-09 | 2004-12-09 |
+| Odluka o dodjeli koncesije za korištenje poljoprivrednog zemljišta u vlasništvu Republike Hrvatske na području Grada Našice | [`odluka/2004/3049/`](odluka/2004/3049/) | in force | 1 | 2004-12-09 | 2004-12-09 |
+| Odluka o izmjeni i dopuni Odluke o postupku otvarenja i vođenja deviznih računa i deviznih štednih uloga rezidenata u banci | [`odluka/2004/3062/`](odluka/2004/3062/) | amending act | 1 | 2004-12-22 | 2004-12-22 |
+| Odluka o izmjeni i dopuni Odluke o uvjetima i načinu otvaranja i vođenja računa nerezidenata u banci | [`odluka/2004/3063/`](odluka/2004/3063/) | amended, not consolidated | 1 | 2004-12-22 | 2004-12-22 |
+| Odluka o izmjeni i dopuni Odluke o uvjetima i načinu obavljanja platnog prometa s inozemstvom | [`odluka/2004/3064/`](odluka/2004/3064/) | amended, not consolidated | 1 | 2004-12-22 | 2004-12-22 |
+| Zakon o izmjenama i dopuni Zakona o lijekovima i medicinskim proizvodima | [`odluka/2004/3081/`](odluka/2004/3081/) | amending act | 1 | 2004-12-23 | 2004-12-23 |
+| Zakon o otpadu | [`odluka/2004/3083/`](odluka/2004/3083/) | amended, not consolidated | 1 | 2004-12-24 | 2004-12-24 |
+| Odluka o preferencijalnoj carinskoj kvoti pri uvozu određenoga poljoprivrednog proizvoda iz zemalja članica Europske unije | [`odluka/2004/3098/`](odluka/2004/3098/) | amended, not consolidated | 1 | 2004-12-15 | 2004-12-15 |
+| Odluka o utvrđivanju interesa Republike Hrvatske za izgradnju RO-LA terminala uz željeznički kolodvor u Spačvi, u k.o. Vrbanja | [`odluka/2004/3099/`](odluka/2004/3099/) | in force | 1 | 2004-12-17 | 2004-12-17 |
+| Odluka o visini naknade za polaganje vozačkog ispita | [`odluka/2004/3107/`](odluka/2004/3107/) | repealed, not consolidated | 1 | 2004-12-25 | 2004-12-25 |
+| Odluka o visini naknada za tehnički pregled i druge poslove koji se obavljaju u stanicama za tehničke preglede vozila | [`odluka/2004/3108/`](odluka/2004/3108/) | replaced, not consolidated | 1 | 2004-12-25 | 2004-12-25 |
+| Odluka o usvajanju programa Hrvatske agencije za malo gospodarstvo za odobravanje jamstava | [`odluka/2004/3145/`](odluka/2004/3145/) | in force | 1 | 2004-10-27 | 2004-10-27 |
+| Odluka o financiranju Hrvatske gospodarske komore u 2005. | [`odluka/2004/3149/`](odluka/2004/3149/) | in force | 1 | 2004-12-22 | 2004-12-22 |
+| Odluka o dopuni Odluke o dopuštenoj visini tehnološkog manjka, kala, kvara, rasipa i loma u proizvodnji vina, bezalkoholnog piva, mineralne vode, voćnih sokova i sirupa | [`odluka/2004/3150/`](odluka/2004/3150/) | amending act | 1 | 2004-12-30 | 2004-12-30 |
+| Odluka o kriterijima i mjerilima za utvrđivanje bilančnih prava za financiranje minimalnog financijskog standarda javnih potreba osnovnog školstva u 2005. godini | [`odluka/2004/3187/`](odluka/2004/3187/) | in force | 1 | 2004-12-27 | 2004-12-27 |
+| Odluka o kriterijima i mjerilima za utvrđivanje bilančnih prava za financiranje minimalnog financijskog standarda javnih potreba srednjih škola i učeničkih domova u 2005. godini | [`odluka/2004/3188/`](odluka/2004/3188/) | in force | 1 | 2004-12-27 | 2004-12-27 |
+| Odluka o minimalnim financijskim standardima za decentralizirane funkcije za zdravstvene ustanove u 2005. godini | [`odluka/2004/3189/`](odluka/2004/3189/) | amended, not consolidated | 1 | 2004-12-27 | 2004-12-27 |
+| Odluka o minimalnim financijskim standardima materijalnih i financijskih rashoda centara za socijalnu skrb i pomoći za podmirenje troškova stanovanja korisnicima koji se griju na drva u 2005. godini | [`odluka/2004/3190/`](odluka/2004/3190/) | amended, not consolidated | 1 | 2004-12-27 | 2004-12-27 |
+| Odluka o minimalnim financijskim standardima za decentralizirano financiranje domova za starije i nemoćne osobe u 2005. godini | [`odluka/2004/3191/`](odluka/2004/3191/) | amended, not consolidated | 1 | 2004-12-27 | 2004-12-27 |
+| Odluka o utvrđivanju godišnje kvote radnih dozvola za zapošljavanje stranaca za kalendarsku godinu 2005. | [`odluka/2004/3192/`](odluka/2004/3192/) | in force | 1 | 2004-12-27 | 2004-12-27 |
+| Odluka o davanju prethodne suglasnosti na Statut Hrvatske agencije za telekomunikacije | [`odluka/2004/3194/`](odluka/2004/3194/) | in force | 1 | 2004-12-15 | 2004-12-15 |
+| Odluka o obvezi rada ureda državne uprave u dane izbora | [`odluka/2004/3206/`](odluka/2004/3206/) | replaced, not consolidated | 1 | 2004-12-23 | 2004-12-23 |
+| Odluka o minimalnim financijskim standardima za decentralizirano financiranje redovite djelatnosti javnih vatrogasnih postrojbi u 2005. godini | [`odluka/2004/3207/`](odluka/2004/3207/) | in force | 1 | 2004-12-29 | 2004-12-29 |
+| Odluka o izmjeni Odluke o koncesiji pomorskog dobra u svrhu gospodarskog korištenja luke posebne namjene - industrijske luke Sv. Petar, Pula | [`odluka/2004/3208/`](odluka/2004/3208/) | in force | 1 | 2004-12-23 | 2004-12-23 |
+| Odluka o davanju suglasnosti na Statut Kliničke bolnice "Sestre milosrdnice" | [`odluka/2004/3209/`](odluka/2004/3209/) | in force | 1 | 2004-12-23 | 2004-12-23 |
+| Odluka o davanju suglasnosti na Statut Agencije za plovne putove unutarnjih voda | [`odluka/2004/3210/`](odluka/2004/3210/) | in force | 1 | 2004-12-23 | 2004-12-23 |
+| Odluka o izmjenama i dopunama Statuta Hrvatske obrtničke komore | [`odluka/2004/3222/`](odluka/2004/3222/) | amending act | 1 | 2004-12-08 | 2004-12-08 |
+| Odluka o opsegu prava na zdravstvenu zaštitu iz osnovnoga zdravstvenog osiguranja za 2005. godinu | [`odluka/2004/3236/`](odluka/2004/3236/) | in force | 1 | 2004-12-30 | 2004-12-30 |
+| Odluka o posebnim standardima i mjerilima njihove primjene u provođenju primarne zdravstvene zaštite iz osnovnoga zdravstvenog osiguranja za 2005. godinu | [`odluka/2004/3239/`](odluka/2004/3239/) | amended, not consolidated | 1 | 2004-12-30 | 2004-12-30 |
+| Odluka o utvrđivanju cijene rada i materijala zubotehničara za izradu stomatološko-protetskih pomagala, ortodontskih uređaja, udlaga, resekcijskih proteza, epiteza i opturatora za osigurane osobe Hrvatskog zavoda za zdravstveno osiguranje | [`odluka/2004/3240/`](odluka/2004/3240/) | amended, not consolidated | 1 | 2004-12-30 | 2004-12-30 |
+| Odluka o obvezi rada Ministarstva unutarnjih poslova na dan izbora | [`odluka/2004/3242/`](odluka/2004/3242/) | replaced, not consolidated | 1 | 2004-12-29 | 2004-12-29 |
+| Odluka o preraspodjeli sredstava planiranih u Državnom proračunu Republike Hrvatske za 2004. godinu | [`odluka/2004/3243/`](odluka/2004/3243/) | in force | 1 | 2004-12-31 | 2004-12-31 |
+| Odluka o izmjeni i dopuni Odluke o izmjeni i dopuni Odluke o konstrukciji računa u banci, vodećem broju banke, uvjetima i načinu otvaranja računa u banci i sadržaju registra računa poslovnih subjekata | [`odluka/2004/3246/`](odluka/2004/3246/) | amending act | 1 | 2004-12-31 | 2004-12-31 |
+| Odluka o izmjeni i dopuni Odluke o uvjetima za izdavanje odobrenja za otvaranje deviznog računa u inozemstvu | [`odluka/2004/3247/`](odluka/2004/3247/) | amending act | 1 | 2005-01-08 | 2005-01-08 |
+| Odluka o pokretanju postupka prisilne likvidacije Primus banke d.d., Zagreb | [`odluka/2004/3248/`](odluka/2004/3248/) | in force | 1 | 2004-12-23 | 2004-12-23 |
+| Odluka o izmjenama i dopunama Odluke o obvezi dostavljanja izvješća "Neto potraživanja banke od opće države i garancije" | [`odluka/2004/3249/`](odluka/2004/3249/) | amending act | 1 | 2005-01-08 | 2005-01-08 |
+| Odluka o izdavanju Globalne obveznice Republike Hrvatske za naknadu imovine oduzete za vrijeme jugoslavenske komunističke vladavine | [`odluka/2004/3251/`](odluka/2004/3251/) | replaced, not consolidated | 1 | 2004-12-30 | 2004-12-30 |
 | Odluka o visini i načinu korištenja naknade koju plaćaju davatelji univerzalnih poštanskih usluga iz prihoda ostvarenog u prethodnoj godini | [`odluka/2005/14/`](odluka/2005/14/) | in force | 1 | 2004-12-29 | 2004-12-29 |
 | Odluka o izmjeni Odluke o načinu naplate troškova zdravstvene zaštite koje osobno snosi stranac | [`odluka/2005/49/`](odluka/2005/49/) | in force | 1 | 2005-01-13 | 2005-01-13 |
 | Odluka o utvrđivanju Liste lijekova Hrvatskog zavoda za zdravstveno osiguranje | [`odluka/2005/73/`](odluka/2005/73/) | amended, not consolidated | 1 | 2005-01-11 | 2005-01-11 |
@@ -14105,7 +14281,7 @@
 | Odluka o subvencioniranju dijela krajnje cijene isporučene toplinske energije za sve krajnje kupce osim za krajnje kupce koji koriste toplinsku energiju pretežito za poslovnu upotrebu | [`odluka/2026/1520/`](odluka/2026/1520/) | in force | 1 | 2026-11-07 | 2026-11-07 |
 | Odluka o raspisivanju izbora za članove Državnoodvjetničkog vijeće iz reda zamjenika državnih odvjetnika | [`odluka/2026/1523/`](odluka/2026/1523/) | in force | 1 | 2026-11-06 | 2026-11-06 |
 
-## pravilnik (8409, of which 2346 amending acts)
+## pravilnik (8533, of which 2382 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -14487,6 +14663,130 @@
 | Pravilnik o izmjenama i dopunama Pravilnika o napredovanju učitelja i nastavnika u osnovnom i srednjem školstvu | [`pravilnik/1999/2265/`](pravilnik/1999/2265/) | amending act | 1 | 2000-01-07 | 2000-01-07 |
 | Pravilnik o izmjenama i dopunama Pravilnika o uvjetima i načinu ostvarivanja prava na osposobljavanje za samostalan život i rad | [`pravilnik/1999/2266/`](pravilnik/1999/2266/) | amending act | 1 | 1999-12-30 | 1999-12-30 |
 | Pravilnik o izmjenama i dopunama Pravilnika o tehničkom nadzoru električnih postrojenja, instalacija i uređaja namijenjenih za rad u prostorima ugroženim eksplozivnom atmosferom | [`pravilnik/1999/2268/`](pravilnik/1999/2268/) | amending act | 1 | 2000-01-07 | 2000-01-07 |
+| Pravilnik o izmjenama i dopunama Pravilnika o uvjetima i načinu korištenja sredstava naknade koja se plaća zbog promjene namjene poljoprivrednog zemljišta | [`pravilnik/2000/10/`](pravilnik/2000/10/) | amended, not consolidated | 1 | 2000-01-04 | 2000-01-04 |
+| Pravilnik o programu stručnoga ispita za stečajnoga upravitelja i načinu njegova polaganja | [`pravilnik/2000/11/`](pravilnik/2000/11/) | replaced, not consolidated | 1 | 2000-02-06 | 2000-02-06 |
+| Pravilnik o materijalno-tehničkim uvjetima za rad građevnih inspektora i nadzornika | [`pravilnik/2000/12/`](pravilnik/2000/12/) | cited later, not consolidated | 1 | 2000-01-15 | 2000-01-15 |
+| Pravilnik o uvjetima i mjerilima za davanje ovlaštenja za kontrolu projekata | [`pravilnik/2000/13/`](pravilnik/2000/13/) | repealed, not consolidated | 1 | 2000-01-15 | 2000-01-15 |
+| Pravilnik o izmjenama pravilnika o visini i načinu plaćanja naknade za pokrivanje troškova nadzora i utvrđivanja zdravstvene ispravnosti namirnica i predmeta opće uporabe koji se uvoze u Republiku Hrvatsku | [`pravilnik/2000/14/`](pravilnik/2000/14/) | in force | 1 | 2000-01-15 | 2000-01-15 |
+| Pravilnik o vođenju Upisnika proizvođača i o uvjetima za obavljanje djelatnosti proizvodnje duhanskih proizvoda | [`pravilnik/2000/19/`](pravilnik/2000/19/) | repealed, not consolidated | 1 | 2000-01-18 | 2000-01-18 |
+| Pravilnik o izmjenama i dopunama Pravilnika o uvjetima za dobivanje ovlaštenja za obavljanje aktuarskih poslova (statusa ovlaštenog aktuara) | [`pravilnik/2000/107/`](pravilnik/2000/107/) | amending act | 1 | 2000-02-04 | 2000-02-04 |
+| Pravilnik o izmjenama i dopunama Pravilnika o unutarnjem redu u Parku prirode "Kopački rit" | [`pravilnik/2000/137/`](pravilnik/2000/137/) | amending act | 1 | 2000-02-05 | 2000-02-05 |
+| Pravilnik o standardima i normativima prava iz obveznog zdravstvenog osiguranja za razdoblje od 1. siječnja do 31. ožujka 2000. godine | [`pravilnik/2000/145/`](pravilnik/2000/145/) | in force | 1 | 2000-02-01 | 2000-02-01 |
+| Pravilnik o pohrani dionica koje se vode u računalnom sustavu Središnje depozitarne agencije za potrebe preuzimanja dioničkih društava | [`pravilnik/2000/155/`](pravilnik/2000/155/) | in force | 1 | 2000-02-09 | 2000-02-09 |
+| Pravilnik o izmjeni i dopuni Pravilnika o obveznom obliku i sadržaju tromjesečnih financijskih i poslovnih izvješća | [`pravilnik/2000/189/`](pravilnik/2000/189/) | amending act | 1 | 2000-02-04 | 2000-02-04 |
+| Pravilnik o izmjenama i dopunama Pravilnika o porezu na dodanu vrijednost | [`pravilnik/2000/1017/`](pravilnik/2000/1017/) | amended, not consolidated | 1 | 2000-05-04 | 2000-05-04 |
+| Pravilnik o izmjenama i dopunama Pravilnika o temeljnim zahtjevima za jestiva ulja od ploda i komine maslina | [`pravilnik/2000/1020/`](pravilnik/2000/1020/) | amending act | 1 | 2000-05-04 | 2000-05-04 |
+| Pravilnik o izmjenama i dopunama Pravilnika o tehničkom pregledu željezničkih vozila | [`pravilnik/2000/1038/`](pravilnik/2000/1038/) | amending act | 1 | 2000-05-06 | 2000-05-06 |
+| Pravilnik o izmjenama Pravilnika o službenim sjedištima javnih bilježnika | [`pravilnik/2000/1039/`](pravilnik/2000/1039/) | amended, not consolidated | 1 | 2000-04-28 | 2000-04-28 |
+| Pravilnik o metodologiji izrade stručne dokumentacije radi utvrđivanja staža osiguranja s povećanim trajanjem | [`pravilnik/2000/1040/`](pravilnik/2000/1040/) | repealed, not consolidated | 1 | 2000-05-06 | 2000-05-06 |
+| Pravilnik o kriterijima za utvrđivanje programa javnih potreba u području filma i njihovom financiranju | [`pravilnik/2000/1041/`](pravilnik/2000/1041/) | repealed, not consolidated | 1 | 2000-04-28 | 2000-04-28 |
+| Pravilnik o ukidanju Pravilnika o vođenju upisnika proizvođača i o uvjetima za obavljanje djelatnosti proizvodnje duhanskih proizvoda | [`pravilnik/2000/1073/`](pravilnik/2000/1073/) | in force | 1 | 2000-05-13 | 2000-05-13 |
+| Pravilnik o ukidanju Pravilnika o vođenju upisnika o markama duhanskih proizvoda te upisnika o uvoznicima i izvoznicima duhana i duhanskih proizvoda | [`pravilnik/2000/1074/`](pravilnik/2000/1074/) | in force | 1 | 2000-05-13 | 2000-05-13 |
+| Pravilnik o izmjeni Pravilnika o razvrstavanju i kategorizaciji luka nautičkog turizma | [`pravilnik/2000/1075/`](pravilnik/2000/1075/) | in force | 1 | 2000-05-13 | 2000-05-13 |
+| Pravilnik o izmjenama Pravilnika o ortopedskim i drugim pomagalima | [`pravilnik/2000/1076/`](pravilnik/2000/1076/) | amended, not consolidated | 1 | 2000-05-13 | 2000-05-13 |
+| Pravilnik o izmjenama i dopunama Pravilnika o sudu časti pri Hrvatskoj gospodarskoj komori | [`pravilnik/2000/1077/`](pravilnik/2000/1077/) | amended, not consolidated | 1 | 2000-05-13 | 2000-05-13 |
+| Pravilnik o građevinama koje podliježu sanitarnom nadzoru te načinu obavljanja sanitarnog nadzora tijekom njihove gradnje | [`pravilnik/2000/1099/`](pravilnik/2000/1099/) | repealed, not consolidated | 1 | 2000-05-19 | 2000-05-19 |
+| Pravilnik o izmjeni Pravilnika o obračunu i plaćanju naknade za korištenje voda | [`pravilnik/2000/1100/`](pravilnik/2000/1100/) | in force | 1 | 2000-05-19 | 2000-05-19 |
+| Pravilnik o izmjenama i dopunama Pravilnika o posebnom porezu na duhanske proizvode i rukovanju markicama za njihovo obilježavanje | [`pravilnik/2000/1116/`](pravilnik/2000/1116/) | amending act | 1 | 2000-05-25 | 2000-05-25 |
+| Pravilnik o izmjenama Pravilnika o ortopedskim i drugim pomagalima | [`pravilnik/2000/1171/`](pravilnik/2000/1171/) | amended, not consolidated | 1 | 2000-05-23 | 2000-05-23 |
+| Pravilnik o standardima i normativima prava iz obveznog zdravstvenog osiguranja | [`pravilnik/2000/1173/`](pravilnik/2000/1173/) | amended, not consolidated | 1 | 2000-05-23 | 2000-05-23 |
+| Pravilnik o načinu i postupku za ostvarivanje novčanih poticaja i naknada u poljoprivredi i ribarstvu | [`pravilnik/2000/1186/`](pravilnik/2000/1186/) | amended, not consolidated | 1 | 2000-06-03 | 2000-06-03 |
+| Pravilnik o utvrđivanju visine i načina plaćanja naknada za pokriće troškova u postupku homologacije novih i upotrebljavanih guma iz uvoza | [`pravilnik/2000/1188/`](pravilnik/2000/1188/) | cited later, not consolidated | 1 | 2000-06-03 | 2000-06-03 |
+| Pravilnik o visini cestarine za uporabu autocesta i objekata s naplatom | [`pravilnik/2000/1209/`](pravilnik/2000/1209/) | cited later, not consolidated | 1 | 2000-06-08 | 2000-06-08 |
+| Pravilnik o postupku u slučaju rođenja ili smrti, nalaska napuštenoga novorođenoga djeteta, primitku izjave posljednje volje i postupku s imovinom umrlih osoba na brodu | [`pravilnik/2000/1240/`](pravilnik/2000/1240/) | in force | 1 | 2000-06-14 | 2000-06-14 |
+| Pravilnik o ispitivanju nesreća brodova na unutarnjim vodama | [`pravilnik/2000/1242/`](pravilnik/2000/1242/) | in force | 1 | 2000-06-14 | 2000-06-14 |
+| Pravilnik o uvjetima i načinu korištenja sredstava za kreditiranja razvitka i obnove poljoprivrede | [`pravilnik/2000/1268/`](pravilnik/2000/1268/) | amended, not consolidated | 1 | 2000-06-09 | 2000-06-09 |
+| Pravilnik o izmjenama i dopunama Pravilnika o visini naknade troškova za obavljanje usluga u području vinogradarstva i vinarstva | [`pravilnik/2000/1270/`](pravilnik/2000/1270/) | amending act | 1 | 2000-06-17 | 2000-06-17 |
+| Pravilnik o izmjenama Pravilnika o razvrstavanju, minimalnim uvjetima i kategorizaciji ugostiteljskih objekata | [`pravilnik/2000/1273/`](pravilnik/2000/1273/) | amended, not consolidated | 1 | 2000-06-17 | 2000-06-17 |
+| Pravilnik o izmjenama i dopunama Pravilnika o mjeriteljskim zahtjevima za taksometre | [`pravilnik/2000/1301/`](pravilnik/2000/1301/) | amending act | 1 | 2000-06-21 | 2000-06-21 |
+| Pravilnik o priređivanju nagradnih igara | [`pravilnik/2000/1318/`](pravilnik/2000/1318/) | amended, not consolidated | 1 | 2000-06-16 | 2000-06-16 |
+| Pravilnik o Registru kulturnih dobara Republike Hrvatske | [`pravilnik/2000/1320/`](pravilnik/2000/1320/) | repealed, not consolidated | 1 | 2000-06-24 | 2000-06-24 |
+| Pravilnik o procjeni utjecaja na okoliš | [`pravilnik/2000/1324/`](pravilnik/2000/1324/) | repealed, not consolidated | 1 | 2000-06-24 | 2000-06-24 |
+| Pravilnik o izmjeni Pravilnika o ribolovu ludrom, zagonicom i fružatom | [`pravilnik/2000/1347/`](pravilnik/2000/1347/) | in force | 1 | 2000-07-01 | 2000-07-01 |
+| Pravilnik o posebnostima provedbe carinskog postupka u međunarodnom pomorskom, riječnom i zračnom prometu | [`pravilnik/2000/1359/`](pravilnik/2000/1359/) | amended, not consolidated | 1 | 2000-07-05 | 2000-07-05 |
+| Pravilnik o izmjenama i dopunama Pravilnika o porezu na dodanu vrijednost | [`pravilnik/2000/1391/`](pravilnik/2000/1391/) | amended, not consolidated | 1 | 2000-06-30 | 2000-06-30 |
+| Pravilnik o načinu obračuna i postupku naplate carinske pristojbe | [`pravilnik/2000/1392/`](pravilnik/2000/1392/) | in force | 1 | 2000-06-30 | 2000-06-30 |
+| Pravilnik o izmjenama i dopunama Pravilnika o razvrstavanju, minimalnim uvjetima i kategorizaciji ugostiteljskih objekata | [`pravilnik/2000/1394/`](pravilnik/2000/1394/) | amended, not consolidated | 1 | 2000-07-08 | 2000-07-08 |
+| Pravilnik o izmjenama Pravilnika o uvjetima koje moraju ispunjavati prostorije za proizvodnju i promet namirnica i predmeta opće uporabe | [`pravilnik/2000/1396/`](pravilnik/2000/1396/) | in force | 1 | 2000-07-08 | 2000-07-08 |
+| Pravilnik o izmjenama i dopunama Pravilnika o ustroju i načinu rada matičnih povjerenstava | [`pravilnik/2000/1397/`](pravilnik/2000/1397/) | amending act | 1 | 2000-06-30 | 2000-06-30 |
+| Pravilnik o načinu vođenja popisa, izdavanju potvrda i dostavljanju izvješća pri oplođivanju domaćih životinja | [`pravilnik/2000/1466/`](pravilnik/2000/1466/) | cited later, not consolidated | 1 | 2000-07-21 | 2000-07-21 |
+| Pravilnik o uvjetima i načinu stjecanja stručne izobrazbe osoba koje obavljaju djelatnosti s izvorima ionizirajućih zračenja | [`pravilnik/2000/1469/`](pravilnik/2000/1469/) | repealed, not consolidated | 1 | 2000-07-21 | 2000-07-21 |
+| Pravilnik o prioritetima obnove i potpori za opremanje obiteljskih kuća i stanova | [`pravilnik/2000/1503/`](pravilnik/2000/1503/) | in force | 1 | 2000-07-22 | 2000-07-22 |
+| Pravilnik o radnom vremenu članova posade zrakoplova | [`pravilnik/2000/1504/`](pravilnik/2000/1504/) | amended, not consolidated | 1 | 2000-07-22 | 2000-07-22 |
+| Pravilnik o izmjenama i dopunama Pravilnika o obvezatnome potvrđivanju otpornosti na požar elemenata tipnih građevnih konstrukcija te o uvjetima kojima moraju zadovoljiti pravne osobe ovlaštene za potrđivanje tih proizvoda | [`pravilnik/2000/1505/`](pravilnik/2000/1505/) | amending act | 1 | 2000-07-22 | 2000-07-22 |
+| Pravilnik o izmjeni Pravilnika o uvjetima i načinu skladištenja otrova skupine I. koji djeluju u obliku plina | [`pravilnik/2000/1570/`](pravilnik/2000/1570/) | in force | 1 | 2000-07-28 | 2000-07-28 |
+| Pravilnik o posebnom porezu na kavu | [`pravilnik/2000/1586/`](pravilnik/2000/1586/) | amended, not consolidated | 1 | 2000-07-21 | 2000-07-21 |
+| Pravilnik o izmjenama i dopunama Pravilnika o uvjetima za fizičke i pravne osobe radi dobivanja dopuštenja za obavljanje poslova na zaštiti i očuvanju kulturnih dobara | [`pravilnik/2000/1588/`](pravilnik/2000/1588/) | amending act | 1 | 2000-07-29 | 2000-07-29 |
+| Pravilnik o kriterijima za utvrđivanje naknade šteta počinjenih ribama i drugim morskim organizmima | [`pravilnik/2000/1589/`](pravilnik/2000/1589/) | replaced, not consolidated | 1 | 2000-07-29 | 2000-07-29 |
+| Pravilnik o unutarnjem redu u Nacionalnom parku "Risnjak" | [`pravilnik/2000/1623/`](pravilnik/2000/1623/) | repealed, not consolidated | 1 | 2000-08-03 | 2000-08-03 |
+| Pravilnik o unutarnjem redu u Nacionalnom parku "Brijuni" | [`pravilnik/2000/1624/`](pravilnik/2000/1624/) | in force | 1 | 2000-08-03 | 2000-08-03 |
+| Pravilnik o unutarnjem redu u Nacionalnom parku "Sjeverni Velebit" | [`pravilnik/2000/1625/`](pravilnik/2000/1625/) | repealed, not consolidated | 1 | 2000-08-03 | 2000-08-03 |
+| Pravilnik o tehničkom održavanju unutarnjih plovnih putova | [`pravilnik/2000/1626/`](pravilnik/2000/1626/) | in force | 1 | 2000-07-26 | 2000-07-26 |
+| Pravilnik o registru prostornih jedinica | [`pravilnik/2000/1627/`](pravilnik/2000/1627/) | repealed, not consolidated | 1 | 2000-08-03 | 2000-08-03 |
+| Pravilnik o unutarnjem redu u Nacionalnom parku »Paklenica« | [`pravilnik/2000/1645/`](pravilnik/2000/1645/) | in force | 1 | 2000-08-05 | 2000-08-05 |
+| Pravilnik o unutarnjem redu u Nacionalnom parku »Mljet« | [`pravilnik/2000/1646/`](pravilnik/2000/1646/) | in force | 1 | 2000-08-05 | 2000-08-05 |
+| Pravilnik o zdravstvenim uvjetima za rad s izvorima ionizirajućih zračenja, te mjerilima, sadržaju, načinu i rokovima čuvanja podataka o zdravstvenim pregledima osoba koje rade s izvorima ionizirajućih zračenja | [`pravilnik/2000/1647/`](pravilnik/2000/1647/) | replaced, not consolidated | 1 | 2000-08-05 | 2000-08-05 |
+| Pravilnik o izmjenama i dopunama Pravilnika o obvezama učitelja i stručnih suradnika u osnovnoj školi | [`pravilnik/2000/1648/`](pravilnik/2000/1648/) | amended, not consolidated | 1 | 2000-08-05 | 2000-08-05 |
+| Pravilnik o unutarnjem redu u Parku prirode »Kopački rit« | [`pravilnik/2000/1657/`](pravilnik/2000/1657/) | in force | 1 | 2000-08-08 | 2000-08-08 |
+| Pravilnik o unutarnjem redu u Nacionalnom parku »Krka« | [`pravilnik/2000/1658/`](pravilnik/2000/1658/) | repealed, not consolidated | 1 | 2000-08-08 | 2000-08-08 |
+| Pravilnik o izmjeni Pravilnika o pravima, uvjetima i načinu ostvarivanja prava iz obveznog zdravstvenog osiguranja | [`pravilnik/2000/1660/`](pravilnik/2000/1660/) | amended, not consolidated | 1 | 2000-08-08 | 2000-08-08 |
+| Pravilnik o postupku i načinu izdavanja dopuštenja za obavljanje podvodnih aktivnosti u dijelovima unutarnjih morskih voda i teritorijalnog mora Republike Hrvatske koji su zaštićeni kao kulturno dobro | [`pravilnik/2000/1686/`](pravilnik/2000/1686/) | cited later, not consolidated | 1 | 2000-08-10 | 2000-08-10 |
+| Pravilnik o izmjenama Pravilnika o pomoćnim poslovima razminiravanja | [`pravilnik/2000/1688/`](pravilnik/2000/1688/) | in force | 1 | 2000-08-12 | 2000-08-12 |
+| Pravilnik o izmjenama i dopunama Pravilnika o porezu na dodanu vrijednost | [`pravilnik/2000/1695/`](pravilnik/2000/1695/) | amended, not consolidated | 1 | 2000-08-09 | 2000-08-09 |
+| Pravilnik o određivanju imena oznaka i znakova raspoznavanja brodova unutarnje plovidbe | [`pravilnik/2000/1697/`](pravilnik/2000/1697/) | in force | 1 | 2000-08-17 | 2000-08-17 |
+| Pravilnik o izmjenama Pravilnika o stručnom ispitu za turističke animatore | [`pravilnik/2000/1703/`](pravilnik/2000/1703/) | in force | 1 | 2000-08-19 | 2000-08-19 |
+| Pravilnik o izmjeni i dopunama Pravilnika o uvjetima za određivanje područja na kojem će se osnivati ljekarne | [`pravilnik/2000/1718/`](pravilnik/2000/1718/) | amending act | 1 | 2000-08-26 | 2000-08-26 |
+| Pravilnik o izmjenama i dopunama Pravilnika o kalendaru rada osnovnih škola za školsku 2000./2001. godinu | [`pravilnik/2000/1736/`](pravilnik/2000/1736/) | amending act | 1 | 2000-08-25 | 2000-08-25 |
+| Pravilnik o izmjenama i dopunama Pravilnika o početku i završetku nastave i trajanju odmora učenika srednjih škola u školskoj godini 2000./2001. godine | [`pravilnik/2000/1737/`](pravilnik/2000/1737/) | amending act | 1 | 2000-08-25 | 2000-08-25 |
+| Pravilnik o uvjetima i mjerama zaštite od ionizirajućih zračenja za obavljanje djelatnosti s radioaktivnim izvorima | [`pravilnik/2000/1741/`](pravilnik/2000/1741/) | amended, not consolidated | 1 | 2000-09-07 | 2000-09-07 |
+| Pravilnik o uvjetima i mjerama zaštite od ionizirajućih zračenja za obavljanje djelatnosti s rendgenskim uređajima, akceleratorima i drugim uređajima koji proizvode ionizirajuće zračenje | [`pravilnik/2000/1742/`](pravilnik/2000/1742/) | amended, not consolidated | 1 | 2000-09-07 | 2000-09-07 |
+| Pravilnik o izmjeni i dopunama Pravilnika o službenoj odjeći viših graničnih sanitarnih inspektora i graničnih sanitarnih inspektora Ministarstva zdravstva | [`pravilnik/2000/1743/`](pravilnik/2000/1743/) | amending act | 1 | 2000-09-07 | 2000-09-07 |
+| Pravilnik o uvjetima, načinu, mjestima i rokovima sustavnih ispitivanja ionizirajućih zračenja te vrsta i aktivnosti radioaktivnih tvari u okolišu | [`pravilnik/2000/1792/`](pravilnik/2000/1792/) | in force | 1 | 2000-09-14 | 2000-09-14 |
+| Pravilnik o izmjenama i dopunama Pravilnika o osiguranju štednih uloga | [`pravilnik/2000/1793/`](pravilnik/2000/1793/) | amending act | 1 | 2000-09-06 | 2000-09-06 |
+| Pravilnik o kontroli projekata | [`pravilnik/2000/1815/`](pravilnik/2000/1815/) | repealed, not consolidated | 1 | 2000-09-21 | 2000-09-21 |
+| Pravilnik o izmjenama i dopunama Pravilnika o uvjetima i mjerilima za davanje ovlaštenja za kontrolu projekata | [`pravilnik/2000/1816/`](pravilnik/2000/1816/) | amending act | 1 | 2000-09-21 | 2000-09-21 |
+| Pravilnik o izmjeni Pravilnika o priređivanju nagradnih igara | [`pravilnik/2000/1836/`](pravilnik/2000/1836/) | in force | 1 | 2000-09-19 | 2000-09-19 |
+| Pravilnik o iskaznici poljoprivrednog inspektora, inspektora zaštite bilja i inspektora bilinogojstva te znaku poljoprivrednog inspektora | [`pravilnik/2000/1837/`](pravilnik/2000/1837/) | in force | 1 | 2000-09-27 | 2000-09-27 |
+| Pravilnik o dopuni Pravilnika o načinu obavljanja zdravstvenih pregleda osoba pod zdravstvenim nadzorom | [`pravilnik/2000/1862/`](pravilnik/2000/1862/) | amending act | 1 | 2000-09-30 | 2000-09-30 |
+| Pravilnik o izmjenama Pravilnika o obračunu i plaćanju naknade za korištenje voda | [`pravilnik/2000/1863/`](pravilnik/2000/1863/) | in force | 1 | 2000-09-30 | 2000-09-30 |
+| Pravilnik o dopuni Pravilnika o načinu propisivanja, izdavanja i naplaćivanja lijekova | [`pravilnik/2000/1864/`](pravilnik/2000/1864/) | amending act | 1 | 2000-09-30 | 2000-09-30 |
+| Pravilnik o izmjenama i dopuni Pravilnika o uvjetima kojima moraju udovoljavati zdravstvene ustanove koje provode zdravstveni odgoj osoba koje rade u proizvodnji ili prometu namirnica | [`pravilnik/2000/1869/`](pravilnik/2000/1869/) | amending act | 1 | 2000-10-04 | 2000-10-04 |
+| Pravilnik o mjerilima i načinu raspodjele dopusnica za međunarodni slobodni prijevoz tereta | [`pravilnik/2000/1882/`](pravilnik/2000/1882/) | in force | 1 | 2000-10-06 | 2000-10-06 |
+| Pravilnik o izmjenama Pravilnika o posebnim uvjetima koje moraju ispunjavati zaposleni u turističkom uredu turističke zajednice općine, grada, županije i Glavnom uredu Hrvatske turističke zajednice | [`pravilnik/2000/1945/`](pravilnik/2000/1945/) | in force | 1 | 2000-10-11 | 2000-10-11 |
+| Pravilnik o ostvarivanju prava na naknadu za učenje hrvatskog jezika i stipendiranje povratnika i useljenika | [`pravilnik/2000/1997/`](pravilnik/2000/1997/) | repealed, not consolidated | 1 | 2000-10-17 | 2000-10-17 |
+| Pravilnik o kakvoći svježeg sirovog mlijeka | [`pravilnik/2000/1998/`](pravilnik/2000/1998/) | repealed, not consolidated | 1 | 2000-10-25 | 2000-10-25 |
+| Pravilnik o postupku pojednostavnjenog razvrstavanja robe u carinskom postupku | [`pravilnik/2000/1999/`](pravilnik/2000/1999/) | cited later, not consolidated | 1 | 2000-10-25 | 2000-10-25 |
+| Pravilnik o dopuni Pravilnika o uvjetima u pogledu zdravstvene ispravnosti predmeta opće uporabe koji se mogu stavljati u promet | [`pravilnik/2000/2039/`](pravilnik/2000/2039/) | amending act | 1 | 2000-10-27 | 2000-10-27 |
+| Pravilnik o izmjenama i dopunama Pravilnika o Državnoj nagradi športa "Franjo Bučar" | [`pravilnik/2000/2092/`](pravilnik/2000/2092/) | amending act | 1 | 2000-10-18 | 2000-10-18 |
+| Pravilnik o izmjeni i dopuni Pravilnika o vrstama i kategorijama plovnih objekata nautičkog turizma | [`pravilnik/2000/2093/`](pravilnik/2000/2093/) | amending act | 1 | 2000-11-04 | 2000-11-04 |
+| Pravilnik o izmjenama Pravilnika o ortopedskim i drugim pomagalima | [`pravilnik/2000/2104/`](pravilnik/2000/2104/) | amended, not consolidated | 1 | 2000-11-04 | 2000-11-04 |
+| Pravilnik o izmjeni Pravilnika o iskaznici i znački sanitarnog inspektora | [`pravilnik/2000/2114/`](pravilnik/2000/2114/) | in force | 1 | 2000-11-08 | 2000-11-08 |
+| Pravilnik o izmjenama i dopunama Pravilnika o porezu na dodanu vrijednost | [`pravilnik/2000/2164/`](pravilnik/2000/2164/) | amended, not consolidated | 1 | 2000-11-15 | 2000-11-15 |
+| Pravilnik o izmjeni i dopuni Pravilnika o postupku i uvjetima za priznanje prava samostalnih umjetnika za uplatu doprinosa za mirovinsko i invalidsko te zdravstveno osiguranje iz sredstava proračuna R | [`pravilnik/2000/2165/`](pravilnik/2000/2165/) | amending act | 1 | 2000-11-15 | 2000-11-15 |
+| Pravilnik o prestanku važenja Pravilnika o obveznom atestiranju jute i o uvjetima kojima moraju udovoljavati pravne osobe ovlaštene za atestiranje jute | [`pravilnik/2000/2174/`](pravilnik/2000/2174/) | in force | 1 | 2000-11-17 | 2000-11-17 |
+| Pravilnik o postupku za ostvarivanje prava na nadoknadu za iskorištene povlastice u unutarnjem putničkom prometu | [`pravilnik/2000/2191/`](pravilnik/2000/2191/) | in force | 1 | 2000-11-18 | 2000-11-18 |
+| Pravilnik o izmjenama Pravilnika o načinu obavljanja veterinarsko-sanitarnog pregleda životinja prije klanja i proizvoda životinjskog podrijetla | [`pravilnik/2000/2192/`](pravilnik/2000/2192/) | in force | 1 | 2000-11-18 | 2000-11-18 |
+| Pravilnik o izmjeni i dopuni Pravilnika o uvjetima i načinu korištenja sredstava za kreditiranje razvitka i obnove poljoprivrede | [`pravilnik/2000/2214/`](pravilnik/2000/2214/) | amended, not consolidated | 1 | 2000-11-15 | 2000-11-15 |
+| Pravilnik o srednjoškolskom obrazovanju odraslih | [`pravilnik/2000/2216/`](pravilnik/2000/2216/) | amended, not consolidated | 1 | 2000-11-23 | 2000-11-23 |
+| Pravilnik o izmjenama i dopuni Pravilnika o načinu pregleda umrlih te o utvrđivanju vremena i uzroka smrti | [`pravilnik/2000/2217/`](pravilnik/2000/2217/) | amending act | 1 | 2000-11-23 | 2000-11-23 |
+| Pravilnik o izmjenama i dopunama pravilnika o uvjetima za davanje u zakup zdravstvenih ustanova primarne zdravstvene zaštite i lječilišta | [`pravilnik/2000/2218/`](pravilnik/2000/2218/) | amending act | 1 | 2000-11-23 | 2000-11-23 |
+| Pravilnik o izmjenama i dopunama Pravilnika o obvezatnome potvrđivanju dizala na električni pogon za vertikalni prijevoz osoba i tereta te o uvjetima kojima moraju udovoljavati pravne osobe ovlaštene | [`pravilnik/2000/2245/`](pravilnik/2000/2245/) | amending act | 1 | 2000-11-30 | 2000-11-30 |
+| Pravilnik o naknadama za iskorištavanje fonograma | [`pravilnik/2000/2246/`](pravilnik/2000/2246/) | in force | 1 | 2000-02-04 | 2000-02-04 |
+| Pravilnik o izmjenama i dopunama Pravilnika o odobravanju pomoći za uzdržavanje u obliku zajma, mjerila i obilježja stana potrebnog za zadovoljavanje osnovnih stambenih potreba samca ili obitelji i odobravanju pomoći iz socijalne skrbi | [`pravilnik/2000/2258/`](pravilnik/2000/2258/) | amending act | 1 | 2000-11-24 | 2000-11-24 |
+| Pravilnik o dopuni Pravilnika o uvjetima u pogledu zdravstvene ispravnosti predmeta opće uporabe koji se mogu stavljati u promet | [`pravilnik/2000/2261/`](pravilnik/2000/2261/) | amending act | 1 | 2000-12-02 | 2000-12-02 |
+| Pravilnik o izmjenama Pravilnika o homologaciji vozila | [`pravilnik/2000/2295/`](pravilnik/2000/2295/) | amended, not consolidated | 1 | 2000-12-09 | 2000-12-09 |
+| Pravilnik o mjerilima za razvrstavanje domova za starije i nemoćne osobe | [`pravilnik/2000/2302/`](pravilnik/2000/2302/) | in force | 1 | 2000-12-14 | 2000-12-14 |
+| Pravilnik o mjerilima za prijam na vježbenički staž stručnih djelatnika u ustanovama socijalne skrbi | [`pravilnik/2000/2303/`](pravilnik/2000/2303/) | cited later, not consolidated | 1 | 2000-12-14 | 2000-12-14 |
+| Pravilnik o izmjeni Pravilnika o razvrstavanju i kategorizaciji luka nautičkog turizma | [`pravilnik/2000/2304/`](pravilnik/2000/2304/) | in force | 1 | 2000-12-14 | 2000-12-14 |
+| Pravilnik o izmjenama i dopunama Pravilnika o aditivima koji se mogu nalaziti u namirnicama | [`pravilnik/2000/2316/`](pravilnik/2000/2316/) | amending act | 1 | 2000-12-15 | 2000-12-15 |
+| Pravilnik o izmjenama i dopunama Pravilnika o općim uvjetima koje moraju zadovoljiti ovlašteni laboratoriji i ovlaštene pravne osobe za provedbu potvrđivanja i načinu provedbe postupka ovlašćivanja | [`pravilnik/2000/2348/`](pravilnik/2000/2348/) | amending act | 1 | 2000-12-23 | 2000-12-23 |
+| Pravilnik o standardima i normativima prava iz obveznog zdravstvenog osiguranja za 2001. godinu | [`pravilnik/2000/2368/`](pravilnik/2000/2368/) | cited later, not consolidated | 1 | 2000-12-20 | 2000-12-20 |
+| Pravilnik o ribolovnim alatima i opremi za mali ribolov | [`pravilnik/2000/2375/`](pravilnik/2000/2375/) | replaced, not consolidated | 1 | 2001-01-01 | 2001-01-01 |
+| Pravilnik o izmjenama i dopunama Pravilnika o obaveznom atestiranju plinskih kuhinjskih štednjaka, kuhala, pećnica, roštilja i stolnih štednjaka te o uvjetima kojima moraju udovoljavati organizacije u | [`pravilnik/2000/2414/`](pravilnik/2000/2414/) | amending act | 1 | 2001-01-05 | 2001-01-05 |
+| Pravilnik o izmjenama i dopunama Pravilnika o obvezatnom ispitivanju namještaja i dijelova za namještaj te o uvjetima koje moraju zadovoljiti pravne osobe ovlaštene za ispitivanje tih proizvoda | [`pravilnik/2000/2415/`](pravilnik/2000/2415/) | amending act | 1 | 2001-01-05 | 2001-01-05 |
+| Pravilnik o izmjenama i dopunama Pravilnika o obvezatnom atestiranju zaštitnih opasača i o uvjetima kojima moraju udovoljavati organizacije udruženog rada ovlaštene za atestiranje tih proizvoda | [`pravilnik/2000/2416/`](pravilnik/2000/2416/) | amending act | 1 | 2001-01-05 | 2001-01-05 |
+| Pravilnik o izmjenama i dopunama Pravilnika o obvezatnom atestiranju plinskih uređaja za velike kuhinje i za kampiranje te o uvjetima kojima moraju udovoljavati pravne osobe ovlaštene za atestiranje t | [`pravilnik/2000/2417/`](pravilnik/2000/2417/) | amending act | 1 | 2001-01-05 | 2001-01-05 |
+| Pravilnik o izmjenama i dopunama Pravilnika o obaveznom atestiranju proizvoda koji prouzrokuju radiofrekvencijske smetnje te o uvjetima kojima moraju udovoljavati poduzeća i druge pravne osobe ovlašte | [`pravilnik/2000/2418/`](pravilnik/2000/2418/) | amending act | 1 | 2001-01-05 | 2001-01-05 |
 | Pravilnik o načinu plaćanja doprinosa za obvezno mirovinsko osiguranje na temelju individualne kapitalizirane štednje | [`pravilnik/2005/8/`](pravilnik/2005/8/) | amended, not consolidated | 1 | 2005-01-03 | 2005-01-03 |
 | Pravilnik o zdravstvenim uvjetima za rad s izvorima ionizirajućih zračenja te mjerilima, sadržaju, načinu i rokovima čuvanja podataka o zdravstvenim pregledima osoba koje rade s izvorima ionizirajućih zračenja | [`pravilnik/2005/9/`](pravilnik/2005/9/) | repealed, not consolidated | 1 | 2005-01-11 | 2005-01-11 |
 | Pravilnik o tehničkim zahtjevima i postupcima ocjene sukladnosti za neautomatske vage | [`pravilnik/2005/10/`](pravilnik/2005/10/) | amended, not consolidated | 1 | 2005-01-11 | 2005-01-11 |
