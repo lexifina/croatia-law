@@ -300950,6 +300950,23 @@
 ]
 },
 {
+"slug": "zakon-2020-402",
+"path": "zakon/2020/402",
+"kind": "zakon",
+"year": "2020",
+"number": "402",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izmjenama i dopunama Zakona o tržištu kapitala",
+"short": "Zakon o izmjenama i dopunama Zakona o tržištu kapitala",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2020-02-22",
+"latest": "2020-02-22",
+"portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2020/17/402"
+},
+{
 "slug": "odluka-2020-403",
 "path": "odluka/2020/403",
 "kind": "odluka",
@@ -301732,6 +301749,23 @@
 "portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2020/21/527"
 },
 {
+"slug": "zakon-2020-532",
+"path": "zakon/2020/532",
+"kind": "zakon",
+"year": "2020",
+"number": "532",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izmjenama i dopuni Zakona o posebnom porezu na kavu i bezalkoholna pića",
+"short": "Zakon o izmjenama i dopuni Zakona o posebnom porezu na kavu i bezalkoholna pića",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2020-02-29",
+"latest": "2020-02-29",
+"portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2020/22/532"
+},
+{
 "slug": "odluka-2020-533",
 "path": "odluka/2020/533",
 "kind": "odluka",
@@ -301978,6 +302012,23 @@
 "portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2020/22/558"
 },
 {
+"slug": "zakon-2020-560",
+"path": "zakon/2020/560",
+"kind": "zakon",
+"year": "2020",
+"number": "560",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izmjenama i dopunama Zakona o tržištu plina",
+"short": "Zakon o izmjenama i dopunama Zakona o tržištu plina",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2020-03-04",
+"latest": "2020-03-04",
+"portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2020/23/560"
+},
+{
 "slug": "pravilnik-2020-562",
 "path": "pravilnik/2020/562",
 "kind": "pravilnik",
@@ -302069,6 +302120,23 @@
 "how": "repeal"
 }
 ]
+},
+{
+"slug": "zakon-2020-601",
+"path": "zakon/2020/601",
+"kind": "zakon",
+"year": "2020",
+"number": "601",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izmjeni i dopuni Zakona o energetskoj učinkovitosti",
+"short": "Zakon o izmjeni i dopuni Zakona o energetskoj učinkovitosti",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2020-03-07",
+"latest": "2020-03-07",
+"portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2020/25/601"
 },
 {
 "slug": "odluka-2020-605",
@@ -302833,6 +302901,23 @@
 ]
 },
 {
+"slug": "zakon-2020-673",
+"path": "zakon/2020/673",
+"kind": "zakon",
+"year": "2020",
+"number": "673",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o dopuni Zakona o sustavu civilne zaštite",
+"short": "Zakon o dopuni Zakona o sustavu civilne zaštite",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2020-03-19",
+"latest": "2020-03-19",
+"portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2020/31/673"
+},
+{
 "slug": "uredba-2020-674",
 "path": "uredba/2020/674",
 "kind": "uredba",
@@ -302952,6 +303037,49 @@
 "portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2020/31/690"
 },
 {
+"slug": "zakon-2020-691",
+"path": "zakon/2020/691",
+"kind": "zakon",
+"year": "2020",
+"number": "691",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o dopuni Općeg poreznog zakona",
+"short": "Zakon o dopuni Općeg poreznog zakona",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2020-03-20",
+"latest": "2020-03-20",
+"portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2020/32/691"
+},
+{
+"slug": "zakon-2020-693",
+"path": "zakon/2020/693",
+"kind": "zakon",
+"year": "2020",
+"number": "693",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izmjeni i dopuni Zakona o porezu na dobit",
+"short": "Zakon o izmjeni i dopuni Zakona o porezu na dobit",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2020-03-20",
+"latest": "2020-03-20",
+"portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2020/32/693",
+"amended_by": [
+{
+"ref": "nn:2023/9/201",
+"title": "Ispravak Zakona o dodatnom porezu na dobit (NN 9/2023)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2023/9/201",
+"date": "2023-01-25",
+"how": "amend"
+}
+]
+},
+{
 "slug": "zakon-2020-695",
 "path": "zakon/2020/695",
 "kind": "zakon",
@@ -302984,6 +303112,23 @@
 "from": "2020-03-20",
 "latest": "2020-03-20",
 "portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2020/32/696"
+},
+{
+"slug": "zakon-2020-697",
+"path": "zakon/2020/697",
+"kind": "zakon",
+"year": "2020",
+"number": "697",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izmjenama i dopunama Zakona o poticanju ulaganja",
+"short": "Zakon o izmjenama i dopunama Zakona o poticanju ulaganja",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2020-03-20",
+"latest": "2020-03-20",
+"portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2020/32/697"
 },
 {
 "slug": "zakon-2020-698",
@@ -305196,6 +305341,23 @@
 ]
 },
 {
+"slug": "zakon-2020-881",
+"path": "zakon/2020/881",
+"kind": "zakon",
+"year": "2020",
+"number": "881",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izmjeni i dopunama Zakona o lokalnim izborima",
+"short": "Zakon o izmjeni i dopunama Zakona o lokalnim izborima",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2020-04-08",
+"latest": "2020-04-08",
+"portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2020/42/881"
+},
+{
 "slug": "zakon-2020-882",
 "path": "zakon/2020/882",
 "kind": "zakon",
@@ -305211,6 +305373,32 @@
 "from": "2020-04-08",
 "latest": "2020-04-08",
 "portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2020/42/882"
+},
+{
+"slug": "zakon-2020-883",
+"path": "zakon/2020/883",
+"kind": "zakon",
+"year": "2020",
+"number": "883",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izmjeni i dopunama Zakona o računovodstvu",
+"short": "Zakon o izmjeni i dopunama Zakona o računovodstvu",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2020-04-08",
+"latest": "2020-04-08",
+"portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2020/42/883",
+"amended_by": [
+{
+"ref": "nn:2020/47/973",
+"title": "Ispravak Zakona o izmjeni i dopunama Zakona o računovodstvu (NN 47/2020)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2020/47/973",
+"date": "2020-04-17",
+"how": "amend"
+}
+]
 },
 {
 "slug": "zakon-2020-884",
@@ -305262,6 +305450,23 @@
 "from": "2020-04-08",
 "latest": "2020-04-08",
 "portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2020/42/886"
+},
+{
+"slug": "zakon-2020-887",
+"path": "zakon/2020/887",
+"kind": "zakon",
+"year": "2020",
+"number": "887",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izmjenama i dopunama Zakona o pružanju usluga u turizmu",
+"short": "Zakon o izmjenama i dopunama Zakona o pružanju usluga u turizmu",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2020-04-08",
+"latest": "2020-04-08",
+"portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2020/42/887"
 },
 {
 "slug": "zakon-2020-888",
@@ -305797,6 +306002,23 @@
 "portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2020/45/916"
 },
 {
+"slug": "zakon-2020-920",
+"path": "zakon/2020/920",
+"kind": "zakon",
+"year": "2020",
+"number": "920",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izmjenama i dopunama Zakona o provedbi ovrhe na novčanim sredstvima",
+"short": "Zakon o izmjenama i dopunama Zakona o provedbi ovrhe na novčanim sredstvima",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2020-04-23",
+"latest": "2020-04-23",
+"portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2020/46/920"
+},
+{
 "slug": "pravilnik-2020-930",
 "path": "pravilnik/2020/930",
 "kind": "pravilnik",
@@ -305981,6 +306203,23 @@
 "portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2020/46/939"
 },
 {
+"slug": "zakon-2020-948",
+"path": "zakon/2020/948",
+"kind": "zakon",
+"year": "2020",
+"number": "948",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izmjenama i dopunama Zakona o reguliranim profesijama i priznavanju inozemnih stručnih kvalifikacija",
+"short": "Zakon o izmjenama i dopunama Zakona o reguliranim profesijama i priznavanju inozemnih stručnih kvalifikacija",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2020-04-25",
+"latest": "2020-04-25",
+"portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2020/47/948"
+},
+{
 "slug": "zakon-2020-949",
 "path": "zakon/2020/949",
 "kind": "zakon",
@@ -305996,6 +306235,23 @@
 "from": "2020-04-25",
 "latest": "2020-04-25",
 "portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2020/47/949"
+},
+{
+"slug": "zakon-2020-950",
+"path": "zakon/2020/950",
+"kind": "zakon",
+"year": "2020",
+"number": "950",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izmjenama i dopunama Zakona o kreditnim institucijama",
+"short": "Zakon o izmjenama i dopunama Zakona o kreditnim institucijama",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2020-04-25",
+"latest": "2020-04-25",
+"portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2020/47/950"
 },
 {
 "slug": "zakon-2020-952",
@@ -306030,6 +306286,23 @@
 "from": "2020-04-18",
 "latest": "2020-04-18",
 "portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2020/47/953"
+},
+{
+"slug": "zakon-2020-954",
+"path": "zakon/2020/954",
+"kind": "zakon",
+"year": "2020",
+"number": "954",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izmjenama i dopunama Zakona o zaštiti pučanstva od zaraznih bolesti",
+"short": "Zakon o izmjenama i dopunama Zakona o zaštiti pučanstva od zaraznih bolesti",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2020-04-18",
+"latest": "2020-04-18",
+"portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2020/47/954"
 },
 {
 "slug": "pravilnik-2020-959",
@@ -317259,6 +317532,23 @@
 "portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2020/106/2003"
 },
 {
+"slug": "zakon-2020-2006",
+"path": "zakon/2020/2006",
+"kind": "zakon",
+"year": "2020",
+"number": "2006",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izmjenama i dopunama Zakona o koncesijama",
+"short": "Zakon o izmjenama i dopunama Zakona o koncesijama",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2020-10-10",
+"latest": "2020-10-10",
+"portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2020/107/2006"
+},
+{
 "slug": "uredba-2020-2008",
 "path": "uredba/2020/2008",
 "kind": "uredba",
@@ -319086,6 +319376,23 @@
 "portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2020/118/2295"
 },
 {
+"slug": "zakon-2020-2296",
+"path": "zakon/2020/2296",
+"kind": "zakon",
+"year": "2020",
+"number": "2296",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izmjenama i dopunama Zakona o građevnim proizvodima",
+"short": "Zakon o izmjenama i dopunama Zakona o građevnim proizvodima",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2020-11-05",
+"latest": "2020-11-05",
+"portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2020/118/2296"
+},
+{
 "slug": "odluka-2020-2302",
 "path": "odluka/2020/2302",
 "kind": "odluka",
@@ -320814,6 +321121,23 @@
 "portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2020/130/2483"
 },
 {
+"slug": "zakon-2020-2487",
+"path": "zakon/2020/2487",
+"kind": "zakon",
+"year": "2020",
+"number": "2487",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izmjenama i dopunama Ovršnog zakona",
+"short": "Zakon o izmjenama i dopunama Ovršnog zakona",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2020-11-28",
+"latest": "2020-11-28",
+"portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2020/131/2487"
+},
+{
 "slug": "uredba-2020-2488",
 "path": "uredba/2020/2488",
 "kind": "uredba",
@@ -321496,6 +321820,40 @@
 "portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2020/132/2517"
 },
 {
+"slug": "zakon-2020-2519",
+"path": "zakon/2020/2519",
+"kind": "zakon",
+"year": "2020",
+"number": "2519",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o ovlasti Vlade Republike Hrvatske da uredbama uređuje pojedina pitanja iz djelokruga Hrvatskoga sabora",
+"short": "Zakon o ovlasti Vlade Republike Hrvatske da uredbama uređuje pojedina pitanja iz djelokruga Hrvatskoga sabora",
+"code": null,
+"status": "repealed 2021-12-10",
+"versions": 2,
+"from": "2020-12-10",
+"latest": "2021-12-10",
+"portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2020/133/2519"
+},
+{
+"slug": "zakon-2020-2521",
+"path": "zakon/2020/2521",
+"kind": "zakon",
+"year": "2020",
+"number": "2521",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izmjenama i dopunama Zakona o osiguranju",
+"short": "Zakon o izmjenama i dopunama Zakona o osiguranju",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2020-12-10",
+"latest": "2020-12-10",
+"portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2020/133/2521"
+},
+{
 "slug": "odluka-2020-2522",
 "path": "odluka/2020/2522",
 "kind": "odluka",
@@ -321895,6 +322253,23 @@
 "from": "2020-12-02",
 "latest": "2020-12-02",
 "portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2020/133/2549"
+},
+{
+"slug": "zakon-2020-2550",
+"path": "zakon/2020/2550",
+"kind": "zakon",
+"year": "2020",
+"number": "2550",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izmjeni i dopunama Zakona o zaštiti pučanstva od zaraznih bolesti",
+"short": "Zakon o izmjeni i dopunama Zakona o zaštiti pučanstva od zaraznih bolesti",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2020-12-05",
+"latest": "2020-12-05",
+"portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2020/134/2550"
 },
 {
 "slug": "odluka-2020-2551",
@@ -322324,6 +322699,46 @@
 "from": "2021-01-01",
 "latest": "2021-01-01",
 "portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2020/135/2590"
+},
+{
+"slug": "zakon-2020-2591",
+"path": "zakon/2020/2591",
+"kind": "zakon",
+"year": "2020",
+"number": "2591",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izvršavanju Državnog proračuna Republike Hrvatske za 2021. godinu",
+"short": "Zakon o izvršavanju Državnog proračuna Republike Hrvatske za 2021. godinu",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2021-01-01",
+"latest": "2021-01-01",
+"portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2020/135/2591",
+"amended_by": [
+{
+"ref": "nn:2021/69/1333",
+"title": "Zakon o izmjenama i dopunama Zakona o izvršavanju Državnog proračuna Republike Hrvatske za 2021. godinu (NN 69/2021)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2021/69/1333",
+"date": "2021-06-24",
+"how": "amend"
+},
+{
+"ref": "nn:2021/122/2095",
+"title": "Izmjene i dopune Državnog proračuna Republike Hrvatske za 2021. godinu i projekcija za 2022. i 2023. godinu (NN 122/2021)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2021/122/2095",
+"date": "2021-11-16",
+"how": "amend"
+},
+{
+"ref": "nn:2021/122/2105",
+"title": "Zakon o izmjenama i dopunama Zakona o izvršavanju Državnog proračuna Republike Hrvatske za 2021. godinu (NN 122/2021)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2021/122/2105",
+"date": "2021-11-16",
+"how": "amend"
+}
+]
 },
 {
 "slug": "odluka-2020-2592",
@@ -322910,6 +323325,66 @@
 "how": "repeal"
 }
 ]
+},
+{
+"slug": "zakon-2020-2625",
+"path": "zakon/2020/2625",
+"kind": "zakon",
+"year": "2020",
+"number": "2625",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izmjenama i dopunama Zakona o porezu na dohodak",
+"short": "Zakon o izmjenama i dopunama Zakona o porezu na dohodak",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2021-01-01",
+"latest": "2021-01-01",
+"portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2020/138/2625"
+},
+{
+"slug": "zakon-2020-2627",
+"path": "zakon/2020/2627",
+"kind": "zakon",
+"year": "2020",
+"number": "2627",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izmjenama i dopunama Zakona o porezu na dobit",
+"short": "Zakon o izmjenama i dopunama Zakona o porezu na dobit",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2021-01-01",
+"latest": "2021-01-01",
+"portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2020/138/2627",
+"amended_by": [
+{
+"ref": "nn:2023/9/201",
+"title": "Ispravak Zakona o dodatnom porezu na dobit (NN 9/2023)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2023/9/201",
+"date": "2023-01-25",
+"how": "amend"
+}
+]
+},
+{
+"slug": "zakon-2020-2628",
+"path": "zakon/2020/2628",
+"kind": "zakon",
+"year": "2020",
+"number": "2628",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izmjenama Zakona o fiskalizaciji u prometu gotovinom",
+"short": "Zakon o izmjenama Zakona o fiskalizaciji u prometu gotovinom",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2021-01-01",
+"latest": "2021-01-01",
+"portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2020/138/2628"
 },
 {
 "slug": "zakon-2020-2629",
@@ -324515,6 +324990,40 @@
 ]
 },
 {
+"slug": "zakon-2020-2762",
+"path": "zakon/2020/2762",
+"kind": "zakon",
+"year": "2020",
+"number": "2762",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izmjenama i dopunama Zakona o lokalnoj i područnoj (regionalnoj) samoupravi",
+"short": "Zakon o izmjenama i dopunama Zakona o lokalnoj i područnoj (regionalnoj) samoupravi",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2020-12-24",
+"latest": "2020-12-24",
+"portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2020/144/2762"
+},
+{
+"slug": "zakon-2020-2763",
+"path": "zakon/2020/2763",
+"kind": "zakon",
+"year": "2020",
+"number": "2763",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izmjenama i dopunama Zakona o lokalnim izborima",
+"short": "Zakon o izmjenama i dopunama Zakona o lokalnim izborima",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2020-12-24",
+"latest": "2020-12-24",
+"portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2020/144/2763"
+},
+{
 "slug": "zakon-2020-2764",
 "path": "zakon/2020/2764",
 "kind": "zakon",
@@ -324530,6 +325039,23 @@
 "from": "2020-12-24",
 "latest": "2020-12-24",
 "portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2020/144/2764"
+},
+{
+"slug": "zakon-2020-2765",
+"path": "zakon/2020/2765",
+"kind": "zakon",
+"year": "2020",
+"number": "2765",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izmjenama i dopunama Zakona o akvakulturi",
+"short": "Zakon o izmjenama i dopunama Zakona o akvakulturi",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2020-12-31",
+"latest": "2020-12-31",
+"portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2020/144/2765"
 },
 {
 "slug": "zakon-2020-2766",
@@ -325025,6 +325551,23 @@
 "portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2020/144/2793"
 },
 {
+"slug": "zakon-2020-2795",
+"path": "zakon/2020/2795",
+"kind": "zakon",
+"year": "2020",
+"number": "2795",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izmjenama Zakona o šumama",
+"short": "Zakon o izmjenama Zakona o šumama",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2021-01-01",
+"latest": "2021-01-01",
+"portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2020/145/2795"
+},
+{
 "slug": "odluka-2020-2796",
 "path": "odluka/2020/2796",
 "kind": "odluka",
@@ -325350,6 +325893,23 @@
 "from": "2021-01-01",
 "latest": "2021-01-01",
 "portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2020/145/2820"
+},
+{
+"slug": "zakon-2020-2828",
+"path": "zakon/2020/2828",
+"kind": "zakon",
+"year": "2020",
+"number": "2828",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izmjenama i dopunama Zakona o kreditnim institucijama",
+"short": "Zakon o izmjenama i dopunama Zakona o kreditnim institucijama",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2020-12-29",
+"latest": "2020-12-29",
+"portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2020/146/2828"
 },
 {
 "slug": "zakon-2020-2829",
@@ -328272,6 +328832,23 @@
 "portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2021/9/186"
 },
 {
+"slug": "zakon-2021-191",
+"path": "zakon/2021/191",
+"kind": "zakon",
+"year": "2021",
+"number": "191",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izmjenama i dopunama Zakona o obnovi zgrada oštećenih potresom na području Grada Zagreba, Krapinsko-zagorske županije i Zagrebačke županije",
+"short": "Zakon o izmjenama i dopunama Zakona o obnovi zgrada oštećenih potresom na području Grada Zagreba, Krapinsko-zagorske županije i Zagrebačke županije",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2021-02-06",
+"latest": "2021-02-06",
+"portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2021/10/191"
+},
+{
 "slug": "uredba-2021-193",
 "path": "uredba/2021/193",
 "kind": "uredba",
@@ -330577,6 +331154,23 @@
 "portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2021/24/555"
 },
 {
+"slug": "zakon-2021-565",
+"path": "zakon/2021/565",
+"kind": "zakon",
+"year": "2021",
+"number": "565",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izmjenama i dopuni Zakona o obveznom zdravstvenom osiguranju i zdravstvenoj zaštiti stranaca u Republici Hrvatskoj",
+"short": "Zakon o izmjenama i dopuni Zakona o obveznom zdravstvenom osiguranju i zdravstvenoj zaštiti stranaca u Republici Hrvatskoj",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2021-03-20",
+"latest": "2021-03-20",
+"portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2021/26/565"
+},
+{
 "slug": "uredba-2021-569",
 "path": "uredba/2021/569",
 "kind": "uredba",
@@ -331394,6 +331988,23 @@
 "from": "2021-04-03",
 "latest": "2021-04-03",
 "portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2021/30/645"
+},
+{
+"slug": "zakon-2021-646",
+"path": "zakon/2021/646",
+"kind": "zakon",
+"year": "2021",
+"number": "646",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izmjenama i dopunama Zakona o prijevozu u cestovnom prometu",
+"short": "Zakon o izmjenama i dopunama Zakona o prijevozu u cestovnom prometu",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2021-03-27",
+"latest": "2021-03-27",
+"portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2021/30/646"
 },
 {
 "slug": "zakon-2021-647",
@@ -332688,6 +333299,23 @@
 "portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2021/36/753"
 },
 {
+"slug": "zakon-2021-757",
+"path": "zakon/2021/757",
+"kind": "zakon",
+"year": "2021",
+"number": "757",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izmjenama i dopunama Zakona o lokalnim izborima",
+"short": "Zakon o izmjenama i dopunama Zakona o lokalnim izborima",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2021-04-10",
+"latest": "2021-04-10",
+"portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2021/37/757"
+},
+{
 "slug": "uredba-2021-758",
 "path": "uredba/2021/758",
 "kind": "uredba",
@@ -333287,6 +333915,23 @@
 "from": "2021-04-23",
 "latest": "2021-04-23",
 "portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2021/40/809"
+},
+{
+"slug": "zakon-2021-811",
+"path": "zakon/2021/811",
+"kind": "zakon",
+"year": "2021",
+"number": "811",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izmjenama i dopunama Zakona o energetskoj učinkovitosti",
+"short": "Zakon o izmjenama i dopunama Zakona o energetskoj učinkovitosti",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2021-04-24",
+"latest": "2021-04-24",
+"portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2021/41/811"
 },
 {
 "slug": "zakon-2021-812",
@@ -334076,6 +334721,23 @@
 "from": "2021-05-08",
 "latest": "2021-05-08",
 "portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2021/46/932"
+},
+{
+"slug": "zakon-2021-933",
+"path": "zakon/2021/933",
+"kind": "zakon",
+"year": "2021",
+"number": "933",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izmjenama i dopunama Zakona o provedbi Uredbe (EU) 2016/1011 o indeksima koji se upotrebljavaju kao referentne vrijednosti",
+"short": "Zakon o izmjenama i dopunama Zakona o provedbi Uredbe (EU) 2016/1011 o indeksima koji se upotrebljavaju kao referentne vrijednosti",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2021-05-08",
+"latest": "2021-05-08",
+"portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2021/46/933"
 },
 {
 "slug": "uredba-2021-934",
@@ -334935,6 +335597,23 @@
 "portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2021/52/1051"
 },
 {
+"slug": "zakon-2021-1052",
+"path": "zakon/2021/1052",
+"kind": "zakon",
+"year": "2021",
+"number": "1052",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izmjenama i dopunama Zakona o zabrani nepoštenih trgovačkih praksi u lancu opskrbe hranom",
+"short": "Zakon o izmjenama i dopunama Zakona o zabrani nepoštenih trgovačkih praksi u lancu opskrbe hranom",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2021-09-01",
+"latest": "2021-09-01",
+"portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2021/52/1052"
+},
+{
 "slug": "zakon-2021-1053",
 "path": "zakon/2021/1053",
 "kind": "zakon",
@@ -334950,6 +335629,23 @@
 "from": "2021-05-22",
 "latest": "2021-05-22",
 "portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2021/52/1053"
+},
+{
+"slug": "zakon-2021-1054",
+"path": "zakon/2021/1054",
+"kind": "zakon",
+"year": "2021",
+"number": "1054",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izmjenama i dopunama Zakona o poljoprivredi",
+"short": "Zakon o izmjenama i dopunama Zakona o poljoprivredi",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2021-05-15",
+"latest": "2021-05-15",
+"portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2021/52/1054"
 },
 {
 "slug": "zakon-2021-1055",
@@ -337018,6 +337714,23 @@
 "portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2021/69/1332"
 },
 {
+"slug": "zakon-2021-1333",
+"path": "zakon/2021/1333",
+"kind": "zakon",
+"year": "2021",
+"number": "1333",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izmjenama i dopunama Zakona o izvršavanju Državnog proračuna Republike Hrvatske za 2021. godinu",
+"short": "Zakon o izmjenama i dopunama Zakona o izvršavanju Državnog proračuna Republike Hrvatske za 2021. godinu",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2021-06-25",
+"latest": "2021-06-25",
+"portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2021/69/1333"
+},
+{
 "slug": "zakon-2021-1335",
 "path": "zakon/2021/1335",
 "kind": "zakon",
@@ -338367,6 +339080,23 @@
 "portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2021/81/1506"
 },
 {
+"slug": "zakon-2021-1515",
+"path": "zakon/2021/1515",
+"kind": "zakon",
+"year": "2021",
+"number": "1515",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izmjenama i dopunama Zakona o tržištu kapitala",
+"short": "Zakon o izmjenama i dopunama Zakona o tržištu kapitala",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2021-07-29",
+"latest": "2021-07-29",
+"portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2021/83/1515"
+},
+{
 "slug": "odluka-2021-1520",
 "path": "odluka/2021/1520",
 "kind": "odluka",
@@ -338592,6 +339322,40 @@
 "portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2021/83/1552"
 },
 {
+"slug": "zakon-2021-1556",
+"path": "zakon/2021/1556",
+"kind": "zakon",
+"year": "2021",
+"number": "1556",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izmjenama i dopunama Zakona o hrvatskim braniteljima iz Domovinskog rata i članovima njihovih obitelji",
+"short": "Zakon o izmjenama i dopunama Zakona o hrvatskim braniteljima iz Domovinskog rata i članovima njihovih obitelji",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2021-07-31",
+"latest": "2021-07-31",
+"portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2021/84/1556"
+},
+{
+"slug": "zakon-2021-1557",
+"path": "zakon/2021/1557",
+"kind": "zakon",
+"year": "2021",
+"number": "1557",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izmjenama i dopunama Zakona o mirovinskom osiguranju",
+"short": "Zakon o izmjenama i dopunama Zakona o mirovinskom osiguranju",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2021-08-01",
+"latest": "2021-08-01",
+"portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2021/84/1557"
+},
+{
 "slug": "zakon-2021-1558",
 "path": "zakon/2021/1558",
 "kind": "zakon",
@@ -338658,6 +339422,23 @@
 "from": "2021-07-31",
 "latest": "2021-07-31",
 "portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2021/84/1561"
+},
+{
+"slug": "zakon-2021-1562",
+"path": "zakon/2021/1562",
+"kind": "zakon",
+"year": "2021",
+"number": "1562",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izmjenama i dopunama Kaznenog zakona",
+"short": "Zakon o izmjenama i dopunama Kaznenog zakona",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2021-07-31",
+"latest": "2021-07-31",
+"portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2021/84/1562"
 },
 {
 "slug": "uredba-2021-1563",
@@ -342499,6 +343280,40 @@
 "portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2021/109/1921"
 },
 {
+"slug": "zakon-2021-1927",
+"path": "zakon/2021/1927",
+"kind": "zakon",
+"year": "2021",
+"number": "1927",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izmjenama i dopunama Zakona o otvorenim investicijskim fondovima s javnom ponudom",
+"short": "Zakon o izmjenama i dopunama Zakona o otvorenim investicijskim fondovima s javnom ponudom",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2021-10-21",
+"latest": "2021-10-21",
+"portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2021/110/1927"
+},
+{
+"slug": "zakon-2021-1928",
+"path": "zakon/2021/1928",
+"kind": "zakon",
+"year": "2021",
+"number": "1928",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izmjenama i dopunama Zakona o alternativnim investicijskim fondovima",
+"short": "Zakon o izmjenama i dopunama Zakona o alternativnim investicijskim fondovima",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2021-10-21",
+"latest": "2021-10-21",
+"portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2021/110/1928"
+},
+{
 "slug": "zakon-2021-1930",
 "path": "zakon/2021/1930",
 "kind": "zakon",
@@ -343749,6 +344564,23 @@
 "portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2021/116/2002"
 },
 {
+"slug": "zakon-2021-2004",
+"path": "zakon/2021/2004",
+"kind": "zakon",
+"year": "2021",
+"number": "2004",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izmjenama i dopunama Zakona o obnovi zgrada oštećenih potresom na području Grada Zagreba, Krapinsko-zagorske županije, Zagrebačke županije, Sisačko-moslavačke županije i Karlovačke županije",
+"short": "Zakon o izmjenama i dopunama Zakona o obnovi zgrada oštećenih potresom na području Grada Zagreba, Krapinsko-zagorske županije, Zagrebačke županije, Sisačko-moslavačke županije i Karlovačke županije",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2021-10-30",
+"latest": "2021-10-30",
+"portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2021/117/2004"
+},
+{
 "slug": "zakon-2021-2005",
 "path": "zakon/2021/2005",
 "kind": "zakon",
@@ -344385,6 +345217,23 @@
 "portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2021/119/2065"
 },
 {
+"slug": "zakon-2021-2067",
+"path": "zakon/2021/2067",
+"kind": "zakon",
+"year": "2021",
+"number": "2067",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izmjeni Zakona o dobrovoljnom zdravstvenom osiguranju",
+"short": "Zakon o izmjeni Zakona o dobrovoljnom zdravstvenom osiguranju",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2021-11-11",
+"latest": "2021-11-11",
+"portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2021/120/2067"
+},
+{
 "slug": "zakon-2021-2068",
 "path": "zakon/2021/2068",
 "kind": "zakon",
@@ -344904,6 +345753,23 @@
 "portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2021/122/2104"
 },
 {
+"slug": "zakon-2021-2105",
+"path": "zakon/2021/2105",
+"kind": "zakon",
+"year": "2021",
+"number": "2105",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izmjenama i dopunama Zakona o izvršavanju Državnog proračuna Republike Hrvatske za 2021. godinu",
+"short": "Zakon o izmjenama i dopunama Zakona o izvršavanju Državnog proračuna Republike Hrvatske za 2021. godinu",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2021-11-17",
+"latest": "2021-11-17",
+"portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2021/122/2105"
+},
+{
 "slug": "pravilnik-2021-2109",
 "path": "pravilnik/2021/2109",
 "kind": "pravilnik",
@@ -345103,6 +345969,57 @@
 "from": "2021-11-25",
 "latest": "2021-11-25",
 "portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2021/126/2132"
+},
+{
+"slug": "zakon-2021-2133",
+"path": "zakon/2021/2133",
+"kind": "zakon",
+"year": "2021",
+"number": "2133",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izmjenama i dopunama Zakona o odvjetništvu",
+"short": "Zakon o izmjenama i dopunama Zakona o odvjetništvu",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2021-12-02",
+"latest": "2021-12-02",
+"portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2021/126/2133"
+},
+{
+"slug": "zakon-2021-2134",
+"path": "zakon/2021/2134",
+"kind": "zakon",
+"year": "2021",
+"number": "2134",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izmjenama i dopunama Zakona o obveznim odnosima",
+"short": "Zakon o izmjenama i dopunama Zakona o obveznim odnosima",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2022-01-01",
+"latest": "2022-01-01",
+"portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2021/126/2134"
+},
+{
+"slug": "zakon-2021-2135",
+"path": "zakon/2021/2135",
+"kind": "zakon",
+"year": "2021",
+"number": "2135",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izmjenama i dopuni Zakona o provedbi Uredbe (EU) 2017/2402 o utvrđivanju općeg okvira za sekuritizaciju i o uspostavi specifičnog okvira za jednostavnu, transparentnu i standardiziranu sekuritizaciju",
+"short": "Zakon o izmjenama i dopuni Zakona o provedbi Uredbe (EU) 2017/2402 o utvrđivanju općeg okvira za sekuritizaciju i o uspostavi specifičnog okvira za jednostavnu, transparentnu i standardiziranu sekuritizaciju",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2021-12-02",
+"latest": "2021-12-02",
+"portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2021/126/2135"
 },
 {
 "slug": "pravilnik-2021-2143",
@@ -346240,6 +347157,41 @@
 "from": "2022-01-01",
 "latest": "2022-01-01",
 "portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2021/135/2235"
+},
+{
+"slug": "zakon-2021-2237",
+"path": "zakon/2021/2237",
+"kind": "zakon",
+"year": "2021",
+"number": "2237",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o ovlasti Vlade Republike Hrvatske da uredbama uređuje pojedina pitanja iz djelokruga Hrvatskoga sabora",
+"short": "Zakon o ovlasti Vlade Republike Hrvatske da uredbama uređuje pojedina pitanja iz djelokruga Hrvatskoga sabora",
+"code": null,
+"status": "repealed, not consolidated",
+"versions": 1,
+"from": "2021-12-10",
+"latest": "2021-12-10",
+"portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2021/136/2237",
+"amended_by": [
+{
+"ref": "nn:2022/149/2267",
+"title": "Zakon o ovlasti Vlade Republike Hrvatske da uredbama uređuje pojedina pitanja iz djelokruga Hrvatskoga sabora (NN 149/2022)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2022/149/2267",
+"date": "2022-12-19",
+"how": "repeal"
+}
+],
+"cited_by": [
+{
+"ref": "nn:2024/92/1722",
+"title": "Odluka Ustavnog suda Republike Hrvatske broj: U-I-4598/2017 od 9. srpnja 2024. (NN 92/2024)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2024/92/1722",
+"date": "2024-08-02",
+"how": "cite"
+}
+]
 },
 {
 "slug": "odluka-2021-2238",
@@ -347414,6 +348366,39 @@
 "portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2021/140/2370"
 },
 {
+"slug": "zakon-2021-2371",
+"path": "zakon/2021/2371",
+"kind": "zakon",
+"year": "2021",
+"number": "2371",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izvršavanju Državnog proračuna Republike Hrvatske za 2022. godinu",
+"short": "Zakon o izvršavanju Državnog proračuna Republike Hrvatske za 2022. godinu",
+"code": null,
+"status": "repealed, not consolidated",
+"versions": 1,
+"from": "2022-01-01",
+"latest": "2022-01-01",
+"portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2021/140/2371",
+"amended_by": [
+{
+"ref": "nn:2022/62/905",
+"title": "Zakon o izvršavanju Državnog proračuna Republike Hrvatske za 2022. godinu (NN 62/2022)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2022/62/905",
+"date": "2022-06-02",
+"how": "repeal,replace"
+},
+{
+"ref": "nn:2022/131/1967",
+"title": "Izmjene i dopune Državnog proračuna Republike Hrvatske za 2022. godinu i projekcija za 2023. i 2024. godinu (NN 131/2022)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2022/131/1967",
+"date": "2022-11-08",
+"how": "amend"
+}
+]
+},
+{
 "slug": "pravilnik-2021-2388",
 "path": "pravilnik/2021/2388",
 "kind": "pravilnik",
@@ -347875,6 +348860,23 @@
 "portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2021/142/2425"
 },
 {
+"slug": "zakon-2021-2436",
+"path": "zakon/2021/2436",
+"kind": "zakon",
+"year": "2021",
+"number": "2436",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izmjenama i dopunama Zakona o zaštiti pučanstva od zaraznih bolesti",
+"short": "Zakon o izmjenama i dopunama Zakona o zaštiti pučanstva od zaraznih bolesti",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2021-12-25",
+"latest": "2021-12-25",
+"portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2021/143/2436"
+},
+{
 "slug": "odluka-2021-2437",
 "path": "odluka/2021/2437",
 "kind": "odluka",
@@ -348171,6 +349173,23 @@
 "from": "2022-01-01",
 "latest": "2023-01-01",
 "portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2021/143/2455"
+},
+{
+"slug": "zakon-2021-2462",
+"path": "zakon/2021/2462",
+"kind": "zakon",
+"year": "2021",
+"number": "2462",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izmjenama i dopunama Zakona o cestama",
+"short": "Zakon o izmjenama i dopunama Zakona o cestama",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2022-01-04",
+"latest": "2022-01-04",
+"portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2021/144/2462"
 },
 {
 "slug": "zakon-2021-2463",
@@ -351776,6 +352795,23 @@
 "portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2022/18/186"
 },
 {
+"slug": "zakon-2022-188",
+"path": "zakon/2022/188",
+"kind": "zakon",
+"year": "2022",
+"number": "188",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izmjenama i dopunama Zakona o tržištu rada",
+"short": "Zakon o izmjenama i dopunama Zakona o tržištu rada",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2022-02-17",
+"latest": "2022-02-17",
+"portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2022/18/188"
+},
+{
 "slug": "pravilnik-2022-189",
 "path": "pravilnik/2022/189",
 "kind": "pravilnik",
@@ -351955,6 +352991,23 @@
 "portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2022/19/208"
 },
 {
+"slug": "zakon-2022-222",
+"path": "zakon/2022/222",
+"kind": "zakon",
+"year": "2022",
+"number": "222",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izmjenama i dopunama Zakona o sudovima",
+"short": "Zakon o izmjenama i dopunama Zakona o sudovima",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2022-03-01",
+"latest": "2022-03-01",
+"portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2022/21/222"
+},
+{
 "slug": "zakon-2022-223",
 "path": "zakon/2022/223",
 "kind": "zakon",
@@ -351972,6 +353025,40 @@
 "portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2022/21/223"
 },
 {
+"slug": "zakon-2022-224",
+"path": "zakon/2022/224",
+"kind": "zakon",
+"year": "2022",
+"number": "224",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izmjenama i dopunama Zakona o državnom odvjetništvu",
+"short": "Zakon o izmjenama i dopunama Zakona o državnom odvjetništvu",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2022-03-01",
+"latest": "2022-03-01",
+"portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2022/21/224"
+},
+{
+"slug": "zakon-2022-225",
+"path": "zakon/2022/225",
+"kind": "zakon",
+"year": "2022",
+"number": "225",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izmjeni Zakona o područjima i sjedištima državnih odvjetništava",
+"short": "Zakon o izmjeni Zakona o područjima i sjedištima državnih odvjetništava",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2022-03-01",
+"latest": "2022-03-01",
+"portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2022/21/225"
+},
+{
 "slug": "zakon-2022-227",
 "path": "zakon/2022/227",
 "kind": "zakon",
@@ -351987,6 +353074,23 @@
 "from": "2022-02-26",
 "latest": "2022-02-26",
 "portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2022/21/227"
+},
+{
+"slug": "zakon-2022-228",
+"path": "zakon/2022/228",
+"kind": "zakon",
+"year": "2022",
+"number": "228",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izmjenama i dopunama Zakona o sanaciji kreditnih institucija i investicijskih društava",
+"short": "Zakon o izmjenama i dopunama Zakona o sanaciji kreditnih institucija i investicijskih društava",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2022-02-26",
+"latest": "2022-02-26",
+"portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2022/21/228"
 },
 {
 "slug": "zakon-2022-229",
@@ -353461,6 +354565,40 @@
 "portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2022/32/395"
 },
 {
+"slug": "zakon-2022-397",
+"path": "zakon/2022/397",
+"kind": "zakon",
+"year": "2022",
+"number": "397",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izmjenama i dopunama Zakona o sudskom registru",
+"short": "Zakon o izmjenama i dopunama Zakona o sudskom registru",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2022-03-24",
+"latest": "2022-03-24",
+"portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2022/34/397"
+},
+{
+"slug": "zakon-2022-398",
+"path": "zakon/2022/398",
+"kind": "zakon",
+"year": "2022",
+"number": "398",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izmjenama i dopunama Zakona o trgovačkim društvima",
+"short": "Zakon o izmjenama i dopunama Zakona o trgovačkim društvima",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2022-06-01",
+"latest": "2022-06-01",
+"portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2022/34/398"
+},
+{
 "slug": "odluka-2022-399",
 "path": "odluka/2022/399",
 "kind": "odluka",
@@ -353835,6 +354973,23 @@
 "from": "2022-03-18",
 "latest": "2022-03-18",
 "portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2022/35/426"
+},
+{
+"slug": "zakon-2022-431",
+"path": "zakon/2022/431",
+"kind": "zakon",
+"year": "2022",
+"number": "431",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izmjenama i dopunama Stečajnog zakona",
+"short": "Zakon o izmjenama i dopunama Stečajnog zakona",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2022-03-31",
+"latest": "2022-03-31",
+"portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2022/36/431"
 },
 {
 "slug": "zakon-2022-432",
@@ -354295,6 +355450,23 @@
 "from": "2022-04-07",
 "latest": "2022-04-07",
 "portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2022/39/477"
+},
+{
+"slug": "zakon-2022-478",
+"path": "zakon/2022/478",
+"kind": "zakon",
+"year": "2022",
+"number": "478",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izmjenama i dopunama Zakona o porezu na dodanu vrijednost",
+"short": "Zakon o izmjenama i dopunama Zakona o porezu na dodanu vrijednost",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2022-04-01",
+"latest": "2022-04-01",
+"portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2022/39/478"
 },
 {
 "slug": "odluka-2022-479",
@@ -357078,6 +358250,23 @@
 "portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2022/57/807"
 },
 {
+"slug": "zakon-2022-808",
+"path": "zakon/2022/808",
+"kind": "zakon",
+"year": "2022",
+"number": "808",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izmjenama i dopunama Zakona o zaštiti zraka",
+"short": "Zakon o izmjenama i dopunama Zakona o zaštiti zraka",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2022-05-28",
+"latest": "2022-05-28",
+"portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2022/57/808"
+},
+{
 "slug": "odluka-2022-818",
 "path": "odluka/2022/818",
 "kind": "odluka",
@@ -357883,6 +359072,32 @@
 "from": "2022-06-03",
 "latest": "2022-06-03",
 "portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2022/62/904"
+},
+{
+"slug": "zakon-2022-905",
+"path": "zakon/2022/905",
+"kind": "zakon",
+"year": "2022",
+"number": "905",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izvršavanju Državnog proračuna Republike Hrvatske za 2022. godinu",
+"short": "Zakon o izvršavanju Državnog proračuna Republike Hrvatske za 2022. godinu",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2022-06-03",
+"latest": "2022-06-03",
+"portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2022/62/905",
+"amended_by": [
+{
+"ref": "nn:2022/131/1977",
+"title": "Zakon o izmjenama i dopunama Zakona o izvršavanju Državnog proračuna Republike Hrvatske za 2022. godinu (NN 131/2022)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2022/131/1977",
+"date": "2022-11-08",
+"how": "amend"
+}
+]
 },
 {
 "slug": "zakon-2022-909",
@@ -359178,6 +360393,23 @@
 ]
 },
 {
+"slug": "zakon-2022-1117",
+"path": "zakon/2022/1117",
+"kind": "zakon",
+"year": "2022",
+"number": "1117",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izmjenama i dopunama Zakona o otvorenim investicijskim fondovima s javnom ponudom",
+"short": "Zakon o izmjenama i dopunama Zakona o otvorenim investicijskim fondovima s javnom ponudom",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2022-07-12",
+"latest": "2022-07-12",
+"portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2022/76/1117"
+},
+{
 "slug": "uredba-2022-1119",
 "path": "uredba/2022/1119",
 "kind": "uredba",
@@ -359914,6 +361146,74 @@
 "portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2022/80/1168"
 },
 {
+"slug": "zakon-2022-1169",
+"path": "zakon/2022/1169",
+"kind": "zakon",
+"year": "2022",
+"number": "1169",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izmjenama i dopunama Zakona o kaznenom postupku",
+"short": "Zakon o izmjenama i dopunama Zakona o kaznenom postupku",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2022-07-19",
+"latest": "2022-07-19",
+"portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2022/80/1169"
+},
+{
+"slug": "zakon-2022-1170",
+"path": "zakon/2022/1170",
+"kind": "zakon",
+"year": "2022",
+"number": "1170",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izmjenama i dopunama Zakona o parničnom postupku",
+"short": "Zakon o izmjenama i dopunama Zakona o parničnom postupku",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2022-07-19",
+"latest": "2022-07-19",
+"portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2022/80/1170"
+},
+{
+"slug": "zakon-2022-1171",
+"path": "zakon/2022/1171",
+"kind": "zakon",
+"year": "2022",
+"number": "1171",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izmjenama i dopunama Zakona o Državnoodvjetničkom vijeću",
+"short": "Zakon o izmjenama i dopunama Zakona o Državnoodvjetničkom vijeću",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2022-07-19",
+"latest": "2022-07-19",
+"portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2022/80/1171"
+},
+{
+"slug": "zakon-2022-1172",
+"path": "zakon/2022/1172",
+"kind": "zakon",
+"year": "2022",
+"number": "1172",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izmjenama i dopunama Zakona o državnom sudbenom vijeću",
+"short": "Zakon o izmjenama i dopunama Zakona o državnom sudbenom vijeću",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2022-07-19",
+"latest": "2022-07-19",
+"portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2022/80/1172"
+},
+{
 "slug": "pravilnik-2022-1184",
 "path": "pravilnik/2022/1184",
 "kind": "pravilnik",
@@ -360644,6 +361944,40 @@
 "how": "repeal"
 }
 ]
+},
+{
+"slug": "zakon-2022-1288",
+"path": "zakon/2022/1288",
+"kind": "zakon",
+"year": "2022",
+"number": "1288",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izmjenama i dopunama Zakona o sigurnosti prometa na cestama",
+"short": "Zakon o izmjenama i dopunama Zakona o sigurnosti prometa na cestama",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2022-07-30",
+"latest": "2022-07-30",
+"portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2022/85/1288"
+},
+{
+"slug": "zakon-2022-1289",
+"path": "zakon/2022/1289",
+"kind": "zakon",
+"year": "2022",
+"number": "1289",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izmjenama i dopunama Zakona o rodiljnim i roditeljskim potporama",
+"short": "Zakon o izmjenama i dopunama Zakona o rodiljnim i roditeljskim potporama",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2022-08-01",
+"latest": "2022-08-01",
+"portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2022/85/1289"
 },
 {
 "slug": "odluka-2022-1299",
@@ -364187,6 +365521,23 @@
 "portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2022/112/1658"
 },
 {
+"slug": "zakon-2022-1660",
+"path": "zakon/2022/1660",
+"kind": "zakon",
+"year": "2022",
+"number": "1660",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izmjenama i dopunama Zakona o porezu na dodanu vrijednost",
+"short": "Zakon o izmjenama i dopunama Zakona o porezu na dodanu vrijednost",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2022-10-01",
+"latest": "2022-10-01",
+"portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2022/113/1660"
+},
+{
 "slug": "uredba-2022-1661",
 "path": "uredba/2022/1661",
 "kind": "uredba",
@@ -364354,6 +365705,23 @@
 "from": "2022-10-11",
 "latest": "2022-10-11",
 "portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2022/114/1727"
+},
+{
+"slug": "zakon-2022-1740",
+"path": "zakon/2022/1740",
+"kind": "zakon",
+"year": "2022",
+"number": "1740",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izmjenama i dopunama Zakona o javnoj nabavi",
+"short": "Zakon o izmjenama i dopunama Zakona o javnoj nabavi",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2022-10-11",
+"latest": "2022-10-11",
+"portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2022/114/1740"
 },
 {
 "slug": "odluka-2022-1761",
@@ -366205,6 +367573,23 @@
 "portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2022/128/1935"
 },
 {
+"slug": "zakon-2022-1938",
+"path": "zakon/2022/1938",
+"kind": "zakon",
+"year": "2022",
+"number": "1938",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izmjenama i dopunama Zakona o zemljišnim knjigama",
+"short": "Zakon o izmjenama i dopunama Zakona o zemljišnim knjigama",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2022-11-10",
+"latest": "2022-11-10",
+"portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2022/128/1938"
+},
+{
 "slug": "pravilnik-2022-1943",
 "path": "pravilnik/2022/1943",
 "kind": "pravilnik",
@@ -366597,6 +367982,23 @@
 "portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2022/131/1976"
 },
 {
+"slug": "zakon-2022-1977",
+"path": "zakon/2022/1977",
+"kind": "zakon",
+"year": "2022",
+"number": "1977",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izmjenama i dopunama Zakona o izvršavanju Državnog proračuna Republike Hrvatske za 2022. godinu",
+"short": "Zakon o izmjenama i dopunama Zakona o izvršavanju Državnog proračuna Republike Hrvatske za 2022. godinu",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2022-11-09",
+"latest": "2022-11-09",
+"portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2022/131/1977"
+},
+{
 "slug": "pravilnik-2022-1983",
 "path": "pravilnik/2022/1983",
 "kind": "pravilnik",
@@ -366739,6 +368141,23 @@
 "how": "amend"
 }
 ]
+},
+{
+"slug": "zakon-2022-1997",
+"path": "zakon/2022/1997",
+"kind": "zakon",
+"year": "2022",
+"number": "1997",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izmjenama Zakona o državnim maticama",
+"short": "Zakon o izmjenama Zakona o državnim maticama",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2023-01-01",
+"latest": "2023-01-01",
+"portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2022/133/1997"
 },
 {
 "slug": "odluka-2022-1998",
@@ -368458,6 +369877,62 @@
 "portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2022/145/2205"
 },
 {
+"slug": "zakon-2022-2206",
+"path": "zakon/2022/2206",
+"kind": "zakon",
+"year": "2022",
+"number": "2206",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izvršavanju Državnog proračuna Republike Hrvatske za 2023. godinu",
+"short": "Zakon o izvršavanju Državnog proračuna Republike Hrvatske za 2023. godinu",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2023-01-01",
+"latest": "2023-01-01",
+"portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2022/145/2206",
+"amended_by": [
+{
+"ref": "nn:2023/63/1046",
+"title": "Zakon o izmjenama i dopunama Zakona o izvršavanju državnog proračuna Republike Hrvatske za 2023. godinu (NN 63/2023)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2023/63/1046",
+"date": "2023-06-12",
+"how": "amend"
+},
+{
+"ref": "nn:2023/129/1793",
+"title": "Zakon o izmjenama i dopunama Zakona o izvršavanju Državnog proračuna Republike Hrvatske za 2023. godinu (NN 129/2023)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2023/129/1793",
+"date": "2023-10-31",
+"how": "amend"
+}
+],
+"cited_by": [
+{
+"ref": "nn:2023/149/2159",
+"title": "Zakon o izvršavanju Državnog proračuna Republike Hrvatske za 2024. godinu (NN 149/2023)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2023/149/2159",
+"date": "2023-12-14",
+"how": "cite"
+},
+{
+"ref": "nn:2024/149/2458",
+"title": "Zakon o izvršavanju Državnog proračuna Republike Hrvatske za 2025. godinu (NN 149/2024)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2024/149/2458",
+"date": "2024-12-19",
+"how": "cite"
+},
+{
+"ref": "nn:2025/152/2277",
+"title": "Zakon o izvršavanju Državnog proračuna Republike Hrvatske za 2026. godinu (NN 152/2025)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2025/152/2277",
+"date": "2025-12-16",
+"how": "cite"
+}
+]
+},
+{
 "slug": "odluka-2022-2207",
 "path": "odluka/2022/2207",
 "kind": "odluka",
@@ -369308,6 +370783,46 @@
 "portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2022/148/2263"
 },
 {
+"slug": "zakon-2022-2267",
+"path": "zakon/2022/2267",
+"kind": "zakon",
+"year": "2022",
+"number": "2267",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o ovlasti Vlade Republike Hrvatske da uredbama uređuje pojedina pitanja iz djelokruga Hrvatskoga sabora",
+"short": "Zakon o ovlasti Vlade Republike Hrvatske da uredbama uređuje pojedina pitanja iz djelokruga Hrvatskoga sabora",
+"code": null,
+"status": "repealed, not consolidated",
+"versions": 1,
+"from": "2022-12-20",
+"latest": "2022-12-20",
+"portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2022/149/2267",
+"amended_by": [
+{
+"ref": "nn:2023/145/2000",
+"title": "Zakon o ovlasti Vlade Republike Hrvatske da uredbama uređuje pojedina pitanja iz djelokruga Hrvatskoga sabora (NN 145/2023)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2023/145/2000",
+"date": "2023-12-06",
+"how": "repeal"
+},
+{
+"ref": "nn:2024/145/2367",
+"title": "Zakon o ovlasti Vlade Republike Hrvatske da uredbama uređuje pojedina pitanja iz djelokruga Hrvatskoga sabora (NN 145/2024)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2024/145/2367",
+"date": "2024-12-13",
+"how": "replace"
+},
+{
+"ref": "nn:2025/146/2166",
+"title": "Zakon o ovlasti Vlade Republike Hrvatske da uredbama uređuje pojedina pitanja iz djelokruga Hrvatskoga sabora (NN 146/2025)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2025/146/2166",
+"date": "2025-12-03",
+"how": "replace"
+}
+]
+},
+{
 "slug": "uredba-2022-2294",
 "path": "uredba/2022/2294",
 "kind": "uredba",
@@ -369692,6 +371207,23 @@
 "portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2022/150/2328"
 },
 {
+"slug": "zakon-2022-2334",
+"path": "zakon/2022/2334",
+"kind": "zakon",
+"year": "2022",
+"number": "2334",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izmjenama Zakona o financiranju jedinica lokalne i područne (regionalne) samouprave",
+"short": "Zakon o izmjenama Zakona o financiranju jedinica lokalne i područne (regionalne) samouprave",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2023-01-01",
+"latest": "2023-01-01",
+"portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2022/151/2334"
+},
+{
 "slug": "zakon-2022-2335",
 "path": "zakon/2022/2335",
 "kind": "zakon",
@@ -369709,6 +371241,74 @@
 "portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2022/151/2335"
 },
 {
+"slug": "zakon-2022-2338",
+"path": "zakon/2022/2338",
+"kind": "zakon",
+"year": "2022",
+"number": "2338",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izmjenama i dopunama Zakona o administrativnoj suradnji u području poreza",
+"short": "Zakon o izmjenama i dopunama Zakona o administrativnoj suradnji u području poreza",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2023-01-01",
+"latest": "2023-01-01",
+"portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2022/151/2338"
+},
+{
+"slug": "zakon-2022-2339",
+"path": "zakon/2022/2339",
+"kind": "zakon",
+"year": "2022",
+"number": "2339",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izmjenama i dopunama Zakona o osiguranju",
+"short": "Zakon o izmjenama i dopunama Zakona o osiguranju",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2023-01-01",
+"latest": "2023-01-01",
+"portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2022/151/2339"
+},
+{
+"slug": "zakon-2022-2340",
+"path": "zakon/2022/2340",
+"kind": "zakon",
+"year": "2022",
+"number": "2340",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izmjenama i dopunama Zakona o tržištu kapitala",
+"short": "Zakon o izmjenama i dopunama Zakona o tržištu kapitala",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2023-01-01",
+"latest": "2023-01-01",
+"portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2022/151/2340"
+},
+{
+"slug": "zakon-2022-2341",
+"path": "zakon/2022/2341",
+"kind": "zakon",
+"year": "2022",
+"number": "2341",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o dopuni Zakona o odgoju i obrazovanju u osnovnoj i srednjoj školi",
+"short": "Zakon o dopuni Zakona o odgoju i obrazovanju u osnovnoj i srednjoj školi",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2022-12-23",
+"latest": "2022-12-23",
+"portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2022/151/2341"
+},
+{
 "slug": "zakon-2022-2342",
 "path": "zakon/2022/2342",
 "kind": "zakon",
@@ -369724,6 +371324,23 @@
 "from": "2022-12-30",
 "latest": "2022-12-30",
 "portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2022/151/2342"
+},
+{
+"slug": "zakon-2022-2343",
+"path": "zakon/2022/2343",
+"kind": "zakon",
+"year": "2022",
+"number": "2343",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izmjenama i dopunama Zakona o radu",
+"short": "Zakon o izmjenama i dopunama Zakona o radu",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2023-01-01",
+"latest": "2023-01-01",
+"portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2022/151/2343"
 },
 {
 "slug": "zakon-2022-2344",
@@ -369758,6 +371375,23 @@
 "from": "2023-01-01",
 "latest": "2023-01-01",
 "portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2022/151/2345"
+},
+{
+"slug": "zakon-2022-2346",
+"path": "zakon/2022/2346",
+"kind": "zakon",
+"year": "2022",
+"number": "2346",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izmjenama i dopunama Zakona o udrugama",
+"short": "Zakon o izmjenama i dopunama Zakona o udrugama",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2023-01-01",
+"latest": "2023-01-01",
+"portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2022/151/2346"
 },
 {
 "slug": "zakon-2022-2349",
@@ -369995,6 +371629,40 @@
 "from": "2022-12-30",
 "latest": "2022-12-30",
 "portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2022/151/2369"
+},
+{
+"slug": "zakon-2022-2374",
+"path": "zakon/2022/2374",
+"kind": "zakon",
+"year": "2022",
+"number": "2374",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izmjenama i dopunama Zakona o poljoprivredi",
+"short": "Zakon o izmjenama i dopunama Zakona o poljoprivredi",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2022-12-31",
+"latest": "2022-12-31",
+"portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2022/152/2374"
+},
+{
+"slug": "zakon-2022-2375",
+"path": "zakon/2022/2375",
+"kind": "zakon",
+"year": "2022",
+"number": "2375",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izmjenama i dopunama Zakona o radnom vremenu, obveznim odmorima mobilnih radnika i uređajima za bilježenje u cestovnom prijevozu",
+"short": "Zakon o izmjenama i dopunama Zakona o radnom vremenu, obveznim odmorima mobilnih radnika i uređajima za bilježenje u cestovnom prijevozu",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2022-12-31",
+"latest": "2022-12-31",
+"portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2022/152/2375"
 },
 {
 "slug": "odluka-2022-2386",
@@ -374926,6 +376594,23 @@
 "portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2023/18/304"
 },
 {
+"slug": "zakon-2023-305",
+"path": "zakon/2023/305",
+"kind": "zakon",
+"year": "2023",
+"number": "305",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izmjenama i dopunama Zakona o trgovačkim društvima",
+"short": "Zakon o izmjenama i dopunama Zakona o trgovačkim društvima",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2023-02-16",
+"latest": "2023-02-16",
+"portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2023/18/305"
+},
+{
 "slug": "odluka-2023-311",
 "path": "odluka/2023/311",
 "kind": "odluka",
@@ -375171,6 +376856,23 @@
 "from": "2023-02-28",
 "latest": "2023-02-28",
 "portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2023/20/347"
+},
+{
+"slug": "zakon-2023-351",
+"path": "zakon/2023/351",
+"kind": "zakon",
+"year": "2023",
+"number": "351",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izmjenama Zakona o ustrojstvu i djelokrugu tijela državne uprave",
+"short": "Zakon o izmjenama Zakona o ustrojstvu i djelokrugu tijela državne uprave",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2023-02-23",
+"latest": "2023-02-23",
+"portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2023/21/351"
 },
 {
 "slug": "pravilnik-2023-361",
@@ -376510,6 +378212,23 @@
 ]
 },
 {
+"slug": "zakon-2023-511",
+"path": "zakon/2023/511",
+"kind": "zakon",
+"year": "2023",
+"number": "511",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izmjenama i dopunama Zakona o pravosudnoj akademiji",
+"short": "Zakon o izmjenama i dopunama Zakona o pravosudnoj akademiji",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2023-03-23",
+"latest": "2023-03-23",
+"portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2023/30/511"
+},
+{
 "slug": "zakon-2023-512",
 "path": "zakon/2023/512",
 "kind": "zakon",
@@ -377285,6 +379004,100 @@
 "from": "2023-04-01",
 "latest": "2023-04-01",
 "portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2023/33/578"
+},
+{
+"slug": "zakon-2023-579",
+"path": "zakon/2023/579",
+"kind": "zakon",
+"year": "2023",
+"number": "579",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izmjenama Zakona o doprinosima",
+"short": "Zakon o izmjenama Zakona o doprinosima",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2023-04-01",
+"latest": "2023-04-01",
+"portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2023/33/579"
+},
+{
+"slug": "zakon-2023-580",
+"path": "zakon/2023/580",
+"kind": "zakon",
+"year": "2023",
+"number": "580",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izmjenama i dopuni Zakona o trgovini",
+"short": "Zakon o izmjenama i dopuni Zakona o trgovini",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2023-07-01",
+"latest": "2023-07-01",
+"portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2023/33/580"
+},
+{
+"slug": "zakon-2023-581",
+"path": "zakon/2023/581",
+"kind": "zakon",
+"year": "2023",
+"number": "581",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izmjenama i dopunama Zakona o međunarodnoj i privremenoj zaštiti",
+"short": "Zakon o izmjenama i dopunama Zakona o međunarodnoj i privremenoj zaštiti",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2023-04-01",
+"latest": "2023-04-01",
+"portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2023/33/581"
+},
+{
+"slug": "zakon-2023-582",
+"path": "zakon/2023/582",
+"kind": "zakon",
+"year": "2023",
+"number": "582",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izmjenama i dopunama Zakona o zdravstvenoj zaštiti",
+"short": "Zakon o izmjenama i dopunama Zakona o zdravstvenoj zaštiti",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2023-04-01",
+"latest": "2023-04-01",
+"portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2023/33/582"
+},
+{
+"slug": "zakon-2023-583",
+"path": "zakon/2023/583",
+"kind": "zakon",
+"year": "2023",
+"number": "583",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izmjenama i dopunama Zakona o obveznom zdravstvenom osiguranju",
+"short": "Zakon o izmjenama i dopunama Zakona o obveznom zdravstvenom osiguranju",
+"code": null,
+"status": "repealed, not consolidated",
+"versions": 1,
+"from": "2023-04-01",
+"latest": "2023-04-01",
+"portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2023/33/583",
+"amended_by": [
+{
+"ref": "nn:2024/93/1729",
+"title": "Pravilnik o nadzoru i kontroli Hrvatskog zavoda za zdravstveno osiguranje (NN 93/2024)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2024/93/1729",
+"date": "2024-08-07",
+"how": "repeal"
+}
+]
 },
 {
 "slug": "uredba-2023-584",
@@ -380801,6 +382614,23 @@
 "portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2023/63/1045"
 },
 {
+"slug": "zakon-2023-1046",
+"path": "zakon/2023/1046",
+"kind": "zakon",
+"year": "2023",
+"number": "1046",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izmjenama i dopunama Zakona o izvršavanju državnog proračuna Republike Hrvatske za 2023. godinu",
+"short": "Zakon o izmjenama i dopunama Zakona o izvršavanju državnog proračuna Republike Hrvatske za 2023. godinu",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2023-06-13",
+"latest": "2023-06-13",
+"portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2023/63/1046"
+},
+{
 "slug": "pravilnik-2023-1053",
 "path": "pravilnik/2023/1053",
 "kind": "pravilnik",
@@ -381074,6 +382904,32 @@
 "portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2023/66/1095"
 },
 {
+"slug": "zakon-2023-1099",
+"path": "zakon/2023/1099",
+"kind": "zakon",
+"year": "2023",
+"number": "1099",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o mirnom rješavanju sporova",
+"short": "Zakon o mirnom rješavanju sporova",
+"code": null,
+"status": "repealed, not consolidated",
+"versions": 1,
+"from": "2023-06-29",
+"latest": "2023-06-29",
+"portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2023/67/1099",
+"amended_by": [
+{
+"ref": "nn:2026/27/305",
+"title": "Zakon o medijaciji (NN 27/2026)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/27/305",
+"date": "2026-03-18",
+"how": "repeal"
+}
+]
+},
+{
 "slug": "zakon-2023-1100",
 "path": "zakon/2023/1100",
 "kind": "zakon",
@@ -381089,6 +382945,23 @@
 "from": "2023-06-29",
 "latest": "2023-06-29",
 "portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2023/67/1100"
+},
+{
+"slug": "zakon-2023-1101",
+"path": "zakon/2023/1101",
+"kind": "zakon",
+"year": "2023",
+"number": "1101",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izmjenama i dopunama Zakona o prostornom uređenju",
+"short": "Zakon o izmjenama i dopunama Zakona o prostornom uređenju",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2023-06-29",
+"latest": "2023-06-29",
+"portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2023/67/1101"
 },
 {
 "slug": "pravilnik-2023-1103",
@@ -382733,6 +384606,40 @@
 "portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2023/81/1287"
 },
 {
+"slug": "zakon-2023-1289",
+"path": "zakon/2023/1289",
+"kind": "zakon",
+"year": "2023",
+"number": "1289",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izmjenama i dopunama Zakona o stambenom zbrinjavanju na potpomognutim područjima",
+"short": "Zakon o izmjenama i dopunama Zakona o stambenom zbrinjavanju na potpomognutim područjima",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2023-07-28",
+"latest": "2023-07-28",
+"portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2023/82/1289"
+},
+{
+"slug": "zakon-2023-1290",
+"path": "zakon/2023/1290",
+"kind": "zakon",
+"year": "2023",
+"number": "1290",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izmjenama i dopunama Zakona o računovodstvu",
+"short": "Zakon o izmjenama i dopunama Zakona o računovodstvu",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2023-07-28",
+"latest": "2023-07-28",
+"portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2023/82/1290"
+},
+{
 "slug": "naredba-2023-1291",
 "path": "naredba/2023/1291",
 "kind": "naredba",
@@ -382748,6 +384655,23 @@
 "from": "2023-07-21",
 "latest": "2023-07-29",
 "portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2023/82/1291"
+},
+{
+"slug": "zakon-2023-1295",
+"path": "zakon/2023/1295",
+"kind": "zakon",
+"year": "2023",
+"number": "1295",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izmjenama Zakona o tržištu električne energije",
+"short": "Zakon o izmjenama Zakona o tržištu električne energije",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2023-07-29",
+"latest": "2023-07-29",
+"portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2023/83/1295"
 },
 {
 "slug": "zakon-2023-1296",
@@ -382782,6 +384706,40 @@
 "from": "2023-07-29",
 "latest": "2023-07-29",
 "portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2023/83/1297"
+},
+{
+"slug": "zakon-2023-1298",
+"path": "zakon/2023/1298",
+"kind": "zakon",
+"year": "2023",
+"number": "1298",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izmjenama i dopunama Zakona o obnovljivim izvorima energije i visokoučinkovitoj kogeneraciji",
+"short": "Zakon o izmjenama i dopunama Zakona o obnovljivim izvorima energije i visokoučinkovitoj kogeneraciji",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2023-07-29",
+"latest": "2023-07-29",
+"portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2023/83/1298"
+},
+{
+"slug": "zakon-2023-1300",
+"path": "zakon/2023/1300",
+"kind": "zakon",
+"year": "2023",
+"number": "1300",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izmjenama i dopunama Zakona o alternativnim investicijskim fondovima",
+"short": "Zakon o izmjenama i dopunama Zakona o alternativnim investicijskim fondovima",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2023-07-29",
+"latest": "2023-07-29",
+"portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2023/83/1300"
 },
 {
 "slug": "zakon-2023-1301",
@@ -385528,6 +387486,23 @@
 "portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2023/113/1604"
 },
 {
+"slug": "zakon-2023-1610",
+"path": "zakon/2023/1610",
+"kind": "zakon",
+"year": "2023",
+"number": "1610",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izmjenama i dopuni Zakona o lokalnim porezima",
+"short": "Zakon o izmjenama i dopuni Zakona o lokalnim porezima",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2023-10-05",
+"latest": "2023-10-05",
+"portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2023/114/1610"
+},
+{
 "slug": "zakon-2023-1611",
 "path": "zakon/2023/1611",
 "kind": "zakon",
@@ -385562,6 +387537,40 @@
 "portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2023/114/1612"
 },
 {
+"slug": "zakon-2023-1613",
+"path": "zakon/2023/1613",
+"kind": "zakon",
+"year": "2023",
+"number": "1613",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izmjenama i dopunama Zakona o porezu na dobit",
+"short": "Zakon o izmjenama i dopunama Zakona o porezu na dobit",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2023-10-12",
+"latest": "2023-10-12",
+"portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2023/114/1613"
+},
+{
+"slug": "zakon-2023-1614",
+"path": "zakon/2023/1614",
+"kind": "zakon",
+"year": "2023",
+"number": "1614",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izmjenama i dopunama Zakona o porezu na dodanu vrijednost",
+"short": "Zakon o izmjenama i dopunama Zakona o porezu na dodanu vrijednost",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2024-01-01",
+"latest": "2024-01-01",
+"portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2023/114/1614"
+},
+{
 "slug": "zakon-2023-1615",
 "path": "zakon/2023/1615",
 "kind": "zakon",
@@ -385577,6 +387586,40 @@
 "from": "2024-01-01",
 "latest": "2024-01-01",
 "portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2023/114/1615"
+},
+{
+"slug": "zakon-2023-1616",
+"path": "zakon/2023/1616",
+"kind": "zakon",
+"year": "2023",
+"number": "1616",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izmjenama i dopunama Zakona o administrativnoj suradnji u području poreza",
+"short": "Zakon o izmjenama i dopunama Zakona o administrativnoj suradnji u području poreza",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2023-10-12",
+"latest": "2023-10-12",
+"portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2023/114/1616"
+},
+{
+"slug": "zakon-2023-1618",
+"path": "zakon/2023/1618",
+"kind": "zakon",
+"year": "2023",
+"number": "1618",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izmjenama i dopunama Kaznenog zakona",
+"short": "Zakon o izmjenama i dopunama Kaznenog zakona",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2023-10-12",
+"latest": "2023-10-12",
+"portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2023/114/1618"
 },
 {
 "slug": "zakon-2023-1619",
@@ -386682,6 +388725,23 @@
 ]
 },
 {
+"slug": "zakon-2023-1727",
+"path": "zakon/2023/1727",
+"kind": "zakon",
+"year": "2023",
+"number": "1727",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izmjeni Zakona o izbornim jedinicama za izbor zastupnika u Hrvatski sabor",
+"short": "Zakon o izmjeni Zakona o izbornim jedinicama za izbor zastupnika u Hrvatski sabor",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2023-11-03",
+"latest": "2023-11-03",
+"portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2023/125/1727"
+},
+{
 "slug": "uredba-2023-1740",
 "path": "uredba/2023/1740",
 "kind": "uredba",
@@ -387046,6 +389106,23 @@
 "from": "2023-11-01",
 "latest": "2023-11-01",
 "portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2023/129/1792"
+},
+{
+"slug": "zakon-2023-1793",
+"path": "zakon/2023/1793",
+"kind": "zakon",
+"year": "2023",
+"number": "1793",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izmjenama i dopunama Zakona o izvršavanju Državnog proračuna Republike Hrvatske za 2023. godinu",
+"short": "Zakon o izmjenama i dopunama Zakona o izvršavanju Državnog proračuna Republike Hrvatske za 2023. godinu",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2023-11-01",
+"latest": "2023-11-01",
+"portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2023/129/1793"
 },
 {
 "slug": "naredba-2023-1796",
@@ -389053,6 +391130,55 @@
 "from": "2023-12-12",
 "latest": "2023-12-12",
 "portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2023/144/1997"
+},
+{
+"slug": "zakon-2023-2000",
+"path": "zakon/2023/2000",
+"kind": "zakon",
+"year": "2023",
+"number": "2000",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o ovlasti Vlade Republike Hrvatske da uredbama uređuje pojedina pitanja iz djelokruga Hrvatskoga sabora",
+"short": "Zakon o ovlasti Vlade Republike Hrvatske da uredbama uređuje pojedina pitanja iz djelokruga Hrvatskoga sabora",
+"code": null,
+"status": "repealed, not consolidated",
+"versions": 1,
+"from": "2023-12-15",
+"latest": "2023-12-15",
+"portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2023/145/2000",
+"amended_by": [
+{
+"ref": "nn:2024/145/2367",
+"title": "Zakon o ovlasti Vlade Republike Hrvatske da uredbama uređuje pojedina pitanja iz djelokruga Hrvatskoga sabora (NN 145/2024)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2024/145/2367",
+"date": "2024-12-13",
+"how": "repeal"
+},
+{
+"ref": "nn:2025/146/2166",
+"title": "Zakon o ovlasti Vlade Republike Hrvatske da uredbama uređuje pojedina pitanja iz djelokruga Hrvatskoga sabora (NN 146/2025)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2025/146/2166",
+"date": "2025-12-03",
+"how": "replace"
+}
+],
+"cited_by": [
+{
+"ref": "nn:2024/92/1722",
+"title": "Odluka Ustavnog suda Republike Hrvatske broj: U-I-4598/2017 od 9. srpnja 2024. (NN 92/2024)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2024/92/1722",
+"date": "2024-08-02",
+"how": "cite"
+},
+{
+"ref": "nn:2026/22/256",
+"title": "Zakon o izmjenama i dopuni Zakona o predškolskom odgoju i obrazovanju (NN 22/2026)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/22/256",
+"date": "2026-03-05",
+"how": "cite"
+}
+]
 },
 {
 "slug": "pravilnik-2023-2006",
@@ -391646,6 +393772,48 @@
 "from": "2024-01-01",
 "latest": "2024-01-01",
 "portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2023/149/2158"
+},
+{
+"slug": "zakon-2023-2159",
+"path": "zakon/2023/2159",
+"kind": "zakon",
+"year": "2023",
+"number": "2159",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izvršavanju Državnog proračuna Republike Hrvatske za 2024. godinu",
+"short": "Zakon o izvršavanju Državnog proračuna Republike Hrvatske za 2024. godinu",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2024-01-01",
+"latest": "2024-01-01",
+"portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2023/149/2159",
+"amended_by": [
+{
+"ref": "nn:2024/125/2090",
+"title": "Zakon o izmjenama i dopuni Zakona o izvršavanju Državnog proračuna Republike Hrvatske za 2024. godinu (NN 125/2024)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2024/125/2090",
+"date": "2024-10-29",
+"how": "amend"
+}
+],
+"cited_by": [
+{
+"ref": "nn:2024/149/2458",
+"title": "Zakon o izvršavanju Državnog proračuna Republike Hrvatske za 2025. godinu (NN 149/2024)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2024/149/2458",
+"date": "2024-12-19",
+"how": "cite"
+},
+{
+"ref": "nn:2025/152/2277",
+"title": "Zakon o izvršavanju Državnog proračuna Republike Hrvatske za 2026. godinu (NN 152/2025)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2025/152/2277",
+"date": "2025-12-16",
+"how": "cite"
+}
+]
 },
 {
 "slug": "odluka-2023-2160",
@@ -394884,6 +397052,23 @@
 "portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2023/155/2364"
 },
 {
+"slug": "zakon-2023-2365",
+"path": "zakon/2023/2365",
+"kind": "zakon",
+"year": "2023",
+"number": "2365",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izmjenama i dopunama Zakona o obveznim odnosima",
+"short": "Zakon o izmjenama i dopunama Zakona o obveznim odnosima",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2023-12-30",
+"latest": "2023-12-30",
+"portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2023/155/2365"
+},
+{
 "slug": "zakon-2023-2366",
 "path": "zakon/2023/2366",
 "kind": "zakon",
@@ -395179,6 +397364,57 @@
 "from": "2024-01-04",
 "latest": "2024-01-04",
 "portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2023/156/2391"
+},
+{
+"slug": "zakon-2023-2392",
+"path": "zakon/2023/2392",
+"kind": "zakon",
+"year": "2023",
+"number": "2392",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izmjenama i dopunama Zakona o obveznim mirovinskim fondovima",
+"short": "Zakon o izmjenama i dopunama Zakona o obveznim mirovinskim fondovima",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2024-01-01",
+"latest": "2024-01-01",
+"portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2023/156/2392"
+},
+{
+"slug": "zakon-2023-2393",
+"path": "zakon/2023/2393",
+"kind": "zakon",
+"year": "2023",
+"number": "2393",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izmjenama i dopunama Zakona o dobrovoljnim mirovinskim fondovima",
+"short": "Zakon o izmjenama i dopunama Zakona o dobrovoljnim mirovinskim fondovima",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2024-01-01",
+"latest": "2024-01-01",
+"portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2023/156/2393"
+},
+{
+"slug": "zakon-2023-2394",
+"path": "zakon/2023/2394",
+"kind": "zakon",
+"year": "2023",
+"number": "2394",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izmjenama i dopunama Zakona o mirovinskim osiguravajućim društvima",
+"short": "Zakon o izmjenama i dopunama Zakona o mirovinskim osiguravajućim društvima",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2024-01-01",
+"latest": "2024-01-01",
+"portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2023/156/2394"
 },
 {
 "slug": "zakon-2023-2395",
@@ -399923,6 +402159,23 @@
 "portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2024/25/395"
 },
 {
+"slug": "zakon-2024-400",
+"path": "zakon/2024/400",
+"kind": "zakon",
+"year": "2024",
+"number": "400",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izmjenama i dopunama Zakona o sanaciji kreditnih institucija i investicijskih društava",
+"short": "Zakon o izmjenama i dopunama Zakona o sanaciji kreditnih institucija i investicijskih društava",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2024-03-14",
+"latest": "2024-03-14",
+"portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2024/27/400"
+},
+{
 "slug": "zakon-2024-401",
 "path": "zakon/2024/401",
 "kind": "zakon",
@@ -401046,6 +403299,23 @@
 ]
 },
 {
+"slug": "zakon-2024-539",
+"path": "zakon/2024/539",
+"kind": "zakon",
+"year": "2024",
+"number": "539",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izmjeni Zakona o porezu na dodanu vrijednost",
+"short": "Zakon o izmjeni Zakona o porezu na dodanu vrijednost",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2024-04-01",
+"latest": "2024-04-01",
+"portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2024/35/539"
+},
+{
 "slug": "zakon-2024-540",
 "path": "zakon/2024/540",
 "kind": "zakon",
@@ -401290,6 +403560,23 @@
 "portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2024/35/561"
 },
 {
+"slug": "zakon-2024-569",
+"path": "zakon/2024/569",
+"kind": "zakon",
+"year": "2024",
+"number": "569",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izmjenama i dopunama Zakona o kaznenom postupku",
+"short": "Zakon o izmjenama i dopunama Zakona o kaznenom postupku",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2024-04-02",
+"latest": "2024-04-02",
+"portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2024/36/569"
+},
+{
 "slug": "zakon-2024-571",
 "path": "zakon/2024/571",
 "kind": "zakon",
@@ -401424,6 +403711,23 @@
 "from": "2024-04-02",
 "latest": "2024-04-02",
 "portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2024/36/578"
+},
+{
+"slug": "zakon-2024-579",
+"path": "zakon/2024/579",
+"kind": "zakon",
+"year": "2024",
+"number": "579",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izmjenama i dopunama Zakona o zdravstvenoj zaštiti",
+"short": "Zakon o izmjenama i dopunama Zakona o zdravstvenoj zaštiti",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2024-04-02",
+"latest": "2024-04-02",
+"portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2024/36/579"
 },
 {
 "slug": "uredba-2024-582",
@@ -403936,6 +406240,23 @@
 "portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2024/56/977"
 },
 {
+"slug": "zakon-2024-982",
+"path": "zakon/2024/982",
+"kind": "zakon",
+"year": "2024",
+"number": "982",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izmjenama i dopunama Zakona o ustrojstvu i djelokrugu tijela državne uprave",
+"short": "Zakon o izmjenama i dopunama Zakona o ustrojstvu i djelokrugu tijela državne uprave",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2024-05-17",
+"latest": "2024-05-17",
+"portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2024/57/982"
+},
+{
 "slug": "naredba-2024-997",
 "path": "naredba/2024/997",
 "kind": "naredba",
@@ -405795,6 +408116,23 @@
 "portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2024/77/1327"
 },
 {
+"slug": "zakon-2024-1331",
+"path": "zakon/2024/1331",
+"kind": "zakon",
+"year": "2024",
+"number": "1331",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izmjenama i dopuni Zakona o Vladi Republike Hrvatske",
+"short": "Zakon o izmjenama i dopuni Zakona o Vladi Republike Hrvatske",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2024-07-02",
+"latest": "2024-07-02",
+"portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2024/78/1331"
+},
+{
 "slug": "pravilnik-2024-1337",
 "path": "pravilnik/2024/1337",
 "kind": "pravilnik",
@@ -406423,6 +408761,40 @@
 "from": "2024-07-25",
 "latest": "2024-07-25",
 "portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2024/84/1468"
+},
+{
+"slug": "zakon-2024-1475",
+"path": "zakon/2024/1475",
+"kind": "zakon",
+"year": "2024",
+"number": "1475",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izmjenama i dopunama Zakona o reviziji",
+"short": "Zakon o izmjenama i dopunama Zakona o reviziji",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2024-07-27",
+"latest": "2024-07-27",
+"portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2024/85/1475"
+},
+{
+"slug": "zakon-2024-1476",
+"path": "zakon/2024/1476",
+"kind": "zakon",
+"year": "2024",
+"number": "1476",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izmjenama i dopunama Zakona o tržištu kapitala",
+"short": "Zakon o izmjenama i dopunama Zakona o tržištu kapitala",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2024-07-27",
+"latest": "2024-07-27",
+"portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2024/85/1476"
 },
 {
 "slug": "zakon-2024-1477",
@@ -410020,6 +412392,23 @@
 "portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2024/125/2089"
 },
 {
+"slug": "zakon-2024-2090",
+"path": "zakon/2024/2090",
+"kind": "zakon",
+"year": "2024",
+"number": "2090",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izmjenama i dopuni Zakona o izvršavanju Državnog proračuna Republike Hrvatske za 2024. godinu",
+"short": "Zakon o izmjenama i dopuni Zakona o izvršavanju Državnog proračuna Republike Hrvatske za 2024. godinu",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2024-10-30",
+"latest": "2024-10-30",
+"portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2024/125/2090"
+},
+{
 "slug": "odluka-2024-2094",
 "path": "odluka/2024/2094",
 "kind": "odluka",
@@ -410035,6 +412424,23 @@
 "from": "2024-11-01",
 "latest": "2024-11-01",
 "portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2024/126/2094"
+},
+{
+"slug": "zakon-2024-2097",
+"path": "zakon/2024/2097",
+"kind": "zakon",
+"year": "2024",
+"number": "2097",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izmjenama i dopunama Zakona o zemljišnim knjigama",
+"short": "Zakon o izmjenama i dopunama Zakona o zemljišnim knjigama",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2024-11-12",
+"latest": "2024-11-12",
+"portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2024/127/2097"
 },
 {
 "slug": "uredba-2024-2099",
@@ -410968,6 +413374,23 @@
 "portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2024/136/2247"
 },
 {
+"slug": "zakon-2024-2249",
+"path": "zakon/2024/2249",
+"kind": "zakon",
+"year": "2024",
+"number": "2249",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izmjenama i dopunama Zakona o prijevozu u cestovnom prometu",
+"short": "Zakon o izmjenama i dopunama Zakona o prijevozu u cestovnom prometu",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2024-12-05",
+"latest": "2024-12-05",
+"portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2024/136/2249"
+},
+{
 "slug": "zakon-2024-2250",
 "path": "zakon/2024/2250",
 "kind": "zakon",
@@ -411870,6 +414293,23 @@
 "portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2024/145/2375"
 },
 {
+"slug": "zakon-2024-2376",
+"path": "zakon/2024/2376",
+"kind": "zakon",
+"year": "2024",
+"number": "2376",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izmjenama i dopunama Zakona o komunalnom gospodarstvu",
+"short": "Zakon o izmjenama i dopunama Zakona o komunalnom gospodarstvu",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2024-12-21",
+"latest": "2024-12-21",
+"portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2024/145/2376"
+},
+{
 "slug": "zakon-2024-2377",
 "path": "zakon/2024/2377",
 "kind": "zakon",
@@ -412450,6 +414890,55 @@
 "portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2024/149/2457"
 },
 {
+"slug": "zakon-2024-2458",
+"path": "zakon/2024/2458",
+"kind": "zakon",
+"year": "2024",
+"number": "2458",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izvršavanju Državnog proračuna Republike Hrvatske za 2025. godinu",
+"short": "Zakon o izvršavanju Državnog proračuna Republike Hrvatske za 2025. godinu",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2025-01-01",
+"latest": "2025-01-01",
+"portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2024/149/2458",
+"amended_by": [
+{
+"ref": "nn:2025/134/1963",
+"title": "Izmjene i dopune Državnog proračuna Republike Hrvatske za 2025. godinu i projekcija za 2026. i 2027. godinu (NN 134/2025)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2025/134/1963",
+"date": "2025-10-30",
+"how": "amend"
+},
+{
+"ref": "nn:2025/134/1973",
+"title": "Zakon o izmjeni i dopuni Zakona o izvršavanju Državnog proračuna Republike Hrvatske za 2025. godinu (NN 134/2025)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2025/134/1973",
+"date": "2025-10-30",
+"how": "amend"
+}
+],
+"cited_by": [
+{
+"ref": "nn:2025/145/2165",
+"title": "Godišnji provedbeni plan statističkih aktivnosti Republike Hrvatske 2026. (NN 145/2025)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2025/145/2165",
+"date": "2025-12-02",
+"how": "cite"
+},
+{
+"ref": "nn:2025/152/2277",
+"title": "Zakon o izvršavanju Državnog proračuna Republike Hrvatske za 2026. godinu (NN 152/2025)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2025/152/2277",
+"date": "2025-12-16",
+"how": "cite"
+}
+]
+},
+{
 "slug": "odluka-2024-2459",
 "path": "odluka/2024/2459",
 "kind": "odluka",
@@ -413004,6 +415493,23 @@
 "portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2024/151/2498"
 },
 {
+"slug": "zakon-2024-2504",
+"path": "zakon/2024/2504",
+"kind": "zakon",
+"year": "2024",
+"number": "2504",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izmjenama i dopuni Zakona o lokalnim porezima",
+"short": "Zakon o izmjenama i dopuni Zakona o lokalnim porezima",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2025-01-01",
+"latest": "2025-01-01",
+"portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2024/152/2504"
+},
+{
 "slug": "zakon-2024-2505",
 "path": "zakon/2024/2505",
 "kind": "zakon",
@@ -413055,6 +415561,91 @@
 "portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2024/152/2507"
 },
 {
+"slug": "zakon-2024-2508",
+"path": "zakon/2024/2508",
+"kind": "zakon",
+"year": "2024",
+"number": "2508",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izmjenama i dopunama Zakona o porezu na dodanu vrijednost",
+"short": "Zakon o izmjenama i dopunama Zakona o porezu na dodanu vrijednost",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2025-01-01",
+"latest": "2025-01-01",
+"portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2024/152/2508"
+},
+{
+"slug": "zakon-2024-2509",
+"path": "zakon/2024/2509",
+"kind": "zakon",
+"year": "2024",
+"number": "2509",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izmjenama i dopunama Općeg poreznog zakona",
+"short": "Zakon o izmjenama i dopunama Općeg poreznog zakona",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2025-01-01",
+"latest": "2025-01-01",
+"portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2024/152/2509"
+},
+{
+"slug": "zakon-2024-2510",
+"path": "zakon/2024/2510",
+"kind": "zakon",
+"year": "2024",
+"number": "2510",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izmjenama i dopunama Zakona o otvorenim investicijskim fondovima s javnom ponudom",
+"short": "Zakon o izmjenama i dopunama Zakona o otvorenim investicijskim fondovima s javnom ponudom",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2025-01-01",
+"latest": "2025-01-01",
+"portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2024/152/2510"
+},
+{
+"slug": "zakon-2024-2511",
+"path": "zakon/2024/2511",
+"kind": "zakon",
+"year": "2024",
+"number": "2511",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izmjenama i dopunama Zakona o alternativnim investicijskim fondovima",
+"short": "Zakon o izmjenama i dopunama Zakona o alternativnim investicijskim fondovima",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2025-01-01",
+"latest": "2025-01-01",
+"portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2024/152/2511"
+},
+{
+"slug": "zakon-2024-2512",
+"path": "zakon/2024/2512",
+"kind": "zakon",
+"year": "2024",
+"number": "2512",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izmjenama i dopunama Zakona o osiguranju",
+"short": "Zakon o izmjenama i dopunama Zakona o osiguranju",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2025-01-01",
+"latest": "2025-01-01",
+"portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2024/152/2512"
+},
+{
 "slug": "zakon-2024-2513",
 "path": "zakon/2024/2513",
 "kind": "zakon",
@@ -413070,6 +415661,23 @@
 "from": "2025-01-01",
 "latest": "2025-01-01",
 "portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2024/152/2513"
+},
+{
+"slug": "zakon-2024-2514",
+"path": "zakon/2024/2514",
+"kind": "zakon",
+"year": "2024",
+"number": "2514",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izmjenama i dopunama Zakona o ugostiteljskoj djelatnosti",
+"short": "Zakon o izmjenama i dopunama Zakona o ugostiteljskoj djelatnosti",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2024-12-25",
+"latest": "2024-12-25",
+"portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2024/152/2514"
 },
 {
 "slug": "zakon-2024-2515",
@@ -415129,6 +417737,23 @@
 "from": "2025-02-01",
 "latest": "2025-02-01",
 "portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2025/16/155"
+},
+{
+"slug": "zakon-2025-161",
+"path": "zakon/2025/161",
+"kind": "zakon",
+"year": "2025",
+"number": "161",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izmjenama i dopunama Zakona o međunarodnoj i privremenoj zaštiti",
+"short": "Zakon o izmjenama i dopunama Zakona o međunarodnoj i privremenoj zaštiti",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2025-02-11",
+"latest": "2025-02-11",
+"portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2025/17/161"
 },
 {
 "slug": "zakon-2025-162",
@@ -417239,6 +419864,23 @@
 "portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2025/40/544"
 },
 {
+"slug": "zakon-2025-545",
+"path": "zakon/2025/545",
+"kind": "zakon",
+"year": "2025",
+"number": "545",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izmjenama i dopunama Zakona o strancima",
+"short": "Zakon o izmjenama i dopunama Zakona o strancima",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2025-03-15",
+"latest": "2025-03-15",
+"portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2025/40/545"
+},
+{
 "slug": "zakon-2025-546",
 "path": "zakon/2025/546",
 "kind": "zakon",
@@ -417836,6 +420478,40 @@
 "portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2025/50/660"
 },
 {
+"slug": "zakon-2025-670",
+"path": "zakon/2025/670",
+"kind": "zakon",
+"year": "2025",
+"number": "670",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izmjenama i dopunama Zakona o dobrovoljnim mirovinskim fondovima",
+"short": "Zakon o izmjenama i dopunama Zakona o dobrovoljnim mirovinskim fondovima",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2025-03-29",
+"latest": "2025-03-29",
+"portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2025/52/670"
+},
+{
+"slug": "zakon-2025-671",
+"path": "zakon/2025/671",
+"kind": "zakon",
+"year": "2025",
+"number": "671",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izmjenama i dopunama Zakona o mirovinskim osiguravajućim društvima",
+"short": "Zakon o izmjenama i dopunama Zakona o mirovinskim osiguravajućim društvima",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2025-03-29",
+"latest": "2025-03-29",
+"portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2025/52/671"
+},
+{
 "slug": "zakon-2025-672",
 "path": "zakon/2025/672",
 "kind": "zakon",
@@ -417851,6 +420527,23 @@
 "from": "2025-03-29",
 "latest": "2025-03-29",
 "portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2025/52/672"
+},
+{
+"slug": "zakon-2025-673",
+"path": "zakon/2025/673",
+"kind": "zakon",
+"year": "2025",
+"number": "673",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izmjeni Zakona o porezu na dodanu vrijednost",
+"short": "Zakon o izmjeni Zakona o porezu na dodanu vrijednost",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2025-03-30",
+"latest": "2025-03-30",
+"portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2025/52/673"
 },
 {
 "slug": "odluka-2025-680",
@@ -418413,6 +421106,23 @@
 "from": "2025-04-05",
 "latest": "2025-04-05",
 "portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2025/58/786"
+},
+{
+"slug": "zakon-2025-800",
+"path": "zakon/2025/800",
+"kind": "zakon",
+"year": "2025",
+"number": "800",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izmjenama i dopunama Zakona o socijalnoj skrbi",
+"short": "Zakon o izmjenama i dopunama Zakona o socijalnoj skrbi",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2025-04-01",
+"latest": "2025-04-01",
+"portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2025/61/800"
 },
 {
 "slug": "odluka-2025-801",
@@ -421730,6 +424440,23 @@
 "portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2025/98/1357"
 },
 {
+"slug": "zakon-2025-1358",
+"path": "zakon/2025/1358",
+"kind": "zakon",
+"year": "2025",
+"number": "1358",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izmjenama i dopunama Zakona o odvjetništvu",
+"short": "Zakon o izmjenama i dopunama Zakona o odvjetništvu",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2025-07-12",
+"latest": "2025-07-12",
+"portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2025/98/1358"
+},
+{
 "slug": "zakon-2025-1359",
 "path": "zakon/2025/1359",
 "kind": "zakon",
@@ -422556,6 +425283,23 @@
 "from": "2025-07-26",
 "latest": "2025-07-26",
 "portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2025/104/1469"
+},
+{
+"slug": "zakon-2025-1474",
+"path": "zakon/2025/1474",
+"kind": "zakon",
+"year": "2025",
+"number": "1474",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izmjenama i dopuni Zakona o obveznom zdravstvenom osiguranju",
+"short": "Zakon o izmjenama i dopuni Zakona o obveznom zdravstvenom osiguranju",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2025-08-01",
+"latest": "2025-08-01",
+"portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2025/105/1474"
 },
 {
 "slug": "zakon-2025-1475",
@@ -425746,6 +428490,23 @@
 ]
 },
 {
+"slug": "zakon-2025-1812",
+"path": "zakon/2025/1812",
+"kind": "zakon",
+"year": "2025",
+"number": "1812",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izmjenama i dopunama Zakona o tržištu kapitala",
+"short": "Zakon o izmjenama i dopunama Zakona o tržištu kapitala",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2025-10-11",
+"latest": "2025-10-11",
+"portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2025/126/1812"
+},
+{
 "slug": "zakon-2025-1813",
 "path": "zakon/2025/1813",
 "kind": "zakon",
@@ -426814,6 +429575,23 @@
 "portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2025/134/1972"
 },
 {
+"slug": "zakon-2025-1973",
+"path": "zakon/2025/1973",
+"kind": "zakon",
+"year": "2025",
+"number": "1973",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izmjeni i dopuni Zakona o izvršavanju Državnog proračuna Republike Hrvatske za 2025. godinu",
+"short": "Zakon o izmjeni i dopuni Zakona o izvršavanju Državnog proračuna Republike Hrvatske za 2025. godinu",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2025-10-31",
+"latest": "2025-10-31",
+"portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2025/134/1973"
+},
+{
 "slug": "odluka-2025-1985",
 "path": "odluka/2025/1985",
 "kind": "odluka",
@@ -427059,6 +429837,23 @@
 "from": "2025-11-13",
 "latest": "2025-11-13",
 "portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2025/136/2015"
+},
+{
+"slug": "zakon-2025-2016",
+"path": "zakon/2025/2016",
+"kind": "zakon",
+"year": "2025",
+"number": "2016",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izmjenama i dopunama Zakona o sudovima",
+"short": "Zakon o izmjenama i dopunama Zakona o sudovima",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2025-11-13",
+"latest": "2025-11-13",
+"portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2025/136/2016"
 },
 {
 "slug": "zakon-2025-2017",
@@ -428610,6 +431405,23 @@
 "portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2025/151/2253"
 },
 {
+"slug": "zakon-2025-2254",
+"path": "zakon/2025/2254",
+"kind": "zakon",
+"year": "2025",
+"number": "2254",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izmjenama i dopunama Zakona o računovodstvu",
+"short": "Zakon o izmjenama i dopunama Zakona o računovodstvu",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2025-12-31",
+"latest": "2025-12-31",
+"portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2025/151/2254"
+},
+{
 "slug": "zakon-2025-2255",
 "path": "zakon/2025/2255",
 "kind": "zakon",
@@ -428959,6 +431771,32 @@
 "from": "2026-01-01",
 "latest": "2026-01-01",
 "portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2025/152/2276"
+},
+{
+"slug": "zakon-2025-2277",
+"path": "zakon/2025/2277",
+"kind": "zakon",
+"year": "2025",
+"number": "2277",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izvršavanju Državnog proračuna Republike Hrvatske za 2026. godinu",
+"short": "Zakon o izvršavanju Državnog proračuna Republike Hrvatske za 2026. godinu",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2026-01-01",
+"latest": "2026-01-01",
+"portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2025/152/2277",
+"amended_by": [
+{
+"ref": "nn:2026/126/1504",
+"title": "Zakon o izmjenama i dopunama Zakona o izvršavanju Državnog proračuna Republike Hrvatske za 2026. godinu (NN 126/2026)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/126/1504",
+"date": "2026-11-03",
+"how": "amend"
+}
+]
 },
 {
 "slug": "pravilnik-2025-2279",
@@ -432453,6 +435291,23 @@
 "from": "2026-03-27",
 "latest": "2026-03-27",
 "portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/31/373"
+},
+{
+"slug": "zakon-2026-377",
+"path": "zakon/2026/377",
+"kind": "zakon",
+"year": "2026",
+"number": "377",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izmjeni Zakona o porezu na dodanu vrijednost",
+"short": "Zakon o izmjeni Zakona o porezu na dodanu vrijednost",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2026-03-30",
+"latest": "2026-03-30",
+"portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/32/377"
 },
 {
 "slug": "uredba-2026-379",
