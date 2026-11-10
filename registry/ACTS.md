@@ -1,6 +1,6 @@
 # Every act in this repository
 
-25239 acts, 25,665 versions. Each act lives in a folder named by its kind, year and identifier, `<kind>/<year>/<identifier>/` (acts published before that layout keep their own folder, listed in data/paths.json); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+25539 acts, 25,965 versions. Each act lives in a folder named by its kind, year and identifier, `<kind>/<year>/<identifier>/` (acts published before that layout keep their own folder, listed in data/paths.json); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## naputak (159, of which 23 amending acts)
 
@@ -23374,7 +23374,7 @@
 | Uredba o izmjeni Uredbe o visini trošarine na energente i električnu energiju | [`uredba/2026/1458/`](uredba/2026/1458/) | in force | 1 | 2026-10-27 | 2026-10-27 |
 | Uredba o izmjeni Uredbe o visini trošarine na energente i električnu energiju | [`uredba/2026/1488/`](uredba/2026/1488/) | in force | 1 | 2026-11-03 | 2026-11-03 |
 
-## zakon (1902, of which 1162 amending acts)
+## zakon (2202, of which 1313 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -23781,6 +23781,17 @@
 | ZAKON O IZMJENAMA I DOPUNAMA ZAKONA O VLASNIŠTVU I DRUGIM STVARNIM PRAVIMA | [`zakon/2006/3195/`](zakon/2006/3195/) | amending act | 1 | 2006-12-27 | 2006-12-27 |
 | Zakon o izmjenama i dopunama Zakona o pomorskom dobru i morskim lukama | [`zakon/2006/3196/`](zakon/2006/3196/) | amending act | 1 | 2007-01-04 | 2007-01-04 |
 | Zakon o financiranju političkih stranaka, nezavisnih lista i kandidata | [`zakon/2007/1/`](zakon/2007/1/) | repealed, not consolidated | 1 | 2007-01-10 | 2007-01-10 |
+| Zakon o izmjenama i dopunama Zakona o javnom bilježništvu | [`zakon/2007/652/`](zakon/2007/652/) | amending act | 1 | 2007-02-17 | 2007-02-17 |
+| Zakon o izmjenama i dopunama Zakona o državnom odvjetništvu | [`zakon/2007/653/`](zakon/2007/653/) | amended, not consolidated | 1 | 2007-02-17 | 2007-02-17 |
+| Zakon o izmjenama i dopunama Zakona o sudovima | [`zakon/2007/654/`](zakon/2007/654/) | amending act | 1 | 2007-02-17 | 2007-02-17 |
+| Zakon o obrazovanju odraslih | [`zakon/2007/668/`](zakon/2007/668/) | repealed, not consolidated | 1 | 2007-02-20 | 2007-02-20 |
+| Zakon o izmjenama i dopunama Zakona o postupku primopredaje vlasti | [`zakon/2007/669/`](zakon/2007/669/) | amending act | 1 | 2007-02-20 | 2007-02-20 |
+| Zakon o izmjenama i dopuni Zakona o obvezama i pravima državnih dužnosnika | [`zakon/2007/670/`](zakon/2007/670/) | amending act | 1 | 2007-02-12 | 2007-02-12 |
+| Zakon o popisima birača | [`zakon/2007/772/`](zakon/2007/772/) | repealed, not consolidated | 1 | 2007-02-16 | 2007-02-16 |
+| Zakon o izmjenama i dopunama Zakona o Državnom izbornom povjerenstvu Republike Hrvatske | [`zakon/2007/773/`](zakon/2007/773/) | amending act | 1 | 2007-02-16 | 2007-02-16 |
+| Zakon o izmjenama i dopuni Zakona o izborima zastupnika u Hrvatski sabor | [`zakon/2007/774/`](zakon/2007/774/) | amending act | 1 | 2007-02-16 | 2007-02-16 |
+| Zakon o izmjenama i dopunama Zakona o provođenju Odluke Ustavnog suda Republike Hrvatske od 12. svibnja 1998. | [`zakon/2007/775/`](zakon/2007/775/) | amending act | 1 | 2007-02-16 | 2007-02-16 |
+| ZAKON O SAVJETIMA MLADIH | [`zakon/2007/869/`](zakon/2007/869/) | repealed, not consolidated | 1 | 2007-03-08 | 2007-03-08 |
 | Zakon o tržištu plina | [`zakon/2007/1342/`](zakon/2007/1342/) | repealed, not consolidated | 1 | 2007-04-26 | 2007-04-26 |
 | Zakon o izmjenama i dopunama Zakona o sudskom registru | [`zakon/2007/1345/`](zakon/2007/1345/) | amending act | 1 | 2007-04-26 | 2007-04-26 |
 | Zakon o izmjeni Zakona o suzbijanju zlouporabe opojnih droga | [`zakon/2007/1347/`](zakon/2007/1347/) | in force | 1 | 2007-04-26 | 2007-04-26 |
@@ -23815,6 +23826,295 @@
 | Zakon o izmjenama i dopunama Zakona o sustavu državne uprave | [`zakon/2007/2490/`](zakon/2007/2490/) | amending act | 1 | 2007-08-07 | 2007-08-07 |
 | Zakon o izmjenama i dopunama Zakona o autorskom pravu i srodnim pravima | [`zakon/2007/2491/`](zakon/2007/2491/) | amending act | 1 | 2007-08-07 | 2007-08-07 |
 | Zakon o izmjenama i dopunama Zakona o tehničkim zahtjevima za proizvode i ocjeni sukladnosti | [`zakon/2007/2492/`](zakon/2007/2492/) | amending act | 1 | 2007-08-07 | 2007-08-07 |
+| Zakon o izmjenama i dopunama Zakona o zaštiti i spašavanju | [`zakon/2007/2494/`](zakon/2007/2494/) | amending act | 1 | 2007-08-07 | 2007-08-07 |
+| Zakon o izmjenama i dopunama Zakona o željeznici | [`zakon/2007/2495/`](zakon/2007/2495/) | amending act | 1 | 2007-08-07 | 2007-08-07 |
+| Zakon o izmjenama i dopunama Zakona o ekološkoj proizvodnji poljoprivrednih i prehrambenih proizvoda | [`zakon/2007/2496/`](zakon/2007/2496/) | amending act | 1 | 2007-08-07 | 2007-08-07 |
+| Zakon o ovlasti Vlade Republike Hrvatske da uredbama uređuje pojedina pitanja iz djelokruga Hrvatskoga sabora | [`zakon/2007/2995/`](zakon/2007/2995/) | repealed, not consolidated | 1 | 2007-10-11 | 2007-10-11 |
+| Zakon o akademskim i stručnim nazivima i akademskom stupnju | [`zakon/2007/3126/`](zakon/2007/3126/) | repealed, not consolidated | 1 | 2007-10-27 | 2007-10-27 |
+| Zakon o pravobranitelju za osobe s invaliditetom | [`zakon/2007/3127/`](zakon/2007/3127/) | cited later, not consolidated | 1 | 2008-01-01 | 2008-01-01 |
+| Zakon o posredovanju u prometu nekretnina | [`zakon/2007/3128/`](zakon/2007/3128/) | repealed, not consolidated | 1 | 2007-10-27 | 2007-10-27 |
+| Zakon o kvaliteti zdravstvene zaštite | [`zakon/2007/3129/`](zakon/2007/3129/) | repealed, not consolidated | 1 | 2007-10-27 | 2007-10-27 |
+| Zakon o Agenciji za mobilnost i programe Europske unije | [`zakon/2007/3131/`](zakon/2007/3131/) | repealed, not consolidated | 1 | 2007-10-27 | 2007-10-27 |
+| Zakon o izmjenama i dopunama Zakona o općoj sigurnosti proizvoda | [`zakon/2007/3133/`](zakon/2007/3133/) | amending act | 1 | 2007-10-27 | 2007-10-27 |
+| Zakon o izmjenama i dopuni Zakona o predškolskom odgoju i naobrazbi | [`zakon/2007/3135/`](zakon/2007/3135/) | amending act | 1 | 2007-10-27 | 2007-10-27 |
+| Zakon o izmjenama i dopunama Zakona o listi profesionalnih bolesti | [`zakon/2007/3137/`](zakon/2007/3137/) | amending act | 1 | 2007-10-27 | 2007-10-27 |
+| Zakon o izmjenama i dopunama Zakona o mirovinskim osiguravajućim društvima i isplati mirovina na temelju individualne kapitalizirane štednje | [`zakon/2007/3138/`](zakon/2007/3138/) | amending act | 1 | 2007-10-27 | 2007-10-27 |
+| Zakon o izmjeni i dopuni Zakona o pravima hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji | [`zakon/2007/3140/`](zakon/2007/3140/) | amended, not consolidated | 1 | 2007-10-19 | 2007-10-19 |
+| Zakon o izmjenama i dopunama Zakona o zemljišnim knjigama | [`zakon/2007/3141/`](zakon/2007/3141/) | amended, not consolidated | 1 | 2007-10-27 | 2007-10-27 |
+| Zakon o dopunama Zakona o obvezama i pravima državnih dužnosnika | [`zakon/2007/3143/`](zakon/2007/3143/) | amending act | 1 | 2007-10-27 | 2007-10-27 |
+| Zakon o izmjenama i dopunama Obiteljskog zakona | [`zakon/2007/3144/`](zakon/2007/3144/) | amending act | 1 | 2008-01-01 | 2008-01-01 |
+| Zakon o dopunama Zakona o posebnom porezu na alkohol | [`zakon/2007/3145/`](zakon/2007/3145/) | amending act | 1 | 2007-10-27 | 2007-10-27 |
+| Zakon o računovodstvu | [`zakon/2007/3174/`](zakon/2007/3174/) | repealed, not consolidated | 1 | 2008-01-01 | 2008-01-01 |
+| Zakon o Obalnoj straži Republike Hrvatske | [`zakon/2007/3175/`](zakon/2007/3175/) | repealed, not consolidated | 1 | 2007-11-01 | 2007-11-01 |
+| Zakon o plovidbi i lukama unutarnjih voda | [`zakon/2007/3176/`](zakon/2007/3176/) | repealed, not consolidated | 1 | 2007-11-01 | 2007-11-01 |
+| Zakon o izmjenama i dopunama Zakona o eksplozivnim tvarima | [`zakon/2007/3181/`](zakon/2007/3181/) | amending act | 1 | 2007-11-01 | 2007-11-01 |
+| Zakon o javnoj nabavi | [`zakon/2007/3225/`](zakon/2007/3225/) | amended, not consolidated | 1 | 2008-01-01 | 2008-01-01 |
+| Zakon o zaštiti okoliša | [`zakon/2007/3226/`](zakon/2007/3226/) | repealed, not consolidated | 1 | 2007-11-02 | 2007-11-02 |
+| Zakon o izmjenama Zakona o odgovornosti pravnih osoba za kaznena djela | [`zakon/2007/3228/`](zakon/2007/3228/) | in force | 1 | 2007-11-02 | 2007-11-02 |
+| Zakon o nacionalnoj zakladi za potporu učeničkom i studentskom standardu | [`zakon/2007/3232/`](zakon/2007/3232/) | repealed, not consolidated | 1 | 2007-11-06 | 2007-11-06 |
+| Zakon o dopuni Zakona o obveznom zdravstvenom osiguranju | [`zakon/2007/3233/`](zakon/2007/3233/) | amending act | 1 | 2008-01-01 | 2008-01-01 |
+| Zakon o izmjenama i dopunama Zakona o ustrojstvu i djelokrugu središnjih tijela državne uprave | [`zakon/2008/110/`](zakon/2008/110/) | amending act | 1 | 2008-01-11 | 2008-01-11 |
+| ZAKON O IZMJENAMA I DOPUNAMA ZAKONA O USTROJSTVU I DJELOKRUGU SREDIŠNJIH TIJELA DRŽAVNE UPRAVE | [`zakon/2008/900/`](zakon/2008/900/) | amending act | 1 | 2008-03-13 | 2008-03-13 |
+| ZAKON O IZMJENAMA I DOPUNAMA ZAKONA O DRŽAVNIM SLUŽBENICIMA | [`zakon/2008/901/`](zakon/2008/901/) | amending act | 1 | 2008-03-13 | 2008-03-13 |
+| Zakon o izmjenama Zakona o izvršavanju kazne zatvora | [`zakon/2008/902/`](zakon/2008/902/) | in force | 1 | 2008-03-13 | 2008-03-13 |
+| Zakon o izvršavanju Državnog proračuna Republike Hrvatske za 2008. godinu | [`zakon/2008/944/`](zakon/2008/944/) | amended, not consolidated | 1 | 2008-03-07 | 2008-03-07 |
+| Zakon o izmjenama i dopuni Zakona o elektroničkim medijima | [`zakon/2008/1032/`](zakon/2008/1032/) | amended, not consolidated | 1 | 2008-03-27 | 2008-03-27 |
+| Zakon o izmjenama i dopunama Zakona o mirovinskom osiguranju | [`zakon/2008/1138/`](zakon/2008/1138/) | amending act | 1 | 2008-03-28 | 2008-03-28 |
+| Zakon o izmjenama i dopuni Zakona o obveznom zdravstvenom osiguranju | [`zakon/2008/1139/`](zakon/2008/1139/) | amending act | 1 | 2008-04-05 | 2008-04-05 |
+| Zakon o dopuni Zakona o ljekarništvu | [`zakon/2008/1140/`](zakon/2008/1140/) | amending act | 1 | 2008-03-28 | 2008-03-28 |
+| Zakon o izmjenama i dopunama Zakona o biocidnim pripravcima | [`zakon/2008/1141/`](zakon/2008/1141/) | amending act | 1 | 2008-04-05 | 2008-04-05 |
+| Zakon o izmjenama i dopuni Zakona o ustanovama | [`zakon/2008/1142/`](zakon/2008/1142/) | amending act | 1 | 2008-04-05 | 2008-04-05 |
+| Zakon o izmjenama i dopunama Zakona o sjemenu, sadnom materijalu i priznavanju sorti poljoprivrednog bilja | [`zakon/2008/1143/`](zakon/2008/1143/) | amending act | 1 | 2008-04-05 | 2008-04-05 |
+| Zakon o izmjenama i dopuni Zakona o pravima iz mirovinskog osiguranja djelatnih vojnih osoba, policijskih službenika i ovlaštenih službenih osoba | [`zakon/2008/1377/`](zakon/2008/1377/) | amending act | 1 | 2008-04-09 | 2008-04-09 |
+| Zakon o izmjenama Zakona o policiji | [`zakon/2008/1378/`](zakon/2008/1378/) | in force | 1 | 2008-04-17 | 2008-04-17 |
+| Zakon o izmjenama i dopuni Zakona o Fondu hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji | [`zakon/2008/1379/`](zakon/2008/1379/) | amending act | 1 | 2008-04-09 | 2008-04-09 |
+| Zakon o izmjenama Zakona o stažu osiguranja s povećanim trajanjem | [`zakon/2008/1380/`](zakon/2008/1380/) | in force | 1 | 2008-04-09 | 2008-04-09 |
+| Zakon o izmjenama i dopunama Zakona o zaštiti osobnih podataka | [`zakon/2008/1381/`](zakon/2008/1381/) | amending act | 1 | 2008-04-17 | 2008-04-17 |
+| Zakon o izmjenama i dopunama Zakona o obveznim odnosima | [`zakon/2008/1382/`](zakon/2008/1382/) | amending act | 1 | 2008-04-17 | 2008-04-17 |
+| Zakon o izmjenama i dopunama Zakona o kemikalijama | [`zakon/2008/1783/`](zakon/2008/1783/) | amending act | 1 | 2008-05-17 | 2008-05-17 |
+| Zakon o osobnom identifikacijskom broju | [`zakon/2008/2033/`](zakon/2008/2033/) | cited later, not consolidated | 1 | 2009-01-01 | 2009-01-01 |
+| Zakon o radnom vremenu, obveznim odmorima mobilnih radnika i uređajima za bilježenje u cestovnom prijevozu | [`zakon/2008/2034/`](zakon/2008/2034/) | repealed, not consolidated | 1 | 2008-06-05 | 2008-06-05 |
+| Zakon o izmjenama i dopunama Zakona o upravnim pristojbama | [`zakon/2008/2037/`](zakon/2008/2037/) | amending act | 1 | 2008-06-27 | 2008-06-27 |
+| Zakon o izmjenama i dopunama Carinskog zakona | [`zakon/2008/2038/`](zakon/2008/2038/) | amending act | 1 | 2008-07-01 | 2008-07-01 |
+| Zakon o izmjenama i dopunama Zakona o sprječavanju sukoba interesa u obnašanju javnih dužnosti | [`zakon/2008/2039/`](zakon/2008/2039/) | amending act | 1 | 2008-06-05 | 2008-06-05 |
+| Zakon o izmjenama i dopunama Zakona o obvezama i pravima državnih dužnosnika | [`zakon/2008/2040/`](zakon/2008/2040/) | amending act | 1 | 2008-06-05 | 2008-06-05 |
+| Zakon o besplatnoj pravnoj pomoći | [`zakon/2008/2098/`](zakon/2008/2098/) | repealed, not consolidated | 1 | 2008-06-07 | 2008-06-07 |
+| Zakon o prestanku važenja Zakona o klasifikaciji neobrađenog drva | [`zakon/2008/2100/`](zakon/2008/2100/) | in force | 1 | 2008-06-07 | 2008-06-07 |
+| Zakon o upravnoj inspekciji | [`zakon/2008/2123/`](zakon/2008/2123/) | repealed, not consolidated | 1 | 2008-06-10 | 2008-06-10 |
+| Zakon o izmjenama i dopunama Zakona o pošti | [`zakon/2008/2125/`](zakon/2008/2125/) | amending act | 1 | 2008-07-01 | 2008-07-01 |
+| Zakon o izmjenama i dopunama Zakona o obveznim i stvarnopravnim odnosima u zračnom prometu | [`zakon/2008/2127/`](zakon/2008/2127/) | amending act | 1 | 2008-06-10 | 2008-06-10 |
+| Zakon o minimalnoj plaći | [`zakon/2008/2223/`](zakon/2008/2223/) | repealed, not consolidated | 1 | 2008-07-01 | 2008-07-01 |
+| Zakon o medicinskim proizvodima | [`zakon/2008/2225/`](zakon/2008/2225/) | repealed, not consolidated | 1 | 2008-10-01 | 2008-10-01 |
+| Zakon o izmjenama Zakona o zdravstvenom osiguranju zaštite zdravlja na radu | [`zakon/2008/2226/`](zakon/2008/2226/) | in force | 1 | 2009-01-01 | 2009-01-01 |
+| Zakon o izmjenama i dopunama Ovršnog zakona | [`zakon/2008/2227/`](zakon/2008/2227/) | amending act | 1 | 2008-06-17 | 2008-06-17 |
+| Zakon o izmjenama i dopunama Zakona o elektroničkoj trgovini | [`zakon/2008/2228/`](zakon/2008/2228/) | amending act | 1 | 2008-06-17 | 2008-06-17 |
+| Zakon o izmjenama i dopunama Zakona o zaštiti biljnih sorti | [`zakon/2008/2229/`](zakon/2008/2229/) | amending act | 1 | 2008-06-17 | 2008-06-17 |
+| Zakon o izmjenama i dopunama Zakona o eksplozivnim tvarima | [`zakon/2008/2230/`](zakon/2008/2230/) | amending act | 1 | 2008-06-17 | 2008-06-17 |
+| Zakon o elektroničkim komunikacijama | [`zakon/2008/2420/`](zakon/2008/2420/) | repealed, not consolidated | 1 | 2008-07-01 | 2008-07-01 |
+| Zakon o izmjeni Zakona o porezu na dohodak | [`zakon/2008/2421/`](zakon/2008/2421/) | in force | 1 | 2008-07-01 | 2008-07-01 |
+| Zakon o izmjenama i dopuni Zakona o financiranju jedinica lokalne i područne (regionalne) samouprave | [`zakon/2008/2422/`](zakon/2008/2422/) | amending act | 1 | 2008-07-01 | 2008-07-01 |
+| Zakon o izmjenama i dopunama Zakona o elektroničkom potpisu | [`zakon/2008/2604/`](zakon/2008/2604/) | amending act | 1 | 2008-07-19 | 2008-07-19 |
+| Zakon o izmjenama i dopunama Zakona o obnovi i razvoju Grada Vukovara | [`zakon/2008/2605/`](zakon/2008/2605/) | amending act | 1 | 2008-07-19 | 2008-07-19 |
+| Zakon o izmjenama i dopunama Zakona o brdsko-planinskim područjima | [`zakon/2008/2606/`](zakon/2008/2606/) | amending act | 1 | 2008-07-19 | 2008-07-19 |
+| Zakon o izmjenama i dopunama Zakona o izvršavanju Državnog proračuna Republike Hrvatske za 2008. godinu | [`zakon/2008/2662/`](zakon/2008/2662/) | amending act | 1 | 2008-07-15 | 2008-07-15 |
+| Zakon o ravnopravnosti spolova | [`zakon/2008/2663/`](zakon/2008/2663/) | amended, not consolidated | 1 | 2008-07-15 | 2008-07-15 |
+| Zakon o doprinosima | [`zakon/2008/2716/`](zakon/2008/2716/) | amended, not consolidated | 1 | 2009-01-01 | 2009-01-01 |
+| Zakon o vježbenicima u pravosudnim tijelima i pravosudnom ispitu | [`zakon/2008/2717/`](zakon/2008/2717/) | repealed, not consolidated | 1 | 2009-01-01 | 2009-01-01 |
+| Zakon o veterinarsko-medicinskim proizvodima | [`zakon/2008/2718/`](zakon/2008/2718/) | repealed, not consolidated | 1 | 2009-02-01 | 2009-02-01 |
+| Zakon o oznakama izvornosti, oznakama zemljopisnog podrijetla i oznakama tradicionalnog ugleda poljoprivrednih i prehrambenih proizvoda | [`zakon/2008/2719/`](zakon/2008/2719/) | repealed, not consolidated | 1 | 2008-07-26 | 2008-07-26 |
+| Zakon o izmjenama i dopunama Zakona o izvozu robe s dvojnom namjenom | [`zakon/2008/2721/`](zakon/2008/2721/) | amending act | 1 | 2008-07-26 | 2008-07-26 |
+| Zakon o rodiljnim i roditeljskim potporama | [`zakon/2008/2727/`](zakon/2008/2727/) | repealed, not consolidated | 1 | 2009-01-01 | 2009-01-01 |
+| Zakon o suzbijanju diskriminacije | [`zakon/2008/2728/`](zakon/2008/2728/) | amended, not consolidated | 1 | 2009-01-01 | 2009-01-01 |
+| Zakon o područjima i sjedištima sudova | [`zakon/2008/2730/`](zakon/2008/2730/) | repealed, not consolidated | 1 | 2008-07-29 | 2008-07-29 |
+| Zakon o izmjenama i dopunama Zakona o slobodnim zonama | [`zakon/2008/2732/`](zakon/2008/2732/) | amending act | 1 | 2008-07-29 | 2008-07-29 |
+| Zakon o građevnim proizvodima | [`zakon/2008/2749/`](zakon/2008/2749/) | repealed, not consolidated | 1 | 2008-07-31 | 2008-07-31 |
+| Zakon o izvozu i uvozu robe vojne namjene i nevojnih ubojnih sredstava | [`zakon/2008/2751/`](zakon/2008/2751/) | repealed, not consolidated | 1 | 2009-01-01 | 2009-01-01 |
+| Zakon o osiguranju potraživanja radnika u slučaju stečaja poslodavca | [`zakon/2008/2753/`](zakon/2008/2753/) | repealed, not consolidated | 1 | 2008-07-31 | 2008-07-31 |
+| Zakon o izmjenama i dopunama Zakona o zaštiti na radu | [`zakon/2008/2754/`](zakon/2008/2754/) | amended, not consolidated | 1 | 2008-07-31 | 2008-07-31 |
+| Zakon o proračunu | [`zakon/2008/2791/`](zakon/2008/2791/) | repealed, not consolidated | 1 | 2009-01-01 | 2009-01-01 |
+| ZAKON O SPRJEČAVANJU PRANJA NOVCA I FINANCIRANJA TERORIZMA | [`zakon/2008/2792/`](zakon/2008/2792/) | repealed, not consolidated | 1 | 2009-01-01 | 2009-01-01 |
+| Zakon o izmjenama i dopunama Zakona o osiguranju | [`zakon/2008/2793/`](zakon/2008/2793/) | amending act | 1 | 2009-01-01 | 2009-01-01 |
+| Zakon o tržištu kapitala | [`zakon/2008/2812/`](zakon/2008/2812/) | repealed, not consolidated | 1 | 2009-01-01 | 2009-01-01 |
+| Zakon o izmjenama i dopunama Zakona o sudovima | [`zakon/2008/3287/`](zakon/2008/3287/) | amending act | 1 | 2008-10-11 | 2008-10-11 |
+| Zakon o Državnom inspektoratu | [`zakon/2008/3349/`](zakon/2008/3349/) | repealed, not consolidated | 1 | 2008-10-19 | 2008-10-19 |
+| Zakon o ovlasti Vlade Republike Hrvatske da uredbama uređuje pojedina pitanja iz djelokruga Hrvatskoga sabora | [`zakon/2008/3350/`](zakon/2008/3350/) | repealed, not consolidated | 1 | 2008-10-11 | 2008-10-11 |
+| Zakon o kreditnim institucijama | [`zakon/2008/3371/`](zakon/2008/3371/) | amended, not consolidated | 1 | 2009-01-01 | 2009-01-01 |
+| Zakon o institucijama za elektronički novac | [`zakon/2008/3372/`](zakon/2008/3372/) | repealed, not consolidated | 1 | 2009-01-01 | 2009-01-01 |
+| Zakon o konačnosti namire u platnim sustavima i sustavima za namiru financijskih instrumenata | [`zakon/2008/3373/`](zakon/2008/3373/) | repealed, not consolidated | 1 | 2009-01-01 | 2009-01-01 |
+| Zakon o izmjenama i dopunama Zakona o odvjetništvu | [`zakon/2008/3374/`](zakon/2008/3374/) | amended, not consolidated | 1 | 2008-10-21 | 2008-10-21 |
+| Zakon o izmjenama i dopunama Zakona o zdravstvenoj zaštiti | [`zakon/2008/3375/`](zakon/2008/3375/) | amending act | 1 | 2008-10-21 | 2008-10-21 |
+| Zakon o izmjenama i dopuni Zakona o medicinsko-biokemijskoj djelatnosti | [`zakon/2008/3380/`](zakon/2008/3380/) | amending act | 1 | 2008-10-21 | 2008-10-21 |
+| Zakon o ograničavanju uporabe duhanskih proizvoda | [`zakon/2008/3560/`](zakon/2008/3560/) | repealed, not consolidated | 1 | 2008-11-06 | 2008-11-06 |
+| Zakon o koncesijama | [`zakon/2008/3561/`](zakon/2008/3561/) | repealed, not consolidated | 1 | 2009-01-01 | 2009-01-01 |
+| Zakon o izmjenama i dopunama Zakona o javnoj nabavi | [`zakon/2008/3562/`](zakon/2008/3562/) | amending act | 1 | 2009-01-01 | 2009-01-01 |
+| Zakon o izmjenama i dopunama Zakona o lokalnoj i područnoj (regionalnoj) samoupravi | [`zakon/2008/3563/`](zakon/2008/3563/) | amended, not consolidated | 1 | 2009-05-18 | 2009-05-18 |
+| Zakon o izmjenama i dopunama Zakona o Gradu Zagrebu | [`zakon/2008/3565/`](zakon/2008/3565/) | amended, not consolidated | 1 | 2009-05-18 | 2009-05-18 |
+| Zakon o javno-privatnom partnerstvu | [`zakon/2008/3679/`](zakon/2008/3679/) | repealed, not consolidated | 1 | 2008-11-15 | 2008-11-15 |
+| Zakon o Zakladi "Hrvatska za djecu" | [`zakon/2008/3680/`](zakon/2008/3680/) | repealed, not consolidated | 1 | 2008-11-15 | 2008-11-15 |
+| Zakon o izmjeni i dopunama Zakona o šumama | [`zakon/2008/3681/`](zakon/2008/3681/) | amending act | 1 | 2008-11-15 | 2008-11-15 |
+| Zakon o međunarodnim mjerama ograničavanja | [`zakon/2008/3885/`](zakon/2008/3885/) | repealed, not consolidated | 1 | 2008-12-11 | 2008-12-11 |
+| Zakon o područjima i sjedištima državnih odvjetništava | [`zakon/2008/4016/`](zakon/2008/4016/) | repealed, not consolidated | 1 | 2009-01-01 | 2009-01-01 |
+| Zakon o razvojnoj suradnji i humanitarnoj pomoći inozemstvu | [`zakon/2008/4017/`](zakon/2008/4017/) | repealed, not consolidated | 1 | 2009-01-01 | 2009-01-01 |
+| Zakon o izmjenama i dopunama Zakona o proizvodnji, remontu i prometu naoružanja i vojne opreme | [`zakon/2008/4020/`](zakon/2008/4020/) | amending act | 1 | 2009-01-01 | 2009-01-01 |
+| Zakon o izmjenama i dopunama Zakona o vlasništvu i drugim stvarnim pravima | [`zakon/2008/4021/`](zakon/2008/4021/) | amending act | 1 | 2009-02-01 | 2009-02-01 |
+| Zakon o izmjenama i dopunama Zakona o državnom odvjetništvu | [`zakon/2008/4022/`](zakon/2008/4022/) | amending act | 1 | 2008-12-25 | 2008-12-25 |
+| Zakon o dopuni Zakona o plaćama sudaca i drugih pravosudnih dužnosnika | [`zakon/2008/4023/`](zakon/2008/4023/) | amending act | 1 | 2009-01-01 | 2009-01-01 |
+| Zakon o izmjeni Zakona o carinskoj tarifi | [`zakon/2008/4024/`](zakon/2008/4024/) | in force | 1 | 2008-12-25 | 2008-12-25 |
+| Zakon o izmjenama Zakona o trgovačkim društvima | [`zakon/2008/4026/`](zakon/2008/4026/) | in force | 1 | 2009-01-01 | 2009-01-01 |
+| Zakon o izmjenama i dopunama Zakona o javnim cestama | [`zakon/2008/4027/`](zakon/2008/4027/) | amending act | 1 | 2008-12-25 | 2008-12-25 |
+| Zakon o izvršavanju Državnog proračuna Republike Hrvatske za 2009. godinu | [`zakon/2008/4096/`](zakon/2008/4096/) | amended, not consolidated | 1 | 2009-01-01 | 2009-01-01 |
+| Zakon o zdravstvenoj zaštiti | [`zakon/2008/4097/`](zakon/2008/4097/) | repealed, not consolidated | 1 | 2009-01-01 | 2009-01-01 |
+| Zakon o obveznom zdravstvenom osiguranju | [`zakon/2008/4098/`](zakon/2008/4098/) | repealed, not consolidated | 1 | 2009-01-01 | 2009-01-01 |
+| Zakon o izmjenama i dopunama Zakona o dobrovoljnom zdravstvenom osiguranju | [`zakon/2008/4099/`](zakon/2008/4099/) | amending act | 1 | 2009-01-01 | 2009-01-01 |
+| Zakon o turističkim zajednicama i promicanju hrvatskog turizma | [`zakon/2008/4142/`](zakon/2008/4142/) | repealed, not consolidated | 1 | 2009-01-01 | 2009-01-01 |
+| Zakon o članarinama u turističkim zajednicama | [`zakon/2008/4143/`](zakon/2008/4143/) | amended, not consolidated | 1 | 2009-01-01 | 2009-01-01 |
+| Zakon o boravišnoj pristojbi | [`zakon/2008/4144/`](zakon/2008/4144/) | repealed, not consolidated | 1 | 2009-01-01 | 2009-01-01 |
+| Zakon o poljoprivrednom zemljištu | [`zakon/2008/4145/`](zakon/2008/4145/) | amended, not consolidated | 1 | 2009-01-01 | 2009-01-01 |
+| Zakon o igralištima za golf | [`zakon/2008/4146/`](zakon/2008/4146/) | repealed, not consolidated | 1 | 2009-01-01 | 2009-01-01 |
+| Zakon o obavljanju geodetske djelatnosti | [`zakon/2008/4147/`](zakon/2008/4147/) | repealed, not consolidated | 1 | 2009-01-01 | 2009-01-01 |
+| Zakon o arhitektonskim i inženjerskim poslovima i djelatnostima u prostornom uređenju i gradnji | [`zakon/2008/4148/`](zakon/2008/4148/) | repealed, not consolidated | 1 | 2009-01-01 | 2009-01-01 |
+| Zakon o izmjenama i dopunama Kaznenog zakona | [`zakon/2008/4150/`](zakon/2008/4150/) | amended, not consolidated | 1 | 2009-01-01 | 2009-01-01 |
+| Zakon o izmjenama i dopunama Zakona o državnoj potpori za obrazovanje i izobrazbu | [`zakon/2008/4152/`](zakon/2008/4152/) | amending act | 1 | 2009-01-01 | 2009-01-01 |
+| Zakon o izmjenama i dopunama Zakona o udžbenicima za osnovnu i srednju školu | [`zakon/2008/4153/`](zakon/2008/4153/) | amending act | 1 | 2008-12-24 | 2008-12-24 |
+| Zakon o izmjenama i dopunama Zakona o humanitarnom razminiranju | [`zakon/2008/4154/`](zakon/2008/4154/) | amending act | 1 | 2009-01-01 | 2009-01-01 |
+| Zakon o izmjeni i dopuni Zakona posebnim pravima iz mirovinskog osiguranja zaposlenika na poslovima razminiranja | [`zakon/2008/4155/`](zakon/2008/4155/) | amending act | 1 | 2009-01-01 | 2009-01-01 |
+| Zakon o izmjenama i dopunama Zakona o zemljišnim knjigama | [`zakon/2008/4156/`](zakon/2008/4156/) | amended, not consolidated | 1 | 2009-01-01 | 2009-01-01 |
+| Zakon o izmjenama i dopunama Zakona o doprinosima | [`zakon/2008/4157/`](zakon/2008/4157/) | amending act | 1 | 2009-01-01 | 2009-01-01 |
+| Zakon o izmjenama i dopunama Zakona o posebnom porezu na duhanske proizvode | [`zakon/2008/4158/`](zakon/2008/4158/) | amending act | 1 | 2009-01-01 | 2009-01-01 |
+| Zakon o učinkovitom korištenju energije u neposrednoj potrošnji | [`zakon/2008/4159/`](zakon/2008/4159/) | repealed, not consolidated | 1 | 2009-01-01 | 2009-01-01 |
+| Zakon o izmjenama i dopunama Zakona o tržištu električne energije | [`zakon/2008/4161/`](zakon/2008/4161/) | amending act | 1 | 2009-01-01 | 2009-01-01 |
+| Zakon o izmjenama i dopunama Zakona o energiji | [`zakon/2008/4162/`](zakon/2008/4162/) | amending act | 1 | 2009-01-01 | 2009-01-01 |
+| Zakon o osnivanju Hrvatskog centra za poljoprivredu, hranu i selo | [`zakon/2009/536/`](zakon/2009/536/) | repealed, not consolidated | 1 | 2009-03-05 | 2009-03-05 |
+| Zakon o izmjenama Zakona o proglašenju zapadnog dijela Medvednice parkom prirode | [`zakon/2009/537/`](zakon/2009/537/) | in force | 1 | 2009-03-05 | 2009-03-05 |
+| Zakon o izmjenama i dopunama Zakona o kreditnim unijama | [`zakon/2009/538/`](zakon/2009/538/) | amending act | 1 | 2009-03-05 | 2009-03-05 |
+| Zakon o općoj sigurnosti proizvoda | [`zakon/2009/649/`](zakon/2009/649/) | repealed, not consolidated | 1 | 2009-03-17 | 2009-03-17 |
+| Zakon o Hrvatskoj poljoprivrednoj komori | [`zakon/2009/650/`](zakon/2009/650/) | repealed, not consolidated | 1 | 2009-03-17 | 2009-03-17 |
+| Zakon o izmjenama i dopunama Zakona o žigu | [`zakon/2009/653/`](zakon/2009/653/) | amending act | 1 | 2009-03-17 | 2009-03-17 |
+| Zakon o izmjenama i dopunama Zakona o patentu | [`zakon/2009/654/`](zakon/2009/654/) | amending act | 1 | 2009-03-17 | 2009-03-17 |
+| Zakon o izmjenama i dopunama Zakona o industrijskom dizajnu | [`zakon/2009/655/`](zakon/2009/655/) | amending act | 1 | 2009-03-17 | 2009-03-17 |
+| Zakon o izmjenama Zakona o zaštiti topografija poluvodičkih proizvoda | [`zakon/2009/656/`](zakon/2009/656/) | in force | 1 | 2009-03-17 | 2009-03-17 |
+| Zakon o izmjenama i dopunama Zakona o upravnim pristojbama u području prava intelektualnog vlasništva | [`zakon/2009/657/`](zakon/2009/657/) | amending act | 1 | 2009-03-17 | 2009-03-17 |
+| Zakon o izmjeni Zakona o izmjenama i dopunama Zakona o lokalnoj i područjoj (regionalnoj) samoupravi ("Narodne novine", br. 109/07.) | [`zakon/2009/792/`](zakon/2009/792/) | amending act | 1 | 2009-03-23 | 2009-03-23 |
+| Zakon o izmjeni Zakona o izmjenama i dopunama Zakona o lokalnoj i područjoj (regionalnoj) samoupravi ("Narodne novine", br. 125/08.) | [`zakon/2009/793/`](zakon/2009/793/) | amending act | 1 | 2009-03-23 | 2009-03-23 |
+| Zakon o izmjeni Zakona o izmjenama i dopunama Zakona o Gradu Zagrebu ("Narodne novine", br. 125/08.) | [`zakon/2009/794/`](zakon/2009/794/) | amending act | 1 | 2009-03-23 | 2009-03-23 |
+| Zakon o izmjenama i dopunama Zakona o preuzimanju dioničih društava | [`zakon/2009/795/`](zakon/2009/795/) | amending act | 1 | 2009-03-31 | 2009-03-31 |
+| Zakon o izmjenama i dopunama Zakona o obveznim osiguranjima u prometu | [`zakon/2009/797/`](zakon/2009/797/) | amending act | 1 | 2009-03-31 | 2009-03-31 |
+| Zakon o izmjeni Zakona o posebnom porezu na duhanske proizvode | [`zakon/2009/849/`](zakon/2009/849/) | in force | 1 | 2009-04-04 | 2009-04-04 |
+| Zakon o izmjeni Zakona o obvezama i pravima državnih dužnosnika | [`zakon/2009/850/`](zakon/2009/850/) | in force | 1 | 2009-03-27 | 2009-03-27 |
+| Zakon o izmjeni Zakona o plaćama sudaca i drugih pravosudnih dužnosnika | [`zakon/2009/873/`](zakon/2009/873/) | in force | 1 | 2009-03-31 | 2009-03-31 |
+| Zakon o izmjenama i dopunama Zakona o sprječavanju nereda na športskim natjecanjima | [`zakon/2009/986/`](zakon/2009/986/) | amending act | 1 | 2009-04-16 | 2009-04-16 |
+| Zakon o izmjenama i dopunama Zakona o izvršavanju Državnog proračuna Republike Hrvatske za 2009. godinu | [`zakon/2009/1029/`](zakon/2009/1029/) | amending act | 1 | 2009-04-09 | 2009-04-09 |
+| Zakon o osiguravanju kvalitete u znanosti i visokom obrazovanju | [`zakon/2009/1031/`](zakon/2009/1031/) | repealed, not consolidated | 1 | 2009-04-18 | 2009-04-18 |
+| Zakon o izmjenama i dopunama Zakona o Nacionalnoj zakladi za znanost, visoko školstvo i tehnologijski razvoj Republike Hrvatske | [`zakon/2009/1032/`](zakon/2009/1032/) | amending act | 1 | 2009-04-18 | 2009-04-18 |
+| Zakon o izmjeni Carinskog zakona | [`zakon/2009/1033/`](zakon/2009/1033/) | in force | 1 | 2009-04-18 | 2009-04-18 |
+| Zakon o izmjenama i dopunama Zakona o uzimanju i presađivanju dijelova ljudskog tijela u svrhu liječenja | [`zakon/2009/1034/`](zakon/2009/1034/) | amending act | 1 | 2009-04-18 | 2009-04-18 |
+| Zakon o izmjenama i dopunama Zakona o lijekovima | [`zakon/2009/1035/`](zakon/2009/1035/) | amending act | 1 | 2009-04-18 | 2009-04-18 |
+| Zakon o stavljanju izvan snage Zakona o preuzimanju Zakona o rješavanju sukoba zakona i sukoba nadležnosti u izvršenju kaznenih sankcija | [`zakon/2009/1455/`](zakon/2009/1455/) | in force | 1 | 2009-06-13 | 2009-06-13 |
+| Zakon o izmjeni Zakona o pravima hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji | [`zakon/2009/1456/`](zakon/2009/1456/) | amended, not consolidated | 1 | 2009-06-13 | 2009-06-13 |
+| Zakon o izmjenama i dopunama Zakona o muzejima | [`zakon/2009/1458/`](zakon/2009/1458/) | amending act | 1 | 2009-06-13 | 2009-06-13 |
+| Zakon o izmjenama i dopunama Zakona o arhivskom gradivu i arhivima | [`zakon/2009/1459/`](zakon/2009/1459/) | amending act | 1 | 2009-06-13 | 2009-06-13 |
+| Zakon o izmjenama i dopunama Zakona o elektroničkim medijima | [`zakon/2009/1460/`](zakon/2009/1460/) | amended, not consolidated | 1 | 2009-06-13 | 2009-06-13 |
+| Zakon o izmjenama i dopunama Zakona o knjižnicama | [`zakon/2009/1665/`](zakon/2009/1665/) | amending act | 1 | 2009-06-25 | 2009-06-25 |
+| Zakon o izmjenama i dopunama Zakona o putnim ispravama hrvatskih državljana | [`zakon/2009/1765/`](zakon/2009/1765/) | amending act | 1 | 2009-06-29 | 2009-06-29 |
+| Zakon o izmjeni Zakona o institucijama za elektronički novac | [`zakon/2009/1766/`](zakon/2009/1766/) | in force | 1 | 2009-06-29 | 2009-06-29 |
+| Zakon o izmjenama Zakona o kreditnim institucijama | [`zakon/2009/1767/`](zakon/2009/1767/) | in force | 1 | 2009-06-29 | 2009-06-29 |
+| Zakon o izmjenama i dopunama Zakona o tržištu kapitala | [`zakon/2009/1768/`](zakon/2009/1768/) | amending act | 1 | 2009-06-29 | 2009-06-29 |
+| Zakon o rudarstvu | [`zakon/2009/1782/`](zakon/2009/1782/) | repealed, not consolidated | 1 | 2009-07-30 | 2009-07-30 |
+| Zakon o potrošačkom kreditiranju | [`zakon/2009/1783/`](zakon/2009/1783/) | repealed, not consolidated | 1 | 2010-01-01 | 2010-01-01 |
+| Zakon o izmjeni i dopuni Zakona o odvjetništvu | [`zakon/2009/1786/`](zakon/2009/1786/) | amending act | 1 | 2009-07-08 | 2009-07-08 |
+| Zakon o izmjenama i dopuni Zakona o javnom bilježništvu | [`zakon/2009/1787/`](zakon/2009/1787/) | amending act | 1 | 2009-07-08 | 2009-07-08 |
+| Zakon o izmjenama i dopunama Zakona o vježbenicima u pravosudnim tijelima i pravosudnom ispitu | [`zakon/2009/1788/`](zakon/2009/1788/) | amending act | 1 | 2009-07-08 | 2009-07-08 |
+| Zakon o izmjenama i dopunama Zakona o zaštiti na radu | [`zakon/2009/1789/`](zakon/2009/1789/) | amended, not consolidated | 1 | 2009-07-08 | 2009-07-08 |
+| ZAKON O IZMJENAMA I DOPUNAMA ZAKONA O AKREDITACIJI | [`zakon/2009/1790/`](zakon/2009/1790/) | amending act | 1 | 2009-07-08 | 2009-07-08 |
+| Zakon o izmjenama i dopunama Zakona o oznakama izvornosti, oznakama zemljopisnog podrijetla i oznakama tradicionalnog ugleda poljoprivrednih i prehrambenih proizvoda | [`zakon/2009/1791/`](zakon/2009/1791/) | amending act | 1 | 2009-07-08 | 2009-07-08 |
+| Zakon o izmjenama i dopunama Zakona o lovstvu | [`zakon/2009/1792/`](zakon/2009/1792/) | amending act | 1 | 2009-07-08 | 2009-07-08 |
+| Zakon o dopuni Zakona o obveznim osiguranjima u prometu | [`zakon/2009/1793/`](zakon/2009/1793/) | amending act | 1 | 2009-07-08 | 2009-07-08 |
+| Zakon o izmjenama Zakona o predmetima opće uporabe | [`zakon/2009/1794/`](zakon/2009/1794/) | in force | 1 | 2009-07-08 | 2009-07-08 |
+| Zakon o izmjenama i dopunama Zakona o službenoj statistici | [`zakon/2009/1795/`](zakon/2009/1795/) | amended, not consolidated | 1 | 2009-07-08 | 2009-07-08 |
+| Zakon o izmjenama i dopunama Zakona o željeznici | [`zakon/2009/1796/`](zakon/2009/1796/) | amending act | 1 | 2009-07-08 | 2009-07-08 |
+| Zakon o izmjenama i dopunama Zakona o Agenciji na regulaciji tržišta željezničkih usluga | [`zakon/2009/1797/`](zakon/2009/1797/) | amending act | 1 | 2009-07-08 | 2009-07-08 |
+| Zakon o državnom odvjetništvu | [`zakon/2009/1833/`](zakon/2009/1833/) | repealed, not consolidated | 1 | 2009-07-01 | 2009-07-01 |
+| Zakon o izmjenama i dopunama Zakona o kaznenom postupku | [`zakon/2009/1836/`](zakon/2009/1836/) | amending act | 1 | 2009-07-01 | 2009-07-01 |
+| Zakon o izmjenama Zakona o Vladi Republike Hrvatske | [`zakon/2009/1858/`](zakon/2009/1858/) | in force | 1 | 2009-07-02 | 2009-07-02 |
+| Zakon o izmjenama i dopunama Zakona o ustrojstvu i djelokrugu središnjih tijela državne uprave | [`zakon/2009/1859/`](zakon/2009/1859/) | amending act | 1 | 2009-07-02 | 2009-07-02 |
+| Zakon o izmjenama i dopunama Zakona o komunalnom gospodarstvu | [`zakon/2009/1880/`](zakon/2009/1880/) | amending act | 1 | 2009-07-16 | 2009-07-16 |
+| Zakon o izmjenama i dopunama Zakona o mirenju | [`zakon/2009/1881/`](zakon/2009/1881/) | amending act | 1 | 2009-07-16 | 2009-07-16 |
+| Zakon o državnoj potpori poljoprivredi i ruralnom razvoju | [`zakon/2009/2019/`](zakon/2009/2019/) | amended, not consolidated | 1 | 2009-07-23 | 2009-07-23 |
+| Zakon o trošarinama | [`zakon/2009/2020/`](zakon/2009/2020/) | repealed, not consolidated | 1 | 2010-01-01 | 2010-01-01 |
+| Zakon o carinskoj službi | [`zakon/2009/2021/`](zakon/2009/2021/) | repealed, not consolidated | 1 | 2009-07-23 | 2009-07-23 |
+| Zakon o izmjenama i dopunama Zakona o posebnim uvjetima za stavljanje brašna na tržište | [`zakon/2009/2022/`](zakon/2009/2022/) | amending act | 1 | 2009-07-23 | 2009-07-23 |
+| Zakon o izmjenama i dopunama Zakona o tržištu plina | [`zakon/2009/2023/`](zakon/2009/2023/) | amending act | 1 | 2009-07-23 | 2009-07-23 |
+| Zakon o izmjenama i dopunama Zakona o izvršavanju kazne zatvora | [`zakon/2009/2024/`](zakon/2009/2024/) | amending act | 1 | 2009-07-23 | 2009-07-23 |
+| Zakon o izmjenama Zakona o izvršavanju Državnog proračuna Republike Hrvatske za 2009. godinu | [`zakon/2009/2122/`](zakon/2009/2122/) | in force | 1 | 2009-07-18 | 2009-07-18 |
+| Zakon o izmjenama i dopuni Zakona o odgoju i obrazovanju u osnovnoj i srednjoj školi | [`zakon/2009/2125/`](zakon/2009/2125/) | amended, not consolidated | 1 | 2009-09-01 | 2009-09-01 |
+| Zakon o izmjenama Zakona o udžbenicima za osnovnu i srednju školu | [`zakon/2009/2126/`](zakon/2009/2126/) | in force | 1 | 2009-07-18 | 2009-07-18 |
+| Zakon o izmjenama i dopunama Zakona o porezu na dodanu vrijednost | [`zakon/2009/2129/`](zakon/2009/2129/) | amending act | 1 | 2010-01-01 | 2010-01-01 |
+| Zakon o izmjenama i dopunama Zakona o zaštiti i očuvanju kulturnih dobara | [`zakon/2009/2130/`](zakon/2009/2130/) | amending act | 1 | 2009-07-29 | 2009-07-29 |
+| Zakon o izmjenama i dopunama Zakona o otpadu | [`zakon/2009/2131/`](zakon/2009/2131/) | amending act | 1 | 2009-07-29 | 2009-07-29 |
+| Zakon o poštanskim uslugama | [`zakon/2009/2149/`](zakon/2009/2149/) | repealed, not consolidated | 1 | 2009-07-30 | 2009-07-30 |
+| Zakon o medicinskoj oplodnji | [`zakon/2009/2150/`](zakon/2009/2150/) | repealed, not consolidated | 1 | 2009-07-30 | 2009-07-30 |
+| Zakon o izmjenama i dopunama Zakona o službi u Oružanim snagama Republike Hrvatske | [`zakon/2009/2151/`](zakon/2009/2151/) | amending act | 1 | 2009-07-30 | 2009-07-30 |
+| Zakon o naknadi za pružanje usluga u pokretnim elektroničkim komunikacijskim mrežama | [`zakon/2009/2359/`](zakon/2009/2359/) | repealed, not consolidated | 1 | 2009-08-01 | 2009-08-01 |
+| Zakon o izmjeni Zakona o porezu na dodanu vrijednost | [`zakon/2009/2360/`](zakon/2009/2360/) | in force | 1 | 2009-08-01 | 2009-08-01 |
+| Zakon o izmjeni Zakona o doprinosima | [`zakon/2009/2363/`](zakon/2009/2363/) | in force | 1 | 2009-08-01 | 2009-08-01 |
+| Zakon o izmjenama i dopunama Zakona o obveznom zdravstvenom osiguranju | [`zakon/2009/2364/`](zakon/2009/2364/) | amending act | 1 | 2009-08-01 | 2009-08-01 |
+| Zakon o izmjenama Zakona o izvršavanju Državnog proračuna Republike Hrvatske za 2009. godinu | [`zakon/2009/2369/`](zakon/2009/2369/) | in force | 1 | 2009-08-03 | 2009-08-03 |
+| Zakon o izmjenama i dopunama Zakona o ograničavanju uporabe duhanskih proizvoda | [`zakon/2009/2932/`](zakon/2009/2932/) | amending act | 1 | 2009-10-09 | 2009-10-09 |
+| Zakon o izmjenama i dopunama Zakona o stomatološkoj djelatnosti | [`zakon/2009/2958/`](zakon/2009/2958/) | amending act | 1 | 2009-10-13 | 2009-10-13 |
+| Zakon o ovlasti Vlade Republike Hrvatske da uredbama uređuje pojedina pitanja iz djelokruga Hrvatskoga sabora | [`zakon/2009/2978/`](zakon/2009/2978/) | repealed, not consolidated | 1 | 2009-10-07 | 2009-10-07 |
+| Zakon o reguliranim profesijama i priznavanju inozemnih stručnih kvalifikacija | [`zakon/2009/3045/`](zakon/2009/3045/) | repealed, not consolidated | 1 | 2009-10-24 | 2009-10-24 |
+| Zakon o sigurnosnoj zaštiti pomorskih brodova i luka | [`zakon/2009/3046/`](zakon/2009/3046/) | repealed, not consolidated | 1 | 2009-10-24 | 2009-10-24 |
+| Zakon o kombiniranom prometu | [`zakon/2009/3047/`](zakon/2009/3047/) | repealed, not consolidated | 1 | 2010-01-01 | 2010-01-01 |
+| Zakon o izmjenama Zakona o javnim cestama | [`zakon/2009/3048/`](zakon/2009/3048/) | in force | 1 | 2009-10-24 | 2009-10-24 |
+| Zakon o izmjenama Zakona o prijevozu u cestovnom prometu | [`zakon/2009/3049/`](zakon/2009/3049/) | amended, not consolidated | 1 | 2009-10-24 | 2009-10-24 |
+| Zakon o izmjenama Zakona o osnovici plaće u javnim službama | [`zakon/2009/3050/`](zakon/2009/3050/) | in force | 1 | 2009-10-24 | 2009-10-24 |
+| Zakon o izmjenama i dopuni Zakona o službi u Oružanim snagama Republike Hrvatske | [`zakon/2009/3051/`](zakon/2009/3051/) | amending act | 1 | 2009-10-24 | 2009-10-24 |
+| Zakon o platnom prometu | [`zakon/2009/3247/`](zakon/2009/3247/) | repealed, not consolidated | 1 | 2011-01-01 | 2011-01-01 |
+| Zakon o izmjenama i dopunama Zakona o obveznim i stvarnopravnim odnosima u zračnom prometu | [`zakon/2009/3255/`](zakon/2009/3255/) | amending act | 1 | 2009-11-17 | 2009-11-17 |
+| Zakon o područjima i sjedištima prekršajnih sudova | [`zakon/2009/3313/`](zakon/2009/3313/) | repealed, not consolidated | 1 | 2010-01-01 | 2010-01-01 |
+| Zakon o zaštiti od nasilja u obitelji | [`zakon/2009/3314/`](zakon/2009/3314/) | repealed, not consolidated | 1 | 2009-11-21 | 2009-11-21 |
+| Zakon o izmjenama i dopuni Zakona o pravima hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji | [`zakon/2009/3315/`](zakon/2009/3315/) | amended, not consolidated | 1 | 2009-11-21 | 2009-11-21 |
+| Zakon o izmjenama i dopunama Zakona o medicinskoj oplodnji | [`zakon/2009/3316/`](zakon/2009/3316/) | amending act | 1 | 2009-11-21 | 2009-11-21 |
+| Zakon o izmjenama i dopunama Zakona o genetski modificiranim organizmima | [`zakon/2009/3318/`](zakon/2009/3318/) | amending act | 1 | 2009-11-21 | 2009-11-21 |
+| Zakon o radu | [`zakon/2009/3635/`](zakon/2009/3635/) | amended, not consolidated | 1 | 2010-01-01 | 2010-01-01 |
+| Zakon o poljoprivredi | [`zakon/2009/3636/`](zakon/2009/3636/) | repealed, not consolidated | 1 | 2009-12-23 | 2009-12-23 |
+| Zakon o izmjenama Zakona o "Nagradi Ivan Filipović" | [`zakon/2009/3638/`](zakon/2009/3638/) | in force | 1 | 2009-12-23 | 2009-12-23 |
+| Zakon o dopunama Zakona o uvjetima za stjecanje prava na starosnu mirovinu radnika profesionalno izloženih azbestu | [`zakon/2009/3639/`](zakon/2009/3639/) | amending act | 1 | 2010-01-01 | 2010-01-01 |
+| Zakon o izmjenama i dopuni Zakona o suzbijanju zlouporabe opojnih droga | [`zakon/2009/3640/`](zakon/2009/3640/) | amending act | 1 | 2009-12-23 | 2009-12-23 |
+| Zakon o izvršavanju Državnog proračuna Republike Hrvatske za 2010. godinu | [`zakon/2009/3696/`](zakon/2009/3696/) | amended, not consolidated | 1 | 2010-01-01 | 2010-01-01 |
+| Zakon o elektroničkim medijima | [`zakon/2009/3740/`](zakon/2009/3740/) | repealed, not consolidated | 1 | 2009-12-29 | 2009-12-29 |
+| Zakon o probaciji | [`zakon/2009/3741/`](zakon/2009/3741/) | replaced, not consolidated | 1 | 2009-12-29 | 2009-12-29 |
+| Zakon o izvršavanju sankcija izrečenih maloljetnicima za kaznena djela i prekršaje | [`zakon/2009/3742/`](zakon/2009/3742/) | repealed, not consolidated | 1 | 2009-12-29 | 2009-12-29 |
+| Zakon o Pravosudnoj akademiji | [`zakon/2009/3743/`](zakon/2009/3743/) | repealed, not consolidated | 1 | 2010-01-01 | 2010-01-01 |
+| Zakon o vodama | [`zakon/2009/3744/`](zakon/2009/3744/) | repealed, not consolidated | 1 | 2010-01-01 | 2010-01-01 |
+| Zakon o regionalnom razvoju Republike Hrvatske | [`zakon/2009/3746/`](zakon/2009/3746/) | repealed, not consolidated | 1 | 2009-12-29 | 2009-12-29 |
+| Zakon o izmjenama i dopunama Zakona o Državnom sudbenom vijeću | [`zakon/2009/3749/`](zakon/2009/3749/) | amending act | 1 | 2009-12-29 | 2009-12-29 |
+| Zakon o izmjenama i dopunama Zakona o državnom odvjetništvu | [`zakon/2009/3750/`](zakon/2009/3750/) | amending act | 1 | 2009-12-29 | 2009-12-29 |
+| Zakon o izmjeni i dopuni Zakona o vlasništvu i drugim stvarnim pravima | [`zakon/2009/3751/`](zakon/2009/3751/) | amending act | 1 | 2009-12-29 | 2009-12-29 |
+| Zakon o izmjenama i dopunama Zakona o državnoj potpori poljoprivredi ruralnom razvoju | [`zakon/2009/3752/`](zakon/2009/3752/) | amending act | 1 | 2009-12-29 | 2009-12-29 |
+| Zakon o izmjenama i dopunama Zakona o osiguranju depozita | [`zakon/2009/3753/`](zakon/2009/3753/) | amending act | 1 | 2010-01-01 | 2010-01-01 |
+| Zakon o izmjenama i dopunama Zakona o kreditnim institucijama | [`zakon/2009/3754/`](zakon/2009/3754/) | amending act | 1 | 2010-01-01 | 2010-01-01 |
+| Zakon o izmjenama i dopunama Zakona o javnim cestama | [`zakon/2009/3755/`](zakon/2009/3755/) | amending act | 1 | 2009-12-29 | 2009-12-29 |
+| Zakon o izmjenama i dopunama Zakona o obveznom zdravstvenom osiguranju | [`zakon/2009/3756/`](zakon/2009/3756/) | amending act | 1 | 2009-12-29 | 2009-12-29 |
+| Zakon o izmjenama Zakona o obrani | [`zakon/2009/3757/`](zakon/2009/3757/) | in force | 1 | 2009-12-29 | 2009-12-29 |
+| Zakon o morskom ribarstvu | [`zakon/2010/1341/`](zakon/2010/1341/) | amended, not consolidated | 1 | 2010-05-15 | 2010-05-15 |
+| Zakon o izmjenama Zakona o posebnom porezu na plaće, mirovine i druge primitke | [`zakon/2010/1342/`](zakon/2010/1342/) | in force | 1 | 2010-07-01 | 2010-07-01 |
+| Zakon o izmjenama Zakona o posebnom porezu na primitke od samostalne djelatnosti i ostale primitke | [`zakon/2010/1343/`](zakon/2010/1343/) | in force | 1 | 2010-09-01 | 2010-09-01 |
+| Zakon o izmjeni i dopunama Carinskog zakona | [`zakon/2010/1344/`](zakon/2010/1344/) | amending act | 1 | 2010-05-15 | 2010-05-15 |
+| Zakon o izmjenama i dopunama Zakona o zapaljivim tekućinama i plinovima | [`zakon/2010/1345/`](zakon/2010/1345/) | amending act | 1 | 2010-05-15 | 2010-05-15 |
+| Zakon o izmjenama i dopunama Zakona o biocidnim pripravcima | [`zakon/2010/1346/`](zakon/2010/1346/) | amending act | 1 | 2010-05-14 | 2010-05-14 |
+| Zakon o izmjenama i dopunama Zakona o državnoj potpori poljoprivredi i ruralnom razvoju | [`zakon/2010/1937/`](zakon/2010/1937/) | amending act | 1 | 2010-05-21 | 2010-05-21 |
+| Zakon o smanjenju mirovina određenih, odnosno ostvarenih prema posebnim propisima o mirovinskom osiguranju | [`zakon/2010/2137/`](zakon/2010/2137/) | amended, not consolidated | 1 | 2010-07-01 | 2010-07-01 |
+| Zakon o izmjenama i dopunama Zakona o obveznom zdravstveno osiguranju | [`zakon/2010/2139/`](zakon/2010/2139/) | amending act | 1 | 2010-07-01 | 2010-07-01 |
+| Zakon o izmjenama i dopunama Zakona o dobrovoljnom zdravstvenom osiguranju | [`zakon/2010/2140/`](zakon/2010/2140/) | amending act | 1 | 2010-06-18 | 2010-06-18 |
+| Zakon o izmjenama i dopuni Zakona o javnim cestama | [`zakon/2010/2173/`](zakon/2010/2173/) | amending act | 1 | 2010-06-22 | 2010-06-22 |
+| Zakon o izmjenama i dopunama Zakona o porezu na dohodak | [`zakon/2010/2276/`](zakon/2010/2276/) | amending act | 1 | 2010-07-01 | 2010-07-01 |
+| Zakon o izmjenama i dopunama Zakona o porezu na dobit | [`zakon/2010/2277/`](zakon/2010/2277/) | amended, not consolidated | 1 | 2010-07-01 | 2010-07-01 |
+| Zakon o izmjenama i dopunama Zakona o igralištima za golf | [`zakon/2010/2278/`](zakon/2010/2278/) | amending act | 1 | 2010-07-06 | 2010-07-06 |
+| Zakon o izmjenama i dopunama Zakona o vatrogastvu | [`zakon/2010/2279/`](zakon/2010/2279/) | amending act | 1 | 2010-07-06 | 2010-07-06 |
+| Zakon o izmjeni Zakona o šumama | [`zakon/2010/2280/`](zakon/2010/2280/) | in force | 1 | 2010-07-01 | 2010-07-01 |
+| Zakon o izmjenama i dopunama Zakona o azilu | [`zakon/2010/2462/`](zakon/2010/2462/) | amending act | 1 | 2010-07-22 | 2010-07-22 |
+| Zakon o izmjenama Zakona o potpori za očuvanje radnih mjesta | [`zakon/2010/2463/`](zakon/2010/2463/) | in force | 1 | 2010-07-14 | 2010-07-14 |
+| Zakon o izmjenama i dopunama Zakona o članarinama u turističkim zajednicama | [`zakon/2010/2465/`](zakon/2010/2465/) | amending act | 1 | 2011-01-01 | 2011-01-01 |
+| Zakon o izmjenama i dopunama Zakona o pružanju usluga u turizmu | [`zakon/2010/2466/`](zakon/2010/2466/) | amending act | 1 | 2010-07-22 | 2010-07-22 |
+| Zakon o izmjenama i dopunama Zakona o ugostiteljskoj djelatnosti | [`zakon/2010/2467/`](zakon/2010/2467/) | amending act | 1 | 2010-07-22 | 2010-07-22 |
+| Zakon o izmjenama i dopunama Zakona o sanitarnoj inspekciji | [`zakon/2010/2468/`](zakon/2010/2468/) | amending act | 1 | 2010-07-22 | 2010-07-22 |
+| Zakon o provedbi ovrhe na novčanim sredstvima | [`zakon/2010/2570/`](zakon/2010/2570/) | repealed, not consolidated | 1 | 2010-07-31 | 2010-07-31 |
+| Zakon o izmjenama i dopunama Zakona o pravima i dužnostima zastupnika u Hrvatskom saboru | [`zakon/2010/2573/`](zakon/2010/2573/) | amending act | 1 | 2010-07-31 | 2010-07-31 |
+| Zakon o izmjenama i dopunama Zakona o postupku primopredaje vlasti | [`zakon/2010/2574/`](zakon/2010/2574/) | amending act | 1 | 2010-07-31 | 2010-07-31 |
+| Zakon o izmjenama i dopunama Zakona o prijevozu u cestovnom prometu | [`zakon/2010/2575/`](zakon/2010/2575/) | amended, not consolidated | 1 | 2010-07-31 | 2010-07-31 |
+| Zakon o državnoj potpori poljoprivredi i ruralnom razvoju | [`zakon/2010/2590/`](zakon/2010/2590/) | amended, not consolidated | 1 | 2011-01-01 | 2011-01-01 |
+| Zakon o izmjenama i dopunama Zakona o odgoju i obrazovanju u osnovnoj i srednjoj školi | [`zakon/2010/2593/`](zakon/2010/2593/) | amended, not consolidated | 1 | 2010-07-24 | 2010-07-24 |
+| Zakon o izmjenama i dopunama Zakona o Nacionalnoj zakladi za znanosti, visoko školstvo i tehnologijski razvoj Republike Hrvatske | [`zakon/2010/2594/`](zakon/2010/2594/) | amending act | 1 | 2010-08-01 | 2010-08-01 |
+| Zakon o izmjenama i dopunama Zakona o sprječavanju sukoba interesa u obnašanju javnih dužnosti | [`zakon/2010/2595/`](zakon/2010/2595/) | amending act | 1 | 2010-08-01 | 2010-08-01 |
+| Zakon o izmjeni Zakona o mjenici | [`zakon/2010/2596/`](zakon/2010/2596/) | in force | 1 | 2010-08-01 | 2010-08-01 |
+| Zakon o izmjenama i dopunama Zakona o izvršavanju Državnog proračuna Republike Hrvatske za 2010. godinu | [`zakon/2010/2804/`](zakon/2010/2804/) | amending act | 1 | 2010-08-31 | 2010-08-31 |
+| Zakon o ovlasti Vlade Republike Hrvatske da uredbama uređuje pojedina pitanja iz djelokruga Hrvatskoga sabora | [`zakon/2010/3018/`](zakon/2010/3018/) | repealed, not consolidated | 1 | 2010-10-07 | 2010-10-07 |
+| Zakon o Državnom sudbenom vijeću | [`zakon/2010/3051/`](zakon/2010/3051/) | amended, not consolidated | 1 | 2010-10-21 | 2010-10-21 |
+| Zakon o izmjenama i dopunama Zakona o sudovima | [`zakon/2010/3052/`](zakon/2010/3052/) | amending act | 1 | 2010-10-21 | 2010-10-21 |
+| Zakon o izmjenama i dopunama Zakona o državnom odvjetništvu | [`zakon/2010/3053/`](zakon/2010/3053/) | amending act | 1 | 2010-10-21 | 2010-10-21 |
+| Zakon o izmjeni i dopuni Zakona o Uredu za suzbijanje korupcije i organiziranog kriminaliteta | [`zakon/2010/3054/`](zakon/2010/3054/) | amending act | 1 | 2010-10-21 | 2010-10-21 |
+| Zakon o dopunama Stečajnog zakona | [`zakon/2010/3055/`](zakon/2010/3055/) | amending act | 1 | 2010-10-21 | 2010-10-21 |
 | Zakon o dopuni Zakona o tržištu električne energije | [`zakon/2011/263/`](zakon/2011/263/) | amending act | 1 | 2011-02-01 | 2011-02-01 |
 | Zakon o dopunama Zakona o plaćama sudaca i drugih pravosudnih dužnosnika | [`zakon/2011/264/`](zakon/2011/264/) | amending act | 1 | 2011-02-01 | 2011-02-01 |
 | Zakon o izmjenama dopunama Zakona o zračnim lukama | [`zakon/2011/265/`](zakon/2011/265/) | amending act | 1 | 2011-02-01 | 2011-02-01 |
