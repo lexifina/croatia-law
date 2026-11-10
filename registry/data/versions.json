@@ -5477,6 +5477,1431 @@
    ]
   },
   {
+   "slug": "pravilnik-2005-10",
+   "path": "pravilnik/2005/10",
+   "short": "Pravilnik o tehničkim zahtjevima i postupcima ocjene sukladnosti za neautomatske vage",
+   "title": "Pravilnik o tehničkim zahtjevima i postupcima ocjene sukladnosti za neautomatske vage",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/1/10",
+   "versions": [
+    {
+     "from": "2005-01-11",
+     "units": 21,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_01_1_10.html",
+     "sha256": "9bf9a168a9ac7e7b7684cc7f8ebb2e242def49af24b23b98dff83a7dc1613741"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2005-1000",
+   "path": "pravilnik/2005/1000",
+   "short": "Pravilnik o načinu isplate novčanih primanja i drugih troškova",
+   "title": "Pravilnik o načinu isplate novčanih primanja i drugih troškova",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/52/1000",
+   "versions": [
+    {
+     "from": "2005-04-22",
+     "units": 14,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_04_52_1000.html",
+     "sha256": "6b97b2d886f58486e33455332db609e8516571bf185ec2097344738b89991f67"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2005-1001",
+   "path": "pravilnik/2005/1001",
+   "short": "Pravilnik o zaštiti knjižnične građe",
+   "title": "Pravilnik o zaštiti knjižnične građe",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/52/1001",
+   "versions": [
+    {
+     "from": "2005-04-30",
+     "units": 32,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_04_52_1001.html",
+     "sha256": "bcb5492d067eb2ca11c77cd015e00a22e1231e2b882b075ae9412bcd8945686c"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2005-1002",
+   "path": "pravilnik/2005/1002",
+   "short": "Pravilnik o načinu praćenja zoonoza i uzročnika zoonoza",
+   "title": "Pravilnik o načinu praćenja zoonoza i uzročnika zoonoza",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/52/1002",
+   "versions": [
+    {
+     "from": "2005-04-30",
+     "units": 16,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_04_52_1002.html",
+     "sha256": "f161ec4eef0ad65e1d32ef8db614e5cc34d903cfff172afb3d2c73e88b415ce7"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2005-1003",
+   "path": "pravilnik/2005/1003",
+   "short": "Pravilnik o uvjetima i načinu ostvarivanja prava na besplatan prijevoz na linijama u javnom pomorskom prijevozu",
+   "title": "Pravilnik o uvjetima i načinu ostvarivanja prava na besplatan prijevoz na linijama u javnom pomorskom prijevozu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/52/1003",
+   "versions": [
+    {
+     "from": "2005-04-30",
+     "units": 15,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_04_52_1003.html",
+     "sha256": "167ec71c019e46a0de737fb65139b78d5b90d9ec20d6dc915da7c093cbb23bdd"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2005-1008",
+   "path": "pravilnik/2005/1008",
+   "short": "Pravilnik o tehničkim i mjeriteljskim zahtjevima za ovlašćivanje servisa za pripremu za ovjeravanje manometara, vakuumometara, manovakuumometara, mjernih pretvornika tlaka, uređaja za mjerenje krvnog",
+   "title": "Pravilnik o tehničkim i mjeriteljskim zahtjevima za ovlašćivanje servisa za pripremu za ovjeravanje manometara, vakuumometara, manovakuumometara, mjernih pretvornika tlaka, uređaja za mjerenje krvnog",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/53/1008",
+   "versions": [
+    {
+     "from": "2005-05-03",
+     "units": 18,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_04_53_1008.html",
+     "sha256": "46ef86e21351befa3fdad1883c41d58d2b81128bec576c80ab0e3c809ddf7a1e"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2005-1009",
+   "path": "pravilnik/2005/1009",
+   "short": "Pravilnik o uvjetima ovlašćivanja pravnih osoba za ovjeravanje manometara, vakuumometara, manovakuumometara, mjernih pretvornika tlaka, uređaja za mjerenje krvnog tlaka i takomjera za gume",
+   "title": "Pravilnik o uvjetima ovlašćivanja pravnih osoba za ovjeravanje manometara, vakuumometara, manovakuumometara, mjernih pretvornika tlaka, uređaja za mjerenje krvnog tlaka i takomjera za gume",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/53/1009",
+   "versions": [
+    {
+     "from": "2005-05-03",
+     "units": 18,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_04_53_1009.html",
+     "sha256": "f1ad348957bb8ac26f02145f1a0dcf7c991ad85166e18ef86372abba595e153d"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2005-1010",
+   "path": "pravilnik/2005/1010",
+   "short": "Pravilnik o mjeriteljskim zahtjevima za uređaje za mjerenje krvnog tlaka (tlakomjere)",
+   "title": "Pravilnik o mjeriteljskim zahtjevima za uređaje za mjerenje krvnog tlaka (tlakomjere)",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/53/1010",
+   "versions": [
+    {
+     "from": "2005-05-03",
+     "units": 29,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_04_53_1010.html",
+     "sha256": "0ecfd95c0068d4fbd38e2709e41cdbb119d8c6c4fbab6fba5653a03ebd7c8622"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2005-1011",
+   "path": "pravilnik/2005/1011",
+   "short": "Pravilnik o mjeriteljskim zahtjevima za tlakomjere za gume",
+   "title": "Pravilnik o mjeriteljskim zahtjevima za tlakomjere za gume",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/53/1011",
+   "versions": [
+    {
+     "from": "2005-05-03",
+     "units": 29,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_04_53_1011.html",
+     "sha256": "c0770f1aff1387425958d8304bf5560eb24784e1dc5ad2baa84e3b9a864ca745"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2005-1012",
+   "path": "pravilnik/2005/1012",
+   "short": "Pravilnik o mjeriteljskim zahtjevima za manometre, vakuumometre i manovakuumometre te elektronske mjerne pretvornike tlaka",
+   "title": "Pravilnik o mjeriteljskim zahtjevima za manometre, vakuumometre i manovakuumometre te elektronske mjerne pretvornike tlaka",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/53/1012",
+   "versions": [
+    {
+     "from": "2005-05-03",
+     "units": 20,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_04_53_1012.html",
+     "sha256": "92c211457515a71c4c1ad12d359940d9c76222bf7ef6df15ddc3962154205911"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2005-1049",
+   "path": "pravilnik/2005/1049",
+   "short": "Pravilnik o dobroj praksi i uvjetima za davanje dozvole za promet medicinskim proizvodima",
+   "title": "Pravilnik o dobroj praksi i uvjetima za davanje dozvole za promet medicinskim proizvodima",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/54/1049",
+   "versions": [
+    {
+     "from": "2005-05-05",
+     "units": 37,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_04_54_1049.html",
+     "sha256": "468d51c752b8dd5f869decdd358ce7fad54da9c31e0de42f401ec49947ebfcee"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2005-1050",
+   "path": "pravilnik/2005/1050",
+   "short": "Pravilnik o razvrstavanju, izdavanju, zahtjevima, ocjeni sukladnosti i očevidniku medicinskih proizvoda",
+   "title": "Pravilnik o razvrstavanju, izdavanju, zahtjevima, ocjeni sukladnosti i očevidniku medicinskih proizvoda",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/54/1050",
+   "versions": [
+    {
+     "from": "2005-05-05",
+     "units": 39,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_04_54_1050.html",
+     "sha256": "a4701a116b43b12f38acb1fc6d9b083479e7f8bf486f36ab62975fde536edad4"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2005-1055",
+   "path": "pravilnik/2005/1055",
+   "short": "Pravilnik o izmjenama i dopunama Pravilnika o izobrazbi zaposlenika u kaznionicama i zatvorima Uprave za zatvorski sustav Ministarstva pravosuđa",
+   "title": "Pravilnik o izmjenama i dopunama Pravilnika o izobrazbi zaposlenika u kaznionicama i zatvorima Uprave za zatvorski sustav Ministarstva pravosuđa",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/55/1055",
+   "versions": [
+    {
+     "from": "2005-05-07",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_04_55_1055.html",
+     "sha256": "52b1b75e905c57d2b1c82ec6d1e803a0a5e482761db2fb752f335e717b99bb68"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2005-1056",
+   "path": "pravilnik/2005/1056",
+   "short": "Pravilnik o izmjenama i dopunama Pravilnika o posebnim staništima riba i drugih morskih organizama i regulaciji ribolova u Velebitskom kanalu, Novigradskom i Karinskom moru, Prokljanskom jezeru, Marin",
+   "title": "Pravilnik o izmjenama i dopunama Pravilnika o posebnim staništima riba i drugih morskih organizama i regulaciji ribolova u Velebitskom kanalu, Novigradskom i Karinskom moru, Prokljanskom jezeru, Marin",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/55/1056",
+   "versions": [
+    {
+     "from": "2005-04-29",
+     "units": 6,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_04_55_1056.html",
+     "sha256": "f016b504090434914e8a46d7d21d03826d4f3a0700f3b00691e18a6f6ffd2172"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2005-1058",
+   "path": "pravilnik/2005/1058",
+   "short": "Pravilnik o mjeriteljskim i tehničkim zahtjevima za medicinske električne termometre za kontinuirano mjerenje temperature",
+   "title": "Pravilnik o mjeriteljskim i tehničkim zahtjevima za medicinske električne termometre za kontinuirano mjerenje temperature",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/55/1058",
+   "versions": [
+    {
+     "from": "2005-05-07",
+     "units": 24,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_04_55_1058.html",
+     "sha256": "9953b4775557a5d82d4fb816cc0154ac0ea58312ac89429293ff3b064fa4c418"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2005-1069",
+   "path": "pravilnik/2005/1069",
+   "short": "Pravilnik o načinu provjere kakvoće lijeka",
+   "title": "Pravilnik o načinu provjere kakvoće lijeka",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/56/1069",
+   "versions": [
+    {
+     "from": "2005-05-10",
+     "units": 42,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_05_56_1069.html",
+     "sha256": "cc96701955e8b6ac7c5eeac07e3389cff9b932e9d8935ff59e74f1b047c220ca"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2005-1104",
+   "path": "pravilnik/2005/1104",
+   "short": "Pravilnik o izmjenama i dopunama Pravilnika o postupku utvrđivanja odgovornosti za štetu i naknadi štete",
+   "title": "Pravilnik o izmjenama i dopunama Pravilnika o postupku utvrđivanja odgovornosti za štetu i naknadi štete",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/57/1104",
+   "versions": [
+    {
+     "from": "2005-05-12",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_05_57_1104.html",
+     "sha256": "095cf5dab01509657827fb3aaa91f8b0d4b133ceb283e47b138a40fac7b526d3"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2005-1106",
+   "path": "pravilnik/2005/1106",
+   "short": "Pravilnik o načinu vođenja evidencije o obavljenim isplatama i dostavi izvješća o utrošenim sredstvima, te kontroli namjenskih trošenja sredstava",
+   "title": "Pravilnik o načinu vođenja evidencije o obavljenim isplatama i dostavi izvješća o utrošenim sredstvima, te kontroli namjenskih trošenja sredstava",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/57/1106",
+   "versions": [
+    {
+     "from": "2005-05-04",
+     "units": 12,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_05_57_1106.html",
+     "sha256": "ee349055fe3c317f14a89d68d7bbc026148c6df884e4b4ecf19dd3e512acc8fd"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2005-1109",
+   "path": "pravilnik/2005/1109",
+   "short": "Pravilnik o rasporedu sredstava za održavanje i građenje županijskih i lokalnih cesta iz izvora sredstava Hrvatskih cesta d.o.o. u 2005. godini",
+   "title": "Pravilnik o rasporedu sredstava za održavanje i građenje županijskih i lokalnih cesta iz izvora sredstava Hrvatskih cesta d.o.o. u 2005. godini",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/57/1109",
+   "versions": [
+    {
+     "from": "2005-05-12",
+     "units": 12,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_05_57_1109.html",
+     "sha256": "6ad7d40e8cb02074d5f3e7fe4c97a6ca1069134388c32a9adf31510ddef801cb"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2005-1167",
+   "path": "pravilnik/2005/1167",
+   "short": "Pravilnik o visini naknade i oslobođenjima od plaćanja naknade za troškove postupka priznavanja inozemnih visokoškolskih kvalifikacija i razdoblja studija",
+   "title": "Pravilnik o visini naknade i oslobođenjima od plaćanja naknade za troškove postupka priznavanja inozemnih visokoškolskih kvalifikacija i razdoblja studija",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/60/1167",
+   "versions": [
+    {
+     "from": "2005-05-19",
+     "units": 11,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_05_60_1167.html",
+     "sha256": "2584f71451d38d5113a1bcd84cbe44a9544a96490aaff266d9896608a13d3e09"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2005-1169",
+   "path": "pravilnik/2005/1169",
+   "short": "Pravilnik o izmjenama i dopunama Pravilnika o uvjetima i postupku izbora učitelja za rad u dopunskoj nastavi s djecom hrvatskih građana u inozemstvu",
+   "title": "Pravilnik o izmjenama i dopunama Pravilnika o uvjetima i postupku izbora učitelja za rad u dopunskoj nastavi s djecom hrvatskih građana u inozemstvu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/60/1169",
+   "versions": [
+    {
+     "from": "2005-05-19",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_05_60_1169.html",
+     "sha256": "6e58f090fec0bab35819f6dc093376337f74d3fa621ae956e7d065e29332a570"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2005-1193",
+   "path": "pravilnik/2005/1193",
+   "short": "Pravilnik o dopunama Pravilnika o nacionalnoj listi priznatih kultivara vinove loze",
+   "title": "Pravilnik o dopunama Pravilnika o nacionalnoj listi priznatih kultivara vinove loze",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/62/1193",
+   "versions": [
+    {
+     "from": "2005-05-26",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_05_62_1193.html",
+     "sha256": "53dc7c9c00687268467f75fa56c4e759b5cd99b459b217404acaf9100e63fddb"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2005-1195",
+   "path": "pravilnik/2005/1195",
+   "short": "Pravilnik o načinu oglašavanja i obavješćivanja o lijekovima, homeopatskim i medicinskim proizvodima",
+   "title": "Pravilnik o načinu oglašavanja i obavješćivanja o lijekovima, homeopatskim i medicinskim proizvodima",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/62/1195",
+   "versions": [
+    {
+     "from": "2005-05-26",
+     "units": 29,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_05_62_1195.html",
+     "sha256": "37a3c746f0580d718423504ced3169561b0b659ba2a4ba517eb4bed44a0a92bf"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2005-1197",
+   "path": "pravilnik/2005/1197",
+   "short": "Pravilnik o prestanku važenja Pravilnika o sigurnosti na uređenim kupalištima",
+   "title": "Pravilnik o prestanku važenja Pravilnika o sigurnosti na uređenim kupalištima",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/62/1197",
+   "versions": [
+    {
+     "from": "2005-05-18",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_05_62_1197.html",
+     "sha256": "6dc69dcccceca4749d4c35a49db9258cb973a16b4fd35336918fa79b1bf4d5c6"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2005-1215",
+   "path": "pravilnik/2005/1215",
+   "short": "Pravilnik o mjerilima za utvrđivanje vrijednosti oduzetih brodova i brodica",
+   "title": "Pravilnik o mjerilima za utvrđivanje vrijednosti oduzetih brodova i brodica",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/64/1215",
+   "versions": [
+    {
+     "from": "2005-05-31",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_05_64_1215.html",
+     "sha256": "215a067e5c00ad847bd7ca4f0be3af2aa0981f67a22f937d65fc7d1ef943765a"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2005-1216",
+   "path": "pravilnik/2005/1216",
+   "short": "Pravilnik o izmjenama i dopunama Pravilnika o uvjetima analize mošta, vina, drugih proizvoda od grožđa i vina te voćnih vina i drugih proizvoda na bazi voćnih vina",
+   "title": "Pravilnik o izmjenama i dopunama Pravilnika o uvjetima analize mošta, vina, drugih proizvoda od grožđa i vina te voćnih vina i drugih proizvoda na bazi voćnih vina",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/64/1216",
+   "versions": [
+    {
+     "from": "2005-05-31",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_05_64_1216.html",
+     "sha256": "ca94af820d1172b37babbcfbd01de63ba88c095b7cf5135aaf8296b86ed2751b"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2005-1217",
+   "path": "pravilnik/2005/1217",
+   "short": "Pravilnik o dopunama Pravilnika o vinogradarskim područjima",
+   "title": "Pravilnik o dopunama Pravilnika o vinogradarskim područjima",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/64/1217",
+   "versions": [
+    {
+     "from": "2005-05-31",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_05_64_1217.html",
+     "sha256": "3551f96b1bc7c84167fe2d675cf65c7daa0f9ba5cfb0d6d1c9a912ca039ebe98"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2005-1250",
+   "path": "pravilnik/2005/1250",
+   "short": "Pravilnik o izmjenama i dopunama Pravilnika o uvjetima koje moraju ispunjavati ovlašteni laboratoriji",
+   "title": "Pravilnik o izmjenama i dopunama Pravilnika o uvjetima koje moraju ispunjavati ovlašteni laboratoriji",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/65/1250",
+   "versions": [
+    {
+     "from": "2005-06-02",
+     "units": 20,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_05_65_1250.html",
+     "sha256": "016c5a02223b9276a08546393d2e1464cc20b5af3eff8c038e7f41f66a3f896f"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2005-1254",
+   "path": "pravilnik/2005/1254",
+   "short": "Pravilnik o sanitetskom prijevozu",
+   "title": "Pravilnik o sanitetskom prijevozu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/65/1254",
+   "versions": [
+    {
+     "from": "2005-06-02",
+     "units": 9,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_05_65_1254.html",
+     "sha256": "cc9d7426aa89928f37377b13463f5d42627607dfcbfc2987c0f67aa697db27f2"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2005-126",
+   "path": "pravilnik/2005/126",
+   "short": "Pravilnik o tehničkim pregledima u telekomunikacijama",
+   "title": "Pravilnik o tehničkim pregledima u telekomunikacijama",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/7/126",
+   "versions": [
+    {
+     "from": "2005-01-13",
+     "units": 16,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_01_7_126.html",
+     "sha256": "f45ec9b31888d44cf5e86a7840decd8e3b2f78439e08e2a3f52449021677c8b5"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2005-127",
+   "path": "pravilnik/2005/127",
+   "short": "Pravilnik o označivanju vina oznakom zemljopisnog podrijetla",
+   "title": "Pravilnik o označivanju vina oznakom zemljopisnog podrijetla",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/7/127",
+   "versions": [
+    {
+     "from": "2005-01-21",
+     "units": 12,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_01_7_127.html",
+     "sha256": "d92feb5064f662d9e13e09ea1c293af468f0ad3459ec433ff2da7483588fd3d4"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2005-1286",
+   "path": "pravilnik/2005/1286",
+   "short": "Pravilnik o javnosti rada Hrvatskoga sabora i radnih tijela",
+   "title": "Pravilnik o javnosti rada Hrvatskoga sabora i radnih tijela",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/66/1286",
+   "versions": [
+    {
+     "from": "2005-05-20",
+     "units": 22,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_05_66_1286.html",
+     "sha256": "b07dcce9a4f1446d614961f6de6c3cae39e374708cf5a660a9a9ca3fc2f21249"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2005-1318",
+   "path": "pravilnik/2005/1318",
+   "short": "Pravilnik o mjerilima za priznavanje naziva primarijus",
+   "title": "Pravilnik o mjerilima za priznavanje naziva primarijus",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/66/1318",
+   "versions": [
+    {
+     "from": "2005-06-07",
+     "units": 18,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_05_66_1318.html",
+     "sha256": "79d94ed432351bd89d3791fd251774dbd0ea06095ab632bbac6e16ecf7af252a"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2005-1334",
+   "path": "pravilnik/2005/1334",
+   "short": "Pravilnik o uvjetima za osnivanje i rad zooloških vrtova",
+   "title": "Pravilnik o uvjetima za osnivanje i rad zooloških vrtova",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/67/1334",
+   "versions": [
+    {
+     "from": "2005-06-09",
+     "units": 30,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_06_67_1334.html",
+     "sha256": "6aa4cdb6ff72880247a2323b69fe075373a34ad94cf300edf8149aff873cb847"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2005-1335",
+   "path": "pravilnik/2005/1335",
+   "short": "Pravilnik o izmjenama i dopunama Pravilnika o zdravstvenoj kontroli bilja i kontroli sredstava za zaštitu bilja i prometu preko državne granice",
+   "title": "Pravilnik o izmjenama i dopunama Pravilnika o zdravstvenoj kontroli bilja i kontroli sredstava za zaštitu bilja i prometu preko državne granice",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/67/1335",
+   "versions": [
+    {
+     "from": "2005-06-09",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_06_67_1335.html",
+     "sha256": "c63ea14b2a0cced9fc272cab63781eb63417150d361beea9554f4b51151a584b"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2005-1344",
+   "path": "pravilnik/2005/1344",
+   "short": "Pravilnik o izmjeni Pravilnika o obavljanju gospodarskog ribolova na moru",
+   "title": "Pravilnik o izmjeni Pravilnika o obavljanju gospodarskog ribolova na moru",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/68/1344",
+   "versions": [
+    {
+     "from": "2005-06-03",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_06_68_1344.html",
+     "sha256": "9746fcecedccdc1dcb8595a97f24a98c160956842c6c009b6ac3649e9dfc8fae"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2005-1353",
+   "path": "pravilnik/2005/1353",
+   "short": "Pravilnik o programu, sadržaju i načinu provjere znanja poslodavaca ili njihovih ovlaštenika iz područja zaštite na radu",
+   "title": "Pravilnik o programu, sadržaju i načinu provjere znanja poslodavaca ili njihovih ovlaštenika iz područja zaštite na radu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/69/1353",
+   "versions": [
+    {
+     "from": "2005-06-14",
+     "units": 18,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_06_69_1353.html",
+     "sha256": "48e52ca0e761f32d5bf4a6373dbfbd5eda25cc69676707c32dd1916c5ecf0161"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2005-1354",
+   "path": "pravilnik/2005/1354",
+   "short": "Pravilnik o sigurnosti i zaštiti zdravlja pri radu s računalom",
+   "title": "Pravilnik o sigurnosti i zaštiti zdravlja pri radu s računalom",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/69/1354",
+   "versions": [
+    {
+     "from": "2005-06-14",
+     "units": 17,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_06_69_1354.html",
+     "sha256": "e35494e086a22aa7c39fd9b7a85d085d1e0bbfa303a3b0bca07ccb2a813e13de"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2005-136",
+   "path": "pravilnik/2005/136",
+   "short": "Pravilnik o načinu, uvjetima i postupku određivanja i vođenja evidencije imena i oznaka brodova i jahti",
+   "title": "Pravilnik o načinu, uvjetima i postupku određivanja i vođenja evidencije imena i oznaka brodova i jahti",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/9/136",
+   "versions": [
+    {
+     "from": "2005-01-25",
+     "units": 19,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_01_9_136.html",
+     "sha256": "bb48f24c7599c8c2258a5652d937ef64b735d286e9279d6a200b2a4185d53011"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2005-137",
+   "path": "pravilnik/2005/137",
+   "short": "Pravilnik o izmjeni i dopuni Pravilnika o uređivanju šuma",
+   "title": "Pravilnik o izmjeni i dopuni Pravilnika o uređivanju šuma",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/9/137",
+   "versions": [
+    {
+     "from": "2005-01-17",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_01_9_137.html",
+     "sha256": "7b337757773c02ba874d644a0b552ea61420be502024a93ec55c99f7b1b67d58"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2005-138",
+   "path": "pravilnik/2005/138",
+   "short": "Pravilnik o mjerilima i kriterijima za osnivanje visokih učilišta",
+   "title": "Pravilnik o mjerilima i kriterijima za osnivanje visokih učilišta",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/9/138",
+   "versions": [
+    {
+     "from": "2005-01-25",
+     "units": 14,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_01_9_138.html",
+     "sha256": "a569573869c890a995ce28d3bbae504ebc31585284b3c4c8a227f95f80aa3ea9"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2005-139",
+   "path": "pravilnik/2005/139",
+   "short": "Pravilnik o mjerilima i kriterijima za vrednovanje kvalitete i učinkovitosti visokih učilišta i studijskih programa",
+   "title": "Pravilnik o mjerilima i kriterijima za vrednovanje kvalitete i učinkovitosti visokih učilišta i studijskih programa",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/9/139",
+   "versions": [
+    {
+     "from": "2005-01-25",
+     "units": 12,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_01_9_139.html",
+     "sha256": "24a0f73f190459d571c54e5cfab194779f79c821ee197871f741b7f251a9b58e"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2005-140",
+   "path": "pravilnik/2005/140",
+   "short": "Pravilnik o sadržaju diploma i dopunskih isprava o studiju",
+   "title": "Pravilnik o sadržaju diploma i dopunskih isprava o studiju",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/9/140",
+   "versions": [
+    {
+     "from": "2005-01-25",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_01_9_140.html",
+     "sha256": "3c468e007eba6cd3267da0085cfe64122e14dfc6bd0b5fc4bda388415700c33f"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2005-141",
+   "path": "pravilnik/2005/141",
+   "short": "Pravilnik o vođenju evidencija o studentima visokih učilišta",
+   "title": "Pravilnik o vođenju evidencija o studentima visokih učilišta",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/9/141",
+   "versions": [
+    {
+     "from": "2005-01-25",
+     "units": 14,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_01_9_141.html",
+     "sha256": "37c6c8d07c37a01891aad5aaa9b0447450b5bc326198f7aebf05f0ea70481c9f"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2005-1417",
+   "path": "pravilnik/2005/1417",
+   "short": "Pravilnik o dopuni Pravilnika o minimalnim uvjetima za ugovor o naukovanju",
+   "title": "Pravilnik o dopuni Pravilnika o minimalnim uvjetima za ugovor o naukovanju",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/72/1417",
+   "versions": [
+    {
+     "from": "2005-06-13",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_06_72_1417.html",
+     "sha256": "1dc313dbe6b6d46d8e46d0496eb348f5e9854c1e7a428d7d97d9611d5f3f5d3d"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2005-142",
+   "path": "pravilnik/2005/142",
+   "short": "Pravilnik o sadržaju studentske isprave",
+   "title": "Pravilnik o sadržaju studentske isprave",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/9/142",
+   "versions": [
+    {
+     "from": "2005-01-25",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_01_9_142.html",
+     "sha256": "d3085141bc9344b158f8d5d2f5bc8ae34ea98f2b2fd24a94b83f363e379e473e"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2005-1440",
+   "path": "pravilnik/2005/1440",
+   "short": "Pravilnik o kakau i čokoladnim proizvodima",
+   "title": "Pravilnik o kakau i čokoladnim proizvodima",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/73/1440",
+   "versions": [
+    {
+     "from": "2005-06-23",
+     "units": 15,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_06_73_1440.html",
+     "sha256": "1b879d1de8f770d60e3aa4aa049b851574840821f1d7d2679ecd6d84e21b4a21"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2005-1441",
+   "path": "pravilnik/2005/1441",
+   "short": "Pravilnik o keksima i keksima srodnim proizvodima",
+   "title": "Pravilnik o keksima i keksima srodnim proizvodima",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/73/1441",
+   "versions": [
+    {
+     "from": "2005-06-23",
+     "units": 14,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_06_73_1441.html",
+     "sha256": "c9f3f40cddf2d3d5bf81d828c1e1c76ad8599d613d58adf9696011a56e4cd32c"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2005-1442",
+   "path": "pravilnik/2005/1442",
+   "short": "Pravilnik o proizvodima sličnim čokoladi, krem-proizvodima i bombonskim proizvodima",
+   "title": "Pravilnik o proizvodima sličnim čokoladi, krem-proizvodima i bombonskim proizvodima",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/73/1442",
+   "versions": [
+    {
+     "from": "2005-06-23",
+     "units": 18,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_06_73_1442.html",
+     "sha256": "60b8ada2d784472ea4c2059c389f6823b970526c972b5367f88b1210a7c22d31"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2005-1444",
+   "path": "pravilnik/2005/1444",
+   "short": "Pravilnik o izmjenama Pravilnika o sadržaju i obliku iskaznice stručnih djelatnika centara za socijalnu skrb i iskaznica inspektora u Ministarstvu rada i socijalne skrbi",
+   "title": "Pravilnik o izmjenama Pravilnika o sadržaju i obliku iskaznice stručnih djelatnika centara za socijalnu skrb i iskaznica inspektora u Ministarstvu rada i socijalne skrbi",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/73/1444",
+   "versions": [
+    {
+     "from": "2005-06-23",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_06_73_1444.html",
+     "sha256": "1b16f62905102d0013b0fa2c11a65678de53d11f5d32e46421ae0d003ab280ae"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2005-1462",
+   "path": "pravilnik/2005/1462",
+   "short": "Pravilnik o uvjetima koje moraju ispunjavati pravne osobe za ovjeravanje, ispitivanje sukladnosti i provedbu službenih mjerenja za cilindrične vodoravne i okomite spremnike",
+   "title": "Pravilnik o uvjetima koje moraju ispunjavati pravne osobe za ovjeravanje, ispitivanje sukladnosti i provedbu službenih mjerenja za cilindrične vodoravne i okomite spremnike",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/74/1462",
+   "versions": [
+    {
+     "from": "2005-06-25",
+     "units": 17,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_06_74_1462.html",
+     "sha256": "ef982488462fe077cd9b30c6a1a0d05bc0723620292f172fab2d7901867711f5"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2005-1465",
+   "path": "pravilnik/2005/1465",
+   "short": "Pravilnik o izmjenama Pravilnika o mirenju Centra za mirenje pri Hrvatskoj obrtničkoj komori",
+   "title": "Pravilnik o izmjenama Pravilnika o mirenju Centra za mirenje pri Hrvatskoj obrtničkoj komori",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/74/1465",
+   "versions": [
+    {
+     "from": "2005-05-12",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_06_74_1465.html",
+     "sha256": "ee253a6a58eb05e6b56445484a20d1435c4ff99f4343e6bf05aeab1a0e23d7e1"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2005-15",
+   "path": "pravilnik/2005/15",
+   "short": "Pravilnik o prirodnim mineralnim, prirodnim izvorskim i stolnim vodama",
+   "title": "Pravilnik o prirodnim mineralnim, prirodnim izvorskim i stolnim vodama",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/2/15",
+   "versions": [
+    {
+     "from": "2005-01-12",
+     "units": 43,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_01_2_15.html",
+     "sha256": "e8347b11536520936af06f8307fe081a292323a47b16aa6b96f511818b8006c8"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2005-1500",
+   "path": "pravilnik/2005/1500",
+   "short": "Pravilnik o znanstvenim i umjetničkim područjima, poljima i granama",
+   "title": "Pravilnik o znanstvenim i umjetničkim područjima, poljima i granama",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/76/1500",
+   "versions": [
+    {
+     "from": "2005-07-01",
+     "units": 11,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_06_76_1500.html",
+     "sha256": "9144c01965c06ebf8d9eb372e393b50df8ff11d898717fcbaeaf9307feaf49b7"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2005-1501",
+   "path": "pravilnik/2005/1501",
+   "short": "Pravilnik o ustroju i načinu rada područnih vijeća i matičnih odbora",
+   "title": "Pravilnik o ustroju i načinu rada područnih vijeća i matičnih odbora",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/76/1501",
+   "versions": [
+    {
+     "from": "2005-03-01",
+     "units": 26,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_06_76_1501.html",
+     "sha256": "aaac63a03a719ee55a669b8959c7ef2a93695609d77c1ed91caae9ecda9a8526"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2005-1545",
+   "path": "pravilnik/2005/1545",
+   "short": "Pravilnik o žitaricama, mlinskim i pekarskim proizvodima, tjestenini, tijestu i proizvodima od tijesta",
+   "title": "Pravilnik o žitaricama, mlinskim i pekarskim proizvodima, tjestenini, tijestu i proizvodima od tijesta",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/78/1545",
+   "versions": [
+    {
+     "from": "2005-07-07",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_06_78_1545.html",
+     "sha256": "c513140af4f96ae24b7daf34767e4d778aa94b542792fc5e140b5df8e2dc9412"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2005-1561",
+   "path": "pravilnik/2005/1561",
+   "short": "Pravilnik o izmjeni Pravilnika o prirodnim mineralnim, prirodnim izvorskim i stolnim vodama",
+   "title": "Pravilnik o izmjeni Pravilnika o prirodnim mineralnim, prirodnim izvorskim i stolnim vodama",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/79/1561",
+   "versions": [
+    {
+     "from": "2005-07-01",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_07_79_1561.html",
+     "sha256": "a8da3a154a26ea3adc7f0a35120900e1dc8980ddc20ce8d9516c788dd3f4306b"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2005-1565",
+   "path": "pravilnik/2005/1565",
+   "short": "Pravilnik o oznakama izvornosti i oznakama zemljopisnog podrijetla hrane",
+   "title": "Pravilnik o oznakama izvornosti i oznakama zemljopisnog podrijetla hrane",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/80/1565",
+   "versions": [
+    {
+     "from": "2005-07-12",
+     "units": 33,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_07_80_1565.html",
+     "sha256": "9627ab1672ed7bdde0d28890e2822cb4f641cb4a9cb517c622c6a2f86bc65ed8"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2005-1567",
+   "path": "pravilnik/2005/1567",
+   "short": "Pravilnik o mjeriteljskim i tehničkim zahtjevima za statička brojila djelatne električne energije razreda točnosti 0,2 S i 0,5 S",
+   "title": "Pravilnik o mjeriteljskim i tehničkim zahtjevima za statička brojila djelatne električne energije razreda točnosti 0,2 S i 0,5 S",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/81/1567",
+   "versions": [
+    {
+     "from": "2005-07-13",
+     "units": 36,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_07_81_1567.html",
+     "sha256": "f934e7c3e7dcae59bca9af8c591be39846a679f9629bb2f8bd1f6971d123a641"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2005-1568",
+   "path": "pravilnik/2005/1568",
+   "short": "Pravilnik o mjeriteljskim i tehničkim zahtjevima za indukcijska brojila za električnu energiju",
+   "title": "Pravilnik o mjeriteljskim i tehničkim zahtjevima za indukcijska brojila za električnu energiju",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/81/1568",
+   "versions": [
+    {
+     "from": "2005-07-13",
+     "units": 48,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_07_81_1568.html",
+     "sha256": "7c4332d7ad9256dcb17ff83ae4e25af572699fe97da5683f669a9fe1a6e427b3"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2005-1569",
+   "path": "pravilnik/2005/1569",
+   "short": "Pravilnik o mjeriteljskim i tehničkim zahtjevima za statička brojila jalove električne energije razreda točnosti 2 i 3",
+   "title": "Pravilnik o mjeriteljskim i tehničkim zahtjevima za statička brojila jalove električne energije razreda točnosti 2 i 3",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/81/1569",
+   "versions": [
+    {
+     "from": "2005-07-13",
+     "units": 38,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_07_81_1569.html",
+     "sha256": "c8c1f485c08e7cf1d1f0d1323ef3eabfe0d38a6fcb656b19bea42c3deba10e05"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2005-1570",
+   "path": "pravilnik/2005/1570",
+   "short": "Pravilnik o mjeriteljskim i tehničkim zahtjevima za statička brojila djelatne električne energije razreda točnosti 1 i 2",
+   "title": "Pravilnik o mjeriteljskim i tehničkim zahtjevima za statička brojila djelatne električne energije razreda točnosti 1 i 2",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/81/1570",
+   "versions": [
+    {
+     "from": "2005-07-13",
+     "units": 38,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_07_81_1570.html",
+     "sha256": "ad5e828afc1f5a9f28bab4fac570df5cca08dc3d19d175e2ad1cbc087dac5661"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2005-1585",
+   "path": "pravilnik/2005/1585",
+   "short": "Pravilnik o dopuni Pravilnika o navođenju hranjivih vrijednosti hrane",
+   "title": "Pravilnik o dopuni Pravilnika o navođenju hranjivih vrijednosti hrane",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/82/1585",
+   "versions": [
+    {
+     "from": "2005-07-14",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_07_82_1585.html",
+     "sha256": "d3bf635f13c12a6caa9b3c3b0564394ebfd7e5a86f90c2c29fce89779b6a2acd"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2005-1586",
+   "path": "pravilnik/2005/1586",
+   "short": "Pravilnik o izmjenama Pravilnika o uvjetima i načinu stjecanja, izdavanja, obnavljanja i produživanja dozvole i ovlaštenja zrakoplovnom osoblju - pilotima aviona",
+   "title": "Pravilnik o izmjenama Pravilnika o uvjetima i načinu stjecanja, izdavanja, obnavljanja i produživanja dozvole i ovlaštenja zrakoplovnom osoblju - pilotima aviona",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/82/1586",
+   "versions": [
+    {
+     "from": "2005-07-14",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_07_82_1586.html",
+     "sha256": "184745ce5dff454faa1329b5d7045ed830b5895423aeef67908e018e6049acb8"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2005-1633",
+   "path": "pravilnik/2005/1633",
+   "short": "Pravilnik o uvjetima za izbor u znanstvena zvanja",
+   "title": "Pravilnik o uvjetima za izbor u znanstvena zvanja",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/84/1633",
+   "versions": [
+    {
+     "from": "2005-07-11",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_07_84_1633.html",
+     "sha256": "aa12162cb655ba2349e537ea94412871d90965d005721cbeb8d9fea46711a1cb"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2005-1659",
+   "path": "pravilnik/2005/1659",
+   "short": "Pravilnik o vođenju registra patenata za povjerljive izume",
+   "title": "Pravilnik o vođenju registra patenata za povjerljive izume",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/85/1659",
+   "versions": [
+    {
+     "from": "2005-07-21",
+     "units": 8,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_07_85_1659.html",
+     "sha256": "8aba2f8fbdb5ded4c3a805927be4c248cfb7cb716f11413229ecc917033fd0af"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2005-168",
+   "path": "pravilnik/2005/168",
+   "short": "Pravilnik o utvrđivanju mreže i kriterija o dovoljnom broju stanica za tehnički pregled vozila",
+   "title": "Pravilnik o utvrđivanju mreže i kriterija o dovoljnom broju stanica za tehnički pregled vozila",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/10/168",
+   "versions": [
+    {
+     "from": "2005-01-27",
+     "units": 11,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_01_10_168.html",
+     "sha256": "a3cce4db0b1495e3d7a298d93bd07e398c36f593b287ba15d66195b0452fc8d4"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2005-169",
+   "path": "pravilnik/2005/169",
+   "short": "Pravilnik o izmjenama i dopunama Pravilnika o putnim ispravama za strance, vizama, graničnim propusnicama te o načinu postupanja prema strancima",
+   "title": "Pravilnik o izmjenama i dopunama Pravilnika o putnim ispravama za strance, vizama, graničnim propusnicama te o načinu postupanja prema strancima",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/10/169",
+   "versions": [
+    {
+     "from": "2005-01-27",
+     "units": 20,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_01_10_169.html",
+     "sha256": "509fed98c7e628d6720082a1225808c1ebd2f6627df675c776bfe3974f5c9e2a"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2005-17",
+   "path": "pravilnik/2005/17",
+   "short": "Pravilnik o proizvodnji vina",
+   "title": "Pravilnik o proizvodnji vina",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/2/17",
+   "versions": [
+    {
+     "from": "2005-01-12",
+     "units": 50,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_01_2_17.html",
+     "sha256": "7b25a4fb366f457480620f7f4bbce9c018c759b40a6bed39ec4e4b7eed88a54c"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2005-1700",
+   "path": "pravilnik/2005/1700",
+   "short": "Pravilnik Povjerenstva za odlučivanje o sukobu interesa o unutarnjem ustroju i postupku",
+   "title": "Pravilnik Povjerenstva za odlučivanje o sukobu interesa o unutarnjem ustroju i postupku",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/86/1700",
+   "versions": [
+    {
+     "from": "2005-07-23",
+     "units": 46,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_07_86_1700.html",
+     "sha256": "ac59458fce22c5bf906186e58e8b5d667da5bf035db5679baf7e56103ccc3ef8"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2005-1748",
+   "path": "pravilnik/2005/1748",
+   "short": "Pravilnik o uvjetima, kriterijima i postupku provođenja javnog natječaja za dodjelu sredstava u svrhu poticanja i zaštite pluralizma i raznovrsnosti medija",
+   "title": "Pravilnik o uvjetima, kriterijima i postupku provođenja javnog natječaja za dodjelu sredstava u svrhu poticanja i zaštite pluralizma i raznovrsnosti medija",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/88/1748",
+   "versions": [
+    {
+     "from": "2005-07-28",
+     "units": 13,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_07_88_1748.html",
+     "sha256": "4ed521ddf82b49ee19deac175a657cb02fef3480ec14256fee348213aae08e6a"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2005-1749",
+   "path": "pravilnik/2005/1749",
+   "short": "Pravilnik o veterinarsko-zdravstvenim uvjetima za stavljanje kopitara u promet",
+   "title": "Pravilnik o veterinarsko-zdravstvenim uvjetima za stavljanje kopitara u promet",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/88/1749",
+   "versions": [
+    {
+     "from": "2005-07-28",
+     "units": 17,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_07_88_1749.html",
+     "sha256": "a37248ecf03fc5a8efba3532710605106088b24ff28826a453afeedead7042e7"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2005-1754",
+   "path": "pravilnik/2005/1754",
+   "short": "Pravilnik o izmjeni i dopuni Pravilnika o uvjetima i načinu ostvarivanja prava na ortopedska i druga pomagala",
+   "title": "Pravilnik o izmjeni i dopuni Pravilnika o uvjetima i načinu ostvarivanja prava na ortopedska i druga pomagala",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/88/1754",
+   "versions": [
+    {
+     "from": "2005-07-28",
+     "units": 6,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_07_88_1754.html",
+     "sha256": "7cf7e10255b98c058ec72eb9636b6f5fa7f9f8138644943c7b863996b404551e"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2005-1755",
+   "path": "pravilnik/2005/1755",
+   "short": "Pravilnik o izmjeni Pravilnika o načinu propisivanja, izdavanja i naplaćivanja lijekova",
+   "title": "Pravilnik o izmjeni Pravilnika o načinu propisivanja, izdavanja i naplaćivanja lijekova",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/88/1755",
+   "versions": [
+    {
+     "from": "2005-07-20",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_07_88_1755.html",
+     "sha256": "e7dc007d21209d7cddf38ba1cc9505737bf11f328334be8e8d99ddfd2b2e0529"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2005-1789",
+   "path": "pravilnik/2005/1789",
+   "short": "Pravilnik o uvjetima i načinu održavanja reda u lukama i na ostalim dijelovima unutarnjih morskih voda i teritorijalnog mora Republike Hrvatske",
+   "title": "Pravilnik o uvjetima i načinu održavanja reda u lukama i na ostalim dijelovima unutarnjih morskih voda i teritorijalnog mora Republike Hrvatske",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/90/1789",
+   "versions": [
+    {
+     "from": "2005-08-02",
+     "units": 87,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_07_90_1789.html",
+     "sha256": "4e8924a733688092454b40a48a541a55c2216f3768ee0dc87e534adec18cd683"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2005-1790",
+   "path": "pravilnik/2005/1790",
+   "short": "Pravilnik o izmjenama Pravilnika o šećeru i ostalim saharidima, njihovim otopinama te škrobu i škrobnim sirupima",
+   "title": "Pravilnik o izmjenama Pravilnika o šećeru i ostalim saharidima, njihovim otopinama te škrobu i škrobnim sirupima",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/90/1790",
+   "versions": [
+    {
+     "from": "2005-07-25",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_07_90_1790.html",
+     "sha256": "dc88343133b78d65f84f9dcebd23d23ea73abb1005fadb099970d3410118f7ea"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2005-18",
+   "path": "pravilnik/2005/18",
+   "short": "Pravilnik o priznavanju sorata poljoprivrednog bilja",
+   "title": "Pravilnik o priznavanju sorata poljoprivrednog bilja",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/2/18",
+   "versions": [
+    {
+     "from": "2005-01-04",
+     "units": 216,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_01_2_18.html",
+     "sha256": "15d7812131bfa540ea4230c91bba9e1654dbf29030a02ec5fc626545b1fd4008"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2005-1846",
+   "path": "pravilnik/2005/1846",
+   "short": "Pravilnik o uvjetima za obavljanje zdravstvenih pregleda, vrsti i opsegu pregleda, načinu vođenja evidencije i medicinske dokumentacije vozača i kandidata za vozače",
+   "title": "Pravilnik o uvjetima za obavljanje zdravstvenih pregleda, vrsti i opsegu pregleda, načinu vođenja evidencije i medicinske dokumentacije vozača i kandidata za vozače",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/92/1846",
+   "versions": [
+    {
+     "from": "2005-08-04",
+     "units": 33,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_07_92_1846.html",
+     "sha256": "3cf3c117b923d5806a0520d65a5b3639f595fbe782e1b5dbdff8e91fd98c0d4b"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2005-1847",
+   "path": "pravilnik/2005/1847",
+   "short": "Pravilnik o izmjenama Pravilnika o uvjetima i načinu provođenja dopunskog zdravstvenog osiguranja",
+   "title": "Pravilnik o izmjenama Pravilnika o uvjetima i načinu provođenja dopunskog zdravstvenog osiguranja",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/92/1847",
+   "versions": [
+    {
+     "from": "2005-08-04",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_07_92_1847.html",
+     "sha256": "37ff32909a07d9f5c8a062dda258f8f2b30cb38d4703326c192d879d8ebd753a"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2005-1855",
+   "path": "pravilnik/2005/1855",
+   "short": "Pravilnik o izmjenama i dopuni pravilnika o plaćanju naknade za dodjelu i uporabu radijskih frekvencija",
+   "title": "Pravilnik o izmjenama i dopuni pravilnika o plaćanju naknade za dodjelu i uporabu radijskih frekvencija",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/93/1855",
+   "versions": [
+    {
+     "from": "2005-07-29",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_07_93_1855.html",
+     "sha256": "0c7ecb034e6bcf332795c27d65e2c764504abc367afc53e5f2da83373c0f5ce1"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2005-1856",
+   "path": "pravilnik/2005/1856",
+   "short": "Pravilnik o uvjetima i načinu stjecanja, izdavanja, obnavljanja i produžavanja dozvole i ovlaštenja zrakoplovnom osoblju - pilotima helikoptera",
+   "title": "Pravilnik o uvjetima i načinu stjecanja, izdavanja, obnavljanja i produžavanja dozvole i ovlaštenja zrakoplovnom osoblju - pilotima helikoptera",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/93/1856",
+   "versions": [
+    {
+     "from": "2005-08-06",
+     "units": 12,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_07_93_1856.html",
+     "sha256": "41319b020a3b7fbd10e55f68c76356c995a1ea5e61d7f94751080eced5f3ff22"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2005-1881",
+   "path": "pravilnik/2005/1881",
+   "short": "Pravilnik o mjeriteljskim i tehničkim zahtjevima za mjerila debljine",
+   "title": "Pravilnik o mjeriteljskim i tehničkim zahtjevima za mjerila debljine",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/94/1881",
+   "versions": [
+    {
+     "from": "2005-08-09",
+     "units": 28,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_08_94_1881.html",
+     "sha256": "a49ecdb4f67b6a0959898d1547b8c27e22f2ec2b18f07cdc94900378f6f4cf45"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2005-1882",
+   "path": "pravilnik/2005/1882",
+   "short": "Pravilnik o postupku i načinu davanja mišljenja o opravdanosti osnivanja zdravstvenih ustanova, odnosno privatne prakse u osnovnoj mreži zdravstvene djelatnosti",
+   "title": "Pravilnik o postupku i načinu davanja mišljenja o opravdanosti osnivanja zdravstvenih ustanova, odnosno privatne prakse u osnovnoj mreži zdravstvene djelatnosti",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/94/1882",
+   "versions": [
+    {
+     "from": "2005-08-09",
+     "units": 9,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_08_94_1882.html",
+     "sha256": "ca7292640de941b12e5a9a40002172b2e76ffd33536c4f1fda4559d4f26b17de"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2005-1886",
+   "path": "pravilnik/2005/1886",
+   "short": "Pravilnik o izmjenama i dopunama Pravilnika o kriterijima za utvrđivanje naknade šteta počinjenih ribama i drugim morskim organizmima",
+   "title": "Pravilnik o izmjenama i dopunama Pravilnika o kriterijima za utvrđivanje naknade šteta počinjenih ribama i drugim morskim organizmima",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/96/1886",
+   "versions": [
+    {
+     "from": "2005-08-12",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_08_96_1886.html",
+     "sha256": "2927f24afd7c60800bd73e70cff96541f008c9e9febe5fe1161ea6f1de7d055f"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2005-1887",
+   "path": "pravilnik/2005/1887",
+   "short": "Pravilnik o uvjetima kojima moraju udovoljavati objekti i subjekti u poslovanju s hranom za životinje",
+   "title": "Pravilnik o uvjetima kojima moraju udovoljavati objekti i subjekti u poslovanju s hranom za životinje",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/96/1887",
+   "versions": [
+    {
+     "from": "2005-08-12",
+     "units": 29,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_08_96_1887.html",
+     "sha256": "83d43fd589498c186884c8a938421a54197a317ddeb0f85bd78727130772bfef"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2005-1895",
+   "path": "pravilnik/2005/1895",
+   "short": "Pravilnik o mjerilima za rad zemljišnoknjižnih službenika",
+   "title": "Pravilnik o mjerilima za rad zemljišnoknjižnih službenika",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/97/1895",
+   "versions": [
+    {
+     "from": "2005-08-16",
+     "units": 10,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_08_97_1895.html",
+     "sha256": "d09d86b133114aab3aef731d4f94306b277c0656807bf6cad51d0df406ad556b"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2005-19",
+   "path": "pravilnik/2005/19",
+   "short": "Pravilnik o izmjenama i dopunama Pravilnika o temeljnim zahtjevima o kakvoći poljoprivrednoga sadnog materijala, načinu pakiranja, plombiranja, deklariranja i uvjetima držanja sadnog materijala",
+   "title": "Pravilnik o izmjenama i dopunama Pravilnika o temeljnim zahtjevima o kakvoći poljoprivrednoga sadnog materijala, načinu pakiranja, plombiranja, deklariranja i uvjetima držanja sadnog materijala",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/2/19",
+   "versions": [
+    {
+     "from": "2005-01-04",
+     "units": 11,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_01_2_19.html",
+     "sha256": "67adc657ef452ebd4e9d274c4e27909f29e399052b70cb2509b9b282f38b392d"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2005-1922",
+   "path": "pravilnik/2005/1922",
+   "short": "Pravilnik o izmjenama i dopunama Pravilnika o kontroli podataka o stažu osiguranja, osnovicama za obračun doprinosa i o uplaćenim doprinosima za ostvarivanje prava iz mirovinskog osiguranja",
+   "title": "Pravilnik o izmjenama i dopunama Pravilnika o kontroli podataka o stažu osiguranja, osnovicama za obračun doprinosa i o uplaćenim doprinosima za ostvarivanje prava iz mirovinskog osiguranja",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/98/1922",
+   "versions": [
+    {
+     "from": "2005-08-18",
+     "units": 18,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_08_98_1922.html",
+     "sha256": "098f1741e0e134e239a1aa6675b8273c017c6a032aa7be50e808888947b47a0a"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2005-1927",
+   "path": "pravilnik/2005/1927",
+   "short": "Pravilnik o izmjenama i dopunama Pravilnika o pristupu izdvojenoj lokalnoj petlji",
+   "title": "Pravilnik o izmjenama i dopunama Pravilnika o pristupu izdvojenoj lokalnoj petlji",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/99/1927",
+   "versions": [
+    {
+     "from": "2005-08-16",
+     "units": 11,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_08_99_1927.html",
+     "sha256": "f179fec06eba20c8b7fb7e141b6464844eb1d5d207d01207f4bf294fdeebe14d"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2005-1956",
+   "path": "pravilnik/2005/1956",
+   "short": "Pravilnik o izmjenama i dopunama Pravilnika o provedbi modela kapitalnih ulaganja u poljoprivredi, ribarstvu i šumarstvu",
+   "title": "Pravilnik o izmjenama i dopunama Pravilnika o provedbi modela kapitalnih ulaganja u poljoprivredi, ribarstvu i šumarstvu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/100/1956",
+   "versions": [
+    {
+     "from": "2005-08-18",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_08_100_1956.html",
+     "sha256": "e361ef8adadd6c0cfacbfeeddd681e4195801164ac5e70744ccd9e38402937e7"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2005-1959",
+   "path": "pravilnik/2005/1959",
+   "short": "Pravilnik o izmjeni Pravilnika o tehničkim i mjeriteljskim zahtjevima za ovlašćivanje servisa za pripremu mjernih transformatora za ovjeravanje",
+   "title": "Pravilnik o izmjeni Pravilnika o tehničkim i mjeriteljskim zahtjevima za ovlašćivanje servisa za pripremu mjernih transformatora za ovjeravanje",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/100/1959",
+   "versions": [
+    {
+     "from": "2005-08-26",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_08_100_1959.html",
+     "sha256": "698d1f8b699d1b6633e2605f95ab9ea0539c5513ad35d68707cccaa6a9930fa4"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2005-1984",
+   "path": "pravilnik/2005/1984",
+   "short": "Pravilnik o posebnim uvjetima za parkiranje vozila",
+   "title": "Pravilnik o posebnim uvjetima za parkiranje vozila",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/104/1984",
+   "versions": [
+    {
+     "from": "2005-09-08",
+     "units": 10,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_08_104_1984.html",
+     "sha256": "83dfad6cc9e0e55669d5c700e40dc5390045dd73143c84f7b1a146fb4335b3fe"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2005-2000",
+   "path": "pravilnik/2005/2000",
+   "short": "Pravilnik o jedinstvenom europskom broju za hitne službe",
+   "title": "Pravilnik o jedinstvenom europskom broju za hitne službe",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/108/2000",
+   "versions": [
+    {
+     "from": "2005-09-20",
+     "units": 13,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_09_108_2000.html",
+     "sha256": "fb729d28368cbbef420375cddb0226bf926d7638f04372916af46b2c35e84aed"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2005-2001",
+   "path": "pravilnik/2005/2001",
+   "short": "Pravilnik o tehničkom održavanju unutarnjih plovnih putova i objekata sigurnosti plovidbe",
+   "title": "Pravilnik o tehničkom održavanju unutarnjih plovnih putova i objekata sigurnosti plovidbe",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/108/2001",
+   "versions": [
+    {
+     "from": "2005-09-12",
+     "units": 50,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_09_108_2001.html",
+     "sha256": "32307f3e5f7b80532370c2d931e7c642e967f426ffce8c7dcfa6b58747b7ecfa"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2005-2030",
+   "path": "pravilnik/2005/2030",
+   "short": "Pravilnik o dopunama Pravilnika o izradi procjene ugroženosti od požara i tehnološke eksplozije",
+   "title": "Pravilnik o dopunama Pravilnika o izradi procjene ugroženosti od požara i tehnološke eksplozije",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/110/2030",
+   "versions": [
+    {
+     "from": "2005-09-27",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_09_110_2030.html",
+     "sha256": "e1d55f8cc7aa1b994a25c7cd2f317884f312dbd778d7c8cc74b1825739a89d61"
+    }
+   ]
+  },
+  {
    "slug": "naputak-2006-2821",
    "path": "naputak/2006/2821",
    "short": "Naputak za provedbu prava članova obitelji zatočenog ili nestalog pripadnika Hrvatskog vijeća obrane i provedbu prava iz članka 6. Ugovora između Republike Hrvatske i Bosne i Hercegovine o suradnji na području prava stradalnika rata u Bosni i Hercegovini koji su bili pripadnici Hrvatskog vijeća obrane i članova njihovih obitelji",
@@ -31498,6 +32923,3081 @@
      "units": 3,
      "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2010_07_87_2455.html",
      "sha256": "fb13666554a5c6e2e298e61aa5878ec7f6df84ca7b51c1af5ff2766a428d5c13"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2010-2481",
+   "path": "odluka/2010/2481",
+   "short": "Odluka o izmjeni i dopuni Odluke o posebnim standardima i mjerilima njihove primjene u provođenju zdravstvene zaštite iz obveznog zdravstvenog osiguranja",
+   "title": "Odluka o izmjeni i dopuni Odluke o posebnim standardima i mjerilima njihove primjene u provođenju zdravstvene zaštite iz obveznog zdravstvenog osiguranja",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/88/2481",
+   "versions": [
+    {
+     "from": "2010-08-01",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2010_07_88_2481.html",
+     "sha256": "51f234d74efadd2f284fda19269b43257f693705bd550d1572d5ebae591b87c6"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2010-2482",
+   "path": "odluka/2010/2482",
+   "short": "Odluka o izmjeni Odluke o vrsti i cijeni police dopunskog zdravstvenog osiguranja",
+   "title": "Odluka o izmjeni Odluke o vrsti i cijeni police dopunskog zdravstvenog osiguranja",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/88/2482",
+   "versions": [
+    {
+     "from": "2010-07-14",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2010_07_88_2482.html",
+     "sha256": "e863a260c579696dcac3ff4b7334b2606a5b8ed8c0c1a4c46428361826bae6bb"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2010-2493",
+   "path": "odluka/2010/2493",
+   "short": "Odluka o izmjeni Odluke o osnivanju Istražnog povjerenstva za utvrđivanje činjenica u vezi privatizacije INA- Industrija nafte d.d. te svih ugovora i dodataka ugovora između Vlade Republike Hrvatske i strateškog partnera Mol Hungarian Oil and Gas Plc.",
+   "title": "Odluka o izmjeni Odluke o osnivanju Istražnog povjerenstva za utvrđivanje činjenica u vezi privatizacije INA- Industrija nafte d.d. te svih ugovora i dodataka ugovora između Vlade Republike Hrvatske i strateškog partnera Mol Hungarian Oil and Gas Plc.",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/89/2493",
+   "versions": [
+    {
+     "from": "2010-07-09",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2010_07_89_2493.html",
+     "sha256": "bbd41fd44fd225bfc49f913991e361b1fa017bdf4cc7c77f9e083029c7acdeb9"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2010-25",
+   "path": "odluka/2010/25",
+   "short": "Odluka o izmjenama i dopunama Odluke o upravljanju rizicima",
+   "title": "Odluka o izmjenama i dopunama Odluke o upravljanju rizicima",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/2/25",
+   "versions": [
+    {
+     "from": "2010-03-31",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2010_01_2_25.html",
+     "sha256": "0c63df9e31c2c0033e55f80bb1c13dbb4b602cde4445620d28f465319b94eaad"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2010-2507",
+   "path": "odluka/2010/2507",
+   "short": "Odluka o visini naknade najma, zakupa, služnosti i građenja na javnom vodnom dobru",
+   "title": "Odluka o visini naknade najma, zakupa, služnosti i građenja na javnom vodnom dobru",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/89/2507",
+   "versions": [
+    {
+     "from": "2010-07-27",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2010_07_89_2507.html",
+     "sha256": "c9bcac6a17dd32005aedb1d3244bdedc7ffe8bd63f6766c9c80fb8a8b66de5f0"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2010-2508",
+   "path": "odluka/2010/2508",
+   "short": "Odluka o razvrstavanju jedinica lokalne i područne (regionalne) samouprave prema stupnju razvijenosti",
+   "title": "Odluka o razvrstavanju jedinica lokalne i područne (regionalne) samouprave prema stupnju razvijenosti",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/89/2508",
+   "versions": [
+    {
+     "from": "2011-01-01",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2010_07_89_2508.html",
+     "sha256": "576782ddaa08113b0e70e36ccea71fbd03b6fb3dd1e99e47a519d7a9776a74c8"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2010-2509",
+   "path": "odluka/2010/2509",
+   "short": "Odluka o davanju koncesije za posebnu uporabu pomorskog dobra u svrhu polaganja i održavanja podmorskog kabela 10(20) kV Runke - Pineta",
+   "title": "Odluka o davanju koncesije za posebnu uporabu pomorskog dobra u svrhu polaganja i održavanja podmorskog kabela 10(20) kV Runke - Pineta",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/89/2509",
+   "versions": [
+    {
+     "from": "2010-07-15",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2010_07_89_2509.html",
+     "sha256": "e01842578cccb4962fb2cb2713187bd0b25f0bd8e54e1697f78e37eb218451f8"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2010-2510",
+   "path": "odluka/2010/2510",
+   "short": "Odluka o objavljivanju Pravila o provedbi prava državnih potpora od strane nacionalnih sudova",
+   "title": "Odluka o objavljivanju Pravila o provedbi prava državnih potpora od strane nacionalnih sudova",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/89/2510",
+   "versions": [
+    {
+     "from": "2010-07-19",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2010_07_89_2510.html",
+     "sha256": "21c5fc7dfc82a272f545d5bb0a39f0034ccb8d6ec3eb77f4e152d6239f4c6e47"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2010-2511",
+   "path": "odluka/2010/2511",
+   "short": "Odluka o provođenju mjera utvrđenih rezolucijama Vijeća sigurnosti Ujedinjenih naroda 1132 (1997) i 1171 (1998) u svezi sa sankcijama protiv Republike Sijera Leone",
+   "title": "Odluka o provođenju mjera utvrđenih rezolucijama Vijeća sigurnosti Ujedinjenih naroda 1132 (1997) i 1171 (1998) u svezi sa sankcijama protiv Republike Sijera Leone",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/89/2511",
+   "versions": [
+    {
+     "from": "2010-07-19",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2010_07_89_2511.html",
+     "sha256": "d693606a190f944480e8e882af9ada533ed5f9c30852fa07777418d749bd272d"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2010-2512",
+   "path": "odluka/2010/2512",
+   "short": "Odluka o provođenju mjera utvrđenih rezolucijama Vijeća sigurnosti Ujedinjenih naroda 1521 (2003), 1532 (2004), 1683 (2006), 1731 (2006), 1854 (2008) i 1903 (2009) u svezi sa sankcijama protiv Republike Liberije",
+   "title": "Odluka o provođenju mjera utvrđenih rezolucijama Vijeća sigurnosti Ujedinjenih naroda 1521 (2003), 1532 (2004), 1683 (2006), 1731 (2006), 1854 (2008) i 1903 (2009) u svezi sa sankcijama protiv Republike Liberije",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/89/2512",
+   "versions": [
+    {
+     "from": "2010-07-19",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2010_07_89_2512.html",
+     "sha256": "e9beb00bab4169c1e6ec4da04d505df1e930ccbafe2cb2a4ffa0e6be8af6a76e"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2010-2513",
+   "path": "odluka/2010/2513",
+   "short": "Odluka o provođenju mjera utvrđenih rezolucijama Vijeća sigurnosti Ujedinjenih naroda 661 (1990), 687 (1991), 707 (1991), 1483 (2003), 1518 (2003), 1546 (2004) u svezi sa sankcijama protiv Republike Iraka",
+   "title": "Odluka o provođenju mjera utvrđenih rezolucijama Vijeća sigurnosti Ujedinjenih naroda 661 (1990), 687 (1991), 707 (1991), 1483 (2003), 1518 (2003), 1546 (2004) u svezi sa sankcijama protiv Republike Iraka",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/89/2513",
+   "versions": [
+    {
+     "from": "2010-07-19",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2010_07_89_2513.html",
+     "sha256": "4772d60fe11d06f683b73142953a9c4603ce68ff3ee2fedef8ea448a76929f80"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2010-2514",
+   "path": "odluka/2010/2514",
+   "short": "Odluka o provođenju mjera utvrđenih rezolucijama Vijeća sigurnosti Ujedinjenih naroda 733 (1992), 751 (1992), 1356 (2001), 1725 (2006), 1744 (2007), 1772 (2007), 1844 (2008), 1846 (2008), 1851 (2008) i 1897 (2009) u svezi sa sankcijama protiv Republike Somalije",
+   "title": "Odluka o provođenju mjera utvrđenih rezolucijama Vijeća sigurnosti Ujedinjenih naroda 733 (1992), 751 (1992), 1356 (2001), 1725 (2006), 1744 (2007), 1772 (2007), 1844 (2008), 1846 (2008), 1851 (2008) i 1897 (2009) u svezi sa sankcijama protiv Republike Somalije",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/89/2514",
+   "versions": [
+    {
+     "from": "2010-07-19",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2010_07_89_2514.html",
+     "sha256": "722722c346960cef344ed62fd6c5c7ce5ba7628ff03028c3e86acfc176dc136f"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2010-2515",
+   "path": "odluka/2010/2515",
+   "short": "Odluka o provođenju mjera utvrđenih rezolucijom Vijeća sigurnosti Ujedinjenih naroda 1636 (2005) u svezi sa sankcijama protiv osoba koje povjerenstvo ili Vlada Libanonske Republike odrede kao sumnjive da su umiješane u planiranje, sponzoriranje, organizaciju ili počinjenje terorističkog bombaškog napada u Beirutu, Libanonska Republika, 14. veljače 2005.",
+   "title": "Odluka o provođenju mjera utvrđenih rezolucijom Vijeća sigurnosti Ujedinjenih naroda 1636 (2005) u svezi sa sankcijama protiv osoba koje povjerenstvo ili Vlada Libanonske Republike odrede kao sumnjive da su umiješane u planiranje, sponzoriranje, organizaciju ili počinjenje terorističkog bombaškog napada u Beirutu, Libanonska Republika, 14. veljače 2005.",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/89/2515",
+   "versions": [
+    {
+     "from": "2010-07-19",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2010_07_89_2515.html",
+     "sha256": "58375e32b498774717466df2184b1ba1c1e8cdacc9380c3b7eeb7a9dfed4def8"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2010-2516",
+   "path": "odluka/2010/2516",
+   "short": "Odluka o provođenju mjera utvrđenih rezolucijama Vijeća sigurnosti Ujedinjenih naroda 1267 (1999), 1333 (2000), 1363 (2001), 1373 (2001), 1390 (2002), 1452 (2002), 1455 (2003), 1526 (2004), 1617 (2005), 1735 (2006), 1822 (2008) i 1904 (2009) u svezi sa sankcijama protiv članova organizacije Al-qaide, Osame Bin Ladena, Talibana i drugih pojedinaca, skupina, gospodarskih subjekata i entiteta koji se s njima povezuju",
+   "title": "Odluka o provođenju mjera utvrđenih rezolucijama Vijeća sigurnosti Ujedinjenih naroda 1267 (1999), 1333 (2000), 1363 (2001), 1373 (2001), 1390 (2002), 1452 (2002), 1455 (2003), 1526 (2004), 1617 (2005), 1735 (2006), 1822 (2008) i 1904 (2009) u svezi sa sankcijama protiv članova organizacije Al-qaide, Osame Bin Ladena, Talibana i drugih pojedinaca, skupina, gospodarskih subjekata i entiteta koji se s njima povezuju",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/89/2516",
+   "versions": [
+    {
+     "from": "2010-07-19",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2010_07_89_2516.html",
+     "sha256": "5702833b36238e95a575fc158fda27d2b8f9d9bf3569c0653b4d5d9054a62397"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2010-2517",
+   "path": "odluka/2010/2517",
+   "short": "Odluka o provođenju mjera utvrđenih rezolucijama Vijeća sigurnosti Ujedinjenih naroda 1493 (2003), 1533 (2004), 1596 (2005), 1649 (2005), 1698 (2006), 1768 (2007), 1771 (2007), 1799 (2008), 1807 (2008) i 1857 (2008) u svezi sa sankcijama protiv Demokratske Republike Konga",
+   "title": "Odluka o provođenju mjera utvrđenih rezolucijama Vijeća sigurnosti Ujedinjenih naroda 1493 (2003), 1533 (2004), 1596 (2005), 1649 (2005), 1698 (2006), 1768 (2007), 1771 (2007), 1799 (2008), 1807 (2008) i 1857 (2008) u svezi sa sankcijama protiv Demokratske Republike Konga",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/89/2517",
+   "versions": [
+    {
+     "from": "2010-07-19",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2010_07_89_2517.html",
+     "sha256": "d5319fd5e91215b5c26ee62c1ad43ef994bf005a2d4f57df2d7262834eb4b305"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2010-2518",
+   "path": "odluka/2010/2518",
+   "short": "Odluka o provođenju mjera utvrđenih rezolucijama vijeća sigurnosti Ujedinjenih naroda 1572 (2004), 1584 (2005), 1643 (2005), 1727 (2006), 1893 (2009) u svezi sa sankcijama protiv Republike Cote D ivoire",
+   "title": "Odluka o provođenju mjera utvrđenih rezolucijama vijeća sigurnosti Ujedinjenih naroda 1572 (2004), 1584 (2005), 1643 (2005), 1727 (2006), 1893 (2009) u svezi sa sankcijama protiv Republike Cote D ivoire",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/89/2518",
+   "versions": [
+    {
+     "from": "2010-07-19",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2010_07_89_2518.html",
+     "sha256": "bfbc0ff58c5ae68e194e4ec687fd0f715615b90a33fdf1a38e15d103742f1ebe"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2010-2519",
+   "path": "odluka/2010/2519",
+   "short": "Odluka o izmjeni Odluke o osnivanju i zadaćama Nacionalnog odbora za odgoj i obrazovanje za ljudska prava i demokratsko građanstvo",
+   "title": "Odluka o izmjeni Odluke o osnivanju i zadaćama Nacionalnog odbora za odgoj i obrazovanje za ljudska prava i demokratsko građanstvo",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/89/2519",
+   "versions": [
+    {
+     "from": "2010-07-15",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2010_07_89_2519.html",
+     "sha256": "65abe52b48bb6c00c2e84701e532af5111254dc9a10be06bec759d13fb1f9584"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2010-2520",
+   "path": "odluka/2010/2520",
+   "short": "Odluka o izmjenama Odluke o davanju koncesije za posebnu uporabu pomorskog dobra u svrhu postavljanja podzemnog cjevovoda i izgradnje dijela ceste na dijelu katastarske čestice zemlje 10350 k.o. Omišalj",
+   "title": "Odluka o izmjenama Odluke o davanju koncesije za posebnu uporabu pomorskog dobra u svrhu postavljanja podzemnog cjevovoda i izgradnje dijela ceste na dijelu katastarske čestice zemlje 10350 k.o. Omišalj",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/89/2520",
+   "versions": [
+    {
+     "from": "2010-07-15",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2010_07_89_2520.html",
+     "sha256": "87cbce4ac2fd7183093f095276e5ca65b8fd75c05495d2b5da57d4873587b26b"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2010-2578",
+   "path": "odluka/2010/2578",
+   "short": "Odluka o zatvaranju za promet postojećeg željezničko-cestovnog prijelaza",
+   "title": "Odluka o zatvaranju za promet postojećeg željezničko-cestovnog prijelaza",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/91/2578",
+   "versions": [
+    {
+     "from": "2010-07-23",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2010_07_91_2578.html",
+     "sha256": "4cbc36d68a608daed9b6105b84c535b5a72c7af5a3b8454b2f4751b6adad9ca0"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2010-2579",
+   "path": "odluka/2010/2579",
+   "short": "Odluka o zatvaranju za promet postojećeg željezničko-cestovnog prijelaza",
+   "title": "Odluka o zatvaranju za promet postojećeg željezničko-cestovnog prijelaza",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/91/2579",
+   "versions": [
+    {
+     "from": "2010-07-23",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2010_07_91_2579.html",
+     "sha256": "9955fcf0aef18adc9ce7639e56e3146ea26d3ae2a581002f3bd5aa5de479f517"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2010-2580",
+   "path": "odluka/2010/2580",
+   "short": "Odluka o zatvaranju za promet postojećeg željezničko-cestovnog prijelaza",
+   "title": "Odluka o zatvaranju za promet postojećeg željezničko-cestovnog prijelaza",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/91/2580",
+   "versions": [
+    {
+     "from": "2010-07-23",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2010_07_91_2580.html",
+     "sha256": "d56d9bb3c0686335ce17f8ecceecb1478faada02885f40f4164726b679d6819f"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2010-2597",
+   "path": "odluka/2010/2597",
+   "short": "Zakon o izmjenama i dopunama Zakona o sudjelovanju pripadnika Oružanih snaga Republike Hrvatske, policije, civilne zaštite te državnih službenika i namještenika u mirovnim operacijama i drugim aktivnostima u inozemstvu",
+   "title": "Zakon o izmjenama i dopunama Zakona o sudjelovanju pripadnika Oružanih snaga Republike Hrvatske, policije, civilne zaštite te državnih službenika i namještenika u mirovnim operacijama i drugim aktivnostima u inozemstvu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/92/2597",
+   "versions": [
+    {
+     "from": "2010-08-01",
+     "units": 11,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2010_07_92_2597.html",
+     "sha256": "0b9fa4966a52811c94afe8d5f74def126765995cbb7ddc03632c7634e088c327"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2010-26",
+   "path": "odluka/2010/26",
+   "short": "Odluka o izmjenama i dopunama Odluke o sustavu unutarnjih kontrola",
+   "title": "Odluka o izmjenama i dopunama Odluke o sustavu unutarnjih kontrola",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/2/26",
+   "versions": [
+    {
+     "from": "2010-03-31",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2010_01_2_26.html",
+     "sha256": "61df117941367edc433effaf79c1020e51d99fef6d6efa989785513d5f878681"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2010-2601",
+   "path": "odluka/2010/2601",
+   "short": "Odluka o izmjeni i dopuni Odluke o osnivanju Nacionalnog povjerenstva za upravljanje zračnim prostorom",
+   "title": "Odluka o izmjeni i dopuni Odluke o osnivanju Nacionalnog povjerenstva za upravljanje zračnim prostorom",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/93/2601",
+   "versions": [
+    {
+     "from": "2010-07-15",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2010_07_93_2601.html",
+     "sha256": "68ec8b416ae39abe2edad94992f0996981c8219a754c59397824ee4b46a3f7a4"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2010-2619",
+   "path": "odluka/2010/2619",
+   "short": "Odluka o izmjeni i dopunama Odluke o dodjeli koncesije društvu Kustura d.o.o., Zagreb, za zahvaćanje pitke vode radi prodaje (stolne vode) na tržištu",
+   "title": "Odluka o izmjeni i dopunama Odluke o dodjeli koncesije društvu Kustura d.o.o., Zagreb, za zahvaćanje pitke vode radi prodaje (stolne vode) na tržištu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/94/2619",
+   "versions": [
+    {
+     "from": "2010-07-23",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2010_07_94_2619.html",
+     "sha256": "5c8a101ee901033e27232a10decfbe7ea6e5de6bdd616d6831f6d46c39b9ca63"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2010-2633",
+   "path": "odluka/2010/2633",
+   "short": "Odluka o sufinanciranju programa za održavanje zaposlenosti i poticanje zapošljavanja u zaštitnim radionicama za 2010. godinu",
+   "title": "Odluka o sufinanciranju programa za održavanje zaposlenosti i poticanje zapošljavanja u zaštitnim radionicama za 2010. godinu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/94/2633",
+   "versions": [
+    {
+     "from": "2010-07-30",
+     "units": 9,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2010_07_94_2633.html",
+     "sha256": "e66f911f44ee406176633dbdf9c9511db6335482a5ac63999e35056229b90b93"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2010-2638",
+   "path": "odluka/2010/2638",
+   "short": "Odluka o izmjeni Odluke o osnivanju Povjerenstva za praćenje provedbe mjera za suzbijanje korupcije",
+   "title": "Odluka o izmjeni Odluke o osnivanju Povjerenstva za praćenje provedbe mjera za suzbijanje korupcije",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/95/2638",
+   "versions": [
+    {
+     "from": "2010-07-08",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2010_08_95_2638.html",
+     "sha256": "ab65d0d241b6fcd27d8923bb0c878b1b2d312b8bfd9d162f0631177147ec4a14"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2010-2639",
+   "path": "odluka/2010/2639",
+   "short": "Odluka o izmjeni Odluke o osnivanju Povjerenstva za imovinu Vlade Republike Hrvatske i povjeravanja tom Povjerenstvu poslova upravljanja i raspolaganja imovinom Republike Hrvatske",
+   "title": "Odluka o izmjeni Odluke o osnivanju Povjerenstva za imovinu Vlade Republike Hrvatske i povjeravanja tom Povjerenstvu poslova upravljanja i raspolaganja imovinom Republike Hrvatske",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/95/2639",
+   "versions": [
+    {
+     "from": "2010-07-08",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2010_08_95_2639.html",
+     "sha256": "6d586db2f99e8573560c36e6d0a6ebe7d642cbcdd3564d2e86a7ca8a98a781af"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2010-2640",
+   "path": "odluka/2010/2640",
+   "short": "Odluka o izmjeni Odluke o osnivanju Povjerenstva za izbor kandidata Republike Hrvatske za suca pri Europskom sudu za ljudska prava",
+   "title": "Odluka o izmjeni Odluke o osnivanju Povjerenstva za izbor kandidata Republike Hrvatske za suca pri Europskom sudu za ljudska prava",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/95/2640",
+   "versions": [
+    {
+     "from": "2010-07-23",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2010_08_95_2640.html",
+     "sha256": "4b3cdbb9d59449f92acfd7bcf8caa60011233d368f59d60643f01a9e02cab0e3"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2010-2656",
+   "path": "odluka/2010/2656",
+   "short": "Odluka o troškovima obavljanja tehničkog pregleda željezničkih vozila",
+   "title": "Odluka o troškovima obavljanja tehničkog pregleda željezničkih vozila",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/95/2656",
+   "versions": [
+    {
+     "from": "2010-08-04",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2010_08_95_2656.html",
+     "sha256": "d05e62cea54f65d847558e23ef0202af302786920b0d0617625ef5485af9e4f8"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2010-2693",
+   "path": "odluka/2010/2693",
+   "short": "Odluka o osnivanju Radne skupine za izradu prijedloga Nacionalnog akcijskog plana provedbe rezolucija Vijeća sigurnosti Ujedinjenih naroda: 1325 (2000) o položaju žena, miru i sigurnosti, 1820 (2008) o uklanjanju spolno utemeljenog nasilja u oružanim sukobima, 1888 (2009) o borbi protiv seksualnog nasilja nad ženama i djecom u oružanim sukobima i 1889 (2009) o ulozi žena i njihovim potrebama u izgradnji mira nakon oružanih sukoba",
+   "title": "Odluka o osnivanju Radne skupine za izradu prijedloga Nacionalnog akcijskog plana provedbe rezolucija Vijeća sigurnosti Ujedinjenih naroda: 1325 (2000) o položaju žena, miru i sigurnosti, 1820 (2008) o uklanjanju spolno utemeljenog nasilja u oružanim sukobima, 1888 (2009) o borbi protiv seksualnog nasilja nad ženama i djecom u oružanim sukobima i 1889 (2009) o ulozi žena i njihovim potrebama u izgradnji mira nakon oružanih sukoba",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/96/2693",
+   "versions": [
+    {
+     "from": "2010-08-04",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2010_08_96_2693.html",
+     "sha256": "b2a2af3ba3135ca26bcadfd898fcfb992471c9176b7a71860e7c87c9807695a2"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2010-2694",
+   "path": "odluka/2010/2694",
+   "short": "Odluka o ukidanju članka 5., članka 5.a stavka 2. i članka 8. Pravilnika o obavljanju podvodnih aktivnosti",
+   "title": "Odluka o ukidanju članka 5., članka 5.a stavka 2. i članka 8. Pravilnika o obavljanju podvodnih aktivnosti",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/96/2694",
+   "versions": [
+    {
+     "from": "2010-08-14",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2010_08_96_2694.html",
+     "sha256": "19ecb396ffdba97e0552b10f6637bc9aff85c8de8de44f3217373e00ece51324"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2010-2695",
+   "path": "odluka/2010/2695",
+   "short": "Odluka o davanju ovlaštenja Ministarstvu regionalnog razvoja, šumarstva i vodnoga gospodarstva za donošenje odluka o pravu najma, zakupa, služnosti i građenja na javnom vodnom dobru",
+   "title": "Odluka o davanju ovlaštenja Ministarstvu regionalnog razvoja, šumarstva i vodnoga gospodarstva za donošenje odluka o pravu najma, zakupa, služnosti i građenja na javnom vodnom dobru",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/96/2695",
+   "versions": [
+    {
+     "from": "2010-08-04",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2010_08_96_2695.html",
+     "sha256": "6a900adda4ce25f2cdfc55c4dbdbe70fdb3fb8a49bbe1260a0a6b83e1b6847c7"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2010-2696",
+   "path": "odluka/2010/2696",
+   "short": "Odluka o davanju suglasnosti na izmjene Statuta Hrvatskog zavoda za norme",
+   "title": "Odluka o davanju suglasnosti na izmjene Statuta Hrvatskog zavoda za norme",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/96/2696",
+   "versions": [
+    {
+     "from": "2010-08-04",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2010_08_96_2696.html",
+     "sha256": "32126d0ca0fe599b78da563eca1a278b748a521a537de213d7ff222a592d4547"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2010-2698",
+   "path": "odluka/2010/2698",
+   "short": "Odluka o broju priređivača kojima se može dati pravo priređivanja igara na sreću u casinima na području Republike Hrvatske",
+   "title": "Odluka o broju priređivača kojima se može dati pravo priređivanja igara na sreću u casinima na području Republike Hrvatske",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/96/2698",
+   "versions": [
+    {
+     "from": "2010-08-06",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2010_08_96_2698.html",
+     "sha256": "5a8f76ca3297b5ea27751897aae9e0ae05cc7c0b003722b470fa93df26d1f9e5"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2010-2699",
+   "path": "odluka/2010/2699",
+   "short": "Odluka o broju priređivača kojima se može dati pravo priređivanja igara na sreću na automatima na području Republike Hrvatske",
+   "title": "Odluka o broju priređivača kojima se može dati pravo priređivanja igara na sreću na automatima na području Republike Hrvatske",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/96/2699",
+   "versions": [
+    {
+     "from": "2010-08-06",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2010_08_96_2699.html",
+     "sha256": "e544bf7bfd082fde0eb5886028cbf2f93cf1e62648ca0f4b8a3ea10a565d8bf7"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2010-27",
+   "path": "odluka/2010/27",
+   "short": "Odluka o izmjenama i dopunama Odluke o postupku procjenjivanja adekvatnosti internoga kapitala kreditne institucije",
+   "title": "Odluka o izmjenama i dopunama Odluke o postupku procjenjivanja adekvatnosti internoga kapitala kreditne institucije",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/2/27",
+   "versions": [
+    {
+     "from": "2010-03-31",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2010_01_2_27.html",
+     "sha256": "4acd5a3053dc2a975791703d81a5d861089196848a7a8ef94e70a75d3e33e08d"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2010-2700",
+   "path": "odluka/2010/2700",
+   "short": "Odluka o broju priređivača kojima se može dati pravo priređivanja igara klađenja na području Republike Hrvatske",
+   "title": "Odluka o broju priređivača kojima se može dati pravo priređivanja igara klađenja na području Republike Hrvatske",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/96/2700",
+   "versions": [
+    {
+     "from": "2010-08-06",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2010_08_96_2700.html",
+     "sha256": "fbee70893487aa67c103f2d5902c9c69dbe7ac12624097fff8537fe8f336f3d8"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2010-2701",
+   "path": "odluka/2010/2701",
+   "short": "Odluka o raspodjeli sredstava za financiranje obrazovnih, kulturnih, znanstvenih i zdravstvenih programa i projekata od interesa za hrvatski narod u Bosni i Hercegovini iz sredstava Državnog proračuna Republike Hrvatske za 2010. godinu",
+   "title": "Odluka o raspodjeli sredstava za financiranje obrazovnih, kulturnih, znanstvenih i zdravstvenih programa i projekata od interesa za hrvatski narod u Bosni i Hercegovini iz sredstava Državnog proračuna Republike Hrvatske za 2010. godinu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/96/2701",
+   "versions": [
+    {
+     "from": "2010-07-29",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2010_08_96_2701.html",
+     "sha256": "e2a03a3df4768d1c9854de0e598356bd80848100ef2f7e686ea7af93bda75c08"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2010-2702",
+   "path": "odluka/2010/2702",
+   "short": "Odluka o osnivanju Nacionalnog vijeća za elektroničko poslovanje",
+   "title": "Odluka o osnivanju Nacionalnog vijeća za elektroničko poslovanje",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/96/2702",
+   "versions": [
+    {
+     "from": "2010-08-04",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2010_08_96_2702.html",
+     "sha256": "570c9ae847ee7705f6613f4802f3f9c3c6d4ec4d40bf33c73385bcb113fe65fa"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2010-2703",
+   "path": "odluka/2010/2703",
+   "short": "Odluka o dopuni Odluke o određivanju godišnje količine tekućih naftnih goriva koja se smije stavljati u promet na domaćem tržištu, a ne udovoljava graničnim vrijednostima i drugim značajkama kakvoće tekućih naftnih goriva",
+   "title": "Odluka o dopuni Odluke o određivanju godišnje količine tekućih naftnih goriva koja se smije stavljati u promet na domaćem tržištu, a ne udovoljava graničnim vrijednostima i drugim značajkama kakvoće tekućih naftnih goriva",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/96/2703",
+   "versions": [
+    {
+     "from": "2010-08-06",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2010_08_96_2703.html",
+     "sha256": "dece45072c21c45c1bed53f8fddb5e32996800d918ef6dd214d250c4789fd910"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2010-2704",
+   "path": "odluka/2010/2704",
+   "short": "Odluka o dopuni Odluke o koncesiji pomorskog dobra u svrhu gospodarskog korištenja luke posebne namjene - Brodogradilišta Kraljevica",
+   "title": "Odluka o dopuni Odluke o koncesiji pomorskog dobra u svrhu gospodarskog korištenja luke posebne namjene - Brodogradilišta Kraljevica",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/96/2704",
+   "versions": [
+    {
+     "from": "2010-07-23",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2010_08_96_2704.html",
+     "sha256": "b5bcc87739447c93c159a2457d60d5e80f0b25a4d3607851dff47b2c91bb6270"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2010-2705",
+   "path": "odluka/2010/2705",
+   "short": "Odluka o izmjenama i dopuni Odluke o koncesiji pomorskog dobra u svrhu gospodarskog korištenja luke posebne namjene - luke nautičkog turizma Zlatna Luka",
+   "title": "Odluka o izmjenama i dopuni Odluke o koncesiji pomorskog dobra u svrhu gospodarskog korištenja luke posebne namjene - luke nautičkog turizma Zlatna Luka",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/96/2705",
+   "versions": [
+    {
+     "from": "2010-07-29",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2010_08_96_2705.html",
+     "sha256": "f1856a679b8ea474837a3aa60a65dab2bd53f1051146f1cc6b52232160a01861"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2010-2731",
+   "path": "odluka/2010/2731",
+   "short": "Odluka o utvrđivanju iznosa naknade za izdavanje kartice goriva za poljoprivredu i ribarstvo",
+   "title": "Odluka o utvrđivanju iznosa naknade za izdavanje kartice goriva za poljoprivredu i ribarstvo",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/98/2731",
+   "versions": [
+    {
+     "from": "2010-08-13",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2010_08_98_2731.html",
+     "sha256": "30b1f2bbec7d2c6729568b98c94ed47d54fbe60a2103349be559d3e664554526"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2010-2793",
+   "path": "odluka/2010/2793",
+   "short": "Odluka o raspisivanju prijevremenih izbora za općinskog načelnika i zamjenika općinskog načelnika Općine Ribnik",
+   "title": "Odluka o raspisivanju prijevremenih izbora za općinskog načelnika i zamjenika općinskog načelnika Općine Ribnik",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/102/2793",
+   "versions": [
+    {
+     "from": "2010-08-27",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2010_08_102_2793.html",
+     "sha256": "91b54b5e1b160667e08cb926df31f1f9cefb38242c665a05598b923122e34f9f"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2010-2794",
+   "path": "odluka/2010/2794",
+   "short": "Odluka o utvrđivanju kriterija i normi razmjene podataka",
+   "title": "Odluka o utvrđivanju kriterija i normi razmjene podataka",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/102/2794",
+   "versions": [
+    {
+     "from": "2010-09-04",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2010_08_102_2794.html",
+     "sha256": "418c748383de55caa187e501ec0daf832a276cf2044638cae8ecc3270c12fffa"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2010-28",
+   "path": "odluka/2010/28",
+   "short": "Odluka o izmjenama i dopunama Odluke o jamstvenom kapitalu kreditnih institucija",
+   "title": "Odluka o izmjenama i dopunama Odluke o jamstvenom kapitalu kreditnih institucija",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/2/28",
+   "versions": [
+    {
+     "from": "2010-03-31",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2010_01_2_28.html",
+     "sha256": "2dd491a941277b86aa0c00ffd2f30c3e364e07d0474e15ab8a464c880cc9e694"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2010-2876",
+   "path": "odluka/2010/2876",
+   "short": "Odluka o izmjenama i dopunama Odluke o izmjenama uvjeta kredita odobrenih od strane Ministarstva poljoprivrede, šumarstva i vodnoga gospodarstva",
+   "title": "Odluka o izmjenama i dopunama Odluke o izmjenama uvjeta kredita odobrenih od strane Ministarstva poljoprivrede, šumarstva i vodnoga gospodarstva",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/108/2876",
+   "versions": [
+    {
+     "from": "2010-09-09",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2010_09_108_2876.html",
+     "sha256": "41966c8457a6d999ac9859458cb1bae1e3a3dfce181ddeeef2406dfc9bf7c3f7"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2010-2881",
+   "path": "odluka/2010/2881",
+   "short": "Odluka o dopuni i izmjeni Odluke o ovlaštenju područnih ustrojstvenih jedinica Hrvatskog zavoda za mirovinsko osiguranje za rješavanje o pravima iz mirovinskog osiguranja primjenom međunarodnih ugovora",
+   "title": "Odluka o dopuni i izmjeni Odluke o ovlaštenju područnih ustrojstvenih jedinica Hrvatskog zavoda za mirovinsko osiguranje za rješavanje o pravima iz mirovinskog osiguranja primjenom međunarodnih ugovora",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/108/2881",
+   "versions": [
+    {
+     "from": "2010-09-23",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2010_09_108_2881.html",
+     "sha256": "e82bcfe1613f16e0192ba4fc0bb6c0b05e2e5119f4ee9729a024a8f5a122a8ad"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2010-2893",
+   "path": "odluka/2010/2893",
+   "short": "Odluka o oduzimanju čina oružanih snaga Republike Hrvatske",
+   "title": "Odluka o oduzimanju čina oružanih snaga Republike Hrvatske",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/109/2893",
+   "versions": [
+    {
+     "from": "2010-09-09",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2010_09_109_2893.html",
+     "sha256": "a72226a6fe1da1226de6ac68c2c55ba8ba8f905094dfceafcfcde0622354468e"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2010-2895",
+   "path": "odluka/2010/2895",
+   "short": "Odluka o prodaji stanova u vlasništvu Republike Hrvatske",
+   "title": "Odluka o prodaji stanova u vlasništvu Republike Hrvatske",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/109/2895",
+   "versions": [
+    {
+     "from": "2010-09-28",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2010_09_109_2895.html",
+     "sha256": "49a0b4354b56bd8a8cfb13a7d9afcdadd8f5b6e0270c425552760870fd7ec4e3"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2010-2896",
+   "path": "odluka/2010/2896",
+   "short": "Odluka o izmjenama i dopunama Odluke o prodaji stanova u vlasništvu Republike Hrvatske kojima upravlja Ministarstvo obrane",
+   "title": "Odluka o izmjenama i dopunama Odluke o prodaji stanova u vlasništvu Republike Hrvatske kojima upravlja Ministarstvo obrane",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/109/2896",
+   "versions": [
+    {
+     "from": "2010-09-28",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2010_09_109_2896.html",
+     "sha256": "8b13beaf3b379214f3e4f08cede278390ae49c5244de22867aa710a8a49cc4e7"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2010-2903",
+   "path": "odluka/2010/2903",
+   "short": "Odluka o osnivanju Trećeg vijeća Ustavnog suda Repub-like Hrvatske za odlučivanje o ustavnim tužbama",
+   "title": "Odluka o osnivanju Trećeg vijeća Ustavnog suda Repub-like Hrvatske za odlučivanje o ustavnim tužbama",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/109/2903",
+   "versions": [
+    {
+     "from": "2010-09-15",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2010_09_109_2903.html",
+     "sha256": "e6d1b94f5df736465099b2b03c6b86a1e076aadc6ae26ea31c9114aecdbdd20a"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2010-2915",
+   "path": "odluka/2010/2915",
+   "short": "Odluka o izmjeni Odluke o utvrđivanju Popisa dijagnostičkih i terapijskih postupaka u zdravstvenim djelatnostima - vremenski i kadrovski normativi",
+   "title": "Odluka o izmjeni Odluke o utvrđivanju Popisa dijagnostičkih i terapijskih postupaka u zdravstvenim djelatnostima - vremenski i kadrovski normativi",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/110/2915",
+   "versions": [
+    {
+     "from": "2010-09-22",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2010_09_110_2915.html",
+     "sha256": "cc17ca0ac6c599a4a1961bdf50d26d22a2109860690f6b8f8420fedec3fc2fb6"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2010-2916",
+   "path": "odluka/2010/2916",
+   "short": "Odluka Agencije za elektroničke medije, klasa: 612-12/10-02/0017 od 7. rujna 2010.",
+   "title": "Odluka Agencije za elektroničke medije, klasa: 612-12/10-02/0017 od 7. rujna 2010.",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/110/2916",
+   "versions": [
+    {
+     "from": "2010-09-07",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2010_09_110_2916.html",
+     "sha256": "8e53cbdf1573577a6a0f9a358ab3cd59d76fe4c89081f3d9539a8279a1db5fdd"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2010-2917",
+   "path": "odluka/2010/2917",
+   "short": "Odluka Agencije za elektroničke medije, klasa: 612-12/10-02/0010 od 7. rujna 2010.",
+   "title": "Odluka Agencije za elektroničke medije, klasa: 612-12/10-02/0010 od 7. rujna 2010.",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/110/2917",
+   "versions": [
+    {
+     "from": "2010-09-07",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2010_09_110_2917.html",
+     "sha256": "25818713327a34cf724a28d7f3049689d6b15e27e5b95feca2abd12f19b43af0"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2010-2921",
+   "path": "odluka/2010/2921",
+   "short": "Odluka o davanju suglasnosti na prijenos koncesije pomorskog dobra u svrhu izgradnje i gospodarskog korištenja luke posebne namjene - luke nautičkog turizma u Novigradu",
+   "title": "Odluka o davanju suglasnosti na prijenos koncesije pomorskog dobra u svrhu izgradnje i gospodarskog korištenja luke posebne namjene - luke nautičkog turizma u Novigradu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/111/2921",
+   "versions": [
+    {
+     "from": "2010-09-16",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2010_09_111_2921.html",
+     "sha256": "c7e461f5d99fb50cb6caa28e95af4f284f1710eb6531e1c1f37ae4d1ed0e17f1"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2010-2963",
+   "path": "odluka/2010/2963",
+   "short": "Odluka o koncesiji u svrhu gospodarskog korištenja pomorskog dobra radi obavljanja djelatnosti uzgoja školjaka i bijele morske ribe u Limskom zaljevu",
+   "title": "Odluka o koncesiji u svrhu gospodarskog korištenja pomorskog dobra radi obavljanja djelatnosti uzgoja školjaka i bijele morske ribe u Limskom zaljevu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/112/2963",
+   "versions": [
+    {
+     "from": "2010-09-09",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2010_09_112_2963.html",
+     "sha256": "13c5eaa948bde8e1eb0356a3f0aaeb27259b052c3c6e209515cb26374e14ce26"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2010-2964",
+   "path": "odluka/2010/2964",
+   "short": "Odluka o dodjeli koncesije za crpljenje mineralnih voda društvu Podravka d.d., Koprivnica - Tvornici \"Studenac\", Lipik",
+   "title": "Odluka o dodjeli koncesije za crpljenje mineralnih voda društvu Podravka d.d., Koprivnica - Tvornici \"Studenac\", Lipik",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/112/2964",
+   "versions": [
+    {
+     "from": "2010-09-16",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2010_09_112_2964.html",
+     "sha256": "c4fc4cddfc59a7ead9bd2c0851587bf5c104588158d1a1ce901cb7dbb1e76808"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2010-2965",
+   "path": "odluka/2010/2965",
+   "short": "Odluka o donošenju Kodeksa korporativnog upravljanja trgovačkim društvima u kojima Republika Hrvatska ima dionice ili udjele",
+   "title": "Odluka o donošenju Kodeksa korporativnog upravljanja trgovačkim društvima u kojima Republika Hrvatska ima dionice ili udjele",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/112/2965",
+   "versions": [
+    {
+     "from": "2010-09-23",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2010_09_112_2965.html",
+     "sha256": "a2c4e85f592b37901c7bbb105e3e25469253aee56950911f816337a0681ac563"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2010-2966",
+   "path": "odluka/2010/2966",
+   "short": "Odluka o davanju prethodne suglasnosti na Izmjene i dopune Statuta Hrvatske agencije za poštu i elektroničke komunikacije",
+   "title": "Odluka o davanju prethodne suglasnosti na Izmjene i dopune Statuta Hrvatske agencije za poštu i elektroničke komunikacije",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/112/2966",
+   "versions": [
+    {
+     "from": "2010-09-16",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2010_09_112_2966.html",
+     "sha256": "088e453bd5650ae246e588567c7ca169b31b2613185ee22120499e8f16ee8adf"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2010-3056",
+   "path": "odluka/2010/3056",
+   "short": "Odluka o strateškim dokumentima i institucionalnom okviru za korištenje strukturnih instrumenata Europske unije u Republici Hrvatskoj",
+   "title": "Odluka o strateškim dokumentima i institucionalnom okviru za korištenje strukturnih instrumenata Europske unije u Republici Hrvatskoj",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/116/3056",
+   "versions": [
+    {
+     "from": "2010-10-21",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2010_10_116_3056.html",
+     "sha256": "48461c66278765c4e4a2e9d04b22c22f9bb40d056c151598e0cf3f96ae37f404"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2010-3057",
+   "path": "odluka/2010/3057",
+   "short": "Odluka o zaduženju Republike Hrvatske deviznim kreditom sindiciranim kod domaćih banaka, u iznosu od 750.000.000,00 eura",
+   "title": "Odluka o zaduženju Republike Hrvatske deviznim kreditom sindiciranim kod domaćih banaka, u iznosu od 750.000.000,00 eura",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/116/3057",
+   "versions": [
+    {
+     "from": "2010-10-06",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2010_10_116_3057.html",
+     "sha256": "986c7873e3940c7b1df3ee1a8431e279c92a1990207f5f55d0b5c5152a8aadb8"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2010-3062",
+   "path": "odluka/2010/3062",
+   "short": "Odluka o prestanku važenja Odluke o izvješćivanju o dužnicima kreditne institucije čiji dug prelazi određeni iznos",
+   "title": "Odluka o prestanku važenja Odluke o izvješćivanju o dužnicima kreditne institucije čiji dug prelazi određeni iznos",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/116/3062",
+   "versions": [
+    {
+     "from": "2010-10-13",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2010_10_116_3062.html",
+     "sha256": "4711a1e3975146cbcc07fadd318c79b9f064005432a49a065ea97ddc3d969d7d"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2010-3065",
+   "path": "odluka/2010/3065",
+   "short": "Odluka o osnivanju Konzulata Republike Hrvatske u Kanadi, sa sjedištem u St. Johnu",
+   "title": "Odluka o osnivanju Konzulata Republike Hrvatske u Kanadi, sa sjedištem u St. Johnu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/117/3065",
+   "versions": [
+    {
+     "from": "2010-10-05",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2010_10_117_3065.html",
+     "sha256": "45b0bb41a664b97cbc4ba3e2fdaf3e854c25381827adeb31905534126f818e3c"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2010-3066",
+   "path": "odluka/2010/3066",
+   "short": "Odluka o osnivanju Konzulata Republike Hrvatske u Republici Austriji, sa sjedištem u Linzu",
+   "title": "Odluka o osnivanju Konzulata Republike Hrvatske u Republici Austriji, sa sjedištem u Linzu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/117/3066",
+   "versions": [
+    {
+     "from": "2010-10-05",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2010_10_117_3066.html",
+     "sha256": "095ae5946cbb7cd222818ae0c25f07289c6a12c19f1733a7917947942d0e00b3"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2010-3068",
+   "path": "odluka/2010/3068",
+   "short": "Odluka o o davanju suglasnosti na prijenos koncesije na pomorskom dobru u svrhu gospodarskog korištenja pomorskog dobra radi obavljanja djelatnosti uzgoja školjaka na području posebnog rezervata Malostonskog zaljeva i Malog mora",
+   "title": "Odluka o o davanju suglasnosti na prijenos koncesije na pomorskom dobru u svrhu gospodarskog korištenja pomorskog dobra radi obavljanja djelatnosti uzgoja školjaka na području posebnog rezervata Malostonskog zaljeva i Malog mora",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/117/3068",
+   "versions": [
+    {
+     "from": "2010-10-06",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2010_10_117_3068.html",
+     "sha256": "a40c827f3b6ae7ca0649283900e303b1f2321837d9ee440e2e2028cbee5a7a64"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2010-3087",
+   "path": "odluka/2010/3087",
+   "short": "Odluka o izmjenama Odluke o minimalnim financijskim standardima za decentralizirane funkcije za zdravstvene ustanove u 2010. godini",
+   "title": "Odluka o izmjenama Odluke o minimalnim financijskim standardima za decentralizirane funkcije za zdravstvene ustanove u 2010. godini",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/118/3087",
+   "versions": [
+    {
+     "from": "2010-10-20",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2010_10_118_3087.html",
+     "sha256": "11707e3841b92e585db5cce2248ec800be94b25ed6a240855faa4c140052b098"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2010-3101",
+   "path": "odluka/2010/3101",
+   "short": "Odluka o izmjeni Odluke o osnivanju Nacionalnog odbora za suzbijanje trgovanja ljudima",
+   "title": "Odluka o izmjeni Odluke o osnivanju Nacionalnog odbora za suzbijanje trgovanja ljudima",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/119/3101",
+   "versions": [
+    {
+     "from": "2010-10-14",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2010_10_119_3101.html",
+     "sha256": "5cfa2811c43bea6ca36afdd339f47747a4ba1cd56c2e727c873586c81956d233"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2010-3102",
+   "path": "odluka/2010/3102",
+   "short": "Odluka o izmjeni Odluke o osnivanju Savjeta za mlade",
+   "title": "Odluka o izmjeni Odluke o osnivanju Savjeta za mlade",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/119/3102",
+   "versions": [
+    {
+     "from": "2010-10-14",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2010_10_119_3102.html",
+     "sha256": "cc314b997b42c16f00cc712182ad711a32e67c52bc89fe7c897724fb621f8468"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2010-3108",
+   "path": "odluka/2010/3108",
+   "short": "Odluka Hrvatske agencije za poštu i elektroničke komunikacije urbroj: 376-12-10-1 od 1. listopada 2010.",
+   "title": "Odluka Hrvatske agencije za poštu i elektroničke komunikacije urbroj: 376-12-10-1 od 1. listopada 2010.",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/119/3108",
+   "versions": [
+    {
+     "from": "2010-10-01",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2010_10_119_3108.html",
+     "sha256": "7886a7318cc55cb5044da34f37d7fe64c27cff3d5892a512d3cccf1cba823953"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2010-3113",
+   "path": "odluka/2010/3113",
+   "short": "Odluka o provođenju mjera utvrđenih rezolucijama Vijeća sigurnosti Ujedinjenih naroda 1696 (2006.), 1737 (2006.), 1747 (2007.), 1803 (2008.), 1835 (2008.), 1887 (2009.) I 1929 (2010.) u svezi sa sankcijama prema Islamskoj Republici Iran",
+   "title": "Odluka o provođenju mjera utvrđenih rezolucijama Vijeća sigurnosti Ujedinjenih naroda 1696 (2006.), 1737 (2006.), 1747 (2007.), 1803 (2008.), 1835 (2008.), 1887 (2009.) I 1929 (2010.) u svezi sa sankcijama prema Islamskoj Republici Iran",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/120/3113",
+   "versions": [
+    {
+     "from": "2010-10-27",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2010_10_120_3113.html",
+     "sha256": "393452c1983f63afe0ba8b83c734771f59e39eaf4040304412b42b904af0f9e5"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2010-3123",
+   "path": "odluka/2010/3123",
+   "short": "Odluka o korekciji prodajnih cijena prigodnoga zlatnoga i srebrnoga kovanog novca izdanja Hrvatske narodne banke",
+   "title": "Odluka o korekciji prodajnih cijena prigodnoga zlatnoga i srebrnoga kovanog novca izdanja Hrvatske narodne banke",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/120/3123",
+   "versions": [
+    {
+     "from": "2010-10-27",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2010_10_120_3123.html",
+     "sha256": "86693d5d5f2cc495fadb48f3114c8324478b290c113f47067f23fdf046e45bf5"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2010-3137",
+   "path": "odluka/2010/3137",
+   "short": "Odluka o objavljivanju tumačenja Odbora za tumačenje međunarodnog financijskog izvještavanja 19",
+   "title": "Odluka o objavljivanju tumačenja Odbora za tumačenje međunarodnog financijskog izvještavanja 19",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/120/3137",
+   "versions": [
+    {
+     "from": "2010-10-27",
+     "units": 6,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2010_10_120_3137.html",
+     "sha256": "c624cbd3c0e47094ec1b13a74926c6a1752bc4ec0687e17e10650eb770e02c28"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2010-3138",
+   "path": "odluka/2010/3138",
+   "short": "Odluka o izmjenama i dopunama Odluke o objavljivanju Međunarodnih standarda financijskog izvještavanja",
+   "title": "Odluka o izmjenama i dopunama Odluke o objavljivanju Međunarodnih standarda financijskog izvještavanja",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/120/3138",
+   "versions": [
+    {
+     "from": "2010-10-27",
+     "units": 11,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2010_10_120_3138.html",
+     "sha256": "8698efa53c6df2948b0c86c25acd68d1eeeb0be9446861f7d073cf5d8ec8878f"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2010-314",
+   "path": "odluka/2010/314",
+   "short": "Odluka o dopuni Odluke o visini naknada za poslove stručnog osposobljavanja i provjere znanja sigurnosnog savjetnika",
+   "title": "Odluka o dopuni Odluke o visini naknada za poslove stručnog osposobljavanja i provjere znanja sigurnosnog savjetnika",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/13/314",
+   "versions": [
+    {
+     "from": "2010-02-04",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2010_01_13_314.html",
+     "sha256": "ead9f13b1c39e3acc5401eb6e56fcd378d08afb480d53f7fff0c58bba39a8e27"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2010-3149",
+   "path": "odluka/2010/3149",
+   "short": "Odluka o osnivanju Konzulata Republike Hrvatske u Republici Bjelarus, sa sjedištem u Minsku",
+   "title": "Odluka o osnivanju Konzulata Republike Hrvatske u Republici Bjelarus, sa sjedištem u Minsku",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/121/3149",
+   "versions": [
+    {
+     "from": "2010-10-21",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2010_10_121_3149.html",
+     "sha256": "a7ccc4bec16a986e0b13db26de11106d4b9b9e749829540a3c7d69dd2e4d9055"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2010-3151",
+   "path": "odluka/2010/3151",
+   "short": "Odluka o zatvaranju za promet postojećeg željezničko-cestovnog prijelaza",
+   "title": "Odluka o zatvaranju za promet postojećeg željezničko-cestovnog prijelaza",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/121/3151",
+   "versions": [
+    {
+     "from": "2010-10-28",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2010_10_121_3151.html",
+     "sha256": "a1bb596dec279af9383d4301949d1377e476f1c860806064a6a47ab7fd810512"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2010-317",
+   "path": "odluka/2010/317",
+   "short": "Odluka o obliku i sadržaju obrazaca o medicinskom vještačenju u mirovinskom osiguranju",
+   "title": "Odluka o obliku i sadržaju obrazaca o medicinskom vještačenju u mirovinskom osiguranju",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/13/317",
+   "versions": [
+    {
+     "from": "2010-01-27",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2010_01_13_317.html",
+     "sha256": "291e91715627ea24799158cd833d5479c3228e92dc727626e81f3fe9c6c15f7a"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2010-3189",
+   "path": "odluka/2010/3189",
+   "short": "Odluka o raspisivanju prijevremenih izbora za općinskog načelnika i zamjenika općinskog načelnika Općine Pojezerje",
+   "title": "Odluka o raspisivanju prijevremenih izbora za općinskog načelnika i zamjenika općinskog načelnika Općine Pojezerje",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/123/3189",
+   "versions": [
+    {
+     "from": "2010-11-04",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2010_11_123_3189.html",
+     "sha256": "a13cddb08bf10a30661eeedaa7dfceeef5070cc57727ade44e4725b82cd2bf55"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2010-3224",
+   "path": "odluka/2010/3224",
+   "short": "Odluka o izmjenama Odluke o osnivanju Nacionalnog vijeća za zaštitu potrošača",
+   "title": "Odluka o izmjenama Odluke o osnivanju Nacionalnog vijeća za zaštitu potrošača",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/124/3224",
+   "versions": [
+    {
+     "from": "2010-10-28",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2010_11_124_3224.html",
+     "sha256": "5f7a8fcb71dfe815298e917b86d196af2c8176ddef0d9f6d55171e60e0675910"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2010-3234",
+   "path": "odluka/2010/3234",
+   "short": "Odluka o izmjeni Odluke o osnovama za sklapanje ugovora o provođenju zdravstvene zaštite iz obveznog zdravstvenog osiguranja",
+   "title": "Odluka o izmjeni Odluke o osnovama za sklapanje ugovora o provođenju zdravstvene zaštite iz obveznog zdravstvenog osiguranja",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/124/3234",
+   "versions": [
+    {
+     "from": "2010-11-16",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2010_11_124_3234.html",
+     "sha256": "9e1db3c36f720154de7efd7bb1a4b751204c125b6cb4b59bceb3f43d65d13a97"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2010-3253",
+   "path": "odluka/2010/3253",
+   "short": "Odluka Hrvatske agencije za poštu i elektroničke komunikacije, klasa: 344-01/10-01/989 od 27. listopada 2010.",
+   "title": "Odluka Hrvatske agencije za poštu i elektroničke komunikacije, klasa: 344-01/10-01/989 od 27. listopada 2010.",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/125/3253",
+   "versions": [
+    {
+     "from": "2010-10-27",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2010_11_125_3253.html",
+     "sha256": "1cdcac05b73a359d1d7cc39199967a0e82bb38e879c3eb7cba44efcf5d08218f"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2010-3258",
+   "path": "odluka/2010/3258",
+   "short": "Odluka o izmjeni Odluke o osnivanju Nacionalnog povjerenstva za upravljanje zračnim prostorom",
+   "title": "Odluka o izmjeni Odluke o osnivanju Nacionalnog povjerenstva za upravljanje zračnim prostorom",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/126/3258",
+   "versions": [
+    {
+     "from": "2010-09-23",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2010_11_126_3258.html",
+     "sha256": "660389f94f5e024f029aa7949c193939f179bea42332b9680c538e6f64444e99"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2010-3259",
+   "path": "odluka/2010/3259",
+   "short": "Odluka o izmjeni Odluke o osnivanju Povjerenstva za imovinu Vlade Republike Hrvatske i povjeravanja tom Povjerenstvu poslova upravljanja i raspolaganja imovinom Republike Hrvatske",
+   "title": "Odluka o izmjeni Odluke o osnivanju Povjerenstva za imovinu Vlade Republike Hrvatske i povjeravanja tom Povjerenstvu poslova upravljanja i raspolaganja imovinom Republike Hrvatske",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/126/3259",
+   "versions": [
+    {
+     "from": "2010-10-14",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2010_11_126_3259.html",
+     "sha256": "14f972234176f43ae89e452d1494ada401f4aeaff7c67bf61e5fdc0c5229c6b6"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2010-3260",
+   "path": "odluka/2010/3260",
+   "short": "Odluka o izmjenama Odluke o koncesiji pomorskog dobra u svrhu izgradnje i gospodarskog korištenja luke posebne namjene - luke nautičkog turizma Novi Vinodolski",
+   "title": "Odluka o izmjenama Odluke o koncesiji pomorskog dobra u svrhu izgradnje i gospodarskog korištenja luke posebne namjene - luke nautičkog turizma Novi Vinodolski",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/126/3260",
+   "versions": [
+    {
+     "from": "2010-09-09",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2010_11_126_3260.html",
+     "sha256": "324c91eb97d77535f6d19b0e205ed8bfe5651fea75f1366dc7c862e3421ad16b"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2010-3277",
+   "path": "odluka/2010/3277",
+   "short": "Odluka o zabrani ribolova tuna (Thunnus thynnus) u 2010. godini",
+   "title": "Odluka o zabrani ribolova tuna (Thunnus thynnus) u 2010. godini",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/126/3277",
+   "versions": [
+    {
+     "from": "2010-11-05",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2010_11_126_3277.html",
+     "sha256": "23997c1cf08738b4cfb0a916862ed355fb51a2f6414597084a2d971f5b6ad5df"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2010-328",
+   "path": "odluka/2010/328",
+   "short": "Odluka o zajamčenom prinosu obveznih mirovinskih fondova za 2009. godinu",
+   "title": "Odluka o zajamčenom prinosu obveznih mirovinskih fondova za 2009. godinu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/13/328",
+   "versions": [
+    {
+     "from": "2010-02-04",
+     "units": 6,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2010_01_13_328.html",
+     "sha256": "9c9a45d7579e0625113a8feecf08c9de10bf0af77fc73e5ae1874144e90368de"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2010-3359",
+   "path": "odluka/2010/3359",
+   "short": "Odluka o osnivanju Konzulata Republike Hrvatske u Republici Poljskoj, sa sjedištem u Bialystoku",
+   "title": "Odluka o osnivanju Konzulata Republike Hrvatske u Republici Poljskoj, sa sjedištem u Bialystoku",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/129/3359",
+   "versions": [
+    {
+     "from": "2010-11-10",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2010_11_129_3359.html",
+     "sha256": "b6077e36ad9f70b8795db2269d17745090826670c0334e60eb3014c8d7ea357c"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2010-3360",
+   "path": "odluka/2010/3360",
+   "short": "Odluka o osnivanju Konzulata Republike Hrvatske u Republici Poljskoj, sa sjedištem u Krakovu",
+   "title": "Odluka o osnivanju Konzulata Republike Hrvatske u Republici Poljskoj, sa sjedištem u Krakovu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/129/3360",
+   "versions": [
+    {
+     "from": "2010-11-10",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2010_11_129_3360.html",
+     "sha256": "15ea81a2814cab33309b1c4183edf8a81620c110bc83a60d51d6a6ee686f9208"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2010-3361",
+   "path": "odluka/2010/3361",
+   "short": "Odluka o osnivanju Konzulata Republike Hrvatske u Republici Poljskoj, sa sjedištem u Poznanu",
+   "title": "Odluka o osnivanju Konzulata Republike Hrvatske u Republici Poljskoj, sa sjedištem u Poznanu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/129/3361",
+   "versions": [
+    {
+     "from": "2010-11-10",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2010_11_129_3361.html",
+     "sha256": "4fafc096f48dd883abe8d90bdfdfe7a87021c30e9cc9d2f3922688def463526d"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2010-3392",
+   "path": "odluka/2010/3392",
+   "short": "Odluka o izmjenama i dopunama Odluke o prikupljanju podataka o prihodima i rashodima od razmjene usluga s inozemstvom",
+   "title": "Odluka o izmjenama i dopunama Odluke o prikupljanju podataka o prihodima i rashodima od razmjene usluga s inozemstvom",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/129/3392",
+   "versions": [
+    {
+     "from": "2010-11-27",
+     "units": 6,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2010_11_129_3392.html",
+     "sha256": "2edd0ccbb05d119f237b667fc5bab51e82f1037d29c2a0aec2c7c1b33bfb0816"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2010-3400",
+   "path": "odluka/2010/3400",
+   "short": "Odluka o izdavanju obveznica Republike Hrvatske uz plasman na domaćem tržištu kapitala u iznosu od 4.000.000.000,00 kuna",
+   "title": "Odluka o izdavanju obveznica Republike Hrvatske uz plasman na domaćem tržištu kapitala u iznosu od 4.000.000.000,00 kuna",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/130/3400",
+   "versions": [
+    {
+     "from": "2010-11-19",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2010_11_130_3400.html",
+     "sha256": "586d5fb6be7a7ae1f85860eaf1c9e4a3767c50b377e2775192fdb766ee2e5c9e"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2010-3412",
+   "path": "odluka/2010/3412",
+   "short": "Odluka o koncesiji pomorskog dobra u svrhu gospodarskog korištenja radi obavljanja industrijske djelatnosti proizvodnje tehničkih plinova, na području koje je utvrđeno kao lučko područje luke posebne namjene - Brodogradilišta Uljanik",
+   "title": "Odluka o koncesiji pomorskog dobra u svrhu gospodarskog korištenja radi obavljanja industrijske djelatnosti proizvodnje tehničkih plinova, na području koje je utvrđeno kao lučko područje luke posebne namjene - Brodogradilišta Uljanik",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/131/3412",
+   "versions": [
+    {
+     "from": "2010-11-19",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2010_11_131_3412.html",
+     "sha256": "cdca2e445fe47cb94babd1ca8accb34154c4d805668d10cd4dcd5743f32e7f4b"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2010-3413",
+   "path": "odluka/2010/3413",
+   "short": "Odluka o koncesiji pomorskog dobra u svrhu gospodarskog korištenja radi obavljanja industrijske djelatnosti proizvodnje električnih strojeva i uređaja u brodogradnji, na području koje je utvrđeno kao lučko područje luke posebne namjene - Brodogradilišta Uljanik",
+   "title": "Odluka o koncesiji pomorskog dobra u svrhu gospodarskog korištenja radi obavljanja industrijske djelatnosti proizvodnje električnih strojeva i uređaja u brodogradnji, na području koje je utvrđeno kao lučko područje luke posebne namjene - Brodogradilišta Uljanik",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/131/3413",
+   "versions": [
+    {
+     "from": "2010-11-19",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2010_11_131_3413.html",
+     "sha256": "239e0c02d80d04cb2c6134c257825226ca4e0e6fb4305e018bc12af451275d7e"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2010-3414",
+   "path": "odluka/2010/3414",
+   "short": "Odluka o koncesiji pomorskog dobra u svrhu gospodarskog korištenja luke posebne namjene - Brodogradilišta Uljanik",
+   "title": "Odluka o koncesiji pomorskog dobra u svrhu gospodarskog korištenja luke posebne namjene - Brodogradilišta Uljanik",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/131/3414",
+   "versions": [
+    {
+     "from": "2010-11-19",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2010_11_131_3414.html",
+     "sha256": "fff179f36583354924ca30fc187f11ccf5617d19af1c6311e85536be5595d4ed"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2010-3415",
+   "path": "odluka/2010/3415",
+   "short": "Odluka o izmjeni i dopuni Odluke o koncesiji pomorskog dobra u svrhu gospodarskog korištenja radi obavljanja djelatnosti uzgoja školjaka i riba",
+   "title": "Odluka o izmjeni i dopuni Odluke o koncesiji pomorskog dobra u svrhu gospodarskog korištenja radi obavljanja djelatnosti uzgoja školjaka i riba",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/131/3415",
+   "versions": [
+    {
+     "from": "2010-11-11",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2010_11_131_3415.html",
+     "sha256": "e8c677cb7a6022bb6e9f082d9f6ea8e0380cbccd0c16d27c99463b0cae1fb2e5"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2010-3422",
+   "path": "odluka/2010/3422",
+   "short": "Odluka o dodjeli Državne nagrade za volontiranje u 2010. godini",
+   "title": "Odluka o dodjeli Državne nagrade za volontiranje u 2010. godini",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/131/3422",
+   "versions": [
+    {
+     "from": "2010-11-24",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2010_11_131_3422.html",
+     "sha256": "332b234a3093cce0f5149a578b037cdde11d26b00e605c7ea90fbca2e47ae0e4"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2010-3464",
+   "path": "odluka/2010/3464",
+   "short": "Odluka o načinu obračuna, naplate i plaćanja kamata i naknada Hrvatske narodne banke",
+   "title": "Odluka o načinu obračuna, naplate i plaćanja kamata i naknada Hrvatske narodne banke",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/133/3464",
+   "versions": [
+    {
+     "from": "2010-12-09",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2010_12_133_3464.html",
+     "sha256": "cd34fa281d3d6a24ea1559e47eda176ef39240d1369aaaaedaa3efe2dce8194e"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2010-3465",
+   "path": "odluka/2010/3465",
+   "short": "Odluka o izmjenama Odluke o blagajničkim zapisima Hrvatske narodne banke",
+   "title": "Odluka o izmjenama Odluke o blagajničkim zapisima Hrvatske narodne banke",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/133/3465",
+   "versions": [
+    {
+     "from": "2010-12-09",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2010_12_133_3465.html",
+     "sha256": "29304daa688299cba76a95c2649196365f43d592b7afa99973a90409738df477"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2010-3466",
+   "path": "odluka/2010/3466",
+   "short": "Odluka o izmjeni Odluke o načinu i rokovima dostavljanja podataka o prometu na tržištu stranih sredstava plaćanja",
+   "title": "Odluka o izmjeni Odluke o načinu i rokovima dostavljanja podataka o prometu na tržištu stranih sredstava plaćanja",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/133/3466",
+   "versions": [
+    {
+     "from": "2010-12-09",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2010_12_133_3466.html",
+     "sha256": "3dba6ccff64621c6cc540c6f445e499ac13c6b6407201e1a0822712dff6e1fed"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2010-3467",
+   "path": "odluka/2010/3467",
+   "short": "Odluka o obveznoj pričuvi",
+   "title": "Odluka o obveznoj pričuvi",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/133/3467",
+   "versions": [
+    {
+     "from": "2011-01-12",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2010_12_133_3467.html",
+     "sha256": "c8565d241b328a3e6d8a2ccd23a1d0159c554e553cd773d04ba97916975c905b"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2010-3468",
+   "path": "odluka/2010/3468",
+   "short": "Odluka o izmjeni Odluke o kamatnim stopama i naknadama Hrvatske narodne banke",
+   "title": "Odluka o izmjeni Odluke o kamatnim stopama i naknadama Hrvatske narodne banke",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/133/3468",
+   "versions": [
+    {
+     "from": "2010-12-09",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2010_12_133_3468.html",
+     "sha256": "35cf98283324d51dc35ad561d60cb4f89cbac133ec6e64f6969f655673d7021b"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2010-3469",
+   "path": "odluka/2010/3469",
+   "short": "Odluka o izmjeni Odluke o polaganju novčanog depozita kod Hrvatske narodne banke",
+   "title": "Odluka o izmjeni Odluke o polaganju novčanog depozita kod Hrvatske narodne banke",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/133/3469",
+   "versions": [
+    {
+     "from": "2010-12-09",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2010_12_133_3469.html",
+     "sha256": "fcdd1a99527913c46b0fbbf5413e28ad2bc15287534fa4f658684969cb2a1c0d"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2010-3470",
+   "path": "odluka/2010/3470",
+   "short": "Odluka o izmjeni i dopuni Odluke o terminskom planu obračuna preko međubankovnih platnih sustava",
+   "title": "Odluka o izmjeni i dopuni Odluke o terminskom planu obračuna preko međubankovnih platnih sustava",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/133/3470",
+   "versions": [
+    {
+     "from": "2010-12-27",
+     "units": 6,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2010_12_133_3470.html",
+     "sha256": "a81e0c2609fb8b088592fb002785cc23ef8b0feef57e952f3c782e8f7e7d603a"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2010-3505",
+   "path": "odluka/2010/3505",
+   "short": "Odluka Agencije za elektroničke medije klasa: 612-12/10-02/0042 od 25. studenoga 2010.",
+   "title": "Odluka Agencije za elektroničke medije klasa: 612-12/10-02/0042 od 25. studenoga 2010.",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/135/3505",
+   "versions": [
+    {
+     "from": "2010-11-25",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2010_12_135_3505.html",
+     "sha256": "29fe68c59a5e332b2203fd845731a1e7569857b38f12872d37d1bf3379ec2d07"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2010-3506",
+   "path": "odluka/2010/3506",
+   "short": "Odluka Agencije za elektroničke medije klasa: 612-12/10-02/0051 od 25. studenoga 2010.",
+   "title": "Odluka Agencije za elektroničke medije klasa: 612-12/10-02/0051 od 25. studenoga 2010.",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/135/3506",
+   "versions": [
+    {
+     "from": "2010-11-25",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2010_12_135_3506.html",
+     "sha256": "452e5b1d0eeb637ac0e50de8753e4a739173b8481e7c2149bfad094f04c7403b"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2010-3507",
+   "path": "odluka/2010/3507",
+   "short": "Odluka o izmjeni Odluke o općinskim porezima Općine Popovača",
+   "title": "Odluka o izmjeni Odluke o općinskim porezima Općine Popovača",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/135/3507",
+   "versions": [
+    {
+     "from": "2010-12-06",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2010_12_135_3507.html",
+     "sha256": "268eae7958365bd880b7b5edb74c05729acaac42699144df9286ca35a43e4210"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2010-3518",
+   "path": "odluka/2010/3518",
+   "short": "Odluka o preraspodjeli sredstava planiranih u Državnom proračunu Republike Hrvatske za 2010. godinu",
+   "title": "Odluka o preraspodjeli sredstava planiranih u Državnom proračunu Republike Hrvatske za 2010. godinu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/137/3518",
+   "versions": [
+    {
+     "from": "2010-12-03",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2010_12_137_3518.html",
+     "sha256": "20e4d3979f55f7c180dd8cdf31b6f113fbb478cf1bf0370a9599cf5f847e4194"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2010-3519",
+   "path": "odluka/2010/3519",
+   "short": "Odluka o preraspodjeli sredstava planiranih u Financijskom planu Hrvatskih cesta za 2010. godinu",
+   "title": "Odluka o preraspodjeli sredstava planiranih u Financijskom planu Hrvatskih cesta za 2010. godinu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/137/3519",
+   "versions": [
+    {
+     "from": "2010-12-03",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2010_12_137_3519.html",
+     "sha256": "4b9f7d985af15d13006e3ac6e6a04ed323447c1eab33c30b37be4d9045de5700"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2010-3520",
+   "path": "odluka/2010/3520",
+   "short": "Odluka o preraspodjeli sredstava planiranih u financijskom planu Hrvatskih voda za 2010. godinu",
+   "title": "Odluka o preraspodjeli sredstava planiranih u financijskom planu Hrvatskih voda za 2010. godinu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/137/3520",
+   "versions": [
+    {
+     "from": "2010-12-03",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2010_12_137_3520.html",
+     "sha256": "ce538d8d3f4d2c1497495000e0e56a2ada6e816b93b70c320d562b955b3d9a60"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2010-3524",
+   "path": "odluka/2010/3524",
+   "short": "Odluka o prirezu porezu na dohodak Općine Podgorač",
+   "title": "Odluka o prirezu porezu na dohodak Općine Podgorač",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/137/3524",
+   "versions": [
+    {
+     "from": "2010-12-16",
+     "units": 10,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2010_12_137_3524.html",
+     "sha256": "3d6e2156c23ffd8752c83fa204adf47e68a446ebf94de726db0eb880189325bd"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2010-3525",
+   "path": "odluka/2010/3525",
+   "short": "Odluka o prirezu na dohodak Općine Lišane Ostrovičke",
+   "title": "Odluka o prirezu na dohodak Općine Lišane Ostrovičke",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/137/3525",
+   "versions": [
+    {
+     "from": "2010-12-16",
+     "units": 6,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2010_12_137_3525.html",
+     "sha256": "ed5582862cf50248b0fc663c2f9d563937c1b0fad9bae257adf0bd6466d1da11"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2010-3568",
+   "path": "odluka/2010/3568",
+   "short": "Državni proračun Republike Hrvatske za 2011. godinu i projekcije za 2012. i 2013. godinu",
+   "title": "Državni proračun Republike Hrvatske za 2011. godinu i projekcije za 2012. i 2013. godinu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/140/3568",
+   "versions": [
+    {
+     "from": "2011-01-01",
+     "units": 6,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2010_12_140_3568.html",
+     "sha256": "7acc70d53005326a73620a73d8285f0083303b8a25be167ea75af3c99ef3a7cb"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2010-3569",
+   "path": "odluka/2010/3569",
+   "short": "Odluka o davanju suglasnosti na Financijski plan Hrvatskih voda za 2011. i projekcije za 2012. i 2013. godinu",
+   "title": "Odluka o davanju suglasnosti na Financijski plan Hrvatskih voda za 2011. i projekcije za 2012. i 2013. godinu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/140/3569",
+   "versions": [
+    {
+     "from": "2010-12-14",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2010_12_140_3569.html",
+     "sha256": "15b873b1d990ac45f458c1b52fedcdc72d1d71bc1a9ec3ea4b9f18dcd8df3822"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2010-3570",
+   "path": "odluka/2010/3570",
+   "short": "Odluka o davanju suglasnosti na Financijski plan Hrvatskih cesta za 2011. i projekcije za 2012. i 2013. godinu",
+   "title": "Odluka o davanju suglasnosti na Financijski plan Hrvatskih cesta za 2011. i projekcije za 2012. i 2013. godinu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/140/3570",
+   "versions": [
+    {
+     "from": "2010-12-14",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2010_12_140_3570.html",
+     "sha256": "e80014e39ef0ccab649f2e265edfe3d6b6599aacafd74b651e2dffb2387fbdc3"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2010-3571",
+   "path": "odluka/2010/3571",
+   "short": "Odluka o davanju suglasnosti na Financijski plan Državne agencije za osiguranje štednih uloga i sanaciju banaka za 2011. i projekcije za 2012. i 2013. godinu",
+   "title": "Odluka o davanju suglasnosti na Financijski plan Državne agencije za osiguranje štednih uloga i sanaciju banaka za 2011. i projekcije za 2012. i 2013. godinu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/140/3571",
+   "versions": [
+    {
+     "from": "2010-12-14",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2010_12_140_3571.html",
+     "sha256": "eb7c2509e92646d9e8c6813ac6d71a3e9f7506d4f4ec898e8b932ba67c6b5c01"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2010-3572",
+   "path": "odluka/2010/3572",
+   "short": "Odluka o davanju suglasnosti na Financijski plan Hrvatskog fonda za privatizaciju za 2011. i projekcije za 2012. i 2013. godinu",
+   "title": "Odluka o davanju suglasnosti na Financijski plan Hrvatskog fonda za privatizaciju za 2011. i projekcije za 2012. i 2013. godinu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/140/3572",
+   "versions": [
+    {
+     "from": "2010-12-14",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2010_12_140_3572.html",
+     "sha256": "c7027e7eb2cfc3451459dc7129ed66f06b6561ac33cf5c4094c797478a39ea4a"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2010-3573",
+   "path": "odluka/2010/3573",
+   "short": "Odluka o davanju suglasnosti na Financijski plan Fonda za zaštitu okoliša i energetsku učinkovitost za 2011. i projekcije za 2012. i 2013. godinu",
+   "title": "Odluka o davanju suglasnosti na Financijski plan Fonda za zaštitu okoliša i energetsku učinkovitost za 2011. i projekcije za 2012. i 2013. godinu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/140/3573",
+   "versions": [
+    {
+     "from": "2010-12-14",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2010_12_140_3573.html",
+     "sha256": "9c64071dbfaeecc7cb1d5207d59ecc42286f274c5acbe9694d7c6079ebaa2fac"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2010-3575",
+   "path": "odluka/2010/3575",
+   "short": "Odluka o sudjelovanju pripadnika Oružanih snaga Republike Hrvatske u mirovnoj operaciji Europske unije \"EU NAVFOR Somalija - ATALANTA\"",
+   "title": "Odluka o sudjelovanju pripadnika Oružanih snaga Republike Hrvatske u mirovnoj operaciji Europske unije \"EU NAVFOR Somalija - ATALANTA\"",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/141/3575",
+   "versions": [
+    {
+     "from": "2010-12-15",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2010_12_141_3575.html",
+     "sha256": "154e56bd033d5c2c3ba57a76cfcd704ddaa7838cfafbe5bb5b29082037fe48d3"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2010-3576",
+   "path": "odluka/2010/3576",
+   "short": "Odluka o sudjelovanju pripadnika Oružanih snaga Republike Hrvatske u mirovnoj operaciji u Afganistanu (ISAF)",
+   "title": "Odluka o sudjelovanju pripadnika Oružanih snaga Republike Hrvatske u mirovnoj operaciji u Afganistanu (ISAF)",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/141/3576",
+   "versions": [
+    {
+     "from": "2010-12-15",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2010_12_141_3576.html",
+     "sha256": "64f240538b62ef77c6f9f4b4435ee9276659d0e91f33c92097dbd7421182d9b6"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2010-3587",
+   "path": "odluka/2010/3587",
+   "short": "Odluka o pravilima za statutarnu certifikaciju pomorskih brodova, Dio 4. - Stabilitet - Izmjene i dopune br. 1 (2011)",
+   "title": "Odluka o pravilima za statutarnu certifikaciju pomorskih brodova, Dio 4. - Stabilitet - Izmjene i dopune br. 1 (2011)",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/141/3587",
+   "versions": [
+    {
+     "from": "2011-01-01",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2010_12_141_3587.html",
+     "sha256": "c7f5c1e59eac9044b5a11be94d68886e500ec3a769320b5efee332aac6b873a0"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2010-3588",
+   "path": "odluka/2010/3588",
+   "short": "Odluka o pravilima za statutarnu certifikaciju pomorskih brodova, Dio 5. - pregrađivanje (2011)",
+   "title": "Odluka o pravilima za statutarnu certifikaciju pomorskih brodova, Dio 5. - pregrađivanje (2011)",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/141/3588",
+   "versions": [
+    {
+     "from": "2011-01-01",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2010_12_141_3588.html",
+     "sha256": "7fa9b9fe457eee9b0ef0d6a4b370b597ab89f6ad6b323a0e357e272b61db0ee5"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2010-3589",
+   "path": "odluka/2010/3589",
+   "short": "Odluka o pravilima za statutarnu certifikaciju pomorskih brodova, Dio 18. - sredstva za spašavanje - Izmjene i dopune br. 1 (2011)",
+   "title": "Odluka o pravilima za statutarnu certifikaciju pomorskih brodova, Dio 18. - sredstva za spašavanje - Izmjene i dopune br. 1 (2011)",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/141/3589",
+   "versions": [
+    {
+     "from": "2011-01-01",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2010_12_141_3589.html",
+     "sha256": "cb4c05b921d15d8d5f1d1c94f84fdee8a47ebf471590b99b97dcdad25e031cfd"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2010-3590",
+   "path": "odluka/2010/3590",
+   "short": "Odluka o pravilima za statutarnu certifikaciju pomorskih brodova, Dio 22. - sprečavanje onečišćenja (2011)",
+   "title": "Odluka o pravilima za statutarnu certifikaciju pomorskih brodova, Dio 22. - sprečavanje onečišćenja (2011)",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/141/3590",
+   "versions": [
+    {
+     "from": "2011-01-01",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2010_12_141_3590.html",
+     "sha256": "2525d022965c1ffd2ec9a28b7485b983768547b398f170a6b7d8ef9c65b36009"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2010-3609",
+   "path": "odluka/2010/3609",
+   "short": "Odluka o visini komorskog doprinosa",
+   "title": "Odluka o visini komorskog doprinosa",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/142/3609",
+   "versions": [
+    {
+     "from": "2010-12-10",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2010_12_142_3609.html",
+     "sha256": "0f3982c14bc68babfe5f2b2acc0bef28a8cc00eb77b2e60beb16a55635ef4c2a"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2010-3610",
+   "path": "odluka/2010/3610",
+   "short": "Odluka o izmjenama i dopunama Statuta Hrvatske poljoprivredne komore",
+   "title": "Odluka o izmjenama i dopunama Statuta Hrvatske poljoprivredne komore",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/142/3610",
+   "versions": [
+    {
+     "from": "2010-12-17",
+     "units": 34,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2010_12_142_3610.html",
+     "sha256": "68ab91660a90af4c148a16605fa7fbbca11c79a3582852c8539aa0dc2d894e87"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2010-3629",
+   "path": "odluka/2010/3629",
+   "short": "Odluka o Popisu pravnih osoba od posebnog državnog interesa",
+   "title": "Odluka o Popisu pravnih osoba od posebnog državnog interesa",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/144/3629",
+   "versions": [
+    {
+     "from": "2010-12-22",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2010_12_144_3629.html",
+     "sha256": "8aa3738d074bb15f2c3c8f94aa3c2eb4687cce97076a9a682d5e3367a7c41fc3"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2010-3660",
+   "path": "odluka/2010/3660",
+   "short": "Odluka Vijeća za elektroničke medije, klasa: 612-12/10-02/0032 od 9. prosinca 2010.",
+   "title": "Odluka Vijeća za elektroničke medije, klasa: 612-12/10-02/0032 od 9. prosinca 2010.",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/144/3660",
+   "versions": [
+    {
+     "from": "2010-12-09",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2010_12_144_3660.html",
+     "sha256": "552d0d83a56cbda60e54686ed01f1cab45c80c33477cf823d0666afbde0ff4a7"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2010-3661",
+   "path": "odluka/2010/3661",
+   "short": "Odluka Vijeća za elektroničke medije, klasa: 612-12/10-02/0034 od 9. prosinca 2010.",
+   "title": "Odluka Vijeća za elektroničke medije, klasa: 612-12/10-02/0034 od 9. prosinca 2010.",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/144/3661",
+   "versions": [
+    {
+     "from": "2010-12-09",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2010_12_144_3661.html",
+     "sha256": "fe9f77dc9eb5c623d7a13685984b97d723f2655910f7ecee0d5444d47acf24b0"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2010-3662",
+   "path": "odluka/2010/3662",
+   "short": "Odluka Vijeća za elektroničke medije, klasa: 612-12/10-02/0029 od 9. prosinca 2010.",
+   "title": "Odluka Vijeća za elektroničke medije, klasa: 612-12/10-02/0029 od 9. prosinca 2010.",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/144/3662",
+   "versions": [
+    {
+     "from": "2010-12-09",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2010_12_144_3662.html",
+     "sha256": "947ff18f18a88ab74a4cfe6c641a807a9ab3e68384e0fe67e147414806257537"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2010-3678",
+   "path": "odluka/2010/3678",
+   "short": "Odluka o osnivanju Konzulata Republike Hrvatske u Republici Turskoj, sa sjedištem u Antaliji",
+   "title": "Odluka o osnivanju Konzulata Republike Hrvatske u Republici Turskoj, sa sjedištem u Antaliji",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/145/3678",
+   "versions": [
+    {
+     "from": "2010-12-17",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2010_12_145_3678.html",
+     "sha256": "160e7f23574ec5e5604707c08893aefa03dca17d1facd3772840776dc0d4f43c"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2010-3696",
+   "path": "odluka/2010/3696",
+   "short": "Odluka o iznosu naknade za financiranje rada Hrvatske agencije za obvezne zalihe nafte i naftnih derivata i obveznih zaliha nafte i naftnih derivata za 2011. godinu",
+   "title": "Odluka o iznosu naknade za financiranje rada Hrvatske agencije za obvezne zalihe nafte i naftnih derivata i obveznih zaliha nafte i naftnih derivata za 2011. godinu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/146/3696",
+   "versions": [
+    {
+     "from": "2011-01-01",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2010_12_146_3696.html",
+     "sha256": "2465c39890af713baabe93a625d03ba5477bf3f51ed893147ddcb6725bab91ea"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2010-3698",
+   "path": "odluka/2010/3698",
+   "short": "Odluka o izmjenama i dopunama Odluke o rodovima, službama, strukama i njihovim specijalnostima",
+   "title": "Odluka o izmjenama i dopunama Odluke o rodovima, službama, strukama i njihovim specijalnostima",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/146/3698",
+   "versions": [
+    {
+     "from": "2011-01-04",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2010_12_146_3698.html",
+     "sha256": "f4cefa7066a752a085dbd772d53ffe3a38d46af0e66b3c910ce671c4af7a7ba9"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2010-371",
+   "path": "odluka/2010/371",
+   "short": "Odluka o određivanu parkirališnih mjesta i ograničenjima za prijevoz opasnih tvari javnim cestama",
+   "title": "Odluka o određivanu parkirališnih mjesta i ograničenjima za prijevoz opasnih tvari javnim cestama",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/15/371",
+   "versions": [
+    {
+     "from": "2010-02-09",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2010_02_15_371.html",
+     "sha256": "945df653c2e1494a329c741b046f28ebeb479fe17c94d9b1efb2022c1384fec8"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2010-3714",
+   "path": "odluka/2010/3714",
+   "short": "Odluka o izmjeni i dopuni Odluke o porezima Grada Slavonskog Broda",
+   "title": "Odluka o izmjeni i dopuni Odluke o porezima Grada Slavonskog Broda",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/146/3714",
+   "versions": [
+    {
+     "from": "2011-01-04",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2010_12_146_3714.html",
+     "sha256": "c56be06680a9fc16d18b26dba8e128bc7d2a67561176924c104fc900ca1e835e"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2010-3715",
+   "path": "odluka/2010/3715",
+   "short": "Odluka o izmjeni Odluke o prirezu poreza na dohodak Općine Dubrava",
+   "title": "Odluka o izmjeni Odluke o prirezu poreza na dohodak Općine Dubrava",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/146/3715",
+   "versions": [
+    {
+     "from": "2011-01-04",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2010_12_146_3715.html",
+     "sha256": "d64e2f750f5b4c765c0156325b20463883cad35631997c381ad3053e79b22c29"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2010-3716",
+   "path": "odluka/2010/3716",
+   "short": "Odluka o financiranju Hrvatske gospodarske komore u 2011. godini",
+   "title": "Odluka o financiranju Hrvatske gospodarske komore u 2011. godini",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/146/3716",
+   "versions": [
+    {
+     "from": "2010-12-27",
+     "units": 13,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2010_12_146_3716.html",
+     "sha256": "888e33cc9d634b0125fc1593d38e411a567e0155fc56060169895104c4c987fc"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2010-3724",
+   "path": "odluka/2010/3724",
+   "short": "Odluka o pozivu Drage Štambuka s dužnosti izvanrednog i opunomoćenog veleposlanika Republike Hrvatske u Japanu i Republici Koreji",
+   "title": "Odluka o pozivu Drage Štambuka s dužnosti izvanrednog i opunomoćenog veleposlanika Republike Hrvatske u Japanu i Republici Koreji",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/147/3724",
+   "versions": [
+    {
+     "from": "2010-12-31",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2010_12_147_3724.html",
+     "sha256": "8fdd44ea6042ed0a5e15c926174bb890b08d8bbae335aa9473e4a7b739fb0883"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2010-3738",
+   "path": "odluka/2010/3738",
+   "short": "Odluka o pokretanju postupka prisilne likvidacije Obrtničke štedne banke d.d. Zagreb",
+   "title": "Odluka o pokretanju postupka prisilne likvidacije Obrtničke štedne banke d.d. Zagreb",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/147/3738",
+   "versions": [
+    {
+     "from": "2010-12-22",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2010_12_147_3738.html",
+     "sha256": "253462e74ec7f4c7f6c57e60445bae3129507e727c379127ec7d0089d942ac70"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2010-3739",
+   "path": "odluka/2010/3739",
+   "short": "Odluka o izmjeni Odluke o kamatnim stopama i naknadama Hrvatske narodne banke",
+   "title": "Odluka o izmjeni Odluke o kamatnim stopama i naknadama Hrvatske narodne banke",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/147/3739",
+   "versions": [
+    {
+     "from": "2011-01-06",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2010_12_147_3739.html",
+     "sha256": "0f6cdacdae37cd3ab7a15d3f921f58e5c938f02104108093fefa1fe0625a981a"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2010-3741",
+   "path": "odluka/2010/3741",
+   "short": "Odluka o prirezu na dohodak Općine Hrašćina",
+   "title": "Odluka o prirezu na dohodak Općine Hrašćina",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/147/3741",
+   "versions": [
+    {
+     "from": "2011-01-06",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2010_12_147_3741.html",
+     "sha256": "8e3f27d69f1ff77eb4d2e1ba97faf1dc6f7dc4bc675df3fad110c8a733077a93"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2010-3742",
+   "path": "odluka/2010/3742",
+   "short": "Odluka o izmjeni i dopuni Odluke o porezima Grada Crikvenice",
+   "title": "Odluka o izmjeni i dopuni Odluke o porezima Grada Crikvenice",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/147/3742",
+   "versions": [
+    {
+     "from": "2011-01-01",
+     "units": 6,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2010_12_147_3742.html",
+     "sha256": "2053077ace0c7de6656f21cd8e77b59915ddb2c12f821cee7b89541c4a438449"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2010-3743",
+   "path": "odluka/2010/3743",
+   "short": "Odluka o izmjeni Odluka o porezima Grada Rijeke",
+   "title": "Odluka o izmjeni Odluka o porezima Grada Rijeke",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/147/3743",
+   "versions": [
+    {
+     "from": "2011-02-01",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2010_12_147_3743.html",
+     "sha256": "a43fae51fd92bea5cb8590057ae74df40960ddedc31ac7b5b7349dc225092160"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2010-3758",
+   "path": "odluka/2010/3758",
+   "short": "Odluka o provedbi posebne mjere za ublažavanje porasta cijena prirodnog plina u kućanstvima u 2011. godini",
+   "title": "Odluka o provedbi posebne mjere za ublažavanje porasta cijena prirodnog plina u kućanstvima u 2011. godini",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/148/3758",
+   "versions": [
+    {
+     "from": "2011-01-01",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2010_12_148_3758.html",
+     "sha256": "d3c51b2edf0a5ae22b4fb3f618d73c5eee34f220a1325c9f511f726defbf2e12"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2010-3759",
+   "path": "odluka/2010/3759",
+   "short": "Odluka o izmjeni Odluke o provedbi mjera za ublažavanje porasta cijena električne energije građanima i kućanstvima",
+   "title": "Odluka o izmjeni Odluke o provedbi mjera za ublažavanje porasta cijena električne energije građanima i kućanstvima",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/148/3759",
+   "versions": [
+    {
+     "from": "2011-01-01",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2010_12_148_3759.html",
+     "sha256": "e8c1935671a32e3cefd864337d2cf6f2aca9a0942da67ae1220e0711b07d3af5"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2010-3779",
+   "path": "odluka/2010/3779",
+   "short": "Odluka o prestanku važenja Odluke o prikupljanju podataka o međunarodnim transakcijama povezanim s komunikacijskim uslugama",
+   "title": "Odluka o prestanku važenja Odluke o prikupljanju podataka o međunarodnim transakcijama povezanim s komunikacijskim uslugama",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/148/3779",
+   "versions": [
+    {
+     "from": "2011-01-01",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2010_12_148_3779.html",
+     "sha256": "57aaf65a474534ec53770190117708809485ba0ba9bb5f5f9232b3deff6077fa"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2010-3780",
+   "path": "odluka/2010/3780",
+   "short": "Odluka o prikupljanju agregiranih podataka o ostvarenim platnim transakcijama s inozemstvom",
+   "title": "Odluka o prikupljanju agregiranih podataka o ostvarenim platnim transakcijama s inozemstvom",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/148/3780",
+   "versions": [
+    {
+     "from": "2011-01-01",
+     "units": 12,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2010_12_148_3780.html",
+     "sha256": "7998dba576e866092aa1695ace790f75c835a56fc92376d45b2b6fcb336c53dd"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2010-3788",
+   "path": "odluka/2010/3788",
+   "short": "Odluka o najvišem postotku naknade za upravljanje obveznom mirovinskom društvu za 2011. godinu",
+   "title": "Odluka o najvišem postotku naknade za upravljanje obveznom mirovinskom društvu za 2011. godinu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/148/3788",
+   "versions": [
+    {
+     "from": "2011-01-01",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2010_12_148_3788.html",
+     "sha256": "d01a48a234bb966cd1c572b64677b7a70ddb0d0fcd50e353dda0e958d48735b5"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2010-3789",
+   "path": "odluka/2010/3789",
+   "short": "Odluka o najvišem postotku naknade banke skrbnika za 2011. godinu",
+   "title": "Odluka o najvišem postotku naknade banke skrbnika za 2011. godinu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/148/3789",
+   "versions": [
+    {
+     "from": "2011-01-01",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2010_12_148_3789.html",
+     "sha256": "b72fdcb5d1fa3d0734d4f29c481434d33e384cfcc863a6e51bf756c7543eced6"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2010-410",
+   "path": "odluka/2010/410",
+   "short": "Odluka o razvrstavanju javnih cesta u državne ceste, županijske ceste i lokalne ceste",
+   "title": "Odluka o razvrstavanju javnih cesta u državne ceste, županijske ceste i lokalne ceste",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/17/410",
+   "versions": [
+    {
+     "from": "2010-02-05",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2010_02_17_410.html",
+     "sha256": "660b8bfe117b2dcaa2a10b88f97c69946e1088cad1fad286284fa5c87e98a8cb"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2010-420",
+   "path": "odluka/2010/420",
+   "short": "Odluka o izmjeni Odluke o obveznoj pričuvi",
+   "title": "Odluka o izmjeni Odluke o obveznoj pričuvi",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/18/420",
+   "versions": [
+    {
+     "from": "2010-02-10",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2010_02_18_420.html",
+     "sha256": "39da390b94cf01ee12976d435e364bcc2344501ac17015f3a0d3ab2457c1da8d"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2010-422",
+   "path": "odluka/2010/422",
+   "short": "Odluka o izmjenama i dopunama Odluke o objavljivanju Međunarodnih standarda financijskih izvještavanja",
+   "title": "Odluka o izmjenama i dopunama Odluke o objavljivanju Međunarodnih standarda financijskih izvještavanja",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/18/422",
+   "versions": [
+    {
+     "from": "2010-02-08",
+     "units": 10,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2010_02_18_422.html",
+     "sha256": "b8005a08da787e3913e47885ef551d2e792f6e7f3674ecfb1851025e8ca3cfcd"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2010-423",
+   "path": "odluka/2010/423",
+   "short": "Odluka o objavljivanju tumačenja Odbora za tumačenje Međunarodnog financijskog izvještavanja 17, 18",
+   "title": "Odluka o objavljivanju tumačenja Odbora za tumačenje Međunarodnog financijskog izvještavanja 17, 18",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/18/423",
+   "versions": [
+    {
+     "from": "2010-02-08",
+     "units": 6,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2010_02_18_423.html",
+     "sha256": "570a2e4148dda338bcb6e156798034ed71d3daa8e95db9d59a194b36d0127d23"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2010-451",
+   "path": "odluka/2010/451",
+   "short": "Odluka o kriterijima i mjerilima za utvrđivanje bilančnih prava za financiranje minimalnog financijskog standarda javnih potreba osnovnog školstva u 2010. godini",
+   "title": "Odluka o kriterijima i mjerilima za utvrđivanje bilančnih prava za financiranje minimalnog financijskog standarda javnih potreba osnovnog školstva u 2010. godini",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/19/451",
+   "versions": [
+    {
+     "from": "2010-02-10",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2010_02_19_451.html",
+     "sha256": "e1f13597f4f5e332b20e4c3e945a18f2e9a9bece42318a2b6ac9cbb6d4f6e4af"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2010-452",
+   "path": "odluka/2010/452",
+   "short": "Odluka o kriterijima i mjerilima za utvrđivanje bilančnih prava za financiranje minimalnog financijskog standarda javnih potreba srednjih škola i učeničkih domova u 2010. godini",
+   "title": "Odluka o kriterijima i mjerilima za utvrđivanje bilančnih prava za financiranje minimalnog financijskog standarda javnih potreba srednjih škola i učeničkih domova u 2010. godini",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/19/452",
+   "versions": [
+    {
+     "from": "2010-02-10",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2010_02_19_452.html",
+     "sha256": "0a40454bcdcf8a412238ed7ef8543a738e435c33b3f8a079fcfb1998e1be0695"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2010-453",
+   "path": "odluka/2010/453",
+   "short": "Odluka o minimalnim financijskim standardima za decentralizirane funkcije za zdravstvene ustanove u 2010. godini",
+   "title": "Odluka o minimalnim financijskim standardima za decentralizirane funkcije za zdravstvene ustanove u 2010. godini",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/19/453",
+   "versions": [
+    {
+     "from": "2010-02-10",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2010_02_19_453.html",
+     "sha256": "0483322f51dcb820b6a52fa3cc9a8e102763a82a50fdc1c804230b68d288042a"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2010-454",
+   "path": "odluka/2010/454",
+   "short": "Odluka o minimalnim financijskim standardima materijalnih i financijskih rashoda centara za socijalnu skrb i pomoći za podmirenje troškova stanovanja korisnicima koji se griju na drva u 2010. godini",
+   "title": "Odluka o minimalnim financijskim standardima materijalnih i financijskih rashoda centara za socijalnu skrb i pomoći za podmirenje troškova stanovanja korisnicima koji se griju na drva u 2010. godini",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/19/454",
+   "versions": [
+    {
+     "from": "2010-02-10",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2010_02_19_454.html",
+     "sha256": "34b16571818c9d471640be9f38321a9a1b59b587fc40a0f5124f736379f4c06c"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2010-455",
+   "path": "odluka/2010/455",
+   "short": "Odluka o minimalnim financijskim standardima za decentralizirano financiranje domova za starije i nemoćne osobe u 2010. godini",
+   "title": "Odluka o minimalnim financijskim standardima za decentralizirano financiranje domova za starije i nemoćne osobe u 2010. godini",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/19/455",
+   "versions": [
+    {
+     "from": "2010-02-10",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2010_02_19_455.html",
+     "sha256": "d51c6c4f1f6673dafd5724425909632dd8c43dbd97a9d0c187dfd7891628e2b2"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2010-456",
+   "path": "odluka/2010/456",
+   "short": "Odluka o minimalnim financijskim standardima za decentralizirano financiranje redovite djelatnosti javnih vatrogasnih postrojbi u 2010. godini",
+   "title": "Odluka o minimalnim financijskim standardima za decentralizirano financiranje redovite djelatnosti javnih vatrogasnih postrojbi u 2010. godini",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/19/456",
+   "versions": [
+    {
+     "from": "2010-02-10",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2010_02_19_456.html",
+     "sha256": "5b81e477a6a36078e7131c8635c2197e17ee31c474013ae42a78af49b75f0431"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2010-457",
+   "path": "odluka/2010/457",
+   "short": "Odluka o davanju prethodne suglasnosti na Izmjene i dopune Statuta Agencije za civilno zrakoplovstvo",
+   "title": "Odluka o davanju prethodne suglasnosti na Izmjene i dopune Statuta Agencije za civilno zrakoplovstvo",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/19/457",
+   "versions": [
+    {
+     "from": "2010-02-04",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2010_02_19_457.html",
+     "sha256": "f24aebe375301b16df636b275e5e812c15d43d0d4b8cbdf42cb4110caeca69d1"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2010-479",
+   "path": "odluka/2010/479",
+   "short": "Odluka o izdavanju Globalne obveznice Republike Hrvatske za naknadu imovine oduzete za vrijeme jugoslavenske komunističke vladavine",
+   "title": "Odluka o izdavanju Globalne obveznice Republike Hrvatske za naknadu imovine oduzete za vrijeme jugoslavenske komunističke vladavine",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/19/479",
+   "versions": [
+    {
+     "from": "2010-02-05",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2010_02_19_479.html",
+     "sha256": "b0b119d294adda8699d8f08270fbc97b1ccb5ee32fd70369350419e9799218e6"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2010-480",
+   "path": "odluka/2010/480",
+   "short": "Odluka o utvrđivanju popisa posebno skupih lijekova utvrđenih Odlukom o utvrđivanju Osnovne liste lijekova Hrvatskog zavoda za zdravstveno osiguranje",
+   "title": "Odluka o utvrđivanju popisa posebno skupih lijekova utvrđenih Odlukom o utvrđivanju Osnovne liste lijekova Hrvatskog zavoda za zdravstveno osiguranje",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/19/480",
+   "versions": [
+    {
+     "from": "2010-02-10",
+     "units": 12,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2010_02_19_480.html",
+     "sha256": "46c505364844a8f0d1065461988e28d9070530b2a19a9f547a2abeb895f0537b"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2010-481",
+   "path": "odluka/2010/481",
+   "short": "Odluka o izmjeni Odluke o utvrđivanju Dopunske liste lijekova Hrvatskog zavoda za zdravstveno osiguranje",
+   "title": "Odluka o izmjeni Odluke o utvrđivanju Dopunske liste lijekova Hrvatskog zavoda za zdravstveno osiguranje",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/19/481",
+   "versions": [
+    {
+     "from": "2010-02-10",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2010_02_19_481.html",
+     "sha256": "552c36a679b1859d57c06cefc7c3de01b36a11bb2e0bd133ec8fd7932c9ad313"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2010-588",
+   "path": "odluka/2010/588",
+   "short": "Odluka o usklađenju sredstava jamstvenog pologa za 2009. godinu",
+   "title": "Odluka o usklađenju sredstava jamstvenog pologa za 2009. godinu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/24/588",
+   "versions": [
+    {
+     "from": "2010-03-02",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2010_02_24_588.html",
+     "sha256": "310081ad4c35e5edbf2aa2ff74e42b48224af4b52132f4a91d2d42c3c4c457e7"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2010-642",
+   "path": "odluka/2010/642",
+   "short": "Odluka o najvišoj naknadi za pokrivanje troškova mirovinskog osiguravajućeg društva u 2010. godini iz doznaka obveznog mirovinskog fonda",
+   "title": "Odluka o najvišoj naknadi za pokrivanje troškova mirovinskog osiguravajućeg društva u 2010. godini iz doznaka obveznog mirovinskog fonda",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/26/642",
+   "versions": [
+    {
+     "from": "2010-03-06",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2010_02_26_642.html",
+     "sha256": "ff9d12d1de675a084493d62f4c1c3c523ca06bde1b6e8d659d75ff305660e248"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2010-655",
+   "path": "odluka/2010/655",
+   "short": "Odluka o isplati drugog dijela božićnice za 2009. godinu",
+   "title": "Odluka o isplati drugog dijela božićnice za 2009. godinu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/27/655",
+   "versions": [
+    {
+     "from": "2010-02-19",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2010_03_27_655.html",
+     "sha256": "14307259236bf5f9ef9c9d030587c3a639723bd91978dbd640740739f1570102"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2010-656",
+   "path": "odluka/2010/656",
+   "short": "Odluka o izmjenama Odluke o osnivanju Nacionalnog vijeća za zaštitu potrošača",
+   "title": "Odluka o izmjenama Odluke o osnivanju Nacionalnog vijeća za zaštitu potrošača",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/27/656",
+   "versions": [
+    {
+     "from": "2010-02-19",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2010_03_27_656.html",
+     "sha256": "fe900879769beaa116e22e9846a850bbb190bf6a98529efcd0f6a08b9b358039"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2010-657",
+   "path": "odluka/2010/657",
+   "short": "Odluka o izmjeni Odluke o davanju koncesije na pomorskom dobru u svrhu izgradnje i gospodarskog korištenja luke posebne namjene - luke nautičkog turizma Mandalina - Kuline",
+   "title": "Odluka o izmjeni Odluke o davanju koncesije na pomorskom dobru u svrhu izgradnje i gospodarskog korištenja luke posebne namjene - luke nautičkog turizma Mandalina - Kuline",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/27/657",
+   "versions": [
+    {
+     "from": "2010-02-19",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2010_03_27_657.html",
+     "sha256": "ff144742aaaf3fe81f171f2f443ec05d085983f7abf3e2946672c855f0e16933"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2010-662",
+   "path": "odluka/2010/662",
+   "short": "Odluka o izmjenama i dopunama Odluke o objavljivanju međunarodnih standarda financijskog izvještavanja",
+   "title": "Odluka o izmjenama i dopunama Odluke o objavljivanju međunarodnih standarda financijskog izvještavanja",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/27/662",
+   "versions": [
+    {
+     "from": "2010-03-02",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2010_03_27_662.html",
+     "sha256": "29bae334aa501452a68af52dba9ca1f395f61de0a79f9e6c1c940b83453c3215"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2010-683",
+   "path": "odluka/2010/683",
+   "short": "Odluka o nastavnom planu i programu češkog jezika za srednje škole s nastavom na češkom jeziku i pismu (model A)",
+   "title": "Odluka o nastavnom planu i programu češkog jezika za srednje škole s nastavom na češkom jeziku i pismu (model A)",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/29/683",
+   "versions": [
+    {
+     "from": "2010-01-19",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2010_03_29_683.html",
+     "sha256": "f181c81d84308278a2a5289788e8b331684f02270d3edef18ac94cbdf051b84c"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2010-684",
+   "path": "odluka/2010/684",
+   "short": "Odluka o nastavnom planu i programu češkog jezika za osnovne škole s nastavom na češkom jeziku i pismu (model A)",
+   "title": "Odluka o nastavnom planu i programu češkog jezika za osnovne škole s nastavom na češkom jeziku i pismu (model A)",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/29/684",
+   "versions": [
+    {
+     "from": "2010-01-19",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2010_03_29_684.html",
+     "sha256": "49d90dcca65d855691a0e66330708481bfd78e1ecf11b74fce3c79eb5dbd5655"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2010-685",
+   "path": "odluka/2010/685",
+   "short": "Odluka o nastavnom planu i programu mađarskog jezika za srednje škole s nastavom na mađarskom jeziku i pismu (model A)",
+   "title": "Odluka o nastavnom planu i programu mađarskog jezika za srednje škole s nastavom na mađarskom jeziku i pismu (model A)",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/29/685",
+   "versions": [
+    {
+     "from": "2010-01-19",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2010_03_29_685.html",
+     "sha256": "40af9c091f04e64068cfc8fbed8aef54107956965f22ec0269374b57da5492c6"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2010-686",
+   "path": "odluka/2010/686",
+   "short": "Odluka o nastavnom planu i programu mađarskog jezika za osnovne škole s nastavom na mađarskom jeziku i pismu (model A)",
+   "title": "Odluka o nastavnom planu i programu mađarskog jezika za osnovne škole s nastavom na mađarskom jeziku i pismu (model A)",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/29/686",
+   "versions": [
+    {
+     "from": "2010-01-19",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2010_03_29_686.html",
+     "sha256": "1ed4815ddbe0ce6d953151ec67152e1065ec4a8d51cf03d2db6c4a96e72797dc"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2010-687",
+   "path": "odluka/2010/687",
+   "short": "Odluka o nastavnom planu i programu srpskog jezika za srednje škole s nastavom na srpskom jeziku i ćiriličnom pismu (model A)",
+   "title": "Odluka o nastavnom planu i programu srpskog jezika za srednje škole s nastavom na srpskom jeziku i ćiriličnom pismu (model A)",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/29/687",
+   "versions": [
+    {
+     "from": "2010-01-19",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2010_03_29_687.html",
+     "sha256": "32deeac620650542a6dc764c3687fbd934eb26ad51b5f70f81c0526901f04a2b"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2010-688",
+   "path": "odluka/2010/688",
+   "short": "Odluka o nastavnom planu i programu srpskog jezika za osnovne škole s nastavom na srpskom jeziku i ćiriličnom pismu (model A)",
+   "title": "Odluka o nastavnom planu i programu srpskog jezika za osnovne škole s nastavom na srpskom jeziku i ćiriličnom pismu (model A)",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/29/688",
+   "versions": [
+    {
+     "from": "2010-01-19",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2010_03_29_688.html",
+     "sha256": "1d37991a6dc145bc78017c47839a0255458daae95f83b0ffe4f49c1f3ff7fc5e"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2010-689",
+   "path": "odluka/2010/689",
+   "short": "Odluka o nastavnom planu i programu talijanskog jezika i književnosti za srednje škole s nastavom na talijanskom jeziku i pismu (model A)",
+   "title": "Odluka o nastavnom planu i programu talijanskog jezika i književnosti za srednje škole s nastavom na talijanskom jeziku i pismu (model A)",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/29/689",
+   "versions": [
+    {
+     "from": "2010-01-19",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2010_03_29_689.html",
+     "sha256": "7bfd58c012c46bbb28a2b41613733d528749763bef28b194cc73ee9c023715cb"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2010-690",
+   "path": "odluka/2010/690",
+   "short": "Odluka o nastavnom planu i programu talijanskog jezika za osnovne škole s nastavom na talijanskom jeziku i pismu (model A)",
+   "title": "Odluka o nastavnom planu i programu talijanskog jezika za osnovne škole s nastavom na talijanskom jeziku i pismu (model A)",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/29/690",
+   "versions": [
+    {
+     "from": "2010-01-19",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2010_03_29_690.html",
+     "sha256": "29afe5b19db9f5560303c1622770c8b886e861027516abb05354363acf7d159b"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2010-699",
+   "path": "odluka/2010/699",
+   "short": "Odluka o izmjenama i dopunama Odluke o Uredu predsjednika Republike Hrvatske",
+   "title": "Odluka o izmjenama i dopunama Odluke o Uredu predsjednika Republike Hrvatske",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/30/699",
+   "versions": [
+    {
+     "from": "2010-03-05",
+     "units": 10,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2010_03_30_699.html",
+     "sha256": "0c66f055ff0af47132d203d2538ec8231bab02a1d433582cc53a04da81833c59"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2010-707",
+   "path": "odluka/2010/707",
+   "short": "Odluka o izdavanju obveznica Republike Hrvatske uz plasman na domaćem tržištu kapitala u iznosu od 3.500.000.000,00 kuna",
+   "title": "Odluka o izdavanju obveznica Republike Hrvatske uz plasman na domaćem tržištu kapitala u iznosu od 3.500.000.000,00 kuna",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/30/707",
+   "versions": [
+    {
+     "from": "2010-03-04",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2010_03_30_707.html",
+     "sha256": "bc676c38595f3c6b24f4f5253058858428a68588afe78bba2e8fc3d690204109"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2010-708",
+   "path": "odluka/2010/708",
+   "short": "Odluka o izdavanju obveznica Republike Hrvatske uz plasman na domaćem tržištu kapitala u kunskoj protuvrijednosti iznosa od 350.000.000,00 EUR",
+   "title": "Odluka o izdavanju obveznica Republike Hrvatske uz plasman na domaćem tržištu kapitala u kunskoj protuvrijednosti iznosa od 350.000.000,00 EUR",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/30/708",
+   "versions": [
+    {
+     "from": "2010-03-04",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2010_03_30_708.html",
+     "sha256": "fc1cc185c10ba3f6c93359cc8bdf81f69de532a02e61499f231dba6238c54b6c"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2010-709",
+   "path": "odluka/2010/709",
+   "short": "Odluka o davanju suglasnosti na Odluku o izmjeni Statuta Hrvatskog zavoda za zdravstveno osiguranje",
+   "title": "Odluka o davanju suglasnosti na Odluku o izmjeni Statuta Hrvatskog zavoda za zdravstveno osiguranje",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/30/709",
+   "versions": [
+    {
+     "from": "2010-02-25",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2010_03_30_709.html",
+     "sha256": "bbbbd87e3723c6e2ec3c00b11c6b625748d13b9cc0c33625d776bd346cfd92f5"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2010-726",
+   "path": "odluka/2010/726",
+   "short": "Odluka o objavljivanju pravila o državnim potporama za javne radiodifuzijske usluge",
+   "title": "Odluka o objavljivanju pravila o državnim potporama za javne radiodifuzijske usluge",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/31/726",
+   "versions": [
+    {
+     "from": "2010-03-10",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2010_03_31_726.html",
+     "sha256": "03d2c538d88e0d1eda20feaed8727b44b96c0c9555a5eded2cf90230fde13e69"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2010-727",
+   "path": "odluka/2010/727",
+   "short": "Odluka o izmjenama i dopunama Odluke o objavljivanju popisa pravila o državnim potporama",
+   "title": "Odluka o izmjenama i dopunama Odluke o objavljivanju popisa pravila o državnim potporama",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/31/727",
+   "versions": [
+    {
+     "from": "2010-03-10",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2010_03_31_727.html",
+     "sha256": "14ca0d5fcdf9843aa3ada2570e2dd26d76962144bb6e469aa68f1389a7d2c09b"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2010-835",
+   "path": "odluka/2010/835",
+   "short": "Odluka o utvrđivanju interesa Republike Hrvatske za izgradnju spomen obilježja poginulim hrvatskim braniteljima u Domovinskom ratu, s područja Rašćana i Župe u Općini Zagvozd",
+   "title": "Odluka o utvrđivanju interesa Republike Hrvatske za izgradnju spomen obilježja poginulim hrvatskim braniteljima u Domovinskom ratu, s područja Rašćana i Župe u Općini Zagvozd",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/33/835",
+   "versions": [
+    {
+     "from": "2010-03-17",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2010_03_33_835.html",
+     "sha256": "e03086e61382d35bff9615280ed4228d1ae4b3d3ee9cda3ba7180b4c82952e4b"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2010-836",
+   "path": "odluka/2010/836",
+   "short": "Odluka o davanju suglasnosti na prijenos koncesije na pomorskom dobru u svrhu gospodarskog korištenja pomorskog dobra radi obavljanja djelatnosti uzgoja školjaka i riba na područja rezervata Malostonskog zaljeva i Malog mora",
+   "title": "Odluka o davanju suglasnosti na prijenos koncesije na pomorskom dobru u svrhu gospodarskog korištenja pomorskog dobra radi obavljanja djelatnosti uzgoja školjaka i riba na područja rezervata Malostonskog zaljeva i Malog mora",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/33/836",
+   "versions": [
+    {
+     "from": "2010-03-11",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2010_03_33_836.html",
+     "sha256": "391ec9c0e01664f5f8bf696e2a0c41c5968ad292ef99721cf60e89487c1b3ac5"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2010-837",
+   "path": "odluka/2010/837",
+   "short": "Odluka o davanju suglasnosti na prijenos koncesije na pomorskom dobru u svrhu gospodarskog korištenja radi obavljanja djelatnosti uzgoja školjaka i riba",
+   "title": "Odluka o davanju suglasnosti na prijenos koncesije na pomorskom dobru u svrhu gospodarskog korištenja radi obavljanja djelatnosti uzgoja školjaka i riba",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/33/837",
+   "versions": [
+    {
+     "from": "2010-03-11",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2010_03_33_837.html",
+     "sha256": "26e4b824e05dbad19cd68ca8851dd8f0bc02dd60bb78037c1d7a55dc7020ff2e"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2010-838",
+   "path": "odluka/2010/838",
+   "short": "Odluka o izmjenama Odluke o koncesiji pomorskog dobra u svrhu izgradnje gospodarskog korištenja luke posebne namjene - luke nautičkog turizma Porto Mariccio",
+   "title": "Odluka o izmjenama Odluke o koncesiji pomorskog dobra u svrhu izgradnje gospodarskog korištenja luke posebne namjene - luke nautičkog turizma Porto Mariccio",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/33/838",
+   "versions": [
+    {
+     "from": "2010-03-11",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2010_03_33_838.html",
+     "sha256": "7a740035c5b21f77bac3b5c42d1f7305c6a78d55dcfd6a2a0b8357497f0ae7ec"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2010-866",
+   "path": "odluka/2010/866",
+   "short": "Odluka o izmjeni Statuta Hrvatskog zavoda za zdravstveno osiguranje",
+   "title": "Odluka o izmjeni Statuta Hrvatskog zavoda za zdravstveno osiguranje",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/33/866",
+   "versions": [
+    {
+     "from": "2010-03-17",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2010_03_33_866.html",
+     "sha256": "ffb0bf46539be0a346a4acd82f5982307d5f6eb21b901052a4fba8cae31ecaa1"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2010-881",
+   "path": "odluka/2010/881",
+   "short": "Odluka o prestanku važenja Odluke o zabrani klanja podmlatka pojedinih vrsta stoke",
+   "title": "Odluka o prestanku važenja Odluke o zabrani klanja podmlatka pojedinih vrsta stoke",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/34/881",
+   "versions": [
+    {
+     "from": "2010-03-19",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2010_03_34_881.html",
+     "sha256": "b2b914ac6013c6a524c0173effa8a1289c94cea085185ed68f29abb224b04219"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2010-883",
+   "path": "odluka/2010/883",
+   "short": "Odluka o dopunama odluka Hrvatske narodne banke o izdavanju numizmatičkih kompleta, izdavanja dukata i izdavanja i prodaji kovanog novca",
+   "title": "Odluka o dopunama odluka Hrvatske narodne banke o izdavanju numizmatičkih kompleta, izdavanja dukata i izdavanja i prodaji kovanog novca",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/34/883",
+   "versions": [
+    {
+     "from": "2010-03-19",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2010_03_34_883.html",
+     "sha256": "f8c539019928a9a25abfc07e96fc43aa6e8aa7ac96d934cba060f7e22bf3af15"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2010-884",
+   "path": "odluka/2010/884",
+   "short": "Odluka o puštanju u optjecaj kovanog novca kuna i lipa s oznakom godine kovanja \"2010.\"",
+   "title": "Odluka o puštanju u optjecaj kovanog novca kuna i lipa s oznakom godine kovanja \"2010.\"",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/34/884",
+   "versions": [
+    {
+     "from": "2010-03-19",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2010_03_34_884.html",
+     "sha256": "15a9695d0520e28c203c2e710cf3f26013a2c2cb633db77ecf1a452bc0dc9328"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2010-885",
+   "path": "odluka/2010/885",
+   "short": "Odluka o izmjenama i dopunama Odluke o postupanju sa stranom gotovinom za koju postoji sumnja da je krivotvorena",
+   "title": "Odluka o izmjenama i dopunama Odluke o postupanju sa stranom gotovinom za koju postoji sumnja da je krivotvorena",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/34/885",
+   "versions": [
+    {
+     "from": "2010-03-27",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2010_03_34_885.html",
+     "sha256": "ffe4c22c7fdb5877a133b91a26803a8ece875c6c3e71aa90457509d9762b5c11"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2010-886",
+   "path": "odluka/2010/886",
+   "short": "Odluka o izmjenama i dopunama Odluke o medaljama i žetonima koji nalikuju kovanicama eura",
+   "title": "Odluka o izmjenama i dopunama Odluke o medaljama i žetonima koji nalikuju kovanicama eura",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/34/886",
+   "versions": [
+    {
+     "from": "2010-03-27",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2010_03_34_886.html",
+     "sha256": "745d48d5f2789a1115ec9cbdf9713c2416c4ebb396afc4e47164469e763ededd"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2010-887",
+   "path": "odluka/2010/887",
+   "short": "Odluka o izmjenama i dopunama Odluke o upravljanju kamatnim rizikom u knjizi banke",
+   "title": "Odluka o izmjenama i dopunama Odluke o upravljanju kamatnim rizikom u knjizi banke",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/34/887",
+   "versions": [
+    {
+     "from": "2010-03-31",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2010_03_34_887.html",
+     "sha256": "4c5a0580b881bc95986ee10dcc508ff579d17f67c7c832dea19c854249aff55d"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2010-888",
+   "path": "odluka/2010/888",
+   "short": "Odluka o osnovicama za utvrđivanje vrijednosnog boda prema osobnom činu, ustrojbenom mjestu i zvanju HRVI iz Domovinskog rata za godinu 2009.",
+   "title": "Odluka o osnovicama za utvrđivanje vrijednosnog boda prema osobnom činu, ustrojbenom mjestu i zvanju HRVI iz Domovinskog rata za godinu 2009.",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/34/888",
+   "versions": [
+    {
+     "from": "2010-03-27",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2010_03_34_888.html",
+     "sha256": "01d5265a462055525cca93054231fd2a3567ab66a7f59065bd13632e18bb72dc"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2010-889",
+   "path": "odluka/2010/889",
+   "short": "Odluka o visini najniže mirovine hrvatskom branitelju iz Domovinskog rata za godinu 2010.",
+   "title": "Odluka o visini najniže mirovine hrvatskom branitelju iz Domovinskog rata za godinu 2010.",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/34/889",
+   "versions": [
+    {
+     "from": "2010-03-27",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2010_03_34_889.html",
+     "sha256": "c39b0ed53499183ff14a551c7a28bb76d80d09f72a63c24cd6c3e49e953a1958"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2010-937",
+   "path": "odluka/2010/937",
+   "short": "Odluka o izmjeni Odluke o opskrbi banaka gotovim novcem",
+   "title": "Odluka o izmjeni Odluke o opskrbi banaka gotovim novcem",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/36/937",
+   "versions": [
+    {
+     "from": "2010-03-24",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2010_03_36_937.html",
+     "sha256": "a1780c9036037af8aa49e75a86e61a7d01722762acca55c66da07a8498d5a093"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2010-939",
+   "path": "odluka/2010/939",
+   "short": "Odluka o izmjeni i dopuni Odluke o porezima Grada Čabra",
+   "title": "Odluka o izmjeni i dopuni Odluke o porezima Grada Čabra",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/36/939",
+   "versions": [
+    {
+     "from": "2010-04-01",
+     "units": 6,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2010_03_36_939.html",
+     "sha256": "ce63fa2d95de68e0361ca72160505ace02fdd3b7104e476c1f9d9d14b701b471"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2010-945",
+   "path": "odluka/2010/945",
+   "short": "Odluka o osnivanju Povjerenstva za koordinaciju potpore i financiranje obrazovnih, kulturnih, znanstvenih i zdravstvenih programa i projekata od interesa za hrvatski narod u Bosni i Hercegovini za 2010. godinu",
+   "title": "Odluka o osnivanju Povjerenstva za koordinaciju potpore i financiranje obrazovnih, kulturnih, znanstvenih i zdravstvenih programa i projekata od interesa za hrvatski narod u Bosni i Hercegovini za 2010. godinu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/37/945",
+   "versions": [
+    {
+     "from": "2010-03-24",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2010_03_37_945.html",
+     "sha256": "8a2bd8b6de73a02225ef49bbc406270542e7ec9ef2da38a64e184690aa411fb9"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2010-946",
+   "path": "odluka/2010/946",
+   "short": "Odluka o stavljanju izvan snage Odluke o davanju poljoprivrednog zemljišta u vlasništvu Republike Hrvatske društvu Poljodar d.d., Daruvar, u prioritetnu koncesiju neposrednom pogodbom",
+   "title": "Odluka o stavljanju izvan snage Odluke o davanju poljoprivrednog zemljišta u vlasništvu Republike Hrvatske društvu Poljodar d.d., Daruvar, u prioritetnu koncesiju neposrednom pogodbom",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/37/946",
+   "versions": [
+    {
+     "from": "2010-03-24",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2010_03_37_946.html",
+     "sha256": "01a63bcf1d2e9f2fdbfbbaec97289f7fdeafd725dc3d5b9bf1d0d1affb884aa3"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2010-957",
+   "path": "odluka/2010/957",
+   "short": "Odluka o rasporedu sredstava osiguranih u državnom proračunu Republike Hrvatske za 2010. godinu (\"Narodne novine\" broj 151/2009) u razdjelu 020 Vlada Republike Hrvatske, Glava 21 Savjet za nacionalne manjine, Aktivnost A732003 nacionalne manjine, pozicija 3811 Tekuće donacije u novcu",
+   "title": "Odluka o rasporedu sredstava osiguranih u državnom proračunu Republike Hrvatske za 2010. godinu (\"Narodne novine\" broj 151/2009) u razdjelu 020 Vlada Republike Hrvatske, Glava 21 Savjet za nacionalne manjine, Aktivnost A732003 nacionalne manjine, pozicija 3811 Tekuće donacije u novcu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/37/957",
+   "versions": [
+    {
+     "from": "2010-03-26",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2010_03_37_957.html",
+     "sha256": "44c903b745d50b201a9e76ee61afd6daebbff052aab370e740b390d5856804be"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2010-958",
+   "path": "odluka/2010/958",
+   "short": "Odluka o primjerenom upravljanju informacijskim sustavom",
+   "title": "Odluka o primjerenom upravljanju informacijskim sustavom",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/37/958",
+   "versions": [
+    {
+     "from": "2010-03-31",
+     "units": 43,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2010_03_37_958.html",
+     "sha256": "f6c05c3dbd96bd900d4321e49800db8b7fc739052f4851528d812a09007825ea"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2010-972",
+   "path": "odluka/2010/972",
+   "short": "Odluka o određivanju provedbenih tijela za upravljanje i kontrolu provedbe operativnog programa u ribarstvu",
+   "title": "Odluka o određivanju provedbenih tijela za upravljanje i kontrolu provedbe operativnog programa u ribarstvu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/38/972",
+   "versions": [
+    {
+     "from": "2010-04-08",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2010_03_38_972.html",
+     "sha256": "2920c632b26e77d891b461bd8424c485c147747f6bbdc67cdfe3d9fc5297e092"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2010-999",
+   "path": "odluka/2010/999",
+   "short": "Odluka o ograničavanju izloženosti kreditnih institucija valutnom riziku",
+   "title": "Odluka o ograničavanju izloženosti kreditnih institucija valutnom riziku",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/38/999",
+   "versions": [
+    {
+     "from": "2010-03-31",
+     "units": 13,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2010_03_38_999.html",
+     "sha256": "7b17002b95ff62a09596062ee7580c704a3396f43f002162c247fab4c6c66d60"
     }
    ]
   },
