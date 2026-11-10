@@ -1,6 +1,6 @@
 # Every act in this repository
 
-24639 acts, 25,065 versions. Each act lives in a folder named by its kind, year and identifier, `<kind>/<year>/<identifier>/` (acts published before that layout keep their own folder, listed in data/paths.json); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+24939 acts, 25,365 versions. Each act lives in a folder named by its kind, year and identifier, `<kind>/<year>/<identifier>/` (acts published before that layout keep their own folder, listed in data/paths.json); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## naputak (159, of which 23 amending acts)
 
@@ -20915,7 +20915,7 @@
 | Uputa o provedbi Odluke o obveznoj pričuvi | [`uputa/2014/2424/`](uputa/2014/2424/) | repealed, not consolidated | 1 | 2014-11-12 | 2014-11-12 |
 | Uputa za provedbu Odluke o obveznoj pričuvi | [`uputa/2015/2618/`](uputa/2015/2618/) | repealed, not consolidated | 1 | 2016-01-13 | 2016-01-13 |
 
-## uredba (2014, of which 494 amending acts)
+## uredba (2314, of which 577 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -21354,6 +21354,12 @@
 | Uredba o osnivanju Akademije lokalne demokracije | [`uredba/2006/863/`](uredba/2006/863/) | amended, not consolidated | 1 | 2006-04-01 | 2006-04-01 |
 | Uredba o upućivanju državnog službenika na rad izvan državne službe | [`uredba/2006/864/`](uredba/2006/864/) | cited later, not consolidated | 1 | 2006-04-01 | 2006-04-01 |
 | Uredba o mogućnosti rada državnog službenika na izdvojenom mjestu i rada s nepunim radnim vremenom | [`uredba/2006/865/`](uredba/2006/865/) | repealed, not consolidated | 1 | 2006-04-01 | 2006-04-01 |
+| Uredba o izmjeni Uredbe o carinskoj tarifi za 2006. godinu | [`uredba/2006/911/`](uredba/2006/911/) | amended, not consolidated | 1 | 2006-04-03 | 2006-04-03 |
+| Uredba o izmjeni i dopuni Uredbe o visini vodnoga doprinosa | [`uredba/2006/948/`](uredba/2006/948/) | amending act | 1 | 2006-04-10 | 2006-04-10 |
+| Uredba o izmjenama Uredbe o plaćama, dodacima i naknadama u službi vanjskih poslova | [`uredba/2006/949/`](uredba/2006/949/) | in force | 1 | 2006-04-10 | 2006-04-10 |
+| Uredba o izmjenama i dopunama Uredbe o postupku davanja koncesije na pomorskom dobru | [`uredba/2006/950/`](uredba/2006/950/) | amending act | 1 | 2006-04-18 | 2006-04-18 |
+| Uredba o izmjenama i dopunama Uredbe o unutarnjem ustrojstvu Ministarstva mora, turizma, prometa i razvitka | [`uredba/2006/971/`](uredba/2006/971/) | amending act | 1 | 2006-04-12 | 2006-04-12 |
+| Uredba o izmjenama i dopunama Uredbe o unutarnjem ustrojstvu Državnog inspektorata | [`uredba/2006/994/`](uredba/2006/994/) | amending act | 1 | 2006-04-26 | 2006-04-26 |
 | Uredba o odorama policijskih službenika Ministarstva unutarnjih poslova | [`uredba/2006/1127/`](uredba/2006/1127/) | repealed, not consolidated | 1 | 2006-05-04 | 2006-05-04 |
 | Uredba o izmjenama i dopunama Uredbe o unutarnjem ustrojstvu Ministarstva pravosuđa | [`uredba/2006/1128/`](uredba/2006/1128/) | amending act | 1 | 2006-05-04 | 2006-05-04 |
 | Uredba o izmjenama i dopunama Uredbe o područjima na kojima djeluju carinarnice Carinske uprave Republike Hrvatske | [`uredba/2006/1183/`](uredba/2006/1183/) | amending act | 1 | 2006-05-11 | 2006-05-11 |
@@ -21437,6 +21443,300 @@
 | Uredba o izmjenama i dopunama Uredbe o plaćama policijskih službenika | [`uredba/2006/3211/`](uredba/2006/3211/) | amending act | 1 | 2006-12-28 | 2006-12-28 |
 | Uredba o izmjenama i dopunama Uredbe o unutarnjem ustrojstvu Ministarstva kulture | [`uredba/2006/3212/`](uredba/2006/3212/) | amending act | 1 | 2006-12-28 | 2006-12-28 |
 | Uredba o načinu izračuna iznosa pomoći izravnanja za decentralizirane funkcije jedinica lokalne i područne (regionalne) samouprave za 2007. godinu | [`uredba/2006/3242/`](uredba/2006/3242/) | amended, not consolidated | 1 | 2007-01-01 | 2007-01-01 |
+| Uredba o praćenju emisija stakleničkih plinova u Republici Hrvatskoj | [`uredba/2007/2/`](uredba/2007/2/) | repealed, not consolidated | 1 | 2007-01-10 | 2007-01-10 |
+| Uredba o izmjeni Uredbe o plaćama policijskih službenika | [`uredba/2007/215/`](uredba/2007/215/) | in force | 1 | 2007-01-10 | 2007-01-10 |
+| Uredba o uvjetima i postupcima za ostvarivanje oslobođenja od plaćanja carine | [`uredba/2007/272/`](uredba/2007/272/) | amended, not consolidated | 1 | 2007-01-12 | 2007-01-12 |
+| Uredba o osnivanju Državnog arhiva u Vukovaru | [`uredba/2007/289/`](uredba/2007/289/) | in force | 1 | 2007-01-25 | 2007-01-25 |
+| Uredba o osnivanju Državnog arhiva u Šibeniku | [`uredba/2007/290/`](uredba/2007/290/) | amended, not consolidated | 1 | 2007-01-25 | 2007-01-25 |
+| Uredba o izmjenama i dopunama Uredbe o raspisivanju i provedbi javnog natječaja i internog oglasa u državnoj službi | [`uredba/2007/359/`](uredba/2007/359/) | amending act | 1 | 2007-01-22 | 2007-01-22 |
+| Uredba o izmjeni i dopuni Uredbe o osnivanju Agencije za znanost i visoko obrazovanje | [`uredba/2007/360/`](uredba/2007/360/) | amending act | 1 | 2007-01-30 | 2007-01-30 |
+| Uredba o računanju vremena u 2007. godini | [`uredba/2007/373/`](uredba/2007/373/) | in force | 1 | 2007-02-01 | 2007-02-01 |
+| Uredba o oblicima, načinima i uvjetima izobrazbe državnih službenika | [`uredba/2007/439/`](uredba/2007/439/) | cited later, not consolidated | 1 | 2007-02-06 | 2007-02-06 |
+| Uredba o izmjeni i dopuni Uredbe o nazivima radnih mjesta i koeficijentima složenosti poslova u državnoj službi | [`uredba/2007/454/`](uredba/2007/454/) | amending act | 1 | 2007-01-31 | 2007-01-31 |
+| Uredba o osnivanju Državnog arhiva za Međimurje | [`uredba/2007/568/`](uredba/2007/568/) | in force | 1 | 2007-02-15 | 2007-02-15 |
+| Uredba o izmjenama i dopunama Uredbe o nadzoru prekograničnog prometa otpadom | [`uredba/2007/671/`](uredba/2007/671/) | amending act | 1 | 2007-02-12 | 2007-02-12 |
+| Uredba o izmjeni Uredbe o osnivanju Akademije lokalne demokracije | [`uredba/2007/672/`](uredba/2007/672/) | in force | 1 | 2007-02-12 | 2007-02-12 |
+| Uredba o upravljanju programima CARDS, PHARE, ISPA i SAPARD | [`uredba/2007/724/`](uredba/2007/724/) | amended, not consolidated | 1 | 2007-02-22 | 2007-02-22 |
+| Uredba o opsegu i sadržaju odgovornosti te ovlastima tijela nadležnih za upravljanje Instrumentom pretpristupne pomoći | [`uredba/2007/725/`](uredba/2007/725/) | amended, not consolidated | 1 | 2007-02-14 | 2007-02-14 |
+| Uredba o kriterijima za utvrđivanje korisnika i načinu raspodjele dijela prihoda od igara na sreću za 2007. godinu | [`uredba/2007/726/`](uredba/2007/726/) | in force | 1 | 2007-02-14 | 2007-02-14 |
+| Uredba o osnivanju Hrvatske agencije za borbu protiv dopinga u športu | [`uredba/2007/727/`](uredba/2007/727/) | in force | 1 | 2007-02-22 | 2007-02-22 |
+| Uredba o davanju prethodne suglasnosti za sklapanje ugovora o javno-privatnom partnerstvu po modelu privatne financijske inicijative | [`uredba/2007/783/`](uredba/2007/783/) | repealed, not consolidated | 1 | 2007-02-27 | 2007-02-27 |
+| Uredba o unutarnjem ustrojstvu i načinu rada Hrvatske informacijsko-dokumentacijske referalne agencije | [`uredba/2007/784/`](uredba/2007/784/) | cited later, not consolidated | 1 | 2007-02-27 | 2007-02-27 |
+| Uredba o dopunama Uredbe o uvjetima za obavljanje trgovine na veliko i trgovine s inozemstvom za određenu robu | [`uredba/2007/785/`](uredba/2007/785/) | amending act | 1 | 2007-03-15 | 2007-03-15 |
+| Uredba o izmjeni Uredbe o visini naknade za uređenje voda | [`uredba/2007/786/`](uredba/2007/786/) | in force | 1 | 2007-02-19 | 2007-02-19 |
+| Uredba o dopuni Uredbe o nazivima radnih mjesta i koeficijentima složenosti poslova u javnim službama | [`uredba/2007/821/`](uredba/2007/821/) | amended, not consolidated | 1 | 2007-02-26 | 2007-02-26 |
+| Uredba o unutarnjem ustrojstvu Ministarstva gospodarstva, rada i poduzetništva | [`uredba/2007/884/`](uredba/2007/884/) | amended, not consolidated | 1 | 2007-03-05 | 2007-03-05 |
+| Uredba o izmjenama i dopunama Uredbe o unutarnjem ustrojstvu Ministarstva zaštite okoliša, prostornog uređenja i graditeljstva | [`uredba/2007/885/`](uredba/2007/885/) | amending act | 1 | 2007-03-05 | 2007-03-05 |
+| Uredba o izmjeni Uredbe o Uredu za nacionalne manjine | [`uredba/2007/974/`](uredba/2007/974/) | in force | 1 | 2007-03-14 | 2007-03-14 |
+| Uredba o određivanju granice pomorskog dobra na dijelu k.o. Split | [`uredba/2007/1027/`](uredba/2007/1027/) | replaced, not consolidated | 1 | 2007-03-29 | 2007-03-29 |
+| Uredba o određivanju granice pomorskog dobra na dijelu k.o. Komiža | [`uredba/2007/1028/`](uredba/2007/1028/) | in force | 1 | 2007-03-29 | 2007-03-29 |
+| Uredba o određivanju granice pomorskog dobra na dijelu k.o. Drvenik | [`uredba/2007/1029/`](uredba/2007/1029/) | in force | 1 | 2007-03-29 | 2007-03-29 |
+| Uredba o određivanju granice pomorskog dobra na dijelu k.o. Unije | [`uredba/2007/1030/`](uredba/2007/1030/) | in force | 1 | 2007-03-29 | 2007-03-29 |
+| Uredba o naknadama za poticanje proizvodnje električne energije iz obnovljivih izvora energije i kogeneracije | [`uredba/2007/1079/`](uredba/2007/1079/) | repealed, not consolidated | 1 | 2007-07-01 | 2007-07-01 |
+| Uredba o minimalnom udjelu električne energije proizvedene iz obnovljivih izvora energije i kogeneracije čija se proizvodnja potiče | [`uredba/2007/1080/`](uredba/2007/1080/) | repealed, not consolidated | 1 | 2007-07-01 | 2007-07-01 |
+| Uredba o poslovima upravljanja sustavom i nadzoru provedbe projekata financiranih iz sredstava zajmova i darovnica Republici Hrvatskoj iz ostalih inozemnih izvora | [`uredba/2007/1081/`](uredba/2007/1081/) | in force | 1 | 2007-03-28 | 2007-03-28 |
+| Uredba o dopunama Uredbe o plaćama, dodacima i naknadama u službi vanjskih poslova | [`uredba/2007/1163/`](uredba/2007/1163/) | amending act | 1 | 2007-04-04 | 2007-04-04 |
+| Uredba o unutarnjem ustrojstvu Ministarstva zdravstva i socijalne skrbi | [`uredba/2007/1246/`](uredba/2007/1246/) | repealed, not consolidated | 1 | 2007-04-13 | 2007-04-13 |
+| Uredba o određivanju granice pomorskog dobra na dijelu k.o. Supetarska Draga | [`uredba/2007/1247/`](uredba/2007/1247/) | replaced, not consolidated | 1 | 2007-04-21 | 2007-04-21 |
+| Uredba o kriterijima za dodjeljivanje državnih nagrada za vrhunska športska postignuća | [`uredba/2007/1348/`](uredba/2007/1348/) | repealed, not consolidated | 1 | 2007-04-26 | 2007-04-26 |
+| Uredba o visini posebnog poreza na naftne derivate | [`uredba/2007/1474/`](uredba/2007/1474/) | in force | 1 | 2007-05-01 | 2007-05-01 |
+| Uredba o izmjenama i dopunama Uredbe o unutarnjem ustrojstvu Središnjeg državnog ureda za razvojnu strategiju i koordinaciju fondova Europske unije | [`uredba/2007/1486/`](uredba/2007/1486/) | amending act | 1 | 2007-05-03 | 2007-05-03 |
+| Uredba o dopuni Uredbe o nazivima radnih mjesta i koeficijentima složenosti poslova u državnoj službi | [`uredba/2007/1601/`](uredba/2007/1601/) | amending act | 1 | 2007-05-09 | 2007-05-09 |
+| Uredba o izmjeni i dopuni Uredbe o osnivanju Veleučilišta "Nikola Tesla" u Gospiću | [`uredba/2007/1818/`](uredba/2007/1818/) | amending act | 1 | 2007-06-12 | 2007-06-12 |
+| Uredba o izmjeni i dopuni Uredbe o osnivanju Veleučilišta u Karlovcu | [`uredba/2007/1819/`](uredba/2007/1819/) | amending act | 1 | 2007-06-12 | 2007-06-12 |
+| Uredba o izmjeni i dopuni Uredbe o osnivanju Veleučilišta "Marko Marulić" u Kninu | [`uredba/2007/1820/`](uredba/2007/1820/) | amending act | 1 | 2007-06-12 | 2007-06-12 |
+| Uredba o izmjeni i dopuni Uredbe o osnivanju Visokog gospodarskog učilišta u Križevcima | [`uredba/2007/1821/`](uredba/2007/1821/) | amending act | 1 | 2007-06-12 | 2007-06-12 |
+| Uredba o izmjeni i dopuni Uredbe o osnivanju Veleučilišta u Požegi | [`uredba/2007/1822/`](uredba/2007/1822/) | amending act | 1 | 2007-06-12 | 2007-06-12 |
+| Uredba o izmjeni i dopuni Uredbe o osnivanju Veleučilišta u Rijeci | [`uredba/2007/1823/`](uredba/2007/1823/) | amending act | 1 | 2007-06-12 | 2007-06-12 |
+| Uredba o izmjeni i dopuni Uredbe o osnivanju Veleučilišta u Slavonskom Brodu | [`uredba/2007/1824/`](uredba/2007/1824/) | amending act | 1 | 2007-06-12 | 2007-06-12 |
+| Uredba o izmjeni i dopuni Uredbe o osnivanju Veleučilišta u Šibeniku | [`uredba/2007/1825/`](uredba/2007/1825/) | amending act | 1 | 2007-06-12 | 2007-06-12 |
+| Uredba o izmjeni i dopuni Uredbe o osnivanju Veleučilišta "Lavoslav Ružička" u Vukovaru | [`uredba/2007/1826/`](uredba/2007/1826/) | amending act | 1 | 2007-06-12 | 2007-06-12 |
+| Uredba o izmjeni i dopuni Uredbe o osnivanju Društvenog veleučilišta u Zagrebu | [`uredba/2007/1827/`](uredba/2007/1827/) | amending act | 1 | 2007-06-12 | 2007-06-12 |
+| Uredba o izmjeni i dopuni Uredbe o osnivanju Tehničkog veleučilišta u Zagrebu | [`uredba/2007/1828/`](uredba/2007/1828/) | amending act | 1 | 2007-06-12 | 2007-06-12 |
+| Uredba o izmjeni i dopuni Uredbe o osnivanju Zdravstvenog veleučilišta | [`uredba/2007/1829/`](uredba/2007/1829/) | amending act | 1 | 2007-06-12 | 2007-06-12 |
+| Uredba o mjerilima za razvrstavanje javnih cesta | [`uredba/2007/1830/`](uredba/2007/1830/) | repealed, not consolidated | 1 | 2007-06-12 | 2007-06-12 |
+| Uredba o dopuni Uredbe o Uredu za opće poslove Hrvatskoga sabora i Vlade Republike Hrvatske | [`uredba/2007/1831/`](uredba/2007/1831/) | amending act | 1 | 2007-06-04 | 2007-06-04 |
+| Uredba o dopunama Uredbe o unutarnjem ustrojstvu Ministarstva kulture | [`uredba/2007/1889/`](uredba/2007/1889/) | amending act | 1 | 2007-06-11 | 2007-06-11 |
+| Uredba o osiguranju izvoza | [`uredba/2007/1903/`](uredba/2007/1903/) | repealed, not consolidated | 1 | 2007-06-21 | 2007-06-21 |
+| Uredba o tržnom redu za pšenicu u 2007. godini | [`uredba/2007/1982/`](uredba/2007/1982/) | in force | 1 | 2007-06-28 | 2007-06-28 |
+| Uredba o izmjenama i dopunama Uredbe o uvjetima, kriterijima, visini i načinu ostvarivanja prava dodjele državnih potpora male vrijednosti otočnim poslodavcima za očuvanje radnih mjesta | [`uredba/2007/2039/`](uredba/2007/2039/) | amending act | 1 | 2007-07-04 | 2007-07-04 |
+| Uredba o osnivanju Ureda za koordinaciju sustava procjene učinka propisa | [`uredba/2007/2086/`](uredba/2007/2086/) | repealed, not consolidated | 1 | 2007-07-01 | 2007-07-01 |
+| Uredba o izmjenama i dopuni Uredbe o uvjetima za kupnju obiteljske kuće ili stana u državnom vlasništvu na područjima posebne državne skrbi | [`uredba/2007/2087/`](uredba/2007/2087/) | amending act | 1 | 2007-07-10 | 2007-07-10 |
+| Uredba o postupku i mjerilima za osnivanje prava služnosti u šumi ili na šumskom zemljištu u vlasništvu Republike Hrvatske, u svrhu obavljanju turističke djelatnosti | [`uredba/2007/2109/`](uredba/2007/2109/) | repealed, not consolidated | 1 | 2007-07-12 | 2007-07-12 |
+| Uredba o sigurnosnoj provjeri za pristup klasificiranim podacima | [`uredba/2007/2237/`](uredba/2007/2237/) | in force | 1 | 2007-07-11 | 2007-07-11 |
+| Uredba o jediničnim naknadama, korektivnim koeficijentima i pobližim kriterijima i mjerilima za utvrđivanje naknade na emisiju u okoliš ugljikovog dioksida | [`uredba/2007/2280/`](uredba/2007/2280/) | amended, not consolidated | 1 | 2007-07-24 | 2007-07-24 |
+| Uredba o utvrđivanju visine boravišne pristojbe za 2008. godinu | [`uredba/2007/2281/`](uredba/2007/2281/) | in force | 1 | 2007-07-24 | 2007-07-24 |
+| Uredba o utvrđivanju visine godišnjeg paušalnog iznosa boravišne pristojbe za korisnike stalnog veza u luci nautičkog turizma za 2008. godinu | [`uredba/2007/2282/`](uredba/2007/2282/) | in force | 1 | 2007-07-24 | 2007-07-24 |
+| Uredba o utvrđivanju visine boravišne pristojbe za građane koji pružaju ugostiteljske usluge u domaćinstvu za 2008. | [`uredba/2007/2283/`](uredba/2007/2283/) | in force | 1 | 2007-07-24 | 2007-07-24 |
+| Uredba o dopuni Uredbe o Carinskoj tarifi za 2007. godinu | [`uredba/2007/2284/`](uredba/2007/2284/) | amending act | 1 | 2007-07-16 | 2007-07-16 |
+| Uredba o izmjenama i dopunama Zakona o državnim službenicima | [`uredba/2007/2418/`](uredba/2007/2418/) | amending act | 1 | 2007-08-02 | 2007-08-02 |
+| UREDBA O IZMJENI ZAKONA O OBVEZNOM ZDRAVSTVENOM OSIGURANJU | [`uredba/2007/2419/`](uredba/2007/2419/) | in force | 1 | 2007-07-25 | 2007-07-25 |
+| Uredba o klasifikaciji radnih mjesta u državnoj službi | [`uredba/2007/2420/`](uredba/2007/2420/) | amended, not consolidated | 1 | 2007-08-02 | 2007-08-02 |
+| Uredba o načinima i uvjetima napredovanja državnih službenika | [`uredba/2007/2421/`](uredba/2007/2421/) | amended, not consolidated | 1 | 2007-08-02 | 2007-08-02 |
+| Uredba o izmjenama i dopunama Zakona o sanitarnoj inspekciji | [`uredba/2007/2577/`](uredba/2007/2577/) | amending act | 1 | 2007-08-08 | 2007-08-08 |
+| Uredba o dopunama Zakona o obvezama i pravima državnih dužnosnika | [`uredba/2007/2578/`](uredba/2007/2578/) | amending act | 1 | 2007-08-08 | 2007-08-08 |
+| Uredba o darovanju stanova i kuća u vlasništvu Republike Hrvatske na područjima posebne državne skrbi | [`uredba/2007/2579/`](uredba/2007/2579/) | cited later, not consolidated | 1 | 2007-08-16 | 2007-08-16 |
+| Uredba o izmjeni Uredbe o razvrstaju luka otvorenih za javni promet i luka posebne namjene | [`uredba/2007/2580/`](uredba/2007/2580/) | in force | 1 | 2007-08-16 | 2007-08-16 |
+| Uredba o izmjenama i dopunama Uredbe o provedbi carinskih mjera u vezi s robom za koju postoji sumnja da povrjeđuje određena prava intelektualnog vlasništva | [`uredba/2007/2581/`](uredba/2007/2581/) | amending act | 1 | 2007-08-08 | 2007-08-08 |
+| Uredba o izmjenama i dopunama Uredbe o opsegu i sadržaju odgovornosti te ovlastima tijela nadležnih za upravljanje Instrumentom pretpristupne pomoći | [`uredba/2007/2582/`](uredba/2007/2582/) | amending act | 1 | 2007-08-08 | 2007-08-08 |
+| Uredba o izmjenama i dopunama Uredbe o Carinskoj tarifi za 2007. godinu | [`uredba/2007/2614/`](uredba/2007/2614/) | amending act | 1 | 2007-08-22 | 2007-08-22 |
+| Uredba o uvođenju izvozne carine na kukuruz | [`uredba/2007/2727/`](uredba/2007/2727/) | amended, not consolidated | 1 | 2007-09-04 | 2007-09-04 |
+| Uredba o izmjenama i dopunama Uredbe o unutarnjem ustrojstvu Ministarstva kulture | [`uredba/2007/2728/`](uredba/2007/2728/) | amending act | 1 | 2007-08-27 | 2007-08-27 |
+| Uredba o osnivanju Središnje agencije za financiranje i ugovaranje programa i projekata Europske unije | [`uredba/2007/2734/`](uredba/2007/2734/) | amended, not consolidated | 1 | 2007-09-06 | 2007-09-06 |
+| Uredba o izmjenama i dopunama Uredbe o nadzoru uvoza i izvoza neobrađenih dijamanata | [`uredba/2007/2735/`](uredba/2007/2735/) | amending act | 1 | 2007-09-06 | 2007-09-06 |
+| Uredba o izmjenama i dopuni Uredbe o unutarnjem ustrojstvu ureda državne uprave u županijama | [`uredba/2007/2769/`](uredba/2007/2769/) | amending act | 1 | 2007-09-11 | 2007-09-11 |
+| Uredba o graničnim vrijednostima sadržaja hlapivih organskih spojeva u određenim bojama i lakovima i proizvodima za završnu obradu vozila | [`uredba/2007/2820/`](uredba/2007/2820/) | repealed, not consolidated | 1 | 2007-09-21 | 2007-09-21 |
+| Uredba o osnivanju Visoke škole za menadžment u turizmu i informatici u Virovitici | [`uredba/2007/2821/`](uredba/2007/2821/) | amended, not consolidated | 1 | 2007-09-13 | 2007-09-13 |
+| Uredba o osnivanju Hrvatskog muzeja turizma | [`uredba/2007/2822/`](uredba/2007/2822/) | amended, not consolidated | 1 | 2007-09-21 | 2007-09-21 |
+| Uredba o izmjeni Uredbe o osnivanju Javne ustanove Hrvatski olimpijski centar | [`uredba/2007/2823/`](uredba/2007/2823/) | in force | 1 | 2007-09-13 | 2007-09-13 |
+| Uredba o izmjenama i dopunama Uredbe o carinskoj tarifi za 2007. godinu | [`uredba/2007/2824/`](uredba/2007/2824/) | amending act | 1 | 2007-09-13 | 2007-09-13 |
+| Uredba o uvođenju izvozne carine na pšenicu | [`uredba/2007/2847/`](uredba/2007/2847/) | amended, not consolidated | 1 | 2007-09-25 | 2007-09-25 |
+| Uredba o izmjeni Uredbe o Uredu za ljudska prava | [`uredba/2007/2950/`](uredba/2007/2950/) | in force | 1 | 2007-10-03 | 2007-10-03 |
+| Uredba o prodaji poslovnoga prostora u vlasništvu Republike Hrvatske | [`uredba/2007/2986/`](uredba/2007/2986/) | repealed, not consolidated | 1 | 2007-10-18 | 2007-10-18 |
+| Uredba o proglašenju ekološke mreže | [`uredba/2007/3182/`](uredba/2007/3182/) | repealed, not consolidated | 1 | 2007-11-01 | 2007-11-01 |
+| Uredba o izmjeni Uredbe o nazivima radnih mjesta i koeficijentima složenosti poslova u državnoj službi | [`uredba/2007/3183/`](uredba/2007/3183/) | in force | 1 | 2007-10-24 | 2007-10-24 |
+| Uredba o izmjeni Uredbe o načinu izračuna iznosa pomoći izravnanja za decentralizirane funkcije jedinica lokalne i područne (regionalne) samouprave za 2007. godinu | [`uredba/2007/3184/`](uredba/2007/3184/) | in force | 1 | 2007-10-24 | 2007-10-24 |
+| Uredba o dopuni Uredbe o nazivima radnih mjesta i koeficijentima složenosti poslova u javnim službama | [`uredba/2007/3291/`](uredba/2007/3291/) | amended, not consolidated | 1 | 2007-10-31 | 2007-10-31 |
+| Uredba o izmjenama Uredbe o dražbama (javnim nadmetanjima) određenih drvnih proizvoda | [`uredba/2007/3292/`](uredba/2007/3292/) | in force | 1 | 2007-11-08 | 2007-11-08 |
+| Uredba o izmjeni Uredbe o izravnim mjerama kontrole cijena | [`uredba/2007/3293/`](uredba/2007/3293/) | in force | 1 | 2007-11-08 | 2007-11-08 |
+| Uredba o izmjenama Uredbe o osnivanju Središnje agencije za financiranje i ugovaranje programa i projekata Europske unije | [`uredba/2007/3343/`](uredba/2007/3343/) | in force | 1 | 2007-11-06 | 2007-11-06 |
+| Uredba o izmjenama i dopunama Uredbe o unutarnjem ustrojstvu Ministarstva obrane | [`uredba/2007/3363/`](uredba/2007/3363/) | amending act | 1 | 2007-11-15 | 2007-11-15 |
+| Uredba o određivanju zahvata u prostoru i građevina za koje Ministarstvo zaštite okoliša, prostornog uređenja i graditeljstva izdaje lokacijsku i/ili građevinsku dozvolu | [`uredba/2007/3381/`](uredba/2007/3381/) | amended, not consolidated | 1 | 2007-11-12 | 2007-11-12 |
+| Uredba o osnivanju Međimurskog veleučilišta u Čakovcu | [`uredba/2007/3382/`](uredba/2007/3382/) | amended, not consolidated | 1 | 2007-11-12 | 2007-11-12 |
+| Uredba o izmjeni Tarife Zakona o upravnim pristojbama | [`uredba/2007/3413/`](uredba/2007/3413/) | amended, not consolidated | 1 | 2007-11-22 | 2007-11-22 |
+| Uredba o izmjenama Uredbe o ciljnoj cijeni svježeg sirovog mlijeka | [`uredba/2007/3556/`](uredba/2007/3556/) | amended, not consolidated | 1 | 2007-12-01 | 2007-12-01 |
+| Uredba o Carinskoj tarifi za 2008. godinu | [`uredba/2007/3578/`](uredba/2007/3578/) | amended, not consolidated | 1 | 2008-01-01 | 2008-01-01 |
+| Uredba o načinu izračuna iznosa pomoći izravnanja za decentralizirane funkcije jedinica lokalne i područne (regionalne) samouprave u prvom tromjesečju 2008. godine | [`uredba/2007/3626/`](uredba/2007/3626/) | in force | 1 | 2008-01-01 | 2008-01-01 |
+| Uredba o izmjenama i dopunama Uredbe o unutarnjem ustrojstvu Državnog inspektorata | [`uredba/2007/3627/`](uredba/2007/3627/) | amending act | 1 | 2007-12-20 | 2007-12-20 |
+| Uredba o izmjenama i dopunama Uredbe o unutarnjem ustrojstvu Ministarstva poljoprivrede, šumarstva i vodnoga gospodarstva | [`uredba/2007/3628/`](uredba/2007/3628/) | amending act | 1 | 2007-12-20 | 2007-12-20 |
+| Uredba o izmjenama i dopunama Uredbe o Uredu za udruge | [`uredba/2007/3630/`](uredba/2007/3630/) | amending act | 1 | 2007-12-12 | 2007-12-12 |
+| Uredba o izmjenama i dopuni Uredbe o nazivima radnih mjesta i koeficijentima složenosti poslova u javnim službama | [`uredba/2007/3631/`](uredba/2007/3631/) | amended, not consolidated | 1 | 2007-12-12 | 2007-12-12 |
+| Uredba o postupku i mjerilima za osnivanje prava služnosti na šumi i/ili šumskom zemljištu u vlasništvu Republike Hrvatske u svrhu eksploatacije mineralnih sirovina | [`uredba/2007/3780/`](uredba/2007/3780/) | repealed, not consolidated | 1 | 2007-12-27 | 2007-12-27 |
+| Uredba o izmjeni Uredbe o naknadama za poticanje proizvodnje električne energije iz obnovljenih izvora energije i kogeneracije | [`uredba/2007/3781/`](uredba/2007/3781/) | in force | 1 | 2007-12-27 | 2007-12-27 |
+| Uredba o dopuni Zakona o plaćama sudaca i drugih pravosudnih dužnosnika | [`uredba/2007/3841/`](uredba/2007/3841/) | amending act | 1 | 2007-12-31 | 2007-12-31 |
+| Uredba o izmjeni Zakona o državnij potpori u poljoprivredi, ribarstvu i šumarstvu | [`uredba/2007/3842/`](uredba/2007/3842/) | in force | 1 | 2007-12-31 | 2007-12-31 |
+| Uredba o izmjenama i dopunama Zakona o državnoj potpori za obrazovanje i izobrazbu | [`uredba/2007/3843/`](uredba/2007/3843/) | amending act | 1 | 2007-12-31 | 2007-12-31 |
+| Uredba o izmjeni Uredbe o carinskoj tarifi za 2008. godinu | [`uredba/2007/3844/`](uredba/2007/3844/) | in force | 1 | 2008-01-01 | 2008-01-01 |
+| Uredba o izmjenama i dopunama Odluke o privremenom financiranju poslova, funkcija i programa državnih tijela i drugih korisnika proračuna Republike Hrvatske u prvom tromjesečju 2008. godine | [`uredba/2008/178/`](uredba/2008/178/) | amending act | 1 | 2008-01-18 | 2008-01-18 |
+| Uredba o računovodstvu neprofitnih organizacija | [`uredba/2008/209/`](uredba/2008/209/) | repealed, not consolidated | 1 | 2008-01-23 | 2008-01-23 |
+| Uredba o izmjeni Uredbe o Uredu za odnose s javnošću | [`uredba/2008/210/`](uredba/2008/210/) | in force | 1 | 2008-01-23 | 2008-01-23 |
+| Uredba o objavama i evidenciji javne nabave | [`uredba/2008/359/`](uredba/2008/359/) | amended, not consolidated | 1 | 2008-02-01 | 2008-02-01 |
+| Uredba o uvjetima primjene Jedinstvenog rječnika javne nabave (CPV) | [`uredba/2008/360/`](uredba/2008/360/) | cited later, not consolidated | 1 | 2008-02-01 | 2008-02-01 |
+| Uredba o načinu izrade i postupanju s dokumentacijom za nadmetanje i ponudama | [`uredba/2008/361/`](uredba/2008/361/) | amended, not consolidated | 1 | 2008-02-01 | 2008-02-01 |
+| Uredba o računanju vremena u 2008. godini | [`uredba/2008/362/`](uredba/2008/362/) | in force | 1 | 2008-02-09 | 2008-02-09 |
+| Uredba o provođenju nadzora kroz obavljanje preventivno-instruktivne djelatnosti | [`uredba/2008/420/`](uredba/2008/420/) | in force | 1 | 2008-02-04 | 2008-02-04 |
+| Uredba o popisu obveznika primjene Zakona o javnoj nabavi | [`uredba/2008/422/`](uredba/2008/422/) | replaced, not consolidated | 1 | 2008-02-04 | 2008-02-04 |
+| Uredba o izmjenama i dopunama Uredbe o unutarnjem ustrojstvu Ministarstva financija | [`uredba/2008/423/`](uredba/2008/423/) | amending act | 1 | 2008-02-12 | 2008-02-12 |
+| Uredba o izmjeni Uredbe o Tajništvu Vlade Republike Hrvatske | [`uredba/2008/529/`](uredba/2008/529/) | in force | 1 | 2008-02-13 | 2008-02-13 |
+| Uredba o unutarnjem ustrojstvu Ministarstva kulture | [`uredba/2008/629/`](uredba/2008/629/) | amended, not consolidated | 1 | 2008-02-18 | 2008-02-18 |
+| Uredba o izmjenama i dopunama Uredbe o unutarnjem ustrojstvu Ministarstva obitelji, branitelja i međugeneracijske solidarnosti | [`uredba/2008/630/`](uredba/2008/630/) | amending act | 1 | 2008-02-18 | 2008-02-18 |
+| Uredba o izmjenama Uredbe o unutarnjem ustrojstvu Ministarstva gospodarstva, rada i poduzetništva | [`uredba/2008/631/`](uredba/2008/631/) | in force | 1 | 2008-02-18 | 2008-02-18 |
+| Uredba o izmjeni Uredbe o unutarnjem ustrojstvu Ministarstva obrane | [`uredba/2008/632/`](uredba/2008/632/) | in force | 1 | 2008-02-18 | 2008-02-18 |
+| Uredba o izmjeni Uredbe o uvođenju izvozne carine na kukuruz | [`uredba/2008/823/`](uredba/2008/823/) | in force | 1 | 2008-02-27 | 2008-02-27 |
+| Uredba o izmjeni Uredbe o uvođenju izvozne carine na pšenicu | [`uredba/2008/824/`](uredba/2008/824/) | in force | 1 | 2008-02-27 | 2008-02-27 |
+| Uredba o dopunama Uredbe o određivanju robe koja se izvozi i uvozi na temelju dozvola | [`uredba/2008/825/`](uredba/2008/825/) | amending act | 1 | 2008-03-06 | 2008-03-06 |
+| Uredba o izmjeni Uredbe o izmjeni Tarife Zakona o upravnim pristojbama | [`uredba/2008/826/`](uredba/2008/826/) | in force | 1 | 2008-02-27 | 2008-02-27 |
+| Uredba o unutarnjem ustrojstvu Ministarstva znanosti, obrazovanja i športa | [`uredba/2008/904/`](uredba/2008/904/) | amended, not consolidated | 1 | 2008-03-05 | 2008-03-05 |
+| Uredba o izmjeni Uredbe o unutarnjem ustrojstvu Ministarstva financija | [`uredba/2008/905/`](uredba/2008/905/) | in force | 1 | 2008-03-13 | 2008-03-13 |
+| Uredba o izmjenama Uredbe o unutarnjem ustrojstvu Ministarstva vanjskih poslova i europskih integracija te diplomatskih misija i konzularnih ureda Republike Hrvatske u inozemstvu | [`uredba/2008/906/`](uredba/2008/906/) | in force | 1 | 2008-03-05 | 2008-03-05 |
+| Uredba o izmjeni Uredbe o unutarnjem ustrojstvu Središnjeg državnog ureda za e-Hrvatsku | [`uredba/2008/907/`](uredba/2008/907/) | in force | 1 | 2008-03-05 | 2008-03-05 |
+| Uredba o izmjeni Uredbe o unutarnjem ustrojstvu Središnjeg državnog ureda za upravljanje državnom imovinom | [`uredba/2008/908/`](uredba/2008/908/) | in force | 1 | 2008-03-05 | 2008-03-05 |
+| Uredba o izmjeni Uredbe o unutarnjem ustrojstvu Državne geodetske uprave | [`uredba/2008/909/`](uredba/2008/909/) | in force | 1 | 2008-03-05 | 2008-03-05 |
+| Uredba o izmjenama Uredbe o Agenciji za pravni promet i posredovanje nekretninama | [`uredba/2008/910/`](uredba/2008/910/) | in force | 1 | 2008-03-13 | 2008-03-13 |
+| Uredba o izmjeni Uredbe o unutarnjem ustrojstvu Državnog zavoda za nuklearnu sigurnost | [`uredba/2008/945/`](uredba/2008/945/) | in force | 1 | 2008-03-10 | 2008-03-10 |
+| Uredba o izmjeni Uredbe o Uredu za protokol Vlade Republike Hrvatske | [`uredba/2008/946/`](uredba/2008/946/) | in force | 1 | 2008-03-10 | 2008-03-10 |
+| Uredba o izmjeni Uredbe o Uredu za ravnopravnost spolova | [`uredba/2008/947/`](uredba/2008/947/) | in force | 1 | 2008-03-10 | 2008-03-10 |
+| Uredba o izmjeni Uredbe o Uredu za ljudska prava | [`uredba/2008/948/`](uredba/2008/948/) | in force | 1 | 2008-03-10 | 2008-03-10 |
+| Uredba o izmjenama Uredbe o Uredu Vlade Republike Hrvatske za unutarnju reviziju | [`uredba/2008/949/`](uredba/2008/949/) | in force | 1 | 2008-03-10 | 2008-03-10 |
+| Uredba o izmjenama Uredbe o osnivanju Ureda za socijalno partnerstvo u Republici Hrvatskoj | [`uredba/2008/950/`](uredba/2008/950/) | in force | 1 | 2008-03-10 | 2008-03-10 |
+| Uredba o unutarnjem ustrojstvu Državnog zavoda za intelektualno vlasništvo | [`uredba/2008/974/`](uredba/2008/974/) | repealed, not consolidated | 1 | 2008-03-12 | 2008-03-12 |
+| Uredba o izmjenama i dopunama Uredbe o unutarnjem ustrojstvu Središnjeg državnog ureda za upravu | [`uredba/2008/975/`](uredba/2008/975/) | amending act | 1 | 2008-03-12 | 2008-03-12 |
+| Uredba o osnivanju Međunarodnog centra za podvodnu arheologiju u Zadru | [`uredba/2008/1078/`](uredba/2008/1078/) | in force | 1 | 2008-03-29 | 2008-03-29 |
+| Uredba o unutarnjem ustrojstvu Ministarstva regionalnog razvoja, šumarstva i vodnoga gospodarstva | [`uredba/2008/1113/`](uredba/2008/1113/) | amended, not consolidated | 1 | 2008-04-03 | 2008-04-03 |
+| Uredba o unutarnjem ustrojstvu Ministarstva turizma | [`uredba/2008/1114/`](uredba/2008/1114/) | repealed, not consolidated | 1 | 2008-03-26 | 2008-03-26 |
+| Uredba o izmjenama i dopunama Uredbe o unutarnjem ustrojstvu Ministarstva zdravstva i socijalne skrbi | [`uredba/2008/1115/`](uredba/2008/1115/) | amending act | 1 | 2008-03-26 | 2008-03-26 |
+| Uredba o opsegu i sadržaju odgovornosti te ovlastima tijela nadležnih za upravljanje Instrumentom pretpristupne pomoći (IPA) | [`uredba/2008/1116/`](uredba/2008/1116/) | repealed, not consolidated | 1 | 2008-03-26 | 2008-03-26 |
+| Uredba o unutarnjem ustrojstvu Ministarstva poljoprivrede, ribarstva i ruralnog razvoja | [`uredba/2008/1144/`](uredba/2008/1144/) | amended, not consolidated | 1 | 2008-03-28 | 2008-03-28 |
+| Uredba o izmjenama Uredbe o unutarnjem ustrojstvu Državnog hidrometeorološkog zavoda | [`uredba/2008/1270/`](uredba/2008/1270/) | in force | 1 | 2008-04-02 | 2008-04-02 |
+| Uredba o izmjenama i dopunama Uredbe o upravljanju programima CARDS, PHARE, ISPA i SAPARD | [`uredba/2008/1271/`](uredba/2008/1271/) | amending act | 1 | 2008-04-10 | 2008-04-10 |
+| Uredba o unutarnjem ustrojstvu Ministarstva mora, prometa i infrastrukture | [`uredba/2008/1383/`](uredba/2008/1383/) | amended, not consolidated | 1 | 2008-04-17 | 2008-04-17 |
+| Uredba o unutarnjem ustrojstvu Ministarstva gospodarstva, rada i poduzetništva | [`uredba/2008/1384/`](uredba/2008/1384/) | amended, not consolidated | 1 | 2008-04-09 | 2008-04-09 |
+| Uredba o viznom sustavu | [`uredba/2008/1385/`](uredba/2008/1385/) | repealed, not consolidated | 1 | 2008-05-01 | 2008-05-01 |
+| Uredba o prestanku važenja Uredbe o privremenom izvozu i uvozu robe | [`uredba/2008/1388/`](uredba/2008/1388/) | in force | 1 | 2008-04-09 | 2008-04-09 |
+| Uredba o izmjenama Uredbe o određivanju robe koja se izvozi i uvozi na temelju dozvola | [`uredba/2008/1389/`](uredba/2008/1389/) | in force | 1 | 2008-04-17 | 2008-04-17 |
+| Uredba o izmjeni Uredbe o unutarnjem ustrojstvu Državnog zavoda za mjeriteljstvo | [`uredba/2008/1390/`](uredba/2008/1390/) | in force | 1 | 2008-04-17 | 2008-04-17 |
+| Uredba o uvjetima te načinu zbrinjavanja radioaktivnog otpada, iskorištenih zatvorenih radioaktivnih izvora i izvora ionizirajućeg zračenja koji se ne namjeravaju dalje koristiti | [`uredba/2008/1472/`](uredba/2008/1472/) | repealed, not consolidated | 1 | 2008-04-24 | 2008-04-24 |
+| Uredba o izmjeni Uredbe o osnivanju Ureda za koordinaciju sustava procjene učinka propisa | [`uredba/2008/1473/`](uredba/2008/1473/) | in force | 1 | 2008-04-16 | 2008-04-16 |
+| Uredba o vrijednosti koeficijenta osobnog čina za izračun plaće djelatne vojne osobe | [`uredba/2008/1548/`](uredba/2008/1548/) | repealed, not consolidated | 1 | 2008-05-01 | 2008-05-01 |
+| Uredba o unutarnjem ustrojstvu Državnog zavoda za zaštitu od zračenja | [`uredba/2008/1549/`](uredba/2008/1549/) | in force | 1 | 2008-04-23 | 2008-04-23 |
+| Uredba o izmjeni Uredbe o unutarnjem ustrojstvu Središnjeg državnog ureda za razvojnu strategiju i koordinaciju fondova Europske unije | [`uredba/2008/1632/`](uredba/2008/1632/) | in force | 1 | 2008-05-07 | 2008-05-07 |
+| Uredba o načinu izračuna iznosa pomoći izravnanja za decentralizirane funkcije jedinica lokalne i područne (regionalne) samouprave za 2008. godinu | [`uredba/2008/1751/`](uredba/2008/1751/) | in force | 1 | 2008-05-07 | 2008-05-07 |
+| Uredba o izmjeni Uredbe o Tajništvu Vlade Republike Hrvatske | [`uredba/2008/1860/`](uredba/2008/1860/) | in force | 1 | 2008-05-14 | 2008-05-14 |
+| Uredba o izmjeni Uredbe o Popisu robe s dvojnom namjenom | [`uredba/2008/1950/`](uredba/2008/1950/) | in force | 1 | 2008-05-28 | 2008-05-28 |
+| Uredba o upravljanju i vođenju poslova Agencije za vodne putove | [`uredba/2008/1951/`](uredba/2008/1951/) | repealed, not consolidated | 1 | 2008-05-29 | 2008-05-29 |
+| Uredba o dopuni Uredbe o nazivima radnih mjesta i koeficijentima složenosti poslova u državnoj službi | [`uredba/2008/1952/`](uredba/2008/1952/) | amending act | 1 | 2008-05-21 | 2008-05-21 |
+| Uredba o dopunama Uredbe o poslovima i posebnim uvjetima rada u državnoj službi | [`uredba/2008/1953/`](uredba/2008/1953/) | amending act | 1 | 2008-05-21 | 2008-05-21 |
+| Uredba o izmjenama i dopunama Uredbe o plaćama policijskih službenika | [`uredba/2008/2056/`](uredba/2008/2056/) | amending act | 1 | 2008-06-05 | 2008-06-05 |
+| Uredba o izmjenama Uredbe o postupku davanja koncesije na pomorskom dobru | [`uredba/2008/2131/`](uredba/2008/2131/) | in force | 1 | 2008-06-10 | 2008-06-10 |
+| Uredba o izmjenama i dopunama Uredbe o postupku davanja koncesijskog odobrenja na pomorskom dobru | [`uredba/2008/2132/`](uredba/2008/2132/) | amending act | 1 | 2008-06-10 | 2008-06-10 |
+| Uredba o procjeni utjecaja zahvata na okoliš | [`uredba/2008/2175/`](uredba/2008/2175/) | repealed, not consolidated | 1 | 2008-06-12 | 2008-06-12 |
+| Uredba o strateškoj procjeni utjecaja plana i programa na okoliš | [`uredba/2008/2176/`](uredba/2008/2176/) | repealed, not consolidated | 1 | 2008-06-12 | 2008-06-12 |
+| Uredba o informiranju i sudjelovanju javnosti i zainteresirane javnosti u pitanjima zaštite okoliša | [`uredba/2008/2177/`](uredba/2008/2177/) | in force | 1 | 2008-06-12 | 2008-06-12 |
+| Uredba o obvezama iz područja nacionalne sigurnosti Republike Hrvatske za pravne i fizičke osobe u telekomunikacijama | [`uredba/2008/2178/`](uredba/2008/2178/) | amended, not consolidated | 1 | 2008-06-04 | 2008-06-04 |
+| Uredba o unutarnjem ustrojstvu Ministarstva vanjskih poslova i europskih integracija te diplomatskih misija i konzularnih ureda Republike Hrvatske u inozemstvu | [`uredba/2008/2179/`](uredba/2008/2179/) | repealed, not consolidated | 1 | 2008-06-12 | 2008-06-12 |
+| Uredba o izmjenama i dopunama Uredbe o unutarnjem ustrojstvu Ministarstva kulture | [`uredba/2008/2326/`](uredba/2008/2326/) | amending act | 1 | 2008-06-18 | 2008-06-18 |
+| Uredba o izmjenama i dopunama Uredbe o unutarnjem ustrojstvu ureda državne uprave u županijama | [`uredba/2008/2327/`](uredba/2008/2327/) | amending act | 1 | 2008-06-26 | 2008-06-26 |
+| Uredba o izmjenama i dopunama Uredbe o naknadama za posebne troškove i troškove za pružanje informacijskih usluga Državnog zavoda za intelektualno vlasništvo | [`uredba/2008/2328/`](uredba/2008/2328/) | amending act | 1 | 2008-06-26 | 2008-06-26 |
+| Uredba o postupcima službenog obavješćivanja u području norma, tehničkih propisa i postupaka ocjenjivanja sukladnosti, te propisa o uslugama informacijskog društva | [`uredba/2008/2424/`](uredba/2008/2424/) | repealed, not consolidated | 1 | 2008-06-26 | 2008-06-26 |
+| Uredba o osnivanju Agencije za reviziju sustava provedbe programa Europske unije | [`uredba/2008/2425/`](uredba/2008/2425/) | in force | 1 | 2008-07-04 | 2008-07-04 |
+| Uredba o davanju prethodne suglasnosti za sklapanje ugovora o javno-privatnom partnerstvu po modelu privatne financijske inicijative | [`uredba/2008/2427/`](uredba/2008/2427/) | in force | 1 | 2008-07-04 | 2008-07-04 |
+| Uredba o izmjenama i dopunama Uredbe o Carinskoj tarifi za 2008. godinu | [`uredba/2008/2429/`](uredba/2008/2429/) | amending act | 1 | 2008-07-04 | 2008-07-04 |
+| Uredba o izmjenama Uredbe za provođenje Zakona o konvalidaciji za upravno područje rada, zapošljavanja, mirovinskog i invalidskog osiguranja, doplatka za djecu, socijalne skrbi i zaštite vojnih i civi | [`uredba/2008/2452/`](uredba/2008/2452/) | in force | 1 | 2008-06-27 | 2008-06-27 |
+| Uredba o osnivanju Agencije za prometnu infrastrukturu | [`uredba/2008/2514/`](uredba/2008/2514/) | repealed, not consolidated | 1 | 2008-07-12 | 2008-07-12 |
+| Uredba o osnivanju Hrvatskoga mjeriteljskog instituta | [`uredba/2008/2515/`](uredba/2008/2515/) | repealed, not consolidated | 1 | 2008-07-12 | 2008-07-12 |
+| Uredba o osnivanju Državnog arhiva u Križevcima | [`uredba/2008/2516/`](uredba/2008/2516/) | in force | 1 | 2008-07-12 | 2008-07-12 |
+| Uredba o Hrvatskom centru za konjogojstvo - Državna ergela Lipik | [`uredba/2008/2517/`](uredba/2008/2517/) | cited later, not consolidated | 1 | 2008-07-12 | 2008-07-12 |
+| Uredba o unutarnjem ustrojstvu Ministarstva pravosuđa | [`uredba/2008/2518/`](uredba/2008/2518/) | amended, not consolidated | 1 | 2008-07-04 | 2008-07-04 |
+| Uredba o standardima koje moraju zadovoljavati plovila Obalne straže i plovila koja sudjeluju u provedbi planova područnih jedinica koordinacije | [`uredba/2008/2519/`](uredba/2008/2519/) | cited later, not consolidated | 1 | 2008-07-12 | 2008-07-12 |
+| Uredba o organizaciji i načinu rada Središnje koordinacije, Stručnog tijela i područnih jedinica koordinacije tijela nadležnih za nadzor i zaštitu prava i interesa Republike Hrvatske na moru | [`uredba/2008/2520/`](uredba/2008/2520/) | cited later, not consolidated | 1 | 2008-07-12 | 2008-07-12 |
+| Uredba o izmjenama Uredbe o tržnom redu za žitarice | [`uredba/2008/2626/`](uredba/2008/2626/) | in force | 1 | 2008-07-11 | 2008-07-11 |
+| Uredba o utvrđivanju visine boravišne pristojbe za 2009. godinu | [`uredba/2008/2633/`](uredba/2008/2633/) | amended, not consolidated | 1 | 2008-07-22 | 2008-07-22 |
+| Uredba o utvrđivanju visine boravišne pristojbe za građane koji pružanju ugostiteljske usluge u domaćinstvu za 2009. godinu | [`uredba/2008/2634/`](uredba/2008/2634/) | in force | 1 | 2008-07-22 | 2008-07-22 |
+| Uredba o utvrđivanju visine godišnjeg paušalnog iznosa boravišne pristojbe za korisnike stalnog veza u luci nautičkog turizma za 2009. godinu | [`uredba/2008/2635/`](uredba/2008/2635/) | in force | 1 | 2008-07-22 | 2008-07-22 |
+| Uredba o uvođenju izvozne carine na uljanu repicu | [`uredba/2008/2636/`](uredba/2008/2636/) | in force | 1 | 2008-07-22 | 2008-07-22 |
+| Uredba o izmjeni Uredbe o osnivanju Hrvatskog centra za razminiranje | [`uredba/2008/2637/`](uredba/2008/2637/) | in force | 1 | 2008-07-22 | 2008-07-22 |
+| Uredba o izmjenama Uredbe o klasifikaciji radnih mjesta u državnoj službi | [`uredba/2008/2639/`](uredba/2008/2639/) | in force | 1 | 2008-07-14 | 2008-07-14 |
+| Uredba o unutarnjem ustrojstvu Državne uprave za zaštitu i spašavanje | [`uredba/2008/2665/`](uredba/2008/2665/) | repealed, not consolidated | 1 | 2008-07-16 | 2008-07-16 |
+| Uredba o kriterijima za utvrđivanje korisnika i načinu raspodjele dijela prihoda od igara na sreću za 2008. godinu | [`uredba/2008/2761/`](uredba/2008/2761/) | amended, not consolidated | 1 | 2008-07-23 | 2008-07-23 |
+| Uredba o izmjenama i dopunama Uredbe o unutarnjem ustrojstvu Ministarstva znanosti, obrazovanja i športa | [`uredba/2008/2762/`](uredba/2008/2762/) | amending act | 1 | 2008-07-23 | 2008-07-23 |
+| Uredba o razini genetski modificiranih organizama u proizvodima ispod koje proizvodi koji se stavljaju na tržište ne moraju biti označeni kao proizvodi koji sadrže genetski modificirane organizme | [`uredba/2008/2913/`](uredba/2008/2913/) | amended, not consolidated | 1 | 2008-08-16 | 2008-08-16 |
+| Uredba o određivanju granice pomorskog dobra na dijelu k.o. Donja Podstrana | [`uredba/2008/2914/`](uredba/2008/2914/) | in force | 1 | 2008-08-16 | 2008-08-16 |
+| Uredba o određivanju granice pomorskog dobra na dijelu k.o. Omiš | [`uredba/2008/2915/`](uredba/2008/2915/) | amended, not consolidated | 1 | 2008-08-16 | 2008-08-16 |
+| Uredba o izmjeni i dopuni Zakona o trgovini | [`uredba/2008/2998/`](uredba/2008/2998/) | amending act | 1 | 2008-08-21 | 2008-08-21 |
+| Uredba o upravljanju i vođenju poslova lučkih uprava unutarnjih voda | [`uredba/2008/3027/`](uredba/2008/3027/) | repealed, not consolidated | 1 | 2008-09-11 | 2008-09-11 |
+| Uredba o sigurnosti opskrbe prirodnim plinom | [`uredba/2008/3259/`](uredba/2008/3259/) | amended, not consolidated | 1 | 2008-10-01 | 2008-10-01 |
+| Uredba o sadržaju, izgledu, načinu ispunjavanja i postupanju s Upitnikom za sigurnosnu provjeru | [`uredba/2008/3300/`](uredba/2008/3300/) | in force | 1 | 2008-10-14 | 2008-10-14 |
+| Uredba o postupku utvrđivanja objedinjenih uvjeta zaštite okoliša | [`uredba/2008/3301/`](uredba/2008/3301/) | repealed, not consolidated | 1 | 2009-03-31 | 2009-03-31 |
+| Uredba o izmjenama i dopunama Uredbe o tržnom redu za žitarice | [`uredba/2008/3304/`](uredba/2008/3304/) | amending act | 1 | 2008-10-06 | 2008-10-06 |
+| Uredba o izmjeni Uredbe o Carinskoj tarifi za 2008. godinu | [`uredba/2008/3305/`](uredba/2008/3305/) | in force | 1 | 2008-10-06 | 2008-10-06 |
+| Uredba o izmjenama i dopunama Uredbe o unutarnjem ustrojstvu Ministarstva gospodarstva, rada i poduzetništva | [`uredba/2008/3406/`](uredba/2008/3406/) | amending act | 1 | 2008-10-15 | 2008-10-15 |
+| Uredba o osnivanju Državnog arhiva u Virovitici | [`uredba/2008/3452/`](uredba/2008/3452/) | in force | 1 | 2008-10-28 | 2008-10-28 |
+| Uredba o postupku i mjerilima za osnivanje služnosti u šumi ili na šumskom zemljištu u vlasništvu Republike Hrvatske radi podizanja višegodišnjih nasada | [`uredba/2008/3453/`](uredba/2008/3453/) | repealed, not consolidated | 1 | 2008-10-28 | 2008-10-28 |
+| Uredba o izmjenama i dopunama Uredbe o tržnom redu za žitarice | [`uredba/2008/3571/`](uredba/2008/3571/) | amending act | 1 | 2008-10-29 | 2008-10-29 |
+| Uredba o osnivanju Agencije za opremu pod tlakom | [`uredba/2008/3770/`](uredba/2008/3770/) | repealed, not consolidated | 1 | 2008-11-14 | 2008-11-14 |
+| Uredba o pristaništima unutarnjih voda | [`uredba/2008/3783/`](uredba/2008/3783/) | repealed, not consolidated | 1 | 2008-11-27 | 2008-11-27 |
+| Uredba o opasnim tvarima u vodama | [`uredba/2008/3841/`](uredba/2008/3841/) | cited later, not consolidated | 1 | 2008-12-04 | 2008-12-04 |
+| Uredba o određivanju granice pomorskog dobra na dijelu k.o. Sućuraj | [`uredba/2008/3842/`](uredba/2008/3842/) | in force | 1 | 2008-12-04 | 2008-12-04 |
+| Uredba o izmjenama i dopunama Uredbe o klasifikaciji voda | [`uredba/2008/3843/`](uredba/2008/3843/) | amending act | 1 | 2008-12-04 | 2008-12-04 |
+| Uredba o carinskoj tarifi za 2009 godinu | [`uredba/2008/3928/`](uredba/2008/3928/) | amended, not consolidated | 1 | 2009-01-01 | 2009-01-01 |
+| Uredba o emisijskim kvotama za određene onečišćujuće tvari u Republici Hrvatskoj | [`uredba/2008/3929/`](uredba/2008/3929/) | repealed, not consolidated | 1 | 2008-12-13 | 2008-12-13 |
+| Uredba o provedbi fleksibilnih mehanizama Kyotskog protokola | [`uredba/2008/3940/`](uredba/2008/3940/) | cited later, not consolidated | 1 | 2008-12-18 | 2008-12-18 |
+| Uredba o emisijskim kvotama stakleničkih plinova i načinu trgovanja emisijskim jedinicama | [`uredba/2008/3941/`](uredba/2008/3941/) | repealed, not consolidated | 1 | 2008-12-18 | 2008-12-18 |
+| Uredba o unutarnjem ustrojstvu Državnog hidrometeorološkog zavoda | [`uredba/2008/4028/`](uredba/2008/4028/) | replaced, not consolidated | 1 | 2008-12-17 | 2008-12-17 |
+| Uredba o kriterijima za utvrđivanje korisnika o načinu raspodjele dijela prihoda od igara na sreću za 2009. godinu | [`uredba/2008/4100/`](uredba/2008/4100/) | amended, not consolidated | 1 | 2009-01-01 | 2009-01-01 |
+| Uredba o izmjenama i dopuni Uredbe o graničnim vrijednostima emisija onečišćujuih tvari u zrak iz stacionarnih izvora | [`uredba/2008/4101/`](uredba/2008/4101/) | amended, not consolidated | 1 | 2008-12-30 | 2008-12-30 |
+| Uredba o dopuni Zakon o športu | [`uredba/2008/4102/`](uredba/2008/4102/) | amending act | 1 | 2008-12-22 | 2008-12-22 |
+| Uredba o izmjenama i dopunama Zakona o deviznom poslovanju | [`uredba/2008/4103/`](uredba/2008/4103/) | amending act | 1 | 2008-12-22 | 2008-12-22 |
+| Uredba o osnivanju Agencije za regionalni razvoj Republike Hrvatske | [`uredba/2008/4211/`](uredba/2008/4211/) | repealed, not consolidated | 1 | 2009-01-07 | 2009-01-07 |
+| Uredba o iznosu, roku i načinu uplate sredstava za financiranje razgradnje i zbrinjavanja radioaktivnog otpada i istrošenoga nuklearnog goriva Nuklearne elektrane Krško | [`uredba/2008/4212/`](uredba/2008/4212/) | repealed, not consolidated | 1 | 2008-12-30 | 2008-12-30 |
+| Uredba o razdoblju za koje se izdaje dozvola za obavljanje energetskih djelatnosti | [`uredba/2008/4213/`](uredba/2008/4213/) | repealed, not consolidated | 1 | 2009-01-07 | 2009-01-07 |
+| Uredba o dopuni Zakona o plaćama sudaca i drugih pravosudnih dužnosnika | [`uredba/2008/4214/`](uredba/2008/4214/) | amending act | 1 | 2008-12-30 | 2008-12-30 |
+| Uredba o izmjeni Zakona o veterinarstvu | [`uredba/2008/4215/`](uredba/2008/4215/) | in force | 1 | 2008-12-30 | 2008-12-30 |
+| Uredba o izmjeni Zakona o hrani | [`uredba/2008/4216/`](uredba/2008/4216/) | in force | 1 | 2008-12-30 | 2008-12-30 |
+| Uredba o izmjeni Uredbe o naknadama za poticanje proizvodnje električne energije iz obnovljivih izvora energije i kogeneracije | [`uredba/2008/4217/`](uredba/2008/4217/) | in force | 1 | 2008-12-30 | 2008-12-30 |
+| Uredba o izmjenama i dopunama Uredbe o načinu izrade i postupanju s dokumentacijom za nadmetanje i ponudama | [`uredba/2009/113/`](uredba/2009/113/) | amending act | 1 | 2009-01-09 | 2009-01-09 |
+| Uredba o izmjeni i dopunama Zakona o državnoj potpori u poljoprivredi i ribarstvu | [`uredba/2009/114/`](uredba/2009/114/) | amending act | 1 | 2009-01-09 | 2009-01-09 |
+| Uredba o određivanju robe koja se izvozi i uvozi na temelju dozvola | [`uredba/2009/159/`](uredba/2009/159/) | repealed, not consolidated | 1 | 2009-01-14 | 2009-01-14 |
+| Uredba o uredskom poslovanju | [`uredba/2009/171/`](uredba/2009/171/) | repealed, not consolidated | 1 | 2010-01-01 | 2010-01-01 |
+| Uredba o izmjenama i dopunama Uredbe o računovodstvu neprofitnih organizacija | [`uredba/2009/172/`](uredba/2009/172/) | amending act | 1 | 2009-01-24 | 2009-01-24 |
+| Uredba o načinu izračuna iznosa pomoći izravnanja za decentralizirane funkcije jedinica lokalne i područne (regionalne) samouprave za 2009. godinu | [`uredba/2009/180/`](uredba/2009/180/) | amended, not consolidated | 1 | 2009-01-19 | 2009-01-19 |
+| Uredba o računanju vremena u 2009. godini | [`uredba/2009/244/`](uredba/2009/244/) | in force | 1 | 2009-02-05 | 2009-02-05 |
+| Uredba o izmjenama Uredbe o jediničnim naknadama, korektivnim koeficijentima i pobližim kriterijima i mjerilima za utvrđivanje naknade na emisiju u okoliš ugljikovog dioksida | [`uredba/2009/1069/`](uredba/2009/1069/) | in force | 1 | 2009-04-25 | 2009-04-25 |
+| Uredba o razdoblju za koje se izdaje dozvola za obavljanje energetskih djelatnosti | [`uredba/2009/1162/`](uredba/2009/1162/) | amended, not consolidated | 1 | 2009-04-30 | 2009-04-30 |
+| Uredba o izmjeni Uredbe o Carinskoj tarifi za 2009. godinu | [`uredba/2009/1198/`](uredba/2009/1198/) | in force | 1 | 2009-04-27 | 2009-04-27 |
+| Uredba o dopuni Uredbe o utvrđivanju visine boravišne pristojbe za 2009. godinu | [`uredba/2009/1226/`](uredba/2009/1226/) | amending act | 1 | 2009-05-12 | 2009-05-12 |
+| Uredba o dražbi određenih drvnih proizvoda | [`uredba/2009/1316/`](uredba/2009/1316/) | repealed, not consolidated | 1 | 2009-05-21 | 2009-05-21 |
+| Uredba o Uredu Vlade Republike Hrvatske za unutarnju reviziju | [`uredba/2009/1317/`](uredba/2009/1317/) | replaced, not consolidated | 1 | 2009-05-21 | 2009-05-21 |
+| Uredba o sadržaju Ugovora o javno-privatnom partnerstvu | [`uredba/2009/1318/`](uredba/2009/1318/) | cited later, not consolidated | 1 | 2009-05-21 | 2009-05-21 |
+| Uredba o nadzoru provedbe projekata javno-privatnog partnerstva | [`uredba/2009/1319/`](uredba/2009/1319/) | cited later, not consolidated | 1 | 2009-05-21 | 2009-05-21 |
+| Uredba o kriterijima ocjene i odobravanja projekata javno-privatnog partnerstva | [`uredba/2009/1320/`](uredba/2009/1320/) | cited later, not consolidated | 1 | 2009-05-21 | 2009-05-21 |
+| Uredba o izobrazbi sudionika u postupcima pripreme i provedbe projekata javno-privatnog partnerstva | [`uredba/2009/1321/`](uredba/2009/1321/) | cited later, not consolidated | 1 | 2009-05-21 | 2009-05-21 |
+| Uredba o izmjenama i dopuni Uredbe o viznom sustavu | [`uredba/2009/1322/`](uredba/2009/1322/) | amending act | 1 | 2009-05-21 | 2009-05-21 |
+| Uredba o uvjetima za obavljanje trgovine na veliko i trgovine s inozemstvom za određenu robu | [`uredba/2009/1361/`](uredba/2009/1361/) | repealed, not consolidated | 1 | 2009-05-28 | 2009-05-28 |
+| Uredba o izmjenama Uredbe o Uredu za ravnopravnost spolova | [`uredba/2009/1362/`](uredba/2009/1362/) | in force | 1 | 2009-05-28 | 2009-05-28 |
+| Uredba o izmjeni Uredbe o određivanju granice pomorskog dobra na dijelu k.o. Veliko Brdo | [`uredba/2009/1399/`](uredba/2009/1399/) | amended, not consolidated | 1 | 2009-06-04 | 2009-06-04 |
+| Uredba o pojedinim pitanjima u vezi djelatnosti Hrvatske agencije za obvezne zalihe nafte i naftnih derivata | [`uredba/2009/1438/`](uredba/2009/1438/) | in force | 1 | 2009-06-03 | 2009-06-03 |
+| Uredba o izmjenama i dopunama Uredbe o procjeni utjecaja zahvata na okoliš | [`uredba/2009/1594/`](uredba/2009/1594/) | amending act | 1 | 2009-06-18 | 2009-06-18 |
+| Uredba o unutarnjem ustrojstvu Ministarstva kulture | [`uredba/2009/1688/`](uredba/2009/1688/) | amended, not consolidated | 1 | 2009-06-17 | 2009-06-17 |
+| Uredba o medicinskom vještačenju u mirovinskom osiguranju | [`uredba/2009/1738/`](uredba/2009/1738/) | repealed, not consolidated | 1 | 2009-07-02 | 2009-07-02 |
+| Uredba o izmjenama i dopunama Uredbe o načinu i kriterijima za davanje u zakup šumskog zemljišta u vlasništvu Republike Hrvatske | [`uredba/2009/1739/`](uredba/2009/1739/) | amending act | 1 | 2009-06-24 | 2009-06-24 |
+| Uredba o izmjenama Uredbe o osnivanju Javne ustanove Hrvatski olimpijski centar | [`uredba/2009/1740/`](uredba/2009/1740/) | in force | 1 | 2009-06-24 | 2009-06-24 |
+| Uredba o izmjenama i dopunama Uredbe o određivanju robe koja se izvozi i uvozi na temelju dozvola | [`uredba/2009/1741/`](uredba/2009/1741/) | amending act | 1 | 2009-07-02 | 2009-07-02 |
+| Uredba o unutarnjem ustrojstvu Državnog zavoda za statistiku | [`uredba/2009/1770/`](uredba/2009/1770/) | amended, not consolidated | 1 | 2009-07-07 | 2009-07-07 |
+| Uredba o izmjenama Uredbe o načinu izračuna iznosa pomoći izravnanja za decentralizirane funkcije jedinica lokalne i područne (regionalne) samouprave za 2009. godinu | [`uredba/2009/1839/`](uredba/2009/1839/) | in force | 1 | 2009-07-01 | 2009-07-01 |
+| Uredba o izmjenama i dopunama Uredbe o unutarnjem ustrojstvu Državne geodetske uprave | [`uredba/2009/1887/`](uredba/2009/1887/) | amending act | 1 | 2009-07-08 | 2009-07-08 |
+| Uredba o izmjenama i dopunama Uredbe o plaćama policijskih službenika | [`uredba/2009/1888/`](uredba/2009/1888/) | amending act | 1 | 2009-07-16 | 2009-07-16 |
+| Uredba o određivanju osoba ovlaštenih za pokretanje postupka u svrhu kolektivne zaštite trgovaca od nedopuštenog oglašavanja | [`uredba/2009/2154/`](uredba/2009/2154/) | amended, not consolidated | 1 | 2009-07-30 | 2009-07-30 |
+| Uredba o načinu izračuna i visini sredstava za uzdržavanje stranaca u Republici Hrvatskoj | [`uredba/2009/2155/`](uredba/2009/2155/) | in force | 1 | 2009-07-30 | 2009-07-30 |
+| Uredba o određivanju granice pomorskog dobra na dijelu k.o. Martinšćica (uvala Slatina) | [`uredba/2009/2156/`](uredba/2009/2156/) | replaced, not consolidated | 1 | 2009-07-30 | 2009-07-30 |
+| Uredba o određivanju granice pomorskog dobra na dijelu k.o. Martinšćica (uvala Tiha) | [`uredba/2009/2157/`](uredba/2009/2157/) | replaced, not consolidated | 1 | 2009-07-30 | 2009-07-30 |
+| Uredba o određivanju granice pomorskog dobra na dijelu k.o. Soline | [`uredba/2009/2158/`](uredba/2009/2158/) | in force | 1 | 2009-07-30 | 2009-07-30 |
+| Uredba o određivanju granice pomorskog dobra na dijelu k.o. Vrbnik | [`uredba/2009/2159/`](uredba/2009/2159/) | in force | 1 | 2009-07-30 | 2009-07-30 |
+| Uredba o određivanju granice pomorskog dobra na dijelu k.o. Belej | [`uredba/2009/2160/`](uredba/2009/2160/) | in force | 1 | 2009-07-30 | 2009-07-30 |
+| Uredba o određivanju granice pomorskog dobra na dijelu k.o. Valun | [`uredba/2009/2161/`](uredba/2009/2161/) | in force | 1 | 2009-07-30 | 2009-07-30 |
+| Uredba o određivanju granice pomorskog dobra na dijelu k.o. Selce | [`uredba/2009/2162/`](uredba/2009/2162/) | amended, not consolidated | 1 | 2009-07-30 | 2009-07-30 |
+| Uredba o određivanju granice pomorskog dobra na dijelu k.o. Cres | [`uredba/2009/2163/`](uredba/2009/2163/) | replaced, not consolidated | 1 | 2009-07-30 | 2009-07-30 |
+| Uredba o izmjeni Uredbe o sigurnosti opskrbe prirodnim plinom | [`uredba/2009/2313/`](uredba/2009/2313/) | in force | 1 | 2009-07-29 | 2009-07-29 |
+| Uredba o izmjeni Zakona o deviznom poslovanju | [`uredba/2009/2314/`](uredba/2009/2314/) | in force | 1 | 2009-07-29 | 2009-07-29 |
+| Uredba o uvjetima za organiziranje, način poslovanja te postupak prodaje ribe na tržnicama na veliko ribom | [`uredba/2009/2372/`](uredba/2009/2372/) | in force | 1 | 2009-08-12 | 2009-08-12 |
+| Uredba o ukidanju Ureda za koordinaciju sustava procjene učinka propisa | [`uredba/2009/2373/`](uredba/2009/2373/) | in force | 1 | 2009-08-04 | 2009-08-04 |
+| Uredba o određivanju granice pomorskog dobra na dijelu k.o. Cres | [`uredba/2009/2374/`](uredba/2009/2374/) | in force | 1 | 2009-08-12 | 2009-08-12 |
+| Uredba o izmjenama i dopunama Uredbe o osnivanju Agencije za promicanje izvoza i ulaganja | [`uredba/2009/2375/`](uredba/2009/2375/) | amending act | 1 | 2009-08-12 | 2009-08-12 |
+| Uredba o provođenju nadzora nad provedbom Zakona o javnoj nabavi kroz obavljanje preventivno-instruktivne djelatnosti | [`uredba/2009/2433/`](uredba/2009/2433/) | cited later, not consolidated | 1 | 2009-08-15 | 2009-08-15 |
+| Uredba o određivanju lučkog područja luke Batina | [`uredba/2009/2434/`](uredba/2009/2434/) | in force | 1 | 2009-08-15 | 2009-08-15 |
+| Uredba o određivanju lučkog područja luke Aljmaš | [`uredba/2009/2435/`](uredba/2009/2435/) | in force | 1 | 2009-08-15 | 2009-08-15 |
+| Uredba o dopuni Uredbe o razdoblju za koje se izdaje dozvola za obavljanje energetskih djelatnosti | [`uredba/2009/2682/`](uredba/2009/2682/) | amending act | 1 | 2009-09-12 | 2009-09-12 |
+| Uredba o dopuni Uredbe o Agenciji za pravni promet i posredovanje nekretninama | [`uredba/2009/2683/`](uredba/2009/2683/) | amending act | 1 | 2009-09-12 | 2009-09-12 |
 | Uredba o izmjeni i dopunama Uredbe o naknadama za poticanje proizvodnje električne energije iz obnovljivih izvora energije i kogeneracije | [`uredba/2011/164/`](uredba/2011/164/) | amending act | 1 | 2011-01-19 | 2011-01-19 |
 | Uredba o izmjenama i dopunama Uredbe o minimalnom udjelu električne energije proizvedene iz obnovljivih izvora energije i kogeneracije čija se proizvodnja potiče | [`uredba/2011/165/`](uredba/2011/165/) | amending act | 1 | 2011-01-19 | 2011-01-19 |
 | Uredba o skupnom izuzeću sporazuma o prijenosu tehnologije | [`uredba/2011/195/`](uredba/2011/195/) | cited later, not consolidated | 1 | 2011-01-29 | 2011-01-29 |
