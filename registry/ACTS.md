@@ -1,6 +1,6 @@
 # Every act in this repository
 
-14287 acts, 14,598 versions. Each act lives in a folder named by its kind, year and identifier, `<kind>/<year>/<identifier>/` (acts published before that layout keep their own folder, listed in data/paths.json); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+14587 acts, 14,915 versions. Each act lives in a folder named by its kind, year and identifier, `<kind>/<year>/<identifier>/` (acts published before that layout keep their own folder, listed in data/paths.json); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## naputak (121, of which 21 amending acts)
 
@@ -591,7 +591,7 @@
 | Naredba o dopuni Naredbe o razvrstaju luka otvorenih za javni promet na području Primorsko-goranske županije | [`naredba/2026/1220/`](naredba/2026/1220/) | amending act | 1 | 2026-09-19 | 2026-09-19 |
 | Naredba o mjerama kontrole za suzbijanje afričke svinjske kuge u Republici Hrvatskoj | [`naredba/2026/1289/`](naredba/2026/1289/) | in force | 1 | 2026-09-24 | 2026-09-24 |
 
-## odluka (8939, of which 1141 amending acts)
+## odluka (9239, of which 1156 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -8107,12 +8107,14 @@
 | Odluka o postavljanju počasnog konzula Republike Hrvatske u Saveznoj Republici Brazilu, sa sjedištem u Sao Paulu | [`odluka/2023/66/`](odluka/2023/66/) | in force | 1 | 2022-12-15 | 2022-12-15 |
 | Odluka o kriterijima i mjerilima za financiranje troškova stanovanja te iznosu sredstava za pojedinu jedinicu lokalne samouprave za 2023. godinu | [`odluka/2023/79/`](odluka/2023/79/) | in force | 1 | 2023-01-14 | 2023-01-14 |
 | Odluka o izmjeni Odluke o osnivanju Lučke uprave Rijeka | [`odluka/2023/80/`](odluka/2023/80/) | in force | 1 | 2023-01-21 | 2023-01-21 |
+| Odluka o izmjenama Odluke o izravnim mjerama kontrole cijena određenih prehrambenih proizvoda | [`odluka/2023/82/`](odluka/2023/82/) | in force | 1 | 2023-01-14 | 2023-01-14 |
 | Odluka o određivanju državne tajnice koja upravlja Ministarstvom prostornoga uređenja, graditeljstva i državne imovine | [`odluka/2023/85/`](odluka/2023/85/) | in force | 1 | 2023-01-11 | 2023-01-11 |
 | Odluka o određivanju državnog tajnika koji upravlja Ministarstvom regionalnoga razvoja i fondova Europske unije | [`odluka/2023/86/`](odluka/2023/86/) | in force | 1 | 2023-01-11 | 2023-01-11 |
 | Odluka o katastarskoj izmjeri na području Grada Otočca za dijelove katastarskih općina Prozor i Čovići | [`odluka/2023/90/`](odluka/2023/90/) | in force | 1 | 2023-01-14 | 2023-01-14 |
 | Odluka o stavljanju u službenu uporabu katastarskog operata katastra nekretnina za katastarsku općinu Mala Švarča 1 | [`odluka/2023/91/`](odluka/2023/91/) | in force | 1 | 2023-01-04 | 2023-01-04 |
 | Odluka o stavljanju u službenu uporabu katastarskog operata katastra nekretnina za katastarsku općinu Studena - nova | [`odluka/2023/92/`](odluka/2023/92/) | in force | 1 | 2023-01-03 | 2023-01-03 |
 | Odluka o stavljanju u službenu uporabu katastarskog operata katastra nekretnina za katastarsku općinu Blace - Trn | [`odluka/2023/93/`](odluka/2023/93/) | in force | 1 | 2023-01-03 | 2023-01-03 |
+| Odluka o lokalnim porezima Općine Višnjan | [`odluka/2023/95/`](odluka/2023/95/) | repealed, not consolidated | 1 | 2023-01-21 | 2023-01-21 |
 | Odluka o stavljanju u službenu uporabu katastarskog operata katastra nekretnina za katastarsku općinu Beletinec | [`odluka/2023/111/`](odluka/2023/111/) | in force | 1 | 2023-01-16 | 2023-01-16 |
 | Odluka o katastarskoj izmjeri na području Grada Karlovca za dijelove katastarskih općina Donje Mekušje i Gornje Mekušje | [`odluka/2023/112/`](odluka/2023/112/) | in force | 1 | 2023-01-19 | 2023-01-19 |
 | Odluka o katastarskoj izmjeri na području Grada Karlovca za katastarsku općinu Velika Jelsa i dio katastarske općine Donje Pokupje | [`odluka/2023/113/`](odluka/2023/113/) | in force | 1 | 2023-01-19 | 2023-01-19 |
@@ -8152,21 +8154,32 @@
 | Odluka o stavljanju u službenu uporabu katastarskog operata katastra nekretnina za dio katastarske općine Kosinj za II. zonu | [`odluka/2023/183/`](odluka/2023/183/) | in force | 1 | 2023-01-13 | 2023-01-13 |
 | Odluka o zajamčenom prinosu obveznih mirovinskih fondova za 2022. godinu | [`odluka/2023/197/`](odluka/2023/197/) | in force | 1 | 2023-01-26 | 2023-01-26 |
 | Odluka o dopuni Odluke o promjeni granice pomorskog dobra radi građenja, rekonstrukcije i održavanja državne ceste DC56 | [`odluka/2023/207/`](odluka/2023/207/) | amending act | 1 | 2023-01-26 | 2023-01-26 |
+| Odluka o izmjeni Odluke o koordinaciji aktivnosti unutar okvira za gospodarsko upravljanje Europske unije | [`odluka/2023/209/`](odluka/2023/209/) | in force | 1 | 2023-01-20 | 2023-01-20 |
+| Odluka o izmjeni Odluke o nužnoj epidemiološkoj mjeri korištenja medicinskih maski ili maski za lice | [`odluka/2023/226/`](odluka/2023/226/) | in force | 1 | 2023-02-01 | 2023-02-01 |
 | Odluka o izmjenama i dopuni Odluke o financiranju najamnine za stambeno zbrinjavanje osoba čije su nekretnine stradale u potresima na području Grada Zagreba, Krapinsko-zagorske županije, Zagrebačke županije, Sisačko-moslavačke županije i Karlovačke županije | [`odluka/2023/251/`](odluka/2023/251/) | amending act | 1 | 2023-02-04 | 2023-02-04 |
 | Odluka o stavljanju u službenu uporabu katastarskog operata katastra nekretnina za katastarsku općinu Zakorenje | [`odluka/2023/260/`](odluka/2023/260/) | in force | 1 | 2023-01-31 | 2023-01-31 |
 | Odluka o izmjenama i dopunama Odluke o utvrđivanju Osnovne liste lijekova Hrvatskog zavoda za zdravstveno osiguranje | [`odluka/2023/268/`](odluka/2023/268/) | amending act | 1 | 2023-02-23 | 2023-02-23 |
 | Odluka o izmjenama i dopunama Odluke o utvrđivanju Dopunske liste lijekova Hrvatskog zavoda za zdravstveno osiguranje | [`odluka/2023/269/`](odluka/2023/269/) | amending act | 1 | 2023-02-23 | 2023-02-23 |
 | Odluka o izmjenama i dopunama Odluke o utvrđivanju Popisa posebno skupih lijekova | [`odluka/2023/270/`](odluka/2023/270/) | amending act | 1 | 2023-02-23 | 2023-02-23 |
+| Odluka o izmjenama i dopunama Odluke o utvrđivanju Osnovne liste ortopedskih i drugih pomagala Hrvatskog zavoda za zdravstveno osiguranje | [`odluka/2023/271/`](odluka/2023/271/) | amended, not consolidated | 1 | 2023-02-23 | 2023-02-23 |
+| Odluka o utvrđivanju Dodatne liste ortopedskih i drugih pomagala Hrvatskog zavoda za zdravstveno osiguranje | [`odluka/2023/272/`](odluka/2023/272/) | repealed 2023-03-18 | 2 | 2023-02-23 | 2023-03-18 |
 | Odluka o usklađenju sredstava jamstvenog pologa za 2023. godinu | [`odluka/2023/273/`](odluka/2023/273/) | in force | 1 | 2023-02-09 | 2023-02-09 |
+| Odluka o lokalnim porezima Općine Lovinac | [`odluka/2023/274/`](odluka/2023/274/) | repealed, not consolidated | 1 | 2023-01-01 | 2023-01-01 |
+| Odluka o određivanju i objavi prodajnih cijena prigodnih zlatnih i srebrnih kovanica, numizmatičkih kovanica i numizmatičkih kompleta | [`odluka/2023/283/`](odluka/2023/283/) | cited later, not consolidated | 1 | 2023-02-18 | 2023-02-18 |
+| Odluka o naknadi za razvoj trgovačkog društva Vodovod i kanalizacija d.o.o., Karlovac | [`odluka/2023/284/`](odluka/2023/284/) | repealed, not consolidated | 1 | 2023-03-01 | 2023-03-01 |
 | Odluka o naknadi za razvoj trgovačkog društva Komunalac d.o.o., Županja | [`odluka/2023/288/`](odluka/2023/288/) | in force | 1 | 2023-02-15 | 2023-02-15 |
 | Odluka o upisu ulovnih ribarskih plovila udičarskim alatima u Registar ICCAT-a (ICCAT Record of BFT Catching Vessels) u 2023. godini | [`odluka/2023/298/`](odluka/2023/298/) | in force | 1 | 2023-02-15 | 2023-02-15 |
 | Odluka o raspisivanju prijevremenih izbora za općinskog načelnika Općine Kalnik | [`odluka/2023/311/`](odluka/2023/311/) | in force | 1 | 2023-02-23 | 2023-02-23 |
 | Odluka o određivanju upravitelja željezničke infrastrukture | [`odluka/2023/312/`](odluka/2023/312/) | in force | 1 | 2023-02-16 | 2023-02-16 |
 | Odluka o donošenju Smjernica politike državnih potpora za razdoblje 2023. - 2025. | [`odluka/2023/313/`](odluka/2023/313/) | in force | 1 | 2023-02-16 | 2023-02-16 |
+| Odluka o davanju suglasnosti na Odluku Županijske skupštine Splitsko-dalmatinske županije o dopuni Odluke o osnivanju Lučke uprave Splitsko-dalmatinske županije | [`odluka/2023/314/`](odluka/2023/314/) | amending act | 1 | 2023-02-16 | 2023-02-16 |
 | Odluka o usklađivanju svote nacionalne naknade za starije osobe od 1. siječnja 2023. | [`odluka/2023/339/`](odluka/2023/339/) | in force | 1 | 2023-02-25 | 2023-02-25 |
 | Odluka o naknadi za razvoj komunalnih vodnih građevina trgovačkog društva Vodoopskrba i odvodnja d.o.o., Zagreb | [`odluka/2023/368/`](odluka/2023/368/) | in force | 1 | 2023-03-01 | 2023-03-01 |
 | Odluka o donošenju Strateškog plana Zajedničke poljoprivredne politike Republike Hrvatske 2023. - 2027. | [`odluka/2023/372/`](odluka/2023/372/) | in force | 1 | 2023-02-23 | 2023-02-23 |
 | Odluka o isplati materijalnih i nematerijalnih prava te drugih naknada za zaposlenike u ustanovama iz sustava visokog obrazovanja i znanosti | [`odluka/2023/373/`](odluka/2023/373/) | in force | 1 | 2023-03-02 | 2023-03-02 |
+| Odluka o osnivanju Nacionalnog vijeća za digitalnu transformaciju | [`odluka/2023/374/`](odluka/2023/374/) | amended, not consolidated | 1 | 2023-02-23 | 2023-02-23 |
+| Odluka o izmjeni Odluke o ribarskim plovilima autoriziranima za rad u Jabučkom džepu za razdoblje 2022. - 2026. godine | [`odluka/2023/379/`](odluka/2023/379/) | in force | 1 | 2023-02-25 | 2023-02-25 |
+| Odluka o izmjeni Odluke o nužnoj epidemiološkoj mjeri korištenja medicinskih maski ili maski za lice | [`odluka/2023/389/`](odluka/2023/389/) | in force | 1 | 2023-03-01 | 2023-03-01 |
 | Odluka o dopuni Odluke o visini naknade za rad udomitelja | [`odluka/2023/391/`](odluka/2023/391/) | amending act | 1 | 2023-03-02 | 2023-03-02 |
 | Odluka o postavljanju počasnog konzula Republike Hrvatske u Češkoj Republici, sa sjedištem u Brnu | [`odluka/2023/412/`](odluka/2023/412/) | in force | 1 | 2023-02-23 | 2023-02-23 |
 | Odluka o rasporedu neutrošenih sredstava Državnog proračuna Republike Hrvatske za 2023. godinu | [`odluka/2023/417/`](odluka/2023/417/) | in force | 1 | 2023-03-02 | 2023-03-02 |
@@ -8179,8 +8192,11 @@
 | Odluka o katastarskoj izmjeri na području Općine Đelekovec za dio katastarske općine Imbriovec | [`odluka/2023/430/`](odluka/2023/430/) | in force | 1 | 2023-03-04 | 2023-03-04 |
 | Odluka o katastarskoj izmjeri na području Grada Gline za katastarsku općinu Prekopa i dijelove katastarskih općina Majske poljane i Kihalac | [`odluka/2023/431/`](odluka/2023/431/) | in force | 1 | 2023-03-04 | 2023-03-04 |
 | Odluka o katastarskoj izmjeri na području Grada Petrinje za dio katastarske općine Petrinja (jug) | [`odluka/2023/432/`](odluka/2023/432/) | in force | 1 | 2023-03-04 | 2023-03-04 |
+| Odluka o izmjenama i dopunama Odluke o utvrđivanju Osnovne liste ortopedskih i drugih pomagala Hrvatskog zavoda za zdravstveno osiguranje | [`odluka/2023/435/`](odluka/2023/435/) | amending act | 1 | 2023-03-18 | 2023-03-18 |
+| Odluka o utvrđivanju Dodatne liste ortopedskih i drugih pomagala Hrvatskog zavoda za zdravstveno osiguranje | [`odluka/2023/436/`](odluka/2023/436/) | repealed 2023-07-20 | 2 | 2023-03-18 | 2023-07-20 |
 | Odluka o izboru potpredsjednika i članova Državnog izbornog povjerenstva Republike Hrvatske | [`odluka/2023/440/`](odluka/2023/440/) | in force | 1 | 2023-03-03 | 2023-03-03 |
 | Odluka o visini otpremnine za djelatne vojne osobe kojima prestane služba | [`odluka/2023/447/`](odluka/2023/447/) | in force | 1 | 2023-03-16 | 2023-03-16 |
+| Odluka o izmjenama i dopunama Odluke o izvještajima za potrebe supervizije kreditnih institucija | [`odluka/2023/462/`](odluka/2023/462/) | amending act | 1 | 2023-03-31 | 2023-03-31 |
 | Odluka o aktualnoj vrijednosti mirovine od 1. siječnja 2023. | [`odluka/2023/463/`](odluka/2023/463/) | in force | 1 | 2023-03-16 | 2023-03-16 |
 | Odluka o najnižoj mirovini za jednu godinu mirovinskog staža od 1. siječnja 2023. | [`odluka/2023/464/`](odluka/2023/464/) | in force | 1 | 2023-03-16 | 2023-03-16 |
 | Odluka o osnovici za određivanje naknade zbog tjelesnog oštećenja i o usklađivanju novčanih naknada zbog tjelesnog oštećenja od 1. siječnja 2023. | [`odluka/2023/465/`](odluka/2023/465/) | in force | 1 | 2023-03-16 | 2023-03-16 |
@@ -8188,24 +8204,45 @@
 | Odluka o osnovicama za utvrđivanje vrijednosnog boda prema osobnom činu, ustrojbenom mjestu odnosno zvanju hrvatskog branitelja iz Domovinskog rata za godinu 2022. | [`odluka/2023/467/`](odluka/2023/467/) | in force | 1 | 2023-03-16 | 2023-03-16 |
 | Odluka o faktoru osnovne mirovine od 1. siječnja 2023. | [`odluka/2023/468/`](odluka/2023/468/) | in force | 1 | 2023-03-16 | 2023-03-16 |
 | Odluka o donošenju Programa mjera obnove zgrada oštećenih potresom na području Grada Zagreba, Krapinsko-zagorske županije, Zagrebačke županije, Sisačko-moslavačke županije i Karlovačke županije | [`odluka/2023/473/`](odluka/2023/473/) | repealed 2024-12-31 | 2 | 2023-03-11 | 2024-12-31 |
+| Odluka o određivanju iznosa razlike između jediničnih cijena za centralne toplinske sustave i zatvorene toplinske sustave u odnosu na krajnje cijene isporučene toplinske energije | [`odluka/2023/474/`](odluka/2023/474/) | amended, not consolidated | 1 | 2023-03-11 | 2023-03-11 |
 | Odluka o donošenju Nacionalnog plana za ravnopravnost spolova za razdoblje do 2027. godine i Akcijskog plana za provedbu Nacionalnog plana za razdoblje do 2024. godine | [`odluka/2023/475/`](odluka/2023/475/) | in force | 1 | 2023-03-09 | 2023-03-09 |
 | Odluka o sustavu upravljanja i praćenja provedbe važnih projekata od zajedničkog europskog interesa (VPZEI) | [`odluka/2023/476/`](odluka/2023/476/) | in force | 1 | 2023-03-09 | 2023-03-09 |
 | Odluka o raspisivanju prijevremenih izbora za članove Gradskog vijeća Grada Čabra, Gradskog vijeća Grada Varaždina, Općinskog vijeća Općine Kali i Općinskog vijeća Općine Kukljica | [`odluka/2023/496/`](odluka/2023/496/) | in force | 1 | 2023-03-16 | 2023-03-16 |
+| Odluka o iznosu tarifnih stavki za zajamčenu opskrbu električnom energijom | [`odluka/2023/504/`](odluka/2023/504/) | replaced, not consolidated | 1 | 2023-04-01 | 2023-04-01 |
 | Odluka o stavljanju u službenu uporabu katastarskog operata katastra nekretnina za katastarsku općinu Goveđari | [`odluka/2023/520/`](odluka/2023/520/) | in force | 1 | 2023-03-06 | 2023-03-06 |
+| Odluka o isplati jednokratnog novčanog primanja korisnicima prava u sustavu socijalne skrbi i sustavu skrbi o hrvatskim braniteljima iz Domovinskog rata radi ublažavanja posljedica rasta troškova života | [`odluka/2023/536/`](odluka/2023/536/) | in force | 1 | 2023-04-01 | 2023-04-01 |
+| Odluka o naknadi za obnovljive izvore energije i visokoučinkovitu kogeneraciju | [`odluka/2023/537/`](odluka/2023/537/) | amended, not consolidated | 1 | 2023-03-18 | 2023-03-18 |
 | Odluka o subvencioniranju dijela krajnje cijene opskrbe plinom za krajnje kupce kategorije kućanstvo te krajnje kupce koji nisu kućanstvo s godišnjom potrošnjom plina do 10 GWh | [`odluka/2023/538/`](odluka/2023/538/) | in force | 1 | 2023-04-01 | 2023-04-01 |
 | Odluka o neprimjeni Indeksa potrošačkih cijena na ugovore o zakupu poslovnih prostora u vlasništvu Republike Hrvatske kojima upravljaju Ministarstvo prostornoga uređenja, graditeljstva i državne imovine i društvo Državne nekretnine d.o.o. | [`odluka/2023/539/`](odluka/2023/539/) | in force | 1 | 2023-03-16 | 2023-03-16 |
+| Odluka o nastavku provedbe mjere za smanjenje utjecaja porasta cijena energenata na pružatelje socijalnih usluga u Republici Hrvatskoj | [`odluka/2023/540/`](odluka/2023/540/) | replaced, not consolidated | 1 | 2023-04-01 | 2023-04-01 |
+| Odluka o isplati novčanog primanja nezaposlenim osobama radi ublažavanja posljedica porasta cijena | [`odluka/2023/541/`](odluka/2023/541/) | replaced, not consolidated | 1 | 2023-04-01 | 2023-04-01 |
+| Odluka o isplati jednokratnog novčanog primanja korisnicima mirovine radi ublažavanja posljedica rasta troškova života | [`odluka/2023/542/`](odluka/2023/542/) | amended, not consolidated | 1 | 2023-04-01 | 2023-04-01 |
+| Odluka o isplati jednokratnog novčanog primanja korisnicima doplatka za djecu radi ublažavanja posljedica porasta cijena energenata | [`odluka/2023/543/`](odluka/2023/543/) | replaced, not consolidated | 1 | 2023-04-01 | 2023-04-01 |
 | Odluka o izmjenama Odluke o izravnim mjerama kontrole cijena određenih prehrambenih proizvoda | [`odluka/2023/544/`](odluka/2023/544/) | in force | 1 | 2023-03-18 | 2023-03-18 |
+| Odluka o obliku, sadržaju i rokovima izvještavanja Središnjeg registra osiguranika | [`odluka/2023/565/`](odluka/2023/565/) | amended, not consolidated | 1 | 2023-04-01 | 2023-04-01 |
+| Odluka o utvrđivanju Popisa pojedinačnih zanimanja prema Nacionalnoj klasifikaciji zanimanja NKZ 10 | [`odluka/2023/568/`](odluka/2023/568/) | cited later, not consolidated | 1 | 2023-03-30 | 2023-03-30 |
 | Odluka o iznosu tarifnih stavki za zajamčenu opskrbu plinom za krajnje kupce koji nisu kućanstvo za razdoblje od 1. travnja 2023. do 30. lipnja 2023. | [`odluka/2023/572/`](odluka/2023/572/) | in force | 1 | 2023-04-01 | 2023-04-01 |
 | Odluka o donošenju Nacionalnog plana razvoja sustava obrazovanja za razdoblje do 2027. godine i Akcijskog plana za provedbu Nacionalnog plana razvoja sustava obrazovanja za razdoblje do 2027. godine, za razdoblje do 2024. godine | [`odluka/2023/585/`](odluka/2023/585/) | in force | 1 | 2023-03-22 | 2023-03-22 |
 | Odluka o davanju suglasnosti na Odluku Županijske skupštine Splitsko-dalmatinske županije o dopuni Odluke o osnivanju Lučke uprave Splitsko-dalmatinske županije | [`odluka/2023/587/`](odluka/2023/587/) | amending act | 1 | 2023-03-22 | 2023-03-22 |
+| Odluka o izmjeni Odluke o financiranju troškova za stambeno zbrinjavanje raseljenih osoba iz Ukrajine u pojedinačnom smještaju | [`odluka/2023/588/`](odluka/2023/588/) | in force | 1 | 2023-03-25 | 2023-03-25 |
+| Odluka o izmjeni Odluke o osnivanju Nacionalnog vijeća za zaštitu na radu | [`odluka/2023/604/`](odluka/2023/604/) | in force | 1 | 2023-03-22 | 2023-03-22 |
+| Odluka o usklađivanju prosječnih koeficijenata troškova života u državama u kojima Republika Hrvatska ima predstavništva | [`odluka/2023/613/`](odluka/2023/613/) | repealed, not consolidated | 1 | 2023-04-01 | 2023-04-01 |
+| Odluka o raspoređivanju sredstava za rad političkih stranaka i nezavisnih zastupnika | [`odluka/2023/620/`](odluka/2023/620/) | repealed, not consolidated | 1 | 2023-04-01 | 2023-04-01 |
+| Odluka o osiguranju zaliha plina na teritoriju Republike Hrvatske za ogrjevnu sezonu 2023./2024. | [`odluka/2023/624/`](odluka/2023/624/) | cited later, not consolidated | 1 | 2023-03-30 | 2023-03-30 |
 | Odluka o donošenju Nacionalnog plana zaštite i promicanja ljudskih prava i suzbijanja diskriminacije za razdoblje do 2027. godine, Akcijskog plana zaštite i promicanja ljudskih prava za 2023. godinu i Akcijskog plana suzbijanja diskriminacije za 2023. godinu | [`odluka/2023/625/`](odluka/2023/625/) | in force | 1 | 2023-03-30 | 2023-03-30 |
 | Odluka o raspisivanju izbora za članove vijeća nacionalnih manjina u jedinicama lokalne i područne (regionalne) samouprave | [`odluka/2023/629/`](odluka/2023/629/) | in force | 1 | 2023-04-03 | 2023-04-03 |
+| Odluka o raspisivanju izbora za predstavnike nacionalnih manjina u jedinicama lokalne i područne (regionalne) samouprave | [`odluka/2023/630/`](odluka/2023/630/) | in force | 1 | 2023-04-03 | 2023-04-03 |
 | Odluka o izmjeni Odluke o zabrani novog zapošljavanja državnih službenika i namještenika u tijelima državne uprave te uredima i drugim stručnim službama Vlade Republike Hrvatske | [`odluka/2023/633/`](odluka/2023/633/) | in force | 1 | 2023-04-08 | 2023-04-08 |
 | Odluka o izmjeni Odluke o izravnim mjerama kontrole cijena određenih prehrambenih proizvoda | [`odluka/2023/634/`](odluka/2023/634/) | in force | 1 | 2023-04-01 | 2023-04-01 |
+| Odluka o izmjeni Odluke o nužnoj epidemiološkoj mjeri korištenja medicinskih maski ili maski za lice | [`odluka/2023/639/`](odluka/2023/639/) | in force | 1 | 2023-04-01 | 2023-04-01 |
 | Odluka o izmjenama i dopuni Odluke o osnovama za sklapanje ugovora o provođenju specifične zdravstvene zaštite | [`odluka/2023/643/`](odluka/2023/643/) | amending act | 1 | 2023-04-01 | 2023-04-01 |
+| Odluka o izmjenama Odluke o osnovama za sklapanje ugovora o provođenju zdravstvene zaštite iz obveznog zdravstvenog osiguranja | [`odluka/2023/644/`](odluka/2023/644/) | in force | 1 | 2023-04-01 | 2023-04-01 |
+| Odluka o izmjenama i dopunama Odluke o utvrđivanju Osnovne liste ortopedskih i drugih pomagala Hrvatskog zavoda za zdravstveno osiguranje | [`odluka/2023/645/`](odluka/2023/645/) | amending act | 1 | 2023-04-15 | 2023-04-15 |
+| Odluka o dopuni Odluke o popisu izvornih i ugroženih pasmina domaćih životinja | [`odluka/2023/659/`](odluka/2023/659/) | amending act | 1 | 2023-03-23 | 2023-03-23 |
 | Odluka o stavljanju u službenu uporabu katastarskog operata katastra nekretnina za katastarsku općinu Čučerje Novo za III. zonu (zone izlaganja 3., 4., 10., 13. i 15.) | [`odluka/2023/662/`](odluka/2023/662/) | in force | 1 | 2023-03-15 | 2023-03-15 |
 | Odluka o stavljanju u službenu uporabu katastarskog operata katastra nekretnina za katastarsku općinu Gorica Nova | [`odluka/2023/663/`](odluka/2023/663/) | in force | 1 | 2023-03-29 | 2023-03-29 |
 | Odluka o oslobođenju od obveze plaćanja najamnine za korištenje stanova u vlasništvu Republike Hrvatske za vrijeme privremenog stambenog zbrinjavanja | [`odluka/2023/675/`](odluka/2023/675/) | in force | 1 | 2023-04-06 | 2023-04-06 |
+| Odluka o autorizaciji plovila za ribolov igluna (Xiphias gladius) u 2023. godini | [`odluka/2023/680/`](odluka/2023/680/) | amended, not consolidated | 1 | 2023-04-08 | 2023-04-08 |
 | Odluka o lokalnim porezima Općine Donji Lapac | [`odluka/2023/695/`](odluka/2023/695/) | repealed 2024-01-01 | 2 | 2023-01-01 | 2024-01-01 |
 | Odluka o izmjenama i dopunama br. 7 Ugovora o koncesiji za financiranje, građenje, upravljanje i održavanje »Jadranske autoceste« - dionica Dragonja - Pula i Kanfanar - Pazin - Matulji | [`odluka/2023/726/`](odluka/2023/726/) | amending act | 1 | 2023-04-13 | 2023-04-13 |
 | Odluka o stavljanju u službenu uporabu katastarskog operata katastra nekretnina za katastarsku općinu Banićevac novi | [`odluka/2023/735/`](odluka/2023/735/) | in force | 1 | 2023-04-06 | 2023-04-06 |
@@ -8217,26 +8254,48 @@
 | Odluka o postavljanju počasnog konzula Republike Hrvatske u Japanu, sa sjedištem u Osaki | [`odluka/2023/746/`](odluka/2023/746/) | in force | 1 | 2023-04-04 | 2023-04-04 |
 | Odluka o izmjeni Odluke o osnivanju Konzulata Republike Hrvatske u Kraljevini Španjolskoj, sa sjedištem u Barceloni | [`odluka/2023/747/`](odluka/2023/747/) | in force | 1 | 2023-04-04 | 2023-04-04 |
 | Odluka o postavljanju počasne konzulice Republike Hrvatske u Kraljevini Španjolskoj, sa sjedištem u Barceloni | [`odluka/2023/748/`](odluka/2023/748/) | in force | 1 | 2023-04-04 | 2023-04-04 |
+| Odluka o donošenju Izmjena i dopuna strukovnog kurikuluma za stjecanje strukovne kvalifikacije TEHNIČAR ZA BRODOSTROJARSTVO (011704) u obrazovnom sektoru STROJARSTVO, BRODOGRADNJA I METALURGIJA | [`odluka/2023/754/`](odluka/2023/754/) | repealed, not consolidated | 1 | 2023-04-27 | 2023-04-27 |
 | Odluka o rasporedu sredstava koja se u Državnom proračunu Republike Hrvatske osiguravaju za potrebe nacionalnih manjina u 2023. godini | [`odluka/2023/756/`](odluka/2023/756/) | in force | 1 | 2023-04-20 | 2023-04-20 |
 | Odluka o dopuni Odluke o određivanju iznosa razlike između jediničnih cijena za centralne toplinske sustave i zatvorene toplinske sustave u odnosu na krajnje cijene isporučene toplinske energije | [`odluka/2023/761/`](odluka/2023/761/) | amending act | 1 | 2023-04-22 | 2023-04-22 |
 | Odluka o izmjeni Odluke o osnivanju Lučke uprave Split | [`odluka/2023/762/`](odluka/2023/762/) | in force | 1 | 2023-04-29 | 2023-04-29 |
+| Odluka o naknadi za razvoj trgovačkog društva Voda d.o.o., Orahovica | [`odluka/2023/768/`](odluka/2023/768/) | repealed, not consolidated | 1 | 2023-04-29 | 2023-04-29 |
+| Odluka o naknadi za razvoj komunalnih vodnih građevina trgovačkog društva VODOVOD IMOTSKE KRAJINE d.o.o. | [`odluka/2023/769/`](odluka/2023/769/) | repealed, not consolidated | 1 | 2023-04-29 | 2023-04-29 |
 | Odluka o stavljanju u službenu uporabu katastarskog operata katastra nekretnina za katastarsku općinu Ivanovci Đakovački Nova | [`odluka/2023/775/`](odluka/2023/775/) | in force | 1 | 2023-04-14 | 2023-04-14 |
+| Odluka o izmjenama i dopunama Statuta Hrvatskoga Crvenog križa | [`odluka/2023/785/`](odluka/2023/785/) | repealed, not consolidated | 1 | 2023-05-04 | 2023-05-04 |
 | Odluka o osnivanju Povjerenstva za koordinaciju potpore i financiranje obrazovnih, znanstvenih, kulturnih, zdravstvenih, poljoprivrednih i ostalih programa i projekata od interesa za hrvatski narod u Bosni i Hercegovini za 2023. godinu | [`odluka/2023/794/`](odluka/2023/794/) | in force | 1 | 2023-04-29 | 2023-04-29 |
+| Odluka o kriterijima i visini naknade za smanjenje utjecaja porasta cijena energenata na udomitelje | [`odluka/2023/798/`](odluka/2023/798/) | replaced, not consolidated | 1 | 2023-05-01 | 2023-05-01 |
 | Odluka o izmjeni Odluke o nužnoj epidemiološkoj mjeri korištenja medicinskih maski ili maski za lice | [`odluka/2023/799/`](odluka/2023/799/) | in force | 1 | 2023-05-01 | 2023-05-01 |
 | Odluka o izmjeni Odluke o kamatnim stopama na novčana sredstva subjekata javnog sektora kod Hrvatske narodne banke | [`odluka/2023/801/`](odluka/2023/801/) | in force | 1 | 2023-05-01 | 2023-05-01 |
+| Odluka o izmjeni Odluke o provođenju operacija monetarne politike | [`odluka/2023/802/`](odluka/2023/802/) | in force | 1 | 2023-06-29 | 2023-06-29 |
+| Odluka o izmjenama i dopunama Odluke o utvrđivanju Osnovne liste ortopedskih i drugih pomagala Hrvatskog zavoda za zdravstveno osiguranje | [`odluka/2023/803/`](odluka/2023/803/) | amending act | 1 | 2023-05-13 | 2023-05-13 |
 | Odluka o donošenju Strategije za procjenu ekonomskog učinka propisa na sektor malog i srednjeg poduzetništva za razdoblje od 2023. do 2027. godine i Akcijskog plana za provedbu Strategije za razdoblje od 2023. do 2025. godine | [`odluka/2023/821/`](odluka/2023/821/) | in force | 1 | 2023-05-04 | 2023-05-04 |
+| Odluka o minimalnim novčanim iznosima potrebnim za mjesečno uzdržavanje djeteta | [`odluka/2023/822/`](odluka/2023/822/) | repealed 2024-04-27 | 2 | 2023-05-06 | 2024-04-27 |
+| Odluka o tablici o prosječnim potrebama maloljetnog djeteta | [`odluka/2023/823/`](odluka/2023/823/) | repealed 2024-04-27 | 2 | 2023-05-06 | 2024-04-27 |
+| Odluka o izmjeni Odluke o autorizaciji plovila za sakupljanje crvenog koralja (Corallium rubrum) s rokom važenja do 31. prosinca 2023. godine | [`odluka/2023/828/`](odluka/2023/828/) | in force | 1 | 2023-05-09 | 2023-05-09 |
+| Odluka o početku i završetku nastavne godine, broju radnih dana i trajanju odmora učenika osnovnih i srednjih škola za školsku godinu 2023./2024. | [`odluka/2023/833/`](odluka/2023/833/) | cited later, not consolidated | 1 | 2023-05-18 | 2023-05-18 |
+| Odluka o izmjenama i dopunama Odluke o osnovama za sklapanje ugovora o provođenju zdravstvene zaštite iz obveznog zdravstvenog osiguranja | [`odluka/2023/834/`](odluka/2023/834/) | amending act | 1 | 2023-05-18 | 2023-05-18 |
+| Odluka o financiranju najamnine za privremeno stambeno zbrinjavanje osoba čije su nekretnine oštećene odnosno uništene u potresima na području Grada Zagreba, Krapinsko-zagorske županije, Zagrebačke županije, Sisačko-moslavačke županije i Karlovačke županije 22. ožujka 2020. te 28. i 29. prosinca 2020. | [`odluka/2023/843/`](odluka/2023/843/) | cited later, not consolidated | 1 | 2023-05-13 | 2023-05-13 |
+| Odluka o nastavku potpore projektima od strateškog značaja za Hrvate izvan Republike Hrvatske | [`odluka/2023/844/`](odluka/2023/844/) | amended, not consolidated | 1 | 2023-05-11 | 2023-05-11 |
 | Odluka o upisu ulovnih ribarskih plovila koja obavljaju ribolov plivaricom tunolovkom u Registar ulovnih brodova ICCAT-a (ICCAT Record of BFT Catching Vessels) u 2023. godini | [`odluka/2023/851/`](odluka/2023/851/) | in force | 1 | 2023-05-13 | 2023-05-13 |
 | Odluka o prestanku važenja Odluke o nužnoj epidemiološkoj mjeri korištenja medicinskih maski ili maski za lice | [`odluka/2023/852/`](odluka/2023/852/) | in force | 1 | 2023-05-13 | 2023-05-13 |
+| Odluka o izmjenama i dopunama Odluke o sustavu upravljanja | [`odluka/2023/853/`](odluka/2023/853/) | amending act | 1 | 2023-05-20 | 2023-05-20 |
 | Odluka o izmjenama i dopunama Odluke o primicima radnika | [`odluka/2023/855/`](odluka/2023/855/) | amending act | 1 | 2023-05-20 | 2023-05-20 |
+| Odluka o iznosu tarifnih stavki za javnu uslugu opskrbe plinom za razdoblje od 1. lipnja do 31. prosinca 2023. te za razdoblje od 1. siječnja do 31. ožujka 2024. | [`odluka/2023/856/`](odluka/2023/856/) | repealed, not consolidated | 1 | 2023-06-01 | 2023-06-01 |
+| Odluka o donošenju izmjena i dopuna strukovnog kurikuluma za stjecanje kvalifikacije TEHNIČAR ZA MEHATRONIKU (041524) u obrazovnom sektoru ELEKTROTEHNIKA I RAČUNALSTVO | [`odluka/2023/873/`](odluka/2023/873/) | repealed, not consolidated | 1 | 2023-05-25 | 2023-05-25 |
+| Odluka o donošenju izmjena i dopuna strukovnog kurikuluma za stjecanje kvalifikacije STROJARSKI RAČUNALNI TEHNIČAR (015324) u obrazovnom sektoru STROJARSTVO, BRODOGRADNJA I METALURGIJA | [`odluka/2023/874/`](odluka/2023/874/) | repealed, not consolidated | 1 | 2023-05-25 | 2023-05-25 |
 | Odluka o stavljanju u službenu uporabu katastarskog operata katastra nekretnina za katastarsku općinu Gornja Podstrana Nova za I. zonu | [`odluka/2023/878/`](odluka/2023/878/) | in force | 1 | 2023-05-09 | 2023-05-09 |
 | Odluka o stavljanju u službenu uporabu katastarskog operata katastra nekretnina za katastarsku općinu Velika Ves Nova | [`odluka/2023/879/`](odluka/2023/879/) | in force | 1 | 2023-05-09 | 2023-05-09 |
 | Odluka o poništenju dijela Obavijesti o namjeri davanja koncesije za obavljanje djelatnosti pružanja medijskih usluga digitalnog radija (DAB+) broj 01/23 | [`odluka/2023/885/`](odluka/2023/885/) | in force | 1 | 2023-05-04 | 2023-05-04 |
 | Odluka o lokalnim porezima Općine Trpanj | [`odluka/2023/886/`](odluka/2023/886/) | in force | 1 | 2024-01-01 | 2024-01-01 |
 | Odluka o stavljanju u službenu uporabu katastarskog operata katastra nekretnina za katastarsku općinu Viduševac nova | [`odluka/2023/937/`](odluka/2023/937/) | in force | 1 | 2023-05-16 | 2023-05-16 |
+| Odluka o iznosu tarifnih stavki za zajamčenu opskrbu električnom energijom | [`odluka/2023/938/`](odluka/2023/938/) | replaced, not consolidated | 1 | 2023-07-01 | 2023-07-01 |
+| Odluka o upisu učenika u I. razred srednje škole u školskoj godini 2023./2024. | [`odluka/2023/948/`](odluka/2023/948/) | amended, not consolidated | 1 | 2023-05-25 | 2023-05-25 |
 | Odluka o raspisivanju prijevremenih izbora za članove Općinskog vijeća Općine Čeminac | [`odluka/2023/959/`](odluka/2023/959/) | in force | 1 | 2023-06-01 | 2023-06-01 |
 | Odluka o dopunama Odluke o isplati jednokratnog novčanog primanja korisnicima mirovine radi ublažavanja posljedica rasta troškova života | [`odluka/2023/960/`](odluka/2023/960/) | amending act | 1 | 2023-05-27 | 2023-05-27 |
 | Odluka o izmjenama i dopunama Odluke o resekuritizaciji, objavi informacija o privatnim sekuritizacijama, mrežnim stranicama i o naknadama za nadzor | [`odluka/2023/971/`](odluka/2023/971/) | amending act | 1 | 2023-06-03 | 2023-06-03 |
 | Odluka o visini izuzetih novčanih sredstava od ovrhe za 2023. godinu | [`odluka/2023/988/`](odluka/2023/988/) | in force | 1 | 2023-06-01 | 2023-06-01 |
+| Odluka o izmjenama Odluke o osnovama za sklapanje ugovora o provođenju zdravstvene zaštite iz obveznog zdravstvenog osiguranja | [`odluka/2023/990/`](odluka/2023/990/) | in force | 1 | 2023-06-01 | 2023-06-01 |
+| Odluka o izmjenama Odluke o osnovama za sklapanje ugovora o provođenju specifične zdravstvene zaštite | [`odluka/2023/991/`](odluka/2023/991/) | in force | 1 | 2023-06-01 | 2023-06-01 |
 | Odluka o izmjenama i dopunama Odluke o kriterijima i načinima za stambeno zbrinjavanje stanovnika zgrada i uklanjanje ostataka porušenih obiteljskih kuća i drugih stambenih zgrada koje su uništene ili oštećene zbog klizanja tla na području Hrvatske Kostajnice i drugih područja u Republici Hrvatskoj | [`odluka/2023/1001/`](odluka/2023/1001/) | amending act | 1 | 2023-06-10 | 2023-06-10 |
 | Odluka o razvrstavanju javnih cesta | [`odluka/2023/1004/`](odluka/2023/1004/) | repealed, not consolidated | 1 | 2023-06-10 | 2023-06-10 |
 | Odluka o stavljanju u službenu uporabu katastarskog operata katastra nekretnina za katastarsku općinu Dubrovnik Nova za I. zonu | [`odluka/2023/1005/`](odluka/2023/1005/) | in force | 1 | 2023-05-25 | 2023-05-25 |
@@ -8448,110 +8507,291 @@
 | Odluka o porezima Općine Bilice | [`odluka/2023/1969/`](odluka/2023/1969/) | in force | 1 | 2024-01-01 | 2024-01-01 |
 | Odluka o visini poreznih stopa godišnjeg poreza na dohodak Općine Breznica | [`odluka/2023/1970/`](odluka/2023/1970/) | repealed 2025-03-01 | 2 | 2024-01-01 | 2025-03-01 |
 | Odluka o općinskim porezima Općine Jasenovac | [`odluka/2023/1971/`](odluka/2023/1971/) | in force | 1 | 2024-01-01 | 2024-01-01 |
+| Odluka o visini poreznih stopa godišnjeg poreza na dohodak na području općine Jasenovac | [`odluka/2023/1972/`](odluka/2023/1972/) | in force | 1 | 2024-01-01 | 2024-01-01 |
+| Odluka o porezima Općine Rakovec | [`odluka/2023/1973/`](odluka/2023/1973/) | repealed, not consolidated | 1 | 2024-01-01 | 2024-01-01 |
+| Odluka o visini poreznih stopa godišnjeg poreza na dohodak na području Općine Štitar | [`odluka/2023/1974/`](odluka/2023/1974/) | in force | 1 | 2024-01-01 | 2024-01-01 |
+| Odluka o izmjenama i dopunama Odluke o općinskim porezima Općine Štitar | [`odluka/2023/1975/`](odluka/2023/1975/) | amending act | 1 | 2024-01-01 | 2024-01-01 |
 | Odluka o visini poreznih stopa godišnjeg poreza na dohodak Općine Tar-Vabriga - Torre-Abrega | [`odluka/2023/1976/`](odluka/2023/1976/) | in force | 1 | 2024-01-01 | 2024-01-01 |
 | Odluka o visini poreznih stopa godišnjeg poreza na dohodak na području Općine Veliki Bukovec | [`odluka/2023/1978/`](odluka/2023/1978/) | repealed 2025-01-01 | 2 | 2024-01-01 | 2025-01-01 |
 | Odluka o visini poreznih stopa godišnjeg poreza na dohodak na području Grada Grubišnoga Polja | [`odluka/2023/1987/`](odluka/2023/1987/) | in force | 1 | 2024-01-01 | 2024-01-01 |
 | Odluka o visini poreznih stopa poreza na dohodak Grada Supetra | [`odluka/2023/1989/`](odluka/2023/1989/) | in force | 1 | 2024-01-01 | 2024-01-01 |
+| Odluka o visini poreznih stopa godišnjeg poreza na dohodak na području Općine Dicmo | [`odluka/2023/1990/`](odluka/2023/1990/) | amended, not consolidated | 1 | 2024-01-01 | 2024-01-01 |
 | Odluka o visini poreznih stopa godišnjeg poreza na dohodak na području Općine Klinča Sela | [`odluka/2023/1992/`](odluka/2023/1992/) | in force | 1 | 2024-01-01 | 2024-01-01 |
 | Odluka o lokalnim porezima Općine Klinča Sela | [`odluka/2023/1993/`](odluka/2023/1993/) | in force | 1 | 2024-01-01 | 2024-01-01 |
 | Odluka o stavljanju izvan snage Odluke o uvođenju prireza porezu na dohodak u Općini Lekenik | [`odluka/2023/1994/`](odluka/2023/1994/) | in force | 1 | 2024-01-01 | 2024-01-01 |
 | Odluka o visini poreznih stopa poreza na dohodak Općine Lekenik | [`odluka/2023/1995/`](odluka/2023/1995/) | in force | 1 | 2024-01-01 | 2024-01-01 |
 | Odluka o usklađivanju prihodovnog cenzusa za ostvarivanje prava na plaćanje premije dopunskoga zdravstvenog osiguranja u 2024. godini | [`odluka/2023/2008/`](odluka/2023/2008/) | amending act | 1 | 2023-12-14 | 2023-12-14 |
+| Odluka visini poreznih stopa poreza na dohodak Grada Buzeta | [`odluka/2023/2009/`](odluka/2023/2009/) | replaced, not consolidated | 1 | 2024-01-01 | 2024-01-01 |
 | Odluka o porezima Grada Daruvara | [`odluka/2023/2010/`](odluka/2023/2010/) | in force | 1 | 2024-01-01 | 2024-01-01 |
 | Odluka o visini poreznih stopa godišnjeg poreza na dohodak na području Grada Daruvara | [`odluka/2023/2011/`](odluka/2023/2011/) | repealed 2026-01-01 | 2 | 2024-01-01 | 2026-01-01 |
+| Odluka o visini poreznih stopa godišnjeg poreza na dohodak na području Grada Ivanca | [`odluka/2023/2012/`](odluka/2023/2012/) | amended, not consolidated | 1 | 2024-01-01 | 2024-01-01 |
 | Odluka o visini poreznih stopa godišnjeg poreza na dohodak Grada Knina | [`odluka/2023/2013/`](odluka/2023/2013/) | repealed 2025-01-01 | 2 | 2024-01-01 | 2025-01-01 |
+| Odluka o gradskim porezima Grada Lepoglave | [`odluka/2023/2014/`](odluka/2023/2014/) | repealed, not consolidated | 1 | 2024-01-01 | 2024-01-01 |
+| Odluka o visini poreznih stopa godišnjeg poreza na dohodak na području Grada Lepoglave | [`odluka/2023/2015/`](odluka/2023/2015/) | in force | 1 | 2024-01-01 | 2024-01-01 |
+| Odluka o visini poreznih stopa godišnjeg poreza na dohodak na području Općine Bizovac | [`odluka/2023/2016/`](odluka/2023/2016/) | in force | 1 | 2024-01-01 | 2024-01-01 |
+| Odluka o visini poreznih stopa godišnjeg poreza na dohodak na području Općine Ernestinovo | [`odluka/2023/2017/`](odluka/2023/2017/) | in force | 1 | 2024-01-01 | 2024-01-01 |
 | Odluka o izmjeni Odluke o općinskim porezima Općine Ivankovo | [`odluka/2023/2018/`](odluka/2023/2018/) | in force | 1 | 2024-01-01 | 2024-01-01 |
+| Odluka o visini poreznih stopa godišnjeg poreza na dohodak na području Općine Kaptol | [`odluka/2023/2019/`](odluka/2023/2019/) | in force | 1 | 2024-01-01 | 2024-01-01 |
+| Odluka o visini poreznih stopa godišnjeg poreza na dohodak na području Općine Lukač | [`odluka/2023/2020/`](odluka/2023/2020/) | in force | 1 | 2024-01-01 | 2024-01-01 |
+| Odluka o visini poreznih stopa godišnjeg poreza na dohodak na području Općine Mali Bukovec | [`odluka/2023/2022/`](odluka/2023/2022/) | amended, not consolidated | 1 | 2024-01-01 | 2024-01-01 |
+| Odluka o izmjenama Odluke o porezima Općine Sveti Ilija | [`odluka/2023/2023/`](odluka/2023/2023/) | repealed, not consolidated | 1 | 2024-01-01 | 2024-01-01 |
+| Odluka o visini poreznih stopa godišnjeg poreza na dohodak na području Općine Sveti Ilija | [`odluka/2023/2024/`](odluka/2023/2024/) | replaced, not consolidated | 1 | 2024-01-01 | 2024-01-01 |
+| Odluka o donošenju izmjena i dopuna strukovnog kurikuluma za stjecanje kvalifikacije TEHNIČAR ZA ELEKTRONIKU (041424) u obrazovnom sektoru ELEKTROTEHNIKA I RAČUNALSTVO | [`odluka/2023/2025/`](odluka/2023/2025/) | repealed, not consolidated | 1 | 2023-12-16 | 2023-12-16 |
 | Odluka o iznosu tarifnih stavki za zajamčenu opskrbu plinom za krajnje kupce koji nisu kućanstvo za razdoblje od 1. siječnja 2024. do 31. ožujka 2024. | [`odluka/2023/2031/`](odluka/2023/2031/) | in force | 1 | 2024-01-01 | 2024-01-01 |
 | Odluka o gradskim porezima Grada Belišća | [`odluka/2023/2032/`](odluka/2023/2032/) | in force | 1 | 2024-01-01 | 2024-01-01 |
+| Odluka o visini poreznih stopa godišnjeg poreza na dohodak na području grada Belišća | [`odluka/2023/2033/`](odluka/2023/2033/) | in force | 1 | 2024-01-01 | 2024-01-01 |
 | Odluka o visini poreznih stopa godišnjeg poreza na dohodak Grada Lipika | [`odluka/2023/2034/`](odluka/2023/2034/) | in force | 1 | 2024-01-01 | 2024-01-01 |
+| Odluka o visini poreznih stopa godišnjeg poreza na dohodak na području Grada Novog Marofa | [`odluka/2023/2035/`](odluka/2023/2035/) | amended, not consolidated | 1 | 2024-01-01 | 2024-01-01 |
+| Odluka o visini poreznih stopa godišnjeg poreza na dohodak na području Grada Ploče | [`odluka/2023/2036/`](odluka/2023/2036/) | in force | 1 | 2024-01-01 | 2024-01-01 |
+| Odluka o lokalnim porezima Grada Pula - Pola | [`odluka/2023/2037/`](odluka/2023/2037/) | in force | 1 | 2024-01-01 | 2024-01-01 |
 | Odluka o izmjeni Odluke o porezima Grada Zadra | [`odluka/2023/2038/`](odluka/2023/2038/) | in force | 1 | 2024-01-01 | 2024-01-01 |
 | Odluka o visini poreznih stopa poreza na dohodak Općine Brdovec | [`odluka/2023/2039/`](odluka/2023/2039/) | in force | 1 | 2024-01-01 | 2024-01-01 |
+| Odluka o visini poreznih stopa godišnjeg poreza na dohodak na području Općine Čačinci | [`odluka/2023/2040/`](odluka/2023/2040/) | in force | 1 | 2024-01-01 | 2024-01-01 |
+| Odluka o visini poreznih stopa godišnjeg poreza na dohodak na području Općine Goričan | [`odluka/2023/2041/`](odluka/2023/2041/) | in force | 1 | 2024-01-01 | 2024-01-01 |
 | Odluka o visini poreznih stopa godišnjeg poreza na dohodak Općine Gradac | [`odluka/2023/2042/`](odluka/2023/2042/) | in force | 1 | 2024-01-01 | 2024-01-01 |
+| Odluka o lokalnim porezima Općine Kravarsko | [`odluka/2023/2043/`](odluka/2023/2043/) | amended, not consolidated | 1 | 2024-01-01 | 2024-01-01 |
+| Odluka o visini poreznih stopa godišnjeg poreza na dohodak na području Općine Kravarsko | [`odluka/2023/2044/`](odluka/2023/2044/) | in force | 1 | 2024-01-01 | 2024-01-01 |
+| Odluka o visini poreznih stopa godišnjeg poreza na dohodak na području Općine Magadenovac | [`odluka/2023/2045/`](odluka/2023/2045/) | in force | 1 | 2024-01-01 | 2024-01-01 |
+| Odluka o visini poreznih stopa godišnjeg poreza na dohodak na području Općine Okrug | [`odluka/2023/2046/`](odluka/2023/2046/) | in force | 1 | 2024-01-01 | 2024-01-01 |
 | Odluka o visini poreznih stopa godišnjeg poreza na dohodak na području Općine Petrijanec | [`odluka/2023/2047/`](odluka/2023/2047/) | repealed 2025-03-01 | 2 | 2024-01-01 | 2025-03-01 |
+| Odluka o visini poreznih stopa godišnjeg poreza na dohodak na području Općine Primošten | [`odluka/2023/2049/`](odluka/2023/2049/) | repealed, not consolidated | 1 | 2024-01-01 | 2024-01-01 |
+| Odluka o visini poreznih stopa godišnjeg poreza na dohodak na području Općine Tisno | [`odluka/2023/2050/`](odluka/2023/2050/) | in force | 1 | 2024-01-01 | 2024-01-01 |
 | Odluka o visini poreznih stopa poreza na dohodak Općine Velika Kopanica | [`odluka/2023/2051/`](odluka/2023/2051/) | in force | 1 | 2024-01-01 | 2024-01-01 |
+| Odluka o visini poreznih stopa godišnjeg poreza na dohodak na području Općine Visoko | [`odluka/2023/2053/`](odluka/2023/2053/) | replaced, not consolidated | 1 | 2024-01-01 | 2024-01-01 |
 | Odluka o najvišem postotku naknade depozitaru za 2024. godinu | [`odluka/2023/2058/`](odluka/2023/2058/) | in force | 1 | 2023-12-13 | 2023-12-13 |
 | Odluka o visini poreznih stopa godišnjeg poreza na dohodak Grada Buja - Buie | [`odluka/2023/2061/`](odluka/2023/2061/) | in force | 1 | 2024-01-01 | 2024-01-01 |
+| Odluka o visini poreznih stopa godišnjeg poreza na dohodak na području Grada Donjeg Miholjca | [`odluka/2023/2062/`](odluka/2023/2062/) | in force | 1 | 2024-01-01 | 2024-01-01 |
+| Odluka o visini poreznih stopa godišnjeg poreza na dohodak na području Grada Donje Stubice | [`odluka/2023/2063/`](odluka/2023/2063/) | in force | 1 | 2024-01-01 | 2024-01-01 |
 | Odluka o visini poreznih stopa poreza na dohodak Grada Gline | [`odluka/2023/2064/`](odluka/2023/2064/) | in force | 1 | 2024-01-01 | 2024-01-01 |
+| Odluka o visini poreznih stopa godišnjeg poreza na dohodak na području grada Iloka | [`odluka/2023/2065/`](odluka/2023/2065/) | in force | 1 | 2024-01-01 | 2024-01-01 |
+| Odluka o visini poreznih stopa godišnjeg poreza na dohodak na području Grada Jastrebarskog | [`odluka/2023/2066/`](odluka/2023/2066/) | in force | 1 | 2024-01-01 | 2024-01-01 |
+| Odluka o visini poreznih stopa poreza na dohodak Grada Karlovca | [`odluka/2023/2067/`](odluka/2023/2067/) | amended, not consolidated | 1 | 2024-01-01 | 2024-01-01 |
 | Odluka o izmjenama Odluke o gradskim porezima Grada Novog Vinodolskog | [`odluka/2023/2068/`](odluka/2023/2068/) | in force | 1 | 2024-01-01 | 2024-01-01 |
+| Odluka o visini poreznih stopa godišnjeg poreza na dohodak na području Grada Novog Vinodolskog | [`odluka/2023/2069/`](odluka/2023/2069/) | in force | 1 | 2024-01-01 | 2024-01-01 |
 | Odluka o porezima Grada Novske | [`odluka/2023/2070/`](odluka/2023/2070/) | in force | 1 | 2024-01-01 | 2024-01-01 |
+| Odluka o visini poreznih stopa godišnjeg poreza na dohodak na području Grada Novske | [`odluka/2023/2071/`](odluka/2023/2071/) | in force | 1 | 2024-01-01 | 2024-01-01 |
 | Odluka o porezima Grada Ozlja | [`odluka/2023/2072/`](odluka/2023/2072/) | in force | 1 | 2024-01-01 | 2024-01-01 |
 | Odluka o visini poreznih stopa poreza na dohodak Grada Ozlja | [`odluka/2023/2073/`](odluka/2023/2073/) | in force | 1 | 2024-01-01 | 2024-01-01 |
 | Odluka o porezima Grada Paga | [`odluka/2023/2074/`](odluka/2023/2074/) | in force | 1 | 2024-01-01 | 2024-01-01 |
+| Odluka o visini poreznih stopa godišnjeg poreza na dohodak na području Grada Paga | [`odluka/2023/2075/`](odluka/2023/2075/) | in force | 1 | 2024-01-01 | 2024-01-01 |
+| Odluka o visini poreznih stopa godišnjeg poreza na dohodak na području Grada Pakraca | [`odluka/2023/2076/`](odluka/2023/2076/) | in force | 1 | 2024-01-01 | 2024-01-01 |
+| Odluka o visini poreznih stopa godišnjeg poreza na dohodak na području Grada Samobora | [`odluka/2023/2077/`](odluka/2023/2077/) | in force | 1 | 2024-01-01 | 2024-01-01 |
+| Odluka o visini poreznih stopa godišnjeg poreza na dohodak na području Grada Staroga Grada | [`odluka/2023/2078/`](odluka/2023/2078/) | replaced, not consolidated | 1 | 2024-01-01 | 2024-01-01 |
 | Odluka o gradskim porezima Grada Valpova | [`odluka/2023/2079/`](odluka/2023/2079/) | in force | 1 | 2024-01-01 | 2024-01-01 |
+| Odluka o visini poreznih stopa godišnjeg poreza na dohodak na području Grada Valpova | [`odluka/2023/2080/`](odluka/2023/2080/) | replaced, not consolidated | 1 | 2024-01-01 | 2024-01-01 |
+| Odluka o porezima Grada Varaždina | [`odluka/2023/2081/`](odluka/2023/2081/) | amended, not consolidated | 1 | 2024-01-01 | 2024-01-01 |
+| Odluka o visini poreznih stopa godišnjeg poreza na dohodak na području Grada Varaždina | [`odluka/2023/2082/`](odluka/2023/2082/) | amended, not consolidated | 1 | 2024-01-01 | 2024-01-01 |
 | Odluka o lokalnim porezima Grada Velike Gorice | [`odluka/2023/2083/`](odluka/2023/2083/) | in force | 1 | 2024-01-01 | 2024-01-01 |
 | Odluka o visini poreznih stopa godišnjeg poreza na dohodak na području Grada Vodnjana - Dignano | [`odluka/2023/2084/`](odluka/2023/2084/) | repealed 2025-03-01 | 2 | 2024-01-01 | 2025-03-01 |
 | Odluka o izmjenama Odluke o lokalnim porezima Grada Vrbovskog | [`odluka/2023/2085/`](odluka/2023/2085/) | in force | 1 | 2024-01-01 | 2024-01-01 |
+| Odluka o visini poreznih stopa godišnjeg poreza na dohodak na području Grada Vrbovskog | [`odluka/2023/2086/`](odluka/2023/2086/) | replaced, not consolidated | 1 | 2024-01-01 | 2024-01-01 |
 | Odluka o porezima Grada Vrlike | [`odluka/2023/2087/`](odluka/2023/2087/) | in force | 1 | 2024-01-01 | 2024-01-01 |
+| Odluka o visini poreznih stopa godišnjeg poreza na dohodak na području Grada Vrlike | [`odluka/2023/2088/`](odluka/2023/2088/) | in force | 1 | 2024-01-01 | 2024-01-01 |
 | Odluka o porezima Grada Zaprešića | [`odluka/2023/2089/`](odluka/2023/2089/) | in force | 1 | 2024-01-01 | 2024-01-01 |
+| Odluka o financiranju Hrvatske gospodarske komore | [`odluka/2023/2090/`](odluka/2023/2090/) | replaced, not consolidated | 1 | 2024-01-01 | 2024-01-01 |
+| Odluka o uvjetima ostvarivanja dobrovoljnog članstva u Hrvatskoj gospodarskoj komori | [`odluka/2023/2091/`](odluka/2023/2091/) | replaced, not consolidated | 1 | 2024-01-01 | 2024-01-01 |
 | Odluka o izmjeni i dopuni Odluke o troškovima u postupcima arbitraže | [`odluka/2023/2093/`](odluka/2023/2093/) | amending act | 1 | 2023-12-20 | 2023-12-20 |
+| Odluka o visini poreznih stopa godišnjeg poreza na dohodak na području Grada Krapine | [`odluka/2023/2100/`](odluka/2023/2100/) | in force | 1 | 2024-01-01 | 2024-01-01 |
 | Odluka o gradskim porezima Grada Kutine | [`odluka/2023/2101/`](odluka/2023/2101/) | in force | 1 | 2024-01-01 | 2024-01-01 |
+| Odluka o visini poreznih stopa godišnjeg poreza na dohodak na području općine Brckovljani | [`odluka/2023/2102/`](odluka/2023/2102/) | in force | 1 | 2024-01-01 | 2024-01-01 |
 | Odluka o visni poreznih stopa godišnjeg poreza na dohodak na području Općine Brinje | [`odluka/2023/2103/`](odluka/2023/2103/) | in force | 1 | 2024-01-01 | 2024-01-01 |
 | Odluka o lokalnim porezima Općine Cerna | [`odluka/2023/2104/`](odluka/2023/2104/) | in force | 1 | 2024-01-01 | 2024-01-01 |
+| Odluka o visini poreznih stopa godišnjeg poreza na dohodak na području Općine Cerna | [`odluka/2023/2105/`](odluka/2023/2105/) | in force | 1 | 2024-01-01 | 2024-01-01 |
 | Odluka o porezima Općine Cerovlje | [`odluka/2023/2106/`](odluka/2023/2106/) | in force | 1 | 2024-01-01 | 2024-01-01 |
 | Odluka o lokalnim porezima Općine Dežanovac | [`odluka/2023/2107/`](odluka/2023/2107/) | repealed 2025-03-01 | 2 | 2024-01-01 | 2025-03-01 |
+| Odluka o visini poreznih stopa godišnjeg poreza na dohodak na području Općine Dežanovac | [`odluka/2023/2108/`](odluka/2023/2108/) | in force | 1 | 2024-01-01 | 2024-01-01 |
+| Odluka o porezima Općine Dragalić | [`odluka/2023/2109/`](odluka/2023/2109/) | repealed, not consolidated | 1 | 2024-01-01 | 2024-01-01 |
+| Odluka o visini poreznih stopa godišnjeg poreza na dohodak na području Općine Dragalić | [`odluka/2023/2110/`](odluka/2023/2110/) | repealed 2025-03-01 | 2 | 2024-01-01 | 2025-03-01 |
+| Odluka o visini poreznih stopa godišnjeg poreza na dohodak na području Općine Kanfanar | [`odluka/2023/2111/`](odluka/2023/2111/) | in force | 1 | 2024-01-01 | 2024-01-01 |
+| Odluka o visini poreznih stopa godišnjeg poreza na dohodak na području Općine Kapela | [`odluka/2023/2112/`](odluka/2023/2112/) | in force | 1 | 2024-01-01 | 2024-01-01 |
+| Odluka o porezima Općine Lasinja | [`odluka/2023/2113/`](odluka/2023/2113/) | repealed, not consolidated | 1 | 2024-01-01 | 2024-01-01 |
+| Odluka o visini poreznih stopa godišnjeg poreza na dohodak na području Općine Lasinja | [`odluka/2023/2114/`](odluka/2023/2114/) | repealed, not consolidated | 1 | 2024-01-01 | 2024-01-01 |
 | Odluka o paušalnom oporezivanju djelatnosti iznajmljivanja i organiziranja smještaja u turizmu na području Općine Lasinja | [`odluka/2023/2115/`](odluka/2023/2115/) | in force | 1 | 2024-01-01 | 2024-01-01 |
+| Odluka o visini poreznih stopa godišnjeg poreza na dohodak na području Općine Lobor | [`odluka/2023/2116/`](odluka/2023/2116/) | in force | 1 | 2024-01-01 | 2024-01-01 |
+| Odluka o porezima Općine Lupoglav | [`odluka/2023/2117/`](odluka/2023/2117/) | amended, not consolidated | 1 | 2024-01-01 | 2024-01-01 |
 | Odluka o visini poreznih stopa poreza na dohodak na području Općine Lupoglav | [`odluka/2023/2118/`](odluka/2023/2118/) | repealed 2025-03-01 | 2 | 2024-01-01 | 2025-03-01 |
 | Odluka o visini paušalnog poreza za djelatnost iznajmljivanja i organiziranja smještaja u turizmu na području Općine Lupoglav | [`odluka/2023/2119/`](odluka/2023/2119/) | in force | 1 | 2024-01-01 | 2024-01-01 |
+| Odluka o visini poreznih stopa godišnjeg poreza na dohodak na području Općine Marija Gorica | [`odluka/2023/2120/`](odluka/2023/2120/) | in force | 1 | 2024-01-01 | 2024-01-01 |
+| Odluka o porezima Općine Markušica | [`odluka/2023/2121/`](odluka/2023/2121/) | in force | 1 | 2024-01-01 | 2024-01-01 |
+| Odluka o visini poreznih stopa godišnjeg poreza na dohodak na području Općine Markušica | [`odluka/2023/2122/`](odluka/2023/2122/) | in force | 1 | 2024-01-01 | 2024-01-01 |
+| Odluka o visini poreznih stopa godišnjeg poreza na dohodak na području Općine Maruševec | [`odluka/2023/2123/`](odluka/2023/2123/) | repealed 2025-03-01 | 2 | 2024-01-01 | 2025-03-01 |
 | Odluka o izmjenama i dopunama Odluke o porezima Općine Negoslavci | [`odluka/2023/2124/`](odluka/2023/2124/) | amending act | 1 | 2024-01-01 | 2024-01-01 |
+| Odluka o visini poreznih stopa godišnjeg poreza na dohodak na području Općine Negoslavci | [`odluka/2023/2125/`](odluka/2023/2125/) | in force | 1 | 2024-01-01 | 2024-01-01 |
 | Odluka o lokalnim porezima Općine Oprtalj - Portole | [`odluka/2023/2126/`](odluka/2023/2126/) | in force | 1 | 2024-01-01 | 2024-01-01 |
 | Odluka o visini poreznih stopa poreza na dohodak u Općini Oprtalj - Portole | [`odluka/2023/2127/`](odluka/2023/2127/) | in force | 1 | 2024-01-01 | 2024-01-01 |
+| Odluka o visini poreznih stopa godišnjeg poreza na dohodak na području Općine Perušić | [`odluka/2023/2128/`](odluka/2023/2128/) | in force | 1 | 2024-01-01 | 2024-01-01 |
 | Odluka o visini poreznih stopa poreza na dohodak u Općini Punat | [`odluka/2023/2129/`](odluka/2023/2129/) | in force | 1 | 2024-01-01 | 2024-01-01 |
 | Odluka o općinskim porezima Općine Pušća | [`odluka/2023/2130/`](odluka/2023/2130/) | in force | 1 | 2024-01-01 | 2024-01-01 |
 | Odluka o visini poreznih stopa poreza na dohodak na području Općine Sirač | [`odluka/2023/2131/`](odluka/2023/2131/) | in force | 1 | 2024-01-01 | 2024-01-01 |
+| Odluka o visini poreznih stopa godišnjeg poreza na dohodak na području općine Sopje | [`odluka/2023/2132/`](odluka/2023/2132/) | in force | 1 | 2024-01-01 | 2024-01-01 |
+| Odluka o visini poreznih stopa godišnjeg poreza na dohodak na području Općine Starigrad | [`odluka/2023/2135/`](odluka/2023/2135/) | in force | 1 | 2024-01-01 | 2024-01-01 |
+| Odluka o visini poreznih stopa godišnjeg poreza na dohodak na području općine Tribunj | [`odluka/2023/2136/`](odluka/2023/2136/) | in force | 1 | 2024-01-01 | 2024-01-01 |
+| Odluka o visini poreznih stopa godišnjeg poreza na dohodak na području Općine Trnovec Bartolovečki | [`odluka/2023/2137/`](odluka/2023/2137/) | repealed 2025-03-01 | 2 | 2024-01-01 | 2025-03-01 |
 | Odluka o lokalnim porezima Općine Unešić | [`odluka/2023/2138/`](odluka/2023/2138/) | in force | 1 | 2024-01-01 | 2024-01-01 |
+| Odluka o visini poreznih stopa godišnjeg poreza na dohodak na području Općine Velika | [`odluka/2023/2139/`](odluka/2023/2139/) | in force | 1 | 2024-01-01 | 2024-01-01 |
+| Odluka o visini poreznih stopa godišnjeg poreza na dohodak na području Općine Visoko | [`odluka/2023/2140/`](odluka/2023/2140/) | in force | 1 | 2024-01-01 | 2024-01-01 |
+| Odluka o općinskim porezima Općine Vladislavci | [`odluka/2023/2141/`](odluka/2023/2141/) | amended, not consolidated | 1 | 2024-01-01 | 2024-01-01 |
+| Odluka o visini poreznih stopa godišnjeg poreza na dohodak na području Općine Vladislavci | [`odluka/2023/2142/`](odluka/2023/2142/) | in force | 1 | 2024-01-01 | 2024-01-01 |
+| Odluka o općinskim porezima općine Vrbje | [`odluka/2023/2143/`](odluka/2023/2143/) | repealed, not consolidated | 1 | 2024-01-01 | 2024-01-01 |
+| Odluka o visini poreznih stopa godišnjeg poreza na dohodak na području Općine Vrbje | [`odluka/2023/2144/`](odluka/2023/2144/) | repealed, not consolidated | 1 | 2024-01-01 | 2024-01-01 |
 | Odluka o izmjenama Odluke o lokalnim porezima Općine Vrsi | [`odluka/2023/2145/`](odluka/2023/2145/) | in force | 1 | 2024-01-01 | 2024-01-01 |
 | Odluka o visini poreznih stopa poreza na dohodak u Općini Vrsi | [`odluka/2023/2146/`](odluka/2023/2146/) | in force | 1 | 2024-01-01 | 2024-01-01 |
+| Odluka o davanju suglasnosti na Financijski plan Hrvatskih voda za 2024. godinu i projekcije plana za 2025. i 2026. godinu | [`odluka/2023/2150/`](odluka/2023/2150/) | in force | 1 | 2024-01-01 | 2024-01-01 |
+| Odluka o davanju suglasnosti na Financijski plan Hrvatskih cesta za 2024. godinu i projekcije plana za 2025. i 2026. godinu | [`odluka/2023/2151/`](odluka/2023/2151/) | in force | 1 | 2024-01-01 | 2024-01-01 |
+| Odluka o davanju suglasnosti na Financijski plan Fonda za zaštitu okoliša i energetsku učinkovitost za 2024. godinu i projekcije plana za 2025. i 2026. godinu | [`odluka/2023/2152/`](odluka/2023/2152/) | in force | 1 | 2024-01-01 | 2024-01-01 |
+| Odluka o davanju suglasnosti na Financijski plan Hrvatske agencije za osiguranje depozita za 2024. godinu i projekcije plana za 2025. i 2026. godinu | [`odluka/2023/2153/`](odluka/2023/2153/) | in force | 1 | 2024-01-01 | 2024-01-01 |
+| Odluka o davanju suglasnosti na Financijski plan Hrvatskog zavoda za zdravstveno osiguranje za 2024. godinu i projekcije plana za 2025. i 2026. godinu | [`odluka/2023/2154/`](odluka/2023/2154/) | in force | 1 | 2024-01-01 | 2024-01-01 |
+| Odluka o davanju suglasnosti na Financijski plan Centra za restrukturiranje i prodaju za 2024. godinu i projekcije plana za 2025. i 2026. godinu | [`odluka/2023/2155/`](odluka/2023/2155/) | in force | 1 | 2024-01-01 | 2024-01-01 |
+| Odluka o davanju suglasnosti na Financijski plan Hrvatskih autocesta za 2024. godinu i projekcije plana za 2025. i 2026. godinu | [`odluka/2023/2156/`](odluka/2023/2156/) | in force | 1 | 2024-01-01 | 2024-01-01 |
+| Odluka o davanju suglasnosti na Financijski plan HŽ Putničkog prijevoza za 2024. godinu i projekcije plana za 2025. i 2026. godinu | [`odluka/2023/2157/`](odluka/2023/2157/) | in force | 1 | 2024-01-01 | 2024-01-01 |
+| Odluka o davanju suglasnosti na Financijski plan HŽ Infrastrukture za 2024. godinu i projekcije plana za 2025. i 2026. godinu | [`odluka/2023/2158/`](odluka/2023/2158/) | in force | 1 | 2024-01-01 | 2024-01-01 |
 | Odluka o iznosu državnih poticajnih sredstava za stambenu štednju prikupljenu u 2024. godini | [`odluka/2023/2160/`](odluka/2023/2160/) | in force | 1 | 2023-12-23 | 2023-12-23 |
+| Odluka o uspostavljanju državnih linija | [`odluka/2023/2161/`](odluka/2023/2161/) | amended, not consolidated | 1 | 2023-12-13 | 2023-12-13 |
+| Odluka o izmjeni Odluke o osnovama za sklapanje ugovora o provođenju specifične zdravstvene zaštite | [`odluka/2023/2176/`](odluka/2023/2176/) | in force | 1 | 2024-01-01 | 2024-01-01 |
+| Odluka o gradskim porezima Grada Belog Manastira | [`odluka/2023/2177/`](odluka/2023/2177/) | repealed, not consolidated | 1 | 2024-01-01 | 2024-01-01 |
+| Odluka o visini poreznih stopa poreza na dohodak Grada Belog Manastira | [`odluka/2023/2178/`](odluka/2023/2178/) | replaced, not consolidated | 1 | 2024-01-01 | 2024-01-01 |
 | Odluka o porezima Grada Čabra | [`odluka/2023/2179/`](odluka/2023/2179/) | in force | 1 | 2024-01-01 | 2024-01-01 |
+| Odluka o visini poreznih stopa godišnjeg poreza na dohodaka na području grada Čabra | [`odluka/2023/2180/`](odluka/2023/2180/) | repealed, not consolidated | 1 | 2024-01-01 | 2024-01-01 |
 | Odluka o gradskim porezima Grada Kaštela | [`odluka/2023/2181/`](odluka/2023/2181/) | in force | 1 | 2024-01-01 | 2024-01-01 |
 | Odluka o prestanku važenja Odluke o uvođenju prireza porezu na dohodak Grada Nova Gradiška | [`odluka/2023/2182/`](odluka/2023/2182/) | in force | 1 | 2024-01-01 | 2024-01-01 |
+| Odluka o visini poreznih stopa godišnjeg poreza na dohodak na području Grada Nova Gradiška | [`odluka/2023/2183/`](odluka/2023/2183/) | repealed 2025-03-01 | 2 | 2024-01-01 | 2025-03-01 |
+| Odluka o porezima Grada Splita | [`odluka/2023/2184/`](odluka/2023/2184/) | amended, not consolidated | 1 | 2024-01-01 | 2024-01-01 |
+| Odluka o visini poreznih stopa godišnjeg poreza na dohodak na području Grada Splita | [`odluka/2023/2185/`](odluka/2023/2185/) | amended, not consolidated | 1 | 2024-01-01 | 2024-01-01 |
+| Odluka o visini poreznih stopa godišnjeg poreza na dohodak na području Grada Svete Nedelje | [`odluka/2023/2186/`](odluka/2023/2186/) | in force | 1 | 2024-01-01 | 2024-01-01 |
+| Odluka o visini poreznih stopa godišnjeg poreza na dohodak na području Grada Varaždinskih Toplica | [`odluka/2023/2188/`](odluka/2023/2188/) | replaced, not consolidated | 1 | 2024-01-01 | 2024-01-01 |
 | Odluka o gradskim porezima Grada Drniša | [`odluka/2023/2193/`](odluka/2023/2193/) | in force | 1 | 2024-01-01 | 2024-01-01 |
+| Odluka o visini poreznih stopa godišnjeg poreza na dohodak na području Grada Drniša | [`odluka/2023/2194/`](odluka/2023/2194/) | in force | 1 | 2024-01-01 | 2024-01-01 |
 | Odluka o izmjeni Odluke o općinskim porezima Općine Babina Greda | [`odluka/2023/2195/`](odluka/2023/2195/) | in force | 1 | 2024-01-01 | 2024-01-01 |
+| Odluka o visini poreznih stopa godišnjeg poreza na dohodak na području Općine Babina Greda | [`odluka/2023/2196/`](odluka/2023/2196/) | in force | 1 | 2024-01-01 | 2024-01-01 |
+| Odluka o visini poreznih stopa godišnjeg poreza na dohodak Općine Baška Voda | [`odluka/2023/2198/`](odluka/2023/2198/) | in force | 1 | 2024-01-01 | 2024-01-01 |
+| Odluka o visini poreznih stopa godišnjeg poreza na dohodak na području Općine Bedenica | [`odluka/2023/2199/`](odluka/2023/2199/) | replaced, not consolidated | 1 | 2024-01-01 | 2024-01-01 |
+| Odluka o porezima Općine Donja Voća | [`odluka/2023/2203/`](odluka/2023/2203/) | repealed, not consolidated | 1 | 2024-01-01 | 2024-01-01 |
+| Odluka o visini poreznih stopa poreza na dohodak u Općini Donja Voća | [`odluka/2023/2204/`](odluka/2023/2204/) | repealed, not consolidated | 1 | 2024-01-01 | 2024-01-01 |
+| Odluka o visini poreznih stopa godišnjeg poreza na dohodak na području Općine Drenje | [`odluka/2023/2205/`](odluka/2023/2205/) | in force | 1 | 2024-01-01 | 2024-01-01 |
+| Odluka o visini poreznih stopa godišnjeg poreza na dohodak na području Općine Đurđenovac | [`odluka/2023/2207/`](odluka/2023/2207/) | in force | 1 | 2024-01-01 | 2024-01-01 |
+| Odluka o visini poreznih stopa godišnjeg poreza na dohodak na području Općine Grožnjan - Grisignana | [`odluka/2023/2208/`](odluka/2023/2208/) | in force | 1 | 2024-01-01 | 2024-01-01 |
+| Odluka o visini poreznih stopa godišnjeg poreza na dohodak na području Općine Hercegovac | [`odluka/2023/2209/`](odluka/2023/2209/) | in force | 1 | 2024-01-01 | 2024-01-01 |
+| Odluka o visini poreznih stopa godišnjeg poreza na dohodak na području Općine Končanica | [`odluka/2023/2210/`](odluka/2023/2210/) | repealed, not consolidated | 1 | 2024-01-01 | 2024-01-01 |
+| Odluka o visini poreznih stopa godišnjeg poreza na dohodak na području Općine Lišane Ostrovičke | [`odluka/2023/2211/`](odluka/2023/2211/) | repealed 2025-03-01 | 2 | 2024-01-01 | 2025-03-01 |
 | Odluka o lokalnim porezima Općine Lovinac | [`odluka/2023/2212/`](odluka/2023/2212/) | in force | 1 | 2024-01-01 | 2024-01-01 |
 | Odluka o stavljanju izvan snage Odluke o prirezu porezu na dohodak Općine Lovinac | [`odluka/2023/2213/`](odluka/2023/2213/) | in force | 1 | 2024-01-01 | 2024-01-01 |
+| Odluka o porezima Općine Lovran | [`odluka/2023/2214/`](odluka/2023/2214/) | amended, not consolidated | 1 | 2024-01-01 | 2024-01-01 |
+| Odluka o visini poreznih stopa godišnjeg poreza na dohodak na području Općine Martijanec | [`odluka/2023/2215/`](odluka/2023/2215/) | repealed, not consolidated | 1 | 2024-01-01 | 2024-01-01 |
+| Odluka o visini poreznih stopa godišnjeg poreza na dohodak na području Općine Semeljci | [`odluka/2023/2216/`](odluka/2023/2216/) | in force | 1 | 2024-01-01 | 2024-01-01 |
+| Odluka o visini poreznih stopa poreza na dohodak Općine Sibinj | [`odluka/2023/2217/`](odluka/2023/2217/) | replaced, not consolidated | 1 | 2024-01-01 | 2024-01-01 |
+| Odluka o visini poreznih stopa godišnjeg poreza na dohodak na području Općine Veliki Grđevac | [`odluka/2023/2219/`](odluka/2023/2219/) | in force | 1 | 2024-01-01 | 2024-01-01 |
+| Odluka o visini poreznih stopa godišnjeg poreza na dohodak na području Općine Vižinada - Visinada | [`odluka/2023/2220/`](odluka/2023/2220/) | in force | 1 | 2024-01-01 | 2024-01-01 |
+| Odluka o općinskim porezima Općine Zlatar Bistrica | [`odluka/2023/2221/`](odluka/2023/2221/) | repealed, not consolidated | 1 | 2024-01-01 | 2024-01-01 |
 | Odluka o lokalnim porezima Općine Žumberak | [`odluka/2023/2222/`](odluka/2023/2222/) | in force | 1 | 2024-01-01 | 2024-01-01 |
+| Odluka o visini poreznih stopa godišnjeg poreza na dohodak na području Općine Žumberak | [`odluka/2023/2223/`](odluka/2023/2223/) | in force | 1 | 2024-01-01 | 2024-01-01 |
 | Odluka o općinskim porezima Općine Župa dubrovačka | [`odluka/2023/2224/`](odluka/2023/2224/) | in force | 1 | 2024-01-01 | 2024-01-01 |
+| Odluka o visini poreznih stopa godišnjeg poreza na dohodak na području Grada Kastva | [`odluka/2023/2229/`](odluka/2023/2229/) | in force | 1 | 2024-01-01 | 2024-01-01 |
+| Odluka o visini poreznih stopa godišnjeg poreza na dohodak na području Grada Oroslavja | [`odluka/2023/2230/`](odluka/2023/2230/) | in force | 1 | 2024-01-01 | 2024-01-01 |
 | Odluka o obustavi od primjene općeg akta predstavničkog tijela Grada Oroslavja | [`odluka/2023/2231/`](odluka/2023/2231/) | in force | 1 | 2024-01-01 | 2024-01-01 |
 | Odluka o gradskim porezima Grada Otočca | [`odluka/2023/2232/`](odluka/2023/2232/) | in force | 1 | 2024-01-01 | 2024-01-01 |
+| Odluka o visini poreznih stopa godišnjeg poreza na dohodak na području Grada Otočca | [`odluka/2023/2233/`](odluka/2023/2233/) | in force | 1 | 2024-01-01 | 2024-01-01 |
+| Odluka o porezima Grada Rijeke | [`odluka/2023/2234/`](odluka/2023/2234/) | amended, not consolidated | 1 | 2024-01-01 | 2024-01-01 |
+| Odluka o visini poreznih stopa godišnjeg poreza na dohodak na području Grada Rijeke | [`odluka/2023/2235/`](odluka/2023/2235/) | repealed, not consolidated | 1 | 2024-01-01 | 2024-01-01 |
+| Odluka o visini poreznih stopa godišnjeg poreza na dohodak na području Grada Sinja | [`odluka/2023/2236/`](odluka/2023/2236/) | in force | 1 | 2024-01-01 | 2024-01-01 |
+| Odluka o visini poreznih stopa godišnjeg poreza na dohodak na području Grada Siska | [`odluka/2023/2237/`](odluka/2023/2237/) | amended, not consolidated | 1 | 2024-01-01 | 2024-01-01 |
 | Odluka o porezima Grada Slunja | [`odluka/2023/2238/`](odluka/2023/2238/) | in force | 1 | 2024-01-01 | 2024-01-01 |
 | Odluka o visini poreznih stopa poreza na dohodak Grada Slunja | [`odluka/2023/2239/`](odluka/2023/2239/) | in force | 1 | 2024-01-01 | 2024-01-01 |
 | Odluka o porezima Grada Virovitice | [`odluka/2023/2240/`](odluka/2023/2240/) | in force | 1 | 2024-01-01 | 2024-01-01 |
+| Odluka o visini poreznih stopa godišnjeg poreza na dohodak na području Grada Virovitice | [`odluka/2023/2241/`](odluka/2023/2241/) | in force | 1 | 2024-01-01 | 2024-01-01 |
+| Odluka o visini poreznih stopa godišnjeg poreza na dohodak na području Grada Županje | [`odluka/2023/2242/`](odluka/2023/2242/) | replaced, not consolidated | 1 | 2024-01-01 | 2024-01-01 |
 | Odluka o najnižem dnevnom iznosu plaće sezonskog radnika u poljoprivredi za 2024. godinu | [`odluka/2023/2245/`](odluka/2023/2245/) | in force | 1 | 2024-01-01 | 2024-01-01 |
 | Odluka o zamjeni gotovog novca kune | [`odluka/2023/2247/`](odluka/2023/2247/) | in force | 1 | 2024-01-01 | 2024-01-01 |
 | Odluka o obvezi dostavljanja izvješća o podacima poslovanja s gotovim novcem | [`odluka/2023/2248/`](odluka/2023/2248/) | in force | 1 | 2024-01-01 | 2024-01-01 |
+| Odluka o visini poreznih stopa godišnjeg poreza na dohodak na području Grada Dugog Sela | [`odluka/2023/2252/`](odluka/2023/2252/) | in force | 1 | 2024-01-01 | 2024-01-01 |
 | Odluka o gradskim porezima Grada Pregrade | [`odluka/2023/2253/`](odluka/2023/2253/) | in force | 1 | 2024-01-01 | 2024-01-01 |
+| Odluka o visini poreznih stopa godišnjeg poreza na dohodak na području Grada Pregrade | [`odluka/2023/2254/`](odluka/2023/2254/) | repealed, not consolidated | 1 | 2024-01-01 | 2024-01-01 |
 | Odluka o porezima Grada Trogira | [`odluka/2023/2255/`](odluka/2023/2255/) | repealed 2025-03-01 | 2 | 2024-01-01 | 2025-03-01 |
+| Odluka o visini poreznih stopa godišnjeg poreza na dohodak na području Grada Trogira | [`odluka/2023/2256/`](odluka/2023/2256/) | repealed 2025-03-01 | 2 | 2024-01-01 | 2025-03-01 |
+| Odluka o visini poreznih stopa godišnjeg poreza na dohodak na području Općine Antunovac | [`odluka/2023/2257/`](odluka/2023/2257/) | in force | 1 | 2024-01-01 | 2024-01-01 |
+| Odluka o općinskim porezima Općine Beretinec | [`odluka/2023/2258/`](odluka/2023/2258/) | amended, not consolidated | 1 | 2024-01-01 | 2024-01-01 |
+| Odluka o visini poreznih stopa godišnjeg poreza na dohodak na području Općine Beretinec | [`odluka/2023/2259/`](odluka/2023/2259/) | in force | 1 | 2024-01-01 | 2024-01-01 |
 | Odluka o općinskim porezima Općine Biskupija | [`odluka/2023/2260/`](odluka/2023/2260/) | in force | 1 | 2024-01-01 | 2024-01-01 |
+| Odluka o visini poreznih stopa godišnjeg poreza na dohodak na području Općine Biskupija | [`odluka/2023/2261/`](odluka/2023/2261/) | in force | 1 | 2024-01-01 | 2024-01-01 |
 | Odluka o visini poreznih stopa poreza na dohodak Općine Bol | [`odluka/2023/2263/`](odluka/2023/2263/) | in force | 1 | 2024-01-01 | 2024-01-01 |
+| Odluka o porezima Općine Breznički Hum | [`odluka/2023/2264/`](odluka/2023/2264/) | amended, not consolidated | 1 | 2024-01-01 | 2024-01-01 |
 | Odluka o lokalnim porezima Općine Darda | [`odluka/2023/2265/`](odluka/2023/2265/) | repealed 2025-03-01 | 2 | 2024-01-01 | 2025-03-01 |
 | Odluka o visini poreznih stopa poreza na dohodak na području Općine Darda | [`odluka/2023/2266/`](odluka/2023/2266/) | in force | 1 | 2024-01-01 | 2024-01-01 |
+| Odluka o visini poreznih stopa godišnjeg poreza na dohodak na području Općine Drenovci | [`odluka/2023/2268/`](odluka/2023/2268/) | in force | 1 | 2024-01-01 | 2024-01-01 |
 | Odluka o izmjenama Odluke o lokalnim porezima Općine Erdut | [`odluka/2023/2269/`](odluka/2023/2269/) | in force | 1 | 2024-01-01 | 2024-01-01 |
 | Odluka o visini poreznih stopa poreza na dohodak Općine Erdut | [`odluka/2023/2270/`](odluka/2023/2270/) | in force | 1 | 2024-01-01 | 2024-01-01 |
 | Odluka o porezima Općine Hrvace | [`odluka/2023/2271/`](odluka/2023/2271/) | in force | 1 | 2024-01-01 | 2024-01-01 |
+| Odluka o visini poreznih stopa godišnjeg poreza na dohodak na području Općine Hrvace | [`odluka/2023/2272/`](odluka/2023/2272/) | in force | 1 | 2024-01-01 | 2024-01-01 |
 | Odluka o općinskim porezima Općine Hrvatska Dubica | [`odluka/2023/2273/`](odluka/2023/2273/) | in force | 1 | 2024-01-01 | 2024-01-01 |
+| Odluka o općinskim porezima Općine Klis | [`odluka/2023/2274/`](odluka/2023/2274/) | repealed, not consolidated | 1 | 2024-01-01 | 2024-01-01 |
+| Odluka o visini poreznih stopa poreza na dohodak Općine Klis | [`odluka/2023/2275/`](odluka/2023/2275/) | replaced, not consolidated | 1 | 2024-01-01 | 2024-01-01 |
 | Odluka o porezima Općine Lanišće | [`odluka/2023/2277/`](odluka/2023/2277/) | in force | 1 | 2024-01-01 | 2024-01-01 |
+| Odluka o visini poreznih stopa poreza na dohodak na području Općine Lanišće | [`odluka/2023/2278/`](odluka/2023/2278/) | repealed, not consolidated | 1 | 2024-01-01 | 2024-01-01 |
 | Odluka o izmjeni Odluke o lokalnim porezima Općine Lastovo | [`odluka/2023/2279/`](odluka/2023/2279/) | in force | 1 | 2024-01-01 | 2024-01-01 |
+| Odluka o visini poreznih stopa godišnjeg poreza na dohodak Općine Lastovo | [`odluka/2023/2280/`](odluka/2023/2280/) | replaced, not consolidated | 1 | 2024-01-01 | 2024-01-01 |
 | Izmjena Odluke o visini poreznih stopa godišnjeg poreza na dohodak na području Općine Mali Bukovec | [`odluka/2023/2281/`](odluka/2023/2281/) | in force | 1 | 2024-01-01 | 2024-01-01 |
+| Odluka o visini poreznih stopa godišnjeg poreza na dohodak na području Općine Matulji | [`odluka/2023/2282/`](odluka/2023/2282/) | repealed 2025-03-01 | 2 | 2024-01-01 | 2025-03-01 |
+| Odluka o visini poreznih stopa godišnjeg poreza na dohodak na području Općine Mihovljan | [`odluka/2023/2283/`](odluka/2023/2283/) | in force | 1 | 2024-01-01 | 2024-01-01 |
 | Odluka o visini poreznih stopa poreza na dohodak Općine Podcrkavlje | [`odluka/2023/2284/`](odluka/2023/2284/) | in force | 1 | 2024-01-01 | 2024-01-01 |
+| Odluka o visini poreznih stopa godišnjeg poreza na dohodak na području Općine Pokupsko | [`odluka/2023/2285/`](odluka/2023/2285/) | repealed, not consolidated | 1 | 2024-01-01 | 2024-01-01 |
+| Odluka o visini poreznih stopa godišnjeg poreza na dohodak na području Općine Poličnik | [`odluka/2023/2286/`](odluka/2023/2286/) | in force | 1 | 2024-01-01 | 2024-01-01 |
 | Odluka o porezima Općine Raša | [`odluka/2023/2287/`](odluka/2023/2287/) | in force | 1 | 2024-01-01 | 2024-01-01 |
+| Odluka o visini poreznih stopa godišnjeg poreza na dohodak na području Općine Raša | [`odluka/2023/2288/`](odluka/2023/2288/) | in force | 1 | 2024-01-01 | 2024-01-01 |
 | Odluka o visini poreznih stopa poreza na dohodak Općine Rovišće | [`odluka/2023/2289/`](odluka/2023/2289/) | in force | 1 | 2024-01-01 | 2024-01-01 |
+| Odluka o visini poreznih stopa godišnjeg poreza na dohodak na području Općine Ružić | [`odluka/2023/2290/`](odluka/2023/2290/) | in force | 1 | 2024-01-01 | 2024-01-01 |
+| Odluka o visini poreznih stopa godišnjeg poreza na dohodak na području Općine Stara Gradiška | [`odluka/2023/2291/`](odluka/2023/2291/) | repealed, not consolidated | 1 | 2024-01-01 | 2024-01-01 |
+| Odluka o visini poreznih stopa godišnjeg poreza na dohodak na području Općine Stari Jankovci | [`odluka/2023/2292/`](odluka/2023/2292/) | in force | 1 | 2024-01-01 | 2024-01-01 |
+| Odluka o visini poreznih stopa godišnjeg poreza na dohodak na području Općine Viškovo | [`odluka/2023/2293/`](odluka/2023/2293/) | in force | 1 | 2024-01-01 | 2024-01-01 |
 | Odluka o općinskim porezima Općine Šandrovac | [`odluka/2023/2294/`](odluka/2023/2294/) | in force | 1 | 2024-01-01 | 2024-01-01 |
+| Odluka o visini poreznih stopa godišnjeg poreza na dohodak na području Općine Vođinci | [`odluka/2023/2295/`](odluka/2023/2295/) | in force | 1 | 2024-01-01 | 2024-01-01 |
+| Odluka o visini poreznih stopa godišnjeg poreza na dohodak na području Općine Žminj | [`odluka/2023/2296/`](odluka/2023/2296/) | replaced, not consolidated | 1 | 2024-01-01 | 2024-01-01 |
 | Odluka o sudjelovanju Oružanih snaga Republike Hrvatske u sklopu aktivnosti ojačane prednje prisutnosti NATO-a u Republici Poljskoj | [`odluka/2023/2299/`](odluka/2023/2299/) | in force | 1 | 2023-12-29 | 2023-12-29 |
 | Odluka o sudjelovanju Oružanih snaga Republike Hrvatske u sklopu aktivnosti ojačane budnosti NATO-a u Mađarskoj | [`odluka/2023/2300/`](odluka/2023/2300/) | in force | 1 | 2023-12-29 | 2023-12-29 |
 | Odluka o sudjelovanju Oružanih snaga Republike Hrvatske u sklopu aktivnosti ojačane budnosti NATO-a u Republici Bugarskoj | [`odluka/2023/2301/`](odluka/2023/2301/) | in force | 1 | 2023-12-29 | 2023-12-29 |
+| Odluka o sudjelovanju pripadnika Oružanih snaga Republike Hrvatske u misiji potpore miru »NATO MISIJI U IRAKU« | [`odluka/2023/2302/`](odluka/2023/2302/) | replaced, not consolidated | 1 | 2023-12-29 | 2023-12-29 |
+| Odluka o sudjelovanju Oružanih snaga Republike Hrvatske u operaciji potpore miru »SEA GUARDIAN« u Sredozemlju | [`odluka/2023/2303/`](odluka/2023/2303/) | replaced, not consolidated | 1 | 2023-12-29 | 2023-12-29 |
+| Odluka o sudjelovanju pripadnika Oružanih snaga Republike Hrvatske u operaciji Koalicijskih snaga »INHERENT RESOLVE« | [`odluka/2023/2304/`](odluka/2023/2304/) | replaced, not consolidated | 1 | 2023-12-29 | 2023-12-29 |
+| Odluka o sudjelovanju pripadnika Oružanih snaga Republike Hrvatske u operaciji Europske unije »EUNAVFOR - ATALANTA« | [`odluka/2023/2305/`](odluka/2023/2305/) | replaced, not consolidated | 1 | 2023-12-29 | 2023-12-29 |
+| Odluka o sudjelovanju pripadnika Oružanih snaga Republike Hrvatske u operaciji Europske unije "EUNAVFOR MED IRINI" | [`odluka/2023/2306/`](odluka/2023/2306/) | replaced, not consolidated | 1 | 2023-12-29 | 2023-12-29 |
+| Odluka o upućivanju pripadnika Oružanih snaga Republike Hrvatske na dužnosti u NATO zapovjednoj strukturi, NATO strukturi snaga i drugim nacionalnim (multinacionalnim) zapovjedništvima u operacije i druge aktivnosti u inozemstvu pod vodstvom NATO-a | [`odluka/2023/2307/`](odluka/2023/2307/) | replaced, not consolidated | 1 | 2023-12-29 | 2023-12-29 |
 | Odluka o prelasku granice Republike Hrvatske Oružanih snaga država članica NATO-a i Oružanih snaga Republike Hrvatske angažiranih u okviru novog modela snaga NATO-a u 2024. godini | [`odluka/2023/2308/`](odluka/2023/2308/) | in force | 1 | 2023-12-29 | 2023-12-29 |
+| Odluka o izmjenama i dopunama Odluke o utvrđivanju Osnovne liste ortopedskih i drugih pomagala Hrvatskog zavoda za zdravstveno osiguranje | [`odluka/2023/2324/`](odluka/2023/2324/) | amending act | 1 | 2024-01-05 | 2024-01-05 |
+| Odluka o utvrđivanju Dodatne liste ortopedskih i drugih pomagala Hrvatskog zavoda za zdravstveno osiguranje | [`odluka/2023/2325/`](odluka/2023/2325/) | repealed 2024-02-22 | 2 | 2024-01-05 | 2024-02-22 |
 | Odluka o porezima Grada Benkovca | [`odluka/2023/2326/`](odluka/2023/2326/) | in force | 1 | 2024-01-01 | 2024-01-01 |
 | Odluka o stavljanju izvan snage Odluke o prirezu porezu na dohodak Grada Gospića | [`odluka/2023/2327/`](odluka/2023/2327/) | in force | 1 | 2024-01-01 | 2024-01-01 |
+| Odluka o visini poreznih stopa poreza na dohodak Grada Gospića | [`odluka/2023/2328/`](odluka/2023/2328/) | amended, not consolidated | 1 | 2024-01-01 | 2024-01-01 |
+| Odluka o porezima Grada Duge Rese | [`odluka/2023/2329/`](odluka/2023/2329/) | repealed, not consolidated | 1 | 2024-01-01 | 2024-01-01 |
+| Odluka o visini poreznih stopa poreza na dohodak Grada Duge Rese | [`odluka/2023/2330/`](odluka/2023/2330/) | amended, not consolidated | 1 | 2024-01-01 | 2024-01-01 |
 | Odluka o gradskim porezima Grada Knina | [`odluka/2023/2331/`](odluka/2023/2331/) | in force | 1 | 2024-01-01 | 2024-01-01 |
+| Odluka o porezima Grada Ogulina | [`odluka/2023/2332/`](odluka/2023/2332/) | repealed, not consolidated | 1 | 2024-01-01 | 2024-01-01 |
+| Odluka o visini poreznih stopa godišnjeg poreza na dohodak Grada Ogulina | [`odluka/2023/2333/`](odluka/2023/2333/) | repealed 2025-03-01 | 2 | 2024-01-01 | 2025-03-01 |
+| Odluka o visini poreznih stopa godišnjeg poreza na dohodak na području Grada Omiša | [`odluka/2023/2334/`](odluka/2023/2334/) | in force | 1 | 2024-01-01 | 2024-01-01 |
+| Odluka o visini poreznih stopa godišnjeg poreza na dohodak na području Grada Pule - Pola | [`odluka/2023/2335/`](odluka/2023/2335/) | amended, not consolidated | 1 | 2024-01-01 | 2024-01-01 |
 | Odluka o ukidanju prireza porezu na dohodak Grada Vrgorca | [`odluka/2023/2336/`](odluka/2023/2336/) | in force | 1 | 2024-01-01 | 2024-01-01 |
+| Odluka o visini poreznih stopa godišnjeg poreza na dohodak na području Grada Vrgorca | [`odluka/2023/2337/`](odluka/2023/2337/) | replaced, not consolidated | 1 | 2024-01-01 | 2024-01-01 |
+| Odluka o visini poreznih stopa godišnjeg poreza na dohodak na području Grada Svetog Ivana Zeline | [`odluka/2023/2338/`](odluka/2023/2338/) | in force | 1 | 2024-01-01 | 2024-01-01 |
+| Odluka o visini poreznih stopa godišnjeg poreza na dohodak na području Općine Čađavica | [`odluka/2023/2339/`](odluka/2023/2339/) | in force | 1 | 2024-01-01 | 2024-01-01 |
 | Odluka o općinskim porezima Općine Civljane | [`odluka/2023/2340/`](odluka/2023/2340/) | in force | 1 | 2024-01-01 | 2024-01-01 |
+| Odluka o visini poreznih stopa poreza na dohodak Općine Draganić | [`odluka/2023/2341/`](odluka/2023/2341/) | replaced, not consolidated | 1 | 2024-01-01 | 2024-01-01 |
+| Odluka o visini poreznih stopa godišnjeg poreza na dohodak na području Općine Gornji Bogićevci | [`odluka/2023/2342/`](odluka/2023/2342/) | in force | 1 | 2024-01-01 | 2024-01-01 |
+| Odluka o visini poreznih stopa godišnjeg poreza na dohodak Općine Klakar | [`odluka/2023/2344/`](odluka/2023/2344/) | in force | 1 | 2024-01-01 | 2024-01-01 |
+| Odluka o visini poreznih stopa godišnjeg poreza na dohodak na području Općine Milna | [`odluka/2023/2345/`](odluka/2023/2345/) | replaced, not consolidated | 1 | 2024-01-01 | 2024-01-01 |
 | Odluka o lokalnim porezima Općine Mrkopalj | [`odluka/2023/2346/`](odluka/2023/2346/) | in force | 1 | 2024-01-01 | 2024-01-01 |
+| Odluka o visini poreznih stopa godišnjeg poreza na dohodak na području Općine Mrkopalj | [`odluka/2023/2347/`](odluka/2023/2347/) | in force | 1 | 2024-01-01 | 2024-01-01 |
 | Odluka o lokalnim porezima Općine Stari Mikanovci | [`odluka/2023/2348/`](odluka/2023/2348/) | in force | 1 | 2024-01-01 | 2024-01-01 |
+| Odluka o visini poreznih stopa godišnjeg poreza na dohodak na području Općine Stari Mikanovci | [`odluka/2023/2349/`](odluka/2023/2349/) | in force | 1 | 2024-01-01 | 2024-01-01 |
 | Odluka o porezima Općine Sv. Lovreč | [`odluka/2023/2350/`](odluka/2023/2350/) | in force | 1 | 2024-01-01 | 2024-01-01 |
+| Odluka o visini poreznih stopa godišnjeg poreza na dohodak na području Općine Sv. Lovreč | [`odluka/2023/2351/`](odluka/2023/2351/) | replaced, not consolidated | 1 | 2024-01-01 | 2024-01-01 |
 | Odluka o općinskim porezima Općine Šenkovec | [`odluka/2023/2352/`](odluka/2023/2352/) | in force | 1 | 2024-01-01 | 2024-01-01 |
+| Odluka o visini poreznih stopa godišnjeg poreza na dohodak na području Općine Udbina | [`odluka/2023/2353/`](odluka/2023/2353/) | in force | 1 | 2024-01-01 | 2024-01-01 |
+| Odluka o visini poreznih stopa godišnjeg poreza na dohodak na području Općine Vuka | [`odluka/2023/2354/`](odluka/2023/2354/) | in force | 1 | 2024-01-01 | 2024-01-01 |
+| Odluka o visini poreznih stopa godišnjeg poreza na dohodak na području Općine Zdenci | [`odluka/2023/2356/`](odluka/2023/2356/) | in force | 1 | 2024-01-01 | 2024-01-01 |
+| Odluka o visini poreznih stopa godišnjeg poreza na dohodak Općine Žakanje | [`odluka/2023/2357/`](odluka/2023/2357/) | repealed, not consolidated | 1 | 2024-01-01 | 2024-01-01 |
+| Odluka o isplati jednokratnog novčanog primanja korisnicima mirovine radi ublažavanja posljedica rasta troškova života | [`odluka/2023/2371/`](odluka/2023/2371/) | replaced, not consolidated | 1 | 2023-12-21 | 2023-12-21 |
 | Odluka o dopuni Odluke o dodacima na osnovnu plaću u Ministarstvu obrane i Oružanim snagama Republike Hrvatske | [`odluka/2023/2375/`](odluka/2023/2375/) | amending act | 1 | 2023-12-23 | 2023-12-23 |
 | Odluka o visini izuzetih novčanih sredstava od ovrhe za 2024. godinu | [`odluka/2023/2377/`](odluka/2023/2377/) | in force | 1 | 2024-01-01 | 2024-01-01 |
+| Odluka o porezima Grada Karlovca | [`odluka/2023/2379/`](odluka/2023/2379/) | in force | 1 | 2024-01-01 | 2024-01-01 |
 | Odluka o visini poreznih stopa godišnjeg poreza na dohodak na području Grada Petrinje | [`odluka/2023/2380/`](odluka/2023/2380/) | in force | 1 | 2024-01-01 | 2024-01-01 |
+| Odluka o visini poreznih stopa godišnjeg poreza na dohodak Grada Zagreba | [`odluka/2023/2381/`](odluka/2023/2381/) | replaced, not consolidated | 1 | 2024-01-01 | 2024-01-01 |
 | Odluka o visini poreznih stopa godišnjeg poreza na dohodak Grada Imotskog | [`odluka/2023/2400/`](odluka/2023/2400/) | in force | 1 | 2024-01-01 | 2024-01-01 |
 | Odluka o visini poreznih stopa godišnjeg poreza na dohodak na području Grada Komiže | [`odluka/2023/2401/`](odluka/2023/2401/) | in force | 1 | 2024-01-01 | 2024-01-01 |
 | Odluka o izmjenama Odluke o gradskim porezima Grada Križevaca | [`odluka/2023/2402/`](odluka/2023/2402/) | in force | 1 | 2024-01-01 | 2024-01-01 |
@@ -8562,6 +8802,9 @@
 | Odluka o izmjenama Odluke o porezima Grada Požege | [`odluka/2023/2407/`](odluka/2023/2407/) | in force | 1 | 2024-01-01 | 2024-01-01 |
 | Odluka o visini poreznih stopa godišnjeg poreza na dohodak na području Grada Požege | [`odluka/2023/2408/`](odluka/2023/2408/) | in force | 1 | 2024-01-01 | 2024-01-01 |
 | Odluka o lokalnim porezima Grada Vodnjana - Dignano | [`odluka/2023/2409/`](odluka/2023/2409/) | in force | 1 | 2024-01-01 | 2024-01-01 |
+| Odluka o izmjeni Odluke o koordinaciji aktivnosti unutar okvira za gospodarsko upravljanje Europske unije | [`odluka/2023/2411/`](odluka/2023/2411/) | in force | 1 | 2023-12-13 | 2023-12-13 |
+| Odluka o objavi kamatne stope na zajmove između povezanih osoba | [`odluka/2023/2414/`](odluka/2023/2414/) | replaced, not consolidated | 1 | 2023-12-31 | 2023-12-31 |
+| Odluka o lokalnim porezima Grada Novalje | [`odluka/2023/2422/`](odluka/2023/2422/) | cited later, not consolidated | 1 | 2024-01-01 | 2024-01-01 |
 | Odluka o porezima Grada Visa | [`odluka/2023/2424/`](odluka/2023/2424/) | in force | 1 | 2024-01-01 | 2024-01-01 |
 | Odluka o porezima Grada Vrbovca | [`odluka/2023/2425/`](odluka/2023/2425/) | in force | 1 | 2024-01-01 | 2024-01-01 |
 | Odluka o porezima Općine Barban | [`odluka/2023/2429/`](odluka/2023/2429/) | in force | 1 | 2024-01-01 | 2024-01-01 |
@@ -8587,7 +8830,9 @@
 | Odluka o visini poreznih stopa godišnjeg poreza na dohodak na području Općine Gunja | [`odluka/2023/2450/`](odluka/2023/2450/) | in force | 1 | 2024-01-01 | 2024-01-01 |
 | Odluka o visini poreznih stopa godišnjeg poreza na dohodak na području Općine Hlebine | [`odluka/2023/2451/`](odluka/2023/2451/) | in force | 1 | 2024-01-01 | 2024-01-01 |
 | Odluka o visini poreznih stopa godišnjeg poreza na dohodak na području Općine Jakšić | [`odluka/2023/2452/`](odluka/2023/2452/) | in force | 1 | 2024-01-01 | 2024-01-01 |
+| Odluka o visini poreznih stopa godišnjeg poreza na dohodak na području Općine Jelsa | [`odluka/2023/2453/`](odluka/2023/2453/) | replaced, not consolidated | 1 | 2024-01-01 | 2024-01-01 |
 | Odluka o porezima Općine Kamanje | [`odluka/2023/2454/`](odluka/2023/2454/) | in force | 1 | 2024-01-01 | 2024-01-01 |
+| Odluka o visini poreznih stopa poreza na dohodak Općine Kamanje | [`odluka/2023/2455/`](odluka/2023/2455/) | replaced, not consolidated | 1 | 2024-01-01 | 2024-01-01 |
 | Odluka o porezima Općine Karojba | [`odluka/2023/2456/`](odluka/2023/2456/) | in force | 1 | 2024-01-01 | 2024-01-01 |
 | Odluka o visini poreznih stopa godišnjeg poreza na dohodak na području Općine Karojba | [`odluka/2023/2457/`](odluka/2023/2457/) | in force | 1 | 2024-01-01 | 2024-01-01 |
 | Odluka o visini poreznih stopa godišnjeg poreza na dohodak na području Općine Ližnjan - Lisignano | [`odluka/2023/2461/`](odluka/2023/2461/) | in force | 1 | 2024-01-01 | 2024-01-01 |
@@ -8595,21 +8840,28 @@
 | Odluka o visini poreznih stopa godišnjeg poreza na dohodak na području Općine Lokvičići | [`odluka/2023/2463/`](odluka/2023/2463/) | in force | 1 | 2024-01-01 | 2024-01-01 |
 | Odluka o visini poreznih stopa godišnjeg poreza na dohodak na području Općine Luka | [`odluka/2023/2464/`](odluka/2023/2464/) | in force | 1 | 2024-01-01 | 2024-01-01 |
 | Odluka o visini poreznih stopa godišnjeg poreza na dohodak na području Općine Lumbarda | [`odluka/2023/2465/`](odluka/2023/2465/) | in force | 1 | 2024-01-01 | 2024-01-01 |
+| Odluka o porezima Općine Magadenovac | [`odluka/2023/2466/`](odluka/2023/2466/) | repealed, not consolidated | 1 | 2024-01-01 | 2024-01-01 |
 | Odluka o visini poreznih stopa godišnjeg poreza na dohodak na području Općine Marijanci | [`odluka/2023/2467/`](odluka/2023/2467/) | in force | 1 | 2024-01-01 | 2024-01-01 |
 | Odluka o visini poreznih stopa godišnjeg poreza na dohodak na području Općine Medulin | [`odluka/2023/2468/`](odluka/2023/2468/) | in force | 1 | 2024-01-01 | 2024-01-01 |
 | Odluka o visini poreznih stopa godišnjeg poreza na dohodak na području Općine Nova Kapela | [`odluka/2023/2469/`](odluka/2023/2469/) | in force | 1 | 2024-01-01 | 2024-01-01 |
+| Odluka o porezima Općine Novigrad | [`odluka/2023/2470/`](odluka/2023/2470/) | replaced, not consolidated | 1 | 2024-01-01 | 2024-01-01 |
 | Odluka o visini poreznih stopa godišnjeg poreza na dohodak na području Općine Novigrad | [`odluka/2023/2471/`](odluka/2023/2471/) | in force | 1 | 2024-01-01 | 2024-01-01 |
 | Odluka o visini poreznih stopa godišnjeg poreza na dohodak na području Općine Orebić | [`odluka/2023/2472/`](odluka/2023/2472/) | in force | 1 | 2024-01-01 | 2024-01-01 |
 | Odluka o visini poreznih stopa godišnjeg poreza na dohodak na području Općine Orle | [`odluka/2023/2473/`](odluka/2023/2473/) | in force | 1 | 2024-01-01 | 2024-01-01 |
 | Odluka o visini poreznih stopa godišnjeg poreza na dohodak na području Općine Peteranec | [`odluka/2023/2474/`](odluka/2023/2474/) | in force | 1 | 2024-01-01 | 2024-01-01 |
+| Odluka o visini poreznih stopa godišnjeg poreza na dohodak na području Općine Plitvička Jezera | [`odluka/2023/2475/`](odluka/2023/2475/) | repealed, not consolidated | 1 | 2024-01-01 | 2024-01-01 |
 | Odluka o lokalnim porezima Općine Posedarje | [`odluka/2023/2476/`](odluka/2023/2476/) | in force | 1 | 2024-01-01 | 2024-01-01 |
 | Odluka o visini poreznih stopa godišnjeg poreza na dohodak na području Općine Posedarje | [`odluka/2023/2477/`](odluka/2023/2477/) | in force | 1 | 2024-01-01 | 2024-01-01 |
+| Odluka o porezima Općine Primošten | [`odluka/2023/2478/`](odluka/2023/2478/) | repealed, not consolidated | 1 | 2024-01-01 | 2024-01-01 |
+| Odluka o visini poreznih stopa godišnjeg poreza na dohodak na području Općine Privlaka | [`odluka/2023/2479/`](odluka/2023/2479/) | replaced, not consolidated | 1 | 2024-01-01 | 2024-01-01 |
+| Odluka o visini poreznih stopa godišnjeg poreza na dohodak na području Općine Radoboj | [`odluka/2023/2480/`](odluka/2023/2480/) | amended, not consolidated | 1 | 2024-01-01 | 2024-01-01 |
 | Odluka o porezima Općine Ribnik | [`odluka/2023/2481/`](odluka/2023/2481/) | in force | 1 | 2024-01-01 | 2024-01-01 |
 | Odluka o visini poreznih stopa godišnjeg poreza na dohodak na području Općine Ribnik | [`odluka/2023/2482/`](odluka/2023/2482/) | in force | 1 | 2024-01-01 | 2024-01-01 |
 | Odluka o lokalnim porezima Općine Rugvica | [`odluka/2023/2483/`](odluka/2023/2483/) | in force | 1 | 2024-01-01 | 2024-01-01 |
 | Odluka o visini poreznih stopa godišnjeg poreza na dohodak na području Općine Stara Gradiška | [`odluka/2023/2484/`](odluka/2023/2484/) | in force | 1 | 2024-01-01 | 2024-01-01 |
 | Odluka o visini poreznih stopa poreza na dohodak Općine Ston | [`odluka/2023/2485/`](odluka/2023/2485/) | in force | 1 | 2024-01-01 | 2024-01-01 |
 | Odluka o visini poreznih stopa godišnjeg poreza na dohodak na području Općine Suhopolje | [`odluka/2023/2486/`](odluka/2023/2486/) | in force | 1 | 2024-01-01 | 2024-01-01 |
+| Odluka o visini poreznih stopa godišnjeg poreza na dohodak na području Općine Sutivan | [`odluka/2023/2487/`](odluka/2023/2487/) | replaced, not consolidated | 1 | 2024-01-01 | 2024-01-01 |
 | Odluka o visini poreznih stopa godišnjeg poreza na dohodak na području Općine Sveti Ilija | [`odluka/2023/2488/`](odluka/2023/2488/) | in force | 1 | 2024-01-01 | 2024-01-01 |
 | Odluka o visini poreznih stopa godišnjeg poreza na dohodak na području Općine Sveti Križ Začretje | [`odluka/2023/2489/`](odluka/2023/2489/) | in force | 1 | 2024-01-01 | 2024-01-01 |
 | Odluka o visini poreznih stopa godišnjeg poreza na dohodak na području Općine Sveti Petar u Šumi | [`odluka/2023/2490/`](odluka/2023/2490/) | in force | 1 | 2024-01-01 | 2024-01-01 |
@@ -8619,16 +8871,22 @@
 | Odluka o porezima Općine Tounj | [`odluka/2023/2494/`](odluka/2023/2494/) | in force | 1 | 2024-01-01 | 2024-01-01 |
 | Odluka o izmjenama i dopunama Odluke o općinskim porezima Općine Tučepi | [`odluka/2023/2495/`](odluka/2023/2495/) | amending act | 1 | 2024-01-01 | 2024-01-01 |
 | Odluka o visini poreznih stopa godišnjeg poreza na dohodak na području Općine Tučepi | [`odluka/2023/2496/`](odluka/2023/2496/) | in force | 1 | 2024-01-01 | 2024-01-01 |
+| Odluka o visini poreznih stopa godišnjeg poreza na dohodak na području Općine Vojnić | [`odluka/2023/2499/`](odluka/2023/2499/) | amended, not consolidated | 1 | 2024-01-01 | 2024-01-01 |
+| Odluka o naknadi za razvoj za područje Grada Velike Gorice | [`odluka/2023/2500/`](odluka/2023/2500/) | repealed, not consolidated | 1 | 2024-01-01 | 2024-01-01 |
 | Odluka o izmjenama Odluke o naknadi za razvoj KD Vodovod i kanalizacija d.o.o., Rijeka | [`odluka/2023/2502/`](odluka/2023/2502/) | in force | 1 | 2024-01-01 | 2024-01-01 |
 | Odluka o centraliziranom financiranju specijalističkog usavršavanja doktora medicine | [`odluka/2023/2509/`](odluka/2023/2509/) | in force | 1 | 2023-12-28 | 2023-12-28 |
 | Odluka o donošenju Nacionalnog plana razvoja kulture i medija za razdoblje od 2023. do 2027. godine | [`odluka/2023/2510/`](odluka/2023/2510/) | in force | 1 | 2023-12-28 | 2023-12-28 |
+| Odluka o određivanju iznosa razlike između jediničnih cijena za centralne toplinske sustave i zatvorene toplinske sustave u odnosu na krajnje cijene isporučene toplinske energije | [`odluka/2023/2511/`](odluka/2023/2511/) | replaced, not consolidated | 1 | 2023-12-30 | 2023-12-30 |
 | Odluka o osnovici za izračun iznosa zajamčene minimalne naknade | [`odluka/2023/2512/`](odluka/2023/2512/) | repealed 2025-01-01 | 2 | 2024-01-01 | 2025-01-01 |
 | Odluka o osnovici za izračun iznosa naknade za rad udomitelja i iznosa opskrbnine za 2024. godinu | [`odluka/2023/2513/`](odluka/2023/2513/) | in force | 1 | 2024-01-01 | 2024-01-01 |
 | Odluka o udjelu sredstava fiskalnog izravnanja za pojedinu općinu, grad i županiju u ukupnim sredstvima fiskalnog izravnanja s iznosom sredstava fiskalnog izravnanja za 2024. godinu | [`odluka/2023/2518/`](odluka/2023/2518/) | in force | 1 | 2024-01-01 | 2024-01-01 |
+| Odluka o visini poreznih stopa godišnjeg poreza na dohodak na području Grada Novigrada - Cittanova | [`odluka/2023/2520/`](odluka/2023/2520/) | replaced, not consolidated | 1 | 2024-01-01 | 2024-01-01 |
 | Odluka o visini poreznih stopa godišnjeg poreza na dohodak na području Grada Nina | [`odluka/2023/2521/`](odluka/2023/2521/) | in force | 1 | 2024-01-01 | 2024-01-01 |
 | Odluka o visini poreznih stopa godišnjeg poreza na dohodak na području Općine Brodski Stupnik | [`odluka/2023/2522/`](odluka/2023/2522/) | in force | 1 | 2024-01-01 | 2024-01-01 |
+| Odluka o lokalnim porezima Općine Fažana | [`odluka/2023/2523/`](odluka/2023/2523/) | in force | 1 | 2024-01-01 | 2024-01-01 |
 | Odluka o visini poreznih stopa godišnjeg poreza na dohodak na području Općine Klenovnik | [`odluka/2023/2524/`](odluka/2023/2524/) | in force | 1 | 2024-01-01 | 2024-01-01 |
 | Odluka o lokalnim porezima Općine Podgora | [`odluka/2023/2525/`](odluka/2023/2525/) | in force | 1 | 2024-01-01 | 2024-01-01 |
+| Odluka o visini poreznih stopa godišnjeg poreza na dohodak na području Općine Podgora | [`odluka/2023/2526/`](odluka/2023/2526/) | amended, not consolidated | 1 | 2024-01-01 | 2024-01-01 |
 | Odluka o porezima Općine Vižinada - Visinada | [`odluka/2023/2527/`](odluka/2023/2527/) | in force | 1 | 2024-01-01 | 2024-01-01 |
 | Odluka o visini poreznih stopa godišnjeg poreza na dohodak na području Općine Vrbanja | [`odluka/2023/2528/`](odluka/2023/2528/) | in force | 1 | 2024-01-01 | 2024-01-01 |
 | Odluka o donošenju Smjernica politike državnih potpora za razdoblje 2024. - 2026. | [`odluka/2024/59/`](odluka/2024/59/) | in force | 1 | 2024-01-04 | 2024-01-04 |
@@ -8639,6 +8897,7 @@
 | Odluka o mirovinskom društvu koje je za svaku kategoriju obveznih mirovinskih fondova ostvarilo najveći prinos prilagođen riziku u 2023. godini | [`odluka/2024/103/`](odluka/2024/103/) | in force | 1 | 2024-01-13 | 2024-01-13 |
 | Odluka o dopuni Odluke o koordinaciji aktivnosti unutar okvira za gospodarsko upravljanje Europske unije | [`odluka/2024/131/`](odluka/2024/131/) | amending act | 1 | 2024-01-11 | 2024-01-11 |
 | Odluka o stavljanju u službenu uporabu katastarskog operata katastra nekretnina za katastarsku općinu Varvari | [`odluka/2024/135/`](odluka/2024/135/) | in force | 1 | 2024-01-09 | 2024-01-09 |
+| Odluka o raspoređivanju sredstava za rad političkih stranaka i nezavisnih zastupnika | [`odluka/2024/139/`](odluka/2024/139/) | replaced, not consolidated | 1 | 2024-01-18 | 2024-01-18 |
 | Odluka o izmjeni Odluke o osnivanju Konzulata Republike Hrvatske u Kraljevini Danskoj, sa sjedištem u Aalborgu | [`odluka/2024/140/`](odluka/2024/140/) | in force | 1 | 2024-01-10 | 2024-01-10 |
 | Odluka o postavljanju počasnog konzula Republike Hrvatske u Kraljevini Danskoj, sa sjedištem u Aalborgu | [`odluka/2024/141/`](odluka/2024/141/) | in force | 1 | 2024-01-10 | 2024-01-10 |
 | Odluka o iznosu osnovice za određivanje prava iz Zakona o hrvatskim braniteljima iz Domovinskog rata i članovima njihovih obitelji za 2024. godinu | [`odluka/2024/142/`](odluka/2024/142/) | in force | 1 | 2024-01-20 | 2024-01-20 |
@@ -8651,6 +8910,7 @@
 | Odluka o odobrenju za rad pružatelju usluge servisiranja kredita | [`odluka/2024/205/`](odluka/2024/205/) | in force | 1 | 2024-02-06 | 2024-02-06 |
 | Odluka o sadržaju i načinu obavještavanja Hrvatske narodne banke u slučaju kupoprodaje neprihodonosnoga kredita | [`odluka/2024/206/`](odluka/2024/206/) | in force | 1 | 2024-02-06 | 2024-02-06 |
 | Odluka o sadržaju procedura za rješavanje prigovora dužnika | [`odluka/2024/207/`](odluka/2024/207/) | in force | 1 | 2024-02-06 | 2024-02-06 |
+| Odluka o izmjeni Odluke o kamatnim stopama na novčana sredstva kod Hrvatske narodne banke koja se ne odnose na operacije monetarne politike | [`odluka/2024/208/`](odluka/2024/208/) | in force | 1 | 2024-02-06 | 2024-02-06 |
 | Odluka o zajamčenom prinosu obveznih mirovinskih fondova za 2023. godinu | [`odluka/2024/238/`](odluka/2024/238/) | in force | 1 | 2024-02-01 | 2024-02-01 |
 | Odluka o usklađenju sredstava jamstvenog pologa za 2024. godinu | [`odluka/2024/239/`](odluka/2024/239/) | in force | 1 | 2024-02-01 | 2024-02-01 |
 | Odluka o uspostavi, sadržaju i korištenju Zbirke podataka o mjerama ograničavanja, fizičkim i pravnim osobama i drugim subjektima na koje se mjere ograničavanja odnose | [`odluka/2024/242/`](odluka/2024/242/) | in force | 1 | 2024-02-10 | 2024-02-10 |
@@ -8762,6 +9022,8 @@
 | Odluka o sazivanju prvog zasjedanja Hrvatskoga sabora | [`odluka/2024/959/`](odluka/2024/959/) | in force | 1 | 2024-05-09 | 2024-05-09 |
 | Odluka o povjeravanju mandata za sastavljanje Vlade Republike Hrvatske | [`odluka/2024/960/`](odluka/2024/960/) | in force | 1 | 2024-05-10 | 2024-05-10 |
 | Odluka o visini poreznih stopa godišnjeg poreza na dohodak Općine Donji Andrijevci | [`odluka/2024/974/`](odluka/2024/974/) | in force | 1 | 2025-01-01 | 2025-01-01 |
+| Odluka o izmjenama i dopunama Odluke o utvrđivanju Osnovne liste ortopedskih i drugih pomagala Hrvatskog zavoda za zdravstveno osiguranje | [`odluka/2024/1001/`](odluka/2024/1001/) | amending act | 1 | 2024-06-01 | 2024-06-01 |
+| Odluka o utvrđivanju Dodatne liste ortopedskih i drugih pomagala Hrvatskog zavoda za zdravstveno osiguranje | [`odluka/2024/1002/`](odluka/2024/1002/) | repealed 2024-07-18 | 2 | 2024-06-01 | 2024-07-18 |
 | Odluka o upisu učenika u I. razred srednje škole u školskoj godini 2024./2025. | [`odluka/2024/1046/`](odluka/2024/1046/) | in force | 1 | 2024-05-21 | 2024-05-21 |
 | Odluka o katastarskoj izmjeri na području Grada Pleternice za katastarsku općinu Kuzmica | [`odluka/2024/1060/`](odluka/2024/1060/) | in force | 1 | 2024-05-23 | 2024-05-23 |
 | Odluka o katastarskoj izmjeri na području Općine Brestovac za katastarsku općinu Vilić Selo | [`odluka/2024/1061/`](odluka/2024/1061/) | in force | 1 | 2024-05-23 | 2024-05-23 |
@@ -8793,10 +9055,14 @@
 | Odluka o izboru predsjednice i potpredsjednika Odbora za međuparlamentarnu suradnju Hrvatskoga sabora | [`odluka/2024/1180/`](odluka/2024/1180/) | in force | 1 | 2024-05-24 | 2024-05-24 |
 | Odluka o izboru predsjednice, potpredsjednice i članova Odbora za ravnopravnost spolova Hrvatskoga sabora | [`odluka/2024/1182/`](odluka/2024/1182/) | in force | 1 | 2024-05-24 | 2024-05-24 |
 | Odluka o izboru predsjednice, potpredsjednika i članova Nacionalnog vijeća za praćenje provedbe Strategije suzbijanja korupcije | [`odluka/2024/1184/`](odluka/2024/1184/) | in force | 1 | 2024-05-24 | 2024-05-24 |
+| Odluka o izboru Izaslanstva Hrvatskoga sabora u Parlamentarnoj skupštini Organizacije za europsku sigurnost i suradnju (OESS) | [`odluka/2024/1187/`](odluka/2024/1187/) | amended, not consolidated | 1 | 2024-05-24 | 2024-05-24 |
 | Odluka o stavljanju u službenu uporabu katastarskog operata katastra nekretnina za katastarsku općinu Potnjani | [`odluka/2024/1198/`](odluka/2024/1198/) | in force | 1 | 2024-05-29 | 2024-05-29 |
+| Odluka o iznosu tarifnih stavki za zajamčenu opskrbu električnom energijom | [`odluka/2024/1205/`](odluka/2024/1205/) | replaced, not consolidated | 1 | 2024-07-01 | 2024-07-01 |
 | Odluka o naknadi za razvoj trgovačkog društva Istarski vodovod d.o.o., Buzet | [`odluka/2024/1208/`](odluka/2024/1208/) | in force | 1 | 2024-07-01 | 2024-07-01 |
 | Odluka o iznosu tarifnih stavki za zajamčenu opskrbu plinom za krajnje kupce koji nisu kućanstvo za razdoblje od 1. srpnja 2024. do 30. rujna 2024. | [`odluka/2024/1220/`](odluka/2024/1220/) | in force | 1 | 2024-07-01 | 2024-07-01 |
 | Odluka o izmjenama i dopunama Odluke o prethodnoj suglasnosti za stjecanje kvalificiranog udjela u kreditnoj instituciji | [`odluka/2024/1222/`](odluka/2024/1222/) | amending act | 1 | 2024-10-01 | 2024-10-01 |
+| Odluka o raspoređivanju sredstava za rad političkih stranaka i nezavisnih zastupnika | [`odluka/2024/1231/`](odluka/2024/1231/) | repealed, not consolidated | 1 | 2024-06-13 | 2024-06-13 |
+| Odluka o naknadi za razvoj sustava javne vodoopskrbe trgovačkog društva Vodovod Pula d.o.o. | [`odluka/2024/1238/`](odluka/2024/1238/) | repealed, not consolidated | 1 | 2024-07-01 | 2024-07-01 |
 | Odluka o osnivanju Konzulata Republike Hrvatske u Saveznoj Republici Njemačkoj, sa sjedištem u Freiburgu | [`odluka/2024/1245/`](odluka/2024/1245/) | in force | 1 | 2024-06-14 | 2024-06-14 |
 | Odluka o postavljanju počasne konzulice Republike Hrvatske u Saveznoj Republici Njemačkoj, sa sjedištem u Freiburgu | [`odluka/2024/1246/`](odluka/2024/1246/) | in force | 1 | 2024-06-14 | 2024-06-14 |
 | Odluka o osnivanju Konzulata Republike Hrvatske u Republici Paragvaju, sa sjedištem u Asunciónu | [`odluka/2024/1247/`](odluka/2024/1247/) | in force | 1 | 2024-06-14 | 2024-06-14 |
@@ -8807,7 +9073,15 @@
 | Odluka o izboru Izvršnog odbora Nacionalne grupe Hrvatskoga sabora pri Interparlamentarnoj uniji | [`odluka/2024/1295/`](odluka/2024/1295/) | in force | 1 | 2024-06-21 | 2024-06-21 |
 | Odluka o postavljanju počasnog konzula Republike Hrvatske u Republici Islandu, sa sjedištem u Reykjaviku | [`odluka/2024/1299/`](odluka/2024/1299/) | in force | 1 | 2024-06-17 | 2024-06-17 |
 | Odluka o izmjenama i dopunama Odluke o izdavanju dozvole za istraživanje i eksploataciju ugljikovodika na kopnu u istražnom prostoru ugljikovodika »SA-07« | [`odluka/2024/1301/`](odluka/2024/1301/) | amending act | 1 | 2024-06-21 | 2024-06-21 |
+| Odluka o izmjenama i dopunama Odluke o izvještajima za potrebe supervizije kreditnih institucija | [`odluka/2024/1305/`](odluka/2024/1305/) | amending act | 1 | 2024-07-04 | 2024-07-04 |
+| Odluka o naknadi za razvoj javne vodoopskrbe društva Vodovod Labin d.o.o. | [`odluka/2024/1307/`](odluka/2024/1307/) | repealed, not consolidated | 1 | 2024-07-01 | 2024-07-01 |
+| Odluka o naknadi za razvoj društva Zagorski vodovod d.o.o. | [`odluka/2024/1308/`](odluka/2024/1308/) | repealed, not consolidated | 1 | 2024-07-01 | 2024-07-01 |
+| Odluka o raspoređivanju sredstava za rad političkih stranaka i nezavisnih zastupnika | [`odluka/2024/1312/`](odluka/2024/1312/) | replaced, not consolidated | 1 | 2024-07-01 | 2024-07-01 |
+| Odluka o izmjenama Odluke o osnovama za sklapanje ugovora o provođenju specifične zdravstvene zaštite | [`odluka/2024/1324/`](odluka/2024/1324/) | in force | 1 | 2024-06-29 | 2024-06-29 |
+| Odluka o zatvaranju za promet postojećih željezničko-cestovnih prijelaza | [`odluka/2024/1325/`](odluka/2024/1325/) | in force | 1 | 2024-06-06 | 2024-06-06 |
 | Odluka o naknadi za razvoj društva Vodovod i kanalizacija d.o.o., Karlovac | [`odluka/2024/1327/`](odluka/2024/1327/) | in force | 1 | 2024-07-06 | 2024-07-06 |
+| Odluka o izmjenama i dopunama Odluke o utvrđivanju Osnovne liste ortopedskih i drugih pomagala Hrvatskog zavoda za zdravstveno osiguranje | [`odluka/2024/1349/`](odluka/2024/1349/) | amended, not consolidated | 1 | 2024-07-18 | 2024-07-18 |
+| Odluka o utvrđivanju Dodatne liste ortopedskih i drugih pomagala Hrvatskog zavoda za zdravstveno osiguranje | [`odluka/2024/1350/`](odluka/2024/1350/) | repealed 2024-09-02 | 2 | 2024-07-18 | 2024-09-02 |
 | Odluka o raspisivanju prijevremenih izbora za općinskog načelnika Općine Smokvica | [`odluka/2024/1363/`](odluka/2024/1363/) | in force | 1 | 2024-07-18 | 2024-07-18 |
 | Odluka o stavljanju u službenu uporabu katastarskog operata katastra nekretnina za dio katastarske općine Kurilovec Novi za II. zonu | [`odluka/2024/1368/`](odluka/2024/1368/) | in force | 1 | 2024-06-20 | 2024-06-20 |
 | Odluka o dopuštenoj visini kala, rastepa, kvara i loma u ugostiteljstvu | [`odluka/2024/1374/`](odluka/2024/1374/) | in force | 1 | 2024-07-13 | 2024-07-13 |
@@ -8820,6 +9094,9 @@
 | Odluka o osnivanju Povjerenstva za osiguranje izvoza | [`odluka/2024/1479/`](odluka/2024/1479/) | in force | 1 | 2024-07-17 | 2024-07-17 |
 | Odluka o izmjenama Odluke o osnivanju Povjerenstva za praćenje provedbe Nacionalnog plana za uključivanje Roma, za razdoblje od 2021. do 2027. godine | [`odluka/2024/1480/`](odluka/2024/1480/) | in force | 1 | 2024-07-17 | 2024-07-17 |
 | Odluka o stavljanju u službenu uporabu katastarskog operata katastra nekretnina za katastarsku općinu Sušak - nova za III. zonu | [`odluka/2024/1485/`](odluka/2024/1485/) | in force | 1 | 2024-07-15 | 2024-07-15 |
+| Odluka o naknadi za razvoj trgovačkog društva Vodovod i odvodnja, d.o.o. za vodoopskrbu i odvodnju - Orebić | [`odluka/2024/1486/`](odluka/2024/1486/) | amended, not consolidated | 1 | 2024-07-27 | 2024-07-27 |
+| Odluka o razvrstavanju javnih cesta | [`odluka/2024/1514/`](odluka/2024/1514/) | repealed 2025-08-14 | 2 | 2024-08-01 | 2025-08-14 |
+| Odluka o zatvaranju za promet postojećeg željezničko-cestovnog prijelaza | [`odluka/2024/1519/`](odluka/2024/1519/) | replaced, not consolidated | 1 | 2024-07-04 | 2024-07-04 |
 | Odluka o visini osnovice za obračun plaće državnih dužnosnika | [`odluka/2024/1532/`](odluka/2024/1532/) | in force | 1 | 2024-07-27 | 2024-07-27 |
 | Odluka o plaći članova Državne komisije za kontrolu postupaka javne nabave | [`odluka/2024/1533/`](odluka/2024/1533/) | in force | 1 | 2024-07-27 | 2024-07-27 |
 | Odluka o promjeni granice pomorskog dobra radi građenja, rekonstrukcije i održavanja državne ceste DC410 | [`odluka/2024/1534/`](odluka/2024/1534/) | in force | 1 | 2024-07-25 | 2024-07-25 |
@@ -8828,7 +9105,14 @@
 | Odluka o izmjenama Odluke o početku i završetku nastavne godine, broju radnih dana i trajanju odmora učenika osnovnih i srednjih škola za školsku godinu 2024./2025. | [`odluka/2024/1540/`](odluka/2024/1540/) | in force | 1 | 2024-08-03 | 2024-08-03 |
 | Odluka o kriterijima i načinu financiranja, odnosno sufinanciranja troškova prehrane za učenike osnovnih škola za školsku godinu 2024./2025. | [`odluka/2024/1695/`](odluka/2024/1695/) | in force | 1 | 2024-08-03 | 2024-08-03 |
 | Odluka o kriterijima i načinu financiranja troškova javnog prijevoza redovitih učenika srednjih škola za školsku godinu 2024./2025. | [`odluka/2024/1696/`](odluka/2024/1696/) | in force | 1 | 2024-08-03 | 2024-08-03 |
+| Odluka o donošenju dopuna strukovnog kurikuluma za stjecanje kvalifikacije TEHNIČAR ZA MEHATRONIKU (041524) u obrazovnom sektoru ELEKTROTEHNIKA I RAČUNALSTVO | [`odluka/2024/1725/`](odluka/2024/1725/) | repealed, not consolidated | 1 | 2024-08-15 | 2024-08-15 |
+| Odluka o donošenju izmjena i dopuna strukovnog kurikuluma za stjecanje kvalifikacije TEHNIČAR ZA ELEKTRONIKU (041424) u obrazovnom sektoru ELEKTROTEHNIKA I RAČUNALSTVO | [`odluka/2024/1726/`](odluka/2024/1726/) | repealed, not consolidated | 1 | 2024-08-15 | 2024-08-15 |
+| Odluka o donošenju izmjena i dopuna strukovnog kurikuluma za stjecanje kvalifikacije TEHNIČAR ZA RAČUNALSTVO (041624) u obrazovnom sektoru ELEKTROTEHNIKA I RAČUNALSTVO | [`odluka/2024/1727/`](odluka/2024/1727/) | repealed, not consolidated | 1 | 2024-08-15 | 2024-08-15 |
 | Odluka o donošenju izmjena i dopuna strukovnog kurikuluma za stjecanje kvalifikacije TEHNIČAR ZA POŠTANSKE I FINANCIJSKE USLUGE (170224) u obrazovnom sektoru PROMET I LOGISTIKA | [`odluka/2024/1728/`](odluka/2024/1728/) | amending act | 1 | 2024-08-15 | 2024-08-15 |
+| Odluka o zatvaranju za promet postojećeg pješačkog prijelaza | [`odluka/2024/1737/`](odluka/2024/1737/) | replaced, not consolidated | 1 | 2024-05-28 | 2024-05-28 |
+| Odluka o zatvaranju za promet postojećeg željezničko-cestovnog prijelaza | [`odluka/2024/1738/`](odluka/2024/1738/) | replaced, not consolidated | 1 | 2024-05-28 | 2024-05-28 |
+| Odluka o utvrđivanju Dodatne liste ortopedskih i drugih pomagala Hrvatskog zavoda za zdravstveno osiguranje | [`odluka/2024/1744/`](odluka/2024/1744/) | repealed 2024-11-23 | 2 | 2024-09-02 | 2024-11-23 |
+| Odluka o izmjenama i dopunama Odluke o utvrđivanju Osnovne liste ortopedskih i drugih pomagala Hrvatskog zavoda za zdravstveno osiguranje | [`odluka/2024/1745/`](odluka/2024/1745/) | amending act | 1 | 2024-09-02 | 2024-09-02 |
 | Odluka o naknadi za razvoj na području pružanja vodnih usluga društva Izvor Ploče d.o.o. | [`odluka/2024/1749/`](odluka/2024/1749/) | in force | 1 | 2024-08-29 | 2024-08-29 |
 | Odluka o financiranju drugih obrazovnih materijala za učenike osnovnih škola u Republici Hrvatskoj za školsku godinu 2024./2025. sredstvima iz Državnog proračuna Republike Hrvatske | [`odluka/2024/1750/`](odluka/2024/1750/) | in force | 1 | 2024-08-24 | 2024-08-24 |
 | Odluku o financiranju obveznih udžbenika za učenike srednjih škola u Republici Hrvatskoj za školsku godinu 2024./2025. sredstvima iz Državnoga proračuna Republike Hrvatske | [`odluka/2024/1751/`](odluka/2024/1751/) | in force | 1 | 2024-08-24 | 2024-08-24 |
@@ -8842,9 +9126,15 @@
 | Odluka o izmjenama Odluke o osnivanju Vijeća za državnu informacijsku infrastrukturu | [`odluka/2024/1779/`](odluka/2024/1779/) | in force | 1 | 2024-08-29 | 2024-08-29 |
 | Odluka o izmjenama i dopuni Odluke o osnivanju Nacionalnog vijeća za digitalnu transformaciju | [`odluka/2024/1780/`](odluka/2024/1780/) | amending act | 1 | 2024-08-29 | 2024-08-29 |
 | Odluka o donošenju Nastavnog programa za stjecanje andragoških kompetencija za poučavanje temeljnih vještina u obrazovanju odraslih | [`odluka/2024/1781/`](odluka/2024/1781/) | in force | 1 | 2024-09-07 | 2024-09-07 |
+| Odluka o naknadi za razvoj društva Moslavina d.o.o. | [`odluka/2024/1785/`](odluka/2024/1785/) | repealed, not consolidated | 1 | 2024-09-07 | 2024-09-07 |
+| Odluka o iznosu tarifnih stavki za zajamčenu opskrbu električnom energijom | [`odluka/2024/1797/`](odluka/2024/1797/) | replaced, not consolidated | 1 | 2024-10-01 | 2024-10-01 |
+| Odluka o iznosu tarifnih stavki za javnu uslugu opskrbe plinom za razdoblje od 1. listopada do 31. prosinca 2024. te za razdoblje od 1. siječnja do 30. rujna 2025. | [`odluka/2024/1798/`](odluka/2024/1798/) | repealed, not consolidated | 1 | 2024-10-01 | 2024-10-01 |
 | Odluka o osnivanju Konzulata Republike Hrvatske u Australiji, sa sjedištem u Adelaideu | [`odluka/2024/1800/`](odluka/2024/1800/) | in force | 1 | 2024-09-02 | 2024-09-02 |
 | Odluka o postavljanju počasnog konzula Republike Hrvatske u Australiji, sa sjedištem u Adelaideu | [`odluka/2024/1801/`](odluka/2024/1801/) | in force | 1 | 2024-09-02 | 2024-09-02 |
+| Odluka o subvencioniranju dijela krajnje cijene opskrbe plinom za krajnje kupce kategorije kućanstvo | [`odluka/2024/1804/`](odluka/2024/1804/) | amended, not consolidated | 1 | 2024-10-01 | 2024-10-01 |
 | Odluka o isplati jednokratnog novčanog primanja korisnicima mirovine radi ublažavanja posljedica rasta troškova života | [`odluka/2024/1805/`](odluka/2024/1805/) | in force | 1 | 2024-09-07 | 2024-09-07 |
+| Odluka o isplati jednokratnog novčanog primanja hrvatskim braniteljima iz Domovinskog rata - korisnicima prava u sustavu skrbi o hrvatskim braniteljima iz Domovinskog rata i sustavu socijalne skrbi radi ublažavanja posljedica rasta troškova života | [`odluka/2024/1806/`](odluka/2024/1806/) | replaced, not consolidated | 1 | 2024-09-07 | 2024-09-07 |
+| Odluka o nastavku provedbe mjere za smanjenje utjecaja porasta cijena energenata na pružatelje socijalnih usluga u Republici Hrvatskoj | [`odluka/2024/1807/`](odluka/2024/1807/) | replaced, not consolidated | 1 | 2024-10-01 | 2024-10-01 |
 | Odluka o osnivanju Vijeća za djecu | [`odluka/2024/1808/`](odluka/2024/1808/) | in force | 1 | 2024-09-06 | 2024-09-06 |
 | Odluka o stavljanju u službenu uporabu katastarskog operata katastra nekretnina za katastarsku općinu Kihalac Nova | [`odluka/2024/1810/`](odluka/2024/1810/) | in force | 1 | 2024-08-29 | 2024-08-29 |
 | Odluka o iznosu tarifnih stavki za zajamčenu opskrbu plinom za krajnje kupce koji nisu kućanstvo za razdoblje od 1. listopada 2024. do 31. prosinca 2024. | [`odluka/2024/1822/`](odluka/2024/1822/) | in force | 1 | 2024-10-01 | 2024-10-01 |
@@ -8853,18 +9143,26 @@
 | Odluka o izmjenama Odluke o velikim izloženostima kreditnih institucija | [`odluka/2024/1848/`](odluka/2024/1848/) | in force | 1 | 2024-09-21 | 2024-09-21 |
 | Odluka o izmjeni Odluke o dokumentaciji koja se prilaže zahtjevu za izdavanje odobrenja za rad kreditne institucije i zahtjevu za izdavanje odobrenja za pružanje financijskih usluga | [`odluka/2024/1849/`](odluka/2024/1849/) | in force | 1 | 2024-10-31 | 2024-10-31 |
 | Odluka o provedbi mjere »Projekti s trećim zemljama« | [`odluka/2024/1850/`](odluka/2024/1850/) | in force | 1 | 2024-09-17 | 2024-09-17 |
+| Odluka o dopuni Odluke o uspostavljanju državnih linija | [`odluka/2024/1852/`](odluka/2024/1852/) | amending act | 1 | 2024-09-17 | 2024-09-17 |
 | Odluka o izmjenama i dopuni Odluke o osnivanju Savjeta za sprječavanje korupcije | [`odluka/2024/1854/`](odluka/2024/1854/) | amending act | 1 | 2024-09-17 | 2024-09-17 |
 | Odluka o izmjenama Odluke o potrebnim znanjima i stručnosti osoblja kreditnih institucija i kreditnih posrednika te o zahtjevima i postupku za izdavanje odobrenja za pružanje usluga kreditnog posredovanja | [`odluka/2024/1858/`](odluka/2024/1858/) | in force | 1 | 2024-09-26 | 2024-09-26 |
 | Odluka o izmjeni i dopuni Nacionalnih kriterija za izbor na nastavno radno mjesto na veleučilištu | [`odluka/2024/1859/`](odluka/2024/1859/) | amending act | 1 | 2024-10-01 | 2024-10-01 |
 | Odluka o visini poreznih stopa godišnjeg poreza na dohodak na području Općine Privlaka | [`odluka/2024/1860/`](odluka/2024/1860/) | in force | 1 | 2025-01-01 | 2025-01-01 |
 | Odluka o sanaciji Doma za starije osobe Ličko-senjske županije | [`odluka/2024/1877/`](odluka/2024/1877/) | repealed 2026-08-27 | 2 | 2024-10-03 | 2026-08-27 |
+| Odluka o izmjenama i dopunama Odluke o utvrđivanju Osnovne liste ortopedskih i drugih pomagala Hrvatskog zavoda za zdravstveno osiguranje | [`odluka/2024/1892/`](odluka/2024/1892/) | amending act | 1 | 2024-10-12 | 2024-10-12 |
+| Odluka o kriterijima i visini naknade za smanjenje utjecaja porasta cijena energenata na udomitelje | [`odluka/2024/1915/`](odluka/2024/1915/) | replaced, not consolidated | 1 | 2024-10-08 | 2024-10-08 |
 | Odluka Agencije za elektroničke medije, klasa: UP/I-614-03/24-02/03, urbroj: 114-03/04-24-02 od 30. rujna 2024. | [`odluka/2024/1916/`](odluka/2024/1916/) | in force | 1 | 2024-09-30 | 2024-09-30 |
+| Odluka o određivanju visine naknade za vođenje jedinstvenog računovodstva osobnih računa članova obveznih mirovinskih fondova | [`odluka/2024/1919/`](odluka/2024/1919/) | replaced, not consolidated | 1 | 2025-01-01 | 2025-01-01 |
 | Odluka o osnivanju Nacionalnog vijeća za kružno gospodarstvo | [`odluka/2024/1922/`](odluka/2024/1922/) | in force | 1 | 2024-10-10 | 2024-10-10 |
 | Odluka o prodajnim objektima koji obavljaju djelatnost trgovine na malo za određene proizvode na dan blagdana 1. studenoga 2024. - Svi sveti | [`odluka/2024/1927/`](odluka/2024/1927/) | in force | 1 | 2024-10-12 | 2024-10-12 |
 | Odluka o visini poreznih stopa godišnjeg poreza na dohodak na području Općine Kolan | [`odluka/2024/1955/`](odluka/2024/1955/) | in force | 1 | 2025-01-01 | 2025-01-01 |
+| Odluka o izmjenama Odluke o osnovama za sklapanje ugovora o provođenju zdravstvene zaštite iz obveznog zdravstvenog osiguranja | [`odluka/2024/1960/`](odluka/2024/1960/) | amended, not consolidated | 1 | 2024-10-22 | 2024-10-22 |
 | Odluka o raspisivanju prijevremenih izbora za gradonačelnika Grada Otoka | [`odluka/2024/1963/`](odluka/2024/1963/) | in force | 1 | 2024-10-31 | 2024-10-31 |
+| Odluka o izmjeni Odluke o ribarskim plovilima autoriziranima za rad u Jabučkom džepu za razdoblje 2022. - 2026. godine | [`odluka/2024/2044/`](odluka/2024/2044/) | in force | 1 | 2024-10-22 | 2024-10-22 |
 | Odluka o stavljanju u službenu uporabu katastarskog operata katastra nekretnina za katastarsku općinu Čučerje Novo za V. zonu (zone izlaganja 18. i 19.) | [`odluka/2024/2045/`](odluka/2024/2045/) | in force | 1 | 2024-09-18 | 2024-09-18 |
 | Odluka o stavljanju u službenu uporabu katastarskog operata katastra nekretnina za katastarsku općinu Kupinečki Kraljevec Novi | [`odluka/2024/2046/`](odluka/2024/2046/) | in force | 1 | 2024-10-14 | 2024-10-14 |
+| Odluka o izmjenama Odluke o naknadi za razvoj komunalnih vodnih građevina društva Vodoopskrba i odvodnja Zagrebačke županije d.o.o. | [`odluka/2024/2069/`](odluka/2024/2069/) | repealed, not consolidated | 1 | 2024-10-30 | 2024-10-30 |
+| Odluka o izmjeni Odluke o uspostavljanju državnih linija | [`odluka/2024/2074/`](odluka/2024/2074/) | in force | 1 | 2024-10-24 | 2024-10-24 |
 | Izmjene i dopune Državnog proračuna Republike Hrvatske za 2024. godinu i projekcija za 2025. i 2026. godinu | [`odluka/2024/2080/`](odluka/2024/2080/) | amending act | 1 | 2024-10-30 | 2024-10-30 |
 | Odluka o davanju suglasnosti na Izmjene i dopune Financijskog plana Hrvatskih voda za 2024. godinu i projekcija plana za 2025. i 2026. godinu | [`odluka/2024/2081/`](odluka/2024/2081/) | amending act | 1 | 2024-10-30 | 2024-10-30 |
 | Odluka o davanju suglasnosti na Izmjene i dopune Financijskog plana Hrvatskih cesta za 2024. godinu i projekcija plana za 2025. i 2026. godinu | [`odluka/2024/2082/`](odluka/2024/2082/) | amending act | 1 | 2024-10-30 | 2024-10-30 |
@@ -8875,6 +9173,7 @@
 | Odluka o davanju suglasnosti na Izmjene i dopune Financijskog plana Hrvatskih autocesta za 2024. godinu i projekcija plana za 2025. i 2026. godinu | [`odluka/2024/2087/`](odluka/2024/2087/) | amending act | 1 | 2024-10-30 | 2024-10-30 |
 | Odluka o davanju suglasnosti na Izmjene i dopune Financijskog plana HŽ Putničkog prijevoza za 2024. godinu i projekcija plana za 2025. i 2026. godinu | [`odluka/2024/2088/`](odluka/2024/2088/) | amending act | 1 | 2024-10-30 | 2024-10-30 |
 | Odluka o davanju suglasnosti na Izmjene i dopune Financijskog plana HŽ Infrastrukture za 2024. godinu i projekcija plana za 2025. i 2026. godinu | [`odluka/2024/2089/`](odluka/2024/2089/) | amending act | 1 | 2024-10-30 | 2024-10-30 |
+| Odluka o proširenju primjene Kolektivnoga ugovora za djelatnost trgovine | [`odluka/2024/2094/`](odluka/2024/2094/) | in force | 1 | 2024-11-01 | 2024-11-01 |
 | Odluka o donošenju Nacionalnog plana za suzbijanje trgovanja ljudima za razdoblje do 2030. godine i Akcijskog plana za provedbu Nacionalnog plana za suzbijanje trgovanja ljudima za razdoblje do 2030. godine, za razdoblje od 2024. do 2026. godine | [`odluka/2024/2101/`](odluka/2024/2101/) | in force | 1 | 2024-10-31 | 2024-10-31 |
 | Odluka o nastavku potpore projektu od strateškog značaja za Hrvate izvan Republike Hrvatske »Potpora radu Radiotelevizije Herceg-Bosne« | [`odluka/2024/2103/`](odluka/2024/2103/) | in force | 1 | 2024-10-31 | 2024-10-31 |
 | Odluka o prihvaćanju povećanja kvote Republike Hrvatske u Međunarodnom monetarnom fondu | [`odluka/2024/2104/`](odluka/2024/2104/) | in force | 1 | 2024-10-31 | 2024-10-31 |
@@ -8883,6 +9182,7 @@
 | Odluka o izmjeni Odluke o osnivanju Povjerenstva Vlade Republike Hrvatske za osobe s invaliditetom | [`odluka/2024/2107/`](odluka/2024/2107/) | in force | 1 | 2024-10-31 | 2024-10-31 |
 | Odluka o izmjeni Odluke o minimalnim financijskim standardima za decentralizirane funkcije za zdravstvene ustanove u 2024. godini | [`odluka/2024/2130/`](odluka/2024/2130/) | in force | 1 | 2024-11-14 | 2024-11-14 |
 | Odluka o izmjeni Odluke o visini poreznih stopa godišnjeg poreza na dohodak na području grada Rijeke | [`odluka/2024/2138/`](odluka/2024/2138/) | in force | 1 | 2025-01-01 | 2025-01-01 |
+| Odluka o izmjenama i dopunama Odluke o utvrđivanju Osnovne liste ortopedskih i drugih pomagala Hrvatskog zavoda za zdravstveno osiguranje | [`odluka/2024/2149/`](odluka/2024/2149/) | amended, not consolidated | 1 | 2024-11-23 | 2024-11-23 |
 | Odluka o raspisivanju izbora za Predsjednika Republike Hrvatske | [`odluka/2024/2219/`](odluka/2024/2219/) | in force | 1 | 2024-11-28 | 2024-11-28 |
 | Odluka o izmjeni Odluke o kamatnim stopama na novčana sredstva kod Hrvatske narodne banke koja se ne odnose na operacije monetarne politike | [`odluka/2024/2239/`](odluka/2024/2239/) | in force | 1 | 2024-12-01 | 2024-12-01 |
 | Odluka o visini poreznih stopa godišnjeg poreza na dohodak na području Općine Zmijavci | [`odluka/2024/2257/`](odluka/2024/2257/) | in force | 1 | 2025-01-01 | 2025-01-01 |
