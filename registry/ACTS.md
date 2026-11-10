@@ -1,6 +1,6 @@
 # Every act in this repository
 
-31840 acts, 32,266 versions. Each act lives in a folder named by its kind, year and identifier, `<kind>/<year>/<identifier>/` (acts published before that layout keep their own folder, listed in data/paths.json); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+32054 acts, 32,480 versions. Each act lives in a folder named by its kind, year and identifier, `<kind>/<year>/<identifier>/` (acts published before that layout keep their own folder, listed in data/paths.json); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## naputak (197, of which 28 amending acts)
 
@@ -25600,7 +25600,7 @@
 | Uputa o provedbi Odluke o obveznoj pričuvi | [`uputa/2014/2424/`](uputa/2014/2424/) | repealed, not consolidated | 1 | 2014-11-12 | 2014-11-12 |
 | Uputa za provedbu Odluke o obveznoj pričuvi | [`uputa/2015/2618/`](uputa/2015/2618/) | repealed, not consolidated | 1 | 2016-01-13 | 2016-01-13 |
 
-## uredba (3585, of which 745 amending acts)
+## uredba (3612, of which 747 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -26029,6 +26029,14 @@
 | Uredba o određivanju granice pomorskog dobra na dijelu k.o. Savudrija | [`uredba/1999/55/`](uredba/1999/55/) | replaced, not consolidated | 1 | 1999-01-27 | 1999-01-27 |
 | Uredba o određivanju granice pomorskog dobra na dijelu k.o. Tisno | [`uredba/1999/56/`](uredba/1999/56/) | replaced, not consolidated | 1 | 1999-01-27 | 1999-01-27 |
 | Uredba o sniženju carinskih stopa za određenu robu | [`uredba/1999/68/`](uredba/1999/68/) | in force | 1 | 1999-01-20 | 1999-01-20 |
+| Uredba o određivanju granice pomorskog dobra na dijelu k.o. Zadar | [`uredba/1999/69/`](uredba/1999/69/) | replaced, not consolidated | 1 | 1999-01-28 | 1999-01-28 |
+| Uredba o određivanju granice pomorskog dobra na dijelu k.o. Pirovac | [`uredba/1999/70/`](uredba/1999/70/) | replaced, not consolidated | 1 | 1999-01-28 | 1999-01-28 |
+| Uredba o određivanju granice pomorskog dobra na dijelu k.o. Nin | [`uredba/1999/71/`](uredba/1999/71/) | replaced, not consolidated | 1 | 1999-01-28 | 1999-01-28 |
+| Uredba o određivanju granice pomorskog dobra na dijelu k.o. Gruž | [`uredba/1999/72/`](uredba/1999/72/) | amended, not consolidated | 1 | 1999-01-28 | 1999-01-28 |
+| Uredba o određivanju granice pomorskog dobra na dijelu k.o. Cavtat | [`uredba/1999/73/`](uredba/1999/73/) | replaced, not consolidated | 1 | 1999-01-28 | 1999-01-28 |
+| Uredba o određivanju granice pomorskog dobra na dijelu k.o. Gruž | [`uredba/1999/74/`](uredba/1999/74/) | amended, not consolidated | 1 | 1999-01-28 | 1999-01-28 |
+| Uredba o tvarima koje oštećuju ozonski omotač | [`uredba/1999/85/`](uredba/1999/85/) | repealed, not consolidated | 1 | 1999-01-30 | 1999-01-30 |
+| Uredba o dražbama (javnim nadmetanjima) određenih drvnih proizvoda | [`uredba/1999/86/`](uredba/1999/86/) | repealed, not consolidated | 1 | 1999-01-26 | 1999-01-26 |
 | Uredba o zastupniku Vlade Republike Hrvatske pred Europskim sudom za ljudska prava i o njegovu Uredu | [`uredba/1999/259/`](uredba/1999/259/) | amended, not consolidated | 1 | 1999-02-11 | 1999-02-11 |
 | Uredba o podjeli imovine prava i obveza te rasporedu djelatnika Muzeja Hrvatskoga zagorja | [`uredba/1999/260/`](uredba/1999/260/) | in force | 1 | 1999-02-11 | 1999-02-11 |
 | Uredba o podjeli imovine, prava i obveza, te rasporedu djelatnika Muzejsko-galerijskog centra | [`uredba/1999/261/`](uredba/1999/261/) | in force | 1 | 1999-02-11 | 1999-02-11 |
@@ -26047,19 +26055,38 @@
 | Uredba o izmjenama i dopunama Zakona o trgovini | [`uredba/1999/601/`](uredba/1999/601/) | amending act | 1 | 1999-03-29 | 1999-03-29 |
 | Uredba o dopunama Zakona o sanaciji određenih poduzeća | [`uredba/1999/602/`](uredba/1999/602/) | amending act | 1 | 1999-03-29 | 1999-03-29 |
 | Uredba o potraživanjima prema poduzećima i drugim pravnim osobama s područja Republike Hrvatske oslobođenim akcijama "Bljesak" i "Oluja" i područja istočne Hrvatske koja su integrirana u postupku | [`uredba/1999/603/`](uredba/1999/603/) | in force | 1 | 1999-03-29 | 1999-03-29 |
+| Uredba o plaćanju naknada za korištenje radnih dozvola iz kontingenata radnih dozvola za Saveznu Republiku Njemačku | [`uredba/1999/604/`](uredba/1999/604/) | repealed, not consolidated | 1 | 1999-03-29 | 1999-03-29 |
 | Uredba o povlasticama u unutarnjem putničkom prometu | [`uredba/1999/605/`](uredba/1999/605/) | in force | 1 | 1999-03-29 | 1999-03-29 |
 | Uredba o uvjetima odobravanja kredita i zajmova određenih pravnih osoba | [`uredba/1999/606/`](uredba/1999/606/) | in force | 1 | 1999-03-29 | 1999-03-29 |
 | Uredba o izmjenama i dopunama Zakona o boravišnoj pristojbi | [`uredba/1999/607/`](uredba/1999/607/) | amending act | 1 | 1999-03-29 | 1999-03-29 |
 | Uredba o provođenju Rezolucije Vijeća sigurnosti Ujedinjenih naroda u svezi sa sankcijama protiv Socijalističke Narodne Libijske Arapske Džamahirije | [`uredba/1999/608/`](uredba/1999/608/) | in force | 1 | 1999-03-29 | 1999-03-29 |
+| Uredba o izmjenama i dopunama Zakona o sudskom registru | [`uredba/1999/609/`](uredba/1999/609/) | amending act | 1 | 1999-03-29 | 1999-03-29 |
+| Uredba o roku za podnošenje zahtjeva za obnovu te popravak i opremanje obiteljskih kuća i stanova u hrvatskom Podunavlju | [`uredba/1999/610/`](uredba/1999/610/) | amended, not consolidated | 1 | 1999-03-29 | 1999-03-29 |
 | Uredba o gospodarenju šumama oslobođenim akcijama "Bljesak" i "Oluja" i šumama "Područja hrvatskog Podunavlja ranije pod upravo | [`uredba/1999/611/`](uredba/1999/611/) | in force | 1 | 1999-03-29 | 1999-03-29 |
+| Uredba o unutarnjem ustrojstvu Ministarstva kulture | [`uredba/1999/619/`](uredba/1999/619/) | repealed, not consolidated | 1 | 1999-04-08 | 1999-04-08 |
 | Uredba o izmjeni Zakona o izmjenama i dopunama Zakona o prostornom uređenju | [`uredba/1999/737/`](uredba/1999/737/) | amending act | 1 | 1999-04-12 | 1999-04-12 |
+| Uredba o osnivanju Prosvjetno-kulturnog centra Mađara u Republici Hrvatskoj | [`uredba/1999/738/`](uredba/1999/738/) | amended, not consolidated | 1 | 1999-04-20 | 1999-04-20 |
+| Uredba o izmjeni Zakona o otrovima | [`uredba/1999/751/`](uredba/1999/751/) | in force | 1 | 1999-04-16 | 1999-04-16 |
+| Uredba o izmjenama Uredbe o unutarnjem ustrojstvu Ministarstva hrvatskih branitelja iz Domovinskog rata | [`uredba/1999/752/`](uredba/1999/752/) | in force | 1 | 1999-04-24 | 1999-04-24 |
+| Uredba o određivanju granice pomorskog dobra na dijelu k.o. Štinjan | [`uredba/1999/753/`](uredba/1999/753/) | replaced, not consolidated | 1 | 1999-04-24 | 1999-04-24 |
 | Uredba o određivanju granice pomorskog doba na dijelu k.o. Banjol | [`uredba/1999/754/`](uredba/1999/754/) | in force | 1 | 1999-04-24 | 1999-04-24 |
+| Uredba o izmjenama Uredbe o osnivanju Hrvatske agencije za promicanje ulaganja | [`uredba/1999/785/`](uredba/1999/785/) | in force | 1 | 1999-04-23 | 1999-04-23 |
+| Uredba o izmjeni Uredbe o roku za podnošenje zahtjeva za obnovu te popravak i opremanje obiteljskih kuća i stanova u hrvatskom Podunavlju | [`uredba/1999/833/`](uredba/1999/833/) | in force | 1 | 1999-05-03 | 1999-05-03 |
 | Uredba o izmjenama i dopuni Uredbe o osnivanju Hrvatske agencije za promicanje ulaganja | [`uredba/1999/834/`](uredba/1999/834/) | amending act | 1 | 1999-05-03 | 1999-05-03 |
+| Uredba o izmjeni Zakona o ugostiteljskoj djelatnosti | [`uredba/1999/875/`](uredba/1999/875/) | in force | 1 | 1999-05-11 | 1999-05-11 |
+| Uredba o izravnim mjerama kontrole cijena za određene komunalne usluge | [`uredba/1999/876/`](uredba/1999/876/) | cited later, not consolidated | 1 | 1999-05-19 | 1999-05-19 |
+| Uredba o određivanju granice pomorskog dobra na dijelu k.o. Krk | [`uredba/1999/877/`](uredba/1999/877/) | replaced, not consolidated | 1 | 1999-05-19 | 1999-05-19 |
 | Uredba o određivanju granice pomorskog dobra na dijelu k.o. Krk Grad | [`uredba/1999/878/`](uredba/1999/878/) | in force | 1 | 1999-05-19 | 1999-05-19 |
 | Uredba o zajamčenoj cijeni pšenice roda 1999. godine | [`uredba/1999/910/`](uredba/1999/910/) | in force | 1 | 1999-05-25 | 1999-05-25 |
 | Uredba o zajamčenoj cijeni lista duhana roda 1999. godine | [`uredba/1999/911/`](uredba/1999/911/) | in force | 1 | 1999-05-25 | 1999-05-25 |
 | Uredba o zajamčenoj cijeni soje roda 1999. godine | [`uredba/1999/912/`](uredba/1999/912/) | in force | 1 | 1999-05-25 | 1999-05-25 |
 | Uredba o zajamčenoj cijeni šećerne repe roda 1999. godine | [`uredba/1999/913/`](uredba/1999/913/) | in force | 1 | 1999-05-25 | 1999-05-25 |
+| Uredba o zajamčenoj cijeni suncokreta roda 1999. godine | [`uredba/1999/914/`](uredba/1999/914/) | amended, not consolidated | 1 | 1999-05-25 | 1999-05-25 |
+| Uredba o određivanju granice pomorskog dobra na dijelu k.o. Kolan i k.o. Pag | [`uredba/1999/927/`](uredba/1999/927/) | cited later, not consolidated | 1 | 1999-05-26 | 1999-05-26 |
+| Uredba o dopuni Zakona o izmjenama i dopunama Zakona o osiguranju | [`uredba/1999/945/`](uredba/1999/945/) | amending act | 1 | 1999-05-21 | 1999-05-21 |
+| Uredba o medicinskom vještačenju u mirovinskom osiguranju | [`uredba/1999/970/`](uredba/1999/970/) | repealed, not consolidated | 1 | 1999-06-03 | 1999-06-03 |
+| Uredba o određivanju granice pomorskog dobra na dijelu k.o. Kampor | [`uredba/1999/971/`](uredba/1999/971/) | replaced, not consolidated | 1 | 1999-06-03 | 1999-06-03 |
+| Uredba o određivanju granice pomorskog dobra na dijelu k.o. Banjol | [`uredba/1999/972/`](uredba/1999/972/) | replaced, not consolidated | 1 | 1999-06-03 | 1999-06-03 |
 | Uredba o prestanku rada Ureda za ekonomiku i restrukturiranje javnih poduzeća | [`uredba/1999/1000/`](uredba/1999/1000/) | in force | 1 | 1999-05-31 | 1999-05-31 |
 | Uredba o prestanku rada Ureda za prognanike i izbjeglice | [`uredba/1999/1001/`](uredba/1999/1001/) | amended, not consolidated | 1 | 1999-05-31 | 1999-05-31 |
 | Uredba o stavljanju izvan snage Uredbe o Uredu za državnu imovinu | [`uredba/1999/1002/`](uredba/1999/1002/) | in force | 1 | 1999-05-31 | 1999-05-31 |
@@ -29190,7 +29217,7 @@
 | Uredba o izmjeni Uredbe o visini trošarine na energente i električnu energiju | [`uredba/2026/1458/`](uredba/2026/1458/) | in force | 1 | 2026-10-27 | 2026-10-27 |
 | Uredba o izmjeni Uredbe o visini trošarine na energente i električnu energiju | [`uredba/2026/1488/`](uredba/2026/1488/) | in force | 1 | 2026-11-03 | 2026-11-03 |
 
-## zakon (2687, of which 1507 amending acts)
+## zakon (2874, of which 1563 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -29416,61 +29443,248 @@
 | Zakon o izmjenama i dopuni Pomorskog zakona | [`zakon/1994/1290/`](zakon/1994/1290/) | amending act | 1 | 1994-10-26 | 1994-10-26 |
 | Zakon o izmjenama i dopunama Zakona o stopama doprinosa za zdravstveno osiguranje | [`zakon/1994/1640/`](zakon/1994/1640/) | amending act | 1 | 1995-01-04 | 1995-01-04 |
 | Zakon o izmjeni i dopuni Zakona o zapošljavanju | [`zakon/1994/1645/`](zakon/1994/1645/) | amending act | 1 | 1995-01-04 | 1995-01-04 |
+| Zakon o izmjenama i dopunama Zakona o prekršajima | [`zakon/1995/652/`](zakon/1995/652/) | amended, not consolidated | 1 | 1995-05-27 | 1995-05-27 |
+| Zakon o komunalnom gospodarstvu | [`zakon/1995/721/`](zakon/1995/721/) | repealed, not consolidated | 1 | 1995-06-09 | 1995-06-09 |
+| Zakon o zadrugama | [`zakon/1995/723/`](zakon/1995/723/) | repealed, not consolidated | 1 | 1995-06-09 | 1995-06-09 |
+| Zakon o izmjenama i dopunama Zakona o pravima hrvatskih branitelja iz Domovinskog rata | [`zakon/1995/725/`](zakon/1995/725/) | amended, not consolidated | 1 | 1995-06-01 | 1995-06-01 |
 | Odluka o donošenju Zakona o radu | [`zakon/1995/758/`](zakon/1995/758/) | in force | 1 | 1995-06-16 | 1995-06-16 |
 | Zakon o izmjeni Zakona o oprostu od krivičnog progona i postupka za krivična djela počinjena u oružanim sukobima i u ratu protiv Republike Hrvatske | [`zakon/1995/759/`](zakon/1995/759/) | in force | 1 | 1995-06-09 | 1995-06-09 |
+| Zakon o izmjenama i dopunama Zakona o statusu prognanika i izbjeglica | [`zakon/1995/760/`](zakon/1995/760/) | amending act | 1 | 1995-06-09 | 1995-06-09 |
+| Zakon o ugostiteljskoj djelatnosti | [`zakon/1995/989/`](zakon/1995/989/) | amended, not consolidated | 1 | 1995-07-22 | 1995-07-22 |
+| Zakon o izmjenama Zakona o igrama na sreću i zabavnim igrama | [`zakon/1995/1076/`](zakon/1995/1076/) | in force | 1 | 1995-08-15 | 1995-08-15 |
+| Zakon o izmjenama i dopunama Zakona o gradu Zagrebu | [`zakon/1995/1201/`](zakon/1995/1201/) | amending act | 1 | 1995-09-29 | 1995-09-29 |
+| Zakon o državnom odvjetništvu | [`zakon/1995/1273/`](zakon/1995/1273/) | repealed, not consolidated | 1 | 1995-10-07 | 1995-10-07 |
+| Zakon o područjima i sjedištima državnih odvjetništava | [`zakon/1995/1274/`](zakon/1995/1274/) | repealed, not consolidated | 1 | 1995-10-07 | 1995-10-07 |
+| Zakon o plaćama sudaca i drugih pravosudnih dužnosnika | [`zakon/1995/1276/`](zakon/1995/1276/) | amended, not consolidated | 1 | 1995-10-07 | 1995-10-07 |
+| Zakon o plaćanju doprinosa za mirovinsko i invalidsko osiguranje radnika | [`zakon/1995/1747/`](zakon/1995/1747/) | amended, not consolidated | 1 | 1995-12-30 | 1995-12-30 |
+| Zakon o investicijskim fondovima | [`zakon/1995/1767/`](zakon/1995/1767/) | repealed, not consolidated | 1 | 1996-01-04 | 1996-01-04 |
+| Zakon o izdavanju i prometu vrijednosnim papirima | [`zakon/1995/1768/`](zakon/1995/1768/) | repealed, not consolidated | 1 | 1996-01-04 | 1996-01-04 |
+| Zakon o financiranju vodnog gospodarstva | [`zakon/1995/1770/`](zakon/1995/1770/) | amended, not consolidated | 1 | 1996-01-04 | 1996-01-04 |
+| Zakon o morskim lukama | [`zakon/1995/1777/`](zakon/1995/1777/) | amended, not consolidated | 1 | 1996-01-05 | 1996-01-05 |
+| Zakon o izmjenama i dopunama Zakona o Hrvatskoj Kreditnoj Banci za obnovu | [`zakon/1995/1780/`](zakon/1995/1780/) | amended, not consolidated | 1 | 1995-12-28 | 1995-12-28 |
+| Zakon o izmjenama i dopunama Zakona o oružju | [`zakon/1995/1781/`](zakon/1995/1781/) | amending act | 1 | 1996-01-05 | 1996-01-05 |
+| Zakon o izmjenama osnovnog Krivičnog zakona Republike Hrvatske | [`zakon/1995/1782/`](zakon/1995/1782/) | amended, not consolidated | 1 | 1996-01-05 | 1996-01-05 |
 | Zakon o izmjenama i dopunama Zakona o utvrđivanju katastarskog prihoda | [`zakon/1995/1783/`](zakon/1995/1783/) | amending act | 1 | 1996-01-05 | 1996-01-05 |
 | Zakon o izmjeni Zakona o novčanim poticajima i naknadama u poljoprivredi i ribarstvu | [`zakon/1995/1784/`](zakon/1995/1784/) | in force | 1 | 1996-01-05 | 1996-01-05 |
+| Zakon o izmjeni Zakona o zaštiti vojnih i civilnih invalida rata | [`zakon/1995/1785/`](zakon/1995/1785/) | amended, not consolidated | 1 | 1996-01-05 | 1996-01-05 |
+| Zakon o izvršavanju Državnog proračuna Republike Hrvatske za 1996. godinu | [`zakon/1996/132/`](zakon/1996/132/) | cited later, not consolidated | 1 | 1996-02-01 | 1996-02-01 |
+| Zakon o trgovini | [`zakon/1996/154/`](zakon/1996/154/) | repealed, not consolidated | 1 | 1996-02-17 | 1996-02-17 |
 | Zakon o prestanku važenja Zakona o popisu pučanstva u 1996. godini | [`zakon/1996/241/`](zakon/1996/241/) | in force | 1 | 1996-03-07 | 1996-03-07 |
 | Zakon o izmjenama i dopunama Zakona o porezu na promet proizvoda i usluga | [`zakon/1996/333/`](zakon/1996/333/) | amending act | 1 | 1996-03-16 | 1996-03-16 |
+| Zakon o privatizaciji | [`zakon/1996/392/`](zakon/1996/392/) | repealed, not consolidated | 1 | 1996-03-22 | 1996-03-22 |
 | Zakon o izmjenama i dopunama Zakona o Hrvatskoj radio-televiziji | [`zakon/1996/431/`](zakon/1996/431/) | amending act | 1 | 1996-03-26 | 1996-03-26 |
+| Zakon o izmjenama i dopunama Krivičnog zakona Republike Hrvatske | [`zakon/1996/545/`](zakon/1996/545/) | amended, not consolidated | 1 | 1996-04-20 | 1996-04-20 |
 | Zakon o izmjenama i dopunama Zakona o znanstvenoistraživačkoj djelatnosti | [`zakon/1996/574/`](zakon/1996/574/) | amending act | 1 | 1996-04-25 | 1996-04-25 |
+| Zakon o izmjenama i dopunama Zakona o visokim učilištima | [`zakon/1996/575/`](zakon/1996/575/) | amending act | 1 | 1996-04-25 | 1996-04-25 |
 | Zakon o izmjeni Zakona o računanju vremena | [`zakon/1996/675/`](zakon/1996/675/) | in force | 1 | 1996-05-08 | 1996-05-08 |
+| Zakon o izmjenama i dopunama Zakona o sigurnosti prometa na cestama | [`zakon/1996/840/`](zakon/1996/840/) | amended, not consolidated | 1 | 1996-06-08 | 1996-06-08 |
+| Zakon o izmjenama i dopunama Pomorskog zakonika | [`zakon/1996/841/`](zakon/1996/841/) | amending act | 1 | 1996-06-08 | 1996-06-08 |
+| Zakon o izmjenama i dopunama Zakona o Hrvatskoj akademiji znanosti i umjetnosti | [`zakon/1996/842/`](zakon/1996/842/) | amending act | 1 | 1996-06-08 | 1996-06-08 |
+| Zakon o slobodnim zonama | [`zakon/1996/853/`](zakon/1996/853/) | repealed, not consolidated | 1 | 1996-06-13 | 1996-06-13 |
+| Zakon o područjima posebne državne skrbi | [`zakon/1996/854/`](zakon/1996/854/) | amended, not consolidated | 1 | 1996-06-13 | 1996-06-13 |
 | Zakon o dopunama Zakona o cestama | [`zakon/1996/919/`](zakon/1996/919/) | amending act | 1 | 1996-06-26 | 1996-06-26 |
+| Zakon o izmjenama Zakona o obnovi | [`zakon/1996/1002/`](zakon/1996/1002/) | in force | 1 | 1996-07-16 | 1996-07-16 |
 | Zakon o izmjenama Zakona o visokim učilištima | [`zakon/1996/1003/`](zakon/1996/1003/) | in force | 1 | 1996-07-08 | 1996-07-08 |
+| Zakon o izmjenama Zakona o sigurnosti prometa na cestama | [`zakon/1996/1004/`](zakon/1996/1004/) | in force | 1 | 1996-07-08 | 1996-07-08 |
+| Zakon o normizaciji | [`zakon/1996/1068/`](zakon/1996/1068/) | replaced, not consolidated | 1 | 1996-07-18 | 1996-07-18 |
+| Zakon o izmjenama i dopunama Zakona o zdravstvenoj zaštiti | [`zakon/1996/1071/`](zakon/1996/1071/) | amended, not consolidated | 1 | 1996-07-18 | 1996-07-18 |
+| Zakon o izmjenama i dopunama Zakona o zdravstvenom osiguranju | [`zakon/1996/1072/`](zakon/1996/1072/) | amended, not consolidated | 1 | 1996-07-18 | 1996-07-18 |
 | Zakon o izmjenama i dopunama Zakona o zdravstvenoj ispravnosti i zdravstvenom nadzoru nad namirnicama i predmetima opće uporabe | [`zakon/1996/1073/`](zakon/1996/1073/) | amending act | 1 | 1996-07-18 | 1996-07-18 |
+| Zakon o studentskom zboru | [`zakon/1996/1159/`](zakon/1996/1159/) | replaced, not consolidated | 1 | 1996-07-20 | 1996-07-20 |
+| Zakon o izmjenama i dopunama Zakona o morskom ribarstvu | [`zakon/1996/1162/`](zakon/1996/1162/) | amending act | 1 | 1996-07-20 | 1996-07-20 |
+| Zakon o izmjenama i dopunama Zakona o sudskom registru | [`zakon/1996/1163/`](zakon/1996/1163/) | amending act | 1 | 1996-07-20 | 1996-07-20 |
+| Zakon o izmjenama i dopunama Zakona o sudskim pristojbama | [`zakon/1996/1164/`](zakon/1996/1164/) | amending act | 1 | 1996-07-20 | 1996-07-20 |
+| Zakon o zaštiti na radu | [`zakon/1996/1183/`](zakon/1996/1183/) | repealed, not consolidated | 1 | 1996-07-25 | 1996-07-25 |
+| Zakon o izmjeni Zakona o carinskoj tarifi | [`zakon/1996/1392/`](zakon/1996/1392/) | in force | 1 | 1996-10-05 | 1996-10-05 |
+| Zakon o ugovorima o prijevozu u željezničkom prometu | [`zakon/1996/1516/`](zakon/1996/1516/) | repealed, not consolidated | 1 | 1996-10-24 | 1996-10-24 |
 | Zakon o preuzimanju dijela duga po novom financijskom sporazumu iz 1988. godine te o izdavanju obveznica Republike Hrvatske radi zamjene toga duga | [`zakon/1996/1517/`](zakon/1996/1517/) | in force | 1 | 1996-10-24 | 1996-10-24 |
 | Zakon o izmjenama i dopunama Zakona o Hrvatskom fondu za privatizaciju | [`zakon/1996/1519/`](zakon/1996/1519/) | amending act | 1 | 1996-10-24 | 1996-10-24 |
+| Zakon o izmjenama i dopunama Zakona o vatrogastvu | [`zakon/1996/1520/`](zakon/1996/1520/) | amending act | 1 | 1996-10-24 | 1996-10-24 |
 | Zakon o izmjenama i dopunama Zakona o javnobilježničkim pristojbama | [`zakon/1996/1521/`](zakon/1996/1521/) | amending act | 1 | 1996-10-24 | 1996-10-24 |
 | Zakon o dopuni Zakona o obnovi | [`zakon/1996/1522/`](zakon/1996/1522/) | amending act | 1 | 1996-10-24 | 1996-10-24 |
+| Zakon o ovlasti Vlade Republike Hrvatske da uredbama uređuje pojedina pitanja iz djelokruga Zastupničkog doma Sabora Republike Hrvatske | [`zakon/1996/1583/`](zakon/1996/1583/) | replaced, not consolidated | 1 | 1996-10-25 | 1996-10-25 |
+| Zakon o izmjenama i dopunama Zakona o bankama i štedionicama | [`zakon/1996/1586/`](zakon/1996/1586/) | amended, not consolidated | 1 | 1996-11-02 | 1996-11-02 |
+| Zakon o izmjenama i dopunama Zakona o ustrojstvu i djelokrugu ministarstava i državnih upravnih organizacija | [`zakon/1996/1601/`](zakon/1996/1601/) | amended, not consolidated | 1 | 1996-11-07 | 1996-11-07 |
+| Zakon o javnim cestama | [`zakon/1996/1962/`](zakon/1996/1962/) | repealed, not consolidated | 1 | 1996-12-06 | 1996-12-06 |
+| Zakon o izmjenama i dopunama Zakona o sudovima | [`zakon/1996/1965/`](zakon/1996/1965/) | amending act | 1 | 1996-12-06 | 1996-12-06 |
+| Zakon o doplatnim markama u poštanskom prometu | [`zakon/1996/2027/`](zakon/1996/2027/) | cited later, not consolidated | 1 | 1997-03-01 | 1997-03-01 |
+| Zakon o izmjenama i dopunama Zakona o porezu na dohodak | [`zakon/1996/2029/`](zakon/1996/2029/) | amending act | 1 | 1996-12-25 | 1996-12-25 |
+| Zakon o izmjenama i dopunama Zakona o porezu na dobit | [`zakon/1996/2030/`](zakon/1996/2030/) | amended, not consolidated | 1 | 1996-12-25 | 1996-12-25 |
+| Zakon o pravima hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji | [`zakon/1996/2090/`](zakon/1996/2090/) | amended, not consolidated | 1 | 1997-01-01 | 1997-01-01 |
 | Zakon o izmjenama i dopunama Zakona o izborima zastupnika u Sabor Republike Hrvatske | [`zakon/1996/2092/`](zakon/1996/2092/) | amending act | 1 | 1996-12-31 | 1996-12-31 |
 | Zakon o dopuni Zakona o plaćanju doprinosa za mirovinsko i invalidsko osiguranje radnika | [`zakon/1996/2093/`](zakon/1996/2093/) | amending act | 1 | 1996-12-31 | 1996-12-31 |
 | Zakon o dopuni Zakona o plaćanju doprinosa za mirovinsko i invalidsko osiguranje samostalnih privrednika | [`zakon/1996/2094/`](zakon/1996/2094/) | amending act | 1 | 1996-12-31 | 1996-12-31 |
 | Zakon o izmjeni i dopuni Zakona o plaćanju doplatne marke Izgradnja Spomen-doma dr. Ante Starčević(r) u unutrašnjem poštanskom prometu | [`zakon/1996/2095/`](zakon/1996/2095/) | amending act | 1 | 1996-12-31 | 1996-12-31 |
+| Zakon o izmjenama i dopunama Zakona o novčanim poticajima i naknadama u poljoprivredi i ribarstvu | [`zakon/1996/2096/`](zakon/1996/2096/) | amending act | 1 | 1996-12-31 | 1996-12-31 |
+| Zakon o izvršavanju Državnog proračuna Republike Hrvatske za 1997. godinu | [`zakon/1996/2167/`](zakon/1996/2167/) | amended, not consolidated | 1 | 1997-01-01 | 1997-01-01 |
 | Zakon o izmjeni Zakona o političkim strankama | [`zakon/1996/2169/`](zakon/1996/2169/) | in force | 1 | 1997-01-08 | 1997-01-08 |
+| Zakon o područjima županija, gradova i općina u Republici Hrvatskoj | [`zakon/1997/151/`](zakon/1997/151/) | repealed, not consolidated | 1 | 1997-02-07 | 1997-02-07 |
+| Zakon o izmjenama i dopunama Zakona o kazalištima | [`zakon/1997/197/`](zakon/1997/197/) | amending act | 1 | 1997-02-14 | 1997-02-14 |
 | Zakon o izmjeni Zakona o Nacionalnom parku "Kornati | [`zakon/1997/199/`](zakon/1997/199/) | in force | 1 | 1997-02-14 | 1997-02-14 |
 | Zakon o izmjenama Zakona o proglašenju šume Risnjak nacionalnim parkom | [`zakon/1997/201/`](zakon/1997/201/) | in force | 1 | 1997-02-14 | 1997-02-14 |
 | Zakon o izmjenama Zakona o proglašenju Plitvičkih jezera nacionalnim parkom | [`zakon/1997/202/`](zakon/1997/202/) | in force | 1 | 1997-02-14 | 1997-02-14 |
+| Zakon o izmjenama i dopunama Zakona o Gradu Zagrebu | [`zakon/1997/210/`](zakon/1997/210/) | amending act | 1 | 1997-02-07 | 1997-02-07 |
 | Zakon o stavljanju izvan snage Zakona o Zagrebačkoj županiji | [`zakon/1997/211/`](zakon/1997/211/) | in force | 1 | 1997-02-15 | 1997-02-15 |
+| Zakon o izmjenama Zakona o proglašenju šume Paklenica nacionalnim parkom | [`zakon/1997/214/`](zakon/1997/214/) | in force | 1 | 1997-02-19 | 1997-02-19 |
 | Zakon o dopunama Zakona o novčanim poticajima i naknadama u poljoprivredi i ribarstvu | [`zakon/1997/279/`](zakon/1997/279/) | amending act | 1 | 1997-02-27 | 1997-02-27 |
+| Zakon o izmjenama i dopunama Zakona o osiguranju | [`zakon/1997/280/`](zakon/1997/280/) | amending act | 1 | 1997-02-27 | 1997-02-27 |
+| Zakon o izmjenama i dopunama Zakona o ugostiteljskoj djelatnosti | [`zakon/1997/281/`](zakon/1997/281/) | amended, not consolidated | 1 | 1997-02-27 | 1997-02-27 |
+| Zakon o izmjenama i dopunama Zakona o oružju | [`zakon/1997/282/`](zakon/1997/282/) | amending act | 1 | 1997-02-19 | 1997-02-19 |
+| Zakon o izmjenama i dopunama Zakona o posebnom porezu na naftne derivate | [`zakon/1997/821/`](zakon/1997/821/) | amending act | 1 | 1997-06-04 | 1997-06-04 |
+| Zakon o porezu na promet nekretnina | [`zakon/1997/1190/`](zakon/1997/1190/) | repealed, not consolidated | 1 | 1997-07-12 | 1997-07-12 |
+| Zakon o fondu za naknadu oduzete imovine | [`zakon/1997/1191/`](zakon/1997/1191/) | repealed, not consolidated | 1 | 1997-07-12 | 1997-07-12 |
+| Zakon o udrugama | [`zakon/1997/1209/`](zakon/1997/1209/) | amended, not consolidated | 1 | 1997-07-15 | 1997-07-15 |
+| Zakon o veterinarstvu | [`zakon/1997/1211/`](zakon/1997/1211/) | repealed, not consolidated | 1 | 1997-07-15 | 1997-07-15 |
+| Zakon o izmjenama i dopunama Zakona o komunalnom gospodarstvu | [`zakon/1997/1213/`](zakon/1997/1213/) | amending act | 1 | 1997-07-15 | 1997-07-15 |
 | Zakon o izmjeni Zakona o privatizaciji | [`zakon/1997/1222/`](zakon/1997/1222/) | in force | 1 | 1997-07-09 | 1997-07-09 |
+| Zakon o socijalnoj skrbi | [`zakon/1997/1255/`](zakon/1997/1255/) | amended, not consolidated | 1 | 1997-07-22 | 1997-07-22 |
+| Zakon o iznimnim mjerama kontrole cijena | [`zakon/1997/1258/`](zakon/1997/1258/) | repealed, not consolidated | 1 | 1997-07-22 | 1997-07-22 |
+| Zakon o zaštiti od elementarnih nepogoda | [`zakon/1997/1259/`](zakon/1997/1259/) | repealed, not consolidated | 1 | 1997-07-22 | 1997-07-22 |
 | Zakon o izmjenama i dopunama Zakona o prosvjetnoj inspekciji | [`zakon/1997/1260/`](zakon/1997/1260/) | amending act | 1 | 1997-07-22 | 1997-07-22 |
+| Zakon o izmjenama i dopunama Zakona o područjima i sjedištima sudova | [`zakon/1997/1608/`](zakon/1997/1608/) | amending act | 1 | 1997-10-16 | 1997-10-16 |
 | Zakon o izmjenama i dopunama Zakona o Hrvatskim državnim nagradama za znanost | [`zakon/1997/1609/`](zakon/1997/1609/) | amending act | 1 | 1997-10-16 | 1997-10-16 |
+| Zakon o knjižnicama | [`zakon/1997/1616/`](zakon/1997/1616/) | repealed, not consolidated | 1 | 1997-10-17 | 1997-10-17 |
+| Zakon o arhivskom gradivu i arhivima | [`zakon/1997/1617/`](zakon/1997/1617/) | repealed, not consolidated | 1 | 1997-10-17 | 1997-10-17 |
+| Zakon o Fondu za dugoročno financiranje stanogradnje uz potporu države | [`zakon/1997/1661/`](zakon/1997/1661/) | repealed, not consolidated | 1 | 1998-01-01 | 1998-01-01 |
+| Zakon o izmjenama i dopunama Zakona o porodnom dopustu majki koje obavljaju samostalnu djelatnost i nezaposlenih majki | [`zakon/1997/1662/`](zakon/1997/1662/) | amending act | 1 | 1997-10-20 | 1997-10-20 |
+| Zakon o izmjenama i dopunama Zakona o zdravstvenom osiguranju | [`zakon/1997/1663/`](zakon/1997/1663/) | amended, not consolidated | 1 | 1997-10-20 | 1997-10-20 |
+| Zakon o izmjeni i dopuni Zakona o izvršavanju državnog proračuna Republike Hrvatske za 1997. godinu | [`zakon/1997/1664/`](zakon/1997/1664/) | amending act | 1 | 1997-10-20 | 1997-10-20 |
+| Zakon o kaznenom postupku | [`zakon/1997/1669/`](zakon/1997/1669/) | amended, not consolidated | 1 | 1998-01-01 | 1998-01-01 |
+| Zakon o sudovima za mladež | [`zakon/1997/1671/`](zakon/1997/1671/) | repealed, not consolidated | 1 | 1998-01-01 | 1998-01-01 |
+| Zakon o zaštiti osoba s duševnim smetnjama | [`zakon/1997/1672/`](zakon/1997/1672/) | amended, not consolidated | 1 | 1998-01-01 | 1998-01-01 |
+| Zakon o zdravstvenoj zaštiti stranaca u Republici Hrvatskoj | [`zakon/1997/1712/`](zakon/1997/1712/) | repealed, not consolidated | 1 | 1997-11-06 | 1997-11-06 |
+| Zakon o lijekovima i medicinskim proizvodima | [`zakon/1997/1807/`](zakon/1997/1807/) | repealed, not consolidated | 1 | 1997-11-28 | 1997-11-28 |
+| Zakon o lučkim kapetanijama | [`zakon/1997/1808/`](zakon/1997/1808/) | repealed, not consolidated | 1 | 1997-11-28 | 1997-11-28 |
+| Zakon o izmjenama i dopunama Zakona o zakupu poslovnog prostora | [`zakon/1997/1809/`](zakon/1997/1809/) | amending act | 1 | 1997-11-28 | 1997-11-28 |
+| Zakon o izmjenama i dopunama Zakona o područjima posebne državne skrbi | [`zakon/1997/1810/`](zakon/1997/1810/) | amended, not consolidated | 1 | 1997-11-28 | 1997-11-28 |
+| Zakon o izmjenama i dopunama Zakona o područjima županija, gradova i općina u Republici Hrvatskoj | [`zakon/1997/1811/`](zakon/1997/1811/) | amended, not consolidated | 1 | 1997-11-28 | 1997-11-28 |
+| Zakon o sjemenu, sadnom materijalu i priznavanju sorti poljoprivrednog bilja | [`zakon/1997/1887/`](zakon/1997/1887/) | amended, not consolidated | 1 | 1997-12-13 | 1997-12-13 |
+| Zakon o izmjenama i dopunama Zakona o ustrojstvu i djelokrugu ministarstava i državnih upravnih organizacija | [`zakon/1997/1890/`](zakon/1997/1890/) | amended, not consolidated | 1 | 1997-12-13 | 1997-12-13 |
 | Zakon o dopuni Zakona o sudovima | [`zakon/1997/1891/`](zakon/1997/1891/) | amending act | 1 | 1997-12-05 | 1997-12-05 |
+| Zakon o posebnim porezima na osobne automobile, ostala motorna vozila, plovila i zrakoplove | [`zakon/1997/1976/`](zakon/1997/1976/) | repealed, not consolidated | 1 | 1997-12-31 | 1997-12-31 |
+| Zakon o posebnom porezu na kavu | [`zakon/1997/1977/`](zakon/1997/1977/) | amended, not consolidated | 1 | 1997-12-31 | 1997-12-31 |
+| Zakon o izmjenama i dopunama Zakona o posebnom porezu na pivo | [`zakon/1997/1979/`](zakon/1997/1979/) | amending act | 1 | 1997-12-31 | 1997-12-31 |
+| Zakon o izvršavanju Državnog proračuna Republike Hrvatske za 1998. godinu | [`zakon/1997/2019/`](zakon/1997/2019/) | amended, not consolidated | 1 | 1997-12-30 | 1997-12-30 |
+| Zakon o izmjeni i dopuni Zakona o novčanim poticajima i naknadama u poljoprivredi i ribarstvu | [`zakon/1997/2021/`](zakon/1997/2021/) | amending act | 1 | 1998-01-08 | 1998-01-08 |
+| Zakon o izmjenama Zakona o zdravstvenom osiguranju | [`zakon/1998/200/`](zakon/1998/200/) | amended, not consolidated | 1 | 1998-01-31 | 1998-01-31 |
 | Zakona o izmjenama Zakona o stopama doprinosa za zdravstveno osiguranje | [`zakon/1998/201/`](zakon/1998/201/) | in force | 1 | 1998-01-31 | 1998-01-31 |
+| Zakon o prijevozu u cestovnom prometu | [`zakon/1998/447/`](zakon/1998/447/) | repealed, not consolidated | 1 | 1998-03-25 | 1998-03-25 |
+| Zakon o igrama na sreću | [`zakon/1998/448/`](zakon/1998/448/) | replaced, not consolidated | 1 | 1998-03-25 | 1998-03-25 |
+| Zakon o područjima i sjedištima prekršajnih sudova | [`zakon/1998/449/`](zakon/1998/449/) | repealed, not consolidated | 1 | 1998-03-25 | 1998-03-25 |
+| Zakon o izmjenama i dopunama Zakona o državnom odvjetništvu | [`zakon/1998/450/`](zakon/1998/450/) | amended, not consolidated | 1 | 1998-03-25 | 1998-03-25 |
 | Zakon o izmjenama i dopunama Zakona o područjima i sjedištima državnih odvjetništava | [`zakon/1998/451/`](zakon/1998/451/) | amending act | 1 | 1998-03-25 | 1998-03-25 |
+| Zakon o izmjenama i dopunama Zakona o osnovama deviznog sustava, deviznog poslovanja i prometu zlata | [`zakon/1998/452/`](zakon/1998/452/) | amending act | 1 | 1998-03-17 | 1998-03-17 |
 | Zakon o izmjeni i dopuni Zakona o stočarstvu | [`zakon/1998/453/`](zakon/1998/453/) | amending act | 1 | 1998-03-25 | 1998-03-25 |
 | Zakon o izmjeni Zakona o Gradu Zagrebu | [`zakon/1998/454/`](zakon/1998/454/) | in force | 1 | 1998-03-25 | 1998-03-25 |
+| Zakon o Hrvatskoj komori arhitekata i inženjera u graditeljstvu | [`zakon/1998/568/`](zakon/1998/568/) | repealed, not consolidated | 1 | 1998-04-11 | 1998-04-11 |
+| Zakon o štedno-kreditnim zadrugama | [`zakon/1998/569/`](zakon/1998/569/) | repealed, not consolidated | 1 | 1998-04-11 | 1998-04-11 |
+| Zakon o izmjenama i dopunama Zakona o novčanim poticajima i naknadama u poljoprivredi i ribarstvu | [`zakon/1998/570/`](zakon/1998/570/) | amending act | 1 | 1998-04-11 | 1998-04-11 |
+| Zakon o izmjenama i dopunama Zakona o područjima županija, gradova i općina u Republici Hrvatskoj | [`zakon/1998/815/`](zakon/1998/815/) | amended, not consolidated | 1 | 1998-05-20 | 1998-05-20 |
+| Zakon o izmjenama i dopunama Zakona o prostornom uređenju | [`zakon/1998/816/`](zakon/1998/816/) | amending act | 1 | 1998-05-20 | 1998-05-20 |
 | Zakon o izmjenama i dopunama Zakona o prodaji stanova na kojima postoji stanarsko pravo | [`zakon/1998/817/`](zakon/1998/817/) | amending act | 1 | 1998-05-20 | 1998-05-20 |
+| Zakon o dopuni Zakona o ugostiteljskoj djelatnosti | [`zakon/1998/818/`](zakon/1998/818/) | amended, not consolidated | 1 | 1998-05-20 | 1998-05-20 |
 | Zakon o izmjeni i dopuni Zakona o upravnim pristojbama | [`zakon/1998/819/`](zakon/1998/819/) | amending act | 1 | 1998-05-20 | 1998-05-20 |
+| Zakon o izmjenama i dopunama Zakona o javnim cestama | [`zakon/1998/978/`](zakon/1998/978/) | amending act | 1 | 1998-06-06 | 1998-06-06 |
 | Zakon o izmjenama i dopunama Zakona o turističkoj djelatnosti | [`zakon/1998/979/`](zakon/1998/979/) | amending act | 1 | 1998-06-06 | 1998-06-06 |
+| Zakon o izmjeni Zakona o Državnoj agenciji za osiguranje štednih uloga i sanaciju banaka | [`zakon/1998/1057/`](zakon/1998/1057/) | in force | 1 | 1998-06-13 | 1998-06-13 |
+| Zakon o izmjenama i dopunama Zakona o razminiranju | [`zakon/1998/1164/`](zakon/1998/1164/) | amending act | 1 | 1998-06-19 | 1998-06-19 |
+| Zakon o izmjenama i dopunama Zakona o novčanim poticajima i naknadama u poljoprivredi i ribarstvu | [`zakon/1998/1165/`](zakon/1998/1165/) | amending act | 1 | 1998-06-27 | 1998-06-27 |
+| Zakon o izmjenama i dopunama Zakona o zdravstvenom osiguranju | [`zakon/1998/1193/`](zakon/1998/1193/) | amended, not consolidated | 1 | 1998-07-04 | 1998-07-04 |
 | Zakon o izmjenama i dopunama Zakona o financiranju vodnog gospodarstva | [`zakon/1998/1194/`](zakon/1998/1194/) | amending act | 1 | 1998-06-26 | 1998-06-26 |
+| Zakon o izmjenama i dopunama Zakona o zaštiti tržišnog natjecanja | [`zakon/1998/1216/`](zakon/1998/1216/) | amending act | 1 | 1998-07-08 | 1998-07-08 |
 | Zakon o izmjenama i dopunama Zakona o bankama i štedionicama | [`zakon/1998/1217/`](zakon/1998/1217/) | amending act | 1 | 1998-07-08 | 1998-07-08 |
+| Zakon o izmjenama Zakona o izvršavanju Državnog proračuna Republike Hrvatske za 1998. godinu | [`zakon/1998/1233/`](zakon/1998/1233/) | in force | 1 | 1998-07-09 | 1998-07-09 |
+| Zakon o Vladi Republike Hrvatske | [`zakon/1998/1394/`](zakon/1998/1394/) | repealed, not consolidated | 1 | 1998-08-05 | 1998-08-05 |
+| Zakon o prestanku važenja Zakona o privremenom preuzimanju i upravljanju određenom imovinom | [`zakon/1998/1397/`](zakon/1998/1397/) | in force | 1 | 1998-08-05 | 1998-08-05 |
+| Zakon o prestanku važenja Zakona o davanju u najam stanova na oslobođenom teritoriju | [`zakon/1998/1398/`](zakon/1998/1398/) | in force | 1 | 1998-08-05 | 1998-08-05 |
+| Zakon o mirovinskom osiguranju | [`zakon/1998/1409/`](zakon/1998/1409/) | repealed, not consolidated | 1 | 1998-08-06 | 1998-08-06 |
+| Zakon o ovlasti Vlade Republike Hrvatske da uredbama uređuje pojedina pitanja iz djelokruga Zastupničkog doma Hrvatskoga državnog sabora | [`zakon/1998/1590/`](zakon/1998/1590/) | repealed, not consolidated | 1 | 1998-10-07 | 1998-10-07 |
+| Zakon o kretanju slijepe osobe uz pomoć psa vodiča | [`zakon/1998/1591/`](zakon/1998/1591/) | repealed, not consolidated | 1 | 1998-10-15 | 1998-10-15 |
+| Zakon o zračnom prometu | [`zakon/1998/1596/`](zakon/1998/1596/) | repealed, not consolidated | 1 | 1998-10-17 | 1998-10-17 |
+| Zakon o izmjenama i dopunama Zakona o obvezama i pravima državnih dužnosnika | [`zakon/1998/1626/`](zakon/1998/1626/) | amending act | 1 | 1998-10-16 | 1998-10-16 |
+| Zakon o izmjenama i dopunama Zakona o posebnom porezu na alkohol | [`zakon/1998/1732/`](zakon/1998/1732/) | amending act | 1 | 1998-11-04 | 1998-11-04 |
+| Zakon o muzejima | [`zakon/1998/1746/`](zakon/1998/1746/) | repealed, not consolidated | 1 | 1998-11-05 | 1998-11-05 |
 | Zakon o izmjeni Zakona o hrvatskim državnim nagradama za znanost | [`zakon/1998/1747/`](zakon/1998/1747/) | in force | 1 | 1998-11-05 | 1998-11-05 |
+| Zakon o izmjenama i dopunama Zakona o izdavanju i prometu vrijednosnim papirima | [`zakon/1998/1748/`](zakon/1998/1748/) | amended, not consolidated | 1 | 1998-11-05 | 1998-11-05 |
+| Zakon o izmjenama i dopunama Zakona o Hrvatskoj radioteleviziji | [`zakon/1998/1801/`](zakon/1998/1801/) | amended, not consolidated | 1 | 1998-11-14 | 1998-11-14 |
 | Zakon o prestanku važenja Zakona o osiguranju sredstava, ostvarivanju prava i načinu isplate minimalnih plaća i naknada određenim fizičkim i pravnim osobama | [`zakon/1998/1863/`](zakon/1998/1863/) | in force | 1 | 1998-12-02 | 1998-12-02 |
+| Zakon o bankama | [`zakon/1998/1983/`](zakon/1998/1983/) | repealed, not consolidated | 1 | 1998-12-26 | 1998-12-26 |
 | Zakon o izmjenama i dopuni Zakona o unutarnjim poslovima | [`zakon/1998/1984/`](zakon/1998/1984/) | amending act | 1 | 1998-12-26 | 1998-12-26 |
+| Zakon o listi profesionalnih bolesti | [`zakon/1998/1994/`](zakon/1998/1994/) | repealed, not consolidated | 1 | 1998-12-30 | 1998-12-30 |
 | Zakon o izmjenama i dopunama Zakona o hrvatskim željeznicama | [`zakon/1998/1997/`](zakon/1998/1997/) | amending act | 1 | 1998-12-30 | 1998-12-30 |
+| Zakon o izmjenama i dopunama Zakona o porezu na dohodak | [`zakon/1998/2017/`](zakon/1998/2017/) | amending act | 1 | 1998-12-28 | 1998-12-28 |
+| Zakon o izmjenama i dopunama Zakona o porezu na dodanu vrijednost | [`zakon/1998/2018/`](zakon/1998/2018/) | amending act | 1 | 1998-12-28 | 1998-12-28 |
+| Zakon o izmjenama i dopunama Zakona o pravima bivših političkih zatvorenika | [`zakon/1998/2019/`](zakon/1998/2019/) | amending act | 1 | 1998-12-28 | 1998-12-28 |
+| Zakon o izmjenama Zakona o političkim strankama | [`zakon/1998/2020/`](zakon/1998/2020/) | in force | 1 | 1998-12-28 | 1998-12-28 |
+| Zakon o izvršavanju Državnog proračuna Republike Hrvatske za 1999. godinu | [`zakon/1998/2069/`](zakon/1998/2069/) | amended, not consolidated | 1 | 1998-12-31 | 1998-12-31 |
+| Zakon o izmjenama i dopunama Zakona o zdravstvenom osiguranju | [`zakon/1999/246/`](zakon/1999/246/) | amended, not consolidated | 1 | 1999-02-09 | 1999-02-09 |
+| Zakon o načinu određivanja zastupljenosti udruga sindikata više razine u tripartitnim tijelima na nacionalnoj razini | [`zakon/1999/398/`](zakon/1999/398/) | repealed, not consolidated | 1 | 1999-03-05 | 1999-03-05 |
 | Zakon o izmjenama Zakona o državnoj agenciji za osiguranje štednih uloga i sanaciju banaka | [`zakon/1999/401/`](zakon/1999/401/) | in force | 1 | 1999-03-05 | 1999-03-05 |
+| Zakon o dopunama Zakona o područjima županija, gradova i općina u Republici Hrvatskoj | [`zakon/1999/465/`](zakon/1999/465/) | amended, not consolidated | 1 | 1999-03-05 | 1999-03-05 |
+| Zakon o izmjenama i dopunama Zakona o oružju | [`zakon/1999/549/`](zakon/1999/549/) | amending act | 1 | 1999-03-27 | 1999-03-27 |
+| Zakon o izmjenama i dopunama Zakona o lovu | [`zakon/1999/583/`](zakon/1999/583/) | amending act | 1 | 1999-04-03 | 1999-04-03 |
+| Zakon o izmjenama i dopunama Ovršnog zakona | [`zakon/1999/584/`](zakon/1999/584/) | amended, not consolidated | 1 | 1999-04-03 | 1999-04-03 |
+| Zakon o izmjenama i dopunama Stečajnog zakona | [`zakon/1999/585/`](zakon/1999/585/) | amending act | 1 | 1999-04-03 | 1999-04-03 |
+| Zakon o otocima | [`zakon/1999/706/`](zakon/1999/706/) | repealed, not consolidated | 1 | 1999-04-17 | 1999-04-17 |
+| Zakon o izmjenama i dopunama Zakona o trgovačkim društvima | [`zakon/1999/707/`](zakon/1999/707/) | amending act | 1 | 1999-04-17 | 1999-04-17 |
+| Zakon o dopuni Zakona o zdravstvenom osiguranju | [`zakon/1999/708/`](zakon/1999/708/) | amended, not consolidated | 1 | 1999-04-17 | 1999-04-17 |
 | Zakon o izmjenama Zakona o Nacionalnom parku i spomen području Brioni | [`zakon/1999/873/`](zakon/1999/873/) | in force | 1 | 1999-05-19 | 1999-05-19 |
+| Zakon o izmjenama i dopunama Zakona o sudskom registru | [`zakon/1999/874/`](zakon/1999/874/) | amending act | 1 | 1999-05-11 | 1999-05-11 |
+| Zakon o ustrojstvu i djelokrugu ministarstava i državnih upravnih organizacija | [`zakon/1999/925/`](zakon/1999/925/) | repealed, not consolidated | 1 | 1999-05-26 | 1999-05-26 |
+| Zakon o izmjenama i dopunama Zakona o sustavu državne uprave | [`zakon/1999/926/`](zakon/1999/926/) | amending act | 1 | 1999-05-26 | 1999-05-26 |
+| Zakon o obveznim i dobrovoljnim mirovinskim fondovima | [`zakon/1999/936/`](zakon/1999/936/) | repealed, not consolidated | 1 | 1999-05-28 | 1999-05-28 |
+| Zakon o izmjenama i dopunama Zakona o Državnom sudbenom vijeću | [`zakon/1999/937/`](zakon/1999/937/) | amending act | 1 | 1999-05-28 | 1999-05-28 |
+| Zakon o gradnji | [`zakon/1999/962/`](zakon/1999/962/) | repealed, not consolidated | 1 | 1999-06-03 | 1999-06-03 |
+| Zakon o izmjeni Zakona o otrovima | [`zakon/1999/1033/`](zakon/1999/1033/) | in force | 1 | 1999-06-02 | 1999-06-02 |
+| Zakon o dopuni Zakona o kaznenom postupku | [`zakon/1999/1069/`](zakon/1999/1069/) | amended, not consolidated | 1 | 1999-06-17 | 1999-06-17 |
+| Zakon o izmjenama i dopunama Zakona o posebnom porezu na duhanske prerađevine | [`zakon/1999/1254/`](zakon/1999/1254/) | amending act | 1 | 1999-06-30 | 1999-06-30 |
+| Zakon o zaštiti i očuvanju kulturnih dobara | [`zakon/1999/1284/`](zakon/1999/1284/) | repealed, not consolidated | 1 | 1999-07-13 | 1999-07-13 |
+| Zakon o izmjenama i dopunama Zakona o izvršavanju Državnog proračuna Republike Hrvatske za 1999. godinu | [`zakon/1999/1298/`](zakon/1999/1298/) | amending act | 1 | 1999-07-15 | 1999-07-15 |
+| Zakon o stažu osiguranja s povećanim trajanjem | [`zakon/1999/1299/`](zakon/1999/1299/) | repealed, not consolidated | 1 | 1999-07-16 | 1999-07-16 |
 | Zakon o dopunama Zakona o plaćanju doprinosa za mirovinsko osiguranje u 1999. godini | [`zakon/1999/1300/`](zakon/1999/1300/) | amending act | 1 | 1999-07-16 | 1999-07-16 |
 | Zakon o izmjenama Zakona o poreznoj upravi | [`zakon/1999/1301/`](zakon/1999/1301/) | in force | 1 | 1999-07-16 | 1999-07-16 |
+| Zakon o izmjenama i dopunama Zakona o trgovini | [`zakon/1999/1353/`](zakon/1999/1353/) | amending act | 1 | 1999-07-24 | 1999-07-24 |
 | Zakon o izmjenama i dopuni Zakona o gradnji | [`zakon/1999/1354/`](zakon/1999/1354/) | amending act | 1 | 1999-07-24 | 1999-07-24 |
+| Zakon o telekomunikacijama | [`zakon/1999/1359/`](zakon/1999/1359/) | amended, not consolidated | 1 | 1999-07-27 | 1999-07-27 |
+| Zakon o Državnom inspektoratu | [`zakon/1999/1360/`](zakon/1999/1360/) | repealed, not consolidated | 1 | 1999-07-27 | 1999-07-27 |
+| Zakon o izmjenama i dopunama Zakona o autorskom pravu | [`zakon/1999/1361/`](zakon/1999/1361/) | amended, not consolidated | 1 | 1999-07-27 | 1999-07-27 |
+| Zakon o izmjenama i dopunama Zakona o stambenoj štednji i državnom poticanju stambene štednje | [`zakon/1999/1362/`](zakon/1999/1362/) | amending act | 1 | 1999-07-27 | 1999-07-27 |
+| Zakon o doplatku za djecu | [`zakon/1999/1364/`](zakon/1999/1364/) | amended, not consolidated | 1 | 1999-07-29 | 1999-07-29 |
+| Zakon o inspekciji cestovnog prometa i cesta | [`zakon/1999/1367/`](zakon/1999/1367/) | repealed, not consolidated | 1 | 1999-07-29 | 1999-07-29 |
+| Zakon o žigu | [`zakon/1999/1394/`](zakon/1999/1394/) | amended, not consolidated | 1 | 1999-07-31 | 1999-07-31 |
+| Zakon o ovlasti Vlade Republike Hrvatske da uredbama uređuje pojedina pitanja iz djelokruga Zastupničkog doma Hrvatskoga državnog sabora | [`zakon/1999/1680/`](zakon/1999/1680/) | repealed, not consolidated | 1 | 1999-10-07 | 1999-10-07 |
+| Zakon o zaštiti od neionizirajućih zračenja | [`zakon/1999/1741/`](zakon/1999/1741/) | replaced, not consolidated | 1 | 1999-10-21 | 1999-10-21 |
+| Zakon o posebnom porezu na luksuzne proizvode | [`zakon/1999/1742/`](zakon/1999/1742/) | repealed, not consolidated | 1 | 1999-10-13 | 1999-10-13 |
+| Zakon o izmjenama i dopunama Zakona o porezu na dodanu vrijednost | [`zakon/1999/1743/`](zakon/1999/1743/) | amending act | 1 | 1999-10-21 | 1999-10-21 |
 | Zakon o izmjenama Zakona o posebnom porezu na duhanske proizvode | [`zakon/1999/1744/`](zakon/1999/1744/) | in force | 1 | 1999-10-13 | 1999-10-13 |
+| Zakon o izmjenama Zakona o posebnim porezima na osobne automobile, ostala motorna vozila, plovila i zrakoplove | [`zakon/1999/1745/`](zakon/1999/1745/) | amended, not consolidated | 1 | 1999-10-13 | 1999-10-13 |
+| Zakon o izmjenama i dopunama Zakona o službi u oružanim snagama Republike Hrvatske | [`zakon/1999/1746/`](zakon/1999/1746/) | amended, not consolidated | 1 | 1999-10-21 | 1999-10-21 |
+| Zakon o izmjenama i dopunama Zakona o državnoj reviziji | [`zakon/1999/1747/`](zakon/1999/1747/) | amending act | 1 | 1999-10-21 | 1999-10-21 |
 | Zakon o izmjenama i dopunama Zakona o Hrvatskoj garancijskoj agenciji | [`zakon/1999/1748/`](zakon/1999/1748/) | amending act | 1 | 1999-10-21 | 1999-10-21 |
+| Zakon o izmjenama Zakona o Fondu za naknadu oduzete imovine | [`zakon/1999/1749/`](zakon/1999/1749/) | in force | 1 | 1999-10-21 | 1999-10-21 |
+| Zakon o izmjeni Zakona o obvezama i pravima državnih dužnosnika | [`zakon/1999/1750/`](zakon/1999/1750/) | in force | 1 | 1999-10-21 | 1999-10-21 |
 | Zakon o dopunama Zakona o elektroprivredi | [`zakon/1999/1751/`](zakon/1999/1751/) | amending act | 1 | 1999-10-21 | 1999-10-21 |
+| Zakon o izmjenama i dopunama Zakona o poljoprivrednom zemljištu | [`zakon/1999/1752/`](zakon/1999/1752/) | amending act | 1 | 1999-10-21 | 1999-10-21 |
+| Zakon o izmjenama i dopunama Zakona o novčanim poticajima i naknadama u poljoprivredi i ribarstvu | [`zakon/1999/1753/`](zakon/1999/1753/) | amending act | 1 | 1999-10-21 | 1999-10-21 |
+| Zakon o mirovinskim osiguravajućim društvima i isplati mirovina na temelju individualne kapitalizirane štednje | [`zakon/1999/1758/`](zakon/1999/1758/) | repealed, not consolidated | 1 | 1999-10-23 | 1999-10-23 |
+| Zakon o vatrogastvu | [`zakon/1999/1759/`](zakon/1999/1759/) | repealed, not consolidated | 1 | 1999-10-23 | 1999-10-23 |
+| Zakon o izmjenama i dopunama Zakona o parničnom postupku | [`zakon/1999/1823/`](zakon/1999/1823/) | amended, not consolidated | 1 | 1999-11-06 | 1999-11-06 |
+| Zakon o izmjenama i dopunama Zakona o kaznenom postupku | [`zakon/1999/1824/`](zakon/1999/1824/) | amended, not consolidated | 1 | 1999-11-06 | 1999-11-06 |
+| Zakon o izbornim jedinicama za izbor zastupnika u Zastupnički dom Hrvatskoga državnog sabora | [`zakon/1999/1855/`](zakon/1999/1855/) | repealed, not consolidated | 1 | 1999-11-13 | 1999-11-13 |
+| Zakon o izmjenama i dopunama Zakona o osiguranju | [`zakon/1999/1856/`](zakon/1999/1856/) | amending act | 1 | 1999-11-13 | 1999-11-13 |
+| Zakon o izmjeni i dopuni Zakona o područjima županija, gradova i općina u Republici Hrvatskoj | [`zakon/1999/1866/`](zakon/1999/1866/) | amended, not consolidated | 1 | 1999-11-17 | 1999-11-17 |
+| Zakon o izmjenama i dopunama Zakona o telekomunikacijama | [`zakon/1999/2012/`](zakon/1999/2012/) | amending act | 1 | 1999-12-08 | 1999-12-08 |
 | Zakon o izmjenama i dopunama Zakona o obnovi ugrožene spomeničke cjeline Dubrovnika | [`zakon/1999/2013/`](zakon/1999/2013/) | amending act | 1 | 1999-12-08 | 1999-12-08 |
+| Zakon o državnoj izmjeri i katastru nekretnina | [`zakon/1999/2014/`](zakon/1999/2014/) | amended, not consolidated | 1 | 1999-12-08 | 1999-12-08 |
+| Zakon o izmjeni i dopuni Zakona o područjima županija, gradova i općina u Republici Hrvatskoj | [`zakon/1999/2016/`](zakon/1999/2016/) | amended, not consolidated | 1 | 1999-12-08 | 1999-12-08 |
+| Zakon o ograničavanju uporabe duhanskih proizvoda | [`zakon/1999/2022/`](zakon/1999/2022/) | amended, not consolidated | 1 | 1999-12-08 | 1999-12-08 |
 | Zakon o izvršavanju zaštitnog nadzora i rada za opće dobro na slobodi | [`zakon/1999/2023/`](zakon/1999/2023/) | in force | 1 | 1999-12-08 | 1999-12-08 |
 | Zakon o izmjenama i dopunama Zakona o lokalnoj samoupravi i upravi | [`zakon/1999/2024/`](zakon/1999/2024/) | amending act | 1 | 1999-12-08 | 1999-12-08 |
 | Zakon o izmjenama i dopunama Zakona o statusu prognanika i izbjeglica | [`zakon/1999/2025/`](zakon/1999/2025/) | amending act | 1 | 1999-12-08 | 1999-12-08 |
+| Zakon o izmjenama i dopunama Zakona o zaštiti osoba s duševnim smetnjama | [`zakon/1999/2026/`](zakon/1999/2026/) | amending act | 1 | 1999-12-08 | 1999-12-08 |
+| Zakon o izmjeni i dopuni Zakona o područjima županija, gradova i općina u Republici Hrvatskoj | [`zakon/1999/2028/`](zakon/1999/2028/) | amended, not consolidated | 1 | 1999-12-08 | 1999-12-08 |
+| Zakon o dopuni Zakona o područjima županija, gradova i općina u Republici Hrvatskoj | [`zakon/1999/2029/`](zakon/1999/2029/) | amended, not consolidated | 1 | 1999-12-08 | 1999-12-08 |
+| Zakon o izmjenama i dopunama Zakona o pravima zastupnika u Saboru Republike Hrvatske | [`zakon/1999/2030/`](zakon/1999/2030/) | amending act | 1 | 1999-12-09 | 1999-12-09 |
 | Zakon o izmjenama i dopunama Zakona o obvezama i pravima državnih dužnosnika | [`zakon/2000/436/`](zakon/2000/436/) | amending act | 1 | 2000-02-29 | 2000-02-29 |
 | Zakon o izmjenama i dopuni Zakona o plaćama sudaca i drugih pravosudnih dužnosnika | [`zakon/2000/437/`](zakon/2000/437/) | amending act | 1 | 2000-02-29 | 2000-02-29 |
 | Zakon o stopama doprinosa za zdravstveno osiguranje | [`zakon/2000/1192/`](zakon/2000/1192/) | repealed, not consolidated | 1 | 2000-06-01 | 2000-06-01 |
