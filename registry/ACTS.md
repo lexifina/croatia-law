@@ -1,6 +1,6 @@
 # Every act in this repository
 
-32354 acts, 32,780 versions. Each act lives in a folder named by its kind, year and identifier, `<kind>/<year>/<identifier>/` (acts published before that layout keep their own folder, listed in data/paths.json); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+32654 acts, 33,080 versions. Each act lives in a folder named by its kind, year and identifier, `<kind>/<year>/<identifier>/` (acts published before that layout keep their own folder, listed in data/paths.json); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## naputak (205, of which 29 amending acts)
 
@@ -1576,7 +1576,7 @@
 | Naredba o dopuni Naredbe o razvrstaju luka otvorenih za javni promet na području Primorsko-goranske županije | [`naredba/2026/1220/`](naredba/2026/1220/) | amending act | 1 | 2026-09-19 | 2026-09-19 |
 | Naredba o mjerama kontrole za suzbijanje afričke svinjske kuge u Republici Hrvatskoj | [`naredba/2026/1289/`](naredba/2026/1289/) | in force | 1 | 2026-09-24 | 2026-09-24 |
 
-## odluka (14020, of which 1714 amending acts)
+## odluka (14277, of which 1721 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -2335,7 +2335,11 @@
 | Odluka o utvrđivanju visine naknade troškova izborne promičbe za izbor zastupnika u Županijski dom Sabora Republike Hrvatske | [`odluka/1993/5/`](odluka/1993/5/) | in force | 1 | 1993-01-06 | 1993-01-06 |
 | Odluka o početku i završetku radnog vremena u tijeku radnog dana u ministarstvima, drugim samostalnim organima državne uprave i službama Vlade Republike Hrvatske | [`odluka/1993/28/`](odluka/1993/28/) | in force | 1 | 1993-01-11 | 1993-01-11 |
 | Rješenje o osnivanju Hrvatskog savjeta za sigurnost prometa na cestama | [`odluka/1993/52/`](odluka/1993/52/) | cited later, not consolidated | 1 | 1993-01-23 | 1993-01-23 |
+| Odluka o osnivanju Komisije za invalide u Republici Hrvatskoj | [`odluka/1993/62/`](odluka/1993/62/) | repealed, not consolidated | 1 | 1993-01-18 | 1993-01-18 |
+| Odluka o valorizaciji pomoći i naknada u socijalnoj skrbi | [`odluka/1993/63/`](odluka/1993/63/) | replaced, not consolidated | 1 | 1993-01-18 | 1993-01-18 |
+| Odluka o proizvodima koji spadaju u sredstva naoružanja i opremu za Hrvatsku vojsku, policiju, Glavni stožer saniteta Republike Hrvatske i organe za izvršenje krivičnih i prekršajnih sankcija | [`odluka/1993/64/`](odluka/1993/64/) | cited later, not consolidated | 1 | 1993-01-18 | 1993-01-18 |
 | Odluka o utvrđivanju općeg interesa za izgradnju graničnog prijelaza Vivodina - Metlika | [`odluka/1993/65/`](odluka/1993/65/) | in force | 1 | 1993-01-18 | 1993-01-18 |
+| Odluka o osnivanju Generalnog Konzulata Republike Hrvatske u Perthu, Australija | [`odluka/1993/94/`](odluka/1993/94/) | repealed, not consolidated | 1 | 1993-01-18 | 1993-01-18 |
 | Odluka o osnivanju Veleposlanstva Republike Hrvatske u Kraljevini Danskoj, sa sjedištem u Kopenhagenu | [`odluka/1993/95/`](odluka/1993/95/) | in force | 1 | 1993-01-18 | 1993-01-18 |
 | Odluka o osnivanju Veleposlanstva Republike Hrvatske u Islamskoj Republici Iran, sa sjedištem u Teheranu | [`odluka/1993/96/`](odluka/1993/96/) | in force | 1 | 1993-01-18 | 1993-01-18 |
 | Odluka o osnivanju Veleposlanstva Republike Hrvatske u Republici Albaniji, sa sjedištem u Tirani | [`odluka/1993/97/`](odluka/1993/97/) | in force | 1 | 1993-01-18 | 1993-01-18 |
@@ -2496,9 +2500,11 @@
 | Odluka o kriterijima za utvrđivanje prekomjerne uporabe javnih cesta | [`odluka/1993/563/`](odluka/1993/563/) | repealed, not consolidated | 1 | 1993-04-14 | 1993-04-14 |
 | Odluka o suglasnosti na povećanje cijena električne energije | [`odluka/1993/591/`](odluka/1993/591/) | replaced, not consolidated | 1 | 1993-04-20 | 1993-04-20 |
 | Odluka o suglasnosti na iznos radijske i televizijske pretplate | [`odluka/1993/592/`](odluka/1993/592/) | replaced, not consolidated | 1 | 1993-04-20 | 1993-04-20 |
+| Odluka o suglasnosti na povećanje cijena prijevoza putnika i stvari u unutarnjem željezničkom prometu | [`odluka/1993/593/`](odluka/1993/593/) | replaced, not consolidated | 1 | 1993-04-20 | 1993-04-20 |
 | Odluka o suglasnosti na povećanje prodajnih cjena osnovnih naftnih derivata | [`odluka/1993/594/`](odluka/1993/594/) | in force | 1 | 1993-04-20 | 1993-04-20 |
 | Odluka o suglasnosti na povećanje cijene telefonskog impulsa i cjene pisama i dopisnica | [`odluka/1993/595/`](odluka/1993/595/) | in force | 1 | 1993-04-20 | 1993-04-20 |
 | Odluka o izmjenama Odluke o određivanju najviših cijena pšeničnoga brašna i kruha tipa 850 | [`odluka/1993/596/`](odluka/1993/596/) | in force | 1 | 1993-04-20 | 1993-04-20 |
+| Odluka o suglasnosti na cijene prirodnoga plina | [`odluka/1993/597/`](odluka/1993/597/) | replaced, not consolidated | 1 | 1993-04-20 | 1993-04-20 |
 | Odluka o privremenom financiranju općine Pag za 1993. godinu | [`odluka/1993/598/`](odluka/1993/598/) | in force | 1 | 1993-04-20 | 1993-04-20 |
 | Odluka o privremenom financiranju Općine Čakovec za 1993. godinu | [`odluka/1993/599/`](odluka/1993/599/) | in force | 1 | 1993-04-20 | 1993-04-20 |
 | Odluka o privremenom financiranju Općine Novi Marof za 1993. godinu | [`odluka/1993/600/`](odluka/1993/600/) | in force | 1 | 1993-04-20 | 1993-04-20 |
@@ -2509,33 +2515,68 @@
 | Odluka o privremenom financiranju Općine Ogulin za 1993. godinu | [`odluka/1993/606/`](odluka/1993/606/) | in force | 1 | 1993-04-20 | 1993-04-20 |
 | Odluka o privremenom financiranju Općine Zadar za 1993. godinu | [`odluka/1993/607/`](odluka/1993/607/) | in force | 1 | 1993-04-20 | 1993-04-20 |
 | Odluka o povećanju stanarine za stanove kojima upravlja Ministarstvo obrane | [`odluka/1993/608/`](odluka/1993/608/) | in force | 1 | 1993-03-30 | 1993-03-30 |
+| Odluka o visini naknade za veterinarsko-sanitarne preglede u prometu preko granice Republike Hrvatske | [`odluka/1993/610/`](odluka/1993/610/) | repealed, not consolidated | 1 | 1993-04-21 | 1993-04-21 |
+| Odluka o osnivanju Komisije za ratne zločine | [`odluka/1993/611/`](odluka/1993/611/) | amended, not consolidated | 1 | 1993-04-21 | 1993-04-21 |
+| Odluka o visini doprinosa u korist Hrvatskoga crvenoga križa | [`odluka/1993/612/`](odluka/1993/612/) | repealed, not consolidated | 1 | 1993-04-21 | 1993-04-21 |
 | Odluka o davanju u zakup neobrađenoga poljoprivrednoga zemljišta | [`odluka/1993/617/`](odluka/1993/617/) | in force | 1 | 1993-04-26 | 1993-04-26 |
+| Odluka | [`odluka/1993/628/`](odluka/1993/628/) | replaced, not consolidated | 1 | 1993-04-22 | 1993-04-22 |
 | Odluka o visini mirovinske osnovice za određivanje invalidske mirovine osobama osiguranim pod određenim okolnostima i osobama koje se nakon završenog školovanja nalaze na obveznom praktičnom radu ili | [`odluka/1993/630/`](odluka/1993/630/) | in force | 1 | 1993-05-04 | 1993-05-04 |
 | Odluka o osnovnicama osiguranja koje se uzimaju za obračunavanje i plaćanje doprinosa i za određivanje prava iz mirovinskog i invalidskog osiguranja za osobe koje osobnim radom, samostalno, u obliku z | [`odluka/1993/631/`](odluka/1993/631/) | in force | 1 | 1993-05-04 | 1993-05-04 |
+| Odluka o osnovicama za obračunavanje i plaćanje doprinosa i za određivanje prava iz mirovinskog i invalidskog osiguranja osiguranika zaposlenih u inozemstvu za godinu 1993. | [`odluka/1993/632/`](odluka/1993/632/) | cited later, not consolidated | 1 | 1993-05-04 | 1993-05-04 |
 | Odluka o osnovicama osiguranja koje se uzimaju za obračunavanje i plaćanje doprinosa i za određivanje prava iz mirovinskog i invalidskog osiguranja za osiguranike koji su na području Republike Hrvatsk | [`odluka/1993/633/`](odluka/1993/633/) | in force | 1 | 1993-05-04 | 1993-05-04 |
+| Odluka o osnovicama osiguranja koje se uzimaju za obračunavanje i plaćanje doprinosa i za određivanje prava iz mirovinskog i invalidskog osiguranja za osobe koje se nakon završene izobrazbe nalaze na | [`odluka/1993/634/`](odluka/1993/634/) | replaced, not consolidated | 1 | 1993-05-04 | 1993-05-04 |
+| Odluka o osnovici i načinu plaćanja doprinosa za produženo mirovinsko i invalidsko osiguranje | [`odluka/1993/635/`](odluka/1993/635/) | repealed, not consolidated | 1 | 1993-05-04 | 1993-05-04 |
+| Odluka o stalnim svotama doprinosa za mirovinsko i invalidsko osiguranje osoba osiguranih u određenim okolnostima za godinu 1993. | [`odluka/1993/636/`](odluka/1993/636/) | cited later, not consolidated | 1 | 1993-05-04 | 1993-05-04 |
+| Odluka o osnovicama za određivanje prava i za obračunavanje i plaćanje doprinosa za mirovinsko i invalidsko osiguranje za osiguranike privremeno izvan radnog odnosa za godinu 1993. | [`odluka/1993/637/`](odluka/1993/637/) | cited later, not consolidated | 1 | 1993-05-04 | 1993-05-04 |
+| Odluka o osnovici za obračunavanje i plaćanje doprinosa za mirovinsko i invalidsko osiguranje za osiguranike na neplaćenom dopustu, pod suspenzijom, u istražnom zatvoru i na izdržavanju kazne zatvora | [`odluka/1993/638/`](odluka/1993/638/) | replaced, not consolidated | 1 | 1993-05-04 | 1993-05-04 |
 | Odluka o usklađivanju mirovina od 1. veljače 1993. i o najvišoj starosnoj i invalidskoj mirovini | [`odluka/1993/639/`](odluka/1993/639/) | in force | 1 | 1993-04-27 | 1993-04-27 |
+| Odluka o graničnoj svoti najnižega mirovinskog primanja od 1. veljače 1993. | [`odluka/1993/640/`](odluka/1993/640/) | replaced, not consolidated | 1 | 1993-04-27 | 1993-04-27 |
 | Odluka o visini minimalne mirovine od 1. veljače 1993. | [`odluka/1993/641/`](odluka/1993/641/) | in force | 1 | 1993-04-27 | 1993-04-27 |
+| Odluka o usklađivanju naknada plaća u svezi s pravom na prekvalifikaciju ili dokvalifikaciju i naknada plaća u svezi s pravom na zaposlenje od 1. veljače 1993. | [`odluka/1993/642/`](odluka/1993/642/) | in force | 1 | 1993-04-27 | 1993-04-27 |
+| Odluka o usklađivanju novčanih naknada za tjelesno oštećenje od 1. veljače 1993. | [`odluka/1993/643/`](odluka/1993/643/) | replaced, not consolidated | 1 | 1993-04-27 | 1993-04-27 |
+| Odluka o usklađivanju doplatka za pomoć i njegu od 1. veljače 1993. | [`odluka/1993/644/`](odluka/1993/644/) | replaced, not consolidated | 1 | 1993-04-27 | 1993-04-27 |
 | Odluka o usklađivanju mirovina, doplatka za pomoć i njegu i novčanih naknada za tjelesno oštećenje od l. veljače 1993. | [`odluka/1993/645/`](odluka/1993/645/) | in force | 1 | 1993-04-27 | 1993-04-27 |
 | Odluka o raspoređivanju sredstava za isplatu jednokratne novčane pomoći u godini 1993. | [`odluka/1993/646/`](odluka/1993/646/) | in force | 1 | 1993-04-26 | 1993-04-26 |
 | Odluka o raspoređivanju sredstava za rekreaciju i oporavak umirovljenika te za organizirano pružanje pomoći i njege od druge osobe u godini 1993. | [`odluka/1993/647/`](odluka/1993/647/) | in force | 1 | 1993-04-26 | 1993-04-26 |
 | Odluka o usklađivanju mirovina od 1. veljače 1993. | [`odluka/1993/649/`](odluka/1993/649/) | in force | 1 | 1993-04-27 | 1993-04-27 |
+| Odluka o graničnoj svoti najnižega mirovinskog primanja od 1. veljače 1993. | [`odluka/1993/650/`](odluka/1993/650/) | replaced, not consolidated | 1 | 1993-04-27 | 1993-04-27 |
+| Odluka o usklađivanju naknada plaća u svezi s pravom na prekvalifikciju ili dokvalifikadju i naknade plaće u svezi s pravom na zaposlenje od 1. veljače 1993. | [`odluka/1993/651/`](odluka/1993/651/) | in force | 1 | 1993-04-27 | 1993-04-27 |
+| Odluka o usklađivanju novčanih naknada za tjelesno oštećenje od 1. veljače 1993. | [`odluka/1993/652/`](odluka/1993/652/) | replaced, not consolidated | 1 | 1993-04-27 | 1993-04-27 |
 | Odluka o jednokratnoj godišnjoj novčanoj pomoći u godini 1993. | [`odluka/1993/654/`](odluka/1993/654/) | in force | 1 | 1993-04-26 | 1993-04-26 |
 | Odluka o usklađivanju mirovina individualnih poljoprivrednika od l. siječnja 1993. | [`odluka/1993/655/`](odluka/1993/655/) | in force | 1 | 1993-05-04 | 1993-05-04 |
 | Odluka o osnovicama osiguranja koje se uzimaju za obračunavanje i plaćanje doprinosa i za određivanje prava iz mirovinskog i invalidskog osiguranja individualnih poljoprivrednika od 1. siječnja 1993. | [`odluka/1993/656/`](odluka/1993/656/) | in force | 1 | 1993-05-04 | 1993-05-04 |
+| Odluka o valorizacijskim koeficijentima za preračunavanje plaća iz prijašnjih godina prema razini osnovica osiguranja godine 1993. | [`odluka/1993/657/`](odluka/1993/657/) | in force | 1 | 1993-05-04 | 1993-05-04 |
+| Odluka o određivanju zajamčene najniže svote koja se isplaćuje korisniku mirovine od 1. siječnja 1993. | [`odluka/1993/658/`](odluka/1993/658/) | replaced, not consolidated | 1 | 1993-05-04 | 1993-05-04 |
+| Odluka o graničnoj svoti najnižega mirovinskog primanja radi određivanja zaštitnog dodatka uz mirovinu od 1. siječnja 1993. | [`odluka/1993/659/`](odluka/1993/659/) | replaced, not consolidated | 1 | 1993-05-04 | 1993-05-04 |
 | Odluka o visini prihoda kućanstva korisnika mirovine o kojima ovisi stjecanje prava na zaštitni dodatak uz mirovinu u godini 1993. | [`odluka/1993/660/`](odluka/1993/660/) | in force | 1 | 1993-05-04 | 1993-05-04 |
+| Odluka o visini minimalne mirovine od 1. siječnja 1993. | [`odluka/1993/661/`](odluka/1993/661/) | replaced, not consolidated | 1 | 1993-05-04 | 1993-05-04 |
+| Odluka o visini doplatka za pomoć i njegu od 1. siječnja 1993. | [`odluka/1993/662/`](odluka/1993/662/) | replaced, not consolidated | 1 | 1993-05-04 | 1993-05-04 |
+| Odluka o određivanju osnovice za utvrđivanje novčane naknade za tjelesno oštećenje od 1. siječnja 1993. | [`odluka/1993/663/`](odluka/1993/663/) | replaced, not consolidated | 1 | 1993-05-04 | 1993-05-04 |
 | Odluka o uvjetima pod kojima se smatra da je osiguranik uzdržavao člana obitelji i o uvjetima prestanka prava na mirovinu uslijed nastale promjene u imovnom stanju, odnosno prihodima, u godini 1993. | [`odluka/1993/664/`](odluka/1993/664/) | in force | 1 | 1993-05-04 | 1993-05-04 |
+| Odluka o naknadi putnih troškova u svezi s ostvarivanjem prava kada je osigurana osoba upućena u drugo mjesto radi ocjene radne sposobnosti | [`odluka/1993/665/`](odluka/1993/665/) | amended, not consolidated | 1 | 1993-05-04 | 1993-05-04 |
 | Odluka o posebnom usklađivanju mirovina individualnih poljoprivrednika od 1. siječnja 1993. | [`odluka/1993/666/`](odluka/1993/666/) | in force | 1 | 1993-05-04 | 1993-05-04 |
+| Odluka o visini dnevnice za službeno putovanje i visini naknada za korisnike koji se financiraju iz sredstava državnog proračuna | [`odluka/1993/673/`](odluka/1993/673/) | repealed, not consolidated | 1 | 1993-04-29 | 1993-04-29 |
 | Oluka o osnivanju Konzulata Republike Hrvatske u Državi Izrael, sa sjedištem u Haifi | [`odluka/1993/687/`](odluka/1993/687/) | in force | 1 | 1993-04-27 | 1993-04-27 |
+| Odluka o osnivanju Konzulata Republike Hrvatske u Saveznoj Republici Njemačkoj, sa sjedištem u Mainzu | [`odluka/1993/688/`](odluka/1993/688/) | amended, not consolidated | 1 | 1993-04-27 | 1993-04-27 |
+| Odluka o obvezi stavljanja u promet određenih količina brašna i kruha tipa 850 | [`odluka/1993/692/`](odluka/1993/692/) | amended, not consolidated | 1 | 1993-05-01 | 1993-05-01 |
+| Odluka o određivanju najnižih svota na koje se mora ugovoriti osiguranje autoodgovornosti za štetu nanesenu trećim osobama pri uporabi motornog vozila | [`odluka/1993/693/`](odluka/1993/693/) | repealed, not consolidated | 1 | 1993-05-01 | 1993-05-01 |
+| Odluka o visini godišnje naknade za uporabu cesta što se plaća na cestovna motorna i priključna vozila | [`odluka/1993/694/`](odluka/1993/694/) | amended, not consolidated | 1 | 1993-05-09 | 1993-05-09 |
 | Odluka o eskontnoj stopi Narodne banke Hrvatske za svibanj 1993. godine | [`odluka/1993/696/`](odluka/1993/696/) | in force | 1 | 1993-05-01 | 1993-05-01 |
+| Odluka o privremenom financiranju općine Cres - Lošinj za 1993. godinu | [`odluka/1993/734/`](odluka/1993/734/) | amended, not consolidated | 1 | 1993-05-08 | 1993-05-08 |
 | Odluka o privremenom financiranju Općine Drniš za 1993. godinu | [`odluka/1993/735/`](odluka/1993/735/) | in force | 1 | 1993-05-08 | 1993-05-08 |
 | Odluka o privremenom financiranju Općine Makarska za 1993. godinu | [`odluka/1993/736/`](odluka/1993/736/) | in force | 1 | 1993-05-08 | 1993-05-08 |
 | Odluka o privremenom financiranju Općine Metković za 1993. godinu | [`odluka/1993/737/`](odluka/1993/737/) | in force | 1 | 1993-05-08 | 1993-05-08 |
+| Odluka o privremenom financiranju Općine Delnice za 1993. godinu | [`odluka/1993/738/`](odluka/1993/738/) | replaced, not consolidated | 1 | 1993-05-08 | 1993-05-08 |
 | Odluka o privremenom financiranju Općine Ploče za 1993. godinu | [`odluka/1993/739/`](odluka/1993/739/) | in force | 1 | 1993-05-08 | 1993-05-08 |
 | Odluka o privremenom financiranju Općine Šibenik za 1993. godinu | [`odluka/1993/740/`](odluka/1993/740/) | in force | 1 | 1993-05-08 | 1993-05-08 |
 | Odluka o privremenom financiranju Općine Brač za 1993. godinu | [`odluka/1993/742/`](odluka/1993/742/) | in force | 1 | 1993-05-08 | 1993-05-08 |
 | Odluka o privremenom financiranju Općine Sinj za 1993. godinu | [`odluka/1993/744/`](odluka/1993/744/) | in force | 1 | 1993-05-08 | 1993-05-08 |
 | Odluka o privremenom financiranju Općine Omiš za 1993. godinu | [`odluka/1993/745/`](odluka/1993/745/) | in force | 1 | 1993-05-08 | 1993-05-08 |
+| Odluka o visini posebnih naknada za uporabu javnih cesta i određenih objekata na cestama | [`odluka/1993/748/`](odluka/1993/748/) | replaced, not consolidated | 1 | 1993-05-09 | 1993-05-09 |
 | Odluka o visini i načnu obračuna naknade za vađenje pijeska, šljunka i kamena | [`odluka/1993/781/`](odluka/1993/781/) | in force | 1 | 1993-05-10 | 1993-05-10 |
+| Odluka o dopuni Odluke o visini naknade za javne ceste | [`odluka/1993/789/`](odluka/1993/789/) | amending act | 1 | 1993-05-14 | 1993-05-14 |
+| Odluka o dopuni Odluke o kriterijima za carinski kontingent | [`odluka/1993/790/`](odluka/1993/790/) | amending act | 1 | 1993-05-14 | 1993-05-14 |
+| Odluka o obvezi prijave cjenika, odnosno tarifa određenih proizvoda i usluga | [`odluka/1993/791/`](odluka/1993/791/) | amended, not consolidated | 1 | 1993-05-14 | 1993-05-14 |
 | Odluka o utvrđivanju općeg interesa za izgradnju telefonskog optičkoga kabela Varaždin - Goričan, od ATC-a Varaždin da graničnoga prijelaza Goričan | [`odluka/1993/793/`](odluka/1993/793/) | in force | 1 | 1993-05-14 | 1993-05-14 |
 | Odluka o utvrđivanju općeg interesa za izgradnju telefonskog optičkoga kabela Varaždin - Đurđevac, od ATC-a Varaždin do ATC-a Đurđevac | [`odluka/1993/794/`](odluka/1993/794/) | in force | 1 | 1993-05-14 | 1993-05-14 |
 | Odluka o utvrđivanju općeg interesa za izgradnju magistralnoga telefonskog optičkoga kabela na relaciji Đakovo - Vinkovci | [`odluka/1993/795/`](odluka/1993/795/) | in force | 1 | 1993-05-14 | 1993-05-14 |
@@ -2543,15 +2584,38 @@
 | Odluka o utvrđivanju općeg interesa za izgradnju telefonskog optičkoga kabela Varaždin-Lepoglava, od ATC-a Varaždin do ATC-a Lepoglava | [`odluka/1993/797/`](odluka/1993/797/) | in force | 1 | 1993-05-14 | 1993-05-14 |
 | Odluka o davanju suglasnosti za osnivanje Konzulata Kraljevine Norveške u Rijeci | [`odluka/1993/895/`](odluka/1993/895/) | in force | 1 | 1993-05-13 | 1993-05-13 |
 | Odluka o privremenom korištenju opreme, druge imovine i obveza, arhive i dokumentacije Službe društvenog knjigovodstva Hrvatske | [`odluka/1993/899/`](odluka/1993/899/) | in force | 1 | 1993-05-21 | 1993-05-21 |
+| Odluka o novčanim iznosima do kojih se ograničava odgovornost prijevoznika u zračnoj plovidbi | [`odluka/1993/900/`](odluka/1993/900/) | amended, not consolidated | 1 | 1993-05-29 | 1993-05-29 |
 | Odluka o prihvaćanju članstva Republike Hrvatske u Inter-američkoj banci za razvoj temeljem nasljeđivanja članstva bivše SFRJ | [`odluka/1993/901/`](odluka/1993/901/) | in force | 1 | 1993-05-20 | 1993-05-20 |
 | Odluka o prestanku važenja Odluke o određivanju najviših cijena pšeničnog brašna i kruha tipa 850 | [`odluka/1993/902/`](odluka/1993/902/) | in force | 1 | 1993-05-21 | 1993-05-21 |
+| Odluka o dopuni Odluke o obvezi prijave cjenika odnosno tarifa određenih proizvoda i usluga | [`odluka/1993/903/`](odluka/1993/903/) | amending act | 1 | 1993-05-21 | 1993-05-21 |
 | Odluka o usklađivanju mirovina od 1. ožujka 1993. i o najvišoj starosnoj i invalidskoj mirovini | [`odluka/1993/915/`](odluka/1993/915/) | in force | 1 | 1993-05-22 | 1993-05-22 |
+| Odluka o graničnoj svoti najnižega mirovinskog primanja od 1. ožujka 1993. | [`odluka/1993/916/`](odluka/1993/916/) | replaced, not consolidated | 1 | 1993-05-22 | 1993-05-22 |
 | Odluka o visini minimalne mirovine od 1. ožujka 1993. | [`odluka/1993/917/`](odluka/1993/917/) | in force | 1 | 1993-05-22 | 1993-05-22 |
+| Odluka o usklađivanju naknada plaća u svezi s pravom na prekvalifikaciju ili dokvalifikaciju i naknada plaća u svezi s pravom na zaposlenje od 1. ožujka 1993. | [`odluka/1993/918/`](odluka/1993/918/) | in force | 1 | 1993-05-22 | 1993-05-22 |
+| Odluka o usklađivanju novčanih naknada za tjelesno oštećenje od 1. ožujka 1993. | [`odluka/1993/919/`](odluka/1993/919/) | replaced, not consolidated | 1 | 1993-05-22 | 1993-05-22 |
+| Odluka o usklađivanju doplatka za pomoć i njegu od 1. ožujka 1993. | [`odluka/1993/920/`](odluka/1993/920/) | replaced, not consolidated | 1 | 1993-05-22 | 1993-05-22 |
 | Odluka o usklađivanju mirovina, doplatka za pomoć i njegu i novčanih naknada za tjelesno oštećenje od 1. ožujka 1993. | [`odluka/1993/921/`](odluka/1993/921/) | in force | 1 | 1993-05-22 | 1993-05-22 |
 | Odluka o usklađivanju mirovina od 1. ožujka 1993. | [`odluka/1993/922/`](odluka/1993/922/) | in force | 1 | 1993-05-22 | 1993-05-22 |
+| Odluka o usklađivanju naknada plaća u svezi s pravom na prekvalifikaciju ili dokvalifikaciju i naknade plaće u svezi s pravom na zaposlenje od 1. ožujka 1993. | [`odluka/1993/923/`](odluka/1993/923/) | in force | 1 | 1993-05-22 | 1993-05-22 |
+| Odluka o graničnoj svoti najnižega mirovinskog primanja od 1. ožujka 1993. | [`odluka/1993/924/`](odluka/1993/924/) | replaced, not consolidated | 1 | 1993-05-22 | 1993-05-22 |
+| Odluka o usklađivanju novčanih naknada za tjelesno oštećenje od 1. ožujka 1993. | [`odluka/1993/925/`](odluka/1993/925/) | replaced, not consolidated | 1 | 1993-05-22 | 1993-05-22 |
+| Odluka o usklađivanju doplatka za pomoć i njegu od 1. ožujka 1993. | [`odluka/1993/926/`](odluka/1993/926/) | replaced, not consolidated | 1 | 1993-05-22 | 1993-05-22 |
+| Odluka o nagradama i naknadi troškova sucima i drugim osobama u postupku pred Sudom časti pri Hrvatskoj gospodarskoj komori | [`odluka/1993/941/`](odluka/1993/941/) | amended, not consolidated | 1 | 1993-05-24 | 1993-05-24 |
+| Odluka o visini dnevnice za službeno putovanje i visini naknada za korisnike koji se financiraju iz sredstava državnog proračuna | [`odluka/1993/971/`](odluka/1993/971/) | repealed, not consolidated | 1 | 1993-05-28 | 1993-05-28 |
+| Odluka o ograničenju uvoza određenih proizvoda | [`odluka/1993/972/`](odluka/1993/972/) | repealed, not consolidated | 1 | 1993-05-28 | 1993-05-28 |
+| Odluka o plaćanju poreza iz neto-plaća i drugih osobnih primanja | [`odluka/1993/973/`](odluka/1993/973/) | repealed, not consolidated | 1 | 1993-05-28 | 1993-05-28 |
+| Odluka o dopuni Odluke o plaćanju posebne takse na uvezenu robu u 1993. godini | [`odluka/1993/974/`](odluka/1993/974/) | amended, not consolidated | 1 | 1993-05-28 | 1993-05-28 |
+| Odluka o izdavanju blagajničkih zapisa Narodne banke Hrvatske | [`odluka/1993/979/`](odluka/1993/979/) | replaced, not consolidated | 1 | 1993-05-26 | 1993-05-26 |
+| Odluka o visini naknade za ceste što se plaća na cestovna motorna vozila s pogonom na plin | [`odluka/1993/980/`](odluka/1993/980/) | amended, not consolidated | 1 | 1993-05-29 | 1993-05-29 |
+| Odluka o prodaji bankama blagajničkih zapisa Narodne banke Hrvatske u 1993. godini | [`odluka/1993/984/`](odluka/1993/984/) | repealed, not consolidated | 1 | 1993-05-31 | 1993-05-31 |
 | Odluka o izmjeni Odluke o načinu i uvijetima korištenja obvezne rezerve banaka za održavanje njihove dnevne likvidnosti | [`odluka/1993/985/`](odluka/1993/985/) | in force | 1 | 1993-06-01 | 1993-06-01 |
 | Odluka o dopuni Odluke o prodaji dijela deviza Narodnoj banci Hrvatske po osnovi otkupljenog stranog novca po mjenjačkim poslovima i po osnovi otkupa deviza od domaćih i stranih fizičkih osoba | [`odluka/1993/987/`](odluka/1993/987/) | amending act | 1 | 1993-05-31 | 1993-05-31 |
 | Odluka o eskontnoj stopi Narodne banke Hrvatske za lipanj 1993. godine | [`odluka/1993/988/`](odluka/1993/988/) | in force | 1 | 1993-05-31 | 1993-05-31 |
+| Odluka o usvajanju Liste lijekova koji se mogu propisivati osiguranicima Republičkog fonda zdravstvenog osiguranja i zdravstva Hrvatske | [`odluka/1993/989/`](odluka/1993/989/) | cited later, not consolidated | 1 | 1993-05-31 | 1993-05-31 |
+| Odluka o ograničenju prava korištenja zdravstvene zaštite u inozemstvu | [`odluka/1993/990/`](odluka/1993/990/) | cited later, not consolidated | 1 | 1993-05-31 | 1993-05-31 |
+| Odluka o prestanku isplaćivanja sredstava osiguranicima Republičkog fonda zdravstvenog osiguranja i zdravstva Hrvatske za lijekove koji se primjenjuju u bolničkom liječenju i za materijale koji se kod | [`odluka/1993/991/`](odluka/1993/991/) | in force | 1 | 1993-05-31 | 1993-05-31 |
+| Odluka o izmjenama i dopunama Odluke o osnovama za sklapanje ugovora o provođenju zdravstvene zaštite u 1993. godini | [`odluka/1993/992/`](odluka/1993/992/) | amended, not consolidated | 1 | 1993-05-31 | 1993-05-31 |
+| Odluka o dopuni Odluke o sudjelovanju osiguranika u troškovima zdravstvene zaštite | [`odluka/1993/993/`](odluka/1993/993/) | amending act | 1 | 1993-05-31 | 1993-05-31 |
 | Odluka o obveznicima, osnovicama i visini sredstava za zdravstvenu zaštitu i drugim pravima iz zdravstvenog osiguranja | [`odluka/1993/994/`](odluka/1993/994/) | in force | 1 | 1993-06-08 | 1993-06-08 |
 | Odluka o izmjeni i dopuni Odluke o utvrđivanju visine iznosa sredstava koje Republički fond zdravstvenog osiguranja i zdravstva Hrvatske osigurava za isplatu plaća zdravstvenih djelatnika pripravnika | [`odluka/1993/995/`](odluka/1993/995/) | amending act | 1 | 1993-05-31 | 1993-05-31 |
 | Odluka o suglasnosti na povećanje cijena električne energije | [`odluka/1993/1002/`](odluka/1993/1002/) | replaced, not consolidated | 1 | 1993-06-22 | 1993-06-22 |
@@ -2901,27 +2965,41 @@
 | Odluka o privremenom financiranju javnih potreba i Privremenom proračunu Republike Hrvatske u prvom tromjesečju 1994. godine | [`odluka/1993/2285/`](odluka/1993/2285/) | cited later, not consolidated | 1 | 1993-12-31 | 1993-12-31 |
 | Odluka o davanju pomoći županijama odnosno općinama u sastavu županija za djelomično ublažavanje posljedica štete od elementarnih nepogoda u 1993. godini | [`odluka/1993/2286/`](odluka/1993/2286/) | amended, not consolidated | 1 | 1994-01-01 | 1994-01-01 |
 | Odluka o valorizaciji katastarskoga prihoda | [`odluka/1993/2287/`](odluka/1993/2287/) | amended, not consolidated | 1 | 1993-12-31 | 1993-12-31 |
+| Odluka o određivanju najnižih svota na koje se mora ugovoriti osiguranje zrakoplova od odgovornosti za štete trećim osobama pri uporabi zrakoplova | [`odluka/1994/1/`](odluka/1994/1/) | replaced, not consolidated | 1 | 1994-01-07 | 1994-01-07 |
 | Odluka o izmjenama Odluke o visini naknade za korištenje voda | [`odluka/1994/2/`](odluka/1994/2/) | in force | 1 | 1994-01-07 | 1994-01-07 |
 | Odluka o izmjenama Odluke o visini naknade za zaštitu voda | [`odluka/1994/3/`](odluka/1994/3/) | in force | 1 | 1994-01-07 | 1994-01-07 |
 | Odluka o osnivanju veleposlanstva Republike Hrvatske u Argentini sa sjedištem u Buenos Airesu | [`odluka/1994/17/`](odluka/1994/17/) | in force | 1 | 1994-01-06 | 1994-01-06 |
 | Odluka o prestanku važenja Odluke o visini posebne pristojbe (prelevmana) pri uvozu šećera | [`odluka/1994/19/`](odluka/1994/19/) | in force | 1 | 1994-01-12 | 1994-01-12 |
+| Odluku o osnovama za sklapanje ugovora sa zdravstvenim ustanovama i zdravstvenim djelatnicima privatne prakse za 1994. godinu | [`odluka/1994/77/`](odluka/1994/77/) | amended, not consolidated | 1 | 1994-01-14 | 1994-01-14 |
 | Odluka o obvezi ovlaštenih banaka da drže određeni iznos u devizama kao minimalnu rezervu za održavanje likvidnosti u plaćanjima prema inozemstvu u 1994. godini | [`odluka/1994/83/`](odluka/1994/83/) | in force | 1 | 1994-01-19 | 1994-01-19 |
+| Odluka o izmjeni Odluke o načinu i uvjetima korištenja obvezne rezerve banaka za održavanje njihove dnevne likvidnosti | [`odluka/1994/84/`](odluka/1994/84/) | in force | 1 | 1994-01-19 | 1994-01-19 |
 | Odluka o izmjeni Odluke o visini godišnje naknade za uporabu cesta što se plaća na cestovna motorna i priključna vozila | [`odluka/1994/94/`](odluka/1994/94/) | in force | 1 | 1994-01-29 | 1994-01-29 |
 | Odluka o dopuni Odluke o utvrđivanju plaće predsjednika Vlade Republike Hrvatske, potpredsjednika Vlade Republike Hrvatske, ministara, drugih članova Vlade te dužnosnika koje imenuje i razrješava Vlad | [`odluka/1994/105/`](odluka/1994/105/) | amending act | 1 | 1994-01-28 | 1994-01-28 |
 | Odluka o dopuni Odluke o koeficijentima za utvrđivanje plaća djelatnika zaposlenih u organima i tijelima kojima se sredstva za rad osiguravaju u državnom proračunu | [`odluka/1994/106/`](odluka/1994/106/) | amending act | 1 | 1994-01-28 | 1994-01-28 |
 | Odluka o utvrđivanju općeg interesa za izgradnju međudržavnog graničnog prijelaza Harmica - Dobova | [`odluka/1994/107/`](odluka/1994/107/) | in force | 1 | 1994-01-28 | 1994-01-28 |
+| Odluka o visini dnevnice za službeno putovanje i visini naknada za korisnike koji se financiraju iz sredstava državnog proračuna | [`odluka/1994/110/`](odluka/1994/110/) | repealed, not consolidated | 1 | 1994-01-28 | 1994-01-28 |
 | Odluka o visini kvota za korištenje kredita iz primarne emisije za veljaču 1994. godine | [`odluka/1994/117/`](odluka/1994/117/) | in force | 1 | 1994-02-01 | 1994-02-01 |
+| Odluka o izmjeni Odluke o kamatnim stopama Narodne banke Hrvatske | [`odluka/1994/118/`](odluka/1994/118/) | in force | 1 | 1994-02-01 | 1994-02-01 |
 | Odluka o izmjeni Odluke o potvrđivanju dozvola za osnivanje banke | [`odluka/1994/119/`](odluka/1994/119/) | in force | 1 | 1994-02-01 | 1994-02-01 |
+| Odluka o prirezu na porez na dohodak grada Osijeka | [`odluka/1994/121/`](odluka/1994/121/) | in force | 1 | 1994-02-09 | 1994-02-09 |
+| Odluka o početnoj vrijednosti poljoprivrednog zemljišta u vlasništvu države kod prodaje putem natječaja ili javnog prikupljanja ponuda | [`odluka/1994/128/`](odluka/1994/128/) | repealed, not consolidated | 1 | 1994-02-12 | 1994-02-12 |
 | Odluka o izmjeni Odluke o obvezi stavljanja u promet određenih količina brašna i kruha tipa 850 | [`odluka/1994/129/`](odluka/1994/129/) | in force | 1 | 1994-02-04 | 1994-02-04 |
 | Odluka o izmjeni Odluke o visini naknade za javne ceste | [`odluka/1994/130/`](odluka/1994/130/) | in force | 1 | 1994-02-12 | 1994-02-12 |
 | Odluka o davanju poslovne zgrade Republike Hrvatske u Supetru na otoku Braću na uporabu (posjed) Općinskom sudu u Supetru | [`odluka/1994/131/`](odluka/1994/131/) | in force | 1 | 1994-02-04 | 1994-02-04 |
 | Odluku o utvrđivanju općeg interesa za izgradnju cestovnog mosta na rijeci Kupi s pristupnim dionicama ceste | [`odluka/1994/132/`](odluka/1994/132/) | in force | 1 | 1994-02-04 | 1994-02-04 |
 | Odluka o primjeni odredaba Odluke o obveznicima, osnovicama i visini sredstava za zdravstvenu zaštitu i drugim pravima iz zdravstveng osiguranja | [`odluka/1994/171/`](odluka/1994/171/) | in force | 1 | 1994-02-10 | 1994-02-10 |
+| Odluka o kriterijima i planu uvođenja doplatnih maraka | [`odluka/1994/180/`](odluka/1994/180/) | amended, not consolidated | 1 | 1994-02-10 | 1994-02-10 |
 | Odluka o izmjeni i dopuni Odluke o plaćanju posebne pristojbe na uvezenu robu u 1994. godini | [`odluka/1994/181/`](odluka/1994/181/) | amending act | 1 | 1994-02-11 | 1994-02-11 |
+| Odluka o dopuni Odluke o kriterijima za carinski kontingent | [`odluka/1994/182/`](odluka/1994/182/) | amending act | 1 | 1994-02-11 | 1994-02-11 |
 | Odluka o utvrđivanju općeg interesa za rekonstrukciju spomeničkog kompleksa "Medvedgrad" | [`odluka/1994/183/`](odluka/1994/183/) | in force | 1 | 1994-02-11 | 1994-02-11 |
+| Odluka o usvajanju liste lijekova za primjenu u bolnicama u 1994. godini | [`odluka/1994/197/`](odluka/1994/197/) | amended, not consolidated | 1 | 1994-02-11 | 1994-02-11 |
+| Odluka o visini i načinu obračuna naknade za vađenje pijeska, šljunka i kamena | [`odluka/1994/198/`](odluka/1994/198/) | repealed, not consolidated | 1 | 1994-02-11 | 1994-02-11 |
+| Odluka o prirezu na porez na dohodak grada Dubrovnika | [`odluka/1994/223/`](odluka/1994/223/) | amended, not consolidated | 1 | 1994-02-25 | 1994-02-25 |
 | Odluka o izmjeni Odluke o ograničenju izvoza određenih proizvoda | [`odluka/1994/249/`](odluka/1994/249/) | in force | 1 | 1994-02-25 | 1994-02-25 |
 | Odluka o privremenom usklađivanju doplatka za djecu od 1. siječnja 1994. | [`odluka/1994/269/`](odluka/1994/269/) | in force | 1 | 1994-03-01 | 1994-03-01 |
 | Odluka o privremenom usklađivanju mirovina individualnih poljoprivrednika od 1. siječnja 1994. | [`odluka/1994/270/`](odluka/1994/270/) | in force | 1 | 1994-03-01 | 1994-03-01 |
+| Odluka o određivanju privremene zajamčene najniže svote koja se isplaćuje korisniku mirovine od 1. siječnja 1994. | [`odluka/1994/271/`](odluka/1994/271/) | cited later, not consolidated | 1 | 1994-03-01 | 1994-03-01 |
+| Odluka o privremenoj graničnoj svoti najnižega mirovinskog primanja radi određivanja zaštitnog dodatka uz mirovinu od 1. siječnja 1994. | [`odluka/1994/272/`](odluka/1994/272/) | cited later, not consolidated | 1 | 1994-03-01 | 1994-03-01 |
 | Odluka o privremenoj visini minimalne mirovine od 1. siječnja 1994. | [`odluka/1994/273/`](odluka/1994/273/) | in force | 1 | 1994-03-01 | 1994-03-01 |
 | Odluka o određivanju privremene osnovice za utvrđivanje novčane naknade za tjelesno oštećenje od 1. siječnja 1994. | [`odluka/1994/274/`](odluka/1994/274/) | in force | 1 | 1994-03-01 | 1994-03-01 |
 | Odluka o posebnim uvjetima i kriterijima pod kojima se smatra da je članovima poljoprivrednog kućanstva bavljenje poljoprivredom jedino ili glavno zanimanje | [`odluka/1994/276/`](odluka/1994/276/) | in force | 1 | 1994-03-01 | 1994-03-01 |
@@ -2930,132 +3008,311 @@
 | Odluka o izmjeni Odluke o visini i načinu formiranja posebnih rezervi za osiguranje od potencijalnih gubitaka | [`odluka/1994/286/`](odluka/1994/286/) | in force | 1 | 1994-03-01 | 1994-03-01 |
 | Odluka o izmjeni Odluke o načinu raspoređivanja rizične aktive i odgovarajućih izvanbilančnih stavki banaka i štedionica | [`odluka/1994/287/`](odluka/1994/287/) | in force | 1 | 1994-03-01 | 1994-03-01 |
 | Odluku o visini kvota za korištenje kredita iz primarne emisije za ožujak 1994. godine | [`odluka/1994/288/`](odluka/1994/288/) | in force | 1 | 1994-03-01 | 1994-03-01 |
+| Odluka o izmjeni Odluke o načinu i uvjetima korištenja obvezne rezerve banaka za održavanje njihove dnevne likvidnosti | [`odluka/1994/289/`](odluka/1994/289/) | in force | 1 | 1994-03-01 | 1994-03-01 |
+| Odluka o kamatnim stopama Narodne banke Hrvatske | [`odluka/1994/290/`](odluka/1994/290/) | repealed, not consolidated | 1 | 1994-03-01 | 1994-03-01 |
+| Odluka o obveznoj rezervi banaka kod Narodne banke Hrvatske | [`odluka/1994/291/`](odluka/1994/291/) | repealed, not consolidated | 1 | 1994-03-01 | 1994-03-01 |
+| Odluka o eskontnoj stopi Narodne banke Hrvatske | [`odluka/1994/292/`](odluka/1994/292/) | replaced, not consolidated | 1 | 1994-03-01 | 1994-03-01 |
+| Odluka o prirezu na porez na dohodak Grada Vinkovca | [`odluka/1994/295/`](odluka/1994/295/) | amended, not consolidated | 1 | 1994-03-01 | 1994-03-01 |
 | Odluka o davanju suglasnosti za osnivanje Generalnog konzulata Republike Italije u Republici Hrvatskoj, sa sjedištem u Rijeci | [`odluka/1994/298/`](odluka/1994/298/) | in force | 1 | 1994-03-03 | 1994-03-03 |
 | Odluka o izmjenama i dopunama Tarife o nagradama i naknadi troškove za rad odvjetnika | [`odluka/1994/310/`](odluka/1994/310/) | amending act | 1 | 1994-03-04 | 1994-03-04 |
+| Odluka o kamatnoj stopi na dospjelu neplaćenu carinu i druge uvozne pristojbe | [`odluka/1994/334/`](odluka/1994/334/) | replaced, not consolidated | 1 | 1994-03-11 | 1994-03-11 |
 | Odluka o utvrdivanju iznosa za naknadu štete po osnovi osiguranja od automobilske odgovornosti | [`odluka/1994/335/`](odluka/1994/335/) | in force | 1 | 1994-03-11 | 1994-03-11 |
+| Odluka o određivanju najnižih svota na koje se mora ugovoriti osiguranje putnika u javnom prometu od posljedica nesretnoga slučaja | [`odluka/1994/336/`](odluka/1994/336/) | repealed, not consolidated | 1 | 1994-03-11 | 1994-03-11 |
+| Odluka o određivanju najnižih svota na koje se mora ugovoriti osiguranje zrakoplova od odgovornosti za štete trećim osobama pri uporabi zrakoplova | [`odluka/1994/337/`](odluka/1994/337/) | repealed, not consolidated | 1 | 1994-03-11 | 1994-03-11 |
+| Odluka o izmjeni Odluke o Hrvatskom komitetu za suradnju s Međunarodnim hidrološkim programom | [`odluka/1994/338/`](odluka/1994/338/) | in force | 1 | 1994-03-11 | 1994-03-11 |
 | Odluka o osnivanju Konzulata Republike Hrvatske u Holbaeku, Kraljevina Danska | [`odluka/1994/358/`](odluka/1994/358/) | in force | 1 | 1994-03-14 | 1994-03-14 |
+| Odluka o visini dnevnice za službeno putovanje i visini naknada za korisnike koji se financiraju iz sredstava državnog proračuna | [`odluka/1994/363/`](odluka/1994/363/) | repealed, not consolidated | 1 | 1994-03-23 | 1994-03-23 |
+| Odluka o kamatnoj stopi na dospjelu neplaćenu carinu i druge uvozne pristojbe | [`odluka/1994/371/`](odluka/1994/371/) | amended, not consolidated | 1 | 1994-03-23 | 1994-03-23 |
 | Odluka o zaštitnoj cijeni šećerne repe roda 1994. godine | [`odluka/1994/372/`](odluka/1994/372/) | in force | 1 | 1994-03-31 | 1994-03-31 |
 | Odluka o zaštitnim cijenama suncokreta i soje roda 1994. godine | [`odluka/1994/373/`](odluka/1994/373/) | in force | 1 | 1994-03-31 | 1994-03-31 |
 | Odluka o zaštitnoj cijeni sirovog duhana roda 1994. godine | [`odluka/1994/374/`](odluka/1994/374/) | in force | 1 | 1994-03-31 | 1994-03-31 |
 | Odluka o otvaranju sezonskog zračnog graničnog prijelaza za međunarodni promet u zračnoj luci "Brać" | [`odluka/1994/376/`](odluka/1994/376/) | in force | 1 | 1994-03-23 | 1994-03-23 |
 | Odluka o dopunama Odluke o kriterijima i planu uvođenja doplatnih maraka | [`odluka/1994/377/`](odluka/1994/377/) | amending act | 1 | 1994-03-22 | 1994-03-22 |
 | Odluku o osnovici i stopi doprinosa Savezu udruženja hrvatskih obrtnika za 1994. godinu | [`odluka/1994/391/`](odluka/1994/391/) | in force | 1 | 1994-03-23 | 1994-03-23 |
+| Odluka o razvrstavanju robe na oblike izvoza i uvoza | [`odluka/1994/413/`](odluka/1994/413/) | repealed, not consolidated | 1 | 1994-04-01 | 1994-04-01 |
+| Odluku o Državnom protokolu Republike Hrvatske | [`odluka/1994/415/`](odluka/1994/415/) | repealed, not consolidated | 1 | 1994-03-30 | 1994-03-30 |
+| Odluka o određivanju poljoprivrednih i prehrambenih proizvoda za koje se pri uvozu plaća posebna pristojba | [`odluka/1994/417/`](odluka/1994/417/) | repealed, not consolidated | 1 | 1994-04-01 | 1994-04-01 |
+| Odluka o visini posebne pristojbe koja se plaća pri izvozu određenih proizvoda | [`odluka/1994/418/`](odluka/1994/418/) | repealed, not consolidated | 1 | 1994-04-01 | 1994-04-01 |
 | Odluka o prestanku važenja Odluke o ograničenju uvoza određenih proizvoda | [`odluka/1994/419/`](odluka/1994/419/) | in force | 1 | 1994-04-01 | 1994-04-01 |
 | Odluka o prirezu na porez na dohodak Grada Šibenika | [`odluka/1994/423/`](odluka/1994/423/) | in force | 1 | 1994-04-06 | 1994-04-06 |
+| Odluka o obvezi banaka da drže određeni iznos u devizama ili likvidnim deviznim plasmanima | [`odluka/1994/443/`](odluka/1994/443/) | amended, not consolidated | 1 | 1994-04-11 | 1994-04-11 |
+| Odluka o sprečavanju izloženosti devizne pozicije banaka valutnom riziku | [`odluka/1994/444/`](odluka/1994/444/) | amended, not consolidated | 1 | 1994-04-11 | 1994-04-11 |
+| Odluka o načinu i rokovima dostavljanja izvješća o stanju sredstava banaka na računima u inozemstvu | [`odluka/1994/445/`](odluka/1994/445/) | amended, not consolidated | 1 | 1994-04-11 | 1994-04-11 |
+| Odluka o načinu i rokovima izvješća o odobrenim deviznim kreditima domaćim pravnim osobama | [`odluka/1994/446/`](odluka/1994/446/) | repealed, not consolidated | 1 | 1994-04-11 | 1994-04-11 |
+| Odluka o izmjeni Odluke o prestanku važenja Odluke o načinu i uvjetima odobravanja posebnog kredita po štednim ulozima i tekućim računima građana u hrvatskim dinarima | [`odluka/1994/447/`](odluka/1994/447/) | in force | 1 | 1994-04-11 | 1994-04-11 |
+| Odluka o izmjeni Odluke o kamatnim stopama Narodne banke Hrvatske | [`odluka/1994/448/`](odluka/1994/448/) | in force | 1 | 1994-04-11 | 1994-04-11 |
 | Odluka o izmjeni Odluke o načinu i uvjetima odobravanja kredita bankama za održavanje dnevne likvidnosti | [`odluka/1994/449/`](odluka/1994/449/) | in force | 1 | 1994-04-11 | 1994-04-11 |
+| Odluku o izdavanju zlatnog dukata | [`odluka/1994/451/`](odluka/1994/451/) | amended, not consolidated | 1 | 1994-04-11 | 1994-04-11 |
+| Odluka o osnovicama, stopama, načinu obračuna i plaćanju sredstava za ostvarivanje prava iz obveznog zdravstvenog osiguranja | [`odluka/1994/453/`](odluka/1994/453/) | amended, not consolidated | 1 | 1994-04-19 | 1994-04-19 |
 | Odluka o privremenom usklađivanju mirovina od 1. siječnja 1994. | [`odluka/1994/454/`](odluka/1994/454/) | in force | 1 | 1994-04-12 | 1994-04-12 |
 | Odluka o valorizacijskim koeficijentima za preračunavanje plaća iz prijašnjih godina prema razini plaća iz godine 1993. | [`odluka/1994/455/`](odluka/1994/455/) | in force | 1 | 1994-04-12 | 1994-04-12 |
 | Odluka o valorizacijskim koeficijentima za preračunavanje plaća iz prijašnjih godina prema razini plaća iz godine 1993. radi određivanja naknade plaće na drugom poslu | [`odluka/1994/456/`](odluka/1994/456/) | in force | 1 | 1994-04-12 | 1994-04-12 |
+| Odluka o najnižoj svoti naknade plaće u svezi s pravom na prekvalifikaciju ili dokvalifikaciju i naknade plaće u svezi s pravom na zaposlenje od 1. siječnja 1994. | [`odluka/1994/457/`](odluka/1994/457/) | replaced, not consolidated | 1 | 1994-04-12 | 1994-04-12 |
+| Odluka o osnovicama za obračunavanje i plaćanje doprinosa i za ostvarivanje prava iz mirovinskog i invalidskog osiguranja za osobe koje osobnim radom, samostalno, u obliku zanimanja obavljaju profesi | [`odluka/1994/458/`](odluka/1994/458/) | replaced, not consolidated | 1 | 1994-04-19 | 1994-04-19 |
+| Odluka o osnovicama za obračunavanje i plaćanje doprinosa i za ostvarivanje prava iz mirovinskog i invalidskog osiguranja osiguranika zaposlenih u inozemstvu | [`odluka/1994/459/`](odluka/1994/459/) | replaced, not consolidated | 1 | 1994-04-19 | 1994-04-19 |
+| Odluka o osnovicama osiguranja za obračunavanje i plaćanje doprinosa i za ostvarivanje prava iz mirovinskog i invalidskog osiguranja za osiguranike koji su na području Republike Hrvatske zaposleni ko | [`odluka/1994/460/`](odluka/1994/460/) | replaced, not consolidated | 1 | 1994-04-19 | 1994-04-19 |
+| Odluku o osnovicama osiguranja koje se uzimaju za obračunavanje i plaćanje doprinosa i za određivanje prava iz mirovinskog i invalidskog osiguranja za osobe koje se nakon završene izobrazbe nalaze na | [`odluka/1994/461/`](odluka/1994/461/) | replaced, not consolidated | 1 | 1994-04-19 | 1994-04-19 |
+| Odluka o osnovicama osiguranja za obračunavanje i plaćanje doprinosa i za ostvarivanje prava iz mirovinskog i invalidskog osiguranja za produženo mirovinsko i invalidsko osiguranje | [`odluka/1994/462/`](odluka/1994/462/) | repealed, not consolidated | 1 | 1994-04-19 | 1994-04-19 |
+| Odluka o stalnim svotama doprinosa za mirovinsko i invalidsko osiguranje osoba osiguranih u određenim okolnostima | [`odluka/1994/463/`](odluka/1994/463/) | replaced, not consolidated | 1 | 1994-04-19 | 1994-04-19 |
+| Odluka o osnovicama za određivanje prava i za obračunavanje i plaćanje doprinosa za mirovinsko i invalidsko osiguranje za osiguranike privremeno izvan radnog odnosa | [`odluka/1994/464/`](odluka/1994/464/) | replaced, not consolidated | 1 | 1994-04-19 | 1994-04-19 |
+| Odluka o osnovici za obračunavanje i plaćanje doprinosa za mirovinsko i invalidsko osiguranje za osiguranike na neplaćenom dopustu, pod suspenzijom, u istražnom zatvoru i na izdržavanju kazne zatvora | [`odluka/1994/465/`](odluka/1994/465/) | replaced, not consolidated | 1 | 1994-04-19 | 1994-04-19 |
+| Odluka o usklađivanju doplatka za djecu i cenzusa prihoda kao uvjeta za stjecanje prava na doplatak za djecu u godini 1994. | [`odluka/1994/466/`](odluka/1994/466/) | cited later, not consolidated | 1 | 1994-04-12 | 1994-04-12 |
 | Odluka o usklađivanju mirovina individualnih poljoprivrednika od 1. siječnja 1994. | [`odluka/1994/467/`](odluka/1994/467/) | in force | 1 | 1994-04-12 | 1994-04-12 |
 | Odluka o određivanju osnovice za utvrđivanje novčane naknade za tjelesno oštećenje od 1. siječnja 1994. | [`odluka/1994/474/`](odluka/1994/474/) | in force | 1 | 1994-04-12 | 1994-04-12 |
 | Odluka o uvjetima pod kojima se smatra da je osiguranik uzdržavao člana obitelji i o uvjetima prestanka prava na mirovinu uslijed nastale promjene u imovnom stanju, odnosno prihodima, u godini 1994.2 | [`odluka/1994/475/`](odluka/1994/475/) | in force | 1 | 1994-04-12 | 1994-04-12 |
 | Odluka o privremenom usklađivanju mirovina od 1. sijećnja 1994. | [`odluka/1994/476/`](odluka/1994/476/) | in force | 1 | 1994-04-12 | 1994-04-12 |
 | Odluka o valorizacijskim koeficijentima za preračunavanje osnovice osiguranja i plaća iz prijašnjih godina prema razini plaća iz godine 1993. | [`odluka/1994/477/`](odluka/1994/477/) | in force | 1 | 1994-04-12 | 1994-04-12 |
+| Odluka o najnižoj svoti naknade plaće u svezi s pravom na prekvalifikaciju ili dokvalifikaciju i naknade plaće u svezi s pravom na zaposlenje od 1. siječnja 1994. | [`odluka/1994/478/`](odluka/1994/478/) | replaced, not consolidated | 1 | 1994-04-12 | 1994-04-12 |
+| Odluka o opsegu kontingenata za izvoz i uvoz robe u 1994. godini | [`odluka/1994/488/`](odluka/1994/488/) | repealed, not consolidated | 1 | 1994-04-06 | 1994-04-06 |
 | Odluka o izmjenama Odluke o mjerilima za određivanje plaće i drugih primanja sudaca i drugih nositelja pravosudnih dužnosti | [`odluka/1994/497/`](odluka/1994/497/) | in force | 1 | 1994-04-08 | 1994-04-08 |
+| Odluka o visini dnevnice za službeno putovanje i visini naknada za korisnike koji se financiraju iz sredstava državnog proračuna | [`odluka/1994/515/`](odluka/1994/515/) | replaced, not consolidated | 1 | 1994-04-11 | 1994-04-11 |
 | Odluka o osnivanju Odbora za gospodarske odnose s inozemstvom | [`odluka/1994/517/`](odluka/1994/517/) | in force | 1 | 1994-04-11 | 1994-04-11 |
+| Odluka o visini doprinosa u korist Hrvatskog Crvenog križa | [`odluka/1994/562/`](odluka/1994/562/) | repealed, not consolidated | 1 | 1994-04-15 | 1994-04-15 |
+| Odluka o darovanju poljoprivrednog zemljišta u vlasništvu Republike Hrvatske Gradu Valpovu | [`odluka/1994/563/`](odluka/1994/563/) | in force | 1 | 1994-04-15 | 1994-04-15 |
 | Odluka o izmjeni Odluke o plaćanju posebne pristojbe na uvezenu robu u 1994. godini | [`odluka/1994/591/`](odluka/1994/591/) | in force | 1 | 1994-05-01 | 1994-05-01 |
+| Odluka o osnivanju i zadaćama Odbora za obnovu Osječke Tvrđe | [`odluka/1994/600/`](odluka/1994/600/) | repealed, not consolidated | 1 | 1994-05-07 | 1994-05-07 |
 | Odluka o izmjeni Odluke o kriterijima za carinski kontingent | [`odluka/1994/601/`](odluka/1994/601/) | in force | 1 | 1994-04-29 | 1994-04-29 |
 | Odluka o osnivanju Generalnoga konzulata Republike Hrvatske u Milanu, Republika Italija | [`odluka/1994/618/`](odluka/1994/618/) | in force | 1 | 1994-04-26 | 1994-04-26 |
+| Odluka o utvrđivanju iznosa za naknadu štete po osnovi osiguranja vlasnika, odnosno korisnika brodica na motorni pogon od odgovornosti za štete nanesene trećim osobama | [`odluka/1994/622/`](odluka/1994/622/) | repealed, not consolidated | 1 | 1994-05-04 | 1994-05-04 |
+| Odluka o dopuni Odluke o sprečavanju izloženosti devizne pozicije banaka valutnom riziku | [`odluka/1994/638/`](odluka/1994/638/) | amended, not consolidated | 1 | 1994-05-04 | 1994-05-04 |
+| Odluka o izmjeni Odluke o obvezi banaka da drže određeni iznos u devizama ili likvidnim deviznim plasmanima | [`odluka/1994/639/`](odluka/1994/639/) | amended, not consolidated | 1 | 1994-05-04 | 1994-05-04 |
+| Odluka o eskontnoj stopi Narodne banke Hrvatske | [`odluka/1994/640/`](odluka/1994/640/) | replaced, not consolidated | 1 | 1994-05-04 | 1994-05-04 |
+| Odluka o kamatnim stopama Narodne banke Hrvatske | [`odluka/1994/641/`](odluka/1994/641/) | repealed, not consolidated | 1 | 1994-05-04 | 1994-05-04 |
 | Odluka o povratu kredita korištenih temeljem Odluke o visini kvota za korištenje kredita iz primarne emisije za travanj 1994. godine | [`odluka/1994/642/`](odluka/1994/642/) | in force | 1 | 1994-05-04 | 1994-05-04 |
+| Odluka o odobrenju zamjene nekretnine u vlasništvu Republike Hrvatske | [`odluka/1994/648/`](odluka/1994/648/) | in force | 1 | 1994-05-06 | 1994-05-06 |
 | Odluka o prijenosu nekretnina u vlasništvu Republike Hrvatske Hrvatskom Crvenom križu | [`odluka/1994/649/`](odluka/1994/649/) | in force | 1 | 1994-05-06 | 1994-05-06 |
 | Odluka o kupnji nekretnine za potrebe Otvorenog kaznenog zavoda Valtura - Pula | [`odluka/1994/650/`](odluka/1994/650/) | in force | 1 | 1994-05-06 | 1994-05-06 |
 | Odluka o osnivanju Generalnoga konzulata Republike Hrvatske u Južnoafričkoj Republici, sa sjedištem u Johannesburgu | [`odluka/1994/659/`](odluka/1994/659/) | in force | 1 | 1994-05-05 | 1994-05-05 |
+| Odluka o prestanku važenja Odluke o uvođenju hrvatskog dinara kao sredstva plaćanja na teritoriju Republike Hrvatske, te o načinu i vremenu preračunavanja iznosa izraženih u hrvatskim dinarima u kune | [`odluka/1994/665/`](odluka/1994/665/) | in force | 1 | 1994-05-13 | 1994-05-13 |
+| Odluka o oslobađanju plaćanja posebne pristojbe (prelevmana) pri uvozu šećera | [`odluka/1994/666/`](odluka/1994/666/) | repealed, not consolidated | 1 | 1994-05-14 | 1994-05-14 |
 | Odluka o izuzimanju nekretnina u k.o. Otočac od zabrane prijenosa prava raspolaganja i korištenja | [`odluka/1994/667/`](odluka/1994/667/) | in force | 1 | 1994-05-13 | 1994-05-13 |
+| Odluka o izdavanju novčanica i kovanog novca koji glase na novčanu jedinicu Republike Hrvatske | [`odluka/1994/682/`](odluka/1994/682/) | amended, not consolidated | 1 | 1994-05-13 | 1994-05-13 |
+| Odluka o zamjeni novčanica hrvatskog dinara za novčanice i kovani novac koji glase na kunu i lipu | [`odluka/1994/685/`](odluka/1994/685/) | amended, not consolidated | 1 | 1994-05-13 | 1994-05-13 |
 | Odluka o povlačenju iz optjecaja novčanica hrvatskog dinara | [`odluka/1994/686/`](odluka/1994/686/) | in force | 1 | 1994-05-13 | 1994-05-13 |
+| Odluka o prodajnoj cijeni zlatnog dukata | [`odluka/1994/688/`](odluka/1994/688/) | cited later, not consolidated | 1 | 1994-05-13 | 1994-05-13 |
+| Odluka o visini dnevnice za službeno putovanje i visini naknada za korisnike koji se financiraju iz sredstava državnog proračuna | [`odluka/1994/699/`](odluka/1994/699/) | repealed, not consolidated | 1 | 1994-05-19 | 1994-05-19 |
 | Odluka o izmjeni Odluke o kriterijima za određivanje koeficijenata za utvrđivanje plaće sucima i drugim nositeljima pravosudnih dužnosti kojima je koeficijent utvrđen u rasponu | [`odluka/1994/700/`](odluka/1994/700/) | in force | 1 | 1994-05-19 | 1994-05-19 |
 | Odluka o podjeli Doma umirovljenika Split na dvije javne ustanove | [`odluka/1994/701/`](odluka/1994/701/) | in force | 1 | 1994-05-19 | 1994-05-19 |
 | Odluka o izmjeni Odluke o osnivanju Komisije za invalide u Republici Hrvatskoj | [`odluka/1994/702/`](odluka/1994/702/) | in force | 1 | 1994-05-19 | 1994-05-19 |
 | Odluka o otvaranju sezonskog graničnog prijelaza u luci Hvar | [`odluka/1994/703/`](odluka/1994/703/) | in force | 1 | 1994-05-19 | 1994-05-19 |
 | Odluka o naknadi za troškove smještaja i prehrane za vrijeme prekvalifikacije ili dokvalifikacije izvan mjesta prebivališta korisnika u godini 1994. | [`odluka/1994/709/`](odluka/1994/709/) | in force | 1 | 1994-05-20 | 1994-05-20 |
+| Odluka o visini prihoda kućanstva korisnika mirovine o kojima ovisi stjecanje prava na zaštitni dodatak uz mirovinu u godini 1994. | [`odluka/1994/710/`](odluka/1994/710/) | replaced, not consolidated | 1 | 1994-05-20 | 1994-05-20 |
+| Odluka o uvjetima pod kojima se smatra da je osiguranik uzdržavao članove obitelji kao i o uvjetima prestanka prava na obiteljsku mirovinu uslijed nastale promjene u imovnom stanju odnosno prihodima | [`odluka/1994/711/`](odluka/1994/711/) | in force | 1 | 1994-05-20 | 1994-05-20 |
 | Odluka o naknadi putnih troškova u svezi s ostvarivanjem prava iz mirovinskog i invalidskog osiguranja i najvišoj svoti naknade selidbenih troškova za godinu 1994. | [`odluka/1994/712/`](odluka/1994/712/) | in force | 1 | 1994-05-20 | 1994-05-20 |
 | Odluka o raspoređivanju sredstava za isplatu jednokratne novčane pomoći u godini 1994. | [`odluka/1994/713/`](odluka/1994/713/) | in force | 1 | 1994-05-19 | 1994-05-19 |
+| Odluka o visini prihoda kućanstva korisnika mirovine o kojima ovisi stjecanje prava na zaštitni dodatak uz mirovinu u godini 1994. | [`odluka/1994/714/`](odluka/1994/714/) | replaced, not consolidated | 1 | 1994-05-20 | 1994-05-20 |
+| Odluka o izmjeni Odluke o otpremnini bračnom drugu | [`odluka/1994/715/`](odluka/1994/715/) | in force | 1 | 1994-05-20 | 1994-05-20 |
+| Odluka o izmjeni Odluke o naknadi dijela troškova za smještaj djece ometene u psihičkom ili fizičkom razvoju u organizacijama internatskog tipa | [`odluka/1994/716/`](odluka/1994/716/) | in force | 1 | 1994-05-20 | 1994-05-20 |
+| Odluka o uvjetima pod kojima se smatra da je osiguranik uzdržavao članove obitelji kao i o uvjetima prestanka prava na obiteljsku mirovinu uslijed nastale promjene u imovnom stanju odnosno prihodima | [`odluka/1994/717/`](odluka/1994/717/) | in force | 1 | 1994-05-20 | 1994-05-20 |
 | Odluka o izmjeni Odluke o novčanoj nadoknadi udovici osiguranika koja nije stekla pravo na obiteljsku mirovinu | [`odluka/1994/718/`](odluka/1994/718/) | in force | 1 | 1994-05-20 | 1994-05-20 |
 | Odluka o jednokratnoj godišnjoj novčanoj pomoći u godini 1994. | [`odluka/1994/719/`](odluka/1994/719/) | in force | 1 | 1994-05-19 | 1994-05-19 |
 | Odluka o primjeni Liste lijekova koji se osiguranim osobama mogu propisivati na teret sredstava Hrvatskog zavoda za zdravstveno osiguranje tijekom 1994. godine | [`odluka/1994/720/`](odluka/1994/720/) | in force | 1 | 1994-05-19 | 1994-05-19 |
 | Odluka o stavljanju izvan snage Odluke o ovlaštenim liječnicima nadležnim za utvrđivanje privremene spriječenosti za rad | [`odluka/1994/721/`](odluka/1994/721/) | in force | 1 | 1994-05-19 | 1994-05-19 |
+| Odluka o izmjeni i dopuni odluke o kontnom planu za banke i štedionice | [`odluka/1994/736/`](odluka/1994/736/) | amended, not consolidated | 1 | 1994-05-23 | 1994-05-23 |
+| Odluka o izmjenama Odluke o gradskim porezima i o prirezu na porez na dohodak | [`odluka/1994/737/`](odluka/1994/737/) | amended, not consolidated | 1 | 1994-05-31 | 1994-05-31 |
 | Odluka o izmjeni Odluke o rasporedivanju sredstava bivše Poštanske štedionice Beograd | [`odluka/1994/745/`](odluka/1994/745/) | in force | 1 | 1994-05-27 | 1994-05-27 |
 | Odluka o davanju suglasnosti za osnivanje Konzulata Republike Bosne i Hercegovine u Republici Hrvatskoj, sa sjedištem u Splita | [`odluka/1994/746/`](odluka/1994/746/) | in force | 1 | 1994-05-26 | 1994-05-26 |
 | Odluka o davanju nekretnine Republike Hrvatske u Platu-Dubrovnik na uporabu (posjed) Ministarstvu unutarnjih poslova | [`odluka/1994/747/`](odluka/1994/747/) | in force | 1 | 1994-05-27 | 1994-05-27 |
 | Odluka o zamjeni poljoprivrednog zemljišta u vlasništvu države | [`odluka/1994/748/`](odluka/1994/748/) | in force | 1 | 1994-05-27 | 1994-05-27 |
 | Odluka o davanju suglasnosti za gradnju objekata na nekretninama u vlasništvu Republike Hrvatske, k. o. Goričan | [`odluka/1994/749/`](odluka/1994/749/) | in force | 1 | 1994-05-27 | 1994-05-27 |
 | Odluka o izmjenama i dopuni Poslovnika Zastupničkog doma Sabora Republike Hrvatske | [`odluka/1994/761/`](odluka/1994/761/) | amending act | 1 | 1994-05-24 | 1994-05-24 |
+| Odluka o izmjeni Odluke o obveznoj rezervi banaka kod Narodne banke Hrvatske | [`odluka/1994/786/`](odluka/1994/786/) | in force | 1 | 1994-06-03 | 1994-06-03 |
 | Odluka o izmjeni Odluke o izdavanju novčanica i kovanog novca koji glase na novčanu jedinicu Republike Hrvatske | [`odluka/1994/787/`](odluka/1994/787/) | in force | 1 | 1994-06-03 | 1994-06-03 |
+| Odluka o iznošenju i unošenju efektivnih kuna u putničkom prometu s inozemstvom | [`odluka/1994/788/`](odluka/1994/788/) | amended, not consolidated | 1 | 1994-06-03 | 1994-06-03 |
 | Odluka o davanju suglasnosti za osnivanje Konzulata Republike Austrije u Republici Hrvatskoj, sa sjedištem u Rijeci | [`odluka/1994/796/`](odluka/1994/796/) | in force | 1 | 1994-06-02 | 1994-06-02 |
 | Odluka o udjelu u zajedničkom prihodu od posebnog poreza na naftne derivate u 1994. godini | [`odluka/1994/833/`](odluka/1994/833/) | in force | 1 | 1994-06-20 | 1994-06-20 |
 | Odluka o izmjenama Odluke o plaćanju posebne pristojbe na uvezenu robu u 1994. godini | [`odluka/1994/834/`](odluka/1994/834/) | in force | 1 | 1994-07-01 | 1994-07-01 |
+| Odluka o otvaranju sezonskog zračnog graničnog prijelaza u Zračnoj luci Vrsar | [`odluka/1994/835/`](odluka/1994/835/) | cited later, not consolidated | 1 | 1994-06-20 | 1994-06-20 |
+| Odluka o otvaranju sezonskog graničnog prijelaza u luci Vis | [`odluka/1994/836/`](odluka/1994/836/) | cited later, not consolidated | 1 | 1994-06-20 | 1994-06-20 |
 | Odluka o izmjeni Odluke o zaštitnoj cijeni pšenice roda 1994. godine | [`odluka/1994/843/`](odluka/1994/843/) | in force | 1 | 1994-06-25 | 1994-06-25 |
 | Odluka o izmjeni Odluke o zaštitnoj cijeni uljane repice roda 1994. godine | [`odluka/1994/844/`](odluka/1994/844/) | in force | 1 | 1994-06-25 | 1994-06-25 |
 | Odluka o izmjenama Odluke o mjerilima za određivanje plaće i drugih prirnanja sudaca Ustavnog suda Republike Hrvatske | [`odluka/1994/861/`](odluka/1994/861/) | in force | 1 | 1994-06-30 | 1994-06-30 |
+| Odluka o izmjenama Odluke o razvrstavanju robe na oblike izvoza i uvoza | [`odluka/1994/869/`](odluka/1994/869/) | in force | 1 | 1994-06-30 | 1994-06-30 |
 | Odluka o izmjeni Odluke o kamatnoj stopi na dospjelu neplaćenu carinu i druge uvozne pristojbe | [`odluka/1994/871/`](odluka/1994/871/) | in force | 1 | 1994-06-30 | 1994-06-30 |
 | Odluka o izmjeni Odluke o određivanju robe i drugih stvari koje se uvoze s carinskog područja drugih republika u sklopu bivše SFRJ, a ne smatraju se carinskom robom | [`odluka/1994/872/`](odluka/1994/872/) | in force | 1 | 1994-07-01 | 1994-07-01 |
 | Odluka o dopuni Odluke o određivanju poljoprivrednih i prehrambenih proizvoda za koje se pri uvozu plaća posebna pristojba | [`odluka/1994/873/`](odluka/1994/873/) | amending act | 1 | 1994-06-30 | 1994-06-30 |
 | Odluka o utvrđivanju visine boravišne pristojbe za 1995. godinu | [`odluka/1994/874/`](odluka/1994/874/) | in force | 1 | 1994-06-30 | 1994-06-30 |
 | Odluka o darovanju nekretnina Gradu Gospiću | [`odluka/1994/875/`](odluka/1994/875/) | in force | 1 | 1994-06-30 | 1994-06-30 |
+| Odluka o eskontnoj stopi Narodne banke Hrvatske | [`odluka/1994/886/`](odluka/1994/886/) | replaced, not consolidated | 1 | 1994-07-01 | 1994-07-01 |
+| Odluka o kamatnim stopama Narodne banke Hrvatske | [`odluka/1994/887/`](odluka/1994/887/) | repealed, not consolidated | 1 | 1994-07-01 | 1994-07-01 |
+| Odluka o izmjeni Odluke o izdavanju blagajničkih zapisa Narodne banke Hrvatske | [`odluka/1994/888/`](odluka/1994/888/) | in force | 1 | 1994-07-01 | 1994-07-01 |
 | Odluka o izmjeni Odluke o prestanku važenja Odluke o načinu i uvjetima odobravanja posebnog kredita po štednim ulozima i tekućim računima građana u hrvatskim dinarima | [`odluka/1994/889/`](odluka/1994/889/) | in force | 1 | 1994-06-30 | 1994-06-30 |
+| Odluka o načinu održavanja minimalne likvidnosti banaka | [`odluka/1994/890/`](odluka/1994/890/) | repealed, not consolidated | 1 | 1994-07-01 | 1994-07-01 |
 | Odluka o dopuni Odluke o uvjetima pod kojima se domaća i strana valuta, ćekovi i drugi vrijednosni papiri mogu unositi i iznositi iz Republike Hrvatske u poštanskim i drugim pošiljkama | [`odluka/1994/891/`](odluka/1994/891/) | amending act | 1 | 1994-07-01 | 1994-07-01 |
+| Odluka o dopuni Odluke o sprečavanju izloženosti devizne pozicije banaka valutnom riziku | [`odluka/1994/892/`](odluka/1994/892/) | amended, not consolidated | 1 | 1994-07-01 | 1994-07-01 |
+| Odluka o izdavanju numizmatičkog kompleta kovanog novca Republike Hrvatske kuna i lipa | [`odluka/1994/894/`](odluka/1994/894/) | amended, not consolidated | 1 | 1994-06-30 | 1994-06-30 |
 | Odluka o davanju pomoći županijama odnosno opčinama u sastavu županija za djelomično ublažavanje posljedica štete od elementarnih nepogoda nastalih u drugom polugodištu 1993. i početkom 1994. godine | [`odluka/1994/924/`](odluka/1994/924/) | in force | 1 | 1994-07-08 | 1994-07-08 |
 | Odluka o usklađivanju mirovina od 1. lipnja 1994. i o najvišoj starosnoj i invalidskoj mirovini | [`odluka/1994/956/`](odluka/1994/956/) | in force | 1 | 1994-07-09 | 1994-07-09 |
+| Odluka o graničnoj svoti najnižega mirovinskog primanja od 1. lipnja 1994. | [`odluka/1994/957/`](odluka/1994/957/) | replaced, not consolidated | 1 | 1994-07-09 | 1994-07-09 |
 | Odluka o usklađivanju naknada plaća u svezi s pravom na prekvalifikaciju ili dokvalifikaciju i nadoknada plaća u svezi s pravom na zaposlenje od 1. lipnja 1994. | [`odluka/1994/959/`](odluka/1994/959/) | in force | 1 | 1994-07-09 | 1994-07-09 |
+| Odluka o usklađivanju doplatka za pomoć i njegu od 1.lipnja 1994. | [`odluka/1994/961/`](odluka/1994/961/) | in force | 1 | 1994-07-09 | 1994-07-09 |
 | Odluka o usklađivanju mirovina,doplatka za pomoć i njegu i novčanih naknada za tjelesno oštećenje od 1. lipnja 1994. | [`odluka/1994/962/`](odluka/1994/962/) | in force | 1 | 1994-07-09 | 1994-07-09 |
+| Odluka o usklađivanju mirovina od 1. lipnja 1994. | [`odluka/1994/963/`](odluka/1994/963/) | replaced, not consolidated | 1 | 1994-07-09 | 1994-07-09 |
+| Odluka o usklađivanju mirovina od 1. lipnja 1994. | [`odluka/1994/965/`](odluka/1994/965/) | replaced, not consolidated | 1 | 1994-07-09 | 1994-07-09 |
+| Odluka o graničnoj svoti najnižega mirovinskog primanja od 1. lipnja 1994. | [`odluka/1994/966/`](odluka/1994/966/) | replaced, not consolidated | 1 | 1994-07-09 | 1994-07-09 |
 | Odluka o uskladivanju naknada plača u svezi s pravom na prekvalifikaciju ili dokvalifikaciju i naknada plaća u svezi s pravom na zaposlenje od 1. lipnja 1994. | [`odluka/1994/967/`](odluka/1994/967/) | in force | 1 | 1994-07-09 | 1994-07-09 |
+| Odluka o usklađivanju doplatka za pomoć i njegu od 1. lipnja 1994. | [`odluka/1994/969/`](odluka/1994/969/) | in force | 1 | 1994-07-09 | 1994-07-09 |
 | Odluka o najnižoj svoti naknade plaće u svezi s pravom na prekvalifikaciju ili dokvalifikaciju i naknade plaće u svezi s pravom na zaposlenje od 1. travnja 1994. | [`odluka/1994/970/`](odluka/1994/970/) | in force | 1 | 1994-07-09 | 1994-07-09 |
+| Odluka o valorizacijskim koeficijentima za preračunavanje plaća iz prijašnjih godina prema razini osnovica osiguranja iz godine 1994. | [`odluka/1994/971/`](odluka/1994/971/) | in force | 1 | 1994-07-16 | 1994-07-16 |
+| Odluka o boji i oznakama službene odore ovlaštenih službenih osoba carinske službe Republike Hrvatske | [`odluka/1994/978/`](odluka/1994/978/) | amended, not consolidated | 1 | 1994-07-13 | 1994-07-13 |
 | Odluka o izuzimanju nekretnine u k.o. Vrbovec od zabrane prijenosa prava raspolaganja i korištenja | [`odluka/1994/1020/`](odluka/1994/1020/) | in force | 1 | 1994-07-22 | 1994-07-22 |
 | Odluka o osnovicama osiguranja koje se uzimaju za obračunavanje i plaćanje doprinosa i za određivanje prava iz mirovinskog i invalidskog osiguranja individualnih poljoprivrednika od 1. siječnja 1994. | [`odluka/1994/1032/`](odluka/1994/1032/) | in force | 1 | 1994-07-30 | 1994-07-30 |
 | Odluka o davanju suglasnosti za osnivanje Konzulata Perua u Republici Hrvatskoj, sa sjedištem u Zagrebu | [`odluka/1994/1043/`](odluka/1994/1043/) | in force | 1 | 1994-07-21 | 1994-07-21 |
 | Odluka o izmjeni Odluke o osnovama za sklapanje ugovora sa zdravstvenim uatanovama i zdravstvenim djelatnicima privatne prakse za 1994. godinu | [`odluka/1994/1053/`](odluka/1994/1053/) | in force | 1 | 1994-07-29 | 1994-07-29 |
+| Odluka o utvrđivanju osnovice plaće djelatnika u zdravstvu Republike Hrvatske | [`odluka/1994/1054/`](odluka/1994/1054/) | repealed, not consolidated | 1 | 1994-07-29 | 1994-07-29 |
 | Odluka o izmjeni Odluke o uvjetima i načinu plaćanja gotovim novcem | [`odluka/1994/1074/`](odluka/1994/1074/) | in force | 1 | 1994-08-06 | 1994-08-06 |
+| Odluka o izmjeni Odluke o obvezi banaka da drže određeni iznos u devizama ili likvidnim deviznim plasmanima | [`odluka/1994/1075/`](odluka/1994/1075/) | amended, not consolidated | 1 | 1994-08-06 | 1994-08-06 |
 | Odluka o prestanku važenja Odluke o odobravanju reeskontnih i lombardnih kredita | [`odluka/1994/1076/`](odluka/1994/1076/) | in force | 1 | 1994-08-05 | 1994-08-05 |
 | Odluka o izmjeni Odluke o obveznoj rezervi banaka kod Narodne banke Hrvatske | [`odluka/1994/1077/`](odluka/1994/1077/) | in force | 1 | 1994-08-05 | 1994-08-05 |
 | Odluka o osnivanju Veleposlanstva Republike Hrvatske u Republici Indiji, sa sjedištem u New Delhiju | [`odluka/1994/1081/`](odluka/1994/1081/) | in force | 1 | 1994-08-01 | 1994-08-01 |
+| Odluka o sezonskim graničnim prijelazima u Republici Hrvatskoj | [`odluka/1994/1087/`](odluka/1994/1087/) | amended, not consolidated | 1 | 1994-08-10 | 1994-08-10 |
+| Odluka o uvjetima i načinu obavljanja kontrole (nadzora) poslovanja banaka i štedionica i postupku poduzimanja mjera za otklanjanje utvrđenih nezakonitosti i nepravilnosti | [`odluka/1994/1097/`](odluka/1994/1097/) | repealed, not consolidated | 1 | 1994-08-10 | 1994-08-10 |
+| Odluka o visini naknade za obvezne veterinarsko-sanitarne preglede u prometu preko granice Republike Hrvatske | [`odluka/1994/1118/`](odluka/1994/1118/) | repealed, not consolidated | 1 | 1994-08-31 | 1994-08-31 |
 | Odluka o osnivanju Savjeta za zaštitu prirode | [`odluka/1994/1119/`](odluka/1994/1119/) | in force | 1 | 1994-08-31 | 1994-08-31 |
 | Odluka o upravljanju nacionalnim parkovima "Plitvička jezera", "Paklenica", "Risnjak", "Mljet", "Kornati", "Krka" i parkom prirode "Telašćica" | [`odluka/1994/1120/`](odluka/1994/1120/) | in force | 1 | 1994-08-31 | 1994-08-31 |
+| Odluka o izdavanjq i prodaji prigodnog zlatnog i srebrenog kovanog novca u povodu 900 godina Zagrebačke biskupije i grada Zagreba | [`odluka/1994/1136/`](odluka/1994/1136/) | amended, not consolidated | 1 | 1994-09-02 | 1994-09-02 |
 | Odluka o vrijednosti boda za utvrđivanje naknade koja se plaća zbog promjene namjene poljoprivrednog zemljišta | [`odluka/1994/1143/`](odluka/1994/1143/) | in force | 1 | 1994-09-16 | 1994-09-16 |
 | Odluka o raspuštanju Općinskog vijeća općine Ivankovo | [`odluka/1994/1144/`](odluka/1994/1144/) | in force | 1 | 1994-09-08 | 1994-09-08 |
 | Odluka o raspuštanju Općinskog vijeća općine Tordinci | [`odluka/1994/1145/`](odluka/1994/1145/) | in force | 1 | 1994-09-08 | 1994-09-08 |
+| Odluka o gornjoj granici zaduženosti određenih poduzeća kod banaka u Republici Hrvatskoj | [`odluka/1994/1164/`](odluka/1994/1164/) | amended, not consolidated | 1 | 1994-09-13 | 1994-09-13 |
 | Odluka o osnivanju Generalnoga konzulata Republike Hrvatske u Kanadi, sa sjedištem u Mississaugi, Provincija Ontario | [`odluka/1994/1169/`](odluka/1994/1169/) | in force | 1 | 1994-09-13 | 1994-09-13 |
+| Odluka o prijenosu nekretnine u vlasništvu Republike Hrvatske | [`odluka/1994/1172/`](odluka/1994/1172/) | replaced, not consolidated | 1 | 1994-09-21 | 1994-09-21 |
 | Odluka o izmjeni i dopuni Odluke o izdavanju novčanica i kovanog novca koji glase na novčanu jedinicu Republike Hrvatske | [`odluka/1994/1187/`](odluka/1994/1187/) | amending act | 1 | 1994-09-23 | 1994-09-23 |
 | Odluka o prijenosu novčanih sredstava državnog proračuna u depozit Narodne banke Hrvatske | [`odluka/1994/1199/`](odluka/1994/1199/) | in force | 1 | 1994-09-29 | 1994-09-29 |
+| Odluka o uputama za provedbu politike plaća | [`odluka/1994/1200/`](odluka/1994/1200/) | cited later, not consolidated | 1 | 1994-09-29 | 1994-09-29 |
 | Odluka o određivanju graničnog prijelaza Legrad | [`odluka/1994/1201/`](odluka/1994/1201/) | in force | 1 | 1994-09-29 | 1994-09-29 |
+| Odluka o odobravanju kratkoročnih interventnih kredita | [`odluka/1994/1205/`](odluka/1994/1205/) | amended, not consolidated | 1 | 1994-10-01 | 1994-10-01 |
 | Odluka o odobravanju dnevnih kredita za štedne uloge i tekuče račune građana u kunama | [`odluka/1994/1206/`](odluka/1994/1206/) | in force | 1 | 1994-10-01 | 1994-10-01 |
 | Odluka o načinu i uvjetima odobravanja inicijalnih kredita bankama za premošćivanje nelikvidnosti | [`odluka/1994/1207/`](odluka/1994/1207/) | in force | 1 | 1994-10-01 | 1994-10-01 |
 | Odluka o izmjeni Odluke o načinu i uvjetima korištenja obvezne rezerve banaka za održavanje njihove dnevne likvidnosti | [`odluka/1994/1209/`](odluka/1994/1209/) | in force | 1 | 1994-10-01 | 1994-10-01 |
 | Odluka o prestanku važenja Naputka o plaćanjima s računa banke | [`odluka/1994/1210/`](odluka/1994/1210/) | in force | 1 | 1994-10-01 | 1994-10-01 |
 | Odluka o izmjeni i dopuni Odluke o obveznoj rezervi banaka kod Narodne banke Hrvatske | [`odluka/1994/1211/`](odluka/1994/1211/) | amending act | 1 | 1994-09-30 | 1994-09-30 |
+| Odluka o dopuni Odluke o izdavanju i prodaji prigodnog zlatnog i srebrenog kovanog novca u povodu 900 godina Zagrebačke biskupije i grada Zagreba | [`odluka/1994/1212/`](odluka/1994/1212/) | amended, not consolidated | 1 | 1994-09-30 | 1994-09-30 |
+| Odluka o najnižoj svoti naknade plaće u svezi s pravom na prekvalifikaciju ili dokvalifikaciju i naknade plaće u svezi s pravom na zaposlenje od 1. srpnja 1994. | [`odluka/1994/1214/`](odluka/1994/1214/) | replaced, not consolidated | 1 | 1994-10-01 | 1994-10-01 |
 | Odluka o rasporedivanju sredstava za rekreaciju i oporavak umirovljenika te za organizirano pružanje pomoći i njege druge osobe u 1994. godini | [`odluka/1994/1215/`](odluka/1994/1215/) | in force | 1 | 1994-09-30 | 1994-09-30 |
+| Odluka o najnižoj svoti naknade plaće u svezi s pravom na prekvalifikaciju ili dokvalifikaciju i naknade plaće u svezi s pravom na zaposlenje od 1. srpnja 1994. | [`odluka/1994/1216/`](odluka/1994/1216/) | replaced, not consolidated | 1 | 1994-10-01 | 1994-10-01 |
 | Odluka o poslovima obveznika civilne službe | [`odluka/1994/1220/`](odluka/1994/1220/) | in force | 1 | 1994-10-07 | 1994-10-07 |
+| Odluka o tehničkim pravilima Hrvatskog registra brodova | [`odluka/1994/1228/`](odluka/1994/1228/) | in force | 1 | 1995-01-01 | 1995-01-01 |
+| Odluka o tehničkim pravilima Hrvatskog registra brodova - oprema trupa | [`odluka/1994/1229/`](odluka/1994/1229/) | replaced, not consolidated | 1 | 1995-01-01 | 1995-01-01 |
+| Odluka o tehničkim pravilima Hrvatskog registra brodova - stabilitet | [`odluka/1994/1230/`](odluka/1994/1230/) | replaced, not consolidated | 1 | 1995-01-01 | 1995-01-01 |
+| Odluka o tehničkim pravilima Hrvatskog registra brodova - pregrađivanje | [`odluka/1994/1231/`](odluka/1994/1231/) | replaced, not consolidated | 1 | 1995-01-01 | 1995-01-01 |
+| Odluka o tehničkim pravilima Hrvatskog registra brodova - nadvođe | [`odluka/1994/1232/`](odluka/1994/1232/) | replaced, not consolidated | 1 | 1995-01-01 | 1995-01-01 |
+| Odluka o tehničkim pravilima Hrvatskog registra brodova - strojni uređaj | [`odluka/1994/1233/`](odluka/1994/1233/) | replaced, not consolidated | 1 | 1995-01-01 | 1995-01-01 |
+| Odluka o tehničkim pravilima Hrvatskog registra brodova - cjevovodi | [`odluka/1994/1234/`](odluka/1994/1234/) | replaced, not consolidated | 1 | 1995-01-01 | 1995-01-01 |
+| Odluka o tehničkim pravilima Hrvatskog registra brodova - strojevi | [`odluka/1994/1235/`](odluka/1994/1235/) | replaced, not consolidated | 1 | 1995-01-01 | 1995-01-01 |
+| Odluka o tehničkim pravilima Hrvatskog registra brodova - kotlovi, izmjenjivači topline i posude pod tlakom | [`odluka/1994/1236/`](odluka/1994/1236/) | in force | 1 | 1995-01-01 | 1995-01-01 |
+| Odluka o tehničkim pravilima Hrvatskog registra brodova - rashladni uređaj | [`odluka/1994/1237/`](odluka/1994/1237/) | replaced, not consolidated | 1 | 1995-01-01 | 1995-01-01 |
+| Odluka o tehničkim pravilima Hrvatskog registra brodova - električna oprema | [`odluka/1994/1238/`](odluka/1994/1238/) | replaced, not consolidated | 1 | 1995-01-01 | 1995-01-01 |
+| Odluka o tehničkim pravilima Hrvatskog registra brodova - automatizacija | [`odluka/1994/1239/`](odluka/1994/1239/) | replaced, not consolidated | 1 | 1995-01-01 | 1995-01-01 |
+| Odluka o tehničkim pravilima Hrvatskog registra brodova - radiooprema | [`odluka/1994/1240/`](odluka/1994/1240/) | replaced, not consolidated | 1 | 1995-01-01 | 1995-01-01 |
+| Odluka o tehničkim pravilima Hrvatskog registra brodova - sredstva za signalizaciju | [`odluka/1994/1241/`](odluka/1994/1241/) | replaced, not consolidated | 1 | 1995-01-01 | 1995-01-01 |
+| Odluka o tehničkim pravilima Hrvatskog registra brodova - pomagala za navigaciju | [`odluka/1994/1242/`](odluka/1994/1242/) | replaced, not consolidated | 1 | 1995-01-01 | 1995-01-01 |
+| Odluka o tehničkim pravilima Hrvatskog registra brodova- sprečavanje zagađivanja | [`odluka/1994/1243/`](odluka/1994/1243/) | in force | 1 | 1995-01-01 | 1995-01-01 |
+| Odluka o tehničkim pravilima Hrvatskog registra brodova - baždarenje | [`odluka/1994/1244/`](odluka/1994/1244/) | replaced, not consolidated | 1 | 1995-01-01 | 1995-01-01 |
+| Odluka o tehničkim pravilima Hrvatskog registra brodova - kontejneri | [`odluka/1994/1245/`](odluka/1994/1245/) | replaced, not consolidated | 1 | 1995-01-01 | 1995-01-01 |
+| Odluka o određivanju najnižih svota na koje se mora ugovoriti osiguranje putnika u javnom prometu od posljedica nesretnoga slučaja | [`odluka/1994/1260/`](odluka/1994/1260/) | repealed, not consolidated | 1 | 1994-10-10 | 1994-10-10 |
+| Odluka o utvrđivanju iznosa za naknadu štete po osnovi osiguranja od automobilske odgovornosti | [`odluka/1994/1261/`](odluka/1994/1261/) | repealed, not consolidated | 1 | 1994-10-10 | 1994-10-10 |
+| Odluka o određivanju najnižih svota na koje se mora ugovoriti osiguranje zrakoplova od odgovornosti za štete trećim osobama pri uporabi zrakoplova | [`odluka/1994/1262/`](odluka/1994/1262/) | in force | 1 | 1994-10-10 | 1994-10-10 |
+| Odluka o utvrđivanju iznosa za naknadu štete po osnovi osiguranja vlasnika, odnosno korisnika brodica na motorni pogon od odgovornosti za štete nanesene trećim osobama | [`odluka/1994/1263/`](odluka/1994/1263/) | repealed, not consolidated | 1 | 1994-10-10 | 1994-10-10 |
 | Odluka o prodaji motornog broda "Sv. Stjepan" | [`odluka/1994/1273/`](odluka/1994/1273/) | in force | 1 | 1994-10-14 | 1994-10-14 |
 | Odluka o darovanju poljoprivrednog zemljišta u vlasništvu države Karmelu Svetog Josipa, Šarengrad | [`odluka/1994/1316/`](odluka/1994/1316/) | in force | 1 | 1994-10-20 | 1994-10-20 |
+| Odluka o utvrđivanju osnovice plaće djelatnika u zdravstvu Republike Hrvatske | [`odluka/1994/1382/`](odluka/1994/1382/) | amended, not consolidated | 1 | 1994-11-07 | 1994-11-07 |
+| Odluka o izmjeni Odluke o osnovama za sklapanje ugovora sa zdravstvenim ustanovama i zdravstvenim djelatnicima privatne prakse za 1994. godinu | [`odluka/1994/1383/`](odluka/1994/1383/) | in force | 1 | 1994-11-07 | 1994-11-07 |
+| Odluka o početku izdavanja Iskaznice zdravstveno osigurane osobe i vremenu trajanja zamjene postoje iskaznice | [`odluka/1994/1384/`](odluka/1994/1384/) | amended, not consolidated | 1 | 1994-11-15 | 1994-11-15 |
 | Odluka o izmjenama i dopunama Odluke o osnovicama, stopama, načinu obračuna i plačanju sredstava za ostvarivanje prava iz obveznog zdravstvenog osiguranja | [`odluka/1994/1385/`](odluka/1994/1385/) | amending act | 1 | 1994-11-07 | 1994-11-07 |
 | Odluka o oslobađanju plaćanja posebne pristojbe (prelevmana) pri uvozu šećera | [`odluka/1994/1392/`](odluka/1994/1392/) | in force | 1 | 1994-11-19 | 1994-11-19 |
+| Odluka o visini naknade za obvezni zdravstveni pregled bilja u prometu preko granice Republike Hrvatske i visini naknade za kontrolu nad sredstvima za zaštitu bilja pri uvozu u Republiku Hrvatsku | [`odluka/1994/1393/`](odluka/1994/1393/) | repealed, not consolidated | 1 | 1994-11-19 | 1994-11-19 |
 | Odluka o osnivanju Generalnog konzulata Republike Hrvatske u Los Angelesu, Savezna Država Californija, SAD | [`odluka/1994/1410/`](odluka/1994/1410/) | in force | 1 | 1993-11-17 | 1993-11-17 |
 | Odluka o osnivanju Generalnog konzulata Republike Hrvatske u Republici Italiji, sa sjedištem u Trstu | [`odluka/1994/1411/`](odluka/1994/1411/) | in force | 1 | 1994-10-10 | 1994-10-10 |
+| Odluka o visini dnevnice za službeno putovanje i visini naknada za korisnike koji se financiraju iz sredstava državnog proračuna | [`odluka/1994/1419/`](odluka/1994/1419/) | repealed, not consolidated | 1 | 1994-11-18 | 1994-11-18 |
 | Odluka o osnivanju Generalnog konzulata Republike Hrvatske u Republici Čile, sa sjedištem u Antofagasti | [`odluka/1994/1450/`](odluka/1994/1450/) | in force | 1 | 1994-11-16 | 1994-11-16 |
 | Odluka o izmjenama Odluke o kriterijima i planu uvođenja doplatnih maraka | [`odluka/1994/1455/`](odluka/1994/1455/) | in force | 1 | 1994-11-16 | 1994-11-16 |
+| Odluka o produženju roka za naplatu izvoza robe i usluga iz članka 47. stavka 1. Zakona o osnovama deviznog sustava, deviznog poslovanja i prometu zlata | [`odluka/1994/1474/`](odluka/1994/1474/) | amended, not consolidated | 1 | 1994-11-25 | 1994-11-25 |
 | Odluka o prestanku primjene Platnog sporazuma izmedu Republike Hrvatske i Republike Slovenije | [`odluka/1994/1475/`](odluka/1994/1475/) | in force | 1 | 1994-11-25 | 1994-11-25 |
 | Odluka o prestanku važenja Odluke o načinu i uvjetima odobravanja kredita bankama za održavanje dnevne likvidnosti | [`odluka/1994/1477/`](odluka/1994/1477/) | in force | 1 | 1994-12-01 | 1994-12-01 |
 | Odluka o prestanku važenja Odluke o načinu održavanja minimalne likvidnosti banaka | [`odluka/1994/1478/`](odluka/1994/1478/) | in force | 1 | 1995-01-09 | 1995-01-09 |
+| Odluka o obveznoj rezervi banaka i štedionica | [`odluka/1994/1479/`](odluka/1994/1479/) | amended, not consolidated | 1 | 1995-01-09 | 1995-01-09 |
+| Odluka o izmjeni Odluke o kamatnim stopama Narodne banke Hrvatske | [`odluka/1994/1480/`](odluka/1994/1480/) | in force | 1 | 1994-12-01 | 1994-12-01 |
+| Odluka o uvjetima za odobrenje kratkoročnih kredita na osnovi zaloga blagajničkih zapisa (lombardni kredit) | [`odluka/1994/1481/`](odluka/1994/1481/) | repealed, not consolidated | 1 | 1994-12-01 | 1994-12-01 |
 | Odluka o usklađivanju mirovina od 1. listopada 1994. i o najvišoj starosnoj i invalidskoj mirovini | [`odluka/1994/1482/`](odluka/1994/1482/) | in force | 1 | 1994-11-26 | 1994-11-26 |
+| Odluka o graničnoj svoti najnižega mirovinskog primanja od 1. listopada 1994. | [`odluka/1994/1483/`](odluka/1994/1483/) | replaced, not consolidated | 1 | 1994-11-26 | 1994-11-26 |
 | Odluka o visini minimalne mirovine od 1. listopada 1994. | [`odluka/1994/1484/`](odluka/1994/1484/) | in force | 1 | 1994-11-26 | 1994-11-26 |
+| Odluka o usklađivanju naknada plaća u svezi s pravom na prekvalifikaciju ili dokvalifikacju i naknada plaća u svezi s pravom na zaposlenje od 1. listopada 1994. | [`odluka/1994/1485/`](odluka/1994/1485/) | in force | 1 | 1994-11-26 | 1994-11-26 |
+| Odluka o usklađivanju novčanih naknada za tjelesno oštećenje od 1. listopada 1994. | [`odluka/1994/1486/`](odluka/1994/1486/) | replaced, not consolidated | 1 | 1994-11-26 | 1994-11-26 |
+| Odluka o usklađivanju doplatka za pomoć i njegu od 1. listopada 1994. | [`odluka/1994/1487/`](odluka/1994/1487/) | replaced, not consolidated | 1 | 1994-11-26 | 1994-11-26 |
+| Odluka o usklađivanju mirovina od 1. listopada 1994. | [`odluka/1994/1489/`](odluka/1994/1489/) | replaced, not consolidated | 1 | 1994-11-26 | 1994-11-26 |
+| Odluka o usklađivanju doplatka za pomoć i njegu od 1. listopada 1994. | [`odluka/1994/1491/`](odluka/1994/1491/) | replaced, not consolidated | 1 | 1994-11-26 | 1994-11-26 |
 | Odluka o iznimnom usklađivanju doplatka za djecu od 1. listopada 1994. | [`odluka/1994/1492/`](odluka/1994/1492/) | in force | 1 | 1994-11-26 | 1994-11-26 |
+| Odluka o usklađivanju mirovina od 1. listopada 1994. | [`odluka/1994/1493/`](odluka/1994/1493/) | replaced, not consolidated | 1 | 1994-11-26 | 1994-11-26 |
+| Odluka o graničnoj svoti najnižega mirovinskog primanja od 1. listopada 1994. | [`odluka/1994/1494/`](odluka/1994/1494/) | replaced, not consolidated | 1 | 1994-11-26 | 1994-11-26 |
+| Odluka o usklađivanju naknada plaća u svezi s pravom na prekvalifikaciju ili dokvalifikaciju i naknade plaća u svezi s pravom na zaposlenje od 1. listopada 1994. | [`odluka/1994/1495/`](odluka/1994/1495/) | in force | 1 | 1994-11-26 | 1994-11-26 |
+| Odluka o usklađivanju novčanih naknada za tjelesno oštećenje od 1. listopada 1994. | [`odluka/1994/1496/`](odluka/1994/1496/) | replaced, not consolidated | 1 | 1994-11-26 | 1994-11-26 |
+| Odluka o usklađivanju doplatka za pomoć i njegu od 1. listopada 1994. | [`odluka/1994/1497/`](odluka/1994/1497/) | replaced, not consolidated | 1 | 1994-11-26 | 1994-11-26 |
+| Odluka o Uredu Predsjednika Republike Hrvatske | [`odluka/1994/1505/`](odluka/1994/1505/) | repealed, not consolidated | 1 | 1994-11-29 | 1994-11-29 |
+| Odluka o posebnoj obveznoj rezervi na porast određenih plasmana banaka | [`odluka/1994/1514/`](odluka/1994/1514/) | repealed, not consolidated | 1 | 1994-11-29 | 1994-11-29 |
+| Odluka o izdavanju i prodaji drugog izdanja prigodnog zlatnog i srebrenog kovanog novca u povodu 900 godina Zagrebačke biskupije i grada Zagreba | [`odluka/1994/1515/`](odluka/1994/1515/) | amended, not consolidated | 1 | 1994-11-29 | 1994-11-29 |
 | Odluka o mjerilima za određivanje plaće i drugih primanja koja pripadaju Predsjedniku Republike Hrvatske | [`odluka/1994/1520/`](odluka/1994/1520/) | in force | 1 | 1994-11-30 | 1994-11-30 |
 | Odluka o mjerilima za odredivanje plaće i drugih primanja koja pripadaju sucima Ustavnog suda Republike Hrvatske, nositeljima pravosudnih dužnosti i dužnosnicima koje imenuje i razrješuje Sabor Republ | [`odluka/1994/1521/`](odluka/1994/1521/) | in force | 1 | 1994-11-30 | 1994-11-30 |
 | Odluka o izmjeni Odluke o utvrđivanju plaća djelatnika u zdravstvu Republike Hrvatske | [`odluka/1994/1538/`](odluka/1994/1538/) | in force | 1 | 1994-12-08 | 1994-12-08 |
 | Odluka o izmjeni Odluke o osnovama za sklapanje ugovora sa zdravstvenim ustanovama i zdravstvenim djelatnicima privatne prakse za 1994. godinu | [`odluka/1994/1539/`](odluka/1994/1539/) | in force | 1 | 1994-12-08 | 1994-12-08 |
+| Odluka o izmjenama i dopunama Odluke o sudjelovanju osiguranih osoba u pokriću dijela troškova zdravstvene zaštite | [`odluka/1994/1541/`](odluka/1994/1541/) | amending act | 1 | 1994-12-16 | 1994-12-16 |
+| Odluka o utvrđivanju cijene Iskaznice zdravstveno osigurane osobe | [`odluka/1994/1542/`](odluka/1994/1542/) | repealed, not consolidated | 1 | 1994-12-08 | 1994-12-08 |
+| Odluka o tehničkim pravilima Hrvatskog registra brodova, -trup | [`odluka/1994/1543/`](odluka/1994/1543/) | in force | 1 | 1995-01-01 | 1995-01-01 |
+| Odluka o tehničkim pravilima Hrvatskog registra brodova - protupožarna zaštita | [`odluka/1994/1544/`](odluka/1994/1544/) | replaced, not consolidated | 1 | 1995-01-01 | 1995-01-01 |
+| Odluka o tehničkim pravilima Hrvatskog registra brodova - sredstva za spašavanje | [`odluka/1994/1545/`](odluka/1994/1545/) | replaced, not consolidated | 1 | 1995-01-01 | 1995-01-01 |
 | Odluka o tehničkim pravilima Hrvatskog registra brodova - teretni uređaj | [`odluka/1994/1546/`](odluka/1994/1546/) | in force | 1 | 1995-01-01 | 1995-01-01 |
+| Odluka o tehničkim pravilima Hrvatskog registra brodova - zaštita pri radu i smještaj posade | [`odluka/1994/1547/`](odluka/1994/1547/) | replaced, not consolidated | 1 | 1995-01-01 | 1995-01-01 |
+| Odluka o tehničkim pravilima Hrvatskog registra brodova - prijevoz putnika | [`odluka/1994/1548/`](odluka/1994/1548/) | replaced, not consolidated | 1 | 1995-01-01 | 1995-01-01 |
+| Odluka o tehničkim pravilima Hrvatskog registra brodova - prijevoz tereta | [`odluka/1994/1549/`](odluka/1994/1549/) | replaced, not consolidated | 1 | 1995-01-01 | 1995-01-01 |
+| Odluka o tehničkim pravilima Hrvatskog registra brodova - materijali | [`odluka/1994/1550/`](odluka/1994/1550/) | replaced, not consolidated | 1 | 1995-01-01 | 1995-01-01 |
+| Odluka o tehničkim pravilima Hrvatskog registra brodova - zavarivanje | [`odluka/1994/1551/`](odluka/1994/1551/) | replaced, not consolidated | 1 | 1995-01-01 | 1995-01-01 |
+| Odluka o tehničkim pravilima Hrvatskog registra brodova - tankeri za kemikalije | [`odluka/1994/1552/`](odluka/1994/1552/) | replaced, not consolidated | 1 | 1995-01-01 | 1995-01-01 |
 | Odluka o davanju pomoći županijama, odnosno gradovima i općinama u sastavu županija za djelomićno ublažavanje posljedica štete od elementarnih nepogoda tijekom 1994. godine | [`odluka/1994/1554/`](odluka/1994/1554/) | in force | 1 | 1994-12-10 | 1994-12-10 |
+| Odluka o utvrđivanju plaće predsjednika Vlade Republike Hrvatske, potpredsjednika Vlade Republike Hrvatske, dužnosnika Republike Hrvatske i drugih dužnosnika koje imenuje i razrješava Vlada Republike | [`odluka/1994/1558/`](odluka/1994/1558/) | repealed, not consolidated | 1 | 1994-12-09 | 1994-12-09 |
+| Odluka o povećanju vrijednosti koeficijenata platnih razreda za pojedine službe | [`odluka/1994/1559/`](odluka/1994/1559/) | amended, not consolidated | 1 | 1994-12-09 | 1994-12-09 |
+| Odluka o osnovama za sklapanje ugovora sa zdravstvenim ustanovama i zdravstvenim djelatnicima privatne prakse za 1995. godinu | [`odluka/1994/1565/`](odluka/1994/1565/) | amended, not consolidated | 1 | 1994-12-12 | 1994-12-12 |
+| Odluka o kriterijima za carinski kontingent | [`odluka/1994/1601/`](odluka/1994/1601/) | repealed, not consolidated | 1 | 1994-12-16 | 1994-12-16 |
+| Odluka o plaćanju posebne pristojbe na uvezenu robu u 1995. godini | [`odluka/1994/1602/`](odluka/1994/1602/) | amended, not consolidated | 1 | 1994-12-16 | 1994-12-16 |
 | Odluka o izmjeni Odluke o vrsti, količini i vrijednosti predmeta na koje se pri uvozu primjenjuju carinske povlastice | [`odluka/1994/1603/`](odluka/1994/1603/) | in force | 1 | 1994-12-24 | 1994-12-24 |
 | Odluka o povjeravanju prava lova u lovištima u vlasništvu države | [`odluka/1994/1621/`](odluka/1994/1621/) | in force | 1 | 1994-12-22 | 1994-12-22 |
 | Odluka o raspisivanju javnog natječaja za davanje koncesije prava lova na lovištima u vlasništu države | [`odluka/1994/1622/`](odluka/1994/1622/) | in force | 1 | 1994-12-22 | 1994-12-22 |
+| Odluka o raspisivanju javnog natječaja za davanje u zakup lovišta u vlasništvu države | [`odluka/1994/1623/`](odluka/1994/1623/) | replaced, not consolidated | 1 | 1994-12-22 | 1994-12-22 |
 | Odluka o opsegu prava obveznog zdravstvenog osiguranja za 1995. godinu | [`odluka/1994/1624/`](odluka/1994/1624/) | in force | 1 | 1994-12-22 | 1994-12-22 |
+| Odluka o privremenoj zabrani prijama službenika i namještenika u tijela državne uprave i javne službe koje se financiraju iz proračauna Republike Hrvatske | [`odluka/1994/1648/`](odluka/1994/1648/) | repealed, not consolidated | 1 | 1994-12-27 | 1994-12-27 |
 | Odluka o stopi i osnovici za obračunavanje doprinosa Hrvatskoj gospodarskoj komori u 1995. | [`odluka/1994/1649/`](odluka/1994/1649/) | in force | 1 | 1994-12-27 | 1994-12-27 |
+| Odluka o naknadama i nagradi za rad predsjednika i članova Državnog sudbenog vijeća | [`odluka/1994/1653/`](odluka/1994/1653/) | amended, not consolidated | 1 | 1994-12-29 | 1994-12-29 |
+| Odluka o izmjenama i dopunama Odluke o razvrstavanju robe na oblike izvoza i uvoza | [`odluka/1994/1655/`](odluka/1994/1655/) | amending act | 1 | 1994-12-29 | 1994-12-29 |
+| Odluka o opsegu kontingenata za izvoz i uvoz robe u 1995. godini | [`odluka/1994/1656/`](odluka/1994/1656/) | amended, not consolidated | 1 | 1994-12-29 | 1994-12-29 |
+| Odluka o izuzimanju nekretnina u k.o. Split od zabrane prijenosa prava raspolaganja i korištenja | [`odluka/1994/1657/`](odluka/1994/1657/) | replaced, not consolidated | 1 | 1994-12-29 | 1994-12-29 |
+| Odluka o privremenim valorizacijskim koeficijentima za preračunavanje plaća iz prijašnjih godina prema razini plaća iz godine 1994. | [`odluka/1994/1668/`](odluka/1994/1668/) | cited later, not consolidated | 1 | 1994-12-30 | 1994-12-30 |
+| Odluka o najnižoj svoti naknade plaće u svezi s pravom na prekvalifikaciju ili dokvalifikaciju i naknade plaće u svezi s pravom na zaposlenje od 1. listopada 1994. | [`odluka/1994/1669/`](odluka/1994/1669/) | in force | 1 | 1994-12-30 | 1994-12-30 |
 | Odluka o usklađivanju mirovina od 1. prosinca 1994. i o najvišoj starosnoj i invalidskoj mirovini | [`odluka/1994/1670/`](odluka/1994/1670/) | in force | 1 | 1994-12-30 | 1994-12-30 |
+| Odluka o graničnoj svoti najnižega mirovinskog primanja od 1. prosinca 1994. | [`odluka/1994/1671/`](odluka/1994/1671/) | replaced, not consolidated | 1 | 1994-12-30 | 1994-12-30 |
 | Odluka o visini minimalne mirovine od 1. prosinca 1994. | [`odluka/1994/1672/`](odluka/1994/1672/) | in force | 1 | 1994-12-30 | 1994-12-30 |
 | Odluka o usklađivanju naknada plaća u svezi s pravom na prekvalifikaciju ili dokvalifikaciju i naknada plaća u svezi s pravom na zaposlenje od 1. prosinca 1994. | [`odluka/1994/1673/`](odluka/1994/1673/) | in force | 1 | 1994-12-30 | 1994-12-30 |
+| Odluka o usklađivanju novčanih naknada za tjelesno oštećenje od 1. prosinca 1994. | [`odluka/1994/1674/`](odluka/1994/1674/) | replaced, not consolidated | 1 | 1994-12-30 | 1994-12-30 |
+| Odluka o usklađivanju doplatka za pomoć i njegu od 1. prosinca 1994. | [`odluka/1994/1675/`](odluka/1994/1675/) | replaced, not consolidated | 1 | 1994-12-30 | 1994-12-30 |
 | Odluka o usklađivanju mirovina, doplatka za pomoć i njegu i novčanih naknada za tjelesno oštećenje od 1. prosinca 1994. | [`odluka/1994/1676/`](odluka/1994/1676/) | in force | 1 | 1994-12-30 | 1994-12-30 |
+| Odluka o usklađivanju mirovina od 1. prosinca 1994. | [`odluka/1994/1677/`](odluka/1994/1677/) | replaced, not consolidated | 1 | 1994-12-30 | 1994-12-30 |
 | Odluka o osnovici za određivanje novčanih naknada za tjelesno oštećenje i usklađivanju novčanih naknada za tjelesno oštećenje od 1. prosinca 1994. | [`odluka/1994/1678/`](odluka/1994/1678/) | in force | 1 | 1994-12-30 | 1994-12-30 |
+| Odluka o usklađivanju doplatka za pomoć i njegu od 1. prosinca 1994. | [`odluka/1994/1679/`](odluka/1994/1679/) | replaced, not consolidated | 1 | 1994-12-30 | 1994-12-30 |
+| Odluka o osnovicama za obračunavanje i plaćanje doprinosa i za ostvarivanje prava iz mirovinskog i invalidskog osiguranja osiguranika zaposlenih u inozemstvu | [`odluka/1994/1681/`](odluka/1994/1681/) | replaced, not consolidated | 1 | 1995-01-06 | 1995-01-06 |
+| Odluka o osnovicama osiguranja za obračunavanje i plaćanje doprinosa i za ostvarivanje prava iz mirovinskog i invalidskog osiguranja za produženo mirovinsko i invalidsko osiguranje | [`odluka/1994/1684/`](odluka/1994/1684/) | repealed, not consolidated | 1 | 1995-01-06 | 1995-01-06 |
+| Odluka o stalnim svotama doprinosa za mirovinsko i invalidsko osiguranje osoba osiguranih u određenim okolnostima | [`odluka/1994/1685/`](odluka/1994/1685/) | replaced, not consolidated | 1 | 1995-01-06 | 1995-01-06 |
+| Odluka o osnovici za obračunavanje i plaćanje doprinosa za mirovinsko i invalidsko osiguranje za osiguranike na neplaćenom dopustu, pod suspenzijom, u istražnom zatvoru i na izdržavanju kazne zatvora | [`odluka/1994/1686/`](odluka/1994/1686/) | in force | 1 | 1995-01-06 | 1995-01-06 |
+| Odluka o privremenim valorizacijskim koeficijentima za preračunavanje osnovice osiguranja i plaća iz prijašnjih godina prema razini plaća iz godine 1994. | [`odluka/1994/1688/`](odluka/1994/1688/) | cited later, not consolidated | 1 | 1994-12-30 | 1994-12-30 |
+| Odluka o najnižoj svoti naknade plaće u svezi s pravom na prekvalifikacuju ili dokvalifikaciju i naknade plaće u svezi s pravom na zaposlenje od 1. listopada 1994. | [`odluka/1994/1689/`](odluka/1994/1689/) | in force | 1 | 1994-12-30 | 1994-12-30 |
+| Odluka o usklađivanju mirovina od 1. prosinca 1994. | [`odluka/1994/1690/`](odluka/1994/1690/) | replaced, not consolidated | 1 | 1994-12-30 | 1994-12-30 |
+| Odluka o graničnoj svoti najnižega mirovinskog primanja od 1. prosinca 1994. | [`odluka/1994/1691/`](odluka/1994/1691/) | replaced, not consolidated | 1 | 1994-12-30 | 1994-12-30 |
 | Odluka o uskladivanju naknada plaća u svezi s pravom na prekvalifikaciju ili dokvalifikaciju i naknade plaća u svezi s pravom na zaposlenje od 1. prosinca 1994. | [`odluka/1994/1692/`](odluka/1994/1692/) | in force | 1 | 1994-12-30 | 1994-12-30 |
+| Odluka o usklađivanju novčanih naknada za tjelesno oštećenje od 1. prosinca 1994. | [`odluka/1994/1693/`](odluka/1994/1693/) | replaced, not consolidated | 1 | 1994-12-30 | 1994-12-30 |
+| Odluka o usklađivanju doplatka za pomoć i njegu od 1. prosinca 1994. | [`odluka/1994/1694/`](odluka/1994/1694/) | replaced, not consolidated | 1 | 1994-12-30 | 1994-12-30 |
+| Odluka o osnovicama osiguranja za obračunavanje i plaćanje doprinosa i za ostvarivanje prava iz mirovinskog i invalidskog osiguranja samostalnih privrednika Hrvatske | [`odluka/1994/1695/`](odluka/1994/1695/) | replaced, not consolidated | 1 | 1994-12-30 | 1994-12-30 |
+| Odluka o dopuni Odluke o uvjetima na koje se daje odobrenje da se potraživanje u inozemstvu naplati u efektivnom stranom novcu | [`odluka/1994/1709/`](odluka/1994/1709/) | amended, not consolidated | 1 | 1994-12-30 | 1994-12-30 |
 | Odluka o izmjeni Odluke o uvjetimia uz koje se može odobriti produženje roka naplate izvezene robe i usluga | [`odluka/1994/1710/`](odluka/1994/1710/) | in force | 1 | 1994-12-30 | 1994-12-30 |
 | Odluka o izmjenama Odluke o načinu i rokovima dostavljanja izvješća o stanju sredstava banaka na računima u inozemstvu | [`odluka/1994/1711/`](odluka/1994/1711/) | in force | 1 | 1994-12-30 | 1994-12-30 |
+| Odluka o obvezi banaka da održavaju određen odnos između deviznih obveza i deviznih potraživanja | [`odluka/1994/1712/`](odluka/1994/1712/) | replaced, not consolidated | 1 | 1994-12-30 | 1994-12-30 |
+| Odluka o dopuni Odluke o načinu obavljanja platnog prometa s inozemstvom | [`odluka/1994/1713/`](odluka/1994/1713/) | amended, not consolidated | 1 | 1994-12-30 | 1994-12-30 |
 | Odluka o izmjenama Odluke o valorizaciji katastarskog prihoda | [`odluka/1994/1721/`](odluka/1994/1721/) | in force | 1 | 1995-01-08 | 1995-01-08 |
 | Odluka o izmjenama i dopunama Statuta Hrvatske obrtničke komore | [`odluka/1995/19/`](odluka/1995/19/) | amended, not consolidated | 1 | 1995-01-18 | 1995-01-18 |
 | Odluka o davanju nekretnine u vlasništvu Republike Hrvatske u Karlovcu u posjed Županiji Karlovačkoj radi obavljanja djelatnosti županijskih ureda | [`odluka/1995/109/`](odluka/1995/109/) | in force | 1 | 1995-02-02 | 1995-02-02 |
@@ -15601,7 +15858,7 @@
 | Odluka o subvencioniranju dijela krajnje cijene isporučene toplinske energije za sve krajnje kupce osim za krajnje kupce koji koriste toplinsku energiju pretežito za poslovnu upotrebu | [`odluka/2026/1520/`](odluka/2026/1520/) | in force | 1 | 2026-11-07 | 2026-11-07 |
 | Odluka o raspisivanju izbora za članove Državnoodvjetničkog vijeće iz reda zamjenika državnih odvjetnika | [`odluka/2026/1523/`](odluka/2026/1523/) | in force | 1 | 2026-11-06 | 2026-11-06 |
 
-## pravilnik (10070, of which 2677 amending acts)
+## pravilnik (10113, of which 2682 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -15693,24 +15950,67 @@
 | Rješenje o izmjenama i dopunama Pravilnika o ostvarivanju socijalne zaštite | [`pravilnik/1993/51/`](pravilnik/1993/51/) | amending act | 1 | 1993-01-15 | 1993-01-15 |
 | Pravilnik o sastavu i načinu rada zdravstvene komisije za utvrđivanje sposobnosti radnika na poslovima ovlaštene službene osobe u Ministarstvu unutarnjih poslova i Ministarstvu pravosuđa i uprave | [`pravilnik/1993/87/`](pravilnik/1993/87/) | in force | 1 | 1993-01-31 | 1993-01-31 |
 | Pravilnik o posebnim uvjetima što ih moraju ispunjavati poslovne prostorije za proizvodnju oružja, promet oružja i streljiva, popravljanje i prepravljanje oružja, vođenje civilnih strelišta, te zaštit | [`pravilnik/1993/90/`](pravilnik/1993/90/) | in force | 1 | 1993-01-23 | 1993-01-23 |
+| Pravilnik o tehničkim pregledima vozila | [`pravilnik/1993/112/`](pravilnik/1993/112/) | repealed, not consolidated | 1 | 1993-02-06 | 1993-02-06 |
+| Pravilnik o znacima što ih sudionicima u prometu na cestama daju ovlaštene osobe | [`pravilnik/1993/113/`](pravilnik/1993/113/) | amended, not consolidated | 1 | 1993-02-06 | 1993-02-06 |
 | Pravilnik o izmjenama i dopunama Pravilnika o polaganju stručnog ispita i izdavanju ovlaštenja članovima posade brodova trgovačke mornarice | [`pravilnik/1993/140/`](pravilnik/1993/140/) | amending act | 1 | 1993-02-09 | 1993-02-09 |
 | Pravilnik o načinu vođenja evidencije o korisnicima, opsegu prikupljene i raspodijeljene humanitarne pomoći, te o sadržaju i rokovima izvješća | [`pravilnik/1993/141/`](pravilnik/1993/141/) | in force | 1 | 1993-02-09 | 1993-02-09 |
+| Pravilnik o odori osoba koje obavljaju kontrolu parkiranja na mjestima gdje je to vremenski ograničeno | [`pravilnik/1993/163/`](pravilnik/1993/163/) | repealed, not consolidated | 1 | 1993-02-11 | 1993-02-11 |
+| Pravilnik o registraciji vozila na motorni pogon i priključnih vozila | [`pravilnik/1993/185/`](pravilnik/1993/185/) | repealed, not consolidated | 1 | 1993-02-13 | 1993-02-13 |
+| Pravilnik o vozačkim dozvolama | [`pravilnik/1993/186/`](pravilnik/1993/186/) | repealed, not consolidated | 1 | 1993-02-13 | 1993-02-13 |
 | Pravilnik o načinu izdavanja i oduzimanja sadržaja i oblik dopuštenja (licence) te o uvjetima koje mora ispunjavati stručna organizacija iz članka 277. Zakona o sigurnosti prometa na cestama | [`pravilnik/1993/187/`](pravilnik/1993/187/) | in force | 1 | 1993-02-13 | 1993-02-13 |
+| Pravilnik o ortopedskim i drugim pomagalima | [`pravilnik/1993/211/`](pravilnik/1993/211/) | amended, not consolidated | 1 | 1993-02-13 | 1993-02-13 |
+| Pravilnik o uvjetima i načinu izvođenja i stjecanja srednjoškolskog obrazovanja odraslih | [`pravilnik/1993/227/`](pravilnik/1993/227/) | repealed, not consolidated | 1 | 1993-02-23 | 1993-02-23 |
 | Pravilnik o obrascu službene iskaznice inspektora Financijske policije | [`pravilnik/1993/261/`](pravilnik/1993/261/) | in force | 1 | 1993-02-25 | 1993-02-25 |
+| Pravilnik o ukupnom trajanju vremena upravljanja vozilom, o radu udvojenih posada, o odmorima vozača i o individualnoj kontrolnoj knjižici | [`pravilnik/1993/290/`](pravilnik/1993/290/) | amended, not consolidated | 1 | 1993-03-12 | 1993-03-12 |
+| Pravilnik o načinu i sadržaju vođenja evidencije i načinu obilježavanja i održavanja groblja i grobova pripadnika stranih oružanih sila | [`pravilnik/1993/291/`](pravilnik/1993/291/) | in force | 1 | 1993-03-04 | 1993-03-04 |
+| Pravilnik o tehničkim uvjetima vozila u prometu na cestama | [`pravilnik/1993/307/`](pravilnik/1993/307/) | repealed, not consolidated | 1 | 1993-03-16 | 1993-03-16 |
 | Pravilnik o obrascima i načinu upisa u sudski registar | [`pravilnik/1993/352/`](pravilnik/1993/352/) | in force | 1 | 1993-03-27 | 1993-03-27 |
+| Pravilnik o sadržaju, uvjetima i načinu izdavanja, te uporabi socijalne iskaznice | [`pravilnik/1993/353/`](pravilnik/1993/353/) | cited later, not consolidated | 1 | 1993-03-19 | 1993-03-19 |
 | Pravilnik o osposobljavanju vojnih osoba za vozače vozila na motorni pogon i načinu polaganja vozačkih ispita | [`pravilnik/1993/364/`](pravilnik/1993/364/) | in force | 1 | 1993-03-23 | 1993-03-23 |
+| Pravilnik o izmjenama i dopunama Pravilnika o registraciji vozila na motorni pogon i priključnih vozila | [`pravilnik/1993/366/`](pravilnik/1993/366/) | amending act | 1 | 1993-03-23 | 1993-03-23 |
+| Pravilnik o izmjeni Pravilnika o ortopedskim i drugim pomagalima | [`pravilnik/1993/450/`](pravilnik/1993/450/) | amended, not consolidated | 1 | 1993-04-01 | 1993-04-01 |
 | Pravilnik o izmjeni Pravilnika o ovlastima, dužnostima i sastavu liječničkih komisija | [`pravilnik/1993/554/`](pravilnik/1993/554/) | in force | 1 | 1993-04-22 | 1993-04-22 |
 | Pravilnik o izmjenama i dopunama Pravilnika o obliku, sadržaju i uporabi instrumenata platnog prometa | [`pravilnik/1993/939/`](pravilnik/1993/939/) | amending act | 1 | 1993-05-24 | 1993-05-24 |
 | Pravilnik o izmjenama Pravilnika o Stalnom izbranom sudištu pri Hrvatskoj gospodarskoj komori | [`pravilnik/1993/940/`](pravilnik/1993/940/) | in force | 1 | 1993-06-01 | 1993-06-01 |
 | Pravilnik o načinu i postupku ostvarivanja regresa dijela kamate na korištena sredstva za prioritetne namjene u poljoprivredi | [`pravilnik/1993/977/`](pravilnik/1993/977/) | in force | 1 | 1993-05-28 | 1993-05-28 |
 | Pravilnik o uvjetima kojima moraju udovoljavati objekti za smještaj životinja i skladišta za smještaj proizvoda životinjskog podrijetla i otpadne animalne tvari na graničnim prijelazima | [`pravilnik/1993/1009/`](pravilnik/1993/1009/) | in force | 1 | 1993-06-30 | 1993-06-30 |
 | Pravilnik o uvjetima kojima moraju udovoljavati kolodvori i pristaništa za utovar, pretovar i istovar pošiljki životinja | [`pravilnik/1993/1010/`](pravilnik/1993/1010/) | in force | 1 | 1993-06-30 | 1993-06-30 |
+| Pravilnik o davanju ovlaštenja za kontrolu projekata | [`pravilnik/1993/1034/`](pravilnik/1993/1034/) | repealed, not consolidated | 1 | 1993-06-11 | 1993-06-11 |
+| Pravilnik o osnovnom umjetničkom školovanju | [`pravilnik/1993/1035/`](pravilnik/1993/1035/) | cited later, not consolidated | 1 | 1993-06-11 | 1993-06-11 |
+| Pravilnik o izmjenama i dopunama Pravilnika o ortopedskim i drugim pomagalima | [`pravilnik/1993/1037/`](pravilnik/1993/1037/) | amended, not consolidated | 1 | 1993-06-03 | 1993-06-03 |
 | Pravilnik o vrsti stručne spreme učitelja i stručnih suradnika u osnovnoj školi | [`pravilnik/1993/1154/`](pravilnik/1993/1154/) | in force | 1 | 1993-06-24 | 1993-06-24 |
+| Pravilnik o uvjetima, načinu i obrascu vođenja građevinskog dnevnika | [`pravilnik/1993/1200/`](pravilnik/1993/1200/) | repealed, not consolidated | 1 | 1993-07-02 | 1993-07-02 |
+| Pravilnik o izmjenama i dopuni Pravilnika o iskaznici i znaku graničnog veterinarskog inspektora | [`pravilnik/1993/1219/`](pravilnik/1993/1219/) | amending act | 1 | 1993-07-03 | 1993-07-03 |
+| Pravilnik o kalendaru rada osnovnih škola za 1993/94. školsku godinu | [`pravilnik/1993/1262/`](pravilnik/1993/1262/) | amended, not consolidated | 1 | 1993-07-05 | 1993-07-05 |
+| Pravilnik o visini naknade za obvezne veterinarsko-sanitarne preglede i kontrole | [`pravilnik/1993/1267/`](pravilnik/1993/1267/) | repealed, not consolidated | 1 | 1993-07-09 | 1993-07-09 |
+| Pravilnik o izmjenama i dopunama Pravilnika o uvjetima i načinu ostvarivanja zdravstvene zaštite osiguranika Republičkog fonda zdravstvenog osiguranja i zdravstva Hrvatske | [`pravilnik/1993/1304/`](pravilnik/1993/1304/) | amending act | 1 | 1993-07-15 | 1993-07-15 |
+| Pravilnik o izmjenama Pravilnika o matičnom broju | [`pravilnik/1993/1486/`](pravilnik/1993/1486/) | in force | 1 | 1993-07-28 | 1993-07-28 |
+| Pravilnik o izmjeni Pravilnika o naknadama za javnu izvedbu i priopćavanje javnosti glazbenih djela te naknadama za korištenje glazbenih izvedbenih materijala | [`pravilnik/1993/1501/`](pravilnik/1993/1501/) | in force | 1 | 1993-05-20 | 1993-05-20 |
+| Pravilnik o izmjeni Pravilnika o visini naknade za obvezne veterinarsko-sanitarne preglede i kontrole | [`pravilnik/1993/1518/`](pravilnik/1993/1518/) | in force | 1 | 1993-08-07 | 1993-08-07 |
 | Pravilnik o izmjenama Pravilnika o kalendaru rada osnovnih škola za 1993/94. školsku godinu | [`pravilnik/1993/1542/`](pravilnik/1993/1542/) | in force | 1 | 1993-08-21 | 1993-08-21 |
 | Pravlnik o izmjenama Pravilnika o početku i završetku nastave i trajanju odmora učenika srednjih škola u 1993/94. školskoj godini | [`pravilnik/1993/1543/`](pravilnik/1993/1543/) | in force | 1 | 1993-08-21 | 1993-08-21 |
+| Pravilnik o službenim odorama inspektora i drugih ovlaštenih djelatnika Financijske policije | [`pravilnik/1993/1592/`](pravilnik/1993/1592/) | cited later, not consolidated | 1 | 1993-08-28 | 1993-08-28 |
+| Pravilnik o polaganju stručnog ispita učitelja i stručnih suradnika u osnovnoj školi | [`pravilnik/1993/1614/`](pravilnik/1993/1614/) | repealed, not consolidated | 1 | 1993-09-07 | 1993-09-07 |
+| Pravilnik o sadržaju, obliku i načinu izdavanja dozvole instruktora vožnje | [`pravilnik/1993/1654/`](pravilnik/1993/1654/) | amended, not consolidated | 1 | 1993-09-11 | 1993-09-11 |
+| Pravilnik o dopunama Pravilnika o primjeni Zakona o porezu na promet proizvoda i usluga | [`pravilnik/1993/1660/`](pravilnik/1993/1660/) | amending act | 1 | 1993-09-08 | 1993-09-08 |
+| Pravilnik o izmjenama i dopunama Pravilnika o radnim obvezama učitelja i stručnih suradnika u osnovnoj školi | [`pravilnik/1993/1682/`](pravilnik/1993/1682/) | amended, not consolidated | 1 | 1993-09-29 | 1993-09-29 |
+| Pravilnik o pošiljkama proizvoda životinjskog podrijetla za koje ne postoje veterinarsko-sanitarne smetnje pri uvozu i provozu | [`pravilnik/1993/1686/`](pravilnik/1993/1686/) | repealed, not consolidated | 1 | 1993-10-02 | 1993-10-02 |
+| Pravilnik o klasifikaciji, minimalnim uvjetima i kategorizaciji ugostiteljskih objekata | [`pravilnik/1993/1696/`](pravilnik/1993/1696/) | amended, not consolidated | 1 | 1993-10-06 | 1993-10-06 |
+| Pravilnik o srednjoškolskom obrazovanju darovitih učenika | [`pravilnik/1993/1755/`](pravilnik/1993/1755/) | repealed, not consolidated | 1 | 1993-10-12 | 1993-10-12 |
+| Pravilnik o obračunavanju, plaćanju i povratu poreza na promet pri izvozu i provozu određenih proizvoda u zemlje za koje je potreban pojačam carinski nadzor | [`pravilnik/1993/1892/`](pravilnik/1993/1892/) | in force | 1 | 1993-10-26 | 1993-10-26 |
+| Pravilnik o dopunama Pravilnika o davanju ovlaštenja za kontrolu projekata | [`pravilnik/1993/1949/`](pravilnik/1993/1949/) | amending act | 1 | 1993-11-05 | 1993-11-05 |
+| Pravilnik o tehničkim uvjetima, kojima s obzirom na izradbu moraju udovoljavati predmeti od plemenitih kovina | [`pravilnik/1993/2040/`](pravilnik/1993/2040/) | repealed, not consolidated | 1 | 1993-12-08 | 1993-12-08 |
+| Pravilnik o tehničkim uvjetima radnog prostora i opreme za ispitivanje i žigosanje predmeta od plemenitih kovina | [`pravilnik/1993/2041/`](pravilnik/1993/2041/) | repealed, not consolidated | 1 | 1993-12-08 | 1993-12-08 |
+| Pravilnik o oblicima državnih žigova | [`pravilnik/1993/2042/`](pravilnik/1993/2042/) | repealed, not consolidated | 1 | 1993-12-08 | 1993-12-08 |
+| Pravilnik o obliku i sadržaju oznake čistoće i načinu određivanja i obilježavanja stupnjeva čistoće predmeta od plemenitih kovina | [`pravilnik/1993/2043/`](pravilnik/1993/2043/) | repealed, not consolidated | 1 | 1993-12-08 | 1993-12-08 |
 | Pravilnik o izmjenama Pravilnika o iskaznici osoba ovlaštenih za nadzor predmeta od plemenitih kovina | [`pravilnik/1993/2044/`](pravilnik/1993/2044/) | in force | 1 | 1993-12-08 | 1993-12-08 |
+| Pravilnik o obrascu potvrde o smrti | [`pravilnik/1993/2141/`](pravilnik/1993/2141/) | repealed, not consolidated | 1 | 1993-12-25 | 1993-12-25 |
 | Pravilnik o obliku i sadržaju popisa dugotrajne imovine | [`pravilnik/1993/2179/`](pravilnik/1993/2179/) | in force | 1 | 1993-12-29 | 1993-12-29 |
 | Pravilnik o izmjeni Pravilnika o ostvarivanju socijalne zaštite | [`pravilnik/1993/2181/`](pravilnik/1993/2181/) | in force | 1 | 1993-12-21 | 1993-12-21 |
+| Pravilnik o obrascima za dostavljanje statističkih podataka tijelima državne statistike | [`pravilnik/1993/2182/`](pravilnik/1993/2182/) | amended, not consolidated | 1 | 1993-12-29 | 1993-12-29 |
+| Pravilnik o poslovnim knjigama fizičkih osoba koje se bave obrtom ili slobodnim zanimanjem a oporezuju se porezom na dohodak | [`pravilnik/1993/2202/`](pravilnik/1993/2202/) | cited later, not consolidated | 1 | 1993-12-24 | 1993-12-24 |
+| Pravilnik o primjeni Zakona o porezu na promet proizvoda i usluga | [`pravilnik/1993/2203/`](pravilnik/1993/2203/) | amended, not consolidated | 1 | 1993-12-24 | 1993-12-24 |
+| Pravilnik o posebnom stažu ostvarenom u domovinskom ratu | [`pravilnik/1993/2205/`](pravilnik/1993/2205/) | repealed, not consolidated | 1 | 1994-01-01 | 1994-01-01 |
 | Pravilnik o utvrđivanju zvanja učitelja i stručnih suradnika u osnovnim školama te postupku, načinu i uvjetima njihova stjecanja | [`pravilnik/1993/2206/`](pravilnik/1993/2206/) | in force | 1 | 1994-01-01 | 1994-01-01 |
 | Pravilnik o izmjeni Pravilnika o klasifikaciji,minimalnim uvjetima i kategorizaciji ugostiteljskih objekata | [`pravilnik/1993/2247/`](pravilnik/1993/2247/) | in force | 1 | 1993-12-30 | 1993-12-30 |
 | Pravilnik o Državnoj nagradi tehničke kulture Faust Vrančić | [`pravilnik/1994/5/`](pravilnik/1994/5/) | in force | 1 | 1994-01-07 | 1994-01-07 |

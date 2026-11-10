@@ -15,13 +15,13 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 
 | Act | Title | Versions | Span |
 | --- | --- | ---: | --- |
-| 31202 acts | every act, with its kind, number, status and span, is listed in [ACTS.md](ACTS.md) | 31628 | |
+| 31502 acts | every act, with its kind, number, status and span, is listed in [ACTS.md](ACTS.md) | 31928 | |
 
-The build made 32779 commits:
+The build made 33079 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 32354 | first version of an act |
+| 32654 | first version of an act |
 | 425 | one law on its in-force day |
 | 0 | changes no amendment note explains, credited to the publisher |
 
@@ -29,7 +29,7 @@ Other counts:
 - 0 commits on the branch `buducnost`: laws not yet in force on 2026-11-10.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
 - 33023 laws in the record.
-- 61954 tags.
+- 62554 tags.
 
 ## Dates
 
