@@ -1142,6 +1142,3441 @@
    ]
   },
   {
+   "slug": "odluka-2000-1001",
+   "path": "odluka/2000/1001",
+   "short": "Odluka o davanju suglasnosti na Izmjene i dopune Statuta Kliničkog bolničkog centra Zagreb",
+   "title": "Odluka o davanju suglasnosti na Izmjene i dopune Statuta Kliničkog bolničkog centra Zagreb",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/43/1001",
+   "versions": [
+    {
+     "from": "2000-04-20",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2000_04_43_1001.html",
+     "sha256": "6bc508b39884c735173b15bfd929ccb90f4d7e15c0eba3c15ed922174ebc3403"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2000-1016",
+   "path": "odluka/2000/1016",
+   "short": "Odluka o utvrđivanju interesa Republike Hrvatske za izgradnju postrojenja za mljevenje i skladištenje vapnenog brašna s pratećim prostorijama te rezervoarom za lož ulje i eurodizel, s potrebnom opremom za pretakanje",
+   "title": "Odluka o utvrđivanju interesa Republike Hrvatske za izgradnju postrojenja za mljevenje i skladištenje vapnenog brašna s pratećim prostorijama te rezervoarom za lož ulje i eurodizel, s potrebnom opremom za pretakanje",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/44/1016",
+   "versions": [
+    {
+     "from": "2000-04-26",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2000_04_44_1016.html",
+     "sha256": "234c5735be266db67fef50f143503afe857e66a87cd7fc2e504918667cf080c3"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2000-1063",
+   "path": "odluka/2000/1063",
+   "short": "Odluka o izuzimanju od zabrane raspolaganja nekretninama na teritoriju Republike Hrvatske pravnih osoba sa sjedištem u Republici Sloveniji, Republici Makedoniji i Bosni i Hercegovini",
+   "title": "Odluka o izuzimanju od zabrane raspolaganja nekretninama na teritoriju Republike Hrvatske pravnih osoba sa sjedištem u Republici Sloveniji, Republici Makedoniji i Bosni i Hercegovini",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/46/1063",
+   "versions": [
+    {
+     "from": "2000-05-03",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2000_05_46_1063.html",
+     "sha256": "a8fb6a88a694c8ed93bb9b22f0425249d763724875fe2f445c6423300d22d464"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2000-1064",
+   "path": "odluka/2000/1064",
+   "short": "Odluka o dopuni Odluke o određivanju robe koju se izvozi i uvozi na temelju dozvola",
+   "title": "Odluka o dopuni Odluke o određivanju robe koju se izvozi i uvozi na temelju dozvola",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/46/1064",
+   "versions": [
+    {
+     "from": "2000-05-11",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2000_05_46_1064.html",
+     "sha256": "7cc4eb52a028582355f35b62f02e0a8386759000332a9e199daa684614fee129"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2000-1065",
+   "path": "odluka/2000/1065",
+   "short": "Odluka o izmjenama i dopunama Odluke o promjeni nazivlja i brojčanog označavanja robe za pojedine tarifne oznake u carinskoj zoni",
+   "title": "Odluka o izmjenama i dopunama Odluke o promjeni nazivlja i brojčanog označavanja robe za pojedine tarifne oznake u carinskoj zoni",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/46/1065",
+   "versions": [
+    {
+     "from": "2000-05-11",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2000_05_46_1065.html",
+     "sha256": "4458209e7abcfd139f368c8a36cdaa99aef81e1a5adce52a85452dca5e355fad"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2000-1094",
+   "path": "odluka/2000/1094",
+   "short": "Odluka o raspisivanju izbora za Gradsko vijeće Grada Nove Gradiške",
+   "title": "Odluka o raspisivanju izbora za Gradsko vijeće Grada Nove Gradiške",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/48/1094",
+   "versions": [
+    {
+     "from": "2000-05-11",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2000_05_48_1094.html",
+     "sha256": "19d570856c2f2bed3699862f949eafaac52b574df96ea7a8663389b6579a6375"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2000-1095",
+   "path": "odluka/2000/1095",
+   "short": "Odluka o raspisivanju izbora za Gradsko vijeće Grada Samobora",
+   "title": "Odluka o raspisivanju izbora za Gradsko vijeće Grada Samobora",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/48/1095",
+   "versions": [
+    {
+     "from": "2000-05-11",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2000_05_48_1095.html",
+     "sha256": "08fc09205c10bce8e0caedaa42d998419b0d456ca6ebbb8138abda60a293a1d5"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2000-1096",
+   "path": "odluka/2000/1096",
+   "short": "Odluka o raspisivanju izbora za Općinsko vijeće Općine Murter",
+   "title": "Odluka o raspisivanju izbora za Općinsko vijeće Općine Murter",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/48/1096",
+   "versions": [
+    {
+     "from": "2000-05-11",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2000_05_48_1096.html",
+     "sha256": "10e08911ef818331ae49eb53329a8bd4588b2ee98dc1c55a99f62155e6b05f26"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2000-1097",
+   "path": "odluka/2000/1097",
+   "short": "Odluka o raspisivanju izbora za Općinsko vijeće Općine Preko",
+   "title": "Odluka o raspisivanju izbora za Općinsko vijeće Općine Preko",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/48/1097",
+   "versions": [
+    {
+     "from": "2000-05-11",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2000_05_48_1097.html",
+     "sha256": "69ad28f71b02bf98f0a28745726ce4308dc147697db9d2bf28b912a1be4ae139"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2000-1098",
+   "path": "odluka/2000/1098",
+   "short": "Odluka o raspisivanju izbora za Općinsko vijeće Općine Gornja Rijeka",
+   "title": "Odluka o raspisivanju izbora za Općinsko vijeće Općine Gornja Rijeka",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/48/1098",
+   "versions": [
+    {
+     "from": "2000-05-11",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2000_05_48_1098.html",
+     "sha256": "0f7825c20f55e612a2621ef7d489871aeb59075f3d11048c726c1116a6a04b0a"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2000-1108",
+   "path": "odluka/2000/1108",
+   "short": "Odluka o dopuni Odluke o utvrđivanju visine koeficijenata za izračun plaće, odnosno naknade plaće povjerenika Vlade Republike Hrvatske",
+   "title": "Odluka o dopuni Odluke o utvrđivanju visine koeficijenata za izračun plaće, odnosno naknade plaće povjerenika Vlade Republike Hrvatske",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/49/1108",
+   "versions": [
+    {
+     "from": "2000-05-12",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2000_05_49_1108.html",
+     "sha256": "ee21d4f79632db6158c22bdc071cb0ae737218a54cadcc70f8f05cd7c4303db8"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2000-1109",
+   "path": "odluka/2000/1109",
+   "short": "Odluka o promjeni svote carine po mjernoj jedinici pri uvozu pojedinih poljoprivrednih i prehrambenih proizvoda iz Dodatka A Carinske tarife",
+   "title": "Odluka o promjeni svote carine po mjernoj jedinici pri uvozu pojedinih poljoprivrednih i prehrambenih proizvoda iz Dodatka A Carinske tarife",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/49/1109",
+   "versions": [
+    {
+     "from": "2000-05-16",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2000_05_49_1109.html",
+     "sha256": "441c70e607c92729acb4f8eb95a5578c6b1bbfa52b3ad82f47662652368a4de5"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2000-1113",
+   "path": "odluka/2000/1113",
+   "short": "Odluka o osnivanju Bioetičkog povjerenstva za praćenje genetski modificiranih organizama",
+   "title": "Odluka o osnivanju Bioetičkog povjerenstva za praćenje genetski modificiranih organizama",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/50/1113",
+   "versions": [
+    {
+     "from": "2000-05-17",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2000_05_50_1113.html",
+     "sha256": "2b952324a93e3476331f0d8823fd0e38a6613c756245288086fa9d7bb81cc4fd"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2000-1120",
+   "path": "odluka/2000/1120",
+   "short": "Odluka o obavljanju nadzora nad poslovanjem banaka",
+   "title": "Odluka o obavljanju nadzora nad poslovanjem banaka",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/50/1120",
+   "versions": [
+    {
+     "from": "2000-05-25",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2000_05_50_1120.html",
+     "sha256": "19783fbb5ee04992b09702bb419056525e389322caee0ea514cb742d2123c762"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2000-1121",
+   "path": "odluka/2000/1121",
+   "short": "Odluka o izdavanju i prodaji prigodnoga zlatnog kovanog novca \"10. Obljetnica konstituiranja Hrvatskoga državnog sabora 30. V. 1990. - 30. V. 2000.\"",
+   "title": "Odluka o izdavanju i prodaji prigodnoga zlatnog kovanog novca \"10. Obljetnica konstituiranja Hrvatskoga državnog sabora 30. V. 1990. - 30. V. 2000.\"",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/50/1121",
+   "versions": [
+    {
+     "from": "2000-05-17",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2000_05_50_1121.html",
+     "sha256": "05d789e20eeb14ab16fed1882958fd28cd6a12e2d2bcdd136fd35ebbf7d96aee"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2000-1131",
+   "path": "odluka/2000/1131",
+   "short": "Odluka o osnivanju Konzulata Republike Hrvatske u Republici Sudan, sa sjedištem u Karthoumu",
+   "title": "Odluka o osnivanju Konzulata Republike Hrvatske u Republici Sudan, sa sjedištem u Karthoumu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/51/1131",
+   "versions": [
+    {
+     "from": "2000-05-09",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2000_05_51_1131.html",
+     "sha256": "9ddc6b2d221ad8b16c388daf9d62ac5aca5e93fda51bc940901ac7aff33f9c65"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2000-1174",
+   "path": "odluka/2000/1174",
+   "short": "Odluka o osnovama za sklapanje ugovora sa zdravstvenim ustanovama i privatnim zdravstvenim djelatnicima",
+   "title": "Odluka o osnovama za sklapanje ugovora sa zdravstvenim ustanovama i privatnim zdravstvenim djelatnicima",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/52/1174",
+   "versions": [
+    {
+     "from": "2000-05-23",
+     "units": 40,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2000_05_52_1174.html",
+     "sha256": "53e20caf273263dc5079a533de29b5ee845083491a4efd203af337bf149ed648"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2000-1185",
+   "path": "odluka/2000/1185",
+   "short": "Odluka o izmjenama i dopunama Odluke o sanaciji i restrukturiranju Croatia banke d.d., Zagreb",
+   "title": "Odluka o izmjenama i dopunama Odluke o sanaciji i restrukturiranju Croatia banke d.d., Zagreb",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/53/1185",
+   "versions": [
+    {
+     "from": "2000-05-26",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2000_05_53_1185.html",
+     "sha256": "e4a0afd35a0888f9793de3918b20048f31565e9431fcd2ccc714c77895fe3583"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2000-1204",
+   "path": "odluka/2000/1204",
+   "short": "Odluka o prestanku Hrvatske agencije za promicanje ulaganja",
+   "title": "Odluka o prestanku Hrvatske agencije za promicanje ulaganja",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/54/1204",
+   "versions": [
+    {
+     "from": "2000-05-31",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2000_05_54_1204.html",
+     "sha256": "f7b8a974d3a04c5ed59e89f235b84624454a3e15ed40d8f39ff212c76575acd8"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2000-1205",
+   "path": "odluka/2000/1205",
+   "short": "Odluka o rasporedu sredstava Državnog proračuna Republike Hrvatske za 2000. godinu za održavanje županijskih i lokalnih cesta u 2000. godini",
+   "title": "Odluka o rasporedu sredstava Državnog proračuna Republike Hrvatske za 2000. godinu za održavanje županijskih i lokalnih cesta u 2000. godini",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/54/1205",
+   "versions": [
+    {
+     "from": "2000-06-08",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2000_05_54_1205.html",
+     "sha256": "002eb9a48f4abc8883d92fc637bae0ad2097eec91fa4cacd25eaf38cbf0b8df1"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2000-1206",
+   "path": "odluka/2000/1206",
+   "short": "Odluka o davanju suglasnosti na Odluku o dopuni Statuta Centra za regionalne aktivnosti programa prioritetnih akcija Mediteranskog akcionog plana u Splitu",
+   "title": "Odluka o davanju suglasnosti na Odluku o dopuni Statuta Centra za regionalne aktivnosti programa prioritetnih akcija Mediteranskog akcionog plana u Splitu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/54/1206",
+   "versions": [
+    {
+     "from": "2000-05-25",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2000_05_54_1206.html",
+     "sha256": "659e2ce6c580458d550fa80e020ff7ee5b9855fd2c647462cc76e6537e89ec1a"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2000-1220",
+   "path": "odluka/2000/1220",
+   "short": "Odluka o korištenju zrakoplova u vlasništvu Republike Hrvatske, tipa Challenger CL-604, reg. oznake 9A-CRO",
+   "title": "Odluka o korištenju zrakoplova u vlasništvu Republike Hrvatske, tipa Challenger CL-604, reg. oznake 9A-CRO",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/55/1220",
+   "versions": [
+    {
+     "from": "2000-05-29",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2000_06_55_1220.html",
+     "sha256": "78fa206dacd4a026b0a5454b554da7d066c5e06eef83c82416568103a1caeba9"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2000-1221",
+   "path": "odluka/2000/1221",
+   "short": "Odluka o prodaji zrakoplova u vlasništvu Republike Hrvatske, tipa Challenger CL-601, reg. oznake 9A-CRT",
+   "title": "Odluka o prodaji zrakoplova u vlasništvu Republike Hrvatske, tipa Challenger CL-601, reg. oznake 9A-CRT",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/55/1221",
+   "versions": [
+    {
+     "from": "2000-05-29",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2000_06_55_1221.html",
+     "sha256": "fe76b2cd37195fb60cc1b2cd17c1d15a0b6d62fec8c9ef5a013b3abf5a31d198"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2000-1293",
+   "path": "odluka/2000/1293",
+   "short": "Odluka o visini naknade za zaštitu voda",
+   "title": "Odluka o visini naknade za zaštitu voda",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/58/1293",
+   "versions": [
+    {
+     "from": "2000-07-01",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2000_06_58_1293.html",
+     "sha256": "7fe5915eefdcb9fc4e8d63dcd71004eb53b5d95ab6326291fc5ce6967613a923"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2000-1295",
+   "path": "odluka/2000/1295",
+   "short": "Odluka o davanju suglasnosti na Izmjene i dopune Statuta Kliničkog bolničkog centra Zagreb",
+   "title": "Odluka o davanju suglasnosti na Izmjene i dopune Statuta Kliničkog bolničkog centra Zagreb",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/58/1295",
+   "versions": [
+    {
+     "from": "2000-06-08",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2000_06_58_1295.html",
+     "sha256": "9e1388cd0a85f9cb6d60454fc016ec5a2bea8ca6c628ffced299da45782be3ad"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2000-1312",
+   "path": "odluka/2000/1312",
+   "short": "Odluka o službenoj uporabi novog naziva Fonda Vijeća Europe za socijalni razvitak - \"Razvojna banka Vijeća Europe\" (CEB) i o prihvaćanju petog povećanja kapitala Razvojne banke Vijeća Europe",
+   "title": "Odluka o službenoj uporabi novog naziva Fonda Vijeća Europe za socijalni razvitak - \"Razvojna banka Vijeća Europe\" (CEB) i o prihvaćanju petog povećanja kapitala Razvojne banke Vijeća Europe",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/59/1312",
+   "versions": [
+    {
+     "from": "2000-06-24",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2000_06_59_1312.html",
+     "sha256": "2ca9c9ef3f03d7e41101fbf0ae5216225d2247134246225ab7b688cc9dffe4df"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2000-1313",
+   "path": "odluka/2000/1313",
+   "short": "Odluka o davanju suglasnosti na Statutarnu odluku o izmjeni Statuta Hrvatskog fonda za privatizaciju",
+   "title": "Odluka o davanju suglasnosti na Statutarnu odluku o izmjeni Statuta Hrvatskog fonda za privatizaciju",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/59/1313",
+   "versions": [
+    {
+     "from": "2000-06-08",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2000_06_59_1313.html",
+     "sha256": "7a420896d1f675188c7ac74300751477175c98a010f1f6c6086380a048a118e9"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2000-1319",
+   "path": "odluka/2000/1319",
+   "short": "Odluka o vrijednosti etalonskog stana u 2000. godini",
+   "title": "Odluka o vrijednosti etalonskog stana u 2000. godini",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/59/1319",
+   "versions": [
+    {
+     "from": "2000-06-08",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2000_06_59_1319.html",
+     "sha256": "947c032153010a0343c647324ff7e82af3cf2f2e0f32d0955f0a9917176b9257"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2000-1329",
+   "path": "odluka/2000/1329",
+   "short": "Odluka o promjeni svote carine po mjernoj jedinici pri uvozu pojedinih poljoprivrednih i prehrambenih proizvoda iz Dodatka A Carinske tarife",
+   "title": "Odluka o promjeni svote carine po mjernoj jedinici pri uvozu pojedinih poljoprivrednih i prehrambenih proizvoda iz Dodatka A Carinske tarife",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/60/1329",
+   "versions": [
+    {
+     "from": "2000-06-24",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2000_06_60_1329.html",
+     "sha256": "09669f83aaae9a9dd1aecb97c23dc68721ba25a9855bc15e6b40f980f94bb331"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2000-1330",
+   "path": "odluka/2000/1330",
+   "short": "Odluka o dodjeli koncesije za zahvaćanje voda za potrebe javne vodoopskrbe Vodovodu grada Vukovara d.o.o., Vukovar",
+   "title": "Odluka o dodjeli koncesije za zahvaćanje voda za potrebe javne vodoopskrbe Vodovodu grada Vukovara d.o.o., Vukovar",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/60/1330",
+   "versions": [
+    {
+     "from": "2000-06-15",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2000_06_60_1330.html",
+     "sha256": "e4c62d7a7f38a0877fae6322d240fb000bed139c54bbcbf9bc9c73a8a0c4b64f"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2000-1331",
+   "path": "odluka/2000/1331",
+   "short": "Odluka o dodjeli koncesije na vodama u svrhu uzgoja riba u zatvorenim vodama tvrtki Marga, ribarstvo i turizam d.o.o., Pisarovina",
+   "title": "Odluka o dodjeli koncesije na vodama u svrhu uzgoja riba u zatvorenim vodama tvrtki Marga, ribarstvo i turizam d.o.o., Pisarovina",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/60/1331",
+   "versions": [
+    {
+     "from": "2000-06-15",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2000_06_60_1331.html",
+     "sha256": "fdd8b830a254d114a97386bcb8ad7869a4a6e18e0009fe89d78bbeba77cb6472"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2000-134",
+   "path": "odluka/2000/134",
+   "short": "Odluka o sazivanju prvog zasjedanja Zastupničkog doma Hrvatskoga državnog sabora",
+   "title": "Odluka o sazivanju prvog zasjedanja Zastupničkog doma Hrvatskoga državnog sabora",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/11/134",
+   "versions": [
+    {
+     "from": "2000-01-25",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2000_01_11_134.html",
+     "sha256": "1e74be9107edc399a3627ea43b3e2822415c504dc849cf8522d31bb6c5371102"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2000-1350",
+   "path": "odluka/2000/1350",
+   "short": "Odluka o osnivanju stalne misije Republike Hrvatske pri Sjevernoatlanstkom savezu, sa sjedištem u Bruxellesu",
+   "title": "Odluka o osnivanju stalne misije Republike Hrvatske pri Sjevernoatlanstkom savezu, sa sjedištem u Bruxellesu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/62/1350",
+   "versions": [
+    {
+     "from": "2000-06-21",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2000_06_62_1350.html",
+     "sha256": "5dc95bc013ae793d327be1dd22f2d3be32227fc2be310957ba2c5a57980d6958"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2000-1353",
+   "path": "odluka/2000/1353",
+   "short": "Odluka o visini naknade za korištenje voda",
+   "title": "Odluka o visini naknade za korištenje voda",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/62/1353",
+   "versions": [
+    {
+     "from": "2000-07-01",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2000_06_62_1353.html",
+     "sha256": "07e4a4d4c723e51a502351e55340a544458a504ad69158262f2b102c5b6df43a"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2000-1354",
+   "path": "odluka/2000/1354",
+   "short": "Odluka o izmjeni odluke o koncesiji pomorskog dobra u svrhu gospodarskog korištenja luke posebne namjene-industrijeske luke TC Umag",
+   "title": "Odluka o izmjeni odluke o koncesiji pomorskog dobra u svrhu gospodarskog korištenja luke posebne namjene-industrijeske luke TC Umag",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/62/1354",
+   "versions": [
+    {
+     "from": "2000-06-21",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2000_06_62_1354.html",
+     "sha256": "ff2170deccce94715e8c7b52b2fdb99e6e45dfbd24a9d1f32004c77fac714b9f"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2000-1382",
+   "path": "odluka/2000/1382",
+   "short": "Odluka o izmjeni Odluke o osnivanju istražnog povjerenstva za utvrđivanje činjenica u svezi s prodajom poduzeća \"Večernji list\" d.d. Zagreb",
+   "title": "Odluka o izmjeni Odluke o osnivanju istražnog povjerenstva za utvrđivanje činjenica u svezi s prodajom poduzeća \"Večernji list\" d.d. Zagreb",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/63/1382",
+   "versions": [
+    {
+     "from": "2000-06-21",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2000_06_63_1382.html",
+     "sha256": "b5cb988301866d6df914bdf409f3ea4a91d56e77e807c487c1f4689a5dd6b9c6"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2000-1430",
+   "path": "odluka/2000/1430",
+   "short": "Odluka o puštanju u optjecaj kovanog novca kuna i lipa s oznakom godine kovanja \"2000.\"",
+   "title": "Odluka o puštanju u optjecaj kovanog novca kuna i lipa s oznakom godine kovanja \"2000.\"",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/64/1430",
+   "versions": [
+    {
+     "from": "2000-07-05",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2000_07_64_1430.html",
+     "sha256": "c50c7ac6f7def97849dc7c8ae5f68751eb1c89d8a7fb41c85722398ccbba734d"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2000-1441",
+   "path": "odluka/2000/1441",
+   "short": "Odluka o isključenju dijela pomorskog dobra iz opće upotrebe za Most Dubrovnik i davanju na posebnu upotrebu Hrvatskoj upravi za ceste",
+   "title": "Odluka o isključenju dijela pomorskog dobra iz opće upotrebe za Most Dubrovnik i davanju na posebnu upotrebu Hrvatskoj upravi za ceste",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/65/1441",
+   "versions": [
+    {
+     "from": "2000-07-04",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2000_07_65_1441.html",
+     "sha256": "caeb891a8ee5e9bbdb177ddf81279ec8166d6990060fda177533c8bb62d21ec2"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2000-1442",
+   "path": "odluka/2000/1442",
+   "short": "Odluka o raspisivanju javnog natječaja za dodjelu koncesije za korištenje poljoprivrednog zemljišta u vlasništvu Republike Hrvatske na području Istarske županije",
+   "title": "Odluka o raspisivanju javnog natječaja za dodjelu koncesije za korištenje poljoprivrednog zemljišta u vlasništvu Republike Hrvatske na području Istarske županije",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/65/1442",
+   "versions": [
+    {
+     "from": "2000-07-04",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2000_07_65_1442.html",
+     "sha256": "712f7350ad86bc879279c814700632c56ef3dd690769f359c612107a907d92bb"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2000-1443",
+   "path": "odluka/2000/1443",
+   "short": "Odluka o raspisivanju javnog natječaja za dodjelu koncesije za korištenje poljoprivrednog zemljišta u vlasništvu Republike Hrvatske na području Osječko-baranjske županije",
+   "title": "Odluka o raspisivanju javnog natječaja za dodjelu koncesije za korištenje poljoprivrednog zemljišta u vlasništvu Republike Hrvatske na području Osječko-baranjske županije",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/65/1443",
+   "versions": [
+    {
+     "from": "2000-07-04",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2000_07_65_1443.html",
+     "sha256": "befd491e180317e603ae627f9793160937fa57ea50655ea3f8a9bce83ea2de50"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2000-1444",
+   "path": "odluka/2000/1444",
+   "short": "Odluka o davanju suglasnosti na Statut Javne ustanove \"Nacionalni park Plitvička jezera\"",
+   "title": "Odluka o davanju suglasnosti na Statut Javne ustanove \"Nacionalni park Plitvička jezera\"",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/65/1444",
+   "versions": [
+    {
+     "from": "2000-07-04",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2000_07_65_1444.html",
+     "sha256": "cf1b88a068e4031658b61c5ebec3a11dfc69aa4616366e7d7d431b77ad112b87"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2000-146",
+   "path": "odluka/2000/146",
+   "short": "Odluka o osnovama za sklapanje ugovora sa zdravstvenim ustanovama i privatnim zdravstvenim djelatnicima za razdoblje od 1. siječnja do 31. ožujka 2000. godine",
+   "title": "Odluka o osnovama za sklapanje ugovora sa zdravstvenim ustanovama i privatnim zdravstvenim djelatnicima za razdoblje od 1. siječnja do 31. ožujka 2000. godine",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/12/146",
+   "versions": [
+    {
+     "from": "2000-02-01",
+     "units": 39,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2000_02_12_146.html",
+     "sha256": "60e5ca4b939d56a9fb60be2823b17951df71b5744337c11f0734356b59186a46"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2000-1471",
+   "path": "odluka/2000/1471",
+   "short": "Odluka o tehničkim pravilima Hrvatskog registra brodova - opći propisi, izmjene i dopune (2000)",
+   "title": "Odluka o tehničkim pravilima Hrvatskog registra brodova - opći propisi, izmjene i dopune (2000)",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/67/1471",
+   "versions": [
+    {
+     "from": "2001-01-01",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2000_07_67_1471.html",
+     "sha256": "c694913e56fb2706f28ea816aec1e8397eea0eb19ccf138ac9c601ee6e111e7e"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2000-1472",
+   "path": "odluka/2000/1472",
+   "short": "Odluka o tehničkim pravilima Hrvatskog registra brodova - trup, izmjene i dopune (2000)",
+   "title": "Odluka o tehničkim pravilima Hrvatskog registra brodova - trup, izmjene i dopune (2000)",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/67/1472",
+   "versions": [
+    {
+     "from": "2001-01-01",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2000_07_67_1472.html",
+     "sha256": "2c1264a9e55f9618e6c80209f69f34cc987104cd6a6999aeeaedf0dd1651820c"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2000-1473",
+   "path": "odluka/2000/1473",
+   "short": "Odluka o tehničkim pravilima Hrvatskog registra brodova - cjevovodi, izmjene i dopune (2000)",
+   "title": "Odluka o tehničkim pravilima Hrvatskog registra brodova - cjevovodi, izmjene i dopune (2000)",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/67/1473",
+   "versions": [
+    {
+     "from": "2001-01-01",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2000_07_67_1473.html",
+     "sha256": "8b3e782fb9e857f699f23c4d5059dedd76ca7205e5e411310b14a73447c8bc5a"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2000-1474",
+   "path": "odluka/2000/1474",
+   "short": "Odluka o tehničkim pravilima Hrvatskog registra brodova - strojevi, izmjene i dopune (2000)",
+   "title": "Odluka o tehničkim pravilima Hrvatskog registra brodova - strojevi, izmjene i dopune (2000)",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/67/1474",
+   "versions": [
+    {
+     "from": "2001-01-01",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2000_07_67_1474.html",
+     "sha256": "b618673f62637c2ecfa3743e99a353c4a39717d83ee1bf04c9c303a96730b8fc"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2000-1475",
+   "path": "odluka/2000/1475",
+   "short": "Odluka o tehničkim pravilima Hrvatskog registra brodova - kotlovi, izmjenjivači topline i posude pod tlakom, izmjene i dopune (2000)",
+   "title": "Odluka o tehničkim pravilima Hrvatskog registra brodova - kotlovi, izmjenjivači topline i posude pod tlakom, izmjene i dopune (2000)",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/67/1475",
+   "versions": [
+    {
+     "from": "2001-01-01",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2000_07_67_1475.html",
+     "sha256": "81ee6f1ee4497860b9da7800b3830e2066b54cd6efc2800557584b9d1a56b7b1"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2000-1476",
+   "path": "odluka/2000/1476",
+   "short": "Odluka o tehničkim pravilima Hrvatskog registra brodova - rashladni uređaj, izmjene i dopune (2000)",
+   "title": "Odluka o tehničkim pravilima Hrvatskog registra brodova - rashladni uređaj, izmjene i dopune (2000)",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/67/1476",
+   "versions": [
+    {
+     "from": "2001-01-01",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2000_07_67_1476.html",
+     "sha256": "30592959614dc9b3c69a05e9b16bda65a11203826a81726b11610e79d7de5cb0"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2000-1477",
+   "path": "odluka/2000/1477",
+   "short": "Odluka o tehničkim pravilima Hrvatskog registra brodova - električna oprema, izmjene i dopune (2000)",
+   "title": "Odluka o tehničkim pravilima Hrvatskog registra brodova - električna oprema, izmjene i dopune (2000)",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/67/1477",
+   "versions": [
+    {
+     "from": "2001-01-01",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2000_07_67_1477.html",
+     "sha256": "a2223fd01d7999a19312203a2bece4ad6808102db7833a214852fd616f359fd3"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2000-1478",
+   "path": "odluka/2000/1478",
+   "short": "Odluka o tehničkim pravilima Hrvatskog registra brodova - automatizacija, izmjene i dopune (2000)",
+   "title": "Odluka o tehničkim pravilima Hrvatskog registra brodova - automatizacija, izmjene i dopune (2000)",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/67/1478",
+   "versions": [
+    {
+     "from": "2001-01-01",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2000_07_67_1478.html",
+     "sha256": "9c20c7c4d9c92187a9fdd278293ba2dacc5fe585804623cae6e8a78d5c54d8eb"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2000-1480",
+   "path": "odluka/2000/1480",
+   "short": "Odluka o tehničkim pravilima Hrvatskog registra brodova - uređaj za rukovanje teretom i naprave za dizanje, izmjene i dopune (2000)",
+   "title": "Odluka o tehničkim pravilima Hrvatskog registra brodova - uređaj za rukovanje teretom i naprave za dizanje, izmjene i dopune (2000)",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/67/1480",
+   "versions": [
+    {
+     "from": "2001-01-01",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2000_07_67_1480.html",
+     "sha256": "294c7709a7cd7b00822e6ea5bc121af38e510c4be2f6db3b8ccb6694489e39b7"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2000-1482",
+   "path": "odluka/2000/1482",
+   "short": "Odluka o tehničkim pravilima Hrvatskog registra brodova - Prijevoz putnika, Izmjene i dopune (2000)",
+   "title": "Odluka o tehničkim pravilima Hrvatskog registra brodova - Prijevoz putnika, Izmjene i dopune (2000)",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/67/1482",
+   "versions": [
+    {
+     "from": "2001-01-01",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2000_07_67_1482.html",
+     "sha256": "2e704c05b620135293f1f6c89ed4ead5940d69f69394aee73081384e4f74cd52"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2000-1483",
+   "path": "odluka/2000/1483",
+   "short": "Odluka o tehničkim pravilima Hrvatskog registra brodova - Prijevoz tereta, Izmjene i dopune (2000)",
+   "title": "Odluka o tehničkim pravilima Hrvatskog registra brodova - Prijevoz tereta, Izmjene i dopune (2000)",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/67/1483",
+   "versions": [
+    {
+     "from": "2001-01-01",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2000_07_67_1483.html",
+     "sha256": "642225767dcdd617e6abadbb2b2e264c8d1b0bfe30d9666617d29fe6d04285b9"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2000-1484",
+   "path": "odluka/2000/1484",
+   "short": "Odluka o tehničkim pravilima Hrvatskog registra brodova - Metalni materijali, Izmjene i dopune (2000)",
+   "title": "Odluka o tehničkim pravilima Hrvatskog registra brodova - Metalni materijali, Izmjene i dopune (2000)",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/67/1484",
+   "versions": [
+    {
+     "from": "2001-01-01",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2000_07_67_1484.html",
+     "sha256": "4d2d83a4101d1fd9cbb4c2b8ea38675d70099ff76034e95b424e75152efd368b"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2000-1514",
+   "path": "odluka/2000/1514",
+   "short": "Odluka o raspisivanju izbora za Gradsko vijeće Grada Bakra",
+   "title": "Odluka o raspisivanju izbora za Gradsko vijeće Grada Bakra",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/69/1514",
+   "versions": [
+    {
+     "from": "2000-07-17",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2000_07_69_1514.html",
+     "sha256": "98b86c629bda9af3d3277123b310d98d45ceebccd86edffad780c4cfd82b8aff"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2000-1515",
+   "path": "odluka/2000/1515",
+   "short": "Odluka o raspisivanju izbora za Općinsko vijeće Općine Vir",
+   "title": "Odluka o raspisivanju izbora za Općinsko vijeće Općine Vir",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/69/1515",
+   "versions": [
+    {
+     "from": "2000-07-17",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2000_07_69_1515.html",
+     "sha256": "026a6e2be24571b634f77a1a0ed3bacc37faf477866611a572a6116f7d822f61"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2000-1516",
+   "path": "odluka/2000/1516",
+   "short": "Odluka o raspisivanju izbora za Gradsko vijeće Grada Nina",
+   "title": "Odluka o raspisivanju izbora za Gradsko vijeće Grada Nina",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/69/1516",
+   "versions": [
+    {
+     "from": "2000-07-17",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2000_07_69_1516.html",
+     "sha256": "0dd66ff2fcf71ef9c0b03150532f704e745a1d475dc5121bb12505260ec4c791"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2000-1517",
+   "path": "odluka/2000/1517",
+   "short": "Odluka o raspisivanju izbora za Općinsko vijeće Općine Donji Lapac",
+   "title": "Odluka o raspisivanju izbora za Općinsko vijeće Općine Donji Lapac",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/69/1517",
+   "versions": [
+    {
+     "from": "2000-07-17",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2000_07_69_1517.html",
+     "sha256": "66a2c290696e6a8c8ff37fce361f1dd12112e79d60348182afe82d5fedfca92f"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2000-1518",
+   "path": "odluka/2000/1518",
+   "short": "Odluka o raspisivanju izbora za Općinsko vijeće Općine Stara Gradiška",
+   "title": "Odluka o raspisivanju izbora za Općinsko vijeće Općine Stara Gradiška",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/69/1518",
+   "versions": [
+    {
+     "from": "2000-07-17",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2000_07_69_1518.html",
+     "sha256": "782475a823fada207a31cd0d976a2d32c5c8195dfe058006240e89dd0b10bfe6"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2000-1519",
+   "path": "odluka/2000/1519",
+   "short": "Odluka o privremenom smanjenju carinskih stopa pri uvozu pojedinih poljoprivrednih i prehrambenih proizvoda",
+   "title": "Odluka o privremenom smanjenju carinskih stopa pri uvozu pojedinih poljoprivrednih i prehrambenih proizvoda",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/69/1519",
+   "versions": [
+    {
+     "from": "2000-07-21",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2000_07_69_1519.html",
+     "sha256": "373bff5cf2d31f918d4d5c11b99f9906ee83f91458d1c4742928d615146eb716"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2000-1520",
+   "path": "odluka/2000/1520",
+   "short": "Odluka o promjeni svote carine po mjernoj jedinici pri uvozu pojedinih poljoprivrednih i prehrambenih proizvoda iz Dodatka A Carinske tarife",
+   "title": "Odluka o promjeni svote carine po mjernoj jedinici pri uvozu pojedinih poljoprivrednih i prehrambenih proizvoda iz Dodatka A Carinske tarife",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/69/1520",
+   "versions": [
+    {
+     "from": "2000-07-21",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2000_07_69_1520.html",
+     "sha256": "de9b1212cb5de91902641da4fc4cf9c0568be2a1b144d51a735f6e0c3400d340"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2000-1521",
+   "path": "odluka/2000/1521",
+   "short": "Odluka o koncesiji pomorskog dobra u svrhu izgradnje i gospodarskog korištenja cestovno-nautičke benzinske stanice Blatine",
+   "title": "Odluka o koncesiji pomorskog dobra u svrhu izgradnje i gospodarskog korištenja cestovno-nautičke benzinske stanice Blatine",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/69/1521",
+   "versions": [
+    {
+     "from": "2000-07-13",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2000_07_69_1521.html",
+     "sha256": "85ad9a8a40776d74f2b844b5980ff43cf0ba3af220128df22bd89099ab82d59a"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2000-1522",
+   "path": "odluka/2000/1522",
+   "short": "Odluka o davanju suglasnosti na Statut Javne ustanove \"Nacionalni park Sjeverni Velebit\"",
+   "title": "Odluka o davanju suglasnosti na Statut Javne ustanove \"Nacionalni park Sjeverni Velebit\"",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/69/1522",
+   "versions": [
+    {
+     "from": "2000-07-13",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2000_07_69_1522.html",
+     "sha256": "b7c376b042f66a6c416ea62bf1c276fb3e4b0fef92b050196c1984cce0832211"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2000-1528",
+   "path": "odluka/2000/1528",
+   "short": "Odluka o osnivanju Nacionalnog odbora za međunarodno humanitarno pravo",
+   "title": "Odluka o osnivanju Nacionalnog odbora za međunarodno humanitarno pravo",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/70/1528",
+   "versions": [
+    {
+     "from": "2000-07-13",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2000_07_70_1528.html",
+     "sha256": "45e418472593ec67bcf7b2d8e37188f724704336b337d06b0f876c895f4186b2"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2000-1569",
+   "path": "odluka/2000/1569",
+   "short": "Odluka o visini novčane naknade za nezaposlenu osobu",
+   "title": "Odluka o visini novčane naknade za nezaposlenu osobu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/72/1569",
+   "versions": [
+    {
+     "from": "2000-07-20",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2000_07_72_1569.html",
+     "sha256": "64cb0a1d38239b02813d904569d9fcae52a4128a5272e7695bb76811590a161b"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2000-1594",
+   "path": "odluka/2000/1594",
+   "short": "Odluka o davanju suglasnosti na Statut Središnjeg registra osiguranika",
+   "title": "Odluka o davanju suglasnosti na Statut Središnjeg registra osiguranika",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/74/1594",
+   "versions": [
+    {
+     "from": "2000-07-20",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2000_07_74_1594.html",
+     "sha256": "737668e6218da9804a597cdee80fc75e4654b9d9a66a9db19af951d7fcedf3a4"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2000-1595",
+   "path": "odluka/2000/1595",
+   "short": "Odluka o davanju ovlasti Ministarstvu zdravstva za prijenos u vlasništvo nekretnina izgrađenih sredstvima državnog proračuna Republike Hrvatske",
+   "title": "Odluka o davanju ovlasti Ministarstvu zdravstva za prijenos u vlasništvo nekretnina izgrađenih sredstvima državnog proračuna Republike Hrvatske",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/74/1595",
+   "versions": [
+    {
+     "from": "2000-07-20",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2000_07_74_1595.html",
+     "sha256": "b600026045ba5f143363b1638922081dcb561054c6517c72e0bb2206b6378714"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2000-1596",
+   "path": "odluka/2000/1596",
+   "short": "Odluka o koncesiji pomorskog dobra u svrhu gospodarskog korištenja luke posebne namjene - brodogradilišta Mali Lošinj",
+   "title": "Odluka o koncesiji pomorskog dobra u svrhu gospodarskog korištenja luke posebne namjene - brodogradilišta Mali Lošinj",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/74/1596",
+   "versions": [
+    {
+     "from": "2000-07-20",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2000_07_74_1596.html",
+     "sha256": "d7f2edf4b4584e2af7992b9216c16d8c240a8cc72acdca8bcd3f156d56c0feb0"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2000-1597",
+   "path": "odluka/2000/1597",
+   "short": "Odluka o koncesiji pomorskog dobra u svrhu gospodarskog korištenja luke posebne namjene - brodogradilišta Punat",
+   "title": "Odluka o koncesiji pomorskog dobra u svrhu gospodarskog korištenja luke posebne namjene - brodogradilišta Punat",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/74/1597",
+   "versions": [
+    {
+     "from": "2000-07-20",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2000_07_74_1597.html",
+     "sha256": "454626de8121d93f1b9bcacb8246530037d3807d2937bf49aa61db59a2094ce2"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2000-1598",
+   "path": "odluka/2000/1598",
+   "short": "Odluka o koncesiji pomorskog dobra u svrhu izgradnje i gospodarskog korištenja luke posebne namjene - luke nautičkog turizma Rabac",
+   "title": "Odluka o koncesiji pomorskog dobra u svrhu izgradnje i gospodarskog korištenja luke posebne namjene - luke nautičkog turizma Rabac",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/74/1598",
+   "versions": [
+    {
+     "from": "2000-07-20",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2000_07_74_1598.html",
+     "sha256": "7235994df619736082f7e13ff3121a25911408ad9aaed713d6ee4ccdea394ccc"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2000-1599",
+   "path": "odluka/2000/1599",
+   "short": "Odluka o izmjeni Odluke o prijenosu osnivačkih prava nad javnom ustanovom Zavod za socijalno- zdravstvenu zaštitu Lopača",
+   "title": "Odluka o izmjeni Odluke o prijenosu osnivačkih prava nad javnom ustanovom Zavod za socijalno- zdravstvenu zaštitu Lopača",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/74/1599",
+   "versions": [
+    {
+     "from": "2000-07-20",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2000_07_74_1599.html",
+     "sha256": "e1d0218a93e667feffbfd23c89bb55596c32ee8a84a2158009f4eca38e7af27f"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2000-1621",
+   "path": "odluka/2000/1621",
+   "short": "Odluka o osnovici za obračunavanje i plaćanje doprinosa i za ostvarivanje prava iz mirovinskog osiguranja pomoraca na hrvatskim brodovima u međunarodnoj plovidbi pod hrvatskom zastavom",
+   "title": "Odluka o osnovici za obračunavanje i plaćanje doprinosa i za ostvarivanje prava iz mirovinskog osiguranja pomoraca na hrvatskim brodovima u međunarodnoj plovidbi pod hrvatskom zastavom",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/74/1621",
+   "versions": [
+    {
+     "from": "2000-07-25",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2000_07_74_1621.html",
+     "sha256": "acc339d27003606bb9fdd5c9762f0223a01ce3ef063f6914fda71cf765abc51d"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2000-1635",
+   "path": "odluka/2000/1635",
+   "short": "Odluka o raspisivanju izbora za gradsko vijeće Grada Slatine",
+   "title": "Odluka o raspisivanju izbora za gradsko vijeće Grada Slatine",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/76/1635",
+   "versions": [
+    {
+     "from": "2000-07-28",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2000_07_76_1635.html",
+     "sha256": "e54c46b5a6d63de93538c82f495d09ada10c66d1fd40bb294c51f51ef6e48206"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2000-1636",
+   "path": "odluka/2000/1636",
+   "short": "Odluka o raspisivanju izbora za Općinsko vijeće Općine Pitomača",
+   "title": "Odluka o raspisivanju izbora za Općinsko vijeće Općine Pitomača",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/76/1636",
+   "versions": [
+    {
+     "from": "2000-07-28",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2000_07_76_1636.html",
+     "sha256": "d13d18a651cd28b394b9bb3fedffce4c49377b738388749b98f5b8244da3dba1"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2000-1637",
+   "path": "odluka/2000/1637",
+   "short": "Odluka o prestanku Centra za strateške studije i istraživanja",
+   "title": "Odluka o prestanku Centra za strateške studije i istraživanja",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/76/1637",
+   "versions": [
+    {
+     "from": "2000-07-28",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2000_07_76_1637.html",
+     "sha256": "10d1d4b0824de043364bde72b2cf4d4b5c8767f79b367d37376cdcf8fba92585"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2000-1638",
+   "path": "odluka/2000/1638",
+   "short": "Odluka o sniženju carinskih stopa za određenu robu",
+   "title": "Odluka o sniženju carinskih stopa za određenu robu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/76/1638",
+   "versions": [
+    {
+     "from": "2000-07-28",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2000_07_76_1638.html",
+     "sha256": "72019acdd22f94c22d478bd724f44ee1345a4879bc34dc7ea912565efb763a04"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2000-1639",
+   "path": "odluka/2000/1639",
+   "short": "Odluka o davanju koncesija za povremeno priređivanje igara na sreću u igračnicama",
+   "title": "Odluka o davanju koncesija za povremeno priređivanje igara na sreću u igračnicama",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/76/1639",
+   "versions": [
+    {
+     "from": "2000-07-28",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2000_07_76_1639.html",
+     "sha256": "6421c6e6d1703de15766a60d26b5203ce0ac48ea5fef0cfb7132032be751d038"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2000-1640",
+   "path": "odluka/2000/1640",
+   "short": "Odluka o davanju koncesije za osnivanje »Slobodne zone Buje« Robnim terminalima Buje d.o.o., Buje",
+   "title": "Odluka o davanju koncesije za osnivanje »Slobodne zone Buje« Robnim terminalima Buje d.o.o., Buje",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/76/1640",
+   "versions": [
+    {
+     "from": "2000-07-26",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2000_07_76_1640.html",
+     "sha256": "33c2dc6002ed4eb5dda38e781c46eb38c1ef93062b52e21c6ce0fab6c5570633"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2000-1641",
+   "path": "odluka/2000/1641",
+   "short": "Odluka o Hrvatskom povjerenstvu za suradnju s Organizacijom Ujedinjenih naroda za prosvjetu, znanost i kulturu",
+   "title": "Odluka o Hrvatskom povjerenstvu za suradnju s Organizacijom Ujedinjenih naroda za prosvjetu, znanost i kulturu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/76/1641",
+   "versions": [
+    {
+     "from": "2000-07-26",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2000_07_76_1641.html",
+     "sha256": "8c07d81e2551f4c1a87e0fa93730c96bbbde350add4ca1488c9f127963afcab8"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2000-1643",
+   "path": "odluka/2000/1643",
+   "short": "Odluka o osnivanju Nacionalnog povjerenstva za sigurnost",
+   "title": "Odluka o osnivanju Nacionalnog povjerenstva za sigurnost",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/76/1643",
+   "versions": [
+    {
+     "from": "2000-07-26",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2000_07_76_1643.html",
+     "sha256": "160748e1987e966bd2e4966d6972c400a3cddc64e503806fe0cab637e6c227ed"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2000-1652",
+   "path": "odluka/2000/1652",
+   "short": "Odluka o izmjenama i dopunama Odluke o rokovima i načinu dostave podataka iz knjiga dionica ili registara vrijednosnih papira u depozitorij Središnje depozitarne agencije",
+   "title": "Odluka o izmjenama i dopunama Odluke o rokovima i načinu dostave podataka iz knjiga dionica ili registara vrijednosnih papira u depozitorij Središnje depozitarne agencije",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/76/1652",
+   "versions": [
+    {
+     "from": "2000-07-28",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2000_07_76_1652.html",
+     "sha256": "58adcae9fbf484f5347182ee3062806f65046e5d26b96ffa4bc45b3f400a2212"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2000-1662",
+   "path": "odluka/2000/1662",
+   "short": "Odluka o osnovici za naplatu doprinosa za obvezno zdravstveno osiguranje osiguranika koji primaju mirovinu i invalidninu isključivo od stranog nositelja osiguranja",
+   "title": "Odluka o osnovici za naplatu doprinosa za obvezno zdravstveno osiguranje osiguranika koji primaju mirovinu i invalidninu isključivo od stranog nositelja osiguranja",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/77/1662",
+   "versions": [
+    {
+     "from": "2000-07-31",
+     "units": 6,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2000_07_77_1662.html",
+     "sha256": "955a2f2b357b36cce403fe295d0fbac34f0417b4fb05bbdd781f55d8744b2ac2"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2000-1663",
+   "path": "odluka/2000/1663",
+   "short": "Odluka o osnovici, stopi doprinosa, načinu obračuna i plaćanja doprinosa za zdravstvenu zaštitu",
+   "title": "Odluka o osnovici, stopi doprinosa, načinu obračuna i plaćanja doprinosa za zdravstvenu zaštitu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/77/1663",
+   "versions": [
+    {
+     "from": "2000-08-08",
+     "units": 15,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2000_07_77_1663.html",
+     "sha256": "7dc22efaa942a85ec1a8d7e5be3285994e01f5d6298dfee2cd9647b25311f00d"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2000-1664",
+   "path": "odluka/2000/1664",
+   "short": "Odluka o osnovicama, stopama, načinu obračuna i plaćanja sredstava za ostvarivanje prava iz obveznog zdravstvenog osiguranja",
+   "title": "Odluka o osnovicama, stopama, načinu obračuna i plaćanja sredstava za ostvarivanje prava iz obveznog zdravstvenog osiguranja",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/77/1664",
+   "versions": [
+    {
+     "from": "2000-08-08",
+     "units": 35,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2000_07_77_1664.html",
+     "sha256": "9593c963795e8a1d71fd510387374238f83e495e111fdee586a312a8584604ac"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2000-1665",
+   "path": "odluka/2000/1665",
+   "short": "Odluka o izmjenama i dopunama Odluke o sadržaju i obliku isprave kojom se dokazuje status osigurane osobe Hrvatskog zavoda za zdravstveno osiguranje",
+   "title": "Odluka o izmjenama i dopunama Odluke o sadržaju i obliku isprave kojom se dokazuje status osigurane osobe Hrvatskog zavoda za zdravstveno osiguranje",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/77/1665",
+   "versions": [
+    {
+     "from": "2000-08-08",
+     "units": 6,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2000_07_77_1665.html",
+     "sha256": "e5d1cd627a4f052c1a1a77ec9b310ab51c3b6b6d26c3671a491c0d7e4fbe3f17"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2000-1689",
+   "path": "odluka/2000/1689",
+   "short": "Odluka o utvrđivanju Liste lijekova Hrvatskog zavoda za zdravstveno osiguranje",
+   "title": "Odluka o utvrđivanju Liste lijekova Hrvatskog zavoda za zdravstveno osiguranje",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/79/1689",
+   "versions": [
+    {
+     "from": "2000-08-12",
+     "units": 8,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2000_08_79_1689.html",
+     "sha256": "cda43d34b39b3f6df559751c08e1d586d466d925b204e52d867fc323d2864531"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2000-1692",
+   "path": "odluka/2000/1692",
+   "short": "Odluka o Uredu predsjednika Republike Hrvatske",
+   "title": "Odluka o Uredu predsjednika Republike Hrvatske",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/80/1692",
+   "versions": [
+    {
+     "from": "2000-08-09",
+     "units": 14,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2000_08_80_1692.html",
+     "sha256": "ac4d18403f6cb0c00e1c1528be7f7c1668ce4d7d044f38d6f34681d856442309"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2000-1728",
+   "path": "odluka/2000/1728",
+   "short": "Odluka o izmjeni Odluke o produženju roka za naplatu izvoza robe i usluga iz članka 47. stavka 1. Zakona o osnovama deviznog sustava, deviznog poslovanja i prometu zlata",
+   "title": "Odluka o izmjeni Odluke o produženju roka za naplatu izvoza robe i usluga iz članka 47. stavka 1. Zakona o osnovama deviznog sustava, deviznog poslovanja i prometu zlata",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/83/1728",
+   "versions": [
+    {
+     "from": "2000-08-25",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2000_08_83_1728.html",
+     "sha256": "28976c69e2610e7369689020ef22870c0548ba19cc3f1051065156b64ec8e0e6"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2000-1729",
+   "path": "odluka/2000/1729",
+   "short": "Odluka o promjeni svote carine po mjernoj jedinici pri uvozu pojedinih poljoprivrednih i prehrambenih proizvoda iz Dodatka A Carinske tarife",
+   "title": "Odluka o promjeni svote carine po mjernoj jedinici pri uvozu pojedinih poljoprivrednih i prehrambenih proizvoda iz Dodatka A Carinske tarife",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/83/1729",
+   "versions": [
+    {
+     "from": "2000-08-29",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2000_08_83_1729.html",
+     "sha256": "74faef524de576021e38dc2809e75f9878042d081385b17509bbdf84b3f4d6db"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2000-1730",
+   "path": "odluka/2000/1730",
+   "short": "Odluka o prestanku Hrvatskog informativno-kulturnog zavoda",
+   "title": "Odluka o prestanku Hrvatskog informativno-kulturnog zavoda",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/83/1730",
+   "versions": [
+    {
+     "from": "2000-08-25",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2000_08_83_1730.html",
+     "sha256": "ad9abf011b8d67ba8730600729cfc12761bb76cd58975c311c62a19edd68fbbf"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2000-1739",
+   "path": "odluka/2000/1739",
+   "short": "Odluka o kriterijima i načinu raspodjele radnih dozvola prema kriterijima sporazuma o zapošljavanju radnika tvrtki, sa sjedištem u Republici Hrvatskoj, u SR Njemačkoj na temelju ugovora o izvođenju radova",
+   "title": "Odluka o kriterijima i načinu raspodjele radnih dozvola prema kriterijima sporazuma o zapošljavanju radnika tvrtki, sa sjedištem u Republici Hrvatskoj, u SR Njemačkoj na temelju ugovora o izvođenju radova",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/84/1739",
+   "versions": [
+    {
+     "from": "2000-08-30",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2000_08_84_1739.html",
+     "sha256": "3bfa24690fac070d21a1136761a7426fee40068f934cd1a4f1549ae7a2c93e2f"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2000-1740",
+   "path": "odluka/2000/1740",
+   "short": "Odluka o privremenom neprimjenjivanju odluka o prodaji stanova u vlasništvu Republike Hrvatske kojima upravljaju Ministarstvo obrane, Ministarstvo unutarnjih poslova i Ministarstvo pravosuđa, uprave i",
+   "title": "Odluka o privremenom neprimjenjivanju odluka o prodaji stanova u vlasništvu Republike Hrvatske kojima upravljaju Ministarstvo obrane, Ministarstvo unutarnjih poslova i Ministarstvo pravosuđa, uprave i",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/84/1740",
+   "versions": [
+    {
+     "from": "2000-08-30",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2000_08_84_1740.html",
+     "sha256": "42fbf84ad09e481bd3849fadf6aeb9bfe40d30fe157ebe4b08d6e5668fcae3df"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2000-1788",
+   "path": "odluka/2000/1788",
+   "short": "Odluka o koncesiji pomorskog dobra u svrhu gospodarskog korištenja luke posebne namjene - Brodogradilišta Šibenik",
+   "title": "Odluka o koncesiji pomorskog dobra u svrhu gospodarskog korištenja luke posebne namjene - Brodogradilišta Šibenik",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/86/1788",
+   "versions": [
+    {
+     "from": "2000-08-31",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2000_09_86_1788.html",
+     "sha256": "7f2b22c3d3f1c120ced50805cdfe6a1e38016d39e9db4310c9d0a21f47c19235"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2000-1789",
+   "path": "odluka/2000/1789",
+   "short": "Odluka o izmjeni i dopuni Odluke o koncesiji pomorskog dobra u svrhu izgradnje i gospodarskog korištenja luke posebne namjene - luke nautičkog turizma Sutomišćica",
+   "title": "Odluka o izmjeni i dopuni Odluke o koncesiji pomorskog dobra u svrhu izgradnje i gospodarskog korištenja luke posebne namjene - luke nautičkog turizma Sutomišćica",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/86/1789",
+   "versions": [
+    {
+     "from": "2000-08-31",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2000_09_86_1789.html",
+     "sha256": "b6f4ea3f7861aa783083d23da7ad1181770c2af4e3cb814183b2e41a54223e2a"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2000-1790",
+   "path": "odluka/2000/1790",
+   "short": "Odluka o izmjeni Odluke o davanju koncesija za povremeno priređivanje igara na sreću u igračnicama",
+   "title": "Odluka o izmjeni Odluke o davanju koncesija za povremeno priređivanje igara na sreću u igračnicama",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/86/1790",
+   "versions": [
+    {
+     "from": "2000-08-31",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2000_09_86_1790.html",
+     "sha256": "c0d39ea2335413fd376e69053ef862dd732980d95473eac2e7a8c9df953b5632"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2000-1791",
+   "path": "odluka/2000/1791",
+   "short": "Odluka o izmjenama Odluke o osnivanju Nacionalnog povjerenstva za promjenu klime",
+   "title": "Odluka o izmjenama Odluke o osnivanju Nacionalnog povjerenstva za promjenu klime",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/86/1791",
+   "versions": [
+    {
+     "from": "2000-08-31",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2000_09_86_1791.html",
+     "sha256": "5e9068bf07dc10c2c75bf4fc668841313dad4109a4ded06e60baa199cf974987"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2000-1795",
+   "path": "odluka/2000/1795",
+   "short": "Odluka o visini novčane naknade za nezaposlenu osobu",
+   "title": "Odluka o visini novčane naknade za nezaposlenu osobu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/87/1795",
+   "versions": [
+    {
+     "from": "2000-09-08",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2000_09_87_1795.html",
+     "sha256": "aaffe2b719b330f395cdf9613fb51d8a6f2dedc3afb7765f41ac3094f866d882"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2000-1811",
+   "path": "odluka/2000/1811",
+   "short": "Odluka o izmjenama Odluke o osnivanju Posebnog računa za kreditiranje razvitka i obnove poljoprivrede",
+   "title": "Odluka o izmjenama Odluke o osnivanju Posebnog računa za kreditiranje razvitka i obnove poljoprivrede",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/89/1811",
+   "versions": [
+    {
+     "from": "2000-09-13",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2000_09_89_1811.html",
+     "sha256": "9904067c706b9409e5e598b58bdbc0c054a33e02c3711a8639ca7eca6344f3c8"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2000-1835",
+   "path": "odluka/2000/1835",
+   "short": "Odluka o promjeni svote carine po mjernoj jedinici pri uvozu pojedinih poljoprivrednih i prehrambenih proizvoda iz Dodatka A Carinske tarife",
+   "title": "Odluka o promjeni svote carine po mjernoj jedinici pri uvozu pojedinih poljoprivrednih i prehrambenih proizvoda iz Dodatka A Carinske tarife",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/91/1835",
+   "versions": [
+    {
+     "from": "2000-09-23",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2000_09_91_1835.html",
+     "sha256": "3f1f348130d4a58fc16d35ce62c57a8e69ac1510d09d82cfef8094e7eb4d9f40"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2000-1838",
+   "path": "odluka/2000/1838",
+   "short": "Odluka o aktualnoj vrijednosti mirovine od 1. srpnja 2000.",
+   "title": "Odluka o aktualnoj vrijednosti mirovine od 1. srpnja 2000.",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/91/1838",
+   "versions": [
+    {
+     "from": "2000-09-20",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2000_09_91_1838.html",
+     "sha256": "4d9ae379e94ea6d6596e3fd294a4615c8d6004f7094db60d8452ae8c81adbbeb"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2000-1839",
+   "path": "odluka/2000/1839",
+   "short": "Odluka o najnižoj mirovini za jednu godinu mirovinskog staža od 1. srpnja 2000.",
+   "title": "Odluka o najnižoj mirovini za jednu godinu mirovinskog staža od 1. srpnja 2000.",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/91/1839",
+   "versions": [
+    {
+     "from": "2000-09-20",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2000_09_91_1839.html",
+     "sha256": "f01fdb9a33ad3659cd294519ba2f6fa8a45a7d7afbef3a51cf9875b04aef3e79"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2000-1840",
+   "path": "odluka/2000/1840",
+   "short": "Odluku o osnovici za određivanje naknade zbog tjelesnog oštećenja i o usklađivanju novčanih naknada zbog tjelesnog oštećenja od 1. srpnja 2000.",
+   "title": "Odluku o osnovici za određivanje naknade zbog tjelesnog oštećenja i o usklađivanju novčanih naknada zbog tjelesnog oštećenja od 1. srpnja 2000.",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/91/1840",
+   "versions": [
+    {
+     "from": "2000-09-20",
+     "units": 6,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2000_09_91_1840.html",
+     "sha256": "a09a779923fc3058a35c082f17884a1c38e92e2cc35a748f5091624591570894"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2000-1841",
+   "path": "odluka/2000/1841",
+   "short": "Odluka o davanju suglasnosti na Statutarnu odluku o izmjenama i dopunama Statuta Hrvatskih šuma p.o., Zagreb",
+   "title": "Odluka o davanju suglasnosti na Statutarnu odluku o izmjenama i dopunama Statuta Hrvatskih šuma p.o., Zagreb",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/92/1841",
+   "versions": [
+    {
+     "from": "2000-09-14",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2000_09_92_1841.html",
+     "sha256": "0edc2a12d250bb8c3448957b34f96cd4e232cd6dc042b921aa134b2a4adbfd37"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2000-1865",
+   "path": "odluka/2000/1865",
+   "short": "Odluka o izmjeni i dopuni Odluke o utvrđivanju Liste lijekova Hrvatskog zavoda za zdravstveno osiguranje",
+   "title": "Odluka o izmjeni i dopuni Odluke o utvrđivanju Liste lijekova Hrvatskog zavoda za zdravstveno osiguranje",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/93/1865",
+   "versions": [
+    {
+     "from": "2000-09-30",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2000_09_93_1865.html",
+     "sha256": "0c32e2e865651c5fdec3b30ba75f52db9cafe8630f47cca23fe1c9271699f8e5"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2000-1870",
+   "path": "odluka/2000/1870",
+   "short": "Odluka o obveznoj rezervi",
+   "title": "Odluka o obveznoj rezervi",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/94/1870",
+   "versions": [
+    {
+     "from": "2000-09-26",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2000_09_94_1870.html",
+     "sha256": "6e9290f1fd1af3da27d47885fb34769379ef0d317eb100668cec0c9beec7110e"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2000-1871",
+   "path": "odluka/2000/1871",
+   "short": "Odluka o polaganju depozita u kunama na inozemne financijske kredite i dana jamstva",
+   "title": "Odluka o polaganju depozita u kunama na inozemne financijske kredite i dana jamstva",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/94/1871",
+   "versions": [
+    {
+     "from": "2000-09-26",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2000_09_94_1871.html",
+     "sha256": "06d4edd8d8cd23d4be34a932af095bda375128a15d53e44436bf1088423cc4a7"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2000-1872",
+   "path": "odluka/2000/1872",
+   "short": "Odluka o izmjeni Odluke o kamatnim stopama Hrvatske narodne banke",
+   "title": "Odluka o izmjeni Odluke o kamatnim stopama Hrvatske narodne banke",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/94/1872",
+   "versions": [
+    {
+     "from": "2000-09-26",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2000_09_94_1872.html",
+     "sha256": "5280532d9b6d2aa8a76238b6e16d1677a1dc6f0120d0a1318e564dcf251c83e6"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2000-1873",
+   "path": "odluka/2000/1873",
+   "short": "Odluka o izmjeni Odluke o sprečavanju izloženosti devizne pozicije ovlaštenih banaka i štedionica valutnom riziku",
+   "title": "Odluka o izmjeni Odluke o sprečavanju izloženosti devizne pozicije ovlaštenih banaka i štedionica valutnom riziku",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/94/1873",
+   "versions": [
+    {
+     "from": "2000-09-26",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2000_09_94_1873.html",
+     "sha256": "61a14aac906a3aedcfcb1856dc9211b1e51475bbfc6b2855ac15bfb8241ca12b"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2000-1880",
+   "path": "odluka/2000/1880",
+   "short": "Odluka o utvrđivanju interesa Republike Hrvatske za izgradnju Radarske postaje Psunj",
+   "title": "Odluka o utvrđivanju interesa Republike Hrvatske za izgradnju Radarske postaje Psunj",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/95/1880",
+   "versions": [
+    {
+     "from": "2000-09-28",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2000_09_95_1880.html",
+     "sha256": "328d855d9f92aeb9e9c2a2b0e1eb922dae31632f6d093b69bd12bed3d80be2dc"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2000-1881",
+   "path": "odluka/2000/1881",
+   "short": "Odluka o raspisivanju izbora za Gradsko vijeće Grada Petrinje",
+   "title": "Odluka o raspisivanju izbora za Gradsko vijeće Grada Petrinje",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/95/1881",
+   "versions": [
+    {
+     "from": "2000-09-28",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2000_09_95_1881.html",
+     "sha256": "509ff394abd155522f3f6ccee5b447a35676d765aa8c995bc78191cf84a74424"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2000-1891",
+   "path": "odluka/2000/1891",
+   "short": "Odluka o obustavi postupka sanacije brodogradilišta",
+   "title": "Odluka o obustavi postupka sanacije brodogradilišta",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/96/1891",
+   "versions": [
+    {
+     "from": "2000-09-29",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2000_09_96_1891.html",
+     "sha256": "4ce2ace9f61f5dc50568eb7b998932bed53227261d4933d3fa9259abe6b30be3"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2000-190",
+   "path": "odluka/2000/190",
+   "short": "Odluka o rokovima i načinu dostave podataka iz knjiga dionica ili registara vrijednosnih papira u depozitorij Središnje depozitarne agencije",
+   "title": "Odluka o rokovima i načinu dostave podataka iz knjiga dionica ili registara vrijednosnih papira u depozitorij Središnje depozitarne agencije",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/14/190",
+   "versions": [
+    {
+     "from": "2000-02-12",
+     "units": 11,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2000_02_14_190.html",
+     "sha256": "001b7924a63d34cda2d3e1bcff00e863717befc8ad98caf34b4e8b9781573779"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2000-1923",
+   "path": "odluka/2000/1923",
+   "short": "Odluka o promjeni svote carine po mjernoj jedinici pri uvozu pojedinih poljoprivrednih i prehrambenih proizvoda iz Dodatka A Carinske tarife",
+   "title": "Odluka o promjeni svote carine po mjernoj jedinici pri uvozu pojedinih poljoprivrednih i prehrambenih proizvoda iz Dodatka A Carinske tarife",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/98/1923",
+   "versions": [
+    {
+     "from": "2000-10-07",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2000_10_98_1923.html",
+     "sha256": "7755753ace0e81284a708cdc86213cda3e0c3f37785de3ad35ec8c399e6366cb"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2000-1952",
+   "path": "odluka/2000/1952",
+   "short": "Odluka o osnivanju Nacionalnog vijeća za zaštitu na radu",
+   "title": "Odluka o osnivanju Nacionalnog vijeća za zaštitu na radu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/99/1952",
+   "versions": [
+    {
+     "from": "2000-10-14",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2000_10_99_1952.html",
+     "sha256": "614f06700fdbdc22b9024ca6b24ec4eefb99858aa1e1f2ebd231c21943448284"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2000-1953",
+   "path": "odluka/2000/1953",
+   "short": "Odluka o izmjenama Odluke o osnivanju povjerenstva Vlade Republike Hrvatske za prevenciju poremećaja u ponašanju djece i mladeži i zaštitu djece s poremećajima u ponašanju",
+   "title": "Odluka o izmjenama Odluke o osnivanju povjerenstva Vlade Republike Hrvatske za prevenciju poremećaja u ponašanju djece i mladeži i zaštitu djece s poremećajima u ponašanju",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/99/1953",
+   "versions": [
+    {
+     "from": "2000-10-06",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2000_10_99_1953.html",
+     "sha256": "4a6082e3efc0b6fc7784b1d464e15b20f969ccc745d1514c10a83a0beefde6c7"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2000-1981",
+   "path": "odluka/2000/1981",
+   "short": "Odluka o izmjenama i dopunama Odluke o načinu izračunavanja kapitala banke",
+   "title": "Odluka o izmjenama i dopunama Odluke o načinu izračunavanja kapitala banke",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/101/1981",
+   "versions": [
+    {
+     "from": "2000-10-13",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2000_10_101_1981.html",
+     "sha256": "43dd8fa0bdf35dcdac3f925ef1906e72068619684103be2cbf81c7bc8dca2d85"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2000-1982",
+   "path": "odluka/2000/1982",
+   "short": "Odluka o izmjenama i dopunama Odluke o načinu izračunavanja adekvatnosti kapitala i ponderirane aktive banke",
+   "title": "Odluka o izmjenama i dopunama Odluke o načinu izračunavanja adekvatnosti kapitala i ponderirane aktive banke",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/101/1982",
+   "versions": [
+    {
+     "from": "2000-10-13",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2000_10_101_1982.html",
+     "sha256": "0d6fb6439edf3c95485cd16da519fa0846099b2d11a51e40c2cd94ab6fa44168"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2000-1983",
+   "path": "odluka/2000/1983",
+   "short": "Odluka o izmjenama i dopunama Odluke o raspoređivanju plasmana i izvanbilančnih rizičnih stavki i utvrđivanju izloženosti banke",
+   "title": "Odluka o izmjenama i dopunama Odluke o raspoređivanju plasmana i izvanbilančnih rizičnih stavki i utvrđivanju izloženosti banke",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/101/1983",
+   "versions": [
+    {
+     "from": "2000-10-13",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2000_10_101_1983.html",
+     "sha256": "7a972ed270bf3b36e68aaeb966c5696e4fc8596a14282e5f9fbde3b5a620810e"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2000-1984",
+   "path": "odluka/2000/1984",
+   "short": "Odluka o izmjenama i dopunama Odluke o ograničenju ulaganja banke u materijalnu imovinu i vlasničke uloge",
+   "title": "Odluka o izmjenama i dopunama Odluke o ograničenju ulaganja banke u materijalnu imovinu i vlasničke uloge",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/101/1984",
+   "versions": [
+    {
+     "from": "2000-10-13",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2000_10_101_1984.html",
+     "sha256": "107b5ef6662f141925da77edd22dc510af0acbfe7dc6ea6fa9b3077af414f539"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2000-1989",
+   "path": "odluka/2000/1989",
+   "short": "Odluka o promjeni svote carine po mjernoj jedinici pri uvozu pojedinih poljoprivrednih i prehrambenih proizvoda iz Dodatka A Carinske tarife",
+   "title": "Odluka o promjeni svote carine po mjernoj jedinici pri uvozu pojedinih poljoprivrednih i prehrambenih proizvoda iz Dodatka A Carinske tarife",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/102/1989",
+   "versions": [
+    {
+     "from": "2000-10-21",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2000_10_102_1989.html",
+     "sha256": "bc412d5e87a21e44c6a9c4143bee9ebe620e8150a79e1b63ce528964fb5e94f8"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2000-1990",
+   "path": "odluka/2000/1990",
+   "short": "Odluka o osnivanju Povjerenstva Vlade Republike Hrvatske za osobe s invaliditetom",
+   "title": "Odluka o osnivanju Povjerenstva Vlade Republike Hrvatske za osobe s invaliditetom",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/102/1990",
+   "versions": [
+    {
+     "from": "2000-10-17",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2000_10_102_1990.html",
+     "sha256": "532a4c97a047338246e9c05cdf01b8f494193409bbc0ff7539df453e19a29c78"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2000-1991",
+   "path": "odluka/2000/1991",
+   "short": "Odluka o izmjeni Odluke o osnivanju Komisije za suzbijanje zloupotrebe droga",
+   "title": "Odluka o izmjeni Odluke o osnivanju Komisije za suzbijanje zloupotrebe droga",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/102/1991",
+   "versions": [
+    {
+     "from": "2000-10-12",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2000_10_102_1991.html",
+     "sha256": "3f243943096d2fb2a359586238422303e195c3a211272d312fdcff99f209d99e"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2000-1992",
+   "path": "odluka/2000/1992",
+   "short": "Odluka o izmjenama Odluke o osnivanju Vijeća za djecu",
+   "title": "Odluka o izmjenama Odluke o osnivanju Vijeća za djecu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/102/1992",
+   "versions": [
+    {
+     "from": "2000-10-12",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2000_10_102_1992.html",
+     "sha256": "bf2f0769f86ec99c9b1cf66f4a0f5b613fd5b0cbff3d8aa9f985f0f15cd23935"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2000-1993",
+   "path": "odluka/2000/1993",
+   "short": "Odluka o izmjeni Odluke o visini nadoknade za prostore koje koriste objekti za proizvodnju električne energije",
+   "title": "Odluka o izmjeni Odluke o visini nadoknade za prostore koje koriste objekti za proizvodnju električne energije",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/102/1993",
+   "versions": [
+    {
+     "from": "2000-10-17",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2000_10_102_1993.html",
+     "sha256": "fb15a04e6da05b532bd525ab8732408f9df46a19f048615aa48f2a1fc49770f9"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2000-1994",
+   "path": "odluka/2000/1994",
+   "short": "Odluka o oduzimanju koncesije za povremeno priređivanje igara na sreću u igračnicama",
+   "title": "Odluka o oduzimanju koncesije za povremeno priređivanje igara na sreću u igračnicama",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/102/1994",
+   "versions": [
+    {
+     "from": "2000-10-17",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2000_10_102_1994.html",
+     "sha256": "86724d0a73e52ea17e5878f34dcc4f538ec213f6bff2fb6f92d623e9c66b640d"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2000-1995",
+   "path": "odluka/2000/1995",
+   "short": "Odluka o oduzimanju koncesije za trajno priređivanje igara na sreću u igračnicama",
+   "title": "Odluka o oduzimanju koncesije za trajno priređivanje igara na sreću u igračnicama",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/102/1995",
+   "versions": [
+    {
+     "from": "2000-10-17",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2000_10_102_1995.html",
+     "sha256": "af7c519f592cb03c0a3bc493f22fbf05f36d6db0c75003a7e6693c70b9ec7aa7"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2000-1996",
+   "path": "odluka/2000/1996",
+   "short": "Odluka o koncesiji pomorskog dobra u svrhu izgradnje i gospodarskog korištenja luke posebne namjene - luke nautičkog turizma Novigrad",
+   "title": "Odluka o koncesiji pomorskog dobra u svrhu izgradnje i gospodarskog korištenja luke posebne namjene - luke nautičkog turizma Novigrad",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/102/1996",
+   "versions": [
+    {
+     "from": "2000-10-12",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2000_10_102_1996.html",
+     "sha256": "d8aa3dc8a40497386bb3eae6a19cfb178a5a44ccd4293821d74a0c00a7ef492f"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2000-2000",
+   "path": "odluka/2000/2000",
+   "short": "Odluku o raspisivanju izbora za Gradsko vijeće Grada Raba",
+   "title": "Odluku o raspisivanju izbora za Gradsko vijeće Grada Raba",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/103/2000",
+   "versions": [
+    {
+     "from": "2000-10-19",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2000_10_103_2000.html",
+     "sha256": "173e7ed97304863d134c96e56627c0de3d3fc00fb639f96bbac89ce7437acddc"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2000-2001",
+   "path": "odluka/2000/2001",
+   "short": "Odluku o raspisivanju izbora za Općinsko vijeće Općine Nova Bukovica",
+   "title": "Odluku o raspisivanju izbora za Općinsko vijeće Općine Nova Bukovica",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/103/2001",
+   "versions": [
+    {
+     "from": "2000-10-19",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2000_10_103_2001.html",
+     "sha256": "d192fa0738005c855465f39d5f2bbf6e470abf1d0ce287dac86f0693ce545418"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2000-2042",
+   "path": "odluka/2000/2042",
+   "short": "Odluka o osnivanju Generalnog konzulata Republike Hrvatske u Bosni i Hercegovini, sa sjedištem u Banjoj Luci",
+   "title": "Odluka o osnivanju Generalnog konzulata Republike Hrvatske u Bosni i Hercegovini, sa sjedištem u Banjoj Luci",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/104/2042",
+   "versions": [
+    {
+     "from": "2000-10-03",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2000_10_104_2042.html",
+     "sha256": "57210fcad1e0514aea6361726c8428bfad7fd64ef191ac29b91affcc392972bb"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2000-2043",
+   "path": "odluka/2000/2043",
+   "short": "Odluka o zatvaranju Generalnog konzulata Republike Hrvatske u Bosni i Hercegovini sa sjedištem u Bihaću",
+   "title": "Odluka o zatvaranju Generalnog konzulata Republike Hrvatske u Bosni i Hercegovini sa sjedištem u Bihaću",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/104/2043",
+   "versions": [
+    {
+     "from": "2000-10-31",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2000_10_104_2043.html",
+     "sha256": "010250c9317aa8925da6c07169faa64fd3b9aa2d9b3cd11b42a80c1e6e3f7dc8"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2000-2044",
+   "path": "odluka/2000/2044",
+   "short": "Odluka o zatvaranju Generalnog konzulata Republike Hrvatske u Clevelandu, Sjedinjene Američke Države",
+   "title": "Odluka o zatvaranju Generalnog konzulata Republike Hrvatske u Clevelandu, Sjedinjene Američke Države",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/104/2044",
+   "versions": [
+    {
+     "from": "2000-10-31",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2000_10_104_2044.html",
+     "sha256": "ef4515679a233194bfb3a1053f7bf50d1437a0e30b7fbdc86e98530fe4842b88"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2000-2068",
+   "path": "odluka/2000/2068",
+   "short": "Odluka o izmjeni Odluke o uvjetima uz koje se može odobriti produženje roka naplate izvezene robe i usluga",
+   "title": "Odluka o izmjeni Odluke o uvjetima uz koje se može odobriti produženje roka naplate izvezene robe i usluga",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/104/2068",
+   "versions": [
+    {
+     "from": "2000-10-20",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2000_10_104_2068.html",
+     "sha256": "e9504d0ed7850c015c102e1a04f50dd9315b3b68787fce762093fbe3fcd90114"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2000-2069",
+   "path": "odluka/2000/2069",
+   "short": "Odluka o izdavanju numizmatičkih kompleta kovanog novca Republike Hrvatske kuna i lipa s oznakom godine kovanja \"2000.\"",
+   "title": "Odluka o izdavanju numizmatičkih kompleta kovanog novca Republike Hrvatske kuna i lipa s oznakom godine kovanja \"2000.\"",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/104/2069",
+   "versions": [
+    {
+     "from": "2000-10-20",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2000_10_104_2069.html",
+     "sha256": "a7216efeae0a214aaa412070c5972aea4af3dd2937143c3c17899d5ff0af8155"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2000-2078",
+   "path": "odluka/2000/2078",
+   "short": "Odluka o koncesiji pomorskog dobra u svrhu gospodarskog korištenja luke posebne namjene - Brodogradilišta Kraljevica",
+   "title": "Odluka o koncesiji pomorskog dobra u svrhu gospodarskog korištenja luke posebne namjene - Brodogradilišta Kraljevica",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/105/2078",
+   "versions": [
+    {
+     "from": "2000-10-19",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2000_10_105_2078.html",
+     "sha256": "dd74b1726d2681295d268055f89dd1384c016a306e74d0f521d00b39ce6e2d5f"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2000-21",
+   "path": "odluka/2000/21",
+   "short": "Odluka o izmjeni Odluke o utvrđivanju popisa dijagnostičkih i terapijskih postupaka u zdravstvenim djelatnostima - vremenski i kadrovski normativi",
+   "title": "Odluka o izmjeni Odluke o utvrđivanju popisa dijagnostičkih i terapijskih postupaka u zdravstvenim djelatnostima - vremenski i kadrovski normativi",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/3/21",
+   "versions": [
+    {
+     "from": "2000-01-10",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2000_01_3_21.html",
+     "sha256": "7375c0e54b6f86d9f395101d841e8dfc3e91782567c89b96e917a01724dfa3ce"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2000-2101",
+   "path": "odluka/2000/2101",
+   "short": "Odluka o posebnim standardima i kriterijima njihove primjene u provođenju primarne zdravstvene zaštite od 15. svibnja 2000.",
+   "title": "Odluka o posebnim standardima i kriterijima njihove primjene u provođenju primarne zdravstvene zaštite od 15. svibnja 2000.",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/106/2101",
+   "versions": [
+    {
+     "from": "2000-05-15",
+     "units": 8,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2000_10_106_2101.html",
+     "sha256": "db0d99312f5fe77e5283292d9ebeb24e9572f341be98c01ed65be18ea3e98a3f"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2000-2102",
+   "path": "odluka/2000/2102",
+   "short": "Odluka o izmjeni Odluke o posebnim standardima i kriterijima njihove primjene u provođenju primarne zdravstvene zaštite od 14. lipnja 2000.",
+   "title": "Odluka o izmjeni Odluke o posebnim standardima i kriterijima njihove primjene u provođenju primarne zdravstvene zaštite od 14. lipnja 2000.",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/106/2102",
+   "versions": [
+    {
+     "from": "2000-06-14",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2000_10_106_2102.html",
+     "sha256": "624111d15776219fabe9ffa237330c068f62e91e706d1021885259ff61347f17"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2000-2103",
+   "path": "odluka/2000/2103",
+   "short": "Odluka o izmjeni Odluke o posebnim standardima i kriterijima njihove primjene u provođenju primarne zdravstvene zaštite od 19. listopada 2000.",
+   "title": "Odluka o izmjeni Odluke o posebnim standardima i kriterijima njihove primjene u provođenju primarne zdravstvene zaštite od 19. listopada 2000.",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/106/2103",
+   "versions": [
+    {
+     "from": "2000-10-19",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2000_10_106_2103.html",
+     "sha256": "9db97d77bc1a49d0634662acec260acf7f7300f195e3dafec666fa618602bc8a"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2000-2109",
+   "path": "odluka/2000/2109",
+   "short": "Odluka o privremenom smanjenju carinske stope pri uvozu pojedinih poljoprivrednih i prehrambenih proizvoda",
+   "title": "Odluka o privremenom smanjenju carinske stope pri uvozu pojedinih poljoprivrednih i prehrambenih proizvoda",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/107/2109",
+   "versions": [
+    {
+     "from": "2000-11-04",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2000_10_107_2109.html",
+     "sha256": "a92dd4456d14541b0c000d951278423e1073bde812ea9147956191ce3d9c3eb8"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2000-2110",
+   "path": "odluka/2000/2110",
+   "short": "Odluka o dopuni Odluke o davanju koncesije za osnivanje Slobodne zone Splitsko-dalmatinske",
+   "title": "Odluka o dopuni Odluke o davanju koncesije za osnivanje Slobodne zone Splitsko-dalmatinske",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/107/2110",
+   "versions": [
+    {
+     "from": "2000-10-26",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2000_10_107_2110.html",
+     "sha256": "aa5185962da9537932344facd7baad6eb2a0c53e7789ddf7f4bb5be8c88b8ad3"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2000-2111",
+   "path": "odluka/2000/2111",
+   "short": "Odluka o izmjeni Odluke o sanaciji određenih poduzeća",
+   "title": "Odluka o izmjeni Odluke o sanaciji određenih poduzeća",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/107/2111",
+   "versions": [
+    {
+     "from": "2000-10-26",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2000_10_107_2111.html",
+     "sha256": "df3fcc0d623a2f25f3b95d3336aa2e7621959ccafcbf7c4babc2b669b690b4bc"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2000-2170",
+   "path": "odluka/2000/2170",
+   "short": "Odluka o raspisivanju izbora za Općinsko vijeće Općine Ljubeščica",
+   "title": "Odluka o raspisivanju izbora za Općinsko vijeće Općine Ljubeščica",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/110/2170",
+   "versions": [
+    {
+     "from": "2000-11-09",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2000_11_110_2170.html",
+     "sha256": "24041e8b33bb5232156aa43e95bc5642a44b4575b9074c27ae76b357e562ea4e"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2000-2220",
+   "path": "odluka/2000/2220",
+   "short": "Odluka o osnovnim obilježjima prigodnoga optjecajnoga kovanog novca od 25 kuna posvećenog 2000.godini",
+   "title": "Odluka o osnovnim obilježjima prigodnoga optjecajnoga kovanog novca od 25 kuna posvećenog 2000.godini",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/112/2220",
+   "versions": [
+    {
+     "from": "2000-11-15",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2000_11_112_2220.html",
+     "sha256": "0c04b5a9055e0bb375297d40e269f53983bf88f992c8349410549f67a4a1111d"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2000-2221",
+   "path": "odluka/2000/2221",
+   "short": "Odluka o puštanju u optjecaj prigodnoga optjecajnoga kovanog novca od 25 kuna posvećenog 2000. godini",
+   "title": "Odluka o puštanju u optjecaj prigodnoga optjecajnoga kovanog novca od 25 kuna posvećenog 2000. godini",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/112/2221",
+   "versions": [
+    {
+     "from": "2000-11-15",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2000_11_112_2221.html",
+     "sha256": "24275cc362e7546a9cf680b940079566c0ecb706b44926c2d3c30fa2a5d6906c"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2000-2237",
+   "path": "odluka/2000/2237",
+   "short": "Odluka o raspisivanju javnog natječaja za dodjelu koncesije za korištenje poljoprivrednog zemljišta u vlasništvu Republike Hrvatske na području Vukovarsko-srijemske županije",
+   "title": "Odluka o raspisivanju javnog natječaja za dodjelu koncesije za korištenje poljoprivrednog zemljišta u vlasništvu Republike Hrvatske na području Vukovarsko-srijemske županije",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/115/2237",
+   "versions": [
+    {
+     "from": "2000-11-16",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2000_11_115_2237.html",
+     "sha256": "f999d18fd5551b8a9a19646202b7443aff9dd73f37c68d1d1344c8d47aec69cf"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2000-2238",
+   "path": "odluka/2000/2238",
+   "short": "Odluka o davanju suglasnosti na Statut Kliničkog bolničkog centra Zagreb",
+   "title": "Odluka o davanju suglasnosti na Statut Kliničkog bolničkog centra Zagreb",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/115/2238",
+   "versions": [
+    {
+     "from": "2000-11-16",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2000_11_115_2238.html",
+     "sha256": "7420368d5afe77101a3d0e75e996af174ffe668038e384e3b28c1cab3f7a8c47"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2000-2239",
+   "path": "odluka/2000/2239",
+   "short": "Odluka o davanju suglasnosti na Izmjene i dopune Statuta Kliničke bolnice \"Sestre milosrdnice\" iz Zagreba",
+   "title": "Odluka o davanju suglasnosti na Izmjene i dopune Statuta Kliničke bolnice \"Sestre milosrdnice\" iz Zagreba",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/115/2239",
+   "versions": [
+    {
+     "from": "2000-11-16",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2000_11_115_2239.html",
+     "sha256": "0dd7b62adc818cfc6f0f8a1ca17984138769c819b18fbe307fbc9a207b17afe7"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2000-2263",
+   "path": "odluka/2000/2263",
+   "short": "Odluka o davanju suglasnosti na izmjene i dopune Financijskog plana za 2000. godinu Hrvatskog zavoda za mirovinsko osiguranje",
+   "title": "Odluka o davanju suglasnosti na izmjene i dopune Financijskog plana za 2000. godinu Hrvatskog zavoda za mirovinsko osiguranje",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/118/2263",
+   "versions": [
+    {
+     "from": "2000-11-28",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2000_11_118_2263.html",
+     "sha256": "8adfb41fdc08a6fd67d15a41afaa96968ef33024a5ddeecc15cd15e44a60b18d"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2000-2265",
+   "path": "odluka/2000/2265",
+   "short": "Odluka o davanju suglasnosti na izmjene i dopune Financijskog plana za 2000. godinu Hrvatskog zavoda za zapošljavanje",
+   "title": "Odluka o davanju suglasnosti na izmjene i dopune Financijskog plana za 2000. godinu Hrvatskog zavoda za zapošljavanje",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/118/2265",
+   "versions": [
+    {
+     "from": "2000-11-28",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2000_11_118_2265.html",
+     "sha256": "d640330826da7ab9b86e459f3197da425aabfa81bfe145b100f0a651989f68bd"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2000-2266",
+   "path": "odluka/2000/2266",
+   "short": "Odluka o davanju suglasnosti na izmjene i dopune Financijskog plana za 2000. godinu sredstava doplatka za djecu",
+   "title": "Odluka o davanju suglasnosti na izmjene i dopune Financijskog plana za 2000. godinu sredstava doplatka za djecu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/118/2266",
+   "versions": [
+    {
+     "from": "2000-11-28",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2000_11_118_2266.html",
+     "sha256": "6f46d3ffe4ef3f4177601739d111224fa9fca08f600a15a6fd66ea1eb829a394"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2000-2267",
+   "path": "odluka/2000/2267",
+   "short": "Odluka o davanju suglasnosti na izmjene i dopune Financijskog plana za 2000. godinu Hrvatskih voda",
+   "title": "Odluka o davanju suglasnosti na izmjene i dopune Financijskog plana za 2000. godinu Hrvatskih voda",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/118/2267",
+   "versions": [
+    {
+     "from": "2000-11-28",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2000_11_118_2267.html",
+     "sha256": "feace5abc01102eb5d45fff1958bf92c03bd21778b10e40d0a7de4324e730806"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2000-2273",
+   "path": "odluka/2000/2273",
+   "short": "Odluka o izmjeni carinskih stopa za pojedine poljoprivredne proizvode",
+   "title": "Odluka o izmjeni carinskih stopa za pojedine poljoprivredne proizvode",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/119/2273",
+   "versions": [
+    {
+     "from": "2000-11-29",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2000_11_119_2273.html",
+     "sha256": "b1096e8453da248f361a5fcdab8b7417b9b5f8054ebe8792f3b144f9b7d0d722"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2000-2277",
+   "path": "odluka/2000/2277",
+   "short": "Odluka o izmjenama i dopunama Odluke o davanju ovlasti jedinicama lokalne samouprave i Gradu Zagrebu za sklapanje ugovora o prodaji nacionaliziranih i konfisciranih stanova",
+   "title": "Odluka o izmjenama i dopunama Odluke o davanju ovlasti jedinicama lokalne samouprave i Gradu Zagrebu za sklapanje ugovora o prodaji nacionaliziranih i konfisciranih stanova",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/119/2277",
+   "versions": [
+    {
+     "from": "2000-11-29",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2000_11_119_2277.html",
+     "sha256": "d3665bcea209b719719ff7be4fdfcb5f53461fb5f791cf8f9ce9d75a7409c2cc"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2000-2286",
+   "path": "odluka/2000/2286",
+   "short": "Odluka o utvrđivanju interesa Republike Hrvatske radi eksploatacije vapnenca - karbonatne sirovine za industrijsku primjenu na jugozapadnim obroncima planine Promine, između Razvođa i Oklaja",
+   "title": "Odluka o utvrđivanju interesa Republike Hrvatske radi eksploatacije vapnenca - karbonatne sirovine za industrijsku primjenu na jugozapadnim obroncima planine Promine, između Razvođa i Oklaja",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/120/2286",
+   "versions": [
+    {
+     "from": "2000-12-01",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2000_12_120_2286.html",
+     "sha256": "40c39acdb68e6c1a087e4ad72fd8468d6517eb27adf4d5883a5c398a0a350a2a"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2000-2294",
+   "path": "odluka/2000/2294",
+   "short": "Odluka o utvrđivanju visine slobodno ugovorene najamnine",
+   "title": "Odluka o utvrđivanju visine slobodno ugovorene najamnine",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/120/2294",
+   "versions": [
+    {
+     "from": "2000-12-01",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2000_12_120_2294.html",
+     "sha256": "b6c84472030606fe04270f7a9709f9947f709659ec1e1c3c8840f0ebf078cc68"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2000-2317",
+   "path": "odluka/2000/2317",
+   "short": "Odluka o visini pomoći za podmirenje troškova ogrjeva u 2000. godini",
+   "title": "Odluka o visini pomoći za podmirenje troškova ogrjeva u 2000. godini",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/123/2317",
+   "versions": [
+    {
+     "from": "2000-12-08",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2000_12_123_2317.html",
+     "sha256": "67c6b4610a17e702a986b01d659be8e87bf53e1181c2ec6e8b7ce42eeea3e702"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2000-2324",
+   "path": "odluka/2000/2324",
+   "short": "Odluka o izmjenama i dopunama Kontnog plana za banke",
+   "title": "Odluka o izmjenama i dopunama Kontnog plana za banke",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/123/2324",
+   "versions": [
+    {
+     "from": "2000-11-29",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2000_12_123_2324.html",
+     "sha256": "23410d63700958b9984942a33a4ffabef3bf800ef5829c1eea52d6c38738222a"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2000-2336",
+   "path": "odluka/2000/2336",
+   "short": "Odluka o mjerama za sređivanje imovinskopravnoga, geodetskokatastarskoga i gospodarskoga stanja u dolini rijeke Neretve",
+   "title": "Odluka o mjerama za sređivanje imovinskopravnoga, geodetskokatastarskoga i gospodarskoga stanja u dolini rijeke Neretve",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/126/2336",
+   "versions": [
+    {
+     "from": "2000-12-15",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2000_12_126_2336.html",
+     "sha256": "b3ea9f73b6afcaae39bd8b3e7a16bc3b26e6aeef80e101ace62d8093966b097b"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2000-2337",
+   "path": "odluka/2000/2337",
+   "short": "Odluka o povjeravanju poslova upravljanja i raspolaganja imovinom Republike Hrvatske Povjerenstvu Vlade za upravljanje imovinom Republike Hrvatske",
+   "title": "Odluka o povjeravanju poslova upravljanja i raspolaganja imovinom Republike Hrvatske Povjerenstvu Vlade za upravljanje imovinom Republike Hrvatske",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/126/2337",
+   "versions": [
+    {
+     "from": "2000-11-23",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2000_12_126_2337.html",
+     "sha256": "78da44f02f3393c619ab395b05dca216dc51fd60f1c66e61db45f00533945536"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2000-2338",
+   "path": "odluka/2000/2338",
+   "short": "Odluka o mjerama za sprječavanje i suzbijanje akutne mlohave kljenuti i Creutzfeldt-Jakobove bolesti",
+   "title": "Odluka o mjerama za sprječavanje i suzbijanje akutne mlohave kljenuti i Creutzfeldt-Jakobove bolesti",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/126/2338",
+   "versions": [
+    {
+     "from": "2000-12-07",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2000_12_126_2338.html",
+     "sha256": "7a924097ad749375638e12ddf2f7bbe322d24fc87fb6a5a565a660ab107f0b8a"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2000-2339",
+   "path": "odluka/2000/2339",
+   "short": "Odluka o utvrđivanju interesa Republike Hrvatske za eksploataciju i sanaciju kamenoloma arhitektonsko-građevnog kamena",
+   "title": "Odluka o utvrđivanju interesa Republike Hrvatske za eksploataciju i sanaciju kamenoloma arhitektonsko-građevnog kamena",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/126/2339",
+   "versions": [
+    {
+     "from": "2000-12-15",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2000_12_126_2339.html",
+     "sha256": "9f9def711ef6a3704cf5637ae85714fe4e5f782921283fb35b057479742c10e2"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2000-2346",
+   "path": "odluka/2000/2346",
+   "short": "Odluka o izmjeni Odluke o zabrani klanja podmlatka pojedinih vrsta stoke",
+   "title": "Odluka o izmjeni Odluke o zabrani klanja podmlatka pojedinih vrsta stoke",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/126/2346",
+   "versions": [
+    {
+     "from": "2000-12-15",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2000_12_126_2346.html",
+     "sha256": "dc0ff87bac4ba2aa15ec12400a5b39a7104936fe51aec95168b424422f98ab1b"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2000-2349",
+   "path": "odluka/2000/2349",
+   "short": "Odluka o izdavanju i prodaji prigodnoga srebrnoga kovanog novca \"Slava Raškaj\"",
+   "title": "Odluka o izdavanju i prodaji prigodnoga srebrnoga kovanog novca \"Slava Raškaj\"",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/126/2349",
+   "versions": [
+    {
+     "from": "2000-12-15",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2000_12_126_2349.html",
+     "sha256": "f47f66878fbb995a9c5f20057a6c5bf81117488611dac97f314f88ddf98ac3f6"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2000-2369",
+   "path": "odluka/2000/2369",
+   "short": "Odluka o osnovama za sklapanje ugovora sa zdravstvenim ustanovama i privatnim zdravstvenim djelatnicima za 2001. godinu",
+   "title": "Odluka o osnovama za sklapanje ugovora sa zdravstvenim ustanovama i privatnim zdravstvenim djelatnicima za 2001. godinu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/127/2369",
+   "versions": [
+    {
+     "from": "2000-12-20",
+     "units": 40,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2000_12_127_2369.html",
+     "sha256": "383f37dda40d7239cadcfc0990626998ce0a34f05f6997e20a191196dc2ed443"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2000-2370",
+   "path": "odluka/2000/2370",
+   "short": "Odluka o posebnim standardima i mjerilim njihove primjene u provođenju primarne zdravstvene zaštite",
+   "title": "Odluka o posebnim standardima i mjerilim njihove primjene u provođenju primarne zdravstvene zaštite",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/127/2370",
+   "versions": [
+    {
+     "from": "2000-12-20",
+     "units": 9,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2000_12_127_2370.html",
+     "sha256": "dcc276ecb223b5210910d7f4349d34b009c73acb0db7559133b6d3211131f35d"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2000-2372",
+   "path": "odluka/2000/2372",
+   "short": "Odluka o smještaju zastupnika Hrvatskoga sabora u Zagrebu u vrijeme zasjedanja Sabora, radnih tijela, domova i klubova zastupnika",
+   "title": "Odluka o smještaju zastupnika Hrvatskoga sabora u Zagrebu u vrijeme zasjedanja Sabora, radnih tijela, domova i klubova zastupnika",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/128/2372",
+   "versions": [
+    {
+     "from": "2000-12-15",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2000_12_128_2372.html",
+     "sha256": "cc07c1c6a3f07637e1016d2154cbedc913875fa198beaf49ae1d9627e1bc4a06"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2000-2373",
+   "path": "odluka/2000/2373",
+   "short": "Odluka o uvjetima korištenja službenih osobnih automobila, mobilnih telefona, sredstava za službena putovanja, poslovnih kreditnih kartica i sredstava reprezentacije",
+   "title": "Odluka o uvjetima korištenja službenih osobnih automobila, mobilnih telefona, sredstava za službena putovanja, poslovnih kreditnih kartica i sredstava reprezentacije",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/128/2373",
+   "versions": [
+    {
+     "from": "2000-12-15",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2000_12_128_2373.html",
+     "sha256": "8d1ee9fc68a4c95c559a40ee8e8a17150ca75fb5412afda2b9f14dc5b2f236bd"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2000-2392",
+   "path": "odluka/2000/2392",
+   "short": "Odluka o davanju pomoći županijama, gradovima i općinama za djelomično ublažavanje posljedica štete od elementarnih nepogoda za razdoblje od siječnja do studenoga 2000. godine",
+   "title": "Odluka o davanju pomoći županijama, gradovima i općinama za djelomično ublažavanje posljedica štete od elementarnih nepogoda za razdoblje od siječnja do studenoga 2000. godine",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/129/2392",
+   "versions": [
+    {
+     "from": "2000-12-23",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2000_12_129_2392.html",
+     "sha256": "a279ed823904dc5d2375f34f3d4ad86f66cf8cf43c6680dcc78f5735d5ce0d9a"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2000-2393",
+   "path": "odluka/2000/2393",
+   "short": "Odluka o izmjenama i dopunama Poslovnika Zastupničkog doma Hrvatskoga državnog sabora",
+   "title": "Odluka o izmjenama i dopunama Poslovnika Zastupničkog doma Hrvatskoga državnog sabora",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/129/2393",
+   "versions": [
+    {
+     "from": "2000-12-15",
+     "units": 2,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2000_12_129_2393.html",
+     "sha256": "e8e29bc172b8eda8c70bd5cde42d1cf8b9183a2485de75f9003ce6bf158ef800"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2000-2395",
+   "path": "odluka/2000/2395",
+   "short": "Odluka o davanju suglasnosti na Financijski plan za 2001. godinu Hrvatskog zavoda za mirovinsko osiguranje",
+   "title": "Odluka o davanju suglasnosti na Financijski plan za 2001. godinu Hrvatskog zavoda za mirovinsko osiguranje",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/130/2395",
+   "versions": [
+    {
+     "from": "2000-12-27",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2000_12_130_2395.html",
+     "sha256": "c542de6f02b930cacabd46d9920b45b444b718f83eae1950faa09b2d83ec5f89"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2000-2396",
+   "path": "odluka/2000/2396",
+   "short": "Odluka o davanju suglasnosti na financijski plan za 2001. godinu Hrvatskog zavoda za zdravstveno osiguranje",
+   "title": "Odluka o davanju suglasnosti na financijski plan za 2001. godinu Hrvatskog zavoda za zdravstveno osiguranje",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/130/2396",
+   "versions": [
+    {
+     "from": "2000-12-27",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2000_12_130_2396.html",
+     "sha256": "260598086032bbc69f891dae9d8f782c8f977245ca0f5727436927b59f91e167"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2000-2397",
+   "path": "odluka/2000/2397",
+   "short": "Odluka o davanju suglasnosti na Financijski plan za 2001. godinu Hrvatskog zavoda za zapošljavanje",
+   "title": "Odluka o davanju suglasnosti na Financijski plan za 2001. godinu Hrvatskog zavoda za zapošljavanje",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/130/2397",
+   "versions": [
+    {
+     "from": "2000-12-27",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2000_12_130_2397.html",
+     "sha256": "1aeb8cc66afa3a5e1caac7d94480bbcd1d980e915de8ce4810daac221a7b7bf6"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2000-2398",
+   "path": "odluka/2000/2398",
+   "short": "Odluka o davanju suglasnosti na Financijski plan za 2001. godinu sredstava doplatka za djecu",
+   "title": "Odluka o davanju suglasnosti na Financijski plan za 2001. godinu sredstava doplatka za djecu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/130/2398",
+   "versions": [
+    {
+     "from": "2000-12-27",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2000_12_130_2398.html",
+     "sha256": "82697fc8b684d854902aa836a9d95d118e71e7018fd3603122b195d20ed2bec2"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2000-2399",
+   "path": "odluka/2000/2399",
+   "short": "Odluka o davanju suglasnosti na Financijski plan za 2001. godinu Hrvatskih voda",
+   "title": "Odluka o davanju suglasnosti na Financijski plan za 2001. godinu Hrvatskih voda",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/130/2399",
+   "versions": [
+    {
+     "from": "2000-12-27",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2000_12_130_2399.html",
+     "sha256": "21063ffd15cddf94f55779f0d339004979d0b9d2cf42caadf34fd793e63d1837"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2000-2437",
+   "path": "odluka/2000/2437",
+   "short": "Odluka o izmjeni i dopuni Odluke o uvjetima i načinu plaćanja gotovim novcem",
+   "title": "Odluka o izmjeni i dopuni Odluke o uvjetima i načinu plaćanja gotovim novcem",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/131/2437",
+   "versions": [
+    {
+     "from": "2000-12-28",
+     "units": 6,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2000_12_131_2437.html",
+     "sha256": "7a4eb1bd6e5762baf88b6bf9bab328f3166fe8eca3fff18f5aaeaa6bf3cb3e3b"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2000-2438",
+   "path": "odluka/2000/2438",
+   "short": "Odluka o izmjeni i dopuni Odluke o obveznoj rezervi",
+   "title": "Odluka o izmjeni i dopuni Odluke o obveznoj rezervi",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/131/2438",
+   "versions": [
+    {
+     "from": "2000-12-28",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2000_12_131_2438.html",
+     "sha256": "b2f5b4e0e635299f0db9e6bae8a27875e000d2402f5a9581eeda4baec2878216"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2000-2439",
+   "path": "odluka/2000/2439",
+   "short": "Odluka o prestanku važenja Odluke o načinu i uvjetima korištenja obvezne rezerve banaka i štedionica",
+   "title": "Odluka o prestanku važenja Odluke o načinu i uvjetima korištenja obvezne rezerve banaka i štedionica",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/131/2439",
+   "versions": [
+    {
+     "from": "2000-12-28",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2000_12_131_2439.html",
+     "sha256": "4474db03f3a96fd9642e39c490a12989b0b2a7f17a985660bcbabb18f5b03a19"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2000-2440",
+   "path": "odluka/2000/2440",
+   "short": "Odluka o prestanku važenja Odluke o uvjetima i načinu odobravanja kratkoročnog interventnog kredita",
+   "title": "Odluka o prestanku važenja Odluke o uvjetima i načinu odobravanja kratkoročnog interventnog kredita",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/131/2440",
+   "versions": [
+    {
+     "from": "2000-12-28",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2000_12_131_2440.html",
+     "sha256": "de4cf57011a24a3db70fdde9e5f904f96b6901b6dbd0f02854234cbb659de179"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2000-2441",
+   "path": "odluka/2000/2441",
+   "short": "Odluka o izmjeni Odluke o kamatnim stopama Hrvatske narodne banke",
+   "title": "Odluka o izmjeni Odluke o kamatnim stopama Hrvatske narodne banke",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/131/2441",
+   "versions": [
+    {
+     "from": "2000-12-28",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2000_12_131_2441.html",
+     "sha256": "c65c624ce5fdb712c851de6ac163d6b929c49b660bd7ae3559f9024ee1fe53b2"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2000-2442",
+   "path": "odluka/2000/2442",
+   "short": "Odluka o izmjeni i dopuni Odluke o uvjetima za odobrenje kratkoročnog kredita na osnovi zaloga vrijednosnih papira (lombardni kredit)",
+   "title": "Odluka o izmjeni i dopuni Odluke o uvjetima za odobrenje kratkoročnog kredita na osnovi zaloga vrijednosnih papira (lombardni kredit)",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/131/2442",
+   "versions": [
+    {
+     "from": "2000-12-28",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2000_12_131_2442.html",
+     "sha256": "5b77c377ef1872ffd637e2e268b4b1f8f6139660b65eaac229ea4ca632309b26"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2000-2443",
+   "path": "odluka/2000/2443",
+   "short": "Odluka o prestanku važenja Odluke o prekonoćnom međubankarskom trgovanju",
+   "title": "Odluka o prestanku važenja Odluke o prekonoćnom međubankarskom trgovanju",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/131/2443",
+   "versions": [
+    {
+     "from": "2000-12-28",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2000_12_131_2443.html",
+     "sha256": "60b8bf942e5302f59743a8753c4062119931a3712c43d59081a145545165fd56"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2000-2444",
+   "path": "odluka/2000/2444",
+   "short": "Odluka o prestanku važenja Odluke o načinu i uvjetima odobravanja kredita za premošćivanje nelikvidnosti bankama nad kojima je pokrenut postupak za ocjenu mogućnosti i ekonomske opravdanosti sanacije",
+   "title": "Odluka o prestanku važenja Odluke o načinu i uvjetima odobravanja kredita za premošćivanje nelikvidnosti bankama nad kojima je pokrenut postupak za ocjenu mogućnosti i ekonomske opravdanosti sanacije",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/131/2444",
+   "versions": [
+    {
+     "from": "2000-12-28",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2000_12_131_2444.html",
+     "sha256": "5ad48d0ce835d5bff3c55b477dbf4395d8dae001397cd62093093f54248bb99d"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2000-2445",
+   "path": "odluka/2000/2445",
+   "short": "Odluka o izmjeni i dopuni Odluke o načinu obračuna, naplate i plaćanja aktivnih i pasivnih kamata Hrvatske narodne banke",
+   "title": "Odluka o izmjeni i dopuni Odluke o načinu obračuna, naplate i plaćanja aktivnih i pasivnih kamata Hrvatske narodne banke",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/131/2445",
+   "versions": [
+    {
+     "from": "2000-12-28",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2000_12_131_2445.html",
+     "sha256": "952528578048897186e49711497ed4af118e3c40ef3e0b7b2cf9747e0050797f"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2000-2448",
+   "path": "odluka/2000/2448",
+   "short": "Odluka o utvrđivanju cijene rada i materijala zubotehničara za izradu stomatološko-protetskih pomagala, ortodonskih uređaja, udlaga, resekcijskih proteza, epiteza i opturatora za osigurane osobe Hrvat",
+   "title": "Odluka o utvrđivanju cijene rada i materijala zubotehničara za izradu stomatološko-protetskih pomagala, ortodonskih uređaja, udlaga, resekcijskih proteza, epiteza i opturatora za osigurane osobe Hrvat",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/131/2448",
+   "versions": [
+    {
+     "from": "2000-12-28",
+     "units": 6,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2000_12_131_2448.html",
+     "sha256": "957ee0ada7a7035124ba937f34e0632585c19355361477b0e87781dab8d1ccfb"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2000-2449",
+   "path": "odluka/2000/2449",
+   "short": "Odluka o izmjeni i dopuni Odluke o kriterijima za utvrđivanje minimalnog broja zaposlenika uprave doma zdravlja",
+   "title": "Odluka o izmjeni i dopuni Odluke o kriterijima za utvrđivanje minimalnog broja zaposlenika uprave doma zdravlja",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/131/2449",
+   "versions": [
+    {
+     "from": "2000-12-28",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2000_12_131_2449.html",
+     "sha256": "983a25f2fc4af636d4c232e1a150a57d7f05f2128fda974799fde55baf419ec2"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2000-2462",
+   "path": "odluka/2000/2462",
+   "short": "Odluka o dopuni Odluke o utvrđivanju plaće zamjenicima i pomoćnicima ravnatelja državnih upravnih organizacija",
+   "title": "Odluka o dopuni Odluke o utvrđivanju plaće zamjenicima i pomoćnicima ravnatelja državnih upravnih organizacija",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/132/2462",
+   "versions": [
+    {
+     "from": "2000-12-29",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2000_12_132_2462.html",
+     "sha256": "343ad1352bd20c263ad5b29bf4f7839032101bdf8674a1bcca72c92b47570834"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2000-2463",
+   "path": "odluka/2000/2463",
+   "short": "Odluka o dopuni Odluke o utvrđivanju koeficijenata za izračun plaće, odnosno naknade plaće povjerenika Vlade Republike Hrvatske",
+   "title": "Odluka o dopuni Odluke o utvrđivanju koeficijenata za izračun plaće, odnosno naknade plaće povjerenika Vlade Republike Hrvatske",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/132/2463",
+   "versions": [
+    {
+     "from": "2000-12-29",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2000_12_132_2463.html",
+     "sha256": "75944dcf96e0acc37cdaed4959c206fab8c61f446f3a6d90638bb7894fd4c8b8"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2000-2464",
+   "path": "odluka/2000/2464",
+   "short": "Odluka o dopuni Odluke o rasporedu sredstava Državnog proračuna Republike Hrvatske za 2000. godinu za održavanje županijskih i lokalnih cesta u 2000. godini",
+   "title": "Odluka o dopuni Odluke o rasporedu sredstava Državnog proračuna Republike Hrvatske za 2000. godinu za održavanje županijskih i lokalnih cesta u 2000. godini",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/132/2464",
+   "versions": [
+    {
+     "from": "2000-12-29",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2000_12_132_2464.html",
+     "sha256": "26560d4e60edcf44524898dea1c09217b3833c43780a88521ae7419f3ebeac67"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2000-2465",
+   "path": "odluka/2000/2465",
+   "short": "Odluka o koncesiji pomorskog dobra u svrhu gospodarskog korištenja luke posebne namjene - luke nautičkog turizma Frapa",
+   "title": "Odluka o koncesiji pomorskog dobra u svrhu gospodarskog korištenja luke posebne namjene - luke nautičkog turizma Frapa",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/132/2465",
+   "versions": [
+    {
+     "from": "2000-12-22",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2000_12_132_2465.html",
+     "sha256": "70af70733fa275eb517bc4edb7700d2647408564020728f90998be76b45d96ed"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2000-2466",
+   "path": "odluka/2000/2466",
+   "short": "Odluka o utvrđivanju interesa Republike Hrvatske za rekonstrukciju visokotlačnog plinoopskrbnog sustava Varaždin - Čakovec - Šenkovec",
+   "title": "Odluka o utvrđivanju interesa Republike Hrvatske za rekonstrukciju visokotlačnog plinoopskrbnog sustava Varaždin - Čakovec - Šenkovec",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/132/2466",
+   "versions": [
+    {
+     "from": "2000-12-29",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2000_12_132_2466.html",
+     "sha256": "6c9bcf4baf35e7da022d1de889ba6f0d55c86b6f5e4d8c971ca6f4a2da13a0c1"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2000-2467",
+   "path": "odluka/2000/2467",
+   "short": "Odluka o utvrđivanju interesa Republike Hrvatske za eksploataciju polja tehničkog građevnog kamena u k.o. Gilerinci",
+   "title": "Odluka o utvrđivanju interesa Republike Hrvatske za eksploataciju polja tehničkog građevnog kamena u k.o. Gilerinci",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/132/2467",
+   "versions": [
+    {
+     "from": "2000-12-29",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2000_12_132_2467.html",
+     "sha256": "fe8b6ef03e4ae4b684e40cdccc12e34217757934ce7afbfb0b6e7c3cac515628"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2000-2468",
+   "path": "odluka/2000/2468",
+   "short": "Odluka o utvrđivanju interesa Republike Hrvatske za formiranje eksploatacijskog polja mineralnih sirovina, vapnenca i dolomita ŻGusti rastikŽ Sirač u k.o. Bijela",
+   "title": "Odluka o utvrđivanju interesa Republike Hrvatske za formiranje eksploatacijskog polja mineralnih sirovina, vapnenca i dolomita ŻGusti rastikŽ Sirač u k.o. Bijela",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/132/2468",
+   "versions": [
+    {
+     "from": "2000-12-29",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2000_12_132_2468.html",
+     "sha256": "79f81eb8814504bd8ff1135ddae2a29e95c717d47ad7b5a9194c74aa716895de"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2000-2469",
+   "path": "odluka/2000/2469",
+   "short": "Odluka o utvrđivanju interesa Republike Hrvatske za izvođenje radova iskopa gline u k.o. Druškovec",
+   "title": "Odluka o utvrđivanju interesa Republike Hrvatske za izvođenje radova iskopa gline u k.o. Druškovec",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/132/2469",
+   "versions": [
+    {
+     "from": "2000-12-29",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2000_12_132_2469.html",
+     "sha256": "55249f349050e8b6b71d0863a18a037c9be16f6a696ebca7b8d7c188b1cb76b6"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2000-2474",
+   "path": "odluka/2000/2474",
+   "short": "Odluka o financiranju Hrvatske gospodarske komore u 2001. godini",
+   "title": "Odluka o financiranju Hrvatske gospodarske komore u 2001. godini",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/132/2474",
+   "versions": [
+    {
+     "from": "2000-12-29",
+     "units": 11,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2000_12_132_2474.html",
+     "sha256": "43237bec1f00222448e49f97c60824377085e531f0fe498f431f071e179d5652"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2000-265",
+   "path": "odluka/2000/265",
+   "short": "Odluku o izmjeni i dopuni Odluke o utvrđivanju popisa dijagnostičkih i terapijskih postupaka u zdravstvenim djelatnostima - vremenski i kadrovski normativi",
+   "title": "Odluku o izmjeni i dopuni Odluke o utvrđivanju popisa dijagnostičkih i terapijskih postupaka u zdravstvenim djelatnostima - vremenski i kadrovski normativi",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/18/265",
+   "versions": [
+    {
+     "from": "2000-02-10",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2000_02_18_265.html",
+     "sha256": "d8b039b80ae15ea39d59263b813ffe356fe8fc7a997bbbbdcd16e6431e94590d"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2000-266",
+   "path": "odluka/2000/266",
+   "short": "Odluku o utvrđivanju Liste lijekova Hrvatskog zavoda za zdravstveno osiguranje",
+   "title": "Odluku o utvrđivanju Liste lijekova Hrvatskog zavoda za zdravstveno osiguranje",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/18/266",
+   "versions": [
+    {
+     "from": "2000-02-10",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2000_02_18_266.html",
+     "sha256": "16ee1643ac99739a1fb23dfdeb330a03ec972edcf8ef599e8a9447bf4edd7ffe"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2000-282",
+   "path": "odluka/2000/282",
+   "short": "Odluku o povlačenju iz optjecaja novčanica od 10 kuna s datumom izdanja 31. listopada 1993.",
+   "title": "Odluku o povlačenju iz optjecaja novčanica od 10 kuna s datumom izdanja 31. listopada 1993.",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/20/282",
+   "versions": [
+    {
+     "from": "2000-02-16",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2000_02_20_282.html",
+     "sha256": "ffd4b260587b27ad0cfb3e8769427fd685c07e42cbf5235166c754f7789fb63d"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2000-36",
+   "path": "odluka/2000/36",
+   "short": "Odluka o raspisivanju izbora za Gradsko vijeće Grada Kutine i Općinsko vijeće Općine Perušić",
+   "title": "Odluka o raspisivanju izbora za Gradsko vijeće Grada Kutine i Općinsko vijeće Općine Perušić",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/4/36",
+   "versions": [
+    {
+     "from": "2000-01-14",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2000_01_4_36.html",
+     "sha256": "702a3cc57c1b411f195d83a89568e689a25d03946cbf25f9f9eaf689ab8827e9"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2000-378",
+   "path": "odluka/2000/378",
+   "short": "Odluka o dopuštenoj visini tehnološkog manjka i rasipa u doradi/konfekcioniranju meda i drugih pčelinjih proizvoda",
+   "title": "Odluka o dopuštenoj visini tehnološkog manjka i rasipa u doradi/konfekcioniranju meda i drugih pčelinjih proizvoda",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/21/378",
+   "versions": [
+    {
+     "from": "2000-02-26",
+     "units": 8,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2000_02_21_378.html",
+     "sha256": "4678ff05b0f47c800b433119c7322fb3a41aeb518c5303f2521216bbec4eef28"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2000-379",
+   "path": "odluka/2000/379",
+   "short": "Odluka o dopuštenoj visini tehnološkog manjka, kala, kvara, rasipa i loma u peradarstvu i proizvodnji jaja",
+   "title": "Odluka o dopuštenoj visini tehnološkog manjka, kala, kvara, rasipa i loma u peradarstvu i proizvodnji jaja",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/21/379",
+   "versions": [
+    {
+     "from": "2000-02-26",
+     "units": 8,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2000_02_21_379.html",
+     "sha256": "a33a02d11c7d091a47b65ce4363dd5be4eebccc6b6e1efa47a43afc0dd6d95e8"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2000-380",
+   "path": "odluka/2000/380",
+   "short": "Odluka o dopuštenoj visini tehnološkog manjka, kala, kvara, rasipa i loma u industriji prerade ribe",
+   "title": "Odluka o dopuštenoj visini tehnološkog manjka, kala, kvara, rasipa i loma u industriji prerade ribe",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/21/380",
+   "versions": [
+    {
+     "from": "2000-02-26",
+     "units": 8,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2000_02_21_380.html",
+     "sha256": "afa08bd5998170d908a203560fcdf2ce70bec96740afe062a688850d92f8e8e4"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2000-381",
+   "path": "odluka/2000/381",
+   "short": "Odluka o dopuštenoj visini tehnološkog manjka, kala, kvara, rasipa i loma u proizvodnji mlinskih i pekarskih proizvoda i tjestenine",
+   "title": "Odluka o dopuštenoj visini tehnološkog manjka, kala, kvara, rasipa i loma u proizvodnji mlinskih i pekarskih proizvoda i tjestenine",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/21/381",
+   "versions": [
+    {
+     "from": "2000-02-26",
+     "units": 8,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2000_02_21_381.html",
+     "sha256": "9b98bbab3c1bf05330914f8ff9987077377f94304077197ecb89ee19e911dd87"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2000-382",
+   "path": "odluka/2000/382",
+   "short": "Odluka o dopuštenoj visini tehnološkog manjka, kala, kvara, rasipa i loma za proizvode u industriji ulja",
+   "title": "Odluka o dopuštenoj visini tehnološkog manjka, kala, kvara, rasipa i loma za proizvode u industriji ulja",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/21/382",
+   "versions": [
+    {
+     "from": "2000-02-26",
+     "units": 8,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2000_02_21_382.html",
+     "sha256": "9f6427ecbd4096a685ec70c72e89ae879cffc52a918194b0de85eee976103aa6"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2000-383",
+   "path": "odluka/2000/383",
+   "short": "Odluka o dopuštenoj visini tehnološkog manjka, kala, kvara, rasipa i loma u proizvodnji šećera",
+   "title": "Odluka o dopuštenoj visini tehnološkog manjka, kala, kvara, rasipa i loma u proizvodnji šećera",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/21/383",
+   "versions": [
+    {
+     "from": "2000-02-26",
+     "units": 8,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2000_02_21_383.html",
+     "sha256": "6a3f94a21b74603f820b86378bed00007fde3c19d8efdbd6e7d431d2fbfda59f"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2000-385",
+   "path": "odluka/2000/385",
+   "short": "Odluka o dopuštenoj visini tehnološkog manjka, kala, kvara, rasipa i loma u proizvodnji vina, bezalkoholnog piva, mineralne vode, voćnih sokova i sirupa",
+   "title": "Odluka o dopuštenoj visini tehnološkog manjka, kala, kvara, rasipa i loma u proizvodnji vina, bezalkoholnog piva, mineralne vode, voćnih sokova i sirupa",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/21/385",
+   "versions": [
+    {
+     "from": "2000-02-26",
+     "units": 8,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2000_02_21_385.html",
+     "sha256": "4304145c220df034fe468d9604504b84e4e79764256a2ea7cac5474e0f83d38c"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2000-386",
+   "path": "odluka/2000/386",
+   "short": "Odluka o dopuštenoj visini tehnološkog manjka, kala, kvara, rasipa i loma u proizvodnji i preradi duhana",
+   "title": "Odluka o dopuštenoj visini tehnološkog manjka, kala, kvara, rasipa i loma u proizvodnji i preradi duhana",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/21/386",
+   "versions": [
+    {
+     "from": "2000-02-26",
+     "units": 8,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2000_02_21_386.html",
+     "sha256": "b6cbe24390290d8c8ee1fcdd4ed543c98c375054c887f9dd3ec7e430f8647e87"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2000-400",
+   "path": "odluka/2000/400",
+   "short": "Odluka o visini novčane naknade za nezaposlenu osobu",
+   "title": "Odluka o visini novčane naknade za nezaposlenu osobu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/22/400",
+   "versions": [
+    {
+     "from": "2000-02-23",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2000_02_22_400.html",
+     "sha256": "5195060b51be6b8e9a965cdda531aa0ca07d494fd7676308d648ed83725386f4"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2000-423",
+   "path": "odluka/2000/423",
+   "short": "Odluka o izmjeni odluke o Uredu predsjednika Republike Hrvatske",
+   "title": "Odluka o izmjeni odluke o Uredu predsjednika Republike Hrvatske",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/24/423",
+   "versions": [
+    {
+     "from": "2000-02-21",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2000_02_24_423.html",
+     "sha256": "91a2b07bd0db0399df259a3cf090b9c6bedef8288a434383bcc823b9e2dae0ea"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2000-429",
+   "path": "odluka/2000/429",
+   "short": "Odluka o promjeni svote carine po mjernoj jedinici pri uvozu pojedinih poljoprivrednih i prehrambenih proizvoda iz Dodatka A carinske tarife",
+   "title": "Odluka o promjeni svote carine po mjernoj jedinici pri uvozu pojedinih poljoprivrednih i prehrambenih proizvoda iz Dodatka A carinske tarife",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/24/429",
+   "versions": [
+    {
+     "from": "2000-03-03",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2000_02_24_429.html",
+     "sha256": "f12c879355029c672a9ac3598d170d2beee65b760dab54a38848de7cd6522442"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2000-447",
+   "path": "odluka/2000/447",
+   "short": "Odluka o prijamu službenika i namještenika u tijela državne uprave i javne službe koje se financiraju iz državnog proračuna",
+   "title": "Odluka o prijamu službenika i namještenika u tijela državne uprave i javne službe koje se financiraju iz državnog proračuna",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/25/447",
+   "versions": [
+    {
+     "from": "2000-02-17",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2000_02_25_447.html",
+     "sha256": "147e1b2c882a580f267fa8faa453567d2d3bde60e78f9b70d152554e23f8e248"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2000-51",
+   "path": "odluka/2000/51",
+   "short": "Odluka o obvezi rada državnog ravnateljstva za državnu upravu i lokalnu samoupravu, županijskih ureda i Gradskog ureda Grada Zagreba za opću upravu na dane 22. i 24. siječnja 2000. godine",
+   "title": "Odluka o obvezi rada državnog ravnateljstva za državnu upravu i lokalnu samoupravu, županijskih ureda i Gradskog ureda Grada Zagreba za opću upravu na dane 22. i 24. siječnja 2000. godine",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/5/51",
+   "versions": [
+    {
+     "from": "2000-01-13",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2000_01_5_51.html",
+     "sha256": "89300aaf3a6a3a9dcd712846981d458324b7650b1e87c0be307cb0fd3b0dc3c7"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2000-52",
+   "path": "odluka/2000/52",
+   "short": "Odluka o dodjeli koncesije za crpljenje termalne vode za potrebe zdravstvene rehabilitacije invalidnih osoba ustanovi za zdravstvenu njegu i rehabilitaciju u kući, Varaždin",
+   "title": "Odluka o dodjeli koncesije za crpljenje termalne vode za potrebe zdravstvene rehabilitacije invalidnih osoba ustanovi za zdravstvenu njegu i rehabilitaciju u kući, Varaždin",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/5/52",
+   "versions": [
+    {
+     "from": "2000-01-13",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2000_01_5_52.html",
+     "sha256": "3b5174e437ffd0ead9d5c82da4c8cd88ebac2840beebcef56751477e54be0f65"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2000-523",
+   "path": "odluka/2000/523",
+   "short": "Odluka o tehničkim pravilima Hrvatskog registra brodova - pregrađivanje (2000.)",
+   "title": "Odluka o tehničkim pravilima Hrvatskog registra brodova - pregrađivanje (2000.)",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/26/523",
+   "versions": [
+    {
+     "from": "2000-04-01",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2000_03_26_523.html",
+     "sha256": "cd95c195c8e69154a4a23cfaec430d9116c25a02f10aca1f8a76205f532d9458"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2000-524",
+   "path": "odluka/2000/524",
+   "short": "Odluka o tehničkim pravilima Hrvatskog registra brodova - nemetalni materijali (2000.)",
+   "title": "Odluka o tehničkim pravilima Hrvatskog registra brodova - nemetalni materijali (2000.)",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/26/524",
+   "versions": [
+    {
+     "from": "2000-04-01",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2000_03_26_524.html",
+     "sha256": "7b56d52b2bfaec21b7f779a4371b56855f0a232e7e70d260b1590e312948a952"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2000-53",
+   "path": "odluka/2000/53",
+   "short": "Odluka o dodjeli koncesije društvu Vinkovački vodovod i kanalizacija d.o.o., Vinkovci, za zahvaćanje voda za potrebe javne vodoopskrbe",
+   "title": "Odluka o dodjeli koncesije društvu Vinkovački vodovod i kanalizacija d.o.o., Vinkovci, za zahvaćanje voda za potrebe javne vodoopskrbe",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/5/53",
+   "versions": [
+    {
+     "from": "2000-01-13",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2000_01_5_53.html",
+     "sha256": "3456f8bc0884542080bfdcaa3e1882c0e77e5ed11a0f7366b28fd31a9a7ec2c3"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2000-54",
+   "path": "odluka/2000/54",
+   "short": "Odluka o dodjeli koncesije Vodovodu Dubrovnik d.o.o., za vodoopskrbu i komunalnu hidrotehniku, Dubrovnik, za zahvaćanje voda za potrebe javne vodoopskrbe",
+   "title": "Odluka o dodjeli koncesije Vodovodu Dubrovnik d.o.o., za vodoopskrbu i komunalnu hidrotehniku, Dubrovnik, za zahvaćanje voda za potrebe javne vodoopskrbe",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/5/54",
+   "versions": [
+    {
+     "from": "2000-01-13",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2000_01_5_54.html",
+     "sha256": "08b81e6d6dd11c1e4e6410c365e5b29b3a7fd50de757715c7a90c8f839432583"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2000-546",
+   "path": "odluka/2000/546",
+   "short": "Odluka o izmjeni Odluke o sniženju carinskih stopa za određenu robu",
+   "title": "Odluka o izmjeni Odluke o sniženju carinskih stopa za određenu robu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/27/546",
+   "versions": [
+    {
+     "from": "2000-03-08",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2000_03_27_546.html",
+     "sha256": "fe75b5be6a438e503ac551408314bf11330b9a13c46a2e87fd56edcc75dd30a9"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2000-547",
+   "path": "odluka/2000/547",
+   "short": "Odluka o izmjeni Odluke o promjeni nazivlja i brojčanog označavanja robe za pojedine tarifne oznake u Carinskoj tarifi",
+   "title": "Odluka o izmjeni Odluke o promjeni nazivlja i brojčanog označavanja robe za pojedine tarifne oznake u Carinskoj tarifi",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/27/547",
+   "versions": [
+    {
+     "from": "2000-03-16",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2000_03_27_547.html",
+     "sha256": "fca87b4a3550cf1b5efbaadd7ee9119854463d947afb44272edb688ee2da9188"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2000-55",
+   "path": "odluka/2000/55",
+   "short": "Odluka o dodjeli koncesije za zahvaćanje voda za potrebe javne vodoopskrbe Komunalnom poduzeću \"Varkom\" d.d., Varaždin",
+   "title": "Odluka o dodjeli koncesije za zahvaćanje voda za potrebe javne vodoopskrbe Komunalnom poduzeću \"Varkom\" d.d., Varaždin",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/5/55",
+   "versions": [
+    {
+     "from": "2000-01-13",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2000_01_5_55.html",
+     "sha256": "26a49bb8f7f8aefc3b07440274c7342f5b76032a56c4948b961a96b62b6de64c"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2000-56",
+   "path": "odluka/2000/56",
+   "short": "Odluka o izmjeni Odluke o dodjeli koncesije za zahvaćanje voda za potrebe javne vodoopskrbe javnom poduzeću",
+   "title": "Odluka o izmjeni Odluke o dodjeli koncesije za zahvaćanje voda za potrebe javne vodoopskrbe javnom poduzeću",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/5/56",
+   "versions": [
+    {
+     "from": "2000-01-13",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2000_01_5_56.html",
+     "sha256": "c74223d23a2eb2296ca4126ac58aa8a36671b82fba131333abc9216306f3f483"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2000-560",
+   "path": "odluka/2000/560",
+   "short": "Odluka o stavljanju van snage Odluke Vlade Republike Hrvatske, klase: 432-02/98-01/47, urbroj: 50304/2-98-1, od 28. svibnja 1998. godine",
+   "title": "Odluka o stavljanju van snage Odluke Vlade Republike Hrvatske, klase: 432-02/98-01/47, urbroj: 50304/2-98-1, od 28. svibnja 1998. godine",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/27/560",
+   "versions": [
+    {
+     "from": "2000-03-02",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2000_03_27_560.html",
+     "sha256": "b8005480f5cc9c5db2881c03cbb91ef3c459ea350882535848fdd5e557a380ba"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2000-561",
+   "path": "odluka/2000/561",
+   "short": "Odluka o davanju punomoći Goranku Fižuliću, ministru gospodarstva, za zastupanje Republike Hrvatske u Skupštini društva Hrvatska brodogradnja - Jadranbrod d.d.",
+   "title": "Odluka o davanju punomoći Goranku Fižuliću, ministru gospodarstva, za zastupanje Republike Hrvatske u Skupštini društva Hrvatska brodogradnja - Jadranbrod d.d.",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/27/561",
+   "versions": [
+    {
+     "from": "2000-03-02",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2000_03_27_561.html",
+     "sha256": "f2e4637178b2292e7bc9261e17f022b5f48eb7595bd9d76ba35e7b80aa68c59e"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2000-57",
+   "path": "odluka/2000/57",
+   "short": "Odluka o izmjeni Odluke o dodjeli koncesije poduzeću za obavljanje komunalnih djelatnosti Zaprešić d.o.o., Zaprešić, za zahvaćanje voda za potrebe javne vodoopskrbe",
+   "title": "Odluka o izmjeni Odluke o dodjeli koncesije poduzeću za obavljanje komunalnih djelatnosti Zaprešić d.o.o., Zaprešić, za zahvaćanje voda za potrebe javne vodoopskrbe",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/5/57",
+   "versions": [
+    {
+     "from": "2000-01-13",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2000_01_5_57.html",
+     "sha256": "5e28122c26851c9955e453af02360ea2d446a558cf02a31cdb1eb9ef1b444420"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2000-587",
+   "path": "odluka/2000/587",
+   "short": "Odluka o izradi Strategije razvitka Republike Hrvatske \"Hrvatska u 21. stoljeću\"",
+   "title": "Odluka o izradi Strategije razvitka Republike Hrvatske \"Hrvatska u 21. stoljeću\"",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/29/587",
+   "versions": [
+    {
+     "from": "2000-03-09",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2000_03_29_587.html",
+     "sha256": "08fb761b0384d480304a4fcefe28ca924a04ecbaa9378fc53d17090283251934"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2000-6",
+   "path": "odluka/2000/6",
+   "short": "Odluka o davanju koncesija za povremeno priređivanje igara na sreću u igračnicama",
+   "title": "Odluka o davanju koncesija za povremeno priređivanje igara na sreću u igračnicama",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/1/6",
+   "versions": [
+    {
+     "from": "1999-12-30",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2000_01_1_6.html",
+     "sha256": "2267ef4407779d8c0fa746d2a1e0c93aaa1074ebca79ad419b810d30d9e520e2"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2000-654",
+   "path": "odluka/2000/654",
+   "short": "Odluka o izmjeni Odluke o dodjeli koncesije za zahvaćanje voda za potrebe javne vodoopskrbe Javnom poduzeću komunalnih djelatnosti Tekija s.p.o., Požega",
+   "title": "Odluka o izmjeni Odluke o dodjeli koncesije za zahvaćanje voda za potrebe javne vodoopskrbe Javnom poduzeću komunalnih djelatnosti Tekija s.p.o., Požega",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/31/654",
+   "versions": [
+    {
+     "from": "2000-03-16",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2000_03_31_654.html",
+     "sha256": "ca54526782b93b5e6fcaa05a66a9e7b1cb67402c0082316f123000cd4bae6bad"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2000-655",
+   "path": "odluka/2000/655",
+   "short": "Odluka o dodjeli koncesije za korištenje poljoprivrednog zemljišta u vlasništvu Republike Hrvatske na području Osječko-baranjske županije",
+   "title": "Odluka o dodjeli koncesije za korištenje poljoprivrednog zemljišta u vlasništvu Republike Hrvatske na području Osječko-baranjske županije",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/31/655",
+   "versions": [
+    {
+     "from": "2000-03-16",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2000_03_31_655.html",
+     "sha256": "322ae6fcc649e5269eea3a1ac744855db20c7f7ba04ed5d31a6b36b4cfe5f489"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2000-682",
+   "path": "odluka/2000/682",
+   "short": "Odluka o davanju suglasnosti na Financijski plan za 2000. godinu Hrvatskog zavoda za mirovinsko osiguranje",
+   "title": "Odluka o davanju suglasnosti na Financijski plan za 2000. godinu Hrvatskog zavoda za mirovinsko osiguranje",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/33/682",
+   "versions": [
+    {
+     "from": "2000-03-25",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2000_03_33_682.html",
+     "sha256": "4a95de1a9c5932d471d3e3f08b7b2d9612064ddf620284e64a908ddda01bf0e7"
+    }
+   ]
+  },
+  {
    "slug": "naputak-2001-1579",
    "path": "naputak/2001/1579",
    "short": "Naputak o ekonomskoj i funkcijskoj klasifikaciji rashoda/izdataka i prihoda/primitaka",
@@ -4457,6 +7892,156 @@
    ]
   },
   {
+   "slug": "naredba-2003-548",
+   "path": "naredba/2003/548",
+   "short": "Naredba o vremenu otvorenosti aerodroma za javni zračni promet",
+   "title": "Naredba o vremenu otvorenosti aerodroma za javni zračni promet",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2003/43/548",
+   "versions": [
+    {
+     "from": "2003-03-19",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2003_03_43_548.html",
+     "sha256": "cf74e8ef952abc4df763c95290f377deb67a0eed949c740e3e4eae05b5e8dc2e"
+    }
+   ]
+  },
+  {
+   "slug": "naredba-2003-594",
+   "path": "naredba/2003/594",
+   "short": "Naredba o zabrani uvoza u Republiku Hrvatsku i provoza preko područja Republike Hrvatske peradi i proizvoda od peradi podrijetlom iz Danske, Crne Gore i Srbije",
+   "title": "Naredba o zabrani uvoza u Republiku Hrvatsku i provoza preko područja Republike Hrvatske peradi i proizvoda od peradi podrijetlom iz Danske, Crne Gore i Srbije",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2003/47/594",
+   "versions": [
+    {
+     "from": "2003-03-25",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2003_03_47_594.html",
+     "sha256": "392e1c9942c04cdf43a5ae5fc2f87a925e55830715e39f0d2b81408391cdc665"
+    }
+   ]
+  },
+  {
+   "slug": "naredba-2003-690",
+   "path": "naredba/2003/690",
+   "short": "Naredba o dopuni Naredbe o razvrstavanju luka otvorenih za javni promet na području Županije zadarske",
+   "title": "Naredba o dopuni Naredbe o razvrstavanju luka otvorenih za javni promet na području Županije zadarske",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2003/55/690",
+   "versions": [
+    {
+     "from": "2003-04-04",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2003_04_55_690.html",
+     "sha256": "a8cdc9c11d44b807b4906f96db6f4d9e9f1cc052081fcecabf63066bbe405ccb"
+    }
+   ]
+  },
+  {
+   "slug": "naredba-2003-714",
+   "path": "naredba/2003/714",
+   "short": "Naredba o izmjenama Naredbe o mjerama zaštite životinja od zaraznih i nametničkih bolesti i njihovom financiranju u 2003. godini",
+   "title": "Naredba o izmjenama Naredbe o mjerama zaštite životinja od zaraznih i nametničkih bolesti i njihovom financiranju u 2003. godini",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2003/58/714",
+   "versions": [
+    {
+     "from": "2003-04-08",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2003_04_58_714.html",
+     "sha256": "f7d74bf4fc0d69923b686bfae0783fe597f812bca24f7ad170984d1c6ee4b542"
+    }
+   ]
+  },
+  {
+   "slug": "naredba-2003-748",
+   "path": "naredba/2003/748",
+   "short": "Naredba o prestanku važenja Naredbe o zabrani uvoza u Republiku Hrvatsku peradi i proizvoda od peradi podrijetlom iz Danske radi sprječavanja unošenja u Republiku Hrvatsku newcastleske bolesti",
+   "title": "Naredba o prestanku važenja Naredbe o zabrani uvoza u Republiku Hrvatsku peradi i proizvoda od peradi podrijetlom iz Danske radi sprječavanja unošenja u Republiku Hrvatsku newcastleske bolesti",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2003/63/748",
+   "versions": [
+    {
+     "from": "2003-04-15",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2003_04_63_748.html",
+     "sha256": "73a257d3c0e3665c917b1db2a20fe8dfe3edcd8d05795cc3e020937639c26339"
+    }
+   ]
+  },
+  {
+   "slug": "naredba-2003-805",
+   "path": "naredba/2003/805",
+   "short": "Naredba o izmjeni i dopuni Naredbe o načinu uplaćivanja prihoda proračuna, obveznih doprinosa te prihoda za financiranje drugih javnih potreba u 2003. godini",
+   "title": "Naredba o izmjeni i dopuni Naredbe o načinu uplaćivanja prihoda proračuna, obveznih doprinosa te prihoda za financiranje drugih javnih potreba u 2003. godini",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2003/68/805",
+   "versions": [
+    {
+     "from": "2003-04-22",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2003_04_68_805.html",
+     "sha256": "0784ac5ffcff175f4662bd3b45e3ed7101a70fefdec5a1ba6cbfcc79031b018e"
+    }
+   ]
+  },
+  {
+   "slug": "naredba-2003-826",
+   "path": "naredba/2003/826",
+   "short": "Naredba o izmjenama i dopunama Naredbe o visini i načinu plaćanja naknada za pokriće troškova tipnog ispitivanja mjerila, ovjeravanja mjerila, provjeru pakovina i ispitivanja osposobljenosti laborator",
+   "title": "Naredba o izmjenama i dopunama Naredbe o visini i načinu plaćanja naknada za pokriće troškova tipnog ispitivanja mjerila, ovjeravanja mjerila, provjeru pakovina i ispitivanja osposobljenosti laborator",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2003/70/826",
+   "versions": [
+    {
+     "from": "2003-05-03",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2003_04_70_826.html",
+     "sha256": "1af82a95fdb5848a6e9bd28b112f41d17a23b58af171778437e4d29859a8bb8d"
+    }
+   ]
+  },
+  {
+   "slug": "naredba-2003-876",
+   "path": "naredba/2003/876",
+   "short": "Naredba o zabrani uvoza u Republiku Hrvatsku i provoza preko područja Republike Hrvatske peradi i proizvoda od peradi podrijetlom iz Belgije",
+   "title": "Naredba o zabrani uvoza u Republiku Hrvatsku i provoza preko područja Republike Hrvatske peradi i proizvoda od peradi podrijetlom iz Belgije",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2003/73/876",
+   "versions": [
+    {
+     "from": "2003-05-06",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2003_05_73_876.html",
+     "sha256": "162a4a1c9d810429f85494d2467f57de9b4551c0a0bce24d38d3a18c625da2c3"
+    }
+   ]
+  },
+  {
+   "slug": "naredba-2003-88",
+   "path": "naredba/2003/88",
+   "short": "Naredba o izmjeni i dopuni Naredbe o načinu uplaćivanja prihoda proračuna, obveznih doprinosa te prihoda za financiranje drugih javnih potreba u 2003. godini",
+   "title": "Naredba o izmjeni i dopuni Naredbe o načinu uplaćivanja prihoda proračuna, obveznih doprinosa te prihoda za financiranje drugih javnih potreba u 2003. godini",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2003/7/88",
+   "versions": [
+    {
+     "from": "2003-01-14",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2003_01_7_88.html",
+     "sha256": "38d95a3bdc98771c520d28ec11a47012d81f27819b4ee5a38ba7dba856769c70"
+    }
+   ]
+  },
+  {
+   "slug": "naredba-2003-972",
+   "path": "naredba/2003/972",
+   "short": "Naredba o zabrani uvoza u Republiku Hrvatsku goveda, proizvoda od goveda, kao i krmiva animalnog podrijetla radi sprječavanja unošenja u Republiku Hrvatsku transmisivih spongiformnih encefalopatija",
+   "title": "Naredba o zabrani uvoza u Republiku Hrvatsku goveda, proizvoda od goveda, kao i krmiva animalnog podrijetla radi sprječavanja unošenja u Republiku Hrvatsku transmisivih spongiformnih encefalopatija",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2003/80/972",
+   "versions": [
+    {
+     "from": "2003-05-16",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2003_05_80_972.html",
+     "sha256": "519b76735a7865df0dc74015ce433cb1e4d9106205a08855b8ef036194463f49"
+    }
+   ]
+  },
+  {
    "slug": "naputak-2004-1089",
    "path": "naputak/2004/1089",
    "short": "Naputak u svezi dostave obvezne dokumentacije za upis u Upisnik poljoprivrednih gospodarstava",
@@ -4498,6 +8083,921 @@
      "units": 16,
      "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2004_07_100_1903.html",
      "sha256": "49340b57c940e72c99bee4c6226d41a3d4eb99d16100252d6edaee3351b5e0a3"
+    }
+   ]
+  },
+  {
+   "slug": "naredba-2004-1088",
+   "path": "naredba/2004/1088",
+   "short": "Naredba o zabrani uvoza u Republiku Hrvatsku i provoza preko područja Republike Hrvatske peradi i proizvoda od peradi radi sprječavanja unošenja influence ptica",
+   "title": "Naredba o zabrani uvoza u Republiku Hrvatsku i provoza preko područja Republike Hrvatske peradi i proizvoda od peradi radi sprječavanja unošenja influence ptica",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2004/46/1088",
+   "versions": [
+    {
+     "from": "2004-04-09",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2004_04_46_1088.html",
+     "sha256": "1035aa51c1e37638d414fae9d1041bed1d4f4d5f491784c9e331c6b6d36b8bfc"
+    }
+   ]
+  },
+  {
+   "slug": "naredba-2004-1116",
+   "path": "naredba/2004/1116",
+   "short": "Naredba o zabrani uvoza u Republiku Hrvatsku goveda, proizvoda od goveda, kao i krmiva animalnog podrijetla radi sprječavanja unošenja u Republiku Hrvatsku transmisivnih spongiformnih encefalopatija",
+   "title": "Naredba o zabrani uvoza u Republiku Hrvatsku goveda, proizvoda od goveda, kao i krmiva animalnog podrijetla radi sprječavanja unošenja u Republiku Hrvatsku transmisivnih spongiformnih encefalopatija",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2004/48/1116",
+   "versions": [
+    {
+     "from": "2004-04-14",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2004_04_48_1116.html",
+     "sha256": "4cf3b3a95255fb7e3b044a228d8aad2dcf979dd826e53b6bd690baeae2940ba1"
+    }
+   ]
+  },
+  {
+   "slug": "naredba-2004-1117",
+   "path": "naredba/2004/1117",
+   "short": "Naredba o izmjeni Naredbe o zabrani uvoza u Republiku Hrvatsku i provoza preko teritorija Republike Hrvatske domaćih i divljih svinja i njihovih proizvoda radi sprječavanja unošenja klasične svinjske kuge",
+   "title": "Naredba o izmjeni Naredbe o zabrani uvoza u Republiku Hrvatsku i provoza preko teritorija Republike Hrvatske domaćih i divljih svinja i njihovih proizvoda radi sprječavanja unošenja klasične svinjske kuge",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2004/48/1117",
+   "versions": [
+    {
+     "from": "2004-03-26",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2004_04_48_1117.html",
+     "sha256": "0c57d733e7019a8aaf8e6dc947317c633b9505b703efb8a1164e06e4d1789cd5"
+    }
+   ]
+  },
+  {
+   "slug": "naredba-2004-1130",
+   "path": "naredba/2004/1130",
+   "short": "Naredba o izmjeni i dopuni Naredbe o načinu uplaćivanja prihoda proračuna, obveznih doprinosa te prihoda za financiranje drugih javnih potreba u 2004. godini",
+   "title": "Naredba o izmjeni i dopuni Naredbe o načinu uplaćivanja prihoda proračuna, obveznih doprinosa te prihoda za financiranje drugih javnih potreba u 2004. godini",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2004/49/1130",
+   "versions": [
+    {
+     "from": "2004-04-16",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2004_04_49_1130.html",
+     "sha256": "7a930b8eaed02d2d2183f57805b749d13552a99545fc96395c086983fd0ed76c"
+    }
+   ]
+  },
+  {
+   "slug": "naredba-2004-1142",
+   "path": "naredba/2004/1142",
+   "short": "Naredba o zabrani uvoza u Republiku Hrvatsku i provoza preko područja Republike Hrvatske peradi i proizvoda od peradi radi sprječavanja unošenja influence ptica",
+   "title": "Naredba o zabrani uvoza u Republiku Hrvatsku i provoza preko područja Republike Hrvatske peradi i proizvoda od peradi radi sprječavanja unošenja influence ptica",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2004/50/1142",
+   "versions": [
+    {
+     "from": "2004-04-19",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2004_04_50_1142.html",
+     "sha256": "3075610cdd9ac2fec5677cb528043ed695fbca84da8e851d42af52547c7b6667"
+    }
+   ]
+  },
+  {
+   "slug": "naredba-2004-1188",
+   "path": "naredba/2004/1188",
+   "short": "Naredba o izmjenama i dopunama Naredbe o visini i načinu plaćanja naknada za pokriće troškova tipnog ispitivanja mjerila, ovjeravanja mjerila, provjeru pakovina i ispitivanja osposobljenosti laborator",
+   "title": "Naredba o izmjenama i dopunama Naredbe o visini i načinu plaćanja naknada za pokriće troškova tipnog ispitivanja mjerila, ovjeravanja mjerila, provjeru pakovina i ispitivanja osposobljenosti laborator",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2004/52/1188",
+   "versions": [
+    {
+     "from": "2004-04-23",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2004_04_52_1188.html",
+     "sha256": "c89e2064536268a4c076e4fc2277c488a395a0d38b7b064f4a2c40ceec473b4d"
+    }
+   ]
+  },
+  {
+   "slug": "naredba-2004-1344",
+   "path": "naredba/2004/1344",
+   "short": "Naredba o određivanju ulaznih graničnih prijelaza za pošiljke bilja i biljnih proizvoda za koje je obvezan zdravstveni pregled",
+   "title": "Naredba o određivanju ulaznih graničnih prijelaza za pošiljke bilja i biljnih proizvoda za koje je obvezan zdravstveni pregled",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2004/60/1344",
+   "versions": [
+    {
+     "from": "2004-05-20",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2004_05_60_1344.html",
+     "sha256": "59636bfdc18cec97004292f2b18abbbaded564612084dadf76710ae0b0fa2cc4"
+    }
+   ]
+  },
+  {
+   "slug": "naredba-2004-1366",
+   "path": "naredba/2004/1366",
+   "short": "Naredba o zabrani uvoza u Republiku Hrvatsku i provoza preko područja Republike Hrvatske živih kopitara podrijetlom iz Bosne i Hercegovine",
+   "title": "Naredba o zabrani uvoza u Republiku Hrvatsku i provoza preko područja Republike Hrvatske živih kopitara podrijetlom iz Bosne i Hercegovine",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2004/62/1366",
+   "versions": [
+    {
+     "from": "2004-05-17",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2004_05_62_1366.html",
+     "sha256": "93f37282a937949141554725d30a374bf23555067866913a8205527742ca9d3c"
+    }
+   ]
+  },
+  {
+   "slug": "naredba-2004-1415",
+   "path": "naredba/2004/1415",
+   "short": "Naredba o poduzimanju mjera obveznog uklanjanja ambrozije - Ambrosia artemisiifolia L.",
+   "title": "Naredba o poduzimanju mjera obveznog uklanjanja ambrozije - Ambrosia artemisiifolia L.",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2004/66/1415",
+   "versions": [
+    {
+     "from": "2004-05-24",
+     "units": 9,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2004_05_66_1415.html",
+     "sha256": "1cda69546837fc650f4c8c2045fa976293dfb65a8fbe4bd92665448c6781b94a"
+    }
+   ]
+  },
+  {
+   "slug": "naredba-2004-1416",
+   "path": "naredba/2004/1416",
+   "short": "Naredba o poduzimanju mjera u cilju suzbijanja i sprječavanja širenja sredozemne voćne muhe - Ceratitis capitata (Wiedemann)",
+   "title": "Naredba o poduzimanju mjera u cilju suzbijanja i sprječavanja širenja sredozemne voćne muhe - Ceratitis capitata (Wiedemann)",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2004/66/1416",
+   "versions": [
+    {
+     "from": "2004-05-24",
+     "units": 8,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2004_05_66_1416.html",
+     "sha256": "34e1e25ff4f5f2d5c536e3afa97b3bbbdc41514e0bc4b2368666a9d7b0ec5eb4"
+    }
+   ]
+  },
+  {
+   "slug": "naredba-2004-1417",
+   "path": "naredba/2004/1417",
+   "short": "Naredba o prestanku važenja Naredbe o poduzimanju mjera za sprječavanje širenja duhanovog štitastog moljca - Bemisia taboci (Gennadius)",
+   "title": "Naredba o prestanku važenja Naredbe o poduzimanju mjera za sprječavanje širenja duhanovog štitastog moljca - Bemisia taboci (Gennadius)",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2004/66/1417",
+   "versions": [
+    {
+     "from": "2004-05-24",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2004_05_66_1417.html",
+     "sha256": "68bb9ca0e273f118fc6b796cae458aafacb2c0d7b998378601b41a0b6fb04cab"
+    }
+   ]
+  },
+  {
+   "slug": "naredba-2004-1452",
+   "path": "naredba/2004/1452",
+   "short": "Naredba o načinu uplaćivanja naknada za koncesije na pomorskom dobru",
+   "title": "Naredba o načinu uplaćivanja naknada za koncesije na pomorskom dobru",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2004/68/1452",
+   "versions": [
+    {
+     "from": "2004-05-26",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2004_05_68_1452.html",
+     "sha256": "40138c661a21a57152a37f9fc1ee4115c63351e178246e731ae72e7ef35131f5"
+    }
+   ]
+  },
+  {
+   "slug": "naredba-2004-1458",
+   "path": "naredba/2004/1458",
+   "short": "Naredba o homologaciji glavnih svjetala za motorna vozila za asimetrični kratki svjetlosni snop i/ili dugi svjetlosni snop, sa žaruljama sa žarnom niti",
+   "title": "Naredba o homologaciji glavnih svjetala za motorna vozila za asimetrični kratki svjetlosni snop i/ili dugi svjetlosni snop, sa žaruljama sa žarnom niti",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2004/69/1458",
+   "versions": [
+    {
+     "from": "2004-06-04",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2004_05_69_1458.html",
+     "sha256": "bfa1d88a77a10d27cdd6fd834548fea98025a6ea687dcd8f8adad91245f6d18a"
+    }
+   ]
+  },
+  {
+   "slug": "naredba-2004-1586",
+   "path": "naredba/2004/1586",
+   "short": "Naredba o zabrani uvoza u Republiku Hrvatsku radi sprječavanja unošenja transmisivnih spongiformnih encefalopatija",
+   "title": "Naredba o zabrani uvoza u Republiku Hrvatsku radi sprječavanja unošenja transmisivnih spongiformnih encefalopatija",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2004/79/1586",
+   "versions": [
+    {
+     "from": "2004-06-14",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2004_06_79_1586.html",
+     "sha256": "dccd289099a102e301dffd4f908d45facde5b9852e16b5b49949578a3e19c805"
+    }
+   ]
+  },
+  {
+   "slug": "naredba-2004-1648",
+   "path": "naredba/2004/1648",
+   "short": "Naredba o izmjeni Naredbe o charter licenci, visini naknade za sigurnost plovidbe i charter naknadi koju plaćaju strane jahte i brodice namijenjene razonodi ili športu s ishođenom charter licencom",
+   "title": "Naredba o izmjeni Naredbe o charter licenci, visini naknade za sigurnost plovidbe i charter naknadi koju plaćaju strane jahte i brodice namijenjene razonodi ili športu s ishođenom charter licencom",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2004/86/1648",
+   "versions": [
+    {
+     "from": "2004-07-01",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2004_06_86_1648.html",
+     "sha256": "533814a87da5ee8d6f4c48f49af09a1c03043c95c14a57c5bc89ac1a86dff79a"
+    }
+   ]
+  },
+  {
+   "slug": "naredba-2004-1692",
+   "path": "naredba/2004/1692",
+   "short": "Naredba o visini naknade za boravak plovila u raspremi na unutarnjim vodama",
+   "title": "Naredba o visini naknade za boravak plovila u raspremi na unutarnjim vodama",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2004/90/1692",
+   "versions": [
+    {
+     "from": "2004-09-01",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2004_07_90_1692.html",
+     "sha256": "ca046f5512045d0ac2edd1919e28f4e2c692ae7ce76fe76868434b9047403c07"
+    }
+   ]
+  },
+  {
+   "slug": "naredba-2004-1755",
+   "path": "naredba/2004/1755",
+   "short": "Naredba o izmjenama i dopunama Naredbe o vremenu otvorenosti aerodroma za javni zračni promet",
+   "title": "Naredba o izmjenama i dopunama Naredbe o vremenu otvorenosti aerodroma za javni zračni promet",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2004/92/1755",
+   "versions": [
+    {
+     "from": "2004-07-07",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2004_07_92_1755.html",
+     "sha256": "ab6357f58575f17f6df60f146d662ff842fcea6346f81350e9b8c3ef7cf4b3c1"
+    }
+   ]
+  },
+  {
+   "slug": "naredba-2004-1825",
+   "path": "naredba/2004/1825",
+   "short": "Naredba o određivanju ulaznih graničnih prijelaza za pošiljke bilja i biljnih proizvoda za koje je obvezan zdravstveni pregled",
+   "title": "Naredba o određivanju ulaznih graničnih prijelaza za pošiljke bilja i biljnih proizvoda za koje je obvezan zdravstveni pregled",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2004/96/1825",
+   "versions": [
+    {
+     "from": "2004-07-14",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2004_07_96_1825.html",
+     "sha256": "b29854a9f07c459fb579094309bf45ae6573cb68bd25b9fdd387bdc75855a919"
+    }
+   ]
+  },
+  {
+   "slug": "naredba-2004-1826",
+   "path": "naredba/2004/1826",
+   "short": "Naredba o graničnim prijelazima za koje je postavljena veterinarska inspekcija",
+   "title": "Naredba o graničnim prijelazima za koje je postavljena veterinarska inspekcija",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2004/96/1826",
+   "versions": [
+    {
+     "from": "2004-07-22",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2004_07_96_1826.html",
+     "sha256": "8cc740ba87eee0c7bb3af2ee2842155611bbe3a729b5b46ac761070c4e301d6f"
+    }
+   ]
+  },
+  {
+   "slug": "naredba-2004-1827",
+   "path": "naredba/2004/1827",
+   "short": "Naredba o zabrani uvoza u Republiku Hrvatsku i provoza preko područja Republike Hrvatske domaćih i divljih svinja i njihovih proizvoda radi sprječavanja unošenja klasične svinjske kuge",
+   "title": "Naredba o zabrani uvoza u Republiku Hrvatsku i provoza preko područja Republike Hrvatske domaćih i divljih svinja i njihovih proizvoda radi sprječavanja unošenja klasične svinjske kuge",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2004/96/1827",
+   "versions": [
+    {
+     "from": "2004-07-07",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2004_07_96_1827.html",
+     "sha256": "e7a6ddfffd560cb75d1093e964d821ff9817587b95fdbde5a69f29ece30583af"
+    }
+   ]
+  },
+  {
+   "slug": "naredba-2004-1830",
+   "path": "naredba/2004/1830",
+   "short": "Naredba o mjerama sigurnosti i zaštite od nekontroliranog uvođenja u okoliš hibridnog kukuruza \"PR34G13\" koji sadrži genetski modificirani organizam",
+   "title": "Naredba o mjerama sigurnosti i zaštite od nekontroliranog uvođenja u okoliš hibridnog kukuruza \"PR34G13\" koji sadrži genetski modificirani organizam",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2004/97/1830",
+   "versions": [
+    {
+     "from": "2004-07-15",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2004_07_97_1830.html",
+     "sha256": "c1a1ed74252140326713ea0e6c4a198dcd398eb0146d5469815abe9dd16b9c45"
+    }
+   ]
+  },
+  {
+   "slug": "naredba-2004-2062",
+   "path": "naredba/2004/2062",
+   "short": "Naredba o zabrani uvoza u Republiku Hrvatsku i provoza preko područja Republike Hrvatske živih domaćih papkara (goveda, ovaca, koza i svinja) i divljih papkara, proizvoda od papkara kao i životinjske hrane i stelje radi sprječavanja unošenja u Republiku Hrvatsku zarazne bolesti slinavke i šapa",
+   "title": "Naredba o zabrani uvoza u Republiku Hrvatsku i provoza preko područja Republike Hrvatske živih domaćih papkara (goveda, ovaca, koza i svinja) i divljih papkara, proizvoda od papkara kao i životinjske hrane i stelje radi sprječavanja unošenja u Republiku Hrvatsku zarazne bolesti slinavke i šapa",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2004/106/2062",
+   "versions": [
+    {
+     "from": "2004-07-30",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2004_07_106_2062.html",
+     "sha256": "11904499e54cb6501b3c423f1daaf27bfae80fcbbd6c210748cf1351f8d8c0b6"
+    }
+   ]
+  },
+  {
+   "slug": "naredba-2004-2063",
+   "path": "naredba/2004/2063",
+   "short": "Naredba o izmjeni i dopuni Naredbe o načinu uplaćivanja prihoda proračuna, obveznih doprinosa te prihoda za financiranje drugih javnih potreba u 2004. godini",
+   "title": "Naredba o izmjeni i dopuni Naredbe o načinu uplaćivanja prihoda proračuna, obveznih doprinosa te prihoda za financiranje drugih javnih potreba u 2004. godini",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2004/106/2063",
+   "versions": [
+    {
+     "from": "2004-07-30",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2004_07_106_2063.html",
+     "sha256": "da823d24346fcf1bef6a28c02634ba236476f3c1c8546380f24a9fe9d09c3f23"
+    }
+   ]
+  },
+  {
+   "slug": "naredba-2004-2195",
+   "path": "naredba/2004/2195",
+   "short": "Naredba o zabrani uvoza u Republiku Hrvatsku i prolaza preko područja Republike Hrvatske domaćih i divljih svinja i njihovih proizvoda radi sprječavanja unošenja klasične svinjske kuge",
+   "title": "Naredba o zabrani uvoza u Republiku Hrvatsku i prolaza preko područja Republike Hrvatske domaćih i divljih svinja i njihovih proizvoda radi sprječavanja unošenja klasične svinjske kuge",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2004/116/2195",
+   "versions": [
+    {
+     "from": "2004-08-23",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2004_08_116_2195.html",
+     "sha256": "c951b847fb22be7eec5b7c2efd5b1874fb51cf6f70935fd609a90fa109dc41ed"
+    }
+   ]
+  },
+  {
+   "slug": "naredba-2004-2209",
+   "path": "naredba/2004/2209",
+   "short": "Naredba o zabrani uvoza u Republiku Hrvatsku i provoza preko područja Republike Hrvatske domaćih i divljih preživača i genetskog materijala podrijetlom od preživača radi sprječavanja unošenja u Republiku Hrvatsku bolesti plavog jezika",
+   "title": "Naredba o zabrani uvoza u Republiku Hrvatsku i provoza preko područja Republike Hrvatske domaćih i divljih preživača i genetskog materijala podrijetlom od preživača radi sprječavanja unošenja u Republiku Hrvatsku bolesti plavog jezika",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2004/118/2209",
+   "versions": [
+    {
+     "from": "2004-08-27",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2004_08_118_2209.html",
+     "sha256": "29090b5dc64311315177264fd482bcef6b0ce696a2fe1e6d6cfd82473effa577"
+    }
+   ]
+  },
+  {
+   "slug": "naredba-2004-2235",
+   "path": "naredba/2004/2235",
+   "short": "Naredba o izmjenama i dopunama Naredbe o vremenu otvorenosti aerodroma za javni zračni promet",
+   "title": "Naredba o izmjenama i dopunama Naredbe o vremenu otvorenosti aerodroma za javni zračni promet",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2004/121/2235",
+   "versions": [
+    {
+     "from": "2004-09-01",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2004_09_121_2235.html",
+     "sha256": "beebf02fc776bb3cebf8092c70457f0feff1254161385c7e93703099509457e1"
+    }
+   ]
+  },
+  {
+   "slug": "naredba-2004-2243",
+   "path": "naredba/2004/2243",
+   "short": "Naredba o zabrani uvoza u Republiku Hrvatsku živih životinja i proizvoda životinjskog podrijetla podrijetlom iz Kine",
+   "title": "Naredba o zabrani uvoza u Republiku Hrvatsku živih životinja i proizvoda životinjskog podrijetla podrijetlom iz Kine",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2004/123/2243",
+   "versions": [
+    {
+     "from": "2004-09-03",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2004_09_123_2243.html",
+     "sha256": "53c5001d19c1aa4254ee31193f9f236e8c0a282bb99b1822c99d550964e5d06f"
+    }
+   ]
+  },
+  {
+   "slug": "naredba-2004-226",
+   "path": "naredba/2004/226",
+   "short": "Naredba o zabrani uvoza u Republiku Hrvatsku živih životinja i proizvoda životinjskog podrijetla radi sprječavanja unošenja u Republiku Hrvatsku transmisivnih spongiformnih encefalopatija",
+   "title": "Naredba o zabrani uvoza u Republiku Hrvatsku živih životinja i proizvoda životinjskog podrijetla radi sprječavanja unošenja u Republiku Hrvatsku transmisivnih spongiformnih encefalopatija",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2004/7/226",
+   "versions": [
+    {
+     "from": "2004-01-19",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2004_01_7_226.html",
+     "sha256": "fc7b14c49a275847ad8ab537ce7e3a55b79ca66f3b404f400356c191b6f9ee79"
+    }
+   ]
+  },
+  {
+   "slug": "naredba-2004-2309",
+   "path": "naredba/2004/2309",
+   "short": "Naredba o proglašenju područja zaraženih karantenskom štetočinjom bilja - Erwinia amylovora (Burill) Winslow et al.",
+   "title": "Naredba o proglašenju područja zaraženih karantenskom štetočinjom bilja - Erwinia amylovora (Burill) Winslow et al.",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2004/129/2309",
+   "versions": [
+    {
+     "from": "2004-09-15",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2004_09_129_2309.html",
+     "sha256": "e7e84ec2812ce75a25eee1427609fffa485e920bce5bb2a195dd18c65ece0d6e"
+    }
+   ]
+  },
+  {
+   "slug": "naredba-2004-2317",
+   "path": "naredba/2004/2317",
+   "short": "Naredba o izmjenama Naredbe o mjerama zaštite životinja od zaraznih i nametničkih bolesti i njihovom financiranju u 2004. godini",
+   "title": "Naredba o izmjenama Naredbe o mjerama zaštite životinja od zaraznih i nametničkih bolesti i njihovom financiranju u 2004. godini",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2004/130/2317",
+   "versions": [
+    {
+     "from": "2004-09-20",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2004_09_130_2317.html",
+     "sha256": "7907e73892e45a998ec5fd5695a0a6667b0e9faffa53455d9f9652867e03e3d4"
+    }
+   ]
+  },
+  {
+   "slug": "naredba-2004-236",
+   "path": "naredba/2004/236",
+   "short": "Naredba o privremenoj zabrani lova divljači",
+   "title": "Naredba o privremenoj zabrani lova divljači",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2004/8/236",
+   "versions": [
+    {
+     "from": "2004-01-21",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2004_01_8_236.html",
+     "sha256": "c5d00ebff4926539481d236baf5e9b5f1e9a58394c9bb653728d3e4834de1f94"
+    }
+   ]
+  },
+  {
+   "slug": "naredba-2004-2468",
+   "path": "naredba/2004/2468",
+   "short": "Naredba o stavljanju izvan snage Naredbe o homologaciji pneumatskih guma za poljoprivredna vozila i njihove prikolice",
+   "title": "Naredba o stavljanju izvan snage Naredbe o homologaciji pneumatskih guma za poljoprivredna vozila i njihove prikolice",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2004/140/2468",
+   "versions": [
+    {
+     "from": "2004-10-11",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2004_10_140_2468.html",
+     "sha256": "8b32b84a4bfdd93e9dedf6ed2a974066dc921c655e2b361ebaa9335e1483f09c"
+    }
+   ]
+  },
+  {
+   "slug": "naredba-2004-2627",
+   "path": "naredba/2004/2627",
+   "short": "Naredba o zabrani uvoza u Republiku Hrvatsku živih životinja i proizvoda životinjskog podrijetla podrijetlom iz Kine",
+   "title": "Naredba o zabrani uvoza u Republiku Hrvatsku živih životinja i proizvoda životinjskog podrijetla podrijetlom iz Kine",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2004/151/2627",
+   "versions": [
+    {
+     "from": "2004-10-29",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2004_10_151_2627.html",
+     "sha256": "86bede0fde0c5150361725cdafe8d013fb27476acb7fbd418ee1ec8768819c48"
+    }
+   ]
+  },
+  {
+   "slug": "naredba-2004-2693",
+   "path": "naredba/2004/2693",
+   "short": "Naredba o vremenu otvorenosti aerodroma za javni zračni promet",
+   "title": "Naredba o vremenu otvorenosti aerodroma za javni zračni promet",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2004/154/2693",
+   "versions": [
+    {
+     "from": "2004-11-05",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2004_11_154_2693.html",
+     "sha256": "2fa5ccfb841d36aaaa309a7c135bbc86206239356a5d131df60727960690ad6f"
+    }
+   ]
+  },
+  {
+   "slug": "naredba-2004-2694",
+   "path": "naredba/2004/2694",
+   "short": "Naredba o ovjernim razdobljima za pojedina zakonita mjerila i načinu njihove primjene i o umjernim razdobljima za etalone koji se upotrebljavaju za ovjeravanje zakonitih mjerila",
+   "title": "Naredba o ovjernim razdobljima za pojedina zakonita mjerila i načinu njihove primjene i o umjernim razdobljima za etalone koji se upotrebljavaju za ovjeravanje zakonitih mjerila",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2004/154/2694",
+   "versions": [
+    {
+     "from": "2004-11-13",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2004_11_154_2694.html",
+     "sha256": "27795f7e6c75f9d48a1143b519c47e120476a0f7a8bf203cae4079d71e385e7c"
+    }
+   ]
+  },
+  {
+   "slug": "naredba-2004-2695",
+   "path": "naredba/2004/2695",
+   "short": "Naredba o izmjenama i dopunama Naredbe o vrsti, obliku i načinu postavljanja državnih ovjernih oznaka koje se rabe kod ovjeravanja zakonitih mjerila, te obliku i sadržaju ovjernice",
+   "title": "Naredba o izmjenama i dopunama Naredbe o vrsti, obliku i načinu postavljanja državnih ovjernih oznaka koje se rabe kod ovjeravanja zakonitih mjerila, te obliku i sadržaju ovjernice",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2004/154/2695",
+   "versions": [
+    {
+     "from": "2004-11-13",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2004_11_154_2695.html",
+     "sha256": "f87935d4a6c72a13aaa45a6104312195a86bd74ebbb8d9be257b95fb75f44c90"
+    }
+   ]
+  },
+  {
+   "slug": "naredba-2004-2718",
+   "path": "naredba/2004/2718",
+   "short": "Naredba o određivanju ulaznih graničnih prijelaza za pošiljke bilja i biljnih proizvoda za koje je obvezan zdravstveni pregled",
+   "title": "Naredba o određivanju ulaznih graničnih prijelaza za pošiljke bilja i biljnih proizvoda za koje je obvezan zdravstveni pregled",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2004/155/2718",
+   "versions": [
+    {
+     "from": "2004-11-08",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2004_11_155_2718.html",
+     "sha256": "f26db7fe262ec6dd55355685e0f1f37b50bf53033bfc018565cabe6076e1c4dc"
+    }
+   ]
+  },
+  {
+   "slug": "naredba-2004-2724",
+   "path": "naredba/2004/2724",
+   "short": "Naredba o razvrstaju luka otvorenih za javni promet na području Županije zadarsko-kninske",
+   "title": "Naredba o razvrstaju luka otvorenih za javni promet na području Županije zadarsko-kninske",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2004/156/2724",
+   "versions": [
+    {
+     "from": "2004-11-10",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2004_11_156_2724.html",
+     "sha256": "89d6b074093d95932ae0a6ba5c82a40e62cc7e8df3fe8b5f462b0ba0ef9082db"
+    }
+   ]
+  },
+  {
+   "slug": "naredba-2004-2725",
+   "path": "naredba/2004/2725",
+   "short": "Naredba o izmjenama Naredbe o ograničenju prometa na državnoj cesti D2 (Podravska magistrala)",
+   "title": "Naredba o izmjenama Naredbe o ograničenju prometa na državnoj cesti D2 (Podravska magistrala)",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2004/156/2725",
+   "versions": [
+    {
+     "from": "2004-11-10",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2004_11_156_2725.html",
+     "sha256": "c57031accaf2c71481794745e9c94b31e2637f755faafac4fa1ae02083ac76f6"
+    }
+   ]
+  },
+  {
+   "slug": "naredba-2004-2778",
+   "path": "naredba/2004/2778",
+   "short": "Naredba o izmjeni i dopuni Naredbe o načinu uplaćivanja prihoda proračuna, obveznih doprinosa te prihoda za financiranje drugih javnih potreba u 2004. godini",
+   "title": "Naredba o izmjeni i dopuni Naredbe o načinu uplaćivanja prihoda proračuna, obveznih doprinosa te prihoda za financiranje drugih javnih potreba u 2004. godini",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2004/159/2778",
+   "versions": [
+    {
+     "from": "2004-11-17",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2004_11_159_2778.html",
+     "sha256": "59e2f05c09787230690f09f1bc1e063ebc3911cf52e0aec1d02600590754250e"
+    }
+   ]
+  },
+  {
+   "slug": "naredba-2004-2785",
+   "path": "naredba/2004/2785",
+   "short": "Naredba o razvrstaju luka otvorenih za javni promet na području Županije šibensko-kninske",
+   "title": "Naredba o razvrstaju luka otvorenih za javni promet na području Županije šibensko-kninske",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2004/159/2785",
+   "versions": [
+    {
+     "from": "2004-11-17",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2004_11_159_2785.html",
+     "sha256": "533337ff4b65f39287cf7c2ef1b951420982e1437b111c29e26593568ba339e2"
+    }
+   ]
+  },
+  {
+   "slug": "naredba-2004-2826",
+   "path": "naredba/2004/2826",
+   "short": "Naredba o izmjenama i dopunama Naredbe o vremenu otvorenosti aerodroma za javni zračni promet",
+   "title": "Naredba o izmjenama i dopunama Naredbe o vremenu otvorenosti aerodroma za javni zračni promet",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2004/161/2826",
+   "versions": [
+    {
+     "from": "2004-11-19",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2004_11_161_2826.html",
+     "sha256": "91e5766516e3a81adaae00492d064a07ea7992aab000f765680dae8167388923"
+    }
+   ]
+  },
+  {
+   "slug": "naredba-2004-2939",
+   "path": "naredba/2004/2939",
+   "short": "Naredba o iznosima osnovica za obračun doprinosa za obvezna osiguranja za 2005. godinu",
+   "title": "Naredba o iznosima osnovica za obračun doprinosa za obvezna osiguranja za 2005. godinu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2004/167/2939",
+   "versions": [
+    {
+     "from": "2004-11-30",
+     "units": 25,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2004_11_167_2939.html",
+     "sha256": "29eb1adfdb5e13f924ed20f1b104bce84362cbd5904faf2147d6bc5b3b98258b"
+    }
+   ]
+  },
+  {
+   "slug": "naredba-2004-3112",
+   "path": "naredba/2004/3112",
+   "short": "Naredba o visini naknade za upotrebu pomorskog dobra koju plaćaju vlasnici brodica i jahti upisanih u očevidnik brodica odnosno upisnik jahti",
+   "title": "Naredba o visini naknade za upotrebu pomorskog dobra koju plaćaju vlasnici brodica i jahti upisanih u očevidnik brodica odnosno upisnik jahti",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2004/179/3112",
+   "versions": [
+    {
+     "from": "2004-12-17",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2004_12_179_3112.html",
+     "sha256": "7c552d05095010c9a9c4ea9d7b660142c766ba6f1d21b19fe021a52fc4102203"
+    }
+   ]
+  },
+  {
+   "slug": "naredba-2004-3114",
+   "path": "naredba/2004/3114",
+   "short": "Naredba o najvećem iznosu zakupnine za jedinice zakupa u zdravstvenim ustanovama primarne zdravstvene zaštite za 2005. godinu",
+   "title": "Naredba o najvećem iznosu zakupnine za jedinice zakupa u zdravstvenim ustanovama primarne zdravstvene zaštite za 2005. godinu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2004/179/3114",
+   "versions": [
+    {
+     "from": "2004-12-17",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2004_12_179_3114.html",
+     "sha256": "808d47e8ab028b7d6ace826c9b867cda81eb2bfe49486dcec0304d9e434d3e55"
+    }
+   ]
+  },
+  {
+   "slug": "naredba-2004-3146",
+   "path": "naredba/2004/3146",
+   "short": "Naredba o izmjenama i dopunama Naredbe o vremenu otvorenosti aerodroma za javni zračni promet",
+   "title": "Naredba o izmjenama i dopunama Naredbe o vremenu otvorenosti aerodroma za javni zračni promet",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2004/182/3146",
+   "versions": [
+    {
+     "from": "2004-12-22",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2004_12_182_3146.html",
+     "sha256": "8b7f72882eb73c84233a334a05830522649ba46482360b4332279383e44b0a08"
+    }
+   ]
+  },
+  {
+   "slug": "naredba-2004-3181",
+   "path": "naredba/2004/3181",
+   "short": "Naredba o homologaciji glavnih svjetala za motorna vozila za simetrični kratki svjetlosni snop i/ili drugi svjetlosni snop, sa žaruljama sa žarnom niti",
+   "title": "Naredba o homologaciji glavnih svjetala za motorna vozila za simetrični kratki svjetlosni snop i/ili drugi svjetlosni snop, sa žaruljama sa žarnom niti",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2004/184/3181",
+   "versions": [
+    {
+     "from": "2005-01-01",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2004_12_184_3181.html",
+     "sha256": "966cac37136b79988821864e7d762b67d3d0c161431c7ee77277ca07ecc5b8bc"
+    }
+   ]
+  },
+  {
+   "slug": "naredba-2004-3198",
+   "path": "naredba/2004/3198",
+   "short": "Naredba o načinu uplaćivanja prihoda proračuna, obveznih doprinosa te prihoda za financiranje drugih javnih potreba u 2005. godini",
+   "title": "Naredba o načinu uplaćivanja prihoda proračuna, obveznih doprinosa te prihoda za financiranje drugih javnih potreba u 2005. godini",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2004/186/3198",
+   "versions": [
+    {
+     "from": "2004-12-28",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2004_12_186_3198.html",
+     "sha256": "10eb6792fdeaab0ba39b13aceba52039004ba78db4d650c00d18bb0913679698"
+    }
+   ]
+  },
+  {
+   "slug": "naredba-2004-3244",
+   "path": "naredba/2004/3244",
+   "short": "Naredba o mjerama zaštite životinja od zaraznih i nametničkih bolesti i njihovom financiranju u 2005. godini",
+   "title": "Naredba o mjerama zaštite životinja od zaraznih i nametničkih bolesti i njihovom financiranju u 2005. godini",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2004/189/3244",
+   "versions": [
+    {
+     "from": "2004-12-31",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2004_12_189_3244.html",
+     "sha256": "a4faa4d3476188eec334a85b00085c132443befb60d3e9001f520d2351a16820"
+    }
+   ]
+  },
+  {
+   "slug": "naredba-2004-372",
+   "path": "naredba/2004/372",
+   "short": "Naredba o zabrani uvoza u Republiku Hrvatsku i provoza preko područja Republike Hrvatske peradi i proizvoda od peradi podrijetlom iz Tajlanda, Koreje, Vijetnama, Japana i Kine",
+   "title": "Naredba o zabrani uvoza u Republiku Hrvatsku i provoza preko područja Republike Hrvatske peradi i proizvoda od peradi podrijetlom iz Tajlanda, Koreje, Vijetnama, Japana i Kine",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2004/11/372",
+   "versions": [
+    {
+     "from": "2004-01-28",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2004_01_11_372.html",
+     "sha256": "e90d18388e32dbc3cc0faef57d063771f8f1dd2946b8c35eba930e8842d57c9a"
+    }
+   ]
+  },
+  {
+   "slug": "naredba-2004-373",
+   "path": "naredba/2004/373",
+   "short": "Naredba o zabrani uvoza u Republiku Hrvatsku i provoza preko područja Republike Hrvatske cibetki (porodica Viverridae)",
+   "title": "Naredba o zabrani uvoza u Republiku Hrvatsku i provoza preko područja Republike Hrvatske cibetki (porodica Viverridae)",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2004/11/373",
+   "versions": [
+    {
+     "from": "2004-01-23",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2004_01_11_373.html",
+     "sha256": "7be72a2b36a72098c6495ad826d6d341b3d0755b0006462261d39b34e5a7a1a6"
+    }
+   ]
+  },
+  {
+   "slug": "naredba-2004-374",
+   "path": "naredba/2004/374",
+   "short": "Naredba o zabrani uvoza u Republiku Hrvatsku i provoza preko područja Republike Hrvatske živih domaćih papkara (goveda, ovaca, koza i svinja) i divljih papkara,",
+   "title": "Naredba o zabrani uvoza u Republiku Hrvatsku i provoza preko područja Republike Hrvatske živih domaćih papkara (goveda, ovaca, koza i svinja) i divljih papkara,",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2004/11/374",
+   "versions": [
+    {
+     "from": "2004-01-28",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2004_01_11_374.html",
+     "sha256": "2aef44a3943af59a366861b982969f1feb8130e7af201ad2ca788ae39a821b59"
+    }
+   ]
+  },
+  {
+   "slug": "naredba-2004-479",
+   "path": "naredba/2004/479",
+   "short": "Naredba o zabrani uvoza u Republiku Hrvatsku i provoza preko područja Republike Hrvatske domaćih i divljih svinja i njihovih proizvoda radi sprječavanja unošenja klasične svinjske kuge",
+   "title": "Naredba o zabrani uvoza u Republiku Hrvatsku i provoza preko područja Republike Hrvatske domaćih i divljih svinja i njihovih proizvoda radi sprječavanja unošenja klasične svinjske kuge",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2004/16/479",
+   "versions": [
+    {
+     "from": "2004-01-30",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2004_02_16_479.html",
+     "sha256": "f4dfe6768e7f84ee3cd878d4ea47f6feae84bf6c822e14a44820fc242d307e96"
+    }
+   ]
+  },
+  {
+   "slug": "naredba-2004-548",
+   "path": "naredba/2004/548",
+   "short": "Naredba o zabrani uvoza u Republiku Hrvatsku i provoza preko područja Republike Hrvatske peradi i proizvoda od peradi radi sprječavanja unošenja influence ptica",
+   "title": "Naredba o zabrani uvoza u Republiku Hrvatsku i provoza preko područja Republike Hrvatske peradi i proizvoda od peradi radi sprječavanja unošenja influence ptica",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2004/20/548",
+   "versions": [
+    {
+     "from": "2004-02-16",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2004_02_20_548.html",
+     "sha256": "efa8102f17756b4b4fe9da312243af1f6b8cc83a0e387e492794f14f5fe35f4d"
+    }
+   ]
+  },
+  {
+   "slug": "naredba-2004-750",
+   "path": "naredba/2004/750",
+   "short": "Naredba o visini naknade za svjedodžbu o zdravstvenom stanju životinja",
+   "title": "Naredba o visini naknade za svjedodžbu o zdravstvenom stanju životinja",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2004/26/750",
+   "versions": [
+    {
+     "from": "2004-03-09",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2004_03_26_750.html",
+     "sha256": "04d3e491c929b46b01e85fe990f9d580c9203c74c1731df93971edd6a69006f6"
+    }
+   ]
+  },
+  {
+   "slug": "naredba-2004-780",
+   "path": "naredba/2004/780",
+   "short": "Naredba o zabrani uvoza u Republiku Hrvatsku i provoza preko područja Republike Hrvatske domaćih i divljih svinja i njihovih proizvoda radi sprječavanja unošenja u Republiku Hrvatsku klasične svinjske",
+   "title": "Naredba o zabrani uvoza u Republiku Hrvatsku i provoza preko područja Republike Hrvatske domaćih i divljih svinja i njihovih proizvoda radi sprječavanja unošenja u Republiku Hrvatsku klasične svinjske",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2004/27/780",
+   "versions": [
+    {
+     "from": "2004-03-03",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2004_03_27_780.html",
+     "sha256": "cfd48228411c590817d4409150b36724ea2f967908e1101583ee38f3b9c28d71"
+    }
+   ]
+  },
+  {
+   "slug": "naredba-2004-781",
+   "path": "naredba/2004/781",
+   "short": "Naredba o zabrani uvoza u Republiku Hrvatsku goveda, proizvoda od goveda, kao i krmiva animalnog podrijetla radi sprječavanja unošenja u Republiku Hrvatsku transmisivnih spongiformnih encefalopatija",
+   "title": "Naredba o zabrani uvoza u Republiku Hrvatsku goveda, proizvoda od goveda, kao i krmiva animalnog podrijetla radi sprječavanja unošenja u Republiku Hrvatsku transmisivnih spongiformnih encefalopatija",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2004/27/781",
+   "versions": [
+    {
+     "from": "2004-03-03",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2004_03_27_781.html",
+     "sha256": "7b90bfe0c8cab20bc29af5b870e9284c572e52842c2972ac49922281cbcf8b0f"
+    }
+   ]
+  },
+  {
+   "slug": "naredba-2004-799",
+   "path": "naredba/2004/799",
+   "short": "Naredba o zabrani uvoza u Republiku Hrvatsku i provoza preko područja Republike Hrvatske peradi i proizvoda od peradi, radi sprječavanja unošenja influence ptica",
+   "title": "Naredba o zabrani uvoza u Republiku Hrvatsku i provoza preko područja Republike Hrvatske peradi i proizvoda od peradi, radi sprječavanja unošenja influence ptica",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2004/28/799",
+   "versions": [
+    {
+     "from": "2004-03-05",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2004_03_28_799.html",
+     "sha256": "75b2a7065c4f5f9d9fed2294554c04bd04006dc3ac07b122c329f135a36fc2f8"
+    }
+   ]
+  },
+  {
+   "slug": "naredba-2004-948",
+   "path": "naredba/2004/948",
+   "short": "Naredba o zabrani uvoza u Republiku Hrvatsku i provoza preko teritorija Republike Hrvatske domaćih i divljih svinja i njihovih proizvoda radi sprječavanja unošenja klasične svinjske kuge",
+   "title": "Naredba o zabrani uvoza u Republiku Hrvatsku i provoza preko teritorija Republike Hrvatske domaćih i divljih svinja i njihovih proizvoda radi sprječavanja unošenja klasične svinjske kuge",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2004/38/948",
+   "versions": [
+    {
+     "from": "2004-03-16",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2004_03_38_948.html",
+     "sha256": "d2d0095906dfa5d5b3f3123cea85a38e1329dd0698f2a7cec6a749ff007bebf9"
+    }
+   ]
+  },
+  {
+   "slug": "naredba-2004-984",
+   "path": "naredba/2004/984",
+   "short": "Naredba o vremenu otvorenosti aerodroma za javni zračni promet",
+   "title": "Naredba o vremenu otvorenosti aerodroma za javni zračni promet",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2004/41/984",
+   "versions": [
+    {
+     "from": "2004-03-31",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2004_03_41_984.html",
+     "sha256": "95cbd50f828920da81216dc35cbbd218524a4fa978261c2a3e4efebf52f0269c"
+    }
+   ]
+  },
+  {
+   "slug": "naredba-2004-994",
+   "path": "naredba/2004/994",
+   "short": "Naredba o izmjenama i dopunama Naredbe o mjerama zaštite životinja od zaraznih i nametničkih bolesti i njihovom financiranju u 2004. godini",
+   "title": "Naredba o izmjenama i dopunama Naredbe o mjerama zaštite životinja od zaraznih i nametničkih bolesti i njihovom financiranju u 2004. godini",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2004/42/994",
+   "versions": [
+    {
+     "from": "2004-04-02",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2004_04_42_994.html",
+     "sha256": "48fc41e906f5a697ca597413ba888fc2eac25067f6671c6f053099d14a6e627a"
     }
    ]
   },
