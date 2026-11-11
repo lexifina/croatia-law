@@ -1,6 +1,6 @@
 # Every act in this repository
 
-34198 acts, 34,624 versions. Each act lives in a folder named by its kind, year and identifier, `<kind>/<year>/<identifier>/` (acts published before that layout keep their own folder, listed in data/paths.json); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+34498 acts, 34,924 versions. Each act lives in a folder named by its kind, year and identifier, `<kind>/<year>/<identifier>/` (acts published before that layout keep their own folder, listed in data/paths.json); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## izbori (129)
 
@@ -27440,7 +27440,7 @@
 | Uputa o provedbi Odluke o obveznoj pričuvi | [`uputa/2014/2424/`](uputa/2014/2424/) | repealed, not consolidated | 1 | 2014-11-12 | 2014-11-12 |
 | Uputa za provedbu Odluke o obveznoj pričuvi | [`uputa/2015/2618/`](uputa/2015/2618/) | repealed, not consolidated | 1 | 2016-01-13 | 2016-01-13 |
 
-## uredba (3837, of which 772 amending acts)
+## uredba (3881, of which 778 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -27549,10 +27549,13 @@
 | Uredba o načinu održavanja likvidnosti u plaćanjima prema inozemstvu | [`uredba/1991/1850/`](uredba/1991/1850/) | repealed, not consolidated | 1 | 1991-12-23 | 1991-12-23 |
 | Uredba o osnivanju i radu Komisije za traženje osoba nestalih u ratnim djelovanjima u Republici Hrvatskoj | [`uredba/1991/1857/`](uredba/1991/1857/) | in force | 1 | 1991-12-24 | 1991-12-24 |
 | Uredba o primjeni Zakona o krivičnom postupku u slučaju ratnog stanja ili neposredne ugroženosti neovisnosti i jedinstvenosti Republike Hrvatske | [`uredba/1991/1897/`](uredba/1991/1897/) | amended, not consolidated | 1 | 1991-12-31 | 1991-12-31 |
+| Uredba o prestanku važenja Odluke o načinu i uvjetima korištenja primarne emisije i osiguranju likvidnosti banaka | [`uredba/1992/4/`](uredba/1992/4/) | in force | 1 | 1992-01-14 | 1992-01-14 |
 | Uredba o iskazivanju i procjenjivanju protupravno oduzetih sredstava u drugim republikama i pokrajinama bivše SFR Jugoslavije. | [`uredba/1992/20/`](uredba/1992/20/) | in force | 1 | 1992-01-15 | 1992-01-15 |
 | Uredba o iskazivanju sredstava, potraživanja, obveza i šteta u ratnim uvjetima | [`uredba/1992/21/`](uredba/1992/21/) | in force | 1 | 1992-01-15 | 1992-01-15 |
 | Uredba o osnivanju Brodarskog instituta | [`uredba/1992/22/`](uredba/1992/22/) | in force | 1 | 1992-01-15 | 1992-01-15 |
 | Uredba o dopuni Uredbe o administrativnim taksama | [`uredba/1992/23/`](uredba/1992/23/) | amending act | 1 | 1992-01-15 | 1992-01-15 |
+| Uredba o osnivanju Poduzeća "Plovput" Split | [`uredba/1992/40/`](uredba/1992/40/) | cited later, not consolidated | 1 | 1992-01-22 | 1992-01-22 |
+| Uredba o korištenju doplatnih poštanskih maraka u poštanskom prometu kao redovnih poštanskih maraka | [`uredba/1992/41/`](uredba/1992/41/) | amended, not consolidated | 1 | 1992-01-22 | 1992-01-22 |
 | Uredba o izmjeni Uredbe o pretvaranju deviznih depozita gradana kod banaka u javni dug Republike Hrvatske | [`uredba/1992/42/`](uredba/1992/42/) | in force | 1 | 1992-01-22 | 1992-01-22 |
 | Uredba o izmjeni Uredbe o Javnom poduzeću "Brijuni" | [`uredba/1992/43/`](uredba/1992/43/) | in force | 1 | 1992-01-22 | 1992-01-22 |
 | Uredba o izmjenama i dopunama Uredbe o zabrani raspolaganja i prijenosa sredstava određenih pravnih osoba na teritoriju Republike Hrvatske | [`uredba/1992/74/`](uredba/1992/74/) | amending act | 1 | 1992-02-05 | 1992-02-05 |
@@ -27561,25 +27564,43 @@
 | Uredba o dopuni Uredbe o davanju posebnih kredita individualnim poljoprivrednim proizvođačima | [`uredba/1992/77/`](uredba/1992/77/) | amending act | 1 | 1992-02-05 | 1992-02-05 |
 | Uredba o dopuni Uredbe o izdavanju obveznica Republike Hrvatske | [`uredba/1992/78/`](uredba/1992/78/) | amending act | 1 | 1992-02-05 | 1992-02-05 |
 | Uredba o obveznom prebijanju obveza i potraživanja pravnih osoba u Republici Hrvatskoj s pravnimosobama u Republici Makedoniji | [`uredba/1992/93/`](uredba/1992/93/) | in force | 1 | 1992-02-07 | 1992-02-07 |
+| Uredba o privremenom reguliranju uvoza rabljenih gospodarskih vozila | [`uredba/1992/94/`](uredba/1992/94/) | repealed, not consolidated | 1 | 1992-02-07 | 1992-02-07 |
+| Uredba o dodjeljivanju stalnih novčanih nadoknada | [`uredba/1992/95/`](uredba/1992/95/) | replaced, not consolidated | 1 | 1992-02-07 | 1992-02-07 |
+| Uredba o dopunama Uredbe o načinu održavanja likvidnosti u plaćanjima prema inozemstvu | [`uredba/1992/96/`](uredba/1992/96/) | amended, not consolidated | 1 | 1992-02-07 | 1992-02-07 |
+| Uredba o izmjenama i dopunama Zakona o prodaji stanova na kojima postoji stanarsko pravo | [`uredba/1992/97/`](uredba/1992/97/) | amended, not consolidated | 1 | 1992-02-15 | 1992-02-15 |
 | Uredba o izmjenama i dopunama Uredbe o načinu utvrđivanja cijene stana | [`uredba/1992/98/`](uredba/1992/98/) | amending act | 1 | 1992-02-07 | 1992-02-07 |
 | Uredba o obveznom prebijanju obveza i potraživanja pravnih osoba u Republici Hrvatskoj s pravnim osobama u Socijalističkoj Republici Bosni i Hercegovini | [`uredba/1992/133/`](uredba/1992/133/) | in force | 1 | 1992-02-14 | 1992-02-14 |
 | Uredba o produžetku mandata delegatima u radničkom savjetu | [`uredba/1992/134/`](uredba/1992/134/) | in force | 1 | 1992-02-14 | 1992-02-14 |
 | Uredba o izmjenama i dopunama Zakona o prodaji stanova na kojima postoji stanarsko pravo | [`uredba/1992/135/`](uredba/1992/135/) | amended, not consolidated | 1 | 1992-02-14 | 1992-02-14 |
+| Uredba o Uredu za suradnju i prihvaćanje mirovnih snaga UN u Republici Hrvatskoj | [`uredba/1992/197/`](uredba/1992/197/) | amended, not consolidated | 1 | 1992-02-29 | 1992-02-29 |
 | Uredba o uvjetima i rokovima sastavljanja i dostavljanja godišnjeg obračuna za neke pravne osobe | [`uredba/1992/210/`](uredba/1992/210/) | in force | 1 | 1992-02-28 | 1992-02-28 |
 | Uredba o uvjetima i načinu otvaranja računa kod nosilaca platnog prometa | [`uredba/1992/237/`](uredba/1992/237/) | in force | 1 | 1992-03-03 | 1992-03-03 |
+| Uredba o porezu na promet proizvoda i usluga | [`uredba/1992/254/`](uredba/1992/254/) | repealed, not consolidated | 1 | 1992-03-06 | 1992-03-06 |
+| Uredba o osnivanju Lutrije Hrvatske d. o. o. | [`uredba/1992/255/`](uredba/1992/255/) | amended, not consolidated | 1 | 1992-03-06 | 1992-03-06 |
 | Uredba o izdavanju obveznica za obnovu Republike Hrvatske | [`uredba/1992/256/`](uredba/1992/256/) | in force | 1 | 1992-03-06 | 1992-03-06 |
+| Uredba o izmjeni i dopuni Uredbe o pretvaranju deviznih depozita građana kod banaka u javni dug Republike Hrvatske | [`uredba/1992/257/`](uredba/1992/257/) | amending act | 1 | 1992-03-06 | 1992-03-06 |
+| Uredba o poslovima kontrole letenja koji se obavljaju po nalogu Ministarstva obrane | [`uredba/1992/276/`](uredba/1992/276/) | repealed, not consolidated | 1 | 1992-03-13 | 1992-03-13 |
+| Uredba o izmjenama i dopunama Uredbe o administrativnim taksama | [`uredba/1992/303/`](uredba/1992/303/) | amending act | 1 | 1992-03-20 | 1992-03-20 |
 | Uredba o preuzimanju sredstava Agencije Federacije za osiguranje depozita i sanaciju banaka | [`uredba/1992/322/`](uredba/1992/322/) | in force | 1 | 1992-03-25 | 1992-03-25 |
 | Uredba o stavljanju izvan snage uredaba iz oblasti unutarnjih poslova za vrijeme ratnog stanja ili neposredne ugroženosti neovisnosti i jedinstvenosti Republike Hrvatske | [`uredba/1992/448/`](uredba/1992/448/) | in force | 1 | 1992-04-02 | 1992-04-02 |
 | Uredba o izmjenama Uredbe o Uredu za suradnju i prihvaćanje mirovnih snaga UN u Republici Hrvatskoj | [`uredba/1992/449/`](uredba/1992/449/) | in force | 1 | 1992-04-02 | 1992-04-02 |
 | Uredba o uvjetima uz koje ovlaštene banke mogu prodavati devize domaćim fizičkim osobama | [`uredba/1992/573/`](uredba/1992/573/) | in force | 1 | 1992-04-25 | 1992-04-25 |
+| Uredba o uvjetima i načinu održavanja likvidnosti u plaćanjima prema inozemstvu | [`uredba/1992/574/`](uredba/1992/574/) | amended, not consolidated | 1 | 1992-04-25 | 1992-04-25 |
 | Uredba o stavljanju izvan snage uredaba iz oblasti pravosuđa za vrijeme ratnog stanja ili neposredne ugroženosti neovisnosti i jedinstvenosti Republike Hrvatske | [`uredba/1992/586/`](uredba/1992/586/) | in force | 1 | 1992-04-29 | 1992-04-29 |
 | Uredba o izmjenama i dopunama Uredbe o primjeni Zakona o krivičnom postupku u slučaju ratnog stanja ili neposredne ugroženosti neovisnosti i jedinstvenosti Republike Hrvatske | [`uredba/1992/587/`](uredba/1992/587/) | amending act | 1 | 1992-04-29 | 1992-04-29 |
 | Uredba o izmjenama i dopunama Uredbe o organizaciji, radu i djelokrugu sudbene vlsti u slučaju ratnog stanja ili neposredne ugroženosti neovisnosti i jedinstvenosti Republike Hrvatske. | [`uredba/1992/588/`](uredba/1992/588/) | amending act | 1 | 1992-04-29 | 1992-04-29 |
+| Uredba o izvozu i uvozu robe od strane fizičkih osoba | [`uredba/1992/615/`](uredba/1992/615/) | repealed, not consolidated | 1 | 1992-05-05 | 1992-05-05 |
 | Uredba o kontinuiranom prijeboju obveza i potraživanja pravnih osoba | [`uredba/1992/616/`](uredba/1992/616/) | in force | 1 | 1992-05-05 | 1992-05-05 |
+| Uredba o neprimjenjivanju Zakona o privremenim mjerama o izmjenama i dopunama Zakona o vanjskotrgovinskom poslovanju | [`uredba/1992/617/`](uredba/1992/617/) | amending act | 1 | 1992-05-05 | 1992-05-05 |
 | Uredba o prestanku važenja Uredbe o privremenom reguliranju uvoza rabljenih gospodarskih vozila | [`uredba/1992/618/`](uredba/1992/618/) | in force | 1 | 1992-05-05 | 1992-05-05 |
+| Uredba o dolasku i boravku stranih jahti i čamaca namijenjenih razonodi ili športu u obalnom moru, rijekama i jezerima Republike Hrvatske | [`uredba/1992/752/`](uredba/1992/752/) | repealed, not consolidated | 1 | 1992-06-09 | 1992-06-09 |
 | Uredba o provođenju Rezolucije broj 757 (1992) Vijeća sigurnosti Ujedinjenih naroda | [`uredba/1992/780/`](uredba/1992/780/) | in force | 1 | 1992-06-03 | 1992-06-03 |
 | Uredba o izmjenama i dopunama Uredbe o uvjetima i naćinu održavanja likvidnosti u plaćanjima prema inozemstvu | [`uredba/1992/781/`](uredba/1992/781/) | amending act | 1 | 1992-06-03 | 1992-06-03 |
+| Uredba o stavljanju izvan snage Uredbe o odličjima za ratne zasluge | [`uredba/1992/834/`](uredba/1992/834/) | in force | 1 | 1992-06-12 | 1992-06-12 |
+| Uredba o načinu utvrđivanja cijene stana i garaže | [`uredba/1992/923/`](uredba/1992/923/) | amended, not consolidated | 1 | 1992-06-19 | 1992-06-19 |
 | Uredba o naknadama koje se priznaju u materijalne troškove korisnicima kojima se sredstva za rad osiguravaju u državnom proračunu | [`uredba/1992/939/`](uredba/1992/939/) | in force | 1 | 1992-06-23 | 1992-06-23 |
+| Uredba o načinu uvoza i izvoza određene robe | [`uredba/1992/953/`](uredba/1992/953/) | repealed, not consolidated | 1 | 1992-06-24 | 1992-06-24 |
+| Uredba o dopunama Uredbe o uvjetima i načinu održavanja likvidnosti u plaćanjima prema inozemstvu | [`uredba/1992/954/`](uredba/1992/954/) | amended, not consolidated | 1 | 1992-06-24 | 1992-06-24 |
 | Uredba o izmjenama i dopunama Uredbe o privremenom izvozu i uvozu robe | [`uredba/1992/955/`](uredba/1992/955/) | amending act | 1 | 1992-06-24 | 1992-06-24 |
 | Uredba o izmjenama i dopunama Zakona o neposrednim porezima | [`uredba/1992/1014/`](uredba/1992/1014/) | amending act | 1 | 1992-06-26 | 1992-06-26 |
 | Uredba o izmjenama i dopunama Zakona o porezu na promet proizvoda i usluga | [`uredba/1992/1015/`](uredba/1992/1015/) | amended, not consolidated | 1 | 1992-06-26 | 1992-06-26 |
@@ -27635,18 +27656,40 @@
 | Uredba o posebnim mjerama za ostvarivanje carinskog nadzora usvezi s prikupljanjem, preuzimanjem i čuvanjem motornih i drugih vozilate plovnih objekata i njihovih dijelova, pod carinskim nadzorom, te načinunjihove prodaje i rasporedu sredstava dobivenih njihovom prodajom | [`uredba/1992/1653/`](uredba/1992/1653/) | in force | 1 | 1992-10-11 | 1992-10-11 |
 | Uredba o uvjetima i postupku propisivanja i plačanja dopunske carine | [`uredba/1992/1657/`](uredba/1992/1657/) | amending act | 1 | 1992-10-11 | 1992-10-11 |
 | Uredba o izmjeni Zakona o putnim ispravama hrvatskih državljana | [`uredba/1992/1701/`](uredba/1992/1701/) | in force | 1 | 1992-10-09 | 1992-10-09 |
+| Uredba o izmjenama i dopunama Zakona o porezu na promet proizvoda i usluga | [`uredba/1992/1720/`](uredba/1992/1720/) | amended, not consolidated | 1 | 1992-10-10 | 1992-10-10 |
+| Uredba o državnim taksama na zgrade za odmor, odmarališta, cestovna motorna vozila i plovne objekte | [`uredba/1992/1721/`](uredba/1992/1721/) | amended, not consolidated | 1 | 1992-10-10 | 1992-10-10 |
+| Uredba o izvozu i uvozu robe od strane fizičkih osoba | [`uredba/1992/1722/`](uredba/1992/1722/) | amended, not consolidated | 1 | 1992-10-10 | 1992-10-10 |
+| Uredba o izmjeni Zakona o slobodnim zonama | [`uredba/1992/1723/`](uredba/1992/1723/) | in force | 1 | 1992-10-10 | 1992-10-10 |
 | Uredba o neprimjenjivanju Zakona o privremenim mjerama o iztnjenama i dopunama Zakona o vanjskotrgovinskom poslovanju | [`uredba/1992/1724/`](uredba/1992/1724/) | amending act | 1 | 1992-10-10 | 1992-10-10 |
 | Uredba o izmjeni Uredbe o namjenskim sredstvima za pokriće gubitaka Hrvatske elektroprivrede | [`uredba/1992/1725/`](uredba/1992/1725/) | in force | 1 | 1992-10-10 | 1992-10-10 |
+| Uredba o Uredu za upravljanje imovinom Republike Hrvatske | [`uredba/1992/1860/`](uredba/1992/1860/) | repealed, not consolidated | 1 | 1992-10-26 | 1992-10-26 |
+| Uredba o Agenciji za obnovu | [`uredba/1992/1861/`](uredba/1992/1861/) | cited later, not consolidated | 1 | 1992-10-26 | 1992-10-26 |
 | Uredba o dopuni Uredbe o područjima na kojima će se koristiti sredstva ostvarena prema Zakonu o financiranju obnove te o područjima na kojima će se primjenjivati poticajne mjere | [`uredba/1992/1862/`](uredba/1992/1862/) | amending act | 1 | 1992-10-26 | 1992-10-26 |
 | Uredba o davanju posebnih kredita seljacima | [`uredba/1992/1863/`](uredba/1992/1863/) | in force | 1 | 1992-10-26 | 1992-10-26 |
 | Uredba o odorama pripadnika pravosudne policije kazneno-popravnih ustanova i domova za preodgoj | [`uredba/1992/1865/`](uredba/1992/1865/) | in force | 1 | 1992-11-03 | 1992-11-03 |
+| Uredba o statusu prognanika i izbjeglica | [`uredba/1992/1887/`](uredba/1992/1887/) | cited later, not consolidated | 1 | 1992-10-28 | 1992-10-28 |
+| Uredba o plaćama | [`uredba/1992/1888/`](uredba/1992/1888/) | replaced, not consolidated | 1 | 1992-10-28 | 1992-10-28 |
+| Uredba o korištenju sredstava za subvencioniranje stanarine i podstanarine | [`uredba/1992/1889/`](uredba/1992/1889/) | repealed, not consolidated | 1 | 1992-10-28 | 1992-10-28 |
 | Uredba o dodjeljivanju stalnih novčanih nadoknada | [`uredba/1992/1890/`](uredba/1992/1890/) | in force | 1 | 1992-10-28 | 1992-10-28 |
+| Uredba o pretvaranju deviznih depozita građana u javni dug Republike Hrvatske | [`uredba/1992/1891/`](uredba/1992/1891/) | replaced, not consolidated | 1 | 1992-10-28 | 1992-10-28 |
+| Uredba o upravljanju nacionalnim parkovima | [`uredba/1992/1892/`](uredba/1992/1892/) | amended, not consolidated | 1 | 1992-10-28 | 1992-10-28 |
 | Uredba o osnivanju poduzeća "lmostroj Imotski" | [`uredba/1992/1893/`](uredba/1992/1893/) | in force | 1 | 1992-10-28 | 1992-10-28 |
 | Uredba o izmjenama Zakona o preuzimanju saveznog zakona iz oblasti mirovinskog i invalidskog osiguranja vojnih osiguranika koji se u Republici Hrvatskoj primjenjuje kao republički zakon | [`uredba/1992/1894/`](uredba/1992/1894/) | in force | 1 | 1992-10-28 | 1992-10-28 |
 | Uredba o izmjenama Uredbe o ostvarivanju prava iz mirovinskog i invalidskog osiguranja osoba kojima je prestalo svojstvo aktivne vojne osobe u bivšoj JNA do 31. prosinca 1991. | [`uredba/1992/1895/`](uredba/1992/1895/) | in force | 1 | 1992-10-28 | 1992-10-28 |
+| Uredba o izmjeni i dopuni Uredbe o Uredu za prognanike i izbjeglice | [`uredba/1992/1896/`](uredba/1992/1896/) | amending act | 1 | 1992-10-28 | 1992-10-28 |
 | Uredba o odredivanju ratom ugroženih područja | [`uredba/1992/1919/`](uredba/1992/1919/) | in force | 1 | 1992-10-30 | 1992-10-30 |
+| Uredba o prestanku važenja Uredbe o plaćama | [`uredba/1992/1995/`](uredba/1992/1995/) | in force | 1 | 1992-11-09 | 1992-11-09 |
+| Uredba o stavljanju u prekid prekršajnog postupka u predmetima po propisima o deviznom poslovanju koje je preuzela Republika Hrvatska | [`uredba/1992/2025/`](uredba/1992/2025/) | cited later, not consolidated | 1 | 1992-11-13 | 1992-11-13 |
 | Uredba o izmjeni i dopuni Uredbe o prostornom uređenju u ratom zahvaćenini područjima Republike Hrvatske | [`uredba/1992/2026/`](uredba/1992/2026/) | amending act | 1 | 1992-11-21 | 1992-11-21 |
+| Uredba o posebnim uvjetima za obavljanje poslova međunarodnog otpremništva u svezi carinjenja robe | [`uredba/1992/2062/`](uredba/1992/2062/) | amended, not consolidated | 1 | 1992-11-26 | 1992-11-26 |
+| Uredba o prometu i oporezivanju duhanskih prerađevina | [`uredba/1992/2063/`](uredba/1992/2063/) | amended, not consolidated | 1 | 1992-11-26 | 1992-11-26 |
+| Uredba o stavljanju izvan snage određenih odredbi Uredbe o radnim odnosima, zapošljavanju, socijalnoj skrbi, mirovinskom i invalidskom osiguranju, dječjem doplatku i zaštiti žrtava u slučaju ratnog st | [`uredba/1992/2091/`](uredba/1992/2091/) | in force | 1 | 1992-11-27 | 1992-11-27 |
+| Uredba o izmjeni i dopuni Uredbe o organizaciji, radu i djelokrugu sudbene vlasti u slučaju ratnog stanja ili neposredne ugroženosti neovisnosti i jedinstvenosti Republike Hrvatske | [`uredba/1992/2107/`](uredba/1992/2107/) | amending act | 1 | 1992-11-30 | 1992-11-30 |
+| Uredba o načinu likvidacije poslovanja glavnih filijala Jugobanke d. d: Beograd koje su poslovale na teritoriju Republike Hrvatske | [`uredba/1992/2184/`](uredba/1992/2184/) | cited later, not consolidated | 1 | 1992-12-04 | 1992-12-04 |
 | Uredba o stavljanju izvan snage dijela Uredbe o zdravstvenoj zaštiti i zdravstvenom osiguranju u slučaju ratnog stanja ili neposredne ugroženosti neovisnosti i jedinstvenosti Republike hrvatske | [`uredba/1992/2211/`](uredba/1992/2211/) | in force | 1 | 1992-12-12 | 1992-12-12 |
+| Uredba o načinu i uvjetima podmirivanja obveza po kreditima međunarodnih financijskih organizacija odobrenim korisnicima iz Republike Hrvatske | [`uredba/1992/2221/`](uredba/1992/2221/) | amended, not consolidated | 1 | 1992-12-12 | 1992-12-12 |
+| Uredba o izmjenama i dopunama Zakona o igrama na sreću i zabavnim igrama | [`uredba/1992/2222/`](uredba/1992/2222/) | amending act | 1 | 1992-12-12 | 1992-12-12 |
+| Uredba o izmjeni Zakona o pripadnosti javnih prihoda Republici Hrvatskoj i jedinicama lokalne samouprave i stopama republičkih poreza | [`uredba/1992/2233/`](uredba/1992/2233/) | in force | 1 | 1992-12-18 | 1992-12-18 |
 | Uredba o izmjeni Uredbe o prometu i oporezivanju duhanskih prerađevina | [`uredba/1992/2234/`](uredba/1992/2234/) | in force | 1 | 1992-12-18 | 1992-12-18 |
 | Odluka o izmjeni Zakona o prestanku važenja Zakona o izdvajanju i raspoređivanju sredstava za zadovoljavanje stambenih potreba | [`uredba/1993/60/`](uredba/1993/60/) | in force | 1 | 1993-01-18 | 1993-01-18 |
 | Uredba o izmjenama Uredbe o područjima na kojima će se koristiti sredstva ostvarena prema Zakonu o financiranju obnove, te o područjima na kojima će se primjenjivati poticajne mjere | [`uredba/1993/61/`](uredba/1993/61/) | in force | 1 | 1993-01-18 | 1993-01-18 |
@@ -31281,6 +31324,268 @@
 | Uredba o izmjeni Uredbe o visini trošarine na energente i električnu energiju | [`uredba/2026/1416/`](uredba/2026/1416/) | amended, not consolidated | 1 | 2026-10-20 | 2026-10-20 |
 | Uredba o izmjeni Uredbe o visini trošarine na energente i električnu energiju | [`uredba/2026/1458/`](uredba/2026/1458/) | in force | 1 | 2026-10-27 | 2026-10-27 |
 | Uredba o izmjeni Uredbe o visini trošarine na energente i električnu energiju | [`uredba/2026/1488/`](uredba/2026/1488/) | in force | 1 | 2026-11-03 | 2026-11-03 |
+| Uredba o izmjeni Uredbe o visini trošarine na energente i električnu energiju | [`uredba/2026/1529/`](uredba/2026/1529/) | in force | 1 | 2026-11-10 | 2026-11-10 |
+
+## ustavni-sud (256)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Odluka Ustavnog suda Hrvatske broj U/I-110/1989 od 7. prosinca 1989. | [`ustavni-sud/1990/u-i-110-1989/`](ustavni-sud/1990/u-i-110-1989/) | in force | 1 | 1990-01-30 | 1990-01-30 |
+| Odluka Ustavnog suda Hrvatske broj U/I-111/1988 od 27. prosinca 1989. | [`ustavni-sud/1990/u-i-111-1988/`](ustavni-sud/1990/u-i-111-1988/) | in force | 1 | 1990-02-06 | 1990-02-06 |
+| Odluka Ustavnog suda Hrvatske broj U/I-211/1988 od 27. prosinca 1989. | [`ustavni-sud/1990/u-i-211-1988/`](ustavni-sud/1990/u-i-211-1988/) | in force | 1 | 1990-02-06 | 1990-02-06 |
+| Odluka Ustavnog suda Hrvatske broj U/I-241/1988 od 27. prosinca 1989. | [`ustavni-sud/1990/u-i-241-1988/`](ustavni-sud/1990/u-i-241-1988/) | in force | 1 | 1990-02-06 | 1990-02-06 |
+| Odluka Ustavnog suda Hrvatske broj U/I-22/1988 od 27. prosinca 1989. | [`ustavni-sud/1990/u-i-22-1988/`](ustavni-sud/1990/u-i-22-1988/) | in force | 1 | 1990-02-06 | 1990-02-06 |
+| Odluka Ustavnog suda Hrvatske broj U/I-17/1987 od 7. prosinca 1989. | [`ustavni-sud/1990/u-i-17-1987/`](ustavni-sud/1990/u-i-17-1987/) | in force | 1 | 1990-02-13 | 1990-02-13 |
+| Odluka Ustavnog suda Hrvatske broj U/I-247/1989 od 18. siječnja 1990. | [`ustavni-sud/1990/u-i-247-1989/`](ustavni-sud/1990/u-i-247-1989/) | in force | 1 | 1990-02-15 | 1990-02-15 |
+| Odluka Ustavnog suda Hrvatske broj U/I-132/1989 od 15. veljače 1990. | [`ustavni-sud/1990/u-i-132-1989/`](ustavni-sud/1990/u-i-132-1989/) | in force | 1 | 1990-03-20 | 1990-03-20 |
+| Odluka Ustavnog suda Hrvatske broj U/I-130/1989 od 22. veljače 1990. | [`ustavni-sud/1990/u-i-130-1989/`](ustavni-sud/1990/u-i-130-1989/) | in force | 1 | 1990-03-20 | 1990-03-20 |
+| Odluka Ustavnog suda Hrvatske broj U/I-161/1988 od 22. veljače 1990. | [`ustavni-sud/1990/u-i-161-1988/`](ustavni-sud/1990/u-i-161-1988/) | in force | 1 | 1990-03-27 | 1990-03-27 |
+| Odluka Ustavnog suda Hrvatske broj U/I-168/1987 od 15. veljače 1990. | [`ustavni-sud/1990/u-i-168-1987/`](ustavni-sud/1990/u-i-168-1987/) | in force | 1 | 1990-03-30 | 1990-03-30 |
+| Odluka Ustavnog suda Hrvatske U/I 170 1989 od 25. siječnja 1990. | [`ustavni-sud/1990/u-i-170-1989/`](ustavni-sud/1990/u-i-170-1989/) | in force | 1 | 1990-03-05 | 1990-03-05 |
+| Odluka Ustavnog suda Hrvatske broj U/I-183/1989 od 8. ožujka 1990. | [`ustavni-sud/1990/u-i-183-1989/`](ustavni-sud/1990/u-i-183-1989/) | in force | 1 | 1990-04-10 | 1990-04-10 |
+| Odluka Ustavnog suda Hrvatske broj U/I-125/1986 od 12. travnja 1990. | [`ustavni-sud/1990/u-i-125-1986/`](ustavni-sud/1990/u-i-125-1986/) | in force | 1 | 1990-05-22 | 1990-05-22 |
+| Odluka Ustavnog suda Hrvatske broj U/I -204/1989 od 31.svibnja 1990 | [`ustavni-sud/1990/u-i-204-1989/`](ustavni-sud/1990/u-i-204-1989/) | in force | 1 | 1990-06-30 | 1990-06-30 |
+| Odluka Ustavnog suda Hrvatske broj U/I-243/1989 od 7. lipnja 1990. | [`ustavni-sud/1990/u-i-243-1989/`](ustavni-sud/1990/u-i-243-1989/) | in force | 1 | 1990-07-20 | 1990-07-20 |
+| Odluka Ustavnog suda Hrvatske broj U/I-100/1990 od 5. srpnja 1990. | [`ustavni-sud/1990/u-i-100-1990/`](ustavni-sud/1990/u-i-100-1990/) | in force | 1 | 1990-07-24 | 1990-07-24 |
+| Odluka Ustavnog suda Hrvatske broj U/I 220/1988 od 19. srpnja 1990. | [`ustavni-sud/1990/u-i-220-1988/`](ustavni-sud/1990/u-i-220-1988/) | in force | 1 | 1990-08-06 | 1990-08-06 |
+| Odluka Ustavnog suda Hrvatske broj U/I 152/1990 od 19. srpnja 1990. | [`ustavni-sud/1990/u-i-152-1990/`](ustavni-sud/1990/u-i-152-1990/) | in force | 1 | 1990-08-06 | 1990-08-06 |
+| Rješenje Ustavnog suda Hrvatske broj U/I-214/1990 od 14. kolovoza 1990. | [`ustavni-sud/1990/u-i-214-1990/`](ustavni-sud/1990/u-i-214-1990/) | in force | 1 | 1990-08-17 | 1990-08-17 |
+| Odluka Ustavnog suda Hrvatske broj U/I-214/1990 od 28. kolovoza 1990 | [`ustavni-sud/1990/u-i-214-1990-nn35-1990/`](ustavni-sud/1990/u-i-214-1990-nn35-1990/) | in force | 1 | 1990-09-03 | 1990-09-03 |
+| Odluka Ustavnog suda Hrvatske broj U/I-165/1990 od 20. rujna 1990. | [`ustavni-sud/1990/u-i-165-1990/`](ustavni-sud/1990/u-i-165-1990/) | in force | 1 | 1990-10-24 | 1990-10-24 |
+| Odluka Ustavnog suda Hrvatske broj U/I-169/1989 od 20. rujna 1990. | [`ustavni-sud/1990/u-i-169-1989/`](ustavni-sud/1990/u-i-169-1989/) | in force | 1 | 1990-10-24 | 1990-10-24 |
+| Odluka Ustavnog suda Hrvatske broj U/I-14/1990 od 18. listopada 1990. | [`ustavni-sud/1990/u-i-14-1990/`](ustavni-sud/1990/u-i-14-1990/) | in force | 1 | 1990-11-09 | 1990-11-09 |
+| Odluka Ustavnog suda Hrvatske broj U/I-197/1990. od 18 listopada 1990. | [`ustavni-sud/1990/u-i-197-1990/`](ustavni-sud/1990/u-i-197-1990/) | in force | 1 | 1990-11-16 | 1990-11-16 |
+| Odluka Ustavnog suda Hrvatske broj U/I-161/1988 od 11. listopada 1990 | [`ustavni-sud/1990/u-i-161-1988-nn49-1990/`](ustavni-sud/1990/u-i-161-1988-nn49-1990/) | in force | 1 | 1990-11-24 | 1990-11-24 |
+| Odluka Ustavnog suda Hrvatske broj: U/I-153/1990 od 6. prosinca 1990. | [`ustavni-sud/1990/u-i-153-1990/`](ustavni-sud/1990/u-i-153-1990/) | in force | 1 | 1990-12-21 | 1990-12-21 |
+| Odluka Ustavnog suda Hrvatske broj U/I-161/1990 od 13. prosinca 1990. | [`ustavni-sud/1991/u-i-161-1990/`](ustavni-sud/1991/u-i-161-1990/) | in force | 1 | 1991-01-17 | 1991-01-17 |
+| Odluka Ustavnog suda Hrvatske broj U/I-194/1990. od 15. studenoga 1990. | [`ustavni-sud/1991/u-i-194-1990/`](ustavni-sud/1991/u-i-194-1990/) | in force | 1 | 1991-01-24 | 1991-01-24 |
+| Rješenje Ustavnog suda Republike Hrvatske broj U/I-248/1988. od 7. veljace 1991. | [`ustavni-sud/1991/u-i-248-1988/`](ustavni-sud/1991/u-i-248-1988/) | in force | 1 | 1991-03-06 | 1991-03-06 |
+| Odluka Ustavnog suda Republike Hrvatske broj U/I-183/1990od 14. veljače 1991. | [`ustavni-sud/1991/u-i-183-1990/`](ustavni-sud/1991/u-i-183-1990/) | in force | 1 | 1991-03-16 | 1991-03-16 |
+| Odluka Ustavnog suda Republike Hrvatske broj U/I-199/1990. od 28. veljače 1991. | [`ustavni-sud/1991/u-i-199-1990/`](ustavni-sud/1991/u-i-199-1990/) | in force | 1 | 1991-03-25 | 1991-03-25 |
+| Odluka Ustavnog suda Republike Hrvatske Broj U/I-238/1990 od 28. ožujka 1991. | [`ustavni-sud/1991/u-i-238-1990/`](ustavni-sud/1991/u-i-238-1990/) | in force | 1 | 1991-04-23 | 1991-04-23 |
+| Odluka Ustavnog suda Republike Hrvatske broj U/I-169/89 od 16. svibnja 1991. | [`ustavni-sud/1991/u-i-169-89/`](ustavni-sud/1991/u-i-169-89/) | in force | 1 | 1991-06-01 | 1991-06-01 |
+| Odluka Ustavnog suda republike Hrvatske broj U"I-23/1991. od 15. siječnja 1992. | [`ustavni-sud/1992/u-i-23-1991/`](ustavni-sud/1992/u-i-23-1991/) | in force | 1 | 1992-02-04 | 1992-02-04 |
+| Rješenje Ustavnog suda Republike Hrvatske broj U-I-13/1992. od 11. ožujka 1992. | [`ustavni-sud/1992/u-i-13-1992/`](ustavni-sud/1992/u-i-13-1992/) | in force | 1 | 1992-04-17 | 1992-04-17 |
+| Rješenje Ustavnog suda Republike Hrvatske broj: U-I-107/1992 od 20. svibnja 1992. | [`ustavni-sud/1992/u-i-107-1992/`](ustavni-sud/1992/u-i-107-1992/) | in force | 1 | 1992-06-24 | 1992-06-24 |
+| Rješenje Ustavnog suda Republike Hrvatske broj: U-I-101/1992 od 3. lipnja 1992. | [`ustavni-sud/1992/u-i-101-1992/`](ustavni-sud/1992/u-i-101-1992/) | in force | 1 | 1992-06-24 | 1992-06-24 |
+| Rješenje Ustavnog suda Republike Hrvatske broj U-I-231/1990. od 12. svibnja 1992. | [`ustavni-sud/1992/u-i-231-1990/`](ustavni-sud/1992/u-i-231-1990/) | in force | 1 | 1992-06-27 | 1992-06-27 |
+| Rješenje Ustavnog suda Republike Hrvatske broj U-I-137/1992 od 24. lipnja 1992. | [`ustavni-sud/1992/u-i-137-1992/`](ustavni-sud/1992/u-i-137-1992/) | in force | 1 | 1992-07-07 | 1992-07-07 |
+| Odluka Ustavnog suda Republike Hrvatske broj U-I-14/1987. od 24. lipnja 1992. | [`ustavni-sud/1992/u-i-14-1987/`](ustavni-sud/1992/u-i-14-1987/) | in force | 1 | 1992-07-14 | 1992-07-14 |
+| Rješenje Ustavnog suda Republike Hrvatske broj U-I-183/1992. od 8. srpnja 1992. | [`ustavni-sud/1992/u-i-183-1992/`](ustavni-sud/1992/u-i-183-1992/) | in force | 1 | 1992-07-14 | 1992-07-14 |
+| Rješenje Ustavnog suda Republike Hrvatske broj U-I-178/1991. od 8. srpnja 1992. | [`ustavni-sud/1992/u-i-178-1991/`](ustavni-sud/1992/u-i-178-1991/) | in force | 1 | 1992-07-14 | 1992-07-14 |
+| Rješenje Ustavnog suda Republike Hrvatske broj U-I-179/1992. od 8. srpnja 1992. | [`ustavni-sud/1992/u-i-179-1992/`](ustavni-sud/1992/u-i-179-1992/) | in force | 1 | 1992-07-14 | 1992-07-14 |
+| Rješenje Ustavnog suda Republike Hrvatske broj U-I-179/1991. od 24. lipnja 1992. | [`ustavni-sud/1992/u-i-179-1991/`](ustavni-sud/1992/u-i-179-1991/) | in force | 1 | 1992-08-04 | 1992-08-04 |
+| Rješenje Ustavnog suda Republike Hrvatske broj U-I-215/1992 od 26. listopada 1992. godine | [`ustavni-sud/1992/u-i-215-1992/`](ustavni-sud/1992/u-i-215-1992/) | in force | 1 | 1992-12-01 | 1992-12-01 |
+| Rješenje Ustavnog suda Republike Hrvatske broj U-I-122/1992. od 24. ožujka 1993. | [`ustavni-sud/1993/u-i-122-1992/`](ustavni-sud/1993/u-i-122-1992/) | in force | 1 | 1993-04-29 | 1993-04-29 |
+| Rješenje Ustavnog suda Republike Hrvatske br. U-I-196/1988. od 28. travnja 1993. | [`ustavni-sud/1993/u-i-196-1988/`](ustavni-sud/1993/u-i-196-1988/) | in force | 1 | 1993-05-10 | 1993-05-10 |
+| Rješenje Ustavnog suda Republike Hrvatske broj: U-I-147/1992, U-I-206/1992, U-I-209/1992, U-I-148/1992, U-I-207/1992 i U-I-222/1992. od 24. svibnja 1993. | [`ustavni-sud/1993/u-i-147-1992/`](ustavni-sud/1993/u-i-147-1992/) | in force | 1 | 1993-05-26 | 1993-05-26 |
+| Rješenje Ustavnog suda Republike Hrvatske broj: U-I-171 /1990. | [`ustavni-sud/1993/u-i-171-1990/`](ustavni-sud/1993/u-i-171-1990/) | in force | 1 | 1993-06-22 | 1993-06-22 |
+| Rješenje Ustavnog suda Republike Hrvatske broj U-I-146/1993. od 15. lipnja 1933. | [`ustavni-sud/1993/u-i-146-1993/`](ustavni-sud/1993/u-i-146-1993/) | in force | 1 | 1993-07-06 | 1993-07-06 |
+| Rješenje Ustavnog suda Republike Hrvatske broj U-I-204/1992. od 7. srpnja 1993 | [`ustavni-sud/1993/u-i-204-1992/`](ustavni-sud/1993/u-i-204-1992/) | in force | 1 | 1993-07-23 | 1993-07-23 |
+| Rješenje Ustavnog suda Republike Hrvatske broj U-I-197/1992. od 28. rujna 1993. | [`ustavni-sud/1993/u-i-197-1992/`](ustavni-sud/1993/u-i-197-1992/) | in force | 1 | 1993-10-29 | 1993-10-29 |
+| Odluka Ustavnog suda Republike Hrvatske U-I-204/1992. od studenog 1993 | [`ustavni-sud/1993/u-i-204-1992-nn110-1993/`](ustavni-sud/1993/u-i-204-1992-nn110-1993/) | in force | 1 | 1993-12-10 | 1993-12-10 |
+| Odluka Ustavnog suda Republike Hrvatske br. U-I-206/1992, U-I-207/1992, U-I-209/1992. i U-I-222/1992. od 8. prosinca 1993. | [`ustavni-sud/1993/u-i-206-1992/`](ustavni-sud/1993/u-i-206-1992/) | in force | 1 | 1993-12-21 | 1993-12-21 |
+| Rješenje Ustavnog suda Republike Hrvatske broj U-I-144/1993 od 5. Siječnja 1994. | [`ustavni-sud/1994/u-i-144-1993/`](ustavni-sud/1994/u-i-144-1993/) | in force | 1 | 1994-01-28 | 1994-01-28 |
+| Odluka Ustavnog suda Republike Hrvatske broj U-I-197/1992. od 16. ožujka 1994. | [`ustavni-sud/1994/u-i-197-1992-nn25-1994/`](ustavni-sud/1994/u-i-197-1992-nn25-1994/) | in force | 1 | 1994-03-29 | 1994-03-29 |
+| Odluka Ustavnog suda Republike Hrvatske broj U-I-231/1990. od 16. veljače1994. | [`ustavni-sud/1994/u-i-231-1990-nn25-1994/`](ustavni-sud/1994/u-i-231-1990-nn25-1994/) | in force | 1 | 1994-03-29 | 1994-03-29 |
+| Rješenje Ustavnog suda Republike Hrvatske broj U-I-114/1992. od 16. ožujka 1994. | [`ustavni-sud/1994/u-i-114-1992/`](ustavni-sud/1994/u-i-114-1992/) | in force | 1 | 1994-03-29 | 1994-03-29 |
+| Rješenje Ustavnog suda Republike Hrvatske broj U-I-20/1992. od 13. travnja 1994. | [`ustavni-sud/1994/u-i-20-1992/`](ustavni-sud/1994/u-i-20-1992/) | in force | 1 | 1994-04-29 | 1994-04-29 |
+| Rješenje Ustavnog suda Republike Hrvatske broj U-I-231/1992. od 7. lipnja 1994. | [`ustavni-sud/1994/u-i-231-1992/`](ustavni-sud/1994/u-i-231-1992/) | in force | 1 | 1994-06-24 | 1994-06-24 |
+| Rješenje Ustavnog suda Republike Hrvatske broj: U-I-143/1995 od 15. veljače 1995. | [`ustavni-sud/1995/u-i-143-1995/`](ustavni-sud/1995/u-i-143-1995/) | in force | 1 | 1995-02-17 | 1995-02-17 |
+| Rješenje Ustavnog suda Republike broj U-I-130/1995. od 20. veljače 1995. | [`ustavni-sud/1995/u-i-130-1995/`](ustavni-sud/1995/u-i-130-1995/) | in force | 1 | 1995-02-24 | 1995-02-24 |
+| Rješenje Ustavnog suda Republike Hrvatske broj U-I-1010/1994. 15. ožujka 1995 | [`ustavni-sud/1995/u-i-1010-1994/`](ustavni-sud/1995/u-i-1010-1994/) | in force | 1 | 1995-03-21 | 1995-03-21 |
+| Rješenje Ustavnog suda Republike Hrvatske broj U-I-218/1994. od 1. ožujka 1995 | [`ustavni-sud/1995/u-i-218-1994/`](ustavni-sud/1995/u-i-218-1994/) | in force | 1 | 1995-03-21 | 1995-03-21 |
+| Rješenje Ustavnog suda Republike Hrvatske broj U-I-252/1995. od 16. svibnja 1995 | [`ustavni-sud/1995/u-i-252-1995/`](ustavni-sud/1995/u-i-252-1995/) | in force | 1 | 1995-05-19 | 1995-05-19 |
+| Rješenje Ustavnog suda Republike Hrvatske broj U-I-107/1993. od 16. svibnja 1995 | [`ustavni-sud/1995/u-i-107-1993/`](ustavni-sud/1995/u-i-107-1993/) | in force | 1 | 1995-06-06 | 1995-06-06 |
+| Priopćenje 1. Ustavnog suda Republike Hrvatske | [`ustavni-sud/1995/nn-84-1995-1378/`](ustavni-sud/1995/nn-84-1995-1378/) | in force | 1 | 1995-10-20 | 1995-10-20 |
+| Priopćenje 2. Ustavnog suda Republike Hrvatske | [`ustavni-sud/1995/nn-84-1995-1379/`](ustavni-sud/1995/nn-84-1995-1379/) | in force | 1 | 1995-10-20 | 1995-10-20 |
+| Priopćenje 3 Ustavnog suda Republike Hrvatske | [`ustavni-sud/1995/nn-84-1995-1380/`](ustavni-sud/1995/nn-84-1995-1380/) | in force | 1 | 1995-10-20 | 1995-10-20 |
+| Priopćenje 4 Ustavnog suda Republike Hrvatske | [`ustavni-sud/1995/nn-84-1995-1381/`](ustavni-sud/1995/nn-84-1995-1381/) | in force | 1 | 1995-10-20 | 1995-10-20 |
+| Rješenje Ustavnog suda Republike Hrvatske broj U-I-213/1995. od 22. studenoga 1995. | [`ustavni-sud/1995/u-i-213-1995/`](ustavni-sud/1995/u-i-213-1995/) | in force | 1 | 1995-12-01 | 1995-12-01 |
+| Odluka Ustavnog suda Republike Hrvatske broj U-I-1010/1994. od 29. studenoga 1995. | [`ustavni-sud/1995/u-i-1010-1994-nn97-1995/`](ustavni-sud/1995/u-i-1010-1994-nn97-1995/) | in force | 1 | 1995-12-01 | 1995-12-01 |
+| Rješenje Ustavnog suda Republike Hrvatske broj U-I-248/1994. od 8. svibnja 1996. | [`ustavni-sud/1996/u-i-248-1994/`](ustavni-sud/1996/u-i-248-1994/) | in force | 1 | 1996-05-24 | 1996-05-24 |
+| Odluka Ustavnog suda Republike Hrvatske broj U-I-200/96 od 12. lipnja 1996. godine | [`ustavni-sud/1996/u-i-200-96/`](ustavni-sud/1996/u-i-200-96/) | in force | 1 | 1996-06-26 | 1996-06-26 |
+| Odluka Ustavnog suda Republike Hrvatske broj U-I-1010/1994 od 28. lipnja 1996. | [`ustavni-sud/1996/u-i-1010-1994-nn52-1996/`](ustavni-sud/1996/u-i-1010-1994-nn52-1996/) | in force | 1 | 1996-06-28 | 1996-06-28 |
+| Odluka Ustavnog suda Republike Hrvatske, broj U-I-1010/1994 od 29. kolovoza 1996. | [`ustavni-sud/1996/u-i-1010-1994-nn73-1996/`](ustavni-sud/1996/u-i-1010-1994-nn73-1996/) | in force | 1 | 1996-08-30 | 1996-08-30 |
+| Odluka Ustavnog suda Republike Hrvatske, broj U-I-130/1995 od 20. studenoga 1996. | [`ustavni-sud/1996/u-i-130-1995-nn99-1996/`](ustavni-sud/1996/u-i-130-1995-nn99-1996/) | in force | 1 | 1996-11-26 | 1996-11-26 |
+| Odluka Ustavnog suda Republike Hrvatske broj U-I-248/1994 od 13. studenoga 1996. | [`ustavni-sud/1996/u-i-248-1994-nn103-1996/`](ustavni-sud/1996/u-i-248-1994-nn103-1996/) | in force | 1 | 1996-12-06 | 1996-12-06 |
+| Rješenje Ustavnog suda Republike Hrvatske broj: U-I-214/ 1996 od 4. prosinca 1996. | [`ustavni-sud/1996/u-i-214-1996/`](ustavni-sud/1996/u-i-214-1996/) | in force | 1 | 1996-12-20 | 1996-12-20 |
+| Rješenje Ustavnog suda Republike Hrvatske broj U-I-132/1995 od 5 | [`ustavni-sud/1997/u-i-132-1995/`](ustavni-sud/1997/u-i-132-1995/) | in force | 1 | 1997-02-14 | 1997-02-14 |
+| Rješenje Ustavnog suda Republike Hrvatske broj U-I-148/1996 od 2 | [`ustavni-sud/1997/u-i-148-1996/`](ustavni-sud/1997/u-i-148-1996/) | in force | 1 | 1997-04-07 | 1997-04-07 |
+| Rješenje Ustavnog suda Republike Hrvatske broj U-I-218 od 2 | [`ustavni-sud/1997/u-i-218-1997/`](ustavni-sud/1997/u-i-218-1997/) | in force | 1 | 1997-04-07 | 1997-04-07 |
+| Priopćenje - upozorenje Ustavnog suda Republike Hrvatske broj U VII 291 od 7 | [`ustavni-sud/1997/nn-37-1997-537/`](ustavni-sud/1997/nn-37-1997-537/) | in force | 1 | 1997-04-09 | 1997-04-09 |
+| Rješenje Ustavnog suda Republike Hrvatske broj U-I-138 od 30. ožujka 1997. | [`ustavni-sud/1997/u-i-138-1997/`](ustavni-sud/1997/u-i-138-1997/) | in force | 1 | 1997-05-09 | 1997-05-09 |
+| Rješenje Ustavnog suda Republike Hrvatske broj U-I-135/97 od 30 | [`ustavni-sud/1997/u-i-135-97/`](ustavni-sud/1997/u-i-135-97/) | in force | 1 | 1997-05-15 | 1997-05-15 |
+| Rješenje Ustavnog suda Republike Hrvatske broj U-I-107/1995 od 14. svibnja 1997. | [`ustavni-sud/1997/u-i-107-1995/`](ustavni-sud/1997/u-i-107-1995/) | in force | 1 | 1997-07-21 | 1997-07-21 |
+| Odluka Ustavnog suda Republike Hrvatske broj: U-I-1037/1995; U-I-179/1996; U-I-639; U-I-839; U-I-948 od 25. rujna 1997. | [`ustavni-sud/1997/u-i-1037-1995/`](ustavni-sud/1997/u-i-1037-1995/) | in force | 1 | 1997-09-26 | 1997-09-26 |
+| Odluka Ustavnog suda Republike Hrvatske broj: U-I-20/1992 od 18. veljače 1998. | [`ustavni-sud/1998/u-i-20-1992-nn31-1998/`](ustavni-sud/1998/u-i-20-1992-nn31-1998/) | in force | 1 | 1998-03-06 | 1998-03-06 |
+| Rješenje Ustavnog suda Republike Hrvatske broj: U-I-219/1997 od 11. veljače 1998. | [`ustavni-sud/1998/u-i-219-1997/`](ustavni-sud/1998/u-i-219-1997/) | in force | 1 | 1998-03-06 | 1998-03-06 |
+| Rješenje Ustavnog suda Republike Hrvatske broj: U-I-1130/1997 od 25. veljače 1998. | [`ustavni-sud/1998/u-i-1130-1997/`](ustavni-sud/1998/u-i-1130-1997/) | in force | 1 | 1998-03-10 | 1998-03-10 |
+| Odluka Ustavnog suda Republike Hrvatske broj: U-I-103/1997 od 31. ožujka 1998. | [`ustavni-sud/1998/u-i-103-1997/`](ustavni-sud/1998/u-i-103-1997/) | in force | 1 | 1998-04-08 | 1998-04-08 |
+| Rješenje Ustavnog suda Republike Hrvatske broj: U-I-1032/1997, U-I-1156/1997 od 11. ožujka 1998. | [`ustavni-sud/1998/u-i-1032-1997/`](ustavni-sud/1998/u-i-1032-1997/) | in force | 1 | 1998-04-08 | 1998-04-08 |
+| Rješenje Ustavnog suda Republike Hrvatske broj: U-I-1203/1997 od 11. ožujka 1998. | [`ustavni-sud/1998/u-i-1203-1997/`](ustavni-sud/1998/u-i-1203-1997/) | in force | 1 | 1998-04-08 | 1998-04-08 |
+| Rješenje Ustavnog suda Republike Hrvatske broj U-I-238/1995 i U-I-797/1997 od 11. lipnja 1998. | [`ustavni-sud/1998/u-i-238-1995/`](ustavni-sud/1998/u-i-238-1995/) | in force | 1 | 1998-07-03 | 1998-07-03 |
+| Rješenje Ustavnog suda Republike Hrvatske broj U-I-222/1995 od 15. srpnja 1998. | [`ustavni-sud/1998/u-i-222-1995/`](ustavni-sud/1998/u-i-222-1995/) | in force | 1 | 1998-07-20 | 1998-07-20 |
+| Odluka Ustavnog suda Republike Hrvatske broj U-I-222/1995 od 9. studenoga 1998. godine | [`ustavni-sud/1998/u-i-222-1995-nn150-1998/`](ustavni-sud/1998/u-i-222-1995-nn150-1998/) | in force | 1 | 1998-11-19 | 1998-11-19 |
+| Rješenje Ustavnog suda Republike Hrvatske broj U-I-1253/1997 i U-I-441/1998 od 8. prosinca 1998. | [`ustavni-sud/1998/u-i-1253-1997/`](ustavni-sud/1998/u-i-1253-1997/) | in force | 1 | 1998-12-30 | 1998-12-30 |
+| Rješenje Ustavnog suda Republike Hrvatske broj U-I-249/1998 od 2. prosinca 1998. | [`ustavni-sud/1998/u-i-249-1998/`](ustavni-sud/1998/u-i-249-1998/) | in force | 1 | 1998-12-30 | 1998-12-30 |
+| Rješenje Ustavnog suda Republike Hrvatske broj U-I-243/1997, U-I-248/1997 i U-I-806/1998 od 20 | [`ustavni-sud/1999/u-i-243-1997/`](ustavni-sud/1999/u-i-243-1997/) | in force | 1 | 1999-02-18 | 1999-02-18 |
+| Odluka Ustavnog suda Republike Hrvatske broj U-I-241/1998 od 31 | [`ustavni-sud/1999/u-i-241-1998/`](ustavni-sud/1999/u-i-241-1998/) | in force | 1 | 1999-04-20 | 1999-04-20 |
+| Rješenje Ustavnog suda Republike Hrvatske broj U-I-1194/1997, U-I-16/1998, U-I-40/1998, U-I-145/1998, U-I-227/1998, U-I-280/1998, U-I-465/1998, U-I-906/1998, U-I-24, U-I-108 od 24 | [`ustavni-sud/1999/u-i-1194-1997/`](ustavni-sud/1999/u-i-1194-1997/) | in force | 1 | 1999-05-21 | 1999-05-21 |
+| Odluka Ustavnog suda Republike Hrvatske broj U-I-130/1997 od 24 | [`ustavni-sud/1999/u-i-130-1997/`](ustavni-sud/1999/u-i-130-1997/) | in force | 1 | 1999-07-23 | 1999-07-23 |
+| Rješenje Ustavnog suda Republike Hrvatske broj U-I-040/94, U-I-054/94, U-I-102/94, U-I-850/94, U-I-268/95, U-I-392/95, U-I-115/96, U-I-068/99, U-I-314/99, U-I-330/99 od 22. rujna 1999. | [`ustavni-sud/1999/u-i-040-94/`](ustavni-sud/1999/u-i-040-94/) | in force | 1 | 1999-10-13 | 1999-10-13 |
+| Odluka Ustavnog suda Republike Hrvatske broj U-I-1253/1997 i U-I-441/1998 od 29. rujna 1999. | [`ustavni-sud/1999/u-i-1253-1997-nn109-1999/`](ustavni-sud/1999/u-i-1253-1997-nn109-1999/) | in force | 1 | 1999-10-22 | 1999-10-22 |
+| Rješenje Ustavnog suda Republike Hrvatske broj U-I-1193/97, U-I-1303/97, U-I-1317/97, U-I-6/98, U-I-53/98, U-I-85/98, U-I-717/98, U-I-725/98, U-I-1032/98, U-I-341/99, U-I-480/99. od 29. rujna 1999. | [`ustavni-sud/1999/u-i-1193-97/`](ustavni-sud/1999/u-i-1193-97/) | in force | 1 | 1999-11-03 | 1999-11-03 |
+| Rješenje Ustavnog suda Republike Hrvatske broj U-I-104/1999 od 20. listopada 1999. | [`ustavni-sud/1999/u-i-104-1999/`](ustavni-sud/1999/u-i-104-1999/) | in force | 1 | 1999-11-05 | 1999-11-05 |
+| Rješenje Ustavnog suda Republike Hrvatske broj U-I-1059/1999 od 10. prosinca 1999. | [`ustavni-sud/1999/u-i-1059-1999/`](ustavni-sud/1999/u-i-1059-1999/) | in force | 1 | 1999-12-14 | 1999-12-14 |
+| Odluka Ustavnog suda Republike Hrvatske broj U-I-1156/1999 od 26. siječnja 2000. i Obrazloženje suprotnog glasa pri donošenju ove odluke | [`ustavni-sud/2000/u-i-1156-1999/`](ustavni-sud/2000/u-i-1156-1999/) | in force | 1 | 2000-02-04 | 2000-02-04 |
+| Odluka i Rješenje Ustavnog suda Republike Hrvatske broj U-I-131/1998 od 3. veljače 2000. | [`ustavni-sud/2000/u-i-131-1998/`](ustavni-sud/2000/u-i-131-1998/) | in force | 1 | 2000-02-16 | 2000-02-16 |
+| Rješenje Ustavnog suda Republike Hrvatske broj U-I-1203/1999 od 3. veljače 2000. | [`ustavni-sud/2000/u-i-1203-1999/`](ustavni-sud/2000/u-i-1203-1999/) | in force | 1 | 2000-02-16 | 2000-02-16 |
+| Odluka Ustavnog suda Republike Hrvatske broj U-I-1094/1999 od 9. veljače 2000. | [`ustavni-sud/2000/u-i-1094-1999/`](ustavni-sud/2000/u-i-1094-1999/) | in force | 1 | 2000-02-23 | 2000-02-23 |
+| Odluka Ustavnog suda Republike Hrvatske broj U-I-1023/1999. od 23. veljače 2000. | [`ustavni-sud/2000/u-i-1023-1999/`](ustavni-sud/2000/u-i-1023-1999/) | in force | 1 | 2000-03-03 | 2000-03-03 |
+| Odluka Ustavnog suda Republike Hrvatske broj: U-I-1129/1999, U-I-1190/1999 od 22. ožujka 2000. i Izdvojeno mišljenje | [`ustavni-sud/2000/u-i-1129-1999/`](ustavni-sud/2000/u-i-1129-1999/) | in force | 1 | 2000-03-31 | 2000-03-31 |
+| Odluka Ustavnog suda Republike Hrvatske broj U-I-241/2000 od 10. svibnja 2000. | [`ustavni-sud/2000/u-i-241-2000/`](ustavni-sud/2000/u-i-241-2000/) | in force | 1 | 2000-05-17 | 2000-05-17 |
+| Odluka Ustavnog suda Republike Hrvatske broj U-I-236/1996, U-I-840/1997 od 3. svibnja 2000. | [`ustavni-sud/2000/u-i-236-1996/`](ustavni-sud/2000/u-i-236-1996/) | in force | 1 | 2000-05-17 | 2000-05-17 |
+| Rješenje Ustavnog suda Republike Hrvatske broj U-I-1085/1997, U-I-23/1999, U-I-824/1999 od 20. travnja 2000. | [`ustavni-sud/2000/u-i-1085-1997/`](ustavni-sud/2000/u-i-1085-1997/) | in force | 1 | 2000-05-19 | 2000-05-19 |
+| Odluka i Rješenje Ustavnog suda Republike Hrvatske broj U-I-11/1993, U-I-904/1995 od 24. svibnja 2000. | [`ustavni-sud/2000/u-i-11-1993/`](ustavni-sud/2000/u-i-11-1993/) | in force | 1 | 2000-06-06 | 2000-06-06 |
+| Odluka i Rješenje Ustavnog suda Republike Hrvatske broj U-I-1026/1995, U-I-1080/1998, U-I-105/1999, U-I-694/1999, U-I-1007/1999, U-I-1093/1999, U-I-29/2000 od 5. srpnja 2000. | [`ustavni-sud/2000/u-i-1026-1995/`](ustavni-sud/2000/u-i-1026-1995/) | in force | 1 | 2000-07-17 | 2000-07-17 |
+| Odluka Ustavnog suda Republike Hrvatske broj U-I-1006/1995 od 21. rujna 2000. | [`ustavni-sud/2000/u-i-1006-1995/`](ustavni-sud/2000/u-i-1006-1995/) | in force | 1 | 2000-10-10 | 2000-10-10 |
+| Odluka Ustavnog suda Republike Hrvatske broj U-I-1006/1995 od 20. prosinca 2000. | [`ustavni-sud/2000/u-i-1006-1995-nn131-2000/`](ustavni-sud/2000/u-i-1006-1995-nn131-2000/) | in force | 1 | 2000-12-28 | 2000-12-28 |
+| Rješenje Ustavnog suda Republike Hrvatske broj U-I-189/1999, U-I-429/1999, U-I-493/1999, U-I-832/1999, U-I-283/2000, U-I-1714/2000 od 20. prosinca 2000. | [`ustavni-sud/2001/u-i-189-1999/`](ustavni-sud/2001/u-i-189-1999/) | in force | 1 | 2001-01-05 | 2001-01-05 |
+| Rješenje Ustavnog suda Republike Hrvatske broj U-I-1071/2000 od 31. siječnja 2001. | [`ustavni-sud/2001/u-i-1071-2000/`](ustavni-sud/2001/u-i-1071-2000/) | in force | 1 | 2001-02-16 | 2001-02-16 |
+| Rješenje Ustavnog suda Republike Hrvatske broj U-I-1631/2000 od 28. ožujka 2001. | [`ustavni-sud/2001/u-i-1631-2000/`](ustavni-sud/2001/u-i-1631-2000/) | in force | 1 | 2001-03-30 | 2001-03-30 |
+| Odluka i Rješenje Ustavnog suda Republike Hrvatske broj U-I-190/2001 od 12. srpnja 2001. i Obrazloženje suprotnog glasa pri donošenju Odluke i Rješenja | [`ustavni-sud/2001/u-i-190-2001/`](ustavni-sud/2001/u-i-190-2001/) | in force | 1 | 2001-07-24 | 2001-07-24 |
+| Rješenje Ustavnog suda Republike Hrvatske broj U-I-137/2001 i dr. od 19. prosinca 2001. | [`ustavni-sud/2002/u-i-137-2001/`](ustavni-sud/2002/u-i-137-2001/) | in force | 1 | 2002-01-11 | 2002-01-11 |
+| Rješenje Ustavnog suda Republike Hrvatske broj U-I-1489/2001, U-I-1490/2001, U-I-1570/2001, U-I-1571/2001 od 20. veljače 2002. | [`ustavni-sud/2002/u-i-1489-2001/`](ustavni-sud/2002/u-i-1489-2001/) | in force | 1 | 2002-03-06 | 2002-03-06 |
+| Rješenje Ustavnog suda Republike Hrvatske broj U-I-1348/2001, U-I-2529/2001 od 4. travnja 2002. godine | [`ustavni-sud/2002/u-i-1348-2001/`](ustavni-sud/2002/u-i-1348-2001/) | in force | 1 | 2002-04-16 | 2002-04-16 |
+| Rješenje Ustavnog suda Republike Hrvatske broj U-I-1920/2001 od 6. lipnja 2002. | [`ustavni-sud/2002/u-i-1920-2001/`](ustavni-sud/2002/u-i-1920-2001/) | in force | 1 | 2002-06-20 | 2002-06-20 |
+| Odluka Ustavnog suda Republike Hrvatske broj U-I-107/1995, U-I-336/2000 od 19. lipnja 2002. | [`ustavni-sud/2002/u-i-107-1995-nn86-2002/`](ustavni-sud/2002/u-i-107-1995-nn86-2002/) | in force | 1 | 2002-07-19 | 2002-07-19 |
+| Izvješće Ustavnog suda Republike Hrvatske u povodu Inicijative Vlade Republike Hrvatske, klasa: 004-01/02-02/12, urbroj: 5030109-02-2 od 10. listopada 2002. godine | [`ustavni-sud/2002/nn-133-2002-2145/`](ustavni-sud/2002/nn-133-2002-2145/) | in force | 1 | 2002-11-15 | 2002-11-15 |
+| Odluka Ustavnog suda Republike Hrvatske broj U-I-2441/2002, U-I-1107/2002 od 12. veljače 2003. | [`ustavni-sud/2003/u-i-2441-2002/`](ustavni-sud/2003/u-i-2441-2002/) | in force | 1 | 2003-02-25 | 2003-02-25 |
+| Rješenje Ustavnog suda Republike Hrvatske broj U-I-1559/2000 od 12. ožujka 2003. | [`ustavni-sud/2003/u-i-1559-2000/`](ustavni-sud/2003/u-i-1559-2000/) | in force | 1 | 2003-03-20 | 2003-03-20 |
+| Rješenje Ustavnog suda Republike Hrvatske broj U-I-1905/2001 od 12. ožujka 2003. | [`ustavni-sud/2003/u-i-1905-2001/`](ustavni-sud/2003/u-i-1905-2001/) | in force | 1 | 2003-03-20 | 2003-03-20 |
+| Rješenje Ustavnog suda Republike Hrvatske broj U-I-1999/2002, U-I-3104/2002 od 26. ožujka 2003. | [`ustavni-sud/2003/u-i-1999-2002/`](ustavni-sud/2003/u-i-1999-2002/) | in force | 1 | 2003-04-16 | 2003-04-16 |
+| Rješenje Ustavnog suda Republike Hrvatske broj U-I-1681/2003, U-I-2070/2003 od 17. rujna 2003. | [`ustavni-sud/2003/u-i-1681-2003/`](ustavni-sud/2003/u-i-1681-2003/) | in force | 1 | 2003-09-26 | 2003-09-26 |
+| Rješenje Ustavnog suda Republike Hrvatske broj U-I-2057/2003 od 17. rujna 2003. | [`ustavni-sud/2003/u-i-2057-2003/`](ustavni-sud/2003/u-i-2057-2003/) | in force | 1 | 2003-09-26 | 2003-09-26 |
+| Rješenje Ustavnog suda Republike Hrvatske broj: U-I-1267/2002 od 17. rujna 2003. | [`ustavni-sud/2003/u-i-1267-2002/`](ustavni-sud/2003/u-i-1267-2002/) | in force | 1 | 2003-10-10 | 2003-10-10 |
+| Rješenje Ustavnog suda Republike Hrvatske broj U-I-1199/2003 od 1. listopada 2003. | [`ustavni-sud/2003/u-i-1199-2003/`](ustavni-sud/2003/u-i-1199-2003/) | in force | 1 | 2003-11-04 | 2003-11-04 |
+| Rješenje Ustavnog suda Republike Hrvatske broj U-I-2058/2003 od 1. listopada 2003. | [`ustavni-sud/2003/u-i-2058-2003/`](ustavni-sud/2003/u-i-2058-2003/) | in force | 1 | 2003-11-04 | 2003-11-04 |
+| Rješenje Ustavnog suda Republike Hrvatske brroj U-I-1441/2001. od 23. listopada 2003. | [`ustavni-sud/2003/u-i-1441-2001/`](ustavni-sud/2003/u-i-1441-2001/) | in force | 1 | 2003-11-07 | 2003-11-07 |
+| Rješenje Ustavnog suda Republike Hrvatske broj U-I-1291/2001 od 23. listopada 2003. godine | [`ustavni-sud/2003/u-i-1291-2001/`](ustavni-sud/2003/u-i-1291-2001/) | in force | 1 | 2003-11-13 | 2003-11-13 |
+| Odluka Ustavnog suda Republike Hrvatske broj: U-I-2494/2002 od 24. ožujka 2004. | [`ustavni-sud/2004/u-i-2494-2002/`](ustavni-sud/2004/u-i-2494-2002/) | in force | 1 | 2004-04-05 | 2004-04-05 |
+| Rješenje Ustavnog suda Republike Hrvatske broj U-I-1398/2001 od 7. travnja 2004. | [`ustavni-sud/2004/u-i-1398-2001/`](ustavni-sud/2004/u-i-1398-2001/) | in force | 1 | 2004-04-28 | 2004-04-28 |
+| Odluka Ustavnog suda Republike Hrvatske broj: U-I-2495/2002 od 11. svibnja 2004. | [`ustavni-sud/2004/u-i-2495-2002/`](ustavni-sud/2004/u-i-2495-2002/) | in force | 1 | 2004-05-27 | 2004-05-27 |
+| Rješenje Ustavnog suda Republike Hrvatske broj U-I-1948/2000 od 28. rujna 2004. | [`ustavni-sud/2004/u-i-1948-2000/`](ustavni-sud/2004/u-i-1948-2000/) | in force | 1 | 2004-10-19 | 2004-10-19 |
+| Rješenje Ustavnog suda Republike Hrvatske broj U-I-1455/2001. od 24. studenoga 2004. | [`ustavni-sud/2004/u-i-1455-2001/`](ustavni-sud/2004/u-i-1455-2001/) | in force | 1 | 2004-12-13 | 2004-12-13 |
+| Rješenje Ustavnog suda Republike Hrvatske broj U-I-1108/1998 od 22. prosinca 2004. | [`ustavni-sud/2005/u-i-1108-1998/`](ustavni-sud/2005/u-i-1108-1998/) | in force | 1 | 2005-01-11 | 2005-01-11 |
+| Rješenje Ustavnog suda Republike Hrvatske broj U-I-101/1997 od 22. prosinca 2004. | [`ustavni-sud/2005/u-i-101-1997/`](ustavni-sud/2005/u-i-101-1997/) | in force | 1 | 2005-01-12 | 2005-01-12 |
+| Rješenje Ustavnog suda Republike Hrvatske broj U-I-107/1996 od 22. prosinca 2004. | [`ustavni-sud/2005/u-i-107-1996/`](ustavni-sud/2005/u-i-107-1996/) | in force | 1 | 2005-01-12 | 2005-01-12 |
+| Rješenje Ustavnog suda Republike Hrvatske broj: U-I-197/1999 i dr. od 23. ožujka 2005. godine | [`ustavni-sud/2005/u-i-197-1999/`](ustavni-sud/2005/u-i-197-1999/) | in force | 1 | 2005-04-11 | 2005-04-11 |
+| Rješenje Ustavnog suda Republike Hrvatske broj: U-I-2362/2001 od 5. svibnja 2005. | [`ustavni-sud/2005/u-i-2362-2001/`](ustavni-sud/2005/u-i-2362-2001/) | in force | 1 | 2005-05-23 | 2005-05-23 |
+| Rješenje Ustavnog suda Republike Hrvatske brojU-I-1354/2004 od 29. lipnja 2005. | [`ustavni-sud/2005/u-i-1354-2004/`](ustavni-sud/2005/u-i-1354-2004/) | in force | 1 | 2005-07-11 | 2005-07-11 |
+| Rješenje Ustavnog suda Republike Hrvatske broj:U-I-1806/2001. od 26. listopada 2005. | [`ustavni-sud/2005/u-i-1806-2001/`](ustavni-sud/2005/u-i-1806-2001/) | in force | 1 | 2005-11-09 | 2005-11-09 |
+| Rješenje Ustavnog suda Republike Hrvatske broj:U-I-1682/2003 od 26. listopada 2005. | [`ustavni-sud/2005/u-i-1682-2003/`](ustavni-sud/2005/u-i-1682-2003/) | in force | 1 | 2005-11-09 | 2005-11-09 |
+| Rješenje Ustavnog suda Republike Hrvatske broj:U-I-2443/2002 i U-I-953/2003 od 8. studenoga 2005. godine | [`ustavni-sud/2005/u-i-2443-2002/`](ustavni-sud/2005/u-i-2443-2002/) | in force | 1 | 2005-11-25 | 2005-11-25 |
+| Rješenje Ustavnog suda Republike Hrvatske broj:U-I-1111/2003 od 21. prosinca 2005. | [`ustavni-sud/2006/u-i-1111-2003/`](ustavni-sud/2006/u-i-1111-2003/) | in force | 1 | 2006-01-13 | 2006-01-13 |
+| Rješenje Ustavnog suda Republike Hrvatske broj:U-I-1605/2003 od 21. prosinca 2005. | [`ustavni-sud/2006/u-i-1605-2003/`](ustavni-sud/2006/u-i-1605-2003/) | in force | 1 | 2006-01-13 | 2006-01-13 |
+| Rješenje Ustavnog suda Republike Hrvatske broj:U-I-1746/2002 od 21. prosinca 2005. | [`ustavni-sud/2006/u-i-1746-2002/`](ustavni-sud/2006/u-i-1746-2002/) | in force | 1 | 2006-01-13 | 2006-01-13 |
+| Rješenje Ustavnog suda Republike Hrvatske broj:U-I-1745/2004 od 25. siječnja 2006. | [`ustavni-sud/2006/u-i-1745-2004/`](ustavni-sud/2006/u-i-1745-2004/) | in force | 1 | 2006-02-20 | 2006-02-20 |
+| Rješenje Ustavnog suda Republike Hrvatske broj:U-I-1864/2002 od 8. ožujka 2006. | [`ustavni-sud/2006/u-i-1864-2002/`](ustavni-sud/2006/u-i-1864-2002/) | in force | 1 | 2006-04-12 | 2006-04-12 |
+| Odluka Ustavnog suda Republike Hrvatske broj:U-I-177/2002 od 20. travnja 2006. | [`ustavni-sud/2006/u-i-177-2002/`](ustavni-sud/2006/u-i-177-2002/) | in force | 1 | 2006-05-26 | 2006-05-26 |
+| Rješenje Ustavnog suda Republike Hrvatske broj:U-I-1864/2002 od 8. ožujka 2006. | [`ustavni-sud/2006/u-i-1864-2002-nn63-2006/`](ustavni-sud/2006/u-i-1864-2002-nn63-2006/) | in force | 1 | 2006-06-05 | 2006-06-05 |
+| Odluka Ustavnog suda Republike Hrvatske broj:U-I-1707/2006 od 20. prosinca 2006. | [`ustavni-sud/2007/u-i-1707-2006/`](ustavni-sud/2007/u-i-1707-2006/) | in force | 1 | 2007-01-04 | 2007-01-04 |
+| Odluka Ustavnog suda Republike Hrvatske broj:U-I-1569/2004, U-I-305/2005, U-I-1677/2004,U-I-320/2005, U-I-1702/2004, U-I-464/2006, U-I-1904/2004, U-I-3351/2006, U-I-2677/2004 od 20. prosinca 2006. | [`ustavni-sud/2007/u-i-1569-2004/`](ustavni-sud/2007/u-i-1569-2004/) | in force | 1 | 2007-01-04 | 2007-01-04 |
+| Odluka i Rješenje Ustavnog suda Republike Hrvatske broj: U-I-2510/2001, U-I-64/2002, U-I-166/2002, U-I-2244/2002, U-I-99/2004, U-I-1823/2004, U-I-4102/2005 od 6. prosinca 2006. | [`ustavni-sud/2007/u-i-2510-2001/`](ustavni-sud/2007/u-i-2510-2001/) | in force | 1 | 2007-01-04 | 2007-01-04 |
+| Rješenje Ustavnog suda Republike Hrvatske broj:U-I-1706/2004 od 20. prosinca 2006. | [`ustavni-sud/2007/u-i-1706-2004/`](ustavni-sud/2007/u-i-1706-2004/) | in force | 1 | 2007-01-08 | 2007-01-08 |
+| Odluka Ustavnog suda Republike Hrvatske broj:U-I-1559/2001 i U-I-2355/2002 od 21. veljače 2007. | [`ustavni-sud/2007/u-i-1559-2001/`](ustavni-sud/2007/u-i-1559-2001/) | in force | 1 | 2007-03-12 | 2007-03-12 |
+| Odluka i Rješenje Ustavnog suda Republike Hrvatske broj: U-I-1152/2000 i dr. od 18. travnja 2007. i Obrazloženje suprotnog glasa | [`ustavni-sud/2007/u-i-1152-2000/`](ustavni-sud/2007/u-i-1152-2000/) | in force | 1 | 2007-04-25 | 2007-04-25 |
+| Odluka Ustavnog suda Republike Hrvatske broj:U-I-1108/2002 od 16. svibnja 2007. | [`ustavni-sud/2007/u-i-1108-2002/`](ustavni-sud/2007/u-i-1108-2002/) | in force | 1 | 2007-05-30 | 2007-05-30 |
+| Odluka Ustavnog suda Republike Hrvatske broj:U-I-2051/2005 od 5. lipnja 2007. | [`ustavni-sud/2007/u-i-2051-2005/`](ustavni-sud/2007/u-i-2051-2005/) | in force | 1 | 2007-07-04 | 2007-07-04 |
+| Rješenje Ustavnog suda Republike Hrvatske broj:U-I-1278/2002. od 11. srpnja 2007. | [`ustavni-sud/2007/u-i-1278-2002/`](ustavni-sud/2007/u-i-1278-2002/) | in force | 1 | 2007-08-16 | 2007-08-16 |
+| Rješenje Ustavnog suda Republike Hrvatske broj:U-I-2418/2001, U-I-399/2007 od 11. srpnja 2007. | [`ustavni-sud/2007/u-i-2418-2001/`](ustavni-sud/2007/u-i-2418-2001/) | in force | 1 | 2007-08-29 | 2007-08-29 |
+| Rješenje Ustavnog suda Republike Hrvatske broj:U-I-2488/2004 od 14. studenoga 2007. | [`ustavni-sud/2007/u-i-2488-2004/`](ustavni-sud/2007/u-i-2488-2004/) | in force | 1 | 2007-12-27 | 2007-12-27 |
+| Rješenje Ustavnog suda Republike Hrvatske broj:U-I-1177/2007 od 14. studenoga 2007. | [`ustavni-sud/2007/u-i-1177-2007/`](ustavni-sud/2007/u-i-1177-2007/) | in force | 1 | 2007-12-27 | 2007-12-27 |
+| Rješenje Ustavnog suda Republike Hrvatske broj:U-I-2115/2004 od 14. studenoga 2007. | [`ustavni-sud/2007/u-i-2115-2004/`](ustavni-sud/2007/u-i-2115-2004/) | in force | 1 | 2007-12-27 | 2007-12-27 |
+| Rješenje Ustavnog suda Republike Hrvatske broj: U-I-1080/2002, U-I-520/2004, U-I-2610/2005 od 12. ožujka 2008. | [`ustavni-sud/2008/u-i-1080-2002/`](ustavni-sud/2008/u-i-1080-2002/) | in force | 1 | 2008-04-30 | 2008-04-30 |
+| Rješenje Ustavnog suda Republike Hrvatske broj:U-I-1135/2007 i U-I-2306/2007 od 16. travnja 2008. | [`ustavni-sud/2008/u-i-1135-2007/`](ustavni-sud/2008/u-i-1135-2007/) | in force | 1 | 2008-05-09 | 2008-05-09 |
+| Rješenje Ustavnog suda Republike Hrvatske broj: U-I-1080/2002, U-I-520/2004 i U-I-2610/2005 od 12. ožujka 2008. | [`ustavni-sud/2008/u-i-1080-2002-nn53-2008/`](ustavni-sud/2008/u-i-1080-2002-nn53-2008/) | in force | 1 | 2008-05-09 | 2008-05-09 |
+| Rješenje Ustavnog suda Republike Hrvatske broj:U-I-1085/2000, U-I-23/2001, U-I-717/2001 i U-I-4025/2005 od 30. travnja 2008. i Izdvojeno mišljenje | [`ustavni-sud/2008/u-i-1085-2000/`](ustavni-sud/2008/u-i-1085-2000/) | in force | 1 | 2008-05-26 | 2008-05-26 |
+| Rješenje Ustavnog suda Republike Hrvatske broj:U-I-1201/2006, U-I-2866/2006 i U-I-3021/2006 od 30. travnja 2008. | [`ustavni-sud/2008/u-i-1201-2006/`](ustavni-sud/2008/u-i-1201-2006/) | in force | 1 | 2008-06-13 | 2008-06-13 |
+| Odluka Ustavnog suda Republike Hrvatske broj: U-I-1569/2004, U-I-1677/2004, U-I-1702/2004, U-I-1904/2004, U-I-2677/2004, U-I-305/2005, U-I-320/2005, U-I-464/2006, U-I-3351/2006 od 9. srpnja 2008. | [`ustavni-sud/2008/u-i-1569-2004-nn96-2008/`](ustavni-sud/2008/u-i-1569-2004-nn96-2008/) | in force | 1 | 2008-08-21 | 2008-08-21 |
+| Rješenje Ustavnog suda Republike Hrvatske broj: U-I-1812/2006 od 19. studenoga 2008. | [`ustavni-sud/2008/u-i-1812-2006/`](ustavni-sud/2008/u-i-1812-2006/) | in force | 1 | 2008-12-05 | 2008-12-05 |
+| Rješenje Ustavnog suda Republike Hrvatske broj: U-I-1393/2006, U-I-1472/2007, U-I-1703/2008 od 10. prosinca 2008. | [`ustavni-sud/2008/u-i-1393-2006/`](ustavni-sud/2008/u-i-1393-2006/) | in force | 1 | 2008-12-23 | 2008-12-23 |
+| Odluka Ustavnog suda Republike Hrvatske broj: U-I-1777/2003 od 17. ožujka 2009. | [`ustavni-sud/2009/u-i-1777-2003/`](ustavni-sud/2009/u-i-1777-2003/) | in force | 1 | 2009-03-27 | 2009-03-27 |
+| Rješenje Ustavnog suda Republike Hrvatske broj: U-I-188/2005 od 21. travnja 2009. | [`ustavni-sud/2009/u-i-188-2005/`](ustavni-sud/2009/u-i-188-2005/) | in force | 1 | 2009-05-15 | 2009-05-15 |
+| Odluka Ustavnog suda Republike Hrvatske broj: U-I-2012/2007, U-I-2013/2007 od 17. lipnja 2009. | [`ustavni-sud/2009/u-i-2012-2007/`](ustavni-sud/2009/u-i-2012-2007/) | in force | 1 | 2009-07-22 | 2009-07-22 |
+| Rješenje Ustavnog suda Republike Hrvatske broj: U-I-1746/2006 od 17. lipnja 2009. | [`ustavni-sud/2009/u-i-1746-2006/`](ustavni-sud/2009/u-i-1746-2006/) | in force | 1 | 2009-07-22 | 2009-07-22 |
+| Rješenje Ustavnog suda Republike Hrvatske broj: U-I-2489/2004, U-I-4342/2004 od 29. rujna 2009. | [`ustavni-sud/2009/u-i-2489-2004/`](ustavni-sud/2009/u-i-2489-2004/) | in force | 1 | 2009-10-22 | 2009-10-22 |
+| Rješenje Ustavnog suda Republike Hrvatske broj: U-I-1823/2006 od 16. studenoga 2009. | [`ustavni-sud/2009/u-i-1823-2006/`](ustavni-sud/2009/u-i-1823-2006/) | in force | 1 | 2009-12-09 | 2009-12-09 |
+| Odluka i Rješenje Ustavnog suda Republike Hrvatske broj: U-I-1988/1988 i dr. od 17. ožujka 2010. | [`ustavni-sud/2010/u-i-1988-1988/`](ustavni-sud/2010/u-i-1988-1988/) | in force | 1 | 2010-04-02 | 2010-04-02 |
+| Rješenje Ustavnog suda Republike Hrvatske broj: U-I-1583/2000, U-I-559/2001 od 24. ožujka 2010 . | [`ustavni-sud/2010/u-i-1583-2000/`](ustavni-sud/2010/u-i-1583-2000/) | in force | 1 | 2010-04-16 | 2010-04-16 |
+| Rješenje Ustavnog suda Republike Hrvatske broj: U-I-2305/2006, U-I-418/2007, U-I-5481/2008 od 24. ožujka 2010. | [`ustavni-sud/2010/u-i-2305-2006/`](ustavni-sud/2010/u-i-2305-2006/) | in force | 1 | 2010-04-16 | 2010-04-16 |
+| Odluka i Rješenje Ustavnog suda Republike Hrvatske broj: U-I-1029/2007, U-I-1030/2007 od 7. travnja 2010. | [`ustavni-sud/2010/u-i-1029-2007/`](ustavni-sud/2010/u-i-1029-2007/) | in force | 1 | 2010-04-19 | 2010-04-19 |
+| Rješenje Ustavnog suda Republike Hrvatske broj: U-I-191/2001 od 30. ožujka 2010. | [`ustavni-sud/2010/u-i-191-2001/`](ustavni-sud/2010/u-i-191-2001/) | in force | 1 | 2010-04-19 | 2010-04-19 |
+| Rješenje Ustavnog suda Republike Hrvatske broj: U-I-1267/2006 i dr. od 7. travnja 2010. | [`ustavni-sud/2010/u-i-1267-2006/`](ustavni-sud/2010/u-i-1267-2006/) | in force | 1 | 2010-04-19 | 2010-04-19 |
+| Rješenje Ustavnog suda Republike Hrvatske broj: U-I-1572/2006 i U-I-3796/2007 od 19. svibnja 2010. | [`ustavni-sud/2010/u-i-1572-2006/`](ustavni-sud/2010/u-i-1572-2006/) | in force | 1 | 2010-06-11 | 2010-06-11 |
+| Rješenje Ustavnog suda Republike Hrvatske broj: U-I-220/2008 od 8. prosinca 2010. | [`ustavni-sud/2010/u-i-220-2008/`](ustavni-sud/2010/u-i-220-2008/) | in force | 1 | 2010-12-17 | 2010-12-17 |
+| Rješenje Ustavnog suda Republike Hrvatske, broj: U-I-1477/2007, U-I-1893/2010 od 15. veljače 2011. | [`ustavni-sud/2011/u-i-1477-2007/`](ustavni-sud/2011/u-i-1477-2007/) | in force | 1 | 2011-02-28 | 2011-02-28 |
+| Rješenje Ustavnog suda Republike Hrvatske broj: U-I-2064/2007, U-I-2368/2010 od 1. ožujka 2011. | [`ustavni-sud/2011/u-i-2064-2007/`](ustavni-sud/2011/u-i-2064-2007/) | in force | 1 | 2011-03-11 | 2011-03-11 |
+| Rješenje Ustavnog suda Republike Hrvatske, broj: U-I-2057/2009, U-I-6446/2010 od 30. ožujka 2011. | [`ustavni-sud/2011/u-i-2057-2009/`](ustavni-sud/2011/u-i-2057-2009/) | in force | 1 | 2011-04-13 | 2011-04-13 |
+| Rješenje Ustavnog suda Republike Hrvatske broj: U-I-2168/2007 od 14. lipnja 2011. | [`ustavni-sud/2011/u-i-2168-2007/`](ustavni-sud/2011/u-i-2168-2007/) | in force | 1 | 2011-07-01 | 2011-07-01 |
+| Odluka Ustavnog suda Republike Hrvatske broj: U-I-1162/2008 od 28. lipnja 2011. | [`ustavni-sud/2011/u-i-1162-2008/`](ustavni-sud/2011/u-i-1162-2008/) | in force | 1 | 2011-07-07 | 2011-07-07 |
+| Rješenje Ustavnog suda Republike Hrvatske broj: U-I-1991/2006 i U-I-3067/2007 od 14. lipnja 2011. | [`ustavni-sud/2011/u-i-1991-2006/`](ustavni-sud/2011/u-i-1991-2006/) | in force | 1 | 2011-07-07 | 2011-07-07 |
+| Odluka Ustavnog suda Republike Hrvatske broj: U-I-120/2011 i dr. od 29. srpnja 2011. | [`ustavni-sud/2011/u-i-120-2011/`](ustavni-sud/2011/u-i-120-2011/) | in force | 1 | 2011-08-10 | 2011-08-10 |
+| Rješenje Ustavnog suda Republike Hrvatske broj: U-I-2172/2008 i U-I-2200/2008 od 13. rujna 2011. | [`ustavni-sud/2011/u-i-2172-2008/`](ustavni-sud/2011/u-i-2172-2008/) | in force | 1 | 2011-09-23 | 2011-09-23 |
+| Rješenje Ustavnog suda Republike Hrvatske broj: U-I-1356/2011 od 22. studenoga 2011. | [`ustavni-sud/2011/u-i-1356-2011/`](ustavni-sud/2011/u-i-1356-2011/) | in force | 1 | 2011-12-15 | 2011-12-15 |
+| Odluka Ustavnog suda Republike Hrvatske broj: U-I-1925/2008 od 29. svibnja 2012. | [`ustavni-sud/2012/u-i-1925-2008/`](ustavni-sud/2012/u-i-1925-2008/) | in force | 1 | 2012-06-15 | 2012-06-15 |
+| Odluka i Rješenje Ustavnog suda Republike Hrvatske broj: U-I-1408/2010 i dr. od 29. svibnja 2012. | [`ustavni-sud/2012/u-i-1408-2010/`](ustavni-sud/2012/u-i-1408-2010/) | in force | 1 | 2012-06-26 | 2012-06-26 |
+| Rješenje Ustavnog suda Republike Hrvatske broj: U-I-2186/2008 od 29. svibnja 2012. | [`ustavni-sud/2012/u-i-2186-2008/`](ustavni-sud/2012/u-i-2186-2008/) | in force | 1 | 2012-06-26 | 2012-06-26 |
+| Odluka Ustavnog suda Republike Hrvatske broj: U-I-1988/2011 i dr. od 19. lipnja 2012. | [`ustavni-sud/2012/u-i-1988-2011/`](ustavni-sud/2012/u-i-1988-2011/) | in force | 1 | 2012-07-18 | 2012-07-18 |
+| Odluka i Rješenje Ustavnog suda Republike Hrvatske Broj: U-I-2414/2011, U-I-3890/2011, U-I-4720/2012 od 7. studenoga 2012. | [`ustavni-sud/2012/u-i-2414-2011/`](ustavni-sud/2012/u-i-2414-2011/) | in force | 1 | 2012-11-16 | 2012-11-16 |
+| Rješenje Ustavnog suda Republike Hrvatske broj: U-I-2385/2011 od 5. ožujka 2013. | [`ustavni-sud/2013/u-i-2385-2011/`](ustavni-sud/2013/u-i-2385-2011/) | in force | 1 | 2013-03-15 | 2013-03-15 |
+| Rješenje Ustavnog suda Republike Hrvatske broj: U-I-1457/2013 od 11. travnja 2013. | [`ustavni-sud/2013/u-i-1457-2013/`](ustavni-sud/2013/u-i-1457-2013/) | in force | 1 | 2013-04-16 | 2013-04-16 |
+| Odluka Ustavnog suda Republike Hrvatske o provedenim izborima | [`ustavni-sud/2013/sut-a-7-2013/`](ustavni-sud/2013/sut-a-7-2013/) | in force | 1 | 2013-05-03 | 2013-05-03 |
+| Odluka Ustavnog suda Republike Hrvatske broj: U-I-2470/2010 i dr. od 9. srpnja 2013. | [`ustavni-sud/2013/u-i-2470-2010/`](ustavni-sud/2013/u-i-2470-2010/) | in force | 1 | 2013-07-31 | 2013-07-31 |
+| Priopćenje Ustavnog suda Republike Hrvatske o narodnom ustavotvornom referendumu o definiciji braka broj: SuS-1/2013 od 14. studenoga 2013. | [`ustavni-sud/2013/sus-1-2013/`](ustavni-sud/2013/sus-1-2013/) | in force | 1 | 2013-11-18 | 2013-11-18 |
+| Odluka Ustavnog suda Republike Hrvatske broj: U-I-1678/2013 od 19. prosinca 2013. | [`ustavni-sud/2014/u-i-1678-2013/`](ustavni-sud/2014/u-i-1678-2013/) | in force | 1 | 2014-02-03 | 2014-02-03 |
+| Rješenje Ustavnog suda Republike Hrvatske broj: U-I-2464/2010 i U-I-1003/2011 od 30. siječnja 2014. | [`ustavni-sud/2014/u-i-2464-2010/`](ustavni-sud/2014/u-i-2464-2010/) | in force | 1 | 2014-02-25 | 2014-02-25 |
+| Odluka Ustavnog suda Republike Hrvatske broj: SuT-A-7/2014 od 16. lipnja 2014. | [`ustavni-sud/2014/sut-a-7-2014/`](ustavni-sud/2014/sut-a-7-2014/) | in force | 1 | 2014-06-24 | 2014-06-24 |
+| Izvješće Ustavnog suda Republike Hrvatske o zakonodavnoj praksi uzastopnog višegodišnjeg derogiranja priznatih prava | [`ustavni-sud/2014/nn-93-2014-1882/`](ustavni-sud/2014/nn-93-2014-1882/) | in force | 1 | 2014-07-30 | 2014-07-30 |
+| Rješenje Ustavnog suda Republike Hrvatske broj: U-I-1625/2014 i dr. od 18. srpnja 2014. | [`ustavni-sud/2014/u-i-1625-2014/`](ustavni-sud/2014/u-i-1625-2014/) | in force | 1 | 2014-08-18 | 2014-08-18 |
+| Rješenje Ustavnog suda Republike Hrvatske broj: U-I-1523/2011 od 12. kolovoza 2014. | [`ustavni-sud/2014/u-i-1523-2011/`](ustavni-sud/2014/u-i-1523-2011/) | in force | 1 | 2014-08-20 | 2014-08-20 |
+| Rješenje Ustavnog suda Republike Hrvatske broj: U-I-2018/2013 i dr. od 4. studenoga 2014. | [`ustavni-sud/2014/u-i-2018-2013/`](ustavni-sud/2014/u-i-2018-2013/) | in force | 1 | 2014-11-26 | 2014-11-26 |
+| Odluka Ustavnog suda Republike Hrvatske broj: SuT-A-2/2015 od 9. veljače 2015. | [`ustavni-sud/2015/sut-a-2-2015/`](ustavni-sud/2015/sut-a-2-2015/) | in force | 1 | 2015-02-13 | 2015-02-13 |
+| Odluka i Rješenje Ustavnog suda Republike Hrvatske broj: U-I-1625/2014 i dr. od 30. ožujka 2015. | [`ustavni-sud/2015/u-i-1625-2014-nn40-2015/`](ustavni-sud/2015/u-i-1625-2014-nn40-2015/) | in force | 1 | 2015-04-10 | 2015-04-10 |
+| Rješenje Ustavnog suda Republike Hrvatske broj: U-I-1716/2015 od 24. srpnja 2015. | [`ustavni-sud/2015/u-i-1716-2015/`](ustavni-sud/2015/u-i-1716-2015/) | in force | 1 | 2015-08-14 | 2015-08-14 |
+| Odluka i Rješenje Ustavnog suda Republike Hrvatske broj: U-I-1397/2015 od 24. rujna 2015. | [`ustavni-sud/2015/u-i-1397-2015/`](ustavni-sud/2015/u-i-1397-2015/) | in force | 1 | 2015-09-30 | 2015-09-30 |
+| Odluka i Rješenje Ustavnog suda Republike Hrvatske broj: U-I-2036/2012 od 21. prosinca 2015. | [`ustavni-sud/2015/u-i-2036-2012/`](ustavni-sud/2015/u-i-2036-2012/) | in force | 1 | 2015-12-24 | 2015-12-24 |
+| Odluka Ustavnog suda Republike Hrvatske broj: SuS-2/2016 od 26. rujna 2016. | [`ustavni-sud/2016/sus-2-2016/`](ustavni-sud/2016/sus-2-2016/) | in force | 1 | 2016-09-26 | 2016-09-26 |
+| Odluka Ustavnog suda Republike Hrvatske broj: U-I-1962/2008 od 27. rujna 2016. | [`ustavni-sud/2016/u-i-1962-2008/`](ustavni-sud/2016/u-i-1962-2008/) | in force | 1 | 2016-11-02 | 2016-11-02 |
+| Rješenje Ustavnog suda Republike Hrvatske broj: U-I-2509/2016 od 6. prosinca 2016. | [`ustavni-sud/2017/u-i-2509-2016/`](ustavni-sud/2017/u-i-2509-2016/) | in force | 1 | 2017-01-11 | 2017-01-11 |
+| Rješenje Ustavnog suda Republike Hrvatske broj: U-I-246/2017. i dr. od 4. travnja 2017. | [`ustavni-sud/2017/u-i-246-2017/`](ustavni-sud/2017/u-i-246-2017/) | in force | 1 | 2017-04-12 | 2017-04-12 |
+| Rješenje Ustavnog suda Republike Hrvatske broj: U-I-1898/2014 od 4. travnja 2017. | [`ustavni-sud/2017/u-i-1898-2014/`](ustavni-sud/2017/u-i-1898-2014/) | in force | 1 | 2017-05-10 | 2017-05-10 |
+| Odluka i Rješenje Ustavnog suda Republike Hrvatske broj: U-I-252/1996 i dr. od 6. lipnja 2017. i tri Izdvojena mišljenja | [`ustavni-sud/2017/u-i-252-1996/`](ustavni-sud/2017/u-i-252-1996/) | in force | 1 | 2017-06-23 | 2017-06-23 |
+| Odluka Ustavnog suda Republike Hrvatske broj: U-I-1574/2016 i dr. od 30. siječnja i Izdvojeno mišljenje sudaca | [`ustavni-sud/2018/u-i-1574-2016/`](ustavni-sud/2018/u-i-1574-2016/) | in force | 1 | 2018-02-23 | 2018-02-23 |
+| Rješenje Ustavnog suda Republike Hrvatske broj: U-I-1457/2013. i dr. od 27. veljače 2018. | [`ustavni-sud/2018/u-i-1457-2013-nn27-2018/`](ustavni-sud/2018/u-i-1457-2013-nn27-2018/) | in force | 1 | 2018-03-21 | 2018-03-21 |
+| Rješenje Ustavnog suda Republike Hrvatske broj: U-I-1694/2017 i dr. od 2. svibnja 2018. i dva izdvojena mišljenja | [`ustavni-sud/2018/u-i-1694-2017/`](ustavni-sud/2018/u-i-1694-2017/) | in force | 1 | 2018-05-11 | 2018-05-11 |
+| Rješenje Ustavnog suda Republike Hrvatske broj: U-I-2502/2004 i dr. od 30. listopada 2018. | [`ustavni-sud/2018/u-i-2502-2004/`](ustavni-sud/2018/u-i-2502-2004/) | in force | 1 | 2018-11-23 | 2018-11-23 |
+| Rješenje Ustavnog suda Republike Hrvatske broj: U-I-1553/2013 i dr. od 16. listopada 2018. | [`ustavni-sud/2018/u-i-1553-2013/`](ustavni-sud/2018/u-i-1553-2013/) | in force | 1 | 2018-11-09 | 2018-11-09 |
+| Odluka Ustavnog suda Republike Hrvatske broj: SuT-A-3/2019 od 11. lipnja 2019. | [`ustavni-sud/2019/sut-a-3-2019/`](ustavni-sud/2019/sut-a-3-2019/) | in force | 1 | 2019-06-12 | 2019-06-12 |
+| Odluka Ustavnog suda Republike Hrvatske broj: U-I-1420/2016 od 26. lipnja 2019. | [`ustavni-sud/2019/u-i-1420-2016/`](ustavni-sud/2019/u-i-1420-2016/) | in force | 1 | 2019-08-01 | 2019-08-01 |
+| Rješenje Ustavnog suda Republike Hrvatske broj: U-I-1625/2018 od 18. lipnja 2019. | [`ustavni-sud/2019/u-i-1625-2018/`](ustavni-sud/2019/u-i-1625-2018/) | in force | 1 | 2019-08-02 | 2019-08-02 |
+| Odluka Ustavnog suda Republike Hrvatske broj: SuT-A-1/2020 od 14. siječnja 2020. | [`ustavni-sud/2020/sut-a-1-2020/`](ustavni-sud/2020/sut-a-1-2020/) | in force | 1 | 2020-01-16 | 2020-01-16 |
+| Odluka Ustavnog suda Republike Hrvatske broj: SuT-A-11/2020 od 16. srpnja 2020. | [`ustavni-sud/2020/sut-a-11-2020/`](ustavni-sud/2020/sut-a-11-2020/) | in force | 1 | 2020-07-16 | 2020-07-16 |
+| Rješenje Ustavnog suda Republike Hrvatske broj: U-I-1372/2020 i dr. od 14. rujna 2020. i pet izdvojenih mišljenja sudaca | [`ustavni-sud/2020/u-i-1372-2020/`](ustavni-sud/2020/u-i-1372-2020/) | in force | 1 | 2020-09-25 | 2020-09-25 |
+| Odluka Ustavnog suda Republike Hrvatske broj: U-I-2282/2014 i dr. od 3. studenoga 2020. | [`ustavni-sud/2020/u-i-2282-2014/`](ustavni-sud/2020/u-i-2282-2014/) | in force | 1 | 2020-12-09 | 2020-12-09 |
+| Odluka i Rješenje Ustavnog suda Republike Hrvatske broj: U-I-2280/2019 i dr. od 13. srpnja 2021. | [`ustavni-sud/2021/u-i-2280-2019/`](ustavni-sud/2021/u-i-2280-2019/) | in force | 1 | 2021-08-11 | 2021-08-11 |
+| Odluka Ustavnog suda Republike Hrvatske broj: U-I-2073/2019 od 16. studenoga 2021. | [`ustavni-sud/2021/u-i-2073-2019/`](ustavni-sud/2021/u-i-2073-2019/) | in force | 1 | 2021-11-24 | 2021-11-24 |
+| Rješenje Ustavnog suda Republike Hrvatske broj: U-I-2215/2022 i dr. od 16. svibnja 2022. | [`ustavni-sud/2022/u-i-2215-2022/`](ustavni-sud/2022/u-i-2215-2022/) | in force | 1 | 2022-05-27 | 2022-05-27 |
+| Odluka i Rješenje Ustavnog suda Republike Hrvatske broj: U-I-2215/2022 i dr. od 7. veljače 2023. | [`ustavni-sud/2023/u-i-2215-2022-nn16-2023/`](ustavni-sud/2023/u-i-2215-2022-nn16-2023/) | in force | 1 | 2023-02-13 | 2023-02-13 |
+| Odluka Ustavnog suda Republike Hrvatske broj: U-I-242/2023 i dr. od 23. svibnja 2023. i dva izdvojena mišljenja sudaca | [`ustavni-sud/2023/u-i-242-2023/`](ustavni-sud/2023/u-i-242-2023/) | in force | 1 | 2023-06-14 | 2023-06-14 |
+| Odluka Ustavnog suda Republike Hrvatske broj: U-I-1621/2023 od 6. veljače 2024. | [`ustavni-sud/2024/u-i-1621-2023/`](ustavni-sud/2024/u-i-1621-2023/) | in force | 1 | 2024-02-14 | 2024-02-14 |
+| Odluka Ustavnog suda Republike Hrvatske broj: SuT-A-9/2024 od 4. lipnja 2024. | [`ustavni-sud/2024/sut-a-9-2024/`](ustavni-sud/2024/sut-a-9-2024/) | in force | 1 | 2024-06-06 | 2024-06-06 |
+| Odluka Ustavnog suda Republike Hrvatske broj: SuT-A-16/2024 od 25. lipnja 2024. | [`ustavni-sud/2024/sut-a-16-2024/`](ustavni-sud/2024/sut-a-16-2024/) | in force | 1 | 2024-06-26 | 2024-06-26 |
+| Odluka Ustavnog suda Republike Hrvatske broj: SuT-A-1/2025 od 21. siječnja 2025. | [`ustavni-sud/2025/sut-a-1-2025/`](ustavni-sud/2025/sut-a-1-2025/) | in force | 1 | 2025-01-22 | 2025-01-22 |
 
 ## zakon (2968, of which 1580 amending acts)
 

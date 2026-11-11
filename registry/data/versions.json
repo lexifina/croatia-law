@@ -29342,6 +29342,66 @@
    ]
   },
   {
+   "slug": "uredba-1992-1720",
+   "path": "uredba/1992/1720",
+   "short": "Uredba o izmjenama i dopunama Zakona o porezu na promet proizvoda i usluga",
+   "title": "Uredba o izmjenama i dopunama Zakona o porezu na promet proizvoda i usluga",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1992/65/1720",
+   "versions": [
+    {
+     "from": "1992-10-10",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1992_10_65_1720.html",
+     "sha256": "b127f8a214142495fac8a6ff8298d6fdeb6f38d6b732409e0d5e65f0295f6f96"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-1992-1721",
+   "path": "uredba/1992/1721",
+   "short": "Uredba o državnim taksama na zgrade za odmor, odmarališta, cestovna motorna vozila i plovne objekte",
+   "title": "Uredba o državnim taksama na zgrade za odmor, odmarališta, cestovna motorna vozila i plovne objekte",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1992/65/1721",
+   "versions": [
+    {
+     "from": "1992-10-10",
+     "units": 20,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1992_10_65_1721.html",
+     "sha256": "6029beeba9a2d1a188fe680e81c9814214de0f2710ec8be3458595dd301a4679"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-1992-1722",
+   "path": "uredba/1992/1722",
+   "short": "Uredba o izvozu i uvozu robe od strane fizičkih osoba",
+   "title": "Uredba o izvozu i uvozu robe od strane fizičkih osoba",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1992/65/1722",
+   "versions": [
+    {
+     "from": "1992-10-10",
+     "units": 15,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1992_10_65_1722.html",
+     "sha256": "ae3bd49a5e17e93d20f76f317a7b4a7563ce87c8be475f29875a067eeacd4c7c"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-1992-1723",
+   "path": "uredba/1992/1723",
+   "short": "Uredba o izmjeni Zakona o slobodnim zonama",
+   "title": "Uredba o izmjeni Zakona o slobodnim zonama",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1992/65/1723",
+   "versions": [
+    {
+     "from": "1992-10-10",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1992_10_65_1723.html",
+     "sha256": "6f93672e47d9d0b111b1f46793677245fadc5c8bf2178e5ebe0d0140c06c44c6"
+    }
+   ]
+  },
+  {
    "slug": "uredba-1992-1724",
    "path": "uredba/1992/1724",
    "short": "Uredba o neprimjenjivanju Zakona o privremenim mjerama o iztnjenama i dopunama Zakona o vanjskotrgovinskom poslovanju",
@@ -29368,6 +29428,36 @@
      "units": 4,
      "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1992_10_65_1725.html",
      "sha256": "675c05f700000abddb1d3ac00723e6ffa822280119d49cfa7d47215291340d99"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-1992-1860",
+   "path": "uredba/1992/1860",
+   "short": "Uredba o Uredu za upravljanje imovinom Republike Hrvatske",
+   "title": "Uredba o Uredu za upravljanje imovinom Republike Hrvatske",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1992/70/1860",
+   "versions": [
+    {
+     "from": "1992-10-26",
+     "units": 11,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1992_10_70_1860.html",
+     "sha256": "2a45ab0e17b01ec4337d07cafe8951e82bbf345b6d504786c5489cc74cb64bd0"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-1992-1861",
+   "path": "uredba/1992/1861",
+   "short": "Uredba o Agenciji za obnovu",
+   "title": "Uredba o Agenciji za obnovu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1992/70/1861",
+   "versions": [
+    {
+     "from": "1992-10-26",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1992_10_70_1861.html",
+     "sha256": "18daf105e9f2ce5491a8eb02ba7190754b3f50bd9be38045c47142a215f9a5af"
     }
    ]
   },
@@ -29417,6 +29507,51 @@
    ]
   },
   {
+   "slug": "uredba-1992-1887",
+   "path": "uredba/1992/1887",
+   "short": "Uredba o statusu prognanika i izbjeglica",
+   "title": "Uredba o statusu prognanika i izbjeglica",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1992/71/1887",
+   "versions": [
+    {
+     "from": "1992-10-28",
+     "units": 12,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1992_10_71_1887.html",
+     "sha256": "d9b3d6bdbb8e6e383c122c1eb091533837464bc215f26f0b89a9c630469a0068"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-1992-1888",
+   "path": "uredba/1992/1888",
+   "short": "Uredba o plaćama",
+   "title": "Uredba o plaćama",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1992/71/1888",
+   "versions": [
+    {
+     "from": "1992-10-28",
+     "units": 15,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1992_10_71_1888.html",
+     "sha256": "c9d04c78d8916d7ef6bd6eee445a142b94bfc2d8c1e6047081ae91421c9acdad"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-1992-1889",
+   "path": "uredba/1992/1889",
+   "short": "Uredba o korištenju sredstava za subvencioniranje stanarine i podstanarine",
+   "title": "Uredba o korištenju sredstava za subvencioniranje stanarine i podstanarine",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1992/71/1889",
+   "versions": [
+    {
+     "from": "1992-10-28",
+     "units": 6,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1992_10_71_1889.html",
+     "sha256": "46e3fc957479e040197eaa2f3cbeca16a548467ce0d5fa993018d505c1d0c3f4"
+    }
+   ]
+  },
+  {
    "slug": "uredba-1992-1890",
    "path": "uredba/1992/1890",
    "short": "Uredba o dodjeljivanju stalnih novčanih nadoknada",
@@ -29428,6 +29563,36 @@
      "units": 10,
      "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1992_10_71_1890.html",
      "sha256": "1ffb1cd307ab8347542c658ebb03fd5e663a6b053ae2c4523c1392d237c9f34d"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-1992-1891",
+   "path": "uredba/1992/1891",
+   "short": "Uredba o pretvaranju deviznih depozita građana u javni dug Republike Hrvatske",
+   "title": "Uredba o pretvaranju deviznih depozita građana u javni dug Republike Hrvatske",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1992/71/1891",
+   "versions": [
+    {
+     "from": "1992-10-28",
+     "units": 20,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1992_10_71_1891.html",
+     "sha256": "c93fbb737f86f8cd1d298bbef97abf840308194e41f9cd2df92a8e02aacbef09"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-1992-1892",
+   "path": "uredba/1992/1892",
+   "short": "Uredba o upravljanju nacionalnim parkovima",
+   "title": "Uredba o upravljanju nacionalnim parkovima",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1992/71/1892",
+   "versions": [
+    {
+     "from": "1992-10-28",
+     "units": 18,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1992_10_71_1892.html",
+     "sha256": "d6ad1ab2812b3e4647734ef3ac987dc6c0a3473e3562ed0646242a3d96a0352e"
     }
    ]
   },
@@ -29477,6 +29642,21 @@
    ]
   },
   {
+   "slug": "uredba-1992-1896",
+   "path": "uredba/1992/1896",
+   "short": "Uredba o izmjeni i dopuni Uredbe o Uredu za prognanike i izbjeglice",
+   "title": "Uredba o izmjeni i dopuni Uredbe o Uredu za prognanike i izbjeglice",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1992/71/1896",
+   "versions": [
+    {
+     "from": "1992-10-28",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1992_10_71_1896.html",
+     "sha256": "44d8d12dfa8b061f8c432d52a68809803ed065ea3f2572cdb43aed20818b1b86"
+    }
+   ]
+  },
+  {
    "slug": "uredba-1992-1919",
    "path": "uredba/1992/1919",
    "short": "Uredba o odredivanju ratom ugroženih područja",
@@ -29488,6 +29668,36 @@
      "units": 5,
      "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1992_10_72_1919.html",
      "sha256": "19bfa4fffbdc3caa3dde5e9dd3a9de5e2981c84809e769ab5be3bca38cdad36c"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-1992-197",
+   "path": "uredba/1992/197",
+   "short": "Uredba o Uredu za suradnju i prihvaćanje mirovnih snaga UN u Republici Hrvatskoj",
+   "title": "Uredba o Uredu za suradnju i prihvaćanje mirovnih snaga UN u Republici Hrvatskoj",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1992/9/197",
+   "versions": [
+    {
+     "from": "1992-02-29",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1992_02_9_197.html",
+     "sha256": "d6324c898670e7647cc683d3925dd349e17446e8c21d7991ae790505cd0d60de"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-1992-1995",
+   "path": "uredba/1992/1995",
+   "short": "Uredba o prestanku važenja Uredbe o plaćama",
+   "title": "Uredba o prestanku važenja Uredbe o plaćama",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1992/76/1995",
+   "versions": [
+    {
+     "from": "1992-11-09",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1992_11_76_1995.html",
+     "sha256": "047a56e023a99829e9f28668ce893618f55d9f418a5e8ad7db2c541299e2c72b"
     }
    ]
   },
@@ -29507,6 +29717,21 @@
    ]
   },
   {
+   "slug": "uredba-1992-2025",
+   "path": "uredba/1992/2025",
+   "short": "Uredba o stavljanju u prekid prekršajnog postupka u predmetima po propisima o deviznom poslovanju koje je preuzela Republika Hrvatska",
+   "title": "Uredba o stavljanju u prekid prekršajnog postupka u predmetima po propisima o deviznom poslovanju koje je preuzela Republika Hrvatska",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1992/77/2025",
+   "versions": [
+    {
+     "from": "1992-11-13",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1992_11_77_2025.html",
+     "sha256": "1097548851d4b5e09fd98c9de7ad58d176c3bfe5ab260c67e283205d2f7d8fd1"
+    }
+   ]
+  },
+  {
    "slug": "uredba-1992-2026",
    "path": "uredba/1992/2026",
    "short": "Uredba o izmjeni i dopuni Uredbe o prostornom uređenju u ratom zahvaćenini područjima Republike Hrvatske",
@@ -29518,6 +29743,51 @@
      "units": 5,
      "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1992_11_77_2026.html",
      "sha256": "102833b53fdf9590dc5ac6a5ed1a172d1d885cbc0bb23211ce85bbc6fb8c5045"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-1992-2062",
+   "path": "uredba/1992/2062",
+   "short": "Uredba o posebnim uvjetima za obavljanje poslova međunarodnog otpremništva u svezi carinjenja robe",
+   "title": "Uredba o posebnim uvjetima za obavljanje poslova međunarodnog otpremništva u svezi carinjenja robe",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1992/79/2062",
+   "versions": [
+    {
+     "from": "1992-11-26",
+     "units": 20,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1992_11_79_2062.html",
+     "sha256": "ddbf7e529f83bf452e0be3ee5af57bbdd309e2365afbb32b0deb8619a7f663fa"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-1992-2063",
+   "path": "uredba/1992/2063",
+   "short": "Uredba o prometu i oporezivanju duhanskih prerađevina",
+   "title": "Uredba o prometu i oporezivanju duhanskih prerađevina",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1992/79/2063",
+   "versions": [
+    {
+     "from": "1992-11-26",
+     "units": 27,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1992_11_79_2063.html",
+     "sha256": "1d07f57f279036227f3a673654713eebe9b6cdfd56231e386b3f2de4e19c2777"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-1992-2091",
+   "path": "uredba/1992/2091",
+   "short": "Uredba o stavljanju izvan snage određenih odredbi Uredbe o radnim odnosima, zapošljavanju, socijalnoj skrbi, mirovinskom i invalidskom osiguranju, dječjem doplatku i zaštiti žrtava u slučaju ratnog st",
+   "title": "Uredba o stavljanju izvan snage određenih odredbi Uredbe o radnim odnosima, zapošljavanju, socijalnoj skrbi, mirovinskom i invalidskom osiguranju, dječjem doplatku i zaštiti žrtava u slučaju ratnog st",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1992/80/2091",
+   "versions": [
+    {
+     "from": "1992-11-27",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1992_11_80_2091.html",
+     "sha256": "2d6a1d315b8bd7125741aa754316ebd882e68534b6d60d1fe4d41e4cfeed0d23"
     }
    ]
   },
@@ -29552,6 +29822,36 @@
    ]
   },
   {
+   "slug": "uredba-1992-2107",
+   "path": "uredba/1992/2107",
+   "short": "Uredba o izmjeni i dopuni Uredbe o organizaciji, radu i djelokrugu sudbene vlasti u slučaju ratnog stanja ili neposredne ugroženosti neovisnosti i jedinstvenosti Republike Hrvatske",
+   "title": "Uredba o izmjeni i dopuni Uredbe o organizaciji, radu i djelokrugu sudbene vlasti u slučaju ratnog stanja ili neposredne ugroženosti neovisnosti i jedinstvenosti Republike Hrvatske",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1992/81/2107",
+   "versions": [
+    {
+     "from": "1992-11-30",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1992_11_81_2107.html",
+     "sha256": "efe7ac70b88fc1bc1f95914fcd41d585cb88a1103df707f85f98e0915afd8f56"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-1992-2184",
+   "path": "uredba/1992/2184",
+   "short": "Uredba o načinu likvidacije poslovanja glavnih filijala Jugobanke d. d: Beograd koje su poslovale na teritoriju Republike Hrvatske",
+   "title": "Uredba o načinu likvidacije poslovanja glavnih filijala Jugobanke d. d: Beograd koje su poslovale na teritoriju Republike Hrvatske",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1992/84/2184",
+   "versions": [
+    {
+     "from": "1992-12-04",
+     "units": 10,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1992_12_84_2184.html",
+     "sha256": "60dcf40c37ff6f4770e1f4d49742c0feeac150dc2968a7c80c87d5bbba2cc8f8"
+    }
+   ]
+  },
+  {
    "slug": "uredba-1992-22",
    "path": "uredba/1992/22",
    "short": "Uredba o osnivanju Brodarskog instituta",
@@ -29578,6 +29878,51 @@
      "units": 4,
      "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1992_12_86_2211.html",
      "sha256": "29a5acb7a469036ead644c740395643badc7c7ca867ee9a5447c0fe7dee42bc1"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-1992-2221",
+   "path": "uredba/1992/2221",
+   "short": "Uredba o načinu i uvjetima podmirivanja obveza po kreditima međunarodnih financijskih organizacija odobrenim korisnicima iz Republike Hrvatske",
+   "title": "Uredba o načinu i uvjetima podmirivanja obveza po kreditima međunarodnih financijskih organizacija odobrenim korisnicima iz Republike Hrvatske",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1992/86/2221",
+   "versions": [
+    {
+     "from": "1992-12-12",
+     "units": 12,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1992_12_86_2221.html",
+     "sha256": "3668a43bc7d162395730e9d7f22c159a494e59ad4c2ee1a28f806409cc108446"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-1992-2222",
+   "path": "uredba/1992/2222",
+   "short": "Uredba o izmjenama i dopunama Zakona o igrama na sreću i zabavnim igrama",
+   "title": "Uredba o izmjenama i dopunama Zakona o igrama na sreću i zabavnim igrama",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1992/86/2222",
+   "versions": [
+    {
+     "from": "1992-12-12",
+     "units": 30,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1992_12_86_2222.html",
+     "sha256": "7a2e21e088c2af1b9297972cb0f4b9aef869b53ba28cfa4a40ed2de3b158f3c2"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-1992-2233",
+   "path": "uredba/1992/2233",
+   "short": "Uredba o izmjeni Zakona o pripadnosti javnih prihoda Republici Hrvatskoj i jedinicama lokalne samouprave i stopama republičkih poreza",
+   "title": "Uredba o izmjeni Zakona o pripadnosti javnih prihoda Republici Hrvatskoj i jedinicama lokalne samouprave i stopama republičkih poreza",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1992/87/2233",
+   "versions": [
+    {
+     "from": "1992-12-18",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1992_12_87_2233.html",
+     "sha256": "eec50f2fe94824f9923d96a76d579eb1f8c41e967bd3efda575b6fad2a97fb0d"
     }
    ]
   },
@@ -29627,6 +29972,36 @@
    ]
   },
   {
+   "slug": "uredba-1992-254",
+   "path": "uredba/1992/254",
+   "short": "Uredba o porezu na promet proizvoda i usluga",
+   "title": "Uredba o porezu na promet proizvoda i usluga",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1992/12/254",
+   "versions": [
+    {
+     "from": "1992-03-06",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1992_03_12_254.html",
+     "sha256": "887e33f69654510a4d88c5c3a88415568017a994340191fdaa6f7f6894e7b363"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-1992-255",
+   "path": "uredba/1992/255",
+   "short": "Uredba o osnivanju Lutrije Hrvatske d. o. o.",
+   "title": "Uredba o osnivanju Lutrije Hrvatske d. o. o.",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1992/12/255",
+   "versions": [
+    {
+     "from": "1992-03-06",
+     "units": 15,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1992_03_12_255.html",
+     "sha256": "08c42ace6f2370d4390c4e3be3a687ee86f605b1c1b42a67f2b6bede8cb64f6f"
+    }
+   ]
+  },
+  {
    "slug": "uredba-1992-256",
    "path": "uredba/1992/256",
    "short": "Uredba o izdavanju obveznica za obnovu Republike Hrvatske",
@@ -29642,6 +30017,51 @@
    ]
   },
   {
+   "slug": "uredba-1992-257",
+   "path": "uredba/1992/257",
+   "short": "Uredba o izmjeni i dopuni Uredbe o pretvaranju deviznih depozita građana kod banaka u javni dug Republike Hrvatske",
+   "title": "Uredba o izmjeni i dopuni Uredbe o pretvaranju deviznih depozita građana kod banaka u javni dug Republike Hrvatske",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1992/12/257",
+   "versions": [
+    {
+     "from": "1992-03-06",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1992_03_12_257.html",
+     "sha256": "6d57f40fd678c7491c286b65941c88181fd282bb596c59ad9703423c7c563926"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-1992-276",
+   "path": "uredba/1992/276",
+   "short": "Uredba o poslovima kontrole letenja koji se obavljaju po nalogu Ministarstva obrane",
+   "title": "Uredba o poslovima kontrole letenja koji se obavljaju po nalogu Ministarstva obrane",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1992/13/276",
+   "versions": [
+    {
+     "from": "1992-03-13",
+     "units": 10,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1992_03_13_276.html",
+     "sha256": "25777a57839279ab054d9b47e1df726cfefbf870cbb5aeacb39551ebd7c89946"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-1992-303",
+   "path": "uredba/1992/303",
+   "short": "Uredba o izmjenama i dopunama Uredbe o administrativnim taksama",
+   "title": "Uredba o izmjenama i dopunama Uredbe o administrativnim taksama",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1992/14/303",
+   "versions": [
+    {
+     "from": "1992-03-20",
+     "units": 9,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1992_03_14_303.html",
+     "sha256": "06be8d0d5c4a25d666fa8fb4911e199a91070789570cbed4bb03b2d0e27d0e65"
+    }
+   ]
+  },
+  {
    "slug": "uredba-1992-322",
    "path": "uredba/1992/322",
    "short": "Uredba o preuzimanju sredstava Agencije Federacije za osiguranje depozita i sanaciju banaka",
@@ -29653,6 +30073,51 @@
      "units": 6,
      "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1992_03_15_322.html",
      "sha256": "38b8ee5501e60e3a37b97aec0c19c0ea403d716afcc321d36924658b6db23516"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-1992-4",
+   "path": "uredba/1992/4",
+   "short": "Uredba o prestanku važenja Odluke o načinu i uvjetima korištenja primarne emisije i osiguranju likvidnosti banaka",
+   "title": "Uredba o prestanku važenja Odluke o načinu i uvjetima korištenja primarne emisije i osiguranju likvidnosti banaka",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1992/1/4",
+   "versions": [
+    {
+     "from": "1992-01-14",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1992_01_1_4.html",
+     "sha256": "421c1d4b6ac3f16c2c275e784f6a0dd00e024299824c603b8d1e42b332bc71e9"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-1992-40",
+   "path": "uredba/1992/40",
+   "short": "Uredba o osnivanju Poduzeća \"Plovput\" Split",
+   "title": "Uredba o osnivanju Poduzeća \"Plovput\" Split",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1992/3/40",
+   "versions": [
+    {
+     "from": "1992-01-22",
+     "units": 19,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1992_01_3_40.html",
+     "sha256": "cd7769d05840778ad70063e966d54c377d5a48de4a80efebf559f6c83607f13b"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-1992-41",
+   "path": "uredba/1992/41",
+   "short": "Uredba o korištenju doplatnih poštanskih maraka u poštanskom prometu kao redovnih poštanskih maraka",
+   "title": "Uredba o korištenju doplatnih poštanskih maraka u poštanskom prometu kao redovnih poštanskih maraka",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1992/3/41",
+   "versions": [
+    {
+     "from": "1992-01-22",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1992_01_3_41.html",
+     "sha256": "21f24e01ee82efc0ea5766c251694d2e7d1c1cbb5375f7da5715b11ec28fd38d"
     }
    ]
   },
@@ -29732,6 +30197,21 @@
    ]
   },
   {
+   "slug": "uredba-1992-574",
+   "path": "uredba/1992/574",
+   "short": "Uredba o uvjetima i načinu održavanja likvidnosti u plaćanjima prema inozemstvu",
+   "title": "Uredba o uvjetima i načinu održavanja likvidnosti u plaćanjima prema inozemstvu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1992/24/574",
+   "versions": [
+    {
+     "from": "1992-04-25",
+     "units": 16,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1992_04_24_574.html",
+     "sha256": "e27bf5980a9d6a9151d68f7a3188533a9076dbd8f8f701b6b12c1a151a71dd9c"
+    }
+   ]
+  },
+  {
    "slug": "uredba-1992-586",
    "path": "uredba/1992/586",
    "short": "Uredba o stavljanju izvan snage uredaba iz oblasti pravosuđa za vrijeme ratnog stanja ili neposredne ugroženosti neovisnosti i jedinstvenosti Republike Hrvatske",
@@ -29777,6 +30257,21 @@
    ]
   },
   {
+   "slug": "uredba-1992-615",
+   "path": "uredba/1992/615",
+   "short": "Uredba o izvozu i uvozu robe od strane fizičkih osoba",
+   "title": "Uredba o izvozu i uvozu robe od strane fizičkih osoba",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1992/26/615",
+   "versions": [
+    {
+     "from": "1992-05-05",
+     "units": 15,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1992_05_26_615.html",
+     "sha256": "d70c5f061be82f64370ddecc6728657b617828f39c61b8b7f86e518f3e6760fe"
+    }
+   ]
+  },
+  {
    "slug": "uredba-1992-616",
    "path": "uredba/1992/616",
    "short": "Uredba o kontinuiranom prijeboju obveza i potraživanja pravnih osoba",
@@ -29788,6 +30283,21 @@
      "units": 7,
      "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1992_05_26_616.html",
      "sha256": "dd325288e51bb1e898ac5314a36d53e039a55acebbff4b6683221bce4ec3de97"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-1992-617",
+   "path": "uredba/1992/617",
+   "short": "Uredba o neprimjenjivanju Zakona o privremenim mjerama o izmjenama i dopunama Zakona o vanjskotrgovinskom poslovanju",
+   "title": "Uredba o neprimjenjivanju Zakona o privremenim mjerama o izmjenama i dopunama Zakona o vanjskotrgovinskom poslovanju",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1992/26/617",
+   "versions": [
+    {
+     "from": "1992-05-05",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1992_05_26_617.html",
+     "sha256": "dc4fd4ef5058cfea6c0c6e59fd7be2f92d3eb4a3a72d7df6173104aebcd5147a"
     }
    ]
   },
@@ -29833,6 +30343,21 @@
      "units": 4,
      "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1992_02_5_75.html",
      "sha256": "2050193561024b2ec849fcb825f6b004db8fe13e6d17057af4375d56a3e37e0f"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-1992-752",
+   "path": "uredba/1992/752",
+   "short": "Uredba o dolasku i boravku stranih jahti i čamaca namijenjenih razonodi ili športu u obalnom moru, rijekama i jezerima Republike Hrvatske",
+   "title": "Uredba o dolasku i boravku stranih jahti i čamaca namijenjenih razonodi ili športu u obalnom moru, rijekama i jezerima Republike Hrvatske",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1992/31/752",
+   "versions": [
+    {
+     "from": "1992-06-09",
+     "units": 15,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1992_06_31_752.html",
+     "sha256": "6a41e484c39548dd4517bc75bdfdaecec1450fff5b385ae6cf1477c4911148f0"
     }
    ]
   },
@@ -29912,6 +30437,36 @@
    ]
   },
   {
+   "slug": "uredba-1992-834",
+   "path": "uredba/1992/834",
+   "short": "Uredba o stavljanju izvan snage Uredbe o odličjima za ratne zasluge",
+   "title": "Uredba o stavljanju izvan snage Uredbe o odličjima za ratne zasluge",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1992/33/834",
+   "versions": [
+    {
+     "from": "1992-06-12",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1992_06_33_834.html",
+     "sha256": "0201b44bcbe433b99eff29448183d317fe39349e8844446ab6224c76dd8dccdf"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-1992-923",
+   "path": "uredba/1992/923",
+   "short": "Uredba o načinu utvrđivanja cijene stana i garaže",
+   "title": "Uredba o načinu utvrđivanja cijene stana i garaže",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1992/35/923",
+   "versions": [
+    {
+     "from": "1992-06-19",
+     "units": 21,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1992_06_35_923.html",
+     "sha256": "3714a99750e3160e56b9c41f1a13152b19fe75b69ed2813584d010f16befe529"
+    }
+   ]
+  },
+  {
    "slug": "uredba-1992-93",
    "path": "uredba/1992/93",
    "short": "Uredba o obveznom prebijanju obveza i potraživanja pravnih osoba u Republici Hrvatskoj s pravnimosobama u Republici Makedoniji",
@@ -29942,6 +30497,66 @@
    ]
   },
   {
+   "slug": "uredba-1992-94",
+   "path": "uredba/1992/94",
+   "short": "Uredba o privremenom reguliranju uvoza rabljenih gospodarskih vozila",
+   "title": "Uredba o privremenom reguliranju uvoza rabljenih gospodarskih vozila",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1992/6/94",
+   "versions": [
+    {
+     "from": "1992-02-07",
+     "units": 9,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1992_02_6_94.html",
+     "sha256": "748704f23bea199051f53f1987a390771295b004924ee23c267ec0cd30a89588"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-1992-95",
+   "path": "uredba/1992/95",
+   "short": "Uredba o dodjeljivanju stalnih novčanih nadoknada",
+   "title": "Uredba o dodjeljivanju stalnih novčanih nadoknada",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1992/6/95",
+   "versions": [
+    {
+     "from": "1992-02-07",
+     "units": 11,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1992_02_6_95.html",
+     "sha256": "8c4a0783a7853021116b7a53238e9f4ef05a24d4a5ccb1c92369b344e4fb3fa1"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-1992-953",
+   "path": "uredba/1992/953",
+   "short": "Uredba o načinu uvoza i izvoza određene robe",
+   "title": "Uredba o načinu uvoza i izvoza određene robe",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1992/38/953",
+   "versions": [
+    {
+     "from": "1992-06-24",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1992_06_38_953.html",
+     "sha256": "10b68cac2d83c167105b2b8304c4e16454b872e0f3628aafd6acb599c3aa5915"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-1992-954",
+   "path": "uredba/1992/954",
+   "short": "Uredba o dopunama Uredbe o uvjetima i načinu održavanja likvidnosti u plaćanjima prema inozemstvu",
+   "title": "Uredba o dopunama Uredbe o uvjetima i načinu održavanja likvidnosti u plaćanjima prema inozemstvu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1992/38/954",
+   "versions": [
+    {
+     "from": "1992-06-24",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1992_06_38_954.html",
+     "sha256": "dd4d4dafb53c1df31eceb404fe11b143c99c3a9f1454d67cc685e634d3e2b0d6"
+    }
+   ]
+  },
+  {
    "slug": "uredba-1992-955",
    "path": "uredba/1992/955",
    "short": "Uredba o izmjenama i dopunama Uredbe o privremenom izvozu i uvozu robe",
@@ -29953,6 +30568,36 @@
      "units": 5,
      "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1992_06_38_955.html",
      "sha256": "414145001871218c84ba610dd2565da0fa58f167a5d26cdce0267dc71ec09e85"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-1992-96",
+   "path": "uredba/1992/96",
+   "short": "Uredba o dopunama Uredbe o načinu održavanja likvidnosti u plaćanjima prema inozemstvu",
+   "title": "Uredba o dopunama Uredbe o načinu održavanja likvidnosti u plaćanjima prema inozemstvu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1992/6/96",
+   "versions": [
+    {
+     "from": "1992-02-07",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1992_02_6_96.html",
+     "sha256": "f81d0d76be3c31242bc3c82c92cda28adc4de6bb2829383b46cdf4fefc987383"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-1992-97",
+   "path": "uredba/1992/97",
+   "short": "Uredba o izmjenama i dopunama Zakona o prodaji stanova na kojima postoji stanarsko pravo",
+   "title": "Uredba o izmjenama i dopunama Zakona o prodaji stanova na kojima postoji stanarsko pravo",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1992/6/97",
+   "versions": [
+    {
+     "from": "1992-02-15",
+     "units": 20,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1992_02_6_97.html",
+     "sha256": "25de17b6c25630b17d8a4b0b8f96e671da9f6e694659b45955f2088fd711e17d"
     }
    ]
   },
@@ -509618,6 +510263,21 @@
    ]
   },
   {
+   "slug": "uredba-2026-1529",
+   "path": "uredba/2026/1529",
+   "short": "Uredba o izmjeni Uredbe o visini trošarine na energente i električnu energiju",
+   "title": "Uredba o izmjeni Uredbe o visini trošarine na energente i električnu energiju",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/129/1529",
+   "versions": [
+    {
+     "from": "2026-11-10",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2026_11_129_1529.html",
+     "sha256": "d04278b005c61ab67cead89d438e10f16b1342becaae22aefc182af181cfc2c0"
+    }
+   ]
+  },
+  {
    "slug": "uredba-2026-173",
    "path": "uredba/2026/173",
    "short": "Uredba o izmjenama i dopunama Uredbe o tijelima u sustavu upravljanja i kontrole za provedbu programa iz područja konkurentnosti i kohezije za financijsko razdoblje 2021. - 2027.",
@@ -510694,6 +511354,3846 @@
      "units": 10,
      "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2026_07_77_904.html",
      "sha256": "c13ca480c40301a2d498d0b7a4a2250939aefe6af24195bfab51b65ddd81bd79"
+    }
+   ]
+  },
+  {
+   "slug": "usrh-u-i-110-1989",
+   "path": "ustavni-sud/1990/u-i-110-1989",
+   "short": "U-I-110/1989",
+   "title": "Odluka Ustavnog suda Hrvatske broj U/I-110/1989 od 7. prosinca 1989.",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1990/3/26",
+   "versions": [
+    {
+     "from": "1990-01-30",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1990_01_3_26.html",
+     "sha256": "18fd11685994bfe4618394f13420096429395ac71befeb717cfc4873bafb4ae2"
+    }
+   ]
+  },
+  {
+   "slug": "usrh-u-i-111-1988",
+   "path": "ustavni-sud/1990/u-i-111-1988",
+   "short": "U-I-111/1988",
+   "title": "Odluka Ustavnog suda Hrvatske broj U/I-111/1988 od 27. prosinca 1989.",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1990/4/40",
+   "versions": [
+    {
+     "from": "1990-02-06",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1990_02_4_40.html",
+     "sha256": "bce519dcf6b5b000beb216debc9c07f65085e54da026772c00ca1a43e43a737d"
+    }
+   ]
+  },
+  {
+   "slug": "usrh-u-i-211-1988",
+   "path": "ustavni-sud/1990/u-i-211-1988",
+   "short": "U-I-211/1988",
+   "title": "Odluka Ustavnog suda Hrvatske broj U/I-211/1988 od 27. prosinca 1989.",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1990/4/42",
+   "versions": [
+    {
+     "from": "1990-02-06",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1990_02_4_42.html",
+     "sha256": "5debbd3b4c7f26f85b4d86de723bcb5cdd4af886a64e20b6ef0baa0713ea8aac"
+    }
+   ]
+  },
+  {
+   "slug": "usrh-u-i-241-1988",
+   "path": "ustavni-sud/1990/u-i-241-1988",
+   "short": "U-I-241/1988",
+   "title": "Odluka Ustavnog suda Hrvatske broj U/I-241/1988 od 27. prosinca 1989.",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1990/4/43",
+   "versions": [
+    {
+     "from": "1990-02-06",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1990_02_4_43.html",
+     "sha256": "c9b95ed77a8c13f9c267a3ebec3a79cc580f845598f63f2912742e210c021c4b"
+    }
+   ]
+  },
+  {
+   "slug": "usrh-u-i-22-1988",
+   "path": "ustavni-sud/1990/u-i-22-1988",
+   "short": "U-I-22/1988",
+   "title": "Odluka Ustavnog suda Hrvatske broj U/I-22/1988 od 27. prosinca 1989.",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1990/4/44",
+   "versions": [
+    {
+     "from": "1990-02-06",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1990_02_4_44.html",
+     "sha256": "572398f58ad685d8beacda3f15bad4ab86e500d3d4423d5f9321a11ab0eef6a5"
+    }
+   ]
+  },
+  {
+   "slug": "usrh-u-i-17-1987",
+   "path": "ustavni-sud/1990/u-i-17-1987",
+   "short": "U-I-17/1987",
+   "title": "Odluka Ustavnog suda Hrvatske broj U/I-17/1987 od 7. prosinca 1989.",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1990/5/63",
+   "versions": [
+    {
+     "from": "1990-02-13",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1990_02_5_63.html",
+     "sha256": "479d223a4c83320c69aba346ab95b970e599595e5f273922f1971e9771e607c2"
+    }
+   ]
+  },
+  {
+   "slug": "usrh-u-i-247-1989",
+   "path": "ustavni-sud/1990/u-i-247-1989",
+   "short": "U-I-247/1989",
+   "title": "Odluka Ustavnog suda Hrvatske broj U/I-247/1989 od 18. siječnja 1990.",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1990/6/68",
+   "versions": [
+    {
+     "from": "1990-02-15",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1990_02_6_68.html",
+     "sha256": "7f270be3bfe386b2214864b876c7a210104b9d13f50f6e889e82aa59a71cc934"
+    }
+   ]
+  },
+  {
+   "slug": "usrh-u-i-132-1989",
+   "path": "ustavni-sud/1990/u-i-132-1989",
+   "short": "U-I-132/1989",
+   "title": "Odluka Ustavnog suda Hrvatske broj U/I-132/1989 od 15. veljače 1990.",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1990/11/143",
+   "versions": [
+    {
+     "from": "1990-03-20",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1990_03_11_143.html",
+     "sha256": "adb1044bc18caf3088f3ade75b720bf251f2c05688796fceb74c0a81e06b1ad2"
+    }
+   ]
+  },
+  {
+   "slug": "usrh-u-i-130-1989",
+   "path": "ustavni-sud/1990/u-i-130-1989",
+   "short": "U-I-130/1989",
+   "title": "Odluka Ustavnog suda Hrvatske broj U/I-130/1989 od 22. veljače 1990.",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1990/11/145",
+   "versions": [
+    {
+     "from": "1990-03-20",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1990_03_11_145.html",
+     "sha256": "ec334ae5f1873d43fe70f1b82607528ff06a30bdfd3963047f3a6bbdbf58716a"
+    }
+   ]
+  },
+  {
+   "slug": "usrh-u-i-161-1988",
+   "path": "ustavni-sud/1990/u-i-161-1988",
+   "short": "U-I-161/1988",
+   "title": "Odluka Ustavnog suda Hrvatske broj U/I-161/1988 od 22. veljače 1990.",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1990/12/157",
+   "versions": [
+    {
+     "from": "1990-03-27",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1990_03_12_157.html",
+     "sha256": "2751c50055b8c256728b65ba3adafd7e9005196bf290a2093bfd0e483b52ed9c"
+    }
+   ]
+  },
+  {
+   "slug": "usrh-u-i-168-1987",
+   "path": "ustavni-sud/1990/u-i-168-1987",
+   "short": "U-I-168/1987",
+   "title": "Odluka Ustavnog suda Hrvatske broj U/I-168/1987 od 15. veljače 1990.",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1990/13/185",
+   "versions": [
+    {
+     "from": "1990-03-30",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1990_03_13_185.html",
+     "sha256": "4dc5a87ba0ab244785d38468a20b1bfc5415420c6eb047b2252e8d92fa73790e"
+    }
+   ]
+  },
+  {
+   "slug": "usrh-u-i-170-1989",
+   "path": "ustavni-sud/1990/u-i-170-1989",
+   "short": "U-I-170/1989",
+   "title": "Odluka Ustavnog suda Hrvatske U/I 170 1989 od 25. siječnja 1990.",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1990/9/122",
+   "versions": [
+    {
+     "from": "1990-03-05",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1990_03_9_122.html",
+     "sha256": "b3ca33c038d0f479f0742dde5a77d03dfc0973abfd311e9cc4224e68fb9c40c9"
+    }
+   ]
+  },
+  {
+   "slug": "usrh-u-i-183-1989",
+   "path": "ustavni-sud/1990/u-i-183-1989",
+   "short": "U-I-183/1989",
+   "title": "Odluka Ustavnog suda Hrvatske broj U/I-183/1989 od 8. ožujka 1990.",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1990/14/233",
+   "versions": [
+    {
+     "from": "1990-04-10",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1990_04_14_233.html",
+     "sha256": "eb72f9c4bcb8137eb4ea8ebbb538b85f7eccab45c96e798206dc0fd634ce38bd"
+    }
+   ]
+  },
+  {
+   "slug": "usrh-u-i-125-1986",
+   "path": "ustavni-sud/1990/u-i-125-1986",
+   "short": "U-I-125/1986",
+   "title": "Odluka Ustavnog suda Hrvatske broj U/I-125/1986 od 12. travnja 1990.",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1990/22/421",
+   "versions": [
+    {
+     "from": "1990-05-22",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1990_05_22_421.html",
+     "sha256": "305ba1be448725739785bc56c4d90993bda6a677d0ba0bd95b12eb2a0f85d4c4"
+    }
+   ]
+  },
+  {
+   "slug": "usrh-u-i-204-1989",
+   "path": "ustavni-sud/1990/u-i-204-1989",
+   "short": "U-I-204/1989",
+   "title": "Odluka Ustavnog suda Hrvatske broj U/I -204/1989 od 31.svibnja 1990",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1990/28/566",
+   "versions": [
+    {
+     "from": "1990-06-30",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1990_06_28_566.html",
+     "sha256": "184da3acac199f655fe809e53578dc5a128d35bfa2fa8a08e4c36f8578835aca"
+    }
+   ]
+  },
+  {
+   "slug": "usrh-u-i-243-1989",
+   "path": "ustavni-sud/1990/u-i-243-1989",
+   "short": "U-I-243/1989",
+   "title": "Odluka Ustavnog suda Hrvatske broj U/I-243/1989 od 7. lipnja 1990.",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1990/29/592",
+   "versions": [
+    {
+     "from": "1990-07-20",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1990_07_29_592.html",
+     "sha256": "bbf779ca05fb0e70ea0d70be3a56cea65446bec809b8eaf23358e63c3ea2288c"
+    }
+   ]
+  },
+  {
+   "slug": "usrh-u-i-100-1990",
+   "path": "ustavni-sud/1990/u-i-100-1990",
+   "short": "U-I-100/1990",
+   "title": "Odluka Ustavnog suda Hrvatske broj U/I-100/1990 od 5. srpnja 1990.",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1990/30/600",
+   "versions": [
+    {
+     "from": "1990-07-24",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1990_07_30_600.html",
+     "sha256": "b588e2d549d28647f82e622a1da25f4cef2f4da6d8f4c7139c67cdbbf9daa1c4"
+    }
+   ]
+  },
+  {
+   "slug": "usrh-u-i-220-1988",
+   "path": "ustavni-sud/1990/u-i-220-1988",
+   "short": "U-I-220/1988",
+   "title": "Odluka Ustavnog suda Hrvatske broj U/I 220/1988 od 19. srpnja 1990.",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1990/32/671",
+   "versions": [
+    {
+     "from": "1990-08-06",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1990_08_32_671.html",
+     "sha256": "58227be6876ef45123e3e5acbfb4159f5071e83f3c17654417485b1b3ee2d846"
+    }
+   ]
+  },
+  {
+   "slug": "usrh-u-i-152-1990",
+   "path": "ustavni-sud/1990/u-i-152-1990",
+   "short": "U-I-152/1990",
+   "title": "Odluka Ustavnog suda Hrvatske broj U/I 152/1990 od 19. srpnja 1990.",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1990/32/675",
+   "versions": [
+    {
+     "from": "1990-08-06",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1990_08_32_675.html",
+     "sha256": "b6b31e208d4ea7c7a3998622f818c4e5398f4164ec7ee6a17086aa4e1c3a8ee4"
+    }
+   ]
+  },
+  {
+   "slug": "usrh-u-i-214-1990",
+   "path": "ustavni-sud/1990/u-i-214-1990",
+   "short": "U-I-214/1990",
+   "title": "Rješenje Ustavnog suda Hrvatske broj U/I-214/1990 od 14. kolovoza 1990.",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1990/33/677",
+   "versions": [
+    {
+     "from": "1990-08-17",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1990_08_33_677.html",
+     "sha256": "17fa8ed9a4a4854d8fe95f2d2b59b14be1ea7b1a6f78c5b64b345dcaf77f7883"
+    }
+   ]
+  },
+  {
+   "slug": "usrh-u-i-214-1990-nn35-1990",
+   "path": "ustavni-sud/1990/u-i-214-1990-nn35-1990",
+   "short": "U-I-214/1990",
+   "title": "Odluka Ustavnog suda Hrvatske broj U/I-214/1990 od 28. kolovoza 1990",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1990/35/699",
+   "versions": [
+    {
+     "from": "1990-09-03",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1990_09_35_699.html",
+     "sha256": "351a8270326f536572da23cb0b6db7ecadb50be6aae110d4cf13e2507696ea35"
+    }
+   ]
+  },
+  {
+   "slug": "usrh-u-i-165-1990",
+   "path": "ustavni-sud/1990/u-i-165-1990",
+   "short": "U-I-165/1990",
+   "title": "Odluka Ustavnog suda Hrvatske broj U/I-165/1990 od 20. rujna 1990.",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1990/43/822",
+   "versions": [
+    {
+     "from": "1990-10-24",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1990_10_43_822.html",
+     "sha256": "e7fbcb037e098c09a8a2dbeddd4b37f2d7df82c8c9fdf22f643344d45cb9255f"
+    }
+   ]
+  },
+  {
+   "slug": "usrh-u-i-169-1989",
+   "path": "ustavni-sud/1990/u-i-169-1989",
+   "short": "U-I-169/1989",
+   "title": "Odluka Ustavnog suda Hrvatske broj U/I-169/1989 od 20. rujna 1990.",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1990/43/823",
+   "versions": [
+    {
+     "from": "1990-10-24",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1990_10_43_823.html",
+     "sha256": "bacca0c47c327a4e086cf59a26f555dce2f3f024d3f4aef03077522a2cc53d7e"
+    }
+   ]
+  },
+  {
+   "slug": "usrh-u-i-14-1990",
+   "path": "ustavni-sud/1990/u-i-14-1990",
+   "short": "U-I-14/1990",
+   "title": "Odluka Ustavnog suda Hrvatske broj U/I-14/1990 od 18. listopada 1990.",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1990/45/849",
+   "versions": [
+    {
+     "from": "1990-11-09",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1990_11_45_849.html",
+     "sha256": "e3bc7bf170943b757ab65708b4fe2a4891c1e7b2bbe459434f181c885c3f5a98"
+    }
+   ]
+  },
+  {
+   "slug": "usrh-u-i-197-1990",
+   "path": "ustavni-sud/1990/u-i-197-1990",
+   "short": "U-I-197/1990",
+   "title": "Odluka Ustavnog suda Hrvatske broj U/I-197/1990. od 18 listopada 1990.",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1990/48/909",
+   "versions": [
+    {
+     "from": "1990-11-16",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1990_11_48_909.html",
+     "sha256": "8b13aea82d7e79c4ff5a90cc99fab50eee4d15983e6a3268fed649519a12598e"
+    }
+   ]
+  },
+  {
+   "slug": "usrh-u-i-161-1988-nn49-1990",
+   "path": "ustavni-sud/1990/u-i-161-1988-nn49-1990",
+   "short": "U-I-161/1988",
+   "title": "Odluka Ustavnog suda Hrvatske broj U/I-161/1988 od 11. listopada 1990",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1990/49/923",
+   "versions": [
+    {
+     "from": "1990-11-24",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1990_11_49_923.html",
+     "sha256": "c4849b83507c2b7d01ad2b9be2a3c7b848d19f562227bccff38ddb7cf8c9b0c4"
+    }
+   ]
+  },
+  {
+   "slug": "usrh-u-i-153-1990",
+   "path": "ustavni-sud/1990/u-i-153-1990",
+   "short": "U-I-153/1990",
+   "title": "Odluka Ustavnog suda Hrvatske broj: U/I-153/1990 od 6. prosinca 1990.",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1990/55/1080",
+   "versions": [
+    {
+     "from": "1990-12-21",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1990_12_55_1080.html",
+     "sha256": "6566185cd88aac5a354773c487ad19cc30be9957afc9f8ce81da213c7e873f28"
+    }
+   ]
+  },
+  {
+   "slug": "usrh-u-i-161-1990",
+   "path": "ustavni-sud/1991/u-i-161-1990",
+   "short": "U-I-161/1990",
+   "title": "Odluka Ustavnog suda Hrvatske broj U/I-161/1990 od 13. prosinca 1990.",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1991/1/18",
+   "versions": [
+    {
+     "from": "1991-01-17",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1991_01_1_18.html",
+     "sha256": "cbe54a224f26e821290cbc5b32d844136ad270f5c679f3811778b33422145afe"
+    }
+   ]
+  },
+  {
+   "slug": "usrh-u-i-194-1990",
+   "path": "ustavni-sud/1991/u-i-194-1990",
+   "short": "U-I-194/1990",
+   "title": "Odluka Ustavnog suda Hrvatske broj U/I-194/1990. od 15. studenoga 1990.",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1991/2/60",
+   "versions": [
+    {
+     "from": "1991-01-24",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1991_01_2_60.html",
+     "sha256": "2699da051c7342f1c77397f99f22fe64472c9588b96aba1df865b87cb0662f37"
+    }
+   ]
+  },
+  {
+   "slug": "usrh-u-i-248-1988",
+   "path": "ustavni-sud/1991/u-i-248-1988",
+   "short": "U-I-248/1988",
+   "title": "Rješenje Ustavnog suda Republike Hrvatske broj U/I-248/1988. od 7. veljace 1991.",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1991/10/321",
+   "versions": [
+    {
+     "from": "1991-03-06",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1991_03_10_321.html",
+     "sha256": "091ebfb51ca51dc66e35fac3838167d7ca77ef79b7a3426fd69a564700e48828"
+    }
+   ]
+  },
+  {
+   "slug": "usrh-u-i-183-1990",
+   "path": "ustavni-sud/1991/u-i-183-1990",
+   "short": "U-I-183/1990",
+   "title": "Odluka Ustavnog suda Republike Hrvatske broj U/I-183/1990od 14. veljače 1991.",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1991/12/361",
+   "versions": [
+    {
+     "from": "1991-03-16",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1991_03_12_361.html",
+     "sha256": "dcf1caa6340de7f150f77d5f21a4676d055f9c643432f591ef0d68440ded047d"
+    }
+   ]
+  },
+  {
+   "slug": "usrh-u-i-199-1990",
+   "path": "ustavni-sud/1991/u-i-199-1990",
+   "short": "U-I-199/1990",
+   "title": "Odluka Ustavnog suda Republike Hrvatske broj U/I-199/1990. od 28. veljače 1991.",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1991/14/404",
+   "versions": [
+    {
+     "from": "1991-03-25",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1991_03_14_404.html",
+     "sha256": "78d0b2cefadea6745b7ba56c85d8980f4d3d7d7e0b413b1326f2ef665be92637"
+    }
+   ]
+  },
+  {
+   "slug": "usrh-u-i-238-1990",
+   "path": "ustavni-sud/1991/u-i-238-1990",
+   "short": "U-I-238/1990",
+   "title": "Odluka Ustavnog suda Republike Hrvatske Broj U/I-238/1990 od 28. ožujka 1991.",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1991/19/608",
+   "versions": [
+    {
+     "from": "1991-04-23",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1991_04_19_608.html",
+     "sha256": "ba1dba5e93970313827127ee2200c13901d82484377f9c16166dc6d91584c82a"
+    }
+   ]
+  },
+  {
+   "slug": "usrh-u-i-169-89",
+   "path": "ustavni-sud/1991/u-i-169-89",
+   "short": "U-I-169/89",
+   "title": "Odluka Ustavnog suda Republike Hrvatske broj U/I-169/89 od 16. svibnja 1991.",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1991/25/725",
+   "versions": [
+    {
+     "from": "1991-06-01",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1991_06_25_725.html",
+     "sha256": "dfc26d35e7a289c14a917aa9792d3bcc1e78371d07f5f7683b03e260dfbd4d9c"
+    }
+   ]
+  },
+  {
+   "slug": "usrh-u-i-23-1991",
+   "path": "ustavni-sud/1992/u-i-23-1991",
+   "short": "U-I-23/1991",
+   "title": "Odluka Ustavnog suda republike Hrvatske broj U\"I-23/1991. od 15. siječnja 1992.",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1992/4/67",
+   "versions": [
+    {
+     "from": "1992-02-04",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1992_02_4_67.html",
+     "sha256": "6354c8c53676573c93eaad104f76767e161135468538d4da0feb3747d45572b7"
+    }
+   ]
+  },
+  {
+   "slug": "usrh-u-i-13-1992",
+   "path": "ustavni-sud/1992/u-i-13-1992",
+   "short": "U-I-13/1992",
+   "title": "Rješenje Ustavnog suda Republike Hrvatske broj U-I-13/1992. od 11. ožujka 1992.",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1992/22/517",
+   "versions": [
+    {
+     "from": "1992-04-17",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1992_04_22_517.html",
+     "sha256": "acd4fcd3839a363327bd66b65d6f16d3e0826e2aa2d738713fe23b475b20c096"
+    }
+   ]
+  },
+  {
+   "slug": "usrh-u-i-107-1992",
+   "path": "ustavni-sud/1992/u-i-107-1992",
+   "short": "U-I-107/1992",
+   "title": "Rješenje Ustavnog suda Republike Hrvatske broj: U-I-107/1992 od 20. svibnja 1992.",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1992/38/959",
+   "versions": [
+    {
+     "from": "1992-06-24",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1992_06_38_959.html",
+     "sha256": "49935d1cde1d15713957083b67f19ebc81fc16fb41796ca20673f07acaa01485"
+    }
+   ]
+  },
+  {
+   "slug": "usrh-u-i-101-1992",
+   "path": "ustavni-sud/1992/u-i-101-1992",
+   "short": "U-I-101/1992",
+   "title": "Rješenje Ustavnog suda Republike Hrvatske broj: U-I-101/1992 od 3. lipnja 1992.",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1992/38/960",
+   "versions": [
+    {
+     "from": "1992-06-24",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1992_06_38_960.html",
+     "sha256": "25bda94732c6b6fc30940c5b1f4c54584be5035f8c2d674b4042304491aa8045"
+    }
+   ]
+  },
+  {
+   "slug": "usrh-u-i-231-1990",
+   "path": "ustavni-sud/1992/u-i-231-1990",
+   "short": "U-I-231/1990",
+   "title": "Rješenje Ustavnog suda Republike Hrvatske broj U-I-231/1990. od 12. svibnja 1992.",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1992/41/1052",
+   "versions": [
+    {
+     "from": "1992-06-27",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1992_06_41_1052.html",
+     "sha256": "b28b1ce8414690744204b82712affda7de9472d563240bda2cd2d8049584fcee"
+    }
+   ]
+  },
+  {
+   "slug": "usrh-u-i-137-1992",
+   "path": "ustavni-sud/1992/u-i-137-1992",
+   "short": "U-I-137/1992",
+   "title": "Rješenje Ustavnog suda Republike Hrvatske broj U-I-137/1992 od 24. lipnja 1992.",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1992/43/1097",
+   "versions": [
+    {
+     "from": "1992-07-07",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1992_07_43_1097.html",
+     "sha256": "ec0ae65fcc1dc13d503672e13eebcf01673a605efb03595b518f8763efc8d9d4"
+    }
+   ]
+  },
+  {
+   "slug": "usrh-u-i-14-1987",
+   "path": "ustavni-sud/1992/u-i-14-1987",
+   "short": "U-I-14/1987",
+   "title": "Odluka Ustavnog suda Republike Hrvatske broj U-I-14/1987. od 24. lipnja 1992.",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1992/44/1125",
+   "versions": [
+    {
+     "from": "1992-07-14",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1992_07_44_1125.html",
+     "sha256": "ff26d45b68cf614b3def432612216a1bb2ffef0bf86a6bbab902b3b883880b16"
+    }
+   ]
+  },
+  {
+   "slug": "usrh-u-i-183-1992",
+   "path": "ustavni-sud/1992/u-i-183-1992",
+   "short": "U-I-183/1992",
+   "title": "Rješenje Ustavnog suda Republike Hrvatske broj U-I-183/1992. od 8. srpnja 1992.",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1992/44/1126",
+   "versions": [
+    {
+     "from": "1992-07-14",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1992_07_44_1126.html",
+     "sha256": "c73398fc42eda497dbcec55fd20459817156d6b35056ea52d7374d64254b0646"
+    }
+   ]
+  },
+  {
+   "slug": "usrh-u-i-178-1991",
+   "path": "ustavni-sud/1992/u-i-178-1991",
+   "short": "U-I-178/1991",
+   "title": "Rješenje Ustavnog suda Republike Hrvatske broj U-I-178/1991. od 8. srpnja 1992.",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1992/44/1127",
+   "versions": [
+    {
+     "from": "1992-07-14",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1992_07_44_1127.html",
+     "sha256": "fdb5f5659ee3b2b911f990fcf4ca0b9ef75d10b9fb67704c0817cbf0399b5b5a"
+    }
+   ]
+  },
+  {
+   "slug": "usrh-u-i-179-1992",
+   "path": "ustavni-sud/1992/u-i-179-1992",
+   "short": "U-I-179/1992",
+   "title": "Rješenje Ustavnog suda Republike Hrvatske broj U-I-179/1992. od 8. srpnja 1992.",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1992/44/1128",
+   "versions": [
+    {
+     "from": "1992-07-14",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1992_07_44_1128.html",
+     "sha256": "ca1a0c0ece63b7e854dd553ad813a69910d7c9e3fb60ee5b86941d1722176f2d"
+    }
+   ]
+  },
+  {
+   "slug": "usrh-u-i-179-1991",
+   "path": "ustavni-sud/1992/u-i-179-1991",
+   "short": "U-I-179/1991",
+   "title": "Rješenje Ustavnog suda Republike Hrvatske broj U-I-179/1991. od 24. lipnja 1992.",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1992/49/1292",
+   "versions": [
+    {
+     "from": "1992-08-04",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1992_08_49_1292.html",
+     "sha256": "c7580be5e87a70cdf10c2eedf15fd07c3400b7269b27db471e3228c6d3ef6dcd"
+    }
+   ]
+  },
+  {
+   "slug": "usrh-u-i-215-1992",
+   "path": "ustavni-sud/1992/u-i-215-1992",
+   "short": "U-I-215/1992",
+   "title": "Rješenje Ustavnog suda Republike Hrvatske broj U-I-215/1992 od 26. listopada 1992. godine",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1992/82/2172",
+   "versions": [
+    {
+     "from": "1992-12-01",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1992_12_82_2172.html",
+     "sha256": "42dff353531b469e066f1ddc36273d51e29f61077a867769fe8d11d804f3b9d1"
+    }
+   ]
+  },
+  {
+   "slug": "usrh-u-i-122-1992",
+   "path": "ustavni-sud/1993/u-i-122-1992",
+   "short": "U-I-122/1992",
+   "title": "Rješenje Ustavnog suda Republike Hrvatske broj U-I-122/1992. od 24. ožujka 1993.",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1993/37/685",
+   "versions": [
+    {
+     "from": "1993-04-29",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1993_04_37_685.html",
+     "sha256": "83a11f4f30e00b577879892d1dac7ec0b215891dd88d4d114342eb6a95030a42"
+    }
+   ]
+  },
+  {
+   "slug": "usrh-u-i-196-1988",
+   "path": "ustavni-sud/1993/u-i-196-1988",
+   "short": "U-I-196/1988",
+   "title": "Rješenje Ustavnog suda Republike Hrvatske br. U-I-196/1988. od 28. travnja 1993.",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1993/43/782",
+   "versions": [
+    {
+     "from": "1993-05-10",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1993_05_43_782.html",
+     "sha256": "52e144b720d369eda40ecb04a010388b0ae57f6c4628118853f09efacf83bb56"
+    }
+   ]
+  },
+  {
+   "slug": "usrh-u-i-147-1992",
+   "path": "ustavni-sud/1993/u-i-147-1992",
+   "short": "U-I-147/1992",
+   "title": "Rješenje Ustavnog suda Republike Hrvatske broj: U-I-147/1992, U-I-206/1992, U-I-209/1992, U-I-148/1992, U-I-207/1992 i U-I-222/1992. od 24. svibnja 1993.",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1993/49/954",
+   "versions": [
+    {
+     "from": "1993-05-26",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1993_05_49_954.html",
+     "sha256": "762d04f61428f9b317581e80c247985de6e70bdd57a195273b6b6a4fcf45cf6c"
+    }
+   ]
+  },
+  {
+   "slug": "usrh-u-i-171-1990",
+   "path": "ustavni-sud/1993/u-i-171-1990",
+   "short": "U-I-171/1990",
+   "title": "Rješenje Ustavnog suda Republike Hrvatske broj: U-I-171 /1990.",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1993/52/1015",
+   "versions": [
+    {
+     "from": "1993-06-22",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1993_06_52_1015.html",
+     "sha256": "dea5441a1db76ca6be4a03d8650c013ab23b21919f6ec8f278c417899751fe14"
+    }
+   ]
+  },
+  {
+   "slug": "usrh-u-i-146-1993",
+   "path": "ustavni-sud/1993/u-i-146-1993",
+   "short": "U-I-146/1993",
+   "title": "Rješenje Ustavnog suda Republike Hrvatske broj U-I-146/1993. od 15. lipnja 1933.",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1993/64/1297",
+   "versions": [
+    {
+     "from": "1993-07-06",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1993_07_64_1297.html",
+     "sha256": "c40d90a5b769f8233d5b1d2e78720e832e0021205301627b7192435f5196761a"
+    }
+   ]
+  },
+  {
+   "slug": "usrh-u-i-204-1992",
+   "path": "ustavni-sud/1993/u-i-204-1992",
+   "short": "U-I-204/1992",
+   "title": "Rješenje Ustavnog suda Republike Hrvatske broj U-I-204/1992. od 7. srpnja 1993",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1993/71/1476",
+   "versions": [
+    {
+     "from": "1993-07-23",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1993_07_71_1476.html",
+     "sha256": "e2dc4de2253e043f59268f591e5f574d092f9b0247e76b90976585de6795dbca"
+    }
+   ]
+  },
+  {
+   "slug": "usrh-u-i-197-1992",
+   "path": "ustavni-sud/1993/u-i-197-1992",
+   "short": "U-I-197/1992",
+   "title": "Rješenje Ustavnog suda Republike Hrvatske broj U-I-197/1992. od 28. rujna 1993.",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1993/98/1915",
+   "versions": [
+    {
+     "from": "1993-10-29",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1993_10_98_1915.html",
+     "sha256": "26019afe69a4ef227aa6dc105bbef849e27e56647b28b7263215162d1c2b23f2"
+    }
+   ]
+  },
+  {
+   "slug": "usrh-u-i-204-1992-nn110-1993",
+   "path": "ustavni-sud/1993/u-i-204-1992-nn110-1993",
+   "short": "U-I-204/1992",
+   "title": "Odluka Ustavnog suda Republike Hrvatske U-I-204/1992. od studenog 1993",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1993/110/2132",
+   "versions": [
+    {
+     "from": "1993-12-10",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1993_12_110_2132.html",
+     "sha256": "c49b35a545c737314e76d285b63dfc310acf8021de91441d8785b8fce183219f"
+    }
+   ]
+  },
+  {
+   "slug": "usrh-u-i-206-1992",
+   "path": "ustavni-sud/1993/u-i-206-1992",
+   "short": "U-I-206/1992",
+   "title": "Odluka Ustavnog suda Republike Hrvatske br. U-I-206/1992, U-I-207/1992, U-I-209/1992. i U-I-222/1992. od 8. prosinca 1993.",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1993/113/2186",
+   "versions": [
+    {
+     "from": "1993-12-21",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1993_12_113_2186.html",
+     "sha256": "c5bab0fed1fd88529427a5e6195579823f685b74274294113b88d60c5aa597f1"
+    }
+   ]
+  },
+  {
+   "slug": "usrh-u-i-144-1993",
+   "path": "ustavni-sud/1994/u-i-144-1993",
+   "short": "U-I-144/1993",
+   "title": "Rješenje Ustavnog suda Republike Hrvatske broj U-I-144/1993 od 5. Siječnja 1994.",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1994/6/113",
+   "versions": [
+    {
+     "from": "1994-01-28",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1994_01_6_113.html",
+     "sha256": "b416ed7052bd58be371b8832958bc8f2bf23fcf3c0975f6c8cf453136ceaff86"
+    }
+   ]
+  },
+  {
+   "slug": "usrh-u-i-197-1992-nn25-1994",
+   "path": "ustavni-sud/1994/u-i-197-1992-nn25-1994",
+   "short": "U-I-197/1992",
+   "title": "Odluka Ustavnog suda Republike Hrvatske broj U-I-197/1992. od 16. ožujka 1994.",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1994/25/425",
+   "versions": [
+    {
+     "from": "1994-03-29",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1994_03_25_425.html",
+     "sha256": "e5da205f9a54429cbe638ae91768501751c024cf1bd21ee37de4367371afe6e3"
+    }
+   ]
+  },
+  {
+   "slug": "usrh-u-i-231-1990-nn25-1994",
+   "path": "ustavni-sud/1994/u-i-231-1990-nn25-1994",
+   "short": "U-I-231/1990",
+   "title": "Odluka Ustavnog suda Republike Hrvatske broj U-I-231/1990. od 16. veljače1994.",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1994/25/426",
+   "versions": [
+    {
+     "from": "1994-03-29",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1994_03_25_426.html",
+     "sha256": "7221ee55f301e44e66b9299c08ef146383aaf8bd3abab64cb9e6b624030d4105"
+    }
+   ]
+  },
+  {
+   "slug": "usrh-u-i-114-1992",
+   "path": "ustavni-sud/1994/u-i-114-1992",
+   "short": "U-I-114/1992",
+   "title": "Rješenje Ustavnog suda Republike Hrvatske broj U-I-114/1992. od 16. ožujka 1994.",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1994/25/429",
+   "versions": [
+    {
+     "from": "1994-03-29",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1994_03_25_429.html",
+     "sha256": "060f5deb5c07e65e1fd78b9236a0c64b2fa57a5f6d65e5aad4d4d74bde3a3a0e"
+    }
+   ]
+  },
+  {
+   "slug": "usrh-u-i-20-1992",
+   "path": "ustavni-sud/1994/u-i-20-1992",
+   "short": "U-I-20/1992",
+   "title": "Rješenje Ustavnog suda Republike Hrvatske broj U-I-20/1992. od 13. travnja 1994.",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1994/34/610",
+   "versions": [
+    {
+     "from": "1994-04-29",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1994_04_34_610.html",
+     "sha256": "3cbe6e204c5231045accaa2f975e31015efa50a3fbc55fb422187771cbb69c73"
+    }
+   ]
+  },
+  {
+   "slug": "usrh-u-i-231-1992",
+   "path": "ustavni-sud/1994/u-i-231-1992",
+   "short": "U-I-231/1992",
+   "title": "Rješenje Ustavnog suda Republike Hrvatske broj U-I-231/1992. od 7. lipnja 1994.",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1994/49/854",
+   "versions": [
+    {
+     "from": "1994-06-24",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1994_06_49_854.html",
+     "sha256": "869a1a7c472bd4d2cef7cbd0e4b1ee67dade5d63d762053d5fafc1415fc1c3a7"
+    }
+   ]
+  },
+  {
+   "slug": "usrh-u-i-143-1995",
+   "path": "ustavni-sud/1995/u-i-143-1995",
+   "short": "U-I-143/1995",
+   "title": "Rješenje Ustavnog suda Republike Hrvatske broj: U-I-143/1995 od 15. veljače 1995.",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1995/11/223",
+   "versions": [
+    {
+     "from": "1995-02-17",
+     "units": 2,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1995_02_11_223.html",
+     "sha256": "a172791c51b9142886c99300d5e5080ef39c19d9461c4b3d761d27d2a97da495"
+    }
+   ]
+  },
+  {
+   "slug": "usrh-u-i-130-1995",
+   "path": "ustavni-sud/1995/u-i-130-1995",
+   "short": "U-I-130/1995",
+   "title": "Rješenje Ustavnog suda Republike broj U-I-130/1995. od 20. veljače 1995.",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1995/12/239",
+   "versions": [
+    {
+     "from": "1995-02-24",
+     "units": 2,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1995_02_12_239.html",
+     "sha256": "7e89890dc9d7576b3a157cb4efd11a6272672b5c8d1ec087d1da761bdbbf5253"
+    }
+   ]
+  },
+  {
+   "slug": "usrh-u-i-1010-1994",
+   "path": "ustavni-sud/1995/u-i-1010-1994",
+   "short": "U-I-1010/1994",
+   "title": "Rješenje Ustavnog suda Republike Hrvatske broj U-I-1010/1994. 15. ožujka 1995",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1995/19/374",
+   "versions": [
+    {
+     "from": "1995-03-21",
+     "units": 2,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1995_03_19_374.html",
+     "sha256": "e80d14aef0030fda89005cd70207b999776ea20c2a5fae463f2f989b494df7fa"
+    }
+   ]
+  },
+  {
+   "slug": "usrh-u-i-218-1994",
+   "path": "ustavni-sud/1995/u-i-218-1994",
+   "short": "U-I-218/1994",
+   "title": "Rješenje Ustavnog suda Republike Hrvatske broj U-I-218/1994. od 1. ožujka 1995",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1995/19/376",
+   "versions": [
+    {
+     "from": "1995-03-21",
+     "units": 2,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1995_03_19_376.html",
+     "sha256": "a2a7d45fc79a95a177b8e019b36744092816c96faeb598816fc33920050e5af0"
+    }
+   ]
+  },
+  {
+   "slug": "usrh-u-i-252-1995",
+   "path": "ustavni-sud/1995/u-i-252-1995",
+   "short": "U-I-252/1995",
+   "title": "Rješenje Ustavnog suda Republike Hrvatske broj U-I-252/1995. od 16. svibnja 1995",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1995/33/675",
+   "versions": [
+    {
+     "from": "1995-05-19",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1995_05_33_675.html",
+     "sha256": "a30a1b8e5ae976c1084cfb54d5b8c7febfa99d093f194c6920f2331a3176d057"
+    }
+   ]
+  },
+  {
+   "slug": "usrh-u-i-107-1993",
+   "path": "ustavni-sud/1995/u-i-107-1993",
+   "short": "U-I-107/1993",
+   "title": "Rješenje Ustavnog suda Republike Hrvatske broj U-I-107/1993. od 16. svibnja 1995",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1995/37/752",
+   "versions": [
+    {
+     "from": "1995-06-06",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1995_06_37_752.html",
+     "sha256": "fc1b9eee08858e756eda668b51993ad6ea447a71325859bb7c8c0d13dcf0f40a"
+    }
+   ]
+  },
+  {
+   "slug": "usrh-nn-84-1995-1378",
+   "path": "ustavni-sud/1995/nn-84-1995-1378",
+   "short": "Priopćenje 1. Ustavnog suda Republike Hrvatske",
+   "title": "Priopćenje 1. Ustavnog suda Republike Hrvatske",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1995/84/1378",
+   "versions": [
+    {
+     "from": "1995-10-20",
+     "units": 2,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1995_10_84_1378.html",
+     "sha256": "431c558f9673411bc2b8bc193888a192d8e868b41e769fbad0df6cda2f643f08"
+    }
+   ]
+  },
+  {
+   "slug": "usrh-nn-84-1995-1379",
+   "path": "ustavni-sud/1995/nn-84-1995-1379",
+   "short": "Priopćenje 2. Ustavnog suda Republike Hrvatske",
+   "title": "Priopćenje 2. Ustavnog suda Republike Hrvatske",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1995/84/1379",
+   "versions": [
+    {
+     "from": "1995-10-20",
+     "units": 2,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1995_10_84_1379.html",
+     "sha256": "59652592cf0bb32d7932e869fd458e80fb670021a159d486793725313b162cba"
+    }
+   ]
+  },
+  {
+   "slug": "usrh-nn-84-1995-1380",
+   "path": "ustavni-sud/1995/nn-84-1995-1380",
+   "short": "Priopćenje 3 Ustavnog suda Republike Hrvatske",
+   "title": "Priopćenje 3 Ustavnog suda Republike Hrvatske",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1995/84/1380",
+   "versions": [
+    {
+     "from": "1995-10-20",
+     "units": 2,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1995_10_84_1380.html",
+     "sha256": "45475b4aaea7a231379312f69eb0e3858ea59866470e3c1e16f4304bd9dcd2d1"
+    }
+   ]
+  },
+  {
+   "slug": "usrh-nn-84-1995-1381",
+   "path": "ustavni-sud/1995/nn-84-1995-1381",
+   "short": "Priopćenje 4 Ustavnog suda Republike Hrvatske",
+   "title": "Priopćenje 4 Ustavnog suda Republike Hrvatske",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1995/84/1381",
+   "versions": [
+    {
+     "from": "1995-10-20",
+     "units": 2,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1995_10_84_1381.html",
+     "sha256": "c321069a3a06816486bf6a3ce2702f3bbde4637f3c9267ae4d08db2141392986"
+    }
+   ]
+  },
+  {
+   "slug": "usrh-u-i-213-1995",
+   "path": "ustavni-sud/1995/u-i-213-1995",
+   "short": "U-I-213/1995",
+   "title": "Rješenje Ustavnog suda Republike Hrvatske broj U-I-213/1995. od 22. studenoga 1995.",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1995/97/1598",
+   "versions": [
+    {
+     "from": "1995-12-01",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1995_12_97_1598.html",
+     "sha256": "24c9f7534009211eb5e02d0684d2add449e8080013e72d54c45901aefe0ef857"
+    }
+   ]
+  },
+  {
+   "slug": "usrh-u-i-1010-1994-nn97-1995",
+   "path": "ustavni-sud/1995/u-i-1010-1994-nn97-1995",
+   "short": "U-I-1010/1994",
+   "title": "Odluka Ustavnog suda Republike Hrvatske broj U-I-1010/1994. od 29. studenoga 1995.",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1995/97/1601",
+   "versions": [
+    {
+     "from": "1995-12-01",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1995_12_97_1601.html",
+     "sha256": "ed10e4b2fd5e32878e2816ac1cc7004b9193facfb2f5c338a8c228d3eaca3f63"
+    }
+   ]
+  },
+  {
+   "slug": "usrh-u-i-248-1994",
+   "path": "ustavni-sud/1996/u-i-248-1994",
+   "short": "U-I-248/1994",
+   "title": "Rješenje Ustavnog suda Republike Hrvatske broj U-I-248/1994. od 8. svibnja 1996.",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1996/41/830",
+   "versions": [
+    {
+     "from": "1996-05-24",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1996_05_41_830.html",
+     "sha256": "745e41b25a5e8a84c1cd1fb1dee280afb5baab0508001d36f0705b70e178304e"
+    }
+   ]
+  },
+  {
+   "slug": "usrh-u-i-200-96",
+   "path": "ustavni-sud/1996/u-i-200-96",
+   "short": "U-I-200/96",
+   "title": "Odluka Ustavnog suda Republike Hrvatske broj U-I-200/96 od 12. lipnja 1996. godine",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1996/51/970",
+   "versions": [
+    {
+     "from": "1996-06-26",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1996_06_51_970.html",
+     "sha256": "487f9d1c0eb5f2bcdb6c7708b614f57091127222a0e5c4b8a88e207b3b138fce"
+    }
+   ]
+  },
+  {
+   "slug": "usrh-u-i-1010-1994-nn52-1996",
+   "path": "ustavni-sud/1996/u-i-1010-1994-nn52-1996",
+   "short": "U-I-1010/1994",
+   "title": "Odluka Ustavnog suda Republike Hrvatske broj U-I-1010/1994 od 28. lipnja 1996.",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1996/52/991",
+   "versions": [
+    {
+     "from": "1996-06-28",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1996_06_52_991.html",
+     "sha256": "d9cbdd87e5f478205735c36df0272a73af3850c99facb038489353c6ab3d564e"
+    }
+   ]
+  },
+  {
+   "slug": "usrh-u-i-1010-1994-nn73-1996",
+   "path": "ustavni-sud/1996/u-i-1010-1994-nn73-1996",
+   "short": "U-I-1010/1994",
+   "title": "Odluka Ustavnog suda Republike Hrvatske, broj U-I-1010/1994 od 29. kolovoza 1996.",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1996/73/1331",
+   "versions": [
+    {
+     "from": "1996-08-30",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1996_08_73_1331.html",
+     "sha256": "9fc84353f92b469fc2425609c73ded2f72e088d7c19b65bacc70f343ab603fd8"
+    }
+   ]
+  },
+  {
+   "slug": "usrh-u-i-130-1995-nn99-1996",
+   "path": "ustavni-sud/1996/u-i-130-1995-nn99-1996",
+   "short": "U-I-130/1995",
+   "title": "Odluka Ustavnog suda Republike Hrvatske, broj U-I-130/1995 od 20. studenoga 1996.",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1996/99/1957",
+   "versions": [
+    {
+     "from": "1996-11-26",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1996_11_99_1957.html",
+     "sha256": "793552e50526887bd17349b9bd3b23c3dd86a09ad624e9050858d5fe86e5f211"
+    }
+   ]
+  },
+  {
+   "slug": "usrh-u-i-248-1994-nn103-1996",
+   "path": "ustavni-sud/1996/u-i-248-1994-nn103-1996",
+   "short": "U-I-248/1994",
+   "title": "Odluka Ustavnog suda Republike Hrvatske broj U-I-248/1994 od 13. studenoga 1996.",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1996/103/2002",
+   "versions": [
+    {
+     "from": "1996-12-06",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1996_12_103_2002.html",
+     "sha256": "71add6f0769d01d59fd0aafe6bb3cd9aaacd5782cfd9a307a5fbf55403fd67a8"
+    }
+   ]
+  },
+  {
+   "slug": "usrh-u-i-214-1996",
+   "path": "ustavni-sud/1996/u-i-214-1996",
+   "short": "U-I-214/1996",
+   "title": "Rješenje Ustavnog suda Republike Hrvatske broj: U-I-214/ 1996 od 4. prosinca 1996.",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1996/107/2088",
+   "versions": [
+    {
+     "from": "1996-12-20",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1996_12_107_2088.html",
+     "sha256": "02f136fca65102180147d2b052f5b2d67691755991ff7dda65e90920303a6e4a"
+    }
+   ]
+  },
+  {
+   "slug": "usrh-u-i-132-1995",
+   "path": "ustavni-sud/1997/u-i-132-1995",
+   "short": "U-I-132/1995",
+   "title": "Rješenje Ustavnog suda Republike Hrvatske broj U-I-132/1995 od 5",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1997/17/261",
+   "versions": [
+    {
+     "from": "1997-02-14",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1997_02_17_261.html",
+     "sha256": "497d05664495d0d834a105eef377f1d67c5c8b48801aa773ce30290ea5525e9b"
+    }
+   ]
+  },
+  {
+   "slug": "usrh-u-i-148-1996",
+   "path": "ustavni-sud/1997/u-i-148-1996",
+   "short": "U-I-148/1996",
+   "title": "Rješenje Ustavnog suda Republike Hrvatske broj U-I-148/1996 od 2",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1997/36/531",
+   "versions": [
+    {
+     "from": "1997-04-07",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1997_04_36_531.html",
+     "sha256": "b5f9416f77b9c29e2a714e05fe7d35c122842d243ba11a3fd478b20dc7d24c26"
+    }
+   ]
+  },
+  {
+   "slug": "usrh-u-i-218-1997",
+   "path": "ustavni-sud/1997/u-i-218-1997",
+   "short": "U-I-218/1997",
+   "title": "Rješenje Ustavnog suda Republike Hrvatske broj U-I-218 od 2",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1997/36/532",
+   "versions": [
+    {
+     "from": "1997-04-07",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1997_04_36_532.html",
+     "sha256": "6f42b773c53499061e6e8d32c15d5947c3b29df66b875a99bf86544bc849f18a"
+    }
+   ]
+  },
+  {
+   "slug": "usrh-nn-37-1997-537",
+   "path": "ustavni-sud/1997/nn-37-1997-537",
+   "short": "Priopćenje - upozorenje Ustavnog suda Republike Hrvatske broj U VII 291 od 7",
+   "title": "Priopćenje - upozorenje Ustavnog suda Republike Hrvatske broj U VII 291 od 7",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1997/37/537",
+   "versions": [
+    {
+     "from": "1997-04-09",
+     "units": 2,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1997_04_37_537.html",
+     "sha256": "5a816ba1d52f4ddfa946353be60b3cc15f9a4ef55f3339d46a7035edf51c5c53"
+    }
+   ]
+  },
+  {
+   "slug": "usrh-u-i-138-1997",
+   "path": "ustavni-sud/1997/u-i-138-1997",
+   "short": "U-I-138/1997",
+   "title": "Rješenje Ustavnog suda Republike Hrvatske broj U-I-138 od 30. ožujka 1997.",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1997/48/712",
+   "versions": [
+    {
+     "from": "1997-05-09",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1997_05_48_712.html",
+     "sha256": "40400d5e8c2960ad2758b3891f1a5d474a08cc226a87d6cd7e880a59f5fe664d"
+    }
+   ]
+  },
+  {
+   "slug": "usrh-u-i-135-97",
+   "path": "ustavni-sud/1997/u-i-135-97",
+   "short": "U-I-135/97",
+   "title": "Rješenje Ustavnog suda Republike Hrvatske broj U-I-135/97 od 30",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1997/50/748",
+   "versions": [
+    {
+     "from": "1997-05-15",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1997_05_50_748.html",
+     "sha256": "20600d00c3faf1f29d73de2700f52315fe7c4ab9f0d7bd8ee7178131053b22b1"
+    }
+   ]
+  },
+  {
+   "slug": "usrh-u-i-107-1995",
+   "path": "ustavni-sud/1997/u-i-107-1995",
+   "short": "U-I-107/1995",
+   "title": "Rješenje Ustavnog suda Republike Hrvatske broj U-I-107/1995 od 14. svibnja 1997.",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1997/75/1337",
+   "versions": [
+    {
+     "from": "1997-07-21",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1997_07_75_1337.html",
+     "sha256": "3b77d79d27c9430105f67f3399fa0280a46dbc4bb562470ae4fb9a561ec93a9b"
+    }
+   ]
+  },
+  {
+   "slug": "usrh-u-i-1037-1995",
+   "path": "ustavni-sud/1997/u-i-1037-1995",
+   "short": "U-I-1037/1995",
+   "title": "Odluka Ustavnog suda Republike Hrvatske broj: U-I-1037/1995; U-I-179/1996; U-I-639; U-I-839; U-I-948 od 25. rujna 1997.",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1997/100/1571",
+   "versions": [
+    {
+     "from": "1997-09-26",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1997_09_100_1571.html",
+     "sha256": "cbdac3d0e97d3f71a417d618daba2ed49db33e0af0c982d71d6ac36d1bd1ed27"
+    }
+   ]
+  },
+  {
+   "slug": "usrh-u-i-20-1992-nn31-1998",
+   "path": "ustavni-sud/1998/u-i-20-1992-nn31-1998",
+   "short": "U-I-20/1992",
+   "title": "Odluka Ustavnog suda Republike Hrvatske broj: U-I-20/1992 od 18. veljače 1998.",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1998/31/370",
+   "versions": [
+    {
+     "from": "1998-03-06",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1998_03_31_370.html",
+     "sha256": "3db93a564f9f2d7d5edd5e9cb6ed75fe282635eb2980c3f9cbae2da1cd1955de"
+    }
+   ]
+  },
+  {
+   "slug": "usrh-u-i-219-1997",
+   "path": "ustavni-sud/1998/u-i-219-1997",
+   "short": "U-I-219/1997",
+   "title": "Rješenje Ustavnog suda Republike Hrvatske broj: U-I-219/1997 od 11. veljače 1998.",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1998/31/373",
+   "versions": [
+    {
+     "from": "1998-03-06",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1998_03_31_373.html",
+     "sha256": "ba320360966a849ff7cc59ed954d275ce65a22415188a7c66ebc43219e03f6ab"
+    }
+   ]
+  },
+  {
+   "slug": "usrh-u-i-1130-1997",
+   "path": "ustavni-sud/1998/u-i-1130-1997",
+   "short": "U-I-1130/1997",
+   "title": "Rješenje Ustavnog suda Republike Hrvatske broj: U-I-1130/1997 od 25. veljače 1998.",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1998/32/412",
+   "versions": [
+    {
+     "from": "1998-03-10",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1998_03_32_412.html",
+     "sha256": "f3be87cfb667faf651f151066a118f7523aef61965568b8a2b5fef15f3b9b4ef"
+    }
+   ]
+  },
+  {
+   "slug": "usrh-u-i-103-1997",
+   "path": "ustavni-sud/1998/u-i-103-1997",
+   "short": "U-I-103/1997",
+   "title": "Odluka Ustavnog suda Republike Hrvatske broj: U-I-103/1997 od 31. ožujka 1998.",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1998/50/625",
+   "versions": [
+    {
+     "from": "1998-04-08",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1998_04_50_625.html",
+     "sha256": "e036510e832452f85bee943f42548fbfe1a02559d8b70645dd79839cde43867f"
+    }
+   ]
+  },
+  {
+   "slug": "usrh-u-i-1032-1997",
+   "path": "ustavni-sud/1998/u-i-1032-1997",
+   "short": "U-I-1032/1997",
+   "title": "Rješenje Ustavnog suda Republike Hrvatske broj: U-I-1032/1997, U-I-1156/1997 od 11. ožujka 1998.",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1998/50/637",
+   "versions": [
+    {
+     "from": "1998-04-08",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1998_04_50_637.html",
+     "sha256": "c2ff5170c0913508457c7c48e16279c825f7e743c3f08ab8a6c65f6c97242cae"
+    }
+   ]
+  },
+  {
+   "slug": "usrh-u-i-1203-1997",
+   "path": "ustavni-sud/1998/u-i-1203-1997",
+   "short": "U-I-1203/1997",
+   "title": "Rješenje Ustavnog suda Republike Hrvatske broj: U-I-1203/1997 od 11. ožujka 1998.",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1998/50/639",
+   "versions": [
+    {
+     "from": "1998-04-08",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1998_04_50_639.html",
+     "sha256": "a1c0bc0c7f761c0b95e2fe3b0d8b0a6836bb60543ef4b18a2009737aceda09a3"
+    }
+   ]
+  },
+  {
+   "slug": "usrh-u-i-238-1995",
+   "path": "ustavni-sud/1998/u-i-238-1995",
+   "short": "U-I-238/1995",
+   "title": "Rješenje Ustavnog suda Republike Hrvatske broj U-I-238/1995 i U-I-797/1997 od 11. lipnja 1998.",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1998/91/1247",
+   "versions": [
+    {
+     "from": "1998-07-03",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1998_07_91_1247.html",
+     "sha256": "e486255d9e078906d205192613965e055e335662a3118a73e42b082a2a50bc7a"
+    }
+   ]
+  },
+  {
+   "slug": "usrh-u-i-222-1995",
+   "path": "ustavni-sud/1998/u-i-222-1995",
+   "short": "U-I-222/1995",
+   "title": "Rješenje Ustavnog suda Republike Hrvatske broj U-I-222/1995 od 15. srpnja 1998.",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1998/98/1364",
+   "versions": [
+    {
+     "from": "1998-07-20",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1998_07_98_1364.html",
+     "sha256": "539cc781457c1f5d7b47191c75b27dda6121fce0c245e749badbf6ecfb5bf5bc"
+    }
+   ]
+  },
+  {
+   "slug": "usrh-u-i-222-1995-nn150-1998",
+   "path": "ustavni-sud/1998/u-i-222-1995-nn150-1998",
+   "short": "U-I-222/1995",
+   "title": "Odluka Ustavnog suda Republike Hrvatske broj U-I-222/1995 od 9. studenoga 1998. godine",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1998/150/1856",
+   "versions": [
+    {
+     "from": "1998-11-19",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1998_11_150_1856.html",
+     "sha256": "05d2a51e26fc764eb121165a8d739771aa91ee2297a762186771d18639f97656"
+    }
+   ]
+  },
+  {
+   "slug": "usrh-u-i-1253-1997",
+   "path": "ustavni-sud/1998/u-i-1253-1997",
+   "short": "U-I-1253/1997",
+   "title": "Rješenje Ustavnog suda Republike Hrvatske broj U-I-1253/1997 i U-I-441/1998 od 8. prosinca 1998.",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1998/166/2058",
+   "versions": [
+    {
+     "from": "1998-12-30",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1998_12_166_2058.html",
+     "sha256": "bdd166a3b95f9d07732c696f3558567e840fdfa0d847e5a7668e104c3c1a0872"
+    }
+   ]
+  },
+  {
+   "slug": "usrh-u-i-249-1998",
+   "path": "ustavni-sud/1998/u-i-249-1998",
+   "short": "U-I-249/1998",
+   "title": "Rješenje Ustavnog suda Republike Hrvatske broj U-I-249/1998 od 2. prosinca 1998.",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1998/166/2059",
+   "versions": [
+    {
+     "from": "1998-12-30",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1998_12_166_2059.html",
+     "sha256": "5287a435f1d1edfa45dea42b3a04bc9591d3685e62577dd4d1d4031934e11c68"
+    }
+   ]
+  },
+  {
+   "slug": "usrh-u-i-243-1997",
+   "path": "ustavni-sud/1999/u-i-243-1997",
+   "short": "U-I-243/1997",
+   "title": "Rješenje Ustavnog suda Republike Hrvatske broj U-I-243/1997, U-I-248/1997 i U-I-806/1998 od 20",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1999/17/365",
+   "versions": [
+    {
+     "from": "1999-02-18",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1999_02_17_365.html",
+     "sha256": "cb3907eda6ec4ece3c61c5f78bc1f3a0107014935d6964f015378a701bb53834"
+    }
+   ]
+  },
+  {
+   "slug": "usrh-u-i-241-1998",
+   "path": "ustavni-sud/1999/u-i-241-1998",
+   "short": "U-I-241/1998",
+   "title": "Odluka Ustavnog suda Republike Hrvatske broj U-I-241/1998 od 31",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1999/38/781",
+   "versions": [
+    {
+     "from": "1999-04-20",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1999_04_38_781.html",
+     "sha256": "5211f371dced5e797fe27d4d549b6eeac019df820c4cf5eb232d2c336c18515f"
+    }
+   ]
+  },
+  {
+   "slug": "usrh-u-i-1194-1997",
+   "path": "ustavni-sud/1999/u-i-1194-1997",
+   "short": "U-I-1194/1997",
+   "title": "Rješenje Ustavnog suda Republike Hrvatske broj U-I-1194/1997, U-I-16/1998, U-I-40/1998, U-I-145/1998, U-I-227/1998, U-I-280/1998, U-I-465/1998, U-I-906/1998, U-I-24, U-I-108 od 24",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1999/50/950",
+   "versions": [
+    {
+     "from": "1999-05-21",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1999_05_50_950.html",
+     "sha256": "e943d2d33a2930089338d63e1c186de75caf0e5af2db1c61ed7b35f8cf05268a"
+    }
+   ]
+  },
+  {
+   "slug": "usrh-u-i-130-1997",
+   "path": "ustavni-sud/1999/u-i-130-1997",
+   "short": "U-I-130/1997",
+   "title": "Odluka Ustavnog suda Republike Hrvatske broj U-I-130/1997 od 24",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1999/78/1407",
+   "versions": [
+    {
+     "from": "1999-07-23",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1999_07_78_1407.html",
+     "sha256": "0e95dae0caaa6fdf7b9a96bf553b2d1cec525f28541b08bc8d77808f529b1120"
+    }
+   ]
+  },
+  {
+   "slug": "usrh-u-i-040-94",
+   "path": "ustavni-sud/1999/u-i-040-94",
+   "short": "U-I-040/94",
+   "title": "Rješenje Ustavnog suda Republike Hrvatske broj U-I-040/94, U-I-054/94, U-I-102/94, U-I-850/94, U-I-268/95, U-I-392/95, U-I-115/96, U-I-068/99, U-I-314/99, U-I-330/99 od 22. rujna 1999.",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1999/105/1757",
+   "versions": [
+    {
+     "from": "1999-10-13",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1999_10_105_1757.html",
+     "sha256": "50399685ccbd05004919517347aea70ad948d635c93995c269949984c5663bc8"
+    }
+   ]
+  },
+  {
+   "slug": "usrh-u-i-1253-1997-nn109-1999",
+   "path": "ustavni-sud/1999/u-i-1253-1997-nn109-1999",
+   "short": "U-I-1253/1997",
+   "title": "Odluka Ustavnog suda Republike Hrvatske broj U-I-1253/1997 i U-I-441/1998 od 29. rujna 1999.",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1999/109/1786",
+   "versions": [
+    {
+     "from": "1999-10-22",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1999_10_109_1786.html",
+     "sha256": "608e2816d42e538e3e1460831b63948fe93a31bbb470f64f72b1466b54cf4966"
+    }
+   ]
+  },
+  {
+   "slug": "usrh-u-i-1193-97",
+   "path": "ustavni-sud/1999/u-i-1193-97",
+   "short": "U-I-1193/97",
+   "title": "Rješenje Ustavnog suda Republike Hrvatske broj U-I-1193/97, U-I-1303/97, U-I-1317/97, U-I-6/98, U-I-53/98, U-I-85/98, U-I-717/98, U-I-725/98, U-I-1032/98, U-I-341/99, U-I-480/99. od 29. rujna 1999.",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1999/114/1845",
+   "versions": [
+    {
+     "from": "1999-11-03",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1999_11_114_1845.html",
+     "sha256": "d4d82b20d2534a632ee78c16f10013e8b2039cd218526ce7c8038db84788d89f"
+    }
+   ]
+  },
+  {
+   "slug": "usrh-u-i-104-1999",
+   "path": "ustavni-sud/1999/u-i-104-1999",
+   "short": "U-I-104/1999",
+   "title": "Rješenje Ustavnog suda Republike Hrvatske broj U-I-104/1999 od 20. listopada 1999.",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1999/116/1864",
+   "versions": [
+    {
+     "from": "1999-11-05",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1999_11_116_1864.html",
+     "sha256": "db39427fef4319b9ab47ae410b4c23ded8e7a2208523f16a13d1e508fc07ee86"
+    }
+   ]
+  },
+  {
+   "slug": "usrh-u-i-1059-1999",
+   "path": "ustavni-sud/1999/u-i-1059-1999",
+   "short": "U-I-1059/1999",
+   "title": "Rješenje Ustavnog suda Republike Hrvatske broj U-I-1059/1999 od 10. prosinca 1999.",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1999/137/2123",
+   "versions": [
+    {
+     "from": "1999-12-14",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1999_12_137_2123.html",
+     "sha256": "8f851874a0f14072b8f23472474e88fe84d142089cf24f31632db8e22e5a0cc7"
+    }
+   ]
+  },
+  {
+   "slug": "usrh-u-i-1156-1999",
+   "path": "ustavni-sud/2000/u-i-1156-1999",
+   "short": "U-I-1156/1999",
+   "title": "Odluka Ustavnog suda Republike Hrvatske broj U-I-1156/1999 od 26. siječnja 2000. i Obrazloženje suprotnog glasa pri donošenju ove odluke",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/14/193",
+   "versions": [
+    {
+     "from": "2000-02-04",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2000_02_14_193.html",
+     "sha256": "ff2611b7ae8d6421f500bf011f6211e95bd4fe461a9b1d52dd1958551125cb7f"
+    }
+   ]
+  },
+  {
+   "slug": "usrh-u-i-131-1998",
+   "path": "ustavni-sud/2000/u-i-131-1998",
+   "short": "U-I-131/1998",
+   "title": "Odluka i Rješenje Ustavnog suda Republike Hrvatske broj U-I-131/1998 od 3. veljače 2000.",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/20/286",
+   "versions": [
+    {
+     "from": "2000-02-16",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2000_02_20_286.html",
+     "sha256": "d4430270d11646c676145bebf7656a634099b15cdac95f63cfe090411a0b905f"
+    }
+   ]
+  },
+  {
+   "slug": "usrh-u-i-1203-1999",
+   "path": "ustavni-sud/2000/u-i-1203-1999",
+   "short": "U-I-1203/1999",
+   "title": "Rješenje Ustavnog suda Republike Hrvatske broj U-I-1203/1999 od 3. veljače 2000.",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/20/287",
+   "versions": [
+    {
+     "from": "2000-02-16",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2000_02_20_287.html",
+     "sha256": "0703cb8bdce9655e4dc066cd2e0fd92ac2392136ba760c0ba0a27d4bba6ffbc3"
+    }
+   ]
+  },
+  {
+   "slug": "usrh-u-i-1094-1999",
+   "path": "ustavni-sud/2000/u-i-1094-1999",
+   "short": "U-I-1094/1999",
+   "title": "Odluka Ustavnog suda Republike Hrvatske broj U-I-1094/1999 od 9. veljače 2000.",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/22/402",
+   "versions": [
+    {
+     "from": "2000-02-23",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2000_02_22_402.html",
+     "sha256": "4c8a7035bf2287593237f05eb1950291f7b316e18270cc0a256d566644b74a3f"
+    }
+   ]
+  },
+  {
+   "slug": "usrh-u-i-1023-1999",
+   "path": "ustavni-sud/2000/u-i-1023-1999",
+   "short": "U-I-1023/1999",
+   "title": "Odluka Ustavnog suda Republike Hrvatske broj U-I-1023/1999. od 23. veljače 2000.",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/26/529",
+   "versions": [
+    {
+     "from": "2000-03-03",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2000_03_26_529.html",
+     "sha256": "dd8ef6dbeee115a7a857f9e6514615b0bfbeab0826f6ce29970b1463d9260f1b"
+    }
+   ]
+  },
+  {
+   "slug": "usrh-u-i-1129-1999",
+   "path": "ustavni-sud/2000/u-i-1129-1999",
+   "short": "U-I-1129/1999",
+   "title": "Odluka Ustavnog suda Republike Hrvatske broj: U-I-1129/1999, U-I-1190/1999 od 22. ožujka 2000. i Izdvojeno mišljenje",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/35/838",
+   "versions": [
+    {
+     "from": "2000-03-31",
+     "units": 6,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2000_03_35_838.html",
+     "sha256": "28622d94a27f458475997b60e96a37349731fbf3941b6328be4f8619b95377a2"
+    }
+   ]
+  },
+  {
+   "slug": "usrh-u-i-241-2000",
+   "path": "ustavni-sud/2000/u-i-241-2000",
+   "short": "U-I-241/2000",
+   "title": "Odluka Ustavnog suda Republike Hrvatske broj U-I-241/2000 od 10. svibnja 2000.",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/50/1125",
+   "versions": [
+    {
+     "from": "2000-05-17",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2000_05_50_1125.html",
+     "sha256": "ef0395d05b8d9a23a86a53dd0a801d94fdc43b00f7e0851d77831bad51e04341"
+    }
+   ]
+  },
+  {
+   "slug": "usrh-u-i-236-1996",
+   "path": "ustavni-sud/2000/u-i-236-1996",
+   "short": "U-I-236/1996",
+   "title": "Odluka Ustavnog suda Republike Hrvatske broj U-I-236/1996, U-I-840/1997 od 3. svibnja 2000.",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/50/1126",
+   "versions": [
+    {
+     "from": "2000-05-17",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2000_05_50_1126.html",
+     "sha256": "8a526fb6fd0d3e5e0a413a71599914c582b165c819f1ba74a68c7f4a84e87dc0"
+    }
+   ]
+  },
+  {
+   "slug": "usrh-u-i-1085-1997",
+   "path": "ustavni-sud/2000/u-i-1085-1997",
+   "short": "U-I-1085/1997",
+   "title": "Rješenje Ustavnog suda Republike Hrvatske broj U-I-1085/1997, U-I-23/1999, U-I-824/1999 od 20. travnja 2000.",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/51/1135",
+   "versions": [
+    {
+     "from": "2000-05-19",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2000_05_51_1135.html",
+     "sha256": "7a111ddec6e055e5724a0fd239a4dc547d55fb002cad78f157c993f0f6ae466a"
+    }
+   ]
+  },
+  {
+   "slug": "usrh-u-i-11-1993",
+   "path": "ustavni-sud/2000/u-i-11-1993",
+   "short": "U-I-11/1993",
+   "title": "Odluka i Rješenje Ustavnog suda Republike Hrvatske broj U-I-11/1993, U-I-904/1995 od 24. svibnja 2000.",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/56/1252",
+   "versions": [
+    {
+     "from": "2000-06-06",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2000_06_56_1252.html",
+     "sha256": "c3ee457bbbde738fc296b1a7af8e46783299ce11794b2feb5a107bd4c74ad87a"
+    }
+   ]
+  },
+  {
+   "slug": "usrh-u-i-1026-1995",
+   "path": "ustavni-sud/2000/u-i-1026-1995",
+   "short": "U-I-1026/1995",
+   "title": "Odluka i Rješenje Ustavnog suda Republike Hrvatske broj U-I-1026/1995, U-I-1080/1998, U-I-105/1999, U-I-694/1999, U-I-1007/1999, U-I-1093/1999, U-I-29/2000 od 5. srpnja 2000.",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/69/1525",
+   "versions": [
+    {
+     "from": "2000-07-17",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2000_07_69_1525.html",
+     "sha256": "72545dfa2c83045b0dd311cbc9d2b5ed6d8e40cade589bef77780b9d292252a7"
+    }
+   ]
+  },
+  {
+   "slug": "usrh-u-i-1006-1995",
+   "path": "ustavni-sud/2000/u-i-1006-1995",
+   "short": "U-I-1006/1995",
+   "title": "Odluka Ustavnog suda Republike Hrvatske broj U-I-1006/1995 od 21. rujna 2000.",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/100/1971",
+   "versions": [
+    {
+     "from": "2000-10-10",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2000_10_100_1971.html",
+     "sha256": "7b5aae18e6d6a758c388788a8b304eeb398e2c128fb6882599093fdf3c3c38a1"
+    }
+   ]
+  },
+  {
+   "slug": "usrh-u-i-1006-1995-nn131-2000",
+   "path": "ustavni-sud/2000/u-i-1006-1995-nn131-2000",
+   "short": "U-I-1006/1995",
+   "title": "Odluka Ustavnog suda Republike Hrvatske broj U-I-1006/1995 od 20. prosinca 2000.",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/131/2460",
+   "versions": [
+    {
+     "from": "2000-12-28",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2000_12_131_2460.html",
+     "sha256": "3425e88673c713db2fa6c3044f9342b323b5f47625318d6c6ce9292063b335d5"
+    }
+   ]
+  },
+  {
+   "slug": "usrh-u-i-189-1999",
+   "path": "ustavni-sud/2001/u-i-189-1999",
+   "short": "U-I-189/1999",
+   "title": "Rješenje Ustavnog suda Republike Hrvatske broj U-I-189/1999, U-I-429/1999, U-I-493/1999, U-I-832/1999, U-I-283/2000, U-I-1714/2000 od 20. prosinca 2000.",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/1/28",
+   "versions": [
+    {
+     "from": "2001-01-05",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2001_01_1_28.html",
+     "sha256": "0351cbe3377e8f7aa934d533f13447b1355bd9d63b6e7b39ba165e2f6fb2d22c"
+    }
+   ]
+  },
+  {
+   "slug": "usrh-u-i-1071-2000",
+   "path": "ustavni-sud/2001/u-i-1071-2000",
+   "short": "U-I-1071/2000",
+   "title": "Rješenje Ustavnog suda Republike Hrvatske broj U-I-1071/2000 od 31. siječnja 2001.",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/13/260",
+   "versions": [
+    {
+     "from": "2001-02-16",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2001_02_13_260.html",
+     "sha256": "0dc6271733e0f7dfd7e194d4d9d458b7c05762fa4a37162d0a4ebad012c36b31"
+    }
+   ]
+  },
+  {
+   "slug": "usrh-u-i-1631-2000",
+   "path": "ustavni-sud/2001/u-i-1631-2000",
+   "short": "U-I-1631/2000",
+   "title": "Rješenje Ustavnog suda Republike Hrvatske broj U-I-1631/2000 od 28. ožujka 2001.",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/27/486",
+   "versions": [
+    {
+     "from": "2001-03-30",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2001_03_27_486.html",
+     "sha256": "02a034be81f4190b694b66c32d14da2c0d8370238a0e478ee09f51c586e6a080"
+    }
+   ]
+  },
+  {
+   "slug": "usrh-u-i-190-2001",
+   "path": "ustavni-sud/2001/u-i-190-2001",
+   "short": "U-I-190/2001",
+   "title": "Odluka i Rješenje Ustavnog suda Republike Hrvatske broj U-I-190/2001 od 12. srpnja 2001. i Obrazloženje suprotnog glasa pri donošenju Odluke i Rješenja",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/67/1112",
+   "versions": [
+    {
+     "from": "2001-07-24",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2001_07_67_1112.html",
+     "sha256": "2b477446a509143a33a8921e32ae64dcc0860b439a37a30c51d2d45a94e7dc27"
+    }
+   ]
+  },
+  {
+   "slug": "usrh-u-i-137-2001",
+   "path": "ustavni-sud/2002/u-i-137-2001",
+   "short": "U-I-137/2001",
+   "title": "Rješenje Ustavnog suda Republike Hrvatske broj U-I-137/2001 i dr. od 19. prosinca 2001.",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2002/3/127",
+   "versions": [
+    {
+     "from": "2002-01-11",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2002_01_3_127.html",
+     "sha256": "f1b5f1f58a4f1660a2be55306c5a41f3c8dd4b234dd177436a30e68a0b4323cf"
+    }
+   ]
+  },
+  {
+   "slug": "usrh-u-i-1489-2001",
+   "path": "ustavni-sud/2002/u-i-1489-2001",
+   "short": "U-I-1489/2001",
+   "title": "Rješenje Ustavnog suda Republike Hrvatske broj U-I-1489/2001, U-I-1490/2001, U-I-1570/2001, U-I-1571/2001 od 20. veljače 2002.",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2002/21/508",
+   "versions": [
+    {
+     "from": "2002-03-06",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2002_03_21_508.html",
+     "sha256": "a657d29d549a725492506f663d34e0923c0857fc4dae3a90d5e3734b8d3e4765"
+    }
+   ]
+  },
+  {
+   "slug": "usrh-u-i-1348-2001",
+   "path": "ustavni-sud/2002/u-i-1348-2001",
+   "short": "U-I-1348/2001",
+   "title": "Rješenje Ustavnog suda Republike Hrvatske broj U-I-1348/2001, U-I-2529/2001 od 4. travnja 2002. godine",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2002/38/856",
+   "versions": [
+    {
+     "from": "2002-04-16",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2002_04_38_856.html",
+     "sha256": "d87e951f22f633f2b99f42b11b510ae942b1aba35eebe87c9b53c03f79106502"
+    }
+   ]
+  },
+  {
+   "slug": "usrh-u-i-1920-2001",
+   "path": "ustavni-sud/2002/u-i-1920-2001",
+   "short": "U-I-1920/2001",
+   "title": "Rješenje Ustavnog suda Republike Hrvatske broj U-I-1920/2001 od 6. lipnja 2002.",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2002/73/1210",
+   "versions": [
+    {
+     "from": "2002-06-20",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2002_06_73_1210.html",
+     "sha256": "d9647ffd217c5405f1f1d419e4d9095f50b55227a7f71911f50440528f28538f"
+    }
+   ]
+  },
+  {
+   "slug": "usrh-u-i-107-1995-nn86-2002",
+   "path": "ustavni-sud/2002/u-i-107-1995-nn86-2002",
+   "short": "U-I-107/1995",
+   "title": "Odluka Ustavnog suda Republike Hrvatske broj U-I-107/1995, U-I-336/2000 od 19. lipnja 2002.",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2002/86/1440",
+   "versions": [
+    {
+     "from": "2002-07-19",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2002_07_86_1440.html",
+     "sha256": "320aaf5dcedf8eeb35b095cc9ef516abcc16c46e9b304283a13d623a0c6cd3c5"
+    }
+   ]
+  },
+  {
+   "slug": "usrh-nn-133-2002-2145",
+   "path": "ustavni-sud/2002/nn-133-2002-2145",
+   "short": "Izvješće Ustavnog suda Republike Hrvatske u povodu Inicijative Vlade Republike Hrvatske, klasa: 004-01/02-02/12, urbroj: 5030109-02-2 od 10. listopada 2002. godine",
+   "title": "Izvješće Ustavnog suda Republike Hrvatske u povodu Inicijative Vlade Republike Hrvatske, klasa: 004-01/02-02/12, urbroj: 5030109-02-2 od 10. listopada 2002. godine",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2002/133/2145",
+   "versions": [
+    {
+     "from": "2002-11-15",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2002_11_133_2145.html",
+     "sha256": "b0b5b0b00d518eb5184e120d72dff1940c4cbcabe77021c56daaa1f87ae0ff10"
+    }
+   ]
+  },
+  {
+   "slug": "usrh-u-i-2441-2002",
+   "path": "ustavni-sud/2003/u-i-2441-2002",
+   "short": "U-I-2441/2002",
+   "title": "Odluka Ustavnog suda Republike Hrvatske broj U-I-2441/2002, U-I-1107/2002 od 12. veljače 2003.",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2003/28/403",
+   "versions": [
+    {
+     "from": "2003-02-25",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2003_02_28_403.html",
+     "sha256": "f7a6e3f7f70ecdeb4cde70da084d4f9aa57555babd9bceec1d448a68a3599b86"
+    }
+   ]
+  },
+  {
+   "slug": "usrh-u-i-1559-2000",
+   "path": "ustavni-sud/2003/u-i-1559-2000",
+   "short": "U-I-1559/2000",
+   "title": "Rješenje Ustavnog suda Republike Hrvatske broj U-I-1559/2000 od 12. ožujka 2003.",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2003/44/571",
+   "versions": [
+    {
+     "from": "2003-03-20",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2003_03_44_571.html",
+     "sha256": "c486449870ab8f9afe4062647aa20b992c2b76195948381be9ca1f38cb33b3b8"
+    }
+   ]
+  },
+  {
+   "slug": "usrh-u-i-1905-2001",
+   "path": "ustavni-sud/2003/u-i-1905-2001",
+   "short": "U-I-1905/2001",
+   "title": "Rješenje Ustavnog suda Republike Hrvatske broj U-I-1905/2001 od 12. ožujka 2003.",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2003/44/572",
+   "versions": [
+    {
+     "from": "2003-03-20",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2003_03_44_572.html",
+     "sha256": "3233e548b499ce4eb939e599872d4571fab610ded15911de05e2f1bd4aa277ef"
+    }
+   ]
+  },
+  {
+   "slug": "usrh-u-i-1999-2002",
+   "path": "ustavni-sud/2003/u-i-1999-2002",
+   "short": "U-I-1999/2002",
+   "title": "Rješenje Ustavnog suda Republike Hrvatske broj U-I-1999/2002, U-I-3104/2002 od 26. ožujka 2003.",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2003/64/765",
+   "versions": [
+    {
+     "from": "2003-04-16",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2003_04_64_765.html",
+     "sha256": "2cd016f2ddbb30110f95b1323235d5855a377a32eee764ba7f2d8856ab2ea92c"
+    }
+   ]
+  },
+  {
+   "slug": "usrh-u-i-1681-2003",
+   "path": "ustavni-sud/2003/u-i-1681-2003",
+   "short": "U-I-1681/2003",
+   "title": "Rješenje Ustavnog suda Republike Hrvatske broj U-I-1681/2003, U-I-2070/2003 od 17. rujna 2003.",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2003/152/2207",
+   "versions": [
+    {
+     "from": "2003-09-26",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2003_09_152_2207.html",
+     "sha256": "62837b063b951587e7f8f95b2dabc4b7815bc5aec6f1cc45a9585e0b7cb10898"
+    }
+   ]
+  },
+  {
+   "slug": "usrh-u-i-2057-2003",
+   "path": "ustavni-sud/2003/u-i-2057-2003",
+   "short": "U-I-2057/2003",
+   "title": "Rješenje Ustavnog suda Republike Hrvatske broj U-I-2057/2003 od 17. rujna 2003.",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2003/152/2208",
+   "versions": [
+    {
+     "from": "2003-09-26",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2003_09_152_2208.html",
+     "sha256": "6f28887ae5400ac40f5479b597a968d65e1c253953361f4a4f8b32116dc83f55"
+    }
+   ]
+  },
+  {
+   "slug": "usrh-u-i-1267-2002",
+   "path": "ustavni-sud/2003/u-i-1267-2002",
+   "short": "U-I-1267/2002",
+   "title": "Rješenje Ustavnog suda Republike Hrvatske broj: U-I-1267/2002 od 17. rujna 2003.",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2003/159/2308",
+   "versions": [
+    {
+     "from": "2003-10-10",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2003_10_159_2308.html",
+     "sha256": "eb6136c6bcad46d5f156190038145d79e117f22ee1909e2f667603cab71bd83f"
+    }
+   ]
+  },
+  {
+   "slug": "usrh-u-i-1199-2003",
+   "path": "ustavni-sud/2003/u-i-1199-2003",
+   "short": "U-I-1199/2003",
+   "title": "Rješenje Ustavnog suda Republike Hrvatske broj U-I-1199/2003 od 1. listopada 2003.",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2003/175/2565",
+   "versions": [
+    {
+     "from": "2003-11-04",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2003_11_175_2565.html",
+     "sha256": "51c15b3a8d83edaece59befac78f55a5db26a779534638a5dbdd8ddfd4fb2c54"
+    }
+   ]
+  },
+  {
+   "slug": "usrh-u-i-2058-2003",
+   "path": "ustavni-sud/2003/u-i-2058-2003",
+   "short": "U-I-2058/2003",
+   "title": "Rješenje Ustavnog suda Republike Hrvatske broj U-I-2058/2003 od 1. listopada 2003.",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2003/175/2566",
+   "versions": [
+    {
+     "from": "2003-11-04",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2003_11_175_2566.html",
+     "sha256": "ccb3c52a23bcb9a02d7b21e5a7e387c4e8e3068273541b47a2a25659a1d8709f"
+    }
+   ]
+  },
+  {
+   "slug": "usrh-u-i-1441-2001",
+   "path": "ustavni-sud/2003/u-i-1441-2001",
+   "short": "U-I-1441/2001",
+   "title": "Rješenje Ustavnog suda Republike Hrvatske brroj U-I-1441/2001. od 23. listopada 2003.",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2003/177/2587",
+   "versions": [
+    {
+     "from": "2003-11-07",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2003_11_177_2587.html",
+     "sha256": "fc00d132f9faaa4419d38a858d2578a07a02e63d26bb87e432e10ed093ce61e6"
+    }
+   ]
+  },
+  {
+   "slug": "usrh-u-i-1291-2001",
+   "path": "ustavni-sud/2003/u-i-1291-2001",
+   "short": "U-I-1291/2001",
+   "title": "Rješenje Ustavnog suda Republike Hrvatske broj U-I-1291/2001 od 23. listopada 2003. godine",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2003/180/2659",
+   "versions": [
+    {
+     "from": "2003-11-13",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2003_11_180_2659.html",
+     "sha256": "efa7c29f25d9d5204628cc7c48ae456108f9b47ed903b9ac0325287968983631"
+    }
+   ]
+  },
+  {
+   "slug": "usrh-u-i-2494-2002",
+   "path": "ustavni-sud/2004/u-i-2494-2002",
+   "short": "U-I-2494/2002",
+   "title": "Odluka Ustavnog suda Republike Hrvatske broj: U-I-2494/2002 od 24. ožujka 2004.",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2004/43/1026",
+   "versions": [
+    {
+     "from": "2004-04-05",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2004_04_43_1026.html",
+     "sha256": "52b5b0991bbdd7c59026b6340cab228234e6fdd32d288b7e5437f0025f1eaa30"
+    }
+   ]
+  },
+  {
+   "slug": "usrh-u-i-1398-2001",
+   "path": "ustavni-sud/2004/u-i-1398-2001",
+   "short": "U-I-1398/2001",
+   "title": "Rješenje Ustavnog suda Republike Hrvatske broj U-I-1398/2001 od 7. travnja 2004.",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2004/54/1233",
+   "versions": [
+    {
+     "from": "2004-04-28",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2004_04_54_1233.html",
+     "sha256": "65d4704c51f3474d1050993d86704a8bf4441e0a7d176d55ba36f93266118184"
+    }
+   ]
+  },
+  {
+   "slug": "usrh-u-i-2495-2002",
+   "path": "ustavni-sud/2004/u-i-2495-2002",
+   "short": "U-I-2495/2002",
+   "title": "Odluka Ustavnog suda Republike Hrvatske broj: U-I-2495/2002 od 11. svibnja 2004.",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2004/69/1459",
+   "versions": [
+    {
+     "from": "2004-05-27",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2004_05_69_1459.html",
+     "sha256": "555ed7b2ffcf31fc597f8f057abe2e2c8a2cf3c3159f56ba70dc4f4d8e786999"
+    }
+   ]
+  },
+  {
+   "slug": "usrh-u-i-1948-2000",
+   "path": "ustavni-sud/2004/u-i-1948-2000",
+   "short": "U-I-1948/2000",
+   "title": "Rješenje Ustavnog suda Republike Hrvatske broj U-I-1948/2000 od 28. rujna 2004.",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2004/145/2553",
+   "versions": [
+    {
+     "from": "2004-10-19",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2004_10_145_2553.html",
+     "sha256": "8bc12ae3b5342e8b6e514a5d65f29de12b13bf26a3be8021c1f17dffbcda09f6"
+    }
+   ]
+  },
+  {
+   "slug": "usrh-u-i-1455-2001",
+   "path": "ustavni-sud/2004/u-i-1455-2001",
+   "short": "U-I-1455/2001",
+   "title": "Rješenje Ustavnog suda Republike Hrvatske broj U-I-1455/2001. od 24. studenoga 2004.",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2004/175/3044",
+   "versions": [
+    {
+     "from": "2004-12-13",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2004_12_175_3044.html",
+     "sha256": "b67bf43e57304e0326703a3c7fb3f2ed63e50cd51f781a9ccf88302d9e6700c1"
+    }
+   ]
+  },
+  {
+   "slug": "usrh-u-i-1108-1998",
+   "path": "ustavni-sud/2005/u-i-1108-1998",
+   "short": "U-I-1108/1998",
+   "title": "Rješenje Ustavnog suda Republike Hrvatske broj U-I-1108/1998 od 22. prosinca 2004.",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/5/82",
+   "versions": [
+    {
+     "from": "2005-01-11",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_01_5_82.html",
+     "sha256": "cb052cc1e6fb6c514b9efc46d19820a7f86a9c39c0c2a9e7d6c080157b31ceb7"
+    }
+   ]
+  },
+  {
+   "slug": "usrh-u-i-101-1997",
+   "path": "ustavni-sud/2005/u-i-101-1997",
+   "short": "U-I-101/1997",
+   "title": "Rješenje Ustavnog suda Republike Hrvatske broj U-I-101/1997 od 22. prosinca 2004.",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/6/117",
+   "versions": [
+    {
+     "from": "2005-01-12",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_01_6_117.html",
+     "sha256": "7ceb2815be8a4c926f55b4795bb38a5d7bc3684c7373fa3777683adec019d0b5"
+    }
+   ]
+  },
+  {
+   "slug": "usrh-u-i-107-1996",
+   "path": "ustavni-sud/2005/u-i-107-1996",
+   "short": "U-I-107/1996",
+   "title": "Rješenje Ustavnog suda Republike Hrvatske broj U-I-107/1996 od 22. prosinca 2004.",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/6/118",
+   "versions": [
+    {
+     "from": "2005-01-12",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_01_6_118.html",
+     "sha256": "5d718352a6e486042ccf1febab12d7d4a6850295c70a8485f9f5c1bc0e7b6f50"
+    }
+   ]
+  },
+  {
+   "slug": "usrh-u-i-197-1999",
+   "path": "ustavni-sud/2005/u-i-197-1999",
+   "short": "U-I-197/1999",
+   "title": "Rješenje Ustavnog suda Republike Hrvatske broj: U-I-197/1999 i dr. od 23. ožujka 2005. godine",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/47/931",
+   "versions": [
+    {
+     "from": "2005-04-11",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_04_47_931.html",
+     "sha256": "4389e0129ce5481097500cd80cc9f1b8d00d92b6a8debb92d8a40a0122bd0d9b"
+    }
+   ]
+  },
+  {
+   "slug": "usrh-u-i-2362-2001",
+   "path": "ustavni-sud/2005/u-i-2362-2001",
+   "short": "U-I-2362/2001",
+   "title": "Rješenje Ustavnog suda Republike Hrvatske broj: U-I-2362/2001 od 5. svibnja 2005.",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/64/1240",
+   "versions": [
+    {
+     "from": "2005-05-23",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_05_64_1240.html",
+     "sha256": "a1b727e5e5ef088da3dbf7d7e3ceb0689e78def73cc66f6ba51513b3f71d452b"
+    }
+   ]
+  },
+  {
+   "slug": "usrh-u-i-1354-2004",
+   "path": "ustavni-sud/2005/u-i-1354-2004",
+   "short": "U-I-1354/2004",
+   "title": "Rješenje Ustavnog suda Republike Hrvatske brojU-I-1354/2004 od 29. lipnja 2005.",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/84/1639",
+   "versions": [
+    {
+     "from": "2005-07-11",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_07_84_1639.html",
+     "sha256": "ba2b943eabc7877a4da97bf0c0eb783f1f3b0be87f2a71038e433c13d2f09914"
+    }
+   ]
+  },
+  {
+   "slug": "usrh-u-i-1806-2001",
+   "path": "ustavni-sud/2005/u-i-1806-2001",
+   "short": "U-I-1806/2001",
+   "title": "Rješenje Ustavnog suda Republike Hrvatske broj:U-I-1806/2001. od 26. listopada 2005.",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/133/2487",
+   "versions": [
+    {
+     "from": "2005-11-09",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_11_133_2487.html",
+     "sha256": "c093435a6e168cdb1a4123e83c8cbf95d4d2a8edab32803d0c99287ff9cdb701"
+    }
+   ]
+  },
+  {
+   "slug": "usrh-u-i-1682-2003",
+   "path": "ustavni-sud/2005/u-i-1682-2003",
+   "short": "U-I-1682/2003",
+   "title": "Rješenje Ustavnog suda Republike Hrvatske broj:U-I-1682/2003 od 26. listopada 2005.",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/133/2489",
+   "versions": [
+    {
+     "from": "2005-11-09",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_11_133_2489.html",
+     "sha256": "ad10241aa40240e725bf2c9f2a48e54b9ed4c62a0b177e086f3a066719e19731"
+    }
+   ]
+  },
+  {
+   "slug": "usrh-u-i-2443-2002",
+   "path": "ustavni-sud/2005/u-i-2443-2002",
+   "short": "U-I-2443/2002",
+   "title": "Rješenje Ustavnog suda Republike Hrvatske broj:U-I-2443/2002 i U-I-953/2003 od 8. studenoga 2005. godine",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/139/2638",
+   "versions": [
+    {
+     "from": "2005-11-25",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_11_139_2638.html",
+     "sha256": "3ba976690aaa661b26fdd76b74ebb4b48b67fb73806c3311f1fb71deb4c965f1"
+    }
+   ]
+  },
+  {
+   "slug": "usrh-u-i-1111-2003",
+   "path": "ustavni-sud/2006/u-i-1111-2003",
+   "short": "U-I-1111/2003",
+   "title": "Rješenje Ustavnog suda Republike Hrvatske broj:U-I-1111/2003 od 21. prosinca 2005.",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/6/149",
+   "versions": [
+    {
+     "from": "2006-01-13",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_01_6_149.html",
+     "sha256": "524a6c31e84ce71daa5bc90252037ee058e2d5a80f7c97fc0b5d5467b5577741"
+    }
+   ]
+  },
+  {
+   "slug": "usrh-u-i-1605-2003",
+   "path": "ustavni-sud/2006/u-i-1605-2003",
+   "short": "U-I-1605/2003",
+   "title": "Rješenje Ustavnog suda Republike Hrvatske broj:U-I-1605/2003 od 21. prosinca 2005.",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/6/151",
+   "versions": [
+    {
+     "from": "2006-01-13",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_01_6_151.html",
+     "sha256": "46f067a64d56a74cbac48109d503c8351ee0d5446344c823140eba4e3cfbc0bf"
+    }
+   ]
+  },
+  {
+   "slug": "usrh-u-i-1746-2002",
+   "path": "ustavni-sud/2006/u-i-1746-2002",
+   "short": "U-I-1746/2002",
+   "title": "Rješenje Ustavnog suda Republike Hrvatske broj:U-I-1746/2002 od 21. prosinca 2005.",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/6/152",
+   "versions": [
+    {
+     "from": "2006-01-13",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_01_6_152.html",
+     "sha256": "d3e6c979ea21b1e4b80cd5efade26faa58c1a8f4ddbc5cc4210f23093b269a98"
+    }
+   ]
+  },
+  {
+   "slug": "usrh-u-i-1745-2004",
+   "path": "ustavni-sud/2006/u-i-1745-2004",
+   "short": "U-I-1745/2004",
+   "title": "Rješenje Ustavnog suda Republike Hrvatske broj:U-I-1745/2004 od 25. siječnja 2006.",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/20/505",
+   "versions": [
+    {
+     "from": "2006-02-20",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_02_20_505.html",
+     "sha256": "133538da968996448ecd70cb4afcfcf4953874e31f9076cf5bf7a6409d264e91"
+    }
+   ]
+  },
+  {
+   "slug": "usrh-u-i-1864-2002",
+   "path": "ustavni-sud/2006/u-i-1864-2002",
+   "short": "U-I-1864/2002",
+   "title": "Rješenje Ustavnog suda Republike Hrvatske broj:U-I-1864/2002 od 8. ožujka 2006.",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/40/983",
+   "versions": [
+    {
+     "from": "2006-04-12",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_04_40_983.html",
+     "sha256": "13e517090cd0568ecc1af8e67087d5ef291974681c9c5bc3096f4f849299b9ba"
+    }
+   ]
+  },
+  {
+   "slug": "usrh-u-i-177-2002",
+   "path": "ustavni-sud/2006/u-i-177-2002",
+   "short": "U-I-177/2002",
+   "title": "Odluka Ustavnog suda Republike Hrvatske broj:U-I-177/2002 od 20. travnja 2006.",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/58/1399",
+   "versions": [
+    {
+     "from": "2006-05-26",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_05_58_1399.html",
+     "sha256": "c6968c129cd866bc114737d179d279c0669e19fdf852eac63c3504261864a6e7"
+    }
+   ]
+  },
+  {
+   "slug": "usrh-u-i-1864-2002-nn63-2006",
+   "path": "ustavni-sud/2006/u-i-1864-2002-nn63-2006",
+   "short": "U-I-1864/2002",
+   "title": "Rješenje Ustavnog suda Republike Hrvatske broj:U-I-1864/2002 od 8. ožujka 2006.",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/63/1543",
+   "versions": [
+    {
+     "from": "2006-06-05",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_06_63_1543.html",
+     "sha256": "071cc73bad0d11b347df2583f495c3c18261962ad3d4920fd9def91b5316fada"
+    }
+   ]
+  },
+  {
+   "slug": "usrh-u-i-1707-2006",
+   "path": "ustavni-sud/2007/u-i-1707-2006",
+   "short": "U-I-1707/2006",
+   "title": "Odluka Ustavnog suda Republike Hrvatske broj:U-I-1707/2006 od 20. prosinca 2006.",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2007/2/182",
+   "versions": [
+    {
+     "from": "2007-01-04",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2007_01_2_182.html",
+     "sha256": "e8ad3a15af2d37ab6ae9777941f455084a0f0159b6630dc265af49278f1bed0b"
+    }
+   ]
+  },
+  {
+   "slug": "usrh-u-i-1569-2004",
+   "path": "ustavni-sud/2007/u-i-1569-2004",
+   "short": "U-I-1569/2004",
+   "title": "Odluka Ustavnog suda Republike Hrvatske broj:U-I-1569/2004, U-I-305/2005, U-I-1677/2004,U-I-320/2005, U-I-1702/2004, U-I-464/2006, U-I-1904/2004, U-I-3351/2006, U-I-2677/2004 od 20. prosinca 2006.",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2007/2/185",
+   "versions": [
+    {
+     "from": "2007-01-04",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2007_01_2_185.html",
+     "sha256": "6ca8527101a9d2f0ce729b934dc0619d57b68d95cb957b6af3d8c023efab9654"
+    }
+   ]
+  },
+  {
+   "slug": "usrh-u-i-2510-2001",
+   "path": "ustavni-sud/2007/u-i-2510-2001",
+   "short": "U-I-2510/2001",
+   "title": "Odluka i Rješenje Ustavnog suda Republike Hrvatske broj: U-I-2510/2001, U-I-64/2002, U-I-166/2002, U-I-2244/2002, U-I-99/2004, U-I-1823/2004, U-I-4102/2005 od 6. prosinca 2006.",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2007/2/187",
+   "versions": [
+    {
+     "from": "2007-01-04",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2007_01_2_187.html",
+     "sha256": "6e6fba37058dff4d4eed7dd12d480d8a6888ab920e9e19b3d12537c1884328b3"
+    }
+   ]
+  },
+  {
+   "slug": "usrh-u-i-1706-2004",
+   "path": "ustavni-sud/2007/u-i-1706-2004",
+   "short": "U-I-1706/2004",
+   "title": "Rješenje Ustavnog suda Republike Hrvatske broj:U-I-1706/2004 od 20. prosinca 2006.",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2007/3/211",
+   "versions": [
+    {
+     "from": "2007-01-08",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2007_01_3_211.html",
+     "sha256": "587232d0f93b5024b6a9a700db3c1836be0b234fc93b8f0a80d9591935463189"
+    }
+   ]
+  },
+  {
+   "slug": "usrh-u-i-1559-2001",
+   "path": "ustavni-sud/2007/u-i-1559-2001",
+   "short": "U-I-1559/2001",
+   "title": "Odluka Ustavnog suda Republike Hrvatske broj:U-I-1559/2001 i U-I-2355/2002 od 21. veljače 2007.",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2007/26/972",
+   "versions": [
+    {
+     "from": "2007-03-12",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2007_03_26_972.html",
+     "sha256": "41ad1120d402c1bd99c84f0df3acb94adfd98d0f0bfbd91026d778bf2913613c"
+    }
+   ]
+  },
+  {
+   "slug": "usrh-u-i-1152-2000",
+   "path": "ustavni-sud/2007/u-i-1152-2000",
+   "short": "U-I-1152/2000",
+   "title": "Odluka i Rješenje Ustavnog suda Republike Hrvatske broj: U-I-1152/2000 i dr. od 18. travnja 2007. i Obrazloženje suprotnog glasa",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2007/43/1470",
+   "versions": [
+    {
+     "from": "2007-04-25",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2007_04_43_1470.html",
+     "sha256": "2fad627aa9bcdf34ee12bcdfaa34d128bdf86d6d68da35ca4a01d41b577fdec7"
+    }
+   ]
+  },
+  {
+   "slug": "usrh-u-i-1108-2002",
+   "path": "ustavni-sud/2007/u-i-1108-2002",
+   "short": "U-I-1108/2002",
+   "title": "Odluka Ustavnog suda Republike Hrvatske broj:U-I-1108/2002 od 16. svibnja 2007.",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2007/55/1771",
+   "versions": [
+    {
+     "from": "2007-05-30",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2007_05_55_1771.html",
+     "sha256": "072263bd7072057bcb6391ae85e2b6078b5217675255a0cefe6acf423f62249c"
+    }
+   ]
+  },
+  {
+   "slug": "usrh-u-i-2051-2005",
+   "path": "ustavni-sud/2007/u-i-2051-2005",
+   "short": "U-I-2051/2005",
+   "title": "Odluka Ustavnog suda Republike Hrvatske broj:U-I-2051/2005 od 5. lipnja 2007.",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2007/69/2163",
+   "versions": [
+    {
+     "from": "2007-07-04",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2007_07_69_2163.html",
+     "sha256": "7d5b57ff1c002a0f34dd061bb6dc823b5bbad9f67ce7c2de809f6bb9b0c0301a"
+    }
+   ]
+  },
+  {
+   "slug": "usrh-u-i-1278-2002",
+   "path": "ustavni-sud/2007/u-i-1278-2002",
+   "short": "U-I-1278/2002",
+   "title": "Rješenje Ustavnog suda Republike Hrvatske broj:U-I-1278/2002. od 11. srpnja 2007.",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2007/85/2677",
+   "versions": [
+    {
+     "from": "2007-08-16",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2007_08_85_2677.html",
+     "sha256": "3a0c5db7b9c90058ee3510909b0f55f599eb890e832cfe3b8b4f0bb57bdc6eed"
+    }
+   ]
+  },
+  {
+   "slug": "usrh-u-i-2418-2001",
+   "path": "ustavni-sud/2007/u-i-2418-2001",
+   "short": "U-I-2418/2001",
+   "title": "Rješenje Ustavnog suda Republike Hrvatske broj:U-I-2418/2001, U-I-399/2007 od 11. srpnja 2007.",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2007/90/2755",
+   "versions": [
+    {
+     "from": "2007-08-29",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2007_08_90_2755.html",
+     "sha256": "08c1bc263f3cc9c6c2fd928c01c2cb6dd1eb0d5d0d19d80cc3949efc3639cbfe"
+    }
+   ]
+  },
+  {
+   "slug": "usrh-u-i-2488-2004",
+   "path": "ustavni-sud/2007/u-i-2488-2004",
+   "short": "U-I-2488/2004",
+   "title": "Rješenje Ustavnog suda Republike Hrvatske broj:U-I-2488/2004 od 14. studenoga 2007.",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2007/133/3832",
+   "versions": [
+    {
+     "from": "2007-12-27",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2007_12_133_3832.html",
+     "sha256": "43eaf3ddae88cbc54799149edd2958b313ae2d29277f27efb76aa6ffbcb27bea"
+    }
+   ]
+  },
+  {
+   "slug": "usrh-u-i-1177-2007",
+   "path": "ustavni-sud/2007/u-i-1177-2007",
+   "short": "U-I-1177/2007",
+   "title": "Rješenje Ustavnog suda Republike Hrvatske broj:U-I-1177/2007 od 14. studenoga 2007.",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2007/133/3833",
+   "versions": [
+    {
+     "from": "2007-12-27",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2007_12_133_3833.html",
+     "sha256": "f3f847cccbc50f51df577fbb03be736525a0321d7cd690d3316c033c2a0dc1cd"
+    }
+   ]
+  },
+  {
+   "slug": "usrh-u-i-2115-2004",
+   "path": "ustavni-sud/2007/u-i-2115-2004",
+   "short": "U-I-2115/2004",
+   "title": "Rješenje Ustavnog suda Republike Hrvatske broj:U-I-2115/2004 od 14. studenoga 2007.",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2007/133/3836",
+   "versions": [
+    {
+     "from": "2007-12-27",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2007_12_133_3836.html",
+     "sha256": "6b6550eb0cbc5b814947c2b7f131013c849b9cf92998b1bd5a62b619fb61fec4"
+    }
+   ]
+  },
+  {
+   "slug": "usrh-u-i-1080-2002",
+   "path": "ustavni-sud/2008/u-i-1080-2002",
+   "short": "U-I-1080/2002",
+   "title": "Rješenje Ustavnog suda Republike Hrvatske broj: U-I-1080/2002, U-I-520/2004, U-I-2610/2005 od 12. ožujka 2008.",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2008/50/1698",
+   "versions": [
+    {
+     "from": "2008-04-30",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2008_04_50_1698.html",
+     "sha256": "907641ac48aba31ff4778a3c17948b50e4e45fc4963fe8a9109d0dddc3c77212"
+    }
+   ]
+  },
+  {
+   "slug": "usrh-u-i-1135-2007",
+   "path": "ustavni-sud/2008/u-i-1135-2007",
+   "short": "U-I-1135/2007",
+   "title": "Rješenje Ustavnog suda Republike Hrvatske broj:U-I-1135/2007 i U-I-2306/2007 od 16. travnja 2008.",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2008/53/1855",
+   "versions": [
+    {
+     "from": "2008-05-09",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2008_05_53_1855.html",
+     "sha256": "8405e7100dc6ab55999e94aac184b9be03dffeefd099bca4db410b3de91ae5e2"
+    }
+   ]
+  },
+  {
+   "slug": "usrh-u-i-1080-2002-nn53-2008",
+   "path": "ustavni-sud/2008/u-i-1080-2002-nn53-2008",
+   "short": "U-I-1080/2002",
+   "title": "Rješenje Ustavnog suda Republike Hrvatske broj: U-I-1080/2002, U-I-520/2004 i U-I-2610/2005 od 12. ožujka 2008.",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2008/53/1857",
+   "versions": [
+    {
+     "from": "2008-05-09",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2008_05_53_1857.html",
+     "sha256": "5bcfb353189ad352f074d46a3c30f8e31de39dc1399ac624627f14c1c98a81f1"
+    }
+   ]
+  },
+  {
+   "slug": "usrh-u-i-1085-2000",
+   "path": "ustavni-sud/2008/u-i-1085-2000",
+   "short": "U-I-1085/2000",
+   "title": "Rješenje Ustavnog suda Republike Hrvatske broj:U-I-1085/2000, U-I-23/2001, U-I-717/2001 i U-I-4025/2005 od 30. travnja 2008. i Izdvojeno mišljenje",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2008/59/2032",
+   "versions": [
+    {
+     "from": "2008-05-26",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2008_05_59_2032.html",
+     "sha256": "ab46ce9d494c408c5f6df29d40d53f19c0ce3584703ad34fed7bc423f2cc9541"
+    }
+   ]
+  },
+  {
+   "slug": "usrh-u-i-1201-2006",
+   "path": "ustavni-sud/2008/u-i-1201-2006",
+   "short": "U-I-1201/2006",
+   "title": "Rješenje Ustavnog suda Republike Hrvatske broj:U-I-1201/2006, U-I-2866/2006 i U-I-3021/2006 od 30. travnja 2008.",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2008/69/2323",
+   "versions": [
+    {
+     "from": "2008-06-13",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2008_06_69_2323.html",
+     "sha256": "48be10c957c7d3cfec11eaa79e1bd94a5b16e67462be37fb93ed3683e193f75a"
+    }
+   ]
+  },
+  {
+   "slug": "usrh-u-i-1569-2004-nn96-2008",
+   "path": "ustavni-sud/2008/u-i-1569-2004-nn96-2008",
+   "short": "U-I-1569/2004",
+   "title": "Odluka Ustavnog suda Republike Hrvatske broj: U-I-1569/2004, U-I-1677/2004, U-I-1702/2004, U-I-1904/2004, U-I-2677/2004, U-I-305/2005, U-I-320/2005, U-I-464/2006, U-I-3351/2006 od 9. srpnja 2008.",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2008/96/3004",
+   "versions": [
+    {
+     "from": "2008-08-21",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2008_08_96_3004.html",
+     "sha256": "f4f3b9a541dd53232d2dd7d1c52ebf095c45664e2b4eb2a86ac3b6ab2c4ccf4c"
+    }
+   ]
+  },
+  {
+   "slug": "usrh-u-i-1812-2006",
+   "path": "ustavni-sud/2008/u-i-1812-2006",
+   "short": "U-I-1812/2006",
+   "title": "Rješenje Ustavnog suda Republike Hrvatske broj: U-I-1812/2006 od 19. studenoga 2008.",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2008/141/3974",
+   "versions": [
+    {
+     "from": "2008-12-05",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2008_12_141_3974.html",
+     "sha256": "4cdd14543d2aa237793ead061bb071ccd8d60c901243bfb8862086ab7e677199"
+    }
+   ]
+  },
+  {
+   "slug": "usrh-u-i-1393-2006",
+   "path": "ustavni-sud/2008/u-i-1393-2006",
+   "short": "U-I-1393/2006",
+   "title": "Rješenje Ustavnog suda Republike Hrvatske broj: U-I-1393/2006, U-I-1472/2007, U-I-1703/2008 od 10. prosinca 2008.",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2008/151/4141",
+   "versions": [
+    {
+     "from": "2008-12-23",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2008_12_151_4141.html",
+     "sha256": "1cf2a2997dbc6d55b6e19f3982d58301d30663aede44dcbc00ad146f14870ea9"
+    }
+   ]
+  },
+  {
+   "slug": "usrh-u-i-1777-2003",
+   "path": "ustavni-sud/2009/u-i-1777-2003",
+   "short": "U-I-1777/2003",
+   "title": "Odluka Ustavnog suda Republike Hrvatske broj: U-I-1777/2003 od 17. ožujka 2009.",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2009/38/871",
+   "versions": [
+    {
+     "from": "2009-03-27",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2009_03_38_871.html",
+     "sha256": "b8243bf976fc9754da845a893064a5136b12a110a9715d1947afff5a5471378f"
+    }
+   ]
+  },
+  {
+   "slug": "usrh-u-i-188-2005",
+   "path": "ustavni-sud/2009/u-i-188-2005",
+   "short": "U-I-188/2005",
+   "title": "Rješenje Ustavnog suda Republike Hrvatske broj: U-I-188/2005 od 21. travnja 2009.",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2009/57/1360",
+   "versions": [
+    {
+     "from": "2009-05-15",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2009_05_57_1360.html",
+     "sha256": "4e246f48da6ae97a088784b67865099cd4b898185fdc4659c59a81ec1e26a57c"
+    }
+   ]
+  },
+  {
+   "slug": "usrh-u-i-2012-2007",
+   "path": "ustavni-sud/2009/u-i-2012-2007",
+   "short": "U-I-2012/2007",
+   "title": "Odluka Ustavnog suda Republike Hrvatske broj: U-I-2012/2007, U-I-2013/2007 od 17. lipnja 2009.",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2009/88/2187",
+   "versions": [
+    {
+     "from": "2009-07-22",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2009_07_88_2187.html",
+     "sha256": "0bef46551e9e7e51560d147f3bb0c1c8355b486379155bd69afe002dbbb25f82"
+    }
+   ]
+  },
+  {
+   "slug": "usrh-u-i-1746-2006",
+   "path": "ustavni-sud/2009/u-i-1746-2006",
+   "short": "U-I-1746/2006",
+   "title": "Rješenje Ustavnog suda Republike Hrvatske broj: U-I-1746/2006 od 17. lipnja 2009.",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2009/88/2193",
+   "versions": [
+    {
+     "from": "2009-07-22",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2009_07_88_2193.html",
+     "sha256": "f3fafcf8f6d21946404b20d9762c58e8fc434792a09cf001ad930f52f2497c16"
+    }
+   ]
+  },
+  {
+   "slug": "usrh-u-i-2489-2004",
+   "path": "ustavni-sud/2009/u-i-2489-2004",
+   "short": "U-I-2489/2004",
+   "title": "Rješenje Ustavnog suda Republike Hrvatske broj: U-I-2489/2004, U-I-4342/2004 od 29. rujna 2009.",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2009/127/3149",
+   "versions": [
+    {
+     "from": "2009-10-22",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2009_10_127_3149.html",
+     "sha256": "1a68c58a8d051f3dab5ca3e5d06223b3a984ce1ccdd5aee65c55a9477360b8ef"
+    }
+   ]
+  },
+  {
+   "slug": "usrh-u-i-1823-2006",
+   "path": "ustavni-sud/2009/u-i-1823-2006",
+   "short": "U-I-1823/2006",
+   "title": "Rješenje Ustavnog suda Republike Hrvatske broj: U-I-1823/2006 od 16. studenoga 2009.",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2009/146/3582",
+   "versions": [
+    {
+     "from": "2009-12-09",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2009_12_146_3582.html",
+     "sha256": "67c69d528235bf0893313f611530e887d5aa3f7e958ee6bde9b4b0d225809780"
+    }
+   ]
+  },
+  {
+   "slug": "usrh-u-i-1988-1988",
+   "path": "ustavni-sud/2010/u-i-1988-1988",
+   "short": "U-I-1988/1988",
+   "title": "Odluka i Rješenje Ustavnog suda Republike Hrvatske broj: U-I-1988/1988 i dr. od 17. ožujka 2010.",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/40/1047",
+   "versions": [
+    {
+     "from": "2010-04-02",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2010_04_40_1047.html",
+     "sha256": "32cb86493c82f29275d54f1686cc1155f592652cb25d09073cdf588bf3db95af"
+    }
+   ]
+  },
+  {
+   "slug": "usrh-u-i-1583-2000",
+   "path": "ustavni-sud/2010/u-i-1583-2000",
+   "short": "U-I-1583/2000",
+   "title": "Rješenje Ustavnog suda Republike Hrvatske broj: U-I-1583/2000, U-I-559/2001 od 24. ožujka 2010 .",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/46/1174",
+   "versions": [
+    {
+     "from": "2010-04-16",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2010_04_46_1174.html",
+     "sha256": "d90ef26b10a3dd61290b5f7e51d7a16b43e87bbc915247d5ac2610cdc1abb9f5"
+    }
+   ]
+  },
+  {
+   "slug": "usrh-u-i-2305-2006",
+   "path": "ustavni-sud/2010/u-i-2305-2006",
+   "short": "U-I-2305/2006",
+   "title": "Rješenje Ustavnog suda Republike Hrvatske broj: U-I-2305/2006, U-I-418/2007, U-I-5481/2008 od 24. ožujka 2010.",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/46/1175",
+   "versions": [
+    {
+     "from": "2010-04-16",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2010_04_46_1175.html",
+     "sha256": "13bee93256f7682695187e57f746c89cfce0fef2a8e2eace47308d7b04aa53b7"
+    }
+   ]
+  },
+  {
+   "slug": "usrh-u-i-1029-2007",
+   "path": "ustavni-sud/2010/u-i-1029-2007",
+   "short": "U-I-1029/2007",
+   "title": "Odluka i Rješenje Ustavnog suda Republike Hrvatske broj: U-I-1029/2007, U-I-1030/2007 od 7. travnja 2010.",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/47/1187",
+   "versions": [
+    {
+     "from": "2010-04-19",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2010_04_47_1187.html",
+     "sha256": "710e88ff135f844bf556e96dc9ac7576ce9db3b1e1295b6e7a79d0fc1aa84028"
+    }
+   ]
+  },
+  {
+   "slug": "usrh-u-i-191-2001",
+   "path": "ustavni-sud/2010/u-i-191-2001",
+   "short": "U-I-191/2001",
+   "title": "Rješenje Ustavnog suda Republike Hrvatske broj: U-I-191/2001 od 30. ožujka 2010.",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/47/1188",
+   "versions": [
+    {
+     "from": "2010-04-19",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2010_04_47_1188.html",
+     "sha256": "2f49ad854bed2caff7480ff9ccc348acb0f960c1291fde64aa09516e0077b0cd"
+    }
+   ]
+  },
+  {
+   "slug": "usrh-u-i-1267-2006",
+   "path": "ustavni-sud/2010/u-i-1267-2006",
+   "short": "U-I-1267/2006",
+   "title": "Rješenje Ustavnog suda Republike Hrvatske broj: U-I-1267/2006 i dr. od 7. travnja 2010.",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/47/1189",
+   "versions": [
+    {
+     "from": "2010-04-19",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2010_04_47_1189.html",
+     "sha256": "cab009d960bb849e905afb8b1e543e67b941cc8c245b94cebf781a6608cd3089"
+    }
+   ]
+  },
+  {
+   "slug": "usrh-u-i-1572-2006",
+   "path": "ustavni-sud/2010/u-i-1572-2006",
+   "short": "U-I-1572/2006",
+   "title": "Rješenje Ustavnog suda Republike Hrvatske broj: U-I-1572/2006 i U-I-3796/2007 od 19. svibnja 2010.",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/72/2172",
+   "versions": [
+    {
+     "from": "2010-06-11",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2010_06_72_2172.html",
+     "sha256": "fbf514e0ec6fb7429116693ce28c55eb802ed9ab2f2427933f8a78c5261966eb"
+    }
+   ]
+  },
+  {
+   "slug": "usrh-u-i-220-2008",
+   "path": "ustavni-sud/2010/u-i-220-2008",
+   "short": "U-I-220/2008",
+   "title": "Rješenje Ustavnog suda Republike Hrvatske broj: U-I-220/2008 od 8. prosinca 2010.",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/142/3619",
+   "versions": [
+    {
+     "from": "2010-12-17",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2010_12_142_3619.html",
+     "sha256": "ddc91dee4f302456ea46edb84b2b6814abe6cbd0bfd26bc65f023f128cc80d66"
+    }
+   ]
+  },
+  {
+   "slug": "usrh-u-i-1477-2007",
+   "path": "ustavni-sud/2011/u-i-1477-2007",
+   "short": "U-I-1477/2007",
+   "title": "Rješenje Ustavnog suda Republike Hrvatske, broj: U-I-1477/2007, U-I-1893/2010 od 15. veljače 2011.",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/25/544",
+   "versions": [
+    {
+     "from": "2011-02-28",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_02_25_544.html",
+     "sha256": "472878b08f7ffc84fe5426f4fdc8596af4e79784f121d33d014a4adae1bd185d"
+    }
+   ]
+  },
+  {
+   "slug": "usrh-u-i-2064-2007",
+   "path": "ustavni-sud/2011/u-i-2064-2007",
+   "short": "U-I-2064/2007",
+   "title": "Rješenje Ustavnog suda Republike Hrvatske broj: U-I-2064/2007, U-I-2368/2010 od 1. ožujka 2011.",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/30/676",
+   "versions": [
+    {
+     "from": "2011-03-11",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_03_30_676.html",
+     "sha256": "01fa9e48538ae8a89467bd179e7be3261a2b95c044dce0a8742436f8a1dcfead"
+    }
+   ]
+  },
+  {
+   "slug": "usrh-u-i-2057-2009",
+   "path": "ustavni-sud/2011/u-i-2057-2009",
+   "short": "U-I-2057/2009",
+   "title": "Rješenje Ustavnog suda Republike Hrvatske, broj: U-I-2057/2009, U-I-6446/2010 od 30. ožujka 2011.",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/42/1018",
+   "versions": [
+    {
+     "from": "2011-04-13",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_04_42_1018.html",
+     "sha256": "3b06752a01955755d6787959b4e0d4b51bf914e762a3ad0369794b541b6bec66"
+    }
+   ]
+  },
+  {
+   "slug": "usrh-u-i-2168-2007",
+   "path": "ustavni-sud/2011/u-i-2168-2007",
+   "short": "U-I-2168/2007",
+   "title": "Rješenje Ustavnog suda Republike Hrvatske broj: U-I-2168/2007 od 14. lipnja 2011.",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/74/1608",
+   "versions": [
+    {
+     "from": "2011-07-01",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_07_74_1608.html",
+     "sha256": "0cb1ff706b573b9772c4475d9b43374b436954dba4460384387bc61ded1cf082"
+    }
+   ]
+  },
+  {
+   "slug": "usrh-u-i-1162-2008",
+   "path": "ustavni-sud/2011/u-i-1162-2008",
+   "short": "U-I-1162/2008",
+   "title": "Odluka Ustavnog suda Republike Hrvatske broj: U-I-1162/2008 od 28. lipnja 2011.",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/77/1642",
+   "versions": [
+    {
+     "from": "2011-07-07",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_07_77_1642.html",
+     "sha256": "c525d45c42fb655b0fcfd313ac85119f18f64624439c385cc9b51c3ae27ce783"
+    }
+   ]
+  },
+  {
+   "slug": "usrh-u-i-1991-2006",
+   "path": "ustavni-sud/2011/u-i-1991-2006",
+   "short": "U-I-1991/2006",
+   "title": "Rješenje Ustavnog suda Republike Hrvatske broj: U-I-1991/2006 i U-I-3067/2007 od 14. lipnja 2011.",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/77/1643",
+   "versions": [
+    {
+     "from": "2011-07-07",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_07_77_1643.html",
+     "sha256": "5ec76030d0cd2297868d6d9fc5637ed5c464305d1a24a260b0905de12280c0ba"
+    }
+   ]
+  },
+  {
+   "slug": "usrh-u-i-120-2011",
+   "path": "ustavni-sud/2011/u-i-120-2011",
+   "short": "U-I-120/2011",
+   "title": "Odluka Ustavnog suda Republike Hrvatske broj: U-I-120/2011 i dr. od 29. srpnja 2011.",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/93/1983",
+   "versions": [
+    {
+     "from": "2011-08-10",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_08_93_1983.html",
+     "sha256": "c085e6b6b396aef34976b506116e46dea869936599325c390101bbd31e1f9b4d"
+    }
+   ]
+  },
+  {
+   "slug": "usrh-u-i-2172-2008",
+   "path": "ustavni-sud/2011/u-i-2172-2008",
+   "short": "U-I-2172/2008",
+   "title": "Rješenje Ustavnog suda Republike Hrvatske broj: U-I-2172/2008 i U-I-2200/2008 od 13. rujna 2011.",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/109/2157",
+   "versions": [
+    {
+     "from": "2011-09-23",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_09_109_2157.html",
+     "sha256": "a0c101ec789fa4f36c6c893ff7e2a42765d92b4d0c28b7e18a95f8f92ab848b0"
+    }
+   ]
+  },
+  {
+   "slug": "usrh-u-i-1356-2011",
+   "path": "ustavni-sud/2011/u-i-1356-2011",
+   "short": "U-I-1356/2011",
+   "title": "Rješenje Ustavnog suda Republike Hrvatske broj: U-I-1356/2011 od 22. studenoga 2011.",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/145/2961",
+   "versions": [
+    {
+     "from": "2011-12-15",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_12_145_2961.html",
+     "sha256": "2d1a6571bed3e3549775acf1bed07553ffe6589f87e75c58e309547f765d15cc"
+    }
+   ]
+  },
+  {
+   "slug": "usrh-u-i-1925-2008",
+   "path": "ustavni-sud/2012/u-i-1925-2008",
+   "short": "U-I-1925/2008",
+   "title": "Odluka Ustavnog suda Republike Hrvatske broj: U-I-1925/2008 od 29. svibnja 2012.",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2012/66/1565",
+   "versions": [
+    {
+     "from": "2012-06-15",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2012_06_66_1565.html",
+     "sha256": "e22a337491ac43b4f3edba9a66276f25227b28988eb753349502d275f7d60e45"
+    }
+   ]
+  },
+  {
+   "slug": "usrh-u-i-1408-2010",
+   "path": "ustavni-sud/2012/u-i-1408-2010",
+   "short": "U-I-1408/2010",
+   "title": "Odluka i Rješenje Ustavnog suda Republike Hrvatske broj: U-I-1408/2010 i dr. od 29. svibnja 2012.",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2012/68/1599",
+   "versions": [
+    {
+     "from": "2012-06-26",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2012_06_68_1599.html",
+     "sha256": "d6f82df89608833c2512fd9a60d316f2b1a37a685815d5efb8112c388f26477b"
+    }
+   ]
+  },
+  {
+   "slug": "usrh-u-i-2186-2008",
+   "path": "ustavni-sud/2012/u-i-2186-2008",
+   "short": "U-I-2186/2008",
+   "title": "Rješenje Ustavnog suda Republike Hrvatske broj: U-I-2186/2008 od 29. svibnja 2012.",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2012/68/1607",
+   "versions": [
+    {
+     "from": "2012-06-26",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2012_06_68_1607.html",
+     "sha256": "0742a399996ab245a0314f8c55dc4bc6226ac54765ccef8a18745cd11289da98"
+    }
+   ]
+  },
+  {
+   "slug": "usrh-u-i-1988-2011",
+   "path": "ustavni-sud/2012/u-i-1988-2011",
+   "short": "U-I-1988/2011",
+   "title": "Odluka Ustavnog suda Republike Hrvatske broj: U-I-1988/2011 i dr. od 19. lipnja 2012.",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2012/80/1884",
+   "versions": [
+    {
+     "from": "2012-07-18",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2012_07_80_1884.html",
+     "sha256": "51ac5f9bf2c97b8ddfe164393aeef148d1ee8b02323b6bb63652f3c62b27b597"
+    }
+   ]
+  },
+  {
+   "slug": "usrh-u-i-2414-2011",
+   "path": "ustavni-sud/2012/u-i-2414-2011",
+   "short": "U-I-2414/2011",
+   "title": "Odluka i Rješenje Ustavnog suda Republike Hrvatske Broj: U-I-2414/2011, U-I-3890/2011, U-I-4720/2012 od 7. studenoga 2012.",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2012/126/2715",
+   "versions": [
+    {
+     "from": "2012-11-16",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2012_11_126_2715.html",
+     "sha256": "bd03ecc46a763b959dd54050472a8d1a8e7ced4b48b58eaad1e7ac9d09ddaae4"
+    }
+   ]
+  },
+  {
+   "slug": "usrh-u-i-2385-2011",
+   "path": "ustavni-sud/2013/u-i-2385-2011",
+   "short": "U-I-2385/2011",
+   "title": "Rješenje Ustavnog suda Republike Hrvatske broj: U-I-2385/2011 od 5. ožujka 2013.",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/32/589",
+   "versions": [
+    {
+     "from": "2013-03-15",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2013_03_32_589.html",
+     "sha256": "d9cc324223eccf1d098d5267bac7dce013088eb9db4328da499628c8e33d8c9b"
+    }
+   ]
+  },
+  {
+   "slug": "usrh-u-i-1457-2013",
+   "path": "ustavni-sud/2013/u-i-1457-2013",
+   "short": "U-I-1457/2013",
+   "title": "Rješenje Ustavnog suda Republike Hrvatske broj: U-I-1457/2013 od 11. travnja 2013.",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/45/878",
+   "versions": [
+    {
+     "from": "2013-04-16",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2013_04_45_878.html",
+     "sha256": "a7a60e93bb08aa3a31313003817e2b9a7a1c67d1598b8736a05a86f38a9de10b"
+    }
+   ]
+  },
+  {
+   "slug": "usrh-sut-a-7-2013",
+   "path": "ustavni-sud/2013/sut-a-7-2013",
+   "short": "SuT-A-7/2013",
+   "title": "Odluka Ustavnog suda Republike Hrvatske o provedenim izborima",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/52/1068",
+   "versions": [
+    {
+     "from": "2013-05-03",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2013_05_52_1068.html",
+     "sha256": "8ef7a21d341ae49574f446b7a20d7dc402614380e29af6967378c823b484de1f"
+    }
+   ]
+  },
+  {
+   "slug": "usrh-u-i-2470-2010",
+   "path": "ustavni-sud/2013/u-i-2470-2010",
+   "short": "U-I-2470/2010",
+   "title": "Odluka Ustavnog suda Republike Hrvatske broj: U-I-2470/2010 i dr. od 9. srpnja 2013.",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/99/2257",
+   "versions": [
+    {
+     "from": "2013-07-31",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2013_07_99_2257.html",
+     "sha256": "b1f9508364409f856ff0c0db677cc6aa9235406c58f66b3866ca16c822c7d9a7"
+    }
+   ]
+  },
+  {
+   "slug": "usrh-sus-1-2013",
+   "path": "ustavni-sud/2013/sus-1-2013",
+   "short": "SuS-1/2013",
+   "title": "Priopćenje Ustavnog suda Republike Hrvatske o narodnom ustavotvornom referendumu o definiciji braka broj: SuS-1/2013 od 14. studenoga 2013.",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/138/2966",
+   "versions": [
+    {
+     "from": "2013-11-18",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2013_11_138_2966.html",
+     "sha256": "2d843e106fcddc8696fc7fe36382cf9e6642bc60432d54ed0e3d63ec5d0c56f2"
+    }
+   ]
+  },
+  {
+   "slug": "usrh-u-i-1678-2013",
+   "path": "ustavni-sud/2014/u-i-1678-2013",
+   "short": "U-I-1678/2013",
+   "title": "Odluka Ustavnog suda Republike Hrvatske broj: U-I-1678/2013 od 19. prosinca 2013.",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2014/13/265",
+   "versions": [
+    {
+     "from": "2014-02-03",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2014_02_13_265.html",
+     "sha256": "1817bbcdbd774dfe37e1e1c4ac0ff81901cd61146313814e2d8a0b129b602075"
+    }
+   ]
+  },
+  {
+   "slug": "usrh-u-i-2464-2010",
+   "path": "ustavni-sud/2014/u-i-2464-2010",
+   "short": "U-I-2464/2010",
+   "title": "Rješenje Ustavnog suda Republike Hrvatske broj: U-I-2464/2010 i U-I-1003/2011 od 30. siječnja 2014.",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2014/26/468",
+   "versions": [
+    {
+     "from": "2014-02-25",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2014_02_26_468.html",
+     "sha256": "08d0682577e6a6825319c7766b85647c60f92457c2ee9af77a2e82eb89e41980"
+    }
+   ]
+  },
+  {
+   "slug": "usrh-sut-a-7-2014",
+   "path": "ustavni-sud/2014/sut-a-7-2014",
+   "short": "SuT-A-7/2014",
+   "title": "Odluka Ustavnog suda Republike Hrvatske broj: SuT-A-7/2014 od 16. lipnja 2014.",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2014/76/1444",
+   "versions": [
+    {
+     "from": "2014-06-24",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2014_06_76_1444.html",
+     "sha256": "4f42182ece44d15f2820d3d5c76f8d51cc69d2567baac094c4da638ef5038cfb"
+    }
+   ]
+  },
+  {
+   "slug": "usrh-nn-93-2014-1882",
+   "path": "ustavni-sud/2014/nn-93-2014-1882",
+   "short": "Izvješće Ustavnog suda Republike Hrvatske o zakonodavnoj praksi uzastopnog višegodišnjeg derogiranja priznatih prava",
+   "title": "Izvješće Ustavnog suda Republike Hrvatske o zakonodavnoj praksi uzastopnog višegodišnjeg derogiranja priznatih prava",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2014/93/1882",
+   "versions": [
+    {
+     "from": "2014-07-30",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2014_07_93_1882.html",
+     "sha256": "f1dea04008ba4837b06236d749451e2618ebb133cfc281ce7aa1fbdf766ba81f"
+    }
+   ]
+  },
+  {
+   "slug": "usrh-u-i-1625-2014",
+   "path": "ustavni-sud/2014/u-i-1625-2014",
+   "short": "U-I-1625/2014",
+   "title": "Rješenje Ustavnog suda Republike Hrvatske broj: U-I-1625/2014 i dr. od 18. srpnja 2014.",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2014/100/1970",
+   "versions": [
+    {
+     "from": "2014-08-18",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2014_08_100_1970.html",
+     "sha256": "7b1fe3c42dcfca5215d646e722630d9e1a1c8d493749e226cbaa22db9a5938cf"
+    }
+   ]
+  },
+  {
+   "slug": "usrh-u-i-1523-2011",
+   "path": "ustavni-sud/2014/u-i-1523-2011",
+   "short": "U-I-1523/2011",
+   "title": "Rješenje Ustavnog suda Republike Hrvatske broj: U-I-1523/2011 od 12. kolovoza 2014.",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2014/101/1986",
+   "versions": [
+    {
+     "from": "2014-08-20",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2014_08_101_1986.html",
+     "sha256": "04f4898c7717d5845a6757d962785467f5bf1787c963e0e5c0dba94452b1bdf3"
+    }
+   ]
+  },
+  {
+   "slug": "usrh-u-i-2018-2013",
+   "path": "ustavni-sud/2014/u-i-2018-2013",
+   "short": "U-I-2018/2013",
+   "title": "Rješenje Ustavnog suda Republike Hrvatske broj: U-I-2018/2013 i dr. od 4. studenoga 2014.",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2014/139/2640",
+   "versions": [
+    {
+     "from": "2014-11-26",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2014_11_139_2640.html",
+     "sha256": "c621d5ba5d5349f104c0ec30d36f8e7970b3642095a3487a9b965cb231b22daf"
+    }
+   ]
+  },
+  {
+   "slug": "usrh-sut-a-2-2015",
+   "path": "ustavni-sud/2015/sut-a-2-2015",
+   "short": "SuT-A-2/2015",
+   "title": "Odluka Ustavnog suda Republike Hrvatske broj: SuT-A-2/2015 od 9. veljače 2015.",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2015/17/352",
+   "versions": [
+    {
+     "from": "2015-02-13",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2015_02_17_352.html",
+     "sha256": "190e4844ff722ee19bdac2143e26042ce645aa4b7e38e3890db53abccb20629a"
+    }
+   ]
+  },
+  {
+   "slug": "usrh-u-i-1625-2014-nn40-2015",
+   "path": "ustavni-sud/2015/u-i-1625-2014-nn40-2015",
+   "short": "U-I-1625/2014",
+   "title": "Odluka i Rješenje Ustavnog suda Republike Hrvatske broj: U-I-1625/2014 i dr. od 30. ožujka 2015.",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2015/40/835",
+   "versions": [
+    {
+     "from": "2015-04-10",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2015_04_40_835.html",
+     "sha256": "49b533f0b698f28764676d0c96ea35eef6aecaa2fd5b8c9cbbea495be5e6814c"
+    }
+   ]
+  },
+  {
+   "slug": "usrh-u-i-1716-2015",
+   "path": "ustavni-sud/2015/u-i-1716-2015",
+   "short": "U-I-1716/2015",
+   "title": "Rješenje Ustavnog suda Republike Hrvatske broj: U-I-1716/2015 od 24. srpnja 2015.",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2015/89/1754",
+   "versions": [
+    {
+     "from": "2015-08-14",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2015_08_89_1754.html",
+     "sha256": "4c03f04c6fa80b76fc0a53996eb1db401858780dc0aa522ad74124c9b193e918"
+    }
+   ]
+  },
+  {
+   "slug": "usrh-u-i-1397-2015",
+   "path": "ustavni-sud/2015/u-i-1397-2015",
+   "short": "U-I-1397/2015",
+   "title": "Odluka i Rješenje Ustavnog suda Republike Hrvatske broj: U-I-1397/2015 od 24. rujna 2015.",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2015/104/2036",
+   "versions": [
+    {
+     "from": "2015-09-30",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2015_09_104_2036.html",
+     "sha256": "9faca8beda51f3d5a628a88ce0b6e14ade302e912f4429f2d75af3b81b7027ed"
+    }
+   ]
+  },
+  {
+   "slug": "usrh-u-i-2036-2012",
+   "path": "ustavni-sud/2015/u-i-2036-2012",
+   "short": "U-I-2036/2012",
+   "title": "Odluka i Rješenje Ustavnog suda Republike Hrvatske broj: U-I-2036/2012 od 21. prosinca 2015.",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2015/138/2598",
+   "versions": [
+    {
+     "from": "2015-12-24",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2015_12_138_2598.html",
+     "sha256": "08c70a8f5bc6edb8cd39ffac414e926a2ab2d87e3da6fd72104140f08f294e70"
+    }
+   ]
+  },
+  {
+   "slug": "usrh-sus-2-2016",
+   "path": "ustavni-sud/2016/sus-2-2016",
+   "short": "SuS-2/2016",
+   "title": "Odluka Ustavnog suda Republike Hrvatske broj: SuS-2/2016 od 26. rujna 2016.",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2016/86/1885",
+   "versions": [
+    {
+     "from": "2016-09-26",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2016_09_86_1885.html",
+     "sha256": "f8e5cd32355b110987ea9f113dc497ccc3c7f071993c36e8236f5a7adc993d7b"
+    }
+   ]
+  },
+  {
+   "slug": "usrh-u-i-1962-2008",
+   "path": "ustavni-sud/2016/u-i-1962-2008",
+   "short": "U-I-1962/2008",
+   "title": "Odluka Ustavnog suda Republike Hrvatske broj: U-I-1962/2008 od 27. rujna 2016.",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2016/100/2155",
+   "versions": [
+    {
+     "from": "2016-11-02",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2016_11_100_2155.html",
+     "sha256": "b3d387c0705a383d54ab51caa73fd7438f907c12ba142e735bbb7643f40def84"
+    }
+   ]
+  },
+  {
+   "slug": "usrh-u-i-2509-2016",
+   "path": "ustavni-sud/2017/u-i-2509-2016",
+   "short": "U-I-2509/2016",
+   "title": "Rješenje Ustavnog suda Republike Hrvatske broj: U-I-2509/2016 od 6. prosinca 2016.",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/3/131",
+   "versions": [
+    {
+     "from": "2017-01-11",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2017_01_3_131.html",
+     "sha256": "248091b3bbbf8607470b443c996c75320fc95846672462dfe61ad737b2413cbe"
+    }
+   ]
+  },
+  {
+   "slug": "usrh-u-i-246-2017",
+   "path": "ustavni-sud/2017/u-i-246-2017",
+   "short": "U-I-246/2017",
+   "title": "Rješenje Ustavnog suda Republike Hrvatske broj: U-I-246/2017. i dr. od 4. travnja 2017.",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/35/774",
+   "versions": [
+    {
+     "from": "2017-04-12",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2017_04_35_774.html",
+     "sha256": "695b41a27b845a325f7ffcbc83dfcb6f034abb22f5a468fbc71811fa6342e3fb"
+    }
+   ]
+  },
+  {
+   "slug": "usrh-u-i-1898-2014",
+   "path": "ustavni-sud/2017/u-i-1898-2014",
+   "short": "U-I-1898/2014",
+   "title": "Rješenje Ustavnog suda Republike Hrvatske broj: U-I-1898/2014 od 4. travnja 2017.",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/45/1064",
+   "versions": [
+    {
+     "from": "2017-05-10",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2017_05_45_1064.html",
+     "sha256": "41164b9e574e5681acf42100c130bf8c0f0a3b16dbc49270e9696568c21b675f"
+    }
+   ]
+  },
+  {
+   "slug": "usrh-u-i-252-1996",
+   "path": "ustavni-sud/2017/u-i-252-1996",
+   "short": "U-I-252/1996",
+   "title": "Odluka i Rješenje Ustavnog suda Republike Hrvatske broj: U-I-252/1996 i dr. od 6. lipnja 2017. i tri Izdvojena mišljenja",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/60/1375",
+   "versions": [
+    {
+     "from": "2017-06-23",
+     "units": 8,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2017_06_60_1375.html",
+     "sha256": "3d675b66be6377218b31f0bf4f42be20dfa54d0090642f988dbdaa04484d6867"
+    }
+   ]
+  },
+  {
+   "slug": "usrh-u-i-1574-2016",
+   "path": "ustavni-sud/2018/u-i-1574-2016",
+   "short": "U-I-1574/2016",
+   "title": "Odluka Ustavnog suda Republike Hrvatske broj: U-I-1574/2016 i dr. od 30. siječnja i Izdvojeno mišljenje sudaca",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2018/18/389",
+   "versions": [
+    {
+     "from": "2018-02-23",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2018_02_18_389.html",
+     "sha256": "c03217eda25ee21d00ad2bb34accb44d073c53206daaad16f010b4c353109876"
+    }
+   ]
+  },
+  {
+   "slug": "usrh-u-i-1457-2013-nn27-2018",
+   "path": "ustavni-sud/2018/u-i-1457-2013-nn27-2018",
+   "short": "U-I-1457/2013",
+   "title": "Rješenje Ustavnog suda Republike Hrvatske broj: U-I-1457/2013. i dr. od 27. veljače 2018.",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2018/27/568",
+   "versions": [
+    {
+     "from": "2018-03-21",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2018_03_27_568.html",
+     "sha256": "c33d7342dfdc5b33af963f82d61d5af9dd845c5a1510fd1aafd263ea192aa39e"
+    }
+   ]
+  },
+  {
+   "slug": "usrh-u-i-1694-2017",
+   "path": "ustavni-sud/2018/u-i-1694-2017",
+   "short": "U-I-1694/2017",
+   "title": "Rješenje Ustavnog suda Republike Hrvatske broj: U-I-1694/2017 i dr. od 2. svibnja 2018. i dva izdvojena mišljenja",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2018/43/842",
+   "versions": [
+    {
+     "from": "2018-05-11",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2018_05_43_842.html",
+     "sha256": "79b3a457e87bc496e9d547a0da2f40cc96f5cd0d05a52f5949e9886077b34d00"
+    }
+   ]
+  },
+  {
+   "slug": "usrh-u-i-2502-2004",
+   "path": "ustavni-sud/2018/u-i-2502-2004",
+   "short": "U-I-2502/2004",
+   "title": "Rješenje Ustavnog suda Republike Hrvatske broj: U-I-2502/2004 i dr. od 30. listopada 2018.",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2018/103/2028",
+   "versions": [
+    {
+     "from": "2018-11-23",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2018_11_103_2028.html",
+     "sha256": "ab81d4729774016467fcfee0b6e09ae335a8b90265770815f7e1895db95c1b44"
+    }
+   ]
+  },
+  {
+   "slug": "usrh-u-i-1553-2013",
+   "path": "ustavni-sud/2018/u-i-1553-2013",
+   "short": "U-I-1553/2013",
+   "title": "Rješenje Ustavnog suda Republike Hrvatske broj: U-I-1553/2013 i dr. od 16. listopada 2018.",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2018/99/1928",
+   "versions": [
+    {
+     "from": "2018-11-09",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2018_11_99_1928.html",
+     "sha256": "de752e55453e3acc7d8462858c5e4d305ed927fb3cc3a70f78710ecaadc852ae"
+    }
+   ]
+  },
+  {
+   "slug": "usrh-sut-a-3-2019",
+   "path": "ustavni-sud/2019/sut-a-3-2019",
+   "short": "SuT-A-3/2019",
+   "title": "Odluka Ustavnog suda Republike Hrvatske broj: SuT-A-3/2019 od 11. lipnja 2019.",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2019/58/1118",
+   "versions": [
+    {
+     "from": "2019-06-12",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2019_06_58_1118.html",
+     "sha256": "383885a7cd127474ad3f02c468c91e0f43f8f31a5058f97bd3a251f676b1fd46"
+    }
+   ]
+  },
+  {
+   "slug": "usrh-u-i-1420-2016",
+   "path": "ustavni-sud/2019/u-i-1420-2016",
+   "short": "U-I-1420/2016",
+   "title": "Odluka Ustavnog suda Republike Hrvatske broj: U-I-1420/2016 od 26. lipnja 2019.",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2019/73/1572",
+   "versions": [
+    {
+     "from": "2019-08-01",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2019_08_73_1572.html",
+     "sha256": "8ad334d4e91b10891855a26ca5e032b1953c4e2910475b9ff46b4b0e05d7016e"
+    }
+   ]
+  },
+  {
+   "slug": "usrh-u-i-1625-2018",
+   "path": "ustavni-sud/2019/u-i-1625-2018",
+   "short": "U-I-1625/2018",
+   "title": "Rješenje Ustavnog suda Republike Hrvatske broj: U-I-1625/2018 od 18. lipnja 2019.",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2019/74/1583",
+   "versions": [
+    {
+     "from": "2019-08-02",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2019_08_74_1583.html",
+     "sha256": "ee6b53fa18ce68053cce98015f52b9c02e0d921419e861ba8d56a5d7e40d0cfd"
+    }
+   ]
+  },
+  {
+   "slug": "usrh-sut-a-1-2020",
+   "path": "ustavni-sud/2020/sut-a-1-2020",
+   "short": "SuT-A-1/2020",
+   "title": "Odluka Ustavnog suda Republike Hrvatske broj: SuT-A-1/2020 od 14. siječnja 2020.",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2020/6/89",
+   "versions": [
+    {
+     "from": "2020-01-16",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2020_01_6_89.html",
+     "sha256": "f372a5cc7126e6546a1c9d35fa279e0b378db17423eca3bfab00cc8e1805c4d7"
+    }
+   ]
+  },
+  {
+   "slug": "usrh-sut-a-11-2020",
+   "path": "ustavni-sud/2020/sut-a-11-2020",
+   "short": "SuT-A-11/2020",
+   "title": "Odluka Ustavnog suda Republike Hrvatske broj: SuT-A-11/2020 od 16. srpnja 2020.",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2020/82/1547",
+   "versions": [
+    {
+     "from": "2020-07-16",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2020_07_82_1547.html",
+     "sha256": "23137000b86f56ce743270819a6a0973efd12bd2a7644e6facfc0f60be6e55f8"
+    }
+   ]
+  },
+  {
+   "slug": "usrh-u-i-1372-2020",
+   "path": "ustavni-sud/2020/u-i-1372-2020",
+   "short": "U-I-1372/2020",
+   "title": "Rješenje Ustavnog suda Republike Hrvatske broj: U-I-1372/2020 i dr. od 14. rujna 2020. i pet izdvojenih mišljenja sudaca",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2020/105/1971",
+   "versions": [
+    {
+     "from": "2020-09-25",
+     "units": 13,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2020_09_105_1971.html",
+     "sha256": "14dd0394767edfa35ed09721d8846807acdf0f5824f99ef6e08072e0c93cd59b"
+    }
+   ]
+  },
+  {
+   "slug": "usrh-u-i-2282-2014",
+   "path": "ustavni-sud/2020/u-i-2282-2014",
+   "short": "U-I-2282/2014",
+   "title": "Odluka Ustavnog suda Republike Hrvatske broj: U-I-2282/2014 i dr. od 3. studenoga 2020.",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2020/136/2621",
+   "versions": [
+    {
+     "from": "2020-12-09",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2020_12_136_2621.html",
+     "sha256": "a60384113a755a68e344e0fbbf534e7b0a9c30f37a16fa195f488097c2b73243"
+    }
+   ]
+  },
+  {
+   "slug": "usrh-u-i-2280-2019",
+   "path": "ustavni-sud/2021/u-i-2280-2019",
+   "short": "U-I-2280/2019",
+   "title": "Odluka i Rješenje Ustavnog suda Republike Hrvatske broj: U-I-2280/2019 i dr. od 13. srpnja 2021.",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2021/89/1640",
+   "versions": [
+    {
+     "from": "2021-08-11",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2021_08_89_1640.html",
+     "sha256": "1e87171a8c72f56c43cf3508909048c534b41514fc6f9607419fa210f2d79032"
+    }
+   ]
+  },
+  {
+   "slug": "usrh-u-i-2073-2019",
+   "path": "ustavni-sud/2021/u-i-2073-2019",
+   "short": "U-I-2073/2019",
+   "title": "Odluka Ustavnog suda Republike Hrvatske broj: U-I-2073/2019 od 16. studenoga 2021.",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2021/126/2151",
+   "versions": [
+    {
+     "from": "2021-11-24",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2021_11_126_2151.html",
+     "sha256": "1f0004a81e30d2d06b414f04a2749c7a20dfc99647b95dd7c6ffda091c914c1c"
+    }
+   ]
+  },
+  {
+   "slug": "usrh-u-i-2215-2022",
+   "path": "ustavni-sud/2022/u-i-2215-2022",
+   "short": "U-I-2215/2022",
+   "title": "Rješenje Ustavnog suda Republike Hrvatske broj: U-I-2215/2022 i dr. od 16. svibnja 2022.",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2022/60/869",
+   "versions": [
+    {
+     "from": "2022-05-27",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2022_05_60_869.html",
+     "sha256": "10f4cc02360b0c898fcf394cf8a66239687b5aeb9f8f2bccb5a3ab93b6035370"
+    }
+   ]
+  },
+  {
+   "slug": "usrh-u-i-2215-2022-nn16-2023",
+   "path": "ustavni-sud/2023/u-i-2215-2022-nn16-2023",
+   "short": "U-I-2215/2022",
+   "title": "Odluka i Rješenje Ustavnog suda Republike Hrvatske broj: U-I-2215/2022 i dr. od 7. veljače 2023.",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2023/16/289",
+   "versions": [
+    {
+     "from": "2023-02-13",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2023_02_16_289.html",
+     "sha256": "cb997514dc960e93e075752844a8fd541b4a581f62890ec1c194824050292fb9"
+    }
+   ]
+  },
+  {
+   "slug": "usrh-u-i-242-2023",
+   "path": "ustavni-sud/2023/u-i-242-2023",
+   "short": "U-I-242/2023",
+   "title": "Odluka Ustavnog suda Republike Hrvatske broj: U-I-242/2023 i dr. od 23. svibnja 2023. i dva izdvojena mišljenja sudaca",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2023/64/1077",
+   "versions": [
+    {
+     "from": "2023-06-14",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2023_06_64_1077.html",
+     "sha256": "36700421f600b6192c81cf5090b5157aea38c87dc1d057f95c3c342f59fcf00e"
+    }
+   ]
+  },
+  {
+   "slug": "usrh-u-i-1621-2023",
+   "path": "ustavni-sud/2024/u-i-1621-2023",
+   "short": "U-I-1621/2023",
+   "title": "Odluka Ustavnog suda Republike Hrvatske broj: U-I-1621/2023 od 6. veljače 2024.",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2024/18/302",
+   "versions": [
+    {
+     "from": "2024-02-14",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2024_02_18_302.html",
+     "sha256": "cf7e94366239c189d0108d7f492a6cbca924eefd2b977137cf4158a4744bbe2d"
+    }
+   ]
+  },
+  {
+   "slug": "usrh-sut-a-9-2024",
+   "path": "ustavni-sud/2024/sut-a-9-2024",
+   "short": "SuT-A-9/2024",
+   "title": "Odluka Ustavnog suda Republike Hrvatske broj: SuT-A-9/2024 od 4. lipnja 2024.",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2024/68/1154",
+   "versions": [
+    {
+     "from": "2024-06-06",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2024_06_68_1154.html",
+     "sha256": "1b067bcdda90aa5ef0fcb67e86261cacec7bf4e9086c12b04d351bcc615f511e"
+    }
+   ]
+  },
+  {
+   "slug": "usrh-sut-a-16-2024",
+   "path": "ustavni-sud/2024/sut-a-16-2024",
+   "short": "SuT-A-16/2024",
+   "title": "Odluka Ustavnog suda Republike Hrvatske broj: SuT-A-16/2024 od 25. lipnja 2024.",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2024/76/1306",
+   "versions": [
+    {
+     "from": "2024-06-26",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2024_06_76_1306.html",
+     "sha256": "44cf5b52cf52518973ee4f9a73d5a2d69205a6ab8af9a82c69a3d5a6fcd0c333"
+    }
+   ]
+  },
+  {
+   "slug": "usrh-sut-a-1-2025",
+   "path": "ustavni-sud/2025/sut-a-1-2025",
+   "short": "SuT-A-1/2025",
+   "title": "Odluka Ustavnog suda Republike Hrvatske broj: SuT-A-1/2025 od 21. siječnja 2025.",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2025/11/92",
+   "versions": [
+    {
+     "from": "2025-01-22",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2025_01_11_92.html",
+     "sha256": "1cdeecc67775c93b94631c93e56cb8a46f2c0c8d43179767346e39f933639c7d"
     }
    ]
   },
