@@ -4652,6 +4652,36 @@
    ]
   },
   {
+   "slug": "zakon-1990-168",
+   "path": "zakon/1990/168",
+   "short": "Zakon o pravima i dužnostima organa društveno-političkih zajednica u pogledu sredstava u društvenom vlasništvu koja oni koriste",
+   "title": "Zakon o pravima i dužnostima organa društveno-političkih zajednica u pogledu sredstava u društvenom vlasništvu koja oni koriste",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1990/13/168",
+   "versions": [
+    {
+     "from": "1990-04-07",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1990_03_13_168.html",
+     "sha256": "ddd255d6ba0bf574a4e470f7319ad12d458f280163fa2eaca95b7b5695a65a65"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-1990-169",
+   "path": "zakon/1990/169",
+   "short": "Zakon o dopunskim sredstvima općinama za 1990. godinu i razlici dopunskih sredstava po konačnom obračunu za 1989. godinu",
+   "title": "Zakon o dopunskim sredstvima općinama za 1990. godinu i razlici dopunskih sredstava po konačnom obračunu za 1989. godinu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1990/13/169",
+   "versions": [
+    {
+     "from": "1990-04-01",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1990_03_13_169.html",
+     "sha256": "150563e3434d6c4ef53b3c48bae7bb1c81a0447371bd42d9d245dfa31d1c1bdb"
+    }
+   ]
+  },
+  {
    "slug": "zakon-1990-170",
    "path": "zakon/1990/170",
    "short": "Zakon o izmjenama Zakona o pripravnicima u pravosudnim organima i pravosudnom ispitu",
@@ -4682,6 +4712,36 @@
    ]
   },
   {
+   "slug": "zakon-1990-267",
+   "path": "zakon/1990/267",
+   "short": "Zakon o Spomen-području Jasenovac",
+   "title": "Zakon o Spomen-području Jasenovac",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1990/15/267",
+   "versions": [
+    {
+     "from": "1990-04-25",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1990_04_15_267.html",
+     "sha256": "65189fb6f53ef947d229de6a3d85d4e2ebf9ffd1c27559b66d6705f02fc265ab"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-1990-274",
+   "path": "zakon/1990/274",
+   "short": "Zakon o provođenju popisa stanovništva, domaćinstava, stanova i poljoprivrednih gospodarstava u 1991. godini",
+   "title": "Zakon o provođenju popisa stanovništva, domaćinstava, stanova i poljoprivrednih gospodarstava u 1991. godini",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1990/16/274",
+   "versions": [
+    {
+     "from": "1990-05-02",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1990_04_16_274.html",
+     "sha256": "1a8049178e17452e9f982d9683a106a2c4c948eef76c6b4b141a1cd1eefefc3a"
+    }
+   ]
+  },
+  {
    "slug": "zakon-1990-275",
    "path": "zakon/1990/275",
    "short": "Zakon o izmjeni Zakona o komunalnim taksama",
@@ -4697,6 +4757,111 @@
    ]
   },
   {
+   "slug": "zakon-1990-276",
+   "path": "zakon/1990/276",
+   "short": "Zakon o izmjenama i dopunama Zakona o ugostiteljskoj i turističkoj djelatnosti",
+   "title": "Zakon o izmjenama i dopunama Zakona o ugostiteljskoj i turističkoj djelatnosti",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1990/16/276",
+   "versions": [
+    {
+     "from": "1990-05-02",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1990_04_16_276.html",
+     "sha256": "0ccab785de4e1c4e53dcb628ea4d600c2094778fca701f5762073585702d8545"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-1990-277",
+   "path": "zakon/1990/277",
+   "short": "Zakon o izmjenama i dopunama Zakona o građevinskom zemljištu",
+   "title": "Zakon o izmjenama i dopunama Zakona o građevinskom zemljištu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1990/16/277",
+   "versions": [
+    {
+     "from": "1990-05-02",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1990_04_16_277.html",
+     "sha256": "ae1763e89e6348568cb96abd4bce98ab1d2f0c54fefe2a536782c1b611346f98"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-1990-278",
+   "path": "zakon/1990/278",
+   "short": "Zakon o izmjenama i dopunama Zakona o redovnim sudovima",
+   "title": "Zakon o izmjenama i dopunama Zakona o redovnim sudovima",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1990/16/278",
+   "versions": [
+    {
+     "from": "1990-05-02",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1990_04_16_278.html",
+     "sha256": "c49a168c71ece9c99ee7ceeca8b4f8f25298e3711bbd07901638f1990e837bb3"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-1990-279",
+   "path": "zakon/1990/279",
+   "short": "Zakon o izmjenama i dopunama Zakona o javnom tužilaštvu",
+   "title": "Zakon o izmjenama i dopunama Zakona o javnom tužilaštvu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1990/16/279",
+   "versions": [
+    {
+     "from": "1990-05-02",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1990_04_16_279.html",
+     "sha256": "e74b7a93b4c3181ba952b221c22b909d957f452f99772cf6a47f2045e41bf4e5"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-1990-307",
+   "path": "zakon/1990/307",
+   "short": "Zakon o zaštiti od buke",
+   "title": "Zakon o zaštiti od buke",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1990/17/307",
+   "versions": [
+    {
+     "from": "1990-05-06",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1990_04_17_307.html",
+     "sha256": "adeaed784dd34c64e0b972711cbfc826a04a069063ffaf5834e0f08878f9a029"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-1990-308",
+   "path": "zakon/1990/308",
+   "short": "Zakon o financiranju Saveza udruženja boraca narodnooslobodilačkog rata Hrvatske",
+   "title": "Zakon o financiranju Saveza udruženja boraca narodnooslobodilačkog rata Hrvatske",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1990/17/308",
+   "versions": [
+    {
+     "from": "1990-05-06",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1990_04_17_308.html",
+     "sha256": "973359f168c98cdc525f99a0a62297f44ba30ea09a56c6f521be847103ea1ac1"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-1990-339",
+   "path": "zakon/1990/339",
+   "short": "Zakon o koncesijama",
+   "title": "Zakon o koncesijama",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1990/18/339",
+   "versions": [
+    {
+     "from": "1990-05-08",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1990_04_18_339.html",
+     "sha256": "d785a1b7b19bbcaacd124f8adf6a94a4fe31d05beba91af69743aa2cf9b19462"
+    }
+   ]
+  },
+  {
    "slug": "zakon-1990-340",
    "path": "zakon/1990/340",
    "short": "Zakon o Fondu Socijalističke Republike Hrvatske za razvoj",
@@ -4708,6 +4873,21 @@
      "units": 3,
      "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1990_04_18_340.html",
      "sha256": "847eddba4cbf79ea74d6e7b49fada815cd40812981e1cbe78e144450e11dcb32"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-1990-341",
+   "path": "zakon/1990/341",
+   "short": "Zakon o Agenciji Socijalističke Republike Hrvatske za restrukturiranje i razvoj",
+   "title": "Zakon o Agenciji Socijalističke Republike Hrvatske za restrukturiranje i razvoj",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1990/18/341",
+   "versions": [
+    {
+     "from": "1990-05-08",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1990_04_18_341.html",
+     "sha256": "44406421bee0ab828c5dd1e9d3517bbcc0511e65a613accca48697e19b03491c"
     }
    ]
   },
@@ -4817,6 +4997,111 @@
    ]
   },
   {
+   "slug": "zakon-1990-377",
+   "path": "zakon/1990/377",
+   "short": "Zakon o radnim odnosima",
+   "title": "Zakon o radnim odnosima",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1990/19/377",
+   "versions": [
+    {
+     "from": "1990-05-11",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1990_05_19_377.html",
+     "sha256": "f37a8b49e56d42935d164ccc2a1717810b0e141f460cfa092ea54c4b281f75fa"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-1990-378",
+   "path": "zakon/1990/378",
+   "short": "Zakon o zapošljavanju",
+   "title": "Zakon o zapošljavanju",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1990/19/378",
+   "versions": [
+    {
+     "from": "1990-05-11",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1990_05_19_378.html",
+     "sha256": "368e362d1dacd9f6de2d9949d3b27a35ecc310d08a20b4bc19d332b2fd21d2c7"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-1990-379",
+   "path": "zakon/1990/379",
+   "short": "Zakon o samostalnom obavljanju privrednih djelatnosti osobnim radom",
+   "title": "Zakon o samostalnom obavljanju privrednih djelatnosti osobnim radom",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1990/19/379",
+   "versions": [
+    {
+     "from": "1990-05-11",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1990_05_19_379.html",
+     "sha256": "0fd3efa0502829d0625db58a0f2eb5fb7726ace285577517ee513a988deaf1bc"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-1990-380",
+   "path": "zakon/1990/380",
+   "short": "Zakon o neposrednim porezima",
+   "title": "Zakon o neposrednim porezima",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1990/19/380",
+   "versions": [
+    {
+     "from": "1990-05-11",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1990_05_19_380.html",
+     "sha256": "a2119158fa30cd6b9d85008f2fdbccd09f36c872be60b9ecd207d1ec237687df"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-1990-381",
+   "path": "zakon/1990/381",
+   "short": "Zakon o političkim organizacijama",
+   "title": "Zakon o političkim organizacijama",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1990/19/381",
+   "versions": [
+    {
+     "from": "1990-05-11",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1990_05_19_381.html",
+     "sha256": "85ce59cd9264d168900dddda0f9dd87c424e3424f426fe3344fbb7f2bc45c734"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-1990-382",
+   "path": "zakon/1990/382",
+   "short": "Zakon o igrama na sreću i zabavnim igrama",
+   "title": "Zakon o igrama na sreću i zabavnim igrama",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1990/19/382",
+   "versions": [
+    {
+     "from": "1990-04-26",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1990_05_19_382.html",
+     "sha256": "e685c5f5c9b496bcb847a4af9e862c4acc9a76b9ea1f073dc45a53b903da47fc"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-1990-383",
+   "path": "zakon/1990/383",
+   "short": "Zakon o načinu raspodjele imovine i o statusu radnika regionalnih zajednica općina",
+   "title": "Zakon o načinu raspodjele imovine i o statusu radnika regionalnih zajednica općina",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1990/19/383",
+   "versions": [
+    {
+     "from": "1990-05-11",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1990_05_19_383.html",
+     "sha256": "d0b33ef0abf4451eef10813a39c322fa14304fbbed39e8311962f456d41e11f1"
+    }
+   ]
+  },
+  {
    "slug": "zakon-1990-385",
    "path": "zakon/1990/385",
    "short": "Zakon o pravima građana na odsustvovanje s rada na dan vjerskih blagdana",
@@ -4832,6 +5117,21 @@
    ]
   },
   {
+   "slug": "zakon-1990-386",
+   "path": "zakon/1990/386",
+   "short": "Zakon o izmjenama i dopunama Zakona o poljoprivrednom zemljištu",
+   "title": "Zakon o izmjenama i dopunama Zakona o poljoprivrednom zemljištu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1990/19/386",
+   "versions": [
+    {
+     "from": "1990-05-11",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1990_05_19_386.html",
+     "sha256": "c2204cfd2972fa5d9861ef892fc48ae33143090d26dbc9ac991601f284c10a82"
+    }
+   ]
+  },
+  {
    "slug": "zakon-1990-387",
    "path": "zakon/1990/387",
    "short": "Zakon o izmjenama i dopunama Zakona o izvršenju krivičnih i prekršajnih sankcija",
@@ -4843,6 +5143,21 @@
      "units": 3,
      "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1990_05_19_387.html",
      "sha256": "137e3aa7be49f67bcec9da4b4a490d3a2024b380d7c670f8af7c7fef6c89016c"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-1990-388",
+   "path": "zakon/1990/388",
+   "short": "Zakon o izmjenama i dopunama Zakona o javnom pravobranilaštvu",
+   "title": "Zakon o izmjenama i dopunama Zakona o javnom pravobranilaštvu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1990/19/388",
+   "versions": [
+    {
+     "from": "1990-05-11",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1990_05_19_388.html",
+     "sha256": "4a7f34670e6a9da89e17f88099c1e4908449359461886e3c5de81d5534749a79"
     }
    ]
   },
@@ -4877,6 +5192,36 @@
    ]
   },
   {
+   "slug": "zakon-1990-391",
+   "path": "zakon/1990/391",
+   "short": "Zakon o javnim cestama",
+   "title": "Zakon o javnim cestama",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1990/20/391",
+   "versions": [
+    {
+     "from": "1990-05-12",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1990_05_20_391.html",
+     "sha256": "8fbaf421fd732a22d3422a3d133d86c9a4fef209ccca4d6276ba94169debb9e9"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-1990-392",
+   "path": "zakon/1990/392",
+   "short": "Zakon o sigurnosti prometa na cestama",
+   "title": "Zakon o sigurnosti prometa na cestama",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1990/20/392",
+   "versions": [
+    {
+     "from": "1990-05-12",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1990_05_20_392.html",
+     "sha256": "658daba40e2367b954dbde8bf718050bbfc7ebc0b4666a5d7e80f2790221a5b3"
+    }
+   ]
+  },
+  {
    "slug": "zakon-1990-393",
    "path": "zakon/1990/393",
    "short": "Zakon o izmjenama i dopunama Zakona o kinematografiji",
@@ -4888,6 +5233,36 @@
      "units": 3,
      "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1990_05_20_393.html",
      "sha256": "b584df47c3a59e49ca117980cc417d7587af33a6607f87428f7480a5252c5680"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-1990-394",
+   "path": "zakon/1990/394",
+   "short": "Zakon o izmjenama i dopunama Zakona o društvenoj brizi o djeci predškolskog uzrasta",
+   "title": "Zakon o izmjenama i dopunama Zakona o društvenoj brizi o djeci predškolskog uzrasta",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1990/20/394",
+   "versions": [
+    {
+     "from": "1990-05-12",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1990_05_20_394.html",
+     "sha256": "db13ba5c002cb832daa27adf3da517d9d266db928fe85dc103c7adb8c2f2f608"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-1990-533",
+   "path": "zakon/1990/533",
+   "short": "Zakon o Hrvatskoj radio-televiziji",
+   "title": "Zakon o Hrvatskoj radio-televiziji",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1990/28/533",
+   "versions": [
+    {
+     "from": "1990-06-30",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1990_06_28_533.html",
+     "sha256": "ff90ee3ec84b9349524195dc17ae83e9f17ee22326884d53cc643c83ab0718a6"
     }
    ]
   },
@@ -4907,6 +5282,21 @@
    ]
   },
   {
+   "slug": "zakon-1990-535",
+   "path": "zakon/1990/535",
+   "short": "Zakon o privremenom uređenju organizacije upravljanja u Republičkoj samoupravnoj interesnoj zajednici usmjerenog obrazovanja Socijalističke Republike Hrvatske",
+   "title": "Zakon o privremenom uređenju organizacije upravljanja u Republičkoj samoupravnoj interesnoj zajednici usmjerenog obrazovanja Socijalističke Republike Hrvatske",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1990/28/535",
+   "versions": [
+    {
+     "from": "1990-06-30",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1990_06_28_535.html",
+     "sha256": "5990479ba562244e1ebd8e0ea7eaf73357e07c8450c90e524fd8cfd18bea3477"
+    }
+   ]
+  },
+  {
    "slug": "zakon-1990-536",
    "path": "zakon/1990/536",
    "short": "Zakon o izmjeni Zakona o načinu raspodjele imovine i o statusu radnika regionalnih zajednica općina",
@@ -4922,6 +5312,21 @@
    ]
   },
   {
+   "slug": "zakon-1990-537",
+   "path": "zakon/1990/537",
+   "short": "Zakon o izmjeni Zakona o političkim organizacijama",
+   "title": "Zakon o izmjeni Zakona o političkim organizacijama",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1990/28/537",
+   "versions": [
+    {
+     "from": "1990-06-30",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1990_06_28_537.html",
+     "sha256": "7940234d78fadf52e9bf89275d4a349113221f8726c64af11a701d42c823ef29"
+    }
+   ]
+  },
+  {
    "slug": "zakon-1990-583",
    "path": "zakon/1990/583",
    "short": "Zakon o proglašenju Zakona o prestanku važenja Zakona o osiguranju sredstava za izgradnju objekata",
@@ -4933,6 +5338,36 @@
      "units": 3,
      "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1990_07_29_583.html",
      "sha256": "42501723c4052ecb896bb897cdebe718e1e09d0cb75620a5422131b379039f3f"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-1990-6",
+   "path": "zakon/1990/6",
+   "short": "Zakon o izmjenama i dopuni Zakona o premijama za kvalitetni rasplodni podmladak i regresu troškova za umjetno osjemenjivanje stoke",
+   "title": "Zakon o izmjenama i dopuni Zakona o premijama za kvalitetni rasplodni podmladak i regresu troškova za umjetno osjemenjivanje stoke",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1990/2/6",
+   "versions": [
+    {
+     "from": "1990-02-01",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1990_01_2_6.html",
+     "sha256": "cca10ed5effec0a1e1230fc68f9fcb15c82785350906e37f5310a7b2b3b5b801"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-1990-613",
+   "path": "zakon/1990/613",
+   "short": "Zakon o elektroprivredi",
+   "title": "Zakon o elektroprivredi",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1990/31/613",
+   "versions": [
+    {
+     "from": "1990-07-28",
+     "units": 49,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1990_07_31_613.html",
+     "sha256": "98cdff0a4783561d08381aaf85a9c40183ecbc7b2f7127bfbfb594d108a6c7c4"
     }
    ]
   },
@@ -5027,6 +5462,111 @@
    ]
   },
   {
+   "slug": "zakon-1990-7",
+   "path": "zakon/1990/7",
+   "short": "Zakon o izmjenama i dopunama Zakona o premijama za mlijeko, vunu, konopljine stabljike, stabljike lana, te o nadoknadi razlike u cijeni za prodane količine konzumnog mlijeka",
+   "title": "Zakon o izmjenama i dopunama Zakona o premijama za mlijeko, vunu, konopljine stabljike, stabljike lana, te o nadoknadi razlike u cijeni za prodane količine konzumnog mlijeka",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1990/2/7",
+   "versions": [
+    {
+     "from": "1990-02-01",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1990_01_2_7.html",
+     "sha256": "6c8085545abd02fdbf41d33ea6b180b93d9e4a24ba792d582589a83bf2709777"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-1990-74",
+   "path": "zakon/1990/74",
+   "short": "Zakon o izbornim jedinicama za izbor zastupnika u Vijeće udruženog rada Sabora Socijalističke Republike Hrvatske",
+   "title": "Zakon o izbornim jedinicama za izbor zastupnika u Vijeće udruženog rada Sabora Socijalističke Republike Hrvatske",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1990/7/74",
+   "versions": [
+    {
+     "from": "1990-02-17",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1990_02_7_74.html",
+     "sha256": "807a88e323ed4722d7aee12b8fb89774e1144dec4eb9f839498e987620af804b"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-1990-746",
+   "path": "zakon/1990/746",
+   "short": "Zakon o izmjenama i dopunama Zakona o znanstvenoistraživačkoj djelatnosti",
+   "title": "Zakon o izmjenama i dopunama Zakona o znanstvenoistraživačkoj djelatnosti",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1990/40/746",
+   "versions": [
+    {
+     "from": "1990-10-14",
+     "units": 34,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1990_10_40_746.html",
+     "sha256": "64c9874cc6ade9024b32fdab80e42a2b5f39954a93f1d07ed19a1eeb37a14f58"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-1990-747",
+   "path": "zakon/1990/747",
+   "short": "Zakon o izmjenama i dopunama Zakona o zapošljavanju",
+   "title": "Zakon o izmjenama i dopunama Zakona o zapošljavanju",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1990/40/747",
+   "versions": [
+    {
+     "from": "1990-10-14",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1990_10_40_747.html",
+     "sha256": "f834191865f4fb7bb367efcf111a95b1a7f5ddf15a06a8b1df329219a623d36d"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-1990-748",
+   "path": "zakon/1990/748",
+   "short": "Zakon o izmjenama i dopunama Zakona o mirovinskom i invalidskom osiguranju",
+   "title": "Zakon o izmjenama i dopunama Zakona o mirovinskom i invalidskom osiguranju",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1990/40/748",
+   "versions": [
+    {
+     "from": "1990-10-14",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1990_10_40_748.html",
+     "sha256": "c7e0dcb4c8a606cb2073a6eb83aaa8759e1b1c90ae3f28a7ebe34df6abadcfdc"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-1990-75",
+   "path": "zakon/1990/75",
+   "short": "Zakon o izbornim jedinicama za izbor zastupnika u Društveno-političko vijeće Sabora Socijalističke Republike Hrvatske",
+   "title": "Zakon o izbornim jedinicama za izbor zastupnika u Društveno-političko vijeće Sabora Socijalističke Republike Hrvatske",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1990/7/75",
+   "versions": [
+    {
+     "from": "1990-02-17",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1990_02_7_75.html",
+     "sha256": "102a29efda942e9ecffcdf042e5d7cbde2db63d3c28dc3c4a226bb2e93234e74"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-1990-76",
+   "path": "zakon/1990/76",
+   "short": "Zakon o izbornim jedinicama za izbor delegata u Savezno vijeće Skupštine Socijalističke Federativne Republike Jugoslavije",
+   "title": "Zakon o izbornim jedinicama za izbor delegata u Savezno vijeće Skupštine Socijalističke Federativne Republike Jugoslavije",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1990/7/76",
+   "versions": [
+    {
+     "from": "1990-02-17",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1990_02_7_76.html",
+     "sha256": "933caf9b3681900a0523962f25fc835ad726d6646141dd6b35877281f81c4d9f"
+    }
+   ]
+  },
+  {
    "slug": "zakon-1990-78",
    "path": "zakon/1990/78",
    "short": "Zakon o izmjeni Zakona o privremenom prestanku primjenjivanja odredaba članova 289. i 291. Zakona o zdravstvenoj zaštiti i zdravstvenom osiguranju",
@@ -5038,6 +5578,156 @@
      "units": 3,
      "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1990_02_8_78.html",
      "sha256": "f4fa8dd40f7af91fd1086e0382c6db8925863f2d0cd35363832edf593614c60e"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-1990-788",
+   "path": "zakon/1990/788",
+   "short": "Zakon o Vladi Republike Hrvatske",
+   "title": "Zakon o Vladi Republike Hrvatske",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1990/41/788",
+   "versions": [
+    {
+     "from": "1990-10-08",
+     "units": 31,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1990_10_41_788.html",
+     "sha256": "a4edeb8f4f7279006e667a3dbe48e613ffeb269362cc2857e7040a4d9167a90d"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-1990-789",
+   "path": "zakon/1990/789",
+   "short": "Zakon o ustrojstvu republičke uprave",
+   "title": "Zakon o ustrojstvu republičke uprave",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1990/41/789",
+   "versions": [
+    {
+     "from": "1990-10-08",
+     "units": 48,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1990_10_41_789.html",
+     "sha256": "056214e2ea793439fd4065e6f2b2fe1747e1c4dc59d8039b9e3ad610a1ecaf60"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-1990-79",
+   "path": "zakon/1990/79",
+   "short": "Zakon o izmjeni Zakona o odvjetništvu i službi pravne pomoći",
+   "title": "Zakon o izmjeni Zakona o odvjetništvu i službi pravne pomoći",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1990/8/79",
+   "versions": [
+    {
+     "from": "1990-03-04",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1990_02_8_79.html",
+     "sha256": "1f92691aac731284ae443b10998d475e90baed3307df5f9e9993673c7ffb84a9"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-1990-790",
+   "path": "zakon/1990/790",
+   "short": "Zakon o izmjenama i dopunama Zakona o upravi",
+   "title": "Zakon o izmjenama i dopunama Zakona o upravi",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1990/41/790",
+   "versions": [
+    {
+     "from": "1990-10-16",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1990_10_41_790.html",
+     "sha256": "db45001f0a238ea83c47aa3a3f241f9c56733acd8864c8d1968a254a5eb1dcbf"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-1990-791",
+   "path": "zakon/1990/791",
+   "short": "Zakon o izmjenama i dopunama Zakona o redovnim sudovima",
+   "title": "Zakon o izmjenama i dopunama Zakona o redovnim sudovima",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1990/41/791",
+   "versions": [
+    {
+     "from": "1990-10-16",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1990_10_41_791.html",
+     "sha256": "9275de0f9ae261d504342eaa6c422fda77b322906658dc1a2abc2cffa0ede352"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-1990-792",
+   "path": "zakon/1990/792",
+   "short": "Zakon o izmjenama i dopunama Zakona o javnom tužilaštvu",
+   "title": "Zakon o izmjenama i dopunama Zakona o javnom tužilaštvu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1990/41/792",
+   "versions": [
+    {
+     "from": "1990-10-16",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1990_10_41_792.html",
+     "sha256": "3ebc593388cc93ade75ff22dfde71d50815430716d2174a0de83bd89b42161bc"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-1990-793",
+   "path": "zakon/1990/793",
+   "short": "Zakon o izmjenama i dopunama Zakona o javnom pravobranilaštvu",
+   "title": "Zakon o izmjenama i dopunama Zakona o javnom pravobranilaštvu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1990/41/793",
+   "versions": [
+    {
+     "from": "1990-10-16",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1990_10_41_793.html",
+     "sha256": "cac3de36c88e6d2ec10b37864035d21aaf4d1dbba995f78ffe7440641c52d970"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-1990-794",
+   "path": "zakon/1990/794",
+   "short": "Zakon o izmjenama Zakona o prekršajima",
+   "title": "Zakon o izmjenama Zakona o prekršajima",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1990/41/794",
+   "versions": [
+    {
+     "from": "1990-10-08",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1990_10_41_794.html",
+     "sha256": "047522d7fe949dd87009b10361f0a43ae5df4b918963a4c1e67ba1346c2aef65"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-1990-795",
+   "path": "zakon/1990/795",
+   "short": "Zakon o izmjenama Zakona o poljoprivrednom zemljištu",
+   "title": "Zakon o izmjenama Zakona o poljoprivrednom zemljištu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1990/41/795",
+   "versions": [
+    {
+     "from": "1990-10-16",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1990_10_41_795.html",
+     "sha256": "15aeaeae48deaab1076a5af0c8b0ea9521d3a75517acbbf1a35cb5386bb16b89"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-1990-796",
+   "path": "zakon/1990/796",
+   "short": "Zakon o izmjenama i dopunama Zakona o šumama",
+   "title": "Zakon o izmjenama i dopunama Zakona o šumama",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1990/41/796",
+   "versions": [
+    {
+     "from": "1990-10-16",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1990_10_41_796.html",
+     "sha256": "1676233038e727d5e469010624692394bcc2ae83b08011668e8e259de2a4ca65"
     }
    ]
   },
@@ -5057,6 +5747,96 @@
    ]
   },
   {
+   "slug": "zakon-1990-798",
+   "path": "zakon/1990/798",
+   "short": "Zakon o javnim cestama",
+   "title": "Zakon o javnim cestama",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1990/42/798",
+   "versions": [
+    {
+     "from": "1990-10-18",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1990_10_42_798.html",
+     "sha256": "29b80ac67ff78ac12d8152825bdf1553670116dda9f1935085d91b9893fd1400"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-1990-80",
+   "path": "zakon/1990/80",
+   "short": "Zakon o izmjenama Zakona o prekršajima",
+   "title": "Zakon o izmjenama Zakona o prekršajima",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1990/8/80",
+   "versions": [
+    {
+     "from": "1990-02-24",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1990_02_8_80.html",
+     "sha256": "f79375577d96fc8a95c7712905df2fe3cb0612d526984a4c71fda277b3ddae63"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-1990-800",
+   "path": "zakon/1990/800",
+   "short": "Zakon o osnivanju javnog hrvatskog poštanskog i telekomunikacijskog poduzeća",
+   "title": "Zakon o osnivanju javnog hrvatskog poštanskog i telekomunikacijskog poduzeća",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1990/42/800",
+   "versions": [
+    {
+     "from": "1990-10-10",
+     "units": 19,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1990_10_42_800.html",
+     "sha256": "6c88ba858256b57cc1a37cb58d47d8d31c11e9db74a361831faa5a7c0dcba749"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-1990-801",
+   "path": "zakon/1990/801",
+   "short": "Zakon o osnivanju javnog poduzeća INA - Industrija nafte",
+   "title": "Zakon o osnivanju javnog poduzeća INA - Industrija nafte",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1990/42/801",
+   "versions": [
+    {
+     "from": "1990-10-10",
+     "units": 20,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1990_10_42_801.html",
+     "sha256": "2e96d5d8b478e678f211c5cc7c39a19ad4b801241e575cffafdfa4c172334602"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-1990-802",
+   "path": "zakon/1990/802",
+   "short": "Zakon o izmjenama i dopunama Zakona o Fondu Republike Hrvatske za razvoj",
+   "title": "Zakon o izmjenama i dopunama Zakona o Fondu Republike Hrvatske za razvoj",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1990/42/802",
+   "versions": [
+    {
+     "from": "1990-10-18",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1990_10_42_802.html",
+     "sha256": "f821b286b53077bef57cdfdcd6d376cd29949f329d3c5db8dce91ce6982f7ccb"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-1990-803",
+   "path": "zakon/1990/803",
+   "short": "Zakon o izmjenama i dopunama Zakona o sigurnosti plovidbe na moru i unutrašnjim vodama",
+   "title": "Zakon o izmjenama i dopunama Zakona o sigurnosti plovidbe na moru i unutrašnjim vodama",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1990/42/803",
+   "versions": [
+    {
+     "from": "1990-10-18",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1990_10_42_803.html",
+     "sha256": "caf1861ba22c5a9a75021d046423970fac4e4de27bbaed0cc6907c9fcb1e986b"
+    }
+   ]
+  },
+  {
    "slug": "zakon-1990-804",
    "path": "zakon/1990/804",
    "short": "Zakon o izmjenama Zakona o obveznom udruživanju dijela sredstava društvene reprodukcije od 1. lipnja 1986. do 31. svibnja 1991. godine za realizaciju programa razvoja agroindustrijskog kompleksa Repub",
@@ -5068,6 +5848,21 @@
      "units": 3,
      "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1990_10_42_804.html",
      "sha256": "5dc756a1b9702e173c25ed52e0d5318f3d1b5fe34b421bc99822b93fe1e8bdac"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-1990-805",
+   "path": "zakon/1990/805",
+   "short": "Zakon o izmjenama i dopunama Zakona o socijalnoj zaštiti",
+   "title": "Zakon o izmjenama i dopunama Zakona o socijalnoj zaštiti",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1990/42/805",
+   "versions": [
+    {
+     "from": "1990-10-18",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1990_10_42_805.html",
+     "sha256": "0ad76a3d5e38eae7248886b7de15434c09307336557574c261e41d27a8dda33a"
     }
    ]
   },
@@ -5087,6 +5882,21 @@
    ]
   },
   {
+   "slug": "zakon-1990-82",
+   "path": "zakon/1990/82",
+   "short": "Zakon o izmjenama Zakona o doplatku za djecu",
+   "title": "Zakon o izmjenama Zakona o doplatku za djecu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1990/8/82",
+   "versions": [
+    {
+     "from": "1990-03-04",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1990_02_8_82.html",
+     "sha256": "7ded37459380ec6fc0ea1b065e05157969efbecfecc7b11d31b190dc3de2bcd9"
+    }
+   ]
+  },
+  {
    "slug": "zakon-1990-83",
    "path": "zakon/1990/83",
    "short": "Zakon o izmjenama i dopunama Zakona o javnom informiranju",
@@ -5102,6 +5912,51 @@
    ]
   },
   {
+   "slug": "zakon-1990-865",
+   "path": "zakon/1990/865",
+   "short": "Zakon o osnivanju Javnog poduzeća \"Narodne novine\"",
+   "title": "Zakon o osnivanju Javnog poduzeća \"Narodne novine\"",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1990/47/865",
+   "versions": [
+    {
+     "from": "1990-11-22",
+     "units": 14,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1990_11_47_865.html",
+     "sha256": "2524c81262e307820642da24dda5e9588932b44fc9da8fc3111859829be802b1"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-1990-866",
+   "path": "zakon/1990/866",
+   "short": "Zakon o fondovima za kulturu",
+   "title": "Zakon o fondovima za kulturu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1990/47/866",
+   "versions": [
+    {
+     "from": "1990-11-22",
+     "units": 26,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1990_11_47_866.html",
+     "sha256": "a39aead77ad8967fe24c33efdc518838452bdeb833cb6d0b1c31c1c103de3466"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-1990-867",
+   "path": "zakon/1990/867",
+   "short": "Zakon o spajanju općina s područja Gradske zajednice Zagreb i prestanku Gradske zajednice Zagreb",
+   "title": "Zakon o spajanju općina s područja Gradske zajednice Zagreb i prestanku Gradske zajednice Zagreb",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1990/47/867",
+   "versions": [
+    {
+     "from": "1990-11-22",
+     "units": 12,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1990_11_47_867.html",
+     "sha256": "0cdee5f813ada950220e2bb6a5c599a7f9c9682de93314a2a6f3c8be5e2477ca"
+    }
+   ]
+  },
+  {
    "slug": "zakon-1990-868",
    "path": "zakon/1990/868",
    "short": "Zakon o prestanu važenja Zakona o financiranju Saveza udruženja boraca narodnooslobodilačkog rata Hrvatske",
@@ -5113,6 +5968,21 @@
      "units": 4,
      "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1990_11_47_868.html",
      "sha256": "d90fe50f0407102c10b694151458b03e72122f5b86b9b395e3b76d912aacccf7"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-1990-870",
+   "path": "zakon/1990/870",
+   "short": "Zakon o izmjenama Zakona o elektroprivredi",
+   "title": "Zakon o izmjenama Zakona o elektroprivredi",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1990/47/870",
+   "versions": [
+    {
+     "from": "1990-11-14",
+     "units": 10,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1990_11_47_870.html",
+     "sha256": "d49c3c199faefa0b56413cfe10514db24f7a82cba21896789b5ca95b46a5e347"
     }
    ]
   },
@@ -5237,6 +6107,36 @@
    ]
   },
   {
+   "slug": "zakon-1990-879",
+   "path": "zakon/1990/879",
+   "short": "Zakon o izmjenama i dopunama Zakona o Agenciji Socijalističke Republike Hrvatske za restrukturiranje i razvoj",
+   "title": "Zakon o izmjenama i dopunama Zakona o Agenciji Socijalističke Republike Hrvatske za restrukturiranje i razvoj",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1990/47/879",
+   "versions": [
+    {
+     "from": "1990-11-22",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1990_11_47_879.html",
+     "sha256": "78cb2fd3edb58ee6be2b4ec61a4999f8a896d7166511837f659bb929b08b7805"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-1990-880",
+   "path": "zakon/1990/880",
+   "short": "Zakon o izmjenama i dopunama Zakona o upravi",
+   "title": "Zakon o izmjenama i dopunama Zakona o upravi",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1990/47/880",
+   "versions": [
+    {
+     "from": "1990-11-14",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1990_11_47_880.html",
+     "sha256": "8dddeb07108d442e096b9cf1b142ef658e255eeb4b891cb08a250721aeeaad51"
+    }
+   ]
+  },
+  {
    "slug": "zakon-1990-881",
    "path": "zakon/1990/881",
    "short": "Zakon o Izmjenama i dopunama Zakona o prekršajima protiv javnog reda i mira",
@@ -5267,6 +6167,21 @@
    ]
   },
   {
+   "slug": "zakon-1990-884",
+   "path": "zakon/1990/884",
+   "short": "Zakon o izmjenama i dopunama Zakona o društvenoj brizi o djeci predškolskog uzrasta",
+   "title": "Zakon o izmjenama i dopunama Zakona o društvenoj brizi o djeci predškolskog uzrasta",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1990/47/884",
+   "versions": [
+    {
+     "from": "1990-11-22",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1990_11_47_884.html",
+     "sha256": "11b023185085160ca824e062652969c85d3603109d268277835b3193c11ecc5f"
+    }
+   ]
+  },
+  {
    "slug": "zakon-1990-9",
    "path": "zakon/1990/9",
    "short": "Zakon o izmjenama Zakona o doprinosu Samoupravnoj interesnoj zajednici potrošača električne energije Hrvatske",
@@ -5278,6 +6193,66 @@
      "units": 3,
      "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1990_01_2_9.html",
      "sha256": "b6b3fb01650d26a47f6ccce869aa0ee957555a3972e457cd083351f1e5bd1779"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-1990-984",
+   "path": "zakon/1990/984",
+   "short": "Zakon o zabrani prijenosa prava raspolaganja i korištenja određenih nekretnina u društvenom vlasništvu na druge korisnike odnosno u vlasništvo fizičkih i pravnih osoba",
+   "title": "Zakon o zabrani prijenosa prava raspolaganja i korištenja određenih nekretnina u društvenom vlasništvu na druge korisnike odnosno u vlasništvo fizičkih i pravnih osoba",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1990/53/984",
+   "versions": [
+    {
+     "from": "1990-12-14",
+     "units": 9,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1990_12_53_984.html",
+     "sha256": "264c6c00b0378827d486df58e9088e49d3168657f2b2ec58906d00f66ea3c3e5"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-1990-985",
+   "path": "zakon/1990/985",
+   "short": "Zakon o fondovima u stambenom i komunalnom gospodarstu",
+   "title": "Zakon o fondovima u stambenom i komunalnom gospodarstu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1990/53/985",
+   "versions": [
+    {
+     "from": "1990-12-14",
+     "units": 8,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1990_12_53_985.html",
+     "sha256": "ccc25febb87f94a0f173a00f1c5ad94306f6dc143bd0d4e526926241b180a5a3"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-1990-986",
+   "path": "zakon/1990/986",
+   "short": "Zakon o porezu na promet nekretnina",
+   "title": "Zakon o porezu na promet nekretnina",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1990/53/986",
+   "versions": [
+    {
+     "from": "1990-12-22",
+     "units": 33,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1990_12_53_986.html",
+     "sha256": "bb76a4a657509cb8aa176ed1b1e8ed918315c10316beece7f04bd1842fa8234b"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-1990-987",
+   "path": "zakon/1990/987",
+   "short": "Zakon o Božićnom blagdanu",
+   "title": "Zakon o Božićnom blagdanu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1990/53/987",
+   "versions": [
+    {
+     "from": "1990-12-14",
+     "units": 6,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1990_12_53_987.html",
+     "sha256": "4079f0f15e8ad4c028d9194cc13ae696020ba901ba66d5951ee0ed897288191a"
     }
    ]
   },
@@ -5338,6 +6313,21 @@
      "units": 3,
      "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1990_12_53_992.html",
      "sha256": "6e3ae9a68ffc71f7e7116b0a8b745c88e0928ed7f435f34a3214ebb4bfbdd585"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-1990-993",
+   "path": "zakon/1990/993",
+   "short": "Zakon o izmjenama i dopunama Zakona o građevinskom zemljištu",
+   "title": "Zakon o izmjenama i dopunama Zakona o građevinskom zemljištu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1990/53/993",
+   "versions": [
+    {
+     "from": "1990-12-22",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1990_12_53_993.html",
+     "sha256": "c23bbbd34ab2a6881fc04da5d4c2e932ead6e3fd3df8c583c29ba7fc512e4977"
     }
    ]
   },
@@ -15347,6 +16337,156 @@
    ]
   },
   {
+   "slug": "zakon-1991-1090",
+   "path": "zakon/1991/1090",
+   "short": "Zakon o ovlaštenju Vlade Republike Hrvatske za donošenje uredbi kojima će uređivati pojedina pitanja iz djelokruga Sabora Republike Hrvatske",
+   "title": "Zakon o ovlaštenju Vlade Republike Hrvatske za donošenje uredbi kojima će uređivati pojedina pitanja iz djelokruga Sabora Republike Hrvatske",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1991/39/1090",
+   "versions": [
+    {
+     "from": "1991-08-03",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1991_08_39_1090.html",
+     "sha256": "5abf7609ac48a0d76861405b09189cee9c85e31b737bc6a6aa0812d4dcb961d4"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-1991-1230",
+   "path": "zakon/1991/1230",
+   "short": "Zakon o obrani",
+   "title": "Zakon o obrani",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1991/49/1230",
+   "versions": [
+    {
+     "from": "1991-09-20",
+     "units": 53,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1991_09_49_1230.html",
+     "sha256": "e41c1293a555a13705d0f9cd17780115884e53e26883b1e9e0e2b165428de136"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-1991-1244",
+   "path": "zakon/1991/1244",
+   "short": "Zakon o preuzimanju saveznih zakona iz područja obrane koji se u Republici Hrvatskoj primjenjuju kao republički propisi",
+   "title": "Zakon o preuzimanju saveznih zakona iz područja obrane koji se u Republici Hrvatskoj primjenjuju kao republički propisi",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1991/52/1244",
+   "versions": [
+    {
+     "from": "1991-10-03",
+     "units": 6,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1991_10_52_1244.html",
+     "sha256": "22d01a1d81d32ac0f1f97bd2cb7125f74495d6f8bc5f0d7ac6fd423040804763"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-1991-1245",
+   "path": "zakon/1991/1245",
+   "short": "Zakon o zdravstvenoj zaštiti životinja i veterinarskoj djelatnosti",
+   "title": "Zakon o zdravstvenoj zaštiti životinja i veterinarskoj djelatnosti",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1991/52/1245",
+   "versions": [
+    {
+     "from": "1991-10-03",
+     "units": 112,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1991_10_52_1245.html",
+     "sha256": "ac655dafdc2e2bd6352698d9a985047ea89ccd1fddcb5022e6255b986cf88748"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-1991-1273",
+   "path": "zakon/1991/1273",
+   "short": "Zakon o prebivalištu i boravištu građana",
+   "title": "Zakon o prebivalištu i boravištu građana",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1991/53/1273",
+   "versions": [
+    {
+     "from": "1991-10-08",
+     "units": 23,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1991_10_53_1273.html",
+     "sha256": "11557086229cec135b948d01d472a70189244fa1cfb064a9e6d04ac2110a2d58"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-1991-1274",
+   "path": "zakon/1991/1274",
+   "short": "Zakon o putnim ispravama hrvatskih državljana",
+   "title": "Zakon o putnim ispravama hrvatskih državljana",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1991/53/1274",
+   "versions": [
+    {
+     "from": "1991-10-08",
+     "units": 52,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1991_10_53_1274.html",
+     "sha256": "9759cb74061158f6e4dfbb7734e0149fead1c2a8d37464e47d9479a4ec07e683"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-1991-1275",
+   "path": "zakon/1991/1275",
+   "short": "Zakon o osobnoj iskaznici",
+   "title": "Zakon o osobnoj iskaznici",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1991/53/1275",
+   "versions": [
+    {
+     "from": "1991-10-08",
+     "units": 16,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1991_10_53_1275.html",
+     "sha256": "10c300e5b392c8f7e34c30ce10a129482a85fb52bc5d3af70f5b8f2c44ed36ca"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-1991-1276",
+   "path": "zakon/1991/1276",
+   "short": "Zakon o inozemnim poslovima",
+   "title": "Zakon o inozemnim poslovima",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1991/53/1276",
+   "versions": [
+    {
+     "from": "1991-10-08",
+     "units": 45,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1991_10_53_1276.html",
+     "sha256": "1cb278a3a491eb7c1a08db067803258bf9b6924563acb9ded07db25ffdb3d971"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-1991-1277",
+   "path": "zakon/1991/1277",
+   "short": "Zakon o sklapanju i izvršavanju međunarodnih ugovora",
+   "title": "Zakon o sklapanju i izvršavanju međunarodnih ugovora",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1991/53/1277",
+   "versions": [
+    {
+     "from": "1991-10-08",
+     "units": 37,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1991_10_53_1277.html",
+     "sha256": "57f99182493d780d376033efe5743f2e2cb82636d52fe09c1680831f504b9731"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-1991-1278",
+   "path": "zakon/1991/1278",
+   "short": "Zakon o kretanju i boravku stranaca",
+   "title": "Zakon o kretanju i boravku stranaca",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1991/53/1278",
+   "versions": [
+    {
+     "from": "1991-10-08",
+     "units": 84,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1991_10_53_1278.html",
+     "sha256": "57486ccd022fa9fabab55b1a0bfca687a79533c08aeaa72ecdf7d8c709912e98"
+    }
+   ]
+  },
+  {
    "slug": "zakon-1991-1281",
    "path": "zakon/1991/1281",
    "short": "Zakon o izmjenama i dopunama Zakona o tržišnoj inspekciji",
@@ -15358,6 +16498,21 @@
      "units": 28,
      "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1991_10_53_1281.html",
      "sha256": "52c870660625201a82b6a1a042b3c5d096b70f0706907f510e8436dcf0d864a6"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-1991-1282",
+   "path": "zakon/1991/1282",
+   "short": "Zakon o prijevozu u međunarodnom cestovnom prometu",
+   "title": "Zakon o prijevozu u međunarodnom cestovnom prometu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1991/53/1282",
+   "versions": [
+    {
+     "from": "1991-10-08",
+     "units": 68,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1991_10_53_1282.html",
+     "sha256": "5934b2583ba85b094767875b79a2819a773157273a181174eac7a14647751380"
     }
    ]
   },
@@ -15407,6 +16562,36 @@
    ]
   },
   {
+   "slug": "zakon-1991-1287",
+   "path": "zakon/1991/1287",
+   "short": "Zakon o preuzimanju saveznih zakona iz oblasti prometa i veza koji se u Republici Hrvatskoj primjenjuju kao republički zakoni",
+   "title": "Zakon o preuzimanju saveznih zakona iz oblasti prometa i veza koji se u Republici Hrvatskoj primjenjuju kao republički zakoni",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1991/53/1287",
+   "versions": [
+    {
+     "from": "1991-10-08",
+     "units": 9,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1991_10_53_1287.html",
+     "sha256": "b65e85e89ba2738503faba74cfe62ef6f1b5be49c4d13705358cd700b1c117a1"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-1991-1288",
+   "path": "zakon/1991/1288",
+   "short": "Zakon o preuzimanju saveznih zakona iz oblasti financija koji se u Republici Hrvatskoj primjenjuju kao republički zakoni",
+   "title": "Zakon o preuzimanju saveznih zakona iz oblasti financija koji se u Republici Hrvatskoj primjenjuju kao republički zakoni",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1991/53/1288",
+   "versions": [
+    {
+     "from": "1991-10-08",
+     "units": 10,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1991_10_53_1288.html",
+     "sha256": "b942b1a5e70087e6d6dd30a4daf178791ceaceacea22a996f73ab426a5eb928c"
+    }
+   ]
+  },
+  {
    "slug": "zakon-1991-1289",
    "path": "zakon/1991/1289",
    "short": "Zakon o preuzimanju saveznih zakona iz područja organizacije i poslovanja gospodarskih subjekata koji se u Republici Hrvatskoj primjenjuju kao republički zakoni",
@@ -15437,6 +16622,96 @@
    ]
   },
   {
+   "slug": "zakon-1991-1291",
+   "path": "zakon/1991/1291",
+   "short": "Zakon o preuzimanju saveznih zakona iz oblasti zdravstva koji se u Republici Hrvatskoj primjenjuju kao republički zakoni",
+   "title": "Zakon o preuzimanju saveznih zakona iz oblasti zdravstva koji se u Republici Hrvatskoj primjenjuju kao republički zakoni",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1991/53/1291",
+   "versions": [
+    {
+     "from": "1991-10-08",
+     "units": 6,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1991_10_53_1291.html",
+     "sha256": "fc59b7a86c38983d114bf868d546c79cc2a0003e7bd5bc7a32c0b5a8a002dda7"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-1991-1293",
+   "path": "zakon/1991/1293",
+   "short": "Zakon o preuzimanju Zakona o unošenju i raspačavanju inozemnih sredstava masovnog komuniciranja i o inozemnoj informativnoj djelatnosti u Jugoslaviji koji se u Republici Hrvatskoj primjenjuje kao republički zakon",
+   "title": "Zakon o preuzimanju Zakona o unošenju i raspačavanju inozemnih sredstava masovnog komuniciranja i o inozemnoj informativnoj djelatnosti u Jugoslaviji koji se u Republici Hrvatskoj primjenjuje kao republički zakon",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1991/53/1293",
+   "versions": [
+    {
+     "from": "1991-10-08",
+     "units": 6,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1991_10_53_1293.html",
+     "sha256": "e718dd919bf60a0e529e7a5657113a2a45c1ed361e8895b5a7043ead22052f8a"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-1991-1295",
+   "path": "zakon/1991/1295",
+   "short": "Zakon o preuzimanju Zakona o krivičnom postupku",
+   "title": "Zakon o preuzimanju Zakona o krivičnom postupku",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1991/53/1295",
+   "versions": [
+    {
+     "from": "1991-10-08",
+     "units": 73,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1991_10_53_1295.html",
+     "sha256": "87a2a0c8a8cee31070a22c4f078e33c24fd168f33e90716f09efa9cd409e018f"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-1991-1296",
+   "path": "zakon/1991/1296",
+   "short": "Zakon o preuzimanju Zakona o izvršnom postupku",
+   "title": "Zakon o preuzimanju Zakona o izvršnom postupku",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1991/53/1296",
+   "versions": [
+    {
+     "from": "1991-10-08",
+     "units": 17,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1991_10_53_1296.html",
+     "sha256": "6c01db2d978abbface7e9767dea1dee8e363cf8919ee2b75f21bb50ff90879d5"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-1991-1299",
+   "path": "zakon/1991/1299",
+   "short": "Zakon o preuzimanju Zakona o upravnim sporovima",
+   "title": "Zakon o preuzimanju Zakona o upravnim sporovima",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1991/53/1299",
+   "versions": [
+    {
+     "from": "1991-10-08",
+     "units": 42,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1991_10_53_1299.html",
+     "sha256": "5b2b763f9be08936a840e6840ae72082dabdf9292223d852a4244b8bd1364468"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-1991-1300",
+   "path": "zakon/1991/1300",
+   "short": "Zakon o preuzimanju Zakona o privrednim prijestupima",
+   "title": "Zakon o preuzimanju Zakona o privrednim prijestupima",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1991/53/1300",
+   "versions": [
+    {
+     "from": "1991-10-08",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1991_10_53_1300.html",
+     "sha256": "195a6f0cfa06e5b20fd9957853afb3d2ebcb59cfc0f803c7076071d2ee4c3e4c"
+    }
+   ]
+  },
+  {
    "slug": "zakon-1991-1301",
    "path": "zakon/1991/1301",
    "short": "Zakon o preuzimanju Zakona o općem upravnom postupku u Republici Hrvatskoj",
@@ -15448,6 +16723,66 @@
      "units": 47,
      "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1991_10_53_1301.html",
      "sha256": "021a508f2b6770ca5523019eb0d2fa6b47efcc038e149f57d1a0fff709cfa40d"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-1991-1302",
+   "path": "zakon/1991/1302",
+   "short": "Zakon o preuzimanju Zakona o osnovnim vlasničkopravnim odnosima",
+   "title": "Zakon o preuzimanju Zakona o osnovnim vlasničkopravnim odnosima",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1991/53/1302",
+   "versions": [
+    {
+     "from": "1991-10-08",
+     "units": 22,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1991_10_53_1302.html",
+     "sha256": "7b8c1e75b3223231cd700d762dd55bcb380cdc12eaae28b2d37c1e6f9b52be8d"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-1991-1303",
+   "path": "zakon/1991/1303",
+   "short": "Zakon o preuzimanju Zakona o rješavanju sukoba zakona i sukoba nadležnosti u izvršenju kaznenih sankcija",
+   "title": "Zakon o preuzimanju Zakona o rješavanju sukoba zakona i sukoba nadležnosti u izvršenju kaznenih sankcija",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1991/53/1303",
+   "versions": [
+    {
+     "from": "1991-10-08",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1991_10_53_1303.html",
+     "sha256": "404c00942f1e66289e6abaf8f9bf6c8ec4c715bedca8744d8ab380fb64e2f51f"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-1991-1304",
+   "path": "zakon/1991/1304",
+   "short": "Zakon o preuzimanju Zakona o legalizaciji isprava u međunarodnom prometu",
+   "title": "Zakon o preuzimanju Zakona o legalizaciji isprava u međunarodnom prometu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1991/53/1304",
+   "versions": [
+    {
+     "from": "1991-10-08",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1991_10_53_1304.html",
+     "sha256": "cf880036e81be6cab0ace47397f32252fb8efc28f9de10a77e04f248dba830b7"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-1991-1305",
+   "path": "zakon/1991/1305",
+   "short": "Zakon o preuzimanju Zakona o obveznim odnosima",
+   "title": "Zakon o preuzimanju Zakona o obveznim odnosima",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1991/53/1305",
+   "versions": [
+    {
+     "from": "1991-10-08",
+     "units": 30,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1991_10_53_1305.html",
+     "sha256": "d7713d6e77fb60c5e986c6cbec59a3d116a252462fd37e65df449c4547b7b729"
     }
    ]
   },
@@ -15482,6 +16817,21 @@
    ]
   },
   {
+   "slug": "zakon-1991-1309",
+   "path": "zakon/1991/1309",
+   "short": "Zakon o preuzimanju Zakona o mjernim jedinicama i mjerilima koji se u Republici Hrvatskoj primjenjuje kao republički zakon",
+   "title": "Zakon o preuzimanju Zakona o mjernim jedinicama i mjerilima koji se u Republici Hrvatskoj primjenjuje kao republički zakon",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1991/53/1309",
+   "versions": [
+    {
+     "from": "1991-10-08",
+     "units": 6,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1991_10_53_1309.html",
+     "sha256": "10df42f36dc4e69aaaa064023cdab0bd952ca0fb12d898dfe6585a2e7ba8adfe"
+    }
+   ]
+  },
+  {
    "slug": "zakon-1991-1311",
    "path": "zakon/1991/1311",
    "short": "Zakon o preuzimanju Zakona o standardizaciji koji se u Republici Hrvatskoj primjenjuje kao republički zakon",
@@ -15493,6 +16843,66 @@
      "units": 6,
      "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1991_10_53_1311.html",
      "sha256": "b2b12df703d223151d634228dc40ec66515b27cb88eef7b4d2f70fb76048c60a"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-1991-1312",
+   "path": "zakon/1991/1312",
+   "short": "Zakon o preuzimanju Zakona o kontroli predmeta od dragocjenih kovina koji se u Republici Hrvatskoj primjenjuje kao republički zakon",
+   "title": "Zakon o preuzimanju Zakona o kontroli predmeta od dragocjenih kovina koji se u Republici Hrvatskoj primjenjuje kao republički zakon",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1991/53/1312",
+   "versions": [
+    {
+     "from": "1991-10-08",
+     "units": 6,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1991_10_53_1312.html",
+     "sha256": "1b45b28477a417ebcc39b92a44cb932d80594196fb5964b2e9210727536ebcea"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-1991-1313",
+   "path": "zakon/1991/1313",
+   "short": "Zakon o preuzimanju saveznih zakona iz oblasti boračke zaštite koji se u Republici Hrvatskoj primjenjuju kao republički zakoni",
+   "title": "Zakon o preuzimanju saveznih zakona iz oblasti boračke zaštite koji se u Republici Hrvatskoj primjenjuju kao republički zakoni",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1991/53/1313",
+   "versions": [
+    {
+     "from": "1991-10-08",
+     "units": 12,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1991_10_53_1313.html",
+     "sha256": "04d69aea5ed698e47bafd53bce471a38125f467c65e3942a29cf50d74df0cd27"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-1991-1314",
+   "path": "zakon/1991/1314",
+   "short": "Zakon o preuzimanju saveznih zakona iz oblasti mirovinskog i invalidskog osiguranja koji se u Republici Hrvatskoj primjenjuju kao republički zakoni",
+   "title": "Zakon o preuzimanju saveznih zakona iz oblasti mirovinskog i invalidskog osiguranja koji se u Republici Hrvatskoj primjenjuju kao republički zakoni",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1991/53/1314",
+   "versions": [
+    {
+     "from": "1991-10-08",
+     "units": 9,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1991_10_53_1314.html",
+     "sha256": "10b0076a84be046419a5c1f6921e6f3cbdfae9277e0f5709631d31986efaaa95"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-1991-1315",
+   "path": "zakon/1991/1315",
+   "short": "Zakon o preuzimanju saveznih zakona iz oblasti mirovinskog i invalidskog osiguranja i doplatka za djecu vojnih osiguranika koji se u Republici Hrvatskoj primjenjuju kao republički",
+   "title": "Zakon o preuzimanju saveznih zakona iz oblasti mirovinskog i invalidskog osiguranja i doplatka za djecu vojnih osiguranika koji se u Republici Hrvatskoj primjenjuju kao republički",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1991/53/1315",
+   "versions": [
+    {
+     "from": "1991-10-08",
+     "units": 8,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1991_10_53_1315.html",
+     "sha256": "0e46349512bded955afc39956128f7e5b3c9f072e7ac7f7882f8d5d13d4ee9d3"
     }
    ]
   },
@@ -15523,6 +16933,21 @@
      "units": 6,
      "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1991_10_53_1317.html",
      "sha256": "4568fbc69a623b024ce8872eecce85c824fe9723b0a3351fd9dc6ea6b109b413"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-1991-1318",
+   "path": "zakon/1991/1318",
+   "short": "Zakon o preuzimanju Zakona o osnovnim pravima vojnih invalida i obitelji palih boraca koji se u Republici Hrvatskoj primjenjuje kao republički zakon",
+   "title": "Zakon o preuzimanju Zakona o osnovnim pravima vojnih invalida i obitelji palih boraca koji se u Republici Hrvatskoj primjenjuje kao republički zakon",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1991/53/1318",
+   "versions": [
+    {
+     "from": "1991-10-08",
+     "units": 11,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1991_10_53_1318.html",
+     "sha256": "3aa54228f518da5b7833e09933fe11ae294b5b5c82679321ae8509e218dec24e"
     }
    ]
   },
@@ -15812,6 +17237,96 @@
    ]
   },
   {
+   "slug": "zakon-1991-1596",
+   "path": "zakon/1991/1596",
+   "short": "Zakon o utvrđivanju ratne štete",
+   "title": "Zakon o utvrđivanju ratne štete",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1991/61/1596",
+   "versions": [
+    {
+     "from": "1991-11-19",
+     "units": 14,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1991_11_61_1596.html",
+     "sha256": "fb5fb52a5c0dd0e3f2ecb621deba43609a36b918b22b4d4569b42627793a7dbd"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-1991-1597",
+   "path": "zakon/1991/1597",
+   "short": "Zakon o Hrvatskom Crvenom križu",
+   "title": "Zakon o Hrvatskom Crvenom križu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1991/61/1597",
+   "versions": [
+    {
+     "from": "1991-11-27",
+     "units": 26,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1991_11_61_1597.html",
+     "sha256": "12dc369d1096ef84f1611f89debac91ab9825261ecf7cdcc6c4102ddcacfdcb0"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-1991-1598",
+   "path": "zakon/1991/1598",
+   "short": "Zakon o kazalištima",
+   "title": "Zakon o kazalištima",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1991/61/1598",
+   "versions": [
+    {
+     "from": "1991-11-27",
+     "units": 17,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1991_11_61_1598.html",
+     "sha256": "3165d3b6a2c4c55e637a460666833f7cb62af69be8536fbe9bf7ac2f350920b4"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-1991-1599",
+   "path": "zakon/1991/1599",
+   "short": "Zakon o \"Nagradi Ivan Filipović\"",
+   "title": "Zakon o \"Nagradi Ivan Filipović\"",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1991/61/1599",
+   "versions": [
+    {
+     "from": "1991-11-27",
+     "units": 14,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1991_11_61_1599.html",
+     "sha256": "cfcef17f587c2034d959bf98dbe1589feebefd59b2c5f666a8d41e6990e078e7"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-1991-1600",
+   "path": "zakon/1991/1600",
+   "short": "Zakon o članarinama u turističkim zajednicama",
+   "title": "Zakon o članarinama u turističkim zajednicama",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1991/61/1600",
+   "versions": [
+    {
+     "from": "1991-11-27",
+     "units": 11,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1991_11_61_1600.html",
+     "sha256": "0e93cced71a126a8719b65676e748db96b4dc68332492416a173f71ba938acac"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-1991-1601",
+   "path": "zakon/1991/1601",
+   "short": "Zakon o igrama na sreću i zabavnim igrama",
+   "title": "Zakon o igrama na sreću i zabavnim igrama",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1991/61/1601",
+   "versions": [
+    {
+     "from": "1991-11-27",
+     "units": 61,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1991_11_61_1601.html",
+     "sha256": "02dbca039121731bbfce5d7c660994d36f6bd8a49181dd454e989c85758ef415"
+    }
+   ]
+  },
+  {
    "slug": "zakon-1991-1602",
    "path": "zakon/1991/1602",
    "short": "Zakon o izmjeni Zakona o zabrani prijenosa prava raspolaganja i korištenja određenih nekretnina a društvenom vlasništvu na druge korisnike odnosno u vlasništvo fizičkih i pravnih osoba",
@@ -15823,6 +17338,21 @@
      "units": 4,
      "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1991_11_61_1602.html",
      "sha256": "4c3549c2bebc5512362df56ddc476db635e7a84e58e83ca5a9f0d9f6b46dce0d"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-1991-1603",
+   "path": "zakon/1991/1603",
+   "short": "Zakon o izmjenama zakona kojima su osnovana javna poduzeća",
+   "title": "Zakon o izmjenama zakona kojima su osnovana javna poduzeća",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1991/61/1603",
+   "versions": [
+    {
+     "from": "1991-11-19",
+     "units": 13,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1991_11_61_1603.html",
+     "sha256": "f106bbff64edaa85f0ea9c5998f30fc0cf4fc8f293edfaf552a3db72b76ea7d1"
     }
    ]
   },
@@ -15853,6 +17383,81 @@
      "units": 5,
      "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1991_11_61_1605.html",
      "sha256": "e0734aa202777e8a936bcb038b61446195cd8763c60e88bf1dba75a5fb39ae6a"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-1991-1606",
+   "path": "zakon/1991/1606",
+   "short": "Zakon o izmjeni i dopuni Zakona o porezu na promet",
+   "title": "Zakon o izmjeni i dopuni Zakona o porezu na promet",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1991/61/1606",
+   "versions": [
+    {
+     "from": "1991-11-19",
+     "units": 6,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1991_11_61_1606.html",
+     "sha256": "581f8b2cf60d8c85f04d4d4ea064c3773bef3ff2a02aa5d7f5a918591fcf8860"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-1991-1608",
+   "path": "zakon/1991/1608",
+   "short": "Zakon o izmjenama i dopunama Zakona o ustrojstvu republičke uprave",
+   "title": "Zakon o izmjenama i dopunama Zakona o ustrojstvu republičke uprave",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1991/61/1608",
+   "versions": [
+    {
+     "from": "1991-11-19",
+     "units": 14,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1991_11_61_1608.html",
+     "sha256": "cf76c958906c55cf6b6c79ef64e2ece662d736bab0e7c9a002280ee1d8cf5a0e"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-1991-1609",
+   "path": "zakon/1991/1609",
+   "short": "Zakon o izmjenama i dopunama Zakona o morskom ribarstvu",
+   "title": "Zakon o izmjenama i dopunama Zakona o morskom ribarstvu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1991/61/1609",
+   "versions": [
+    {
+     "from": "1991-11-27",
+     "units": 17,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1991_11_61_1609.html",
+     "sha256": "fa4b02ab87b53d91dc9a3537f8bd7beaae9b0c579337e95167774a3bdb31404d"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-1991-1685",
+   "path": "zakon/1991/1685",
+   "short": "Zakon o privremenom korištenju stanova",
+   "title": "Zakon o privremenom korištenju stanova",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1991/66/1685",
+   "versions": [
+    {
+     "from": "1991-12-09",
+     "units": 11,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1991_12_66_1685.html",
+     "sha256": "c4d49385c251ed7881ded09f8ca8102e97262428637f0d4fa57e3272c5c4863a"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-1991-1686",
+   "path": "zakon/1991/1686",
+   "short": "Zakon o Hrvatskoj gospodarskoj komori",
+   "title": "Zakon o Hrvatskoj gospodarskoj komori",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1991/66/1686",
+   "versions": [
+    {
+     "from": "1991-12-17",
+     "units": 16,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1991_12_66_1686.html",
+     "sha256": "148c680c88a3a2fb65a1a6e3ef62366912bbd962566b9f86c5e4e1d16d6ef7ac"
     }
    ]
   },
@@ -15913,6 +17518,36 @@
      "units": 3,
      "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1991_12_73_1878.html",
      "sha256": "7a1804d3c47358078ed0e523b53e132c7383e0fb452fab5cdfbe9c38a5e7141b"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-1991-1879",
+   "path": "zakon/1991/1879",
+   "short": "Zakon o pripadnosti javnih prihoda Republici Hrvatskoj i jedinicama lokalne samouprave i stopama republičkih poreza",
+   "title": "Zakon o pripadnosti javnih prihoda Republici Hrvatskoj i jedinicama lokalne samouprave i stopama republičkih poreza",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1991/73/1879",
+   "versions": [
+    {
+     "from": "1991-12-31",
+     "units": 34,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1991_12_73_1879.html",
+     "sha256": "86b3a4161b406e28256b3b42aee2e1c66e6ec1ab9c8f23e7e2b70434e676f8f3"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-1991-188",
+   "path": "zakon/1991/188",
+   "short": "Zakon o dopuni Zakona o Vladi Republike Hrvatske",
+   "title": "Zakon o dopuni Zakona o Vladi Republike Hrvatske",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1991/8/188",
+   "versions": [
+    {
+     "from": "1991-02-21",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1991_02_8_188.html",
+     "sha256": "1c8f77adace1e0bcd53f6d04f13f2a80bb497260aa9f1983c7ef621911457366"
     }
    ]
   },
@@ -15992,6 +17627,21 @@
    ]
   },
   {
+   "slug": "zakon-1991-1885",
+   "path": "zakon/1991/1885",
+   "short": "Zakon o izmjenama i dopunama Zakona o porezu na promet proizvoda i usluga",
+   "title": "Zakon o izmjenama i dopunama Zakona o porezu na promet proizvoda i usluga",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1991/73/1885",
+   "versions": [
+    {
+     "from": "1991-12-31",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1991_12_73_1885.html",
+     "sha256": "877df97a1f54acd57eb3ce10d62122d491cb70eff38d53f79ad1811994fd5806"
+    }
+   ]
+  },
+  {
    "slug": "zakon-1991-1886",
    "path": "zakon/1991/1886",
    "short": "Zakon o izmjenama i dopunama Zakona o neposrednim porezima",
@@ -16003,6 +17653,21 @@
      "units": 37,
      "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1991_12_73_1886.html",
      "sha256": "9746fa8b798da014b7208290ccc4ec3e8d898c420b57834928d6458edca8eb3f"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-1991-1887",
+   "path": "zakon/1991/1887",
+   "short": "Zakon o izmjenama i dopunama Zakona o ustrojstvu republičke uprave",
+   "title": "Zakon o izmjenama i dopunama Zakona o ustrojstvu republičke uprave",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1991/73/1887",
+   "versions": [
+    {
+     "from": "1991-12-31",
+     "units": 15,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1991_12_73_1887.html",
+     "sha256": "1192edcceed10ccd1bd773ed66b1b6b353c29e39bb392462e31ad24b3817d2e3"
     }
    ]
   },
@@ -16052,6 +17717,21 @@
    ]
   },
   {
+   "slug": "zakon-1991-1891",
+   "path": "zakon/1991/1891",
+   "short": "Zakon o dopunama Zakona o preuzimanju saveznih zakona iz područja trgovine, tržišta i cijena koji se u Republici Hrvatskoj primjenjuju kao republički zakoni",
+   "title": "Zakon o dopunama Zakona o preuzimanju saveznih zakona iz područja trgovine, tržišta i cijena koji se u Republici Hrvatskoj primjenjuju kao republički zakoni",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1991/73/1891",
+   "versions": [
+    {
+     "from": "1991-12-31",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1991_12_73_1891.html",
+     "sha256": "8ce3f41dac439ccc70b7a0781074b7f82cd5fccbbb9d89478c92332632c0bdc7"
+    }
+   ]
+  },
+  {
    "slug": "zakon-1991-1892",
    "path": "zakon/1991/1892",
    "short": "Zakon o izmjeni Zakona o prestanku važenja Zakona o izdvajanju i raspoređivanju sredstava za zadovoljavanje stambenih potreba",
@@ -16097,6 +17777,96 @@
    ]
   },
   {
+   "slug": "zakon-1991-1895",
+   "path": "zakon/1991/1895",
+   "short": "Zakon o izmjenama i dopunama Zakona o unutarnjim poslovima",
+   "title": "Zakon o izmjenama i dopunama Zakona o unutarnjim poslovima",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1991/73/1895",
+   "versions": [
+    {
+     "from": "1991-12-31",
+     "units": 22,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1991_12_73_1895.html",
+     "sha256": "d712824082097a705c133ee04dc627cc6636523e40d70b07425b03e45e77e053"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-1991-1896",
+   "path": "zakon/1991/1896",
+   "short": "Zakon o izmjeni Zakona o obrani",
+   "title": "Zakon o izmjeni Zakona o obrani",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1991/73/1896",
+   "versions": [
+    {
+     "from": "1991-12-31",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1991_12_73_1896.html",
+     "sha256": "3ddbeb08c883d8a0441aa2709ce8a4caa58736b539a9549597003fe1909f7e10"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-1991-205",
+   "path": "zakon/1991/205",
+   "short": "Zakon o osnivanju Javnog poduzeća \"Astra\" Međunarodna trgovina",
+   "title": "Zakon o osnivanju Javnog poduzeća \"Astra\" Međunarodna trgovina",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1991/9/205",
+   "versions": [
+    {
+     "from": "1991-03-01",
+     "units": 17,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1991_02_9_205.html",
+     "sha256": "07254f515d38dca37a562933936a43e28c1c1bede4f24c7d7305949aa5b14b7b"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-1991-206",
+   "path": "zakon/1991/206",
+   "short": "Zakon o \"Fundaciji Ivana Meštrovića\"",
+   "title": "Zakon o \"Fundaciji Ivana Meštrovića\"",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1991/9/206",
+   "versions": [
+    {
+     "from": "1991-03-08",
+     "units": 9,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1991_02_9_206.html",
+     "sha256": "180f376192e433b7eebf5a886e18d07be38313f15f8d08b5b17375cac71f149c"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-1991-207",
+   "path": "zakon/1991/207",
+   "short": "Zakon o plaćanju doplatnih poštanskih maraka u poštanskom prometu na teritoriju Republike Hrvatske",
+   "title": "Zakon o plaćanju doplatnih poštanskih maraka u poštanskom prometu na teritoriju Republike Hrvatske",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1991/9/207",
+   "versions": [
+    {
+     "from": "1991-03-01",
+     "units": 6,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1991_02_9_207.html",
+     "sha256": "66396bff8c8e3e8115391a5e8f2904b32feb98b88b2080563e94409686d43fa7"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-1991-208",
+   "path": "zakon/1991/208",
+   "short": "Zakon o prestanku važenja Zakona o izdvajanju i raspoređivanju sredstava za zadovoljavanje stambenih potreba",
+   "title": "Zakon o prestanku važenja Zakona o izdvajanju i raspoređivanju sredstava za zadovoljavanje stambenih potreba",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1991/9/208",
+   "versions": [
+    {
+     "from": "1991-03-08",
+     "units": 8,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1991_02_9_208.html",
+     "sha256": "7586e70be507d52d72fc83730a4db8accdcfad1a51a5204f0ce652e36ddfbd58"
+    }
+   ]
+  },
+  {
    "slug": "zakon-1991-209",
    "path": "zakon/1991/209",
    "short": "Zakon o izmjenama Zakona o sudskim taksama",
@@ -16108,6 +17878,21 @@
      "units": 3,
      "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1991_02_9_209.html",
      "sha256": "0b7441b92954a38075e02a63a21c5a3f7bfe0afb530b2f802bc849ab477ab069"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-1991-210",
+   "path": "zakon/1991/210",
+   "short": "Zakon o izmjenama i dopunama Krivičnog zakona Socijalističke Republike Hrvatske",
+   "title": "Zakon o izmjenama i dopunama Krivičnog zakona Socijalističke Republike Hrvatske",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1991/9/210",
+   "versions": [
+    {
+     "from": "1991-03-08",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1991_02_9_210.html",
+     "sha256": "87ad291445a2bd9182c2a6164916240ac90829b68a1f7f05218258b330fa930d"
     }
    ]
   },
@@ -16142,6 +17927,51 @@
    ]
   },
   {
+   "slug": "zakon-1991-213",
+   "path": "zakon/1991/213",
+   "short": "Zakon o izmjenama i dopunama Zakona o morskom ribarstvu",
+   "title": "Zakon o izmjenama i dopunama Zakona o morskom ribarstvu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1991/9/213",
+   "versions": [
+    {
+     "from": "1991-03-08",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1991_02_9_213.html",
+     "sha256": "9f28e4da7af48bf8e1ddad2953de53433bf8185a3617b8a5e528ed86560d272b"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-1991-214",
+   "path": "zakon/1991/214",
+   "short": "Zakon o izmjenama i dopunama Zakona o sigurnosti prometa na cestama",
+   "title": "Zakon o izmjenama i dopunama Zakona o sigurnosti prometa na cestama",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1991/9/214",
+   "versions": [
+    {
+     "from": "1991-03-08",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1991_02_9_214.html",
+     "sha256": "ea611edadf7a6d488e5cbf24a71b8e6811fd66bd7b42425b4614d84241ae6e44"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-1991-215",
+   "path": "zakon/1991/215",
+   "short": "Zakon o izmjenama i dopunama Zakona o inspekciji rada",
+   "title": "Zakon o izmjenama i dopunama Zakona o inspekciji rada",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1991/9/215",
+   "versions": [
+    {
+     "from": "1991-03-08",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1991_02_9_215.html",
+     "sha256": "3e125f9b6e8ffdb2638c7a992e37428c54db48130723139feb56db8efd649326"
+    }
+   ]
+  },
+  {
    "slug": "zakon-1991-216",
    "path": "zakon/1991/216",
    "short": "Zakon o izmjeni i dopuni Zakona o društvenoj brizi o djeci predškolskog uzrasta",
@@ -16153,6 +17983,21 @@
      "units": 3,
      "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1991_02_9_216.html",
      "sha256": "22e464f1e1d95805d0776e7daa90b42d40ad7d7d020064b2634ab36171bf7d40"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-1991-217",
+   "path": "zakon/1991/217",
+   "short": "Zakon o izmjeni i dopuni Zakona o znanstvenoistraživačkoj djelatnosti",
+   "title": "Zakon o izmjeni i dopuni Zakona o znanstvenoistraživačkoj djelatnosti",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1991/9/217",
+   "versions": [
+    {
+     "from": "1991-03-08",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1991_02_9_217.html",
+     "sha256": "542b09f78b9054c81f1440250cf1e4abdea1b7a4cd21add87a321daa78e52ef4"
     }
    ]
   },
@@ -16172,6 +18017,66 @@
    ]
   },
   {
+   "slug": "zakon-1991-219",
+   "path": "zakon/1991/219",
+   "short": "Zakon o dopunama Zakona o poljoprivrednom zemljištu",
+   "title": "Zakon o dopunama Zakona o poljoprivrednom zemljištu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1991/9/219",
+   "versions": [
+    {
+     "from": "1991-03-08",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1991_02_9_219.html",
+     "sha256": "bf6f63961d173b7f427739d5f80c23da62019866e21d1240dd3fb1cdd9f7e6e7"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-1991-220",
+   "path": "zakon/1991/220",
+   "short": "Zakon o izmjenama i dopuni Zakona o šumama",
+   "title": "Zakon o izmjenama i dopuni Zakona o šumama",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1991/9/220",
+   "versions": [
+    {
+     "from": "1991-03-08",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1991_02_9_220.html",
+     "sha256": "58b1a827ea924df24e76f927fd316c300cd047bce472ade3b559fc6732abad6b"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-1991-221",
+   "path": "zakon/1991/221",
+   "short": "Zakon o dopuni Zakona o stopama neposrednih poreza i pripadnosti poreza, taksa i drugih prihoda društveno-političkim zajednicama u 1991. godini",
+   "title": "Zakon o dopuni Zakona o stopama neposrednih poreza i pripadnosti poreza, taksa i drugih prihoda društveno-političkim zajednicama u 1991. godini",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1991/9/221",
+   "versions": [
+    {
+     "from": "1991-02-28",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1991_02_9_221.html",
+     "sha256": "afa14e7039c61e5a1a0af4255c9198e757e0d973bd4ca347a6fe91b80a79f6d3"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-1991-383",
+   "path": "zakon/1991/383",
+   "short": "Zakon o blagdanima i neradnim danima u Republici Hrvatskoj",
+   "title": "Zakon o blagdanima i neradnim danima u Republici Hrvatskoj",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1991/14/383",
+   "versions": [
+    {
+     "from": "1991-03-25",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1991_03_14_383.html",
+     "sha256": "5831d6334a11b2458785633d0324e799ae36bcb5253d4c1a980f5c832bfbf287"
+    }
+   ]
+  },
+  {
    "slug": "zakon-1991-384",
    "path": "zakon/1991/384",
    "short": "Zakon o izmjenama Zakona o formiranju i korištenju sredstava solidarnosti za poticanje zapošljavanja",
@@ -16183,6 +18088,21 @@
      "units": 3,
      "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1991_03_14_384.html",
      "sha256": "06ba05705794aea41c3bbea9ae5f21e5527db66c4664217029b404f62de31189"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-1991-386",
+   "path": "zakon/1991/386",
+   "short": "Zakon o dopunama Zakona o Vladi Republike Hrvatske",
+   "title": "Zakon o dopunama Zakona o Vladi Republike Hrvatske",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1991/14/386",
+   "versions": [
+    {
+     "from": "1991-03-25",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1991_03_14_386.html",
+     "sha256": "8040e7abb39e07463c3f0afe2091e04a3e8ff1f0a829ef09e5ae76bbede6512e"
     }
    ]
   },
@@ -16232,6 +18152,36 @@
    ]
   },
   {
+   "slug": "zakon-1991-390",
+   "path": "zakon/1991/390",
+   "short": "Zakon o izmjeni i dopuni Zakona o redovnim sudovima",
+   "title": "Zakon o izmjeni i dopuni Zakona o redovnim sudovima",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1991/14/390",
+   "versions": [
+    {
+     "from": "1991-04-02",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1991_03_14_390.html",
+     "sha256": "d62a33f192dd308adf7392ff4a25bd70caeb1095c61fe673d365286255eea838"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-1991-590",
+   "path": "zakon/1991/590",
+   "short": "Zakon o pretvorbi društvenih poduzeća",
+   "title": "Zakon o pretvorbi društvenih poduzeća",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1991/19/590",
+   "versions": [
+    {
+     "from": "1991-05-01",
+     "units": 50,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1991_04_19_590.html",
+     "sha256": "3aaf1c7aacba2efa83d8aa09ba8e06cfc89407ceca54836bcf25e26f881f48f9"
+    }
+   ]
+  },
+  {
    "slug": "zakon-1991-591",
    "path": "zakon/1991/591",
    "short": "Zakon o izmjenama i dopunama Zakona o Agenciji Republike Hrvatske za restrukturiranje i razvoj",
@@ -16262,6 +18212,21 @@
    ]
   },
   {
+   "slug": "zakon-1991-593",
+   "path": "zakon/1991/593",
+   "short": "Zakon o dopuni Zakona o stopama neposrednih poreza i pripadnosti poreza, taksa i drugih prihoda društveno-političkim zajednicama u 1991. godini",
+   "title": "Zakon o dopuni Zakona o stopama neposrednih poreza i pripadnosti poreza, taksa i drugih prihoda društveno-političkim zajednicama u 1991. godini",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1991/19/593",
+   "versions": [
+    {
+     "from": "1991-05-01",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1991_04_19_593.html",
+     "sha256": "cabf7962167223b20fc0e671a1288ad2dbaf17c065c9dc87811da3b5d9cd8957"
+    }
+   ]
+  },
+  {
    "slug": "zakon-1991-594",
    "path": "zakon/1991/594",
    "short": "Zakon o izmjeni Zakona o plaćanju doprinosa za doplatak za djecu u 1991. godini",
@@ -16273,6 +18238,36 @@
      "units": 4,
      "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1991_04_19_594.html",
      "sha256": "ecd7090d9722afaafc6959e6e1007c945b60c53365bf88a01d1d642a7df4d708"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-1991-595",
+   "path": "zakon/1991/595",
+   "short": "Zakon o izmjeni Zakona o plaćanju doprinosa za mirovinsko i invalidsko osiguranje radnika u 1991. godini",
+   "title": "Zakon o izmjeni Zakona o plaćanju doprinosa za mirovinsko i invalidsko osiguranje radnika u 1991. godini",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1991/19/595",
+   "versions": [
+    {
+     "from": "1991-04-23",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1991_04_19_595.html",
+     "sha256": "993ebf491aa2978018e35da561be99fc130ec92d83d3028ebbbaaa5138a718f5"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-1991-596",
+   "path": "zakon/1991/596",
+   "short": "Zakon o izmjeni Zakona o zdravstvenoj zaštiti i zdravstvenom osiguranju",
+   "title": "Zakon o izmjeni Zakona o zdravstvenoj zaštiti i zdravstvenom osiguranju",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1991/19/596",
+   "versions": [
+    {
+     "from": "1991-04-23",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1991_04_19_596.html",
+     "sha256": "309be01653a66dbfcaaa18237980dab4fd40217173444de5ce899b06294b2ac9"
     }
    ]
   },
@@ -16292,6 +18287,36 @@
    ]
   },
   {
+   "slug": "zakon-1991-598",
+   "path": "zakon/1991/598",
+   "short": "Zakon o izmjenama i dopunama Zakona o unutarnjim poslovima",
+   "title": "Zakon o izmjenama i dopunama Zakona o unutarnjim poslovima",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1991/19/598",
+   "versions": [
+    {
+     "from": "1991-04-23",
+     "units": 46,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1991_04_19_598.html",
+     "sha256": "04680b21555671b782fde79c7ba41fa337db0fcfcb51e412f4e2a47c06f4af81"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-1991-599",
+   "path": "zakon/1991/599",
+   "short": "Zakon o izmjenama i dopunama Zakona o zapošljavanju",
+   "title": "Zakon o izmjenama i dopunama Zakona o zapošljavanju",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1991/19/599",
+   "versions": [
+    {
+     "from": "1991-04-23",
+     "units": 28,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1991_04_19_599.html",
+     "sha256": "3286f25331fc0ebb047c4b137a02f6e06ece8cd8d3e3b08da4ba7ea97bb175ef"
+    }
+   ]
+  },
+  {
    "slug": "zakon-1991-600",
    "path": "zakon/1991/600",
    "short": "Zakon o izmjenama i dopunama Zakona o socijalnoj zaštiti",
@@ -16303,6 +18328,126 @@
      "units": 15,
      "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1991_04_19_600.html",
      "sha256": "cc40f2a24c9b4a59e9ea0054fd4290de71802383417e8d29afcb55a5dc6555f7"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-1991-601",
+   "path": "zakon/1991/601",
+   "short": "Zakon o izmjenama i dopunama Zakona o zaštiti spomenika kulture",
+   "title": "Zakon o izmjenama i dopunama Zakona o zaštiti spomenika kulture",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1991/19/601",
+   "versions": [
+    {
+     "from": "1991-05-01",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1991_04_19_601.html",
+     "sha256": "46732c69f05de91c1b56c972e0c334beeecf43b625011b788e337ab85fbce024"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-1991-747",
+   "path": "zakon/1991/747",
+   "short": "Zakon o prodaji stanova na kojima postoji stanarsko pravo",
+   "title": "Zakon o prodaji stanova na kojima postoji stanarsko pravo",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1991/27/747",
+   "versions": [
+    {
+     "from": "1991-06-19",
+     "units": 37,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1991_06_27_747.html",
+     "sha256": "4e58fecb40df75591f69ee0d6d314e68e7d621fb4150a2de37bccdb0b1c39c27"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-1991-748",
+   "path": "zakon/1991/748",
+   "short": "Zakon o turističkim zajednicama i promicanju hrvatskog turizma",
+   "title": "Zakon o turističkim zajednicama i promicanju hrvatskog turizma",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1991/27/748",
+   "versions": [
+    {
+     "from": "1991-06-19",
+     "units": 57,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1991_06_27_748.html",
+     "sha256": "687a604c52059f01674fb4626db8bdf90ba7b7e6dfa5314257a8f99566a5e98c"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-1991-749",
+   "path": "zakon/1991/749",
+   "short": "Zakon o boravišnoj pristojbi",
+   "title": "Zakon o boravišnoj pristojbi",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1991/27/749",
+   "versions": [
+    {
+     "from": "1991-06-19",
+     "units": 11,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1991_06_27_749.html",
+     "sha256": "cb9e760d52d6e6390866f7effe74a8b995550473c8e5319dd35c59c85d2ddd49"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-1991-750",
+   "path": "zakon/1991/750",
+   "short": "Zakon o sanaciji i restrukturiranju banaka",
+   "title": "Zakon o sanaciji i restrukturiranju banaka",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1991/27/750",
+   "versions": [
+    {
+     "from": "1991-06-11",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1991_06_27_750.html",
+     "sha256": "199b1d936078388ee74226c7b0e3da5d27d5fa21cfe8d96375ab56cff0c84d67"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-1991-751",
+   "path": "zakon/1991/751",
+   "short": "Zakon o izdavanju obveznica za restrukturiranje gospodarstva u Republici Hrvatskoj",
+   "title": "Zakon o izdavanju obveznica za restrukturiranje gospodarstva u Republici Hrvatskoj",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1991/27/751",
+   "versions": [
+    {
+     "from": "1991-06-11",
+     "units": 10,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1991_06_27_751.html",
+     "sha256": "0b57915ec8fb50e6bb557251d2811c1a0e486bc51bfb807d3c92e47e0c3d4cdf"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-1991-752",
+   "path": "zakon/1991/752",
+   "short": "Zakon o rudarstvu",
+   "title": "Zakon o rudarstvu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1991/27/752",
+   "versions": [
+    {
+     "from": "1991-06-19",
+     "units": 11,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1991_06_27_752.html",
+     "sha256": "c5ea51b912f3e3b84a3b04709b5c63846a184480bb4a526d991420b9de833316"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-1991-753",
+   "path": "zakon/1991/753",
+   "short": "Zakon o premijama za određene proizvode u poljoprivredi i regresu dijela kamata za prioritetne namjene u poljoprivredi",
+   "title": "Zakon o premijama za određene proizvode u poljoprivredi i regresu dijela kamata za prioritetne namjene u poljoprivredi",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1991/27/753",
+   "versions": [
+    {
+     "from": "1991-06-19",
+     "units": 23,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1991_06_27_753.html",
+     "sha256": "88bdf3acdc44055d63496e2671b31accc36e8467047ea70ce858aab7c3f77bc3"
     }
    ]
   },
@@ -16333,6 +18478,36 @@
      "units": 16,
      "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1991_06_27_755.html",
      "sha256": "55400dd1b6927cea266c25987ecb363575fb39407e2b0a8f3d555b887890dd35"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-1991-756",
+   "path": "zakon/1991/756",
+   "short": "Zakon o Hrvatskom povijesnom muzeju",
+   "title": "Zakon o Hrvatskom povijesnom muzeju",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1991/27/756",
+   "versions": [
+    {
+     "from": "1991-06-19",
+     "units": 14,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1991_06_27_756.html",
+     "sha256": "5e53860f14d163ec69e0c5924fafea2f75baa54f6887ed6969830ac09315093e"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-1991-757",
+   "path": "zakon/1991/757",
+   "short": "Zakon o \"Nagradi Vladimir Nazor\"",
+   "title": "Zakon o \"Nagradi Vladimir Nazor\"",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1991/27/757",
+   "versions": [
+    {
+     "from": "1991-06-19",
+     "units": 13,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1991_06_27_757.html",
+     "sha256": "433508b178ded7eec7ccc0b99d5b685c55acac3591d7b1fc083ae7ef446f60dc"
     }
    ]
   },
@@ -16382,6 +18557,36 @@
    ]
   },
   {
+   "slug": "zakon-1991-945",
+   "path": "zakon/1991/945",
+   "short": "Zakon o poljoprivrednom zemljištu",
+   "title": "Zakon o poljoprivrednom zemljištu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1991/34/945",
+   "versions": [
+    {
+     "from": "1991-07-24",
+     "units": 21,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1991_07_34_945.html",
+     "sha256": "7377300297f1256f78ad1e087cf21277934fcd77bb699ea7c2fdcd5afdc0865e"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-1991-946",
+   "path": "zakon/1991/946",
+   "short": "Zakon o Hrvatskoj akademiji znanosti i umjetnosti",
+   "title": "Zakon o Hrvatskoj akademiji znanosti i umjetnosti",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1991/34/946",
+   "versions": [
+    {
+     "from": "1991-07-24",
+     "units": 34,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1991_07_34_946.html",
+     "sha256": "2304a94bef6491e35f8ca6f89bc074d1bb466bc822d0336f350ad955889a3c92"
+    }
+   ]
+  },
+  {
    "slug": "zakon-1991-947",
    "path": "zakon/1991/947",
    "short": "Zakon o prestanku važenja Zakona o \"Nagradi dr. Marija Schlesinger\"",
@@ -16412,6 +18617,36 @@
    ]
   },
   {
+   "slug": "zakon-1991-949",
+   "path": "zakon/1991/949",
+   "short": "Zakon o pravima bivših političkih zatvorenika",
+   "title": "Zakon o pravima bivših političkih zatvorenika",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1991/34/949",
+   "versions": [
+    {
+     "from": "1991-07-24",
+     "units": 16,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1991_07_34_949.html",
+     "sha256": "38cd002285f56e33d186b763368f5bae1418336257cd740a8eb9654b42230a83"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-1991-950",
+   "path": "zakon/1991/950",
+   "short": "Zakon o izmjenama i dopunama Zakona o javnim cestama",
+   "title": "Zakon o izmjenama i dopunama Zakona o javnim cestama",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1991/34/950",
+   "versions": [
+    {
+     "from": "1991-07-24",
+     "units": 31,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1991_07_34_950.html",
+     "sha256": "88b716f072abe12d37e0c24f254ef4a197d12751a0cfee757912c812ddc993c6"
+    }
+   ]
+  },
+  {
    "slug": "zakon-1991-951",
    "path": "zakon/1991/951",
    "short": "Zakon o izmjenama Zakona o prostornom planiranju i uređivanju prostora",
@@ -16427,6 +18662,36 @@
    ]
   },
   {
+   "slug": "zakon-1991-952",
+   "path": "zakon/1991/952",
+   "short": "Zakon o izmjenama i dopunama Zakona o izgradnji objekata",
+   "title": "Zakon o izmjenama i dopunama Zakona o izgradnji objekata",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1991/34/952",
+   "versions": [
+    {
+     "from": "1991-07-24",
+     "units": 18,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1991_07_34_952.html",
+     "sha256": "ad1db9b5ed7d943a05943553ffbdad68bfa5946492aa3a815148ba2ffc774b56"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-1991-953",
+   "path": "zakon/1991/953",
+   "short": "Zakon o preuzimanju saveznih zakona iz oblasti radnih odnosa i zapošljavanja koji se u Republici Hrvatskoj primjenjuju kao republički zakoni",
+   "title": "Zakon o preuzimanju saveznih zakona iz oblasti radnih odnosa i zapošljavanja koji se u Republici Hrvatskoj primjenjuju kao republički zakoni",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1991/34/953",
+   "versions": [
+    {
+     "from": "1991-07-16",
+     "units": 6,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1991_07_34_953.html",
+     "sha256": "3ccb50c9655186edd3c97733d08698a1c4276b11b4311d517fe948dcdb9d2a5b"
+    }
+   ]
+  },
+  {
    "slug": "zakon-1991-954",
    "path": "zakon/1991/954",
    "short": "Zakon o stavljanju izvan snage Zakona o osnovama sistema javnog informiranja",
@@ -16438,6 +18703,36 @@
      "units": 4,
      "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1991_07_34_954.html",
      "sha256": "7a1efb99a37452883653c1eb40879ed1f233cf1a925a217885f3b4e7fba587c0"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-1991-972",
+   "path": "zakon/1991/972",
+   "short": "Zakon o izmjenama i dopunama Zakona o Hrvatskoj radio-televiziji",
+   "title": "Zakon o izmjenama i dopunama Zakona o Hrvatskoj radio-televiziji",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1991/35/972",
+   "versions": [
+    {
+     "from": "1991-07-18",
+     "units": 25,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1991_07_35_972.html",
+     "sha256": "0cf4069d6b2045ef8783070b95cee88d7a744980ad7d31cc9ee302b35f30d999"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-1991-993",
+   "path": "zakon/1991/993",
+   "short": "Zakon o porezu na promet proizvoda i usluga",
+   "title": "Zakon o porezu na promet proizvoda i usluga",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1991/36/993",
+   "versions": [
+    {
+     "from": "1991-07-24",
+     "units": 75,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1991_07_36_993.html",
+     "sha256": "a148359ac7fb1e749a94941c59841f7b445e07eca2408da42cd29e156e35657a"
     }
    ]
   },
@@ -30842,6 +33137,81 @@
    ]
   },
   {
+   "slug": "zakon-1992-144",
+   "path": "zakon/1992/144",
+   "short": "Zakon o nadzoru državne granice",
+   "title": "Zakon o nadzoru državne granice",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1992/9/144",
+   "versions": [
+    {
+     "from": "1992-02-29",
+     "units": 52,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1992_02_9_144.html",
+     "sha256": "b6e256f579b4f9e3fac1f5ba39c1cf7bf6fc506a04daf082bd163c38bb0d2164"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-1992-145",
+   "path": "zakon/1992/145",
+   "short": "Zakon o matičnom broju",
+   "title": "Zakon o matičnom broju",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1992/9/145",
+   "versions": [
+    {
+     "from": "1992-02-21",
+     "units": 17,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1992_02_9_145.html",
+     "sha256": "bd4c73c61891b2bc9356d9ea71790ef6b9556992e82087289b5d29621def54de"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-1992-1451",
+   "path": "zakon/1992/1451",
+   "short": "Zakon o ustrojstvu i djelokrugu ministarstva i drugih organa državne uprave",
+   "title": "Zakon o ustrojstvu i djelokrugu ministarstva i drugih organa državne uprave",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1992/55/1451",
+   "versions": [
+    {
+     "from": "1992-09-11",
+     "units": 41,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1992_09_55_1451.html",
+     "sha256": "5b254798ca596c65b9316f39f915112266fed4059b940d2a314b450a02ca396d"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-1992-1452",
+   "path": "zakon/1992/1452",
+   "short": "Zakon o izmjenama i dopunama Zakona o Vladi Republike Hrvatske",
+   "title": "Zakon o izmjenama i dopunama Zakona o Vladi Republike Hrvatske",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1992/55/1452",
+   "versions": [
+    {
+     "from": "1992-09-11",
+     "units": 9,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1992_09_55_1452.html",
+     "sha256": "69902774eb88ba607e4e3b5a4c30e8ab402007e3302c8d52a7a4688136bdd522"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-1992-1453",
+   "path": "zakon/1992/1453",
+   "short": "Zakon o dopuni Zakona o obrani",
+   "title": "Zakon o dopuni Zakona o obrani",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1992/55/1453",
+   "versions": [
+    {
+     "from": "1992-09-11",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1992_09_55_1453.html",
+     "sha256": "cc8ae13e45b058a73fa950b9dd6e502153647f861ae4207bfb624e4723c9a33c"
+    }
+   ]
+  },
+  {
    "slug": "zakon-1992-146",
    "path": "zakon/1992/146",
    "short": "Zakon o izmjeni i dopuni Zakona o osobnoj iskaznici",
@@ -30857,6 +33227,66 @@
    ]
   },
   {
+   "slug": "zakon-1992-147",
+   "path": "zakon/1992/147",
+   "short": "Zakon o izmjeni Zakona o Vladi Republike Hrvatske",
+   "title": "Zakon o izmjeni Zakona o Vladi Republike Hrvatske",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1992/9/147",
+   "versions": [
+    {
+     "from": "1992-02-29",
+     "units": 6,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1992_02_9_147.html",
+     "sha256": "2d580058a21d6a22867778043e267b2507c4f77b2429978446bdc3945dd88924"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-1992-149",
+   "path": "zakon/1992/149",
+   "short": "Zakon o izmjeni Zakona o područjima općina u Republici Hrvatskoj",
+   "title": "Zakon o izmjeni Zakona o područjima općina u Republici Hrvatskoj",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1992/9/149",
+   "versions": [
+    {
+     "from": "1992-02-21",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1992_02_9_149.html",
+     "sha256": "a28ce321bb28876324d5bfb887f4b0ace3fc7da472e5ef48dfef86b1ed24b86d"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-1992-1563",
+   "path": "zakon/1992/1563",
+   "short": "Zakon o oprostu od krivičnog progona i postupka za krivična djela počinjena u oružanim sukobima i u ratu protiv Republike Hrvatske",
+   "title": "Zakon o oprostu od krivičnog progona i postupka za krivična djela počinjena u oružanim sukobima i u ratu protiv Republike Hrvatske",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1992/57/1563",
+   "versions": [
+    {
+     "from": "1992-09-22",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1992_09_57_1563.html",
+     "sha256": "7185c12d5cdc4bf97d0076f7a8fd309a3dcf2b65164dc107774afd2002598971"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-1992-1564",
+   "path": "zakon/1992/1564",
+   "short": "Zakon o oprostu od krivičnog progona i postupka za krivična djela počinjena u oružanim sukobima i u ratu protiv Republike Hrvatske",
+   "title": "Zakon o oprostu od krivičnog progona i postupka za krivična djela počinjena u oružanim sukobima i u ratu protiv Republike Hrvatske",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1992/58/1564",
+   "versions": [
+    {
+     "from": "1992-09-25",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1992_09_58_1564.html",
+     "sha256": "f4e6849f655ad8c3a50c5adf9e88d30a8109dcbfd71307d41da16e1ac262f9e8"
+    }
+   ]
+  },
+  {
    "slug": "zakon-1992-1579",
    "path": "zakon/1992/1579",
    "short": "Zakon o stavljanju izvan snage Zakona o osnivanju Javnog poduzeća \"Astra\" - Međunarodna trgovina",
@@ -30868,6 +33298,66 @@
      "units": 4,
      "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1992_10_60_1579.html",
      "sha256": "5b702b90e117aa759d469949582de0af5b4923992a5ca8778cad94377a37e8ef"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-1992-1580",
+   "path": "zakon/1992/1580",
+   "short": "Zakon o utvrđivanju plaće i drugih primanja dužnosnika",
+   "title": "Zakon o utvrđivanju plaće i drugih primanja dužnosnika",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1992/60/1580",
+   "versions": [
+    {
+     "from": "1992-10-09",
+     "units": 12,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1992_10_60_1580.html",
+     "sha256": "e8b10f9444f8fa8c7b6f802cd5e5139abcb1e3b5979de36467a7ac260eb57d50"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-1992-1581",
+   "path": "zakon/1992/1581",
+   "short": "Zakon o pučkom pravobranitelju",
+   "title": "Zakon o pučkom pravobranitelju",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1992/60/1581",
+   "versions": [
+    {
+     "from": "1992-10-09",
+     "units": 23,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1992_10_60_1581.html",
+     "sha256": "72faadf5b3325a92cdd23945aca8e41ce2cc1913db605f32a61fe91efbf485ee"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-1992-1583",
+   "path": "zakon/1992/1583",
+   "short": "Zakon o zdravstvenoj ispravnosti i zdravstvenom nadzoru nad namirnicama i predmetima opće uporabe",
+   "title": "Zakon o zdravstvenoj ispravnosti i zdravstvenom nadzoru nad namirnicama i predmetima opće uporabe",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1992/60/1583",
+   "versions": [
+    {
+     "from": "1992-10-09",
+     "units": 55,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1992_10_60_1583.html",
+     "sha256": "80777e9b82baf92d1387c2bc5ffd801ea018a1ad4379fb8717fe7a650b0b2e10"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-1992-1584",
+   "path": "zakon/1992/1584",
+   "short": "Zakon o športu",
+   "title": "Zakon o športu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1992/60/1584",
+   "versions": [
+    {
+     "from": "1992-10-09",
+     "units": 92,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1992_10_60_1584.html",
+     "sha256": "eca3183ef383a9a8c3bca0e880ee6a89fbf2cd3ec63dedbb684f1ab961de63e8"
     }
    ]
   },
@@ -30902,6 +33392,141 @@
    ]
   },
   {
+   "slug": "zakon-1992-1824",
+   "path": "zakon/1992/1824",
+   "short": "Zakon o izmjenama i dopunama Zakona o prodaji stanova na kojima postoji stanarsko pravo",
+   "title": "Zakon o izmjenama i dopunama Zakona o prodaji stanova na kojima postoji stanarsko pravo",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1992/69/1824",
+   "versions": [
+    {
+     "from": "1992-10-30",
+     "units": 9,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1992_10_69_1824.html",
+     "sha256": "65f126fc14f55a6d57f38c0b9afbddb481bda7251d3d6d6492c20f17f0a67261"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-1992-1965",
+   "path": "zakon/1992/1965",
+   "short": "Zakon o ovlasti Vlade Republike Hrvatske da donosi uredbe kojima se uređuju pojedina pitanja iz djelokruga Sabora Republike Hrvatske",
+   "title": "Zakon o ovlasti Vlade Republike Hrvatske da donosi uredbe kojima se uređuju pojedina pitanja iz djelokruga Sabora Republike Hrvatske",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1992/74/1965",
+   "versions": [
+    {
+     "from": "1992-11-04",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1992_11_74_1965.html",
+     "sha256": "98954d7cd6b219da652f726c1392c7ea5d7f9e63b08a06690268e6bc720aee1a"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-1992-1966",
+   "path": "zakon/1992/1966",
+   "short": "Zakon o Narodnoj banci Hrvatske",
+   "title": "Zakon o Narodnoj banci Hrvatske",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1992/74/1966",
+   "versions": [
+    {
+     "from": "1992-11-04",
+     "units": 31,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1992_11_74_1966.html",
+     "sha256": "fb38eea5e8074e9d5edd9c7837a4f740d149e7fc7efbb8c1fd83042cc5643235"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-1992-1990",
+   "path": "zakon/1992/1990",
+   "short": "Zakon o izmjenama i dopunama zakona o pravima zastupnika u Saboru Republike Hrvatske",
+   "title": "Zakon o izmjenama i dopunama zakona o pravima zastupnika u Saboru Republike Hrvatske",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1992/75/1990",
+   "versions": [
+    {
+     "from": "1992-11-13",
+     "units": 12,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1992_11_75_1990.html",
+     "sha256": "9790c83df4858577a5b78df75bb70ccd380d159d494e20fc7653e5634f05e298"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-1992-1991",
+   "path": "zakon/1992/1991",
+   "short": "Zakon o izmjeni i dopuni Zakona o utvrđivanju plaće i drugih primanja dužnosnika",
+   "title": "Zakon o izmjeni i dopuni Zakona o utvrđivanju plaće i drugih primanja dužnosnika",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1992/75/1991",
+   "versions": [
+    {
+     "from": "1992-11-05",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1992_11_75_1991.html",
+     "sha256": "552f77d18eed9e67d9d21bd1a60157d747e685a5b036169c5de6cdf4bfd83a5d"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-1992-2017",
+   "path": "zakon/1992/2017",
+   "short": "Zakon o sigurnosti u željezničkom prometu",
+   "title": "Zakon o sigurnosti u željezničkom prometu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1992/77/2017",
+   "versions": [
+    {
+     "from": "1992-11-21",
+     "units": 108,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1992_11_77_2017.html",
+     "sha256": "ef606932131fe5e778baecb322ecfd495abe2e2b1bc1f90c43df5fc74274ef3d"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-1992-2018",
+   "path": "zakon/1992/2018",
+   "short": "Zakon o prijevozu u unutarnjem cestovnom prometu",
+   "title": "Zakon o prijevozu u unutarnjem cestovnom prometu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1992/77/2018",
+   "versions": [
+    {
+     "from": "1992-11-21",
+     "units": 64,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1992_11_77_2018.html",
+     "sha256": "4189a2a1feff2753ab5415629a50ef7999ced5e28cae0aa7e49b7650b4369c4b"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-1992-2019",
+   "path": "zakon/1992/2019",
+   "short": "Zakon o građenju",
+   "title": "Zakon o građenju",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1992/77/2019",
+   "versions": [
+    {
+     "from": "1992-11-21",
+     "units": 61,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1992_11_77_2019.html",
+     "sha256": "b23d7905dcfb8ba217418f7ea96c97bb3a7d498f7b2e76dcf5c07aa6fcef3915"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-1992-2020",
+   "path": "zakon/1992/2020",
+   "short": "Zakon o izmjenama i dopunama Zakona o zaštiti vojnih i civilnih invalida rata",
+   "title": "Zakon o izmjenama i dopunama Zakona o zaštiti vojnih i civilnih invalida rata",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1992/77/2020",
+   "versions": [
+    {
+     "from": "1992-11-13",
+     "units": 2,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1992_11_77_2020.html",
+     "sha256": "1e8a4ab1063efa71114f2c027f0da3e07abec3c1efcc431b0392ec901c915dd2"
+    }
+   ]
+  },
+  {
    "slug": "zakon-1992-2021",
    "path": "zakon/1992/2021",
    "short": "Zakon o dopuni Zakona o trgovini",
@@ -30932,6 +33557,36 @@
    ]
   },
   {
+   "slug": "zakon-1992-2023",
+   "path": "zakon/1992/2023",
+   "short": "Zakon o izmjenama Krivičnog zakona Republike Hrvatske",
+   "title": "Zakon o izmjenama Krivičnog zakona Republike Hrvatske",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1992/77/2023",
+   "versions": [
+    {
+     "from": "1992-11-13",
+     "units": 11,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1992_11_77_2023.html",
+     "sha256": "2c3bdea4f683631425f921a73df0a9d60ee8cd4d7067a53be36c904887b38043"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-1992-2176",
+   "path": "zakon/1992/2176",
+   "short": "Zakon o humanitarnoj pomoći",
+   "title": "Zakon o humanitarnoj pomoći",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1992/83/2176",
+   "versions": [
+    {
+     "from": "1992-12-10",
+     "units": 17,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1992_12_83_2176.html",
+     "sha256": "e29d8791844115e21256072975453d2362b792ca8b4e303ed00c9d29a028f913"
+    }
+   ]
+  },
+  {
    "slug": "zakon-1992-2177",
    "path": "zakon/1992/2177",
    "short": "Zakon o izmjenama i dopunama Zakona o javnom pravobranilaštvu",
@@ -30943,6 +33598,96 @@
      "units": 8,
      "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1992_12_83_2177.html",
      "sha256": "b45987e8862bbf0979252c32d8cfe2055a042ea7559ad15a27a0979f8b0e93f1"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-1992-2178",
+   "path": "zakon/1992/2178",
+   "short": "Zakon o izmjenama i dopunama Zakona o pretvorbi društvenih poduzeća",
+   "title": "Zakon o izmjenama i dopunama Zakona o pretvorbi društvenih poduzeća",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1992/83/2178",
+   "versions": [
+    {
+     "from": "1992-12-02",
+     "units": 21,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1992_12_83_2178.html",
+     "sha256": "2ad9f235ecebe4c5872282259d93481810b8466fe02f57a7b04b66ab79aa6202"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-1992-2182",
+   "path": "zakon/1992/2182",
+   "short": "Zakon o sigurnosti prometa na cestama",
+   "title": "Zakon o sigurnosti prometa na cestama",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1992/84/2182",
+   "versions": [
+    {
+     "from": "1993-01-03",
+     "units": 81,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1992_12_84_2182.html",
+     "sha256": "776eab183f887cd37f7cf639c3b6f3a6aa728f1ac92e44b84404018805e07dcb"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-1992-2183",
+   "path": "zakon/1992/2183",
+   "short": "Zakon o Hrvatskom fondu za privatizaciju",
+   "title": "Zakon o Hrvatskom fondu za privatizaciju",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1992/84/2183",
+   "versions": [
+    {
+     "from": "1992-12-12",
+     "units": 21,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1992_12_84_2183.html",
+     "sha256": "1f109ff4579d461ad9e6f795f73aed3f50813253968ec40618539c8b104507b1"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-1992-2303",
+   "path": "zakon/1992/2303",
+   "short": "Zakon o prihvaćanju članstva Republike Hrvatske u Međunarodnom monetarnom fondu i drugim međunarodnim financijskim organizacijama na temelju sukcesije",
+   "title": "Zakon o prihvaćanju članstva Republike Hrvatske u Međunarodnom monetarnom fondu i drugim međunarodnim financijskim organizacijama na temelju sukcesije",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1992/89/2303",
+   "versions": [
+    {
+     "from": "1992-12-28",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1992_12_89_2303.html",
+     "sha256": "f5fcd486e32910324c640b34f34d632a4818bb235ec578e1eeecf2e9ec066200"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-1992-2304",
+   "path": "zakon/1992/2304",
+   "short": "Zakon o financijskoj policiji",
+   "title": "Zakon o financijskoj policiji",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1992/89/2304",
+   "versions": [
+    {
+     "from": "1992-12-28",
+     "units": 26,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1992_12_89_2304.html",
+     "sha256": "4ab3ffd806ee7db2b732bea713a360e4a4969d744f36af2a383d2e351453b54e"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-1992-2305",
+   "path": "zakon/1992/2305",
+   "short": "Zakon o koncesijama",
+   "title": "Zakon o koncesijama",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1992/89/2305",
+   "versions": [
+    {
+     "from": "1993-01-05",
+     "units": 11,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1992_12_89_2305.html",
+     "sha256": "1c5b292d2567d086d01b5dea11aae0ee27adc2a043d8cfc44fab3af2f4c4a375"
     }
    ]
   },
@@ -30962,6 +33707,96 @@
    ]
   },
   {
+   "slug": "zakon-1992-2332",
+   "path": "zakon/1992/2332",
+   "short": "Zakon o reviziji",
+   "title": "Zakon o reviziji",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1992/90/2332",
+   "versions": [
+    {
+     "from": "1992-12-30",
+     "units": 31,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1992_12_90_2332.html",
+     "sha256": "fd4e9b3fb1ee9fafea85aa462ca0096e5634f7934445fa6b0e34469c63ff0e1b"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-1992-2333",
+   "path": "zakon/1992/2333",
+   "short": "Zakon o područjima županija, gradova i općina u Republici Hrvatskoj",
+   "title": "Zakon o područjima županija, gradova i općina u Republici Hrvatskoj",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1992/90/2333",
+   "versions": [
+    {
+     "from": "1992-12-30",
+     "units": 15,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1992_12_90_2333.html",
+     "sha256": "14d5802ec355e74e7b8e81bf7d99715398c5e33a9109de08707d06cfb6274f8a"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-1992-2334",
+   "path": "zakon/1992/2334",
+   "short": "Zakon o lokalnoj samoupravi i upravi",
+   "title": "Zakon o lokalnoj samoupravi i upravi",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1992/90/2334",
+   "versions": [
+    {
+     "from": "1992-12-30",
+     "units": 91,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1992_12_90_2334.html",
+     "sha256": "9421acd90b5e8700d229bb3df4a8f3a4b3c5db37e09f62a8c7e3ea274d665880"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-1992-2335",
+   "path": "zakon/1992/2335",
+   "short": "Zakon o Gradu Zagrebu",
+   "title": "Zakon o Gradu Zagrebu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1992/90/2335",
+   "versions": [
+    {
+     "from": "1992-12-30",
+     "units": 46,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1992_12_90_2335.html",
+     "sha256": "4acbc5f4f431b2f320c3f2a3b1b248c1ee9d2021877399ff2c37d325f22fa832"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-1992-2357",
+   "path": "zakon/1992/2357",
+   "short": "Zakon o izmjenama Zakona o parničnom postupku",
+   "title": "Zakon o izmjenama Zakona o parničnom postupku",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1992/91/2357",
+   "versions": [
+    {
+     "from": "1993-01-08",
+     "units": 26,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1992_12_91_2357.html",
+     "sha256": "42966462f42248c4899740901e424686094fa7c17109fc4bde17b22ebe3138ef"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-1992-2360",
+   "path": "zakon/1992/2360",
+   "short": "Zakon o izmjenama i dopunama Krivičnog zakona Republike Hrvatske",
+   "title": "Zakon o izmjenama i dopunama Krivičnog zakona Republike Hrvatske",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1992/91/2360",
+   "versions": [
+    {
+     "from": "1993-01-08",
+     "units": 18,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1992_12_91_2360.html",
+     "sha256": "70017decf6f66bba350c813cdf291d271f336b83e70838b5bb9501a714ac3e35"
+    }
+   ]
+  },
+  {
    "slug": "zakon-1992-2364",
    "path": "zakon/1992/2364",
    "short": "Zakon o izmjenama i đopunama Zakona o prekršajima",
@@ -30973,6 +33808,36 @@
      "units": 30,
      "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1992_12_91_2364.html",
      "sha256": "3f5e2a269e1ae43b9a17eba1883a6ee1baab0332bfe81a11cd76dea45c32f578"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-1992-2365",
+   "path": "zakon/1992/2365",
+   "short": "Zakon o obilježavanju i održavanju groblja i grobova poginulih i umrlih interniraca, pripadnika stranih oružanih sila, političkih i ratnih zarobljenika na području Republike Hrvatske u I. i II. svjetskom ratu",
+   "title": "Zakon o obilježavanju i održavanju groblja i grobova poginulih i umrlih interniraca, pripadnika stranih oružanih sila, političkih i ratnih zarobljenika na području Republike Hrvatske u I. i II. svjetskom ratu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1992/91/2365",
+   "versions": [
+    {
+     "from": "1993-01-08",
+     "units": 13,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1992_12_91_2365.html",
+     "sha256": "6306c92591292eb7068c0a42364dd052de9f7f1367c6d1a53f026e4794c50ac0"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-1992-2366",
+   "path": "zakon/1992/2366",
+   "short": "Zakon o pretvorbi i organiziranju poduzeća u komunalnim djelatnostima i djelatnostima uređenja naselja i prostora; prijevoza putnika u gradskom i prigradskom prometu i djelatnosti uređenja i održavanj",
+   "title": "Zakon o pretvorbi i organiziranju poduzeća u komunalnim djelatnostima i djelatnostima uređenja naselja i prostora; prijevoza putnika u gradskom i prigradskom prometu i djelatnosti uređenja i održavanj",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1992/91/2366",
+   "versions": [
+    {
+     "from": "1992-12-31",
+     "units": 9,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1992_12_91_2366.html",
+     "sha256": "8bbb1d582c09153ab398c89cb06546c257e6b8debb7e64c2d52fe4167646ff65"
     }
    ]
   },
@@ -31007,6 +33872,21 @@
    ]
   },
   {
+   "slug": "zakon-1992-404",
+   "path": "zakon/1992/404",
+   "short": "Zakon o izvršenju Državnog proračuna Republike Hrvatske za 1992. godinu",
+   "title": "Zakon o izvršenju Državnog proračuna Republike Hrvatske za 1992. godinu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1992/18/404",
+   "versions": [
+    {
+     "from": "1992-03-31",
+     "units": 46,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1992_03_18_404.html",
+     "sha256": "9d2ed387c7c9f060675876efed6ae4dfa7173780b7a99fda47fe0cc9c8589a6f"
+    }
+   ]
+  },
+  {
    "slug": "zakon-1992-405",
    "path": "zakon/1992/405",
    "short": "Zakon o izmjeni i dopuni Zakona o pripadnosti javnih prihoda Republike i Hrvatskoj i jedinicama lokalne samouprave i stopama republičkih poreza",
@@ -31018,6 +33898,36 @@
      "units": 5,
      "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1992_03_18_405.html",
      "sha256": "a02965b80256095888579b2e5336b3212965262e87d01e320d0a642c693b5d06"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-1992-406",
+   "path": "zakon/1992/406",
+   "short": "Zakon o izmjenama i dopunama Zakona o porezu na promet proizvoda i usluga",
+   "title": "Zakon o izmjenama i dopunama Zakona o porezu na promet proizvoda i usluga",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1992/18/406",
+   "versions": [
+    {
+     "from": "1992-04-08",
+     "units": 15,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1992_03_18_406.html",
+     "sha256": "b78ac48d09bc94f54e928b213d010ef788edee59ca169cb50db99e5239f1018e"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-1992-407",
+   "path": "zakon/1992/407",
+   "short": "Zakon o izmjeni Zakona o zdravstvenoj zaštiti i zdravstvenom osiguranju",
+   "title": "Zakon o izmjeni Zakona o zdravstvenoj zaštiti i zdravstvenom osiguranju",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1992/18/407",
+   "versions": [
+    {
+     "from": "1992-03-31",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1992_03_18_407.html",
+     "sha256": "7f18a799d5c9f82197de6cd77698b2cccdc552785f1f7ae59ae97dc1386a16c0"
     }
    ]
   },
@@ -31052,6 +33962,36 @@
    ]
   },
   {
+   "slug": "zakon-1992-424",
+   "path": "zakon/1992/424",
+   "short": "Zakon o zapošljavanju stranaca",
+   "title": "Zakon o zapošljavanju stranaca",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1992/19/424",
+   "versions": [
+    {
+     "from": "1992-04-10",
+     "units": 26,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1992_04_19_424.html",
+     "sha256": "3f79c9f9f6a9358784439640c71161e19eae0eaed4186229d2ffd834d7060fcb"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-1992-425",
+   "path": "zakon/1992/425",
+   "short": "Zakon o popisima birača",
+   "title": "Zakon o popisima birača",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1992/19/425",
+   "versions": [
+    {
+     "from": "1992-04-10",
+     "units": 38,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1992_04_19_425.html",
+     "sha256": "4671f09cf287c8e44084de81df8184e6b766566e949a8feaf76a939c1cdb459f"
+    }
+   ]
+  },
+  {
    "slug": "zakon-1992-426",
    "path": "zakon/1992/426",
    "short": "Zakon o izmjenama i dopunama Zakona o radnim odnosima",
@@ -31063,6 +34003,21 @@
      "units": 12,
      "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1992_04_19_426.html",
      "sha256": "903b3cdff61498f7ed2e71140c8388ec467c9ae15724ba7eb33d3bc2a5585d22"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-1992-428",
+   "path": "zakon/1992/428",
+   "short": "Zakon o izmjenama i dopunama Zakona o hrvatskim željeznicama",
+   "title": "Zakon o izmjenama i dopunama Zakona o hrvatskim željeznicama",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1992/19/428",
+   "versions": [
+    {
+     "from": "1992-04-10",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1992_04_19_428.html",
+     "sha256": "cb84ed392deda854562fe08a86d30f05ba7d4cec99d07e06cb2a027d55a2c55f"
     }
    ]
   },
@@ -31093,6 +34048,96 @@
      "units": 4,
      "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1992_04_19_430.html",
      "sha256": "625710616250e776853b51e015ac4c8a8f66954462310c6dd8c3335b829f7c4f"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-1992-489",
+   "path": "zakon/1992/489",
+   "short": "Zakon o izborima zastupnika u Sabor Republike Hrvatske",
+   "title": "Zakon o izborima zastupnika u Sabor Republike Hrvatske",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1992/22/489",
+   "versions": [
+    {
+     "from": "1992-04-25",
+     "units": 46,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1992_04_22_489.html",
+     "sha256": "78ee0bb977f07cf04a75ca2acc26e8cb2bdc399667b0e9b939895eb16e4fef9f"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-1992-490",
+   "path": "zakon/1992/490",
+   "short": "Zakon o javnom informiranju",
+   "title": "Zakon o javnom informiranju",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1992/22/490",
+   "versions": [
+    {
+     "from": "1992-04-25",
+     "units": 13,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1992_04_22_490.html",
+     "sha256": "ebca3c3fc6adb74f15e85da8a69ed5ee13e42652e08ae89aeebc0004b47c0669"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-1992-491",
+   "path": "zakon/1992/491",
+   "short": "Zakon o javnom okupljanju",
+   "title": "Zakon o javnom okupljanju",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1992/22/491",
+   "versions": [
+    {
+     "from": "1992-04-25",
+     "units": 23,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1992_04_22_491.html",
+     "sha256": "0dc4c9290952b45c0ab9869175aaacae9355de574959d28b3c9298de001168eb"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-1992-492",
+   "path": "zakon/1992/492",
+   "short": "Zakon o Hrvatskom registru brodova",
+   "title": "Zakon o Hrvatskom registru brodova",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1992/22/492",
+   "versions": [
+    {
+     "from": "1992-04-25",
+     "units": 27,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1992_04_22_492.html",
+     "sha256": "9f4a97e5f1bedf32ddd00b8fe3f95b3c941a76756cb69eabcfb04b704519f7a0"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-1992-493",
+   "path": "zakon/1992/493",
+   "short": "Zakon o izmjenama i dopunama Zakona o stambenim odnosima",
+   "title": "Zakon o izmjenama i dopunama Zakona o stambenim odnosima",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1992/22/493",
+   "versions": [
+    {
+     "from": "1992-04-17",
+     "units": 8,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1992_04_22_493.html",
+     "sha256": "a298ece7af04b27ced7388350979501421b5ed0551b82f86eb0ab2b7187cc5de"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-1992-494",
+   "path": "zakon/1992/494",
+   "short": "Zakon o dopunama Zakona o ustrojstvu republičke uprave",
+   "title": "Zakon o dopunama Zakona o ustrojstvu republičke uprave",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1992/22/494",
+   "versions": [
+    {
+     "from": "1992-04-17",
+     "units": 9,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1992_04_22_494.html",
+     "sha256": "f9833db20838e56cd1a856714e7335252a2ac9a3cd7999998bd9f4c23cafa235"
     }
    ]
   },
@@ -31142,6 +34187,21 @@
    ]
   },
   {
+   "slug": "zakon-1992-498",
+   "path": "zakon/1992/498",
+   "short": "Zakon o izmjeni Zakona o područjima općina u Republici Hrvatskoj",
+   "title": "Zakon o izmjeni Zakona o područjima općina u Republici Hrvatskoj",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1992/22/498",
+   "versions": [
+    {
+     "from": "1992-04-17",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1992_04_22_498.html",
+     "sha256": "d6a8e28cc5cf0bf9386d0bffa5d60469c45dc4fe0dd9ddc8511a5d5101da95c7"
+    }
+   ]
+  },
+  {
    "slug": "zakon-1992-674",
    "path": "zakon/1992/674",
    "short": "Zakon o prestanku važenja Uredbe o uvjetima i načinu utvrđivanja evidencijske devizne pozicije za određene zajedničke potrebe",
@@ -31187,6 +34247,96 @@
    ]
   },
   {
+   "slug": "zakon-1992-719",
+   "path": "zakon/1992/719",
+   "short": "Zakon o izmjenama i dopunama Zakona o preuzimanju zakona iz podrućja trgovine, tržišta i cijena koji se u Republici Hrvatskoj primjenjuju kao republički zakoni",
+   "title": "Zakon o izmjenama i dopunama Zakona o preuzimanju zakona iz podrućja trgovine, tržišta i cijena koji se u Republici Hrvatskoj primjenjuju kao republički zakoni",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1992/29/719",
+   "versions": [
+    {
+     "from": "1992-05-27",
+     "units": 14,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1992_05_29_719.html",
+     "sha256": "73db8ed624cddf7d7a8257ea020676febf20809c1ef589594dfb5a8429c7d405"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-1992-814",
+   "path": "zakon/1992/814",
+   "short": "Zakon o izbornim jedinicama za Zastupnički dom Sabora Republike Hrvatske",
+   "title": "Zakon o izbornim jedinicama za Zastupnički dom Sabora Republike Hrvatske",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1992/33/814",
+   "versions": [
+    {
+     "from": "1992-06-12",
+     "units": 9,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1992_06_33_814.html",
+     "sha256": "4d9452af160f3256adbc9c73fda3551de2011017446b0e01ec9220fc2ff47251"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-1992-815",
+   "path": "zakon/1992/815",
+   "short": "Zakon o financiranju obnove",
+   "title": "Zakon o financiranju obnove",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1992/33/815",
+   "versions": [
+    {
+     "from": "1992-06-12",
+     "units": 19,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1992_06_33_815.html",
+     "sha256": "6205e387e8430e7d989ee3b6f336c04515cc655015739b4b77064ee944a5be94"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-1992-816",
+   "path": "zakon/1992/816",
+   "short": "Zakon o Hrvatskoj kreditnoj banci za obnovu",
+   "title": "Zakon o Hrvatskoj kreditnoj banci za obnovu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1992/33/816",
+   "versions": [
+    {
+     "from": "1992-06-12",
+     "units": 21,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1992_06_33_816.html",
+     "sha256": "947f48e16dd10fc692839fd4d6815b947cf34739642becd363897c352ed42b72"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-1992-818",
+   "path": "zakon/1992/818",
+   "short": "Zakon o zaštiti vojnih i civilnih invalida rata",
+   "title": "Zakon o zaštiti vojnih i civilnih invalida rata",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1992/33/818",
+   "versions": [
+    {
+     "from": "1992-07-01",
+     "units": 112,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1992_06_33_818.html",
+     "sha256": "5fb9021ff6a3086c2ff07d7ab42d048b8fa74ed263679de4212f213d21f478e2"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-1992-819",
+   "path": "zakon/1992/819",
+   "short": "Zakon o Deviznom inspektoratu Republike Hrvatske",
+   "title": "Zakon o Deviznom inspektoratu Republike Hrvatske",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1992/33/819",
+   "versions": [
+    {
+     "from": "1992-06-12",
+     "units": 30,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1992_06_33_819.html",
+     "sha256": "031e77914a4212896d93ecab334e72f15786905e264ed04a9407ca3ad00d9820"
+    }
+   ]
+  },
+  {
    "slug": "zakon-1992-821",
    "path": "zakon/1992/821",
    "short": "Zakon o iznimnom korištenju određenih statističkih podataka",
@@ -31198,6 +34348,21 @@
      "units": 4,
      "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1992_06_33_821.html",
      "sha256": "a7699c9741863f8774b72dc3a15f3516be1e78ae440daef82182b9f1dd1a9a70"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-1992-822",
+   "path": "zakon/1992/822",
+   "short": "Zakon o izmjenama i dopunama Zakona o prodaji stanova na kojima postoji stanarsko pravo",
+   "title": "Zakon o izmjenama i dopunama Zakona o prodaji stanova na kojima postoji stanarsko pravo",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1992/33/822",
+   "versions": [
+    {
+     "from": "1992-06-20",
+     "units": 34,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1992_06_33_822.html",
+     "sha256": "2d1c869f7e9d02f2d6182aa23f247e22678736f3420f056512e45048e53eeab3"
     }
    ]
   },
@@ -31232,6 +34397,36 @@
    ]
   },
   {
+   "slug": "zakon-1992-825",
+   "path": "zakon/1992/825",
+   "short": "Zakon o izmjenama i dopunama Zakona o računovodstvu",
+   "title": "Zakon o izmjenama i dopunama Zakona o računovodstvu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1992/33/825",
+   "versions": [
+    {
+     "from": "1992-06-12",
+     "units": 17,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1992_06_33_825.html",
+     "sha256": "6e3fc46fabdacfbb70aa52c7884e648f55bbef1e7fefaa4b21cf5106e511f7e5"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-1992-826",
+   "path": "zakon/1992/826",
+   "short": "Zakon o izmjenama i dopunama Carinskog zakona",
+   "title": "Zakon o izmjenama i dopunama Carinskog zakona",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1992/33/826",
+   "versions": [
+    {
+     "from": "1992-06-20",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1992_06_33_826.html",
+     "sha256": "7106a1fae7ab2b2fa83c7b44532c5b129a1140263bdb42ac7830c5a36ddd41d3"
+    }
+   ]
+  },
+  {
    "slug": "zakon-1992-827",
    "path": "zakon/1992/827",
    "short": "Zakon o izmjeni i dopuni Zakona o unutarnjim poslovima",
@@ -31243,6 +34438,21 @@
      "units": 6,
      "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1992_06_33_827.html",
      "sha256": "d512ca7cf8c101dc3c1373fb69c840a3fec047ffdcf300facf4b509bf569b78b"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-1992-828",
+   "path": "zakon/1992/828",
+   "short": "Zakon o izmjeni Zakona o zapošljavanju stranaca",
+   "title": "Zakon o izmjeni Zakona o zapošljavanju stranaca",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1992/33/828",
+   "versions": [
+    {
+     "from": "1992-06-12",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1992_06_33_828.html",
+     "sha256": "109120c0427326532910a52fbb9a7174d0bb6a3ac56adf640093115d0b08b933"
     }
    ]
   },
@@ -31262,6 +34472,21 @@
    ]
   },
   {
+   "slug": "zakon-1992-830",
+   "path": "zakon/1992/830",
+   "short": "Zakon o izmjeni Krivičnog zakona Republike Hrvatske",
+   "title": "Zakon o izmjeni Krivičnog zakona Republike Hrvatske",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1992/33/830",
+   "versions": [
+    {
+     "from": "1992-06-20",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1992_06_33_830.html",
+     "sha256": "ae3290245578f4ed54634c9374cddbcf566203b041eb89e8ed9720608b5a49fc"
+    }
+   ]
+  },
+  {
    "slug": "zakon-1992-831",
    "path": "zakon/1992/831",
    "short": "Zakon o dopunama Zakona o spajanju općina s područja Gradske zajednice Zagreb i prestanku Gradske zajednice Zagreb",
@@ -31273,6 +34498,36 @@
      "units": 10,
      "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1992_06_33_831.html",
      "sha256": "5d9fce20d7702f564c21ca3c69262b27e63d39d789bfda0d5b36a16b0fc93121"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-1992-989",
+   "path": "zakon/1992/989",
+   "short": "Zakon o određivanju kada prestaju vrijediti uredbe Vlade Republike Hrvatske donesene na temelju zakonske ovlasti i ovlaštenju Vlade da uredbama uređuje pojedina pitanja iz djelokruga Sabora Republike",
+   "title": "Zakon o određivanju kada prestaju vrijediti uredbe Vlade Republike Hrvatske donesene na temelju zakonske ovlasti i ovlaštenju Vlade da uredbama uređuje pojedina pitanja iz djelokruga Sabora Republike",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1992/39/989",
+   "versions": [
+    {
+     "from": "1992-06-26",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1992_06_39_989.html",
+     "sha256": "9afb8e43521e7602ad4365475241d82a9510e67ad60466009112fb9998dd9cae"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-1992-990",
+   "path": "zakon/1992/990",
+   "short": "Zakon o pravima zastupnika u Saboru Republike Hrvatske",
+   "title": "Zakon o pravima zastupnika u Saboru Republike Hrvatske",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1992/39/990",
+   "versions": [
+    {
+     "from": "1992-07-04",
+     "units": 28,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1992_06_39_990.html",
+     "sha256": "710e15c8022af7189a08ec8f051155ace0a32aba82209bb34c326729439becc6"
     }
    ]
   },

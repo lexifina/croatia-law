@@ -1,6 +1,6 @@
 # Every act in this repository
 
-35398 acts, 35,824 versions. Each act lives in a folder named by its kind, year and identifier, `<kind>/<year>/<identifier>/` (acts published before that layout keep their own folder, listed in data/paths.json); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+35615 acts, 36,041 versions. Each act lives in a folder named by its kind, year and identifier, `<kind>/<year>/<identifier>/` (acts published before that layout keep their own folder, listed in data/paths.json); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## izbori (129)
 
@@ -32472,21 +32472,41 @@
 | Odluka i Rješenje Ustavnog suda Republike Hrvatske broj: U-I-3232/2023 i dr. od 14. srpnja 2026. | [`ustavni-sud/2026/u-i-3232-2023/`](ustavni-sud/2026/u-i-3232-2023/) | in force | 1 | 2026-07-29 | 2026-07-29 |
 | Odluka i Rješenje Ustavnog suda Republike Hrvatske broj: U-I-889/2025 i dr. od 14. srpnja 2026. | [`ustavni-sud/2026/u-i-889-2025/`](ustavni-sud/2026/u-i-889-2025/) | in force | 1 | 2026-08-17 | 2026-08-17 |
 
-## zakon (2983, of which 1582 amending acts)
+## zakon (3200, of which 1622 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
+| Zakon o izmjenama i dopuni Zakona o premijama za kvalitetni rasplodni podmladak i regresu troškova za umjetno osjemenjivanje stoke | [`zakon/1990/6/`](zakon/1990/6/) | amending act | 1 | 1990-02-01 | 1990-02-01 |
+| Zakon o izmjenama i dopunama Zakona o premijama za mlijeko, vunu, konopljine stabljike, stabljike lana, te o nadoknadi razlike u cijeni za prodane količine konzumnog mlijeka | [`zakon/1990/7/`](zakon/1990/7/) | amended, not consolidated | 1 | 1990-02-01 | 1990-02-01 |
 | Zakon o izmjenama Zakona o doprinosu Samoupravnoj interesnoj zajednici potrošača električne energije Hrvatske | [`zakon/1990/9/`](zakon/1990/9/) | in force | 1 | 1990-01-17 | 1990-01-17 |
+| Zakon o izbornim jedinicama za izbor zastupnika u Vijeće udruženog rada Sabora Socijalističke Republike Hrvatske | [`zakon/1990/74/`](zakon/1990/74/) | amended, not consolidated | 1 | 1990-02-17 | 1990-02-17 |
+| Zakon o izbornim jedinicama za izbor zastupnika u Društveno-političko vijeće Sabora Socijalističke Republike Hrvatske | [`zakon/1990/75/`](zakon/1990/75/) | cited later, not consolidated | 1 | 1990-02-17 | 1990-02-17 |
+| Zakon o izbornim jedinicama za izbor delegata u Savezno vijeće Skupštine Socijalističke Federativne Republike Jugoslavije | [`zakon/1990/76/`](zakon/1990/76/) | amended, not consolidated | 1 | 1990-02-17 | 1990-02-17 |
 | Zakon o izmjeni Zakona o privremenom prestanku primjenjivanja odredaba članova 289. i 291. Zakona o zdravstvenoj zaštiti i zdravstvenom osiguranju | [`zakon/1990/78/`](zakon/1990/78/) | in force | 1 | 1990-03-01 | 1990-03-01 |
+| Zakon o izmjeni Zakona o odvjetništvu i službi pravne pomoći | [`zakon/1990/79/`](zakon/1990/79/) | in force | 1 | 1990-03-04 | 1990-03-04 |
+| Zakon o izmjenama Zakona o prekršajima | [`zakon/1990/80/`](zakon/1990/80/) | in force | 1 | 1990-02-24 | 1990-02-24 |
+| Zakon o izmjenama Zakona o doplatku za djecu | [`zakon/1990/82/`](zakon/1990/82/) | amended, not consolidated | 1 | 1990-03-04 | 1990-03-04 |
 | Zakon o izmjenama i dopunama Zakona o javnom informiranju | [`zakon/1990/83/`](zakon/1990/83/) | amending act | 1 | 1990-03-04 | 1990-03-04 |
 | Zakon o šumskom sjemenu i šumskom sadnom materijalu | [`zakon/1990/131/`](zakon/1990/131/) | repealed, not consolidated | 1 | 1990-03-28 | 1990-03-28 |
 | Zakon o proglašenju parka prirode »Lonjsko polje« | [`zakon/1990/132/`](zakon/1990/132/) | in force | 1 | 1990-03-28 | 1990-03-28 |
 | Zakon o izmjenama Zakona o sudskim taksama | [`zakon/1990/134/`](zakon/1990/134/) | in force | 1 | 1990-03-28 | 1990-03-28 |
 | Zakon o Matici iseljenika Hrvatske | [`zakon/1990/167/`](zakon/1990/167/) | replaced, not consolidated | 1 | 1990-04-07 | 1990-04-07 |
+| Zakon o pravima i dužnostima organa društveno-političkih zajednica u pogledu sredstava u društvenom vlasništvu koja oni koriste | [`zakon/1990/168/`](zakon/1990/168/) | in force | 1 | 1990-04-07 | 1990-04-07 |
+| Zakon o dopunskim sredstvima općinama za 1990. godinu i razlici dopunskih sredstava po konačnom obračunu za 1989. godinu | [`zakon/1990/169/`](zakon/1990/169/) | amended, not consolidated | 1 | 1990-04-01 | 1990-04-01 |
 | Zakon o izmjenama Zakona o pripravnicima u pravosudnim organima i pravosudnom ispitu | [`zakon/1990/170/`](zakon/1990/170/) | in force | 1 | 1990-04-07 | 1990-04-07 |
 | Zakon o dopuni Zakona o izbornim jedinicama za izbor zastupnika u Vijeće udruženog rada Sabora Socijalističke Republike Hrvatske | [`zakon/1990/172/`](zakon/1990/172/) | amending act | 1 | 1990-03-30 | 1990-03-30 |
+| Zakon o Spomen-području Jasenovac | [`zakon/1990/267/`](zakon/1990/267/) | amended, not consolidated | 1 | 1990-04-25 | 1990-04-25 |
+| Zakon o provođenju popisa stanovništva, domaćinstava, stanova i poljoprivrednih gospodarstava u 1991. godini | [`zakon/1990/274/`](zakon/1990/274/) | amended, not consolidated | 1 | 1990-05-02 | 1990-05-02 |
 | Zakon o izmjeni Zakona o komunalnim taksama | [`zakon/1990/275/`](zakon/1990/275/) | in force | 1 | 1990-05-02 | 1990-05-02 |
+| Zakon o izmjenama i dopunama Zakona o ugostiteljskoj i turističkoj djelatnosti | [`zakon/1990/276/`](zakon/1990/276/) | amending act | 1 | 1990-05-02 | 1990-05-02 |
+| Zakon o izmjenama i dopunama Zakona o građevinskom zemljištu | [`zakon/1990/277/`](zakon/1990/277/) | amending act | 1 | 1990-05-02 | 1990-05-02 |
+| Zakon o izmjenama i dopunama Zakona o redovnim sudovima | [`zakon/1990/278/`](zakon/1990/278/) | amending act | 1 | 1990-05-02 | 1990-05-02 |
+| Zakon o izmjenama i dopunama Zakona o javnom tužilaštvu | [`zakon/1990/279/`](zakon/1990/279/) | amending act | 1 | 1990-05-02 | 1990-05-02 |
+| Zakon o zaštiti od buke | [`zakon/1990/307/`](zakon/1990/307/) | repealed, not consolidated | 1 | 1990-05-06 | 1990-05-06 |
+| Zakon o financiranju Saveza udruženja boraca narodnooslobodilačkog rata Hrvatske | [`zakon/1990/308/`](zakon/1990/308/) | replaced, not consolidated | 1 | 1990-05-06 | 1990-05-06 |
+| Zakon o koncesijama | [`zakon/1990/339/`](zakon/1990/339/) | amended, not consolidated | 1 | 1990-05-08 | 1990-05-08 |
 | Zakon o Fondu Socijalističke Republike Hrvatske za razvoj | [`zakon/1990/340/`](zakon/1990/340/) | in force | 1 | 1990-05-08 | 1990-05-08 |
+| Zakon o Agenciji Socijalističke Republike Hrvatske za restrukturiranje i razvoj | [`zakon/1990/341/`](zakon/1990/341/) | amended, not consolidated | 1 | 1990-05-08 | 1990-05-08 |
 | Zakon o osiguranju sredstava za dovršetak izgradnje Nacionalne i sveučilišne biblioteke | [`zakon/1990/342/`](zakon/1990/342/) | in force | 1 | 1991-01-01 | 1991-01-01 |
 | Zakon o izmjeni Zakona o sudskim taksama | [`zakon/1990/345/`](zakon/1990/345/) | in force | 1 | 1990-05-08 | 1990-05-08 |
 | Zakon o dopuni Zakona o unutrašnjim poslovima | [`zakon/1990/346/`](zakon/1990/346/) | amending act | 1 | 1990-04-30 | 1990-04-30 |
@@ -32494,24 +32514,62 @@
 | Zakon o izmjenama i dopuni Zakona o Izvršnom vijeću Sabora | [`zakon/1990/348/`](zakon/1990/348/) | amending act | 1 | 1990-05-08 | 1990-05-08 |
 | Zakon o izmjenama i dopunama Zakona o sistemu obrane od tuče | [`zakon/1990/349/`](zakon/1990/349/) | amending act | 1 | 1990-05-08 | 1990-05-08 |
 | Zakon o izmjenama i dopunama Zakona o izvršenju Budžeta Socijalističke Republike Hrvatske za 1990. godinu | [`zakon/1990/351/`](zakon/1990/351/) | amending act | 1 | 1990-05-08 | 1990-05-08 |
+| Zakon o radnim odnosima | [`zakon/1990/377/`](zakon/1990/377/) | amended, not consolidated | 1 | 1990-05-11 | 1990-05-11 |
+| Zakon o zapošljavanju | [`zakon/1990/378/`](zakon/1990/378/) | amended, not consolidated | 1 | 1990-05-11 | 1990-05-11 |
+| Zakon o samostalnom obavljanju privrednih djelatnosti osobnim radom | [`zakon/1990/379/`](zakon/1990/379/) | amended, not consolidated | 1 | 1990-05-11 | 1990-05-11 |
+| Zakon o neposrednim porezima | [`zakon/1990/380/`](zakon/1990/380/) | amended, not consolidated | 1 | 1990-05-11 | 1990-05-11 |
+| Zakon o političkim organizacijama | [`zakon/1990/381/`](zakon/1990/381/) | repealed, not consolidated | 1 | 1990-05-11 | 1990-05-11 |
+| Zakon o igrama na sreću i zabavnim igrama | [`zakon/1990/382/`](zakon/1990/382/) | amended, not consolidated | 1 | 1990-04-26 | 1990-04-26 |
+| Zakon o načinu raspodjele imovine i o statusu radnika regionalnih zajednica općina | [`zakon/1990/383/`](zakon/1990/383/) | amended, not consolidated | 1 | 1990-05-11 | 1990-05-11 |
 | Zakon o pravima građana na odsustvovanje s rada na dan vjerskih blagdana | [`zakon/1990/385/`](zakon/1990/385/) | in force | 1 | 1990-05-11 | 1990-05-11 |
+| Zakon o izmjenama i dopunama Zakona o poljoprivrednom zemljištu | [`zakon/1990/386/`](zakon/1990/386/) | amended, not consolidated | 1 | 1990-05-11 | 1990-05-11 |
 | Zakon o izmjenama i dopunama Zakona o izvršenju krivičnih i prekršajnih sankcija | [`zakon/1990/387/`](zakon/1990/387/) | amending act | 1 | 1990-05-11 | 1990-05-11 |
+| Zakon o izmjenama i dopunama Zakona o javnom pravobranilaštvu | [`zakon/1990/388/`](zakon/1990/388/) | amending act | 1 | 1990-05-11 | 1990-05-11 |
 | Zakon o prestanku važenja Zakona o zaštiti poljskih dobara | [`zakon/1990/389/`](zakon/1990/389/) | in force | 1 | 1990-05-11 | 1990-05-11 |
 | Zakon o prestanku važenja Zakona o ispitivanju porijekla imovine i oduzimanju nezakonito stečene imovine | [`zakon/1990/390/`](zakon/1990/390/) | in force | 1 | 1990-05-11 | 1990-05-11 |
+| Zakon o javnim cestama | [`zakon/1990/391/`](zakon/1990/391/) | amended, not consolidated | 1 | 1990-05-12 | 1990-05-12 |
+| Zakon o sigurnosti prometa na cestama | [`zakon/1990/392/`](zakon/1990/392/) | amended, not consolidated | 1 | 1990-05-12 | 1990-05-12 |
 | Zakon o izmjenama i dopunama Zakona o kinematografiji | [`zakon/1990/393/`](zakon/1990/393/) | amending act | 1 | 1990-05-12 | 1990-05-12 |
+| Zakon o izmjenama i dopunama Zakona o društvenoj brizi o djeci predškolskog uzrasta | [`zakon/1990/394/`](zakon/1990/394/) | amending act | 1 | 1990-05-12 | 1990-05-12 |
+| Zakon o Hrvatskoj radio-televiziji | [`zakon/1990/533/`](zakon/1990/533/) | amended, not consolidated | 1 | 1990-06-30 | 1990-06-30 |
 | Zakon o premijama za pšenicu i uljanu repicu roda 1990. godine. | [`zakon/1990/534/`](zakon/1990/534/) | in force | 1 | 1990-06-30 | 1990-06-30 |
+| Zakon o privremenom uređenju organizacije upravljanja u Republičkoj samoupravnoj interesnoj zajednici usmjerenog obrazovanja Socijalističke Republike Hrvatske | [`zakon/1990/535/`](zakon/1990/535/) | repealed, not consolidated | 1 | 1990-06-30 | 1990-06-30 |
 | Zakon o izmjeni Zakona o načinu raspodjele imovine i o statusu radnika regionalnih zajednica općina | [`zakon/1990/536/`](zakon/1990/536/) | in force | 1 | 1990-06-30 | 1990-06-30 |
+| Zakon o izmjeni Zakona o političkim organizacijama | [`zakon/1990/537/`](zakon/1990/537/) | amended, not consolidated | 1 | 1990-06-30 | 1990-06-30 |
 | Zakon o proglašenju Zakona o prestanku važenja Zakona o osiguranju sredstava za izgradnju objekata | [`zakon/1990/583/`](zakon/1990/583/) | in force | 1 | 1990-07-28 | 1990-07-28 |
+| Zakon o elektroprivredi | [`zakon/1990/613/`](zakon/1990/613/) | amended, not consolidated | 1 | 1990-07-28 | 1990-07-28 |
 | Zakon o Hrvatskoj izvještajnoj novinskoj agenciji "HINA". | [`zakon/1990/614/`](zakon/1990/614/) | in force | 1 | 1990-07-28 | 1990-07-28 |
 | Zakon o plaćanju doplatne poštanske marke "A 90" u poštanskom prometu na teritoriju Republike Hrvatske | [`zakon/1990/616/`](zakon/1990/616/) | in force | 1 | 1990-08-05 | 1990-08-05 |
 | Zakon o privremenom uređenju organizacije upravljanja u Samoupravnoj interesnoj zajednici znanosti Republike Hrvatske | [`zakon/1990/617/`](zakon/1990/617/) | in force | 1 | 1990-07-28 | 1990-07-28 |
 | Zakon o izmjenama Zakona o republičkim savjetima | [`zakon/1990/618/`](zakon/1990/618/) | in force | 1 | 1990-08-05 | 1990-08-05 |
 | Zakon o dopuni Zakona o odvjetništvu i službi pravne pomoći | [`zakon/1990/619/`](zakon/1990/619/) | amending act | 1 | 1990-07-28 | 1990-07-28 |
 | Zakon o izmjenama i dopunama Zakona o organizaciji i djelokrugu republičkih organa uprave i republičkih organizacija | [`zakon/1990/620/`](zakon/1990/620/) | amending act | 1 | 1990-07-28 | 1990-07-28 |
+| Zakon o izmjenama i dopunama Zakona o znanstvenoistraživačkoj djelatnosti | [`zakon/1990/746/`](zakon/1990/746/) | amended, not consolidated | 1 | 1990-10-14 | 1990-10-14 |
+| Zakon o izmjenama i dopunama Zakona o zapošljavanju | [`zakon/1990/747/`](zakon/1990/747/) | amending act | 1 | 1990-10-14 | 1990-10-14 |
+| Zakon o izmjenama i dopunama Zakona o mirovinskom i invalidskom osiguranju | [`zakon/1990/748/`](zakon/1990/748/) | amending act | 1 | 1990-10-14 | 1990-10-14 |
+| Zakon o Vladi Republike Hrvatske | [`zakon/1990/788/`](zakon/1990/788/) | repealed, not consolidated | 1 | 1990-10-08 | 1990-10-08 |
+| Zakon o ustrojstvu republičke uprave | [`zakon/1990/789/`](zakon/1990/789/) | repealed, not consolidated | 1 | 1990-10-08 | 1990-10-08 |
+| Zakon o izmjenama i dopunama Zakona o upravi | [`zakon/1990/790/`](zakon/1990/790/) | amending act | 1 | 1990-10-16 | 1990-10-16 |
+| Zakon o izmjenama i dopunama Zakona o redovnim sudovima | [`zakon/1990/791/`](zakon/1990/791/) | amending act | 1 | 1990-10-16 | 1990-10-16 |
+| Zakon o izmjenama i dopunama Zakona o javnom tužilaštvu | [`zakon/1990/792/`](zakon/1990/792/) | amending act | 1 | 1990-10-16 | 1990-10-16 |
+| Zakon o izmjenama i dopunama Zakona o javnom pravobranilaštvu | [`zakon/1990/793/`](zakon/1990/793/) | amending act | 1 | 1990-10-16 | 1990-10-16 |
+| Zakon o izmjenama Zakona o prekršajima | [`zakon/1990/794/`](zakon/1990/794/) | in force | 1 | 1990-10-08 | 1990-10-08 |
+| Zakon o izmjenama Zakona o poljoprivrednom zemljištu | [`zakon/1990/795/`](zakon/1990/795/) | amended, not consolidated | 1 | 1990-10-16 | 1990-10-16 |
+| Zakon o izmjenama i dopunama Zakona o šumama | [`zakon/1990/796/`](zakon/1990/796/) | amended, not consolidated | 1 | 1990-10-16 | 1990-10-16 |
 | Zakon o plaćanju doplatne poštanske marke "EPEJ 90" u poštanskom prometu na teritoriju Republike Hrvatske | [`zakon/1990/797/`](zakon/1990/797/) | in force | 1 | 1990-10-16 | 1990-10-16 |
+| Zakon o javnim cestama | [`zakon/1990/798/`](zakon/1990/798/) | amended, not consolidated | 1 | 1990-10-18 | 1990-10-18 |
+| Zakon o osnivanju javnog hrvatskog poštanskog i telekomunikacijskog poduzeća | [`zakon/1990/800/`](zakon/1990/800/) | repealed, not consolidated | 1 | 1990-10-10 | 1990-10-10 |
+| Zakon o osnivanju javnog poduzeća INA - Industrija nafte | [`zakon/1990/801/`](zakon/1990/801/) | repealed, not consolidated | 1 | 1990-10-10 | 1990-10-10 |
+| Zakon o izmjenama i dopunama Zakona o Fondu Republike Hrvatske za razvoj | [`zakon/1990/802/`](zakon/1990/802/) | amending act | 1 | 1990-10-18 | 1990-10-18 |
+| Zakon o izmjenama i dopunama Zakona o sigurnosti plovidbe na moru i unutrašnjim vodama | [`zakon/1990/803/`](zakon/1990/803/) | amending act | 1 | 1990-10-18 | 1990-10-18 |
 | Zakon o izmjenama Zakona o obveznom udruživanju dijela sredstava društvene reprodukcije od 1. lipnja 1986. do 31. svibnja 1991. godine za realizaciju programa razvoja agroindustrijskog kompleksa Repub | [`zakon/1990/804/`](zakon/1990/804/) | in force | 1 | 1990-10-18 | 1990-10-18 |
+| Zakon o izmjenama i dopunama Zakona o socijalnoj zaštiti | [`zakon/1990/805/`](zakon/1990/805/) | amending act | 1 | 1990-10-18 | 1990-10-18 |
 | Zakon o izmjenama i dopunama Zakona o formiranju i korištenju sredstava solidarnosti za poticanje zapošljavanja | [`zakon/1990/806/`](zakon/1990/806/) | amending act | 1 | 1990-10-18 | 1990-10-18 |
+| Zakon o osnivanju Javnog poduzeća "Narodne novine" | [`zakon/1990/865/`](zakon/1990/865/) | amended, not consolidated | 1 | 1990-11-22 | 1990-11-22 |
+| Zakon o fondovima za kulturu | [`zakon/1990/866/`](zakon/1990/866/) | repealed, not consolidated | 1 | 1990-11-22 | 1990-11-22 |
+| Zakon o spajanju općina s područja Gradske zajednice Zagreb i prestanku Gradske zajednice Zagreb | [`zakon/1990/867/`](zakon/1990/867/) | amended, not consolidated | 1 | 1990-11-22 | 1990-11-22 |
 | Zakon o prestanu važenja Zakona o financiranju Saveza udruženja boraca narodnooslobodilačkog rata Hrvatske | [`zakon/1990/868/`](zakon/1990/868/) | in force | 1 | 1990-11-14 | 1990-11-14 |
+| Zakon o izmjenama Zakona o elektroprivredi | [`zakon/1990/870/`](zakon/1990/870/) | in force | 1 | 1990-11-14 | 1990-11-14 |
 | Zakon o izmjenama Zakona o matičnim knjigama | [`zakon/1990/871/`](zakon/1990/871/) | in force | 1 | 1990-11-22 | 1990-11-22 |
 | Zakon o izmjenama Zakona o područjima općina u Socijalističkoj Republici Hrvatskoj | [`zakon/1990/872/`](zakon/1990/872/) | in force | 1 | 1990-11-22 | 1990-11-22 |
 | Zakon o izmjenama Zakona o osobnom imenu | [`zakon/1990/873/`](zakon/1990/873/) | in force | 1 | 1990-11-22 | 1990-11-22 |
@@ -32520,12 +32578,20 @@
 | Zakon o dopunama Zakona o dopunskim sredstvima općinama za 1990. godinu i razlici dopunskih sredstava po konačnom obračunu za 1989. godinu | [`zakon/1990/876/`](zakon/1990/876/) | amending act | 1 | 1990-11-22 | 1990-11-22 |
 | Zakon o dopunama Zakona o provođenju popisa stanovništva, domaćinstava, stanova i poljoprivrednih gospodarstava u 1991. godini | [`zakon/1990/877/`](zakon/1990/877/) | amending act | 1 | 1990-11-22 | 1990-11-22 |
 | Zakon o izmjenama i dopunama Zakona o upravnoj inspekciji | [`zakon/1990/878/`](zakon/1990/878/) | amending act | 1 | 1990-11-22 | 1990-11-22 |
+| Zakon o izmjenama i dopunama Zakona o Agenciji Socijalističke Republike Hrvatske za restrukturiranje i razvoj | [`zakon/1990/879/`](zakon/1990/879/) | amended, not consolidated | 1 | 1990-11-22 | 1990-11-22 |
+| Zakon o izmjenama i dopunama Zakona o upravi | [`zakon/1990/880/`](zakon/1990/880/) | amending act | 1 | 1990-11-14 | 1990-11-14 |
 | Zakon o Izmjenama i dopunama Zakona o prekršajima protiv javnog reda i mira | [`zakon/1990/881/`](zakon/1990/881/) | amending act | 1 | 1990-11-22 | 1990-11-22 |
 | Zakon o izmjenama i dopunama Zakona o zdravstvenom nadzoru nad živežnim namirnicama i predmetima opće upotrebe | [`zakon/1990/882/`](zakon/1990/882/) | amending act | 1 | 1990-11-22 | 1990-11-22 |
+| Zakon o izmjenama i dopunama Zakona o društvenoj brizi o djeci predškolskog uzrasta | [`zakon/1990/884/`](zakon/1990/884/) | amending act | 1 | 1990-11-22 | 1990-11-22 |
+| Zakon o zabrani prijenosa prava raspolaganja i korištenja određenih nekretnina u društvenom vlasništvu na druge korisnike odnosno u vlasništvo fizičkih i pravnih osoba | [`zakon/1990/984/`](zakon/1990/984/) | amended, not consolidated | 1 | 1990-12-14 | 1990-12-14 |
+| Zakon o fondovima u stambenom i komunalnom gospodarstu | [`zakon/1990/985/`](zakon/1990/985/) | amended, not consolidated | 1 | 1990-12-14 | 1990-12-14 |
+| Zakon o porezu na promet nekretnina | [`zakon/1990/986/`](zakon/1990/986/) | repealed, not consolidated | 1 | 1990-12-22 | 1990-12-22 |
+| Zakon o Božićnom blagdanu | [`zakon/1990/987/`](zakon/1990/987/) | cited later, not consolidated | 1 | 1990-12-14 | 1990-12-14 |
 | Zakon o prestanku rada društvenog pravobranioca samoupravljanja | [`zakon/1990/989/`](zakon/1990/989/) | in force | 1 | 1990-12-22 | 1990-12-22 |
 | Zakon o prestanku rada sudova udruženog rada | [`zakon/1990/990/`](zakon/1990/990/) | in force | 1 | 1990-12-22 | 1990-12-22 |
 | Zakon o izmjenama Zakona o kinematografiji | [`zakon/1990/991/`](zakon/1990/991/) | in force | 1 | 1990-12-14 | 1990-12-14 |
 | Zakon o dopuni Zakona o samostalnom obavljanju privrednih djelatnosti osobnim radom | [`zakon/1990/992/`](zakon/1990/992/) | amending act | 1 | 1990-12-22 | 1990-12-22 |
+| Zakon o izmjenama i dopunama Zakona o građevinskom zemljištu | [`zakon/1990/993/`](zakon/1990/993/) | amending act | 1 | 1990-12-22 | 1990-12-22 |
 | Zakon o izmjenama i dopunama Zakona o Službi društvenog knjigovodstva u Socijalističkoj Republici Hrvatskoj | [`zakon/1990/994/`](zakon/1990/994/) | amending act | 1 | 1990-12-14 | 1990-12-14 |
 | Zakon o izvršenju Proračuna Republike Hrvatske za 1991. godinu | [`zakon/1990/1135/`](zakon/1990/1135/) | in force | 1 | 1991-01-01 | 1991-01-01 |
 | Zakon o financiranju javnih potreba | [`zakon/1990/1136/`](zakon/1990/1136/) | cited later, not consolidated | 1 | 1991-01-06 | 1991-01-06 |
@@ -32544,41 +32610,110 @@
 | Zakon o dopuni Zakona o političkim organizacijama | [`zakon/1990/1170/`](zakon/1990/1170/) | amended, not consolidated | 1 | 1991-01-08 | 1991-01-08 |
 | Zakon o izmjenama Zakona o premijama za mlijeko, vunu, konopljine stabljike, stabljike lana, te o nadoknadi razlike u cijeni za prodane količine konzumnog mlijeka | [`zakon/1990/1171/`](zakon/1990/1171/) | in force | 1 | 1991-01-01 | 1991-01-01 |
 | Zakon o izmjenama i dopuni Zakona o premijama za kvalitetni rasplodni podmladak i regresu troškova za umjetno osjemenjivanje stoke | [`zakon/1990/1172/`](zakon/1990/1172/) | amending act | 1 | 1991-01-01 | 1991-01-01 |
+| Zakon o dopuni Zakona o Vladi Republike Hrvatske | [`zakon/1991/188/`](zakon/1991/188/) | amended, not consolidated | 1 | 1991-02-21 | 1991-02-21 |
+| Zakon o osnivanju Javnog poduzeća "Astra" Međunarodna trgovina | [`zakon/1991/205/`](zakon/1991/205/) | repealed, not consolidated | 1 | 1991-03-01 | 1991-03-01 |
+| Zakon o "Fundaciji Ivana Meštrovića" | [`zakon/1991/206/`](zakon/1991/206/) | repealed, not consolidated | 1 | 1991-03-08 | 1991-03-08 |
+| Zakon o plaćanju doplatnih poštanskih maraka u poštanskom prometu na teritoriju Republike Hrvatske | [`zakon/1991/207/`](zakon/1991/207/) | amended, not consolidated | 1 | 1991-03-01 | 1991-03-01 |
+| Zakon o prestanku važenja Zakona o izdvajanju i raspoređivanju sredstava za zadovoljavanje stambenih potreba | [`zakon/1991/208/`](zakon/1991/208/) | amended, not consolidated | 1 | 1991-03-08 | 1991-03-08 |
 | Zakon o izmjenama Zakona o sudskim taksama | [`zakon/1991/209/`](zakon/1991/209/) | in force | 1 | 1991-03-08 | 1991-03-08 |
+| Zakon o izmjenama i dopunama Krivičnog zakona Socijalističke Republike Hrvatske | [`zakon/1991/210/`](zakon/1991/210/) | amending act | 1 | 1991-03-08 | 1991-03-08 |
 | Zakon o izmjenama Zakona o mirovinskom i invalidskom osiguranju | [`zakon/1991/211/`](zakon/1991/211/) | in force | 1 | 1991-03-08 | 1991-03-08 |
 | Zakon o dopunama Zakona o vodama | [`zakon/1991/212/`](zakon/1991/212/) | amending act | 1 | 1991-02-28 | 1991-02-28 |
+| Zakon o izmjenama i dopunama Zakona o morskom ribarstvu | [`zakon/1991/213/`](zakon/1991/213/) | amending act | 1 | 1991-03-08 | 1991-03-08 |
+| Zakon o izmjenama i dopunama Zakona o sigurnosti prometa na cestama | [`zakon/1991/214/`](zakon/1991/214/) | amended, not consolidated | 1 | 1991-03-08 | 1991-03-08 |
+| Zakon o izmjenama i dopunama Zakona o inspekciji rada | [`zakon/1991/215/`](zakon/1991/215/) | amended, not consolidated | 1 | 1991-03-08 | 1991-03-08 |
 | Zakon o izmjeni i dopuni Zakona o društvenoj brizi o djeci predškolskog uzrasta | [`zakon/1991/216/`](zakon/1991/216/) | amending act | 1 | 1991-02-28 | 1991-02-28 |
+| Zakon o izmjeni i dopuni Zakona o znanstvenoistraživačkoj djelatnosti | [`zakon/1991/217/`](zakon/1991/217/) | amended, not consolidated | 1 | 1991-03-08 | 1991-03-08 |
 | Zakon o izmjenama i dopunama Zakona o Narodnoj banci Hrvatske | [`zakon/1991/218/`](zakon/1991/218/) | amending act | 1 | 1991-03-08 | 1991-03-08 |
+| Zakon o dopunama Zakona o poljoprivrednom zemljištu | [`zakon/1991/219/`](zakon/1991/219/) | amended, not consolidated | 1 | 1991-03-08 | 1991-03-08 |
+| Zakon o izmjenama i dopuni Zakona o šumama | [`zakon/1991/220/`](zakon/1991/220/) | amending act | 1 | 1991-03-08 | 1991-03-08 |
+| Zakon o dopuni Zakona o stopama neposrednih poreza i pripadnosti poreza, taksa i drugih prihoda društveno-političkim zajednicama u 1991. godini | [`zakon/1991/221/`](zakon/1991/221/) | amending act | 1 | 1991-02-28 | 1991-02-28 |
+| Zakon o blagdanima i neradnim danima u Republici Hrvatskoj | [`zakon/1991/383/`](zakon/1991/383/) | repealed, not consolidated | 1 | 1991-03-25 | 1991-03-25 |
 | Zakon o izmjenama Zakona o formiranju i korištenju sredstava solidarnosti za poticanje zapošljavanja | [`zakon/1991/384/`](zakon/1991/384/) | in force | 1 | 1991-04-02 | 1991-04-02 |
+| Zakon o dopunama Zakona o Vladi Republike Hrvatske | [`zakon/1991/386/`](zakon/1991/386/) | amended, not consolidated | 1 | 1991-03-25 | 1991-03-25 |
 | Zakon o izmjenama i dopuni Zakona o neposrednim porezima | [`zakon/1991/387/`](zakon/1991/387/) | amending act | 1 | 1991-03-25 | 1991-03-25 |
 | Zakon o izmjenama i dopunema Zakona o Službi društvenog knjigovodstva u Republici Hrvatskoj | [`zakon/1991/388/`](zakon/1991/388/) | amending act | 1 | 1991-03-25 | 1991-03-25 |
 | Zakon o izmjeni Zakona o javnom tužilaštvu | [`zakon/1991/389/`](zakon/1991/389/) | in force | 1 | 1991-04-02 | 1991-04-02 |
+| Zakon o izmjeni i dopuni Zakona o redovnim sudovima | [`zakon/1991/390/`](zakon/1991/390/) | amending act | 1 | 1991-04-02 | 1991-04-02 |
+| Zakon o pretvorbi društvenih poduzeća | [`zakon/1991/590/`](zakon/1991/590/) | amended, not consolidated | 1 | 1991-05-01 | 1991-05-01 |
 | Zakon o izmjenama i dopunama Zakona o Agenciji Republike Hrvatske za restrukturiranje i razvoj | [`zakon/1991/591/`](zakon/1991/591/) | amending act | 1 | 1991-05-01 | 1991-05-01 |
 | Zakon o izmjenama i dopunama Zakona o Hrvatskom fondu za razvoj | [`zakon/1991/592/`](zakon/1991/592/) | amending act | 1 | 1991-05-01 | 1991-05-01 |
+| Zakon o dopuni Zakona o stopama neposrednih poreza i pripadnosti poreza, taksa i drugih prihoda društveno-političkim zajednicama u 1991. godini | [`zakon/1991/593/`](zakon/1991/593/) | amending act | 1 | 1991-05-01 | 1991-05-01 |
 | Zakon o izmjeni Zakona o plaćanju doprinosa za doplatak za djecu u 1991. godini | [`zakon/1991/594/`](zakon/1991/594/) | in force | 1 | 1991-05-01 | 1991-05-01 |
+| Zakon o izmjeni Zakona o plaćanju doprinosa za mirovinsko i invalidsko osiguranje radnika u 1991. godini | [`zakon/1991/595/`](zakon/1991/595/) | in force | 1 | 1991-04-23 | 1991-04-23 |
+| Zakon o izmjeni Zakona o zdravstvenoj zaštiti i zdravstvenom osiguranju | [`zakon/1991/596/`](zakon/1991/596/) | in force | 1 | 1991-04-23 | 1991-04-23 |
 | Zakon o prestanku važenja Zakona o udruživanju poljoprivrednika | [`zakon/1991/597/`](zakon/1991/597/) | in force | 1 | 1991-05-01 | 1991-05-01 |
+| Zakon o izmjenama i dopunama Zakona o unutarnjim poslovima | [`zakon/1991/598/`](zakon/1991/598/) | amending act | 1 | 1991-04-23 | 1991-04-23 |
+| Zakon o izmjenama i dopunama Zakona o zapošljavanju | [`zakon/1991/599/`](zakon/1991/599/) | amending act | 1 | 1991-04-23 | 1991-04-23 |
 | Zakon o izmjenama i dopunama Zakona o socijalnoj zaštiti | [`zakon/1991/600/`](zakon/1991/600/) | amending act | 1 | 1991-05-01 | 1991-05-01 |
+| Zakon o izmjenama i dopunama Zakona o zaštiti spomenika kulture | [`zakon/1991/601/`](zakon/1991/601/) | amending act | 1 | 1991-05-01 | 1991-05-01 |
+| Zakon o prodaji stanova na kojima postoji stanarsko pravo | [`zakon/1991/747/`](zakon/1991/747/) | amended, not consolidated | 1 | 1991-06-19 | 1991-06-19 |
+| Zakon o turističkim zajednicama i promicanju hrvatskog turizma | [`zakon/1991/748/`](zakon/1991/748/) | repealed, not consolidated | 1 | 1991-06-19 | 1991-06-19 |
+| Zakon o boravišnoj pristojbi | [`zakon/1991/749/`](zakon/1991/749/) | repealed, not consolidated | 1 | 1991-06-19 | 1991-06-19 |
+| Zakon o sanaciji i restrukturiranju banaka | [`zakon/1991/750/`](zakon/1991/750/) | repealed, not consolidated | 1 | 1991-06-11 | 1991-06-11 |
+| Zakon o izdavanju obveznica za restrukturiranje gospodarstva u Republici Hrvatskoj | [`zakon/1991/751/`](zakon/1991/751/) | in force | 1 | 1991-06-11 | 1991-06-11 |
+| Zakon o rudarstvu | [`zakon/1991/752/`](zakon/1991/752/) | amended, not consolidated | 1 | 1991-06-19 | 1991-06-19 |
+| Zakon o premijama za određene proizvode u poljoprivredi i regresu dijela kamata za prioritetne namjene u poljoprivredi | [`zakon/1991/753/`](zakon/1991/753/) | amended, not consolidated | 1 | 1991-06-19 | 1991-06-19 |
 | Zakon o osnivanju Javnog poduzeća "Jadrolinija" p. o. Rijeka | [`zakon/1991/754/`](zakon/1991/754/) | in force | 1 | 1991-06-19 | 1991-06-19 |
 | Zakon o osnivanju Javnog poduzeća "Kumrovec" | [`zakon/1991/755/`](zakon/1991/755/) | in force | 1 | 1991-06-11 | 1991-06-11 |
+| Zakon o Hrvatskom povijesnom muzeju | [`zakon/1991/756/`](zakon/1991/756/) | cited later, not consolidated | 1 | 1991-06-19 | 1991-06-19 |
+| Zakon o "Nagradi Vladimir Nazor" | [`zakon/1991/757/`](zakon/1991/757/) | cited later, not consolidated | 1 | 1991-06-19 | 1991-06-19 |
 | Zakon o ovlaštenju Vlade Republike Hrvatske za donošenje Uredbe o uređenju nekih pitanja obavljanja arhivske djelatnosti | [`zakon/1991/758/`](zakon/1991/758/) | in force | 1 | 1991-06-19 | 1991-06-19 |
 | Zakon o izmjeni Zakona o plaćanju doprinosa za mirovinsko i invalidsko osiguranje individualnih poljoprivrednika u 1991. godini | [`zakon/1991/759/`](zakon/1991/759/) | in force | 1 | 1991-06-19 | 1991-06-19 |
 | Zakon o dopuni Zakona o stopama neposrednih poreza i pripadnosti poreza, taksa i drugih prihoda društveno-političkim zajednicama u 1991. godini | [`zakon/1991/760/`](zakon/1991/760/) | amending act | 1 | 1991-06-11 | 1991-06-11 |
+| Zakon o poljoprivrednom zemljištu | [`zakon/1991/945/`](zakon/1991/945/) | amended, not consolidated | 1 | 1991-07-24 | 1991-07-24 |
+| Zakon o Hrvatskoj akademiji znanosti i umjetnosti | [`zakon/1991/946/`](zakon/1991/946/) | amended, not consolidated | 1 | 1991-07-24 | 1991-07-24 |
 | Zakon o prestanku važenja Zakona o "Nagradi dr. Marija Schlesinger" | [`zakon/1991/947/`](zakon/1991/947/) | in force | 1 | 1991-07-24 | 1991-07-24 |
 | Zakon o ovlaštenju Vlade Republike Hrvatske za donošenje uredbe o uređivanju određenih pitanja u obavljanju zaštite spomenika kulture, knjižničarske i muzejske djelatnosti | [`zakon/1991/948/`](zakon/1991/948/) | in force | 1 | 1991-07-24 | 1991-07-24 |
+| Zakon o pravima bivših političkih zatvorenika | [`zakon/1991/949/`](zakon/1991/949/) | amended, not consolidated | 1 | 1991-07-24 | 1991-07-24 |
+| Zakon o izmjenama i dopunama Zakona o javnim cestama | [`zakon/1991/950/`](zakon/1991/950/) | amending act | 1 | 1991-07-24 | 1991-07-24 |
 | Zakon o izmjenama Zakona o prostornom planiranju i uređivanju prostora | [`zakon/1991/951/`](zakon/1991/951/) | in force | 1 | 1991-07-24 | 1991-07-24 |
+| Zakon o izmjenama i dopunama Zakona o izgradnji objekata | [`zakon/1991/952/`](zakon/1991/952/) | amended, not consolidated | 1 | 1991-07-24 | 1991-07-24 |
+| Zakon o preuzimanju saveznih zakona iz oblasti radnih odnosa i zapošljavanja koji se u Republici Hrvatskoj primjenjuju kao republički zakoni | [`zakon/1991/953/`](zakon/1991/953/) | cited later, not consolidated | 1 | 1991-07-16 | 1991-07-16 |
 | Zakon o stavljanju izvan snage Zakona o osnovama sistema javnog informiranja | [`zakon/1991/954/`](zakon/1991/954/) | in force | 1 | 1991-07-16 | 1991-07-16 |
+| Zakon o izmjenama i dopunama Zakona o Hrvatskoj radio-televiziji | [`zakon/1991/972/`](zakon/1991/972/) | amending act | 1 | 1991-07-18 | 1991-07-18 |
+| Zakon o porezu na promet proizvoda i usluga | [`zakon/1991/993/`](zakon/1991/993/) | repealed, not consolidated | 1 | 1991-07-24 | 1991-07-24 |
+| Zakon o ovlaštenju Vlade Republike Hrvatske za donošenje uredbi kojima će uređivati pojedina pitanja iz djelokruga Sabora Republike Hrvatske | [`zakon/1991/1090/`](zakon/1991/1090/) | repealed, not consolidated | 1 | 1991-08-03 | 1991-08-03 |
+| Zakon o obrani | [`zakon/1991/1230/`](zakon/1991/1230/) | amended, not consolidated | 1 | 1991-09-20 | 1991-09-20 |
+| Zakon o preuzimanju saveznih zakona iz područja obrane koji se u Republici Hrvatskoj primjenjuju kao republički propisi | [`zakon/1991/1244/`](zakon/1991/1244/) | cited later, not consolidated | 1 | 1991-10-03 | 1991-10-03 |
+| Zakon o zdravstvenoj zaštiti životinja i veterinarskoj djelatnosti | [`zakon/1991/1245/`](zakon/1991/1245/) | amended, not consolidated | 1 | 1991-10-03 | 1991-10-03 |
+| Zakon o prebivalištu i boravištu građana | [`zakon/1991/1273/`](zakon/1991/1273/) | repealed, not consolidated | 1 | 1991-10-08 | 1991-10-08 |
+| Zakon o putnim ispravama hrvatskih državljana | [`zakon/1991/1274/`](zakon/1991/1274/) | amended, not consolidated | 1 | 1991-10-08 | 1991-10-08 |
+| Zakon o osobnoj iskaznici | [`zakon/1991/1275/`](zakon/1991/1275/) | amended, not consolidated | 1 | 1991-10-08 | 1991-10-08 |
+| Zakon o inozemnim poslovima | [`zakon/1991/1276/`](zakon/1991/1276/) | repealed, not consolidated | 1 | 1991-10-08 | 1991-10-08 |
+| Zakon o sklapanju i izvršavanju međunarodnih ugovora | [`zakon/1991/1277/`](zakon/1991/1277/) | repealed, not consolidated | 1 | 1991-10-08 | 1991-10-08 |
+| Zakon o kretanju i boravku stranaca | [`zakon/1991/1278/`](zakon/1991/1278/) | amended, not consolidated | 1 | 1991-10-08 | 1991-10-08 |
 | Zakon o izmjenama i dopunama Zakona o tržišnoj inspekciji | [`zakon/1991/1281/`](zakon/1991/1281/) | amending act | 1 | 1991-10-08 | 1991-10-08 |
+| Zakon o prijevozu u međunarodnom cestovnom prometu | [`zakon/1991/1282/`](zakon/1991/1282/) | cited later, not consolidated | 1 | 1991-10-08 | 1991-10-08 |
 | Zakon o preuzimanju saveznih zakona u oblasti poljoprivrede i šumarstva koji se u Republici Hrvatskoj primjenjuju kao republički zakoni | [`zakon/1991/1284/`](zakon/1991/1284/) | in force | 1 | 1991-10-08 | 1991-10-08 |
 | Zakon o preuzimanju saveznih zakona u oblasti pomorske i unutarnje plovidbe koji se u Republici Hrvatskoj primjenjuju kao republički zakoni | [`zakon/1991/1285/`](zakon/1991/1285/) | in force | 1 | 1991-10-08 | 1991-10-08 |
 | Zakon o preuzimanju Zakona o jedinstvenoj evidenciji prostornih jedinica koji se u Republici Hrvatskoj primjenjuje kao republički zakon | [`zakon/1991/1286/`](zakon/1991/1286/) | in force | 1 | 1991-10-08 | 1991-10-08 |
+| Zakon o preuzimanju saveznih zakona iz oblasti prometa i veza koji se u Republici Hrvatskoj primjenjuju kao republički zakoni | [`zakon/1991/1287/`](zakon/1991/1287/) | in force | 1 | 1991-10-08 | 1991-10-08 |
+| Zakon o preuzimanju saveznih zakona iz oblasti financija koji se u Republici Hrvatskoj primjenjuju kao republički zakoni | [`zakon/1991/1288/`](zakon/1991/1288/) | cited later, not consolidated | 1 | 1991-10-08 | 1991-10-08 |
 | Zakon o preuzimanju saveznih zakona iz područja organizacije i poslovanja gospodarskih subjekata koji se u Republici Hrvatskoj primjenjuju kao republički zakoni | [`zakon/1991/1289/`](zakon/1991/1289/) | in force | 1 | 1991-10-08 | 1991-10-08 |
 | Zakon o preuzimanju Zakona o prisilnoj nagodbi, stečaju i likvidaciji | [`zakon/1991/1290/`](zakon/1991/1290/) | in force | 1 | 1991-10-08 | 1991-10-08 |
+| Zakon o preuzimanju saveznih zakona iz oblasti zdravstva koji se u Republici Hrvatskoj primjenjuju kao republički zakoni | [`zakon/1991/1291/`](zakon/1991/1291/) | repealed, not consolidated | 1 | 1991-10-08 | 1991-10-08 |
+| Zakon o preuzimanju Zakona o unošenju i raspačavanju inozemnih sredstava masovnog komuniciranja i o inozemnoj informativnoj djelatnosti u Jugoslaviji koji se u Republici Hrvatskoj primjenjuje kao republički zakon | [`zakon/1991/1293/`](zakon/1991/1293/) | repealed, not consolidated | 1 | 1991-10-08 | 1991-10-08 |
+| Zakon o preuzimanju Zakona o krivičnom postupku | [`zakon/1991/1295/`](zakon/1991/1295/) | in force | 1 | 1991-10-08 | 1991-10-08 |
+| Zakon o preuzimanju Zakona o izvršnom postupku | [`zakon/1991/1296/`](zakon/1991/1296/) | in force | 1 | 1991-10-08 | 1991-10-08 |
+| Zakon o preuzimanju Zakona o upravnim sporovima | [`zakon/1991/1299/`](zakon/1991/1299/) | amended, not consolidated | 1 | 1991-10-08 | 1991-10-08 |
+| Zakon o preuzimanju Zakona o privrednim prijestupima | [`zakon/1991/1300/`](zakon/1991/1300/) | in force | 1 | 1991-10-08 | 1991-10-08 |
 | Zakon o preuzimanju Zakona o općem upravnom postupku u Republici Hrvatskoj | [`zakon/1991/1301/`](zakon/1991/1301/) | in force | 1 | 1991-10-08 | 1991-10-08 |
+| Zakon o preuzimanju Zakona o osnovnim vlasničkopravnim odnosima | [`zakon/1991/1302/`](zakon/1991/1302/) | cited later, not consolidated | 1 | 1991-10-08 | 1991-10-08 |
+| Zakon o preuzimanju Zakona o rješavanju sukoba zakona i sukoba nadležnosti u izvršenju kaznenih sankcija | [`zakon/1991/1303/`](zakon/1991/1303/) | repealed, not consolidated | 1 | 1991-10-08 | 1991-10-08 |
+| Zakon o preuzimanju Zakona o legalizaciji isprava u međunarodnom prometu | [`zakon/1991/1304/`](zakon/1991/1304/) | in force | 1 | 1991-10-08 | 1991-10-08 |
+| Zakon o preuzimanju Zakona o obveznim odnosima | [`zakon/1991/1305/`](zakon/1991/1305/) | amended, not consolidated | 1 | 1991-10-08 | 1991-10-08 |
 | Zakon o preuzimanju Zakona o rješavanju sukoba zakona i nadležnosti u statusnim, porodičnim i nasljednim odnosima | [`zakon/1991/1306/`](zakon/1991/1306/) | in force | 1 | 1991-10-08 | 1991-10-08 |
 | Zakon o preuzimanju Zakona o osnovama režima voda važnih za dvije ili više republika odnosno autonomnih pokrajina i o međunarodnim vodama koji se u Republici Hrvatskoj primjenjuje | [`zakon/1991/1308/`](zakon/1991/1308/) | in force | 1 | 1991-10-08 | 1991-10-08 |
+| Zakon o preuzimanju Zakona o mjernim jedinicama i mjerilima koji se u Republici Hrvatskoj primjenjuje kao republički zakon | [`zakon/1991/1309/`](zakon/1991/1309/) | in force | 1 | 1991-10-08 | 1991-10-08 |
 | Zakon o preuzimanju Zakona o standardizaciji koji se u Republici Hrvatskoj primjenjuje kao republički zakon | [`zakon/1991/1311/`](zakon/1991/1311/) | in force | 1 | 1991-10-08 | 1991-10-08 |
+| Zakon o preuzimanju Zakona o kontroli predmeta od dragocjenih kovina koji se u Republici Hrvatskoj primjenjuje kao republički zakon | [`zakon/1991/1312/`](zakon/1991/1312/) | repealed, not consolidated | 1 | 1991-10-08 | 1991-10-08 |
+| Zakon o preuzimanju saveznih zakona iz oblasti boračke zaštite koji se u Republici Hrvatskoj primjenjuju kao republički zakoni | [`zakon/1991/1313/`](zakon/1991/1313/) | in force | 1 | 1991-10-08 | 1991-10-08 |
+| Zakon o preuzimanju saveznih zakona iz oblasti mirovinskog i invalidskog osiguranja koji se u Republici Hrvatskoj primjenjuju kao republički zakoni | [`zakon/1991/1314/`](zakon/1991/1314/) | amended, not consolidated | 1 | 1991-10-08 | 1991-10-08 |
+| Zakon o preuzimanju saveznih zakona iz oblasti mirovinskog i invalidskog osiguranja i doplatka za djecu vojnih osiguranika koji se u Republici Hrvatskoj primjenjuju kao republički | [`zakon/1991/1315/`](zakon/1991/1315/) | amended, not consolidated | 1 | 1991-10-08 | 1991-10-08 |
 | Zakon o preuzimanju Zakona o zaštiti članova obitelji osoba na obveznoj vojnoj službi koji se u Republici Hrvatskoj primjenjuje kao republički zakon | [`zakon/1991/1316/`](zakon/1991/1316/) | in force | 1 | 1991-10-08 | 1991-10-08 |
 | Zakon o preuzimanju Zakona o zdravstvenom osiguranju vojnih osiguranika koji se u Republici Hrvatskoj primjenjuje kao republički zakon | [`zakon/1991/1317/`](zakon/1991/1317/) | in force | 1 | 1991-10-08 | 1991-10-08 |
+| Zakon o preuzimanju Zakona o osnovnim pravima vojnih invalida i obitelji palih boraca koji se u Republici Hrvatskoj primjenjuje kao republički zakon | [`zakon/1991/1318/`](zakon/1991/1318/) | cited later, not consolidated | 1 | 1991-10-08 | 1991-10-08 |
 | Zakon o stavljanju izvan snage Zakona o ekonomskim i drugim odnosima u proizvodnji i prometu naoružanja i vojne opreme | [`zakon/1991/1320/`](zakon/1991/1320/) | in force | 1 | 1991-10-08 | 1991-10-08 |
 | Zakon o stavljanju izvan snage Zakona o vojnim pomorskim zastavama Socijalističke Federativne Republike Jugoslavije i komandnim i rangovnim zastavama | [`zakon/1991/1321/`](zakon/1991/1321/) | in force | 1 | 1991-10-08 | 1991-10-08 |
 | Zakon o stavljanju izvan snage Zakona o vojnim školama i znanstveno-istraživačkim ustanovama Jugoslavenske narodne armije | [`zakon/1991/1322/`](zakon/1991/1322/) | in force | 1 | 1991-10-08 | 1991-10-08 |
@@ -32598,54 +32733,136 @@
 | Zakon o stavljanju izvan snage Zakona o saveznoj tržišnoj inspekciji | [`zakon/1991/1338/`](zakon/1991/1338/) | in force | 1 | 1991-10-08 | 1991-10-08 |
 | Zakon o stavljanju izvan snage Zakona o boračkom doplatku | [`zakon/1991/1339/`](zakon/1991/1339/) | in force | 1 | 1991-10-08 | 1991-10-08 |
 | Zakon o stavljanju izvan snage Zakona o osnovnim pravima osoba odlikovanih Ordenom Karađorđeve zvijezde s mačevima, Ordenom bijelog orla s mačevima i Zlatnom medaljom Obilića | [`zakon/1991/1340/`](zakon/1991/1340/) | in force | 1 | 1991-10-08 | 1991-10-08 |
+| Zakon o utvrđivanju ratne štete | [`zakon/1991/1596/`](zakon/1991/1596/) | cited later, not consolidated | 1 | 1991-11-19 | 1991-11-19 |
+| Zakon o Hrvatskom Crvenom križu | [`zakon/1991/1597/`](zakon/1991/1597/) | replaced, not consolidated | 1 | 1991-11-27 | 1991-11-27 |
+| Zakon o kazalištima | [`zakon/1991/1598/`](zakon/1991/1598/) | repealed, not consolidated | 1 | 1991-11-27 | 1991-11-27 |
+| Zakon o "Nagradi Ivan Filipović" | [`zakon/1991/1599/`](zakon/1991/1599/) | repealed, not consolidated | 1 | 1991-11-27 | 1991-11-27 |
+| Zakon o članarinama u turističkim zajednicama | [`zakon/1991/1600/`](zakon/1991/1600/) | amended, not consolidated | 1 | 1991-11-27 | 1991-11-27 |
+| Zakon o igrama na sreću i zabavnim igrama | [`zakon/1991/1601/`](zakon/1991/1601/) | repealed, not consolidated | 1 | 1991-11-27 | 1991-11-27 |
 | Zakon o izmjeni Zakona o zabrani prijenosa prava raspolaganja i korištenja određenih nekretnina a društvenom vlasništvu na druge korisnike odnosno u vlasništvo fizičkih i pravnih osoba | [`zakon/1991/1602/`](zakon/1991/1602/) | in force | 1 | 1991-11-19 | 1991-11-19 |
+| Zakon o izmjenama zakona kojima su osnovana javna poduzeća | [`zakon/1991/1603/`](zakon/1991/1603/) | amended, not consolidated | 1 | 1991-11-19 | 1991-11-19 |
 | Zakon o dopuni Zakona o prostornom planiranju I uredivanju prostora | [`zakon/1991/1604/`](zakon/1991/1604/) | amending act | 1 | 1991-11-19 | 1991-11-19 |
 | Zakon o izmjeni i dopuni Zakona o koncesijama | [`zakon/1991/1605/`](zakon/1991/1605/) | amending act | 1 | 1991-11-27 | 1991-11-27 |
+| Zakon o izmjeni i dopuni Zakona o porezu na promet | [`zakon/1991/1606/`](zakon/1991/1606/) | amended, not consolidated | 1 | 1991-11-19 | 1991-11-19 |
+| Zakon o izmjenama i dopunama Zakona o ustrojstvu republičke uprave | [`zakon/1991/1608/`](zakon/1991/1608/) | amended, not consolidated | 1 | 1991-11-19 | 1991-11-19 |
+| Zakon o izmjenama i dopunama Zakona o morskom ribarstvu | [`zakon/1991/1609/`](zakon/1991/1609/) | amending act | 1 | 1991-11-27 | 1991-11-27 |
+| Zakon o privremenom korištenju stanova | [`zakon/1991/1685/`](zakon/1991/1685/) | amended, not consolidated | 1 | 1991-12-09 | 1991-12-09 |
+| Zakon o Hrvatskoj gospodarskoj komori | [`zakon/1991/1686/`](zakon/1991/1686/) | repealed, not consolidated | 1 | 1991-12-17 | 1991-12-17 |
 | Zakon o izmjenama i dopunama Zakona o izvršavanju Proračuna Republike Hrvatske za 1991. godinu | [`zakon/1991/1688/`](zakon/1991/1688/) | amending act | 1 | 1991-12-09 | 1991-12-09 |
 | Zakon o izmjeni i dopuni Zakona o redovnim sudovima | [`zakon/1991/1689/`](zakon/1991/1689/) | amending act | 1 | 1991-12-17 | 1991-12-17 |
 | Zakon o izmjeni i dopuni Zakona o javnom tužilaštvu | [`zakon/1991/1690/`](zakon/1991/1690/) | amending act | 1 | 1991-12-17 | 1991-12-17 |
 | Zakon o zajmu Republike Hrvatske za financiranje javnih potreba u 1992. godini | [`zakon/1991/1878/`](zakon/1991/1878/) | in force | 1 | 1991-12-31 | 1991-12-31 |
+| Zakon o pripadnosti javnih prihoda Republici Hrvatskoj i jedinicama lokalne samouprave i stopama republičkih poreza | [`zakon/1991/1879/`](zakon/1991/1879/) | amended, not consolidated | 1 | 1991-12-31 | 1991-12-31 |
 | Zakon o plaćanju doprinosa za mirovinsko i invalidsko osiguranje radnika u 1992. godini | [`zakon/1991/1880/`](zakon/1991/1880/) | in force | 1 | 1991-12-31 | 1991-12-31 |
 | Zakon o plaćanju doprinosa za mirovinsko i invalidsko osiguranje samostalnih privrednika u 1992. godini | [`zakon/1991/1881/`](zakon/1991/1881/) | in force | 1 | 1991-12-31 | 1991-12-31 |
 | Zakon o plaćanju doprinosa za mirovinsko i invalidsko osiguranje individualnih poljoprivrednika u 1992. godini | [`zakon/1991/1882/`](zakon/1991/1882/) | in force | 1 | 1991-12-31 | 1991-12-31 |
 | Zakon o plaćanju doprinosa za doplatak za djecu u 1982. godini | [`zakon/1991/1883/`](zakon/1991/1883/) | in force | 1 | 1991-12-31 | 1991-12-31 |
 | Zakon o načinu primjene pravnih propisa donesenih prije 6. travnja 1941. godine | [`zakon/1991/1884/`](zakon/1991/1884/) | in force | 1 | 1991-12-31 | 1991-12-31 |
+| Zakon o izmjenama i dopunama Zakona o porezu na promet proizvoda i usluga | [`zakon/1991/1885/`](zakon/1991/1885/) | amended, not consolidated | 1 | 1991-12-31 | 1991-12-31 |
 | Zakon o izmjenama i dopunama Zakona o neposrednim porezima | [`zakon/1991/1886/`](zakon/1991/1886/) | amending act | 1 | 1991-12-31 | 1991-12-31 |
+| Zakon o izmjenama i dopunama Zakona o ustrojstvu republičke uprave | [`zakon/1991/1887/`](zakon/1991/1887/) | amended, not consolidated | 1 | 1991-12-31 | 1991-12-31 |
 | Zakon o izmjeni i dopuni Zakona o preuzimanju Zakona o obveznim odnosima | [`zakon/1991/1888/`](zakon/1991/1888/) | amending act | 1 | 1991-12-31 | 1991-12-31 |
 | Zakon o izmjeni i dopuni Zakona o eksproprijaciji | [`zakon/1991/1889/`](zakon/1991/1889/) | amending act | 1 | 1991-12-31 | 1991-12-31 |
 | Zakon o izmjeni Zakona o Hrvatskoj gospodarskoj komori | [`zakon/1991/1890/`](zakon/1991/1890/) | in force | 1 | 1991-12-31 | 1991-12-31 |
+| Zakon o dopunama Zakona o preuzimanju saveznih zakona iz područja trgovine, tržišta i cijena koji se u Republici Hrvatskoj primjenjuju kao republički zakoni | [`zakon/1991/1891/`](zakon/1991/1891/) | amended, not consolidated | 1 | 1991-12-31 | 1991-12-31 |
 | Zakon o izmjeni Zakona o prestanku važenja Zakona o izdvajanju i raspoređivanju sredstava za zadovoljavanje stambenih potreba | [`zakon/1991/1892/`](zakon/1991/1892/) | in force | 1 | 1991-12-31 | 1991-12-31 |
 | Zakon o izmjenama i dopunama Zakona o sklapanju i izvršavanju međunarodnih ugovora | [`zakon/1991/1893/`](zakon/1991/1893/) | amending act | 1 | 1991-12-31 | 1991-12-31 |
 | Zakon o izmjenama i dopunama Zakona o preuzimanju saveznih zakona iz oblasti mirovinskog i invalidskog osiguranja i doplatka za djecu vojnih osiguranika koji se u Republici Hrvatskoj primjenjuju kao republički zakoni | [`zakon/1991/1894/`](zakon/1991/1894/) | amending act | 1 | 1991-12-31 | 1991-12-31 |
+| Zakon o izmjenama i dopunama Zakona o unutarnjim poslovima | [`zakon/1991/1895/`](zakon/1991/1895/) | amending act | 1 | 1991-12-31 | 1991-12-31 |
+| Zakon o izmjeni Zakona o obrani | [`zakon/1991/1896/`](zakon/1991/1896/) | in force | 1 | 1991-12-31 | 1991-12-31 |
+| Zakon o nadzoru državne granice | [`zakon/1992/144/`](zakon/1992/144/) | amended, not consolidated | 1 | 1992-02-29 | 1992-02-29 |
+| Zakon o matičnom broju | [`zakon/1992/145/`](zakon/1992/145/) | repealed, not consolidated | 1 | 1992-02-21 | 1992-02-21 |
 | Zakon o izmjeni i dopuni Zakona o osobnoj iskaznici | [`zakon/1992/146/`](zakon/1992/146/) | amending act | 1 | 1992-02-21 | 1992-02-21 |
+| Zakon o izmjeni Zakona o Vladi Republike Hrvatske | [`zakon/1992/147/`](zakon/1992/147/) | amended, not consolidated | 1 | 1992-02-29 | 1992-02-29 |
+| Zakon o izmjeni Zakona o područjima općina u Republici Hrvatskoj | [`zakon/1992/149/`](zakon/1992/149/) | amended, not consolidated | 1 | 1992-02-21 | 1992-02-21 |
+| Zakon o izvršenju Državnog proračuna Republike Hrvatske za 1992. godinu | [`zakon/1992/404/`](zakon/1992/404/) | amended, not consolidated | 1 | 1992-03-31 | 1992-03-31 |
 | Zakon o izmjeni i dopuni Zakona o pripadnosti javnih prihoda Republike i Hrvatskoj i jedinicama lokalne samouprave i stopama republičkih poreza | [`zakon/1992/405/`](zakon/1992/405/) | amending act | 1 | 1992-03-31 | 1992-03-31 |
+| Zakon o izmjenama i dopunama Zakona o porezu na promet proizvoda i usluga | [`zakon/1992/406/`](zakon/1992/406/) | amended, not consolidated | 1 | 1992-04-08 | 1992-04-08 |
+| Zakon o izmjeni Zakona o zdravstvenoj zaštiti i zdravstvenom osiguranju | [`zakon/1992/407/`](zakon/1992/407/) | in force | 1 | 1992-03-31 | 1992-03-31 |
 | Zakon o izmjeni Zakona o preuzimanju saveznog zakona iz oblasti mirovinskog i invalidskog osiguranja vojnih osiguranika koji se u Republici Hrvatskoj primjenjuje kao republički zakon | [`zakon/1992/408/`](zakon/1992/408/) | in force | 1 | 1992-03-31 | 1992-03-31 |
 | Zakon o prestanku važenja Zakona o ovlaštenju Vlade Republike Hrvatske za donošenje uredbi kojima će uređivati pojedina pitanja iz djelokruga Sabora Republike Hrvatske | [`zakon/1992/409/`](zakon/1992/409/) | in force | 1 | 1992-03-31 | 1992-03-31 |
+| Zakon o zapošljavanju stranaca | [`zakon/1992/424/`](zakon/1992/424/) | amended, not consolidated | 1 | 1992-04-10 | 1992-04-10 |
+| Zakon o popisima birača | [`zakon/1992/425/`](zakon/1992/425/) | repealed, not consolidated | 1 | 1992-04-10 | 1992-04-10 |
 | Zakon o izmjenama i dopunama Zakona o radnim odnosima | [`zakon/1992/426/`](zakon/1992/426/) | amending act | 1 | 1992-04-10 | 1992-04-10 |
+| Zakon o izmjenama i dopunama Zakona o hrvatskim željeznicama | [`zakon/1992/428/`](zakon/1992/428/) | amending act | 1 | 1992-04-10 | 1992-04-10 |
 | Zakon o izmjeni Zakona obrani | [`zakon/1992/429/`](zakon/1992/429/) | in force | 1 | 1992-04-10 | 1992-04-10 |
 | Zakon o izmjeni Zakona o unutarnjim poslovima | [`zakon/1992/430/`](zakon/1992/430/) | in force | 1 | 1992-04-10 | 1992-04-10 |
+| Zakon o izborima zastupnika u Sabor Republike Hrvatske | [`zakon/1992/489/`](zakon/1992/489/) | repealed, not consolidated | 1 | 1992-04-25 | 1992-04-25 |
+| Zakon o javnom informiranju | [`zakon/1992/490/`](zakon/1992/490/) | amended, not consolidated | 1 | 1992-04-25 | 1992-04-25 |
+| Zakon o javnom okupljanju | [`zakon/1992/491/`](zakon/1992/491/) | repealed, not consolidated | 1 | 1992-04-25 | 1992-04-25 |
+| Zakon o Hrvatskom registru brodova | [`zakon/1992/492/`](zakon/1992/492/) | repealed, not consolidated | 1 | 1992-04-25 | 1992-04-25 |
+| Zakon o izmjenama i dopunama Zakona o stambenim odnosima | [`zakon/1992/493/`](zakon/1992/493/) | amending act | 1 | 1992-04-17 | 1992-04-17 |
+| Zakon o dopunama Zakona o ustrojstvu republičke uprave | [`zakon/1992/494/`](zakon/1992/494/) | amended, not consolidated | 1 | 1992-04-17 | 1992-04-17 |
 | Zakon o izmjenama Zakona o javnom tužilaštvu | [`zakon/1992/495/`](zakon/1992/495/) | in force | 1 | 1992-04-25 | 1992-04-25 |
 | Zakon o izmjenama i dopunama Zakona o povlasticama slijepih osoba, osoba oboljelih od distrofije i srodnih mišićnih i neuromišićnih bolesti kao i osoba oboljelih od multiple skleroze i njihovih pratil | [`zakon/1992/496/`](zakon/1992/496/) | amending act | 1 | 1992-04-25 | 1992-04-25 |
 | Zakon o izmjeni Zakona o morskom ribarstvu | [`zakon/1992/497/`](zakon/1992/497/) | in force | 1 | 1992-04-25 | 1992-04-25 |
+| Zakon o izmjeni Zakona o područjima općina u Republici Hrvatskoj | [`zakon/1992/498/`](zakon/1992/498/) | amended, not consolidated | 1 | 1992-04-17 | 1992-04-17 |
 | Zakon o prestanku važenja Uredbe o uvjetima i načinu utvrđivanja evidencijske devizne pozicije za određene zajedničke potrebe | [`zakon/1992/674/`](zakon/1992/674/) | in force | 1 | 1992-05-18 | 1992-05-18 |
 | Zakon o dopunama Zakona o sudskim taksama | [`zakon/1992/676/`](zakon/1992/676/) | amending act | 1 | 1992-05-26 | 1992-05-26 |
 | Zakon o izmjenama i dopunama Zakona o poljoprivrednom sjemenu i poljoprivrednom sadnom materijalu | [`zakon/1992/678/`](zakon/1992/678/) | amending act | 1 | 1992-05-26 | 1992-05-26 |
+| Zakon o izmjenama i dopunama Zakona o preuzimanju zakona iz podrućja trgovine, tržišta i cijena koji se u Republici Hrvatskoj primjenjuju kao republički zakoni | [`zakon/1992/719/`](zakon/1992/719/) | amending act | 1 | 1992-05-27 | 1992-05-27 |
+| Zakon o izbornim jedinicama za Zastupnički dom Sabora Republike Hrvatske | [`zakon/1992/814/`](zakon/1992/814/) | repealed, not consolidated | 1 | 1992-06-12 | 1992-06-12 |
+| Zakon o financiranju obnove | [`zakon/1992/815/`](zakon/1992/815/) | in force | 1 | 1992-06-12 | 1992-06-12 |
+| Zakon o Hrvatskoj kreditnoj banci za obnovu | [`zakon/1992/816/`](zakon/1992/816/) | amended, not consolidated | 1 | 1992-06-12 | 1992-06-12 |
+| Zakon o zaštiti vojnih i civilnih invalida rata | [`zakon/1992/818/`](zakon/1992/818/) | amended, not consolidated | 1 | 1992-07-01 | 1992-07-01 |
+| Zakon o Deviznom inspektoratu Republike Hrvatske | [`zakon/1992/819/`](zakon/1992/819/) | repealed, not consolidated | 1 | 1992-06-12 | 1992-06-12 |
 | Zakon o iznimnom korištenju određenih statističkih podataka | [`zakon/1992/821/`](zakon/1992/821/) | in force | 1 | 1992-06-12 | 1992-06-12 |
+| Zakon o izmjenama i dopunama Zakona o prodaji stanova na kojima postoji stanarsko pravo | [`zakon/1992/822/`](zakon/1992/822/) | amended, not consolidated | 1 | 1992-06-20 | 1992-06-20 |
 | Zakon o izmjenama Zakona o izvršenju Državnog proračuna Republike Hrvatske za 1992. godinu | [`zakon/1992/823/`](zakon/1992/823/) | in force | 1 | 1992-06-12 | 1992-06-12 |
 | Zakon o izmjenama i dopunama Zakona o kvaliteti, kontroli kvalitete i prometu umjetnih gnojiva | [`zakon/1992/824/`](zakon/1992/824/) | amending act | 1 | 1992-06-20 | 1992-06-20 |
+| Zakon o izmjenama i dopunama Zakona o računovodstvu | [`zakon/1992/825/`](zakon/1992/825/) | amending act | 1 | 1992-06-12 | 1992-06-12 |
+| Zakon o izmjenama i dopunama Carinskog zakona | [`zakon/1992/826/`](zakon/1992/826/) | amending act | 1 | 1992-06-20 | 1992-06-20 |
 | Zakon o izmjeni i dopuni Zakona o unutarnjim poslovima | [`zakon/1992/827/`](zakon/1992/827/) | amending act | 1 | 1992-06-20 | 1992-06-20 |
+| Zakon o izmjeni Zakona o zapošljavanju stranaca | [`zakon/1992/828/`](zakon/1992/828/) | in force | 1 | 1992-06-12 | 1992-06-12 |
 | Zakon o izmjeni Zakona o Hrvatskoj radio-televiziji | [`zakon/1992/829/`](zakon/1992/829/) | in force | 1 | 1992-06-20 | 1992-06-20 |
+| Zakon o izmjeni Krivičnog zakona Republike Hrvatske | [`zakon/1992/830/`](zakon/1992/830/) | amended, not consolidated | 1 | 1992-06-20 | 1992-06-20 |
 | Zakon o dopunama Zakona o spajanju općina s područja Gradske zajednice Zagreb i prestanku Gradske zajednice Zagreb | [`zakon/1992/831/`](zakon/1992/831/) | amending act | 1 | 1992-06-20 | 1992-06-20 |
+| Zakon o određivanju kada prestaju vrijediti uredbe Vlade Republike Hrvatske donesene na temelju zakonske ovlasti i ovlaštenju Vlade da uredbama uređuje pojedina pitanja iz djelokruga Sabora Republike | [`zakon/1992/989/`](zakon/1992/989/) | in force | 1 | 1992-06-26 | 1992-06-26 |
+| Zakon o pravima zastupnika u Saboru Republike Hrvatske | [`zakon/1992/990/`](zakon/1992/990/) | amended, not consolidated | 1 | 1992-07-04 | 1992-07-04 |
 | Zakon o dopuni Zakona o matičnim knjigama | [`zakon/1992/992/`](zakon/1992/992/) | amending act | 1 | 1992-06-26 | 1992-06-26 |
 | Zakon o dopuni Zakona o javnom tužilaštvu | [`zakon/1992/995/`](zakon/1992/995/) | amending act | 1 | 1992-07-04 | 1992-07-04 |
+| Zakon o ustrojstvu i djelokrugu ministarstva i drugih organa državne uprave | [`zakon/1992/1451/`](zakon/1992/1451/) | amended, not consolidated | 1 | 1992-09-11 | 1992-09-11 |
+| Zakon o izmjenama i dopunama Zakona o Vladi Republike Hrvatske | [`zakon/1992/1452/`](zakon/1992/1452/) | amended, not consolidated | 1 | 1992-09-11 | 1992-09-11 |
+| Zakon o dopuni Zakona o obrani | [`zakon/1992/1453/`](zakon/1992/1453/) | amending act | 1 | 1992-09-11 | 1992-09-11 |
+| Zakon o oprostu od krivičnog progona i postupka za krivična djela počinjena u oružanim sukobima i u ratu protiv Republike Hrvatske | [`zakon/1992/1563/`](zakon/1992/1563/) | replaced, not consolidated | 1 | 1992-09-22 | 1992-09-22 |
+| Zakon o oprostu od krivičnog progona i postupka za krivična djela počinjena u oružanim sukobima i u ratu protiv Republike Hrvatske | [`zakon/1992/1564/`](zakon/1992/1564/) | amended, not consolidated | 1 | 1992-09-25 | 1992-09-25 |
 | Zakon o stavljanju izvan snage Zakona o osnivanju Javnog poduzeća "Astra" - Međunarodna trgovina | [`zakon/1992/1579/`](zakon/1992/1579/) | in force | 1 | 1992-10-09 | 1992-10-09 |
+| Zakon o utvrđivanju plaće i drugih primanja dužnosnika | [`zakon/1992/1580/`](zakon/1992/1580/) | amended, not consolidated | 1 | 1992-10-09 | 1992-10-09 |
+| Zakon o pučkom pravobranitelju | [`zakon/1992/1581/`](zakon/1992/1581/) | repealed, not consolidated | 1 | 1992-10-09 | 1992-10-09 |
+| Zakon o zdravstvenoj ispravnosti i zdravstvenom nadzoru nad namirnicama i predmetima opće uporabe | [`zakon/1992/1583/`](zakon/1992/1583/) | repealed, not consolidated | 1 | 1992-10-09 | 1992-10-09 |
+| Zakon o športu | [`zakon/1992/1584/`](zakon/1992/1584/) | repealed, not consolidated | 1 | 1992-10-09 | 1992-10-09 |
 | Zakon o izdavanju obveznica za prikupljanje sredstava za obnovu Republike Hrvatske | [`zakon/1992/1820/`](zakon/1992/1820/) | in force | 1 | 1992-10-30 | 1992-10-30 |
 | Zakon o pretvorbi kapitala društava osiguranja i reosiguranja u Republici Hrvatskoj | [`zakon/1992/1821/`](zakon/1992/1821/) | in force | 1 | 1992-10-30 | 1992-10-30 |
+| Zakon o izmjenama i dopunama Zakona o prodaji stanova na kojima postoji stanarsko pravo | [`zakon/1992/1824/`](zakon/1992/1824/) | amended, not consolidated | 1 | 1992-10-30 | 1992-10-30 |
+| Zakon o ovlasti Vlade Republike Hrvatske da donosi uredbe kojima se uređuju pojedina pitanja iz djelokruga Sabora Republike Hrvatske | [`zakon/1992/1965/`](zakon/1992/1965/) | cited later, not consolidated | 1 | 1992-11-04 | 1992-11-04 |
+| Zakon o Narodnoj banci Hrvatske | [`zakon/1992/1966/`](zakon/1992/1966/) | amended, not consolidated | 1 | 1992-11-04 | 1992-11-04 |
+| Zakon o izmjenama i dopunama zakona o pravima zastupnika u Saboru Republike Hrvatske | [`zakon/1992/1990/`](zakon/1992/1990/) | amended, not consolidated | 1 | 1992-11-13 | 1992-11-13 |
+| Zakon o izmjeni i dopuni Zakona o utvrđivanju plaće i drugih primanja dužnosnika | [`zakon/1992/1991/`](zakon/1992/1991/) | amending act | 1 | 1992-11-05 | 1992-11-05 |
+| Zakon o sigurnosti u željezničkom prometu | [`zakon/1992/2017/`](zakon/1992/2017/) | repealed, not consolidated | 1 | 1992-11-21 | 1992-11-21 |
+| Zakon o prijevozu u unutarnjem cestovnom prometu | [`zakon/1992/2018/`](zakon/1992/2018/) | cited later, not consolidated | 1 | 1992-11-21 | 1992-11-21 |
+| Zakon o građenju | [`zakon/1992/2019/`](zakon/1992/2019/) | repealed, not consolidated | 1 | 1992-11-21 | 1992-11-21 |
+| Zakon o izmjenama i dopunama Zakona o zaštiti vojnih i civilnih invalida rata | [`zakon/1992/2020/`](zakon/1992/2020/) | amended, not consolidated | 1 | 1992-11-13 | 1992-11-13 |
 | Zakon o dopuni Zakona o trgovini | [`zakon/1992/2021/`](zakon/1992/2021/) | amending act | 1 | 1992-11-13 | 1992-11-13 |
 | Zakon o izmjenama Zakona o preuzimanju Zakona o upravnim sporovima | [`zakon/1992/2022/`](zakon/1992/2022/) | in force | 1 | 1992-11-13 | 1992-11-13 |
+| Zakon o izmjenama Krivičnog zakona Republike Hrvatske | [`zakon/1992/2023/`](zakon/1992/2023/) | amended, not consolidated | 1 | 1992-11-13 | 1992-11-13 |
+| Zakon o humanitarnoj pomoći | [`zakon/1992/2176/`](zakon/1992/2176/) | replaced, not consolidated | 1 | 1992-12-10 | 1992-12-10 |
 | Zakon o izmjenama i dopunama Zakona o javnom pravobranilaštvu | [`zakon/1992/2177/`](zakon/1992/2177/) | amending act | 1 | 1992-12-10 | 1992-12-10 |
+| Zakon o izmjenama i dopunama Zakona o pretvorbi društvenih poduzeća | [`zakon/1992/2178/`](zakon/1992/2178/) | amending act | 1 | 1992-12-02 | 1992-12-02 |
+| Zakon o sigurnosti prometa na cestama | [`zakon/1992/2182/`](zakon/1992/2182/) | repealed, not consolidated | 1 | 1993-01-03 | 1993-01-03 |
+| Zakon o Hrvatskom fondu za privatizaciju | [`zakon/1992/2183/`](zakon/1992/2183/) | amended, not consolidated | 1 | 1992-12-12 | 1992-12-12 |
+| Zakon o prihvaćanju članstva Republike Hrvatske u Međunarodnom monetarnom fondu i drugim međunarodnim financijskim organizacijama na temelju sukcesije | [`zakon/1992/2303/`](zakon/1992/2303/) | cited later, not consolidated | 1 | 1992-12-28 | 1992-12-28 |
+| Zakon o financijskoj policiji | [`zakon/1992/2304/`](zakon/1992/2304/) | repealed, not consolidated | 1 | 1992-12-28 | 1992-12-28 |
+| Zakon o koncesijama | [`zakon/1992/2305/`](zakon/1992/2305/) | amended, not consolidated | 1 | 1993-01-05 | 1993-01-05 |
 | Zakon o izmjeni i dopuni Zakona o zapošljavanju stranaca | [`zakon/1992/2306/`](zakon/1992/2306/) | amending act | 1 | 1992-12-28 | 1992-12-28 |
+| Zakon o reviziji | [`zakon/1992/2332/`](zakon/1992/2332/) | amended, not consolidated | 1 | 1992-12-30 | 1992-12-30 |
+| Zakon o područjima županija, gradova i općina u Republici Hrvatskoj | [`zakon/1992/2333/`](zakon/1992/2333/) | repealed, not consolidated | 1 | 1992-12-30 | 1992-12-30 |
+| Zakon o lokalnoj samoupravi i upravi | [`zakon/1992/2334/`](zakon/1992/2334/) | repealed, not consolidated | 1 | 1992-12-30 | 1992-12-30 |
+| Zakon o Gradu Zagrebu | [`zakon/1992/2335/`](zakon/1992/2335/) | amended, not consolidated | 1 | 1992-12-30 | 1992-12-30 |
+| Zakon o izmjenama Zakona o parničnom postupku | [`zakon/1992/2357/`](zakon/1992/2357/) | amended, not consolidated | 1 | 1993-01-08 | 1993-01-08 |
+| Zakon o izmjenama i dopunama Krivičnog zakona Republike Hrvatske | [`zakon/1992/2360/`](zakon/1992/2360/) | amended, not consolidated | 1 | 1993-01-08 | 1993-01-08 |
 | Zakon o izmjenama i đopunama Zakona o prekršajima | [`zakon/1992/2364/`](zakon/1992/2364/) | in force | 1 | 1992-12-31 | 1992-12-31 |
+| Zakon o obilježavanju i održavanju groblja i grobova poginulih i umrlih interniraca, pripadnika stranih oružanih sila, političkih i ratnih zarobljenika na području Republike Hrvatske u I. i II. svjetskom ratu | [`zakon/1992/2365/`](zakon/1992/2365/) | cited later, not consolidated | 1 | 1993-01-08 | 1993-01-08 |
+| Zakon o pretvorbi i organiziranju poduzeća u komunalnim djelatnostima i djelatnostima uređenja naselja i prostora; prijevoza putnika u gradskom i prigradskom prometu i djelatnosti uređenja i održavanj | [`zakon/1992/2366/`](zakon/1992/2366/) | in force | 1 | 1992-12-31 | 1992-12-31 |
 | Zakon o plaćanju doprinosa za mirovinsko i invalidsko osiguranje radnika u 1993. godini | [`zakon/1992/2367/`](zakon/1992/2367/) | in force | 1 | 1992-12-31 | 1992-12-31 |
 | Zakon o plaćanju doprinosa za doplatak za djecu isplatu plaća. u 1993. godini | [`zakon/1992/2370/`](zakon/1992/2370/) | in force | 1 | 1992-12-31 | 1992-12-31 |
 | Zakon o izmjenama i dopunama Zakona a izborima zastupnika u Sabor Republike Hrvatske | [`zakon/1993/3/`](zakon/1993/3/) | amending act | 1 | 1993-01-06 | 1993-01-06 |
