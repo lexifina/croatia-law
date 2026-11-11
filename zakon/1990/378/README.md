@@ -1,23 +1,20 @@
 # Zakon o zapošljavanju
 
-Zakon o zapošljavanju · 1 versions, from 1990-05-11 (latest in force: 1990-05-11) · <https://narodne-novine.nn.hr/eli/sluzbeni/1990/19/378>
+Zakon o zapošljavanju · 2 versions, from 1990-05-11 (latest in force: 1990-10-14) · <https://narodne-novine.nn.hr/eli/sluzbeni/1990/19/378>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
-| Prilog | [prilog.md](prilog.md) | 0 |  |
-| Tekst | [tekst.md](tekst.md) | 0 |  |
+| Tekst | [tekst.md](tekst.md) | 1 | 1990-10-14 |
 
 Act id: `zakon-1990-378` (tags `zakon-1990-378/<day>`; `python registry/tools/on.py <day> zakon-1990-378`).
 
 ## Status
 
-**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+**amended after consolidation, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
 
 Amended or repealed by:
 
-- [Zakon o izmjenama i dopunama Zakona o zapošljavanju (NN 40/1990)](https://narodne-novine.nn.hr/eli/sluzbeni/1990/40/747)
-- [Zakon o zapošljavanju (pročišćeni tekst) (NN 55/1990)](https://narodne-novine.nn.hr/eli/sluzbeni/1990/55/1068)
 - [Ukaz o proglašenju Zakona o izmjenama i dopunama zakona kojima su određene novčane kazne za privredne prijestupe i prekršaje (NN 26/1993)](https://narodne-novine.nn.hr/eli/sluzbeni/1993/26/447)
 - [Zakon o izmjenama i dopunama Zakona o zapošljavanju (NN 117/1993)](https://narodne-novine.nn.hr/eli/sluzbeni/1993/117/2284)
 
@@ -34,3 +31,4 @@ Cited by:
 - Decisions about named people (appointments, dismissals, pardons, decorations, citizenship), Constitutional Court decisions and corrections (Ispravak) are left out.
 - An act repealed as a whole and changed by nothing else gets a second, empty version on the day the repeal takes effect, credited to the repealing act, when Narodne novine's ELI metadata names that act as repealing it and the repealing act has exactly one sentence ending it ("prestaje važiti") that cites it by its own Narodne novine number with no later numbers, names no articles or parts and gives no day of its own; the repeal day is then the repealing act's own entry-into-force day, read without exceptions.
 - Consolidated texts (pročišćeni tekst) are left out: one is not a new act, it states no day of its own, older ones renumber articles and omit the amending acts' closing provisions (Ustavni sud U-X-80/2005, U-X-1435/2011), and one text often covers several amendments, so it is not used as a later version either.
+- Official consolidated texts: each is a later version of the act it consolidates, in force from the day the latest change it covers took effect (read from that act's own entry-into-force sentence; a Constitutional Court decision from its publication unless it names a later day; a correction from its publication). The changes are credited to no law (the text covers several acts and does not say which changed what): each is a publisher commit whose note names every act covered. Versions between are not carried. A text in force on or before the newest day main has for the act is not appended (it would need a correction commit).

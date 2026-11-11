@@ -1,23 +1,21 @@
 # Odluka o osnovama za uspostavljanje ugovornog odnosa sa subjektima provođenja zdravstvene zaštite u 1992. godini
 
-Odluka o osnovama za uspostavljanje ugovornog odnosa sa subjektima provođenja zdravstvene zaštite u 1992. godini · 1 versions, from 1992-03-21 (latest in force: 1992-03-21) · <https://narodne-novine.nn.hr/eli/sluzbeni/1992/13/283>
+Odluka o osnovama za uspostavljanje ugovornog odnosa sa subjektima provođenja zdravstvene zaštite u 1992. godini · 2 versions, from 1992-03-21 (latest in force: 1992-08-04) · <https://narodne-novine.nn.hr/eli/sluzbeni/1992/13/283>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
-| Tekst | [tekst.md](tekst.md) | 0 |  |
+| Tekst | [tekst.md](tekst.md) | 1 | 1992-08-04 |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
 Act id: `odluka-1992-283` (tags `odluka-1992-283/<day>`; `python registry/tools/on.py <day> odluka-1992-283`).
 
 ## Status
 
-**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+**amended after consolidation, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
 
 Amended or repealed by:
 
-- [Odluka o izmjeni i dopuni Odluke o osnovama za uspostavljanje ugovornog odnosa sa subjektima provođenja zdravstvene zaštite u 1992. godini (NN 49/1992)](https://narodne-novine.nn.hr/eli/sluzbeni/1992/49/1306)
-- [Odluka o osnovama za uspostavljanje ugovornog odnosa sa subjektima provođenja zdravstvene zaštite u 1992. godini (pročišćeni tekst) (NN 64/1992)](https://narodne-novine.nn.hr/eli/sluzbeni/1992/64/1718)
 - [Odluka o izmjeni i dopuni Odluke o osnovama za uspostavljanje ugovornog odnosa sa subjektima provođenja zdravstvene zaštite u 1992. godini (NN 82/1992)](https://narodne-novine.nn.hr/eli/sluzbeni/1992/82/2166)
 
 Cited by:
@@ -32,3 +30,4 @@ Cited by:
 - Decisions about named people (appointments, dismissals, pardons, decorations, citizenship), Constitutional Court decisions and corrections (Ispravak) are left out.
 - An act repealed as a whole and changed by nothing else gets a second, empty version on the day the repeal takes effect, credited to the repealing act, when Narodne novine's ELI metadata names that act as repealing it and the repealing act has exactly one sentence ending it ("prestaje važiti") that cites it by its own Narodne novine number with no later numbers, names no articles or parts and gives no day of its own; the repeal day is then the repealing act's own entry-into-force day, read without exceptions.
 - Consolidated texts (pročišćeni tekst) are left out: one is not a new act, it states no day of its own, older ones renumber articles and omit the amending acts' closing provisions (Ustavni sud U-X-80/2005, U-X-1435/2011), and one text often covers several amendments, so it is not used as a later version either.
+- Official consolidated texts: each is a later version of the act it consolidates, in force from the day the latest change it covers took effect (read from that act's own entry-into-force sentence; a Constitutional Court decision from its publication unless it names a later day; a correction from its publication). The changes are credited to no law (the text covers several acts and does not say which changed what): each is a publisher commit whose note names every act covered. Versions between are not carried. A text in force on or before the newest day main has for the act is not appended (it would need a correction commit).

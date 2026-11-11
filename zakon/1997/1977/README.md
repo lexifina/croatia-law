@@ -1,37 +1,36 @@
 # Zakon o posebnom porezu na kavu
 
-Zakon o posebnom porezu na kavu · 1 versions, from 1997-12-31 (latest in force: 1997-12-31) · <https://narodne-novine.nn.hr/eli/sluzbeni/1997/139/1977>
+Zakon o posebnom porezu na kavu · 2 versions, from 1997-12-31 (latest in force: 2001-12-13) · <https://narodne-novine.nn.hr/eli/sluzbeni/1997/139/1977>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 | čl. 1 | [clanak-001.md](clanak-001.md) | 0 |  |
 | čl. 2 | [clanak-002.md](clanak-002.md) | 0 |  |
-| čl. 3 | [clanak-003.md](clanak-003.md) | 0 |  |
-| čl. 4 | [clanak-004.md](clanak-004.md) | 0 |  |
+| čl. 3 | [clanak-003.md](clanak-003.md) | 1 | 2001-12-13 |
+| čl. 4 | [clanak-004.md](clanak-004.md) | 1 | 2001-12-13 |
 | čl. 5 | [clanak-005.md](clanak-005.md) | 0 |  |
-| čl. 6 | [clanak-006.md](clanak-006.md) | 0 |  |
-| čl. 7 | [clanak-007.md](clanak-007.md) | 0 |  |
-| čl. 8 | [clanak-008.md](clanak-008.md) | 0 |  |
-| čl. 9 | [clanak-009.md](clanak-009.md) | 0 |  |
-| čl. 10 | [clanak-010.md](clanak-010.md) | 0 |  |
-| čl. 11 | [clanak-011.md](clanak-011.md) | 0 |  |
-| čl. 12 | [clanak-012.md](clanak-012.md) | 0 |  |
-| čl. 13 | [clanak-013.md](clanak-013.md) | 0 |  |
-| čl. 14 | [clanak-014.md](clanak-014.md) | 0 |  |
-| čl. 15 | [clanak-015.md](clanak-015.md) | 0 |  |
+| čl. 6 | [clanak-006.md](clanak-006.md) | 1 | 2001-12-13 |
+| čl. 7 | [clanak-007.md](clanak-007.md) | 1 | 2001-12-13 |
+| čl. 8 | [clanak-008.md](clanak-008.md) | 1 | 2001-12-13 |
+| čl. 9 | [clanak-009.md](clanak-009.md) | 1 | 2001-12-13 |
+| čl. 10 | [clanak-010.md](clanak-010.md) | 1 | 2001-12-13 |
+| čl. 11 | [clanak-011.md](clanak-011.md) | 1 | 2001-12-13 |
+| čl. 12 | [clanak-012.md](clanak-012.md) | 1 | 2001-12-13 |
+| čl. 13 | [clanak-013.md](clanak-013.md) | 1 | 2001-12-13 |
+| čl. 14 | [clanak-014.md](clanak-014.md) | 1 | 2001-12-13 |
+| čl. 15 | [clanak-015.md](clanak-015.md) | 1 | 2001-12-13 |
+| čl. 16 | [clanak-016.md](clanak-016.md) | 1 | 2001-12-13 |
+| čl. 17 | [clanak-017.md](clanak-017.md) | 1 | 2001-12-13 |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
 Act id: `zakon-1997-1977` (tags `zakon-1997-1977/<day>`; `python registry/tools/on.py <day> zakon-1997-1977`).
 
 ## Status
 
-**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+**amended after consolidation, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
 
 Amended or repealed by:
 
-- [Ispravak Zakona o izmjenama i dopunama Zakona o posebnom porezu na kavu (NN 59/2000)](https://narodne-novine.nn.hr/eli/sluzbeni/2000/59/1325)
-- [Zakon o izmjenama i dopunama Zakona o posebnom porezu na kavu (NN 107/2001)](https://narodne-novine.nn.hr/eli/sluzbeni/2001/107/1762)
-- [Zakon o posebnom porezu na kavu (pročišćeni tekst) (NN 136/2002)](https://narodne-novine.nn.hr/eli/sluzbeni/2002/136/2197)
 - [Zakon o posebnom porezu na kavu (NN 87/2005)](https://narodne-novine.nn.hr/eli/sluzbeni/2005/87/1709)
 
 Cited by:
@@ -46,3 +45,4 @@ Cited by:
 - Decisions about named people (appointments, dismissals, pardons, decorations, citizenship), Constitutional Court decisions and corrections (Ispravak) are left out.
 - An act repealed as a whole and changed by nothing else gets a second, empty version on the day the repeal takes effect, credited to the repealing act, when Narodne novine's ELI metadata names that act as repealing it and the repealing act has exactly one sentence ending it ("prestaje važiti") that cites it by its own Narodne novine number with no later numbers, names no articles or parts and gives no day of its own; the repeal day is then the repealing act's own entry-into-force day, read without exceptions.
 - Consolidated texts (pročišćeni tekst) are left out: one is not a new act, it states no day of its own, older ones renumber articles and omit the amending acts' closing provisions (Ustavni sud U-X-80/2005, U-X-1435/2011), and one text often covers several amendments, so it is not used as a later version either.
+- Official consolidated texts: each is a later version of the act it consolidates, in force from the day the latest change it covers took effect (read from that act's own entry-into-force sentence; a Constitutional Court decision from its publication unless it names a later day; a correction from its publication). The changes are credited to no law (the text covers several acts and does not say which changed what): each is a publisher commit whose note names every act covered. Versions between are not carried. A text in force on or before the newest day main has for the act is not appended (it would need a correction commit).

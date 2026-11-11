@@ -1,6 +1,6 @@
 # Statut Hrvatske odvjetničke komore
 
-Statut Hrvatske odvjetničke komore · 1 versions, from 2009-06-29 (latest in force: 2009-06-29) · <https://narodne-novine.nn.hr/eli/sluzbeni/2009/74/1778>
+Statut Hrvatske odvjetničke komore · 2 versions, from 2009-06-29 (latest in force: 2011-06-10) · <https://narodne-novine.nn.hr/eli/sluzbeni/2009/74/1778>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -9,7 +9,7 @@ Statut Hrvatske odvjetničke komore · 1 versions, from 2009-06-29 (latest in fo
 | čl. 3 | [clanak-003.md](clanak-003.md) | 0 |  |
 | čl. 4 | [clanak-004.md](clanak-004.md) | 0 |  |
 | čl. 5 | [clanak-005.md](clanak-005.md) | 0 |  |
-| čl. 6 | [clanak-006.md](clanak-006.md) | 0 |  |
+| čl. 6 | [clanak-006.md](clanak-006.md) | 1 | 2011-06-10 |
 | čl. 7 | [clanak-007.md](clanak-007.md) | 0 |  |
 | čl. 8 | [clanak-008.md](clanak-008.md) | 0 |  |
 | čl. 9 | [clanak-009.md](clanak-009.md) | 0 |  |
@@ -21,7 +21,7 @@ Statut Hrvatske odvjetničke komore · 1 versions, from 2009-06-29 (latest in fo
 | čl. 15 | [clanak-015.md](clanak-015.md) | 0 |  |
 | čl. 16 | [clanak-016.md](clanak-016.md) | 0 |  |
 | čl. 17 | [clanak-017.md](clanak-017.md) | 0 |  |
-| čl. 18 | [clanak-018.md](clanak-018.md) | 0 |  |
+| čl. 18 | [clanak-018.md](clanak-018.md) | 1 | 2011-06-10 |
 | čl. 19 | [clanak-019.md](clanak-019.md) | 0 |  |
 | čl. 20 | [clanak-020.md](clanak-020.md) | 0 |  |
 | čl. 21 | [clanak-021.md](clanak-021.md) | 0 |  |
@@ -36,17 +36,18 @@ Statut Hrvatske odvjetničke komore · 1 versions, from 2009-06-29 (latest in fo
 | čl. 30 | [clanak-030.md](clanak-030.md) | 0 |  |
 | čl. 31 | [clanak-031.md](clanak-031.md) | 0 |  |
 | čl. 32 | [clanak-032.md](clanak-032.md) | 0 |  |
-| čl. 33 | [clanak-033.md](clanak-033.md) | 0 |  |
+| čl. 33 | [clanak-033.md](clanak-033.md) | 1 | 2011-06-10 |
 | čl. 34 | [clanak-034.md](clanak-034.md) | 0 |  |
 | čl. 35 | [clanak-035.md](clanak-035.md) | 0 |  |
 | čl. 36 | [clanak-036.md](clanak-036.md) | 0 |  |
 | čl. 37 | [clanak-037.md](clanak-037.md) | 0 |  |
 | čl. 38 | [clanak-038.md](clanak-038.md) | 0 |  |
 | čl. 39 | [clanak-039.md](clanak-039.md) | 0 |  |
-| čl. 40 | [clanak-040.md](clanak-040.md) | 0 |  |
+| čl. 39.a | [clanak-039a.md](clanak-039a.md) | 1 | 2011-06-10 |
+| čl. 40 | [clanak-040.md](clanak-040.md) | 1 | 2011-06-10 |
 | čl. 41 | [clanak-041.md](clanak-041.md) | 0 |  |
 | čl. 42 | [clanak-042.md](clanak-042.md) | 0 |  |
-| čl. 43 | [clanak-043.md](clanak-043.md) | 0 |  |
+| čl. 43 | [clanak-043.md](clanak-043.md) | 1 | 2011-06-10 |
 | čl. 44 | [clanak-044.md](clanak-044.md) | 0 |  |
 | čl. 45 | [clanak-045.md](clanak-045.md) | 0 |  |
 | čl. 46 | [clanak-046.md](clanak-046.md) | 0 |  |
@@ -72,14 +73,14 @@ Statut Hrvatske odvjetničke komore · 1 versions, from 2009-06-29 (latest in fo
 | čl. 66 | [clanak-066.md](clanak-066.md) | 0 |  |
 | čl. 67 | [clanak-067.md](clanak-067.md) | 0 |  |
 | čl. 68 | [clanak-068.md](clanak-068.md) | 0 |  |
-| čl. 69 | [clanak-069.md](clanak-069.md) | 0 |  |
-| čl. 70 | [clanak-070.md](clanak-070.md) | 0 |  |
+| čl. 69 | [clanak-069.md](clanak-069.md) | 1 | 2011-06-10 |
+| čl. 70 | [clanak-070.md](clanak-070.md) | 1 | 2011-06-10 |
 | čl. 71 | [clanak-071.md](clanak-071.md) | 0 |  |
 | čl. 72 | [clanak-072.md](clanak-072.md) | 0 |  |
 | čl. 73 | [clanak-073.md](clanak-073.md) | 0 |  |
 | čl. 74 | [clanak-074.md](clanak-074.md) | 0 |  |
 | čl. 75 | [clanak-075.md](clanak-075.md) | 0 |  |
-| čl. 76 | [clanak-076.md](clanak-076.md) | 0 |  |
+| čl. 76 | [clanak-076.md](clanak-076.md) | 1 | 2011-06-10 |
 | čl. 77 | [clanak-077.md](clanak-077.md) | 0 |  |
 | čl. 78 | [clanak-078.md](clanak-078.md) | 0 |  |
 | čl. 79 | [clanak-079.md](clanak-079.md) | 0 |  |
@@ -108,8 +109,8 @@ Statut Hrvatske odvjetničke komore · 1 versions, from 2009-06-29 (latest in fo
 | čl. 102 | [clanak-102.md](clanak-102.md) | 0 |  |
 | čl. 103 | [clanak-103.md](clanak-103.md) | 0 |  |
 | čl. 104 | [clanak-104.md](clanak-104.md) | 0 |  |
-| čl. 105 | [clanak-105.md](clanak-105.md) | 0 |  |
-| čl. 106 | [clanak-106.md](clanak-106.md) | 0 |  |
+| čl. 105 | [clanak-105.md](clanak-105.md) | 1 | 2011-06-10 |
+| čl. 106 | [clanak-106.md](clanak-106.md) | 1 | 2011-06-10 |
 | čl. 107 | [clanak-107.md](clanak-107.md) | 0 |  |
 | čl. 108 | [clanak-108.md](clanak-108.md) | 0 |  |
 | čl. 109 | [clanak-109.md](clanak-109.md) | 0 |  |
@@ -119,7 +120,7 @@ Statut Hrvatske odvjetničke komore · 1 versions, from 2009-06-29 (latest in fo
 | čl. 113 | [clanak-113.md](clanak-113.md) | 0 |  |
 | čl. 114 | [clanak-114.md](clanak-114.md) | 0 |  |
 | čl. 115 | [clanak-115.md](clanak-115.md) | 0 |  |
-| čl. 116 | [clanak-116.md](clanak-116.md) | 0 |  |
+| čl. 116 | [clanak-116.md](clanak-116.md) | 1 | 2011-06-10 |
 | čl. 117 | [clanak-117.md](clanak-117.md) | 0 |  |
 | čl. 118 | [clanak-118.md](clanak-118.md) | 0 |  |
 | čl. 119 | [clanak-119.md](clanak-119.md) | 0 |  |
@@ -133,7 +134,7 @@ Statut Hrvatske odvjetničke komore · 1 versions, from 2009-06-29 (latest in fo
 | čl. 127 | [clanak-127.md](clanak-127.md) | 0 |  |
 | čl. 128 | [clanak-128.md](clanak-128.md) | 0 |  |
 | čl. 129 | [clanak-129.md](clanak-129.md) | 0 |  |
-| čl. 130 | [clanak-130.md](clanak-130.md) | 0 |  |
+| čl. 130 | [clanak-130.md](clanak-130.md) | 1 | 2011-06-10 |
 | čl. 131 | [clanak-131.md](clanak-131.md) | 0 |  |
 | čl. 132 | [clanak-132.md](clanak-132.md) | 0 |  |
 | čl. 133 | [clanak-133.md](clanak-133.md) | 0 |  |
@@ -143,38 +144,44 @@ Statut Hrvatske odvjetničke komore · 1 versions, from 2009-06-29 (latest in fo
 | čl. 137 | [clanak-137.md](clanak-137.md) | 0 |  |
 | čl. 138 | [clanak-138.md](clanak-138.md) | 0 |  |
 | čl. 139 | [clanak-139.md](clanak-139.md) | 0 |  |
-| čl. 140 | [clanak-140.md](clanak-140.md) | 0 |  |
-| čl. 141 | [clanak-141.md](clanak-141.md) | 0 |  |
-| čl. 142 | [clanak-142.md](clanak-142.md) | 0 |  |
-| čl. 143 | [clanak-143.md](clanak-143.md) | 0 |  |
-| čl. 144 | [clanak-144.md](clanak-144.md) | 0 |  |
-| čl. 145 | [clanak-145.md](clanak-145.md) | 0 |  |
-| čl. 146 | [clanak-146.md](clanak-146.md) | 0 |  |
-| čl. 147 | [clanak-147.md](clanak-147.md) | 0 |  |
-| čl. 148 | [clanak-148.md](clanak-148.md) | 0 |  |
-| čl. 149 | [clanak-149.md](clanak-149.md) | 0 |  |
-| čl. 150 | [clanak-150.md](clanak-150.md) | 0 |  |
-| čl. 151 | [clanak-151.md](clanak-151.md) | 0 |  |
-| čl. 152 | [clanak-152.md](clanak-152.md) | 0 |  |
-| čl. 153 | [clanak-153.md](clanak-153.md) | 0 |  |
-| čl. 154 | [clanak-154.md](clanak-154.md) | 0 |  |
-| čl. 155 | [clanak-155.md](clanak-155.md) | 0 |  |
-| čl. 156 | [clanak-156.md](clanak-156.md) | 0 |  |
-| čl. 157 | [clanak-157.md](clanak-157.md) | 0 |  |
-| čl. 158 | [clanak-158.md](clanak-158.md) | 0 |  |
-| čl. 159 | [clanak-159.md](clanak-159.md) | 0 |  |
+| čl. 140 | [clanak-140.md](clanak-140.md) | 1 | 2011-06-10 |
+| čl. 141 | [clanak-141.md](clanak-141.md) | 1 | 2011-06-10 |
+| čl. 142 | [clanak-142.md](clanak-142.md) | 1 | 2011-06-10 |
+| čl. 143 | [clanak-143.md](clanak-143.md) | 1 | 2011-06-10 |
+| čl. 144 | [clanak-144.md](clanak-144.md) | 1 | 2011-06-10 |
+| čl. 145 | [clanak-145.md](clanak-145.md) | 1 | 2011-06-10 |
+| čl. 146 | [clanak-146.md](clanak-146.md) | 1 | 2011-06-10 |
+| čl. 147 | [clanak-147.md](clanak-147.md) | 1 | 2011-06-10 |
+| čl. 148 | [clanak-148.md](clanak-148.md) | 1 | 2011-06-10 |
+| čl. 149 | [clanak-149.md](clanak-149.md) | 1 | 2011-06-10 |
+| čl. 150 | [clanak-150.md](clanak-150.md) | 1 | 2011-06-10 |
+| čl. 151 | [clanak-151.md](clanak-151.md) | 1 | 2011-06-10 |
+| čl. 152 | [clanak-152.md](clanak-152.md) | 1 | 2011-06-10 |
+| čl. 153 | [clanak-153.md](clanak-153.md) | 1 | 2011-06-10 |
+| čl. 154 | [clanak-154.md](clanak-154.md) | 1 | 2011-06-10 |
+| čl. 155 | [clanak-155.md](clanak-155.md) | 1 | 2011-06-10 |
+| čl. 156 | [clanak-156.md](clanak-156.md) | 1 | 2011-06-10 |
+| čl. 157 | [clanak-157.md](clanak-157.md) | 1 | 2011-06-10 |
+| čl. 158 | [clanak-158.md](clanak-158.md) | 1 | 2011-06-10 |
+| čl. 159 | [clanak-159.md](clanak-159.md) | 1 | 2011-06-10 |
+| čl. 160 | [clanak-160.md](clanak-160.md) | 1 | 2011-06-10 |
+| čl. 161 | [clanak-161.md](clanak-161.md) | 1 | 2011-06-10 |
+| čl. 162 | [clanak-162.md](clanak-162.md) | 1 | 2011-06-10 |
+| čl. 163 | [clanak-163.md](clanak-163.md) | 1 | 2011-06-10 |
+| čl. 164 | [clanak-164.md](clanak-164.md) | 1 | 2011-06-10 |
+| čl. 165 | [clanak-165.md](clanak-165.md) | 1 | 2011-06-10 |
+| čl. 166 | [clanak-166.md](clanak-166.md) | 1 | 2011-06-10 |
+| čl. 167 | [clanak-167.md](clanak-167.md) | 1 | 2011-06-10 |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 
 Act id: `statut-2009-1778` (tags `statut-2009-1778/<day>`; `python registry/tools/on.py <day> statut-2009-1778`).
 
 ## Status
 
-**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+**replaced, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
 
 Amended or repealed by:
 
-- [Ispravak Statuta Hrvatske odvjetničke komore (NN 64/2011)](https://narodne-novine.nn.hr/eli/sluzbeni/2011/64/1428)
-- [Statut Hrvatske odvjetničke komore (pročišćeni tekst) (NN 101/2011)](https://narodne-novine.nn.hr/eli/sluzbeni/2011/101/2083)
 - [Statut Hrvatske odvjetničke komore (NN 115/2013)](https://narodne-novine.nn.hr/eli/sluzbeni/2013/115/2494)
 - [Statut Hrvatske odvjetničke komore (NN 151/2022)](https://narodne-novine.nn.hr/eli/sluzbeni/2022/151/2366)
 
@@ -186,3 +193,4 @@ Amended or repealed by:
 - Decisions about named people (appointments, dismissals, pardons, decorations, citizenship), Constitutional Court decisions and corrections (Ispravak) are left out.
 - An act repealed as a whole and changed by nothing else gets a second, empty version on the day the repeal takes effect, credited to the repealing act, when Narodne novine's ELI metadata names that act as repealing it and the repealing act has exactly one sentence ending it ("prestaje važiti") that cites it by its own Narodne novine number with no later numbers, names no articles or parts and gives no day of its own; the repeal day is then the repealing act's own entry-into-force day, read without exceptions.
 - Consolidated texts (pročišćeni tekst) are left out: one is not a new act, it states no day of its own, older ones renumber articles and omit the amending acts' closing provisions (Ustavni sud U-X-80/2005, U-X-1435/2011), and one text often covers several amendments, so it is not used as a later version either.
+- Official consolidated texts: each is a later version of the act it consolidates, in force from the day the latest change it covers took effect (read from that act's own entry-into-force sentence; a Constitutional Court decision from its publication unless it names a later day; a correction from its publication). The changes are credited to no law (the text covers several acts and does not say which changed what): each is a publisher commit whose note names every act covered. Versions between are not carried. A text in force on or before the newest day main has for the act is not appended (it would need a correction commit).

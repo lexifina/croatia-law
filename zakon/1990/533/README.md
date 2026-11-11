@@ -1,24 +1,36 @@
 # Zakon o Hrvatskoj radio-televiziji
 
-Zakon o Hrvatskoj radio-televiziji · 1 versions, from 1990-06-30 (latest in force: 1990-06-30) · <https://narodne-novine.nn.hr/eli/sluzbeni/1990/28/533>
+Zakon o Hrvatskoj radio-televiziji · 2 versions, from 1990-06-30 (latest in force: 1992-06-20) · <https://narodne-novine.nn.hr/eli/sluzbeni/1990/28/533>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
+| čl. 1 | [clanak-001.md](clanak-001.md) | 1 | 1992-06-20 |
+| čl. 2 | [clanak-002.md](clanak-002.md) | 1 | 1992-06-20 |
+| čl. 3 | [clanak-003.md](clanak-003.md) | 1 | 1992-06-20 |
+| čl. 4 | [clanak-004.md](clanak-004.md) | 1 | 1992-06-20 |
+| čl. 5 | [clanak-005.md](clanak-005.md) | 1 | 1992-06-20 |
+| čl. 6 | [clanak-006.md](clanak-006.md) | 1 | 1992-06-20 |
+| čl. 7 | [clanak-007.md](clanak-007.md) | 1 | 1992-06-20 |
+| čl. 8 | [clanak-008.md](clanak-008.md) | 1 | 1992-06-20 |
+| čl. 9 | [clanak-009.md](clanak-009.md) | 1 | 1992-06-20 |
+| čl. 10 | [clanak-010.md](clanak-010.md) | 1 | 1992-06-20 |
+| čl. 11 | [clanak-011.md](clanak-011.md) | 1 | 1992-06-20 |
+| čl. 12 | [clanak-012.md](clanak-012.md) | 1 | 1992-06-20 |
+| čl. 13 | [clanak-013.md](clanak-013.md) | 1 | 1992-06-20 |
+| čl. 14 | [clanak-014.md](clanak-014.md) | 1 | 1992-06-20 |
+| čl. 15 | [clanak-015.md](clanak-015.md) | 1 | 1992-06-20 |
+| čl. 16 | [clanak-016.md](clanak-016.md) | 1 | 1992-06-20 |
+| čl. 17 | [clanak-017.md](clanak-017.md) | 1 | 1992-06-20 |
+| čl. 18 | [clanak-018.md](clanak-018.md) | 1 | 1992-06-20 |
+| čl. 19 | [clanak-019.md](clanak-019.md) | 1 | 1992-06-20 |
+| čl. 20 | [clanak-020.md](clanak-020.md) | 1 | 1992-06-20 |
+| čl. 21 | [clanak-021.md](clanak-021.md) | 1 | 1992-06-20 |
+| čl. 22 | [clanak-022.md](clanak-022.md) | 1 | 1992-06-20 |
+| čl. 23 | [clanak-023.md](clanak-023.md) | 1 | 1992-06-20 |
+| čl. 24 | [clanak-024.md](clanak-024.md) | 1 | 1992-06-20 |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
-| Prilog | [prilog.md](prilog.md) | 0 |  |
-| Tekst | [tekst.md](tekst.md) | 0 |  |
 
 Act id: `zakon-1990-533` (tags `zakon-1990-533/<day>`; `python registry/tools/on.py <day> zakon-1990-533`).
-
-## Status
-
-**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
-
-Amended or repealed by:
-
-- [Zakon o izmjenama i dopunama Zakona o Hrvatskoj radio-televiziji (NN 35/1991)](https://narodne-novine.nn.hr/eli/sluzbeni/1991/35/972)
-- [Zakon o izmjeni Zakona o Hrvatskoj radio-televiziji (NN 33/1992)](https://narodne-novine.nn.hr/eli/sluzbeni/1992/33/829)
-- [Zakon o Hrvatskoj radio-televiziji (pročišćeni tekst) (NN 43/1992)](https://narodne-novine.nn.hr/eli/sluzbeni/1992/43/1092)
 
 ## Decisions made by hand
 
@@ -28,3 +40,4 @@ Amended or repealed by:
 - Decisions about named people (appointments, dismissals, pardons, decorations, citizenship), Constitutional Court decisions and corrections (Ispravak) are left out.
 - An act repealed as a whole and changed by nothing else gets a second, empty version on the day the repeal takes effect, credited to the repealing act, when Narodne novine's ELI metadata names that act as repealing it and the repealing act has exactly one sentence ending it ("prestaje važiti") that cites it by its own Narodne novine number with no later numbers, names no articles or parts and gives no day of its own; the repeal day is then the repealing act's own entry-into-force day, read without exceptions.
 - Consolidated texts (pročišćeni tekst) are left out: one is not a new act, it states no day of its own, older ones renumber articles and omit the amending acts' closing provisions (Ustavni sud U-X-80/2005, U-X-1435/2011), and one text often covers several amendments, so it is not used as a later version either.
+- Official consolidated texts: each is a later version of the act it consolidates, in force from the day the latest change it covers took effect (read from that act's own entry-into-force sentence; a Constitutional Court decision from its publication unless it names a later day; a correction from its publication). The changes are credited to no law (the text covers several acts and does not say which changed what): each is a publisher commit whose note names every act covered. Versions between are not carried. A text in force on or before the newest day main has for the act is not appended (it would need a correction commit).

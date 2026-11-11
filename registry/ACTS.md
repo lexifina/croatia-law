@@ -1,6 +1,6 @@
 # Every act in this repository
 
-35615 acts, 36,041 versions. Each act lives in a folder named by its kind, year and identifier, `<kind>/<year>/<identifier>/` (acts published before that layout keep their own folder, listed in data/paths.json); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+35922 acts, 36,442 versions. Each act lives in a folder named by its kind, year and identifier, `<kind>/<year>/<identifier>/` (acts published before that layout keep their own folder, listed in data/paths.json); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## izbori (129)
 
@@ -262,6 +262,311 @@
 | Peti dodatak Kolektivnom ugovoru za radnike Hrvatskih voda | [`kolektivni-ugovor/2025/1471/`](kolektivni-ugovor/2025/1471/) | in force | 1 | 2025-05-29 | 2025-05-29 |
 | Kolektivni ugovor za djelatnost privatnog zdravstva Hrvatske | [`kolektivni-ugovor/2026/7/`](kolektivni-ugovor/2026/7/) | in force | 1 | 2026-01-01 | 2026-01-01 |
 | Kolektivni ugovor za graditeljstvo (pročišćeni tekst) | [`kolektivni-ugovor/2026/77/`](kolektivni-ugovor/2026/77/) | in force | 1 | 2026-01-14 | 2026-01-14 |
+
+## medunarodni (300, of which 1 amending acts)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Uredba o potvrđivanju (ratifikaciji) Sporazuma između Vlade Republike Hrvatske i Vlade Ruske Federacije o trgovini i gospodarskoj suradnji i Protokola između Vlade Republike Hrvatske i Vlade Ruske Federacije o robnoj razmjeni u 1992. godini | [`medunarodni/1992/3/`](medunarodni/1992/3/) | repealed 2014-02-01 | 2 | 1993-06-24 | 2014-02-01 |
+| Uredba o potvrđivanju (ratifikaciji) Sporazuma između Vlade Republike Hrvatske i Vlade Republike Mađarske o međunarodnom prijevozu osoba i stvari cestom | [`medunarodni/1993/3/`](medunarodni/1993/3/) | in force | 1 | 1993-03-15 | 1993-03-15 |
+| Uredba o potvrđivanju (ratifikaciji) Sporazuma između Vlade Republike Hrvatske i Vlade Narodne Republike Kine o trgovini i gospodarskoj suradnji | [`medunarodni/1993/6/`](medunarodni/1993/6/) | repealed 2013-07-01 | 2 | 1993-06-10 | 2013-07-01 |
+| Zakon o potvrđivanju (ratifikaciji) Ugovora o suradnji između Vlade Republike Hrvatske i Vlade Republike Mađarske u borbi protiv terorizma, krijumčarenja i zloupotrebe droga kao i protiv organiziranog kriminala | [`medunarodni/1993/20/`](medunarodni/1993/20/) | in force | 1 | 1994-06-17 | 1994-06-17 |
+| Zakon o potvrđivanju (ratifikaciji) Ugovora između Vlade Republike Hrvatske i Vlade Republike Mađarske o prihvatu osoba na zajedničkoj državnoj granici | [`medunarodni/1993/21/`](medunarodni/1993/21/) | in force | 1 | 1996-11-20 | 1996-11-20 |
+| Uredba o potvrđivanju (ratifikaciji) Sporazuma između Vlade Republike Hrvatske i Vlade Republike Bugarske o gospodarskoj suradnji | [`medunarodni/1993/24/`](medunarodni/1993/24/) | repealed 2006-12-26 | 2 | 1994-04-29 | 2006-12-26 |
+| Zakon o potvrđivanju (ratifikaciji) Ugovora o prijateljskim odnosima i suradnji između Republike Hrvatske i Republike Mađarske | [`medunarodni/1993/29/`](medunarodni/1993/29/) | in force | 1 | 1993-12-21 | 1993-12-21 |
+| Povelja Ujedinjenih naroda | [`medunarodni/1993/35/`](medunarodni/1993/35/) | in force | 1 | 1993-12-16 | 1993-12-16 |
+| Uredba o potvrđivanju (ratifikaciji) ugovora između Vlade Republike Hrvatske i Vlade Narodne Republike Kine o poticanju i uzajamnoj zaštiti ulaganja | [`medunarodni/1994/7/`](medunarodni/1994/7/) | in force | 1 | 1994-07-01 | 1994-07-01 |
+| Uredba o potvrđivanju (ratifikaciji) ugovora o kulturnoj i prosvjetnoj suradnji između Vlade Republike Hrvatske i Vlade Narodne Republike Kine | [`medunarodni/1994/8/`](medunarodni/1994/8/) | in force | 1 | 1994-06-08 | 1994-06-08 |
+| Zakon o potvrđivanju (ratifikaciji) Ugovora o suradnji između Vlade Republike Hrvatske i Vlade Ukrajine u borbi protn terorizma, krijumčarenja i zloupotrebe droga kao i protv or | [`medunarodni/1994/11/`](medunarodni/1994/11/) | in force | 1 | 1995-02-28 | 1995-02-28 |
+| Uredba o potvrđnanju (ratifikaciji) Sporazuma o međunarodnom cestovnom prijevozu putnika i stvari između Vlade Republike Hrvatske i Vlade kralievine Švedske | [`medunarodni/1994/20/`](medunarodni/1994/20/) | in force | 1 | 2002-06-14 | 2002-06-14 |
+| Uredba o potvrđivanju trgovinskog ugovora između Vlade Republike Hrvatske i Vlade Islamske Republike Iran | [`medunarodni/1994/32/`](medunarodni/1994/32/) | repealed 2017-12-13 | 2 | 1996-12-13 | 2017-12-13 |
+| Uredba o potvrđivanju (rafitikaciji) ugovora o gospodarskoj suradnji između Vlade Republike Hrvatske i Vlade Rumunjske | [`medunarodni/1994/33/`](medunarodni/1994/33/) | repealed 2010-06-23 | 2 | 1998-03-31 | 2010-06-23 |
+| Uredba o potvrđivanju Europskog sporazuma o glavnim međunarodnim linijama kombiniranog prijevoza i sličnim instalacijama (AGTC) | [`medunarodni/1994/35/`](medunarodni/1994/35/) | in force | 1 | 1994-09-26 | 1994-09-26 |
+| Zakon o potvrđivanju (ratifikaciji) Ugovora o prijateljstvu i suradnji između Republike Hrvatske i Republike albanlie | [`medunarodni/1994/39/`](medunarodni/1994/39/) | in force | 1 | 2001-02-22 | 2001-02-22 |
+| Uredba o potvrđivanju Ugovora o linijskom prijevozu osoba autobusom u međunarodnom cestovnom prometu, izxneđu Vlade Republike Hrvatske i Vlade Republike Austrije | [`medunarodni/1994/43/`](medunarodni/1994/43/) | in force | 1 | 1998-11-03 | 1998-11-03 |
+| Uredba o potvrđivanju Ugovora o međunarodnom cestovnom prijevozu, između Vlade Republike Hrvatske i Vlade Republike Turske | [`medunarodni/1994/46/`](medunarodni/1994/46/) | in force | 1 | 1998-02-15 | 1998-02-15 |
+| Zakon o potvrđivanju Sporazuma između Republike Hrvatske i Međunarodne agencije za atomsku energiju o primjeni garancija u vezi s Ugovorom o neširenju nuklearnog oružja i Protokola uz Sporazum | [`medunarodni/1994/56/`](medunarodni/1994/56/) | in force | 1 | 1995-01-19 | 1995-01-19 |
+| Zakon o potvrđivanju Europske konvencije o izrućenju od 13. prosinca 1957., Dopunskog protokola Europske konvencije o izručenju od 15, listopada 1957. i Drugog dopunskog protokola Europske konvencije | [`medunarodni/1994/57/`](medunarodni/1994/57/) | amending act | 1 | 1995-04-25 | 1995-04-25 |
+| Uredba o potvrđivanju Ugovora o međunarodnom prijevozu osoba u slobodnom cestovnom prometu, između Vlade Republike Hrvatske i Vlade Republike Austrije | [`medunarodni/1995/4/`](medunarodni/1995/4/) | in force | 1 | 1998-12-01 | 1998-12-01 |
+| Uredba o potvrđivanju Ugovora o trgovini i gospodarskoj suradnji, između Vlade Republike Hrvatske i Vlade Ukrajine | [`medunarodni/1995/5/`](medunarodni/1995/5/) | repealed 2017-08-10 | 2 | 1995-01-31 | 2017-08-10 |
+| Uredba o potvrđivanju Sporazuma o zračnom prometu, između Vlade Republike Hrvatske i Vlade Rumunjske | [`medunarodni/1995/10/`](medunarodni/1995/10/) | in force | 1 | 1998-02-04 | 1998-02-04 |
+| Uredba o potvrđivanju ugovora o uzajamnoj trgovini i plaćanju, između Vlade Republike Hrvatske i vlađe Slovačke Republike | [`medunarodni/1995/11/`](medunarodni/1995/11/) | repealed 2005-02-27 | 2 | 1995-02-27 | 2005-02-27 |
+| Zakon o potvrđivanju Ugovora između Republike Hrvatske i Republike Makedonije o pravnoj pomoći u građanskim i kaznenim stvarima | [`medunarodni/1995/14/`](medunarodni/1995/14/) | in force | 1 | 1995-05-29 | 1995-05-29 |
+| Zakon o potvrđivanju Protokola iz 1968. i Protokola iz 1979. o izmjeni Međunarodne konvencije za izjednačavanje nekih pravila o teretnici iz 1924. | [`medunarodni/1995/15/`](medunarodni/1995/15/) | in force | 1 | 1999-01-28 | 1999-01-28 |
+| Uredba o potvrđivanju Sporazuma o gospodarskoj, tehničkoj i srodnoj pomoći između Vlade Republike Hrvatske i Vlade Sjedinjenih Američkih Država | [`medunarodni/1995/17/`](medunarodni/1995/17/) | in force | 1 | 1995-05-01 | 1995-05-01 |
+| Uredba o potvrđivanju Ugovora o međunarodnom cestovnom prometu, između Vlade Republike Hrvatske i VLade Republike Albanije | [`medunarodni/1995/18/`](medunarodni/1995/18/) | in force | 1 | 1997-07-05 | 1997-07-05 |
+| Uredba o potvrđivanju Sporazuma o zračnom prometu, između Vlade RepublikeHrvatske i Vlade Republike Turske | [`medunarodni/1995/26/`](medunarodni/1995/26/) | in force | 1 | 2004-05-06 | 2004-05-06 |
+| Uredba o potvrđivanju Sporazuma o redovnom zračnom prometu, između Vlade Republike Hrvatske i Švicarskog Saveznog vijeća | [`medunarodni/1995/41/`](medunarodni/1995/41/) | in force | 1 | 1997-05-01 | 1997-05-01 |
+| Zakon o potvrđivanju Ugovora između Republike Hrvatske i Republike Makedonije o međusobnom izvršavanju sudskih odluka u kaznenim stvarima | [`medunarodni/1995/44/`](medunarodni/1995/44/) | in force | 1 | 1995-07-13 | 1995-07-13 |
+| Uredba o potvrđivanju ugovora o znanstvenoj i tehnološkoj suradnji, između Vlade Republike Hrvatske i Vlade Narodne Republike Kine | [`medunarodni/1995/45/`](medunarodni/1995/45/) | in force | 1 | 1997-07-31 | 1997-07-31 |
+| Uredba o potvrđivanju trgovinskog ugovora, između Vlade Republike Hrvatske ivlade Malezije | [`medunarodni/1995/47/`](medunarodni/1995/47/) | repealed 2014-05-27 | 2 | 2008-05-27 | 2014-05-27 |
+| Uredba o potvrđivanju ugovora o sukcesiji dvostranih ugovora, između Vlade Republike Hrvatske i Vlade Republike Poljske | [`medunarodni/1995/48/`](medunarodni/1995/48/) | in force | 1 | 1999-11-22 | 1999-11-22 |
+| Uredba o potvrđivanju Sporazuma o zračnom prometu, između Vlade Republike Hrvatske i Vlade Republike Albanije | [`medunarodni/1995/61/`](medunarodni/1995/61/) | in force | 1 | 2005-06-23 | 2005-06-23 |
+| Uredba o potvrđivanju ugovora o mirenju i ARBTfRAŽI između Republike Hrvatske i Švicarske Konfederacije | [`medunarodni/1995/62/`](medunarodni/1995/62/) | in force | 1 | 2002-06-13 | 2002-06-13 |
+| Zakon o potvrđivanju Ugovora između vladerepublike Hrvatske i Vlade Grčke Republike o predaji i prihvatu osoba kojih je boravak protuzakonit | [`medunarodni/1995/68/`](medunarodni/1995/68/) | in force | 1 | 1996-03-15 | 1996-03-15 |
+| Uredba o potvrđivanju ugovora između Vlade Republike Hrvatske i Vlade Sjedinjenih Američkih Država o znanstvenoj i tehnološkoj suradnji | [`medunarodni/1996/1/`](medunarodni/1996/1/) | repealed 2020-02-28 | 2 | 2000-05-18 | 2020-02-28 |
+| Zakon o potvrđivanju Konzularne Konvencije između Republike Hrvatske i Republike Poljske | [`medunarodni/1996/17/`](medunarodni/1996/17/) | in force | 1 | 1997-07-06 | 1997-07-06 |
+| Uredba o potvrđivanju ugovora o mirenju i arbitraži između Republike Hrvatske i Republike Mađarske | [`medunarodni/1996/22/`](medunarodni/1996/22/) | in force | 1 | 1999-02-23 | 1999-02-23 |
+| Zakon o potvrđivanju Konvencije o minimalnim standardima Na trgovačkim brodovima Međunarodne organizacije rada | [`medunarodni/1996/25/`](medunarodni/1996/25/) | in force | 1 | 1997-07-19 | 1997-07-19 |
+| Uredba o potvrđivanju ugovora o željezničkom prometu, između Vlade Republike Hrvatske i Vlade Republike Bosne i Hercegovine | [`medunarodni/1996/29/`](medunarodni/1996/29/) | in force | 1 | 1996-09-13 | 1996-09-13 |
+| Uredba o potvrđivanju ugovora o međunarodnom cestovnom prijevozu putnika i stvari, između Vlade Republike Hrvatske i Vlade Slovačke Republike | [`medunarodni/1996/32/`](medunarodni/1996/32/) | in force | 1 | 1997-10-16 | 1997-10-16 |
+| Uredba o potvrđivanju Sporazuma o zračnom prometu, između Vlade Republike Hrvatske i Vlade Slovačke Republike | [`medunarodni/1996/33/`](medunarodni/1996/33/) | in force | 1 | 1998-09-09 | 1998-09-09 |
+| Uredba o potvrđivanju sporazuma o zračnom prometu, između Vlade Republike Hrvatske i Vlade Ujedinjene Kraljevine Velike Britanije i Sjeverne Irske | [`medunarodni/1996/34/`](medunarodni/1996/34/) | in force | 1 | 1997-03-10 | 1997-03-10 |
+| Uredba o potvrđivanju Sporazuma o zračnom prometu, između Vlade Republike Hrvatske i Vlade Republike Bosne i Hercegovine | [`medunarodni/1996/35/`](medunarodni/1996/35/) | in force | 1 | 1996-06-01 | 1996-06-01 |
+| Zakon o potvrđivanju Ugovora o suradnji između Vlade Republike Hrvatske i Vlade Republike Turske u borbi protiv međunarodne protuzakonite trgovine narkotičnim drogama i psihotro | [`medunarodni/1996/47/`](medunarodni/1996/47/) | in force | 1 | 2021-03-16 | 2021-03-16 |
+| Sporazum o zračnom prometu, između vlade Republike Hrvatske i vlade Kraljevine Belgije | [`medunarodni/1996/48/`](medunarodni/1996/48/) | in force | 1 | 2003-03-24 | 2003-03-24 |
+| Uredba o potvrđivanju ugovora o kulturnoj, prosvjetnoj i znanstvenoj suradnji između Vlade Republike Hrvatske i Vlade Ujedinjenog Kraljevstva Velike Britanije i Sjeverne Irske | [`medunarodni/1996/50/`](medunarodni/1996/50/) | in force | 1 | 1997-03-27 | 1997-03-27 |
+| Uredba o potvrđivanju ugovora između Vlade Republike Hrvatske i Vlade Republike Albanije o turističkoj suradnji | [`medunarodni/1996/51/`](medunarodni/1996/51/) | in force | 1 | 2006-02-16 | 2006-02-16 |
+| Uredba o potvrđivanju ugovora između Vlade Republike Hrvatske i Vlade Republike Filipina o znanstvenoj i tehnološkoj suradnji | [`medunarodni/1996/52/`](medunarodni/1996/52/) | in force | 1 | 1996-07-20 | 1996-07-20 |
+| Uredba o potvrđivanju ugovora između Vlade Republike Hrvatske i Vlade Malezije o poticanju i zaštiti ulaganja | [`medunarodni/1996/53/`](medunarodni/1996/53/) | in force | 1 | 1996-07-20 | 1996-07-20 |
+| Zakon o potvrđivanju Konzularne konvencije između Republike Hrvatske i Narodne Republike Kine | [`medunarodni/1996/55/`](medunarodni/1996/55/) | in force | 1 | 1997-11-08 | 1997-11-08 |
+| Zakon o potvrđivanju Sporazuma o reorganizaciji dugova, između Republike Hrvatske, koju zastupa Ministarstvo financija za i u ime Vlade Republike Hrvatske i Oesterreichische kont | [`medunarodni/1996/61/`](medunarodni/1996/61/) | in force | 1 | 1996-09-04 | 1996-09-04 |
+| Uredba o potvrđivanju sporazuma između Vlade Republike Hrvatske i Vlade Republike Poljske o civilnom zračnom prometu | [`medunarodni/1996/69/`](medunarodni/1996/69/) | in force | 1 | 1996-12-12 | 1996-12-12 |
+| Zakon o potvrđivanju Sporazuma između Vlade Republike Hrvatske i Vlade Savezne Republike Njemačke o preuzimanju i reprogramiranju vanjskog duga | [`medunarodni/1996/70/`](medunarodni/1996/70/) | in force | 1 | 1998-11-02 | 1998-11-02 |
+| Uredba o potvrđivanju trgovinskog ugovora, između Vlade Republike Hrvatske i Vlade Češke Republike | [`medunarodni/1996/79/`](medunarodni/1996/79/) | repealed 2004-05-01 | 2 | 1996-11-19 | 2004-05-01 |
+| Uredba o potvrđivanju ugovora između Vlade Republike Hrvatske i Vlade Republike Turske o znanstvenoj, tehnološkoj i visokoškolskoj suradnji | [`medunarodni/1996/84/`](medunarodni/1996/84/) | in force | 1 | 1997-01-17 | 1997-01-17 |
+| Odluka o potvrđivanju Ugovora između Republike Hrvatske i Švicarske Konfederacije o socijalnom osiguranju | [`medunarodni/1996/86/`](medunarodni/1996/86/) | in force | 1 | 1998-01-01 | 1998-01-01 |
+| Uredba o potvrđivanju ugovora između Republike Hrvatske i Republike Mađarske o poticanju i uzajamnoj zaštiti ulaganja | [`medunarodni/1997/1/`](medunarodni/1997/1/) | repealed 2020-10-25 | 2 | 2002-03-01 | 2020-10-25 |
+| Uredba o potvrđivanju ugovora između Vlade Republike Hrvatske i Vlade Francuske Republike o poticanju i uzajamnoj zaštiti ulaganja | [`medunarodni/1997/2/`](medunarodni/1997/2/) | repealed 2021-08-28 | 2 | 1998-03-05 | 2021-08-28 |
+| Uredba o potvrđivanju Sporazuma između Vlade Republike Hrvatske i Vlade Republike Bugarske o zračnom prometu između i preko njihovih teritorija | [`medunarodni/1997/4/`](medunarodni/1997/4/) | in force | 1 | 1997-06-17 | 1997-06-17 |
+| Zakon o potvrđivanju Ugovora između Svete Stolice i Republike Hrvatske o dušobrižništvu katoličkih vjernika, pripadnika oružanih snaga i redarstvenih službi Republike Hrvatske | [`medunarodni/1997/9/`](medunarodni/1997/9/) | in force | 1 | 1997-04-09 | 1997-04-09 |
+| Zakon o potvrđivanju Ugovora između Svete Stolice i Republike Hrvatske o suradnji Na području odgoja i kulture | [`medunarodni/1997/10/`](medunarodni/1997/10/) | in force | 1 | 1997-04-09 | 1997-04-09 |
+| Zakon o potvrđivanju Međunarodne konvencije o pripravnosti, akciji i suradnji za slučaj onečišćenja uljem, iz 1990. godine | [`medunarodni/1997/11/`](medunarodni/1997/11/) | in force | 1 | 1998-04-12 | 1998-04-12 |
+| Zakon o potvrđivanju Protokola, iz 1992. godine, o izmjeni Međunarodne konvencije o građanskoj odgovornosti za štetu zbog onečišćenja uljem, iz 1969. godine | [`medunarodni/1997/12/`](medunarodni/1997/12/) | in force | 1 | 1999-01-12 | 1999-01-12 |
+| Zakon o potvrđivanju Protokola, iz 1992. godine, o izmjeni Međunarodne konvencije o osnivanju Međunarodnog fonda za naknadu štete zbog onečišćenja uljem, iz 1971. godine | [`medunarodni/1997/13/`](medunarodni/1997/13/) | in force | 1 | 1999-01-12 | 1999-01-12 |
+| Zakon o potvrđivanju Atenske konvencije iz 1974. godine o prijevozu putnika i njihove prtljage morem, s protokolima iz 1976. i 1990. godine | [`medunarodni/1997/14/`](medunarodni/1997/14/) | repealed 2014-04-23 | 2 | 1998-04-12 | 2014-04-23 |
+| Uredba o potvrđivanju Sporazuma između Vlade Republike Hrvatske i Vlade Republike Mađarske o suradnji Na području zaštite bilja | [`medunarodni/1997/16/`](medunarodni/1997/16/) | in force | 1 | 1997-04-02 | 1997-04-02 |
+| Uredba o potvrđivanju Sporazuma između Vlade Republike Hrvatske i Vlade Republike Slovenije o znanstvenoj i tehnološkoj suradnji | [`medunarodni/1997/17/`](medunarodni/1997/17/) | in force | 1 | 1997-03-05 | 1997-03-05 |
+| Odluka o pristupanju Mnogostranom sporazumu o komercijalnim pravima neredovitog zračnog prometa u Europi | [`medunarodni/1997/18/`](medunarodni/1997/18/) | in force | 1 | 1999-10-02 | 1999-10-02 |
+| Zakon o potvrđivanju Ugovora između Svete Stolice i Republike Hrvatske o pravnim pitanjima | [`medunarodni/1997/19/`](medunarodni/1997/19/) | in force | 1 | 1997-04-09 | 1997-04-09 |
+| Zakon o potvrđivanju Ugovora o suradnji između Vlade Republike Hrvatske i Vlade Republike Makedonije u borbi protiv međunarodne protuzakonite trgovine opojnim drogama i psihotropnim tvarima, međunaro | [`medunarodni/1997/21/`](medunarodni/1997/21/) | repealed 2013-08-19 | 2 | 1997-05-16 | 2013-08-19 |
+| Zakon o potvrđivanju Sporazuma između Vlade Republike Hrvatske i Vlade Kraljevine Norveške o konsolidaciji duga Republike Hrvatske | [`medunarodni/1997/22/`](medunarodni/1997/22/) | in force | 1 | 1997-08-25 | 1997-08-25 |
+| Zakon o potvrđivanju Sporazuma i Amandmana uz Sporazum između Vlade Republike Hrvatske i Vlade Države Kuvajt o konsolidaciji i reprogramiranju određenih dugova Republike Hrvatske prema Vladi Države k | [`medunarodni/1997/23/`](medunarodni/1997/23/) | in force | 1 | 1997-03-19 | 1997-03-19 |
+| Uredba o potvrđivanju ugovora između Vlade Republike Hrvatske i Vlade Republike Italije o poticanju i zaštiti ulaganja | [`medunarodni/1997/28/`](medunarodni/1997/28/) | in force | 1 | 1998-06-12 | 1998-06-12 |
+| Uredba o potvrđivanju ugovora između Vlade Republike Hrvatske i Vlade Republike Argentine o znanstvenoj i tehnološkoj suradnji | [`medunarodni/1997/29/`](medunarodni/1997/29/) | in force | 1 | 1997-05-22 | 1997-05-22 |
+| Uredba o potvrđivanju Ugovora između Vlade Republike Hrvatske i Saveznog vijeća Švicarske o preprati državljana trećih zemalja | [`medunarodni/1997/34/`](medunarodni/1997/34/) | in force | 1 | 1997-06-24 | 1997-06-24 |
+| Uredba o potvrđivanju Ugovora između Republike Hrvatske i Švicarske Konfederacije o poticanju i uzajamnoj zaštiti ulaganja | [`medunarodni/1997/35/`](medunarodni/1997/35/) | in force | 1 | 1997-06-17 | 1997-06-17 |
+| Uredba o potvrđivanju Ugovora između Vlade Republike Hrvatske i Vlade Helenske Republike o poticanju i uzajamnoj zaštiti ulaganja | [`medunarodni/1997/37/`](medunarodni/1997/37/) | repealed 2021-10-29 | 2 | 1998-10-21 | 2021-10-29 |
+| Uredba o potvrđivanju Ugovora između Republike Hrvatske i Češke Republike o poticanju i uzajamnoj zaštiti ulaganja | [`medunarodni/1997/38/`](medunarodni/1997/38/) | repealed 2021-12-10 | 2 | 1997-05-15 | 2021-12-10 |
+| Uredba o potvrđivanju Ugovora između Vlade Republike Hrvatske i Vlade Rumunjske o suradnji u turizmu | [`medunarodni/1997/39/`](medunarodni/1997/39/) | in force | 1 | 1997-05-15 | 1997-05-15 |
+| Uredba o potvrđivanju Ugovora između Vlade Republike Hrvatske i Vlade Republike Bosne i Hercegovine o poticanju i uzajamnoj zaštiti ulaganja | [`medunarodni/1997/47/`](medunarodni/1997/47/) | in force | 1 | 1997-08-04 | 1997-08-04 |
+| Uredba o potvrđivanju Ugovora između Vlade Republike Hrvatske i Vlade Republike Poljske o suradnji na području zaštite bilja | [`medunarodni/1997/48/`](medunarodni/1997/48/) | in force | 1 | 1997-09-05 | 1997-09-05 |
+| Uredba o potvrđivanju Ugovora između Vlade Republike Hrvatske i Vlade Republike Poljske o veterinarskoj suradnji | [`medunarodni/1997/49/`](medunarodni/1997/49/) | in force | 1 | 1997-09-01 | 1997-09-01 |
+| Uredba o potvrđivanju Ugovora o prosvjetnoj i kulturnoj suradnji između Vlade Republike Hrvatske i Vlade Republike Turske | [`medunarodni/1997/50/`](medunarodni/1997/50/) | in force | 1 | 1997-09-05 | 1997-09-05 |
+| Uredba o potvrđivanju Ugovora o kulturnoj, prosvjetnoj, znanstvenoj i športskoj suradnji između Vlade Republike Hrvatske i Vlade Slovačke Republike | [`medunarodni/1997/51/`](medunarodni/1997/51/) | in force | 1 | 1997-08-25 | 1997-08-25 |
+| Uredba o potvrđivanju Sporazuma o zračnom prometu, između Vlade Republike Hrvatske i Vlade Republike Francuske | [`medunarodni/1997/58/`](medunarodni/1997/58/) | in force | 1 | 1997-12-23 | 1997-12-23 |
+| Odluka o objavi Revidiranog dodatnog Sporazuma o pružanju tehnicke pomoći Vladi Republike Hrvatske od strane Međunarodne agencije za atomsku energiju | [`medunarodni/1997/60/`](medunarodni/1997/60/) | in force | 1 | 1999-11-26 | 1999-11-26 |
+| Uredba o potvrđivanju Ugovora između Vlade Republike Hrvatske i Vlade Republike Slovenije o uređivanju vodnogospodarskih odnosa | [`medunarodni/1997/62/`](medunarodni/1997/62/) | in force | 1 | 1998-03-19 | 1998-03-19 |
+| Zakon o potvrđivanju Ugovora između Vlade Republike Hrvatske i Vlade Ukrajine o izbjegavanju dvostrukog oporezivanja i sprečavanju izbjegavanja plaćanja poreza Na dohodak i Na imovinu | [`medunarodni/1997/65/`](medunarodni/1997/65/) | in force | 1 | 1999-06-01 | 1999-06-01 |
+| Zakon o potvrđivanju Ugovora između Republike Hrvatske i Republike Mađarske o izbjegavanju dvostrukog oporezivanja porezima Na dohodak i Na imovinu | [`medunarodni/1997/66/`](medunarodni/1997/66/) | in force | 1 | 1998-05-08 | 1998-05-08 |
+| Uredba o potvrđivanju ugovora između Republike Hrvatske i Države Kuwait o poticanju i uzajamnoj zaštiti ulaganja | [`medunarodni/1997/67/`](medunarodni/1997/67/) | in force | 1 | 1998-07-02 | 1998-07-02 |
+| Uredba o potvrđivanju Sporazuma između Vlade Republike Hrvatske i Vlade Kanade o poticanju i zaštiti ulaganja | [`medunarodni/1997/71/`](medunarodni/1997/71/) | in force | 1 | 2001-01-30 | 2001-01-30 |
+| Uredba o potvrđivanju ugovora između Republike Hrvatske i Portugalske Republike o poticanju i uzajamnoj zaštiti ulaganja | [`medunarodni/1997/72/`](medunarodni/1997/72/) | repealed 2022-10-14 | 2 | 1997-10-24 | 2022-10-14 |
+| Uredba o potvrđivanju ugovora između Vlade Republike Hrvatske i Vlade Republike Armenije o uzajamnom ukidanju viza za nositelje diplomatskih i službenih putovnica | [`medunarodni/1997/73/`](medunarodni/1997/73/) | in force | 1 | 1999-12-25 | 1999-12-25 |
+| Uredba o potvrđivanju ugovora između Vlade Republike Hrvatske i Vlade Republike Mađarske o turističkoj suradnji | [`medunarodni/1997/74/`](medunarodni/1997/74/) | in force | 1 | 1997-10-17 | 1997-10-17 |
+| Uredba o utvrđivanju ugovora između Vlade Republike Hrvatske i Vlade Republike Poljske o turističkoj suradnji | [`medunarodni/1997/75/`](medunarodni/1997/75/) | in force | 1 | 1997-09-05 | 1997-09-05 |
+| Uredba o potvrđivanju ugovora između Vlade Republike Hrvatske i Vlade Slovačke Republike o turističkoj suradnji | [`medunarodni/1997/76/`](medunarodni/1997/76/) | in force | 1 | 1998-10-22 | 1998-10-22 |
+| Uredba o potvrđivanju ugovora o znanstvenoj i tehnološkoj suradnji između Vlade Republike Hrvatske i Vlade Republike Makedonije | [`medunarodni/1997/77/`](medunarodni/1997/77/) | in force | 1 | 1997-09-22 | 1997-09-22 |
+| Odluka o objavi Sporazuma između Vlade Republike Hrvatske i Vlade Ujedinjenog Kraljevstva Velike Britanije i Sjeverne Irske o poticanju i zaštiti ulaganja | [`medunarodni/1997/78/`](medunarodni/1997/78/) | repealed 2025-03-17 | 2 | 1998-04-16 | 2025-03-17 |
+| Uredba o potvrđivanju ugovora između Vlade Republike Hrvatske i Vlade Kraljevine Norveške o međunarodnom cestovnom prijevozu putnika i stvari | [`medunarodni/1997/84/`](medunarodni/1997/84/) | in force | 1 | 1998-01-16 | 1998-01-16 |
+| Odluka o objavi Sporazuma između Vlade Republike Hrvatske i Vlade Republike Mađarske o priznavanju svjedodžbi o školskoj spremi, diploma i stupnjeva visokoškolskog obrazovanja stečenih u Republici hr | [`medunarodni/1997/85/`](medunarodni/1997/85/) | in force | 1 | 1998-01-01 | 1998-01-01 |
+| Zakon o potvrđivanju Europske povelje o lokalnoj samoupravi | [`medunarodni/1997/95/`](medunarodni/1997/95/) | in force | 1 | 1998-02-01 | 1998-02-01 |
+| Zakon o potvrđivanju Ugovora između Republike Hrvatske i Talijanske Republike o pravima manjina | [`medunarodni/1997/100/`](medunarodni/1997/100/) | in force | 1 | 1998-07-08 | 1998-07-08 |
+| Zakon o potvrđivanju Ugovora o socijalnom osiguranju između Republike Hrvatske i Republike Austrije | [`medunarodni/1997/101/`](medunarodni/1997/101/) | in force | 1 | 1998-10-01 | 1998-10-01 |
+| Zakon o potvrđivanju Sporazuma između Republike Hrvatske i Republike Slovenije o pograničnom prometu i suradnji | [`medunarodni/1997/102/`](medunarodni/1997/102/) | in force | 1 | 2001-09-05 | 2001-09-05 |
+| Zakon o potvrđivanju Ugovora između Republike Hrvatske i Republike Makedonije o socijalnom osiguranju | [`medunarodni/1997/104/`](medunarodni/1997/104/) | in force | 1 | 1997-11-01 | 1997-11-01 |
+| Zakon o potvrđivanju Ugovora o slobodnoj trgovini između Republike Hrvatske i Republike Makedonije | [`medunarodni/1997/105/`](medunarodni/1997/105/) | in force | 1 | 1997-10-30 | 1997-10-30 |
+| Uredba o potvrđivanju ugovora između Republike Hrvatske i Republike Turske o poticanju i uzajamnoj zaštiti ulaganja | [`medunarodni/1997/106/`](medunarodni/1997/106/) | in force | 1 | 1998-04-21 | 1998-04-21 |
+| Zakon o potvrđivanju Ugovora između Republike Hrvatske i Južnoafričke Republike o izbjegavanju dvostrukog oporezivanja i sprečavanju izbjegavanja plaćanja poreza Na dohodak | [`medunarodni/1997/110/`](medunarodni/1997/110/) | in force | 1 | 1997-11-11 | 1997-11-11 |
+| Uredba o potvrđivanju ugovora između Vlade Republike Hrvatske i Vlade Savezne Republike Njemačke o njemačkim ratnim grobovima u Republici Hrvatskoj | [`medunarodni/1997/111/`](medunarodni/1997/111/) | in force | 1 | 1997-12-07 | 1997-12-07 |
+| Uredba o potvrđivanju ugovora između Vlade Republike Hrvatske i Vlade Republike Indonezije o gospodarskoj i tehničkoj suradnji | [`medunarodni/1997/112/`](medunarodni/1997/112/) | in force | 1 | 1998-09-01 | 1998-09-01 |
+| Uredba o potvrđivanju ugovora o trgovini i gospodarskoj suradnji, između Republike Hrvatske i Republike Turske | [`medunarodni/1997/113/`](medunarodni/1997/113/) | in force | 1 | 1999-08-25 | 1999-08-25 |
+| Uredba o potvrđivanju Sporazuma o turističkoj suradnji, između Vlade Republike Hrvatske i Vlade Talijanske Republike | [`medunarodni/1997/114/`](medunarodni/1997/114/) | in force | 1 | 1998-08-20 | 1998-08-20 |
+| Odluka o objavi Sporazuma između Vlade Republike Hrvatske i Vlade Republike Slovenije o obavljanju željezničkog prometa preko državne granice | [`medunarodni/1997/115/`](medunarodni/1997/115/) | in force | 1 | 2002-12-12 | 2002-12-12 |
+| Zakon o potvrđivanju Konvencije za zaštitu ljudskih prava i temeljnih sloboda i Protokola br. 1., 4., 6., 7., i 11. uz Konvenciju za zaštitu ljudskih prava i temeljnih sloboda | [`medunarodni/1997/120/`](medunarodni/1997/120/) | in force | 1 | 1997-10-28 | 1997-10-28 |
+| Zakon o potvrđivanju Ugovora između Vlade Republike Hrvatske i Vlade Helenske Republike o izbjegavanju svostrukog oporezivanja porezima Na dohodak i Na imovinu | [`medunarodni/1997/122/`](medunarodni/1997/122/) | in force | 1 | 1998-12-18 | 1998-12-18 |
+| Uredba o potvrđivanju ugovora o kulturnoj i prosvjetnoj suradnji između Vlade Republike Hrvatske i Vlade Republike Makedonije | [`medunarodni/1997/123/`](medunarodni/1997/123/) | in force | 1 | 1997-11-11 | 1997-11-11 |
+| Uredba o potvrđivanju ugovora između Republike Hrvatske i Republike Austrije o poticanju i zaštiti ulaganja | [`medunarodni/1997/126/`](medunarodni/1997/126/) | repealed 2021-11-30 | 2 | 1999-11-01 | 2021-11-30 |
+| Zakon o potvrđivanju Ugovora o socijalnom osiguranju između Republike Hrvatske i Slovačke Republike | [`medunarodni/1997/132/`](medunarodni/1997/132/) | in force | 1 | 1998-05-01 | 1998-05-01 |
+| Uredba o potvrđivanju ugovora između Vlade Republike Hrvatske i Vlade Republike Mađarske o međunarodnom kombiniranom prijevozu stvari | [`medunarodni/1997/133/`](medunarodni/1997/133/) | in force | 1 | 1998-08-15 | 1998-08-15 |
+| Zakon o potvrđivanju Ugovora o socijalnom osiguranju između Republike Hrvatske i Republike Italije | [`medunarodni/1997/141/`](medunarodni/1997/141/) | in force | 1 | 2003-11-01 | 2003-11-01 |
+| Uredba o potvrđivanju ugovora o kulturnoj suradnji između Vlade Republike Hrvatske i Vlade Savezne Republike Njemačke, s Protokolom | [`medunarodni/1997/152/`](medunarodni/1997/152/) | in force | 1 | 1998-01-23 | 1998-01-23 |
+| Uredba o potvrđivanju Sporazuma između Vlade Republike Hrvatske i Vlade Savezne Republike Njemačke o međunarodnom cestovnom prometu osoba i stvari | [`medunarodni/1997/153/`](medunarodni/1997/153/) | in force | 1 | 1998-01-23 | 1998-01-23 |
+| Odluka o objavi Ugovora o slobodnoj trgovini između Republike Hrvatske i Republike Slovenije | [`medunarodni/1997/154/`](medunarodni/1997/154/) | in force | 1 | 1999-05-01 | 1999-05-01 |
+| Odluka o objavi Konvencije o rješavanju ulagačkih sporova između država i državljana drugih država | [`medunarodni/1998/5/`](medunarodni/1998/5/) | in force | 1 | 1998-10-22 | 1998-10-22 |
+| Odluka o objavi ugovora između Vlade Republike Hrvatske i Vlade Republike Bugarske o suradnji Na području zaštite bilja | [`medunarodni/1998/6/`](medunarodni/1998/6/) | in force | 1 | 1998-03-27 | 1998-03-27 |
+| Zakon o potvrđivanju Ugovora između Republike Hrvatske i Republike Bugarske o izbjegavanju dvostrukog oporezivanja porezima Na dohodak i Na imovinu | [`medunarodni/1998/12/`](medunarodni/1998/12/) | in force | 1 | 1998-07-30 | 1998-07-30 |
+| Zakon o potvrđivanju Ugovora o suradnji Na području patenata (pct) | [`medunarodni/1998/14/`](medunarodni/1998/14/) | in force | 1 | 1998-07-01 | 1998-07-01 |
+| Odluka o objavi ugovora između Vlade Republike Hrvatske i Vlade Republike mađarske 0 ujednačavanju isprava za prelazak državne granice u službene svrhe . | [`medunarodni/1998/23/`](medunarodni/1998/23/) | in force | 1 | 1998-07-01 | 1998-07-01 |
+| Odluka o objavi Sporazuma između Vlade Republike Hrvatske i Vlade Republike Slovenije o međunarodnom kombiniranom prijevozu | [`medunarodni/1998/25/`](medunarodni/1998/25/) | in force | 1 | 2000-06-09 | 2000-06-09 |
+| Odluka o povlačenju rezerve Republike Hrvatske Na članak 9. stavak 1. Konvencije o pravima djeteta | [`medunarodni/1998/27/`](medunarodni/1998/27/) | in force | 1 | 1998-05-26 | 1998-05-26 |
+| Uredba o potvrđivanju ugovora između Vlade Republike Hrvatske i Vlade Republike Bugarske o kulturnoj, prosvjetnoj i znanstvenoj suradnji | [`medunarodni/1998/34/`](medunarodni/1998/34/) | in force | 1 | 1998-05-28 | 1998-05-28 |
+| Odluka o objavi ugovora o turističkoj suradnji, između Vlade Republike Hrvatske i Vlade Republike Bugarske | [`medunarodni/1998/37/`](medunarodni/1998/37/) | in force | 1 | 1999-01-25 | 1999-01-25 |
+| Odluka o objavi ugovora između Vlade Republike Hrvatske i Vlade Republike Turske o turističkoj suradnji | [`medunarodni/1998/38/`](medunarodni/1998/38/) | in force | 1 | 1998-05-04 | 1998-05-04 |
+| Zakon o potvrđivanju Ugovora između Republike Hrvatske i Savezne Republike Jugoslavije o pravnoj pomoći u građanskim i kaznenim stvarima | [`medunarodni/1998/44/`](medunarodni/1998/44/) | in force | 1 | 1998-05-28 | 1998-05-28 |
+| Zakon o potvrđivanju Ugovora između Vlade Republike Hrvatske i Vlade Republike Mađarske o suradnji Na području zaštite od prirodnih i civilizacijskih katastrofa | [`medunarodni/1998/45/`](medunarodni/1998/45/) | in force | 1 | 1998-05-01 | 1998-05-01 |
+| Zakon o potvrđivanju Konzularne konvencije između Republike Hrvatske i Republike Makedonije | [`medunarodni/1998/46/`](medunarodni/1998/46/) | in force | 1 | 1998-05-28 | 1998-05-28 |
+| Zakon o potvrđivanju Ugovora između Vlade Republike Hrvatske i Vlade Kraljevine Švedske o reprogramiranju hrvatskog duga | [`medunarodni/1998/47/`](medunarodni/1998/47/) | in force | 1 | 1998-04-28 | 1998-04-28 |
+| Odluka o otkazu međunarodne konvencije o građanskoj odgovornosti za štetu prouzročenu onečišćenjem uljem iz 1969. godine i međunarodne konvencije o osnivanju Međunarodnog fonda za naknadu štete prouzr | [`medunarodni/1998/48/`](medunarodni/1998/48/) | in force | 1 | 1999-07-30 | 1999-07-30 |
+| Zakon o potvrđivanju Ugovora o socijalnom osiguranju između Republike Hrvatske i Savezne Republike Njemačke | [`medunarodni/1998/55/`](medunarodni/1998/55/) | in force | 1 | 1998-12-01 | 1998-12-01 |
+| Zakon o potvrđivanju Konzularne konvencije između Republike Hrvatske i Rumunjske | [`medunarodni/1998/56/`](medunarodni/1998/56/) | in force | 1 | 1998-07-01 | 1998-07-01 |
+| Uredba o potvrđivanju Sporazuma između Vlade Republike Hrvatske i Vlade Ukrajine o suradnji Na području kulture, prosvjete, znanosti i tehnologije | [`medunarodni/1998/65/`](medunarodni/1998/65/) | in force | 1 | 1999-06-01 | 1999-06-01 |
+| Uredba o potvrđivanju ugovora između Republike Hrvatske i Arapske Republike Egipat o poticanju i uzajamnoj zaštiti ulaganja | [`medunarodni/1998/66/`](medunarodni/1998/66/) | in force | 1 | 1999-05-02 | 1999-05-02 |
+| Zakon o potvrđivanju Međunarodne konvencije o spašavanju, 1989. | [`medunarodni/1998/78/`](medunarodni/1998/78/) | in force | 1 | 1999-09-10 | 1999-09-10 |
+| Zakon o potvrđivanju sporazuma o uspostavljanju Međudržavnog vijeća za suradnju između Republike Hrvatske i Bosne i Hercegovine | [`medunarodni/1998/79/`](medunarodni/1998/79/) | in force | 1 | 1998-09-25 | 1998-09-25 |
+| Odluka o objavi Sporazuma između Vlade Republike Hrvatske i Vlade Republike Austrije 0 turističkoj suradnji | [`medunarodni/1998/83/`](medunarodni/1998/83/) | in force | 1 | 1998-08-01 | 1998-08-01 |
+| Odluka o objavi Sporazuma između Republike Hrvatske i Republike Slovenije o pravodobnoj razmjeni informacija U č slučaju radiološke opasnosti | [`medunarodni/1998/84/`](medunarodni/1998/84/) | in force | 1 | 1999-04-09 | 1999-04-09 |
+| Odluka o objavi ugovora o poticanju i uzajamnoj zaštiti ulaganja, između Republike Hrvatske i Kraljevine Nizozemske | [`medunarodni/1998/90/`](medunarodni/1998/90/) | repealed 2021-03-31 | 2 | 1999-05-01 | 2021-03-31 |
+| Pravilnik prema Ugovoru o suradnji | [`medunarodni/1998/95/`](medunarodni/1998/95/) | in force | 1 | 1998-07-31 | 1998-07-31 |
+| Uredba o potvrđivanju ugovora između Republike Hrvatske i Kraljevine Španjolske o poticanju i uzajamnoj zaštiti ulaganja | [`medunarodni/1998/100/`](medunarodni/1998/100/) | in force | 1 | 1998-09-17 | 1998-09-17 |
+| Uredba o potvrđivanju Sporazuma između Vlade Republike Hrvatske i Vlade Velikog Vojvodstva Luksemburga o zračnom prometu | [`medunarodni/1998/102/`](medunarodni/1998/102/) | in force | 1 | 1999-06-24 | 1999-06-24 |
+| Uredba o potvrđivanju ugovora između Republike Hrvatske i Savezne Republike Njemačke o poticanju i uzajamnoj zaštiti ulaganja | [`medunarodni/1998/108/`](medunarodni/1998/108/) | repealed 2021-06-09 | 2 | 2000-09-28 | 2021-06-09 |
+| Uredba o pristupanju Konvenciji kojom se osniva Međunarodna organizacija za zakonsko mjeriteljstvo | [`medunarodni/1998/109/`](medunarodni/1998/109/) | in force | 1 | 1999-01-24 | 1999-01-24 |
+| Odluka o objavi Sporazuma između Vlade Republike Hrvatske i Vlade Države Izrael o suradnji Na području turizma | [`medunarodni/1998/111/`](medunarodni/1998/111/) | in force | 1 | 1999-05-02 | 1999-05-02 |
+| Zakon o potvrđivanju Sporazuma između Vlade Republike Hrvatske i Vlade Republike Slovenije o suradnji u zaštiti od prirodnih i civilizacijskih katastrofa | [`medunarodni/1998/119/`](medunarodni/1998/119/) | in force | 1 | 1999-11-01 | 1999-11-01 |
+| Zakon o potvrđivanju Okvirnog ugovora o zajmu između Fonda Vijeća Europe za socijalni razvoj i Republike Hrvatske za projekt 1279 (1998.) - obnova škola u Istočnoj Slavoniji | [`medunarodni/1998/120/`](medunarodni/1998/120/) | in force | 1 | 1998-10-14 | 1998-10-14 |
+| Zakon o potvrđivanju Okvirnog ugovora o zajmu između Fonda Vijeća Europe za socijalni razvoj i Republike Hrvatske za Projekt 1278 (1998.) - obnova zdravstvene infrastrukture u is | [`medunarodni/1998/121/`](medunarodni/1998/121/) | in force | 1 | 1998-10-14 | 1998-10-14 |
+| Uredba o objavi ugovora između Republike Hrvatske i Portugalske Republike o suradnji Na području kulture, prosvjete i znanosti | [`medunarodni/1998/122/`](medunarodni/1998/122/) | in force | 1 | 1998-10-22 | 1998-10-22 |
+| Zakon o potvrđivanju konzularne konvencije između Republike Hrvatske i Republike Albanije | [`medunarodni/1998/139/`](medunarodni/1998/139/) | in force | 1 | 1999-06-11 | 1999-06-11 |
+| Uredba o potvrđivanju Sporazuma između Vlade Republike Hrvatske i Vlade Republike Indonezije o zračnom prometu | [`medunarodni/1998/140/`](medunarodni/1998/140/) | in force | 1 | 2003-02-01 | 2003-02-01 |
+| Uredba o potvrđivanju Sporazuma o zračnom prometu, između Vlade Republike Hrvatske i Vlade Malezije | [`medunarodni/1998/145/`](medunarodni/1998/145/) | in force | 1 | 1999-01-11 | 1999-01-11 |
+| Zakon o potvrđivanju Ugovora između Vlade Republike Hrvatske i Vlade Republike Litve o predaji i prihvatu osoba kojih je ulazak ili boravak protuzakonit | [`medunarodni/1998/155/`](medunarodni/1998/155/) | in force | 1 | 2000-01-01 | 2000-01-01 |
+| Uredba o objavi ugovora između Vlade Republike Hrvatske i Vlade Slovačke Republike o međunarodnom kombiniranom prijevozu | [`medunarodni/1998/160/`](medunarodni/1998/160/) | in force | 1 | 1999-02-10 | 1999-02-10 |
+| Zakon o potvrđivanju Ugovora između Svete Stolice i Republike Hrvatske o gospodarskim pitanjima | [`medunarodni/1998/165/`](medunarodni/1998/165/) | in force | 1 | 1998-12-30 | 1998-12-30 |
+| Zakon o potvrđivanju Ugovora izmeđurepublike Hrvatske i Kraljevine Nizozemske o socijalnom osiguranju | [`medunarodni/1999/7/`](medunarodni/1999/7/) | in force | 1 | 2000-10-01 | 2000-10-01 |
+| Uredba o potvrđivanju ugovora o kulturnoj, prosvjetnoj i znanstvenojsuradnji između Vlade Republike Hrvatske i Vlade Republike Mađarske | [`medunarodni/1999/11/`](medunarodni/1999/11/) | in force | 1 | 1999-03-05 | 1999-03-05 |
+| Uredba o objavi ugovora između Vlade Republike Hrvatske ivlade Rumunjske o suradnji Na području zaštite bilja | [`medunarodni/1999/12/`](medunarodni/1999/12/) | in force | 1 | 1999-06-04 | 1999-06-04 |
+| Zakon o potvrđivanju Ugovora izmeđuvlade Republike Hrvatske i Vlade Kraljevine Belgije o davanju financijskepomoći Vlade Kraljevine Belgije Vladi Republike Hrvatske | [`medunarodni/1999/14/`](medunarodni/1999/14/) | in force | 1 | 1999-03-15 | 1999-03-15 |
+| Zakon o potvrđivanju Zajedničke konvencijeo sigurnosti zbrinjavanja istrošenog goriva i sigurnosti zbrinjavanja radioaktivnogotpada | [`medunarodni/1999/15/`](medunarodni/1999/15/) | in force | 1 | 2001-06-18 | 2001-06-18 |
+| Uredba o objavi ugovora između Vlade Republike Hrvatske ivlade Češke Republike o suradnji Na području zaštite bilja | [`medunarodni/1999/17/`](medunarodni/1999/17/) | repealed 2004-05-01 | 2 | 1999-04-22 | 2004-05-01 |
+| Zakon o potvrđivanju Ugovora o prijateljstvui suradnji između Republike Hrvatske i Rumunjske | [`medunarodni/1999/110/`](medunarodni/1999/110/) | in force | 1 | 1999-04-15 | 1999-04-15 |
+| Uredba o objavi Sporazuma između Vlade Republike hrvatskei Vlade Ruske Federacije o suradnji Na području kulture | [`medunarodni/1999/114/`](medunarodni/1999/114/) | in force | 1 | 1999-05-12 | 1999-05-12 |
+| Zakon o potvrđivanju Ugovora izmeđurepublike Hrvatske i Republike Turske o izbjegavanju dvostrukog oporezivanjaporezom Na dohodak | [`medunarodni/1999/118/`](medunarodni/1999/118/) | in force | 1 | 2000-05-18 | 2000-05-18 |
+| Uredba o objavi ugovora između Vlade Republike Hrvatske ivlade Republike Makedonije o suradnji Na području zaštite bilja | [`medunarodni/1999/120/`](medunarodni/1999/120/) | repealed 2013-07-01 | 2 | 1999-06-27 | 2013-07-01 |
+| Uredba o objavi ugovora između Vlade Republike Hrvatske ivlade Republike Turske o veterinarskoj suradnji | [`medunarodni/1999/121/`](medunarodni/1999/121/) | repealed 2014-06-01 | 2 | 1999-06-01 | 2014-06-01 |
+| Zakon o potvrđivanju Ugovora između Vlade Republike Hrvatske i Vlade Ruske Federacije o suradnji i uzajamnoj pomoći u borbi protiv nezakonitih financijskih radnji, uključujući financijske radnje povezane s legalizacijom (pranjem) prihoda stečenih nezakonitim putem | [`medunarodni/1999/137/`](medunarodni/1999/137/) | in force | 1 | 1999-05-31 | 1999-05-31 |
+| Uredba o potvrđivanju ugovora između Vlade Republike hrvatskei Vlade Ujedinjenog Kraljevstva Velike Britanije i Sjeverne Irske o međunarodnomcestovnom prometu | [`medunarodni/1999/138/`](medunarodni/1999/138/) | in force | 1 | 2005-06-30 | 2005-06-30 |
+| Uredba o objavi Sporazuma između Vlade Republike Hrvatske i Vlade Republike Indije o suradnji Na području kulture, prosvjete, znanosti, tehnologije i športa | [`medunarodni/1999/139/`](medunarodni/1999/139/) | in force | 1 | 1999-11-30 | 1999-11-30 |
+| Uredba o objavi ugovora između Vlade Republike Hrvatske ivlade Islamske Republike Iran o kulturnoj, prosvjetnoj i znanstvenoj suradnji | [`medunarodni/1999/140/`](medunarodni/1999/140/) | in force | 1 | 2002-05-29 | 2002-05-29 |
+| Konvencija za zaštitu ljudskih prava i temeljnih sloboda te protokolabr. 1, protokola br. 4, protokola br. 6 i protokola br. 7. uz tu Konvenciju | [`medunarodni/1999/142/`](medunarodni/1999/142/) | in force | 1 | 1999-05-18 | 1999-05-18 |
+| Zakon o potvrđivanju Europskog sporazumao osobama koje sudjeluju u postupcima pred Europskim sudom za ljudska prava | [`medunarodni/1999/148/`](medunarodni/1999/148/) | in force | 1 | 2000-02-01 | 2000-02-01 |
+| Zakon o potvrđivanju Ugovora između Republike hrvatskei Republike Malte o izbjegavanju dvostrukog oporezivanja porezima Na dohodak | [`medunarodni/1999/149/`](medunarodni/1999/149/) | in force | 1 | 1999-08-22 | 1999-08-22 |
+| Zakon o potvrđivanju Ugovora o socijalnomosiguranju između Republike Hrvatske i Češke Republike | [`medunarodni/1999/150/`](medunarodni/1999/150/) | in force | 1 | 2000-07-01 | 2000-07-01 |
+| Zakon o potvrđivanju Konvencije o prekograničnimučincima industrijskih nesreća | [`medunarodni/1999/151/`](medunarodni/1999/151/) | in force | 1 | 2000-04-19 | 2000-04-19 |
+| Uredba o potvrđivanju ugovora između Vlade Republike hrvatskei Vlade Ruske Federacije o međunarodnom cestovnom prometu | [`medunarodni/1999/152/`](medunarodni/1999/152/) | in force | 1 | 1999-08-18 | 1999-08-18 |
+| Uredba o potvrđivanju ugovora između Vlade Republike hrvatskei Vlade Republike Austrije o međunarodnom prijevozu stvari, s dodatnimprotokolom | [`medunarodni/1999/153/`](medunarodni/1999/153/) | in force | 1 | 2002-06-01 | 2002-06-01 |
+| Zakon o potvrđivanju Ugovora izmeđurepublike Hrvatske i Švicarske Konfederacije o izbjegavanju dvostrukogoporezivanja porezima Na dohodak i Na imovinu | [`medunarodni/1999/160/`](medunarodni/1999/160/) | in force | 1 | 1999-12-20 | 1999-12-20 |
+| Zakon o potvrđivanju Ugovora izmeđurepublike Hrvatske i Češke Republike o izbjegavanju dvostrukog oporezivanjaporezima Na dohodak i Na imovinu | [`medunarodni/1999/161/`](medunarodni/1999/161/) | in force | 1 | 1999-12-28 | 1999-12-28 |
+| Zakon o potvrđivanju Ugovora o prijateljskimodnosima i suradnji između Republike Hrvatske i Republike Makedonije | [`medunarodni/1999/162/`](medunarodni/1999/162/) | in force | 1 | 1999-07-21 | 1999-07-21 |
+| O objavi trgovinskog ugovora, između Vlade republikehrvatske i Vlade Kraljevine Maroko Trgovinski ugovor, između Vlade Republike hrvatskei Vlade Kraljevine Maroko | [`medunarodni/1999/169/`](medunarodni/1999/169/) | repealed 2015-09-28 | 2 | 2000-09-28 | 2015-09-28 |
+| Uredba o objavi ugovora između Vlade Republike Hrvatske ivlade Republike Makedonije o uređenju imovinskopravnih odnosa | [`medunarodni/1999/170/`](medunarodni/1999/170/) | in force | 1 | 1999-08-12 | 1999-08-12 |
+| Uredba Ugovor između Vlade Republike Hrvatske i Vlade republikeestonije o kulturnoj suradnji | [`medunarodni/1999/171/`](medunarodni/1999/171/) | in force | 1 | 1999-08-31 | 1999-08-31 |
+| Uredba o pristupanju Strasbourškom sporazumu o međunarodnojklasifikaciji patenata | [`medunarodni/1999/182/`](medunarodni/1999/182/) | in force | 1 | 2000-11-25 | 2000-11-25 |
+| Uredba o pristupanju Budimpeštanskom ugovoru o međunarodnompriznavanju depozita mikroorganizama za potrebe patentnog postupka | [`medunarodni/1999/183/`](medunarodni/1999/183/) | in force | 1 | 2000-02-25 | 2000-02-25 |
+| Uredba o potvrđivanju ugovora o pomorskom prijevozu, izmeđuvlade Republike Hrvatske i Vlade Republike Indije | [`medunarodni/1999/184/`](medunarodni/1999/184/) | in force | 1 | 1999-11-30 | 1999-11-30 |
+| Uredba o objavi ugovora između Vlade Republike Hrvatske ivlade Slovačke Republike o priznavanju istovrijednosti isprava o obrazovanjuizdatih u Republici Hrvatskoj i Slovačkoj Republici | [`medunarodni/1999/185/`](medunarodni/1999/185/) | in force | 1 | 2000-02-01 | 2000-02-01 |
+| Uredba o objavi Sporazuma između Vlade Republike hrvatskei Vlade Kraljevine Maroko o uzajamnom ukidanju viza za nositelje diplomatskih,službenih i posebnih putovnica | [`medunarodni/1999/187/`](medunarodni/1999/187/) | in force | 1 | 2001-01-04 | 2001-01-04 |
+| Uredba o objavi Sporazuma između Vlade Republike hrvatskei Vlade Republike Mađarske o pravodobnoj razmjeni informacija o slučajuradiološke opasnosti | [`medunarodni/1999/188/`](medunarodni/1999/188/) | in force | 1 | 1999-12-10 | 1999-12-10 |
+| Zakon o potvrđivanju Ugovora između Republike Hrvatske i Kanade o izbjegavanju dvostrukog oporezivanja i sprečavanju izbjegavanja plaćanja poreza na dohodak i na imovinu | [`medunarodni/1999/195/`](medunarodni/1999/195/) | in force | 1 | 1999-11-23 | 1999-11-23 |
+| Zakon o potvrđivanju Konvencije o međunarodnoj trgovini ugroženim vrstama divljih životinja i biljaka (CITES) | [`medunarodni/1999/196/`](medunarodni/1999/196/) | in force | 1 | 2013-11-29 | 2013-11-29 |
+| Zakon o potvrđivanju Djelomičnog i proširenog sporazuma o osnivanju »Skupine država za borbu protiv korupcije - GRECO« | [`medunarodni/1999/197/`](medunarodni/1999/197/) | in force | 1 | 1999-10-18 | 1999-10-18 |
+| Zakon o potvrđivanju Međunarodne konvencije protiv novačenja, korištenja, plaćanja i osposobljavanja plaćenika | [`medunarodni/1999/199/`](medunarodni/1999/199/) | in force | 1 | 2001-10-20 | 2001-10-20 |
+| Zakon o potvrđivanju Ugovora između Vlade Republike Hrvatske i Vlada Kraljevine Belgije, Velikog Vojvodstva Luksemburg i Kraljevine Nizozemske o prihvatu osoba kojih je ulazak ili boravak protuzakonit | [`medunarodni/1999/200/`](medunarodni/1999/200/) | in force | 1 | 2005-02-01 | 2005-02-01 |
+| Uredba o pristupanju Konvenciji za zaštitu proizvođača fonograma od neodobrenog umnožavanja njihovih fonograma | [`medunarodni/1999/201/`](medunarodni/1999/201/) | in force | 1 | 2000-04-20 | 2000-04-20 |
+| Uredba o pristupanju Međunarodnoj konvenciji za zaštitu umjetnika izvođača, proizvođača fonograma i organizacija za radiodifuziju | [`medunarodni/1999/202/`](medunarodni/1999/202/) | in force | 1 | 2000-04-20 | 2000-04-20 |
+| Uredba o objavi Sporazuma između Vlade Republike hrvatskei Vlade Republike Kostarike o uzajamnom ukidanju viza za nositelje diplomatskihi službenih putovnica | [`medunarodni/1999/210/`](medunarodni/1999/210/) | in force | 1 | 2001-06-20 | 2001-06-20 |
+| Uredba o objavi ugovora između Republike Hrvatske i republikeslovenije o uređenju imovinskopravnih odnosa | [`medunarodni/1999/226/`](medunarodni/1999/226/) | in force | 1 | 2000-02-23 | 2000-02-23 |
+| Uredba o objavi ugovora između Vlade Republike Hrvatske ivlade Republike Mađarske o suradnji i međusobnoj pomoći u carinskim pitanjima | [`medunarodni/1999/227/`](medunarodni/1999/227/) | in force | 1 | 2000-04-29 | 2000-04-29 |
+| Uredba o objavi ugovora između Vlade Republike Hrvatske ivlade Republike Latvije o kulturnoj suradnji | [`medunarodni/1999/229/`](medunarodni/1999/229/) | in force | 1 | 2000-02-23 | 2000-02-23 |
+| Uredba o objavi ugovora o pomorskom prijevozu, između vladerepublike Hrvatske i Vlade Kraljevine Maroko | [`medunarodni/1999/230/`](medunarodni/1999/230/) | in force | 1 | 2001-10-09 | 2001-10-09 |
+| Uredba o potvrđivanju ugovora između Vlade Republike Hrvatske i Vlade Republike Albanije o veterinarskoj suradnji | [`medunarodni/2000/3/`](medunarodni/2000/3/) | repealed 2013-11-23 | 2 | 2000-02-01 | 2013-11-23 |
+| Uredba o objavi ugovora između Vlade Republike Hrvatske i Vlade Republike Turske o suradnji i međusobnoj pomoći u carinskim pitanjima | [`medunarodni/2000/4/`](medunarodni/2000/4/) | in force | 1 | 2000-03-01 | 2000-03-01 |
+| Uredba o potvrđivanju ugovora između Vlade Republike Hrvatske i Vlade Slovačke Republike o veterinarskoj suradnji | [`medunarodni/2000/8/`](medunarodni/2000/8/) | repealed 2005-04-14 | 2 | 2000-03-01 | 2005-04-14 |
+| Uredba o potvrđivanju Sporazuma o zračnom prometu između Vlade Republike Hrvatske i Vlade Češke Republike | [`medunarodni/2000/9/`](medunarodni/2000/9/) | in force | 1 | 2000-03-01 | 2000-03-01 |
+| Uredba o prihvatu izmijenjene Konvencije Europske organizacije za satelitske komunikacije (Eutelsat) | [`medunarodni/2000/10/`](medunarodni/2000/10/) | in force | 1 | 2002-11-28 | 2002-11-28 |
+| Uredba o prihvatu izmjena Statuta Međunarodne organizacije za migracije i objavi pročišćenog teksta Statuta | [`medunarodni/2000/11/`](medunarodni/2000/11/) | in force | 1 | 2000-02-22 | 2000-02-22 |
+| Uredba o potvrđivanju ugovora između Vlade Republike Hrvatske i Vlade Hašemitske Kraljevine Jordan o uzajamnom poticanju i zaštiti ulaganja | [`medunarodni/2000/16/`](medunarodni/2000/16/) | in force | 1 | 2000-04-27 | 2000-04-27 |
+| Uredba o objavi ugovora između Vlade Republike Hrvatske i Vlade Češke Republike o međusobnoj pomoći u carinskim pitanjima | [`medunarodni/2000/17/`](medunarodni/2000/17/) | in force | 1 | 2000-04-01 | 2000-04-01 |
+| Uredba o objavi ugovora o trgovini i gospodarskoj suradnji, između Republike Hrvatske i Švicarske Konfederacije | [`medunarodni/2000/18/`](medunarodni/2000/18/) | repealed 2013-09-19 | 2 | 2000-06-01 | 2013-09-19 |
+| Zakon O potvrđivanju unidroit-ove Konvencije O ukradenim ili nezakonito izvezenim kulturnim dobrima | [`medunarodni/2000/46/`](medunarodni/2000/46/) | in force | 1 | 2001-03-01 | 2001-03-01 |
+| Uredba o objavi Sporazuma izmeđU Vlade Republike Hrvatske i Vlade Savezne Republike Brazil o uzajamnom ukidanju viza za nositelje diplomatskih i službenih putovnica | [`medunarodni/2000/48/`](medunarodni/2000/48/) | in force | 1 | 2000-06-16 | 2000-06-16 |
+| Uredba o potvrđivanju (ratifikaciji) ugovora o gospodarskoj, industrijskoj, tehničkoj i znanstvenoj suradnji između Vlade Republike Hrvatske i Vlade Portugalske Republike | [`medunarodni/2000/50/`](medunarodni/2000/50/) | in force | 1 | 2009-09-26 | 2009-09-26 |
+| Zakon o potvrđivanju Ugovora o izvedbama i fonogramima Svjetske organizacije za intelektualno vlasništvo | [`medunarodni/2000/64/`](medunarodni/2000/64/) | in force | 1 | 2002-05-20 | 2002-05-20 |
+| Zakon o potvrđivanju Ugovora o autorskom pravu Svjetske organizacije za intelektualno vlasništvo | [`medunarodni/2000/65/`](medunarodni/2000/65/) | in force | 1 | 2002-03-06 | 2002-03-06 |
+| Zakon o potvrđivanju Konvencije o zaštiti europskih divljih vrsta i prirodnih staništa (Bernska konvencija) | [`medunarodni/2000/66/`](medunarodni/2000/66/) | in force | 1 | 2000-11-01 | 2000-11-01 |
+| Zakon o potvrđivanju Konvencije o zaštiti migratornih vrsta divljih životinja (Bonnska konvencija) | [`medunarodni/2000/67/`](medunarodni/2000/67/) | in force | 1 | 2000-10-01 | 2000-10-01 |
+| Zakon o potvrđivanju Sporazuma o zaštiti afričko-euroazijskih migratornih ptica močvarica (aewa) | [`medunarodni/2000/68/`](medunarodni/2000/68/) | in force | 1 | 2000-09-01 | 2000-09-01 |
+| Zakon o potvrđivanju Sporazuma o zaštiti kitova (Cetacea) u Crnom moru, Sredozemnom moru i susjednom atlantskom području (accobams) | [`medunarodni/2000/70/`](medunarodni/2000/70/) | in force | 1 | 2001-06-01 | 2001-06-01 |
+| Zakon o potvrđivanju Dodatnog protokola uz Sporazum između Republike Hrvatske i Međunarodne agencije za atomsku energiju o primjeni garancija u vezi s Ugovorom o neširenju nuklearnog oružja | [`medunarodni/2000/72/`](medunarodni/2000/72/) | in force | 1 | 2000-07-06 | 2000-07-06 |
+| Uredba o objavi Ugovora između Republike Hrvatske i Vlade Kraljevine Tajland o uzajamnom poticanju i zaštiti ulaganja | [`medunarodni/2000/73/`](medunarodni/2000/73/) | in force | 1 | 2005-08-10 | 2005-08-10 |
+| Odluka o objavi Poslovnika Europskog suda za ljudska prava | [`medunarodni/2000/76/`](medunarodni/2000/76/) | in force | 1 | 2000-06-01 | 2000-06-01 |
+| Uredba o objavi Sporazuma između Republike Hrvatske i Bosne i Hercegovine o uređenju graničnog željezničkog prometa | [`medunarodni/2000/78/`](medunarodni/2000/78/) | in force | 1 | 2001-02-01 | 2001-02-01 |
+| Konvencija Ujedinjenih naroda o pravu mora i Završni akt Treće konferencije Ujedinjenih naroda o pravu mora s Prilozima I-VII. i Dodatkom i Sporazum o primjeni XI. dijela Konvencije Ujedinjenih naroda | [`medunarodni/2000/84/`](medunarodni/2000/84/) | in force | 1 | 2000-06-20 | 2000-06-20 |
+| Zakon o potvrđivanju Protokola o povlasticama i imunitetima međunarodne vlasti za morsko dno | [`medunarodni/2000/86/`](medunarodni/2000/86/) | in force | 1 | 2003-05-31 | 2003-05-31 |
+| Zakon o potvrđivanju Ugovora između Vlade Republike Hrvatske i Vlade Talijanske Republike o izbjegavanju dvostrukog oporezivanja porezima na dohodak i sprečavanju izbjegavanja plaćanja poreza | [`medunarodni/2000/88/`](medunarodni/2000/88/) | in force | 1 | 2009-09-15 | 2009-09-15 |
+| Zakon o potvrđivanju Sporazuma o socijalnom osiguranju između Republike Hrvatske i Quebeca | [`medunarodni/2000/89/`](medunarodni/2000/89/) | in force | 1 | 2001-05-01 | 2001-05-01 |
+| Zakon o potvrđivanju Ugovora o prijateljstvu i suradnji između Republike Hrvatske i Republike Bugarske | [`medunarodni/2000/90/`](medunarodni/2000/90/) | in force | 1 | 2000-07-25 | 2000-07-25 |
+| Uredba o pristupanju Međunarodnoj konvenciji o uzajamnoj administrativnoj pomoći radi prevencije, istraživanja i suzbijanja carinskih prekršaja | [`medunarodni/2000/91/`](medunarodni/2000/91/) | in force | 1 | 2001-01-17 | 2001-01-17 |
+| Uredba o objavi Sporazuma između Vlade Republike Hrvatske i Vlade Republike Estonije o ukidanju viza | [`medunarodni/2000/92/`](medunarodni/2000/92/) | in force | 1 | 2000-09-03 | 2000-09-03 |
+| Zakon o potvrđivanju Kaznenopravne konvencije o korupciji | [`medunarodni/2000/103/`](medunarodni/2000/103/) | in force | 1 | 2002-07-01 | 2002-07-01 |
+| Zakon o potvrđivanju Konvencije Ujedinjenih naroda o suzbijanju dezertifikacije u zemljama pogođenim jakim sušama i/ili dezertifikacijom, osobito u Africi | [`medunarodni/2000/106/`](medunarodni/2000/106/) | in force | 1 | 2001-01-04 | 2001-01-04 |
+| Zakon o potvrđivanju Protokola od 3. lipnja 1999. godine o izmjenama Konvencije o međunarodnom željezničkom prijevozu (cotif) od 9. svibnja 1980. godine (Protokol 1999.) i Konvencije o međunarodnom ž | [`medunarodni/2000/115/`](medunarodni/2000/115/) | in force | 1 | 2006-07-01 | 2006-07-01 |
+| Zakon o potvrđivanju Protokola o pristupanju Republike Hrvatske Marakeškom ugovoru o osnivanju Svjetske trgovinske organizacije | [`medunarodni/2000/116/`](medunarodni/2000/116/) | in force | 1 | 2000-11-30 | 2000-11-30 |
+| Zakon o potvrđivanju Krovnog sporazuma o institucijskom okviru za uspostavu međunarodnih sustava za transport nafte i plina | [`medunarodni/2000/117/`](medunarodni/2000/117/) | in force | 1 | 2001-03-21 | 2001-03-21 |
+| Uredba o potvrđivanju Sporazuma o zračnom prometu između Vlade Republike Hrvatske i Vlade Ruske Federacije | [`medunarodni/2000/118/`](medunarodni/2000/118/) | in force | 1 | 2000-12-04 | 2000-12-04 |
+| Uredba o objavi ugovora između Vlade Republike Hrvatske i Vlade Države Izrael o uzajamnom poticanju i zaštiti ulaganja | [`medunarodni/2000/120/`](medunarodni/2000/120/) | in force | 1 | 2003-07-13 | 2003-07-13 |
+| Uredba o potvrđivanju ugovora između Vlade Republike Hrvatske i Vlade Kraljevine Danske o poticanju i uzajamnoj zaštiti ulaganja | [`medunarodni/2000/121/`](medunarodni/2000/121/) | repealed 2020-10-25 | 2 | 2002-01-12 | 2020-10-25 |
+| Zakon o potvrđivanju (ratifikaciji) Ugovora između Republike Hrvatske i Republike Turske o pravnoj pomoći u građanskim i trgovačkim stvarima | [`medunarodni/2000/128/`](medunarodni/2000/128/) | in force | 1 | 2003-01-19 | 2003-01-19 |
+| Uredba o potvrđivanju Sporazuma o zračnom prometu između Vlade Republike Hrvatske i Vlade Države Izrael | [`medunarodni/2000/129/`](medunarodni/2000/129/) | in force | 1 | 2004-04-19 | 2004-04-19 |
+| Uredba o potvrđivanju ugovora između Vlade Republike Hrvatske i Vlade Države Izrael o trgovini i gospodarskoj suradnji | [`medunarodni/2000/130/`](medunarodni/2000/130/) | in force | 1 | 2004-07-01 | 2004-07-01 |
+| Uredba o potvrđivanju ugovora o uzajamnom poticanju i zaštiti ulaganja između Vlade Republike Hrvatske i Vlade Islamske Republike Iran | [`medunarodni/2000/131/`](medunarodni/2000/131/) | in force | 1 | 2005-07-20 | 2005-07-20 |
+| Uredba o pristupanju Međunarodnoj konvenciji za zaštitu novih biljnih sorti | [`medunarodni/2001/2/`](medunarodni/2001/2/) | in force | 1 | 2001-09-01 | 2001-09-01 |
+| Uredba o objavi Ugovora između Vlade Republike Hrvatske i Vlade Republike Bugarske o pomorskom prijevozu | [`medunarodni/2001/3/`](medunarodni/2001/3/) | in force | 1 | 2001-02-24 | 2001-02-24 |
+| Zakon o potvrđivanju Ugovora između Vlade Republike Hrvatske i Vlade Narodne Republike Kine o izbjegavanju dvostrukog oporezivanja i sprečavanju izbjegavanja plaćanja poreza na dohodak | [`medunarodni/2001/10/`](medunarodni/2001/10/) | in force | 1 | 2001-05-18 | 2001-05-18 |
+| Zakon o potvrđivanju Ugovora između Republike Hrvatske i Kraljevine Nizozemske o izbjegavanju dvostrukog oporezivanja i sprečavanju izbjegavanja plaćanja poreza na dohodak i na imovinu | [`medunarodni/2001/11/`](medunarodni/2001/11/) | in force | 1 | 2001-04-06 | 2001-04-06 |
+| Zakon o potvrđivanju Ugovora između Republike Hrvatske i Republike Austrije o izbjegavanju dvostrukog oporezivanja porezima na dohodak i na imovinu | [`medunarodni/2001/12/`](medunarodni/2001/12/) | in force | 1 | 2001-06-28 | 2001-06-28 |
+| Zakon o potvrđivanju Ugovora između Vlade Republike Hrvatske i Vlade Republike Latvije o izbjegavanju dvostrukog oporezivanja i sprečavanju izbjegavanja plaćanja poreza na dohodak | [`medunarodni/2001/13/`](medunarodni/2001/13/) | in force | 1 | 2001-02-27 | 2001-02-27 |
+| Zakon o potvrđivanju Ugovora između Vlade Republike Hrvatske i Vlade Republike Litve o izbjegavanju dvostrukog oporezivanja i sprečavanju izbjegavanja plaćanja poreza na dohodak | [`medunarodni/2001/14/`](medunarodni/2001/14/) | in force | 1 | 2001-02-27 | 2001-02-27 |
+| Zakon o potvrđivanju Ugovora između Vlade Republike Hrvatske i Vlade Republike Estonije o readmisiji osoba | [`medunarodni/2001/15/`](medunarodni/2001/15/) | in force | 1 | 2001-03-23 | 2001-03-23 |
+| Zakon o potvrđivanju Ugovora o socijalnom osiguranju između Republike Hrvatske i Bosne i Hercegovine | [`medunarodni/2001/16/`](medunarodni/2001/16/) | in force | 1 | 2001-11-01 | 2001-11-01 |
+| Zakon o potvrđivanju Fakultativnog protokola uz Konvenciju o ukidanju svih oblika diskriminacije žena | [`medunarodni/2001/17/`](medunarodni/2001/17/) | in force | 1 | 2001-06-07 | 2001-06-07 |
+| Uredba o objavi Ugovora između Vlade Republike Hrvatske i Vlade Republike Bugarske o međunarodnom kombiniranom prijevozu stvari | [`medunarodni/2001/18/`](medunarodni/2001/18/) | in force | 1 | 2001-04-28 | 2001-04-28 |
+| Uredba o objavi Sporazuma o zračnom prometu između Vlade Republike Hrvatske i Vlade Republike Indije | [`medunarodni/2001/19/`](medunarodni/2001/19/) | in force | 1 | 2001-05-08 | 2001-05-08 |
+| Uredba o objavi Sporazuma o zračnom prometu između Republike Hrvatske i Kraljevine Španjolske | [`medunarodni/2001/21/`](medunarodni/2001/21/) | in force | 1 | 2001-03-23 | 2001-03-23 |
+| Uredba o potvrđivanju Ugovora o pomorskom prijevozu između Vlade Republike Hrvatske i Vlade Islamske Republike Iran | [`medunarodni/2001/22/`](medunarodni/2001/22/) | in force | 1 | 2001-04-17 | 2001-04-17 |
+| Odluka o objavi Ugovora između Vlade Republike Hrvatske i Vlade Ukrajine o poticanju i uzajamnoj zaštiti ulaganja | [`medunarodni/2001/30/`](medunarodni/2001/30/) | in force | 1 | 2001-06-05 | 2001-06-05 |
+| Uredba o objavi Sporazuma između Republike Hrvatske i Bosne i Hercegovine o načinu korištenja i održavanja željezničke pruge Bihać-Knin i obavljanju nadzora od strane državnih graničnih tijela | [`medunarodni/2001/31/`](medunarodni/2001/31/) | in force | 1 | 2001-11-08 | 2001-11-08 |
+| Uredba o objavi Ugovora između Republike Hrvatske i Bosne i Hercegovine o suradnji i međusobnoj pomoći u carinskim pitanjima | [`medunarodni/2001/32/`](medunarodni/2001/32/) | in force | 1 | 2002-07-01 | 2002-07-01 |
+| Uredba o objavi Sporazuma između Vlade Republike Hrvatske i Vlade Države Izrael o ukidanju viza za nositelje službenih i običnih nacionalnih putovnica | [`medunarodni/2001/33/`](medunarodni/2001/33/) | in force | 1 | 2001-10-03 | 2001-10-03 |
+| Uredba o objavi Sporazuma između Vlade Republike Hrvatske i Vlade Narodne Republike Kine o suradnji na području turizma | [`medunarodni/2001/34/`](medunarodni/2001/34/) | in force | 1 | 2002-01-02 | 2002-01-02 |
+| Zakon o potvrđivanju Konvencije o zabrani i trenutnim djelovanjima za ukidanje najgorih oblika dječjeg rada (br. 182) | [`medunarodni/2001/40/`](medunarodni/2001/40/) | in force | 1 | 2002-07-17 | 2002-07-17 |
+| Zakon o potvrđivanju Rimskog statuta Međunarodnoga kaznenog suda | [`medunarodni/2001/42/`](medunarodni/2001/42/) | in force | 1 | 2002-07-01 | 2002-07-01 |
+| Uredba o objavi Memoranduma o suglasnosti između Vlade Republike Hrvatske i Vlade Talijanske Republike o uspostavi zajedničkog sustava plovidbenih pravaca i sustava usmjerene i odijeljene plovidbe u p | [`medunarodni/2001/45/`](medunarodni/2001/45/) | in force | 1 | 2001-05-16 | 2001-05-16 |
+| Uredba o objavi Memoranduma o suglasnosti između Vlade Republike Hrvatske i Vlade Talijanske Republike o suradnji u operacijama traganja i spašavanja na Jadranskom moru | [`medunarodni/2001/46/`](medunarodni/2001/46/) | in force | 1 | 2002-03-18 | 2002-03-18 |
+| Uredba o potvrđivanju Ugovora između Vlade Republike Hrvatske i o Vladi Republike Kube o znanstvenoj i tehničkoj suradnji | [`medunarodni/2001/47/`](medunarodni/2001/47/) | in force | 1 | 2002-06-06 | 2002-06-06 |
+| Uredba o potvrđivanju Ugovora između Vlade Republike Hrvatske i Vlade Arapske Republike Egipat o kulturnoj, prosvjetnoj, znanstvenoj i tehnološkoj suradnji | [`medunarodni/2001/48/`](medunarodni/2001/48/) | in force | 1 | 2022-04-19 | 2022-04-19 |
+| Uredba o objavi Ugovora između Vlade Republike Hrvatske i Vlade Republike Estonije o suradnji na području znanosti, tehnologije i visoke naobrazbe | [`medunarodni/2001/49/`](medunarodni/2001/49/) | in force | 1 | 2001-05-15 | 2001-05-15 |
+| Konvencija o fizičkoj zaštiti nuklearnog materijala | [`medunarodni/2001/52/`](medunarodni/2001/52/) | in force | 1 | 2001-04-27 | 2001-04-27 |
+| Zakon o potvrđivanju Okvirnog Sporazuma između Republike Hrvatske i Europske investicijske banke koji uređuje aktivnosti EIB-a u Republici Hrvatskoj | [`medunarodni/2001/58/`](medunarodni/2001/58/) | in force | 1 | 2001-10-30 | 2001-10-30 |
+| Zakon o potvrđivanju Europske konvencije o prekograničnoj televiziji i Protokola o izmjenama Europske konvencije o prekograničnoj televiziji | [`medunarodni/2001/101/`](medunarodni/2001/101/) | in force | 1 | 2002-04-01 | 2002-04-01 |
+| Zakon o potvrđivanju Sporazuma o osnivanju Vijeća Jugoistočne Europe za civilno-vojno planiranje u slučaju opasnosti | [`medunarodni/2001/102/`](medunarodni/2001/102/) | in force | 1 | 2005-02-26 | 2005-02-26 |
+| Zakon o potvrđivanju Sporazuma o jamstvu između Republike Hrvatske i Europske banke za obnovu i razvoj, za ekološke projekte u INA-Industriji nafte d.d. | [`medunarodni/2001/103/`](medunarodni/2001/103/) | repealed 2008-04-04 | 2 | 2001-11-08 | 2008-04-04 |
+| Zakon o potvrđivanju Protokola o posebno zaštićenim područjima i biološkoj raznolikosti u Sredozemlju | [`medunarodni/2001/104/`](medunarodni/2001/104/) | in force | 1 | 2002-05-12 | 2002-05-12 |
+| Uredba o objavi Sporazuma između Vlade Republike Hrvatske i Vlade Republike Mađarske o korištenju i održavanju cestovnih graničnih mostova na zajedničkoj državnoj granici dviju država | [`medunarodni/2001/107/`](medunarodni/2001/107/) | repealed 2019-04-07 | 2 | 2002-03-31 | 2019-04-07 |
+| Uredba o objavi Ugovora između Vlade Republike Hrvatske i Vlade Republike Mađarske o uspostavljanju točke spajanja autocesta Letenye/Goričan | [`medunarodni/2001/108/`](medunarodni/2001/108/) | in force | 1 | 2001-12-12 | 2001-12-12 |
+| Uredba o objavi Ugovora između Vlade Republike Hrvatske i Vlade Republike Koreje o zajmu od strane Fonda gospodarskog razvitka i suradnje, za modernizaciju luke Rijeka | [`medunarodni/2001/109/`](medunarodni/2001/109/) | in force | 1 | 2001-10-19 | 2001-10-19 |
+| Zakon o potvrđivanju Sporazuma između Vlade Republike Hrvatske i Vlade Sjedinjenih Američkih Država o statusu Američke međunarodne škole u Zagrebu | [`medunarodni/2001/113/`](medunarodni/2001/113/) | in force | 1 | 2002-11-14 | 2002-11-14 |
+| Uredba o potvrđivanju Ugovora između Vlade Republike Hrvatske i Vlade Republike Indije o poticanju i uzajamnoj zaštiti ulaganja | [`medunarodni/2001/117/`](medunarodni/2001/117/) | repealed 2017-04-25 | 2 | 2002-01-19 | 2017-04-25 |
+| Uredba o objavi Ugovora između Vlade Republike Hrvatske i Vlade Helenske Republike o pomorskom prijevozu | [`medunarodni/2001/118/`](medunarodni/2001/118/) | in force | 1 | 2003-03-12 | 2003-03-12 |
+| Zakon o potvrđivanju Ugovora o zajmu između Republike Hrvatske i Međunarodne banke za obnovu i razvoj za projekt tehničke pomoći u vezi sa stečajevima | [`medunarodni/2001/129/`](medunarodni/2001/129/) | in force | 1 | 2002-01-29 | 2002-01-29 |
+| Zakon o potvrđivanju Ugovora između Republike Hrvatske i Savezne Republike Jugoslavije o socijalnom osiguranju | [`medunarodni/2001/130/`](medunarodni/2001/130/) | repealed 2014-05-01 | 2 | 2003-05-01 | 2014-05-01 |
+| Zakon o potvrđivanju Ugovora o suradnji između Vlade Republike Hrvatske i Europske organizacije za iskorištavanje meteoroloških satelita (EUMETSAT) | [`medunarodni/2001/131/`](medunarodni/2001/131/) | in force | 1 | 2002-01-09 | 2002-01-09 |
+| Zakon o potvrđivanju Sporazuma o stabilizaciji i pridruživanju između Republike Hrvatske i Europskih zajednica i njihovih država članica | [`medunarodni/2001/132/`](medunarodni/2001/132/) | in force | 1 | 2005-02-01 | 2005-02-01 |
+| Zakon o potvrđivanju Dodatnog protokola Sporazuma između država stranaka Sjevernoatlantskog ugovora i ostalih država koje sudjeluju u Partnerstvu za mir o pravnom položaju njihovih snaga | [`medunarodni/2001/134/`](medunarodni/2001/134/) | in force | 1 | 2002-02-10 | 2002-02-10 |
+| Zakon o potvrđivanju Okvirnog ugovora o zajmu 1379 (2000) za obnovu Franjevačkog samostana Male braće u Dubrovniku, između Razvojne banke Vijeća Europe i Republike Hrvatske | [`medunarodni/2001/135/`](medunarodni/2001/135/) | in force | 1 | 2002-01-04 | 2002-01-04 |
+| Zakon o potvrđivanju Privremenog sporazuma o trgovinskim i s njim povezanim pitanjima između Republike Hrvatske i Europske zajednice | [`medunarodni/2001/137/`](medunarodni/2001/137/) | in force | 1 | 2002-03-01 | 2002-03-01 |
+| Zakon o potvrđivanju Ugovora o slobodnoj trgovini između Republike Hrvatske i Republike Poljske | [`medunarodni/2001/139/`](medunarodni/2001/139/) | in force | 1 | 2002-04-01 | 2002-04-01 |
+| Zakon o potvrđivanju Ugovora o slobodnoj trgovini između Republike Hrvatske i Republike Mađarske | [`medunarodni/2001/141/`](medunarodni/2001/141/) | in force | 1 | 2001-11-01 | 2001-11-01 |
 
 ## naputak (205, of which 29 amending acts)
 
@@ -1888,7 +2193,7 @@
 | Naredba o dopuni Naredbe o razvrstaju luka otvorenih za javni promet na području Primorsko-goranske županije | [`naredba/2026/1220/`](naredba/2026/1220/) | amending act | 1 | 2026-09-19 | 2026-09-19 |
 | Naredba o mjerama kontrole za suzbijanje afričke svinjske kuge u Republici Hrvatskoj | [`naredba/2026/1289/`](naredba/2026/1289/) | in force | 1 | 2026-09-24 | 2026-09-24 |
 
-## odluka (14833, of which 1742 amending acts)
+## odluka (14833, of which 1743 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -2626,7 +2931,7 @@
 | Odluka o visini posebne takse koja se naplaćuje za postavljanje automata za igre na sreću s jednostrukim ulogom i automata za zabavne igre u ugostiteljskim objektima | [`odluka/1992/265/`](odluka/1992/265/) | repealed, not consolidated | 1 | 1992-03-14 | 1992-03-14 |
 | Odluka o utvrdivanju tečaja hrvatskog dinara prema stranim valutama | [`odluka/1992/268/`](odluka/1992/268/) | replaced, not consolidated | 1 | 1992-03-06 | 1992-03-06 |
 | Odluka o načinu obračuna, naplate i plaćanja aktivnih i pasivnih kamata, te naknada Narodne banke Hrvatske | [`odluka/1992/269/`](odluka/1992/269/) | repealed, not consolidated | 1 | 1992-03-06 | 1992-03-06 |
-| Odluka o osnovama za uspostavljanje ugovornog odnosa sa subjektima provođenja zdravstvene zaštite u 1992. godini | [`odluka/1992/283/`](odluka/1992/283/) | amended, not consolidated | 1 | 1992-03-21 | 1992-03-21 |
+| Odluka o osnovama za uspostavljanje ugovornog odnosa sa subjektima provođenja zdravstvene zaštite u 1992. godini | [`odluka/1992/283/`](odluka/1992/283/) | amended after consolidation, not consolidated | 2 | 1992-03-21 | 1992-08-04 |
 | Odluka o izmjeni i dopuni Cjenika zdravstvenih usluga za 1991. godinu | [`odluka/1992/284/`](odluka/1992/284/) | amending act | 1 | 1992-03-21 | 1992-03-21 |
 | Odluka o prestanku važenja Odluke o kriznim štabovima | [`odluka/1992/286/`](odluka/1992/286/) | in force | 1 | 1992-03-20 | 1992-03-20 |
 | Odluka o osnivanju Ambasade Republike Hrvatske u Canbrrri, Australija | [`odluka/1992/289/`](odluka/1992/289/) | in force | 1 | 1992-03-11 | 1992-03-11 |
@@ -4205,7 +4510,7 @@
 | Odluka o izmjeni odIuke o obveznoj rezervi banaka kod Narodne banke Hrvatske | [`odluka/1995/608/`](odluka/1995/608/) | in force | 1 | 1995-05-09 | 1995-05-09 |
 | Odluka o izmjeni odluke o kamatnim stopama Narodne banke Hrvatske | [`odluka/1995/609/`](odluka/1995/609/) | in force | 1 | 1995-05-09 | 1995-05-09 |
 | Odluka o izdavanju i prodaji prigodnog zlatnog i srebrenog kovanog novca u povodu obilježavanja Dana državnosti Republike Hrvatske 30. svibnja 1990. - 1995. godine | [`odluka/1995/610/`](odluka/1995/610/) | amended, not consolidated | 1 | 1995-05-09 | 1995-05-09 |
-| Odluka o sudjelovanju osiguranih osoba u pokriću dijela troškova zdravstvene zaštite | [`odluka/1995/613/`](odluka/1995/613/) | amended, not consolidated | 1 | 1995-05-17 | 1995-05-17 |
+| Odluka o sudjelovanju osiguranih osoba u pokriću dijela troškova zdravstvene zaštite | [`odluka/1995/613/`](odluka/1995/613/) | amended after consolidation, not consolidated | 2 | 1995-05-17 | 1997-03-27 |
 | Odluka o izmjeni Popisa dijagnostičkih i terapijskih postupaka-vremenski i kadrovski normativi | [`odluka/1995/614/`](odluka/1995/614/) | amended, not consolidated | 1 | 1995-05-09 | 1995-05-09 |
 | Odluka o izmjeni i dopuni Liste lijekova koji se mogu propisivati osiguranim osobama na teret Hrvatskog zavoda za zdravstveno osiguranje | [`odluka/1995/615/`](odluka/1995/615/) | amended, not consolidated | 1 | 1995-05-09 | 1995-05-09 |
 | Odluka o utvrdivanju Liste lijekova koji se osiguranim osobama mogu propisivati u bolnicama na teret sredstava Hrvatskog zavoda za zdravstveno osiguranje | [`odluka/1995/616/`](odluka/1995/616/) | in force | 1 | 1995-05-09 | 1995-05-09 |
@@ -5371,7 +5676,7 @@
 | Odluka o utvrđivanju interesa Republike Hrvatske za izgradnju naftovoda Slobodnica - Donja Vrba | [`odluka/1998/1304/`](odluka/1998/1304/) | in force | 1 | 1998-07-14 | 1998-07-14 |
 | Odluka o izmjeni Odluke o osnivanju i zadaćama Nacionalnog odbora za obrazovanje o ljudskim pravima | [`odluka/1998/1331/`](odluka/1998/1331/) | in force | 1 | 1998-07-09 | 1998-07-09 |
 | Odluka o osnivanju Konzulata Republike Hrvatske u Libanonskoj Republici, sa sjedištem u Bejrutu | [`odluka/1998/1335/`](odluka/1998/1335/) | in force | 1 | 1998-07-01 | 1998-07-01 |
-| Odluka o davanju ovlasti jedinicama lokalne samouprave i Gradu Zagrebu za sklapanje ugovora o prodaji nacionaliziranih i konfisciranih stanova | [`odluka/1998/1343/`](odluka/1998/1343/) | amended, not consolidated | 1 | 1998-07-17 | 1998-07-17 |
+| Odluka o davanju ovlasti jedinicama lokalne samouprave i Gradu Zagrebu za sklapanje ugovora o prodaji nacionaliziranih i konfisciranih stanova | [`odluka/1998/1343/`](odluka/1998/1343/) | in force | 2 | 1998-07-17 | 2002-05-08 |
 | Odluka o promjeni svote carine po mjernoj jedinici pri uvozu pojedinih poljoprivrednih i prehrambenih proizvoda iz Dodatka A Carinske tarife | [`odluka/1998/1347/`](odluka/1998/1347/) | amended, not consolidated | 1 | 1998-07-24 | 1998-07-24 |
 | Odluka o prijenosu nekretnina u vlasništvu Republike Hrvatske u vlasništvo Caritasa Nadbiskupije Zagreb | [`odluka/1998/1348/`](odluka/1998/1348/) | in force | 1 | 1998-07-16 | 1998-07-16 |
 | Odluka o izmjeni Odluke o utvrđivanju granica vodnih područja | [`odluka/1998/1349/`](odluka/1998/1349/) | in force | 1 | 1998-07-28 | 1998-07-28 |
@@ -5549,7 +5854,7 @@
 | Odluka o sanaciji i restrukturiranju Dubrovačke banke d.d. Dubrovnik (II) | [`odluka/1999/262/`](odluka/1999/262/) | in force | 1 | 1999-02-03 | 1999-02-03 |
 | Odluka o davanju državnog jamstva (garancije) Republike Hrvatske u korist Deutsche Bank AG, London i drugih sudjelujućih komercijalnih banaka | [`odluka/1999/263/`](odluka/1999/263/) | in force | 1 | 1999-01-28 | 1999-01-28 |
 | Odluka o davanju dvaju državnih jamstava (garancija) u korist Kreditanstalt für Wiederaufbau iz Frankfurta na Maini | [`odluka/1999/264/`](odluka/1999/264/) | in force | 1 | 1999-01-28 | 1999-01-28 |
-| Odluka o utvrđivanju Liste lijekova Hrvatskog zavoda za zdravstveno osiguranje | [`odluka/1999/266/`](odluka/1999/266/) | amended, not consolidated | 1 | 1999-02-03 | 1999-02-03 |
+| Odluka o utvrđivanju Liste lijekova Hrvatskog zavoda za zdravstveno osiguranje | [`odluka/1999/266/`](odluka/1999/266/) | amended after consolidation, not consolidated | 2 | 1999-02-03 | 1999-02-26 |
 | Odluka o raspisivanju izbora za Općinsko vijeće Općine Brela | [`odluka/1999/279/`](odluka/1999/279/) | in force | 1 | 1999-02-04 | 1999-02-04 |
 | Odluka o izmjeni Odluke o Državnom protokolu Republike Hrvatske | [`odluka/1999/296/`](odluka/1999/296/) | in force | 1 | 1999-02-05 | 1999-02-05 |
 | Odluka o osnivanju Povjerenstva za provedbu Programa mjera Vlade za učinkovitiju naplatu doprinosa za mirovinsko i zdravstveno osiguranje | [`odluka/1999/298/`](odluka/1999/298/) | in force | 1 | 1999-02-04 | 1999-02-04 |
@@ -6109,8 +6414,8 @@
 | Odluka o izdavanju i prodaji prigodnoga srebrnoga kovanog novca "Slava Raškaj" | [`odluka/2000/2349/`](odluka/2000/2349/) | cited later, not consolidated | 1 | 2000-12-15 | 2000-12-15 |
 | Odluka o osnovama za sklapanje ugovora sa zdravstvenim ustanovama i privatnim zdravstvenim djelatnicima za 2001. godinu | [`odluka/2000/2369/`](odluka/2000/2369/) | amended, not consolidated | 1 | 2000-12-20 | 2000-12-20 |
 | Odluka o posebnim standardima i mjerilim njihove primjene u provođenju primarne zdravstvene zaštite | [`odluka/2000/2370/`](odluka/2000/2370/) | amended, not consolidated | 1 | 2000-12-20 | 2000-12-20 |
-| Odluka o smještaju zastupnika Hrvatskoga sabora u Zagrebu u vrijeme zasjedanja Sabora, radnih tijela, domova i klubova zastupnika | [`odluka/2000/2372/`](odluka/2000/2372/) | amended, not consolidated | 1 | 2000-12-15 | 2000-12-15 |
-| Odluka o uvjetima korištenja službenih osobnih automobila, mobilnih telefona, sredstava za službena putovanja, poslovnih kreditnih kartica i sredstava reprezentacije | [`odluka/2000/2373/`](odluka/2000/2373/) | amended, not consolidated | 1 | 2000-12-15 | 2000-12-15 |
+| Odluka o smještaju zastupnika Hrvatskoga sabora u Zagrebu u vrijeme zasjedanja Sabora, radnih tijela, domova i klubova zastupnika | [`odluka/2000/2372/`](odluka/2000/2372/) | amended after consolidation, not consolidated | 4 | 2000-12-15 | 2005-03-17 |
+| Odluka o uvjetima korištenja službenih osobnih automobila, mobilnih telefona, sredstava za službena putovanja, poslovnih kreditnih kartica i sredstava reprezentacije | [`odluka/2000/2373/`](odluka/2000/2373/) | amended after consolidation, not consolidated | 2 | 2000-12-15 | 2002-11-12 |
 | Odluka o davanju pomoći županijama, gradovima i općinama za djelomično ublažavanje posljedica štete od elementarnih nepogoda za razdoblje od siječnja do studenoga 2000. godine | [`odluka/2000/2392/`](odluka/2000/2392/) | in force | 1 | 2000-12-23 | 2000-12-23 |
 | Odluka o izmjenama i dopunama Poslovnika Zastupničkog doma Hrvatskoga državnog sabora | [`odluka/2000/2393/`](odluka/2000/2393/) | amending act | 1 | 2000-12-15 | 2000-12-15 |
 | Odluka o davanju suglasnosti na Financijski plan za 2001. godinu Hrvatskog zavoda za mirovinsko osiguranje | [`odluka/2000/2395/`](odluka/2000/2395/) | in force | 1 | 2000-12-27 | 2000-12-27 |
@@ -7134,7 +7439,7 @@
 | Odluka o preraspodjeli sredstava planiranih u Državnom proračunu Republike Hrvatske za 2003. godinu | [`odluka/2003/3158/`](odluka/2003/3158/) | replaced, not consolidated | 1 | 2003-12-19 | 2003-12-19 |
 | Odluka o osnovama za sklapanje Ugovora sa zdravstvenim ustanovama i privatnim zdravstvenim radnicima za razdoblje od 1. siječnja do 31. ožujka 2004. godine | [`odluka/2003/3170/`](odluka/2003/3170/) | cited later, not consolidated | 1 | 2003-12-19 | 2003-12-19 |
 | Odluka o privremenim posebnim standardima i mjerilima njihove primjene u provođenju primarne zdravstvene zaštite iz osnovnoga zdravstvenog osiguranja za razdoblje od 1. siječnja do 31. ožujka 2004. | [`odluka/2003/3171/`](odluka/2003/3171/) | in force | 1 | 2003-12-19 | 2003-12-19 |
-| Odluka o načinu osiguravanja i raspolaganja sredstvima dopunskoga zdravstvenog osiguranja | [`odluka/2003/3172/`](odluka/2003/3172/) | amended, not consolidated | 1 | 2003-12-27 | 2003-12-27 |
+| Odluka o načinu osiguravanja i raspolaganja sredstvima dopunskoga zdravstvenog osiguranja | [`odluka/2003/3172/`](odluka/2003/3172/) | amending act | 2 | 2003-12-27 | 2006-05-10 |
 | Odluka o visini naknada za pregled vozila radi izdavanja potvrde o ispunjavanju posebnih uvjeta za vozila kojima se obavlja javni cestovni prijevoz i prijevoz za vlastite potrebe | [`odluka/2003/3174/`](odluka/2003/3174/) | repealed, not consolidated | 1 | 2003-12-19 | 2003-12-19 |
 | Odluka o visini naknade za tehnički pregled i registraciju vozila i poslove koji su s tim povezani | [`odluka/2003/3175/`](odluka/2003/3175/) | in force | 1 | 2003-12-27 | 2003-12-27 |
 | Odluka o preraspodjeli sredstava planiranih u Državnom proračunu Republike Hrvatske za 2003. godinu | [`odluka/2003/3194/`](odluka/2003/3194/) | in force | 1 | 2003-12-23 | 2003-12-23 |
@@ -17106,7 +17411,7 @@
 | Pravilnik o uvjetima i načinu provođenja privatnog zdravstvenog osiguranja | [`pravilnik/1994/652/`](pravilnik/1994/652/) | in force | 1 | 1994-05-14 | 1994-05-14 |
 | Pravilnik o javnobilježničkim uredima | [`pravilnik/1994/694/`](pravilnik/1994/694/) | repealed, not consolidated | 1 | 1994-05-24 | 1994-05-24 |
 | Pravilnik o radnom vremenu javnih bilježnika | [`pravilnik/1994/695/`](pravilnik/1994/695/) | repealed, not consolidated | 1 | 1994-05-24 | 1994-05-24 |
-| Pravilnik o privremenoj javnobilježničkoj tarifi | [`pravilnik/1994/696/`](pravilnik/1994/696/) | amended, not consolidated | 1 | 1994-05-24 | 1994-05-24 |
+| Pravilnik o privremenoj javnobilježničkoj tarifi | [`pravilnik/1994/696/`](pravilnik/1994/696/) | amended after consolidation, not consolidated | 2 | 1994-05-24 | 1995-08-05 |
 | Pravilnik o javnobilježničkim protestnim upisnicima | [`pravilnik/1994/697/`](pravilnik/1994/697/) | amended, not consolidated | 1 | 1994-05-24 | 1994-05-24 |
 | Pravilnik o stručnim ispitima u području zaštite od požara | [`pravilnik/1994/733/`](pravilnik/1994/733/) | repealed, not consolidated | 1 | 1994-05-31 | 1994-05-31 |
 | Pravilnik o načinu obavljanja nadzora nad stručnošću rada u djelatnosti zdravstva | [`pravilnik/1994/735/`](pravilnik/1994/735/) | in force | 1 | 1994-05-31 | 1994-05-31 |
@@ -17411,7 +17716,7 @@
 | Pravilnik o lukama nautičkog turizma | [`pravilnik/1996/2150/`](pravilnik/1996/2150/) | repealed, not consolidated | 1 | 1996-12-27 | 1996-12-27 |
 | Pravilnik o turističkim uslugama u nautičkom turizmu koje može pružati građanin | [`pravilnik/1996/2151/`](pravilnik/1996/2151/) | cited later, not consolidated | 1 | 1996-12-27 | 1996-12-27 |
 | Pravilnik o izmjenama i dopunama Pravilnika o obliku, sadržaja i uporabi obrazaca platnog prometa | [`pravilnik/1996/2152/`](pravilnik/1996/2152/) | amending act | 1 | 1996-12-27 | 1996-12-27 |
-| Pravilnik o postupku i uvjetima za priznavanje prava samostalnih umjetnika na uplatu doprinosa za mirovinsko i invalidsko te zdravstveno osiguranje iz sredstava proračuna Republike Hrvatske | [`pravilnik/1996/2160/`](pravilnik/1996/2160/) | repealed, not consolidated | 1 | 1996-12-30 | 1996-12-30 |
+| Pravilnik o postupku i uvjetima za priznavanje prava samostalnih umjetnika na uplatu doprinosa za mirovinsko i invalidsko te zdravstveno osiguranje iz sredstava proračuna Republike Hrvatske | [`pravilnik/1996/2160/`](pravilnik/1996/2160/) | repealed, not consolidated | 2 | 1996-12-30 | 1999-03-11 |
 | Pravilnik o postupku pojednostavljenog raspoređivanja i carinjenja robe primjenom članka 9. Zakona o carinskoj tarifi | [`pravilnik/1997/6/`](pravilnik/1997/6/) | cited later, not consolidated | 1 | 1997-01-11 | 1997-01-11 |
 | Pravilnik o posredovanju pri zapošljavanju redovitih učenika srednjoškolskih ustanova | [`pravilnik/1997/7/`](pravilnik/1997/7/) | repealed, not consolidated | 1 | 1997-01-11 | 1997-01-11 |
 | Pravilnik o dopuni Pravilnika o općim uvjetima za obavljanje telekomunikacijskih usluga | [`pravilnik/1997/32/`](pravilnik/1997/32/) | amending act | 1 | 1997-01-17 | 1997-01-17 |
@@ -17879,7 +18184,7 @@
 | Pravilnik o praćenju rezidua određenih tvari u živim životinjama i u proizvodima životinjskoga podrijetla | [`pravilnik/1999/1762/`](pravilnik/1999/1762/) | repealed, not consolidated | 1 | 1999-10-23 | 1999-10-23 |
 | Pravilnik o načinu i postupku vađenja krvi i uzimanja mokraće za analizu radi utvrđivanja koncentracije alkohola, opojnih droga i psihoaktivnih tvari | [`pravilnik/1999/1771/`](pravilnik/1999/1771/) | repealed, not consolidated | 1 | 1999-10-26 | 1999-10-26 |
 | Pravilnik o načinu uzimanja uzoraka biološkog materijala za analizu deoksiribonukleinske kiseline | [`pravilnik/1999/1772/`](pravilnik/1999/1772/) | repealed, not consolidated | 1 | 1999-10-26 | 1999-10-26 |
-| Pravilnik o mjerilima za utvrđivanje vrijednosti oduzetih poduzeća | [`pravilnik/1999/1773/`](pravilnik/1999/1773/) | amended, not consolidated | 1 | 1999-10-26 | 1999-10-26 |
+| Pravilnik o mjerilima za utvrđivanje vrijednosti oduzetih poduzeća | [`pravilnik/1999/1773/`](pravilnik/1999/1773/) | in force | 2 | 1999-10-26 | 2003-02-27 |
 | Pravilnik o uvjetima za davanje ovlaštenja pravnim osobama za obavljanje stručnih poslova zaštite od ionizirajućih zračenja | [`pravilnik/1999/1776/`](pravilnik/1999/1776/) | replaced, not consolidated | 1 | 1999-10-28 | 1999-10-28 |
 | Pravilnik o načinu vođenja evidencije o izdatim putnim ispravama u diplomatskim misijama ili konzularnim uredima Republike Hrvatske u inozemstvu | [`pravilnik/1999/1783/`](pravilnik/1999/1783/) | in force | 1 | 1999-10-30 | 1999-10-30 |
 | Pravilnik o obliku, sadržaju i načinu vođenja očevidnika o korisnicima doplatka za djecu i djeci za koju pripada doplatak | [`pravilnik/1999/1785/`](pravilnik/1999/1785/) | in force | 1 | 1999-10-30 | 1999-10-30 |
@@ -27213,7 +27518,7 @@
 | Statut Komisije za vrijednosne papire Republike Hrvatske | [`statut/1997/1325/`](statut/1997/1325/) | amended, not consolidated | 1 | 1997-07-21 | 1997-07-21 |
 | Statut Hrvatskog zavoda za zapošljavanje | [`statut/1998/52/`](statut/1998/52/) | replaced, not consolidated | 1 | 1998-01-21 | 1998-01-21 |
 | Statut Hrvatske pučke stranke | [`statut/1998/593/`](statut/1998/593/) | replaced, not consolidated | 1 | 1997-12-28 | 1997-12-28 |
-| Statut Hrvatske obrtničke komore | [`statut/1999/458/`](statut/1999/458/) | amended, not consolidated | 1 | 1999-01-26 | 1999-01-26 |
+| Statut Hrvatske obrtničke komore | [`statut/1999/458/`](statut/1999/458/) | amended after consolidation, not consolidated | 3 | 1999-01-26 | 2009-06-30 |
 | Statut Hrvatske komore arhitekata i inženjera u graditeljstvu | [`statut/1999/813/`](statut/1999/813/) | amended, not consolidated | 1 | 1999-04-27 | 1999-04-27 |
 | Statut Akcije socijaldemokrata Hrvatske | [`statut/1999/1853/`](statut/1999/1853/) | in force | 1 | 1999-02-13 | 1999-02-13 |
 | Statut Hrvatskog zavoda za zapošljavanje | [`statut/1999/1915/`](statut/1999/1915/) | replaced, not consolidated | 1 | 1999-11-20 | 1999-11-20 |
@@ -27243,7 +27548,7 @@
 | Statut Hrvatske komore inženjera građevinarstva | [`statut/2009/1222/`](statut/2009/1222/) | repealed, not consolidated | 1 | 2009-05-07 | 2009-05-07 |
 | Statut Hrvatske komore ovlaštenih inženjera geodezije | [`statut/2009/1223/`](statut/2009/1223/) | repealed, not consolidated | 1 | 2009-05-07 | 2009-05-07 |
 | Statut Hrvatske komore arhitekata | [`statut/2009/1449/`](statut/2009/1449/) | amended, not consolidated | 1 | 2009-06-11 | 2009-06-11 |
-| Statut Hrvatske odvjetničke komore | [`statut/2009/1778/`](statut/2009/1778/) | amended, not consolidated | 1 | 2009-06-29 | 2009-06-29 |
+| Statut Hrvatske odvjetničke komore | [`statut/2009/1778/`](statut/2009/1778/) | replaced, not consolidated | 2 | 2009-06-29 | 2011-06-10 |
 | Statut Hrvatske komore inženjera elektrotehnike | [`statut/2009/2004/`](statut/2009/2004/) | amended, not consolidated | 1 | 2009-07-21 | 2009-07-21 |
 | Statut Hrvatske komore inženjera strojarstva | [`statut/2009/2005/`](statut/2009/2005/) | repealed, not consolidated | 1 | 2009-07-21 | 2009-07-21 |
 | Statut Turističke zajednice Grada Zagreba | [`statut/2009/3241/`](statut/2009/3241/) | repealed, not consolidated | 1 | 2009-11-12 | 2009-11-12 |
@@ -27277,7 +27582,7 @@
 | Statut Hrvatskog zavoda za mirovinsko osiguranje | [`statut/2014/485/`](statut/2014/485/) | amended, not consolidated | 1 | 2014-02-28 | 2014-02-28 |
 | Statut Hrvatske javnobilježničke komore | [`statut/2014/1232/`](statut/2014/1232/) | amended, not consolidated | 1 | 2014-06-03 | 2014-06-03 |
 | Statut Hrvatske agencije za obvezne zalihe nafte i naftnih derivata | [`statut/2014/1321/`](statut/2014/1321/) | in force | 1 | 2014-06-07 | 2014-06-07 |
-| Statut Središnjeg registra osiguranika | [`statut/2014/1622/`](statut/2014/1622/) | repealed, not consolidated | 1 | 2014-07-12 | 2014-07-12 |
+| Statut Središnjeg registra osiguranika | [`statut/2014/1622/`](statut/2014/1622/) | repealed, not consolidated | 4 | 2014-07-12 | 2018-10-13 |
 | Statut Hrvatske poljoprivredne komore | [`statut/2014/2438/`](statut/2014/2438/) | replaced, not consolidated | 1 | 2014-10-31 | 2014-10-31 |
 | Statut Hrvatskog centra za zadružno poduzetništvo | [`statut/2014/2513/`](statut/2014/2513/) | amended, not consolidated | 1 | 2014-11-15 | 2014-11-15 |
 | Statut Akcije bjelovarsko-bilogorske | [`statut/2015/1159/`](statut/2015/1159/) | in force | 1 | 2015-05-27 | 2015-05-27 |
@@ -27462,7 +27767,7 @@
 | Uredba o obveznim prebijanjima obveza i potraživanja pravnih osoba u Republici Hrvatskoj | [`uredba/1991/336/`](uredba/1991/336/) | amended, not consolidated | 1 | 1991-03-16 | 1991-03-16 |
 | Uredba o dopuni Uredbe o obveznim prebijanjima obveza i potraživanja pravnih osoba u Republid Hrvatskoj | [`uredba/1991/652/`](uredba/1991/652/) | amending act | 1 | 1991-05-02 | 1991-05-02 |
 | Uredba o evidenciji prijašnjih vlasnika i oduzete imovine | [`uredba/1991/686/`](uredba/1991/686/) | in force | 1 | 1991-05-28 | 1991-05-28 |
-| Uredba o načinu utvrđivanja cijene stana | [`uredba/1991/836/`](uredba/1991/836/) | repealed, not consolidated | 1 | 1991-06-25 | 1991-06-25 |
+| Uredba o načinu utvrđivanja cijene stana | [`uredba/1991/836/`](uredba/1991/836/) | repealed, not consolidated | 2 | 1991-06-25 | 1992-02-07 |
 | Uredba za provodenje Zakona o izdavanju obveznica za restrukturiranje gospodarstva u Republici Hrvatskoj | [`uredba/1991/850/`](uredba/1991/850/) | in force | 1 | 1991-06-21 | 1991-06-21 |
 | Uredba o sjedištu i području na kojem se osnivaju policijske uprave | [`uredba/1991/851/`](uredba/1991/851/) | repealed, not consolidated | 1 | 1991-06-21 | 1991-06-21 |
 | Uredba o otvaranju računa sredstava "Hrvatski radiša - projekt samozapošljavanja", te raspolaganju i korištenju tih sredstava | [`uredba/1991/996/`](uredba/1991/996/) | in force | 1 | 1991-07-24 | 1991-07-24 |
@@ -32515,7 +32820,7 @@
 | Zakon o izmjenama i dopunama Zakona o sistemu obrane od tuče | [`zakon/1990/349/`](zakon/1990/349/) | amending act | 1 | 1990-05-08 | 1990-05-08 |
 | Zakon o izmjenama i dopunama Zakona o izvršenju Budžeta Socijalističke Republike Hrvatske za 1990. godinu | [`zakon/1990/351/`](zakon/1990/351/) | amending act | 1 | 1990-05-08 | 1990-05-08 |
 | Zakon o radnim odnosima | [`zakon/1990/377/`](zakon/1990/377/) | amended, not consolidated | 1 | 1990-05-11 | 1990-05-11 |
-| Zakon o zapošljavanju | [`zakon/1990/378/`](zakon/1990/378/) | amended, not consolidated | 1 | 1990-05-11 | 1990-05-11 |
+| Zakon o zapošljavanju | [`zakon/1990/378/`](zakon/1990/378/) | amended after consolidation, not consolidated | 2 | 1990-05-11 | 1990-10-14 |
 | Zakon o samostalnom obavljanju privrednih djelatnosti osobnim radom | [`zakon/1990/379/`](zakon/1990/379/) | amended, not consolidated | 1 | 1990-05-11 | 1990-05-11 |
 | Zakon o neposrednim porezima | [`zakon/1990/380/`](zakon/1990/380/) | amended, not consolidated | 1 | 1990-05-11 | 1990-05-11 |
 | Zakon o političkim organizacijama | [`zakon/1990/381/`](zakon/1990/381/) | repealed, not consolidated | 1 | 1990-05-11 | 1990-05-11 |
@@ -32531,7 +32836,7 @@
 | Zakon o sigurnosti prometa na cestama | [`zakon/1990/392/`](zakon/1990/392/) | amended, not consolidated | 1 | 1990-05-12 | 1990-05-12 |
 | Zakon o izmjenama i dopunama Zakona o kinematografiji | [`zakon/1990/393/`](zakon/1990/393/) | amending act | 1 | 1990-05-12 | 1990-05-12 |
 | Zakon o izmjenama i dopunama Zakona o društvenoj brizi o djeci predškolskog uzrasta | [`zakon/1990/394/`](zakon/1990/394/) | amending act | 1 | 1990-05-12 | 1990-05-12 |
-| Zakon o Hrvatskoj radio-televiziji | [`zakon/1990/533/`](zakon/1990/533/) | amended, not consolidated | 1 | 1990-06-30 | 1990-06-30 |
+| Zakon o Hrvatskoj radio-televiziji | [`zakon/1990/533/`](zakon/1990/533/) | in force | 2 | 1990-06-30 | 1992-06-20 |
 | Zakon o premijama za pšenicu i uljanu repicu roda 1990. godine. | [`zakon/1990/534/`](zakon/1990/534/) | in force | 1 | 1990-06-30 | 1990-06-30 |
 | Zakon o privremenom uređenju organizacije upravljanja u Republičkoj samoupravnoj interesnoj zajednici usmjerenog obrazovanja Socijalističke Republike Hrvatske | [`zakon/1990/535/`](zakon/1990/535/) | repealed, not consolidated | 1 | 1990-06-30 | 1990-06-30 |
 | Zakon o izmjeni Zakona o načinu raspodjele imovine i o statusu radnika regionalnih zajednica općina | [`zakon/1990/536/`](zakon/1990/536/) | in force | 1 | 1990-06-30 | 1990-06-30 |
@@ -32578,7 +32883,7 @@
 | Zakon o dopunama Zakona o dopunskim sredstvima općinama za 1990. godinu i razlici dopunskih sredstava po konačnom obračunu za 1989. godinu | [`zakon/1990/876/`](zakon/1990/876/) | amending act | 1 | 1990-11-22 | 1990-11-22 |
 | Zakon o dopunama Zakona o provođenju popisa stanovništva, domaćinstava, stanova i poljoprivrednih gospodarstava u 1991. godini | [`zakon/1990/877/`](zakon/1990/877/) | amending act | 1 | 1990-11-22 | 1990-11-22 |
 | Zakon o izmjenama i dopunama Zakona o upravnoj inspekciji | [`zakon/1990/878/`](zakon/1990/878/) | amending act | 1 | 1990-11-22 | 1990-11-22 |
-| Zakon o izmjenama i dopunama Zakona o Agenciji Socijalističke Republike Hrvatske za restrukturiranje i razvoj | [`zakon/1990/879/`](zakon/1990/879/) | amended, not consolidated | 1 | 1990-11-22 | 1990-11-22 |
+| Zakon o izmjenama i dopunama Zakona o Agenciji Socijalističke Republike Hrvatske za restrukturiranje i razvoj | [`zakon/1990/879/`](zakon/1990/879/) | amended after consolidation, not consolidated | 2 | 1990-11-22 | 1991-05-01 |
 | Zakon o izmjenama i dopunama Zakona o upravi | [`zakon/1990/880/`](zakon/1990/880/) | amending act | 1 | 1990-11-14 | 1990-11-14 |
 | Zakon o Izmjenama i dopunama Zakona o prekršajima protiv javnog reda i mira | [`zakon/1990/881/`](zakon/1990/881/) | amending act | 1 | 1990-11-22 | 1990-11-22 |
 | Zakon o izmjenama i dopunama Zakona o zdravstvenom nadzoru nad živežnim namirnicama i predmetima opće upotrebe | [`zakon/1990/882/`](zakon/1990/882/) | amending act | 1 | 1990-11-22 | 1990-11-22 |
@@ -32600,7 +32905,7 @@
 | Zakon o plaćanju doprinosa za mirovinsko i invalidsko osiguranje individualnih poljoprivrednika u 1991. godini | [`zakon/1990/1139/`](zakon/1990/1139/) | amended, not consolidated | 1 | 1991-01-06 | 1991-01-06 |
 | Zakon o plaćanju doprinosa za mirovinsko i invalidsko osiguranje samostalnih privrednika u 1991. godini | [`zakon/1990/1140/`](zakon/1990/1140/) | in force | 1 | 1990-12-30 | 1990-12-30 |
 | Zakon o plaćanju doprinosa za doplatak za djecu u 1991. godini | [`zakon/1990/1141/`](zakon/1990/1141/) | amended, not consolidated | 1 | 1990-12-30 | 1990-12-30 |
-| Zakon o osnovnom školstvu | [`zakon/1990/1159/`](zakon/1990/1159/) | amended, not consolidated | 1 | 1991-01-08 | 1991-01-08 |
+| Zakon o osnovnom školstvu | [`zakon/1990/1159/`](zakon/1990/1159/) | amended after consolidation, not consolidated | 2 | 1991-01-08 | 2001-12-20 |
 | Zakon o športu | [`zakon/1990/1160/`](zakon/1990/1160/) | repealed, not consolidated | 1 | 1991-01-08 | 1991-01-08 |
 | Zakon o Hrvatskoj matici iseljenika | [`zakon/1990/1161/`](zakon/1990/1161/) | repealed, not consolidated | 1 | 1991-01-08 | 1991-01-08 |
 | Zakon o izmjenama i dopunama Zakona o zdravstvenoj zaštiti i zdravstvenom osiguranju | [`zakon/1990/1164/`](zakon/1990/1164/) | amending act | 1 | 1991-01-08 | 1991-01-08 |
@@ -32647,12 +32952,12 @@
 | Zakon o izmjenama i dopunama Zakona o zapošljavanju | [`zakon/1991/599/`](zakon/1991/599/) | amending act | 1 | 1991-04-23 | 1991-04-23 |
 | Zakon o izmjenama i dopunama Zakona o socijalnoj zaštiti | [`zakon/1991/600/`](zakon/1991/600/) | amending act | 1 | 1991-05-01 | 1991-05-01 |
 | Zakon o izmjenama i dopunama Zakona o zaštiti spomenika kulture | [`zakon/1991/601/`](zakon/1991/601/) | amending act | 1 | 1991-05-01 | 1991-05-01 |
-| Zakon o prodaji stanova na kojima postoji stanarsko pravo | [`zakon/1991/747/`](zakon/1991/747/) | amended, not consolidated | 1 | 1991-06-19 | 1991-06-19 |
+| Zakon o prodaji stanova na kojima postoji stanarsko pravo | [`zakon/1991/747/`](zakon/1991/747/) | amended after consolidation, not consolidated | 2 | 1991-06-19 | 1992-06-20 |
 | Zakon o turističkim zajednicama i promicanju hrvatskog turizma | [`zakon/1991/748/`](zakon/1991/748/) | repealed, not consolidated | 1 | 1991-06-19 | 1991-06-19 |
-| Zakon o boravišnoj pristojbi | [`zakon/1991/749/`](zakon/1991/749/) | repealed, not consolidated | 1 | 1991-06-19 | 1991-06-19 |
+| Zakon o boravišnoj pristojbi | [`zakon/1991/749/`](zakon/1991/749/) | repealed, not consolidated | 2 | 1991-06-19 | 1994-04-23 |
 | Zakon o sanaciji i restrukturiranju banaka | [`zakon/1991/750/`](zakon/1991/750/) | repealed, not consolidated | 1 | 1991-06-11 | 1991-06-11 |
 | Zakon o izdavanju obveznica za restrukturiranje gospodarstva u Republici Hrvatskoj | [`zakon/1991/751/`](zakon/1991/751/) | in force | 1 | 1991-06-11 | 1991-06-11 |
-| Zakon o rudarstvu | [`zakon/1991/752/`](zakon/1991/752/) | amended, not consolidated | 1 | 1991-06-19 | 1991-06-19 |
+| Zakon o rudarstvu | [`zakon/1991/752/`](zakon/1991/752/) | replaced, not consolidated | 3 | 1991-06-19 | 2001-12-28 |
 | Zakon o premijama za određene proizvode u poljoprivredi i regresu dijela kamata za prioritetne namjene u poljoprivredi | [`zakon/1991/753/`](zakon/1991/753/) | amended, not consolidated | 1 | 1991-06-19 | 1991-06-19 |
 | Zakon o osnivanju Javnog poduzeća "Jadrolinija" p. o. Rijeka | [`zakon/1991/754/`](zakon/1991/754/) | in force | 1 | 1991-06-19 | 1991-06-19 |
 | Zakon o osnivanju Javnog poduzeća "Kumrovec" | [`zakon/1991/755/`](zakon/1991/755/) | in force | 1 | 1991-06-11 | 1991-06-11 |
@@ -32661,11 +32966,11 @@
 | Zakon o ovlaštenju Vlade Republike Hrvatske za donošenje Uredbe o uređenju nekih pitanja obavljanja arhivske djelatnosti | [`zakon/1991/758/`](zakon/1991/758/) | in force | 1 | 1991-06-19 | 1991-06-19 |
 | Zakon o izmjeni Zakona o plaćanju doprinosa za mirovinsko i invalidsko osiguranje individualnih poljoprivrednika u 1991. godini | [`zakon/1991/759/`](zakon/1991/759/) | in force | 1 | 1991-06-19 | 1991-06-19 |
 | Zakon o dopuni Zakona o stopama neposrednih poreza i pripadnosti poreza, taksa i drugih prihoda društveno-političkim zajednicama u 1991. godini | [`zakon/1991/760/`](zakon/1991/760/) | amending act | 1 | 1991-06-11 | 1991-06-11 |
-| Zakon o poljoprivrednom zemljištu | [`zakon/1991/945/`](zakon/1991/945/) | amended, not consolidated | 1 | 1991-07-24 | 1991-07-24 |
+| Zakon o poljoprivrednom zemljištu | [`zakon/1991/945/`](zakon/1991/945/) | amended after consolidation, not consolidated | 2 | 1991-07-24 | 1993-09-07 |
 | Zakon o Hrvatskoj akademiji znanosti i umjetnosti | [`zakon/1991/946/`](zakon/1991/946/) | amended, not consolidated | 1 | 1991-07-24 | 1991-07-24 |
 | Zakon o prestanku važenja Zakona o "Nagradi dr. Marija Schlesinger" | [`zakon/1991/947/`](zakon/1991/947/) | in force | 1 | 1991-07-24 | 1991-07-24 |
 | Zakon o ovlaštenju Vlade Republike Hrvatske za donošenje uredbe o uređivanju određenih pitanja u obavljanju zaštite spomenika kulture, knjižničarske i muzejske djelatnosti | [`zakon/1991/948/`](zakon/1991/948/) | in force | 1 | 1991-07-24 | 1991-07-24 |
-| Zakon o pravima bivših političkih zatvorenika | [`zakon/1991/949/`](zakon/1991/949/) | amended, not consolidated | 1 | 1991-07-24 | 1991-07-24 |
+| Zakon o pravima bivših političkih zatvorenika | [`zakon/1991/949/`](zakon/1991/949/) | amended after consolidation, not consolidated | 2 | 1991-07-24 | 1994-07-07 |
 | Zakon o izmjenama i dopunama Zakona o javnim cestama | [`zakon/1991/950/`](zakon/1991/950/) | amending act | 1 | 1991-07-24 | 1991-07-24 |
 | Zakon o izmjenama Zakona o prostornom planiranju i uređivanju prostora | [`zakon/1991/951/`](zakon/1991/951/) | in force | 1 | 1991-07-24 | 1991-07-24 |
 | Zakon o izmjenama i dopunama Zakona o izgradnji objekata | [`zakon/1991/952/`](zakon/1991/952/) | amended, not consolidated | 1 | 1991-07-24 | 1991-07-24 |
@@ -32737,7 +33042,7 @@
 | Zakon o Hrvatskom Crvenom križu | [`zakon/1991/1597/`](zakon/1991/1597/) | replaced, not consolidated | 1 | 1991-11-27 | 1991-11-27 |
 | Zakon o kazalištima | [`zakon/1991/1598/`](zakon/1991/1598/) | repealed, not consolidated | 1 | 1991-11-27 | 1991-11-27 |
 | Zakon o "Nagradi Ivan Filipović" | [`zakon/1991/1599/`](zakon/1991/1599/) | repealed, not consolidated | 1 | 1991-11-27 | 1991-11-27 |
-| Zakon o članarinama u turističkim zajednicama | [`zakon/1991/1600/`](zakon/1991/1600/) | amended, not consolidated | 1 | 1991-11-27 | 1991-11-27 |
+| Zakon o članarinama u turističkim zajednicama | [`zakon/1991/1600/`](zakon/1991/1600/) | amended after consolidation, not consolidated | 2 | 1991-11-27 | 1994-04-23 |
 | Zakon o igrama na sreću i zabavnim igrama | [`zakon/1991/1601/`](zakon/1991/1601/) | repealed, not consolidated | 1 | 1991-11-27 | 1991-11-27 |
 | Zakon o izmjeni Zakona o zabrani prijenosa prava raspolaganja i korištenja određenih nekretnina a društvenom vlasništvu na druge korisnike odnosno u vlasništvo fizičkih i pravnih osoba | [`zakon/1991/1602/`](zakon/1991/1602/) | in force | 1 | 1991-11-19 | 1991-11-19 |
 | Zakon o izmjenama zakona kojima su osnovana javna poduzeća | [`zakon/1991/1603/`](zakon/1991/1603/) | amended, not consolidated | 1 | 1991-11-19 | 1991-11-19 |
@@ -32770,7 +33075,7 @@
 | Zakon o izmjenama i dopunama Zakona o preuzimanju saveznih zakona iz oblasti mirovinskog i invalidskog osiguranja i doplatka za djecu vojnih osiguranika koji se u Republici Hrvatskoj primjenjuju kao republički zakoni | [`zakon/1991/1894/`](zakon/1991/1894/) | amending act | 1 | 1991-12-31 | 1991-12-31 |
 | Zakon o izmjenama i dopunama Zakona o unutarnjim poslovima | [`zakon/1991/1895/`](zakon/1991/1895/) | amending act | 1 | 1991-12-31 | 1991-12-31 |
 | Zakon o izmjeni Zakona o obrani | [`zakon/1991/1896/`](zakon/1991/1896/) | in force | 1 | 1991-12-31 | 1991-12-31 |
-| Zakon o nadzoru državne granice | [`zakon/1992/144/`](zakon/1992/144/) | amended, not consolidated | 1 | 1992-02-29 | 1992-02-29 |
+| Zakon o nadzoru državne granice | [`zakon/1992/144/`](zakon/1992/144/) | amended after consolidation, not consolidated | 2 | 1992-02-29 | 1994-12-22 |
 | Zakon o matičnom broju | [`zakon/1992/145/`](zakon/1992/145/) | repealed, not consolidated | 1 | 1992-02-21 | 1992-02-21 |
 | Zakon o izmjeni i dopuni Zakona o osobnoj iskaznici | [`zakon/1992/146/`](zakon/1992/146/) | amending act | 1 | 1992-02-21 | 1992-02-21 |
 | Zakon o izmjeni Zakona o Vladi Republike Hrvatske | [`zakon/1992/147/`](zakon/1992/147/) | amended, not consolidated | 1 | 1992-02-29 | 1992-02-29 |
@@ -32899,13 +33204,13 @@
 | Zakon o izmjenama zakona koji sadrže nazivlje javno tužilaštvo | [`zakon/1993/1167/`](zakon/1993/1167/) | in force | 1 | 1993-06-26 | 1993-06-26 |
 | Zakon o prestanku važenja Zakona o uređenju imovinskih odnosa nastalih samovlasnim zauzećem (uzurpacijom) zemljišta u općenarodnoj imovini | [`zakon/1993/1168/`](zakon/1993/1168/) | in force | 1 | 1993-06-26 | 1993-06-26 |
 | Zakon o izmjenama i dopunama Zakona o sudskim taksama | [`zakon/1993/1311/`](zakon/1993/1311/) | amending act | 1 | 1993-07-17 | 1993-07-17 |
-| Zakon o državnoj reviziji | [`zakon/1993/1437/`](zakon/1993/1437/) | repealed, not consolidated | 1 | 1993-07-20 | 1993-07-20 |
+| Zakon o državnoj reviziji | [`zakon/1993/1437/`](zakon/1993/1437/) | repealed, not consolidated | 2 | 1993-07-20 | 2001-05-24 |
 | Zakon o dopunama Zakona o stambenim odnosima | [`zakon/1993/1438/`](zakon/1993/1438/) | amending act | 1 | 1993-07-20 | 1993-07-20 |
 | Zakon o izmjeni i dopuni Zakona o Hrvatskom fondu za privatizaciju | [`zakon/1993/1439/`](zakon/1993/1439/) | amended, not consolidated | 1 | 1993-07-20 | 1993-07-20 |
 | Zakon o izmjenama i dopunama Zakona o pretvorbi i organiziranju poduzeća u komunalnim djelatnostima i djelatnostima uređenja naselja i prostora, prijevoza putnika u gradskom i prigradskom prometu i dj | [`zakon/1993/1440/`](zakon/1993/1440/) | amending act | 1 | 1993-07-20 | 1993-07-20 |
 | Zakon o dopuni Zakona o zabrani prijenosa prava raspolaganja i korištenja određenih nekretnina u društvenom vlasništvu na druge korisnike odnosno u vlasništvo fizičkih i pravnih osoba | [`zakon/1993/1441/`](zakon/1993/1441/) | amending act | 1 | 1993-07-20 | 1993-07-20 |
 | Zakon o zaštiti znaka i naziva Crvenog križa | [`zakon/1993/1536/`](zakon/1993/1536/) | cited later, not consolidated | 1 | 1993-08-21 | 1993-08-21 |
-| Zakon o sustavu državne uprave | [`zakon/1993/1538/`](zakon/1993/1538/) | repealed, not consolidated | 1 | 1993-08-21 | 1993-08-21 |
+| Zakon o sustavu državne uprave | [`zakon/1993/1538/`](zakon/1993/1538/) | repealed, not consolidated | 2 | 1993-08-21 | 2001-07-08 |
 | Zakon o Poreznoj upravi | [`zakon/1993/1539/`](zakon/1993/1539/) | repealed, not consolidated | 1 | 1993-08-21 | 1993-08-21 |
 | Zakon o ustanovama | [`zakon/1993/1548/`](zakon/1993/1548/) | amended, not consolidated | 1 | 1993-08-24 | 1993-08-24 |
 | Zakon o tehničkoj kulturi | [`zakon/1993/1549/`](zakon/1993/1549/) | amended, not consolidated | 1 | 1993-08-24 | 1993-08-24 |
@@ -32935,8 +33240,8 @@
 | Zakon o izmjenama i dopuni Zakona o slobodnim zonama | [`zakon/1993/1811/`](zakon/1993/1811/) | amending act | 1 | 1993-10-20 | 1993-10-20 |
 | Zakon o dopuni Zakona o pretvorbi društvenih poduzeća | [`zakon/1993/1812/`](zakon/1993/1812/) | amending act | 1 | 1993-10-20 | 1993-10-20 |
 | Zakon o dopuni Zakona o Hrvatskoj radio-televiziji | [`zakon/1993/1813/`](zakon/1993/1813/) | amending act | 1 | 1993-10-28 | 1993-10-28 |
-| Zakon o visokim učilištima | [`zakon/1993/1876/`](zakon/1993/1876/) | amended, not consolidated | 1 | 1993-11-02 | 1993-11-02 |
-| Zakon o znanstvenoistraživačkoj djelatnosti | [`zakon/1993/1877/`](zakon/1993/1877/) | amended, not consolidated | 1 | 1993-11-02 | 1993-11-02 |
+| Zakon o visokim učilištima | [`zakon/1993/1876/`](zakon/1993/1876/) | amended after consolidation, not consolidated | 2 | 1993-11-02 | 1996-07-08 |
+| Zakon o znanstvenoistraživačkoj djelatnosti | [`zakon/1993/1877/`](zakon/1993/1877/) | cited later, not consolidated | 2 | 1993-11-02 | 1996-04-25 |
 | Zakon o državnim maticama | [`zakon/1993/1878/`](zakon/1993/1878/) | amended, not consolidated | 1 | 1993-11-02 | 1993-11-02 |
 | Zakon o statusu prognanika i izbjeglica | [`zakon/1993/1879/`](zakon/1993/1879/) | amended, not consolidated | 1 | 1993-11-02 | 1993-11-02 |
 | Zakon o upravljanju ustanovama u kulturi i zaštiti spomenika kulture | [`zakon/1993/1880/`](zakon/1993/1880/) | in force | 1 | 1993-11-02 | 1993-11-02 |
@@ -32953,7 +33258,7 @@
 | Zakon o visini kamata na iznose poreza, doprinosa, pristojbi i drugih javnih prihoda koji nisu plaćeni u propisanom roku | [`zakon/1993/2033/`](zakon/1993/2033/) | in force | 1 | 1993-12-03 | 1993-12-03 |
 | Zakon o izmjenama i dopunama Carinskog zakona | [`zakon/1993/2035/`](zakon/1993/2035/) | amending act | 1 | 1993-12-03 | 1993-12-03 |
 | Zakon o porezu na dohodak | [`zakon/1993/2109/`](zakon/1993/2109/) | amended, not consolidated | 1 | 1993-12-15 | 1993-12-15 |
-| Zakon o porezu na dobit | [`zakon/1993/2110/`](zakon/1993/2110/) | amended, not consolidated | 1 | 1993-12-15 | 1993-12-15 |
+| Zakon o porezu na dobit | [`zakon/1993/2110/`](zakon/1993/2110/) | amended after consolidation, not consolidated | 2 | 1993-12-15 | 1995-01-04 |
 | Zakon o kreditiranju obnove ratom oštećenih i razrušenih stambenih i gospodarskih objekata | [`zakon/1993/2111/`](zakon/1993/2111/) | in force | 1 | 1993-12-15 | 1993-12-15 |
 | Zakon o osiguranju sredstava ostvarivanju prava i načinu isplate minimalnih plaća i naknada određenim fizičkim i pravnim osobama | [`zakon/1993/2112/`](zakon/1993/2112/) | repealed, not consolidated | 1 | 1993-12-15 | 1993-12-15 |
 | Zakon o provođenju rezolucija Vijeća sigurnosti Ujedinjenih naroda, u svezi sa sankcijama protiv tzv. SRJ (Srbije i Crne Gore) | [`zakon/1993/2114/`](zakon/1993/2114/) | in force | 1 | 1993-12-15 | 1993-12-15 |
@@ -32991,7 +33296,7 @@
 | Zakon o državnoj agenciji za osiguranje štednih uloga i sanaciju banaka | [`zakon/1994/777/`](zakon/1994/777/) | repealed, not consolidated | 1 | 1994-06-11 | 1994-06-11 |
 | Zakon o izmjenama Zakona o prodaji stanova na kojima postoji stanarsko pravo | [`zakon/1994/778/`](zakon/1994/778/) | amended, not consolidated | 1 | 1994-06-11 | 1994-06-11 |
 | Zakon o izmjenama i dopunama Zakona o mirovinskom i invalidskom osiguranju | [`zakon/1994/779/`](zakon/1994/779/) | amending act | 1 | 1994-06-11 | 1994-06-11 |
-| Zakon o posebnom porezu na alkohol | [`zakon/1994/903/`](zakon/1994/903/) | amended, not consolidated | 1 | 1994-07-11 | 1994-07-11 |
+| Zakon o posebnom porezu na alkohol | [`zakon/1994/903/`](zakon/1994/903/) | amended after consolidation, not consolidated | 2 | 1994-07-11 | 2001-12-13 |
 | Zakon o izmjenama i dopunama Zakona o cestama | [`zakon/1994/918/`](zakon/1994/918/) | amending act | 1 | 1994-07-07 | 1994-07-07 |
 | Zakon o izmjenama i dopunama Zakona o zaštiti spomenika kulture | [`zakon/1994/919/`](zakon/1994/919/) | amending act | 1 | 1994-07-15 | 1994-07-15 |
 | Zakon o izmjeni Zakona o Hrvatskom fondu za privatizaciju | [`zakon/1994/920/`](zakon/1994/920/) | in force | 1 | 1994-07-07 | 1994-07-07 |
@@ -33005,7 +33310,7 @@
 | Zakon o izmjenama i dopunama Zakona o ovjeravanju potpisa, rukopisa i prijepisa | [`zakon/1994/1250/`](zakon/1994/1250/) | amending act | 1 | 1994-10-10 | 1994-10-10 |
 | Zakon o dopuni Zakona o zaštiti prirode | [`zakon/1994/1251/`](zakon/1994/1251/) | amending act | 1 | 1994-10-18 | 1994-10-18 |
 | Zakon o prestanku važenja Zakona o radu organa koji postupaju po predstavkama i prijedlozima | [`zakon/1994/1252/`](zakon/1994/1252/) | in force | 1 | 1994-10-18 | 1994-10-18 |
-| Zakon o morskom ribarstvu | [`zakon/1994/1289/`](zakon/1994/1289/) | amended, not consolidated | 1 | 1994-10-26 | 1994-10-26 |
+| Zakon o morskom ribarstvu | [`zakon/1994/1289/`](zakon/1994/1289/) | amended after consolidation, not consolidated | 2 | 1994-10-26 | 1996-07-20 |
 | Zakon o izmjenama i dopuni Pomorskog zakona | [`zakon/1994/1290/`](zakon/1994/1290/) | amending act | 1 | 1994-10-26 | 1994-10-26 |
 | Zakon o izmjenama i dopunama Zakona o unutarnjim poslovima | [`zakon/1994/1300/`](zakon/1994/1300/) | amending act | 1 | 1994-10-29 | 1994-10-29 |
 | Zakon o izmjenama i dopunama Zakona o zapošljavanju | [`zakon/1994/1301/`](zakon/1994/1301/) | amending act | 1 | 1994-10-29 | 1994-10-29 |
@@ -33025,7 +33330,7 @@
 | Zakon o izmjeni i dopuni Zakona o zapošljavanju | [`zakon/1994/1645/`](zakon/1994/1645/) | amending act | 1 | 1995-01-04 | 1995-01-04 |
 | Zakon o izvršavanju Državnog proračuna Republike Hrvatske za 1995. godinu | [`zakon/1994/1718/`](zakon/1994/1718/) | amended, not consolidated | 1 | 1994-12-31 | 1994-12-31 |
 | Zakon o izmjenama i dopunama Zakona o prekršajima | [`zakon/1995/652/`](zakon/1995/652/) | amended, not consolidated | 1 | 1995-05-27 | 1995-05-27 |
-| Zakon o komunalnom gospodarstvu | [`zakon/1995/721/`](zakon/1995/721/) | repealed, not consolidated | 1 | 1995-06-09 | 1995-06-09 |
+| Zakon o komunalnom gospodarstvu | [`zakon/1995/721/`](zakon/1995/721/) | repealed, not consolidated | 2 | 1995-06-09 | 2001-07-08 |
 | Zakon o zadrugama | [`zakon/1995/723/`](zakon/1995/723/) | repealed, not consolidated | 1 | 1995-06-09 | 1995-06-09 |
 | Zakon o izmjenama i dopunama Zakona o pravima hrvatskih branitelja iz Domovinskog rata | [`zakon/1995/725/`](zakon/1995/725/) | amended, not consolidated | 1 | 1995-06-01 | 1995-06-01 |
 | Odluka o donošenju Zakona o radu | [`zakon/1995/758/`](zakon/1995/758/) | in force | 1 | 1995-06-16 | 1995-06-16 |
@@ -33130,7 +33435,7 @@
 | Zakon o izmjenama i dopunama Zakona o porodnom dopustu majki koje obavljaju samostalnu djelatnost i nezaposlenih majki | [`zakon/1997/1662/`](zakon/1997/1662/) | amending act | 1 | 1997-10-20 | 1997-10-20 |
 | Zakon o izmjenama i dopunama Zakona o zdravstvenom osiguranju | [`zakon/1997/1663/`](zakon/1997/1663/) | amended, not consolidated | 1 | 1997-10-20 | 1997-10-20 |
 | Zakon o izmjeni i dopuni Zakona o izvršavanju državnog proračuna Republike Hrvatske za 1997. godinu | [`zakon/1997/1664/`](zakon/1997/1664/) | amending act | 1 | 1997-10-20 | 1997-10-20 |
-| Zakon o kaznenom postupku | [`zakon/1997/1669/`](zakon/1997/1669/) | amended, not consolidated | 1 | 1998-01-01 | 1998-01-01 |
+| Zakon o kaznenom postupku | [`zakon/1997/1669/`](zakon/1997/1669/) | amended after consolidation, not consolidated | 2 | 1998-01-01 | 2002-12-03 |
 | Zakon o sudovima za mladež | [`zakon/1997/1671/`](zakon/1997/1671/) | repealed, not consolidated | 1 | 1998-01-01 | 1998-01-01 |
 | Zakon o zaštiti osoba s duševnim smetnjama | [`zakon/1997/1672/`](zakon/1997/1672/) | amended, not consolidated | 1 | 1998-01-01 | 1998-01-01 |
 | Zakon o zdravstvenoj zaštiti stranaca u Republici Hrvatskoj | [`zakon/1997/1712/`](zakon/1997/1712/) | repealed, not consolidated | 1 | 1997-11-06 | 1997-11-06 |
@@ -33139,17 +33444,17 @@
 | Zakon o izmjenama i dopunama Zakona o zakupu poslovnog prostora | [`zakon/1997/1809/`](zakon/1997/1809/) | amending act | 1 | 1997-11-28 | 1997-11-28 |
 | Zakon o izmjenama i dopunama Zakona o područjima posebne državne skrbi | [`zakon/1997/1810/`](zakon/1997/1810/) | amended, not consolidated | 1 | 1997-11-28 | 1997-11-28 |
 | Zakon o izmjenama i dopunama Zakona o područjima županija, gradova i općina u Republici Hrvatskoj | [`zakon/1997/1811/`](zakon/1997/1811/) | amended, not consolidated | 1 | 1997-11-28 | 1997-11-28 |
-| Zakon o sjemenu, sadnom materijalu i priznavanju sorti poljoprivrednog bilja | [`zakon/1997/1887/`](zakon/1997/1887/) | amended, not consolidated | 1 | 1997-12-13 | 1997-12-13 |
+| Zakon o sjemenu, sadnom materijalu i priznavanju sorti poljoprivrednog bilja | [`zakon/1997/1887/`](zakon/1997/1887/) | amended after consolidation, not consolidated | 2 | 1997-12-13 | 2003-10-24 |
 | Zakon o izmjenama i dopunama Zakona o ustrojstvu i djelokrugu ministarstava i državnih upravnih organizacija | [`zakon/1997/1890/`](zakon/1997/1890/) | amended, not consolidated | 1 | 1997-12-13 | 1997-12-13 |
 | Zakon o dopuni Zakona o sudovima | [`zakon/1997/1891/`](zakon/1997/1891/) | amending act | 1 | 1997-12-05 | 1997-12-05 |
-| Zakon o posebnim porezima na osobne automobile, ostala motorna vozila, plovila i zrakoplove | [`zakon/1997/1976/`](zakon/1997/1976/) | repealed, not consolidated | 1 | 1997-12-31 | 1997-12-31 |
-| Zakon o posebnom porezu na kavu | [`zakon/1997/1977/`](zakon/1997/1977/) | amended, not consolidated | 1 | 1997-12-31 | 1997-12-31 |
+| Zakon o posebnim porezima na osobne automobile, ostala motorna vozila, plovila i zrakoplove | [`zakon/1997/1976/`](zakon/1997/1976/) | repealed, not consolidated | 2 | 1997-12-31 | 2001-12-13 |
+| Zakon o posebnom porezu na kavu | [`zakon/1997/1977/`](zakon/1997/1977/) | amended after consolidation, not consolidated | 2 | 1997-12-31 | 2001-12-13 |
 | Zakon o izmjenama i dopunama Zakona o posebnom porezu na pivo | [`zakon/1997/1979/`](zakon/1997/1979/) | amending act | 1 | 1997-12-31 | 1997-12-31 |
 | Zakon o izvršavanju Državnog proračuna Republike Hrvatske za 1998. godinu | [`zakon/1997/2019/`](zakon/1997/2019/) | amended, not consolidated | 1 | 1997-12-30 | 1997-12-30 |
 | Zakon o izmjeni i dopuni Zakona o novčanim poticajima i naknadama u poljoprivredi i ribarstvu | [`zakon/1997/2021/`](zakon/1997/2021/) | amending act | 1 | 1998-01-08 | 1998-01-08 |
 | Zakon o izmjenama Zakona o zdravstvenom osiguranju | [`zakon/1998/200/`](zakon/1998/200/) | amended, not consolidated | 1 | 1998-01-31 | 1998-01-31 |
 | Zakona o izmjenama Zakona o stopama doprinosa za zdravstveno osiguranje | [`zakon/1998/201/`](zakon/1998/201/) | in force | 1 | 1998-01-31 | 1998-01-31 |
-| Zakon o prijevozu u cestovnom prometu | [`zakon/1998/447/`](zakon/1998/447/) | repealed, not consolidated | 1 | 1998-03-25 | 1998-03-25 |
+| Zakon o prijevozu u cestovnom prometu | [`zakon/1998/447/`](zakon/1998/447/) | repealed, not consolidated | 2 | 1998-03-25 | 2002-07-24 |
 | Zakon o igrama na sreću | [`zakon/1998/448/`](zakon/1998/448/) | replaced, not consolidated | 1 | 1998-03-25 | 1998-03-25 |
 | Zakon o područjima i sjedištima prekršajnih sudova | [`zakon/1998/449/`](zakon/1998/449/) | repealed, not consolidated | 1 | 1998-03-25 | 1998-03-25 |
 | Zakon o izmjenama i dopunama Zakona o državnom odvjetništvu | [`zakon/1998/450/`](zakon/1998/450/) | amended, not consolidated | 1 | 1998-03-25 | 1998-03-25 |
@@ -33248,7 +33553,7 @@
 | Zakon o izmjenama i dopunama Zakona o poljoprivrednom zemljištu | [`zakon/1999/1752/`](zakon/1999/1752/) | amending act | 1 | 1999-10-21 | 1999-10-21 |
 | Zakon o izmjenama i dopunama Zakona o novčanim poticajima i naknadama u poljoprivredi i ribarstvu | [`zakon/1999/1753/`](zakon/1999/1753/) | amending act | 1 | 1999-10-21 | 1999-10-21 |
 | Zakon o mirovinskim osiguravajućim društvima i isplati mirovina na temelju individualne kapitalizirane štednje | [`zakon/1999/1758/`](zakon/1999/1758/) | repealed, not consolidated | 1 | 1999-10-23 | 1999-10-23 |
-| Zakon o vatrogastvu | [`zakon/1999/1759/`](zakon/1999/1759/) | repealed, not consolidated | 1 | 1999-10-23 | 1999-10-23 |
+| Zakon o vatrogastvu | [`zakon/1999/1759/`](zakon/1999/1759/) | repealed, not consolidated | 2 | 1999-10-23 | 2003-06-18 |
 | Zakon o izmjenama i dopunama Zakona o parničnom postupku | [`zakon/1999/1823/`](zakon/1999/1823/) | amended, not consolidated | 1 | 1999-11-06 | 1999-11-06 |
 | Zakon o izmjenama i dopunama Zakona o kaznenom postupku | [`zakon/1999/1824/`](zakon/1999/1824/) | amended, not consolidated | 1 | 1999-11-06 | 1999-11-06 |
 | Zakon o izbornim jedinicama za izbor zastupnika u Zastupnički dom Hrvatskoga državnog sabora | [`zakon/1999/1855/`](zakon/1999/1855/) | repealed, not consolidated | 1 | 1999-11-13 | 1999-11-13 |
@@ -33258,7 +33563,7 @@
 | Zakon o izmjenama i dopunama Zakona o obnovi ugrožene spomeničke cjeline Dubrovnika | [`zakon/1999/2013/`](zakon/1999/2013/) | amending act | 1 | 1999-12-08 | 1999-12-08 |
 | Zakon o državnoj izmjeri i katastru nekretnina | [`zakon/1999/2014/`](zakon/1999/2014/) | amended, not consolidated | 1 | 1999-12-08 | 1999-12-08 |
 | Zakon o izmjeni i dopuni Zakona o područjima županija, gradova i općina u Republici Hrvatskoj | [`zakon/1999/2016/`](zakon/1999/2016/) | amended, not consolidated | 1 | 1999-12-08 | 1999-12-08 |
-| Zakon o ograničavanju uporabe duhanskih proizvoda | [`zakon/1999/2022/`](zakon/1999/2022/) | amended, not consolidated | 1 | 1999-12-08 | 1999-12-08 |
+| Zakon o ograničavanju uporabe duhanskih proizvoda | [`zakon/1999/2022/`](zakon/1999/2022/) | amended after consolidation, not consolidated | 2 | 1999-12-08 | 2000-06-09 |
 | Zakon o izvršavanju zaštitnog nadzora i rada za opće dobro na slobodi | [`zakon/1999/2023/`](zakon/1999/2023/) | in force | 1 | 1999-12-08 | 1999-12-08 |
 | Zakon o izmjenama i dopunama Zakona o lokalnoj samoupravi i upravi | [`zakon/1999/2024/`](zakon/1999/2024/) | amending act | 1 | 1999-12-08 | 1999-12-08 |
 | Zakon o izmjenama i dopunama Zakona o statusu prognanika i izbjeglica | [`zakon/1999/2025/`](zakon/1999/2025/) | amending act | 1 | 1999-12-08 | 1999-12-08 |
@@ -33395,7 +33700,7 @@
 | Zakon o izmjenama i dopuni Zakona o blagdanima, spomendanu i neradnim danima u Republici Hrvatskoj | [`zakon/2001/1614/`](zakon/2001/1614/) | amending act | 1 | 2001-11-15 | 2001-11-15 |
 | Zakon o dopuni Zakona o zaštiti osoba i imovine | [`zakon/2001/1615/`](zakon/2001/1615/) | amending act | 1 | 2001-11-15 | 2001-11-15 |
 | Zakon o izmjenama i dopunama Zakona o veterinarstvu | [`zakon/2001/1721/`](zakon/2001/1721/) | amending act | 1 | 2001-12-06 | 2001-12-06 |
-| Zakon o slatkovodnom ribarstvu | [`zakon/2001/1740/`](zakon/2001/1740/) | repealed, not consolidated | 1 | 2001-12-08 | 2001-12-08 |
+| Zakon o slatkovodnom ribarstvu | [`zakon/2001/1740/`](zakon/2001/1740/) | repealed, not consolidated | 2 | 2001-12-08 | 2005-01-19 |
 | Zakon o Fondu za regionalni razvoj Republike Hrvatske | [`zakon/2001/1757/`](zakon/2001/1757/) | repealed, not consolidated | 1 | 2001-12-05 | 2001-12-05 |
 | Zakon o Fondu za razvoj i zapošljavanje | [`zakon/2001/1758/`](zakon/2001/1758/) | repealed, not consolidated | 1 | 2001-12-05 | 2001-12-05 |
 | Zakon o izmjenama i dopunama Zakona o posebnom porezu na duhanske proizvode | [`zakon/2001/1761/`](zakon/2001/1761/) | amending act | 1 | 2001-12-13 | 2001-12-13 |
@@ -33533,8 +33838,8 @@
 | Zakon o Leksikografskom zavodu Miroslav Krleža | [`zakon/2003/1223/`](zakon/2003/1223/) | amended, not consolidated | 1 | 2003-06-18 | 2003-06-18 |
 | Zakon o izmjenama i dopunama Zakona o vatrogastvu | [`zakon/2003/1224/`](zakon/2003/1224/) | amending act | 1 | 2003-06-18 | 2003-06-18 |
 | Zakon o azilu | [`zakon/2003/1363/`](zakon/2003/1363/) | repealed, not consolidated | 1 | 2004-07-01 | 2004-07-01 |
-| Zakon o zaštiti osobnih podataka | [`zakon/2003/1364/`](zakon/2003/1364/) | repealed, not consolidated | 1 | 2003-07-04 | 2003-07-04 |
-| Zakon o službenoj statistici | [`zakon/2003/1365/`](zakon/2003/1365/) | repealed, not consolidated | 1 | 2003-07-04 | 2003-07-04 |
+| Zakon o zaštiti osobnih podataka | [`zakon/2003/1364/`](zakon/2003/1364/) | repealed, not consolidated | 2 | 2003-07-04 | 2011-11-24 |
+| Zakon o službenoj statistici | [`zakon/2003/1365/`](zakon/2003/1365/) | repealed, not consolidated | 2 | 2003-07-04 | 2012-06-05 |
 | Zakon o izmjenama i dopunama Zakona o zaštiti vojnih i civilnih invalida rata | [`zakon/2003/1367/`](zakon/2003/1367/) | amending act | 1 | 2003-07-04 | 2003-07-04 |
 | Zakon o izmjenama i dopunama Zakona o obveznim i dobrovoljnim mirovinskim fondovima | [`zakon/2003/1368/`](zakon/2003/1368/) | amending act | 1 | 2003-07-04 | 2003-07-04 |
 | Zakon o izmjeni Zakona o područjima županija, gradova i općina u Republici Hrvatskoj | [`zakon/2003/1407/`](zakon/2003/1407/) | amended, not consolidated | 1 | 2003-07-12 | 2003-07-12 |
@@ -33664,7 +33969,7 @@
 | Zakon o izmjenama Ovršnog zakona | [`zakon/2004/2624/`](zakon/2004/2624/) | in force | 1 | 2004-10-29 | 2004-10-29 |
 | Zakon o izmjenama i dopuni Zakona o upravnim pristojbama u području prava intelektualnog vlasništva | [`zakon/2004/2807/`](zakon/2004/2807/) | amending act | 1 | 2004-11-26 | 2004-11-26 |
 | Zakon o izvršavanju Državnog proračuna Republike Hrvatske za 2005. godinu | [`zakon/2004/3000/`](zakon/2004/3000/) | amended, not consolidated | 1 | 2004-12-07 | 2004-12-07 |
-| Zakon o pravima hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji | [`zakon/2004/3010/`](zakon/2004/3010/) | amended, not consolidated | 1 | 2005-01-01 | 2005-01-01 |
+| Zakon o pravima hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji | [`zakon/2004/3010/`](zakon/2004/3010/) | amended after consolidation, not consolidated | 2 | 2005-01-01 | 2012-12-17 |
 | Zakon o zaštiti i spašavanju | [`zakon/2004/3011/`](zakon/2004/3011/) | repealed, not consolidated | 1 | 2004-12-18 | 2004-12-18 |
 | Zakon o izmjenama Zakona o znanstvenoj djelatnosti i visokom obrazovanju | [`zakon/2004/3013/`](zakon/2004/3013/) | in force | 1 | 2004-12-18 | 2004-12-18 |
 | Zakon o izmjenama i dopunama Zakona o slatkovodnom ribarstvu | [`zakon/2004/3014/`](zakon/2004/3014/) | amended, not consolidated | 1 | 2004-12-18 | 2004-12-18 |
@@ -33727,7 +34032,7 @@
 | Zakon o dopuni Zakona o obnovi i razvoju Grada Vukovara | [`zakon/2005/1778/`](zakon/2005/1778/) | amending act | 1 | 2005-08-02 | 2005-08-02 |
 | Zakon o izmjeni i dopuni Zakona o brdsko-planinskim područjima | [`zakon/2005/1779/`](zakon/2005/1779/) | amending act | 1 | 2005-08-02 | 2005-08-02 |
 | Zakon o izmjenama i dopunama Zakona o poljoprivrednom zemljištu | [`zakon/2005/1780/`](zakon/2005/1780/) | amending act | 1 | 2005-08-02 | 2005-08-02 |
-| Zakon o državnim službenicima | [`zakon/2005/1831/`](zakon/2005/1831/) | repealed, not consolidated | 1 | 2006-01-01 | 2006-01-01 |
+| Zakon o državnim službenicima | [`zakon/2005/1831/`](zakon/2005/1831/) | repealed, not consolidated | 2 | 2006-01-01 | 2012-03-29 |
 | Zakon o izmjeni Zakona o slobodnim zonama | [`zakon/2005/1832/`](zakon/2005/1832/) | in force | 1 | 2005-08-04 | 2005-08-04 |
 | Zakon o izmjenama i dopunama Zakona o mirovinskom osiguranju | [`zakon/2005/1833/`](zakon/2005/1833/) | amending act | 1 | 2005-12-31 | 2005-12-31 |
 | Zakon o izmjeni i dopuni Zakona o pravima hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji | [`zakon/2005/1834/`](zakon/2005/1834/) | amended, not consolidated | 1 | 2005-12-31 | 2005-12-31 |
@@ -33751,7 +34056,7 @@
 | Zakon o izmjenama i dopunama Zakona o plaćama ovlaštenih državnih revizora | [`zakon/2005/2648/`](zakon/2005/2648/) | amending act | 1 | 2006-01-01 | 2006-01-01 |
 | Zakon o reviziji | [`zakon/2005/2737/`](zakon/2005/2737/) | repealed, not consolidated | 1 | 2005-12-20 | 2005-12-20 |
 | Zakon o izvršavanju Državnog proračuna Republike Hrvatske za 2006. godinu | [`zakon/2005/2853/`](zakon/2005/2853/) | amended, not consolidated | 1 | 2005-12-16 | 2005-12-16 |
-| Zakon o sudovima | [`zakon/2005/2896/`](zakon/2005/2896/) | amended, not consolidated | 1 | 2005-12-29 | 2005-12-29 |
+| Zakon o sudovima | [`zakon/2005/2896/`](zakon/2005/2896/) | amended after consolidation, not consolidated | 2 | 2005-12-29 | 2010-10-21 |
 | Zakon o investicijskim fondovima | [`zakon/2005/2897/`](zakon/2005/2897/) | amended, not consolidated | 1 | 2006-01-01 | 2006-01-01 |
 | Zakon o elektroničkoj ispravi | [`zakon/2005/2898/`](zakon/2005/2898/) | repealed, not consolidated | 1 | 2005-12-29 | 2005-12-29 |
 | Zakon o kemikalijama | [`zakon/2005/2899/`](zakon/2005/2899/) | repealed, not consolidated | 1 | 2005-12-30 | 2005-12-30 |
@@ -34225,8 +34530,8 @@
 | Zakona o izmjenama i dopunama Zakona o porezu na promet nekretnina | [`zakon/2011/452/`](zakon/2011/452/) | amending act | 1 | 2011-02-26 | 2011-02-26 |
 | Zakon o izmjenama i dopunama Zakona o uređenju tržišta poljoprivrednih proizvoda | [`zakon/2011/453/`](zakon/2011/453/) | amending act | 1 | 2011-02-26 | 2011-02-26 |
 | Zakon o izmjenama i dopunama Zakona o zdravstvenoj zaštiti | [`zakon/2011/454/`](zakon/2011/454/) | amending act | 1 | 2011-02-18 | 2011-02-18 |
-| Zakon o financiranju političkih aktivnosti i izborne promidžbe | [`zakon/2011/495/`](zakon/2011/495/) | repealed, not consolidated | 1 | 2011-03-03 | 2011-03-03 |
-| Zakon o sprječavanju sukoba interesa | [`zakon/2011/547/`](zakon/2011/547/) | repealed, not consolidated | 1 | 2011-03-10 | 2011-03-10 |
+| Zakon o financiranju političkih aktivnosti i izborne promidžbe | [`zakon/2011/495/`](zakon/2011/495/) | repealed, not consolidated | 2 | 2011-03-03 | 2013-03-12 |
+| Zakon o sprječavanju sukoba interesa | [`zakon/2011/547/`](zakon/2011/547/) | repealed, not consolidated | 2 | 2011-03-10 | 2012-11-16 |
 | Zakon o dopunama Zakona o biogorivima za prijevoz | [`zakon/2011/548/`](zakon/2011/548/) | amending act | 1 | 2011-03-02 | 2011-03-02 |
 | Zakon o izmjenama i dopunama Zakona o sudovima | [`zakon/2011/557/`](zakon/2011/557/) | amending act | 1 | 2011-03-11 | 2011-03-11 |
 | Zakon o Registru zaposlenih u javnom sektoru | [`zakon/2011/763/`](zakon/2011/763/) | repealed, not consolidated | 1 | 2011-03-31 | 2011-03-31 |
@@ -35676,3 +35981,15 @@
 | Zakon o izmjenama i dopunama Zakona o zahtjevima za pristupačnost proizvoda i usluga | [`zakon/2026/1371/`](zakon/2026/1371/) | amending act | 1 | 2026-10-15 | 2026-10-15 |
 | Zakon o izmjenama i dopunama Zakona o tržištu kapitala | [`zakon/2026/1465/`](zakon/2026/1465/) | amending act | 1 | 2026-11-05 | 2026-11-05 |
 | Zakon o izmjenama i dopunama Zakona o izvršavanju Državnog proračuna Republike Hrvatske za 2026. godinu | [`zakon/2026/1504/`](zakon/2026/1504/) | amending act | 1 | 2026-11-04 | 2026-11-04 |
+
+## zakoni (7)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Zakon o blagdanima, spomendanu i neradnim danima u Republici Hrvatskoj | [`zakoni/zakon-o-blagdanima-spomendanu-i-neradnim-danima-u-republici-hrvatskoj/`](zakoni/zakon-o-blagdanima-spomendanu-i-neradnim-danima-u-republici-hrvatskoj/) | repealed, not consolidated | 2 | 1996-05-08 | 2002-02-16 |
+| Zakon o izborima zastupnika u Hrvatski državni Sabor | [`zakoni/zakon-o-izborima-zastupnika-u-hrvatski-drzavni-sabor/`](zakoni/zakon-o-izborima-zastupnika-u-hrvatski-drzavni-sabor/) | amended after consolidation, not consolidated | 2 | 1999-11-13 | 2003-04-02 |
+| Zakon o javnom priopćavanju | [`zakoni/zakon-o-javnom-priopcavanju/`](zakoni/zakon-o-javnom-priopcavanju/) | repealed, not consolidated | 2 | 1996-10-08 | 2001-11-15 |
+| Zakon o odgoju i obrazovanju u osnovnoj i srednjoj školi | [`zakoni/zakon-o-odgoju-i-obrazovanju-u-osnovnoj-i-srednjoj-skoli/`](zakoni/zakon-o-odgoju-i-obrazovanju-u-osnovnoj-i-srednjoj-skoli/) | amended after consolidation, not consolidated | 2 | 2008-08-02 | 2012-08-04 |
+| Zakon o posebnom porezu na bezalkoholna pića | [`zakoni/zakon-o-posebnom-porezu-na-bezalkoholna-pica/`](zakoni/zakon-o-posebnom-porezu-na-bezalkoholna-pica/) | cited later, not consolidated | 2 | 1994-07-11 | 2001-12-13 |
+| Zakon o posebnom porezu na duhanske prerađevine | [`zakoni/zakon-o-posebnom-porezu-na-duhanske-preradjevine/`](zakoni/zakon-o-posebnom-porezu-na-duhanske-preradjevine/) | cited later, not consolidated | 2 | 1994-07-11 | 2001-12-13 |
+| Zakon o posebnom porezu na pivo | [`zakoni/zakon-o-posebnom-porezu-na-pivo/`](zakoni/zakon-o-posebnom-porezu-na-pivo/) | cited later, not consolidated | 2 | 1994-07-11 | 2001-12-13 |

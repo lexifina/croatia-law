@@ -1,23 +1,21 @@
 # Odluka o uvjetima korištenja službenih osobnih automobila, mobilnih telefona, sredstava za službena putovanja, poslovnih kreditnih kartica i sredstava reprezentacije
 
-Odluka o uvjetima korištenja službenih osobnih automobila, mobilnih telefona, sredstava za službena putovanja, poslovnih kreditnih kartica i sredstava reprezentacije · 1 versions, from 2000-12-15 (latest in force: 2000-12-15) · <https://narodne-novine.nn.hr/eli/sluzbeni/2000/128/2373>
+Odluka o uvjetima korištenja službenih osobnih automobila, mobilnih telefona, sredstava za službena putovanja, poslovnih kreditnih kartica i sredstava reprezentacije · 2 versions, from 2000-12-15 (latest in force: 2002-11-12) · <https://narodne-novine.nn.hr/eli/sluzbeni/2000/128/2373>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
-| Tekst | [tekst.md](tekst.md) | 0 |  |
+| Tekst | [tekst.md](tekst.md) | 1 | 2002-11-12 |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
 Act id: `odluka-2000-2373` (tags `odluka-2000-2373/<day>`; `python registry/tools/on.py <day> odluka-2000-2373`).
 
 ## Status
 
-**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+**amended after consolidation, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
 
 Amended or repealed by:
 
-- [Odluka o izmjenama i dopuni Odluke o uvjetima korištenja službenih osobnih automobila, mobilnih telefona, sredstava za službena putovanja, poslovnih kreditnih kartica i sredstava reprezentacije (NN 133/2002)](https://narodne-novine.nn.hr/eli/sluzbeni/2002/133/2140)
-- [Odluka o uvjetima korištenja službenih osobnih automobila, mobilnih telefona, sredstava za službena putovanja, poslovnih kreditnih kartica i sredstava reprezentacije (pročišćeni tekst) (NN 137/2002)](https://narodne-novine.nn.hr/eli/sluzbeni/2002/137/2221)
 - [Odluka o izmjenama i dopunama Odluke o uvjetima korištenja službenih osobnih automobila, mobilnih telefona, sredstava za službena putovanja, poslovnih kreditnih kartica i sredstava reprezentacije (NN 18/2006)](https://narodne-novine.nn.hr/eli/sluzbeni/2006/18/427)
 - [Odluka o izmjenama i dopunama Odluke o uvjetima korištenja službenih osobnih automobila, mobilnih telefona, sredstava za službena putovanja, poslovnih kreditnih kartica i sredstava reprezentacije (NN 75/2024)](https://narodne-novine.nn.hr/eli/sluzbeni/2024/75/1244)
 
@@ -29,3 +27,4 @@ Amended or repealed by:
 - Decisions about named people (appointments, dismissals, pardons, decorations, citizenship), Constitutional Court decisions and corrections (Ispravak) are left out.
 - An act repealed as a whole and changed by nothing else gets a second, empty version on the day the repeal takes effect, credited to the repealing act, when Narodne novine's ELI metadata names that act as repealing it and the repealing act has exactly one sentence ending it ("prestaje važiti") that cites it by its own Narodne novine number with no later numbers, names no articles or parts and gives no day of its own; the repeal day is then the repealing act's own entry-into-force day, read without exceptions.
 - Consolidated texts (pročišćeni tekst) are left out: one is not a new act, it states no day of its own, older ones renumber articles and omit the amending acts' closing provisions (Ustavni sud U-X-80/2005, U-X-1435/2011), and one text often covers several amendments, so it is not used as a later version either.
+- Official consolidated texts: each is a later version of the act it consolidates, in force from the day the latest change it covers took effect (read from that act's own entry-into-force sentence; a Constitutional Court decision from its publication unless it names a later day; a correction from its publication). The changes are credited to no law (the text covers several acts and does not say which changed what): each is a publisher commit whose note names every act covered. Versions between are not carried. A text in force on or before the newest day main has for the act is not appended (it would need a correction commit).
