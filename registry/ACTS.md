@@ -1,6 +1,6 @@
 # Every act in this repository
 
-33298 acts, 33,724 versions. Each act lives in a folder named by its kind, year and identifier, `<kind>/<year>/<identifier>/` (acts published before that layout keep their own folder, listed in data/paths.json); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+33598 acts, 34,024 versions. Each act lives in a folder named by its kind, year and identifier, `<kind>/<year>/<identifier>/` (acts published before that layout keep their own folder, listed in data/paths.json); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## izbori (129)
 
@@ -473,7 +473,7 @@
 | Naputak o izmjenama i dopunama Naputka o načinu uplaćivanja prihoda proračuna, obveznih doprinosa te prihoda za financiranje drugih javnih potreba u 2026. godini | [`naputak/2026/470/`](naputak/2026/470/) | amending act | 1 | 2026-04-16 | 2026-04-16 |
 | Naputak o informacijskom sustavu gospodarenja otpadom | [`naputak/2026/518/`](naputak/2026/518/) | in force | 1 | 2026-05-02 | 2026-05-02 |
 
-## naredba (1408, of which 227 amending acts)
+## naredba (1410, of which 227 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -536,7 +536,9 @@
 | Naredba za provođenje Rezolucije broj 757 (1992) Vijeća sigurnosti Ujedinjenih naroda u području stranih ulaganja | [`naredba/1992/796/`](naredba/1992/796/) | repealed, not consolidated | 1 | 1992-06-03 | 1992-06-03 |
 | Naredba za provođenje Rezolucije broj 757 (1992) Vijeća sigurnosti Ujedinjenih naroda u području trgovine | [`naredba/1992/797/`](naredba/1992/797/) | in force | 1 | 1992-06-03 | 1992-06-03 |
 | Naredba za provođenje Rezolucije br. 757 (1992) Vijeća sigurnosti Ujedinjenih naroda u području turizma | [`naredba/1992/798/`](naredba/1992/798/) | in force | 1 | 1992-06-03 | 1992-06-03 |
+| Naredba za provođenje Rezolucije broj 757 (1992) Vijeća sigurnosti Ujedinjenih naroda u području znanosti, tehnologije i informatike | [`naredba/1992/799/`](naredba/1992/799/) | in force | 1 | 1992-06-03 | 1992-06-03 |
 | Naredba o vremenu u kojem zrakoplovna pristaništa moraju biti otvorena | [`naredba/1992/919/`](naredba/1992/919/) | in force | 1 | 1992-06-17 | 1992-06-17 |
+| Naredba o visini naknade za provjeru stručne sposobnosti zrakoplovnog osoblja | [`naredba/1992/920/`](naredba/1992/920/) | in force | 1 | 1992-06-25 | 1992-06-25 |
 | Naredba o dopuni Naredbe o određivanju proizvoda i usluga za koje se dostavljaju obavijesti o cijenama i maržama radi praćenja | [`naredba/1992/1075/`](naredba/1992/1075/) | amending act | 1 | 1992-07-01 | 1992-07-01 |
 | Naredba o proglašenju područja općine Bjelovar zaraženim i područja općina Križevci i Koprivnica ugroženim područjima od zarazne bolesti bruceloze životinja | [`naredba/1992/1114/`](naredba/1992/1114/) | in force | 1 | 1992-07-14 | 1992-07-14 |
 | Naredba o izmjeni i dopuni Naredbe o uplatnim računima prihoda za financiranje javnih potreba, načinu njihova uplaćivanja i izvješćivanju korisnika o tim prihodima | [`naredba/1992/1154/`](naredba/1992/1154/) | amending act | 1 | 1992-07-20 | 1992-07-20 |
@@ -1886,43 +1888,67 @@
 | Naredba o dopuni Naredbe o razvrstaju luka otvorenih za javni promet na području Primorsko-goranske županije | [`naredba/2026/1220/`](naredba/2026/1220/) | amending act | 1 | 2026-09-19 | 2026-09-19 |
 | Naredba o mjerama kontrole za suzbijanje afričke svinjske kuge u Republici Hrvatskoj | [`naredba/2026/1289/`](naredba/2026/1289/) | in force | 1 | 2026-09-24 | 2026-09-24 |
 
-## odluka (14277, of which 1721 amending acts)
+## odluka (14575, of which 1731 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
+| Odluka o donošenju Prostornog plana Nacionalnog parka »Krka« | [`odluka/1990/1/`](odluka/1990/1/) | cited later, not consolidated | 1 | 1990-01-24 | 1990-01-24 |
 | Odluka o pripremi i donošenju planova za srednjoročno razdoblje od 1991. do 1995. godine | [`odluka/1990/10/`](odluka/1990/10/) | in force | 1 | 1990-01-25 | 1990-01-25 |
+| Odluka o donošenju Prostornog plana Nacionalnog parka »Kornati« | [`odluka/1990/11/`](odluka/1990/11/) | repealed, not consolidated | 1 | 1990-01-25 | 1990-01-25 |
 | Odluka o izmjenama i dopunama Statuta Samoupravne interesne zajednice mirovinskog i invalidskog osiguranja samostalnih zanatlija, ugostitelja i prijevoznika Hrvatske | [`odluka/1990/16/`](odluka/1990/16/) | amending act | 1 | 1990-01-25 | 1990-01-25 |
 | Odluka o oslobađanju plaćanja iznosa učešća u pokriću dijela troškova za lijekove korisnika zaštitnog dodatka uz mirovinu i ratnih vojnih invalida | [`odluka/1990/17/`](odluka/1990/17/) | in force | 1 | 1990-01-25 | 1990-01-25 |
 | Odluka o izmjenama Statuta Privredne komore Hrvatske | [`odluka/1990/18/`](odluka/1990/18/) | in force | 1 | 1990-01-25 | 1990-01-25 |
+| Odluka o plaćanju doprinosa Privrednoj komori Hrvatske u 1990. godini | [`odluka/1990/19/`](odluka/1990/19/) | amended, not consolidated | 1 | 1990-01-25 | 1990-01-25 |
 | Odluka o plaćanju doprinosa Privrednoj komori Zadar u 1990. godini | [`odluka/1990/20/`](odluka/1990/20/) | in force | 1 | 1990-01-25 | 1990-01-25 |
 | Odluka o utvrđivanju osnovice i stope za obračunavanje doprinosa Privrednoj komori Rijeka za 1990. godine | [`odluka/1990/22/`](odluka/1990/22/) | in force | 1 | 1990-01-25 | 1990-01-25 |
+| Odluka o visini dnevnice za službena putovanja i visini naknada drugih troškova koji se republičkim organima uprave priznaju u materijalne troškove | [`odluka/1990/24/`](odluka/1990/24/) | repealed, not consolidated | 1 | 1990-01-30 | 1990-01-30 |
 | Odluka o privremenom usklađivanju mirovina individualnih poljoprivrednika od 1. siječnja 1990. | [`odluka/1990/27/`](odluka/1990/27/) | in force | 1 | 1990-02-07 | 1990-02-07 |
 | Odluka o privremenom određivanju zajamčene najniže svote koja se isplaćuje korisniku mirovine od 1. siječnja 1990. | [`odluka/1990/28/`](odluka/1990/28/) | in force | 1 | 1990-02-07 | 1990-02-07 |
 | Odluka o privremenom ograničnom iznosu najnižega mirovinskog primanja od 1. siječnja 1990. | [`odluka/1990/29/`](odluka/1990/29/) | in force | 1 | 1990-02-07 | 1990-02-07 |
 | Odluka o privremenoj visini minimalne mirovine od 1. siječnja 1990. | [`odluka/1990/30/`](odluka/1990/30/) | in force | 1 | 1990-02-07 | 1990-02-07 |
 | Odluka o privremenoj visini doplatka za pomoć i njegu od 1. siječnja 1990. | [`odluka/1990/31/`](odluka/1990/31/) | in force | 1 | 1990-02-07 | 1990-02-07 |
+| Odluka o određivanju privremene osnovice za utvrđivanje novčane naknade za tjelesno oštećenje od 1. siječnja 1990. | [`odluka/1990/32/`](odluka/1990/32/) | cited later, not consolidated | 1 | 1990-02-07 | 1990-02-07 |
 | Odluka o plaćanju doprinosa Zadružnom savezu Dalmacije u 1990. godini | [`odluka/1990/33/`](odluka/1990/33/) | in force | 1 | 1990-01-30 | 1990-01-30 |
 | Odluka o plaćanju doprinosa Zadružnom savezu Slavonije i Baranje u 1990. godini | [`odluka/1990/34/`](odluka/1990/34/) | in force | 1 | 1990-01-30 | 1990-01-30 |
+| Odluka o visini premije za kvalitetni rasplodni podmladak i regresu troškova za umjetno osjemenjivanje stoke i visini tržne cijene i troškova umjetnog osjemenjivanja stoke | [`odluka/1990/36/`](odluka/1990/36/) | amended, not consolidated | 1 | 1990-02-06 | 1990-02-06 |
+| Odluka o visini premije za mlijeko, vunu, konopljinu stabljiku i stabljiku lana, nadoknadi razlike u cijeni za prodane količine konzumnog mlijeka i visini tržne cijene konopljine stabljike i stabljike | [`odluka/1990/37/`](odluka/1990/37/) | replaced, not consolidated | 1 | 1990-02-06 | 1990-02-06 |
 | Odluka o usklađivanju vrijednosti boda Tarife o nagradama i naknadi troškova za rad odvjetnika s indeksom porasta prosječnog mjesečnog isplaćenog čistog osobnog dohotka po radniku u privredi SRH | [`odluka/1990/45/`](odluka/1990/45/) | in force | 1 | 1990-02-14 | 1990-02-14 |
 | Odluka o visini stope doprinosa za mirovinsko i invalidsko osiguranje za 1990. godinu | [`odluka/1990/46/`](odluka/1990/46/) | in force | 1 | 1990-02-06 | 1990-02-06 |
 | Odluka o privremenim osnovicama osiguranja koja služe za određivanje prava iz mirovinskog i invalidskog osiguranja i uplatu doprinosa za to osiguranje | [`odluka/1990/47/`](odluka/1990/47/) | in force | 1 | 1990-02-06 | 1990-02-06 |
 | Odluka o privremenim osnovicama osiguranja koje služe za određivanje prava iz zdravstvenog osiguranja i za obračun i uplatu doprinosa za to osiguranje | [`odluka/1990/48/`](odluka/1990/48/) | in force | 1 | 1990-02-06 | 1990-02-06 |
 | Odluka o visini privremene stope doprinosa za zdravstveno osiguranje u 1990. godini | [`odluka/1990/49/`](odluka/1990/49/) | in force | 1 | 1990-02-06 | 1990-02-06 |
 | Odluka o valorizaciji iznosa učešća korisnika u pokriću dijela troškova za lijekove | [`odluka/1990/50/`](odluka/1990/50/) | in force | 1 | 1990-02-14 | 1990-02-14 |
+| Odluka o usklađivanju mirovina od 1. siječnja 1990. | [`odluka/1990/51/`](odluka/1990/51/) | replaced, not consolidated | 1 | 1990-02-14 | 1990-02-14 |
+| Odluka o graničnom iznosu najnižega mirovinskog primanja od 1. siječnja 1990. | [`odluka/1990/52/`](odluka/1990/52/) | replaced, not consolidated | 1 | 1990-02-14 | 1990-02-14 |
+| Odluka o visini minimalne mirovine od 1. siječnja 1990. | [`odluka/1990/53/`](odluka/1990/53/) | replaced, not consolidated | 1 | 1990-02-14 | 1990-02-14 |
+| Odluka o povećanju naknada osobnoga dohotka u vezi s pravom na prekvalifikaciju ili dokvalifikaciju i naknada osobnoga dohotka u vezi s pravom na zaposlenje od 1. siječnja 1990. | [`odluka/1990/54/`](odluka/1990/54/) | cited later, not consolidated | 1 | 1990-02-14 | 1990-02-14 |
+| Odluka o usklađivanju novčanih naknada za tjelesno oštećenje i osnovici za određivanje tih naknada od 1. siječnja 1990. | [`odluka/1990/55/`](odluka/1990/55/) | replaced, not consolidated | 1 | 1990-02-14 | 1990-02-14 |
+| Odluka o usklađivanju doplatka za pomoć i njegu od 1. siječnja 1990. | [`odluka/1990/56/`](odluka/1990/56/) | replaced, not consolidated | 1 | 1990-02-14 | 1990-02-14 |
 | Odluka o utvrđivanju općeg interesa za izgradnju ceste Dragonja - Vodnjan, na magistralnom pravcu M-2, sektor od km 10 + 700,00 do km 31 + 190,00 | [`odluka/1990/61/`](odluka/1990/61/) | in force | 1 | 1990-02-21 | 1990-02-21 |
 | Odluka o izmjeni Odluke o visini doprinosa u korist Crvenog križa Hrvatske | [`odluka/1990/62/`](odluka/1990/62/) | in force | 1 | 1990-02-21 | 1990-02-21 |
 | Odluka o usklađivanju mirovina od 1. siječnja 1989. godine | [`odluka/1990/101/`](odluka/1990/101/) | in force | 1 | 1990-03-04 | 1990-03-04 |
 | Odluka o graničnom iznosu najnižeg mirovinskog primanja u 1989. godini | [`odluka/1990/102/`](odluka/1990/102/) | in force | 1 | 1990-03-04 | 1990-03-04 |
+| Odluka o usklađivanju naknada za tjelesno oštećenje i osnovici za određivanje tih naknada od 1. siječnja 1989. | [`odluka/1990/104/`](odluka/1990/104/) | in force | 1 | 1990-03-04 | 1990-03-04 |
 | Odluka o usklađivanju naknade osobnog dohotka u vezi s pravom na prekvalifikaciju ili dokvalifikaciju i naknade osobnog dohotka u vezi s pravom na zaposlenje od 1. siječnja 1989. | [`odluka/1990/105/`](odluka/1990/105/) | in force | 1 | 1990-03-04 | 1990-03-04 |
+| Odluka o usklađivanju mirovina od 1. siječnja 1990. | [`odluka/1990/106/`](odluka/1990/106/) | replaced, not consolidated | 1 | 1990-03-04 | 1990-03-04 |
+| Odluka o graničnom iznosu najnižeg mirovinskog primanja u 1990. godini | [`odluka/1990/107/`](odluka/1990/107/) | repealed, not consolidated | 1 | 1990-03-04 | 1990-03-04 |
+| Odluka o usklađivanju doplatka za pomoć i njegu od 1. siječnja 1990. | [`odluka/1990/108/`](odluka/1990/108/) | replaced, not consolidated | 1 | 1990-03-04 | 1990-03-04 |
+| Odluka o usklađivanju naknada za tjelesno oštećenje i osnovici za određivanje tih naknada od 1. siječnja 1990. godine | [`odluka/1990/109/`](odluka/1990/109/) | replaced, not consolidated | 1 | 1990-03-04 | 1990-03-04 |
+| Odluka o visini dnevnice za službena putovanja i visini naknada drugih troškova koji se republičkim organima uprave priznaju u materijalne troškove | [`odluka/1990/115/`](odluka/1990/115/) | replaced, not consolidated | 1 | 1990-03-05 | 1990-03-05 |
 | Odluka o izmjeni Odluke o plaćanju doprinosa Privrednoj komori Karlovac u 1990. godini | [`odluka/1990/123/`](odluka/1990/123/) | in force | 1 | 1990-03-05 | 1990-03-05 |
 | Odluka o osnovici i stopi za obračunavanje doprinosa Zadružnom savezu zagrebačke regije u 1990. godini | [`odluka/1990/124/`](odluka/1990/124/) | in force | 1 | 1990-03-05 | 1990-03-05 |
 | Odluka o utvrđivanju iznosa naknade zastupnicima izabranim u Sabor Socijalističke Republike Hrvatske | [`odluka/1990/136/`](odluka/1990/136/) | in force | 1 | 1990-03-28 | 1990-03-28 |
+| Odluka o troškovima u postupku pred Stalnim izbranim sudom pri Privrednoj komori Hrvatske | [`odluka/1990/159/`](odluka/1990/159/) | repealed, not consolidated | 1 | 1990-04-04 | 1990-04-04 |
+| Odluka o naknadi troškova i nagradi arbitrima i drugim osobama u postupku pred Stalnim izbranim sudom pri Privrednoj komori Hrvatske | [`odluka/1990/160/`](odluka/1990/160/) | repealed, not consolidated | 1 | 1990-04-04 | 1990-04-04 |
 | Odluka o utvrđivanju osnovice i stope za obračunavanje doprinosa Osnovnoj privrednoj komori Sisak u 1990. godini | [`odluka/1990/161/`](odluka/1990/161/) | in force | 1 | 1990-03-27 | 1990-03-27 |
 | Odluka o umanjenju amortizacije za novu zgradu Nacionalne i sveučilišne biblioteke u Zagrebu | [`odluka/1990/174/`](odluka/1990/174/) | in force | 1 | 1990-04-07 | 1990-04-07 |
 | Odluka o umanjenju amortizacije javnih cesta | [`odluka/1990/175/`](odluka/1990/175/) | in force | 1 | 1990-04-07 | 1990-04-07 |
 | Odluka o usklađivanju mirovina individualnih poljoprivrednika od 01. siječnja 1990. | [`odluka/1990/189/`](odluka/1990/189/) | in force | 1 | 1990-04-07 | 1990-04-07 |
 | Odluka o osnovicama osiguranja koje se uzimaju za obračunavanje i plaćanje doprinosa i za određivanje prava iz mirovinskog i invalidskog osiguranja individualnih poljoprivrednika od 1. siječnja 1990. | [`odluka/1990/190/`](odluka/1990/190/) | in force | 1 | 1990-04-07 | 1990-04-07 |
+| Odluka o određivanju zajamčene najniže svote koja se isplaćuje korisniku mirovine od 1. siječnja 1990. | [`odluka/1990/191/`](odluka/1990/191/) | cited later, not consolidated | 1 | 1990-04-07 | 1990-04-07 |
 | Odluka o graničnom iznosu najnižega mirovinskog primanja radi određivanja zaštitnog dodatka uz mirovinu od 1.siječnja 1990. | [`odluka/1990/192/`](odluka/1990/192/) | in force | 1 | 1990-04-07 | 1990-04-07 |
+| Odluka o visini prihoda domaćinstva korisnika mirovine o kojima ovisi stjecanje prava na zaštitni dodatak uz mirovinu u godini 1990. | [`odluka/1990/193/`](odluka/1990/193/) | replaced, not consolidated | 1 | 1990-04-07 | 1990-04-07 |
+| Odluka o visini minimalne mirovine od 1. siječnja 1990. | [`odluka/1990/194/`](odluka/1990/194/) | replaced, not consolidated | 1 | 1990-04-07 | 1990-04-07 |
 | Odluka o visini doplatka za pomoć i njegu od 1. siječnja 1990. | [`odluka/1990/195/`](odluka/1990/195/) | in force | 1 | 1990-04-07 | 1990-04-07 |
 | Odluka o određivanju osnovice za utvrđivanje novčane naknade za tjelesno oštećenje od 1. siječnja 1990. | [`odluka/1990/196/`](odluka/1990/196/) | in force | 1 | 1990-04-07 | 1990-04-07 |
 | Odluka o uvjetima pod kojima se smatra da je osiguranik uzdržavao člana porodice i o uvjetima prestanka prava na porodičnu mirovinu uslijed nastale promjene u imovnom stanju odnosno prihodima u godini | [`odluka/1990/197/`](odluka/1990/197/) | in force | 1 | 1990-04-07 | 1990-04-07 |
@@ -1930,29 +1956,45 @@
 | Odluka o usklađivanju naknade za zaštitu voda na vodnom području primorsko-istarskih slivova sa stvarnim troškovima pročišćavanja u 1990. godini | [`odluka/1990/199/`](odluka/1990/199/) | in force | 1 | 1990-03-31 | 1990-03-31 |
 | Odluka o usklađivanju naknade za zaštitu voda na vodnom području sliva Save sa stvarnim troškovima pročišćavanja u 1990. godini. | [`odluka/1990/200/`](odluka/1990/200/) | in force | 1 | 1990-03-31 | 1990-03-31 |
 | Odluka o usklađivanju naknade za zaštitu voda na vodnom području dalmatinskih slivova sa stvarnim troškovima pročišćavanja u 1990. godini | [`odluka/1990/201/`](odluka/1990/201/) | in force | 1 | 1990-03-31 | 1990-03-31 |
+| Odluka o plaćanju doprinosa Osnovnom zadružnom savezu Zajednice općina Bjelovar u 1990. godini | [`odluka/1990/202/`](odluka/1990/202/) | replaced, not consolidated | 1 | 1990-03-30 | 1990-03-30 |
+| Odluka o visini dnevnice za službena putovanja i visini naknada drugih troškova koji se republičkim organima uprave priznaju u materijalne troškove | [`odluka/1990/230/`](odluka/1990/230/) | replaced, not consolidated | 1 | 1990-04-10 | 1990-04-10 |
 | Odluka o konačnom usklađivanju mirovina od 1. siječnja 1989. | [`odluka/1990/235/`](odluka/1990/235/) | in force | 1 | 1990-04-18 | 1990-04-18 |
+| Odluka o konačnom graničnom iznosu najnižega mirovinskog primanja od 1. siječnja 1989. | [`odluka/1990/236/`](odluka/1990/236/) | amended, not consolidated | 1 | 1990-04-18 | 1990-04-18 |
+| Odluka o konačnoj visini minimalne mirovine od 1. siječnja 1989. | [`odluka/1990/237/`](odluka/1990/237/) | amended, not consolidated | 1 | 1990-04-18 | 1990-04-18 |
 | Odluka o konačnom usklađivanju naknada osobnoga dohotka u vezi s pravom na prekvalifikaciju ili dokvalifikaciju i naknada osobnoga dohotka u vezi s pravom na zaposlenje od 1. siječnja 1989. | [`odluka/1990/238/`](odluka/1990/238/) | in force | 1 | 1990-04-18 | 1990-04-18 |
 | Odluka o konačnom usklađivanju novčanih naknada za tjelesno oštečenje od 1. siječnja 1989. | [`odluka/1990/239/`](odluka/1990/239/) | in force | 1 | 1990-04-18 | 1990-04-18 |
 | Odluka o konačnom usklađivanju doplatka za pomoć i njegu od 1. siječnja 1989. | [`odluka/1990/240/`](odluka/1990/240/) | in force | 1 | 1990-04-18 | 1990-04-18 |
 | Odluka o valorizacijskim koeficijentima za preračunavanje osobnih dohodaka iz prijašnjih godina prema razini osobnih dohodaka iz 1989. godine u skladu odredaba člana 106. Zakona o osnovnim pravima iz | [`odluka/1990/241/`](odluka/1990/241/) | in force | 1 | 1990-04-18 | 1990-04-18 |
 | Odluka o valorizacijskim koeficijentima za preračunavanje osobnih dohodaka iz prijašnjih godina prema razini osobnih dohodaka iz 1989. godine radi određivanja naknade osobnoga dohotka zbog manjeg osobnog dohotka na drugom poslu | [`odluka/1990/242/`](odluka/1990/242/) | in force | 1 | 1990-04-18 | 1990-04-18 |
 | Odluka o naknadi za troškove smještaja i prehrane za vrijeme prekvalifikacije ili dokvalifikacije izvan mjesta prebivališta korisnika u godini 1990. | [`odluka/1990/243/`](odluka/1990/243/) | in force | 1 | 1990-04-18 | 1990-04-18 |
+| Odluka o visini prihoda domaćinstva korisnika mirovine o kojima ovisi stjecanje prava na zaštitni dodatak uz mirovinu u godini 1990. | [`odluka/1990/244/`](odluka/1990/244/) | in force | 1 | 1990-04-18 | 1990-04-18 |
 | Odluka o uvjetima pod kojima se smatra da je osiguranik uzdržavao članove porodice, kao i o uvjetima prestanka prava na porodičnu mirovinu uslijed nastale promjene u imovnom stanju odnosno prihoda u godini 1990. | [`odluka/1990/245/`](odluka/1990/245/) | in force | 1 | 1990-04-18 | 1990-04-18 |
+| Odluka o naknadi putnih troškova u vezi s ostvarivanjem prava iz mirovinskog i invalidskog osiguranja i najvišem iznosu naknade selidbenih troškova za godinu 1990. | [`odluka/1990/246/`](odluka/1990/246/) | amended, not consolidated | 1 | 1990-04-18 | 1990-04-18 |
 | Odluka o visini mirovinske osnovice za određivanje invalidske mirovine osobama osiguranim pod određenim okolnostima i osobama koje se nakon završenog obrazovanja nalaze na obaveznom praktičnom radu ili na dobrovoljnoj praksi 1990.l | [`odluka/1990/247/`](odluka/1990/247/) | in force | 1 | 1990-04-18 | 1990-04-18 |
+| Odluka o stalnim svotama doprinosa za mirovinsko i invalidsko osiguranje osoba osiguranih u odredenim okolnostima za godinu 1990. | [`odluka/1990/248/`](odluka/1990/248/) | in force | 1 | 1990-04-18 | 1990-04-18 |
 | Odluka o osnovicama osiguranja koje se uzimaju za obračunavanje i plaćanje doprinosa i za određivanje prava iz mirovinskog i invalidskog osiguranja za osobe koje osobnim radom samostalno u obliku zanimanja obavljaju profesionalnu djelatnost i za osiguranike - vrhunske sportaše koji amaterski obavljaju sportsku djelatnost za godinu 1990. | [`odluka/1990/249/`](odluka/1990/249/) | in force | 1 | 1990-04-18 | 1990-04-18 |
+| Odluka o osnovicama za obračunavanje i plaćanje doprinosa i za određivanje prava iz mirovinskog i invalidskog osiguranja osiguranika zaposlenih u inozemstvu za godinu 1990. | [`odluka/1990/250/`](odluka/1990/250/) | cited later, not consolidated | 1 | 1990-04-18 | 1990-04-18 |
 | Odluka o osnovicama osiguranja koje se uzimaju za obračunavanje i plaćanje doprinosa i za određivanje prava iz mirovinskog i invalidskog osiguranja za osiguranike - državljane SFR Jugoslavije koji su na teritoriju Republike zaposleni kod stranih i međunarodnih organizacija i ustanova, stranih konzularnih i diplomatskih predstavništava ili u osobnoj službi stranih državljana za godinu 1990. | [`odluka/1990/251/`](odluka/1990/251/) | in force | 1 | 1990-04-18 | 1990-04-18 |
 | Odluka o osnovicama osiguranja koje se uzimaju za obračunavanje i plaćanje doprinosa i za određivanje prava iz mirovinskog i invalidskog osiguranja za osobe koje se nakon završenog obrazovanja nalaze na obaveznom praktičnom radu ili na dobrovoljnoj praksi za godinu 1990. | [`odluka/1990/252/`](odluka/1990/252/) | in force | 1 | 1990-04-18 | 1990-04-18 |
+| Odluka o osnovici i stopi doprinosa za produženo mirovinsko i invalidsko osiguranje | [`odluka/1990/253/`](odluka/1990/253/) | repealed, not consolidated | 1 | 1990-04-18 | 1990-04-18 |
 | Odluka o izmjeni Odluke o izdvajanju i raspoređivanju sredstava za zadovoljavanje stambenih potreba korisnika mirovine | [`odluka/1990/255/`](odluka/1990/255/) | in force | 1 | 1990-04-10 | 1990-04-10 |
 | Odluka o izmjeni Odluke o raspoređivanju i korištenju sredstava za zadovoljavanje stambenih potreba korisnika mirovine | [`odluka/1990/256/`](odluka/1990/256/) | in force | 1 | 1990-04-10 | 1990-04-10 |
+| Odluka o usklađivanju mirovina od 1. siječnja 1990. | [`odluka/1990/257/`](odluka/1990/257/) | replaced, not consolidated | 1 | 1990-04-18 | 1990-04-18 |
+| Odluka o graničnom iznosu najnižega mirovinskog primanja od 1. siječnja 1990. | [`odluka/1990/258/`](odluka/1990/258/) | replaced, not consolidated | 1 | 1990-04-18 | 1990-04-18 |
+| Odluka o visini minimalne mirovine od 1. siječnja 1990. | [`odluka/1990/259/`](odluka/1990/259/) | replaced, not consolidated | 1 | 1990-04-18 | 1990-04-18 |
+| Odluka o usklađivanju naknada osobnoga dohotka u vezi s pravom na prekvalifikaciju ili dokvalifikaciju i naknada osobnoga dohotka u vezi s pravom na zaposlenje od 1. siječnja 1990. | [`odluka/1990/260/`](odluka/1990/260/) | replaced, not consolidated | 1 | 1990-04-18 | 1990-04-18 |
 | Odluka o uskladivanju novčanih naknada za tjelesno oštećenje i osnovica za određivanje tih naknada od 1. siječnja 1990. | [`odluka/1990/262/`](odluka/1990/262/) | in force | 1 | 1990-04-18 | 1990-04-18 |
 | Odluka o rasponu iznosa naknade troškova okupljanja dobrovoljnih davalaca krvi za jednu bočicu krvi za razdoblje travanj - prosinac 1990. godine | [`odluka/1990/264/`](odluka/1990/264/) | in force | 1 | 1990-04-10 | 1990-04-10 |
+| Odluka o izmjenama i dopunama Statuta Privredne komore Hrvatske | [`odluka/1990/270/`](odluka/1990/270/) | amending act | 1 | 1990-04-25 | 1990-04-25 |
 | Odluka o izmjenama Odluke o plaćanju doprinosa Privrednoj komori Hrvatske u 1990. godini | [`odluka/1990/271/`](odluka/1990/271/) | in force | 1 | 1990-04-25 | 1990-04-25 |
+| Odluka o raspodjeli sredstava radio-pretplate | [`odluka/1990/297/`](odluka/1990/297/) | repealed, not consolidated | 1 | 1990-04-24 | 1990-04-24 |
 | Odluka o osnovici i stopi plaćanja doprinosa Privrednoj komori Zagreb u 1990. godini | [`odluka/1990/301/`](odluka/1990/301/) | in force | 1 | 1990-05-02 | 1990-05-02 |
 | Odluka o plaćanju doprinosa Privrednoj komori regije Bjelovar u 1990. godini | [`odluka/1990/302/`](odluka/1990/302/) | in force | 1 | 1990-05-02 | 1990-05-02 |
 | Odluka o izmjenama Odluke o plaćanju doprinosa Privrednoj komori Gospić u 1990. godini | [`odluka/1990/303/`](odluka/1990/303/) | in force | 1 | 1990-05-02 | 1990-05-02 |
 | Odluka o novčanom primanju za slučaj novorođenog djeteta | [`odluka/1990/304/`](odluka/1990/304/) | in force | 1 | 1990-04-24 | 1990-04-24 |
 | Odluka o izmjeni Odluke o naknadi za troškove hrane i smještaja za vrijeme putovanja i boravka u drugom mjestu, u vezi sa korištenjem zdravstvene zaštite | [`odluka/1990/306/`](odluka/1990/306/) | in force | 1 | 1990-04-24 | 1990-04-24 |
 | Odluka o izmjeni Odluke o davanju pomoći iz sredstava solidarnosti za djelomično ublažavanje posljedica od elementarnih nepogoda na području općine Dubrovnik izazvanih potresom 15. travnja 1979. godin | [`odluka/1990/309/`](odluka/1990/309/) | in force | 1 | 1990-05-06 | 1990-05-06 |
+| Odluka o visini dnevnice za službena putovanja i visini naknada drugih troškova koji se republičkim organima uprave priznaju u materijalne troškove | [`odluka/1990/310/`](odluka/1990/310/) | replaced, not consolidated | 1 | 1990-04-28 | 1990-04-28 |
 | Odluka o konačnom usklađivanju mirovina od 1. siječnja 1989. godine | [`odluka/1990/320/`](odluka/1990/320/) | in force | 1 | 1990-05-06 | 1990-05-06 |
 | Odluka o konačnom graničnom iznosu najnižeg mirovinskog primanja od 1. siječnja 1989. godine | [`odluka/1990/321/`](odluka/1990/321/) | in force | 1 | 1990-05-06 | 1990-05-06 |
 | Odluka o konačnom usklađivanju naknada osobnog dohotka u vezi s pravom na prekvalifikaciju ili dokvalifikaciju i naknade osobnog dohotka u vezi s pravom na zaposlenje od 1. siječnja 1989. godine | [`odluka/1990/322/`](odluka/1990/322/) | in force | 1 | 1990-05-06 | 1990-05-06 |
@@ -1962,16 +2004,33 @@
 | Odluka o visini prihoda domaćinstva korisnika mirovine o kojima ovisi stjecanje prava na zaštitni dodatak uz mirovinu u 1990. godini | [`odluka/1990/326/`](odluka/1990/326/) | in force | 1 | 1990-05-06 | 1990-05-06 |
 | Odluka o uvjetima pod kojima se smatra da je osiguranik uzdržavao članove porodice kao i o uvjetima prestanka prava na porodičnu mirovinu uslijed nastale promjene u imovnom stanju odnosno prihodima u godini 1990. | [`odluka/1990/327/`](odluka/1990/327/) | in force | 1 | 1990-05-06 | 1990-05-06 |
 | Odluka o izmjeni Odluke o naknadi putnih troškova u vezi s ostvarivanjem prava iz mirovinskog i invalidskog osiguranja | [`odluka/1990/328/`](odluka/1990/328/) | in force | 1 | 1990-05-06 | 1990-05-06 |
+| Odluka o izmjeni Odluke o naknadi dijela troškova za smještaj djece ometene u psihičkom ili fizičkom razvoju u organizacijama internatskog tipa | [`odluka/1990/329/`](odluka/1990/329/) | in force | 1 | 1990-05-06 | 1990-05-06 |
+| Odluka o izmjeni Odluke o novčanoj naknadi udovici osiguranika koja nije stekla pravo na porodičnu mirovinu | [`odluka/1990/330/`](odluka/1990/330/) | in force | 1 | 1990-05-06 | 1990-05-06 |
+| Odluka o izmjeni Odluke o otpremnini bračnom drugu | [`odluka/1990/331/`](odluka/1990/331/) | in force | 1 | 1990-05-06 | 1990-05-06 |
 | Odluka o osnovicama osiguranja koje služe za određivanje prava iz mirovinskog i invalidskog osiguranja i uplatu doprinosa za to osiguranje | [`odluka/1990/332/`](odluka/1990/332/) | in force | 1 | 1990-04-28 | 1990-04-28 |
 | Odluka o osnovicama osiguranja koje služe za određivanje prava iz zdravstvenog osiguranja i za obračun i uplatu doprinosa za to osiguranje | [`odluka/1990/333/`](odluka/1990/333/) | in force | 1 | 1990-04-28 | 1990-04-28 |
 | Odluka o visini stope doprinosa za zdravstveno osiguranje u 1990. godini | [`odluka/1990/334/`](odluka/1990/334/) | in force | 1 | 1990-04-28 | 1990-04-28 |
 | Odluka o planovima za izvanredne prilike u Socijalističkoj Republici Hrvatskoj | [`odluka/1990/355/`](odluka/1990/355/) | in force | 1 | 1990-05-08 | 1990-05-08 |
+| Odluka o usklađivanju mirovina od 1. siječnja 1990. | [`odluka/1990/370/`](odluka/1990/370/) | replaced, not consolidated | 1 | 1990-05-08 | 1990-05-08 |
+| Odluka o graničnom iznosu najnižega mirovinskog primanja od 1. siječnja 1990. | [`odluka/1990/371/`](odluka/1990/371/) | replaced, not consolidated | 1 | 1990-05-08 | 1990-05-08 |
+| Odluka o visini minimalne mirovine od 1. siječnja 1990. | [`odluka/1990/372/`](odluka/1990/372/) | replaced, not consolidated | 1 | 1990-05-08 | 1990-05-08 |
+| Odluka o usklađivanju naknada osobnog dohotka u vezi s pravom na prekvalifikaciju ili dokvalifikaciju i naknada osobnoga dohotka u vezi s pravom na zaposlenje od 1. siječnja 1990. | [`odluka/1990/373/`](odluka/1990/373/) | replaced, not consolidated | 1 | 1990-05-08 | 1990-05-08 |
+| Odluka o usklađivanju doplatka za pomoć i njegu od 1. siječnja 1990. | [`odluka/1990/374/`](odluka/1990/374/) | replaced, not consolidated | 1 | 1990-05-08 | 1990-05-08 |
+| Odluka o usklađivanju novčanih naknada za tjelesno oštećenje od 1. siječnja 1990. | [`odluka/1990/375/`](odluka/1990/375/) | replaced, not consolidated | 1 | 1990-05-08 | 1990-05-08 |
 | Odluka o izradi Prostornog plana Spomen-područja Jasenovac | [`odluka/1990/396/`](odluka/1990/396/) | in force | 1 | 1990-05-12 | 1990-05-12 |
 | Odluka o izmjenama i dopunama Odluke o zadovoljavanju stambenih potreba republičkih funkcionara | [`odluka/1990/397/`](odluka/1990/397/) | amending act | 1 | 1990-05-12 | 1990-05-12 |
 | Odluka o plaćanju doprinosa Osnovnom zadružnom savezu Zajednice općina Bjelovar u 1990. godini | [`odluka/1990/413/`](odluka/1990/413/) | in force | 1 | 1990-05-04 | 1990-05-04 |
 | Odluka o određivanju paušalnog iznosa za troškove krivičnog postupka | [`odluka/1990/419/`](odluka/1990/419/) | in force | 1 | 1990-05-30 | 1990-05-30 |
+| Odluka o obilježavanju pedesetgodišnjice ustanka u Hrvatskoj | [`odluka/1990/424/`](odluka/1990/424/) | repealed, not consolidated | 1 | 1990-06-02 | 1990-06-02 |
+| Odluka o usklađivanju mirovina od 1. siječnja 1990. | [`odluka/1990/433/`](odluka/1990/433/) | replaced, not consolidated | 1 | 1990-06-02 | 1990-06-02 |
+| Odluka o graničnom iznosu najnižega mirovinskog primanja od 1. siječnja 1990. | [`odluka/1990/434/`](odluka/1990/434/) | replaced, not consolidated | 1 | 1990-06-02 | 1990-06-02 |
+| Odluka o visini minimalne mirovine od 1. siječnja 1990. | [`odluka/1990/435/`](odluka/1990/435/) | replaced, not consolidated | 1 | 1990-06-02 | 1990-06-02 |
+| Odluka o usklađivanju naknada osobnoga dohotka u vezi s pravom na prekvalifikaciju ili dokvalifikaciju i naknada osobnoga dohotka u vezi s pravom na zaposlenje od 1. siječnja 1990. | [`odluka/1990/436/`](odluka/1990/436/) | replaced, not consolidated | 1 | 1990-06-02 | 1990-06-02 |
+| Odluka o usklađivanju doplatka za pomoć i njegu od 1. siječnja 1990. | [`odluka/1990/437/`](odluka/1990/437/) | replaced, not consolidated | 1 | 1990-06-02 | 1990-06-02 |
+| Odluka o usklađivanju novčanih naknada za tjelesno oštećenje od 1. siječnja 1990. | [`odluka/1990/438/`](odluka/1990/438/) | replaced, not consolidated | 1 | 1990-06-02 | 1990-06-02 |
 | Odluka o utvrđivanju osnovice i stope za obračunavanje doprinosa Privrednoj komori regije Varaždin u 1990. godini | [`odluka/1990/439/`](odluka/1990/439/) | in force | 1 | 1990-06-02 | 1990-06-02 |
 | Odluka o graničnom iznosu najnižeg mirovinskog primanja u 1990. godini | [`odluka/1990/461/`](odluka/1990/461/) | in force | 1 | 1990-06-05 | 1990-06-05 |
+| Odluka o usklađivanju doplatka za pomoć i njegu od 1. siječnja 1990. godine | [`odluka/1990/462/`](odluka/1990/462/) | replaced, not consolidated | 1 | 1990-06-05 | 1990-06-05 |
 | Odluka o usklađivanju naknada za tjelesno oštećenje i osnovici za određivanje tih naknada od 1. siječnja 1990. godine | [`odluka/1990/463/`](odluka/1990/463/) | in force | 1 | 1990-06-05 | 1990-06-05 |
 | Odluka o utvrđivanju osnovice i stope za obračunavanje doprinosa Osnovnom zadružnom savezu Zajednice općina Varaždin u 1990. godini | [`odluka/1990/464/`](odluka/1990/464/) | in force | 1 | 1990-05-28 | 1990-05-28 |
 | Odluka o osnovici i stopi doprinosa za 1990. godinu | [`odluka/1990/465/`](odluka/1990/465/) | in force | 1 | 1990-05-28 | 1990-05-28 |
@@ -1980,34 +2039,70 @@
 | Odluka o izmjenama Odluke o naknadi putnih troškova u vezi s ostvarivanjem prava iz mirovinskog i invalidskog osiguranja i najvišem iznosu naknade selidbenih troškova za godinu 1990. | [`odluka/1990/509/`](odluka/1990/509/) | in force | 1 | 1990-06-09 | 1990-06-09 |
 | Odluka o izmjenama i dopuni Odluke o utvrđivanju poslova odnosno radnih zadataka na kojima se staž osiguranja računa s povećanim trajanjem | [`odluka/1990/510/`](odluka/1990/510/) | amending act | 1 | 1990-06-09 | 1990-06-09 |
 | Odluka o izmjeni Odluke o sadržaju,obliku i načinu izdavanja isprave kojom se dokazuje svojstvo korisnika zdravstvene zaštite | [`odluka/1990/518/`](odluka/1990/518/) | in force | 1 | 1990-06-19 | 1990-06-19 |
+| Odluka o visini dnevnice za službena putovanja i visini naknada drugih troškova koji se republičkim organima uprave priznaju u materijalne troškove | [`odluka/1990/520/`](odluka/1990/520/) | repealed, not consolidated | 1 | 1990-06-25 | 1990-06-25 |
 | Odluka o davanju garancije Socijalističke Republike Hrvatske Privrednoj banci Zagreb d.d. po Ugovoru o zajmu izmedu Evropske investicijske banke, Luxembourg i Republičke samoupravne interesne zajedni | [`odluka/1990/541/`](odluka/1990/541/) | in force | 1 | 1990-07-01 | 1990-07-01 |
 | Odluka o izmjeni Odluke o visini premije za mlijeko, vunu, konopljinu stabljiku i stabljiku lana, nadoknadi razlike u cijeni za prodane količine konzumnog mlijeka i visini tržne cijene konopljine sta | [`odluka/1990/561/`](odluka/1990/561/) | in force | 1 | 1990-06-30 | 1990-06-30 |
+| Odluka o usklađivanju mirovina od 1. siječnja 1990. | [`odluka/1990/567/`](odluka/1990/567/) | replaced, not consolidated | 1 | 1990-07-08 | 1990-07-08 |
+| Odluka o graničnom iznosu najnižega mirovinskog primanja od 1. siječnja 1990. | [`odluka/1990/568/`](odluka/1990/568/) | replaced, not consolidated | 1 | 1990-07-08 | 1990-07-08 |
+| Odluka o visini minimalne mirovine od 1. siječnja 1990. | [`odluka/1990/569/`](odluka/1990/569/) | replaced, not consolidated | 1 | 1990-07-08 | 1990-07-08 |
+| Odluka o usklađivanju naknada osobnoga dohotka u vezi s pravom na prekvalifikaciju ili dokvalifikaciju i naknada osobnoga dohotka u vezi s pravom na zaposlenje od 1. siječnja 1990. | [`odluka/1990/570/`](odluka/1990/570/) | replaced, not consolidated | 1 | 1990-07-08 | 1990-07-08 |
+| Odluka o usklađivanju doplatka za pomoć i njegu od 1. siječnja 1990. | [`odluka/1990/571/`](odluka/1990/571/) | replaced, not consolidated | 1 | 1990-07-08 | 1990-07-08 |
+| Odluka o usklađivanju novčanih naknada za tjelesno oštećenje od 1. siječnja 1990. | [`odluka/1990/572/`](odluka/1990/572/) | cited later, not consolidated | 1 | 1990-07-08 | 1990-07-08 |
 | Odluka o izmjenama Odluke o visini godišnje naknade za upotrebu cesta što se plaća za cestovna motorna i priključna vozila i motorna vozila s pogonom na plin | [`odluka/1990/574/`](odluka/1990/574/) | in force | 1 | 1990-06-30 | 1990-06-30 |
 | Odluka o izmjenama i dopunama Odluke o visini posebne naknade za korištenje autocesta i određenih objekata na cestama | [`odluka/1990/575/`](odluka/1990/575/) | amending act | 1 | 1990-06-30 | 1990-06-30 |
 | Odluka o prestanku uplate doprinosa Privrednoj komori regije Bjelovar za mjesec srpanj, kolovoz i rujan 1990. godine | [`odluka/1990/593/`](odluka/1990/593/) | in force | 1 | 1990-07-28 | 1990-07-28 |
+| Odluka o organiziranju i formiranju dobrovoljaćkih omladinskih jedinica civilne zaštite Hrvatske | [`odluka/1990/596/`](odluka/1990/596/) | repealed, not consolidated | 1 | 1990-07-24 | 1990-07-24 |
+| Odluka o privremenim valorizacijskim koeficijentima za preračunavanje osobnih dohodaka iz prijašnjih godina prema razini osobnih dohodaka iz godine 1990. | [`odluka/1990/603/`](odluka/1990/603/) | repealed, not consolidated | 1 | 1990-08-01 | 1990-08-01 |
+| Odluka o osnovici i stopi doprinosa za produženo mirovinsko i invalidsko osiguranje | [`odluka/1990/604/`](odluka/1990/604/) | repealed, not consolidated | 1 | 1990-08-01 | 1990-08-01 |
+| Odluka o izmjenama i dopunama Odluke o utvrđivanju poslova odnosno radnih zadataka na kojima se staž osiguranja računa s povećanim trajanjem | [`odluka/1990/605/`](odluka/1990/605/) | amending act | 1 | 1990-08-01 | 1990-08-01 |
+| Odluka o valorizacijskim koeficijentima za preračunavanje osobnih dohodaka iz prijašnjh godina prema razini osnovica osiguranja iz 1990. godine | [`odluka/1990/606/`](odluka/1990/606/) | in force | 1 | 1990-08-01 | 1990-08-01 |
 | Odluka o izmjeni Odluke o utvrđivanju područja za koja se osnivaju osnovne privredne komore | [`odluka/1990/607/`](odluka/1990/607/) | in force | 1 | 1990-07-18 | 1990-07-18 |
 | Odluka o prestanku važenja Odluke o osnivanju Komiteta za općenarodnu obranu i društvenu samozaštitu Socijalističke Republike Hrvatske | [`odluka/1990/622/`](odluka/1990/622/) | in force | 1 | 1990-08-05 | 1990-08-05 |
 | Odluka o izmjenama Odluke o visini premije za kvalitetni rasplodni podmladak i regresu troškova za umjetno osjemenjivanje stoke i visini tržne cijene i troškova umjetnog osjemenjivanja stoke | [`odluka/1990/648/`](odluka/1990/648/) | in force | 1 | 1990-08-01 | 1990-08-01 |
 | Odluka o zmjenama Odluke o visini premije za mlijeko, wnu, konopljinu stabljiku i stabljiku lana, nadoknadi razlike u cijeni za prodane količine konzumnog mlijeka i visini tržne cijene konopljine stab | [`odluka/1990/649/`](odluka/1990/649/) | in force | 1 | 1990-08-01 | 1990-08-01 |
 | Odluka o prestanku važenja Odluke o raspisivanju izbora za zastupnike u Sabor Socijalističke Republike Hrvatske | [`odluka/1990/651/`](odluka/1990/651/) | in force | 1 | 1990-08-06 | 1990-08-06 |
 | Odluka o privremenim valorizacijskim koeficijentima za preraćunavanje osnovica osiguranja odnosno osobnih dohodaka iz prijašnjih godina prema razini osnovica osiguranja, odnosno osobnih dohodaka iz go | [`odluka/1990/700/`](odluka/1990/700/) | in force | 1 | 1990-09-11 | 1990-09-11 |
+| Odluka o usklađivanju mirovina od 1. siječnja 1990. | [`odluka/1990/703/`](odluka/1990/703/) | replaced, not consolidated | 1 | 1990-09-19 | 1990-09-19 |
+| Odluka o graničnom iznosu najnižega mirovinskog primanja od 1. siječnja 1990. | [`odluka/1990/704/`](odluka/1990/704/) | replaced, not consolidated | 1 | 1990-09-19 | 1990-09-19 |
+| Odluka o visini minimalne mirovine od 1. siječnja 1990. | [`odluka/1990/705/`](odluka/1990/705/) | replaced, not consolidated | 1 | 1990-09-19 | 1990-09-19 |
+| Odluka o usklađivanju naknada osobnoga dohotka u vezi s pravom na prekvalifikaciju ili dokvalifikaciju i naknada osobnoga dohotka u vezi s pravom na zaposlenje od 1. siječnja 1990. | [`odluka/1990/707/`](odluka/1990/707/) | repealed, not consolidated | 1 | 1990-09-19 | 1990-09-19 |
+| Odluka o usklađivanju doplatka za pomoć i njegu od 1. siječnja 1990. | [`odluka/1990/708/`](odluka/1990/708/) | replaced, not consolidated | 1 | 1990-09-19 | 1990-09-19 |
+| Odluka o iznimnom usklađivanju doplatka za djecu od 1. rujna 1990. | [`odluka/1990/709/`](odluka/1990/709/) | cited later, not consolidated | 1 | 1990-09-12 | 1990-09-12 |
+| Odluka o početku i završetku radnog vremena u tijeku radnog dana u republičkim organima uprave, republičkim organizacijama i stručnim službama Vlade Republike Hrvatske | [`odluka/1990/713/`](odluka/1990/713/) | repealed, not consolidated | 1 | 1990-10-01 | 1990-10-01 |
 | Odluka o utvrđivanju općeg interesa za izgradnju obrambenog nasipa uz rijeku Dravu na potezu Varaždin - Svibovec | [`odluka/1990/714/`](odluka/1990/714/) | in force | 1 | 1990-10-03 | 1990-10-03 |
 | Odluka o izmjenama Odluke o,visini godišnje naknade za upotrebu cesta što se plaća na cestovna motorna i priključna vozila i motorna vozila s pogonom na plin | [`odluka/1990/726/`](odluka/1990/726/) | in force | 1 | 1990-10-01 | 1990-10-01 |
 | Odluka o izmjenama i dopunama Odluke o visini posebne naknade za korištenje auto-cesta i određenih objekata na cestama | [`odluka/1990/727/`](odluka/1990/727/) | amending act | 1 | 1990-09-29 | 1990-09-29 |
 | Odluka o prestanku važenja Odluke o privremenim valorizacijskim koeficijentima za preračunavanje osnovica osiguranja odnosno osobnih dohodaka iz prijašnjih godina prema razini osnovica osiguranja odno | [`odluka/1990/728/`](odluka/1990/728/) | in force | 1 | 1990-10-07 | 1990-10-07 |
+| Odluka o graničnom iznosu najnižega mirovinskog primanja od 1. siječnja 1990. | [`odluka/1990/737/`](odluka/1990/737/) | in force | 1 | 1990-10-12 | 1990-10-12 |
+| Odluka o visini minimalne mirovine od 1. siječnja 1990. | [`odluka/1990/738/`](odluka/1990/738/) | replaced, not consolidated | 1 | 1990-10-12 | 1990-10-12 |
+| Odluka o usklađivanju naknada osobnoga dohotka u vezi s pravom na prekvalifikaciju ili dokvalifikaciju i naknada osobnoga dohotka u vezi s pravom na zaposlenje od 1. siječnja 1990. | [`odluka/1990/739/`](odluka/1990/739/) | replaced, not consolidated | 1 | 1990-10-12 | 1990-10-12 |
+| Odluka o usklađivanju novčanih naknada za tjelesno oštećenje od 1. siječnja 1990. | [`odluka/1990/740/`](odluka/1990/740/) | replaced, not consolidated | 1 | 1990-10-12 | 1990-10-12 |
+| Odluka o usklađivanju doplatka za pomoć i njegu od 1. siječnja 1990. | [`odluka/1990/741/`](odluka/1990/741/) | replaced, not consolidated | 1 | 1990-10-12 | 1990-10-12 |
+| Odluka o naknadi troškova i nagradama sucima i drugim osobama u postupku pred Sudom časti pri Privrednoj komori Hrvatske | [`odluka/1990/742/`](odluka/1990/742/) | amended, not consolidated | 1 | 1990-10-12 | 1990-10-12 |
+| Odluka o utvrđivanju koeficijenata za obračun osobnih dohodaka funkcionara koje bira ili imenuje Sabor Republike Hrvatske, Predsjedništvo Republike Hrvatske, Vlada Republike Hrvatske i Ustavni sud Hrvatske | [`odluka/1990/807/`](odluka/1990/807/) | cited later, not consolidated | 1 | 1990-10-18 | 1990-10-18 |
+| Odluka o utvrđivanju kalkulativnih prosjeka osobnih dohodaka radnika zaposlenih u organima kojima se sredstva za rad osiguravaju u Budžetu Republike Hrvatske | [`odluka/1990/808/`](odluka/1990/808/) | repealed, not consolidated | 1 | 1990-10-18 | 1990-10-18 |
 | Odluka o utvrđivanju općeg interesa za izgradnju auto-ceste Karlovac - Rijeka, sektor Oštrovica - Kupjak | [`odluka/1990/813/`](odluka/1990/813/) | in force | 1 | 1990-11-01 | 1990-11-01 |
 | Odluka o prestanku uplate doprinosa Privrednoj komori regije Bjelovar za mjesec listopad i studeni 1990. godine | [`odluka/1990/824/`](odluka/1990/824/) | in force | 1 | 1990-11-01 | 1990-11-01 |
+| Odluka o visini premije za mlijeko, vunu, konopljine stabljike i stabljike lana, nadoknadi razlike u cijeni za prodane količine konzumnog mlijeka i visini tržne cijene konopljine stabljike i stabljike | [`odluka/1990/829/`](odluka/1990/829/) | cited later, not consolidated | 1 | 1990-11-08 | 1990-11-08 |
 | Odluka o utvrđivanju općeg interesa za izgradnju magistralnog plinovoda Osijek - Vukovar | [`odluka/1990/853/`](odluka/1990/853/) | in force | 1 | 1990-11-20 | 1990-11-20 |
+| Odluka o izmjenama i dopuni Odluke o utvrđivanju koeficijenata za obračun osobnih dohodaka funkcionara koje bira ili imenuje Sabor Republike Hrvatske, Predsjedništvo Republike Hrvatske, Vlada Republik | [`odluka/1990/888/`](odluka/1990/888/) | amending act | 1 | 1990-11-16 | 1990-11-16 |
 | Odluka o ukidanju Komisije Vlade Republike Hrvatske za odnose s vjerskim zajednicama | [`odluka/1990/904/`](odluka/1990/904/) | in force | 1 | 1990-11-16 | 1990-11-16 |
+| Odluka o izmjeni vrijednosti boda Tarife o nagradama i naknadi troškova za rad odvjetnika | [`odluka/1990/924/`](odluka/1990/924/) | in force | 1 | 1990-11-24 | 1990-11-24 |
 | Odluka o načinu korištenja sredstava za zadovoljavanje zajedničkih potreba društva u oblasti socijalne zaštite u razdoblju od 18. listopada do 31. prosinca 1990. godine | [`odluka/1990/925/`](odluka/1990/925/) | in force | 1 | 1990-11-24 | 1990-11-24 |
+| Odluka o osnivanju Stručne službe Republičkog fonda zdravstvenog osiguranja i zdravstva Hrvatske | [`odluka/1990/928/`](odluka/1990/928/) | cited later, not consolidated | 1 | 1990-12-02 | 1990-12-02 |
+| Odluka o prijenosu dijela sredstava sa prolaznih žiro-računa ispostava u korist redovnog žiro-računa Direkcije Republičkog fonda | [`odluka/1990/929/`](odluka/1990/929/) | amended, not consolidated | 1 | 1990-12-02 | 1990-12-02 |
 | Odluka o visini dnevnice za službena putovanja i visini naknada drugih troškova koji se republičkim organima uprave priznaju u materijalne troškove | [`odluka/1990/934/`](odluka/1990/934/) | in force | 1 | 1990-12-01 | 1990-12-01 |
+| Odluka o utvrđivanju tarifnih stavova za prodaju električne energije | [`odluka/1990/935/`](odluka/1990/935/) | replaced, not consolidated | 1 | 1990-12-01 | 1990-12-01 |
 | Odluka o visini naknade općinama za korištenje prostora kojeg koriste objekti za proizvodnju električne energije na njenom području | [`odluka/1990/936/`](odluka/1990/936/) | in force | 1 | 1990-11-30 | 1990-11-30 |
 | Odluka o prestanku važenja Odluke o organiziranju i formiranju dobrovoljačkih omladinskih jedinica civilne zaštite Hrvatske | [`odluka/1990/937/`](odluka/1990/937/) | in force | 1 | 1990-11-30 | 1990-11-30 |
+| Odluka o dodatnim kriterijima, uvjetima odobravanja i povrata i načinu korištenja sredstava solidarnosti za poticanje zapošljavanja | [`odluka/1990/945/`](odluka/1990/945/) | in force | 1 | 1990-12-07 | 1990-12-07 |
 | Odluka o osnivanju područnih službi | [`odluka/1990/981/`](odluka/1990/981/) | in force | 1 | 1990-12-20 | 1990-12-20 |
 | Odluka o osnivanju Odbora Sabora Republike Hrvatske za zaštitu ljudskih prava | [`odluka/1990/996/`](odluka/1990/996/) | in force | 1 | 1990-12-22 | 1990-12-22 |
+| Odluka o izmjeni Odluke o zastupničkom paušalu | [`odluka/1990/997/`](odluka/1990/997/) | in force | 1 | 1990-12-14 | 1990-12-14 |
 | Odluka o oslobađanju odnosno djelomičnom oslobađanju, te povratu poreza na promet i drugih davanja | [`odluka/1990/1073/`](odluka/1990/1073/) | in force | 1 | 1990-12-22 | 1990-12-22 |
 | Odluka o posebnim republičkim taksama koje plaćaju pravne i fizičke osobe za isticanje tvrtke i korištenje nekretnina | [`odluka/1990/1074/`](odluka/1990/1074/) | in force | 1 | 1990-12-22 | 1990-12-22 |
 | Odluka o svoti zajamčenog osobnog dohotka radnika za razdoblje 1. siječnja do 31. ožujka 1991. godine | [`odluka/1990/1075/`](odluka/1990/1075/) | in force | 1 | 1990-12-22 | 1990-12-22 |
+| Odluka o sudjelovanju osiguranika u troškovima zdravstvene zaštite | [`odluka/1990/1084/`](odluka/1990/1084/) | amended, not consolidated | 1 | 1990-12-29 | 1990-12-29 |
 | Odluka o visini putnih troškova u vezi s korištenjem zdravstvene zaštite u zemlji i inozemstvu | [`odluka/1990/1085/`](odluka/1990/1085/) | in force | 1 | 1990-12-29 | 1990-12-29 |
 | Odluka o visini i načinu udruživanja sredstava za primarnu zdravstvenu zaštitu radnika zaposlenih u društvenom sektoru za razdoblje listopad - prosinac 1990. godine | [`odluka/1990/1086/`](odluka/1990/1086/) | in force | 1 | 1990-12-21 | 1990-12-21 |
 | Odluka o izmjeni Odluke o sadržaju, obliku i načinu izdavanja isprave kojom se dokazuje svojstvo korisnika zdravstvene zaštite | [`odluka/1990/1088/`](odluka/1990/1088/) | in force | 1 | 1990-12-21 | 1990-12-21 |
@@ -2018,30 +2113,50 @@
 | Odluka o prestanku uplate doprinosa Privrednoj komori Zagreb za razdoblje studeni - prosinac 1990. | [`odluka/1990/1127/`](odluka/1990/1127/) | in force | 1 | 1990-12-27 | 1990-12-27 |
 | Odluka o plaćanju doprinosa Privrednoj komori regije Bjelovar za prvo tromjesečje 1991. godine | [`odluka/1990/1128/`](odluka/1990/1128/) | in force | 1 | 1991-01-04 | 1991-01-04 |
 | Odluka o utvrđivanju osnovice i stope za obračunavanje doprinosa Osnovnoj privrednoj komori Sisak za period od I - III mjeseca 1991. | [`odluka/1990/1129/`](odluka/1990/1129/) | in force | 1 | 1991-01-04 | 1991-01-04 |
+| Odluka o plaćanju doprinosa Zadružnom savezu Hrvatske u 1991. godini | [`odluka/1990/1130/`](odluka/1990/1130/) | replaced, not consolidated | 1 | 1990-12-27 | 1990-12-27 |
 | Odluka o stopi članskog doprinosa za 1991. godinu | [`odluka/1990/1131/`](odluka/1990/1131/) | in force | 1 | 1990-12-27 | 1990-12-27 |
+| Odluka o utvrđivanju osnovice i stope za obračun doprinosa Privrednoj komori Slavonije i Baranje, Osijek za 1991. godinu | [`odluka/1990/1198/`](odluka/1990/1198/) | replaced, not consolidated | 1 | 1990-12-31 | 1990-12-31 |
+| Odluka o plaćanju doprinosa Zadružnom savezu Dalmacije u 1991. godini | [`odluka/1990/1199/`](odluka/1990/1199/) | replaced, not consolidated | 1 | 1990-12-31 | 1990-12-31 |
+| Odluka o posebnom dodatku na maloprodajne cijene naftnih derivata | [`odluka/1991/1/`](odluka/1991/1/) | repealed, not consolidated | 1 | 1991-01-17 | 1991-01-17 |
+| Odluka o razvrstavanju cesta u regionalne i lokalne ceste | [`odluka/1991/17/`](odluka/1991/17/) | repealed, not consolidated | 1 | 1991-01-25 | 1991-01-25 |
 | Odluka o usklađivanju mirovina od 1. siječnja 1990. | [`odluka/1991/21/`](odluka/1991/21/) | in force | 1 | 1991-01-25 | 1991-01-25 |
 | Odluka o graničnoj svoti najnižega mirovinskog primanja od 1. siječnja 1990. | [`odluka/1991/22/`](odluka/1991/22/) | in force | 1 | 1991-01-25 | 1991-01-25 |
 | Odluka o visini minimalne mirovine od 1. siječnja 1990. | [`odluka/1991/23/`](odluka/1991/23/) | in force | 1 | 1991-01-25 | 1991-01-25 |
 | Odluka o usklađivanju naknada osobnoga dohotka u vezi s pravom na prekvalifikaciju ili dokvalifikaciju i naknada osobnog dohotka u vezi s pravom na zaposlenje od 1. siječnja 1990. | [`odluka/1991/24/`](odluka/1991/24/) | in force | 1 | 1991-01-25 | 1991-01-25 |
 | Odluka o usklađivanju novčanih naknada za tjelesno oštećenje od 1. siječnja 1990. | [`odluka/1991/25/`](odluka/1991/25/) | in force | 1 | 1991-01-25 | 1991-01-25 |
+| Odluka o usklađivanju doplatka za pomoć i njegu od 1. siječnja 1990. | [`odluka/1991/26/`](odluka/1991/26/) | replaced, not consolidated | 1 | 1991-01-25 | 1991-01-25 |
 | Odluka o naknadi putnih troškova u vezi s ostvarivanjem prava iz mirovinskog i invalidskog osiguranja i najvišem iznosu naknade selidbenih troškova za godinu 1990. | [`odluka/1991/27/`](odluka/1991/27/) | in force | 1 | 1991-01-25 | 1991-01-25 |
 | Odluka o prestanku važenja Odluke o privremenim valorizacijskim koeficijentima za preračunavanje osobnih dohodaka iz prijašnjih godina prema razini osobnih dohodaka iz godine 1990. | [`odluka/1991/28/`](odluka/1991/28/) | in force | 1 | 1991-01-25 | 1991-01-25 |
 | Odluka o evidentiranju i iskazivanju svota osobnih dohodaka, naknada osobnog dohotka iz invalidskog osiguranja i osnovica osiguranja | [`odluka/1991/29/`](odluka/1991/29/) | in force | 1 | 1991-01-17 | 1991-01-17 |
 | Odluka o dokupu staža osiguranja individualnih poljoprivrednika | [`odluka/1991/31/`](odluka/1991/31/) | in force | 1 | 1991-01-25 | 1991-01-25 |
 | Odluka o produženju važenja Odluke o određivanju zajamčene najniže svote koja se isplaćuje korisniku mirovine u 1990. godini | [`odluka/1991/32/`](odluka/1991/32/) | in force | 1 | 1991-01-25 | 1991-01-25 |
+| Odluka o načinu evidentiranja i iskazivanja svota osnovica osiguranja koje se uzimaju za određivanje prava iz mirovinskog i invalidskog osiguranja individualnih poljoprivrednika | [`odluka/1991/33/`](odluka/1991/33/) | amended, not consolidated | 1 | 1991-01-25 | 1991-01-25 |
+| Odluka o usklađivanju mirovina od 1. siječnja 1990. godine | [`odluka/1991/34/`](odluka/1991/34/) | replaced, not consolidated | 1 | 1991-01-25 | 1991-01-25 |
+| Odluka o graničnom iznosu najnižeg mirovinskog primanja od 1. siječnja 1990. | [`odluka/1991/35/`](odluka/1991/35/) | replaced, not consolidated | 1 | 1991-01-25 | 1991-01-25 |
+| Odluka o usklađivanju naknada osobnog dohotka u vezi s pravom na prekvalifikaciju ili dokvalifikaciju | [`odluka/1991/36/`](odluka/1991/36/) | replaced, not consolidated | 1 | 1991-01-25 | 1991-01-25 |
 | Odluka o usklađivanju novčanih naknada za tjelesno oštećenje i osnovici za odredivanje tih naknada od 1. siječnja 1990. godine | [`odluka/1991/37/`](odluka/1991/37/) | in force | 1 | 1991-01-25 | 1991-01-25 |
+| Odluka o usklađivanju doplatka za pomoć i njegu od 1. siječnja 1990. | [`odluka/1991/38/`](odluka/1991/38/) | replaced, not consolidated | 1 | 1991-01-25 | 1991-01-25 |
 | Odluka o osnovicama osiguranja koje služe za određivanje prava iz mirovinskog i invalidskog osiguranja, te za obračunavanje i plaćenje doprinosa za to osiguranje | [`odluka/1991/39/`](odluka/1991/39/) | in force | 1 | 1991-01-25 | 1991-01-25 |
+| Odluka o osiguranju osnivača privatnih poduzeća u Republičkom fondu mirovinskog i invalidskog osiguranja samostalnih privrednika Hrvatske | [`odluka/1991/40/`](odluka/1991/40/) | amended, not consolidated | 1 | 1991-01-25 | 1991-01-25 |
+| Odluka o osnovici osiguranja koja služi za određivanje prava iz mirovinskog i invalidskog osiguranja i za obračun i uplatu doprinosa za to osiguranje osnivača privatnih poduzeća | [`odluka/1991/41/`](odluka/1991/41/) | cited later, not consolidated | 1 | 1991-01-25 | 1991-01-25 |
+| Odluka o evidentiranju i iskazivanju svota osnovica osiguranja | [`odluka/1991/42/`](odluka/1991/42/) | amended, not consolidated | 1 | 1991-01-25 | 1991-01-25 |
+| Odluka o usklađivanju mirovina od 1. siječnja 1990. godine | [`odluka/1991/62/`](odluka/1991/62/) | replaced, not consolidated | 1 | 1991-02-01 | 1991-02-01 |
 | Odluka o graničnom iznosu najnižeg mirovinskog primanja od 1. siječnja 1990. | [`odluka/1991/63/`](odluka/1991/63/) | in force | 1 | 1991-02-01 | 1991-02-01 |
+| Odluka o usklađivanju naknada osobnog dohotka u vezi s pravom na prekvalifikaciju ili dokvalifikaciju | [`odluka/1991/64/`](odluka/1991/64/) | replaced, not consolidated | 1 | 1991-02-01 | 1991-02-01 |
 | Odluka o usklađivanju novčanih naknada za tjelesno oštećenje i osnovici za određivanje tih naknada od 1. siječnja 1990. | [`odluka/1991/65/`](odluka/1991/65/) | in force | 1 | 1991-02-01 | 1991-02-01 |
 | Odluka o usklađivanju doplatka za pomoć i njegu od 1. siječnja 1990. | [`odluka/1991/66/`](odluka/1991/66/) | in force | 1 | 1991-02-01 | 1991-02-01 |
 | Odluka o izmjenama i dopunama Statuta Privredne komore Hrvatske | [`odluka/1991/67/`](odluka/1991/67/) | amending act | 1 | 1991-02-01 | 1991-02-01 |
 | Odluka o plaćanju doprinosa Privrednoj komori Karlovac u 1991. godini | [`odluka/1991/68/`](odluka/1991/68/) | in force | 1 | 1991-01-24 | 1991-01-24 |
 | Odluka o plaćanju doprinosa Privrednoj komori Zadar u 1991. godini | [`odluka/1991/69/`](odluka/1991/69/) | in force | 1 | 1991-02-01 | 1991-02-01 |
+| Odluka o izmjenama i dopunama Tarife o nagradama i naknadi troškova za rad odvjetnika | [`odluka/1991/70/`](odluka/1991/70/) | amending act | 1 | 1991-01-24 | 1991-01-24 |
+| Odluka o izdavanju blagajničkih zapisa Republike Hrvatske | [`odluka/1991/73/`](odluka/1991/73/) | cited later, not consolidated | 1 | 1991-01-29 | 1991-01-29 |
 | Odluka o privremenom finanaranju Privredne komore Hrvatske za razdoblje siječanj - ožujak 1991. godine | [`odluka/1991/90/`](odluka/1991/90/) | in force | 1 | 1991-02-10 | 1991-02-10 |
 | Odluka o privremenom financiranju Privredne komore regije Varaždin za period I - III 1991. godine | [`odluka/1991/91/`](odluka/1991/91/) | in force | 1 | 1991-02-10 | 1991-02-10 |
 | Odluka o privremenom utvrđivanju osnovice i stope članskog doprinosa, te načinu i rokovima plaćanja doprinosa Zadružnom savezu Bjelovar za razdoblje 1. siječnja do 3I. ožujka 1991. godine | [`odluka/1991/92/`](odluka/1991/92/) | in force | 1 | 1991-02-02 | 1991-02-02 |
+| Odluka o osnivanju Ureda Predsjednika Republike | [`odluka/1991/105/`](odluka/1991/105/) | cited later, not consolidated | 1 | 1991-01-19 | 1991-01-19 |
 | Odluka o usklađivanju mirovina od 1. studenoga 1990. i o najvišoj starosnoj i invalidskoj mirovini | [`odluka/1991/112/`](odluka/1991/112/) | in force | 1 | 1991-02-19 | 1991-02-19 |
 | Odluka o visini minimalne mirovine od 1. studenoga 1990. | [`odluka/1991/114/`](odluka/1991/114/) | in force | 1 | 1991-02-19 | 1991-02-19 |
+| Odluka o usklađivanju naknada osobnoga dohotka u vezi s pravom na prekvalifikaciju ili dokvalifikaciju i naknada osobnoga dohotka u vezi s pravom na zaposlenje od 1. studenoga 1990. | [`odluka/1991/115/`](odluka/1991/115/) | cited later, not consolidated | 1 | 1991-02-19 | 1991-02-19 |
 | Odluka o uskladivanju novčanih naknada za tjelesno oštećenje i osnovia za određivanje tih naknada od 1. studenoga 1990. | [`odluka/1991/116/`](odluka/1991/116/) | in force | 1 | 1991-02-19 | 1991-02-19 |
 | Odluka o usklađivanju doplatka za pomoć i njegu od 1. studenoga 1990. | [`odluka/1991/117/`](odluka/1991/117/) | in force | 1 | 1991-02-19 | 1991-02-19 |
 | Odluka o privremenim valorizacijskim koeficijentima za prerečunavanje osobnih dohodaka iz prijašnjih godina prema razini osobnih dohodaka iz godine 1990. | [`odluka/1991/118/`](odluka/1991/118/) | in force | 1 | 1991-02-19 | 1991-02-19 |
@@ -2049,107 +2164,204 @@
 | Odluka o graničnom iznosu najnižeg mirovinskog primanja od 1. siječnja 1990. godine | [`odluka/1991/120/`](odluka/1991/120/) | in force | 1 | 1991-02-19 | 1991-02-19 |
 | Odluka o usklađivanju novčanih naklada za tjelesno oštećenje i osnovci za određivanje tih naknada od 1. siječnja 1990. | [`odluka/1991/122/`](odluka/1991/122/) | in force | 1 | 1991-02-19 | 1991-02-19 |
 | Odluka o usklađivanju doplatka za pomoć i njegu od 1. siječnja 1990. godine | [`odluka/1991/123/`](odluka/1991/123/) | in force | 1 | 1991-02-19 | 1991-02-19 |
+| Odluka o izmjenama i dopunama Odluke o sudjelovanju osiguranika u troškovima zdravstvene zaštite | [`odluka/1991/128/`](odluka/1991/128/) | amended, not consolidated | 1 | 1991-02-19 | 1991-02-19 |
+| Odluka o izmjeni Odluke o visini putnih troškova u svezi s korištenjem zdravstvene zaštite u zemlji i inozemstvu | [`odluka/1991/129/`](odluka/1991/129/) | amended, not consolidated | 1 | 1991-02-19 | 1991-02-19 |
+| Odluka o obveznicima, osnovicama i visini sredstava za zdravstvenu zaštitu i druga prava iz zdravstvenog osiguranja za 1991. godinu | [`odluka/1991/130/`](odluka/1991/130/) | amended, not consolidated | 1 | 1991-02-11 | 1991-02-11 |
 | Odluka o utvrđivanju Liste lijekova koji se mogu propisivati osiguranicima Republičkog fonda zdravstvenog osiguranja i zdravstva Hrvatske | [`odluka/1991/134/`](odluka/1991/134/) | in force | 1 | 1991-02-19 | 1991-02-19 |
 | Odluka o usvajanju zaključnih računa samoupravnih interesnih zajednica zdravstva i zdravstvenog osiguranja radnika i poljoprivrednika,Samoupravne interesne zajednice zdravstva i zdravstvenog osiguranj | [`odluka/1991/135/`](odluka/1991/135/) | in force | 1 | 1991-01-16 | 1991-01-16 |
 | Odluka o privremenom plaćanju doprinosa Privrednojkomori Zagreb u prvom tromjesečju 1991. godine. | [`odluka/1991/140/`](odluka/1991/140/) | in force | 1 | 1991-02-19 | 1991-02-19 |
 | Odluka o utvrđivanju osnovice i stope za obračunavanje doprinosa Privrednoj komori Dalmacije za razdoblje siječanj - ožujak 1991. godine | [`odluka/1991/141/`](odluka/1991/141/) | in force | 1 | 1991-01-25 | 1991-01-25 |
+| Odluka o plaćanju doprinosa Privrednoj komori Istre za 1991. godinu | [`odluka/1991/142/`](odluka/1991/142/) | replaced, not consolidated | 1 | 1991-02-19 | 1991-02-19 |
 | Odluka o utvrđivanju osnovice i stope za obračunavanje doprinosa Osnovnoj privrednoj komori Gospić za period I - III. 1991. godine. | [`odluka/1991/143/`](odluka/1991/143/) | in force | 1 | 1991-02-19 | 1991-02-19 |
+| Odluka o izdavanju obveznica Republike Hrvatske | [`odluka/1991/154/`](odluka/1991/154/) | amended, not consolidated | 1 | 1991-02-13 | 1991-02-13 |
+| Odluka o visini godišnje naknade za upotrebu cesta što se plaća za cestovna motorna i priključna vozila | [`odluka/1991/155/`](odluka/1991/155/) | amended, not consolidated | 1 | 1991-02-13 | 1991-02-13 |
 | Odluka o ukidanju Kazneno-popravnog doma u Staroj Gradiški | [`odluka/1991/156/`](odluka/1991/156/) | in force | 1 | 1991-02-13 | 1991-02-13 |
+| Odluka o utvrđivanju tarifnih stavova za prodaju električne energije | [`odluka/1991/157/`](odluka/1991/157/) | repealed, not consolidated | 1 | 1991-02-13 | 1991-02-13 |
 | Odluka o utvrđivanju općeg interesa za izgradnju cestovnog pravca E-59 i M-11 kao auto-ceste, dionica Gubaševo - Krapina | [`odluka/1991/158/`](odluka/1991/158/) | in force | 1 | 1991-02-21 | 1991-02-21 |
 | Odluka o izmjenama Odluke o usklađivanju naknada osobnoga dohotka u vezi s pravom na prekvalifikaciju ili dokvalifikaciju i naknada osobnoga dohotka u vezi s pravom na zaposlenje od 1. studenoga 1 990 | [`odluka/1991/174/`](odluka/1991/174/) | in force | 1 | 1991-02-27 | 1991-02-27 |
+| Odluka o izmjenama i dopunama Odluke o utvrđivanju poslova odnosno radnih zadataka na kojima se staž osiguranja računa s povećanim trajanjem | [`odluka/1991/175/`](odluka/1991/175/) | amending act | 1 | 1991-02-27 | 1991-02-27 |
 | Odluka o privremenom usklađivanju mirovina individiualnih poljoprivrednika od 1. siječnja 1991. | [`odluka/1991/176/`](odluka/1991/176/) | in force | 1 | 1991-02-27 | 1991-02-27 |
 | Odluka o određivanju privremene osnovice za utvrđivanje novčane naknade za tjelesno oštećenje u godini 1991. i usklađivanje novčane naknade za tjelesno oštećenje u 1991. godini | [`odluka/1991/177/`](odluka/1991/177/) | in force | 1 | 1991-02-27 | 1991-02-27 |
 | Odluka o privremenoj visini doplatka za pomoć i njegu u godini 1991. | [`odluka/1991/178/`](odluka/1991/178/) | in force | 1 | 1991-02-27 | 1991-02-27 |
 | Odluka o privremenom graničnom iznosu najnižega mirovinskog primanja radi određivanja zaštitnog dodatka uz mirovinu u godini 1991. | [`odluka/1991/179/`](odluka/1991/179/) | in force | 1 | 1991-02-27 | 1991-02-27 |
 | Odluka o privremenoj visini minimalne mirovine u 1991. godini | [`odluka/1991/180/`](odluka/1991/180/) | in force | 1 | 1991-02-27 | 1991-02-27 |
+| Odluka o određivanju privremene zajamčene najniže svote koja se isplaćuje korisniku mirovine u godini 1991. | [`odluka/1991/181/`](odluka/1991/181/) | in force | 1 | 1991-02-27 | 1991-02-27 |
 | Odluka o osnovici i stopi za obračunavanje doprinosa Zadružnom savezu zagrebačke regije u 1991. godini | [`odluka/1991/182/`](odluka/1991/182/) | in force | 1 | 1991-02-12 | 1991-02-12 |
 | Odluka o dopuni Odluke o utvrđivanju kalkulativnih prosjeka osobnih dohodaka radnika zaposlenih u organima kojima se sredstva za rad osiguravaju u Budžetu Republike Hrvatske | [`odluka/1991/192/`](odluka/1991/192/) | amending act | 1 | 1991-03-01 | 1991-03-01 |
 | Odluka o usklađivanju mirovina od 1. studenoga 1990. godine | [`odluka/1991/197/`](odluka/1991/197/) | in force | 1 | 1991-03-01 | 1991-03-01 |
 | Odluka o graničnom iznosu najnižeg mirovinskog primanja od 1. studenoga 1990. | [`odluka/1991/198/`](odluka/1991/198/) | in force | 1 | 1991-03-01 | 1991-03-01 |
+| Odluka o usklađivanju naknada osobnog dohotka u vezi s pravom na prekvalifikaciju ili dokvalifikaciju | [`odluka/1991/199/`](odluka/1991/199/) | in force | 1 | 1991-03-01 | 1991-03-01 |
 | Odluka o usklađivanju novčanih naknada za tjelesno oštećenje I osnovici za određivanje tih naknada od 1.studenoga 1990.godine | [`odluka/1991/200/`](odluka/1991/200/) | in force | 1 | 1991-03-01 | 1991-03-01 |
 | Odluka o usklađivanju doplataka za pomoć i njegu od 1.studenoga 1990.godine | [`odluka/1991/201/`](odluka/1991/201/) | in force | 1 | 1991-03-01 | 1991-03-01 |
+| Odluka o privremenim valorizacijskim koeficijentima za preračunavanje osnovica osiguranja i osobnih dohodaka iz prijašnjih godina prema razini osobnih dohodaka iz godine 1980. | [`odluka/1991/202/`](odluka/1991/202/) | in force | 1 | 1991-03-01 | 1991-03-01 |
+| Odluka o davanju pomoći općinama za djelomično ublažavanje posljedica štete od elementarnih nepogoda u 1990. godini | [`odluka/1991/222/`](odluka/1991/222/) | in force | 1 | 1991-03-01 | 1991-03-01 |
 | Odluka o prestanku važenja Odluke o obilježavanju pedesetgodišnjice ustanka u Hrvatskoj | [`odluka/1991/224/`](odluka/1991/224/) | in force | 1 | 1991-02-28 | 1991-02-28 |
+| Odluka o visini dnevnice za službena putovanja u zemlji i visini naknada određenih materijalnih troškova | [`odluka/1991/226/`](odluka/1991/226/) | in force | 1 | 1991-02-28 | 1991-02-28 |
 | Odluka o korištenju sredstava solidarnosti za osiguravanje zaštite životnog standarda socijalno ugroženog stanovništva | [`odluka/1991/227/`](odluka/1991/227/) | in force | 1 | 1991-02-28 | 1991-02-28 |
 | Odluka o utvrđivanju općeg interesa za izgradnju magistralnog plinovoda Zagreb - Karlovac | [`odluka/1991/228/`](odluka/1991/228/) | in force | 1 | 1991-03-08 | 1991-03-08 |
 | Odluka o oslobađanju poreza na promet i drugih davanja za uvoz novinskog i drugih vrsta papira za potrebe novinsko-izdavačkih poduzeća | [`odluka/1991/337/`](odluka/1991/337/) | in force | 1 | 1991-03-17 | 1991-03-17 |
+| Odluka o cijenama nafte i naftnih derivata | [`odluka/1991/338/`](odluka/1991/338/) | repealed, not consolidated | 1 | 1991-03-16 | 1991-03-16 |
+| Odluka o utvrđivanju osnovice i stope za obračunavanje doprinosa Privrednoj komori regije Varaždin | [`odluka/1991/362/`](odluka/1991/362/) | amended, not consolidated | 1 | 1991-03-24 | 1991-03-24 |
 | Odluka o utvrđivanju općeg interesa za izgradnju magistralnog pravca MC-2.1. Cerovlje - Pazin | [`odluka/1991/367/`](odluka/1991/367/) | in force | 1 | 1991-03-29 | 1991-03-29 |
 | Odluka o osnovici i stopi plaćanja doprinosa Privrednoj komori Zagreb u 1991. godini | [`odluka/1991/377/`](odluka/1991/377/) | in force | 1 | 1991-03-29 | 1991-03-29 |
 | Odluka o valorizaciji katastarskog prihoda za 1991. godinu | [`odluka/1991/391/`](odluka/1991/391/) | in force | 1 | 1991-03-25 | 1991-03-25 |
 | Odluka o davanju garancije za kredit Republičkom fondu zdravstvenog osiguranja i zdravstva Hrvatske | [`odluka/1991/392/`](odluka/1991/392/) | in force | 1 | 1991-04-02 | 1991-04-02 |
 | Odluka o visini vodoprivrednog doprinosa | [`odluka/1991/393/`](odluka/1991/393/) | in force | 1 | 1991-04-01 | 1991-04-01 |
 | Odluka o izmjenama i dopuni Odluke o utvrđivanju koeficijenata za obračun osobnih dohodaka funkcionara koje bira ili imenuje Sabor Republike Hrvatske, Predsjedništvo Republike Hrvatske, Vlada Republik | [`odluka/1991/394/`](odluka/1991/394/) | amending act | 1 | 1991-04-02 | 1991-04-02 |
+| Odluka o osnivanju Odbora za arapske zemlje u Ministarstvu inozemnih poslova | [`odluka/1991/401/`](odluka/1991/401/) | amended, not consolidated | 1 | 1991-03-25 | 1991-03-25 |
+| Odluka o utvrđivanju visine i namjene kredita do koje se Republički fond zdravstvenog osiguranja i zdravstva može zadužiti kod poslovnih banaka na teritoriju Hrvatske | [`odluka/1991/402/`](odluka/1991/402/) | in force | 1 | 1991-04-02 | 1991-04-02 |
+| Odluka o izmjenama i dopunama Odluke o sudjelovanju osiguranika u troškovima zdravstvene zaštite | [`odluka/1991/408/`](odluka/1991/408/) | amending act | 1 | 1991-03-25 | 1991-03-25 |
 | Odluka o prestanku važenja Odluke o određivanju kolegijalnog organa za rješavanje žalbi osiguranika | [`odluka/1991/409/`](odluka/1991/409/) | in force | 1 | 1991-03-25 | 1991-03-25 |
+| Odluka o obustavi investicijskih ulaganja u djelatnosti zdravstva Hrvatske | [`odluka/1991/410/`](odluka/1991/410/) | amended, not consolidated | 1 | 1991-03-14 | 1991-03-14 |
+| Odluka o izmjeni i dopuni Odluke o obveznicima, osnovicama i visini sredstava za zdravstvenu zaštitu i druga prava iz zdravstvenog osiguranja za 1991. godinu | [`odluka/1991/411/`](odluka/1991/411/) | amended, not consolidated | 1 | 1991-04-02 | 1991-04-02 |
 | Odluka o ljekarnama s ovlastima javne Ijekarne | [`odluka/1991/413/`](odluka/1991/413/) | in force | 1 | 1991-03-14 | 1991-03-14 |
+| Odluka o visini naknade za zaštitu voda | [`odluka/1991/425/`](odluka/1991/425/) | repealed, not consolidated | 1 | 1991-04-01 | 1991-04-01 |
+| Odluka o visini naknade za korištenje voda | [`odluka/1991/426/`](odluka/1991/426/) | repealed, not consolidated | 1 | 1991-04-01 | 1991-04-01 |
+| Odluka o cijeni i tarifnim stavovima za prodaju električne energije | [`odluka/1991/427/`](odluka/1991/427/) | repealed, not consolidated | 1 | 1991-04-01 | 1991-04-01 |
 | Odluka o izmjeni Odluke o izdavanju obveznica Republike Hrvatske | [`odluka/1991/428/`](odluka/1991/428/) | in force | 1 | 1991-03-30 | 1991-03-30 |
+| Odluka o usklađivanju mirovina od 1. siječnja 1991. i o najvišoj starosnoj i invalidskoj mirovini | [`odluka/1991/434/`](odluka/1991/434/) | replaced, not consolidated | 1 | 1991-04-07 | 1991-04-07 |
+| Odluka o graničnoj svoti najnižega mirovinskog primanja od 1. siječnja 1991. | [`odluka/1991/435/`](odluka/1991/435/) | replaced, not consolidated | 1 | 1991-04-07 | 1991-04-07 |
+| Odluka o visini minimalne mirovine od 1. siječnja 1991. | [`odluka/1991/436/`](odluka/1991/436/) | replaced, not consolidated | 1 | 1991-04-07 | 1991-04-07 |
+| Odluka o usklađivanju naknada osobnoga dohotka u svezi s pravom na prekvalifikaciju ili dokvalifikaciju i naknada osobnoga dohotka u svezi s pravom na zaposlenje od 1. siječnja 1991. | [`odluka/1991/437/`](odluka/1991/437/) | replaced, not consolidated | 1 | 1991-04-07 | 1991-04-07 |
 | Odluka o najnižoj svoti naknade osobnoga dohotka u svezi s pravom na prekvalifikaciju ili dokvalifikaciju i naknade osobnoga dohotka u svezi s pravom na zaposlenje od 1. siječnja 1991. | [`odluka/1991/438/`](odluka/1991/438/) | in force | 1 | 1991-04-07 | 1991-04-07 |
 | Odluka o osnovici za određivanje novčanih naknada za tjelesno oštećenje od 1. siječnja 1991. | [`odluka/1991/439/`](odluka/1991/439/) | in force | 1 | 1991-04-07 | 1991-04-07 |
+| Odluka o usklađivanju doplatka za pomoć i njegu od 1. siječnja 1991. | [`odluka/1991/440/`](odluka/1991/440/) | replaced, not consolidated | 1 | 1991-04-07 | 1991-04-07 |
 | Odluka o valorizacijskim koeficijentima za preračunavanje osobnih dohodaka iz prijašnjih godina prema razini osobnih dohodaka iz godine 1990. | [`odluka/1991/441/`](odluka/1991/441/) | in force | 1 | 1991-04-07 | 1991-04-07 |
 | Odluka o valorizacijskim koeficijentima za preračunavanje osobnih dohodaka iz prijašnjih godina prema razini osobnih dohodaka iz godine 1990. radi određivanja naknade osobnog dohotka zbog manjeg osobn | [`odluka/1991/442/`](odluka/1991/442/) | in force | 1 | 1991-04-07 | 1991-04-07 |
 | Odluka o naknadi za troškove smještaja i prehrane za vrijeme prekvalifikacije ili dokvalifikacije izvan mjesta prebivališta korisnika u godini 1991. | [`odluka/1991/443/`](odluka/1991/443/) | in force | 1 | 1991-04-07 | 1991-04-07 |
 | Odluka o uvjetima pod kojima se smatra da je osiguranik uzdržavao članove porodice, kao i o uvjetima prestanka prava na porodičnu mirovinu uslijed nastale promjene u imovnom stanju odnosno prihoda u g | [`odluka/1991/444/`](odluka/1991/444/) | in force | 1 | 1991-04-07 | 1991-04-07 |
+| Odluka o visini prihoda domaćinstva korisnika mirovine o kojima ovisi stjecanje prava na zaštitni dodatak uz mirovinu u godini 1991. | [`odluka/1991/445/`](odluka/1991/445/) | replaced, not consolidated | 1 | 1991-04-07 | 1991-04-07 |
 | Odluka o naknadi putnih troškova u svezi s ostvarivanjem prava iz mirovinskog i invalidskog osiguranja i najvišoj svoti naknade selidbenih troškova za godinu 1991. | [`odluka/1991/446/`](odluka/1991/446/) | in force | 1 | 1991-04-07 | 1991-04-07 |
+| Odluka o visini mirovinske osnovice za određivanje invalidske mirovine osobama osiguranim pod određenim okolnostima i osobama koje se nakon završenog školovanja nalaze na obaveznom praktičnom radu ili | [`odluka/1991/447/`](odluka/1991/447/) | in force | 1 | 1991-04-07 | 1991-04-07 |
+| Odluka o osnovicama osiguranja koje se uzimaju za obračunavanje i plaćanje doprinosa i za određivanje prava iz mirovinskog i invalidskog osiguranja za osobe koje osobnim radom samostalno u obliku zani | [`odluka/1991/448/`](odluka/1991/448/) | in force | 1 | 1991-04-07 | 1991-04-07 |
+| Odluka o osnovici i načinu plaćanja doprinosa za produženo mirovinsko i invalidsko osiguranje | [`odluka/1991/449/`](odluka/1991/449/) | replaced, not consolidated | 1 | 1991-04-07 | 1991-04-07 |
 | Odluka o osnovicama osiguranja koje se uzimaju za obračunavnje i plaćanje doprinosa i za određivanje prava iz mirovinskog i invalidskog osiguranja za osobe koje se nakon završenog obrazovanja nalaze n | [`odluka/1991/450/`](odluka/1991/450/) | in force | 1 | 1991-04-07 | 1991-04-07 |
+| Odluka o osnovicama osiguranja koje se uzimaju za obračunavanje i plaćanje doprinosa i za određivanje prava iz mirovinskog i invalidskog osiguranja za osiguranike - državljane SFR Jugoslavije koji su | [`odluka/1991/451/`](odluka/1991/451/) | in force | 1 | 1991-04-07 | 1991-04-07 |
+| Odluka o osnovicama za obračunavanje i plaćanje doprinosa i za određivanje prava iz mirovinskog i invalidskog osiguranja osiguranika zaposlenih u inozemstvu za godinu 1991. | [`odluka/1991/452/`](odluka/1991/452/) | cited later, not consolidated | 1 | 1991-04-07 | 1991-04-07 |
+| Odluka o stalnim svotama doprinosa za mirovinsko i invalidsko osiguranje osoba osiguranih u određenim okolnostima za godinu 1991. | [`odluka/1991/453/`](odluka/1991/453/) | repealed, not consolidated | 1 | 1991-04-07 | 1991-04-07 |
 | Odluka o usklađivanju doplatka za djecu i cenzusa prihoda kao uvjeta za stjecanje prava na doplatak za djecu u godini 1991. | [`odluka/1991/454/`](odluka/1991/454/) | in force | 1 | 1991-03-31 | 1991-03-31 |
 | Odluka o reviziji svih zapisnika o utvrđenom činjeničnom stanju o poslovima odnosno radnim zadacima na kojima se staž osiguranja računa s povećanim trajanjem | [`odluka/1991/455/`](odluka/1991/455/) | in force | 1 | 1991-04-07 | 1991-04-07 |
+| Odluka o izmjenama i dopunama Odluke o utvrđivanju poslova odnosno radnih zadataka na kojima se staž osiguranja računa s povećanim trajanjem | [`odluka/1991/456/`](odluka/1991/456/) | amending act | 1 | 1991-04-07 | 1991-04-07 |
 | Odluka o usklađivanju mirovina individualnih poljoprivrednika od 1. siječnja 1991. | [`odluka/1991/457/`](odluka/1991/457/) | in force | 1 | 1991-04-07 | 1991-04-07 |
+| Odluka o osnovicama osiguranja koje se uzimaju za obračunavanje i plaćanje doprinosa i za određivanje prava iz mirovinskog i invalidskog osiguranja individualnih poljoprivrednika od 1. siječnja 1991. | [`odluka/1991/458/`](odluka/1991/458/) | cited later, not consolidated | 1 | 1991-04-07 | 1991-04-07 |
 | Odluka o određivanju zajamčene najniže svote koja se isplaćuje korisniku mirovine u godini 1991. | [`odluka/1991/459/`](odluka/1991/459/) | in force | 1 | 1991-04-07 | 1991-04-07 |
+| Odluka o valorizacijskim koeficijentima za preračunavanje osobnih dohodaka iz prijašnjih godina prema razini osnovica osiguranja iz godine 1991. | [`odluka/1991/460/`](odluka/1991/460/) | amended, not consolidated | 1 | 1991-04-07 | 1991-04-07 |
 | Odluka o graničnoj svoti najnižega mirovinskog primanja radi određivanja zaštitnog dodatka uz mirovinu u godini 1991. | [`odluka/1991/461/`](odluka/1991/461/) | in force | 1 | 1991-04-07 | 1991-04-07 |
+| Odluka o visini prihoda domaćinstva korisnika mirovine o kojima ovisi stjecanje prava na zaštitni dodatak uz mirovinu u godini 1991. | [`odluka/1991/462/`](odluka/1991/462/) | replaced, not consolidated | 1 | 1991-04-07 | 1991-04-07 |
 | Odluka o visini minimalne mirovine u godini 1991. | [`odluka/1991/463/`](odluka/1991/463/) | in force | 1 | 1991-04-07 | 1991-04-07 |
 | Odluka o visini doplatka za pomoć i njegu u godini 1991. | [`odluka/1991/464/`](odluka/1991/464/) | in force | 1 | 1991-04-07 | 1991-04-07 |
 | Odluka o određivanju osnovice za utvrđivanje novčane naknade za tjelesno oštećenje u godini 1991. | [`odluka/1991/465/`](odluka/1991/465/) | in force | 1 | 1991-04-07 | 1991-04-07 |
 | Odluka o uvjetima pod kojima se smatra da je osiguranik uzdržavao člana obitelji i o uvjetima prestanka prava na mirovinu uslijed nastale promjene u imovnom stanju odnosno prihodima u godini 1991. | [`odluka/1991/466/`](odluka/1991/466/) | in force | 1 | 1991-04-07 | 1991-04-07 |
+| Odluka o posebnim uvjetima i kriterijima pod kojima se smatra da je članovima poljoprivrednog domaćinstva bavljenje poljoprivredom jedino ili glavno zanimanje | [`odluka/1991/467/`](odluka/1991/467/) | replaced, not consolidated | 1 | 1991-04-07 | 1991-04-07 |
+| Odluka o usklađivanju mirovina od 1. siječnja 1991. | [`odluka/1991/468/`](odluka/1991/468/) | replaced, not consolidated | 1 | 1991-04-07 | 1991-04-07 |
 | Odluka o graničnom iznosu najnižeg mirovinskog primanja od 1. siječnja 1991. | [`odluka/1991/469/`](odluka/1991/469/) | in force | 1 | 1991-04-07 | 1991-04-07 |
+| Odluka o usklađivanju naknada osobnoga dohotka u svezi s pravom na prekvalifikaciju ili dokvalifikaciju i naknada osobnoga dohotka u svezi s pravom na zaposlenje od 1. siječnja 1991. | [`odluka/1991/470/`](odluka/1991/470/) | replaced, not consolidated | 1 | 1991-04-07 | 1991-04-07 |
 | Odluka o usklađivanju novčanih naknada za tjelesno oštećenje i osnovici za određivanje tih naknada od 1. siječnja 1991. | [`odluka/1991/471/`](odluka/1991/471/) | in force | 1 | 1991-04-07 | 1991-04-07 |
+| Odluka o usklađivanju doplatka za pomoć i njegu od 1. siječnja 1991. | [`odluka/1991/472/`](odluka/1991/472/) | replaced, not consolidated | 1 | 1991-04-07 | 1991-04-07 |
 | Odluka o valorizacijskim koeficijentima za preračunavanje osnovica osiguranja i osobnih dohodaka iz prijašnjih godina prema razini osobnih dohodaka iz godine 1990. | [`odluka/1991/473/`](odluka/1991/473/) | in force | 1 | 1991-04-07 | 1991-04-07 |
+| Odluka o visini prihoda domaćinstva korisnika mirovine o kojima ovisi stjecanje prava na zaštitni dodatak uz mirovinu u godini 1991. | [`odluka/1991/474/`](odluka/1991/474/) | replaced, not consolidated | 1 | 1991-04-07 | 1991-04-07 |
+| Odluka o uvjetima pod kojima se smatra da je osiguranik uzdržavao članove porodice kao i o uvjetima prestanka prava na porodičnu mirovinu uslijed nastale promjene u imovnom stanju odnosno prihodima u | [`odluka/1991/475/`](odluka/1991/475/) | in force | 1 | 1991-04-07 | 1991-04-07 |
+| Odluka o izmjeni Odluke o naknadi putnih troškova u svezi s ostvarivanjem prava iz mirovinskog i invalidskog osiguranja | [`odluka/1991/476/`](odluka/1991/476/) | in force | 1 | 1991-04-07 | 1991-04-07 |
+| Odluka o izmjeni Odluke o naknadi dijela troškova za smještaj djece ometene u psihičkom ili fizičkom razvoju u organizacijama internatskog tipa | [`odluka/1991/477/`](odluka/1991/477/) | in force | 1 | 1991-04-07 | 1991-04-07 |
+| Odluka o izmjeni Odluke o novčanoj naknadi udovici osiguranika koja nije stekla pravo na porodičnu mirovinu | [`odluka/1991/478/`](odluka/1991/478/) | in force | 1 | 1991-04-07 | 1991-04-07 |
+| Odluka o izmjeni Odluke o otpremnini bračnom drugu | [`odluka/1991/479/`](odluka/1991/479/) | in force | 1 | 1991-04-07 | 1991-04-07 |
+| Odluka o posebnim naknadama za korištenje naftne luke i naftovoda | [`odluka/1991/568/`](odluka/1991/568/) | amended, not consolidated | 1 | 1991-04-06 | 1991-04-06 |
 | Odluka o utvrđivanju općeg interesa za izgradnju Brze ceste kroz Karlovac - Splitski pravac, dionica od čvorišta Mostanje do priključka na postojeću cestu MC-11 prema Splitu i to od km 1 + 700 do km 7 | [`odluka/1991/569/`](odluka/1991/569/) | in force | 1 | 1991-04-14 | 1991-04-14 |
+| Odluka o donošenju Cjenika zdravstvenih usluga za 1991. godinu | [`odluka/1991/576/`](odluka/1991/576/) | repealed, not consolidated | 1 | 1991-04-09 | 1991-04-09 |
 | Odluka o plaćanju doprinosa Privrednoj komori regije Bjelovar za 1991. godinu | [`odluka/1991/583/`](odluka/1991/583/) | in force | 1 | 1991-04-24 | 1991-04-24 |
 | Odluka o utvrđivanju osnovice i stope za obračun doprinosa Privrednoj komori Slavonije i Baranje, Osijek za 1991. godinu | [`odluka/1991/584/`](odluka/1991/584/) | in force | 1 | 1991-04-16 | 1991-04-16 |
 | Odluka o osnovici i stopi plaćanja doprinosa Osnovnoj privrednoj komori Sisak u 1991. godini. | [`odluka/1991/585/`](odluka/1991/585/) | in force | 1 | 1991-04-16 | 1991-04-16 |
+| Odluka o osnovici i stopi doprinosa za 1991. godinu | [`odluka/1991/586/`](odluka/1991/586/) | in force | 1 | 1991-04-16 | 1991-04-16 |
+| Odluka o osnivanju Vrhovnog državnog vijeća Republike Hrvatske | [`odluka/1991/587/`](odluka/1991/587/) | repealed, not consolidated | 1 | 1991-04-05 | 1991-04-05 |
 | Odluka o pripremama za izgradnju višenamjenskog kanala Dunav - Sava | [`odluka/1991/603/`](odluka/1991/603/) | in force | 1 | 1991-04-23 | 1991-04-23 |
 | Odluka o ustanovljenju lovišta "Čiovo" | [`odluka/1991/604/`](odluka/1991/604/) | in force | 1 | 1991-05-01 | 1991-05-01 |
 | Odluka o osnovici i stopi plaćanja doprinosa Privrednoj komori Karlovac u 1991. godini | [`odluka/1991/642/`](odluka/1991/642/) | in force | 1 | 1991-04-30 | 1991-04-30 |
 | Odluka o utvrđivanju osnovice i stope za obračunavanje doprinosa Privrednoj komori Dalmacije u 1991. godini | [`odluka/1991/643/`](odluka/1991/643/) | in force | 1 | 1991-03-26 | 1991-03-26 |
+| Odluka o inozemnim uredima Republike Hrvatske | [`odluka/1991/648/`](odluka/1991/648/) | repealed, not consolidated | 1 | 1981-01-18 | 1981-01-18 |
 | Odluka o izmjenama Odluke o visini premije za mlijeko, vunu, konopljine stabljike i stabljike lana, nadoknadi razlike u cijeni za prodane kolčine konzumnog mlijeka i visini trže cijene konopljine stab | [`odluka/1991/654/`](odluka/1991/654/) | in force | 1 | 1991-05-02 | 1991-05-02 |
 | Odluka o prestanku važenja Odluke o cijenama nafte i naftnih derivata | [`odluka/1991/655/`](odluka/1991/655/) | in force | 1 | 1991-05-02 | 1991-05-02 |
 | Odluka o plaćanju članškog doprinosa Privrednoj komori Hrvatske u 1991. godini | [`odluka/1991/657/`](odluka/1991/657/) | in force | 1 | 1991-05-10 | 1991-05-10 |
 | Odluka o prestanku primjene Kolektivnog ugovora o zadovoljavanju stambenih potreba radnika zaposlenih kod poslodavaca na osnovi rada | [`odluka/1991/658/`](odluka/1991/658/) | in force | 1 | 1991-05-02 | 1991-05-02 |
 | Odluka o utvrđivanju osnovice i stope članskog doprinosa te načinu i rokovima plaćanja doprinosa Zadružnom savezu Zadar za razdoblje 1. siječnja do 31. prosinca 1991. godine | [`odluka/1991/661/`](odluka/1991/661/) | in force | 1 | 1991-05-02 | 1991-05-02 |
+| Odluka o usklađivanju mirovina od 1. ožujka 1991. i o najvišoj starosnoj i invalidskoj mirovini | [`odluka/1991/671/`](odluka/1991/671/) | replaced, not consolidated | 1 | 1991-05-22 | 1991-05-22 |
+| Odluka o graničnoj svoti najnižega mirovinskog primanja od 1. ožujka 1991. | [`odluka/1991/672/`](odluka/1991/672/) | replaced, not consolidated | 1 | 1991-05-22 | 1991-05-22 |
+| Odluka o visini minimalne mirovine od 1. ožujka 1991. | [`odluka/1991/673/`](odluka/1991/673/) | replaced, not consolidated | 1 | 1991-05-22 | 1991-05-22 |
+| Odluka o usklađivanju naknada osobnoga dohotka u svezi s pravom na prekvalifikaciju ili dokvalifikaciju i naknada osobnoga dohotka u svezi s pravom na zaposlenje od 1. ožujka 1991. | [`odluka/1991/674/`](odluka/1991/674/) | amended, not consolidated | 1 | 1991-05-22 | 1991-05-22 |
+| Odluka o usklađivanju novčanih naknada za tjelesno oštećenje od 1. ožujka 1991. | [`odluka/1991/675/`](odluka/1991/675/) | cited later, not consolidated | 1 | 1991-05-22 | 1991-05-22 |
+| Odluka o usklađivanju doplatka za pomoć i njegu od 1. ožujka 1991. | [`odluka/1991/676/`](odluka/1991/676/) | replaced, not consolidated | 1 | 1991-05-22 | 1991-05-22 |
 | Odluka o osnovicama za obračunavanje i plaćanje doprinosa za mirovinsko i invalidsko osiguranje za osiguranike privremeno izvan radnog odnosa za godinu 1991. | [`odluka/1991/677/`](odluka/1991/677/) | in force | 1 | 1991-05-22 | 1991-05-22 |
+| Odluka o izmjeni i dopuni Odluke o osnovicama osiguranja koje se uzimaju za obračunavanje i plaćanje doprinosa i za određivanje prava iz mirovinskog i invalidskog osiguranja individualnih poljoprivred | [`odluka/1991/678/`](odluka/1991/678/) | amended, not consolidated | 1 | 1991-05-22 | 1991-05-22 |
 | Odluka o posebnim uvjetima i kriterijima pod kojima se smatra da je članovima poljoprivrednog domaćinstva bavljenje poljoprivredom jedino ili glavno zanimanje | [`odluka/1991/679/`](odluka/1991/679/) | in force | 1 | 1991-05-22 | 1991-05-22 |
+| Odluka o usklađivanju mirovina od 1. ožujka 1991. | [`odluka/1991/680/`](odluka/1991/680/) | replaced, not consolidated | 1 | 1991-05-22 | 1991-05-22 |
+| Odluka o graničnoj svoti najnižega mirovinskog primanja od 1. ožujka 1991. | [`odluka/1991/681/`](odluka/1991/681/) | replaced, not consolidated | 1 | 1991-05-22 | 1991-05-22 |
+| Odluka o usklađivanju naknada osobnoga dohotka u svezi s pravom na prekvalifikaciju ili dokvalifikaciju i naknada osobnoga dohotka u svezi s pravom na zaposlenje od 1. ožujka 1991. | [`odluka/1991/682/`](odluka/1991/682/) | amended, not consolidated | 1 | 1991-05-22 | 1991-05-22 |
 | Odluka o uskladivanju novčanih naknada za tjelesno oštećenje i osnovici za određivanje tih naknada od 1. ožujka 1991. | [`odluka/1991/683/`](odluka/1991/683/) | in force | 1 | 1991-05-22 | 1991-05-22 |
+| Odluka o usklađivanju doplatka za pomoć i njegu od 1. ožujka 1991. | [`odluka/1991/684/`](odluka/1991/684/) | replaced, not consolidated | 1 | 1991-05-22 | 1991-05-22 |
+| Odluka o osnivanju Republičkog fonda "Zrinski I Frankopani" | [`odluka/1991/687/`](odluka/1991/687/) | amended, not consolidated | 1 | 1991-05-20 | 1991-05-20 |
 | Odluka o neprimjenjivanju odredaba Zakona o vojnoj obvezi ("Službeni list SFRJ", broj 64/85, 26/89 i 30/91) na teritoriju Republike Hrvatske | [`odluka/1991/688/`](odluka/1991/688/) | in force | 1 | 1991-05-20 | 1991-05-20 |
+| Odluka o utvrđivanju slivnih područja u Republici Hrvatskoj | [`odluka/1991/689/`](odluka/1991/689/) | amended, not consolidated | 1 | 1991-05-21 | 1991-05-21 |
+| Odluka o izmjenama Odluke o posebnom dodatku na maloprodajne cijene naftnih derivata | [`odluka/1991/690/`](odluka/1991/690/) | in force | 1 | 1991-05-20 | 1991-05-20 |
+| Odluka o izmjeni vrijednosti boda Tarife o nagradama i naknadi troškova za rad odvjetnika | [`odluka/1991/704/`](odluka/1991/704/) | in force | 1 | 1991-05-20 | 1991-05-20 |
 | Odluka o neprimjenjivanju odredaba Zakona o općenarodnoj obrani ("Službeni list SFRJ", broj 21/82 i 35/91) na teritoriju Republike Hrvatske | [`odluka/1991/709/`](odluka/1991/709/) | in force | 1 | 1991-05-27 | 1991-05-27 |
 | Odluka o izmjenama Odluke o visini posebne naknade za upotrebu javnih cesta i određenih objekata na cestama | [`odluka/1991/714/`](odluka/1991/714/) | in force | 1 | 1991-06-01 | 1991-06-01 |
 | Odluka o izmjeni Odluke o visini naknade za ceste što se plaćaju na cestovna motorna vozila s pogonom na plin | [`odluka/1991/715/`](odluka/1991/715/) | in force | 1 | 1991-06-01 | 1991-06-01 |
 | Odluka o plaćanju članskog doprinosa Privrednoj komori Zadar u 1991. godini | [`odluka/1991/716/`](odluka/1991/716/) | in force | 1 | 1991-06-04 | 1991-06-04 |
 | Odluka o utvrđivanju osnovice i stope članskog doprinosa, te načinu i rokovima plaćanja doprinosa Zadružnom savezu Bjelovar u 1991. godini | [`odluka/1991/717/`](odluka/1991/717/) | in force | 1 | 1991-05-27 | 1991-05-27 |
+| Odluka o posebnom dodatku na maloprodajne cijene naftnih derivata | [`odluka/1991/721/`](odluka/1991/721/) | repealed, not consolidated | 1 | 1991-06-01 | 1991-06-01 |
 | Odluka o plaćanju doprinosa Privrednoj komori Istre za 1991. godinu | [`odluka/1991/728/`](odluka/1991/728/) | in force | 1 | 1991-06-09 | 1991-06-09 |
 | Odluka o osnovici i stopi plaćanja članskog doprinosa Privrednoj komori Rijeka za 1991. godinu | [`odluka/1991/729/`](odluka/1991/729/) | in force | 1 | 1991-06-09 | 1991-06-09 |
 | Odluka o neprimjenjivanju odredaba Zakona o izvršnom postupku ("Službeni list SFRJ", br. 20/78, 6/82, 74/87, 5"/89, 27/90 i 35/91) na teritoriju Republike Hrvatske | [`odluka/1991/731/`](odluka/1991/731/) | in force | 1 | 1991-06-05 | 1991-06-05 |
+| Odluka o neprimjenjivanju odredaba Zakona o prekršajima kojima se povređuju savezni propisi ("Službeni list SFRJ", br. 4/77, 20/82,14/85, 74/87, 57/89, 3/90 i 35/91 ) na teritoriju Republike Hrvatsk | [`odluka/1991/732/`](odluka/1991/732/) | in force | 1 | 1991-06-05 | 1991-06-05 |
+| Odluka o neprimjenjivanju odredaba Zakona o osnovama sistema državne uprave i o Saveznom izvršnom vijeću i saveznim organima uprave ("Službeni list SFRJ", br. 23/78, 21/82,18/85, 37/88,18/89, 40/89, | [`odluka/1991/733/`](odluka/1991/733/) | in force | 1 | 1991-06-05 | 1991-06-05 |
 | Odluka o neprimjenjivanju odredaba Zakona o Saveznom sudu ("Službeni list SFRJ", br. 21/74, 20/82, 20/90, 35/91) Na teritoriju Republike Hrvatske | [`odluka/1991/734/`](odluka/1991/734/) | in force | 1 | 1991-06-05 | 1991-06-05 |
 | Odluka o neprimjenjivanju odredaba Zakona o vojnim sudovima (\"Službeni list SFRJ\", br. 4/77 i 13/82) i Zakona o vojnom tužilaštvu (\"Službeni list SFRJ\", br. 4/77) na teritoriju Republike Hrvatske | [`odluka/1991/735/`](odluka/1991/735/) | in force | 1 | 1991-06-05 | 1991-06-05 |
+| Odluka o neprimjenjivanju odredaba Zakona o prekršajima kojima se povređuju savezni propisi ("Službeni list SFRJ" br. 4/77, 20/82, 14/85, 74/87, 57/89, 3/90 i 35/91) na teritoriju Republike Hrvatske | [`odluka/1991/736/`](odluka/1991/736/) | in force | 1 | 1991-06-05 | 1991-06-05 |
+| Odluka o neprimjenjivanju odredaba Zakona o osnovama sistema državne uprave i o saveznom izvršnom vijeću i saveznim organima uprave ("Službeni list SFRJ" br. 23/78, 21/82, 18/85, 37/88, 18/89, 40/89 | [`odluka/1991/737/`](odluka/1991/737/) | in force | 1 | 1991-06-05 | 1991-06-05 |
 | Odluka o osnovici i stopi plaćanja doprinosa Privredne komore Gospić u 1991. godini | [`odluka/1991/744/`](odluka/1991/744/) | in force | 1 | 1991-06-05 | 1991-06-05 |
 | Odluka o davanju garancije Republike Hrvatske po Ugovoru o kreditu,između Europske investicijske banke, Luxemburg i Hrvatskog željezničkog poduzeća, Zagreb za financiranje izgradnje tehničke putne sta | [`odluka/1991/762/`](odluka/1991/762/) | in force | 1 | 1991-06-11 | 1991-06-11 |
 | Odluka o izmjenama i dopunama Odluke o sudjelovanju osiguranika u troškbvima zdravstvene zaštite | [`odluka/1991/767/`](odluka/1991/767/) | amending act | 1 | 1991-06-19 | 1991-06-19 |
 | Odluka o neprimjenjivanju odredaba zakona o Službi društvenog knjigovodstva ("Službeni list" SFRJ, br. 70/83,16/86, 72/86, 74/87, 37/88, 61/88, 57/89, 79/90, 84/90 i 20/81) na teritoriju Republike H | [`odluka/1991/837/`](odluka/1991/837/) | in force | 1 | 1991-06-17 | 1991-06-17 |
+| Odluka o kriterijima i uvjetima uključivanja novčanih sredstava Republike Hrvatske u depozite banaka na području Republike | [`odluka/1991/838/`](odluka/1991/838/) | repealed, not consolidated | 1 | 1991-06-17 | 1991-06-17 |
+| Odluka o izuzimanju od zabrane prijenosa prava raspolaganja i korištenja nekretnina u k. o. grad Zagreb | [`odluka/1991/852/`](odluka/1991/852/) | in force | 1 | 1991-06-21 | 1991-06-21 |
 | Odluka o dozvoli za oduzimanje neizgađenog građevinskog zemljišta iz posjeda prijašnjih vlasnika odnosno korisnika i o izuzimanju tog zemljišta od zabrane prijenosa prava raspolaganja | [`odluka/1991/853/`](odluka/1991/853/) | in force | 1 | 1991-06-21 | 1991-06-21 |
+| Odluka o izuzimanju nekretnina od zabrane raspolaganja | [`odluka/1991/854/`](odluka/1991/854/) | replaced, not consolidated | 1 | 1991-06-21 | 1991-06-21 |
 | Odluka o izuzimanju nekretnina od zabrane prijenosa prava raspolaganja u k. o. Valpovo | [`odluka/1991/855/`](odluka/1991/855/) | in force | 1 | 1991-06-21 | 1991-06-21 |
 | Odluka o utvrđivanju općeg interesa za izgradnju cestovnog pravca E-59 i M-11, kao auto-ceste, desnog kolnika dionice Zaprešić - Jankomir | [`odluka/1991/856/`](odluka/1991/856/) | in force | 1 | 1991-06-29 | 1991-06-29 |
 | Odluka o utvrđivanju općeg interesa za izgradnju regionalne ceste br. 2031 dionice Gubaševo-Krapinske Toplice | [`odluka/1991/857/`](odluka/1991/857/) | in force | 1 | 1991-06-29 | 1991-06-29 |
+| Odluka o visini dnevnice za službeno putovanje u zemlji i visini naknada određenih materijalnih troškova | [`odluka/1991/864/`](odluka/1991/864/) | replaced, not consolidated | 1 | 1991-06-21 | 1991-06-21 |
 | Odluka o dopuni Odluke o visini posebne naknade za upotrebu javnih cesta i određenih objekata na cestama | [`odluka/1991/868/`](odluka/1991/868/) | amending act | 1 | 1991-06-29 | 1991-06-29 |
 | Odluka o utvrđivanju osnovice i stope članskog doprinosa za 1991. godinu | [`odluka/1991/869/`](odluka/1991/869/) | in force | 1 | 1991-06-21 | 1991-06-21 |
+| Odluka o osnivanju Savjeta za sigurnost prometa na cestama Hrvatske | [`odluka/1991/883/`](odluka/1991/883/) | in force | 1 | 1991-07-04 | 1991-07-04 |
 | Odluka o cijeni i tarifnim stavovima za prodaju električne energije | [`odluka/1991/884/`](odluka/1991/884/) | in force | 1 | 1991-07-01 | 1991-07-01 |
+| Odluka o izmjeni i dopuni Cjenika zdravstvenih usluga za 1991. godinu | [`odluka/1991/889/`](odluka/1991/889/) | amended, not consolidated | 1 | 1991-06-26 | 1991-06-26 |
 | Odluka o utvrđivanju visine naknade za dežurstvo i stalnu pripravnost | [`odluka/1991/890/`](odluka/1991/890/) | in force | 1 | 1991-07-04 | 1991-07-04 |
+| Odluka o osnovama za uspostavljanje ugovornog odnosa sa subjektima provođenja zdravstvene zaštite u 1991. godini | [`odluka/1991/892/`](odluka/1991/892/) | amended, not consolidated | 1 | 1991-07-04 | 1991-07-04 |
+| Odluka o načinu korištenja zdravstvene zaštite i drugih prava iz zdravstvenog osiguranja osiguranika s ugroženih područja Republike Hrvatske, te odobrenju troškova na teret udruženih sredstava | [`odluka/1991/893/`](odluka/1991/893/) | cited later, not consolidated | 1 | 1991-06-26 | 1991-06-26 |
 | Odluka o dopuni Odluke o primjeni Samoupravnog sporazuma o jedinstvenoj nomenklaturi usluga, te okvirnim standardima i normativima u primarnoj zdravstvenoj zaštiti | [`odluka/1991/894/`](odluka/1991/894/) | amending act | 1 | 1991-07-04 | 1991-07-04 |
 | Odluka o preuzimanju i prijenosu sredstava, prava i obveza | [`odluka/1991/895/`](odluka/1991/895/) | in force | 1 | 1991-06-26 | 1991-06-26 |
 | Odluka o neprimjenjivanju Odluke o zaštiti interesa Socijalističke Federativne Republike Jugbslavije u oblastima koje se odnose na funkcioniranje jedinstvenog monetarnog i deviznog sistema i politike | [`odluka/1991/902/`](odluka/1991/902/) | in force | 1 | 1991-07-04 | 1991-07-04 |
 | Odluka o neprimjenjivanju odredaba Odluke o jedinstvenom načinu i postupku obavljanja poslova platnog prometa po osnovi plasmana iz sredstava primarne emisije ("Službeni list SFRJ", broj 28/91) na t | [`odluka/1991/903/`](odluka/1991/903/) | in force | 1 | 1991-07-04 | 1991-07-04 |
 | Odluka o obavljanju platnog prometa po osnovi plasmana iz sredstava primarne emisije | [`odluka/1991/904/`](odluka/1991/904/) | in force | 1 | 1991-07-04 | 1991-07-04 |
+| Odluka o načinu i uvjetima korištenja primarne emisije i osiguranju likvidnosti banaka | [`odluka/1991/905/`](odluka/1991/905/) | repealed, not consolidated | 1 | 1991-07-04 | 1991-07-04 |
+| Odluka o usklađivanju mirovina od 1. siječnja 1991. i o najvišoj starosnoj i invalidskoj mirovini | [`odluka/1991/911/`](odluka/1991/911/) | in force | 1 | 1991-07-12 | 1991-07-12 |
+| Odluka o graničnoj svoti najnižega mirovinskog primanja od 1. siječnja 1991. | [`odluka/1991/912/`](odluka/1991/912/) | replaced, not consolidated | 1 | 1991-07-12 | 1991-07-12 |
+| Odluka o visini minimalne mirovine od 1. siječnja 1991. | [`odluka/1991/913/`](odluka/1991/913/) | in force | 1 | 1991-07-12 | 1991-07-12 |
+| Odluka o usklađivanju naknada osobnoga dohotka u svezi s pravom na prekvalifikaciju ili dokvalifikaciju i naknada osobnoga dohotka u svezi s pravom na zaposlenje od siječnja 1991. | [`odluka/1991/914/`](odluka/1991/914/) | in force | 1 | 1991-07-12 | 1991-07-12 |
+| Odluka o usklađivanju doplatka za pomoć i njegu od 1. siječnja 1991. | [`odluka/1991/915/`](odluka/1991/915/) | in force | 1 | 1991-07-12 | 1991-07-12 |
+| Odluka o usklađivanju novčanih naknada za tjelesno oštećenje od 1.siječnja 1991. | [`odluka/1991/916/`](odluka/1991/916/) | in force | 1 | 1991-07-12 | 1991-07-12 |
 | Odluka o usklađivanju mirovrna od 1. svibnja 1991. i o najvišoj starosnoj i invalidskoj mirovini | [`odluka/1991/917/`](odluka/1991/917/) | in force | 1 | 1991-07-12 | 1991-07-12 |
+| Odluka o graničnoj svoti najnižega mirovinskog primanja od 1. svibnja 1991. | [`odluka/1991/918/`](odluka/1991/918/) | replaced, not consolidated | 1 | 1991-07-12 | 1991-07-12 |
+| Odluka o visini minimalne mirovine od 1. svibnja 1991. | [`odluka/1991/919/`](odluka/1991/919/) | replaced, not consolidated | 1 | 1991-07-12 | 1991-07-12 |
+| Odluka o usklađivanju naknada osobnoga dohotka u svezi s pravom na prekvalifikaciju ili dokvalifikaciju i naknada osobnoga dohotka u svezi s pravom na zaposlenje od 1. svibnja 1991. | [`odluka/1991/920/`](odluka/1991/920/) | replaced, not consolidated | 1 | 1991-07-12 | 1991-07-12 |
+| Odluka o usklađivanju novčanih naknada za tjelesno oštećenje od 1. svibnja 1991 | [`odluka/1991/921/`](odluka/1991/921/) | amended, not consolidated | 1 | 1991-07-12 | 1991-07-12 |
+| Odluka o usklađivanju doplatka za pomoć i njegu od 1. svibnja 1991. | [`odluka/1991/922/`](odluka/1991/922/) | replaced, not consolidated | 1 | 1991-07-12 | 1991-07-12 |
 | Odluka o raspoređivanju sredstava za isplatu jednokratne novčane pomoći u godini 1991. | [`odluka/1991/923/`](odluka/1991/923/) | in force | 1 | 1991-07-12 | 1991-07-12 |
 | Odluka o najnižoj svoti naknade osobnoga dohotka u svezi s pravom na prekvalifikaciju ili dokvalifikaciju i naknade osobnoga dohotka u svezi s pravom na zaposlenje od 1. travnja 1991. | [`odluka/1991/924/`](odluka/1991/924/) | in force | 1 | 1991-07-12 | 1991-07-12 |
 | Odluka o pokretanju postupka revizije radnih mjesta vozača u javnom cestovnom prometu na kojima se staž osiguranja računa s povećanim trajanjem | [`odluka/1991/925/`](odluka/1991/925/) | in force | 1 | 1991-07-12 | 1991-07-12 |
+| Odluka o izmjenama i dopunama Odluke o utvrđivanju poslova odnosno radnih zadataka na kojima se staž osiguranja računa s povećanim trajanjem | [`odluka/1991/926/`](odluka/1991/926/) | amending act | 1 | 1991-07-12 | 1991-07-12 |
 | Odluka o jednokratnoj godišnjoj novčanoj pomoći | [`odluka/1991/927/`](odluka/1991/927/) | in force | 1 | 1991-07-12 | 1991-07-12 |
+| Odluka o usklađivanju mirovina od 1. svibnja 1991 | [`odluka/1991/928/`](odluka/1991/928/) | replaced, not consolidated | 1 | 1991-07-12 | 1991-07-12 |
+| Odluka o usklađivanju naknada osobnoga dohotka u svezi s pravom na prekvalifikaciju ili dokvalifikaciju i naknada osobnoga dohotka u svezi s pravom na zaposlenje od 1. svibnja 1991. | [`odluka/1991/930/`](odluka/1991/930/) | replaced, not consolidated | 1 | 1991-07-12 | 1991-07-12 |
 | Odluka o usklađivanju novčanih naknada za tjelesnooštečenje i osnovici za određivanje tih naknada od 1. svibnja 1991. | [`odluka/1991/932/`](odluka/1991/932/) | in force | 1 | 1991-07-12 | 1991-07-12 |
 | Odluka o usklađivanju doplatka za pomoč i njegu od 1. siječnja 1991. | [`odluka/1991/936/`](odluka/1991/936/) | in force | 1 | 1991-07-12 | 1991-07-12 |
 | Odluka o usklađivanju novčanih naknada za tjelesno oštećenje i osnovcu za određivanje tih naknada od 1. siječnja 1991. | [`odluka/1991/937/`](odluka/1991/937/) | in force | 1 | 1991-07-12 | 1991-07-12 |
@@ -2166,6 +2378,7 @@
 | Odluka o visini naknada za obavezne zđravstvene preglede pošiljaka bilja u izvozu | [`odluka/1991/999/`](odluka/1991/999/) | in force | 1 | 1991-08-01 | 1991-08-01 |
 | Odluka o svoti zajamčenog osobnog dohotka radnika za razdoblje 1. srpnja da 30. rujna 1991. godine | [`odluka/1991/1001/`](odluka/1991/1001/) | in force | 1 | 1991-07-25 | 1991-07-25 |
 | Odluka o izuzimanju od zabrane prijenosa prava rasjpolaganja i korištenja nekretnina u k. o. Varaždin | [`odluka/1991/1002/`](odluka/1991/1002/) | in force | 1 | 1991-07-24 | 1991-07-24 |
+| Odluka o izuzimanju nekretnina od zabrane raspolaganja | [`odluka/1991/1003/`](odluka/1991/1003/) | amended, not consolidated | 1 | 1991-07-24 | 1991-07-24 |
 | Odluka o izmjeni Odluke o posebnom dodatku na maloprodajne cijene naftnih derivata | [`odluka/1991/1004/`](odluka/1991/1004/) | in force | 1 | 1991-07-24 | 1991-07-24 |
 | Odluka o usklađivanju mirovina od 1. svibnja 1991. i o najvišoj starosnoj i invalidskoj mirovini | [`odluka/1991/1017/`](odluka/1991/1017/) | in force | 1 | 1991-08-01 | 1991-08-01 |
 | Odluka o graničnoj svoti najnižega mirovinskog primanja od 1. svibnja 1991. | [`odluka/1991/1018/`](odluka/1991/1018/) | in force | 1 | 1991-08-01 | 1991-08-01 |
@@ -2177,15 +2390,27 @@
 | Odluka o graničnoj svoti najnižega mirovinskog primanja od l. svibnja 1991. | [`odluka/1991/1024/`](odluka/1991/1024/) | in force | 1 | 1991-08-01 | 1991-08-01 |
 | Odluka o usklađivanju naknada osobnoga dohotka u svezi s pravom na prekvalifikaciju ili dokvalifikaciju i naknada osobnoga dohotka u svezi s pravom ne zaposlenje od 1. svibnja 1991. | [`odluka/1991/1025/`](odluka/1991/1025/) | in force | 1 | 1991-08-01 | 1991-08-01 |
 | Odluka o usklađivanju novčanih naknada za tjelesno oštećenje i osnovici za određivanje tih naknada od l. svibnja 1991. | [`odluka/1991/1027/`](odluka/1991/1027/) | in force | 1 | 1991-08-01 | 1991-08-01 |
+| Odluka o uvođenju dodatnog poreza na promet određenih proizvoda | [`odluka/1991/1037/`](odluka/1991/1037/) | amended, not consolidated | 1 | 1991-07-30 | 1991-07-30 |
+| Odluka o proizvodima koji spadaju u poljoprivrednu mehanizaciju, uređaje i drugu opremu, poljoprivredni alat za primarnu obradu zemljišta i rezervne dijelove za tu opremu i uređaje | [`odluka/1991/1038/`](odluka/1991/1038/) | cited later, not consolidated | 1 | 1991-07-30 | 1991-07-30 |
+| Odluka o visini premije za određene proizvode u poljoprivredi | [`odluka/1991/1039/`](odluka/1991/1039/) | repealed, not consolidated | 1 | 1991-07-30 | 1991-07-30 |
 | Odluka o utvrđivanju općeg interesa za izgradnju magistralne ceste Senj - Zagreb, M-5, na dionici Vratnik - Žuta Lokva | [`odluka/1991/1040/`](odluka/1991/1040/) | in force | 1 | 1991-08-07 | 1991-08-07 |
+| Odluka o naknadi za eksploatadju mineralnih sirovina | [`odluka/1991/1041/`](odluka/1991/1041/) | replaced, not consolidated | 1 | 1991-07-30 | 1991-07-30 |
 | Odluka o neprimjenjivanju Rješenja Ustavnog suda Jugoslavije o obustavi izvršenja pojedinačnih akata i radnji poduzetih na osnovi Odluke o neprimjenjivanju odredaba Zakona o vojnoj obvezi na teritorij | [`odluka/1991/1042/`](odluka/1991/1042/) | in force | 1 | 1991-07-30 | 1991-07-30 |
 | Odluka o neprimjenjivanju Rješenja Ustavnog suda Jugoslavije o obustavi izvršenja pojedinačnih akata i radnji poduzetih na osnovi Odluke o neprimjenjivanju odredaba Zakona o Službi društvenog knjigovo | [`odluka/1991/1057/`](odluka/1991/1057/) | in force | 1 | 1991-07-31 | 1991-07-31 |
+| Odluka o dodatnom porezu na naftne derivate | [`odluka/1991/1104/`](odluka/1991/1104/) | amended, not consolidated | 1 | 1991-08-09 | 1991-08-09 |
+| Odluka o visini naknade za javne ceste | [`odluka/1991/1105/`](odluka/1991/1105/) | repealed, not consolidated | 1 | 1991-08-09 | 1991-08-09 |
 | Odluka o prestanku važenja Odluke o posebnom dodatku na maloprodajne cijene naftnih derivata | [`odluka/1991/1106/`](odluka/1991/1106/) | in force | 1 | 1991-08-09 | 1991-08-09 |
 | Odluka o smanjenju stopa osnovnog poreza na promet određenih proizvoda | [`odluka/1991/1107/`](odluka/1991/1107/) | in force | 1 | 1991-08-09 | 1991-08-09 |
+| Odluka o utvrđivanju blagajničkog maksimuma gotovog novca kod banaka, drugih financijskih organizacija i drugih pravnih osoba | [`odluka/1991/1108/`](odluka/1991/1108/) | cited later, not consolidated | 1 | 1991-08-09 | 1991-08-09 |
 | Odluka o izmjenama Odluke o posebnim naknadama za korištenje naftne luke i naftovoda | [`odluka/1991/1109/`](odluka/1991/1109/) | in force | 1 | 1991-08-09 | 1991-08-09 |
 | Odluka o određivanju ministarstava u kojima se imenuje zamjenik ministra | [`odluka/1991/1110/`](odluka/1991/1110/) | in force | 1 | 1991-08-09 | 1991-08-09 |
 | Odluka o uskladivanju mirovina od 1. lipnja 1991. i o najvišoj starosnoj i invalidskoj mirovini | [`odluka/1991/1115/`](odluka/1991/1115/) | in force | 1 | 1991-08-17 | 1991-08-17 |
+| Odluka o graničnoj svoti najnižega mirovinskog primanja od 1. lipnja 1991. | [`odluka/1991/1116/`](odluka/1991/1116/) | replaced, not consolidated | 1 | 1991-08-17 | 1991-08-17 |
 | Odluka o visini minimalne mirovine od 1. lipnja 1991. | [`odluka/1991/1117/`](odluka/1991/1117/) | in force | 1 | 1991-08-17 | 1991-08-17 |
+| Odluka o usklađivanju naknada osobnoga dohotka u svezi s pravom na prekvalifikaciju ili dokvalifikaciju i naknada osobnoga dohotka u svezi s pravom na zaposlenje od 1. lipnja 1991. | [`odluka/1991/1118/`](odluka/1991/1118/) | replaced, not consolidated | 1 | 1991-08-17 | 1991-08-17 |
+| Odluka o usklađivanju doplatka za pomoć i njegu od 1. lipnja 1991. | [`odluka/1991/1119/`](odluka/1991/1119/) | replaced, not consolidated | 1 | 1991-08-17 | 1991-08-17 |
+| Odluka o usklađivanju novčanih naknada za tjelesno oštećenje od 1. lipnja 1991. | [`odluka/1991/1120/`](odluka/1991/1120/) | cited later, not consolidated | 1 | 1991-08-17 | 1991-08-17 |
+| Odluka o usklađivanju mirovina od 1. lipnja 1991. | [`odluka/1991/1129/`](odluka/1991/1129/) | cited later, not consolidated | 1 | 1991-08-24 | 1991-08-24 |
 | Odluka o graničnoj svoti najnižega mirovinskog primanja od 1. lipnja 1991. | [`odluka/1991/1130/`](odluka/1991/1130/) | in force | 1 | 1991-08-24 | 1991-08-24 |
 | Odluka o usklađivanju naknada osobnoga dohotka u svezi s pravom na prekvalifikaciju ili dokvalifikaciju i naknada osobnoga dohotka u svezi s pravom na zaposlenje od 1. lipnja 1991. | [`odluka/1991/1131/`](odluka/1991/1131/) | in force | 1 | 1991-08-24 | 1991-08-24 |
 | Odluka o usklađivanju doplatka za pomoć i njegu od 1. lipnja 1991. | [`odluka/1991/1132/`](odluka/1991/1132/) | in force | 1 | 1991-08-24 | 1991-08-24 |
@@ -2196,53 +2421,128 @@
 | Odluka o poduzimanju posebnih mjera u općini Gospić | [`odluka/1991/1158/`](odluka/1991/1158/) | in force | 1 | 1991-08-30 | 1991-08-30 |
 | Odluka o poduzimanju posebnih mjera u općini Grubišno Polje | [`odluka/1991/1160/`](odluka/1991/1160/) | in force | 1 | 1991-08-30 | 1991-08-30 |
 | Odluka o poduzimanju posebnih mjera u općini Pakrac | [`odluka/1991/1162/`](odluka/1991/1162/) | in force | 1 | 1991-08-30 | 1991-08-30 |
+| Odluka o izmjeni Odluke o dodatnom porezu na naftne derivate | [`odluka/1991/1184/`](odluka/1991/1184/) | in force | 1 | 1991-09-11 | 1991-09-11 |
 | Odluka razvrstavanju cesta u regionalne i lokalne ceste | [`odluka/1991/1187/`](odluka/1991/1187/) | in force | 1 | 1991-09-19 | 1991-09-19 |
 | Odluka o izuzimanju od zabrane prijenosa prava raspolaganja i korištenja nekretnine u k. o. Đakovo | [`odluka/1991/1193/`](odluka/1991/1193/) | in force | 1 | 1991-09-13 | 1991-09-13 |
+| Odluka o izuzimanju nekretnine od zabrane raspolaganja u k o. Split | [`odluka/1991/1194/`](odluka/1991/1194/) | in force | 1 | 1991-09-13 | 1991-09-13 |
 | Odluka o visini naknade općinama za korištenje prostora koji koriste objekti za proizvodnju električne energije na njenom području | [`odluka/1991/1196/`](odluka/1991/1196/) | in force | 1 | 1991-09-13 | 1991-09-13 |
 | Odluka o izmjeni Odluke o kriterijima i uvjetima uključivanja novčanih sredstava Republike Hrvatske u depozite banaka na području Republike | [`odluka/1991/1199/`](odluka/1991/1199/) | in force | 1 | 1991-09-13 | 1991-09-13 |
 | Odluka o poduzimanju posebnih mjera u općini Benkovac | [`odluka/1991/1200/`](odluka/1991/1200/) | in force | 1 | 1991-09-13 | 1991-09-13 |
 | Odluka o poduzimanju posebnih mjera u općini Obrovac | [`odluka/1991/1202/`](odluka/1991/1202/) | in force | 1 | 1991-09-13 | 1991-09-13 |
+| Odluka o osnivanju Republičkog fonda "Kralj Zvonimir" | [`odluka/1991/1222/`](odluka/1991/1222/) | repealed, not consolidated | 1 | 1991-09-19 | 1991-09-19 |
 | Odluka o korištenju avilnih aerodroma od strane zrakoplova i vozila Promatračke misije | [`odluka/1991/1223/`](odluka/1991/1223/) | in force | 1 | 1991-09-19 | 1991-09-19 |
 | Odluka o oslobađanju plaćanja naknada za upotrebu javnih cesta motornih i priključnih vozila Promatračke misije | [`odluka/1991/1224/`](odluka/1991/1224/) | in force | 1 | 1991-09-19 | 1991-09-19 |
 | Odluka o razvrstavanju magistralnih cesta | [`odluka/1991/1232/`](odluka/1991/1232/) | in force | 1 | 1991-10-05 | 1991-10-05 |
+| Odluka o vrijednosti boda za utvrđivanje visine naknade koja se plaća zbog promjene namjene poljoprivrednog zemljišta | [`odluka/1991/1233/`](odluka/1991/1233/) | repealed, not consolidated | 1 | 1991-10-05 | 1991-10-05 |
 | Odluka o zaštitnim cijenama suncokreta i soje, roda iz 1991. godine | [`odluka/1991/1251/`](odluka/1991/1251/) | in force | 1 | 1991-10-03 | 1991-10-03 |
+| Odluka o zaštitnoj cijeni kukuruza roda iz 1991. godine | [`odluka/1991/1252/`](odluka/1991/1252/) | amended, not consolidated | 1 | 1991-10-03 | 1991-10-03 |
+| Odluka o zaštitnoj cijeni šećerne repe roda iz 1991. godine | [`odluka/1991/1253/`](odluka/1991/1253/) | amended, not consolidated | 1 | 1991-10-03 | 1991-10-03 |
+| Odluka o zaštitnoj cijeni pšenice roda iz 1992. godine | [`odluka/1991/1254/`](odluka/1991/1254/) | amended, not consolidated | 1 | 1991-10-03 | 1991-10-03 |
 | Odluka o izuzimanju od zabrane prijenosa prava raspolaganja i korištenja zemljišta u k. o. Sisak Novi | [`odluka/1991/1255/`](odluka/1991/1255/) | in force | 1 | 1991-10-03 | 1991-10-03 |
 | Odluka o utvrđivanju općeg interesa za rekonstrukciju auto-ceste Zagreb-Karlovac i izgradnju pratećeg uslužnog objekta tip "A" Zdenčina | [`odluka/1991/1256/`](odluka/1991/1256/) | in force | 1 | 1991-10-11 | 1991-10-11 |
 | Odluka o izmjenama i dopunama Odluke o uvođenju dodatnog poreza na promet određenih proizvoda | [`odluka/1991/1257/`](odluka/1991/1257/) | amending act | 1 | 1991-10-03 | 1991-10-03 |
 | Odluka o izmjeni Odluke o visini posebne naknade za upotrebu javnih cesta i određenih objekata na cestama | [`odluka/1991/1263/`](odluka/1991/1263/) | in force | 1 | 1991-10-04 | 1991-10-04 |
+| Odluka o preferencijalnim carinskim stopama i neplaćanju drugih uvoznih pristojbi za uvoz robe iz određenih zemalja u razvoju | [`odluka/1991/1471/`](odluka/1991/1471/) | repealed, not consolidated | 1 | 1991-10-18 | 1991-10-18 |
+| Odluka o graničnoj svoti najnižega mirovinskog primanja od 1. srpnja 1991. | [`odluka/1991/1479/`](odluka/1991/1479/) | replaced, not consolidated | 1 | 1991-10-26 | 1991-10-26 |
 | Odluka o visini minimalne mirovine od 1. srpnja 1991. | [`odluka/1991/1480/`](odluka/1991/1480/) | in force | 1 | 1991-10-26 | 1991-10-26 |
+| Odluka o usklađivanju naknada osobnoga dohotka u svezi s pravom na prekvalifikaciju ili dokvalifikaciju i naknada osobnoga dohotka u svezi s pravom na zaposlenje od 1. srpnja 1991. | [`odluka/1991/1481/`](odluka/1991/1481/) | replaced, not consolidated | 1 | 1991-10-26 | 1991-10-26 |
+| Odluka o usklađivanju doplatka za pomoć i njegu od 1. srpnja 1991. | [`odluka/1991/1482/`](odluka/1991/1482/) | replaced, not consolidated | 1 | 1991-10-26 | 1991-10-26 |
+| Odluka o usklađivanju novčanih naknada za tjelesno oštećenje od 1. srpnja 1991. | [`odluka/1991/1483/`](odluka/1991/1483/) | cited later, not consolidated | 1 | 1991-10-26 | 1991-10-26 |
+| Odluka o privremenom usklađivanju mirovina od 1. kolovoza 1991. i o najvišoj starosnoj i invalidskoj mirovini | [`odluka/1991/1484/`](odluka/1991/1484/) | repealed, not consolidated | 1 | 1991-10-26 | 1991-10-26 |
+| Odluka o privremenoj graničnoj svoti najnižega mirovinskog primanja od 1. kolovoza 1991. | [`odluka/1991/1485/`](odluka/1991/1485/) | replaced, not consolidated | 1 | 1991-10-26 | 1991-10-26 |
 | Odluka o privremenoj visini minimalne mirovine od 1. kolovoza 1991. | [`odluka/1991/1486/`](odluka/1991/1486/) | in force | 1 | 1991-10-26 | 1991-10-26 |
+| Odluka o privremenom usklađivanju naknada osobnoga dohotka u svezi s pravom na prekvalifikaciju ili dokvalifikaciju i naknada osobnoga dohotka u svezi s pravom na zaposlenje od 1. kolovoza 1991. | [`odluka/1991/1487/`](odluka/1991/1487/) | cited later, not consolidated | 1 | 1991-10-26 | 1991-10-26 |
+| Odluka o privremenom usklađivanju novčanih naknada za tjelesno oštećenje od 1. kolovoza 1991. | [`odluka/1991/1488/`](odluka/1991/1488/) | cited later, not consolidated | 1 | 1991-10-26 | 1991-10-26 |
+| Odluka o privremenom usklađivanju doplatka za pomoć i njegu od 1. kolovoza 1991. | [`odluka/1991/1489/`](odluka/1991/1489/) | replaced, not consolidated | 1 | 1991-10-26 | 1991-10-26 |
+| Odluka o usklađivanju mirovina od 1. srpnja 1991. | [`odluka/1991/1491/`](odluka/1991/1491/) | cited later, not consolidated | 1 | 1991-10-26 | 1991-10-26 |
+| Odluka o graničnoj svoti najnižega mirovinskog primanja od 1. srpnja 1991. | [`odluka/1991/1492/`](odluka/1991/1492/) | replaced, not consolidated | 1 | 1991-10-26 | 1991-10-26 |
+| Odluka o usklađivanju naknada osobnoga dohotka u svezi s pravom na prekvalifikaciju ili dokvalifikaciju i naknada osobnoga dohotka u svezi s pravom na zaposlenje od 1. srpnja 1991. | [`odluka/1991/1493/`](odluka/1991/1493/) | replaced, not consolidated | 1 | 1991-10-26 | 1991-10-26 |
+| Odluka o usklađivanju doplatka za pomoć i njegu od 1. srpnja 1991. | [`odluka/1991/1494/`](odluka/1991/1494/) | replaced, not consolidated | 1 | 1991-10-26 | 1991-10-26 |
 | Odluka o usklađivanju novčanih naknada za tjelesno oštećenje i osnovici za određivanje tih naknada od 1. srpnja 1991. | [`odluka/1991/1495/`](odluka/1991/1495/) | in force | 1 | 1991-10-26 | 1991-10-26 |
 | Odluka o privremenom usklađivanju mirovina od 1. kolovoza 1991. | [`odluka/1991/1496/`](odluka/1991/1496/) | in force | 1 | 1991-10-26 | 1991-10-26 |
+| Odluka o privremenoj graničnoj svoti najnižega mirovinskog primanja od 1. kolovoza 1991. | [`odluka/1991/1497/`](odluka/1991/1497/) | replaced, not consolidated | 1 | 1991-10-26 | 1991-10-26 |
+| Odluka o privremenom usklađivanju naknada osobnoga dohotka u svezi s pravom na prekvalifikadju ili dokvalifikaciju i naknada osobnoga dohotka u svezi s pravom na zaposlenje od 1. kolovoza 1991. | [`odluka/1991/1498/`](odluka/1991/1498/) | cited later, not consolidated | 1 | 1991-10-26 | 1991-10-26 |
+| Odluka o privremenom usklađivanju doplatka za pomoć i njegu od 1. kolovoza 1991. | [`odluka/1991/1499/`](odluka/1991/1499/) | replaced, not consolidated | 1 | 1991-10-26 | 1991-10-26 |
+| Odluka o privremenom usklađivanju novčanih naknada za tjelesno oštećenje i osnovici za određivanje tih naknada od 1. kolovoza 1991. | [`odluka/1991/1500/`](odluka/1991/1500/) | in force | 1 | 1991-10-26 | 1991-10-26 |
+| Odluka o načinu stjecanja potraživanja stranih osoba u domicilnoj valuti Republike Hrvatske | [`odluka/1991/1520/`](odluka/1991/1520/) | amended, not consolidated | 1 | 1991-10-25 | 1991-10-25 |
 | Odluka o osnivanju Fonda za obnovu ratom razrušenih hrvatskih bolnica | [`odluka/1991/1521/`](odluka/1991/1521/) | in force | 1 | 1991-10-25 | 1991-10-25 |
+| Odluka o prijavljivanju efektivnog stranog novca što ga građani Republike Hrvatske iznose iz Republike Hrvatske pri putovanju u inozemstvo odnosno što ga strane fizičke osobe unose pri ulasku u Republ | [`odluka/1991/1522/`](odluka/1991/1522/) | cited later, not consolidated | 1 | 1991-10-25 | 1991-10-25 |
 | Odluka o ustanovljenju lovišta "Garjevica" | [`odluka/1991/1523/`](odluka/1991/1523/) | in force | 1 | 1991-11-02 | 1991-11-02 |
+| Odluka o uvjetima pod kojima poduzeća i druge osobe mogu izvoz robe i usluga naplatiti u valuti koja se po pro- pisima druge zemlje ne može transferirati i o uvjetima držanja tih deviza u inozemstvu | [`odluka/1991/1527/`](odluka/1991/1527/) | in force | 1 | 1991-10-25 | 1991-10-25 |
+| Odluka o iznošenju i unošenju efektivnih dinara u putničkom prometu s inozemstvom | [`odluka/1991/1528/`](odluka/1991/1528/) | cited later, not consolidated | 1 | 1991-10-25 | 1991-10-25 |
+| Odluka o izuzimanju od zabrane prijenosa prava raspolaganja i korištenja nekretnina u k. o. Plase | [`odluka/1991/1535/`](odluka/1991/1535/) | in force | 1 | 1991-10-29 | 1991-10-29 |
+| Odluka o izuzimanju od zabrane prijenosa prava raspolaganja i oduzimanja iz posjeda nekretnina u k. o. Kutina | [`odluka/1991/1536/`](odluka/1991/1536/) | repealed, not consolidated | 1 | 1991-10-29 | 1991-10-29 |
+| Odluka o usklađivanju mirovina od 1. kolovoza 1991. i o najvišoj starosnoj i invalidskoj mirovini | [`odluka/1991/1540/`](odluka/1991/1540/) | cited later, not consolidated | 1 | 1991-11-06 | 1991-11-06 |
+| Odluka o graničnoj svoti najnižega mirovinskog primanja od 1. kolovoza 1991. | [`odluka/1991/1541/`](odluka/1991/1541/) | replaced, not consolidated | 1 | 1991-11-06 | 1991-11-06 |
 | Odluka o visini minimalne mirovine od 1. kolovoza 1991. | [`odluka/1991/1542/`](odluka/1991/1542/) | in force | 1 | 1991-11-06 | 1991-11-06 |
+| Odluka o usklađivanju naknada osobnoga dohotka u svezi s pravom na prekvalifikaciju ili dokvalifikaciju i naknada osobnoga dohotka u svezi s pravom na zaposlenje od 1. kolovoza 1991. | [`odluka/1991/1543/`](odluka/1991/1543/) | replaced, not consolidated | 1 | 1991-11-06 | 1991-11-06 |
+| Odluka o usklađivanju doplatka za pomoć i njegu od 1. kolovoza 1991. | [`odluka/1991/1544/`](odluka/1991/1544/) | replaced, not consolidated | 1 | 1991-11-06 | 1991-11-06 |
+| Odluka o usklađivanju novčanih naknada za tjelesno oštećenje od 1. kolovoza 1991. | [`odluka/1991/1545/`](odluka/1991/1545/) | cited later, not consolidated | 1 | 1991-11-06 | 1991-11-06 |
+| Odluka o usklađivanju mirovina od 1. kolovoza 1991. | [`odluka/1991/1546/`](odluka/1991/1546/) | cited later, not consolidated | 1 | 1991-11-06 | 1991-11-06 |
+| Odluka o graničnoj svoti najnižega mirovinskog primanja od 1. kolovoza 1991. | [`odluka/1991/1547/`](odluka/1991/1547/) | replaced, not consolidated | 1 | 1991-11-06 | 1991-11-06 |
+| Odluka o usklađivanju naknada osobnoga dohotka u svezi s pravom na prekvalifikaciju ili dokvalifikaciju i naknada osobnoga dohotka u svezi s pravom na zaposlenje od 1. kolovoza 1991. | [`odluka/1991/1548/`](odluka/1991/1548/) | replaced, not consolidated | 1 | 1991-11-06 | 1991-11-06 |
+| Odluka o usklađivanju doplatka za pomoć i njegu od 1. kolovoza 1991. | [`odluka/1991/1549/`](odluka/1991/1549/) | replaced, not consolidated | 1 | 1991-11-06 | 1991-11-06 |
 | Odluka o usklađivanju novčanih naknada za tjelesno oštećenje i osnovici za određivanje tih naknada od 1. kolovoza 1991. | [`odluka/1991/1550/`](odluka/1991/1550/) | in force | 1 | 1991-11-06 | 1991-11-06 |
 | Odluka o osnivanju graničnih veterinarskih stanica | [`odluka/1991/1566/`](odluka/1991/1566/) | in force | 1 | 1991-11-07 | 1991-11-07 |
+| Odluka o utvrđivanju općina u kojima se koriste sredstva za subvencioniranje stanarine i podstanarine | [`odluka/1991/1567/`](odluka/1991/1567/) | amended, not consolidated | 1 | 1991-11-07 | 1991-11-07 |
 | Odluka o svoti zajamčenog osobnog dohotka radnika za razdoblje 1. listopada do 31. prosinca 1991. godine | [`odluka/1991/1568/`](odluka/1991/1568/) | in force | 1 | 1991-11-07 | 1991-11-07 |
 | Odluka o visini dnevnice za službeno putovanje u zemlji i visini naknada određenih materijalnih troškova | [`odluka/1991/1573/`](odluka/1991/1573/) | in force | 1 | 1991-11-14 | 1991-11-14 |
 | Odluka o rasporedu i korištenju sredstava za poticanje razvoja i intervencije u privredi osiguranih u Proračunu Republike Hrvatske za 1991. godinu | [`odluka/1991/1610/`](odluka/1991/1610/) | in force | 1 | 1991-11-27 | 1991-11-27 |
+| Odluka o obveznoj rezervi banaka kod Narodne banke Hrvatske | [`odluka/1991/1612/`](odluka/1991/1612/) | amended, not consolidated | 1 | 1991-11-20 | 1991-11-20 |
+| Odluka o načinu održavanja minimalne likvidnosti banaka | [`odluka/1991/1613/`](odluka/1991/1613/) | repealed, not consolidated | 1 | 1991-11-20 | 1991-11-20 |
 | Odluka o načinu i uvjetima davanja kredita bankama za održavanje dnevne likvidnosti | [`odluka/1991/1614/`](odluka/1991/1614/) | in force | 1 | 1991-11-12 | 1991-11-12 |
+| Odluka o načinu i uvjetima odobravanja posebnog kredita po štednim ulozima i tekućim računima građana u dinarima | [`odluka/1991/1615/`](odluka/1991/1615/) | repealed, not consolidated | 1 | 1991-11-19 | 1991-11-19 |
 | Odluka o izmjenama Odluke o uvjetima pod kojima poduzeća i druge osobe mogu izvoz robe i usluga naplatiti u valuti koja se po propisima druge zemlje ne može transferirati i o uvjetima držanja tih dev | [`odluka/1991/1616/`](odluka/1991/1616/) | in force | 1 | 1991-11-19 | 1991-11-19 |
+| Odluka o osnivanju vojnodisciplinskih sudova | [`odluka/1991/1618/`](odluka/1991/1618/) | repealed, not consolidated | 1 | 1991-11-22 | 1991-11-22 |
+| Odluka o određivanju najnižih svota na koje se mora ugovoriti osiguranje autoodgovornosti za štetu nanesenu trećim osobama pri uporabi motornog vozila | [`odluka/1991/1627/`](odluka/1991/1627/) | amended, not consolidated | 1 | 1991-11-30 | 1991-11-30 |
 | Odluka o izmjeni Odluke o zaštitnoj cijeni kukuruza roda iz 1991. godine | [`odluka/1991/1629/`](odluka/1991/1629/) | in force | 1 | 1991-11-22 | 1991-11-22 |
+| Odluka o visini naknade za veterinarsko-sanitarne preglede u prometu preko granice Republike Hrvatske | [`odluka/1991/1634/`](odluka/1991/1634/) | repealed, not consolidated | 1 | 1991-11-26 | 1991-11-26 |
 | Odluka o visini naknade koja se plaća pri izdavanju dugoročnih vrijednosnih papira | [`odluka/1991/1635/`](odluka/1991/1635/) | in force | 1 | 1991-12-04 | 1991-12-04 |
 | Odluka o utvrđivanju općeg interesa za izgradnju alternativnog pomorskog prijelaza naftovoda Krk-kopno | [`odluka/1991/1636/`](odluka/1991/1636/) | in force | 1 | 1991-12-04 | 1991-12-04 |
+| Odluka o izmjenama I dopunama Odluke o načinu stjecanja potraživanja stranih osoba u domicilnoj valuti Republike Hrvatske | [`odluka/1991/1637/`](odluka/1991/1637/) | amended, not consolidated | 1 | 1991-11-26 | 1991-11-26 |
 | Odluka o poduzimanju posebnih mjera u općini Glina | [`odluka/1991/1646/`](odluka/1991/1646/) | in force | 1 | 1991-12-03 | 1991-12-03 |
 | Odluka o načinu i uvjetima odobravanja reeskontnih kredita bankama u četvrtom tromjesečju 1991. godine | [`odluka/1991/1658/`](odluka/1991/1658/) | in force | 1 | 1991-11-12 | 1991-11-12 |
 | Odluka o unosu proizvoda i roba koji su temeljem članka 3. stavka 1. Uredbe o zabrani raspolaganja i prijenosa sredstava odredenih pravnih osoba na teritoriju Republike Hrvatske prešle u vlasništvo Re | [`odluka/1991/1674/`](odluka/1991/1674/) | in force | 1 | 1991-12-04 | 1991-12-04 |
 | Odluka o privremenim valorizacijskim koeficijentima za preračunavanje osnovica osiguranja i osobnih dohodaka iz prijašnjih godina prema razini osobnih dohodaka iz godine 1991. | [`odluka/1991/1764/`](odluka/1991/1764/) | in force | 1 | 1991-12-17 | 1991-12-17 |
 | Odluka o najnižoj svoti naknade osobnoga dohotka u svezi s pravom na prekvalifikaciju ili dokvalifikaciju i naknade osobnoga dohotka u svezi s pravom na zaposlenje od 1. srpnja 1991. i od 1. listopada | [`odluka/1991/1765/`](odluka/1991/1765/) | in force | 1 | 1991-12-17 | 1991-12-17 |
+| Odluka o vrijednosti robe za jedinstvenu carinsku stopu | [`odluka/1991/1771/`](odluka/1991/1771/) | amended, not consolidated | 1 | 1991-12-12 | 1991-12-12 |
+| Odluka o vrsti, količini i vrijednosti predmeta na koje se pri uvozu primjenjuju carinske povlastice | [`odluka/1991/1772/`](odluka/1991/1772/) | amended, not consolidated | 1 | 1991-12-12 | 1991-12-12 |
+| Odluka o određivanju robe i drugih stvari koje se uvoze s carinskog područja drugih republika u sklopu bivše - SFRJ, a ne smatraju se carinskom robom | [`odluka/1991/1773/`](odluka/1991/1773/) | repealed, not consolidated | 1 | 1991-12-12 | 1991-12-12 |
+| Odluka o načinu formiranja cijena proizvoda iz uvoza | [`odluka/1991/1774/`](odluka/1991/1774/) | amended, not consolidated | 1 | 1991-12-12 | 1991-12-12 |
+| Odluka o načinu formiranja cijena određenih proizvoda u prometu na veliko odnosno na malo | [`odluka/1991/1775/`](odluka/1991/1775/) | repealed, not consolidated | 1 | 1991-12-12 | 1991-12-12 |
+| Odluka o načinu formiranja cijena pšeničnog brašna, krupice i kruha | [`odluka/1991/1776/`](odluka/1991/1776/) | repealed, not consolidated | 1 | 1991-12-12 | 1991-12-12 |
+| Odluka o određivanju najviših cijena jestivog ulja | [`odluka/1991/1777/`](odluka/1991/1777/) | repealed, not consolidated | 1 | 1991-12-12 | 1991-12-12 |
+| Odluka o određivanju najviših cijena šećera | [`odluka/1991/1778/`](odluka/1991/1778/) | repealed, not consolidated | 1 | 1991-12-12 | 1991-12-12 |
 | Odluka o izmjeni Odluke o dodatnom porezu na naftne derivate | [`odluka/1991/1780/`](odluka/1991/1780/) | in force | 1 | 1991-12-12 | 1991-12-12 |
+| Odluka o izmjeni Odluke o visini naknade za javne ceste | [`odluka/1991/1781/`](odluka/1991/1781/) | in force | 1 | 1991-12-12 | 1991-12-12 |
+| Odluka o suglasnosti na povećanje prodajnih cijena naftnih derivata | [`odluka/1991/1782/`](odluka/1991/1782/) | replaced, not consolidated | 1 | 1991-12-12 | 1991-12-12 |
+| Odluka o suglasnosti na povećanje cijena prirodnog plina | [`odluka/1991/1783/`](odluka/1991/1783/) | replaced, not consolidated | 1 | 1991-12-12 | 1991-12-12 |
+| Odluka o suglasnosti na iznos radijske i televizijske pretplate | [`odluka/1991/1784/`](odluka/1991/1784/) | replaced, not consolidated | 1 | 1991-12-12 | 1991-12-12 |
+| Odluka o suglasnosti na povećanje cijena električne energije | [`odluka/1991/1785/`](odluka/1991/1785/) | replaced, not consolidated | 1 | 1991-12-12 | 1991-12-12 |
+| Odluka o izuzimanju nekretnina od zabrane prijenosa prava raspolaganja | [`odluka/1991/1801/`](odluka/1991/1801/) | in force | 1 | 1991-12-20 | 1991-12-20 |
 | Odluka o utvrđivanju općeg interesa za izgradnju autoceste Zagreb - Varaždin - Goričan, dionica Popovec - Komin, brze ceste Helena - Bjelovar, dionica Helena - Vrbovec i privremeni spoj brze ceste Hel | [`odluka/1991/1802/`](odluka/1991/1802/) | in force | 1 | 1991-12-28 | 1991-12-28 |
 | Odluka o utvrđivanju općeg interesa za rekonstrukaju regionalne ceste Karlovac - Jamnička Kiselica -Pokupsko na dionici Pokupsko- Gradec - Lijevo Sredičko | [`odluka/1991/1803/`](odluka/1991/1803/) | in force | 1 | 1991-12-28 | 1991-12-28 |
+| Odluka o privremenom financiranju Hrvatske gospodarske komore za razdoblje siječanj - ožujak 1992. godine | [`odluka/1991/1814/`](odluka/1991/1814/) | amended, not consolidated | 1 | 1991-12-28 | 1991-12-28 |
+| Odluka o izmjeni i dopuni Cjenika zdravstvenih usluga za 1991. godinu | [`odluka/1991/1838/`](odluka/1991/1838/) | amending act | 1 | 1991-12-29 | 1991-12-29 |
+| Odluka o izmjenama i dopunama Odluke o sudjelovanju osiguranika u troškovima zdravstvene zaštite | [`odluka/1991/1839/`](odluka/1991/1839/) | amending act | 1 | 1991-12-21 | 1991-12-21 |
+| Odluka o utvrđivanju visine plaće zdravstvenih radnika pripravnika i specijalizanata u organizacijama zdravstva | [`odluka/1991/1840/`](odluka/1991/1840/) | amended, not consolidated | 1 | 1991-12-29 | 1991-12-29 |
+| Odluka o obustavi investicjskih ulaganja u zdravstvenoj djelatnosti Republike Hrvatske | [`odluka/1991/1841/`](odluka/1991/1841/) | amended, not consolidated | 1 | 1991-12-29 | 1991-12-29 |
+| Odluka o uvođenju hrvatskog dinara kao sredstva plaćanja na teritoriju Republike Hrvatske | [`odluka/1991/1851/`](odluka/1991/1851/) | amended, not consolidated | 1 | 1991-12-23 | 1991-12-23 |
 | Odluka o visini i načinu plaćanja naknade za pokriče troškova kontrole kvalitete poljoprivrednih i prehrambenih proizvoda u vanjskotrgovinskom prometu | [`odluka/1991/1859/`](odluka/1991/1859/) | in force | 1 | 1991-12-24 | 1991-12-24 |
 | Odluka o izmjeni Odluke o uvođenju hrvatskog dinara kao sredstva plaćanja na teritoriju Republike Hrvatske | [`odluka/1991/1861/`](odluka/1991/1861/) | in force | 1 | 1991-12-24 | 1991-12-24 |
 | Odluka o ustrojstvu domobranstva | [`odluka/1991/1898/`](odluka/1991/1898/) | in force | 1 | 1991-12-31 | 1991-12-31 |
+| Odluka o metodologiji za izradu planova obrane | [`odluka/1991/1900/`](odluka/1991/1900/) | replaced, not consolidated | 1 | 1991-12-31 | 1991-12-31 |
 | Odluka o ciljevima i zadacima monetarne politike u 1992. godini | [`odluka/1991/1903/`](odluka/1991/1903/) | in force | 1 | 1991-12-31 | 1991-12-31 |
+| Odluka o općoj eskontnoj stopi Narodne banke Hrvatske | [`odluka/1991/1904/`](odluka/1991/1904/) | replaced, not consolidated | 1 | 1992-01-01 | 1992-01-01 |
+| Odluka o kamatnim stopama i stopama naknade Narodne banke Hrvatske | [`odluka/1991/1905/`](odluka/1991/1905/) | amended, not consolidated | 1 | 1992-01-01 | 1992-01-01 |
 | Odluka o načinu utvrđivanja kvota za odobravanje reeskontnih i lombardnih kredita bankama | [`odluka/1991/1906/`](odluka/1991/1906/) | in force | 1 | 1992-01-01 | 1992-01-01 |
 | Odluka o visini reeskontne kvote za korištenje kredita iz primarne emisije u prvom tromjesečju 1992. godine | [`odluka/1991/1907/`](odluka/1991/1907/) | in force | 1 | 1992-01-01 | 1992-01-01 |
 | Odluka o načinu i uvjetima korištenja kredita iz primarne emisije u prvom tromjesečju 1992. godine | [`odluka/1991/1908/`](odluka/1991/1908/) | in force | 1 | 1992-01-01 | 1992-01-01 |
+| Odluka o izdavanju blagajničkih zapisa Narodne banke Hrvatske | [`odluka/1991/1909/`](odluka/1991/1909/) | amended, not consolidated | 1 | 1991-12-31 | 1991-12-31 |
+| Odluka o načinu i uvjetima korištenja obvezne rezerve banaka za održavanje njihove dnevne likvidnosti | [`odluka/1991/1910/`](odluka/1991/1910/) | repealed, not consolidated | 1 | 1992-01-01 | 1992-01-01 |
+| Odluka o utvrđivanju visine minimalnog iznosa osnivačkog fonda banke u osnivanju | [`odluka/1991/1911/`](odluka/1991/1911/) | replaced, not consolidated | 1 | 1992-01-01 | 1992-01-01 |
 | Odluka o utvrđivanju tečaja hrvatskog dinara prema stranim valutama | [`odluka/1991/1912/`](odluka/1991/1912/) | in force | 1 | 1991-12-31 | 1991-12-31 |
+| Odluka | [`odluka/1991/1913/`](odluka/1991/1913/) | replaced, not consolidated | 1 | 1991-12-31 | 1991-12-31 |
 | Odluka o poduzimanju posebnih mjera u Općini Dvor | [`odluka/1992/7/`](odluka/1992/7/) | in force | 1 | 1992-01-14 | 1992-01-14 |
 | Odluka o poduzimanju posebnih mjera u Općini Knin | [`odluka/1992/8/`](odluka/1992/8/) | in force | 1 | 1992-01-14 | 1992-01-14 |
 | Odluka o poduzimanju posebnih mjera u Općini Slunj | [`odluka/1992/9/`](odluka/1992/9/) | in force | 1 | 1992-01-14 | 1992-01-14 |
