@@ -29,7 +29,6 @@ Amended or repealed by:
 - [Uredba o izmjeni Uredbe o visini trošarine na energente i električnu energiju (NN 126/2022)](https://narodne-novine.nn.hr/eli/sluzbeni/2022/126/1916)
 - [Uredba o izmjeni Uredbe o visini trošarine na energente i električnu energiju (NN 138/2022)](https://narodne-novine.nn.hr/eli/sluzbeni/2022/138/2076)
 - [Uredba o visini trošarine na energente i električnu energiju (NN 156/2022)](https://narodne-novine.nn.hr/eli/sluzbeni/2022/156/2521)
-- [Uredba o izmjeni Uredbe o visini trošarine na energente i električnu energiju (NN 129/2026)](https://narodne-novine.nn.hr/eli/sluzbeni/2026/129/1529)
 
 ## Decisions made by hand
 

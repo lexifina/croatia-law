@@ -1,6 +1,267 @@
 # Every act in this repository
 
-32998 acts, 33,424 versions. Each act lives in a folder named by its kind, year and identifier, `<kind>/<year>/<identifier>/` (acts published before that layout keep their own folder, listed in data/paths.json); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+33298 acts, 33,724 versions. Each act lives in a folder named by its kind, year and identifier, `<kind>/<year>/<identifier>/` (acts published before that layout keep their own folder, listed in data/paths.json); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+
+## izbori (129)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| IZBOR ZASTUPNIKA U HRVATSKI SABOR NA TEMELJU LISTA U I. izbornoj jedinici | [`izbori/2003/3024/`](izbori/2003/3024/) | in force | 1 | 2003-12-08 | 2003-12-08 |
+| IZBOR ZASTUPNIKA U HRVATSKI SABOR NA TEMELJU LISTA U II. izbornoj jedinici | [`izbori/2003/3025/`](izbori/2003/3025/) | in force | 1 | 2003-12-08 | 2003-12-08 |
+| IZBOR ZASTUPNIKA U HRVATSKI SABOR NA TEMELJU LISTA U III. izbornoj jedinici | [`izbori/2003/3026/`](izbori/2003/3026/) | in force | 1 | 2003-12-08 | 2003-12-08 |
+| IZBOR ZASTUPNIKA U HRVATSKI SABOR NA TEMELJU LISTA U IV. izbornoj jedinici | [`izbori/2003/3027/`](izbori/2003/3027/) | in force | 1 | 2003-12-08 | 2003-12-08 |
+| IZBOR ZASTUPNIKA U HRVATSKI SABOR NA TEMELJU LISTA U V. izbornoj jedinici | [`izbori/2003/3028/`](izbori/2003/3028/) | in force | 1 | 2003-12-08 | 2003-12-08 |
+| IZBOR ZASTUPNIKA U HRVATSKI SABOR NA TEMELJU LISTA U VI. izbornoj jedinici | [`izbori/2003/3029/`](izbori/2003/3029/) | in force | 1 | 2003-12-08 | 2003-12-08 |
+| IZBOR ZASTUPNIKA U HRVATSKI SABOR NA TEMELJU LISTA U VII. izbornoj jedinici | [`izbori/2003/3030/`](izbori/2003/3030/) | in force | 1 | 2003-12-08 | 2003-12-08 |
+| IZBOR ZASTUPNIKA U HRVATSKI SABOR NA TEMELJU LISTA U VIII. izbornoj jedinici | [`izbori/2003/3031/`](izbori/2003/3031/) | in force | 1 | 2003-12-08 | 2003-12-08 |
+| IZBOR ZASTUPNIKA U HRVATSKI SABOR NA TEMELJU LISTA U IX. izbornoj jedinici | [`izbori/2003/3032/`](izbori/2003/3032/) | in force | 1 | 2003-12-08 | 2003-12-08 |
+| IZBOR ZASTUPNIKA U HRVATSKI SABOR NA TEMELJU LISTA U X. izbornoj jedinici | [`izbori/2003/3033/`](izbori/2003/3033/) | in force | 1 | 2003-12-08 | 2003-12-08 |
+| IZBOR ZASTUPNIKA U HRVATSKI SABOR KOJE BIRAJU HRVATSKI DRŽAVLJANI KOJI NEMAJU PREBIVALIŠTE U REPUBLICI HRVATSKOJ u XI. izbornoj jedinici | [`izbori/2003/3034/`](izbori/2003/3034/) | in force | 1 | 2003-12-08 | 2003-12-08 |
+| IZBOR ZASTUPNIKA U HRVATSKI SABOR ZA NACIONALNE MANJINE U XII. izbornoj jedinici (koje biraju pripadnici srpske nacionalne manjine) | [`izbori/2003/3035/`](izbori/2003/3035/) | in force | 1 | 2003-12-08 | 2003-12-08 |
+| IZBOR ZASTUPNIKA U HRVATSKI SABOR ZA NACIONALNE MANJINE U XII. izbornoj jedinici (koje biraju pripadnici mađarske nacionalne manjine) | [`izbori/2003/3036/`](izbori/2003/3036/) | in force | 1 | 2003-12-08 | 2003-12-08 |
+| IZBOR ZASTUPNIKA U HRVATSKI SABOR ZA NACIONALNE MANJINE U XII. izbornoj jedinici (koje biraju pripadnici talijanske nacionalne manjine) | [`izbori/2003/3037/`](izbori/2003/3037/) | in force | 1 | 2003-12-08 | 2003-12-08 |
+| IZBOR ZASTUPNIKA U HRVATSKI SABOR ZA NACIONALNE MANJINE U XII. izbornoj jedinici (koje biraju pripadnici češke i slovačke nacionalne manjine) | [`izbori/2003/3038/`](izbori/2003/3038/) | in force | 1 | 2003-12-08 | 2003-12-08 |
+| IZBOR ZASTUPNIKA U HRVATSKI SABOR ZA NACIONALNE MANJINE U XII. izbornoj jedinici (koje biraju pripadnici austrijske, bugarske, njemačke, poljske, romske, rumunjske, rusinske, ruske, turske, ukrajinske | [`izbori/2003/3039/`](izbori/2003/3039/) | in force | 1 | 2003-12-08 | 2003-12-08 |
+| IZBOR ZASTUPNIKA U HRVATSKI SABOR ZA NACIONALNE MANJINE U XII. izbornoj jedinici (koje biraju pripadnici albanske, bošnjačke, crnogorske, makedonske i slovenske nacionalne manjine) | [`izbori/2003/3040/`](izbori/2003/3040/) | in force | 1 | 2003-12-08 | 2003-12-08 |
+| Konačni službeni rezultati izbora za predsjednika Republike Hrvatske provedenih 16. siječnja 2005. i ponovljenog glasovanja na dva biračka mjesta 23. siječnja 2005. | [`izbori/2005/295/`](izbori/2005/295/) | in force | 1 | 2005-02-02 | 2005-02-02 |
+| IZBOR ZASTUPNIKA U HRVATSKI SABOR NA TEMELJU LISTA u I. izbornoj jedinici | [`izbori/2007/3760/`](izbori/2007/3760/) | in force | 1 | 2007-12-24 | 2007-12-24 |
+| IZBOR ZASTUPNIKA U HRVATSKI SABOR NA TEMELJU LISTA u II. izbornoj jedinici | [`izbori/2007/3761/`](izbori/2007/3761/) | in force | 1 | 2007-12-24 | 2007-12-24 |
+| IZBOR ZASTUPNIKA U HRVATSKI SABOR NA TEMELJU LISTA u III. izbornoj jedinici | [`izbori/2007/3762/`](izbori/2007/3762/) | in force | 1 | 2007-12-24 | 2007-12-24 |
+| IZBOR ZASTUPNIKA U HRVATSKI SABOR NA TEMELJU LISTA u IV. izbornoj jedinici | [`izbori/2007/3763/`](izbori/2007/3763/) | in force | 1 | 2007-12-24 | 2007-12-24 |
+| IZBOR ZASTUPNIKA U HRVATSKI SABOR NA TEMELJU LISTA u V. izbornoj jedinici | [`izbori/2007/3764/`](izbori/2007/3764/) | in force | 1 | 2007-12-24 | 2007-12-24 |
+| IZBOR ZASTUPNIKA U HRVATSKI SABOR NA TEMELJU LISTA u VI. izbornoj jedinici | [`izbori/2007/3765/`](izbori/2007/3765/) | in force | 1 | 2007-12-24 | 2007-12-24 |
+| IZBOR ZASTUPNIKA U HRVATSKI SABOR NA TEMELJU LISTA u VII. izbornoj jedinici | [`izbori/2007/3766/`](izbori/2007/3766/) | in force | 1 | 2007-12-24 | 2007-12-24 |
+| IZBOR ZASTUPNIKA U HRVATSKI SABOR NA TEMELJU LISTA u VIII. izbornoj jedinici | [`izbori/2007/3767/`](izbori/2007/3767/) | in force | 1 | 2007-12-24 | 2007-12-24 |
+| IZBOR ZASTUPNIKA U HRVATSKI SABOR NA TEMELJU LISTA u IX. izbornoj jedinici | [`izbori/2007/3768/`](izbori/2007/3768/) | in force | 1 | 2007-12-24 | 2007-12-24 |
+| IZBOR ZASTUPNIKA U HRVATSKI SABOR NA TEMELJU LISTA u X. izbornoj jedinici | [`izbori/2007/3769/`](izbori/2007/3769/) | in force | 1 | 2007-12-24 | 2007-12-24 |
+| IZBOR ZASTUPNIKA U HRVATSKI SABOR KOJE BIRAJU HRVATSKI DRŽAVLJANI KOJI NEMAJU PREBIVALIŠTE U REPUBLICI HRVATSKOJ u XI. izbornoj jedinici | [`izbori/2007/3770/`](izbori/2007/3770/) | in force | 1 | 2007-12-24 | 2007-12-24 |
+| IZBOR ZASTUPNIKA U HRVATSKI SABOR ZA NACIONALNE MANJINE u XII. izbornoj jedinici (koje biraju pripadnici srpske nacionalne manjine) | [`izbori/2007/3771/`](izbori/2007/3771/) | in force | 1 | 2007-12-24 | 2007-12-24 |
+| IZBOR ZASTUPNIKA U HRVATSKI SABOR ZA NACIONALNE MANJINE u XII. izbornoj jedinici (koje biraju pripadnici mađarske nacionalne manjine) | [`izbori/2007/3772/`](izbori/2007/3772/) | in force | 1 | 2007-12-24 | 2007-12-24 |
+| IZBOR ZASTUPNIKA U HRVATSKI SABOR ZA NACIONALNE MANJINE u XII. izbornoj jedinici (koje biraju pripadnici talijanske nacionalne manjine) | [`izbori/2007/3773/`](izbori/2007/3773/) | in force | 1 | 2007-12-24 | 2007-12-24 |
+| IZBOR ZASTUPNIKA U HRVATSKI SABOR ZA NACIONALNE MANJINE u XII. izbornoj jedinici (koje biraju pripadnici češke i slovačke nacionalne manjine) | [`izbori/2007/3774/`](izbori/2007/3774/) | in force | 1 | 2007-12-24 | 2007-12-24 |
+| IZBOR ZASTUPNIKA U HRVATSKI SABOR ZA NACIONALNE MANJINE u XII. izbornoj jedinici (koje biraju pripadnici austrijske, bugarske,njemačke, poljske, romske, rumunjske, ruske, turske, ukrajinske, vlaške i | [`izbori/2007/3775/`](izbori/2007/3775/) | in force | 1 | 2007-12-24 | 2007-12-24 |
+| IZBOR ZASTUPNIKA U HRVATSKI SABOR ZA NACIONALNE MANJINE u XII. izbornoj jedinici (koje biraju pripadnici albanske, bošnjačke, crnogorske, makedonske i slovenske nacionalne manjine) | [`izbori/2007/3776/`](izbori/2007/3776/) | in force | 1 | 2007-12-24 | 2007-12-24 |
+| Konačni službeni rezultati izbora za predsjednika Republike Hrvatske | [`izbori/2010/180/`](izbori/2010/180/) | in force | 1 | 2010-01-15 | 2010-01-15 |
+| Rezultati glasovanja za izbor članova Državnoodvjetničkog vijeća iz reda zamjenika državnih odvjetnika | [`izbori/2011/428/`](izbori/2011/428/) | in force | 1 | 2011-02-15 | 2011-02-15 |
+| KONAČNI SLUŽBENI REZULTATI IZBORA ZA ZASTUPNIKE U HRVATSKI SABOR UTVRĐENI I OBJAVLJENI 13. prosinca 2011. u I. izbornoj jedinici | [`izbori/2011/2920/`](izbori/2011/2920/) | in force | 1 | 2011-12-14 | 2011-12-14 |
+| KONAČNI SLUŽBENI REZULTATI IZBORA ZA ZASTUPNIKE U HRVATSKI SABOR UTVRĐENI I OBJAVLJENI 13. prosinca 2011. u II. izbornoj jedinici | [`izbori/2011/2921/`](izbori/2011/2921/) | in force | 1 | 2011-12-14 | 2011-12-14 |
+| KONAČNI SLUŽBENI REZULTATI IZBORA ZA ZASTUPNIKE U HRVATSKI SABOR UTVRĐENI I OBJAVLJENI 13. prosinca 2011. u III. izbornoj jedinici | [`izbori/2011/2922/`](izbori/2011/2922/) | in force | 1 | 2011-12-14 | 2011-12-14 |
+| KONAČNI SLUŽBENI REZULTATI IZBORA ZA ZASTUPNIKE U HRVATSKI SABOR UTVRĐENI I OBJAVLJENI 13. prosinca 2011. u IV. izbornoj jedinici | [`izbori/2011/2923/`](izbori/2011/2923/) | in force | 1 | 2011-12-14 | 2011-12-14 |
+| KONAČNI SLUŽBENI REZULTATI IZBORA ZA ZASTUPNIKE U HRVATSKI SABOR UTVRĐENI I OBJAVLJENI 13. prosinca 2011. u V. izbornoj jedinici | [`izbori/2011/2924/`](izbori/2011/2924/) | in force | 1 | 2011-12-14 | 2011-12-14 |
+| KONAČNI SLUŽBENI REZULTATI IZBORA ZA ZASTUPNIKE U HRVATSKI SABOR UTVRĐENI I OBJAVLJENI 13. prosinca 2011. u VI. izbornoj jedinici | [`izbori/2011/2925/`](izbori/2011/2925/) | in force | 1 | 2011-12-14 | 2011-12-14 |
+| KONAČNI SLUŽBENI REZULTATI IZBORA ZA ZASTUPNIKE U HRVATSKI SABOR UTVRĐENI I OBJAVLJENI 13. prosinca 2011. u VII. izbornoj jedinici | [`izbori/2011/2926/`](izbori/2011/2926/) | in force | 1 | 2011-12-14 | 2011-12-14 |
+| KONAČNI SLUŽBENI REZULTATI IZBORA ZA ZASTUPNIKE U HRVATSKI SABOR UTVRĐENI I OBJAVLJENI 13. prosinca 2011. u VIII. izbornoj jedinici | [`izbori/2011/2927/`](izbori/2011/2927/) | in force | 1 | 2011-12-14 | 2011-12-14 |
+| KONAČNI SLUŽBENI REZULTATI IZBORA ZA ZASTUPNIKE U HRVATSKI SABOR UTVRĐENI I OBJAVLJENI 13. prosinca 2011. u IX. izbornoj jedinici | [`izbori/2011/2928/`](izbori/2011/2928/) | in force | 1 | 2011-12-14 | 2011-12-14 |
+| KONAČNI SLUŽBENI REZULTATI IZBORA ZA ZASTUPNIKE U HRVATSKI SABOR UTVRĐENI I OBJAVLJENI 13. prosinca 2011. u X. izbornoj jedinici | [`izbori/2011/2929/`](izbori/2011/2929/) | in force | 1 | 2011-12-14 | 2011-12-14 |
+| KONAČNI SLUŽBENI REZULTATI IZBORA ZA ZASTUPNIKE U HRVATSKI SABOR UTVRĐENI I OBJAVLJENI 13. prosinca 2011. u XI. izbornoj jedinici | [`izbori/2011/2930/`](izbori/2011/2930/) | in force | 1 | 2011-12-14 | 2011-12-14 |
+| KONAČNI SLUŽBENI REZULTATI IZBORA ZA ZASTUPNIKE U HRVATSKI SABOR UTVRĐENI I OBJAVLJENI 13. prosinca 2011. u XII. izbornoj jedinici (koje biraju pripadnici srpske nacionalne manjine) | [`izbori/2011/2931/`](izbori/2011/2931/) | in force | 1 | 2011-12-14 | 2011-12-14 |
+| KONAČNI SLUŽBENI REZULTATI IZBORA ZA ZASTUPNIKE U HRVATSKI SABOR UTVRĐENI I OBJAVLJENI 13. prosinca 2011. u XII. izbornoj jedinici (koje biraju pripadnici mađarske nacionalne manjine) | [`izbori/2011/2932/`](izbori/2011/2932/) | in force | 1 | 2011-12-14 | 2011-12-14 |
+| KONAČNI SLUŽBENI REZULTATI IZBORA ZA ZASTUPNIKE U HRVATSKI SABOR UTVRĐENI I OBJAVLJENI 13. prosinca 2011. u XII. izbornoj jedinici (koje biraju pripadnici talijanske nacionalne manjine) | [`izbori/2011/2933/`](izbori/2011/2933/) | in force | 1 | 2011-12-14 | 2011-12-14 |
+| KONAČNI SLUŽBENI REZULTATI IZBORA ZA ZASTUPNIKE U HRVATSKI SABOR UTVRĐENI I OBJAVLJENI 13. prosinca 2011. u XII. izbornoj jedinici (koje biraju pripadnici češke i slovačke nacionalne manjine) | [`izbori/2011/2934/`](izbori/2011/2934/) | in force | 1 | 2011-12-14 | 2011-12-14 |
+| KONAČNI SLUŽBENI REZULTATI IZBORA ZA ZASTUPNIKE U HRVATSKI SABOR UTVRĐENI I OBJAVLJENI 13. prosinca 2011. u XII. izbornoj jedinici (koje biraju pripadnici austrijske, bugarske, njemačke, poljske, romske, rumunjske, ruske, turske, ukrajinske, vlaške i židovske nacionalne manjine) | [`izbori/2011/2935/`](izbori/2011/2935/) | in force | 1 | 2011-12-14 | 2011-12-14 |
+| KONAČNI SLUŽBENI REZULTATI IZBORA ZA ZASTUPNIKE U HRVATSKI SABOR UTVRĐENI I OBJAVLJENI 13. prosinca 2011. u XII. izbornoj jedinici (koje biraju pripadnici albanske, bošnjačke, crnogorske, makedonske i slovenske nacionalne manjine) | [`izbori/2011/2936/`](izbori/2011/2936/) | in force | 1 | 2011-12-14 | 2011-12-14 |
+| Rezultati glasovanja za izbor člana Državnoodvjetničkog vijeća iz reda zamjenika državnih odvjetnika | [`izbori/2013/158/`](izbori/2013/158/) | in force | 1 | 2013-01-23 | 2013-01-23 |
+| Konačni službeni rezultati izbora za članove u Europski parlament iz Republike Hrvatske utvrđeni i objavljeni 30. travnja 2013. | [`izbori/2013/1063/`](izbori/2013/1063/) | in force | 1 | 2013-05-03 | 2013-05-03 |
+| Konačni rezultati izbora za predsjednika Republike Hrvatske | [`izbori/2015/232/`](izbori/2015/232/) | in force | 1 | 2015-01-30 | 2015-01-30 |
+| Rezultati glasovanja za izbor članova Državnoodvjetničkog vijeća iz rada zamjenika državnih odvjetnika | [`izbori/2015/338/`](izbori/2015/338/) | in force | 1 | 2015-02-13 | 2015-02-13 |
+| KONAČNI SLUŽBENI REZULTATI IZBORA ZA ZASTUPNIKE U HRVATSKI SABOR UTVRĐENI I OBJAVLJENI 23. studenoga 2015. u I. izbornoj jedinici | [`izbori/2015/2405/`](izbori/2015/2405/) | in force | 1 | 2015-11-24 | 2015-11-24 |
+| KONAČNI SLUŽBENI REZULTATI IZBORA ZA ZASTUPNIKE U HRVATSKI SABOR UTVRĐENI I OBJAVLJENI 23. studenoga 2015. u II. izbornoj jedinici | [`izbori/2015/2406/`](izbori/2015/2406/) | in force | 1 | 2015-11-24 | 2015-11-24 |
+| KONAČNI SLUŽBENI REZULTATI IZBORA ZA ZASTUPNIKE U HRVATSKI SABOR UTVRĐENI I OBJAVLJENI 23. studenoga 2015. u III. izbornoj jedinici | [`izbori/2015/2407/`](izbori/2015/2407/) | in force | 1 | 2015-11-24 | 2015-11-24 |
+| KONAČNI SLUŽBENI REZULTATI IZBORA ZA ZASTUPNIKE U HRVATSKI SABOR UTVRĐENI I OBJAVLJENI 23. studenoga 2015. u IV. izbornoj jedinici | [`izbori/2015/2408/`](izbori/2015/2408/) | in force | 1 | 2015-11-24 | 2015-11-24 |
+| KONAČNI SLUŽBENI REZULTATI IZBORA ZA ZASTUPNIKE U HRVATSKI SABOR UTVRĐENI I OBJAVLJENI 23. studenoga 2015. u V. izbornoj jedinici | [`izbori/2015/2409/`](izbori/2015/2409/) | in force | 1 | 2015-11-24 | 2015-11-24 |
+| KONAČNI SLUŽBENI REZULTATI IZBORA ZA ZASTUPNIKE U HRVATSKI SABOR UTVRĐENI I OBJAVLJENI 23. studenoga 2015. u VI. izbornoj jedinici | [`izbori/2015/2410/`](izbori/2015/2410/) | in force | 1 | 2015-11-24 | 2015-11-24 |
+| KONAČNI SLUŽBENI REZULTATI IZBORA ZA ZASTUPNIKE U HRVATSKI SABOR UTVRĐENI I OBJAVLJENI 23. studenoga 2015. u VII. izbornoj jedinici | [`izbori/2015/2411/`](izbori/2015/2411/) | in force | 1 | 2015-11-24 | 2015-11-24 |
+| KONAČNI SLUŽBENI REZULTATI IZBORA ZA ZASTUPNIKE U HRVATSKI SABOR UTVRĐENI I OBJAVLJENI 23. studenoga 2015. u VIII. izbornoj jedinici | [`izbori/2015/2412/`](izbori/2015/2412/) | in force | 1 | 2015-11-24 | 2015-11-24 |
+| KONAČNI SLUŽBENI REZULTATI IZBORA ZA ZASTUPNIKE U HRVATSKI SABOR UTVRĐENI I OBJAVLJENI 23. studenoga 2015. u IX. izbornoj jedinici | [`izbori/2015/2413/`](izbori/2015/2413/) | in force | 1 | 2015-11-24 | 2015-11-24 |
+| KONAČNI SLUŽBENI REZULTATI IZBORA ZA ZASTUPNIKE U HRVATSKI SABOR UTVRĐENI I OBJAVLJENI 23. studenoga 2015. u X. izbornoj jedinici | [`izbori/2015/2414/`](izbori/2015/2414/) | in force | 1 | 2015-11-24 | 2015-11-24 |
+| KONAČNI SLUŽBENI REZULTATI IZBORA ZA ZASTUPNIKE U HRVATSKI SABOR UTVRĐENI I OBJAVLJENI 23. studenoga 2015. u XI. izbornoj jedinici | [`izbori/2015/2415/`](izbori/2015/2415/) | in force | 1 | 2015-11-24 | 2015-11-24 |
+| KONAČNI SLUŽBENI REZULTATI IZBORA ZA ZASTUPNIKE U HRVATSKI SABOR UTVRĐENI I OBJAVLJENI 23. studenoga 2015. u XII. izbornoj jedinici (koje biraju pripadnici srpske nacionalne manjine) | [`izbori/2015/2416/`](izbori/2015/2416/) | in force | 1 | 2015-11-24 | 2015-11-24 |
+| KONAČNI SLUŽBENI REZULTATI IZBORA ZA ZASTUPNIKE U HRVATSKI SABOR UTVRĐENI I OBJAVLJENI 23. studenoga 2015. u XII. izbornoj jedinici (koje biraju pripadnici mađarske nacionalne manjine) | [`izbori/2015/2417/`](izbori/2015/2417/) | in force | 1 | 2015-11-24 | 2015-11-24 |
+| KONAČNI SLUŽBENI REZULTATI IZBORA ZA ZASTUPNIKE U HRVATSKI SABOR UTVRĐENI I OBJAVLJENI 23. studenoga 2015. u XII. izbornoj jedinici (koje biraju pripadnici talijanske nacionalne manjine) | [`izbori/2015/2418/`](izbori/2015/2418/) | in force | 1 | 2015-11-24 | 2015-11-24 |
+| KONAČNI SLUŽBENI REZULTATI IZBORA ZA ZASTUPNIKE U HRVATSKI SABOR UTVRĐENI I OBJAVLJENI 23. studenoga 2015. u XII. izbornoj jedinici (koje biraju pripadnici češke i slovačke nacionalne manjine) | [`izbori/2015/2419/`](izbori/2015/2419/) | in force | 1 | 2015-11-24 | 2015-11-24 |
+| KONAČNI SLUŽBENI REZULTATI IZBORA ZA ZASTUPNIKE U HRVATSKI SABOR UTVRĐENI I OBJAVLJENI 23. studenoga 2015. u XII. izbornoj jedinici (koje biraju pripadnici austrijske, bugarske, njemačke, poljske, romske, rumunjske, rusinske, ruske, turske, ukrajinske, vlaške i židovske nacionalne manjine) | [`izbori/2015/2420/`](izbori/2015/2420/) | in force | 1 | 2015-11-24 | 2015-11-24 |
+| KONAČNI SLUŽBENI REZULTATI IZBORA ZA ZASTUPNIKE U HRVATSKI SABOR UTVRĐENI I OBJAVLJENI 23. studenoga 2015. u XII. izbornoj jedinici (koje biraju pripadnici albanske, bošnjačke, crnogorske, makedonske i slovenske nacionalne manjine) | [`izbori/2015/2421/`](izbori/2015/2421/) | in force | 1 | 2015-11-24 | 2015-11-24 |
+| Službeni rezultati izbora za zastupnike u Hrvatski sabor utvrđeni i objavljeni 26. rujna 2016. u I. izbornoj jedinici | [`izbori/2016/1868/`](izbori/2016/1868/) | in force | 1 | 2016-09-26 | 2016-09-26 |
+| Službeni rezultati izbora za zastupnike u Hrvatski sabor utvrđeni i objavljeni 26. rujna 2016. u II. izbornoj jedinici | [`izbori/2016/1869/`](izbori/2016/1869/) | in force | 1 | 2016-09-26 | 2016-09-26 |
+| Službeni rezultati izbora za zastupnike u Hrvatski sabor utvrđeni i objavljeni 26. rujna 2016. u III. izbornoj jedinici | [`izbori/2016/1870/`](izbori/2016/1870/) | in force | 1 | 2016-09-26 | 2016-09-26 |
+| Službeni rezultati izbora za zastupnike u Hrvatski sabor utvrđeni i objavljeni 26. rujna 2016. u IV. izbornoj jedinici | [`izbori/2016/1871/`](izbori/2016/1871/) | in force | 1 | 2016-09-26 | 2016-09-26 |
+| Službeni rezultati izbora za zastupnike u Hrvatski sabor utvrđeni i objavljeni 26. rujna 2016. u V. izbornoj jedinici | [`izbori/2016/1872/`](izbori/2016/1872/) | in force | 1 | 2016-09-26 | 2016-09-26 |
+| Službeni rezultati izbora za zastupnike u Hrvatski sabor utvrđeni i objavljeni 26. rujna 2016. u VI. izbornoj jedinici | [`izbori/2016/1873/`](izbori/2016/1873/) | in force | 1 | 2016-09-26 | 2016-09-26 |
+| Službeni rezultati izbora za zastupnike u Hrvatski sabor utvrđeni i objavljeni 26. rujna 2016. u VII. izbornoj jedinici | [`izbori/2016/1874/`](izbori/2016/1874/) | in force | 1 | 2016-09-26 | 2016-09-26 |
+| Službeni rezultati izbora za zastupnike u Hrvatski sabor utvrđeni i objavljeni 26. rujna 2016. u VIII. izbornoj jedinici | [`izbori/2016/1875/`](izbori/2016/1875/) | in force | 1 | 2016-09-26 | 2016-09-26 |
+| Službeni rezultati izbora za zastupnike u Hrvatski sabor utvrđeni i objavljeni 26. rujna 2016. u IX. izbornoj jedinici | [`izbori/2016/1876/`](izbori/2016/1876/) | in force | 1 | 2016-09-26 | 2016-09-26 |
+| Službeni rezultati izbora za zastupnike u Hrvatski sabor utvrđeni i objavljeni 26. rujna 2016. u X. izbornoj jedinici | [`izbori/2016/1877/`](izbori/2016/1877/) | in force | 1 | 2016-09-26 | 2016-09-26 |
+| Službeni rezultati izbora za zastupnike u Hrvatski sabor utvrđeni i objavljeni 26. rujna 2016. u XI. izbornoj jedinici | [`izbori/2016/1878/`](izbori/2016/1878/) | in force | 1 | 2016-09-26 | 2016-09-26 |
+| Službeni rezultati izbora za zastupnike u Hrvatski sabor utvrđeni i objavljeni 26. rujna 2016. u XII. izbornoj jedinici (koje biraju pripadnici srpske nacionalne manjine) | [`izbori/2016/1879/`](izbori/2016/1879/) | in force | 1 | 2016-09-26 | 2016-09-26 |
+| Službeni rezultati izbora za zastupnike u Hrvatski sabor utvrđeni i objavljeni 26. rujna 2016. u XII. izbornoj jedinici (koje biraju pripadnici mađarske nacionalne manjine) | [`izbori/2016/1880/`](izbori/2016/1880/) | in force | 1 | 2016-09-26 | 2016-09-26 |
+| Službeni rezultati izbora za zastupnike u Hrvatski sabor utvrđeni i objavljeni 26. rujna 2016. u XII. izbornoj jedinici (koje biraju pripadnici talijanske nacionalne manjine) | [`izbori/2016/1881/`](izbori/2016/1881/) | in force | 1 | 2016-09-26 | 2016-09-26 |
+| Službeni rezultati izbora za zastupnike u Hrvatski sabor utvrđeni i objavljeni 26. rujna 2016. u XII. izbornoj jedinici (koje biraju pripadnici češke i slovačke nacionalne manjine) | [`izbori/2016/1882/`](izbori/2016/1882/) | in force | 1 | 2016-09-26 | 2016-09-26 |
+| Službeni rezultati izbora za zastupnike u Hrvatski sabor utvrđeni i objavljeni 26. rujna 2016. u XII. izbornoj jedinici (koje biraju pripadnici austrijske, bugarske, njemačke, poljske, romske, rumunjske, rusinske, ruske, turske, ukrajinske, vlaške i židovske nacionalne manjine) | [`izbori/2016/1883/`](izbori/2016/1883/) | in force | 1 | 2016-09-26 | 2016-09-26 |
+| Službeni rezultati izbora za zastupnike u Hrvatski sabor utvrđeni i objavljeni 26. rujna 2016. u XII. izbornoj jedinici (koje biraju pripadnici albanske, bošnjačke, crnogorske, makedonske i slovenske nacionalne manjine) | [`izbori/2016/1884/`](izbori/2016/1884/) | in force | 1 | 2016-09-26 | 2016-09-26 |
+| Konačni rezultati izbora članova u Europski parlament iz Republike Hrvatske provedenih 26. svibnja 2019. godine | [`izbori/2019/1084/`](izbori/2019/1084/) | in force | 1 | 2019-06-07 | 2019-06-07 |
+| Konačni rezultati izbora za predsjednika Republike Hrvatske | [`izbori/2020/54/`](izbori/2020/54/) | in force | 1 | 2020-01-10 | 2020-01-10 |
+| Konačni rezultati izbora zastupnika u Hrvatski sabor u I. izbornoj jedinici provedenih 4. i 5. srpnja 2020. | [`izbori/2020/1530/`](izbori/2020/1530/) | in force | 1 | 2020-07-16 | 2020-07-16 |
+| Konačni rezultati izbora zastupnika u Hrvatski sabor u II. izbornoj jedinici provedenih 4. i 5. srpnja 2020. | [`izbori/2020/1531/`](izbori/2020/1531/) | in force | 1 | 2020-07-16 | 2020-07-16 |
+| Konačni rezultati izbora zastupnika u Hrvatski sabor u III. izbornoj jedinici provedenih 4. i 5. srpnja 2020. | [`izbori/2020/1532/`](izbori/2020/1532/) | in force | 1 | 2020-07-16 | 2020-07-16 |
+| Konačni rezultati izbora zastupnika u Hrvatski sabor u IV. izbornoj jedinici provedenih 4. i 5. srpnja 2020. | [`izbori/2020/1533/`](izbori/2020/1533/) | in force | 1 | 2020-07-16 | 2020-07-16 |
+| Konačni rezultati izbora zastupnika u Hrvatski sabor u V. izbornoj jedinici provedenih 4. i 5. srpnja 2020. | [`izbori/2020/1534/`](izbori/2020/1534/) | in force | 1 | 2020-07-16 | 2020-07-16 |
+| Konačni rezultati izbora zastupnika u Hrvatski sabor u VI. izbornoj jedinici provedenih 4. i 5. srpnja 2020. | [`izbori/2020/1535/`](izbori/2020/1535/) | in force | 1 | 2020-07-16 | 2020-07-16 |
+| Konačni rezultati izbora zastupnika u Hrvatski sabor u VII. izbornoj jedinici provedenih 4. i 5. srpnja 2020. | [`izbori/2020/1536/`](izbori/2020/1536/) | in force | 1 | 2020-07-16 | 2020-07-16 |
+| Konačni rezultati izbora zastupnika u Hrvatski sabor u VIII. izbornoj jedinici provedenih 4., 5. i 12. srpnja 2020. | [`izbori/2020/1537/`](izbori/2020/1537/) | in force | 1 | 2020-07-16 | 2020-07-16 |
+| Konačni rezultati izbora zastupnika u Hrvatski sabor u IX. izbornoj jedinici provedenih 4. i 5. srpnja 2020. | [`izbori/2020/1538/`](izbori/2020/1538/) | in force | 1 | 2020-07-16 | 2020-07-16 |
+| Konačni rezultati izbora zastupnika u Hrvatski sabor u X. izbornoj jedinici provedenih 4. i 5. srpnja 2020. | [`izbori/2020/1539/`](izbori/2020/1539/) | in force | 1 | 2020-07-16 | 2020-07-16 |
+| Konačni rezultati izbora zastupnika u Hrvatski sabor u XI. izbornoj jedinici provedenih 4. i 5. srpnja 2020. | [`izbori/2020/1540/`](izbori/2020/1540/) | in force | 1 | 2020-07-16 | 2020-07-16 |
+| Konačni rezultati izbora zastupnika u Hrvatski sabor u XII. izbornoj jedinici u kojoj se biraju zastupnici srpske nacionalne manjine provedenih 4. i 5. srpnja 2020. | [`izbori/2020/1541/`](izbori/2020/1541/) | in force | 1 | 2020-07-16 | 2020-07-16 |
+| Konačni rezultati izbora zastupnika u Hrvatski sabor u XII. izbornoj jedinici u kojoj se bira zastupnik mađarske nacionalne manjine provedenih 4. i 5. srpnja 2020. | [`izbori/2020/1542/`](izbori/2020/1542/) | in force | 1 | 2020-07-16 | 2020-07-16 |
+| Konačni rezultati izbora zastupnika u Hrvatski sabor u XII. izbornoj jedinici u kojoj se bira zastupnik talijanske nacionalne manjine provedenih 4. i 5. srpnja 2020. | [`izbori/2020/1543/`](izbori/2020/1543/) | in force | 1 | 2020-07-16 | 2020-07-16 |
+| Konačni rezultati izbora zastupnika u Hrvatski sabor u XII. izbornoj jedinici u kojoj se bira zastupnik češke i slovačke nacionalne manjine provedenih 4. i 5. srpnja 2020. | [`izbori/2020/1544/`](izbori/2020/1544/) | in force | 1 | 2020-07-16 | 2020-07-16 |
+| Konačni rezultati izbora zastupnika u Hrvatski sabor u XII. izbornoj jedinici u kojoj se bira zastupnik austrijske, bugarske, njemačke, poljske, romske, rumunjske, rusinske, ruske, turske, ukrajinske, vlaške i židovske nacionalne manjine provedenih 4. i 5. srpnja 2020. | [`izbori/2020/1545/`](izbori/2020/1545/) | in force | 1 | 2020-07-16 | 2020-07-16 |
+| Konačni rezultati izbora zastupnika u Hrvatski sabor u XII. izbornoj jedinici u kojoj se bira zastupnik albanske, bošnjačke, crnogorske, makedonske i slovenske nacionalne manjine provedenih 4. i 5. srpnja 2020. | [`izbori/2020/1546/`](izbori/2020/1546/) | in force | 1 | 2020-07-16 | 2020-07-16 |
+| Konačni rezultati izbora zastupnika u Hrvatski sabor u I. izbornoj jedinici provedenih 16. i 17. travnja 2024. | [`izbori/2024/853/`](izbori/2024/853/) | in force | 1 | 2024-04-29 | 2024-04-29 |
+| Konačni rezultati izbora zastupnika u Hrvatski sabor u II. izbornoj jedinici provedenih 16. i 17. travnja 2024. | [`izbori/2024/854/`](izbori/2024/854/) | in force | 1 | 2024-04-29 | 2024-04-29 |
+| Konačni rezultati izbora zastupnika u Hrvatski sabor u III. izbornoj jedinici provedenih 16. i 17. travnja 2024. | [`izbori/2024/855/`](izbori/2024/855/) | in force | 1 | 2024-04-29 | 2024-04-29 |
+| Konačni rezultati izbora zastupnika u Hrvatski sabor u IV. izbornoj jedinici provedenih 16. i 17. travnja 2024. | [`izbori/2024/856/`](izbori/2024/856/) | in force | 1 | 2024-04-29 | 2024-04-29 |
+| Konačni rezultati izbora zastupnika u Hrvatski sabor u V. izbornoj jedinici provedenih 16., 17. i 21. travnja 2024. | [`izbori/2024/857/`](izbori/2024/857/) | in force | 1 | 2024-04-29 | 2024-04-29 |
+| Konačni rezultati izbora zastupnika u Hrvatski sabor u VI. izbornoj jedinici provedenih 16. i 17. travnja 2024. | [`izbori/2024/858/`](izbori/2024/858/) | in force | 1 | 2024-04-29 | 2024-04-29 |
+| Konačni rezultati izbora zastupnika u Hrvatski sabor u VII. izbornoj jedinici provedenih 16. i 17. travnja 2024. | [`izbori/2024/859/`](izbori/2024/859/) | in force | 1 | 2024-04-29 | 2024-04-29 |
+| Konačni rezultati izbora zastupnika u Hrvatski sabor u VIII. izbornoj jedinici provedenih 16. i 17. travnja 2024. | [`izbori/2024/860/`](izbori/2024/860/) | in force | 1 | 2024-04-29 | 2024-04-29 |
+| Konačni rezultati izbora zastupnika u Hrvatski sabor u IX. izbornoj jedinici provedenih 16. i 17. travnja 2024. | [`izbori/2024/861/`](izbori/2024/861/) | in force | 1 | 2024-04-29 | 2024-04-29 |
+| Konačni rezultati izbora zastupnika u Hrvatski sabor u X. izbornoj jedinici provedenih 16. i 17. travnja 2024. | [`izbori/2024/862/`](izbori/2024/862/) | in force | 1 | 2024-04-29 | 2024-04-29 |
+| Konačni rezultati izbora zastupnika u Hrvatski sabor u XI. izbornoj jedinici provedenih 16. i 17. travnja 2024. | [`izbori/2024/863/`](izbori/2024/863/) | in force | 1 | 2024-04-29 | 2024-04-29 |
+| Konačni rezultati izbora zastupnika u Hrvatski sabor u XII. izbornoj jedinici u kojoj se biraju zastupnici srpske nacionalne manjine provedenih 16., 17. i 21. travnja 2024. | [`izbori/2024/864/`](izbori/2024/864/) | in force | 1 | 2024-04-29 | 2024-04-29 |
+| Konačni rezultati izbora zastupnika u Hrvatski sabor u XII. izbornoj jedinici u kojoj se bira zastupnik mađarske nacionalne manjine provedenih 16. i 17. travnja 2024. | [`izbori/2024/865/`](izbori/2024/865/) | in force | 1 | 2024-04-29 | 2024-04-29 |
+| Konačni rezultati izbora zastupnika u Hrvatski sabor u XII. izbornoj jedinici u kojoj se bira zastupnik talijanske nacionalne manjine provedenih 16. i 17. travnja 2024. | [`izbori/2024/866/`](izbori/2024/866/) | in force | 1 | 2024-04-29 | 2024-04-29 |
+| Konačni rezultati izbora zastupnika u Hrvatski sabor u XII. izbornoj jedinici u kojoj se bira zastupnik češke i slovačke nacionalne manjine provedenih 16. i 17. travnja 2024. | [`izbori/2024/867/`](izbori/2024/867/) | in force | 1 | 2024-04-29 | 2024-04-29 |
+| Konačni rezultati izbora zastupnika u Hrvatski sabor u XII. izbornoj jedinici u kojoj se bira zastupnik austrijske, bugarske, njemačke, poljske, romske, rumunjske, rusinske, ruske, turske, ukrajinske, vlaške i židovske nacionalne manjine provedenih 16. i 17. travnja 2024. | [`izbori/2024/868/`](izbori/2024/868/) | in force | 1 | 2024-04-29 | 2024-04-29 |
+| Konačni rezultati izbora zastupnika u Hrvatski sabor u XII. izbornoj jedinici u kojoj se bira zastupnik albanske, bošnjačke, crnogorske, makedonske i slovenske nacionalne manjine provedenih 16., 17. i 21. travnja 2024. | [`izbori/2024/869/`](izbori/2024/869/) | in force | 1 | 2024-04-29 | 2024-04-29 |
+| Konačni rezultati izbora članova u Europski parlament iz Republike Hrvatske provedenih 9. lipnja 2024. godine | [`izbori/2024/1275/`](izbori/2024/1275/) | in force | 1 | 2024-06-21 | 2024-06-21 |
+
+## kolektivni-ugovor (122, of which 14 amending acts)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Opći kolektivni ugovor | [`kolektivni-ugovor/1990/701/`](kolektivni-ugovor/1990/701/) | in force | 1 | 1990-09-11 | 1990-09-11 |
+| Kolektivni ugovor za grafičko-prerađivačku i novinsko-nakladničku djelatnost | [`kolektivni-ugovor/1992/2230/`](kolektivni-ugovor/1992/2230/) | in force | 1 | 1992-12-20 | 1992-12-20 |
+| Kolektivni ugovor za graditeljstvo | [`kolektivni-ugovor/1993/67/`](kolektivni-ugovor/1993/67/) | in force | 1 | 1993-01-18 | 1993-01-18 |
+| Kolektivni ugovor za za vodoprivrednu djelatnost | [`kolektivni-ugovor/1993/1330/`](kolektivni-ugovor/1993/1330/) | in force | 1 | 1993-07-09 | 1993-07-09 |
+| Kolektivni ugovor za djelatnost osiguranja i reosiguranja | [`kolektivni-ugovor/1993/1423/`](kolektivni-ugovor/1993/1423/) | in force | 1 | 1993-07-14 | 1993-07-14 |
+| Aneks o izmjeni Općeg kolektivnog ugovora za gospodarstvo | [`kolektivni-ugovor/1993/1474/`](kolektivni-ugovor/1993/1474/) | in force | 1 | 1993-07-23 | 1993-07-23 |
+| Kolektivni ugovor za djelatnost trgovine | [`kolektivni-ugovor/1993/1991/`](kolektivni-ugovor/1993/1991/) | in force | 1 | 1993-11-11 | 1993-11-11 |
+| Aneks o izmjeni Općeg kolektivnog ugovora za javne djelatnosti i javna poduzeća | [`kolektivni-ugovor/1994/221/`](kolektivni-ugovor/1994/221/) | in force | 1 | 1994-01-01 | 1994-01-01 |
+| Odluka o izmjeni Općeg kolektivnog ugovora za javne djetatnosti i javna poduzeća | [`kolektivni-ugovor/1994/985/`](kolektivni-ugovor/1994/985/) | in force | 1 | 1994-07-01 | 1994-07-01 |
+| Ugovor između Vlade Republike Hrvatske i sindikata javnih djelatnosti | [`kolektivni-ugovor/1994/986/`](kolektivni-ugovor/1994/986/) | in force | 1 | 1994-05-26 | 1994-05-26 |
+| Ugovor između Vlade Republike Hrvatske i sindikata javnih poduzeća | [`kolektivni-ugovor/1994/987/`](kolektivni-ugovor/1994/987/) | in force | 1 | 1994-06-13 | 1994-06-13 |
+| Kolektivni ugovor za djelatnost ugostiteljstva i turizma Hrvatske | [`kolektivni-ugovor/1994/1178/`](kolektivni-ugovor/1994/1178/) | in force | 1 | 1994-09-21 | 1994-09-21 |
+| Osnovni Nacionalni Ugovor za gospodarstvo i javna poduzeća | [`kolektivni-ugovor/1995/299/`](kolektivni-ugovor/1995/299/) | in force | 1 | 1994-12-22 | 1994-12-22 |
+| Kolektivni ugovor za djelatnost trgovine | [`kolektivni-ugovor/1998/504/`](kolektivni-ugovor/1998/504/) | in force | 1 | 1998-01-01 | 1998-01-01 |
+| Kolektivni ugovor za znanost i visoko obrazovanje | [`kolektivni-ugovor/1999/448/`](kolektivni-ugovor/1999/448/) | in force | 1 | 1998-12-08 | 1998-12-08 |
+| Kolektivni ugovor za službenike i namještenike u ustanovama kulture čije se plaće osiguravaju iz proračuna Republike Hrvatske | [`kolektivni-ugovor/2000/1859/`](kolektivni-ugovor/2000/1859/) | in force | 1 | 2000-06-27 | 2000-06-27 |
+| Kolektivni ugovor za djelatnost zdravstva u privatnoj praksi Hrvatske | [`kolektivni-ugovor/2000/2231/`](kolektivni-ugovor/2000/2231/) | in force | 1 | 2000-11-25 | 2000-11-25 |
+| Kolektivni ugovor o izmjeni i dopuni kolektivnog ugovora za djelatnost zdravstva u privatnoj praksi - Aneks br. 1 | [`kolektivni-ugovor/2001/1788/`](kolektivni-ugovor/2001/1788/) | amending act | 1 | 2001-12-15 | 2001-12-15 |
+| Kolektivni ugovor za graditeljstvo | [`kolektivni-ugovor/2002/158/`](kolektivni-ugovor/2002/158/) | in force | 1 | 2001-12-07 | 2001-12-07 |
+| Kolektivni ugovor za djelatnost zdravstva u privatnoj praksi Hrvatske | [`kolektivni-ugovor/2002/564/`](kolektivni-ugovor/2002/564/) | in force | 1 | 2002-03-21 | 2002-03-21 |
+| Kolektivni ugovor HT - Hrvatskih telekomunikacjia d.d. | [`kolektivni-ugovor/2002/876/`](kolektivni-ugovor/2002/876/) | in force | 1 | 2002-02-14 | 2002-02-14 |
+| Kolektivni ugovor za graditeljstvo | [`kolektivni-ugovor/2002/1056/`](kolektivni-ugovor/2002/1056/) | amended, not consolidated | 1 | 2001-12-07 | 2001-12-07 |
+| Kolektivni ugovor za putničke agencije | [`kolektivni-ugovor/2002/1578/`](kolektivni-ugovor/2002/1578/) | in force | 1 | 2002-06-12 | 2002-06-12 |
+| Kolektivni ugovor za djelatnost socijalne skrbi | [`kolektivni-ugovor/2002/2066/`](kolektivni-ugovor/2002/2066/) | in force | 1 | 2002-10-02 | 2002-10-02 |
+| Kolektivni ugovor za sustav Bilokalnik | [`kolektivni-ugovor/2003/1392/`](kolektivni-ugovor/2003/1392/) | in force | 1 | 2003-05-23 | 2003-05-23 |
+| Kolektivni ugovor o izmjenama i dopunama Kolektivnog ugovora za graditeljstvo - prve izmjene i dopune za 2003. | [`kolektivni-ugovor/2003/1667/`](kolektivni-ugovor/2003/1667/) | amending act | 1 | 2003-05-21 | 2003-05-21 |
+| Kolektivni ugovor za djelatnost zdravstva u privatnoj praksi Hrvatske | [`kolektivni-ugovor/2003/2700/`](kolektivni-ugovor/2003/2700/) | in force | 1 | 2003-11-29 | 2003-11-29 |
+| Granski kolektivni ugovor za zaposlenike u ustanovama kulture, čije se plaće osiguravaju iz Državnog proračuna | [`kolektivni-ugovor/2004/49/`](kolektivni-ugovor/2004/49/) | in force | 1 | 2003-12-19 | 2003-12-19 |
+| Kolektivni ugovor za HEP grupu | [`kolektivni-ugovor/2004/784/`](kolektivni-ugovor/2004/784/) | in force | 1 | 2004-01-01 | 2004-01-01 |
+| Kolektivni ugovor za radnike HP-Hrvatske pošte d.d. | [`kolektivni-ugovor/2004/785/`](kolektivni-ugovor/2004/785/) | amended, not consolidated | 1 | 2003-12-22 | 2003-12-22 |
+| Kolektivni ugovor o izmjenama i dopunama Kolektivnog ugovora za graditeljstvo | [`kolektivni-ugovor/2004/1764/`](kolektivni-ugovor/2004/1764/) | amending act | 1 | 2004-06-02 | 2004-06-02 |
+| Aneks kolektivnog ugovora za radnike HP - Hrvatske pošte d.d., (objavljen u HP - Glasniku 1/04) | [`kolektivni-ugovor/2005/908/`](kolektivni-ugovor/2005/908/) | in force | 1 | 2005-02-21 | 2005-02-21 |
+| Kolektivni ugovor za Hrvatske autoceste d.d. | [`kolektivni-ugovor/2005/1186/`](kolektivni-ugovor/2005/1186/) | in force | 1 | 2005-04-13 | 2005-04-13 |
+| Kolektivni ugovor o izmjenama i dopunama Kolektivnog ugovora za graditeljstvo od 7. prosinca 2001. | [`kolektivni-ugovor/2005/1899/`](kolektivni-ugovor/2005/1899/) | amending act | 1 | 2005-07-07 | 2005-07-07 |
+| Kolektivni ugovor za radnike u Odašiljačima i vezama | [`kolektivni-ugovor/2006/8/`](kolektivni-ugovor/2006/8/) | in force | 1 | 2006-01-01 | 2006-01-01 |
+| Kolektivni ugovor za HEP grupu | [`kolektivni-ugovor/2006/292/`](kolektivni-ugovor/2006/292/) | amended, not consolidated | 1 | 2006-01-01 | 2006-01-01 |
+| Dodatak I. Kolektivnom ugovoru za djelatnost zdravstva i zdravstvenog osiguranja | [`kolektivni-ugovor/2006/485/`](kolektivni-ugovor/2006/485/) | in force | 1 | 2006-01-01 | 2006-01-01 |
+| Aneks Kolektivnog ugovora za radnike HP - Hrvatske pošte d.d. | [`kolektivni-ugovor/2006/670/`](kolektivni-ugovor/2006/670/) | in force | 1 | 2005-12-29 | 2005-12-29 |
+| Kolektivni ugovor za zaposlene u Narodnim novinama d.d., Zagreb | [`kolektivni-ugovor/2006/969/`](kolektivni-ugovor/2006/969/) | in force | 1 | 2006-01-01 | 2006-01-01 |
+| Kolektivni ugovor za Autoprometno poduzeće d.d, Požega | [`kolektivni-ugovor/2006/1375/`](kolektivni-ugovor/2006/1375/) | in force | 1 | 2006-05-01 | 2006-05-01 |
+| Dodatak III. Temeljnom kolektivom ugovoru za službenike i namještenike u javnim službama (dodatak za kulturu) | [`kolektivni-ugovor/2006/1569/`](kolektivni-ugovor/2006/1569/) | in force | 1 | 2006-02-02 | 2006-02-02 |
+| Prvi dodatak Kolektivnom ugovoru za vodno gospodarstvo | [`kolektivni-ugovor/2006/2637/`](kolektivni-ugovor/2006/2637/) | in force | 1 | 2006-11-10 | 2006-11-10 |
+| Kolektivni ugovor za djelatnost zdravstva u privatnoj praksi Hrvatske | [`kolektivni-ugovor/2006/2797/`](kolektivni-ugovor/2006/2797/) | amended, not consolidated | 1 | 2006-11-30 | 2006-11-30 |
+| Kolektivni ugovor za Hrvatske autoceste d.o.o. | [`kolektivni-ugovor/2006/2838/`](kolektivni-ugovor/2006/2838/) | in force | 1 | 2006-10-01 | 2006-10-01 |
+| Kolektivni ugovor za graditeljstvo (pročišćeni tekst) | [`kolektivni-ugovor/2006/3032/`](kolektivni-ugovor/2006/3032/) | in force | 1 | 2006-10-20 | 2006-10-20 |
+| Kolektivni ugovor o izmjenama i dopunama Kolektivnog ugovora za graditeljstvo | [`kolektivni-ugovor/2006/3033/`](kolektivni-ugovor/2006/3033/) | amending act | 1 | 2006-10-20 | 2006-10-20 |
+| Kolektivni ugovor Hrvatskih cesta d.o.o. | [`kolektivni-ugovor/2007/2393/`](kolektivni-ugovor/2007/2393/) | in force | 1 | 2007-05-07 | 2007-05-07 |
+| Kolektivni ugovor o izmjeni i dopuni Kolektivnog ugovora za djelatnost zdravstva u privatnoj praksi Hrvatske - Aneks br. 1. | [`kolektivni-ugovor/2007/3542/`](kolektivni-ugovor/2007/3542/) | amending act | 1 | 2007-12-06 | 2007-12-06 |
+| Kolektivni ugovor o izmjenama i dopunama Kolektivnog ugovora za graditeljstvo | [`kolektivni-ugovor/2008/346/`](kolektivni-ugovor/2008/346/) | amending act | 1 | 2007-10-01 | 2007-10-01 |
+| Kolektivni ugovor za graditeljstvo (pročišćeni tekst) | [`kolektivni-ugovor/2008/358/`](kolektivni-ugovor/2008/358/) | in force | 1 | 2007-10-01 | 2007-10-01 |
+| Kolektivni ugovor za radnike u Odašiljačima i vezama | [`kolektivni-ugovor/2008/1020/`](kolektivni-ugovor/2008/1020/) | in force | 1 | 2008-01-01 | 2008-01-01 |
+| Kolektivni ugovor za društvo Autotrans d.o.o., Rijeka | [`kolektivni-ugovor/2008/3713/`](kolektivni-ugovor/2008/3713/) | in force | 1 | 2008-01-01 | 2008-01-01 |
+| Kolektivni ugovor za Hrvatske autoceste d.o.o. | [`kolektivni-ugovor/2009/675/`](kolektivni-ugovor/2009/675/) | amended, not consolidated | 1 | 2009-01-01 | 2009-01-01 |
+| Drugi dodatak Kolektivnom ugovoru za vodno gospodrstvo | [`kolektivni-ugovor/2009/2259/`](kolektivni-ugovor/2009/2259/) | in force | 1 | 2009-08-01 | 2009-08-01 |
+| KOLEKTIVNI UGOVOR ZA DRUŠTVO ISTRA-PROMET d.o.o. UMAG | [`kolektivni-ugovor/2009/2593/`](kolektivni-ugovor/2009/2593/) | in force | 1 | 2009-06-01 | 2009-06-01 |
+| I. dodatak Kolektivnog ugovora za Hrvatske autoceste d.o.o. | [`kolektivni-ugovor/2009/3438/`](kolektivni-ugovor/2009/3438/) | in force | 1 | 2009-11-01 | 2009-11-01 |
+| Dodatak br. 1 Kolektivnom ugovoru za HEP grupu | [`kolektivni-ugovor/2010/2382/`](kolektivni-ugovor/2010/2382/) | in force | 1 | 2008-07-01 | 2008-07-01 |
+| Kolektivni ugovor za HEP grupu | [`kolektivni-ugovor/2011/236/`](kolektivni-ugovor/2011/236/) | in force | 1 | 2011-01-01 | 2011-01-01 |
+| Kolektivni ugovor o izmjeni i dopuni Kolektivnog ugovora za djelatnost zdravstva u privatnoj praksi Hrvatske | [`kolektivni-ugovor/2011/2566/`](kolektivni-ugovor/2011/2566/) | amending act | 1 | 2011-11-18 | 2011-11-18 |
+| Kolektivni ugovor za radnike Hrvatskih šuma, društva s ograničenom odgovornošću | [`kolektivni-ugovor/2011/2617/`](kolektivni-ugovor/2011/2617/) | in force | 1 | 2011-12-01 | 2011-12-01 |
+| Kolektivni ugovor Autoceste Rijeka-Zagreb d.d. | [`kolektivni-ugovor/2011/3004/`](kolektivni-ugovor/2011/3004/) | in force | 1 | 2011-11-07 | 2011-11-07 |
+| II. dodatak Kolektivnog ugovora za Hrvatske autoceste d.o.o. | [`kolektivni-ugovor/2013/183/`](kolektivni-ugovor/2013/183/) | in force | 1 | 2012-12-28 | 2012-12-28 |
+| Kolektivni ugovor za radnike u Odašiljačima i vezama | [`kolektivni-ugovor/2013/197/`](kolektivni-ugovor/2013/197/) | in force | 1 | 2012-12-21 | 2012-12-21 |
+| Kolektivni ugovor za HEP grupu | [`kolektivni-ugovor/2013/1237/`](kolektivni-ugovor/2013/1237/) | in force | 1 | 2013-04-01 | 2013-04-01 |
+| Kolektivni ugovor o izmjenama i dopunama Kolektivnog ugovora za djelatnosti drvne i papirne industrije | [`kolektivni-ugovor/2013/2162/`](kolektivni-ugovor/2013/2162/) | amending act | 1 | 2013-06-07 | 2013-06-07 |
+| Kolektivni ugovor za graditeljstvo (pročišćeni tekst) | [`kolektivni-ugovor/2013/2213/`](kolektivni-ugovor/2013/2213/) | in force | 1 | 2013-06-26 | 2013-06-26 |
+| Kolektivni ugovor ARZ - ON d.o.o | [`kolektivni-ugovor/2014/54/`](kolektivni-ugovor/2014/54/) | in force | 1 | 2013-11-22 | 2013-11-22 |
+| Četvrti dodatak Kolektivnom ugovoru za vodno gospodarstvo | [`kolektivni-ugovor/2014/102/`](kolektivni-ugovor/2014/102/) | in force | 1 | 2014-01-25 | 2014-01-25 |
+| Kolektivni ugovor za djelatnost socijalne skrbi | [`kolektivni-ugovor/2014/788/`](kolektivni-ugovor/2014/788/) | in force | 1 | 2014-04-01 | 2014-04-01 |
+| Granski kolektivni ugovor za zaposlenike u ustanovama kulture koje se financiraju iz Državnog proračuna | [`kolektivni-ugovor/2014/1333/`](kolektivni-ugovor/2014/1333/) | amended, not consolidated | 1 | 2014-06-01 | 2014-06-01 |
+| Kolektivni ugovor za zaposlenike u srednjoškolskim ustanovama | [`kolektivni-ugovor/2014/1361/`](kolektivni-ugovor/2014/1361/) | in force | 1 | 2014-05-15 | 2014-05-15 |
+| Kolektivni ugovor za Hrvatske autoceste održavanje i naplata cestarine d.o.o. | [`kolektivni-ugovor/2014/1719/`](kolektivni-ugovor/2014/1719/) | in force | 1 | 2014-05-23 | 2014-05-23 |
+| Kolektivni ugovor za HEP grupu | [`kolektivni-ugovor/2014/2501/`](kolektivni-ugovor/2014/2501/) | in force | 1 | 2014-10-01 | 2014-10-01 |
+| Kolektivni ugovor za djelatnost privatnog zdravstva Hrvatske | [`kolektivni-ugovor/2014/2809/`](kolektivni-ugovor/2014/2809/) | in force | 1 | 2014-12-25 | 2014-12-25 |
+| Aneks Granskom kolektivnom ugovoru za zaposlenike u ustanovama kulture koje se financiraju iz državnog proračuna | [`kolektivni-ugovor/2015/1011/`](kolektivni-ugovor/2015/1011/) | in force | 1 | 2015-03-19 | 2015-03-19 |
+| Nacionalni kolektivni ugovor za hrvatske pomorce na brodovima u međunarodnoj plovidbi | [`kolektivni-ugovor/2015/1823/`](kolektivni-ugovor/2015/1823/) | in force | 1 | 2015-07-01 | 2015-07-01 |
+| Kolektivni ugovor za graditeljstvo i Dodatak Kolektivnom ugovoru za graditeljstvo | [`kolektivni-ugovor/2015/2204/`](kolektivni-ugovor/2015/2204/) | in force | 1 | 2015-09-25 | 2015-09-25 |
+| Kolektivni ugovor za Hrvatsku elektroprivredu | [`kolektivni-ugovor/2016/1662/`](kolektivni-ugovor/2016/1662/) | in force | 1 | 2016-07-01 | 2016-07-01 |
+| Kolektivni ugovor Egis Road Operation Croatia d.o.o. i Nezavisnoga cestarskog sindikata | [`kolektivni-ugovor/2017/454/`](kolektivni-ugovor/2017/454/) | in force | 1 | 2017-01-01 | 2017-01-01 |
+| Kolektivni ugovor za djelatnost socijalne skrbi | [`kolektivni-ugovor/2017/726/`](kolektivni-ugovor/2017/726/) | in force | 1 | 2017-03-31 | 2017-03-31 |
+| Kolektivni ugovor za zaposlenike u osnovnoškolskim ustanovama | [`kolektivni-ugovor/2017/871/`](kolektivni-ugovor/2017/871/) | in force | 1 | 2017-04-11 | 2017-04-11 |
+| Kolektivni ugovor za zaposlenike u srednjoškolskim ustanovama | [`kolektivni-ugovor/2017/872/`](kolektivni-ugovor/2017/872/) | in force | 1 | 2017-04-11 | 2017-04-11 |
+| Granski kolektivni ugovor za zaposlenike u ustanovama kulture koje se financiraju iz državnog proračuna | [`kolektivni-ugovor/2017/1089/`](kolektivni-ugovor/2017/1089/) | in force | 1 | 2017-04-21 | 2017-04-21 |
+| Temeljni kolektivni ugovor za službenike i namještenike u javnim službama | [`kolektivni-ugovor/2017/2946/`](kolektivni-ugovor/2017/2946/) | in force | 1 | 2017-12-07 | 2017-12-07 |
+| Kolektivni ugovor za radnike u Odašiljačima i vezama | [`kolektivni-ugovor/2018/45/`](kolektivni-ugovor/2018/45/) | in force | 1 | 2017-11-01 | 2017-11-01 |
+| Kolektivni ugovor za Hrvatsku elektroprivredu | [`kolektivni-ugovor/2018/141/`](kolektivni-ugovor/2018/141/) | in force | 1 | 2018-01-01 | 2018-01-01 |
+| Kolektivni ugovor za Hrvatske autoceste d.o.o., Zagreb | [`kolektivni-ugovor/2018/437/`](kolektivni-ugovor/2018/437/) | in force | 1 | 2018-02-01 | 2018-02-01 |
+| Kolektivni ugovor za javne službenike i namještenike Hrvatskog centra za razminiranje | [`kolektivni-ugovor/2018/504/`](kolektivni-ugovor/2018/504/) | in force | 1 | 2018-03-07 | 2018-03-07 |
+| Kolektivni ugovor o izmjenama i dopunama Kolektivnog ugovora za graditeljstvo od 25. rujna 2015. godine, prve izmjene i dopune | [`kolektivni-ugovor/2018/548/`](kolektivni-ugovor/2018/548/) | amending act | 1 | 2018-02-20 | 2018-02-20 |
+| Granski kolektivni ugovor za zaposlenike u ustanovama kulture koje se financiraju iz državnog proračuna | [`kolektivni-ugovor/2018/892/`](kolektivni-ugovor/2018/892/) | in force | 1 | 2018-04-27 | 2018-04-27 |
+| Kolektivni ugovor za zaposlenike u osnovnoškolskim ustanovama | [`kolektivni-ugovor/2018/1018/`](kolektivni-ugovor/2018/1018/) | in force | 1 | 2018-05-15 | 2018-05-15 |
+| Kolektivni ugovor za zaposlenike u srednjoškolskim ustanovama | [`kolektivni-ugovor/2018/1019/`](kolektivni-ugovor/2018/1019/) | in force | 1 | 2018-05-15 | 2018-05-15 |
+| Kolektivni ugovor za djelatnost socijalne skrbi | [`kolektivni-ugovor/2018/1282/`](kolektivni-ugovor/2018/1282/) | in force | 1 | 2018-06-21 | 2018-06-21 |
+| Nacionalni kolektivni ugovor za hrvatske pomorce na brodovima u međunarodnoj plovidbi (2019. - 2020.) | [`kolektivni-ugovor/2018/2399/`](kolektivni-ugovor/2018/2399/) | in force | 1 | 2019-01-01 | 2019-01-01 |
+| Dodatak I. Kolektivnom ugovoru za radnike u Odašiljačima i vezama zaključenom 31. listopada 2017. godine | [`kolektivni-ugovor/2019/84/`](kolektivni-ugovor/2019/84/) | in force | 1 | 2018-12-13 | 2018-12-13 |
+| Kolektivni ugovor za znanost i visoko obrazovanje | [`kolektivni-ugovor/2019/204/`](kolektivni-ugovor/2019/204/) | amended, not consolidated | 1 | 2018-12-27 | 2018-12-27 |
+| Dodatak I. Kolektivnom ugovoru za znanost i visoko obrazovanje | [`kolektivni-ugovor/2019/205/`](kolektivni-ugovor/2019/205/) | in force | 1 | 2018-12-27 | 2018-12-27 |
+| Dodatak II. Kolektivnom ugovoru za djelatnost zdravstva i zdravstvenog osiguranja | [`kolektivni-ugovor/2019/1827/`](kolektivni-ugovor/2019/1827/) | in force | 1 | 2019-09-01 | 2019-09-01 |
+| Kolektivni ugovor za Hrvatsku elektroprivredu | [`kolektivni-ugovor/2019/2452/`](kolektivni-ugovor/2019/2452/) | amended, not consolidated | 1 | 2020-01-01 | 2020-01-01 |
+| Kolektivni ugovor za graditeljstvo (Pročišćeni tekst) | [`kolektivni-ugovor/2020/1778/`](kolektivni-ugovor/2020/1778/) | in force | 1 | 2018-02-26 | 2018-02-26 |
+| Nacionalni kolektivni ugovor za hrvatske pomorce na brodovima u međunarodnoj plovidbi (2021. - 2022.) | [`kolektivni-ugovor/2021/129/`](kolektivni-ugovor/2021/129/) | in force | 1 | 2021-01-01 | 2021-01-01 |
+| Nacionalni kolektivni ugovor za pomorce državljane trećih zemalja na brodovima u međunarodnoj plovidbi hrvatske državne pripadnosti | [`kolektivni-ugovor/2021/307/`](kolektivni-ugovor/2021/307/) | amended, not consolidated | 1 | 2021-01-14 | 2021-01-14 |
+| Dodatak Kolektivnom ugovoru za Hrvatsku elektroprivredu | [`kolektivni-ugovor/2021/1578/`](kolektivni-ugovor/2021/1578/) | in force | 1 | 2020-01-01 | 2020-01-01 |
+| Izmjene i dopune Nacionalnog Kolektivnog ugovora za pomorce državljane trećih zemalja na brodovima u međunarodnoj plovidbi hrvatske državne pripadnosti (2021. - 2022.) | [`kolektivni-ugovor/2022/616/`](kolektivni-ugovor/2022/616/) | amending act | 1 | 2022-03-15 | 2022-03-15 |
+| Temeljni kolektivni ugovor za službenike i namještenike u javnim službama | [`kolektivni-ugovor/2022/800/`](kolektivni-ugovor/2022/800/) | in force | 1 | 2022-05-06 | 2022-05-06 |
+| Kolektivni ugovor za graditeljstvo (Pročišćeni tekst) | [`kolektivni-ugovor/2022/1420/`](kolektivni-ugovor/2022/1420/) | in force | 1 | 2018-02-26 | 2018-02-26 |
+| Kolektivni ugovor o izmjeni i dopuni Kolektivnog ugovora za djelatnost privatnog zdravstva Hrvatske (Aneks br. 1) | [`kolektivni-ugovor/2022/2266/`](kolektivni-ugovor/2022/2266/) | amending act | 1 | 2022-12-24 | 2022-12-24 |
+| Kolektivni ugovor za hrvatske pomorce na brodovima u međunarodnoj plovidbi (2023. - 2024.) | [`kolektivni-ugovor/2023/369/`](kolektivni-ugovor/2023/369/) | in force | 1 | 2023-01-01 | 2023-01-01 |
+| Kolektivni ugovor za pomorce državljane trećih zemalja na brodovima u međunarodnoj plovidbi hrvatske državne pripadnosti (2023. - 2024.) | [`kolektivni-ugovor/2023/370/`](kolektivni-ugovor/2023/370/) | in force | 1 | 2023-01-01 | 2023-01-01 |
+| Kolektivni ugovor za pomorce na brodovima koji obavljaju prijevoz u linijskom obalnom pomorskom prometu | [`kolektivni-ugovor/2023/1417/`](kolektivni-ugovor/2023/1417/) | in force | 1 | 2023-09-01 | 2023-09-01 |
+| Kolektivni ugovor o izmjenama i dopunama Kolektivnog ugovora za graditeljstvo (od 25. rujna 2015. godine) - šeste izmjene i dopune | [`kolektivni-ugovor/2023/1420/`](kolektivni-ugovor/2023/1420/) | amending act | 1 | 2023-07-20 | 2023-07-20 |
+| Kolektivni ugovor za graditeljstvo (Pročišćeni tekst) | [`kolektivni-ugovor/2023/1421/`](kolektivni-ugovor/2023/1421/) | in force | 1 | 2023-07-20 | 2023-07-20 |
+| Kolektivni ugovor za djelatnosti drvne i papirne industrije | [`kolektivni-ugovor/2024/104/`](kolektivni-ugovor/2024/104/) | in force | 1 | 2023-12-11 | 2023-12-11 |
+| Temeljni kolektivni ugovor za zaposlenike u javnim službama | [`kolektivni-ugovor/2024/458/`](kolektivni-ugovor/2024/458/) | in force | 1 | 2024-03-01 | 2024-03-01 |
+| Kolektivni ugovor za graditeljstvo (pročišćeni tekst) | [`kolektivni-ugovor/2024/461/`](kolektivni-ugovor/2024/461/) | in force | 1 | 2024-02-20 | 2024-02-20 |
+| Kolektivni ugovor za djelatnost trgovine | [`kolektivni-ugovor/2024/1954/`](kolektivni-ugovor/2024/1954/) | amended, not consolidated | 1 | 2024-11-01 | 2024-11-01 |
+| Kolektivni ugovor za graditeljstvo (Pročišćeni tekst) | [`kolektivni-ugovor/2025/218/`](kolektivni-ugovor/2025/218/) | in force | 1 | 2025-01-29 | 2025-01-29 |
+| Kolektivni ugovor za pomorce državljane trećih zemalja na brodovima u međunarodnoj plovidbi hrvatske državne pripadnosti (2025. - 2026.) | [`kolektivni-ugovor/2025/220/`](kolektivni-ugovor/2025/220/) | in force | 1 | 2025-01-01 | 2025-01-01 |
+| Kolektivni ugovor o izmjenama i dopunama Kolektivnog ugovora za djelatnost trgovine (od 25. rujna 2024. godine) - prve izmjene i dopune | [`kolektivni-ugovor/2025/819/`](kolektivni-ugovor/2025/819/) | amending act | 1 | 2025-04-01 | 2025-04-01 |
+| Peti dodatak Kolektivnom ugovoru za radnike Hrvatskih voda | [`kolektivni-ugovor/2025/1471/`](kolektivni-ugovor/2025/1471/) | in force | 1 | 2025-05-29 | 2025-05-29 |
+| Kolektivni ugovor za djelatnost privatnog zdravstva Hrvatske | [`kolektivni-ugovor/2026/7/`](kolektivni-ugovor/2026/7/) | in force | 1 | 2026-01-01 | 2026-01-01 |
+| Kolektivni ugovor za graditeljstvo (pročišćeni tekst) | [`kolektivni-ugovor/2026/77/`](kolektivni-ugovor/2026/77/) | in force | 1 | 2026-01-14 | 2026-01-14 |
 
 ## naputak (205, of which 29 amending acts)
 
@@ -212,46 +473,95 @@
 | Naputak o izmjenama i dopunama Naputka o načinu uplaćivanja prihoda proračuna, obveznih doprinosa te prihoda za financiranje drugih javnih potreba u 2026. godini | [`naputak/2026/470/`](naputak/2026/470/) | amending act | 1 | 2026-04-16 | 2026-04-16 |
 | Naputak o informacijskom sustavu gospodarenja otpadom | [`naputak/2026/518/`](naputak/2026/518/) | in force | 1 | 2026-05-02 | 2026-05-02 |
 
-## naredba (1359, of which 221 amending acts)
+## naredba (1408, of which 227 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
+| Naredba o visini naknade za baždarenje čamaca | [`naredba/1990/179/`](naredba/1990/179/) | repealed, not consolidated | 1 | 1990-04-07 | 1990-04-07 |
+| Naredba o visini naknade za utvrđivanje sposobnosti čamaca za plovidbu | [`naredba/1990/180/`](naredba/1990/180/) | repealed, not consolidated | 1 | 1990-04-07 | 1990-04-07 |
 | Naredba o izmjeni Naredbe o plovidbi u prolazu u Šibensku luku, u Pašmanskom tjesnacu, prolazu Mali Ždrelac i Velika Vrata, te u predjelu rta Marlera | [`naredba/1990/367/`](naredba/1990/367/) | in force | 1 | 1990-05-08 | 1990-05-08 |
 | Naredba o imjeni Naredbe o plovidbi rijekom Neretvom, Zrmanjom i Savom | [`naredba/1990/368/`](naredba/1990/368/) | in force | 1 | 1990-05-08 | 1990-05-08 |
 | Naredba o izmjeni Naredbe o načinu obilježavanja peljarskih brodova i čamaca i o pozivnim znakovima za peljarenje | [`naredba/1990/369/`](naredba/1990/369/) | in force | 1 | 1990-05-08 | 1990-05-08 |
+| Naredba o izmjeni i dopuni Naredbe o ribolovu povlačnim mrežama - kočama | [`naredba/1990/517/`](naredba/1990/517/) | amended, not consolidated | 1 | 1990-06-27 | 1990-06-27 |
+| Naredba o izmjenama Naredbe o ograničenju prometa na cestama | [`naredba/1990/565/`](naredba/1990/565/) | amended, not consolidated | 1 | 1990-07-08 | 1990-07-08 |
 | Naredba o usklađivanju iznosa cenzusa prihoda iz osobnog dohotka od samostalnog obavljanja poljoprivredne djelatnosti iz Zakona o zaštiti boraca narodnooslobodilačkog rata | [`naredba/1990/1108/`](naredba/1990/1108/) | in force | 1 | 1990-12-27 | 1990-12-27 |
 | Naredba o usklađivanju iznosa cenzusa prihoda iz osobnog dohotka od samostalnog obavljanja poljoprivredne djelatnosti iz Zakona o zaštiti žrtava fašističkog terora i građanskih žrtava rata | [`naredba/1990/1109/`](naredba/1990/1109/) | in force | 1 | 1990-12-27 | 1990-12-27 |
 | Naredba o usklađivanju iznosa cenzusa prihoda iz osobnog dohotka od samostalnog obavljanja poljoprivredne djelatnosti iz Zakona o invalidskom dodatku i drugim pravima vojnih invalida | [`naredba/1990/1110/`](naredba/1990/1110/) | in force | 1 | 1990-12-27 | 1990-12-27 |
+| Naredba o mjerama radi sprečavanja pojave, otkrivanja i suzbijanja zaraznih i nametničkih bolesti životinja u 1991. godini | [`naredba/1991/88/`](naredba/1991/88/) | amended, not consolidated | 1 | 1991-02-02 | 1991-02-02 |
+| Naredba o izmjeni Naredbe o ribolovu povlačnim mrežama-koćama | [`naredba/1991/173/`](naredba/1991/173/) | amended, not consolidated | 1 | 1991-02-27 | 1991-02-27 |
 | Naredba o dopuni Naredbe o ribolovu povlačnim mrežama - koćama | [`naredba/1991/432/`](naredba/1991/432/) | amending act | 1 | 1991-03-30 | 1991-03-30 |
+| Naredba o određivanju proizvoda i usluga za koje se dostavljaju obavijesti o cijenama radi praćenja | [`naredba/1991/433/`](naredba/1991/433/) | repealed, not consolidated | 1 | 1991-04-07 | 1991-04-07 |
+| Naredba o mjerama sprečavanja unošenja klasične svinjske kuge u Republiku Hrvatsku | [`naredba/1991/698/`](naredba/1991/698/) | amended, not consolidated | 1 | 1991-05-20 | 1991-05-20 |
+| Naredba o ribolovu povlačnim mrežama - koćama | [`naredba/1991/712/`](naredba/1991/712/) | cited later, not consolidated | 1 | 1991-05-27 | 1991-05-27 |
 | Naredba o mjerama sprečavanja unošenja bruceloze ovaca i koza na teritorij Republike Hrvatske | [`naredba/1991/740/`](naredba/1991/740/) | in force | 1 | 1991-06-05 | 1991-06-05 |
 | Odluka o ogranićenja prometa na cestama | [`naredba/1991/831/`](naredba/1991/831/) | in force | 1 | 1991-06-22 | 1991-06-22 |
 | Naredba o načinu rukovanja lijekovima koji sadrže citotoksične supstancije | [`naredba/1991/867/`](naredba/1991/867/) | in force | 1 | 1991-06-29 | 1991-06-29 |
 | Naredba o dopuni Naredbe o mjerama radi sprečavanja pojave, otkrivanja i suzbijanja zaraznih i nametničkih bolesti životinja u 1991. godini | [`naredba/1991/910/`](naredba/1991/910/) | amending act | 1 | 1991-07-04 | 1991-07-04 |
+| Naredba | [`naredba/1991/977/`](naredba/1991/977/) | replaced, not consolidated | 1 | 1991-07-18 | 1991-07-18 |
 | Naredba o računima za uplatu osnovnog poreza na promet proizvoda i usluga | [`naredba/1991/1007/`](naredba/1991/1007/) | in force | 1 | 1991-07-24 | 1991-07-24 |
 | Naredba o poduzimanju posebnih mjera u općini Hrvatska Kostajnica | [`naredba/1991/1008/`](naredba/1991/1008/) | in force | 1 | 1991-07-24 | 1991-07-24 |
 | Naredba o poduzimanju posebnih mjera u općini Podravska Slatina | [`naredba/1991/1010/`](naredba/1991/1010/) | in force | 1 | 1991-07-24 | 1991-07-24 |
 | Naredba o poduzimanju posebnih mjera u općini Vukovar | [`naredba/1991/1012/`](naredba/1991/1012/) | in force | 1 | 1991-07-24 | 1991-07-24 |
+| Naredba o organizaciji rada u osnovnim i srednjim školama u 1991/92. školskoj godini | [`naredba/1991/1125/`](naredba/1991/1125/) | amended, not consolidated | 1 | 1991-08-16 | 1991-08-16 |
 | Naredba o izmjeni Naredbe o mjerama sprečavanja unošenja klasične svinjske kuge u Republiku Hrvatsku | [`naredba/1991/1126/`](naredba/1991/1126/) | in force | 1 | 1991-08-16 | 1991-08-16 |
+| Naredba | [`naredba/1991/1228/`](naredba/1991/1228/) | replaced, not consolidated | 1 | 1991-08-27 | 1991-08-27 |
+| Naredba o određivanju osnovnih građevinskih materijala za koje se dostavljaju obavijesti o cijenama radi praćenja | [`naredba/1991/1539/`](naredba/1991/1539/) | cited later, not consolidated | 1 | 1991-10-29 | 1991-10-29 |
+| Naredba o graničnim prijelazima za koje su osnovane granične veterinarske stanice | [`naredba/1991/1592/`](naredba/1991/1592/) | repealed, not consolidated | 1 | 1991-11-23 | 1991-11-23 |
+| Naredba o visini naknade za izdavanje svjedodžbe o zdravstvenom stanju životinja | [`naredba/1991/1593/`](naredba/1991/1593/) | repealed, not consolidated | 1 | 1991-11-23 | 1991-11-23 |
+| Naredba o određivanju proizvoda i usluga za koje se dostavIjaju obavijesti o cijenama i maržama radi praćenja | [`naredba/1991/1594/`](naredba/1991/1594/) | amended, not consolidated | 1 | 1991-11-15 | 1991-11-15 |
 | Naredba o popisu proizvoda i roba koji su na temelju Uredbe o zabrani raspolaganja i prijenosa sredstava određenih pravnih osoba na teritoriju Repnblike Hrvatske prešli u vlasništvo Republike | [`naredba/1991/1640/`](naredba/1991/1640/) | in force | 1 | 1991-11-26 | 1991-11-26 |
 | Naredba o stavljanju u promet poljoprivrednog sjemena kukuruza koje odstupa od normi kvalitete | [`naredba/1991/1808/`](naredba/1991/1808/) | in force | 1 | 1991-12-20 | 1991-12-20 |
 | Naredba o izmjeni i dopuni Naredbe o određivanju proizvoda i usluga za koje se dostavljaju obavijesti o cijenama i maržama radi pračenja | [`naredba/1991/1810/`](naredba/1991/1810/) | amending act | 1 | 1991-12-20 | 1991-12-20 |
 | Naredba o dopuni Naredbe o određivanju osnovnih građevinskih materijala za koje se dostavljaju obavijesti o cijenama radi pračenja | [`naredba/1991/1811/`](naredba/1991/1811/) | amending act | 1 | 1991-12-20 | 1991-12-20 |
+| Naredba o mjerama sprečavanja pojave, otkrivanja i suzbijanja zaraznih i nametničkih bolesti životinja u 1992. godini | [`naredba/1992/15/`](naredba/1992/15/) | amended, not consolidated | 1 | 1992-01-14 | 1992-01-14 |
 | Naredba o usklađivanju iznosa cenzusa prihoda od samostalnog obavljanja poljoprivredne djelatnosti iz Zakona o zaštiti boraca narodnooslobodilačkog rata | [`naredba/1992/56/`](naredba/1992/56/) | in force | 1 | 1992-01-22 | 1992-01-22 |
 | Naredba o usklađivanju iznosa cenzusa prihoda od samostalnog obavljanja poljoprivredne djelatnosti iz Zakona o zaštiti žrtava fašističkog terora i građanskih žrtava rata | [`naredba/1992/57/`](naredba/1992/57/) | in force | 1 | 1992-01-22 | 1992-01-22 |
 | Naredba o usklađivanju iznosa cenzusa prihoda od samostalnog obavljanja poljoprivredne djelatnosti iz Zakona o invalidskom dodatku i drugim pravima vojnih invalida | [`naredba/1992/58/`](naredba/1992/58/) | in force | 1 | 1992-01-22 | 1992-01-22 |
+| Naredba o jedinstvenom djelovanju službe zaštite spomenika kulture u Republici Hrvatskoj | [`naredba/1992/131/`](naredba/1992/131/) | cited later, not consolidated | 1 | 1992-02-12 | 1992-02-12 |
 | Naredba o zabrani uvoza u Republiku Hrvatsku i provoza preko teritorija Republike Hrvatske živih svinja, proizvoda i otpadne animalne tvari podrijetlom od svinja iz Republike Bosne i Hercegovine | [`naredba/1992/136/`](naredba/1992/136/) | in force | 1 | 1992-02-14 | 1992-02-14 |
 | Naredba o graničnim prijelazima i mjestima u kojima se obavlja sanitarno-zdravstveni nadzor nad putnicima i uvozom, izvozom i provozom pošiljki koje prilikom uvoza podliježu ovom nadzoru | [`naredba/1992/203/`](naredba/1992/203/) | in force | 1 | 1992-02-29 | 1992-02-29 |
+| Naredba o izmjeni i dopuni Naredbe o uplatnim računima prihoda za financiranje javnih potreba, načinu njihova uplaćivanja i izvješćivanju korisnika o tim prihodima | [`naredba/1992/204/`](naredba/1992/204/) | amending act | 1 | 1992-02-21 | 1992-02-21 |
 | Naredba o dopuni Naredbe o mjerama sprečavanja pojave, otkrivanja i suzbijanja zaraznih i nametničkih bolesti životinja u 1992. godini | [`naredba/1992/467/`](naredba/1992/467/) | amending act | 1 | 1992-04-08 | 1992-04-08 |
+| Naredba o dopuni Naredbe o rokovima u kojima se vrše periodični pregledi etalona i mjerila | [`naredba/1992/513/`](naredba/1992/513/) | amended, not consolidated | 1 | 1992-04-25 | 1992-04-25 |
+| Naredba o visini naknade za izdavanje svjedodžbi o zdravstvenom stanju životinja | [`naredba/1992/583/`](naredba/1992/583/) | replaced, not consolidated | 1 | 1992-05-03 | 1992-05-03 |
+| Naredba o odredivanju proizvoda i usluga za koje se dostavljaju obavijesti o cijenama i maržama radi pračenja | [`naredba/1992/761/`](naredba/1992/761/) | cited later, not consolidated | 1 | 1992-06-01 | 1992-06-01 |
+| Naredba za provođenje Rezolucije broj 757 (1992) Vijeća sigurnosti Ujedinjenih naroda u području financija | [`naredba/1992/788/`](naredba/1992/788/) | in force | 1 | 1992-06-03 | 1992-06-03 |
+| Naredba za provođenje Rezolucije broj 757 (1992) Vijeća sigurnosti Ujedinjenih naroda na području prometa nekretninama | [`naredba/1992/789/`](naredba/1992/789/) | amended, not consolidated | 1 | 1992-06-03 | 1992-06-03 |
 | Naredba za provođenja Rezolucije broj 757 (1992) Vijeća sigurnosti Ujedinjenih naroda u području pomorstva | [`naredba/1992/790/`](naredba/1992/790/) | in force | 1 | 1992-06-03 | 1992-06-03 |
+| Naredba za provođenje Rezolucije broj 757 (1992) Vijeća sigurnosti Ujedinjenih naroda u području cestovnog i željezničkog prometa | [`naredba/1992/791/`](naredba/1992/791/) | in force | 1 | 1992-06-03 | 1992-06-03 |
+| Naredba za provođenje Rezolucije broj 757 (1992) Vijeća sigurnosti Ujedinjenih naroda u podruu zračnog prometa | [`naredba/1992/792/`](naredba/1992/792/) | in force | 1 | 1992-06-03 | 1992-06-03 |
+| Naredba za provođenje Rezolucije broj 757 (1992) Vijeća sigurnosti Ujedinjenih naroda u području prometa na unutarnjim vodama | [`naredba/1992/793/`](naredba/1992/793/) | in force | 1 | 1992-06-03 | 1992-06-03 |
+| Naredba za provođenje Rezolucije broj 757 (1992) Vijeća sigurnosti Ujedinjenih naroda u području poštanskog prometa | [`naredba/1992/794/`](naredba/1992/794/) | in force | 1 | 1992-06-03 | 1992-06-03 |
+| Naredba za provođenje Rezolucije broj 757 (1992) Vijeća sigurnosti Ujedinjenih naroda u području prosvjete, kulture i športa | [`naredba/1992/795/`](naredba/1992/795/) | in force | 1 | 1992-06-03 | 1992-06-03 |
+| Naredba za provođenje Rezolucije broj 757 (1992) Vijeća sigurnosti Ujedinjenih naroda u području stranih ulaganja | [`naredba/1992/796/`](naredba/1992/796/) | repealed, not consolidated | 1 | 1992-06-03 | 1992-06-03 |
+| Naredba za provođenje Rezolucije broj 757 (1992) Vijeća sigurnosti Ujedinjenih naroda u području trgovine | [`naredba/1992/797/`](naredba/1992/797/) | in force | 1 | 1992-06-03 | 1992-06-03 |
 | Naredba za provođenje Rezolucije br. 757 (1992) Vijeća sigurnosti Ujedinjenih naroda u području turizma | [`naredba/1992/798/`](naredba/1992/798/) | in force | 1 | 1992-06-03 | 1992-06-03 |
 | Naredba o vremenu u kojem zrakoplovna pristaništa moraju biti otvorena | [`naredba/1992/919/`](naredba/1992/919/) | in force | 1 | 1992-06-17 | 1992-06-17 |
+| Naredba o dopuni Naredbe o određivanju proizvoda i usluga za koje se dostavljaju obavijesti o cijenama i maržama radi praćenja | [`naredba/1992/1075/`](naredba/1992/1075/) | amending act | 1 | 1992-07-01 | 1992-07-01 |
 | Naredba o proglašenju područja općine Bjelovar zaraženim i područja općina Križevci i Koprivnica ugroženim područjima od zarazne bolesti bruceloze životinja | [`naredba/1992/1114/`](naredba/1992/1114/) | in force | 1 | 1992-07-14 | 1992-07-14 |
+| Naredba o izmjeni i dopuni Naredbe o uplatnim računima prihoda za financiranje javnih potreba, načinu njihova uplaćivanja i izvješćivanju korisnika o tim prihodima | [`naredba/1992/1154/`](naredba/1992/1154/) | amending act | 1 | 1992-07-20 | 1992-07-20 |
+| Naredba o žigovima i drugim znakovima i potvrdama o ispravnosti mjerila | [`naredba/1992/1176/`](naredba/1992/1176/) | amended, not consolidated | 1 | 1992-07-28 | 1992-07-28 |
 | Naredba o izmjeni i dopuni Naredbe o rokovima u kojima se vrše periodični pregledi etalona i mjerila | [`naredba/1992/1177/`](naredba/1992/1177/) | amending act | 1 | 1992-07-28 | 1992-07-28 |
+| Naredba o utvrđivanju mjesečnih svota osobne invalidnine i drugih mjesečnih novčanih primanja, osnovice za određivanje opskbnine i cenzusa novčanih prihoda od 1. srpnja 1992. | [`naredba/1992/1199/`](naredba/1992/1199/) | cited later, not consolidated | 1 | 1992-07-24 | 1992-07-24 |
+| Naredba o visini troškova postupka priznavanja novostvorene sorte odnosno odobravanja uvođenja u proizvodnju strane sorte poljoprivrednog bilja | [`naredba/1992/1325/`](naredba/1992/1325/) | replaced, not consolidated | 1 | 1992-08-11 | 1992-08-11 |
+| Naredba o puštanju u tečaj administrativnih biljega i mjeničnih blanketa Republike Hrvatske | [`naredba/1992/1399/`](naredba/1992/1399/) | amended, not consolidated | 1 | 1992-08-25 | 1992-08-25 |
 | Naredba o izmjenama naredbe o utvrđivanju mjesečnih svota osobne invalidnine i drugih mjesečnih novčanih primanja, osnovice za određivanje opskrbine i ceznusa novčanih prihoda od 1. srpnja 1992. | [`naredba/1992/1400/`](naredba/1992/1400/) | in force | 1 | 1992-08-25 | 1992-08-25 |
+| Naredba o izmjeni Naredbe o uvjetima i načinu naplate, raspolaganja i plaćanja gotovim novcem | [`naredba/1992/1415/`](naredba/1992/1415/) | in force | 1 | 1992-09-01 | 1992-09-01 |
+| Naredba o organizaciji rada u osnovnim školama u 1992/93. školskoj godini | [`naredba/1992/1473/`](naredba/1992/1473/) | amended, not consolidated | 1 | 1992-09-11 | 1992-09-11 |
 | Naredba o odredivanju visine naknade za isprave koje izdaju lučke kapetanije i kapetanije pristaništa | [`naredba/1992/1474/`](naredba/1992/1474/) | in force | 1 | 1992-09-19 | 1992-09-19 |
+| Naredba o visini naknade za utvrđivanje sposobnosti čamaca za plovidbu | [`naredba/1992/1475/`](naredba/1992/1475/) | repealed, not consolidated | 1 | 1992-09-19 | 1992-09-19 |
+| Naredba o visini naknade za baždarenje čamaca | [`naredba/1992/1476/`](naredba/1992/1476/) | replaced, not consolidated | 1 | 1992-09-19 | 1992-09-19 |
+| Naredba o visini naknade za utvrđivanje sposobnosti za plovidbu stranih jahti, sportskih jedrilica i sportskih čamaca | [`naredba/1992/1477/`](naredba/1992/1477/) | replaced, not consolidated | 1 | 1992-09-19 | 1992-09-19 |
+| Naredba o izmjeni i dopuni Naredbe o uplatnim računima prihoda za financiranje javnih potreba, načinu njihova uplaćivanja i izvješćivanju korisnika o tim prihodima | [`naredba/1992/1538/`](naredba/1992/1538/) | amending act | 1 | 1992-09-22 | 1992-09-22 |
+| Naredba o visini naknade za izdavanje svjedodžbe o zdravstvenom stanju životinja | [`naredba/1992/1541/`](naredba/1992/1541/) | repealed, not consolidated | 1 | 1992-09-30 | 1992-09-30 |
+| Naredba o visini naknade za upotrebu uređaja i usluga kontrole letenja na području Republike Hrvatske | [`naredba/1992/1576/`](naredba/1992/1576/) | replaced, not consolidated | 1 | 1992-09-25 | 1992-09-25 |
 | Naredba o izmjeni i dopuni Naredbe o ribolovu povlaćnim mrežama - koćama | [`naredba/1992/1577/`](naredba/1992/1577/) | amending act | 1 | 1992-09-25 | 1992-09-25 |
+| Naredba o tarifi troškova uredovanja carinskog djelatnika izvan uredovnog prostora | [`naredba/1992/1688/`](naredba/1992/1688/) | repealed, not consolidated | 1 | 1992-10-15 | 1992-10-15 |
+| Naredba o izmjeni i dopuni Naredbe o uplatnim računima prihoda za financiranje javnih potreba; načinu njihova uplaćivanja i izvješćivanju korisnika o tim prihodima | [`naredba/1992/1879/`](naredba/1992/1879/) | amending act | 1 | 1992-10-26 | 1992-10-26 |
 | Naredba o vremenu u kojejm zrakoplovna pristaništa moraju biti otvorena | [`naredba/1992/1880/`](naredba/1992/1880/) | in force | 1 | 1992-10-26 | 1992-10-26 |
 | Naredba o izmjenama i dopunama Naredbe o organizaciji rada u osnovnim školama u 1992/93. školskoj godini | [`naredba/1992/2240/`](naredba/1992/2240/) | amending act | 1 | 1992-12-18 | 1992-12-18 |
+| Naredba o mjerama sprečavanja pojave, otkrivanja i suzbijanja zaraznih i nametničkih bolesti životinja i njihovu financiranju u 1993. godini | [`naredba/1992/2288/`](naredba/1992/2288/) | amended, not consolidated | 1 | 1992-12-21 | 1992-12-21 |
+| Naredba o izmjeni i dopuni Naredbe o uplatnim računima prihoda za financiranje javnih potreba, načinu njihova uplaćivanja i izvješćivanju korisnika o tim prihodima | [`naredba/1992/2384/`](naredba/1992/2384/) | amending act | 1 | 1993-01-01 | 1993-01-01 |
 | Naredba o prometu vozila na motorni pogon i priključnih vozila na cestama u zimskim uvjetima | [`naredba/1993/114/`](naredba/1993/114/) | amended, not consolidated | 1 | 1993-02-06 | 1993-02-06 |
 | Naredba o ograničenju prometa na cestama | [`naredba/1993/115/`](naredba/1993/115/) | amended, not consolidated | 1 | 1993-02-06 | 1993-02-06 |
 | Naredba o visini naknade za izdavanje svjedodžbe | [`naredba/1993/208/`](naredba/1993/208/) | repealed, not consolidated | 1 | 1993-02-13 | 1993-02-13 |

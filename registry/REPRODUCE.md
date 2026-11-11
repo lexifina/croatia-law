@@ -1,13 +1,14 @@
 # How this repository was made (Croatia)
 
-This file is written by the build on 2026-11-10, the day the source data was retrieved.
+This file is written by the build on 2026-11-11, the day the source data was retrieved.
 
 ## Sources
 
 | Source | Address | Retrieved | Licence |
 | --- | --- | --- | --- |
 | Narodne novine, službeni dio (narodne-novine.nn.hr) | <https://narodne-novine.nn.hr> | 2026-11-04 | Official texts; not protected by copyright (ZAPSP čl. 8) |
-| Narodne novine, službeni dio (narodne-novine.nn.hr) | <https://narodne-novine.nn.hr> | 2026-11-10 | Official texts; not protected by copyright (ZAPSP čl. 8) |
+| Narodne novine, službeni dio (narodne-novine.nn.hr) | <https://narodne-novine.nn.hr> | 2026-11-11 | Official texts; not protected by copyright (ZAPSP čl. 8) |
+| Narodne novine, službeni dio (narodne-novine.nn.hr) | <https://narodne-novine.nn.hr> | 2026-11-09 | Official texts; not protected by copyright (ZAPSP čl. 8) |
 
 Every word of law in this repository comes from these sources. Lexifina reads them and records each act's dated versions, and the laws that made each change, in one corpus file. This repository is built from that file.
 
@@ -15,21 +16,21 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 
 | Act | Title | Versions | Span |
 | --- | --- | ---: | --- |
-| 31846 acts | every act, with its kind, number, status and span, is listed in [ACTS.md](ACTS.md) | 32272 | |
+| 33297 acts | every act, with its kind, number, status and span, is listed in [ACTS.md](ACTS.md) | 33723 | |
 
-The build made 33423 commits:
+The build made 33723 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 32998 | first version of an act |
+| 33298 | first version of an act |
 | 425 | one law on its in-force day |
 | 0 | changes no amendment note explains, credited to the publisher |
 
 Other counts:
-- 0 commits on the branch `buducnost`: laws not yet in force on 2026-11-10.
+- 0 commits on the branch `buducnost`: laws not yet in force on 2026-11-11.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
-- 33023 laws in the record.
-- 63242 tags.
+- 35640 laws in the record.
+- 63842 tags.
 
 ## Dates
 
@@ -41,8 +42,8 @@ When a law gives no date of its own, the default rule applies: Ustav Republike H
 
 `tools/build/build.py` (and, for later publishes, `tools/build/append.py`) turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/build/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/build/SCHEMA.md`.
 
-- Corpus: sha256 `88c0aea9c03b7eaad800a3e9d9eb09c02814ad03d39def4d6b2dbf5c4bbe25e0` (555272643 bytes).
-- Builder blob hashes (`git hash-object`): `build.py` `25c4d4ad1a400561b148aac78a08e20fe3cb39c7`, `check.py` `f7f9c39fff1b1f9a3aded2ad3364a27fb0908033`, `on.py` `0be88de7820b2dafe9f94fa40472a48776aa4cf5`.
+- Corpus: sha256 `16972b9388d8a75a83388535d9968860c4e2b0afb561ec053223de93c8ed091f` (616295375 bytes).
+- Builder blob hashes (`git hash-object`): `build.py` `7ff2a6900797ff7ab8c9d8fd28125e5e52250112`, `check.py` `f7f9c39fff1b1f9a3aded2ad3364a27fb0908033`, `on.py` `0be88de7820b2dafe9f94fa40472a48776aa4cf5`.
 - Python 3.12.10; git version 2.46.0.windows.1.
 
 ## Checks
@@ -53,7 +54,7 @@ No second build of this corpus has been compared yet.
 
 ## Decisions made by hand
 
-- Every act's decisions made by hand (238 in all) are listed in that act's own README.md, under "Decisions made by hand".
+- Every act's decisions made by hand (467 in all) are listed in that act's own README.md, under "Decisions made by hand".
 
 ## What AI did and did not do
 
