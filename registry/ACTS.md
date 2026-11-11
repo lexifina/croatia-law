@@ -1,6 +1,6 @@
 # Every act in this repository
 
-33598 acts, 34,024 versions. Each act lives in a folder named by its kind, year and identifier, `<kind>/<year>/<identifier>/` (acts published before that layout keep their own folder, listed in data/paths.json); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+33898 acts, 34,324 versions. Each act lives in a folder named by its kind, year and identifier, `<kind>/<year>/<identifier>/` (acts published before that layout keep their own folder, listed in data/paths.json); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## izbori (129)
 
@@ -1888,7 +1888,7 @@
 | Naredba o dopuni Naredbe o razvrstaju luka otvorenih za javni promet na području Primorsko-goranske županije | [`naredba/2026/1220/`](naredba/2026/1220/) | amending act | 1 | 2026-09-19 | 2026-09-19 |
 | Naredba o mjerama kontrole za suzbijanje afričke svinjske kuge u Republici Hrvatskoj | [`naredba/2026/1289/`](naredba/2026/1289/) | in force | 1 | 2026-09-24 | 2026-09-24 |
 
-## odluka (14575, of which 1731 amending acts)
+## odluka (14833, of which 1742 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -2362,18 +2362,27 @@
 | Odluka o jednokratnoj godišnjoj novčanoj pomoći | [`odluka/1991/927/`](odluka/1991/927/) | in force | 1 | 1991-07-12 | 1991-07-12 |
 | Odluka o usklađivanju mirovina od 1. svibnja 1991 | [`odluka/1991/928/`](odluka/1991/928/) | replaced, not consolidated | 1 | 1991-07-12 | 1991-07-12 |
 | Odluka o usklađivanju naknada osobnoga dohotka u svezi s pravom na prekvalifikaciju ili dokvalifikaciju i naknada osobnoga dohotka u svezi s pravom na zaposlenje od 1. svibnja 1991. | [`odluka/1991/930/`](odluka/1991/930/) | replaced, not consolidated | 1 | 1991-07-12 | 1991-07-12 |
+| Odluka o usklađivanju doplatka za pomoć i njegu od 1. svibnja 1991. | [`odluka/1991/931/`](odluka/1991/931/) | replaced, not consolidated | 1 | 1991-07-12 | 1991-07-12 |
 | Odluka o usklađivanju novčanih naknada za tjelesnooštečenje i osnovici za određivanje tih naknada od 1. svibnja 1991. | [`odluka/1991/932/`](odluka/1991/932/) | in force | 1 | 1991-07-12 | 1991-07-12 |
+| Odluka o usklađivanju mirovina od 1. siječnja.1991. | [`odluka/1991/933/`](odluka/1991/933/) | in force | 1 | 1991-07-12 | 1991-07-12 |
+| Odluka o graničnoj svoti najnižega mirovinskog primanja od 1. siječnja 1991. | [`odluka/1991/934/`](odluka/1991/934/) | replaced, not consolidated | 1 | 1991-07-12 | 1991-07-12 |
+| Odluka o usklađivanju naknada osobnoga dohotka u svezi s pravom na prekvalifikaciju ili dokvalifikaciju i naknada osobnoga dohotka u svezi s pravom na zaposlenje od 1. siječnja 1991. | [`odluka/1991/935/`](odluka/1991/935/) | in force | 1 | 1991-07-12 | 1991-07-12 |
 | Odluka o usklađivanju doplatka za pomoč i njegu od 1. siječnja 1991. | [`odluka/1991/936/`](odluka/1991/936/) | in force | 1 | 1991-07-12 | 1991-07-12 |
 | Odluka o usklađivanju novčanih naknada za tjelesno oštećenje i osnovcu za određivanje tih naknada od 1. siječnja 1991. | [`odluka/1991/937/`](odluka/1991/937/) | in force | 1 | 1991-07-12 | 1991-07-12 |
 | Odluka o plaćanju doprinosa Zadružnom savezu Hrvatske u 1991. godini | [`odluka/1991/938/`](odluka/1991/938/) | in force | 1 | 1991-07-04 | 1991-07-04 |
 | Odluka o plaćanju doprinosa Zadružnom savezu Dalmacije u 1991. godini | [`odluka/1991/939/`](odluka/1991/939/) | in force | 1 | 1991-07-04 | 1991-07-04 |
+| Odluka o izuzimanju nekretnina od zabrane prijenosa prava raspolaganja | [`odluka/1991/963/`](odluka/1991/963/) | replaced, not consolidated | 1 | 1991-07-16 | 1991-07-16 |
 | Odluka o načinu klasificiranja aktive i odgovarajućih izvanbilančnih stavki banaka i drugih financijskih organizacija s gledišta njihove naplativosti | [`odluka/1991/970/`](odluka/1991/970/) | in force | 1 | 1991-07-16 | 1991-07-16 |
 | Odluka o usklađivanju mirovina od 1. ožujka 1991. i o najvišoj starosnoj i invalidskoj mirovini | [`odluka/1991/981/`](odluka/1991/981/) | in force | 1 | 1991-07-26 | 1991-07-26 |
 | Odluka o graničnoj svoti najnižega primanja od 1. ožujka 1991. | [`odluka/1991/982/`](odluka/1991/982/) | in force | 1 | 1991-07-26 | 1991-07-26 |
 | Odluka o visini minimalne mirovine od 1. ožujka 1991. | [`odluka/1991/983/`](odluka/1991/983/) | in force | 1 | 1991-07-26 | 1991-07-26 |
+| Odluka o usklađivanju naknada osobnoga dohotka u svezi s pravom na prekvalifikaciju ili dokvalifikaciju i naknada osobnoga dohotka u svezi s pravom na zaposlenje od 1. ožujka 1991. | [`odluka/1991/984/`](odluka/1991/984/) | replaced, not consolidated | 1 | 1991-07-26 | 1991-07-26 |
+| Odluka o usklađivanju doplatka za pomoć i njegu od 1. ožujka 1991. | [`odluka/1991/985/`](odluka/1991/985/) | replaced, not consolidated | 1 | 1991-07-26 | 1991-07-26 |
 | Odluka o uskIađivanju novčanih naknada za tjelesno oštećenje od 1. ožujka 1991. | [`odluka/1991/986/`](odluka/1991/986/) | in force | 1 | 1991-07-26 | 1991-07-26 |
 | Odluka o usklađivanju mirovina od 1. ožujka 1991. | [`odluka/1991/987/`](odluka/1991/987/) | in force | 1 | 1991-07-26 | 1991-07-26 |
 | Odluka o graničnoj svoti najnižega mirovinskog primanja od 1. ožujka 1991. | [`odluka/1991/988/`](odluka/1991/988/) | in force | 1 | 1991-07-26 | 1991-07-26 |
+| Odluka o usklađivanju naknada osobnoga dohotka u svezi s pravom na prekvalifikaciju ili dokvalifikaciju i naknada osobnoga dohotka u svezi s pravom na zaposlenje od 1. ožujka 1991. | [`odluka/1991/989/`](odluka/1991/989/) | replaced, not consolidated | 1 | 1991-07-26 | 1991-07-26 |
+| Odluka o usklađivanju doplatka za pomoć i njegu od 1. ožujka 1991. | [`odluka/1991/990/`](odluka/1991/990/) | replaced, not consolidated | 1 | 1991-07-26 | 1991-07-26 |
 | Odluka o usklađivanju novčanih naknada za tjelesno oštećenje i osnovici za određivanje tih naknada od 1. ožujka 1991. | [`odluka/1991/991/`](odluka/1991/991/) | in force | 1 | 1991-07-26 | 1991-07-26 |
 | Odluka o visini naknada za obavezne zđravstvene preglede pošiljaka bilja u izvozu | [`odluka/1991/999/`](odluka/1991/999/) | in force | 1 | 1991-08-01 | 1991-08-01 |
 | Odluka o svoti zajamčenog osobnog dohotka radnika za razdoblje 1. srpnja da 30. rujna 1991. godine | [`odluka/1991/1001/`](odluka/1991/1001/) | in force | 1 | 1991-07-25 | 1991-07-25 |
@@ -2546,43 +2555,78 @@
 | Odluka o poduzimanju posebnih mjera u Općini Dvor | [`odluka/1992/7/`](odluka/1992/7/) | in force | 1 | 1992-01-14 | 1992-01-14 |
 | Odluka o poduzimanju posebnih mjera u Općini Knin | [`odluka/1992/8/`](odluka/1992/8/) | in force | 1 | 1992-01-14 | 1992-01-14 |
 | Odluka o poduzimanju posebnih mjera u Općini Slunj | [`odluka/1992/9/`](odluka/1992/9/) | in force | 1 | 1992-01-14 | 1992-01-14 |
+| Odluka o Republičkom fondu "Kralj Zvonimir" | [`odluka/1992/24/`](odluka/1992/24/) | amended, not consolidated | 1 | 1992-01-15 | 1992-01-15 |
+| Odluka o početku primjene Carinske tarife | [`odluka/1992/25/`](odluka/1992/25/) | amended, not consolidated | 1 | 1992-01-15 | 1992-01-15 |
 | Odluka o izmjeni Odluke o utvrđivanju osnovice i stope za obračunavanje doprinosa Privrednoj komori regije Varaždin u 1991. godini | [`odluka/1992/32/`](odluka/1992/32/) | in force | 1 | 1991-12-18 | 1991-12-18 |
 | Odluka o visini i načinu plaćanja naknada za pokriće troškova za ispitivanje tipa mjerila i pregled etalona, uzoraka referentnih materijala i mjerila | [`odluka/1992/44/`](odluka/1992/44/) | in force | 1 | 1992-01-30 | 1992-01-30 |
+| Odluka o visini i načinu plaćanja troškova za ispitivanje i obilježavanje žigom predmeta od plemenitih kovina | [`odluka/1992/45/`](odluka/1992/45/) | repealed, not consolidated | 1 | 1992-01-30 | 1992-01-30 |
 | Odluka o izuzimanju od zabrane raspolaganja nekretninom na teritoriju Republike Hrvatske | [`odluka/1992/47/`](odluka/1992/47/) | in force | 1 | 1992-01-22 | 1992-01-22 |
 | Odluka o izuzimanju od zabrane raspolaganja nekretninama na terttoriju Republike Hrvatske u k. o. Gruž | [`odluka/1992/48/`](odluka/1992/48/) | in force | 1 | 1992-01-22 | 1992-01-22 |
 | Odluka o izuzimanju nekretnina u k. o. Novi od zabrane prijenosa prava raspolaganja | [`odluka/1992/49/`](odluka/1992/49/) | in force | 1 | 1992-01-22 | 1992-01-22 |
 | Odluka o izuzimanju nekretnina od zabrane prijenosa prava raspolaganja u k. o. Grad Zagreb, Ilica 109 - 111 | [`odluka/1992/50/`](odluka/1992/50/) | in force | 1 | 1992-01-22 | 1992-01-22 |
 | Odluka o izuzimanju nekretnina od zabrane prijenosa prava raspolaganja u k. o. Grad Zagreb, Ilica 176 | [`odluka/1992/51/`](odluka/1992/51/) | in force | 1 | 1992-01-22 | 1992-01-22 |
 | Odluka o svoti zajamčenog osobnog dohotka radnika za razdoblje 1. siječnja do 31. ožujka 1992. godine | [`odluka/1992/52/`](odluka/1992/52/) | in force | 1 | 1992-01-22 | 1992-01-22 |
+| Odluka o osnovama za osiguranje sredstava za provođenje Programa mjera zdravstvene zaštite u 1991. godini | [`odluka/1992/60/`](odluka/1992/60/) | cited later, not consolidated | 1 | 1992-01-30 | 1992-01-30 |
 | Odluka o osnivanju Ambasade Republike Hrvatske u Beču, Republika Austrija | [`odluka/1992/69/`](odluka/1992/69/) | in force | 1 | 1992-01-22 | 1992-01-22 |
 | Odluka o osnivanju Ambasade Republike Hrvatske u Bonnu, Savezna Republika Njemačka | [`odluka/1992/70/`](odluka/1992/70/) | in force | 1 | 1992-01-22 | 1992-01-22 |
 | Odluka o osnivanju Ambasade Republike Hrvatske u Rimu, Republika Italija | [`odluka/1992/71/`](odluka/1992/71/) | in force | 1 | 1992-01-22 | 1992-01-22 |
+| Odluka o izmjenama Odluke o visini premije za određene proizvode u poljoprivredi | [`odluka/1992/79/`](odluka/1992/79/) | in force | 1 | 1992-02-05 | 1992-02-05 |
 | Odluka o izmjenama Odluke o osnivanju Odbora za arapske zemlje u Ministarstvu inozemnih poslova | [`odluka/1992/80/`](odluka/1992/80/) | in force | 1 | 1992-02-05 | 1992-02-05 |
 | Odluka o prestanku važenja Odluke o određivanju najviših cijena jestivog ulja | [`odluka/1992/81/`](odluka/1992/81/) | in force | 1 | 1992-02-05 | 1992-02-05 |
 | Odluka o prestanku važenja Odluke o određivanju najviših cijena šećera | [`odluka/1992/82/`](odluka/1992/82/) | in force | 1 | 1992-02-05 | 1992-02-05 |
 | Odluka o poduzimanju posebnih mjera u općini Vrginmost | [`odluka/1992/83/`](odluka/1992/83/) | in force | 1 | 1992-02-05 | 1992-02-05 |
 | Odluka o odobravanju reeskontnih kredita bankama u I. tromjesečju 1992. za refinanaranje posebnih kredita banaka odobrenih građanima i drugim osobama za popravak stambenih i gospodarskih objekata ošte | [`odluka/1992/85/`](odluka/1992/85/) | in force | 1 | 1992-02-05 | 1992-02-05 |
+| Odluka o općoj eskontnoj stopi Narodne banke Hrvatske | [`odluka/1992/87/`](odluka/1992/87/) | replaced, not consolidated | 1 | 1992-02-06 | 1992-02-06 |
+| Odluka o utvrđivanju visine minimalnog iznosa osnivačkog fonda banke u osnivanju | [`odluka/1992/88/`](odluka/1992/88/) | replaced, not consolidated | 1 | 1992-02-06 | 1992-02-06 |
+| Odluka o uvjetima i rokovima do kojih se može odobriti produženje roka naplate izvezene robe i usluga | [`odluka/1992/89/`](odluka/1992/89/) | replaced, not consolidated | 1 | 1992-02-05 | 1992-02-05 |
+| Odluka o osnivanju Zaklade "Kraljica Jelena" | [`odluka/1992/99/`](odluka/1992/99/) | repealed, not consolidated | 1 | 1992-02-07 | 1992-02-07 |
 | Odluka o povjeravanju obavljanja poslova Hrvatskog centra za međunarodni sistem podataka o serijskim publikacijama | [`odluka/1992/100/`](odluka/1992/100/) | in force | 1 | 1992-02-07 | 1992-02-07 |
+| Odluka o utvrđivanju visine boravišne pristojbe | [`odluka/1992/101/`](odluka/1992/101/) | amended, not consolidated | 1 | 1992-02-07 | 1992-02-07 |
 | Odluka o izmjenanla i dopuni Odluke o visini godišnje naknade za upotrebu cesta što se plaća za cestovna motorna i priključna vozila | [`odluka/1992/102/`](odluka/1992/102/) | amending act | 1 | 1992-02-07 | 1992-02-07 |
 | Odluka o odredivanju najamnih svota na koje se mora ugovoriti osiguranje putnika u javnom prijevozu od posljedica nesretnog slučaja | [`odluka/1992/103/`](odluka/1992/103/) | in force | 1 | 1992-02-15 | 1992-02-15 |
 | Odluka o izmjeni i dopuni Odluke o načinu formiranja cijena pšeničnog brašna, krupice i kruha | [`odluka/1992/104/`](odluka/1992/104/) | amending act | 1 | 1992-02-07 | 1992-02-07 |
 | Odluka o utvrđivanju opčeg interesa za izgradnju regionalne ceste, pješačkih komunikacijskih površina i parkirališta u Mariji Bistrici | [`odluka/1992/105/`](odluka/1992/105/) | in force | 1 | 1992-02-15 | 1992-02-15 |
+| Odluka o osnivanju Vijeća za strategiju razvitka Hrvatske | [`odluka/1992/195/`](odluka/1992/195/) | amended, not consolidated | 1 | 1992-02-13 | 1992-02-13 |
 | Odluka o izuzimanju od zabrane prijenosa prava raspolaganja i korištenja nekretnina u društvenom vlasništvu u k.o. Rijeka | [`odluka/1992/199/`](odluka/1992/199/) | in force | 1 | 1992-02-21 | 1992-02-21 |
+| Odluka o izmjenama i dopunama Odluke o plaćanju posebne takse na uvezenu robu u 1991. i 1992. godini | [`odluka/1992/200/`](odluka/1992/200/) | amending act | 1 | 1992-02-21 | 1992-02-21 |
 | Odluka o izmjenama i dopunama Odluke o određivanju robe na koju se plaća posebna pristojba za izravnanje poreznog opterećenja uvezene robe u 1991. i 1992. godini | [`odluka/1992/201/`](odluka/1992/201/) | amending act | 1 | 1992-02-21 | 1992-02-21 |
 | Odluka o prestanku važenju Odluke o načinu formiranja cijena proizvoda iz uvoza | [`odluka/1992/202/`](odluka/1992/202/) | in force | 1 | 1992-02-21 | 1992-02-21 |
+| Odluka o izmjeni Odluke o obveznoj rezervi banaka kod Narodne banke Hrvatske | [`odluka/1992/207/`](odluka/1992/207/) | amended, not consolidated | 1 | 1992-02-21 | 1992-02-21 |
+| Odluka o suglasnosti na povećanje cijena električne energije | [`odluka/1992/211/`](odluka/1992/211/) | replaced, not consolidated | 1 | 1992-02-28 | 1992-02-28 |
+| Odluka o izmjeni Odluke o načinu održavanja minimalne likvidnosti banaka | [`odluka/1992/214/`](odluka/1992/214/) | in force | 1 | 1992-02-28 | 1992-02-28 |
+| Odluka o troškovima u postupku pred Stalnim izbranim sudištem pri Hrvatskoj gospodarskoj komori | [`odluka/1992/215/`](odluka/1992/215/) | repealed, not consolidated | 1 | 1992-03-07 | 1992-03-07 |
+| Odluka o naknadi troškova i nagradi arbitrima i drugim osobama u postupku pred Stalnim izbranim sudištem pri Hrvatskoj gospodarskoj komori | [`odluka/1992/216/`](odluka/1992/216/) | repealed, not consolidated | 1 | 1992-03-07 | 1992-03-07 |
 | Odluka o uskIadivanju mirovina od 1. studenoga 1991. i od 1. prosinca 1991. i o najvišoj starosnoj i invaIidskoj mirovini | [`odluka/1992/219/`](odluka/1992/219/) | in force | 1 | 1992-03-07 | 1992-03-07 |
 | Odluka o granićnoj svoti najnižega mirovinskog primanja o d 1. studenoga 1991. i od I. prosinca 1991. | [`odluka/1992/220/`](odluka/1992/220/) | in force | 1 | 1992-03-07 | 1992-03-07 |
 | Odluka o visini minlmalne mirovine od 1. studenoga 1991. i od 1. prosinca 1991. | [`odluka/1992/221/`](odluka/1992/221/) | in force | 1 | 1992-03-07 | 1992-03-07 |
 | Odluka o usklađivanju naknada osobnoga dohotka u svezi s pravom na prekvalifikaciju ili dokvalifikaciju i naknada osobnoga dohotka u svezi s pravom na zaposlenje od 1. studenoga 1991. i od 1. prosinca | [`odluka/1992/222/`](odluka/1992/222/) | in force | 1 | 1992-03-07 | 1992-03-07 |
+| Odluka o usklađivanju novčanih naknada za tjelesno oštećenje od 1. studenoga 1991. i od 1. prosinca 1991. | [`odluka/1992/223/`](odluka/1992/223/) | cited later, not consolidated | 1 | 1992-03-07 | 1992-03-07 |
+| Odluka o usklađivanju doplatka za pomoć i njegu od 1. studenoga 1991. i od 1. prosinca 1991. | [`odluka/1992/224/`](odluka/1992/224/) | amended, not consolidated | 1 | 1992-03-07 | 1992-03-07 |
 | Odluka o uskladivanju mirovina od 1. studenoga 1991. i od 1. prosinca 1991. | [`odluka/1992/225/`](odluka/1992/225/) | in force | 1 | 1992-03-07 | 1992-03-07 |
+| Odluka o graničnoj svoti najnižega mirovinskog primanja od 1. studenoga 1991. i od 1. prosinca 1991. | [`odluka/1992/226/`](odluka/1992/226/) | amended, not consolidated | 1 | 1992-03-07 | 1992-03-07 |
+| Odluka o usklađivanju naknada osobnoga dohotka u svezi s pravom na prekvalifikaciju ili dokvalifikaciju od 1. studenoga 1991. i od 1. prosinca 1991. | [`odluka/1992/227/`](odluka/1992/227/) | cited later, not consolidated | 1 | 1992-03-07 | 1992-03-07 |
+| Odluka o usklađivanju novčanih naknada za tjelesno oštećenje od 1. studenoga 1991. i od l. prosinca 1991. | [`odluka/1992/228/`](odluka/1992/228/) | in force | 1 | 1992-03-07 | 1992-03-07 |
+| Odluka o usklađivanju doplatka za pomoć i njegu od 1. studenoga 1991. i od 1. prosinca 1991. | [`odluka/1992/229/`](odluka/1992/229/) | amended, not consolidated | 1 | 1992-03-07 | 1992-03-07 |
+| Odluka o osnovicama osiguranja samostalnih privrednika za obračunavanje i plaćanje doprinosa i za ostvarivanje prava iz mirovinskog i invalidskog osiguranja | [`odluka/1992/230/`](odluka/1992/230/) | cited later, not consolidated | 1 | 1992-03-07 | 1992-03-07 |
+| Odluka o izmjeni i dopuni Liste lijekova koji se mogu propisivati osiguranicima Republičkog fonda zdravstvenog osiguranja i zdravstva Hrvatske | [`odluka/1992/234/`](odluka/1992/234/) | amending act | 1 | 1992-02-13 | 1992-02-13 |
 | Odluka o izmjeni Odluke o obveznicima, osnovicama i visini sredstava za zdravstvenu zaštitu i druga prava iz zdravstvenog osiguranja za 1991. godinu | [`odluka/1992/235/`](odluka/1992/235/) | in force | 1 | 1992-02-28 | 1992-02-28 |
 | Odluka o osnivanju Fonda za obnovu spomenika kulture Hrvatske | [`odluka/1992/238/`](odluka/1992/238/) | in force | 1 | 1992-03-03 | 1992-03-03 |
+| Odluka o načinu formiranja cijena određenih prehrambenih proizvoda u prometu na veliko odnosno na malo | [`odluka/1992/239/`](odluka/1992/239/) | amended, not consolidated | 1 | 1992-03-03 | 1992-03-03 |
+| Odluka o suglasnosti na povećanje cijena prijevoza putnika i stvari u željezničkom prometu | [`odluka/1992/240/`](odluka/1992/240/) | replaced, not consolidated | 1 | 1992-03-03 | 1992-03-03 |
+| Odluka o suglasnosti na povećanje prodajnih cijena naftnih derivata | [`odluka/1992/242/`](odluka/1992/242/) | replaced, not consolidated | 1 | 1992-03-03 | 1992-03-03 |
+| Odluka o izmjeni Odluke o visini naknade za javne ceste | [`odluka/1992/243/`](odluka/1992/243/) | in force | 1 | 1992-03-03 | 1992-03-03 |
+| Odluka o visini naknade za vađenje pijeska, šljunka i kamena u 1992. godini | [`odluka/1992/250/`](odluka/1992/250/) | amended, not consolidated | 1 | 1992-03-03 | 1992-03-03 |
 | Odluka o visini posebne takse koja se naplačuje pri izdavanju odobrenja za otvaranje igračnice | [`odluka/1992/258/`](odluka/1992/258/) | in force | 1 | 1992-03-14 | 1992-03-14 |
 | Odluka o visini posebne takse koja se naplačuje pri izdavanju odobrenja za otvaranje automat-kluba | [`odluka/1992/259/`](odluka/1992/259/) | in force | 1 | 1992-03-14 | 1992-03-14 |
 | Odluka o visini posebne takse koja se naplačuje pri izdavanju odobrenja za jednokratno organiziranje prigodne lutrije, tombole ili klađenja na sportskim priredbama i robno-novčane lutrije, koji se org | [`odluka/1992/260/`](odluka/1992/260/) | in force | 1 | 1992-03-14 | 1992-03-14 |
 | Odluka o izuzimanju nekretnine od zabrane prijenosa prava raspolaganja u k. o. Samobor | [`odluka/1992/261/`](odluka/1992/261/) | in force | 1 | 1992-03-06 | 1992-03-06 |
 | Odluka o izuzimanju nekretnina od zabrane prijenosa prava raspolaganja i korištenja u k.o. Trnje - Zagreb | [`odluka/1992/262/`](odluka/1992/262/) | in force | 1 | 1992-03-06 | 1992-03-06 |
 | Odluka o izuzimanju od zabrane prijenosa prava raspolaganja i korištenja nekretnina u k.o. Križevci | [`odluka/1992/263/`](odluka/1992/263/) | in force | 1 | 1992-03-06 | 1992-03-06 |
+| Odluka o visini posebne takse koja se naplaćuje pri izdavanju odobrenja za otvaranje zabavnog kluba | [`odluka/1992/264/`](odluka/1992/264/) | repealed, not consolidated | 1 | 1992-03-14 | 1992-03-14 |
+| Odluka o visini posebne takse koja se naplaćuje za postavljanje automata za igre na sreću s jednostrukim ulogom i automata za zabavne igre u ugostiteljskim objektima | [`odluka/1992/265/`](odluka/1992/265/) | repealed, not consolidated | 1 | 1992-03-14 | 1992-03-14 |
+| Odluka o utvrdivanju tečaja hrvatskog dinara prema stranim valutama | [`odluka/1992/268/`](odluka/1992/268/) | replaced, not consolidated | 1 | 1992-03-06 | 1992-03-06 |
+| Odluka o načinu obračuna, naplate i plaćanja aktivnih i pasivnih kamata, te naknada Narodne banke Hrvatske | [`odluka/1992/269/`](odluka/1992/269/) | repealed, not consolidated | 1 | 1992-03-06 | 1992-03-06 |
+| Odluka o osnovama za uspostavljanje ugovornog odnosa sa subjektima provođenja zdravstvene zaštite u 1992. godini | [`odluka/1992/283/`](odluka/1992/283/) | amended, not consolidated | 1 | 1992-03-21 | 1992-03-21 |
 | Odluka o izmjeni i dopuni Cjenika zdravstvenih usluga za 1991. godinu | [`odluka/1992/284/`](odluka/1992/284/) | amending act | 1 | 1992-03-21 | 1992-03-21 |
 | Odluka o prestanku važenja Odluke o kriznim štabovima | [`odluka/1992/286/`](odluka/1992/286/) | in force | 1 | 1992-03-20 | 1992-03-20 |
 | Odluka o osnivanju Ambasade Republike Hrvatske u Canbrrri, Australija | [`odluka/1992/289/`](odluka/1992/289/) | in force | 1 | 1992-03-11 | 1992-03-11 |
@@ -2600,51 +2644,88 @@
 | Odluka o osnivanju Javnoga poduzeća Uprava nacionalnoga parka "Mljet" | [`odluka/1992/308/`](odluka/1992/308/) | in force | 1 | 1992-03-20 | 1992-03-20 |
 | Odluka o izuzimanju od zabrane raspolaganja nekretninom na teritoriju Republike Hrvatske, u Splitu | [`odluka/1992/310/`](odluka/1992/310/) | in force | 1 | 1992-03-20 | 1992-03-20 |
 | Odluka o utvrđivanju općeg interesa za izgradnju - rekonstrukciju magistralne ceste MC-29 od Posedarja do Paga | [`odluka/1992/311/`](odluka/1992/311/) | in force | 1 | 1992-03-28 | 1992-03-28 |
+| Odluka o suglasnosti na povećanje cijena električne energije | [`odluka/1992/312/`](odluka/1992/312/) | replaced, not consolidated | 1 | 1992-03-20 | 1992-03-20 |
+| Odluka o suglasnosti na cijene pisama i dopisnica u unutarnjem poštanskom prometu | [`odluka/1992/313/`](odluka/1992/313/) | replaced, not consolidated | 1 | 1992-03-20 | 1992-03-20 |
+| Odluka o suglasnosti na povećanje cijena prirodnog plina | [`odluka/1992/314/`](odluka/1992/314/) | replaced, not consolidated | 1 | 1992-03-20 | 1992-03-20 |
 | Odluka o danu i trenutku prelaza na ljetno računanje vremena te danu i trenutku povratka na srednjoevropsko zonsko vrijeme u 1992. godini | [`odluka/1992/315/`](odluka/1992/315/) | in force | 1 | 1992-03-20 | 1992-03-20 |
+| Odluka o provedbi Zakona o preuzimanju saveznog zakona iz oblasti mirovinskog i invalidskog osiguranja vojnih osiguranika koji se u Republici Hrvatskoj primjenjuje kao republički zakon | [`odluka/1992/323/`](odluka/1992/323/) | cited later, not consolidated | 1 | 1992-03-25 | 1992-03-25 |
 | Odluka o utvrđivanju općeg interesa za izgradnju cestovnog prometnog čvora "Čavle" | [`odluka/1992/324/`](odluka/1992/324/) | in force | 1 | 1992-04-02 | 1992-04-02 |
+| Odluka o Popisu dijagnostičkih i terapijskih postupaka u zdravstvenim djelatnostima | [`odluka/1992/335/`](odluka/1992/335/) | amended, not consolidated | 1 | 1992-03-25 | 1992-03-25 |
 | Odluka o stopi doprinosa Savezu udruženja samostalnih privrednika Hrvatske za 1992. godinu | [`odluka/1992/337/`](odluka/1992/337/) | in force | 1 | 1992-03-25 | 1992-03-25 |
 | Odluka o izmjenama Odluke o usklađivanju mirovina od 1. studenoga 1991. i od l. prosinca 1991. i o najvišoj starosnoj i invalidskoj mirovini | [`odluka/1992/342/`](odluka/1992/342/) | in force | 1 | 1992-04-03 | 1992-04-03 |
 | Odluka o izmjenama Odluke o graničnoj svoti najnižeg mirovinskog primanja od 1. studenoga 1991. I od 1. prosinca 1991. | [`odluka/1992/343/`](odluka/1992/343/) | in force | 1 | 1992-04-03 | 1992-04-03 |
 | Odluka o izmjenama Odluke o visini minimalne mirovine od 1. studenoga 1991. i od 1. prosinca 1991. | [`odluka/1992/344/`](odluka/1992/344/) | in force | 1 | 1992-04-03 | 1992-04-03 |
 | Odluka o usklađivanju naknada osobnoga dohotka u svezi s pravom na prekvalifikaciju ili dokvalifikaciju i naknada osobnoga dohotka u svezi s pravom na zaposlenje od 1. prosinca 1991. | [`odluka/1992/345/`](odluka/1992/345/) | in force | 1 | 1992-04-03 | 1992-04-03 |
+| Odluka o izmjenama Odluke o usklađivanju doplatka za pomoć i njegu od 1. studenoga 1991. i od 1. prosinca 1991. | [`odluka/1992/346/`](odluka/1992/346/) | in force | 1 | 1992-04-03 | 1992-04-03 |
+| Odluka o usklađivanju novčanih naknada za tjelesno oštećenje od 1. prosinca 1991. | [`odluka/1992/347/`](odluka/1992/347/) | replaced, not consolidated | 1 | 1992-04-03 | 1992-04-03 |
 | Odluka o usklađivanju mirovina od 1. siječnja 1992. i o najvišoj starosnoj i invalidskoj mirovini | [`odluka/1992/348/`](odluka/1992/348/) | in force | 1 | 1992-04-03 | 1992-04-03 |
+| Odluka o graničnoj svoti najnižega mirovinskog primanja od 1. siječnja 1992. | [`odluka/1992/349/`](odluka/1992/349/) | replaced, not consolidated | 1 | 1992-04-03 | 1992-04-03 |
 | Odluka o visini minimalne mirovine od l. siječnja 1992. | [`odluka/1992/350/`](odluka/1992/350/) | in force | 1 | 1992-04-03 | 1992-04-03 |
 | Odluka o usklađivanju naknada osobnoga dohotka u svezi s pravom na prekvalifikaciju ili dokvalifikaciju I naknada osobnoga dohotka u svezi s pravom na zaposlenje od 1. siječnja 1992. | [`odluka/1992/351/`](odluka/1992/351/) | in force | 1 | 1992-04-03 | 1992-04-03 |
 | Odluka o usklađivanju doplatka za pomoć i njegu od l. siječnja 1992. | [`odluka/1992/352/`](odluka/1992/352/) | in force | 1 | 1992-04-03 | 1992-04-03 |
 | Odluka o osnovici za određivanje novčanih naknada za tjelesno oštećenje i usklađivanju novčanih naknada za tjelesno oštećenje od l. siječnja 1992. | [`odluka/1992/353/`](odluka/1992/353/) | in force | 1 | 1992-04-03 | 1992-04-03 |
+| Odluka o valorizacijskim koeficijentima za preračunavanje osobnih dohodaka iz prijašnjih godina prema razini osobnih dohodaka iz godine 1991. | [`odluka/1992/354/`](odluka/1992/354/) | amended, not consolidated | 1 | 1992-04-03 | 1992-04-03 |
 | Odluka o valorizacijskim koeficijentima za preračunavanje osobnih dohodaka iz prijašnjih godina prema razini osobnih dohodaka iz godine 1991. radi određivanja naknade osobnog dohotka zbog manjeg osob | [`odluka/1992/355/`](odluka/1992/355/) | in force | 1 | 1992-04-03 | 1992-04-03 |
 | Odluka o najnižoj svoti naknade osobnoga dohotka u svezi s pravom na prekvalifikaciju ili dokvalifikaciju i naknade osobnoga dohotka u svezi s pravom na zaposlenje od 1. siječnja 1992. | [`odluka/1992/356/`](odluka/1992/356/) | in force | 1 | 1992-04-03 | 1992-04-03 |
 | Odluka o naknadi, za troškove smještaja i prehrane za vrijeme prekvalifikacije ili dokvalifikacije izvan mjesta prebivališta korisnika u godini 1992. | [`odluka/1992/357/`](odluka/1992/357/) | in force | 1 | 1992-04-03 | 1992-04-03 |
+| Odluka o visini prihoda kućanstva korisnika mirovine o kojima ovisi stjecanje prava na zaštitni dodatak uz mirovinu u godini 1992. | [`odluka/1992/358/`](odluka/1992/358/) | replaced, not consolidated | 1 | 1992-04-03 | 1992-04-03 |
+| Odluka o uvjetima pod kojima se smatra da je osiguranik uzdržavao članove obitelji, kao i o uvjetima prestanka prava na obiteljsku mirovinu uslijed nastale promjene u imovnom stanju odnosno prihoda u | [`odluka/1992/359/`](odluka/1992/359/) | in force | 1 | 1992-04-03 | 1992-04-03 |
+| Odluka o visini mirovinske osnovice za određivanje invalidske mirovine osobama osiguranim pod određenim okolnostima i osobama koje se nakon završnog školovanja nalaze na obveznom praktičnom radu ili | [`odluka/1992/361/`](odluka/1992/361/) | in force | 1 | 1992-04-03 | 1992-04-03 |
 | Odluka o visini mirovinske osnovice za određivanje invalidske mirovine osobama osiguranim pod određenim okolnostima u godini 1992. | [`odluka/1992/362/`](odluka/1992/362/) | in force | 1 | 1992-04-03 | 1992-04-03 |
 | Odluka o osnovicama osiguranja koje se uzimaju za obračunavanje i pIaćanje doprinosa i za određivanje prava iz mirovinskog i invalidskog osiguranja za osobe koje osobnim radom samostalno u obliku zan | [`odluka/1992/363/`](odluka/1992/363/) | in force | 1 | 1992-04-03 | 1992-04-03 |
 | Odluka o osnovicama za obračunavanje i plaćanje doprinosa i za određivanje prava iz mirovinskog i invalidskog osiguranja osiguranika zaposlenih u inozemstvu za godinu 1992. | [`odluka/1992/364/`](odluka/1992/364/) | in force | 1 | 1992-04-03 | 1992-04-03 |
 | Odluka o osnovicama osiguranja koje se uzimaju za obračunavanje i plaćanje doprinosa i za određivanje prava iz mirovinskog i invalidskog osiguranja za osiguranike koji su na teritoriju Republike zapo | [`odluka/1992/365/`](odluka/1992/365/) | in force | 1 | 1992-04-03 | 1992-04-03 |
 | Odluka o osnovicama osiguranja koje se uzimaju za obračunavanje i plaćanje doprinosa i za određivanje prava iz mirovinskog i invalidskog osiguranja za osobe koje se nakon završenog obrazovanja nalaze | [`odluka/1992/366/`](odluka/1992/366/) | in force | 1 | 1992-04-03 | 1992-04-03 |
+| Odluka o osnovici i načinu plaćanja doprinosa za produženo mirovinsko i invalidsko osiguranje | [`odluka/1992/367/`](odluka/1992/367/) | repealed, not consolidated | 1 | 1992-04-03 | 1992-04-03 |
+| Odluka o osnovicama za određivanje prava i za obračunavanje i plaćanje doprinosa za mirovinsko i invalidsko osiguranje za osiguranike privremeno izvan radnog odnosa za godinu 1992. | [`odluka/1992/369/`](odluka/1992/369/) | cited later, not consolidated | 1 | 1992-04-03 | 1992-04-03 |
+| Odluka o osnovici za obračunavanje I plaćanje doprinosa za mirovinsko i invalidsko osiguranje za osiguranike na neplaćenom dopustu, pod suspenzijom, u istražnom zatvoru i na izdržavanju kazne zatvora | [`odluka/1992/370/`](odluka/1992/370/) | replaced, not consolidated | 1 | 1992-04-03 | 1992-04-03 |
 | Odluka o usklađivanju doplatka za djecu i cenzusa prihoda kao uvjeta za stjecanje prava na doplatak za.djecu u godini 1992. | [`odluka/1992/371/`](odluka/1992/371/) | in force | 1 | 1992-03-27 | 1992-03-27 |
+| Odluka o izmjenama i dopunama Odluke o utvrđivanju poslova odnosno radnih zadataka na kojima se staž osiguranja računa s povećanim trajanjem | [`odluka/1992/372/`](odluka/1992/372/) | amending act | 1 | 1992-04-03 | 1992-04-03 |
 | Odluka o usklađivanju mirovina individualnih poljoprivrednika od 1. siječnja 1992. | [`odluka/1992/373/`](odluka/1992/373/) | in force | 1 | 1992-04-03 | 1992-04-03 |
 | Odluka o osnovicama osiguranja koje se uzimaju za obračunavanje i plaćanje doprinosa i za određivanje prava iz mirovinskog i invalidskog osiguranja individualnih poljoprivrednika od 1. siječnja 1992. | [`odluka/1992/374/`](odluka/1992/374/) | in force | 1 | 1992-04-03 | 1992-04-03 |
 | Odluka o određivanju zajamčene najniže svote koja se isplaćuje korisniku mirovine u godini 1992. | [`odluka/1992/375/`](odluka/1992/375/) | in force | 1 | 1992-04-03 | 1992-04-03 |
+| Odluka o valorizacijskim koeficijentima za preračunavanje osobnih dohodaka iz prijašnjih godina prema razini osnovica osiguranja iz godine 1992. | [`odluka/1992/376/`](odluka/1992/376/) | in force | 1 | 1992-04-03 | 1992-04-03 |
 | Odluka o graničnoj svoti najnižega mirovinskog primanja radi određivanja zaštitnog dodatka uz mirovinu u godini 1992. | [`odluka/1992/377/`](odluka/1992/377/) | in force | 1 | 1992-04-03 | 1992-04-03 |
+| Odluka o visini prihoda kućanstva korisnika mirovine o kojima ovisi stjecanje prava na zaštitni dodatak uz mirovinu u godini 1992. | [`odluka/1992/378/`](odluka/1992/378/) | replaced, not consolidated | 1 | 1992-04-03 | 1992-04-03 |
 | Odluka o visini minimalne mirovine u godini 1992. | [`odluka/1992/379/`](odluka/1992/379/) | in force | 1 | 1992-04-03 | 1992-04-03 |
 | Odluka o visini doplatka za pomoć i njegu u godini 1992. | [`odluka/1992/380/`](odluka/1992/380/) | in force | 1 | 1992-04-03 | 1992-04-03 |
 | Odluka o određivanju osnovice za utvrđivanje novčane naknade za tjelesno oštećenje u godini 1992. | [`odluka/1992/381/`](odluka/1992/381/) | in force | 1 | 1992-04-03 | 1992-04-03 |
 | Odluka o uvjetima pod kojima se smatra da je osiguranik uzdržavao člana obitelji i o uvjetima prestanka prava na mirovinu uslijed nastale promjene u imovnom stanju, odnosno prihodima, u godini 1992. | [`odluka/1992/382/`](odluka/1992/382/) | in force | 1 | 1992-04-03 | 1992-04-03 |
+| Odluka o usklađivanju mirovina od 1. prosinca 1991 | [`odluka/1992/383/`](odluka/1992/383/) | in force | 1 | 1992-04-03 | 1992-04-03 |
 | Odluka o izmjeni Odluke o graničnoj svoti najnižeg mirovinskog primanja od 1. studenoga 1991. i od 1. prosinca 1991. | [`odluka/1992/384/`](odluka/1992/384/) | in force | 1 | 1992-04-03 | 1992-04-03 |
+| Odluka o izmjenama Odluke o usklađivanju doplatka za pomoć i njegu od 1. studenoga 1991. i od 1. prosinca 1991. | [`odluka/1992/386/`](odluka/1992/386/) | in force | 1 | 1992-04-03 | 1992-04-03 |
+| Odluka o usklađivanju novčanih naknada za tjelesno oštećenje od 1. prosinca 1991. | [`odluka/1992/387/`](odluka/1992/387/) | replaced, not consolidated | 1 | 1992-04-03 | 1992-04-03 |
 | Odluka o usklađivanju mirovina od 1. siječnja 1992. | [`odluka/1992/388/`](odluka/1992/388/) | in force | 1 | 1992-04-03 | 1992-04-03 |
+| Odluka o graničnoj svoti najnižega mirovinskog primanja od 1. siječnja 1992. | [`odluka/1992/389/`](odluka/1992/389/) | replaced, not consolidated | 1 | 1992-04-03 | 1992-04-03 |
 | Odluka o uskladivanju naknada osobnoga dohotka u svezi s pravom na prekvalifikacijn ili dokvalifikaciju od 1. siječnja 1992. | [`odluka/1992/390/`](odluka/1992/390/) | in force | 1 | 1992-04-03 | 1992-04-03 |
 | Odluka o usklađivanju doplatka za pomoć i njegu od 1. siječnja 1992. | [`odluka/1992/391/`](odluka/1992/391/) | in force | 1 | 1992-04-03 | 1992-04-03 |
 | Odluka o osnovici za određivanje novčanih naknada za tjelesno oštećenje i usklađlvanje novčanih naknada za tjelesno oštećenje od 1. siječnja 1992. | [`odluka/1992/392/`](odluka/1992/392/) | in force | 1 | 1992-04-03 | 1992-04-03 |
+| Odluka o valorizacijskim koeficijentima za preračunavanje osnovica osiguranja i osobnih dohodaka iz prijašnjih godina prema razini osobnih dohodaka iz godine 1991. | [`odluka/1992/393/`](odluka/1992/393/) | amended, not consolidated | 1 | 1992-04-03 | 1992-04-03 |
 | Odluka o izmjeni Odluke o novčanoj naknadi udovici osiguranika koja nije stekla pravo na porodičnu mirovinu | [`odluka/1992/395/`](odluka/1992/395/) | in force | 1 | 1992-04-03 | 1992-04-03 |
+| Odluka o izmjeni Odluke o naknadi dijela troškova za smještaj djece ometene u psihičkom ili fizičkom razvoju u organizacijama internatskog tipa | [`odluka/1992/396/`](odluka/1992/396/) | in force | 1 | 1992-04-03 | 1992-04-03 |
+| Odluka o izmjeni Odluke o otpremnini bračnom drugu | [`odluka/1992/397/`](odluka/1992/397/) | in force | 1 | 1992-04-03 | 1992-04-03 |
+| Odluka o izmjeni Odluke o naknadi putnih troškova u svezi s , ostvarivanjem prava iz mirovinskog i invalidskog osiguranja | [`odluka/1992/398/`](odluka/1992/398/) | in force | 1 | 1992-04-03 | 1992-04-03 |
 | Odluka o visini prihoda domaćinstva korisnika mirovine o kojima ovisi stjecanje prava na zaštitni dodatak uz mirovinu u godini. 1992. | [`odluka/1992/399/`](odluka/1992/399/) | in force | 1 | 1992-04-03 | 1992-04-03 |
 | Odluka o općoj eskontnoj stopi Narodne banke Hrvatske | [`odluka/1992/410/`](odluka/1992/410/) | in force | 1 | 1992-03-31 | 1992-03-31 |
 | Odluka o načinu i uvjetima korištenja kredita iz primarne emisije u II. tromjesečju 1992. godine | [`odluka/1992/411/`](odluka/1992/411/) | in force | 1 | 1992-03-31 | 1992-03-31 |
+| Odluka o visini reeskontnih kvota za korištenje kredita iz primarne emisije u II. tromjesečju 1992. godine | [`odluka/1992/412/`](odluka/1992/412/) | amended, not consolidated | 1 | 1992-03-31 | 1992-03-31 |
+| Odluka o načinu utvrđivanja kvota za odobravanje reeskontnih kredita bankama | [`odluka/1992/413/`](odluka/1992/413/) | in force | 1 | 1992-03-31 | 1992-03-31 |
 | Odluka o odobravanju reeskontnih kredita bankama u II. tromjesečju 1992. za refinanciranje posebnih kredita banaka odobrenih građanima i drugim osobama za popravak stambenih i gospodarskih objekata os | [`odluka/1992/414/`](odluka/1992/414/) | in force | 1 | 1992-03-31 | 1992-03-31 |
 | Odluka o odobravanju reeskontnih kredita bankama u II. tromjesečju 1992. za refinanciranje posebnih kredita banaka odobrenih individualnim poljoprivrednim proizvođačima za povećanje osnovnog stada u s | [`odluka/1992/415/`](odluka/1992/415/) | in force | 1 | 1992-03-31 | 1992-03-31 |
+| Odluka o načinu i uvjetima odobravanja kredita bankama za održavanje dnevne likvidnosti | [`odluka/1992/416/`](odluka/1992/416/) | replaced, not consolidated | 1 | 1992-03-31 | 1992-03-31 |
 | Odluka o izmjeni i dopuni Odluke o kamatnim stopama i stopama naknade Narodne banke Hrvatske | [`odluka/1992/417/`](odluka/1992/417/) | amending act | 1 | 1992-03-31 | 1992-03-31 |
 | Odluka o obvezi ovlaštenih banaka da drže određeni iznos u devizama kao minimalnu rezervu za održavanje likvidnosti u plaćanju prema inozemstvu u 1992. godini | [`odluka/1992/418/`](odluka/1992/418/) | in force | 1 | 1992-03-31 | 1992-03-31 |
+| Odluka o izmjeni Odluke o izdavanju blagajničkih zapisa Narodne banke Hrvatske | [`odluka/1992/419/`](odluka/1992/419/) | in force | 1 | 1992-03-31 | 1992-03-31 |
+| Odluka o prodaji bankama blagajničkih zapisa Narodne banke Hrvatske | [`odluka/1992/420/`](odluka/1992/420/) | amended, not consolidated | 1 | 1992-03-31 | 1992-03-31 |
+| Odluka o utvrđivanju visine minimalnog iznosa osnivačkog fonda banke u osnivanju | [`odluka/1992/421/`](odluka/1992/421/) | replaced, not consolidated | 1 | 1992-03-31 | 1992-03-31 |
 | Odluka o rspolaganju i korištenju zdravstvenih objekata JNA | [`odluka/1992/450/`](odluka/1992/450/) | in force | 1 | 1992-04-02 | 1992-04-02 |
 | Odluka o utvrdivanju ukupne vrijednosti izvoza i uvoza za sajamsko kompenzacijske poslove u 1992. godini | [`odluka/1992/451/`](odluka/1992/451/) | in force | 1 | 1992-04-02 | 1992-04-02 |
+| Odluka o zaštitnoj cijeni sirovog duhana roda 1992. godine | [`odluka/1992/452/`](odluka/1992/452/) | amended, not consolidated | 1 | 1992-04-02 | 1992-04-02 |
+| Odluka o zaštitnoj cijeni šećerne repe roda 1992. godine | [`odluka/1992/453/`](odluka/1992/453/) | amended, not consolidated | 1 | 1992-04-02 | 1992-04-02 |
+| Odluka o zaštitnoj cijeni kukuruza roda 1992. godine | [`odluka/1992/454/`](odluka/1992/454/) | amended, not consolidated | 1 | 1992-04-02 | 1992-04-02 |
+| Odluka o zaštitnim cijenama suncokreta i soje roda 1992. godine | [`odluka/1992/455/`](odluka/1992/455/) | amended, not consolidated | 1 | 1992-04-02 | 1992-04-02 |
 | Odluka o izmjenama i dopunama Odluke o visini naknade za korištenje voda | [`odluka/1992/456/`](odluka/1992/456/) | amending act | 1 | 1992-04-02 | 1992-04-02 |
+| Odluka o izmjenama Odluke o visini naknade za zaštitu voda | [`odluka/1992/457/`](odluka/1992/457/) | in force | 1 | 1992-04-02 | 1992-04-02 |
 | Odluka o izmjenama i dopunama Odluke o plaćanju posebne takse na uvezenu robu u 1991. i 1992. godini | [`odluka/1992/458/`](odluka/1992/458/) | amending act | 1 | 1992-04-02 | 1992-04-02 |
 | Odluka o izmjenama i dopunama Odluke o određivanju robe na koju se plaća posebna pristojba za izravnanje poreznog opterečenja uvezene robe u 1991. i 1992, godini | [`odluka/1992/459/`](odluka/1992/459/) | amending act | 1 | 1992-04-02 | 1992-04-02 |
 | Odluka o izmjeni Odluke o uvodenju hrvatskog dinara kao sredstva plaćanja na teritoriju Republike Hrvatske | [`odluka/1992/460/`](odluka/1992/460/) | in force | 1 | 1992-04-02 | 1992-04-02 |
@@ -2652,129 +2733,220 @@
 | Odluka o izuzimanju od zabrane raspolaganja nekretnine u Umagu | [`odluka/1992/465/`](odluka/1992/465/) | in force | 1 | 1992-04-08 | 1992-04-08 |
 | Odluka o dopuni Statuta Republičkog fonda mirovinskog i invalidskog osiguranja radnika Hrvatske | [`odluka/1992/484/`](odluka/1992/484/) | amending act | 1 | 1992-04-17 | 1992-04-17 |
 | Odluka o dopuni Statuta Republičkog fonda mirovinskog i invalidskog osiguranja individualnih poljoprivrednika Hrvatske | [`odluka/1992/485/`](odluka/1992/485/) | amending act | 1 | 1992-04-17 | 1992-04-17 |
+| Odluka o dopuni Statuta Republičkog fonda mirovinskog i invalidskog osiguranja samostalnih privrednika Hrvatske | [`odluka/1992/486/`](odluka/1992/486/) | amending act | 1 | 1992-04-17 | 1992-04-17 |
 | Zakon o iznijeni Odluke o donošenju Prostornog plana Nacionalnog parka "Krka" | [`odluka/1992/499/`](odluka/1992/499/) | in force | 1 | 1992-04-25 | 1992-04-25 |
 | Odluka o izmjenama i dopunama Odluke o utvrđivanju koeficijenta za obračun osobnih dohodaka funkcionara koje bira ili imenuje Sabor Republike Hrvatske, Vlada Republike Hrvatske i Ustavni sud Republike | [`odluka/1992/500/`](odluka/1992/500/) | amending act | 1 | 1992-04-17 | 1992-04-17 |
 | Odluka osnivanju Ambasade Republike Hrvatske u Bruxellesu, Kraljevina Belgija | [`odluka/1992/507/`](odluka/1992/507/) | in force | 1 | 1992-04-13 | 1992-04-13 |
+| Odluka o osnivanju poduzeća "Remontno brodogradilište Šibenik" | [`odluka/1992/510/`](odluka/1992/510/) | amended, not consolidated | 1 | 1992-04-08 | 1992-04-08 |
+| Odluka o utvrđivanju i rasporedu sredstava u vlasništvo Republike Hrvatske objekta "Nabrđe" i objekta " Križevaćki Lemeši" | [`odluka/1992/512/`](odluka/1992/512/) | amended, not consolidated | 1 | 1992-04-17 | 1992-04-17 |
 | Odluka o poduzimanju posebnih mjera u općini Gračac | [`odluka/1992/539/`](odluka/1992/539/) | in force | 1 | 1992-04-21 | 1992-04-21 |
 | Odluka o osnivanju poduzeća "Pomorski centar za elektroniku" - Split | [`odluka/1992/541/`](odluka/1992/541/) | in force | 1 | 1992-04-17 | 1992-04-17 |
+| Odluka o suglasnosti na povećanje cijene telefonskog impulsa | [`odluka/1992/544/`](odluka/1992/544/) | replaced, not consolidated | 1 | 1992-04-21 | 1992-04-21 |
 | Odluka o izmjeni Odluke o načinu formiranja cijena pšenićnog brašna, krupice i kruha | [`odluka/1992/545/`](odluka/1992/545/) | in force | 1 | 1992-04-21 | 1992-04-21 |
+| Odluka o visini doprinosa u korist Hrvatskog Crvenog križa | [`odluka/1992/546/`](odluka/1992/546/) | replaced, not consolidated | 1 | 1992-04-21 | 1992-04-21 |
+| Odluka o visini dnevnice za službeno putovanje i visini naknada za korisnike koji se financiraju iz sredstava Državnog proračuna | [`odluka/1992/547/`](odluka/1992/547/) | replaced, not consolidated | 1 | 1992-04-21 | 1992-04-21 |
 | Odluka o izmjenama i dopunama Odluke o visini reeskontnih kvota za korištenje kredita iz primarne emisije u II. tromjesečju 1992. godine | [`odluka/1992/551/`](odluka/1992/551/) | amending act | 1 | 1992-04-21 | 1992-04-21 |
 | Odluka o prestanku važenja Odluke o povratu carinskih, poreznih i drugih pristojbi i o drugim mjerama za poticanje izvoza | [`odluka/1992/575/`](odluka/1992/575/) | in force | 1 | 1992-04-25 | 1992-04-25 |
 | Odluka o suglasnosti na povećanje prodajnih cijena naftnih derivata | [`odluka/1992/576/`](odluka/1992/576/) | in force | 1 | 1992-04-25 | 1992-04-25 |
 | Odluka o suglašnosti na povećanje cijene električne energije | [`odluka/1992/577/`](odluka/1992/577/) | in force | 1 | 1992-04-25 | 1992-04-25 |
+| Odluka o visini naknade za javne ceste | [`odluka/1992/578/`](odluka/1992/578/) | amended, not consolidated | 1 | 1992-04-25 | 1992-04-25 |
 | Odluka o izuzimanju nekretnina u k.o. Novigrad od zabrane prijenosa prava raspolaganja | [`odluka/1992/579/`](odluka/1992/579/) | in force | 1 | 1992-04-25 | 1992-04-25 |
 | Odluka o dozvoli za oduzimanje neizgrađenog građevinskog zemljišta u k.o. Čazma iz posjeda prijašnjih vlasnika i o izuzimanju tog zemljišta od zabrane prijenosa prava korištenja | [`odluka/1992/580/`](odluka/1992/580/) | in force | 1 | 1992-04-25 | 1992-04-25 |
 | Odluka o plaćanju članskog doprinosa Hrvatskoj gospodarskoj komori u 1992. godini | [`odluka/1992/584/`](odluka/1992/584/) | in force | 1 | 1992-05-03 | 1992-05-03 |
+| Odluka o izuzimanju od zabrane raspolaganja nekretninom u Splitu u Ulici Miroslava Krleže broj 26 | [`odluka/1992/591/`](odluka/1992/591/) | amended, not consolidated | 1 | 1992-04-29 | 1992-04-29 |
 | Odluka o izuzimanju od zabrane raspolaganja nekretninom u Zagrebu u Mrazovićevoj broj 5 | [`odluka/1992/592/`](odluka/1992/592/) | in force | 1 | 1992-04-29 | 1992-04-29 |
+| Odluka o izuzimanju nekretnina u k. o. Grad Zagreb od zabrane prijenosa prava raspolaganja | [`odluka/1992/593/`](odluka/1992/593/) | replaced, not consolidated | 1 | 1992-04-29 | 1992-04-29 |
 | Odluka o izuzimanju nekretnina u k. o. Lovran od zabrane prijenosa prava raspolaganja | [`odluka/1992/594/`](odluka/1992/594/) | in force | 1 | 1992-04-29 | 1992-04-29 |
 | Odluka o izuzimanju od zabrane raspolaganja - prodaje stambeno-poslovnog objekta i zemljišta u k. o. Desinec | [`odluka/1992/595/`](odluka/1992/595/) | in force | 1 | 1992-04-24 | 1992-04-24 |
 | Odluka o visini minimalnog iznosa početnog fonda sigurnosti i ukupnog uloga u trenutku osnivanja organizacije za osiguranje | [`odluka/1992/619/`](odluka/1992/619/) | in force | 1 | 1992-05-05 | 1992-05-05 |
 | Odluka o iznosu minimalne plaće u Republici Hrvatskoj za mjesec travanj 1992. godine | [`odluka/1992/620/`](odluka/1992/620/) | in force | 1 | 1992-05-05 | 1992-05-05 |
 | Odluka o suglasnosti na promjenu cijena lijekova za humanu upotrebu | [`odluka/1992/621/`](odluka/1992/621/) | in force | 1 | 1992-05-05 | 1992-05-05 |
+| Odluka o eskontnoj stopi Narodne banke Hrvatske | [`odluka/1992/624/`](odluka/1992/624/) | replaced, not consolidated | 1 | 1992-04-30 | 1992-04-30 |
+| Odluka o prodaji dijela deviza Narodnoj banci Hrvatske po osnovi otkupljenog efektivnog stranog novca po mjenjačkim poslovima i po osnovi otkupa deviza od domaćih i stranih fizičkih osoba | [`odluka/1992/625/`](odluka/1992/625/) | cited later, not consolidated | 1 | 1992-05-05 | 1992-05-05 |
+| Odluka o načinu formiranja tečaja hrvatskog dinara u Narodnoj banci Hrvatske | [`odluka/1992/626/`](odluka/1992/626/) | repealed, not consolidated | 1 | 1992-04-30 | 1992-04-30 |
 | Odluka o minimalnim općim uvjetima kreditne sposobnosti banaka i drugih financijskih organizacija | [`odluka/1992/628/`](odluka/1992/628/) | in force | 1 | 1992-05-06 | 1992-05-06 |
+| Odluka o utvrđivanju visine minimalnog iznosa osnivačkog fonda banke u osnivanju | [`odluka/1992/630/`](odluka/1992/630/) | replaced, not consolidated | 1 | 1992-04-30 | 1992-04-30 |
 | Odluka o usklađivanju mirovina od 1. veljače 1992. i o najvišoj starosnoj i invalidskoj mirovini | [`odluka/1992/632/`](odluka/1992/632/) | in force | 1 | 1992-05-13 | 1992-05-13 |
 | Odluka o visini minimalne mirovine od 1. veljače 1992. | [`odluka/1992/634/`](odluka/1992/634/) | in force | 1 | 1992-05-13 | 1992-05-13 |
 | Odluka o usklađivanju naknada osobnoga dohotka u svezi s pravom na prekvalifikaciju ili dokvalifikaciju i naknada osobnoga dohotka u svezi s pravom na zaposlenje od 1. velječe 1992. | [`odluka/1992/635/`](odluka/1992/635/) | in force | 1 | 1992-05-13 | 1992-05-13 |
+| Odluka o usklađivanju novčanih naknada za tjelesno oštećenje od 1. veljače 1992. | [`odluka/1992/636/`](odluka/1992/636/) | replaced, not consolidated | 1 | 1992-05-13 | 1992-05-13 |
 | Odluka o usklađivanju doplatka za pomoć i njegu od 1. veljače 1992. | [`odluka/1992/637/`](odluka/1992/637/) | in force | 1 | 1992-05-13 | 1992-05-13 |
 | Odluka o usklađivanju akontacija mirovina, doplatka za pomoć i njegu i novčanih naknada za tjelesno oštećenje od 1. veljače 1992. | [`odluka/1992/638/`](odluka/1992/638/) | in force | 1 | 1992-05-13 | 1992-05-13 |
+| Odluka o naknadi putnih troškova u svezi s ostvarivanjem prava kada je osigurana osoba upućena u drugo mjesto radi ocjene radne sposobnosti | [`odluka/1992/639/`](odluka/1992/639/) | replaced, not consolidated | 1 | 1992-05-13 | 1992-05-13 |
 | Odluka o usklađivanju mirovina od 1. veljače 1992. | [`odluka/1992/640/`](odluka/1992/640/) | in force | 1 | 1992-05-13 | 1992-05-13 |
+| Odluka o graničnoj svoti najnižega mirovinskog primanja od 1. veljače 1992. | [`odluka/1992/641/`](odluka/1992/641/) | replaced, not consolidated | 1 | 1992-05-13 | 1992-05-13 |
 | Odluka o uskladivanju naknada osobnoga dohotka u svezi s pravom na prekvalifikaciju ili dokvalifikaciju od 1. veljače 1992. | [`odluka/1992/642/`](odluka/1992/642/) | in force | 1 | 1992-05-13 | 1992-05-13 |
 | Odluka o usldađivanju doplatka za pomoć i njegu od 1. veljače 1992. | [`odluka/1992/643/`](odluka/1992/643/) | in force | 1 | 1992-05-13 | 1992-05-13 |
+| Odluka o usklađivanju novčanih naknada za tjelesno oštećenje od 1. veljače 1992. | [`odluka/1992/644/`](odluka/1992/644/) | replaced, not consolidated | 1 | 1992-05-13 | 1992-05-13 |
 | Odluka o izmjenama i dopunama Odluke o osnivanju Vijeća za strategiju razvitka Hrvatske | [`odluka/1992/649/`](odluka/1992/649/) | amending act | 1 | 1992-05-03 | 1992-05-03 |
+| Odluka o osnivanju Komisije za invalide u Republici Hrvatskoj | [`odluka/1992/656/`](odluka/1992/656/) | repealed, not consolidated | 1 | 1992-05-08 | 1992-05-08 |
 | Odluka o izmjeni Odluke o naknadi troškova i nagradama sucima i drugim osobama u postupku pred Sudom časti pri Privrednoj komori Hrvatske | [`odluka/1992/668/`](odluka/1992/668/) | in force | 1 | 1992-05-16 | 1992-05-16 |
 | Odluka o suglasnosti na povećanje ajena prirodnog plina | [`odluka/1992/718/`](odluka/1992/718/) | in force | 1 | 1992-05-18 | 1992-05-18 |
 | Odluka o osnivanju Konzulata RepubIike Hrvatske u Luganu, Švicarška Konfederacija | [`odluka/1992/722/`](odluka/1992/722/) | in force | 1 | 1992-05-14 | 1992-05-14 |
+| Odluka o osnivanju Komisije Vlade Republike Hrvatske za informatizaciju državne uprave, pravosuđa i javnih djelatnosti | [`odluka/1992/734/`](odluka/1992/734/) | amended, not consolidated | 1 | 1992-05-25 | 1992-05-25 |
+| Odluka o prijenosu sredstava bivših vojnih ustanova koje su obavljale privrednu djelatnost Hrvatskom fondu za razvoj | [`odluka/1992/735/`](odluka/1992/735/) | repealed, not consolidated | 1 | 1992-06-02 | 1992-06-02 |
 | Odluka o davanju na raspolaganje i upravljanje vojnog odmarališta "13. maj" - Fažana Javnom poduzeću " Brijuni" | [`odluka/1992/736/`](odluka/1992/736/) | in force | 1 | 1992-05-25 | 1992-05-25 |
 | Odluka o izmjeni Odluke o načinu formiranja cijena pšeničnog brašna, krupice i kruha | [`odluka/1992/737/`](odluka/1992/737/) | in force | 1 | 1992-05-25 | 1992-05-25 |
 | Odluka o izmjeni Odluke o izuzimanju od zabrane raspolaganja nekretninom u Splitu u Ulici Miroslava Krleže broj 26 | [`odluka/1992/738/`](odluka/1992/738/) | in force | 1 | 1992-05-25 | 1992-05-25 |
 | Odluka o izmjeni Odluke o visini naknada za ceste što se plaćaju na cestovna motorna vozila s pogonom na plin | [`odluka/1992/743/`](odluka/1992/743/) | in force | 1 | 1992-05-26 | 1992-05-26 |
+| Odluka o osnivanju Misije Republike Hrvatske pri Organizaciji Ujedinjenih naroda, New York | [`odluka/1992/746/`](odluka/1992/746/) | amended, not consolidated | 1 | 1992-05-23 | 1992-05-23 |
+| Odluka o suglasnošti na iznos radijske i televizijske pretplate | [`odluka/1992/753/`](odluka/1992/753/) | in force | 1 | 1992-06-01 | 1992-06-01 |
 | Odluka o usklađivanju mirovina od 1. siječnja 1991. do 30. studenoga 1991. i o najvišoj starosnoj i nvalidskoj mirovini | [`odluka/1992/765/`](odluka/1992/765/) | in force | 1 | 1992-06-09 | 1992-06-09 |
+| Odluka o graničnloj svoti najnižega mirovinskog primanja od 1. sijećnja 1991. do 30. studenoga 1991. | [`odluka/1992/766/`](odluka/1992/766/) | in force | 1 | 1992-06-09 | 1992-06-09 |
 | Odluka o visini minimalne mirovine od 1. sijećnja 1991. do 30. studenoga 1991. | [`odluka/1992/767/`](odluka/1992/767/) | in force | 1 | 1992-06-09 | 1992-06-09 |
 | Odluka o usklađivanju naknada osobnoga dohotka u svezi s pravom na prekvalifikaciju ili dokvalifikaciju i naknada osobnoga dohotka u svezi s pravom na zaposlenje od 1. sijećnja 1991. do 30. studenoga | [`odluka/1992/768/`](odluka/1992/768/) | in force | 1 | 1992-06-09 | 1992-06-09 |
+| Odluka o usklađivanju doplatka za pomoć i njegu od.1. siječnja 1991. do 30. studenoga 1991. | [`odluka/1992/769/`](odluka/1992/769/) | amended, not consolidated | 1 | 1992-06-09 | 1992-06-09 |
 | Odluka o usklađivanju mirovina od 1. sijećnja 1991 do 30. studenoga 1991. | [`odluka/1992/771/`](odluka/1992/771/) | in force | 1 | 1992-06-09 | 1992-06-09 |
+| Odluka o graničnoj svoti najnižeg mirovinskog primanja od 1. sijećnja 1991. do 30. studenoga 1991. | [`odluka/1992/772/`](odluka/1992/772/) | in force | 1 | 1992-06-09 | 1992-06-09 |
+| Odluka o usklađivanju naknada osobnog dohotka u svezi s pravom na prekvalifikaciju ili dokvalifikaciju od 1. siječnja 1991. do 30. studenoga 1991. | [`odluka/1992/773/`](odluka/1992/773/) | amended, not consolidated | 1 | 1992-06-09 | 1992-06-09 |
+| Odluka o usklađivanju doplatka za pomoć i njegu od 1. siječnja 1991. do 30. studenoga 1991. | [`odluka/1992/774/`](odluka/1992/774/) | amended, not consolidated | 1 | 1992-06-09 | 1992-06-09 |
 | Odluka o uskladivanju novčanih naknada za tjelesno oštećenje od 1. siječnja 1991. do 30. studenoga 1991. | [`odluka/1992/775/`](odluka/1992/775/) | in force | 1 | 1992-06-09 | 1992-06-09 |
 | Odluka o iznosu minimalne plaće u Republici Hrvatskoj za mjesece svibanj i lipanj 1992. godine | [`odluka/1992/782/`](odluka/1992/782/) | in force | 1 | 1992-06-03 | 1992-06-03 |
 | Odluka o izmjeni Odluke o osnivanju Komisije Vlade Republike Hrvatske za informatizaciju državne uprave, pravosuđa i javnih djelatnosti | [`odluka/1992/783/`](odluka/1992/783/) | in force | 1 | 1992-06-03 | 1992-06-03 |
+| Odluka o obveznicima, osnovicama i visini sredstava za zdravstvenu zaštitu i drugim pravima iz zdravstvenog osiguranja | [`odluka/1992/801/`](odluka/1992/801/) | amended, not consolidated | 1 | 1992-06-03 | 1992-06-03 |
+| Odluka o izmjeni i dopuni Odluke o osnovama za uspostavljanje ugovornog odnosa sa subjektima provođenja zdravstvene zaštite u 1992. godini | [`odluka/1992/802/`](odluka/1992/802/) | amending act | 1 | 1992-06-03 | 1992-06-03 |
 | Odluka o prestanku važenja Odluke o primjeni Samoupravnog sporazuma o jedinstvenoj nomenklaturi usluga, te okvirnim standardima i normativima u primarnoj zdravstvenoj zaštiti | [`odluka/1992/803/`](odluka/1992/803/) | in force | 1 | 1992-06-03 | 1992-06-03 |
 | Odluka o izmjeni i dopuni liste lijekova koji se mogu propisivati osiguranicima Republičkog fonda zdravstvenog osiguranja i zdravstva Hrvatske | [`odluka/1992/804/`](odluka/1992/804/) | amending act | 1 | 1992-06-03 | 1992-06-03 |
+| Odluka o izmjeni i dopuni Odluke o utvrđivanju visine plaće zdravstvenih radnika pripravnika i specijalizanata u organizacijama zdravstva | [`odluka/1992/805/`](odluka/1992/805/) | amending act | 1 | 1992-06-11 | 1992-06-11 |
+| Odluka o izmjeni Odluke o sudjelovanju osiguranika u troškovima zdravstvene zaštite | [`odluka/1992/806/`](odluka/1992/806/) | in force | 1 | 1992-06-03 | 1992-06-03 |
+| Odluka o utvrđivanju broja bolesničkih ležaja u stacionarnoj zdravstvenoj zaštiti | [`odluka/1992/807/`](odluka/1992/807/) | amended, not consolidated | 1 | 1992-06-03 | 1992-06-03 |
+| Odluka o obliku i sadržaju uputnice za korištenje zdravstvene zaštite | [`odluka/1992/809/`](odluka/1992/809/) | repealed, not consolidated | 1 | 1992-06-11 | 1992-06-11 |
+| Odluka o obliku i sadržaju recepta za propisivanje lijekova | [`odluka/1992/810/`](odluka/1992/810/) | repealed, not consolidated | 1 | 1992-06-11 | 1992-06-11 |
+| Odluka o visini dnevnice za službeno putovanje i visini naknada za korisnike koji se financiraju iz sredstava Državnog proračuna | [`odluka/1992/841/`](odluka/1992/841/) | replaced, not consolidated | 1 | 1992-06-12 | 1992-06-12 |
 | Odluka o utvrdivanju visine minimalnog iznosa osnivačkog fonda banke u osnivanju | [`odluka/1992/846/`](odluka/1992/846/) | in force | 1 | 1992-06-12 | 1992-06-12 |
 | Odluka o usklađivanju mirovina od 1. ožujka 1992. i o najvišoj starosnoj i invalidskoj mirovini | [`odluka/1992/849/`](odluka/1992/849/) | in force | 1 | 1992-06-20 | 1992-06-20 |
+| Odluka o graničnoj svoti najnižega mirovinskog primanja od 1. ožujka 1992. | [`odluka/1992/850/`](odluka/1992/850/) | replaced, not consolidated | 1 | 1992-06-20 | 1992-06-20 |
 | Odluka o visini minimalne mirovine od 1. ožujka 1992. | [`odluka/1992/851/`](odluka/1992/851/) | in force | 1 | 1992-06-20 | 1992-06-20 |
 | Odluka o usklađivanju naknada osobnoga dohotka u svezi s pravom na prekvalifikaciju ili dokvalifikaciju i naknada osobnoga dohotka u svezi s pravom na zaposlenje od 1. ožujka 1992. | [`odluka/1992/852/`](odluka/1992/852/) | in force | 1 | 1992-06-20 | 1992-06-20 |
+| Odluka o usklađivanju novčanih naknada za tjelesno oštećenje od 1. ožujka 1992. | [`odluka/1992/853/`](odluka/1992/853/) | replaced, not consolidated | 1 | 1992-06-20 | 1992-06-20 |
+| Odluka o usklađivanju doplatka za pomoć i njegu od 1. ožujka 1992. | [`odluka/1992/854/`](odluka/1992/854/) | replaced, not consolidated | 1 | 1992-06-20 | 1992-06-20 |
 | Odluka o usklađivanju akontacija mirovina, doplatka za pomoć i njegu i novčanih naknada za tjelesno oštećenje od 1. ožujka 1992. | [`odluka/1992/855/`](odluka/1992/855/) | in force | 1 | 1992-06-20 | 1992-06-20 |
 | Odluka o raspoređivanju sredstava za isplatu jednokratne novčane pomoći u godini 1992. | [`odluka/1992/856/`](odluka/1992/856/) | in force | 1 | 1992-06-20 | 1992-06-20 |
 | Odluka o raspoređivanju sredstava za rekreaciju i oporavak umirovljenika te za organizirano pružanje pomoči i njege od druge osobe u godini 1992. | [`odluka/1992/857/`](odluka/1992/857/) | in force | 1 | 1992-06-20 | 1992-06-20 |
 | Odluka o usklađivanju mirovina od 1. ožujka 1992. | [`odluka/1992/858/`](odluka/1992/858/) | in force | 1 | 1992-06-20 | 1992-06-20 |
+| Odluka o graničnoj svoti najnižega mirovinskog primanja od 1. ožujka 1992. | [`odluka/1992/859/`](odluka/1992/859/) | replaced, not consolidated | 1 | 1992-06-20 | 1992-06-20 |
 | Odluka o usklađivanju naknada osobnoga dohotka u svezi s pravom na prekvalifikaciju ili dokvalifikaciju od 1. ožujka 1992. | [`odluka/1992/860/`](odluka/1992/860/) | in force | 1 | 1992-06-20 | 1992-06-20 |
+| Odluka o usklađivanju doplatka za pomoć i njegu od 1. ožujka 1992. | [`odluka/1992/861/`](odluka/1992/861/) | replaced, not consolidated | 1 | 1992-06-20 | 1992-06-20 |
+| Odluka o usklađivanju novčanih naknada za tjelesno oštećenje od 1. ožujka 1992. | [`odluka/1992/862/`](odluka/1992/862/) | replaced, not consolidated | 1 | 1992-06-20 | 1992-06-20 |
 | Odluka o jednokratnoj godišnjoj novčanoj pomoći u godini 1992. | [`odluka/1992/863/`](odluka/1992/863/) | in force | 1 | 1992-06-20 | 1992-06-20 |
+| Odluka o visini dnevnice za službeno putovanje u inozemstvo za korisnike koji se financiraju iz sredstava Državnog proračuna | [`odluka/1992/925/`](odluka/1992/925/) | repealed, not consolidated | 1 | 1992-06-19 | 1992-06-19 |
+| Odluka o izmjeni Odluke o obveznoj rezervi banaka kod Narodne banke Hrvatske | [`odluka/1992/931/`](odluka/1992/931/) | amended, not consolidated | 1 | 1992-06-19 | 1992-06-19 |
 | Odluka o dopunama Odluke o analitičkim računima i kontnom planu za banke | [`odluka/1992/932/`](odluka/1992/932/) | amending act | 1 | 1992-06-19 | 1992-06-19 |
+| Odluka o privremenoj odgodi vraćanja dijela kredita odobrenih iz primarne emisije pravnim osobama koje su pretrpjele štetu od ratnih razaranja | [`odluka/1992/933/`](odluka/1992/933/) | amended, not consolidated | 1 | 1992-06-19 | 1992-06-19 |
 | Odluka o izmjeni Odluke o načinu formiranja tečaja hrvatskog dinara u Narodnoj banci Hrvatske | [`odluka/1992/934/`](odluka/1992/934/) | in force | 1 | 1992-06-19 | 1992-06-19 |
 | Odluka o zamjeni pohabanih i oštećenih novčanica hrvatskih dinara | [`odluka/1992/935/`](odluka/1992/935/) | in force | 1 | 1992-06-20 | 1992-06-20 |
+| Odluka o ograničenju izvoza određenih proizvoda | [`odluka/1992/940/`](odluka/1992/940/) | replaced, not consolidated | 1 | 1992-06-23 | 1992-06-23 |
+| Odluka o obvezi stavljanja u promet određenih količina brašna i kruha tipa 850 | [`odluka/1992/942/`](odluka/1992/942/) | repealed, not consolidated | 1 | 1992-06-23 | 1992-06-23 |
 | Odluka o izmjeni Odluke o zaštitnoj cijeni pšenice roda iz 1992. godine | [`odluka/1992/943/`](odluka/1992/943/) | in force | 1 | 1992-06-23 | 1992-06-23 |
 | Odluka o zaštitnoj cijeni uljane repice roda 1992. | [`odluka/1992/944/`](odluka/1992/944/) | in force | 1 | 1992-06-23 | 1992-06-23 |
+| Odluka o izmjeni Odluke o visini godišnje naknade za upotrebu cesta što se plaća na cestovna motorna i priključna vozila | [`odluka/1992/945/`](odluka/1992/945/) | in force | 1 | 1992-07-01 | 1992-07-01 |
 | Odluka o izmjenama i dopunama Odluke o carinskim, poreznim i drugim olakšicama stranih diplomatskih i konzularnih predstavništava u Republici Hrvatskoj | [`odluka/1992/946/`](odluka/1992/946/) | amending act | 1 | 1992-06-23 | 1992-06-23 |
+| Odluka o suglasnosti na povećanje prodajnih cijena osnovnih naftnih derivata | [`odluka/1992/947/`](odluka/1992/947/) | replaced, not consolidated | 1 | 1992-06-23 | 1992-06-23 |
+| Odluka o suglasnosti na povećanje cijene električne energije | [`odluka/1992/948/`](odluka/1992/948/) | replaced, not consolidated | 1 | 1992-06-23 | 1992-06-23 |
+| Odluka o suglasnosti na povećanje cijena prijevoza putnika i stvari u unutarnjem željezničkom prometu | [`odluka/1992/949/`](odluka/1992/949/) | replaced, not consolidated | 1 | 1992-06-23 | 1992-06-23 |
 | Odluka o suglasnosti na cijene pisama i dopisnica u unutarnjem poštanskom prometu | [`odluka/1992/950/`](odluka/1992/950/) | in force | 1 | 1992-06-23 | 1992-06-23 |
+| Odluka o raspisivanju izbora za zastupnike u Zastupnički dom Sabora Republike Hrvatske | [`odluka/1992/951/`](odluka/1992/951/) | replaced, not consolidated | 1 | 1992-06-24 | 1992-06-24 |
+| Odluka o raspisivanju izbora za predsjednika Republike Hrvatske | [`odluka/1992/952/`](odluka/1992/952/) | replaced, not consolidated | 1 | 1992-06-24 | 1992-06-24 |
 | Odluka o izmjenama Odluke o određivanju robe na koju se plaća posebna pristojba za izravnanje poreznog opterećenja uvezene robe u 1991. i 1992. godini | [`odluka/1992/956/`](odluka/1992/956/) | in force | 1 | 1992-06-24 | 1992-06-24 |
 | Odluka o iznosu minimalne plaće u Republici Hrvatskoj za mjesec srpanj, kolovoz i rujan 1992. godine | [`odluka/1992/957/`](odluka/1992/957/) | in force | 1 | 1992-06-24 | 1992-06-24 |
+| Odluka o plaćanju posebne takse na uvezenu robu u 1992. godini | [`odluka/1992/1031/`](odluka/1992/1031/) | replaced, not consolidated | 1 | 1992-06-27 | 1992-06-27 |
 | Odluka o izmjeni i dopuni Odluke o vrsti, količini i vrijednosti predmeta na koje se pri uvozu primjenjuju carinske povlastice | [`odluka/1992/1032/`](odluka/1992/1032/) | amending act | 1 | 1992-07-05 | 1992-07-05 |
+| Odluka o visini takse za carinsko evidentiranje | [`odluka/1992/1033/`](odluka/1992/1033/) | repealed, not consolidated | 1 | 1992-07-05 | 1992-07-05 |
 | Odluka o izmjeni Odluke o vrijednosti robe za jedinstvenu carinsku stopu | [`odluka/1992/1034/`](odluka/1992/1034/) | in force | 1 | 1992-06-27 | 1992-06-27 |
 | Odluka o izmjenama Odluke o preferencijalnim carinskim stopama i neplaćanju drugih uvoznih pristojbi za uvoz robe iz određenih zemalja u razvoju | [`odluka/1992/1035/`](odluka/1992/1035/) | in force | 1 | 1992-06-27 | 1992-06-27 |
+| Odluka o izmjeni i dopuni Odluke o određivanju robe i drugih stvari koje se uvoze s carinskog područja drugih republika u sklopu bivše SFRJ, a ne smatraju se carinskom robom | [`odluka/1992/1037/`](odluka/1992/1037/) | amending act | 1 | 1992-06-27 | 1992-06-27 |
 | Odluka o eskontnoj stopi Narodne banke Hrvatske za srpanj 1992. godine | [`odluka/1992/1043/`](odluka/1992/1043/) | in force | 1 | 1992-06-27 | 1992-06-27 |
+| Odluka o načinu i uvjetima korištenja kredita iz primarne emisije u III. tromjesečju 1992. godine | [`odluka/1992/1044/`](odluka/1992/1044/) | cited later, not consolidated | 1 | 1992-06-27 | 1992-06-27 |
 | Odluka o visini reeskontnih kvota za korištenje kredita iz primarne emisije u III. tromjesečju 1992. godine | [`odluka/1992/1045/`](odluka/1992/1045/) | in force | 1 | 1992-06-27 | 1992-06-27 |
+| Odluka o načinu utvrđivanja kvota za odobravanje reeskontnih kredita bankama u III. tromjesečju 1992. godine | [`odluka/1992/1046/`](odluka/1992/1046/) | amended, not consolidated | 1 | 1992-06-27 | 1992-06-27 |
 | Odluka o odobravanju reeskontnih kredita bankama u III. tromjesečju\r 1992. za refinanciranje posebnih kredita banaka odobrenih građanima i drugim\r osobama za popravak stambenih i gospodarskih objekata oštećenih ratnim\r razaranjima | [`odluka/1992/1047/`](odluka/1992/1047/) | in force | 1 | 1992-06-27 | 1992-06-27 |
 | Odluka o odobravanju reeskontnih kredita bankama u III. tromjesečju 1992. za refinanciranje posebnih kredita banaka odobrenih individualnim poljoprivrednim proizvođačima za povećanje osnovnog stada u s | [`odluka/1992/1048/`](odluka/1992/1048/) | in force | 1 | 1992-06-27 | 1992-06-27 |
 | Odluka o kriterijima za utvrđivanje blagajničkog maksimuma kod pravnih osoba | [`odluka/1992/1050/`](odluka/1992/1050/) | in force | 1 | 1992-06-27 | 1992-06-27 |
+| Odluka o utvrđivanju visine minimalnog iznosa osnivačkog fonda banke u osnivanju | [`odluka/1992/1051/`](odluka/1992/1051/) | replaced, not consolidated | 1 | 1992-06-27 | 1992-06-27 |
 | Odluka o osnivanju Konzulata Republike Hrvatske u Solothurnu, Švicarska Konfederacija | [`odluka/1992/1055/`](odluka/1992/1055/) | in force | 1 | 1992-06-26 | 1992-06-26 |
+| Odluka o utvrđivanju visine naknade troškova izborne promidžbe | [`odluka/1992/1064/`](odluka/1992/1064/) | replaced, not consolidated | 1 | 1992-07-01 | 1992-07-01 |
 | Odluka o izmjeni Odluke o utvrđivanju općina u kojima se koriste sredstva za subvencioniranje stanarine i podstanarine | [`odluka/1992/1088/`](odluka/1992/1088/) | in force | 1 | 1992-07-07 | 1992-07-07 |
+| Odluka o vrijednosti boda za utvrđivanje visine naknade koja se plaća zbog promjene namjene poljoprivrednog zemljišta | [`odluka/1992/1089/`](odluka/1992/1089/) | repealed, not consolidated | 1 | 1992-07-15 | 1992-07-15 |
+| Odluka o visini naknade za obvezne zdravstvene preglede bilja u prometu preko granice Republike Hrvatske | [`odluka/1992/1102/`](odluka/1992/1102/) | replaced, not consolidated | 1 | 1992-07-14 | 1992-07-14 |
 | Odluka o dopuni Odluke o određivanju robe na koju se plaća posebna pristojba za izravnanje poreznog opterećenja uvezene robe u 1991. i 1992. godini | [`odluka/1992/1103/`](odluka/1992/1103/) | amending act | 1 | 1992-07-14 | 1992-07-14 |
 | Odluka o dopuni Odluke o plačanju posebne takse na uvezenu robu u 1992. godini | [`odluka/1992/1104/`](odluka/1992/1104/) | amending act | 1 | 1992-07-14 | 1992-07-14 |
 | Odluka o osnivanju Stalne misije Republike Hrvatske pri Organizaciji Ujedinjenih naroda u Genevi | [`odluka/1992/1136/`](odluka/1992/1136/) | in force | 1 | 1992-07-14 | 1992-07-14 |
 | Odluka o osnivanju Stalne misije Republike Hrvatske pri Organizaciji Ujedinjenih naroda u Beču | [`odluka/1992/1137/`](odluka/1992/1137/) | in force | 1 | 1992-07-14 | 1992-07-14 |
+| Odluka o osnivanju Stalne misije Republike Hrvatske pri Europskoj zajednici u Bruxellesu | [`odluka/1992/1138/`](odluka/1992/1138/) | amended, not consolidated | 1 | 1992-07-14 | 1992-07-14 |
 | Odluka o osnivanju Ambasade Republike Hrvatske u Moskvi, Ruska Federacija | [`odluka/1992/1139/`](odluka/1992/1139/) | in force | 1 | 1992-07-14 | 1992-07-14 |
+| Odluka o Hrvatskoj komisiji za suradnju s Organizacijom Ujedinjenih naroda za prosvjetu, znanost i kulturu | [`odluka/1992/1147/`](odluka/1992/1147/) | repealed, not consolidated | 1 | 1992-07-20 | 1992-07-20 |
 | Odluka o izmjeni Odluke o određivanju najnižih svota na koje se mora ugovoriti osiguranje autoodgovornosti za štetu nanesenu trećim osobama pri uporabi motornog vozila | [`odluka/1992/1148/`](odluka/1992/1148/) | in force | 1 | 1992-07-28 | 1992-07-28 |
 | Odluka o izmjeni Odluke o visini naknade za vađenje pijeska, šljunka i kamena u 1992. godini | [`odluka/1992/1178/`](odluka/1992/1178/) | in force | 1 | 1992-07-20 | 1992-07-20 |
+| Odluka o osnivanju Konzulata Republike Hrvatske u Zurichu, Švicarska Konfederacija | [`odluka/1992/1179/`](odluka/1992/1179/) | repealed, not consolidated | 1 | 1992-07-16 | 1992-07-16 |
 | Odluka o posebnim uvjetima izvoza umjetnih gnojiva | [`odluka/1992/1186/`](odluka/1992/1186/) | in force | 1 | 1992-07-24 | 1992-07-24 |
 | Odluka o utvrđivanju kalkulativnih prosjeka osobnih dohodaka radnika zaposlenih u Upravi kontrole letenja, Ministarstva prometa i veza | [`odluka/1992/1187/`](odluka/1992/1187/) | in force | 1 | 1992-08-01 | 1992-08-01 |
 | Odluka o utvrđivanju visine boravišne pristojbe za 1993. godinu | [`odluka/1992/1188/`](odluka/1992/1188/) | in force | 1 | 1992-07-24 | 1992-07-24 |
 | Odluka o izmjeni Odluke o utvrđivanju visine boravišne pristojbe | [`odluka/1992/1189/`](odluka/1992/1189/) | in force | 1 | 1992-07-24 | 1992-07-24 |
+| Odluka o izuzimanju nekretnina u k. o. Grad Zagreb od zabrane prijenosa prava raspolaganja | [`odluka/1992/1190/`](odluka/1992/1190/) | in force | 1 | 1992-07-24 | 1992-07-24 |
+| Odluka o izuzimanju nekretnina u k. o. Cres od zabrane prijenosa prava raspolaganja i korištenja | [`odluka/1992/1191/`](odluka/1992/1191/) | in force | 1 | 1992-07-24 | 1992-07-24 |
 | Odluka o izuzimanju od zabrane raspolaganja - prijenosa prava korištenja i raspolaganja nekretninama u k. o. Strizivojna | [`odluka/1992/1192/`](odluka/1992/1192/) | in force | 1 | 1992-07-24 | 1992-07-24 |
 | Odluka o dopuni Odluke o osnivanju poduzeća "Remontno brodogradilište Šibenik" | [`odluka/1992/1193/`](odluka/1992/1193/) | amending act | 1 | 1992-07-24 | 1992-07-24 |
 | Odluka o eskontnoj stopi Narodne banke Hrvatske za kolovoz 1992. godine | [`odluka/1992/1238/`](odluka/1992/1238/) | in force | 1 | 1992-07-30 | 1992-07-30 |
+| Odluka o načinu obavljanja mjenjačkih poslova | [`odluka/1992/1244/`](odluka/1992/1244/) | repealed, not consolidated | 1 | 1992-08-01 | 1992-08-01 |
+| Odluka o uvjetima i rokovima do kojih se može odobriti produženje roka naplate izvezene robe i usluga | [`odluka/1992/1245/`](odluka/1992/1245/) | replaced, not consolidated | 1 | 1992-08-01 | 1992-08-01 |
 | Odluka o izmjeni Odluke o prodaji dijela deviza Narodnoj banci Hrvatske po osnovi otkupljenog efektivnog stranog novca po mjenjačkim poslovima i po osnovi otkupa deviza od domaćih i stranih fizičkih o | [`odluka/1992/1246/`](odluka/1992/1246/) | in force | 1 | 1992-08-01 | 1992-08-01 |
+| Odluka o utvrđivanju visine minimalnog iznosa osnivačkog fonda banke u osnivanju | [`odluka/1992/1247/`](odluka/1992/1247/) | replaced, not consolidated | 1 | 1992-08-01 | 1992-08-01 |
 | Odluka o usklađivanju mirovina od 1. travnja 1992. i o najvišoj starosnoj i invalidskoj mirovini | [`odluka/1992/1255/`](odluka/1992/1255/) | in force | 1 | 1992-08-09 | 1992-08-09 |
 | Odluka o graničnoj svoti najnižega mirovinskog primanja od 1. travnja 1992. | [`odluka/1992/1256/`](odluka/1992/1256/) | in force | 1 | 1992-08-09 | 1992-08-09 |
 | Odluka o visini minimalne mirovine od 1. travnja 1992. | [`odluka/1992/1257/`](odluka/1992/1257/) | in force | 1 | 1992-08-09 | 1992-08-09 |
 | Odluka o usklađivanju naknada osobnoga dohotka u svezi s pravom na prekvalifikaciju ili dokvalifikaciju i naknada osobnoga dohotka u svezi s pravom na zaposlenje od 1. travnja. 1992. | [`odluka/1992/1258/`](odluka/1992/1258/) | in force | 1 | 1992-08-09 | 1992-08-09 |
+| Odluka o usklađivanju novčanih naknada za tjelesno oštećenje od 1. travnja 1992. | [`odluka/1992/1259/`](odluka/1992/1259/) | replaced, not consolidated | 1 | 1992-08-09 | 1992-08-09 |
+| Odluka o usklađivanju doplatka za pomoć i njegu od 1. travnja 1992. | [`odluka/1992/1260/`](odluka/1992/1260/) | replaced, not consolidated | 1 | 1992-08-09 | 1992-08-09 |
 | Odluka o najnižoj svoti naknade osobnoga dohotka u svezi s pravom na prekvalifikaciju ili dokvalifikaciju i naknade osobnoga dohotka u svezi s pravom na zaposlenje od 1. travnja 1992. | [`odluka/1992/1261/`](odluka/1992/1261/) | in force | 1 | 1992-08-09 | 1992-08-09 |
 | Odluka o usklađivanju akontacija mirovina, doplatka za pomoć i njegu i novčanih naknada za tjelesno oštećenje od 1. travnja 1992. | [`odluka/1992/1262/`](odluka/1992/1262/) | in force | 1 | 1992-08-09 | 1992-08-09 |
 | Odluka o iznimnom usklađivanju doplatka za djecu od 1. kolovoza 1992. | [`odluka/1992/1263/`](odluka/1992/1263/) | in force | 1 | 1992-08-02 | 1992-08-02 |
 | Odluka o usklađivanju mirovina od 1. travnja 1992. | [`odluka/1992/1264/`](odluka/1992/1264/) | in force | 1 | 1992-08-09 | 1992-08-09 |
 | Odluka o graničnoj svoti najnižega mirovinskog primanja od 1. travnija 1992. | [`odluka/1992/1265/`](odluka/1992/1265/) | in force | 1 | 1992-08-09 | 1992-08-09 |
 | Odluka o usklađivanju naknada osobnoga dohotka u svezi s pravom na prekvalifikaciju ili dokvalifikaciju od 1. travnja 1992. | [`odluka/1992/1266/`](odluka/1992/1266/) | in force | 1 | 1992-08-09 | 1992-08-09 |
+| Odluka o usklađivanju doplatka za pomoć i njegu od 1. travnja 1992. | [`odluka/1992/1267/`](odluka/1992/1267/) | replaced, not consolidated | 1 | 1992-08-09 | 1992-08-09 |
+| Odluka o usklađivanju novčanih naknada za tjelesno oštećenje od 1. travnja 1992. | [`odluka/1992/1268/`](odluka/1992/1268/) | replaced, not consolidated | 1 | 1992-08-09 | 1992-08-09 |
 | Odluka o visini i načinu plačanja naknada za pokriče troškova tipnog ispitivanja mjerila, pregleda etalona, uzoraka referentnih tvari i mjerila | [`odluka/1992/1276/`](odluka/1992/1276/) | in force | 1 | 1992-08-12 | 1992-08-12 |
+| Odluka o visini i načinu plaćanja naknada za pokriće troškova za ispitivanje i žigosanje predmeta od plemenitih kovina | [`odluka/1992/1278/`](odluka/1992/1278/) | repealed, not consolidated | 1 | 1992-08-12 | 1992-08-12 |
+| Odluka o visini premije za određene proizvode u poljoprivredi | [`odluka/1992/1282/`](odluka/1992/1282/) | amended, not consolidated | 1 | 1992-08-04 | 1992-08-04 |
 | Odluka o poduzimanju posebnih mjera u općini Vojnić | [`odluka/1992/1283/`](odluka/1992/1283/) | in force | 1 | 1992-08-04 | 1992-08-04 |
 | Odluka o poduzimanju posebnih mjera u općini Titova Korenica | [`odluka/1992/1285/`](odluka/1992/1285/) | in force | 1 | 1992-08-04 | 1992-08-04 |
 | Odluka o poduzimanju posebnih mjera u općini Donji Lapac | [`odluka/1992/1287/`](odluka/1992/1287/) | in force | 1 | 1992-08-04 | 1992-08-04 |
 | Odluka o usklađivanju mirovina od 1. svibnja 1992. i o najvišoj starosnoj i invalidskoj mirovini | [`odluka/1992/1293/`](odluka/1992/1293/) | in force | 1 | 1992-08-12 | 1992-08-12 |
+| Odluka o graničnoj svoti najnižega mirovinskog primanja od 1. svibnja 1992. | [`odluka/1992/1294/`](odluka/1992/1294/) | replaced, not consolidated | 1 | 1992-08-12 | 1992-08-12 |
 | Odluka o visini minimalne mirovine od 1. svibnja 1992. | [`odluka/1992/1295/`](odluka/1992/1295/) | in force | 1 | 1992-08-12 | 1992-08-12 |
 | Odluka o usklađivanju naknada osobnoga dohotka u svezi s pravom na prekvalifikaciju ili dokvalifikaciju i naknada osobnoga dohotka u svezi s pravom na zaposlenje od 1. svibnja 1992. | [`odluka/1992/1296/`](odluka/1992/1296/) | in force | 1 | 1992-08-12 | 1992-08-12 |
+| Odluka o usklađivanju doplatka za pomoć i njegu od 1. svibnja 1992. | [`odluka/1992/1298/`](odluka/1992/1298/) | replaced, not consolidated | 1 | 1992-08-12 | 1992-08-12 |
 | Odluka o usklađivanju akontacija mirovina, doplatka za pomoć i njegu i novčanih naknada za tjelesno oštećenje od 1. svlbnja 1992. | [`odluka/1992/1299/`](odluka/1992/1299/) | in force | 1 | 1992-08-12 | 1992-08-12 |
 | Odluka o usklađivanju mirovina od 1. svibnja 1992. | [`odluka/1992/1300/`](odluka/1992/1300/) | in force | 1 | 1992-08-12 | 1992-08-12 |
+| Odluka o graničnoj svoti najnižega mirovinskog primanja od 1. svibnja 1992. | [`odluka/1992/1301/`](odluka/1992/1301/) | replaced, not consolidated | 1 | 1992-08-12 | 1992-08-12 |
 | Odluka o usklađivanju naknada osobnoga dohotka u svezi s pravom na prekvalifikaciju ili dokvalifikaciju od 1. svibnja 1992. | [`odluka/1992/1302/`](odluka/1992/1302/) | in force | 1 | 1992-08-12 | 1992-08-12 |
+| Odluka o usklađivanju doplatka za pomoć i njegu od 1. svibnja 1992. | [`odluka/1992/1303/`](odluka/1992/1303/) | replaced, not consolidated | 1 | 1992-08-12 | 1992-08-12 |
 | Odluka o usklađivanju novčanih naknada za tjelesno oštećenje od 1. svibnja 1992. | [`odluka/1992/1304/`](odluka/1992/1304/) | in force | 1 | 1992-08-12 | 1992-08-12 |
+| Odluka o utvrđivanju vrijednosti boda za primjenu Popisa dijagnostičkih i terapijskih postupaka - vremenski i kadrovski normativi u 1992. godini | [`odluka/1992/1305/`](odluka/1992/1305/) | cited later, not consolidated | 1 | 1992-08-04 | 1992-08-04 |
+| Odluka o izmjeni i dopuni Odluke o osnovama za uspostavljanje ugovornog odnosa sa subjektima provođenja zdravstvene zaštite u 1992. godini | [`odluka/1992/1306/`](odluka/1992/1306/) | amending act | 1 | 1992-08-04 | 1992-08-04 |
 | Odluka o utvrđivanju broja bolesničkih ležaja u stacionarnoj zdravstvenoj zaštiti za liječenje kroničnih bolesti | [`odluka/1992/1307/`](odluka/1992/1307/) | in force | 1 | 1992-08-04 | 1992-08-04 |
 | Odluka o izmjenama Odluke o obveznicama, osnovicama i visini sredstava za zdravstvenu zaštitu i drugim pravima iz zdravstvenog osiguranja | [`odluka/1992/1308/`](odluka/1992/1308/) | in force | 1 | 1992-08-04 | 1992-08-04 |
 | Odluka o izmjeni i dopuni Odluke o obustavi investicijskih uIaganja u zdravstvenim djeIatnostima Republike Hrvatske | [`odluka/1992/1309/`](odluka/1992/1309/) | amending act | 1 | 1992-08-04 | 1992-08-04 |
+| Odluka o suglasnosti na povećanje prodajnih cijena osnovnih naftnih derivata | [`odluka/1992/1317/`](odluka/1992/1317/) | replaced, not consolidated | 1 | 1992-08-11 | 1992-08-11 |
+| Odluka o suglasnosti za povećanje cijene električne energije | [`odluka/1992/1318/`](odluka/1992/1318/) | in force | 1 | 1992-08-11 | 1992-08-11 |
+| Odluka o suglasnosti na povećanje cijena prijevoza putnika i stvari u unutarnjem željezničkom prometu | [`odluka/1992/1319/`](odluka/1992/1319/) | replaced, not consolidated | 1 | 1992-08-11 | 1992-08-11 |
+| Odluka o suglasnosti na iznos radijske i televizijske pretplate | [`odluka/1992/1320/`](odluka/1992/1320/) | replaced, not consolidated | 1 | 1992-09-01 | 1992-09-01 |
 | Odluka o dopunama Odluke o obvezi stavljanja u promet određenih količina brašna i kruha tipa 850 | [`odluka/1992/1321/`](odluka/1992/1321/) | amending act | 1 | 1992-08-11 | 1992-08-11 |
+| Odluka | [`odluka/1992/1377/`](odluka/1992/1377/) | replaced, not consolidated | 1 | 1992-08-17 | 1992-08-17 |
 | Odluka o osnivanju Konzulata Republike Hrvatske u Helsinkiju, Finska | [`odluka/1992/1386/`](odluka/1992/1386/) | in force | 1 | 1992-08-12 | 1992-08-12 |
+| Odluka o osnivanju Konzulata Republike Hrvatske u Perthu, Australija | [`odluka/1992/1388/`](odluka/1992/1388/) | repealed, not consolidated | 1 | 1992-08-12 | 1992-08-12 |
 | Odluka o osnivanju Konzulata Republike Hrvatske u Clevelandu, Sjedinjene Američke Države | [`odluka/1992/1390/`](odluka/1992/1390/) | in force | 1 | 1992-08-12 | 1992-08-12 |
 | Odluka o davanju na raspolaganje i upravljanje vojnog objekta "Barbariga" Javnom poduzeću "Brijuni" | [`odluka/1992/1410/`](odluka/1992/1410/) | in force | 1 | 1992-09-01 | 1992-09-01 |
 | Odluka o suglasnosti na povečanje cijena prirodnog plina | [`odluka/1992/1411/`](odluka/1992/1411/) | in force | 1 | 1992-09-01 | 1992-09-01 |
 | Odluka o eskontnoj stopi Narodne banke Hrvatske za rujan 1992. godine | [`odluka/1992/1416/`](odluka/1992/1416/) | in force | 1 | 1992-09-01 | 1992-09-01 |
+| Odluka o utvrđivanju visine minimalnog iznosa osnivačkog fonda banke u osnivanju | [`odluka/1992/1417/`](odluka/1992/1417/) | replaced, not consolidated | 1 | 1992-09-01 | 1992-09-01 |
 | Odluka o davanju suglasnosti na Odluku Upravnog odbora Aviotoursa d.o.o. Zagreb o pripajanju Aviotoursa d.o.o. Zagreb Groatia Airlinesu d.d. Zagreb | [`odluka/1992/1431/`](odluka/1992/1431/) | in force | 1 | 1992-09-03 | 1992-09-03 |
 | Odluka o osnivanju Nacionalne grupe Sabora Republike Hrvatske pri Interparlamentarnoj uniji | [`odluka/1992/1446/`](odluka/1992/1446/) | in force | 1 | 1992-09-07 | 1992-09-07 |
 | Odluka o osnivanju Ambasade Republike Hrvatske u Abu Dhabiju, Ujedinjeni Arapski Emirati | [`odluka/1992/1481/`](odluka/1992/1481/) | in force | 1 | 1992-09-09 | 1992-09-09 |
+| Odluka o davanju ovlaštenja Ministarstvu obrane za upravljanje stanovima, garažama i poslovnim prostorom u vlasništvu Republike Hrvatske | [`odluka/1992/1485/`](odluka/1992/1485/) | cited later, not consolidated | 1 | 1992-09-17 | 1992-09-17 |
 | Odluka o proglašavanju 29. rujna "Danom policije" | [`odluka/1992/1486/`](odluka/1992/1486/) | in force | 1 | 1992-09-17 | 1992-09-17 |
+| Odluka o zaštitnoj cijeni pšenice roda 1993. godine | [`odluka/1992/1487/`](odluka/1992/1487/) | amended, not consolidated | 1 | 1992-09-17 | 1992-09-17 |
+| Odluka o zaštitnoj cijeni uljane repice roda 1993. godine | [`odluka/1992/1488/`](odluka/1992/1488/) | amended, not consolidated | 1 | 1992-09-17 | 1992-09-17 |
 | Odluka o izmjeni Odluke o zaštitnoj cijeni kukuruza roda 1992. godine | [`odluka/1992/1489/`](odluka/1992/1489/) | in force | 1 | 1992-09-17 | 1992-09-17 |
 | Odluka o izmjeni Odluke o zaštitnim cijenama suncokreta i soje roda 1992. godine | [`odluka/1992/1490/`](odluka/1992/1490/) | in force | 1 | 1992-09-17 | 1992-09-17 |
 | Odluka o izmjeni Odluke o zaštitnoj cijeni šećerne repe roda 1992. godine | [`odluka/1992/1491/`](odluka/1992/1491/) | in force | 1 | 1992-09-17 | 1992-09-17 |
@@ -2790,50 +2962,87 @@
 | Odluka o utvrđivanju općeg interesa za izgradnju graničog prijelaza u Dubravi Križovljanskoj | [`odluka/1992/1501/`](odluka/1992/1501/) | in force | 1 | 1992-09-17 | 1992-09-17 |
 | Odluka o utvrđivanju općeg interesa za izgradnju graničnog prijelaza Mihanović Dol - Bizeljsko | [`odluka/1992/1502/`](odluka/1992/1502/) | in force | 1 | 1992-09-17 | 1992-09-17 |
 | Odluka o utvrđivanju općeg interesa za izgradnju graničnog prijelaza Razvor - Bistrica ob Sotli | [`odluka/1992/1503/`](odluka/1992/1503/) | in force | 1 | 1992-09-17 | 1992-09-17 |
+| Odluka o izuzimanju od zabrane prijenosa prava raspolaganja i korištenja nekretnina u k.o. Grad Zagreb | [`odluka/1992/1504/`](odluka/1992/1504/) | in force | 1 | 1992-09-17 | 1992-09-17 |
+| Odluka o izuzimanju nekretnina u k.o. Grad Zagreb od zabrane prijenosa prava raspolaganja | [`odluka/1992/1505/`](odluka/1992/1505/) | in force | 1 | 1992-09-17 | 1992-09-17 |
 | Odluka o prijenosu prava korištenja nekretnina u k.o. Grad Bjelovar | [`odluka/1992/1506/`](odluka/1992/1506/) | in force | 1 | 1992-09-17 | 1992-09-17 |
+| Odluka o suglasnosti na cijene osnovnih usluga u unutarnjem poštanskom i telefonskom prometu | [`odluka/1992/1507/`](odluka/1992/1507/) | replaced, not consolidated | 1 | 1992-09-17 | 1992-09-17 |
 | Odluka o usklađivanju mirovina od 1. lipnja 1992. i o najvišoj starosnoj i invalidskoj mirovini | [`odluka/1992/1516/`](odluka/1992/1516/) | in force | 1 | 1992-09-25 | 1992-09-25 |
+| Odluka o graničnoj svoti najnižega mirovinskog primanja od 1. lipnja 1992. | [`odluka/1992/1517/`](odluka/1992/1517/) | replaced, not consolidated | 1 | 1992-09-25 | 1992-09-25 |
 | Odluka o visini minimalne mirovine od 1. lipnja 1992. | [`odluka/1992/1518/`](odluka/1992/1518/) | in force | 1 | 1992-09-25 | 1992-09-25 |
 | Odluka o usklađivanju naknada osobnoga dohotka u svezi s pravom na prekvalifikaaju ili dokvalifikaciju i naknada osobnoga dohotka u svezi s pravom na zaposlenje od 1. lipnja 1992. | [`odluka/1992/1519/`](odluka/1992/1519/) | in force | 1 | 1992-09-25 | 1992-09-25 |
+| Odluka o usklađivanju novčanih naknada za tjelesno oštećenje od 1. lipnja 1992. | [`odluka/1992/1520/`](odluka/1992/1520/) | replaced, not consolidated | 1 | 1992-09-25 | 1992-09-25 |
+| Odluka o usklađivanju doplatka za pomoć i njegu od 1. lipnja 1992. | [`odluka/1992/1521/`](odluka/1992/1521/) | replaced, not consolidated | 1 | 1992-09-25 | 1992-09-25 |
 | Odluka o usklađivanju akontacija mirovina, doplatka za pomoć i njegu i novčanih naknada za tjelesno oštećenje od 1. lipnja 1992. | [`odluka/1992/1522/`](odluka/1992/1522/) | in force | 1 | 1992-09-25 | 1992-09-25 |
 | Odluka o usklađivanju mirovina od 1. lipnja 1992. | [`odluka/1992/1523/`](odluka/1992/1523/) | in force | 1 | 1992-09-25 | 1992-09-25 |
+| Odluka o graničnoj svoti najnižega mirovinskog primanja od 1. lipnja 1992. | [`odluka/1992/1524/`](odluka/1992/1524/) | replaced, not consolidated | 1 | 1992-09-25 | 1992-09-25 |
 | Odluka o usklađivanju naknada osobnoga dohotka u svezi s pravom na prekvalifikaciju ili dokvalifikaciju od 1. lipnja 1992. | [`odluka/1992/1525/`](odluka/1992/1525/) | in force | 1 | 1992-09-25 | 1992-09-25 |
+| Odluka o usklađivanju novčanih naknada za tjelesno oštećenje od 1. lipnja 1992. | [`odluka/1992/1526/`](odluka/1992/1526/) | replaced, not consolidated | 1 | 1992-09-25 | 1992-09-25 |
+| Odluka o usklađivanju doplatka za pomoć i njegu od 1. lipnja 1992. | [`odluka/1992/1527/`](odluka/1992/1527/) | replaced, not consolidated | 1 | 1992-09-25 | 1992-09-25 |
 | Odluka o najnižoj svoti naknade osobnog dohotka u svezi s pravom na prekvalifikaciju ili dokvalifikaciju i naknade osobnog dohotka u svezi s pravom na zaposlenje od 1. siječnja 1992. i od 1. travnja 1 | [`odluka/1992/1528/`](odluka/1992/1528/) | in force | 1 | 1992-09-25 | 1992-09-25 |
 | Odluka o dopuni Odluke o utvrđivanju općina u kojima se koriste sredstva za subvencioniranje stanarine i podstanarine | [`odluka/1992/1534/`](odluka/1992/1534/) | amending act | 1 | 1992-09-22 | 1992-09-22 |
 | Odluka o izuzimanju od zabrane raspolaganja nekretninom u Zagrebu, Stupnička ulica 14 | [`odluka/1992/1535/`](odluka/1992/1535/) | in force | 1 | 1992-09-22 | 1992-09-22 |
 | Odluka o izuzimanju od zabrane raspolaganja nekretninom u Zagrebu, Ulica braće Domany 8/15 | [`odluka/1992/1536/`](odluka/1992/1536/) | in force | 1 | 1992-09-22 | 1992-09-22 |
 | Odluka o izuzimanju od zabrane raspolaganja stanova Nuklearne elektrane iz Krškog u Zagrebu i Samoboru | [`odluka/1992/1537/`](odluka/1992/1537/) | in force | 1 | 1992-09-22 | 1992-09-22 |
+| Odluka o troškovima u postupku s međunarodnim elementom pred Stalnim izbranim sudištem pri Hrvatskoj gospodarskoj komori | [`odluka/1992/1544/`](odluka/1992/1544/) | amended, not consolidated | 1 | 1992-09-22 | 1992-09-22 |
+| Odluka o naknadi troškova i nagradi arbitrima i drugim osobama u postupku s međunarodnim elementom pred Stalnim izbranim sudištem pri Hrvatskoj gospodarskoj komori | [`odluka/1992/1545/`](odluka/1992/1545/) | repealed, not consolidated | 1 | 1992-09-22 | 1992-09-22 |
+| Odluka o troškovima u postupku bez međunarodnog elementa pred Stalnim izbranim sudištem pri Hrvatskoj gospodarskoj komori | [`odluka/1992/1546/`](odluka/1992/1546/) | amended, not consolidated | 1 | 1992-09-22 | 1992-09-22 |
+| Odluka o naknadi troškova i nagradi arbitrima i drugim osobama u postupku bez međunarodnog elementa pred Stalnim izbranim sudištem pri Hrvatskoj gospodarskoj komori | [`odluka/1992/1547/`](odluka/1992/1547/) | repealed, not consolidated | 1 | 1992-09-22 | 1992-09-22 |
 | Odluka o uskladđvanju mirovina od 1. srpnja 1992. i o najvišoj starosnoj i invalidskoj mirovini | [`odluka/1992/1548/`](odluka/1992/1548/) | in force | 1 | 1992-09-30 | 1992-09-30 |
+| Odluka o graničnoj svoti najnižega mirovinskog primanja od 1. srpnja 1992. | [`odluka/1992/1549/`](odluka/1992/1549/) | replaced, not consolidated | 1 | 1992-09-30 | 1992-09-30 |
 | Odluka o visini minimalne mirovine od 1. srpnja 1992. | [`odluka/1992/1550/`](odluka/1992/1550/) | in force | 1 | 1992-09-30 | 1992-09-30 |
 | Odluka o usklađivanju naknada osobnoga dohotka u svezi s pravom na prekvalifikaciju ili dokvalifikaciju i naknada osobnoga dohotka u svezi s pravom na zaposlenje od 1. srpnja 1992. | [`odluka/1992/1551/`](odluka/1992/1551/) | in force | 1 | 1992-09-30 | 1992-09-30 |
+| Odluka o usklađivanju novčanih naknada za tjelesno oštećenje od 1. srpnja 1992. | [`odluka/1992/1552/`](odluka/1992/1552/) | replaced, not consolidated | 1 | 1992-09-30 | 1992-09-30 |
+| Odluka o usklađivanju doplatka za pomoć i njegu od 1. srpnja 1992. | [`odluka/1992/1553/`](odluka/1992/1553/) | replaced, not consolidated | 1 | 1992-09-30 | 1992-09-30 |
 | Odluka o usklađivanju akontacija mirovina, doplatka za pomoć i njegu i novčanih naknada za tjelesno oštećenje od 1. srpnja 1992. | [`odluka/1992/1554/`](odluka/1992/1554/) | in force | 1 | 1992-09-30 | 1992-09-30 |
+| Odluka o najnižoj svoti naknade osobnoga dohotka u svezi s pravom na prekvalifikaciju ili dokvalifikaciju i naknade osobnoga dohotka u svezi s pravom na zaposlenje od 1. srpnja 1992. | [`odluka/1992/1555/`](odluka/1992/1555/) | in force | 1 | 1992-09-30 | 1992-09-30 |
 | Odluka o usklađivanju mirovina od 1. srpnja 1992. | [`odluka/1992/1556/`](odluka/1992/1556/) | in force | 1 | 1992-09-30 | 1992-09-30 |
+| Odluka o graničnoj svoti najnižega mirovinskog primanja od 1. srpnja 1992. | [`odluka/1992/1557/`](odluka/1992/1557/) | replaced, not consolidated | 1 | 1992-09-30 | 1992-09-30 |
 | Odluka o usklađivanju naknada osobnoga dohotka u svezi s pravom na prekvalifikaciju ili dokvalifikaciju od 1. srpnja 1992. | [`odluka/1992/1558/`](odluka/1992/1558/) | in force | 1 | 1992-09-30 | 1992-09-30 |
+| Odluka o usklađivanju novčanih naknada za tjelesno , oštećenje od 1. srpnja 1992. | [`odluka/1992/1559/`](odluka/1992/1559/) | replaced, not consolidated | 1 | 1992-09-30 | 1992-09-30 |
+| Odluka o usklađivanju doplatka za pomoć i njegu od 1. srpnja 1992. | [`odluka/1992/1560/`](odluka/1992/1560/) | replaced, not consolidated | 1 | 1992-09-30 | 1992-09-30 |
+| Odluka o najnižoj svoti naknade osobnog dohotka u svezi s pravom na prekvalifikaciju ili dokvalifikaciju i naknade osobnog dohotka u svezi s pravom na zaposlenje od 1. srpnja 1992. | [`odluka/1992/1561/`](odluka/1992/1561/) | in force | 1 | 1992-09-30 | 1992-09-30 |
+| Odluka o visini dnevnice za službeno putovanje i visini naknada za korisnike koji se financiraju iz sredstava Državnog proračuna | [`odluka/1992/1565/`](odluka/1992/1565/) | repealed, not consolidated | 1 | 1992-09-25 | 1992-09-25 |
+| Odluka o stručnoj službi Sabora Republike Hrvatske | [`odluka/1992/1585/`](odluka/1992/1585/) | repealed, not consolidated | 1 | 1992-09-24 | 1992-09-24 |
+| Odluka o načinu i uvjetima korištenja kredita iz primarne emisije u IV. tromjesečju 1992. godine | [`odluka/1992/1623/`](odluka/1992/1623/) | cited later, not consolidated | 1 | 1992-10-01 | 1992-10-01 |
 | Odluka o načinu utvrđivanja kvota za odobravanje reeskontnih kredita bankama u IV. tromjesečju 1992. godine | [`odluka/1992/1624/`](odluka/1992/1624/) | in force | 1 | 1992-10-01 | 1992-10-01 |
 | Odluka o visini reeskontnih kvota za korištenje kredita iz primarne emisije u IV. tromjesečju 1992. godine | [`odluka/1992/1625/`](odluka/1992/1625/) | in force | 1 | 1992-10-01 | 1992-10-01 |
 | Odluka o eskontnoj stopi Narodne banke Hrvatske za listopad 1992. godine | [`odluka/1992/1628/`](odluka/1992/1628/) | in force | 1 | 1992-10-01 | 1992-10-01 |
+| Odluka o dopuni Odluke o obveznoj rezervi banaka kod Narodne banke Hrvatske | [`odluka/1992/1629/`](odluka/1992/1629/) | amended, not consolidated | 1 | 1992-10-01 | 1992-10-01 |
 | Odluka o dopuni Odluke o načinu obračuna, naplate i plaćanja aktivnih i pasivnih kamata, te naknada Narodne banke Hrvatske | [`odluka/1992/1630/`](odluka/1992/1630/) | amending act | 1 | 1992-10-01 | 1992-10-01 |
+| Odluka o izmjeni Odluke o načinu i uvjetima odobravanja posebnog kredita po štednim ulozima i tekućim računima građanima u dinarima | [`odluka/1992/1631/`](odluka/1992/1631/) | in force | 1 | 1992-10-01 | 1992-10-01 |
 | Odluka o utvrđivanju visine minimalnog iznosa osnivačkog fonda banke u osnivanju za mjesec listopad 1992. godine | [`odluka/1992/1632/`](odluka/1992/1632/) | in force | 1 | 1992-10-01 | 1992-10-01 |
 | Odluka o izmjenama Odluke o određivanju najnižh svota na koje se mora ugovoriti osiguranje putnika u javnom prijevozu od posljedica nesretnog slučaju | [`odluka/1992/1648/`](odluka/1992/1648/) | in force | 1 | 1992-10-10 | 1992-10-10 |
+| Odluka o suglasnosti na iznos radijske i televizijske pretplate | [`odluka/1992/1649/`](odluka/1992/1649/) | replaced, not consolidated | 1 | 1992-10-02 | 1992-10-02 |
 | Odluka o plaćanju posebne takse na uvezenu robu u 1992. godini | [`odluka/1992/1650/`](odluka/1992/1650/) | in force | 1 | 1992-10-10 | 1992-10-10 |
 | Odluka o posebnim mjerama carinskog nadzora u slobodnoj zoni | [`odluka/1992/1652/`](odluka/1992/1652/) | in force | 1 | 1992-10-11 | 1992-10-11 |
 | Odluka o izmjenama Odluke o vrsti, količini i vrijednosti predmeta na koje se pri uvozu primjenjuju carinske povlastice | [`odluka/1992/1654/`](odluka/1992/1654/) | in force | 1 | 1992-10-03 | 1992-10-03 |
 | Odluka o dopuni Odluke o visini takse za carinsko evidentiranje | [`odluka/1992/1655/`](odluka/1992/1655/) | amending act | 1 | 1992-10-03 | 1992-10-03 |
+| Odluka o preferencijalnim carinskim stopama za uvoz određene robe iz zemalja u razvoju | [`odluka/1992/1656/`](odluka/1992/1656/) | in force | 1 | 1992-10-11 | 1992-10-11 |
+| Odluka o kriterijima za carinski kontingent | [`odluka/1992/1658/`](odluka/1992/1658/) | repealed, not consolidated | 1 | 1992-10-11 | 1992-10-11 |
 | Odluka o uvjetima i načinu carinjenja robe za koju nije podnijeta potpuna dokumentacija i u slučajevima kada se ne podnosi carinska deklaracija | [`odluka/1992/1659/`](odluka/1992/1659/) | in force | 1 | 1992-10-11 | 1992-10-11 |
 | Odluka o uvjetitma za podizanje robe koja je pod carinskim nadzorom prije obračuna i naplate carine i drugih opterećenja pri uvozu robe | [`odluka/1992/1660/`](odluka/1992/1660/) | in force | 1 | 1992-10-11 | 1992-10-11 |
 | Odluka o svoti za koju se ne donosi rješenje o naknadnoj naplati carine, uvoznih pristojbi i kamate i koja se prisilno ne naplaćuje | [`odluka/1992/1661/`](odluka/1992/1661/) | in force | 1 | 1992-10-11 | 1992-10-11 |
 | Odluka o uvjetima za vraćanje carine i drugih pristojbi za robu vraćenu u inozemstvo | [`odluka/1992/1662/`](odluka/1992/1662/) | in force | 1 | 1992-10-11 | 1992-10-11 |
 | Odluka o naknadi štete koju carinarnica nanese u carinskom postupku | [`odluka/1992/1663/`](odluka/1992/1663/) | in force | 1 | 1992-10-11 | 1992-10-11 |
 | Odluka o načinu prodaje carinske robe i rasporedu sredstava dobivenih prodajom te robe | [`odluka/1992/1664/`](odluka/1992/1664/) | in force | 1 | 1992-10-11 | 1992-10-11 |
+| Odluka o izmjeni vrijednosti boda Tarife o nagradama i naknadi troškova za rad odvjetnika | [`odluka/1992/1670/`](odluka/1992/1670/) | in force | 1 | 1992-10-03 | 1992-10-03 |
 | Odluka o izmjenama Tarife o nagradama i naknadi troškova za rad odvjetnika | [`odluka/1992/1671/`](odluka/1992/1671/) | in force | 1 | 1992-10-03 | 1992-10-03 |
 | Odluka o osnivanju Ambasade Republike Hrvatske u Republici Bosni i Hercegovini sa sjedištem u Sarajevu | [`odluka/1992/1692/`](odluka/1992/1692/) | in force | 1 | 1992-09-23 | 1992-09-23 |
 | Odluka o osnivanju Ambasade Republike Hrvatske u Kraljevini Maroko sa sjedištem u Rabatu | [`odluka/1992/1693/`](odluka/1992/1693/) | in force | 1 | 1992-09-23 | 1992-09-23 |
 | Odluka o osnivanju Ambasade Republike Hrvatske u Republici Bugarskoj sa sjedištem u Sofiji | [`odluka/1992/1694/`](odluka/1992/1694/) | in force | 1 | 1992-09-23 | 1992-09-23 |
 | Odluka o osnivanju Konzulata Republike Hrvatske u Melbournu, Commonwealth of Australia | [`odluka/1992/1695/`](odluka/1992/1695/) | in force | 1 | 1992-09-25 | 1992-09-25 |
+| Odluka o obvezi stavljanja u promet određenih količina brašna i kruha tipa 850 | [`odluka/1992/1700/`](odluka/1992/1700/) | repealed, not consolidated | 1 | 1992-10-09 | 1992-10-09 |
 | Odluka o izmjeni i dopuni Odluke o utvrdivanju vrijednosti beda za primjenu Popisa dijagnostičkih i terapijskih postupaka - vremenski i kadrovski normativi u 1992. godini | [`odluka/1992/1716/`](odluka/1992/1716/) | amending act | 1 | 1992-10-09 | 1992-10-09 |
 | Odluka o izmjeni i dopuni Odluke o osnovama za uspostavljanje ugovornog adnosa sa subjektima provođenja zdravstvene zaštite u 1992. godini | [`odluka/1992/1717/`](odluka/1992/1717/) | amending act | 1 | 1992-10-09 | 1992-10-09 |
 | Odluka o izmjeni i dopuni Odluke o utvrdivanju visine plaće zdravstvenih radnika, pripravnika i specijalizanata u organizacijama zdravstva | [`odluka/1992/1719/`](odluka/1992/1719/) | amending act | 1 | 1992-10-09 | 1992-10-09 |
+| Odluka o suglasnosti na povećanje cijene električne energije | [`odluka/1992/1726/`](odluka/1992/1726/) | replaced, not consolidated | 1 | 1992-10-10 | 1992-10-10 |
+| Odluka o suglasnosti na povećanje cijena prijevoza putnika i stvari u unutarnjem željezničkom prometu | [`odluka/1992/1727/`](odluka/1992/1727/) | replaced, not consolidated | 1 | 1992-10-10 | 1992-10-10 |
+| Odluka o određivanju najviših cijena pšeničnog brašna i kruha tipa 850 | [`odluka/1992/1728/`](odluka/1992/1728/) | repealed, not consolidated | 1 | 1992-10-10 | 1992-10-10 |
+| Odluka o suglasnosti na povećanje prodajnih cijena osnovnih naftnih derivata | [`odluka/1992/1729/`](odluka/1992/1729/) | replaced, not consolidated | 1 | 1992-10-10 | 1992-10-10 |
+| Odluka o suglasnosti na povećanje cijena prirodnog plina | [`odluka/1992/1730/`](odluka/1992/1730/) | replaced, not consolidated | 1 | 1992-10-10 | 1992-10-10 |
 | Odluka o stavljanju izvan snage Odluke o izuzimanju od zabrane prijenosa prava raspolaganja i oduzimanja iz posjeda nekretnina u k. o. Kutina | [`odluka/1992/1731/`](odluka/1992/1731/) | in force | 1 | 1992-10-10 | 1992-10-10 |
 | Odluka o irnenavanju pomoćnika ministra unutarnjih poslova | [`odluka/1992/1858/`](odluka/1992/1858/) | in force | 1 | 1992-10-09 | 1992-10-09 |
+| Odluka o visini i načinu plaćanja naknade za pokriće troškova kontrole kvalitete poljoprivrednih i prehrambenih proizvoda u vanjskotrgovinskom prometu | [`odluka/1992/1866/`](odluka/1992/1866/) | replaced, not consolidated | 1 | 1992-11-03 | 1992-11-03 |
 | Odluka o utvrđivanju općeg interesa za izgradnju graničnog prijelaza Brod na Kupi - Petrina | [`odluka/1992/1867/`](odluka/1992/1867/) | in force | 1 | 1992-10-26 | 1992-10-26 |
 | Odluka o utvrđivanju općeg interesa za izgradnju graničnog prijelaza Čabar - Draga | [`odluka/1992/1868/`](odluka/1992/1868/) | in force | 1 | 1992-10-26 | 1992-10-26 |
 | Odluka o utvrđivanju općeg interesa za izgradnju graničnog prijelaza Macelj | [`odluka/1992/1869/`](odluka/1992/1869/) | in force | 1 | 1992-10-26 | 1992-10-26 |
@@ -2846,23 +3055,35 @@
 | Odluka o izmjeni Odluke o osnivanju poduzeća "Remontno brodogradilište Šibenik" | [`odluka/1992/1876/`](odluka/1992/1876/) | in force | 1 | 1992-10-26 | 1992-10-26 |
 | Odluka o usvajanju Plana potrebnog broja bolesničkih ležaja u stacionarnim ustanovama za liječenje akutnih i kroničnih bolesti osiguranika Republičkog fonda zdravstvenog osiguranja i zdravstva Hrvatsk | [`odluka/1992/1884/`](odluka/1992/1884/) | in force | 1 | 1992-10-26 | 1992-10-26 |
 | Odluka o ograničenju izvoza odredenih proizvoda | [`odluka/1992/1897/`](odluka/1992/1897/) | in force | 1 | 1992-10-28 | 1992-10-28 |
+| Odluka o visini posebne takse koja se naplaćuje pri izdavanju odobrenja za otvaranje igračnice | [`odluka/1992/1898/`](odluka/1992/1898/) | cited later, not consolidated | 1 | 1992-10-28 | 1992-10-28 |
+| Odluka o visini posebne takse koja se naplaćuje za postavljanje automata za igre na sreću s jednostrukim ulogom i automata za zabavne igre u ugostiteljskim objektima | [`odluka/1992/1899/`](odluka/1992/1899/) | cited later, not consolidated | 1 | 1992-10-28 | 1992-10-28 |
+| Odluka o visini posebne takse koja se naplaćuje pri izdavanju odobrenja za otvaranje automat-kluba | [`odluka/1992/1900/`](odluka/1992/1900/) | in force | 1 | 1992-10-28 | 1992-10-28 |
+| Odluka o visini posebne takse koja se naplaćuje pri izdavanju odobrenja za otvaranje zabavnog kluba | [`odluka/1992/1901/`](odluka/1992/1901/) | in force | 1 | 1992-10-28 | 1992-10-28 |
 | Odluka o visini posebne takse koja se naplaćuje pri izdavanju odobrenja za jednokratno organiziranje prigodne lutrije, tombole ili klađenja na sportskim priredbama i robno-novčane lutrije, koji se org | [`odluka/1992/1902/`](odluka/1992/1902/) | in force | 1 | 1992-10-28 | 1992-10-28 |
+| Odluka o socijalnom minimumu | [`odluka/1992/1903/`](odluka/1992/1903/) | amended, not consolidated | 1 | 1992-10-28 | 1992-10-28 |
+| Odluka o valorizaciji pomoći i naknada u socijalnoj skrbi | [`odluka/1992/1904/`](odluka/1992/1904/) | replaced, not consolidated | 1 | 1992-10-28 | 1992-10-28 |
 | Odluka o iznosu minimalne plaće u Republici Hrvatskoj za mjesec listopad 1992. godine | [`odluka/1992/1905/`](odluka/1992/1905/) | in force | 1 | 1992-10-28 | 1992-10-28 |
 | Odluka o stavljanju izvan snage Odluke o osnivanju Vrhovnog državnog vijeća Republike Hrvatske | [`odluka/1992/1911/`](odluka/1992/1911/) | in force | 1 | 1992-09-10 | 1992-09-10 |
 | Odluka o utvrđivanju plače predsjednika Vlade Republike Hrvatske, potpredsjednika Vlade Republike Hrvatske, ministara, drugih članova Vlade te dužnosnika koje imenuje i razrješava Vlada Republike Hrva | [`odluka/1992/1921/`](odluka/1992/1921/) | in force | 1 | 1992-10-30 | 1992-10-30 |
 | Odluka o eskontnoj stopi Narodne banke Hrvatske za studeni 1992. godine | [`odluka/1992/1928/`](odluka/1992/1928/) | in force | 1 | 1992-10-30 | 1992-10-30 |
 | Odluka o ukidanju lnozemnog ureda Republike Hrvatske u Parizu, Republika Francuska | [`odluka/1992/1932/`](odluka/1992/1932/) | in force | 1 | 1992-10-27 | 1992-10-27 |
 | Odluka o osnivanju Ambasade Republike Hrvatske u Republici Poljskoj, sa sjedištem u Varšavi | [`odluka/1992/1934/`](odluka/1992/1934/) | in force | 1 | 1992-10-27 | 1992-10-27 |
+| Odluka o osnivanju Generalnog konzulata Republike Hrvatske u Aarhusu, Kraljevina Danska | [`odluka/1992/1935/`](odluka/1992/1935/) | amended, not consolidated | 1 | 1992-10-29 | 1992-10-29 |
 | Odluka o visini dnevmce za službeno putovanje i visini nalada za korisnike koji se financiraju iz sredstava Državnog prorauna | [`odluka/1992/1940/`](odluka/1992/1940/) | in force | 1 | 1992-11-03 | 1992-11-03 |
+| Odluka o obvezi dostavljanja izvješća o stanju potraživanja iz inozemstva i stanju dugovanja po odredenim osnovama | [`odluka/1992/1948/`](odluka/1992/1948/) | in force | 1 | 1992-11-03 | 1992-11-03 |
 | Odluka o izmjenama Odluke o izdavanju bIagajničkih zapisa Narodne banke Hrvatske | [`odluka/1992/1949/`](odluka/1992/1949/) | in force | 1 | 1992-11-03 | 1992-11-03 |
 | Odluka o izmjeni OdIuke o načinu i uvjetima odobravanja posebnog kredita po štednim ulozima i tekućim računima gradanima u dinarima | [`odluka/1992/1950/`](odluka/1992/1950/) | in force | 1 | 1992-11-03 | 1992-11-03 |
 | Odluka o izmjenama Odluke o analitičkim računima u kontnom planu za banke | [`odluka/1992/1951/`](odluka/1992/1951/) | in force | 1 | 1992-11-03 | 1992-11-03 |
 | Odluka o dopuni Odluke o načinu obračuna, naplate i plačanja aktivnih i pasivnih kamata, te naklada Narodne banke Hrvatske | [`odluka/1992/1952/`](odluka/1992/1952/) | amending act | 1 | 1992-11-03 | 1992-11-03 |
 | Odluka o izmjeni Odluke o nainu održavanja minimalne likvidnosti banaka | [`odluka/1992/1953/`](odluka/1992/1953/) | in force | 1 | 1992-11-03 | 1992-11-03 |
+| Odluka o uvjetima i rokovima do kojih se može odobriti produženje roka naplate izvezene robe i usluga | [`odluka/1992/1954/`](odluka/1992/1954/) | amended, not consolidated | 1 | 1992-11-03 | 1992-11-03 |
+| Odluka o načinu obavljanja mjenjačkih poslova | [`odluka/1992/1955/`](odluka/1992/1955/) | amended, not consolidated | 1 | 1992-11-03 | 1992-11-03 |
 | Odluka o načanu formiranja teaja hrvatskog dinara u Narodnoj bana Hrvatske | [`odluka/1992/1956/`](odluka/1992/1956/) | in force | 1 | 1992-11-03 | 1992-11-03 |
 | Odluka o prodaji dijela deviza Narodnoj banci Hratske po osnovi otkupljenog efektivnog stranog novca po mjenjačkim poslovima i po osnovi otkupa deviza od domaćih i stranih fizičkih osoba | [`odluka/1992/1957/`](odluka/1992/1957/) | in force | 1 | 1992-11-03 | 1992-11-03 |
 | Odluka o utvrdivanju visine minimalnog iznosa osnivačkog fonda banke u osnivanju za mjesec studeni 1992. godine | [`odluka/1992/1958/`](odluka/1992/1958/) | in force | 1 | 1992-11-03 | 1992-11-03 |
+| Odluka o izmjeni Odluke o prodaji bankama blagajničkih zapisa Narodne banke Hrvatske | [`odluka/1992/1959/`](odluka/1992/1959/) | in force | 1 | 1992-10-30 | 1992-10-30 |
 | Odluka o osnivanju Generalnog konzulata Republike Hrvatske u Aucklandu, Novi Zeland | [`odluka/1992/1969/`](odluka/1992/1969/) | in force | 1 | 1992-11-02 | 1992-11-02 |
+| Odluka o visini naknade za veterinarsko-sanitarne preglede u prometu preko granice Republike Hrvatske | [`odluka/1992/2027/`](odluka/1992/2027/) | repealed, not consolidated | 1 | 1992-11-13 | 1992-11-13 |
 | Odluka o visini naknade za žigosanje predmeta od plemenitih kovina dodatnim žigom Republike Hrvatske | [`odluka/1992/2029/`](odluka/1992/2029/) | in force | 1 | 1992-11-21 | 1992-11-21 |
 | Odluka o prestanku važenja Odluke o prijenosu sredstava bivših vojnih ustanova koje su obavljale privrednu djelatnost Hrvatskom fondu za razvoj | [`odluka/1992/2030/`](odluka/1992/2030/) | in force | 1 | 1992-11-13 | 1992-11-13 |
 | Odluka o davanju na upravljanje i korištenje nadležnim ministarstvima Republike Hrvatske stanova bivših saveznih organa, institucija i ustanova | [`odluka/1992/2031/`](odluka/1992/2031/) | in force | 1 | 1992-11-13 | 1992-11-13 |
@@ -2871,11 +3092,16 @@
 | Odluka o najvišem iznosu radijske i televizijske pretplate | [`odluka/1992/2065/`](odluka/1992/2065/) | in force | 1 | 1992-11-26 | 1992-11-26 |
 | Odluka o suglasnosti na povećanje cijena prirodnog plina | [`odluka/1992/2066/`](odluka/1992/2066/) | in force | 1 | 1992-11-26 | 1992-11-26 |
 | Odluka o suglasnosti na povečanje cijene električne energije | [`odluka/1992/2067/`](odluka/1992/2067/) | in force | 1 | 1992-11-26 | 1992-11-26 |
+| Odluka o suglasnosti na povećanje prodajnih cijena osnovnih naftnih derivata | [`odluka/1992/2068/`](odluka/1992/2068/) | replaced, not consolidated | 1 | 1992-11-26 | 1992-11-26 |
+| Odluka o suglasnosti na povećanje cijena prijevoza putnika i stvari u unutarnjem željezničkom prometu | [`odluka/1992/2069/`](odluka/1992/2069/) | replaced, not consolidated | 1 | 1992-11-26 | 1992-11-26 |
 | Odluka o suglasnosti na cijene osnovnih usluga u unutarnjem poštanskom i telefonskom prometu | [`odluka/1992/2070/`](odluka/1992/2070/) | in force | 1 | 1992-11-26 | 1992-11-26 |
 | Odluka o izmjenama Odluke o visini godišnje naknade za upotrebu cesta što se plaća na cestovna motorna i priključna vozila | [`odluka/1992/2071/`](odluka/1992/2071/) | in force | 1 | 1992-12-04 | 1992-12-04 |
+| Odluka o izmjenama Odluke o visini naknade za korištenje voda | [`odluka/1992/2072/`](odluka/1992/2072/) | in force | 1 | 1992-11-26 | 1992-11-26 |
 | Odluka o izmjenama Odluke o socijalnom minimumu | [`odluka/1992/2074/`](odluka/1992/2074/) | in force | 1 | 1992-11-26 | 1992-11-26 |
+| Odluka o valorizaciji pomoći i naknada u socijalnoj skrbi | [`odluka/1992/2075/`](odluka/1992/2075/) | replaced, not consolidated | 1 | 1992-11-26 | 1992-11-26 |
 | Odluka o izmjenama Odluke o utvrđivanju plaće predsjednika Vlade Republike Hrvatske, potpredsjednika Vlade Republike Hrvatske, ministara, drugih članova Vlade te dužnosnika koje imenuje i razjrešava V | [`odluka/1992/2076/`](odluka/1992/2076/) | in force | 1 | 1992-11-26 | 1992-11-26 |
 | Odluka o osnivanju Generalnog konzulata Republike Hrvatske u Melbourneu, Australija | [`odluka/1992/2092/`](odluka/1992/2092/) | in force | 1 | 1992-11-16 | 1992-11-16 |
+| Odluka o osnivanju Generalnog konzulata Republike Hrvatske u Bratislavi, Češka i Slovačka Federativna Republika | [`odluka/1992/2093/`](odluka/1992/2093/) | repealed, not consolidated | 1 | 1992-11-16 | 1992-11-16 |
 | Odluka o ukidanju Inozemnog ureda Republike Hrvatske u Stuttgartu, Savezna Republika Njemačka | [`odluka/1992/2094/`](odluka/1992/2094/) | in force | 1 | 1992-11-18 | 1992-11-18 |
 | Odluka o ukidanju Inozemnog ureda Republike Hrvatske u Munchenu, Savezna Republika Njemačka | [`odluka/1992/2096/`](odluka/1992/2096/) | in force | 1 | 1992-11-18 | 1992-11-18 |
 | Odluka o osnivanju Ambasade Republike Hrvatske u Sjedinjenim Američkim Državama, sa sjedištem u Washingtonu | [`odluka/1992/2108/`](odluka/1992/2108/) | in force | 1 | 1992-11-24 | 1992-11-24 |
@@ -2884,23 +3110,33 @@
 | Odluka o izmjeni Odluke o načinu i uvjetima odobravanja posebnog kedita po štednim ulozima i tekućim računima građanima u dinarima | [`odluka/1992/2119/`](odluka/1992/2119/) | in force | 1 | 1992-11-30 | 1992-11-30 |
 | Odluka o utvrđivanju visine minimalnog iznosa osnivačkog fonda banke u osnivanju za mjesec prosinac 1992. godine | [`odluka/1992/2120/`](odluka/1992/2120/) | in force | 1 | 1992-11-30 | 1992-11-30 |
 | Odluka o mjerilima za određivanje plaće i drugih primanja sudaca Ustavnog suda Republike Hrvatske | [`odluka/1992/2123/`](odluka/1992/2123/) | in force | 1 | 1992-11-30 | 1992-11-30 |
+| Odluka o izmjeni i dopuni Odluke o prijenosu dijela sredstava s prolaznih žiro-računa ispostava, u korist redovnog žiro-računa Direkcije Republičkog fonda | [`odluka/1992/2163/`](odluka/1992/2163/) | amending act | 1 | 1992-12-01 | 1992-12-01 |
+| Odluka o izmjeni i dopuni Odluke o utvrđivanju vrijednosti boda za primjenu Popis dijagnostičkih i terapijskih postupaka - vremenski i kadrovski normativi u 1992. godini | [`odluka/1992/2165/`](odluka/1992/2165/) | amending act | 1 | 1992-12-01 | 1992-12-01 |
 | Odluka o izmjeni i dopuni Odluke o osnovama za uspostavljanje ugovornog odnosa sa subjektima provođenja zdravstvene zaštite u 1992. godini | [`odluka/1992/2166/`](odluka/1992/2166/) | amending act | 1 | 1992-12-01 | 1992-12-01 |
+| Odluka o izmjenama Odluke o sudjelovanju osiguranika u troškovima zdravstvene zaštite | [`odluka/1992/2167/`](odluka/1992/2167/) | in force | 1 | 1992-12-09 | 1992-12-09 |
 | Odluka o izmjeni i dopuni Odluke o utvrđivanju visine plaće zdravstvenih radnika pripravnika i specijalizanata u organizacijama zdravstva | [`odluka/1992/2168/`](odluka/1992/2168/) | amending act | 1 | 1992-12-01 | 1992-12-01 |
 | Odluka o izmjeni Odluke o obliku i sadržaju recepta za propisivanje lijekova | [`odluka/1992/2169/`](odluka/1992/2169/) | in force | 1 | 1992-12-01 | 1992-12-01 |
 | Odluka o izmjeni Odluke o načinu održavanja minimalne likvidnosti banaka | [`odluka/1992/2179/`](odluka/1992/2179/) | in force | 1 | 1992-12-02 | 1992-12-02 |
+| Odluka o kriterijima i mjerilima za utvrđivanje visine naknade za korištenje cestovnog zemljišta u Republici Hrvatskoj | [`odluka/1992/2180/`](odluka/1992/2180/) | repealed, not consolidated | 1 | 1992-11-10 | 1992-11-10 |
 | Odluka o izmjeni Odluke o visini posebnih naknada za upotrebu javnih cesta i određenih objekata na cestama | [`odluka/1992/2181/`](odluka/1992/2181/) | in force | 1 | 1992-12-03 | 1992-12-03 |
 | Odluka o utvrđivanju općeg interesa za izgradnju graničnog prijelaza Jurovski Brod - Metlika | [`odluka/1992/2185/`](odluka/1992/2185/) | in force | 1 | 1992-12-04 | 1992-12-04 |
 | Odluka o osnivanju Stalne misije Republike Hrvatske pri Konferenciji o europskoj sigurnosti i suradnji (KESS) u Beču | [`odluka/1992/2188/`](odluka/1992/2188/) | in force | 1 | 1992-09-16 | 1992-09-16 |
 | Odluka o osnivanju Misije Republike Hrvatske pri Vijeću Europe u Strasbourgu | [`odluka/1992/2189/`](odluka/1992/2189/) | in force | 1 | 1992-09-16 | 1992-09-16 |
+| Odluka o visini naknade za ceste što se plaća na cestovna motorna vozila s pogonom na plin | [`odluka/1992/2206/`](odluka/1992/2206/) | amended, not consolidated | 1 | 1992-12-12 | 1992-12-12 |
+| Odluka o visini posebnih naknada za upotrebu javnih cesta i određenih objekata na cestama | [`odluka/1992/2207/`](odluka/1992/2207/) | repealed, not consolidated | 1 | 1992-12-12 | 1992-12-12 |
 | Odluka o osnivanju Veleposlanstva Republike Hrvatske u Kraljevini Španjolskoj, sa sjedištem u Madridu | [`odluka/1992/2212/`](odluka/1992/2212/) | in force | 1 | 1992-12-10 | 1992-12-10 |
 | Odluka o osnivanju Veleposlanstva Republike Hrvatske u Republici Rumunjskoj, sa sjedištem u Bukureštu | [`odluka/1992/2213/`](odluka/1992/2213/) | in force | 1 | 1992-12-10 | 1992-12-10 |
 | Odluka o osnivanju Veleposlanstva Republike Hrvatske u Republici Čile, sa sjedištem u Santiagu | [`odluka/1992/2214/`](odluka/1992/2214/) | in force | 1 | 1992-12-10 | 1992-12-10 |
 | Odluka o produženju roka iz članka 59. stavak 1. Zakona o prodaji stanova na kojima postoji stanarsko pravo | [`odluka/1992/2235/`](odluka/1992/2235/) | in force | 1 | 1992-12-18 | 1992-12-18 |
 | Odluka o prihvaćanju članstva Republike Hrvatske u Međunarodnom monetarnom fondu | [`odluka/1992/2236/`](odluka/1992/2236/) | in force | 1 | 1992-12-18 | 1992-12-18 |
+| Odluka o doznačivanju (alokaciji) raspoloživih sredstava osiguranih prema Zakonu o financiranju obnove | [`odluka/1992/2237/`](odluka/1992/2237/) | replaced, not consolidated | 1 | 1992-12-18 | 1992-12-18 |
+| Odluka o plaćanju posebne takse na uvezenu robu u 1993. godini | [`odluka/1992/2238/`](odluka/1992/2238/) | amended, not consolidated | 1 | 1992-12-18 | 1992-12-18 |
 | Odluka o usklađivanju mirovina od 1. kolovoza 1992. i o najvišoj starosnoj i invalidskoj mirovini | [`odluka/1992/2242/`](odluka/1992/2242/) | in force | 1 | 1992-12-26 | 1992-12-26 |
 | Odluka o graničnoj svoti najnižega mirovinskog primanja od 1. kolovoza 1992. | [`odluka/1992/2243/`](odluka/1992/2243/) | in force | 1 | 1992-12-26 | 1992-12-26 |
 | Odluka o visini minimalne mirovine od 1. kolovoza 1992. | [`odluka/1992/2244/`](odluka/1992/2244/) | in force | 1 | 1992-12-26 | 1992-12-26 |
 | Odluka o usklađivanju naknada osobnoga dohotka u svezi s pravom na prekvalifikaciju ili dokvalifikaciju i naknada osobnoga dohotka u svezi s pravom na zaposlenje od 1. kolovoza 1992. | [`odluka/1992/2245/`](odluka/1992/2245/) | in force | 1 | 1992-12-26 | 1992-12-26 |
+| Odluka o usklađivanju novčanih naknada za tjelesno oštećenje od 1. kolovoza 1992. | [`odluka/1992/2246/`](odluka/1992/2246/) | replaced, not consolidated | 1 | 1992-12-26 | 1992-12-26 |
+| Odluka o usklađivanju doplatka za pomoć i njegu od 1. kolovoza 1992. | [`odluka/1992/2247/`](odluka/1992/2247/) | replaced, not consolidated | 1 | 1992-12-26 | 1992-12-26 |
 | Odluka o usklađivanju akontacija mirovina, doplatka za pomoć i njegu i novčanih naknada za tjelesno oštećenje od 1. kolovoza 1992. | [`odluka/1992/2248/`](odluka/1992/2248/) | in force | 1 | 1992-12-26 | 1992-12-26 |
 | Odluka o najnižoj svoti naknade osobnoga dohotka u svezi s pravom na prekvalifikaciju ili okvalifikaciju i naknade osobnoga dohotka u svezi s pravom na zaposlenje od 1. listopada 1992. | [`odluka/1992/2249/`](odluka/1992/2249/) | in force | 1 | 1992-12-26 | 1992-12-26 |
 | Odluka o izmjeni Odluke o usklađivanju mirovina od 1.siječnja 1991. do 30. studenoga 1991. i o najvišoj starosnoj i invalidskoj mirovini | [`odluka/1992/2250/`](odluka/1992/2250/) | in force | 1 | 1992-12-26 | 1992-12-26 |
@@ -2909,8 +3145,11 @@
 | Odluka o izmjeni Odluke o usklađivanju novčanih naknada za tjelesno oštećenje od 1. siječnja 1991. do 30. studenoga 1991. | [`odluka/1992/2253/`](odluka/1992/2253/) | in force | 1 | 1992-12-26 | 1992-12-26 |
 | Odluka o izmjeni Odluke o usklađivanju naknada osobnoga dohotka u vezi s pravom na prekvalifikaciju ili dokvalifikaciju i naknada osobnoga dohotka u svezi s pravom na zaposlenje od 1. siječnja 1991. d | [`odluka/1992/2254/`](odluka/1992/2254/) | in force | 1 | 1992-12-26 | 1992-12-26 |
 | Odluka o izmjeni Odluke o usklađivanju doplatka za pomoć i njegu od l. siječnja 1991. do 30. studenoga 1991. | [`odluka/1992/2255/`](odluka/1992/2255/) | in force | 1 | 1992-12-26 | 1992-12-26 |
+| Odluka o usklađivanju mirovina od 1. kolovoza 1992. | [`odluka/1992/2256/`](odluka/1992/2256/) | amended, not consolidated | 1 | 1992-12-26 | 1992-12-26 |
 | Odluka o graničnoj svoti najnižega mirovinskog primanja od l. kolovoza 1992. | [`odluka/1992/2257/`](odluka/1992/2257/) | in force | 1 | 1992-12-26 | 1992-12-26 |
 | Odluka o usklađivanju naknada osobnoga dohotka u svezi s pravom na prekvalifikaciju ili dokvalifikaciju od 1. kolovoza 1992. | [`odluka/1992/2258/`](odluka/1992/2258/) | in force | 1 | 1992-12-26 | 1992-12-26 |
+| Odluka o usklađivanju novčanih naknada za tjelesno oštećenje od 1. kolovoza 1992. | [`odluka/1992/2259/`](odluka/1992/2259/) | replaced, not consolidated | 1 | 1992-12-26 | 1992-12-26 |
+| Odluka o usklađivanju doplatka za pomoć i njegu od 1. kolovoza 1992. | [`odluka/1992/2260/`](odluka/1992/2260/) | replaced, not consolidated | 1 | 1992-12-26 | 1992-12-26 |
 | Odluka o najnižoj svoti naknade osobnog dohotka u svezi s pravom na prekvalifikaciju ili dokvalifikaciju i naknade osobnog dohotka u svezi s pravom na zaposlenje od 1. listopada 1992. | [`odluka/1992/2261/`](odluka/1992/2261/) | in force | 1 | 1992-12-26 | 1992-12-26 |
 | Odluka o izmjeni i dopuni Odluke o osiguranju osnivača privatnih poduzeća u Republičkom fondu mirovinskog i invalidskog osiguranja samostalnih privrednika Hrvatske | [`odluka/1992/2262/`](odluka/1992/2262/) | amending act | 1 | 1992-12-26 | 1992-12-26 |
 | Odluka o izmjeni Odluke o usklađivanju mirovina od 1. siječnja 1991. do 30. studenoga 1991. | [`odluka/1992/2263/`](odluka/1992/2263/) | in force | 1 | 1992-12-26 | 1992-12-26 |
@@ -2919,9 +3158,11 @@
 | Odluka izmjeni Odluke o usklađivanju novčanih naknada za tjelesno oštećenje od 1. siječnja 1991. do 30. studenoga 1991. | [`odluka/1992/2266/`](odluka/1992/2266/) | in force | 1 | 1992-12-26 | 1992-12-26 |
 | Odluka o izmjeni Odluke o usklađivanju doplatka za pomoć i njegu od 1. siječnja 1991. do 30. studenoga 1991. | [`odluka/1992/2267/`](odluka/1992/2267/) | in force | 1 | 1992-12-26 | 1992-12-26 |
 | Odluka o određivanju privremene zajamčene najniže svote koja se isplaćuje korisniku mirovine od 1. siječnja 1993. | [`odluka/1992/2269/`](odluka/1992/2269/) | in force | 1 | 1992-12-26 | 1992-12-26 |
+| Odluka o privremenoj graničnoj svoti najnižega mirovinskog primanja od l.siječnja 1993. | [`odluka/1992/2270/`](odluka/1992/2270/) | in force | 1 | 1992-12-26 | 1992-12-26 |
 | Odluka o privremenoj visini minimalne mirovine od l. siječnja 1993. | [`odluka/1992/2271/`](odluka/1992/2271/) | in force | 1 | 1992-12-26 | 1992-12-26 |
 | Odluka o privremenoj visini doplatka za pomoć i njegu od 1. siječnja 1993. | [`odluka/1992/2272/`](odluka/1992/2272/) | in force | 1 | 1992-12-26 | 1992-12-26 |
 | Odluka o određivanju privremene osnovice za utvrđivanje novčane naknade za tjelesno oštećenje od l. siječnja 1993. | [`odluka/1992/2273/`](odluka/1992/2273/) | in force | 1 | 1992-12-26 | 1992-12-26 |
+| Odluka o visini dnevnice za službeno putovanje i visini naknada za korisnike koji se financiraju iz sredstava državnog proračuna | [`odluka/1992/2276/`](odluka/1992/2276/) | repealed, not consolidated | 1 | 1992-12-21 | 1992-12-21 |
 | Odluka o usklađivanju mirovina od 1. rujna 1992. i o najvišoj starosnoj i invalidskoj mirovini | [`odluka/1992/2290/`](odluka/1992/2290/) | in force | 1 | 1992-12-29 | 1992-12-29 |
 | Odluka o graničnoj svoti najnižega mirovinskog primanja od 1. rujna 1992. | [`odluka/1992/2291/`](odluka/1992/2291/) | in force | 1 | 1992-12-29 | 1992-12-29 |
 | Odluka o visini minimalne mirovine od 1. rujna 1992. | [`odluka/1992/2292/`](odluka/1992/2292/) | in force | 1 | 1992-12-29 | 1992-12-29 |
@@ -2929,17 +3170,34 @@
 | Odluka o usklađivanju novčanih naknada za tjelesno oštećenje od 1. rujna 1992. | [`odluka/1992/2294/`](odluka/1992/2294/) | in force | 1 | 1992-12-29 | 1992-12-29 |
 | Odluka o usklađivanju doplatka za pomoć i njegu od 1. rujna 1992. | [`odluka/1992/2295/`](odluka/1992/2295/) | in force | 1 | 1992-12-29 | 1992-12-29 |
 | Odluka o usklađivanju akontacija mirovina, doplatka za pomoć i njegu i novčanih naknada za tjelesno oštećenjeod 1. rujna 1992. | [`odluka/1992/2296/`](odluka/1992/2296/) | in force | 1 | 1992-12-29 | 1992-12-29 |
+| Odluka o privremenim valorizacijskim koeficijentima za preračunavanje osobnih dohodaka iz prijašnjih godina prema razini osobnih dohodaka iz godine 1992. | [`odluka/1992/2297/`](odluka/1992/2297/) | cited later, not consolidated | 1 | 1992-12-29 | 1992-12-29 |
+| Odluka o privremenim valorizacijskim koeficijentima za preračunavanje osnovica osiguranja i osobnih dohodaka iz prijašnjih godinaprema razini osobnih dohodaka iz godine 1992. | [`odluka/1992/2298/`](odluka/1992/2298/) | in force | 1 | 1992-12-29 | 1992-12-29 |
 | Odluka o odobravanju sredstava bez obveze vraćanja | [`odluka/1992/2307/`](odluka/1992/2307/) | in force | 1 | 1992-12-28 | 1992-12-28 |
+| Odluka o izmjenama i dopunama Poslovnika Zastupničkog doma Sabora Republike Hrvatske | [`odluka/1992/2308/`](odluka/1992/2308/) | amending act | 1 | 1992-12-23 | 1992-12-23 |
+| Odluka o odobravanjn reeskontnih i lombardnih kredita | [`odluka/1992/2338/`](odluka/1992/2338/) | in force | 1 | 1992-12-30 | 1992-12-30 |
 | Odluka o eskontnoj stopi Narodne banke Hrvatske za mjesec siječanj 1993. godine | [`odluka/1992/2340/`](odluka/1992/2340/) | in force | 1 | 1992-12-30 | 1992-12-30 |
+| Odluka o izmjeni Odluke o kamatnim stopama i stopama naknade Narodne banke Hrvatske | [`odluka/1992/2341/`](odluka/1992/2341/) | in force | 1 | 1992-12-30 | 1992-12-30 |
 | Odluka o uskladivanju mirovina od 1. listopada 1992. i o najvišoj starosnoj i invalidskoj mirovini | [`odluka/1992/2342/`](odluka/1992/2342/) | in force | 1 | 1993-01-07 | 1993-01-07 |
+| Odluka o graničnoj svoti najnižega mirovinskog primanja od 1. listopada 1992. | [`odluka/1992/2343/`](odluka/1992/2343/) | replaced, not consolidated | 1 | 1993-01-07 | 1993-01-07 |
 | Odluka o visini minimalne mirovine od 1: listopada 1992. | [`odluka/1992/2344/`](odluka/1992/2344/) | in force | 1 | 1993-01-07 | 1993-01-07 |
 | Odluka o uskladivanju naknada osobnoga dohotka u svezi s pravom na prekvalifikaciju ili dokvalifikaciju i naknada ušobnoga dohotka u svezi s pravom na zaposlenje od 1. listopada 1992. | [`odluka/1992/2345/`](odluka/1992/2345/) | in force | 1 | 1993-01-07 | 1993-01-07 |
 | Odluka o uskladivanju novčanih naknada za tjelesno oštećenje od 1. listopada 1992. | [`odluka/1992/2346/`](odluka/1992/2346/) | in force | 1 | 1993-01-07 | 1993-01-07 |
 | Odluka o usklađivanju doplatka za pomoć i njegu od 1. listopada 1992. | [`odluka/1992/2347/`](odluka/1992/2347/) | in force | 1 | 1993-01-07 | 1993-01-07 |
 | Odluka o uskladivanju mirovina, doplatka za pomoč i njegu i novćanih naknada za tjelesno oštećenje od 1. listopada 1992. | [`odluka/1992/2348/`](odluka/1992/2348/) | in force | 1 | 1993-01-07 | 1993-01-07 |
+| Odluka o usklađivanju mirovina od I. listopada 1992. | [`odluka/1992/2349/`](odluka/1992/2349/) | amended, not consolidated | 1 | 1993-01-07 | 1993-01-07 |
+| Odluka o graničnoj svoti najnižega mirovinskog primanja od 1. listopada 1992. | [`odluka/1992/2350/`](odluka/1992/2350/) | replaced, not consolidated | 1 | 1993-01-07 | 1993-01-07 |
 | Odluka o uskladivanju naknada osobnoga dohotka u svezi s pravom na prekvalifikaciju ili dokvalifikaciju od 1. listopada 1992. | [`odluka/1992/2351/`](odluka/1992/2351/) | in force | 1 | 1993-01-07 | 1993-01-07 |
 | Odluka o usklađivanju doplatka za pomoč i njegu od l. listopada 1992. | [`odluka/1992/2353/`](odluka/1992/2353/) | in force | 1 | 1993-01-07 | 1993-01-07 |
+| Odluka o privremenom financiranju javnih potreba i Privremenom proračunu Republike Hrvatske u prvom tromjesečju 1993. godine | [`odluka/1992/2371/`](odluka/1992/2371/) | cited later, not consolidated | 1 | 1992-12-31 | 1992-12-31 |
+| Odluka o mjerilima za određivanje plaće i drugih primanja dužnosnika i djelatnika koje imenuje i razrješava Sabor i njegovo radno tijelo | [`odluka/1992/2372/`](odluka/1992/2372/) | amended, not consolidated | 1 | 1992-12-30 | 1992-12-30 |
+| Odluka o visini opće kvote za korištenje kredita iz primarne emisije u I. tromjesečju 1993. godine | [`odluka/1992/2388/`](odluka/1992/2388/) | amended, not consolidated | 1 | 1992-12-31 | 1992-12-31 |
+| Odluka o izmjeni Odluke o načinu i uvjetima odobravanja posebnog kredita po štednim ulozima i tekućim računima građanima u dinarima | [`odluka/1992/2391/`](odluka/1992/2391/) | in force | 1 | 1992-12-31 | 1992-12-31 |
+| Odluka o izmjeni Odluke o privremenoj odgodi vraćanja dijela kredita odobrenih iz primarne emisije pravnim osobama koje su pretrpjele štetu od ratnih razaranja | [`odluka/1992/2392/`](odluka/1992/2392/) | in force | 1 | 1992-12-31 | 1992-12-31 |
 | Odluka o određivanju banaka sa sjedištem u Republici Hrvatskoj koje će obavljati poslove likvidacije poslovanja glavnih filijala Jugobanke d.d. Beograd koje su poslovale na teritoriju Republike Hrvats | [`odluka/1992/2394/`](odluka/1992/2394/) | in force | 1 | 1992-12-31 | 1992-12-31 |
+| Odluka o obvezi ovlaštenih banaka da drže određeni iznos u devizama kao minimalnu rezervu za održavanje likvidnosti u plaćanju prema inozemstvu u 1993. godini | [`odluka/1992/2395/`](odluka/1992/2395/) | cited later, not consolidated | 1 | 1992-12-31 | 1992-12-31 |
+| Odluka o iznošenju i unošenju efektivnih hrvatskih dinara u putničkom prometu s inozemstvom | [`odluka/1992/2396/`](odluka/1992/2396/) | repealed, not consolidated | 1 | 1992-12-31 | 1992-12-31 |
+| Odluka o tehničkim pravilima Hrvatskog registra brodova - Sredstva za spašavanje | [`odluka/1992/2397/`](odluka/1992/2397/) | replaced, not consolidated | 1 | 1993-01-08 | 1993-01-08 |
+| Odluka o tehničkim pravilima Hrvatskog registra brodova - Zaštita pri radu | [`odluka/1992/2398/`](odluka/1992/2398/) | in force | 1 | 1993-01-08 | 1993-01-08 |
 | Odluka o raspisivanju izbora za zastupnike u Županijski dom Sabora Republike Hrvatske | [`odluka/1993/1/`](odluka/1993/1/) | replaced, not consolidated | 1 | 1993-01-06 | 1993-01-06 |
 | Odluka o raspisivanju izbora za članove predstavničkih tijela jedinica lokalne samouprave i uprave | [`odluka/1993/2/`](odluka/1993/2/) | in force | 1 | 1993-01-06 | 1993-01-06 |
 | Odluka o utvrđivanju visine naknade troškova izborne promičbe za izbor zastupnika u Županijski dom Sabora Republike Hrvatske | [`odluka/1993/5/`](odluka/1993/5/) | in force | 1 | 1993-01-06 | 1993-01-06 |
@@ -16468,29 +16726,53 @@
 | Odluka o subvencioniranju dijela krajnje cijene isporučene toplinske energije za sve krajnje kupce osim za krajnje kupce koji koriste toplinsku energiju pretežito za poslovnu upotrebu | [`odluka/2026/1520/`](odluka/2026/1520/) | in force | 1 | 2026-11-07 | 2026-11-07 |
 | Odluka o raspisivanju izbora za članove Državnoodvjetničkog vijeće iz reda zamjenika državnih odvjetnika | [`odluka/2026/1523/`](odluka/2026/1523/) | in force | 1 | 2026-11-06 | 2026-11-06 |
 
-## pravilnik (10227, of which 2686 amending acts)
+## pravilnik (10269, of which 2686 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
+| Pravilnik o vježbaonicama | [`pravilnik/1990/65/`](pravilnik/1990/65/) | repealed, not consolidated | 1 | 1990-02-23 | 1990-02-23 |
 | Pravilnik o izmjeni Pravilnika o unutrašnjem poslovanju redovnih sudova (Sudski poslovnik) | [`pravilnik/1990/98/`](pravilnik/1990/98/) | in force | 1 | 1990-03-04 | 1990-03-04 |
+| Pravilnik o polaganju stručnog ispita za turističke vodiče i ispita za turističke pratioce | [`pravilnik/1990/99/`](pravilnik/1990/99/) | repealed, not consolidated | 1 | 1990-03-04 | 1990-03-04 |
+| Pravilnik o izmjeni Pravilnika o izradi studije o utjecaju na okolinu | [`pravilnik/1990/232/`](pravilnik/1990/232/) | in force | 1 | 1990-04-18 | 1990-04-18 |
 | Pravilnik o načinu rada Komisije za ocjenjivanje rukopisa udžbenika u osnovnom i srednjem usmjerenom obrazovanju | [`pravilnik/1990/269/`](pravilnik/1990/269/) | in force | 1 | 1990-04-25 | 1990-04-25 |
 | Pravilnik o izmjeni Pravilnika o Stalnom izbranom sudu pri Privrednoj komori Hrvatske | [`pravilnik/1990/272/`](pravilnik/1990/272/) | in force | 1 | 1990-04-25 | 1990-04-25 |
+| Pravilnik o načinu prijavljivanja za pravosudni ispit i o sastavu i načinu rada Ispitne komisije za polaganje pravosudnog ispita | [`pravilnik/1990/311/`](pravilnik/1990/311/) | repealed, not consolidated | 1 | 1990-05-06 | 1990-05-06 |
+| Pravilnik o sastavu i načinu rada Natječajne komisije za popunjavanje slobodnih radnih mjesta pripravnika u pravosudnim organima | [`pravilnik/1990/312/`](pravilnik/1990/312/) | repealed, not consolidated | 1 | 1990-05-06 | 1990-05-06 |
 | Pravilnik o dopuni Pravilnika o načinu isplaćivanja novčanih primanja i vođenju evidencija prema Zakonu o zaštiti boraca narodnooslobodičakog rata | [`pravilnik/1990/313/`](pravilnik/1990/313/) | amending act | 1 | 1990-05-06 | 1990-05-06 |
 | Pravilnik o dopuni Pravilnika o načinu isplaćivanja novčanih primanja i vođenju evidencije prema Zakonu o invalidskom dodatku i drugim pravima vojnih invalida | [`pravilnik/1990/314/`](pravilnik/1990/314/) | amending act | 1 | 1990-05-06 | 1990-05-06 |
 | Pravilnik o dopuni Pravilnika o načinu isplaćivanja novčanih primanja i vođenju evidenaje prema Zakonu o zaštiti žrtava fašističkog terora i građanskih žrtava rata | [`pravilnik/1990/315/`](pravilnik/1990/315/) | amending act | 1 | 1990-05-06 | 1990-05-06 |
 | Pravilnik o izmjeni Pravilnika o načinu postavljanja i obilježevanja pontonskih mostova te uvjetima plovidbe kroz otvore tih mostova | [`pravilnik/1990/365/`](pravilnik/1990/365/) | in force | 1 | 1990-05-08 | 1990-05-08 |
 | Pravilnik o izmjenama Pravilnika o održavanju reda u lukama i pristaništima te na ostalim dijelovima obalnog mora i unutrašnjim plovnim putovima | [`pravilnik/1990/366/`](pravilnik/1990/366/) | in force | 1 | 1990-05-08 | 1990-05-08 |
+| Pravilnik o kalendaru rada osnovnih škola | [`pravilnik/1990/429/`](pravilnik/1990/429/) | in force | 1 | 1990-06-02 | 1990-06-02 |
+| Pravilnik o tehničkim i zdravstveno-tehničkim uvjetima koji moraju biti ispunjeni za izdavanje zemljišta za kampiranje turistima | [`pravilnik/1990/454/`](pravilnik/1990/454/) | cited later, not consolidated | 1 | 1990-06-05 | 1990-06-05 |
 | Pravilnik o tehničkim i zdravstveno-tehničkim uvjetima koje moraju ispunjavati plovni objekti građana za pružanje turistima i putnicima usluga smještaja, prehrane, pića i napitaka kao i usluga pansio | [`pravilnik/1990/455/`](pravilnik/1990/455/) | in force | 1 | 1990-06-05 | 1990-06-05 |
+| Pravilnik o legitimaciji i izgledu značke turističkog vodiča | [`pravilnik/1990/456/`](pravilnik/1990/456/) | repealed, not consolidated | 1 | 1990-06-05 | 1990-06-05 |
+| Pravilnik o vrstama i kategorijama luka nautičkog turizma i o minimalnim tehničkim uvjetima koje moraju ispunjavati organizacije za pružanje usluga za potrebe nautičkog turizma | [`pravilnik/1990/457/`](pravilnik/1990/457/) | cited later, not consolidated | 1 | 1990-06-05 | 1990-06-05 |
+| Pravilnik o kategorijama plovnih objekata nautičkog turizma | [`pravilnik/1990/458/`](pravilnik/1990/458/) | cited later, not consolidated | 1 | 1990-06-05 | 1990-06-05 |
 | Pravilnik o izmjenama i dopunama Pravilnika o minimalnim tehničkim uvjetima i o kategorizaciji ugostiteljskih objekata | [`pravilnik/1990/459/`](pravilnik/1990/459/) | amending act | 1 | 1990-06-05 | 1990-06-05 |
+| Pravilnik o registrima i popisima u proizvodnji i doradi šumskog sjemena i u proizvodnji šumskog sadnog materijala | [`pravilnik/1990/503/`](pravilnik/1990/503/) | cited later, not consolidated | 1 | 1990-06-09 | 1990-06-09 |
+| Pravilnik o stručnom nadzoru nad proizvodnjom poljoprivrednog sjemena | [`pravilnik/1990/515/`](pravilnik/1990/515/) | amended, not consolidated | 1 | 1990-06-27 | 1990-06-27 |
 | Pravilnik o dopunama Pravilnika o privrednom i sportskom ribolovu,uzgoju riba i drugih morskih životinja,vađenju spužva ,koralja,školjkaša i morskog bilja | [`pravilnik/1990/516/`](pravilnik/1990/516/) | amending act | 1 | 1990-06-27 | 1990-06-27 |
+| Pravilnik o obrascima i načinu vođenja registra političkih organizacija | [`pravilnik/1990/525/`](pravilnik/1990/525/) | repealed, not consolidated | 1 | 1990-06-25 | 1990-06-25 |
 | Pravilnik o izmjenama i dopunama Pravilnika o doznaci stabala, žigosanju drvnih sortimenata, popratnici i šumskom redu | [`pravilnik/1990/597/`](pravilnik/1990/597/) | amending act | 1 | 1990-08-01 | 1990-08-01 |
+| Pravilnik o načinu vođenja evidencije i iskaznici pripadnika dobrovoljačkih omladinskih jedinica civilne zaštite Hrvatske | [`pravilnik/1990/670/`](pravilnik/1990/670/) | amended, not consolidated | 1 | 1990-08-14 | 1990-08-14 |
+| Pravilnik o stjecanju prava na rad sa skraćenim radnim vremenom zbog njege teže hendikepiranog djeteta | [`pravilnik/1990/694/`](pravilnik/1990/694/) | amended, not consolidated | 1 | 1990-09-05 | 1990-09-05 |
 | Pravilnik o dopuni Pravilnika o preglednosti na željezničku prugu s obje strane ceste i načinu osiguranja cestovnih prijelaza i križanja gradskih željeznica s prigradskim i industrijskim željeznicama | [`pravilnik/1990/695/`](pravilnik/1990/695/) | amending act | 1 | 1990-09-05 | 1990-09-05 |
 | Pravilnik o uvjetima koje moraju ispunjavati organizacije za mjerenje i predviđanje buke u sredini u kojoj ljudi rade i borave | [`pravilnik/1990/718/`](pravilnik/1990/718/) | in force | 1 | 1990-10-03 | 1990-10-03 |
+| Pravilnik o organiziranju školske godine u srednjim školama | [`pravilnik/1990/735/`](pravilnik/1990/735/) | repealed, not consolidated | 1 | 1990-10-12 | 1990-10-12 |
+| Pravilnik o uvjetima rada, organizacionim i drugim uvjetima za rad stanica za tehničke preglede vozila | [`pravilnik/1990/861/`](pravilnik/1990/861/) | replaced, not consolidated | 1 | 1990-11-20 | 1990-11-20 |
+| Pravilnik o normativima rada i jedinstvenim elementima o vrednovanju rezultata rada u stanicama za tehnički pregled vozila | [`pravilnik/1990/862/`](pravilnik/1990/862/) | replaced, not consolidated | 1 | 1990-11-20 | 1990-11-20 |
 | Pravilnik o programu i načinu stručnog usavršavanja i provjere stručnosti kontrolora i drugih radnika koji rade na stručnim poslovima tehničkih pregleda i registracije vozila | [`pravilnik/1990/864/`](pravilnik/1990/864/) | in force | 1 | 1990-11-20 | 1990-11-20 |
+| Pravilnik o uvjetima za obavljanje poslova zdravstvene zaštite samostalno osobnim radom | [`pravilnik/1990/918/`](pravilnik/1990/918/) | repealed, not consolidated | 1 | 1990-12-02 | 1990-12-02 |
 | Pravilnik o organizaciji i radu Republičkog fonda socijalne zaštite | [`pravilnik/1990/919/`](pravilnik/1990/919/) | in force | 1 | 1990-11-24 | 1990-11-24 |
+| Pravilnik o preventivnim tehničkim pregledima vozila | [`pravilnik/1990/920/`](pravilnik/1990/920/) | cited later, not consolidated | 1 | 1990-12-02 | 1990-12-02 |
 | Pravilnik o izmjenama i dopunama Pravilnika o načinu utvrđivanja vrijednosti i kvalitete stana te načinu i postupku utvrđivanja visine stanarine za pojedini stan | [`pravilnik/1990/921/`](pravilnik/1990/921/) | amending act | 1 | 1990-12-02 | 1990-12-02 |
+| Pravilnik o pravima, uvjetima i načinu korištenja zdravstvene zaštite u inozemstvu | [`pravilnik/1990/1083/`](pravilnik/1990/1083/) | amended, not consolidated | 1 | 1990-12-29 | 1990-12-29 |
+| Pravilnik o pedagoškim normativima za utvrđivanje standardnog opsega obveza nastavnika u srednjoj školi | [`pravilnik/1990/1195/`](pravilnik/1990/1195/) | repealed, not consolidated | 1 | 1990-12-31 | 1990-12-31 |
 | Pravilnik o izmjeni Pravilnika o određivanju poslova koje mogu obavljati osobe na ratnom rasporedu u organima unutrašnjih poslova, o njihovom stručnom osposobljavanju i usavršavanju kao i nošenju unif | [`pravilnik/1991/59/`](pravilnik/1991/59/) | in force | 1 | 1991-01-24 | 1991-01-24 |
 | Pravilnik o stručnoj spremi i o legitimaciji republičkog inspektora cestovnog prometa i cesta | [`pravilnik/1991/85/`](pravilnik/1991/85/) | in force | 1 | 1991-02-06 | 1991-02-06 |
+| Pravilnik o izmjenama i dopunama Pravilnika o načinu ostvarivanja zdravstvene zaštite osiguranika Republičkog fonda zdravstvenog osiguranja i zdravstva Hrvatske | [`pravilnik/1991/124/`](pravilnik/1991/124/) | amended, not consolidated | 1 | 1991-02-19 | 1991-02-19 |
+| Pravilnik o izmjeni i dopunama Pravilnika o pravima, uvjetima i postupku za ostvarivanje prava iz zdravstvenog osiguranja | [`pravilnik/1991/125/`](pravilnik/1991/125/) | amended, not consolidated | 1 | 1991-02-19 | 1991-02-19 |
 | Pravilnik o izmjenama i dopunama Pravilnika o načinu izrade šumskogospodarskih osnova područja, osnova gospodarenja gospodarskim jedinicama i programa za gospodarenje šumama | [`pravilnik/1991/164/`](pravilnik/1991/164/) | amending act | 1 | 1991-02-21 | 1991-02-21 |
 | Pravilnik o legitimaciji veterinarskog inspektora | [`pravilnik/1991/370/`](pravilnik/1991/370/) | in force | 1 | 1991-03-29 | 1991-03-29 |
 | Pravilnik o dopuni Pravilnika o stjecanju prava na rad sa skraćenim radnim vremenom zbog njege teže hendikepirana djeteta | [`pravilnik/1991/571/`](pravilnik/1991/571/) | amending act | 1 | 1991-04-14 | 1991-04-14 |
@@ -16508,12 +16790,30 @@
 | Pravilnik o polaganju predmetnih i razrednih ispita u osnovnoj školi | [`pravilnik/1991/881/`](pravilnik/1991/881/) | in force | 1 | 1991-07-03 | 1991-07-03 |
 | Pravilnik o izmjenama i dopunama Pravilnika o indikacijama, standardima i rokovima trajanja za proteze, ortopedska i druga pomagala | [`pravilnik/1991/888/`](pravilnik/1991/888/) | amending act | 1 | 1991-07-04 | 1991-07-04 |
 | Pravilnik o stručnoj spremi odnosno stručnoj osposobljenosti za samostalno obavljanje stručnih poslova u športu osobnim radom | [`pravilnik/1991/974/`](pravilnik/1991/974/) | in force | 1 | 1991-07-26 | 1991-07-26 |
+| Pravilnik o primjeni Zakona o porezu na promet proizvoda i usluga | [`pravilnik/1991/1006/`](pravilnik/1991/1006/) | amended, not consolidated | 1 | 1991-07-24 | 1991-07-24 |
 | Pravilnik za utvrđivanje lokacije i minimalnih uvjeta za projektiranje i uredenje autobusnih stajališta na javnim cestama | [`pravilnik/1991/1014/`](pravilnik/1991/1014/) | in force | 1 | 1991-08-01 | 1991-08-01 |
 | Pravilnik o sadržaju i obliku pedagoške dokumentacije te načinu čuvanja dokumentacije o hrvatskoj nastavi u inozemstvu | [`pravilnik/1991/1049/`](pravilnik/1991/1049/) | in force | 1 | 1991-08-07 | 1991-08-07 |
+| Pravilnik o iskaznici sanitarnog inspektora | [`pravilnik/1991/1050/`](pravilnik/1991/1050/) | amended, not consolidated | 1 | 1991-08-07 | 1991-08-07 |
 | Pravilnik o prostornim standardima, normativima te urbanističko-tehničkim uvjetima za planiranje mreže športskih objekata | [`pravilnik/1991/1058/`](pravilnik/1991/1058/) | in force | 1 | 1991-08-08 | 1991-08-08 |
+| Pravilnik o čamcima | [`pravilnik/1991/1097/`](pravilnik/1991/1097/) | amended, not consolidated | 1 | 1991-08-11 | 1991-08-11 |
+| Pravilnik o načinu i postupku za ostvarivanje premije za određene proizvode u poljoprivredi | [`pravilnik/1991/1098/`](pravilnik/1991/1098/) | repealed, not consolidated | 1 | 1991-08-03 | 1991-08-03 |
+| Pravilnik o načinu i postupku ostvarivanja regresa dijela kamate na kredite za prioritetne namjene u poljoprivredi | [`pravilnik/1991/1099/`](pravilnik/1991/1099/) | amended, not consolidated | 1 | 1991-08-03 | 1991-08-03 |
+| Pravilnik o načinu obavljanja kontrole ponašanja osiguranika za vrijeme privremene nesposobnosti sprijećenosti za rad | [`pravilnik/1991/1100/`](pravilnik/1991/1100/) | amended, not consolidated | 1 | 1991-08-11 | 1991-08-11 |
 | Pravilnik o vježbaonicama u osnovnoj školi | [`pravilnik/1991/1111/`](pravilnik/1991/1111/) | in force | 1 | 1991-08-17 | 1991-08-17 |
+| Pravilnik o uvjetima i načinu ostvarivanja eksperimentalnih programa u osnovnim školama | [`pravilnik/1991/1112/`](pravilnik/1991/1112/) | amended, not consolidated | 1 | 1991-08-17 | 1991-08-17 |
 | Pravilnik o praćenju i ocjenjivanju te napredovanju učitelja i stručnih suradnika u stjecanju zvanja u osnovnim školama | [`pravilnik/1991/1113/`](pravilnik/1991/1113/) | in force | 1 | 1991-08-17 | 1991-08-17 |
 | Pravilnik o katastru istražnih prostora i eksploatacionih polja, te o načinu vođenja evidencije, zbirke isprava i popisa rudarskih poduzeća i samostalnih poduzetnika kojima su izdana odobrenja za istr | [`pravilnik/1991/1165/`](pravilnik/1991/1165/) | in force | 1 | 1991-09-07 | 1991-09-07 |
+| Pravilnik o postupku revizije rudarskih projekata | [`pravilnik/1991/1166/`](pravilnik/1991/1166/) | repealed, not consolidated | 1 | 1991-09-07 | 1991-09-07 |
+| Pravilnik o osposobljavanju kadrova za obavljanje stručnih poslova u športu | [`pravilnik/1991/1176/`](pravilnik/1991/1176/) | cited later, not consolidated | 1 | 1991-09-13 | 1991-09-13 |
+| Pravilnik o načinu obavljanja nadzora nad stručnim radom u djelatnosti zdravstva | [`pravilnik/1991/1212/`](pravilnik/1991/1212/) | repealed, not consolidated | 1 | 1991-09-21 | 1991-09-21 |
+| Pravilnik o iskaznici prosvjetnog inspektora | [`pravilnik/1991/1238/`](pravilnik/1991/1238/) | in force | 1 | 1991-10-05 | 1991-10-05 |
+| Pravilnik o obrascima i evidenciji o osobnim iskaznicema | [`pravilnik/1991/1472/`](pravilnik/1991/1472/) | replaced, not consolidated | 1 | 1991-10-18 | 1991-10-18 |
+| Pravilnik o načinu izdavanja isprava i viza strancima te o obrascima tih isprava i viza | [`pravilnik/1991/1473/`](pravilnik/1991/1473/) | amended, not consolidated | 1 | 1991-10-18 | 1991-10-18 |
+| Pravilnik o obrascima putnih isprava hrvatskih državljana | [`pravilnik/1991/1474/`](pravilnik/1991/1474/) | amended, not consolidated | 1 | 1991-10-18 | 1991-10-18 |
+| Pravilnik o obrascima i evidenciji prijave prebivališta i boravišta građana | [`pravilnik/1991/1475/`](pravilnik/1991/1475/) | repealed, not consolidated | 1 | 1991-10-18 | 1991-10-18 |
+| Pravilnik o registraciji motornih i priključnih vozila, obrascu prometne i vozačke dozvole | [`pravilnik/1991/1477/`](pravilnik/1991/1477/) | amended, not consolidated | 1 | 1991-10-18 | 1991-10-18 |
+| Pravilnik o naknadi za ceste što se plaća na strana vozila | [`pravilnik/1991/1537/`](pravilnik/1991/1537/) | repealed, not consolidated | 1 | 1991-11-06 | 1991-11-06 |
+| Pravilnik o uvjetima i načinu korištenja sredstava naknade koja se plaća zbog promjene namjene poljoprivrednog zemljišta | [`pravilnik/1991/1538/`](pravilnik/1991/1538/) | amended, not consolidated | 1 | 1991-11-06 | 1991-11-06 |
 | Pravilnik o vojnoj iskaznici | [`pravilnik/1991/1558/`](pravilnik/1991/1558/) | in force | 1 | 1991-11-04 | 1991-11-04 |
 | Pravilnik o kalendaru rada srednjih škola u 1991/92. školskoj godini | [`pravilnik/1991/1569/`](pravilnik/1991/1569/) | in force | 1 | 1991-11-15 | 1991-11-15 |
 | Pravilnik o iskaznici povjerenika i pomoćnika povjerenika Vlade Republike Hrvatske | [`pravilnik/1991/1575/`](pravilnik/1991/1575/) | in force | 1 | 1991-11-14 | 1991-11-14 |
