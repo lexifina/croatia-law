@@ -1,3 +1,6 @@
 act,status,last_verified,check_due,method,newest_change,newest_change_date,change_in_repo,official_url
-statut-1990-1120,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1990/57/1120
-statut-1990-910,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1990/48/910
+statut-1990-1118,pending-change,2026-11-11,2026-12-11,gazette-index,Odluka o davanju suglasnosti na Izmjene Statuta poduzeća HPT - Hrvatska pošta i telekomunikacije (NN 49/1995),1995-07-17,no,https://narodne-novine.nn.hr/eli/sluzbeni/1990/57/1118
+statut-1990-1120,current,2026-11-11,2026-12-11,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1990/57/1120
+statut-1990-1156,pending-change,2026-11-11,2026-12-11,gazette-index,Odluka o izmjenama i dopunama Statuta Republičkog fonda mirovinskog i invalidskog osiguranja individualnih poljoprivrednika Hrvatske (NN 74/1997),1997-07-16,no,https://narodne-novine.nn.hr/eli/sluzbeni/1990/58/1156
+statut-1990-1158,pending-change,2026-11-11,2026-12-11,gazette-index,Odluka o potvrđivanju Odluke o dopuni Statuta Republičkog fonda mirovinskog i invalidskog osiguranja samostalnih privrednika Hrvatske (NN 22/1997),1997-02-21,no,https://narodne-novine.nn.hr/eli/sluzbeni/1990/58/1158
+statut-1990-910,current,2026-11-11,2026-12-11,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1990/48/910

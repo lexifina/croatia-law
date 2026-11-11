@@ -1,38 +1,102 @@
 act,status,last_verified,check_due,method,newest_change,newest_change_date,change_in_repo,official_url
-pravilnik-1992-1040,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1992/41/1040
-pravilnik-1992-114,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1992/6/114
-pravilnik-1992-117,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1992/6/117
-pravilnik-1992-118,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1992/6/118
-pravilnik-1992-119,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1992/6/119
-pravilnik-1992-1195,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1992/46/1195
-pravilnik-1992-1197,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1992/46/1197
-pravilnik-1992-1290,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1992/49/1290
-pravilnik-1992-1323,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1992/50/1323
-pravilnik-1992-1667,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1992/62/1667
-pravilnik-1992-1676,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1992/63/1676
-pravilnik-1992-1678,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1992/63/1678
-pravilnik-1992-1679,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1992/63/1679
-pravilnik-1992-1680,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1992/63/1680
-pravilnik-1992-1682,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1992/63/1682
-pravilnik-1992-1686,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1992/63/1686
-pravilnik-1992-1687,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1992/63/1687
-pravilnik-1992-1690,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1992/63/1690
-pravilnik-1992-1942,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1992/73/1942
-pravilnik-1992-2159,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1992/82/2159
-pravilnik-1992-2164,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1992/82/2164
-pravilnik-1992-2227,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1992/86/2227
-pravilnik-1992-2285,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1992/88/2285
-pravilnik-1992-2286,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1992/88/2286
-pravilnik-1992-2287,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1992/88/2287
-pravilnik-1992-248,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1992/11/248
-pravilnik-1992-251,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1992/11/251
-pravilnik-1992-267,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1992/12/267
-pravilnik-1992-281,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1992/13/281
-pravilnik-1992-282,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1992/13/282
-pravilnik-1992-468,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1992/20/468
-pravilnik-1992-479,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1992/21/479
-pravilnik-1992-487,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1992/21/487
-pravilnik-1992-548,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1992/23/548
-pravilnik-1992-607,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1992/25/607
-pravilnik-1992-785,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1992/32/785
-pravilnik-1992-926,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1992/35/926
+pravilnik-1992-1040,current,2026-11-11,2026-12-11,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1992/41/1040
+pravilnik-1992-1094,pending-change,2026-11-11,2026-12-11,gazette-index,Pravilnik o iskaznici i znaku fitosanitarnog inspektora (NN 32/2006),2006-03-22,no,https://narodne-novine.nn.hr/eli/sluzbeni/1992/43/1094
+pravilnik-1992-112,pending-change,2026-11-11,2026-12-11,gazette-index,Pravilnik o novčanim naknadama vojnika i kadeta škole pričuvnih časnika za vrijeme služenja vojnog roka (NN 102/2001),2001-11-21,no,https://narodne-novine.nn.hr/eli/sluzbeni/1992/6/112
+pravilnik-1992-114,current,2026-11-11,2026-12-11,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1992/6/114
+pravilnik-1992-115,pending-change,2026-11-11,2026-12-11,gazette-index,Pravilnik o obrascima službene iskaznice vodopravnih inspektora (NN 20/1998),1998-02-17,no,https://narodne-novine.nn.hr/eli/sluzbeni/1992/6/115
+pravilnik-1992-1151,pending-change,2026-11-11,2026-12-11,gazette-index,"Pravilnik o uvjetima i načinu obavljanja dezinfekcije, dezinsekcije i deratizacije u veterinarskoj djelatnosti (NN 139/2010)",2010-12-10,no,https://narodne-novine.nn.hr/eli/sluzbeni/1992/45/1151
+pravilnik-1992-117,current,2026-11-11,2026-12-11,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1992/6/117
+pravilnik-1992-1173,pending-change,2026-11-11,2026-12-11,gazette-index,Zakon o nadzoru predmeta od plemenitih kovina (NN 36/2015),2015-03-30,no,https://narodne-novine.nn.hr/eli/sluzbeni/1992/45/1173
+pravilnik-1992-1174,pending-change,2026-11-11,2026-12-11,gazette-index,Pravilnik o službenoj iskaznici djelatnika ovlaštenih za mjeriteljski nadzor (NN 25/1994),1994-03-29,no,https://narodne-novine.nn.hr/eli/sluzbeni/1992/45/1174
+pravilnik-1992-118,current,2026-11-11,2026-12-11,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1992/6/118
+pravilnik-1992-119,current,2026-11-11,2026-12-11,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1992/6/119
+pravilnik-1992-1195,current,2026-11-11,2026-12-11,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1992/46/1195
+pravilnik-1992-1197,current,2026-11-11,2026-12-11,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1992/46/1197
+pravilnik-1992-1198,current,2026-11-11,2026-12-11,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1992/46/1198
+pravilnik-1992-1249,pending-change,2026-11-11,2026-12-11,gazette-index,Pravilnik o kriterijima za određivanje i zaštitu objekata posebno značajnih za obranu zemlje (NN 120/1999),1999-11-17,no,https://narodne-novine.nn.hr/eli/sluzbeni/1992/48/1249
+pravilnik-1992-129,current,2026-11-11,2026-12-11,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1992/7/129
+pravilnik-1992-1290,current,2026-11-11,2026-12-11,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1992/49/1290
+pravilnik-1992-13,pending-change,2026-11-11,2026-12-11,gazette-index,Pravilnik o načinu vođenja evidencije o izdatim putnim ispravama u diplomatskim misijama ili konzularnim uredima Republike Hrvatske u inozemstvu (NN 109/1999),1999-10-22,no,https://narodne-novine.nn.hr/eli/sluzbeni/1992/1/13
+pravilnik-1992-130,pending-change,2026-11-11,2026-12-11,gazette-index,Pravilnik o polaganju stručnog ispita učitelja i stručnih suradnika u osnovnoj školi (NN 79/1993),1993-08-30,no,https://narodne-novine.nn.hr/eli/sluzbeni/1992/7/130
+pravilnik-1992-1322,current,2026-11-11,2026-12-11,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1992/50/1322
+pravilnik-1992-1323,current,2026-11-11,2026-12-11,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1992/50/1323
+pravilnik-1992-1324,pending-change,2026-11-11,2026-12-11,gazette-index,Pravilnik o izmjenama Pravilnika o načinu i postupku utvrđivanja uvjeta za početak rada srednje škole (NN 21/2008),2008-02-18,no,https://narodne-novine.nn.hr/eli/sluzbeni/1992/50/1324
+pravilnik-1992-1380,pending-change,2026-11-11,2026-12-11,gazette-index,"Odluka o dopuštenoj visini kala, rastepa, kvara i loma na proizvodima u trgovini i ugostiteljstvu (NN 94/1998)",1998-07-10,no,https://narodne-novine.nn.hr/eli/sluzbeni/1992/51/1380
+pravilnik-1992-14,current,2026-11-11,2026-12-11,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1992/1/14
+pravilnik-1992-1575,current,2026-11-11,2026-12-11,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1992/58/1575
+pravilnik-1992-16,pending-change,2026-11-11,2026-12-11,gazette-index,Pravilnik o polaganju stručnih ispita u knjižničarskoj struci (NN 21/1999),1999-03-03,no,https://narodne-novine.nn.hr/eli/sluzbeni/1992/1/16
+pravilnik-1992-1666,pending-change,2026-11-11,2026-12-11,gazette-index,Pravilnik o utvrđivanju postotka oštećenja organizma vojnih i civilnih invalida rata (NN 29/2002),2002-03-22,no,https://narodne-novine.nn.hr/eli/sluzbeni/1992/62/1666
+pravilnik-1992-1667,current,2026-11-11,2026-12-11,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1992/62/1667
+pravilnik-1992-1668,pending-change,2026-11-11,2026-12-11,gazette-index,Pravilnik o oštećenju organizma na osnovi kojih vojni i civilni invalidi rata imaju pravo na ortopedski dodatak i o razvrstavanju tih oštećenja u stupnjeve (NN 29/2002),2002-03-22,no,https://narodne-novine.nn.hr/eli/sluzbeni/1992/62/1668
+pravilnik-1992-1669,pending-change,2026-11-11,2026-12-11,gazette-index,Pravilnik o radu liječničkih povjerenstava u postupku za ostvarivanje prava po Zakonu o zaštiti vojnih i civilnih invalida rata (NN 29/2002),2002-03-22,no,https://narodne-novine.nn.hr/eli/sluzbeni/1992/62/1669
+pravilnik-1992-1672,pending-change,2026-11-11,2026-12-11,gazette-index,Ispravak Pravilnika o postupku za ostvarivanje prava na oslobađanje od plaćanja carine (NN 2/1996),1996-01-10,no,https://narodne-novine.nn.hr/eli/sluzbeni/1992/63/1672
+pravilnik-1992-1675,pending-change,2026-11-11,2026-12-11,gazette-index,Pravilnik o slobodnim carinskim prodavaonicama (NN 49/1995),1995-07-17,no,https://narodne-novine.nn.hr/eli/sluzbeni/1992/63/1675
+pravilnik-1992-1676,current,2026-11-11,2026-12-11,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1992/63/1676
+pravilnik-1992-1678,current,2026-11-11,2026-12-11,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1992/63/1678
+pravilnik-1992-1679,current,2026-11-11,2026-12-11,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1992/63/1679
+pravilnik-1992-1680,current,2026-11-11,2026-12-11,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1992/63/1680
+pravilnik-1992-1681,current,2026-11-11,2026-12-11,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1992/63/1681
+pravilnik-1992-1682,current,2026-11-11,2026-12-11,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1992/63/1682
+pravilnik-1992-1684,current,2026-11-11,2026-12-11,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1992/63/1684
+pravilnik-1992-1686,current,2026-11-11,2026-12-11,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1992/63/1686
+pravilnik-1992-1687,current,2026-11-11,2026-12-11,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1992/63/1687
+pravilnik-1992-1690,current,2026-11-11,2026-12-11,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1992/63/1690
+pravilnik-1992-1691,pending-change,2026-11-11,2026-12-11,gazette-index,Pravilnik o izmjenama i dopunama Pravilnika o uzimanju uzoraka i carinskim obilježjima (NN 51/1995),1995-07-26,no,https://narodne-novine.nn.hr/eli/sluzbeni/1992/63/1691
+pravilnik-1992-1715,current,2026-11-11,2026-12-11,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1992/64/1715
+pravilnik-1992-1816,current,2026-11-11,2026-12-11,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1992/68/1816
+pravilnik-1992-1878,current,2026-11-11,2026-12-11,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1992/70/1878
+pravilnik-1992-1942,current,2026-11-11,2026-12-11,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1992/73/1942
+pravilnik-1992-1992,current,2026-11-11,2026-12-11,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1992/75/1992
+pravilnik-1992-2013,current,2026-11-11,2026-12-11,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1992/76/2013
+pravilnik-1992-208,current,2026-11-11,2026-12-11,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1992/9/208
+pravilnik-1992-2086,pending-change,2026-11-11,2026-12-11,gazette-index,Pravilnik o zdravstvenim pregledima za utvrđivanje zdravstvene sposobnosti za držanje i nošenje oružja (NN 22/2013),2013-02-22,no,https://narodne-novine.nn.hr/eli/sluzbeni/1992/79/2086
+pravilnik-1992-2115,current,2026-11-11,2026-12-11,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1992/81/2115
+pravilnik-1992-213,pending-change,2026-11-11,2026-12-11,gazette-index,Ispravak Pravilnika o obrascima i evidencijama putnih isprava hrvatskih državljana (NN 22/2010),2010-02-17,no,https://narodne-novine.nn.hr/eli/sluzbeni/1992/10/213
+pravilnik-1992-2159,current,2026-11-11,2026-12-11,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1992/82/2159
+pravilnik-1992-2164,current,2026-11-11,2026-12-11,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1992/82/2164
+pravilnik-1992-2226,pending-change,2026-11-11,2026-12-11,gazette-index,Pravilnik o osnovnoškolskom i srednjoškolskom odgoju i obrazovanju učenika s teškoćama u razvoju (NN 24/2015),2015-03-04,no,https://narodne-novine.nn.hr/eli/sluzbeni/1992/86/2226
+pravilnik-1992-2227,current,2026-11-11,2026-12-11,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1992/86/2227
+pravilnik-1992-2285,current,2026-11-11,2026-12-11,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1992/88/2285
+pravilnik-1992-2286,current,2026-11-11,2026-12-11,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1992/88/2286
+pravilnik-1992-2287,current,2026-11-11,2026-12-11,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1992/88/2287
+pravilnik-1992-233,pending-change,2026-11-11,2026-12-11,gazette-index,Ispravak Pravilnika o dopunama Pravilnika o ortopedskim i drugim pomagalima (NN 22/2014),2014-02-19,no,https://narodne-novine.nn.hr/eli/sluzbeni/1992/10/233
+pravilnik-1992-244,current,2026-11-11,2026-12-11,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1992/11/244
+pravilnik-1992-245,current,2026-11-11,2026-12-11,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1992/11/245
+pravilnik-1992-247,current,2026-11-11,2026-12-11,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1992/11/247
+pravilnik-1992-248,current,2026-11-11,2026-12-11,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1992/11/248
+pravilnik-1992-249,current,2026-11-11,2026-12-11,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1992/11/249
+pravilnik-1992-251,current,2026-11-11,2026-12-11,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1992/11/251
+pravilnik-1992-266,pending-change,2026-11-11,2026-12-11,gazette-index,"Pravilnik o uvjetima glede uređenja objekata, veterinarske opreme i stručnih djelatnika, kojima moraju udovoljavati pravne i fizičke osobe u sustavu provedbe veterinarske djelatnosti (NN 136/1997)",1997-12-16,no,https://narodne-novine.nn.hr/eli/sluzbeni/1992/12/266
+pravilnik-1992-267,current,2026-11-11,2026-12-11,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1992/12/267
+pravilnik-1992-281,current,2026-11-11,2026-12-11,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1992/13/281
+pravilnik-1992-282,current,2026-11-11,2026-12-11,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1992/13/282
+pravilnik-1992-30,pending-change,2026-11-11,2026-12-11,gazette-index,Pravilnik o prestanku važenja Pravilnika o obliku i sadržaju dozvole za obavljanje međunarodnog cestovnog prijevoza (NN 102/2007),2007-10-10,no,https://narodne-novine.nn.hr/eli/sluzbeni/1992/2/30
+pravilnik-1992-332,pending-change,2026-11-11,2026-12-11,gazette-index,Zakon o Nagradi »Ivan Filipović« (NN 123/2023),2023-10-23,no,https://narodne-novine.nn.hr/eli/sluzbeni/1992/15/332
+pravilnik-1992-333,pending-change,2026-11-11,2026-12-11,gazette-index,Pravilnik o zaštiti poljoprivrednog zemljišta od onečišćenja (NN 32/2010),2010-03-12,no,https://narodne-novine.nn.hr/eli/sluzbeni/1992/15/333
+pravilnik-1992-468,current,2026-11-11,2026-12-11,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1992/20/468
+pravilnik-1992-470,pending-change,2026-11-11,2026-12-11,gazette-index,"Pravilnik o izmjenama i dopunama Pravilnika o obliku, sadržaju i uporabi instrumenata platnog prometa (NN 48/1993)",1993-05-24,no,https://narodne-novine.nn.hr/eli/sluzbeni/1992/20/470
+pravilnik-1992-477,current,2026-11-11,2026-12-11,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1992/21/477
+pravilnik-1992-478,pending-change,2026-11-11,2026-12-11,gazette-index,Pravilnik o mjerilima i načinu raspodjele dopusnica za međunarodni slobodni prijevoz tereta (NN 159/1998),1998-12-14,no,https://narodne-novine.nn.hr/eli/sluzbeni/1992/21/478
+pravilnik-1992-479,current,2026-11-11,2026-12-11,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1992/21/479
+pravilnik-1992-480,pending-change,2026-11-11,2026-12-11,gazette-index,"Pravilnik o postupku, načinu i rokovima dostave izvješća o raspodjeli i iskorištenosti stranih dozvola (NN 122/2005)",2005-10-19,no,https://narodne-novine.nn.hr/eli/sluzbeni/1992/21/480
+pravilnik-1992-482,pending-change,2026-11-11,2026-12-11,gazette-index,Pravilnik o službenoj iskaznici i službenoj znački ovlaštenog carinskog službenika (NN 56/2015),2015-05-22,no,https://narodne-novine.nn.hr/eli/sluzbeni/1992/21/482
+pravilnik-1992-487,current,2026-11-11,2026-12-11,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1992/21/487
+pravilnik-1992-548,current,2026-11-11,2026-12-11,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1992/23/548
+pravilnik-1992-549,current,2026-11-11,2026-12-11,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1992/23/549
+pravilnik-1992-55,current,2026-11-11,2026-12-11,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1992/3/55
+pravilnik-1992-607,current,2026-11-11,2026-12-11,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1992/25/607
+pravilnik-1992-645,current,2026-11-11,2026-12-11,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1992/26/645
+pravilnik-1992-65,pending-change,2026-11-11,2026-12-11,gazette-index,Pravilnik o diplomatskim i službenim putovnicama i vizama Republike Hrvatske (NN 116/1999),1999-11-05,no,https://narodne-novine.nn.hr/eli/sluzbeni/1992/4/65
+pravilnik-1992-66,current,2026-11-11,2026-12-11,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1992/4/66
+pravilnik-1992-720,pending-change,2026-11-11,2026-12-11,gazette-index,Pravilnik o visini naknade ža obvezne veterinarsko-sanitarne preglede i kontrole (NN 81/1992),1992-11-30,no,https://narodne-novine.nn.hr/eli/sluzbeni/1992/29/720
+pravilnik-1992-742,pending-change,2026-11-11,2026-12-11,gazette-index,Pravilnik o odobrenju za obavljanje djelatnosti javnog cestovnog prijevoza i kolodvorskih usluga (NN 10/2003),2003-01-21,no,https://narodne-novine.nn.hr/eli/sluzbeni/1992/30/742
+pravilnik-1992-760,current,2026-11-11,2026-12-11,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1992/31/760
+pravilnik-1992-785,current,2026-11-11,2026-12-11,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1992/32/785
+pravilnik-1992-786,pending-change,2026-11-11,2026-12-11,gazette-index,Ispravak Pravilnika o načinu obavljanja nadzora državne granice (NN 45/2009),2009-04-10,no,https://narodne-novine.nn.hr/eli/sluzbeni/1992/32/786
+pravilnik-1992-787,pending-change,2026-11-11,2026-12-11,gazette-index,"Pravilnik o izmjenama i dopunama Pravilnika o izdavanju putnog lista, viza i posebnih osobnih karata strancima (NN 109/1996)",1996-12-27,no,https://narodne-novine.nn.hr/eli/sluzbeni/1992/32/787
+pravilnik-1992-842,current,2026-11-11,2026-12-11,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1992/33/842
+pravilnik-1992-917,pending-change,2026-11-11,2026-12-11,gazette-index,Pravilnik o izmjenama i dopunama Pravilnika o najmanjem broju članova posade za sigurnu plovidbu koji moraju imati pomorski brodovi trgovačke mornarice Republike Hrvatske (NN 5/2003),2003-01-09,no,https://narodne-novine.nn.hr/eli/sluzbeni/1992/34/917
+pravilnik-1992-918,pending-change,2026-11-11,2026-12-11,gazette-index,Pravilnik o opsegu; uvjetinla i načinu obavljanja poslova posredovanja pri zapošljavanju kada te poslove obavlja pravni subjekt izvan Zavoda za zapošljavanje (NN 11/1995),1995-02-17,no,https://narodne-novine.nn.hr/eli/sluzbeni/1992/34/918
+pravilnik-1992-922,pending-change,2026-11-11,2026-12-11,gazette-index,Ispravak Pravilnika o minimalnim uvjetima za projektiranje i izgradnju priključaka i prilaza na javnu cestu (NN 46/1992),1992-07-24,no,https://narodne-novine.nn.hr/eli/sluzbeni/1992/34/922
+pravilnik-1992-926,current,2026-11-11,2026-12-11,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1992/35/926
+pravilnik-1992-958,current,2026-11-11,2026-12-11,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1992/38/958

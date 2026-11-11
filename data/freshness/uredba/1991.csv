@@ -1,33 +1,96 @@
 act,status,last_verified,check_due,method,newest_change,newest_change_date,change_in_repo,official_url
-uredba-1991-1134,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/42/1134
-uredba-1991-1150,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/44/1150
-uredba-1991-1151,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/44/1151
-uredba-1991-1191,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/47/1191
-uredba-1991-1192,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/47/1192
-uredba-1991-1250,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/52/1250
-uredba-1991-1468,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/54/1468
-uredba-1991-1469,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/54/1469
-uredba-1991-1470,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/54/1470
-uredba-1991-1507,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/55/1507
-uredba-1991-1512,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/55/1512
-uredba-1991-153,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/6/153
-uredba-1991-1533,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/56/1533
-uredba-1991-1534,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/56/1534
-uredba-1991-1552,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/57/1552
-uredba-1991-1553,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/57/1553
-uredba-1991-1585,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/60/1585
-uredba-1991-1586,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/60/1586
-uredba-1991-1587,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/60/1587
-uredba-1991-1626,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/62/1626
-uredba-1991-1632,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/63/1632
-uredba-1991-1633,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/63/1633
-uredba-1991-168,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/7/168
-uredba-1991-1817,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/70/1817
-uredba-1991-1848,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/71/1848
-uredba-1991-1857,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/72/1857
-uredba-1991-191,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/8/191
-uredba-1991-329,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/11/329
-uredba-1991-652,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/21/652
-uredba-1991-686,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/23/686
-uredba-1991-850,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/30/850
-uredba-1991-996,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/36/996
+uredba-1991-1094,pending-change,2026-11-11,2026-11-18,gazette-index,"Uredba o izmjenama i dopunama Uredbe o zabrani raspolaganja osnovnim sredstvima, pokretnom imovinom i pravima određenih poduzeća i drugih pravnih osoba na teritoriju Republike Hrvatske (NN 44/1991)",1991-08-30,no,https://narodne-novine.nn.hr/eli/sluzbeni/1991/39/1094
+uredba-1991-1095,pending-change,2026-11-11,2026-11-18,gazette-index,"Uredba o uređivanju određenih pitanja u obavljanju zaštite spomenika kulture, knjižničarske i muzejske djelatnosti (NN 49/1992)",1992-08-04,no,https://narodne-novine.nn.hr/eli/sluzbeni/1991/39/1095
+uredba-1991-1122,pending-change,2026-11-11,2026-11-18,gazette-index,Uredba o dopuni Uredbe o izdavanju obveznica Republike Hrvatske (NN 5/1992),1992-02-05,no,https://narodne-novine.nn.hr/eli/sluzbeni/1991/41/1122
+uredba-1991-1123,pending-change,2026-11-11,2026-11-18,gazette-index,Zakon o prestanku važenja Uredbe o uvjetima i načinu utvrđivanja evidencijske devizne pozicije za određene zajedničke potrebe (NN 28/1992),1992-05-18,no,https://narodne-novine.nn.hr/eli/sluzbeni/1991/41/1123
+uredba-1991-1134,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/42/1134
+uredba-1991-1141,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/43/1141
+uredba-1991-1149,pending-change,2026-11-11,2026-11-18,gazette-index,Zakon o utvrđivanju ratne štete (NN 61/1991),1991-11-19,no,https://narodne-novine.nn.hr/eli/sluzbeni/1991/44/1149
+uredba-1991-1150,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/44/1150
+uredba-1991-1151,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/44/1151
+uredba-1991-1152,pending-change,2026-11-11,2026-11-18,gazette-index,Ispravak Uredbe o sjedištu i području na kojem se osnivaju policijske uprave (NN 74/1997),1997-07-16,no,https://narodne-novine.nn.hr/eli/sluzbeni/1991/44/1152
+uredba-1991-1170,pending-change,2026-11-11,2026-11-18,gazette-index,Uredba o Uredu za prognanike I izbjeglice (NN 64/1991),1991-12-03,no,https://narodne-novine.nn.hr/eli/sluzbeni/1991/45/1170
+uredba-1991-1181,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/46/1181
+uredba-1991-1183,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/46/1183
+uredba-1991-1190,pending-change,2026-11-11,2026-11-18,gazette-index,"Uredba o izmjeni Uredbe o Javnom poduzeću ""Brijuni"" (NN 3/1992)",1992-01-22,no,https://narodne-novine.nn.hr/eli/sluzbeni/1991/47/1190
+uredba-1991-1191,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/47/1191
+uredba-1991-1192,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/47/1192
+uredba-1991-1221,pending-change,2026-11-11,2026-11-18,gazette-index,Ispravak Uredbe o korištenju sredstava za subvencioniranje stanarine i podstanarine (NN 70/1993),1993-07-20,no,https://narodne-novine.nn.hr/eli/sluzbeni/1991/48/1221
+uredba-1991-1231,pending-change,2026-11-11,2026-11-18,gazette-index,Uredba o izmjeni Uredbe o osnivanju i radu Komisije za postupanje s osobama zarobljenim u oružanim sukobima u Republici Hrvatskoj (NN 60/1991),1991-11-15,no,https://narodne-novine.nn.hr/eli/sluzbeni/1991/50/1231
+uredba-1991-1242,pending-change,2026-11-11,2026-11-18,gazette-index,Uredba o izmjeni i dopuni Uredbe o porezu iz neto plaća i drugih osobnih primanja (NN 69/1991),1991-12-20,no,https://narodne-novine.nn.hr/eli/sluzbeni/1991/51/1242
+uredba-1991-1243,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/52/1243
+uredba-1991-1246,pending-change,2026-11-11,2026-11-18,gazette-index,Uredba o zabrani raspolaganja i preuzimanja sredstava određenih pravnih osoba na teritoriju Republike Hrvatske (NN 40/1992),1992-06-26,no,https://narodne-novine.nn.hr/eli/sluzbeni/1991/52/1246
+uredba-1991-1247,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/52/1247
+uredba-1991-1248,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/52/1248
+uredba-1991-1249,pending-change,2026-11-11,2026-11-18,gazette-index,Ispravak Uredbe o izmjenama i dopunama Zakona o porezu na promet proizvoda i usluga (NN 18/1994),1994-03-09,no,https://narodne-novine.nn.hr/eli/sluzbeni/1991/52/1249
+uredba-1991-1250,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/52/1250
+uredba-1991-1468,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/54/1468
+uredba-1991-1469,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/54/1469
+uredba-1991-1470,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/54/1470
+uredba-1991-1501,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/55/1501
+uredba-1991-1503,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/55/1503
+uredba-1991-1504,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/55/1504
+uredba-1991-1506,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/55/1506
+uredba-1991-1507,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/55/1507
+uredba-1991-1509,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/55/1509
+uredba-1991-1510,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/55/1510
+uredba-1991-1511,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/55/1511
+uredba-1991-1512,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/55/1512
+uredba-1991-1513,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/55/1513
+uredba-1991-1514,pending-change,2026-11-11,2026-11-18,gazette-index,Uredba o stavljanju izvan snage dijela Uredbe o zdravstvenoj zaštiti i zdravstvenom osiguranju u slučaju ratnog stanja ili neposredne ugroženosti neovisnosti i jedinstvenosti Republike hrvatske (NN 86/1992),1992-12-12,no,https://narodne-novine.nn.hr/eli/sluzbeni/1991/55/1514
+uredba-1991-1515,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/55/1515
+uredba-1991-1516,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/55/1516
+uredba-1991-1517,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/55/1517
+uredba-1991-1518,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/55/1518
+uredba-1991-1519,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/55/1519
+uredba-1991-1524,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/55/1524
+uredba-1991-153,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/6/153
+uredba-1991-1532,pending-change,2026-11-11,2026-11-18,gazette-index,Uredba o dopuni Uredbe o odobravanju posebnih kredita za popravak stambenih i gospodarskih zgrada oštećenih ratnim razaranjima (NN 5/1992),1992-02-05,no,https://narodne-novine.nn.hr/eli/sluzbeni/1991/56/1532
+uredba-1991-1533,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/56/1533
+uredba-1991-1534,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/56/1534
+uredba-1991-1552,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/57/1552
+uredba-1991-1553,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/57/1553
+uredba-1991-1554,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/57/1554
+uredba-1991-1562,pending-change,2026-11-11,2026-11-18,gazette-index,Uredba o odobravanju posebnih kredita za popravak zgrada s više stanova oštećenih ratnim razaranjima (NN 61/1992),1992-10-02,no,https://narodne-novine.nn.hr/eli/sluzbeni/1991/58/1562
+uredba-1991-1563,pending-change,2026-11-11,2026-11-18,gazette-index,Uredba o davanju posebnih kredita seljacima (NN 70/1992),1992-10-26,no,https://narodne-novine.nn.hr/eli/sluzbeni/1991/58/1563
+uredba-1991-1564,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/58/1564
+uredba-1991-1565,pending-change,2026-11-11,2026-11-18,gazette-index,Uredba o načinu održavanja likvidnosti u plaćanjima prema inozemstvu (NN 71/1991),1991-12-23,no,https://narodne-novine.nn.hr/eli/sluzbeni/1991/58/1565
+uredba-1991-1574,pending-change,2026-11-11,2026-11-18,gazette-index,Uredba o upravljanju nacionalnim parkovima (NN 71/1992),1992-10-28,no,https://narodne-novine.nn.hr/eli/sluzbeni/1991/59/1574
+uredba-1991-1583,pending-change,2026-11-11,2026-11-18,gazette-index,Ispravak Uredbe o kontroli cijena određenih proizvoda i usluga (NN 63/1991),1991-11-26,no,https://narodne-novine.nn.hr/eli/sluzbeni/1991/60/1583
+uredba-1991-1584,pending-change,2026-11-11,2026-11-18,gazette-index,"Uredba o visini kamate na iznose poreza, doprinosa, taksa i drugih javnih prihoda koji nisu plaćeni u propisanom roku (NN 40/1992)",1992-06-26,no,https://narodne-novine.nn.hr/eli/sluzbeni/1991/60/1584
+uredba-1991-1585,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/60/1585
+uredba-1991-1586,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/60/1586
+uredba-1991-1587,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/60/1587
+uredba-1991-1626,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/62/1626
+uredba-1991-1632,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/63/1632
+uredba-1991-1633,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/63/1633
+uredba-1991-1643,pending-change,2026-11-11,2026-11-18,gazette-index,Uredba o statusu prognanika i izbjeglica (NN 71/1992),1992-10-28,no,https://narodne-novine.nn.hr/eli/sluzbeni/1991/64/1643
+uredba-1991-1644,pending-change,2026-11-11,2026-11-18,gazette-index,Uredba o Uredu za prognanike i izbjeglice (NN 36/1996),1996-05-08,no,https://narodne-novine.nn.hr/eli/sluzbeni/1991/64/1644
+uredba-1991-1645,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/64/1645
+uredba-1991-1671,pending-change,2026-11-11,2026-11-18,gazette-index,Zakon o izdavanju obveznica za prikupljanje sredstava za obnovu Republike Hrvatske (NN 69/1992),1992-10-22,no,https://narodne-novine.nn.hr/eli/sluzbeni/1991/65/1671
+uredba-1991-1672,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/65/1672
+uredba-1991-168,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/7/168
+uredba-1991-1767,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/67/1767
+uredba-1991-1768,pending-change,2026-11-11,2026-11-18,gazette-index,"Uredba o izmjeni i dopuni Uredbe o organizaciji, radu i djelokrugu sudbene vlasti u slučaju ratnog stanja ili neposredne ugroženosti neovisnosti i jedinstvenosti Republike Hrvatske (NN 81/1992)",1992-11-30,no,https://narodne-novine.nn.hr/eli/sluzbeni/1991/67/1768
+uredba-1991-1769,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/67/1769
+uredba-1991-1795,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/68/1795
+uredba-1991-1800,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/69/1800
+uredba-1991-1817,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/70/1817
+uredba-1991-1846,pending-change,2026-11-11,2026-11-18,gazette-index,Zakon o Narodnoj banci Hrvatske (pročišćeni tekst) (NN 35/1995),1995-05-26,no,https://narodne-novine.nn.hr/eli/sluzbeni/1991/71/1846
+uredba-1991-1848,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/71/1848
+uredba-1991-1849,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/71/1849
+uredba-1991-1850,pending-change,2026-11-11,2026-11-18,gazette-index,Ispravak Uredbe o uvjetima i načinu održavanja likvidnosti u plaćanjima prema inozemstvu (NN 79/1992),1992-11-26,no,https://narodne-novine.nn.hr/eli/sluzbeni/1991/71/1850
+uredba-1991-1857,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/72/1857
+uredba-1991-1897,pending-change,2026-11-11,2026-11-18,gazette-index,Uredba o izmjenama i dopunama Uredbe o primjeni Zakona o krivičnom postupku u slučaju ratnog stanja ili neposredne ugroženosti neovisnosti i jedinstvenosti Republike Hrvatske (NN 25/1992),1992-04-29,no,https://narodne-novine.nn.hr/eli/sluzbeni/1991/73/1897
+uredba-1991-190,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/8/190
+uredba-1991-191,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/8/191
+uredba-1991-329,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/11/329
+uredba-1991-336,pending-change,2026-11-11,2026-11-18,gazette-index,Uredba o obveznim prebijanjima obveza i potraživanja pravnih osoba u Republici Hrvatskoj (NN 47/1991),1991-09-13,no,https://narodne-novine.nn.hr/eli/sluzbeni/1991/12/336
+uredba-1991-652,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/21/652
+uredba-1991-686,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/23/686
+uredba-1991-836,pending-change,2026-11-11,2026-11-18,gazette-index,Uredba o načinu utvrđivanja cijene stana i garaže (NN 35/1992),1992-06-19,no,https://narodne-novine.nn.hr/eli/sluzbeni/1991/29/836
+uredba-1991-850,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/30/850
+uredba-1991-851,pending-change,2026-11-11,2026-11-18,gazette-index,Ispravak Uredbe o sjedištu i području na kojem se osnivaju policijske uprave (NN 74/1997),1997-07-16,no,https://narodne-novine.nn.hr/eli/sluzbeni/1991/30/851
+uredba-1991-996,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/36/996
+uredba-1991-997,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/36/997
+uredba-1991-998,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/36/998

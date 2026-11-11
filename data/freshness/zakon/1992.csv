@@ -1,32 +1,96 @@
 act,status,last_verified,check_due,method,newest_change,newest_change_date,change_in_repo,official_url
-zakon-1992-146,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1992/9/146
-zakon-1992-1579,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1992/60/1579
-zakon-1992-1820,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1992/69/1820
-zakon-1992-1821,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1992/69/1821
-zakon-1992-2021,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1992/77/2021
-zakon-1992-2022,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1992/77/2022
-zakon-1992-2177,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1992/83/2177
-zakon-1992-2306,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1992/89/2306
-zakon-1992-2364,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1992/91/2364
-zakon-1992-2367,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1992/91/2367
-zakon-1992-2370,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1992/91/2370
-zakon-1992-405,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1992/18/405
-zakon-1992-408,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1992/18/408
-zakon-1992-409,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1992/18/409
-zakon-1992-426,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1992/19/426
-zakon-1992-429,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1992/19/429
-zakon-1992-430,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1992/19/430
-zakon-1992-495,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1992/22/495
-zakon-1992-496,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1992/22/496
-zakon-1992-497,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1992/22/497
-zakon-1992-674,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1992/28/674
-zakon-1992-676,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1992/28/676
-zakon-1992-678,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1992/28/678
-zakon-1992-821,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1992/33/821
-zakon-1992-823,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1992/33/823
-zakon-1992-824,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1992/33/824
-zakon-1992-827,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1992/33/827
-zakon-1992-829,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1992/33/829
-zakon-1992-831,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1992/33/831
-zakon-1992-992,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1992/39/992
-zakon-1992-995,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1992/39/995
+zakon-1992-144,pending-change,2026-11-11,2026-11-18,gazette-index,Ispravak Zakona o izmjenama i dopunama Zakona o nadzoru državne granice (NN 8/2007),2007-01-22,no,https://narodne-novine.nn.hr/eli/sluzbeni/1992/9/144
+zakon-1992-145,pending-change,2026-11-11,2026-11-18,gazette-index,Zakon o prestanku važenja Zakona o matičnom broju (NN 10/2023),2023-01-27,no,https://narodne-novine.nn.hr/eli/sluzbeni/1992/9/145
+zakon-1992-1451,pending-change,2026-11-11,2026-11-18,gazette-index,Zakon o izmjenama i dopunama Zakona o ustrojstvu i djelokrugu ministarstava i drugih organa državne uprave (NN 94/1993),1993-10-20,no,https://narodne-novine.nn.hr/eli/sluzbeni/1992/55/1451
+zakon-1992-1452,pending-change,2026-11-11,2026-11-18,gazette-index,Ispravak Zakona o ovlasti Vlade Republike Hrvatske da uredbama uređuje pojedina pitanja iz djelokruga Hrvatskoga sabora (NN 121/2005),2005-10-17,no,https://narodne-novine.nn.hr/eli/sluzbeni/1992/55/1452
+zakon-1992-1453,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1992/55/1453
+zakon-1992-146,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1992/9/146
+zakon-1992-147,pending-change,2026-11-11,2026-11-18,gazette-index,Ispravak Zakona o ovlasti Vlade Republike Hrvatske da uredbama uređuje pojedina pitanja iz djelokruga Hrvatskoga sabora (NN 121/2005),2005-10-17,no,https://narodne-novine.nn.hr/eli/sluzbeni/1992/9/147
+zakon-1992-149,pending-change,2026-11-11,2026-11-18,gazette-index,"Ispravak Zakona o područjima županija, gradova i općina u Republici Hrvatskoj (NN 46/2010)",2010-04-16,no,https://narodne-novine.nn.hr/eli/sluzbeni/1992/9/149
+zakon-1992-1563,pending-change,2026-11-11,2026-11-18,gazette-index,Zakon o oprostu od krivičnog progona i postupka za krivična djela počinjena u oružanim sukobima i u ratu protiv Republike Hrvatske (NN 58/1992),1992-09-25,no,https://narodne-novine.nn.hr/eli/sluzbeni/1992/57/1563
+zakon-1992-1564,pending-change,2026-11-11,2026-11-18,gazette-index,Zakon o izmjeni Zakona o oprostu od krivičnog progona i postupka za krivična djela počinjena u oružanim sukobima i u ratu protiv Republike Hrvatske (NN 39/1995),1995-06-09,no,https://narodne-novine.nn.hr/eli/sluzbeni/1992/58/1564
+zakon-1992-1579,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1992/60/1579
+zakon-1992-1580,pending-change,2026-11-11,2026-11-18,gazette-index,Zakon o dopuni Zakona o utvrđivanju plaće i drugih primanja dužnosnika (NN 58/1993),1993-06-18,no,https://narodne-novine.nn.hr/eli/sluzbeni/1992/60/1580
+zakon-1992-1581,pending-change,2026-11-11,2026-11-18,gazette-index,Zakon o pučkom pravobranitelju (NN 76/2012),2012-07-09,no,https://narodne-novine.nn.hr/eli/sluzbeni/1992/60/1581
+zakon-1992-1583,pending-change,2026-11-11,2026-11-18,gazette-index,Zakon o predmetima opće uporabe (NN 85/2006),2006-07-26,no,https://narodne-novine.nn.hr/eli/sluzbeni/1992/60/1583
+zakon-1992-1584,pending-change,2026-11-11,2026-11-18,gazette-index,Ispravak Zakona o športu (NN 13/1998),1998-01-31,no,https://narodne-novine.nn.hr/eli/sluzbeni/1992/60/1584
+zakon-1992-1820,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1992/69/1820
+zakon-1992-1821,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1992/69/1821
+zakon-1992-1824,pending-change,2026-11-11,2026-11-18,gazette-index,Ispravak Zakona o izmjenama Zakona o prodaji stanova na kojima postoji stanarsko pravo (NN 47/1994),1994-06-16,no,https://narodne-novine.nn.hr/eli/sluzbeni/1992/69/1824
+zakon-1992-1965,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1992/74/1965
+zakon-1992-1966,pending-change,2026-11-11,2026-11-18,gazette-index,Zakon o Hrvatskoj narodnoj banci (NN 36/2001),2001-04-20,no,https://narodne-novine.nn.hr/eli/sluzbeni/1992/74/1966
+zakon-1992-1990,pending-change,2026-11-11,2026-11-18,gazette-index,Ispravak Zakona o dopuni Zakona o pravima zastupnika u Saboru Republike Hrvatske (NN 14/1996),1996-02-21,no,https://narodne-novine.nn.hr/eli/sluzbeni/1992/75/1990
+zakon-1992-1991,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1992/75/1991
+zakon-1992-2017,pending-change,2026-11-11,2026-11-18,gazette-index,Zakon o sigurnosti u željezničkom prometu (NN 40/2007),2007-04-18,no,https://narodne-novine.nn.hr/eli/sluzbeni/1992/77/2017
+zakon-1992-2018,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1992/77/2018
+zakon-1992-2019,pending-change,2026-11-11,2026-11-18,gazette-index,Zakon o izmjenama i dopuni Zakona o gradnji (NN 75/1999),1999-07-16,no,https://narodne-novine.nn.hr/eli/sluzbeni/1992/77/2019
+zakon-1992-2020,pending-change,2026-11-11,2026-11-18,gazette-index,Ispravak Pravilnika o radu liječničkih povjerenstava u postupku ostvarivanja prava po Zakonu o zaštiti vojnih i civilnih invalida rata (NN 32/2002),2002-03-28,no,https://narodne-novine.nn.hr/eli/sluzbeni/1992/77/2020
+zakon-1992-2021,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1992/77/2021
+zakon-1992-2022,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1992/77/2022
+zakon-1992-2023,pending-change,2026-11-11,2026-11-18,gazette-index,Ispravak Zakona o izmjenama i dopunama Krivičnog zakona Republike Hrvatske (NN 30/1996),1996-04-19,no,https://narodne-novine.nn.hr/eli/sluzbeni/1992/77/2023
+zakon-1992-2176,pending-change,2026-11-11,2026-11-18,gazette-index,Zakon o humanitarnoj pomoći (NN 96/2003),2003-06-10,no,https://narodne-novine.nn.hr/eli/sluzbeni/1992/83/2176
+zakon-1992-2177,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1992/83/2177
+zakon-1992-2178,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1992/83/2178
+zakon-1992-2182,pending-change,2026-11-11,2026-11-18,gazette-index,Zakon o sigurnosti prometa na cestama (NN 105/2004),2004-07-28,no,https://narodne-novine.nn.hr/eli/sluzbeni/1992/84/2182
+zakon-1992-2183,pending-change,2026-11-11,2026-11-18,gazette-index,Zakon o izmjenama i dopunama Zakona o Hrvatskom fondu za privatizaciju (NN 87/1996),1996-10-16,no,https://narodne-novine.nn.hr/eli/sluzbeni/1992/84/2183
+zakon-1992-2303,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1992/89/2303
+zakon-1992-2304,pending-change,2026-11-11,2026-11-18,gazette-index,Zakon o Financijskoj policiji (NN 177/2004),2004-12-15,no,https://narodne-novine.nn.hr/eli/sluzbeni/1992/89/2304
+zakon-1992-2305,pending-change,2026-11-11,2026-11-18,gazette-index,Zakon o koncesijama (NN 125/2008),2008-10-29,no,https://narodne-novine.nn.hr/eli/sluzbeni/1992/89/2305
+zakon-1992-2306,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1992/89/2306
+zakon-1992-2332,pending-change,2026-11-11,2026-11-18,gazette-index,Zakon o reviziji (NN 146/2005),2005-12-12,no,https://narodne-novine.nn.hr/eli/sluzbeni/1992/90/2332
+zakon-1992-2333,pending-change,2026-11-11,2026-11-18,gazette-index,"Ispravak Zakona o područjima županija, gradova i općina u Republici Hrvatskoj (NN 46/2010)",2010-04-16,no,https://narodne-novine.nn.hr/eli/sluzbeni/1992/90/2333
+zakon-1992-2334,pending-change,2026-11-11,2026-11-18,gazette-index,Zakon o lokalnoj i područnoj (regionalnoj) samoupravi (pročišćeni tekst) (NN 19/2013),2013-02-18,no,https://narodne-novine.nn.hr/eli/sluzbeni/1992/90/2334
+zakon-1992-2335,pending-change,2026-11-11,2026-11-18,gazette-index,Zakon o Gradu Zagrebu (NN 62/2001),2001-07-11,no,https://narodne-novine.nn.hr/eli/sluzbeni/1992/90/2335
+zakon-1992-2357,pending-change,2026-11-11,2026-11-18,gazette-index,Ispravak Zakona o izmjenama i dopunama Zakona o parničnom postupku (NN 123/2008),2008-10-24,no,https://narodne-novine.nn.hr/eli/sluzbeni/1992/91/2357
+zakon-1992-2360,pending-change,2026-11-11,2026-11-18,gazette-index,Ispravak Zakona o izmjenama i dopunama Krivičnog zakona Republike Hrvatske (NN 30/1996),1996-04-19,no,https://narodne-novine.nn.hr/eli/sluzbeni/1992/91/2360
+zakon-1992-2364,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1992/91/2364
+zakon-1992-2365,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1992/91/2365
+zakon-1992-2366,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1992/91/2366
+zakon-1992-2367,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1992/91/2367
+zakon-1992-2370,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1992/91/2370
+zakon-1992-404,pending-change,2026-11-11,2026-11-18,gazette-index,Zakon o izmjenama Zakona o izvršenju Državnog proračuna Republike Hrvatske za 1992. godinu (NN 33/1992),1992-06-12,no,https://narodne-novine.nn.hr/eli/sluzbeni/1992/18/404
+zakon-1992-405,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1992/18/405
+zakon-1992-406,pending-change,2026-11-11,2026-11-18,gazette-index,Ispravak Zakona o porezu na promet proizvoda i usluga (NN 7/1995),1995-01-30,no,https://narodne-novine.nn.hr/eli/sluzbeni/1992/18/406
+zakon-1992-407,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1992/18/407
+zakon-1992-408,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1992/18/408
+zakon-1992-409,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1992/18/409
+zakon-1992-424,pending-change,2026-11-11,2026-11-18,gazette-index,Zakon o izmjeni Zakona o zapošljavanju stranaca (NN 52/1994),1994-07-07,no,https://narodne-novine.nn.hr/eli/sluzbeni/1992/19/424
+zakon-1992-425,pending-change,2026-11-11,2026-11-18,gazette-index,Zakon o popisima birača (NN 19/2007),2007-02-16,no,https://narodne-novine.nn.hr/eli/sluzbeni/1992/19/425
+zakon-1992-426,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1992/19/426
+zakon-1992-428,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1992/19/428
+zakon-1992-429,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1992/19/429
+zakon-1992-430,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1992/19/430
+zakon-1992-489,pending-change,2026-11-11,2026-11-18,gazette-index,Zakon o izborima zastupnika u Hrvatski sabor (pročišćeni tekst) (NN 120/2011),2011-10-26,no,https://narodne-novine.nn.hr/eli/sluzbeni/1992/22/489
+zakon-1992-490,pending-change,2026-11-11,2026-11-18,gazette-index,Ukaz o proglašenju Zakona o izmjenama i dopunama zakona kojima su određene novčane kazne za privredne prijestupe i prekršaje (NN 26/1993),1993-04-01,no,https://narodne-novine.nn.hr/eli/sluzbeni/1992/22/490
+zakon-1992-491,pending-change,2026-11-11,2026-11-18,gazette-index,Zakon o javnom okupljanju (NN 128/1999),1999-11-30,no,https://narodne-novine.nn.hr/eli/sluzbeni/1992/22/491
+zakon-1992-492,pending-change,2026-11-11,2026-11-18,gazette-index,Zakon o hrvatskom registru brodova (NN 81/1996),1996-10-02,no,https://narodne-novine.nn.hr/eli/sluzbeni/1992/22/492
+zakon-1992-493,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1992/22/493
+zakon-1992-494,pending-change,2026-11-11,2026-11-18,gazette-index,Ispravak Zakona o ustrojstvu republičke uprave (NN 39/1992),1992-06-26,no,https://narodne-novine.nn.hr/eli/sluzbeni/1992/22/494
+zakon-1992-495,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1992/22/495
+zakon-1992-496,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1992/22/496
+zakon-1992-497,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1992/22/497
+zakon-1992-498,pending-change,2026-11-11,2026-11-18,gazette-index,"Ispravak Zakona o područjima županija, gradova i općina u Republici Hrvatskoj (NN 46/2010)",2010-04-16,no,https://narodne-novine.nn.hr/eli/sluzbeni/1992/22/498
+zakon-1992-674,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1992/28/674
+zakon-1992-676,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1992/28/676
+zakon-1992-678,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1992/28/678
+zakon-1992-719,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1992/29/719
+zakon-1992-814,pending-change,2026-11-11,2026-11-18,gazette-index,Ispravak Zakona o izbornim jedinicama za Zastupnički dom Sabora Republike Hrvatske (NN 82/1995),1995-10-12,no,https://narodne-novine.nn.hr/eli/sluzbeni/1992/33/814
+zakon-1992-815,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1992/33/815
+zakon-1992-816,pending-change,2026-11-11,2026-11-18,gazette-index,Ispravak Zakona o izmjenama i dopunama Zakona o hrvatskoj kreditnoj banci za obnovu (NN 8/1996),1996-01-31,no,https://narodne-novine.nn.hr/eli/sluzbeni/1992/33/816
+zakon-1992-818,pending-change,2026-11-11,2026-11-18,gazette-index,Zakon o izmjenama Zakona o zaštiti vojnih i civilnih invalida rata (NN 98/2019),2019-10-16,no,https://narodne-novine.nn.hr/eli/sluzbeni/1992/33/818
+zakon-1992-819,pending-change,2026-11-11,2026-11-18,gazette-index,Zakon o Financijskom inspektoratu Republike Hrvatske (NN 85/2008),2008-07-21,no,https://narodne-novine.nn.hr/eli/sluzbeni/1992/33/819
+zakon-1992-821,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1992/33/821
+zakon-1992-822,pending-change,2026-11-11,2026-11-18,gazette-index,Ispravak Zakona o izmjenama Zakona o prodaji stanova na kojima postoji stanarsko pravo (NN 47/1994),1994-06-16,no,https://narodne-novine.nn.hr/eli/sluzbeni/1992/33/822
+zakon-1992-823,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1992/33/823
+zakon-1992-824,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1992/33/824
+zakon-1992-825,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1992/33/825
+zakon-1992-826,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1992/33/826
+zakon-1992-827,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1992/33/827
+zakon-1992-828,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1992/33/828
+zakon-1992-829,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1992/33/829
+zakon-1992-830,pending-change,2026-11-11,2026-11-18,gazette-index,Ispravak Zakona o izmjenama i dopunama Krivičnog zakona Republike Hrvatske (NN 30/1996),1996-04-19,no,https://narodne-novine.nn.hr/eli/sluzbeni/1992/33/830
+zakon-1992-831,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1992/33/831
+zakon-1992-989,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1992/39/989
+zakon-1992-990,pending-change,2026-11-11,2026-11-18,gazette-index,Odluka i Rješenje Ustavnog suda Republike Hrvatske br. U-I-4113/2008 i dr. od 12. kolovoza 2014. (NN 102/2014),2014-08-22,no,https://narodne-novine.nn.hr/eli/sluzbeni/1992/39/990
+zakon-1992-992,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1992/39/992
+zakon-1992-995,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1992/39/995

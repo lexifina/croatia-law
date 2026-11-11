@@ -1,3 +1,4 @@
 act,status,last_verified,check_due,method,newest_change,newest_change_date,change_in_repo,official_url
-statut-1992-1225,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1992/47/1225
-statut-1992-336,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1992/15/336
+statut-1992-1225,current,2026-11-11,2026-12-11,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1992/47/1225
+statut-1992-1228,pending-change,2026-11-11,2026-12-11,gazette-index,Statut Hrvatske turističke zajednice (NN 3/2021),2021-01-13,no,https://narodne-novine.nn.hr/eli/sluzbeni/1992/47/1228
+statut-1992-336,current,2026-11-11,2026-12-11,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1992/15/336

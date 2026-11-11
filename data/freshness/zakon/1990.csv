@@ -1,54 +1,135 @@
 act,status,last_verified,check_due,method,newest_change,newest_change_date,change_in_repo,official_url
-zakon-1990-1140,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1990/58/1140
-zakon-1990-1168,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1990/59/1168
-zakon-1990-1169,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1990/59/1169
-zakon-1990-1171,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1990/59/1171
-zakon-1990-1172,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1990/59/1172
-zakon-1990-132,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1990/11/132
-zakon-1990-170,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1990/13/170
-zakon-1990-172,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1990/13/172
-zakon-1990-275,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1990/16/275
-zakon-1990-340,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1990/18/340
-zakon-1990-342,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1990/18/342
-zakon-1990-345,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1990/18/345
-zakon-1990-346,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1990/18/346
-zakon-1990-347,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1990/18/347
-zakon-1990-348,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1990/18/348
-zakon-1990-349,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1990/18/349
-zakon-1990-351,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1990/18/351
-zakon-1990-385,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1990/19/385
-zakon-1990-387,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1990/19/387
-zakon-1990-389,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1990/19/389
-zakon-1990-390,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1990/19/390
-zakon-1990-393,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1990/20/393
-zakon-1990-534,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1990/28/534
-zakon-1990-536,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1990/28/536
-zakon-1990-583,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1990/29/583
-zakon-1990-614,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1990/31/614
-zakon-1990-616,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1990/31/616
-zakon-1990-617,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1990/31/617
-zakon-1990-618,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1990/31/618
-zakon-1990-619,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1990/31/619
-zakon-1990-620,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1990/31/620
-zakon-1990-78,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1990/8/78
-zakon-1990-797,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1990/41/797
-zakon-1990-804,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1990/42/804
-zakon-1990-806,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1990/42/806
-zakon-1990-83,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1990/8/83
-zakon-1990-868,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1990/47/868
-zakon-1990-871,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1990/47/871
-zakon-1990-872,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1990/47/872
-zakon-1990-873,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1990/47/873
-zakon-1990-874,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1990/47/874
-zakon-1990-875,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1990/47/875
-zakon-1990-876,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1990/47/876
-zakon-1990-877,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1990/47/877
-zakon-1990-878,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1990/47/878
-zakon-1990-881,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1990/47/881
-zakon-1990-882,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1990/47/882
-zakon-1990-9,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1990/2/9
-zakon-1990-989,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1990/53/989
-zakon-1990-990,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1990/53/990
-zakon-1990-991,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1990/53/991
-zakon-1990-992,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1990/53/992
-zakon-1990-994,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1990/53/994
+zakon-1990-1135,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1990/58/1135
+zakon-1990-1136,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1990/58/1136
+zakon-1990-1137,pending-change,2026-11-11,2026-11-18,gazette-index,"Zakon o dopuni Zakona o stopama neposrednih poreza i pripadnosti poreza, taksa i drugih prihoda društveno-političkim zajednicama u 1991. godini (NN 27/1991)",1991-06-11,no,https://narodne-novine.nn.hr/eli/sluzbeni/1990/58/1137
+zakon-1990-1138,pending-change,2026-11-11,2026-11-18,gazette-index,Zakon o izmjeni Zakona o plaćanju doprinosa za mirovinsko i invalidsko osiguranje radnika u 1991. godini (NN 19/1991),1991-04-23,no,https://narodne-novine.nn.hr/eli/sluzbeni/1990/58/1138
+zakon-1990-1139,pending-change,2026-11-11,2026-11-18,gazette-index,Zakon o izmjeni Zakona o plaćanju doprinosa za mirovinsko i invalidsko osiguranje individualnih poljoprivrednika u 1991. godini (NN 27/1991),1991-06-11,no,https://narodne-novine.nn.hr/eli/sluzbeni/1990/58/1139
+zakon-1990-1140,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1990/58/1140
+zakon-1990-1141,pending-change,2026-11-11,2026-11-18,gazette-index,Zakon o izmjeni Zakona o plaćanju doprinosa za doplatak za djecu u 1991. godini (NN 19/1991),1991-04-23,no,https://narodne-novine.nn.hr/eli/sluzbeni/1990/58/1141
+zakon-1990-1159,pending-change,2026-11-11,2026-11-18,gazette-index,Zakon o odgoju i obrazovanju u osnovnoj i srednjoj školi (Pročišćeni tekst) (NN 126/2012),2012-11-16,no,https://narodne-novine.nn.hr/eli/sluzbeni/1990/59/1159
+zakon-1990-1160,pending-change,2026-11-11,2026-11-18,gazette-index,Ispravak Zakona o športu (NN 13/1998),1998-01-31,no,https://narodne-novine.nn.hr/eli/sluzbeni/1990/59/1160
+zakon-1990-1161,pending-change,2026-11-11,2026-11-18,gazette-index,Zakon o Hrvatskoj matici iseljenika (NN 94/2018),2018-10-24,no,https://narodne-novine.nn.hr/eli/sluzbeni/1990/59/1161
+zakon-1990-1164,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1990/59/1164
+zakon-1990-1165,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1990/59/1165
+zakon-1990-1168,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1990/59/1168
+zakon-1990-1169,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1990/59/1169
+zakon-1990-1170,pending-change,2026-11-11,2026-11-18,gazette-index,Ispravak Zakona o dopuni Zakona o političkim organizacijama (NN 2/1991),1991-01-24,no,https://narodne-novine.nn.hr/eli/sluzbeni/1990/59/1170
+zakon-1990-1171,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1990/59/1171
+zakon-1990-1172,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1990/59/1172
+zakon-1990-131,pending-change,2026-11-11,2026-11-18,gazette-index,Zakon o šumskom sjemenu i šumskim sadnicama (NN 68/1998),1998-05-12,no,https://narodne-novine.nn.hr/eli/sluzbeni/1990/11/131
+zakon-1990-132,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1990/11/132
+zakon-1990-134,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1990/11/134
+zakon-1990-167,pending-change,2026-11-11,2026-11-18,gazette-index,Zakon o Hrvatskoj matici iseljenika (NN 59/1990),1990-12-31,no,https://narodne-novine.nn.hr/eli/sluzbeni/1990/13/167
+zakon-1990-168,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1990/13/168
+zakon-1990-169,pending-change,2026-11-11,2026-11-18,gazette-index,Zakon o dopunama Zakona o dopunskim sredstvima općinama za 1990. godinu i razlici dopunskih sredstava po konačnom obračunu za 1989. godinu (NN 47/1990),1990-11-14,no,https://narodne-novine.nn.hr/eli/sluzbeni/1990/13/169
+zakon-1990-170,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1990/13/170
+zakon-1990-172,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1990/13/172
+zakon-1990-267,pending-change,2026-11-11,2026-11-18,gazette-index,Zakon o izmjenama i dopunama Zakona o spomen-području Jasenovac (NN 22/2001),2001-03-21,no,https://narodne-novine.nn.hr/eli/sluzbeni/1990/15/267
+zakon-1990-274,pending-change,2026-11-11,2026-11-18,gazette-index,"Zakon o dopunama Zakona o provođenju popisa stanovništva, domaćinstava, stanova i poljoprivrednih gospodarstava u 1991. godini (NN 47/1990)",1990-11-14,no,https://narodne-novine.nn.hr/eli/sluzbeni/1990/16/274
+zakon-1990-275,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1990/16/275
+zakon-1990-276,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1990/16/276
+zakon-1990-277,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1990/16/277
+zakon-1990-278,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1990/16/278
+zakon-1990-279,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1990/16/279
+zakon-1990-307,pending-change,2026-11-11,2026-11-18,gazette-index,Zakon o zaštiti od buke (NN 20/2003),2003-02-07,no,https://narodne-novine.nn.hr/eli/sluzbeni/1990/17/307
+zakon-1990-308,pending-change,2026-11-11,2026-11-18,gazette-index,Zakon o prestanu važenja Zakona o financiranju Saveza udruženja boraca narodnooslobodilačkog rata Hrvatske (NN 47/1990),1990-11-14,no,https://narodne-novine.nn.hr/eli/sluzbeni/1990/17/308
+zakon-1990-339,pending-change,2026-11-11,2026-11-18,gazette-index,Zakon o koncesijama (NN 89/1992),1992-12-28,no,https://narodne-novine.nn.hr/eli/sluzbeni/1990/18/339
+zakon-1990-340,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1990/18/340
+zakon-1990-341,pending-change,2026-11-11,2026-11-18,gazette-index,Ispravak Zakona o izmjenama i dopunama Zakona o Agenciji Socijalističke Republike Hrvatske za restrukturiranje i razvoj (NN 52/1990),1990-12-12,no,https://narodne-novine.nn.hr/eli/sluzbeni/1990/18/341
+zakon-1990-342,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1990/18/342
+zakon-1990-345,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1990/18/345
+zakon-1990-346,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1990/18/346
+zakon-1990-347,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1990/18/347
+zakon-1990-348,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1990/18/348
+zakon-1990-349,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1990/18/349
+zakon-1990-351,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1990/18/351
+zakon-1990-377,pending-change,2026-11-11,2026-11-18,gazette-index,Zakon o radnim odnosima (NN 25/1992),1992-04-29,no,https://narodne-novine.nn.hr/eli/sluzbeni/1990/19/377
+zakon-1990-378,pending-change,2026-11-11,2026-11-18,gazette-index,Zakon o izmjenama i dopunama Zakona o zapošljavanju (NN 117/1993),1993-12-31,no,https://narodne-novine.nn.hr/eli/sluzbeni/1990/19/378
+zakon-1990-379,pending-change,2026-11-11,2026-11-18,gazette-index,Ukaz o proglašenju Zakona o izmjenama i dopunama zakona kojima su određene novčane kazne za privredne prijestupe i prekršaje (NN 26/1993),1993-04-01,no,https://narodne-novine.nn.hr/eli/sluzbeni/1990/19/379
+zakon-1990-380,pending-change,2026-11-11,2026-11-18,gazette-index,Zakon o porezu na dobit (pročišćeni tekst ) (NN 35/1995),1995-05-26,no,https://narodne-novine.nn.hr/eli/sluzbeni/1990/19/380
+zakon-1990-381,pending-change,2026-11-11,2026-11-18,gazette-index,Ukaz o proglašenju Zakona o izmjenama i dopunama zakona kojima su određene novčane kazne za privredne prijestupe i prekršaje (NN 26/1993),1993-04-01,no,https://narodne-novine.nn.hr/eli/sluzbeni/1990/19/381
+zakon-1990-382,pending-change,2026-11-11,2026-11-18,gazette-index,Zakon o igrama na sreću i zabavnim igrama (NN 61/1991),1991-11-19,no,https://narodne-novine.nn.hr/eli/sluzbeni/1990/19/382
+zakon-1990-383,pending-change,2026-11-11,2026-11-18,gazette-index,Zakon o izmjeni Zakona o načinu raspodjele imovine i o statusu radnika regionalnih zajednica općina (NN 28/1990),1990-06-30,no,https://narodne-novine.nn.hr/eli/sluzbeni/1990/19/383
+zakon-1990-385,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1990/19/385
+zakon-1990-386,pending-change,2026-11-11,2026-11-18,gazette-index,Ispravak Zakona o izmjenama i dopunama Zakona o poljoprivrednom zemljištu (NN 90/1993),1993-10-04,no,https://narodne-novine.nn.hr/eli/sluzbeni/1990/19/386
+zakon-1990-387,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1990/19/387
+zakon-1990-388,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1990/19/388
+zakon-1990-389,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1990/19/389
+zakon-1990-390,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1990/19/390
+zakon-1990-391,pending-change,2026-11-11,2026-11-18,gazette-index,Zakon o cestama (NN 56/1991),1991-10-29,no,https://narodne-novine.nn.hr/eli/sluzbeni/1990/20/391
+zakon-1990-392,pending-change,2026-11-11,2026-11-18,gazette-index,Zakon o sigurnosti prometa na cestama (pročišćeni tekst) (NN 59/1996),1996-07-17,no,https://narodne-novine.nn.hr/eli/sluzbeni/1990/20/392
+zakon-1990-393,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1990/20/393
+zakon-1990-394,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1990/20/394
+zakon-1990-533,pending-change,2026-11-11,2026-11-18,gazette-index,Zakon o Hrvatskoj radio-televiziji (pročišćeni tekst) (NN 43/1992),1992-07-07,no,https://narodne-novine.nn.hr/eli/sluzbeni/1990/28/533
+zakon-1990-534,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1990/28/534
+zakon-1990-535,pending-change,2026-11-11,2026-11-18,gazette-index,Zakon o izmjenama i dopunama Zakona o usmjerenom obrazovanju (NN 47/1990),1990-11-14,no,https://narodne-novine.nn.hr/eli/sluzbeni/1990/28/535
+zakon-1990-536,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1990/28/536
+zakon-1990-537,pending-change,2026-11-11,2026-11-18,gazette-index,Ispravak Zakona o dopuni Zakona o političkim organizacijama (NN 2/1991),1991-01-24,no,https://narodne-novine.nn.hr/eli/sluzbeni/1990/28/537
+zakon-1990-583,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1990/29/583
+zakon-1990-6,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1990/2/6
+zakon-1990-613,pending-change,2026-11-11,2026-11-18,gazette-index,Zakon o tržištu električne energije (NN 68/2001),2001-07-27,no,https://narodne-novine.nn.hr/eli/sluzbeni/1990/31/613
+zakon-1990-614,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1990/31/614
+zakon-1990-616,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1990/31/616
+zakon-1990-617,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1990/31/617
+zakon-1990-618,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1990/31/618
+zakon-1990-619,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1990/31/619
+zakon-1990-620,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1990/31/620
+zakon-1990-7,pending-change,2026-11-11,2026-11-18,gazette-index,"Ispravak Zakona o izmjenama i dopunama Zakona o premijama za mlijeko, vunu, konopljine stabljike, stabljike lana, te o nadoknadi razlike u cijeni za prodane količine konzumnog mlijeka (NN 3/1990)",1990-01-30,no,https://narodne-novine.nn.hr/eli/sluzbeni/1990/2/7
+zakon-1990-74,pending-change,2026-11-11,2026-11-18,gazette-index,Zakon o dopuni Zakona o izbornim jedinicama za izbor zastupnika u Vijeće udruženog rada Sabora Socijalističke Republike Hrvatske (NN 13/1990),1990-03-30,no,https://narodne-novine.nn.hr/eli/sluzbeni/1990/7/74
+zakon-1990-746,pending-change,2026-11-11,2026-11-18,gazette-index,Ispravak Zakona o znanstvenoistraživačkoj djelatnosti (NN 34/1994),1994-04-29,no,https://narodne-novine.nn.hr/eli/sluzbeni/1990/40/746
+zakon-1990-747,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1990/40/747
+zakon-1990-748,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1990/40/748
+zakon-1990-75,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1990/7/75
+zakon-1990-76,pending-change,2026-11-11,2026-11-18,gazette-index,Ispravak Zakona o izbornim jedinicama za izbor delegata u Savezno vijeće Skupštine Socijalističke Federativne Republike Jugoslavije (NN 11/1990),1990-03-20,no,https://narodne-novine.nn.hr/eli/sluzbeni/1990/7/76
+zakon-1990-78,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1990/8/78
+zakon-1990-788,pending-change,2026-11-11,2026-11-18,gazette-index,Ispravak Zakona o ovlasti Vlade Republike Hrvatske da uredbama uređuje pojedina pitanja iz djelokruga Hrvatskoga sabora (NN 121/2005),2005-10-17,no,https://narodne-novine.nn.hr/eli/sluzbeni/1990/41/788
+zakon-1990-789,pending-change,2026-11-11,2026-11-18,gazette-index,Zakon o ustrojstvu i djelokrugu ministarstva i drugih organa državne uprave (NN 55/1992),1992-09-11,no,https://narodne-novine.nn.hr/eli/sluzbeni/1990/41/789
+zakon-1990-79,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1990/8/79
+zakon-1990-790,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1990/41/790
+zakon-1990-791,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1990/41/791
+zakon-1990-792,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1990/41/792
+zakon-1990-793,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1990/41/793
+zakon-1990-794,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1990/41/794
+zakon-1990-795,pending-change,2026-11-11,2026-11-18,gazette-index,Ispravak Zakona o izmjenama i dopunama Zakona o poljoprivrednom zemljištu (NN 90/1993),1993-10-04,no,https://narodne-novine.nn.hr/eli/sluzbeni/1990/41/795
+zakon-1990-796,pending-change,2026-11-11,2026-11-18,gazette-index,Ispravak Zakona o izmjenama i dopunama Zakona o šumama (NN 45/1990),1990-11-09,no,https://narodne-novine.nn.hr/eli/sluzbeni/1990/41/796
+zakon-1990-797,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1990/41/797
+zakon-1990-798,pending-change,2026-11-11,2026-11-18,gazette-index,Zakon o javnim cestama (NN 100/1996),1996-11-28,no,https://narodne-novine.nn.hr/eli/sluzbeni/1990/42/798
+zakon-1990-80,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1990/8/80
+zakon-1990-800,pending-change,2026-11-11,2026-11-18,gazette-index,Zakon o razdvajanju Hrvatske pošte i telekomunikacija na Hrvatsku poštu i Hrvatske telekomunikacije (NN 101/1998),1998-07-28,no,https://narodne-novine.nn.hr/eli/sluzbeni/1990/42/800
+zakon-1990-801,pending-change,2026-11-11,2026-11-18,gazette-index,Ukaz o proglašenju Zakona o prestanku važenja Zakona o osnivanju javnog poduzeća INA - Industrija nafte (NN 60/1993),1993-06-25,no,https://narodne-novine.nn.hr/eli/sluzbeni/1990/42/801
+zakon-1990-802,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1990/42/802
+zakon-1990-803,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1990/42/803
+zakon-1990-804,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1990/42/804
+zakon-1990-805,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1990/42/805
+zakon-1990-806,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1990/42/806
+zakon-1990-82,pending-change,2026-11-11,2026-11-18,gazette-index,Ispravak Zakona o izmjenama i dopunama Zakona o doplatku za djecu (NN 92/2000),2000-09-30,no,https://narodne-novine.nn.hr/eli/sluzbeni/1990/8/82
+zakon-1990-83,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1990/8/83
+zakon-1990-865,pending-change,2026-11-11,2026-11-18,gazette-index,Zakon o izmjenama zakona kojima su osnovana javna poduzeća (NN 61/1991),1991-11-19,no,https://narodne-novine.nn.hr/eli/sluzbeni/1990/47/865
+zakon-1990-866,pending-change,2026-11-11,2026-11-18,gazette-index,Zakon o kulturnim vijećima i financiranju javnih potreba u kulturi (NN 83/2022),2022-07-18,no,https://narodne-novine.nn.hr/eli/sluzbeni/1990/47/866
+zakon-1990-867,pending-change,2026-11-11,2026-11-18,gazette-index,Zakon o dopunama Zakona o spajanju općina s područja Gradske zajednice Zagreb i prestanku Gradske zajednice Zagreb (NN 33/1992),1992-06-12,no,https://narodne-novine.nn.hr/eli/sluzbeni/1990/47/867
+zakon-1990-868,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1990/47/868
+zakon-1990-870,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1990/47/870
+zakon-1990-871,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1990/47/871
+zakon-1990-872,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1990/47/872
+zakon-1990-873,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1990/47/873
+zakon-1990-874,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1990/47/874
+zakon-1990-875,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1990/47/875
+zakon-1990-876,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1990/47/876
+zakon-1990-877,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1990/47/877
+zakon-1990-878,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1990/47/878
+zakon-1990-879,pending-change,2026-11-11,2026-11-18,gazette-index,Ispravak Zakona o izmjenama i dopunama Zakona o Agenciji Socijalističke Republike Hrvatske za restrukturiranje i razvoj (NN 52/1990),1990-12-12,no,https://narodne-novine.nn.hr/eli/sluzbeni/1990/47/879
+zakon-1990-880,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1990/47/880
+zakon-1990-881,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1990/47/881
+zakon-1990-882,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1990/47/882
+zakon-1990-884,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1990/47/884
+zakon-1990-9,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1990/2/9
+zakon-1990-984,pending-change,2026-11-11,2026-11-18,gazette-index,Odluka Ustavnog suda Republike Hrvatske broj: U-III-926/2009 od 7. svibnja 2009. (NN 65/2009),2009-06-05,no,https://narodne-novine.nn.hr/eli/sluzbeni/1990/53/984
+zakon-1990-985,pending-change,2026-11-11,2026-11-18,gazette-index,Zakon o dopunama Zakona o fondovima u stambenom i komunalnom gospodarstvu (NN 76/1993),1993-08-16,no,https://narodne-novine.nn.hr/eli/sluzbeni/1990/53/985
+zakon-1990-986,pending-change,2026-11-11,2026-11-18,gazette-index,Zakon o porezu na promet nekretnina (NN 69/1997),1997-07-04,no,https://narodne-novine.nn.hr/eli/sluzbeni/1990/53/986
+zakon-1990-987,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1990/53/987
+zakon-1990-989,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1990/53/989
+zakon-1990-990,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1990/53/990
+zakon-1990-991,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1990/53/991
+zakon-1990-992,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1990/53/992
+zakon-1990-993,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1990/53/993
+zakon-1990-994,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1990/53/994

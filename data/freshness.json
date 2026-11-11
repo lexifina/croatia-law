@@ -1,8 +1,8 @@
 {
  "note": "Freshness of every act in this repository: when it was last checked against its official source, how, and whether a known change is missing. One row per act in data/freshness/<kind>/<year>.csv (listed in data/freshness/index.json); `python tools/freshness.py <act id or folder>` reads them. A status is as of `as_of`; an act verified longer ago than its threshold has since become stale.",
  "schema": "hr-freshness/1",
- "as_of": "2026-11-10",
- "checked_against_official_source": "2026-11-10",
+ "as_of": "2026-11-11",
+ "checked_against_official_source": "2026-11-11",
  "statuses": {
   "current": "checked against the official source within its threshold, and no known change is missing",
   "pending-change": "the official source reports a change (amendment, repeal) this repository does not have as a consolidated text: the act is held as enacted (or as last consolidated) and labelled",
@@ -50,44 +50,68 @@
   "official_url": "the act's page at its official source, to check by hand"
  },
  "totals": {
-  "acts": 33753,
+  "acts": 36370,
   "by_status": {
-   "current": 22161,
-   "pending-change": 10441,
+   "current": 25145,
+   "pending-change": 11225,
    "stale": 0,
-   "unverified": 1151,
+   "unverified": 0,
    "source-unavailable": 0
   },
-  "pct_verified_7d": 96.6,
-  "pct_verified_30d": 96.6
+  "pct_verified_7d": 100.0,
+  "pct_verified_30d": 100.0
  },
  "by_group": {
   "national": {
-   "acts": 21736,
+   "acts": 22669,
    "by_status": {
-    "current": 14537,
-    "pending-change": 6189,
+    "current": 15857,
+    "pending-change": 6812,
     "stale": 0,
-    "unverified": 1010,
+    "unverified": 0,
     "source-unavailable": 0
    },
-   "pct_verified_7d": 95.4,
-   "pct_verified_30d": 95.4
+   "pct_verified_7d": 100.0,
+   "pct_verified_30d": 100.0
   },
   "secondary": {
-   "acts": 12017,
+   "acts": 12239,
    "by_status": {
-    "current": 7624,
-    "pending-change": 4252,
+    "current": 7836,
+    "pending-change": 4403,
     "stale": 0,
-    "unverified": 141,
+    "unverified": 0,
     "source-unavailable": 0
    },
-   "pct_verified_7d": 98.8,
-   "pct_verified_30d": 98.8
+   "pct_verified_7d": 100.0,
+   "pct_verified_30d": 100.0
   }
  },
  "by_kind": {
+  "izbori": {
+   "acts": 129,
+   "by_status": {
+    "current": 129,
+    "pending-change": 0,
+    "stale": 0,
+    "unverified": 0,
+    "source-unavailable": 0
+   },
+   "pct_verified_7d": 100.0,
+   "pct_verified_30d": 100.0
+  },
+  "kolektivni-ugovor": {
+   "acts": 122,
+   "by_status": {
+    "current": 112,
+    "pending-change": 10,
+    "stale": 0,
+    "unverified": 0,
+    "source-unavailable": 0
+   },
+   "pct_verified_7d": 100.0,
+   "pct_verified_30d": 100.0
+  },
   "naputak": {
    "acts": 205,
    "by_status": {
@@ -101,76 +125,88 @@
    "pct_verified_30d": 100.0
   },
   "naredba": {
-   "acts": 1359,
+   "acts": 1410,
    "by_status": {
-    "current": 725,
-    "pending-change": 598,
+    "current": 782,
+    "pending-change": 628,
     "stale": 0,
-    "unverified": 36,
+    "unverified": 0,
     "source-unavailable": 0
    },
-   "pct_verified_7d": 97.4,
-   "pct_verified_30d": 97.4
+   "pct_verified_7d": 100.0,
+   "pct_verified_30d": 100.0
   },
   "odluka": {
-   "acts": 14277,
+   "acts": 14833,
    "by_status": {
-    "current": 9833,
-    "pending-change": 3694,
+    "current": 10744,
+    "pending-change": 4089,
     "stale": 0,
-    "unverified": 750,
+    "unverified": 0,
     "source-unavailable": 0
    },
-   "pct_verified_7d": 94.7,
-   "pct_verified_30d": 94.7
+   "pct_verified_7d": 100.0,
+   "pct_verified_30d": 100.0
   },
   "pravilnik": {
-   "acts": 10227,
+   "acts": 10386,
    "by_status": {
-    "current": 6656,
-    "pending-change": 3486,
+    "current": 6790,
+    "pending-change": 3596,
     "stale": 0,
-    "unverified": 85,
+    "unverified": 0,
     "source-unavailable": 0
    },
-   "pct_verified_7d": 99.2,
-   "pct_verified_30d": 99.2
+   "pct_verified_7d": 100.0,
+   "pct_verified_30d": 100.0
+  },
+  "sabor": {
+   "acts": 70,
+   "by_status": {
+    "current": 70,
+    "pending-change": 0,
+    "stale": 0,
+    "unverified": 0,
+    "source-unavailable": 0
+   },
+   "pct_verified_7d": 100.0,
+   "pct_verified_30d": 100.0
   },
   "statut": {
-   "acts": 176,
+   "acts": 180,
    "by_status": {
-    "current": 81,
-    "pending-change": 88,
+    "current": 88,
+    "pending-change": 92,
     "stale": 0,
-    "unverified": 7,
+    "unverified": 0,
     "source-unavailable": 0
    },
-   "pct_verified_7d": 96.0,
-   "pct_verified_30d": 96.0
+   "pct_verified_7d": 100.0,
+   "pct_verified_30d": 100.0
   },
   "uputa": {
-   "acts": 50,
+   "acts": 58,
    "by_status": {
-    "current": 15,
-    "pending-change": 22,
+    "current": 29,
+    "pending-change": 29,
     "stale": 0,
-    "unverified": 13,
+    "unverified": 0,
     "source-unavailable": 0
    },
-   "pct_verified_7d": 74.0,
-   "pct_verified_30d": 74.0
+   "pct_verified_7d": 100.0,
+   "pct_verified_30d": 100.0
   },
   "uredba": {
-   "acts": 3736,
+   "acts": 3881,
    "by_status": {
-    "current": 2290,
-    "pending-change": 1343,
+    "current": 2461,
+    "pending-change": 1420,
     "stale": 0,
-    "unverified": 103,
+    "unverified": 0,
     "source-unavailable": 0
    },
-   "pct_verified_7d": 97.2,
-   "pct_verified_30d": 97.2
+   "pct_verified_7d": 100.0,
+   "pct_verified_30d": 100.0
   },
   "ustav": {
    "acts": 1,
@@ -184,17 +220,29 @@
    "pct_verified_7d": 100.0,
    "pct_verified_30d": 100.0
   },
-  "zakon": {
-   "acts": 2968,
+  "ustavni-sud": {
+   "acts": 1141,
    "by_status": {
-    "current": 2096,
-    "pending-change": 715,
+    "current": 1141,
+    "pending-change": 0,
     "stale": 0,
-    "unverified": 157,
+    "unverified": 0,
     "source-unavailable": 0
    },
-   "pct_verified_7d": 94.7,
-   "pct_verified_30d": 94.7
+   "pct_verified_7d": 100.0,
+   "pct_verified_30d": 100.0
+  },
+  "zakon": {
+   "acts": 3200,
+   "by_status": {
+    "current": 2334,
+    "pending-change": 866,
+    "stale": 0,
+    "unverified": 0,
+    "source-unavailable": 0
+   },
+   "pct_verified_7d": 100.0,
+   "pct_verified_30d": 100.0
   },
   "zakoni": {
    "acts": 754,
@@ -213,13 +261,13 @@
   {
    "source": "Narodne novine, službeni dio (narodne-novine.nn.hr)",
    "url": "https://narodne-novine.nn.hr",
-   "last_successful_check": "2026-11-10",
+   "last_successful_check": "2026-11-11",
    "newest_issue_read": "129/2026",
    "newest_issue_day": "2026-11-09",
-   "read_back_to_year": 1993,
+   "read_back_to_year": 1990,
    "note": "Acts from before read_back_to_year are unverified until the read reaches their year."
   }
  ],
  "index": "data/freshness/index.json",
- "shards": 275
+ "shards": 385
 }

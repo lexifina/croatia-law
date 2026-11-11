@@ -1,13 +1,18 @@
 act,status,last_verified,check_due,method,newest_change,newest_change_date,change_in_repo,official_url
-uputa-1992-1227,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1992/47/1227
-uputa-1992-1291,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1992/49/1291
-uputa-1992-1673,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1992/63/1673
-uputa-1992-1674,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1992/63/1674
-uputa-1992-1683,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1992/63/1683
-uputa-1992-1685,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1992/63/1685
-uputa-1992-2016,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1992/76/2016
-uputa-1992-2241,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1992/87/2241
-uputa-1992-2289,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1992/88/2289
-uputa-1992-2385,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1992/91/2385
-uputa-1992-2386,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1992/91/2386
-uputa-1992-2387,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1992/91/2387
+uputa-1992-1076,pending-change,2026-11-11,2026-12-11,gazette-index,Ispravak Upute za provođenje Sporazuma o isplatama plaća za listopad i studeni 1992. godine (NN 79/1992),1992-11-26,no,https://narodne-novine.nn.hr/eli/sluzbeni/1992/42/1076
+uputa-1992-1227,current,2026-11-11,2026-12-11,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1992/47/1227
+uputa-1992-1291,current,2026-11-11,2026-12-11,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1992/49/1291
+uputa-1992-1673,current,2026-11-11,2026-12-11,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1992/63/1673
+uputa-1992-1674,current,2026-11-11,2026-12-11,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1992/63/1674
+uputa-1992-1677,pending-change,2026-11-11,2026-12-11,gazette-index,Uputa o izmjeni Upute o korištenju garancije kao jamstva za namirenje dospjelih carinskih obveza (NN 1/1995),1995-01-05,no,https://narodne-novine.nn.hr/eli/sluzbeni/1992/63/1677
+uputa-1992-1683,current,2026-11-11,2026-12-11,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1992/63/1683
+uputa-1992-1685,current,2026-11-11,2026-12-11,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1992/63/1685
+uputa-1992-1989,pending-change,2026-11-11,2026-12-11,gazette-index,Ispravak Upute o načinu i postupku izrade izvješća o stanju potraživanja iz inozemstva i stanju dugovanja po određenim osnovama (NN 78/1992),1992-11-20,no,https://narodne-novine.nn.hr/eli/sluzbeni/1992/74/1989
+uputa-1992-2016,current,2026-11-11,2026-12-11,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1992/76/2016
+uputa-1992-2241,current,2026-11-11,2026-12-11,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1992/87/2241
+uputa-1992-2289,current,2026-11-11,2026-12-11,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1992/88/2289
+uputa-1992-2385,current,2026-11-11,2026-12-11,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1992/91/2385
+uputa-1992-2386,current,2026-11-11,2026-12-11,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1992/91/2386
+uputa-1992-2387,current,2026-11-11,2026-12-11,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1992/91/2387
+uputa-1992-665,pending-change,2026-11-11,2026-12-11,gazette-index,Uputa o izmjeni i dopuni Upute o sadržaju i načinu vođenja Jedinstvenog plana računa u Službi društvenog knjigovodstva Hrvatske (NN 47/1992),1992-07-31,no,https://narodne-novine.nn.hr/eli/sluzbeni/1992/27/665
+uputa-1992-721,pending-change,2026-11-11,2026-12-11,gazette-index,Pravilnik o vođenju evidencije i objavi kolektivnih ugovora (NN 14/1996),1996-02-21,no,https://narodne-novine.nn.hr/eli/sluzbeni/1992/29/721

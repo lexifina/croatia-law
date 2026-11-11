@@ -1,7 +1,11 @@
 act,status,last_verified,check_due,method,newest_change,newest_change_date,change_in_repo,official_url
-naredba-1990-1108,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1990/57/1108
-naredba-1990-1109,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1990/57/1109
-naredba-1990-1110,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1990/57/1110
-naredba-1990-367,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1990/18/367
-naredba-1990-368,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1990/18/368
-naredba-1990-369,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1990/18/369
+naredba-1990-1108,current,2026-11-11,2026-12-11,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1990/57/1108
+naredba-1990-1109,current,2026-11-11,2026-12-11,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1990/57/1109
+naredba-1990-1110,current,2026-11-11,2026-12-11,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1990/57/1110
+naredba-1990-179,pending-change,2026-11-11,2026-12-11,gazette-index,Naredba o visini naknade za baždarenje čamaca (NN 40/1993),1993-05-04,no,https://narodne-novine.nn.hr/eli/sluzbeni/1990/13/179
+naredba-1990-180,pending-change,2026-11-11,2026-12-11,gazette-index,Naredba o visini naknade za utvrđivanje sposobnosti čamaca za plovidbu (NN 55/1992),1992-09-11,no,https://narodne-novine.nn.hr/eli/sluzbeni/1990/13/180
+naredba-1990-367,current,2026-11-11,2026-12-11,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1990/18/367
+naredba-1990-368,current,2026-11-11,2026-12-11,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1990/18/368
+naredba-1990-369,current,2026-11-11,2026-12-11,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1990/18/369
+naredba-1990-517,pending-change,2026-11-11,2026-12-11,gazette-index,Ispravak Naredbe o izmjeni i dopuni Naredbe o ribolovu povlačnim mrežama - kočama (NN 28/1990),1990-06-30,no,https://narodne-novine.nn.hr/eli/sluzbeni/1990/26/517
+naredba-1990-565,pending-change,2026-11-11,2026-12-11,gazette-index,Ispravak Naredbe ograničenju prometa na cestama (NN 51/2004),2004-04-21,no,https://narodne-novine.nn.hr/eli/sluzbeni/1990/28/565

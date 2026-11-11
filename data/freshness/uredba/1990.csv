@@ -1,6 +1,11 @@
 act,status,last_verified,check_due,method,newest_change,newest_change_date,change_in_repo,official_url
-uredba-1990-1072,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1990/55/1072
-uredba-1990-811,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1990/43/811
-uredba-1990-812,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1990/43/812
-uredba-1990-903,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1990/48/903
-uredba-1990-974,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1990/52/974
+uredba-1990-1071,pending-change,2026-11-11,2026-11-18,gazette-index,Uredba o izmjeni Uredbe o Uredu za koordiniranje aktivnosti na razrješavanju vlasničko-pravnih odnosa na nekretninama koje su prenesene u društveno vlasništvo (NN 7/1991),1991-02-19,no,https://narodne-novine.nn.hr/eli/sluzbeni/1990/55/1071
+uredba-1990-1072,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1990/55/1072
+uredba-1990-1095,pending-change,2026-11-11,2026-11-18,gazette-index,Uredba o obveznim prebijanjima obveza i potraživanja pravnih osoba u Republici Hrvatskoj (NN 47/1991),1991-09-13,no,https://narodne-novine.nn.hr/eli/sluzbeni/1990/57/1095
+uredba-1990-811,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1990/43/811
+uredba-1990-812,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1990/43/812
+uredba-1990-903,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1990/48/903
+uredba-1990-971,pending-change,2026-11-11,2026-11-18,gazette-index,Uredba o izmjenama Uredbe o Sekretarijatu za zakonodavstvo (NN 60/1991),1991-11-15,no,https://narodne-novine.nn.hr/eli/sluzbeni/1990/52/971
+uredba-1990-972,pending-change,2026-11-11,2026-11-18,gazette-index,Uredba o Uredu za nacionalne manjine (NN 132/1998),1998-10-09,no,https://narodne-novine.nn.hr/eli/sluzbeni/1990/52/972
+uredba-1990-974,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1990/52/974
+uredba-1990-975,pending-change,2026-11-11,2026-11-18,gazette-index,Uredba o izmjenama i dopunama Uredbe o Uredu za opće poslove Vlade Republike Hrvatske (NN 8/1991),1991-02-21,no,https://narodne-novine.nn.hr/eli/sluzbeni/1990/52/975

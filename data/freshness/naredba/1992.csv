@@ -1,17 +1,52 @@
 act,status,last_verified,check_due,method,newest_change,newest_change_date,change_in_repo,official_url
-naredba-1992-1114,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1992/44/1114
-naredba-1992-1177,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1992/45/1177
-naredba-1992-136,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1992/8/136
-naredba-1992-1400,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1992/52/1400
-naredba-1992-1474,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1992/55/1474
-naredba-1992-1577,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1992/58/1577
-naredba-1992-1880,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1992/70/1880
-naredba-1992-203,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1992/9/203
-naredba-1992-2240,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1992/87/2240
-naredba-1992-467,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1992/20/467
-naredba-1992-56,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1992/3/56
-naredba-1992-57,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1992/3/57
-naredba-1992-58,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1992/3/58
-naredba-1992-790,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1992/32/790
-naredba-1992-798,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1992/32/798
-naredba-1992-919,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1992/34/919
+naredba-1992-1075,current,2026-11-11,2026-12-11,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1992/42/1075
+naredba-1992-1114,current,2026-11-11,2026-12-11,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1992/44/1114
+naredba-1992-1154,current,2026-11-11,2026-12-11,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1992/45/1154
+naredba-1992-1176,pending-change,2026-11-11,2026-12-11,gazette-index,Naredba o žigovima i ispravama kojima se ovjerava ispravnost mjerila (NN 93/1994),1994-12-16,no,https://narodne-novine.nn.hr/eli/sluzbeni/1992/45/1176
+naredba-1992-1177,current,2026-11-11,2026-12-11,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1992/45/1177
+naredba-1992-1199,current,2026-11-11,2026-12-11,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1992/46/1199
+naredba-1992-131,current,2026-11-11,2026-12-11,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1992/7/131
+naredba-1992-1325,pending-change,2026-11-11,2026-12-11,gazette-index,Naredba o visini troškova postupka priznavanja novostvorene sorte odnosno odobravanja uvođenja u proizvodnju strane sorte poljoprivrednog bilja (NN 112/1997),1997-10-24,no,https://narodne-novine.nn.hr/eli/sluzbeni/1992/50/1325
+naredba-1992-136,current,2026-11-11,2026-12-11,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1992/8/136
+naredba-1992-1399,pending-change,2026-11-11,2026-12-11,gazette-index,Naredba o izmjenama Naredbe o puštanju u tečaj administrativnih biljega i mjeničnih blanketa Republike Hrvatske (NN 5/1994),1994-01-21,no,https://narodne-novine.nn.hr/eli/sluzbeni/1992/52/1399
+naredba-1992-1400,current,2026-11-11,2026-12-11,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1992/52/1400
+naredba-1992-1415,current,2026-11-11,2026-12-11,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1992/53/1415
+naredba-1992-1473,pending-change,2026-11-11,2026-12-11,gazette-index,Naredba o izmjenama i dopunama Naredbe o organizaciji rada u osnovnim školama u 1992/93. školskoj godini (NN 87/1992),1992-12-18,no,https://narodne-novine.nn.hr/eli/sluzbeni/1992/55/1473
+naredba-1992-1474,current,2026-11-11,2026-12-11,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1992/55/1474
+naredba-1992-1475,pending-change,2026-11-11,2026-12-11,gazette-index,Naredba o visini naknade za utvrđivanje sposobnosti čamaca za plovidbu (NN 40/1993),1993-05-04,no,https://narodne-novine.nn.hr/eli/sluzbeni/1992/55/1475
+naredba-1992-1476,pending-change,2026-11-11,2026-12-11,gazette-index,Naredba o visini naknade za baždarenje čamaca (NN 40/1993),1993-05-04,no,https://narodne-novine.nn.hr/eli/sluzbeni/1992/55/1476
+naredba-1992-1477,pending-change,2026-11-11,2026-12-11,gazette-index,"Naredba o visini naknade za utvrđivanje sposobnosti za plovidbu stranih jahti, sportskih jedrilica i sportskih čamaca (NN 40/1993)",1993-05-04,no,https://narodne-novine.nn.hr/eli/sluzbeni/1992/55/1477
+naredba-1992-15,pending-change,2026-11-11,2026-12-11,gazette-index,"Naredba o dopuni Naredbe o mjerama sprečavanja pojave, otkrivanja i suzbijanja zaraznih i nametničkih bolesti životinja u 1992. godini (NN 20/1992)",1992-04-08,no,https://narodne-novine.nn.hr/eli/sluzbeni/1992/1/15
+naredba-1992-1538,current,2026-11-11,2026-12-11,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1992/57/1538
+naredba-1992-1541,pending-change,2026-11-11,2026-12-11,gazette-index,Naredba o visini naknade za izdavanje svjedodžbe (NN 13/1993),1993-02-05,no,https://narodne-novine.nn.hr/eli/sluzbeni/1992/57/1541
+naredba-1992-1576,pending-change,2026-11-11,2026-12-11,gazette-index,Naredba o visini naknade za upotrebu uređaja i usluga kontrole letenja na području Republike Hrvatske (NN 52/1993),1993-06-22,no,https://narodne-novine.nn.hr/eli/sluzbeni/1992/58/1576
+naredba-1992-1577,current,2026-11-11,2026-12-11,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1992/58/1577
+naredba-1992-1688,pending-change,2026-11-11,2026-12-11,gazette-index,Tarifu troškova uredovanja carinskih službenika izvan uredovnog vremena ili uredovnog prostora (NN 121/2000),2000-12-06,no,https://narodne-novine.nn.hr/eli/sluzbeni/1992/63/1688
+naredba-1992-1879,current,2026-11-11,2026-12-11,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1992/70/1879
+naredba-1992-1880,current,2026-11-11,2026-12-11,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1992/70/1880
+naredba-1992-203,current,2026-11-11,2026-12-11,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1992/9/203
+naredba-1992-204,current,2026-11-11,2026-12-11,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1992/9/204
+naredba-1992-2240,current,2026-11-11,2026-12-11,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1992/87/2240
+naredba-1992-2288,pending-change,2026-11-11,2026-12-11,gazette-index,"Naredba o izmjenama Naredbe o mjerama sprečavanja pojave, otkrivanja i suzbijanja zaraznih i nametničkih bolesti životinja i njihovu financiranju u 1993. godini (NN 103/1993)",1993-11-11,no,https://narodne-novine.nn.hr/eli/sluzbeni/1992/88/2288
+naredba-1992-2384,current,2026-11-11,2026-12-11,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1992/91/2384
+naredba-1992-467,current,2026-11-11,2026-12-11,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1992/20/467
+naredba-1992-513,pending-change,2026-11-11,2026-12-11,gazette-index,Ispravak Naredbe o dopuni Naredbe o rokovima u kojima se vrše periodični pregledi etalona i mjerila (NN 27/1992),1992-05-08,no,https://narodne-novine.nn.hr/eli/sluzbeni/1992/22/513
+naredba-1992-56,current,2026-11-11,2026-12-11,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1992/3/56
+naredba-1992-57,current,2026-11-11,2026-12-11,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1992/3/57
+naredba-1992-58,current,2026-11-11,2026-12-11,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1992/3/58
+naredba-1992-583,pending-change,2026-11-11,2026-12-11,gazette-index,Naredba o visini naknade za izdavanje svjedodžbe o zdravstvenom stanju životinja (NN 57/1992),1992-09-22,no,https://narodne-novine.nn.hr/eli/sluzbeni/1992/24/583
+naredba-1992-761,current,2026-11-11,2026-12-11,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1992/31/761
+naredba-1992-788,current,2026-11-11,2026-12-11,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1992/32/788
+naredba-1992-789,pending-change,2026-11-11,2026-12-11,gazette-index,Naredba o dopuni Naredbe za provođenje Rezolucije broj 757 (1992) Vijeća sigurnosti Ujedinjenih naroda na području prometa nekretninama (NN 23/1993),1993-03-29,no,https://narodne-novine.nn.hr/eli/sluzbeni/1992/32/789
+naredba-1992-790,current,2026-11-11,2026-12-11,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1992/32/790
+naredba-1992-791,current,2026-11-11,2026-12-11,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1992/32/791
+naredba-1992-792,current,2026-11-11,2026-12-11,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1992/32/792
+naredba-1992-793,current,2026-11-11,2026-12-11,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1992/32/793
+naredba-1992-794,current,2026-11-11,2026-12-11,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1992/32/794
+naredba-1992-795,current,2026-11-11,2026-12-11,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1992/32/795
+naredba-1992-796,pending-change,2026-11-11,2026-12-11,gazette-index,Uredba o provođenju Rezolucija Vijeća sigurnosti Ujedinjenih naroda u svezi sankcija protiv tzv. SRJ (Srbije i Crne Gore) (NN 41/1993),1993-05-07,no,https://narodne-novine.nn.hr/eli/sluzbeni/1992/32/796
+naredba-1992-797,current,2026-11-11,2026-12-11,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1992/32/797
+naredba-1992-798,current,2026-11-11,2026-12-11,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1992/32/798
+naredba-1992-799,current,2026-11-11,2026-12-11,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1992/32/799
+naredba-1992-919,current,2026-11-11,2026-12-11,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1992/34/919
+naredba-1992-920,current,2026-11-11,2026-12-11,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1992/34/920

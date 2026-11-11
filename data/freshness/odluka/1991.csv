@@ -1,225 +1,436 @@
 act,status,last_verified,check_due,method,newest_change,newest_change_date,change_in_repo,official_url
-odluka-1991-1001,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/36/1001
-odluka-1991-1002,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/36/1002
-odluka-1991-1004,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/36/1004
-odluka-1991-1017,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/36/1017
-odluka-1991-1018,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/36/1018
-odluka-1991-1019,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/36/1019
-odluka-1991-1020,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/36/1020
-odluka-1991-1021,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/36/1021
-odluka-1991-1022,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/36/1022
-odluka-1991-1023,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/36/1023
-odluka-1991-1024,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/36/1024
-odluka-1991-1025,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/36/1025
-odluka-1991-1027,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/36/1027
-odluka-1991-1040,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/37/1040
-odluka-1991-1042,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/37/1042
-odluka-1991-1057,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/38/1057
-odluka-1991-1106,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/40/1106
-odluka-1991-1107,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/40/1107
-odluka-1991-1109,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/40/1109
-odluka-1991-1110,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/40/1110
-odluka-1991-1115,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/40/1115
-odluka-1991-1117,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/40/1117
-odluka-1991-112,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/5/112
-odluka-1991-1130,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/41/1130
-odluka-1991-1131,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/41/1131
-odluka-1991-1132,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/41/1132
-odluka-1991-1133,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/41/1133
-odluka-1991-114,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/5/114
-odluka-1991-1142,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/43/1142
-odluka-1991-1143,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/43/1143
-odluka-1991-1156,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/44/1156
-odluka-1991-1158,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/44/1158
-odluka-1991-116,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/5/116
-odluka-1991-1160,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/44/1160
-odluka-1991-1162,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/44/1162
-odluka-1991-117,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/5/117
-odluka-1991-118,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/5/118
-odluka-1991-1187,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/46/1187
-odluka-1991-119,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/5/119
-odluka-1991-1193,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/47/1193
-odluka-1991-1196,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/47/1196
-odluka-1991-1199,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/47/1199
-odluka-1991-120,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/5/120
-odluka-1991-1200,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/47/1200
-odluka-1991-1202,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/47/1202
-odluka-1991-122,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/5/122
-odluka-1991-1223,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/48/1223
-odluka-1991-1224,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/48/1224
-odluka-1991-123,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/5/123
-odluka-1991-1232,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/50/1232
-odluka-1991-1251,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/52/1251
-odluka-1991-1255,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/52/1255
-odluka-1991-1256,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/52/1256
-odluka-1991-1257,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/52/1257
-odluka-1991-1263,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/52/1263
-odluka-1991-134,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/5/134
-odluka-1991-135,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/5/135
-odluka-1991-140,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/5/140
-odluka-1991-141,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/5/141
-odluka-1991-143,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/5/143
-odluka-1991-1480,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/54/1480
-odluka-1991-1486,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/54/1486
-odluka-1991-1495,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/54/1495
-odluka-1991-1496,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/54/1496
-odluka-1991-1521,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/55/1521
-odluka-1991-1523,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/55/1523
-odluka-1991-1542,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/56/1542
-odluka-1991-1550,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/56/1550
-odluka-1991-156,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/6/156
-odluka-1991-1566,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/58/1566
-odluka-1991-1568,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/58/1568
-odluka-1991-1573,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/59/1573
-odluka-1991-158,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/6/158
-odluka-1991-1610,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/61/1610
-odluka-1991-1614,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/61/1614
-odluka-1991-1616,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/61/1616
-odluka-1991-1629,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/62/1629
-odluka-1991-1635,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/63/1635
-odluka-1991-1636,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/63/1636
-odluka-1991-1646,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/64/1646
-odluka-1991-1658,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/64/1658
-odluka-1991-1674,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/65/1674
-odluka-1991-174,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/7/174
-odluka-1991-176,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/7/176
-odluka-1991-1764,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/66/1764
-odluka-1991-1765,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/66/1765
-odluka-1991-177,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/7/177
-odluka-1991-178,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/7/178
-odluka-1991-1780,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/67/1780
-odluka-1991-179,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/7/179
-odluka-1991-180,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/7/180
-odluka-1991-1802,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/69/1802
-odluka-1991-1803,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/69/1803
-odluka-1991-182,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/7/182
-odluka-1991-1859,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/72/1859
-odluka-1991-1861,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/72/1861
-odluka-1991-1898,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/73/1898
-odluka-1991-1903,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/73/1903
-odluka-1991-1906,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/73/1906
-odluka-1991-1907,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/73/1907
-odluka-1991-1908,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/73/1908
-odluka-1991-1912,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/73/1912
-odluka-1991-192,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/8/192
-odluka-1991-197,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/8/197
-odluka-1991-198,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/8/198
-odluka-1991-200,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/8/200
-odluka-1991-201,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/8/201
-odluka-1991-21,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/1/21
-odluka-1991-22,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/1/22
-odluka-1991-224,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/9/224
-odluka-1991-227,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/9/227
-odluka-1991-228,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/9/228
-odluka-1991-23,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/1/23
-odluka-1991-24,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/1/24
-odluka-1991-25,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/1/25
-odluka-1991-27,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/1/27
-odluka-1991-28,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/1/28
-odluka-1991-29,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/1/29
-odluka-1991-31,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/1/31
-odluka-1991-32,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/1/32
-odluka-1991-337,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/12/337
-odluka-1991-367,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/13/367
-odluka-1991-37,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/1/37
-odluka-1991-377,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/13/377
-odluka-1991-39,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/1/39
-odluka-1991-391,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/14/391
-odluka-1991-392,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/14/392
-odluka-1991-393,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/14/393
-odluka-1991-394,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/14/394
-odluka-1991-409,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/14/409
-odluka-1991-413,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/14/413
-odluka-1991-428,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/15/428
-odluka-1991-438,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/15/438
-odluka-1991-439,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/15/439
-odluka-1991-441,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/15/441
-odluka-1991-442,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/15/442
-odluka-1991-443,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/15/443
-odluka-1991-444,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/15/444
-odluka-1991-446,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/15/446
-odluka-1991-450,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/15/450
-odluka-1991-454,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/15/454
-odluka-1991-455,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/15/455
-odluka-1991-457,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/15/457
-odluka-1991-459,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/15/459
-odluka-1991-461,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/15/461
-odluka-1991-463,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/15/463
-odluka-1991-464,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/15/464
-odluka-1991-465,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/15/465
-odluka-1991-466,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/15/466
-odluka-1991-469,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/15/469
-odluka-1991-471,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/15/471
-odluka-1991-473,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/15/473
-odluka-1991-569,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/16/569
-odluka-1991-583,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/18/583
-odluka-1991-584,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/18/584
-odluka-1991-585,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/18/585
-odluka-1991-603,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/19/603
-odluka-1991-604,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/19/604
-odluka-1991-63,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/2/63
-odluka-1991-642,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/20/642
-odluka-1991-643,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/20/643
-odluka-1991-65,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/2/65
-odluka-1991-654,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/21/654
-odluka-1991-655,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/21/655
-odluka-1991-657,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/21/657
-odluka-1991-658,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/21/658
-odluka-1991-66,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/2/66
-odluka-1991-661,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/21/661
-odluka-1991-67,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/2/67
-odluka-1991-677,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/22/677
-odluka-1991-679,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/22/679
-odluka-1991-68,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/2/68
-odluka-1991-683,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/22/683
-odluka-1991-688,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/23/688
-odluka-1991-69,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/2/69
-odluka-1991-709,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/24/709
-odluka-1991-714,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/24/714
-odluka-1991-715,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/24/715
-odluka-1991-716,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/24/716
-odluka-1991-717,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/24/717
-odluka-1991-728,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/25/728
-odluka-1991-729,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/25/729
-odluka-1991-731,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/26/731
-odluka-1991-734,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/26/734
-odluka-1991-735,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/26/735
-odluka-1991-744,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/26/744
-odluka-1991-762,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/27/762
-odluka-1991-767,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/27/767
-odluka-1991-837,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/29/837
-odluka-1991-853,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/30/853
-odluka-1991-855,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/30/855
-odluka-1991-856,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/30/856
-odluka-1991-857,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/30/857
-odluka-1991-868,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/30/868
-odluka-1991-869,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/30/869
-odluka-1991-884,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/32/884
-odluka-1991-890,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/32/890
-odluka-1991-894,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/32/894
-odluka-1991-895,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/32/895
-odluka-1991-90,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/4/90
-odluka-1991-902,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/33/902
-odluka-1991-903,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/33/903
-odluka-1991-904,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/33/904
-odluka-1991-91,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/4/91
-odluka-1991-917,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/33/917
-odluka-1991-92,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/4/92
-odluka-1991-923,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/33/923
-odluka-1991-924,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/33/924
-odluka-1991-925,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/33/925
-odluka-1991-927,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/33/927
-odluka-1991-932,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/33/932
-odluka-1991-936,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/33/936
-odluka-1991-937,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/33/937
-odluka-1991-938,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/33/938
-odluka-1991-939,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/33/939
-odluka-1991-970,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/34/970
-odluka-1991-981,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/35/981
-odluka-1991-982,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/35/982
-odluka-1991-983,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/35/983
-odluka-1991-986,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/35/986
-odluka-1991-987,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/35/987
-odluka-1991-988,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/35/988
-odluka-1991-991,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/35/991
-odluka-1991-999,unverified,,,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/36/999
+odluka-1991-1,pending-change,2026-11-11,2026-11-18,gazette-index,Odluka o posebnom dodatku na maloprodajne cijene naftnih derivata (NN 25/1991),1991-06-01,no,https://narodne-novine.nn.hr/eli/sluzbeni/1991/1/1
+odluka-1991-1001,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/36/1001
+odluka-1991-1002,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/36/1002
+odluka-1991-1003,pending-change,2026-11-11,2026-11-18,gazette-index,Odluka o izmjeni Odluke o izuzimanju od zabrane raspolaganja nekretninom u Splitu u Ulici Miroslava Krleže broj 26 (NN 30/1992),1992-05-25,no,https://narodne-novine.nn.hr/eli/sluzbeni/1991/36/1003
+odluka-1991-1004,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/36/1004
+odluka-1991-1017,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/36/1017
+odluka-1991-1018,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/36/1018
+odluka-1991-1019,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/36/1019
+odluka-1991-1020,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/36/1020
+odluka-1991-1021,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/36/1021
+odluka-1991-1022,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/36/1022
+odluka-1991-1023,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/36/1023
+odluka-1991-1024,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/36/1024
+odluka-1991-1025,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/36/1025
+odluka-1991-1027,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/36/1027
+odluka-1991-1037,pending-change,2026-11-11,2026-11-18,gazette-index,Odluka o izmjenama i dopunama Odluke o uvođenju dodatnog poreza na promet određenih proizvoda (NN 52/1991),1991-10-03,no,https://narodne-novine.nn.hr/eli/sluzbeni/1991/37/1037
+odluka-1991-1038,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/37/1038
+odluka-1991-1039,pending-change,2026-11-11,2026-11-18,gazette-index,Odluka o visini premije za određene proizvode u poljoprivredi (NN 49/1992),1992-08-04,no,https://narodne-novine.nn.hr/eli/sluzbeni/1991/37/1039
+odluka-1991-1040,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/37/1040
+odluka-1991-1041,pending-change,2026-11-11,2026-11-18,gazette-index,Odluka o naknadi za eksploataciju mineralnih sirovina (NN 104/1996),1996-12-11,no,https://narodne-novine.nn.hr/eli/sluzbeni/1991/37/1041
+odluka-1991-1042,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/37/1042
+odluka-1991-105,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/5/105
+odluka-1991-1057,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/38/1057
+odluka-1991-1104,pending-change,2026-11-11,2026-11-18,gazette-index,Odluka o izmjeni Odluke o dodatnom porezu na naftne derivate (NN 67/1991),1991-12-12,no,https://narodne-novine.nn.hr/eli/sluzbeni/1991/40/1104
+odluka-1991-1105,pending-change,2026-11-11,2026-11-18,gazette-index,Odluka o visini naknade za javne ceste (NN 24/1992),1992-04-25,no,https://narodne-novine.nn.hr/eli/sluzbeni/1991/40/1105
+odluka-1991-1106,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/40/1106
+odluka-1991-1107,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/40/1107
+odluka-1991-1108,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/40/1108
+odluka-1991-1109,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/40/1109
+odluka-1991-1110,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/40/1110
+odluka-1991-1115,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/40/1115
+odluka-1991-1116,pending-change,2026-11-11,2026-11-18,gazette-index,Odluka o graničnoj svoti najnižega mirovinskog primanja od 1. lipnja 1991. (NN 41/1991),1991-08-16,no,https://narodne-novine.nn.hr/eli/sluzbeni/1991/40/1116
+odluka-1991-1117,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/40/1117
+odluka-1991-1118,pending-change,2026-11-11,2026-11-18,gazette-index,Odluka o usklađivanju naknada osobnoga dohotka u svezi s pravom na prekvalifikaciju ili dokvalifikaciju i naknada osobnoga dohotka u svezi s pravom na zaposlenje od 1. lipnja 1991. (NN 41/1991),1991-08-16,no,https://narodne-novine.nn.hr/eli/sluzbeni/1991/40/1118
+odluka-1991-1119,pending-change,2026-11-11,2026-11-18,gazette-index,Odluka o usklađivanju doplatka za pomoć i njegu od 1. lipnja 1991. (NN 41/1991),1991-08-16,no,https://narodne-novine.nn.hr/eli/sluzbeni/1991/40/1119
+odluka-1991-112,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/5/112
+odluka-1991-1120,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/40/1120
+odluka-1991-1129,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/41/1129
+odluka-1991-1130,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/41/1130
+odluka-1991-1131,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/41/1131
+odluka-1991-1132,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/41/1132
+odluka-1991-1133,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/41/1133
+odluka-1991-114,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/5/114
+odluka-1991-1142,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/43/1142
+odluka-1991-1143,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/43/1143
+odluka-1991-115,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/5/115
+odluka-1991-1156,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/44/1156
+odluka-1991-1158,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/44/1158
+odluka-1991-116,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/5/116
+odluka-1991-1160,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/44/1160
+odluka-1991-1162,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/44/1162
+odluka-1991-117,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/5/117
+odluka-1991-118,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/5/118
+odluka-1991-1184,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/46/1184
+odluka-1991-1187,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/46/1187
+odluka-1991-119,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/5/119
+odluka-1991-1193,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/47/1193
+odluka-1991-1194,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/47/1194
+odluka-1991-1196,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/47/1196
+odluka-1991-1199,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/47/1199
+odluka-1991-120,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/5/120
+odluka-1991-1200,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/47/1200
+odluka-1991-1202,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/47/1202
+odluka-1991-122,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/5/122
+odluka-1991-1222,pending-change,2026-11-11,2026-11-18,gazette-index,"Odluka o Republičkom fondu ""Kralj Zvonimir"" (NN 2/1992)",1992-01-15,no,https://narodne-novine.nn.hr/eli/sluzbeni/1991/48/1222
+odluka-1991-1223,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/48/1223
+odluka-1991-1224,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/48/1224
+odluka-1991-123,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/5/123
+odluka-1991-1232,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/50/1232
+odluka-1991-1233,pending-change,2026-11-11,2026-11-18,gazette-index,Odluka o vrijednosti boda za utvrđivanje visine naknade koja se plaća zbog promjene namjene poljoprivrednog zemljišta (NN 43/1992),1992-07-07,no,https://narodne-novine.nn.hr/eli/sluzbeni/1991/50/1233
+odluka-1991-1251,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/52/1251
+odluka-1991-1252,pending-change,2026-11-11,2026-11-18,gazette-index,Odluka o izmjeni Odluke o zaštitnoj cijeni kukuruza roda iz 1991. godine (NN 62/1991),1991-11-22,no,https://narodne-novine.nn.hr/eli/sluzbeni/1991/52/1252
+odluka-1991-1253,pending-change,2026-11-11,2026-11-18,gazette-index,Odluka o izmjeni Odluke o zaštitnoj cijeni šećerne repe roda iz 1991. godine (NN 67/1991),1991-12-12,no,https://narodne-novine.nn.hr/eli/sluzbeni/1991/52/1253
+odluka-1991-1254,pending-change,2026-11-11,2026-11-18,gazette-index,Odluka o izmjeni Odluke o zaštitnoj cijeni pšenice roda iz 1992. godine (NN 37/1992),1992-06-23,no,https://narodne-novine.nn.hr/eli/sluzbeni/1991/52/1254
+odluka-1991-1255,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/52/1255
+odluka-1991-1256,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/52/1256
+odluka-1991-1257,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/52/1257
+odluka-1991-1263,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/52/1263
+odluka-1991-128,pending-change,2026-11-11,2026-11-18,gazette-index,Ispravak Odluke o sudjelovanju osiguranika u troškovima zdravstvene zaštite (NN 5/1991),1991-02-11,no,https://narodne-novine.nn.hr/eli/sluzbeni/1991/5/128
+odluka-1991-129,pending-change,2026-11-11,2026-11-18,gazette-index,Ispravak Odluke o visini putnih troškova u svezi s korištenjem zdravstvene zaštite u zemlji i inozemstvu (NN 5/1991),1991-02-11,no,https://narodne-novine.nn.hr/eli/sluzbeni/1991/5/129
+odluka-1991-130,pending-change,2026-11-11,2026-11-18,gazette-index,"Odluka o izmjeni Odluke o obveznicima, osnovicama i visini sredstava za zdravstvenu zaštitu i druga prava iz zdravstvenog osiguranja za 1991. godinu (NN 10/1992)",1992-02-28,no,https://narodne-novine.nn.hr/eli/sluzbeni/1991/5/130
+odluka-1991-134,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/5/134
+odluka-1991-135,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/5/135
+odluka-1991-140,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/5/140
+odluka-1991-141,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/5/141
+odluka-1991-142,pending-change,2026-11-11,2026-11-18,gazette-index,Odluka o plaćanju doprinosa Privrednoj komori Istre za 1991. godinu (NN 25/1991),1991-06-01,no,https://narodne-novine.nn.hr/eli/sluzbeni/1991/5/142
+odluka-1991-143,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/5/143
+odluka-1991-1471,pending-change,2026-11-11,2026-11-18,gazette-index,Odluka o prestanku važenja Odluke o preferencijalnim carinskim stopama i neplaćanju drugih uvoznih pristojbi za uvoz robe iz određenih zemalja u razvoju (NN 114/1993),1993-12-24,no,https://narodne-novine.nn.hr/eli/sluzbeni/1991/54/1471
+odluka-1991-1479,pending-change,2026-11-11,2026-11-18,gazette-index,Odluka o graničnoj svoti najnižega mirovinskog primanja od 1. srpnja 1991. (NN 54/1991),1991-10-18,no,https://narodne-novine.nn.hr/eli/sluzbeni/1991/54/1479
+odluka-1991-1480,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/54/1480
+odluka-1991-1481,pending-change,2026-11-11,2026-11-18,gazette-index,Odluka o usklađivanju naknada osobnoga dohotka u svezi s pravom na prekvalifikaciju ili dokvalifikaciju i naknada osobnoga dohotka u svezi s pravom na zaposlenje od 1. srpnja 1991. (NN 54/1991),1991-10-18,no,https://narodne-novine.nn.hr/eli/sluzbeni/1991/54/1481
+odluka-1991-1482,pending-change,2026-11-11,2026-11-18,gazette-index,Odluka o usklađivanju doplatka za pomoć i njegu od 1. srpnja 1991. (NN 54/1991),1991-10-18,no,https://narodne-novine.nn.hr/eli/sluzbeni/1991/54/1482
+odluka-1991-1483,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/54/1483
+odluka-1991-1484,pending-change,2026-11-11,2026-11-18,gazette-index,Odluka o usklađivanju mirovina od 1. kolovoza 1991. i o najvišoj starosnoj i invalidskoj mirovini (NN 56/1991),1991-10-29,no,https://narodne-novine.nn.hr/eli/sluzbeni/1991/54/1484
+odluka-1991-1485,pending-change,2026-11-11,2026-11-18,gazette-index,Odluka o privremenoj graničnoj svoti najnižega mirovinskog primanja od 1. kolovoza 1991. (NN 54/1991),1991-10-18,no,https://narodne-novine.nn.hr/eli/sluzbeni/1991/54/1485
+odluka-1991-1486,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/54/1486
+odluka-1991-1487,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/54/1487
+odluka-1991-1488,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/54/1488
+odluka-1991-1489,pending-change,2026-11-11,2026-11-18,gazette-index,Odluka o privremenom usklađivanju doplatka za pomoć i njegu od 1. kolovoza 1991. (NN 54/1991),1991-10-18,no,https://narodne-novine.nn.hr/eli/sluzbeni/1991/54/1489
+odluka-1991-1491,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/54/1491
+odluka-1991-1492,pending-change,2026-11-11,2026-11-18,gazette-index,Odluka o graničnoj svoti najnižega mirovinskog primanja od 1. srpnja 1991. (NN 54/1991),1991-10-18,no,https://narodne-novine.nn.hr/eli/sluzbeni/1991/54/1492
+odluka-1991-1493,pending-change,2026-11-11,2026-11-18,gazette-index,Odluka o usklađivanju naknada osobnoga dohotka u svezi s pravom na prekvalifikaciju ili dokvalifikaciju i naknada osobnoga dohotka u svezi s pravom na zaposlenje od 1. srpnja 1991. (NN 54/1991),1991-10-18,no,https://narodne-novine.nn.hr/eli/sluzbeni/1991/54/1493
+odluka-1991-1494,pending-change,2026-11-11,2026-11-18,gazette-index,Odluka o usklađivanju doplatka za pomoć i njegu od 1. srpnja 1991. (NN 54/1991),1991-10-18,no,https://narodne-novine.nn.hr/eli/sluzbeni/1991/54/1494
+odluka-1991-1495,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/54/1495
+odluka-1991-1496,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/54/1496
+odluka-1991-1497,pending-change,2026-11-11,2026-11-18,gazette-index,Odluka o privremenoj graničnoj svoti najnižega mirovinskog primanja od 1. kolovoza 1991. (NN 54/1991),1991-10-18,no,https://narodne-novine.nn.hr/eli/sluzbeni/1991/54/1497
+odluka-1991-1498,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/54/1498
+odluka-1991-1499,pending-change,2026-11-11,2026-11-18,gazette-index,Odluka o privremenom usklađivanju doplatka za pomoć i njegu od 1. kolovoza 1991. (NN 54/1991),1991-10-18,no,https://narodne-novine.nn.hr/eli/sluzbeni/1991/54/1499
+odluka-1991-1500,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/54/1500
+odluka-1991-1520,pending-change,2026-11-11,2026-11-18,gazette-index,Ispravak Odluke o izmjeni i dopuni Odluke o načinu stjecanja potraživanja stranih osoba u domicilnoj valuti Republike Hrvatske (NN 20/1993),1993-03-16,no,https://narodne-novine.nn.hr/eli/sluzbeni/1991/55/1520
+odluka-1991-1521,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/55/1521
+odluka-1991-1522,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/55/1522
+odluka-1991-1523,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/55/1523
+odluka-1991-1527,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/55/1527
+odluka-1991-1528,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/55/1528
+odluka-1991-1535,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/56/1535
+odluka-1991-1536,pending-change,2026-11-11,2026-11-18,gazette-index,Odluka o stavljanju izvan snage Odluke o izuzimanju od zabrane prijenosa prava raspolaganja i oduzimanja iz posjeda nekretnina u k. o. Kutina (NN 65/1992),1992-10-10,no,https://narodne-novine.nn.hr/eli/sluzbeni/1991/56/1536
+odluka-1991-154,pending-change,2026-11-11,2026-11-18,gazette-index,Odluka o izmjeni Odluke o izdavanju obveznica Republike Hrvatske (NN 15/1991),1991-03-30,no,https://narodne-novine.nn.hr/eli/sluzbeni/1991/6/154
+odluka-1991-1540,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/56/1540
+odluka-1991-1541,pending-change,2026-11-11,2026-11-18,gazette-index,Odluka o graničnoj svoti najnižega mirovinskog primanja od 1. kolovoza 1991. (NN 56/1991),1991-10-29,no,https://narodne-novine.nn.hr/eli/sluzbeni/1991/56/1541
+odluka-1991-1542,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/56/1542
+odluka-1991-1543,pending-change,2026-11-11,2026-11-18,gazette-index,Odluka o usklađivanju naknada osobnoga dohotka u svezi s pravom na prekvalifikaciju ili dokvalifikaciju i naknada osobnoga dohotka u svezi s pravom na zaposlenje od 1. kolovoza 1991. (NN 56/1991),1991-10-29,no,https://narodne-novine.nn.hr/eli/sluzbeni/1991/56/1543
+odluka-1991-1544,pending-change,2026-11-11,2026-11-18,gazette-index,Odluka o usklađivanju doplatka za pomoć i njegu od 1. kolovoza 1991. (NN 56/1991),1991-10-29,no,https://narodne-novine.nn.hr/eli/sluzbeni/1991/56/1544
+odluka-1991-1545,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/56/1545
+odluka-1991-1546,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/56/1546
+odluka-1991-1547,pending-change,2026-11-11,2026-11-18,gazette-index,Odluka o graničnoj svoti najnižega mirovinskog primanja od 1. kolovoza 1991. (NN 56/1991),1991-10-29,no,https://narodne-novine.nn.hr/eli/sluzbeni/1991/56/1547
+odluka-1991-1548,pending-change,2026-11-11,2026-11-18,gazette-index,Odluka o usklađivanju naknada osobnoga dohotka u svezi s pravom na prekvalifikaciju ili dokvalifikaciju i naknada osobnoga dohotka u svezi s pravom na zaposlenje od 1. kolovoza 1991. (NN 56/1991),1991-10-29,no,https://narodne-novine.nn.hr/eli/sluzbeni/1991/56/1548
+odluka-1991-1549,pending-change,2026-11-11,2026-11-18,gazette-index,Odluka o usklađivanju doplatka za pomoć i njegu od 1. kolovoza 1991. (NN 56/1991),1991-10-29,no,https://narodne-novine.nn.hr/eli/sluzbeni/1991/56/1549
+odluka-1991-155,pending-change,2026-11-11,2026-11-18,gazette-index,Odluka o izmjenama Odluke o visini godišnje naknade za upotrebu cesta što se plaća na cestovna motorna i priključna vozila (NN 79/1992),1992-11-26,no,https://narodne-novine.nn.hr/eli/sluzbeni/1991/6/155
+odluka-1991-1550,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/56/1550
+odluka-1991-156,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/6/156
+odluka-1991-1566,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/58/1566
+odluka-1991-1567,pending-change,2026-11-11,2026-11-18,gazette-index,Odluka o dopuni Odluke o utvrđivanju općina u kojima se koriste sredstva za subvencioniranje stanarine i podstanarine (NN 57/1992),1992-09-22,no,https://narodne-novine.nn.hr/eli/sluzbeni/1991/58/1567
+odluka-1991-1568,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/58/1568
+odluka-1991-157,pending-change,2026-11-11,2026-11-18,gazette-index,Odluka o cijeni i tarifnim stavovima za prodaju električne energije (NN 15/1991),1991-03-30,no,https://narodne-novine.nn.hr/eli/sluzbeni/1991/6/157
+odluka-1991-1573,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/59/1573
+odluka-1991-158,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/6/158
+odluka-1991-1610,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/61/1610
+odluka-1991-1612,pending-change,2026-11-11,2026-11-18,gazette-index,Ispravak Odluke o obveznoj rezervi banaka kod Narodne banke Hrvatske (NN 102/1993),1993-11-10,no,https://narodne-novine.nn.hr/eli/sluzbeni/1991/61/1612
+odluka-1991-1613,pending-change,2026-11-11,2026-11-18,gazette-index,Odluka o načinu održavanja minimalne likvidnosti banaka (NN 50/1994),1994-06-30,no,https://narodne-novine.nn.hr/eli/sluzbeni/1991/61/1613
+odluka-1991-1614,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/61/1614
+odluka-1991-1615,pending-change,2026-11-11,2026-11-18,gazette-index,Odluka o prestanku važenja Odluke o načinu i uvjetima odobravanja posebnog kredita po štednim ulozima i tekućim računima građana u hrvatskim dinarima (NN 62/1993),1993-07-01,no,https://narodne-novine.nn.hr/eli/sluzbeni/1991/61/1615
+odluka-1991-1616,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/61/1616
+odluka-1991-1618,pending-change,2026-11-11,2026-11-18,gazette-index,Odluka o ustrojavanju vojnostegovnih sudova i vojnostegovnih tužiteljstava (NN 103/1996),1996-12-06,no,https://narodne-novine.nn.hr/eli/sluzbeni/1991/62/1618
+odluka-1991-1627,pending-change,2026-11-11,2026-11-18,gazette-index,Odluka o određivanju najnižih svota na koje se mora ugovoriti osiguranje autoodgovornosti za štetu nanesenu trećim osobama pri uporabi motornog vozila (NN 38/1993),1993-05-01,no,https://narodne-novine.nn.hr/eli/sluzbeni/1991/62/1627
+odluka-1991-1629,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/62/1629
+odluka-1991-1634,pending-change,2026-11-11,2026-11-18,gazette-index,Odluka o visini naknade za veterinarsko-sanitarne preglede u prometu preko granice Republike Hrvatske (NN 77/1992),1992-11-13,no,https://narodne-novine.nn.hr/eli/sluzbeni/1991/63/1634
+odluka-1991-1635,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/63/1635
+odluka-1991-1636,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/63/1636
+odluka-1991-1637,pending-change,2026-11-11,2026-11-18,gazette-index,Ispravak Odluke o izmjeni i dopuni Odluke o načinu stjecanja potraživanja stranih osoba u domicilnoj valuti Republike Hrvatske (NN 20/1993),1993-03-16,no,https://narodne-novine.nn.hr/eli/sluzbeni/1991/63/1637
+odluka-1991-1646,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/64/1646
+odluka-1991-1658,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/64/1658
+odluka-1991-1674,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/65/1674
+odluka-1991-17,pending-change,2026-11-11,2026-11-18,gazette-index,Odluka razvrstavanju cesta u regionalne i lokalne ceste (NN 46/1991),1991-09-11,no,https://narodne-novine.nn.hr/eli/sluzbeni/1991/1/17
+odluka-1991-174,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/7/174
+odluka-1991-175,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/7/175
+odluka-1991-176,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/7/176
+odluka-1991-1764,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/66/1764
+odluka-1991-1765,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/66/1765
+odluka-1991-177,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/7/177
+odluka-1991-1771,pending-change,2026-11-11,2026-11-18,gazette-index,Odluka o izmjeni Odluke o vrijednosti robe za jedinstvenu carinsku stopu (NN 41/1992),1992-06-27,no,https://narodne-novine.nn.hr/eli/sluzbeni/1991/67/1771
+odluka-1991-1772,pending-change,2026-11-11,2026-11-18,gazette-index,"Odluka o vrsti, količini i vrijednosti predmeta koji se uvoze uz primjenu carinskih povlastica (NN 91/1995)",1995-11-10,no,https://narodne-novine.nn.hr/eli/sluzbeni/1991/67/1772
+odluka-1991-1773,pending-change,2026-11-11,2026-11-18,gazette-index,"Odluka o određivanju robe i drugih stvari koje se uvoze iz drugih država ili područja nastalih raspadom bivše SFRJ, a ne smatraju se carinskom robom (NN 42/1995)",1995-06-23,no,https://narodne-novine.nn.hr/eli/sluzbeni/1991/67/1773
+odluka-1991-1774,pending-change,2026-11-11,2026-11-18,gazette-index,Odluka o prestanku važenju Odluke o načinu formiranja cijena proizvoda iz uvoza (NN 9/1992),1992-02-21,no,https://narodne-novine.nn.hr/eli/sluzbeni/1991/67/1774
+odluka-1991-1775,pending-change,2026-11-11,2026-11-18,gazette-index,Ispravak Odluke o načinu formiranja cijena određenih prehrambenih proizvoda u prometu na veliko odnosno na malo (NN 13/1992),1992-03-13,no,https://narodne-novine.nn.hr/eli/sluzbeni/1991/67/1775
+odluka-1991-1776,pending-change,2026-11-11,2026-11-18,gazette-index,"Odluka o prestanku važenja Odluke o načinu formiranja cijena pšeničnog brašna, krupice i kruha (NN 37/1992)",1992-06-23,no,https://narodne-novine.nn.hr/eli/sluzbeni/1991/67/1776
+odluka-1991-1777,pending-change,2026-11-11,2026-11-18,gazette-index,Odluka o prestanku važenja Odluke o određivanju najviših cijena jestivog ulja (NN 5/1992),1992-02-05,no,https://narodne-novine.nn.hr/eli/sluzbeni/1991/67/1777
+odluka-1991-1778,pending-change,2026-11-11,2026-11-18,gazette-index,Odluka o prestanku važenja Odluke o određivanju najviših cijena šećera (NN 5/1992),1992-02-05,no,https://narodne-novine.nn.hr/eli/sluzbeni/1991/67/1778
+odluka-1991-178,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/7/178
+odluka-1991-1780,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/67/1780
+odluka-1991-1781,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/67/1781
+odluka-1991-1782,pending-change,2026-11-11,2026-11-18,gazette-index,Odluka o suglasnosti na povećanje prodajnih cijena naftnih derivata (NN 24/1992),1992-04-25,no,https://narodne-novine.nn.hr/eli/sluzbeni/1991/67/1782
+odluka-1991-1783,pending-change,2026-11-11,2026-11-18,gazette-index,Odluka o suglasnosti na povećanje cijena prirodnog plina (NN 79/1992),1992-11-26,no,https://narodne-novine.nn.hr/eli/sluzbeni/1991/67/1783
+odluka-1991-1784,pending-change,2026-11-11,2026-11-18,gazette-index,Odluka o suglasnosti na iznos radijske i televizijske pretplate (NN 90/1993),1993-10-04,no,https://narodne-novine.nn.hr/eli/sluzbeni/1991/67/1784
+odluka-1991-1785,pending-change,2026-11-11,2026-11-18,gazette-index,Odluka o suglasnosti na povećanje cijena električne energije (NN 65/1993),1993-07-07,no,https://narodne-novine.nn.hr/eli/sluzbeni/1991/67/1785
+odluka-1991-179,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/7/179
+odluka-1991-180,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/7/180
+odluka-1991-1801,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/69/1801
+odluka-1991-1802,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/69/1802
+odluka-1991-1803,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/69/1803
+odluka-1991-181,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/7/181
+odluka-1991-1814,pending-change,2026-11-11,2026-11-18,gazette-index,Ispravak Odluke o privremenom financiranju Hrvatske gospodarske komore za razdoblje siječanj - ožujak 1992.godine (NN 2/1992),1992-01-15,no,https://narodne-novine.nn.hr/eli/sluzbeni/1991/69/1814
+odluka-1991-182,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/7/182
+odluka-1991-1838,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/70/1838
+odluka-1991-1839,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/70/1839
+odluka-1991-1840,pending-change,2026-11-11,2026-11-18,gazette-index,Odluka o izmjeni i dopuni Odluke o utvrđivanju visine plaće zdravstvenih radnika pripravnika i specijalizanata u organizacijama zdravstva (NN 82/1992),1992-12-01,no,https://narodne-novine.nn.hr/eli/sluzbeni/1991/70/1840
+odluka-1991-1841,pending-change,2026-11-11,2026-11-18,gazette-index,lspravak Odluke o izmjeni i dopuni Odluke o obustavi investicijskih ulaganja u zdravstvenim djelatnostima Republike Hrvatske (NN 73/1992),1992-11-03,no,https://narodne-novine.nn.hr/eli/sluzbeni/1991/70/1841
+odluka-1991-1851,pending-change,2026-11-11,2026-11-18,gazette-index,Odluka o izmjeni Odluke o uvođenju hrvatskog dinara kao sredstva plaćanja na teritoriju Republike Hrvatske (NN 72/1991),1991-12-24,no,https://narodne-novine.nn.hr/eli/sluzbeni/1991/71/1851
+odluka-1991-1859,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/72/1859
+odluka-1991-1861,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/72/1861
+odluka-1991-1898,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/73/1898
+odluka-1991-1900,pending-change,2026-11-11,2026-11-18,gazette-index,Odluka o metodologiji za izradu planova obrane (NN 43/1997),1997-04-23,no,https://narodne-novine.nn.hr/eli/sluzbeni/1991/73/1900
+odluka-1991-1903,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/73/1903
+odluka-1991-1904,pending-change,2026-11-11,2026-11-18,gazette-index,Odluka o općoj eskontnoj stopi Narodne banke Hrvatske (NN 18/1992),1992-03-31,no,https://narodne-novine.nn.hr/eli/sluzbeni/1991/73/1904
+odluka-1991-1905,pending-change,2026-11-11,2026-11-18,gazette-index,Odluka o izmjeni Odluke o kamatnim stopama i stopama naknade Narodne banke Hrvatske (NN 80/1993),1993-09-01,no,https://narodne-novine.nn.hr/eli/sluzbeni/1991/73/1905
+odluka-1991-1906,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/73/1906
+odluka-1991-1907,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/73/1907
+odluka-1991-1908,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/73/1908
+odluka-1991-1909,pending-change,2026-11-11,2026-11-18,gazette-index,Odluka o izdavanju blagajničkih zapisa Narodne banke Hrvatske (NN 90/1992),1992-12-30,no,https://narodne-novine.nn.hr/eli/sluzbeni/1991/73/1909
+odluka-1991-1910,pending-change,2026-11-11,2026-11-18,gazette-index,Odluka o načinu i uvjetima korištenja obvezne rezerve banaka za održavanje njihove dnevne likvidnosti (NN 107/1993),1993-11-30,no,https://narodne-novine.nn.hr/eli/sluzbeni/1991/73/1910
+odluka-1991-1911,pending-change,2026-11-11,2026-11-18,gazette-index,Odluka o utvrđivanju visine minimalnog iznosa osnivačkog fonda banke u osnivanju (NN 26/1993),1993-04-01,no,https://narodne-novine.nn.hr/eli/sluzbeni/1991/73/1911
+odluka-1991-1912,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/73/1912
+odluka-1991-1913,pending-change,2026-11-11,2026-11-18,gazette-index,Odluka (NN 84/2001),2001-09-29,no,https://narodne-novine.nn.hr/eli/sluzbeni/1991/73/1913
+odluka-1991-192,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/8/192
+odluka-1991-197,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/8/197
+odluka-1991-198,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/8/198
+odluka-1991-199,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/8/199
+odluka-1991-200,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/8/200
+odluka-1991-201,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/8/201
+odluka-1991-202,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/8/202
+odluka-1991-21,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/1/21
+odluka-1991-22,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/1/22
+odluka-1991-222,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/9/222
+odluka-1991-224,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/9/224
+odluka-1991-226,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/9/226
+odluka-1991-227,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/9/227
+odluka-1991-228,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/9/228
+odluka-1991-23,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/1/23
+odluka-1991-24,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/1/24
+odluka-1991-25,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/1/25
+odluka-1991-26,pending-change,2026-11-11,2026-11-18,gazette-index,Odluka o usklađivanju doplatka za pomoć i njegu od 1. siječnja 1990. (NN 2/1991),1991-01-24,no,https://narodne-novine.nn.hr/eli/sluzbeni/1991/1/26
+odluka-1991-27,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/1/27
+odluka-1991-28,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/1/28
+odluka-1991-29,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/1/29
+odluka-1991-31,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/1/31
+odluka-1991-32,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/1/32
+odluka-1991-33,pending-change,2026-11-11,2026-11-18,gazette-index,Ispravak Odluke o načinu evidentiranja i iskazivanja svota osnovica osiguranja koje se uzimaju za određivanje prava iz mirovinskog i invalidskog osiguranja individualnih poljoprivrednika (NN 8/1991),1991-02-21,no,https://narodne-novine.nn.hr/eli/sluzbeni/1991/1/33
+odluka-1991-337,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/12/337
+odluka-1991-338,pending-change,2026-11-11,2026-11-18,gazette-index,Odluka o prestanku važenja Odluke o cijenama nafte i naftnih derivata (NN 21/1991),1991-05-02,no,https://narodne-novine.nn.hr/eli/sluzbeni/1991/12/338
+odluka-1991-34,pending-change,2026-11-11,2026-11-18,gazette-index,Odluka o usklađivanju mirovina od 1. siječnja 1990. godine (NN 5/1991),1991-02-11,no,https://narodne-novine.nn.hr/eli/sluzbeni/1991/1/34
+odluka-1991-35,pending-change,2026-11-11,2026-11-18,gazette-index,Odluka o graničnom iznosu najnižeg mirovinskog primanja od 1. siječnja 1990. (NN 2/1991),1991-01-24,no,https://narodne-novine.nn.hr/eli/sluzbeni/1991/1/35
+odluka-1991-36,pending-change,2026-11-11,2026-11-18,gazette-index,Odluka o usklađivanju naknada osobnog dohotka u vezi s pravom na prekvalifikaciju ili dokvalifikaciju (NN 5/1991),1991-02-11,no,https://narodne-novine.nn.hr/eli/sluzbeni/1991/1/36
+odluka-1991-362,pending-change,2026-11-11,2026-11-18,gazette-index,Odluka o izmjeni Odluke o utvrđivanju osnovice i stope za obračunavanje doprinosa Privrednoj komori regije Varaždin u 1991. godini (NN 2/1992),1992-01-15,no,https://narodne-novine.nn.hr/eli/sluzbeni/1991/12/362
+odluka-1991-367,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/13/367
+odluka-1991-37,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/1/37
+odluka-1991-377,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/13/377
+odluka-1991-38,pending-change,2026-11-11,2026-11-18,gazette-index,Odluka o usklađivanju doplatka za pomoć i njegu od 1. siječnja 1990. (NN 2/1991),1991-01-24,no,https://narodne-novine.nn.hr/eli/sluzbeni/1991/1/38
+odluka-1991-39,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/1/39
+odluka-1991-391,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/14/391
+odluka-1991-392,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/14/392
+odluka-1991-393,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/14/393
+odluka-1991-394,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/14/394
+odluka-1991-40,pending-change,2026-11-11,2026-11-18,gazette-index,Odluka o izmjeni i dopuni Odluke o osiguranju osnivača privatnih poduzeća u Republičkom fondu mirovinskog i invalidskog osiguranja samostalnih privrednika Hrvatske (NN 87/1992),1992-12-18,no,https://narodne-novine.nn.hr/eli/sluzbeni/1991/1/40
+odluka-1991-401,pending-change,2026-11-11,2026-11-18,gazette-index,Odluka o izmjenama Odluke o osnivanju Odbora za arapske zemlje u Ministarstvu inozemnih poslova (NN 5/1992),1992-02-05,no,https://narodne-novine.nn.hr/eli/sluzbeni/1991/14/401
+odluka-1991-402,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/14/402
+odluka-1991-408,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/14/408
+odluka-1991-409,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/14/409
+odluka-1991-41,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/1/41
+odluka-1991-410,pending-change,2026-11-11,2026-11-18,gazette-index,lspravak Odluke o izmjeni i dopuni Odluke o obustavi investicijskih ulaganja u zdravstvenim djelatnostima Republike Hrvatske (NN 73/1992),1992-11-03,no,https://narodne-novine.nn.hr/eli/sluzbeni/1991/14/410
+odluka-1991-411,pending-change,2026-11-11,2026-11-18,gazette-index,"Ispravak Odluke o obveznicima, osnovicama i visini sredstava za zdravstvenu zaštitu i druga prava iz zdravstvenog osiguranja za 1991. godinu (NN 32/1991)",1991-06-26,no,https://narodne-novine.nn.hr/eli/sluzbeni/1991/14/411
+odluka-1991-413,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/14/413
+odluka-1991-42,pending-change,2026-11-11,2026-11-18,gazette-index,Ispravak Odluke o načinu evidentiranja i iskazivanja svota osnovica osiguranja koje se uzimaju za određivanje prava iz mirovinskog i invalidskog osiguranja individualnih poljoprivrednika (NN 8/1991),1991-02-21,no,https://narodne-novine.nn.hr/eli/sluzbeni/1991/1/42
+odluka-1991-425,pending-change,2026-11-11,2026-11-18,gazette-index,Odluka o visini naknade za zaštitu voda (NN 58/2000),2000-06-13,no,https://narodne-novine.nn.hr/eli/sluzbeni/1991/15/425
+odluka-1991-426,pending-change,2026-11-11,2026-11-18,gazette-index,Odluka o visini naknade za korištenje voda (NN 94/2007),2007-09-13,no,https://narodne-novine.nn.hr/eli/sluzbeni/1991/15/426
+odluka-1991-427,pending-change,2026-11-11,2026-11-18,gazette-index,Odluka o cijeni i tarifnim stavovima za prodaju električne energije (NN 32/1991),1991-06-26,no,https://narodne-novine.nn.hr/eli/sluzbeni/1991/15/427
+odluka-1991-428,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/15/428
+odluka-1991-434,pending-change,2026-11-11,2026-11-18,gazette-index,Odluka o usklađivanju mirovina od 1. siječnja 1991. i o najvišoj starosnoj i invalidskoj mirovini (NN 33/1991),1991-07-04,no,https://narodne-novine.nn.hr/eli/sluzbeni/1991/15/434
+odluka-1991-435,pending-change,2026-11-11,2026-11-18,gazette-index,Odluka o graničnoj svoti najnižega mirovinskog primanja od 1. siječnja 1991. (NN 33/1991),1991-07-04,no,https://narodne-novine.nn.hr/eli/sluzbeni/1991/15/435
+odluka-1991-436,pending-change,2026-11-11,2026-11-18,gazette-index,Odluka o visini minimalne mirovine od 1. siječnja 1991. (NN 33/1991),1991-07-04,no,https://narodne-novine.nn.hr/eli/sluzbeni/1991/15/436
+odluka-1991-437,pending-change,2026-11-11,2026-11-18,gazette-index,Odluka o usklađivanju naknada osobnoga dohotka u svezi s pravom na prekvalifikaciju ili dokvalifikaciju i naknada osobnoga dohotka u svezi s pravom na zaposlenje od 1. siječnja 1991. (NN 33/1991),1991-07-04,no,https://narodne-novine.nn.hr/eli/sluzbeni/1991/15/437
+odluka-1991-438,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/15/438
+odluka-1991-439,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/15/439
+odluka-1991-440,pending-change,2026-11-11,2026-11-18,gazette-index,Odluka o usklađivanju doplatka za pomoć i njegu od 1. siječnja 1991. (NN 33/1991),1991-07-04,no,https://narodne-novine.nn.hr/eli/sluzbeni/1991/15/440
+odluka-1991-441,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/15/441
+odluka-1991-442,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/15/442
+odluka-1991-443,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/15/443
+odluka-1991-444,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/15/444
+odluka-1991-445,pending-change,2026-11-11,2026-11-18,gazette-index,Odluka o visini prihoda domaćinstva korisnika mirovine o kojima ovisi stjecanje prava na zaštitni dodatak uz mirovinu u godini 1991. (NN 15/1991),1991-03-30,no,https://narodne-novine.nn.hr/eli/sluzbeni/1991/15/445
+odluka-1991-446,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/15/446
+odluka-1991-447,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/15/447
+odluka-1991-448,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/15/448
+odluka-1991-449,pending-change,2026-11-11,2026-11-18,gazette-index,Odluka o osnovici i načinu plaćanja doprinosa za produženo mirovinsko i invalidsko osiguranje (NN 16/1992),1992-03-26,no,https://narodne-novine.nn.hr/eli/sluzbeni/1991/15/449
+odluka-1991-450,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/15/450
+odluka-1991-451,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/15/451
+odluka-1991-452,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/15/452
+odluka-1991-453,pending-change,2026-11-11,2026-11-18,gazette-index,Odluka o stalnim svotama doprinosa za mirovinsko I invalidsko osiguranje osoba osiguranih u određenim okolnostima za godinu 1992. (NN 16/1992),1992-03-26,no,https://narodne-novine.nn.hr/eli/sluzbeni/1991/15/453
+odluka-1991-454,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/15/454
+odluka-1991-455,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/15/455
+odluka-1991-456,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/15/456
+odluka-1991-457,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/15/457
+odluka-1991-458,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/15/458
+odluka-1991-459,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/15/459
+odluka-1991-460,pending-change,2026-11-11,2026-11-18,gazette-index,Ispravak Odluke o valorizacijskim koeficijentima za preračunavanje osnovica osiguranja i osobnih dohodaka iz prijašnjih godina prema razini osobnih dohodaka iz godine 1991. (NN 24/1992),1992-04-25,no,https://narodne-novine.nn.hr/eli/sluzbeni/1991/15/460
+odluka-1991-461,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/15/461
+odluka-1991-462,pending-change,2026-11-11,2026-11-18,gazette-index,Odluka o visini prihoda domaćinstva korisnika mirovine o kojima ovisi stjecanje prava na zaštitni dodatak uz mirovinu u godini 1991. (NN 15/1991),1991-03-30,no,https://narodne-novine.nn.hr/eli/sluzbeni/1991/15/462
+odluka-1991-463,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/15/463
+odluka-1991-464,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/15/464
+odluka-1991-465,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/15/465
+odluka-1991-466,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/15/466
+odluka-1991-467,pending-change,2026-11-11,2026-11-18,gazette-index,Odluka o posebnim uvjetima i kriterijima pod kojima se smatra da je članovima poljoprivrednog domaćinstva bavljenje poljoprivredom jedino ili glavno zanimanje (NN 22/1991),1991-05-14,no,https://narodne-novine.nn.hr/eli/sluzbeni/1991/15/467
+odluka-1991-468,pending-change,2026-11-11,2026-11-18,gazette-index,Odluka o usklađivanju mirovina od 1. siječnja.1991. (NN 33/1991),1991-07-04,no,https://narodne-novine.nn.hr/eli/sluzbeni/1991/15/468
+odluka-1991-469,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/15/469
+odluka-1991-470,pending-change,2026-11-11,2026-11-18,gazette-index,Odluka o usklađivanju naknada osobnoga dohotka u svezi s pravom na prekvalifikaciju ili dokvalifikaciju i naknada osobnoga dohotka u svezi s pravom na zaposlenje od 1. siječnja 1991. (NN 33/1991),1991-07-04,no,https://narodne-novine.nn.hr/eli/sluzbeni/1991/15/470
+odluka-1991-471,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/15/471
+odluka-1991-472,pending-change,2026-11-11,2026-11-18,gazette-index,Odluka o usklađivanju doplatka za pomoć i njegu od 1. siječnja 1991. (NN 33/1991),1991-07-04,no,https://narodne-novine.nn.hr/eli/sluzbeni/1991/15/472
+odluka-1991-473,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/15/473
+odluka-1991-474,pending-change,2026-11-11,2026-11-18,gazette-index,Odluka o visini prihoda domaćinstva korisnika mirovine o kojima ovisi stjecanje prava na zaštitni dodatak uz mirovinu u godini 1991. (NN 15/1991),1991-03-30,no,https://narodne-novine.nn.hr/eli/sluzbeni/1991/15/474
+odluka-1991-475,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/15/475
+odluka-1991-476,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/15/476
+odluka-1991-477,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/15/477
+odluka-1991-478,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/15/478
+odluka-1991-479,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/15/479
+odluka-1991-568,pending-change,2026-11-11,2026-11-18,gazette-index,Odluka o izmjenama Odluke o posebnim naknadama za korištenje naftne luke i naftovoda (NN 40/1991),1991-08-09,no,https://narodne-novine.nn.hr/eli/sluzbeni/1991/16/568
+odluka-1991-569,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/16/569
+odluka-1991-576,pending-change,2026-11-11,2026-11-18,gazette-index,Odluka o izmjeni i dopuni Cjenika zdravstvenih usluga za 1991. godinu (NN 13/1992),1992-03-13,no,https://narodne-novine.nn.hr/eli/sluzbeni/1991/17/576
+odluka-1991-583,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/18/583
+odluka-1991-584,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/18/584
+odluka-1991-585,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/18/585
+odluka-1991-586,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/18/586
+odluka-1991-587,pending-change,2026-11-11,2026-11-18,gazette-index,Odluka o stavljanju izvan snage Odluke o osnivanju Vrhovnog državnog vijeća Republike Hrvatske (NN 72/1992),1992-10-30,no,https://narodne-novine.nn.hr/eli/sluzbeni/1991/19/587
+odluka-1991-603,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/19/603
+odluka-1991-604,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/19/604
+odluka-1991-62,pending-change,2026-11-11,2026-11-18,gazette-index,Odluka o usklađivanju mirovina od 1. siječnja 1990. godine (NN 5/1991),1991-02-11,no,https://narodne-novine.nn.hr/eli/sluzbeni/1991/2/62
+odluka-1991-63,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/2/63
+odluka-1991-64,pending-change,2026-11-11,2026-11-18,gazette-index,Odluka o usklađivanju naknada osobnog dohotka u vezi s pravom na prekvalifikaciju ili dokvalifikaciju (NN 5/1991),1991-02-11,no,https://narodne-novine.nn.hr/eli/sluzbeni/1991/2/64
+odluka-1991-642,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/20/642
+odluka-1991-643,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/20/643
+odluka-1991-648,pending-change,2026-11-11,2026-11-18,gazette-index,"Odluka o ukidanju Inozemnog ureda Republike Hrvatske u Londonu, Velika Britanija (NN 81/1992)",1992-11-30,no,https://narodne-novine.nn.hr/eli/sluzbeni/1991/21/648
+odluka-1991-65,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/2/65
+odluka-1991-654,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/21/654
+odluka-1991-655,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/21/655
+odluka-1991-657,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/21/657
+odluka-1991-658,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/21/658
+odluka-1991-66,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/2/66
+odluka-1991-661,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/21/661
+odluka-1991-67,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/2/67
+odluka-1991-671,pending-change,2026-11-11,2026-11-18,gazette-index,Odluka o usklađivanju mirovina od 1. ožujka 1991. i o najvišoj starosnoj i invalidskoj mirovini (NN 35/1991),1991-07-18,no,https://narodne-novine.nn.hr/eli/sluzbeni/1991/22/671
+odluka-1991-672,pending-change,2026-11-11,2026-11-18,gazette-index,Odluka o graničnoj svoti najnižega mirovinskog primanja od 1. ožujka 1991. (NN 35/1991),1991-07-18,no,https://narodne-novine.nn.hr/eli/sluzbeni/1991/22/672
+odluka-1991-673,pending-change,2026-11-11,2026-11-18,gazette-index,Odluka o visini minimalne mirovine od 1. ožujka 1991. (NN 35/1991),1991-07-18,no,https://narodne-novine.nn.hr/eli/sluzbeni/1991/22/673
+odluka-1991-674,pending-change,2026-11-11,2026-11-18,gazette-index,Odluka o usklađivanju naknada osobnoga dohotka u svezi s pravom na prekvalifikaciju ili dokvalifikaciju i naknada osobnoga dohotka u svezi s pravom na zaposlenje od 1. ožujka 1991. (NN 35/1991),1991-07-18,no,https://narodne-novine.nn.hr/eli/sluzbeni/1991/22/674
+odluka-1991-675,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/22/675
+odluka-1991-676,pending-change,2026-11-11,2026-11-18,gazette-index,Odluka o usklađivanju doplatka za pomoć i njegu od 1. ožujka 1991. (NN 35/1991),1991-07-18,no,https://narodne-novine.nn.hr/eli/sluzbeni/1991/22/676
+odluka-1991-677,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/22/677
+odluka-1991-678,pending-change,2026-11-11,2026-11-18,gazette-index,Ispravak Odluke s osnovicama osiguranja koje se uzimaju za obračunavanje i plaćanje doprinosa i za određivanje prava iz mirovinskog i invalidskog osiguranja individualnih poljoprivrednika od 1. siječn (NN 29/1995),1995-04-28,no,https://narodne-novine.nn.hr/eli/sluzbeni/1991/22/678
+odluka-1991-679,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/22/679
+odluka-1991-68,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/2/68
+odluka-1991-680,pending-change,2026-11-11,2026-11-18,gazette-index,Odluka o usklađivanju mirovina od 1. ožujka 1991. (NN 35/1991),1991-07-18,no,https://narodne-novine.nn.hr/eli/sluzbeni/1991/22/680
+odluka-1991-681,pending-change,2026-11-11,2026-11-18,gazette-index,Odluka o graničnoj svoti najnižega mirovinskog primanja od 1. ožujka 1991. (NN 35/1991),1991-07-18,no,https://narodne-novine.nn.hr/eli/sluzbeni/1991/22/681
+odluka-1991-682,pending-change,2026-11-11,2026-11-18,gazette-index,Odluka o usklađivanju naknada osobnoga dohotka u svezi s pravom na prekvalifikaciju ili dokvalifikaciju i naknada osobnoga dohotka u svezi s pravom na zaposlenje od 1. ožujka 1991. (NN 35/1991),1991-07-18,no,https://narodne-novine.nn.hr/eli/sluzbeni/1991/22/682
+odluka-1991-683,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/22/683
+odluka-1991-684,pending-change,2026-11-11,2026-11-18,gazette-index,Odluka o usklađivanju doplatka za pomoć i njegu od 1. ožujka 1991. (NN 35/1991),1991-07-18,no,https://narodne-novine.nn.hr/eli/sluzbeni/1991/22/684
+odluka-1991-687,pending-change,2026-11-11,2026-11-18,gazette-index,"Odluka o izmjenama Odluke o osnivanju Republičkoga fonda ""Zrinski i Frankopani"" (NN 101/1993)",1993-11-05,no,https://narodne-novine.nn.hr/eli/sluzbeni/1991/23/687
+odluka-1991-688,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/23/688
+odluka-1991-689,pending-change,2026-11-11,2026-11-18,gazette-index,Odluka o utvrđivanju slivnih područja (NN 20/1996),1996-03-13,no,https://narodne-novine.nn.hr/eli/sluzbeni/1991/23/689
+odluka-1991-69,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/2/69
+odluka-1991-690,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/23/690
+odluka-1991-70,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/2/70
+odluka-1991-704,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/23/704
+odluka-1991-709,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/24/709
+odluka-1991-714,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/24/714
+odluka-1991-715,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/24/715
+odluka-1991-716,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/24/716
+odluka-1991-717,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/24/717
+odluka-1991-721,pending-change,2026-11-11,2026-11-18,gazette-index,Odluka o prestanku važenja Odluke o posebnom dodatku na maloprodajne cijene naftnih derivata (NN 40/1991),1991-08-09,no,https://narodne-novine.nn.hr/eli/sluzbeni/1991/25/721
+odluka-1991-728,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/25/728
+odluka-1991-729,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/25/729
+odluka-1991-73,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/3/73
+odluka-1991-731,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/26/731
+odluka-1991-732,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/26/732
+odluka-1991-733,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/26/733
+odluka-1991-734,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/26/734
+odluka-1991-735,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/26/735
+odluka-1991-736,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/26/736
+odluka-1991-737,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/26/737
+odluka-1991-744,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/26/744
+odluka-1991-762,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/27/762
+odluka-1991-767,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/27/767
+odluka-1991-837,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/29/837
+odluka-1991-838,pending-change,2026-11-11,2026-11-18,gazette-index,Odluka o prijenosu novčanih sredstava državnog proračuna u depozit Narodne banke Hrvatske (NN 69/1994),1994-09-29,no,https://narodne-novine.nn.hr/eli/sluzbeni/1991/29/838
+odluka-1991-852,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/30/852
+odluka-1991-853,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/30/853
+odluka-1991-854,pending-change,2026-11-11,2026-11-18,gazette-index,Odluka o izuzimanju nekretnina od zabrane raspolaganja (NN 36/1991),1991-07-24,no,https://narodne-novine.nn.hr/eli/sluzbeni/1991/30/854
+odluka-1991-855,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/30/855
+odluka-1991-856,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/30/856
+odluka-1991-857,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/30/857
+odluka-1991-864,pending-change,2026-11-11,2026-11-18,gazette-index,Odluka o visini dnevnice za službeno putovanje u zemlji i visini naknada određenih materijalnih troškova (NN 59/1991),1991-11-14,no,https://narodne-novine.nn.hr/eli/sluzbeni/1991/30/864
+odluka-1991-868,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/30/868
+odluka-1991-869,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/30/869
+odluka-1991-883,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/32/883
+odluka-1991-884,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/32/884
+odluka-1991-889,pending-change,2026-11-11,2026-11-18,gazette-index,Ispravak Odluke o izmjeni i dopuni Cjenika zdravstvenih usluga za 1991. godinu (NN 39/1991),1991-08-03,no,https://narodne-novine.nn.hr/eli/sluzbeni/1991/32/889
+odluka-1991-890,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/32/890
+odluka-1991-892,pending-change,2026-11-11,2026-11-18,gazette-index,Ispravak Odluke o osnovama za uspostavljanje ugovornih odnosa sa subjektima provođenja zdravstvene zaštite u 1991. godini (pročišćeni tekst) (NN 39/1991),1991-08-03,no,https://narodne-novine.nn.hr/eli/sluzbeni/1991/32/892
+odluka-1991-893,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/32/893
+odluka-1991-894,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/32/894
+odluka-1991-895,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/32/895
+odluka-1991-90,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/4/90
+odluka-1991-902,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/33/902
+odluka-1991-903,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/33/903
+odluka-1991-904,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/33/904
+odluka-1991-905,pending-change,2026-11-11,2026-11-18,gazette-index,Uredba o prestanku važenja Odluke o načinu i uvjetima korištenja primarne emisije i osiguranju likvidnosti banaka (NN 1/1992),1992-01-14,no,https://narodne-novine.nn.hr/eli/sluzbeni/1991/33/905
+odluka-1991-91,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/4/91
+odluka-1991-911,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/33/911
+odluka-1991-912,pending-change,2026-11-11,2026-11-18,gazette-index,Odluka o graničnoj svoti najnižega mirovinskog primanja od 1. siječnja 1991. (NN 33/1991),1991-07-04,no,https://narodne-novine.nn.hr/eli/sluzbeni/1991/33/912
+odluka-1991-913,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/33/913
+odluka-1991-914,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/33/914
+odluka-1991-915,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/33/915
+odluka-1991-916,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/33/916
+odluka-1991-917,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/33/917
+odluka-1991-918,pending-change,2026-11-11,2026-11-18,gazette-index,Odluka o graničnoj svoti najnižega mirovinskog primanja od 1. svibnja 1991. (NN 36/1991),1991-07-24,no,https://narodne-novine.nn.hr/eli/sluzbeni/1991/33/918
+odluka-1991-919,pending-change,2026-11-11,2026-11-18,gazette-index,Odluka o visini minimalne mirovine od 1. svibnja 1991. (NN 36/1991),1991-07-24,no,https://narodne-novine.nn.hr/eli/sluzbeni/1991/33/919
+odluka-1991-92,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/4/92
+odluka-1991-920,pending-change,2026-11-11,2026-11-18,gazette-index,Odluka o usklađivanju naknada osobnoga dohotka u svezi s pravom na prekvalifikaciju ili dokvalifikaciju i naknada osobnoga dohotka u svezi s pravom na zaposlenje od 1. svibnja 1991. (NN 36/1991),1991-07-24,no,https://narodne-novine.nn.hr/eli/sluzbeni/1991/33/920
+odluka-1991-921,pending-change,2026-11-11,2026-11-18,gazette-index,Ispravak Odluke o usklađivanju novčanih naknada za tjelesno oštećenje od 1. svibnja 1991. (NN 35/1991),1991-07-18,no,https://narodne-novine.nn.hr/eli/sluzbeni/1991/33/921
+odluka-1991-922,pending-change,2026-11-11,2026-11-18,gazette-index,Odluka o usklađivanju doplatka za pomoć i njegu od 1. svibnja 1991. (NN 36/1991),1991-07-24,no,https://narodne-novine.nn.hr/eli/sluzbeni/1991/33/922
+odluka-1991-923,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/33/923
+odluka-1991-924,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/33/924
+odluka-1991-925,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/33/925
+odluka-1991-926,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/33/926
+odluka-1991-927,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/33/927
+odluka-1991-928,pending-change,2026-11-11,2026-11-18,gazette-index,Odluka o usklađivanju mirovina od 1. svibnja 1991. (NN 36/1991),1991-07-24,no,https://narodne-novine.nn.hr/eli/sluzbeni/1991/33/928
+odluka-1991-930,pending-change,2026-11-11,2026-11-18,gazette-index,Odluka o usklađivanju naknada osobnoga dohotka u svezi s pravom na prekvalifikaciju ili dokvalifikaciju i naknada osobnoga dohotka u svezi s pravom na zaposlenje od 1. svibnja 1991. (NN 36/1991),1991-07-24,no,https://narodne-novine.nn.hr/eli/sluzbeni/1991/33/930
+odluka-1991-931,pending-change,2026-11-11,2026-11-18,gazette-index,Odluka o usklađivanju doplatka za pomoć i njegu od 1. svibnja 1991. (NN 36/1991),1991-07-24,no,https://narodne-novine.nn.hr/eli/sluzbeni/1991/33/931
+odluka-1991-932,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/33/932
+odluka-1991-933,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/33/933
+odluka-1991-934,pending-change,2026-11-11,2026-11-18,gazette-index,Odluka o graničnoj svoti najnižega mirovinskog primanja od 1. siječnja 1991. (NN 33/1991),1991-07-04,no,https://narodne-novine.nn.hr/eli/sluzbeni/1991/33/934
+odluka-1991-935,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/33/935
+odluka-1991-936,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/33/936
+odluka-1991-937,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/33/937
+odluka-1991-938,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/33/938
+odluka-1991-939,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/33/939
+odluka-1991-963,pending-change,2026-11-11,2026-11-18,gazette-index,Odluka o izuzimanju nekretnina od zabrane prijenosa prava raspolaganja (NN 69/1991),1991-12-20,no,https://narodne-novine.nn.hr/eli/sluzbeni/1991/34/963
+odluka-1991-970,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/34/970
+odluka-1991-981,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/35/981
+odluka-1991-982,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/35/982
+odluka-1991-983,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/35/983
+odluka-1991-984,pending-change,2026-11-11,2026-11-18,gazette-index,Odluka o usklađivanju naknada osobnoga dohotka u svezi s pravom na prekvalifikaciju ili dokvalifikaciju i naknada osobnoga dohotka u svezi s pravom na zaposlenje od 1. ožujka 1991. (NN 35/1991),1991-07-18,no,https://narodne-novine.nn.hr/eli/sluzbeni/1991/35/984
+odluka-1991-985,pending-change,2026-11-11,2026-11-18,gazette-index,Odluka o usklađivanju doplatka za pomoć i njegu od 1. ožujka 1991. (NN 35/1991),1991-07-18,no,https://narodne-novine.nn.hr/eli/sluzbeni/1991/35/985
+odluka-1991-986,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/35/986
+odluka-1991-987,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/35/987
+odluka-1991-988,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/35/988
+odluka-1991-989,pending-change,2026-11-11,2026-11-18,gazette-index,Odluka o usklađivanju naknada osobnoga dohotka u svezi s pravom na prekvalifikaciju ili dokvalifikaciju i naknada osobnoga dohotka u svezi s pravom na zaposlenje od 1. ožujka 1991. (NN 35/1991),1991-07-18,no,https://narodne-novine.nn.hr/eli/sluzbeni/1991/35/989
+odluka-1991-990,pending-change,2026-11-11,2026-11-18,gazette-index,Odluka o usklađivanju doplatka za pomoć i njegu od 1. ožujka 1991. (NN 35/1991),1991-07-18,no,https://narodne-novine.nn.hr/eli/sluzbeni/1991/35/990
+odluka-1991-991,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/35/991
+odluka-1991-999,current,2026-11-11,2026-11-18,gazette-index,,,,https://narodne-novine.nn.hr/eli/sluzbeni/1991/36/999
