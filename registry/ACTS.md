@@ -1,6 +1,6 @@
 # Every act in this repository
 
-33898 acts, 34,324 versions. Each act lives in a folder named by its kind, year and identifier, `<kind>/<year>/<identifier>/` (acts published before that layout keep their own folder, listed in data/paths.json); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+34198 acts, 34,624 versions. Each act lives in a folder named by its kind, year and identifier, `<kind>/<year>/<identifier>/` (acts published before that layout keep their own folder, listed in data/paths.json); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## izbori (129)
 
@@ -16726,7 +16726,7 @@
 | Odluka o subvencioniranju dijela krajnje cijene isporučene toplinske energije za sve krajnje kupce osim za krajnje kupce koji koriste toplinsku energiju pretežito za poslovnu upotrebu | [`odluka/2026/1520/`](odluka/2026/1520/) | in force | 1 | 2026-11-07 | 2026-11-07 |
 | Odluka o raspisivanju izbora za članove Državnoodvjetničkog vijeće iz reda zamjenika državnih odvjetnika | [`odluka/2026/1523/`](odluka/2026/1523/) | in force | 1 | 2026-11-06 | 2026-11-06 |
 
-## pravilnik (10269, of which 2686 amending acts)
+## pravilnik (10386, of which 2696 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -16769,14 +16769,31 @@
 | Pravilnik o izmjenama i dopunama Pravilnika o načinu utvrđivanja vrijednosti i kvalitete stana te načinu i postupku utvrđivanja visine stanarine za pojedini stan | [`pravilnik/1990/921/`](pravilnik/1990/921/) | amending act | 1 | 1990-12-02 | 1990-12-02 |
 | Pravilnik o pravima, uvjetima i načinu korištenja zdravstvene zaštite u inozemstvu | [`pravilnik/1990/1083/`](pravilnik/1990/1083/) | amended, not consolidated | 1 | 1990-12-29 | 1990-12-29 |
 | Pravilnik o pedagoškim normativima za utvrđivanje standardnog opsega obveza nastavnika u srednjoj školi | [`pravilnik/1990/1195/`](pravilnik/1990/1195/) | repealed, not consolidated | 1 | 1990-12-31 | 1990-12-31 |
+| Pravilnik o obliku i sadržaju prijave o nastanku porezne obveze | [`pravilnik/1991/16/`](pravilnik/1991/16/) | repealed, not consolidated | 1 | 1991-01-25 | 1991-01-25 |
+| Pravilnik o kriterijima za određivanje gradova i naseljenih mjesta u kojima se moraju graditi skloništa i drugi objekti za zaštitu | [`pravilnik/1991/58/`](pravilnik/1991/58/) | repealed, not consolidated | 1 | 1991-02-01 | 1991-02-01 |
 | Pravilnik o izmjeni Pravilnika o određivanju poslova koje mogu obavljati osobe na ratnom rasporedu u organima unutrašnjih poslova, o njihovom stručnom osposobljavanju i usavršavanju kao i nošenju unif | [`pravilnik/1991/59/`](pravilnik/1991/59/) | in force | 1 | 1991-01-24 | 1991-01-24 |
+| Pravilnik o osposobljavanju osoba za vozače vozila na motorni pogon i polaganju vozačkog ispita | [`pravilnik/1991/84/`](pravilnik/1991/84/) | repealed, not consolidated | 1 | 1991-02-06 | 1991-02-06 |
 | Pravilnik o stručnoj spremi i o legitimaciji republičkog inspektora cestovnog prometa i cesta | [`pravilnik/1991/85/`](pravilnik/1991/85/) | in force | 1 | 1991-02-06 | 1991-02-06 |
 | Pravilnik o izmjenama i dopunama Pravilnika o načinu ostvarivanja zdravstvene zaštite osiguranika Republičkog fonda zdravstvenog osiguranja i zdravstva Hrvatske | [`pravilnik/1991/124/`](pravilnik/1991/124/) | amended, not consolidated | 1 | 1991-02-19 | 1991-02-19 |
 | Pravilnik o izmjeni i dopunama Pravilnika o pravima, uvjetima i postupku za ostvarivanje prava iz zdravstvenog osiguranja | [`pravilnik/1991/125/`](pravilnik/1991/125/) | amended, not consolidated | 1 | 1991-02-19 | 1991-02-19 |
 | Pravilnik o izmjenama i dopunama Pravilnika o načinu izrade šumskogospodarskih osnova područja, osnova gospodarenja gospodarskim jedinicama i programa za gospodarenje šumama | [`pravilnik/1991/164/`](pravilnik/1991/164/) | amending act | 1 | 1991-02-21 | 1991-02-21 |
+| Pravilnik o posebnim uvjetima za uređenje poslovnih prostorija za promet oružja i municije i o evidencijama prometa oružja i municije | [`pravilnik/1991/195/`](pravilnik/1991/195/) | cited later, not consolidated | 1 | 1991-02-21 | 1991-02-21 |
+| Pravilnik o ostvarivanju socijalne zaštite | [`pravilnik/1991/319/`](pravilnik/1991/319/) | amended, not consolidated | 1 | 1991-03-06 | 1991-03-06 |
+| Pravilnik o tehničkim pregledima automata za igre na sreću i zabavne igre | [`pravilnik/1991/359/`](pravilnik/1991/359/) | amended, not consolidated | 1 | 1991-03-24 | 1991-03-24 |
+| Pravilnik o kriterijima za primanje na pripravnički staž zdravstvenih radnika | [`pravilnik/1991/360/`](pravilnik/1991/360/) | cited later, not consolidated | 1 | 1991-03-24 | 1991-03-24 |
 | Pravilnik o legitimaciji veterinarskog inspektora | [`pravilnik/1991/370/`](pravilnik/1991/370/) | in force | 1 | 1991-03-29 | 1991-03-29 |
+| Pravilnik o legitimaciji šumarskog inspektora, inspektora za zaštitu bilja u šumarštvu i lovnog inspektora | [`pravilnik/1991/371/`](pravilnik/1991/371/) | in force | 1 | 1991-03-29 | 1991-03-29 |
+| Pravilnik o legitimaciji poljoprivrednog inspektora i inspektora za zaštitu bilja u poljoprivredi | [`pravilnik/1991/372/`](pravilnik/1991/372/) | repealed, not consolidated | 1 | 1991-03-29 | 1991-03-29 |
+| Pravilnik o legitimaciji inspektora za slatkovodno ribarstvo | [`pravilnik/1991/373/`](pravilnik/1991/373/) | cited later, not consolidated | 1 | 1991-03-29 | 1991-03-29 |
+| Pravilnik o izmjenama i dopunama Pravilnika o pravima, uvjetima i postupku za ostvarivanje prava iz zdravstvenog osiguranja | [`pravilnik/1991/405/`](pravilnik/1991/405/) | amended, not consolidated | 1 | 1991-03-25 | 1991-03-25 |
+| Pravilnik o izmjenama i dopunama Pravilnika o uvjetima i načinu ostvarivanja zdravstvene zaštite osiguranika Republičkog fonda zdravstvenog osiguranja i zdravstva Hrvatske | [`pravilnik/1991/406/`](pravilnik/1991/406/) | amending act | 1 | 1991-04-02 | 1991-04-02 |
+| Pravilnik o izmjenama Pravilnika o pravima, uvjetima i načinu korištenja zdravstvene zaštite u inozemstvu | [`pravilnik/1991/407/`](pravilnik/1991/407/) | amended, not consolidated | 1 | 1991-03-25 | 1991-03-25 |
+| Pravilnik o legitimaciji republičkog inspektora sigurnosti željezničkog prometa | [`pravilnik/1991/431/`](pravilnik/1991/431/) | repealed, not consolidated | 1 | 1991-04-07 | 1991-04-07 |
 | Pravilnik o dopuni Pravilnika o stjecanju prava na rad sa skraćenim radnim vremenom zbog njege teže hendikepirana djeteta | [`pravilnik/1991/571/`](pravilnik/1991/571/) | amending act | 1 | 1991-04-14 | 1991-04-14 |
 | Pravilnik o čuvanju izbornog materijala za izbor odbornika zastupnika | [`pravilnik/1991/639/`](pravilnik/1991/639/) | in force | 1 | 1991-05-08 | 1991-05-08 |
+| Pravilnik o odabiru i pripremanju odgajatelja, učitelja i profesora iz Republike Hrvatske za odgojno-obrazovni rad s našom djecom u inozemstvu | [`pravilnik/1991/668/`](pravilnik/1991/668/) | repealed, not consolidated | 1 | 1991-05-22 | 1991-05-22 |
+| Pravilnik o osnovnoškolskom odgoju i obrazovanju učenika s teškoćama u razvoju | [`pravilnik/1991/697/`](pravilnik/1991/697/) | repealed, not consolidated | 1 | 1991-05-28 | 1991-05-28 |
+| Pravilnik o izmjenama i dopunalna Pravilnika o pravima, uvjetima i postupku za ostvarivanje prava iz zdravstvenog osiguranja | [`pravilnik/1991/766/`](pravilnik/1991/766/) | amended, not consolidated | 1 | 1991-06-19 | 1991-06-19 |
 | Pravilnik o iskaznici republičkog inspektora rada | [`pravilnik/1991/839/`](pravilnik/1991/839/) | in force | 1 | 1991-06-25 | 1991-06-25 |
 | Pravilnik o načinu osiguravanja i kontroli trošenja sredstava za posebnu novčanu naknadu | [`pravilnik/1991/840/`](pravilnik/1991/840/) | in force | 1 | 1991-06-17 | 1991-06-17 |
 | Pravilnik o načinu osiguravanja i kontroli trošenja sredstava za invalidsku zaštitu | [`pravilnik/1991/841/`](pravilnik/1991/841/) | in force | 1 | 1991-06-17 | 1991-06-17 |
@@ -16786,10 +16803,25 @@
 | Pravilnik o izmjeni Pravilnika o načinu isplaćivanja novčanih primanja i vođenju evidencije prema Zakonu o zaštiti žrtava fašističkog terora i građanskih žrtava rata | [`pravilnik/1991/845/`](pravilnik/1991/845/) | in force | 1 | 1991-06-17 | 1991-06-17 |
 | Pravilnik o izmjeni Pravilnika o načinu isplaćivanja novčanih primanja i vođenju evidencije prema akonu o posebnoj novčanoj naknadi borcima narodnooslobodilačkog rata i predratnim revolucionarima | [`pravilnik/1991/846/`](pravilnik/1991/846/) | in force | 1 | 1991-06-17 | 1991-06-17 |
 | Pravilnik o izmjeni Pravilnika o načinu isplaćivanja novčanih primanja i vođenju evidencije prema Zakonu o zaštiti boraca narodnooslobodilačkog rata | [`pravilnik/1991/847/`](pravilnik/1991/847/) | in force | 1 | 1991-06-17 | 1991-06-17 |
+| Pravilnik o obračunavanju i plaćanju naknade za korištenje voda | [`pravilnik/1991/865/`](pravilnik/1991/865/) | amended, not consolidated | 1 | 1991-06-21 | 1991-06-21 |
+| Pravilnik o izmjenama i dopunama Pravilnika o minimalnim tehničkim uvjetima za poslovne prostorije u kojima se obavlja promet robe i usluge u prometu roba | [`pravilnik/1991/866/`](pravilnik/1991/866/) | amended, not consolidated | 1 | 1991-06-21 | 1991-06-21 |
+| Pravilnik o broju učenika u redovnom i kombiniranom razrednom odjelu te odgojno-obrazovnoj grupi | [`pravilnik/1991/879/`](pravilnik/1991/879/) | cited later, not consolidated | 1 | 1991-07-03 | 1991-07-03 |
 | Pravilnik o kalendaru rada osnovnih škola za 1991/92. školsku godinu | [`pravilnik/1991/880/`](pravilnik/1991/880/) | in force | 1 | 1991-07-03 | 1991-07-03 |
 | Pravilnik o polaganju predmetnih i razrednih ispita u osnovnoj školi | [`pravilnik/1991/881/`](pravilnik/1991/881/) | in force | 1 | 1991-07-03 | 1991-07-03 |
+| Pravilnik o radnim obvezama učitelja i stručnih suradnika u osnovnoj školi | [`pravilnik/1991/885/`](pravilnik/1991/885/) | amended, not consolidated | 1 | 1991-07-04 | 1991-07-04 |
+| Pravilnik o izmjenama i dopunaina Pravilnika o pravima, uvjetima i načinu korištenja zdravstvene zaštite u inozemstvu | [`pravilnik/1991/886/`](pravilnik/1991/886/) | amended, not consolidated | 1 | 1991-06-26 | 1991-06-26 |
+| Pravilnik o ovlastima, dužnostima i sastavu liječničkih komisija | [`pravilnik/1991/887/`](pravilnik/1991/887/) | repealed, not consolidated | 1 | 1991-07-04 | 1991-07-04 |
 | Pravilnik o izmjenama i dopunama Pravilnika o indikacijama, standardima i rokovima trajanja za proteze, ortopedska i druga pomagala | [`pravilnik/1991/888/`](pravilnik/1991/888/) | amending act | 1 | 1991-07-04 | 1991-07-04 |
+| Pravilnik o sadržaju i metodologiji prikupljanja podataka za evidencije u području športa | [`pravilnik/1991/906/`](pravilnik/1991/906/) | repealed, not consolidated | 1 | 1991-07-12 | 1991-07-12 |
+| Pravilnik o uvjetima, organizaciji i načinu rada hitne medicinske pomoći na javnim cestama u Republici Hrvatskoj | [`pravilnik/1991/907/`](pravilnik/1991/907/) | repealed, not consolidated | 1 | 1991-07-12 | 1991-07-12 |
+| Pravilnik o obračunavanju i plaćanju naknade za zaštitu voda | [`pravilnik/1991/908/`](pravilnik/1991/908/) | repealed, not consolidated | 1 | 1991-07-04 | 1991-07-04 |
+| Pravilnik o legitimaciji i izgledu značke turističkog vodiča | [`pravilnik/1991/909/`](pravilnik/1991/909/) | amended, not consolidated | 1 | 1991-07-12 | 1991-07-12 |
+| Pravilnik o registraciji vozila Ministarstva unutarnjih poslova Republike Hrvatske | [`pravilnik/1991/965/`](pravilnik/1991/965/) | in force | 1 | 1991-07-24 | 1991-07-24 |
+| Pravilnik o sadržaju godišnjeg plana istraživanja, postupku ishođenja odobrenja za istraživanje te sadržaju izvješća o izvršenim istraživanjima mineralnih sirovina | [`pravilnik/1991/966/`](pravilnik/1991/966/) | repealed, not consolidated | 1 | 1991-07-24 | 1991-07-24 |
+| Pravilnik o osnovnoškolskom odgoju i obrazovanju darovitih učenika | [`pravilnik/1991/967/`](pravilnik/1991/967/) | repealed, not consolidated | 1 | 1991-07-24 | 1991-07-24 |
 | Pravilnik o stručnoj spremi odnosno stručnoj osposobljenosti za samostalno obavljanje stručnih poslova u športu osobnim radom | [`pravilnik/1991/974/`](pravilnik/1991/974/) | in force | 1 | 1991-07-26 | 1991-07-26 |
+| Pravilnik o stručnoj spremi odnosno stručnoj osposobljenosti za obavljanje stručnih poslova u športu | [`pravilnik/1991/975/`](pravilnik/1991/975/) | repealed, not consolidated | 1 | 1991-07-26 | 1991-07-26 |
+| Pravilnik o obrascima službenih iskaznica i posebnoj oznaci ovlaštenih službenih osoba Ministarstva unutarnjih poslova | [`pravilnik/1991/976/`](pravilnik/1991/976/) | amended, not consolidated | 1 | 1991-07-26 | 1991-07-26 |
 | Pravilnik o primjeni Zakona o porezu na promet proizvoda i usluga | [`pravilnik/1991/1006/`](pravilnik/1991/1006/) | amended, not consolidated | 1 | 1991-07-24 | 1991-07-24 |
 | Pravilnik za utvrđivanje lokacije i minimalnih uvjeta za projektiranje i uredenje autobusnih stajališta na javnim cestama | [`pravilnik/1991/1014/`](pravilnik/1991/1014/) | in force | 1 | 1991-08-01 | 1991-08-01 |
 | Pravilnik o sadržaju i obliku pedagoške dokumentacije te načinu čuvanja dokumentacije o hrvatskoj nastavi u inozemstvu | [`pravilnik/1991/1049/`](pravilnik/1991/1049/) | in force | 1 | 1991-08-07 | 1991-08-07 |
@@ -16817,42 +16849,126 @@
 | Pravilnik o vojnoj iskaznici | [`pravilnik/1991/1558/`](pravilnik/1991/1558/) | in force | 1 | 1991-11-04 | 1991-11-04 |
 | Pravilnik o kalendaru rada srednjih škola u 1991/92. školskoj godini | [`pravilnik/1991/1569/`](pravilnik/1991/1569/) | in force | 1 | 1991-11-15 | 1991-11-15 |
 | Pravilnik o iskaznici povjerenika i pomoćnika povjerenika Vlade Republike Hrvatske | [`pravilnik/1991/1575/`](pravilnik/1991/1575/) | in force | 1 | 1991-11-14 | 1991-11-14 |
+| Pravilnik o načinu vođenja evidencija o poljoprivrednom zemljištu | [`pravilnik/1991/1577/`](pravilnik/1991/1577/) | replaced, not consolidated | 1 | 1991-11-22 | 1991-11-22 |
+| Pravilnik o ustrojstvu i načinu rada Republičkog fonda socijalne zaštite | [`pravilnik/1991/1578/`](pravilnik/1991/1578/) | amended, not consolidated | 1 | 1991-11-22 | 1991-11-22 |
+| Pravilnik o iskaznici rudarskog inspektora | [`pravilnik/1991/1589/`](pravilnik/1991/1589/) | cited later, not consolidated | 1 | 1991-11-23 | 1991-11-23 |
+| Pravilnik o postupku utvrđivanja i ovjere rezervi mineralnih sirovina | [`pravilnik/1991/1590/`](pravilnik/1991/1590/) | repealed, not consolidated | 1 | 1991-11-23 | 1991-11-23 |
+| Pravilnik o iskaznici elektroenergetskog inspektora | [`pravilnik/1991/1630/`](pravilnik/1991/1630/) | cited later, not consolidated | 1 | 1991-11-30 | 1991-11-30 |
+| Pravilnik o iskaznici inspektora postrojenja pod pritiskom | [`pravilnik/1991/1631/`](pravilnik/1991/1631/) | cited later, not consolidated | 1 | 1991-11-30 | 1991-11-30 |
+| Pravilnik o iskaznici republičkog upravnog inspektora | [`pravilnik/1991/1763/`](pravilnik/1991/1763/) | repealed, not consolidated | 1 | 1991-12-17 | 1991-12-17 |
+| Pravilnik o mjerama za suzbijanje i iskorjenjivanje njukaslske bolesti | [`pravilnik/1991/1786/`](pravilnik/1991/1786/) | repealed, not consolidated | 1 | 1991-12-20 | 1991-12-20 |
+| Pravilnik o mjerama za suzbijanje i iskorjenjivanje enzootske leukoze goveda | [`pravilnik/1991/1787/`](pravilnik/1991/1787/) | repealed, not consolidated | 1 | 1991-12-20 | 1991-12-20 |
+| Pravilnik o mjerama za suzbijanje i iskorjenjivanje leptospiroze životinja | [`pravilnik/1991/1788/`](pravilnik/1991/1788/) | repealed, not consolidated | 1 | 1991-12-20 | 1991-12-20 |
 | Pravilnik o mjerama za suzbijanje i iskorjenjivanje infekaozne anemije kopitara | [`pravilnik/1991/1789/`](pravilnik/1991/1789/) | in force | 1 | 1991-12-20 | 1991-12-20 |
+| Pravilnik o mjerama za suzbijanje i iskorjenjivanje klasične svinjske kuge | [`pravilnik/1991/1790/`](pravilnik/1991/1790/) | repealed, not consolidated | 1 | 1991-12-20 | 1991-12-20 |
+| Pravilnik o mjerama za suzbijanje i iskorjenjivanje bedrenice kod životinja | [`pravilnik/1991/1791/`](pravilnik/1991/1791/) | repealed, not consolidated | 1 | 1991-12-20 | 1991-12-20 |
+| Pravilnik o načinu uvoza sirovina i reprodukcijskih materijala radi proizvodnje za izvoz | [`pravilnik/1991/1797/`](pravilnik/1991/1797/) | amended, not consolidated | 1 | 1991-12-21 | 1991-12-21 |
+| Pravilnik o sigurnosti na uređenim skijalištima | [`pravilnik/1991/1799/`](pravilnik/1991/1799/) | repealed, not consolidated | 1 | 1991-12-21 | 1991-12-21 |
+| Pravilnik o mjerama za suzbijanje i iskorjenjivanje bruceloze goveda, ovaca, koza i svinja | [`pravilnik/1991/1804/`](pravilnik/1991/1804/) | cited later, not consolidated | 1 | 1991-12-28 | 1991-12-28 |
+| Pravilnik o mjerama za suzbijanje i iskorjenjivanje pčelinjih zaraznih bolesti | [`pravilnik/1991/1805/`](pravilnik/1991/1805/) | repealed, not consolidated | 1 | 1991-12-28 | 1991-12-28 |
+| Pravilnik o mjerama za suzbijanje i iskorjenjivanje bjesnoće kod životinja | [`pravilnik/1991/1806/`](pravilnik/1991/1806/) | repealed, not consolidated | 1 | 1991-12-28 | 1991-12-28 |
+| Pravilnik o iskaznici i znaku graničnog veterinarskog inspektora | [`pravilnik/1991/1807/`](pravilnik/1991/1807/) | amended, not consolidated | 1 | 1991-12-28 | 1991-12-28 |
 | Pravilnik o utvrdivanju kriterija i mjerila za plaće i novčane naknade odgojno-obrazovnih djelatnika za rad s našom djecom u inozemstvu | [`pravilnik/1991/1809/`](pravilnik/1991/1809/) | in force | 1 | 1991-12-28 | 1991-12-28 |
 | Pravilnik o izmjenama i dopunama Pravilnika o Sudu časti pri Privrednoj komori Hrvatske | [`pravilnik/1991/1813/`](pravilnik/1991/1813/) | amending act | 1 | 1991-12-28 | 1991-12-28 |
+| Pravilnik o završavanju osnovnog školovanja odraslih polaganjem ispita | [`pravilnik/1991/1836/`](pravilnik/1991/1836/) | cited later, not consolidated | 1 | 1991-12-29 | 1991-12-29 |
+| Pravilnik o izmjenama i dopunama Pravilnika o uvjetima i načinu ostvarivanja zdravstvene zaštite osiguranika Republičkog fonda zdravstvenog osiguranja i zdravstva Hrvatske | [`pravilnik/1991/1837/`](pravilnik/1991/1837/) | amending act | 1 | 1991-12-29 | 1991-12-29 |
+| Pravilnik o načinu vođenja evidencije o izdanim putnim ispravama i vizama u diplomatskim ili konzularnim predstavništvima Republike Hrvatske u inozemstvu | [`pravilnik/1992/13/`](pravilnik/1992/13/) | amended, not consolidated | 1 | 1992-01-14 | 1992-01-14 |
+| Pravilnik o uniformama policajaca i drugih ovlaštenih službenih osoba Ministarstva unutarnjih poslova | [`pravilnik/1992/14/`](pravilnik/1992/14/) | cited later, not consolidated | 1 | 1992-01-22 | 1992-01-22 |
+| Pravilnik o polaganju stručnih ispita u bibliotekarskoj struci | [`pravilnik/1992/16/`](pravilnik/1992/16/) | repealed, not consolidated | 1 | 1992-01-22 | 1992-01-22 |
+| Pravilnik o obliku i sadržaju dozvole za obavljanje međunarodnog cestovnog prijevoza | [`pravilnik/1992/30/`](pravilnik/1992/30/) | repealed, not consolidated | 1 | 1992-01-23 | 1992-01-23 |
+| Pravilnik o zdravstvenom standardu u Republici Hrvatskoj | [`pravilnik/1992/55/`](pravilnik/1992/55/) | cited later, not consolidated | 1 | 1992-01-30 | 1992-01-30 |
+| Pravilnik o diplomatslam i službenim putovnicama i vizama Republike Hrvatske | [`pravilnik/1992/65/`](pravilnik/1992/65/) | amended, not consolidated | 1 | 1992-02-04 | 1992-02-04 |
+| Pravilnik o najvećim količinama štetnih tvari i sastojaka u stočnoj hrani | [`pravilnik/1992/66/`](pravilnik/1992/66/) | cited later, not consolidated | 1 | 1992-02-12 | 1992-02-12 |
+| Pravilnik o novčanim naknadama vojnika i kadeta škola pričuvnih časnika za vrijeme služenja vojnog roka | [`pravilnik/1992/112/`](pravilnik/1992/112/) | amended, not consolidated | 1 | 1992-02-07 | 1992-02-07 |
 | Pravilnik o izdavanju vodoprivrednih uvjeta, vodoprivrednih suglasnosti i vodoprivrednih dozvola | [`pravilnik/1992/114/`](pravilnik/1992/114/) | in force | 1 | 1992-02-15 | 1992-02-15 |
+| Pravilnik o iskaznici vodoprivrednog inspektora | [`pravilnik/1992/115/`](pravilnik/1992/115/) | repealed, not consolidated | 1 | 1992-02-15 | 1992-02-15 |
 | Pravilnik o načinu i postupku registracije turističkih zajednica | [`pravilnik/1992/117/`](pravilnik/1992/117/) | in force | 1 | 1992-02-07 | 1992-02-07 |
 | Pravilnik o izmjeni i dopuni Pravilnika o registraciji motornih i priključnih vozila, obrascu prometne vozačke dozvole | [`pravilnik/1992/118/`](pravilnik/1992/118/) | amending act | 1 | 1992-02-07 | 1992-02-07 |
 | Pravilnik o izmjenama Pravilnika o naknadi za ceste što se plaća na strana vozila | [`pravilnik/1992/119/`](pravilnik/1992/119/) | in force | 1 | 1992-02-15 | 1992-02-15 |
+| Pravilnik o načinu dezinfekcije prijevoznih sredstava kojima se prevoze pošiljke životinja, proizvodi životinjskog podrijetla i otpadna animalna tvar | [`pravilnik/1992/129/`](pravilnik/1992/129/) | cited later, not consolidated | 1 | 1992-02-20 | 1992-02-20 |
+| Pravilnik o polaganju stručnog ispita učitelja i stručnih suradnika u osnovnoj školi | [`pravilnik/1992/130/`](pravilnik/1992/130/) | replaced, not consolidated | 1 | 1992-02-20 | 1992-02-20 |
+| Pravilnik o prestanku važenja Pravilnika za stjecanje zvanja viši arhivist i arhivski savjetnik | [`pravilnik/1992/208/`](pravilnik/1992/208/) | in force | 1 | 1992-02-29 | 1992-02-29 |
+| Pravilnik o izmjenama i dopunama Pravilnika o obrascima putnih isprava hrvatskih državljana | [`pravilnik/1992/213/`](pravilnik/1992/213/) | amended, not consolidated | 1 | 1992-02-28 | 1992-02-28 |
+| Pravilnik o ortopedskim i drugim pomagalima | [`pravilnik/1992/233/`](pravilnik/1992/233/) | amended, not consolidated | 1 | 1992-03-07 | 1992-03-07 |
+| Pravilnik o ovlaštenjima Hrvatskog auto-kluba i načinu osiguravanja sredstava za objavljivanje poslova koji su mu povjereni | [`pravilnik/1992/244/`](pravilnik/1992/244/) | in force | 1 | 1992-03-11 | 1992-03-11 |
+| Pravilnik o kriterijima, uvjetima i načinu korištenja sredstava za realizaciju razvojnih programa poljoprivrede Repulike Hrvatske | [`pravilnik/1992/245/`](pravilnik/1992/245/) | in force | 1 | 1992-03-03 | 1992-03-03 |
+| Pravilnik o iskaznici i znaku graničnog sanitarnog inspektora | [`pravilnik/1992/247/`](pravilnik/1992/247/) | cited later, not consolidated | 1 | 1992-03-11 | 1992-03-11 |
 | Pravilnik o dopuni Pravilnika o poslovnim knjigama poreznih obveznika | [`pravilnik/1992/248/`](pravilnik/1992/248/) | amending act | 1 | 1992-03-11 | 1992-03-11 |
+| Pravilnik o izmjenama i dopunama Pravilnika o diplomatskim i službenim putovnicama i vizama Republike Hrvatske | [`pravilnik/1992/249/`](pravilnik/1992/249/) | amending act | 1 | 1992-03-03 | 1992-03-03 |
 | Pravilnik o obliku i tekstu natpisnih ploča organizacijskih jednica Carinske uprave Republike Hrvatske | [`pravilnik/1992/251/`](pravilnik/1992/251/) | in force | 1 | 1992-03-11 | 1992-03-11 |
+| Pravilnik o uvjetima glede uređenja objekata, prostorija opreme i stručnih djelatnika kojima moraju udovoljavati pravne i fizičke osobe u obavljanju poslova zdravstvene zaštite životinja i veterinarsk | [`pravilnik/1992/266/`](pravilnik/1992/266/) | repealed, not consolidated | 1 | 1992-03-14 | 1992-03-14 |
 | Pravilnik o dopuni Pravilnika o obliku i sadržaju porezne prijave | [`pravilnik/1992/267/`](pravilnik/1992/267/) | amending act | 1 | 1992-03-14 | 1992-03-14 |
 | Pravilnik o pričuvnom sastavu policije | [`pravilnik/1992/281/`](pravilnik/1992/281/) | in force | 1 | 1992-03-21 | 1992-03-21 |
 | Pravilnik o izmjeni i dopuni Pravilnika o tehničkim pregledima automata za igre na sreću i zabavne igre | [`pravilnik/1992/282/`](pravilnik/1992/282/) | amending act | 1 | 1992-03-21 | 1992-03-21 |
+| Pravilnik o radu Odbora za dodjelu "Nagrade Ivan Filipović" | [`pravilnik/1992/332/`](pravilnik/1992/332/) | amended, not consolidated | 1 | 1992-03-25 | 1992-03-25 |
+| Pravilnik o zaštiti poljoprivrednog zemljišta od onečišćenja štetnim tvarima | [`pravilnik/1992/333/`](pravilnik/1992/333/) | repealed, not consolidated | 1 | 1992-03-25 | 1992-03-25 |
 | Pravilnik o dopunama Pravilnika o izvršavanju vojne obveze i civilne službe | [`pravilnik/1992/468/`](pravilnik/1992/468/) | amending act | 1 | 1992-04-08 | 1992-04-08 |
+| Pravilnik o obliku, sadržaju i uporabi instrumenata platnog prometa | [`pravilnik/1992/470/`](pravilnik/1992/470/) | amended, not consolidated | 1 | 1992-04-08 | 1992-04-08 |
+| Pravilnik o sadržaju glavne knjige Registra zrakoplova Republike Hrvatske | [`pravilnik/1992/477/`](pravilnik/1992/477/) | cited later, not consolidated | 1 | 1992-04-09 | 1992-04-09 |
+| Pravilnik o postupku, načinu i kriterijima raspodjele stranih dozvola za međunarodni cestovni prijevoz stvari | [`pravilnik/1992/478/`](pravilnik/1992/478/) | repealed, not consolidated | 1 | 1992-04-17 | 1992-04-17 |
 | Pravilnik o izdavanju dozvole stranom prijevozniku za unutarnji prijevoz stvari | [`pravilnik/1992/479/`](pravilnik/1992/479/) | in force | 1 | 1992-04-17 | 1992-04-17 |
+| Pravilnik o sadržaju izvješća Hrvatske gospodarske komore o broju iskorištenih dozvola | [`pravilnik/1992/480/`](pravilnik/1992/480/) | repealed, not consolidated | 1 | 1992-04-17 | 1992-04-17 |
+| Pravilnik o obrascu službene iskaznice i posebnoj oznaci ovlaštenih službenih osoba Carinske uprave Republike Hrvatske | [`pravilnik/1992/482/`](pravilnik/1992/482/) | repealed, not consolidated | 1 | 1992-04-17 | 1992-04-17 |
 | Pravilnik o izmjeni i dopuni Pravilnika o pravima, uvjetima i postupku za ostvarivanje prava iz zdravstvenog osiguranja | [`pravilnik/1992/487/`](pravilnik/1992/487/) | amending act | 1 | 1992-04-17 | 1992-04-17 |
 | Pravilnik o uvjetima za obavljanje stručnih poslova u diplomatskoj i konzularnoj službi. | [`pravilnik/1992/548/`](pravilnik/1992/548/) | in force | 1 | 1992-04-29 | 1992-04-29 |
+| Pravilnik o izmjenama i dopunama Pravilnika o diplomatskim i službenim putovnicama i vizama Republike Hrvatske | [`pravilnik/1992/549/`](pravilnik/1992/549/) | amending act | 1 | 1992-04-21 | 1992-04-21 |
 | Pravilnik o rješavanju sporova s međunarodnim elementom pred stalnim izbranim sudištem pri Hrvatskoj gospodarskoj komori (Zagrebačka pravila) | [`pravilnik/1992/607/`](pravilnik/1992/607/) | in force | 1 | 1992-05-07 | 1992-05-07 |
+| Pravilnik o izmjenama i dopunama Pravilnika o podnošenju isprava u carinskom postupku | [`pravilnik/1992/645/`](pravilnik/1992/645/) | amending act | 1 | 1992-05-05 | 1992-05-05 |
+| Pravilnik o visini naknade za obvezne veterinarsko-sanitarni preglede i kontrole | [`pravilnik/1992/720/`](pravilnik/1992/720/) | repealed, not consolidated | 1 | 1992-05-27 | 1992-05-27 |
+| Pravilnik o izdavanju licence za obavljanje međunarodnog cestovnog prijevoza | [`pravilnik/1992/742/`](pravilnik/1992/742/) | repealed, not consolidated | 1 | 1992-06-02 | 1992-06-02 |
+| Pravilnik o uvjetima koje moraju ispunjavati direktor i zaposleni u turističkim uredima turističkih zajednica mjesta i turištičkih zajednica općina | [`pravilnik/1992/760/`](pravilnik/1992/760/) | cited later, not consolidated | 1 | 1992-06-01 | 1992-06-01 |
 | Pravilnik o izdavanju, distribuciji, povlaćenju iz upotrebe i zamjeni administrativnih biljega Republike Hrvatske" | [`pravilnik/1992/785/`](pravilnik/1992/785/) | in force | 1 | 1992-06-11 | 1992-06-11 |
+| Pravilnik o načinu nadzora državne granice | [`pravilnik/1992/786/`](pravilnik/1992/786/) | amended, not consolidated | 1 | 1992-06-11 | 1992-06-11 |
+| Pravilnik o izdavanju putnog lista, viza i posebnih osobnih karata strancima | [`pravilnik/1992/787/`](pravilnik/1992/787/) | amended, not consolidated | 1 | 1992-06-03 | 1992-06-03 |
+| Pravilnik o dopuni Pravilnika o naknadi za ceste što se plaća na strana vozila | [`pravilnik/1992/842/`](pravilnik/1992/842/) | amending act | 1 | 1992-06-20 | 1992-06-20 |
+| Pravilnik o najmanjem broju članova posade za sigurnu plovidbu koji moraju imati pomorski brodovi trgovačke mornarice Republike Hrvatske | [`pravilnik/1992/917/`](pravilnik/1992/917/) | amended, not consolidated | 1 | 1992-06-25 | 1992-06-25 |
+| Pravilnik o opsegu, uvjetima i načinu obavljanja poslova posredovanja pri zapošljavanju kada te poslove obavlja pravni subjekt izvan Zavoda za zapošljavanje | [`pravilnik/1992/918/`](pravilnik/1992/918/) | repealed, not consolidated | 1 | 1992-06-25 | 1992-06-25 |
+| Pravilnik o minimalnim uvjetima za projektiranje i izgradnju priključaka i prilaza na javnu cestu | [`pravilnik/1992/922/`](pravilnik/1992/922/) | amended, not consolidated | 1 | 1992-06-25 | 1992-06-25 |
 | Pravilnik o izmjeni i dopuni Pravilnika o registraciji motornih i priključnih vozila, obrascu prometne i vozačke dozvole | [`pravilnik/1992/926/`](pravilnik/1992/926/) | amending act | 1 | 1992-06-19 | 1992-06-19 |
+| Pravilnik o dopunama Pravilnika o ostvarivanju socijalne zaštite | [`pravilnik/1992/958/`](pravilnik/1992/958/) | amending act | 1 | 1992-07-02 | 1992-07-02 |
 | Pravilnik o stručnom osposobljavanju djelatnika u carinskoj službi Republike Hrvatske | [`pravilnik/1992/1040/`](pravilnik/1992/1040/) | in force | 1 | 1992-06-27 | 1992-06-27 |
+| Pravilnik o iskaznici i znaku graničnog inspektora za zaštitu bilja | [`pravilnik/1992/1094/`](pravilnik/1992/1094/) | repealed, not consolidated | 1 | 1992-07-15 | 1992-07-15 |
+| Pravilnik o uvjetima kojima moraju udovoljavati veterinarske stanice i druge pravne i fizičke osobe za obavljanje poslova dezinfekcije, dezinsekcije i deratizacije | [`pravilnik/1992/1151/`](pravilnik/1992/1151/) | repealed, not consolidated | 1 | 1992-07-28 | 1992-07-28 |
+| Pravilnik o iskaznici osoba ovlaštenih za nadzor predmeta od plemenitih kovina | [`pravilnik/1992/1173/`](pravilnik/1992/1173/) | repealed, not consolidated | 1 | 1992-07-28 | 1992-07-28 |
+| Pravilnik o iskaznici osoba ovlaštenih za nadzor nad provedbom Zakona o mjernim jedinicama i mjerilima | [`pravilnik/1992/1174/`](pravilnik/1992/1174/) | repealed, not consolidated | 1 | 1992-07-28 | 1992-07-28 |
 | Pravilnik o radu Odbora "Nagrade Vladimir Nazor" | [`pravilnik/1992/1195/`](pravilnik/1992/1195/) | in force | 1 | 1992-07-24 | 1992-07-24 |
 | Pravilnik o izmjenama Pravilnika o izdavanju, distribuciji, povlačenju iz upotrebe i zamjeni administrativnih biljega Republike Hrvatske | [`pravilnik/1992/1197/`](pravilnik/1992/1197/) | in force | 1 | 1992-07-24 | 1992-07-24 |
+| Pravilnik o izmjeni Pravilnika o izdavanju licence za obavljanje međunarodnog cestovnog prijevoza | [`pravilnik/1992/1198/`](pravilnik/1992/1198/) | in force | 1 | 1992-08-01 | 1992-08-01 |
+| Pravilnik o kriterijima za određivanje i zaštitu objekata posebno značajnih za obranu zemlje | [`pravilnik/1992/1249/`](pravilnik/1992/1249/) | repealed, not consolidated | 1 | 1992-08-09 | 1992-08-09 |
 | Pravilnik o kalendaru rada osnovnih škola za 1992/93. školsku godinu | [`pravilnik/1992/1290/`](pravilnik/1992/1290/) | in force | 1 | 1992-08-12 | 1992-08-12 |
+| Pravilnik o izdavanju, distribuciji, povlačenju iz upotrebe i zamjeni jedinstvenog mjeničnog blanketa Republike Hrvatske | [`pravilnik/1992/1322/`](pravilnik/1992/1322/) | in force | 1 | 1992-08-19 | 1992-08-19 |
 | Pravilnik o početku i završetku nastave i trajanju odmora učenika srednjih akola u 1992/93. školskoj godini | [`pravilnik/1992/1323/`](pravilnik/1992/1323/) | in force | 1 | 1992-08-19 | 1992-08-19 |
+| Pravilnik o načinu i postupku utvrđivanja uvjeta za početak rada srednje škole | [`pravilnik/1992/1324/`](pravilnik/1992/1324/) | amended, not consolidated | 1 | 1992-08-19 | 1992-08-19 |
+| Pravilnik o utvrđivanju kala, loma, kvara i rasipa na proizvodima u trgovini robe na malo i ugostiteljstvu | [`pravilnik/1992/1380/`](pravilnik/1992/1380/) | repealed, not consolidated | 1 | 1992-08-25 | 1992-08-25 |
+| Pravilnik o izmjenama Pravilnika o polaganju ispita za vozače vozila na motorni pogon | [`pravilnik/1992/1575/`](pravilnik/1992/1575/) | in force | 1 | 1992-10-03 | 1992-10-03 |
+| Pravilnik za utvrđivanje postotka oštećenja organizma vojnih i civilnih invalida rata | [`pravilnik/1992/1666/`](pravilnik/1992/1666/) | repealed, not consolidated | 1 | 1992-10-03 | 1992-10-03 |
 | Pravilnik o medicinskirn indikacijama za razvrstavanje vojnih i civilnih invalida rata od I. do IV. grupe prema stupnju potrebe za njegom i pomoći druge osobe | [`pravilnik/1992/1667/`](pravilnik/1992/1667/) | in force | 1 | 1992-10-03 | 1992-10-03 |
+| Pravilnik o oštećenjima organizma na osnovi kojih vojni i civilni invalidi rata imaju pravo na ortopedski dodatak i o razvrstavanju tih oštećenja u stupnjeve | [`pravilnik/1992/1668/`](pravilnik/1992/1668/) | repealed, not consolidated | 1 | 1992-10-03 | 1992-10-03 |
+| Pravilnik o radu liječničkih komisija u postupku za ostvarivanje prava po Zakonu o zaštiti vojnih i civilnih invalida rata | [`pravilnik/1992/1669/`](pravilnik/1992/1669/) | repealed, not consolidated | 1 | 1992-10-03 | 1992-10-03 |
+| Pravilnik o postupku za ostvarivanje prava na oslobađanje od plaćanja carine | [`pravilnik/1992/1672/`](pravilnik/1992/1672/) | repealed, not consolidated | 1 | 1992-10-15 | 1992-10-15 |
+| Pravilnik o slobodnim carinskim prodavaonicama | [`pravilnik/1992/1675/`](pravilnik/1992/1675/) | repealed, not consolidated | 1 | 1992-10-15 | 1992-10-15 |
 | Pravilnik o opskrbi prijevoznih sredstava u međunarodnom prometu | [`pravilnik/1992/1676/`](pravilnik/1992/1676/) | in force | 1 | 1992-10-15 | 1992-10-15 |
 | Pravilnik o postupku ostvarivanja prava na oslobadanje od plaćanja carine na temelju ratnih razaranja | [`pravilnik/1992/1678/`](pravilnik/1992/1678/) | in force | 1 | 1992-10-15 | 1992-10-15 |
 | Pravilnik o uvjetima i načinu utvrđivanja carinske osnovice | [`pravilnik/1992/1679/`](pravilnik/1992/1679/) | in force | 1 | 1992-10-15 | 1992-10-15 |
 | Pravilnik o određivanju marina i nautićkih centara u kojima se mogu otvarati slobodne carinske prodavaonice | [`pravilnik/1992/1680/`](pravilnik/1992/1680/) | in force | 1 | 1992-10-15 | 1992-10-15 |
+| Pravilnik o vrsti i količini predmeta domaćinstva koji se mogu uvoziti temeljem carinske povlastice iz članka 27. stavak 1. točka 3. i 4. Carinskog zakona | [`pravilnik/1992/1681/`](pravilnik/1992/1681/) | in force | 1 | 1992-10-15 | 1992-10-15 |
 | Pravilnik o dopuni Pravilnika o načinu uvoza sirovina i reprodukcijskih materijala radi proizvodnje za izvoz | [`pravilnik/1992/1682/`](pravilnik/1992/1682/) | amending act | 1 | 1992-10-07 | 1992-10-07 |
+| Pravilnik o postupku carinjenja robe na temelju članka 4. Zakona o carinskoj tarifi | [`pravilnik/1992/1684/`](pravilnik/1992/1684/) | cited later, not consolidated | 1 | 1992-10-15 | 1992-10-15 |
 | Pravilnik o carinskom postupku u putničkom prometu | [`pravilnik/1992/1686/`](pravilnik/1992/1686/) | in force | 1 | 1992-10-15 | 1992-10-15 |
 | Pravilnik o carinskom nadzoru i postupku u međunarodnom zračnom prometu | [`pravilnik/1992/1687/`](pravilnik/1992/1687/) | in force | 1 | 1992-10-15 | 1992-10-15 |
 | Pravilnik o postupku izdavanja i uporabe uvjerenja i mišljenja o svrstavanju robe po Carinskoj tarifi | [`pravilnik/1992/1690/`](pravilnik/1992/1690/) | in force | 1 | 1992-10-15 | 1992-10-15 |
+| Pravilnik o uzimanju uzoraka i carinskim obilježjima | [`pravilnik/1992/1691/`](pravilnik/1992/1691/) | amended, not consolidated | 1 | 1992-10-15 | 1992-10-15 |
+| Pravilnik o izmjenama i dopunama Pravilnika o pravima, uvjetima i postupku za ostvarivanje prava iz zdravstvenog osiguranja | [`pravilnik/1992/1715/`](pravilnik/1992/1715/) | amending act | 1 | 1992-10-17 | 1992-10-17 |
+| Pravilnik o uvjetima koje mora ispunjavati direktor i osoblje zaposleno u Glavnoj direkciji Hrvatske turističke zajednice | [`pravilnik/1992/1816/`](pravilnik/1992/1816/) | cited later, not consolidated | 1 | 1992-10-14 | 1992-10-14 |
+| Pravilnik o dopuni Pravilnika o ustrojstvu i načinu rada Republičkog fonda socijalne zaštite | [`pravilnik/1992/1878/`](pravilnik/1992/1878/) | amending act | 1 | 1992-10-26 | 1992-10-26 |
 | Pravilnik o tehničkim uvjetima za projektiranje i izgradnju objekata Ministarstva unutarnjih poslova Republike Hrvatske | [`pravilnik/1992/1942/`](pravilnik/1992/1942/) | in force | 1 | 1992-11-03 | 1992-11-03 |
+| Pravilnik o Republičkoj nagradi športa "Franjo Bućar" | [`pravilnik/1992/1992/`](pravilnik/1992/1992/) | cited later, not consolidated | 1 | 1992-11-13 | 1992-11-13 |
+| Pravilnik o izmjenama Pravilnika o čamcima | [`pravilnik/1992/2013/`](pravilnik/1992/2013/) | in force | 1 | 1992-11-17 | 1992-11-17 |
+| Pravilnik o zdravstvenim pregledima za utvrđivanje zdravstvene sposobnosti za držanje ili držanje i nošenje oružja | [`pravilnik/1992/2086/`](pravilnik/1992/2086/) | repealed, not consolidated | 1 | 1992-12-04 | 1992-12-04 |
+| Pravilnik o visini naknade ža obvezne veterinarsko-sanitarne preglede i kontrole | [`pravilnik/1992/2115/`](pravilnik/1992/2115/) | cited later, not consolidated | 1 | 1992-12-08 | 1992-12-08 |
 | Pravilnik o izmjeni i dopuni Pravilnikaka o izdavanju licence za obavljanje međunadnog cestovnog prijevoza | [`pravilnik/1992/2159/`](pravilnik/1992/2159/) | amending act | 1 | 1992-12-09 | 1992-12-09 |
 | Pravilnik o izmjenama i dopunama Pravilnika o pravima, uvjetima i postupku za ostvarivanje prava iz zdravstvog, osiguranja | [`pravilnik/1992/2164/`](pravilnik/1992/2164/) | amending act | 1 | 1992-12-09 | 1992-12-09 |
+| Pravilnik o srednjoškolskom obrazovanju učenika s teškoćama i većim teškoćama u razvoju | [`pravilnik/1992/2226/`](pravilnik/1992/2226/) | repealed, not consolidated | 1 | 1992-12-20 | 1992-12-20 |
 | Pravilnik o postupku, načinu i uvjetima ocjenjivanja i napredovanja nastavnika srednjih škola | [`pravilnik/1992/2227/`](pravilnik/1992/2227/) | in force | 1 | 1992-12-20 | 1992-12-20 |
 | Pravilnik o izmjenama Pravilnika o poslovnim knjigama poreznih obveznika | [`pravilnik/1992/2285/`](pravilnik/1992/2285/) | in force | 1 | 1992-12-21 | 1992-12-21 |
 | Pravilnik o izmjeni Pravilnika o obliku i sadržaju porezne prijave | [`pravilnik/1992/2286/`](pravilnik/1992/2286/) | in force | 1 | 1992-12-21 | 1992-12-21 |
@@ -26999,18 +27115,98 @@
 | Pravilnik o izmjenama i dopunama Pravilnika o troškovima koji se mogu plaćati iz imovine obveznog mirovinskog fonda te načinu i sadržaju izračuna pokazatelja ukupnih troškova obveznog mirovinskog fonda | [`pravilnik/2026/1480/`](pravilnik/2026/1480/) | amending act | 1 | 2026-11-05 | 2026-11-05 |
 | Pravilnik o Upisniku regionalnih koordinatora i lokalnih razvojnih agencija | [`pravilnik/2026/1490/`](pravilnik/2026/1490/) | in force | 1 | 2026-11-10 | 2026-11-10 |
 | Pravilnik o provedbi Programa potpore za provedbu jesenske sjetve u 2026. godini | [`pravilnik/2026/1522/`](pravilnik/2026/1522/) | in force | 1 | 2026-11-07 | 2026-11-07 |
+| Pravilnik o izmjenama i dopunama Pravilnika o provedbi Programa državne potpore za kompenzaciju smanjene vrijednosti tovnih svinja isporučenih na klanje iz zone ograničenja III uslijed primjene posebnih mjera za kontrolu afričke svinjske kuge | [`pravilnik/2026/1530/`](pravilnik/2026/1530/) | amending act | 1 | 2026-11-10 | 2026-11-10 |
 
-## statut (176, of which 23 amending acts)
+## sabor (70)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Deklaracija o načelima ponašanja sudionika u izborima | [`sabor/1990/186/`](sabor/1990/186/) | in force | 1 | 1990-03-30 | 1990-03-30 |
+| Rezolucija o populacijskoj politici u Socijalističkoj Republici Hrvatskoj | [`sabor/1990/395/`](sabor/1990/395/) | in force | 1 | 1990-05-04 | 1990-05-04 |
+| Rezolucija o zaštiti ustavnog demokratskog poretka i nacionalnim pravima u Hrvatskoj | [`sabor/1990/678/`](sabor/1990/678/) | in force | 1 | 1990-08-28 | 1990-08-28 |
+| Rezolucija o prihvaćanju postupaka za razdruženje SFRJ i o mogućem udruživanju u savez suverenih republika | [`sabor/1991/186/`](sabor/1991/186/) | in force | 1 | 1991-02-21 | 1991-02-21 |
+| Rezolucija o zaštiti Ustavnog poretka Republike Hrvatske | [`sabor/1991/187/`](sabor/1991/187/) | in force | 1 | 1991-02-21 | 1991-02-21 |
+| Deklaracija o osudi Narodne skupštine Republike Srbije zbog miješanja u unutarnje stvari Republike Hrvatske | [`sabor/1991/588/`](sabor/1991/588/) | in force | 1 | 1991-04-23 | 1991-04-23 |
+| Deklaracija o kršenju prava pripadnika hrvatske manjine u Republici Srbiji i autonomnim pokrajinama Vojvodini i Kosovu (Deklaracija br. 2) | [`sabor/1991/746/`](sabor/1991/746/) | in force | 1 | 1991-06-11 | 1991-06-11 |
+| Deklaracija o proglašenju suverene i samostalne Republike Hrvatske | [`sabor/1991/875/`](sabor/1991/875/) | in force | 1 | 1991-06-25 | 1991-06-25 |
+| Povelja o pravima Srba i drugih nacionalnosti u Republici Hrvatskoj | [`sabor/1991/876/`](sabor/1991/876/) | in force | 1 | 1991-06-25 | 1991-06-25 |
+| Deklaracija o osudi političkog procesa i presude kardinalu dr. Alojziju Stepincu | [`sabor/1992/140/`](sabor/1992/140/) | in force | 1 | 1992-02-21 | 1992-02-21 |
+| Deklaracija o osudi uhićenja i umorstva Andrije Hebranga | [`sabor/1992/141/`](sabor/1992/141/) | in force | 1 | 1992-02-21 | 1992-02-21 |
+| Deklaracija o zaštiti okoliša u Republici Hrvatskoj | [`sabor/1992/865/`](sabor/1992/865/) | in force | 1 | 1992-06-17 | 1992-06-17 |
+| Rezolucija o obnovi Hrvatske kulturne baštine | [`sabor/1992/866/`](sabor/1992/866/) | in force | 1 | 1992-06-17 | 1992-06-17 |
+| Rezolucija | [`sabor/1992/867/`](sabor/1992/867/) | in force | 1 | 1992-06-17 | 1992-06-17 |
+| Povelja zahvalnosti Dr. Franji Tuđmanu Predsjedniku Republike Hrvatske | [`sabor/1992/987/`](sabor/1992/987/) | in force | 1 | 1992-06-26 | 1992-06-26 |
+| Deklaracija o vanjskoj politici Republike Hrvatske | [`sabor/1993/1398/`](sabor/1993/1398/) | in force | 1 | 1993-07-14 | 1993-07-14 |
+| Rezolucija | [`sabor/1994/156/`](sabor/1994/156/) | in force | 1 | 1994-02-10 | 1994-02-10 |
+| Rezolucija o osudi genocida u obliku masovnog terora i nasilja što ga okupatorske srpske vlasti čine onemogućavanjem opskrbe vodom gradova Biograda n/m, Zadra i okolice | [`sabor/1994/858/`](sabor/1994/858/) | in force | 1 | 1994-06-30 | 1994-06-30 |
+| Rezolucija o mandatu Mirovnih snaga Ujedinjenih naroda (UNPROFOR) na području Republike Hrvatske | [`sabor/1994/1015/`](sabor/1994/1015/) | in force | 1 | 1994-07-22 | 1994-07-22 |
+| Rezolucija o zahtjevanju u svezi mandata Mirovnih snaga Ujedinjenih naroda na teritoriji Republike Hrvatske | [`sabor/1994/1203/`](sabor/1994/1203/) | in force | 1 | 1994-09-30 | 1994-09-30 |
+| Deklaracija o osudi jednostranog čina Parlamenta Republike Slovenije | [`sabor/1994/1217/`](sabor/1994/1217/) | in force | 1 | 1994-10-07 | 1994-10-07 |
+| Zaključci Zastupničkog doma Sabora Republike hrvatske | [`sabor/1994/1503/`](sabor/1994/1503/) | in force | 1 | 1994-11-29 | 1994-11-29 |
+| Zaključci Zastupničkog doma Sabora Republike hrvatske | [`sabor/1994/1504/`](sabor/1994/1504/) | in force | 1 | 1994-11-29 | 1994-11-29 |
+| Deklaracija | [`sabor/1995/67/`](sabor/1995/67/) | in force | 1 | 1995-01-30 | 1995-01-30 |
+| Zaključci Zastupničkog doma Sabora Republike Hrvatske | [`sabor/1995/477/`](sabor/1995/477/) | in force | 1 | 1995-04-05 | 1995-04-05 |
+| Deklaracija | [`sabor/1996/331/`](sabor/1996/331/) | in force | 1 | 1996-03-08 | 1996-03-08 |
+| Rezolucija | [`sabor/1996/1398/`](sabor/1996/1398/) | in force | 1 | 1996-10-02 | 1996-10-02 |
+| Rezolucija o suradnji s Međunarodnim kaznenim sudom u Haagu | [`sabor/1999/500/`](sabor/1999/500/) | in force | 1 | 1999-03-12 | 1999-03-12 |
+| Deklaracija o prioritetima vanjske politike Republike Hrvatske | [`sabor/1999/501/`](sabor/1999/501/) | in force | 1 | 1999-03-12 | 1999-03-12 |
+| Deklaracija o stanju međudržavnih odnosa Republike Hrvatske i Republike Slovenije | [`sabor/1999/636/`](sabor/1999/636/) | in force | 1 | 1999-04-02 | 1999-04-02 |
+| Rezolucija o poticanju presađivanja organa u Republici Hrvatskoj | [`sabor/1999/637/`](sabor/1999/637/) | in force | 1 | 1999-04-02 | 1999-04-02 |
+| Deklaracija o suradnji s Međunarodnim kaznenim sudom u Den Haagu | [`sabor/2000/957/`](sabor/2000/957/) | in force | 1 | 2000-04-18 | 2000-04-18 |
+| Deklaracija o Domovinskom ratu | [`sabor/2000/1987/`](sabor/2000/1987/) | in force | 1 | 2000-10-17 | 2000-10-17 |
+| Zaključak Zastupničkog doma Hrvatskoga sabora | [`sabor/2001/263/`](sabor/2001/263/) | in force | 1 | 2001-02-21 | 2001-02-21 |
+| Zaključci Hrvatskoga sabora | [`sabor/2001/526/`](sabor/2001/526/) | in force | 1 | 2001-04-06 | 2001-04-06 |
+| Rezolucija o transferu Zvonka Bušića iz Sjedinjenih Američkih Država u Republiku Hrvatsku | [`sabor/2002/2444/`](sabor/2002/2444/) | in force | 1 | 2002-12-17 | 2002-12-17 |
+| Rezolucija o pristupanju Republike Hrvatske Europskoj uniji | [`sabor/2002/2493/`](sabor/2002/2493/) | in force | 1 | 2002-12-20 | 2002-12-20 |
+| Zaključak o prihvaćanju izvješća Mandatno-imunitetnog povjerenstva Hrvatskoga sabora | [`sabor/2003/3183/`](sabor/2003/3183/) | in force | 1 | 2003-12-22 | 2003-12-22 |
+| Izjava Hrvatskoga sabora i Vlade Republike Hrvatske o zajedničkom djelovanju u procesu pregovora za članstvo u Europskoj uniji | [`sabor/2005/189/`](sabor/2005/189/) | in force | 1 | 2005-01-24 | 2005-01-24 |
+| Deklaracija o temeljnim načelima pregovora za punopravno članstvo Republike Hrvatske u Europskoj uniji | [`sabor/2005/190/`](sabor/2005/190/) | in force | 1 | 2005-01-24 | 2005-01-24 |
+| Deklaracija o pravima osoba s invaliditetom | [`sabor/2005/911/`](sabor/2005/911/) | in force | 1 | 2005-04-11 | 2005-04-11 |
+| Povelja zahvalnosti Svetom Ocu Ivanu Pavlu II. | [`sabor/2005/932/`](sabor/2005/932/) | in force | 1 | 2005-04-13 | 2005-04-13 |
+| Deklaracija o antifašizmu | [`sabor/2005/971/`](sabor/2005/971/) | in force | 1 | 2005-04-20 | 2005-04-20 |
+| Deklaracija o potpori hrvatsko-mađarskoj kandidaturi za organizaciju Europskoga nogometnog prvenstva UEFA EURO 2012. godine | [`sabor/2005/1641/`](sabor/2005/1641/) | in force | 1 | 2005-07-13 | 2005-07-13 |
+| Deklaracija | [`sabor/2005/2169/`](sabor/2005/2169/) | in force | 1 | 2005-10-10 | 2005-10-10 |
+| Rezolucija o strategijskim odrednicama pregovora Republike Hrvatske s Europskom unijom | [`sabor/2005/2269/`](sabor/2005/2269/) | in force | 1 | 2005-10-19 | 2005-10-19 |
+| Deklaracija o osudi zločina počinjenih tijekom totalitarnoga komunističkog poretka u Hrvatskoj1945. - 1990. godine | [`sabor/2006/1786/`](sabor/2006/1786/) | in force | 1 | 2006-07-10 | 2006-07-10 |
+| Deklaracija o Oluji | [`sabor/2006/1787/`](sabor/2006/1787/) | in force | 1 | 2006-07-10 | 2006-07-10 |
+| Deklaracija o presudi Međunarodnoga kaznenog suda za ratni zločin na Ovčari i suradnji Republike Hrvatske s Međunarodnim kaznenim sudom za bivšu Jugoslaviju | [`sabor/2007/3161/`](sabor/2007/3161/) | in force | 1 | 2007-10-22 | 2007-10-22 |
+| Zaključak o prihvaćanju Izvješća Mandatno-imunitetnog povjerenstva Hrvatskoga sabora | [`sabor/2008/101/`](sabor/2008/101/) | in force | 1 | 2008-01-11 | 2008-01-11 |
+| Rezolucija o borbi protiv virusnih hepatitisa | [`sabor/2009/1435/`](sabor/2009/1435/) | in force | 1 | 2009-06-03 | 2009-06-03 |
+| Povelja zastupnicima prvog saziva Sabora, članovima Vlade i Predsjedništva Republike Hrvatske u periodu 1990. - 1992. godine | [`sabor/2010/2017/`](sabor/2010/2017/) | in force | 1 | 2010-05-26 | 2010-05-26 |
+| Rezolucija o šećernoj bolesti | [`sabor/2011/1512/`](sabor/2011/1512/) | in force | 1 | 2011-06-21 | 2011-06-21 |
+| Deklaracija o promicanju europskih vrijednosti u jugoistočnoj Europi | [`sabor/2011/2379/`](sabor/2011/2379/) | in force | 1 | 2011-10-28 | 2011-10-28 |
+| Deklaracija o nekim pitanjima suradnje pravosudnih tijela Republike Hrvatske i Republike Srbije | [`sabor/2011/2469/`](sabor/2011/2469/) | in force | 1 | 2011-11-04 | 2011-11-04 |
+| Deklaracija o potpori hrvatskom narodu u Bosni i Hercegovini i Bosni i Hercegovini u procesu ustavnih promjena | [`sabor/2011/2525/`](sabor/2011/2525/) | in force | 1 | 2011-11-09 | 2011-11-09 |
+| Zaključak o prihvaćanju Izvješća Mandatno-imunitetnog povjerenstva Hrvatskoga sabora | [`sabor/2011/3074/`](sabor/2011/3074/) | in force | 1 | 2011-12-22 | 2011-12-22 |
+| Deklaracija o članstvu Republike Hrvatske u Europskoj uniji kao strateškom interesu Republike Hrvatske | [`sabor/2012/282/`](sabor/2012/282/) | in force | 1 | 2012-01-25 | 2012-01-25 |
+| Deklaracija u svezi s odlukom Međunarodnog kaznenog suda za bivšu Jugoslaviju o privremenom puštanju optuženika Vojislava Šešelja na slobodu | [`sabor/2014/2643/`](sabor/2014/2643/) | in force | 1 | 2014-11-28 | 2014-11-28 |
+| Zaključak o prihvaćanju Izvješća Mandatno-imunitetnog povjerenstva Hrvatskoga sabora | [`sabor/2015/2631/`](sabor/2015/2631/) | in force | 1 | 2015-12-31 | 2015-12-31 |
+| Zaključak o prihvaćanju Izvješća Mandatno-imunitetnog povjerenstva Hrvatskoga sabora | [`sabor/2016/1986/`](sabor/2016/1986/) | in force | 1 | 2016-10-15 | 2016-10-15 |
+| Deklaracija Hrvatskoga sabora o položaju hrvatskog naroda u Bosni i Hercegovini | [`sabor/2018/2331/`](sabor/2018/2331/) | in force | 1 | 2018-12-27 | 2018-12-27 |
+| Zaključak o prihvaćanju Izvješća Mandatno-imunitetnog povjerenstva Hrvatskoga sabora | [`sabor/2020/1591/`](sabor/2020/1591/) | in force | 1 | 2020-07-22 | 2020-07-22 |
+| Deklaracija o Ukrajini | [`sabor/2022/311/`](sabor/2022/311/) | in force | 1 | 2022-03-02 | 2022-03-02 |
+| Deklaracija o Alpe-Adria-Dunav području slobodnom od GMO-a | [`sabor/2022/491/`](sabor/2022/491/) | in force | 1 | 2022-03-31 | 2022-03-31 |
+| Rezolucija o debljini | [`sabor/2023/787/`](sabor/2023/787/) | in force | 1 | 2023-04-28 | 2023-04-28 |
+| Deklaracija o priznavanju Gladomora (Holodomora) 1932. - 1933. godine genocidom nad ukrajinskim narodom | [`sabor/2023/1153/`](sabor/2023/1153/) | in force | 1 | 2023-06-29 | 2023-06-29 |
+| Zaključak o prihvaćanju Izvješća Mandatno-imunitetnog povjerenstva Hrvatskoga sabora | [`sabor/2024/985/`](sabor/2024/985/) | in force | 1 | 2024-05-16 | 2024-05-16 |
+| Deklaracija o pravima umirovljenika i osoba starije životne dobi | [`sabor/2024/2431/`](sabor/2024/2431/) | in force | 1 | 2024-12-18 | 2024-12-18 |
+| Rezolucija o osnaživanju političkoga položaja Hrvata u Bosni i Hercegovini | [`sabor/2026/940/`](sabor/2026/940/) | in force | 1 | 2026-07-22 | 2026-07-22 |
+
+## statut (180, of which 23 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
 | Statut Republičkog fonda zdravstvenog osiguranja i zdravstva Hrvatske | [`statut/1990/910/`](statut/1990/910/) | in force | 1 | 1990-11-16 | 1990-11-16 |
+| Statut poduzeća HPT - Hrvatska pošta i telekomunikacije | [`statut/1990/1118/`](statut/1990/1118/) | amended, not consolidated | 1 | 1990-12-28 | 1990-12-28 |
 | Statut Poduzeća "Hrvatske ceste" - poduzeće za održavanje, zaštitu, rekonstrukciju i izgradnju cesta u Hrvatskoj | [`statut/1990/1120/`](statut/1990/1120/) | in force | 1 | 1990-12-28 | 1990-12-28 |
+| Statut Republičkog fonda mirovinskog i invalidskog osiguranja individualnih poljoprivrednika Hrvatske | [`statut/1990/1156/`](statut/1990/1156/) | amended, not consolidated | 1 | 1991-01-06 | 1991-01-06 |
+| Statut Republičkog fonda mirovinskog i invalidskog osiguranja samostalnih privrednika Hrvatske | [`statut/1990/1158/`](statut/1990/1158/) | amended, not consolidated | 1 | 1991-01-06 | 1991-01-06 |
 | Statut Zadružnog saveza Hrvatske | [`statut/1991/20/`](statut/1991/20/) | in force | 1 | 1991-01-25 | 1991-01-25 |
 | Statut Agencije Republike Hrvatske za restrukturiranje i razvoj | [`statut/1991/862/`](statut/1991/862/) | in force | 1 | 1991-06-21 | 1991-06-21 |
 | Statut Hrvatskoga fonda za razvoj | [`statut/1991/968/`](statut/1991/968/) | in force | 1 | 1991-07-16 | 1991-07-16 |
 | Statut Saveza udruženja hrvatskih obrtnika | [`statut/1992/336/`](statut/1992/336/) | in force | 1 | 1992-04-02 | 1992-04-02 |
 | Statut Hrvatske kreditne banke za obnovu | [`statut/1992/1225/`](statut/1992/1225/) | in force | 1 | 1992-07-31 | 1992-07-31 |
+| Statut Hrvatske turističke zajednice | [`statut/1992/1228/`](statut/1992/1228/) | amended, not consolidated | 1 | 1992-07-31 | 1992-07-31 |
 | Statut Hrvatske obrtničke komore | [`statut/1994/1033/`](statut/1994/1033/) | amended, not consolidated | 1 | 1994-07-30 | 1994-07-30 |
 | Statut Nacionalnog odbora za preventivnu zaštitu i gašenje požara | [`statut/1994/1160/`](statut/1994/1160/) | in force | 1 | 1994-09-16 | 1994-09-16 |
 | Statut Hrvatske Odvjetničke Komore | [`statut/1995/542/`](statut/1995/542/) | amended, not consolidated | 1 | 1995-04-22 | 1995-04-22 |
@@ -27181,17 +27377,25 @@
 | Statut političke stranke Dina Dogan - Nezavisna lista | [`statut/2026/887/`](statut/2026/887/) | amended, not consolidated | 1 | 2024-11-30 | 2024-11-30 |
 | Izmjene i dopuna Statuta Hrvatske komore socijalnih pedagoga | [`statut/2026/1299/`](statut/2026/1299/) | amending act | 1 | 2026-10-03 | 2026-10-03 |
 
-## uputa (50, of which 3 amending acts)
+## uputa (58, of which 3 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
+| Uputa o načinu propisivanja, izdavanja i naplaćivanja lijekova osiguranicima Republičkog fonda zdravstvenog osiguranja i zdravstva Hrvatske | [`uputa/1991/136/`](uputa/1991/136/) | amended, not consolidated | 1 | 1991-02-19 | 1991-02-19 |
+| Uputa o radnoj knjižici | [`uputa/1991/233/`](uputa/1991/233/) | cited later, not consolidated | 1 | 1991-03-08 | 1991-03-08 |
+| Uputa o obračunu i udruživanju dijela sredstava rezervi u fondove zajedničkih rezervi po godišnjem obračunu | [`uputa/1991/376/`](uputa/1991/376/) | amended, not consolidated | 1 | 1991-03-22 | 1991-03-22 |
 | Uputa za primjenu Odluke o utvrđivanju blagajničkog maksimuma gotovog novca kod banaka i drugih finanajskih organizacija i drugih pravnih osoba | [`uputa/1991/1178/`](uputa/1991/1178/) | in force | 1 | 1991-09-05 | 1991-09-05 |
+| Uputa o sadržaju i načinu vođenja Jedinstvenog plana računa u Službi društvenog knjigovodstva Hrvatske | [`uputa/1992/665/`](uputa/1992/665/) | amended, not consolidated | 1 | 1992-05-16 | 1992-05-16 |
+| Uputa o registraciji i objavljivanju registriranih kolektivnih ugovora | [`uputa/1992/721/`](uputa/1992/721/) | repealed, not consolidated | 1 | 1992-05-27 | 1992-05-27 |
+| Uputa za isplatu plaća | [`uputa/1992/1076/`](uputa/1992/1076/) | amended, not consolidated | 1 | 1992-07-01 | 1992-07-01 |
 | Uputa o izmjeni i dopuni Upute o sadržaju i načinu vođenja Jedinstvenog plana računa u Službi društvenog knjigovodstva Hrvatske | [`uputa/1992/1227/`](uputa/1992/1227/) | amending act | 1 | 1992-08-08 | 1992-08-08 |
 | Uputa o obrascima za prijavu namjere za gradnju | [`uputa/1992/1291/`](uputa/1992/1291/) | in force | 1 | 1992-08-04 | 1992-08-04 |
 | Uputa o uvjetima i slučajevima kada se neće naplaćivati osiguranje niti polagati garancija za plaćanje carine pri privremenom uvozu robe | [`uputa/1992/1673/`](uputa/1992/1673/) | in force | 1 | 1992-10-15 | 1992-10-15 |
 | Uputa o načinu utvrdivanja porijekla robe kada naplata carine ovisi o njenom porijeklu | [`uputa/1992/1674/`](uputa/1992/1674/) | in force | 1 | 1992-10-15 | 1992-10-15 |
+| Uputa o korištenju garancije kao jamstva za namirenje dospjelih carinskih obveza | [`uputa/1992/1677/`](uputa/1992/1677/) | amended, not consolidated | 1 | 1992-10-15 | 1992-10-15 |
 | Uputa o carinskom postupku s poštanskim pošiljkama u međunarodnom poštanskom prometu | [`uputa/1992/1683/`](uputa/1992/1683/) | in force | 1 | 1992-10-15 | 1992-10-15 |
 | Uputa o načinu vođenja evidencije o carinskoj robi | [`uputa/1992/1685/`](uputa/1992/1685/) | in force | 1 | 1992-10-15 | 1992-10-15 |
+| Uputa o načinu i postupku izrade izvješća o stanju potraživanja iz inozemstva i stanju dugovanja po određenim osnovarna | [`uputa/1992/1989/`](uputa/1992/1989/) | amended, not consolidated | 1 | 1992-11-04 | 1992-11-04 |
 | Uputa za provodenje Sporazuma o isplatama plaća za listopad i studeni 1992. godine | [`uputa/1992/2016/`](uputa/1992/2016/) | in force | 1 | 1992-11-09 | 1992-11-09 |
 | Uputa za provođenje Aneksa Sporazumu od 9. studenoga 1992. o isplatama plaća za prosinac1992. godine | [`uputa/1992/2241/`](uputa/1992/2241/) | in force | 1 | 1992-12-18 | 1992-12-18 |
 | Uputa za primjenu Uredbe o posebnim mjerama za ostvarivanje carinskog nadzora u svezi s prikupljanjem, preuzimanjem i čuvanjem motornih vozila i drugih vozila te plovnih objekata i njihovih dijelova, | [`uputa/1992/2289/`](uputa/1992/2289/) | in force | 1 | 1992-12-21 | 1992-12-21 |
@@ -27236,47 +27440,115 @@
 | Uputa o provedbi Odluke o obveznoj pričuvi | [`uputa/2014/2424/`](uputa/2014/2424/) | repealed, not consolidated | 1 | 2014-11-12 | 2014-11-12 |
 | Uputa za provedbu Odluke o obveznoj pričuvi | [`uputa/2015/2618/`](uputa/2015/2618/) | repealed, not consolidated | 1 | 2016-01-13 | 2016-01-13 |
 
-## uredba (3736, of which 761 amending acts)
+## uredba (3837, of which 772 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
 | Uredba o načinu zaštite interesa Republike Hrvatske u postupku pretvorbe društvenog vlasništva u druge oblike vlasništva | [`uredba/1990/811/`](uredba/1990/811/) | in force | 1 | 1990-10-24 | 1990-10-24 |
 | Uredba o načelima za unutarnje ustrojstvo i načćin rada ministarstava i zavoda | [`uredba/1990/812/`](uredba/1990/812/) | in force | 1 | 1990-10-24 | 1990-10-24 |
 | Uredba o izmjeni i dopuni Uredbe o Stručnoj službi Vlade Republike Hrvatske | [`uredba/1990/903/`](uredba/1990/903/) | amending act | 1 | 1990-11-16 | 1990-11-16 |
+| Uredba o Sekretarijatu za zakonodavstvo | [`uredba/1990/971/`](uredba/1990/971/) | amended, not consolidated | 1 | 1990-12-12 | 1990-12-12 |
+| Uredba o Uredu za nacionalne manjine | [`uredba/1990/972/`](uredba/1990/972/) | replaced, not consolidated | 1 | 1990-12-20 | 1990-12-20 |
 | Uredba o Uredu za odnose s republikama i pokrajinama | [`uredba/1990/974/`](uredba/1990/974/) | in force | 1 | 1990-12-20 | 1990-12-20 |
+| Uredba o Uredu za opće poslove Vlade Republike Hrvatske | [`uredba/1990/975/`](uredba/1990/975/) | amended, not consolidated | 1 | 1990-12-13 | 1990-12-13 |
+| Uredba o Uredu za koordiniranje aktivnosti na razrješavanju vlasničko-pravnih odnosa na nekretninama koje su prenesene u društveno vlasništvo | [`uredba/1990/1071/`](uredba/1990/1071/) | amended, not consolidated | 1 | 1990-12-29 | 1990-12-29 |
 | Uredba o Uredu za prilagođavanje europskim integracijama | [`uredba/1990/1072/`](uredba/1990/1072/) | in force | 1 | 1990-12-29 | 1990-12-29 |
+| Uredba o obveznom prebijanju obveza i potraživanja pravnih osoba u Republici Hrvatskoj | [`uredba/1990/1095/`](uredba/1990/1095/) | replaced, not consolidated | 1 | 1990-12-27 | 1990-12-27 |
 | Uredba o Leksikografskom zavodu "Miroslav Krleža" | [`uredba/1991/153/`](uredba/1991/153/) | in force | 1 | 1991-02-13 | 1991-02-13 |
 | Uredba o izmjeni Uredbe o Uredu za koordiniranje aktivnosti na razrješavanju vlasničko-pravnih odnosa na nekretninama koje su prenesene u društveno vlasništvo | [`uredba/1991/168/`](uredba/1991/168/) | in force | 1 | 1991-02-13 | 1991-02-13 |
+| Uredba Vlade Republike Hrvatske | [`uredba/1991/190/`](uredba/1991/190/) | in force | 1 | 1991-02-01 | 1991-02-01 |
 | Uredba o izmjenama i dopunama Uredbe o Uredu za opće poslove Vlade Republike Hrvatske | [`uredba/1991/191/`](uredba/1991/191/) | amending act | 1 | 1991-02-21 | 1991-02-21 |
 | Uredba o Gospodarskom savjetu Vlade Republike Hrvatske | [`uredba/1991/329/`](uredba/1991/329/) | in force | 1 | 1991-03-12 | 1991-03-12 |
+| Uredba o obveznim prebijanjima obveza i potraživanja pravnih osoba u Republici Hrvatskoj | [`uredba/1991/336/`](uredba/1991/336/) | amended, not consolidated | 1 | 1991-03-16 | 1991-03-16 |
 | Uredba o dopuni Uredbe o obveznim prebijanjima obveza i potraživanja pravnih osoba u Republid Hrvatskoj | [`uredba/1991/652/`](uredba/1991/652/) | amending act | 1 | 1991-05-02 | 1991-05-02 |
 | Uredba o evidenciji prijašnjih vlasnika i oduzete imovine | [`uredba/1991/686/`](uredba/1991/686/) | in force | 1 | 1991-05-28 | 1991-05-28 |
+| Uredba o načinu utvrđivanja cijene stana | [`uredba/1991/836/`](uredba/1991/836/) | repealed, not consolidated | 1 | 1991-06-25 | 1991-06-25 |
 | Uredba za provodenje Zakona o izdavanju obveznica za restrukturiranje gospodarstva u Republici Hrvatskoj | [`uredba/1991/850/`](uredba/1991/850/) | in force | 1 | 1991-06-21 | 1991-06-21 |
+| Uredba o sjedištu i području na kojem se osnivaju policijske uprave | [`uredba/1991/851/`](uredba/1991/851/) | repealed, not consolidated | 1 | 1991-06-21 | 1991-06-21 |
 | Uredba o otvaranju računa sredstava "Hrvatski radiša - projekt samozapošljavanja", te raspolaganju i korištenju tih sredstava | [`uredba/1991/996/`](uredba/1991/996/) | in force | 1 | 1991-07-24 | 1991-07-24 |
+| Uredba o zabrani raspolaganja nekretninama na teritoriju Republike Hrvatske | [`uredba/1991/997/`](uredba/1991/997/) | cited later, not consolidated | 1 | 1991-07-24 | 1991-07-24 |
+| Uredba o izmjenama i dopunama Uredbe o Uredu za nacionalne manjine | [`uredba/1991/998/`](uredba/1991/998/) | amending act | 1 | 1991-08-01 | 1991-08-01 |
+| Uredba o zabrani raspolaganja osnovnim sredstvima, pokretnom imovinom i pravima određenih poduzeća i drugih pravnih osoba na teritoriju Republike Hrvatske | [`uredba/1991/1094/`](uredba/1991/1094/) | amended, not consolidated | 1 | 1991-08-03 | 1991-08-03 |
+| Uredba o uređivanju određenih pitanja u obavljanju zaštite spomenika kulture, knjižničarske i muzejske djelatnosti | [`uredba/1991/1095/`](uredba/1991/1095/) | replaced, not consolidated | 1 | 1991-08-03 | 1991-08-03 |
+| Uredba o izdavanju obveznica Republike Hrvatske | [`uredba/1991/1122/`](uredba/1991/1122/) | amended, not consolidated | 1 | 1991-08-24 | 1991-08-24 |
+| Uredba o uvjetima i načinu utvrđivanja evidencijske devizne pozicije za određene zajedničke potrebe | [`uredba/1991/1123/`](uredba/1991/1123/) | repealed, not consolidated | 1 | 1991-08-16 | 1991-08-16 |
 | Uredba o Hrvatskoj gospodarskoj komori | [`uredba/1991/1134/`](uredba/1991/1134/) | in force | 1 | 1991-08-30 | 1991-08-30 |
+| Uredba o preuzimanju u posjed i korištenje odmarališta hotela i drugih hotelsko-turističkih objekata i pokretnina koje se u njima nalaze, na kojima pravo raspolaganja odnosno vlasništvo imaju ili ih d | [`uredba/1991/1141/`](uredba/1991/1141/) | cited later, not consolidated | 1 | 1991-08-23 | 1991-08-23 |
+| Uredba o osnivanju i radu komisija za popis i procjenu ratne štete | [`uredba/1991/1149/`](uredba/1991/1149/) | repealed, not consolidated | 1 | 1991-08-30 | 1991-08-30 |
 | Uredba o izmjenama i dopunama Uredbe o zabrani raspolaganja osnovnim sredstvima, pokretnom imovinom i pravima određenih poduzeća i drugih pravnih osoba na teritoriju Republike Hrvatske | [`uredba/1991/1150/`](uredba/1991/1150/) | amending act | 1 | 1991-08-30 | 1991-08-30 |
 | Uredba o povećanju stope poreza na promet nekretnina | [`uredba/1991/1151/`](uredba/1991/1151/) | in force | 1 | 1991-08-30 | 1991-08-30 |
+| Uredba o dopuni Uredbe o sjedištu i području na kojem se osnivaju policijske uprave | [`uredba/1991/1152/`](uredba/1991/1152/) | amended, not consolidated | 1 | 1991-08-30 | 1991-08-30 |
+| Uredba o formiranju Ureda za izbjeglice Republike Hrvatske | [`uredba/1991/1170/`](uredba/1991/1170/) | repealed, not consolidated | 1 | 1991-09-05 | 1991-09-05 |
+| Uredba o prestanku radnog odnosa | [`uredba/1991/1181/`](uredba/1991/1181/) | in force | 1 | 1991-09-11 | 1991-09-11 |
+| Odluka o igrama na sreću i zabavnim igrama | [`uredba/1991/1183/`](uredba/1991/1183/) | cited later, not consolidated | 1 | 1991-09-19 | 1991-09-19 |
+| Uredba o Javnom poduzeću "Brijuni" | [`uredba/1991/1190/`](uredba/1991/1190/) | amended, not consolidated | 1 | 1991-09-13 | 1991-09-13 |
 | Uredba o privremenom prenošenju nekretnina, zrakoplova i drugih pokretnina | [`uredba/1991/1191/`](uredba/1991/1191/) | in force | 1 | 1991-09-13 | 1991-09-13 |
 | Uredba o obveznim prebijanjima obveza i potraživanja pravnih osoba u Republici Hrvatskoj | [`uredba/1991/1192/`](uredba/1991/1192/) | in force | 1 | 1991-09-13 | 1991-09-13 |
+| Uredba o korištenju sredstava za subvencionirarlje stanarine i podstanarine | [`uredba/1991/1221/`](uredba/1991/1221/) | amended, not consolidated | 1 | 1991-09-19 | 1991-09-19 |
+| Uredba o osnivanju i radu Komisije za postupanje s osobama zarobljenim u oružanim sukobima u Republici Hrvatskoj | [`uredba/1991/1231/`](uredba/1991/1231/) | amended, not consolidated | 1 | 1991-09-27 | 1991-09-27 |
+| Uredba o porezu iz neto-plaća i drugih osobnih primanja | [`uredba/1991/1242/`](uredba/1991/1242/) | amended, not consolidated | 1 | 1991-06-01 | 1991-06-01 |
+| Uredba o postupanju s osobama zarobljenim u oružanim sukobima u Republici Hrvatskoj | [`uredba/1991/1243/`](uredba/1991/1243/) | cited later, not consolidated | 1 | 1991-10-03 | 1991-10-03 |
+| Uredba o zabrani raspolaganja i prijenosa sredstava određenih pravnih osoba na teritoriju Republike Hrvatske | [`uredba/1991/1246/`](uredba/1991/1246/) | repealed, not consolidated | 1 | 1991-10-03 | 1991-10-03 |
+| Uredba o preuzimanju sredstava JNA i SSNO na teritoriju Republike Hrvatske u vlasništvo Republike Hrvatske | [`uredba/1991/1247/`](uredba/1991/1247/) | cited later, not consolidated | 1 | 1991-10-03 | 1991-10-03 |
+| Uredba o zaštiti žrtava rata za obranu Republike Hrvatske i njihovih obitelji | [`uredba/1991/1248/`](uredba/1991/1248/) | cited later, not consolidated | 1 | 1991-10-03 | 1991-10-03 |
+| Uredba o porezu na promet proizvoda i usluga | [`uredba/1991/1249/`](uredba/1991/1249/) | repealed, not consolidated | 1 | 1991-10-03 | 1991-10-03 |
 | Uredba o zabrani izvoza i prometa određenih proizvoda izvan teritorija Republike Hrvatske | [`uredba/1991/1250/`](uredba/1991/1250/) | in force | 1 | 1991-10-03 | 1991-10-03 |
 | Uredba o korištenju sredstava ostvarenih prodajom stanova na kojima postoji stanarsko pravo | [`uredba/1991/1468/`](uredba/1991/1468/) | in force | 1 | 1991-10-18 | 1991-10-18 |
 | Uredba o preuzimanju i prijenosu željezničkih pruga | [`uredba/1991/1469/`](uredba/1991/1469/) | in force | 1 | 1991-10-18 | 1991-10-18 |
 | Uredba o obveznom prebijanju obveza i potraživanja pravnih osoba u Republici Hrvatskoj s pravnim osobama u Republici Sloveniji | [`uredba/1991/1470/`](uredba/1991/1470/) | in force | 1 | 1991-10-18 | 1991-10-18 |
+| Uredba o radnim odnosima, zapošljavanju, socijalnoj skrbi, mirovinskom i invaIidskom osiguranju, dječjem doplatku i zaštiti žrtava u slučaju ratnog stanja ili neposredne ugroženosti neovisnosti i jedi | [`uredba/1991/1501/`](uredba/1991/1501/) | in force | 1 | 1991-09-10 | 1991-09-10 |
+| Uredba o prekršajima protiv javnog reda i mira za vrijeme ratnog stanja ili neposredne ugroženosti neovisnosti i jedinstvenosti Republike Hrvatske | [`uredba/1991/1503/`](uredba/1991/1503/) | cited later, not consolidated | 1 | 1991-09-10 | 1991-09-10 |
+| Uredba o javnim skupovima za vrijeme ratnog stanja ili neposredne ugroženosti neovisnosti i jedinstvenosti Republike Hrvatske | [`uredba/1991/1504/`](uredba/1991/1504/) | cited later, not consolidated | 1 | 1991-09-10 | 1991-09-10 |
+| Uredba o osobnoj karti za vrijeme ratnog stanja ili neposredne ugroženosti neovisnosti i jedinstvenosti Republike Hrvatske | [`uredba/1991/1506/`](uredba/1991/1506/) | cited later, not consolidated | 1 | 1991-09-10 | 1991-09-10 |
 | Uredba o prijavljivanju prebivališta i boravišta građana za vrijeme ratnog stanja ili neposredne ugroženosti neovisnosti i jedinstvenosti Republike Hrvatske | [`uredba/1991/1507/`](uredba/1991/1507/) | in force | 1 | 1991-09-10 | 1991-09-10 |
+| Uredba o djelatnosti odgoja i obrazovanja, kulture, tehničke kulture i športa za vrijeme ratnog stanja ili u slučaju neposredne ugroženosti neovisnosti i jedinstvenosti Republike Hrvatske | [`uredba/1991/1509/`](uredba/1991/1509/) | cited later, not consolidated | 1 | 1991-09-10 | 1991-09-10 |
+| Uredba o organiziranju i funkcioniranju pošta i telekomunikacija u slučaju ratnog stanja ili neposredne ugroženosti neovisnosti i jedinstvenosti Republike Hrvatske | [`uredba/1991/1510/`](uredba/1991/1510/) | cited later, not consolidated | 1 | 1991-09-12 | 1991-09-12 |
+| Uredba o organiziranju i funkcioniranju cestovnog, željezničkog, riječnog i zračnog prometa u slučaju ratnog stanja ili neposredne ugroženosti neovisnosti i jedinstvenosti Republike Hrvatske | [`uredba/1991/1511/`](uredba/1991/1511/) | cited later, not consolidated | 1 | 1991-09-12 | 1991-09-12 |
 | Uredba o izvršenju sankcija izrećenih za krivična djela, privredne prijestupe i prekršaje za vrijeme ratnog stanja ili u slučaju neposredne ugroženosti neovisnosti i jedinstvenosti Republike Hrvatske | [`uredba/1991/1512/`](uredba/1991/1512/) | in force | 1 | 1991-09-30 | 1991-09-30 |
+| Uredba o organizaciji znanstveno-istraživačke djelatnosti u slučaju ratnog stanja ili neposredne ugroženosti neovisnosti i jedinstvenosti Republike Hrvatske | [`uredba/1991/1513/`](uredba/1991/1513/) | cited later, not consolidated | 1 | 1991-09-10 | 1991-09-10 |
+| Uredba o zdravstvenoj zaštiti i zdravstvenom osiguranju u slučaju ratnog stanja ili neposredne ugroženosti neovisnosti i jedinstvenosti Republike Hrvatske | [`uredba/1991/1514/`](uredba/1991/1514/) | repealed, not consolidated | 1 | 1991-09-10 | 1991-09-10 |
+| Uredba o poljoprivredi i šumarstvu za vrijeme ratnog stanja ili u slučaju ugroženosti neovisnosti i jedinstvenosti Republike Hrvatske | [`uredba/1991/1515/`](uredba/1991/1515/) | in force | 1 | 1991-09-10 | 1991-09-10 |
+| Uredba o prostornom planiranju i uređivanju prostora za vrijeme ratnog stanja ili u slučaju neposredne ugroženosti neovisnosti i jedinstvenosti Republike Hrvatske | [`uredba/1991/1516/`](uredba/1991/1516/) | cited later, not consolidated | 1 | 1991-09-10 | 1991-09-10 |
+| Uredba o nabavljanju, držanju i nošenju oružja u slučaju ratnog stanja ili neposredne ugroženosti neovisnosti i jedinstvenosti Republike Hrvatske | [`uredba/1991/1517/`](uredba/1991/1517/) | cited later, not consolidated | 1 | 1991-09-10 | 1991-09-10 |
+| Uredba o radu poduzeća iz područja građevinarstva i stambenih i komunalnih poslova u slučaju ratnog stanja ili neposredne ugroženosti neovisnosti i jedinstvenosti Republike Hrvatske | [`uredba/1991/1518/`](uredba/1991/1518/) | cited later, not consolidated | 1 | 1991-09-10 | 1991-09-10 |
+| Uredba o proizvodnji naoružanja i vojne opreme, te o gospodarskim i drugim odnosima u proizvodnji i prometu naoružanja i vojne opreme u slučaju ratnog stanja ili neposredne ugroženosti neovisnosti i j | [`uredba/1991/1519/`](uredba/1991/1519/) | in force | 1 | 1991-09-30 | 1991-09-30 |
+| Uredba o izmjeni Uredbe o mjerama zaštite Republike Hrvatske od moguće zloupotrebe dinara | [`uredba/1991/1524/`](uredba/1991/1524/) | in force | 1 | 1991-10-25 | 1991-10-25 |
+| Uredba o odobravanju posebnih kredita za popravak stambenih i gospodarskih zgrada oštećenih ratnim razaranjima | [`uredba/1991/1532/`](uredba/1991/1532/) | amended, not consolidated | 1 | 1991-10-29 | 1991-10-29 |
 | Uredba o korlštenju sredstava amortizadje stanova i stambenih zgrada | [`uredba/1991/1533/`](uredba/1991/1533/) | in force | 1 | 1991-10-29 | 1991-10-29 |
 | Uredba o dodjeli obveznica Republičkom fondu zdravstvenog osiguranja i zdravstva Hrvatske | [`uredba/1991/1534/`](uredba/1991/1534/) | in force | 1 | 1991-11-06 | 1991-11-06 |
 | Uredba o činovima, dodjeli činova, promaknučima u viši čin, te prevođenju i odorama pripadnika oružanih snaga Republike Hrvatske | [`uredba/1991/1552/`](uredba/1991/1552/) | in force | 1 | 1991-11-04 | 1991-11-04 |
 | Uredba o informativnoj djelatnosti za vrijeme ratnoga stanja ili u slučaju neposredne ugroženosti neovisnosti i jedinstvenosti Republike Hrvatske | [`uredba/1991/1553/`](uredba/1991/1553/) | in force | 1 | 1991-10-30 | 1991-10-30 |
+| Uredba o određenim pravima vojnih invalida i članova njihovih obitelji | [`uredba/1991/1554/`](uredba/1991/1554/) | cited later, not consolidated | 1 | 1991-10-28 | 1991-10-28 |
+| Uredba o odobravanju posebnih kredita za popravak stanova u društvenom i državnom vlasništvu oštećenih ratnim razaranjima | [`uredba/1991/1562/`](uredba/1991/1562/) | repealed, not consolidated | 1 | 1991-11-07 | 1991-11-07 |
+| Uredba o davanju posebnih kredita individualnim poljoprivrednim proizvođačima | [`uredba/1991/1563/`](uredba/1991/1563/) | repealed, not consolidated | 1 | 1991-11-07 | 1991-11-07 |
+| Uredba o privremenoj odgodi vraćanja dijela kredita odobrenih iz primarne emisije pravnim osobama koje su pretrpjele štetu od ratnih razaranja | [`uredba/1991/1564/`](uredba/1991/1564/) | cited later, not consolidated | 1 | 1991-11-07 | 1991-11-07 |
+| Uredba o utvrđivanju tečaja za obračun carina i drugih uvoznih pristojbi | [`uredba/1991/1565/`](uredba/1991/1565/) | repealed, not consolidated | 1 | 1991-11-07 | 1991-11-07 |
+| Uredba o upravljanju nacionalnim parkovima | [`uredba/1991/1574/`](uredba/1991/1574/) | repealed, not consolidated | 1 | 1991-11-14 | 1991-11-14 |
+| Uredba o kontroli cijena određenih proizvoda i usluga | [`uredba/1991/1583/`](uredba/1991/1583/) | amended, not consolidated | 1 | 1991-11-15 | 1991-11-15 |
+| Uredba o visini kamate na iznose poreza, doprinosa, taksa i drugih javnih prihoda koji nisu plaćeni u propisanom roku | [`uredba/1991/1584/`](uredba/1991/1584/) | repealed, not consolidated | 1 | 1991-11-15 | 1991-11-15 |
 | Uredba o izmjenama Uredbe o Sekretarijatu za zakonodavstvo | [`uredba/1991/1585/`](uredba/1991/1585/) | in force | 1 | 1991-11-15 | 1991-11-15 |
 | Uredba o izmjeni Uredbe o osnivanju i radu Komisije za postupanje s osobama zarobljenim u oružanim sukobima u Republici Hrvatskoj | [`uredba/1991/1586/`](uredba/1991/1586/) | in force | 1 | 1991-11-15 | 1991-11-15 |
 | Uredba o izmjeni Uredbe o jedinstvenim nazivima zadataka i poslova te o stručnom osposobljavanju i usavršavanju radnika u organima uprave | [`uredba/1991/1587/`](uredba/1991/1587/) | in force | 1 | 1991-11-23 | 1991-11-23 |
 | Odluka o osnivanju Poduzeća "Zrakoplovni tehnički centar" Zagreb | [`uredba/1991/1626/`](uredba/1991/1626/) | in force | 1 | 1991-11-22 | 1991-11-22 |
 | Uredba o izmjeni i dopuni Uredbe za provđenje Zakona o izdavanju obveznica za restrukturiranje gospodarstva u Republid Hrvatskoj | [`uredba/1991/1632/`](uredba/1991/1632/) | amending act | 1 | 1991-11-26 | 1991-11-26 |
 | Uredba o dopuni Uredbe o uvjetima i načinu utvrđivanja evidencijske devizne pozicije za određene zajedničke potrebe | [`uredba/1991/1633/`](uredba/1991/1633/) | amending act | 1 | 1991-11-26 | 1991-11-26 |
+| Uredba o statusu prognanika i izbjeglica | [`uredba/1991/1643/`](uredba/1991/1643/) | replaced, not consolidated | 1 | 1991-12-03 | 1991-12-03 |
+| Uredba o Uredu za prognanike I izbjeglice | [`uredba/1991/1644/`](uredba/1991/1644/) | repealed, not consolidated | 1 | 1991-12-03 | 1991-12-03 |
+| Uredba o načinu isplate zajamčenih osobnih dohodaka određenim kategorijama radnika | [`uredba/1991/1645/`](uredba/1991/1645/) | cited later, not consolidated | 1 | 1991-12-03 | 1991-12-03 |
+| Odluka o izdavanju obveznica za prikupljanje sredstava za obnovu Republike Hrvatske | [`uredba/1991/1671/`](uredba/1991/1671/) | amended, not consolidated | 1 | 1991-12-04 | 1991-12-04 |
+| Uredba o dodatnom osobnom popustu kod kupnje stana u devizama | [`uredba/1991/1672/`](uredba/1991/1672/) | cited later, not consolidated | 1 | 1991-12-04 | 1991-12-04 |
+| Uredba o organizaciji, radu i teritorijalnoj nadležnosti općinskih i okružnih javnih tužiteljstava u slučaju ratnog stanja ili neposredne ugroženosti neovisnosti i jedinstvenosti Republike Hrvatske | [`uredba/1991/1767/`](uredba/1991/1767/) | cited later, not consolidated | 1 | 1991-12-12 | 1991-12-12 |
+| Uredba o organizaciji, radu i djelokrugu sudbene vlasti u slučaju ratnog stanja ili neposredne ugroženosti neovisnosti i jedinstvenosti Republike Hrvatske | [`uredba/1991/1768/`](uredba/1991/1768/) | amended, not consolidated | 1 | 1991-12-12 | 1991-12-12 |
+| Uredba o primjeni Krivičnog zakona Republike Hrvatske u slučaju ratnog stanja ili neposredne ugroženosti neovisnosti i jedinstvenosti Republike Hrvatske | [`uredba/1991/1769/`](uredba/1991/1769/) | in force | 1 | 1991-12-12 | 1991-12-12 |
+| Uredba o preuzimanju sredstava bivše SFRJ u vlasništvo Republike Hrvatske | [`uredba/1991/1795/`](uredba/1991/1795/) | cited later, not consolidated | 1 | 1991-12-13 | 1991-12-13 |
+| Uredba o izmjeni i dopuni Uredbe o porezu iz neto plaća i drugih osobnih primanja | [`uredba/1991/1800/`](uredba/1991/1800/) | amending act | 1 | 1991-12-20 | 1991-12-20 |
 | Uredba o utvrdivanju mjerila za određivanje tajnih podataka obrane te posebnim i općim postupcima za njihovo čuvanje | [`uredba/1991/1817/`](uredba/1991/1817/) | in force | 1 | 1991-12-29 | 1991-12-29 |
+| Uredba o Narodnoj banci Hrvatske | [`uredba/1991/1846/`](uredba/1991/1846/) | repealed, not consolidated | 1 | 1991-12-23 | 1991-12-23 |
 | Uredba o prestanku važenja Uredbe o mjerama zaštite Republike Hrvatske od moguće zloupotrebe dinara | [`uredba/1991/1848/`](uredba/1991/1848/) | in force | 1 | 1991-12-23 | 1991-12-23 |
+| Uredba o platnom prometu s drugim republikama | [`uredba/1991/1849/`](uredba/1991/1849/) | cited later, not consolidated | 1 | 1991-12-23 | 1991-12-23 |
+| Uredba o načinu održavanja likvidnosti u plaćanjima prema inozemstvu | [`uredba/1991/1850/`](uredba/1991/1850/) | repealed, not consolidated | 1 | 1991-12-23 | 1991-12-23 |
 | Uredba o osnivanju i radu Komisije za traženje osoba nestalih u ratnim djelovanjima u Republici Hrvatskoj | [`uredba/1991/1857/`](uredba/1991/1857/) | in force | 1 | 1991-12-24 | 1991-12-24 |
+| Uredba o primjeni Zakona o krivičnom postupku u slučaju ratnog stanja ili neposredne ugroženosti neovisnosti i jedinstvenosti Republike Hrvatske | [`uredba/1991/1897/`](uredba/1991/1897/) | amended, not consolidated | 1 | 1991-12-31 | 1991-12-31 |
 | Uredba o iskazivanju i procjenjivanju protupravno oduzetih sredstava u drugim republikama i pokrajinama bivše SFR Jugoslavije. | [`uredba/1992/20/`](uredba/1992/20/) | in force | 1 | 1992-01-15 | 1992-01-15 |
 | Uredba o iskazivanju sredstava, potraživanja, obveza i šteta u ratnim uvjetima | [`uredba/1992/21/`](uredba/1992/21/) | in force | 1 | 1992-01-15 | 1992-01-15 |
 | Uredba o osnivanju Brodarskog instituta | [`uredba/1992/22/`](uredba/1992/22/) | in force | 1 | 1992-01-15 | 1992-01-15 |
@@ -27292,6 +27564,7 @@
 | Uredba o izmjenama i dopunama Uredbe o načinu utvrđivanja cijene stana | [`uredba/1992/98/`](uredba/1992/98/) | amending act | 1 | 1992-02-07 | 1992-02-07 |
 | Uredba o obveznom prebijanju obveza i potraživanja pravnih osoba u Republici Hrvatskoj s pravnim osobama u Socijalističkoj Republici Bosni i Hercegovini | [`uredba/1992/133/`](uredba/1992/133/) | in force | 1 | 1992-02-14 | 1992-02-14 |
 | Uredba o produžetku mandata delegatima u radničkom savjetu | [`uredba/1992/134/`](uredba/1992/134/) | in force | 1 | 1992-02-14 | 1992-02-14 |
+| Uredba o izmjenama i dopunama Zakona o prodaji stanova na kojima postoji stanarsko pravo | [`uredba/1992/135/`](uredba/1992/135/) | amended, not consolidated | 1 | 1992-02-14 | 1992-02-14 |
 | Uredba o uvjetima i rokovima sastavljanja i dostavljanja godišnjeg obračuna za neke pravne osobe | [`uredba/1992/210/`](uredba/1992/210/) | in force | 1 | 1992-02-28 | 1992-02-28 |
 | Uredba o uvjetima i načinu otvaranja računa kod nosilaca platnog prometa | [`uredba/1992/237/`](uredba/1992/237/) | in force | 1 | 1992-03-03 | 1992-03-03 |
 | Uredba o izdavanju obveznica za obnovu Republike Hrvatske | [`uredba/1992/256/`](uredba/1992/256/) | in force | 1 | 1992-03-06 | 1992-03-06 |
@@ -27309,22 +27582,54 @@
 | Uredba o naknadama koje se priznaju u materijalne troškove korisnicima kojima se sredstva za rad osiguravaju u državnom proračunu | [`uredba/1992/939/`](uredba/1992/939/) | in force | 1 | 1992-06-23 | 1992-06-23 |
 | Uredba o izmjenama i dopunama Uredbe o privremenom izvozu i uvozu robe | [`uredba/1992/955/`](uredba/1992/955/) | amending act | 1 | 1992-06-24 | 1992-06-24 |
 | Uredba o izmjenama i dopunama Zakona o neposrednim porezima | [`uredba/1992/1014/`](uredba/1992/1014/) | amending act | 1 | 1992-06-26 | 1992-06-26 |
+| Uredba o izmjenama i dopunama Zakona o porezu na promet proizvoda i usluga | [`uredba/1992/1015/`](uredba/1992/1015/) | amended, not consolidated | 1 | 1992-06-26 | 1992-06-26 |
+| Uredba o izmjenama i dopunama Zakona o pripadnosti javnih prihoda Republici Hrvatskoj i jedinicama lokalne samouprave i stopama republičkih poreza | [`uredba/1992/1016/`](uredba/1992/1016/) | amending act | 1 | 1992-06-26 | 1992-06-26 |
 | Uredba o izmjenama Zakona o zajmu Republike Hrvatske za finanaranje javnih potreba u 1992. godini | [`uredba/1992/1017/`](uredba/1992/1017/) | in force | 1 | 1992-06-26 | 1992-06-26 |
+| Uredba o izmjenama i dopunama Carinskog zakona | [`uredba/1992/1018/`](uredba/1992/1018/) | amended, not consolidated | 1 | 1992-06-26 | 1992-06-26 |
+| Uredba o izmjenama i dopunama Zakona o igrama na sreću i zabavnim igrama | [`uredba/1992/1019/`](uredba/1992/1019/) | amending act | 1 | 1992-06-26 | 1992-06-26 |
+| Uredba o financijskom poslovanju | [`uredba/1992/1020/`](uredba/1992/1020/) | repealed, not consolidated | 1 | 1992-06-26 | 1992-06-26 |
+| Uredba o plaćama | [`uredba/1992/1021/`](uredba/1992/1021/) | amended, not consolidated | 1 | 1992-06-26 | 1992-06-26 |
 | Uredba o kontroli obračuna i naplate javnih prihoda | [`uredba/1992/1024/`](uredba/1992/1024/) | in force | 1 | 1992-06-26 | 1992-06-26 |
+| Uredba o posebnoj taksi na uvezenu robu | [`uredba/1992/1025/`](uredba/1992/1025/) | cited later, not consolidated | 1 | 1992-06-26 | 1992-06-26 |
 | Uredba o oslobođenju plaćanja naknade za promjenu namjene poljoprivrednog zemljišta | [`uredba/1992/1027/`](uredba/1992/1027/) | in force | 1 | 1992-06-26 | 1992-06-26 |
+| Uredba o plaćanju doplatnih maraka "Majka Božja Bistrička" i "Hrvatska liga protiv raka - 25 godina" u unutarnjem poštanskom prometu | [`uredba/1992/1028/`](uredba/1992/1028/) | amended, not consolidated | 1 | 1992-06-26 | 1992-06-26 |
+| Uredba o korištenju sredstava amortizacije stanova i stambenih zgrada | [`uredba/1992/1029/`](uredba/1992/1029/) | amended, not consolidated | 1 | 1992-06-26 | 1992-06-26 |
+| Uredba o zabrani raspolaganja i preuzimanja sredstava određenih pravnih osoba na teritoriju Republike Hrvatske | [`uredba/1992/1030/`](uredba/1992/1030/) | cited later, not consolidated | 1 | 1992-06-26 | 1992-06-26 |
+| Uredba o izmjeni Zakona o prestanku važenja Zakona o izdvajanju i raspoređivanju sredstava za zadovoljavanje stambenih potreba | [`uredba/1992/1087/`](uredba/1992/1087/) | in force | 1 | 1992-07-07 | 1992-07-07 |
 | Uredba o prostornom uređenju u ratom zahvaćenim podrućjima Republike Hrvatske | [`uredba/1992/1099/`](uredba/1992/1099/) | in force | 1 | 1992-07-22 | 1992-07-22 |
 | Uredba o kontroli cijena pšeničnog brašna i kruha | [`uredba/1992/1101/`](uredba/1992/1101/) | in force | 1 | 1992-07-14 | 1992-07-14 |
+| Uredba o izmjeni i dopuni Zakona o pretvorbi društvenih poduzeća | [`uredba/1992/1144/`](uredba/1992/1144/) | amending act | 1 | 1992-07-20 | 1992-07-20 |
+| Uredba o načinu utvrđivanja visine naknade za narušene vrijednosti i potencijal prostora | [`uredba/1992/1145/`](uredba/1992/1145/) | cited later, not consolidated | 1 | 1992-07-28 | 1992-07-28 |
 | Uredba o dopuni Uredbe o plaćanju doplatnih maraka "Majka Božja Bistrička" i "Hrvatska liga protiv raka - 25 godina" u unutarnjem poštanskom prometu | [`uredba/1992/1146/`](uredba/1992/1146/) | amending act | 1 | 1992-07-20 | 1992-07-20 |
+| Uredba o ostvarivanju prava iz mirovinskog i invalidskog osiguranja osoba kojima je prestalo svojstvo aktivne vojne osobe u bivšoj JNA do 31. prosinca 1991. | [`uredba/1992/1182/`](uredba/1992/1182/) | amended, not consolidated | 1 | 1992-07-24 | 1992-07-24 |
+| Uredba o isplati mirovina korisnicima koji su mirovinu ostvarili u republikama bivše Socijalističke Federativne Republike Jugoslavije | [`uredba/1992/1183/`](uredba/1992/1183/) | amended, not consolidated | 1 | 1992-07-24 | 1992-07-24 |
 | Uredba o izmjenama i dopunama Zakona o zaštiti na radu | [`uredba/1992/1184/`](uredba/1992/1184/) | amending act | 1 | 1992-08-01 | 1992-08-01 |
 | Uredba o izmjenama i dopunama Uredbe o stručnom ispitu za inspektora rada | [`uredba/1992/1185/`](uredba/1992/1185/) | amending act | 1 | 1992-07-24 | 1992-07-24 |
 | Uredba o utvrđivanju iznosa do kojeg javno poduzeće za proizvodnju, prijenos i distribuciju električne energije i upravljanje elektroenergetskim sustavom "Hrvatska elektroprivreda" iz Zagreba može i | [`uredba/1992/1270/`](uredba/1992/1270/) | in force | 1 | 1992-08-12 | 1992-08-12 |
 | Uredba o "Muzejima Hrvatskog zagorja" | [`uredba/1992/1271/`](uredba/1992/1271/) | in force | 1 | 1992-08-12 | 1992-08-12 |
+| Uredba o izmjeni Zakona o prostornom planiranju i uređivanju prostora | [`uredba/1992/1274/`](uredba/1992/1274/) | in force | 1 | 1992-08-12 | 1992-08-12 |
+| Uredba o izmjenama i dopunama Zakona o cestama | [`uredba/1992/1275/`](uredba/1992/1275/) | amending act | 1 | 1992-08-04 | 1992-08-04 |
+| Uredba o izdacima za službena putovanja u inozemstvo koji se korisnicima državnog proračuna priznaju u materijalne troškove | [`uredba/1992/1314/`](uredba/1992/1314/) | amended, not consolidated | 1 | 1992-08-11 | 1992-08-11 |
 | Uredba o namjenskim sredstvima za pokriće gubitaka Hrvatske eIektroprivrede | [`uredba/1992/1315/`](uredba/1992/1315/) | in force | 1 | 1992-08-11 | 1992-08-11 |
 | Uredba o prestanku važenja Uredbe o kontroli cijena pšenićnog brašna i kruha | [`uredba/1992/1316/`](uredba/1992/1316/) | in force | 1 | 1992-08-11 | 1992-08-11 |
+| Uredba o znacima državne pripadnosti zrakoplova | [`uredba/1992/1409/`](uredba/1992/1409/) | repealed, not consolidated | 1 | 1992-09-01 | 1992-09-01 |
+| Uredba o dopuni Uredbe o područjima na kojima će se koristiti sredstva ostvarena prema Zakonu o financiranju obnove te o područjima na kojima će se primjenjivati poticajne mjere | [`uredba/1992/1425/`](uredba/1992/1425/) | amending act | 1 | 1992-09-03 | 1992-09-03 |
+| Uredba o izmjeni i dopuni Zakona o hrvatskim željeznicama | [`uredba/1992/1426/`](uredba/1992/1426/) | amending act | 1 | 1992-09-03 | 1992-09-03 |
+| Uredba o izmjenama i dopunama Zakona o pripadnosti javnih prihoda Republici Hrvatskoj i jedinicama lokalne samouprave i stopama republičkih poreza | [`uredba/1992/1427/`](uredba/1992/1427/) | amending act | 1 | 1992-09-03 | 1992-09-03 |
 | Uredba o izmjeni i dopuni Zakona o osnivanju javnog hrvatskog poštanskog i telekomunikcijskog poduzeća | [`uredba/1992/1428/`](uredba/1992/1428/) | amending act | 1 | 1992-09-03 | 1992-09-03 |
+| Uredba o izmjenama i dopunama Uredbe o plaćama | [`uredba/1992/1429/`](uredba/1992/1429/) | amending act | 1 | 1992-09-03 | 1992-09-03 |
+| Uredba o obvezi ispitivanja naoružanja, streljiva i opreme | [`uredba/1992/1483/`](uredba/1992/1483/) | cited later, not consolidated | 1 | 1992-09-25 | 1992-09-25 |
 | Uredba o izmjeni Uredbe o isplati mirovina korisnicima koji su mirovinu ostvarili u republikama bivše Socijalističke Federativne Republike Jugoslavije | [`uredba/1992/1484/`](uredba/1992/1484/) | in force | 1 | 1992-09-17 | 1992-09-17 |
+| Uredba o dopunama Zakona o zaštiti vojnih i civilnih invalida rata | [`uredba/1992/1533/`](uredba/1992/1533/) | amending act | 1 | 1992-09-22 | 1992-09-22 |
+| Uredba o izmjenama i dopunama Carinskog zakona | [`uredba/1992/1636/`](uredba/1992/1636/) | amended, not consolidated | 1 | 1992-10-02 | 1992-10-02 |
+| Uredba o izmjeni Zakona o porezu na promet proizvoda i usluga | [`uredba/1992/1637/`](uredba/1992/1637/) | amended, not consolidated | 1 | 1992-10-02 | 1992-10-02 |
 | Uredba o izmjenama i dopunama Zakona o preuzimanju Zakona o kontroli predmeta od dragocjenih kovina, koji se u Republici Hrvatskoj primjenjuje kao republički zakon | [`uredba/1992/1639/`](uredba/1992/1639/) | amending act | 1 | 1992-10-10 | 1992-10-10 |
+| Uredba o uvjetima uz koje ovlaštene banke mogu prodavati devize domaćim fizićkim osobama | [`uredba/1992/1640/`](uredba/1992/1640/) | in force | 1 | 1992-10-02 | 1992-10-02 |
 | Uredba o izmjenama i dopunama Uredbe o plaćama | [`uredba/1992/1641/`](uredba/1992/1641/) | amending act | 1 | 1992-10-02 | 1992-10-02 |
+| Uredba o odobravanju posebnih kredita za popravak zgrada s više stanova oštećenih ratnim razaranjima | [`uredba/1992/1642/`](uredba/1992/1642/) | repealed, not consolidated | 1 | 1992-10-02 | 1992-10-02 |
+| Uredba o odobravanju posebnih kredita za popravak obiteljskih stambenih i gospodarskih zgrada oštećenih ratnim razaranjima | [`uredba/1992/1643/`](uredba/1992/1643/) | repealed, not consolidated | 1 | 1992-10-02 | 1992-10-02 |
+| Uredba o uvjetima i načinu održavanja likvidnosti u plaćanjima prema inezemstvu | [`uredba/1992/1644/`](uredba/1992/1644/) | in force | 1 | 1992-10-02 | 1992-10-02 |
+| Uredba o upisu u sudski registar | [`uredba/1992/1645/`](uredba/1992/1645/) | cited later, not consolidated | 1 | 1992-10-10 | 1992-10-10 |
 | Uredba o Uređu za odnose s javnošću | [`uredba/1992/1646/`](uredba/1992/1646/) | in force | 1 | 1992-10-02 | 1992-10-02 |
 | Uredba o izmjenama Uredbe o Uredu za UNPROFOR | [`uredba/1992/1647/`](uredba/1992/1647/) | in force | 1 | 1992-10-02 | 1992-10-02 |
 | Uredba o posebnim mjerama za ostvarivanje carinskog nadzora usvezi s prikupljanjem, preuzimanjem i čuvanjem motornih i drugih vozilate plovnih objekata i njihovih dijelova, pod carinskim nadzorom, te načinunjihove prodaje i rasporedu sredstava dobivenih njihovom prodajom | [`uredba/1992/1653/`](uredba/1992/1653/) | in force | 1 | 1992-10-11 | 1992-10-11 |
