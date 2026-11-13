@@ -1,147 +1,162 @@
-# Croatia: law history in git
+# Hrvatska: povijest propisa u gitu
+
+**Hrvatski** · [English](README.en.md)
 
 <picture>
-<source media="(prefers-color-scheme: dark)" srcset="data/effort-dark.svg">
-<img alt="Croatian law in this repository: what it holds, changes by the year they took effect, completeness against the official sources, and the correctness of what is held" src="data/effort-light.svg" width="880">
+<source media="(prefers-color-scheme: dark)" srcset="data/hr/effort-dark.svg">
+<img alt="Propisi Hrvatske u ovom repozitoriju: što sadrži, izmjene po godini stupanja na snagu, potpunost u odnosu na službene izvore i točnost sadržaja" src="data/hr/effort-light.svg" width="880">
 </picture>
 
-Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is Croatia's national law, which global-law reads at `croatia/national/acts/`.
+Dio repozitorija [lexifina/global-law](https://github.com/lexifina/global-law), jedinstvene git povijesti prava svih država: ovo je hrvatsko nacionalno pravo, koje global-law čita iz `croatia/national/acts/`.
 
-**Private. Reuse conditions are unclear** (see `LICENSE`); do not publish.
+**Privatno. Uvjeti ponovne uporabe nisu jasni** (vidi `LICENSE`); ne objavljivati.
 
-**Scope**
-- The Constitution of the Republic of Croatia (Ustav Republike Hrvatske) with every change, from the official texts
-  (`ustav/`, below).
-- The acts of the official part of Narodne novine (službeni dio): laws (zakoni), Government decrees (uredbe), rules
-  (pravilnici), decisions (odluke), orders (naredbe), instructions (naputci, upute) and statutes (statuti), each as
-  first printed in Narodne novine, dated by its own entry-into-force sentence and credited to itself. Decisions about
-  named people, Constitutional Court decisions, corrections (Ispravak) and collective agreements are not published as
-  acts.
-- Acts that later documents change are published as enacted and labelled (`amended, not consolidated` and the like),
-  with the documents that change them: Narodne novine publishes official consolidated texts (pročišćeni tekst) for only
-  a few acts.
+**Opseg**
+- Ustav Republike Hrvatske sa svim promjenama, prema službenim tekstovima (`ustav/`, niže).
+- Akti službenog dijela Narodnih novina: zakoni, uredbe Vlade, pravilnici, odluke, naredbe, naputci i upute te statuti,
+  svaki onako kako je prvi put objavljen u Narodnim novinama, datiran prema vlastitoj odredbi o stupanju na snagu i
+  pripisan samome sebi. Odluke koje se odnose na poimence navedene osobe, odluke Ustavnog suda, ispravci (Ispravak) i
+  kolektivni ugovori ne objavljuju se kao akti.
+- Akti koje kasniji dokumenti mijenjaju objavljuju se onako kako su doneseni i označeni (`amended, not consolidated` i
+  slično), zajedno s dokumentima koji ih mijenjaju: Narodne novine objavljuju službene pročišćene tekstove samo za
+  malobrojne akte.
 
-**Status**
-- Narodne novine is read back year by year; acts are published once every later issue has been read, so the record
-  grows backwards in time. Acts held back, with the reason, are listed in [data/held.json](data/held.json); acts
-  published but not yet in force in [data/pending.json](data/pending.json).
-- `zakoni/` holds laws in force as first published (added from November 2026 by an earlier builder);
-  [data/zakoni.json](data/zakoni.json) gives each its status (`in force`, `amended, not consolidated`,
-  `repealed, not consolidated`, ...) and the acts that changed it since.
+**Stanje**
+- Narodne novine čitaju se unatrag, godinu po godinu; akti se objavljuju tek kad je pročitan svaki kasniji broj, pa zapis
+  raste unatrag u vremenu. Zadržani akti, s razlogom, navedeni su u [data/held.json](data/held.json); akti koji su
+  objavljeni, ali još nisu na snazi, u [data/pending.json](data/pending.json).
+- `zakoni/` sadrži zakone na snazi onako kako su prvi put objavljeni (dodani od studenoga 2026. ranijim alatom za
+  izradu); [data/zakoni.json](data/zakoni.json) za svaki navodi status (`in force`, `amended, not consolidated`,
+  `repealed, not consolidated`, ...) i akte koji su ga od tada mijenjali.
 
-## Layout
+## Raspored
 
-| Where | What |
+| Gdje | Što |
 | --- | --- |
-| `ustav/` | the Constitution: the text as proclaimed (NN 56/1990) and the consolidated texts after each change |
-| `zakoni/<slug>/` | laws in force, the text as first published ([data/zakoni.json](data/zakoni.json): status and later changes) |
-| `zakon/`, `uredba/`, `pravilnik/`, `odluka/`, `naredba/`, `naputak/`, `uputa/`, `statut/` | the acts of the official part, by kind, year and Narodne novine document number: `pravilnik/2024/100/` |
-| `<act>/clanak-NNN.md` · `<act>/README.md` | one article per file · the act's versions, status and notes |
-| [registry/ACTS.md](registry/ACTS.md) · [registry/data/](registry/data/) | the act list, and the act tables ([registry/data/acts.json](registry/data/acts.json): kind, number, status, `amended_by`, official page) |
-| `data/` · `tools/` | freshness, status and held/pending lists · the tools below |
+| `ustav/` | Ustav: tekst kako je proglašen (NN 56/1990) i pročišćeni tekstovi nakon svake promjene |
+| `zakoni/<slug>/` | zakoni na snazi, tekst kako je prvi put objavljen ([data/zakoni.json](data/zakoni.json): status i kasnije izmjene) |
+| `zakon/`, `uredba/`, `pravilnik/`, `odluka/`, `naredba/`, `naputak/`, `uputa/`, `statut/` | akti službenog dijela, po vrsti, godini i broju dokumenta u Narodnim novinama: `pravilnik/2024/100/` |
+| `<act>/clanak-NNN.md` · `<act>/README.md` | jedan članak po datoteci · verzije akta, status i napomene |
+| [registry/ACTS.md](registry/ACTS.md) · [registry/data/](registry/data/) | popis akata i tablice akata ([registry/data/acts.json](registry/data/acts.json): vrsta, broj, status, `amended_by`, službena stranica) |
+| `data/` · `tools/` | ažurnost, status i popisi zadržanih akata i akata koji još nisu na snazi · alati navedeni niže |
 
-## Use it
+## Upotreba
 
-| Question | Command |
+| Pitanje | Naredba |
 | --- | --- |
-| What did čl. 62 of the Constitution say on 1 January 2012? | `python tools/ustav.py 2012-01-01 ustav 62` |
-| An act as it stood on a day | `python registry/tools/on.py 2025-06-01 pravilnik/2024/100` |
-| Which act wrote each paragraph of an article? | `git blame ustav/clanak-062.md` |
-| Every change to an article | `git log --follow -p --word-diff ustav/clanak-062.md` |
-| Is an act here current? | `python tools/freshness.py pravilnik-2024-100` |
+| Kako je glasio čl. 62. Ustava 1. siječnja 2012.? | `python tools/ustav.py 2012-01-01 ustav 62` |
+| Akt kakav je bio određenog dana | `python registry/tools/on.py 2025-06-01 pravilnik/2024/100` |
+| Koji je akt unio pojedini stavak članka? | `git blame ustav/clanak-062.md` |
+| Sve promjene jednog članka | `git log --follow -p --word-diff ustav/clanak-062.md` |
+| Je li akt u repozitoriju ažuran? | `python tools/freshness.py pravilnik-2024-100` |
 
-Read dates with the tools, not `git rev-list --before`: they pick each version by its `In-force:` trailer.
+Datume čitajte pomoću alata, a ne s `git rev-list --before`: alati svaku verziju biraju prema njezinu traileru `In-force:`.
 
-## How current is it
+## Koliko je ažurno
 
-Every version names the official page it was read from (`Source:`), so every act can be checked against its source.
+Svaka verzija navodi službenu stranicu s koje je pročitana (`Source:`), pa se svaki akt može provjeriti prema izvoru.
 
 <!-- freshness-summary -->
-Checked against the official sources: 2026-11-11; 100% of acts verified in the last 7 days, 100% in the last 30 ([data/freshness.json](data/freshness.json)).
+Provjereno prema službenim izvorima: 2026-11-11; 100 % akata provjereno u posljednjih 7 dana, 100 % u posljednjih 30 ([data/freshness.json](data/freshness.json)).
 <!-- /freshness-summary -->
 
-`python tools/freshness.py <act>` gives an act's status, its last check and the official link. A refresh runs every
-day: it reads every new issue of Narodne novine, publishes the new acts and re-checks every act against everything
-published since it; [data/status.json](data/status.json) says whether updates are running and when Narodne novine last
-answered. Acts older than the year the read of Narodne novine has reached are `unverified` until it gets there
-(`read_back_to_year` in [data/freshness.json](data/freshness.json)). Statuses and fields: [data/freshness.json](data/freshness.json).
+`python tools/freshness.py <act>` daje status akta, njegovu posljednju provjeru i službenu poveznicu. Osvježavanje se
+pokreće svaki dan: čita svaki novi broj Narodnih novina, objavljuje nove akte i ponovno provjerava svaki akt prema svemu
+što je objavljeno nakon njega; [data/status.json](data/status.json) pokazuje rade li ažuriranja i kada su Narodne novine
+posljednji put odgovorile. Akti stariji od godine do koje je stiglo čitanje Narodnih novina imaju status `unverified`
+dok čitanje do njih ne stigne (`read_back_to_year` u [data/freshness.json](data/freshness.json)). Statusi i polja: [data/freshness.json](data/freshness.json).
 
-## Dates, authors and limits
+## Datumi, autori i ograničenja
 
-- Each commit is dated at noon in Zagreb on the day the change took effect; the author is the act that made it, the
-  committer Lexifina. The publication and adoption days are trailers.
-- An act's in-force day is read from its own entry-into-force sentence ("stupa na snagu danom objave", "osmoga dana od
-  dana objave", a date); an act whose sentence cannot be read is held back, not guessed.
-- An act marked `amended, not consolidated` (or `repealed`, `replaced`, `cited later`, `not consolidated`) holds the act
-  as published and names the documents that change it; later amendments are not applied to its text.
-- Only the printed Narodne novine is authoritative.
+- Svaki je commit datiran u podne po zagrebačkom vremenu na dan kad je promjena stupila na snagu; autor je akt koji ju je
+  unio, a committer Lexifina. Dan objave i dan donošenja navedeni su u trailerima.
+- Dan stupanja akta na snagu čita se iz njegove vlastite odredbe o stupanju na snagu ("stupa na snagu danom objave",
+  "osmoga dana od dana objave", datum); akt čija se odredba ne može pročitati zadržava se, a dan se ne nagađa.
+- Akt označen `amended, not consolidated` (ili `repealed`, `replaced`, `cited later`, `not consolidated`) sadrži akt
+  onako kako je objavljen i navodi dokumente koji ga mijenjaju; kasnije izmjene ne primjenjuju se na njegov tekst.
+- Mjerodavne su samo tiskane Narodne novine.
 
-## The Constitution (ustav/)
+## Ustav (ustav/)
 
-The Constitution as a git repository. Each amending act is one commit, credited to that act and dated the day it took
-effect, at noon in Zagreb. The text is the official text published in [Narodne novine](https://narodne-novine.nn.hr):
-the Constitution as first published (NN 56/1990) and the consolidated texts ("pročišćeni tekst") the Sabor's
-Constitution Committee published after each change.
+Ustav kao git repozitorij. Svaki akt o promjeni Ustava jedan je commit, pripisan tom aktu i datiran danom kad je stupio na
+snagu, u podne po zagrebačkom vremenu. Tekst je službeni tekst objavljen u [Narodnim novinama](https://narodne-novine.nn.hr):
+Ustav kako je prvi put objavljen (NN 56/1990) i pročišćeni tekstovi ("pročišćeni tekst") koje je saborski Odbor za
+Ustav objavio nakon svake promjene.
 
-### The dates, and which one we use
+### Datumi i koji od njih koristimo
 
-Each act has the day it was enacted (`Enacted:`), the day it was published in Narodne novine (`Published:`) and the day it
-took effect (`In-force:`). **Commits are dated the day the change took effect**, at noon in Zagreb (CET, or CEST in summer
-time). The in-force day is read from the act's own wording ("stupa na snagu danom objave", "danom proglašenja", "kad ju
-proglasi Zastupnički dom") and the wording is quoted in the `Evidence:` trailer. The one day the wording does not give
-(the accession of Croatia to the EU) is taken from the Treaty of Accession and says so. All dates are 1970 or later.
+Svaki akt ima dan donošenja (`Enacted:`), dan objave u Narodnim novinama (`Published:`) i dan stupanja na snagu
+(`In-force:`). **Commitovi su datirani danom kad je promjena stupila na snagu**, u podne po zagrebačkom vremenu (CET,
+odnosno CEST za vrijeme ljetnog računanja vremena). Dan stupanja na snagu čita se iz vlastitog teksta akta ("stupa na
+snagu danom objave", "danom proglašenja", "kad ju proglasi Zastupnički dom"), a taj se tekst citira u traileru
+`Evidence:`. Jedini dan koji tekst ne daje (pristupanje Hrvatske Europskoj uniji) preuzet je iz Ugovora o pristupanju, i
+to je navedeno. Svi su datumi iz 1970. ili kasniji.
 
-### What "author" means
+### Što znači "autor"
 
-The author of a commit is the act that made the change: `NN 113/2000`, with an address ending `@narodne-novine.invalid`, so
-`git blame` names the act. The committer is always `Lexifina`.
+Autor commita je akt koji je unio promjenu: `NN 113/2000`, s adresom koja završava na `@narodne-novine.invalid`, pa
+`git blame` imenuje akt. Committer je uvijek `Lexifina`.
 
-### The commits
+### Commitovi
 
-| Day | Author | What |
+| Dan | Autor | Što |
 | --- | --- | --- |
-| 1990-12-22 | NN 56/1990 | The Constitution as proclaimed |
-| 1997-12-15 | NN 135/1997 | Ustavni zakon o izmjenama i dopunama (text of the consolidated NN 8/1998) |
-| 2000-11-09 | NN 113/2000 | Promjena Ustava (text of the consolidated NN 124/2000) |
-| 2001-03-28 | NN 28/2001 | Promjena Ustava (text of the consolidated NN 41/2001, as printed) |
-| 2001-03-28 | NN 55/2001 (ispravak) | The Ispravak of the NN 41/2001 text; derived, labelled |
-| 2010-06-16 | NN 76/2010 | Promjena Ustava (text of the consolidated NN 85/2010) |
-| 2013-07-01 | NN 76/2010 | Staged commencement: the EU provisions take effect; no file changes |
-| 2013-12-01 | NN 5/2014 (referendum 2013) | The fifth change, by referendum: čl. 62 gets a new stavak 2; derived, labelled |
+| 1990-12-22 | NN 56/1990 | Ustav kako je proglašen |
+| 1997-12-15 | NN 135/1997 | Ustavni zakon o izmjenama i dopunama (tekst iz pročišćenog teksta NN 8/1998) |
+| 2000-11-09 | NN 113/2000 | Promjena Ustava (tekst iz pročišćenog teksta NN 124/2000) |
+| 2001-03-28 | NN 28/2001 | Promjena Ustava (tekst iz pročišćenog teksta NN 41/2001, kako je tiskan) |
+| 2001-03-28 | NN 55/2001 (ispravak) | Ispravak teksta NN 41/2001; izveden, označen |
+| 2010-06-16 | NN 76/2010 | Promjena Ustava (tekst iz pročišćenog teksta NN 85/2010) |
+| 2013-07-01 | NN 76/2010 | Postupno stupanje na snagu: stupaju na snagu odredbe o Europskoj uniji; bez promjena datoteka |
+| 2013-12-01 | NN 5/2014 (referendum 2013) | Peta promjena, referendumom: čl. 62. dobiva novi stavak 2.; izveden, označen |
 
-### What it does not show, and what is labelled
+### Što ne prikazuje i što je označeno
 
-- **Consolidated texts, not the acts' own words.** Each version's text is the Committee's consolidated text. The act says
-  "čl. 35. mijenja se i glasi"; the consolidated text is the result. A consolidated text can carry editorial corrections
-  that the act does not state (punctuation, wording), and we do not separate them: every difference between two
-  consecutive texts is credited to the act whose consolidated text it is, and each commit carries a `Label:` saying so.
-- **Numbers move.** Articles are numbered as in each consolidated text; a change that adds an article renumbers the rest, so
-  `clanak-062.md` is not always the same provision across 2000 or 2010, and `git log --follow` on a file follows a number,
-  not a provision. (The Constitutional Court notes the same: what the 2013 change calls article 62 is article 61 in the
-  text as proclaimed.) The 1990 page of Narodne novine is a transcription with a few typographical oddities, kept as
-  published.
-- **2001-03-28, the Ispravak (NN 55/2001).** The NN 41/2001 text had four misprints; the Ispravak lists them. The first
-  commit of that day is the NN 41/2001 text as printed; the second applies the four corrections by a script that checks
-  every word it uses against the Ispravak page. Its `In-force` is the day of the Promjena it corrects.
-- **2010-06-16 and 2013-07-01.** NN 76/2010 took effect on proclamation (16 June 2010) except some provisions that take
-  effect on accession to the EU. The NN 85/2010 text prints them all; they are in the 2010-06-16 commit, labelled as
-  printed early, and the 2013-07-01 commit (no file changes) records the day they took effect.
-- **2013-12-01.** Narodne novine published no consolidated text after the 2013 referendum, and no act: the Constitutional
-  Court's decision (NN 5/2014, 93) declares the change in force on 1 December 2013, quoting the amendment. The commit is the
-  NN 85/2010 text with that one sentence inserted as čl. 62 stavak 2 by a script. It is derived and labelled.
-- The record ends 2013-12-01: no later change to the Constitution is known to us. The consolidated texts are
-  informational; only the printed Narodne novine is authoritative.
+- **Pročišćeni tekstovi, a ne vlastite riječi akata.** Tekst svake verzije pročišćeni je tekst Odbora. Akt kaže
+  "čl. 35. mijenja se i glasi"; pročišćeni tekst je rezultat. Pročišćeni tekst može sadržavati redakcijske ispravke
+  koje akt ne navodi (interpunkcija, formulacija) i mi ih ne odvajamo: svaka razlika između dvaju uzastopnih tekstova
+  pripisuje se aktu čiji je to pročišćeni tekst, a svaki commit nosi `Label:` koji to navodi.
+- **Brojevi se pomiču.** Članci su numerirani kao u pojedinom pročišćenom tekstu; promjena koja dodaje članak
+  prenumerira ostale, pa `clanak-062.md` nije uvijek ista odredba prije i poslije 2000. ili 2010., a `git log --follow`
+  na datoteci prati broj, a ne odredbu. (Isto napominje i Ustavni sud: ono što promjena iz 2013. naziva člankom 62. u
+  tekstu kako je proglašen članak je 61.) Stranica Narodnih novina iz 1990. prijepis je s nekoliko tipografskih
+  neobičnosti, zadržanih kako su objavljene.
+- **2001-03-28, Ispravak (NN 55/2001).** Tekst NN 41/2001 imao je četiri tiskarske pogreške; Ispravak ih navodi. Prvi
+  commit tog dana tekst je NN 41/2001 kako je tiskan; drugi primjenjuje četiri ispravka skriptom koja svaku riječ koju
+  koristi provjerava prema stranici Ispravka. Njegov `In-force` dan je Promjene koju ispravlja.
+- **2010-06-16 i 2013-07-01.** Akt NN 76/2010 stupio je na snagu proglašenjem (16. lipnja 2010.), osim nekih odredaba
+  koje stupaju na snagu pristupanjem Europskoj uniji. Tekst NN 85/2010 tiska ih sve; nalaze se u commitu od 2010-06-16,
+  označene kao tiskane prije stupanja na snagu, a commit od 2013-07-01 (bez promjena datoteka) bilježi dan kad su
+  stupile na snagu.
+- **2013-12-01.** Narodne novine nakon referenduma 2013. nisu objavile ni pročišćeni tekst ni akt: odluka Ustavnog suda
+  (NN 5/2014, 93) utvrđuje da je promjena stupila na snagu 1. prosinca 2013. i citira izmjenu. Commit je tekst
+  NN 85/2010 u koji je skriptom umetnuta ta jedna rečenica kao čl. 62. stavak 2. Izveden je i označen.
+- Zapis završava 2013-12-01: nije nam poznata nijedna kasnija promjena Ustava. Pročišćeni tekstovi imaju informativnu
+  narav; mjerodavne su samo tiskane Narodne novine.
 
-### Files
+### Datoteke
 
-`ustav/izvorisne-osnove.md` is the preamble; `ustav/clanak-NNN.md` is one article. The `#` line is the article number;
-`##` lines above it are the part or chapter headings that open there; every other line is one paragraph (stavak), and
-list items keep their dash.
+`ustav/izvorisne-osnove.md` je preambula; `ustav/clanak-NNN.md` je jedan članak. Redak `#` je broj članka; redci `##`
+iznad njega naslovi su dijela ili glave koji ondje počinju; svaki drugi redak jedan je stavak, a stavke popisa
+zadržavaju crticu.
 
-### How it is checked, and built
+### Kako se provjerava i izrađuje
 
-`tools/check_repo.py` reads every version back from git on its in-force day and compares it with the official page, file by
-file and word for word; `tools/test_repo.py` runs the commands above. `tools/build.py` writes the repository from the
-cached official pages and gives the same hashes. [`REPRODUCE.md`](REPRODUCE.md) has every source, step, the software and
-what an AI model did (it wrote the build tools; it wrote no legal text and no model runs at build time).
-[`corpus.json`](corpus.json) describes the corpus for global-law.
+`tools/check_repo.py` čita svaku verziju natrag iz gita na dan njezina stupanja na snagu i uspoređuje je sa službenom
+stranicom, datoteku po datoteku i riječ po riječ; `tools/test_repo.py` izvršava gore navedene naredbe. `tools/build.py`
+piše repozitorij iz pohranjenih službenih stranica i daje iste hasheve. [`REPRODUCE.md`](REPRODUCE.md) sadrži svaki
+izvor i korak, softver i ono što je učinio model umjetne inteligencije (napisao je alate za izradu; nije napisao nikakav
+pravni tekst i nijedan se model ne pokreće pri izradi). [`corpus.json`](corpus.json) opisuje korpus za global-law.
+
+Ovo je prijevod engleske verzije ([README.en.md](README.en.md)); ako se razlikuju, mjerodavna je engleska verzija.
+
+## Više
+
+Iz repozitorija [lexifina/global-law](https://github.com/lexifina/global-law) (na engleskom):
+
+- [FEATURES.md](https://github.com/lexifina/global-law/blob/main/FEATURES.md): sve funkcije i što svaki korpus mora podržavati (`git blame`, `law.py`, MCP alati)
+- [FAQ.md](https://github.com/lexifina/global-law/blob/main/FAQ.md): pitanja i odgovori · [CONTRIBUTING.md](https://github.com/lexifina/global-law/blob/main/CONTRIBUTING.md): predlaganje izmjena · [MCP.md](https://github.com/lexifina/global-law/blob/main/MCP.md): MCP poslužitelj · [REPRODUCE.md](https://github.com/lexifina/global-law/blob/main/REPRODUCE.md): kako je izrađen · [CHANGELOG.md](https://github.com/lexifina/global-law/blob/main/CHANGELOG.md)
+- [FRESHNESS.md](https://github.com/lexifina/global-law/blob/main/FRESHNESS.md): koliko je ažuran svaki korpus · [Praćenje](https://github.com/lexifina/global-law/tree/main/monitoring): rade li ažuriranja · [WATCHING.md](https://github.com/lexifina/global-law/blob/main/WATCHING.md): kako se svaki službeni izvor prati zbog izmjena
+- [performance/](https://github.com/lexifina/global-law/tree/main/performance): koliko su alati brzi, izmjereno
+- [visualisations/](https://github.com/lexifina/global-law/tree/main/visualisations): grafikoni i veze kroz pravo cijelog svijeta
+- [Ranjivosti](https://github.com/lexifina/global-law/tree/main/vulnerabilities): pogreške u propisima onako kako su objavljeni
