@@ -89,7 +89,7 @@ Provjereno prema službenim izvorima: 2026-11-11; 100 % akata provjereno u poslj
 
 ## Licencija
 
-Vidi [`LICENSE`](LICENSE). Opći uvjeti korištenja Narodnih novina kažu da se njihov sadržaj smije koristiti samo pod uvjetima propisanima zakonom i ne daju dozvolu za ponovnu objavu; `registry/REPRODUCE.md` oslanja se na Zakon o autorskom pravu i srodnim pravima (ZAPSP, čl. 8.), prema kojem službeni tekstovi nisu zaštićeni. `LICENSE` ne daje nikakvu licenciju za tekst propisa, povijest ni alate dok se to pitanje ne riješi.
+Vidi [`LICENSE`](LICENSE). Opći uvjeti korištenja Narodnih novina kažu da se njihov sadržaj smije koristiti samo pod uvjetima propisanima zakonom i ne daju dozvolu za ponovnu objavu; `registry/REPRODUCE.md` oslanja se na Zakon o autorskom pravu i srodnim pravima (ZAPSP, čl. 18. st. 3.), prema kojem službeni tekstovi nisu zaštićeni. `LICENSE` ne daje nikakvu licenciju za tekst propisa, povijest ni alate dok se to pitanje ne riješi.
 
 Nijedan model umjetne inteligencije nije pisao ni mijenjao tekst propisa; skripte je napisao model umjetne inteligencije (vidi [`REPRODUCE.md`](REPRODUCE.md) i [`registry/REPRODUCE.md`](registry/REPRODUCE.md)).
 
