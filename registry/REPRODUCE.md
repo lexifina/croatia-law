@@ -6,11 +6,11 @@ This file is written by the build on 2026-11-11, the day the source data was ret
 
 | Source | Address | Retrieved | Licence |
 | --- | --- | --- | --- |
-| Narodne novine, službeni dio (narodne-novine.nn.hr) | <https://narodne-novine.nn.hr> | 2026-11-04 | Official texts; not protected by copyright (ZAPSP čl. 8) |
-| Narodne novine, službeni dio (narodne-novine.nn.hr) | <https://narodne-novine.nn.hr> | 2026-11-11 | Official texts; not protected by copyright (ZAPSP čl. 8) |
-| Narodne novine, službeni dio (narodne-novine.nn.hr) | <https://narodne-novine.nn.hr> | None | Official texts; not protected by copyright (ZAPSP čl. 8) |
-| Narodne novine, međunarodni ugovori (narodne-novine.nn.hr) | <https://narodne-novine.nn.hr> | 2026-11-11 | Official texts; not protected by copyright (ZAPSP čl. 8) |
-| Narodne novine, službeni dio (narodne-novine.nn.hr) | <https://narodne-novine.nn.hr> | 2026-11-09 | Official texts; not protected by copyright (ZAPSP čl. 8) |
+| Narodne novine, službeni dio (narodne-novine.nn.hr) | <https://narodne-novine.nn.hr> | 2026-11-04 | Official texts; not protected by copyright (ZAPSP čl. 18. st. 3.) |
+| Narodne novine, službeni dio (narodne-novine.nn.hr) | <https://narodne-novine.nn.hr> | 2026-11-11 | Official texts; not protected by copyright (ZAPSP čl. 18. st. 3.) |
+| Narodne novine, službeni dio (narodne-novine.nn.hr) | <https://narodne-novine.nn.hr> | None | Official texts; not protected by copyright (ZAPSP čl. 18. st. 3.) |
+| Narodne novine, međunarodni ugovori (narodne-novine.nn.hr) | <https://narodne-novine.nn.hr> | 2026-11-11 | Official texts; not protected by copyright (ZAPSP čl. 18. st. 3.) |
+| Narodne novine, službeni dio (narodne-novine.nn.hr) | <https://narodne-novine.nn.hr> | 2026-11-09 | Official texts; not protected by copyright (ZAPSP čl. 18. st. 3.) |
 
 Every word of law in this repository comes from these sources. Lexifina reads them and records each act's dated versions, and the laws that made each change, in one corpus file. This repository is built from that file.
 

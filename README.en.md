@@ -91,7 +91,7 @@ Checked against the official sources: 2026-11-11; 100% of acts verified in the l
 
 ## Licence
 
-See [`LICENSE`](LICENSE). Narodne novine's terms of use say its content may be used only under the conditions the law prescribes and give no licence to republish it; `registry/REPRODUCE.md` relies on the Copyright Act (ZAPSP, čl. 8), under which official texts are not protected. `LICENSE` grants no licence for the law text, the history or the tools until that question is settled.
+See [`LICENSE`](LICENSE). Narodne novine's terms of use say its content may be used only under the conditions the law prescribes and give no licence to republish it; `registry/REPRODUCE.md` relies on the Copyright Act (ZAPSP, čl. 18. st. 3.), under which official texts are not protected. `LICENSE` grants no licence for the law text, the history or the tools until that question is settled.
 
 No AI model wrote or changed legal text; the scripts were written by an AI model (see [`REPRODUCE.md`](REPRODUCE.md) and [`registry/REPRODUCE.md`](registry/REPRODUCE.md)).
 
