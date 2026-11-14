@@ -59,9 +59,7 @@ Prva verzija svakog akta pripisana je samom aktu (`Zakon o Hrvatskoj radio-telev
 
 ## Koliko je ažurno
 
-<!-- freshness-summary -->
 Provjereno prema službenim izvorima: 2026-11-11; 100 % akata provjereno u posljednjih 7 dana, 100 % u posljednjih 30 ([data/freshness.json](data/freshness.json)).
-<!-- /freshness-summary -->
 
 - `python tools/freshness.py <act>`: status akta, njegova posljednja provjera prema Narodnim novinama i službena poveznica
 - [data/status.json](data/status.json): rade li ažuriranja i kada su Narodne novine posljednji put odgovorile
