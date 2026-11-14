@@ -42,7 +42,7 @@ Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git h
 | [registry/ACTS.md](registry/ACTS.md) · [registry/data/](registry/data/) | the act list, and the act tables ([registry/data/acts.json](registry/data/acts.json): kind, number, status, `amended_by`, official page) |
 | `data/` · `tools/` | freshness, status and held/pending lists · the tools below |
 
-## Use it
+## Questions as git commands
 
 | Question | Command |
 | --- | --- |
@@ -53,6 +53,14 @@ Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git h
 | Is an act here current? | `python tools/freshness.py pravilnik-2024-100` |
 
 Read dates with the tools, not `git rev-list --before`: they pick each version by its `In-force:` trailer.
+
+**Or ask in plain words.** The same record is free to use without git, an account or a key:
+
+- **[Ask Claude about Croatian law](https://global-law.lexifina.com/v1/try_claude?country=croatia&q=what%20does%20the%20Labour%20Act%20%28Zakon%20o%20radu%29%20say%20about%20annual%20leave%20%28godi%C5%A1nji%20odmor%29%20in%20the%20latest%20version%20the%20record%20holds%2C%20and%20how%20did%20its%20%C4%8Dlanak%2077%20change%3F%20Quote%20the%20words%20of%20the%20law%2C%20name%20the%20law%20behind%20each%20change%20with%20the%20day%20it%20took%20effect%2C%20and%20cite%20the%20official%20publisher%27s%20page.)**: one click opens Claude with a first question ready (annual leave in the Labour Act, and how it changed).
+- **[Ask ChatGPT](https://global-law.lexifina.com/v1/try_chatgpt?country=croatia&q=what%20does%20the%20Labour%20Act%20%28Zakon%20o%20radu%29%20say%20about%20annual%20leave%20%28godi%C5%A1nji%20odmor%29%20in%20the%20latest%20version%20the%20record%20holds%2C%20and%20how%20did%20its%20%C4%8Dlanak%2077%20change%3F%20Quote%20the%20words%20of%20the%20law%2C%20name%20the%20law%20behind%20each%20change%20with%20the%20day%20it%20took%20effect%2C%20and%20cite%20the%20official%20publisher%27s%20page.)**: the same question in ChatGPT.
+- **[Call the API in your browser](https://global-law.lexifina.com/v1/search_law?query=godi%C5%A1nji+odmor&jurisdictions=croatia)**: Croatian law searched for "godišnji odmor", answered as JSON. No key for 5 calls a minute; [every tool](https://global-law.lexifina.com/v1), [keys and documentation](https://lexifina.com/api).
+
+The assistants read it through the free Global law connector (MCP, `https://global-law.lexifina.com/mcp`); the first time, the chat gives the link that adds it. In Claude, choose "Always allow" so that each look-up is not asked about. Ask in Croatian or in English.
 
 ## How current is it
 

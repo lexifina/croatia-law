@@ -40,7 +40,7 @@ Dio repozitorija [lexifina/global-law](https://github.com/lexifina/global-law), 
 | [registry/ACTS.md](registry/ACTS.md) · [registry/data/](registry/data/) | popis akata i tablice akata ([registry/data/acts.json](registry/data/acts.json): vrsta, broj, status, `amended_by`, službena stranica) |
 | `data/` · `tools/` | ažurnost, status i popisi zadržanih akata i akata koji još nisu na snazi · alati navedeni niže |
 
-## Upotreba
+## Pitanja kao git naredbe
 
 | Pitanje | Naredba |
 | --- | --- |
@@ -51,6 +51,14 @@ Dio repozitorija [lexifina/global-law](https://github.com/lexifina/global-law), 
 | Je li akt u repozitoriju ažuran? | `python tools/freshness.py pravilnik-2024-100` |
 
 Datume čitajte pomoću alata, a ne s `git rev-list --before`: alati svaku verziju biraju prema njezinu traileru `In-force:`.
+
+**Ili pitajte običnim riječima.** Isti su podaci besplatni i bez gita, računa ili ključa:
+
+- **[Pitajte Claude o hrvatskom pravu](https://global-law.lexifina.com/v1/try_claude?country=croatia&q=what%20does%20the%20Labour%20Act%20%28Zakon%20o%20radu%29%20say%20about%20annual%20leave%20%28godi%C5%A1nji%20odmor%29%20in%20the%20latest%20version%20the%20record%20holds%2C%20and%20how%20did%20its%20%C4%8Dlanak%2077%20change%3F%20Quote%20the%20words%20of%20the%20law%2C%20name%20the%20law%20behind%20each%20change%20with%20the%20day%20it%20took%20effect%2C%20and%20cite%20the%20official%20publisher%27s%20page.)**: jedan klik otvara Claude s pripremljenim prvim pitanjem (godišnji odmor u Zakonu o radu i kako se mijenjao).
+- **[Pitajte ChatGPT](https://global-law.lexifina.com/v1/try_chatgpt?country=croatia&q=what%20does%20the%20Labour%20Act%20%28Zakon%20o%20radu%29%20say%20about%20annual%20leave%20%28godi%C5%A1nji%20odmor%29%20in%20the%20latest%20version%20the%20record%20holds%2C%20and%20how%20did%20its%20%C4%8Dlanak%2077%20change%3F%20Quote%20the%20words%20of%20the%20law%2C%20name%20the%20law%20behind%20each%20change%20with%20the%20day%20it%20took%20effect%2C%20and%20cite%20the%20official%20publisher%27s%20page.)**: isto pitanje u ChatGPT-u.
+- **[Pozovite API u pregledniku](https://global-law.lexifina.com/v1/search_law?query=godi%C5%A1nji+odmor&jurisdictions=croatia)**: pretraga hrvatskih propisa za „godišnji odmor”, odgovor u JSON-u. Bez ključa 5 poziva u minuti; [svi alati](https://global-law.lexifina.com/v1), [ključevi i dokumentacija](https://lexifina.com/api).
+
+Asistenti čitaju podatke putem besplatnog konektora Global law (MCP, `https://global-law.lexifina.com/mcp`); prvi put razgovor daje poveznicu kojom se konektor dodaje. U Claudeu odaberite „Always allow” da ne potvrđujete svaki poziv. Pitajte na hrvatskom ili engleskom.
 
 ## Koliko je ažurno
 
