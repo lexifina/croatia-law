@@ -71,6 +71,7 @@ Provjereno prema službenim izvorima: 2026-11-11; 100 % akata provjereno u poslj
 - Ustav: `tools/check_repo.py` čita svaku verziju natrag iz gita i uspoređuje je sa službenom stranicom Narodnih novina, datoteku po datoteku i riječ po riječ; druga izrada dala je iste hasheve ([`REPRODUCE.md`](REPRODUCE.md)).
 - Verzije svih drugih akata navode stranicu Narodnih novina s koje su pročitane (`Source:`); `registry/tools/build/check_repo.py` čita svaku verziju natrag iz gita i uspoređuje je s korpusom iz kojeg je izrađena ([`registry/REPRODUCE.md`](registry/REPRODUCE.md)).
 - Svaki se akt provjerava prema svemu što su Narodne novine objavile nakon njega, tražeći akte koji ga mijenjaju, ukidaju, zamjenjuju ili citiraju ([data/freshness.json](data/freshness.json)).
+- [vulnerabilities/](vulnerabilities/): moguće pogreške u hrvatskim propisima, koje su pronašli detektori iz global-lawa i koje su ručno provjerene.
 
 ## Što ne prikazuje
 

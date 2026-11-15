@@ -69,6 +69,7 @@ Each act's first version is credited to the act itself (`Zakon o Hrvatskoj radio
 - The Constitution: `tools/check_repo.py` reads every version back from git and compares it with the official Narodne novine page, file by file and word for word; a second build gave the same hashes ([`REPRODUCE.md`](REPRODUCE.md)).
 - Every other act's versions name the Narodne novine page they were read from (`Source:`); `registry/tools/build/check_repo.py` reads every version back from git and compares it with the corpus it was built from ([`registry/REPRODUCE.md`](registry/REPRODUCE.md)).
 - Every act is checked against everything Narodne novine has published since it, for the acts that amend, repeal, replace or cite it ([data/freshness.json](data/freshness.json)).
+- [vulnerabilities/](vulnerabilities/README.en.md): possible drafting mistakes in Croatian law, found by global-law's detectors and checked by hand.
 
 ## What it does not show
 
