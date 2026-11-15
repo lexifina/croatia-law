@@ -13,7 +13,7 @@ Dio projekta [lexifina/global-law](https://github.com/lexifina/global-law), jedi
 
 **Što sadrži sada:** Ustav sa svim promjenama od 1990.; 34.153 akta službenog dijela Narodnih novina od 1990. (3.200 zakona, 3.881 uredbu Vlade, 14.833 odluke, 10.386 pravilnika te 1.853 naredbe, naputka, upute i statuta), od toga 7.121 akt kojim se mijenja drugi akt, s 34.633 verzije; još 754 zakona onako kako su prvi put objavljeni, iz ranije izrade; 1.141 odluku Ustavnog suda; 1.175 međunarodnih ugovora; 122 kolektivna ugovora; 70 deklaracija, rezolucija i zaključaka Hrvatskoga sabora; i 129 službenih rezultata izbora. [`PLAN.md`](PLAN.md) navodi sve dijelove koje ovaj repozitorij treba sadržavati i dokle se stiglo sa svakim; [`registry/ACTS.md`](registry/ACTS.md) navodi akte po vrsti, a [`data/zakoni.json`](data/zakoni.json) zakone iz ranije izrade.
 
-Svaki je akt u `<vrsta>/<godina>/<broj dokumenta>/`, prema prvoj objavi u Narodnim novinama (`zakon/2022/2343/` je Zakon o izmjenama i dopunama Zakona o radu, NN 151/2022); Ustav je u [`ustav/`](ustav/), a zakoni iz ranije izrade u `zakoni/<naziv>/` (`zakoni/zakon-o-radu/` je Zakon o radu, NN 93/2014). `registry/data/paths.json` povezuje id svakog akta s njegovom mapom.
+Svaki je akt u `<vrsta>/<godina>/<broj dokumenta>/`, prema prvoj objavi u Narodnim novinama (`zakon/2022/2343/` je Zakon o izmjenama i dopunama Zakona o radu, NN 151/2022); Ustav je u [`ustav/`](ustav/); zakoni iz ranije izrade također su u `zakon/<godina>/<broj dokumenta>/` (`zakon/2014/1872/` je Zakon o radu, NN 93/2014), a [`data/zakoni.json`](data/zakoni.json) navodi mapu svakoga. Deklaracije, rezolucije, zaključci i povelje Hrvatskoga sabora su u `deklaracija/`, `rezolucija/`, `zakljucak/` i `povelja/`, propisi HANFA-e u svojoj vrsti (`odluka/`, `uputa/`, `smjernice/`) kao `<godina>/hanfa-<id>/`, a sva sudska praksa u [`caselaw/`](caselaw/): odluke Ustavnog suda u `caselaw/ustavni-sud/<godina>/<predmet>/`, ostali sudovi u `caselaw/<sud>/<godina>/[<mjesec>/]<predmet>/`. `registry/data/paths.json` povezuje id svakog akta s njegovom mapom.
 
 Tekst je na hrvatskom, onako kako ga tiskaju Narodne novine. Prijevod na engleski nije dio ovog zapisa.
 
@@ -96,6 +96,10 @@ Vidi [`LICENSE`](LICENSE). Opći uvjeti korištenja Narodnih novina kažu da se 
 Nijedan model umjetne inteligencije nije pisao ni mijenjao tekst propisa; skripte je napisao model umjetne inteligencije (vidi [`REPRODUCE.md`](REPRODUCE.md) i [`registry/REPRODUCE.md`](registry/REPRODUCE.md)).
 
 Ovo je prijevod engleske verzije ([README.en.md](README.en.md)); ako se razlikuju, mjerodavna je engleska verzija.
+
+## Vizualizacije
+
+[visualisations/](visualisations/): grafikoni o hrvatskom pravu, nacrtani iz ovog repozitorija. Zasad je to rezervirano mjesto: grafikoni još nisu nacrtani.
 
 ## Više
 

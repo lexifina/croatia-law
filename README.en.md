@@ -13,7 +13,7 @@ Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git h
 
 **What is in it now:** the Constitution with every change since 1990; 34,153 acts of the official part of Narodne novine since 1990 (3,200 laws, 3,881 Government decrees, 14,833 decisions, 10,386 rules and 1,853 orders, instructions and statutes), 7,121 of them amending acts, with 34,633 versions; 754 more laws as first published, from an earlier build; 1,141 Constitutional Court decisions; 1,175 international treaties; 122 collective agreements; 70 declarations, resolutions and conclusions of the Sabor; and 129 official election results. [`PLAN.md`](PLAN.md) lists every part this repository is meant to hold and how far each one is; [`registry/ACTS.md`](registry/ACTS.md) lists the acts by kind, and [`data/zakoni.json`](data/zakoni.json) the laws of the earlier build.
 
-Each act is in `<kind>/<year>/<document number>/`, from its first publication in Narodne novine (`zakon/2022/2343/` is the Zakon o izmjenama i dopunama Zakona o radu, NN 151/2022); the Constitution is in [`ustav/`](ustav/) and the laws of the earlier build in `zakoni/<name>/` (`zakoni/zakon-o-radu/` is the Zakon o radu, the Labour Act, NN 93/2014). `registry/data/paths.json` maps each act id to its folder.
+Each act is in `<kind>/<year>/<document number>/`, from its first publication in Narodne novine (`zakon/2022/2343/` is the Zakon o izmjenama i dopunama Zakona o radu, NN 151/2022); the Constitution is in [`ustav/`](ustav/); the laws of the earlier build are also in `zakon/<year>/<document number>/` (`zakon/2014/1872/` is the Zakon o radu, the Labour Act, NN 93/2014), and [`data/zakoni.json`](data/zakoni.json) gives each one's folder. The Sabor's declarations, resolutions, conclusions and charters are in `deklaracija/`, `rezolucija/`, `zakljucak/` and `povelja/`, HANFA's rules in their kind (`odluka/`, `uputa/`, `smjernice/`) as `<year>/hanfa-<id>/`, and all case law is in [`caselaw/`](caselaw/): Constitutional Court decisions in `caselaw/ustavni-sud/<year>/<case>/`, the other courts in `caselaw/<court>/<year>/[<month>/]<case>/`. `registry/data/paths.json` maps each act id to its folder.
 
 The text is in Croatian, as Narodne novine prints it. An English translation is not part of this record.
 
@@ -92,6 +92,10 @@ Each act's first version is credited to the act itself (`Zakon o Hrvatskoj radio
 See [`LICENSE`](LICENSE). Narodne novine's terms of use say its content may be used only under the conditions the law prescribes and give no licence to republish it; `registry/REPRODUCE.md` relies on the Copyright Act (ZAPSP, čl. 18. st. 3.), under which official texts are not protected. `LICENSE` grants no licence for the law text, the history or the tools until that question is settled.
 
 No AI model wrote or changed legal text; the scripts were written by an AI model (see [`REPRODUCE.md`](REPRODUCE.md) and [`registry/REPRODUCE.md`](registry/REPRODUCE.md)).
+
+## Visualisations
+
+[visualisations/](visualisations/): charts on Croatian law, drawn from this repository. For now this is a placeholder: the charts have not been drawn yet.
 
 ## More
 

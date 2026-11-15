@@ -8,7 +8,7 @@ This is the plan for this repository, part by part, with what is published so fa
 | --- | --- | ---: | --- | --- | --- |
 | **Primary legislation** | | | | | |
 | Constitution | ustav/ | 7.1% | 1 of 1 constitution · 100.0% | every version, from the official consolidated texts | done |
-| Laws, decrees and Government decisions with full history | zakoni/, zakon/, uredba/, odluka/ | 42.7% | 15,284 of 22,668 acts · 67.4% | the official text as published plus every change applied (official consolidated texts where published) | collecting |
+| Laws, decrees and Government decisions with full history | zakon/, uredba/, odluka/ | 42.7% | 15,284 of 22,668 acts · 67.4% | the official text as published plus every change applied (official consolidated texts where published) | collecting |
 | Amended, not consolidated (laws and secondary acts) | the same folders, status "amended, not consolidated" | in the laws bin | 12,372 of 12,372 acts · 100.0% | the official text as published, labelled, with the amending acts named | done |
 | **Secondary legislation** | | | | | |
 | Rules, orders and instructions with full history | pravilnik/, naredba/, naputak/, uputa/, statut/ | 25.6% | 7,251 of 12,239 acts · 59.2% | official texts as published, with the documents that amend them | collecting |
@@ -18,7 +18,7 @@ This is the plan for this repository, part by part, with what is published so fa
 | Local acts: cities (gradovi) | local/<city>/ | 1.0% | 0 of 127 units · 0.0% | each unit's official gazette (službeni glasnik / službene novine) | planned |
 | Local acts: municipalities (općine) | local/<municipality>/ | 0.4% | 0 of 428 units · 0.0% | each unit's official gazette (službeni glasnik / službene novine) | planned |
 | **Case law** | | | | | |
-| Constitutional Court decisions | ustavni-sud/ | 13.5% | 1,141 decisions · target unknown | decisions on laws and regulations as published in Narodne novine; rulings dated on the articles they strike | collecting |
+| Constitutional Court decisions | caselaw/ustavni-sud/ | 13.5% | 1,141 decisions · target unknown | decisions on laws and regulations as published in Narodne novine; rulings dated on the articles they strike | collecting |
 | **International** | | | | | |
 | International treaties | medunarodni/ | 2.8% | target unknown | Narodne novine's international part (Međunarodni ugovori), linked from the ratifying acts | planned |
 | **Historical law** | | | | | |

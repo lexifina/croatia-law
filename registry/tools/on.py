@@ -48,23 +48,42 @@ def paths() -> dict[str, str]:
     """{act id: folder} from data/paths.json on main ({} before the layout move)."""
     global _PATHS
     if _PATHS is None:
-        try:
-            _PATHS = json.loads(git('show', 'main:data/paths.json')).get('paths', {})
-        except (subprocess.CalledProcessError, ValueError):
-            _PATHS = {}
+        _PATHS = {}
+        for f in ('data/paths.json', 'registry/data/paths.json'):
+            try:
+                _PATHS = json.loads(git('show', f'main:{f}')).get('paths', {})
+                break
+            except (subprocess.CalledProcessError, ValueError):
+                pass
     return _PATHS
 
 
+_MOVED = None
+
+
+def moved() -> dict[str, str]:
+    """{folder now: folder before} for acts a later layout commit moved (registry/data/moves.json on main)."""
+    global _MOVED
+    if _MOVED is None:
+        try:
+            _MOVED = json.loads(git('show', 'main:registry/data/moves.json')).get('moves', {})
+        except (subprocess.CalledProcessError, ValueError):
+            _MOVED = {}
+    return _MOVED
+
+
 def folders(act: str) -> list[str]:
-    """Every folder an act has had: its folder now, then its id (its folder before the layout move)."""
+    """Every folder an act has had: its folder now, then its id (its folder before the layout move), then any folder a
+    later layout commit moved it from."""
     act = act.strip('/')
     p = paths()
     if act in p:
-        return list(dict.fromkeys([p[act], act]))
-    back = {v: k for k, v in p.items()}
-    if act in back:
-        return [act, back[act]]
-    return [act]
+        out = [p[act], act]
+    else:
+        back = {v: k for k, v in p.items()}
+        out = [act, back[act]] if act in back else [act]
+    m = moved()
+    return list(dict.fromkeys(out + [m[f] for f in out if f in m]))
 
 
 def variants(path: str) -> list[str]:
@@ -74,8 +93,21 @@ def variants(path: str) -> list[str]:
         for root in (folder, act):
             if path == root or path.startswith(root + '/'):
                 rest = path[len(root):]
-                return list(dict.fromkeys([folder + rest, act + rest]))
-    return [path]
+                out = [folder + rest, act + rest]
+                break
+        else:
+            continue
+        break
+    else:
+        out = [path]
+    m = moved()
+    parts = path.split('/')
+    for i in range(len(parts) - 1, 0, -1):
+        root = '/'.join(parts[:i])
+        if root in m:
+            out.append(m[root] + path[len(root):])
+            break
+    return list(dict.fromkeys(out))
 
 
 def history(branch: str, *targets: str) -> list[tuple[str, str, str]]:
