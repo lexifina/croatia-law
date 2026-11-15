@@ -32,7 +32,8 @@ Any other act on a date: `python registry/tools/on.py 2025-06-01 zakon/2022/2343
 
 - **[Ask Claude about Croatian law](https://global-law.lexifina.com/v1/try_claude?country=croatia)**: opens Claude with a first question ready.
 - **[Ask ChatGPT](https://global-law.lexifina.com/v1/try_chatgpt?country=croatia)**: the same question in ChatGPT.
-- **[Call the API in your browser](https://global-law.lexifina.com/v1/search_law?query=godi%C5%A1nji+odmor&jurisdictions=croatia)**: a search of Croatian law for "godišnji odmor", returned as JSON. See the [documentation here](https://lexifina.com/api/global-law).
+- **[Search Croatian law on our site](https://lexifina.com/law?country=croatia&q=godi%C5%A1nji+odmor)**: a search for "godišnji odmor", with each provision's text and its versions, no account needed.
+- **[Developer REST API](https://global-law.lexifina.com/v1/search_law?query=godi%C5%A1nji+odmor&jurisdiction=croatia)**: the same search as JSON, with no key. See the [documentation here](https://lexifina.com/api/global-law).
 
 Both assistants read the record through the free Global law connector (MCP, `https://global-law.lexifina.com/mcp`); the first time, the chat gives you the link that adds it. Ask in Croatian or in English.
 
