@@ -1,9 +1,10 @@
 category,category_hr,flags,in_law_texts,model_reviewed,candidate_defects,survive_rebuttal
-Lapsed time limits,Istekli rokovi,18210,15597,116,1,0
+Lapsed time limits,Istekli rokovi,18210,15597,136,2,1
 Repeal gaps,Praznine nakon ukidanja,3,3,3,1,1
 Retroactive or pre-publication dates,Stupanje na snagu prije objave,3765,3765,40,5,3
 Empty periods,Prazna razdoblja,1,1,1,1,1
 References to deleted provisions,Upućivanja na brisane odredbe,4,4,4,1,1
+References to repealed placeholders,Upućivanja na odredbe „brisan”,9,9,0,0,0
 Duplicate numbering,Dvostruko numeriranje,10,10,0,0,0
-Dead currencies,Nevažeće valute,9252,2739,0,0,0
+Dead currencies,Nevažeće valute,9040,2635,0,0,0
 Publisher notes,Napomene izdavača,5,5,0,0,0
