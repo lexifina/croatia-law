@@ -1,0 +1,33 @@
+{
+  "issue": "NN 81/2015",
+  "number": "1548",
+  "title": "Zakon o vlasništvu i drugim stvarnim pravima (pročišćeni tekst)",
+  "kind": "pročišćeni tekst",
+  "subkind": "-",
+  "status": "cjeloviti akt",
+  "issuer": "ODBOR ZA ZAKONODAVSTVO",
+  "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2015/81/1548",
+  "year": 2015,
+  "issue_id": "81",
+  "path": "zakon/2015/1548",
+  "published": "2015-07-22",
+  "publication_basis": "ELI date_publication: 2015-07-22",
+  "enacted": "2015-07-14",
+  "source_sha256": "d471a61215428e3673d72644d7d3d1fffbcafd7b036d407f55bcd5ca6e3ccba7",
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0,
+  "source_word_tokens": 57912,
+  "in_force": "2014-12-30",
+  "in_force_basis": "consolidated text dated to its latest amendment: Zakon o izmjeni Zakona o vlasništvu i drugim stvarnim pravima (NN 152/2014, https://narodne-novine.nn.hr/eli/sluzbeni/2014/152/2857): osmoga dana od objave; Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.",
+  "kind_label": "consolidated",
+  "amendments_read": [
+    "https://narodne-novine.nn.hr/eli/sluzbeni/2001/114/1883",
+    "https://narodne-novine.nn.hr/eli/sluzbeni/2006/141/3195",
+    "https://narodne-novine.nn.hr/eli/sluzbeni/2008/146/4021",
+    "https://narodne-novine.nn.hr/eli/sluzbeni/2009/153/3751",
+    "https://narodne-novine.nn.hr/eli/sluzbeni/2012/143/3034",
+    "https://narodne-novine.nn.hr/eli/sluzbeni/2014/152/2857"
+  ],
+  "completeness": "official consolidated text (pročišćeni tekst) of the Committee on Legislation of the Croatian Parliament, as published; later changes not included"
+}

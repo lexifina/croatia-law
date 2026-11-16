@@ -1,0 +1,32 @@
+{
+  "issue": "NN 148/2011",
+  "number": "2993",
+  "title": "Zakon o parničnom postupku (pročišćeni tekst)",
+  "kind": "pročišćeni tekst",
+  "subkind": "-",
+  "status": "cjeloviti akt",
+  "issuer": "Odbor za zakonodavstvo Hrvatskoga sabora",
+  "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/148/2993",
+  "year": 2011,
+  "issue_id": "148",
+  "path": "zakon/2011/2993",
+  "published": "2011-12-20",
+  "publication_basis": "NN 148/2011 (20.12.2011.)",
+  "enacted": null,
+  "source_sha256": "fd8ec8680312e4fb40d2f1fbbcb515ebb5217482a9a12037e820d7aa8ea46806",
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0,
+  "source_word_tokens": 82560,
+  "in_force": "2011-06-02",
+  "in_force_basis": "consolidated text dated to its latest amendment: Zakon o izmjenama i dopunama Zakona o parničnom postupku (NN 57/2011, https://narodne-novine.nn.hr/eli/sluzbeni/2011/57/1260): osmoga dana od objave exceptions; Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«, osim odredbi članka 14., članka 29. u dijelu koji se odnosi na Europski sud i članka 49. koje stupaju na snagu na dan prijama Republike Hrvatske u Europsku uniju.",
+  "kind_label": "consolidated",
+  "amendments_read": [
+    "https://narodne-novine.nn.hr/eli/sluzbeni/1992/91/2357",
+    "https://narodne-novine.nn.hr/eli/sluzbeni/1999/112/1823",
+    "https://narodne-novine.nn.hr/eli/sluzbeni/2003/117/1639",
+    "https://narodne-novine.nn.hr/eli/sluzbeni/2008/84/2720",
+    "https://narodne-novine.nn.hr/eli/sluzbeni/2011/57/1260"
+  ],
+  "completeness": "official consolidated text (pročišćeni tekst) of the Committee on Legislation of the Croatian Parliament, as published; later changes not included"
+}
