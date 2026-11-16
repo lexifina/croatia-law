@@ -1,0 +1,1405 @@
+<!doctype html>
+<html lang="hr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Hrvatsko pravo u 20 grafikona</title>
+<meta name="description" content="Dvadeset grafikona o hrvatskom pravu iz repozitorija croatia-law / Twenty charts on Croatian law from the croatia-law repository">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Source+Serif+4:opsz,wght@8..60,500;8..60,600&display=swap" rel="stylesheet">
+<script src="https://cdnjs.cloudflare.com/ajax/libs/d3/7.8.5/d3.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/topojson-client@3.1.0/dist/topojson-client.min.js"></script>
+<style>
+:root {
+  color-scheme: light;
+  --bg: #f7f6f3; --surface: #fcfcfb; --surface-2: #f1f0ec; --line: #e4e2dc; --grid: #ebe9e4;
+  --text: #0b0b0b; --text-2: #52514e; --text-3: #7a7974; --accent: #2a78d6;
+  --s1: #2a78d6; --s2: #eb6834; --s3: #1baf7a; --s4: #eda100; --s5: #e87ba4; --s6: #008300; --s7: #6250d6; --s8: #e34948;
+  --muted-mark: #b9b7b0;
+  --seq-lo: #eef4fc; --seq-hi: #0d366b;
+  --sea: #e8f0f7; --land: #e9e8e2; --hr-land: #fdfdfc;
+  --sans: Inter, system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+  --serif: "Source Serif 4", Georgia, serif;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    color-scheme: dark;
+    --bg: #131312; --surface: #1a1a19; --surface-2: #222220; --line: #33322f; --grid: #2a2a28;
+    --text: #f0efec; --text-2: #c3c2b7; --text-3: #8f8e86; --accent: #3987e5;
+    --s1: #3987e5; --s2: #d95926; --s3: #199e70; --s4: #c98500; --s5: #d55181; --s6: #0ca30c; --s7: #9085e9; --s8: #e66767;
+    --muted-mark: #55544f;
+    --seq-lo: #1f2a38; --seq-hi: #9ec5f4;
+    --sea: #15202a; --land: #1e1e1c; --hr-land: #34342f;
+  }
+}
+:root[data-theme="dark"] {
+  color-scheme: dark;
+  --bg: #131312; --surface: #1a1a19; --surface-2: #222220; --line: #33322f; --grid: #2a2a28;
+  --text: #f0efec; --text-2: #c3c2b7; --text-3: #8f8e86; --accent: #3987e5;
+  --s1: #3987e5; --s2: #d95926; --s3: #199e70; --s4: #c98500; --s5: #d55181; --s6: #0ca30c; --s7: #9085e9; --s8: #e66767;
+  --muted-mark: #55544f;
+  --seq-lo: #1f2a38; --seq-hi: #9ec5f4;
+  --sea: #15202a; --land: #1e1e1c; --hr-land: #34342f;
+}
+* { box-sizing: border-box; }
+html { -webkit-text-size-adjust: 100%; }
+body { margin: 0; background: var(--bg); color: var(--text); font: 15px/1.6 var(--sans); }
+a { color: var(--accent); }
+.wrap { max-width: 1040px; margin: 0 auto; padding: 0 16px; }
+header.top { padding: 28px 0 8px; }
+.bar { display: flex; justify-content: flex-end; align-items: center; gap: 12px; flex-wrap: wrap; margin-bottom: 18px; }
+.toggles { display: inline-flex; gap: 8px; flex-wrap: wrap; justify-content: flex-end; }
+.seg { display: inline-flex; border: 1px solid var(--line); border-radius: 999px; padding: 2px; background: var(--surface); }
+.seg button { border: 0; background: transparent; color: var(--text-2); font: 500 13px/1 var(--sans); padding: 7px 12px; border-radius: 999px; cursor: pointer; min-height: 30px; }
+.seg button[aria-pressed="true"] { background: var(--text); color: var(--surface); }
+.seg button:focus-visible { outline: 2px solid var(--accent); outline-offset: 1px; }
+h1 { font: 600 clamp(28px, 5vw, 44px)/1.2 var(--serif); margin: 0 0 14px; letter-spacing: -.01em; }
+.lede { font-size: 17px; color: var(--text-2); max-width: 780px; margin: 0 0 8px; }
+.tiles { display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 10px; margin: 26px 0 10px; }
+.tile { background: var(--surface); border: 1px solid var(--line); border-radius: 12px; padding: 14px 14px 12px; }
+.tile b { display: block; font: 600 24px/1.15 var(--sans); font-variant-numeric: tabular-nums; }
+.tile span { font-size: 12px; color: var(--text-2); line-height: 1.5; display: block; margin-top: 2px; }
+details.profile { background: var(--surface); border: 1px solid var(--line); border-radius: 12px; margin: 10px 0 0; }
+details.profile > summary, details.tbl > summary { cursor: pointer; padding: 12px 14px; font-weight: 500; font-size: 14px; list-style: none; }
+details.profile > summary::-webkit-details-marker, details.tbl > summary::-webkit-details-marker { display: none; }
+details.profile > summary::before, details.tbl > summary::before { content: "▸"; display: inline-block; width: 1.1em; color: var(--text-3); transition: transform .15s; }
+details[open].profile > summary::before, details[open].tbl > summary::before { transform: rotate(90deg); }
+.scroll { overflow-x: auto; padding: 0 14px 14px; }
+table { border-collapse: collapse; width: 100%; font-size: 13px; font-variant-numeric: tabular-nums; }
+th, td { text-align: left; padding: 6px 8px; border-bottom: 1px solid var(--line); vertical-align: top; }
+th { font-weight: 600; color: var(--text-2); font-size: 12px; }
+td.n, th.n { text-align: right; white-space: nowrap; }
+code { font: 12px/1.4 ui-monospace, SFMono-Regular, Consolas, monospace; background: var(--surface-2); padding: 1px 5px; border-radius: 5px; word-break: break-all; }
+nav.toc { margin: 30px 0 10px; display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 6px 22px; font-size: 13px; }
+nav.toc a { color: var(--text-2); text-decoration: none; display: block; padding: 3px 0; line-height: 1.5; }
+nav.toc a:hover { color: var(--text); text-decoration: underline; }
+nav.toc .p { font-weight: 600; color: var(--text); margin-top: 6px; }
+section.part { padding-top: 34px; }
+section.part > h2 { font: 600 26px/1.3 var(--serif); margin: 0 0 6px; }
+section.part > p.pd { color: var(--text-2); margin: 0 0 6px; max-width: 780px; }
+figure.chart { margin: 22px 0 0; background: var(--surface); border: 1px solid var(--line); border-radius: 14px; padding: 18px 18px 6px; }
+figure.chart h3 { font: 600 19px/1.45 var(--serif); margin: 0 0 6px; }
+figure.chart h3 .no { color: var(--text-3); font-weight: 500; margin-right: .35em; }
+.dek { color: var(--text-2); margin: 0 0 12px; max-width: 840px; }
+.legend { display: flex; flex-wrap: wrap; gap: 6px 16px; font-size: 12px; color: var(--text-2); margin: 0 0 8px; line-height: 1.5; }
+.legend i { display: inline-block; width: 10px; height: 10px; border-radius: 3px; margin-right: 6px; vertical-align: -1px; }
+.legend i.dot { border-radius: 50%; }
+.legend i.ring { background: transparent !important; border: 2px solid var(--text-3); border-radius: 50%; }
+.legend i.line { height: 2px; width: 14px; border-radius: 1px; vertical-align: 3px; }
+.legend i.dash { height: 0; width: 14px; border-radius: 0; border-top: 2px dashed; background: transparent !important; vertical-align: 3px; }
+.legend i.hatch { background-image: repeating-linear-gradient(135deg, var(--muted-mark) 0 2px, transparent 2px 5px) !important; background-color: var(--surface-2) !important; }
+.legend i.outline { background: transparent !important; border: 2px solid var(--text); border-radius: 3px; }
+.plot { width: 100%; position: relative; }
+.plot svg { display: block; width: 100%; height: auto; overflow: visible; }
+.axis text, .lbl { fill: var(--text-2); font: 11px var(--sans); font-variant-numeric: tabular-nums; }
+.lbl.strong { fill: var(--text); font-weight: 500; }
+.lbl.mut { fill: var(--text-3); }
+.axis path { display: none; }
+.axis line, .grid line { stroke: var(--grid); }
+.base { stroke: var(--text-3); stroke-width: 1; }
+.note { font-size: 12px; color: var(--text-3); margin: 10px 0 4px; line-height: 1.6; }
+.note b { color: var(--text-2); font-weight: 500; }
+details.tbl { border-top: 1px solid var(--line); margin: 10px -18px 0; }
+details.tbl > summary { font-size: 12px; color: var(--text-2); padding: 10px 18px; }
+details.tbl .scroll { max-height: 360px; overflow: auto; padding: 0 18px 12px; }
+.tip { position: fixed; pointer-events: none; z-index: 10; background: var(--surface); color: var(--text); border: 1px solid var(--line); border-radius: 10px; padding: 8px 10px; font-size: 12px; line-height: 1.5; box-shadow: 0 6px 24px rgba(0,0,0,.12); max-width: 340px; opacity: 0; transition: opacity .08s; }
+.tip b { font-weight: 600; }
+.tip .r { display: flex; justify-content: space-between; gap: 14px; }
+.tip .r span:last-child { font-variant-numeric: tabular-nums; }
+.tip .sw { display: inline-block; width: 8px; height: 8px; border-radius: 2px; margin-right: 6px; }
+.tip .q { margin-top: 4px; color: var(--text-2); }
+.hit { fill: transparent; cursor: default; }
+.mini { display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 18px; }
+.mini h4 { margin: 0 0 2px; font: 600 13px/1.4 var(--sans); }
+.mini p { margin: 0 0 6px; font-size: 12px; color: var(--text-2); }
+.multi { display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 14px 18px; }
+.multi h4 { margin: 0; font: 600 13px/1.4 var(--sans); overflow-wrap: anywhere; }
+.multi p { margin: 0 0 2px; font-size: 12px; color: var(--text-2); }
+.ptiles { display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 8px; margin: 4px 0 14px; }
+.ptile { background: var(--surface-2); border-radius: 10px; padding: 10px 12px; }
+.ptile .pn { font: 500 12px/1.4 var(--sans); color: var(--text-2); overflow-wrap: anywhere; }
+.ptile .pv { font-size: 12px; color: var(--text-2); margin: 2px 0; }
+.ptile .pv b { font: 600 22px/1.15 var(--sans); color: var(--text); font-variant-numeric: tabular-nums; margin-right: 2px; }
+.ptile .ps { font-size: 12px; color: var(--text-3); line-height: 1.5; }
+.ptile .pbar { display: flex; gap: 2px; height: 6px; margin-top: 8px; border-radius: 3px; overflow: hidden; }
+.ptile .pbar i { display: block; }
+.sub { margin: 18px 0 4px; font: 600 13px/1.4 var(--sans); }
+footer { color: var(--text-3); font-size: 12px; padding: 40px 0 60px; line-height: 1.6; }
+@media (max-width: 560px) {
+  figure.chart { padding: 14px 12px 4px; border-radius: 12px; }
+  details.tbl { margin: 10px -12px 0; }
+  details.tbl > summary { padding: 10px 12px; }
+  details.tbl .scroll { padding: 0 12px 12px; }
+  .lede { font-size: 15px; }
+  .multi { grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 12px 10px; }
+  .ptiles { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+}
+@media (forced-colors: active) { .seg button[aria-pressed="true"] { outline: 2px solid CanvasText; } }
+</style>
+</head>
+<body>
+<div class="wrap">
+<header class="top">
+  <div class="bar">
+    <span class="toggles">
+      <span class="seg" role="group" aria-label="Jezik / Language"><button data-lang="hr">HR</button><button data-lang="en">EN</button></span>
+      <span class="seg" role="group" aria-label="Tema / Theme"><button data-theme-set="auto">Auto</button><button data-theme-set="light">☀</button><button data-theme-set="dark">☾</button></span>
+    </span>
+  </div>
+  <h1 data-i="title"></h1>
+  <p class="lede" data-i="lede"></p>
+  <p class="note" id="gl-link"></p>
+  <div class="tiles" id="tiles"></div>
+  <details class="profile"><summary data-i="profile_h"></summary><div class="scroll" id="profile"></div></details>
+  <nav class="toc" id="toc"></nav>
+</header>
+<main id="main"></main>
+<footer id="foot"></footer>
+</div>
+<div class="tip" id="tip" role="status" aria-live="polite"></div>
+<script>
+const DATA = /*DATA*/null;
+</script>
+<script>
+"use strict";
+const D = DATA.charts, PF = DATA.profile;
+const LANGS = ['hr', 'en'];
+let LANG = 'hr';
+try { const q = new URLSearchParams(location.search).get('lang'); if (LANGS.includes(q)) LANG = q; else { const s = localStorage.getItem('hr-viz-lang'); if (LANGS.includes(s)) LANG = s; } } catch (e) {}
+let THEME = 'auto';
+try { const tt = localStorage.getItem('hr-viz-theme'); if (tt === 'light' || tt === 'dark') THEME = tt; } catch (e) {}
+
+// ------------------------------------------------------------------ strings
+const GL = '<a href="https://github.com/lexifina/global-law/tree/main/visualisations">global-law visualisations/</a>';
+const S = {
+hr: {
+  title: 'Hrvatsko pravo u 20 grafikona',
+  lede: 'Dvadeset grafikona nacrtanih samo iz podataka ovog repozitorija: akti službenog dijela Narodnih novina od 1990. (zakoni, uredbe Vlade, pravilnici, odluke i drugi), Ustav sa svim promjenama, međunarodni ugovori, odluke Ustavnog suda kojima se ukidaju odredbe propisa, ispravci i službeni rezultati izbora.',
+  profile_h: 'Profil podataka: što je korišteno i koliko je potpuno',
+  tbl: 'Tablica s podacima', src: 'Izvor u repozitoriju', n: 'Zapisa', cover: 'Obuhvat', caveat: 'Ograničenja',
+  ds: 'Skup podataka', foot: 'Izrađeno iz repozitorija lexifina/croatia-law ({built}). Tekst propisa: Narodne novine d.d., narodne-novine.nn.hr; LICENSE ne daje nikakvu licenciju za tekst propisa, povijest ni alate dok se to pitanje ne riješi. Brojeve izračunava visualisations/src/prep.py iz povijesti gita, stabla datoteka i tablica u data/ i registry/data/; stranicu slaže build.py. Svi su grafikoni opisni: pokazuju što zapis sadrži, a ne zašto.',
+  year: 'Godina', total: 'Ukupno', share: 'Udio', count: 'Broj', partial: 'nepotpuna godina',
+  gl: 'Grafikoni o pravu svih zemalja iz cijelog global-lawa: ' + GL + '. Ovdje su samo grafikoni o Hrvatskoj.',
+},
+en: {
+  title: 'Croatian law in 20 charts',
+  lede: 'Twenty charts drawn only from the data in this repository: the acts of the official part of Narodne novine since 1990 (laws, Government decrees, rules, decisions and others), the Constitution with every change, international treaties, Constitutional Court decisions that repeal provisions, corrections, and official election results.',
+  profile_h: 'Data profile: what was used and how complete it is',
+  tbl: 'Data table', src: 'Source in the repository', n: 'Records', cover: 'Coverage', caveat: 'Limit',
+  ds: 'Dataset', foot: 'Built from the lexifina/croatia-law repository ({built}). Text of the acts: Narodne novine d.d., narodne-novine.nn.hr; LICENSE grants no licence for the law text, the history or the tools until that question is settled. The numbers are computed by visualisations/src/prep.py from the git history, the file tree and the tables in data/ and registry/data/; build.py assembles the page. All charts are descriptive: they show what the record holds, not why.',
+  year: 'Year', total: 'Total', share: 'Share', count: 'Count', partial: 'partial year',
+  gl: 'Charts on every country’s law, from the whole of global-law: ' + GL + '. These are the charts on Croatia alone.',
+}};
+const t = k => S[LANG][k];
+const L = (hr, en) => LANG === 'hr' ? hr : en;
+const LA = a => Array.isArray(a) ? L(a[0], a[1]) : a;
+const HR = () => LANG === 'hr';
+const grp = s => s.replace(/\B(?=(\d{3})+(?!\d))/g, HR() ? '.' : ',');
+const dec = (v, d = 1) => { const s = Math.abs(+v).toFixed(d); const [a, b] = s.split('.'); return (+v < 0 && +s !== 0 ? '−' : '') + grp(a) + (b ? (HR() ? ',' : '.') + b : ''); };
+const fmt = n => (n == null ? '–' : Number.isInteger(+n) ? (+n < 0 ? '−' : '') + grp(String(Math.abs(Math.round(+n)))) : dec(+n, 1));
+const pv = (v, d = 0) => dec(v, d) + (HR() ? ' %' : '%');
+const pct = (a, b, d = 0) => b ? pv(100 * a / b, d) : '–';
+// Croatian plural: 1, 21 zakon; 2–4, 22–24 zakona (few); 5–20, 25… zakona (many); decimals take the "few" form
+const pl = (n, one, few, many) => { if (!Number.isInteger(+n)) return few; const a = Math.abs(n) % 10, b = Math.abs(n) % 100; return a === 1 && b !== 11 ? one : a >= 2 && a <= 4 && (b < 12 || b > 14) ? few : many; };
+const nhr = (n, one, few, many) => `${fmt(n)} ${pl(n, one, few, many)}`;
+const nen = (n, one, many) => `${fmt(n)} ${n === 1 ? one : many}`;
+// "N acts", "N laws" … in the page's language, with the Croatian plural forms
+const NOUN = { akt: [['akt', 'akta', 'akata'], ['act', 'acts']], zakon: [['zakon', 'zakona', 'zakona'], ['law', 'laws']], odluka: [['odluka', 'odluke', 'odluka'], ['decision', 'decisions']],
+  uredba: [['uredba', 'uredbe', 'uredaba'], ['decree', 'decrees']], novi: [['novi zakon', 'nova zakona', 'novih zakona'], ['new law', 'new laws']], izmj: [['zakon o izmjenama', 'zakona o izmjenama', 'zakona o izmjenama'], ['amending law', 'amending laws']],
+  ispravak: [['ispravak', 'ispravka', 'ispravaka'], ['correction', 'corrections']], iznos: [['iznos', 'iznosa', 'iznosa'], ['amount', 'amounts']], rezultat: [['rezultat jedinice', 'rezultata jedinica', 'rezultata jedinica'], ['district result', 'district results']],
+  verzija: [['verzija', 'verzije', 'verzija'], ['version', 'versions']], drzava: [['država', 'države', 'država'], ['state', 'states']], rijec: [['riječ', 'riječi', 'riječi'], ['word', 'words']], clanak: [['članak', 'članka', 'članaka'], ['article', 'articles']],
+  ugovor: [['ugovor', 'ugovora', 'ugovora'], ['treaty', 'treaties']], izmjena: [['izmjena', 'izmjene', 'izmjena'], ['amending law', 'amending laws']] };
+const N_ = (n, k) => HR() ? nhr(n, ...NOUN[k][0]) : nen(n, ...NOUN[k][1]);
+const andHr = a => a.length < 2 ? a.join('') : a.slice(0, -1).join(', ') + ' i ' + a[a.length - 1];
+const andEn = a => a.length < 2 ? a.join('') : a.slice(0, -1).join(', ') + ' and ' + a[a.length - 1];
+const MGEN = ['siječnja', 'veljače', 'ožujka', 'travnja', 'svibnja', 'lipnja', 'srpnja', 'kolovoza', 'rujna', 'listopada', 'studenoga', 'prosinca'];
+const MNOM = ['siječanj', 'veljača', 'ožujak', 'travanj', 'svibanj', 'lipanj', 'srpanj', 'kolovoz', 'rujan', 'listopad', 'studeni', 'prosinac'];
+const MLOC = ['siječnju', 'veljači', 'ožujku', 'travnju', 'svibnju', 'lipnju', 'srpnju', 'kolovozu', 'rujnu', 'listopadu', 'studenome', 'prosincu'];
+const MEN = ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December'];
+const MSH = { hr: ['sij', 'velj', 'ožu', 'tra', 'svi', 'lip', 'srp', 'kol', 'ruj', 'lis', 'stu', 'pro'], en: ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec'] };
+const dateTxt = s => { const [y, m, d] = s.split('-').map(Number); return HR() ? `${d}. ${MGEN[m - 1]} ${y}.` : `${d} ${MEN[m - 1]} ${y}`; };
+const dateShort = s => { const [y, m, d] = s.split('-').map(Number); return HR() ? `${d}. ${m}. ${y}.` : `${d} ${MSH.en[m - 1]} ${y}`; };
+const yT = y => HR() ? `${y}.` : `${y}`;                       // a year in running text: "2013." in Croatian
+const span = (a, b) => HR() ? `${a}.–${b}.` : `${a}–${b}`;
+const css = v => getComputedStyle(document.documentElement).getPropertyValue(v).trim();
+const S8 = () => [1, 2, 3, 4, 5, 6, 7, 8].map(i => css('--s' + i));
+const esc = s => String(s).replace(/[&<>"]/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]));
+const sum = (a, f) => a.reduce((s, d) => s + (f ? f(d) : d), 0);
+const PD = s => d3.timeParse('%Y-%m-%d')(s);
+const fy = s => { const [y, m, d] = s.split('-').map(Number); return y + (m - 1) / 12 + (d - 1) / 365; };   // a date as a fractional year
+const doy = s => { const dt = PD(s); return (dt - new Date(dt.getFullYear(), 0, 1)) / 864e5; };
+const Cap = s => s.charAt(0).toUpperCase() + s.slice(1);
+const ROMAN = ['', 'I', 'II', 'III', 'IV', 'V', 'VI', 'VII', 'VIII', 'IX', 'X', 'XI', 'XII'];
+const per = p => { const a = +p, b = Math.min(a + 4, 2026); return HR() ? `${a}.–${String(b).slice(2)}.` : `${a}–${String(b).slice(2)}`; };
+const perLong = p => { const a = +p, b = Math.min(a + 4, 2026); return span(a, b); };
+
+// ------------------------------------------------------------------ names
+const KIND = { zakon: ['Zakoni', 'Laws'], uredba: ['Uredbe Vlade', 'Government decrees'], pravilnik: ['Pravilnici', 'Rules'], odluka: ['Odluke', 'Decisions'],
+  ostalo: ['Ostalo (naredbe, naputci, upute, statuti…)', 'Other (orders, instructions, statutes…)'] };
+const KIND1 = { zakon: ['zakoni', 'laws'], uredba: ['uredbe', 'decrees'], pravilnik: ['pravilnici', 'rules'], odluka: ['odluke', 'decisions'], ostalo: ['ostalo', 'other'] };
+const KCOL = () => ({ zakon: css('--s1'), uredba: css('--s3'), pravilnik: css('--s4'), odluka: css('--s7'), ostalo: css('--muted-mark') });
+// Croatian acts named in the charts, and their English names (an act the list does not hold keeps its Croatian name)
+const LAWEN = {
+  'Carinski zakon': 'Customs Act', 'Kazneni zakon': 'Criminal Code', 'Obiteljski zakon': 'Family Act', 'Stečajni zakon': 'Bankruptcy Act',
+  'Zakon o Državnom sudbenom vijeću': 'State Judicial Council Act', 'Zakon o boravišnoj pristojbi': 'Tourist Tax Act', 'Zakon o državnom odvjetništvu': 'State Attorney’s Office Act',
+  'Zakon o izborima zastupnika u Hrvatski sabor': 'Election of Members of the Sabor Act', 'Zakon o javnoj nabavi': 'Public Procurement Act', 'Zakon o kaznenom postupku': 'Criminal Procedure Act',
+  'Zakon o komunalnom gospodarstvu': 'Municipal Services Act', 'Zakon o kreditnim institucijama': 'Credit Institutions Act', 'Zakon o krivičnom postupku': 'Criminal Procedure Act (before 1997)',
+  'Zakon o mirovinskom osiguranju': 'Pension Insurance Act', 'Zakon o najmu stanova': 'Housing Lease Act', 'Zakon o novčanim poticajima i naknadama u poljoprivredi i ribarstvu': 'Agriculture and Fisheries Subsidies Act',
+  'Zakon o obvezama i pravima državnih dužnosnika': 'Duties and Rights of State Officials Act', 'Zakon o obveznim odnosima': 'Obligations Act', 'Zakon o osiguranju': 'Insurance Act',
+  'Zakon o otvorenim investicijskim fondovima s javnom ponudom': 'Open-Ended Investment Funds with a Public Offering Act', 'Zakon o platnom prometu u zemlji': 'Domestic Payment Transactions Act',
+  'Zakon o plaćama sudaca i drugih pravosudnih dužnosnika': 'Salaries of Judges and Other Judicial Officials Act', 'Zakon o područjima županija, gradova i općina u Republici Hrvatskoj': 'Areas of Counties, Cities and Municipalities Act',
+  'Zakon o poljoprivrednom zemljištu': 'Agricultural Land Act', 'Zakon o porezu na dobit': 'Profit Tax Act', 'Zakon o porezu na dodanu vrijednost': 'Value Added Tax Act', 'Zakon o porezu na dohodak': 'Income Tax Act',
+  'Zakon o porezu na promet nekretnina': 'Real Estate Transfer Tax Act', 'Zakon o porezu na promet proizvoda i usluga': 'Sales Tax on Goods and Services Act',
+  'Zakon o pripadnosti javnih prihoda Republici Hrvatskoj i jedinicama lokalne samouprave i stopama republičkih poreza': 'Allocation of Public Revenues and Rates of State Taxes Act',
+  'Zakon o sigurnosti prometa na cestama': 'Road Traffic Safety Act', 'Zakon o slobodnim zonama': 'Free Zones Act', 'Zakon o socijalnoj skrbi': 'Social Welfare Act', 'Zakon o stambenim odnosima': 'Housing Relations Act',
+  'Zakon o sudovima': 'Courts Act', 'Zakon o trgovačkim društvima': 'Companies Act', 'Zakon o trgovini': 'Trade Act', 'Zakon o tržištu kapitala': 'Capital Market Act', 'Zakon o ugostiteljskoj djelatnosti': 'Hospitality Industry Act',
+  'Zakon o vlasništvu i drugim stvarnim pravima': 'Ownership and Other Real Rights Act', 'Zakon o zaštiti i očuvanju kulturnih dobara': 'Protection and Preservation of Cultural Goods Act',
+  'Zakon o zdravstvenoj zaštiti': 'Health Care Act', 'Zakon o zdravstvenom osiguranju': 'Health Insurance Act', 'Zakon o zemljišnim knjigama': 'Land Registers Act', 'Zakon o šumama': 'Forests Act',
+  'Zakon o radu': 'Labour Act', 'Zakon o minimalnoj plaći': 'Minimum Wage Act', 'Zakon o državnim službenicima': 'Civil Servants Act', 'Zakon o lokalnoj i područnoj (regionalnoj) samoupravi': 'Local and Regional Self-Government Act',
+  'Zakon o doprinosima': 'Contributions Act', 'Zakon o trošarinama': 'Excise Duties Act', 'Zakon o prostornom uređenju': 'Physical Planning Act', 'Zakon o gradnji': 'Building Act', 'Pomorski zakonik': 'Maritime Code',
+  'Zakon o parničnom postupku': 'Civil Procedure Act', 'Ovršni zakon': 'Enforcement Act', 'Zakon o strancima': 'Aliens Act', 'Zakon o policiji': 'Police Act', 'Zakon o obrani': 'Defence Act',
+  'Zakon o upravnim sporovima': 'Administrative Disputes Act', 'Zakon o zaštiti životinja': 'Animal Protection Act', 'Zakon o energetskoj učinkovitosti': 'Energy Efficiency Act',
+  'Zakon o izbornim jedinicama za izbor zastupnika u Zastupnički dom Hrvatskoga državnog sabora': 'Electoral Districts for the Chamber of Representatives Act',
+  'Zakon o društveno poticanoj stanogradnji': 'Publicly Subsidised Housing Construction Act', 'Zakon o Hrvatskom Crvenom križu': 'Croatian Red Cross Act',
+  'Zakon o sanaciji javnih ustanova': 'Rehabilitation of Public Institutions Act', 'Zakon o upravljanju i raspolaganju imovinom u vlasništvu Republike Hrvatske': 'Management and Disposal of State Property Act',
+  'Zakon o lovstvu': 'Hunting Act', 'Zakon o potrošačkom kreditiranju': 'Consumer Credit Act', 'Zakon o plovidbi i lukama unutarnjih voda': 'Inland Navigation and Ports Act',
+  'Zakon o otvorenim investicijskim fondovima s javnom ponudom (2016)': 'Open-Ended Investment Funds with a Public Offering Act', 'Zakon o socijalnoj skrbi (2013)': 'Social Welfare Act',
+  'Zakon o boravišnoj pristojbi i turističkoj pristojbi': 'Tourist Tax Act', 'Zakon o turističkoj pristojbi': 'Tourist Tax Act', 'Zakon o računovodstvu': 'Accounting Act',
+  'Zakon o tržištu električne energije': 'Electricity Market Act', 'Zakon o sigurnosti prometa na cestama (2008)': 'Road Traffic Safety Act', 'Zakon o deviznom poslovanju': 'Foreign Exchange Act',
+  'Zakon o obveznim odnosima (2005)': 'Obligations Act', 'Zakon o osobnoj asistenciji': 'Personal Assistance Act', 'Zakon o zaštiti prirode': 'Nature Protection Act',
+  'Zakon o pomorskom dobru i morskim lukama': 'Maritime Domain and Seaports Act', 'Zakon o uvođenju eura kao službene valute u Republici Hrvatskoj': 'Act on the Introduction of the Euro',
+};
+const lawName = n => HR() ? n : (LAWEN[n] || n);
+const TOPIC = { rat: ['Branitelji i žrtve rata', 'Veterans and war victims'], porez: ['Porezi, proračun i doprinosi', 'Taxes, budget and contributions'], zdravstvo: ['Zdravstvo', 'Health'],
+  rad: ['Rad, mirovine i socijalna skrb', 'Labour, pensions and welfare'], drzava: ['Država, uprava, izbori i lokalna samouprava', 'The state, administration, elections and local government'],
+  pravosudje: ['Pravosuđe, kazneno pravo i postupci', 'Justice, criminal law and procedure'], gradjansko: ['Obitelj, vlasništvo, stanovanje i društva', 'Family, property, housing and companies'],
+  financije: ['Banke, osiguranje i tržište kapitala', 'Banking, insurance and capital markets'], okolis: ['Okoliš, prostor, gradnja i energija', 'Environment, planning, building and energy'],
+  promet: ['Promet i veze', 'Transport and communications'], poljo: ['Poljoprivreda, ribarstvo, lov i hrana', 'Agriculture, fisheries, hunting and food'],
+  obrana: ['Obrana, policija i granice', 'Defence, police and borders'], gosp: ['Gospodarstvo, trgovina i turizam', 'Economy, trade and tourism'],
+  obrazovanje: ['Obrazovanje, znanost, kultura i mediji', 'Education, science, culture and media'], ostalo: ['Ostalo', 'Other'] };
+const CTRY = { BA: ['Bosna i Hercegovina', 'Bosnia and Herzegovina'], HU: ['Mađarska', 'Hungary'], SI: ['Slovenija', 'Slovenia'], ME: ['Crna Gora', 'Montenegro'], MK: ['Sjeverna Makedonija', 'North Macedonia'],
+  RS: ['Srbija (i SRJ, SCG)', 'Serbia (incl. FR Yugoslavia)'], TR: ['Turska', 'Turkey'], BG: ['Bugarska', 'Bulgaria'], AL: ['Albanija', 'Albania'], UA: ['Ukrajina', 'Ukraine'], DE: ['Njemačka', 'Germany'],
+  IT: ['Italija', 'Italy'], AT: ['Austrija', 'Austria'], RU: ['Rusija', 'Russia'], US: ['Sjedinjene Američke Države', 'United States'], CZ: ['Češka', 'Czechia'], PL: ['Poljska', 'Poland'],
+  SK: ['Slovačka', 'Slovakia'], RO: ['Rumunjska', 'Romania'], CN: ['Kina', 'China'], IL: ['Izrael', 'Israel'], FR: ['Francuska', 'France'], GR: ['Grčka', 'Greece'], MD: ['Moldova', 'Moldova'],
+  XK: ['Kosovo', 'Kosovo'], SE: ['Švedska', 'Sweden'], PT: ['Portugal', 'Portugal'], IR: ['Iran', 'Iran'], LT: ['Litva', 'Lithuania'], IN: ['Indija', 'India'], LV: ['Latvija', 'Latvia'],
+  GB: ['Ujedinjena Kraljevina', 'United Kingdom'], ID: ['Indonezija', 'Indonesia'], NL: ['Nizozemska', 'Netherlands'], EE: ['Estonija', 'Estonia'], KR: ['Južna Koreja', 'South Korea'],
+  BE: ['Belgija', 'Belgium'], FI: ['Finska', 'Finland'], BY: ['Bjelarus', 'Belarus'], QA: ['Katar', 'Qatar'], AZ: ['Azerbajdžan', 'Azerbaijan'], VA: ['Sveta Stolica', 'Holy See'],
+  NO: ['Norveška', 'Norway'], EG: ['Egipat', 'Egypt'], ES: ['Španjolska', 'Spain'], LU: ['Luksemburg', 'Luxembourg'], DK: ['Danska', 'Denmark'], SM: ['San Marino', 'San Marino'],
+  JO: ['Jordan', 'Jordan'], TH: ['Tajland', 'Thailand'], CY: ['Cipar', 'Cyprus'], CH: ['Švicarska', 'Switzerland'], KW: ['Kuvajt', 'Kuwait'], AM: ['Armenija', 'Armenia'], MA: ['Maroko', 'Morocco'],
+  JP: ['Japan', 'Japan'], CA: ['Kanada', 'Canada'], AU: ['Australija', 'Australia'], CL: ['Čile', 'Chile'], AR: ['Argentina', 'Argentina'], BR: ['Brazil', 'Brazil'], MX: ['Meksiko', 'Mexico'],
+  MT: ['Malta', 'Malta'], IE: ['Irska', 'Ireland'], IS: ['Island', 'Iceland'], LI: ['Lihtenštajn', 'Liechtenstein'], MC: ['Monako', 'Monaco'], AD: ['Andora', 'Andorra'], GE: ['Gruzija', 'Georgia'],
+  KZ: ['Kazahstan', 'Kazakhstan'], UZ: ['Uzbekistan', 'Uzbekistan'], TM: ['Turkmenistan', 'Turkmenistan'], KG: ['Kirgistan', 'Kyrgyzstan'], TJ: ['Tadžikistan', 'Tajikistan'], MN: ['Mongolija', 'Mongolia'],
+  VN: ['Vijetnam', 'Vietnam'], PH: ['Filipini', 'Philippines'], MY: ['Malezija', 'Malaysia'], SG: ['Singapur', 'Singapore'], AE: ['Ujedinjeni Arapski Emirati', 'United Arab Emirates'],
+  SA: ['Saudijska Arabija', 'Saudi Arabia'], OM: ['Oman', 'Oman'], BH: ['Bahrein', 'Bahrain'], LB: ['Libanon', 'Lebanon'], SY: ['Sirija', 'Syria'], IQ: ['Irak', 'Iraq'], PK: ['Pakistan', 'Pakistan'],
+  AF: ['Afganistan', 'Afghanistan'], TN: ['Tunis', 'Tunisia'], DZ: ['Alžir', 'Algeria'], LY: ['Libija', 'Libya'], ZA: ['Južnoafrička Republika', 'South Africa'], CU: ['Kuba', 'Cuba'],
+  VE: ['Venezuela', 'Venezuela'], PE: ['Peru', 'Peru'], UY: ['Urugvaj', 'Uruguay'], PY: ['Paragvaj', 'Paraguay'], CO: ['Kolumbija', 'Colombia'], EC: ['Ekvador', 'Ecuador'], NZ: ['Novi Zeland', 'New Zealand'],
+  LK: ['Šri Lanka', 'Sri Lanka'], BD: ['Bangladeš', 'Bangladesh'], NP: ['Nepal', 'Nepal'], MU: ['Mauricijus', 'Mauritius'], SN: ['Senegal', 'Senegal'], KE: ['Kenija', 'Kenya'], ET: ['Etiopija', 'Ethiopia'],
+  NG: ['Nigerija', 'Nigeria'], GH: ['Gana', 'Ghana'], AO: ['Angola', 'Angola'], CV: ['Zelenortska Republika', 'Cabo Verde'], SC: ['Sejšeli', 'Seychelles'], BW: ['Bocvana', 'Botswana'],
+  NA: ['Namibija', 'Namibia'], ZW: ['Zimbabve', 'Zimbabwe'], MZ: ['Mozambik', 'Mozambique'], ZM: ['Zambija', 'Zambia'], SD: ['Sudan', 'Sudan'], KH: ['Kambodža', 'Cambodia'], LA: ['Laos', 'Laos'],
+  MM: ['Mjanmar', 'Myanmar'], PS: ['Palestina', 'Palestine'], CR: ['Kostarika', 'Costa Rica'], PA: ['Panama', 'Panama'], DO: ['Dominikanska Republika', 'Dominican Republic'], BO: ['Bolivija', 'Bolivia'],
+  FJ: ['Fidži', 'Fiji'], GG: ['Guernsey', 'Guernsey'], JE: ['Jersey', 'Jersey'],
+  org: ['Međunarodne organizacije (EU, banke, agencije…)', 'International organisations (EU, banks, agencies…)'], multi: ['Mnogostrani ugovori i konvencije', 'Multilateral treaties and conventions'] };
+const ISO_N = { SI: '705', HU: '348', DE: '276', BA: '070', US: '840', RS: '688', ME: '499', BG: '100', RU: '643', MK: '807', TR: '792', IT: '380', CZ: '203', PL: '616', SE: '752', UA: '804',
+  CN: '156', SK: '703', AT: '040', MD: '498', AL: '008', PT: '620', IL: '376', IR: '364', LT: '440', IN: '356', LV: '428', FR: '250', GB: '826', ID: '360', NL: '528', EE: '233', KR: '410',
+  BE: '056', FI: '246', BY: '112', QA: '634', AZ: '031', RO: '642', NO: '578', GR: '300', EG: '818', ES: '724', LU: '442', DK: '208', JO: '400', TH: '764', CY: '196', CH: '756', KW: '414',
+  AM: '051', MA: '504', JP: '392', CA: '124', AU: '036', CL: '152', AR: '032', BR: '076', MX: '484', IE: '372', IS: '352', GE: '268', KZ: '398', UZ: '860', TM: '795', KG: '417', TJ: '762',
+  MN: '496', VN: '704', PH: '608', MY: '458', AE: '784', SA: '682', OM: '512', LB: '422', SY: '760', IQ: '368', PK: '586', AF: '004', TN: '788', DZ: '012', LY: '434', ZA: '710', CU: '192',
+  VE: '862', PE: '604', UY: '858', PY: '600', CO: '170', EC: '218', NZ: '554', LK: '144', BD: '050', NP: '524', SN: '686', KE: '404', ET: '231', NG: '566', GH: '288', AO: '024', BW: '072',
+  NA: '516', ZW: '716', MZ: '508', ZM: '894', SD: '729', KH: '116', LA: '418', MM: '104', PS: '275', CR: '188', PA: '591', DO: '214', BO: '068', FJ: '242' };
+const ctryName = k => LA(CTRY[k] || [k, k]);
+
+// ------------------------------------------------------------------ tooltip
+const tip = document.getElementById('tip');
+function showTip(ev, html) { tip.innerHTML = html; tip.style.opacity = 1; moveTip(ev); }
+function moveTip(ev) {
+  const r = tip.getBoundingClientRect(), pad = 14;
+  let x = ev.clientX + pad, y = ev.clientY + pad;
+  if (x + r.width > innerWidth - 8) x = ev.clientX - r.width - pad;
+  if (y + r.height > innerHeight - 8) y = ev.clientY - r.height - pad;
+  tip.style.left = Math.max(8, x) + 'px'; tip.style.top = Math.max(8, y) + 'px';
+}
+function hideTip() { tip.style.opacity = 0; }
+function bindTip(sel, fn) {
+  sel.on('mouseenter', (ev, d) => showTip(ev, fn(d))).on('mousemove', moveTip).on('mouseleave', hideTip)
+     .on('touchstart', (ev, d) => { const tt = ev.touches[0]; showTip({ clientX: tt.clientX, clientY: tt.clientY }, fn(d)); }, { passive: true });
+}
+const trow = (sw, k, v) => `<div class="r"><span>${sw ? `<i class="sw" style="background:${sw}"></i>` : ''}${esc(k)}</span><span>${v}</span></div>`;
+
+// ------------------------------------------------------------------ chart scaffolding
+function legend(el, items) {
+  const lg = el.append('div').attr('class', 'legend');
+  items.forEach(it => { const s = lg.append('span'); s.append('i').attr('class', it.shape || '').style('background', it.c).style('border-color', it.c); s.append('span').text(it.l); });
+  return lg;
+}
+function svgIn(el, w, h) { return el.append('div').attr('class', 'plot').append('svg').attr('viewBox', `0 0 ${w} ${h}`).attr('width', w).attr('height', h).attr('role', 'img'); }
+function table(el, head, rows) {
+  const d = el.append('details').attr('class', 'tbl');
+  d.append('summary').text(t('tbl'));
+  const tb = d.append('div').attr('class', 'scroll').append('table');
+  tb.append('thead').append('tr').selectAll('th').data(head).join('th').attr('class', (h, i) => i ? 'n' : null).text(h => h);
+  tb.append('tbody').selectAll('tr').data(rows).join('tr').selectAll('td').data(r => r).join('td').attr('class', (v, i) => i ? 'n' : null).text(v => typeof v === 'number' ? fmt(v) : v);
+  return d;
+}
+// a source path in the page's language: '<godina>' -> '<year>' and the like; an item can also be a [Croatian, English] pair
+const PH = { '<godina>': '<year>', '<broj>': '<number>', '<vrsta>': '<kind>' };
+const srcTxt = s => Array.isArray(s) ? LA(s) : HR() ? s : Object.entries(PH).reduce((a, [x, y]) => a.split(x).join(y), s);
+function note(el, src, n, extra) {
+  const p = el.append('p').attr('class', 'note');
+  p.html(`<b>${t('src')}:</b> ${src.map(s => `<code>${esc(srcTxt(s))}</code>`).join(' ')} · <b>${t('n')}:</b> ${n}${extra ? ' · ' + esc(extra) : ''}`);
+}
+function yAxis(g, y, w, ticks = 5, f = fmt) {
+  const ax = g.append('g').attr('class', 'axis grid');
+  y.ticks(ticks).forEach(v => {
+    ax.append('line').attr('x1', 0).attr('x2', w).attr('y1', y(v)).attr('y2', y(v));
+    ax.append('text').attr('x', -6).attr('y', y(v)).attr('dy', '0.32em').attr('text-anchor', 'end').text(f(v));
+  });
+}
+const W = el => Math.max(300, Math.min(1000, el.node().getBoundingClientRect().width || 900));
+const narrow = w => w < 560;
+function colPath(x, y0, w, y1, r = 4) {
+  const h = y0 - y1; if (h <= 0) return '';
+  r = Math.min(r, h, w / 2);
+  return `M${x},${y0}V${y1 + r}Q${x},${y1} ${x + r},${y1}H${x + w - r}Q${x + w},${y1} ${x + w},${y1 + r}V${y0}Z`;
+}
+function barPath(x0, y, x1, h, r = 4) {
+  const w = x1 - x0; if (w <= 0) return '';
+  r = Math.min(r, w, h / 2);
+  return `M${x0},${y}H${x1 - r}Q${x1},${y} ${x1},${y + r}V${y + h - r}Q${x1},${y + h} ${x1 - r},${y + h}H${x0}Z`;
+}
+let HATCH = 0;
+function hatch(svg) {
+  const id = 'hatch' + (++HATCH);
+  const p = svg.append('defs').append('pattern').attr('id', id).attr('patternUnits', 'userSpaceOnUse').attr('width', 6).attr('height', 6).attr('patternTransform', 'rotate(45)');
+  p.append('rect').attr('width', 6).attr('height', 6).attr('fill', css('--surface-2'));
+  p.append('line').attr('x1', 0).attr('y1', 0).attr('x2', 0).attr('y2', 6).attr('stroke', css('--muted-mark')).attr('stroke-width', 1.4);
+  return `url(#${id})`;
+}
+const inkOn = c => d3.hsl(c).l > 0.6 ? '#0b0b0b' : '#fff';
+const grad = (svg, id, color, a = .3) => { const lg = svg.append('defs').append('linearGradient').attr('id', id).attr('x1', 0).attr('x2', 0).attr('y1', 0).attr('y2', 1);
+  lg.append('stop').attr('offset', '0%').attr('stop-color', color).attr('stop-opacity', a); lg.append('stop').attr('offset', '100%').attr('stop-color', color).attr('stop-opacity', .02); return `url(#${id})`; };
+const seqRamp = () => d3.interpolateRgb(css('--seq-lo'), css('--seq-hi'));
+const h4 = (el, txt, mt = 14) => el.append('h4').style('margin', `${mt}px 0 4px`).style('font', '600 13px/1.4 var(--sans)').text(txt);
+// the widest of these strings in a chart's label style, in pixels (measured as drawn: the page draws again once the web fonts have loaded)
+const textW = (el, strs, cls = 'lbl strong') => { const sv = el.append('svg').attr('width', 0).attr('height', 0).style('position', 'absolute'), tx = sv.append('text').attr('class', cls);
+  const w = d3.max(strs, q => { tx.text(q); return tx.node().getComputedTextLength(); }) || 0; sv.remove(); return w; };
+const halo = (g, x, y, txt, anchor = 'start', cls = 'lbl strong', fill = null) => g.append('text').attr('class', cls).attr('x', x).attr('y', y).attr('text-anchor', anchor)
+  .style('fill', fill).style('paint-order', 'stroke').style('stroke', css('--surface')).style('stroke-width', 4).style('stroke-linejoin', 'round').text(txt);
+// a label too wide for its room, broken into two lines at the space nearest its middle
+function wrap2(el, s, room, cls = 'lbl strong') {
+  if (textW(el, [s], cls) <= room) return [s];
+  const sp = [...s.matchAll(/ /g)].map(m => m.index); if (!sp.length) return [s];
+  const mid = s.length / 2, k = sp.reduce((a, b) => Math.abs(b - mid) < Math.abs(a - mid) ? b : a);
+  return [s.slice(0, k), s.slice(k + 1)];
+}
+// stacked columns, keys bottom-up; the top segment gets the rounded end, 1px surface gaps
+function stackedColumns(el, rows, keys, colors, names, opt = {}) {
+  const w = W(el), h = opt.h || 300, m = { t: opt.mt || 14, r: 8, b: 26, l: opt.ml || 44 };
+  const svg = svgIn(el, w, h), g = svg.append('g').attr('transform', `translate(${m.l},${m.t})`);
+  const iw = w - m.l - m.r, ih = h - m.t - m.b;
+  const x = d3.scaleBand().domain(rows.map(r => r.y)).range([0, iw]).padding(opt.pad == null ? 0.25 : opt.pad);
+  const tot = r => keys.reduce((s, k) => s + (r[k] || 0), 0);
+  const y = d3.scaleLinear().domain([0, opt.max || d3.max(rows, tot)]).nice().range([ih, 0]);
+  yAxis(g, y, iw, opt.ticks || 5, opt.yf);
+  const bw = Math.min(opt.bw || 24, x.bandwidth());
+  rows.forEach(r => {
+    let acc = 0; const segs = keys.map((k, i) => ({ k, i, v: r[k] || 0 })).filter(s => s.v > 0);
+    const gx = x(r.y) + (x.bandwidth() - bw) / 2;
+    segs.forEach((s, j) => {
+      const y0 = y(Math.min(acc, y.domain()[1])), y1 = y(Math.min(acc + s.v, y.domain()[1])); acc += s.v;
+      const gap = j ? 1 : 0, top = j === segs.length - 1;
+      const yy0 = y0 - gap, yy1 = top ? y1 : y1 + 1;
+      if (yy0 - yy1 < 0.5) return;
+      g.append('path').attr('d', top ? colPath(gx, yy0, bw, yy1) : `M${gx},${yy0}V${yy1}H${gx + bw}V${yy0}Z`).attr('fill', colors[s.i]).attr('opacity', opt.partial && opt.partial(r) ? 0.5 : 1);
+    });
+    if (opt.topLabel) g.append('text').attr('class', 'lbl').attr('x', gx + bw / 2).attr('y', y(Math.min(tot(r), y.domain()[1])) - 5).attr('text-anchor', 'middle').text(opt.topLabel(r));
+  });
+  g.append('line').attr('class', 'base').attr('x1', 0).attr('x2', iw).attr('y1', ih).attr('y2', ih);
+  const every = opt.every || Math.ceil(rows.length / Math.max(4, Math.floor(iw / 44)));
+  rows.forEach((r, i) => { if ((opt.labelIf ? opt.labelIf(r) : i % every === 0) || (!opt.labelIf && i === rows.length - 1 && (rows.length - 1) % every >= every / 2)) g.append('text').attr('class', 'lbl').attr('x', x(r.y) + x.bandwidth() / 2).attr('y', ih + 16).attr('text-anchor', 'middle').text(opt.xf ? opt.xf(r.y) : r.y); });
+  bindTip(g.selectAll('.hit').data(rows).join('rect').attr('class', 'hit').attr('x', r => x(r.y)).attr('width', x.bandwidth()).attr('y', 0).attr('height', ih),
+    opt.tip || (r => `<b>${opt.xf ? opt.xf(r.y) : r.y}${opt.partial && opt.partial(r) ? ' (' + t('partial') + ')' : ''}</b>` + keys.map((k, i) => (r[k] ? trow(colors[i], names[i], fmt(r[k]) + (opt.noShare ? '' : ` · ${pct(r[k], tot(r))}`)) : '')).reverse().join('') + trow(null, t('total'), fmt(tot(r)))));
+  return { svg, g, x, y, iw, ih, bw, m };
+}
+// rows of 100% bands with rounded ends and the shares inside
+function bands(el, rows, keys, colors, names, opt) {
+  const w = W(el), nw = narrow(w), rowH = opt.rowH || 34;
+  const lw = Math.ceil(textW(el, rows.map(r => opt.label(r, nw)))) + 12, rw = Math.ceil(textW(el, rows.map(r => opt.right(r, nw)))) + 12;
+  const m = { t: 4, r: rw, b: 22, l: lw };
+  const h = m.t + m.b + rowH * rows.length, svg = svgIn(el, w, h), g = svg.append('g').attr('transform', `translate(${m.l},${m.t})`);
+  const iw = w - m.l - m.r, x = d3.scaleLinear().domain([0, 1]).range([0, iw]);
+  [0, .25, .5, .75, 1].forEach(v => g.append('text').attr('class', 'lbl mut').attr('x', x(v)).attr('y', rowH * rows.length + 14).attr('text-anchor', v === 0 ? 'start' : v === 1 ? 'end' : 'middle').text(pv(100 * v)));
+  const id0 = 'bd' + (++HATCH);
+  rows.forEach((r, i) => {
+    const y0 = i * rowH + 6, bh = rowH - 12, tot = sum(keys, k => r[k] || 0), id = id0 + '_' + i;
+    g.append('text').attr('class', 'lbl strong').attr('x', -10).attr('y', y0 + bh / 2 + 4).attr('text-anchor', 'end').text(opt.label(r, nw));
+    if (!tot) return;
+    g.append('clipPath').attr('id', id).append('rect').attr('x', 0).attr('y', y0).attr('width', iw).attr('height', bh).attr('rx', bh / 2);
+    const row = g.append('g').attr('clip-path', `url(#${id})`).attr('opacity', opt.partial && opt.partial(r) ? .55 : 1);
+    let acc = 0;
+    keys.forEach((k, j) => {
+      const v = r[k] || 0; if (!v) return;
+      const x0 = x(acc / tot), x1 = x((acc + v) / tot); acc += v;
+      row.append('rect').attr('x', x0).attr('width', Math.max(0, x1 - x0 - (acc < tot ? 1.5 : 0))).attr('y', y0).attr('height', bh).attr('fill', colors[j]);
+      const lab = pct(v, tot);
+      if (x1 - x0 > textW(el, [lab], 'lbl') + 8) row.append('text').attr('class', 'lbl').attr('x', (x0 + x1) / 2).attr('y', y0 + bh / 2 + 4).attr('text-anchor', 'middle')
+        .style('fill', inkOn(colors[j])).style('pointer-events', 'none').text(lab);
+    });
+    g.append('text').attr('class', 'lbl strong').attr('x', iw + 10).attr('y', y0 + bh / 2 + 4).text(opt.right(r, nw));
+    bindTip(g.append('rect').attr('class', 'hit').attr('x', -m.l).attr('width', w).attr('y', i * rowH).attr('height', rowH).datum(r),
+      d => `<b>${esc(opt.label(d, false))}</b>` + keys.map((k, j) => d[k] ? trow(colors[j], names[j], `${fmt(d[k])} · ${pct(d[k], tot)}`) : '').join('') + trow(null, t('total'), fmt(tot)));
+  });
+  return { svg, g, iw };
+}
+// a list of horizontal bars, label on the left (on narrow screens above the bar, in two lines if needed), value on the right
+function barList(el, rows, o) {
+  const w = W(el), nw = narrow(w) && !o.side, labs = rows.map(r => o.label(r, nw)), rw = o.rw || 44;
+  const lw = nw ? 0 : Math.min(o.cap || 480, textW(el, labs) + 14);
+  const lines = labs.map(s => nw ? wrap2(el, s, w - 4) : [s]), sub = rows.map(r => o.sub ? o.sub(r) : '');
+  const rowHs = lines.map((ls, i) => (nw ? 20 + 13 * ls.length : 22) + (sub[i] ? 13 : 0)), tops = rowHs.reduce((a, h) => a.concat(a[a.length - 1] + h), [0]);
+  const svg = svgIn(el, w, 4 + tops[tops.length - 1]), g = svg.append('g').attr('transform', `translate(${lw},2)`);
+  const x = d3.scaleLinear().domain([0, o.max || d3.max(rows, o.value) || 1]).range([0, Math.max(40, w - lw - rw)]);
+  rows.forEach((r, i) => {
+    const cy = tops[i], by = nw ? cy + 13 * lines[i].length + 3 : cy + 5;
+    if (nw) lines[i].forEach((ln, k) => g.append('text').attr('class', 'lbl strong').attr('x', 0).attr('y', cy + 11 + 13 * k).text(ln));
+    else g.append('text').attr('class', 'lbl strong').attr('x', -8).attr('y', cy + 15).attr('text-anchor', 'end').text(labs[i]);
+    let acc = 0; const segs = (o.segs ? o.segs(r) : [[o.value(r), o.color ? o.color(r) : css('--s1')]]).filter(s => s[0] > 0);
+    segs.forEach(([v, c], j) => { const last = j === segs.length - 1, x0 = x(acc), x1 = x(acc + v); acc += v;
+      g.append('path').attr('d', last ? barPath(x0, by, Math.max(x0 + 2, x1), 12, 3) : `M${x0},${by}h${Math.max(0, x1 - x0 - 1)}v12h${-Math.max(0, x1 - x0 - 1)}Z`).attr('fill', c); });
+    g.append('text').attr('class', 'lbl').attr('x', Math.max(2, x(acc)) + 6).attr('y', by + 10).text(o.right ? o.right(r) : fmt(acc));
+    if (sub[i]) g.append('text').attr('class', 'lbl mut').attr('x', nw ? 0 : 0).attr('y', by + 12 + 12).text(sub[i]);
+    if (o.tip) bindTip(g.append('rect').attr('class', 'hit').attr('x', -lw).attr('width', w).attr('y', cy).attr('height', rowHs[i]).datum(r), o.tip);
+  });
+  return { svg, g, x };
+}
+
+// ------------------------------------------------------------------ the charts
+const CH = [];
+const part = (id, hr, en, dhr, den) => CH.push({ part: true, id, hr, en, dhr, den });
+const chart = (id, fn) => CH.push({ id, fn });
+const tot5 = r => sum(['zakon', 'uredba', 'pravilnik', 'odluka', 'ostalo'], k => r[k] || 0);
+
+part('p1', 'I. Narodne novine i zakonodavci', 'I. Narodne novine and the law-makers',
+  'Službeni dio Narodnih novina od 1990.: svaki akt jednom, onako kako je prvi put tiskan, s danom objave i danom stupanja na snagu iz njegova vlastitog commita. Zakone donosi Hrvatski sabor, uredbe Vlada, pravilnike ministarstva i druga tijela.',
+  'The official part of Narodne novine since 1990: every act once, as first printed, with the days it was published and took effect from its own commit. The Sabor passes laws, the Government issues decrees, and ministries and other bodies issue rules.');
+
+chart('c01', el => {
+  const c = D.c01, keys = ['zakon', 'uredba', 'pravilnik', 'odluka', 'ostalo'];
+  const full = c.filter(r => r.y >= 1991 && r.y <= 2025), avg = sum(full, tot5) / full.length;
+  const all = sum(c, tot5), K = {}; keys.forEach(k => K[k] = sum(c, r => r[k] || 0));
+  const top = full.reduce((a, b) => tot5(a) > tot5(b) ? a : b);
+  return {
+    title: L(`Narodne novine: u prosjeku ${N_(Math.round(avg), 'akt')} godišnje, a zakona je među njima ${pct(K.zakon, all)}`, `Narodne novine: ${fmt(Math.round(avg))} acts a year on average, and ${pct(K.zakon, all)} of them are laws`),
+    toc: L('Koliko akata izlazi u Narodnim novinama', 'How many acts Narodne novine prints'),
+    dek: L(`Svaki stupac je jedno godište službenog dijela Narodnih novina, po vrsti akta. Od 1991. do 2025. objavljeno je u prosjeku ${N_(Math.round(avg), 'akt')} godišnje, najviše ${yT(top.y)} (${fmt(tot5(top))}). Odluke čine ${pct(K.odluka, all)} akata, pravilnici ${pct(K.pravilnik, all)}, a zakoni ${pct(K.zakon, all)} i uredbe Vlade ${pct(K.uredba, all)}.`,
+      `Each column is one year of the official part of Narodne novine, by kind of act. From 1991 to 2025 an average of ${fmt(Math.round(avg))} acts a year were published, the most in ${top.y} (${fmt(tot5(top))}). Decisions are ${pct(K.odluka, all)} of the acts and rules ${pct(K.pravilnik, all)}; laws are ${pct(K.zakon, all)} and Government decrees ${pct(K.uredba, all)}.`),
+    draw(el) {
+      const col = KCOL(), colors = keys.map(k => col[k]);
+      legend(el, keys.map((k, i) => ({ c: colors[i], l: LA(KIND[k]) })));
+      stackedColumns(el, c, keys, colors, keys.map(k => LA(KIND[k])), { partial: r => r.y === 2026, pad: 0.16, every: 5, h: 300,
+        labelIf: r => r.y % 5 === 0,
+        tip: r => `<b>${r.y}${r.y === 2026 ? ' (' + t('partial') + ')' : ''}</b>` + keys.map((k, i) => (r[k] ? trow(colors[i], LA(KIND[k]), `${fmt(r[k])} · ${pct(r[k], tot5(r))}`) : '')).reverse().join('') +
+          trow(null, t('total'), fmt(tot5(r))) + (r.held ? trow(null, L('od toga zadržano izvan glavne grane', 'of them held back from main'), fmt(r.held)) : '') });
+      note(el, [['git log (prvi commit svakog akta)', 'git log (each act’s first commit)'], 'data/zakoni.json', 'data/held.json'], N_(all, 'akt'),
+        L(`uključeno je i ${N_(PF.held, 'akt')} koje repozitorij zadržava izvan glavne grane (data/held.json), po broju Narodnih novina; nisu uključeni ispravci, odluke Ustavnog suda, međunarodni ugovori, rezultati izbora ni kolektivni ugovori. Godina 2026. je nepotpuna (svjetlije).`,
+          `includes ${fmt(PF.held)} acts the repository holds back from main (data/held.json), by their Narodne novine number; corrections, Constitutional Court decisions, treaties, election results and collective agreements are not counted. 2026 is partial (lighter).`));
+      table(el, [t('year'), ...keys.map(k => LA(KIND[k])), t('total'), L('Zadržano', 'Held back')], c.map(r => [String(r.y), ...keys.map(k => r[k] || 0), tot5(r), r.held || 0]));
+    }
+  };
+});
+
+chart('c02', el => {
+  const c = D.c02, kinds = ['zakon', 'uredba', 'pravilnik', 'odluka'];
+  const T = k => [sum(c[k], r => r[1]), sum(c[k], r => r[2])];
+  const z = T('zakon'), p = T('pravilnik'), o = T('odluka');
+  return {
+    title: L(`Većina zakona mijenja druge zakone: ${pct(z[1], z[0])} zakona od 1990. su zakoni o izmjenama i dopunama`, `Most laws amend other laws: ${pct(z[1], z[0])} of the laws since 1990 are amending acts`),
+    toc: L('Novi akti i izmjene', 'New acts and amendments'),
+    dek: L(`Za svako petogodište: koliko je akata objavljeno (svijetli stupac) i koliko ih samo mijenja ili dopunjuje postojeći akt (puni stupac), s udjelom iznad stupca. Kod zakona izmjene čine ${pct(z[1], z[0])}, kod pravilnika ${pct(p[1], p[0])}, a kod odluka ${pct(o[1], o[0])}.`,
+      `For each five-year period: how many acts were published (light column) and how many only amend or supplement an existing act (solid column), with the share above. Amending acts are ${pct(z[1], z[0])} of the laws, ${pct(p[1], p[0])} of the rules and ${pct(o[1], o[0])} of the decisions.`),
+    draw(el) {
+      const col = KCOL();
+      legend(el, [{ c: css('--text-3') + '40', l: L('Svi akti te vrste', 'All acts of the kind') }, { c: css('--text-2'), l: L('Akti o izmjenama i dopunama', 'Amending acts') }]);
+      const box = el.append('div').attr('class', 'mini').style('grid-template-columns', narrow(W(el)) ? '1fr' : 'repeat(2, minmax(0, 1fr))');
+      const panes = kinds.map(() => box.append('div'));
+      kinds.forEach((k, pi) => {
+        const pp = panes[pi], rows = c[k], tt = T(k), ink = col[k];
+        pp.append('h4').text(LA(KIND[k]));
+        pp.append('p').text(L(`${fmt(tt[1])} od ${fmt(tt[0])} mijenja drugi akt (${pct(tt[1], tt[0])})`, `${fmt(tt[1])} of ${fmt(tt[0])} amend another act (${pct(tt[1], tt[0])})`));
+        const w = W(pp), h = 210, m = { t: 18, r: 4, b: 24, l: 40 };
+        const svg = svgIn(pp, w, h), g = svg.append('g').attr('transform', `translate(${m.l},${m.t})`);
+        const iw = w - m.l - m.r, ih = h - m.t - m.b;
+        const x = d3.scaleBand().domain(rows.map(r => r[0])).range([0, iw]).padding(0.22);
+        const y = d3.scaleLinear().domain([0, d3.max(rows, r => r[1])]).nice().range([ih, 0]);
+        yAxis(g, y, iw, 4);
+        g.append('line').attr('class', 'base').attr('x1', 0).attr('x2', iw).attr('y1', ih).attr('y2', ih);
+        const nwp = iw < 240;
+        rows.forEach((r, i) => {
+          const x0 = x(r[0]), bw = x.bandwidth(), op = r[0] === '2025' ? .5 : 1;
+          g.append('path').attr('d', colPath(x0, ih, bw, y(r[1]))).attr('fill', ink).attr('fill-opacity', .22 * op);
+          g.append('path').attr('d', colPath(x0, ih, bw, y(r[2]))).attr('fill', ink).attr('fill-opacity', op);
+          g.append('text').attr('class', 'lbl').attr('x', x0 + bw / 2).attr('y', y(r[1]) - 5).attr('text-anchor', 'middle').text(nwp ? dec(100 * r[2] / r[1], 0) : pct(r[2], r[1]));
+          g.append('text').attr('class', 'lbl').attr('x', x0 + bw / 2).attr('y', ih + 16).attr('text-anchor', 'middle').text(`’${r[0].slice(2)}`);
+          bindTip(g.append('rect').attr('class', 'hit').attr('x', x0 - x.step() * x.paddingInner() / 2).attr('width', x.step()).attr('y', 0).attr('height', ih).datum(r),
+            d => `<b>${LA(KIND[k])} · ${perLong(d[0])}${d[0] === '2025' ? ' (' + L('nepotpuno', 'partial') + ')' : ''}</b>` + trow(null, L('Objavljeno', 'Published'), fmt(d[1])) + trow(ink, L('O izmjenama i dopunama', 'Amending'), fmt(d[2])) + trow(null, t('share'), pct(d[2], d[1])));
+        });
+      });
+      note(el, [['git log (naslov akta)', 'git log (act title)'], 'data/zakoni.json', 'data/held.json'], N_(sum(kinds, k => T(k)[0]), 'akt'),
+        L('akt mijenja drugi ako mu naslov počinje s „… o izmjeni / izmjenama / dopuni / dopunama …” ili „Izmjene i dopune …” (pravila u src/prep.py). Oznake su početne godine petogodišta; 2025.–2026. je nepotpuno (svjetlije). Uključeni su i akti zadržani izvan glavne grane.',
+          'an act amends another when its title starts with “… o izmjeni / izmjenama / dopuni / dopunama …” or “Izmjene i dopune …” (rules in src/prep.py). Labels are the first years of each period; 2025–2026 is partial (lighter). Acts held back from main are included.'));
+      table(el, [L('Razdoblje', 'Period'), ...kinds.flatMap(k => [LA(KIND[k]), L('izmjene', 'amending')])], c.zakon.map((r, i) => [perLong(r[0]), ...kinds.flatMap(k => [c[k][i] ? c[k][i][1] : 0, c[k][i] ? c[k][i][2] : 0])]));
+    }
+  };
+});
+
+chart('c03', el => {
+  const c = D.c03, periods = c.periods, tps = c.topics.filter(r => r[2] > 0);
+  const N = sum(tps, r => r[2]);
+  const named = tps.filter(r => r[0] !== 'ostalo').sort((a, b) => b[2] - a[2]), oth = tps.find(r => r[0] === 'ostalo');
+  const top = named[0];
+  return {
+    title: L(`O čemu su zakoni: najčešće o porezima, proračunu i doprinosima (${pct(top[2], N)})`, `What the laws are about: taxes, the budget and contributions most often (${pct(top[2], N)})`),
+    toc: L('O čemu su zakoni', 'What the laws are about'),
+    dek: L(`Svaki zakon od 1990., i svaki zakon o izmjenama, svrstan po predmetu zakona koji uređuje ili mijenja, a predmet je pročitan iz riječi naslova. Stupci su petogodišta, na istoj ljestvici u svim poljima. Porezi i proračun prednjače (${pct(top[2], N)}), slijede ${LA(TOPIC[named[1][0]]).toLowerCase()} (${pct(named[1][2], N)}) i ${LA(TOPIC[named[2][0]]).toLowerCase()} (${pct(named[2][2], N)}).`,
+      `Every law since 1990, and every amending law, sorted by the subject of the law it makes or amends, read from the words of its title. Columns are five-year periods, on the same scale in every panel. Taxes and the budget lead (${pct(top[2], N)}), followed by ${LA(TOPIC[named[1][0]]).toLowerCase()} (${pct(named[1][2], N)}) and ${LA(TOPIC[named[2][0]]).toLowerCase()} (${pct(named[2][2], N)}).`),
+    draw(el) {
+      const box = el.append('div').attr('class', 'multi');
+      const ymax = d3.max(tps, r => d3.max(periods, p => r[1][p] || 0));
+      const rows = named.concat(oth ? [oth] : []);
+      const panes = rows.map(() => box.append('div').style('display', 'flex').style('flex-direction', 'column'));
+      rows.forEach((r, pi) => {
+        const pp = panes[pi], ink = r[0] === 'ostalo' ? css('--muted-mark') : css('--s1');
+        pp.append('h4').text(LA(TOPIC[r[0]]));
+        pp.append('p').text(`${N_(r[2], 'zakon')} · ${pct(r[2], N)}`);
+        const w = W(pp), h = 92, m = { t: 6, r: 2, b: 16, l: 2 };
+        const svg = svgIn(pp, w, h), g = svg.append('g').attr('transform', `translate(${m.l},${m.t})`);
+        d3.select(svg.node().parentNode).style('margin-top', 'auto');
+        const iw = w - m.l - m.r, ih = h - m.t - m.b;
+        const x = d3.scaleBand().domain(periods).range([0, iw]).padding(0.18), y = d3.scaleLinear().domain([0, ymax]).range([ih, 0]);
+        g.append('line').attr('class', 'base').attr('x1', 0).attr('x2', iw).attr('y1', ih).attr('y2', ih);
+        periods.forEach((p, i) => {
+          const v = r[1][p] || 0;
+          g.append('path').attr('d', colPath(x(p), ih, x.bandwidth(), y(v), 3)).attr('fill', ink).attr('opacity', p === '2025' ? .5 : 1);
+          if (i === 0 || i === periods.length - 1) g.append('text').attr('class', 'lbl mut').attr('x', x(p) + x.bandwidth() / 2).attr('y', ih + 12).attr('text-anchor', i ? 'end' : 'start').attr('dx', i ? x.bandwidth() / 2 : -x.bandwidth() / 2).text(i ? '2026' : '1990');
+        });
+        bindTip(g.append('rect').attr('class', 'hit').attr('x', 0).attr('width', iw).attr('y', 0).attr('height', ih).datum(r),
+          d => `<b>${esc(LA(TOPIC[d[0]]))}</b>` + periods.map(p => trow(null, perLong(p), fmt(d[1][p] || 0))).join('') + trow(null, t('total'), fmt(d[2])));
+      });
+      note(el, [['git log (naslov zakona)', 'git log (law title)'], 'data/zakoni.json', 'data/held.json'], N_(N, 'zakon'),
+        L(`predmet je pročitan iz naslova po riječima (pravila u src/prep.py, s granicama riječi); za zakon o izmjenama to je naslov zakona koji mijenja. Naslov koji nijedno pravilo ne prepoznaje ide u „Ostalo” (${pct(oth ? oth[2] : 0, N)}). Ratifikacijski zakoni iz međunarodnog dijela Narodnih novina nisu uključeni. Zadnji stupac (2025.–2026.) je nepotpun.`,
+          `the subject is read from the title’s words (rules in src/prep.py, with word boundaries); for an amending law it is the title of the law it amends. A title no rule recognises goes to “Other” (${pct(oth ? oth[2] : 0, N)}). Ratification laws from the international part of Narodne novine are not included. The last column (2025–2026) is partial.`));
+      table(el, [L('Predmet', 'Subject'), ...periods.map(perLong), t('total')], rows.map(r => [LA(TOPIC[r[0]]), ...periods.map(p => r[1][p] || 0), r[2]]));
+    }
+  };
+});
+
+chart('c04', el => {
+  const c = D.c04.filter(r => r[0] >= 1990), full = c.filter(r => r[0] <= 2025);
+  const mo = d3.range(12).map(i => sum(full, r => r[1][i])), N = sum(mo);
+  const share = (...ms) => pct(sum(ms, m => mo[m]), N);
+  return {
+    title: L(`Kalendar zakona: u prosincu i srpnju objavi se ${share(11, 6)} zakona, u siječnju i kolovozu ${share(0, 7)}`, `The calendar of laws: December and July bring ${share(11, 6)} of the laws, January and August ${share(0, 7)}`),
+    toc: L('Kalendar zakona', 'The calendar of laws'),
+    dek: L(`Svaki redak je jedna godina, svako polje jedan mjesec: što tamnije, to je više zakona objavljeno u Narodnim novinama toga mjeseca. Sabor redovito zasjeda od 15. siječnja do 15. srpnja i od 15. rujna do 15. prosinca (čl. 79. Ustava), pa se zakoni gomilaju pred kraj zasjedanja: prosinac ${share(11)}, srpanj ${share(6)}, listopad ${share(9)}.`,
+      `Each row is one year and each cell one month: the darker, the more laws Narodne novine printed that month. The Sabor sits from 15 January to 15 July and from 15 September to 15 December (Article 79 of the Constitution), and laws pile up towards the end of each sitting: December ${share(11)}, July ${share(6)}, October ${share(9)}.`),
+    draw(el) {
+      const w = W(el), nw = narrow(w), lw = Math.ceil(textW(el, ['2026'], 'lbl strong')) + 10, rw = nw ? 30 : 80;
+      const cw = (w - lw - rw - 10) / 12, ch = 15, m = { t: 22, l: lw };
+      const h = m.t + 6 + ch * c.length + 4, svg = svgIn(el, w, h), g = svg.append('g').attr('transform', `translate(${m.l},${m.t})`);
+      const mx = d3.max(c, r => d3.max(r[1])), ramp = seqRamp(), col = v => v ? ramp(0.12 + 0.88 * Math.sqrt(v / mx)) : css('--surface-2');
+      legend(el.insert('div', '.plot'), [1, 10, 30, mx].map(v => ({ c: col(v), l: v === mx ? L(`${N_(v, 'zakon')} u mjesecu`, `${v} laws in a month`) : String(v) })));
+      MSH[LANG].forEach((mm, i) => g.append('text').attr('class', 'lbl').attr('x', i * cw + cw / 2).attr('y', -8).attr('text-anchor', 'middle').text(mm));
+      const tmax = d3.max(c, r => sum(r[1])), xb = d3.scaleLinear().domain([0, tmax]).range([0, rw - (nw ? 4 : 34)]);
+      c.forEach(([y, ms], i) => {
+        const cy = i * ch;
+        g.append('text').attr('class', 'lbl strong').attr('x', -8).attr('y', cy + ch - 4).attr('text-anchor', 'end').style('fill', y === 2026 ? css('--text-3') : null).text(y);
+        ms.forEach((v, j) => bindTip(g.append('rect').attr('x', j * cw + 1).attr('y', cy + 1).attr('width', cw - 2).attr('height', ch - 2).attr('rx', 2.5).attr('fill', col(v)).attr('opacity', y === 2026 ? .55 : 1).datum([y, j, v]),
+          d => `<b>${HR() ? Cap(MNOM[d[1]]) : MEN[d[1]]} ${yT(d[0])}</b>` + trow(null, L('Zakona', 'Laws'), fmt(d[2]))));
+        const tt = sum(ms);
+        if (!nw) g.append('path').attr('d', barPath(12 * cw + 10, cy + 3, 12 * cw + 10 + Math.max(1, xb(tt)), ch - 6, 2)).attr('fill', css('--muted-mark'));
+        g.append('text').attr('class', 'lbl').attr('x', 12 * cw + (nw ? 6 : 16) + (nw ? 0 : xb(tt))).attr('y', cy + ch - 4).text(tt);
+      });
+      note(el, ['git log (Published)', 'data/zakoni.json', 'data/held.json'], N_(sum(c, r => sum(r[1])), 'zakon'),
+        L('mjesec je mjesec objave u Narodnim novinama (za zadržane akte prema danu izlaska broja); desno je zbroj godine. Ratifikacijski zakoni (međunarodni dio) nisu uključeni. Godina 2026. je nepotpuna.', 'the month is the month of publication in Narodne novine (for acts held back, the day the issue came out); the total of each year is on the right. Ratification laws (international part) are not included. 2026 is partial.'));
+      table(el, [t('year'), ...MSH[LANG], t('total')], c.map(r => [String(r[0]), ...r[1], sum(r[1])]));
+    }
+  };
+});
+
+chart('c05', el => {
+  const c = D.c05, dec_ = c.decrees, cov = dec_.filter(d => d[0] >= '2000-12-15'), inside = cov.filter(d => d[2]);
+  const early = dec_.filter(d => d[0] < '2000-12-15'), eTop = d3.rollups(early, v => v.length, d => d[0].slice(0, 4)).reduce((a, b) => b[1] > a[1] ? b : a);
+  const rec = cov.filter(d => d[2] === 'recess').length, dis = cov.filter(d => d[2] === 'dissolved').length;
+  return {
+    title: L(`Uredbom umjesto zakonom: od prosinca 2000. Vlada je ${fmt(cov.length)} ${pl(cov.length, 'put', 'puta', 'puta')} izmijenila zakon uredbom, ${fmt(inside.length)} ${pl(inside.length, 'put', 'puta', 'puta')} dok Sabor nije zasjedao`,
+      `Laws changed by decree: since December 2000 the Government has amended a law by decree ${fmt(cov.length)} times, ${fmt(inside.length)} of them while the Sabor was not sitting`),
+    toc: L('Vlada mijenja zakone uredbom', 'The Government amending laws by decree'),
+    dek: L(`Sabor može Vladu ovlastiti da uredbama uređuje pojedina pitanja iz njegova djelokruga, najviše na godinu dana (čl. 88. Ustava). Svake godine to čini posebnim zakonom: od 2000. za dva razdoblja, redovito od 15. prosinca do 15. siječnja i od 15. srpnja do 15. rujna (svijetle trake) te od raspuštanja Sabora do prvog zasjedanja novoga (narančaste trake). Svaka točka je jedna uredba o izmjeni ili dopuni zakona; od prosinca 2000. u stanci ih je izašlo ${fmt(rec)}, a nakon raspuštanja Sabora ${fmt(dis)}. Prije prosinca 2000. bilo ih je ${fmt(early.length)}, najviše ${yT(eTop[0])} (${fmt(eTop[1])}).`,
+      `The Sabor may authorise the Government to regulate matters within its remit by decree, for at most a year (Article 88 of the Constitution). It does so every year by a law of its own: since 2000 for two windows, as a rule 15 December to 15 January and 15 July to 15 September (light bands), and from the Sabor’s dissolution to the first sitting of the new one (orange bands). Each dot is one decree amending a law; since December 2000, ${fmt(rec)} came out in a recess and ${fmt(dis)} after the Sabor was dissolved. Before December 2000 there were ${fmt(early.length)}, the most in ${eTop[0]} (${fmt(eTop[1])}).`),
+    draw(el) {
+      const cols = S8(), cIn = cols[0], cDis = cols[1], cOut = css('--text-3'), cEarly = cols[6];
+      const dotC = d => d[0] < '2000-12-15' ? cEarly : d[2] === 'recess' ? cIn : d[2] === 'dissolved' ? cDis : cOut;
+      const bandRec = d3.interpolateRgb(css('--surface'), cIn)(0.2), bandDis = d3.interpolateRgb(css('--surface'), cDis)(0.26);
+      // summary cards: one per decade
+      const decs = [[1990, 1999], [2000, 2009], [2010, 2019], [2020, 2026]];
+      const cards = el.append('div').attr('class', 'ptiles');
+      decs.forEach(([a, b]) => {
+        const v = dec_.filter(d => +d[0].slice(0, 4) >= a && +d[0].slice(0, 4) <= b), n = v.length, yrs = Math.min(b, 2026) - Math.max(a, 1991) + (b === 2026 ? 0.87 : 1);
+        const card = cards.append('div').attr('class', 'ptile');
+        card.append('div').attr('class', 'pn').text(span(a, b));
+        card.append('div').attr('class', 'pv').html(`<b>${fmt(n)}</b> ${HR() ? pl(n, 'uredba', 'uredbe', 'uredaba') : (n === 1 ? 'decree' : 'decrees')}`);
+        card.append('div').attr('class', 'ps').text(L(`${dec(n / yrs, 1)} godišnje`, `${dec(n / yrs, 1)} a year`));
+        const bar = card.append('div').attr('class', 'pbar');
+        const groups = [[d => d[0] < '2000-12-15', cEarly], [d => d[0] >= '2000-12-15' && d[2] === 'recess', cIn], [d => d[0] >= '2000-12-15' && d[2] === 'dissolved', cDis], [d => d[0] >= '2000-12-15' && !d[2], cOut]];
+        groups.forEach(([f, cc]) => { const m = v.filter(f).length; if (m) bar.append('i').style('flex', m).style('background', cc); });
+      });
+      legend(el, [{ c: bandRec, l: L('Stanka Sabora prema godišnjem zakonu o ovlasti', 'Recess under the yearly authorisation law') }, { c: bandDis, l: L('Od raspuštanja Sabora do prvog zasjedanja novoga', 'From dissolution to the new Sabor’s first sitting') },
+        { c: cEarly, l: L('Uredba prije prosinca 2000.', 'Decree before December 2000'), shape: 'dot' },
+        { c: cIn, l: L('Uredba u stanci', 'Decree in a recess'), shape: 'dot' }, { c: cDis, l: L('Uredba nakon raspuštanja', 'Decree after dissolution'), shape: 'dot' }, { c: cOut, l: L('Izvan tih razdoblja', 'Outside them'), shape: 'dot' }]);
+      const years = d3.range(1992, 2027), w = W(el), nw = narrow(w), lw = Math.ceil(textW(el, ['2026'], 'lbl strong')) + 10, rw = nw ? 24 : 34;
+      const rowH = nw ? 13 : 15, m = { t: 22, l: lw }, iw = w - lw - rw, h = m.t + rowH * years.length + 8;
+      const svg = svgIn(el, w, h), g = svg.append('g').attr('transform', `translate(${m.l},${m.t})`);
+      const x = d3.scaleLinear().domain([0, 366]).range([0, iw]);
+      d3.range(12).forEach(i => { const xx = x(doy(`2001-${String(i + 1).padStart(2, '0')}-01`));
+        g.append('line').attr('x1', xx).attr('x2', xx).attr('y1', -4).attr('y2', rowH * years.length).attr('stroke', css('--grid'));
+        g.append('text').attr('class', 'lbl').attr('x', xx + (x(31) - x(0)) / 2).attr('y', -8).attr('text-anchor', 'middle').text(MSH[LANG][i]); });
+      // windows, split at year ends
+      const shade = (a, b, color) => { let s = PD(a), e = PD(b);
+        while (s <= e) { const y = s.getFullYear(), ye = new Date(y, 11, 31), ee = e < ye ? e : ye, row = years.indexOf(y);
+          if (row >= 0) g.append('rect').attr('x', x(doy(d3.timeFormat('%Y-%m-%d')(s)))).attr('width', Math.max(1, x(doy(d3.timeFormat('%Y-%m-%d')(ee)) + 1) - x(doy(d3.timeFormat('%Y-%m-%d')(s))))).attr('y', row * rowH + 1).attr('height', rowH - 2).attr('rx', 2).attr('fill', color);
+          s = new Date(y + 1, 0, 1); } };
+      c.periods.forEach(p => shade(p[0], p[1], bandRec));
+      c.dwin.forEach(p => shade(p[0], p[1], bandDis));
+      years.forEach((y, i) => g.append('text').attr('class', 'lbl strong').attr('x', -8).attr('y', i * rowH + rowH - 3).attr('text-anchor', 'end').style('fill', y % 5 ? css('--text-3') : null).text(y));
+      // dots, stacked within a row when they share a day
+      const seen = {};
+      const pts = dec_.map(d => { const y = +d[0].slice(0, 4), k = d[0], j = (seen[k] = (seen[k] || 0) + 1) - 1, x0 = x(doy(d[0]));
+        return { d, row: years.indexOf(y), cx: x0 + (x0 > iw - 30 ? -j : j) * 4.2 }; }).filter(p => p.row >= 0);   // dots on the same day stack sideways, inwards near the year's end
+      bindTip(g.append('g').selectAll('circle').data(pts).join('circle').attr('cx', p => p.cx).attr('cy', p => p.row * rowH + rowH / 2).attr('r', nw ? 2.4 : 3.1)
+        .attr('fill', p => dotC(p.d)).attr('stroke', css('--surface')).attr('stroke-width', 1),
+        p => `<b>${dateTxt(p.d[0])}</b><div class="q">${esc(HR() ? p.d[1] : decreeEn(p.d[1]))}</div>` + trow(null, L('Razdoblje', 'Window'), p.d[0] < '2000-12-15' ? L('prije prosinca 2000. (zakoni o ovlasti ne navode datume)', 'before December 2000 (the authorisation laws give no dates)') : p.d[2] === 'recess' ? L('stanka Sabora', 'Sabor recess') : p.d[2] === 'dissolved' ? L('Sabor raspušten', 'Sabor dissolved') : L('izvan ovlaštenih razdoblja', 'outside the authorised windows')));
+      years.forEach((y, i) => { const n = dec_.filter(d => +d[0].slice(0, 4) === y).length; if (n) g.append('text').attr('class', 'lbl').attr('x', iw + 6).attr('y', i * rowH + rowH - 3).text(n); });
+      note(el, [['git log (naslov uredbe, Published)', 'git log (decree title, Published)'], ['zakon/<godina>/<broj>/clanak-001.md (zakoni o ovlasti)', 'zakon/<year>/<number>/clanak-001.md (authorisation laws)'], ['odluka/… (raspuštanje Sabora, prvo zasjedanje)', 'odluka/… (Sabor dissolved, first sitting)']], N_(dec_.length, 'uredba') + L(' o izmjeni zakona', ' amending laws'),
+        L(`uredba se računa ako joj naslov kaže da mijenja ili dopunjuje zakon; datum je dan objave u Narodnim novinama. Razdoblja su pročitana iz članka 1. svakog godišnjeg zakona o ovlasti od 2000. i iz odluka o raspuštanju Sabora i o sazivanju prvog zasjedanja; zakoni iz 1990-ih ne navode datume (1992.–1995. ovlast za cijelu godinu, od 1996. „u vrijeme kada Zastupnički dom ne zasjeda”), pa ti redovi nemaju traka. Najčešće mijenjani zakoni uredbom su u tablici.`,
+          `a decree counts when its title says it amends or supplements a law; the date is its publication in Narodne novine. The windows are read from Article 1 of each yearly authorisation law since 2000 and from the decisions dissolving the Sabor and convening its first sitting; the laws of the 1990s give no dates (1992–1995 the authority ran for the whole year, from 1996 “while the Chamber of Representatives is not sitting”), so those rows have no bands. The laws most often amended by decree are in the table.`));
+      const tb = table(el, [L('Datum objave', 'Published'), L('Uredba', 'Decree'), L('Razdoblje', 'Window')], dec_.map(d => [d[0], HR() ? d[1] : decreeEn(d[1]), d[2] === 'recess' ? L('stanka', 'recess') : d[2] === 'dissolved' ? L('raspušten', 'dissolved') : '–']));
+      const sc = tb.select('.scroll');
+      sc.append('h4').style('margin', '14px 0 6px').style('font', '600 13px/1.4 var(--sans)').text(L('Zakoni koje je Vlada najčešće mijenjala uredbom', 'The laws the Government most often amended by decree'));
+      const t2 = sc.append('table');
+      t2.append('tbody').selectAll('tr').data(c.top).join('tr').selectAll('td').data(r => [lawName(r[0]), r[1]]).join('td').attr('class', (v, i) => i ? 'n' : null).text(v => typeof v === 'number' ? fmt(v) : v);
+    }
+  };
+});
+const decreeEn = s => { const m = s.match(/^Uredb\S*\s+o\s+(izmjen\S*|dopun\S*|izmjeni)(?:\s+i\s+(dopun\S*|izmjen\S*))?\s+(.*)$/i); if (!m) return s;
+  const obj = m[3].replace(/^Zakona\b/, 'Zakon').replace(/^Zakonika\b/, 'Zakonik').replace(/^(\S+)(og|eg) (zakona|zakonika)\b/, (q, a, b, c) => `${a}i ${c === 'zakona' ? 'zakon' : 'zakonik'}`);
+  return `Decree ${/dopun/i.test(m[1]) && !m[2] ? 'supplementing' : 'amending'} the ${LAWEN[obj] || obj}`; };
+
+chart('c06', el => {
+  const c = D.c06, ys = c.years.filter(r => r[0] >= 1990), dd = c.dec;
+  const m90 = dd[0][2], m20 = dd[dd.length - 1][2];
+  return {
+    title: L(`Novi zakoni sve su dulji: medijan je narastao s ${N_(m90, "clanak")} u 1990-ima na ${fmt(m20)} od 2020.`, `New laws are getting longer: the median grew from ${fmt(m90)} articles in the 1990s to ${fmt(m20)} since 2020`),
+    toc: L('Koliko su dugi zakoni', 'How long laws are'),
+    dek: L(`Repozitorij drži svaki članak zakona kao zasebnu datoteku, pa je duljina zakona broj njegovih članaka. Crta je medijan novih zakona (bez zakona o izmjenama) svake godine, a pojas srednja polovica zakona. Medijan je bio ${N_(m90, "clanak")} u 1990-ima, ${fmt(dd[1][2])} u 2000-ima, ${fmt(dd[2][2])} u 2010-ima i ${fmt(m20)} od 2020. Najdulji je ${c.longest[0][2]} iz ${yT(c.longest[0][1])} s ${N_(c.longest[0][0], "clanak")}.`,
+      `The repository holds every article of a law as a file of its own, so a law’s length is its number of articles. The line is the median of each year’s new laws (amending laws left out), and the band the middle half of them. The median was ${fmt(m90)} articles in the 1990s, ${fmt(dd[1][2])} in the 2000s, ${fmt(dd[2][2])} in the 2010s and ${fmt(m20)} since 2020. The longest is the ${lawName(c.longest[0][2])} of ${c.longest[0][1]}, with ${fmt(c.longest[0][0])} articles.`),
+    draw(el) {
+      const box = el.append('div').attr('class', 'mini');
+      const pa = box.append('div'), pb = box.append('div');
+      pa.append('h4').text(L('Članaka u novom zakonu, po godini', 'Articles in a new law, by year'));
+      pa.append('p').text(L('medijan i srednja polovica zakona', 'median and the middle half of the laws'));
+      const w = W(pa), h = 260, m = { t: 22, r: 12, b: 24, l: 36 };
+      const svg = svgIn(pa, w, h), g = svg.append('g').attr('transform', `translate(${m.l},${m.t})`);
+      const iw = w - m.l - m.r, ih = h - m.t - m.b, ink = css('--s1');
+      const x = d3.scaleLinear().domain([1990, 2026]).range([0, iw]), y = d3.scaleLinear().domain([0, d3.max(ys, r => r[4]) * 1.05]).nice().range([ih, 0]);
+      yAxis(g, y, iw, 5);
+      (iw < 360 ? [1990, 2000, 2010, 2020] : [1990, 2000, 2010, 2020, 2026]).forEach(v => g.append('text').attr('class', 'lbl').attr('x', x(v)).attr('y', ih + 16).attr('text-anchor', v === 2026 ? 'end' : v === 1990 ? 'start' : 'middle').text(v));
+      g.append('line').attr('class', 'base').attr('x1', 0).attr('x2', iw).attr('y1', ih).attr('y2', ih);
+      g.append('path').attr('d', d3.area().x(r => x(r[0])).y0(r => y(r[3])).y1(r => y(r[4]))(ys)).attr('fill', ink).attr('opacity', .14);
+      g.append('path').attr('d', d3.line().x(r => x(r[0])).y(r => y(r[2]))(ys)).attr('fill', 'none').attr('stroke', ink).attr('stroke-width', 2).attr('stroke-linejoin', 'round');
+      // decade medians as dashed steps; each label goes where the yearly line does not pass (start, end or middle, above or below)
+      const lineY = xx => { const yy = (x.invert(xx)); const i = d3.bisector(r => r[0]).left(ys, yy); const a = ys[Math.max(0, i - 1)], b = ys[Math.min(ys.length - 1, i)];
+        if (!a || !b || a[0] === b[0]) return y((a || b)[2]); const f = (yy - a[0]) / (b[0] - a[0]); return y(a[2] + f * (b[2] - a[2])); };
+      dd.forEach(([a, b, md]) => { const x0 = x(a), x1 = x(Math.min(b + 1, 2026)), lab = fmt(md), tw = textW(el, [lab]) + 6;
+        g.append('line').attr('x1', x0 + 2).attr('x2', x1 - 2).attr('y1', y(md)).attr('y2', y(md)).attr('stroke', css('--text')).attr('stroke-width', 1.4).attr('stroke-dasharray', '4 3');
+        const cands = [[x0 + 4, -7], [x1 - 4 - tw, -7], [(x0 + x1) / 2 - tw / 2, -7], [x0 + 4, 14], [x1 - 4 - tw, 14], [(x0 + x1) / 2 - tw / 2, 14]];
+        const ok = ([lx, dy]) => { const top = y(md) + dy - 10, bot = y(md) + dy + 2; for (let q = lx; q <= lx + tw; q += 2) { const ly = lineY(q); if (ly >= top - 3 && ly <= bot + 3) return false; } return true; };
+        const [lx, dy] = cands.find(ok) || cands[0];
+        halo(g, lx, y(md) + dy, lab, 'start'); });
+      bindTip(g.append('g').selectAll('circle').data(ys).join('circle').attr('cx', r => x(r[0])).attr('cy', r => y(r[2])).attr('r', 2.6).attr('fill', ink),
+        r => `<b>${yT(r[0])}</b>` + trow(null, L('Novih zakona', 'New laws'), fmt(r[1])) + trow(ink, L('Medijan članaka', 'Median articles'), fmt(r[2])) + trow(null, L('Srednja polovica', 'Middle half'), `${fmt(Math.round(r[3]))}–${fmt(Math.round(r[4]))}`) + trow(null, L('Najdulji', 'Longest'), fmt(r[5])));
+      pb.append('h4').text(L('Najdulji zakoni', 'The longest laws'));
+      pb.append('p').text(L('broj članaka', 'number of articles'));
+      barList(pb, c.longest.slice(0, 10), { label: (r, nw_) => `${lawName(r[2])} (${r[1]})`, value: r => r[0], color: () => ink, cap: 300, rw: 40,
+        tip: r => `<b>${esc(lawName(r[2]))}</b>` + trow(null, L('Godina', 'Year'), r[1]) + trow(null, L('Članaka', 'Articles'), fmt(r[0])) + trow(null, L('Mapa', 'Folder'), r[3]) });
+      note(el, ['zakon/<godina>/<broj>/clanak-*.md'], N_(sum(ys, r => r[1]), 'novi'),
+        L(`članak je datoteka clanak-*.md; zakoni ukinuti u cijelosti pročitani su iz stanja prije ukidanja (${fmt(PF.removed_laws)}). Nisu uključeni zakoni o izmjenama, zakoni zadržani izvan glavne grane ni zakoni bez podjele na članke. Isprekidane crte su medijani desetljeća.`,
+          `an article is a clanak-*.md file; laws repealed as a whole are read from before their repeal (${fmt(PF.removed_laws)}). Amending laws, laws held back from main and laws not split into articles are left out. The dashed lines are the decade medians.`));
+      table(el, [t('year'), L('Novih zakona', 'New laws'), L('Medijan', 'Median'), L('Donja četvrtina', 'Lower quartile'), L('Gornja četvrtina', 'Upper quartile'), L('Najdulji', 'Longest')], ys.map(r => [String(r[0]), r[1], r[2], Math.round(r[3]), Math.round(r[4]), r[5]]));
+    }
+  };
+});
+
+part('p2', 'II. Stupanje na snagu, izmjene i ispravci', 'II. Entry into force, amendments and corrections',
+  'Kada akti počinju vrijediti, koliko se brzo i koliko često mijenjaju, što je od njih ostalo i koliko je trebalo ispravljati ono što je već objavljeno.',
+  'When acts start to apply, how soon and how often they are amended, what is left of them, and how much of what was printed had to be corrected.');
+
+const C07 = ['d0', 'd1', 'd2', 'd8', 'jan1', 'm1', 'later'];
+const C07N = { d0: ['na dan objave', 'on the day of publication'], d1: ['idući dan', 'the next day'], d2: ['2. do 7. dan', '2nd to 7th day'], d8: ['8. dan nakon objave', '8th day after publication'],
+  jan1: ['kasnije, 1. siječnja', 'later, on 1 January'], m1: ['kasnije, prvoga u mjesecu', 'later, on the 1st of a month'], later: ['kasnije, drugi dan', 'later, another day'] };
+chart('c07', el => {
+  const c = D.c07, rows = c.periods.map(([p, o]) => ({ p, ...o }));
+  const T = {}; C07.forEach(k => T[k] = sum(rows, r => r[k] || 0)); const N = sum(C07, k => T[k]);
+  const d0late = sum(rows.filter(r => +r.p >= 2015), r => r.d0 || 0), d0early = rows.find(r => r.p === '1990');
+  return {
+    title: L(`Osmi dan nakon objave: tada na snagu stupa ${pct(T.d8, N)} zakona, a „danom objave” od 2015. samo ${HR() ? nhr(d0late, 'zakon', 'zakona', 'zakona') : nen(d0late, 'law', 'laws')}`,
+      `The eighth day after publication: ${pct(T.d8, N)} of laws take effect then, and only ${nen(d0late, 'law', 'laws')} on the day of publication since 2015`),
+    toc: L('Kada zakoni stupaju na snagu', 'When laws take effect'),
+    dek: L(`„Zakon stupa na snagu najranije osmi dan od dana njegove objave, osim ako nije zbog osobito opravdanih razloga zakonom drukčije određeno” (čl. 90. Ustava, isti tekst od 1990.). Svaki pruh pokazuje koliko je zakona jednog petogodišta stupilo na snagu kojeg dana. Na dan objave na snagu je stupilo ${pct(d0early.d0, sum(C07, k => d0early[k] || 0))} zakona iz 1990.–1994.; od 2015. zakoni koji ne čekaju osmi dan stupaju na snagu idući dan.`,
+      `“A law enters into force no earlier than the eighth day after its publication, unless otherwise provided by law for particularly justified reasons” (Article 90 of the Constitution, the same text since 1990). Each band shows on which day the laws of a five-year period took effect. ${pct(d0early.d0, sum(C07, k => d0early[k] || 0))} of the laws of 1990–1994 took effect on the day of publication; since 2015 laws that do not wait for the eighth day take effect on the next day instead.`),
+    draw(el) {
+      const cols = S8(), colors = [cols[7], cols[1], cols[4], cols[0], cols[2], cols[5], css('--muted-mark')];
+      legend(el, C07.map((k, i) => ({ c: colors[i], l: LA(C07N[k]) })));
+      bands(el, rows, C07, colors, C07.map(k => LA(C07N[k])), { label: (r, nw) => nw ? `’${r.p.slice(2)}` : perLong(r.p), right: r => fmt(sum(C07, k => r[k] || 0)), partial: r => r.p === '2025', rowH: 34 });
+      note(el, ['git log (Published, In-force)', 'data/zakoni.json (published, in_force)'], N_(N, 'zakon'),
+        L(`dan stupanja na snagu je onaj koji navodi odredba samog zakona (zakon čiji se dan ne može pročitati repozitorij zadržava, pa ovdje nije). Brojeno od dana objave u Narodnim novinama; „kasnije” znači nakon osmog dana. Desno je broj zakona; 2025.–2026. je nepotpuno.`,
+          `the in-force day is the one the law’s own clause gives (a law whose day cannot be read is held back by the repository, so it is not here). Counted from the day of publication in Narodne novine; “later” means after the eighth day. The number of laws is on the right; 2025–2026 is partial.`));
+      table(el, [L('Razdoblje', 'Period'), ...C07.map(k => LA(C07N[k])), t('total')], c.years.map(([y, o]) => [String(y), ...C07.map(k => o[k] || 0), sum(C07, k => o[k] || 0)]));
+    }
+  };
+});
+
+chart('c08', el => {
+  const c = D.c08, keys = ['zakon', 'uredba', 'pravilnik', 'odluka', 'ostalo'], top = c[0];
+  const eu = D.c08_basis.eu['2013-07-01'] || 0, euro = D.c08_basis.euro['2023-01-01'] || 0;
+  const what = d => { const s = (d.stems[0] || [''])[0];
+    if (d.d === '2013-07-01') return L(`pristupanje EU: ${N_(eu, 'akt')} ${pl(eu, 'navodi', 'navode', 'navodi')} ga kao temelj stupanja na snagu`, `EU accession: ${fmt(eu)} acts give it as the basis of their day`);
+    if (d.d === '2023-01-01') return L(`euro: ${N_(euro, 'akt')} ${pl(euro, 'navodi', 'navode', 'navodi')} uvođenje eura kao temelj stupanja na snagu`, `the euro: ${fmt(euro)} acts give its introduction as the basis of their day`);
+    if (/^Odluka o visini poreznih stopa/.test(s)) return L(`${N_(d.stems[0][1], 'odluka')} općina i gradova o stopama poreza na dohodak`, `${fmt(d.stems[0][1])} municipal and city decisions on income tax rates`);
+    if (/^Odluka o usklađivanju mirovina/.test(s)) return L('usklađivanje mirovina i drugih primanja', 'pensions and other benefits adjusted');
+    return ''; };
+  const nT = tot5(top), usual = c.slice(0, 3).map(d => d.d).join() === '2024-01-01,2023-01-01,2013-07-01';
+  return {
+    title: L(`${Cap(dateTxt(top.d))}: ${N_(nT, 'akt')} ${pl(nT, 'stupio je', 'stupila su', 'stupilo je')} na snagu istoga dana`, `${dateTxt(top.d)}: ${fmt(nT)} acts took effect on a single day`),
+    toc: L('Dani s najviše novih propisa', 'The busiest days'),
+    dek: L(`Petnaest dana na koje je stupilo na snagu najviše akata Narodnih novina u repozitoriju, po vrsti akta.` + (usual ? ` Prva su dva 1. siječnja: ${yT(2024)}, kad su na snagu stupile odluke općina i gradova o porezu na dohodak, i ${yT(2023)}, s uvođenjem eura; treći je 1. srpnja 2013., dan pristupanja Europskoj uniji.` : ''),
+      `The fifteen days on which the most acts of Narodne novine in the repository took effect, by kind of act.` + (usual ? ` The first two are 1 January: in 2024, when the municipal and city decisions on income tax took effect, and in 2023, with the euro; third is 1 July 2013, the day Croatia joined the European Union.` : '')),
+    draw(el) {
+      const col = KCOL(), colors = keys.map(k => col[k]);
+      legend(el, keys.map((k, i) => ({ c: colors[i], l: LA(KIND[k]) })));
+      barList(el, c, { label: d => dateTxt(d.d), sub: d => what(d), segs: d => keys.map((k, i) => [d[k] || 0, colors[i]]), value: tot5, cap: 220, rw: 36,
+        tip: d => `<b>${dateTxt(d.d)}</b>` + keys.map((k, i) => d[k] ? trow(colors[i], LA(KIND[k]), fmt(d[k])) : '').join('') + trow(null, t('total'), fmt(tot5(d))) + (HR() ? '<div class="q">' + d.stems.map(s => `${esc(s[0])}… (${s[1]})`).join('<br>') + '</div>' : '') });
+      note(el, ['git log (In-force, In-force-basis)', 'data/zakoni.json'], N_(sum(c, tot5), 'akt') + L(' u 15 dana', ' on 15 days'),
+        L('broji se dan kad je akt prvi put stupio na snagu, kako ga navodi njegova odredba; zadržani akti nemaju dan pa nisu uključeni. Za 1. srpnja 2013. i 1. siječnja 2023. broj akata koji kao temelj navode pristupanje EU ili uvođenje eura uzet je iz trailera In-force-basis.',
+          'the day counted is the day an act first took effect, as its own clause gives it; acts held back have no day and are not included. For 1 July 2013 and 1 January 2023 the number of acts that give EU accession or the euro as their basis comes from the In-force-basis trailer.'));
+      table(el, [L('Dan', 'Day'), ...keys.map(k => LA(KIND[k])), t('total')], c.map(d => [d.d, ...keys.map(k => d[k] || 0), tot5(d)]));
+    }
+  };
+});
+
+chart('c09', el => {
+  const c = D.c09.slice(0, 20), Y0 = 1990, Y1 = 2026, YRS = d3.range(Y0, Y1 + 1), top = c[0];
+  const first = r => +Object.keys(r.by).sort()[0];
+  const ex = c.filter(r => r.new.length >= 3).sort((a, b) => b.new.length - a.new.length || b.n - a.n)[0];
+  return {
+    title: L(`Najčešće mijenjani zakoni: ${top.name} ${fmt(top.n)} ${pl(top.n, 'put', 'puta', 'puta')} od ${yT(first(top))}`, `The most amended laws: the ${lawName(top.name)} ${fmt(top.n)} times since ${first(top)}`),
+    toc: L('Najčešće mijenjani zakoni', 'The most amended laws'),
+    dek: L(`Svaki redak je jedan zakon, svako polje jedna godina: što tamnije, to je više zakona o izmjenama i dopunama toga zakona objavljeno te godine. Uokvirena polja su godine u kojima je Sabor donio novi zakon istog naslova, koji je zamijenio stari${ex ? ` (${ex.name}: ${andHr(ex.new.map(n => yT(n[0])))})` : ''}.`,
+      `Each row is one law and each cell one year: the darker, the more laws amending it were published that year. Outlined cells are years in which the Sabor passed a new law of the same title that replaced the old one${ex ? ` (the ${lawName(ex.name)}: ${andEn(ex.new.map(n => n[0]))})` : ''}.`),
+    draw(el) {
+      const short = s => s.replace(/ u Republici Hrvatskoj$/, '');      // the row label; the tooltip keeps the full name
+      const w = W(el), nw = narrow(w), rowH = 21, labs = c.map(r => short(lawName(r.name)));
+      const lw = nw ? 0 : Math.ceil(Math.min(textW(el, labs), w * 0.42)) + 12, rw = nw ? 28 : 64, up = nw ? 13 : 0;
+      const m = { t: 20, l: lw }, iw = w - lw - rw, cw = iw / YRS.length, h = m.t + (rowH + up) * c.length + 4;
+      const mx = d3.max(c, r => d3.max(Object.values(r.by))), ramp = seqRamp(), col = n => ramp(0.15 + 0.85 * Math.sqrt(n / mx));
+      legend(el, [1, 2, 3, mx].map(n => ({ c: col(n), l: n === mx ? L(`${N_(n, 'izmjena')} u godini`, `${n} amending laws a year`) : String(n) })).concat([{ c: css('--surface-2'), l: L('godina bez izmjene', 'a year without one') }, { c: css('--text'), l: L('novi zakon istog naslova', 'a new law of the same title'), shape: 'outline' }]));
+      const svg = svgIn(el, w, h), g = svg.append('g').attr('transform', `translate(${m.l},${m.t})`);
+      YRS.forEach((y, j) => { if (y % (nw ? 10 : 5) === 0) g.append('text').attr('class', 'lbl').attr('x', j * cw + cw / 2).attr('y', -7).attr('text-anchor', 'middle').text(y); });
+      const xb = d3.scaleLinear().domain([0, top.n]).range([0, rw - (nw ? 4 : 30)]);
+      c.forEach((r, i) => {
+        const cy = i * (rowH + up) + up, newY = new Set(r.new.map(n => n[0])), born = Math.min(first(r), ...(r.new.length ? r.new.map(n => n[0]) : [9999]));
+        if (nw) g.append('text').attr('class', 'lbl strong').attr('x', 0).attr('y', cy - 3).text(labs[i]);
+        else g.append('text').attr('class', 'lbl strong').attr('x', -8).attr('y', cy + 15).attr('text-anchor', 'end').text(labs[i]);
+        YRS.forEach((y, j) => {
+          if (y < born) return;
+          const n = r.by[String(y)] || 0;
+          g.append('rect').attr('x', j * cw + 0.75).attr('y', cy + 2).attr('width', Math.max(1, cw - 1.5)).attr('height', rowH - 4).attr('rx', Math.min(3, cw / 3)).attr('fill', n ? col(n) : css('--surface-2'));
+          if (newY.has(y)) g.append('rect').attr('x', j * cw + 0.75).attr('y', cy + 2).attr('width', Math.max(1, cw - 1.5)).attr('height', rowH - 4).attr('rx', Math.min(3, cw / 3)).attr('fill', 'none').attr('stroke', css('--text')).attr('stroke-width', 1.6);
+        });
+        if (!nw) g.append('path').attr('d', barPath(iw + 8, cy + 6, iw + 8 + xb(r.n), rowH - 12, 2)).attr('fill', css('--s1'));
+        g.append('text').attr('class', 'lbl').attr('x', iw + (nw ? 4 : 12) + (nw ? 0 : xb(r.n))).attr('y', cy + 15).text(r.n);
+        bindTip(g.append('rect').attr('class', 'hit').attr('x', -lw).attr('width', w).attr('y', cy - up).attr('height', rowH + up).datum(r),
+          d => `<b>${esc(lawName(d.name))}</b>` + trow(null, L('Zakona o izmjenama', 'Amending laws'), fmt(d.n)) + (d.new.length ? trow(null, L('Novi zakon istog naslova', 'New law of the same title'), d.new.map(n => n[0]).join(', ')) : '') +
+            trow(null, L('Najviše u godini', 'Most in a year'), (() => { const e = Object.entries(d.by).reduce((a, b) => b[1] > a[1] ? b : a); return `${e[1]} (${e[0]})`; })()));
+      });
+      note(el, [['git log (naslov zakona)', 'git log (law title)'], 'data/zakoni.json', 'data/held.json'], N_(sum(c, r => r.n), 'izmj'),
+        L('zakon o izmjenama pridružen je zakonu čiji naslov navodi (u genitivu: „… Zakona o porezu na dohodak”), pa redak spaja sve zakone istog naslova; novi zakon istog naslova obično stari zamjenjuje. Zakon koji mijenja više zakona broji se uz prvi. Godina je godina objave.',
+          'an amending law is matched to the law its title names (“… Zakona o porezu na dohodak”), so a row joins every law of that title; a new law of the same title usually replaces the old one. A law amending several laws counts for the first. The year is the year of publication.'));
+      table(el, [L('Zakon', 'Act'), ...YRS.map(String), t('total')], c.map(r => [lawName(r.name), ...YRS.map(y => r.by[String(y)] || 0), r.n]));
+    }
+  };
+});
+
+chart('c10', el => {
+  const c = D.c10, decs = ['1990', '2000', '2010', '2020'];
+  const DN = { 1990: ['1990-ih', '1990s'], 2000: ['2000-ih', '2000s'], 2010: ['2010-ih', '2010s'], 2020: ['od 2020.', 'since 2020'] };
+  const m0 = c['2000'].median, m1 = c['2010'].median;
+  return {
+    title: L(`Do prve izmjene: polovica novih zakona iz 2000-ih i 2010-ih izmijenjena je unutar ${dec(Math.max(m0, m1), 1)} godine`, `Until the first amendment: half of the new laws of the 2000s and 2010s were amended within ${dec(Math.max(m0, m1), 1)} years`),
+    toc: L('Koliko brzo dolazi prva izmjena', 'How soon the first amendment comes'),
+    dek: L(`Za nove zakone svakog desetljeća: koliki ih je udio još bez ikakve izmjene nakon toliko godina od objave (Kaplan-Meierova procjena; zakon ukinut ili zamijenjen prije izmjene ispada iz računa). Polovica zakona iz 2000-ih izmijenjena je unutar ${dec(m0, 1)} godine, iz 2010-ih unutar ${dec(m1, 1)}; nakon pet godina bez izmjene bilo je ${pct(c['1990'].s5, 1)} zakona iz 1990-ih.`,
+      `For the new laws of each decade: what share was still without any amendment so many years after publication (Kaplan-Meier estimate; a law repealed or replaced before an amendment drops out). Half of the laws of the 2000s were amended within ${dec(m0, 1)} years, of the 2010s within ${dec(m1, 1)}; after five years ${pct(c['1990'].s5, 1)} of the laws of the 1990s were still unamended.`),
+    draw(el) {
+      const cols = S8(), colors = { 1990: cols[6], 2000: cols[1], 2010: cols[0], 2020: cols[2] };
+      legend(el, decs.map(d => ({ c: colors[d], l: `${L('Zakoni ', 'Laws of the ')}${LA(DN[d])} (${fmt(c[d].n)})`, shape: 'line' })));
+      const w = W(el), nw = narrow(w), h = 300, m = { t: 14, r: nw ? 46 : 96, b: 34, l: 44 };
+      const svg = svgIn(el, w, h), g = svg.append('g').attr('transform', `translate(${m.l},${m.t})`);
+      const iw = w - m.l - m.r, ih = h - m.t - m.b, H = 12;
+      const x = d3.scaleLinear().domain([0, H]).range([0, iw]), y = d3.scaleLinear().domain([0, 1]).range([ih, 0]);
+      yAxis(g, y, iw, 5, v => pv(100 * v));
+      d3.range(0, H + 1, 2).forEach(v => g.append('text').attr('class', 'lbl').attr('x', x(v)).attr('y', ih + 16).attr('text-anchor', 'middle').text(v));
+      g.append('text').attr('class', 'lbl mut').attr('x', iw).attr('y', ih + 30).attr('text-anchor', 'end').text(L('godina od objave', 'years since publication'));
+      g.append('line').attr('class', 'base').attr('x1', 0).attr('x2', iw).attr('y1', ih).attr('y2', ih);
+      g.append('line').attr('x1', 0).attr('x2', iw).attr('y1', y(.5)).attr('y2', y(.5)).attr('stroke', css('--text-3')).attr('stroke-dasharray', '3 3');
+      const ends = [];
+      decs.forEach(d => {
+        const cv = c[d].curve, tmax = Math.min(H, c[d].maxt), pts = [];
+        cv.forEach((p, i) => { if (p[0] > tmax) return; if (i) pts.push([p[0], cv[i - 1][1]]); pts.push([p[0], p[1]]); });
+        pts.push([tmax, cv.filter(p => p[0] <= tmax).slice(-1)[0][1]]);
+        g.append('path').attr('d', d3.line().x(p => x(p[0])).y(p => y(p[1]))(pts)).attr('fill', 'none').attr('stroke', colors[d]).attr('stroke-width', 2.2);
+        if (c[d].median && c[d].median <= H) {
+          g.append('line').attr('x1', x(c[d].median)).attr('x2', x(c[d].median)).attr('y1', y(.5)).attr('y2', ih).attr('stroke', colors[d]).attr('stroke-dasharray', '2 3');
+        }
+        ends.push({ d, x: x(tmax), y: y(pts[pts.length - 1][1]), v: pts[pts.length - 1][1], t: tmax });
+      });
+      // end labels, kept apart vertically
+      ends.sort((a, b) => a.y - b.y); for (let i = 1; i < ends.length; i++) if (ends[i].y - ends[i - 1].y < 13) ends[i].y = ends[i - 1].y + 13;
+      ends.forEach(e => halo(g, e.x + 6, e.y + 4, nw ? pv(100 * e.v) : `${LA(DN[e.d])} ${pv(100 * e.v)}`, 'start', 'lbl strong', colors[e.d]));
+      halo(g, iw - 4, y(.5) + 14, L('polovica još bez izmjene', 'half still unamended'), 'end', 'lbl mut');
+      bindTip(g.append('rect').attr('class', 'hit').attr('width', iw).attr('height', ih).datum(1), () => `<b>${L('Bez izmjene nakon', 'Unamended after')}</b>` +
+        [1, 2, 5].map(k => trow(null, L(`${k} ${pl(k, 'godine', 'godine', 'godina')}`, `${k} year${k > 1 ? 's' : ''}`), decs.map(d => pv(100 * c[d]['s' + k])).join(' · '))).join('') + `<div class="q">${decs.map(d => LA(DN[d])).join(' · ')}</div>`);
+      note(el, ['registry/data/acts.json (amended_by)', 'data/zakoni.json (amended_by)'], N_(sum(decs, d => c[d].n), 'novi'),
+        L(`izmjena je prvi kasniji akt koji Narodne novine povezuju sa zakonom kao izmjenu (bez ispravaka i odluka Ustavnog suda), prema popisu u registry/data/acts.json; akti dodani poslije tog popisa (${N_(PF.acts_unlinked, 'akt')} svih vrsta) nemaju veze pa nisu uključeni. Isprekidane okomite crte su medijani. Zakoni od 2020. prate se kraće.`,
+          `an amendment is the first later act Narodne novine links to the law as amending it (corrections and Constitutional Court decisions left out), per the list in registry/data/acts.json; acts added after that list was written (${fmt(PF.acts_unlinked)} of all kinds) have no links and are left out. The dashed vertical lines are the medians. Laws since 2020 are followed for less time.`));
+      table(el, [L('Desetljeće', 'Decade'), L('Zakona', 'Laws'), L('Izmijenjeno', 'Amended'), L('Bez izmjene nakon 1 god.', 'Unamended after 1 yr'), L('nakon 2 god.', 'after 2 yrs'), L('nakon 5 god.', 'after 5 yrs'), L('Medijan (god.)', 'Median (yrs)')],
+        decs.map(d => [LA(DN[d]), c[d].n, c[d].events, pv(100 * c[d].s1), pv(100 * c[d].s2), pv(100 * c[d].s5), c[d].median ? dec(c[d].median, 1) : '–']));
+    }
+  };
+});
+
+const C11 = ['inforce', 'amended', 'cited', 'replaced', 'repealed', 'other'];
+const C11N = { inforce: ['na snazi, bez izmjena', 'in force, never amended'], amended: ['izmijenjen', 'amended'], cited: ['kasniji akt ga navodi s kasnijim brojem NN', 'cited by a later act with a later NN number'],
+  replaced: ['zamijenjen novim zakonom', 'replaced by a new law'], repealed: ['ukinut', 'repealed'], other: ['ostalo', 'other'] };
+chart('c11', el => {
+  const rows = D.c11.map(([p, o]) => ({ p, ...o })), tot = r => sum(C11, k => r[k] || 0);
+  const r00 = rows.find(r => r.p === '2005'), r90 = rows.find(r => r.p === '1990');
+  return {
+    title: L(`Što je ostalo netaknuto: od zakona iz 2005.–2009. bez ikakve izmjene na snazi je ${pct(r00.inforce, tot(r00))}`, `What is left untouched: of the laws of 2005–2009, ${pct(r00.inforce, tot(r00))} are in force and never amended`),
+    toc: L('Što je od zakona ostalo', 'What is left of the laws'),
+    dek: L(`Novi zakoni (bez zakona o izmjenama) svakog petogodišta prema stanju koje im repozitorij daje: na snazi bez ikakve izmjene, izmijenjeni, zamijenjeni novim zakonom ili ukinuti. Od zakona iz 2005.–2009. ukinuto je ${pct(r00.repealed, tot(r00))}, a netaknuto ostalo ${pct(r00.inforce, tot(r00))}; od zakona iz 1990.–1994. netaknuto je ${pct(r90.inforce, tot(r90))}.`,
+      `The new laws (amending laws left out) of each five-year period by the status the repository gives them: in force and never amended, amended, replaced by a new law or repealed. Of the laws of 2005–2009, ${pct(r00.repealed, tot(r00))} have been repealed and ${pct(r00.inforce, tot(r00))} are untouched; of the laws of 1990–1994, ${pct(r90.inforce, tot(r90))} are untouched.`),
+    draw(el) {
+      const cols = S8(), colors = [cols[2], cols[0], cols[6], cols[3], cols[7], css('--muted-mark')];
+      legend(el, C11.map((k, i) => ({ c: colors[i], l: LA(C11N[k]) })));
+      bands(el, rows, C11, colors, C11.map(k => LA(C11N[k])), { label: (r, nw) => nw ? `’${r.p.slice(2)}` : perLong(r.p), right: r => fmt(tot(r)), partial: r => r.p === '2025', rowH: 34 });
+      note(el, ['registry/data/acts.json (status)', 'data/zakoni.json (status)'], N_(sum(rows, tot), 'novi'),
+        L('stanje je ono koje repozitorij upisuje iz veza Narodnih novina („amended, not consolidated”, „repealed, not consolidated” i slično); „na snazi” znači da nijedan kasniji akt ne mijenja, ne ukida i ne zamjenjuje zakon. Zakon koji je zastario bez formalnog ukidanja ostaje „na snazi”. Zakoni dodani poslije popisa u registry/ nisu uključeni; 2025.–2026. je nepotpuno.',
+          'the status is the one the repository records from Narodne novine’s links (“amended, not consolidated”, “repealed, not consolidated” and the like); “in force” means no later act amends, repeals or replaces the law. A law that became obsolete without a formal repeal stays “in force”. Laws added after the list in registry/ are left out; 2025–2026 is partial.'));
+      table(el, [L('Razdoblje', 'Period'), ...C11.map(k => LA(C11N[k])), t('total')], rows.map(r => [perLong(r.p), ...C11.map(k => r[k] || 0), tot(r)]));
+    }
+  };
+});
+
+chart('c12', el => {
+  const c = D.c12, keys = ['zakon', 'uredba', 'pravilnik', 'odluka', 'ostalo'];
+  const one = Math.round(c.laws / c.laws_corrected);
+  const LB = ['w1', 'm1', 'm3', 'y1', 'more'], LBN = { w1: ['do 7 dana', 'up to 7 days'], m1: ['8 do 30 dana', '8 to 30 days'], m3: ['1 do 3 mjeseca', '1 to 3 months'], y1: ['3 do 12 mjeseci', '3 to 12 months'], more: ['više od godine', 'over a year'] };
+  const lz = c.lag.zakon, lzN = sum(LB, k => lz[k] || 0), yt = r => sum(keys, k => r[k] || 0);
+  const ea = c.years.filter(r => r.y >= 1992 && r.y <= 2005), la = c.years.filter(r => r.y >= 2016 && r.y <= 2025);
+  const rng = rs => `${d3.min(rs, yt)}–${d3.max(rs, yt)}`;
+  return {
+    title: L(`Ispravci: ${N_(c.n, 'ispravak')} od 1990., a ispravak je dobio svaki ${one}. zakon`, `Corrections: ${fmt(c.n)} since 1990, and one law in ${one} needed one`),
+    toc: L('Ispravci objavljenog teksta', 'Corrections of printed text'),
+    dek: L(`Kad je u objavljenom tekstu akta pogreška, Narodne novine tiskaju ispravak kao zaseban dokument. Stupci su ispravci po godini i vrsti ispravljenog akta: od 1992. do 2005. bilo ih je ${rng(ea)} godišnje, od 2016. do 2025. ${rng(la)}. Ispravak zakona došao je u medijanu ${dec(c.median.zakon, c.median.zakon % 1 ? 1 : 0)} dana nakon objave zakona, a ${pct((lz.y1 || 0) + (lz.more || 0), lzN)} tek nakon više od tri mjeseca.`,
+      `When an act’s printed text has an error, Narodne novine prints a correction (ispravak) as a document of its own. The columns are corrections by year and by kind of act corrected: ${rng(ea)} a year from 1992 to 2005, ${rng(la)} from 2016 to 2025. A law’s correction came a median ${dec(c.median.zakon, c.median.zakon % 1 ? 1 : 0)} days after the law was published, and ${pct((lz.y1 || 0) + (lz.more || 0), lzN)} more than three months later.`),
+    draw(el) {
+      const col = KCOL(), colors = keys.map(k => col[k]);
+      legend(el, keys.map((k, i) => ({ c: colors[i], l: LA(KIND[k]) })));
+      stackedColumns(el, c.years, keys, colors, keys.map(k => LA(KIND[k])), { partial: r => r.y === 2026, pad: 0.18, labelIf: r => r.y % 5 === 0, h: 240 });
+      h4(el, L('Koliko je prošlo od objave do ispravka', 'Time from publication to correction'), 16);
+      const rows = [{ k: L('Zakoni', 'Laws'), ...c.lag.zakon }, { k: L('Ostali akti', 'Other acts'), ...c.lag.other }];
+      const ramp = seqRamp(), lcols = [0.25, 0.42, 0.6, 0.8, 1].map(ramp);
+      legend(el, LB.map((k, i) => ({ c: lcols[i], l: LA(LBN[k]) })));
+      bands(el, rows, LB, lcols, LB.map(k => LA(LBN[k])), { label: r => r.k, right: r => fmt(sum(LB, k => r[k] || 0)), rowH: 34 });
+      note(el, ['data/ispravci.csv'], N_(c.n, 'ispravak'),
+        L(`svaki redak tablice data/ispravci.csv je jedan ispravak s ispravljenim aktom; ispravljeni akt pronađen je po broju Narodnih novina za ${N_(c.matched, 'ispravak')}, pa samo oni ulaze u donji graf i u udio zakona (ispravljeno ${fmt(c.laws_corrected)} od ${N_(c.laws, 'zakon')}). Godina 2026. je nepotpuna.`,
+          `each row of data/ispravci.csv is one correction with the act it corrects; the corrected act was found by its Narodne novine number for ${fmt(c.matched)} corrections, so only those enter the lower chart and the share of laws (${fmt(c.laws_corrected)} of ${fmt(c.laws)} laws). 2026 is partial.`));
+      table(el, [t('year'), ...keys.map(k => LA(KIND[k])), t('total')], c.years.map(r => [String(r.y), ...keys.map(k => r[k] || 0), sum(keys, k => r[k] || 0)]));
+    }
+  };
+});
+
+part('p3', 'III. Ustav, Ustavni sud i izbori', 'III. The Constitution, the Constitutional Court and elections',
+  'Ustav iz 1990. sa svim promjenama (pročišćeni tekstovi Odbora za Ustav), odluke Ustavnog suda kojima se ukidaju odredbe propisa i službeni rezultati izbora za Hrvatski sabor.',
+  'The Constitution of 1990 with every change (the consolidated texts of the Constitution Committee), Constitutional Court decisions that repeal provisions, and the official results of elections to the Sabor.');
+
+chart('c13', el => {
+  const v = D.c13, base = v[0];
+  // the 2001 change and its correction of the same day form one row
+  const rows = []; v.slice(1).forEach(r => { const prev = rows[rows.length - 1]; if (prev && prev.date === r.date) { prev.add += r.add; prev.del += r.del; prev.words = r.words; prev.arts = r.arts; prev.nn += ' + ' + r.nn; prev.ph = r.ph; } else rows.push({ ...r }); });
+  const big = rows.reduce((a, b) => (a.add + a.del > b.add + b.del ? a : b)), last = rows[rows.length - 1];
+  const NAME = { '1997-12-15': ['Ustavni zakon o izmjenama i dopunama', 'Constitutional Act amending it'], '2000-11-09': ['Promjena Ustava', 'Amendment'], '2001-03-28': ['Promjena Ustava i ispravak', 'Amendment and correction'],
+    '2010-06-16': ['Promjena Ustava', 'Amendment'], '2013-12-01': ['Promjena po referendumu 1. 12. 2013.', 'Amendment by the referendum of 1 December 2013'] };
+  const NOTE = { '2001-03-28': () => L(`„Županijski dom”: ${v[2].ph.zupanijski} spomena prije, ${v[3].ph.zupanijski} poslije`, `“Županijski dom” (county chamber): ${v[2].ph.zupanijski} mentions before, ${v[3].ph.zupanijski} after`),
+    '2010-06-16': () => L(`„Europska unija”: ${last.ph.eu} spomena (prije 0)`, `“Europska unija” (EU): ${last.ph.eu} mentions (none before)`),
+    '2013-12-01': () => L('„Brak je životna zajednica žene i muškarca.”', '“Marriage is a living union of a woman and a man.”') };
+  return {
+    title: L(`Ustav: najveća promjena ${yT(big.date.slice(0, 4))} (+${fmt(big.add)} i −${fmt(big.del)} riječi), najmanja ${yT(last.date.slice(0, 4))} (+${fmt(last.add)})`, `The Constitution: the biggest change in ${big.date.slice(0, 4)} (+${fmt(big.add)} and −${fmt(big.del)} words), the smallest in ${last.date.slice(0, 4)} (+${fmt(last.add)})`),
+    toc: L('Kako se mijenjao Ustav', 'How the Constitution changed'),
+    dek: L(`Za svaku promjenu Ustava: koliko je riječi pročišćenog teksta dodano (desno) i izbrisano (lijevo) u odnosu na prethodni tekst, a desno opseg teksta poslije promjene. Ustav iz 1990. imao je ${N_(base.words, 'rijec')} u ${N_(base.arts, 'clanak')}, danas ${N_(last.words, 'rijec')} u ${N_(last.arts, 'clanak')}. Promjena iz ${yT(2000)} dodala je ${N_(big.add, 'rijec')}, a referendum iz ${yT(2013)} jednu rečenicu.`,
+      `For each change of the Constitution: how many words of the consolidated text were added (right) and deleted (left) compared with the previous text, and on the right the size of the text afterwards. The Constitution of 1990 had ${fmt(base.words)} words in ${fmt(base.arts)} articles; today ${fmt(last.words)} in ${fmt(last.arts)}. The change of 2000 added ${fmt(big.add)} words; the 2013 referendum one sentence.`),
+    draw(el) {
+      const cols = S8(), cA = cols[0], cD = cols[7];
+      legend(el, [{ c: cD, l: L('Izbrisane riječi', 'Words deleted') }, { c: cA, l: L('Dodane riječi', 'Words added') }]);
+      const w = W(el), nw = narrow(w), rowH = nw ? 66 : 46;
+      const labs = rows.map(r => `${dateShort(r.date)} · NN ${r.nn.replace(/NN /g, '').replace(/ \(.*?\)/g, '')}`), lw = nw ? 0 : Math.ceil(textW(el, labs.concat(rows.map(r => LA(NAME[r.date] || ['', ''])) ))) + 14;
+      const rwds = rows.map(r => L(`${N_(r.words, 'rijec')}`, `${fmt(r.words)} words`)).concat(rows.map(r => L(N_(r.arts, 'clanak'), `${fmt(r.arts)} articles`)));
+      const rw = nw ? 0 : Math.ceil(textW(el, rwds)) + 22, m = { t: nw ? 4 : 22, l: lw }, iw = w - lw - rw - 8;
+      // room on the left for the longest "−N" label beside the longest deleted bar
+      const mxA = d3.max(rows, r => r.add), mxD = d3.max(rows, r => r.del), dW = Math.ceil(textW(el, rows.map(r => `−${fmt(r.del)}`), 'lbl')) + 12;
+      const x = d3.scaleLinear().domain([-mxD, mxA * 1.04]).range([dW, iw]);
+      // the note under a bar takes two lines when one does not fit, and its row grows by a line
+      const nx = nw ? 0 : x(0) + 4, nts = rows.map(r => NOTE[r.date] ? wrap2(el, NOTE[r.date](), iw - nx, 'lbl mut') : []);
+      const rh = nts.map(t => rowH + Math.max(0, t.length - 1) * 13), oy = rh.map((_, i) => d3.sum(rh.slice(0, i))), H = d3.sum(rh), h = m.t + H + 10;
+      const svg = svgIn(el, w, h), g = svg.append('g').attr('transform', `translate(${m.l},${m.t})`);
+      if (!nw) x.ticks(Math.max(2, Math.round((iw - dW) / 90))).forEach(t_ => { g.append('line').attr('x1', x(t_)).attr('x2', x(t_)).attr('y1', -4).attr('y2', H).attr('stroke', t_ === 0 ? css('--text-3') : css('--grid'));
+        g.append('text').attr('class', 'lbl mut').attr('x', x(t_)).attr('y', -9).attr('text-anchor', 'middle').text(fmt(Math.abs(t_))); });
+      rows.forEach((r, i) => {
+        const cy = oy[i] + (nw ? 30 : 8), bh = 16;
+        if (nw) g.append('line').attr('x1', x(0)).attr('x2', x(0)).attr('y1', cy - 3).attr('y2', cy + bh + 3).attr('stroke', css('--text-3'));
+        if (nw) { g.append('text').attr('class', 'lbl strong').attr('x', 0).attr('y', oy[i] + 11).text(labs[i]); g.append('text').attr('class', 'lbl mut').attr('x', 0).attr('y', oy[i] + 23).text(LA(NAME[r.date] || ['', ''])); }
+        else { g.append('text').attr('class', 'lbl strong').attr('x', -10).attr('y', cy + 7).attr('text-anchor', 'end').text(labs[i]); g.append('text').attr('class', 'lbl mut').attr('x', -10).attr('y', cy + 20).attr('text-anchor', 'end').text(LA(NAME[r.date] || ['', ''])); }
+        g.append('path').attr('d', `M${x(0)},${cy}H${x(-r.del) + 3}Q${x(-r.del)},${cy} ${x(-r.del)},${cy + 3}V${cy + bh - 3}Q${x(-r.del)},${cy + bh} ${x(-r.del) + 3},${cy + bh}H${x(0)}Z`).attr('fill', r.del ? cD : 'none');
+        g.append('path').attr('d', barPath(x(0), cy, x(r.add), bh, 3)).attr('fill', cA);
+        const la = `+${fmt(r.add)}`, laW = textW(el, [la], 'lbl');
+        if (x(r.add) - x(0) > laW + 12 && x(r.add) + laW + 8 > iw) g.append('text').attr('class', 'lbl').attr('x', x(r.add) - 6).attr('y', cy + 12).attr('text-anchor', 'end').style('fill', inkOn(cA)).text(la);
+        else halo(g, x(r.add) + 5, cy + 12, la, 'start', 'lbl');
+        if (r.del) halo(g, x(-r.del) - 5, cy + 12, `−${fmt(r.del)}`, 'end', 'lbl');
+        nts[i].forEach((t_, k) => g.append('text').attr('class', 'lbl mut').attr('x', nx).attr('y', cy + bh + 12 + k * 13).text(t_));
+        if (!nw) { g.append('text').attr('class', 'lbl strong').attr('x', iw + 16).attr('y', cy + 7).text(L(N_(r.words, 'rijec'), `${fmt(r.words)} words`));
+          g.append('text').attr('class', 'lbl mut').attr('x', iw + 16).attr('y', cy + 20).text(L(N_(r.arts, 'clanak'), `${fmt(r.arts)} articles`)); }
+        bindTip(g.append('rect').attr('class', 'hit').attr('x', -lw).attr('width', w).attr('y', oy[i]).attr('height', rh[i]).datum(r),
+          d => `<b>${dateTxt(d.date)} · ${esc(d.nn)}</b>` + trow(cA, L('Dodano riječi', 'Words added'), fmt(d.add)) + trow(cD, L('Izbrisano riječi', 'Words deleted'), fmt(d.del)) + trow(null, L('Riječi poslije', 'Words after'), fmt(d.words)) + trow(null, L('Članaka poslije', 'Articles after'), fmt(d.arts)));
+      });
+      note(el, [['ustav/clanak-*.md, ustav/izvorisne-osnove.md (svaka verzija iz gita)', 'ustav/clanak-*.md, ustav/izvorisne-osnove.md (every version, from git)']], N_(v.length, 'verzija'),
+        L('verzije su pročišćeni tekstovi koje je objavio saborski Odbor za Ustav, a ne riječi samih akata o promjeni; riječi su uspoređene redom članaka (bez naslova članaka), pa prenumeriranje ne računa kao promjena. Promjena iz 2001. i ispravak pročišćenog teksta istoga dana (NN 55/2001) prikazani su zajedno. Spomeni „Županijskog doma” i „Europske unije” broje te riječi u tekstu.',
+          'the versions are the consolidated texts the Sabor’s Constitution Committee published, not the amending acts’ own words; words are compared in article order (article headings left out), so renumbering does not count as change. The 2001 change and the correction of the consolidated text the same day (NN 55/2001) are shown together. The mentions of “Županijski dom” and “Europska unija” count those words in the text.'));
+      table(el, [L('Na snazi od', 'In force from'), 'NN', L('Dodano', 'Added'), L('Izbrisano', 'Deleted'), L('Riječi', 'Words'), L('Članaka', 'Articles')], v.map(r => [r.date, r.nn, r.add, r.del, r.words, r.arts]));
+    }
+  };
+});
+
+chart('c14', el => {
+  const c = D.c14, keys = ['law', 'decree', 'reg', 'local', 'other'];
+  const KN = { law: ['Zakoni', 'Laws'], decree: ['Uredbe Vlade', 'Government decrees'], reg: ['Pravilnici, odluke i drugi propisi', 'Rules, decisions and other regulations'], local: ['Akti općina, gradova i županija', 'Acts of municipalities, cities and counties'], other: ['Ostalo', 'Other'] };
+  const T = {}; keys.forEach(k => T[k] = sum(c.years, r => r[k] || 0));
+  const y90 = c.years.filter(r => r.y <= 1999), n90 = sum(y90, r => sum(keys, k => r[k] || 0));
+  const s00 = c.years.filter(r => r.y >= 2000), lawShare = pct(sum(s00, r => r.law || 0), sum(s00, r => sum(keys, k => r[k] || 0)));
+  return {
+    title: L(`Ustavni sud: ${N_(c.n, 'odluka')} u repozitoriju ${pl(c.n, 'ukida', 'ukidaju', 'ukida')} ili ${pl(c.n, 'poništava', 'poništavaju', 'poništava')} odredbe, ${fmt(T.law)} od njih odredbe zakona`, `The Constitutional Court: ${fmt(c.n)} decisions in the repository repeal or annul provisions, ${fmt(T.law)} of them provisions of laws`),
+    toc: L('Ustavni sud ukida odredbe', 'The Constitutional Court repeals provisions'),
+    dek: L(`Odluke Ustavnog suda objavljene u Narodnim novinama kojima se ukidaju ili poništavaju odredbe zakona ili drugih propisa, po godini objave i vrsti propisa. Od tih odluka ${fmt(n90)} ${pl(n90, 'je', 'su', 'je')} iz 1990-ih, kad je Sud ukidao i mnogo odredaba općinskih i gradskih akata; od 2000. odredbe zakona dira ${lawShare} odluka. Popis navodi zakone čije je odredbe Sud ukinuo od 2015.`,
+      `Constitutional Court decisions printed in Narodne novine that repeal or annul provisions of laws or other regulations, by year of publication and kind of act. ${fmt(n90)} date from the 1990s, when the Court also struck out many provisions of municipal and city acts; since 2000, ${lawShare} of the decisions touch provisions of laws. The list gives the laws whose provisions the Court repealed since 2015.`),
+    draw(el) {
+      const cols = S8(), colors = [cols[0], cols[2], cols[3], cols[6], css('--muted-mark')];
+      const box = el.append('div').attr('class', 'mini');
+      const pa = box.append('div'), pb = box.append('div');
+      pa.append('h4').text(L('Odluke po godini objave', 'Decisions by year of publication'));
+      legend(pa, keys.map((k, i) => ({ c: colors[i], l: LA(KN[k]) })));
+      stackedColumns(pa, c.years.map(r => ({ ...r, y: r.y })), keys, colors, keys.map(k => LA(KN[k])), { h: 230, pad: 0.2, noShare: true, labelIf: r => r.y % 10 === 0 });
+      pb.append('h4').text(L('Odredbe zakona ukinute od 2015.', 'Provisions of laws repealed since 2015'));
+      pb.append('p').text(L('dan objave odluke · zakon · ukinute odredbe', 'decision published · law · provisions repealed'));
+      const lst = pb.append('div').style('font-size', '12px').style('line-height', '1.45');
+      const dw = Math.ceil(textW(pb, c.recent.map(r => dateShort(r[0])), 'lbl')) + 8;
+      c.recent.forEach(r => { const row = lst.append('div').style('display', 'grid').style('grid-template-columns', `${dw}px 1fr`).style('gap', '8px').style('padding', '4px 0').style('border-bottom', '1px solid ' + css('--line'));
+        row.append('span').style('color', css('--text-3')).style('font-variant-numeric', 'tabular-nums').text(dateShort(r[0]));
+        const s = row.append('span'); s.append('span').style('color', css('--text')).style('font-weight', 500).text(lawName(r[2]));
+        if (r[3] && HR()) s.append('span').style('color', css('--text-2')).text(' · ' + r[3]);
+        if (r[4] === 'poništava') s.append('span').style('color', css('--text-2')).text(L(' (poništeno)', ' (annulled)')); });
+      note(el, ['data/ustavni-sud-ukidanja.csv'], `${N_(c.n, 'odluka')} (${fmt(c.points)} ${L(pl(c.points, 'točka', 'točke', 'točaka'), 'points')})`,
+        L('tablica izdvaja točke izreke („ukida se”, „poništava se”) iz odluka objavljenih u Narodnim novinama koje repozitorij drži; prikupljanje odluka Ustavnog suda još traje, pa brojevi rastu. Odluka koja dira zakon i drugi propis broji se kao zakon. Vrsta je pročitana iz naziva ukinutog akta i glasila u kojem je objavljen.',
+          'the table extracts the operative points (“ukida se”, “poništava se”) from the decisions printed in Narodne novine that the repository holds; collecting the Court’s decisions is still under way, so the numbers will grow. A decision touching a law and another act counts as a law. The kind is read from the name of the act and the gazette it was printed in.'));
+      table(el, [L('Objavljeno', 'Published'), L('Predmet', 'Case'), L('Vrsta', 'Kind'), L('Akt', 'Act'), L('Izreka', 'Ruling')], c.list.map(r => [r[0], r[1], LA(KN[r[2]]), r[3], r[4]]));
+    }
+  };
+});
+
+chart('c15', el => {
+  const c = D.c15, years = Object.keys(c).sort(), units = d3.range(1, 11);
+  const turn = y => { const us = Object.values(c[y]); return sum(us, u => u[1]) / sum(us, u => u[0]); };
+  const lo = years.reduce((a, b) => turn(a) < turn(b) ? a : b);
+  return {
+    title: L(`Izlaznost na izborima za Sabor: od ${pv(100 * turn('2003'), 1)} (2003.) do ${pv(100 * turn(lo), 1)} (${yT(lo)}), a ${yT(2024)} ${pv(100 * turn('2024'), 1)}`,
+      `Turnout in elections to the Sabor: from ${pv(100 * turn('2003'), 1)} (2003) down to ${pv(100 * turn(lo), 1)} (${lo}), and ${pv(100 * turn('2024'), 1)} in 2024`),
+    toc: L('Izlaznost na izborima za Sabor', 'Turnout in elections to the Sabor'),
+    dek: L(`Za svaku od deset izbornih jedinica na području Hrvatske i svake izbore od 2003.: udio birača koji su glasovali, prema glasačkim listićima, kako ga objavljuje Državno izborno povjerenstvo. Najniža je bila ${yT(lo)} (${pv(100 * turn(lo), 1)}); ${yT(2024)} izlaznost je ponovno porasla na ${pv(100 * turn('2024'), 1)}.`,
+      `For each of the ten electoral districts in Croatia and each election since 2003: the share of voters who voted, by the ballots, as the State Electoral Commission publishes it. The lowest was in ${lo} (${pv(100 * turn(lo), 1)}); in 2024 turnout rose again to ${pv(100 * turn('2024'), 1)}.`),
+    draw(el) {
+      const w = W(el), nw = narrow(w), lab = u => L(`${ROMAN[u]}. jedinica`, `District ${ROMAN[u]}`), lw = Math.ceil(textW(el, units.map(lab).concat([L('Ukupno I.–X.', 'Total I–X')]))) + 12;
+      const ch = nw ? 24 : 26, m = { t: 24, l: lw }, cw = (w - lw - 6) / years.length, h = m.t + ch * (units.length + 1) + 8;
+      const vals = years.flatMap(y => units.map(u => c[y][u] ? c[y][u][1] / c[y][u][0] : null)).filter(v => v != null);
+      const ramp = seqRamp(), col = v => ramp(0.08 + 0.92 * (v - 0.4) / (d3.max(vals) - 0.4));
+      const svg = svgIn(el, w, h), g = svg.append('g').attr('transform', `translate(${m.l},${m.t})`);
+      years.forEach((y, j) => g.append('text').attr('class', 'lbl strong').attr('x', j * cw + cw / 2).attr('y', -9).attr('text-anchor', 'middle').text(y));
+      const rowsAll = units.map(u => ({ u })).concat([{ u: 'all' }]);
+      rowsAll.forEach((r, i) => {
+        const cy = i * ch + (r.u === 'all' ? 6 : 0);
+        g.append('text').attr('class', 'lbl strong').attr('x', -8).attr('y', cy + ch / 2 + 4).attr('text-anchor', 'end').text(r.u === 'all' ? L('Ukupno I.–X.', 'Total I–X') : lab(r.u));
+        years.forEach((y, j) => {
+          const v = r.u === 'all' ? turn(y) : (c[y][r.u] ? c[y][r.u][1] / c[y][r.u][0] : null);
+          if (v == null) return;
+          const fill = col(v);
+          bindTip(g.append('rect').attr('x', j * cw + 1).attr('y', cy + 1).attr('width', cw - 2).attr('height', ch - 2).attr('rx', 4).attr('fill', fill).attr('stroke', r.u === 'all' ? css('--text') : 'none').attr('stroke-width', 1.2).datum([y, r.u, v]),
+            d => `<b>${yT(d[0])} · ${d[1] === 'all' ? L('jedinice I.–X.', 'districts I–X') : lab(d[1])}</b>` + (d[1] === 'all' ? '' : trow(null, L('Birača', 'Voters'), fmt(c[d[0]][d[1]][0])) + trow(null, L('Glasovalo', 'Voted'), fmt(c[d[0]][d[1]][1]))) + trow(null, L('Izlaznost', 'Turnout'), pv(100 * d[2], 2)));
+          g.append('text').attr('class', 'lbl').attr('x', j * cw + cw / 2).attr('y', cy + ch / 2 + 4).attr('text-anchor', 'middle').style('fill', inkOn(fill)).style('pointer-events', 'none').text(nw ? dec(100 * v, 0) : pv(100 * v, 1));
+        });
+      });
+      const xi = D.c15_xi, x7 = xi['2007'], x15 = xi['2015'];
+      note(el, ['izbori/<godina>/<broj>/tekst.md'], N_(years.length * 10, 'rezultat'),
+        L(`izlaznost = birača koji su glasovali prema glasačkim listićima / ukupno birača u jedinici, iz službenih rezultata objavljenih u Narodnim novinama. XI. jedinica (birači bez prebivališta u Hrvatskoj) i XII. (nacionalne manjine) nisu prikazane: od 2015. ukupan broj birača u njima gotovo je jednak broju onih koji su glasovali (XI. jedinica: ${fmt(x7[0])} i ${fmt(x7[1])} ${yT(2007)}, ${fmt(x15[0])} i ${fmt(x15[1])} ${yT(2015)}), pa udio nije usporediv.`,
+          `turnout = voters who voted by the ballots / all voters of the district, from the official results printed in Narodne novine. District XI (voters without residence in Croatia) and XII (national minorities) are not shown: since 2015 their total of voters is almost the number who voted (district XI: ${fmt(x7[0])} and ${fmt(x7[1])} in 2007, ${fmt(x15[0])} and ${fmt(x15[1])} in 2015), so the share is not comparable.`));
+      table(el, [L('Jedinica', 'District'), ...years], units.map(u => [lab(u), ...years.map(y => c[y][u] ? pv(100 * c[y][u][1] / c[y][u][0], 2) : '–')]).concat([[L('Ukupno I.–X.', 'Total I–X'), ...years.map(y => pv(100 * turn(y), 2))]]));
+    }
+  };
+});
+
+part('p4', 'IV. Europska unija i svijet', 'IV. The European Union and the world',
+  'Pravo Europske unije koje hrvatski zakoni preuzimaju i provode te međunarodni ugovori iz međunarodnog dijela Narodnih novina.',
+  'European Union law that Croatian laws take over and implement, and the international treaties of the international part of Narodne novine.');
+
+chart('c16', el => {
+  const c = D.c16.filter(r => r[0] >= 2000), aft = c.filter(r => r[0] >= 2014 && r[0] <= 2025), y13 = c.find(r => r[0] === 2013);
+  const sA = sum(aft, r => r[2]), nA = sum(aft, r => r[1]);
+  return {
+    title: L(`Pravo EU u hrvatskim zakonima: od ${yT(2014)} ${pct(sA, nA)} zakona u prvim člancima navodi direktive ili uredbe EU`, `EU law in Croatian laws: since 2014, ${pct(sA, nA)} of laws name EU directives or regulations in their first articles`),
+    toc: L('Pravo EU u zakonima', 'EU law in the laws'),
+    dek: L(`Za svaku godinu: svi zakoni (svijetli stupac) i oni koji u prva tri članka navode direktive ili uredbe Europske unije koje prenose ili provode (puni stupac), s udjelom iznad stupca. U godini pristupanja, ${yT(2013)}, takvih je bilo ${fmt(y13[2])} od ${N_(y13[1], 'zakon')} (${pct(y13[2], y13[1])}); prije ${yT(2008)} gotovo ih nema.`,
+      `For each year: all laws (light column) and those whose first three articles name the EU directives or regulations they transpose or implement (solid column), with the share above. In the year of accession, 2013, there were ${fmt(y13[2])} of ${fmt(y13[1])} (${pct(y13[2], y13[1])}); before 2008 there are almost none.`),
+    draw(el) {
+      const cols = S8(), cT = cols[0], cR = cols[2];
+      legend(el, [{ c: css('--text-3') + '40', l: L('Svi zakoni', 'All laws') }, { c: cT, l: L('Navode direktive EU', 'Name EU directives') }, { c: cR, l: L('Navode samo uredbe EU', 'Name EU regulations only') }]);
+      const w = W(el), nw = narrow(w), h = 300, m = { t: 26, r: 8, b: 24, l: 40 };
+      const svg = svgIn(el, w, h), g = svg.append('g').attr('transform', `translate(${m.l},${m.t})`);
+      const iw = w - m.l - m.r, ih = h - m.t - m.b;
+      const x = d3.scaleBand().domain(c.map(r => r[0])).range([0, iw]).padding(0.2), y = d3.scaleLinear().domain([0, d3.max(c, r => r[1])]).nice().range([ih, 0]);
+      yAxis(g, y, iw, 5);
+      g.append('line').attr('class', 'base').attr('x1', 0).attr('x2', iw).attr('y1', ih).attr('y2', ih);
+      const x13 = x(2013) - x.step() * x.paddingInner() / 2;
+      g.append('line').attr('x1', x13).attr('x2', x13).attr('y1', -18).attr('y2', ih).attr('stroke', css('--text')).attr('stroke-dasharray', '3 3');
+      halo(g, x13 - 5, -10, L('pristupanje EU, 1. 7. 2013.', 'EU accession, 1 July 2013'), 'end');
+      c.forEach(r => {
+        const x0 = x(r[0]), bw = x.bandwidth(), op = r[0] === 2026 ? .5 : 1;
+        g.append('path').attr('d', colPath(x0, ih, bw, y(r[1]), 3)).attr('fill', css('--text-3')).attr('fill-opacity', .2 * op);
+        if (r[3]) g.append('path').attr('d', r[4] ? `M${x0},${ih}V${y(r[3])}H${x0 + bw}V${ih}Z` : colPath(x0, ih, bw, y(r[3]), 3)).attr('fill', cT).attr('opacity', op);
+        if (r[4]) g.append('path').attr('d', colPath(x0, y(r[3]) - (r[3] ? 1 : 0), bw, y(r[3] + r[4]) - (r[3] ? 1 : 0), 3)).attr('fill', cR).attr('opacity', op);
+        if (r[0] >= 2008 && r[2] && (!nw || r[0] % 2 === 1)) g.append('text').attr('class', 'lbl').attr('x', x0 + bw / 2).attr('y', y(r[1]) - 5).attr('text-anchor', 'middle').text(nw || x.bandwidth() < 22 ? dec(100 * r[2] / r[1], 0) : pct(r[2], r[1]));
+        if (r[0] % 5 === 0) g.append('text').attr('class', 'lbl').attr('x', x0 + bw / 2).attr('y', ih + 16).attr('text-anchor', 'middle').text(r[0]);
+        bindTip(g.append('rect').attr('class', 'hit').attr('x', x0 - x.step() * x.paddingInner() / 2).attr('width', x.step()).attr('y', -10).attr('height', ih + 10).datum(r),
+          d => `<b>${yT(d[0])}${d[0] === 2026 ? ' (' + t('partial') + ')' : ''}</b>` + trow(null, L('Zakona', 'Laws'), fmt(d[1])) + trow(cT, L('Navode direktive EU', 'Name EU directives'), fmt(d[3])) + trow(cR, L('Navode samo uredbe EU', 'Name EU regulations only'), fmt(d[4])) + trow(null, t('share'), pct(d[2], d[1])));
+      });
+      note(el, ['zakon/<godina>/<broj>/clanak-001.md … clanak-003.md'], N_(sum(c, r => r[1]), 'zakon') + L(' od 2000.', ' since 2000'),
+        L('zakon navodi pravo EU ako u prva tri članka spominje direktivu, uredbu (EU/EZ/EEZ) ili pravnu stečevinu Europske unije ili kaže da se njime u hrvatsko zakonodavstvo prenose akti EU (pravila u src/prep.py). Zakon o izmjenama ulazi ako tako kaže u svojim prvim člancima; zakon koji pravo EU navodi tek u kasnijim člancima ovdje se ne broji. Zakoni zadržani izvan glavne grane nemaju tekst pa nisu uključeni. Godina 2026. je nepotpuna.',
+          'a law names EU law when its first three articles mention a directive, a regulation (EU/EC/EEC) or the EU acquis, or say that it transposes EU acts into Croatian law (rules in src/prep.py). An amending law counts if its own first articles say so; a law that names EU law only in later articles is not counted here. Laws held back from main have no text and are left out. 2026 is partial.'));
+      table(el, [t('year'), L('Zakona', 'Laws'), L('Navode pravo EU', 'Name EU law'), L('od toga direktive', 'of which directives'), L('samo uredbe', 'regulations only')], D.c16.map(r => [String(r[0]), r[1], r[2], r[3], r[4]]));
+    }
+  };
+});
+
+let WORLD = null, WORLD_P = null, ATLAS50 = null, ATLAS50_P = null;
+const worldAtlas = () => WORLD_P || (WORLD_P = fetch('https://cdn.jsdelivr.net/npm/world-atlas@2.0.2/countries-110m.json').then(r => r.json()).then(j => (WORLD = j)));
+const atlas50 = () => ATLAS50_P || (ATLAS50_P = fetch('https://cdn.jsdelivr.net/npm/world-atlas@2.0.2/countries-50m.json').then(r => r.json()).then(j => (ATLAS50 = j)));
+chart('c17', el => {
+  const c = D.c17, bil = c.rows.filter(r => r.k !== 'multi' && r.k !== 'org'), multi = c.rows.find(r => r.k === 'multi'), org = c.rows.find(r => r.k === 'org');
+  const DEC = [['1990', [1990, 1999]], ['2000', [2000, 2009]], ['2010', [2010, 2019]], ['2020', [2020, 2026]]];
+  const dec4 = r => DEC.map(([, [a, b]]) => sum(Object.entries(r.by).filter(([y]) => +y >= a && +y <= b), e => e[1]));
+  const nb = ['BA', 'SI', 'HU', 'RS', 'ME'], nbN = sum(bil.filter(r => nb.includes(r.k)), r => r.n), bilN = sum(bil, r => r.n);
+  const I = c.inst, iL = sum(Object.values(I), o => o.law || 0), iD = sum(Object.values(I), o => o.decree || 0);
+  return {
+    title: L(`S kim Hrvatska sklapa ugovore: najviše s Bosnom i Hercegovinom (${fmt(bil[0].n)}) i Mađarskom (${fmt(bil[1].n)})`, `Who Croatia makes treaties with: Bosnia and Herzegovina (${fmt(bil[0].n)}) and Hungary (${fmt(bil[1].n)}) most`),
+    toc: L('S kim Hrvatska sklapa ugovore', 'Who Croatia makes treaties with'),
+    dek: L(`Akti međunarodnog dijela Narodnih novina kojima se ugovori potvrđuju ili objavljuju, po drugoj ugovornoj strani: ${N_(bil.length, 'drzava')}. Na pet susjeda s kojima Hrvatska graniči kopnom pripada ${pct(nbN, bilN)} dvostranih ugovora; ${N_(multi.n, 'akt')} ${pl(multi.n, 'odnosi', 'odnose', 'odnosi')} se na mnogostrane konvencije, a ${fmt(org.n)} na međunarodne organizacije. Sabor je zakonom potvrdio ${pct(iL, c.n)} ugovora, ostale je uredbom ili odlukom objavila Vlada.`,
+      `The acts of the international part of Narodne novine that ratify or publish treaties, by the other party: ${fmt(bil.length)} states. The five neighbours Croatia shares a land border with account for ${pct(nbN, bilN)} of the bilateral treaties; ${fmt(multi.n)} acts concern multilateral conventions and ${fmt(org.n)} international organisations. The Sabor ratified ${pct(iL, c.n)} of the treaties by law; the Government published the rest by decree or decision.`),
+    draw(el) {
+      const ramp = seqRamp(), mx = d3.max(bil, r => r.n), col = n => ramp(0.12 + 0.88 * Math.sqrt(n / mx));
+      const byIso = new Map(bil.filter(r => ISO_N[r.k]).map(r => [ISO_N[r.k], r]));
+      legend(el, [1, 5, 20, mx].map(n => ({ c: col(n), l: n === mx ? L(N_(n, 'ugovor'), `${n} treaties`) : String(n) })).concat([{ c: css('--s2'), l: L('Hrvatska', 'Croatia') }]));
+      const box = el.append('div').attr('class', 'mini');
+      const pe = box.append('div'), pw = box.append('div');
+      pe.append('h4').text(L('Europa', 'Europe')); pw.append('h4').text(L('Svijet', 'World'));
+      const draws = [];
+      const map = (div, mk, hh) => {
+        const w = W(div), h = Math.round(w * hh), svg = svgIn(div, w, h).style('overflow', 'hidden');
+        draws.push(() => {
+          const land = topojson.feature(WORLD, WORLD.objects.countries).features.filter(f => f.id !== '010');
+          const proj = mk(w, h), path = d3.geoPath(proj);
+          bindTip(svg.append('g').selectAll('path').data(land).join('path').attr('d', path).attr('stroke', css('--surface')).attr('stroke-width', .6)
+            .attr('fill', f => f.id === '191' ? css('--s2') : byIso.has(f.id) ? col(byIso.get(f.id).n) : css('--surface-2')),
+            f => { const r = byIso.get(f.id); return f.id === '191' ? `<b>${L('Hrvatska', 'Croatia')}</b>` : `<b>${r ? ctryName(r.k) : esc(f.properties.name)}</b>` + trow(null, L('Ugovora', 'Treaties'), fmt(r ? r.n : 0)); });
+        });
+      };
+      const eu = { type: 'MultiPoint', coordinates: [[-10, 36], [42, 36], [-10, 62], [42, 62], [16, 70]] };
+      map(pe, (w, h) => d3.geoConicConformal().parallels([40, 62]).rotate([-16, 0]).fitExtent([[0, 0], [w, h]], eu), 0.78);
+      map(pw, (w, h) => d3.geoNaturalEarth1().fitExtent([[0, 0], [w, h]], { type: 'Sphere' }), 0.52);
+      const fail = () => box.append('p').attr('class', 'note').text(L('Kartu nije bilo moguće učitati (cdn.jsdelivr.net); brojevi su u grafikonu ispod i u tablici.', 'The map could not be loaded (cdn.jsdelivr.net); the numbers are in the chart below and in the table.'));
+      if (WORLD) draws.forEach(f => f()); else worldAtlas().then(() => draws.forEach(f => f())).catch(fail);
+      const top = bil.slice(0, 16), dcol = [0.3, 0.5, 0.72, 0.95].map(ramp), DN = [L('1990-ih', '1990s'), L('2000-ih', '2000s'), L('2010-ih', '2010s'), L('od 2020.', 'since 2020')];
+      h4(el, L('Najčešće ugovorne strane, po desetljeću', 'The most frequent parties, by decade'), 18);
+      legend(el, DN.map((l, i) => ({ c: dcol[i], l })));
+      barList(el, top, { label: r => ctryName(r.k), value: r => r.n, segs: r => dec4(r).map((n, j) => [n, dcol[j]]), cap: 230, rw: 32,
+        tip: d => `<b>${ctryName(d.k)}</b>` + dec4(d).map((n, j) => trow(dcol[j], DN[j], fmt(n))).join('') + trow(null, t('total'), fmt(d.n)) });
+      note(el, [['medunarodni/<godina>/<broj>/ (naslov akta)', 'medunarodni/<year>/<number>/ (act title)']], N_(c.n, 'akt') + L(' o ugovorima', ' on treaties'),
+        L('druga ugovorna strana pročitana je iz naziva države u naslovu (pravila u src/prep.py); akt s dvije ili tri države broji se kod svake, s četiri i više kao mnogostran. Savezna Republika Jugoslavija i Srbija i Crna Gora broje se kao Srbija. Akti uključuju i izmjene i protokole. Male države nisu vidljive na karti, ali su u tablici. Karta: world-atlas (Natural Earth).',
+          'the other party is read from the name of a state in the title (rules in src/prep.py); an act naming two or three states counts for each, four or more as multilateral. FR Yugoslavia and Serbia and Montenegro count as Serbia. Acts include amendments and protocols. Small states are too small for the map; they are in the table. Map: world-atlas (Natural Earth).'));
+      const tb = table(el, [L('Ugovorna strana', 'Party'), ...DN, t('total')], c.rows.map(r => [ctryName(r.k), ...dec4(r), r.n]));
+      const sc = tb.select('.scroll');
+      sc.append('h4').style('margin', '14px 0 6px').style('font', '600 13px/1.4 var(--sans)').text(L('Kako je ugovor potvrđen ili objavljen, po desetljeću', 'How the treaty was ratified or published, by decade'));
+      const t2 = sc.append('table');
+      t2.append('thead').append('tr').selectAll('th').data([L('Desetljeće', 'Decade'), L('Zakon (Sabor)', 'Law (Sabor)'), L('Uredba ili odluka (Vlada)', 'Decree or decision (Government)'), L('Ostalo', 'Other')]).join('th').attr('class', (h, i) => i ? 'n' : null).text(x => x);
+      t2.append('tbody').selectAll('tr').data(Object.entries(I)).join('tr').selectAll('td').data(([k, o]) => [`${k}–${+k + 9}`, o.law || 0, o.decree || 0, o.other || 0]).join('td').attr('class', (v, i) => i ? 'n' : null).text(v => typeof v === 'number' ? fmt(v) : v);
+    }
+  };
+});
+
+part('p5', 'V. Novac, porezi i obala', 'V. Money, taxes and the coast',
+  'Brojevi koje propisi sami određuju: minimalna plaća u dinarima, kunama i eurima, stope poreza na dohodak koje od 2024. određuju općine i gradovi te granica pomorskog dobra, s koordinatama iz samih uredaba.',
+  'Numbers the acts set themselves: the minimum wage in dinars, kunas and euros, the income tax rates municipalities and cities set since 2024, and the boundary of the maritime domain, with coordinates from the decrees themselves.');
+
+chart('c18', el => {
+  const c = D.c18, mw = c.mw, first = mw[0], last = mw[mw.length - 1];
+  const kn = mw.filter(r => r[2] === 'HRK'), k22 = kn[kn.length - 1], e23 = mw.find(r => r[2] === 'EUR');
+  const idx = c.idx, i93 = idx.find(r => r[0] === 1993), late = idx.filter(r => r[0] >= 2000);
+  const unit = cur => ({ HRD: L('HRD', 'HRD'), HRK: L('kn', 'HRK'), EUR: L('€', 'EUR') })[cur];
+  const amt = r => HR() ? `${r[1] % 1 ? dec(r[1], 2) : fmt(r[1])} ${unit(r[2])}` : `${unit(r[2])} ${r[1] % 1 ? dec(r[1], 2) : fmt(r[1])}`;
+  return {
+    title: L(`Minimalna plaća u tri valute: od ${fmt(first[1])} ${pl(first[1], 'dinara', 'dinara', 'dinara')} (1992.) do ${fmt(last[1])} ${pl(last[1], 'eura', 'eura', 'eura')} (2026.)`, `The minimum wage in three currencies: from HRD ${fmt(first[1])} (1992) to EUR ${fmt(last[1])} (2026)`),
+    toc: L('Minimalna plaća u tri valute', 'The minimum wage in three currencies'),
+    dek: L(`Svaka točka je iznos koji je odredio akt u Narodnim novinama, preračunat u eure po tečajevima iz samih akata (1.000 hrvatskih dinara za jednu kunu, 7,53450 kuna za euro). Minimalna plaća rasla je od ${fmt(first[1])} dinara ${yT(1992)} (${dec(first[3], 2)} €) do ${amt(k22)} ${yT(2022)} (${dec(k22[3], 0)} €), a u eurima od ${fmt(e23[1])} € ${yT(2023)} do ${fmt(last[1])} € ${yT(2026)} Desno su odluke o usklađivanju mirovina i naknada: ${yT(1993)} bilo ih je ${fmt(i93[1])}, a od 2000. najviše ${fmt(d3.max(late, r => r[1]))} godišnje.`,
+      `Each dot is an amount set by an act in Narodne novine, converted into euros at the rates the acts themselves give (1,000 Croatian dinars to one kuna, 7.53450 kunas to the euro). The minimum wage rose from HRD ${fmt(first[1])} in 1992 (EUR ${dec(first[3], 2)}) to ${amt(k22)} in 2022 (EUR ${dec(k22[3], 0)}), and in euros from EUR ${fmt(e23[1])} in 2023 to EUR ${fmt(last[1])} in 2026. On the right, the decisions adjusting pensions and benefits: ${fmt(i93[1])} in 1993, and no more than ${fmt(d3.max(late, r => r[1]))} a year since 2000.`),
+    draw(el) {
+      const box = el.append('div').attr('class', 'mini').style('grid-template-columns', 'repeat(auto-fit, minmax(300px, 1fr))');
+      const pa = box.append('div'), pb = box.append('div');
+      pa.append('h4').text(L('Minimalna plaća, € mjesečno (preračunato)', 'Minimum wage, EUR a month (converted)'));
+      pa.append('p').text(L('točka je akt; boja je valuta u kojoj je iznos određen', 'each dot is an act; the colour is the currency the amount was set in'));
+      const cols = S8(), CC = { HRD: cols[1], HRK: cols[0], EUR: cols[2] };
+      legend(pa, [{ c: CC.HRD, l: L('hrvatski dinar', 'Croatian dinar'), shape: 'dot' }, { c: CC.HRK, l: L('kuna', 'kuna'), shape: 'dot' }, { c: CC.EUR, l: 'euro', shape: 'dot' }]);
+      const w = W(pa), nw = narrow(w), h = 290, m = { t: 26, r: 14, b: 24, l: 44 };
+      const svg = svgIn(pa, w, h), g = svg.append('g').attr('transform', `translate(${m.l},${m.t})`);
+      const iw = w - m.l - m.r, ih = h - m.t - m.b;
+      const x = d3.scaleLinear().domain([1991.9, 2027]).range([0, iw]), y = d3.scaleLinear().domain([0, 1100]).range([ih, 0]);
+      yAxis(g, y, iw, 5);
+      [1995, 2000, 2005, 2010, 2015, 2020, 2025].forEach(v => g.append('text').attr('class', 'lbl').attr('x', x(v)).attr('y', ih + 16).attr('text-anchor', 'middle').text(nw && v % 10 ? '' : v));
+      g.append('line').attr('class', 'base').attr('x1', 0).attr('x2', iw).attr('y1', ih).attr('y2', ih);
+      // the currencies as bands along the top
+      [['HRD', '1991-12-23', '1994-05-30'], ['HRK', '1994-05-30', '2023-01-01'], ['EUR', '2023-01-01', '2027-01-01']].forEach(([cur, a, b]) => {
+        const x0 = x(fy(a)), x1 = x(fy(b));
+        g.append('rect').attr('x', x0).attr('width', x1 - x0 - 2).attr('y', -22).attr('height', 5).attr('rx', 2.5).attr('fill', CC[cur]).attr('opacity', .7);
+        if (x1 - x0 > 30) g.append('text').attr('class', 'lbl mut').attr('x', (x0 + x1) / 2).attr('y', -9).attr('text-anchor', 'middle').text(cur === 'HRD' ? (x1 - x0 > 60 ? L('dinar', 'dinar') : 'HRD') : cur === 'HRK' ? L('kuna', 'kuna') : 'euro');
+      });
+      // segments: a step line within each run of acts; no line across the years no act covers
+      const pts = mw.map(r => ({ r, t: fy(r[0]), v: r[3] })), runs = [];
+      pts.forEach((p, i) => { if (!i || p.t - pts[i - 1].t > 3) runs.push([p]); else runs[runs.length - 1].push(p); });
+      const ink = css('--text-2');
+      runs.forEach(run => { const path = []; run.forEach((p, i) => { if (i) path.push([p.t, run[i - 1].v]); path.push([p.t, p.v]); });
+        const end = run[run.length - 1]; path.push([Math.min(end.t + 1, 2027), end.v]);
+        g.append('path').attr('d', d3.line().x(q => x(q[0])).y(q => y(q[1]))(path)).attr('fill', 'none').attr('stroke', ink).attr('stroke-width', 1.6).attr('opacity', .7); });
+      // the gap with no act in the repository
+      const g0 = pts.find(p => p.r[0].startsWith('1995')), g1 = pts.find(p => p.r[0].startsWith('2008'));
+      if (g0 && g1) { const x0 = x(g0.t + 1) + 4, x1 = x(g1.t) - 4, by = y(260);
+        g.append('path').attr('d', `M${x0},${by + 4}V${by}H${x1}V${by + 4}`).attr('fill', 'none').attr('stroke', css('--text-3'));
+        g.append('text').attr('class', 'lbl mut').attr('x', (x0 + x1) / 2).attr('y', by - 6).attr('text-anchor', 'middle').text(nw ? L('bez akta', 'no act') : L('nijedan akt u repozitoriju', 'no act in the repository')); }
+      bindTip(g.append('g').selectAll('circle').data(pts).join('circle').attr('cx', p => x(p.t)).attr('cy', p => y(p.v)).attr('r', 3.6).attr('fill', p => CC[p.r[2]]).attr('stroke', css('--surface')).attr('stroke-width', 1.2),
+        p => `<b>${dateTxt(p.r[0])}</b>` + trow(CC[p.r[2]], L('Iznos u aktu', 'Amount in the act'), amt(p.r)) + (p.r[2] !== 'EUR' ? trow(null, L('Preračunato', 'Converted'), `${dec(p.r[3], 2)} €`) : '') + `<div class="q">${esc(HR() ? p.r[4] : mwEn(p.r[4]))}</div>`);
+      halo(g, x(pts[0].t) + 7, y(pts[0].v) - 8, `${fmt(first[1])} HRD`, 'start');
+      halo(g, x(fy(k22[0])) - 6, y(k22[3]) - 9, amt(k22), 'end');
+      halo(g, x(fy(last[0])) - 6, y(last[3]) - 9, `${fmt(last[1])} €`, 'end');
+      const h1994 = pts.find(p => p.r[0] === '1994-11-18');
+      if (h1994 && !nw) halo(g, x(h1994.t) + 7, y(h1994.v) - 9, amt(h1994.r), 'start');
+      // indexation decisions
+      pb.append('h4').text(L('Odluke o usklađivanju mirovina i naknada', 'Decisions adjusting pensions and benefits'));
+      pb.append('p').text(L('broj odluka po godini objave', 'number of decisions by year of publication'));
+      stackedColumns(pb, idx.filter(r => r[0] >= 1990).map(r => ({ y: r[0], n: r[1] })), ['n'], [cols[1]], [L('Odluka', 'Decisions')], { h: 290, mt: 26, pad: 0.18, noShare: true, labelIf: r => r.y % 10 === 0, partial: r => r.y === 2026 });
+      note(el, [['odluka/, uredba/, zakon/ (akti o minimalnoj plaći)', 'odluka/, uredba/, zakon/ (minimum wage acts)'], ['odluka/1994/685, odluka/2022/1302 (tečajevi)', 'odluka/1994/685, odluka/2022/1302 (conversion rates)'], ['git log (naslovi: usklađivanje, valorizacija)', 'git log (titles: usklađivanje, valorizacija)']], N_(mw.length, 'iznos') + ' · ' + N_(sum(idx, r => r[1]), 'odluka') + L(' o usklađivanju', ' adjusting'),
+        L('iznos je prvi koji akt navodi (bruto od 2008.); iznosi iz 1994. (400.000 HRD i 500 kn) akti određuju za porez na dohodak, a 1993. je akontacija. Između 1995. i 2008. nijedan akt u repozitoriju ne određuje iznos. Tečajevi: odluka o zamjeni dinara (NN 1994) i odluka o objavi uvođenja eura (NN 2022). Usklađivanje se broji po riječima u naslovu (usklađivanje, valorizacija). Godina 2026. je nepotpuna.',
+          'the amount is the first one the act gives (gross from 2008); the 1994 amounts (HRD 400,000 and HRK 500) are set for income tax, and 1993’s is an advance. No act in the repository sets an amount between 1995 and 2008. Rates: the decision on exchanging the dinar (NN 1994) and the decision announcing the euro (NN 2022). Adjusting decisions are counted by words in the title (usklađivanje, valorizacija). 2026 is partial.'));
+      table(el, [L('Od', 'From'), L('Iznos', 'Amount'), L('Valuta', 'Currency'), L('U eurima', 'In euros'), L('Akt', 'Act')], mw.map(r => [r[0], r[1] % 1 ? dec(r[1], 2) : fmt(r[1]), r[2], dec(r[3], 2), HR() ? r[4] : mwEn(r[4])]));
+    }
+  };
+});
+const mwEn = s => /^Zakon o minimalnoj/.test(s) ? 'Minimum Wage Act' : /^Uredba o visini minimalne/.test(s) ? 'Decree on the amount of the minimum wage' + (s.match(/za (\d{4})/) ? ' for ' + s.match(/za (\d{4})/)[1] : '') :
+  /^Odluka o iznosu minimalne/.test(s) ? 'Decision on the amount of the minimum wage' : /akontacij/.test(s) ? 'Decree on advances of the lowest basic and minimum wage' : /oporezivog dohotka/.test(s) ? 'Decree on the minimum wage used for income tax' :
+  /^Uredba o minimalnoj/.test(s) ? 'Decree on the minimum wage' : s;
+
+chart('c19', el => {
+  const rows = D.c19.rows, by = y => rows.filter(r => r[5].slice(0, 4) === String(y));
+  const r24 = by(2024), std = r24.filter(r => r[2] === 20 && r[3] === 30).length;
+  const UN = { opcina: ['općine', 'municipalities'], grad: ['gradovi', 'cities'], zagreb: ['Grad Zagreb', 'City of Zagreb'] };
+  const hi = d3.max(r24, r => r[2]), hiR = r24.find(r => r[2] === hi);
+  const above = k => { const v = r24.filter(r => r[1] === k); return [v.filter(r => r[2] > 20).length, v.length]; };
+  const aG = above('grad'), aO = above('opcina');
+  return {
+    title: L(`Porez na dohodak po općinama i gradovima: ${pct(std, r24.length)} odluka za 2024. određuje stope od 20 % i 30 %`, `Income tax by municipality and city: ${pct(std, r24.length)} of the decisions for 2024 set rates of 20% and 30%`),
+    toc: L('Stope poreza na dohodak općina i gradova', 'Municipal and city income tax rates'),
+    dek: L(`Na temelju članka 19.a Zakona o porezu na dohodak općine i gradovi od 2024. odlukom određuju nižu i višu stopu poreza na dohodak i odluke objavljuju u Narodnim novinama. Od ${N_(r24.length, 'odluka')} koje su stupile na snagu 1. siječnja 2024., ${fmt(std)} ${pl(std, 'određuje', 'određuju', 'određuje')} 20 % i 30 %; najniže su stope 15 % i 25 %, a najviše ${pv(hi, 1)} i ${pv(hiR[3], 1)} (${hiR[1] === 'zagreb' ? 'Grad Zagreb' : hiR[4]}). Nižu stopu iznad 20 % odredilo je ${pct(aG[0], aG[1])} gradova i ${pct(aO[0], aO[1])} općina.`,
+      `Under Article 19a of the Income Tax Act, since 2024 municipalities and cities set the lower and the higher income tax rate by a decision, which they print in Narodne novine. Of the ${fmt(r24.length)} decisions that took effect on 1 January 2024, ${fmt(std)} set 20% and 30%; the lowest rates are 15% and 25%, the highest ${pv(hi, 1)} and ${pv(hiR[3], 1)} (${hiR[1] === 'zagreb' ? 'the City of Zagreb' : hiR[4]}). ${pct(aG[0], aG[1])} of the cities and ${pct(aO[0], aO[1])} of the municipalities set a lower rate above 20%.`),
+    draw(el) {
+      const cols = S8(), keys = ['opcina', 'grad', 'zagreb'], UC = { opcina: cols[0], grad: cols[1], zagreb: cols[7] };
+      legend(el, keys.map(k => ({ c: UC[k], l: Cap(LA(UN[k])) })));
+      const box = el.append('div').attr('class', 'mini');
+      const specs = [[L('Niža stopa', 'Lower rate'), 2], [L('Viša stopa', 'Higher rate'), 3]];
+      const panes = specs.map(() => box.append('div'));     // both panes exist before either is measured
+      specs.forEach(([name, idx], pi) => {
+        const pp = panes[pi];
+        pp.append('h4').text(name);
+        pp.append('p').text(L('broj odluka na snazi od 1. siječnja 2024., po stopi', 'decisions in force from 1 January 2024, by rate'));
+        const vals = [...new Set(r24.map(r => r[idx]))].sort((a, b) => a - b);
+        const rows = vals.map(v => { const o = { v }; keys.forEach(k => o[k] = r24.filter(r => r[idx] === v && r[1] === k).length); return o; });
+        barList(pp, rows, { side: true, label: r => pv(r.v, r.v % 1 ? (String(r.v).split('.')[1].length > 1 ? 2 : 1) : 0), value: r => sum(keys, k => r[k]), segs: r => keys.map(k => [r[k], UC[k]]), rw: 34, cap: 70,
+          tip: r => `<b>${name} ${pv(r.v, r.v % 1 ? 2 : 0)}</b>` + keys.map(k => r[k] ? trow(UC[k], Cap(LA(UN[k])), fmt(r[k])) : '').join('') + trow(null, t('total'), fmt(sum(keys, k => r[k]))) });
+      });
+      note(el, [['odluka/2023/…, odluka/2024/…, odluka/2025/… (odluke o visini poreznih stopa, uvod i članak 2.)', 'odluka/2023/…, odluka/2024/…, odluka/2025/… (decisions on the tax rates, preamble and Article 2)']], N_(rows.length, 'odluka'),
+        L(`stope su pročitane iz teksta odluka (pravila u src/prep.py); izmjene ranijih odluka (${fmt(D.c19.skipped)}) nisu uključene. Odluke objavljene samo u lokalnom glasilu ovdje nisu, pa ovo nisu sve jedinice lokalne samouprave. Odluke na snazi od 2025. i 2026. su u tablici.`,
+          `the rates are read from the decisions’ text (rules in src/prep.py); amendments of earlier decisions (${fmt(D.c19.skipped)}) are left out. Decisions printed only in a local gazette are not here, so these are not all local units. The decisions in force from 2025 and 2026 are in the table.`));
+      table(el, [L('Na snazi od', 'In force from'), L('Jedinica', 'Unit'), L('Niža stopa', 'Lower rate'), L('Viša stopa', 'Higher rate')], rows.map(r => [r[5], (r[1] === 'opcina' ? L('Općina ', 'Municipality of ') : L('Grad ', 'City of ')) + r[4], pv(r[2], 1), pv(r[3], 1)]));
+    }
+  };
+});
+
+chart('c20', el => {
+  const c = D.c20, drop = D.c20_drop || [], ny = d3.rollup(c, v => v.length, r => r[0]), top = [...ny.entries()].reduce((a, b) => b[1] > a[1] ? b : a), geo = c.filter(r => r[3]);
+  const first = d3.min(c, r => r[0]), u0 = d3.min(c.filter(r => r[1] === 'uredba'), r => r[0]), o0 = d3.min(c.filter(r => r[1] === 'odluka'), r => r[0]), o1 = d3.max(c.filter(r => r[1] === 'odluka' && r[0] < 2005), r => r[0]);
+  const n0004 = c.filter(r => r[0] >= 2000 && r[0] <= 2004).length, nxy = c.filter(r => r[6]).length;
+  return {
+    title: L(`Granica pomorskog dobra: ${N_(c.length, 'akt')} od ${yT(first)}, najviše ${yT(top[0])} (${fmt(top[1])})`, `The boundary of the maritime domain: ${fmt(c.length)} acts since ${first}, most in ${top[0]} (${fmt(top[1])})`),
+    toc: L('Granica pomorskog dobra', 'The boundary of the maritime domain'),
+    dek: L(`Pomorsko dobro čine more, njegovo dno i podzemlje te dio kopna namijenjen općoj upotrebi, poput obale i plaža (čl. 3. Zakona o pomorskom dobru i morskim lukama iz 2003.). Njegovu granicu na pojedinom dijelu obale određuje Vlada, isprva odlukama (${span(o0, o1)}), a zatim uredbama (od ${yT(u0)}). Svaka točka na karti je jedan od ${N_(nxy, 'akt')} koji granicu daju u koordinatama, smještena u njihovo središte; ostali je opisuju česticama i međama. Od 2000. do 2004. doneseno je ${pct(n0004, c.length)} svih tih akata.`,
+      `The maritime domain is the sea, its bed and subsoil, and the part of the land meant for general use, such as the shore and beaches (Article 3 of the Maritime Domain and Seaports Act of 2003). The Government fixes its boundary stretch by stretch, first by decisions (${o0}–${o1}) and then by decrees (since ${u0}). Each dot on the map is one of the ${fmt(nxy)} acts that give the boundary as coordinates, placed at their centre; the others describe it by plots and landmarks. ${pct(n0004, c.length)} of all these acts were adopted from 2000 to 2004.`),
+    draw(el) {
+      const cols = S8(), PER = [[1996, 1999], [2000, 2004], [2005, 2026]], PC = [cols[1], cols[0], cols[2]];
+      const pc = y => PC[PER.findIndex(([a, b]) => y >= a && y <= b)];
+      legend(el, PER.map(([a, b], i) => ({ c: PC[i], l: span(a, b === 2026 ? 2026 : b), shape: 'dot' })));
+      const box = el.append('div').attr('class', 'mini').style('grid-template-columns', 'repeat(auto-fit, minmax(300px, 1fr))');
+      const pm = box.append('div'), pb = box.append('div');
+      pm.append('h4').text(L('Akti s koordinatama, na karti', 'Acts with coordinates, on the map'));
+      const w = W(pm), h = Math.round(Math.min(560, w * 0.92)), svg = svgIn(pm, w, h).style('overflow', 'hidden');
+      const drawMap = () => {
+        const land = topojson.feature(ATLAS50, ATLAS50.objects.countries).features;
+        const bbox = { type: 'MultiPoint', coordinates: [[13.3, 42.35], [19.5, 42.35], [13.3, 46.6], [19.5, 46.6]] };
+        const proj = d3.geoMercator().fitExtent([[4, 4], [w - 4, h - 4]], bbox), path = d3.geoPath(proj);
+        svg.append('rect').attr('width', w).attr('height', h).attr('fill', css('--sea'));
+        svg.append('g').selectAll('path').data(land).join('path').attr('d', path).attr('fill', f => f.id === '191' ? css('--hr-land') : css('--land')).attr('stroke', css('--line')).attr('stroke-width', f => f.id === '191' ? 1 : .6);
+        const pts = geo.map(r => ({ r, p: proj([r[3][0], r[3][1]]) })).filter(q => q.p);
+        bindTip(svg.append('g').selectAll('circle').data(pts).join('circle').attr('cx', q => q.p[0]).attr('cy', q => q.p[1]).attr('r', w < 420 ? 2.6 : 3.3).attr('fill', q => pc(q.r[0])).attr('fill-opacity', .85).attr('stroke', css('--surface')).attr('stroke-width', .8),
+          q => `<b>${esc(q.r[4] ? L('k.o. ', 'cadastral municipality ') + q.r[4] : L('Granica pomorskog dobra', 'Maritime domain boundary'))}</b>` + trow(null, L('Akt', 'Act'), L(q.r[1] === 'uredba' ? 'uredba' : 'odluka', q.r[1] === 'uredba' ? 'decree' : 'decision')) + trow(null, L('Godina', 'Year'), q.r[0]) + trow(null, L('Točaka u aktu', 'Points in the act'), fmt(q.r[3][2])));
+        [['Pula', 13.85, 44.87], ['Rijeka', 14.44, 45.33], ['Zadar', 15.23, 44.12], ['Split', 16.44, 43.51], ['Dubrovnik', 18.09, 42.65], ['Zagreb', 15.98, 45.81]].forEach(([n, lo, la]) => { const p = proj([lo, la]);
+          svg.append('circle').attr('cx', p[0]).attr('cy', p[1]).attr('r', 2).attr('fill', css('--text-2'));
+          halo(svg, p[0] + (n === 'Pula' ? -5 : 5), p[1] - 5, n, n === 'Pula' ? 'end' : 'start', 'lbl mut'); });
+      };
+      if (ATLAS50) drawMap(); else atlas50().then(drawMap).catch(() => pm.append('p').attr('class', 'note').text(L('Kartu nije bilo moguće učitati (cdn.jsdelivr.net); brojevi su u tablici.', 'The map could not be loaded (cdn.jsdelivr.net); the numbers are in the table.')));
+      pb.append('h4').text(L('Akti po godini', 'Acts by year'));
+      const yrs = d3.range(first, 2027).map(y => { const v = c.filter(r => r[0] === y); return { y, geo: v.filter(r => r[6]).length, txt: v.filter(r => !r[6]).length }; });
+      legend(pb, [{ c: css('--s1'), l: L('s koordinatama', 'with coordinates') }, { c: css('--muted-mark'), l: L('opisno, bez koordinata', 'described, no coordinates') }]);
+      stackedColumns(pb, yrs, ['geo', 'txt'], [css('--s1'), css('--muted-mark')], [L('s koordinatama', 'with coordinates'), L('bez koordinata', 'no coordinates')], { h: Math.max(240, Math.min(420, h - 60)), pad: 0.18, labelIf: r => r.y % 5 === 0, partial: r => r.y === 2026 });
+      note(el, [['uredba/…, odluka/… (naslov „… granice pomorskog dobra …”, clanak-*.md)', 'uredba/…, odluka/… (title “… granice pomorskog dobra …”, clanak-*.md)']], N_(c.length, 'akt'),
+        L(`koordinate su pročitane iz teksta akata (Gauss-Krügerova projekcija, 5. i 6. zona, elipsoid Bessel) i preračunate u zemljopisne bez pomaka datuma, što na ovom mjerilu ne pomiče točku; točka je prosjek svih točaka akta. ${drop.length ? `Na karti ${drop.length === 1 ? 'nije akt' : 'nisu akti'} ${drop.map(d => `k.o. ${d[1]} (${yT(d[0])})`).join(', ')}: ${drop.length === 1 ? 'koordinate ga stavljaju' : 'koordinate ih stavljaju'} na otvoreno more, što upućuje na pogrešno otisnutu oznaku zone. ` : ''}Karta: world-atlas 1:50 m (Natural Earth), na kojoj manji otoci nisu ucrtani; gradovi su orijentiri.`,
+          `the coordinates are read from the acts’ text (Gauss-Krüger projection, zones 5 and 6, Bessel ellipsoid) and converted to latitude and longitude without a datum shift, which does not move a dot at this scale; the dot is the mean of all the act’s points. ${drop.length ? `Not on the map: ${drop.map(d => `cadastral municipality ${d[1]} (${d[0]})`).join(', ')}, whose coordinates fall in the open sea, which points to a misprinted zone digit. ` : ''}Map: world-atlas 1:50m (Natural Earth), which leaves out the smaller islands; the towns are landmarks.`));
+      table(el, [t('year'), L('Akata', 'Acts'), L('s koordinatama', 'with coordinates')], yrs.filter(r => r.geo + r.txt).map(r => [String(r.y), r.geo + r.txt, r.geo]));
+    }
+  };
+});
+
+// reading order (chart numbers follow it)
+const ORDER = ['p1', 'c01', 'c02', 'c03', 'c04', 'c05', 'c06', 'p2', 'c07', 'c08', 'c09', 'c10', 'c11', 'c12', 'p3', 'c13', 'c14', 'c15', 'p4', 'c16', 'c17', 'p5', 'c18', 'c19', 'c20'];
+CH.sort((a, b) => ORDER.indexOf(a.id) - ORDER.indexOf(b.id));
+
+// ------------------------------------------------------------------ page
+function profileTable() {
+  const P = PF, el = d3.select('#profile').html('');
+  const rows = [
+    [L('Povijest gita', 'Git history'), 'git log origin/main', fmt(P.commits), L(`svaki akt ulazi jednim commitom pod svojim imenom, s danom objave (Published) i stupanja na snagu (In-force); zadnja promjena na snazi ${P.last_in_force}`, `every act enters as one commit in its own name, with the days it was published (Published) and took effect (In-force); last change in force ${P.last_in_force}`), L('commit je datiran danom stupanja na snagu, ne danom objave', 'a commit is dated by the day it took effect, not the day it was published')],
+    [L('Akti službenog dijela Narodnih novina', 'Acts of the official part of Narodne novine'), srcTxt('<vrsta>/<godina>/<broj>/'), fmt(P.acts_repo), L(`zakoni, uredbe, pravilnici, odluke i drugo od 1990.; uz njih ${fmt(P.zak)} zakona iz ranije izrade (data/zakoni.json)`, `laws, decrees, rules, decisions and others since 1990; plus ${fmt(P.zak)} laws of the earlier build (data/zakoni.json)`), L('akt je kako je prvi put tiskan; izmjene nisu unesene u tekst', 'each act is as first printed; later changes are not applied to its text')],
+    [L('Zadržani akti', 'Acts held back'), 'data/held.json', fmt(P.held), L('akti istih vrsta koje repozitorij zadržava izvan glavne grane (slike, nečitljiv dan stupanja na snagu…)', 'acts of the same kinds the repository holds back from main (pictures, unreadable in-force day…)'), L('imaju broj i naslov, ali ne i tekst', 'they have a number and a title, but no text')],
+    [L('Popis akata s vezama', 'List of acts with links'), 'registry/data/acts.json', fmt(P.acts_repo - P.acts_unlinked), L('stanje i kasniji akti koji mijenjaju, ukidaju, zamjenjuju ili citiraju svaki akt', 'status, and the later acts that amend, repeal, replace or cite each act'), L(`${fmt(P.acts_unlinked)} akata dodanih poslije popisa još nema veze`, `${fmt(P.acts_unlinked)} acts added after the list have no links yet`)],
+    [L('Ustav', 'The Constitution'), 'ustav/', fmt(P.ustav_versions), L('pročišćeni tekstovi 1990., 1997., 2000., 2001., 2010. i 2013.', 'consolidated texts of 1990, 1997, 2000, 2001, 2010 and 2013'), L('verzija je pročišćeni tekst, a ne riječi akta o promjeni', 'a version is the consolidated text, not the amending act’s words')],
+    [L('Međunarodni ugovori', 'International treaties'), 'medunarodni/', fmt(P.treaties), '1992–2026', L('akti o potvrđivanju i objavi', 'the ratifying and publishing acts')],
+    [L('Ispravci', 'Corrections'), 'data/ispravci.csv', fmt(P.corrections), '1990–2026', L('ispravci teksta objavljenih akata', 'corrections of printed text')],
+    [L('Ukidanja Ustavnog suda', 'Constitutional Court repeals'), 'data/ustavni-sud-ukidanja.csv', fmt(P.repeal_points), L('točke izreke odluka objavljenih u Narodnim novinama', 'operative points of decisions printed in Narodne novine'), L('prikupljanje traje', 'still being collected')],
+    [L('Rezultati izbora', 'Election results'), 'izbori/', fmt(P.izbori), L('Sabor 2003.–2024., predsjednik, Europski parlament', 'Sabor 2003–2024, President, European Parliament'), L('graf 15 koristi izbore za Sabor', 'chart 15 uses the elections to the Sabor')],
+    [L('Sudska praksa', 'Case law'), 'caselaw/', fmt(P.court_db + P.vrhovni), L(`Ustavni sud ${fmt(P.court_db)}, Vrhovni sud ${fmt(P.vrhovni)} (1990.–1997.)`, `Constitutional Court ${fmt(P.court_db)}, Supreme Court ${fmt(P.vrhovni)} (1990–1997)`), L('učitavanje traje; nije u grafikonima', 'being loaded; not charted')],
+    [L('Lokalni propisi', 'Local acts'), 'local/', fmt(P.local_acts), L(`${P.local_units} jedinica Primorsko-goranske županije, 2024. i 2026.`, `${P.local_units} units of Primorje-Gorski Kotar County, 2024 and 2026`), L('pilot; nije u grafikonima', 'a pilot; not charted')],
+  ];
+  const tb = el.append('table');
+  tb.append('thead').append('tr').selectAll('th').data([t('ds'), t('src'), t('n'), t('cover'), t('caveat')]).join('th').text(d => d);
+  tb.append('tbody').selectAll('tr').data(rows).join('tr').selectAll('td').data(r => r).join('td').html((v, i) => i === 1 ? `<code>${esc(v)}</code>` : esc(v));
+}
+// a label that runs past the edge of its chart's card would be cut: report it (the charts size their columns to their labels)
+function checkLeftLabels(fig) {
+  const fr = fig.node().getBoundingClientRect();
+  fig.selectAll('svg text').each(function () {
+    const r = this.getBoundingClientRect();
+    if (r.width && (r.left < fr.left - 0.5 || r.right > fr.right + 0.5)) console.warn('label outside its chart', fig.attr('id'), this.textContent);
+  });
+}
+function render() {
+  HATCH = 0;
+  document.documentElement.lang = LANG;
+  document.title = t('title');
+  d3.selectAll('[data-i]').each(function () { this.textContent = t(this.dataset.i); });
+  document.getElementById('gl-link').innerHTML = t('gl');
+  d3.selectAll('[data-lang]').attr('aria-pressed', function () { return String(this.dataset.lang === LANG); });
+  d3.selectAll('[data-theme-set]').attr('aria-pressed', function () { return String(this.dataset.themeSet === THEME); });
+  const tv = [[fmt(PF.commits), L('commitova u povijesti', 'commits in the history')], [fmt(PF.acts), L('akata službenog dijela Narodnih novina', 'acts of the official part of Narodne novine')],
+    [fmt(PF.laws), L('zakona od 1990.', 'laws since 1990')], [fmt(PF.treaties), L('akata o međunarodnim ugovorima', 'treaty acts')], [fmt(PF.corrections), L('ispravaka', 'corrections')], [fmt(PF.ustav_versions), L('verzija Ustava', 'versions of the Constitution')]];
+  d3.select('#tiles').html('').selectAll('div').data(tv).join('div').attr('class', 'tile').html(d => `<b>${d[0]}</b><span>${d[1]}</span>`);
+  profileTable();
+  const main = d3.select('#main').html(''), toc = d3.select('#toc').html('');
+  let sec = null, n = 0;
+  CH.forEach(c => {
+    if (c.part) {
+      sec = main.append('section').attr('class', 'part').attr('id', c.id);
+      sec.append('h2').text(L(c.hr, c.en)); sec.append('p').attr('class', 'pd').text(L(c.dhr, c.den));
+      toc.append('a').attr('class', 'p').attr('href', '#' + c.id).text(L(c.hr, c.en));
+      return;
+    }
+    n++;
+    const fig = sec.append('figure').attr('class', 'chart').attr('id', c.id);
+    let spec;
+    try { spec = c.fn(fig); } catch (e) { fig.append('p').attr('class', 'note').text('Error: ' + e.message); console.error(c.id, e); return; }
+    const dots = s => s.replace(/(\d)\.\.(?=\s|$)/g, '$1.');     // a Croatian ordinal year ending a sentence takes one dot
+    const h3 = fig.append('h3'); h3.append('span').attr('class', 'no').text(n + '.'); h3.append('span').text(dots(spec.title));
+    fig.append('p').attr('class', 'dek').text(dots(spec.dek));
+    try { spec.draw(fig); } catch (e) { fig.append('p').attr('class', 'note').text('Error: ' + e.message); console.error(c.id, e); }
+    checkLeftLabels(fig);
+    fig.select('svg').attr('aria-label', spec.title);
+    toc.append('a').attr('href', '#' + c.id).text(`${n}. ${spec.toc || spec.title.split(/:\s/)[0]}`);
+  });
+  d3.select('#foot').text(t('foot').replace('{built}', dateTxt(PF.built) + (PF.head ? ', ' + PF.head.slice(0, 10) : '')));
+}
+d3.selectAll('[data-lang]').on('click', function () { LANG = this.dataset.lang; try { localStorage.setItem('hr-viz-lang', LANG); } catch (e) {} render(); });
+d3.selectAll('[data-theme-set]').on('click', function () {
+  THEME = this.dataset.themeSet;
+  if (THEME === 'auto') document.documentElement.removeAttribute('data-theme'); else document.documentElement.setAttribute('data-theme', THEME);
+  try { localStorage.setItem('hr-viz-theme', THEME); } catch (e) {}
+  render();
+});
+if (THEME !== 'auto') document.documentElement.setAttribute('data-theme', THEME);
+try { matchMedia('(prefers-color-scheme: dark)').addEventListener('change', () => { if (THEME === 'auto') render(); }); } catch (e) {}
+let lastW = innerWidth, rt;
+addEventListener('resize', () => { if (Math.abs(innerWidth - lastW) < 40) return; clearTimeout(rt); rt = setTimeout(() => { lastW = innerWidth; const y = scrollY; render(); scrollTo(0, y); }, 200); });
+render();
+// labels are measured as they are drawn: draw again when the web fonts have loaded, so the measures are the fonts' own
+let ft;
+const redraw = () => { clearTimeout(ft); ft = setTimeout(() => { const y = scrollY; render(); scrollTo(0, y); }, 120); };
+const T0 = Date.now();
+if (document.fonts) { if (document.fonts.status !== 'loaded') document.fonts.ready.then(redraw); document.fonts.addEventListener('loadingdone', () => { if (Date.now() - T0 < 15000) redraw(); }); }
+</script>
+</body>
+</html>

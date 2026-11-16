@@ -99,7 +99,13 @@ Ovo je prijevod engleske verzije ([README.en.md](README.en.md)); ako se razlikuj
 
 ## Vizualizacije
 
-[visualisations/](visualisations/): grafikoni o hrvatskom pravu, nacrtani iz ovog repozitorija. Zasad je to rezervirano mjesto: grafikoni još nisu nacrtani.
+[visualisations/](visualisations/): Hrvatsko pravo u 20 grafikona, nacrtanih iz ovog repozitorija.
+
+Uključujući:
+
+- koliko akata izlazi u Narodnim novinama, o čemu su zakoni i kad Vlada mijenja zakone uredbom
+- kada zakoni stupaju na snagu, koji se zakoni najčešće mijenjaju i kako se mijenjao Ustav
+- pravo EU u zakonima, s kim Hrvatska sklapa međunarodne ugovore i minimalna plaća u tri valute
 
 ## Više
 

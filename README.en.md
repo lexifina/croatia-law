@@ -95,7 +95,13 @@ No AI model wrote or changed legal text; the scripts were written by an AI model
 
 ## Visualisations
 
-[visualisations/](visualisations/): charts on Croatian law, drawn from this repository. For now this is a placeholder: the charts have not been drawn yet.
+[visualisations/](visualisations/): Croatian law in 20 charts, drawn from this repository.
+
+Including:
+
+- how many acts Narodne novine prints, what the laws are about, and when the Government amends laws by decree
+- when laws take effect, which laws are amended most, and how the Constitution changed
+- EU law in the laws, who Croatia makes treaties with, and the minimum wage in three currencies
 
 ## More
 
